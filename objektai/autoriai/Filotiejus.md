@@ -73,7 +73,13 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
     (prie Pskovo) vienuolis Filotiejus. Žr. A. Lazar :** **_Maskva_** **-** **_treci Rim,_** **žur­
     nale Božym Šlacham, 1948, 9-10 nr., 5-8 p. ; A. Ammann:** **_Abriß der ost­
     slawischen Kirchengeschichte,_** **Wien 1950, 165p.
-  citata_rodoma: "Jonas\nIII-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsisąmo­\nnino savo politinėje programoje, jog reikia iš Lietuvos jėga atimti^11\n\n(^11) **Taip rašė savo laiške Vosyliui III (1505-1533) Eleazaro vienuolyno\n(prie Pskovo) vienuolis Filotiejus. Žr."
+  citata_rodoma: |
+    Jonas
+    III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsisąmo­
+    nino savo politinėje programoje, jog reikia iš Lietuvos jėga atimti^11
+
+    (^11) **Taip rašė savo laiške Vosyliui III (1505-1533) Eleazaro vienuolyno
+    (prie Pskovo) vienuolis Filotiejus. Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

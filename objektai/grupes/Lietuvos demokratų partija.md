@@ -107,7 +107,10 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
     Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
     tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
     1902 m. „Varpą“ leidusios organizacijos pagrindu.
-  citata_rodoma: "Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių\ntautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi\n1902 m. „Varpą“ leidusios organizacijos pagrindu."
+  citata_rodoma: |
+    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
+    tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
+    1902 m. „Varpą“ leidusios organizacijos pagrindu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +132,11 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
     socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
     bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
     nės veikėjais, tačiau bendros kalbos nerado.
-  citata_rodoma: "Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos\nsocialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-\nbingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-\nnės veikėjais, tačiau bendros kalbos nerado."
+  citata_rodoma: |
+    Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos
+    socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
+    bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
+    nės veikėjais, tačiau bendros kalbos nerado.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

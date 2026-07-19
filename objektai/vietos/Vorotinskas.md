@@ -78,7 +78,12 @@ media_all_json: |-
     monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
     kunigaikščiai. Jie pasižadėjo duoti karo paramos net prieš bu­
     vusį savo protektorių Didž.
-  citata_rodoma: "Tos ke­\nlionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­\nmonijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.\nkunigaikščiai. Jie pasižadėjo duoti karo paramos net prieš bu­\nvusį savo protektorių Didž."
+  citata_rodoma: |
+    Tos ke­
+    lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­
+    monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
+    kunigaikščiai. Jie pasižadėjo duoti karo paramos net prieš bu­
+    vusį savo protektorių Didž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -97,7 +102,11 @@ media_all_json: |-
     aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
     Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
     kunigaikštijos^2 ).
-  citata_rodoma: "Tuo pat metu jis praplėtė savo valdžią Okos\naukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,\nMcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.\nkunigaikštijos^2 )."
+  citata_rodoma: |
+    Tuo pat metu jis praplėtė savo valdžią Okos
+    aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
+    Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
+    kunigaikštijos^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -280,7 +280,23 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     Užsakymas
     „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
     Spausdino UAB „Logotipas", Utenos g. 41a, LT-08217 Vilnius.
-  citata_rodoma: "45\n\n## Puslapis 494\n\nMykolas Balinskis \nVILNIAUS MIESTO ISTORIJA\nIš lenkų kalbos vertė \nOna Slavėnaitė, Irena Katilienė \nIš lotynų kalbos vertė \nJūratė Dalia Baronienė\nRedaktorė Skirmantė Ramanauskaitė \nMeninis redaktorius Romas Dubonis \nMaketuotoja Danutė Navickienė\nUžsakymas\n„Minties\" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius. \nSpausdino UAB „Logotipas\", Utenos g. 41a, LT-08217 Vilnius."
+  citata_rodoma: |
+    45
+
+    ## Puslapis 494
+
+    Mykolas Balinskis
+    VILNIAUS MIESTO ISTORIJA
+    Iš lenkų kalbos vertė
+    Ona Slavėnaitė, Irena Katilienė
+    Iš lotynų kalbos vertė
+    Jūratė Dalia Baronienė
+    Redaktorė Skirmantė Ramanauskaitė
+    Meninis redaktorius Romas Dubonis
+    Maketuotoja Danutė Navickienė
+    Užsakymas
+    „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
+    Spausdino UAB „Logotipas", Utenos g. 41a, LT-08217 Vilnius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -318,7 +334,12 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje. Į J. Lele­
     velio skatinimą parašyti daugiatomę miesto istoriją atsakė manąs
     parašyti „tris, o gal keturis tomus"4.
-  citata_rodoma: "Laiške Joachi­\nmui Leleveliui M. Balinskis prisipažįsta, kad Vilniaus miesto is­\ntorijos pirmąjį tomą baigė rašyti 1825 metų pradžioje. Į J. Lele­\nvelio skatinimą parašyti daugiatomę miesto istoriją atsakė manąs \nparašyti „tris, o gal keturis tomus\"4."
+  citata_rodoma: |
+    Laiške Joachi­
+    mui Leleveliui M. Balinskis prisipažįsta, kad Vilniaus miesto is­
+    torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje. Į J. Lele­
+    velio skatinimą parašyti daugiatomę miesto istoriją atsakė manąs
+    parašyti „tris, o gal keturis tomus"4.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -347,7 +368,14 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     Andrius, Druško kunigaikštis 148
     Rodyklė apima įvadą bei M. Balinskio
     veikalo vertimą.
-  citata_rodoma: "An­\ndrius, Vilniaus vyskupas \nAndrius Vaidotas žr. Vaidotas, Kęs­\ntučio sūnus\nAndrius, Druško kunigaikštis 148\nRodyklė apima įvadą bei M. Balinskio\nveikalo vertimą."
+  citata_rodoma: |
+    An­
+    drius, Vilniaus vyskupas
+    Andrius Vaidotas žr. Vaidotas, Kęs­
+    tučio sūnus
+    Andrius, Druško kunigaikštis 148
+    Rodyklė apima įvadą bei M. Balinskio
+    veikalo vertimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -367,7 +395,13 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
     nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
     Malevskiui už gausius išrašus iš Lietuvos Metrikos.
-  citata_rodoma: "Kita vertus, pirmoje \ndalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­\ndra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­\ntarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­\nnui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui \nMalevskiui už gausius išrašus iš Lietuvos Metrikos."
+  citata_rodoma: |
+    Kita vertus, pirmoje
+    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
+    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
+    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
+    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
+    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -503,7 +537,39 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     grobuoniško
     Prūsijos Kryžiuočių
     ordino.
-  citata_rodoma: "Čiurlionis ir E. M unchas:_ Melancholija ir šviesa\nStasys Šalkauskis \nRaštai, IX tomas\nVincas Vyčinas \nRaštai, III tomas\n\n## Puslapis 496\n\nMYKOLAS BALINSKIS\ngalingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki \nmūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras \nLietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • - \nkronikų ir senųjų, archyvuose saugomų rankraščių išrinkti \npadavimus, bylojančius apie Vilniaus kilmę, tas teises ir \ndaugybę privilegijų^ kuriomis'j o gyv \nnaudojosi, ne tik atgaivinti amžinin \nnius, keleto amžių, įvykius toje sosti \nir galimybės man leido, prisidt \nLietuvos istorijos įvykių aiškinim \nmums patiems, o Europai visai neg \n• riterių žygiais ir išmintingiausia Mindaugo, Gedimino, \nAlgirdo, Kęstučio, Jogailos ir Vytauto politika, \nistorija menkame plote išsitenkančios Tautos, \nkuri pati viena, savosios pagonybės atskirta \nnuo kitų Europos šalių, vien savo \nnarsos dėka įstengė atremti bai­\nsius mongolų antpuolius, \npažaboti Rusią ir nesileisti \npavergiama godžiai \ngrobuoniško \nPrūsijos Kryžiuočių \nordino."
+  citata_rodoma: |
+    Čiurlionis ir E. M unchas:_ Melancholija ir šviesa
+    Stasys Šalkauskis
+    Raštai, IX tomas
+    Vincas Vyčinas
+    Raštai, III tomas
+
+    ## Puslapis 496
+
+    MYKOLAS BALINSKIS
+    galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
+    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras
+    Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • -
+    kronikų ir senųjų, archyvuose saugomų rankraščių išrinkti
+    padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
+    daugybę privilegijų^ kuriomis'j o gyv
+    naudojosi, ne tik atgaivinti amžinin
+    nius, keleto amžių, įvykius toje sosti
+    ir galimybės man leido, prisidt
+    Lietuvos istorijos įvykių aiškinim
+    mums patiems, o Europai visai neg
+    • riterių žygiais ir išmintingiausia Mindaugo, Gedimino,
+    Algirdo, Kęstučio, Jogailos ir Vytauto politika,
+    istorija menkame plote išsitenkančios Tautos,
+    kuri pati viena, savosios pagonybės atskirta
+    nuo kitų Europos šalių, vien savo
+    narsos dėka įstengė atremti bai­
+    sius mongolų antpuolius,
+    pažaboti Rusią ir nesileisti
+    pavergiama godžiai
+    grobuoniško
+    Prūsijos Kryžiuočių
+    ordino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -525,7 +591,14 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     dinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­
     perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
     mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
-  citata_rodoma: "1841 m. jis tapo vienu iš enciklopedinio \npobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir \nJ. Sniadeckių biografijas, parengė jų darbų rinktines, parašė \napie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­\ndinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­\nperniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­\nmus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį."
+  citata_rodoma: |
+    1841 m. jis tapo vienu iš enciklopedinio
+    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
+    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
+    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
+    dinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­
+    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
+    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -546,7 +619,13 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
     rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
     dešimtmetyje.
-  citata_rodoma: "Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta \nWarszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti \nstraipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­\ntingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū- \nrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a. \ndešimtmetyje."
+  citata_rodoma: |
+    Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
+    Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti
+    straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­
+    tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
+    rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
+    dešimtmetyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -571,7 +650,13 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     pagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas,
     kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­
     zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.
-  citata_rodoma: "Balinskio asmenybė yra \nneblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, \npadėjusia ateinančioms kartoms formuoti istorinės savimonės \npagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas, \nkitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­\nzės vengdavęs rašyti apie vieną ar kitą istorinį įvykį."
+  citata_rodoma: |
+    Balinskio asmenybė yra
+    neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga,
+    padėjusia ateinančioms kartoms formuoti istorinės savimonės
+    pagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas,
+    kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­
+    zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

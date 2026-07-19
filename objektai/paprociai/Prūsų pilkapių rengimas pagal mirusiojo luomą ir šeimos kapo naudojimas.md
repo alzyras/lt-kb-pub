@@ -160,7 +160,16 @@ Nenurodyta
     nuo metalo oksidacijos: matyt, mirusysis buvo su galvos ap­
     dangalu, papuoštu vario arba sidabro gabaliukais; jų likučių
     nepastebėjome.
-  citata_rodoma: "Aplink visą pilkapį ratu eina didokų\nakmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­\ntinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­\nnų eilės, nukreiptos nuo viršūnės tiesiai į apačią. Vieta, kurio­\nje stovėdavo urna, beveik visuomet yra pietų pusėje, priešais\nugniaviete, skirtą deginti; vieta dailiai apdėta kyšančiais ak­\nmenimis ir gerai apsaugota, kad urnos viduje niekas nesuges­\ntų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk\nVIII lentelės« raidę)."
+  citata_rodoma: |
+    Aplink visą pilkapį ratu eina didokų
+    akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
+    tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
+    nų eilės, nukreiptos nuo viršūnės tiesiai į apačią. Vieta, kurio­
+    je stovėdavo urna, beveik visuomet yra pietų pusėje, priešais
+    ugniaviete, skirtą deginti; vieta dailiai apdėta kyšančiais ak­
+    menimis ir gerai apsaugota, kad urnos viduje niekas nesuges­
+    tų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk
+    VIII lentelės« raidę).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

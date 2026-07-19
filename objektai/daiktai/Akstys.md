@@ -88,10 +88,13 @@ Nenurodyta
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
-    It^1328 arti susirėmus, kibo į brūklius rendėtinius, ant galo puolė ant neprieteliaus su akmeniniais kirviais
-        arba, aiškiau sakant, kūjais ir kalavijais bei akstimis^1329 , kurių galuose taip pat buvo įtaisyti aštrūs
-        akmenys iečių vietoje.
-  citata_rodoma: "It^1328 arti susirėmus, kibo į brūklius rendėtinius, ant galo puolė ant neprieteliaus su akmeniniais kirviais\narba, aiškiau sakant, kūjais ir kalavijais bei akstimis^1329 , kurių galuose taip pat buvo įtaisyti aštrūs\nakmenys iečių vietoje."
+    It^1328 arti susirėmus, kibo į brūklius rendėtinius,
+    ant galo puolė ant neprieteliaus su akmeniniais kirviais arba, aiškiau sakant, kūjais ir kalavijais bei
+    akstimis^1329 , kurių galuose taip pat buvo įtaisyti aštrūs akmenys iečių vietoje.
+  citata_rodoma: |
+    It^1328 arti susirėmus, kibo į brūklius rendėtinius,
+    ant galo puolė ant neprieteliaus su akmeniniais kirviais arba, aiškiau sakant, kūjais ir kalavijais bei
+    akstimis^1329 , kurių galuose taip pat buvo įtaisyti aštrūs akmenys iečių vietoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -104,9 +107,11 @@ Nenurodyta
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
-    Tokias akstis dėvėjo dar 10 amžiuje, nesgi šv. Vaitiekų, Parusy krikščonų mokslą skelbiantį, žynys ta
-        aksčia permovė^1330.
-  citata_rodoma: "Tokias akstis dėvėjo dar 10 amžiuje, nesgi šv. Vaitiekų, Parusy krikščonų mokslą skelbiantį, žynys ta\naksčia permovė^1330."
+    Tokias akstis dėvėjo dar
+    10 amžiuje, nesgi šv. Vaitiekų, Parusy krikščionų mokslą skelbiantį, žynys ta aksčia permovė^1330
+  citata_rodoma: |
+    Tokias akstis dėvėjo dar
+    10 amžiuje, nesgi šv. Vaitiekų, Parusy krikščionų mokslą skelbiantį, žynys ta aksčia permovė^1330
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

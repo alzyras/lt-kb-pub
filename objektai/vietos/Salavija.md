@@ -155,7 +155,13 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
     nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
     bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
     tas, t. y. Pusnė.
-  citata_rodoma: "Salavija\nVienuolikta Prūsijos provincija buvo Salavija, Scha-\nlaueri. Jos sienas pažymėti yra labai sunku. Kadangi se­\nnais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,\nbet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­\ntas, t. y. Pusnė."
+  citata_rodoma: |
+    Salavija
+    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
+    laueri. Jos sienas pažymėti yra labai sunku. Kadangi se­
+    nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
+    bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
+    tas, t. y. Pusnė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

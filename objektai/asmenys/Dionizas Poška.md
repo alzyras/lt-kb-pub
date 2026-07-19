@@ -186,7 +186,13 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
     kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
     poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
     timi.
-  citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
+  citata_rodoma: |
+    Manoma, kad tuo metu jau buvo parašyti
+    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
+    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
+    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
+    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
+    metų ir nebuvo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

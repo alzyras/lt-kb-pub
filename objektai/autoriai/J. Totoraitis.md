@@ -69,7 +69,9 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
     1940.
     ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
     1938.
-  citata_rodoma: "ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas\n1938."
+  citata_rodoma: |
+    ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
+    1938.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

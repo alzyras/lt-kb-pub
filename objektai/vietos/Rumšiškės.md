@@ -61,7 +61,8 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
     buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros
     draugijos, legalizuoti etnografiniai tyrimai, leista kurti folkloro ansam-
     blius.
-  citata_rodoma: "buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros"
+  citata_rodoma: |
+    buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

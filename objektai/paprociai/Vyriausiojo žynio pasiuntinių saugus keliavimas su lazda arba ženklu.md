@@ -139,7 +139,16 @@ Nenurodyta
     bartinis lamaizmas, atrodo, nemažai panašus į senovės budiz­
     mą, kurio principų dalį savyje išsaugojo senasis lietuvių tikė­
     jimas.
-  citata_rodoma: "Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­\nviai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­\ntoritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir\njo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­\ngiai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­\ndavo karalių, ponų ir prastuomenės didžios pagarbos.\nDusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­\nnį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­\nsiasis krikščionių valdovas; tai mes ir pažymėjome."
+  citata_rodoma: |
+    Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
+    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
+    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
+    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
+    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
+    davo karalių, ponų ir prastuomenės didžios pagarbos.
+    Dusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­
+    nį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­
+    siasis krikščionių valdovas; tai mes ir pažymėjome.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -186,7 +186,10 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     kraštas, matyt tebegyveno giminių gyvenimą, o kai­
     myninės tautos tuo tarpu jau buvo susiorganizavusios į gana
     stambius vienetus.
-  citata_rodoma: "Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­\ntijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako\n1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )"
+  citata_rodoma: |
+    Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­
+    tijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako
+    1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -284,7 +287,10 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     kraštas, matyt tebegyveno giminių gyvenimą, o kai­
     myninės tautos tuo tarpu jau buvo susiorganizavusios į gana
     stambius vienetus.
-  citata_rodoma: "Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­\ntijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako\n1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )"
+  citata_rodoma: |
+    Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­
+    tijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako
+    1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -321,7 +327,15 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     finia Culmensia [Dobrynės žemė ir
     kaimyninės Kulmo žemės] kentė­
     jo per tą antpuolį.
-  citata_rodoma: "h\nD u s b. c. 399, mini tik pačią Dobry­\nnės kunigaikštystę, bet viename do­\nkumente Slapt. arch. Spinta XI, Nr. \n18 sakoma: terra Dobrynensis et con­\nfinia Culmensia [Dobrynės žemė ir \nkaimyninės Kulmo žemės] kentė­\njo per tą antpuolį."
+  citata_rodoma: |
+    h
+    D u s b. c. 399, mini tik pačią Dobry­
+    nės kunigaikštystę, bet viename do­
+    kumente Slapt. arch. Spinta XI, Nr.
+    18 sakoma: terra Dobrynensis et con­
+    finia Culmensia [Dobrynės žemė ir
+    kaimyninės Kulmo žemės] kentė­
+    jo per tą antpuolį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -140,7 +140,11 @@ Nenurodyta
     bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
     žemės dovanojimo charakterio, apimties ir t. t.142
     Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas.
-  citata_rodoma: "Čia Dusburgietis pateikia oficialią\nOrdino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,\njog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos\nkunigaikštis jau buvo miręs."
+  citata_rodoma: |
+    Čia Dusburgietis pateikia oficialią
+    Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
+    jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
+    kunigaikštis jau buvo miręs.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -141,7 +141,20 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
     ir užsimušė. Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
     nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
     turėjome keliauti ten, kur amžinos linksmybės“.
-  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais\n\n  Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.\n\n\n\n\n         272 (265)."
+  citata_rodoma: |
+    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+
+      Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+
+
+
+
+             272 (265).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -198,7 +211,21 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
     Prūsiją; be paliovos puldinėjant lengvai ginkluotomis
     jėgomis, šių dviejų kraštų riteriai veikiau buvo erzi­
     nami nei naikinami.
-  citata_rodoma: "Kai\nNemune vyko šios laivų grumtynės, šeši šimtai raite­\nlių įsiveržė į Prūsiją ir, nuniokoję pražygiuojamus kai­\nmus, įvarė baimės aplinkinėms žemėms, nes kaimiečiai\nnežinojo, kuria kryptimi ir kokiomis jėgomis priešas\npuls. Kunonas, gavęs žinią apie priešą, spėjo, jog šie\nbraunasi į Notangą (mat ši buvo arčiausiai); tada sku­\nbiai patraukė su būriu į šalį ir, parinkęs gerą vietą\npasaloms, pradėjo laukti jų pasirodant. Be abejonės,\nlietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­\nmi, būtų patekę į šias pasalas, tačiau, laiku sužinoję\nper žvalgus apie klastą, tol tūnojo nesirodydami miš­\nkų tankmėse, kol Kunonas, pamanęs, jog jie jau bus\npasitraukę ir aplink visur saugu, paleido kariuomenę."
+  citata_rodoma: |
+    Kai
+    Nemune vyko šios laivų grumtynės, šeši šimtai raite­
+    lių įsiveržė į Prūsiją ir, nuniokoję pražygiuojamus kai­
+    mus, įvarė baimės aplinkinėms žemėms, nes kaimiečiai
+    nežinojo, kuria kryptimi ir kokiomis jėgomis priešas
+    puls. Kunonas, gavęs žinią apie priešą, spėjo, jog šie
+    braunasi į Notangą (mat ši buvo arčiausiai); tada sku­
+    biai patraukė su būriu į šalį ir, parinkęs gerą vietą
+    pasaloms, pradėjo laukti jų pasirodant. Be abejonės,
+    lietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­
+    mi, būtų patekę į šias pasalas, tačiau, laiku sužinoję
+    per žvalgus apie klastą, tol tūnojo nesirodydami miš­
+    kų tankmėse, kol Kunonas, pamanęs, jog jie jau bus
+    pasitraukę ir aplink visur saugu, paleido kariuomenę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

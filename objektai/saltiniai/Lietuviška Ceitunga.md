@@ -53,7 +53,11 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
     ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
     jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-
     čių panašūs bandymai.
-  citata_rodoma: "Bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas,\nir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be\njokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-\nčių panašūs bandymai."
+  citata_rodoma: |
+    Bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas,
+    ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
+    jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-
+    čių panašūs bandymai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

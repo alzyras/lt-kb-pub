@@ -60,12 +60,17 @@ Leidinio pastaba Michailą Borisovičių vadina paskutiniu savarankišku Tverės
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    ” Michailas Borisovičius (1453 — apie 1505 m.) — paskutinis sa­
-    varankiškas Tverės didysis kunigaikštis (nuo 1461 m.) 1483 m. bu­
+    ”  Michailas Borisovičius (1453 — apie 1505 m.) — paskutinis sa­
+    varankiškas T verės didysis kunigaikštis (nuo 1461 m.) 1483 m. bu­
     vo sudarus savitarpio pagalbos sutarti su LDK. Baigė gyvenimų
     Lietuvoje kaip politinis emigrantas, kur jam buvo duotas Losos-
     nos dv. Slonimo krašte ir Pečichvostų dv. Lucko paviete.
-  citata_rodoma: "”  Michailas Borisovičius (1453 — apie 1505 m.) — paskutinis sa­\nvarankiškas T verės didysis kunigaikštis (nuo 1461 m.) 1483 m. bu­\nvo sudarus savitarpio pagalbos sutarti su LDK. Baigė gyvenimų \nLietuvoje kaip politinis emigrantas, kur jam buvo duotas Losos- \nnos dv. Slonimo krašte ir Pečichvostų dv. Lucko paviete."
+  citata_rodoma: |
+    ”  Michailas Borisovičius (1453 — apie 1505 m.) — paskutinis sa­
+    varankiškas T verės didysis kunigaikštis (nuo 1461 m.) 1483 m. bu­
+    vo sudarus savitarpio pagalbos sutarti su LDK. Baigė gyvenimų
+    Lietuvoje kaip politinis emigrantas, kur jam buvo duotas Losos-
+    nos dv. Slonimo krašte ir Pečichvostų dv. Lucko paviete.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

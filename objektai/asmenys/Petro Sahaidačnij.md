@@ -60,7 +60,12 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
 
     Petro Sahaidačnij vadovaujamų Ukrainos
     kazokų.
-  citata_rodoma: "Vėliau prie J. K. Chodkevičiaus pajėgų\nprisijungė dar apie 25 tūkst. etmono\n\nPetro Sahaidačnij vadovaujamų Ukrainos\nkazokų."
+  citata_rodoma: |
+    Vėliau prie J. K. Chodkevičiaus pajėgų
+    prisijungė dar apie 25 tūkst. etmono
+
+    Petro Sahaidačnij vadovaujamų Ukrainos
+    kazokų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

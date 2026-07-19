@@ -74,7 +74,11 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     (1273—1282 m.) valdymo laikotarpiu — magistro kanceliarijoje ir jo įsakymu, juo
     siekiama įtvirtinti Ordino tradiciją tarp pačių Ordino brolių, o galbūt ir tarp atvykstančių
     talkininkų.
-  citata_rodoma: "Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė\nsu Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus\ndvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas\npo kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje."
+  citata_rodoma: |
+    Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
+    su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus
+    dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas
+    po kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

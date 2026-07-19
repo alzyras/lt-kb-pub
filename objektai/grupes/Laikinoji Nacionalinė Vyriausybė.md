@@ -74,7 +74,14 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
     vasario 1 d. paskelbė Lietuvos Provincijos
     komitetas, pasivadinęs Laikinąja
     Vyriausybe Lietuvoje.
-  citata_rodoma: "Sukilimo pradžia\nSausio 22 d. Lenkijoje prasidėjo sukili-\nmas. Varšuvoje įsikūręs sukilimo rengimo\nNacionalinis Centro komitetas, pasiva-\ndinęs Laikinąja Nacionaline Vyriausybe,\npakvietė sukilėlius pradėti karinius veiks-\nmus visoje buvusioje Lenkijos karalystėje."
+  citata_rodoma: |
+    Sukilimo pradžia
+    Sausio 22 d. Lenkijoje prasidėjo sukili-
+    mas. Varšuvoje įsikūręs sukilimo rengimo
+    Nacionalinis Centro komitetas, pasiva-
+    dinęs Laikinąja Nacionaline Vyriausybe,
+    pakvietė sukilėlius pradėti karinius veiks-
+    mus visoje buvusioje Lenkijos karalystėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

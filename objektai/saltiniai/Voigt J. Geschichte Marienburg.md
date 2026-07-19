@@ -73,7 +73,8 @@ Dusburgietis teigia, kad voigt J.
     с. 3—8.
     Охманьский Е. Иноземные поселения в Литве XIII—XIV вв. в свете этнонимических
     местных названий.
-  citata_rodoma: "Voigt J. Geschichte Marienburg.— Königsberg, 1824."
+  citata_rodoma: |
+    Voigt J. Geschichte Marienburg.— Königsberg, 1824.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -61,7 +61,11 @@ media_all_json: |-
     lonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel­
     bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar­
     pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
-  citata_rodoma: "Jis turėjo tikslą garantuoti jaunutei krikščionių ko-\nlonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel-\nbėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar-\npe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe."
+  citata_rodoma: |
+    Jis turėjo tikslą garantuoti jaunutei krikščionių ko-
+    lonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel-
+    bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar-
+    pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

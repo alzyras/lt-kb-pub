@@ -117,7 +117,18 @@ Nenurodyta
     permaldavimo auką. Tačiau dažnai to nepakakdavo, Poklius
     nesiliaudavo gąsdinęs. Šitaip atsitikus, reikėdavo su didesnė­
     mis išlaidomis atnašauti aukas, ruošti vaišes, pamaldas, kurios 13 14
-  citata_rodoma: "6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­\ntukams, genijams ir visoms mitinėms būtybėms, gyvenančioms\npo žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų\napeiginis užkasimas giliai žemėje. Baigus atnašauti kitas au­\n314\n\n## Puslapis 314\n\nkas, tam būdavo panaudojami kaulai ir nesuvalgytos arba ne­\nsudegusios ant aukuro liekanos, taip pat moliniai indai, ku­\nriuos sudaužydavo."
+  citata_rodoma: |
+    6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­
+    tukams, genijams ir visoms mitinėms būtybėms, gyvenančioms
+    po žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų
+    apeiginis užkasimas giliai žemėje. Baigus atnašauti kitas au­
+    314
+
+    ## Puslapis 314
+
+    kas, tam būdavo panaudojami kaulai ir nesuvalgytos arba ne­
+    sudegusios ant aukuro liekanos, taip pat moliniai indai, ku­
+    riuos sudaužydavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

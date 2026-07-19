@@ -63,14 +63,21 @@ L XL Rusijos kariuomenė užgrobtoje Livonijoje.
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    SuLinGerg Sey Georg Bveytein, AM, D. L XL
+    L XL
     Rusijos kariuomenė užgrobtoje Livonijoje. Vokiško
     informacinio leidinio fragmentas, kuriame aprašomos
     baisybės, kurias teko patirti Livonijos gyventojams nuo
     įsiveržusios Maskvos kariuomenės
 
-    88 ULOS (ČAŠNIKŲ) MŪŠIS 1564 m. sausio 23 d.
-  citata_rodoma: "L XL\nRusijos kariuomenė užgrobtoje Livonijoje. Vokiško\ninformacinio leidinio fragmentas, kuriame aprašomos\nbaisybės, kurias teko patirti Livonijos gyventojams nuo\nįsiveržusios Maskvos kariuomenės\n\n88 ULOS (ČAŠNIKŲ) MŪŠIS 1564 m."
+    88 ULOS (ČAŠNIKŲ) MŪŠIS 1564 m.
+  citata_rodoma: |
+    L XL
+    Rusijos kariuomenė užgrobtoje Livonijoje. Vokiško
+    informacinio leidinio fragmentas, kuriame aprašomos
+    baisybės, kurias teko patirti Livonijos gyventojams nuo
+    įsiveržusios Maskvos kariuomenės
+
+    88 ULOS (ČAŠNIKŲ) MŪŠIS 1564 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

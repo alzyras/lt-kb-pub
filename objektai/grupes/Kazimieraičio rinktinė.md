@@ -66,7 +66,10 @@ media_all_json: |-
     Sovietams vėl okupavus Lietuvą, 1944 m. V. Voveriui su savo bendražygiais
     teko pasitraukti į pogrindį. 1948 m. jis buvo paskirtas Kazimieraičio rinktinės vadu,
     ėjo ir Dainavos apygardos vado pavaduotojo pareigas.
-  citata_rodoma: "Voveriui su savo bendražygiais\nteko pasitraukti į pogrindį. 1948 m. jis buvo paskirtas Kazimieraičio rinktinės vadu,\nėjo ir Dainavos apygardos vado pavaduotojo pareigas."
+  citata_rodoma: |
+    Voveriui su savo bendražygiais
+    teko pasitraukti į pogrindį. 1948 m. jis buvo paskirtas Kazimieraičio rinktinės vadu,
+    ėjo ir Dainavos apygardos vado pavaduotojo pareigas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

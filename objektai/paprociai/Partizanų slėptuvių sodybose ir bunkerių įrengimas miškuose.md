@@ -99,7 +99,10 @@ Nenurodyta
     reikėdavo kruopščiai užmaskuoti ir kuo rečiau juo naudotis, jį atidarydavo tik naktį. Žiemą
     partizanų judėjimas būdavo labai apribotas, ant sniego pėdsakus aptikti lengva, todėl
     ypač vėlesniais rezistencijos metais dažniausiai tekdavo visą žiemą pratūnoti po žeme.
-  citata_rodoma: "įėjimą reikėdavo kruopščiai užmaskuoti ir kuo rečiau juo naudotis, jį atidarydavo tik naktį. Žiemą\npartizanų judėjimas būdavo labai apribotas, ant sniego pėdsakus aptikti lengva, todėl\nypač vėlesniais rezistencijos metais dažniausiai tekdavo visą žiemą pratūnoti po žeme."
+  citata_rodoma: |
+    įėjimą reikėdavo kruopščiai užmaskuoti ir kuo rečiau juo naudotis, jį atidarydavo tik naktį. Žiemą
+    partizanų judėjimas būdavo labai apribotas, ant sniego pėdsakus aptikti lengva, todėl
+    ypač vėlesniais rezistencijos metais dažniausiai tekdavo visą žiemą pratūnoti po žeme.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +117,9 @@ Nenurodyta
   citata_originali: |
     Tipiškas partizanų bunkeris. Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio
     kranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus).
-  citata_rodoma: "Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio\nkranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus)."
+  citata_rodoma: |
+    Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio
+    kranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +140,11 @@ Nenurodyta
     partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
-  citata_rodoma: "Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas\nūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti\ngerai užmaskuotas slėptuves. Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po\nkrosnimi, tarp dviejų pastato sienų, šuliniuose ir pan."
+  citata_rodoma: |
+    Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas
+    ūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti
+    gerai užmaskuotas slėptuves. Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po
+    krosnimi, tarp dviejų pastato sienų, šuliniuose ir pan.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -156,7 +165,10 @@ Nenurodyta
     jei likdavo gyvi, ištremiami. Nenorėdami pakenkti savo rėmėjams, partizanai stengdavosi
     bunkerius įsirengti miške. Ankstyviausi bunkeriai būdavo maži, skirti laikinam prie-
     globsčiui.
-  citata_rodoma: "Nenorėdami pakenkti savo rėmėjams, partizanai stengdavosi\nbunkerius įsirengti miške. Ankstyviausi bunkeriai būdavo maži, skirti laikinam prie-\nglobsčiui."
+  citata_rodoma: |
+    Nenorėdami pakenkti savo rėmėjams, partizanai stengdavosi
+    bunkerius įsirengti miške. Ankstyviausi bunkeriai būdavo maži, skirti laikinam prie-
+    globsčiui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

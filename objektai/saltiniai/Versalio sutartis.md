@@ -78,7 +78,10 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
     nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
     buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
     jūrą.
-  citata_rodoma: "Versalio \nsutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir \nperdavė laikinai sąjungininkų kontrolei. Prancūzija Žoržo B."
+  citata_rodoma: |
+    Versalio
+    sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir
+    perdavė laikinai sąjungininkų kontrolei. Prancūzija Žoržo B.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

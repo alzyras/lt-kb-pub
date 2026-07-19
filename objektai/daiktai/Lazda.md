@@ -75,7 +75,8 @@ Nenurodyta
   citata_originali: |
     — Gi kad ir taip nieks neina. Žinai, ponaiti, kad elgeta su šuni­
     mis nesugyvena. Del jų elgeta turi nešioti lazdą ir rimbą.
-  citata_rodoma: "Del jų elgeta turi nešioti lazdą ir rimbą."
+  citata_rodoma: |
+    Del jų elgeta turi nešioti lazdą ir rimbą.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

@@ -87,7 +87,17 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
     kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
     kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
     gų bruožų.
-  citata_rodoma: "Nei pa­\nsakojimo tvarkos, nei aiškių pavadinimų, nei nuorodos į\nbent vienos tautos tikrąją gyvenamąją vietą.\n91\nTačiau, atsižvelgdami j didžiausią tikimybę, pasirin­\nkime iš šio sąrašo kaimynines venedų tautas, nepriklau­\nsančias lietuvių kartoms. Toliausiai į pietryčius gyveno\nstūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų\npavadinimą išsaugojo, kaip teisingai pastebėjo Malte-\nBrunas2, Styrės upė."
+  citata_rodoma: |
+    Nei pa­
+    sakojimo tvarkos, nei aiškių pavadinimų, nei nuorodos į
+    bent vienos tautos tikrąją gyvenamąją vietą.
+    91
+    Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­
+    kime iš šio sąrašo kaimynines venedų tautas, nepriklau­
+    sančias lietuvių kartoms. Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -106,7 +106,23 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
     pacinė sovietų valdžia paprastai
     Lietuvos partizanus vadino ban-
     ditais).
-  citata_rodoma: "Po daugelio nesėkmingų\n\nL I E T U V O S  I S T O R I J A\n212\nbandymų 1949 m. vasario 2–22 d. \nįvyko pirmasis ir paskutinis visos \nLietuvos partizanų vadų suvažiavi-\nmas bunkeryje tarp Radviliškio ir \nBaisogalos. Suvažiavime patvirtin-\ntas naujas organizacijos pavadini-\nmas: Lietuvos laisvės kovos sąjūdis \n(LLKS), o patys partizanai pradėti \nvadinti laisvės kovotojais (oku-\npacinė sovietų valdžia paprastai \nLietuvos partizanus vadino ban-\nditais)."
+  citata_rodoma: |
+    Po daugelio nesėkmingų
+
+    L I E T U V O S  I S T O R I J A
+    212
+    bandymų 1949 m. vasario 2–22 d.
+    įvyko pirmasis ir paskutinis visos
+    Lietuvos partizanų vadų suvažiavi-
+    mas bunkeryje tarp Radviliškio ir
+    Baisogalos. Suvažiavime patvirtin-
+    tas naujas organizacijos pavadini-
+    mas: Lietuvos laisvės kovos sąjūdis
+    (LLKS), o patys partizanai pradėti
+    vadinti laisvės kovotojais (oku-
+    pacinė sovietų valdžia paprastai
+    Lietuvos partizanus vadino ban-
+    ditais).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -134,7 +150,12 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
     ditais). Sąjūdis ėmėsi vadovauti ir
     politinei, ir karinei pasipriešinimo
     organizacijų veiklai.
-  citata_rodoma: "bandymų 1949 m. vasario 2–22 d. \nįvyko pirmasis ir paskutinis visos \nLietuvos partizanų vadų suvažiavi-\nmas bunkeryje tarp Radviliškio ir \nBaisogalos."
+  citata_rodoma: |
+    bandymų 1949 m. vasario 2–22 d.
+    įvyko pirmasis ir paskutinis visos
+    Lietuvos partizanų vadų suvažiavi-
+    mas bunkeryje tarp Radviliškio ir
+    Baisogalos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

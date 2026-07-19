@@ -88,7 +88,10 @@ st.) ir lenkė Rumuniją, Bulgariją.
     legaliai sušaukti didelį lietuvių iš visų Lietuvos vietovių suvažiavimą. Su-
     manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-
     čius. Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju
-  citata_rodoma: "Su-\nmanymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-\nčius. Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju"
+  citata_rodoma: |
+    Su-
+    manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-
+    čius. Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

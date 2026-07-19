@@ -71,7 +71,9 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
     mokslai.—V., 1958, t. 4, p. 111—143.
     Varakauskas R. Kautynės ties Ašerade (1279 m.): Iš lietuvių kovų prieš Livonijos
     ordiną XIII a.— Lietuvos TSR aukštųjų mokyklų mokslo darbai.
-  citata_rodoma: "[Prätorius  M.]  Praetorio M.  Deliciae  Prussicae  oder  Preussische Schawbühne.\n[Rankraštis, 1—7 knygos].—WU Mokslo muziejaus fondai, Nr. 1365."
+  citata_rodoma: |
+    [Prätorius  M.]  Praetorio M.  Deliciae  Prussicae  oder  Preussische Schawbühne.
+    [Rankraštis, 1—7 knygos].—WU Mokslo muziejaus fondai, Nr. 1365.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

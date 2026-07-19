@@ -89,7 +89,10 @@ Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupū�
     kais herbais; dokumentas yra iš 1630 metų. Ponas Tadas Vo­
     lianskis skaito Y 'icpti'b> „Mattez (MATTEZ)“, taiyra „Mal-
     jasz“, arba Matas**.
-  citata_rodoma: "IV lentelė, 21-asis piešinys. Rupūžė, apversta kojomis į vir­\nšų, ties kuria dobilo lapas. Antspaudą pridėjo Grigas Ramoš-\nkaitis Minautas (Hrehor Romaszkowicz Minowt) 1485 metais."
+  citata_rodoma: |
+    IV lentelė, 21-asis piešinys. Rupūžė, apversta kojomis į vir­
+    šų, ties kuria dobilo lapas. Antspaudą pridėjo Grigas Ramoš-
+    kaitis Minautas (Hrehor Romaszkowicz Minowt) 1485 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

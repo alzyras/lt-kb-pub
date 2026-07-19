@@ -90,7 +90,12 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
     jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas. Šis Bansas
     norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik
     visus prūsus sukurstė atsimesti nuo krikščionybės.
-  citata_rodoma: "Kai šitai vyko,  ir vyrai,  ir moterys paskutiniais\nžodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami,\njog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas. Šis Bansas\nnorėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik\nvisus prūsus sukurstė atsimesti nuo krikščionybės."
+  citata_rodoma: |
+    Kai šitai vyko,  ir vyrai,  ir moterys paskutiniais
+    žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami,
+    jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas. Šis Bansas
+    norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik
+    visus prūsus sukurstė atsimesti nuo krikščionybės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

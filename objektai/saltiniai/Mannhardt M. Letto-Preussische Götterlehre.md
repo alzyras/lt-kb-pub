@@ -85,7 +85,8 @@ Dusburgietis teigia, kad mannhardt M.
     (D.— Jonis, Jer.— Jon), Sarginio s.
 
     Krikštytojas, šv.
-  citata_rodoma: "Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936."
+  citata_rodoma: |
+    Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

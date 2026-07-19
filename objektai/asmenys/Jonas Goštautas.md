@@ -211,7 +211,27 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     norėjo jam keršyti už Žygimantą, o todėl, kad ant jo
     pyko, nes Čartoriskis išdidžiai atsisakė perduoti valsty­
     bės iždui pasigrobtą turtą.
-  citata_rodoma: "Daugirdas, turėjęs galy-\nk u s\nbę turtų ir šalininkų, gražia\nkalba netruko Įrodyti luo­\nmams savo nekaltumą, ir vėliau niekas jam daugiau ne­\ndrįso prikaišioti šio nusikaltimo; norėdamas parodyti,\njog visai nieko bendra neturėjęs su sąmokslininkais, jis\nsmarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužu­\ndyti valdovą jam pavaldžioje pilyje. Vis dėlto Leliušui\n4 72\n\n## Puslapis 471\n\nnepritaikė jokios rimtesnės nuobaudos, tik jį pašalino\niš senato, o Trakų vaivadiją perdavė Goštautui. Joną,\nČartorysko kunigaikštį, pasmerkė už akių ir atėmė iš\njo valdas, tačiau ne dėl to, kad senatas ir kunigaikštis\nnorėjo jam keršyti už Žygimantą, o todėl, kad ant jo\npyko, nes Čartoriskis išdidžiai atsisakė perduoti valsty­\nbės iždui pasigrobtą turtą."
+  citata_rodoma: |
+    Daugirdas, turėjęs galy-
+    k u s
+    bę turtų ir šalininkų, gražia
+    kalba netruko Įrodyti luo­
+    mams savo nekaltumą, ir vėliau niekas jam daugiau ne­
+    drįso prikaišioti šio nusikaltimo; norėdamas parodyti,
+    jog visai nieko bendra neturėjęs su sąmokslininkais, jis
+    smarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužu­
+    dyti valdovą jam pavaldžioje pilyje. Vis dėlto Leliušui
+    4 72
+
+    ## Puslapis 471
+
+    nepritaikė jokios rimtesnės nuobaudos, tik jį pašalino
+    iš senato, o Trakų vaivadiją perdavė Goštautui. Joną,
+    Čartorysko kunigaikštį, pasmerkė už akių ir atėmė iš
+    jo valdas, tačiau ne dėl to, kad senatas ir kunigaikštis
+    norėjo jam keršyti už Žygimantą, o todėl, kad ant jo
+    pyko, nes Čartoriskis išdidžiai atsisakė perduoti valsty­
+    bės iždui pasigrobtą turtą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -266,7 +286,26 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
     daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
     Kunigaikštystės.
-  citata_rodoma: "APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS \nDIDŽIUOJU KUNIGAIKŠČIU\nO Didžiosios Kunigaikštystės Ponų Taryba apie visa \ntai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto\n126\n\n## Puslapis 122\n\nkėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų, \nnes kunigaikštis Žygimantas, rašydamas raštus visoms \nžemėms ir tolimiausiems miestams bei visiems didi­\nkams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo \nsuvažiavusių, nes kai kurie buvo tolimuose Didžiosios \nKunigaikštystės miestuose, srityse: 2emaičių seniūnas \nKęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske, \nnes jis tuo metu buvo Smolensko vietininku. Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * ."
+  citata_rodoma: |
+    APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS
+    DIDŽIUOJU KUNIGAIKŠČIU
+    O Didžiosios Kunigaikštystės Ponų Taryba apie visa
+    tai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto
+    126
+
+    ## Puslapis 122
+
+    kėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų,
+    nes kunigaikštis Žygimantas, rašydamas raštus visoms
+    žemėms ir tolimiausiems miestams bei visiems didi­
+    kams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo
+    suvažiavusių, nes kai kurie buvo tolimuose Didžiosios
+    Kunigaikštystės miestuose, srityse: 2emaičių seniūnas
+    Kęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske,
+    nes jis tuo metu buvo Smolensko vietininku. Didysis
+    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
+    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
+    lenską jo vieton nusiuntė Andrių Sakavičių * .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -298,7 +337,22 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
     gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
     vo mažametis.
-  citata_rodoma: "Būnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės. Ir su visais tais miestais prisijungė \nprie Mazovijos ir ėmė tarnauti Mykoliukui\nIšgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­\nzimieras ir Didžiosios Kunigaikštystės Ponų Taryba \nskubiai siunčia su kariuomene Joną Goštautą, kurį, įke­\nliant Kazimierą į sostą, buvo paskyrę didžiojo kuni­\ngaikščio globėju, nes kunigaikštis Kazimieras dar bu­\nvo mažametis."
+  citata_rodoma: |
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės. Ir su visais tais miestais prisijungė
+    prie Mazovijos ir ėmė tarnauti Mykoliukui
+    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
+    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
+    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
+    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
+    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
+    vo mažametis.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

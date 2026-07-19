@@ -122,7 +122,12 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
     atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
     žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
     dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
-  citata_rodoma: "Pavestą uždavinį Vy­\ntautas labai puikiai atliko, sunaikindamas visą vokiečių maisto\natsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­\nžiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias\ndienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 )."
+  citata_rodoma: |
+    Pavestą uždavinį Vy­
+    tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto
+    atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
+    žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
+    dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +152,17 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
     vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
     Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
     savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
-  citata_rodoma: "Kruvina šio Ordino\npolitika numatė padaryti Sūduvą visiškai negyvenamą,\ntad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į\nkitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­\nvingių, kurių palikuonis Strijkovskis pastebėdavo prie\nRaigardo ir Insterburgo Prūsijoje. Tačiau negalime su­\ntikti su mokslininku Heningu, kuris daro prielaidą, kad\nvisi sūduviai yra buvę jotvingiai, nes kitur esama negin­\nčijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri\nvadinosi sudinais ir buvo visiškai ne jotvingių kilmės."
+  citata_rodoma: |
+    Kruvina šio Ordino
+    politika numatė padaryti Sūduvą visiškai negyvenamą,
+    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
+    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
+    tikti su mokslininku Heningu, kuris daro prielaidą, kad
+    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
+    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
+    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

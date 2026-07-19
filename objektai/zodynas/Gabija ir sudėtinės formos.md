@@ -110,7 +110,17 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
     lietuviškoji Junona, Perkūno žmona ir sesuo, visiškai kaip grai­
     kų mitologijoje. Žinoma, kad Antikos mitologai Junoną taip
     pat painiojo su okeano deive Tetide.
-  citata_rodoma: "Pelenų Gabija (Polengabia)\nAnot Lasickio, tai deivė, globojusi besikūrenantį židinį.\nSaugotoja nuo gaisrų.\nŠiuo atžvilgiu ji visiškai atitinka romėnų deivę Statą, kurią\nmitologai tapatina su Vesta. Taip pat ir lietuvių deivė Pelenų\nGabija (Polengabia), ko gero, buvo naminis Praurimės var­\ndas, kuriuo jos būdavo šaukiamasi ruošiantis apie namų židi­\nnį-\nMoterų Gabija (Matergabia)\nKeptos duonos ir kepėjų deivė."
+  citata_rodoma: |
+    Pelenų Gabija (Polengabia)
+    Anot Lasickio, tai deivė, globojusi besikūrenantį židinį.
+    Saugotoja nuo gaisrų.
+    Šiuo atžvilgiu ji visiškai atitinka romėnų deivę Statą, kurią
+    mitologai tapatina su Vesta. Taip pat ir lietuvių deivė Pelenų
+    Gabija (Polengabia), ko gero, buvo naminis Praurimės var­
+    das, kuriuo jos būdavo šaukiamasi ruošiantis apie namų židi­
+    nį-
+    Moterų Gabija (Matergabia)
+    Keptos duonos ir kepėjų deivė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

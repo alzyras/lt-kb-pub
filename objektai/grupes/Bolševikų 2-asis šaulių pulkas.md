@@ -93,7 +93,24 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
     žadėtų ginklų, sausio 14 d.
     pasitraukė į Kruopius (10 km
     nuo Kėdainių Kauno link).
-  citata_rodoma: "Tuo tarpu Kėdainių kryptimi pa-\nmažu artėjo bolševikų 2-asis šau-\nlių pulkas, savo gretose turėjęs\napie 900 ar 1 000 kovotojų su\nsunkiaisiais kulkosvaidžiais\nir dviem lengvaisiais pabūk-\nlais. Lyginant su puolančiai-\nsiais Kėdainių gynėjai gyvąja\n\njėga teprilygo maždaug penktadaliui priešo\n\npajėgų, o ir ginkluotė jų buvo menkesnė.\nBolševikams priartėjus prie\nKėdainių, savano-\nrių būriai, nesu-\nlaukdami iš Kauno\nžadėtų ginklų, sausio 14 d."
+  citata_rodoma: |
+    Tuo tarpu Kėdainių kryptimi pa-
+    mažu artėjo bolševikų 2-asis šau-
+    lių pulkas, savo gretose turėjęs
+    apie 900 ar 1 000 kovotojų su
+    sunkiaisiais kulkosvaidžiais
+    ir dviem lengvaisiais pabūk-
+    lais. Lyginant su puolančiai-
+    siais Kėdainių gynėjai gyvąja
+
+    jėga teprilygo maždaug penktadaliui priešo
+
+    pajėgų, o ir ginkluotė jų buvo menkesnė.
+    Bolševikams priartėjus prie
+    Kėdainių, savano-
+    rių būriai, nesu-
+    laukdami iš Kauno
+    žadėtų ginklų, sausio 14 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

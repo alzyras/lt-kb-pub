@@ -85,7 +85,10 @@ Nenurodyta
     Mindaugo vainikavimas
     Mindaugo karūnacija.
     Dail. A. Varnas, 1952–1953 m.
-  citata_rodoma: "Mindaugo vainikavimas \nMindaugo karūnacija.  \nDail. A. Varnas, 1952–1953 m."
+  citata_rodoma: |
+    Mindaugo vainikavimas
+    Mindaugo karūnacija.
+    Dail. A. Varnas, 1952–1953 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

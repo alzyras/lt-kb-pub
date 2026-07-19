@@ -132,7 +132,10 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     būriais tuo tarpu tebebuvo krašte. Su ta kariuomene ir suor-
     ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
     dus ir Sapiegas.
-  citata_rodoma: "Su ta kariuomene ir suor-\nganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-\ndus ir Sapiegas."
+  citata_rodoma: |
+    Su ta kariuomene ir suor-
+    ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
+    dus ir Sapiegas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +156,12 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     blogiausias viso to padarinys buvo tas, kad taika buvo pada-
     ryta, tarpininkaujant caro generolui: toliau jau visą laiką carai
     ėmė kištis į Respublikos vidaus reikalus.
-  citata_rodoma: "Priimtomis sąlygomis,\nAugustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-\nsoniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,\nbuvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta\niš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai."
+  citata_rodoma: |
+    Priimtomis sąlygomis,
+    Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-
+    soniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,
+    buvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta
+    iš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -285,7 +285,9 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
     Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
     24.000 Lietuvoje buvusių lenkų karo belaisvių.
-  citata_rodoma: "vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters\nAldonos"
+  citata_rodoma: |
+    vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
+    Aldonos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -305,7 +307,9 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     draugystė iširo. 1339 m. mirė Lenkijos karalienė Aldona Gedimi­
     naitė, o kai Kazimieras pagaliau 1343 m. su kryžiuočiais sudarė
     Kališo taiką, ilgam pasibaigė dviejų kaimynų taikingi santykiai,
-  citata_rodoma: "1339 m. mirė Lenkijos karalienė Aldona Gedimi­\nnaitė"
+  citata_rodoma: |
+    1339 m. mirė Lenkijos karalienė Aldona Gedimi­
+    naitė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -323,7 +327,9 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     dukterys krikštijosi lotyniškai (1321 m. Elzbieta — už Vaclovo-
     « Vankos » Plocke-Mozūrijoje ; 1325 m. Aldona-Ona — už Kazi­
     miero).
-  citata_rodoma: "1325 m. Aldona-Ona — už Kazi­\nmiero"
+  citata_rodoma: |
+    1325 m. Aldona-Ona — už Kazi­
+    miero
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -365,7 +371,10 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     Lubawskie (SZCh, p. 87—88) Drevantos aukštupyje.
     592  Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos
     sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
-  citata_rodoma: "87—88) Drevantos aukštupyje.\n  592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos\nsūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo."
+  citata_rodoma: |
+    87—88) Drevantos aukštupyje.
+      592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos
+    sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -389,7 +398,15 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
     Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
     jungtuvės^2 ).
-  citata_rodoma: "Pakviesti\npagalbon brandenburgiečius jie išvarė, bet nebeišėjo iš tos\nžemės patys^1 ). Jau tada bekovodamas su Ordinu Lenkų kara­\nlius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­\nžiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­\ndaryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir\nVladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)\njungtuvės^2 )."
+  citata_rodoma: |
+    Pakviesti
+    pagalbon brandenburgiečius jie išvarė, bet nebeišėjo iš tos
+    žemės patys^1 ). Jau tada bekovodamas su Ordinu Lenkų kara­
+    lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­
+    žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­
+    daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
+    Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
+    jungtuvės^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

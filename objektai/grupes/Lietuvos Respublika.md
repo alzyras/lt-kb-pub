@@ -121,7 +121,10 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: "Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-\nviams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,\npo poros dešimtmečių sukūrę Lietuvos Respubliką."
+  citata_rodoma: |
+    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
+    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
+    po poros dešimtmečių sukūrę Lietuvos Respubliką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -139,7 +142,10 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
     prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
     tarmė – lietuvių kalba.
-  citata_rodoma: "Remiantis tokia lenkiška Lietuvos sam-\nprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių\ntarmė – lietuvių kalba."
+  citata_rodoma: |
+    Remiantis tokia lenkiška Lietuvos sam-
+    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
+    tarmė – lietuvių kalba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

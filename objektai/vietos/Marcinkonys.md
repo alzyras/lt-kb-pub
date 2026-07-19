@@ -61,7 +61,11 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
     Už Lydos pavyksta aplenkti lenkų pajėgas ir
     spalio 1 d. sugrįžti į Lietuvos kariuomenės kon-
     troliuojamą Lietuvos teritoriją iš rytų.
-  citata_rodoma: "Rugsėjo 24 d. lenkai užima Marcinkonis ir at-\nkerta atsitraukimo kelią į šiaurę.\n\n7-asis ir 2-asis pėst."
+  citata_rodoma: |
+    Rugsėjo 24 d. lenkai užima Marcinkonis ir at-
+    kerta atsitraukimo kelią į šiaurę.
+
+    7-asis ir 2-asis pėst.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

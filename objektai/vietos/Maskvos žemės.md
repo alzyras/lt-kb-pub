@@ -79,7 +79,14 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
     vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
     lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
     pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
-  citata_rodoma: "Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­\nre Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,\nir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda\ndalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­\nvos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­\nlyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę\npamoką Vytautas gavo viename mūšyje su kryžiuočiais."
+  citata_rodoma: |
+    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
+    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
+    ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
+    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
+    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
+    lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
+    pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -82,7 +82,11 @@ Dusburgietis teigia, kad varakauskas R.
     Источниковедение, В., 1978, с. 19—21.
     Матузова В. И. Английские средневековые источники IX— XIII вв.: Тексты,
     перевод, комментарий.
-  citata_rodoma: "Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а. I\n\nketvirtyje —Vilniaus valstybinio pedagoginio instituto mokslo darbai. Istorija ir filologija.\nV., 1957, t. 3, p. 5—33."
+  citata_rodoma: |
+    Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а. I
+
+    ketvirtyje —Vilniaus valstybinio pedagoginio instituto mokslo darbai. Istorija ir filologija.
+    V., 1957, t. 3, p. 5—33.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

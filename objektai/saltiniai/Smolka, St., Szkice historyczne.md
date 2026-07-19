@@ -65,7 +65,8 @@ Smolka, St„ Szkice historyczne.
   citata_originali: |
     Smolka, St„ Szkice historyczne. Warszawa, 1882, ser. I.
     Sokolovski, Dr. Pr.
-  citata_rodoma: "Smolka, St„ Szkice historyczne. Warszawa, 1882, ser. I."
+  citata_rodoma: |
+    Smolka, St„ Szkice historyczne. Warszawa, 1882, ser. I.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

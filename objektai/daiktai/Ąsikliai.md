@@ -75,7 +75,8 @@ Nenurodyta
     kraipytų.
     Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas
     karnomis.
-  citata_rodoma: "Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis."
+  citata_rodoma: |
+    Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

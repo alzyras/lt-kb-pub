@@ -124,7 +124,8 @@ Nenurodyta
     Jų nekentė
     ir bijojo: nekentė dėl to,, kad jie perkami, bijojo dėl to, kad iš jų gali
     kilti gaisras.
-  citata_rodoma: "Toliau degtukai ėmė skverbtis į kaimo grįčias. Jų nekentė ir bijojo: nekentė dėl to,, kad jie perkami, bijojo dėl to, kad iš jų gali kilti gaisras."
+  citata_rodoma: |
+    Toliau degtukai ėmė skverbtis į kaimo grįčias. Jų nekentė ir bijojo: nekentė dėl to,, kad jie perkami, bijojo dėl to, kad iš jų gali kilti gaisras.
   statusas: verified
   atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
@@ -145,7 +146,8 @@ Nenurodyta
     žių nežinojo.
     Aprašomais 1862 metais degtukai pasirodė krautu­
     vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai.
-  citata_rodoma: "Aprašomais 1862 metais degtukai pasirodė krautu- vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai."
+  citata_rodoma: |
+    Aprašomais 1862 metais degtukai pasirodė krautu- vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai.
   statusas: verified
   atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas

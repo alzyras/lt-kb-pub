@@ -71,7 +71,14 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
     amžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­
     čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
     geriausio jo žydėjimo metais.
-  citata_rodoma: "Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­\ntraciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios\nvaldos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį),\njau buvo praleidusi laiką lietuviams įveikti. Dviejų generacijų\namžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­\nčio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir\ngeriausio jo žydėjimo metais."
+  citata_rodoma: |
+    Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­
+    traciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios
+    valdos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį),
+    jau buvo praleidusi laiką lietuviams įveikti. Dviejų generacijų
+    amžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­
+    čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
+    geriausio jo žydėjimo metais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

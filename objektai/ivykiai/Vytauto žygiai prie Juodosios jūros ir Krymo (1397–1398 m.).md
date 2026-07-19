@@ -207,7 +207,13 @@ Nenurodyta
     totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
     totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
     Vytautas įkurdino Trakų kunigaikštijoje.
-  citata_rodoma: "Atrodo, pritariant Jogailai, kuris\niš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)\nsuruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada\ntotorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug\ntotorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos\nVytautas įkurdino Trakų kunigaikštijoje."
+  citata_rodoma: |
+    Atrodo, pritariant Jogailai, kuris
+    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
+    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
+    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
+    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
+    Vytautas įkurdino Trakų kunigaikštijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

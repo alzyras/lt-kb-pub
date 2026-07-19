@@ -132,7 +132,12 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
     valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį. Tuo pat metu
     Andrius su savo sūnumi Vladimiru (Serpucbovo kunigaikščiu) įsi­
     veržė į Naugardo-Sieversko žemę.
-  citata_rodoma: "žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir\nTrubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo\nvaldą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį. Tuo pat metu\nAndrius su savo sūnumi Vladimiru (Serpucbovo kunigaikščiu) įsi­\nveržė į Naugardo-Sieversko žemę."
+  citata_rodoma: |
+    žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
+    Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
+    valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį. Tuo pat metu
+    Andrius su savo sūnumi Vladimiru (Serpucbovo kunigaikščiu) įsi­
+    veržė į Naugardo-Sieversko žemę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -156,7 +161,17 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
     kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
     senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
     minystės ryšiais.
-  citata_rodoma: "Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje."
+  citata_rodoma: |
+    Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

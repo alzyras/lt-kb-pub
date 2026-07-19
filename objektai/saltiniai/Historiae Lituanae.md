@@ -61,7 +61,15 @@ media_all_json: |-
     Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų
     kalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­
     lavičius parašė savo Historiae Lituanae.
-  citata_rodoma: "Šis iš Kauno kilęs gausių religinių-pasto­\nracinių, asketinių, poleminių ir filosofinių raštų autorius, Lietuvos\nheraldikas, Vilniaus Akademijos profesorius, vėlesnėse kartose\nišryškėjo su savo dviejų tomų « Historiae Lituanae » kaip žymus\nLietuvos istorikas.\nKai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų\nkalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­\nlavičius parašė savo Historiae Lituanae."
+  citata_rodoma: |
+    Šis iš Kauno kilęs gausių religinių-pasto­
+    racinių, asketinių, poleminių ir filosofinių raštų autorius, Lietuvos
+    heraldikas, Vilniaus Akademijos profesorius, vėlesnėse kartose
+    išryškėjo su savo dviejų tomų « Historiae Lituanae » kaip žymus
+    Lietuvos istorikas.
+    Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų
+    kalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­
+    lavičius parašė savo Historiae Lituanae.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

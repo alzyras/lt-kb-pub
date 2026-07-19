@@ -61,7 +61,13 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
     Smolensko. Senajame geležies amžiuje rytiniai baltai, dar nespėję
     išsidiferencijuoti į atskiras kiltis, apėmė ne tik visą Dniepro aukš­
     tupio baseiną, siekdami ištisai dešinįjį Desnos krantą.
-  citata_rodoma: "Kalbiškai išgliau­\ndydamas rusų metraščiuose randamą toponomastinę medžiagą,\nM. Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už\nSmolensko. Senajame geležies amžiuje rytiniai baltai, dar nespėję\nišsidiferencijuoti į atskiras kiltis, apėmė ne tik visą Dniepro aukš­\ntupio baseiną, siekdami ištisai dešinįjį Desnos krantą."
+  citata_rodoma: |
+    Kalbiškai išgliau­
+    dydamas rusų metraščiuose randamą toponomastinę medžiagą,
+    M. Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už
+    Smolensko. Senajame geležies amžiuje rytiniai baltai, dar nespėję
+    išsidiferencijuoti į atskiras kiltis, apėmė ne tik visą Dniepro aukš­
+    tupio baseiną, siekdami ištisai dešinįjį Desnos krantą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

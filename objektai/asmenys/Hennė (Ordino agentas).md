@@ -168,7 +168,13 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­
     monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
     kunigaikščiai.
-  citata_rodoma: "Vytauto autoritetą rytuose liudija jo juokdario, Ordino\nagento Hennės, pranešimas apie triumfatorišką Vytauto kelionę\n— ekspediciją savo valstybės rytiniu pakraščiu 1427 met. Sako\njis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko. Tos ke­\nlionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­\nmonijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit."
+  citata_rodoma: |
+    Vytauto autoritetą rytuose liudija jo juokdario, Ordino
+    agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę
+    — ekspediciją savo valstybės rytiniu pakraščiu 1427 met. Sako
+    jis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko. Tos ke­
+    lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­
+    monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +197,10 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
     dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
     su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
-  citata_rodoma: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­\ndovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu\nsu Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."
+  citata_rodoma: |
+    Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
+    dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
+    su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

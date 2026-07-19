@@ -125,7 +125,16 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
     rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­
     ventų vietų, pagaliau pradėjo su jais bendrauti, ėmė pirk­
     ti iš jų civilizuoto pasaulio dirbinius.
-  citata_rodoma: "36\nDideliame skitų krašte taip pat gyveno svetimos, ski­\ntų pakenčiamos, ypač graikų persikėlėlių ir su jais turė­\njusios ryšių arba susigiminiavusios tautos, pavyzdžiui,\ngelonų, kurių kolonija plytėjo į šiaurę nuo skitų krašto,\nkairiojoje Dnepro pakrantėje tarp budinu. Šie, susiję su\nanais, visuomet kaimyniškai, taikiai ir sutartinai gyveno\nsu skitais. Gerai sutarė ir getai iš pietų, gyvenę prie\nDunojaus."
+  citata_rodoma: |
+    36
+    Dideliame skitų krašte taip pat gyveno svetimos, ski­
+    tų pakenčiamos, ypač graikų persikėlėlių ir su jais turė­
+    jusios ryšių arba susigiminiavusios tautos, pavyzdžiui,
+    gelonų, kurių kolonija plytėjo į šiaurę nuo skitų krašto,
+    kairiojoje Dnepro pakrantėje tarp budinu. Šie, susiję su
+    anais, visuomet kaimyniškai, taikiai ir sutartinai gyveno
+    su skitais. Gerai sutarė ir getai iš pietų, gyvenę prie
+    Dunojaus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

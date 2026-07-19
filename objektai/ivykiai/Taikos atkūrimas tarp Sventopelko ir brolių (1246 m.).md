@@ -125,7 +125,20 @@ Nenurodyta
     sutartį. Kadangi taikos malonių visados reikia siekti, nes to moko tas, kuris teikia taiką ir
     ją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino
     pagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295.
-  citata_rodoma: "Apie taikos atkūrimą tarp Sventopelko ir brolių\n\n  Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis\nSventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis\nsunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą\npasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,\nnuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį\npalankumą. Broliai nenorėjo leistis suvedžiojami, žinodami, kad jis, bėdos prispirtas,\nvisados slepia po švelniu avinėlio kailiu lapės širdį, kupiną klastos ir suktumo, nes šitai\nrodė įvykių raida, mat jis jau trečią kartą buvo sulaužęs priesaika patvirtintą taikos\nsutartį. Kadangi taikos malonių visados reikia siekti, nes to moko tas, kuris teikia taiką ir\nją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino\npagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295."
+  citata_rodoma: |
+    Apie taikos atkūrimą tarp Sventopelko ir brolių
+
+      Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
+    Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis
+    sunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą
+    pasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,
+    nuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį
+    palankumą. Broliai nenorėjo leistis suvedžiojami, žinodami, kad jis, bėdos prispirtas,
+    visados slepia po švelniu avinėlio kailiu lapės širdį, kupiną klastos ir suktumo, nes šitai
+    rodė įvykių raida, mat jis jau trečią kartą buvo sulaužęs priesaika patvirtintą taikos
+    sutartį. Kadangi taikos malonių visados reikia siekti, nes to moko tas, kuris teikia taiką ir
+    ją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino
+    pagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -149,7 +162,9 @@ Nenurodyta
     daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
     pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
     pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
-  citata_rodoma: "295   Paliaubos tarp Ordino  ir Sventopelko sudarytos 1246 m. (Ewald  A., Die\nEroberung..., 2, p. 205)."
+  citata_rodoma: |
+    295   Paliaubos tarp Ordino  ir Sventopelko sudarytos 1246 m. (Ewald  A., Die
+    Eroberung..., 2, p. 205).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

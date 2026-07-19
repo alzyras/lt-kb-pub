@@ -86,7 +86,10 @@ Nenurodyta
     žai, visoki pasaitai, pentinai, vis išdabinti stučkomis, vis sudaro juo­
     kingai išdidų vaizdą. Tam panaši ir jų kalba: esą plunksnų pirkliai,
     perką kur geras plunksnas ir pūkus.
-  citata_rodoma: "Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudi­\nnės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medi­\nnėmis skiedromis."
+  citata_rodoma: |
+    Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudi­
+    nės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medi­
+    nėmis skiedromis.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

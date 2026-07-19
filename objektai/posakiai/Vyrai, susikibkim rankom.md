@@ -75,7 +75,9 @@ media_all_json: |-
     Čia bokšto
     gynėjų buvo žymiai mažiau. Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
     ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
-  citata_rodoma: "Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom\nir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
+  citata_rodoma: |
+    Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
+    ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

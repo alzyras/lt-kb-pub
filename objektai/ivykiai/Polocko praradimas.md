@@ -83,7 +83,9 @@ Nenurodyta
     siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
     karinės pagalbos, kartu unijos. Tai parodė ir 1563  m. Polocko praradi-
     mas – Lenkijos paramos reikėjo.
-  citata_rodoma: "Tai parodė ir 1563  m. Polocko praradi-\nmas – Lenkijos paramos reikėjo."
+  citata_rodoma: |
+    Tai parodė ir 1563  m. Polocko praradi-
+    mas – Lenkijos paramos reikėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -80,12 +80,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
+    Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
 
       1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
 
     karalių (Ptol. pried. p. 1217; Mart. p. 436).
-  citata_rodoma: "83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą\n\n  1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos\n\nkaralių (Ptol. pried. p. 1217; Mart. p. 436)."
+  citata_rodoma: |
+    Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
+
+      1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
+
+    karalių (Ptol. pried. p. 1217; Mart. p. 436).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -63,7 +63,12 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
     džiaga, ypač upių ir ežerų vardų studijomis, K. Būga sukūrė teo­
     riją, jog rytiniai baltai dar pokristiniais amžiais yra gyvenę Dniepro
     aukštupio ir jo intakų Beržūnės ir Sožies plotuose.
-  citata_rodoma: "Jau prieš I pa­\nsaulinį karą buvo teigiama (Sobolevskij, A. Kočubinskij), jog prieš­\nistoriniais laikais baltai yra gyvenę žymiai toliau į rytus. Rem­\ndamasis ilgus šimtmečius išsilaikiusia baltiška toponomastine me­\ndžiaga, ypač upių ir ežerų vardų studijomis, K."
+  citata_rodoma: |
+    Jau prieš I pa­
+    saulinį karą buvo teigiama (Sobolevskij, A. Kočubinskij), jog prieš­
+    istoriniais laikais baltai yra gyvenę žymiai toliau į rytus. Rem­
+    damasis ilgus šimtmečius išsilaikiusia baltiška toponomastine me­
+    džiaga, ypač upių ir ežerų vardų studijomis, K.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

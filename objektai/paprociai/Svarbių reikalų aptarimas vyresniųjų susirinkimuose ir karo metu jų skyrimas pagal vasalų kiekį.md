@@ -131,7 +131,11 @@ Nenurodyta
     muose vyresniųjų žmonių, kuriuos karo metu skirdavo at­
     sižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­
     davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
-  citata_rodoma: "Svarbesni reikalai buvo aptariami susirinki­\nmuose vyresniųjų žmonių, kuriuos karo metu skirdavo at­\nsižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­\ndavo skyrių vadus, kurie vadovavo būriams mūšio lauke."
+  citata_rodoma: |
+    Svarbesni reikalai buvo aptariami susirinki­
+    muose vyresniųjų žmonių, kuriuos karo metu skirdavo at­
+    sižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­
+    davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -163,7 +167,23 @@ Nenurodyta
     norėjome atskleisti; manytume, jog jau sukaupėme pa­
     kankamai faktų ir, jais remdamiesi, atskleidėme ne vieną
     istorinę tiesą.
-  citata_rodoma: "Iš šių galingų\nžmonių buvo renkami vyriausieji vadai, kurių vienas buvo\nStinigutas. Svarbesni reikalai buvo aptariami susirinki­\nmuose vyresniųjų žmonių, kuriuos karo metu skirdavo at­\nsižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­\ndavo skyrių vadus, kurie vadovavo būriams mūšio lauke.\n* * *\nV Priedas\nK a i k u rio s p a s ta b o s\napie B a ltijo s jū rą\nSiame\nveikale stengėmės surinkti ir išdėstyti visa\ntai, kas padeda pažinti lietuvių tautos' proistorę, kurią\nnorėjome atskleisti; manytume, jog jau sukaupėme pa­\nkankamai faktų ir, jais remdamiesi, atskleidėme ne vieną\nistorinę tiesą."
+  citata_rodoma: |
+    Iš šių galingų
+    žmonių buvo renkami vyriausieji vadai, kurių vienas buvo
+    Stinigutas. Svarbesni reikalai buvo aptariami susirinki­
+    muose vyresniųjų žmonių, kuriuos karo metu skirdavo at­
+    sižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­
+    davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
+    * * *
+    V Priedas
+    K a i k u rio s p a s ta b o s
+    apie B a ltijo s jū rą
+    Siame
+    veikale stengėmės surinkti ir išdėstyti visa
+    tai, kas padeda pažinti lietuvių tautos' proistorę, kurią
+    norėjome atskleisti; manytume, jog jau sukaupėme pa­
+    kankamai faktų ir, jais remdamiesi, atskleidėme ne vieną
+    istorinę tiesą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

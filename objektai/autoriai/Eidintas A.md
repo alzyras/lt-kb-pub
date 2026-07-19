@@ -92,7 +92,8 @@ Eidintas A. Eidintas A., Senn A.
     1 t., Vil-
     nius, 1999.
     Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
-  citata_rodoma: "Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012."
+  citata_rodoma: |
+    Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

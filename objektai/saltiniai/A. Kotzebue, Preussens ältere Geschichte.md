@@ -94,7 +94,11 @@ media_all_json: |-
     lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
     ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
     žodis Hentar pasiskolintas iš lietuvių.
-  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
+  citata_rodoma: |
+    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
+    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
+    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
+    S. 261).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -168,7 +168,17 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
     rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
     Vyt. dėkingas už Poznaniaus mitrą.
-  citata_rodoma: "Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­\ndavo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­\ngrindinių reikalų, kai ėjo klausimas apie karalijos santvarką,\napie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi\nnuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­\nvygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.\nIš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to\nmeto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­\ndavosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­\ntarimo, dažniausiai jo paramos."
+  citata_rodoma: |
+    Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
+    davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
+    grindinių reikalų, kai ėjo klausimas apie karalijos santvarką,
+    apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi
+    nuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­
+    vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.
+    Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
+    meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­
+    davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­
+    tarimo, dažniausiai jo paramos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

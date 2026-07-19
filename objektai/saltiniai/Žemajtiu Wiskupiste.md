@@ -67,7 +67,9 @@ media_all_json: |-
     1827—1834.
     Woł. = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
     nius, 1848.
-  citata_rodoma: "Woł. = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­\nnius, 1848."
+  citata_rodoma: |
+    Woł. = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
+    nius, 1848.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

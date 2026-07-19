@@ -82,7 +82,15 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
     žyniui, kuris pats save sužeisdavo ir išperkamąją auką atiduo­
     davo savo krauju, taip pat būdavo paaukojama kokio nors gy­
     vulio galva.
-  citata_rodoma: "Juos laukinių žmonių rankos nužudžiusios kaip juodus\ngyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­\nta atnašauti audrų dievui.\nPoklius (Poklus)\nPožemio dievas, numirėlių neštuvų valdovas, varginantis\nmirusių nusikaltėlių vėles pragariškomis kančiomis, nepermal­\ndaujamas keršytojas. Būta įvairių jo vardų: Pokolus, Pokole,\nPikol, Pikole, Pragartis -  nuo žodžio Pragaras, pekla."
+  citata_rodoma: |
+    Juos laukinių žmonių rankos nužudžiusios kaip juodus
+    gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­
+    ta atnašauti audrų dievui.
+    Poklius (Poklus)
+    Požemio dievas, numirėlių neštuvų valdovas, varginantis
+    mirusių nusikaltėlių vėles pragariškomis kančiomis, nepermal­
+    daujamas keršytojas. Būta įvairių jo vardų: Pokolus, Pokole,
+    Pikol, Pikole, Pragartis -  nuo žodžio Pragaras, pekla.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -223,7 +223,12 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     jo veikalą, vad.: Preuszens aeltere Geschichte von August von
     Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
     Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
-  citata_rodoma: "Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve \nKaraliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į \njo veikalą, vad.: Preuszens aeltere Geschichte von August von \nKotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu. \nFoigto vertimas į len kųk ir teksto lotynų k. pataisymai."
+  citata_rodoma: |
+    Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve
+    Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į
+    jo veikalą, vad.: Preuszens aeltere Geschichte von August von
+    Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
+    Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -268,7 +273,12 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     įdėtus R a y n a 1  d, an. 1324 Nr. 53,
     kurie visiškai atitinka tuos, kurie yra
     Kotzebue, T. Il, p. 368-371.
-  citata_rodoma: "z\nTokius skundo punktus randame \nįdėtus R a y n a 1  d, an. 1324 Nr. 53, \nkurie visiškai atitinka tuos, kurie yra \nKotzebue, T. Il, p. 368-371."
+  citata_rodoma: |
+    z
+    Tokius skundo punktus randame
+    įdėtus R a y n a 1  d, an. 1324 Nr. 53,
+    kurie visiškai atitinka tuos, kurie yra
+    Kotzebue, T. Il, p. 368-371.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -98,7 +98,18 @@ Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo 
     Pranciškaus Dmochovskio „Iliados“ variantas
     (Dziela Homerą.
     Tom drugi.
-  citata_rodoma: "5 /P.\n57,\n(1)\nišnaša/\nTai garsaus vokiečių mokslininko ir rašytojo Gotchardo Frideriko\nStenderio (1714—1796) veikalas\n(Neue\nvollständige\nlettische\nGrammatik. 1756). Jis buvo T. Narbuto Saurų dvaro bibliotekoje\n([Narbutt T.} Spisanie Muzeum w Szawrach. L. 18. Nr. 259)."
+  citata_rodoma: |
+    5 /P.
+    57,
+    (1)
+    išnaša/
+    Tai garsaus vokiečių mokslininko ir rašytojo Gotchardo Frideriko
+    Stenderio (1714—1796) veikalas
+    (Neue
+    vollständige
+    lettische
+    Grammatik. 1756). Jis buvo T. Narbuto Saurų dvaro bibliotekoje
+    ([Narbutt T.} Spisanie Muzeum w Szawrach. L. 18. Nr. 259).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -169,7 +169,14 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
     pietų, nuo Juodosios jūros ir Krymo veda
     Lucko ir Kijevo link. Galbūt čia, šiame
     regione ir įvykęs mūšis.
-  citata_rodoma: "Aukščiau\nšios upės žiočių buvusi pilis ir šiandien yra\nvietovė Targovica (buvęs Ordos karinis-\nadministracinis centras), pro kurią kelias iš\npietų, nuo Juodosios jūros ir Krymo veda\nLucko ir Kijevo link. Galbūt čia, šiame\nregione ir įvykęs mūšis."
+  citata_rodoma: |
+    Aukščiau
+    šios upės žiočių buvusi pilis ir šiandien yra
+    vietovė Targovica (buvęs Ordos karinis-
+    administracinis centras), pro kurią kelias iš
+    pietų, nuo Juodosios jūros ir Krymo veda
+    Lucko ir Kijevo link. Galbūt čia, šiame
+    regione ir įvykęs mūšis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -192,7 +199,12 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
     jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: "Peterburge subrendo ir buvo surašytas Targovicos \n(miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-\njos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-\nderatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie \nPolocko, prasidėjo 1792 m."
+  citata_rodoma: |
+    Peterburge subrendo ir buvo surašytas Targovicos
+    (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
+    jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
+    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
+    Polocko, prasidėjo 1792 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

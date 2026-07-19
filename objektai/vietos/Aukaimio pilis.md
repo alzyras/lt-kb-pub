@@ -350,7 +350,14 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
     be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
     belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių.
-  citata_rodoma: "Todėl, įsibrovę\nį Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami. Paėmę  į nelaisvę ir\nišžudę daug žmonių, patraukė su dideliu grobiu atgal. Kadangi šio valsčiaus raiteliai prieš\nvieną dieną buvo išskubėję  į Junigedą išgirdę triukšmą, kurį broliai buvo ten sukėlę,\npasileido jų persekioti vieni pėstininkai, užstodami kelią viename miške, kurį broliai\ngreitai perėjo ir, lauke juos užpuolę, 12 nukovė, tuo tarpu kiti, pasileidę bėgti, vėliau nė\nnedrįso rodytis."
+  citata_rodoma: |
+    Todėl, įsibrovę
+    į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami. Paėmę  į nelaisvę ir
+    išžudę daug žmonių, patraukė su dideliu grobiu atgal. Kadangi šio valsčiaus raiteliai prieš
+    vieną dieną buvo išskubėję  į Junigedą išgirdę triukšmą, kurį broliai buvo ten sukėlę,
+    pasileido jų persekioti vieni pėstininkai, užstodami kelią viename miške, kurį broliai
+    greitai perėjo ir, lauke juos užpuolę, 12 nukovė, tuo tarpu kiti, pasileidę bėgti, vėliau nė
+    nedrįso rodytis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -393,7 +400,15 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     didelė kariuomenė iš Lietuvos bei Gardino pilies patraukė link Lenkijos, išsiuntė šios
     pilies užkariauti brolį Albrechtą iš Hageno bei kuriuos ne kuriuos kitus brolius su 400
     Notangos vyrų.
-  citata_rodoma: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais\n\n   Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,\npatraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis\npilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten\nįsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki\npamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir\npriėmė krikšto malonę."
+  citata_rodoma: |
+    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
+
+       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
+    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
+    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
+    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
+    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
+    priėmė krikšto malonę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -415,7 +430,13 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     244 (237). Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
     Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje pilį533, kurią
     531  Žr. D. III, 227.
-  citata_rodoma: "Apie tai, kaip Ragainės broliai nukovė 25 lietuvius\n\n  Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo\ndieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti\nplėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja\njų papročiai — burtus, kurie jiems nežadėjo sėkmės."
+  citata_rodoma: |
+    Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
+
+      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
+    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
+    jų papročiai — burtus, kurie jiems nežadėjo sėkmės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -437,7 +458,18 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     kaltinti visokiausiais nusikaltimais; įvestas į teismą ir teisėjo paklaustas, kuo galįs atremti
     jam keliamus įkalčius, jis nusigandęs tylėjo. Ilgokai jam grasinę, galop tarėjai paprašė
     teisėją jo pasigailėti, o jį paakino tučtuojau pakeisti savo gyvenimo būdą.
-  citata_rodoma: "Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir\nštai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,\nkad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.\nDėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten\nįsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai\n\n  554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių\nporeikiams (Powierski J., Dobra..., p. 191 — 192).\n\nsužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį\nDraiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas."
+  citata_rodoma: |
+    Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
+    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
+    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
+    Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten
+    įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai
+
+      554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių
+    poreikiams (Powierski J., Dobra..., p. 191 — 192).
+
+    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
+    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -458,7 +490,11 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     pamatyti; audrai šėlstant, jie įsiveržė į šios pilies papilį, kuris tuo metu buvo ir didelis, ir
     gausiai gyvenamas nelyginant koks miestas, ir, visus žmones išžudę ar paėmę į nelaisvę
     bei sudeginę papilį, patraukė namo su tokiu grobiu, kokį įstengė išsigabenti.
-  citata_rodoma: "Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę\nar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.\nTrisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo\npateko  į užvartą  ir visa kariuomenė per  jį perėjo."
+  citata_rodoma: |
+    Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
+    ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
+    Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo
+    pateko  į užvartą  ir visa kariuomenė per  jį perėjo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -476,7 +512,13 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar
     išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
     turėjo didelių nuostolių sunkiai sužeistaisiais.
-  citata_rodoma: "Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais\n\n   Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į\nAukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar\nišžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys\nturėjo didelių nuostolių sunkiai sužeistaisiais."
+  citata_rodoma: |
+    Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
+
+       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
+    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
+    išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
+    turėjo didelių nuostolių sunkiai sužeistaisiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -78,7 +78,13 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
     greit perėmė valdžią kitos diecezijos, kadangi jis buvo nepa­
     geidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­
     kupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų.
-  citata_rodoma: "Motiejus, šv. teologijos magistras, lietuvis, iš pradžių, \nnuo 1417 metų, Medininkų arba Žemaičių vyskupas, paskui, \n1421 m., popiežiaus iškeltas į Vilniaus vyskupus, tačiau ne­\ngreit perėmė valdžią kitos diecezijos, kadangi jis buvo nepa­\ngeidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­\nkupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų."
+  citata_rodoma: |
+    Motiejus, šv. teologijos magistras, lietuvis, iš pradžių,
+    nuo 1417 metų, Medininkų arba Žemaičių vyskupas, paskui,
+    1421 m., popiežiaus iškeltas į Vilniaus vyskupus, tačiau ne­
+    greit perėmė valdžią kitos diecezijos, kadangi jis buvo nepa­
+    geidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­
+    kupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

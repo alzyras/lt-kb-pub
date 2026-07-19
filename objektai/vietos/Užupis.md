@@ -186,7 +186,19 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
     Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
     4to, puikiausiai išsilaikęs.
-  citata_rodoma: "356\n\n## Puslapis 373\n\nIV KNYGA\nALEKSANDRO JOGAILAIČIO DOVANOJIMAS\nVILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI\nPIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE\n1493 METAIS\n(Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)\nŠis aktas, surašytas gryna slavų kalba, ant popieriaus in\n4to, puikiausiai išsilaikęs."
+  citata_rodoma: |
+    356
+
+    ## Puslapis 373
+
+    IV KNYGA
+    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
+    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
+    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
+    1493 METAIS
+    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
+    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
+    4to, puikiausiai išsilaikęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -224,7 +236,9 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     Nuo mūrinių pastatų iš gyventojų - 200 auks.
     Nuo sklypų Užupyje - 168 auks.
     Summa facit [suma sudaro] -468 auks.
-  citata_rodoma: "Nuo sklypų Užupyje - 168 auks.\nSumma facit [suma sudaro] -468 auks."
+  citata_rodoma: |
+    Nuo sklypų Užupyje - 168 auks.
+    Summa facit [suma sudaro] -468 auks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

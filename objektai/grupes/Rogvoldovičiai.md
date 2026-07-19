@@ -91,7 +91,39 @@ media_all_json: |-
     koldo sūnus Mindaugas, o Mindaugo
     kunigaikščio vaikai: Višlegas (ar tik
     ne vienuolis Vaišelga) ir Daumantas.
-  citata_rodoma: "[Lietuvos valdovų pradžia - į Poloc­\nko kunigaikščius, j Rogvoldo vietą\natėjo didysis Mstislavas Vladimiro- \nvičius ir užėmė Polocką, o Rogvol- \ndovičiai išbėgo į Cargradą [Konstan­\ntinopolį]. Lietuva tuo laiku duoklę \nmokėjo Polocko kunigaikščiams, o \nvaldoma savo etmonų, o Lietuvos \nmiestai jau buvo valdomi Kijevo ku­\nnigaikščių: vieni - Černigovo, kiti - \nSmolensko, kiti - Polocko. Ir Vilnia \n[Vilnius] buvo priverstas duoti \nduoklę Ugrų karaliui (tikriausiai Ha­\nličo) už saugojimą nuo didžiojo ku­\nnigaikščio Mstislavo Rogvoldovi- \nčiaus. Ir vilniečiai paėmę sau iš \nCargrado [Konstantinopolio] Poloc­\nko kunigaikščio Rostislavo Rogvol- \ndovičiaus vaikus - kunigaikštį Do- \nvilą ir jo brolį kunigaikštį Maukoldą \nir tai pirmasis Vilniuje kunigaikštis \nDovilas, didysis Maukoldo brolis, o \njo vaikai: Vidas, kurį žmonės Vilku \nvadino, ir Erdenas kunigaikštis, o Er- \ndenas sūnus pasikrikštijo, buvo val­\ndovas Tvėrėje, kuris prieš Petrą, prieš \nstebukladarį, neramumą sukėlė, va­\ndino jį Andriejumi, rašė prieš stebuk­\nladarį melagingus žodžius, o Mau­\nkoldo sūnus Mindaugas, o Mindaugo \nkunigaikščio vaikai: Višlegas (ar tik \nne vienuolis Vaišelga) ir Daumantas."
+  citata_rodoma: |
+    [Lietuvos valdovų pradžia - į Poloc­
+    ko kunigaikščius, j Rogvoldo vietą
+    atėjo didysis Mstislavas Vladimiro-
+    vičius ir užėmė Polocką, o Rogvol-
+    dovičiai išbėgo į Cargradą [Konstan­
+    tinopolį]. Lietuva tuo laiku duoklę
+    mokėjo Polocko kunigaikščiams, o
+    valdoma savo etmonų, o Lietuvos
+    miestai jau buvo valdomi Kijevo ku­
+    nigaikščių: vieni - Černigovo, kiti -
+    Smolensko, kiti - Polocko. Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus. Ir vilniečiai paėmę sau iš
+    Cargrado [Konstantinopolio] Poloc­
+    ko kunigaikščio Rostislavo Rogvol-
+    dovičiaus vaikus - kunigaikštį Do-
+    vilą ir jo brolį kunigaikštį Maukoldą
+    ir tai pirmasis Vilniuje kunigaikštis
+    Dovilas, didysis Maukoldo brolis, o
+    jo vaikai: Vidas, kurį žmonės Vilku
+    vadino, ir Erdenas kunigaikštis, o Er-
+    denas sūnus pasikrikštijo, buvo val­
+    dovas Tvėrėje, kuris prieš Petrą, prieš
+    stebukladarį, neramumą sukėlė, va­
+    dino jį Andriejumi, rašė prieš stebuk­
+    ladarį melagingus žodžius, o Mau­
+    koldo sūnus Mindaugas, o Mindaugo
+    kunigaikščio vaikai: Višlegas (ar tik
+    ne vienuolis Vaišelga) ir Daumantas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

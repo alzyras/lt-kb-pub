@@ -71,7 +71,11 @@ media_all_json: |-
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: "Čia jie gavo iš Konrado\nžemių su Niešavos pi-\nlaite, o patys pasista-\ntė Fogelzango pilį."
+  citata_rodoma: |
+    Čia jie gavo iš Konrado
+    žemių su Niešavos pi-
+    laite, o patys pasista-
+    tė Fogelzango pilį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -88,7 +88,10 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
     gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu". Ten jie
     įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
     valstybės garbę ir jos teises gyventi savarankiškai.
-  citata_rodoma: "Ten jie\nįrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos\nvalstybės garbę ir jos teises gyventi savarankiškai."
+  citata_rodoma: |
+    Ten jie
+    įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
+    valstybės garbę ir jos teises gyventi savarankiškai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +111,11 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
     vadovaujami M. Radvilos Juodojo, suorganizavo mokslintus
     lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-
     gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu".
-  citata_rodoma: "Lietuvos didikai,\nvadovaujami M. Radvilos Juodojo, suorganizavo mokslintus\nlietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-\ngutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu\"."
+  citata_rodoma: |
+    Lietuvos didikai,
+    vadovaujami M. Radvilos Juodojo, suorganizavo mokslintus
+    lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-
+    gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -119,7 +119,14 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
     Visą tą pasakojimą perteikėme pa­
     gal vieną aprašymą, kuris yra S1 a p t.
     arch. fol.
-  citata_rodoma: "Stanislovo garbei, iškilmingai pripažinta katedra. O vys­\nkupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­\nreigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­\npiją20. Vytautas, žlugus viltims, vėl buvo priverstas ieškoti\n19\nVisą tą pasakojimą perteikėme pa­\ngal vieną aprašymą, kuris yra S1 a p t."
+  citata_rodoma: |
+    Stanislovo garbei, iškilmingai pripažinta katedra. O vys­
+    kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­
+    reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­
+    piją20. Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
+    19
+    Visą tą pasakojimą perteikėme pa­
+    gal vieną aprašymą, kuris yra S1 a p t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

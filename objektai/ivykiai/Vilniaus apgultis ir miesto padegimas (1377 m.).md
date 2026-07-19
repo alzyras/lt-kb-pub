@@ -92,7 +92,16 @@ Nenurodyta
     1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
     mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
     senasis Algirdas.
-  citata_rodoma: "Pra­\nėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­\nno didysis magistras pasiuntė užimti tą miestą Ordino \nmaršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu \nElneriu. 12 000 žmonių vedini, pakeliui sudeginę Trakų mies­\ntą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti, \n1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­\nmis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo \nsenasis Algirdas."
+  citata_rodoma: |
+    Pra­
+    ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­
+    no didysis magistras pasiuntė užimti tą miestą Ordino
+    maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu
+    Elneriu. 12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
+    tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
+    1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
+    mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
+    senasis Algirdas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

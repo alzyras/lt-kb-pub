@@ -244,7 +244,13 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
     gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
     pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
     žiaus čia bus gyvenę tie patys aisčiai.
-  citata_rodoma: "Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus\ngalo romėnų rašytojas Tacitas savo veikale „Germania\".\nJis juos vadina aisčiais _(aestii, aestiorum gentes)._ Kadan-\ngi Pabaltijy archeologinės iškasenos nerodo jokio kultūros\npasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-\nžiaus čia bus gyvenę tie patys aisčiai."
+  citata_rodoma: |
+    Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
+    galo romėnų rašytojas Tacitas savo veikale „Germania".
+    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._ Kadan-
+    gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
+    pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
+    žiaus čia bus gyvenę tie patys aisčiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -263,7 +269,13 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
     kurios yra anapus germanų, jis paskiria vieną skyrelį ir aisčiams.
     Ten jis trumpai aprašo aisčių gyvenimą, tikybą, būtinai pami-
     nėdamas ir jų gintarą.
-  citata_rodoma: "Pirmas, kurs duoda plates-\nnių žinių apie aisčius, yra I amž. gale gyvenęs romėnų istorikas\nTacitas. Savo veikale _„Germania\",_ kalbėdamas apie tautas,\nkurios yra anapus germanų, jis paskiria vieną skyrelį ir aisčiams.\nTen jis trumpai aprašo aisčių gyvenimą, tikybą, būtinai pami-\nnėdamas ir jų gintarą."
+  citata_rodoma: |
+    Pirmas, kurs duoda plates-
+    nių žinių apie aisčius, yra I amž. gale gyvenęs romėnų istorikas
+    Tacitas. Savo veikale _„Germania",_ kalbėdamas apie tautas,
+    kurios yra anapus germanų, jis paskiria vieną skyrelį ir aisčiams.
+    Ten jis trumpai aprašo aisčių gyvenimą, tikybą, būtinai pami-
+    nėdamas ir jų gintarą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -356,7 +368,17 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
     Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
     kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
     1 De Mor.
-  citata_rodoma: "Tad atleiskime\nsenovės autoriams, kurių geografinių žinių gavimo gali­\nmybės buvo labiau ribotos negu mūsų; jos pražuvo, mums\nliko vien spausdintos Plinijaus ištraukos arba kitų geog­\nrafų traktatų fragmentai. Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys."
+  citata_rodoma: |
+    Tad atleiskime
+    senovės autoriams, kurių geografinių žinių gavimo gali­
+    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
+    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
+    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
+    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
+    klauso nei sarmatams, nei germanams, turi daug žemių,
+    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
+    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
+    rytuose yra nežinomos sritys.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -381,7 +403,14 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
     čiuojamą daugybę dievų, religinių tradicijų; slavai šia
     prasme taip nedarė, nes, nors slavų mitologijoje buvo
     nemažai dievų, jiems lenkėsi ne visos gentys.
-  citata_rodoma: "Plinijus teigia, kad jazigai gyveno prie Tisos\nupės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria\njų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­\nringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­\ndo, kad jie kariavo su svevų karaliaus Vanijaus Vanino\nvėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus\nmetu kovėsi romėnų gretose."
+  citata_rodoma: |
+    Plinijus teigia, kad jazigai gyveno prie Tisos
+    upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
+    jų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­
+    ringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­
+    do, kad jie kariavo su svevų karaliaus Vanijaus Vanino
+    vėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus
+    metu kovėsi romėnų gretose.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

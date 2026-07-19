@@ -98,7 +98,17 @@ Nenurodyta
     jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,
     subėgusius į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,
     369  1262—1263 m. (Voigt.
-  citata_rodoma: "97 (92). Apie tai, kaip buvo palikta Rezlio pilis\n\n   Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino\npilis, labai išsigando  ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų\nkeliais pasitraukė.\n\n\n\n\n 98 (93)."
+  citata_rodoma: |
+    97 (92). Apie tai, kaip buvo palikta Rezlio pilis
+
+       Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
+    pilis, labai išsigando  ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
+    keliais pasitraukė.
+
+
+
+
+     98 (93).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

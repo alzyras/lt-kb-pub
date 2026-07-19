@@ -109,7 +109,8 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
     tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
     Livonijos ordino magistrą Andrių Štirlandą.
-  citata_rodoma: "tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę"
+  citata_rodoma: |
+    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +129,9 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
     toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
     žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
-  citata_rodoma: "Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-\nžiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai."
+  citata_rodoma: |
+    Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
+    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

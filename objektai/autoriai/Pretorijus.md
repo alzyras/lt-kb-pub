@@ -149,7 +149,15 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
     žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
     tvarką (pas Hartknochą, p. 149):
     1.
-  citata_rodoma: "Vadinasi, šito pavadinimo etimolo­\ngija dar neištirta.\nPretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais."
+  citata_rodoma: |
+    Vadinasi, šito pavadinimo etimolo­
+    gija dar neištirta.
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -197,7 +205,20 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
     nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
     kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
     galbūt įtikintume savo naudai.
-  citata_rodoma: "Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­\nkupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad\nKaraliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­\nninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko\nDavido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi\nPretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-\nbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­\nmus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo\nKristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­\nba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­\nba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­\nrokai išsamesniais paaiškinimais negu Simonas Grunau17.\n2."
+  citata_rodoma: |
+    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
+    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
+    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
+    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
+    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
+    2.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

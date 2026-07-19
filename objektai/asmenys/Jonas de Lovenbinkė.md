@@ -76,7 +76,18 @@ m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir 
     nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
     gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
     gal to priežastis buvo naujesnės žinios iš Prūsijos.
-  citata_rodoma: "Saremas brolis Otto (Blanehom).\nm n\nIš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir \ntik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.\n74\n\n## Puslapis 91\n\nI  KNYGA\nčų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­\nžinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t."
+  citata_rodoma: |
+    Saremas brolis Otto (Blanehom).
+    m n
+    Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
+    tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
+    74
+
+    ## Puslapis 91
+
+    I  KNYGA
+    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
+    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

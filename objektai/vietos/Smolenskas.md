@@ -1267,7 +1267,15 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
-  citata_rodoma: "Ir kada Vytautas,\nnorėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­\ngalės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­\nsarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­\nlionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
+  citata_rodoma: |
+    Ir kada Vytautas,
+    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
+    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
+    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
+    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1291,7 +1299,14 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     ba Azija ir Europa, praskinti sau kelią į tolimas ir lietuviams
     dar nežinomas rytų šalis ir nugalėti nenugalimą Tamerlaną,—
     štai kas Vytautą ragino veikti.
-  citata_rodoma: "Nors Smolenskas ir visa pietų Rusija jam priklausė, bet jis\ndabar siekė dar toliau — sumušti totorius, kas jam plačiai ati­\ndarytų vartus į plačiuosius ir tolimuosius Rytus, kad nebūtų\njie pavojingi jo galybei. Mintis nugalėti tautą, prieš kurią dre­\nba Azija ir Europa, praskinti sau kelią į tolimas ir lietuviams\ndar nežinomas rytų šalis ir nugalėti nenugalimą Tamerlaną,—\nštai kas Vytautą ragino veikti."
+  citata_rodoma: |
+    Nors Smolenskas ir visa pietų Rusija jam priklausė, bet jis
+    dabar siekė dar toliau — sumušti totorius, kas jam plačiai ati­
+    darytų vartus į plačiuosius ir tolimuosius Rytus, kad nebūtų
+    jie pavojingi jo galybei. Mintis nugalėti tautą, prieš kurią dre­
+    ba Azija ir Europa, praskinti sau kelią į tolimas ir lietuviams
+    dar nežinomas rytų šalis ir nugalėti nenugalimą Tamerlaną,—
+    štai kas Vytautą ragino veikti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1315,7 +1330,15 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
     je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
     dymą, kaip ir patį miestą, perleido į Algirdo rankas.
-  citata_rodoma: "lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­\nmas kartu su jam palankiu broliu Narimantu, Pinsko \nkunigaikščiu; pirmasis - Smolenske, antrasis pas totorių \nchaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas."
+  citata_rodoma: |
+    lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1337,7 +1360,14 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     kartu su Lenkija po Liublino unijos Livonijos karą laimi ir atsiima
     Polocką, o dar vėliau pavyks atsiimti ir Smolenską, ir net užimti
     Maskvą. Taigi, xvi a. dar turime laikyti pergalingu, o xvii a.
-  citata_rodoma: "kare su Maskva dėl Livonijos Rusija užima Polocką, o iš Polocko\nauksas (iš kurio gerokai vėliau pagaminta Rusijos caro Petro I\ndovana Saksonijos ir LLv valdovui Augustui 11) yra pirmasis do-\nkumentiškai fiksuotas LDK paveldo išvežimas. Tiesa, Lietuva jau\nkartu su Lenkija po Liublino unijos Livonijos karą laimi ir atsiima\nPolocką, o dar vėliau pavyks atsiimti ir Smolenską, ir net užimti\nMaskvą. Taigi, xvi a."
+  citata_rodoma: |
+    kare su Maskva dėl Livonijos Rusija užima Polocką, o iš Polocko
+    auksas (iš kurio gerokai vėliau pagaminta Rusijos caro Petro I
+    dovana Saksonijos ir LLv valdovui Augustui 11) yra pirmasis do-
+    kumentiškai fiksuotas LDK paveldo išvežimas. Tiesa, Lietuva jau
+    kartu su Lenkija po Liublino unijos Livonijos karą laimi ir atsiima
+    Polocką, o dar vėliau pavyks atsiimti ir Smolenską, ir net užimti
+    Maskvą. Taigi, xvi a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1360,7 +1390,14 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     Taip Vytautas sustiprino Lietuvos
     pozicijas saugodamasis galimos
     grėsmės iš pietryčių.
-  citata_rodoma: "Sustojęs prie Smolensko,\nvesdamas derybas su smolenskie-\nčiais, jį užėmė, pasodino ten savo\nvietininką kunigaikštį Jomantą.\nTaip Vytautas sustiprino Lietuvos\npozicijas saugodamasis galimos\ngrėsmės iš pietryčių."
+  citata_rodoma: |
+    Sustojęs prie Smolensko,
+    vesdamas derybas su smolenskie-
+    čiais, jį užėmė, pasodino ten savo
+    vietininką kunigaikštį Jomantą.
+    Taip Vytautas sustiprino Lietuvos
+    pozicijas saugodamasis galimos
+    grėsmės iš pietryčių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1378,7 +1415,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     vimui, tačiau ši, nesulaukusi pagalbos, kapituliavo.
     1615-1616 m. J. K. Chodkevičius kovojo su Maskvos
     kariuomene gindamas Smolenską.
-  citata_rodoma: "1615-1616 m. J. K. Chodkevičius kovojo su Maskvos\nkariuomene gindamas Smolenską."
+  citata_rodoma: |
+    1615-1616 m. J. K. Chodkevičius kovojo su Maskvos
+    kariuomene gindamas Smolenską.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1398,7 +1437,11 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau
     nuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-
     davo broliu; tačiau caras, pykdamas ant Stp.
-  citata_rodoma: "Caras jo pasiuntinius priėmė labai\nnemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,\nSmolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai\nvartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu"
+  citata_rodoma: |
+    Caras jo pasiuntinius priėmė labai
+    nemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,
+    Smolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai
+    vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1444,7 +1487,17 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     šio monarcho jam skirtą valdą - Po-
     lonos miestelį. Žr. K a r a m z i n,
     Hist.
-  citata_rodoma: "Čia slėpdavo­\nsi gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su \nprekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­\nmi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­\nrūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-\nbuvo prisistatęs Vytautui stovyklo­\nje prie Smolensko su bajorais ir, Vy­\ntautui tą miestą užėmus, priėmė iš \nšio monarcho jam skirtą valdą - Po- \nlonos miestelį. Žr."
+  citata_rodoma: |
+    Čia slėpdavo­
+    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
+    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
+    mi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
+    rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-
+    buvo prisistatęs Vytautui stovyklo­
+    je prie Smolensko su bajorais ir, Vy­
+    tautui tą miestą užėmus, priėmė iš
+    šio monarcho jam skirtą valdą - Po-
+    lonos miestelį. Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1479,7 +1532,18 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     ličo) už saugojimą nuo didžiojo ku­
     nigaikščio Mstislavo Rogvoldovi-
     čiaus.
-  citata_rodoma: "Lietuva tuo laiku duoklę\nmokėjo Polocko kunigaikščiams, o\nvaldoma savo etmonų, o Lietuvos\nmiestai jau buvo valdomi Kijevo ku­\nnigaikščių: vieni - Černigovo, kiti -\nSmolensko, kiti - Polocko. Ir Vilnia\n[Vilnius] buvo priverstas duoti\nduoklę Ugrų karaliui (tikriausiai Ha­\nličo) už saugojimą nuo didžiojo ku­\nnigaikščio Mstislavo Rogvoldovi-\nčiaus."
+  citata_rodoma: |
+    Lietuva tuo laiku duoklę
+    mokėjo Polocko kunigaikščiams, o
+    valdoma savo etmonų, o Lietuvos
+    miestai jau buvo valdomi Kijevo ku­
+    nigaikščių: vieni - Černigovo, kiti -
+    Smolensko, kiti - Polocko. Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1516,7 +1580,20 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     Švitrigaila, rašydamas Livonijos ma­
     gistrui, užsimena, kad žmona jam
     pagimdžiusi sūnų.
-  citata_rodoma: "Taigi\nklysta Kojelavičius ir Strij-\nk o v s k i s sakydami, kad Švitrigai­\nla pabėgęs į Smolenską, bet ne į Po­\nlocką.\nTai, ką mūsų kronikininkai kal­\nba apie Švitrigailos žmonos sugavi­\nmą Ašmenoje, esą jis neįstengęs iš­\nsivežti kartu - tai nėra tikslu, nes tais\npat 1432 metais lapkričio 30 dieną\nŠvitrigaila, rašydamas Livonijos ma­\ngistrui, užsimena, kad žmona jam\npagimdžiusi sūnų."
+  citata_rodoma: |
+    Taigi
+    klysta Kojelavičius ir Strij-
+    k o v s k i s sakydami, kad Švitrigai­
+    la pabėgęs į Smolenską, bet ne į Po­
+    locką.
+    Tai, ką mūsų kronikininkai kal­
+    ba apie Švitrigailos žmonos sugavi­
+    mą Ašmenoje, esą jis neįstengęs iš­
+    sivežti kartu - tai nėra tikslu, nes tais
+    pat 1432 metais lapkričio 30 dieną
+    Švitrigaila, rašydamas Livonijos ma­
+    gistrui, užsimena, kad žmona jam
+    pagimdžiusi sūnų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1539,7 +1616,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
     mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
-  citata_rodoma: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti\nį Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,\nNaugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-\nmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-\nvos, liko tiktai Palenkės, Pagirio ir Minsko žemės."
+  citata_rodoma: |
+    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
+    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
+    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
+    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
+    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1560,7 +1642,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie
     svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį,
     — prie Smolensko.
-  citata_rodoma: "Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius\nIII, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar-\ntu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie\nsvarbiausiojo strateginio punkto, saugančio Dniepro aukštupį,\n— prie Smolensko."
+  citata_rodoma: |
+    Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius
+    III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar-
+    tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie
+    svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį,
+    — prie Smolensko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1579,7 +1666,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
     Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
     nigaikštijos.
-  citata_rodoma: "Iš jos miestų, kaip antai:\nSmolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos."
+  citata_rodoma: |
+    Iš jos miestų, kaip antai:
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1597,7 +1687,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     Algirdaičio sūnus Jurgis. Nors jis ir buvo jėga pašalintas, ta-
     čiau Smolenskui teko duoti privilegiją, garantuojančią jam dalį
     savarankiškumo.
-  citata_rodoma: "),\no vėliau — Smolenskui. Smolenske buvo įsigalėjęs Lengvenio\nAlgirdaičio sūnus Jurgis. Nors jis ir buvo jėga pašalintas, ta-\nčiau Smolenskui teko duoti privilegiją, garantuojančią jam dalį\nsavarankiškumo."
+  citata_rodoma: |
+    ),
+    o vėliau — Smolenskui. Smolenske buvo įsigalėjęs Lengvenio
+    Algirdaičio sūnus Jurgis. Nors jis ir buvo jėga pašalintas, ta-
+    čiau Smolenskui teko duoti privilegiją, garantuojančią jam dalį
+    savarankiškumo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1637,7 +1732,25 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     įsakė kariuomenės būriams, traukiantiems į Lietuvą,
     nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­
     to priešus, užpuolė Smolenską, maišto pradininką.
-  citata_rodoma: "Mat Jurijaus\nuošvis, Riazanės kunigaikštis Olegas, regėdamas neto­\nliese augančią Vytauto galią, iš baimės ir pavydo ska­\ntino jaunuolio užmojus ir žadino visokius sumanymus.\nVytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų,\nįsakė kariuomenės būriams, traukiantiems į Lietuvą,\nnedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­\nto priešus, užpuolė Smolenską, maišto pradininką. Kaip\nįprasta tiems, kurių visas karingumas tik ant liežuvio,\n350\n\n## Puslapis 349\n\nJurijus, suvokęs, jog netrukus prasidės grumtynės, o\njam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai\nį kovos lauką traukti, nei už Smolensko pylimų gintis,\ntodėl, nieko nelaukęs, pabėgo su žmona pas uošvį, su-\nkursčiusį šį karą."
+  citata_rodoma: |
+    Mat Jurijaus
+    uošvis, Riazanės kunigaikštis Olegas, regėdamas neto­
+    liese augančią Vytauto galią, iš baimės ir pavydo ska­
+    tino jaunuolio užmojus ir žadino visokius sumanymus.
+    Vytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų,
+    įsakė kariuomenės būriams, traukiantiems į Lietuvą,
+    nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­
+    to priešus, užpuolė Smolenską, maišto pradininką. Kaip
+    įprasta tiems, kurių visas karingumas tik ant liežuvio,
+    350
+
+    ## Puslapis 349
+
+    Jurijus, suvokęs, jog netrukus prasidės grumtynės, o
+    jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai
+    į kovos lauką traukti, nei už Smolensko pylimų gintis,
+    todėl, nieko nelaukęs, pabėgo su žmona pas uošvį, su-
+    kursčiusį šį karą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1762,7 +1875,26 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
     daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
     Kunigaikštystės.
-  citata_rodoma: "APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS \nDIDŽIUOJU KUNIGAIKŠČIU\nO Didžiosios Kunigaikštystės Ponų Taryba apie visa \ntai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto\n126\n\n## Puslapis 122\n\nkėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų, \nnes kunigaikštis Žygimantas, rašydamas raštus visoms \nžemėms ir tolimiausiems miestams bei visiems didi­\nkams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo \nsuvažiavusių, nes kai kurie buvo tolimuose Didžiosios \nKunigaikštystės miestuose, srityse: 2emaičių seniūnas \nKęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske, \nnes jis tuo metu buvo Smolensko vietininku. Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * ."
+  citata_rodoma: |
+    APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS
+    DIDŽIUOJU KUNIGAIKŠČIU
+    O Didžiosios Kunigaikštystės Ponų Taryba apie visa
+    tai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto
+    126
+
+    ## Puslapis 122
+
+    kėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų,
+    nes kunigaikštis Žygimantas, rašydamas raštus visoms
+    žemėms ir tolimiausiems miestams bei visiems didi­
+    kams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo
+    suvažiavusių, nes kai kurie buvo tolimuose Didžiosios
+    Kunigaikštystės miestuose, srityse: 2emaičių seniūnas
+    Kęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske,
+    nes jis tuo metu buvo Smolensko vietininku. Didysis
+    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
+    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
+    lenską jo vieton nusiuntė Andrių Sakavičių * .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -1799,7 +1931,14 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
     tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
     nugalėjo ir paėmė nesuskaičiuojamus turtus.
-  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
+  citata_rodoma: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

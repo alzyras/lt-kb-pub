@@ -80,7 +80,11 @@ Nenurodyta
     ris, pamatė ten kiaušinių prikrautą rėtį, greitai dedasi į kišenę, greitai
     iš kamaros į geriamąjį kambarį — ir keičia su Mendeliene kiaušinius
     į degtinę.
-  citata_rodoma: "žmogelis, atėjęs į gertuvę, pirmiausia pravėrė kamaros du­\nris, pamatė ten kiaušinių prikrautą rėtį, greitai dedasi į kišenę, greitai\niš kamaros į geriamąjį kambarį — ir keičia su Mendeliene kiaušinius\nį degtinę."
+  citata_rodoma: |
+    žmogelis, atėjęs į gertuvę, pirmiausia pravėrė kamaros du­
+    ris, pamatė ten kiaušinių prikrautą rėtį, greitai dedasi į kišenę, greitai
+    iš kamaros į geriamąjį kambarį — ir keičia su Mendeliene kiaušinius
+    į degtinę.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

@@ -75,7 +75,15 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
     1557 » (1937). Žinomi politiniai įvykiai Pabaltijo valstybėse su­
     trukdė Sužiedėliui užbaigti šį svarbų tyrinėjimą, kuris turėjo tapti
     didesniu moksliniu veikalu.
-  citata_rodoma: "Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki\ntol Lietuvos istorijoje beveik visai užmirštus klausimus ir davė\nAthenaeume tris pagrindines studijas: 1) «Livonijos prijungimas\nprie Lietuvos» (1933); 2) «Mykolo Radvilos pastangos prijungti\nLietuvai Rygą» (1936); 3) «Lietuvos ir Livonijos konfliktas 1556-\n1557 » (1937). Žinomi politiniai įvykiai Pabaltijo valstybėse su­\ntrukdė Sužiedėliui užbaigti šį svarbų tyrinėjimą, kuris turėjo tapti\ndidesniu moksliniu veikalu."
+  citata_rodoma: |
+    Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki
+    tol Lietuvos istorijoje beveik visai užmirštus klausimus ir davė
+    Athenaeume tris pagrindines studijas: 1) «Livonijos prijungimas
+    prie Lietuvos» (1933); 2) «Mykolo Radvilos pastangos prijungti
+    Lietuvai Rygą» (1936); 3) «Lietuvos ir Livonijos konfliktas 1556-
+    1557 » (1937). Žinomi politiniai įvykiai Pabaltijo valstybėse su­
+    trukdė Sužiedėliui užbaigti šį svarbų tyrinėjimą, kuris turėjo tapti
+    didesniu moksliniu veikalu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

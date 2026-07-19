@@ -77,7 +77,8 @@ Trumpa žemdirbių formulė apie perdirbtą žemę.
     susmulkinta ir nepatikdavo augalams, ypač miežiams, tvirtos žemės*
     Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliau-
     piame.“
-  citata_rodoma: "Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliaupiame.“"
+  citata_rodoma: |
+    Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliaupiame.“
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas

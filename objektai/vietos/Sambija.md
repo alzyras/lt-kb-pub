@@ -259,7 +259,11 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
     tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
     netoli Karaliaučiaus, vėl susirinko krūvon.
-  citata_rodoma: "Pasidalinę mažais būre­\nliais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­\ntų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,\nnetoli Karaliaučiaus, vėl susirinko krūvon."
+  citata_rodoma: |
+    Pasidalinę mažais būre­
+    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
+    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
+    netoli Karaliaučiaus, vėl susirinko krūvon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -287,7 +291,12 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     dų įstatymuose būdavo vadinamas šaukimas į teismą papras­
     tosiose bylose, panaudojant lazdą, kuri buvo praminta žinių
     arba pranešėjo, pasiuntinio lazda.
-  citata_rodoma: "„Taip pat šiaurėje\n2\nVoigt. Geschichte Preussens. -  B. I. -  S. 617-637. Apima straips­\nni, kuriame įrodinėjamas tos kronikos buvimas. Ten pat (p. 641-649)\nįrodymai, kad Romovė buvo Sambijoje."
+  citata_rodoma: |
+    „Taip pat šiaurėje
+    2
+    Voigt. Geschichte Preussens. -  B. I. -  S. 617-637. Apima straips­
+    ni, kuriame įrodinėjamas tos kronikos buvimas. Ten pat (p. 641-649)
+    įrodymai, kad Romovė buvo Sambijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -331,7 +340,18 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     nys toli įsiterpė į sausumą, tuomet, anot pačių patiki­
     miausių šaltinių, dar buvo tikra sausuma, kur žmonės
     ganė bandas ir sėjo javus.
-  citata_rodoma: "Tačiau senovės amžiais\nžemėlapiuose Sambija atrodė visiškai kitaip, ypač jos jūros\npakrantės, kur ardančios ir naikinančios audringos jūros\nir Aistmarių bangos padarė neįtikėtinų pokyčių. Mat tuo­\nmet, kai atėjo kryžiuočiai ir praėjo pirma dešimtis jų val­\ndžios metų, rytinė marių dalis buvo visiškai kitokia ne­\ngu vėlesniais laikais. Laukstetės ir Piliavos kryptimi Bran­\ndenburgo ir Baigos link, ten, kur šiandien marių vande­\nnys toli įsiterpė į sausumą, tuomet, anot pačių patiki­\nmiausių šaltinių, dar buvo tikra sausuma, kur žmonės\nganė bandas ir sėjo javus."
+  citata_rodoma: |
+    Tačiau senovės amžiais
+    žemėlapiuose Sambija atrodė visiškai kitaip, ypač jos jūros
+    pakrantės, kur ardančios ir naikinančios audringos jūros
+    ir Aistmarių bangos padarė neįtikėtinų pokyčių. Mat tuo­
+    met, kai atėjo kryžiuočiai ir praėjo pirma dešimtis jų val­
+    džios metų, rytinė marių dalis buvo visiškai kitokia ne­
+    gu vėlesniais laikais. Laukstetės ir Piliavos kryptimi Bran­
+    denburgo ir Baigos link, ten, kur šiandien marių vande­
+    nys toli įsiterpė į sausumą, tuomet, anot pačių patiki­
+    miausių šaltinių, dar buvo tikra sausuma, kur žmonės
+    ganė bandas ir sėjo javus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

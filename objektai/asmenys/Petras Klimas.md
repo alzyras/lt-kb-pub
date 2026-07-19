@@ -107,7 +107,16 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     160
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
     nėra.
-  citata_rodoma: "Voldemaras, neturėdamas\nLietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:\nDovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir\npasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)\n\nL I E T U V O S  I S T O R I J A\n160\nišeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos\nnėra."
+  citata_rodoma: |
+    Voldemaras, neturėdamas
+    Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
+    Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
+    pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
+
+    L I E T U V O S  I S T O R I J A
+    160
+    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
+    nėra.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +140,14 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko
     iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
     grupių atstovus.
-  citata_rodoma: "Vokiečiams modernizuojant anek-\nsijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso, \n1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n133\nnizacinis komitetas (Mykolas Biržiška, Petras Klimas, A."
+  citata_rodoma: |
+    Vokiečiams modernizuojant anek-
+    sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
+    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    133
+    nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

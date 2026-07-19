@@ -124,7 +124,15 @@ Nenurodyta
     Sitai išvydę, broliai ėmė juos vytis, vienus nukovė, kitus paėmė į nelaisvę, o likusieji
     prigėrė Vysloje. Vis dėlto jos vadas su keliais [kariais] vargais negalais išsigelbėjo,
     pasprukdamas laivu.
-  citata_rodoma: "Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį\nmenką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo\nsunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.\n\n\n\n\n               65 (64)."
+  citata_rodoma: |
+    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
+    menką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo
+    sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.
+
+
+
+
+                   65 (64).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

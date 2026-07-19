@@ -104,7 +104,15 @@ Nenurodyta
     rimavo dėl šitokios padėties, dėl kurios sielojasi valdo­
     vai, suvokdami niekam negalėsią užleisti tų aukštumų,
     į kurias iškėlė savo giminę.
-  citata_rodoma: "Štai todėl Vytautas ir ėmė raginti Jogailą neiš­\nsižadėti vilties ir pasirinkti naują gyvenimo draugę.\nJogaila sutiko su Vytauto nuomone ir, jo paskatintas,\nįsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus bei Vy­\ntauto sesers dukterį., Daili, sveika ir jauna mergina iš­\npažino graikų tikėjimą ir prisilaikė rusų apeigų, dėl to\nimta pagrįstai būgštauti, jog lenkai priešinsis šiai san­\ntuokai."
+  citata_rodoma: |
+    Štai todėl Vytautas ir ėmė raginti Jogailą neiš­
+    sižadėti vilties ir pasirinkti naują gyvenimo draugę.
+    Jogaila sutiko su Vytauto nuomone ir, jo paskatintas,
+    įsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus bei Vy­
+    tauto sesers dukterį., Daili, sveika ir jauna mergina iš­
+    pažino graikų tikėjimą ir prisilaikė rusų apeigų, dėl to
+    imta pagrįstai būgštauti, jog lenkai priešinsis šiai san­
+    tuokai.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

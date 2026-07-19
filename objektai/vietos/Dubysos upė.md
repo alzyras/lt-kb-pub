@@ -82,7 +82,11 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios\nvietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."
+  citata_rodoma: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
+    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -105,7 +109,12 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
     vo praplėstos toliau į vakarus, apimdamos didesnius tikrų lie­
     tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
     autoritetas.
-  citata_rodoma: "Vytautas, norėdamas geriau\njuose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­\nti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve­\nliuoną, kuri vėliau buvo mėgiamiausia Vytauto ir Ordino pa­\nsitarimų vieta po Kauno arba Trakų."
+  citata_rodoma: |
+    Vytautas, norėdamas geriau
+    juose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­
+    ti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve­
+    liuoną, kuri vėliau buvo mėgiamiausia Vytauto ir Ordino pa­
+    sitarimų vieta po Kauno arba Trakų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

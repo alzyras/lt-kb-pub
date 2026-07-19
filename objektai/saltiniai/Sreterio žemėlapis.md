@@ -81,7 +81,10 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
     Henenbergerio žemėlapyje ir M. Pretorijaus raštuose — Augste) žemupyje žymima
     Romanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII).
-  citata_rodoma: "XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.\nHenenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima\nRomanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII)."
+  citata_rodoma: |
+    XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
+    Henenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima
+    Romanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

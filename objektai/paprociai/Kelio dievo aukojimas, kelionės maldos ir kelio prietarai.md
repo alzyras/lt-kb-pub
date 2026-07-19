@@ -246,7 +246,16 @@ Nenurodyta
     Viename žmonių pasakojime sakoma, kad Numėjas drau­
     ge su Peskija važinėdavo po kaimus, dvarus ir miestus, juos
     matydavo apsirengusius baltai, važnyčiojančius baltus žirgus.
-  citata_rodoma: "O\ndėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo\njų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­\nleiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­\nbūtų priskirta nelaimingam jo perėjimui per kelią.\nPrietaringas kaimietis, prieš sėsdamas į vežimą arba išei­\ndamas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje\nsutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią\npranašauja, kad kelionė bus sėkminga arba nesėkminga."
+  citata_rodoma: |
+    O
+    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
+    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
+    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
+    būtų priskirta nelaimingam jo perėjimui per kelią.
+    Prietaringas kaimietis, prieš sėsdamas į vežimą arba išei­
+    damas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje
+    sutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią
+    pranašauja, kad kelionė bus sėkminga arba nesėkminga.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

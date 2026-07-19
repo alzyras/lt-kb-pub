@@ -158,7 +158,15 @@ Nenurodyta
     nusipelnyčiau gyventi laimingoje šalyje,
     kur geria baltą gėrimą iš aukso ragų kartu su dievais,
     semdami jį iš švento kubilo.
-  citata_rodoma: "Niešmiertelne dziewice špiewają w gaiku,\nSczęšcie, blogose, uciechy dziedziezą bez liku.\nTam rycerze polegli na wojnach straszliwych \nI cienie wiecznie žyją przyjaciolprawdziwych.\n(Kad aš gyvenčiau turtingas ir kad savo darbais \nnusipelnyčiau gyventi laimingoje šalyje, \nkur geria baltą gėrimą iš aukso ragų kartu su dievais, \nsemdami jį iš švento kubilo."
+  citata_rodoma: |
+    Niešmiertelne dziewice špiewają w gaiku,
+    Sczęšcie, blogose, uciechy dziedziezą bez liku.
+    Tam rycerze polegli na wojnach straszliwych
+    I cienie wiecznie žyją przyjaciolprawdziwych.
+    (Kad aš gyvenčiau turtingas ir kad savo darbais
+    nusipelnyčiau gyventi laimingoje šalyje,
+    kur geria baltą gėrimą iš aukso ragų kartu su dievais,
+    semdami jį iš švento kubilo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

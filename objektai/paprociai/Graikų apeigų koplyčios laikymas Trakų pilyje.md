@@ -98,7 +98,24 @@ Nenurodyta
     regi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų
     laikų tamsybei, kunigaikščių išprusimo stokai arba vi­
     siškam jo nebuvimui86.
-  citata_rodoma: "1. Jo žmonos - Smo­\nlensko kunigaikštytė Ona, o kita - \nAlgimanto Alšėniškio duktė Julijo­\nna -išpažino graikų apeigų tikėjimą \nir Trakų pilyje, dar prieš Lietuvos \nkrikštą, turėjo savo koplyčią, kurios \npėdsakų šios pilies vienos sienos se­\nnovinėje tapyboje yra iki šiol išlikę.\n160\n\n## Puslapis 177\n\nIl KNYGA\ndar barbarų laikais, išsiugdytos, o už tai, ką istorija jame \nregi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų \nlaikų tamsybei, kunigaikščių išprusimo stokai arba vi­\nsiškam jo nebuvimui86."
+  citata_rodoma: |
+    1. Jo žmonos - Smo­
+    lensko kunigaikštytė Ona, o kita -
+    Algimanto Alšėniškio duktė Julijo­
+    na -išpažino graikų apeigų tikėjimą
+    ir Trakų pilyje, dar prieš Lietuvos
+    krikštą, turėjo savo koplyčią, kurios
+    pėdsakų šios pilies vienos sienos se­
+    novinėje tapyboje yra iki šiol išlikę.
+    160
+
+    ## Puslapis 177
+
+    Il KNYGA
+    dar barbarų laikais, išsiugdytos, o už tai, ką istorija jame
+    regi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų
+    laikų tamsybei, kunigaikščių išprusimo stokai arba vi­
+    siškam jo nebuvimui86.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

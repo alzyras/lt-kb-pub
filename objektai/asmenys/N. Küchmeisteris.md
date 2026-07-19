@@ -58,7 +58,9 @@ Küchmeisteris.
     stovykloje^29. Tarp žymiųjų belaisvių buvo ir Žemaičių seniūnas
     N. Küchmeisteris. Nelaisvėn pateko ir M. Salzbachas, kurio įžei­
     dimą per derybas Vytautas buvo paėmęs širdin.
-  citata_rodoma: "Tarp žymiųjų belaisvių buvo ir Žemaičių seniūnas\nN. Küchmeisteris. Nelaisvėn pateko ir M."
+  citata_rodoma: |
+    Tarp žymiųjų belaisvių buvo ir Žemaičių seniūnas
+    N. Küchmeisteris. Nelaisvėn pateko ir M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -134,7 +134,7 @@ Nenurodyta
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-85352
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -156,6 +156,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-89396
+    - t-196967
 ## Citatos
 
 - id: c-85352
@@ -177,7 +178,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89395
-    - t-196967
 - id: c-85354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -188,7 +188,13 @@ Nenurodyta
     sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
     Todėl jie, subūrę kariuomenę,  užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
     tebuvo du vyrai: vienas brolis bei jo tarnas.
-  citata_rodoma: "Apie Rinavos valsčiaus sembų naują atskalūnybę\n\n  Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,\nsukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.\nTodėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu\ntebuvo du vyrai: vienas brolis bei jo tarnas."
+  citata_rodoma: |
+    Apie Rinavos valsčiaus sembų naują atskalūnybę
+
+      Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
+    sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
+    Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
+    tebuvo du vyrai: vienas brolis bei jo tarnas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -208,7 +214,18 @@ Nenurodyta
     Semba buvo pavadinta ir vardu Weydelant (SRP, 2, p. 404), plg. Sembos vietovardžius:
     Weyden, Wayday, Waiditen, Waidipelkis ir lie. Vaidžiai, Vaidbaliai (GAO, p. 191, 198),
     Vaidlėnai, Vaidlonys, Vaidulioniai, Vaideliotai.
-  citata_rodoma: "111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį\n\n  Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė\nkariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su\nvisu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion\nsugrįžo anksčiau čia viešpatavusi taika.\n\n\n\n\n 112 (107)."
+  citata_rodoma: |
+    111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
+
+      Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
+    kariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
+    visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
+    sugrįžo anksčiau čia viešpatavusi taika.
+
+
+
+
+     112 (107).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

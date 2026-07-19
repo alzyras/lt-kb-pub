@@ -119,7 +119,14 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
     liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
     tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
     nugalėjo ir paėmė nesuskaičiuojamus turtus.
-  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
+  citata_rodoma: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

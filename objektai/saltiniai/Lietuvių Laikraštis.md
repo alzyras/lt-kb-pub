@@ -68,7 +68,9 @@ media_all_json: |-
     Laikraštis", „Lietuvos Bitininkas" ir Petro Vilei-
     šio leidžiamas pirmasis lietuvių dienraštis „Vilniaus Ži-
     nios". Pirmasis ėjo Petrapily, o antrieji du Vilniuje.
-  citata_rodoma: "„Lietuvių Laikraštis\",\n— pats pirmasis lietuviškas laikraštis spaudą atgavus."
+  citata_rodoma: |
+    „Lietuvių Laikraštis",
+    — pats pirmasis lietuviškas laikraštis spaudą atgavus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -111,7 +111,14 @@ Nenurodyta
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
     Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m.
-  citata_rodoma: "Tačiau pergyvenusi \ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos \nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953), \no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a. \nVis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m."
+  citata_rodoma: |
+    Tačiau pergyvenusi
+    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
+    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
+    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
+    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
+    Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +138,12 @@ Nenurodyta
     vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
     1976
     susikuria Helsinkio grupė.
-  citata_rodoma: "1944–1953\t\nSovietų Sąjungos organizuotų represijų, deportacijų, masinės kolekty-\nvizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.\n1976\t\nsusikuria Helsinkio grupė."
+  citata_rodoma: |
+    1944–1953
+    Sovietų Sąjungos organizuotų represijų, deportacijų, masinės kolekty-
+    vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
+    1976
+    susikuria Helsinkio grupė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

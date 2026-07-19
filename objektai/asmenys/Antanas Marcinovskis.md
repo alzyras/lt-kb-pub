@@ -156,7 +156,16 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
     lis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios
     buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas,
     taip pat skambėjo įvairiuose to krašto padavimuose.
-  citata_rodoma: "Enciklopedinės žinios, šviesus protas, publicistiniai\nsugebėjimai, darbštumas -  tai bruožai, kurie buvo būdingi pra­\nėjusio, XVIII amžiaus leidėjui. Taigi A. Marcinovskiui rūpėjo\nne tik nauda -  visi XIX amžiaus tyrinėtojai kaip pavyzdį patei­\nkia faktą, kad būtent jo leidykloje buvo leidžiama LTI. Pats\nT. Narbutas, jau praėjus daugeliui metų po paskutinio tomo\npublikavimo, teigė, jog A. Marcinovskis jo „Istorija“ pelnė ir\nnaudą, ir šlovę. Jis buvo teisus: „Marcinovskis“ ir „Narbuto\nleidėjas“ tapo neatskiriamais epitetais."
+  citata_rodoma: |
+    Enciklopedinės žinios, šviesus protas, publicistiniai
+    sugebėjimai, darbštumas -  tai bruožai, kurie buvo būdingi pra­
+    ėjusio, XVIII amžiaus leidėjui. Taigi A. Marcinovskiui rūpėjo
+    ne tik nauda -  visi XIX amžiaus tyrinėtojai kaip pavyzdį patei­
+    kia faktą, kad būtent jo leidykloje buvo leidžiama LTI. Pats
+    T. Narbutas, jau praėjus daugeliui metų po paskutinio tomo
+    publikavimo, teigė, jog A. Marcinovskis jo „Istorija“ pelnė ir
+    naudą, ir šlovę. Jis buvo teisus: „Marcinovskis“ ir „Narbuto
+    leidėjas“ tapo neatskiriamais epitetais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

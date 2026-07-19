@@ -95,7 +95,16 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
     priemiesčius, iš kurių ypač buvo garsi Gorodnica.
     Dirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai
     jie buvo ruošiami iš valstiečių tarpo.
-  citata_rodoma: "Mat,\nTizenhauzas buvo už-\nsimojęs padaryti Gar-\ndiną didžiuliu pramonės\ncentru ir buvo čia pa-\nstatęs net 2 pramonės\npriemiesčius, iš kurių ypač buvo garsi Gorodnica.\nDirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai\njie buvo ruošiami iš valstiečių tarpo."
+  citata_rodoma: |
+    Mat,
+    Tizenhauzas buvo už-
+    simojęs padaryti Gar-
+    diną didžiuliu pramonės
+    centru ir buvo čia pa-
+    statęs net 2 pramonės
+    priemiesčius, iš kurių ypač buvo garsi Gorodnica.
+    Dirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai
+    jie buvo ruošiami iš valstiečių tarpo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

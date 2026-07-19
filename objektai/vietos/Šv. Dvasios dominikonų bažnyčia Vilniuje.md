@@ -87,7 +87,11 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
-  citata_rodoma: "Aleksandras \niš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­\nvo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­\nsios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50."
+  citata_rodoma: |
+    Aleksandras
+    iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
+    vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
+    sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

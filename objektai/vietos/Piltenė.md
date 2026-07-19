@@ -86,7 +86,9 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę.
-  citata_rodoma: "Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę."
+  citata_rodoma: |
+    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
+    tenę, ir Saremos (Eželio) vyskupystę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -273,7 +273,25 @@ Nenurodyta
     wien i 6 sot hrywien i 50 i osm hryzvien
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
-  citata_rodoma: "A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
+  citata_rodoma: |
+    A liteho
+    236
+
+    ## Puslapis 253
+
+    III KNYGA
+    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
+    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
+    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­
+    jos istorija mums išsaugojo įdomią žinią apie tai, kad
+    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
+    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
+    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
+    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
+    serebra do mina/ pryszlo 20 tysiacz hry-
+    wien i 6 sot hrywien i 50 i osm hryzvien
+    i dwa skotcy [Vilniuje, birželio 9-ta
+    diena, 2 indiktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

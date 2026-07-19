@@ -176,7 +176,18 @@ Nenurodyta
     Ir sekančiais metais tas chanas su daugeriopomis
     sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
     sų žemę ir padarė daug žalos Rusų žemei.
-  citata_rodoma: "Tuo metu Užvolgio chanu buvo chanas, vardu Ba-\nlaklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį\nkunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­\ntų jo baskakus tuose miestuose, kaip kad iš tų miestų\nbuvo duodama duoklė, valdant jo pirmtakams, rusų\nkunigaikščiams. Didysis kunigaikštis Skirmantas nepa­\nnoro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­\ntyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.\nIr sekančiais metais tas chanas su daugeriopomis\nsutelktomis jėgomis bei totorių ordomis patraukė į Ru­\nsų žemę ir padarė daug žalos Rusų žemei."
+  citata_rodoma: |
+    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
+    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
+    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
+    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
+    buvo duodama duoklė, valdant jo pirmtakams, rusų
+    kunigaikščiams. Didysis kunigaikštis Skirmantas nepa­
+    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
+    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
+    Ir sekančiais metais tas chanas su daugeriopomis
+    sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
+    sų žemę ir padarė daug žalos Rusų žemei.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -199,7 +210,16 @@ Nenurodyta
     jęs pergalę, be nuostolių pargrįžo atgalios.
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
-  citata_rodoma: "Didysis kunigaikštis Skirmantas, surinkęs visas sa­\nvo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­\nnos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją\ngalybę, ir nukovė patį chaną \", Su didžios pergalės\nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus\nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios.\nTurėjo didysis kunigaikštis Skirmantas tris sūnus:\nvieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 ."
+  citata_rodoma: |
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
+    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
+    galybę, ir nukovė patį chaną ", Su didžios pergalės
+    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    jęs pergalę, be nuostolių pargrįžo atgalios.
+    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
+    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

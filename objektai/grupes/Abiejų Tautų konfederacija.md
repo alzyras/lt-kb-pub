@@ -70,7 +70,8 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
     ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
     savo centru paskelbė Gardiną.
-  citata_rodoma: "ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus"
+  citata_rodoma: |
+    ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

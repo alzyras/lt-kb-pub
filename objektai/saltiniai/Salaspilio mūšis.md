@@ -122,7 +122,19 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     1605-1621 m., vienas žymiausių Europos
     karvedžių. 1595-1596 m. dalyvavo kari-
     niuose veiksmuose prieš Ukrainos kazokus.
-  citata_rodoma: "Apie 1619 m. nutapyto Pieterio\nSnayerso paveikslo „Salaspilio\nmūšis“ fragmentas. Lietuvos\n\nkariuomenės husarai sunaikina\nšvedų pėstininkų batalioną\n\nJonas Karolis Chodkevičius\n\nJonas Karolis Chodkevičius (1560-\n\n1621 m."
+  citata_rodoma: |
+    Apie 1619 m. nutapyto Pieterio
+    Snayerso paveikslo „Salaspilio
+    mūšis“ fragmentas. Lietuvos
+
+    kariuomenės husarai sunaikina
+    švedų pėstininkų batalioną
+
+    Jonas Karolis Chodkevičius
+
+    Jonas Karolis Chodkevičius (1560-
+
+    1621 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

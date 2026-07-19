@@ -126,7 +126,18 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
     kalbis.
-  citata_rodoma: "Kai ant Dniepro\nsaviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,\nVytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,\ngausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės\napie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai\nkartą jam kažkas priminė jo didelį duosnumą dalinant toto­\nriams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu\ngalima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse\nkažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­\nrė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­\nkalbis."
+  citata_rodoma: |
+    Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
+    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
+    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
+    galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
+    kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
+    rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
+    kalbis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -152,7 +163,16 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
     riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
     galima ir laukinius žvėris sušvelninti.
-  citata_rodoma: "Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,\ndažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro\nsaviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,\nVytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,\ngausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės\napie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai\nkartą jam kažkas priminė jo didelį duosnumą dalinant toto­\nriams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu\ngalima ir laukinius žvėris sušvelninti."
+  citata_rodoma: |
+    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
+    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
+    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
+    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
+    galima ir laukinius žvėris sušvelninti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

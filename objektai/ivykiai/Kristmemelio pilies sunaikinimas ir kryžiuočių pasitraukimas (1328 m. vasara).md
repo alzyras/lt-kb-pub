@@ -124,7 +124,12 @@ Nenurodyta
     Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
     organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
     platinimu.
-  citata_rodoma: "Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328\nm. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino\nlietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia."
+  citata_rodoma: |
+    Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
+    m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
+    lietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
+    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
+    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -145,7 +150,12 @@ Nenurodyta
     pagrindą147. Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas
     pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės
     politikos vykdytojo, Ordino, apologijai.
-  citata_rodoma: "Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti\nprūsų kovą nuo Lietuvos, jos karinių pastangų.\n  Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328\nm. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino\nlietuviai146."
+  citata_rodoma: |
+    Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
+    prūsų kovą nuo Lietuvos, jos karinių pastangų.
+      Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
+    m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
+    lietuviai146.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

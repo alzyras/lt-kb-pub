@@ -101,7 +101,15 @@ Nenurodyta
 
 
                 31.
-  citata_rodoma: "Apie švenčiausiosios Marijos gimimo oktavos įsteigimą\n\n  1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė\nšvęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. 22,3).\n\n\n\n            31."
+  citata_rodoma: |
+    Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
+
+      1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė
+    švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. 22,3).
+
+
+
+                31.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

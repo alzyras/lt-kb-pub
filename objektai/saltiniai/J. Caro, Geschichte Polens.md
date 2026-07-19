@@ -108,7 +108,9 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
     Smolka, Fr. Papėe.
     GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha
     1863-1888.
-  citata_rodoma: "GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha\n1863-1888."
+  citata_rodoma: |
+    GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha
+    1863-1888.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

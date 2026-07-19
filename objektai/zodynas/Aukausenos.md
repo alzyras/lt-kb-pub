@@ -74,7 +74,8 @@ Vartojamos formos: `aukos`, `aukas`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948 nulijo, tad tą turėjo už dievų rūstybę.
-  citata_rodoma: "Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948 nulijo, tad tą turėjo už dievų rūstybę."
+  citata_rodoma: |
+    Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948 nulijo, tad tą turėjo už dievų rūstybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -88,7 +89,8 @@ Vartojamos formos: `aukos`, `aukas`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais.
-  citata_rodoma: "Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais."
+  citata_rodoma: |
+    Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

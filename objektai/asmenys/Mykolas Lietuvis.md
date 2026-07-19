@@ -111,7 +111,12 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
     no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
     tęsėsi iki pat pilies, dabar virtusios griuvėsiais. Šią vietą iki šiol
     vadina šilu, nors joje nematyti jokio medžio.
-  citata_rodoma: "Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­\nkoja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­\nmas išliko kaip žalčių laikymas1.\nKaunis (Kaunis)\nMeilės dievaitis, deivės Mildos sūnus, lietuvių Kupidonas."
+  citata_rodoma: |
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
+    Kaunis (Kaunis)
+    Meilės dievaitis, deivės Mildos sūnus, lietuvių Kupidonas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

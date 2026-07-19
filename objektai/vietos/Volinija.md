@@ -177,7 +177,11 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
     Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
     sodino iš pirmųjų vedybų savo sūnus.
-  citata_rodoma: "Po kietų kovų su\nLenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.\nRytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­\nsodino iš pirmųjų vedybų savo sūnus."
+  citata_rodoma: |
+    Po kietų kovų su
+    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
+    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
+    sodino iš pirmųjų vedybų savo sūnus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

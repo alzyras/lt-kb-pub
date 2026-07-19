@@ -65,11 +65,15 @@ media_all_json: |-
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Jogailos jam pavestą valdyti Lietuvą. 1394 m.
+    1394 m.
     vasarą pats vyriausias magistras Konradas von Jungingen su gau­
     siais svečiais suruošė didelį žygį Lietuvon^3. Kryžiuočiai vėl atėjo
     iki pat Vilniaus ir per kelias savaites bandė jį paimti.
-  citata_rodoma: "1394 m.\nvasarą pats vyriausias magistras Konradas von Jungingen su gau­\nsiais svečiais suruošė didelį žygį Lietuvon^3. Kryžiuočiai vėl atėjo\niki pat Vilniaus ir per kelias savaites bandė jį paimti."
+  citata_rodoma: |
+    1394 m.
+    vasarą pats vyriausias magistras Konradas von Jungingen su gau­
+    siais svečiais suruošė didelį žygį Lietuvon^3. Kryžiuočiai vėl atėjo
+    iki pat Vilniaus ir per kelias savaites bandė jį paimti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

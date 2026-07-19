@@ -79,9 +79,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir
-        šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
-        kelio.
-  citata_rodoma: "Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir\nšieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo\nkelio."
+    šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
+    kelio.
+  citata_rodoma: |
+    Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir
+    šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
+    kelio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

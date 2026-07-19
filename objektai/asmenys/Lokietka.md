@@ -78,8 +78,12 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
     Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
     kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
     Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
-    mieru. 1326 m.
-  citata_rodoma: "Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-\nkiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą\nAldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-\nmieru."
+    mieru.
+  citata_rodoma: |
+    Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
+    kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
+    Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
+    mieru.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

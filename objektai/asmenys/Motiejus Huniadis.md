@@ -110,7 +110,23 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
     KIJEVAS O Svarbesni miestai jlija M y =
     : : =] his 40 1484 m. Turkijos sultonas Bajazidas II užėmė Moldavi-
     Ula O Miestai = y?
-  citata_rodoma: "odie o ( a\n‘E> oo 3 =\n2 “Batas0, 3 By sie iy Perejeslal < „\nLvovas a a ecas\n= Aa 42 erczeas Kereso =\n~ > erkasai ų 2\niš a Ka a nigoro\n1490 m. mirė Jogailaičiams priešiškas (A oN\nVengrijos karalius Motiejus Huniadis oo = A\n\nėlyn\nEN\n\nvieta ir žygio į Klecką kryptis dera K\nKrymo totorių žygių į LDK kryptys „> a a 610\nX."
+  citata_rodoma: |
+    odie o ( a
+    ‘E> oo 3 =
+    2 “Batas0, 3 By sie iy Perejeslal < „
+    Lvovas a a ecas
+    = Aa 42 erczeas Kereso =
+    ~ > erkasai ų 2
+    iš a Ka a nigoro
+    1490 m. mirė Jogailaičiams priešiškas (A oN
+    Vengrijos karalius Motiejus Huniadis oo = A
+
+    ėlyn
+    EN
+
+    vieta ir žygio į Klecką kryptis dera K
+    Krymo totorių žygių į LDK kryptys „> a a 610
+    X.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

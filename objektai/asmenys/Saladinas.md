@@ -183,7 +183,16 @@ media_all_json: |-
     jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: "Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus\npilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­\ntuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo\npaklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu\npaskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas\njam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,\n73 nė Ona mirė Trakuose, o palaidota\nOna buvo Smolensko kunigaikščio buvo Vilniuje."
+  citata_rodoma: |
+    Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
+    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
+    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
+    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
+    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
+    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
+    73 nė Ona mirė Trakuose, o palaidota
+    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -203,7 +212,13 @@ media_all_json: |-
     kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
     skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
     jam valdovui, paliko chanystę ir pabėgo.
-  citata_rodoma: "Mat, daug buvo \nOrdos didžiųjų chanų, tarnaujančių jo rūmuose. Ir \njis paskyrė jiems chaną, vardu Saladiną7 . O tas chanas, \nkur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­\nskyrė chanu savo tarną, neišdrįso priešintis šlovinga­\njam valdovui, paliko chanystę ir pabėgo."
+  citata_rodoma: |
+    Mat, daug buvo
+    Ordos didžiųjų chanų, tarnaujančių jo rūmuose. Ir
+    jis paskyrė jiems chaną, vardu Saladiną7 . O tas chanas,
+    kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
+    skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
+    jam valdovui, paliko chanystę ir pabėgo.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

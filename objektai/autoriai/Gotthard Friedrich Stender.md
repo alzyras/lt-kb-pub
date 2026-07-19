@@ -119,7 +119,17 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
     buvo panašūs nei išvaizda, nei papročiais ir kalba, sky­
     rėsi nuo tikrų poloviečių, kurie negalėjo kitaip užklysti į
     tas šalis, o nebent tik taip, kaip mes jau minėjome.
-  citata_rodoma: "Mongolų karvedžiai skubėjo\nužimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­\nlydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­\n1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­\nschweig,\n1761.\n8-vo.\nS.\n1,\nsequ."
+  citata_rodoma: |
+    Mongolų karvedžiai skubėjo
+    užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­
+    lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
+    1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­
+    schweig,
+    1761.
+    8-vo.
+    S.
+    1,
+    sequ.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

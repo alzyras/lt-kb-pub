@@ -111,7 +111,10 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
     mą Peluzija. Čia buvo trys chorunžuos, t. y. kariniai
     valsčiai: Merkio, Eišiškių ir Rodūnės; kiekviename iš jų
     stovėjo po įtvirtintą tvirtovę.
-  citata_rodoma: "Čia buvo trys chorunžuos, t. y. kariniai\nvalsčiai: Merkio, Eišiškių ir Rodūnės; kiekviename iš jų\nstovėjo po įtvirtintą tvirtovę."
+  citata_rodoma: |
+    Čia buvo trys chorunžuos, t. y. kariniai
+    valsčiai: Merkio, Eišiškių ir Rodūnės; kiekviename iš jų
+    stovėjo po įtvirtintą tvirtovę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

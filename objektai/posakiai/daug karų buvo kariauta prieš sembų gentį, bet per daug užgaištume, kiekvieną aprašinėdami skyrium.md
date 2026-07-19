@@ -130,7 +130,14 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
     reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar kas įmanytų surašyti“,
     o jei surašytų, tai „vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami
     juos vėl pajungti krikščionių tikėjimui“ (III, 107).
-  citata_rodoma: "Pažymėjęs, kad kovų su pagudėnais „niekas nestengtų nė tiksliai aprašyti, nė\natpasakoti“ (III, 17), toliau pateikia kai kuriuos jų momentus. Pradėdamas kalbėti apie\nOrdino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš\nsembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą\nreikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar kas įmanytų surašyti“,\no jei surašytų, tai „vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami\njuos vėl pajungti krikščionių tikėjimui“ (III, 107)."
+  citata_rodoma: |
+    Pažymėjęs, kad kovų su pagudėnais „niekas nestengtų nė tiksliai aprašyti, nė
+    atpasakoti“ (III, 17), toliau pateikia kai kuriuos jų momentus. Pradėdamas kalbėti apie
+    Ordino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš
+    sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą
+    reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar kas įmanytų surašyti“,
+    o jei surašytų, tai „vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami
+    juos vėl pajungti krikščionių tikėjimui“ (III, 107).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

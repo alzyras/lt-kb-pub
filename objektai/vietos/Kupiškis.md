@@ -83,7 +83,10 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     Galiausiai bolševikai gegužės 30-31 d. at-
     sitraukė ir iš Kupiškio. Šie laimėjimai su-
     teikė galimybę toliau vystyti puolimą.
-  citata_rodoma: "Galiausiai bolševikai gegužės 30-31 d. at-\nsitraukė ir iš Kupiškio. Šie laimėjimai su-\nteikė galimybę toliau vystyti puolimą."
+  citata_rodoma: |
+    Galiausiai bolševikai gegužės 30-31 d. at-
+    sitraukė ir iš Kupiškio. Šie laimėjimai su-
+    teikė galimybę toliau vystyti puolimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +110,15 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     traukė Subačiaus
     kryptimi ir įsi-
     tvirtino Kupiškyje.
-  citata_rodoma: "Naktį iš\ngegužės 22 d. į\n23 d. bolševikai\npaliko Panevėžio\napylinkes, pasi-\ntraukė Subačiaus\nkryptimi ir įsi-\ntvirtino Kupiškyje."
+  citata_rodoma: |
+    Naktį iš
+    gegužės 22 d. į
+    23 d. bolševikai
+    paliko Panevėžio
+    apylinkes, pasi-
+    traukė Subačiaus
+    kryptimi ir įsi-
+    tvirtino Kupiškyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

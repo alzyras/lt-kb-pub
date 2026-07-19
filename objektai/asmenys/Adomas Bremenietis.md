@@ -272,7 +272,14 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
     giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
     davo karalių, ponų ir prastuomenės didžios pagarbos.
-  citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių."
+  citata_rodoma: |
+    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
+    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
+    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
+    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
+    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
+    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
+    šaltinių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -362,7 +369,15 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     jo amžiuje žinomas Rusias: vieną, per kurios vidurį plau­
     kė Nemunas iki lietuvių žemių, ir antrą, kurią kirto išėjęs
     iš Lietuvos5.
-  citata_rodoma: "Ra- \ndevikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos \nsienas, mini Rusios problemą. Jis priskyrė Lenkijai visą \nPrūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­\nsus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4. \nTie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­\njusią Rusios vardą, kuris susimaišė su Nemuno aukštupio \nslaviškumu."
+  citata_rodoma: |
+    Ra-
+    devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
+    sienas, mini Rusios problemą. Jis priskyrė Lenkijai visą
+    Prūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­
+    sus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4.
+    Tie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­
+    jusią Rusios vardą, kuris susimaišė su Nemuno aukštupio
+    slaviškumu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

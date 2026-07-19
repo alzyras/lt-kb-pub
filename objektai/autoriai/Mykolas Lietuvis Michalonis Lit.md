@@ -168,7 +168,17 @@ media_all_json: |-
     sų k. išvertus reiškia - Keturiasdešim­
     ties Totorių kaimas. Apie tai yra rašęs
     Mykolas L i e t u v i s, p. 28.
-  citata_rodoma: "63\nTolesniuose mūsų istorijos pasakoji­\nmuose plačiau išdėstysime apie tą to­\ntorių gyvenamą miesto dalį; prie Vo­\nkės, be kitų totorių, buvo apsigyvenę \n40 brolių, todėl iki šios dienos ta gy­\nvenvietė vadinama Sorok Tatary, iš ru­\nsų k. išvertus reiškia - Keturiasdešim­\nties Totorių kaimas. Apie tai yra rašęs \nMykolas L i e t u v i s, p. 28."
+  citata_rodoma: |
+    63
+    Tolesniuose mūsų istorijos pasakoji­
+    muose plačiau išdėstysime apie tą to­
+    torių gyvenamą miesto dalį; prie Vo­
+    kės, be kitų totorių, buvo apsigyvenę
+    40 brolių, todėl iki šios dienos ta gy­
+    venvietė vadinama Sorok Tatary, iš ru­
+    sų k. išvertus reiškia - Keturiasdešim­
+    ties Totorių kaimas. Apie tai yra rašęs
+    Mykolas L i e t u v i s, p. 28.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

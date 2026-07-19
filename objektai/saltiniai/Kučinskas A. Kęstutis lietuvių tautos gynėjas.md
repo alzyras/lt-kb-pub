@@ -76,7 +76,8 @@ Dusburgietis teigia, kad kučinskas A.
   citata_originali: |
     257—311.
     Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
-  citata_rodoma: "Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938."
+  citata_rodoma: |
+    Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -124,7 +124,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Veliamos mergaitės meškeriojimas.
     Kalevalos dr-jos me­
     traštis 5.
-  citata_rodoma: "1925. \nVeliamos mergaitės meškeriojimas. \nKalevalos dr-jos me­\ntraštis 5."
+  citata_rodoma: |
+    1925.
+    Veliamos mergaitės meškeriojimas.
+    Kalevalos dr-jos me­
+    traštis 5.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -142,7 +146,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Kalevalos estetiškas įvertinimas.
     Kalevalos dr-jos metraš­
     tis 4.
-  citata_rodoma: "1924. \nKalevalos estetiškas įvertinimas. \nKalevalos dr-jos metraš­\ntis 4."
+  citata_rodoma: |
+    1924.
+    Kalevalos estetiškas įvertinimas.
+    Kalevalos dr-jos metraš­
+    tis 4.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -160,7 +168,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Šis tas dėl aliteracijos atsiradimo ir raidos istorijos.
     Ka­
     levalos dr-jos metr. 6.
-  citata_rodoma: "1926. \nŠis tas dėl aliteracijos atsiradimo ir raidos istorijos. \nKa­\nlevalos dr-jos metr. 6."
+  citata_rodoma: |
+    1926.
+    Šis tas dėl aliteracijos atsiradimo ir raidos istorijos.
+    Ka­
+    levalos dr-jos metr. 6.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -181,7 +193,14 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Kalevalos
     dr-jos
     metr. 9.
-  citata_rodoma: "1929. Apie mūsų \nrunų \ntyrinėjimo \nmetodą. \nKalevalos \ndr-jos \nmetr. 9."
+  citata_rodoma: |
+    1929. Apie mūsų
+    runų
+    tyrinėjimo
+    metodą.
+    Kalevalos
+    dr-jos
+    metr. 9.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -198,7 +217,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     1927.
     Kaip reikia Kalevala dėstyti suomių kalbos mokyklose. Ka­
     levalos dr-jos metr. 7.
-  citata_rodoma: "1927. \nKaip reikia Kalevala dėstyti suomių kalbos mokyklose. Ka­\nlevalos dr-jos metr. 7."
+  citata_rodoma: |
+    1927.
+    Kaip reikia Kalevala dėstyti suomių kalbos mokyklose. Ka­
+    levalos dr-jos metr. 7.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -214,7 +236,9 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   citata_originali: |
     1928 L. Iš lietuvių tautosakos.
     Kalevalos dr-jos metr. 8.
-  citata_rodoma: "1928 L. Iš lietuvių tautosakos. \nKalevalos dr-jos metr. 8."
+  citata_rodoma: |
+    1928 L. Iš lietuvių tautosakos.
+    Kalevalos dr-jos metr. 8.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

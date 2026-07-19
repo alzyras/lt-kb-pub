@@ -185,7 +185,13 @@ Nenurodyta
     gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-  citata_rodoma: "Tačiau pergyvenusi\ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos\nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),\no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a."
+  citata_rodoma: |
+    Tačiau pergyvenusi
+    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
+    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
+    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
+    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -203,7 +209,11 @@ Nenurodyta
     laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
     doti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
     akcijų metu.
-  citata_rodoma: "Apie 50 tūkst. žydų\nlaikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-\ndoti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų\nakcijų metu."
+  citata_rodoma: |
+    Apie 50 tūkst. žydų
+    laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
+    doti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
+    akcijų metu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -220,7 +230,10 @@ Nenurodyta
     akcijų metu. Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
     ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
     ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
-  citata_rodoma: "Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė\nir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje\nir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,"
+  citata_rodoma: |
+    Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
+    ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
+    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -241,7 +254,12 @@ Nenurodyta
     sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-
     torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė
     žydų tautos ir visos Lietuvos netektis ir tragedija.
-  citata_rodoma: "Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy-\nvenusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų\nsunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-\ntorijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė\nžydų tautos ir visos Lietuvos netektis ir tragedija."
+  citata_rodoma: |
+    Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy-
+    venusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų
+    sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-
+    torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė
+    žydų tautos ir visos Lietuvos netektis ir tragedija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

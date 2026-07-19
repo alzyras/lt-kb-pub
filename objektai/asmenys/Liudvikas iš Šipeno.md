@@ -90,7 +90,16 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
     tą pačią dieną laimingai atidavė viešpačiui sielą.
     279 (272). Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
     Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus.
-  citata_rodoma: "Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą\n\n   Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus\nmetus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.\n\n\n\n\n  273 (266)."
+  citata_rodoma: |
+    Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
+
+       Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
+    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
+
+
+
+
+      273 (266).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

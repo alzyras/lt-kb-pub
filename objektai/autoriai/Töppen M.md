@@ -67,7 +67,9 @@ Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M.
     Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų ir
     sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
     — nurodo „lietuvius ir prūsus“144.
-  citata_rodoma: "139 Töppen M. Geschichte der preussischen Historiographie, S. 266, 140; PKD, s.\n138."
+  citata_rodoma: |
+    139 Töppen M. Geschichte der preussischen Historiographie, S. 266, 140; PKD, s.
+    138.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

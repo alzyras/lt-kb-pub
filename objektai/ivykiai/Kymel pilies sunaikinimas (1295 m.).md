@@ -88,7 +88,12 @@ Nenurodyta
     Šitas kelerių metų ordino žygių Lietuvon inventoriškas išskai­
     čiavimas yra maža išpiova apie pradedančius išsivystyti ordino ir
     lietuvių santykius.
-  citata_rodoma: "0 1295 kryžiuočiai sunaikino prie Nemuno stiprią\npilį « Kymel »^28.\nŠitas kelerių metų ordino žygių Lietuvon inventoriškas išskai­\nčiavimas yra maža išpiova apie pradedančius išsivystyti ordino ir\nlietuvių santykius."
+  citata_rodoma: |
+    0 1295 kryžiuočiai sunaikino prie Nemuno stiprią
+    pilį « Kymel »^28.
+    Šitas kelerių metų ordino žygių Lietuvon inventoriškas išskai­
+    čiavimas yra maža išpiova apie pradedančius išsivystyti ordino ir
+    lietuvių santykius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

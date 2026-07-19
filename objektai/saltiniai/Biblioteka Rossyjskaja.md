@@ -96,7 +96,14 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
     čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
     Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
     namoje Bruzes.
-  citata_rodoma: "Buvo rasta geografijos ištrauka, laikoma \nlabai sena ir saugoma Milano bibliotekoje; ji turėjo būti \nX amžiuje parašyta kopija5. Joje išvardijamos Siaurės \nEuropos tautos ir jų gyvenamosios vietos. Ten tarp gen­\nčių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra \nNerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­\nnamoje Bruzes."
+  citata_rodoma: |
+    Buvo rasta geografijos ištrauka, laikoma
+    labai sena ir saugoma Milano bibliotekoje; ji turėjo būti
+    X amžiuje parašyta kopija5. Joje išvardijamos Siaurės
+    Europos tautos ir jų gyvenamosios vietos. Ten tarp gen­
+    čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
+    Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
+    namoje Bruzes.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

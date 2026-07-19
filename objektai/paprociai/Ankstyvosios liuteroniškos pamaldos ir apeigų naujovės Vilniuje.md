@@ -111,7 +111,16 @@ Nenurodyta
     šiuo reikalu. Dabar prisidėjusi dar viena svarbi aplin­
     kybė, didžiai kliudanti santarvei, mat karalius sukurs­
     tęs prieš Maskvos kunigaikštystę skitus.
-  citata_rodoma: "Nauji tikybiniai įsitikinimai laisvai plito po didikų\nbei bajorų dvarus, nuolatos pripilamų taurių kurstomi,\nkėlė galvą per puotas ir gėrynes, tačiau kelias į baž­\nnyčias jiems ilgai buvo užkirstas. Galop Vilniuje, gy­\nvam tebesant vyskupui Povilui, kažkoks Viklifo pase­\nkėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei­\ndimą kalbėti šv. Onos bažnyčioje apie tikėjimo dalykus\nvokiečių kilmės žmonėms, amatininkams ir pirkliams,\nir ten pat laikyti pamaldas."
+  citata_rodoma: |
+    Nauji tikybiniai įsitikinimai laisvai plito po didikų
+    bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,
+    kėlė galvą per puotas ir gėrynes, tačiau kelias į baž­
+    nyčias jiems ilgai buvo užkirstas. Galop Vilniuje, gy­
+    vam tebesant vyskupui Povilui, kažkoks Viklifo pase­
+    kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei­
+    dimą kalbėti šv. Onos bažnyčioje apie tikėjimo dalykus
+    vokiečių kilmės žmonėms, amatininkams ir pirkliams,
+    ir ten pat laikyti pamaldas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

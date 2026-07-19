@@ -112,7 +112,11 @@ Nenurodyta
     valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai
     buvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi
     kariuomenė labai žiauriai numalšino jų sukilimą.
-  citata_rodoma: "Tuo pat metu buvo sukilę Ukrainos\nvalstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai\nbuvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi\nkariuomenė labai žiauriai numalšino jų sukilimą."
+  citata_rodoma: |
+    Tuo pat metu buvo sukilę Ukrainos
+    valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai
+    buvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi
+    kariuomenė labai žiauriai numalšino jų sukilimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

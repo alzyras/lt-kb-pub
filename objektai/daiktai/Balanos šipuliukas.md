@@ -74,7 +74,10 @@ Nenurodyta
     Šipuliuko.
     Per didelė garstyčninko porcija drasko nosį ir varo iš akių
     ašaras.
-  citata_rodoma: "Valgo garstyč- \nninką duoną dažydami arba, dar geriau, bulbes pasmeigę ant balanos \nŠipuliuko."
+  citata_rodoma: |
+    Valgo garstyč-
+    ninką duoną dažydami arba, dar geriau, bulbes pasmeigę ant balanos
+    Šipuliuko.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

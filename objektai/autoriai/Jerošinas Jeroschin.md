@@ -113,7 +113,19 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
     tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
     dijančių juos Rygos arkivyskupo prasimanymu ir klastote
     esant.
-  citata_rodoma: "236-237, abejoja tos nuomonės \nteisingumu. Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad \nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir \npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu \nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote \nesant."
+  citata_rodoma: |
+    236-237, abejoja tos nuomonės
+    teisingumu. Vėliau viskas byloja, jog Gediminas per pasiun­
+    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
+    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
+    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
+    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
+    kada nebuvo dėl jų suabejojęs.
+    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
+    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
+    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
+    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
+    esant.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

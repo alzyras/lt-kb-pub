@@ -76,7 +76,11 @@ Dusburgietis teigia, kad zinkevičius Z. Dusburgietis teigia, kad zinkevičius Z
     šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
     papilį, nukovė daug žmonių, 78 paėmė į nelaisvę, o jį sudegino ligi pamatų. Po to jie
     nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
-  citata_rodoma: "571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis\nvadina Naugarduko žemę Nemuno aukštupyje. Naugarduko regioną krivičiai apgyvendino\nI m. e. tūkstantmečio 2-oje pusėje (Гуревич Ф. Д., Древности..., с. 76; Ochmański J.,\nLitewska granica..., p. 27—33). Žr. Zinkevičius Z., Lietuvių kalbos kilmė, p. 252."
+  citata_rodoma: |
+    571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis
+    vadina Naugarduko žemę Nemuno aukštupyje. Naugarduko regioną krivičiai apgyvendino
+    I m. e. tūkstantmečio 2-oje pusėje (Гуревич Ф. Д., Древности..., с. 76; Ochmański J.,
+    Litewska granica..., p. 27—33). Žr. Zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

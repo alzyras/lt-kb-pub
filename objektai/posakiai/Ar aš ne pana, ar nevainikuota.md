@@ -74,7 +74,9 @@ Klausiamoji vestuvinė formulė apie merginos statusą.
     Po vakarienės jaunimui smįagus laikas:
     nauji žmonės, naujos
     pažintys.
-  citata_rodoma: "Ar aš ne pana, ar nevainikuota,\nO mano galva ar nesidabruota?"
+  citata_rodoma: |
+    Ar aš ne pana, ar nevainikuota,
+    O mano galva ar nesidabruota?
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

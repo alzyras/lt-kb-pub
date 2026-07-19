@@ -134,7 +134,19 @@ Nenurodyta
     vuose išlikę duomenys iš XIII amžiaus.
     Lietuviai nuo seniausių amžių dalijo laiką į valandas
     (lYahmda) , o jos skirstytos į dienos ir nakties.
-  citata_rodoma: "Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).\nII. 93\n321\n\n## Puslapis 321\n\nlietuvių liudijimo būdas su užkeikimu arba priesaika."
+  citata_rodoma: |
+    Šaltinis
+    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
+    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
+    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
+    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
+    17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).
+    II. 93
+    321
+
+    ## Puslapis 321
+
+    lietuvių liudijimo būdas su užkeikimu arba priesaika.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

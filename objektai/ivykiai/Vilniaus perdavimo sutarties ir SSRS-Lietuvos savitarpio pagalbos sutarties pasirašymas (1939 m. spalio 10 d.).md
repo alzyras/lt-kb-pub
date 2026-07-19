@@ -167,7 +167,10 @@ Nenurodyta
     Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
     dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: "Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio\npagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį\ndėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai."
+  citata_rodoma: |
+    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
+    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
+    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -189,7 +192,11 @@ Nenurodyta
     jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
     V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
     SSRS ir Lietuvos savitarpio pagalbos sutartis.
-  citata_rodoma: "Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija\njau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir\nV. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir\nSSRS ir Lietuvos savitarpio pagalbos sutartis."
+  citata_rodoma: |
+    Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
+    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
+    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
+    SSRS ir Lietuvos savitarpio pagalbos sutartis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +218,10 @@ Nenurodyta
     nepriklausomybei. Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
     ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
     teritorijos, o už tai turėjo įsileisti karines sovietų bazes.
-  citata_rodoma: "Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi\nir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje\nteritorijos, o už tai turėjo įsileisti karines sovietų bazes."
+  citata_rodoma: |
+    Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
+    ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
+    teritorijos, o už tai turėjo įsileisti karines sovietų bazes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -232,7 +242,9 @@ Nenurodyta
     Vokietijos už 7,5 mln. aukso dolerių).
     Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
     va prarado neutralios politikos statusą ir dalį suvereniteto.
-  citata_rodoma: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-\nva prarado neutralios politikos statusą ir dalį suvereniteto."
+  citata_rodoma: |
+    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
+    va prarado neutralios politikos statusą ir dalį suvereniteto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

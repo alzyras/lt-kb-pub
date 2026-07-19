@@ -116,7 +116,10 @@ Nenurodyta
     Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte,
     kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių
     administracijai.
-  citata_rodoma: "Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte,\nkurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių\nadministracijai."
+  citata_rodoma: |
+    Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte,
+    kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių
+    administracijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

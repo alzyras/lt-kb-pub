@@ -61,7 +61,13 @@ Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų plote, arti Nemuno,
     nuo Lydos). Yra bandoma seniausias lietuvių sienas nukelti iki
     linijos Merkinė-Eišiškės-Šalčininkai (H. Łowmiański, H. Paszkie­
     wicz).
-  citata_rodoma: "Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino\nlink Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­\nmas. Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų\nplote, arti Nemuno, išlikusi lietuvių kalbos sala — Lazūnai (į rytus\nnuo Lydos). Yra bandoma seniausias lietuvių sienas nukelti iki\nlinijos Merkinė-Eišiškės-Šalčininkai (H."
+  citata_rodoma: |
+    Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
+    link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­
+    mas. Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų
+    plote, arti Nemuno, išlikusi lietuvių kalbos sala — Lazūnai (į rytus
+    nuo Lydos). Yra bandoma seniausias lietuvių sienas nukelti iki
+    linijos Merkinė-Eišiškės-Šalčininkai (H.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

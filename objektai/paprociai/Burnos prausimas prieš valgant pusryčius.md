@@ -102,7 +102,8 @@ Nenurodyta
     Dotnavietis, atsikėlęs iš ry­
     to, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto
     plaukus, apsivelka ir tada eina į darbą.
-  citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu. Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą."
+  citata_rodoma: |
+    Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu. Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -122,7 +123,8 @@ Nenurodyta
     Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną
     ne dieną pradėdamas, bet visada eidamas valgyti
     pusryčių.
-  citata_rodoma: "Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną ne dieną pradėdamas, bet visada eidamas valgyti pusryčių."
+  citata_rodoma: |
+    Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną ne dieną pradėdamas, bet visada eidamas valgyti pusryčių.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

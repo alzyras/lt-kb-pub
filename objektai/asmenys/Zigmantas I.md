@@ -133,7 +133,8 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
     įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
     ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
-  citata_rodoma: "gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo"
+  citata_rodoma: |
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -155,7 +156,11 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
     1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
     metų, 1538 m.
     13.
-  citata_rodoma: "12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto \nI tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o \n1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 \nmetų, 1538 m."
+  citata_rodoma: |
+    12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
+    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
+    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
+    metų, 1538 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

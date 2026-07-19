@@ -92,7 +92,8 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas. A. J. Čartoris-
     kiui jo globojama apygarda buvo plano atkurti Lenkijos (ar Lenkijos ir
     Lietuvos) valstybę Rusijos imperijos globoje parengiamoji grandis.
-  citata_rodoma: "kiui jo globojama apygarda buvo plano atkurti Lenkijos (ar Lenkijos ir"
+  citata_rodoma: |
+    kiui jo globojama apygarda buvo plano atkurti Lenkijos (ar Lenkijos ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -113,7 +114,8 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: "kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino"
+  citata_rodoma: |
+    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

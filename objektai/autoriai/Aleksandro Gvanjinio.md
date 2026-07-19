@@ -112,7 +112,15 @@ media_all_json: |-
 
     Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.
     Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m.
-  citata_rodoma: "Tarp\njų bene labiausiai pagarsėjo 1482 m. įvykęs\nKijevo nusiaubimas, kurio metu į toto-\n\nrių nelaisvę pakliuvo aukščiausias vietinės\n\nIliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.\nPaplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m."
+  citata_rodoma: |
+    Tarp
+    jų bene labiausiai pagarsėjo 1482 m. įvykęs
+    Kijevo nusiaubimas, kurio metu į toto-
+
+    rių nelaisvę pakliuvo aukščiausias vietinės
+
+    Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.
+    Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

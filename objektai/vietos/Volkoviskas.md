@@ -102,7 +102,12 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
     seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
     tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
     davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: "Tie generaliniai seimeliai neišnyko nė įvedus bend-\nrą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį\nseimą taip pat buvo pradėti daryti tokie pat į seimą vyks-\ntančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-\ndavo Volkoviske, o vėliau Slanime."
+  citata_rodoma: |
+    Tie generaliniai seimeliai neišnyko nė įvedus bend-
+    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
+    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
+    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
+    davo Volkoviske, o vėliau Slanime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +131,17 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
     niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
     Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
     varniuose, Veliuonoje.
-  citata_rodoma: "Pane­\nlės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,\nDarsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­\nbingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje."
+  citata_rodoma: |
+    Pane­
+    lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -254,7 +254,16 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     būti Mazovijoje, prie Livos upės; šiam teiginiui negalime
     1 Estijos dalis, kur yra Dorpato miestas, pavadinta labai seno­
     viniu Unguriįos, Iggaunu Seme, vardu.
-  citata_rodoma: "Mes net nežinome, ar tai buvęs tik\nvardas lėtų, arba veikiau lietuvių, genties, ar visai at­\nskiros, seniai išnykusios genties pavadinimas. Senovėje\nbuvo žinomi panašūs pavadinimai: Ptolemėjas mini Ael-\nvaconesz, kurie buvo lygų gentis; be to, tyrinėtojai tei­\ngia, kad jie gyveno Silezijoje, nors galėjo būti ir arčiau\nVyslos arba prie jūros kairiojoje šios upės pakrantėje. Ta­\ncitas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­\ntojai, gyvenę Pomeranijoje prie Helio5."
+  citata_rodoma: |
+    Mes net nežinome, ar tai buvęs tik
+    vardas lėtų, arba veikiau lietuvių, genties, ar visai at­
+    skiros, seniai išnykusios genties pavadinimas. Senovėje
+    buvo žinomi panašūs pavadinimai: Ptolemėjas mini Ael-
+    vaconesz, kurie buvo lygų gentis; be to, tyrinėtojai tei­
+    gia, kad jie gyveno Silezijoje, nors galėjo būti ir arčiau
+    Vyslos arba prie jūros kairiojoje šios upės pakrantėje. Ta­
+    citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
+    tojai, gyvenę Pomeranijoje prie Helio5.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -276,7 +285,16 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
     nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
     1 Lib. XXXI.
-  citata_rodoma: "Esmė ta, \nkad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų, \ndaugiausia netvarkingai surašytų ir sukompiliuotų iš \nįvairių šaltinių, kuriuos naudojo šis geografas, daugybė­\nje jam ne sykį atsitikdavo, kad, paėmęs du vienos tau­\ntos pavadinimus iš įvairių epochų ir autorių, pateikė juos \natskirai ir padarė dvi tautas, kiek panašiai pavadinęs, \nnes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5\n1 Lib. XXXI."
+  citata_rodoma: |
+    Esmė ta,
+    kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
+    daugiausia netvarkingai surašytų ir sukompiliuotų iš
+    įvairių šaltinių, kuriuos naudojo šis geografas, daugybė­
+    je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau­
+    tos pavadinimus iš įvairių epochų ir autorių, pateikė juos
+    atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
+    nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
+    1 Lib. XXXI.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -325,7 +343,12 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
     į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
     nes ten yra vietovardžių Stabinas, Staviškės.
-  citata_rodoma: "270\nLietuvos provincijos. Stavanus Ptolemėjas vadina Sta-\nbatiix. Sis geografas mini juos toje vietoje ir tokia tvar­\nka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­\nsius lietuvius."
+  citata_rodoma: |
+    270
+    Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
+    batiix. Sis geografas mini juos toje vietoje ir tokia tvar­
+    ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
+    sius lietuvius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

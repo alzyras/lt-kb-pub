@@ -80,7 +80,13 @@ Domininkas Burba yra šio straipsnio autorius.
     Lietuvos edukologijos universitetas, Istorijos fakultetas, Lietuvos istorijos katedra, T. Ševčenkos g. 31, Vilnius,
     el. p.: domininkasb@gmail.com
     Anotacija.
-  citata_rodoma: "Bajorų gyvenimo peripetijos XVIII amžiaus \nvidurio Lietuvos Didžiosios Kunigaikštystės \nsostinėje pagal Vilniaus kanauninko \nJono Dominyko Lopacinskio asmeninę \nkorespondenciją\nBurba Domininkas"
+  citata_rodoma: |
+    Bajorų gyvenimo peripetijos XVIII amžiaus
+    vidurio Lietuvos Didžiosios Kunigaikštystės
+    sostinėje pagal Vilniaus kanauninko
+    Jono Dominyko Lopacinskio asmeninę
+    korespondenciją
+    Burba Domininkas
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
@@ -108,7 +114,12 @@ Domininkas Burba yra šio straipsnio autorius.
     in the mid-18th century (1730–1762). Most of his addressees were lords or the noblemen of the
     higher-than-average rank. The letters refer to political problems – mostly the news on the dietines
     (sejmiks) of Vilnius, Smolensk, Starodub taking place in the capital.
-  citata_rodoma: "The Twists and Turns of the Life of the Nobility in the \nCapital of the Grand Duchy of Lithuania of the Mid-18th \nCentury according to Personal Correspondence of the \nCanon of Vilnius Jan Dominik Łopaciński\nDomininkas Burba"
+  citata_rodoma: |
+    The Twists and Turns of the Life of the Nobility in the
+    Capital of the Grand Duchy of Lithuania of the Mid-18th
+    Century according to Personal Correspondence of the
+    Canon of Vilnius Jan Dominik Łopaciński
+    Domininkas Burba
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas

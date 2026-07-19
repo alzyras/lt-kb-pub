@@ -139,7 +139,14 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
     joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
     tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
-  citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
+  citata_rodoma: |
+    Lietuvoje gyveno garsi
+    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
+    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
+    apeigų paprotį, kiekviena tauta kitonišką.
+    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
+    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
+    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -173,7 +180,16 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
     daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
     tymo.
-  citata_rodoma: "Tuo tarpu apsiribosime pasa­\nkydami štai ką.\nBiarmiai, arba permiai, kalba slavų rusų arba rusų kalba,\nbet turi savitą tos kalbos tarme; yra papročių ir fizionomijos\nskirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės\nšiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos."
+  citata_rodoma: |
+    Tuo tarpu apsiribosime pasa­
+    kydami štai ką.
+    Biarmiai, arba permiai, kalba slavų rusų arba rusų kalba,
+    bet turi savitą tos kalbos tarme; yra papročių ir fizionomijos
+    skirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės
+    šiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­
+    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
+    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
+    kios varginančios ir ilgos žiemos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

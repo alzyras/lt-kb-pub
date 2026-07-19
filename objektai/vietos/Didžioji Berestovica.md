@@ -84,7 +84,10 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
     originalo kalba, bet tie leidiniai, kaip ir jos vertimas
     į dabartinę rusų kalbą (žr. p. 10—15). dėl retumo ir
     mažo tiražo daugumui skaitytojų yra neprieinami.
-  citata_rodoma: "nikos („rusiško metraščio\") variantą tame pačiame \nGardino-Volkovysko krašte, kunigaikščių Zaslavskių \nDidžiosios Berestovicos dvare."
+  citata_rodoma: |
+    nikos („rusiško metraščio") variantą tame pačiame
+    Gardino-Volkovysko krašte, kunigaikščių Zaslavskių
+    Didžiosios Berestovicos dvare.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -60,7 +60,10 @@ Koppebs.
     džių). — Koppebs. P. W. : _Indoeuropiečių religijos kultūriniai istoriniai
     santykiai,_ Soter, t. 6, 1929, 113-117 p. ; t. 7, 1930, 19-29 p. — Kroll-
     mann, Chr.
-  citata_rodoma: "— Koppebs. P. W. : _Indoeuropiečių religijos kultūriniai istoriniai\nsantykiai,_ Soter, t. 6, 1929, 113-117 p. ; t. 7, 1930, 19-29 p. — Kroll-\nmann, Chr."
+  citata_rodoma: |
+    — Koppebs. P. W. : _Indoeuropiečių religijos kultūriniai istoriniai
+    santykiai,_ Soter, t. 6, 1929, 113-117 p. ; t. 7, 1930, 19-29 p. — Kroll-
+    mann, Chr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

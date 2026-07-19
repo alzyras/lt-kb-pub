@@ -77,7 +77,8 @@ Nenurodyta
     Pramogos užtekdavo keliems rytams.
     Kitą
     sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuve“ .
-  citata_rodoma: "Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuve“ ."
+  citata_rodoma: |
+    Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuve“ .
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

@@ -119,7 +119,19 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     tystėje, prie Ilmenio ežero esančio
 
     94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
-  citata_rodoma: "Rugsėjo 9 d. jie\ndar kartą susirėmė su\nToropeco įgula, nukovė\n200 rusų šaulių. Vėliau\nRadvilos pajėgos nusiaubė\nDubno apylinkes, užėmė\nCholmą, iš ten, palei\nLovatės upę, lietuviai nusi-\ngavo iki Novgorodo kunigaikš-\ntystėje, prie Ilmenio ežero esančio\n\n94 K."
+  citata_rodoma: |
+    Rugsėjo 9 d. jie
+    dar kartą susirėmė su
+    Toropeco įgula, nukovė
+    200 rusų šaulių. Vėliau
+    Radvilos pajėgos nusiaubė
+    Dubno apylinkes, užėmė
+    Cholmą, iš ten, palei
+    Lovatės upę, lietuviai nusi-
+    gavo iki Novgorodo kunigaikš-
+    tystėje, prie Ilmenio ežero esančio
+
+    94 K.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,7 +157,14 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     buvo duotas leidimas, susiklosčius palan-
     kioms aplinkybėms, veržtis giliau į priešo
     teritoriją.
-  citata_rodoma: "Jis turėjo žygiuoti Veližo link,\niš ten pulti Toropeco ir Bialos pilių apy-\nlinkes, kai pagrindinės pajėgos įsiverš\nį Rusijos teritoriją šiauriau. K. Radvilai\nbuvo duotas leidimas, susiklosčius palan-\nkioms aplinkybėms, veržtis giliau į priešo\nteritoriją."
+  citata_rodoma: |
+    Jis turėjo žygiuoti Veližo link,
+    iš ten pulti Toropeco ir Bialos pilių apy-
+    linkes, kai pagrindinės pajėgos įsiverš
+    į Rusijos teritoriją šiauriau. K. Radvilai
+    buvo duotas leidimas, susiklosčius palan-
+    kioms aplinkybėms, veržtis giliau į priešo
+    teritoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +183,11 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     galbą savo valdovui skubėjusia apie 1000
     karių Toropeco įgula. Rusai buvo sumušti,
     apie 300 jų žuvo.
-  citata_rodoma: "Rugpjūčio 29 d. lietuviai susikovė su į pa-\ngalbą savo valdovui skubėjusia apie 1000\nkarių Toropeco įgula. Rusai buvo sumušti,\napie 300 jų žuvo."
+  citata_rodoma: |
+    Rugpjūčio 29 d. lietuviai susikovė su į pa-
+    galbą savo valdovui skubėjusia apie 1000
+    karių Toropeco įgula. Rusai buvo sumušti,
+    apie 300 jų žuvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -124,7 +124,9 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos aut
     Dovilai
     Dramenava (Dramenow, vėliau Drebnau)
     Drava, u.
-  citata_rodoma: ")\n    iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br."
+  citata_rodoma: |
+    )
+        iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

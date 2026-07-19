@@ -109,7 +109,17 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
     48 ĮVADAS
 
     Lietuvos jaunimui žinių apie savo tėvynės praeitį^25.
-  citata_rodoma: "**\n(^24) **J. Matusas :** **_Albertas Vijukas-Kojalavičius kaip Lietuvos istorininkas,_**\n**Praeitis, 1, 1930, 323 ; J. Matusas :** **_Stryjkowski M.,_** **LE 29, 42-45 p. Plg.\nI. Jonykas:** **_Istoriografija Litvy_** **(rinkiny:** **_O cerki istorii istoričeskoj nauki\nv SSSR,_** **t. I), Maskva 1955, 125-126 p.**\n\n\n48 ĮVADAS\n\nLietuvos jaunimui žinių apie savo tėvynės praeitį^25."
+  citata_rodoma: |
+    **
+    (^24) **J. Matusas :** **_Albertas Vijukas-Kojalavičius kaip Lietuvos istorininkas,_**
+    **Praeitis, 1, 1930, 323 ; J. Matusas :** **_Stryjkowski M.,_** **LE 29, 42-45 p. Plg.
+    I. Jonykas:** **_Istoriografija Litvy_** **(rinkiny:** **_O cerki istorii istoričeskoj nauki
+    v SSSR,_** **t. I), Maskva 1955, 125-126 p.**
+
+
+    48 ĮVADAS
+
+    Lietuvos jaunimui žinių apie savo tėvynės praeitį^25.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

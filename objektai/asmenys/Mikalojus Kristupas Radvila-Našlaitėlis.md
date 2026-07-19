@@ -196,7 +196,12 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
     mas Lietuvoje virto nenutrūkstamu procesu.
-  citata_rodoma: "Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė\nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į\nVilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-\nmas Lietuvoje virto nenutrūkstamu procesu."
+  citata_rodoma: |
+    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
+    mas Lietuvoje virto nenutrūkstamu procesu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -222,7 +227,18 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
     bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
     jo atvesti į užsibrėžtą tikslą.
-  citata_rodoma: "Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­\nvila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,\nvadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­\nmuotą bažnyčią, buvusią savo namuose, uždarė, o savo\nspaustuvę, seniau skelbusią vien disidentų raštus64, 1576\nmetais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­\nzuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­\nvo disputais ir raštais spaudęs savo priešininkus, nekan­\ntraudamas trokštamos pergalės, ėmėsi smarkių priemonių,\nbet jos, valdant išmintingam ir narsiam Steponui, negalėjo\njo atvesti į užsibrėžtą tikslą."
+  citata_rodoma: |
+    Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­
+    vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,
+    vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­
+    muotą bažnyčią, buvusią savo namuose, uždarė, o savo
+    spaustuvę, seniau skelbusią vien disidentų raštus64, 1576
+    metais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­
+    zuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
+    vo disputais ir raštais spaudęs savo priešininkus, nekan­
+    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
+    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
+    jo atvesti į užsibrėžtą tikslą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -253,7 +269,23 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     20 kapų lietuviškų grašių dėl to, kad
     sujungęs su savo namu, turėtų erd­
     vesnį būstą.
-  citata_rodoma: "O Jurgio brolis, kunigaikštis Mi­\nkalojus Kristupas, Lietuvos Didžio­\nsios Kunigaikštystės rūmų maršalka,\ntapo savininku namų, vadintų Filipo-\nvo namais, susidedančių iš keleto\nmedinių, moliu aplipdytų, pastatų,\nužimančių dabartinį Kardinalijos\nsparną nuo Didžiosios gatvės. Tą Fi-\nlipovo namą kunigaikščio Kristupo\ntėvas Mikalojus Radvila Juodasis,\nVilniaus vaivada, Lietuvos kancleris,\nnuomojo iš kapitulos pagal sutartį\nnuo 1541 metų ir kasmet mokėjo po\n20 kapų lietuviškų grašių dėl to, kad\nsujungęs su savo namu, turėtų erd­\nvesnį būstą."
+  citata_rodoma: |
+    O Jurgio brolis, kunigaikštis Mi­
+    kalojus Kristupas, Lietuvos Didžio­
+    sios Kunigaikštystės rūmų maršalka,
+    tapo savininku namų, vadintų Filipo-
+    vo namais, susidedančių iš keleto
+    medinių, moliu aplipdytų, pastatų,
+    užimančių dabartinį Kardinalijos
+    sparną nuo Didžiosios gatvės. Tą Fi-
+    lipovo namą kunigaikščio Kristupo
+    tėvas Mikalojus Radvila Juodasis,
+    Vilniaus vaivada, Lietuvos kancleris,
+    nuomojo iš kapitulos pagal sutartį
+    nuo 1541 metų ir kasmet mokėjo po
+    20 kapų lietuviškų grašių dėl to, kad
+    sujungęs su savo namu, turėtų erd­
+    vesnį būstą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -276,7 +308,14 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: "su Radvilomis ėmė \nkonkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė \npirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką \njos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė \nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į \nVilnių ir atidavė besikuriančiam jėzuitų universitetui."
+  citata_rodoma: |
+    su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

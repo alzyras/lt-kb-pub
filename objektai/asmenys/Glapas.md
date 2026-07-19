@@ -290,7 +290,16 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     pirmiausia apie Balgą
     Bendrais bruožais aprašius karus, vykusius antrosios atskalūnybės metais, reikia
     papasakoti ir apie kiekvienos pilies bei kiekvieno Prūsijos žemės valsčiaus kovas.
-  citata_rodoma: "Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą\n\n  Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug\nkartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,\natsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,\nir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios\nSembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,\n\n  409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m."
+  citata_rodoma: |
+    Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
+
+      Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
+    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
+    atsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,
+    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
+    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
+
+      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -313,7 +322,13 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361."
+  citata_rodoma: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

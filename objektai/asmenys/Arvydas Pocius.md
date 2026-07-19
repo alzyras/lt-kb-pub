@@ -84,7 +84,9 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
     p. 254, Butelio su padegamuoju skysčiu demonstracinė versija, VDKM, Artūro Užgalio nuotr.
     p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-
     kulkosvaidžiu PPS, KAM.
-  citata_rodoma: "p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-\nkulkosvaidžiu PPS, KAM."
+  citata_rodoma: |
+    p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-
+    kulkosvaidžiu PPS, KAM.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -106,7 +108,16 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
     inkasatorių, parduotu-
     vės „Medžioklė. Žūklė“
     ir kitų šaltinių.
-  citata_rodoma: "“\n\nAT gynėjas A. Pocius 1991 m. rugpjūčio pučo\nmetu, ginkluotas pistoletu-kulkosvaidžiu PPS\n\niš VRM, Lietuvos banko\n\ninkasatorių, parduotu-\nvės „Medžioklė."
+  citata_rodoma: |
+    “
+
+    AT gynėjas A. Pocius 1991 m. rugpjūčio pučo
+    metu, ginkluotas pistoletu-kulkosvaidžiu PPS
+
+    iš VRM, Lietuvos banko
+
+    inkasatorių, parduotu-
+    vės „Medžioklė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

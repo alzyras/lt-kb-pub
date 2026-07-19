@@ -58,7 +58,8 @@ media_all_json: |-
     — Šležas, P. : _Kauno pilies išgriovimas,_ Židinys, 1932, nr. 10, 271 ir
     sek. p. — (”) _Ko bėgo Kęstučio sūnus iš Lietuvos,_ Židinys, 1932, nr. 12,
     449-457 p. — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99.
-  citata_rodoma: "— Salys, A. : _Kęstučio vardas,_ LE, t. 11, 405-407 p."
+  citata_rodoma: |
+    — Salys, A. : _Kęstučio vardas,_ LE, t. 11, 405-407 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

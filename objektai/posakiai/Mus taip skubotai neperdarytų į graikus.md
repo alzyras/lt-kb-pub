@@ -67,7 +67,18 @@ Recenzentas ironiškai linkėjo Narbutui, kad šis lietuvių „taip skubotai ne
     zentas linkėjo T. Narbutui, kad „mus taip skubotai neperdary­
     tų į graikus, kaip gerbiamasis Foigtas (be viso kito, dar ir isto­
     rikas) mus sugiminiavo su vokiečiais“22’.
-  citata_rodoma: "Antra vertus, suvokdamas istoriko pasirinkto tikslo\nsudėtingumą, anonimas rašė: „Autorius, norėdamas ab ovo\nnustatyti Lietuvos lizdą, privalo pereiti visą tos tautų migraci­\njos, papasakotos kronikų pasakose, labirintą; pereiti laikyda­\nmas delne istorinės tiesos žibintą. Kokiam gi įžvalgiam reikia\nbūti, kad neįklimptum į tą sraunų nuolatinių prielaidų ir hipo­\ntezių verpetą ir kad tas žibintas neužgestų dar tau nespėjus iš\nten išsikapstyti?“22 23. Ir vis dėlto su neslepiama ironija recen­\nzentas linkėjo T. Narbutui, kad „mus taip skubotai neperdary­\ntų į graikus, kaip gerbiamasis Foigtas (be viso kito, dar ir isto­\nrikas) mus sugiminiavo su vokiečiais“22’."
+  citata_rodoma: |
+    Antra vertus, suvokdamas istoriko pasirinkto tikslo
+    sudėtingumą, anonimas rašė: „Autorius, norėdamas ab ovo
+    nustatyti Lietuvos lizdą, privalo pereiti visą tos tautų migraci­
+    jos, papasakotos kronikų pasakose, labirintą; pereiti laikyda­
+    mas delne istorinės tiesos žibintą. Kokiam gi įžvalgiam reikia
+    būti, kad neįklimptum į tą sraunų nuolatinių prielaidų ir hipo­
+    tezių verpetą ir kad tas žibintas neužgestų dar tau nespėjus iš
+    ten išsikapstyti?“22 23. Ir vis dėlto su neslepiama ironija recen­
+    zentas linkėjo T. Narbutui, kad „mus taip skubotai neperdary­
+    tų į graikus, kaip gerbiamasis Foigtas (be viso kito, dar ir isto­
+    rikas) mus sugiminiavo su vokiečiais“22’.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

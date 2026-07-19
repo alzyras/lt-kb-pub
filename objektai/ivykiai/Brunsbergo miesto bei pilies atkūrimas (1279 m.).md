@@ -103,7 +103,12 @@ Nenurodyta
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-  citata_rodoma: "Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,\n1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar\ntebestovi415."
+  citata_rodoma: |
+    Jiems atsitraukiant, atskubėjo priešpriešiais 60
+    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
+    tebestovi415.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -121,7 +126,12 @@ Nenurodyta
     1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar
     tebestovi415. Vos atvykęs  po konsekracijos į savo vyskupystę, šis vyskupas gavo per
     metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
-  citata_rodoma: "Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,\n1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar\ntebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per\nmetus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas."
+  citata_rodoma: |
+    Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
+    tebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per
+    metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -95,7 +95,16 @@ Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių bū
     išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
     ko iki paprastų dainių lygio; jų klausydavosi pasilinksminimui
     ir pramogai.
-  citata_rodoma: "Signotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
+  citata_rodoma: |
+    Signotai (Sigonottaį
+    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
+    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
+    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
+    Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
+    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
+    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
+    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
+    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

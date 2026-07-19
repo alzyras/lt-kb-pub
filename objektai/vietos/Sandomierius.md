@@ -110,7 +110,11 @@ media_all_json: |-
     su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
     o 1307 buvo įsiveržę į Kališo sritį^5.
     Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
-  citata_rodoma: "Drauge\nsu rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,\no 1307 buvo įsiveržę į Kališo sritį^5.\nTuo pačiu laiku lietuviai turėjo kitą svarbų frontą."
+  citata_rodoma: |
+    Drauge
+    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
+    o 1307 buvo įsiveržę į Kališo sritį^5.
+    Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

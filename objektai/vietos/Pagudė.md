@@ -381,7 +381,13 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
     taika.
     172 (167).
-  citata_rodoma: "Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,\nsubūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,\nplėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.\nBe to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones\nišsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo\ntaika."
+  citata_rodoma: |
+    Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
+    subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
+    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.
+    Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
+    išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
+    taika.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -426,7 +432,11 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     baltams bendrai kovoti prieš Ordino, Lenkijos ir kitų katalikiškųjų Vakarų Europos šalių
     feodalų agresiją ir leido kryžiuočiams iki 1283 m. pavergti sūduvių, prūsų žemes iki
     Nemuno žemupio.
-  citata_rodoma: "Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl\nbandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga\nsūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo\n(III, 192)."
+  citata_rodoma: |
+    Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
+    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
+    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
+    (III, 192).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -448,7 +458,11 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -489,7 +503,19 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
     naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
     laiką nieko nedarė.
-  citata_rodoma: "Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir\n           apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių\n\n  Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie\nPagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,\npaliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo\nsu broliais.\n\n\n\n\n            169 (164)."
+  citata_rodoma: |
+    Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
+               apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
+
+      Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie
+    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
+    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
+    su broliais.
+
+
+
+
+                169 (164).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -511,7 +537,13 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
     mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
     palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
-  citata_rodoma: "Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais\npatraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko\nnamo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,\npasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė\nprūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu\nper vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti."
+  citata_rodoma: |
+    Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
+    patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko
+    namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,
+    pasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
+    prūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu
+    per vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -537,7 +569,13 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     čios provincijos nepriklausomos Sasuvos ir Liubavos že­
     mės, arba apskritys, vakaruose — su Ruimu ir Pamede,
     1 Ibidem.
-  citata_rodoma: "258\nPagudė (Pojessania.). Pavadinimą gavo nuo Jesse, ar­\nba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­\nties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­\ntas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­\nmas turėtų būti atsiradęs dėl vietovės kalvotumo."
+  citata_rodoma: |
+    258
+    Pagudė (Pojessania.). Pavadinimą gavo nuo Jesse, ar­
+    ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
+    ties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­
+    tas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­
+    mas turėtų būti atsiradęs dėl vietovės kalvotumo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

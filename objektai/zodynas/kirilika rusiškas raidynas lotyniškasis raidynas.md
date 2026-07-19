@@ -107,7 +107,8 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
     atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
     greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
-  citata_rodoma: "Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį"
+  citata_rodoma: |
+    Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +129,8 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
     turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
     paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
     lietuvių „suartinimo“ su rusų kultūra gija.
-  citata_rodoma: "turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių"
+  citata_rodoma: |
+    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

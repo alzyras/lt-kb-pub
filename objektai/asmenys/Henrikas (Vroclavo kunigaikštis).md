@@ -79,7 +79,14 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
     buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
     taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
     išvydęs tuos tarnus, liepė jiems išsinešdinti.
-  citata_rodoma: "27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart."
+  citata_rodoma: |
+    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
+                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
+
+       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
+    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
+    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
+    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

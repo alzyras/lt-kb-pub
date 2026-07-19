@@ -440,7 +440,21 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     valdovų ir Lenkijos bei Lie­
     tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
     galbos.
-  citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
+  citata_rodoma: |
+    Vis dėlto buvo pamato būgštauti, kad jie gali
+    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
+    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
+    uždavinio: pasikvietęs į palydovus didikus Goštautą,
+    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
+    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
+    tiktai karalystės pakancleris Trombą), kad, Vytautui
+    376
+
+    ## Puslapis 375
+
+    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
+    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
+    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -468,7 +482,21 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     kad karalystės luomai nu­
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
-  citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir \nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos \npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie- \nIšsiskiisto Lucko su- \ntė Korčine seimą, norėdamas, \nvažiavimo dalyviai \nkad karalystės luomai nu­\nspręstų, kaip dera priešintis \nnesaikingiems Vytauto potroškiams."
+  citata_rodoma: |
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

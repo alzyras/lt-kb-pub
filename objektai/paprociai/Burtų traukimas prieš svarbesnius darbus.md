@@ -100,7 +100,13 @@ Nenurodyta
     dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
     plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
     jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
-  citata_rodoma: "Apie tai, kaip Ragainės broliai nukovė 25 lietuvius\n\n  Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo\ndieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti\nplėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja\njų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal."
+  citata_rodoma: |
+    Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
+
+      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
+    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
+    jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -121,7 +127,14 @@ Nenurodyta
     papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
     Jie nei anksčiau nesirūpino nebūtinais ir prabangiais drabužiais, nei dabar nesirūpina:
     kaip šiandien nusivelka, taip rytoj apsivelka, nė nepastebėdami, kad jie štai išvirkšti.
-  citata_rodoma: "Šiuo metu lietuviai ir kiti tose žemėse\ngyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,\nprieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali\npastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų\npapročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.\nJie nei anksčiau nesirūpino nebūtinais ir prabangiais drabužiais, nei dabar nesirūpina:\nkaip šiandien nusivelka, taip rytoj apsivelka, nė nepastebėdami, kad jie štai išvirkšti."
+  citata_rodoma: |
+    Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
+    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
+    Jie nei anksčiau nesirūpino nebūtinais ir prabangiais drabužiais, nei dabar nesirūpina:
+    kaip šiandien nusivelka, taip rytoj apsivelka, nė nepastebėdami, kad jie štai išvirkšti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -141,7 +154,14 @@ Nenurodyta
     prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
     pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
     papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
-  citata_rodoma: "Po pergalės jie\naukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį\natiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse\ngyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,\nprieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali\npastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų\npapročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs."
+  citata_rodoma: |
+    Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
+    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -168,7 +168,18 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
     vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
     pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
     tokią, rodos, beviltišką.
-  citata_rodoma: "Už žalą, padarytą per šį niokojamą iš­\npuolį Sembai, lietuviams buvo atsilyginta kitais ir dar\nkokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­\nsą laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu\nkariaudami, smogė nemažai stiprių smūgių. Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį."
+  citata_rodoma: |
+    Už žalą, padarytą per šį niokojamą iš­
+    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
+    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
+    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
+    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
+    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
+    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
+    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
+    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
+    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
+    apsuptą pilį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

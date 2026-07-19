@@ -66,7 +66,12 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.
     tinės vadui vokiečių priskirtoms pajėgoms
     remiant žygiuoti Panevėžio link ir atakuoti
     bolševikų pajėgas.
-  citata_rodoma: "Rinktinės pajėgos gegužės 13 d.\nsusitelkė Krekenavos-Ramygalos rajo-\nnuose. Vyriausiasis kariuomenės vadas\n\ngen."
+  citata_rodoma: |
+    Rinktinės pajėgos gegužės 13 d.
+    susitelkė Krekenavos-Ramygalos rajo-
+    nuose. Vyriausiasis kariuomenės vadas
+
+    gen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

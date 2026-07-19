@@ -268,7 +268,17 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
     pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
     taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
-  citata_rodoma: "Kadangi priešo būriai buvo narsūs ir puikiai gink­\nluoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­\ngalvoję ir išvengdami lemtingų kovų bei puldinėdami iš\nšonų ir užnugario, vertė priešą sparčiai žygiuoti su visa\njo nesuskaičiuojamų atsargų našta. Taip Darijus buvo\npriverstas greitai pereiti visą Skitiją, persikelti per to­\nkias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-\ncas. Antra vertus, persų karalius, pasak Herodoto, savo\ndvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­\nčio tarytum padėjo skitams įgyvendinti jų ketinimus."
+  citata_rodoma: |
+    Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -334,7 +344,15 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     ras ir žymesnių žmonių buveinė. Tai turėjo įvykti anks­
     čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
     sitiko V amžiaus prieš Kristaus gimimą pradžioje.
-  citata_rodoma: "Šiandien ji vadinama Pečeros kalva, kuri stūk­\nso čia pat prie Dnepro, be užutekių, graži ir patogi gyny­\nbai2. Tad negalime nė valandėlės abejoti, jog skitų žem­\ndirbiai įkūrė čia vieną pagrindinių savo nuolatinių ko­\nlonijų, kur galbūt buvo svarbesnis jų žemdirbystės cent­\nras ir žymesnių žmonių buveinė. Tai turėjo įvykti anks­\nčiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­\nsitiko V amžiaus prieš Kristaus gimimą pradžioje."
+  citata_rodoma: |
+    Šiandien ji vadinama Pečeros kalva, kuri stūk­
+    so čia pat prie Dnepro, be užutekių, graži ir patogi gyny­
+    bai2. Tad negalime nė valandėlės abejoti, jog skitų žem­
+    dirbiai įkūrė čia vieną pagrindinių savo nuolatinių ko­
+    lonijų, kur galbūt buvo svarbesnis jų žemdirbystės cent­
+    ras ir žymesnių žmonių buveinė. Tai turėjo įvykti anks­
+    čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
+    sitiko V amžiaus prieš Kristaus gimimą pradžioje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -369,7 +387,19 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     jais, melanchlenais, estais, o galbūt ir androfagais, i. y. samojedals,
     grįždamas susitiko su neurais Galicijos pasienyje bei androfagais
     Transilvanijoje.
-  citata_rodoma: "Galop išdidžiam monarchui buvo laimė persikelti\nsu likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats\npastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­\ntaip persai būtų jį neišvengiamai visiškai sutriuškinę1.\n40\nDarijui nepavyko įveikti skitų, bet šis žygis turėjo\ndidelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­\ntent nuo to laiko ji aiškiai ėmė artėti prie žlugimo. Ko\ngero, remdami Skitijos kolonistus graikus, persai palaikė\njų siekimą sunaikinti seną krašto tvarką ir suteikė progą\nsvetimoms gentims imtis veiksmų šiam tikslui įgyven­\ndinti."
+  citata_rodoma: |
+    Galop išdidžiam monarchui buvo laimė persikelti
+    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
+    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
+    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
+    40
+    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
+    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
+    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo. Ko
+    gero, remdami Skitijos kolonistus graikus, persai palaikė
+    jų siekimą sunaikinti seną krašto tvarką ir suteikė progą
+    svetimoms gentims imtis veiksmų šiam tikslui įgyven­
+    dinti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

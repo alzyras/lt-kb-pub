@@ -103,7 +103,8 @@ Nenurodyta
     Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam
     laikui tapo sportu Nr. 1, kaip tautinės pergalės simbolis, dvasios ir kūno
     lavinimo pergalė, puikus pavyzdys kitų sporto šakų atstovams.
-  citata_rodoma: "Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam"
+  citata_rodoma: |
+    Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

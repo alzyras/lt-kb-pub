@@ -67,7 +67,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Kvie­
     čiant į tą paskaitą, buvo išleistas tam tikras Kvieslys (Kutsu), kuria­
     me įdėtos a. a. velionies curriculum vitae ir sąrašas jo mokslo darbų.
-  citata_rodoma: "Kvie­\nčiant į tą paskaitą, buvo išleistas tam tikras Kvieslys (Kutsu), kuria­\nme įdėtos a. a. velionies curriculum vitae ir sąrašas jo mokslo darbų."
+  citata_rodoma: |
+    Kvie­
+    čiant į tą paskaitą, buvo išleistas tam tikras Kvieslys (Kutsu), kuria­
+    me įdėtos a. a. velionies curriculum vitae ir sąrašas jo mokslo darbų.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

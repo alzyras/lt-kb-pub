@@ -81,7 +81,8 @@ Nenurodyta
     vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
     diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
     statuso (panašaus į Dancigo (dabar Gdanskas)).
-  citata_rodoma: "diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“"
+  citata_rodoma: |
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

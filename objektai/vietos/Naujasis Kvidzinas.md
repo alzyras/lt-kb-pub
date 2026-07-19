@@ -112,7 +112,14 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
     sia Vytautas, pranešdamas vokiečiams, kad Skirgaila rengiasi
     juos pulti, su 400 žemaičių nuvyko iš Naujojo Kvidzino į Marien­
     burgą.
-  citata_rodoma: "Vi­\nsos trys Vytauto valdžioje buvusios pilys (Marienburgas ant\nNemuno, Jurbarkas (Georgenburgas), Marienverderis arba Nau­\njasis Kvidzinas prie Kauno) turėjo būti sunaikintos. Pirmiau­\nsia Vytautas, pranešdamas vokiečiams, kad Skirgaila rengiasi\njuos pulti, su 400 žemaičių nuvyko iš Naujojo Kvidzino į Marien­\nburgą."
+  citata_rodoma: |
+    Vi­
+    sos trys Vytauto valdžioje buvusios pilys (Marienburgas ant
+    Nemuno, Jurbarkas (Georgenburgas), Marienverderis arba Nau­
+    jasis Kvidzinas prie Kauno) turėjo būti sunaikintos. Pirmiau­
+    sia Vytautas, pranešdamas vokiečiams, kad Skirgaila rengiasi
+    juos pulti, su 400 žemaičių nuvyko iš Naujojo Kvidzino į Marien­
+    burgą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +138,11 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
     mumų, po keturių savaičių nepaliaujamo darbo pilis buvo baigta
     ir pavadinta Naujuoju Kvidzinu. Tvirta ir naujoviškai pasta­
     tyta pilis galėjo būti tvirta atrama prieš lietuvius.
-  citata_rodoma: "Nežiūrint nera­\nmumų, po keturių savaičių nepaliaujamo darbo pilis buvo baigta\nir pavadinta Naujuoju Kvidzinu. Tvirta ir naujoviškai pasta­\ntyta pilis galėjo būti tvirta atrama prieš lietuvius."
+  citata_rodoma: |
+    Nežiūrint nera­
+    mumų, po keturių savaičių nepaliaujamo darbo pilis buvo baigta
+    ir pavadinta Naujuoju Kvidzinu. Tvirta ir naujoviškai pasta­
+    tyta pilis galėjo būti tvirta atrama prieš lietuvius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

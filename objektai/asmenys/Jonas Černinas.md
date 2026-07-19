@@ -95,7 +95,14 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
     galėjau. Mat teigiama, jog visos priešo jėgos, veda­
     mos Jakovo Zachariničiaus, Andrejaus Možaiskio ir
     Andrejaus Šemiačičiaus, patraukusios į Severską.
-  citata_rodoma: "Nau­\njų karių ieškojo visoje Lietuvoje. Čekui Jonui Černi-\nnui Aleksandras pavedė nusisamdyti Čekijoje bei Vo­\nkietijoje didelius algininkų būrius. Poznanėje netrukus\nsvetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­\ndytinė kariuomenė neatvyko laiku į stovyklą, nes už-\ngaišo pakelėje beplėšikaudama."
+  citata_rodoma: |
+    Nau­
+    jų karių ieškojo visoje Lietuvoje. Čekui Jonui Černi-
+    nui Aleksandras pavedė nusisamdyti Čekijoje bei Vo­
+    kietijoje didelius algininkų būrius. Poznanėje netrukus
+    svetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­
+    dytinė kariuomenė neatvyko laiku į stovyklą, nes už-
+    gaišo pakelėje beplėšikaudama.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

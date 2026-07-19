@@ -60,7 +60,13 @@ Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas Anjou, Lenk
     Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas
     Anjou, Lenkiją ir Vengriją palikdamas neaiškioje būklėje—savo
     mažametėms dukterims ir jų būsimiems vyrams.
-  citata_rodoma: "Tuo\npat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip\npat jo maršalas Kuno von Hattenstein, padėjęs Jogailai įveikti dėdę.\nRugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas\nAnjou, Lenkiją ir Vengriją palikdamas neaiškioje būklėje—savo\nmažametėms dukterims ir jų būsimiems vyrams."
+  citata_rodoma: |
+    Tuo
+    pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip
+    pat jo maršalas Kuno von Hattenstein, padėjęs Jogailai įveikti dėdę.
+    Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas
+    Anjou, Lenkiją ir Vengriją palikdamas neaiškioje būklėje—savo
+    mažametėms dukterims ir jų būsimiems vyrams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

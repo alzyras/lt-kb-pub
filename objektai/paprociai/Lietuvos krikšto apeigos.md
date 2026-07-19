@@ -303,7 +303,11 @@ Nenurodyta
     tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
     mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
     vėliau ir kitose rytinės Lietuvos vietose.
-  citata_rodoma: "Taip pat\ntuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­\nmergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek\nvėliau ir kitose rytinės Lietuvos vietose."
+  citata_rodoma: |
+    Taip pat
+    tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
+    mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
+    vėliau ir kitose rytinės Lietuvos vietose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -368,7 +372,13 @@ Nenurodyta
     visos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė
     jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­
     bės.
-  citata_rodoma: "Kaip prieš metus Krokuvoje buvo įvykdy­\ntas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­\nmiausia turėjo būti krikštijami bajorai. Tas krikštas simbolizavo\nvisos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė\njau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­\nbės."
+  citata_rodoma: |
+    Kaip prieš metus Krokuvoje buvo įvykdy­
+    tas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­
+    miausia turėjo būti krikštijami bajorai. Tas krikštas simbolizavo
+    visos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė
+    jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­
+    bės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -408,7 +418,9 @@ Nenurodyta
     sų“ ir „Tikiu Dievą“^2 ).
     Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
     moterys, kiekvienam būriui suteikiant vardą.
-  citata_rodoma: "Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai\nmoterys, kiekvienam būriui suteikiant vardą."
+  citata_rodoma: |
+    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
+    moterys, kiekvienam būriui suteikiant vardą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -466,7 +478,9 @@ Nenurodyta
     ras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vande­
     niu^13. Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­
     davo baltą rūbą.
-  citata_rodoma: "Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­\ndavo baltą rūbą."
+  citata_rodoma: |
+    Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­
+    davo baltą rūbą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

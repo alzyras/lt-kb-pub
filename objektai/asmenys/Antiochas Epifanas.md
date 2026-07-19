@@ -65,7 +65,13 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
     nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi
     pripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo
     remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
-  citata_rodoma: "Nedera, be to,\nužmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis,\nnes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo,\nnugalėjo Antiochą Epifaną  ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi\npripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo\nremiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę."
+  citata_rodoma: |
+    Nedera, be to,
+    užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis,
+    nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo,
+    nugalėjo Antiochą Epifaną  ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi
+    pripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo
+    remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

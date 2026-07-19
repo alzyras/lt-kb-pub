@@ -88,7 +88,16 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
     čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
     tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
     ti pasiuntė.
-  citata_rodoma: "Tiesa, arkivyskupui Isamui tarpininkaujant, \ntikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­\ndinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­\nkeliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­\ndovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos \narkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­\nčių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti; \ntik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­\nti pasiuntė."
+  citata_rodoma: |
+    Tiesa, arkivyskupui Isamui tarpininkaujant,
+    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
+    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
+    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

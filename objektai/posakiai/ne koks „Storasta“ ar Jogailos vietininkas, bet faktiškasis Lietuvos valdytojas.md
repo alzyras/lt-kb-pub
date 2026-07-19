@@ -65,7 +65,16 @@ Lietuva ir toliau buvo laikoma inkorporuota į Len­ kiją, bet faktiška padėt
     tikruoju Lietuvos suverenu. Todėl savo rašte Jogaila pažymėjo,
     kad Vytautas yra kviečiamas padėti valdyti bendros Lietuvos
     — Lenkijos valstybės dalies — Lietuvos.
-  citata_rodoma: "Lietuva ir toliau buvo laikoma inkorporuota į Len­\nkiją, bet faktiška padėtis, Vytautui ėmus valdyti, pasidarė kito­\nkia: Lietuva tapo autonomiška valstybė, o pats Vytautas — ne\nkoks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos\nvaldytojas. Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį\njuridiškai formuluoti, nenorėdamas, kad Vytautas būtų laikomas\ntikruoju Lietuvos suverenu. Todėl savo rašte Jogaila pažymėjo,\nkad Vytautas yra kviečiamas padėti valdyti bendros Lietuvos\n— Lenkijos valstybės dalies — Lietuvos."
+  citata_rodoma: |
+    Lietuva ir toliau buvo laikoma inkorporuota į Len­
+    kiją, bet faktiška padėtis, Vytautui ėmus valdyti, pasidarė kito­
+    kia: Lietuva tapo autonomiška valstybė, o pats Vytautas — ne
+    koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos
+    valdytojas. Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį
+    juridiškai formuluoti, nenorėdamas, kad Vytautas būtų laikomas
+    tikruoju Lietuvos suverenu. Todėl savo rašte Jogaila pažymėjo,
+    kad Vytautas yra kviečiamas padėti valdyti bendros Lietuvos
+    — Lenkijos valstybės dalies — Lietuvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

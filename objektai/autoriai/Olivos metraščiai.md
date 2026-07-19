@@ -63,7 +63,15 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
     jano paleistas šūvis iš bombardos,
     kurios buvo neseniai išrastos Vokie­
     tijoje, Lietuvoje dar nežinomos.
-  citata_rodoma: "Bet Olivos metraš­\nčiai (Annales Oliv., p. 48) rašo, kad \ntuo tarpu, kai Gediminas pats ar jo \nkarys pilies aptvaro link stūmė ka­\nrinę mašiną, į jį pataikė kario Mari­\njano paleistas šūvis iš bombardos, \nkurios buvo neseniai išrastos Vokie­\ntijoje, Lietuvoje dar nežinomos."
+  citata_rodoma: |
+    Bet Olivos metraš­
+    čiai (Annales Oliv., p. 48) rašo, kad
+    tuo tarpu, kai Gediminas pats ar jo
+    karys pilies aptvaro link stūmė ka­
+    rinę mašiną, į jį pataikė kario Mari­
+    jano paleistas šūvis iš bombardos,
+    kurios buvo neseniai išrastos Vokie­
+    tijoje, Lietuvoje dar nežinomos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -66,7 +66,15 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
     tinio lenkų puolimo prarastas Lietuvos
     žemes. Lapkričio 1 d. lietuviai įžengė
     į Giedraičius.
-  citata_rodoma: "Spalio 30 d. trys\nlietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo\npėstininkų pulkų pradėjo kontrpuolimą\n\nir po permainingų ir nemažai nuostolių\npareikalavusių kovų atsiėmė po pasku-\ntinio lenkų puolimo prarastas Lietuvos\nžemes. Lapkričio 1 d."
+  citata_rodoma: |
+    Spalio 30 d. trys
+    lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo
+    pėstininkų pulkų pradėjo kontrpuolimą
+
+    ir po permainingų ir nemažai nuostolių
+    pareikalavusių kovų atsiėmė po pasku-
+    tinio lenkų puolimo prarastas Lietuvos
+    žemes. Lapkričio 1 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

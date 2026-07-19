@@ -79,7 +79,8 @@ Nenurodyta
     juos tam tikrai mūsų krašte jau išnykusiai pušų rūšiai. Kažkoks
     svetimšalis botanikas, kuris rinko sėklas, pravažiuodamas pro Ly­
     dą, stabtelėjo norėdamas tą rūšį įveisti savo sode.
-  citata_rodoma: "Žemaičiuose šventas medis buvo šermukšnis17“."
+  citata_rodoma: |
+    Žemaičiuose šventas medis buvo šermukšnis17“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

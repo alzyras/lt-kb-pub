@@ -68,7 +68,11 @@ Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , K
     fundacyjne Witolda dla Kościoła na Żmudzi_ , KH, t. 44, 1930, 348-355 p.
     — Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš
     XIV a.
-  citata_rodoma: "— Semkowicz, W. : _Pierwsze przywileje\nfundacyjne Witolda dla Kościoła na Żmudzi_ , KH, t. 44, 1930, 348-355 p.\n— Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš\nXIV a."
+  citata_rodoma: |
+    — Semkowicz, W. : _Pierwsze przywileje
+    fundacyjne Witolda dla Kościoła na Żmudzi_ , KH, t. 44, 1930, 348-355 p.
+    — Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš
+    XIV a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

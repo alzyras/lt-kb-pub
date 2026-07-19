@@ -173,7 +173,13 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     Semba buvo pavadinta ir vardu Weydelant (SRP, 2, p. 404), plg. Sembos vietovardžius:
     Weyden, Wayday, Waiditen, Waidipelkis ir lie. Vaidžiai, Vaidbaliai (GAO, p. 191, 198),
     Vaidlėnai, Vaidlonys, Vaidulioniai, Vaideliotai.
-  citata_rodoma: "Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį\n\n  Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė\nkariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su\nvisu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion\nsugrįžo anksčiau čia viešpatavusi taika."
+  citata_rodoma: |
+    Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
+
+      Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
+    kariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
+    visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
+    sugrįžo anksčiau čia viešpatavusi taika.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -209,7 +215,9 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo
     vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
     lengviau tramdyti sembus.
-  citata_rodoma: "382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —\nRinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus."
+  citata_rodoma: |
+    382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
+    Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -97,7 +97,18 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
     Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –
     Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
     politinėje sistemoje.
-  citata_rodoma: "Rem-\ndamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-\nbę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, \ntačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-\nkytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o \nVilnius nevirto „antruoju Kijevu“. Tačiau būtent šių žygių į Maskvą metu \n1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietu-\nvių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos, \nTverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui – \nLietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos \npolitinėje sistemoje."
+  citata_rodoma: |
+    Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
+    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
+    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+    Vilnius nevirto „antruoju Kijevu“. Tačiau būtent šių žygių į Maskvą metu
+    1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietu-
+    vių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos,
+    Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –
+    Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
+    politinėje sistemoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

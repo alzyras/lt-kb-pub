@@ -155,7 +155,19 @@ Nenurodyta
     sosto įpėdiniu. Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
     pasiekti geruoju.
-  citata_rodoma: "Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek \npailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,\nnetekę mirusio chano Saladi- \n1419 m eta i \nno, suskilo atskiromis grupė-\nS k itų ta u to m s V y ta u - \nmis: vieni vieną, kiti kitą \ntas p a s k y r ė v a ld o v u s \nmirusio valdovo sūnų siūlė\nsosto įpėdiniu. Kerim Berdis, \ngalingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo \npasiekti geruoju."
+  citata_rodoma: |
+    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
+    pailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,
+    netekę mirusio chano Saladi-
+    1419 m eta i
+    no, suskilo atskiromis grupė-
+    S k itų ta u to m s V y ta u -
+    mis: vieni vieną, kiti kitą
+    tas p a s k y r ė v a ld o v u s
+    mirusio valdovo sūnų siūlė
+    sosto įpėdiniu. Kerim Berdis,
+    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
+    pasiekti geruoju.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

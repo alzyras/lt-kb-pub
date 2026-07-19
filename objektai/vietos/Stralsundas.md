@@ -106,7 +106,12 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     privilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos
     prekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­
     kivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
-  citata_rodoma: "Taip ir Hanzos miestai, kaip Anklamas, Stralsundas, Greifsval­\ndas, Greifenbergas suteikė lietuvių ir lenkų pirkliams panašias\nprivilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos\nprekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­\nkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau."
+  citata_rodoma: |
+    Taip ir Hanzos miestai, kaip Anklamas, Stralsundas, Greifsval­
+    das, Greifenbergas suteikė lietuvių ir lenkų pirkliams panašias
+    privilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos
+    prekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­
+    kivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -125,7 +130,11 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     Kaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą,
     šiaurėje Dorpatą ir Naugardą^1 ). Lietuvą Vytauto laikais paži­
     no Hanzos, Venecijos, Genujos, totorių pirkliai.
-  citata_rodoma: "Ji siekė juk tolimiausius kraštus: rytuose\nKaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą,\nšiaurėje Dorpatą ir Naugardą^1 ). Lietuvą Vytauto laikais paži­\nno Hanzos, Venecijos, Genujos, totorių pirkliai."
+  citata_rodoma: |
+    Ji siekė juk tolimiausius kraštus: rytuose
+    Kaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą,
+    šiaurėje Dorpatą ir Naugardą^1 ). Lietuvą Vytauto laikais paži­
+    no Hanzos, Venecijos, Genujos, totorių pirkliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

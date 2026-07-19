@@ -107,7 +107,23 @@ Nenurodyta
     kariuomenei patraukus į Prūsiją, namie gali kilti kokie
     neramumai, todėl liepė šį suimti ir įkalinti Kremeneco
     kalėjime.
-  citata_rodoma: "Atsi­\ndūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­\nmantą, vėliau, tarpininkaujant imperatoriui bei karaliui\nJogailai, vargais negalais susitaikė su Vytautu. Tuo\nmetu prasidėjo karas su Prū-\nPrūdėtas\nkaras\nsu\nsija. Lenkų ir lietuvių kariuo-\nPrūsija\nmenės, peržengusios sienas,\nnetruko įsiveržti į šį kraštą;\nvisi, o ypač valdovai Jogaila bei Vytautas, ketino ne­\ngailint jėgų pergalingai užbaigti ilgą ir sunkų karą,\ntrokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams\nliktų arba ramūs bei klusnūs, arba draugiški."
+  citata_rodoma: |
+    Atsi­
+    dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­
+    mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
+    Jogailai, vargais negalais susitaikė su Vytautu. Tuo
+    metu prasidėjo karas su Prū-
+    Prūdėtas
+    karas
+    su
+    sija. Lenkų ir lietuvių kariuo-
+    Prūsija
+    menės, peržengusios sienas,
+    netruko įsiveržti į šį kraštą;
+    visi, o ypač valdovai Jogaila bei Vytautas, ketino ne­
+    gailint jėgų pergalingai užbaigti ilgą ir sunkų karą,
+    trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
+    liktų arba ramūs bei klusnūs, arba draugiški.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

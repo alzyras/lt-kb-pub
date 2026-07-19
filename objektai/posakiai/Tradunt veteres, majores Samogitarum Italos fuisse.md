@@ -93,7 +93,14 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
     Podoliae, Lituaniaeque cognomina habent, usque ad mare Balticum...
     (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
     žemaičiais) protėviai buvę italai.
-  citata_rodoma: "Verum hos metu crudelitatis imperatoriae, conscen­\nsis eorom a quibus bis terve evocabantur navibus, ipsimet autem \ncoesis, ad Pontum Euxinum appulisse, dehinc per saltus, ubi olitn \nRomana venatio fuit, quique hodie magna ex parte excii jam, Russiae, \nPodoliae, Lituaniaeque cognomina habent, usque ad mare Balticum... \n(Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina \nžemaičiais) protėviai buvę italai."
+  citata_rodoma: |
+    Verum hos metu crudelitatis imperatoriae, conscen­
+    sis eorom a quibus bis terve evocabantur navibus, ipsimet autem
+    coesis, ad Pontum Euxinum appulisse, dehinc per saltus, ubi olitn
+    Romana venatio fuit, quique hodie magna ex parte excii jam, Russiae,
+    Podoliae, Lituaniaeque cognomina habent, usque ad mare Balticum...
+    (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
+    žemaičiais) protėviai buvę italai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -66,7 +66,18 @@ media_all_json: |-
     žinkas, korporalus, absoliučiai visas puošmenas, drabužius ir
     indus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų
     tai minėtai Šv.
-  citata_rodoma: "Onos bažnyčia \nbūtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­\nnoti ir aprūpinti būtų. Šiai bažnyčiai visą bažnytinį auksą, \nsidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, \nkuris prie mūsų visada būna mišioms ir kas tik yra pas Zales- \nkį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pa- \ncifikalus, liktorius, tribularijus, ampules, ampulėles, varpelius, \ntaip ir arnotus ir kitus bažnytinius apdarus, antepedijus, ši- \nžinkas, korporalus, absoliučiai visas puošmenas, drabužius ir \nindus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų \ntai minėtai Šv."
+  citata_rodoma: |
+    Onos bažnyčia
+    būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­
+    noti ir aprūpinti būtų. Šiai bažnyčiai visą bažnytinį auksą,
+    sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą,
+    kuris prie mūsų visada būna mišioms ir kas tik yra pas Zales-
+    kį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pa-
+    cifikalus, liktorius, tribularijus, ampules, ampulėles, varpelius,
+    taip ir arnotus ir kitus bažnytinius apdarus, antepedijus, ši-
+    žinkas, korporalus, absoliučiai visas puošmenas, drabužius ir
+    indus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų
+    tai minėtai Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

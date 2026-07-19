@@ -101,7 +101,15 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
     padaliniai - apie 1000 karių, tik 420 tu-
     réjo šautuvus, taip pat 7 artilerijos pabū-
     klus.
-  citata_rodoma: "Divizija\nturėjo 6 pabūklus, kurių dauguma buvo iš-\ndėstyta įtvirtinimuose Liepkalnyje. Vilniaus\nmiesto įgulą sudarė nedideli 4-ojo ir 8-ojo\npėstininkų regimentų ir raitelių atsarginiai\npadaliniai - apie 1000 karių, tik 420 tu-\nréjo šautuvus, taip pat 7 artilerijos pabū-\nklus."
+  citata_rodoma: |
+    Divizija
+    turėjo 6 pabūklus, kurių dauguma buvo iš-
+    dėstyta įtvirtinimuose Liepkalnyje. Vilniaus
+    miesto įgulą sudarė nedideli 4-ojo ir 8-ojo
+    pėstininkų regimentų ir raitelių atsarginiai
+    padaliniai - apie 1000 karių, tik 420 tu-
+    réjo šautuvus, taip pat 7 artilerijos pabū-
+    klus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

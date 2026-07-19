@@ -437,7 +437,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     delegacijoms nenusilei-
     dus, su viskuo sutiko
     ir prisiekė.
-  citata_rodoma: "Lenkų ir lietuvių delegacijoms atvažiavus į Pa-\nryžių, pats Henrikas ir\njo brolis Karolis IX\nstengėsi kai kuriuos\npunktus pakeisti, bet,\ndelegacijoms nenusilei-\ndus, su viskuo sutiko\nir prisiekė."
+  citata_rodoma: |
+    Lenkų ir lietuvių delegacijoms atvažiavus į Pa-
+    ryžių, pats Henrikas ir
+    jo brolis Karolis IX
+    stengėsi kai kuriuos
+    punktus pakeisti, bet,
+    delegacijoms nenusilei-
+    dus, su viskuo sutiko
+    ir prisiekė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -464,7 +472,12 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
     delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
     jos ir veikė kuluaruose.
-  citata_rodoma: "Versalio sistemoje\nLietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje \nprasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai \ndelegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-\njos ir veikė kuluaruose."
+  citata_rodoma: |
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -484,7 +497,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.
     Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
     cūzijos paramą.
-  citata_rodoma: "Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-\ncūzijos paramą."
+  citata_rodoma: |
+    Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
+    cūzijos paramą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -507,7 +522,12 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     A. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam
     suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
     zicijos.
-  citata_rodoma: "Po susitikimo Paryžiuje su Lenkijos užsie-\nnio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną \nA. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam \nsuprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-\nzicijos."
+  citata_rodoma: |
+    Po susitikimo Paryžiuje su Lenkijos užsie-
+    nio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną
+    A. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam
+    suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
+    zicijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -597,7 +617,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: "Smetonos \nlaiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos \npareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus \nį Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų \nultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-\ntimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-\nnę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos \n10 val."
+  citata_rodoma: |
+    Smetonos
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
+    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
+    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
+    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
+    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
+    10 val.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -618,7 +646,10 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
-  citata_rodoma: "Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos \nplanų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie \ntiktai prašė, visų pirma plačiausią kultūrinę autonomiją."
+  citata_rodoma: |
+    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
+    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -637,7 +668,12 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
     vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-  citata_rodoma: "Apkaltintas erezija Tamplierių\nordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo\nParyžiuje 1314 m.69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos."
+  citata_rodoma: |
+    Apkaltintas erezija Tamplierių
+    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
+    Paryžiuje 1314 m.69
+      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
+    argumentacijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

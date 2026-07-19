@@ -106,7 +106,8 @@ Nenurodyta
     Arba: šiandien susitrauksi, kitą dieną atsigausi.
     Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo
     jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti.
-  citata_rodoma: "Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti."
+  citata_rodoma: |
+    Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -125,7 +126,8 @@ Nenurodyta
     kaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai,
     pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už ne­
     atėjimą rytą ražončiaus giedoti.
-  citata_rodoma: "Čia jį pastebi ir prikaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai, pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už neatėjimą rytą ražončiaus giedoti."
+  citata_rodoma: |
+    Čia jį pastebi ir prikaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai, pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už neatėjimą rytą ražončiaus giedoti.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -148,7 +150,8 @@ Nenurodyta
     anksti kelti nereikia,
     ir
     šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti.
-  citata_rodoma: "Vakarinį giedojimą lankyti nesunku: anksti kelti nereikia, ir šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti."
+  citata_rodoma: |
+    Vakarinį giedojimą lankyti nesunku: anksti kelti nereikia, ir šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

@@ -252,7 +252,16 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
     jei šios provincijos ir gentys, sudariusios tarpusavio są­
     jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
     1 Henning.
-  citata_rodoma: "1247 metais jotvin­\ngiai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­\nmet tai buvo garsūs valsčiai, ir tas kraštas buvo labai\nnuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės\nVladimiro, jau trečią dieną pasivijo juos prie pat Drohi-\nčino (dabar Kobrino apskritis). Prie pat šio miesto sienų\nįvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią\npergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-\ngaikštukų."
+  citata_rodoma: |
+    1247 metais jotvin­
+    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
+    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
+    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis). Prie pat šio miesto sienų
+    įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
+    pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
+    gaikštukų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

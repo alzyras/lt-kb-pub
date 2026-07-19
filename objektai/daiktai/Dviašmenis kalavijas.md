@@ -163,7 +163,18 @@ Nenurodyta
     geležinės
     XI-XIII a.
     balnakilpės
-  citata_rodoma: "*  X-Xla. Vakarų Europoje paplitęs\nE dviašmenis kalavijas. Tokio tipo\n\nŽ | kalavijų randama ir to laikotarpio\n1= kapuose Lietuvoje\n\nLietuvoje karių\nkapuose rastos\nsidabruotos\ngeležinės\nXI-XIII a."
+  citata_rodoma: |
+    *  X-Xla. Vakarų Europoje paplitęs
+    E dviašmenis kalavijas. Tokio tipo
+
+    Ž | kalavijų randama ir to laikotarpio
+    1= kapuose Lietuvoje
+
+    Lietuvoje karių
+    kapuose rastos
+    sidabruotos
+    geležinės
+    XI-XIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

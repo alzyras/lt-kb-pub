@@ -98,7 +98,14 @@ Narbutas kalbinę formuluotę sieja su tėvo kilmės aiškinimu ir iš jos išve
     la, rytuose — linija nuo Braclavo iki Vileikos per dyk­
     ras ir pelkes, už kurių klajojo amaksobiai, pietuose —
     Neries upė.
-  citata_rodoma: "Tomis pačiomis kalbomis posakis Isz-Tawas arba Isz-\n  Tabas reiškia kilusį iš tėvo, tad Isztamany, ištavanai, ar-\n  ba sutrumpintai stavanai, stabanai, reiškė gentį, kilusią\n  tiesiogiai iš gimtinės lizdo; tikrieji lietuviai, arba seno-\n  vės Stavanijos gyventojai ligi šiol laikomi tokiais, kurie\n  geriausiai išlaikė savo papročius, įpročius, gimininius\n  bruožus ir jų dialekto originalumą."
+  citata_rodoma: |
+    Tomis pačiomis kalbomis posakis Isz-Tawas arba Isz-
+      Tabas reiškia kilusį iš tėvo, tad Isztamany, ištavanai, ar-
+      ba sutrumpintai stavanai, stabanai, reiškė gentį, kilusią
+      tiesiogiai iš gimtinės lizdo; tikrieji lietuviai, arba seno-
+      vės Stavanijos gyventojai ligi šiol laikomi tokiais, kurie
+      geriausiai išlaikė savo papročius, įpročius, gimininius
+      bruožus ir jų dialekto originalumą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -90,7 +90,15 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
     nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
     valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
     lę bei įsileisti jo vietininką, ir didysis kunigaikštis
-  citata_rodoma: "Ir suspindo žvaigždės kaip naktį, ir \nšvietė tris valandas:.\nŠtai kas nutiko po šito dangaus ženklo didžiajam \nkunigaikščiui Vytautui, draugiškai sugyvenusiam su \nsavo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi \nDimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-"
+  citata_rodoma: |
+    Ir suspindo žvaigždės kaip naktį, ir
+    švietė tris valandas:.
+    Štai kas nutiko po šito dangaus ženklo didžiajam
+    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
+    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
+    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
+    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
+    verskiečius, atėmė iš jų du bebrus ir tris statines me-
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -114,7 +122,17 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
     kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
     senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
     minystės ryšiais.
-  citata_rodoma: "Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje."
+  citata_rodoma: |
+    Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

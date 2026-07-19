@@ -81,7 +81,15 @@ Nenurodyta
     žirgo bei ginklų ir dėl jo mergelės garbės. Šitai išgirdęs, brolis Hermanas, pasikliaudamas
     savo mergele Marija, kuriai buvo pasižadėjęs tarnauti, susigrūmė su juo ir per pirmąjį
     susidūrimą nubloškė jį ant žemės, o žirgą bei ginklus atidavė vargšams.
-  citata_rodoma: "80 (78). Dar apie tą patį\n\n  Tas pats brolis Hermanas, kai, priimtas  į Teutonų ordiną, skubėjo ton vieton, kur\nturėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą;\nvienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis, kas drįstų su juo kautis dėl\nžirgo bei ginklų ir dėl jo mergelės garbės. Šitai išgirdęs, brolis Hermanas, pasikliaudamas\nsavo mergele Marija, kuriai buvo pasižadėjęs tarnauti, susigrūmė su juo ir per pirmąjį\nsusidūrimą nubloškė jį ant žemės, o žirgą bei ginklus atidavė vargšams."
+  citata_rodoma: |
+    80 (78). Dar apie tą patį
+
+      Tas pats brolis Hermanas, kai, priimtas  į Teutonų ordiną, skubėjo ton vieton, kur
+    turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą;
+    vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis, kas drįstų su juo kautis dėl
+    žirgo bei ginklų ir dėl jo mergelės garbės. Šitai išgirdęs, brolis Hermanas, pasikliaudamas
+    savo mergele Marija, kuriai buvo pasižadėjęs tarnauti, susigrūmė su juo ir per pirmąjį
+    susidūrimą nubloškė jį ant žemės, o žirgą bei ginklus atidavė vargšams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

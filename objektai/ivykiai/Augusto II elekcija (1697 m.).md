@@ -100,7 +100,15 @@ Nenurodyta
     karaliaus sūnus Jokūbas.
     Bet Jokūbas buvo nepo-
     puliarus.
-  citata_rodoma: "Elekcija po Jono Sobieskio buvo viena iš nešvariausių vi-\nsoje Respublikos istorijoje: joje viską lėmė papirkimai. Iš\ndaugybės kandidatų (jų\nbuvo net 18) stipriausi\natrodė Prancūzų princas\nKontys _(de Conti)_ ir Au-\nstrų remiamas velionies\nkaraliaus sūnus Jokūbas."
+  citata_rodoma: |
+    Elekcija po Jono Sobieskio buvo viena iš nešvariausių vi-
+    soje Respublikos istorijoje: joje viską lėmė papirkimai. Iš
+    daugybės kandidatų (jų
+    buvo net 18) stipriausi
+    atrodė Prancūzų princas
+    Kontys _(de Conti)_ ir Au-
+    strų remiamas velionies
+    karaliaus sūnus Jokūbas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

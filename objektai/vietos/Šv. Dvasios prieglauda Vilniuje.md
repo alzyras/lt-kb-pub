@@ -209,7 +209,24 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     VILNIAUS MIESTO ISTORIJA// TOMAS
     jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
     bei administravimu bei jai skirtomis pajamomis.
-  citata_rodoma: "Taip pat \njie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai \nprieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos \npačios prieglaudos klebono titulo, kurį sau prisiėmė. O kad \ntvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos \naprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­\ndymas ištikimai ir deramai būtų išlaikomas, globą ir vado­\nvavimą minėtos administracijos šviesiausiajam Kristuje tė­\nvui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat \nir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad\n391\n\n## Puslapis 408\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\njie visiškai rūpintųsi geru tos pačios prieglaudos valdymu \nbei administravimu bei jai skirtomis pajamomis."
+  citata_rodoma: |
+    Taip pat
+    jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai
+    prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos
+    pačios prieglaudos klebono titulo, kurį sau prisiėmė. O kad
+    tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos
+    aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­
+    dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­
+    vavimą minėtos administracijos šviesiausiajam Kristuje tė­
+    vui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat
+    ir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad
+    391
+
+    ## Puslapis 408
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
+    bei administravimu bei jai skirtomis pajamomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -161,7 +161,13 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
     ties gotų galybė ėmė smukti; įvairios smulkios jų dalys,
     krikščionybės švelniai laiminamos, virto šių laikų Euro­
     pos tautomis, pamažu atsikratančiomis barbariškumo.
-  citata_rodoma: "Ta­\nčiau jos nesutarė ir nesiekė įtvirtinti vieningą valstybę.\nVienas iš gotų karalių, Germanarikas, labiausiai išplėtęs\nsavo valdžią, gal ir būtų padėjęs gotų karalystės pama­\ntus, jei to nebūtų sutrukdęs hunų įsiveržimas į Europą.\n1 Lelemel."
+  citata_rodoma: |
+    Ta­
+    čiau jos nesutarė ir nesiekė įtvirtinti vieningą valstybę.
+    Vienas iš gotų karalių, Germanarikas, labiausiai išplėtęs
+    savo valdžią, gal ir būtų padėjęs gotų karalystės pama­
+    tus, jei to nebūtų sutrukdęs hunų įsiveržimas į Europą.
+    1 Lelemel.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -211,7 +217,16 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
     atšaka, be to, tokia galinga, jog ir pati sulietuvėjo; iš to
     susijungimo ir turėjo atsirasti jotvingiai, t. y. tos tautos
     atšaka, išsibarsčiusi tarp Polesės pelkių*.
-  citata_rodoma: "Tikriausiai III amžiaus\npabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­\ndanas, vardydamas įvairių genčių tautas, kurias valdė\ngotai Germanariko valdymo laikais, gyvenusias nuo Juo­\ndosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,\nBugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,\nkurie turėjo gyventi šalia tos teritorijos ribų.\nUžrašu, kuris paaiškina labai svarbų dalyką jotvingių\nistorijoje, negalime visiškai tikėti."
+  citata_rodoma: |
+    Tikriausiai III amžiaus
+    pabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­
+    danas, vardydamas įvairių genčių tautas, kurias valdė
+    gotai Germanariko valdymo laikais, gyvenusias nuo Juo­
+    dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
+    Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
+    kurie turėjo gyventi šalia tos teritorijos ribų.
+    Užrašu, kuris paaiškina labai svarbų dalyką jotvingių
+    istorijoje, negalime visiškai tikėti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

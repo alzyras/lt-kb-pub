@@ -353,7 +353,16 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     Nepriklausomybės kovos buvo paremtos savanorių heroizmu —
     net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
     buvo siūloma atgimstančiai valstybei.
-  citata_rodoma: "Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo\nkariauti Nepriklausomybės kovose prieš bolševikus, atremda-\nma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki\npat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su\nplėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-\nvanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-\njusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės\nLietuvos egzistavimo galimybę atmetusius, dar neseniai gin-\nklo broliais buvusius lenkus prie Širvintų ir Giedraičių."
+  citata_rodoma: |
+    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
+    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
+    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
+    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
+    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
+    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
+    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
+    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
+    klo broliais buvusius lenkus prie Širvintų ir Giedraičių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -411,7 +420,18 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
     ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
     mingumo skraiste.
-  citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
+  citata_rodoma: |
+    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
+    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
+    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
+    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
+    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
+    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
+    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
+    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
+    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
+    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
+    nelaisvėje buvo nužudytas tuo kalaviju.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -435,7 +455,15 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
     nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
     pelenai ilsisi supiltame kalne).
-  citata_rodoma: "Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.\nJie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-\nte“, tai yra, anot autoriaus vertimo, „loca adiectorum “."
+  citata_rodoma: |
+    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
+    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
+    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

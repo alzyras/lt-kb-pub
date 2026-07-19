@@ -136,7 +136,16 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
     ko bajorai nenorėjo pripažinti to Dorohobužo kuni­
     gaikščio savo vaivada, kadangi ne jie patys, o prastieji
     žmonės buvo jį išrinkę vaivada.
-  citata_rodoma: "Ir tą pačią naktį Andrius su žmona, o su juo \nSmolensko bajorai išvyko iš miesto.\nPaskui Smolenske kilo didelis maištas, smolenskie- \nčiai sučiupo Smolensko maršalą Petriką 5  ir nuskandino \nDnepre, o Smolensko vaivados vieton pasisodino Do- \nrohobužo kunigaikštį Andrejų Dimitrijevičių 6 . Smolens­\nko bajorai nenorėjo pripažinti to Dorohobužo kuni­\ngaikščio savo vaivada, kadangi ne jie patys, o prastieji \nžmonės buvo jį išrinkę vaivada."
+  citata_rodoma: |
+    Ir tą pačią naktį Andrius su žmona, o su juo
+    Smolensko bajorai išvyko iš miesto.
+    Paskui Smolenske kilo didelis maištas, smolenskie-
+    čiai sučiupo Smolensko maršalą Petriką 5  ir nuskandino
+    Dnepre, o Smolensko vaivados vieton pasisodino Do-
+    rohobužo kunigaikštį Andrejų Dimitrijevičių 6 . Smolens­
+    ko bajorai nenorėjo pripažinti to Dorohobužo kuni­
+    gaikščio savo vaivada, kadangi ne jie patys, o prastieji
+    žmonės buvo jį išrinkę vaivada.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -162,7 +171,21 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
     gaikščius į Merkinę su penkiais šimtais ginkluotų rai­
     telių prieš didįjį kunigaikštį Kazimierą, kėsindamasis
     didįjį kunigaikštį Kazimierą nužudyti ir užimti sostą.
-  citata_rodoma: "Ir jie nuvyko skųs­\n132\n\n## Puslapis 128\n\ntis didžiajam kunigaikščiui Kazimierui, kad Smolenske \nprastieji žmonės be jų sutikimo išsirinko vaivada tą \nDorohobužo kunigaikštį Andrejų.\nPrastieji žmonės, išgirdę, kad Smolensko bajorai iš­\nvyko pas didįjį kunigaikštį Kazimierą, pabūgo ir labai \nišsigando, Įėmė] dairytis stiprios paramos ir vienbalsiai \nnutarė imti sau valdovu kunigaikštį Jurgį Lengvenai- \nt į1. Tas kunigaikštis Jurgis Lengvenaitis, pas juos at­\nvykęs, tapo jų valdovu."
+  citata_rodoma: |
+    Ir jie nuvyko skųs­
+    132
+
+    ## Puslapis 128
+
+    tis didžiajam kunigaikščiui Kazimierui, kad Smolenske
+    prastieji žmonės be jų sutikimo išsirinko vaivada tą
+    Dorohobužo kunigaikštį Andrejų.
+    Prastieji žmonės, išgirdę, kad Smolensko bajorai iš­
+    vyko pas didįjį kunigaikštį Kazimierą, pabūgo ir labai
+    išsigando, Įėmė] dairytis stiprios paramos ir vienbalsiai
+    nutarė imti sau valdovu kunigaikštį Jurgį Lengvenai-
+    t į1. Tas kunigaikštis Jurgis Lengvenaitis, pas juos at­
+    vykęs, tapo jų valdovu.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

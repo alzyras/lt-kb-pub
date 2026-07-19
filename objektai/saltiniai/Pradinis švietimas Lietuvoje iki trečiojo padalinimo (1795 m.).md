@@ -75,7 +75,12 @@ media_all_json: |-
     kijos edukacinė komisija ir jos įtaka kitų kraštų švietimo siste­
     moms », LASD, t. 8, 1974, 399-423 p. —- Romas J. Misiūnas,
     be kitų studijų, išsp.
-  citata_rodoma: "; «Pradinis švietimas Lietuvoje iki\ntrečiojo padalinimo (1795 m.) », Lietuvių TaPr, III, 1 (9), 1971,\n63-134 p. (su dokumentais ir plačia bibliogr.); «Lietuvos ir Len­\nkijos edukacinė komisija ir jos įtaka kitų kraštų švietimo siste­\nmoms », LASD, t."
+  citata_rodoma: |
+    ; «Pradinis švietimas Lietuvoje iki
+    trečiojo padalinimo (1795 m.) », Lietuvių TaPr, III, 1 (9), 1971,
+    63-134 p. (su dokumentais ir plačia bibliogr.); «Lietuvos ir Len­
+    kijos edukacinė komisija ir jos įtaka kitų kraštų švietimo siste­
+    moms », LASD, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

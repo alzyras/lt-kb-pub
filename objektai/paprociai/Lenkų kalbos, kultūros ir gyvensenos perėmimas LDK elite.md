@@ -131,7 +131,15 @@ Nenurodyta
     žemėse priemone.
     Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
     lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
-  citata_rodoma: "Gyveni-\nmas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo \npasisavinami lenkiški. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų \npagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, \ntapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų \nžemėse priemone. \nNors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, \nlenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą."
+  citata_rodoma: |
+    Gyveni-
+    mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
+    pasisavinami lenkiški. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų
+    pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
+    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
+    žemėse priemone.
+    Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
+    lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

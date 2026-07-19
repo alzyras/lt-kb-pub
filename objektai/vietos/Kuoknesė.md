@@ -242,7 +242,17 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     kijos karalystėje, Jonas Karolis Chodke-
     vičius grįžo į Livoniją ir per trumpą laiką
     išvadavo Kuoknesę ir Viljandį.
-  citata_rodoma: "Maža to,\n\nms\n\nlaivams iplaukti j Rygos uosta. Per trumpa\n“| laiką Švedijos kariuomenė užėmė Paidę\n(Weisenstein), Kuoknesę (Kokenhausen) ir\nViljandį (Fellin).\n\n1608 m."
+  citata_rodoma: |
+    Maža to,
+
+    ms
+
+    laivams iplaukti j Rygos uosta. Per trumpa
+    “| laiką Švedijos kariuomenė užėmė Paidę
+    (Weisenstein), Kuoknesę (Kokenhausen) ir
+    Viljandį (Fellin).
+
+    1608 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

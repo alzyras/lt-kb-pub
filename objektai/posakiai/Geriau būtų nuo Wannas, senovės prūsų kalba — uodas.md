@@ -80,7 +80,8 @@ Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
     alanų.
     Zr. paaiškinimus pirmam LT1 tomui šios kny­
     gos gale (Nr. 191).
-  citata_rodoma: "T. Narbutas LTI PE po šio sakinio parašė tokią pastabą: „Geriau būtų nuo Wannas, senovės prūsų kalba •— uodas“ (PE. P. 360)."
+  citata_rodoma: |
+    T. Narbutas LTI PE po šio sakinio parašė tokią pastabą: „Geriau būtų nuo Wannas, senovės prūsų kalba •— uodas“ (PE. P. 360).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

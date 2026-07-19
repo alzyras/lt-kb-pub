@@ -62,7 +62,15 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
     tus 120-121, paimta į nelaisvę 18-19, iš kurių
     5 sužeisti; tačiau tokio skaičiaus nepatvir-
     tina paimti ginklai).
-  citata_rodoma: "Dienos pabaigoje,\npasinaudoję tamsa dalis partizanų Jokubavo\nmišku sugebėjo prasiveržti Pakruojo link.\nMūšio padariniai\nŽuvo apie 76-80 partizanų (pagal okupan-\ntus 120-121, paimta į nelaisvę 18-19, iš kurių\n5 sužeisti; tačiau tokio skaičiaus nepatvir-\ntina paimti ginklai)."
+  citata_rodoma: |
+    Dienos pabaigoje,
+    pasinaudoję tamsa dalis partizanų Jokubavo
+    mišku sugebėjo prasiveržti Pakruojo link.
+    Mūšio padariniai
+    Žuvo apie 76-80 partizanų (pagal okupan-
+    tus 120-121, paimta į nelaisvę 18-19, iš kurių
+    5 sužeisti; tačiau tokio skaičiaus nepatvir-
+    tina paimti ginklai).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

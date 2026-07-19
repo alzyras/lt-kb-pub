@@ -113,7 +113,8 @@ Nenurodyta
     Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
     ir Lietuvos valstybės padalijimo.
-  citata_rodoma: "burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos"
+  citata_rodoma: |
+    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -79,7 +79,14 @@ media_all_json: |-
     išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
     paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
     kaimį).
-  citata_rodoma: "Šis žygis, kuriame buvo daug svečių iš\nvisur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir\nžygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.\nrašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas\nišskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar\npaėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­\nkaimį)."
+  citata_rodoma: |
+    Šis žygis, kuriame buvo daug svečių iš
+    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
+    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
+    rašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas
+    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
+    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
+    kaimį).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

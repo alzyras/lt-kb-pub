@@ -79,11 +79,15 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    106. Apie jo vainikavimą Achene
+    Apie jo vainikavimą Achene
 
       1309 viešpaties metais šį išrinktąjį vainikavo Achene per tris karalius sausio 6 dieną
     (Mart. p. 444; Ptol. loc. cit.).
-  citata_rodoma: "106. Apie jo vainikavimą Achene\n\n  1309 viešpaties metais šį išrinktąjį vainikavo Achene per tris karalius sausio 6 dieną\n(Mart. p. 444; Ptol. loc. cit.)."
+  citata_rodoma: |
+    Apie jo vainikavimą Achene
+
+      1309 viešpaties metais šį išrinktąjį vainikavo Achene per tris karalius sausio 6 dieną
+    (Mart. p. 444; Ptol. loc. cit.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

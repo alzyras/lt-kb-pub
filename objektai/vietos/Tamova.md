@@ -68,7 +68,12 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
     atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
     žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
     dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
-  citata_rodoma: "Pavestą uždavinį Vy­\ntautas labai puikiai atliko, sunaikindamas visą vokiečių maisto\natsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­\nžiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias\ndienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 )."
+  citata_rodoma: |
+    Pavestą uždavinį Vy­
+    tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto
+    atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
+    žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
+    dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

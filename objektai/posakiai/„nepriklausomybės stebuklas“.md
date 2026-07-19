@@ -59,7 +59,8 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
     sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip
     tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas
     įvyko.
-  citata_rodoma: "sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip"
+  citata_rodoma: |
+    sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

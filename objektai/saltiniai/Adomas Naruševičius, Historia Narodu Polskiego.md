@@ -92,7 +92,18 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
     mas sutampa su pavadinimu dviejų upelių, plaukiančių
     per Lydos apskritį; vienas jų už Rodūnios įteka į Ditvą,
     antras — į Pelesą tarp Pravožos ir Dubičių.
-  citata_rodoma: "1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­\nnovės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),\n212\n\n## Puslapis 210\n\n215\nAtvedėme keliavusią gelonų-budinų tautą į Sniatyno\napylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad\njų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris\nir Naruševičius1."
+  citata_rodoma: |
+    1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
+    novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
+    212
+
+    ## Puslapis 210
+
+    215
+    Atvedėme keliavusią gelonų-budinų tautą į Sniatyno
+    apylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad
+    jų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris
+    ir Naruševičius1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -78,7 +78,8 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
     Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
     dicinos daktaro laipsnį, 1517–1519 m.
-  citata_rodoma: "vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus"
+  citata_rodoma: |
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -80,7 +80,15 @@ Dusburgietis teigia, kad baiga) Vurungenas Zalca Zalfeldas Zangershauzenas Zelio
     Zangershauzenas
     Zelionogradskas (buv. Kranz. Krantas)
     Zelva, u.
-  citata_rodoma: "Baiga)\nVurungenas\n\nZalca\nZalfeldas\nZangershauzenas\nZelionogradskas (buv. Kranz. Krantas)\nZelva, u."
+  citata_rodoma: |
+    Baiga)
+    Vurungenas
+
+    Zalca
+    Zalfeldas
+    Zangershauzenas
+    Zelionogradskas (buv. Kranz. Krantas)
+    Zelva, u.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

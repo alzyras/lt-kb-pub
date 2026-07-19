@@ -113,7 +113,16 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,
     o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
     187 (182).
-  citata_rodoma: "Tačiau pačią pirmąją naktį, kai\nbroliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais\nbuvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,\no kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.\n\n\n\n\n                 187 (182)."
+  citata_rodoma: |
+    Tačiau pačią pirmąją naktį, kai
+    broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais
+    buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,
+    o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
+
+
+
+
+                     187 (182).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -133,7 +142,13 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     atsidursiąs galingo žmogaus globoje. Komtūras, išgirdęs šitokias pasiuntinių kalbas,
     labai nudžiugo; nors ir dvejodamas, bet vildamasis laimėti šitiek sielų, jis leidosi iš
     meilės dievui prikalbinamas imtis šitokio pavojingo ir abejotino sumanymo.
-  citata_rodoma: "Apie tai, kaip norėta išduoti brolius\n\n  Gyveno vienas  galingas  skalvių  vyras, vardu  Sarkis,  pilininkas Sarkų  pilies473,\nšitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės\npasienyje474. Neturėdamas pakankamai  karių, su  kuriais  galėtų smogti  broliams,\n  471 Turima galvoje Skalvos žemės   į pietus nuo Nemuno."
+  citata_rodoma: |
+    Apie tai, kaip norėta išduoti brolius
+
+      Gyveno vienas  galingas  skalvių  vyras, vardu  Sarkis,  pilininkas Sarkų  pilies473,
+    šitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės
+    pasienyje474. Neturėdamas pakankamai  karių, su  kuriais  galėtų smogti  broliams,
+      471 Turima galvoje Skalvos žemės   į pietus nuo Nemuno.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -153,7 +168,14 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     su savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės
     ir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai
     atsidursiąs galingo žmogaus globoje.
-  citata_rodoma: "Lietuvos žeme Dusburgietis čia vadina Karšuvą\n\nsugalvojo klastingai išduoti  ir, prisidengus gerumo kauke, juos apgauti. Jis pasiuntė\nsavo žygūnus pas Klaipėdos komtūrą, nuolankiai ir pamaldžiai jį prašydamas atžygiuoti\nsu savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės\nir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai\natsidursiąs galingo žmogaus globoje."
+  citata_rodoma: |
+    Lietuvos žeme Dusburgietis čia vadina Karšuvą
+
+    sugalvojo klastingai išduoti  ir, prisidengus gerumo kauke, juos apgauti. Jis pasiuntė
+    savo žygūnus pas Klaipėdos komtūrą, nuolankiai ir pamaldžiai jį prašydamas atžygiuoti
+    su savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės
+    ir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai
+    atsidursiąs galingo žmogaus globoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

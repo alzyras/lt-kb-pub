@@ -214,7 +214,16 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     pavienių lenkų riterių, tokių kaip Spytekas
     iš Melštyno, Krokuvos vaivada ir Podolės
     valdytojas bei kiti.
-  citata_rodoma: "Pagrindinė Vytauto kariuomenė iš\nVilniaus išvyko apie gegužės 18 d. Vytautas\nvisą birželį telkė karius (savo lietuvius,\njam pavaldžių rusų kunigaikščių karius ir\nkitus) stovykloje prie Kijevo. Čia buvo ir\nTochtamišo totoriai (keli tūkstančiai), 400\npavienių lenkų riterių, tokių kaip Spytekas\niš Melštyno, Krokuvos vaivada ir Podolės\nvaldytojas bei kiti."
+  citata_rodoma: |
+    Pagrindinė Vytauto kariuomenė iš
+    Vilniaus išvyko apie gegužės 18 d. Vytautas
+    visą birželį telkė karius (savo lietuvius,
+    jam pavaldžių rusų kunigaikščių karius ir
+    kitus) stovykloje prie Kijevo. Čia buvo ir
+    Tochtamišo totoriai (keli tūkstančiai), 400
+    pavienių lenkų riterių, tokių kaip Spytekas
+    iš Melštyno, Krokuvos vaivada ir Podolės
+    valdytojas bei kiti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -263,7 +272,16 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: "Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus\npilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­\ntuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo\npaklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu\npaskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas\njam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,\n73 nė Ona mirė Trakuose, o palaidota\nOna buvo Smolensko kunigaikščio buvo Vilniuje."
+  citata_rodoma: |
+    Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
+    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
+    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
+    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
+    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
+    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
+    73 nė Ona mirė Trakuose, o palaidota
+    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

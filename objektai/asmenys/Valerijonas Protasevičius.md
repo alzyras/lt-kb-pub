@@ -405,7 +405,10 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją.
-  citata_rodoma: "Lietuvos katalikai – ir pats Vilniaus vyskupas\nValerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-\nmui įkurti kolegiją."
+  citata_rodoma: |
+    Lietuvos katalikai – ir pats Vilniaus vyskupas
+    Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
+    mui įkurti kolegiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -559,7 +562,26 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     rint, integra conservare, idem nobis quoq. faciendum duxi­
     mus, atq. id eo etiam magis, quod illae Praefecturae solo pig­
     noris, ac non perpetui dominii Jure nobis tradi debent.
-  citata_rodoma: "Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­\nrie mums su pačiomis apskritimis atitektų, šventomis apei­\ngomis, taip pat su papročiais ir ypač religija, išpažįstančia\nAugustino tikėjimą, leistume laisvai naudotis. Tėvas ponas\nValerijonas, Vilniaus vyskupas, vykdydamas savo prievolę\nir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos\nįtraukti į sutartį. Ir nors mes patys tokios pat nuomonės, nie-\nku gyvu nenorėtumėme, kad kam nors pasirodytų, jog ga­\nlėjome duoti sutikimą, vadovaudamiesi kokiais nors sveti­\nmais šventajai Bažnyčiai įstatymais, tačiau mums buvo\nžinomas krikščionių valdovų paprotys toms priimtoms\n325\n\n## Puslapis 342\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nPrincipum, in iis populis, qui sese ad illorum fidem conferre\nsolent, recipiendis consvetudo, solere sc-t illos cum omnia\neorum Jūra, tum religionis atq."
+  citata_rodoma: |
+    Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­
+    rie mums su pačiomis apskritimis atitektų, šventomis apei­
+    gomis, taip pat su papročiais ir ypač religija, išpažįstančia
+    Augustino tikėjimą, leistume laisvai naudotis. Tėvas ponas
+    Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę
+    ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos
+    įtraukti į sutartį. Ir nors mes patys tokios pat nuomonės, nie-
+    ku gyvu nenorėtumėme, kad kam nors pasirodytų, jog ga­
+    lėjome duoti sutikimą, vadovaudamiesi kokiais nors sveti­
+    mais šventajai Bažnyčiai įstatymais, tačiau mums buvo
+    žinomas krikščionių valdovų paprotys toms priimtoms
+    325
+
+    ## Puslapis 342
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Principum, in iis populis, qui sese ad illorum fidem conferre
+    solent, recipiendis consvetudo, solere sc-t illos cum omnia
+    eorum Jūra, tum religionis atq.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -699,7 +721,16 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     1578 metais Karalius Steponas Batoras, šias funduotas mo­
     kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
     mijoms, o išskirtinai Krokuvos, prilygino.
-  citata_rodoma: "G) Apie kai kuriuos Akademijai ir\nValerijono bursai funduotus turtus\n•\n1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-\ntasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-\ndavo ir įsteigė įvairių mokslų viešąsias mokyklas.\n1578 metais Karalius Steponas Batoras, šias funduotas mo­\nkyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­\nmijoms, o išskirtinai Krokuvos, prilygino."
+  citata_rodoma: |
+    G) Apie kai kuriuos Akademijai ir
+    Valerijono bursai funduotus turtus
+    •
+    1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-
+    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
+    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
+    1578 metais Karalius Steponas Batoras, šias funduotas mo­
+    kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
+    mijoms, o išskirtinai Krokuvos, prilygino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -746,7 +777,12 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
     gusto seserimi.
     —  •  .
-  citata_rodoma: "Jis taip pat palaimino Vilniuje Suomijos\nkunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,\nsantuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­\ngusto seserimi.\n—  •  ."
+  citata_rodoma: |
+    Jis taip pat palaimino Vilniuje Suomijos
+    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
+    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
+    gusto seserimi.
+    —  •  .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

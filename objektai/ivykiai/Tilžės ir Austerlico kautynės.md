@@ -104,7 +104,11 @@ Nenurodyta
     sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
-  citata_rodoma: "Jaunuolis nesibaidė vyriau­\nsybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų\nkorpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
+  citata_rodoma: |
+    Jaunuolis nesibaidė vyriau­
+    sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
+    korpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
+    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

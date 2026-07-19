@@ -116,7 +116,11 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
     savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
     lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė į Kristaus tikėjimą. Juos išvydęs,
     magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
-  citata_rodoma: "Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;\nkai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su\nsavimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų\nlyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą."
+  citata_rodoma: |
+    Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
+    kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
+    savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
+    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -135,7 +139,14 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
     teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
     kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
     213 (208).
-  citata_rodoma: "Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną\nkilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.\n\n\n\n\n    213 (208)."
+  citata_rodoma: |
+    Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
+    kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
+
+
+
+
+        213 (208).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

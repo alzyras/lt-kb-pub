@@ -608,7 +608,19 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 
 
                    21.
-  citata_rodoma: "Apie Baigos pilies apgulą\n\n  Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs\nvisą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip\nkaro vadas kitų akivaizdoje pasižymėti kovoje, tačiau, priartėjęs prie pilies ir pervertas\nvieno brolio strėle [telo], krito žemėn ir baigė dienas, o šio įvykio nugąsdinti ir visi kiti\nišsižadėjo savo sumanymo.\n\n\n\n\n               21."
+  citata_rodoma: |
+    Apie Baigos pilies apgulą
+
+      Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs
+    visą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip
+    karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau, priartėjęs prie pilies ir pervertas
+    vieno brolio strėle [telo], krito žemėn ir baigė dienas, o šio įvykio nugąsdinti ir visi kiti
+    išsižadėjo savo sumanymo.
+
+
+
+
+                   21.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -636,7 +648,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     nelaisvę ir išžudęs, ten pat ir pernakvojo. Kitą dieną patraukė į Rudavos valsčių ir ten
     pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
     321 D.— Medenow, Jer.
-  citata_rodoma: "Susitaikius Čekijos karalius\nnuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,\nvardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama\nKandeimu, gerai žinojusį visą Sembos karių galią. Kai karalius jį paklausė, rodydamas\ntik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad\nnieku būdu."
+  citata_rodoma: |
+    Susitaikius Čekijos karalius
+    nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
+    vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
+    Kandeimu, gerai žinojusį visą Sembos karių galią. Kai karalius jį paklausė, rodydamas
+    tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
+    nieku būdu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -660,7 +678,17 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     atkeršyti už nukryžiuotojo viešpaties kančias. Tokia didelė buvo ši kariuomenė, kad joje
     318 Pršemislas Otokaras II, Čekijos karalius (1253—1278), 1254 m. gruodžio
     pabaigoje dar tebuvo Vroclave.
-  citata_rodoma: "Apie karo su sembais rezultatų atspėjimą\n\n  Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau\njį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,\nmaloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.\nŠis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad\nbroliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes\nturime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,\nbet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš\npragaištį."
+  citata_rodoma: |
+    Apie karo su sembais rezultatų atspėjimą
+
+      Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
+    jį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
+    maloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
+    Šis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad
+    broliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes
+    turime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,
+    bet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš
+    pragaištį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -721,7 +749,14 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
     tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
     kariuomene ją apsupo, visą dieną smarkiai puolė.
-  citata_rodoma: "Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai\nbuvo ne vieną, bet keletą kartų.\n\n\n\n\n                 138 (133)."
+  citata_rodoma: |
+    Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai
+    buvo ne vieną, bet keletą kartų.
+
+
+
+
+                     138 (133).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -789,7 +824,10 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
     kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
     kariuomenę (III, 251).
-  citata_rodoma: "Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti\nsaviškius (III, 26). Dievo apvaizda patvarkė, kad prūsai išdavė broliams Vėluvos pilį\n  63 SRP, B."
+  citata_rodoma: |
+    Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti
+    saviškius (III, 26). Dievo apvaizda patvarkė, kad prūsai išdavė broliams Vėluvos pilį
+      63 SRP, B.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -842,7 +880,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
     „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
     atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
-  citata_rodoma: "Po to ima pasakoti apie atskirų pilių bei\nmiestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas,\nKristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Pastarojo\npasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio\n„karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų\natminties ir vargu ar kas galėtų juos tinkamai išdėstyti."
+  citata_rodoma: |
+    Po to ima pasakoti apie atskirų pilių bei
+    miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas,
+    Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Pastarojo
+    pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
+    „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
+    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -882,7 +926,14 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     pat Sembos vyskupo fogtų (advocatus) (Ditrichas, Pilypas, Hugonas, Gerhardas) (III,
     227, 291, 330, 338), trys Baigos komtūrai (III, 247, 266, 362) ir t. t., daugumas jų — iš
     rytinės Ordino teritorijos dalies, tiesiogiai dalyvavę kare prieš Lietuvą.
-  citata_rodoma: "Minimi čia 7 Ragainės komtūrai (1289—1324 m. laikotarpiu; Bertoldas iš Austrijos,\nErnekė, Konradas, Folčas, Verneris, Fridrichas iš Libencelės, Ditrichas bei 1 vicekomtūras\n(III, 235, 239, 251, 297, 317, 332, 351, 300), 4 Karaliaučiaus komtūrai (Albertas iš\nMeiseno, Bertoldas iš Austrijos, Eberhardas, Fridrichas) (III, 230, 236, 289, 307), tiek\npat Sembos vyskupo fogtų (advocatus) (Ditrichas, Pilypas, Hugonas, Gerhardas) (III,\n227, 291, 330, 338), trys Baigos komtūrai (III, 247, 266, 362) ir t. t., daugumas jų — iš\nrytinės Ordino teritorijos dalies, tiesiogiai dalyvavę kare prieš Lietuvą."
+  citata_rodoma: |
+    Minimi čia 7 Ragainės komtūrai (1289—1324 m. laikotarpiu; Bertoldas iš Austrijos,
+    Ernekė, Konradas, Folčas, Verneris, Fridrichas iš Libencelės, Ditrichas bei 1 vicekomtūras
+    (III, 235, 239, 251, 297, 317, 332, 351, 300), 4 Karaliaučiaus komtūrai (Albertas iš
+    Meiseno, Bertoldas iš Austrijos, Eberhardas, Fridrichas) (III, 230, 236, 289, 307), tiek
+    pat Sembos vyskupo fogtų (advocatus) (Ditrichas, Pilypas, Hugonas, Gerhardas) (III,
+    227, 291, 330, 338), trys Baigos komtūrai (III, 247, 266, 362) ir t. t., daugumas jų — iš
+    rytinės Ordino teritorijos dalies, tiesiogiai dalyvavę kare prieš Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

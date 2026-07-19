@@ -147,7 +147,22 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
     raliaus Henriko sūnus, su didžiulė­
     mis anglų, škotų bei prancūzų ir 1.1,
     pajėgomis įsibrovė į Lietuvą.
-  citata_rodoma: "119\n\n## Puslapis 136\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nlankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­\nbio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­\nno sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos \nsostą23. Prancūzams ir kitiems kariams vadovavo narsusis \nriteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-\n23\nStrijkovskis apsirinka nurody­\ndamas, esą Lankasteris, Anglijos ka­\nraliaus Henriko sūnus, su didžiulė­\nmis anglų, škotų bei prancūzų ir 1."
+  citata_rodoma: |
+    119
+
+    ## Puslapis 136
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
+    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
+    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
+    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
+    riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
+    23
+    Strijkovskis apsirinka nurody­
+    damas, esą Lankasteris, Anglijos ka­
+    raliaus Henriko sūnus, su didžiulė­
+    mis anglų, škotų bei prancūzų ir 1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

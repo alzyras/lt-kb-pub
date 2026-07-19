@@ -71,7 +71,11 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
     Štraisbergas (Straisbergk; vėliau Strasburg, dab. Brodnica)
     Štumas (žr. Stuma)
     Šuršynai (Schorschienen, dab.
-  citata_rodoma: "Slupas)\nŠternbergas\nŠtraisbergas (Straisbergk; vėliau Strasburg, dab. Brodnica)\nŠtumas (žr."
+  citata_rodoma: |
+    Slupas)
+    Šternbergas
+    Štraisbergas (Straisbergk; vėliau Strasburg, dab. Brodnica)
+    Štumas (žr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

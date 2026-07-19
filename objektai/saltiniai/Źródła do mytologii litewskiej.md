@@ -67,7 +67,9 @@ media_all_json: |-
     Dvi dalys (vertimas), Vilnius, 1922.
     Mierz. = Mierzyński, Antoni, Dr., Źródła do mytologii litews­
     kiej, t. I, II, Warszawa 1892, 1896.
-  citata_rodoma: "Mierz. = Mierzyński, Antoni, Dr., Źródła do mytologii litews­\nkiej, t. I, II, Warszawa 1892, 1896."
+  citata_rodoma: |
+    Mierz. = Mierzyński, Antoni, Dr., Źródła do mytologii litews­
+    kiej, t. I, II, Warszawa 1892, 1896.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

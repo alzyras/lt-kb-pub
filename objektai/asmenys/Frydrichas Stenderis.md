@@ -251,7 +251,12 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     binimo apeigų liekanos.
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
-  citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
+  citata_rodoma: |
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -271,7 +276,16 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
     R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
     garbinamas Pušaitis ir barstukai18“.
-  citata_rodoma: "Pušaitis (Puschajtis)\nPožemio dievaitis, engiamų vargšų gynėjas, nykštukų,\nvadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16\n16 Stender, Lettische Grammatik.\n179\n\n## Puslapis 179\n\npo alyvų krūmais."
+  citata_rodoma: |
+    Pušaitis (Puschajtis)
+    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
+    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
+    16 Stender, Lettische Grammatik.
+    179
+
+    ## Puslapis 179
+
+    po alyvų krūmais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -292,7 +306,14 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     sintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
     kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
     ir neša tiems, kurie jiems geresni.
-  citata_rodoma: "Jiems nusilenkdavo pats Pušaitis, prašydamas\nkaimiečių vardu, idant markopoliai sulaikytų savo garbinto­\njus nuo nelaimingų žmonių engimo.\nBarstukai (Barstuki)\nPožemio dievaičiai, nykštukai. Tą vardą Stenderis išveda\niš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-\nke -  lėlė."
+  citata_rodoma: |
+    Jiems nusilenkdavo pats Pušaitis, prašydamas
+    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
+    jus nuo nelaimingų žmonių engimo.
+    Barstukai (Barstuki)
+    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
+    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
+    ke -  lėlė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

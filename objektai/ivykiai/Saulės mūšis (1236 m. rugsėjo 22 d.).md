@@ -239,7 +239,12 @@ Nenurodyta
     vietą-stovyklą. Šiaulių žemėje pagrindinė
     strateginė kelių sankryža yra Šiauliuose
     (ties dab.
-  citata_rodoma: "1236 m. rugsėjį į Lietuvą įžengusios\ndidžiulės tarptautinės kryžeivių pajėgos,\nsudarytos iš Kalavijuočių ordino bro-\nlių ir kryžininkų iš įvairių Europos šalių,\n„pasidalino į būrius“ ir ėmė plėšti."
+  citata_rodoma: |
+    1236 m. rugsėjį į Lietuvą įžengusios
+    didžiulės tarptautinės kryžeivių pajėgos,
+    sudarytos iš Kalavijuočių ordino bro-
+    lių ir kryžininkų iš įvairių Europos šalių,
+    „pasidalino į būrius“ ir ėmė plėšti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -256,7 +261,9 @@ Nenurodyta
     žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir
     ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys
     lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).
-  citata_rodoma: "ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys\nlietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium)."
+  citata_rodoma: |
+    ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys
+    lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -349,7 +356,10 @@ Nenurodyta
     Schlözer A. L. 49, 89
     Schmid H. F. 293
     Schmidt Wilh.
-  citata_rodoma: "Saulės-Šiaulių kautynės 1, 65, 66,\n149, 158, 160, 168, 169, 181, 208,\n210"
+  citata_rodoma: |
+    Saulės-Šiaulių kautynės 1, 65, 66,
+    149, 158, 160, 168, 169, 181, 208,
+    210
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -387,7 +397,10 @@ Nenurodyta
     Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai pa-
     prašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-
     žius patvirtino jų susitarimą.
-  citata_rodoma: "Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai pa-\nprašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-\nžius patvirtino jų susitarimą."
+  citata_rodoma: |
+    Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai pa-
+    prašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-
+    žius patvirtino jų susitarimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -101,7 +101,19 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
     Kol buvo įkurtas Vilnius, XIII amžiuje valstybės sostinė ir
     vyriausiojo žynio buveinė buvo Kernavėje, todėl ten turėjo būti
     ir vyriausioji šventykla.
-  citata_rodoma: "Tai ir buvo toji šventykla, vėliau paversta svirnu,\ntai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­\nnyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į\nmokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars\nRomana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė\nponas Laurinavičius -  garbingasis Kauno mokyklos profesorius\nir prefektas)*.\nKur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­\ntijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­\ndijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­\nnė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­\nsuose."
+  citata_rodoma: |
+    Tai ir buvo toji šventykla, vėliau paversta svirnu,
+    tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
+    nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į
+    mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars
+    Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė
+    ponas Laurinavičius -  garbingasis Kauno mokyklos profesorius
+    ir prefektas)*.
+    Kur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­
+    tijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­
+    dijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­
+    nė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­
+    suose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

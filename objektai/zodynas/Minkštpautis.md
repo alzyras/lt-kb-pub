@@ -57,7 +57,8 @@ Papildomos aiškios formos neišskirtos.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“
-  citata_rodoma: "lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“"
+  citata_rodoma: |
+    lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

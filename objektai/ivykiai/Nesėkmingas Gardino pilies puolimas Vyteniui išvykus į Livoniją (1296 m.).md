@@ -185,7 +185,22 @@ Nenurodyta
     Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
     apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
     ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
-  citata_rodoma: "Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes. Šis,\nbemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino\npilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,\nkai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.\n\n\n\n\n                   268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių."
+  citata_rodoma: |
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes. Šis,
+    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
+    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
+    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
+
+
+
+
+                       268 (261) Apie penkių kaimų apiplėšimą
+
+      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
+    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -212,7 +227,18 @@ Nenurodyta
     272 (265). Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
     Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
     metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
-  citata_rodoma: "Dar apie tą patį\n\n   Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis\nįsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.\nBrolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes. Šis,\nbemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino\npilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,\nkai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo."
+  citata_rodoma: |
+    Dar apie tą patį
+
+       Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
+    įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes. Šis,
+    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
+    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
+    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

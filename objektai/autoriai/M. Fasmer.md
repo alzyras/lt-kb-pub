@@ -55,11 +55,15 @@ Fasmer : Otryvki V.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    (^5) **PSRL, III, 75 p.**
+    **
     (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
     koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**
-    (^7) **LUB, II, 333 p.**
-  citata_rodoma: "**\n(^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-\nkoj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**\n(^7) **LUB, II, 333 p."
+    (^7) **LUB, II, 333 p.
+  citata_rodoma: |
+    **
+    (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
+    koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**
+    (^7) **LUB, II, 333 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,10 @@ Nenurodyta
     nės avižų kruopos. Jos geros valgyti ir nevirintos. Mažiukai, pripuolę
     prie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpda­
     mi nuo didžiųjų.
-  citata_rodoma: "Jos geros valgyti ir nevirintos. Mažiukai, pripuolę \nprie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpda­\nmi nuo didžiųjų."
+  citata_rodoma: |
+    Jos geros valgyti ir nevirintos. Mažiukai, pripuolę
+    prie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpda­
+    mi nuo didžiųjų.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

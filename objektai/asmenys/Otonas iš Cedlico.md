@@ -93,7 +93,13 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei
     ginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę
     daug netikėlių, 70 žmonių išsivarė į nelaisvę.
-  citata_rodoma: "Apie Pieštvės pilėnų apiplėšimą 1294\n\n   Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas\niš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei\nginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę\ndaug netikėlių, 70 žmonių išsivarė į nelaisvę."
+  citata_rodoma: |
+    Apie Pieštvės pilėnų apiplėšimą 1294
+
+       Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas
+    iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei
+    ginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę
+    daug netikėlių, 70 žmonių išsivarė į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

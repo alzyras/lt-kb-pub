@@ -100,7 +100,14 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
     pėstininkų, 4 tūkst. raite-
     lių, 46 artilerijos pabūklai,
     pusė jų - stambaus kalibro.
-  citata_rodoma: "Liepos 19-20 dienomis Vilnių\npuolė gen. ltn. Bogdano Knor-\nringo Rusijos kariuomenės kor-\npusas kuriame buvo 8 tūkst.\npėstininkų, 4 tūkst. raite-\nlių, 46 artilerijos pabūklai,\npusė jų - stambaus kalibro."
+  citata_rodoma: |
+    Liepos 19-20 dienomis Vilnių
+    puolė gen. ltn. Bogdano Knor-
+    ringo Rusijos kariuomenės kor-
+    pusas kuriame buvo 8 tūkst.
+    pėstininkų, 4 tūkst. raite-
+    lių, 46 artilerijos pabūklai,
+    pusė jų - stambaus kalibro.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -111,7 +111,7 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    T. 1, p. 554.
+    554.
     8
 
     ## Puslapis 25
@@ -123,7 +123,19 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
     su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
     tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
     savo tvirtovėmis ir prekyba.
-  citata_rodoma: "554.\n8\n\n## Puslapis 25\n\nĮVADAS\ndenio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; \nSlonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino \n1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu \nsu Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­\ntas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs \nsavo tvirtovėmis ir prekyba."
+  citata_rodoma: |
+    554.
+    8
+
+    ## Puslapis 25
+
+    ĮVADAS
+    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
+    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
+    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
+    su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
+    tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
+    savo tvirtovėmis ir prekyba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -76,7 +76,20 @@ Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiem
     gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
     tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
     turi būti parašyti: Viešpaties vardu Amen.
-  citata_rodoma: "didysis ku­\nnigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam \napie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje \nkam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje \nstoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten \ngyvenančių, vardu vieną privilegiją su titulu ir antspaudu \nšviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­\nba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine, \nBrastoje, Drohičine, Lucke, Vladimire ir kitose žemėse, \nprašydami, kad mes teises, laisves ir kitus jiems anoje privile­\ngijoje priklausančius dalykus patvirtinti, sustiprinti ir su­\ntvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais \nturi būti parašyti: Viešpaties vardu Amen."
+  citata_rodoma: |
+    didysis ku­
+    nigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam
+    apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
+    kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje
+    stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten
+    gyvenančių, vardu vieną privilegiją su titulu ir antspaudu
+    šviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­
+    ba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine,
+    Brastoje, Drohičine, Lucke, Vladimire ir kitose žemėse,
+    prašydami, kad mes teises, laisves ir kitus jiems anoje privile­
+    gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
+    tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
+    turi būti parašyti: Viešpaties vardu Amen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

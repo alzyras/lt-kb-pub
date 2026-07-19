@@ -78,7 +78,8 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
     ir pradėjo pretenduoti į vienvaldystę šalyje. Po gegužę įvykdyto studen-
     tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
     ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
-  citata_rodoma: "ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras."
+  citata_rodoma: |
+    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

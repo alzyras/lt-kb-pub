@@ -110,7 +110,11 @@ Nenurodyta
     Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
     pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
     Daumanto, už Nalšios kunigaikščiol0.
-  citata_rodoma: "O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
+  citata_rodoma: |
+    O rytojaus metą prieš vokiečius išjojo
+    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
+    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
+    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

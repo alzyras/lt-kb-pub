@@ -65,7 +65,8 @@ p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos
     p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos partizanų leidinys, GAM.
     p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Leidinį leido Prisikėlimo
     apygardos Maironio rinktinės štabas, GAM.
-  citata_rodoma: "p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos partizanų leidinys, GAM."
+  citata_rodoma: |
+    p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos partizanų leidinys, GAM.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

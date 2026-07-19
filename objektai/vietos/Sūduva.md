@@ -537,7 +537,13 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
     Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
     Grajevo ir Točilovo ežerų.
-  citata_rodoma: "Bet Melno sutartimi\niš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu\nVytautas buvo ordinui užleidęs Salyno taika (1398).\nSenoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų\nBrastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau\nGrajevo ir Točilovo ežerų."
+  citata_rodoma: |
+    Bet Melno sutartimi
+    iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu
+    Vytautas buvo ordinui užleidęs Salyno taika (1398).
+    Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
+    Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
+    Grajevo ir Točilovo ežerų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -573,7 +579,12 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
-  citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -665,7 +676,20 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
     žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
     spėjimas yra visiškai nepriimtinas.
-  citata_rodoma: "Sūduva turėjo gana\ndaug įtvirtintų pilių, kur gyveno šioje provincijoje dau­\ngiausia buvusių savarankiškų valdovų. Kryžiuočiams val­\ndant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;\napie ją žinome tik iš Dusburgo paminėto jos valsčiaus,\nvadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir\nRaigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie\nšią, toje pačioje vietoje esančią provinciją, be to, neabe­\njotina, kad nuo seno ten gyveno ir lietuviui Tas pats\ngeografas taip pat žinojo vieną sudinų koloniją, buvusią\ngermanų markomanų genties kaimynystėje, dabar Pra­\nhos apskritis (Čekija), prie Vltavos upės; tai galėjo būti\niš prūsų Sūduvos kažkokia užklydusi genties dalis4."
+  citata_rodoma: |
+    Sūduva turėjo gana
+    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
+    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
+    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
+    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
+    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
+    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -689,7 +713,15 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     suskirstymo į mažas apskritis, iš kurių minima Kimenau,
     Kimenava, su to paties pavadinimo pilimi; čia gyvenęs šio
     krašto ponas, vardu Jedetas.
-  citata_rodoma: "Siaurinė\nsiena, rodos, buvo Pisos upė, atitekėjusi iš rytų į vakarus,\nkur ji skyrė Sūduvą nuo Salavijos ir Nadruvos. Vadinasi,\nSūduvą sudarė žemės, kur yra Olecko, Lykos, Biala, Ario,\nReino ir Lėceno miesteliai. Čia taip pat būta senovinio\nsuskirstymo į mažas apskritis, iš kurių minima Kimenau,\nKimenava, su to paties pavadinimo pilimi; čia gyvenęs šio\nkrašto ponas, vardu Jedetas."
+  citata_rodoma: |
+    Siaurinė
+    siena, rodos, buvo Pisos upė, atitekėjusi iš rytų į vakarus,
+    kur ji skyrė Sūduvą nuo Salavijos ir Nadruvos. Vadinasi,
+    Sūduvą sudarė žemės, kur yra Olecko, Lykos, Biala, Ario,
+    Reino ir Lėceno miesteliai. Čia taip pat būta senovinio
+    suskirstymo į mažas apskritis, iš kurių minima Kimenau,
+    Kimenava, su to paties pavadinimo pilimi; čia gyvenęs šio
+    krašto ponas, vardu Jedetas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

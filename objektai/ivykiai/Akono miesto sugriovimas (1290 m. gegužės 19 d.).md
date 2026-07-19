@@ -87,7 +87,14 @@ Nenurodyta
     patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią
     buvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir sutvarkė
     šventąją žemę, kurią tas buvo nuniokojęs.
-  citata_rodoma: "1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas\nsugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.\n421; Ptol. 24, 23, 24).\n  Įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus\npatraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią\nbuvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir sutvarkė\nšventąją žemę, kurią tas buvo nuniokojęs."
+  citata_rodoma: |
+    1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
+    sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
+    421; Ptol. 24, 23, 24).
+      Įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus
+    patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią
+    buvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir sutvarkė
+    šventąją žemę, kurią tas buvo nuniokojęs.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -100,12 +107,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    77. Apie Akono miesto sugriovimą
+    Apie Akono miesto sugriovimą
 
       1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
     sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
     421; Ptol. 24, 23, 24).
-  citata_rodoma: "77. Apie Akono miesto sugriovimą\n\n  1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas\nsugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.\n421; Ptol. 24, 23, 24)."
+  citata_rodoma: |
+    Apie Akono miesto sugriovimą
+
+      1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
+    sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
+    421; Ptol. 24, 23, 24).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -212,7 +212,14 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
     bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
     gūnus, žemutinės teismų grandies teisėjus.
-  citata_rodoma: "L I E T U V O S  I S T O R I J A\n100\nNuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir \nsavivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-\nkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-\nbluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos \nvietos administracijos, atlikusios iš esmės pagalbines funkcijas."
+  citata_rodoma: |
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -234,7 +241,12 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     sienas.
     1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.
-  citata_rodoma: "LLV sąjungininkę Prūsiją išgąsdino gali-\nmas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-\nna II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos \nsienas. \n1793 m."
+  citata_rodoma: |
+    LLV sąjungininkę Prūsiją išgąsdino gali-
+    mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-
+    na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
+    sienas.
+    1793 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

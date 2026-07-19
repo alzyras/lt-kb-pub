@@ -126,7 +126,18 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     bino mane ypatinga savo išvaizda. Liepiau apvalyti nuo jo dum­
     blą. Pasvarstęs, kad visame perkase nebuvo jokio akmens, su­
     vokiau, kad jis ten buvo tyčia įmestas.
-  citata_rodoma: "Rageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės.\n207\n\n## Puslapis 207\n\nVetustis (W etustis)\nRietavo miestelio fetišas, lietuviškai -  senovinis."
+  citata_rodoma: |
+    Rageziowan
+    Kęsgailų giminės fetišas.
+    Dievaitis (Dewojtis)
+    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
+    seinių apskrityje, tikriausiai prie Jūros upės.
+    207
+
+    ## Puslapis 207
+
+    Vetustis (W etustis)
+    Rietavo miestelio fetišas, lietuviškai -  senovinis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

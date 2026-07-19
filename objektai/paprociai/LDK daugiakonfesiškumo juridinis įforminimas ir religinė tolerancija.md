@@ -81,7 +81,14 @@ Nenurodyta
     bendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek
     Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
     lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
-  citata_rodoma: "Jau Pirmasis Lietuvos Statutas (1529), dar neži-\nnant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai. \nNors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-\nčioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės \nbendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek \nLenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko \nlėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a."
+  citata_rodoma: |
+    Jau Pirmasis Lietuvos Statutas (1529), dar neži-
+    nant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai.
+    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
+    čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
+    bendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek
+    Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
+    lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

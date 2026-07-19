@@ -451,7 +451,12 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
-  citata_rodoma: "Toks įžeidžiantis ir neteisingas klausimo išsprendimas\nsuglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­\nnos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,\nsekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui\nnepasitenkinimą^3 )."
+  citata_rodoma: |
+    Toks įžeidžiantis ir neteisingas klausimo išsprendimas
+    suglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­
+    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
+    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
+    nepasitenkinimą^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -473,7 +478,10 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
     Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
     nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: "į tą Krokuvos profesorių, be abejo\nZb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­\nnę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala."
+  citata_rodoma: |
+    į tą Krokuvos profesorių, be abejo
+    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
+    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -496,7 +504,14 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     žmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.
     Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
     bėje ir jo politikai.
-  citata_rodoma: "Lenkų užsispyrimas,\ntrukęs net ketverius metus, suerzino Vytautą dar labiau, kai\n1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos\nįtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko\nžmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.\nOlesnickis, buvo priešingi jo turimai persvarai bendroje valsty­\nbėje ir jo politikai."
+  citata_rodoma: |
+    Lenkų užsispyrimas,
+    trukęs net ketverius metus, suerzino Vytautą dar labiau, kai
+    1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos
+    įtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko
+    žmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.
+    Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
+    bėje ir jo politikai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -538,7 +553,15 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
     Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
     mos Vytauto politikos priešas.
-  citata_rodoma: "Vytautas, tur būt, niekada\nnuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų\nkovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­\nka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­\nlankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė\nir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos\nKrokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­\nmos Vytauto politikos priešas."
+  citata_rodoma: |
+    Vytautas, tur būt, niekada
+    nuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų
+    kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
+    ka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­
+    lankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė
+    ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
+    Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
+    mos Vytauto politikos priešas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -560,7 +583,14 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
     tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
     tarti, kurios laikėsi ir Vytautui mirus.
-  citata_rodoma: "Jogaila turėjo pritarti valiai \nLDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­\nniu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­\natsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig- \nnievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, \nsiekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­\nskyrimui nuo Lenkijos."
+  citata_rodoma: |
+    Jogaila turėjo pritarti valiai
+    LDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­
+    niu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­
+    atsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig-
+    nievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą,
+    siekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­
+    skyrimui nuo Lenkijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

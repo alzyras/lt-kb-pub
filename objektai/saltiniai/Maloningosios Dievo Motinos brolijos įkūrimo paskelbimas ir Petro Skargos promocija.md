@@ -82,7 +82,20 @@ Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloning
     su Dievo Kūno arkibrolija; funduota buvo sekant Romos mon­
     tium pietatis pavyzdžiu, kur turtai būdavo kaupiami varguo­
     lių ir prieglaudų dėlei, tačiau šito ir pėdsakų jau nebelikę.
-  citata_rodoma: "Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­\nšė Trakų vaivada ponas Oginskis.\nToje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. \nbuvo paskelbta Maloningosios Dievo Motinos brolijos įkū­\nrimas ir kunigo Petro Skargos suteikta promocija sujungta\n175\n\n## Puslapis 192\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nsu Dievo Kūno arkibrolija; funduota buvo sekant Romos mon­\ntium pietatis pavyzdžiu, kur turtai būdavo kaupiami varguo­\nlių ir prieglaudų dėlei, tačiau šito ir pėdsakų jau nebelikę."
+  citata_rodoma: |
+    Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­
+    šė Trakų vaivada ponas Oginskis.
+    Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d.
+    buvo paskelbta Maloningosios Dievo Motinos brolijos įkū­
+    rimas ir kunigo Petro Skargos suteikta promocija sujungta
+    175
+
+    ## Puslapis 192
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    su Dievo Kūno arkibrolija; funduota buvo sekant Romos mon­
+    tium pietatis pavyzdžiu, kur turtai būdavo kaupiami varguo­
+    lių ir prieglaudų dėlei, tačiau šito ir pėdsakų jau nebelikę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

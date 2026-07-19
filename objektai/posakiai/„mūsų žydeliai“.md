@@ -68,7 +68,8 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
     „kitokie“. Žydai lietuvių valstiečius matė kaip mažai civilizuotus kaimie-
     čius, iš kurių jie tik pirko produkciją, o vos prasibrėžianti lietuvių kultūra
     jiems, kaip ir lenkams, visiškai neimponavo.
-  citata_rodoma: "sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai. Malonybiškai ir kartu"
+  citata_rodoma: |
+    sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai. Malonybiškai ir kartu
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

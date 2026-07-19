@@ -206,7 +206,8 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
     pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
     jos pobūdį.
-  citata_rodoma: "konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė"
+  citata_rodoma: |
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -225,7 +226,8 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
     vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
     turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
-  citata_rodoma: "vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),"
+  citata_rodoma: |
+    vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -68,7 +68,11 @@ Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­ tas, p
     šeima, bajorais ir palydovais (družina). Įkandin ar drauge su juo
     (1265 m.) į Pskovą pasitraukė su šeimomis 300 lietuvių, kurie ten
     visi pasikrikštijo^217.
-  citata_rodoma: "Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­\ntas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo\nšeima, bajorais ir palydovais (družina). Įkandin ar drauge su juo\n(1265 m."
+  citata_rodoma: |
+    Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­
+    tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo
+    šeima, bajorais ir palydovais (družina). Įkandin ar drauge su juo
+    (1265 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

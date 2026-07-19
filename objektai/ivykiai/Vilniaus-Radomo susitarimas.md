@@ -123,7 +123,10 @@ Nenurodyta
     Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
     teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
     Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
-  citata_rodoma: "Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai\nteisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.\nTodėl ir tas aktas vadintinas Vilniaus-Radomo unija."
+  citata_rodoma: |
+    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
+    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
+    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,8 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
     ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m.
-  citata_rodoma: "ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė"
+  citata_rodoma: |
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

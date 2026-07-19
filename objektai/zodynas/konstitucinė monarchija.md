@@ -69,7 +69,10 @@ Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąs
     Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
     vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
     jungti Lietuvą personaline unija su Saksonija arba Prūsija.
-  citata_rodoma: "Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-\nvingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-\njungti Lietuvą personaline unija su Saksonija arba Prūsija."
+  citata_rodoma: |
+    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
+    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
+    jungti Lietuvą personaline unija su Saksonija arba Prūsija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

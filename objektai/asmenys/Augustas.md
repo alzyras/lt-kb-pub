@@ -436,7 +436,23 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     jant su Vladislovu bei Liudviku. Balandžio 15 d. Kro­
     kuvoje iškėlė vestuves, labai iškilmingas, kaip ir dera
     šitokiems sutuoktiniams.
-  citata_rodoma: "1543 m e ta i \nŽ y g im a n ta s \nA u g u s­\nta s v e d a a u strų k u ­\nn ig a ik š ty tę E lžb ietą\nSugrįžęs į Lenkiją, kara­\nlius suskato apvesdinti sūnų \nAugustą. Nutarta susigimi­\nniuoti su Austrijos valdovų \nšeima ir paprašyti Augustui \nRomos karaliaus Ferdinando \ndukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­\ntorius Karolis V didžiai pritarė šiai santuokai, įsitikinę, \nkad ji dar labiau sustiprins santarvę ir gerus santy­\nkius, kuriems padėta pamatai anksčiau, susigiminiuo­\njant su Vladislovu bei Liudviku."
+  citata_rodoma: |
+    1543 m e ta i
+    Ž y g im a n ta s
+    A u g u s­
+    ta s v e d a a u strų k u ­
+    n ig a ik š ty tę E lžb ietą
+    Sugrįžęs į Lenkiją, kara­
+    lius suskato apvesdinti sūnų
+    Augustą. Nutarta susigimi­
+    niuoti su Austrijos valdovų
+    šeima ir paprašyti Augustui
+    Romos karaliaus Ferdinando
+    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
+    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
+    kad ji dar labiau sustiprins santarvę ir gerus santy­
+    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
+    jant su Vladislovu bei Liudviku.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

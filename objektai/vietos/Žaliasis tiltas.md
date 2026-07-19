@@ -66,7 +66,12 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
     artilerijos baterijos, sėkmingai atsitraukė
     per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
     jos kariuomenė užėmė Vilnių.
-  citata_rodoma: "Vakare Vilniaus įgula, dengiama ar-\ntilerijos kapitono kunigaikščio Kazi-\nmiero Sapiegos, sumaniai vadovaujamos\nartilerijos baterijos, sėkmingai atsitraukė\nper Žaliąjį tiltą. Rugpjūčio 12 d."
+  citata_rodoma: |
+    Vakare Vilniaus įgula, dengiama ar-
+    tilerijos kapitono kunigaikščio Kazi-
+    miero Sapiegos, sumaniai vadovaujamos
+    artilerijos baterijos, sėkmingai atsitraukė
+    per Žaliąjį tiltą. Rugpjūčio 12 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

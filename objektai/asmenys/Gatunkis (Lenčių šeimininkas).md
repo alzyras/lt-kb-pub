@@ -93,7 +93,8 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
     — Ir tą pasakysiu. Tarnavau Lenčiuose pas Gatunkį pusberniu­
     ku.
     Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą.
-  citata_rodoma: "Tarnavau Lenčiuose pas Gatunkį pusberniuku. Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą."
+  citata_rodoma: |
+    Tarnavau Lenčiuose pas Gatunkį pusberniuku. Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -114,7 +115,8 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
     nori lūžti.
     Nieko į tai neatsakė: nei pagyrė už branktus nei barė už
     įrankių šipinimą, tik nuo to laiko nedraudė man stalioriauti.
-  citata_rodoma: "Nieko į tai neatsakė: nei pagyrė už branktus nei barė už įrankių šipinimą, tik nuo to laiko nedraudė man stalioriauti."
+  citata_rodoma: |
+    Nieko į tai neatsakė: nei pagyrė už branktus nei barė už įrankių šipinimą, tik nuo to laiko nedraudė man stalioriauti.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

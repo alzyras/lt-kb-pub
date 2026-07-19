@@ -88,7 +88,17 @@ Nenurodyta
     dar labiau pakėlė juostomis, šaudymo tempas - 450 šūvių/min.
     savanorių nuotaiką svoris (su vandeniu) - apie 69 kg, efektyvaus
     ir ryžtą kautis. šaudymo nuotolis - 2 000 m
-  citata_rodoma: "Nors kulkosvaidžių įgula dar ne-\nturėjo, visų savanorių apgin-\nklavimas bent šautuvais ir\naprūpinimas šoviniais\n\nVokiškas kulkosvaidis Maxim MGo8.\nŠovinys — 7,92x57 mm. Kulkosvaidis\naušinamas vandeniu, užtaisomas šovinių\n\ndar labiau pakėlė juostomis, šaudymo tempas - 450 šūvių/min."
+  citata_rodoma: |
+    Nors kulkosvaidžių įgula dar ne-
+    turėjo, visų savanorių apgin-
+    klavimas bent šautuvais ir
+    aprūpinimas šoviniais
+
+    Vokiškas kulkosvaidis Maxim MGo8.
+    Šovinys — 7,92x57 mm. Kulkosvaidis
+    aušinamas vandeniu, užtaisomas šovinių
+
+    dar labiau pakėlė juostomis, šaudymo tempas - 450 šūvių/min.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

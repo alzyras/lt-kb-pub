@@ -55,7 +55,9 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
     o tik jų pavergti ir kad, siekdamas savo galybės, nesiskaito net
     su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką
     miestą.
-  citata_rodoma: "su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką\nmiestą."
+  citata_rodoma: |
+    su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką
+    miestą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -112,7 +112,16 @@ Nenurodyta
     mūšį su nuostaba rašoma: „Visų keisčiau-
     sia, kad mūsiškių užmušta tik 20, o sužeista
     700“.
-  citata_rodoma: "Nors po mūšio\n\nPolocko susigrąžinti nepavyko (tai įvyko\ntik 1579 m.), tačiau po Ulos sutriuškinimo,\nkurį amžininkai prilygino Oršos mūšiui,\nmaskvėnai prarado iniciatyvą kare ir naujo\ndidelio jų puolimo grėsmė išnyko.\n\ntys, nėra aišku."
+  citata_rodoma: |
+    Nors po mūšio
+
+    Polocko susigrąžinti nepavyko (tai įvyko
+    tik 1579 m.), tačiau po Ulos sutriuškinimo,
+    kurį amžininkai prilygino Oršos mūšiui,
+    maskvėnai prarado iniciatyvą kare ir naujo
+    didelio jų puolimo grėsmė išnyko.
+
+    tys, nėra aišku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -132,7 +141,14 @@ Nenurodyta
     grėsmingą ir nesulaukusią P. Šuiskio ve-
     žamų ginklų bei kitų atsargų, B. Sereb-
     riano vedamą kariuomenę. Nors po mūšio
-  citata_rodoma: "Kokios buvo lietuvių kariuomenės netek-\n\nNepraėjus dviem savaitėms, lietu-\nviai beveik be mūšio sutriuškino ne tokią\ngrėsmingą ir nesulaukusią P. Šuiskio ve-\nžamų ginklų bei kitų atsargų, B. Sereb-\nriano vedamą kariuomenę."
+  citata_rodoma: |
+    Kokios buvo lietuvių kariuomenės netek-
+
+    Nepraėjus dviem savaitėms, lietu-
+    viai beveik be mūšio sutriuškino ne tokią
+    grėsmingą ir nesulaukusią P. Šuiskio ve-
+    žamų ginklų bei kitų atsargų, B. Sereb-
+    riano vedamą kariuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

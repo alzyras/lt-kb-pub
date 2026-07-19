@@ -105,7 +105,27 @@ Nenurodyta
     miegamojo prižiūrėtojai Pro-
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
-  citata_rodoma: "Mat nei geros savijautos, \nnei pasitikėjimo duotu žodžiu negali būti tada, kai, \nsusitarus dėl ko su priešu, šis nepaliauja galvojęs apie \nnaudą. Tą pačią naktį Jogaila, pamynęs draugystės bei \ngiminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­\ntingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį \nliepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­\ntaip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­\ngų, dėl savo sumanumo tikras Lietuvos Odisėjas, o \ndėl narsumo — Achilas, žuvo gimtajame krašte per\nbrolėno kaltę: penktą naktį \nJogailos \npasiųsti \nbudeliai \n(žymiausi \niš \njų — valdovo \nmiegamojo prižiūrėtojai Pro- \nkša, Bilgenis, Lisica ir kiti) \nKrėvos kalėjime jį pasmaugė."
+  citata_rodoma: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

@@ -177,7 +177,14 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
     žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
     vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
     ir dar kitaip.
-  citata_rodoma: "D C fere M. passum, a Carnunto Pannoniae\nabest littus Germaniae, ex quo invehitur (succinum) per cognitum\nnuper. (Maždaug 600 romėniškų mylių nuo Karnunto Panonijoje yra\nnutolusi Germanuos pakrantė, iš kur gabenamas (gintaras) per ką\ntik\nminėtą\n[miestą].)"
+  citata_rodoma: |
+    D C fere M. passum, a Carnunto Pannoniae
+    abest littus Germaniae, ex quo invehitur (succinum) per cognitum
+    nuper. (Maždaug 600 romėniškų mylių nuo Karnunto Panonijoje yra
+    nutolusi Germanuos pakrantė, iš kur gabenamas (gintaras) per ką
+    tik
+    minėtą
+    [miestą].)
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -196,7 +203,10 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
     Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai
     lygu 120—125 vokiečių mylioms. Tokį pat nuotolį nuo Vys­
     los žiočių į Panoniją suskaičiuoja ir Ptolemėjas.
-  citata_rodoma: "Kelio ilgis sutampa su Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai\nlygu 120—125 vokiečių mylioms. Tokį pat nuotolį nuo Vys­\nlos žiočių į Panoniją suskaičiuoja ir Ptolemėjas."
+  citata_rodoma: |
+    Kelio ilgis sutampa su Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai
+    lygu 120—125 vokiečių mylioms. Tokį pat nuotolį nuo Vys­
+    los žiočių į Panoniją suskaičiuoja ir Ptolemėjas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -106,7 +106,21 @@ Nenurodyta
 
     VILNIAUS MIESTO ISTORIJA I TOMAS
     arba mūsų seniūnas tai galės vykdyti.
-  citata_rodoma: "Taip pat jeigu gaisro \natveju arba vagystės, arba per jėgą savo daiktus su jam at­\nneštais užstatais prarastų, o krikščionis, kuris būtų užsta­\ntęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­\nvalo išsiteisinti. Taip pat jeigu žydai tarpusavyje dėl kokio \nveiksmo sukeltų nesantaiką arba triukšmą, mūsų miesto tei­\nsėjas jokios teisės prieš juos sau negalėtų priskirti, o tik mes\n- • -  -\n195\n\n## Puslapis 212\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\narba mūsų seniūnas tai galės vykdyti."
+  citata_rodoma: |
+    Taip pat jeigu gaisro
+    atveju arba vagystės, arba per jėgą savo daiktus su jam at­
+    neštais užstatais prarastų, o krikščionis, kuris būtų užsta­
+    tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­
+    valo išsiteisinti. Taip pat jeigu žydai tarpusavyje dėl kokio
+    veiksmo sukeltų nesantaiką arba triukšmą, mūsų miesto tei­
+    sėjas jokios teisės prieš juos sau negalėtų priskirti, o tik mes
+    - • -  -
+    195
+
+    ## Puslapis 212
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    arba mūsų seniūnas tai galės vykdyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

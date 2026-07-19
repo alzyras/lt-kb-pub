@@ -83,7 +83,13 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
     šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
     tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
     pančius vienas ant kito.
-  citata_rodoma: "Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir\nJaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės\nbartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais."
+  citata_rodoma: |
+    Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
+    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
+    bartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

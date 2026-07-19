@@ -114,7 +114,23 @@ Nenurodyta
     te prie švento Boriso ir Glebo cerkvės4, ir daugelį
     prastųjų žmonių ietys mirtinai persmeigė, o kiti, su­
     žeisti, liko gyvi.
-  citata_rodoma: "Ir Smolensko vyskupas Semionas2 , ir kunigaikš­\nčiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­\nkė Andriui laikysią jį pas save Smolensko vaivada, \nkaip pridera. Po Velykų, Šventosios savaitės trečiadie­\nnį 3 , Smolensko prastieji žmonės — kalviai, odminiai, \nbatsiuviai, mėsininkai, katiliai — sumanė Andrių varu \niš miesto išvaryti, o priesaiką paminti, ir apsiginklavo \nietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė \nskambinti varpu.\nAndrius ėmė tartis su Smolensko bajorais, ir bajo­\nrai jam tarė: „Liepk savo dvariškiams ginkluotis, o \nmes — su tavimi; argi geriau pasiduoti į jų rankas?\" \nIr pasileido prieš juos raiti su ietimis, ir susikirto mies­\nte prie švento Boriso ir Glebo cerkvės4 , ir daugelį \nprastųjų žmonių ietys mirtinai persmeigė, o kiti, su­\nžeisti, liko gyvi."
+  citata_rodoma: |
+    Ir Smolensko vyskupas Semionas2 , ir kunigaikš­
+    čiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­
+    kė Andriui laikysią jį pas save Smolensko vaivada,
+    kaip pridera. Po Velykų, Šventosios savaitės trečiadie­
+    nį 3 , Smolensko prastieji žmonės — kalviai, odminiai,
+    batsiuviai, mėsininkai, katiliai — sumanė Andrių varu
+    iš miesto išvaryti, o priesaiką paminti, ir apsiginklavo
+    ietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė
+    skambinti varpu.
+    Andrius ėmė tartis su Smolensko bajorais, ir bajo­
+    rai jam tarė: „Liepk savo dvariškiams ginkluotis, o
+    mes — su tavimi; argi geriau pasiduoti į jų rankas?"
+    Ir pasileido prieš juos raiti su ietimis, ir susikirto mies­
+    te prie švento Boriso ir Glebo cerkvės4 , ir daugelį
+    prastųjų žmonių ietys mirtinai persmeigė, o kiti, su­
+    žeisti, liko gyvi.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas

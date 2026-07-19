@@ -126,7 +126,15 @@ Nenurodyta
     Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
     kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
     kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
-  citata_rodoma: "Joje reikalauta \nsuteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-\nkamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta \nkaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-\nsią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta. \nKitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į \nkariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos \nkaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes."
+  citata_rodoma: |
+    Joje reikalauta
+    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
+    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
+    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
+    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
+    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
+    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
+    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

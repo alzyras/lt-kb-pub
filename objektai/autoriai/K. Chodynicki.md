@@ -87,7 +87,12 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
     kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
     rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
     Ivinskis).
-  citata_rodoma: "Lenkai\nir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­\nkiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus\nrygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.\nIvinskis)."
+  citata_rodoma: |
+    Lenkai
+    ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
+    kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
+    rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
+    Ivinskis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +116,9 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
     nis,_ LE, t. 31, 364-369 p. — Jakštas, J. : _Naujausi Gedimino dinastijos
     kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
     linių studijų).
-  citata_rodoma: "— Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,\n1926, 541-566 p."
+  citata_rodoma: |
+    — Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,
+    1926, 541-566 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

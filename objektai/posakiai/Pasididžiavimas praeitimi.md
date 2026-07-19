@@ -65,7 +65,14 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
     eiti tolimą kelią. Vis dėlto pasididžiavimas praeitimi, susietas su
     sunkiu darbu ir tinkamai skirtomis priemonėmis, yra mūsų sti-
     prybė ir privalumas.
-  citata_rodoma: "Taip jau atsitiko, kad Lietuvos ilga praeitis gerokai lenkia šian-\ndieninį valstybės dydį ir svarbą Europos ir pasaulio mastu, todėl\nšiandieniams lietuviams reikia dar daug nuveikti, norint savo\ndarbais prilygti protėviams, o Lietuvos kariuomenei dar teks nu-\neiti tolimą kelią. Vis dėlto pasididžiavimas praeitimi, susietas su\nsunkiu darbu ir tinkamai skirtomis priemonėmis, yra mūsų sti-\nprybė ir privalumas."
+  citata_rodoma: |
+    Taip jau atsitiko, kad Lietuvos ilga praeitis gerokai lenkia šian-
+    dieninį valstybės dydį ir svarbą Europos ir pasaulio mastu, todėl
+    šiandieniams lietuviams reikia dar daug nuveikti, norint savo
+    darbais prilygti protėviams, o Lietuvos kariuomenei dar teks nu-
+    eiti tolimą kelią. Vis dėlto pasididžiavimas praeitimi, susietas su
+    sunkiu darbu ir tinkamai skirtomis priemonėmis, yra mūsų sti-
+    prybė ir privalumas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -96,7 +96,10 @@ Nenurodyta
     Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš
         vieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus
         gal regėti šiandien dar krievių ir lybiešių žemėj.
-  citata_rodoma: "Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš\nvieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus\ngal regėti šiandien dar krievių ir lybiešių žemėj."
+  citata_rodoma: |
+    Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš
+    vieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus
+    gal regėti šiandien dar krievių ir lybiešių žemėj.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

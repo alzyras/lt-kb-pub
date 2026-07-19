@@ -111,7 +111,21 @@ Nenurodyta
     dievas yra didžiai ant jo užsirūstinęs, ir neabejodamas, jog dieviškosios globos skydas
     jo nebedengsiąs, be galo išsigando ir taip ištižo, kad nei jis pats, nei dauguma karių
     nedrįso bent šiek tiek palaukti nedidelės kariuomenės, o gėdingai pasileido bėgti.
-  citata_rodoma: "Apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį\n\n  Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis,  jis, nepaprastai irzdamas  ir\napie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės\nnaujakrikščius, atsimetusius nuo tikėjimo, ir apsiautė Sartovicų pilį, įnirtingai ją puldamas\npenkias savaites su visokiais karo įtaisais, apšaudydamas strėlėmis ir griebdamasis visų\nkitų priemonių, kokias bestengė sugalvoti, o broliai bei kiti apsiaustieji narsiai gynėsi.\nTas klastingasis kunigaikštis visados ir elgėsi klastingai. Galop jo nedorybė užrūstino\ndievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi\npilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį\npasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu\ndievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo\nį kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;\nbe kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių."
+  citata_rodoma: |
+    Apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį
+
+      Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis,  jis, nepaprastai irzdamas  ir
+    apie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės
+    naujakrikščius, atsimetusius nuo tikėjimo, ir apsiautė Sartovicų pilį, įnirtingai ją puldamas
+    penkias savaites su visokiais karo įtaisais, apšaudydamas strėlėmis ir griebdamasis visų
+    kitų priemonių, kokias bestengė sugalvoti, o broliai bei kiti apsiaustieji narsiai gynėsi.
+    Tas klastingasis kunigaikštis visados ir elgėsi klastingai. Galop jo nedorybė užrūstino
+    dievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi
+    pilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį
+    pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
+    dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
+    į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
+    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

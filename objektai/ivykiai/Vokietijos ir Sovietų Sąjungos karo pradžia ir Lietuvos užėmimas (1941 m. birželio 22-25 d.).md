@@ -89,7 +89,8 @@ Nenurodyta
     1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
     Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
     litinius kalinius paskubomis išgabeno iš Lietuvos.
-  citata_rodoma: "1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,"
+  citata_rodoma: |
+    1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

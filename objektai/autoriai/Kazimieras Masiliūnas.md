@@ -76,7 +76,11 @@ media_all_json: |-
     zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
     Šapoka.
-  citata_rodoma: "Lietuvos Respublikos švietimo ministerijos (viceministro Ka-\nzimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-\nšė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas\nŠapoka."
+  citata_rodoma: |
+    Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
+    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
+    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+    Šapoka.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

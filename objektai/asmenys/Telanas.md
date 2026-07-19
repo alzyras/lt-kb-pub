@@ -99,7 +99,14 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
     gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
     na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
     dieną.
-  citata_rodoma: "Bet jis, trokšdamas vienvaldystės ir kupi­\nnas juodo pavydo, nepasibjaurėjo netrukus po paliaubų \nsudarymo pažeisti svetingumo taisykles: jis savo ranko­\nmis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai \ngotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­\nna daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5 \ndieną."
+  citata_rodoma: |
+    Bet jis, trokšdamas vienvaldystės ir kupi­
+    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
+    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
+    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
+    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
+    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
+    dieną.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

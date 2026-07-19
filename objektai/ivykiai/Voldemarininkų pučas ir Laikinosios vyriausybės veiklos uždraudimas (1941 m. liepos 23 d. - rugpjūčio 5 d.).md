@@ -112,7 +112,8 @@ Nenurodyta
     kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir
     policijai bei pagalbinės policijos daliniams, mielai perėmė sovietų nacio-
     nalizuotą turtą, o rugpjūčio 5 dieną uždraudė LV veiklą.
-  citata_rodoma: "kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir"
+  citata_rodoma: |
+    kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +132,8 @@ Nenurodyta
     tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.
-  citata_rodoma: "sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje"
+  citata_rodoma: |
+    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

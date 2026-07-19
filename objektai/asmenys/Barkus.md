@@ -65,7 +65,14 @@ APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėta
     tyn, atrado labai gražią vietą; jam labai patiko toji
     vieta, jis ten įkurdino savo sūnų Kernių ir tam miestui
     davė Kerniaus vardą, pavadinęs Kernave l0.
-  citata_rodoma: "O tasai kunigaikštis Kūnas turėjo du sūnus: vieną \nKernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių \nžemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries \nupę į Užnerio kraštą 9. Žengdamas nuo Šventosios aukš­\ntyn, atrado labai gražią vietą; jam labai patiko toji \nvieta, jis ten įkurdino savo sūnų Kernių ir tam miestui \ndavė Kerniaus vardą, pavadinęs Kernave l0."
+  citata_rodoma: |
+    O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
+    Kernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių
+    žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
+    upę į Užnerio kraštą 9. Žengdamas nuo Šventosios aukš­
+    tyn, atrado labai gražią vietą; jam labai patiko toji
+    vieta, jis ten įkurdino savo sūnų Kernių ir tam miestui
+    davė Kerniaus vardą, pavadinęs Kernave l0.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

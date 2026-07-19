@@ -87,7 +87,14 @@ Nenurodyta
     V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
     demonstracijas įsakus.
-  citata_rodoma: "Per keletą mėnesių LPS pa-\nsiekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-\ntoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, \nypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus \narkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė \nlietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, \nV."
+  citata_rodoma: |
+    Per keletą mėnesių LPS pa-
+    siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
+    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
+    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
+    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
+    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
+    V.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

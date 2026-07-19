@@ -156,7 +156,14 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino
     valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
     objektas.
-  citata_rodoma: "abu Ordinai buvo susijungę į vieną, veikė vienos va­\ndovybės valdžioje. Keturioliktas amžius, ypač jo antroji pusė\n—Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­\nbiausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­\njo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino\nvalstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo\nobjektas."
+  citata_rodoma: |
+    abu Ordinai buvo susijungę į vieną, veikė vienos va­
+    dovybės valdžioje. Keturioliktas amžius, ypač jo antroji pusė
+    —Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­
+    biausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­
+    jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino
+    valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
+    objektas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

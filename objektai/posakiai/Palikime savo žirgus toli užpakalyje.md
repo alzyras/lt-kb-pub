@@ -93,7 +93,14 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
     gybė kitų, tvirtindami, kad be žirgų jie nej-
     stengsią mūšyje atsilaikyti dėl savo sunkios
     ginkluotės.
-  citata_rodoma: "sakęs: „Palikime savo žirgus toli užpakalyje,\n\nkad neturėtume vilties prie jų sugrįžti,\nir patraukime link priešų pėsčiomis, nes\ntada žmonės nesitikėdami išsigelbėsią žir-\ngais, nevengs mūšio, antraip jie, be abejo-\nnės, leisis bėgti.“"
+  citata_rodoma: |
+    sakęs: „Palikime savo žirgus toli užpakalyje,
+
+    kad neturėtume vilties prie jų sugrįžti,
+    ir patraukime link priešų pėsčiomis, nes
+    tada žmonės nesitikėdami išsigelbėsią žir-
+    gais, nevengs mūšio, antraip jie, be abejo-
+    nės, leisis bėgti.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -68,7 +68,11 @@ Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šalt
     ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
     kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
     čius » (1923) 81a.
-  citata_rodoma: "A. Aleknos «Katalikų\nBažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai\nir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos\nkurijos archyvine medžiaga, jis išleido « Žemaičiu vysk."
+  citata_rodoma: |
+    A. Aleknos «Katalikų
+    Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai
+    ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
+    kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

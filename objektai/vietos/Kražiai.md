@@ -218,7 +218,18 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     iliustraciją p. 257, piešinį 49). Antrasis numizmatinis radinys tos
     pačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu
     raiteliu, be paukščio.
-  citata_rodoma: "Moneta, rasta Ballvyžių girioje.\nTeodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n255\n\n## Puslapis 255\n\nKaro dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­\nmėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­\nviai turėjo stabus. Sis stabas yra natūralaus dydžio, iš bronzos,\ntai yra senovinio Korinto vario, gražiai išlietas, pilnaviduris, be\nabiejų rankų (žiūrėk Xlentelę)."
+  citata_rodoma: |
+    Moneta, rasta Ballvyžių girioje.
+    Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
+    255
+
+    ## Puslapis 255
+
+    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­
+    mėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­
+    viai turėjo stabus. Sis stabas yra natūralaus dydžio, iš bronzos,
+    tai yra senovinio Korinto vario, gražiai išlietas, pilnaviduris, be
+    abiejų rankų (žiūrėk Xlentelę).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -244,7 +255,17 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
     1 Principum viromm tumulis injiciunt omnes humum urtatim, et
     avide cupientes tumulos, quam maximos efficere (Herodotas).
-  citata_rodoma: "Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų."
+  citata_rodoma: |
+    Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

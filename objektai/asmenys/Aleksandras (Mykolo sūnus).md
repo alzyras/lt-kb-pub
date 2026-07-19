@@ -105,7 +105,10 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
     (^9) **Ten pat, 315-365 p.**
     (^10) **LUB, VI, 481 p.**
     (^11) **Plg. Paszkiewicz : PaJM, 346-347 p.**
-  citata_rodoma: "Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su\nsūnumi totorių ordoje buvo nužudyti. Atsargiai prieš Lietuvą\n(^8) **Plg."
+  citata_rodoma: |
+    Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su
+    sūnumi totorių ordoje buvo nužudyti. Atsargiai prieš Lietuvą
+    (^8) **Plg.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

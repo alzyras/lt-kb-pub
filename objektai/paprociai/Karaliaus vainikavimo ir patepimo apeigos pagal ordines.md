@@ -195,7 +195,12 @@ Nenurodyta
     jis pats. Cigalos delegacija turėjo sugriauti tezes, kurias savo trak­
     tate buvo iškėlę Krokuvos profesoriai, įrodinėdami, jog Zigmantas
     neturįs teisės niekam suteikti vainiko.
-  citata_rodoma: "Nurodydamas eilę pavyzdžių,\nkur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­\npimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui\nvainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.\njis pats."
+  citata_rodoma: |
+    Nurodydamas eilę pavyzdžių,
+    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
+    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
+    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.
+    jis pats.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -238,7 +243,14 @@ Nenurodyta
     Pačios karūnavimo apeigos skaitėsi sakramentu. Tad ir karališkoji
     diadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik
     tikėjimą skleisti, bet dar ir pačią Bažnyčią ginti.
-  citata_rodoma: "«ordines », vaini­\nkuojamas karaliumi ir patepamas šventais aliejais^10 , tai tokio\nnaujo, kaip tada nuolat sakyta, «iš Dievo malonės », krikščioniško\nvaldovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.\nPačios karūnavimo apeigos skaitėsi sakramentu. Tad ir karališkoji\ndiadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik\ntikėjimą skleisti, bet dar ir pačią Bažnyčią ginti."
+  citata_rodoma: |
+    «ordines », vaini­
+    kuojamas karaliumi ir patepamas šventais aliejais^10 , tai tokio
+    naujo, kaip tada nuolat sakyta, «iš Dievo malonės », krikščioniško
+    valdovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.
+    Pačios karūnavimo apeigos skaitėsi sakramentu. Tad ir karališkoji
+    diadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik
+    tikėjimą skleisti, bet dar ir pačią Bažnyčią ginti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -83,7 +83,8 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
     Žemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento
     valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
     įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
-  citata_rodoma: "valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas"
+  citata_rodoma: |
+    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

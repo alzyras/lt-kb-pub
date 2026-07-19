@@ -65,7 +65,16 @@ Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip švie
     „Lietuviams saulė, vadinama Sotuar, priklauso pirmosios
     eilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio
     dvasia.
-  citata_rodoma: "Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15.\nKronikininkai mini Svaistiką (Szwajstix) arba Svaitestiksą\n(Swajtestix) kaip šviesos dievą: lietuviškai tas žodis reiškia švie­\nsos teikėją arba žadinančiąją šviesą, o tai atitinka senovės Fe­\nbą.\n„Lietuviams saulė, vadinama Sotuar, priklauso pirmosios\neilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio\ndvasia."
+  citata_rodoma: |
+    Apie tai plačiai kalba
+    ponas Riteris savo Siaurės senovės tyrimuose15.
+    Kronikininkai mini Svaistiką (Szwajstix) arba Svaitestiksą
+    (Swajtestix) kaip šviesos dievą: lietuviškai tas žodis reiškia švie­
+    sos teikėją arba žadinančiąją šviesą, o tai atitinka senovės Fe­
+    bą.
+    „Lietuviams saulė, vadinama Sotuar, priklauso pirmosios
+    eilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio
+    dvasia.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

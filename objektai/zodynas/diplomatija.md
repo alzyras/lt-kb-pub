@@ -72,7 +72,13 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
     resavo.
     Prūsuose Vytautas turėjo progos ir su įvairių kraštų žmo­
     nėmis susitikti ir išsišnekėti.
-  citata_rodoma: "Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­\nbūs Malburgo finansai, ar kelti genialūs karo dalykų sumany­\nmai, diplomatija — viskas, visos tos gudrybės Vytautą inte­\nresavo.\nPrūsuose Vytautas turėjo progos ir su įvairių kraštų žmo­\nnėmis susitikti ir išsišnekėti."
+  citata_rodoma: |
+    Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­
+    būs Malburgo finansai, ar kelti genialūs karo dalykų sumany­
+    mai, diplomatija — viskas, visos tos gudrybės Vytautą inte­
+    resavo.
+    Prūsuose Vytautas turėjo progos ir su įvairių kraštų žmo­
+    nėmis susitikti ir išsišnekėti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

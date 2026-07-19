@@ -95,7 +95,14 @@ Nenurodyta
     riūnas, nekliudomas ir greitai eidamas hunų, rugių, ge-
     pidų, turingių, frankų, herulų ir skiriu priekyje, persikė­
     lė per Reiną ir niokojo viską pakeliui net ikį Orleano.
-  citata_rodoma: "Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo\ntol laiko abu imperatorius savo belaisviais, o tuo tarpu\nlaukė patogios progos užpulti Romą ar Konstantinopolį.\nTam padėjo Valentiniano III sesuo Honorija, kuri, brolio\nįkalinta vienuolyne, slapta nusiuntė hunų karaliui savo\nsužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva\njam nebuvo leista vesti imperatoriaus sesers."
+  citata_rodoma: |
+    Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo
+    tol laiko abu imperatorius savo belaisviais, o tuo tarpu
+    laukė patogios progos užpulti Romą ar Konstantinopolį.
+    Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio
+    įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo
+    sužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva
+    jam nebuvo leista vesti imperatoriaus sesers.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

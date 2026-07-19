@@ -144,7 +144,19 @@ media_all_json: |-
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: "LIETUVOS\nMETRAŠTIS\nBychovco kronika\nV I L N I U S  -197 1\n\n## Puslapis 2\n\nREDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,\nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
+  citata_rodoma: |
+    LIETUVOS
+    METRAŠTIS
+    Bychovco kronika
+    V I L N I U S  -197 1
+
+    ## Puslapis 2
+
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+    *
+    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -171,7 +183,17 @@ media_all_json: |-
     originalo kalba, bet tie leidiniai, kaip ir jos vertimas
     į dabartinę rusų kalbą (žr. p. 10—15). dėl retumo ir
     mažo tiražo daugumui skaitytojų yra neprieinami.
-  citata_rodoma: "Pavadinimas ,,Lietuvos metraštis, arba Bychovco\nkronika\", kuris duotas šiam vertimui į lietuvių kalbą,\nnėra autentiškas. Rankraštis neturėjo jokio pavadini­\nmo. „Bychovco kronika\" jis buvo pramintas XIX a.\npagal rankraščio savininką, Gardino gubernijos Volko-\nvysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­\nvos metraščio\" antraštė duota dėl nusistojusios jau lie­\ntuvių tarybinėje istoriografijoje tradicijos vadinti\nmetraščiais visą XV— XVI a. pirmosios pusės Lietuvos\nDidžiojoje Kunigaikštystėje kilusią istorinę raštiją."
+  citata_rodoma: |
+    Pavadinimas ,,Lietuvos metraštis, arba Bychovco
+    kronika", kuris duotas šiam vertimui į lietuvių kalbą,
+    nėra autentiškas. Rankraštis neturėjo jokio pavadini­
+    mo. „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
+    vos metraščio" antraštė duota dėl nusistojusios jau lie­
+    tuvių tarybinėje istoriografijoje tradicijos vadinti
+    metraščiais visą XV— XVI a. pirmosios pusės Lietuvos
+    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

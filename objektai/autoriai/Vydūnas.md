@@ -104,7 +104,10 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     strantai išdaužo jiems langus, o juos pačius sumuša. Ypač daug
     tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui,
     kuris vadovauja vietos lietuviams.
-  citata_rodoma: "Ypač daug\ntenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui,\nkuris vadovauja vietos lietuviams."
+  citata_rodoma: |
+    Ypač daug
+    tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui,
+    kuris vadovauja vietos lietuviams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

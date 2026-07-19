@@ -78,7 +78,10 @@ Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų
     tą, arba Naroną, įtekančią į Adrijos jūrą ties Šventuoju Opusu
     (Opus). Mazovijoje Narevas (Narew) įteka į Būgą. Rusijoje Nar-
     rna, gana žymi upė, teka Riazanės gubernijoje.
-  citata_rodoma: "4. Trakų apskrityje šventumas buvo pripažįstamas ne vie­\nnam ežerui. Ypač Daugų ežeras, vienas iš giliausių Lietuvoje\nir bene visoje Europoje, garsėja daugeliu tos rūšies padavimų."
+  citata_rodoma: |
+    4. Trakų apskrityje šventumas buvo pripažįstamas ne vie­
+    nam ežerui. Ypač Daugų ežeras, vienas iš giliausių Lietuvoje
+    ir bene visoje Europoje, garsėja daugeliu tos rūšies padavimų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

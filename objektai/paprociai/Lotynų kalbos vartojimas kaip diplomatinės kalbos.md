@@ -100,7 +100,9 @@ Nenurodyta
     kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
     Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
     kalu.
-  citata_rodoma: "Lotynų kalbą slavai venedai ir lietuviai var-\ntojo kaip diplomatinę kalbą."
+  citata_rodoma: |
+    Lotynų kalbą slavai venedai ir lietuviai var-
+    tojo kaip diplomatinę kalbą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

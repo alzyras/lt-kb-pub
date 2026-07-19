@@ -81,7 +81,11 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
     lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
     gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
-  citata_rodoma: "Didžiū-\nnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-\nlėjo vadinamoji „aukso laisvė\": kas tik buvo galin-\ngas, galėjo nieko neklausyti ir elgtis kaip tinkamas."
+  citata_rodoma: |
+    Didžiū-
+    nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
+    lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
+    gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

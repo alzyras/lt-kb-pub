@@ -128,7 +128,19 @@ Nenurodyta
     nei iš tikrųjų (paprastai šitokį atgarsį sukelia pirmi
     gandai), nes žmogus be galo linkęs viską perdėti arba
     visko prisigalvoti, kaip jam šauna į galvą.
-  citata_rodoma: "Iš ten karalius nuvyko į Lietuvą\nir likusius žiemos mėnesius praleido Kaune, nes Vil­\nniuje ir Gardine siautė maras.\nŽiemos pabaigoje atvyko Lietuvon pas karalių Liud­\nvikas, Antiochijos\npatriar­\nchas, popiežiaus pasiuntinys.\nRytų imperijos gyventojai,\npavergti turkų, maldavo Va­\nkarų šalis, o ypač popiežių\nbei imperatorių padėti be-\nžlungančiai krikščionybei."
+  citata_rodoma: |
+    Iš ten karalius nuvyko į Lietuvą
+    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
+    niuje ir Gardine siautė maras.
+    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
+    vikas, Antiochijos
+    patriar­
+    chas, popiežiaus pasiuntinys.
+    Rytų imperijos gyventojai,
+    pavergti turkų, maldavo Va­
+    karų šalis, o ypač popiežių
+    bei imperatorių padėti be-
+    žlungančiai krikščionybei.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

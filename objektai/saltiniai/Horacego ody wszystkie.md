@@ -92,7 +92,10 @@ Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego o
     Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­
     vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­
     kiškumas.
-  citata_rodoma: "5 Narbutt T. Wyborowe Ody i kantaty Jana Batisty Rousseau. -\nWilno, 1832; Narbutt T. Horacego ody wszystkie. -  Wilno, 1835. -\nT. I-II."
+  citata_rodoma: |
+    5 Narbutt T. Wyborowe Ody i kantaty Jana Batisty Rousseau. -
+    Wilno, 1832; Narbutt T. Horacego ody wszystkie. -  Wilno, 1835. -
+    T. I-II.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

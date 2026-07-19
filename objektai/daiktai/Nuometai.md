@@ -78,14 +78,22 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Vieni dar žemaičiai sekė senovės būdą, ir
-        taip Lasickis rašo tyčiodamos, jog Žemaičių jomylistos metuose 1564 sėtinius kepę savo namuose ir
-        už visų didžiausią skaninį turėję. Lygia dalia motriškosios nenorėjo dar niekaip senovės nuometų nuo
-        galvos savo mesti, noris kitą apdarą kaitė kaip tinkamos, todėl didžiai vėlai dar baltomis galvomis
-        vadinos nuo savo baltų nuometų, ir kad vyrams nebtiko toks jų apdaras, jos vis jiems tarė: „Tai, mūsų
-        nuometus regėdami, varnai nelekia į jūsų pūrus^1474 , tardami, jog čia dar senovės lietuviai tebgyvena,
-        nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
-        sėsit juos ne sau, bet varnams.“
-  citata_rodoma: "Vieni dar žemaičiai sekė senovės būdą, ir\ntaip Lasickis rašo tyčiodamos, jog Žemaičių jomylistos metuose 1564 sėtinius kepę savo namuose ir\nuž visų didžiausią skaninį turėję. Lygia dalia motriškosios nenorėjo dar niekaip senovės nuometų nuo\ngalvos savo mesti, noris kitą apdarą kaitė kaip tinkamos, todėl didžiai vėlai dar baltomis galvomis\nvadinos nuo savo baltų nuometų, ir kad vyrams nebtiko toks jų apdaras, jos vis jiems tarė: „Tai, mūsų\nnuometus regėdami, varnai nelekia į jūsų pūrus^1474 , tardami, jog čia dar senovės lietuviai tebgyvena,\nnes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir\nsėsit juos ne sau, bet varnams.“"
+    taip Lasickis rašo tyčiodamos, jog Žemaičių jomylistos metuose 1564 sėtinius kepę savo namuose ir
+    už visų didžiausią skaninį turėję. Lygia dalia motriškosios nenorėjo dar niekaip senovės nuometų nuo
+    galvos savo mesti, noris kitą apdarą kaitė kaip tinkamos, todėl didžiai vėlai dar baltomis galvomis
+    vadinos nuo savo baltų nuometų, ir kad vyrams nebtiko toks jų apdaras, jos vis jiems tarė: „Tai, mūsų
+    nuometus regėdami, varnai nelekia į jūsų pūrus^1474 , tardami, jog čia dar senovės lietuviai tebgyvena,
+    nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
+    sėsit juos ne sau, bet varnams.“
+  citata_rodoma: |
+    Vieni dar žemaičiai sekė senovės būdą, ir
+    taip Lasickis rašo tyčiodamos, jog Žemaičių jomylistos metuose 1564 sėtinius kepę savo namuose ir
+    už visų didžiausią skaninį turėję. Lygia dalia motriškosios nenorėjo dar niekaip senovės nuometų nuo
+    galvos savo mesti, noris kitą apdarą kaitė kaip tinkamos, todėl didžiai vėlai dar baltomis galvomis
+    vadinos nuo savo baltų nuometų, ir kad vyrams nebtiko toks jų apdaras, jos vis jiems tarė: „Tai, mūsų
+    nuometus regėdami, varnai nelekia į jūsų pūrus^1474 , tardami, jog čia dar senovės lietuviai tebgyvena,
+    nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
+    sėsit juos ne sau, bet varnams.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

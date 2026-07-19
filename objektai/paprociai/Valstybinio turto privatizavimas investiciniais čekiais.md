@@ -107,7 +107,8 @@ Nenurodyta
     šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
     tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
     pasaulio ekonomikos standartus.
-  citata_rodoma: "tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų"
+  citata_rodoma: |
+    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +127,8 @@ Nenurodyta
     sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
     būsto.
-  citata_rodoma: "sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis"
+  citata_rodoma: |
+    sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

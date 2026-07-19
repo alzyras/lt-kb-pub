@@ -276,7 +276,11 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -315,7 +319,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
     ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
     ėjus fermentaciją, alus jau ir gatavas.
-  citata_rodoma: "Šie, patikėję žynės žodžiu, tuojau sutelkė\nvyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,\nbaisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.\nTačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­\nsus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­\nniokojo, kad Galinda daugeliui metų paliko beveik negyve­\nnama."
+  citata_rodoma: |
+    Šie, patikėję žynės žodžiu, tuojau sutelkė
+    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
+    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
+    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
+    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
+    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
+    nama.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -366,7 +377,21 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     kildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė
     triukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos
     ir agresyvios.
-  citata_rodoma: "Rytuose ji\nribojosi su Sūduva, pietuose — su Mazovija, vakaruo­\nse — su Hokerlandija ir Varmija, o šiaurėje — su Barta.\nGalinda buvo viena seniausių provincijų, kitados nepa­\n254\n\n## Puslapis 265\n\nlyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji\nnusipelnė detalių senovės geografų tyrinėjimų. Galindų\ngentys nuo seno buvo gausios ir karingos, plačiai žino­\nmos, kai kurių žinių apie jas pateikėme šio veikalo pir­\nmame tome, skyriuje „Pranašystės“; čia ¡papasakosime\napie kitus žinomus dalykus."
+  citata_rodoma: |
+    Rytuose ji
+    ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
+    se — su Hokerlandija ir Varmija, o šiaurėje — su Barta.
+    Galinda buvo viena seniausių provincijų, kitados nepa­
+    254
+
+    ## Puslapis 265
+
+    lyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji
+    nusipelnė detalių senovės geografų tyrinėjimų. Galindų
+    gentys nuo seno buvo gausios ir karingos, plačiai žino­
+    mos, kai kurių žinių apie jas pateikėme šio veikalo pir­
+    mame tome, skyriuje „Pranašystės“; čia ¡papasakosime
+    apie kitus žinomus dalykus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -75,7 +75,11 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
     Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
     darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
     festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
-  citata_rodoma: "Tada\nVinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė\ndarbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­\nfestu paskelbė įvedanti Tarybų valdžią Lietuvoje."
+  citata_rodoma: |
+    Tada
+    Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
+    darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
+    festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,9 @@ Dusburgietis teigia, kad powierski J.
     2, p. 51—64.
     Vanagas A. Galindai.— MG, 1965, Nr. 5, p. 28—29.
     Vanagas A. Galindai Ispanijoje ir Amerikoje.— MG, 1965, Nr. 11, p. 38—39.
-  citata_rodoma: "Powierski  J. Uwagi o starożytnych dziejach ziem pruskich.— ZHPB, Warszawa—\nPoznań—Toruń, 1976, t. 41, z. 4, s. 110— 138."
+  citata_rodoma: |
+    Powierski  J. Uwagi o starożytnych dziejach ziem pruskich.— ZHPB, Warszawa—
+    Poznań—Toruń, 1976, t. 41, z. 4, s. 110— 138.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

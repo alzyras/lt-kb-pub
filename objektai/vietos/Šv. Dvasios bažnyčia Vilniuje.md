@@ -132,7 +132,14 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
-  citata_rodoma: "Daugelis jų garsėjo su­\nmanumu ir turtais, bet labiausiai buvo žinomas Onka Hrice- \nvičius, turtingas įvairių nuomos mokesčių rinkikas daugelyje \nLietuvos miestų nuo Vilniaus iki Smolensko49. Aleksandras \niš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­\nvo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­\nsios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50."
+  citata_rodoma: |
+    Daugelis jų garsėjo su­
+    manumu ir turtais, bet labiausiai buvo žinomas Onka Hrice-
+    vičius, turtingas įvairių nuomos mokesčių rinkikas daugelyje
+    Lietuvos miestų nuo Vilniaus iki Smolensko49. Aleksandras
+    iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
+    vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
+    sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -155,7 +162,17 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     dravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo
     Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­
     lektis.
-  citata_rodoma: "Dvasios vienuolyno tėvais reikalai taip susi­\nklostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­\ntus pagalbinius jos pastatus būtų galima patogiai pastatyti. \nŠitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba \nvartų į prieglaudos namus, esančių iš gatvės priešais šv. Dva­\nsios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­\nba, į ilgį besitęsiančia įstrižai prieglaudos sklypo iki Petro Puz- \ndravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo \nVilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­\nlektis."
+  citata_rodoma: |
+    Dvasios vienuolyno tėvais reikalai taip susi­
+    klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­
+    tus pagalbinius jos pastatus būtų galima patogiai pastatyti.
+    Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
+    vartų į prieglaudos namus, esančių iš gatvės priešais šv. Dva­
+    sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­
+    ba, į ilgį besitęsiančia įstrižai prieglaudos sklypo iki Petro Puz-
+    dravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo
+    Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­
+    lektis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -179,7 +196,16 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     jų didenybės nupirktų iš tų, kieno bus, ir taip, kad jie pir­
     miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
     glauda būtų plečiama.
-  citata_rodoma: "Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­\nglaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­\nsios [bažnyčios] namelius, stovinčius žemiau Šventosios \nTrejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­\nris tik tuo metu turės, taip pat ir du kitus namelius viršuje \nuž prieglaudos, ten pat, priešais Šv. Dvasios bažnyčią, kad \njų didenybės nupirktų iš tų, kieno bus, ir taip, kad jie pir­\nmiausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­\nglauda būtų plečiama."
+  citata_rodoma: |
+    Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
+    glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­
+    sios [bažnyčios] namelius, stovinčius žemiau Šventosios
+    Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­
+    ris tik tuo metu turės, taip pat ir du kitus namelius viršuje
+    už prieglaudos, ten pat, priešais Šv. Dvasios bažnyčią, kad
+    jų didenybės nupirktų iš tų, kieno bus, ir taip, kad jie pir­
+    miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
+    glauda būtų plečiama.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -201,7 +227,16 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     išlaidos, prie dominikonų Šv. Dvasios bažnyčios pastatyti vie­
     šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
     vaujant Vilniaus vyskupui18.
-  citata_rodoma: "Suteikdamas Hozijui teisę pasta­\ntyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria \niki tol buvo naudojamasi, karalius leido imti tam tikrą mo­\nkestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­\ngumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho- \nzijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos \nišlaidos, prie dominikonų Šv. Dvasios bažnyčios pastatyti vie­\nšą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­\nvaujant Vilniaus vyskupui18."
+  citata_rodoma: |
+    Suteikdamas Hozijui teisę pasta­
+    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
+    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
+    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
+    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
+    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
+    išlaidos, prie dominikonų Šv. Dvasios bažnyčios pastatyti vie­
+    šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
+    vaujant Vilniaus vyskupui18.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -228,7 +263,20 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     nėje pusėje, o ant priešais stovinčios -
     tokio pat didumo kunigo Korčiako
     paveikslą.
-  citata_rodoma: "Pa-\n49\nDaug sutarčių su tuo Onka yra Lie­\ntuvos Metrikoje, V knygoje, prie \n1505 metų.\n50\nIki šiol Šv. Dvasios dominikonų baž­\nnyčioje galima pamatyti karaliaus \nAleksandro portretą visu ūgiu ant \npirmosios kolonos nuo įėjimo deši­\nnėje pusėje, o ant priešais stovinčios - \ntokio pat didumo kunigo Korčiako \npaveikslą."
+  citata_rodoma: |
+    Pa-
+    49
+    Daug sutarčių su tuo Onka yra Lie­
+    tuvos Metrikoje, V knygoje, prie
+    1505 metų.
+    50
+    Iki šiol Šv. Dvasios dominikonų baž­
+    nyčioje galima pamatyti karaliaus
+    Aleksandro portretą visu ūgiu ant
+    pirmosios kolonos nuo įėjimo deši­
+    nėje pusėje, o ant priešais stovinčios -
+    tokio pat didumo kunigo Korčiako
+    paveikslą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

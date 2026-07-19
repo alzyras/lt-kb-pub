@@ -67,7 +67,11 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
     li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
     Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
     mas"2.
-  citata_rodoma: "M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­\nli Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti \nMickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­\nmas\"2."
+  citata_rodoma: |
+    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
+    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
+    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
+    mas"2.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

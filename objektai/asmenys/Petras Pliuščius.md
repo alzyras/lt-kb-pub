@@ -89,7 +89,17 @@ media_all_json: |-
     Burmistrai: nuo katalikų - Petras Pliuščius - 1620
     nuo stačiatikių - Leonas Mamoničius
     11.
-  citata_rodoma: "300\n\n## Puslapis 317\n\nIV  KNYGA\nPaliko vaito pareigas to paties karaliaus \nsutikimu kovo 11 d. - 1620\nBurmistrai: nuo katalikų - Petras Pliuščius - 1620\nnuo stačiatikių - Leonas Mamoničius\n11."
+  citata_rodoma: |
+    300
+
+    ## Puslapis 317
+
+    IV  KNYGA
+    Paliko vaito pareigas to paties karaliaus
+    sutikimu kovo 11 d. - 1620
+    Burmistrai: nuo katalikų - Petras Pliuščius - 1620
+    nuo stačiatikių - Leonas Mamoničius
+    11.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

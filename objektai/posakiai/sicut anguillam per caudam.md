@@ -68,7 +68,11 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
     « taip », o rytoj jau « ne »^51. Pats ordinas Konstancoje pripažino
     Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam
     per caudam »)^52.
-  citata_rodoma: "Anot paties vietininko, jie šiandien sakė\n« taip », o rytoj jau « ne »^51. Pats ordinas Konstancoje pripažino\nŽemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam\nper caudam »)^52."
+  citata_rodoma: |
+    Anot paties vietininko, jie šiandien sakė
+    « taip », o rytoj jau « ne »^51. Pats ordinas Konstancoje pripažino
+    Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam
+    per caudam »)^52.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -119,7 +119,8 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
     auksu paremtas litas, kurį sudaro 100 centų.
-  citata_rodoma: "niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra"
+  citata_rodoma: |
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +139,8 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
     popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
     sienio valstybėse.
-  citata_rodoma: "tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais"
+  citata_rodoma: |
+    tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

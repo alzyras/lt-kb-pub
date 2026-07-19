@@ -86,7 +86,11 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
     kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
     viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
     knygučių. Kiti jo darbą tęsė toliau.
-  citata_rodoma: "Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir\nkai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-\nviečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių\nknygučių. Kiti jo darbą tęsė toliau."
+  citata_rodoma: |
+    Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir
+    kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
+    viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
+    knygučių. Kiti jo darbą tęsė toliau.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -105,7 +109,8 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.
-  citata_rodoma: "Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą."
+  citata_rodoma: |
+    Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

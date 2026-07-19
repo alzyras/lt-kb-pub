@@ -114,7 +114,8 @@ Nenurodyta
     dirba sau klumpius,
     vis neskubindami;
     kitą syk ir visai bindzinėja.
-  citata_rodoma: "Kūlimo metu darbininkai dienomis vengia sunkaus darbo: taiso gyvuliams žiemai kūtes, dirba ėdžias, kerta lovius, veža į daržus mėšlą, taiso ar dengia stogus, piauna avis ir prielaidus, dirba sau klumpius, vis neskubindami; syk ir visai bindzinėja."
+  citata_rodoma: |
+    Kūlimo metu darbininkai dienomis vengia sunkaus darbo: taiso gyvuliams žiemai kūtes, dirba ėdžias, kerta lovius, veža į daržus mėšlą, taiso ar dengia stogus, piauna avis ir prielaidus, dirba sau klumpius, vis neskubindami; syk ir visai bindzinėja.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -135,7 +136,8 @@ Nenurodyta
     nasi vis dėl aušimo. Jeigu jau aušta, poilsis pražuvęs.
     Pamatę auštant
     visi nuliūsta, bet didieji nuliūdimą paslepia.
-  citata_rodoma: "Iškūlus mergaitės eina į grįčią, o vyrai čia pat jaujoje pasikloja šiaudų ant aslos ir gulasi miegoti iki aušros. Džiaudami jaują, bauginasi vis dėl aušimo. Jeigu jau aušta, poilsis pražuvęs. Pamatę auštant visi nuliūsta, bet didieji nuliūdimą paslepia."
+  citata_rodoma: |
+    Iškūlus mergaitės eina į grįčią, o vyrai čia pat jaujoje pasikloja šiaudų ant aslos ir gulasi miegoti iki aušros. Džiaudami jaują, bauginasi vis dėl aušimo. Jeigu jau aušta, poilsis pražuvęs. Pamatę auštant visi nuliūsta, bet didieji nuliūdimą paslepia.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -160,7 +162,8 @@ Nenurodyta
     roja, mėsas sutaiso, peniukšlius peni, rūpina padėti šeimynai ką ant
     stalo ir t. t.
     Kūlimas savo dikta ranka prispausdavo žmogų iš pat jo mažystės.
-  citata_rodoma: "Moterims niekada darbo netrūksta, dar vis perdaug: jos daržoves doroja, mėsas sutaiso, peniukšlius peni, rūpina padėti šeimynai ką ant stalo ir t. t."
+  citata_rodoma: |
+    Moterims niekada darbo netrūksta, dar vis perdaug: jos daržoves doroja, mėsas sutaiso, peniukšlius peni, rūpina padėti šeimynai ką ant stalo ir t. t.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -187,7 +190,8 @@ Nenurodyta
     šeimininko darbas —- kūrenti jaują ir išvėtyti krūvą (iškulti
     ir su­
     stumti į daiktą javai vadinasi „krūva“).
-  citata_rodoma: "Jaujoje pirmiausia pakyla šeimininkas, pakilęs žadina kitus, ir visi eina gyvulių šerti. Pašėrus gyvulius, dar reikia daržinėje sudoroti šiaudai — sukimšti į galą, tai užima gerą pusvalandį; po to jau eina visi pusryčiauti. Po pusryčių tuojau seka tiesus ir neišvengiamas šeimininko darbas — kūrenti jaują ir išvėtyti krūvą (iškulti ir sustumti į daiktą javai vadinasi „krūva“)."
+  citata_rodoma: |
+    Jaujoje pirmiausia pakyla šeimininkas, pakilęs žadina kitus, ir visi eina gyvulių šerti. Pašėrus gyvulius, dar reikia daržinėje sudoroti šiaudai — sukimšti į galą, tai užima gerą pusvalandį; po to jau eina visi pusryčiauti. Po pusryčių tuojau seka tiesus ir neišvengiamas šeimininko darbas — kūrenti jaują ir išvėtyti krūvą (iškulti ir sustumti į daiktą javai vadinasi „krūva“).
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

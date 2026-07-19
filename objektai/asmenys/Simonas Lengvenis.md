@@ -199,7 +199,15 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     Lengvenis, Lietuvos kunigaikštis,
     Algirdo sūnus: žr. D a n i L, Kronika
     Ruška pr 206.
-  citata_rodoma: "; o po jo ten val­\ndžią perėmęs jo sūnus Patrikas, ar­\nba Patricijus; po pastarojo tapo val­\ndovu, arba Žečpospolitos vaivada,\nir Rusios bei Ladogos kunigaikštis\nSimonas Lungvinas, arba tiksliau\nLengvenis, Lietuvos kunigaikštis,\nAlgirdo sūnus: žr."
+  citata_rodoma: |
+    ; o po jo ten val­
+    džią perėmęs jo sūnus Patrikas, ar­
+    ba Patricijus; po pastarojo tapo val­
+    dovu, arba Žečpospolitos vaivada,
+    ir Rusios bei Ladogos kunigaikštis
+    Simonas Lungvinas, arba tiksliau
+    Lengvenis, Lietuvos kunigaikštis,
+    Algirdo sūnus: žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -250,7 +258,22 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
     gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
     Severską — Dimitras Kaributas.
-  citata_rodoma: "Po šios per­\nto karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir\nnusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo\ntos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas\nŠvitrigaila su nemaža įgula pasiliko Polocke, kitą ka­\nriuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­\ngaila į Trakus, Simonas Lengvenis į Mstislavlį, o į\nSeverską — Dimitras Kaributas. Jogaila, atsikratęs šio\nkaro rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­\nsiuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi\nSu m u ša\nS via to sla vą ,\nS m o le n sk o  k u n ig a ik ­\nštį\nti į puolantį priešą."
+  citata_rodoma: |
+    Po šios per­
+    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
+    nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
+    tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
+    Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
+    riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
+    gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
+    Severską — Dimitras Kaributas. Jogaila, atsikratęs šio
+    karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­
+    siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi
+    Su m u ša
+    S via to sla vą ,
+    S m o le n sk o  k u n ig a ik ­
+    štį
+    ti į puolantį priešą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

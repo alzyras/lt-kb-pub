@@ -105,7 +105,12 @@ Nenurodyta
     davo. Gal koks romėnų jūrų keliautojas iš laivo išvydo
     pakrante vaikštinėjančius žmones aptemptomis šiaurinio
     1 Pomponius Mela.
-  citata_rodoma: "Gal jis kalba apie Gdans­\nko Zulavas. Jis rašo: „Ten gyvena oonai (kiaušinėdžiai),\nkurie minta vandens paukščių kiaušiniais ir avižomis“.\nTai tiesa, nes ir dabar Suomijos ir Lapijos jūros pakran­\nčių gyventojai taip apsirūpina maistu."
+  citata_rodoma: |
+    Gal jis kalba apie Gdans­
+    ko Zulavas. Jis rašo: „Ten gyvena oonai (kiaušinėdžiai),
+    kurie minta vandens paukščių kiaušiniais ir avižomis“.
+    Tai tiesa, nes ir dabar Suomijos ir Lapijos jūros pakran­
+    čių gyventojai taip apsirūpina maistu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

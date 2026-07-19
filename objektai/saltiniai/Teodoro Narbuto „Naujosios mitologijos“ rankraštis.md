@@ -114,7 +114,18 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
     kronikoje su prierašu: Schomaiten Götze (Žemaičių stabas)
     (žiūrėk II lentelės 5-ąjį piešinį). Kadangi jam ant krūtinės kaž­
     kas panašaus į saulę, tai galėjo būti Svaistikas.
-  citata_rodoma: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­\ncevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­\nras Milevskis, ardamas žemę, iškasė tą figūrą*.\n256\n\n## Puslapis 256\n\nSkandinaviški brakteatai ir pakabučiai.\nTeodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n(pagal Tadą Volianskį)\ni)."
+  citata_rodoma: |
+    Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
+    cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
+    ras Milevskis, ardamas žemę, iškasė tą figūrą*.
+    256
+
+    ## Puslapis 256
+
+    Skandinaviški brakteatai ir pakabučiai.
+    Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
+    (pagal Tadą Volianskį)
+    i).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

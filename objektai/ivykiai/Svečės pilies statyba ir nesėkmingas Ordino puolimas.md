@@ -97,7 +97,15 @@ Nenurodyta
     plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą.
-  citata_rodoma: "Kadangi\nklastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali\ndaryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo\ndidžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti\nprieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams\nplaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams\nplaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė\ntraukti su kariuomene į šią vietą."
+  citata_rodoma: |
+    Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

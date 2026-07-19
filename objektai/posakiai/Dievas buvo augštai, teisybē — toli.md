@@ -64,7 +64,16 @@ Basanavičius posakį „Dievas buvo augštai, teisybė — toli“ siejo su ūk
     kai išsisklaidē po svietą.
     Panašus atsitikim ai bu­
     vo Gartyno ir Vilniaus gubernijose.
-  citata_rodoma: "Suval­\nkų gubernijoj. \nMes galētum ēm pam inēt ilgą eilę \ndvarų, kurie atsirado per išvaikymus ukininkų ir \npasisavinimą laukų per kokį nors lenkišką valdi­\nninką, vaitą ir tt. Ranka ranką mazgojo, kuomet \nvaldżia ant ukininkų buvo rankose visgalingo po­\nno: Dievas buvo augštai, teisybē — toli, ir ukinin­\nkai išsisklaidē po svietą."
+  citata_rodoma: |
+    Mes galētum ēm pam inēt ilgą eilę
+    dvarų, kurie atsirado per išvaikymus ukininkų ir
+    pasisavinimą laukų per kokį nors lenkišką valdi­
+    ninką, vaitą ir tt. Ranka ranką mazgojo, kuomet
+    valdżia ant ukininkų buvo rankose visgalingo po­
+    no: Dievas buvo augštai, teisybē — toli, ir ukinin­
+    kai išsisklaidē po svietą.
+    Panašus atsitikim ai bu­
+    vo Gartyno ir Vilniaus gubernijose.
   statusas: verified
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas

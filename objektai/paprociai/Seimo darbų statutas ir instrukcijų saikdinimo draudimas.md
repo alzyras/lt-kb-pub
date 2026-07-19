@@ -92,7 +92,11 @@ Nenurodyta
     Be to, netiesiogiai buvo apribotas ir _liberum veto._ Priimant
     seimo tvarkos įstatymą, _veto_ panaikinimui pasipriešino Rusų
     atstovas Repninas.
-  citata_rodoma: "Kadangi anksčiau daug seimų iširdavo\ndėl to, kad atstovai seimeliuose būdavo saikdinami griežtai lai-\nkytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.\nBe to, netiesiogiai buvo apribotas ir _liberum veto._"
+  citata_rodoma: |
+    Kadangi anksčiau daug seimų iširdavo
+    dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai lai-
+    kytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.
+    Be to, netiesiogiai buvo apribotas ir _liberum veto._
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

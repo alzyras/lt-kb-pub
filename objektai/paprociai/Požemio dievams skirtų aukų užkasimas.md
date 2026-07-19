@@ -98,7 +98,11 @@ Nenurodyta
     tybę. Tokiu atveju namų savininkas tikriausiai ne su tuščiomis
     rankomis skubėdavo pas artimiausią žynį, kuris atnašaudavo
     permaldavimo auką.
-  citata_rodoma: "6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­\ntukams, genijams ir visoms mitinėms būtybėms, gyvenančioms\npo žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų\napeiginis užkasimas giliai žemėje."
+  citata_rodoma: |
+    6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­
+    tukams, genijams ir visoms mitinėms būtybėms, gyvenančioms
+    po žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų
+    apeiginis užkasimas giliai žemėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

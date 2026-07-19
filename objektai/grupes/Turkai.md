@@ -132,7 +132,27 @@ media_all_json: |-
     tūkstantį keturis šimtus avinų, po šimtą stumbrų, brie­
     džių ir kitokių žvėrių, o išgeriama po septynis šimtus
     statinių midaus, neskaitant kitų gėrimų.
-  citata_rodoma: "Štai todėl vienaip kalbėjo im­\nperatorius su Jogaila, kitaip\n1429 m eta i\nakis į akį su Vytautu. Valdo­\nvų posėdyje jis visą laiką ra­\ngino sudaryti santarvę, sutelktomis jėgomis numalšinti\nhusitus, pirmiausia, žinoma, Čekijoje, o vėliau visą\nkariuomenę nukreipti prieš turkus ir saracėnus, kerši­\njant už Rytų imperijos griovimą. Iš tiesų didingi su­\nmanymai, ir daugelis jiems\nJ o g a ila  atsisako\nnuoširdžiai\npritarė,\ntačiau\nkur kas lengviau juos pa-\n416\n\n## Puslapis 415\n\nsiūlyti, nei įgyvendinti."
+  citata_rodoma: |
+    Štai todėl vienaip kalbėjo im­
+    peratorius su Jogaila, kitaip
+    1429 m eta i
+    akis į akį su Vytautu. Valdo­
+    vų posėdyje jis visą laiką ra­
+    gino sudaryti santarvę, sutelktomis jėgomis numalšinti
+    husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą
+    kariuomenę nukreipti prieš turkus ir saracėnus, kerši­
+    jant už Rytų imperijos griovimą. Iš tiesų didingi su­
+    manymai, ir daugelis jiems
+    J o g a ila  atsisako
+    nuoširdžiai
+    pritarė,
+    tačiau
+    kur kas lengviau juos pa-
+    416
+
+    ## Puslapis 415
+
+    siūlyti, nei įgyvendinti.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -170,7 +190,22 @@ media_all_json: |-
     pritarė,
     tačiau
     kur kas lengviau juos pa-
-  citata_rodoma: "Jogaila, aptaręs su senatu ir\nVytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­\nniškųjų šalių valdovai susitarsią ne tik narsiai paskelb­\nti turkams karą, bet visomis jėgomis kuo atkakliausiai\njį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito­\nkios ginklų sąjungos. Tuo tarpu, raginamas vien tik\nimperatoriaus, du kartus Vengrijoje turkų sumušto, jis\nnegalįs nepaisyti sudarytų susitarimų, kuriuos lengva\nsulaužyti, bet sunku atnaujinti. Jis aiškiai matąs, kad,\npasinaudodami šiais pasiūlymais nelyginant nuokalne,\nturkai užvers visus karo sunkumus lenkams ant pečių,\ntuo tarpu visi kiti susitarimo, bet ne karo dalyviai žiū­\nrės į nelaimę, užgriuvusią svetimus namus, džiaugda­\nmiesi, jog jų nepasiekia prie­\nšo smūgiai."
+  citata_rodoma: |
+    Jogaila, aptaręs su senatu ir
+    Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­
+    niškųjų šalių valdovai susitarsią ne tik narsiai paskelb­
+    ti turkams karą, bet visomis jėgomis kuo atkakliausiai
+    jį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito­
+    kios ginklų sąjungos. Tuo tarpu, raginamas vien tik
+    imperatoriaus, du kartus Vengrijoje turkų sumušto, jis
+    negalįs nepaisyti sudarytų susitarimų, kuriuos lengva
+    sulaužyti, bet sunku atnaujinti. Jis aiškiai matąs, kad,
+    pasinaudodami šiais pasiūlymais nelyginant nuokalne,
+    turkai užvers visus karo sunkumus lenkams ant pečių,
+    tuo tarpu visi kiti susitarimo, bet ne karo dalyviai žiū­
+    rės į nelaimę, užgriuvusią svetimus namus, džiaugda­
+    miesi, jog jų nepasiekia prie­
+    šo smūgiai.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

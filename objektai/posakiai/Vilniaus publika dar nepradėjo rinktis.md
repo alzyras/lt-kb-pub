@@ -88,7 +88,12 @@ Posakis nusako, kad bajoriškoji publika dar nesusirinko, nors jos atvykimo žen
     „Pas mus čia Vilniaus publika [rinktis] dar nepradėjo, nors jos požymiai jau matosi“,
     minėjo jis laiške pakancleriui 1747 m., teigė, kad į tribunolo pradžią LDK etmonas My-
     kolas Radvila Žuvelė neatvyks, nes neseniai sirgo [6].
-  citata_rodoma: "Galima teigti, kad kanauninkas su nekantrumu laukdavo bajorų suvažiavimo į sos-\ntinę, susitikimų ir derybų, kadangi siekė būti politinių ir visuomenės įvykių epicentre.\n„Pas mus čia Vilniaus publika [rinktis] dar nepradėjo, nors jos požymiai jau matosi“,\nminėjo jis laiške pakancleriui 1747 m., teigė, kad į tribunolo pradžią LDK etmonas My-\nkolas Radvila Žuvelė neatvyks, nes neseniai sirgo [6]."
+  citata_rodoma: |
+    Galima teigti, kad kanauninkas su nekantrumu laukdavo bajorų suvažiavimo į sos-
+    tinę, susitikimų ir derybų, kadangi siekė būti politinių ir visuomenės įvykių epicentre.
+    „Pas mus čia Vilniaus publika [rinktis] dar nepradėjo, nors jos požymiai jau matosi“,
+    minėjo jis laiške pakancleriui 1747 m., teigė, kad į tribunolo pradžią LDK etmonas My-
+    kolas Radvila Žuvelė neatvyks, nes neseniai sirgo [6].
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

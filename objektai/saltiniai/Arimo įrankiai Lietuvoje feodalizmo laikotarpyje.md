@@ -68,7 +68,9 @@ media_all_json: |-
     — Dundulienė, P. : _Arimo įrankiai Lietuvoje feodalizmo laikotarpyje,_
     VUMD, t. 2, 1955, 148-168 p. — (”) _Zemledelie v Litve v epochų feoda­
     lizma,_ Baltijskij Etnografičeskij Sbornik, Trudy Inst.
-  citata_rodoma: "— Dundulienė, P. : _Arimo įrankiai Lietuvoje feodalizmo laikotarpyje,_\nVUMD, t. 2, 1955, 148-168 p."
+  citata_rodoma: |
+    — Dundulienė, P. : _Arimo įrankiai Lietuvoje feodalizmo laikotarpyje,_
+    VUMD, t. 2, 1955, 148-168 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

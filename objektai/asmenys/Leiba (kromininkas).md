@@ -95,7 +95,8 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
     kūlio į lovą įsidėti — ir kur nueidavo, ten ir gaudavo. Žiemą prireik­
     davo malkų parvežti, Leiba telkia talką. Prašytas važiavo neklausda­
     mas, ką užtai gaus — ir Leiba visada už talką atpildydavo.
-  citata_rodoma: "Leiba visada už talką atpildydavo."
+  citata_rodoma: |
+    Leiba visada už talką atpildydavo.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -117,7 +118,8 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
     Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą,
     Mums,
     mažiems, kromininkas ir Leiba buvo lygios sąvokos.
-  citata_rodoma: "Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą, mums, mažiems, kromininkas ir Leiba buvo lygios sąvokos."
+  citata_rodoma: |
+    Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą, mums, mažiems, kromininkas ir Leiba buvo lygios sąvokos.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -136,7 +138,8 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
     išėjo“ .
     Leiba gyvendavo su kaimynais santaikoje: visiems nusilenkda­
     vo, niekam neužkliūdavo.
-  citata_rodoma: "Leiba gyvendavo su kaimynais santaikoje: visiems nusilenkdavo, niekam neužkliūdavo."
+  citata_rodoma: |
+    Leiba gyvendavo su kaimynais santaikoje: visiems nusilenkdavo, niekam neužkliūdavo.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -161,7 +164,8 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
     kromininkas Leiba. Kiti kromininkai nenešiojo
     mastinių prekių, o
     Leiba nešiojo tik mastines prekes.
-  citata_rodoma: "Leiba nešiojo tik mastines prekes."
+  citata_rodoma: |
+    Leiba nešiojo tik mastines prekes.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

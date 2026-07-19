@@ -71,7 +71,14 @@ media_all_json: |-
     J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
     apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
     dinį leidinį Senovės Lenkija.
-  citata_rodoma: "Šie vie­\nnuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­\nlinės veiklos laikotarpis. 1841 m. jis tapo vienu iš enciklopedinio \npobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir \nJ. Sniadeckių biografijas, parengė jų darbų rinktines, parašė \napie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­\ndinį leidinį Senovės Lenkija."
+  citata_rodoma: |
+    Šie vie­
+    nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
+    linės veiklos laikotarpis. 1841 m. jis tapo vienu iš enciklopedinio
+    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
+    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
+    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
+    dinį leidinį Senovės Lenkija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

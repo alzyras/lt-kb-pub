@@ -170,7 +170,26 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
     SU ILIUSTRACIJOMIS
     Vilnius. Spausdinta Antono Marcinovskio.
     1836
-  citata_rodoma: "MYKOLAS B A L I N S K I S\nniaus\nMIESTO ISTORIJA\nHaec omnia, quae credidi esse patriae necessaria, \nquae scribere mihi fas erat, vobis exponere arbitror: \nvestrum judicium, non de mea voluntate, sed de opere exoro.\n„Visa, ką maniau būsiant reikalinga tėvynei ir \nką man derėjo parašyti, nutariau išdėstyti jums, \nket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — \nRotundas  (Augustinas Mieleckis), Vilniaus vaitas, \nMikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam \nsavąją Lietuvos istoriją, kurios rankraštis yra dingęs.\nI\nTOMAS\nAPI M AN TI S_ VILNĮ AU S ISTORIJĄ NUO \nMIESTO ĮKŪRIMO IKI PAT 1430 METŲ \nSU ILIUSTRACIJOMIS\nVilnius. Spausdinta Antono Marcinovskio. \n1836"
+  citata_rodoma: |
+    MYKOLAS B A L I N S K I S
+    niaus
+    MIESTO ISTORIJA
+    Haec omnia, quae credidi esse patriae necessaria,
+    quae scribere mihi fas erat, vobis exponere arbitror:
+    vestrum judicium, non de mea voluntate, sed de opere exoro.
+    „Visa, ką maniau būsiant reikalinga tėvynei ir
+    ką man derėjo parašyti, nutariau išdėstyti jums,
+    ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ —
+    Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
+    Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
+    savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
+    I
+    TOMAS
+    API M AN TI S_ VILNĮ AU S ISTORIJĄ NUO
+    MIESTO ĮKŪRIMO IKI PAT 1430 METŲ
+    SU ILIUSTRACIJOMIS
+    Vilnius. Spausdinta Antono Marcinovskio.
+    1836
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -204,7 +223,19 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
     ordino. Tokie įvykiai civilizuotam pasauliui nėra neįdomūs, ta­
     čiau, norint juos aiškiai nušviesti ir parašyti tokio vardo vertą
     lietuvių Tautos Istoriją, be daugelio kitų sąlygų, pirmiausia rei-
-  citata_rodoma: "ĮVADAS\nR  ašydamas istoriją miesto, kuris bemaž du amžius buvo vie­\nnos galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki \nmūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios cen­\ntras Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš \nįvairių kronikų ir senųjų, archyvuose saugomų rankraščių iš­\nrinkti padavimus, bylojančius apie Vilniaus kilmę, tas teises ir \ndaugybę privilegijų, kuriomis jo gyventojai nuo senų laikų nau­\ndojosi, ne tik atgaivinti amžininkų atmintyje ankstesnius, kele­\nto amžių, įvykius toje sostinėje, bet ir, kiek tema ir galimybės \nman leido, prisidėti prie kai kurių Lietuvos istorijos įvykių aiški­\nnimo."
+  citata_rodoma: |
+    ĮVADAS
+    R  ašydamas istoriją miesto, kuris bemaž du amžius buvo vie­
+    nos galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
+    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios cen­
+    tras Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš
+    įvairių kronikų ir senųjų, archyvuose saugomų rankraščių iš­
+    rinkti padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
+    daugybę privilegijų, kuriomis jo gyventojai nuo senų laikų nau­
+    dojosi, ne tik atgaivinti amžininkų atmintyje ankstesnius, kele­
+    to amžių, įvykius toje sostinėje, bet ir, kiek tema ir galimybės
+    man leido, prisidėti prie kai kurių Lietuvos istorijos įvykių aiški­
+    nimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -246,7 +277,35 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
     © Romas Dubonis, apipavidalinimas,
     2007
     © MINTIS, 2007
-  citata_rodoma: "UDK 947.45 \nBa237\nVersta iš\nMichała Balińskiego \nHistory a Miasta Wilna \nWilno. Drukiem \nAntoniego Marcinowskiego, \n1836-1837\nKnygos leidimą parėmė \nLietuvos Respublikos \nkultūros ministerija\nKnyga išleista \nLietuvos tūkstantmečio \nminėjimo direkcijai \nparėmus\nRedaktorė\nSkirmantė Ramanauskaitė\nKnygos dailininkas \nRomas Dubonis\nISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą,\nOna Slavėnaitė, 2007 \n© Vertimas į lietuvių kalbą,\nIrena Katilienė, 2007 \n© Vertimas į lietuvių kalbą,\nJūratė Dalia Baronienė, 2007 \n© Romas Dubonis, apipavidalinimas, \n2007\n© MINTIS, 2007"
+  citata_rodoma: |
+    UDK 947.45
+    Ba237
+    Versta iš
+    Michała Balińskiego
+    History a Miasta Wilna
+    Wilno. Drukiem
+    Antoniego Marcinowskiego,
+    1836-1837
+    Knygos leidimą parėmė
+    Lietuvos Respublikos
+    kultūros ministerija
+    Knyga išleista
+    Lietuvos tūkstantmečio
+    minėjimo direkcijai
+    parėmus
+    Redaktorė
+    Skirmantė Ramanauskaitė
+    Knygos dailininkas
+    Romas Dubonis
+    ISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą,
+    Ona Slavėnaitė, 2007
+    © Vertimas į lietuvių kalbą,
+    Irena Katilienė, 2007
+    © Vertimas į lietuvių kalbą,
+    Jūratė Dalia Baronienė, 2007
+    © Romas Dubonis, apipavidalinimas,
+    2007
+    © MINTIS, 2007
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

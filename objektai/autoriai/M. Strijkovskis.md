@@ -1392,7 +1392,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     telkęs savo lietuvių pajėgas, žygiuoda-
     mas Padniepre pro Kanevą, Čerkasus, ties
     Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: "4-5 de-\nšimtmečiai) įrašytas „Pasakojimas apie\nPodolę“ - plačiausiai kalbantis šaltinis\nšia tema. Istorinė tradicija (jai atstovauja\nM. Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius."
+  citata_rodoma: |
+    4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema. Istorinė tradicija (jai atstovauja
+    M. Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1442,7 +1450,22 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     žinomas kunigaikščio Herfordo var­
     du, Jono de Gando, Lankasterio ku­
     nigaikščio, Ričardo dėdės, sūnus.
-  citata_rodoma: "Prie Kauno su jais susijungė, be Žemai-\n23\nStrijkovskis apsirinka nurody­\ndamas, esą Lankasteris, Anglijos ka­\nraliaus Henriko sūnus, su didžiulė­\nmis anglų, škotų bei prancūzų ir 1.1, \npajėgomis įsibrovė į Lietuvą. Nebu­\nvo apie 1390 metus jokio Henriko \nAnglijos soste, o viešpatavo anuo \ntarpu Ričardas II, ir prie Vilniaus bu­\nvojo ne kas kitas, tik Henrikas Lan­\nkasteris, pirm Derbio grafas, vėliau \nžinomas kunigaikščio Herfordo var­\ndu, Jono de Gando, Lankasterio ku­\nnigaikščio, Ričardo dėdės, sūnus."
+  citata_rodoma: |
+    Prie Kauno su jais susijungė, be Žemai-
+    23
+    Strijkovskis apsirinka nurody­
+    damas, esą Lankasteris, Anglijos ka­
+    raliaus Henriko sūnus, su didžiulė­
+    mis anglų, škotų bei prancūzų ir 1.1,
+    pajėgomis įsibrovė į Lietuvą. Nebu­
+    vo apie 1390 metus jokio Henriko
+    Anglijos soste, o viešpatavo anuo
+    tarpu Ričardas II, ir prie Vilniaus bu­
+    vojo ne kas kitas, tik Henrikas Lan­
+    kasteris, pirm Derbio grafas, vėliau
+    žinomas kunigaikščio Herfordo var­
+    du, Jono de Gando, Lankasterio ku­
+    nigaikščio, Ričardo dėdės, sūnus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1508,7 +1531,17 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     griuvusių skliautų žymės dunkso/'
     14
     Ne tik Šv.
-  citata_rodoma: "13\nŠv. Martyno bažnyčia jau XVI am­\nžiuje buvo apleista ir sugriauta: mi­\nni apie tai ir pats Strijkovskįs savo \nkronikoje, p. 479: „Dabar, kaip ma­\ntome, sunyko ir sugriuvo, tiktai prie \nPlikojo kalno puikaus pastato ir su­\ngriuvusių skliautų žymės dunkso/'\n14\nNe tik Šv."
+  citata_rodoma: |
+    13
+    Šv. Martyno bažnyčia jau XVI am­
+    žiuje buvo apleista ir sugriauta: mi­
+    ni apie tai ir pats Strijkovskįs savo
+    kronikoje, p. 479: „Dabar, kaip ma­
+    tome, sunyko ir sugriuvo, tiktai prie
+    Plikojo kalno puikaus pastato ir su­
+    griuvusių skliautų žymės dunkso/'
+    14
+    Ne tik Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1545,7 +1578,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
+  citata_rodoma: |
+    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1569,7 +1603,14 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
     Kai dėl rūšies ginklo, nuo kurio žuvo
     Gediminas: Dlugošas Lib.
-  citata_rodoma: "Nors Strijkovskis yra pasakęs, kad Gedimino pa­\nlaikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,\nžinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­\nmino kalne, manytume greičiau jį esant čia palaidotą. Rau­\ndonė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot\nKai dėl rūšies ginklo, nuo kurio žuvo\nGediminas: Dlugošas Lib."
+  citata_rodoma: |
+    Nors Strijkovskis yra pasakęs, kad Gedimino pa­
+    laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
+    žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­
+    mino kalne, manytume greičiau jį esant čia palaidotą. Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1612,7 +1653,26 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     mo, ir tik 1391 m. kovo 12 d. išrink­
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
-  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
+  citata_rodoma: |
+    22
+    Miechovita, Strijkovskis
+    ir K o j e 1 a v i č i u s klysta sakyda­
+    mi, esą žygio vadovavimas buvo pa­
+    vestas Konradui Valenrodui, kurį
+    jau tuo metu vadina didžiuoju ma­
+    gistru, kai Konradas Valenrodas
+    1382 metais, sekmadienį prieš Šv.
+    Mykolą paskirtas Ordino didžiuoju
+    maršalu, 1387 metais per Apreiški­
+    mo Marijai šventę tapo didžiuoju
+    komtūru arba arkikomtūru, 1390
+    rugpjūčio 15 d., po didžiojo magistro
+    Konrado Ciolnerio fon Rotenšteino
+    mirties, - ir didžiojo magistro vieti­
+    ninku, iki pat kapitulos suvažiavi­
+    mo, ir tik 1391 m. kovo 12 d. išrink­
+    tas didž. magistru; mirė 1393 m.
+    liepos 25 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1641,7 +1701,20 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     nio vakarais dvasininkai visada
     statydavo ir degindavo vaško žva­
     kes/' Strijkovskis, Sk.
-  citata_rodoma: "tovė Laukai-kišas-upys, vėliau išvir­\nto į Lukiškes. Strijkovskis klysta tvir­\ntindamas, esą miškas lietuviškai va­\ndinamas laukas ir nuo to žodžio\npaėjęs Lukiškių pavadinimas.\n6\n„Buvo dar didžiulė menė, arba\nšventovė, Antakalnyje, visų dievų,\nkuriuos Lietuva, apgauta šėtoniš­\nkų kerų, garbino; ten ketvirtadie­\nnio vakarais dvasininkai visada\nstatydavo ir degindavo vaško žva­\nkes/' Strijkovskis, Sk."
+  citata_rodoma: |
+    tovė Laukai-kišas-upys, vėliau išvir­
+    to į Lukiškes. Strijkovskis klysta tvir­
+    tindamas, esą miškas lietuviškai va­
+    dinamas laukas ir nuo to žodžio
+    paėjęs Lukiškių pavadinimas.
+    6
+    „Buvo dar didžiulė menė, arba
+    šventovė, Antakalnyje, visų dievų,
+    kuriuos Lietuva, apgauta šėtoniš­
+    kų kerų, garbino; ten ketvirtadie­
+    nio vakarais dvasininkai visada
+    statydavo ir degindavo vaško žva­
+    kes/' Strijkovskis, Sk.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1660,7 +1733,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
+  citata_rodoma: |
+    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
+    1846.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1725,7 +1800,17 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     iš Lietuvos valdovo Algirdo ir jo brolio
     Karijoto trijų sūnų - Karijotaičių vado-
     vaujamų karių.
-  citata_rodoma: "Istorinė tradicija (jai atstovauja\nM. Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius.\n\nLietuvos kariuomenė buvo sudaryta\niš Lietuvos valdovo Algirdo ir jo brolio\nKarijoto trijų sūnų - Karijotaičių vado-\nvaujamų karių."
+  citata_rodoma: |
+    Istorinė tradicija (jai atstovauja
+    M. Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
+
+    Lietuvos kariuomenė buvo sudaryta
+    iš Lietuvos valdovo Algirdo ir jo brolio
+    Karijoto trijų sūnų - Karijotaičių vado-
+    vaujamų karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1827,7 +1912,21 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     laikais per tas iškilmes vykdavo apeigos tos deivės garbei;
     per jas būdavo atgaivinamos mintys apie pomirtinį gyveni­
     mą ir sunkią kelione į amžinybę.
-  citata_rodoma: "Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­\ngomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­\ntuvoje, bet ir Lietuvos Rusioje.\n334\n\n## Puslapis 334\n\nDidžioji šventė\nRugsėjo mėnesį, visai pabaigus laukų darbus, dievo Žemi­\nninko garbei buvo švenčiama ši šventė, kurią Strijkovskis va­\ndina žymiausia. Jos metu būdavo aukojama daugybė naminių\ngyvulių, patinų ir patelių, todėl reikia spėti, kad aukas gauda­\nvo visi dievai ir deivės, o tai reiškia, kad aukų ir vaišių turtin­\ngumu viršydavo visas kitas metines šventes."
+  citata_rodoma: |
+    Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­
+    gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­
+    tuvoje, bet ir Lietuvos Rusioje.
+    334
+
+    ## Puslapis 334
+
+    Didžioji šventė
+    Rugsėjo mėnesį, visai pabaigus laukų darbus, dievo Žemi­
+    ninko garbei buvo švenčiama ši šventė, kurią Strijkovskis va­
+    dina žymiausia. Jos metu būdavo aukojama daugybė naminių
+    gyvulių, patinų ir patelių, todėl reikia spėti, kad aukas gauda­
+    vo visi dievai ir deivės, o tai reiškia, kad aukų ir vaišių turtin­
+    gumu viršydavo visas kitas metines šventes.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1872,7 +1971,18 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     vo iš kaimo į kaimą, padėtą ant rogių, pakinkytų keršais jau­
     čiais, paskui jas grūsdavosi būriai girtų moterų, vadinamų ra-
     gutienėmis, popų puotininkų ir daugybė įvairiausių kaukių.
-  citata_rodoma: "13\n13 Džami -  persiškai -  paveikslėliai.\n337\n\n## Puslapis 337\n\nStrijkovskis apibūdina šios šventės pradžią -  kad ji pradė­\nta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos\nir Livonijos kronikose apie ją neradome jokios užuominos.\nMūsų istorikas pasakoja, kad žemaičiai pradėję švęsti Ilges dėl\ntokios priežasties."
+  citata_rodoma: |
+    13
+    13 Džami -  persiškai -  paveikslėliai.
+    337
+
+    ## Puslapis 337
+
+    Strijkovskis apibūdina šios šventės pradžią -  kad ji pradė­
+    ta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos
+    ir Livonijos kronikose apie ją neradome jokios užuominos.
+    Mūsų istorikas pasakoja, kad žemaičiai pradėję švęsti Ilges dėl
+    tokios priežasties.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1918,7 +2028,16 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
     lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
     veidžiai, kai kurie variniai ir sidabriniai daiktai.
-  citata_rodoma: "Kovas (Kawas)\nKaro dievas. Lietuviai kovu (Kawas) vadina mėnesį, kurį\nir romėnai buvo paskyrę dievui Marsui. Norint apibūdinti ka­\nriškos laikysenos ir išvaizdos žmogų, lietuviškai sakoma: Ka-\nwinga Kartu -  kariškas veidas. Žodis Kawa reiškia mūšįs arba\nkarišką kovą. Strijkovskis tą dievą vadina Chaurirari; kai ku­\nriose tarmėse Chaulas, tiksliau Kaulas, reiškia kaulą, todėl kro­\nnikoje gali būti klaida -  turėjo būti Chauiyrari arba Chaufya-\nres."
+  citata_rodoma: |
+    Kovas (Kawas)
+    Karo dievas. Lietuviai kovu (Kawas) vadina mėnesį, kurį
+    ir romėnai buvo paskyrę dievui Marsui. Norint apibūdinti ka­
+    riškos laikysenos ir išvaizdos žmogų, lietuviškai sakoma: Ka-
+    winga Kartu -  kariškas veidas. Žodis Kawa reiškia mūšįs arba
+    karišką kovą. Strijkovskis tą dievą vadina Chaurirari; kai ku­
+    riose tarmėse Chaulas, tiksliau Kaulas, reiškia kaulą, todėl kro­
+    nikoje gali būti klaida -  turėjo būti Chauiyrari arba Chaufya-
+    res.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1978,7 +2097,12 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     je, vienuolis, nėščia moteris, lapė, nėščia kalė arba vilkė pra­
     našauja bloga: priešingai, sutiktas kiškis, vilkas, vaikas, burti­
     ninkas, čigonas žada laimingą kelionę.
-  citata_rodoma: "Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­\ndavo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­\ntum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,\napsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­\nčio laimingos kelionės ir sugrįžti į namus."
+  citata_rodoma: |
+    Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­
+    davo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­
+    tum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,
+    apsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­
+    čio laimingos kelionės ir sugrįžti į namus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2000,7 +2124,12 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     Hennilus. Strijkovskis jį lygina su Antikos satyrais ir faunais,
     nes sako: „Jam atnašaudavo arklių, jaučių, ožių ir kitų gyvulių
     pautus, kai juos išromydavo.
-  citata_rodoma: "Paukštinis (Swieczpa uksztynis)\nDievaitis -  visų rūšių paukščių, naminių ir laukinių, valdo­\nvas. Nuolat aukų jam neaukota, nes jį patį laikė skraidančiu\ndievaičiu. Strijkovskis jį vadina Swieczpunscynis; tai tikriausiai\nyra rašybos ar spaudos riktas."
+  citata_rodoma: |
+    Paukštinis (Swieczpa uksztynis)
+    Dievaitis -  visų rūšių paukščių, naminių ir laukinių, valdo­
+    vas. Nuolat aukų jam neaukota, nes jį patį laikė skraidančiu
+    dievaičiu. Strijkovskis jį vadina Swieczpunscynis; tai tikriausiai
+    yra rašybos ar spaudos riktas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2040,7 +2169,11 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     jų religinė raštija tikina, kad tos būtybės esančios blogesnės
     už šėtonus, be galo kenksmingos, atsiunčiančios žmonėms 70
     18 Šiame žodyne vietoj B klaidingai parašyta P.
-  citata_rodoma: "Kitose vietose\nvadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas\npalivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­\ndinami Purs; Strijkovskis juos vadina taip pat pigmėjais17."
+  citata_rodoma: |
+    Kitose vietose
+    vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
+    palivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­
+    dinami Purs; Strijkovskis juos vadina taip pat pigmėjais17.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2121,7 +2254,10 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     Ąžuolas su amalu iki šiol yra ne tik retenybė, bet ir pri­
     klauso senovės prietarams. F. Noelis straipsnyje „Gutheil“ sa­
     10 Sirvydo žodynas.
-  citata_rodoma: "ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas\nmedis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs\ndievaitis Pušaitis su savo barstukų kariuomene."
+  citata_rodoma: |
+    ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas
+    medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
+    dievaitis Pušaitis su savo barstukų kariuomene.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2139,7 +2275,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     rėlė yra indiškos kilmės: tokią išvadą padarė remdamiesi tik pa­
     našumu. 1831 metais tas senovės paminklas kartu su visu drau­
     gijos muziejumi buvo išvežtas į Sankt Peterburgą.
-  citata_rodoma: "Skulptorių ir dailininkų stoką atstojo vaiz­\n243\n\n## Puslapis 243\n\nduotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena."
+  citata_rodoma: |
+    Skulptorių ir dailininkų stoką atstojo vaiz­
+    243
+
+    ## Puslapis 243
+
+    duotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
+    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
+    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2158,7 +2302,11 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
-  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
+  citata_rodoma: |
+    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
+    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
+    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
+    milžino išvaizdos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2177,7 +2325,12 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     Senprūsių kalbojeR/Uv, arbaRyks, reiškė valstybę, Rikaus-
     na - valdžią, Rikys - valdovą, Rykyans - viešpatavimą, Ryeki -
     karalystę, Rikint - valdyti.
-  citata_rodoma: "Plačios lygumos, užliejamos dvie­\njų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,\nneišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­\npis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis\nšventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena."
+  citata_rodoma: |
+    Plačios lygumos, užliejamos dvie­
+    jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
+    neišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­
+    pis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis
+    šventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2202,7 +2355,19 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
     XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
     dalo ir seno graviravimo signečių pėdsakas.
-  citata_rodoma: "402\n\n## Puslapis 402\n\ntuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­\nnete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam\nnors neateidavo į galvą savo signetėje išraižyti ką nors kita.\nVis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10."
+  citata_rodoma: |
+    402
+
+    ## Puslapis 402
+
+    tuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­
+    nete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam
+    nors neateidavo į galvą savo signetėje išraižyti ką nors kita.
+    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
+    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
+    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
+    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
+    metais Gediminas davė Krunevičiui10.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2229,7 +2394,21 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
     arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
     11 Sirvydo žodynas.
-  citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
+  citata_rodoma: |
+    Jau ir šiaip žinome, ir anksčiau sakėme, kad
+    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
+    8
+    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
+    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
+    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
+    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
+    430
+
+    ## Puslapis 430
+
+    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
+    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
+    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2294,7 +2473,19 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     manto I laikais gyvenęs istorikas, rašo girdėjęs jotvingių
     kalbą Polesėje, šalia Drohičino; jos nei jis, nei lietuvis,
     nei žemaitis negalėję suprasti.
-  citata_rodoma: "115\nStrijkovskis savo amžiuje dar girdėjo apie likučius\nišsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir\napgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-\n1 Stryjkomski.\nS. 181.\n121\n\n## Puslapis 119\n\nterburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­\ntuose, kur juos vadino igovėnais."
+  citata_rodoma: |
+    115
+    Strijkovskis savo amžiuje dar girdėjo apie likučius
+    išsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir
+    apgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-
+    1 Stryjkomski.
+    S. 181.
+    121
+
+    ## Puslapis 119
+
+    terburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­
+    tuose, kur juos vadino igovėnais.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -2319,7 +2510,17 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
     Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
     savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
-  citata_rodoma: "Kruvina šio Ordino\npolitika numatė padaryti Sūduvą visiškai negyvenamą,\ntad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į\nkitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­\nvingių, kurių palikuonis Strijkovskis pastebėdavo prie\nRaigardo ir Insterburgo Prūsijoje. Tačiau negalime su­\ntikti su mokslininku Heningu, kuris daro prielaidą, kad\nvisi sūduviai yra buvę jotvingiai, nes kitur esama negin­\nčijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri\nvadinosi sudinais ir buvo visiškai ne jotvingių kilmės."
+  citata_rodoma: |
+    Kruvina šio Ordino
+    politika numatė padaryti Sūduvą visiškai negyvenamą,
+    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
+    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
+    tikti su mokslininku Heningu, kuris daro prielaidą, kad
+    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
+    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
+    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

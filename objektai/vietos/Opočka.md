@@ -84,7 +84,9 @@ Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos. Krasnogo
   citata_originali: |
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.).
-  citata_rodoma: "7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­\nkarus nuo Opočkos (RTFR. Veiikije Lukų sr.)."
+  citata_rodoma: |
+    7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
+    karus nuo Opočkos (RTFR. Veiikije Lukų sr.).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -98,7 +98,11 @@ Nenurodyta
     dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
     rankose, ji naudota kaip gyvulininkystės dvaras.
     Kaip rodo archeologiniai tyrimai, dab.
-  citata_rodoma: "Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,\ndalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino\nrankose, ji naudota kaip gyvulininkystės dvaras.\n  Kaip rodo archeologiniai tyrimai, dab."
+  citata_rodoma: |
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
+      Kaip rodo archeologiniai tyrimai, dab.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

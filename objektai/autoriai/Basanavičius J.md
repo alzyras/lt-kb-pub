@@ -121,7 +121,12 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
     Landeshute (D. III, 235), vėliau įsigali baltiškasis vardas: lotyniškuose dokumentuose —
     Raganitie (1300 m — PUB, 1, 2, Nr. 745, p. 463), o vokiškuose — Raug-[nit], Rangnith,
     Rangnithe (1302 m. ir vėliau — ten pat, Nr. /77, 778 791 879).
-  citata_rodoma: "Vangrapės krante,\nupės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių..,\np. 190—191), per 400 m į pietus nuo Tamoviškių. Čia lokalizuojama 1275 m. sunaikinta\nnadruvių pilis (HE, p. 161; CV, t. 34, p. 129) bei vėlesnė Ordino Tamoviškių pilis (1366\nm.— Cammow, 1371 m. ir vėliau — Tammow — SRP, 2, p. 557, 570, 578, 581)."
+  citata_rodoma: |
+    Vangrapės krante,
+    upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių..,
+    p. 190—191), per 400 m į pietus nuo Tamoviškių. Čia lokalizuojama 1275 m. sunaikinta
+    nadruvių pilis (HE, p. 161; CV, t. 34, p. 129) bei vėlesnė Ordino Tamoviškių pilis (1366
+    m.— Cammow, 1371 m. ir vėliau — Tammow — SRP, 2, p. 557, 570, 578, 581).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

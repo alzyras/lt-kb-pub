@@ -93,7 +93,7 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    4. Apie viešąją krikščionių atgailą
+    Apie viešąją krikščionių atgailą
 
       To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o
     kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].
@@ -101,7 +101,15 @@ Nenurodyta
 
 
                               5.
-  citata_rodoma: "4. Apie viešąją krikščionių atgailą\n\n  To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o\nkadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].\n\n\n\n                          5."
+  citata_rodoma: |
+    Apie viešąją krikščionių atgailą
+
+      To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o
+    kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].
+
+
+
+                              5.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -117,12 +125,20 @@ Nenurodyta
     Toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai
     savo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis
     kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
-    bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento
-    Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
-    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
+    bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis  į švento
+    Mikalojaus  koplyčią Gladbache, tikėdamasis, jog ten dievas  patarsiąs, ką  daryti.
+    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos  jis kreipėsi  į jo šventenybę
     popiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų
     namų ordino vienuolio apsiaustą.
-  citata_rodoma: "Toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai\nsavo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis\nkiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną\nbei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis  į švento\nMikalojaus  koplyčią Gladbache, tikėdamasis, jog ten dievas  patarsiąs, ką  daryti.\nAukščiausiojo ten įkvėptas, su keliais iš savo šeimynos  jis kreipėsi  į jo šventenybę\npopiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų\nnamų ordino vienuolio apsiaustą."
+  citata_rodoma: |
+    Toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai
+    savo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis
+    kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
+    bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis  į švento
+    Mikalojaus  koplyčią Gladbache, tikėdamasis, jog ten dievas  patarsiąs, ką  daryti.
+    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos  jis kreipėsi  į jo šventenybę
+    popiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų
+    namų ordino vienuolio apsiaustą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -136,13 +152,20 @@ Nenurodyta
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai dar buvo pasaulietis, jis
-    kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti į vienuolius, darė
+    kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė
     atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame
     mieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o
     rykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.
     Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
-    Šitaip brolis Konradas palinko į Teutonų namų ordiną.
-  citata_rodoma: "Kai dar buvo pasaulietis, jis\nkartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė\natgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame\nmieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o\nrykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.\nVis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.\nŠitaip brolis Konradas palinko  į Teutonų namų ordiną."
+    Šitaip brolis Konradas palinko  į Teutonų namų ordiną.
+  citata_rodoma: |
+    Kai dar buvo pasaulietis, jis
+    kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė
+    atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame
+    mieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o
+    rykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.
+    Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
+    Šitaip brolis Konradas palinko  į Teutonų namų ordiną.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

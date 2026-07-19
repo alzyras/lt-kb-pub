@@ -69,7 +69,10 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
     pasirodė ir šis bandymas. Pagal kronikininką Henriką von Rebdorf
     1358 m. liepos mėn. «Lietuvos karalius» pas imperatorių buvęs
     atsiuntęs savo brolį, kurio vardas įvairiai spėliojamas^9.
-  citata_rodoma: "Pagal kronikininką Henriką von Rebdorf\n1358 m. liepos mėn. «Lietuvos karalius» pas imperatorių buvęs\natsiuntęs savo brolį, kurio vardas įvairiai spėliojamas^9."
+  citata_rodoma: |
+    Pagal kronikininką Henriką von Rebdorf
+    1358 m. liepos mėn. «Lietuvos karalius» pas imperatorių buvęs
+    atsiuntęs savo brolį, kurio vardas įvairiai spėliojamas^9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

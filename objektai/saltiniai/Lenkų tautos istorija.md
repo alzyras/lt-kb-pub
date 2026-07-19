@@ -114,7 +114,13 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
     praeities studijas. Sudarydamas savo istorijos rašymo « mokyklą »,
     Naruševičius visokių negerovių šaltiniu telaikė monarcho valdžios
     aprėžimą.
-  citata_rodoma: "Plačiai užgriebdamas ir Lietuvos istoriją,\nvysk. Adomas Stanislovas Naruševičius (Naruszewicz) savo\n6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas\npraeities studijas. Sudarydamas savo istorijos rašymo « mokyklą »,\nNaruševičius visokių negerovių šaltiniu telaikė monarcho valdžios\naprėžimą."
+  citata_rodoma: |
+    Plačiai užgriebdamas ir Lietuvos istoriją,
+    vysk. Adomas Stanislovas Naruševičius (Naruszewicz) savo
+    6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas
+    praeities studijas. Sudarydamas savo istorijos rašymo « mokyklą »,
+    Naruševičius visokių negerovių šaltiniu telaikė monarcho valdžios
+    aprėžimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

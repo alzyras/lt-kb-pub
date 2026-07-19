@@ -67,7 +67,13 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
     begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
     mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
     svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
-  citata_rodoma: "Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai\nnepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,\nkartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia\nbegalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies\nmylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai\nsvarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems."
+  citata_rodoma: |
+    Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai
+    nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,
+    kartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia
+    begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
+    mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
+    svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -61,7 +61,12 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
     reikalingas lietuviškas knygas. Be to, jis įrodinėja, kad lietuvių pro-
     senoliai buvę Romos nukariautojai geruliai ir kad senovėje jie tu-
     rėję didelę literatūrą, kuri žuvusi dėl nelemtų istorinių aplinkybių.
-  citata_rodoma: "Kad lietuvių kalba nežūtų, jis siūlo įsteigti Lietuvą mylinčių ir lietuvių kalbą mokančių draugiją, kuri\nrinktų tautosaką, senienas ir rūpintųsi leisti liaudžiai ir kunigams\nreikalingas lietuviškas knygas. Be to, jis įrodinėja, kad lietuvių pro-\nsenoliai buvę Romos nukariautojai geruliai ir kad senovėje jie tu-\nrėję didelę literatūrą, kuri žuvusi dėl nelemtų istorinių aplinkybių."
+  citata_rodoma: |
+    Kad lietuvių kalba nežūtų, jis siūlo įsteigti Lietuvą mylinčių ir lietuvių kalbą mokančių draugiją, kuri
+    rinktų tautosaką, senienas ir rūpintųsi leisti liaudžiai ir kunigams
+    reikalingas lietuviškas knygas. Be to, jis įrodinėja, kad lietuvių pro-
+    senoliai buvę Romos nukariautojai geruliai ir kad senovėje jie tu-
+    rėję didelę literatūrą, kuri žuvusi dėl nelemtų istorinių aplinkybių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

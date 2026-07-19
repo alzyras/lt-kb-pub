@@ -102,7 +102,20 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
     Ir, atleidęs pasiuntinį, sušaukė visą savo lietuvių
     bei rusų kariuomenę, ir iš Vitebsko ištraukė stačiai
     į Maskvą3.
-  citata_rodoma: "76\n\n## Puslapis 72\n\n22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ, \nPIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ \nPRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE\nKunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­\ntę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, \no visi lietuvių didikai pasiliko pagonys. Didysis kuni­\ngaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­\nvertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien \nrusų."
+  citata_rodoma: |
+    76
+
+    ## Puslapis 72
+
+    22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ,
+    PIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ
+    PRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE
+    Kunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­
+    tę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą,
+    o visi lietuvių didikai pasiliko pagonys. Didysis kuni­
+    gaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­
+    vertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien
+    rusų.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -159,7 +159,15 @@ Nenurodyta
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
-  citata_rodoma: "Šiuo ir kitais atvejais mūsų intelektualai, akademikai, \nmenininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-\ntoriją visam pasauliui.\nŠiandien yra bene geriausia proga šią gražią diplomatinę tradici-\nją pratęsti ir sustiprinti. 1990 m. kovo 11 d. atkūrusi nepriklausomybę, \n2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, \n2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-\njungai – laisvų ir demokratinių Europos valstybių susivienijimui."
+  citata_rodoma: |
+    Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
+    menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
+    toriją visam pasauliui.
+    Šiandien yra bene geriausia proga šią gražią diplomatinę tradici-
+    ją pratęsti ir sustiprinti. 1990 m. kovo 11 d. atkūrusi nepriklausomybę,
+    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
+    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
+    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -182,7 +190,17 @@ Nenurodyta
     dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
     menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
     toriją visam pasauliui.
-  citata_rodoma: "archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-\nsaulį pasklidusių išeivių veikloje.\nRuošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-\nkos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo \nir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-\nrių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį \nsvarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų \ndailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai, \nmenininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-\ntoriją visam pasauliui."
+  citata_rodoma: |
+    archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
+    saulį pasklidusių išeivių veikloje.
+    Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-
+    kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo
+    ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-
+    rių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį
+    svarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų
+    dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
+    menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
+    toriją visam pasauliui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

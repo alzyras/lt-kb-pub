@@ -93,7 +93,20 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
     sams p a g a lb ą
     tą neseniai buvo paveldėjęs
     Lešekas Juodasis.
-  citata_rodoma: "Boleslovo Droviojo sos-\n(mat priešai dažniausiai pradeda karus, kai prie val­\ndžios stoja naujas valdovas, nes tada patogiausia siek­\nti permainų) užsigeidė karu patikrinti, kaip seksis nau­\njajam lenkų valdovui. Nuniokojęs Liublino žemes, jis\njau siaubė Sandomiro kraštą. Tuo tarpu Krokuvos kaš­\ntelionas Varsas teturėjo labai negausią žygiui pa­\nsirengusią kariauną, bet, gavęs Lešeko įsakymą pulti\npriešą bet kokiomis sąlygomis, nusprendė kautis su\nstipria jo kariuomene atvirame lauke; galimas daiktas,\npasielgė lengvabūdiškai, tačiau paprastiems žmonėms\n(kuriems sprendimas tada geras, kai sėkmingas) atro­\ndė, jog jis elgėsi pakankamai narsiai."
+  citata_rodoma: |
+    Boleslovo Droviojo sos-
+    (mat priešai dažniausiai pradeda karus, kai prie val­
+    džios stoja naujas valdovas, nes tada patogiausia siek­
+    ti permainų) užsigeidė karu patikrinti, kaip seksis nau­
+    jajam lenkų valdovui. Nuniokojęs Liublino žemes, jis
+    jau siaubė Sandomiro kraštą. Tuo tarpu Krokuvos kaš­
+    telionas Varsas teturėjo labai negausią žygiui pa­
+    sirengusią kariauną, bet, gavęs Lešeko įsakymą pulti
+    priešą bet kokiomis sąlygomis, nusprendė kautis su
+    stipria jo kariuomene atvirame lauke; galimas daiktas,
+    pasielgė lengvabūdiškai, tačiau paprastiems žmonėms
+    (kuriems sprendimas tada geras, kai sėkmingas) atro­
+    dė, jog jis elgėsi pakankamai narsiai.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

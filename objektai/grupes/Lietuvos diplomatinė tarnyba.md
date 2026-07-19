@@ -127,7 +127,8 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
     Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gy-
     vavusi per visą sovietų okupacijos laikotarpį.
-  citata_rodoma: "lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi"
+  citata_rodoma: |
+    lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,7 +147,8 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
     stovybių ir personalo išlaikymą. Diplomatai savo atstovaujamose valstybėse
     simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
     dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.
-  citata_rodoma: "simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,"
+  citata_rodoma: |
+    simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

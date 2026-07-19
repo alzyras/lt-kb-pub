@@ -91,7 +91,8 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
     Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
     buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
     vietoje įprasto Horacijaus.
-  citata_rodoma: "to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,"
+  citata_rodoma: |
+    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

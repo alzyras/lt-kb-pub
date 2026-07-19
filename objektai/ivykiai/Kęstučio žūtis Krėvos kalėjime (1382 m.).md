@@ -84,7 +84,13 @@ Nenurodyta
     Kęstučio kūnas Vilniuje buvo senu papročiu iškilmingai su­
     degintas kartu su jo mylimais arkliais, sakalais, šunimis ir gink­
     lais^5 ).
-  citata_rodoma: "Dlugošas taip pat nurodo^4 ), kad žiauriai buvę pasielgta\nir su kitais Kęstučio giminėmis: Birutės dėdė Vydimantas ir\nanūkas Butrimas buvę nukankinti su ratu.\nKęstučio kūnas Vilniuje buvo senu papročiu iškilmingai su­\ndegintas kartu su jo mylimais arkliais, sakalais, šunimis ir gink­\nlais^5 )."
+  citata_rodoma: |
+    Dlugošas taip pat nurodo^4 ), kad žiauriai buvę pasielgta
+    ir su kitais Kęstučio giminėmis: Birutės dėdė Vydimantas ir
+    anūkas Butrimas buvę nukankinti su ratu.
+    Kęstučio kūnas Vilniuje buvo senu papročiu iškilmingai su­
+    degintas kartu su jo mylimais arkliais, sakalais, šunimis ir gink­
+    lais^5 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

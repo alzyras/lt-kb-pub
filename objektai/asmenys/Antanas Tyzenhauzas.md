@@ -265,7 +265,11 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: "Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-\nvero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino \npanaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai \nkartais laikomi Apšvietos epochos pradžia."
+  citata_rodoma: |
+    Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
+    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
+    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
+    kartais laikomi Apšvietos epochos pradžia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -284,7 +288,9 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras
     Gardino ekonomijoje. A. Tyzenhauzo reformos buvo vienas iš svarbiau-
     sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
-  citata_rodoma: "A. Tyzenhauzo reformos buvo vienas iš svarbiau-\nsių XVIII a. pabaigos Lietuvos gyvenimo reiškinių."
+  citata_rodoma: |
+    A. Tyzenhauzo reformos buvo vienas iš svarbiau-
+    sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -372,7 +378,13 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
     89
     Lietuvos valstiečiai.
-  citata_rodoma: "A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė \nmatininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis\n\n2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n89\nLietuvos valstiečiai."
+  citata_rodoma: |
+    A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    89
+    Lietuvos valstiečiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

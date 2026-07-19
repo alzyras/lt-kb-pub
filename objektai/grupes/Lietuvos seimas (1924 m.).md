@@ -64,7 +64,8 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
     penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
     teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
-  citata_rodoma: "Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d."
+  citata_rodoma: |
+    Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

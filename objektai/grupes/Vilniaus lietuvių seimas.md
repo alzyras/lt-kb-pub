@@ -180,7 +180,25 @@ media_all_json: |-
     kia ieškoti tokių vaistų, kurie visiems laikams išgydy­
     tų negalę, sušaukė, susiruošęs traukti į Prūsiją, Vilniuje
     lietuvių seimą.
-  citata_rodoma: "Kas be ko, jie visi neišpasakytai trokštą, kad\nkaralius asmeniškai juos valdytų, tačiau jie to nesitiki,\n511\n\n## Puslapis 510\n\nn es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad\nkaralius ilgam  atitrūktų nuo jų valstybės reikalų. Štai\nto d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­\nd a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,\nSlucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais\nAlgirdo proanūkį. Karalius, g erai žinodamas, kiek rū­\npesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,\nnutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko\ngero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­\nrai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­\nsakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s\nsumanymus, g an a tolim us jų reikalavimams."
+  citata_rodoma: |
+    Kas be ko, jie visi neišpasakytai trokštą, kad
+    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
+    511
+
+    ## Puslapis 510
+
+    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
+    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
+    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
+    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
+    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
+    Algirdo proanūkį. Karalius, g erai žinodamas, kiek rū­
+    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
+    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
+    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
+    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
+    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
+    sumanymus, g an a tolim us jų reikalavimams.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

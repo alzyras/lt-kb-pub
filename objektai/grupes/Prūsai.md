@@ -2203,7 +2203,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     jotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17. Mums žinomi
     jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18. Prūsai
     (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19.
-  citata_rodoma: "Prūsai (bei jotvingiai) priskiriami vakarų baltų tarmių regionui."
+  citata_rodoma: |
+    Prūsai (bei jotvingiai) priskiriami vakarų baltų tarmių regionui.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -2227,7 +2228,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     Todėl to autoriaus aiškinimai labai dažnai neatitinka tie­
     sos, nors jis žinojo daug liaudies padavimų ir burtininkų, arba
     lietuvių bardų, dainų.
-  citata_rodoma: "Kai pasigirsdavo griaustinis, senovės prūsai, pasak Henen-\nbergerio, prašydavo griaustinio dievo paprastai tokiais žodžiais:\nDewe Periamas absolo mus! Lietuviškai sako: Dewe Perkūne\nupsaugogmus! („Dieve Perkūne, apsaugok mus!“)\nSenovinį Perkūną vaizduoja 13 piešinys III lentelėje bei\n41 piešinys VI lentelėje, įdėtose šio tomo pabaigoje."
+  citata_rodoma: |
+    Kai pasigirsdavo griaustinis, senovės prūsai, pasak Henen-
+    bergerio, prašydavo griaustinio dievo paprastai tokiais žodžiais:
+    Dewe Periamas absolo mus! Lietuviškai sako: Dewe Perkūne
+    upsaugogmus! („Dieve Perkūne, apsaugok mus!“)
+    Senovinį Perkūną vaizduoja 13 piešinys III lentelėje bei
+    41 piešinys VI lentelėje, įdėtose šio tomo pabaigoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2249,7 +2256,14 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     iki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­
     tis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-
     dime.
-  citata_rodoma: "Pasak kitų\ntyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu\nKaralus), kuris buvo laikomas tikru dievo Ukapirmo broliu25.\nPrūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-\npas -  jaunikaitis su galva, papuošta javų varpų vainiku, stovin­\ntis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­\nvos aprašymą straipsnyje „Herbai“."
+  citata_rodoma: |
+    Pasak kitų
+    tyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu
+    Karalus), kuris buvo laikomas tikru dievo Ukapirmo broliu25.
+    Prūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-
+    pas -  jaunikaitis su galva, papuošta javų varpų vainiku, stovin­
+    tis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
+    vos aprašymą straipsnyje „Herbai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2270,7 +2284,16 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     kurioje, nepaisant didelių sužalojimų, buvo galima perskaityti
     šiuos žodžius:
     rr
-  citata_rodoma: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10\n10 Rėza. Dainos.\n130\n\n## Puslapis 130\n\n(Giltine)10. Latviai, teikdami tą pačią prasmę, vadino Welli-De-\newa. Šios deivės garbinimo apeigos buvo rengiamos per laido­\ntuves ir Vėlines."
+  citata_rodoma: |
+    Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
+    10 Rėza. Dainos.
+    130
+
+    ## Puslapis 130
+
+    (Giltine)10. Latviai, teikdami tą pačią prasmę, vadino Welli-De-
+    ewa. Šios deivės garbinimo apeigos buvo rengiamos per laido­
+    tuves ir Vėlines.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2293,7 +2316,12 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     binimo apeigų liekanos.
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
-  citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
+  citata_rodoma: |
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2361,7 +2389,16 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
     atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
     mis augdami ant medžių, užauga sieto dydžio.
-  citata_rodoma: "235\n\n## Puslapis 235\n\nclžiu. Romovės šventyklos mitologinis pavadinimas siejamas\nsu ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė\nsusilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­\nmas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­\nbių prieglauda."
+  citata_rodoma: |
+    235
+
+    ## Puslapis 235
+
+    clžiu. Romovės šventyklos mitologinis pavadinimas siejamas
+    su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
+    susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
+    mas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
+    bių prieglauda.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2382,7 +2419,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
     išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
-  citata_rodoma: "Tai buvo 1258 metais“ .\nDybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­\nlas arba šventykla, savo viduryje turėjusi neapsakomo didumo\nąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę."
+  citata_rodoma: |
+    Tai buvo 1258 metais“ .
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2421,7 +2464,10 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     „Koruch“ vietoj „Kracho“, o vietoje raidės „ch“, kuri nebuvo ži­
     noma venedų runų abėcėlėje, buvo naudojama dviguba „gg“
     (11), kurios, sujungtos į vieną raidę, skaitoma kaip „ CH“.
-  citata_rodoma: "Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš\nsenovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios\nvėliavos aprašymas yra straipsnyje apie herbus."
+  citata_rodoma: |
+    Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
+    senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios
+    vėliavos aprašymas yra straipsnyje apie herbus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2463,7 +2509,19 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     lenktyniaudavo tarp savęs; visi šedevrai, sukurti skoningai ir ku­
     riems religija suteikė rimtį, buvo sutelkti šventyklose.
     Senovės Romoje tų pastatų garbinimas priklausė nuo žmo­
-  citata_rodoma: "Miškelių garbinimas buvo taip sureikšmintas, kad juose\njokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­\nčius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­\nslėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­\nmo, kadangi visos ten esančios būtybės, taip pat medžiai ir\naugalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­\nčiamais. Miechovita3 sako: „Prūsų tauta buvo taip sugedusi,\nkad ne tik miškai, bet ir juose gyvenantys paukščiai ir žvėrys\nbuvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė\nsusukdavo kojas ir rankas“. Krikščionims iš smalsumo buvo\ndraudžiama įžengti į tuos miškelius, bet nelaimingiesiems -\ntikriausiai ne4."
+  citata_rodoma: |
+    Miškelių garbinimas buvo taip sureikšmintas, kad juose
+    jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
+    čius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­
+    slėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­
+    mo, kadangi visos ten esančios būtybės, taip pat medžiai ir
+    augalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­
+    čiamais. Miechovita3 sako: „Prūsų tauta buvo taip sugedusi,
+    kad ne tik miškai, bet ir juose gyvenantys paukščiai ir žvėrys
+    buvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė
+    susukdavo kojas ir rankas“. Krikščionims iš smalsumo buvo
+    draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
+    tikriausiai ne4.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2555,7 +2613,16 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     ir pramogai. O jų sugebėjimai ir išmonė, tamsių žmonių aki­
     mis, viršijantys kitų sugebėjimus, praradus anksčiau turėtą pa­
     garbą, pavertė juos kerėtojais.
-  citata_rodoma: "Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-\nknochas po ilgo nereikšmingo svarstymo šia tema pataiko į\nankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­\nkai, gyvenę bendruomenėje su tam tikromis teisėmis."
+  citata_rodoma: |
+    Tie žyniai buvo išskirtinai dievo Atrimpo arba
+    Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
+    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
+    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
+    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
+    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
+    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
+    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
+    kai, gyvenę bendruomenėje su tam tikromis teisėmis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2576,7 +2643,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     ir nevienodo apšvietos laipsnio,. Buvo aukų, kurias atnašau­
     jant, moterims buvo draudžiama dalyvauti. Buvo ir tokių, kur
     ne bet kurį vyrą įleisdavo, ir jos vykdavo slapta*.
-  citata_rodoma: "Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­\nligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­\nrinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo\ndaryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka\npasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai\nsenu papročiu4."
+  citata_rodoma: |
+    Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
+    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
+    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
+    daryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka
+    pasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai
+    senu papročiu4.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2600,7 +2673,15 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
     baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
     būdavo toks pat baisus kaip ir anų.
-  citata_rodoma: "Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,\nkol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­\ndavo jį ant laužo.\nDievams taip pat būdavo aukojamas arklys tam tikro plau­\nko, su tam tikrais įgimtais ženklais. Prūsai teikdavo pirmeny­\nbę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio\nplauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­\nvo pasirinktą plauką ir su juo ypatingus ženklus."
+  citata_rodoma: |
+    Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
+    kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
+    davo jį ant laužo.
+    Dievams taip pat būdavo aukojamas arklys tam tikro plau­
+    ko, su tam tikrais įgimtais ženklais. Prūsai teikdavo pirmeny­
+    bę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio
+    plauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­
+    vo pasirinktą plauką ir su juo ypatingus ženklus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2646,7 +2727,14 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     kitos žmonos buvo laikomos vergėmis ir namų nuosavybe, ku­
     rią po šeimininko mirties pasidalydavo įpėdiniai; jos būdavo
     arba iš paimtų per karą, arba nupirktos iš vargingų tėvų.
-  citata_rodoma: "Kartais, tik­\nriausiai kaip apgavikiškus monus, žmonėms rodydavo baisias\ngyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­\ngirdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­\nbasi su vyriausiuoju žyniu“5.\nBuvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­\nmui ir atskleisti slaptam."
+  citata_rodoma: |
+    Kartais, tik­
+    riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
+    gyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­
+    girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­
+    basi su vyriausiuoju žyniu“5.
+    Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
+    mui ir atskleisti slaptam.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2669,7 +2757,12 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     tokių žodžių. Kiek stengėmės aptikti tokių dalykų šių dienų
     lietuviuose, šitaip suslavėjusiuose, niekad ir niekur negalėjo­
     me to pastebėti.
-  citata_rodoma: "Visa tai trukdavo iki vėlyvos nakties.\nPrieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­\nvos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­\nkišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-\nglobtė (Abglojte), kas reiškia nuometą."
+  citata_rodoma: |
+    Visa tai trukdavo iki vėlyvos nakties.
+    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
+    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
+    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
+    globtė (Abglojte), kas reiškia nuometą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2691,7 +2784,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     kryžius, kabančius ant medžio kamieno, o kiti, dar prieš Lenkijos ir
     Lietuvos uniją, savo herbams panaudojo senuosius bajoriškus ženklus,
     arba, savuosius užleidę, ėmė vartoti naujus “.
-  citata_rodoma: "400\n\n## Puslapis 400\n\nPrūsijos kronikininkai aprašo tautinį senovės prūsų her­\nbą, kurio kilmė siekia Vaidevučio laikus6. Skyde pavaizduota\npusė prūsišku susegtu švarku apsirengusio žmogaus su lokio\ngalva, pasukta kairėn. Iš šonų skydą laiko dvejetas baltų žirgų,\nįsirėmusių į jį priekinėmis kojomis. Ratu aplink skydą buvo\nneišlikę užrašai."
+  citata_rodoma: |
+    400
+
+    ## Puslapis 400
+
+    Prūsijos kronikininkai aprašo tautinį senovės prūsų her­
+    bą, kurio kilmė siekia Vaidevučio laikus6. Skyde pavaizduota
+    pusė prūsišku susegtu švarku apsirengusio žmogaus su lokio
+    galva, pasukta kairėn. Iš šonų skydą laiko dvejetas baltų žirgų,
+    įsirėmusių į jį priekinėmis kojomis. Ratu aplink skydą buvo
+    neišlikę užrašai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2714,7 +2817,12 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     arba, savuosius užleidę, ėmė vartoti naujus “. Tas, kuris mums išsakė
     priekaištą, kad mes lietuvius apdovanojome herbais jau tais laikais, kai
     dar niekur jie nebuvo žinomi, pasakė nesąmonę.
-  citata_rodoma: "Žiūrėk VI lentelės 42-ą piešinį.\nKitas tautinis prūsų herbas vaizdavo dvi karališkas karū­\nnas, vieną virš kitos; apatinė iš jų apversta7 8. Matyt, to herbo\nkilmė turėjo būti gotiška; taip spėjama vadovaujantis viduram­\nžių heraldika."
+  citata_rodoma: |
+    Žiūrėk VI lentelės 42-ą piešinį.
+    Kitas tautinis prūsų herbas vaizdavo dvi karališkas karū­
+    nas, vieną virš kitos; apatinė iš jų apversta7 8. Matyt, to herbo
+    kilmė turėjo būti gotiška; taip spėjama vadovaujantis viduram­
+    žių heraldika.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2815,7 +2923,15 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     atsižvelgiant į galimą atsiradimą įrodymų, patvirtinančių kro­
     nikoje teigiamus dalykus, idant nepasirodytum toks kaip švento
     atminimo Lėrbergas su tariamo Šiaurės popiežiaus išradimu.
-  citata_rodoma: "Kas gi\ntuo dokumentu turėjo būti panaikinta ar uždrausta, kitaip sa­\nkant, šiais požiūriais išvardyta iš to, ko jau nebebuvo nė pėd­\nsako ir kas jau savaime buvo išspręsta? Kodėl prūsai būtų tu­\nrėję prisiekti, kad nebeklausys savojo krivio, jeigu jau nebe­\nbuvo nė pėdsako tokio asmens, galinčio įsakinėti? Matyt, bū­\ntų buvę net keista, jeigu į dokumentą būtų buvę įtraukta kas\nnos panašaus."
+  citata_rodoma: |
+    Kas gi
+    tuo dokumentu turėjo būti panaikinta ar uždrausta, kitaip sa­
+    kant, šiais požiūriais išvardyta iš to, ko jau nebebuvo nė pėd­
+    sako ir kas jau savaime buvo išspręsta? Kodėl prūsai būtų tu­
+    rėję prisiekti, kad nebeklausys savojo krivio, jeigu jau nebe­
+    buvo nė pėdsako tokio asmens, galinčio įsakinėti? Matyt, bū­
+    tų buvę net keista, jeigu į dokumentą būtų buvę įtraukta kas
+    nos panašaus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2842,7 +2958,19 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
     dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
     mokėjo gana neblogai gintis.
-  citata_rodoma: "433\n\n## Puslapis 433\n\nbūti tariama Mergo; Henenbergerio Ronis yra Romais -  visiš­\nkai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­\ntuvoje daugelyje vietovardžių -  Balčiai (Bolcie), Baltininkai\n(Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas\nvisiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,\nJargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo\nanų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­\ntuva kilties ir vienos genties broliai?"
+  citata_rodoma: |
+    433
+
+    ## Puslapis 433
+
+    būti tariama Mergo; Henenbergerio Ronis yra Romais -  visiš­
+    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
+    tuvoje daugelyje vietovardžių -  Balčiai (Bolcie), Baltininkai
+    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
+    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
+    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai?
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2872,7 +3000,26 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     ginalo eilių metrą. Čia ir skambumas, ilgumas, ir tas kerintis
     kalbos grožis, kurio nesugebėtų pamėgdžioti jokia iš dabar gy­
     vuojančių Europos kalbų .
-  citata_rodoma: "447\n\n## Puslapis 447\n\nSenovės prūsų kalba, iš Gronovijaus; imta iš Ksavero Bo-\ngušo (p. 110):\nlewes nossen, kur tu es Debes; szwiegis tawes Wardes; penig\ntawe Walstibe; tawes prairęs gier ad Debbesim ta de žemes. Dodi\nmomus nosse igdienas magse, un panas numas nosse, nože gan,\nkad mes pamatam nossam partajnekams; no wede mumus\npanam padonam, be suabaldi numes no warse lajne.\nSenovės prūsų kalba, pagal pirmąjį 1545 metų Katekizmo\nleidimą; imta iš Hartknocho (p. 93):\nThawe nusson, kas tu esse an Dangon; swintints wirst tais\nemmens; pergels twais laejms; twais kwaits audasseisin na\nzemmej kei an Dangon, Hazan deininan gejttm dais numons\nszyndejnan, bhu attwerpeis nuomom nusson auszautins, kaj mas\nattwerpimaj nusson auszautnikamans; Selaitis rankeis mans assa\nvargan."
+  citata_rodoma: |
+    447
+
+    ## Puslapis 447
+
+    Senovės prūsų kalba, iš Gronovijaus; imta iš Ksavero Bo-
+    gušo (p. 110):
+    lewes nossen, kur tu es Debes; szwiegis tawes Wardes; penig
+    tawe Walstibe; tawes prairęs gier ad Debbesim ta de žemes. Dodi
+    momus nosse igdienas magse, un panas numas nosse, nože gan,
+    kad mes pamatam nossam partajnekams; no wede mumus
+    panam padonam, be suabaldi numes no warse lajne.
+    Senovės prūsų kalba, pagal pirmąjį 1545 metų Katekizmo
+    leidimą; imta iš Hartknocho (p. 93):
+    Thawe nusson, kas tu esse an Dangon; swintints wirst tais
+    emmens; pergels twais laejms; twais kwaits audasseisin na
+    zemmej kei an Dangon, Hazan deininan gejttm dais numons
+    szyndejnan, bhu attwerpeis nuomom nusson auszautins, kaj mas
+    attwerpimaj nusson auszautnikamans; Selaitis rankeis mans assa
+    vargan.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2905,7 +3052,23 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
     mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
     tuvos istoriją toliau XIII amžiaus1.
-  citata_rodoma: "Lietuvių bičiuliai, prūsai ir latviai, laimingiau ,ar nelai-\n1 Rotundo „Lietuvos istorijos“*.\n31\n\n## Puslapis 31\n\nmingiau susiję su vokiečių tauta, turi .pilnesnius ir geres­\nnius už mus savo istorijų aprašymus; jų kronikininkų\nskaičius yra ženklus. Mokytos plunksnos dirbo ir dabar\ndarbuojas i prie jų istorijos: Kocebus* parašė senovės\nPrūsų istoriją, pelniusią didelį pripažinimą; mokslingasis\nponas Foi'gtas** baigia išleisti paskutinius pilnos tos\npačios istorijos tomus, kurių bus astuoni; šis visiškai už­\nbaigtas veikalas savo verte pranoksta visus lig tol žino­\nmus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­\nnikomis, o jie yra iš visur sukaupti Karaliaučiuje."
+  citata_rodoma: |
+    Lietuvių bičiuliai, prūsai ir latviai, laimingiau ,ar nelai-
+    1 Rotundo „Lietuvos istorijos“*.
+    31
+
+    ## Puslapis 31
+
+    mingiau susiję su vokiečių tauta, turi .pilnesnius ir geres­
+    nius už mus savo istorijų aprašymus; jų kronikininkų
+    skaičius yra ženklus. Mokytos plunksnos dirbo ir dabar
+    darbuojas i prie jų istorijos: Kocebus* parašė senovės
+    Prūsų istoriją, pelniusią didelį pripažinimą; mokslingasis
+    ponas Foi'gtas** baigia išleisti paskutinius pilnos tos
+    pačios istorijos tomus, kurių bus astuoni; šis visiškai už­
+    baigtas veikalas savo verte pranoksta visus lig tol žino­
+    mus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­
+    nikomis, o jie yra iš visur sukaupti Karaliaučiuje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -3046,7 +3209,15 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     užleidę, ėmė vartoti naujus“. Tas, kuris mums išsakė priekaištą,
     jog mes lietuvius apdovanojome herbais jau tais laikais, kai dar
     niekur jie nebuvo žinomi, pasakė nesąmonę.
-  citata_rodoma: "Be to, pas Henenbergerj\nyra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­\nnimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo\ntrečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo\nLietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su\nkryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­\nteikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­\nliotekos."
+  citata_rodoma: |
+    Be to, pas Henenbergerj
+    yra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­
+    nimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo
+    trečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo
+    Lietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su
+    kryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­
+    teikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­
+    liotekos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -3085,7 +3256,14 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     kurią
     tik valiojo pasiekti jų stai­
     gus įsiūtis.
-  citata_rodoma: "Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­\nčionybės ir sutartu laiku, prieš pat šv. Motiejaus die­\nną, visame krašte išgriovė bažnyčias, o kunigus, ku-\nnių valdovai nutarė sutelkti visas savo jėgas ir atremti\nlaukinių siautėjimą."
+  citata_rodoma: |
+    Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­
+    čionybės ir sutartu laiku, prieš pat šv. Motiejaus die­
+    ną, visame krašte išgriovė bažnyčias, o kunigus, ku-
+    nių valdovai nutarė sutelkti visas savo jėgas ir atremti
+    laukinių siautėjimą.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -3126,7 +3304,24 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     kauja visiškai nesirūpindamas apsauga, tai, kariškai
     staiga susirikiavę, iššoko iš miškų ir užpuolė grobio
     ieškotojus, juos žudydami.
-  citata_rodoma: "Tuo metu kryžiuočių riterių magistras\nbuvo Henrikas: jis pirmiausia atnaujino santarvę su\nGermantu, reikalaudamas, kad šis prisiektų, jog lietu­\nviai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios\npriežasties valdovas neleido viešai teikti prūsams ko­\nkios pagalbos prieš kryžiuo­\nčius, tačiau nieko negalėjo\npadaryti, kad slapta į Prūsi­\nją nežygiuotų Žemaitijoje su­\ntelkta kariuomenė, remiama\natskirų asmenų, tiesa, pavie­\nniais būriais, be kovos ženklų. Nusiaubę Kulmo kraš­\ntą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­\ngalbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­\nsomis jėgomis ėmus juos pulti, neišdrįso atvirai pra­\ndėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir\ngurguoles, išsislapstė artimiausiuose miškuose."
+  citata_rodoma: |
+    Tuo metu kryžiuočių riterių magistras
+    buvo Henrikas: jis pirmiausia atnaujino santarvę su
+    Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
+    viai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų. Nusiaubę Kulmo kraš­
+    tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­
+    galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­
+    somis jėgomis ėmus juos pulti, neišdrįso atvirai pra­
+    dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir
+    gurguoles, išsislapstė artimiausiuose miškuose.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -3210,7 +3405,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     traukti prieš lietuvius ir iš
     magistro išprašė karių; jis
     slapta nuvedė siaurais miškų
-  citata_rodoma: "Tuo tarpu keletas kitų lietuvių būrių\nniokojo Lenkijos pasienius, grįždami jie pateko į prie­\nšų pasalas, ir tuo metu, kai namai, regis, buvo ranka\npasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­\ntyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,\nkurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,\nvildamiesi, jog už naują išdavystę kryžiuočiai jiems\natleis jų ankstesnį nusikaltimą. Kitų metų pradžioje\nlietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­\nvo tokie blogi kaip anuomet."
+  citata_rodoma: |
+    Tuo tarpu keletas kitų lietuvių būrių
+    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
+    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
+    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
+    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
+    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
+    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
+    atleis jų ankstesnį nusikaltimą. Kitų metų pradžioje
+    lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
+    vo tokie blogi kaip anuomet.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -3375,7 +3580,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     valandų. Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
     ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,
     pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje.
-  citata_rodoma: "Pagal seną paprotį, kurį\nprūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną\nlaiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam\ntikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama\nelgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada\ntinkami."
+  citata_rodoma: |
+    Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama
+    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
+    tinkami.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -3510,7 +3721,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
     išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
-  citata_rodoma: "Šitaip sutriuškintas Sventopelkas, praradęs visą karinę galią, \nbematant aprimo.\n66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių\nKai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės \nnaujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma, \nnei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda. \nDėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos \nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, \nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl, \nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."
+  citata_rodoma: |
+    Šitaip sutriuškintas Sventopelkas, praradęs visą karinę galią,
+    bematant aprimo.
+    66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
+    Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės
+    naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
+    nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
+    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
+    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
+    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
+    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -3594,7 +3815,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     viliojo į dvikovą, kol galop, nutykoję progą, nužudė. Taip pat buvęs jų nužudytas dar
     vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties
     prūsai labai džiūgavo, o broliai sielvartavo.
-  citata_rodoma: "Pastebėjęs \ndidelį priešų būrį, staiga iššokusį iš pasalų, jis nukovė savo iššaukėją, paspruko į mišką \nir slaptais keliais sugrįžo į Bartenšteino pilį. Šitokiais bei panašiais būdais [prūsai] jį ilgai \nviliojo į dvikovą, kol galop, nutykoję progą, nužudė. Taip pat buvęs jų nužudytas dar \nvienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties \nprūsai labai džiūgavo, o broliai sielvartavo."
+  citata_rodoma: |
+    Pastebėjęs
+    didelį priešų būrį, staiga iššokusį iš pasalų, jis nukovė savo iššaukėją, paspruko į mišką
+    ir slaptais keliais sugrįžo į Bartenšteino pilį. Šitokiais bei panašiais būdais [prūsai] jį ilgai
+    viliojo į dvikovą, kol galop, nutykoję progą, nužudė. Taip pat buvęs jų nužudytas dar
+    vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties
+    prūsai labai džiūgavo, o broliai sielvartavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -3657,7 +3884,14 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
     tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
     rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
-  citata_rodoma: "122 (117). Apie Vėluvos pilies puolimą\n\n  Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai\nsu viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias\ndienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į\nkovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų\nbei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius."
+  citata_rodoma: |
+    122 (117). Apie Vėluvos pilies puolimą
+
+      Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
+    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
+    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -3682,7 +3916,16 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
     430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
     Osos, deš. upės krante, tarp dab.
-  citata_rodoma: "Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį\n\n  Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui\nbei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,\npažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras\nsušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų\nkariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė\nžmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo\nvardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių."
+  citata_rodoma: |
+    Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
+
+      Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui
+    bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,
+    pažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras
+    sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
+    kariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė
+    žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo
+    vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -3766,7 +4009,15 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     Praurimė (Praurime)
     Šventosios ugnies deivė, viena seniausių senojo pasaulio
     dievybių.
-  citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną. Iš istorijos žinoma, kad senovės prūsai turėjo\nTrejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­\nvų tarpą."
+  citata_rodoma: |
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną. Iš istorijos žinoma, kad senovės prūsai turėjo
+    Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­
+    vų tarpą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3792,7 +4043,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
     atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
     mis augdami ant medžių, užauga sieto dydžio.
-  citata_rodoma: "Jų gydomasis poveikis žinomas visiems\nkaimiečiams.\nĄŽUOLAS, Užuotas. Labiausiai išprususi lietuvių genties\ntauta -  senovės prūsai savo šventyklas turėdavo po šiuo me- 9\n9\nŠitaip tą medį vadina čionykščiai kaimiečiai."
+  citata_rodoma: |
+    Jų gydomasis poveikis žinomas visiems
+    kaimiečiams.
+    ĄŽUOLAS, Užuotas. Labiausiai išprususi lietuvių genties
+    tauta -  senovės prūsai savo šventyklas turėdavo po šiuo me- 9
+    9
+    Šitaip tą medį vadina čionykščiai kaimiečiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3866,7 +4123,14 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     atsižvelgiant į galimą atsiradimą įrodymų, patvirtinančių kro­
     nikoje teigiamus dalykus, idant nepasirodytum toks kaip švento
     atminimo Lėrbergas su tariamo Šiaurės popiežiaus išradimu.
-  citata_rodoma: "Būtų labai apsirikta manant, jog šitos sutarties tikslas\nbuvo visiškai sunaikinti tuometinę senovinę stabmeldišką tau­\ntos būtį, o vietoj jos įvesti krikščionišką gyvenimą. Iš tos seno­\nviškos būties jau daug buvo sunaikinta ir išstumta, kai atsira­\ndo sutartis tarp prūsų tautos ir kryžiuočių. Kai tik ordinas už­\nkariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­\nkių."
+  citata_rodoma: |
+    Būtų labai apsirikta manant, jog šitos sutarties tikslas
+    buvo visiškai sunaikinti tuometinę senovinę stabmeldišką tau­
+    tos būtį, o vietoj jos įvesti krikščionišką gyvenimą. Iš tos seno­
+    viškos būties jau daug buvo sunaikinta ir išstumta, kai atsira­
+    do sutartis tarp prūsų tautos ir kryžiuočių. Kai tik ordinas už­
+    kariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­
+    kių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

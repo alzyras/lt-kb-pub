@@ -95,7 +95,19 @@ media_all_json: |-
     lių stebėjo ugnimi siaubiamas apygardas; negalėdami
     nei klasta, nei jėga nukreipti šios audros į šalį, jie ry­
     žosi galop pristabdyti ją, prašydami paliaubų.
-  citata_rodoma: "Niekur\nnesuėjo į atvirą kovą, nes priešas spruko už tvirtovių\nsienų, čia stengdamasis išgelbėti gyvybę ir likusią man­\ntą, ir lietuviai vedėsi kariuomenę nieko netrukdomi.\nTik Įsruties komtūras Eberhardas Sorcas su trimis šim­\ntais raitelių ir penkiais šimtais pėstininkų, kuriuos ve­\ndėsi iš Saksonijos papildyti Karaliaučiaus įgulai, buvo\nžygio metu užpultas, priverstas stoti į kovą ir sunai­\nkintas. Visos žemės tarp Karaliaučiaus, Baltijos įlan­\nkos, Elbingo, Marienburgo, Elsbergo, visa Semba, No-\ntanga, Varmė ir dalis Pamedės degė nelyginant vienas\nlaužas, virsdamos pelenais ir dūmais."
+  citata_rodoma: |
+    Niekur
+    nesuėjo į atvirą kovą, nes priešas spruko už tvirtovių
+    sienų, čia stengdamasis išgelbėti gyvybę ir likusią man­
+    tą, ir lietuviai vedėsi kariuomenę nieko netrukdomi.
+    Tik Įsruties komtūras Eberhardas Sorcas su trimis šim­
+    tais raitelių ir penkiais šimtais pėstininkų, kuriuos ve­
+    dėsi iš Saksonijos papildyti Karaliaučiaus įgulai, buvo
+    žygio metu užpultas, priverstas stoti į kovą ir sunai­
+    kintas. Visos žemės tarp Karaliaučiaus, Baltijos įlan­
+    kos, Elbingo, Marienburgo, Elsbergo, visa Semba, No-
+    tanga, Varmė ir dalis Pamedės degė nelyginant vienas
+    laužas, virsdamos pelenais ir dūmais.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

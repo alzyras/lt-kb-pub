@@ -168,7 +168,11 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio
     18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,
     laikydamasi Rusijos nedalomumo principo.
-  citata_rodoma: "Lietuvai paprašius Antantės demarkuoti lini-\nją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio\n18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,\nlaikydamasi Rusijos nedalomumo principo."
+  citata_rodoma: |
+    Lietuvai paprašius Antantės demarkuoti lini-
+    ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio
+    18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,
+    laikydamasi Rusijos nedalomumo principo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +195,11 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
     džiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
     sių“ daliniai.
-  citata_rodoma: "Pagal klastingą J. Pilsudskio sumanymą\nmiestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-\ndžiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-\nsių“ daliniai."
+  citata_rodoma: |
+    Pagal klastingą J. Pilsudskio sumanymą
+    miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
+    džiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
+    sių“ daliniai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -213,7 +221,13 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     Maskvą, S. Žolkievskis. Po šio
     pralaimėjimo kilo grėsmė, kad
     Turkija gali įsiveržti į Lenkiją.
-  citata_rodoma: "Lenkijos kariuomenė buvo\nsunaikinta, žuvo pats didysis karū-\nnos etmonas, kadaise užėmęs\nMaskvą, S. Žolkievskis. Po šio\npralaimėjimo kilo grėsmė, kad\nTurkija gali įsiveržti į Lenkiją."
+  citata_rodoma: |
+    Lenkijos kariuomenė buvo
+    sunaikinta, žuvo pats didysis karū-
+    nos etmonas, kadaise užėmęs
+    Maskvą, S. Žolkievskis. Po šio
+    pralaimėjimo kilo grėsmė, kad
+    Turkija gali įsiveržti į Lenkiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

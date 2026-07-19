@@ -92,7 +92,14 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
     jungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­
     perijos miestams, vėliau jiems leido dalyvauti imperijos valdy­
     me ir padarė juos galingus ir savarankiškus.
-  citata_rodoma: "Vokietijos impera­\ntoriai silpni, nes renkami, tad siekdami galios prieš bajoriją ir \ngalingą dvasininkiją, jie miestams teikė globą ir vis didesnes \nprivilegijas; savo ruožtu, šie nesiliovė buvę tikrais imperijos są­\njungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­\nperijos miestams, vėliau jiems leido dalyvauti imperijos valdy­\nme ir padarė juos galingus ir savarankiškus."
+  citata_rodoma: |
+    Vokietijos impera­
+    toriai silpni, nes renkami, tad siekdami galios prieš bajoriją ir
+    galingą dvasininkiją, jie miestams teikė globą ir vis didesnes
+    privilegijas; savo ruožtu, šie nesiliovė buvę tikrais imperijos są­
+    jungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­
+    perijos miestams, vėliau jiems leido dalyvauti imperijos valdy­
+    me ir padarė juos galingus ir savarankiškus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

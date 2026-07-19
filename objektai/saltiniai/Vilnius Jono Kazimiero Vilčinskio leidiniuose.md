@@ -84,7 +84,9 @@ Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.
     Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
     muziejus 2000 m. kovas – rugsėjis. Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio
     leidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000; Žemaičių muziejus Alka.
-  citata_rodoma: "Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio\nleidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000; Žemaičių muziejus Alka."
+  citata_rodoma: |
+    Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio
+    leidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000; Žemaičių muziejus Alka.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

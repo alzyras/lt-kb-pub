@@ -274,7 +274,17 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     sų k. išvertus reiškia - Keturiasdešim­
     ties Totorių kaimas. Apie tai yra rašęs
     Mykolas L i e t u v i s, p. 28.
-  citata_rodoma: "63\nTolesniuose mūsų istorijos pasakoji­\nmuose plačiau išdėstysime apie tą to­\ntorių gyvenamą miesto dalį; prie Vo­\nkės, be kitų totorių, buvo apsigyvenę \n40 brolių, todėl iki šios dienos ta gy­\nvenvietė vadinama Sorok Tatary, iš ru­\nsų k. išvertus reiškia - Keturiasdešim­\nties Totorių kaimas. Apie tai yra rašęs \nMykolas L i e t u v i s, p. 28."
+  citata_rodoma: |
+    63
+    Tolesniuose mūsų istorijos pasakoji­
+    muose plačiau išdėstysime apie tą to­
+    torių gyvenamą miesto dalį; prie Vo­
+    kės, be kitų totorių, buvo apsigyvenę
+    40 brolių, todėl iki šios dienos ta gy­
+    venvietė vadinama Sorok Tatary, iš ru­
+    sų k. išvertus reiškia - Keturiasdešim­
+    ties Totorių kaimas. Apie tai yra rašęs
+    Mykolas L i e t u v i s, p. 28.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -326,7 +336,14 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     vėliavos. (Kaip liudija Mykolas Lietuvis,
     jos su kitomis čia saugotomis sudegė per
     1530 m. gaisrą).
-  citata_rodoma: "Čia, valdovui grįžus, įvyko\ntriumfo iškilmės, eisenoje buvo vedami\nbelaisviai Maskvos karvedžiai ir kariai,\nVilniaus katedroje pakabintos trofėjinės\nvėliavos. (Kaip liudija Mykolas Lietuvis,\njos su kitomis čia saugotomis sudegė per\n1530 m. gaisrą)."
+  citata_rodoma: |
+    Čia, valdovui grįžus, įvyko
+    triumfo iškilmės, eisenoje buvo vedami
+    belaisviai Maskvos karvedžiai ir kariai,
+    Vilniaus katedroje pakabintos trofėjinės
+    vėliavos. (Kaip liudija Mykolas Lietuvis,
+    jos su kitomis čia saugotomis sudegė per
+    1530 m. gaisrą).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -371,7 +388,13 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
     no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
     tęsėsi iki pat pilies, dabar virtusios griuvėsiais.
-  citata_rodoma: "Stenderis savo lat­\nvių mitologijoje prisimena, kad pats buvęs panašių, Auskučio\nsukeltų, neramumų liudytojas.\nGarbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­\nkoja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­\nmas išliko kaip žalčių laikymas1."
+  citata_rodoma: |
+    Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

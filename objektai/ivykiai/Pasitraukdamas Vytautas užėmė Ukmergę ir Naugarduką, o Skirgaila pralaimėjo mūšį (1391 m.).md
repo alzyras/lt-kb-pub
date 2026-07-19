@@ -132,7 +132,24 @@ Nenurodyta
     a p su p im ą
     apsupimą ir išvyko link Prū­
     sijos.
-  citata_rodoma: "Porą kartų pa- \nPuola, \np a tird a m a s \nbandė visomis jėgomis pulti \nnuostolių \npilis ir abu kartus buvo at­\nstumti su nuostoliais. Tuo \nmetu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­\nrėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat \ngandai nepaprastai padidino Skirgailos jėgas, gal, žlu­\ngus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal \ndėl kitų sumetimų Vytautas vos išgirdęs, jog artėja\nSkirgaila, skubiai nutraukė \nN u tra u k ia \na p su p im ą \napsupimą ir išvyko link Prū­\nsijos."
+  citata_rodoma: |
+    Porą kartų pa-
+    Puola,
+    p a tird a m a s
+    bandė visomis jėgomis pulti
+    nuostolių
+    pilis ir abu kartus buvo at­
+    stumti su nuostoliais. Tuo
+    metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­
+    rėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat
+    gandai nepaprastai padidino Skirgailos jėgas, gal, žlu­
+    gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal
+    dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja
+    Skirgaila, skubiai nutraukė
+    N u tra u k ia
+    a p su p im ą
+    apsupimą ir išvyko link Prū­
+    sijos.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

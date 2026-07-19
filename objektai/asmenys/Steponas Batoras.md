@@ -751,7 +751,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     rūpesčio su kazokais turėjo vieni lenkai. Buvo galvota juos
     paversti pasienio kariuomene, duoti jiems vadą ir mokėti algas.
     Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą.
-  citata_rodoma: "Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą."
+  citata_rodoma: |
+    Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -784,7 +785,11 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     gusto įsteigta patrankų liejykla Vilniuje vėliau rūpinosi ir S. Batoras, čia pagamintus pabūklus jis plačiai naudojo karuose su Maskva
 
     1581 m. liepa-spalis K. RADVILOS PERKŪNO REIDAS 95
-  citata_rodoma: "Žygimanto Au-\ngusto įsteigta patrankų liejykla Vilniuje vėliau rūpinosi ir S. Batoras, čia pagamintus pabūklus jis plačiai naudojo karuose su Maskva\n\n1581 m."
+  citata_rodoma: |
+    Žygimanto Au-
+    gusto įsteigta patrankų liejykla Vilniuje vėliau rūpinosi ir S. Batoras, čia pagamintus pabūklus jis plačiai naudojo karuose su Maskva
+
+    1581 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -841,7 +846,20 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     Be kitų knygų, šioje spaustuvėje bu- vėje po to, kai buvo atiduota jėzui-
     vo išleistas rašinys Apie mylimą va- tams.
     sąrą.
-  citata_rodoma: "Šis vyskupo žingsnis 1581 metais padrąsino \nviešosios rimties drumstėjus atvirai užpulti reformatų mal­\ndos namus ir jų spaustuvę, buvusią Danieliaus Lenčickio \nžinioje. Bet teisingas ir santūrus Steponas Batoras sugebė­\njo skubiai nutraukti neleistinus ketinimus. Rūsčiai išbarė \nuž šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir \niš stovyklos parašė aną atmintiną laišką, kuriame pareiš­\nkė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę, \nnegalėjęs nebausdamas leisti, kad dėl tos priežasties būtų \nsudrumsta taika krašte ir kad kiekvieno sąžinę paliekąs Die-\n64\nBe kitų knygų, šioje spaustuvėje bu- vėje po to, kai buvo atiduota jėzui-\nvo išleistas rašinys Apie mylimą va- tams."
+  citata_rodoma: |
+    Šis vyskupo žingsnis 1581 metais padrąsino
+    viešosios rimties drumstėjus atvirai užpulti reformatų mal­
+    dos namus ir jų spaustuvę, buvusią Danieliaus Lenčickio
+    žinioje. Bet teisingas ir santūrus Steponas Batoras sugebė­
+    jo skubiai nutraukti neleistinus ketinimus. Rūsčiai išbarė
+    už šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir
+    iš stovyklos parašė aną atmintiną laišką, kuriame pareiš­
+    kė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę,
+    negalėjęs nebausdamas leisti, kad dėl tos priežasties būtų
+    sudrumsta taika krašte ir kad kiekvieno sąžinę paliekąs Die-
+    64
+    Be kitų knygų, šioje spaustuvėje bu- vėje po to, kai buvo atiduota jėzui-
+    vo išleistas rašinys Apie mylimą va- tams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -880,7 +898,29 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­
     to tarybos, prie jo esančios ir žinančios skubiausiai
     tvarkytinus Respublikos reikalus, sutikimu.
-  citata_rodoma: "Karalius ŽYGIMANTAS AUGUSTAS\n\n## Puslapis 344\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nVII\nDVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,\nRAŠYTŲ RADVILOMS, TURINYS:\nAPIE MUITUS IR MOKESČIUS\nVILNIAUS PIRKLIAMS IR MIESTIEČIAMS\nAutentiškų karaliaus Stepono laiškų, rašytų Radviloms,\nrinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra\ndu laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai\nir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­\njant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­\nstatyto muito mokesčio.\nViename tų laiškų, rašytame iš Marienburgo 1576 metų\nrugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­\ntuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­\nlius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­\nto tarybos, prie jo esančios ir žinančios skubiausiai\ntvarkytinus Respublikos reikalus, sutikimu."
+  citata_rodoma: |
+    Karalius ŽYGIMANTAS AUGUSTAS
+
+    ## Puslapis 344
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    VII
+    DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,
+    RAŠYTŲ RADVILOMS, TURINYS:
+    APIE MUITUS IR MOKESČIUS
+    VILNIAUS PIRKLIAMS IR MIESTIEČIAMS
+    Autentiškų karaliaus Stepono laiškų, rašytų Radviloms,
+    rinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra
+    du laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai
+    ir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­
+    jant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­
+    statyto muito mokesčio.
+    Viename tų laiškų, rašytame iš Marienburgo 1576 metų
+    rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­
+    tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­
+    lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­
+    to tarybos, prie jo esančios ir žinančios skubiausiai
+    tvarkytinus Respublikos reikalus, sutikimu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1021,7 +1061,17 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     ir nesileisti pavergiama Prūsijos Kryžiuočių Ordino godžių gro­
     bikų"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono
     Batoro valdymo metais 1586 m.
-  citata_rodoma: "Vilniaus miesto istorijos pratarmėje istorikas rašė: „Mums \npatiems mažai pažįstami, Europai visai nežinomi istorijos įvy­\nkiai, riterių žygiais ir sumaniausia Mindaugo, Gedimino, Al­\ngirdo, Kęstučio, Jogailos ir Vytauto politika garsūs, politika Tau­\ntos, mažame plote išsitenkančios, kuri pati viena, savo pagonybėj \nužsisklendusi nuo kitų Europos šalių, įstengė vien savo pačios \ništverme atremti baisius mongolų antpuolius, užvaldyti Rusią \nir nesileisti pavergiama Prūsijos Kryžiuočių Ordino godžių gro­\nbikų\"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono \nBatoro valdymo metais 1586 m."
+  citata_rodoma: |
+    Vilniaus miesto istorijos pratarmėje istorikas rašė: „Mums
+    patiems mažai pažįstami, Europai visai nežinomi istorijos įvy­
+    kiai, riterių žygiais ir sumaniausia Mindaugo, Gedimino, Al­
+    girdo, Kęstučio, Jogailos ir Vytauto politika garsūs, politika Tau­
+    tos, mažame plote išsitenkančios, kuri pati viena, savo pagonybėj
+    užsisklendusi nuo kitų Europos šalių, įstengė vien savo pačios
+    ištverme atremti baisius mongolų antpuolius, užvaldyti Rusią
+    ir nesileisti pavergiama Prūsijos Kryžiuočių Ordino godžių gro­
+    bikų"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono
+    Batoro valdymo metais 1586 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1053,7 +1103,26 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­
     laširdingą! prašome, kad laikytų verta prisiimti į savo globą
     ir gynybą pačią Vilniaus seminariją.
-  citata_rodoma: "Gregorii\n430\n\n## Puslapis 447\n\nIV KNYGA\nrūpestingai perduodame ir labai prašome vardan Jėzaus \nKristaus širdies gailestingumo, kad kuo labiausiai pasisteng­\ntų atlikti šį puikų darbą, būtų palankūs, padėtų ir ne tik rū­\npintųsi turtu ir nuosavybe, bet ir prie tikslo įgyvendinimo \nkuo nors prisidėtų, kad būtų pamaitintas kasdien didėjan­\ntis klierikų skaičius ir visagalio Dievo šlovei ir garbei bei \nRomos katalikiškojo tikėjimo kultui ir amžinam jo stiprėji­\nmui šioje mūsų diecezijoje daugėtų kunigų. O kadangi no­\nrime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų \nir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir \nkatalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­\nlaširdingą! prašome, kad laikytų verta prisiimti į savo globą \nir gynybą pačią Vilniaus seminariją."
+  citata_rodoma: |
+    Gregorii
+    430
+
+    ## Puslapis 447
+
+    IV KNYGA
+    rūpestingai perduodame ir labai prašome vardan Jėzaus
+    Kristaus širdies gailestingumo, kad kuo labiausiai pasisteng­
+    tų atlikti šį puikų darbą, būtų palankūs, padėtų ir ne tik rū­
+    pintųsi turtu ir nuosavybe, bet ir prie tikslo įgyvendinimo
+    kuo nors prisidėtų, kad būtų pamaitintas kasdien didėjan­
+    tis klierikų skaičius ir visagalio Dievo šlovei ir garbei bei
+    Romos katalikiškojo tikėjimo kultui ir amžinam jo stiprėji­
+    mui šioje mūsų diecezijoje daugėtų kunigų. O kadangi no­
+    rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų
+    ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir
+    katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­
+    laširdingą! prašome, kad laikytų verta prisiimti į savo globą
+    ir gynybą pačią Vilniaus seminariją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1187,7 +1256,18 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     versiteto – kūrimu. Aišku, aukštosios mokyklos poreikis brendo visuo-
     menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
     reformacijos konkurencija.
-  citata_rodoma: "sutriuškina Maskvos kariuomenę \nprie Oršos\n\nL I E T U V O S  I S T O R I J A\n78\nVilniaus universitetas\nSakoma: aidint patrankoms, mūzos tyli. Tačiau Steponas \nBatoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus uni-\nversiteto – kūrimu. Aišku, aukštosios mokyklos poreikis brendo visuo-\nmenėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-\nreformacijos konkurencija."
+  citata_rodoma: |
+    sutriuškina Maskvos kariuomenę
+    prie Oršos
+
+    L I E T U V O S  I S T O R I J A
+    78
+    Vilniaus universitetas
+    Sakoma: aidint patrankoms, mūzos tyli. Tačiau Steponas
+    Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus uni-
+    versiteto – kūrimu. Aišku, aukštosios mokyklos poreikis brendo visuo-
+    menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
+    reformacijos konkurencija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1218,7 +1298,21 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     mosi į Rusijos žemes, ką
 
     Žygimanto Augusto patrankų liejyklose (greičiausiai liejykloje Vilniuje) nulieta patranka Hidra.
-  citata_rodoma: "Tokiomis aplinkybėmis laus varianto ir nebeplėtoti Kitos Batoro kampanijų metu užgrobtos\nIvanas IV suvokė, kad teks galimo tolimesnio verži- rusų teritorijos (Didieji Lukai, Zavoločė,\n\nSebežas, Nevelis, Voronežas) buvo sugrą-\nžintos Rusijai.\n\nKaraliaus Stepono Batoro surengtos\nkampanijos leido laimėti Livonijos karą ir\nilgam laikui pašalinti Rusijos pavojų bei\natkurti pusiausvyrą regione.\n\nmosi į Rusijos žemes, ką\n\nŽygimanto Augusto patrankų liejyklose (greičiausiai liejykloje Vilniuje) nulieta patranka Hidra."
+  citata_rodoma: |
+    Tokiomis aplinkybėmis laus varianto ir nebeplėtoti Kitos Batoro kampanijų metu užgrobtos
+    Ivanas IV suvokė, kad teks galimo tolimesnio verži- rusų teritorijos (Didieji Lukai, Zavoločė,
+
+    Sebežas, Nevelis, Voronežas) buvo sugrą-
+    žintos Rusijai.
+
+    Karaliaus Stepono Batoro surengtos
+    kampanijos leido laimėti Livonijos karą ir
+    ilgam laikui pašalinti Rusijos pavojų bei
+    atkurti pusiausvyrą regione.
+
+    mosi į Rusijos žemes, ką
+
+    Žygimanto Augusto patrankų liejyklose (greičiausiai liejykloje Vilniuje) nulieta patranka Hidra.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1247,7 +1341,19 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     KNYGOS
     PABAIGA
     yra visiškai klaidinga.
-  citata_rodoma: "Miestiečių luomas,\ndviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­\nliečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­\nmenyje neteko tokio globėjo, kokiu paskui netapo nė vienas\niš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­\ngaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,\npanoro ne tik pripažinti jam senąjį įžymumą, bet padaryti\ndar ir naujų, amžiui priderančių, laisvių dalyviu72.\nIV\nKNYGOS\nPABAIGA\nyra visiškai klaidinga."
+  citata_rodoma: |
+    Miestiečių luomas,
+    dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­
+    liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­
+    menyje neteko tokio globėjo, kokiu paskui netapo nė vienas
+    iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­
+    gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
+    panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
+    dar ir naujų, amžiui priderančių, laisvių dalyviu72.
+    IV
+    KNYGOS
+    PABAIGA
+    yra visiškai klaidinga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1272,7 +1378,10 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     bikų"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono
     Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi.
-  citata_rodoma: "M. Balinskis miesto istorinę apžvalgą užbaigia Stepono\nBatoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­\nma 1430 m."
+  citata_rodoma: |
+    M. Balinskis miesto istorinę apžvalgą užbaigia Stepono
+    Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
+    ma 1430 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1322,7 +1431,22 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     išaugęs pavojus vertė sudaryti Liublino
     uniją (1569 m.) su Lenkija Lietuvai
     nepalankiomis sąlygomis.
-  citata_rodoma: "Knyga įpareigoja šios dienos Lietuvos karius suprasti, ko-\nkios reikšmės atsakomybė jiems patikėta, kokia reikalinga\n\nyra kariuomenė, kaip svarbu ją kurti konkretiems ateities\n\niššūkiams, kad esant reikalui mūšio lauke jie tinkamai at-\nliktų savo pareigą.\n\nLietuvos ir Lenkijos valdovo Stepono Batoro pa-\nradinis kalavijas, pagamintas pergalingoms Lietuvių ir jų\nsąjungininkų kampanijoms Maskvos žemėse Livonijos karo\nmetu (1558-1582) atminti. Šiame kare Lietuva sugebėjo\natremti sustiprėjusios Maskvos ekspansiją, tačiau\nišaugęs pavojus vertė sudaryti Liublino\nuniją (1569 m."
+  citata_rodoma: |
+    Knyga įpareigoja šios dienos Lietuvos karius suprasti, ko-
+    kios reikšmės atsakomybė jiems patikėta, kokia reikalinga
+
+    yra kariuomenė, kaip svarbu ją kurti konkretiems ateities
+
+    iššūkiams, kad esant reikalui mūšio lauke jie tinkamai at-
+    liktų savo pareigą.
+
+    Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
+    radinis kalavijas, pagamintas pergalingoms Lietuvių ir jų
+    sąjungininkų kampanijoms Maskvos žemėse Livonijos karo
+    metu (1558-1582) atminti. Šiame kare Lietuva sugebėjo
+    atremti sustiprėjusios Maskvos ekspansiją, tačiau
+    išaugęs pavojus vertė sudaryti Liublino
+    uniją (1569 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1349,7 +1473,18 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­
     demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
     skyrė.
-  citata_rodoma: "Vilniaus vyskupas Valerijonas Pro- \ntasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun- \ndavo ir įsteigė įvairių mokslų viešąsias mokyklas.\n1578 metais Karalius Steponas Batoras, šias funduotas mo­\nkyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­\nmijoms, o išskirtinai Krokuvos, prilygino. Profesorius ir stu­\ndentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei \njurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­\ndė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­\ndemijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­\nskyrė."
+  citata_rodoma: |
+    Vilniaus vyskupas Valerijonas Pro-
+    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
+    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
+    1578 metais Karalius Steponas Batoras, šias funduotas mo­
+    kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
+    mijoms, o išskirtinai Krokuvos, prilygino. Profesorius ir stu­
+    dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei
+    jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­
+    dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­
+    demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
+    skyrė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1385,7 +1520,12 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     ną) Vilnių, o ir visą šalį didžiai nuliūdino. Jo gailėjo net patys
     žinomame veikale Bibliograficznych
     Ksiąg dwoje, išleist.
-  citata_rodoma: "Ankstyva ir netikėta\nStepono Batoro mirtis Gardine (1586 metų gruodžio 12 die­\nną) Vilnių, o ir visą šalį didžiai nuliūdino. Jo gailėjo net patys\nžinomame veikale Bibliograficznych\nKsiąg dwoje, išleist."
+  citata_rodoma: |
+    Ankstyva ir netikėta
+    Stepono Batoro mirtis Gardine (1586 metų gruodžio 12 die­
+    ną) Vilnių, o ir visą šalį didžiai nuliūdino. Jo gailėjo net patys
+    žinomame veikale Bibliograficznych
+    Ksiąg dwoje, išleist.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1435,7 +1575,43 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     pardavinėdavo įvairias prekes, be
     priežasties sužalojo pirklius ir atėmė
     daug prekių.
-  citata_rodoma: "67\nBe karaliaus Stepono laiškų, rašytų\ndėl kalendorinių ginčų, Dubins-\nk i o išspausdintų „Vilniaus miesto\nprivilegijų rinkinyje\", p. 149 ir 150,\ndar miesto archyve yra reliacinis ka­\nraliaus Stepono sprendimas: Decre­\ntum relationum Stephani Regis Polo-\nniae inter nonnullos mercatores\nvilnenses et advocatum Vilnensem ex\nseriis partium controversiis anno 1586\ndie 11 Julii latum, quo festa solemnia\njuxta novum calendarium ab omnibus\nincolis civitatis vilnensis in ea qua par\nest reverentia haberi demandantur [Re­\nliacinis Lenkijos karaliaus Stepono\nsprendimas dėl tarp kai kurių Vil­\nniaus pirklių ir Vilniaus vaito šalių\nrimtų prieštaravimų, išleistas 1586\nmetų liepos 11 dieną, kuriuo įpras­\ntas šventes pagal naują kalendorių\nįsakoma visiems Vilniaus gyvento­\njams su lygiai tokia pačia pagarba\nšvęsti]; jo turinys yra toks. Graikų ti­\nkėjimo Vilniaus pirkliai apskundė\nkaraliui Stanislovą Sabiną (Sabinus),\ndaktarą ir Vilniaus vaitą, dėl to, kad\njis, pažeisdamas pirkliams skirtas\nprivilegijas, balandžio 7 dieną, pir­\nmadienį, išsiuntė miesto sargybos\nviršininką (Praefectum Lictorum Civi­\ntatis Vilnensis) Jurgį Vižikovskį su\npadėjėjais į mėsines, kur nuo seno\npardavinėdavo įvairias prekes, be\npriežasties sužalojo pirklius ir atėmė\ndaug prekių."
+  citata_rodoma: |
+    67
+    Be karaliaus Stepono laiškų, rašytų
+    dėl kalendorinių ginčų, Dubins-
+    k i o išspausdintų „Vilniaus miesto
+    privilegijų rinkinyje", p. 149 ir 150,
+    dar miesto archyve yra reliacinis ka­
+    raliaus Stepono sprendimas: Decre­
+    tum relationum Stephani Regis Polo-
+    niae inter nonnullos mercatores
+    vilnenses et advocatum Vilnensem ex
+    seriis partium controversiis anno 1586
+    die 11 Julii latum, quo festa solemnia
+    juxta novum calendarium ab omnibus
+    incolis civitatis vilnensis in ea qua par
+    est reverentia haberi demandantur [Re­
+    liacinis Lenkijos karaliaus Stepono
+    sprendimas dėl tarp kai kurių Vil­
+    niaus pirklių ir Vilniaus vaito šalių
+    rimtų prieštaravimų, išleistas 1586
+    metų liepos 11 dieną, kuriuo įpras­
+    tas šventes pagal naują kalendorių
+    įsakoma visiems Vilniaus gyvento­
+    jams su lygiai tokia pačia pagarba
+    švęsti]; jo turinys yra toks. Graikų ti­
+    kėjimo Vilniaus pirkliai apskundė
+    karaliui Stanislovą Sabiną (Sabinus),
+    daktarą ir Vilniaus vaitą, dėl to, kad
+    jis, pažeisdamas pirkliams skirtas
+    privilegijas, balandžio 7 dieną, pir­
+    madienį, išsiuntė miesto sargybos
+    viršininką (Praefectum Lictorum Civi­
+    tatis Vilnensis) Jurgį Vižikovskį su
+    padėjėjais į mėsines, kur nuo seno
+    pardavinėdavo įvairias prekes, be
+    priežasties sužalojo pirklius ir atėmė
+    daug prekių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

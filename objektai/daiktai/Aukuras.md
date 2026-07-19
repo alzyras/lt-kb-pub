@@ -249,7 +249,12 @@ Nenurodyta
     išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
     Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
     ti ne visų Kęstučio vaikų motina.
-  citata_rodoma: "Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių\ntarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,\nišaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —\nVytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­\nti ne visų Kęstučio vaikų motina."
+  citata_rodoma: |
+    Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
+    tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
+    išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
+    Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
+    ti ne visų Kęstučio vaikų motina.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -318,7 +323,17 @@ Nenurodyta
     dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
     šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
     jokios statulos, net paties Heraklio.
-  citata_rodoma: "Aukurai, ragai (Roha)21 2\nSenovės žmonių aukurai -  tai tam tikro aukščio pakiles­\nnės vietos atviroje aikštėje, miškuose arba šventykloje, netu­\nrinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­\nvo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
+  citata_rodoma: |
+    Aukurai, ragai (Roha)21 2
+    Senovės žmonių aukurai -  tai tam tikro aukščio pakiles­
+    nės vietos atviroje aikštėje, miškuose arba šventykloje, netu­
+    rinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­
+    vo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -341,7 +356,12 @@ Nenurodyta
     Lietuvių stabų dievai, be abejo, turėjo būti daugiausia tos
     seniausios mados; daugumas dievų, deivių ir dievaičių net ne­
     turėjo jokių stabų.
-  citata_rodoma: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų\ndievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų\ndeivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo\nPerkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­\nlos“."
+  citata_rodoma: |
+    Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
+    dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų
+    deivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo
+    Perkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­
+    los“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

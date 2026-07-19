@@ -48,7 +48,6 @@ Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobh
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173300
 
 <a id="claim-t-197279"></a>
 - t-002
@@ -81,5 +80,4 @@ Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobh
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190417
     - t-197279

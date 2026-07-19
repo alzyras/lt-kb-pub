@@ -68,7 +68,10 @@ media_all_json: |-
     tapo šios rinktinės štabo viršininku. 1946 m. rug-
     pjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo
     1945 m. Žebenkšties rinktinės štabo viršininku.
-  citata_rodoma: "1946 m. rug-\npjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo\n1945 m. Žebenkšties rinktinės štabo viršininku."
+  citata_rodoma: |
+    1946 m. rug-
+    pjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo
+    1945 m. Žebenkšties rinktinės štabo viršininku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

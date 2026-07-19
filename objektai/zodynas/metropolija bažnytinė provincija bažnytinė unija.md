@@ -61,7 +61,8 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
-  citata_rodoma: "ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su"
+  citata_rodoma: |
+    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

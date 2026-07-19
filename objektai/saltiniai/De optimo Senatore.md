@@ -52,7 +52,7 @@ media_all_json: |-
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Žr. tarp dekretų.
+    tarp dekretų.
     60
     Laurynas Goslickis, pirmiausia ka­
     raliaus Stepono sekretorius, galiau­
@@ -64,7 +64,19 @@ media_all_json: |-
     Senatore", kuri buvo išversta net į
     anglų kalbą. Goslickio gyvenimą ap­
     rašė mokslininkas Ossoliński.
-  citata_rodoma: "tarp dekretų.\n60\nLaurynas Goslickis, pirmiausia ka­\nraliaus Stepono sekretorius, galiau­\nsiai Poznanės vyskupas, išgarsėjo \nypatingais sugebėjimais spręsti vie­\nšuosius reikalus bei įvairiose pasiun­\ntinybėse, bet labiausiai lotynų kalba \nparašęs puikią knygą „De optimo \nSenatore\", kuri buvo išversta net į \nanglų kalbą. Goslickio gyvenimą ap­\nrašė mokslininkas Ossoliński."
+  citata_rodoma: |
+    tarp dekretų.
+    60
+    Laurynas Goslickis, pirmiausia ka­
+    raliaus Stepono sekretorius, galiau­
+    siai Poznanės vyskupas, išgarsėjo
+    ypatingais sugebėjimais spręsti vie­
+    šuosius reikalus bei įvairiose pasiun­
+    tinybėse, bet labiausiai lotynų kalba
+    parašęs puikią knygą „De optimo
+    Senatore", kuri buvo išversta net į
+    anglų kalbą. Goslickio gyvenimą ap­
+    rašė mokslininkas Ossoliński.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

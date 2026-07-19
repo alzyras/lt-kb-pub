@@ -93,7 +93,16 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     važiavimai, vadinami
     generaliniais sei-
     meliais.
-  citata_rodoma: "Sudarant Liublino\nuniją, Lenkijoje, be sei-\nmelių, dar būdavo daro-\nmi dviejų jos provincijų\n— Didlenkių ir Mažlen-\nkių — atskiri astovų su-\nvažiavimai, vadinami\ngeneraliniais sei-\nmeliais."
+  citata_rodoma: |
+    Sudarant Liublino
+    uniją, Lenkijoje, be sei-
+    melių, dar būdavo daro-
+    mi dviejų jos provincijų
+    — Didlenkių ir Mažlen-
+    kių — atskiri astovų su-
+    važiavimai, vadinami
+    generaliniais sei-
+    meliais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

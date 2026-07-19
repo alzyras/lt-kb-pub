@@ -93,7 +93,15 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
     kol gyvas busiu »^236.
     Keršydamas už Traidenio puolimus, 1279 m. pavasariop Livo­
     nijos magistras Ernest von Rassburg suruošė didelį žygį Lietuvon.
-  citata_rodoma: "Po nepasise­\nkusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­\nšinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.\nVaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji\ntvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą,\nkol gyvas busiu »^236.\nKeršydamas už Traidenio puolimus, 1279 m. pavasariop Livo­\nnijos magistras Ernest von Rassburg suruošė didelį žygį Lietuvon."
+  citata_rodoma: |
+    Po nepasise­
+    kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
+    šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
+    Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji
+    tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą,
+    kol gyvas busiu »^236.
+    Keršydamas už Traidenio puolimus, 1279 m. pavasariop Livo­
+    nijos magistras Ernest von Rassburg suruošė didelį žygį Lietuvon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

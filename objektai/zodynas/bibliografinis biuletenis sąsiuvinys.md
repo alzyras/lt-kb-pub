@@ -64,7 +64,9 @@ media_all_json: |-
   citata_originali: |
     Danville, III., JAV). 1966 ir 1967 m. bibliogr. išleista kolektyvų dviem
     sąsiuv. kaip** **_Užsienio Lietuvių Spaudos Metraštis,_** **Čikaga 1967, 1968.
-  citata_rodoma: "1966 ir 1967 m. bibliogr. išleista kolektyvų dviem\nsąsiuv. kaip** **_Užsienio Lietuvių Spaudos Metraštis,_** **Čikaga 1967, 1968."
+  citata_rodoma: |
+    1966 ir 1967 m. bibliogr. išleista kolektyvų dviem
+    sąsiuv. kaip** **_Užsienio Lietuvių Spaudos Metraštis,_** **Čikaga 1967, 1968.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

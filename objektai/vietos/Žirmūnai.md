@@ -72,7 +72,8 @@ media_all_json: |-
     tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,
     sunaudojantys daug energijos šildymui daugiabučių gyvenamųjų namų
     rajonai tapo vienu ryškiausių sovietinės urbanizacijos ženklų.
-  citata_rodoma: "tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,"
+  citata_rodoma: |
+    tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

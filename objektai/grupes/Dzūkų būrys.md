@@ -63,7 +63,14 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
     tiniais stribais. Tuomet žuvo partizanas
     Jurgis Krušinskas, Juozas Remeikis-Lokys
     vėliau mirė nuo sužeidimų.
-  citata_rodoma: "Tų pačių metų\nliepos 13 d., grįždami iš žygio, Dzūkų būrio\npartizanai prie Žuvinto ežero susidūrė su\npasaloje laukusiais NKVD kareiviais ir vie-\ntiniais stribais. Tuomet žuvo partizanas\nJurgis Krušinskas, Juozas Remeikis-Lokys\nvėliau mirė nuo sužeidimų."
+  citata_rodoma: |
+    Tų pačių metų
+    liepos 13 d., grįždami iš žygio, Dzūkų būrio
+    partizanai prie Žuvinto ežero susidūrė su
+    pasaloje laukusiais NKVD kareiviais ir vie-
+    tiniais stribais. Tuomet žuvo partizanas
+    Jurgis Krušinskas, Juozas Remeikis-Lokys
+    vėliau mirė nuo sužeidimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

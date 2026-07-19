@@ -96,7 +96,11 @@ Nenurodyta
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
     Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
     nigaikštija.
-  citata_rodoma: "Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-\ntarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi \nLietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-\nnigaikštija."
+  citata_rodoma: |
+    Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
+    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
+    Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
+    nigaikštija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

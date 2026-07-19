@@ -115,7 +115,11 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
     toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
     Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
     sininko registrą bei kitus daiktus iš bernardinų.
-  citata_rodoma: "Po Vilniaus vyskupo koadju-\ntoriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)\nOlendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-\nsininko registrą bei kitus daiktus iš bernardinų."
+  citata_rodoma: |
+    Po Vilniaus vyskupo koadju-
+    toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
+    Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
+    sininko registrą bei kitus daiktus iš bernardinų.
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
   teiginio_tipas: faktas

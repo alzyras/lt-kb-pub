@@ -96,7 +96,14 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
     vadu, tais pačiais metais, 4
     po išdavystės, bolševikų
     apsuptas nusišovė.
-  citata_rodoma: "1952 m. Prisikėlimo;\napygarda vėl grąžinta į Kestucieg 3\napygardos sudėtį, Rytas\nvėl tapo P. Lukšio rinktinės\nvadu, tais pačiais metais, 4\npo išdavystės, bolševikų\napsuptas nusišovė."
+  citata_rodoma: |
+    1952 m. Prisikėlimo;
+    apygarda vėl grąžinta į Kestucieg 3
+    apygardos sudėtį, Rytas
+    vėl tapo P. Lukšio rinktinės
+    vadu, tais pačiais metais, 4
+    po išdavystės, bolševikų
+    apsuptas nusišovė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -120,7 +127,16 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
     zanų vadų susirinkimų vieta (čia
     1949 m. vasario 16 d. pasirašyta
     LLKS deklaracija).
-  citata_rodoma: "Prisikėlimo apygardoje buvo\natkurta P. Lukšio rinktinė (netrukus pervadinta į\nMaironio), joje J. Paliūnas užėmė svar-\nbias pareigas. Naujoji Prisikėlimo\napygarda dėl savo geografinės pa-\ndėties tapo visos Lietuvos parti-\nzanų vadų susirinkimų vieta (čia\n1949 m. vasario 16 d. pasirašyta\nLLKS deklaracija)."
+  citata_rodoma: |
+    Prisikėlimo apygardoje buvo
+    atkurta P. Lukšio rinktinė (netrukus pervadinta į
+    Maironio), joje J. Paliūnas užėmė svar-
+    bias pareigas. Naujoji Prisikėlimo
+    apygarda dėl savo geografinės pa-
+    dėties tapo visos Lietuvos parti-
+    zanų vadų susirinkimų vieta (čia
+    1949 m. vasario 16 d. pasirašyta
+    LLKS deklaracija).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

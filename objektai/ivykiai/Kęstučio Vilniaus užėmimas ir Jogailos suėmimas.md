@@ -166,7 +166,20 @@ Nenurodyta
     Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
     bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
     ir iždą, ir žirgyną, viską tą jis paėmė.
-  citata_rodoma: "Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­\ngų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­\nslėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu \nir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs \nturėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­\ndėti ir nuolatos galvojo tik, kaip mano tėvą ir mane \npatį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­\nsų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė \nir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­\nnių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį \nJogailą, ir jo brolius, ir jo motiną, ir jo visas žemes \nbei pilis jis paėmė taip pat į savo rankas; ir jo auksą, \nir iždą, ir žirgyną, viską tą jis paėmė."
+  citata_rodoma: |
+    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
+    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
+    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
+    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
+    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
+    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
+    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
+    sų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -198,7 +211,18 @@ Nenurodyta
     Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
     nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
     žygyje.
-  citata_rodoma: "Tačiau mūsų tėvas, vengdamas apie save piktų kal­\nbų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­\nžino jam visą jo tėvo dalį — Vitebską ir kitas sritis, \nkurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­\nnigaikštis Jogaila prižadėjo mūsų tėvui su savo motina \nir savo broliais ir prisiekė ištikimybę, sutvirtindamas \ntai raštais ta prasme, kad jis Vilniaus niekados nebe- \nreikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje \nVitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­\nnių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo \nžygyje."
+  citata_rodoma: |
+    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
+    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
+    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
+    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
+    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
+    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
+    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
+    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
+    Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
+    nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
+    žygyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -96,7 +96,24 @@ Narbutas Pramžimą laikė pirmuoju ir visuotinai paplitusiu Senojo pasaulio die
     tie padarai tuojau sulipo į kevalą, nes vanduo jau sėmė pasku­
     tinį jų prieglobstį. Milžinai neturėjo galios pakenkti tam keva­
     lui, nusinešančiam potvynyje nelaimingas būtybes.
-  citata_rodoma: "Agamemnono šūkis)*\n\n## Puslapis 88\n\nLIETUVIŲ TAUTOS\nISTORIJA*\nPirmoji knyga\nLIETUVIŲ MITOLOGIJA\n* * ^\nI skyrius\nD ID IEJI DIEVAI\nPramžimas (Pinui žinių s)\nPirmasis ir visuotinai paplitęs Senojo pasaulio dievas. Jo\nvardas reiškia lemtį, likimą, neišvengiamybę, fatum. Strijkov­\nskis vadina Prokorimos; lietuviškai tai reiškia tą patį. Kaip liu­\ndija senovės padavimai, šis dievas valdė žmonių, viso pasaulio\nir dievų likimus."
+  citata_rodoma: |
+    Agamemnono šūkis)*
+
+    ## Puslapis 88
+
+    LIETUVIŲ TAUTOS
+    ISTORIJA*
+    Pirmoji knyga
+    LIETUVIŲ MITOLOGIJA
+    * * ^
+    I skyrius
+    D ID IEJI DIEVAI
+    Pramžimas (Pinui žinių s)
+    Pirmasis ir visuotinai paplitęs Senojo pasaulio dievas. Jo
+    vardas reiškia lemtį, likimą, neišvengiamybę, fatum. Strijkov­
+    skis vadina Prokorimos; lietuviškai tai reiškia tą patį. Kaip liu­
+    dija senovės padavimai, šis dievas valdė žmonių, viso pasaulio
+    ir dievų likimus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

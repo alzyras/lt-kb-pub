@@ -193,7 +193,11 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garan-
     tuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant
     gynybinę, kad tik pavyktų susigrąžinti Vilnių.
-  citata_rodoma: "Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo \ndidelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garan-\ntuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant \ngynybinę, kad tik pavyktų susigrąžinti Vilnių."
+  citata_rodoma: |
+    Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo
+    didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garan-
+    tuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant
+    gynybinę, kad tik pavyktų susigrąžinti Vilnių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -232,7 +236,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m.
-  citata_rodoma: "pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną"
+  citata_rodoma: |
+    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -251,7 +256,9 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     24 valandų reikalu.
     Tik keli žmonės iš vyriausybės žinojo apie E. Galvanausko planą pa-
     ruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą.
-  citata_rodoma: "Tik keli žmonės iš vyriausybės žinojo apie E. Galvanausko planą pa-\nruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą."
+  citata_rodoma: |
+    Tik keli žmonės iš vyriausybės žinojo apie E. Galvanausko planą pa-
+    ruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -84,7 +84,14 @@ Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėj
     skirdami pirmąją gėrimo taurę mirusiųjų vėlių dievybėms (ge­
     nijams) ir statydami ją už lango, visai nežiūrėdami, kas su ja
     vyksta: kas nori, gali ją ten išgerti.
-  citata_rodoma: "Mūsų mitologas sako, kad per šią šventę šauk­\ndavosi dievo Ežiagulio; ankstesniame straipsnyje išsiaiškino­\nme, kad tas žodis reiškia tiesiog kapą, o šiuo atveju galėjo reikšti\nasmenį, gulintį kape. Tą meldimą išreiškia šiais žodžiais: Veni\ncum mortuis, farcimina nobiscum manducatums (Ateik kartu\nsu mirusiaisiais valgyti dešros.) Tai visiškai sutampa su aprašy­\ntomis apeigomis."
+  citata_rodoma: |
+    Mūsų mitologas sako, kad per šią šventę šauk­
+    davosi dievo Ežiagulio; ankstesniame straipsnyje išsiaiškino­
+    me, kad tas žodis reiškia tiesiog kapą, o šiuo atveju galėjo reikšti
+    asmenį, gulintį kape. Tą meldimą išreiškia šiais žodžiais: Veni
+    cum mortuis, farcimina nobiscum manducatums (Ateik kartu
+    su mirusiaisiais valgyti dešros.) Tai visiškai sutampa su aprašy­
+    tomis apeigomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

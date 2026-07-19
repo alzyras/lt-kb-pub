@@ -71,7 +71,14 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
     per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
     lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
     1 d.).
-  citata_rodoma: "Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,\nper kurias vienų kitiems buvo pasakyta daug karčių žodžių,\nlietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo\n1 d.)."
+  citata_rodoma: |
+    Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,
+    per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
+    lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
+    1 d.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

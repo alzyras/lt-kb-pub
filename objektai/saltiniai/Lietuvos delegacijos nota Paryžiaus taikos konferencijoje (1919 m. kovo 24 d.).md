@@ -75,7 +75,8 @@ Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 
     1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
     laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
     vidinio chaoso.
-  citata_rodoma: "J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl"
+  citata_rodoma: |
+    J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

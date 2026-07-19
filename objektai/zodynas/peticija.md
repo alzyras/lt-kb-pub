@@ -59,7 +59,12 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
     klas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-
     josi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-
     tuvių reikalų neužtardavo nė vienu žodžiu.
-  citata_rodoma: "Kadangi tuo pat metu\nbuvo rašomos peticijos dėl lietuvių kalbos grąžinimo į moky-\nklas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-\njosi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-\ntuvių reikalų neužtardavo nė vienu žodžiu."
+  citata_rodoma: |
+    Kadangi tuo pat metu
+    buvo rašomos peticijos dėl lietuvių kalbos grąžinimo į moky-
+    klas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-
+    josi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-
+    tuvių reikalų neužtardavo nė vienu žodžiu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

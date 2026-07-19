@@ -64,7 +64,8 @@ media_all_json: |-
   citata_originali: |
     19.	 1751 03 05. Vilnius. J. D. Lopacinskio laiškas Minsko pavieto medžiokliui Adomui Chmarai.
     Biblioteka Jagiellońska, Oddział Rękopisów (toliau – BJ), Rkp. 6636 II, t. 5, l. 22–22v.
-  citata_rodoma: "19. 1751 03 05. Vilnius. J. D. Lopacinskio laiškas Minsko pavieto medžiokliui Adomui Chmarai. Biblioteka Jagiellońska, Oddział Rękopisów (toliau – BJ), Rkp. 6636 II, t. 5, l. 22–22v."
+  citata_rodoma: |
+    19. 1751 03 05. Vilnius. J. D. Lopacinskio laiškas Minsko pavieto medžiokliui Adomui Chmarai. Biblioteka Jagiellońska, Oddział Rękopisów (toliau – BJ), Rkp. 6636 II, t. 5, l. 22–22v.
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

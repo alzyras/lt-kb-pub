@@ -120,7 +120,17 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
     lygmeniu, vadinamuosius seime-
     lius, kurie vykdė pagalbines val-
     džios aparato funkcijas.
-  citata_rodoma: "Vienas\niš tokių grįžusiųjų bus stambus\ndvarininkas ir kompozitorius,\ngarsiojo polonezo „Atsisveikini-\nmas su Tėvyne“ autorius Mykolas\nKleopas Oginskis. Bajorai turėjo\nsavivaldą gubernijos ir apskrities\nlygmeniu, vadinamuosius seime-\nlius, kurie vykdė pagalbines val-\ndžios aparato funkcijas."
+  citata_rodoma: |
+    Vienas
+    iš tokių grįžusiųjų bus stambus
+    dvarininkas ir kompozitorius,
+    garsiojo polonezo „Atsisveikini-
+    mas su Tėvyne“ autorius Mykolas
+    Kleopas Oginskis. Bajorai turėjo
+    savivaldą gubernijos ir apskrities
+    lygmeniu, vadinamuosius seime-
+    lius, kurie vykdė pagalbines val-
+    džios aparato funkcijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +157,13 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
     garsiojo polonezo „Atsisveikini-
     mas su Tėvyne“ autorius Mykolas
     Kleopas Oginskis.
-  citata_rodoma: "Vienas\niš tokių grįžusiųjų bus stambus\ndvarininkas ir kompozitorius,\ngarsiojo polonezo „Atsisveikini-\nmas su Tėvyne“ autorius Mykolas\nKleopas Oginskis."
+  citata_rodoma: |
+    Vienas
+    iš tokių grįžusiųjų bus stambus
+    dvarininkas ir kompozitorius,
+    garsiojo polonezo „Atsisveikini-
+    mas su Tėvyne“ autorius Mykolas
+    Kleopas Oginskis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -174,7 +190,13 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
     1794 m. sukilėlis, paskutinio
     LDK atkūrimo projekto autorius
     Mykolas Kleopas Oginskis.
-  citata_rodoma: "Liko ga-\nlioti Lietuvos Statutas, lenkų kalba\nleista savivaldos institucijose, aps-\n1794 m. sukilėlis, paskutinio\nLDK atkūrimo projekto autorius\nMykolas Kleopas Oginskis."
+  citata_rodoma: |
+    Liko ga-
+    lioti Lietuvos Statutas, lenkų kalba
+    leista savivaldos institucijose, aps-
+    1794 m. sukilėlis, paskutinio
+    LDK atkūrimo projekto autorius
+    Mykolas Kleopas Oginskis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 

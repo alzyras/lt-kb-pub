@@ -95,7 +95,8 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
     ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui
     metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
     Mindaugą vadina „šviesaus atminimo valdovu“.
-  citata_rodoma: "metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje"
+  citata_rodoma: |
+    metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,16 @@ Nenurodyta
 
     Antrojo pasaulinio karo metu rusų
     sukurtas ir pradėtas gaminti ginklas.
-  citata_rodoma: "Pistoletais-\nkulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.\n\nSulenkta buožė\n\npa\n\nAntrojo pasaulinio karo metu rusų\nsukurtas ir pradėtas gaminti ginklas."
+  citata_rodoma: |
+    Pistoletais-
+    kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.
+
+    Sulenkta buožė
+
+    pa
+
+    Antrojo pasaulinio karo metu rusų
+    sukurtas ir pradėtas gaminti ginklas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

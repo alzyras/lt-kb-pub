@@ -122,7 +122,35 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
     kutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo
     įveikti galybės priešų; tuo metu keli lietuvių būriai,
     smogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­
-  citata_rodoma: "Kęstutį, kuris ban­\ndė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­\nką irstančioje rikiuotėje, galingais kalavijo smūgiais\natremdamas kiekvieną narsų priešą, nubloškė nuo žir­\ngo Henrikas Ekersbergas, riteris paauksuotais šarvais,\nkuris smogė arkliui ietimi iš šono; netrukus apsuptas\nsubėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui\ngresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­\ntas (jis buvo tauraus būdo ir\nS ū n au s\nm eilė\ntė v u i\nlabai mylėjo tėvą) pavarė\nir karių  m e ilė v a d u i\nžirgą link susigrūdusių prie­\nšų, norėdamas pagelbėti tė­\nvui; aklai kalaviju skindamasis kelią prie tėvo, jis\nsusilaukė bemaž tokio pat likimo: kryžiuotis Henri­\nkas Hochbergas ietimi nutrenkė jį nuo žirgo. Jis iš pas­\nkutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo\nįveikti galybės priešų; tuo metu keli lietuvių būriai,\nsmogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­\n244\n\n## Puslapis 243\n\ngaikštį ir išsigabeno iš mūšio lauko, neiškrikdami iš\nrikiuotės."
+  citata_rodoma: |
+    Kęstutį, kuris ban­
+    dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­
+    ką irstančioje rikiuotėje, galingais kalavijo smūgiais
+    atremdamas kiekvieną narsų priešą, nubloškė nuo žir­
+    go Henrikas Ekersbergas, riteris paauksuotais šarvais,
+    kuris smogė arkliui ietimi iš šono; netrukus apsuptas
+    subėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui
+    gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­
+    tas (jis buvo tauraus būdo ir
+    S ū n au s
+    m eilė
+    tė v u i
+    labai mylėjo tėvą) pavarė
+    ir karių  m e ilė v a d u i
+    žirgą link susigrūdusių prie­
+    šų, norėdamas pagelbėti tė­
+    vui; aklai kalaviju skindamasis kelią prie tėvo, jis
+    susilaukė bemaž tokio pat likimo: kryžiuotis Henri­
+    kas Hochbergas ietimi nutrenkė jį nuo žirgo. Jis iš pas­
+    kutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo
+    įveikti galybės priešų; tuo metu keli lietuvių būriai,
+    smogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­
+    244
+
+    ## Puslapis 243
+
+    gaikštį ir išsigabeno iš mūšio lauko, neiškrikdami iš
+    rikiuotės.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

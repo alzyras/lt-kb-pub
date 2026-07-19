@@ -88,7 +88,17 @@ Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelk
     įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
     pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
     gaikštukų.
-  citata_rodoma: "126\n\n## Puslapis 124\n\nčius; jie kovodavo ir su vėliavomis Pamario kunigaikščio\nSventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.\nTai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos\nnet ligi Drevantos pelkių, lengvino kariaujančių su vo­\nkiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko\nsu tam tikromis pertraukomis 1242—1253 metais1."
+  citata_rodoma: |
+    126
+
+    ## Puslapis 124
+
+    čius; jie kovodavo ir su vėliavomis Pamario kunigaikščio
+    Sventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.
+    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
+    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
+    kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
+    su tam tikromis pertraukomis 1242—1253 metais1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

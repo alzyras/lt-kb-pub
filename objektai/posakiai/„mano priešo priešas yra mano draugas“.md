@@ -129,7 +129,13 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     priešas yra mano draugas.
     Nuo Mindaugo laikų besitęsią nesutikimai tarp ordino ir Rygos,
     kurią visada palaikė arkivyskupas, 1297 m. virto atviru karu.
-  citata_rodoma: "Lietuvių ir\nrygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė\ntris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo\npriešas yra mano draugas.\nNuo Mindaugo laikų besitęsią nesutikimai tarp ordino ir Rygos,\nkurią visada palaikė arkivyskupas, 1297 m. virto atviru karu."
+  citata_rodoma: |
+    Lietuvių ir
+    rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
+    tris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo
+    priešas yra mano draugas.
+    Nuo Mindaugo laikų besitęsią nesutikimai tarp ordino ir Rygos,
+    kurią visada palaikė arkivyskupas, 1297 m. virto atviru karu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -149,7 +155,13 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
     tris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo
     priešas yra mano draugas.
-  citata_rodoma: "Krikščionių\npasauliui atrodė nuostabu, kaip pagonis Vytenis tapo ištikimu są­\njungininku Rygos miesto ir Livonijos arkivyskupo. Lietuvių ir\nrygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė\ntris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo\npriešas yra mano draugas."
+  citata_rodoma: |
+    Krikščionių
+    pasauliui atrodė nuostabu, kaip pagonis Vytenis tapo ištikimu są­
+    jungininku Rygos miesto ir Livonijos arkivyskupo. Lietuvių ir
+    rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
+    tris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo
+    priešas yra mano draugas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

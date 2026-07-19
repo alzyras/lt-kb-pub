@@ -88,7 +88,8 @@ Nenurodyta
     dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
     menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
     toriją visam pasauliui.
-  citata_rodoma: "dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,"
+  citata_rodoma: |
+    dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

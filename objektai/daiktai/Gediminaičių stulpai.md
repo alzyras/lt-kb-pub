@@ -101,7 +101,18 @@ Nenurodyta
     Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
     1939–1940 m. įvykiais Lietuvoje, pagyvėjo gamtos ir paminklų apsaugos są-
     jūdžiai, didžiulę įtaką darė Rusijos spauda.
-  citata_rodoma: "Čekoslo-\nvakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija, \nir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n235\nSąjūdžio ženklas su Gedimino stulpais \n(dail. Giedrius Reimeris, Algimantas \nNasvytis)\nLaisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač \n1939–1940 m."
+  citata_rodoma: |
+    Čekoslo-
+    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
+    ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    235
+    Sąjūdžio ženklas su Gedimino stulpais
+    (dail. Giedrius Reimeris, Algimantas
+    Nasvytis)
+    Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
+    1939–1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

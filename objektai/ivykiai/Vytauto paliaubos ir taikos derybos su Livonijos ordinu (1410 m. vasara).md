@@ -83,7 +83,11 @@ Nenurodyta
     mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
     maršalu B. Hevelmannu ir pradėjo taikos derybas.
     c.
-  citata_rodoma: "Bet (1410.VIII.)\nLivonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo\nmūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos\nmaršalu B. Hevelmannu ir pradėjo taikos derybas."
+  citata_rodoma: |
+    Bet (1410.VIII.)
+    Livonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo
+    mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
+    maršalu B. Hevelmannu ir pradėjo taikos derybas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

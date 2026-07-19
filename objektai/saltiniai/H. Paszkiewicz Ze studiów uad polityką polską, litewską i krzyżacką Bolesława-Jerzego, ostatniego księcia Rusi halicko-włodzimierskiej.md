@@ -71,7 +71,11 @@ Paszkiewicz, H.
     355-356 p. — Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,
     Petrograd 1918. — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.).
-  citata_rodoma: "— Paszkiewicz, H. : Ze studiów uad polityką polską, litewską i\nkrzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimier-\nskiej , AW, t. 2, 1924, 31-67 p. —(”) Z dziejów Podlasia w XIV wieku,\nKH, t. 42, 1928, 229-245 p."
+  citata_rodoma: |
+    — Paszkiewicz, H. : Ze studiów uad polityką polską, litewską i
+    krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimier-
+    skiej , AW, t. 2, 1924, 31-67 p. —(”) Z dziejów Podlasia w XIV wieku,
+    KH, t. 42, 1928, 229-245 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

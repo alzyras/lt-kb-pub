@@ -274,7 +274,11 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     be abejo, nebūtų išvengę pražūties ar gotų vergijos, jei
     nauja revoliucija, kurią į Europą atnešė hunai, nebūtų
     pakeitusi tuometinės situacijos.
-  citata_rodoma: "Vėliau jie,\nbe abejo, nebūtų išvengę pražūties ar gotų vergijos, jei\nnauja revoliucija, kurią į Europą atnešė hunai, nebūtų\npakeitusi tuometinės situacijos."
+  citata_rodoma: |
+    Vėliau jie,
+    be abejo, nebūtų išvengę pražūties ar gotų vergijos, jei
+    nauja revoliucija, kurią į Europą atnešė hunai, nebūtų
+    pakeitusi tuometinės situacijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -299,7 +303,11 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     kėtina, įvyko gana anksti, nes IX amžiuje jau randame
     klestintį miestą Vppeleela-, apie tai bus rašoma vėliau,
     nagrinėjant atitinkamą epochą.
-  citata_rodoma: "O savo gyvenimą tolimame Septynių miestų krašte, kur jie buvo laiko audrų nublokšti, agatirai galėjo iš-\nkeisti į gyvenvietes tarp giminingų kartų, kai nesiliau-\njančios sarmatų revoliucijos neleido jiems ilgiau ramiai\ngyventi prie Marokos."
+  citata_rodoma: |
+    O savo gyvenimą tolimame Septynių miestų krašte, kur jie buvo laiko audrų nublokšti, agatirai galėjo iš-
+    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau-
+    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
+    gyventi prie Marokos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -326,7 +334,11 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     yra ta pati Amiano minima gentis, savaime suprantama,
     gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
     tekėjo dvi upės: Lela-Upe ir Anger-Upe.
-  citata_rodoma: "Vėliau juos pavergė alanai išvien su\ngelonais ir budinais. Laikui bėgant, kai pastarieji paju-\ndėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-\ntirus išsikelti iš Uždneprės."
+  citata_rodoma: |
+    Vėliau juos pavergė alanai išvien su
+    gelonais ir budinais. Laikui bėgant, kai pastarieji paju-
+    dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
+    tirus išsikelti iš Uždneprės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -101,7 +101,11 @@ Nenurodyta
     jis rašė Anykščių seniūnui Mykolui Ksaverui Sapiegai apie tai, kad laikraščiai pranešė,
     jog įgriuvo Sluškų rūmų stogas, sugrius ir visas pastatas, tokios nelaimės gresia ir kitiems
     namams, nes lauke ekstremaliai daug sniego [32].
-  citata_rodoma: "Paminėti ir stichinių nelaimių padariniai Vilniuje buvusių didikų namams. 1754 m.\njis rašė Anykščių seniūnui Mykolui Ksaverui Sapiegai apie tai, kad laikraščiai pranešė,\njog įgriuvo Sluškų rūmų stogas, sugrius ir visas pastatas, tokios nelaimės gresia ir kitiems\nnamams, nes lauke ekstremaliai daug sniego [32]."
+  citata_rodoma: |
+    Paminėti ir stichinių nelaimių padariniai Vilniuje buvusių didikų namams. 1754 m.
+    jis rašė Anykščių seniūnui Mykolui Ksaverui Sapiegai apie tai, kad laikraščiai pranešė,
+    jog įgriuvo Sluškų rūmų stogas, sugrius ir visas pastatas, tokios nelaimės gresia ir kitiems
+    namams, nes lauke ekstremaliai daug sniego [32].
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
   teiginio_tipas: faktas

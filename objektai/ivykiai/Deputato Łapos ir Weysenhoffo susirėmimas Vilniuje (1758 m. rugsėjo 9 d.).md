@@ -126,7 +126,11 @@ Nenurodyta
     tribunolo deputatas (pasiuntinys) nuo Starodubo pavieto Antanas Lapa (Antoni Łapa) ir
     Veisenhofas (Weysenhof); A. Lapai sužeista kakta ir ranka, kitam mušeikai nosis, ranka
     (šis prarado pirštą) ir kakta [55].
-  citata_rodoma: "1758 m. laiške jis minėjo, kad susipyko ir kardais kapojosi įkaušę bajorai: \ntribunolo deputatas (pasiuntinys) nuo Starodubo pavieto Antanas Lapa (Antoni Łapa) ir \nVeisenhofas (Weysenhof); A. Lapai sužeista kakta ir ranka, kitam mušeikai nosis, ranka \n(šis prarado pirštą) ir kakta [55]."
+  citata_rodoma: |
+    1758 m. laiške jis minėjo, kad susipyko ir kardais kapojosi įkaušę bajorai:
+    tribunolo deputatas (pasiuntinys) nuo Starodubo pavieto Antanas Lapa (Antoni Łapa) ir
+    Veisenhofas (Weysenhof); A. Lapai sužeista kakta ir ranka, kitam mušeikai nosis, ranka
+    (šis prarado pirštą) ir kakta [55].
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
   teiginio_tipas: faktas

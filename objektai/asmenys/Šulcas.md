@@ -47,7 +47,6 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173134
 
 <a id="claim-t-197459"></a>
 - t-002
@@ -83,5 +82,4 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190251
     - t-197459

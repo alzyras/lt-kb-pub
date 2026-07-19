@@ -65,7 +65,8 @@ SpHL = Spekke, A.
     SoIEn = Sovetskaja Istoričeskaja Enciklopedija, t. 1-14 (toliau lei­
     džiama), Maskva 1961-1970.
     SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951.
-  citata_rodoma: "SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951."
+  citata_rodoma: |
+    SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

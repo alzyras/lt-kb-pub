@@ -121,7 +121,17 @@ media_all_json: |-
     Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
     Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
     imperijos keliamo pavojaus.
-  citata_rodoma: "Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti\nžūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą\n\nEuropoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-\nzaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik\nbarjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški\nLietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-\ntiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,\nformuodami „antemurale Christianitatis“ ideologiją. Garsiajame\nLucko suvažiavime 1429 m."
+  citata_rodoma: |
+    Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
+    žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą
+
+    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
+    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
+    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
+    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
+    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
+    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
+    Lucko suvažiavime 1429 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

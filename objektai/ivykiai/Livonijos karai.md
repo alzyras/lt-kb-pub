@@ -113,7 +113,12 @@ Nenurodyta
     gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
     jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
     kariškai sustiprėjusios Švedijos.
-  citata_rodoma: "Apšvieta ateina į LDK\nNuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-\ngaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos\njūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.\nkariškai sustiprėjusios Švedijos."
+  citata_rodoma: |
+    Apšvieta ateina į LDK
+    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
+    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
+    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+    kariškai sustiprėjusios Švedijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

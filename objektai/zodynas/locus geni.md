@@ -72,7 +72,14 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
     dumos kylantis Miestas, savo istorija susiliečiantis su amžinin­
     kais. Kiekviena gatvė, bažnyčia, kalnas, rūmai ar vienuolynas
     turi savo praeitį, kuri užrašyta istoriniuose dokumentuose.
-  citata_rodoma: "Vilniaus miesto istorijos rašymo tradicijos atsiradimas yra\nsusijęs su locus geni akcentavimu romantinėje pasaulėžiūroje.\nNors M. Balinskio istorinio veikalo stilių vargu ar galima pava­\ndinti romantišku, tačiau pats tyrimo objektas - tai iš amžių glū­\ndumos kylantis Miestas, savo istorija susiliečiantis su amžinin­\nkais. Kiekviena gatvė, bažnyčia, kalnas, rūmai ar vienuolynas\nturi savo praeitį, kuri užrašyta istoriniuose dokumentuose."
+  citata_rodoma: |
+    Vilniaus miesto istorijos rašymo tradicijos atsiradimas yra
+    susijęs su locus geni akcentavimu romantinėje pasaulėžiūroje.
+    Nors M. Balinskio istorinio veikalo stilių vargu ar galima pava­
+    dinti romantišku, tačiau pats tyrimo objektas - tai iš amžių glū­
+    dumos kylantis Miestas, savo istorija susiliečiantis su amžinin­
+    kais. Kiekviena gatvė, bažnyčia, kalnas, rūmai ar vienuolynas
+    turi savo praeitį, kuri užrašyta istoriniuose dokumentuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

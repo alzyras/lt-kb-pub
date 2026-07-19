@@ -84,7 +84,11 @@ Nenurodyta
     veikė drauge su didžiuoju Kęstutaičio priešu — Skirgaila^21.
     Vytautni buvo naudingiau tapti Karūnos ir pusbrolio, o ne
     ordino vasalu.
-  citata_rodoma: "Ieškodamas taikos su sau pavojingu Vytautu, karalius\nveikė drauge su didžiuoju Kęstutaičio priešu — Skirgaila^21.\nVytautni buvo naudingiau tapti Karūnos ir pusbrolio, o ne\nordino vasalu."
+  citata_rodoma: |
+    Ieškodamas taikos su sau pavojingu Vytautu, karalius
+    veikė drauge su didžiuoju Kęstutaičio priešu — Skirgaila^21.
+    Vytautni buvo naudingiau tapti Karūnos ir pusbrolio, o ne
+    ordino vasalu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

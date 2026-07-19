@@ -154,7 +154,11 @@ Nenurodyta
     ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
     nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
     kardus atnešė kryžiuočių didžiojo magistro liepiami.
-  citata_rodoma: "Įėjo Vengrijos\nir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem\nnuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du\nkardus atnešė kryžiuočių didžiojo magistro liepiami."
+  citata_rodoma: |
+    Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -175,7 +179,11 @@ Nenurodyta
     magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
     susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
     viram lauke, bet nesislapstyti giriose, kaip iki šiol.
-  citata_rodoma: "Ordino\nmagistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam\nsusirėmimui ir su tais ginklais stoti drąsiai į kautynes at­\nviram lauke, bet nesislapstyti giriose, kaip iki šiol."
+  citata_rodoma: |
+    Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -197,7 +205,13 @@ Nenurodyta
     viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
     maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
     ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
-  citata_rodoma: "Ordino\nmagistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam\nsusirėmimui ir su tais ginklais stoti drąsiai į kautynes at­\nviram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per\nmaža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti\nir užleisti vietos, tik pageidaująs, kad išlystų iš girios."
+  citata_rodoma: |
+    Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
+    maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
+    ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

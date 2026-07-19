@@ -83,7 +83,8 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
     jų tą „didelį kraitį“ , o dideliu kraičiu jos vadina kiekvieną
     kraitį,
     koks yra.
-  citata_rodoma: "Dabar broliai puola nešti juokaudami: „Imk šeškablauzdi!“"
+  citata_rodoma: |
+    Dabar broliai puola nešti juokaudami: „Imk šeškablauzdi!“
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

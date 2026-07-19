@@ -90,7 +90,8 @@ Nenurodyta
     į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni
     Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-
     monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22].
-  citata_rodoma: "Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be ceremonijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22]."
+  citata_rodoma: |
+    Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be ceremonijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22].
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

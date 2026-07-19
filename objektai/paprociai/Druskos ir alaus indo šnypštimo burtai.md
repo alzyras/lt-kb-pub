@@ -100,7 +100,21 @@ Nenurodyta
     nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
     nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
     tinanti kūdikį.
-  citata_rodoma: "Paimdavo į\nsaują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31\nVėjininkai (Wejones)\n31\nŠias penkias pranašautojų rūšis pateikia Pretorijus, remdama­\nsis savais pastebėjimais, ką buvo matęs savo akimis.\n299\n\n## Puslapis 299\n\nteliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­\nlykus, ypač apie pamestus daiktus.\nZihlneeki (ateities spėjikai)\nKitaip -  Zihmlehmi."
+  citata_rodoma: |
+    Paimdavo į
+    saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
+    Vėjininkai (Wejones)
+    31
+    Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama­
+    sis savais pastebėjimais, ką buvo matęs savo akimis.
+    299
+
+    ## Puslapis 299
+
+    teliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­
+    lykus, ypač apie pamestus daiktus.
+    Zihlneeki (ateities spėjikai)
+    Kitaip -  Zihmlehmi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

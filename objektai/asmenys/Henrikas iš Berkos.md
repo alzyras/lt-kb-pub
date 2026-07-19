@@ -88,7 +88,11 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš
     Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
     ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų.
-  citata_rodoma: "Be to, maršalu\npasiuntė brolį Ditrichą iš Bernheimo, o  į pagalbininkus jam paskyrė brolį Konradą iš\nTuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos\nir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų."
+  citata_rodoma: |
+    Be to, maršalu
+    pasiuntė brolį Ditrichą iš Bernheimo, o  į pagalbininkus jam paskyrė brolį Konradą iš
+    Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
+    ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

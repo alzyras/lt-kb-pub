@@ -90,7 +90,14 @@ Nenurodyta
     ugnį į miestelį. Antrasis būrys be įsakymo
 
     MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
-  citata_rodoma: "Plentų kryž-\n\nkelėje pasirodė tanketė, kuri atidengė\n\nugnį į miestelį. Antrasis būrys be įsakymo\n\nMERKINĖS PUOLIMAS 1945 m."
+  citata_rodoma: |
+    Plentų kryž-
+
+    kelėje pasirodė tanketė, kuri atidengė
+
+    ugnį į miestelį. Antrasis būrys be įsakymo
+
+    MERKINĖS PUOLIMAS 1945 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

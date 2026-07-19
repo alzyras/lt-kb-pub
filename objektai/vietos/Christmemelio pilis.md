@@ -100,7 +100,20 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
     kad priešas nebaudžiamas nesiautėtų krašte, jis, kitais
     keliais pasukęs į Prūsij ą, pats iš keršto panašiai nu­
     siaubė kryžiuočių žemes.
-  citata_rodoma: "Kryžiuočių kariai, atskubėję iš\niš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­\njus pulkus ir nuvedė juos pulti Christmemelio pilies;\ntaranai daužė pilies sienas, galybė strėlių ir iečių\nnešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem­\nbos skubėjęs būrys tapo užpultas ir sunaikintas, ap­\ngultųjų padėtis darėsi visai beviltiška. Vytenis para­\ngino dar smarkiau spausti, o kadangi negalėjo privers­\nti pasiduoti, įsakė prikrauti į gynybinius griovius\nkuro, lengvai uždegamo ir gerai liepsnojančio, ketinda­\nmas padegti pilį. Tačiau pasklido gandas, jog ateina su\ndidele kariuomene Prūsijos magistras, ir šitaip sužlu­\ngo viltys paimti pilį."
+  citata_rodoma: |
+    Kryžiuočių kariai, atskubėję iš
+    iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­
+    jus pulkus ir nuvedė juos pulti Christmemelio pilies;
+    taranai daužė pilies sienas, galybė strėlių ir iečių
+    nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem­
+    bos skubėjęs būrys tapo užpultas ir sunaikintas, ap­
+    gultųjų padėtis darėsi visai beviltiška. Vytenis para­
+    gino dar smarkiau spausti, o kadangi negalėjo privers­
+    ti pasiduoti, įsakė prikrauti į gynybinius griovius
+    kuro, lengvai uždegamo ir gerai liepsnojančio, ketinda­
+    mas padegti pilį. Tačiau pasklido gandas, jog ateina su
+    didele kariuomene Prūsijos magistras, ir šitaip sužlu­
+    go viltys paimti pilį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

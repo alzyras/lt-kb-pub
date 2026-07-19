@@ -74,7 +74,9 @@ media_all_json: |-
     w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.,
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961.
-  citata_rodoma: "— Jablonskytė-Rimantienė, R. : _0O drevuejšich kul’turnych oblastjach\nna territorii Litvy,_ Sovetskaja Etnografija, t. 3, 1955, 3-19 p."
+  citata_rodoma: |
+    — Jablonskytė-Rimantienė, R. : _0O drevuejšich kul’turnych oblastjach
+    na territorii Litvy,_ Sovetskaja Etnografija, t. 3, 1955, 3-19 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

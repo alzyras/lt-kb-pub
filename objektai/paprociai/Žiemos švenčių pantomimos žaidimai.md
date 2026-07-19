@@ -108,7 +108,15 @@ Nenurodyta
     tyta juos plačiai auginant linus. Paulius Varnefrydas, diako­
     nas, rašantis apie langobardų praeitį, sako, kad pas herulus
     matęs žaliuojančius linų laukus .
-  citata_rodoma: "Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius\n(Ligiczus) -  taikinantis, vienodinantis. Per žiemos švenčių žai­\ndimus kaimiečiai moka savo tarpe suvaidinti tam tikrą sceninę\npantomimą, kurioje dalyvauja vienas ar du asmenys. Tai yra ka­\nrikatūriški paukščių, gyvulių, žmonių, kuriuos nori išjuokti, pa­\nmėgdžiojimai, visuomet sukeliantys juoką; merginėjimas, pyk­\ntis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­\nsiai -  čia yra visa, ką gali mimo fantazija."
+  citata_rodoma: |
+    Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius
+    (Ligiczus) -  taikinantis, vienodinantis. Per žiemos švenčių žai­
+    dimus kaimiečiai moka savo tarpe suvaidinti tam tikrą sceninę
+    pantomimą, kurioje dalyvauja vienas ar du asmenys. Tai yra ka­
+    rikatūriški paukščių, gyvulių, žmonių, kuriuos nori išjuokti, pa­
+    mėgdžiojimai, visuomet sukeliantys juoką; merginėjimas, pyk­
+    tis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­
+    siai -  čia yra visa, ką gali mimo fantazija.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

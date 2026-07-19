@@ -253,7 +253,19 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
-  citata_rodoma: "I1l\n\n## Puslapis 128\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvyskupui, iškilmingu aktu dovanodamas kunigaikštišką\nTauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-\nvos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius\nDrohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­\nkamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­\nteko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos\nistorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė."
+  citata_rodoma: |
+    I1l
+
+    ## Puslapis 128
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
+    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
+    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
+    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
+    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -301,7 +301,13 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     jį visų totorių chanatų viršūnėje, sakydamas : «o tu mane paso­
     dinki didžiojoje Maskvos kunigaikštijoje ... Vokiečius (ordiną) aš
     pats paimsiu^2 ».
-  citata_rodoma: "Pagal rusų met­\nraščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos\nchanui Tochtamišui, nugalėjęs jo priešą Timur-Kutlugą, pasodinti\njį visų totorių chanatų viršūnėje, sakydamas : «o tu mane paso­\ndinki didžiojoje Maskvos kunigaikštijoje ... Vokiečius (ordiną) aš\npats paimsiu^2 »."
+  citata_rodoma: |
+    Pagal rusų met­
+    raščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos
+    chanui Tochtamišui, nugalėjęs jo priešą Timur-Kutlugą, pasodinti
+    jį visų totorių chanatų viršūnėje, sakydamas : «o tu mane paso­
+    dinki didžiojoje Maskvos kunigaikštijoje ... Vokiečius (ordiną) aš
+    pats paimsiu^2 ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -320,7 +326,13 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     padarė Lietuvai...“ Tai, matyt, buvo chano
     atsakymas į Lietuvos veiksmus Kijevo
     žemėje.
-  citata_rodoma: "1325 m. Aukso orda surengė puolimą\nprieš Lietuvą: „caras Uzbekas pasiuntė ku-\nnigaikščius į Lietuvą kariauti; daug pikto\npadarė Lietuvai...“ Tai, matyt, buvo chano\natsakymas į Lietuvos veiksmus Kijevo\nžemėje."
+  citata_rodoma: |
+    1325 m. Aukso orda surengė puolimą
+    prieš Lietuvą: „caras Uzbekas pasiuntė ku-
+    nigaikščius į Lietuvą kariauti; daug pikto
+    padarė Lietuvai...“ Tai, matyt, buvo chano
+    atsakymas į Lietuvos veiksmus Kijevo
+    žemėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -341,7 +353,15 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     žemės dalis. 1331 m. šalia Kijevo kunigaikš-
     čio, Lietuvos vietininko, minimas ir totorių
     baskakas.
-  citata_rodoma: "Kryžiuočių ordinui, remiamam kryži-\nninkų, nuo 1328 m. atnaujinus Lietuvos\npuolimus, Lietuva, atrodo, bus užmezgusi\nkompromisinius santykius su Aukso orda,\nkurios įtakoje, matyt, liko pietinė Kijevo\nžemės dalis. 1331 m. šalia Kijevo kunigaikš-\nčio, Lietuvos vietininko, minimas ir totorių\nbaskakas."
+  citata_rodoma: |
+    Kryžiuočių ordinui, remiamam kryži-
+    ninkų, nuo 1328 m. atnaujinus Lietuvos
+    puolimus, Lietuva, atrodo, bus užmezgusi
+    kompromisinius santykius su Aukso orda,
+    kurios įtakoje, matyt, liko pietinė Kijevo
+    žemės dalis. 1331 m. šalia Kijevo kunigaikš-
+    čio, Lietuvos vietininko, minimas ir totorių
+    baskakas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -362,7 +382,15 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
     Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
     sutriuškino švedų galybę (1709).
-  citata_rodoma: "žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio\npatriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­\nžiaus karą^32.\nLemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos\n(Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.\nKairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį\nVorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis\nsutriuškino švedų galybę (1709)."
+  citata_rodoma: |
+    žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
+    patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
+    žiaus karą^32.
+    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
+    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
+    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
+    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
+    sutriuškino švedų galybę (1709).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -381,7 +409,13 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
     Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
     didesnių nuostolių.
-  citata_rodoma: "(^6) PRATARMĖ\nvokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso\nOrda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji\njėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.\nBet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai\ndidesnių nuostolių."
+  citata_rodoma: |
+    (^6) PRATARMĖ
+    vokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso
+    Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji
+    jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
+    Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
+    didesnių nuostolių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -407,7 +441,19 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     pavaldų Kijevą palankiausi buvo 1325 m.
 
     1325 m.
-  citata_rodoma: "Gedimino žygis, mūšis prie Irpenės ir\nKijevo užėmimas istoriografijoje datuotas\nįvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.,\npastaraisiais dešimtmečiais akcentuotos\ndvi priešpaskutinės datos. Tarptautinių\n\nTuo metu rytuose Aukso orda turėjo ko-\nvoti prieš ją puolantį Iraną. Taigi atrodo,\nkad Gedimino žygiui prieš Aukso ordai\npavaldų Kijevą palankiausi buvo 1325 m.\n\n1325 m."
+  citata_rodoma: |
+    Gedimino žygis, mūšis prie Irpenės ir
+    Kijevo užėmimas istoriografijoje datuotas
+    įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.,
+    pastaraisiais dešimtmečiais akcentuotos
+    dvi priešpaskutinės datos. Tarptautinių
+
+    Tuo metu rytuose Aukso orda turėjo ko-
+    voti prieš ją puolantį Iraną. Taigi atrodo,
+    kad Gedimino žygiui prieš Aukso ordai
+    pavaldų Kijevą palankiausi buvo 1325 m.
+
+    1325 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -433,7 +479,16 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
     Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
     masis gauti pagalbos Iš Turkijos sultono Bajareto II-jo.
-  citata_rodoma: "Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po \npralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus \nsumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­\ndoje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK \n(žr.Сборник Русского императорского исторического общества, \nт. 41. С  Петербург, 1884, р. 516).\nп Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą \nBelgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­\nmasis gauti pagalbos Iš T urkijos sultono Bajareto II-jo."
+  citata_rodoma: |
+    Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
+    pralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus
+    sumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­
+    doje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK
+    (žr.Сборник Русского императорского исторического общества,
+    т. 41. С  Петербург, 1884, р. 516).
+    п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
+    Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
+    masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -453,7 +508,14 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
     das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
     Vytautas nustojo mokėti mongolams duoklę).
-  citata_rodoma: "Paprastai perimama ir žlu-\ngusios imperijos administracinė struktūra bei kultūros paveldas. \nRusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-\ngolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors \nLietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-\ndas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk \nVytautas nustojo mokėti mongolams duoklę)."
+  citata_rodoma: |
+    Paprastai perimama ir žlu-
+    gusios imperijos administracinė struktūra bei kultūros paveldas.
+    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
+    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
+    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
+    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
+    Vytautas nustojo mokėti mongolams duoklę).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

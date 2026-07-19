@@ -76,7 +76,14 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
     popiežiui surašytų krikšto pažadų. Politinė padėtis buvo susida­
     riusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­
     mino nespaudė jokia koalicija, nei baimino koks sosto pretendentas.
-  citata_rodoma: "Visoje toje per ištisus metus po Gedimino laiškų parašymo\nsusidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono\natvyko Rygon du legatai (vysk. Baltramiejus ir abatas Bernardas),\nGediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose\npopiežiui surašytų krikšto pažadų. Politinė padėtis buvo susida­\nriusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­\nmino nespaudė jokia koalicija, nei baimino koks sosto pretendentas."
+  citata_rodoma: |
+    Visoje toje per ištisus metus po Gedimino laiškų parašymo
+    susidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono
+    atvyko Rygon du legatai (vysk. Baltramiejus ir abatas Bernardas),
+    Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose
+    popiežiui surašytų krikšto pažadų. Politinė padėtis buvo susida­
+    riusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­
+    mino nespaudė jokia koalicija, nei baimino koks sosto pretendentas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

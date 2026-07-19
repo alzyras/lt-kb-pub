@@ -143,7 +143,18 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
     pelenais. Pastarojoje pilyje buvo karvedys, vardu Henrikas, karys, lengva širdimi grobęs
     bei žiauriai kankinęs ir dvasininkus, ir pasauliečius, ir vienuolius, ir ne vienuolius bei
     visus kitus, kurie ėjo pro šalį.
-  citata_rodoma: "Apie Kristmemelio pilies sugriovimą\n\n  1328 metais Prūsijos broliams buvo perduota Klaipėdos pilis, kurią Livonijos broliai\npastatė 1252 viešpaties metais ir kuri jų valdžioje buvo po šiai dienai. Be to, švento\nPetro grandinėse dieną (rugpjūčio 1) buvo apleista Kristmemelio pilis, pastatyta brolio\nKarolio, magistro.\n\n\n\n\n             4."
+  citata_rodoma: |
+    Apie Kristmemelio pilies sugriovimą
+
+      1328 metais Prūsijos broliams buvo perduota Klaipėdos pilis, kurią Livonijos broliai
+    pastatė 1252 viešpaties metais ir kuri jų valdžioje buvo po šiai dienai. Be to, švento
+    Petro grandinėse dieną (rugpjūčio 1) buvo apleista Kristmemelio pilis, pastatyta brolio
+    Karolio, magistro.
+
+
+
+
+                 4.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -169,7 +180,15 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
     ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė.
-  citata_rodoma: "spalio 12\n\n  Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir\nsielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją\nišvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus\nšešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos\npapilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie\nnuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
+  citata_rodoma: |
+    spalio 12
+
+      Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
+    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
+    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
+    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
+    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
+    nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

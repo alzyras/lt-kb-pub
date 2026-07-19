@@ -123,7 +123,16 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
     Motiejus Valančius iš J. K. Vilčinskio
     „Vilniaus albumo“.
-  citata_rodoma: "Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės \nbrolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi \nlietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-\nMotiejus Valančius iš J. K. Vilčinskio  \n„Vilniaus albumo“."
+  citata_rodoma: |
+    Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės
+    brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi
+    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
+    Motiejus Valančius iš J. K. Vilčinskio
+    „Vilniaus albumo“.
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
@@ -148,7 +157,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     į degtinę.
     Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­
     siam girtuokliavimui, įvesdamas „Blaivybės Broliją“ .
-  citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
+  citata_rodoma: |
+    Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“.
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
@@ -167,7 +177,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     ne degtinė, bet vynas; žmonės, išsiilgę stiprumo, buvo linkę tikėti, kad
     tai teisybė, — ir vienas kitas ėmė gerti likerį. Tokia dalykų būklė tę­
     sėsi ligi 1863 metų, ligi sukilimo.
-  citata_rodoma: "Tokia dalykų būklė tęsėsi ligi 1863 metų, ligi sukilimo."
+  citata_rodoma: |
+    Tokia dalykų būklė tęsėsi ligi 1863 metų, ligi sukilimo.
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
@@ -187,7 +198,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     Buvo ir tokių, kurie sakė: „Nei aš1: sieksiu, nei aš gersiu.“ Svie­
     tas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, lan­
     gai jų išdaužyti, gyvenusieji jose žydai išsidangino.
-  citata_rodoma: "Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino."
+  citata_rodoma: |
+    Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino.
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
@@ -207,7 +219,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     skelbti blaivybę su dideliais atlaidais.
     Norintieji pristoti prie brolijos,
     turėjo prisiekti iki mirties neragauti degtinės.
-  citata_rodoma: "Norintieji pristoti prie brolijos, turėjo prisiekti iki mirties neragauti degtinės."
+  citata_rodoma: |
+    Norintieji pristoti prie brolijos, turėjo prisiekti iki mirties neragauti degtinės.
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas

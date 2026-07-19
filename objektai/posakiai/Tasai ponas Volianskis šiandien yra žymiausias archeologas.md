@@ -87,7 +87,14 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
     liaudies priežodžiai“, 1840; „Žemaitijos atsiminimai“, 1842;
     „Lietuva“, 1846); po T. Volianskio tai buvo antras ryškiausias
     darbinio LTI varianto autorius, ir tai jau daug ką pasako.
-  citata_rodoma: "Savo entuziazmu T. Narbutas pasidalijo ir su\nS. Daukantu. Jis rašė: „Tasai ponas Volianskis šiandien yra žy­\nmiausias archeologas, iki šiol neišaiškintų paminklų šifruoto­\njas; jis -  mūsų tautietis, labai geranoriškas“46. Ši frazė itin reikš­\nminga, jeigu prisiminsime tai, kas jau buvo anksčiau pasakyta\nšiame rašinyje. Būtent T. Volianskio geranoriškumas darė is­\ntorikui didžiausią įspūdį."
+  citata_rodoma: |
+    Savo entuziazmu T. Narbutas pasidalijo ir su
+    S. Daukantu. Jis rašė: „Tasai ponas Volianskis šiandien yra žy­
+    miausias archeologas, iki šiol neišaiškintų paminklų šifruoto­
+    jas; jis -  mūsų tautietis, labai geranoriškas“46. Ši frazė itin reikš­
+    minga, jeigu prisiminsime tai, kas jau buvo anksčiau pasakyta
+    šiame rašinyje. Būtent T. Volianskio geranoriškumas darė is­
+    torikui didžiausią įspūdį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

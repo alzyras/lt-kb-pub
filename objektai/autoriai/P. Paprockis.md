@@ -94,7 +94,15 @@ Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją
     gen, 1776), K, Marksas, studijuodamas politinius san­
     tykius Rytų Europoje, naudojosi šia istorija, paremta
     A. Kojelavičiaus žiniomis.
-  citata_rodoma: "Po šimto metų Vil­\nniaus akademijos profesorius P. Paprockis parašė trum­\npą Lietuvos istoriją lenkiškai (Domowe wiadomošci o\nWielkim Xięstwie Litewskim z przytączeniem historyi\ntegož narodu przedrukowane. Wilno, 1763). Jis nau­\ndojosi A. Kojelavičiumi, tačiau, daugelį įvykių aiškin­\ndamas antgamtinėmis jėgomis ir žmonių prigimtimi,\npirmtakui toli gražu neprilygo."
+  citata_rodoma: |
+    Po šimto metų Vil­
+    niaus akademijos profesorius P. Paprockis parašė trum­
+    pą Lietuvos istoriją lenkiškai (Domowe wiadomošci o
+    Wielkim Xięstwie Litewskim z przytączeniem historyi
+    tegož narodu przedrukowane. Wilno, 1763). Jis nau­
+    dojosi A. Kojelavičiumi, tačiau, daugelį įvykių aiškin­
+    damas antgamtinėmis jėgomis ir žmonių prigimtimi,
+    pirmtakui toli gražu neprilygo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

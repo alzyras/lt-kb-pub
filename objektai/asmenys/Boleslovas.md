@@ -132,7 +132,10 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
     gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
     vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
-  citata_rodoma: "Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-\n  gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo\n  vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės."
+  citata_rodoma: |
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
+      gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+      vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

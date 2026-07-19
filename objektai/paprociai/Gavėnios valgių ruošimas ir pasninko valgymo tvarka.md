@@ -131,7 +131,8 @@ Nenurodyta
     šios
     prisispaustų, ir tada, apvertę dugną į viršų, pastumia į ką tik iškūren­
     tą krosnį.
-  citata_rodoma: "Šustos pupos ir šusti žirniai irgi gavėnios valgymas. Pamerkia iš vakaro pupas ar žirnius, rytoj rytą nusunkia, supila į molinį puodą, uždengia virkščiomis, užbruka virkščias šakaliukais, kad šios prisispraustų, ir tada, apvertę dugną į viršų, pastumia į ką tik iškūrentą krosnį."
+  citata_rodoma: |
+    Šustos pupos ir šusti žirniai irgi gavėnios valgymas. Pamerkia iš vakaro pupas ar žirnius, rytoj rytą nusunkia, supila į molinį puodą, uždengia virkščiomis, užbruka virkščias šakaliukais, kad šios prisispraustų, ir tada, apvertę dugną į viršų, pastumia į ką tik iškūrentą krosnį.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -150,7 +151,8 @@ Nenurodyta
     Gavėniai užėjus šeimininkėms rūpi tiekti atitinkamų valgių, bū­
     tent: kisielių, grucę, garstyčninką, kanapių aliejų, avižines ir miežines
     kruopas.
-  citata_rodoma: "51. Gavėnios valgiai."
+  citata_rodoma: |
+    51. Gavėnios valgiai.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -174,7 +176,8 @@ Nenurodyta
     pupos kietai sudžiūtų, o dabar lieka tik išpampusios ir miltingos.
     Pupas valgo visada sausas ir vienas, o žirnius — ar vienus, ar duonos
     vietoje su kopūstais.
-  citata_rodoma: "Pupas valgo visada sausas ir vienas, o žirnius — ar vienus, ar duonos vietoje su kopūstais."
+  citata_rodoma: |
+    Pupas valgo visada sausas ir vienas, o žirnius — ar vienus, ar duonos vietoje su kopūstais.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -192,7 +195,8 @@ Nenurodyta
     raugę įdeda duonos plutą.
     Į dviejų gorčių statinaitę deda vieną gor­
     čių miltų. Po dviejų parų jau rūkštis vartojama.
-  citata_rodoma: "Rūkštį dirba šitaip: į išvirintą vandenį įpila duoninių miltų ir užraugę įdeda duonos plutą. Į dviejų gorčių statinaitę deda vieną gorčių miltų. Po dviejų parų jau rūkštis vartojama."
+  citata_rodoma: |
+    Rūkštį dirba šitaip: į išvirintą vandenį įpila duoninių miltų ir užraugę įdeda duonos plutą. Į dviejų gorčių statinaitę deda vieną gorčių miltų. Po dviejų parų jau rūkštis vartojama.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -218,7 +222,8 @@ Nenurodyta
     branduolius
     nuvalytus nuo ašakų, sveikus ar pertrintus pusiau. Tai ir yra šusti-
     nės avižų kruopos.
-  citata_rodoma: "Avižines kruopas taisant reikia gerai išmirkyti ir supilti avižas į karštą krosnį, kad jos iškeptų ir sudžiūtų. Toliau jas mala iškeltomis girnomis. Per girnas varo daug sykių, kiekvieną sykį „nekoja“ —- ypatingu būdu mėto geldoje — ir tuo atskiria išsiaižiusias ašakas. Malimą ir nekojimą tiek kartoja, kol gauna avižų branduolius nuvalytus nuo ašakų, sveikus ar pertrintus pusiau. Tai ir yra šustinės avižų kruopos."
+  citata_rodoma: |
+    Avižines kruopas taisant reikia gerai išmirkyti ir supilti avižas į karštą krosnį, kad jos iškeptų ir sudžiūtų. Toliau jas mala iškeltomis girnomis. Per girnas varo daug sykių, kiekvieną sykį „nekoja“ —- ypatingu būdu mėto geldoje — ir tuo atskiria išsiaižiusias ašakas. Malimą ir nekojimą tiek kartoja, kol gauna avižų branduolius nuvalytus nuo ašakų, sveikus ar pertrintus pusiau. Tai ir yra šustinės avižų kruopos.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -237,7 +242,8 @@ Nenurodyta
     Šipuliuko.
     Per didelė garstyčninko porcija drasko nosį ir varo iš akių
     ašaras.
-  citata_rodoma: "Valgo garstyčninką duoną dažydami arba, dar geriau, bulbes pasmeigę ant balanos šipuliuko."
+  citata_rodoma: |
+    Valgo garstyčninką duoną dažydami arba, dar geriau, bulbes pasmeigę ant balanos šipuliuko.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -255,7 +261,8 @@ Nenurodyta
     nės avižų kruopos. Jos geros valgyti ir nevirintos. Mažiukai, pripuolę
     prie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpda­
     mi nuo didžiųjų.
-  citata_rodoma: "Mažiukai, pripuolę prie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpdami nuo didžiųjų."
+  citata_rodoma: |
+    Mažiukai, pripuolę prie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpdami nuo didžiųjų.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -276,7 +283,8 @@ Nenurodyta
     kų, džiovintų grūšių, miškinių obuoliukų ir kitų dalykų. Taip pasi­
     ruošę, be baimės, pradeda eilę keturių dešimtų šešių dienų nuolatinio
     pasninko.
-  citata_rodoma: "Rūpestinga šeimyna turi iš vasaros pasitiekusi suverdančių žirnių, pupų, džiovintų baravykų, sūdytų ruduokių, raugintų agurkų, džiovintų grūšių, miškinių obuoliukų ir kitų dalykų. Taip pasiruošę, be baimės, pradeda eilę keturių dešimtų šešių dienų nuolatinio pasninko."
+  citata_rodoma: |
+    Rūpestinga šeimyna turi iš vasaros pasitiekusi suverdančių žirnių, pupų, džiovintų baravykų, sūdytų ruduokių, raugintų agurkų, džiovintų grūšių, miškinių obuoliukų ir kitų dalykų. Taip pasiruošę, be baimės, pradeda eilę keturių dešimtų šešių dienų nuolatinio pasninko.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

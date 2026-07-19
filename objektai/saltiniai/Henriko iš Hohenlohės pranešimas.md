@@ -244,7 +244,9 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
     pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
     kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
-  citata_rodoma: "292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas\n— tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje."
+  citata_rodoma: |
+    292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas
+    — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -282,7 +284,11 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Preroch, Thorandt (SRP,
     5, p. 159).
-  citata_rodoma: "Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems\n  165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis\nįvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Preroch, Thorandt (SRP,\n5, p. 159)."
+  citata_rodoma: |
+    Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
+      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
+    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Preroch, Thorandt (SRP,
+    5, p. 159).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -301,7 +307,12 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
     — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
     prūsų kovą nuo Lietuvos, jos karinių pastangų.
-  citata_rodoma: "Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną\njau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir\nOrdino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir\nsūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas\n— nurodo „lietuvius ir prūsus“144."
+  citata_rodoma: |
+    Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
+    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
+    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
+    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    — nurodo „lietuvius ir prūsus“144.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -321,7 +332,11 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     dokumentas, kurio aprašas išlikęs 1234 m. popiežiaus kanceliarijos registre; manoma,
     kad jis kryžiuočių sufalsifikuotas 1234 m.,— PUB, 1, 1, Nr. 78) bei juo paremta 1234 m.
     popiežiaus bulė (PUB, 1, 1, Nr. 108).
-  citata_rodoma: "172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas\ndovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,\nkurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui\n1228 m."
+  citata_rodoma: |
+    172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas
+    dovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,
+    kurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui
+    1228 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -346,7 +361,11 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
     vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas į amžiną vergovę,
     todėl ne teisingumo ieškoki, bet pasigailėjimo“.
-  citata_rodoma: "Dusburgiečio šaltinis\n— Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos\nseką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —\nBaiga (SRP, 5, p. 160; PKD, p. 37)."
+  citata_rodoma: |
+    Dusburgiečio šaltinis
+    — Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos
+    seką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —
+    Baiga (SRP, 5, p. 160; PKD, p. 37).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -368,7 +387,12 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
     Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
     Višogrudo pilies291 ir ten įsikūrė stovyklą.
-  citata_rodoma: "Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną\n\n  288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,\n5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino\npilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams."
+  citata_rodoma: |
+    Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
+
+      288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
+    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
+    pilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

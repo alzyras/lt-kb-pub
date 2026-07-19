@@ -61,7 +61,8 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
     eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo
     nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
     propagandos su menu.
-  citata_rodoma: "eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo"
+  citata_rodoma: |
+    eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

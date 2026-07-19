@@ -70,12 +70,17 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Sventopelkas su savo kariuomene priėjo
-    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių,
-    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
-    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
-    kariuomenės. Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
-  citata_rodoma: "Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio\nšventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus\nbučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.\nBrolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį\nmenką nusidėjėlį“."
+    Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio
+    šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus
+    bučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.
+    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
+    menką nusidėjėlį“.
+  citata_rodoma: |
+    Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio
+    šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus
+    bučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro  jį apkabinti.
+    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
+    menką nusidėjėlį“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

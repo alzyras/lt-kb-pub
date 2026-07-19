@@ -129,7 +129,13 @@ Nenurodyta
     grobiu, vesdamasis 700 belaisvių, «neskaitant užmuštųjų, kurių
     skaičius buvo labai didelis »^16. 1314 m. kryžiuočiai du kartu teriojo
     Medininkus, o 1315 — net Naugarduką^17.
-  citata_rodoma: "O didysis ordino komtūras «su 150\nriterių, stipria kariuomene ir su 2000 pėstininkų » pasiekė Šalčinin­\nkus (į pietus nuo Vilniaus), « kur niekada dar nebuvo matyta krikš­\nčionių kariuomenė », esą sunaikinęs tris pilis ir grįžęs su dideliu\ngrobiu, vesdamasis 700 belaisvių, «neskaitant užmuštųjų, kurių\nskaičius buvo labai didelis »^16. 1314 m."
+  citata_rodoma: |
+    O didysis ordino komtūras «su 150
+    riterių, stipria kariuomene ir su 2000 pėstininkų » pasiekė Šalčinin­
+    kus (į pietus nuo Vilniaus), « kur niekada dar nebuvo matyta krikš­
+    čionių kariuomenė », esą sunaikinęs tris pilis ir grįžęs su dideliu
+    grobiu, vesdamasis 700 belaisvių, «neskaitant užmuštųjų, kurių
+    skaičius buvo labai didelis »^16. 1314 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

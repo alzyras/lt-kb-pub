@@ -55,7 +55,7 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Minsko link. Kazokai,
+    Kazokai,
     vadovaujami I. Zolotarenkos (apie
     br 20000 karių) laikė apsiautę Gomelį
     "bei kitus miestus ir priartėjo prie Senojo
@@ -68,7 +68,20 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
     vakarus prie Lietuvos ir Livonijos sienos
     zygiuojanti rusų kariuomenė gali užimti
     Baltijos pakraštį.
-  citata_rodoma: "Kazokai,\nvadovaujami I. Zolotarenkos (apie\nbr 20000 karių) laikė apsiautę Gomelį\n\"bei kitus miestus ir priartėjo prie Senojo\nBychovo. Tuo pat metu priešiškai nusi-\nteikusi Švedija lūkuriavo (su ja Lenkija\n\nir Lietuva vedė derybas bendrai kovai su\nRusija) ir į karo veiksmus prieš Lenkiją ir\nLietuvą įsijungė vėliau, kai pabūgo, jog į\nvakarus prie Lietuvos ir Livonijos sienos\nzygiuojanti rusų kariuomenė gali užimti\nBaltijos pakraštį."
+  citata_rodoma: |
+    Kazokai,
+    vadovaujami I. Zolotarenkos (apie
+    br 20000 karių) laikė apsiautę Gomelį
+    "bei kitus miestus ir priartėjo prie Senojo
+    Bychovo. Tuo pat metu priešiškai nusi-
+    teikusi Švedija lūkuriavo (su ja Lenkija
+
+    ir Lietuva vedė derybas bendrai kovai su
+    Rusija) ir į karo veiksmus prieš Lenkiją ir
+    Lietuvą įsijungė vėliau, kai pabūgo, jog į
+    vakarus prie Lietuvos ir Livonijos sienos
+    zygiuojanti rusų kariuomenė gali užimti
+    Baltijos pakraštį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

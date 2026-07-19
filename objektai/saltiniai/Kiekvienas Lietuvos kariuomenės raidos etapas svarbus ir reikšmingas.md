@@ -64,7 +64,9 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
     kariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15.
     p. 262, „SAVANORIO LAIŠKAS“ [nepublikuota; laiško nuorašas iš Alberto Daugirdo
     asmeninio archyvo].
-  citata_rodoma: "p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lietuvos\nkariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15."
+  citata_rodoma: |
+    p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lietuvos
+    kariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

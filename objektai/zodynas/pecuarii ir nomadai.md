@@ -144,7 +144,16 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
     Kalančiako upių, taip pat negalima būtų parinkti visiems
     metų laikams tinkamesnių, ypač gyvulių augintojams,
     vietų už Kalančiako.
-  citata_rodoma: "Bet tarp Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-\nro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai\nžemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau-\nrę — piemenys, pecuarii, arba nomadai. Taigi pagal pa-\nnašumų ir žemės gamtą galima geriau išdėstyti tas skitų\nklases, negu perkeliant jas kitapus Mėlynųjų Vandenų ir\nKalančiako upių, taip pat negalima būtų parinkti visiems\nmetų laikams tinkamesnių, ypač gyvulių augintojams,\nvietų už Kalančiako."
+  citata_rodoma: |
+    Bet tarp Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-
+    ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
+    žemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau-
+    rę — piemenys, pecuarii, arba nomadai. Taigi pagal pa-
+    našumų ir žemės gamtą galima geriau išdėstyti tas skitų
+    klases, negu perkeliant jas kitapus Mėlynųjų Vandenų ir
+    Kalančiako upių, taip pat negalima būtų parinkti visiems
+    metų laikams tinkamesnių, ypač gyvulių augintojams,
+    vietų už Kalančiako.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -175,7 +184,14 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
     minės motinos vardu Arakso upę, arba Ross, suteikė šį
     vardą kitai didelei upei arba vienai jos vagų (§ 51), t. y.
     Volgai, ir pagaliau pažįstami Europoje budinu vardu.
-  citata_rodoma: "Čia tik priminsime, jog skitai daugiau-\nsia buvo tokie patys nomadai, išstumti iš Azijos į plačias\nlygumas, esančias į vakarus nuo Juodosios jūros; vie-\nna jų gentis priėmė Budos religiją, pakrikštijo savo gi-\nminės motinos vardu Arakso upę, arba Ross, suteikė šį\nvardą kitai didelei upei arba vienai jos vagų (§ 51), t. y.\nVolgai, ir pagaliau pažįstami Europoje budinu vardu."
+  citata_rodoma: |
+    Čia tik priminsime, jog skitai daugiau-
+    sia buvo tokie patys nomadai, išstumti iš Azijos į plačias
+    lygumas, esančias į vakarus nuo Juodosios jūros; vie-
+    na jų gentis priėmė Budos religiją, pakrikštijo savo gi-
+    minės motinos vardu Arakso upę, arba Ross, suteikė šį
+    vardą kitai didelei upei arba vienai jos vagų (§ 51), t. y.
+    Volgai, ir pagaliau pažįstami Europoje budinu vardu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

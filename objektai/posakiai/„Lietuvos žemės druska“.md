@@ -72,7 +72,8 @@ media_all_json: |-
     lietuviškai kalbėtų, melstųsi, mylėtų savo kraštą, jam dirbtų, būtų jo vadai,
     rūpintųsi liaudies švietimu ir gerove, kad jaunieji bajorai būtų Lietuvos že-
     mės druska.
-  citata_rodoma: "Lietuvos bajorų prašyta, kad būtų susipratę ir neveidmainiški lietuviai, kad"
+  citata_rodoma: |
+    Lietuvos bajorų prašyta, kad būtų susipratę ir neveidmainiški lietuviai, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

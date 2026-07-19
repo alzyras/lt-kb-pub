@@ -183,7 +183,10 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
     cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
     ras Milevskis, ardamas žemę, iškasė tą figūrą*.
-  citata_rodoma: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­\ncevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­\nras Milevskis, ardamas žemę, iškasė tą figūrą*."
+  citata_rodoma: |
+    Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
+    cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
+    ras Milevskis, ardamas žemę, iškasė tą figūrą*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

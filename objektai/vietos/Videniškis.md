@@ -107,7 +107,17 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     „ar“
     Sunkusis prancūziškas
     kulkosvaidis Hotchkiss.
-  citata_rodoma: "2-asis pulkas turėjo pulti Giedraičius\niš Želvos, jų puolimą turėjo paremti\n9-ojo pulko vienas batalionas, pulda-\nmas Giedraičių kryptimi iš Videniškio.\n\nta\n\n„ar“\nSunkusis prancūziškas\nkulkosvaidis Hotchkiss."
+  citata_rodoma: |
+    2-asis pulkas turėjo pulti Giedraičius
+    iš Želvos, jų puolimą turėjo paremti
+    9-ojo pulko vienas batalionas, pulda-
+    mas Giedraičių kryptimi iš Videniškio.
+
+    ta
+
+    „ar“
+    Sunkusis prancūziškas
+    kulkosvaidis Hotchkiss.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -70,7 +70,9 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
     valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
     mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
     cija, demokratija, konstitucija, barokas.
-  citata_rodoma: "duona, toleran-\ncija, demokratija, konstitucija, barokas."
+  citata_rodoma: |
+    duona, toleran-
+    cija, demokratija, konstitucija, barokas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

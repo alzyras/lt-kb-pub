@@ -112,7 +112,13 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: "Minėtieji Numa ir\n  520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos\nvalstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее\nГродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.\n105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;\nto paties, Абарончыя..., c. 52—55."
+  citata_rodoma: |
+    Minėtieji Numa ir
+      520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
+    valstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее
+    Гродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.
+    105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;
+    to paties, Абарончыя..., c. 52—55.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

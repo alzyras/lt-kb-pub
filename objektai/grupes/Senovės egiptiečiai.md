@@ -405,7 +405,20 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
     kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
     vai išrado tai, ką mes vadiname proto religija.
-  citata_rodoma: "Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų.\nPrieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai\npradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai\nrado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti\nvisose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­\nzacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­\nzuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais\n80\n\n## Puslapis 80\n\npakilo siekti šviesos."
+  citata_rodoma: |
+    Tokia pat dvasia gyveno dau­
+    gybė senųjų Azijos tautų.
+    Prieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai
+    pradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai
+    rado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti
+    visose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­
+    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
+    zuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais
+    80
+
+    ## Puslapis 80
+
+    pakilo siekti šviesos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -469,7 +482,13 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
     ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
     mas, mirtis ir amžinybė.
-  citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną."
+  citata_rodoma: |
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -552,7 +571,13 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
     šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
     jokios statulos, net paties Heraklio.
-  citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
+  citata_rodoma: |
+    Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -578,7 +603,20 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
     leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
     apgyventas sodybas.
-  citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
+  citata_rodoma: |
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
+    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
+    kalnai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -603,7 +641,18 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
     jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
     Saulė aptemdavo.
-  citata_rodoma: "Be jo­\nkios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­\ndžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­\nno, gyveno ši tauta, garbinusi dangaus kūnus .\nTegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai."
+  citata_rodoma: |
+    Be jo­
+    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
+    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
+    no, gyveno ši tauta, garbinusi dangaus kūnus .
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

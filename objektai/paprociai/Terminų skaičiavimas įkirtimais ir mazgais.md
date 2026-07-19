@@ -92,10 +92,13 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais. Apie prūsų laiko
-    skaičiavimą, buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
-    Życie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai.
-  citata_rodoma: "214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko\nskaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.\nŻycie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai."
+    214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko
+    skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
+    Życie..., p. 116 ir kt.
+  citata_rodoma: |
+    214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko
+    skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
+    Życie..., p. 116 ir kt.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

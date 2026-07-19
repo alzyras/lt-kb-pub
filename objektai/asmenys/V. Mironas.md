@@ -92,7 +92,11 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
     valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
-  citata_rodoma: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas \nMironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos \nvaldžia stengėsi parodyti, kad iš esmės nieko neįvyko."
+  citata_rodoma: |
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
+    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
+    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +116,11 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: "Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-\nginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono \nČerniaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-\ntijos gavo po dvi ministrų vietas."
+  citata_rodoma: |
+    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
+    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
+    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
+    tijos gavo po dvi ministrų vietas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

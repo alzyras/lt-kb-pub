@@ -66,7 +66,11 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
     įvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi
     išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
     aptarti ir kitokie reikalai.
-  citata_rodoma: "Porai mėnesių praslinkus, būtent spalių 1 d.\nįvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi\nišgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo\naptarti ir kitokie reikalai."
+  citata_rodoma: |
+    Porai mėnesių praslinkus, būtent spalių 1 d.
+    įvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi
+    išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
+    aptarti ir kitokie reikalai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

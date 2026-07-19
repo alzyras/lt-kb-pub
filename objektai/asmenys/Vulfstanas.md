@@ -224,7 +224,13 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     savininkams. Čia irgi nestigo ponų, turėjusių savaran­
     kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;
     jų karta išliko ligi šiol.
-  citata_rodoma: "Antra ap­\nskritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo\nsenovės stovėjusios pilaitės galėjo priklausyti įvairiems\nsavininkams. Čia irgi nestigo ponų, turėjusių savaran­\nkiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;\njų karta išliko ligi šiol."
+  citata_rodoma: |
+    Antra ap­
+    skritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo
+    senovės stovėjusios pilaitės galėjo priklausyti įvairiems
+    savininkams. Čia irgi nestigo ponų, turėjusių savaran­
+    kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;
+    jų karta išliko ligi šiol.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

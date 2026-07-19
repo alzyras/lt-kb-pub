@@ -108,7 +108,17 @@ Nenurodyta
     Žvalgonys (Swalgones)
     Tai buvo žyniai, atliekantys vedybų apeigas, arba tekančių
     merginų abejotinos skaistybės bylų teisėjai.
-  citata_rodoma: "Šis iš pradžių nu­\nramindavo ligonį, tikindamas, kad jeigu dievai lėmę jam mir­\nti, tai rasiąs pas juos laimingą gyvenimą. Jeigu liga užtrukdavo\ndaugiau nei keturis mėnesius, ligonis darydavo kokius nors\napžadus, įsipareigodamas dievams juos įvykdyti, kai tik pa­\nsveiks, tačiau jeigu ir tai nepadėdavo, būdavo griebiamasi pas­\nkutinio vaisto, tai yra atnešdavo pelenų iš Amžinosios ugnies\naukuro ir juos su visokiomis apeigomis panaudodavo ligai iš­\nginti“25.\nKiekviena žymesnė gyvenvietė turėjo savo vaidilas."
+  citata_rodoma: |
+    Šis iš pradžių nu­
+    ramindavo ligonį, tikindamas, kad jeigu dievai lėmę jam mir­
+    ti, tai rasiąs pas juos laimingą gyvenimą. Jeigu liga užtrukdavo
+    daugiau nei keturis mėnesius, ligonis darydavo kokius nors
+    apžadus, įsipareigodamas dievams juos įvykdyti, kai tik pa­
+    sveiks, tačiau jeigu ir tai nepadėdavo, būdavo griebiamasi pas­
+    kutinio vaisto, tai yra atnešdavo pelenų iš Amžinosios ugnies
+    aukuro ir juos su visokiomis apeigomis panaudodavo ligai iš­
+    ginti“25.
+    Kiekviena žymesnė gyvenvietė turėjo savo vaidilas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -132,7 +132,8 @@ Nenurodyta
     vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
     šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
     nėse iškovojo bronzos medalius.
-  citata_rodoma: "vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-"
+  citata_rodoma: |
+    vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +154,8 @@ Nenurodyta
     mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto
     tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
     šakų sporto varžybose už savo šalį.
-  citata_rodoma: "tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių"
+  citata_rodoma: |
+    tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

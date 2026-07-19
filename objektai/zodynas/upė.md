@@ -144,7 +144,9 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
     nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
     upė. Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
     leela; iš čia svetimšaliai autoriai mini Apuliją.
-  citata_rodoma: "Leela yra latvių kalbos būdvardis, Leela-Uppe reiš-\nkia Didelę upę4."
+  citata_rodoma: |
+    Leela yra latvių kalbos būdvardis, Leela-Uppe reiš-
+    kia Didelę upę4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -157,15 +159,23 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
+    Žodis Upe lietu­
+    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
+    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
+    tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
     kia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,
     ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
     nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
-    upė. Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
-    leela; iš čia svetimšaliai autoriai mini Apuliją. O Anger
-    upės žinomos dvi: viena įteka į Ventą iš jos dešiniosios
-    pakrantės, antra — į Engūrės ežerą.
-  citata_rodoma: "Žodis Upe lietu­\nvių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių\nbūtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­\ntys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­\nkia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,\nši upė, tiesą sakant, šiandien mums nežinoma, bet ma­\nnome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti\nupė."
+    upė.
+  citata_rodoma: |
+    Žodis Upe lietu­
+    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
+    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
+    tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
+    kia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,
+    ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
+    nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
+    upė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

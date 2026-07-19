@@ -131,7 +131,13 @@ Nenurodyta
     toliau - palei Vilniaus-Lydos geležinkelį iki
     Bastūnų stoties. Varėnos ir Bastūnų stotys
     liko lenkams.
-  citata_rodoma: "Galiausiai spalio 7 d. buvo nusta-\ntyta demarkacinė linija nuo Vokietijos sienos\niki Juodosios Ančios ir Nemuno santakos,\ntoliau - palei Vilniaus-Lydos geležinkelį iki\nBastūnų stoties. Varėnos ir Bastūnų stotys\nliko lenkams."
+  citata_rodoma: |
+    Galiausiai spalio 7 d. buvo nusta-
+    tyta demarkacinė linija nuo Vokietijos sienos
+    iki Juodosios Ančios ir Nemuno santakos,
+    toliau - palei Vilniaus-Lydos geležinkelį iki
+    Bastūnų stoties. Varėnos ir Bastūnų stotys
+    liko lenkams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +160,13 @@ Nenurodyta
     iki Juodosios Ančios ir Nemuno santakos,
     toliau - palei Vilniaus-Lydos geležinkelį iki
     Bastūnų stoties.
-  citata_rodoma: "Derybose Lietuvos delegacija reikalavo\nnustatyti laikiną demarkacijos liniją, pasi-\nbaigus lenkų-bolševikų kovoms, atitraukti\nlenkų pajėgas už Lietuvos su sovietais sude-\nrėtų sienų. Lenkai su tuo nesutiko ir vilkino\nderybas. Galiausiai spalio 7 d."
+  citata_rodoma: |
+    Derybose Lietuvos delegacija reikalavo
+    nustatyti laikiną demarkacijos liniją, pasi-
+    baigus lenkų-bolševikų kovoms, atitraukti
+    lenkų pajėgas už Lietuvos su sovietais sude-
+    rėtų sienų. Lenkai su tuo nesutiko ir vilkino
+    derybas. Galiausiai spalio 7 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

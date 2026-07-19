@@ -77,7 +77,10 @@ Nenurodyta
 
     p. 220, Vokiškas pistoletas Walther pp (Walther Polizeipistole), vDKM, Artūro Užgalio nuotr.
     p. 221, Panevėžio apylinkių partizanai, (Privati kolekcija).
-  citata_rodoma: "220, Sovietų pistoletas TT (TT 33), VDKM, Artūro Užgalio nuotr.\n\np. 220, Vokiškas pistoletas Walther pp (Walther Polizeipistole), vDKM, Artūro Užgalio nuotr."
+  citata_rodoma: |
+    220, Sovietų pistoletas TT (TT 33), VDKM, Artūro Užgalio nuotr.
+
+    p. 220, Vokiškas pistoletas Walther pp (Walther Polizeipistole), vDKM, Artūro Užgalio nuotr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

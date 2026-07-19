@@ -79,7 +79,17 @@ media_all_json: |-
 
     „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
     labai skiriasi nuo kitų ir dėl to pažymėtinas.
-  citata_rodoma: "Žinoma, šie, bent jau žuvusių skai-\nčiai, yra gerokai pamažinti, tačiau galima\n\nLAUKO STOVYKLA\n\nIštrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos\nkariuomenių stovyklos aprašymo.\n\n„Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas\nlabai skiriasi nuo kitų ir dėl to pažymėtinas."
+  citata_rodoma: |
+    Žinoma, šie, bent jau žuvusių skai-
+    čiai, yra gerokai pamažinti, tačiau galima
+
+    LAUKO STOVYKLA
+
+    Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos
+    kariuomenių stovyklos aprašymo.
+
+    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
+    labai skiriasi nuo kitų ir dėl to pažymėtinas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

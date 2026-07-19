@@ -78,7 +78,10 @@ media_all_json: |-
     tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebe-
     gyvuoja, jungdama viso krašto lietuvius. Buvo dar įkurta ir
     mažesnių draugijų.
-  citata_rodoma: "1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje\ntikybinė lietuvių draugija, vardu „Sandara\", kuri irgi tebe-\ngyvuoja, jungdama viso krašto lietuvius."
+  citata_rodoma: |
+    1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje
+    tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebe-
+    gyvuoja, jungdama viso krašto lietuvius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

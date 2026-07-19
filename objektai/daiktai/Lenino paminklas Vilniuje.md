@@ -114,7 +114,8 @@ Nenurodyta
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
     1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
-  citata_rodoma: "1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka"
+  citata_rodoma: |
+    1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -72,7 +72,12 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
     — (”) _Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem
     Boden,_ Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. —
     Smolka, St.
-  citata_rodoma: "Rechtsgeschich­\nte, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 451-454 p.\n— (”) _Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem\nBoden,_ Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. —\nSmolka, St."
+  citata_rodoma: |
+    Rechtsgeschich­
+    te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 451-454 p.
+    — (”) _Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem
+    Boden,_ Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. —
+    Smolka, St.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

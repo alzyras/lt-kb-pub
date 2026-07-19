@@ -100,7 +100,14 @@ media_all_json: |-
     iki Nevėžio ir Sūduva iki Šešupės aukštu-
     pio. Kryžiuočiai turėjo remti LDK veiksmus
     rytuose.
-  citata_rodoma: "Nemuno saloje „Salyne“ (kiek žemiau\nKulautuvos) Vytauto ir didžiojo magistro\nKonrado delegacijų susitikime buvo pa-\ntvirtinta kryžiuočiams užleista Žemaitija\niki Nevėžio ir Sūduva iki Šešupės aukštu-\npio. Kryžiuočiai turėjo remti LDK veiksmus\nrytuose."
+  citata_rodoma: |
+    Nemuno saloje „Salyne“ (kiek žemiau
+    Kulautuvos) Vytauto ir didžiojo magistro
+    Konrado delegacijų susitikime buvo pa-
+    tvirtinta kryžiuočiams užleista Žemaitija
+    iki Nevėžio ir Sūduva iki Šešupės aukštu-
+    pio. Kryžiuočiai turėjo remti LDK veiksmus
+    rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

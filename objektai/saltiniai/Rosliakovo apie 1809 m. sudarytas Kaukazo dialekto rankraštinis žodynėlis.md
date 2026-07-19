@@ -98,7 +98,14 @@ Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodyn
     kad ne tik miškai, bet ir juose gyvenantys paukščiai ir žvėrys
     buvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė
     susukdavo kojas ir rankas“.
-  citata_rodoma: "Tokios nuomo­\nnės yra Malte-Brunas (Vocabulaire de mots génériques). Bet labiau\nįsigilinus į kalbas, paaiškėja, kad indų-budinų kalba, išlikusia šalyje\nprie Arakso, Kas p reiškia plikas, o Koh -  kalnas. Iš čia Kaspijos jūra\nvieloje reiškia Plikoji jūra; tai perkeltinis pavadinimas jūros, turin­\nčios plikus krantus (kažkokio Kaukazo dialekto rankraštinis žody­\nnėlis, surašytas gydytojo Rosliakovo apie 1809 metus)."
+  citata_rodoma: |
+    Tokios nuomo­
+    nės yra Malte-Brunas (Vocabulaire de mots génériques). Bet labiau
+    įsigilinus į kalbas, paaiškėja, kad indų-budinų kalba, išlikusia šalyje
+    prie Arakso, Kas p reiškia plikas, o Koh -  kalnas. Iš čia Kaspijos jūra
+    vieloje reiškia Plikoji jūra; tai perkeltinis pavadinimas jūros, turin­
+    čios plikus krantus (kažkokio Kaukazo dialekto rankraštinis žody­
+    nėlis, surašytas gydytojo Rosliakovo apie 1809 metus).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

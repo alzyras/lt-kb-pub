@@ -109,7 +109,11 @@ Nenurodyta
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
     žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
-  citata_rodoma: "O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai\nkaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-\nriausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą\nžygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija."
+  citata_rodoma: |
+    O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+    riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
+    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +133,9 @@ Nenurodyta
     problemą ir tikino lenkus, kad nė vienas Lietuvos kareivis neperžengs
     administracinės linijos. Kitaip Lietuva būtų tapusi agresore ir sugadin-
     tų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai.
-  citata_rodoma: "Kitaip Lietuva būtų tapusi agresore ir sugadin-\ntų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai."
+  citata_rodoma: |
+    Kitaip Lietuva būtų tapusi agresore ir sugadin-
+    tų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

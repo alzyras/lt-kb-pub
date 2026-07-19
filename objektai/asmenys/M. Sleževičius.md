@@ -101,7 +101,14 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
     žemių, verždamasi Daugpilio link. Lietuvos
     daliniai, persekiodami priešus, rugpjū-
     čio 29 d. pasiekė Dauguvos krantus.
-  citata_rodoma: "rugpjūtį\n\n1919 rugpjūčio 30 d. ministras pirmi-\nninkas M. Sleževičius pasveikino vyr. ka-\nriuomenės vadą gen S. Žukauską, visus\n\nžemių, verždamasi Daugpilio link."
+  citata_rodoma: |
+    rugpjūtį
+
+    1919 rugpjūčio 30 d. ministras pirmi-
+    ninkas M. Sleževičius pasveikino vyr. ka-
+    riuomenės vadą gen S. Žukauską, visus
+
+    žemių, verždamasi Daugpilio link.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +129,13 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
     Mašiotas, A. Janulaitis ir M. Sleževičius. Partijų kovoms nė tuomet
     neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
     rų) nariai iš jo išstojo.
-  citata_rodoma: "Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,\n  vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J.\n  Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta,\n  kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius, kun.\n  Jezukevičius, D. Malinauskas, J. Balčikonis, A. Žmuidzinavičius, J.\n  Mašiotas, A. Janulaitis ir M. Sleževičius."
+  citata_rodoma: |
+    Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
+      vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J.
+      Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta,
+      kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius, kun.
+      Jezukevičius, D. Malinauskas, J. Balčikonis, A. Žmuidzinavičius, J.
+      Mašiotas, A. Janulaitis ir M. Sleževičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -272,7 +272,12 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     rias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;
     pagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­
     sirodyti, ir kitokiais panašiais prasimanymais.
-  citata_rodoma: "Paskutinis Prūsijos\nKrivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­\nrėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-\nje, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­\nžiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti."
+  citata_rodoma: |
+    Paskutinis Prūsijos
+    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
+    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
+    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
+    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -298,7 +303,12 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
     kietėjusių savo savasties gynėjų - žynių ir liaudies, pabėgo pas
     kryžiuočius.
-  citata_rodoma: "Tasai senelis ir toliau nematė\nbūdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti\napie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­\nkietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas\nkryžiuočius."
+  citata_rodoma: |
+    Tasai senelis ir toliau nematė
+    būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti
+    apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
+    kietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas
+    kryžiuočius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -322,7 +332,12 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
     ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
     ir garantuotų sau politinę ramybę.
-  citata_rodoma: "Pagaliau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­\nžinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo\npažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­\nti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą\nir garantuotų sau politinę ramybę."
+  citata_rodoma: |
+    Pagaliau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
+    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
+    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
+    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
+    ir garantuotų sau politinę ramybę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -345,7 +360,12 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
     tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
     metais visuotinai buvo priimtas krikščionių tikėjimas.
-  citata_rodoma: "Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­\ngį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­\nčionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­\ntė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387\nmetais visuotinai buvo priimtas krikščionių tikėjimas."
+  citata_rodoma: |
+    Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­
+    gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­
+    čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
+    tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
+    metais visuotinai buvo priimtas krikščionių tikėjimas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -368,7 +388,16 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     nigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo
     mokėti jam atlygį. Pas krašto valdovus siųsdavo pasiuntinius;
     šie visuomet būdavo taikos pasiuntiniai.
-  citata_rodoma: "Atlikdamas apei­\ngas, ant galvos užsidėdavo cukraus galvos pavidalo mitrą, iš­\npuoštą kaspinais, grandinėlėmis, karoliukais, brangakmeniais. \nPer dešinįjį petį persijuosdavo įuosta arba diržu, išrašytu mi­\ntologiniais žodžiais ir Perkūno ženklais. Vyriausiasis žynys bu­\nčiavo išlaikomas visuomenės lėšomis taip, kad jam atitekdavo \ntrečdalis grobio, atkovoto iš priešo. Jis taikindavo dalinius ku­\nnigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo \nmokėti jam atlygį."
+  citata_rodoma: |
+    Atlikdamas apei­
+    gas, ant galvos užsidėdavo cukraus galvos pavidalo mitrą, iš­
+    puoštą kaspinais, grandinėlėmis, karoliukais, brangakmeniais.
+    Per dešinįjį petį persijuosdavo įuosta arba diržu, išrašytu mi­
+    tologiniais žodžiais ir Perkūno ženklais. Vyriausiasis žynys bu­
+    čiavo išlaikomas visuomenės lėšomis taip, kad jam atitekdavo
+    trečdalis grobio, atkovoto iš priešo. Jis taikindavo dalinius ku­
+    nigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo
+    mokėti jam atlygį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

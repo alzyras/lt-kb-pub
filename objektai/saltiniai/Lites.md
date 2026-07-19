@@ -72,7 +72,12 @@ Raczyński : RaCD, 82, 251 p. ; Lites, II, 1892.
     LUB, IV, 457-459 p. ; E.** Weise **: StVW, 31 sqq. ; E. Raczyński : RaCD,
     82, 251 p. ; Lites, II, 1892.**
     (^31) **CEV, 97 p.**
-  citata_rodoma: "**\n(^30) **Racionžo (Raciąžo) susitarimų dokumentai išsp. : CEV, 96-99 p. ;\nLUB, IV, 457-459 p. ; E.** Weise **: StVW, 31 sqq. ; E. Raczyński : RaCD,\n82, 251 p. ; Lites, II, 1892.**\n(^31) **CEV, 97 p."
+  citata_rodoma: |
+    **
+    (^30) **Racionžo (Raciąžo) susitarimų dokumentai išsp. : CEV, 96-99 p. ;
+    LUB, IV, 457-459 p. ; E.** Weise **: StVW, 31 sqq. ; E. Raczyński : RaCD,
+    82, 251 p. ; Lites, II, 1892.**
+    (^31) **CEV, 97 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

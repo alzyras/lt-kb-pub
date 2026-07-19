@@ -97,7 +97,11 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
     (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
     prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
     aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
-  citata_rodoma: "Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties\n(1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio\nprekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,\naišku, kad nuoširdžių santykių su Vytautu negalėjo būti."
+  citata_rodoma: |
+    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
+    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
+    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
+    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

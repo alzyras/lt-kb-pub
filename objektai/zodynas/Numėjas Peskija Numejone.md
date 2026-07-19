@@ -106,7 +106,12 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
     Lietuvonis (Lieth u wanis)
     Lietaus dievaitis; tas, kuris švelniu lietumi reikiamu metu
     nudžiugina gamtą.
-  citata_rodoma: "Buvo ir keliautojų deivė Vibilia.\nNumėjas ir Peskija (Numejas i Peskia)\nDievaitis ir dievaitė, jo draugė, svetingumo dievybės. Šių\nžodžių prasmė, senosios kalbos aiškinimu5, sutampa su šių die­\nvybių pašaukimu, žemaitiškai reiškia Swecias ir [Viešnia."
+  citata_rodoma: |
+    Buvo ir keliautojų deivė Vibilia.
+    Numėjas ir Peskija (Numejas i Peskia)
+    Dievaitis ir dievaitė, jo draugė, svetingumo dievybės. Šių
+    žodžių prasmė, senosios kalbos aiškinimu5, sutampa su šių die­
+    vybių pašaukimu, žemaitiškai reiškia Swecias ir [Viešnia.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -126,7 +131,14 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
     patvirtina šios nuomonės teisingumą.
     Frėjus apdovanodavo turtais, gausa ir taika, siųsdamas pa­
     lankią elementų įtaką. Tą patį darė ir Lietuvonis, siųsdamas
-  citata_rodoma: "Būta ir viešo svetingumo, tai yra šventyklose ir šventose\ngiraitėse; ten ne tik žmogus, bet ir kiekvienas gyvas padaras\nrasdavo prieglobstį nuo persekiojimo. Tikrąja to žodžio pras­\nme tai buvo šventosios slėptuvės,/lz>7«. Miestuose būdavo sve­\nčių namai, vadinti namijomis (Numejone). Juose apgyvendin­\nti svetimšaliai jausdavosi visiškai saugūs -  tiek asmenys, tiek\nturtas."
+  citata_rodoma: |
+    Būta ir viešo svetingumo, tai yra šventyklose ir šventose
+    giraitėse; ten ne tik žmogus, bet ir kiekvienas gyvas padaras
+    rasdavo prieglobstį nuo persekiojimo. Tikrąja to žodžio pras­
+    me tai buvo šventosios slėptuvės,/lz>7«. Miestuose būdavo sve­
+    čių namai, vadinti namijomis (Numejone). Juose apgyvendin­
+    ti svetimšaliai jausdavosi visiškai saugūs -  tiek asmenys, tiek
+    turtas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -179,7 +179,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   temporalinis_llm_pakomentavimas: "Sakinys aiškiai nurodo objektą, datą ir Volianskio skaitymą. Nepridėtos detalės apie trikampį, paukštį, žvėrį ar deglą."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173172
+    - c-173167
 
 <a id="claim-t-190290"></a>
 - t-008
@@ -266,7 +266,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173685
+    - c-173686
 
 <a id="claim-t-190804"></a>
 - t-012
@@ -350,7 +350,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173689
+    - c-015
 
 <a id="claim-t-197338"></a>
 - t-016
@@ -459,6 +459,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-190806
+    - t-190807
 ## Citatos
 
 - id: c-173165
@@ -504,7 +505,10 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     miasi į ilgą lazdą, stovinčią ant žemės. Dešinioji ranka nuleis­
     ta žemyn, tarytum rodo pradžią užrašo, einančio ratu iš apa­
     čios į viršų, pradedant nuo 0.
-  citata_rodoma: "Ponas Tadas Volianskis mato tą galvą su ragais, kurie iš užpakalio\npanašūs į erelį su nagais. Be to, dievas yra nuogas, taigi Santvaras yra\npragaro dievybė. Mes gi matome ne ragus, bet saulės spindulius."
+  citata_rodoma: |
+    Ponas Tadas Volianskis mato tą galvą su ragais, kurie iš užpakalio
+    panašūs į erelį su nagais. Be to, dievas yra nuogas, taigi Santvaras yra
+    pragaro dievybė. Mes gi matome ne ragus, bet saulės spindulius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -512,6 +516,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190284
+    - t-190289
 - id: c-173168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -521,7 +526,10 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     rankoje laiko kažką panašaus į skydą, o dešiniąja arba remiasi į
     žemę, arba siekia ginklo. Už riterio galvos yra ženklas „O“, virš
     kurio - žvėries letena ir ženklas „I“.
-  citata_rodoma: "Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.\nJi buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems\npaminklams. Si moneta yra senesnė už mūsų turimą."
+  citata_rodoma: |
+    Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.
+    Ji buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems
+    paminklams. Si moneta yra senesnė už mūsų turimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -545,7 +553,13 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
     pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
     du erelio sparnai.
-  citata_rodoma: "Tačiau nežinome, iš kokio šaltinio yra\ntas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio\nvardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­\nkyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas\ntarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­\nčios vėliavos."
+  citata_rodoma: |
+    Tačiau nežinome, iš kokio šaltinio yra
+    tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
+    vardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­
+    kyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas
+    tarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­
+    čios vėliavos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -589,7 +603,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190289
     - t-197338
 - id: c-173173
   autorius: "Teodoras Narbutas"
@@ -603,7 +616,10 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     lenski. - 1825. - T. I. - S. 17-34.
     P. 446* - Tekstas, kuriuo autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ.
-  citata_rodoma: "Informaciją apie užrašą T. Narbutas paėmė iš mi­\nnėto T. Volianskio laiško (Bidgoščius. 1844. I.\n17(29). T. Volianskis T. Narbutui. -  P. 14)."
+  citata_rodoma: |
+    Informaciją apie užrašą T. Narbutas paėmė iš mi­
+    nėto T. Volianskio laiško (Bidgoščius. 1844. I.
+    17(29). T. Volianskis T. Narbutui. -  P. 14).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -629,7 +645,12 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     Jadzwingów siedlisko bylo między Dunajem i
     Tyssą rzekami, przed przyjšciem nad Bug)
     (PE.
-  citata_rodoma: "Tekstas buvo parengtas remiantis T. Vo-\nlianskio tyrinėjimais (Tadeusza Wolanskiego\nlisty o starožytnošciach slawianskich. Zbiór\npierwszy. Gniezno, 1845. S. 22—23), taip pat\njau minėta J. Hamerio monografija."
+  citata_rodoma: |
+    Tekstas buvo parengtas remiantis T. Vo-
+    lianskio tyrinėjimais (Tadeusza Wolanskiego
+    listy o starožytnošciach slawianskich. Zbiór
+    pierwszy. Gniezno, 1845. S. 22—23), taip pat
+    jau minėta J. Hamerio monografija.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -654,7 +675,13 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     iliustruotas įdomiais piešiniais; juolab kad numizmato
     išvados būdavo tiesiog stulbinančios ir dažnai patvirti­
     nančios paties T. Narbuto hipotezes.
-  citata_rodoma: "T. Volianskio dėka\nsenoji Lietuvos istorija nušvito naujomis spalvomis. Po­\nznanės kolekcionieriaus išvadomis istorikas puolė pildyti\nparankinio LTI egzemplioriaus tomus. Šiandien net sun­\nku būtų suskaičiuoti, kiek tokių papildymų buvo padaryta,\nir bene daugiausia jų tektų pirmam tomui."
+  citata_rodoma: |
+    T. Volianskio dėka
+    senoji Lietuvos istorija nušvito naujomis spalvomis. Po­
+    znanės kolekcionieriaus išvadomis istorikas puolė pildyti
+    parankinio LTI egzemplioriaus tomus. Šiandien net sun­
+    ku būtų suskaičiuoti, kiek tokių papildymų buvo padaryta,
+    ir bene daugiausia jų tektų pirmam tomui.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -683,7 +710,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190803
     - t-197646
 - id: c-173686
   autorius: "Teodoras Narbutas"
@@ -709,6 +735,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-190803
     - t-190804
 - id: c-173687
   autorius: "Teodoras Narbutas"
@@ -750,7 +777,17 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
     liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
     erelio sparnai.
-  citata_rodoma: "183 /P.\n329,\n4\npastraipos\ntęsinys/\nUžrašą runomis p/onas/ Tad/as/ Volianskis skaito taip: Simeonas\n(SI-ME-ON).\nSakinys, kuriuo T, Narbutas papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L, 416). Tai informacija iš minėto T. Volianskio\nlaiško (Ten pat)."
+  citata_rodoma: |
+    183 /P.
+    329,
+    4
+    pastraipos
+    tęsinys/
+    Užrašą runomis p/onas/ Tad/as/ Volianskis skaito taip: Simeonas
+    (SI-ME-ON).
+    Sakinys, kuriuo T, Narbutas papildė paragrafą, rengdamas antrąjį
+    LTI leidimą (PEĮ. L, 416). Tai informacija iš minėto T. Volianskio
+    laiško (Ten pat).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -779,7 +816,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190807
     - t-197647
 - id: c-179278
   autorius: "Teodoras Narbutas"

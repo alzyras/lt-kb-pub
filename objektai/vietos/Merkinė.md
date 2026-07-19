@@ -439,7 +439,16 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 
     (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
     sėje.
-  citata_rodoma: "Suvalkų derybos pasibaigė susitarimu, kurį abi ša-\nlys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-\ndama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-\nte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-\nsioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno\n— visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų\n\n(prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-\nsėje."
+  citata_rodoma: |
+    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
+    lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
+    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
+    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
+    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
+    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
+
+    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
+    sėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -475,7 +484,27 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas,
     kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą
     organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs).
-  citata_rodoma: "Antrasis būrys be įsakymo\n\nMERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.\n\ndalyvavę būriai ir pamažu atsitraukė\n\niš miestelio. Stipriai nukentėjęs priešas\n\natsitraukiančių partizanų nepersekiojo.\nKautynių metu iš Alytaus rusai trimis\n\nsunkvežimiais skubėjo į pagalbą Merkinės\n\nNKVD kariams ir stribams. Tačiau jie\n\n## Puslapis 235\n\nLIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA\n\n1949 m."
+  citata_rodoma: |
+    Antrasis būrys be įsakymo
+
+    MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
+
+    dalyvavę būriai ir pamažu atsitraukė
+
+    iš miestelio. Stipriai nukentėjęs priešas
+
+    atsitraukiančių partizanų nepersekiojo.
+    Kautynių metu iš Alytaus rusai trimis
+
+    sunkvežimiais skubėjo į pagalbą Merkinės
+
+    NKVD kariams ir stribams. Tačiau jie
+
+    ## Puslapis 235
+
+    LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA
+
+    1949 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -518,7 +547,13 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     kius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­
     tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
     krikštyti kunigai ir vienuoliai.
-  citata_rodoma: "Čia jis aplankė didesnius Lietuvos miestelius,\nkaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,\nkur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­\nkius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­\ntas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių\nkrikštyti kunigai ir vienuoliai."
+  citata_rodoma: |
+    Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­
+    tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
+    krikštyti kunigai ir vienuoliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -551,7 +586,23 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     KARALIAUS ALEKSANDRO TESTAMENTAS
     1506 METAI
     (Iš Dogelio rankraščių buv.
-  citata_rodoma: "Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui\nir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems\nLDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,\nMerkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-\nko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-\nbavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės\nrūmininkui Albertui Janavičiui, apaštališkojo sosto protono-\ntaro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo\nErazmo, dalyvavusio sprendime, ranka.\n\n## Puslapis 384\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nKARALIAUS ALEKSANDRO TESTAMENTAS\n1506 METAI\n(Iš Dogelio rankraščių buv."
+  citata_rodoma: |
+    Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
+    ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems
+    LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,
+    Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-
+    ko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-
+    bavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės
+    rūmininkui Albertui Janavičiui, apaštališkojo sosto protono-
+    taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
+    Erazmo, dalyvavusio sprendime, ranka.
+
+    ## Puslapis 384
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIAUS ALEKSANDRO TESTAMENTAS
+    1506 METAI
+    (Iš Dogelio rankraščių buv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -573,7 +624,10 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala.
-  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala."
+  citata_rodoma: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -606,7 +660,23 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 
     Būsimasis Dzūkijos partizanų vadas gimė mažažemių
     dzūkų ūkininkų šeimoje.
-  citata_rodoma: "Vanagas, pasitaręs su A apygar-\ndos vadu Juozu Vitkumi-Kazimieraičiu,\nnutarė sutelkti apylinkių partizanų da-\nlinius ir pulti Merkinės miestelį, at-\nkeršijant už kovos draugų žūtį.\n\nDainavos apygardos\n\n## Puslapis 233\n\nAdolfas Ramanauskas-Vanagas\n\n(1918-1957)\n\nBūsimasis Dzūkijos partizanų vadas gimė mažažemių\ndzūkų ūkininkų šeimoje."
+  citata_rodoma: |
+    Vanagas, pasitaręs su A apygar-
+    dos vadu Juozu Vitkumi-Kazimieraičiu,
+    nutarė sutelkti apylinkių partizanų da-
+    linius ir pulti Merkinės miestelį, at-
+    keršijant už kovos draugų žūtį.
+
+    Dainavos apygardos
+
+    ## Puslapis 233
+
+    Adolfas Ramanauskas-Vanagas
+
+    (1918-1957)
+
+    Būsimasis Dzūkijos partizanų vadas gimė mažažemių
+    dzūkų ūkininkų šeimoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -627,7 +697,11 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios\nvietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."
+  citata_rodoma: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
+    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -649,7 +723,12 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
     kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
     kius juos tikėjimo tiesų, krikštijami.
-  citata_rodoma: "Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į\nrytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,\nkaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,\nkur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­\nkius juos tikėjimo tiesų, krikštijami."
+  citata_rodoma: |
+    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
+    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -675,7 +754,14 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     yra keturi herbiniai skydai; viename, kurį kaire ranka laiko
     kunigaikštis, sėdintis soste su kalaviju dešinėje rankoje, pa­
     vaizduotas Lietuvos Vytis; tai visos Lietuvos herbas.
-  citata_rodoma: "IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­\nnu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su\npridėtu kažkokiu ženklu, panašiu į biarmišką raidę Pej, arba P.\nVirš skydo tarytum kita tos abėcėlės raidė -  Mena, arba M;\nžiedo auksakalio darbas labai gražus, graviravimas grubus ir\ntarsi demonstruojantis pirmą raižytojo gabumų išmėginimą,\nbet išrėžta labai giliai."
+  citata_rodoma: |
+    IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­
+    nu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su
+    pridėtu kažkokiu ženklu, panašiu į biarmišką raidę Pej, arba P.
+    Virš skydo tarytum kita tos abėcėlės raidė -  Mena, arba M;
+    žiedo auksakalio darbas labai gražus, graviravimas grubus ir
+    tarsi demonstruojantis pirmą raižytojo gabumų išmėginimą,
+    bet išrėžta labai giliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -88,7 +88,9 @@ Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie 
     pavadinimais Ausiurland, Austarreich, Austurmeg, o tai
     reiškia Rytų žemę, Rytų valstybę, Rytų kelią. Tam tikrą
     šios žemės dalį skandinavai vadino Reithgothland.
-  citata_rodoma: "Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1\n1 Histoire de Pologne par Zielinski. Paris, 1830. T. 1. P. 166."
+  citata_rodoma: |
+    Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1
+    1 Histoire de Pologne par Zielinski. Paris, 1830. T. 1. P. 166.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

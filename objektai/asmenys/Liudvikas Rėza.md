@@ -147,7 +147,8 @@ media_all_json: |-
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
     Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
     poe­ma „Metai“ (su vertimu į vokiečių kalbą).
-  citata_rodoma: "Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta"
+  citata_rodoma: |
+    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -174,7 +175,21 @@ media_all_json: |-
     ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
     arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
     11 Sirvydo žodynas.
-  citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
+  citata_rodoma: |
+    Jau ir šiaip žinome, ir anksčiau sakėme, kad
+    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
+    8
+    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
+    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
+    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
+    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
+    430
+
+    ## Puslapis 430
+
+    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
+    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
+    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

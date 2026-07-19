@@ -73,7 +73,13 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     mentai: tame pačiame Petrakavos seime lenkai ir lietuvių de-
     legatai susikeitė dokumentais, o kiek vėliau Melnike tą susita-
     rimą atskiru dokumentu patvirtino Aleksandras.
-  citata_rodoma: "Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,\nnormuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti\ntikroji valstybių unija. Naują susitarimą patvirtino trys doku-\nmentai: tame pačiame Petrakavos seime lenkai ir lietuvių de-\nlegatai susikeitė dokumentais, o kiek vėliau Melnike tą susita-\nrimą atskiru dokumentu patvirtino Aleksandras."
+  citata_rodoma: |
+    Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,
+    normuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti
+    tikroji valstybių unija. Naują susitarimą patvirtino trys doku-
+    mentai: tame pačiame Petrakavos seime lenkai ir lietuvių de-
+    legatai susikeitė dokumentais, o kiek vėliau Melnike tą susita-
+    rimą atskiru dokumentu patvirtino Aleksandras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +118,12 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     tų bendrą seimą, bendrai vienoje vietoje
     rinktąjį valdovą, bendrą apsaugą ir bendrus
     pinigus.
-  citata_rodoma: "Šiuo susita-\nrimu buvo norima įkurti viena jungtinė valstybė, kuri turė-\ntų bendrą seimą, bendrai vienoje vietoje\nrinktąjį valdovą, bendrą apsaugą ir bendrus\npinigus."
+  citata_rodoma: |
+    Šiuo susita-
+    rimu buvo norima įkurti viena jungtinė valstybė, kuri turė-
+    tų bendrą seimą, bendrai vienoje vietoje
+    rinktąjį valdovą, bendrą apsaugą ir bendrus
+    pinigus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

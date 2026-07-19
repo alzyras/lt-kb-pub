@@ -99,7 +99,12 @@ Nenurodyta
     Glinskis išsiuntė žvalgybinį husarų
     būrį, kuriam pavyko užklupti nedi-
     delį totorių padalinį.
-  citata_rodoma: "Pirmomis dienomis po žinios apie toto-\nrių plėšimus buvo paskelbta bajorų mo-\nbilizacija. Liepos 29 d. Lydoje jau turėjo\nbūti susitelkusios kaimyninių pavietų\nvėliavos ir didikų pulkai."
+  citata_rodoma: |
+    Pirmomis dienomis po žinios apie toto-
+    rių plėšimus buvo paskelbta bajorų mo-
+    bilizacija. Liepos 29 d. Lydoje jau turėjo
+    būti susitelkusios kaimyninių pavietų
+    vėliavos ir didikų pulkai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -120,7 +125,13 @@ Nenurodyta
     sparčiau. Būtent šios struktūrinės-orga-
     nizacinės Lietuvos karinės organizacijos
     silpnosios vietos leido totoriams dažnai
-  citata_rodoma: "Iš kitos pusės, nesant masinės reguliarios\nkariuomenės, bajorų pašauktinės kariuo-\nmenės mobilizacija galėdavo užtrukti tol,\nkol jos jau nebereikėdavo, nes po apiplė-\nšimo totoriai stengdavosi pasitraukti kuo\nsparčiau."
+  citata_rodoma: |
+    Iš kitos pusės, nesant masinės reguliarios
+    kariuomenės, bajorų pašauktinės kariuo-
+    menės mobilizacija galėdavo užtrukti tol,
+    kol jos jau nebereikėdavo, nes po apiplė-
+    šimo totoriai stengdavosi pasitraukti kuo
+    sparčiau.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

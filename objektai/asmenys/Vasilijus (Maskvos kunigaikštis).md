@@ -139,7 +139,27 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
     tačiau tuo pat metu Vytautas Marienburge surengė sa­
     vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
     Vasilijaus, dideles palydėtuves.
-  citata_rodoma: "Priėmus nutarimą, ieškota žmogaus, kuriam be\npavojaus galima būtų patikėti šią slaptą užduotį, mat jis\nturėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti\npasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­\ndovauti galop parinko Henriką, mozūrų kunigaikščio\nZemovito sūnų, neseniai vainikuotą Plocko vyskupu.\nJo atvykimas (tiesą sakant,\nP a šn e n k a m a s m o zū rų\ndaug kas manė, jog dėl gi-\nk u n ig a ik štis\nH enri-\nminystės jis gali likti nepas-\nk a s\ntebėtas) anaiptol negalėjo ne­\nsukelti kryžiuočiams įtarimo,\ntačiau tuo pat metu Vytautas Marienburge surengė sa­\nvo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio\nVasilijaus, dideles palydėtuves. Visi manė, jog su kitais\nkunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,\nVytauto žmonos Onos brolis."
+  citata_rodoma: |
+    Priėmus nutarimą, ieškota žmogaus, kuriam be
+    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
+    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
+    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
+    dovauti galop parinko Henriką, mozūrų kunigaikščio
+    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
+    Jo atvykimas (tiesą sakant,
+    P a šn e n k a m a s m o zū rų
+    daug kas manė, jog dėl gi-
+    k u n ig a ik štis
+    H enri-
+    minystės jis gali likti nepas-
+    k a s
+    tebėtas) anaiptol negalėjo ne­
+    sukelti kryžiuočiams įtarimo,
+    tačiau tuo pat metu Vytautas Marienburge surengė sa­
+    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
+    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
+    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
+    Vytauto žmonos Onos brolis.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -202,7 +222,21 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
     nuošalyje nuo šio antkryčio, apėmusio net svetimša­
     lius. Vis dėlto neilgai trukus, patyrus jų nekaltumą,
     abu broliai buvo karaliaus sprendimu paleisti.
-  citata_rodoma: "Apie sausio vidurį atvyko \nmaskvėnų pasiuntiniai tartis \ndėl taikos: sudarius sutartį, \nbuvo paleisti visi belaisviai. Maskvėnams išvykus, nu­\ntarta teisti Glinskio šalininkus: daugelis už šį nusikal­\ntimą viešu luomų nutarimu buvo perduoti bajorų prie­\nžiūrai, o žymiausieji, kaip iždininkai bei arklidinin- \nkai, įkalinti Trakuose. Mykolas Goštautas, Lietuvos \nDidžiosios Kunigaikštystės arklidininkas, valdęs didžiu­\nlius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio \ndukterį; dėl šitokios artimos giminystės kai kas manė, \njog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs \nnuošalyje nuo šio antkryčio, apėmusio net svetimša­\nlius."
+  citata_rodoma: |
+    Apie sausio vidurį atvyko
+    maskvėnų pasiuntiniai tartis
+    dėl taikos: sudarius sutartį,
+    buvo paleisti visi belaisviai. Maskvėnams išvykus, nu­
+    tarta teisti Glinskio šalininkus: daugelis už šį nusikal­
+    timą viešu luomų nutarimu buvo perduoti bajorų prie­
+    žiūrai, o žymiausieji, kaip iždininkai bei arklidinin-
+    kai, įkalinti Trakuose. Mykolas Goštautas, Lietuvos
+    Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu­
+    lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio
+    dukterį; dėl šitokios artimos giminystės kai kas manė,
+    jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs
+    nuošalyje nuo šio antkryčio, apėmusio net svetimša­
+    lius.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

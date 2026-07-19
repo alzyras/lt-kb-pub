@@ -78,7 +78,8 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
     sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
     būsto. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
-  citata_rodoma: "Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės."
+  citata_rodoma: |
+    Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

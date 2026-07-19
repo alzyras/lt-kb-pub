@@ -78,7 +78,7 @@ Nenurodyta
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Strijkovskis, 1. 406, pri­
+    406, pri­
     simena dar vieną Gedimino dukrą,
     kuri esą buvusi anuomet garbingo
     riterio Dovydo, Gardino kašteliono,
@@ -102,7 +102,31 @@ Nenurodyta
     todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
     me archyve ir kuriuos Kotzebue
     išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: "406, pri­\nsimena dar vieną Gedimino dukrą, \nkuri esą buvusi anuomet garbingo \nriterio Dovydo, Gardino kašteliono, \narba tiksliau kunigaikščio, viešpata­\nvusio Gardino valdoje, žmona.\nIl\nGedimino laiškuose, rašytuose do­\nminikonų ir Mažesniųjų brolių, ar­\nba pranciškonų, ordinams bei Han­\nzos miestams, kurių autentiškas \n1323 metais notaro parengtas doku­\nmentas yra Karaliaučiaus Slaptaja-\n-  •  -\n20\n\n## Puslapis 37\n\nI  KNYGA\ngumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­\nnių pasirinko jo valdomų visų kraštų sostine tikriausiai \ntodėl, kad būdamas arčiau sienų su kryžiuočiais turėjo\nme archyve ir kuriuos Kotzebue \nišspausdino savo Prūsijos istorijoje."
+  citata_rodoma: |
+    406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

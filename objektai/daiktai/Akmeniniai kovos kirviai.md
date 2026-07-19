@@ -161,7 +161,12 @@ Nenurodyta
     vo Kovo statulėlės, T. Narbutas laikė pačiais vertingiausiais savo
     kolekcijos
     egzemplioriais.
-  citata_rodoma: "„Akmeniniai kirviai randami laukuose ir prie senų sody­\nbų,\nbet\nne\nkapavietėse“"
+  citata_rodoma: |
+    „Akmeniniai kirviai randami laukuose ir prie senų sody­
+    bų,
+    bet
+    ne
+    kapavietėse“
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -183,7 +188,15 @@ Nenurodyta
     žangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­
     tojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­
     dirbystę ir gyvulininkystę.
-  citata_rodoma: "Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir\nkituose Europos plotuose, pasiekdami Nemuno baseiną. Palei Bal­\ntijos jūrą šie ekspansyvus ir akmeniniais kovos kirviais ginkluoti\nateiviai nuklydo į šiaurę net iki Suomijos, o per Dniepro baseiną\nį miškingas Rusijos sritis. Kur jie pasirodė, nešdamiesi savo pa­\nžangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­\ntojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­\ndirbystę ir gyvulininkystę."
+  citata_rodoma: |
+    Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir
+    kituose Europos plotuose, pasiekdami Nemuno baseiną. Palei Bal­
+    tijos jūrą šie ekspansyvus ir akmeniniais kovos kirviais ginkluoti
+    ateiviai nuklydo į šiaurę net iki Suomijos, o per Dniepro baseiną
+    į miškingas Rusijos sritis. Kur jie pasirodė, nešdamiesi savo pa­
+    žangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­
+    tojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­
+    dirbystę ir gyvulininkystę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

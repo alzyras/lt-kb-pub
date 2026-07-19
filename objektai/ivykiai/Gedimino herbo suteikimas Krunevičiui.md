@@ -108,7 +108,8 @@ Nenurodyta
     lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
     kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.
-  citata_rodoma: "Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Lenkijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje šeimos herbai egzistavo70."
+  citata_rodoma: |
+    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Lenkijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje šeimos herbai egzistavo70.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

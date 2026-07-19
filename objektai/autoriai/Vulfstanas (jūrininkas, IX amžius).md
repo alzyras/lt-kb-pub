@@ -252,7 +252,13 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     taip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai
     IX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,
     jis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius.
-  citata_rodoma: "Tas prane-\nšimas yra išlikęs iki mūsų laikų.\n**Keliautojai** mums paliko savo kelionių aprašymų, iš kurių\ntaip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai\nIX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,\njis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius."
+  citata_rodoma: |
+    Tas prane-
+    šimas yra išlikęs iki mūsų laikų.
+    **Keliautojai** mums paliko savo kelionių aprašymų, iš kurių
+    taip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai
+    IX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,
+    jis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

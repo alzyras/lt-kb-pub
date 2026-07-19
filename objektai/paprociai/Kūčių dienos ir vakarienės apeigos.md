@@ -134,7 +134,8 @@ Nenurodyta
     Kūčių dieną krosnis kuriama du sykiu: iš ryto ir popiet, nes rei­
     kia pasitiekti įvairių valgymų šventėms ir skyrium šiai dienai — Kū-
     čioms.
-  citata_rodoma: "Kūčių dieną krosnis kuriama du sykiu: iš ryto ir popiet, nes reikia pasitiekti įvairių valgymų šventėms ir skyrium šiai dienai — Kūčioms."
+  citata_rodoma: |
+    Kūčių dieną krosnis kuriama du sykiu: iš ryto ir popiet, nes reikia pasitiekti įvairių valgymų šventėms ir skyrium šiai dienai — Kūčioms.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -153,7 +154,8 @@ Nenurodyta
     čioms. Kepama žąsiena, kiaulienos kumpiai, kviečių ir miežių ragai­
     šiai, verdama košeliena. Be to, dar verdami sausi barščiai su barav}’-
     kais Kūčioms.
-  citata_rodoma: "Kepama žąsiena, kiaulienos kumpiai, kviečių ir miežių ragaišiai, verdama košeliena. Be to, dar verdami sausi barščiai su baravykais Kūčioms."
+  citata_rodoma: |
+    Kepama žąsiena, kiaulienos kumpiai, kviečių ir miežių ragaišiai, verdama košeliena. Be to, dar verdami sausi barščiai su baravykais Kūčioms.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -173,7 +175,8 @@ Nenurodyta
     sunkiai.
     Po Kūčių samdininkams baigėsi tarnybos metai. Jie pasirėdę jau
     savo drapanomis, jie dabar svečiai.
-  citata_rodoma: "Po Kūčių samdininkams baigėsi tarnybos metai. Jie pasirėdę jau savo drapanomis, jie dabar svečiai."
+  citata_rodoma: |
+    Po Kūčių samdininkams baigėsi tarnybos metai. Jie pasirėdę jau savo drapanomis, jie dabar svečiai.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -192,7 +195,8 @@ Nenurodyta
     savo vietas, stati pašnibždomis sukalbėjo „Tėve mūsų“ , persižegno­
     jo ir susėdo. Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pu­
     sę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
-  citata_rodoma: "Šeimininkas laužia ir dalija „plotkus“, kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius."
+  citata_rodoma: |
+    Šeimininkas laužia ir dalija „plotkus“, kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -212,7 +216,8 @@ Nenurodyta
     ant stalo dviejose lėkštėse supiaustytas, barščiuose mirkusias silkes,
     burokų ripkeles ir baravykus. Toliau seka šaltas valgis: aguonų pie­
     nas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“ .
-  citata_rodoma: "Toliau seka šaltas valgis: aguonų pienas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“."
+  citata_rodoma: |
+    Toliau seka šaltas valgis: aguonų pienas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

@@ -161,7 +161,10 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
     LTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p. —Dundu­
     lis, B. : _Lietuvos TSR istorijos pirmasis tomas,_ Komunistas, 1958, nr.
     5, 53-59 p. - HPol, t. 1, d. 2, p. 7-27.
-  citata_rodoma: "—Dundu­\nlis, B. : _Lietuvos TSR istorijos pirmasis tomas,_ Komunistas, 1958, nr.\n5, 53-59 p."
+  citata_rodoma: |
+    —Dundu­
+    lis, B. : _Lietuvos TSR istorijos pirmasis tomas,_ Komunistas, 1958, nr.
+    5, 53-59 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -179,7 +182,10 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
     _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių
     santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
     B. Dundulis 108.
-  citata_rodoma: "Lietuvių\nsantykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja\nB. Dundulis 108."
+  citata_rodoma: |
+    Lietuvių
+    santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
+    B. Dundulis 108.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -197,7 +203,9 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
     sąjunga su husitais_** **VUMD, t. 13, 1957, 60 p.**
     (^13) **DlugO, XIII, 245 p.**
     (^14) **CEV, 468 p.**
-  citata_rodoma: "Plg. B. Dundulis :** **_Lietuvos\nsąjunga su husitais_** **VUMD, t. 13, 1957, 60 p."
+  citata_rodoma: |
+    Plg. B. Dundulis :** **_Lietuvos
+    sąjunga su husitais_** **VUMD, t. 13, 1957, 60 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -216,7 +224,13 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
     _Lietuvos kova prieš kryžiuočius Konstanco bažnytiniame susirinkime (1414-
     1418),_ VU, 1st.-Filolog, mokslų serija, t. 4, 1958, 5-25 p. — Ehrlich,
     L. : _Paweł Włodkowic i Stan. ze Skarbimierzą_ , Warszawa 1954.
-  citata_rodoma: "B. :\n_Lietuvos konfliktas su ordinu dėl Žemaitijos sienų ir imperatoriaus atstovo\nB. Makros misija Lietuvoje 1413 m._ , IstV, t. 1, 1958, 127-152 p. — (”)\n_Lietuvos kova prieš kryžiuočius Konstanco bažnytiniame susirinkime (1414-\n1418),_ VU, 1st.-Filolog, mokslų serija, t. 4, 1958, 5-25 p. — Ehrlich,\nL. : _Paweł Włodkowic i Stan. ze Skarbimierzą_ , Warszawa 1954"
+  citata_rodoma: |
+    B. :
+    _Lietuvos konfliktas su ordinu dėl Žemaitijos sienų ir imperatoriaus atstovo
+    B. Makros misija Lietuvoje 1413 m._ , IstV, t. 1, 1958, 127-152 p. — (”)
+    _Lietuvos kova prieš kryžiuočius Konstanco bažnytiniame susirinkime (1414-
+    1418),_ VU, 1st.-Filolog, mokslų serija, t. 4, 1958, 5-25 p. — Ehrlich,
+    L. : _Paweł Włodkowic i Stan. ze Skarbimierzą_ , Warszawa 1954
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -233,7 +247,10 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
     1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­
     niai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
     1399-1404,_ Przewodnik nauk. i liter., t. 34, 1906.
-  citata_rodoma: "Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus\n1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­\nniai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach"
+  citata_rodoma: |
+    Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
+    1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­
+    niai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

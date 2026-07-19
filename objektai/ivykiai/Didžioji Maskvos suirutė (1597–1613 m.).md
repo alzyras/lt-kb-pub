@@ -87,7 +87,9 @@ Nenurodyta
     net pasiskubino išleisti už jo savo dukterį Mariną. Karalius
     Zigmantas taip pat jį maloniai priėmė. Lenkų ponų padedamas,
     jis 1605 m. užėmė Maskvą.
-  citata_rodoma: "Lenkų ponų padedamas,\njis 1605 m. užėmė Maskvą."
+  citata_rodoma: |
+    Lenkų ponų padedamas,
+    jis 1605 m. užėmė Maskvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -104,7 +106,9 @@ Nenurodyta
     buvo paskelbtas bajoras Vasylius Šuiskis. Tačiau
     Maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su-
     kilimai, ir atsirado antras apsimetėlis Dimitrijas.
-  citata_rodoma: "Maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su-\nkilimai, ir atsirado antras apsimetėlis Dimitrijas."
+  citata_rodoma: |
+    Maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su-
+    kilimai, ir atsirado antras apsimetėlis Dimitrijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

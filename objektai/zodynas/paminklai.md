@@ -176,7 +176,12 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     gius lietuvio širdžiai mitologinius paminklus, iš kurių
     trykšta istorijos šaltiniai; šiame tome dėstysime pačią
     istoriją.
-  citata_rodoma: "Pir­\nmą šių raštų tomą skyrėme tam, kad atskleistume bran­\ngius lietuvio širdžiai mitologinius paminklus, iš kurių\ntrykšta istorijos šaltiniai; šiame tome dėstysime pačią\nistoriją."
+  citata_rodoma: |
+    Pir­
+    mą šių raštų tomą skyrėme tam, kad atskleistume bran­
+    gius lietuvio širdžiai mitologinius paminklus, iš kurių
+    trykšta istorijos šaltiniai; šiame tome dėstysime pačią
+    istoriją.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -205,7 +210,17 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     kalba, uždrausti vieši susiėjimai įprastose šventose vie­
     tose, kur giesmės, pasakojimai ir sakmės primindavo da­
     lykus, susijusius su brangiais gimtaisiais prisiminimais.
-  citata_rodoma: "Nelaimė netgi lėmė, kad ir švelniais būdais priimant švie­\nsą kitose lietuvių žemės šalyse tautos prarado visas savo\nsenienas: arba iš anksto kruvinais karais pažymėtomis\nišmokomis apmokėdavo už savo savitumą, arba krikščio­\nnių kunigų nusistatymas be išlygų išnaikino krašto pa­\nminklus. Buvo sudaužytos gimtųjų dievų statulos, su­\ngriautos šventyklos, iškirsti šventieji šilai, įvesta kita\nkalba, uždrausti vieši susiėjimai įprastose šventose vie­\ntose, kur giesmės, pasakojimai ir sakmės primindavo da­\nlykus, susijusius su brangiais gimtaisiais prisiminimais."
+  citata_rodoma: |
+    Nelaimė netgi lėmė, kad ir švelniais būdais priimant švie­
+    są kitose lietuvių žemės šalyse tautos prarado visas savo
+    senienas: arba iš anksto kruvinais karais pažymėtomis
+    išmokomis apmokėdavo už savo savitumą, arba krikščio­
+    nių kunigų nusistatymas be išlygų išnaikino krašto pa­
+    minklus. Buvo sudaužytos gimtųjų dievų statulos, su­
+    griautos šventyklos, iškirsti šventieji šilai, įvesta kita
+    kalba, uždrausti vieši susiėjimai įprastose šventose vie­
+    tose, kur giesmės, pasakojimai ir sakmės primindavo da­
+    lykus, susijusius su brangiais gimtaisiais prisiminimais.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -235,7 +250,10 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
     vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
     ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
-  citata_rodoma: "Prūsų kronikininkai pa­\nliko mums įspūdingą paminklų lobį, bet jie daug ką nu­\ntylėjo, dar daugiau praleido dėl neatidumo."
+  citata_rodoma: |
+    Prūsų kronikininkai pa­
+    liko mums įspūdingą paminklų lobį, bet jie daug ką nu­
+    tylėjo, dar daugiau praleido dėl neatidumo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -265,7 +283,13 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
     vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
     ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
-  citata_rodoma: "Iš tikrųjų jis negailėjo darbo, bet\nnemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­\nliko mums įspūdingą paminklų lobį, bet jie daug ką nu­\ntylėjo, dar daugiau praleido dėl neatidumo. Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų."
+  citata_rodoma: |
+    Iš tikrųjų jis negailėjo darbo, bet
+    nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­
+    liko mums įspūdingą paminklų lobį, bet jie daug ką nu­
+    tylėjo, dar daugiau praleido dėl neatidumo. Latvių, arba
+    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
+    randa nemažai vertingų tautos istorijos perlų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -82,13 +82,19 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    P. 90, 1579 m. Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos
+    Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos
     pasiektą pergalę prieš maskvėnus atsiimant Polocko miestą, fragmentas (piešinys), MCZ
 
     p. 91, Lietuvos Didžiosios Kunigaikštystės didžiojo etmono ir Vilniaus vaivados
 
     Kristupo Mikalojaus Radvilos Perkūno šarvai xvI-xv1I a. MwP, Maciej Skocren nuotr.
-  citata_rodoma: "Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos\npasiektą pergalę prieš maskvėnus atsiimant Polocko miestą, fragmentas (piešinys), MCZ\n\np. 91, Lietuvos Didžiosios Kunigaikštystės didžiojo etmono ir Vilniaus vaivados\n\nKristupo Mikalojaus Radvilos Perkūno šarvai xvI-xv1I a. MwP, Maciej Skocren nuotr."
+  citata_rodoma: |
+    Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos
+    pasiektą pergalę prieš maskvėnus atsiimant Polocko miestą, fragmentas (piešinys), MCZ
+
+    p. 91, Lietuvos Didžiosios Kunigaikštystės didžiojo etmono ir Vilniaus vaivados
+
+    Kristupo Mikalojaus Radvilos Perkūno šarvai xvI-xv1I a. MwP, Maciej Skocren nuotr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

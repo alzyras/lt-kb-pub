@@ -92,7 +92,9 @@ Dusburgietis teigia, kad vaičiulaitis A.
     Kalvaitis V. (Kalwaitis W.)
     Kaminskis A. (Kamiński)
     Kandeimas (D. — Candeym, Jer.
-  citata_rodoma: "Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,\nK., 1940, t. 3, p. 315—319."
+  citata_rodoma: |
+    Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
+    K., 1940, t. 3, p. 315—319.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

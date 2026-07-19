@@ -73,7 +73,13 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
     Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr. ir Karaliaučius)
     Tverė, sritis
     Unzatrapis (D.— Unsatrapis, literatūroje — Instraupis), ž.
-  citata_rodoma: "prie Upytės\n  Tvankstė, miškas\n  Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr. ir Karaliaučius)\n  Tverė, sritis\n\n  Unzatrapis (D."
+  citata_rodoma: |
+    prie Upytės
+      Tvankstė, miškas
+      Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr. ir Karaliaučius)
+      Tverė, sritis
+
+      Unzatrapis (D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

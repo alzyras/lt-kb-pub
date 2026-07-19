@@ -85,7 +85,8 @@ Nenurodyta
     stovai gavo net 96 vietas. Tapo aišku, kad Lietuva pasuko nauju keliu,
     komunistų partija neteko vienvaldystės, o dauguma žmonių yra aiškiai
     apsisprendę dėl Lietuvos nepriklausomybės.
-  citata_rodoma: "stovai gavo net 96 vietas. Tapo aišku, kad Lietuva pasuko nauju keliu,"
+  citata_rodoma: |
+    stovai gavo net 96 vietas. Tapo aišku, kad Lietuva pasuko nauju keliu,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

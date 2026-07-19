@@ -358,7 +358,12 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     arba vidinės priežasties; tai turėjo sukelti didelius šių
     1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
     vandens, Dnepras tekėjo kita kryptimi (Karamzin.
-  citata_rodoma: "Vietiniai kairiosios Dnepro pakrantės prie Ki­\njevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo\narba vidinės priežasties; tai turėjo sukelti didelius šių\n1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas\nvandens, Dnepras tekėjo kita kryptimi (Karamzin. T. 1. Nota 523)."
+  citata_rodoma: |
+    Vietiniai kairiosios Dnepro pakrantės prie Ki­
+    jevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo
+    arba vidinės priežasties; tai turėjo sukelti didelius šių
+    1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
+    vandens, Dnepras tekėjo kita kryptimi (Karamzin. T. 1. Nota 523).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -378,7 +383,12 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     Komovės šventykloje.
     Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
     lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
-  citata_rodoma: "Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­\nmę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-\nronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­\ndina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­\nnis pavadinimas."
+  citata_rodoma: |
+    Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
+    mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-
+    ronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­
+    dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­
+    nis pavadinimas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

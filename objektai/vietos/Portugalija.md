@@ -94,7 +94,10 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
     tugaliją išvyko į JAV.
-  citata_rodoma: "1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-\ngeidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-\ntugaliją išvyko į JAV."
+  citata_rodoma: |
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

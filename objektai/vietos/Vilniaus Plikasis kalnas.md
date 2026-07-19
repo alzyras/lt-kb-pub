@@ -111,7 +111,13 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
     dėl augusių juose medžių rūšies, tai jie buvo taip pat iš
     daugiau ar mažiau garbinamų tarpo: pirmenybę turėjo ąžuo-
     ’ Lib.
-  citata_rodoma: "Kal­\nnas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -\nšventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,\nturėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš\nLietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-\nkusi."
+  citata_rodoma: |
+    Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
+    turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
+    Lietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-
+    kusi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -79,7 +79,8 @@ Dusburgietis teigia, kad stepinš P.
     докладов, М, 1983 с. 69.
     Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
     (конец XV — первая пол.
-  citata_rodoma: "Stepinš P. Durbės kauja.— Rīga, 1967."
+  citata_rodoma: |
+    Stepinš P. Durbės kauja.— Rīga, 1967.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

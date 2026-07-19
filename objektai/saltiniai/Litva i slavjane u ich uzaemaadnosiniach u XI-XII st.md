@@ -66,7 +66,11 @@ media_all_json: |-
     Zapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,
     VIII, 1929, 1-20 p. — Lowmiański, H. : _Studja nad początkami społe­
     czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
-  citata_rodoma: "—\nLiubavskij, M. : _Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.,_\nZapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,\nVIII, 1929, 1-20 p."
+  citata_rodoma: |
+    —
+    Liubavskij, M. : _Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.,_
+    Zapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,
+    VIII, 1929, 1-20 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -166,7 +166,16 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
     kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
     tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
     rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
-  citata_rodoma: "Prūsai, apsitvėrę\nužtvaromis, iš pradžių narsiai priešinosi, tačiau galop leidosi bėgti, o krikščionys, juos\nbesivydami, išsisklaidė, tada prūsai, nors jų daug bėgančių ir žuvo, susitelkė, matydami\nnedaug vyrų apie vėliavą, sugrįžo į užtvaras ir pradėjo iš naujo kovą, kuri ilgai užtruko,\nkol galop,  šitaip leidžiant viešpačiui, kurio sprendimai protu nesuvokiami, nukovė\nmagistrą394 ir maršalą395 brolį Ditrichą, ir keturiasdešimt brolių ir išžudė visą krikščionių\nkariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei\ntie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi\nrinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus."
+  citata_rodoma: |
+    Prūsai, apsitvėrę
+    užtvaromis, iš pradžių narsiai priešinosi, tačiau galop leidosi bėgti, o krikščionys, juos
+    besivydami, išsisklaidė, tada prūsai, nors jų daug bėgančių ir žuvo, susitelkė, matydami
+    nedaug vyrų apie vėliavą, sugrįžo į užtvaras ir pradėjo iš naujo kovą, kuri ilgai užtruko,
+    kol galop,  šitaip leidžiant viešpačiui, kurio sprendimai protu nesuvokiami, nukovė
+    magistrą394 ir maršalą395 brolį Ditrichą, ir keturiasdešimt brolių ir išžudė visą krikščionių
+    kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
+    tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
+    rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

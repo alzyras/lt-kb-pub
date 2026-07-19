@@ -64,7 +64,8 @@ Surviliškis šiame šaltinyje yra vietovė.
   indeksas: "Mūsų tautosaka, t.4 (1931) — Tautosakos komisijos gauta medžiaga ir perrašytos dainos, p. 187 (PDF 185)."
   citata_originali: |
     A. Žilgulis (iš Survilišk. v.) . .
-  citata_rodoma: "A. Žilgulis (iš Survilišk. v.)"
+  citata_rodoma: |
+    A. Žilgulis (iš Survilišk. v.) . .
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

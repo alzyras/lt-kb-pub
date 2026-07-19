@@ -60,7 +60,12 @@ de Comitibus Aquae Vivae, laišką.
     sandru Didžiuoju, Cezariu ir kitais, giria jo nuopelnus kultūroj,
     kovose ir t. t. Bet šalia to jis irgi atkalbinėja Vytautą nuo su­
     manymo karūnuotis, primindamas, kad per tai sumažėsianti jo
-  citata_rodoma: "Po to Vytautas susilaukė ir iš kurijos narių, humanistų, pav.\niš Pr. de Comitibus Aquae Vivae, laišką. Jis pilnas Vytautui\npagyrimų, palyginimų su didžiausiais pasaulio vyrais — Alek­\nsandru Didžiuoju, Cezariu ir kitais, giria jo nuopelnus kultūroj,\nkovose ir t. t."
+  citata_rodoma: |
+    Po to Vytautas susilaukė ir iš kurijos narių, humanistų, pav.
+    iš Pr. de Comitibus Aquae Vivae, laišką. Jis pilnas Vytautui
+    pagyrimų, palyginimų su didžiausiais pasaulio vyrais — Alek­
+    sandru Didžiuoju, Cezariu ir kitais, giria jo nuopelnus kultūroj,
+    kovose ir t. t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

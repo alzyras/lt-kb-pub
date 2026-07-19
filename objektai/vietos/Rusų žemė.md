@@ -107,7 +107,11 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 
     vanodami ir didelę duoklę duodami jam ne tik kiek­
     vienais melais, bet ir kiekvieną dieną.
-  citata_rodoma: "Ir aš prašiau kunigaikštį Jogailą raštų bei\nprivilegijų dėl tų žemių, kurias jis man buvo davęs,\ndėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" ,\nkad aš ją galėčiau pasilaikyti."
+  citata_rodoma: |
+    Ir aš prašiau kunigaikštį Jogailą raštų bei
+    privilegijų dėl tų žemių, kurias jis man buvo davęs,
+    dėl rusų žemės7 , kuri buvo priklausiusi Liubartui" ,
+    kad aš ją galėčiau pasilaikyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -134,7 +138,17 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
     Dar daugiau: jie suėmė mano bajorus be mano sutiki­
     mo, kankino juos vandeniu, apkalė geležimis ir metė
     juos į požemius, ir visa tai prieš mano valią.
-  citata_rodoma: "Paskui atvyko kunigaikštis Algirdas prie Vilniaus \npas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių, \nkadangi jis (Algirdas) buvo jo vyriausias brolis, atida­\nvė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo \njie viską pusiau, pasižadėdami vienas kitam, ką įsigys \nkitose žemėse, visa dalytis pusiau. Kai Rusų žemėje pa­\nėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy­\nveno vienas su kitu labai sutardami.\nIr po to mūsų dėdė kunigaikštis Algirdas mirė, o \nkunigaikštis Jogaila tebebuvo jaunas."
+  citata_rodoma: |
+    Paskui atvyko kunigaikštis Algirdas prie Vilniaus
+    pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių,
+    kadangi jis (Algirdas) buvo jo vyriausias brolis, atida­
+    vė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo
+    jie viską pusiau, pasižadėdami vienas kitam, ką įsigys
+    kitose žemėse, visa dalytis pusiau. Kai Rusų žemėje pa­
+    ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy­
+    veno vienas su kitu labai sutardami.
+    Ir po to mūsų dėdė kunigaikštis Algirdas mirė, o
+    kunigaikštis Jogaila tebebuvo jaunas.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

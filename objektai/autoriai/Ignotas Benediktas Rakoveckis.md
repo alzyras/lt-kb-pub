@@ -132,7 +132,10 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
     getragen am 6 Nov. 1828 // Historische und litera­
     rische Abhandlungen der Königlichen Deutschen
     Gesellschaft zu Königsberg.
-  citata_rodoma: "P. 400** -  Turimas omenyje filologo Ignoto Benedikto Rako-\nveckio (Rakowiecki, 1782-1839) darbas (Prawda\nRuska. -  Warszawa, 1820-1828. -  T. I-II)."
+  citata_rodoma: |
+    P. 400** -  Turimas omenyje filologo Ignoto Benedikto Rako-
+    veckio (Rakowiecki, 1782-1839) darbas (Prawda
+    Ruska. -  Warszawa, 1820-1828. -  T. I-II).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -152,7 +155,13 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
     Vytimi, Giedraitis — Rože, Daumantas — Stumbro galva; Ge­
     diminas vietoj vieno Stulpo naudojo tris, Kaributas iš pradžių
     turėjo Erelį su Vytimi, o vėliau — Mėnulį su Kryžiais.
-  citata_rodoma: "178 /Ten pat,\n(5)\nišnaša/\nTurimas omenyje filologo Ignoto Benedikto Rakoveckio (Rakowiec-\nki; 1782—1839) darbas (Prawda Ruska. Warszawa, 1820—1828.\nT. I—II)."
+  citata_rodoma: |
+    178 /Ten pat,
+    (5)
+    išnaša/
+    Turimas omenyje filologo Ignoto Benedikto Rakoveckio (Rakowiec-
+    ki; 1782—1839) darbas (Prawda Ruska. Warszawa, 1820—1828.
+    T. I—II).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

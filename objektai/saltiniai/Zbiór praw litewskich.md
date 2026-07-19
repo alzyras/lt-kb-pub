@@ -63,10 +63,13 @@ media_all_json: |-
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    (^18) **CDV, I, 29-30 (nr. 16).**
+    **
     (^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**
-    (^20) **CDV, I, 13-15 p.**
-  citata_rodoma: "**\n(^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**\n(^20) **CDV, I, 13-15 p."
+    (^20) **CDV, I, 13-15 p.
+  citata_rodoma: |
+    **
+    (^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**
+    (^20) **CDV, I, 13-15 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

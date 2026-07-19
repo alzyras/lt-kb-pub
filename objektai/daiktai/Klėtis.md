@@ -97,11 +97,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Trečiasis trobesys buvo vadinamas klėtis, nuo žodžio klėsti^216 , nuo žemės per uolektį ar
-        pusantros pakeltas ant trinkų ar didelių akmenų, grįstas ir lubotas lentomis dėl sausumo, kurioje
-        buvo javai miegose, arba aruoduose, drabužiai, mėsa, kailiai ir šikšnos laikomos, beje, išeigos ir
-        lietos^217 daiktai; turėjo ji kartais vieną kambarį, kartais du, tris ir keturis, pagal tą, kaip ūkininkas
-        turtingas buvo.
-  citata_rodoma: "Trečiasis trobesys buvo vadinamas klėtis, nuo žodžio klėsti^216 , nuo žemės per uolektį ar\npusantros pakeltas ant trinkų ar didelių akmenų, grįstas ir lubotas lentomis dėl sausumo, kurioje\nbuvo javai miegose, arba aruoduose, drabužiai, mėsa, kailiai ir šikšnos laikomos, beje, išeigos ir\nlietos^217 daiktai; turėjo ji kartais vieną kambarį, kartais du, tris ir keturis, pagal tą, kaip ūkininkas\nturtingas buvo."
+    pusantros pakeltas ant trinkų ar didelių akmenų, grįstas ir lubotas lentomis dėl sausumo, kurioje
+    buvo javai miegose, arba aruoduose, drabužiai, mėsa, kailiai ir šikšnos laikomos, beje, išeigos ir
+    lietos^217 daiktai; turėjo ji kartais vieną kambarį, kartais du, tris ir keturis, pagal tą, kaip ūkininkas
+    turtingas buvo.
+  citata_rodoma: |
+    Trečiasis trobesys buvo vadinamas klėtis, nuo žodžio klėsti^216 , nuo žemės per uolektį ar
+    pusantros pakeltas ant trinkų ar didelių akmenų, grįstas ir lubotas lentomis dėl sausumo, kurioje
+    buvo javai miegose, arba aruoduose, drabužiai, mėsa, kailiai ir šikšnos laikomos, beje, išeigos ir
+    lietos^217 daiktai; turėjo ji kartais vieną kambarį, kartais du, tris ir keturis, pagal tą, kaip ūkininkas
+    turtingas buvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -115,10 +120,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Visi tie kambariai, kaip sakiau, buvo luboti, ant tų lubų viskos^218 , kame laikė
-        džiūvusią mėsą, ant aksčių^219 suvertą, žiemą ir vasarą; tarp tų kambarių viename buvo laikomi
-        javai, kitame drabužiai susverti kybojo, nuo ko ir svirnu vadinos, kitas buvo pačiai žmonystai^220
-        vasaros laike pavestas.
-  citata_rodoma: "Visi tie kambariai, kaip sakiau, buvo luboti, ant tų lubų viskos^218 , kame laikė\ndžiūvusią mėsą, ant aksčių^219 suvertą, žiemą ir vasarą; tarp tų kambarių viename buvo laikomi\njavai, kitame drabužiai susverti kybojo, nuo ko ir svirnu vadinos, kitas buvo pačiai žmonystai^220\nvasaros laike pavestas."
+    džiūvusią mėsą, ant aksčių^219 suvertą, žiemą ir vasarą; tarp tų kambarių viename buvo laikomi
+    javai, kitame drabužiai susverti kybojo, nuo ko ir svirnu vadinos, kitas buvo pačiai žmonystai^220
+    vasaros laike pavestas.
+  citata_rodoma: |
+    Visi tie kambariai, kaip sakiau, buvo luboti, ant tų lubų viskos^218 , kame laikė
+    džiūvusią mėsą, ant aksčių^219 suvertą, žiemą ir vasarą; tarp tų kambarių viename buvo laikomi
+    javai, kitame drabužiai susverti kybojo, nuo ko ir svirnu vadinos, kitas buvo pačiai žmonystai^220
+    vasaros laike pavestas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

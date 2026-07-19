@@ -95,7 +95,8 @@ Nenurodyta
     jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,
     kurstomosios literatūros. 126 asmenys patraukti teisminėn atsakomybėn,
     o liepos 13 dieną nacių organizacijos uždraustos.
-  citata_rodoma: "jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,"
+  citata_rodoma: |
+    jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +115,10 @@ Nenurodyta
     Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
     kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
     momis, instrukcijomis, lapeliais, ginklais.
-  citata_rodoma: "Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-\nkiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-\nmomis, instrukcijomis, lapeliais, ginklais."
+  citata_rodoma: |
+    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
+    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
+    momis, instrukcijomis, lapeliais, ginklais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

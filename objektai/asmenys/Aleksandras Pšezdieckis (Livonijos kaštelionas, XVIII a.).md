@@ -91,7 +91,13 @@ Aleksandras Pšezdieckis buvo Livonijos kaštelionas. 1730 m. kanauninkas derėj
     sudarytas trejų metų nuomos kontraktas, vienų metų Skuodo valdos nuomos sutartis
     su Ninevskiu (Niniewski). Su Bžezinskiais (Brzezińscy) derėjosi dėl įkeistų Dirvėnų (?)
     valdų Livonijos vaivadijoje [2].
-  citata_rodoma: "Pvz., apie ekonominius sandorius 1730 m. Merkinės seniūnui Antanui Kazimierui\nSapiegai kanauninkas rašė, kad su Livonijos kaštelionu Aleksandru Pšezdieckiu (Alek-\nsander Przezdziecki) derėjosi dėl Dombrovnos (netoli Oršos) bei Skuodo valdų, buvo\nsudarytas trejų metų nuomos kontraktas, vienų metų Skuodo valdos nuomos sutartis\nsu Ninevskiu (Niniewski). Su Bžezinskiais (Brzezińscy) derėjosi dėl įkeistų Dirvėnų (?) \nvaldų Livonijos vaivadijoje [2]."
+  citata_rodoma: |
+    Pvz., apie ekonominius sandorius 1730 m. Merkinės seniūnui Antanui Kazimierui
+    Sapiegai kanauninkas rašė, kad su Livonijos kaštelionu Aleksandru Pšezdieckiu (Alek-
+    sander Przezdziecki) derėjosi dėl Dombrovnos (netoli Oršos) bei Skuodo valdų, buvo
+    sudarytas trejų metų nuomos kontraktas, vienų metų Skuodo valdos nuomos sutartis
+    su Ninevskiu (Niniewski). Su Bžezinskiais (Brzezińscy) derėjosi dėl įkeistų Dirvėnų (?)
+    valdų Livonijos vaivadijoje [2].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

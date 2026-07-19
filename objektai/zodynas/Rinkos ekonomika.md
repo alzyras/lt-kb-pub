@@ -63,7 +63,8 @@ Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo prik
     XXI a. ieško ir ieškos atsakymų į visus svarbiausius savo, visos Europos
     ir pasaulio reiškinių metamus iššūkius jau kaip demokratinės Europos ir
     transatlantinio saugumo sistemos sudedamoji dalis.
-  citata_rodoma: "cijos grėsmių, tad ir tauta, ir Lietuvos vyriausybės moderniame pasaulyje"
+  citata_rodoma: |
+    cijos grėsmių, tad ir tauta, ir Lietuvos vyriausybės moderniame pasaulyje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

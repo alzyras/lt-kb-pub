@@ -87,7 +87,8 @@ Nenurodyta
     kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir
     šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
     techninius terminus, rinkti tautosakos, dainų lobius.
-  citata_rodoma: "šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti"
+  citata_rodoma: |
+    šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

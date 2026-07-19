@@ -128,7 +128,17 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
     niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
     kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
     padavimai.
-  citata_rodoma: "Luka-\nnas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių\npelenai ilsisi supiltame kalne).\n2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski\nnumeryje**.\n372\n\n## Puslapis 372\n\nvedančio iš Užupio į Antakalnį."
+  citata_rodoma: |
+    Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
+    numeryje**.
+    372
+
+    ## Puslapis 372
+
+    vedančio iš Užupio į Antakalnį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

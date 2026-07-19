@@ -62,7 +62,9 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     katalikų tikėjimą. Renkamas karalium jis prisiekė laikytis 1573
     metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
     jimo niekas nebus persekiojamas.
-  citata_rodoma: "Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-\njimo niekas nebus persekiojamas."
+  citata_rodoma: |
+    Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
+    jimo niekas nebus persekiojamas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -84,7 +86,13 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-
     racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
     buvo iškeikęs visus tos konfederacijos gynėjus.
-  citata_rodoma: "Tačiau valdydamas jis visur rėmė katalikų Bažnyčią,\no ypač uoliausius to meto kovotojus su protestantizmu — jė-\nzuitus. Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir\nprotestantams ir uoliai saugojo 1573 metų Varšuvos konfede-\nracijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas\nbuvo iškeikęs visus tos konfederacijos gynėjus."
+  citata_rodoma: |
+    Tačiau valdydamas jis visur rėmė katalikų Bažnyčią,
+    o ypač uoliausius to meto kovotojus su protestantizmu — jė-
+    zuitus. Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir
+    protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-
+    racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
+    buvo iškeikęs visus tos konfederacijos gynėjus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

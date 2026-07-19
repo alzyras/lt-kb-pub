@@ -90,7 +90,9 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
     t. 2, 1957, 51-67 p. — (”) _Arimo įrankių reikšmė žemdirbystės sistemoms,_
     ILKI, IV, 1964, 156-163 p. —Karys, J. K. : _Seniausieji lietuvių «pini­
     gai ».
-  citata_rodoma: "— Jaroszewicz, J. : _Obraz Litwy pod względem jej cywilizacji_ , I,\nVilnius 1846. — Jurginis, J."
+  citata_rodoma: |
+    — Jaroszewicz, J. : _Obraz Litwy pod względem jej cywilizacji_ , I,
+    Vilnius 1846. — Jurginis, J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +113,13 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
     Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi,
     ir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus),
     lyginę juos su arkliais ir mulais (SRP, I, 90).
-  citata_rodoma: "Apie daržoves yra\nteigiama, jog lietuviai jas pradėję auginti, kada jau buvo arčiau\nsusipažinę su slavų tautomis (J. Jaroszewicz). Kas liečia kopūstus,\nDusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi,\nir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus),\nlyginę juos su arkliais ir mulais (SRP, I, 90)."
+  citata_rodoma: |
+    Apie daržoves yra
+    teigiama, jog lietuviai jas pradėję auginti, kada jau buvo arčiau
+    susipažinę su slavų tautomis (J. Jaroszewicz). Kas liečia kopūstus,
+    Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi,
+    ir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus),
+    lyginę juos su arkliais ir mulais (SRP, I, 90).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -69,7 +69,8 @@ Vartojamos formos: `nomadžiais`.
         per augumą nuo žemės dėl šviesos iškirstas; po tuo langeliu namo pusėj duobė iškasta, į kurią
         pylė paplavas ir kitą įurštą^183 vandenį, iš kurios duobės tekėjo pro namo pamatą į griovį, kursai
         išvestas buvo namo pasieniu lauko pusėj pakalniui.
-  citata_rodoma: "Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys."
+  citata_rodoma: |
+    Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

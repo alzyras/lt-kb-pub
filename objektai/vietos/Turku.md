@@ -78,7 +78,8 @@ Turku šiame šaltinyje yra miestas.
     metų gyvenęs Luononmaa saloje šalia to paties Naantalio.
     1880 m.
     įstojo į Turku suomių liciejų, mūsiškai — gimnaziją.
-  citata_rodoma: "1880 m. įstojo į Turku suomių liciejų, mūsiškai — gimnaziją."
+  citata_rodoma: |
+    1880 m. įstojo į Turku suomių liciejų, mūsiškai — gimnaziją.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

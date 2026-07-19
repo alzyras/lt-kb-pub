@@ -66,7 +66,10 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
     Lithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
     Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
     darbas.
-  citata_rodoma: "Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų\nEuropos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų\ndarbas."
+  citata_rodoma: |
+    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
+    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
+    darbas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -83,7 +86,11 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
     Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
     darbas. Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
     veidas.
-  citata_rodoma: "Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų \nEuropos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų \ndarbas. Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio \nveidas."
+  citata_rodoma: |
+    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
+    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
+    darbas. Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
+    veidas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

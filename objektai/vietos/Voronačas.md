@@ -97,7 +97,12 @@ media_all_json: |-
     klausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo-
     ronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28),
     Rževų ir Polocku (V1I.30—VII1.2).
-  citata_rodoma: "s XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su \nLDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­\nklausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo- \nronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28), \nRževų ir Polocku (V1I.30—VII1.2)."
+  citata_rodoma: |
+    s XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su
+    LDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­
+    klausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo-
+    ronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28),
+    Rževų ir Polocku (V1I.30—VII1.2).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

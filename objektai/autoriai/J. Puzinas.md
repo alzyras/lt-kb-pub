@@ -111,7 +111,9 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     Ten su _kastuvu_ rankoje iš tos didžiosios konservatorės, mūsų žemės
     surankiojama vertingų žilos praeities paminklų. Reikia džiaugtis,
     kad specialistas (prof. dr. J. Puzinas) duoda atskirą išsamų veikalą.
-  citata_rodoma: "Reikia džiaugtis,\nkad specialistas (prof. dr. J. Puzinas) duoda atskirą išsamų veikalą."
+  citata_rodoma: |
+    Reikia džiaugtis,
+    kad specialistas (prof. dr. J. Puzinas) duoda atskirą išsamų veikalą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +131,9 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     ne - Scientia leidykloje 1961 m. fotomechan. perspausdinti).
     PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
     Kaunas 1938 (atsp. iš Senovė, t. 4).
-  citata_rodoma: "PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,\nKaunas 1938 (atsp. iš Senovė, t. 4)."
+  citata_rodoma: |
+    PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
+    Kaunas 1938 (atsp. iš Senovė, t. 4).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -151,7 +155,9 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     nio kapinyno tyrinėjimai _,_ AkMD, t. 7, 1959, 43-56 p. — Petrauskaitė,
     D. : _Žiegždrių piliakalnis,_ ILKI, t. 1, 1958, 119-124 p. —Puzinas, J. :
     _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p. — (”)
-  citata_rodoma: "Puzinas, J. :\n_Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p."
+  citata_rodoma: |
+    Puzinas, J. :
+    _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

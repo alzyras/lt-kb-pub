@@ -89,7 +89,15 @@ Nenurodyta
     trauktis visu frontu, liepos
     4 d. LDK kariuomenė patyrė an-
     trąjį pralaimėjimą prie Zelvos.
-  citata_rodoma: "Čia Lietuvos\nkariuomenė patyrė pirmąją nesė-\nkmę. Birželio 18 d. Lenkijos kariuo-\nmenė prie Zelencų sumušė rusus,\ntačiau didelėms priešų pajėgoms\nspaudžiant ATR pajėgos turėjo\ntrauktis visu frontu, liepos\n4 d."
+  citata_rodoma: |
+    Čia Lietuvos
+    kariuomenė patyrė pirmąją nesė-
+    kmę. Birželio 18 d. Lenkijos kariuo-
+    menė prie Zelencų sumušė rusus,
+    tačiau didelėms priešų pajėgoms
+    spaudžiant ATR pajėgos turėjo
+    trauktis visu frontu, liepos
+    4 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

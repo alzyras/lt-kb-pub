@@ -89,7 +89,11 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
     vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
     pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
     padėtį valstybėje.
-  citata_rodoma: "Tik A. Voldemarui pa-\nvyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis\npasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios\npadėtį valstybėje."
+  citata_rodoma: |
+    Tik A. Voldemarui pa-
+    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
+    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
+    padėtį valstybėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +118,10 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
     žurnalai. Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
-  citata_rodoma: "Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-\nno konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų\nSąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą."
+  citata_rodoma: |
+    Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
+    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
+    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

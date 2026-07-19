@@ -97,7 +97,13 @@ Nenurodyta
     i Alų, kuris buvo skirtas atnašavimui, pirkdavo už pinigus, kuriuos
     gaudavo už javus, tikriausiai bendrai viso kaimo pasėtus atskiroje dir­
     voje, tai yra šventame lauke (Luc.
-  citata_rodoma: "Buvo buriama\nstebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.\nBuvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.\nStenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­\nsimenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­\nmo nekaltai nubaudė vieną žmogų“42."
+  citata_rodoma: |
+    Buvo buriama
+    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
+    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
+    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
+    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
+    mo nekaltai nubaudė vieną žmogų“42.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

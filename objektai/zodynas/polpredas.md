@@ -59,7 +59,8 @@ Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu)
     atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
     dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
     daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
-  citata_rodoma: "dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota"
+  citata_rodoma: |
+    dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -111,7 +111,10 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
     žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
     rezultatų, kokių tikėjosi.
-  citata_rodoma: "Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV\nžemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių\nrezultatų, kokių tikėjosi."
+  citata_rodoma: |
+    Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
+    žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
+    rezultatų, kokių tikėjosi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -130,7 +133,10 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
     mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
     demonstracijos, mitingai.
-  citata_rodoma: "1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-\nmokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,\ndemonstracijos, mitingai."
+  citata_rodoma: |
+    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
+    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
+    demonstracijos, mitingai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

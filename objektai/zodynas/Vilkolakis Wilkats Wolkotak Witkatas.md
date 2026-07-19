@@ -86,7 +86,14 @@ Vilkolakį Narbutas aiškina kaip latvių Wilkats, rusinų Wolkotak ir lietuvių
     me. Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ra-
     gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
     nurodytu moterų žynių pavadinimu.
-  citata_rodoma: "Vilkolakis (Wilkats)\nLatviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­\nsų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­\nvidonas pridaro neapsakomai daug žalos. Geria su draugu iš\ntos pačios taurelės, kalbasi. Antikos laikais panašiai būdavo\napkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram\nlaikui pasiversdavę vilkais."
+  citata_rodoma: |
+    Vilkolakis (Wilkats)
+    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
+    sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
+    vidonas pridaro neapsakomai daug žalos. Geria su draugu iš
+    tos pačios taurelės, kalbasi. Antikos laikais panašiai būdavo
+    apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
+    laikui pasiversdavę vilkais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

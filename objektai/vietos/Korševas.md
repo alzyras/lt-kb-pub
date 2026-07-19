@@ -69,7 +69,11 @@ nežinomi didesni Lietuvos puolituose 1363 m. „Lietuva paėmė Korševą“ - 
 
     mai į Kryžiuočių ordino valdas. Vakaruose miestą prie Sosnos upės, dešiniojo Dono
     tęsėsi diplomatinė kova, o karinės pajėgos, intako, jau prie pat totorių stepių valdų.
-  citata_rodoma: "nežinomi didesni Lietuvos puoli- tuose 1363 m. „Lietuva paėmė Korševą“ -\n\nmai į Kryžiuočių ordino valdas. Vakaruose miestą prie Sosnos upės, dešiniojo Dono\ntęsėsi diplomatinė kova, o karinės pajėgos, intako, jau prie pat totorių stepių valdų."
+  citata_rodoma: |
+    nežinomi didesni Lietuvos puoli- tuose 1363 m. „Lietuva paėmė Korševą“ -
+
+    mai į Kryžiuočių ordino valdas. Vakaruose miestą prie Sosnos upės, dešiniojo Dono
+    tęsėsi diplomatinė kova, o karinės pajėgos, intako, jau prie pat totorių stepių valdų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

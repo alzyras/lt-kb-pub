@@ -481,7 +481,10 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     „dignitates, sedes et officia, prout in regno Poloniae instituta
     sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
     tellanus vilnensis et demum in Trokky“...^2 ).
-  citata_rodoma: "„dignitates, sedes et officia, prout in regno Poloniae instituta\nsunt, instituentur et locabantur in Vilna scilicet palatinus et cas­\ntellanus vilnensis et demum in Trokky“...^2 )."
+  citata_rodoma: |
+    „dignitates, sedes et officia, prout in regno Poloniae instituta
+    sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
+    tellanus vilnensis et demum in Trokky“...^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -509,7 +512,18 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     kad karalystės luomai nu­
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
-  citata_rodoma: "Po to prasidėjo ilgos tarpusavio rietenos, kurias\nnuolat kurstė ir Vytautas, ir\nlenkai, siuntinėdami žygūnus:\nLietuvos didysis kunigaikštis\nstengėsi iš lenkų išgauti suti­\nkimą, o šie — priversti Vy­\ntautą atsisakyti savo sumany­\nmo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus."
+  citata_rodoma: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -531,7 +545,13 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
     vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
     vardj — „in Arena" arba „na Piaskach".
-  citata_rodoma: "4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­\nkotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias \nj vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas \niš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus \nvaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­\ntautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458)."
+  citata_rodoma: |
+    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
+    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
+    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
+    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
+    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
+    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

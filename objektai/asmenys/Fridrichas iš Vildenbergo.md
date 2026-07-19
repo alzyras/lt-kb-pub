@@ -75,7 +75,13 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
     tiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną
     jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
     ugnimi.
-  citata_rodoma: "Su jais ir su visa Kulmo žemės bei gretimų\nžemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei\n150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,\ntiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną\njie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė\nugnimi."
+  citata_rodoma: |
+    Su jais ir su visa Kulmo žemės bei gretimų
+    žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei
+    150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,
+    tiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną
+    jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
+    ugnimi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

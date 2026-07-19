@@ -146,7 +146,13 @@ Nenurodyta
     Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
     pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
     Daumanto, už Nalšios kunigaikščiol0.
-  citata_rodoma: "(naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus, \nir jotvingius. O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru-\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo-\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš \nten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 ."
+  citata_rodoma: |
+    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
+    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
+    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru-
+    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo-
+    mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
+    ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -168,7 +174,15 @@ Nenurodyta
     Mindaugą.
     Mindaugas buvo pasiruošęs, bet nutarė su jais at­
     virame lauke nesikauti. Užsidarė pilyje-vorutoje23, ir
-  citata_rodoma: "Visa tai padarė, kad Lietuva netapo krikščioniška. \nAndrių broliai riteriai pašalino iš pareigų, o Tautvilą \nparbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė \njotvingius ir žemaičius bei Danieliaus pagalbą, kurią \nDanielius buvo jam anksčiau davęs, ir išžygiavo prieš \nMindaugą.\nMindaugas buvo pasiruošęs, bet nutarė su jais at-\nvirame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir"
+  citata_rodoma: |
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at-
+    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

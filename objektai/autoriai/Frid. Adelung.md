@@ -94,7 +94,15 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
     sakėčios „Balandėliai“ pakartojimas*. Ieškojau to, kuris
     man paaiškintų prasmę žodžio Russ, turėjusio iš pirmo
     žvilgsnio reikšti kaimą.
-  citata_rodoma: "Sanskrite yra panašus ir panašią reikšmę\nturintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje\n1\nRapport entre la lanąue sanscrite et la lanąue russe par Frid.\nAdelung.\nS.\nPetersb.,\n1811."
+  citata_rodoma: |
+    Sanskrite yra panašus ir panašią reikšmę
+    turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje
+    1
+    Rapport entre la lanąue sanscrite et la lanąue russe par Frid.
+    Adelung.
+    S.
+    Petersb.,
+    1811.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

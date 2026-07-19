@@ -71,7 +71,9 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: "Maskvoje tuomet prasidėjo per-\nversmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ )."
+  citata_rodoma: |
+    Maskvoje tuomet prasidėjo per-
+    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

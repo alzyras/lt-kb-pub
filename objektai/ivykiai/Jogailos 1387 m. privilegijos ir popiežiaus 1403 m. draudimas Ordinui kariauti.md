@@ -87,7 +87,8 @@ Nenurodyta
     la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
     jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
     šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
-  citata_rodoma: "jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška"
+  citata_rodoma: |
+    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -61,7 +61,11 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
     M. Szameitat :** **_Bibliographie des Memellandes_** **(Ostdeutsche Beiträge
     aus dem Göttinger Arbeitskreis, t. 7), Würzburg (Holzner-Yerlag) 1957.
     Duodant keletą specialių priedų, sužymėta 2395 bibliogr. numeriai.
-  citata_rodoma: "Atskirai paminėtina Klaipėdos krašto bibliografija :\nM. Szameitat :** **_Bibliographie des Memellandes_** **(Ostdeutsche Beiträge\naus dem Göttinger Arbeitskreis, t. 7), Würzburg (Holzner-Yerlag) 1957.\nDuodant keletą specialių priedų, sužymėta 2395 bibliogr. numeriai."
+  citata_rodoma: |
+    Atskirai paminėtina Klaipėdos krašto bibliografija :
+    M. Szameitat :** **_Bibliographie des Memellandes_** **(Ostdeutsche Beiträge
+    aus dem Göttinger Arbeitskreis, t. 7), Würzburg (Holzner-Yerlag) 1957.
+    Duodant keletą specialių priedų, sužymėta 2395 bibliogr. numeriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

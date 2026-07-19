@@ -125,7 +125,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata sieja vėlesnių datų siūlymą su J. Poverskio darbu."
   pagrindžia:
-    - c-65309
 
 <a id="claim-t-197000"></a>
 - t-006
@@ -213,7 +212,13 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     originalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)
     ir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti,
     paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
-  citata_rodoma: "G. Liabuda, tyrinėdamas XIII—XV a. Pamario bei Ordino valstybės analistiką, be kitų\nto meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.\nPoliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos\nšaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų\nvaldytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio\nšaltinį, kuris yra žuvęs93."
+  citata_rodoma: |
+    G. Liabuda, tyrinėdamas XIII—XV a. Pamario bei Ordino valstybės analistiką, be kitų
+    to meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.
+    Poliakuvnos darbo išvadomis, G. Liabuda išanalizavo probleminius Dusburgiečio kronikos
+    šaltinių klausimus, atskleidė jų genealogiją, atkreipė dėmesį  į atskirų Ordino teritorijų
+    valdytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio
+    šaltinį, kuris yra žuvęs93.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -228,7 +233,8 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   citata_originali: |
     Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
     buvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100.
-  citata_rodoma: "93 Powierski J. Przekaz..., s. 422—425."
+  citata_rodoma: |
+    93 Powierski J. Przekaz..., s. 422—425.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -255,7 +261,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64639
     - t-197001
 - id: c-65311
   autorius: "Petras Dusburgietis"
@@ -267,7 +272,10 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     vieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte...,
     1, p. 639—649; GAO, p. 146).
     Ieškodamas centrinės baltų Romovės resp.
-  citata_rodoma: "teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška\ndykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo\nišlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303)."
+  citata_rodoma: |
+    teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
+    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
+    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

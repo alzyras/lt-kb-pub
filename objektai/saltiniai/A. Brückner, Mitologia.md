@@ -106,7 +106,15 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
     lenkų enciklopedijoje paskelbtame straipsnyje apie lietuvių mi­
     tologiją T. Narbutas tiesiog vadinamas „įžymiuoju falsifikato-
     riumi“35.
-  citata_rodoma: "„Nesusipratimais ir riktais“ laiko­\nmi T. Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va­\ndino gudelkomis, vaivorykštę -  Linksminę, žinios „apie kaž­\nkokį lietuvių Bakchą, jo garbintojus ir jo šventyklą, buvusią\nVilniuje“, Piatnicos cerkvės vietoje34, ir 1.1., ir 1.1. O 1910 m.\nlenkų enciklopedijoje paskelbtame straipsnyje apie lietuvių mi­\ntologiją T. Narbutas tiesiog vadinamas „įžymiuoju falsifikato-\nriumi“35."
+  citata_rodoma: |
+    „Nesusipratimais ir riktais“ laiko­
+    mi T. Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va­
+    dino gudelkomis, vaivorykštę -  Linksminę, žinios „apie kaž­
+    kokį lietuvių Bakchą, jo garbintojus ir jo šventyklą, buvusią
+    Vilniuje“, Piatnicos cerkvės vietoje34, ir 1.1., ir 1.1. O 1910 m.
+    lenkų enciklopedijoje paskelbtame straipsnyje apie lietuvių mi­
+    tologiją T. Narbutas tiesiog vadinamas „įžymiuoju falsifikato-
+    riumi“35.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -123,7 +131,9 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
     Вестник археологии и истории, издаваемый археологичес­
     ким институтом. 1885 вып.- СПб, 1885,- С. 69-80.
     41 Ivinskis Z. Medžių kultas lietuvių religijoje // Soter.
-  citata_rodoma: "35 Brįūckner] A. Mitologia // Wielka encyklopedia powszechna ■\nilustrowana. -  Warszawa, 1910. -  T. XLII-XLIV. -  S. 633."
+  citata_rodoma: |
+    35 Brįūckner] A. Mitologia // Wielka encyklopedia powszechna ■
+    ilustrowana. -  Warszawa, 1910. -  T. XLII-XLIV. -  S. 633.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -66,7 +66,8 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     Kosciuška. Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
     liuose, sukilėlių vadu tapo Jokūbas Jasinskis. Sukilėliai balandį išvadavo
     iš rusų Vilnių ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą, kuriuo
-  citata_rodoma: "liuose, sukilėlių vadu tapo Jokūbas Jasinskis. Sukilėliai balandį išvadavo"
+  citata_rodoma: |
+    liuose, sukilėlių vadu tapo Jokūbas Jasinskis. Sukilėliai balandį išvadavo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

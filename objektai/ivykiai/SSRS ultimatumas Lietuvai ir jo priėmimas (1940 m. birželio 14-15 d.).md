@@ -199,7 +199,15 @@ Nenurodyta
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: "Tačiau nei J. Urbšys, nei taikingas A. Smetonos\nlaiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos\npareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus\nį Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų\nultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-\ntimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-\nnę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos\n10 val. ryto."
+  citata_rodoma: |
+    Tačiau nei J. Urbšys, nei taikingas A. Smetonos
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
+    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
+    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
+    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
+    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
+    10 val. ryto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -223,7 +231,9 @@ Nenurodyta
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
     atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
-  citata_rodoma: "Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus\natsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą."
+  citata_rodoma: |
+    Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
+    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -245,7 +255,14 @@ Nenurodyta
     Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo
     kelis Lietuvos pasienio postus, nukovė pasienio policininką, kitą pagrobė,
     kelis postus nuginklavo.
-  citata_rodoma: "SSRS iš anksto pasiruošė invazijai: pasienyje įsteigtos ligoninės sužeis-\ntiesiems, lageriai būsimiems karo belaisviams. Sovietai dar pavasarį slapta\npermetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias di-\nversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo\nBaltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo\nkelis Lietuvos pasienio postus, nukovė pasienio policininką, kitą pagrobė,\nkelis postus nuginklavo."
+  citata_rodoma: |
+    SSRS iš anksto pasiruošė invazijai: pasienyje įsteigtos ligoninės sužeis-
+    tiesiems, lageriai būsimiems karo belaisviams. Sovietai dar pavasarį slapta
+    permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias di-
+    versines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo
+    Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo
+    kelis Lietuvos pasienio postus, nukovė pasienio policininką, kitą pagrobė,
+    kelis postus nuginklavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -267,7 +284,9 @@ Nenurodyta
     kelis postus nuginklavo.
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą.
-  citata_rodoma: "Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,\nar priešintis okupacijai, ar priimti ultimatumą."
+  citata_rodoma: |
+    Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
+    ar priešintis okupacijai, ar priimti ultimatumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -286,7 +305,10 @@ Nenurodyta
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: "Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.\nS.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų\nkarinei mašinai negali, būtų daug aukų."
+  citata_rodoma: |
+    Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
+    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
+    karinei mašinai negali, būtų daug aukų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

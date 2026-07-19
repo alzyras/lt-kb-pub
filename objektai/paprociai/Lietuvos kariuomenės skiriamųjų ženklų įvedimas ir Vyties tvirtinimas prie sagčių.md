@@ -78,7 +78,15 @@ Nenurodyta
     kiečių kariuomenės. Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
     kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
     vas ir geltonas lankelis ant kepurės.
-  citata_rodoma: "Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-\njėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo\nuniformų, reikalingos ekipuotės. Savanoriai buvo apsirengę rūbais, su kuriais atvyko iš\nnamų, dažniausiai buvo ginkluoti šautuvais, kuriuos patys atsinešė įsigiję už savo lėšas.\nVėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-\nkiečių kariuomenės. Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į\nkariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-\nvas ir geltonas lankelis ant kepurės."
+  citata_rodoma: |
+    Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
+    jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
+    uniformų, reikalingos ekipuotės. Savanoriai buvo apsirengę rūbais, su kuriais atvyko iš
+    namų, dažniausiai buvo ginkluoti šautuvais, kuriuos patys atsinešė įsigiję už savo lėšas.
+    Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
+    kiečių kariuomenės. Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
+    kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
+    vas ir geltonas lankelis ant kepurės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

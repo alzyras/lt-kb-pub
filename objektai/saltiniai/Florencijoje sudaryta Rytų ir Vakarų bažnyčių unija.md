@@ -83,7 +83,28 @@ Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėji
     pasirūpinsiąs ginklu atremti bet kokį smurtą, kurio
     bus griebiamasi prieš asmenis ir tėvonijas, jo paimtas
     į globą.
-  citata_rodoma: "Aleksandras kol kas laikėsi nuomonės,\n559\n\n## Puslapis 558\n\njog tirono įsiūtį galima numalšinti per pasiunti-l\nnius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi\natsakyti Ivano žygūnui. Esą po Florencijoje sudarytos\nRytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­\nchai ir Bizantijos imperatorius pripažino Romos po­\npiežių aukščiausiąja krikščioniškojo tikėjimo galva,\nAleksandras, remdamasis senaisiais Lietuvos įstatymais,\nrūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­\ndėtų prie šios santarvės. Taigi Ivanas visai be pagrin­\ndo įsižeidęs dėl tų jo darbų, kuriuos sutartinai remia\nvisi krikščionys ir Nifonas, Konstantinopolio patriar­\nchas (kuriam ir Rusia sakosi esanti pavaldi), laišku,\nparašytu Kijevo vyskupui, ypač dėl to, kad Aleksan­\ndras nieko iš savo valdinių (netgi ir žmonos Elenos)\nprievarta bei grasinimais nėra vertęs atsisakyti pro­\ntėvių tikėjimo."
+  citata_rodoma: |
+    Aleksandras kol kas laikėsi nuomonės,
+    559
+
+    ## Puslapis 558
+
+    jog tirono įsiūtį galima numalšinti per pasiunti-l
+    nius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi
+    atsakyti Ivano žygūnui. Esą po Florencijoje sudarytos
+    Rytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­
+    chai ir Bizantijos imperatorius pripažino Romos po­
+    piežių aukščiausiąja krikščioniškojo tikėjimo galva,
+    Aleksandras, remdamasis senaisiais Lietuvos įstatymais,
+    rūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­
+    dėtų prie šios santarvės. Taigi Ivanas visai be pagrin­
+    do įsižeidęs dėl tų jo darbų, kuriuos sutartinai remia
+    visi krikščionys ir Nifonas, Konstantinopolio patriar­
+    chas (kuriam ir Rusia sakosi esanti pavaldi), laišku,
+    parašytu Kijevo vyskupui, ypač dėl to, kad Aleksan­
+    dras nieko iš savo valdinių (netgi ir žmonos Elenos)
+    prievarta bei grasinimais nėra vertęs atsisakyti pro­
+    tėvių tikėjimo.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

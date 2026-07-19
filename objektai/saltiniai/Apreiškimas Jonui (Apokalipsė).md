@@ -78,7 +78,8 @@ media_all_json: |-
     su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
     kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės. Iš čia
     motyvų pasitelkė misionieriai.
-  citata_rodoma: "kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės. Iš čia"
+  citata_rodoma: |
+    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės. Iš čia
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

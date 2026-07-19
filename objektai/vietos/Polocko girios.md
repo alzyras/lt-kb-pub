@@ -108,7 +108,30 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
     mų, bet ir dėl neprieinamos vietos, rusams be kovos
     pasiduodant, o po to į savo rankas paėmė Oršą ir visą
     kraštą tarp Dnepro ir Dauguvos.
-  citata_rodoma: "Tad Švitrigaila, būdamas tikras, jog ru­\nsai jam pasiduos, tyliai pa-\nU žim a  V ite b s k o  že-\ntraukė žinomais keliais per\npuolė Vitebską, be didelio vargo užėmė Vitebsko miestą\nir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­\nmų, bet ir dėl neprieinamos vietos, rusams be kovos\npasiduodant, o po to į savo rankas paėmė Oršą ir visą\nkraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­\nkus gavęs žinią apie tuos įvykius, ne tiek pykdamas\ndėl žemės netekimo, kiek dėl nešlovės (mat jam pra­\nnešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­\nvęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė\ndėti karą prieš Vytautą. Ne-\nmę\nPolocko girias su keliais tūks­\ntančiais Livonijos karių, už-\n348\n\n## Puslapis 347\n\nVytautui tol kariauti, kol neatsiims žemės ir nesutriuš­\nkins Švitrigailos."
+  citata_rodoma: |
+    Tad Švitrigaila, būdamas tikras, jog ru­
+    sai jam pasiduos, tyliai pa-
+    U žim a  V ite b s k o  že-
+    traukė žinomais keliais per
+    puolė Vitebską, be didelio vargo užėmė Vitebsko miestą
+    ir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­
+    mų, bet ir dėl neprieinamos vietos, rusams be kovos
+    pasiduodant, o po to į savo rankas paėmė Oršą ir visą
+    kraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­
+    kus gavęs žinią apie tuos įvykius, ne tiek pykdamas
+    dėl žemės netekimo, kiek dėl nešlovės (mat jam pra­
+    nešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­
+    vęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė
+    dėti karą prieš Vytautą. Ne-
+    mę
+    Polocko girias su keliais tūks­
+    tančiais Livonijos karių, už-
+    348
+
+    ## Puslapis 347
+
+    Vytautui tol kariauti, kol neatsiims žemės ir nesutriuš­
+    kins Švitrigailos.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

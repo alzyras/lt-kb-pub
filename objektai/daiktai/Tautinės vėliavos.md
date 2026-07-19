@@ -82,7 +82,8 @@ Nenurodyta
     santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
     tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
-  citata_rodoma: "lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės."
+  citata_rodoma: |
+    lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -117,7 +117,15 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
     daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
     pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
     iš jų 50 krikščionių.
-  citata_rodoma: "Todėl ir žmonės tarpais kopė ledu sakytum į \nkalną, tarpais leidosi žemyn nelyginant į klonį, tačiau, viešpaties globojami, nė vienas \nnenuskendo.\n286 (279). Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais\nTais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į \npriekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas \nten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė \ndaug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių."
+  citata_rodoma: |
+    Todėl ir žmonės tarpais kopė ledu sakytum į
+    kalną, tarpais leidosi žemyn nelyginant į klonį, tačiau, viešpaties globojami, nė vienas
+    nenuskendo.
+    286 (279). Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
+    Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
+    priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
+    ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
+    daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -141,7 +149,12 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
     priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
     ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
     daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių.
-  citata_rodoma: "Mat arklys matė pavojų, kurio raitelis nakties\ntamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas\npentinais: „Vardan viešpaties— į priekį“. Tada jo bendras, tai yra velnias, atsistojo prieš\njį ir pasakė: „Tavo laimė, kad paminėjai savo dievo vardą, jeigu to nebūtum padaręs,\njau būtum negyvas nutrenktas  į šią pragarmę“."
+  citata_rodoma: |
+    Mat arklys matė pavojų, kurio raitelis nakties
+    tamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas
+    pentinais: „Vardan viešpaties— į priekį“. Tada jo bendras, tai yra velnias, atsistojo prieš
+    jį ir pasakė: „Tavo laimė, kad paminėjai savo dievo vardą, jeigu to nebūtum padaręs,
+    jau būtum negyvas nutrenktas  į šią pragarmę“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

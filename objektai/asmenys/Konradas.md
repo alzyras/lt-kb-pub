@@ -278,7 +278,13 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     Ordinas pasistatė Torunės pil.
     Prasidėjo metodiški kryžiaus
     žygiai į Prūsiją.
-  citata_rodoma: "pakvietė Mozūrijos kunigaikš-\ntis Konradas ir padovanojo\njiems Kulmo žemę. 1231 m.\nOrdinas pasistatė Torunės pil.\nPrasidėjo metodiški kryžiaus\nžygiai į Prūsiją."
+  citata_rodoma: |
+    pakvietė Mozūrijos kunigaikš-
+    tis Konradas ir padovanojo
+    jiems Kulmo žemę. 1231 m.
+    Ordinas pasistatė Torunės pil.
+    Prasidėjo metodiški kryžiaus
+    žygiai į Prūsiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -299,7 +305,11 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
     kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
     mės pakraštėj.
-  citata_rodoma: "Tada Mozūrų kunigaikš-\n  tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-\n  kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-\n  mės pakraštėj."
+  citata_rodoma: |
+    Tada Mozūrų kunigaikš-
+      tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
+      kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
+      mės pakraštėj.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

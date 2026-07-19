@@ -59,7 +59,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
     vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
     Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
-  citata_rodoma: "Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai."
+  citata_rodoma: |
+    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

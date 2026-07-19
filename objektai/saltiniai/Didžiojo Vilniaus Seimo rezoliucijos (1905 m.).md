@@ -65,7 +65,8 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
     dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
     Lietuvoje delegatai. Kulminacinis suvažiavimo įvykis buvo rezoliucijos
     dėl politinės autonomijos Lietuvai suteikimo priėmimas.
-  citata_rodoma: "dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos"
+  citata_rodoma: |
+    dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -332,7 +332,13 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
     vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
     vardj — „in Arena" arba „na Piaskach".
-  citata_rodoma: "4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­\nkotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias \nj vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas \niš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus \nvaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­\ntautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458)."
+  citata_rodoma: |
+    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
+    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
+    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
+    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
+    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
+    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas

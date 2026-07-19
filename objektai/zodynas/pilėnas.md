@@ -218,7 +218,17 @@ media_all_json: |-
     rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
     štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
     kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
-  citata_rodoma: "Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais\n\n  Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio\npilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir\npanoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai\npasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai\nprašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių\nrankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir\nštai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,\nkad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika."
+  citata_rodoma: |
+    Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
+
+      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
+    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
+    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
+    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
+    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
+    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
+    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
+    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -244,7 +254,16 @@ media_all_json: |-
     pamatyti; audrai šėlstant, jie įsiveržė į šios pilies papilį, kuris tuo metu buvo ir didelis, ir
     gausiai gyvenamas nelyginant koks miestas, ir, visus žmones išžudę ar paėmę į nelaisvę
     bei sudeginę papilį, patraukė namo su tokiu grobiu, kokį įstengė išsigabenti.
-  citata_rodoma: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais\n\n   Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,\npatraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis\npilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten\nįsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki\npamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir\npriėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę\nar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino."
+  citata_rodoma: |
+    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
+
+       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
+    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
+    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
+    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
+    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
+    priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
+    ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -283,7 +302,19 @@ media_all_json: |-
     giau kaip trys šimtai samdininkų ir keli kryžiuočių
     ordino riteriai, o štai grobio buvo tiek, kiek keletas
     karių galėjo išvežti.
-  citata_rodoma: "Tad nebesitikė­\ndami galėsią apgulti pilį, nes to pradėti neleido audra, \nbe to, bijodami pavojaus, kuris galėtų iškilti, jeigu prie­\nšui paaiškėtų, kad puolėjų ne tiek daug, jie ryžtingai \nužpuolė miestą. Pilėnai, kuriems pirmas veržlus ant­\npuolis neleido pabėgti, buvo arba išžudyti, arba paimti \nį nelaisvę, o kurie paspruko į pilį, neteko namų, iš­\nplėštų ir sudegintų. Skerdynės čia ėjo didesnės, nei \ngalima buvo tikėtis iš priešų skaičiaus: jų nebuvo dau­\ngiau kaip trys šimtai samdininkų ir keli kryžiuočių \nordino riteriai, o štai grobio buvo tiek, kiek keletas \nkarių galėjo išvežti."
+  citata_rodoma: |
+    Tad nebesitikė­
+    dami galėsią apgulti pilį, nes to pradėti neleido audra,
+    be to, bijodami pavojaus, kuris galėtų iškilti, jeigu prie­
+    šui paaiškėtų, kad puolėjų ne tiek daug, jie ryžtingai
+    užpuolė miestą. Pilėnai, kuriems pirmas veržlus ant­
+    puolis neleido pabėgti, buvo arba išžudyti, arba paimti
+    į nelaisvę, o kurie paspruko į pilį, neteko namų, iš­
+    plėštų ir sudegintų. Skerdynės čia ėjo didesnės, nei
+    galima buvo tikėtis iš priešų skaičiaus: jų nebuvo dau­
+    giau kaip trys šimtai samdininkų ir keli kryžiuočių
+    ordino riteriai, o štai grobio buvo tiek, kiek keletas
+    karių galėjo išvežti.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -322,7 +353,27 @@ media_all_json: |-
     goti nuo iečių bei strėlių ir
     geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
     priešą, stovintį krante.
-  citata_rodoma: "Iš tos išdavystės išėjo visai kas kita, nei vy­\nlėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,\nWQ\n\n## Puslapis 189\n\njeigu sugautas kaimietis nebūtų pranešęs, jog ne­\ntoliese tyko Vytenis su karių būriais, kryžiuočiai,\npersikėlę per Nemuną, patys būtų pakliuvę į pasalas,\nkurias spendė Gardinui. Bisenės užpuolimas buvo nar­\nsiai pilėnų atremtas; smarkiai sumuštas ir didelės ka­\nrių dalies netekęs priešas buvo priverstas pasitraukti\nnieko nepešęs. Kadangi stip-\n1313 m e ta i\nriausios lietuvių pilys buvo\nprie Nemuno bei kitų upių,\nVerneris, Ragainės komtūras, patarė kryžiuočiams jas\nvieną po kitos pulti laivais, įtikinėdamas, kad į van­\ndens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­\nprastai menkiau sutvirtinti ir lengviau prieinami."
+  citata_rodoma: |
+    Iš tos išdavystės išėjo visai kas kita, nei vy­
+    lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,
+    WQ
+
+    ## Puslapis 189
+
+    jeigu sugautas kaimietis nebūtų pranešęs, jog ne­
+    toliese tyko Vytenis su karių būriais, kryžiuočiai,
+    persikėlę per Nemuną, patys būtų pakliuvę į pasalas,
+    kurias spendė Gardinui. Bisenės užpuolimas buvo nar­
+    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
+    rių dalies netekęs priešas buvo priverstas pasitraukti
+    nieko nepešęs. Kadangi stip-
+    1313 m e ta i
+    riausios lietuvių pilys buvo
+    prie Nemuno bei kitų upių,
+    Verneris, Ragainės komtūras, patarė kryžiuočiams jas
+    vieną po kitos pulti laivais, įtikinėdamas, kad į van­
+    dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
+    prastai menkiau sutvirtinti ir lengviau prieinami.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -354,7 +405,18 @@ media_all_json: |-
     rus sumanymus, savo karines jėgas prie Vytauto. Smo-
     lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
     buvo nuvesta į Vitebską.
-  citata_rodoma: "Apgula užtruko ištisą mėnesį,\ntačiau ne dėl to, kad nebuvo\nA p su p a  V ite b s k ą\ndaroma, kas tokiais atvejais\nreikalinga, o todėl, kad gynė­\njai, ypač Livonijos kariai, klausydami ne tiek Švitri­\ngailos skatinimų, kiek įsakymų bei grasinimų, prieši­\nnosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto\nkariai įsiveržė pro visiškai sugriautus įtvirtinimus į\nžemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas\nkitas pilėnas."
+  citata_rodoma: |
+    Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto
+    kariai įsiveržė pro visiškai sugriautus įtvirtinimus į
+    žemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas
+    kitas pilėnas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

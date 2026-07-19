@@ -81,7 +81,10 @@ Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai
     vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės
     kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių
     bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų.
-  citata_rodoma: "Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,\nkuriuos paėmė į nelaisvę. Pakliuvo  į nelaisvę ir brolis Oteris, tačiau neilgai trukus jam\npavyko stebuklingai išsigelbėti. Žinoma, jis dešimt dienų išbuvo kelyje be maisto."
+  citata_rodoma: |
+    Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,
+    kuriuos paėmė į nelaisvę. Pakliuvo  į nelaisvę ir brolis Oteris, tačiau neilgai trukus jam
+    pavyko stebuklingai išsigelbėti. Žinoma, jis dešimt dienų išbuvo kelyje be maisto.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

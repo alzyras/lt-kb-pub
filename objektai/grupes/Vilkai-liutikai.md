@@ -118,7 +118,15 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
     miestų, upių ir įvairių kitų geografinių vietovių pavadi­
     nimai amžiams bėgant ir įvairių tautų kalbose gali kisti,
     tačiau bet kuris žodis nėra vien ore sugautas garsas.
-  citata_rodoma: "Visi senovės tyrinėtojai sutinka, jog vilkų tauta buvo\nslaviška gentis, be to, viena iš pačių seniausių, kuri mūsų\neroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­\njose upės pakrantėse ar net salose, esančiose prie jos\nįtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­\nlijos pakrantėse. Aleksandrijos geografas aiškiai iš pat\npradžių įvardijo ten gyvenusią veltų tautą (Welty, Wele-\nty-Lutyki)."
+  citata_rodoma: |
+    Visi senovės tyrinėtojai sutinka, jog vilkų tauta buvo
+    slaviška gentis, be to, viena iš pačių seniausių, kuri mūsų
+    eroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­
+    jose upės pakrantėse ar net salose, esančiose prie jos
+    įtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­
+    lijos pakrantėse. Aleksandrijos geografas aiškiai iš pat
+    pradžių įvardijo ten gyvenusią veltų tautą (Welty, Wele-
+    ty-Lutyki).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

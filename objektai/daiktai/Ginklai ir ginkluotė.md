@@ -176,7 +176,11 @@ Nenurodyta
     kur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė
     ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
     reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
-  citata_rodoma: "1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,\nkur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė\nginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių\nreikalavimu, leido panaudoti savo dalinius stabdant bolševizmą."
+  citata_rodoma: |
+    1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
+    kur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė
+    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
+    reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +204,12 @@ Nenurodyta
     paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
     legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
     dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: "Kovos su lenkais įgavo ne tik teritorinį, bet ir so-\ncialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius\npaskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų\nlegionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo\ndvarus, visi, kas sveiki, turi griebtis ginklo“."
+  citata_rodoma: |
+    Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
+    cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
+    paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
+    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
+    dvarus, visi, kas sveiki, turi griebtis ginklo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

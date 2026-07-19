@@ -120,7 +120,11 @@ Nenurodyta
     rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
     Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
     išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
-  citata_rodoma: "Rygai\nrūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.\nTaigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai\nišsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160."
+  citata_rodoma: |
+    Rygai
+    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
+    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
+    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

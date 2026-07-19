@@ -70,7 +70,12 @@ media_all_json: |-
     _Vytauto charakteristika,_ rink. : Vytautas Didysis, red. P. Šležas, Kaunas
     1930, 253-265 p. — Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,
     1933, 1-71 p. — PfiW.
-  citata_rodoma: "— Končius, J. : _Vytautas the Great, Grand Duke\nof Lithuania,_ Miami, Florida 1964, 186-195 p. — Krasauskaitė, M.\n_Vytauto charakteristika,_ rink. : Vytautas Didysis, red. P. Šležas, Kaunas\n1930, 253-265 p. — Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,\n1933, 1-71 p."
+  citata_rodoma: |
+    — Končius, J. : _Vytautas the Great, Grand Duke
+    of Lithuania,_ Miami, Florida 1964, 186-195 p. — Krasauskaitė, M.
+    _Vytauto charakteristika,_ rink. : Vytautas Didysis, red. P. Šležas, Kaunas
+    1930, 253-265 p. — Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,
+    1933, 1-71 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

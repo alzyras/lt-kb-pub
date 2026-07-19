@@ -64,7 +64,13 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
     taip pat buvo didžiausia. Prieš jį drebėjo visi Europos rytai,
     Maskvos kunigaikštis titulavo jį savo globėju ir protektoriumi,
     o vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi.
-  citata_rodoma: "Krašto viduje jis tapo absoliutišku\nvaldovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,\nkaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka\ntaip pat buvo didžiausia. Prieš jį drebėjo visi Europos rytai,\nMaskvos kunigaikštis titulavo jį savo globėju ir protektoriumi,\no vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi."
+  citata_rodoma: |
+    Krašto viduje jis tapo absoliutišku
+    valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,
+    kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
+    taip pat buvo didžiausia. Prieš jį drebėjo visi Europos rytai,
+    Maskvos kunigaikštis titulavo jį savo globėju ir protektoriumi,
+    o vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

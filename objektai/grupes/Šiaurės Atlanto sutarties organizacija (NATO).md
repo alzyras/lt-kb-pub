@@ -171,7 +171,13 @@ media_all_json: |-
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: "1991 m. rugsėjo 17 d. Lietuva priimta \nį Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-\ntas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO \n(Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą \n(ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto \nsutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą."
+  citata_rodoma: |
+    1991 m. rugsėjo 17 d. Lietuva priimta
+    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
+    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
+    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
+    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
+    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +197,10 @@ media_all_json: |-
     mui į NATO. 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
     garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
     tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
-  citata_rodoma: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-\ngarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-\ntos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės."
+  citata_rodoma: |
+    2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
+    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
+    tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -63,7 +63,11 @@ media_all_json: |-
     lis, Siričius, Dvargantis, Klamals ir Prigirditis. Reng­
     damas antrąjį leidimą, autorius nutarė jį spausdin­
     ti abėcėlės tvarka (PE.
-  citata_rodoma: "P. 183*- Turima omenyje Olafo Monsono (1490-1558)\n„Šiaurės tautų istorija“ (Olaus Magnus. Gentium\nseptentrionalium historiae. -  1652 // [Narbutt T]\nSpisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216)."
+  citata_rodoma: |
+    P. 183*- Turima omenyje Olafo Monsono (1490-1558)
+    „Šiaurės tautų istorija“ (Olaus Magnus. Gentium
+    septentrionalium historiae. -  1652 // [Narbutt T]
+    Spisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

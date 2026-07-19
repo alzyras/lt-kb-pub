@@ -154,7 +154,24 @@ media_all_json: |-
     viso ankstyvesnio gyvenimo: paprastai ant purpurinio
     apsiausto jis vilkėdavo juodą drapaną, kaip vienuolio
     įžadų ženklą.
-  citata_rodoma: "Taigi visuotiniame\nsusirinkime kunigaikščiu buvo išrinktas Vaišvilkas.\nU  5\n\n## Puslapis 114\n\nIšleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­\nkui nuodugniai papasakoti apie diduomenės bei tau­\ntos prielankumą ir pakviesti jį perimti tėvo paliktos\nvaldžios. Iš pradžių Vaišvil­\nkas\nnė\nklausyti nenorėjo\napie tai, ko jį maldavo žy­\ngūnai, nes šitai prieštaravo\njo pasirinktam gyvenimo bū­\ndui."
+  citata_rodoma: |
+    Taigi visuotiniame
+    susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
+    U  5
+
+    ## Puslapis 114
+
+    Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­
+    kui nuodugniai papasakoti apie diduomenės bei tau­
+    tos prielankumą ir pakviesti jį perimti tėvo paliktos
+    valdžios. Iš pradžių Vaišvil­
+    kas
+    nė
+    klausyti nenorėjo
+    apie tai, ko jį maldavo žy­
+    gūnai, nes šitai prieštaravo
+    jo pasirinktam gyvenimo bū­
+    dui.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -205,7 +222,18 @@ media_all_json: |-
     dymų. Senosios draugystės pastovumui laiduoti visiškai
     užtenka ankstesnio susitarimo, nepaisant to, kad jis
     nepatvirtintas jokia priesaika.
-  citata_rodoma: "Tačiau ligai išgy­\ndyti jau nebeužteko gydytojo, reikėjo veiksmingesnių\npriemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­\ntarė, jog reikia pastatyti ginkluotas saugas visuose ke­\nliuose Lenkijos pasienyje ir\nuoliai žiūrėti, kad ir impera­\ntoriaus, ir Vytauto žygūnai\nnegalėtų prasmukti nei į vie­\nną, nei į kitą pusę. Viskam\nvadovauti paskyrė Joną Čar-\nnkovskį."
+  citata_rodoma: |
+    Tačiau ligai išgy­
+    dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių
+    priemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­
+    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
+    liuose Lenkijos pasienyje ir
+    uoliai žiūrėti, kad ir impera­
+    toriaus, ir Vytauto žygūnai
+    negalėtų prasmukti nei į vie­
+    ną, nei į kitą pusę. Viskam
+    vadovauti paskyrė Joną Čar-
+    nkovskį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -244,7 +272,24 @@ media_all_json: |-
     koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
     ir todėl kai kurie, norėdami išvengti šitokios nuodė­
     mės, ieškosi prieglobsčio Maskvoje.
-  citata_rodoma: "Iš tikrųjų\nIvanas troško išplėsti savo valdas, išdidžiai svajoda­\nmas pastūmėti sienas ligi Berezinos ir paimti į savo ran­\nkas visą Rusią. Aleksandras kol kas laikėsi nuomonės,\n559\n\n## Puslapis 558\n\njog tirono įsiūtį galima numalšinti per pasiunti-l\nnius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi\natsakyti Ivano žygūnui. Esą po Florencijoje sudarytos\nRytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­\nchai ir Bizantijos imperatorius pripažino Romos po­\npiežių aukščiausiąja krikščioniškojo tikėjimo galva,\nAleksandras, remdamasis senaisiais Lietuvos įstatymais,\nrūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­\ndėtų prie šios santarvės."
+  citata_rodoma: |
+    Iš tikrųjų
+    Ivanas troško išplėsti savo valdas, išdidžiai svajoda­
+    mas pastūmėti sienas ligi Berezinos ir paimti į savo ran­
+    kas visą Rusią. Aleksandras kol kas laikėsi nuomonės,
+    559
+
+    ## Puslapis 558
+
+    jog tirono įsiūtį galima numalšinti per pasiunti-l
+    nius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi
+    atsakyti Ivano žygūnui. Esą po Florencijoje sudarytos
+    Rytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­
+    chai ir Bizantijos imperatorius pripažino Romos po­
+    piežių aukščiausiąja krikščioniškojo tikėjimo galva,
+    Aleksandras, remdamasis senaisiais Lietuvos įstatymais,
+    rūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­
+    dėtų prie šios santarvės.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

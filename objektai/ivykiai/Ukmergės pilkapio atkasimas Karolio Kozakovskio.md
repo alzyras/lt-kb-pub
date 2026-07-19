@@ -106,7 +106,9 @@ Nenurodyta
     tami laužaviečių likučiai. Per daugelį metų taip išaugdavo pilka­
     piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-
     kovskis, duoda pagrindo tuo tikėti.
-  citata_rodoma: "Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-\nkovskis, duoda pagrindo tuo tikėti."
+  citata_rodoma: |
+    Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-
+    kovskis, duoda pagrindo tuo tikėti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

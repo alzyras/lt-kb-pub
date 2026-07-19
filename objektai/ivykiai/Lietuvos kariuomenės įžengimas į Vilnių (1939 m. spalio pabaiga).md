@@ -115,7 +115,17 @@ Nenurodyta
     istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
     o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
     sakis „Vilnius mūsų, o mes rusų“).
-  citata_rodoma: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-\nva prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus, \nLietuvos kariuomenė įžengia į Vilnių  \n(1939 m. spalio pabaiga)\n\nL I E T U V O S  I S T O R I J A\n186\nistorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, \no Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-\nsakis „Vilnius mūsų, o mes rusų“)."
+  citata_rodoma: |
+    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
+    va prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus,
+    Lietuvos kariuomenė įžengia į Vilnių
+    (1939 m. spalio pabaiga)
+
+    L I E T U V O S  I S T O R I J A
+    186
+    istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
+    o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
+    sakis „Vilnius mūsų, o mes rusų“).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -64,7 +64,8 @@ Sokolovski, Dr.
   citata_originali: |
     I.
     Sokolovski, Dr. Pr. Aug„ Dzieje Polski, tom. II, Warszawa, 1900.
-  citata_rodoma: "Sokolovski, Dr. Pr. Aug„ Dzieje Polski, tom. II, Warszawa, 1900."
+  citata_rodoma: |
+    Sokolovski, Dr. Pr. Aug„ Dzieje Polski, tom. II, Warszawa, 1900.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

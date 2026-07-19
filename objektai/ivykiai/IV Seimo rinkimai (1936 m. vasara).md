@@ -122,7 +122,8 @@ Nenurodyta
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės.
-  citata_rodoma: "kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių"
+  citata_rodoma: |
+    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +141,8 @@ Nenurodyta
     vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas
     „smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai
     lojalūs asmenys.
-  citata_rodoma: "„smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai"
+  citata_rodoma: |
+    „smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

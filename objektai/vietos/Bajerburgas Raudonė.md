@@ -115,7 +115,20 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
     vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
     jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
     metų birželio 15 d., sustojo ties Bajerburgu.
-  citata_rodoma: "Į tą rūsį \nlanda buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­\nkiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­\nninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi \npriešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai\n102\n\n## Puslapis 119\n\nI  KNYGA\nvienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs \njam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337 \nmetų birželio 15 d., sustojo ties Bajerburgu."
+  citata_rodoma: |
+    Į tą rūsį
+    landa buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­
+    kiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­
+    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
+    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
+    102
+
+    ## Puslapis 119
+
+    I  KNYGA
+    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
+    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
+    metų birželio 15 d., sustojo ties Bajerburgu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

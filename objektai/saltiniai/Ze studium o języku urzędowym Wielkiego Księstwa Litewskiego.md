@@ -61,7 +61,10 @@ media_all_json: |-
     SL. — Kwiatkowski, W. : Ze studium o języku urzędowym Wielkiego
     Księstwa Litewskiego, Prace Alma Mater Vilnensis, London 1958, 133-160
     p. — Liubavskij, M. : LOD, 1892.
-  citata_rodoma: "— Kwiatkowski, W. : Ze studium o języku urzędowym Wielkiego\nKsięstwa Litewskiego, Prace Alma Mater Vilnensis, London 1958, 133-160\np. — Liubavskij, M."
+  citata_rodoma: |
+    — Kwiatkowski, W. : Ze studium o języku urzędowym Wielkiego
+    Księstwa Litewskiego, Prace Alma Mater Vilnensis, London 1958, 133-160
+    p. — Liubavskij, M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

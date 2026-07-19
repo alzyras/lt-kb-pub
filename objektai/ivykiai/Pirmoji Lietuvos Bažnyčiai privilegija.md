@@ -90,7 +90,12 @@ Nenurodyta
     vilegija, t. y. raštas, arba
     įstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-
     ses (1387 m.).
-  citata_rodoma: "Taip pat buvo duota pir-\nmoji Lietuvos Bažnyčiai pri-\nvilegija, t. y. raštas, arba\nįstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-\nses (1387 m.)."
+  citata_rodoma: |
+    Taip pat buvo duota pir-
+    moji Lietuvos Bažnyčiai pri-
+    vilegija, t. y. raštas, arba
+    įstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-
+    ses (1387 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

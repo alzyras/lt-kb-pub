@@ -138,7 +138,15 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
     kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
-  citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso."
+  citata_rodoma: |
+    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
+    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
+    125
+
+    ## Puslapis 125
+
+    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
+    nedailaus, bet labai patvaraus gipso.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -157,7 +165,23 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
     aukų deginimo aukuras su nuolat degančia ugnimi. Visa tai juosia
     šešiakampė mūro siena. Aptvaro viduje matyti 12 ąžuolinių malkų
     krūvų kiekvienam mėnesiui ugniai kūrenti. Vieni vartai išeina į miestą.
-  citata_rodoma: "458\n\n## Puslapis 458\n\nILIUSTRACIJOS\n(LENTELĖS)\n\n## Puslapis 459\n\nI lentelė\n1 pav. Senovinio vamzdžio žalvarinis žiedas, puoštas iškiliuoju\nkalimu, išilginis vaizdas. Iškalti Dmitrijaus Doniškio laikų rusiški žen­\nklai ir kitokie lietuvių kariški ženklai\n2 pav. Lipdytojo darbo dievaitės Perkūnaitėlės statulėlė, rasta\nKidulių pilyje\n3 pav."
+  citata_rodoma: |
+    458
+
+    ## Puslapis 458
+
+    ILIUSTRACIJOS
+    (LENTELĖS)
+
+    ## Puslapis 459
+
+    I lentelė
+    1 pav. Senovinio vamzdžio žalvarinis žiedas, puoštas iškiliuoju
+    kalimu, išilginis vaizdas. Iškalti Dmitrijaus Doniškio laikų rusiški žen­
+    klai ir kitokie lietuvių kariški ženklai
+    2 pav. Lipdytojo darbo dievaitės Perkūnaitėlės statulėlė, rasta
+    Kidulių pilyje
+    3 pav.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

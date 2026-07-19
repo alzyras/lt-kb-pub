@@ -67,10 +67,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Šiandien nabagai nuvargę, žudomi vis nori dar žmonysta^501 pasielgti, tankiai išmintingam
-        svečiui, į jų namus įėjusiam, neturėdami kuo jo pamylėti, pradeda verkti ir jam guostis
-        prispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų
-        ir netartų jį paiku gaspadorium esant.
-  citata_rodoma: "Šiandien nabagai nuvargę, žudomi vis nori dar žmonysta^501 pasielgti, tankiai išmintingam\nsvečiui, į jų namus įėjusiam, neturėdami kuo jo pamylėti, pradeda verkti ir jam guostis\nprispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų\nir netartų jį paiku gaspadorium esant."
+    svečiui, į jų namus įėjusiam, neturėdami kuo jo pamylėti, pradeda verkti ir jam guostis
+    prispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų
+    ir netartų jį paiku gaspadorium esant.
+  citata_rodoma: |
+    Šiandien nabagai nuvargę, žudomi vis nori dar žmonysta^501 pasielgti, tankiai išmintingam
+    svečiui, į jų namus įėjusiam, neturėdami kuo jo pamylėti, pradeda verkti ir jam guostis
+    prispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų
+    ir netartų jį paiku gaspadorium esant.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

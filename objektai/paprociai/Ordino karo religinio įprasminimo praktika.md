@@ -207,7 +207,12 @@ Nenurodyta
     šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
     Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
     niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
-  citata_rodoma: "Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos\neinančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė\nMarija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų\ndalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas\n(III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas."
+  citata_rodoma: |
+    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
+    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
+    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų
+    dalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas
+    (III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -276,7 +281,12 @@ Nenurodyta
     atskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.
     Kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai
     darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
-  citata_rodoma: "Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo\ntos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).\n  Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis\nkrikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios\nekspansija  į baltų žemes."
+  citata_rodoma: |
+    Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
+    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
+      Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
+    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
+    ekspansija  į baltų žemes.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -296,7 +306,13 @@ Nenurodyta
     ekspansija į baltų žemes. Vokiškojo Ordino, visokeriopai remiamo popiežiaus kurijos,
     priešai Petrui iš Dusburgo visada yra dievo priešai, jis nieku būdu nenori suprasti, kad
     pagonys prūsai ir lietuviai gali kovoti už laisvę, už savarankišką vystymąsi.
-  citata_rodoma: "Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino\nriterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus\nginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins\nKristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.\nŠie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną\nlinksmybę“ (II. 8)."
+  citata_rodoma: |
+    Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
+    riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus
+    ginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins
+    Kristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.
+    Šie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną
+    linksmybę“ (II. 8).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

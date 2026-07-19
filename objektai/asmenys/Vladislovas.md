@@ -241,7 +241,26 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     kardus
 
     Venecijos Schiavona (tariasi skjavona).
-  citata_rodoma: "Vėliau,\nkai kariai sužinojo apie savo vado mirtį,\nlietuvių kariuomenė nenorėjo paklusti\nkaralystės didžiajam etmonui Stanislovui\nLiubomirskiui, tik karalaičiui Vladislovui\nįkalbėjus LDK kariuomenė sutiko jam laiki-\nnai paklusti.\n\nMūšio padariniai\nMūšyje prie Chotino lietuvių ir lenkų ka-\nriuomenės, kompensuodamos artilerijos\n\nKautynėse sulaužę\nsavo ietis, husarai\nišsitraukdavo pala-\nšus, konceržus arba\nkardus\n\nVenecijos Schiavona (tariasi skjavona)."
+  citata_rodoma: |
+    Vėliau,
+    kai kariai sužinojo apie savo vado mirtį,
+    lietuvių kariuomenė nenorėjo paklusti
+    karalystės didžiajam etmonui Stanislovui
+    Liubomirskiui, tik karalaičiui Vladislovui
+    įkalbėjus LDK kariuomenė sutiko jam laiki-
+    nai paklusti.
+
+    Mūšio padariniai
+    Mūšyje prie Chotino lietuvių ir lenkų ka-
+    riuomenės, kompensuodamos artilerijos
+
+    Kautynėse sulaužę
+    savo ietis, husarai
+    išsitraukdavo pala-
+    šus, konceržus arba
+    kardus
+
+    Venecijos Schiavona (tariasi skjavona).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -281,7 +300,28 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo
     tada, kai, grįždamas su kariuomene namo, siaubė Ma-
     zoviją.
-  citata_rodoma: "Dvidešimt keturis tūkstančius lenkų be­\nlaisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas\n2 J 2\n\n## Puslapis 211\n\nviltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­\npestingai prižiūrėti tas pasienio žemes, kurias arba prie­\nšas buvo kalaviju nusiaubęs, arba patys palikę ne­\ngyvenamas dėl nuolatinių antpuolių, Gediminas padėjo\nvėliau Vladislovui kariauti\nsu Voldemaru, Brandenburgo\nmarkgrafu. Šiuo žygiu buvo\nnusiaubti\ndidžiuliai\npriešo\nvaldų plotai, ypač dėl to, kad\nlietuviai nelyginant laukiniai\nstabmeldžiai niokojo šventas ir nešventas vietas, nie­\nko nepaisydami ir nerodydami jokios pagarbos tikėji­\nmui."
+  citata_rodoma: |
+    Dvidešimt keturis tūkstančius lenkų be­
+    laisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas
+    2 J 2
+
+    ## Puslapis 211
+
+    viltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­
+    pestingai prižiūrėti tas pasienio žemes, kurias arba prie­
+    šas buvo kalaviju nusiaubęs, arba patys palikę ne­
+    gyvenamas dėl nuolatinių antpuolių, Gediminas padėjo
+    vėliau Vladislovui kariauti
+    su Voldemaru, Brandenburgo
+    markgrafu. Šiuo žygiu buvo
+    nusiaubti
+    didžiuliai
+    priešo
+    valdų plotai, ypač dėl to, kad
+    lietuviai nelyginant laukiniai
+    stabmeldžiai niokojo šventas ir nešventas vietas, nie­
+    ko nepaisydami ir nerodydami jokios pagarbos tikėji­
+    mui.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -314,7 +354,21 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     niems metams, po to, degdami neapykanta ir trokšda­
     mi keršto, nukreipė visas savo jėgas prieš Lietuvą ir
     Žemaitiją.
-  citata_rodoma: "Mat Lenkija, kuri visaip\niki šiol stengėsi išsaugoti taiką, ėmė rengtis karui su\nordinu; skriausdami kaimynus, kaip ligi šiol skriaudė,\nkryžiuočiai ir padarė karą neišvengiamą. Vladislovui į\npagalbą nuskubėjo pats Gediminas, atskiriems kariuo­\nmenės daliniams vadovauti\npatikėjęs sūnums. Nunioko­\njęs Kulmo kraštą, nuvijęs\nkryžiuočius ligi Drevantos,\napiplėšęs ir išdeginęs bemaž\nvisą* Prūsiją ir kelis kartus į\nLietuvą išsivaręs didžiulį gro­\nbį, Gediminas ilgainiui ant savo pečių užsikrovė visą\nkaro naštą."
+  citata_rodoma: |
+    Mat Lenkija, kuri visaip
+    iki šiol stengėsi išsaugoti taiką, ėmė rengtis karui su
+    ordinu; skriausdami kaimynus, kaip ligi šiol skriaudė,
+    kryžiuočiai ir padarė karą neišvengiamą. Vladislovui į
+    pagalbą nuskubėjo pats Gediminas, atskiriems kariuo­
+    menės daliniams vadovauti
+    patikėjęs sūnums. Nunioko­
+    jęs Kulmo kraštą, nuvijęs
+    kryžiuočius ligi Drevantos,
+    apiplėšęs ir išdeginęs bemaž
+    visą* Prūsiją ir kelis kartus į
+    Lietuvą išsivaręs didžiulį gro­
+    bį, Gediminas ilgainiui ant savo pečių užsikrovė visą
+    karo naštą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

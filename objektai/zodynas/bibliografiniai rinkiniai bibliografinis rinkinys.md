@@ -57,7 +57,10 @@ BIBLIOGRAFINIAI RINKINIAI, LIEČlĄ LIETUVOS ISTORIJĄ Pilna Lietuvos istorijos 
     vajame pasaulyje. Tad šis, iš viso pirmasis,** **_Lietuvos istorijos_** **bibliografijos
     rinkinys yra palikęs didelę spragą. Tarp enciklopedijų, žinoma, nutylėta
     LE.
-  citata_rodoma: "Tad šis, iš viso pirmasis,** **_Lietuvos istorijos_** **bibliografijos\nrinkinys yra palikęs didelę spragą. Tarp enciklopedijų, žinoma, nutylėta\nLE."
+  citata_rodoma: |
+    Tad šis, iš viso pirmasis,** **_Lietuvos istorijos_** **bibliografijos
+    rinkinys yra palikęs didelę spragą. Tarp enciklopedijų, žinoma, nutylėta
+    LE.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

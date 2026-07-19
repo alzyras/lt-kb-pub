@@ -87,7 +87,8 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
     Vakar nerimavo ir išdykavo jaunieji, o suaugę namus dabojo,
     dėlto šiandien pirmieji liūdni ir nusiminę, seniai gi eina į gertuvę ar
     pas kits kitą bonkelėmis degtinės nešini. Eina „dantų plauti“ .
-  citata_rodoma: "Eina „dantų plauti“ ."
+  citata_rodoma: |
+    Eina „dantų plauti“ .
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
@@ -113,7 +114,8 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
     po
     tris
     žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
-  citata_rodoma: "Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima."
+  citata_rodoma: |
+    Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

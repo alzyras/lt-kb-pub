@@ -77,7 +77,8 @@ Nenurodyta
     Įėjusi galva
     kraipo, dairosi į visas puses, žiūri kas ant stalo, bado snapu į tuščią
     lėkštę, įkiša snapą į tuščią ąsotį.
-  citata_rodoma: "Įėjusi galva kraipo, dairosi į visas puses, žiūri kas ant stalo, bado snapu į tuščią lėkštę, įkiša snapą į tuščią ąsotį."
+  citata_rodoma: |
+    Įėjusi galva kraipo, dairosi į visas puses, žiūri kas ant stalo, bado snapu į tuščią lėkštę, įkiša snapą į tuščią ąsotį.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -97,7 +98,8 @@ Nenurodyta
     o šiems pavalgius — gimines ir kaimynus.
     Valgė mediniais šaukštais,
     įsipildami į baltas lėkštes.
-  citata_rodoma: "Valgė mediniais šaukštais, įsipildami į baltas lėkštes."
+  citata_rodoma: |
+    Valgė mediniais šaukštais, įsipildami į baltas lėkštes.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

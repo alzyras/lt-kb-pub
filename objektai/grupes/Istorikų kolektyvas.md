@@ -59,7 +59,11 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
     _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių
     santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
     B. Dundulis 108.
-  citata_rodoma: "Bendrą tų kovų istoriją paruošė istorikų kolektyvas :\n_Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių\nsantykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja\nB. Dundulis 108."
+  citata_rodoma: |
+    Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
+    _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių
+    santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
+    B. Dundulis 108.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

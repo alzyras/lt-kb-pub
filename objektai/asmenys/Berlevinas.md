@@ -77,7 +77,14 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
     krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
     ginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į
     kovą.
-  citata_rodoma: "Šiam sumanymui pasipriešino\nbrolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes\njiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo\nir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,\nkrikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24\nginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į\nkovą."
+  citata_rodoma: |
+    Šiam sumanymui pasipriešino
+    brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
+    jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
+    ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,
+    krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
+    ginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į
+    kovą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

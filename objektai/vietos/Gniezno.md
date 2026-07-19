@@ -164,7 +164,11 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
     ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
     po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
     ir Breslavo vysk. Jono.
-  citata_rodoma: "į Konstanciją buvo išsiųsta Lietuvos\nir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­\npo Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus\nir Breslavo vysk. Jono."
+  citata_rodoma: |
+    į Konstanciją buvo išsiųsta Lietuvos
+    ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
+    po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
+    ir Breslavo vysk. Jono.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -178,7 +182,11 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     vežė didžiomis upėmis, beje: Isla, Nemunu, Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją...
-  citata_rodoma: "vežė didžiomis upėmis, beje: Isla, Nemunu,\nDaugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą\nper tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų\n(Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją"
+  citata_rodoma: |
+    vežė didžiomis upėmis, beje: Isla, Nemunu,
+    Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą
+    per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų
+    (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

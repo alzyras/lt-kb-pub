@@ -91,7 +91,16 @@ Narbutas rašo, kad Ksaveras Bogušas panašios rūšies dievybei davė Magilos 
     gerovei antrą kartą išleistas Viešpaties 1753 metais per Bazilį Boni­
     facą Jakimavičių (Jachimowicz) ketvirčio lapo formato, nenumeruo­
     tų puslapių 60, to meto nuorašas ranka“.
-  citata_rodoma: "Gaila (Gajia)\nAnot liaudies padavimų, prie piktųjų būtybių giminės pri­\nklausė kažkokios moteriškos šmėklos, kankinančios žmones\nir gyvulius .\nF. Noelis straipsnyje „Gajlau“ sako: „Arabai šitaip vadino\ntam tikros rūšies miškų demonus, kurie žudydavo žmones ir\ngyvulius“.\nAtrodo, panašios rūšies dievybei Ksaveras Bogušas davė\nMagilos (Magilla) vardą; jis reiškiąs pykčio deivę ."
+  citata_rodoma: |
+    Gaila (Gajia)
+    Anot liaudies padavimų, prie piktųjų būtybių giminės pri­
+    klausė kažkokios moteriškos šmėklos, kankinančios žmones
+    ir gyvulius .
+    F. Noelis straipsnyje „Gajlau“ sako: „Arabai šitaip vadino
+    tam tikros rūšies miškų demonus, kurie žudydavo žmones ir
+    gyvulius“.
+    Atrodo, panašios rūšies dievybei Ksaveras Bogušas davė
+    Magilos (Magilla) vardą; jis reiškiąs pykčio deivę .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

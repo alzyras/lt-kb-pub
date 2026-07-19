@@ -192,7 +192,11 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     o XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla,
     kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
     toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
-  citata_rodoma: "Tik XVII a. vyravo „importinis“, ypač itališkas, barokas, \no XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, \nkurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-\ntoph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją."
+  citata_rodoma: |
+    Tik XVII a. vyravo „importinis“, ypač itališkas, barokas,
+    o XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla,
+    kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
+    toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -212,7 +216,9 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
     Tai leidžia pakelti J. K. Glaubicą į pačių reikšmingiausių Lietuvos istorijos
     asmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai.
-  citata_rodoma: "Tai leidžia pakelti J. K. Glaubicą į pačių reikšmingiausių Lietuvos istorijos \nasmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai."
+  citata_rodoma: |
+    Tai leidžia pakelti J. K. Glaubicą į pačių reikšmingiausių Lietuvos istorijos
+    asmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -255,7 +261,10 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J. K. Glaubi-
     co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
     Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
-  citata_rodoma: "J. K. Glaubi-\nco kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios \nLietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas."
+  citata_rodoma: |
+    J. K. Glaubi-
+    co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
+    Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

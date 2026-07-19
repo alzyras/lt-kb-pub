@@ -87,7 +87,15 @@ media_all_json: |-
     beveik visiškai atvirą; kaimiečiai tuos kapus priskiria stabmel­
     dystės laikams; pasakoja, kad, prie skeletų būdavo randama
     labai senų pinigų ir visokių metalo gabalų.
-  citata_rodoma: "Statinio viduje paprastai stovi maži mo­\nliniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­\nna pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų\narba jūros bangų nutrintų akmenukų, kuriems dievobaimingi\nžmonės priskiria kažkokią šventumo ypatybe5.\n3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man\npasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­\nrius*."
+  citata_rodoma: |
+    Statinio viduje paprastai stovi maži mo­
+    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
+    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
+    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
+    žmonės priskiria kažkokią šventumo ypatybe5.
+    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
+    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
+    rius*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

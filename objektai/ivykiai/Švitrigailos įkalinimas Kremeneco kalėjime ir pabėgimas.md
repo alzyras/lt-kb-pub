@@ -108,7 +108,20 @@ Nenurodyta
     nymo, jeigu nebūtų parėmęs
     Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
     vykęs į Lietuvą.
-  citata_rodoma: "Pasibaigus vestuvių iškilmėms, valdovai\niš visų jėgų įniko rengtis karui su kryžiuočiais. Vytau­\ntas, gal dėl senų nuoskaudų\nVytautas įkalina Švit-\nnepasitikėdamas\nŠvitrigaila,\niigailą\ngal įtarinėdamas jį dėl kokių\nnaujų gandų, būgštavo, kad,\nkariuomenei patraukus į Prūsiją, namie gali kilti kokie\nneramumai, todėl liepė šį suimti ir įkalinti Kremeneco\nkalėjime. Jį netrukus paleido rusų sąmokslininkai, nu­\nžudę sargybos viršininką Konradą Frankenbergą."
+  citata_rodoma: |
+    Pasibaigus vestuvių iškilmėms, valdovai
+    iš visų jėgų įniko rengtis karui su kryžiuočiais. Vytau­
+    tas, gal dėl senų nuoskaudų
+    Vytautas įkalina Švit-
+    nepasitikėdamas
+    Švitrigaila,
+    iigailą
+    gal įtarinėdamas jį dėl kokių
+    naujų gandų, būgštavo, kad,
+    kariuomenei patraukus į Prūsiją, namie gali kilti kokie
+    neramumai, todėl liepė šį suimti ir įkalinti Kremeneco
+    kalėjime. Jį netrukus paleido rusų sąmokslininkai, nu­
+    žudę sargybos viršininką Konradą Frankenbergą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

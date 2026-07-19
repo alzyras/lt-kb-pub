@@ -74,7 +74,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė forma pagerinta pašalinant fragmentiškumą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-180570
+    - c-180572
 
 <a id="claim-t-198533"></a>
 - t-004
@@ -289,14 +289,17 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
     respublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo
     mirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375
     D. Naugardas su Dimitru padarė sutartį.
-  citata_rodoma: "Ilgą laiką panašiai buvo ir su Naugardo\nrespublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo\nmirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375\nD. Naugardas su Dimitru padarė sutartį."
+  citata_rodoma: |
+    Ilgą laiką panašiai buvo ir su Naugardo
+    respublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo
+    mirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375
+    D. Naugardas su Dimitru padarė sutartį.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05245
     - t-198537
 - id: c-180571
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -314,7 +317,14 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
     tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
     koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
     dininkus ir kryžiuočius.
-  citata_rodoma: "iš Kolomnos pasiuntė į Didįjį Naugardą savo pasiuntinį, kad šis\nįsakytų jam pradėti karą su vokiečiais. Naugardiečiai atsakė,\nkad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais\nyra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­\ntautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą\nkoaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­\ndininkus ir kryžiuočius."
+  citata_rodoma: |
+    iš Kolomnos pasiuntė į Didįjį Naugardą savo pasiuntinį, kad šis
+    įsakytų jam pradėti karą su vokiečiais. Naugardiečiai atsakė,
+    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
+    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
+    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
+    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
+    dininkus ir kryžiuočius.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -342,6 +352,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05243
+    - t-05245
     - t-198535
 - id: c-180573
   autorius: "Anoniminis metraštininkas"
@@ -374,7 +385,10 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
     iš savo tarpo išsirinkdavo vadą. Nuo XII amž. antros pusės yra
     žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų
     prekybos respublikų (Pskovo, Novgorodo) šiaurėje.
-  citata_rodoma: "Nuo XII amž. antros pusės yra\nžinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų\nprekybos respublikų (Pskovo, Novgorodo) šiaurėje."
+  citata_rodoma: |
+    Nuo XII amž. antros pusės yra
+    žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų
+    prekybos respublikų (Pskovo, Novgorodo) šiaurėje.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas

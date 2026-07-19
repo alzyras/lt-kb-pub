@@ -67,7 +67,12 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
     [7] Rugpjūčio 8 d. Augustavas
     © Rugpjūčio 9 d. Švenčionėliai, |
     Švenčionys, Adutiškis.
-  citata_rodoma: "liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS\n\n[7] Rugpjūčio 8 d. Augustavas\n© Rugpjūčio 9 d. Švenčionėliai, |\nŠvenčionys, Adutiškis."
+  citata_rodoma: |
+    liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS
+
+    [7] Rugpjūčio 8 d. Augustavas
+    © Rugpjūčio 9 d. Švenčionėliai, |
+    Švenčionys, Adutiškis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

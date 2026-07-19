@@ -98,7 +98,22 @@ Nenurodyta
     ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
     pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
     buvo tinkamiausios įsikurti ir neniokojamos karų.
-  citata_rodoma: "Taigi iš tiesų galėjo ši- \n908 m e ta i \ntaip įvykti, kad kurie ne\nkurie žmonės, matydami ši­\ntokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti \ntėvynę ir, išsaugoję sveikas galvas, leistis į kelionę. \nGal, palikę Italiją, šia kryptimi pasuko tie, kurie no­\nrėjo išvengti savo likimo, o gal tie, kurie nugalėjusių \npriešų buvo paskelbti už įstatymo ribų; nieku būdu \nnegaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­\nklydėliai. Galimas daiktas, alanai, arba herulai (kurie, \nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie \npasitraukė iš tėvynės ir pasuko į tas žemes, kurios \nbuvo tinkamiausios įsikurti ir neniokojamos karų."
+  citata_rodoma: |
+    Taigi iš tiesų galėjo ši-
+    908 m e ta i
+    taip įvykti, kad kurie ne
+    kurie žmonės, matydami ši­
+    tokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti
+    tėvynę ir, išsaugoję sveikas galvas, leistis į kelionę.
+    Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
+    rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
+    priešų buvo paskelbti už įstatymo ribų; nieku būdu
+    negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­
+    klydėliai. Galimas daiktas, alanai, arba herulai (kurie,
+    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
+    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
+    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
+    buvo tinkamiausios įsikurti ir neniokojamos karų.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -139,7 +154,28 @@ Nenurodyta
     įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
     žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
     Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
-  citata_rodoma: "Galimas daiktas, alanai, arba herulai (kurie,\nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie\npasitraukė iš tėvynės ir pasuko į tas žemes, kurios\nbuvo tinkamiausios įsikurti ir neniokojamos karų. Pa­\ngaliau nesvarbu, dėl kokios dingsties, reikalo ar būti­\nnybės jie leidosi į tokį tolimą kelią, vieną dalyką se­\nnoliai atkakliai tvirtina: ateivių italų esą buvę penki\nšimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus\nbuvo vardijami vadai: Palemonas, arba Publijus Libo-\nnas, herbo Stulpai,\nJulijonas\nDausprungas;,\nkurio\n59\n\n## Puslapis 58\n\ngiminės herbas Kentauras, Prosperas Cezarinas — her­\nbo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba\nRožynas."
+  citata_rodoma: |
+    Galimas daiktas, alanai, arba herulai (kurie,
+    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
+    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
+    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
+    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
+    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
+    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
+    noliai atkakliai tvirtina: ateivių italų esą buvę penki
+    šimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus
+    buvo vardijami vadai: Palemonas, arba Publijus Libo-
+    nas, herbo Stulpai,
+    Julijonas
+    Dausprungas;,
+    kurio
+    59
+
+    ## Puslapis 58
+
+    giminės herbas Kentauras, Prosperas Cezarinas — her­
+    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
+    Rožynas.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

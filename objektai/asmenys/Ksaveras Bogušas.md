@@ -248,19 +248,31 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vėliau kalbėsime apie šio astronomo
-    keliones, o dabar pasakysime tik tiek, jog visas jo apra­
-    šymas yra toks aiškus ir raiškus, kad nedera abejoti: tuo­
-    metiniai Prūsijos gyventojai nesivadino estais. Jie rinko
-    gintarą Abalo saloje; jį pardavinėjo gotonai. Ši kelionė
-    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
-    net iki Tacito senovės autoriai niekur nemini Estijos, nors
-    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
-    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
-    aprašymais, estų nemini. Matyt, priežastis yra ta, kad
-    tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
-    būtų sieti šį pavadinimą.
-  citata_rodoma: "Daug kartų autoriai, kurie ra­\nšė apie šias šalis ir tautas, nesigilindami į konkrečius pa­\nvadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir\n„Estijos“ terminu vadindavo visiškai skirtingas gentis\n91\n\n## Puslapis 89\n\nir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­\nmėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-\nšas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­\nfija“1, tačiau privalome plačiau aprašyti estus."
+    Daug kartų autoriai, kurie ra­
+    šė apie šias šalis ir tautas, nesigilindami į konkrečius pa­
+    vadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir
+    „Estijos“ terminu vadindavo visiškai skirtingas gentis
+    91
+
+    ## Puslapis 89
+
+    ir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­
+    mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
+    šas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­
+    fija“1, tačiau privalome plačiau aprašyti estus.
+  citata_rodoma: |
+    Daug kartų autoriai, kurie ra­
+    šė apie šias šalis ir tautas, nesigilindami į konkrečius pa­
+    vadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir
+    „Estijos“ terminu vadindavo visiškai skirtingas gentis
+    91
+
+    ## Puslapis 89
+
+    ir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­
+    mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
+    šas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­
+    fija“1, tačiau privalome plačiau aprašyti estus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

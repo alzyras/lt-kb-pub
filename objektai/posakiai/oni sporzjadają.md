@@ -86,7 +86,17 @@ Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni spor
     Rūpestingai surinkome to pirmykščio kulto liekanas, išli­
     kusias mitologinėse istorijose, padavimuose ir dainose, ir pa­
     gal tai išdėstome tokiu būdu.
-  citata_rodoma: "10*.\n183\n\n## Puslapis 183\n\nLietuvos rusinai pasakoja apie panašias baidykles, turin­\nčias keliamečių vaikų pavidalą, vadindami jas Zlydni. Jos vi­\nsuomet kenkia, o kai įsiskverbia į kieno nors namus, apsiryja\nir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-\ndają -  jos per daug suėda."
+  citata_rodoma: |
+    10*.
+    183
+
+    ## Puslapis 183
+
+    Lietuvos rusinai pasakoja apie panašias baidykles, turin­
+    čias keliamečių vaikų pavidalą, vadindami jas Zlydni. Jos vi­
+    suomet kenkia, o kai įsiskverbia į kieno nors namus, apsiryja
+    ir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-
+    dają -  jos per daug suėda.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

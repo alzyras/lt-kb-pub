@@ -78,7 +78,11 @@ Zeilleris 151 ; ta istorija anuomet buvo labai vertinama ir susilaukė keletos l
     rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
     gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
     anuomet buvo labai vertinama ir susilaukė keletos laidų.
-  citata_rodoma: "Iš senesniųjų isto­\nrikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­\ngaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija\nanuomet buvo labai vertinama ir susilaukė keletos laidų."
+  citata_rodoma: |
+    Iš senesniųjų isto­
+    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
+    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
+    anuomet buvo labai vertinama ir susilaukė keletos laidų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

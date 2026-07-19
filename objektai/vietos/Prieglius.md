@@ -217,7 +217,9 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
     grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
     Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-  citata_rodoma: "1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo\ngrąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t."
+  citata_rodoma: |
+    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
+    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -265,7 +267,20 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
     kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
     matęs vedant nedidelį karių būrį.
-  citata_rodoma: "Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374\n\n  Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas\npriemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė\npastatyti  tiltą per Priegliaus upę, o abiejuose  tilto galuose įrengti tvirtus kuorus,\nmanydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.\nKai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei\nlaukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė\nnetoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,\nŽinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų\nvyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,\nkiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo\nmatęs vedant nedidelį karių būrį."
+  citata_rodoma: |
+    Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
+
+      Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas
+    priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė
+    pastatyti  tiltą per Priegliaus upę, o abiejuose  tilto galuose įrengti tvirtus kuorus,
+    manydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.
+    Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
+    laukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė
+    netoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,
+    Žinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų
+    vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
+    kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
+    matęs vedant nedidelį karių būrį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -286,7 +301,10 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
     norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija ir Prūsija).
-  citata_rodoma: "Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m."
+  citata_rodoma: |
+    Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

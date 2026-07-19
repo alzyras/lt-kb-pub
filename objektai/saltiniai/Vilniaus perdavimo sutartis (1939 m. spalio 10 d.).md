@@ -95,7 +95,8 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
     vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
     santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
     nepriklausomybei.
-  citata_rodoma: "santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos"
+  citata_rodoma: |
+    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

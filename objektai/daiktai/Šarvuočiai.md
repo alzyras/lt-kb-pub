@@ -130,7 +130,13 @@ Nenurodyta
     grįžti į vadinamuosius „seimų
     laikus“, prilygintus netvarkai ir
     anarchijai.
-  citata_rodoma: "1926 m. gruodžio 17 d. perversmas –  \nšarvuočiai prie Vyriausiojo štabo\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n157\nA."
+  citata_rodoma: |
+    1926 m. gruodžio 17 d. perversmas –
+    šarvuočiai prie Vyriausiojo štabo
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    157
+    A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

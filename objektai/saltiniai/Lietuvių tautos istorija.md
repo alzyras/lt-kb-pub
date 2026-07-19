@@ -102,7 +102,9 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
     formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
     mą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
     metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis.
-  citata_rodoma: "1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais \nmetais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis."
+  citata_rodoma: |
+    1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
+    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

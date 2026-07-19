@@ -89,7 +89,10 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
     prie stabilumo ir taikos palaikymo ne tik Europoje, bet ir už jos ribų. Apskri-
     tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
     vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
-  citata_rodoma: "Apskri-\ntai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-\nvinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių."
+  citata_rodoma: |
+    Apskri-
+    tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
+    vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -110,7 +113,8 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
     Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
     kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
     saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
-  citata_rodoma: "saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione."
+  citata_rodoma: |
+    saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

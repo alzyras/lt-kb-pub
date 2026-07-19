@@ -146,7 +146,10 @@ Nenurodyta
     ' Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano
     Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti
     paremtas kokiu nors vretos padavimu.
-  citata_rodoma: "'  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano \nKurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti \nparemtas kokiu nors vretos padavimu."
+  citata_rodoma: |
+    '  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano
+    Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti
+    paremtas kokiu nors vretos padavimu.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

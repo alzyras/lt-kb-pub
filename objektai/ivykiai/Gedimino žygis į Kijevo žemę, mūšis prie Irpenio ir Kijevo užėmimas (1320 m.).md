@@ -195,7 +195,39 @@ Nenurodyta
     viena kitą išvydo vienu metu; ir vieni, ir kiti, vos
     pamatę priešą, beregint stojo į mūšį. Rusai puolė drą-
     Levas; be savo žemių karių,
-  citata_rodoma: "Iškilęs pavojus paskatino \ndaugelį kunigaikščių, o ypač Seversko, griebtis ginklo:\nį kovą pakilo Perejeslavlio \nB endras \nrusų \nž y g is \nkunigaikštis Romanas ir iš-\np rieš G ed im in ą \ntremtas Lucko kunigaikštis\njie turėjo pagalbininkų skitų. Kadangi sklido gandai, \njog priešas skubiai traukiąs į Kijevą, jie už šešių my­\nlių nuo šio miesto, prie Irpenio upės, įsirengė karo \nstovyklas, ketindami, jeigu tik bus įmanoma, užgriū­\nti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar­\ngę, ar pernelyg įnikę į grobikiškus išpuolius. Tačiau \nGediminas, iš žvalgų sužinojęs, kokios rusų jėgos, ką \njie keta daryti ir kur jų stovykla, bemat susigrąžino \nvisus būrius, išvykusius plėšikauti, ir patraukė į priekį \ntvarkingomis voromis, nenorėdamas priešo žemėje be \ntinkamo pasirengimo stoti į kovą. Abi kariuomenės \nviena kitą išvydo vienu metu; ir vieni, ir kiti, vos \npamatę priešą, beregint stojo į mūšį. Rusai puolė drą-\nLevas; be savo žemių karių,\n\nR usios \nku n ig a ik ščia i \nk a u ja si su lietu via is, \njie n u galim i\nšiai, pasipiktinę, kad štai tu­\nri grumtis dėl valdžios su \ntauta, kitados jiems mokėju­\nsia duoklę."
+  citata_rodoma: |
+    Iškilęs pavojus paskatino
+    daugelį kunigaikščių, o ypač Seversko, griebtis ginklo:
+    į kovą pakilo Perejeslavlio
+    B endras
+    rusų
+    ž y g is
+    kunigaikštis Romanas ir iš-
+    p rieš G ed im in ą
+    tremtas Lucko kunigaikštis
+    jie turėjo pagalbininkų skitų. Kadangi sklido gandai,
+    jog priešas skubiai traukiąs į Kijevą, jie už šešių my­
+    lių nuo šio miesto, prie Irpenio upės, įsirengė karo
+    stovyklas, ketindami, jeigu tik bus įmanoma, užgriū­
+    ti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar­
+    gę, ar pernelyg įnikę į grobikiškus išpuolius. Tačiau
+    Gediminas, iš žvalgų sužinojęs, kokios rusų jėgos, ką
+    jie keta daryti ir kur jų stovykla, bemat susigrąžino
+    visus būrius, išvykusius plėšikauti, ir patraukė į priekį
+    tvarkingomis voromis, nenorėdamas priešo žemėje be
+    tinkamo pasirengimo stoti į kovą. Abi kariuomenės
+    viena kitą išvydo vienu metu; ir vieni, ir kiti, vos
+    pamatę priešą, beregint stojo į mūšį. Rusai puolė drą-
+    Levas; be savo žemių karių,
+
+    R usios
+    ku n ig a ik ščia i
+    k a u ja si su lietu via is,
+    jie n u galim i
+    šiai, pasipiktinę, kad štai tu­
+    ri grumtis dėl valdžios su
+    tauta, kitados jiems mokėju­
+    sia duoklę.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

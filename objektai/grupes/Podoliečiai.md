@@ -59,7 +59,10 @@ O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovauj
     O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš
     Melštino vadovaujami podoliečiai. Vytautas ir be jų turėjo
     pakankamai kariuomenės.
-  citata_rodoma: "O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš\nMelštino vadovaujami podoliečiai. Vytautas ir be jų turėjo\npakankamai kariuomenės."
+  citata_rodoma: |
+    O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš
+    Melštino vadovaujami podoliečiai. Vytautas ir be jų turėjo
+    pakankamai kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

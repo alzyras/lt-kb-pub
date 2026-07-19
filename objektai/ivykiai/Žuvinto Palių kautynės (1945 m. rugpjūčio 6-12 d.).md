@@ -216,7 +216,14 @@ Nenurodyta
     cijos metu buvo nukauta 17 partizanų.
     Čekistai mėgdavo padidinti žuvusių
     partizanų skaičių, o savų - sumažinti.
-  citata_rodoma: "1945 m. rugpjūčio\n18 d. Alytaus NKVD slaptame pranešime\nLTSR Vidaus reikalų liaudies komisa-\nrui J. Bartašiūnui rašoma, kad opera-\ncijos metu buvo nukauta 17 partizanų.\nČekistai mėgdavo padidinti žuvusių\npartizanų skaičių, o savų - sumažinti."
+  citata_rodoma: |
+    1945 m. rugpjūčio
+    18 d. Alytaus NKVD slaptame pranešime
+    LTSR Vidaus reikalų liaudies komisa-
+    rui J. Bartašiūnui rašoma, kad opera-
+    cijos metu buvo nukauta 17 partizanų.
+    Čekistai mėgdavo padidinti žuvusių
+    partizanų skaičių, o savų - sumažinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,13 @@ Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas i
     Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
     anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
     tuva kilties ir vienos genties broliai?
-  citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę. Dabar peržvelkime\nmūsų amžiaus kritiko argumentus."
+  citata_rodoma: |
+    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
+    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
+    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę. Dabar peržvelkime
+    mūsų amžiaus kritiko argumentus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

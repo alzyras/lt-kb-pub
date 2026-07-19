@@ -79,7 +79,14 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
     bių; garbinimo objektai labai dažnai būdavo nedailus medžio
     gabalas, keisto pavidalo akmuo arba kokio nors metalo gaba­
     las.
-  citata_rodoma: "Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­\nnyti, kad ji galinti turėti įtakos vaisingumui.\nVINKŠNA, Winkszna. Netoli nuo mano kaimo, Gervelio-\nnių (Gerwielancy) akalicoje, vieno bajoro sode tebėra labai\nsenos vinkšnos kelmas; jo skersmuo apačioje siekia penkias\nuolektis; prieš 30 metų medis nulūžo; buvo nudžiūvęs nuo ne­\natmenamų laikų."
+  citata_rodoma: |
+    Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­
+    nyti, kad ji galinti turėti įtakos vaisingumui.
+    VINKŠNA, Winkszna. Netoli nuo mano kaimo, Gervelio-
+    nių (Gerwielancy) akalicoje, vieno bajoro sode tebėra labai
+    senos vinkšnos kelmas; jo skersmuo apačioje siekia penkias
+    uolektis; prieš 30 metų medis nulūžo; buvo nudžiūvęs nuo ne­
+    atmenamų laikų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

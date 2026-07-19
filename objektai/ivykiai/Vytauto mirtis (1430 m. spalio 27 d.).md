@@ -117,7 +117,10 @@ Nenurodyta
     Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
     žmonos vežime. Iš patalo daugiau nebepakilo.
-  citata_rodoma: "Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-\nkelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo\nžmonos vežime. Iš patalo daugiau nebepakilo."
+  citata_rodoma: |
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime. Iš patalo daugiau nebepakilo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +138,9 @@ Nenurodyta
     žmonos vežime. Iš patalo daugiau nebepakilo. Pagal Dlugošo idi­
     lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
     gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
-  citata_rodoma: "Pagal Dlugošo idilišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo-\ngailai ir liepęs jam nuo iždo ir pilių atiduoti raktus."
+  citata_rodoma: |
+    Pagal Dlugošo idilišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo-
+    gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

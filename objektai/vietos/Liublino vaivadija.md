@@ -72,7 +72,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: "Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į"
+  citata_rodoma: |
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

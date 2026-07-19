@@ -114,7 +114,9 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     m. Respublika turėjo teisę laikyti tik 24.000 kariuomenės). Tuo
     pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-
     džios organas, pavadintas Nuolatine Taryba.
-  citata_rodoma: "Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-\ndžios organas, pavadintas Nuolatine Taryba."
+  citata_rodoma: |
+    Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-
+    džios organas, pavadintas Nuolatine Taryba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

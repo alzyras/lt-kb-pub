@@ -107,7 +107,13 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
     kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
     vengrai vadino šias gentis kumanais.
-  citata_rodoma: "Pažiūrėkime į šio pavadinimo ištakas, rem­\ndamiesi savo žiniomis. Anot anuometinio istoriko Kons­\ntantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-\ntowy), kurių kiekvieną sudarė keturios ordos; orda dali­\njosi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak."
+  citata_rodoma: |
+    Pažiūrėkime į šio pavadinimo ištakas, rem­
+    damiesi savo žiniomis. Anot anuometinio istoriko Kons­
+    tantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-
+    towy), kurių kiekvieną sudarė keturios ordos; orda dali­
+    josi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-
+    1 Poloviečiai patys save vadino Kipczak.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

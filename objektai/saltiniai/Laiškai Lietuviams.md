@@ -69,7 +69,10 @@ media_all_json: |-
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
     297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
     1970.
-  citata_rodoma: ":\nLaiškai Lietuviams, Chicaga, 1958, nr. 5-9. — _(”)Jadwyga d’Anjou,_\nLE, t."
+  citata_rodoma: |
+    :
+    Laiškai Lietuviams, Chicaga, 1958, nr. 5-9. — _(”)Jadwyga d’Anjou,_
+    LE, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,10 +78,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Antrasis stabas antrajame uokse buvęs grakštus jaunikaitis, galva jo varpų vainiku apklėsta,
-        veido linksmo, vadinę Trimpa, arba Drimba, kaip patarlėj šiandien dar yra sakoma: „Eik sau po
-        Trimpų“, arba Jore, beje: pavasario dievu, laimės davėju, įkūrėju pakajaus, brandos ir gausumo,
-        globėju gyvulių, orės ir javų; kaip Perūnas buvęs šilimos dievu, taip šis vaisiaus.
-  citata_rodoma: "Antrasis stabas antrajame uokse buvęs grakštus jaunikaitis, galva jo varpų vainiku apklėsta,\nveido linksmo, vadinę Trimpa, arba Drimba, kaip patarlėj šiandien dar yra sakoma: „Eik sau po\nTrimpų“, arba Jore, beje: pavasario dievu, laimės davėju, įkūrėju pakajaus, brandos ir gausumo,\nglobėju gyvulių, orės ir javų; kaip Perūnas buvęs šilimos dievu, taip šis vaisiaus."
+    veido linksmo, vadinę Trimpa, arba Drimba, kaip patarlėj šiandien dar yra sakoma: „Eik sau po
+    Trimpų“, arba Jore, beje: pavasario dievu, laimės davėju, įkūrėju pakajaus, brandos ir gausumo,
+    globėju gyvulių, orės ir javų; kaip Perūnas buvęs šilimos dievu, taip šis vaisiaus.
+  citata_rodoma: |
+    Antrasis stabas antrajame uokse buvęs grakštus jaunikaitis, galva jo varpų vainiku apklėsta,
+    veido linksmo, vadinę Trimpa, arba Drimba, kaip patarlėj šiandien dar yra sakoma: „Eik sau po
+    Trimpų“, arba Jore, beje: pavasario dievu, laimės davėju, įkūrėju pakajaus, brandos ir gausumo,
+    globėju gyvulių, orės ir javų; kaip Perūnas buvęs šilimos dievu, taip šis vaisiaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

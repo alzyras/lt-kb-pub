@@ -126,7 +126,10 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. St
     ševičiui 7 nieko apie tai nebuvo žinoma, ir jis tuo metu
     tikrino Uščižo8 karališkąjį dvarą. Tą naktį9 dėl brians-
     kiečių išdavystės Briansko pilis buvo sudeginta.
-  citata_rodoma: "o Briansko vaivadai ponui Stanislovui Barto­\nševičiui 7  nieko apie tai nebuvo žinoma, ir jis tuo metu \ntikrino Uščižo8  karališkąjį dvarą."
+  citata_rodoma: |
+    o Briansko vaivadai ponui Stanislovui Barto­
+    ševičiui 7  nieko apie tai nebuvo žinoma, ir jis tuo metu
+    tikrino Uščižo8  karališkąjį dvarą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

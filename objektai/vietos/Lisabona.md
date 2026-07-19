@@ -62,7 +62,8 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
     galija). XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li-
     sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
     šviesą iki pat Meksikos, Paragvajaus.
-  citata_rodoma: "sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės"
+  citata_rodoma: |
+    sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

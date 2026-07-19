@@ -88,7 +88,11 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
     tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mū­
     rinės šventyklos, nes visos kitos medinės; tarp jų viena yra len­
     kų, o kitos dvi — rusinu, kur jie įprastai atlieka savo apeigas.
-  citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­\nrąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir\nkartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­\nlasą (Civitates orbis terrarum)."
+  citata_rodoma: |
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
+    rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir
+    kartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­
+    lasą (Civitates orbis terrarum).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

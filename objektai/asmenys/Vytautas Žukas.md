@@ -55,13 +55,19 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Tūkstančių žmonių (!)
+    )
 
     AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA
 
     AT gynėjas, vėliau Lietuvos kariuomenės gen. mjr. Vytautas Žukas pasakoja apie AT
     gynybos principus.
-  citata_rodoma: ")\n\nAUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA\n\nAT gynėjas, vėliau Lietuvos kariuomenės gen. mjr. Vytautas Žukas pasakoja apie AT\ngynybos principus."
+  citata_rodoma: |
+    )
+
+    AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA
+
+    AT gynėjas, vėliau Lietuvos kariuomenės gen. mjr. Vytautas Žukas pasakoja apie AT
+    gynybos principus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

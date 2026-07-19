@@ -60,7 +60,14 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
     bliografiją, S. Stanevi-
     čius — lietuviškų dainų rin-
     kinį.
-  citata_rodoma: "D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui\nrinko senas knygas. K. Za-\nbitis Nezabitauskas\nišleido lietuviškųjų knygų bi-\nbliografiją, S. Stanevi-\nčius — lietuviškų dainų rin-\nkinį."
+  citata_rodoma: |
+    D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui
+    rinko senas knygas. K. Za-
+    bitis Nezabitauskas
+    išleido lietuviškųjų knygų bi-
+    bliografiją, S. Stanevi-
+    čius — lietuviškų dainų rin-
+    kinį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

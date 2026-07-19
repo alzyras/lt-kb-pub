@@ -340,7 +340,9 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     Aismarių.
     260  D.— Helisberk, Jer. — Heilisberc; Heilsbergas (dab. Varmijos Lidzbarkas, Lidzbark
     Warmiński) Alnos ir Simsarnos (dab. Symsarna) santakoje.
-  citata_rodoma: "256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos\n(dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje."
+  citata_rodoma: |
+    256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos
+    (dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -360,7 +362,10 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     kariuomenę (III, 251). Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
     vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
     globojo, kai traukė per ploną Kuršių marių ledą (III, 285).
-  citata_rodoma: "Kai kryžiuočiai jau nebegalėjo  priešintis apgultame Bartenšteine, dievas\njuos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi\nmergelė Marija  (III, 141)."
+  citata_rodoma: |
+    Kai kryžiuočiai jau nebegalėjo  priešintis apgultame Bartenšteine, dievas
+    juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
+    mergelė Marija  (III, 141).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -382,7 +387,14 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
     kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo
     šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum].
-  citata_rodoma: "Apie Bartenšteino pilies puolimą\n\n  Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai\nįrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris\napgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę\n\nMGP, p."
+  citata_rodoma: |
+    Apie Bartenšteino pilies puolimą
+
+      Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
+    įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
+    apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę
+
+    MGP, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -402,7 +414,18 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę į
     nelaisvę visus gyventojus, ir net pelenais pavertė.
     174 (169).
-  citata_rodoma: "Apie antrąjį Bartenšteino pilies sugriovimą\n\n  Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,\nlabai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,\nbroliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į\nnelaisvę visus gyventojus, ir net pelenais pavertė.\n\n\n\n\n      174 (169)."
+  citata_rodoma: |
+    Apie antrąjį Bartenšteino pilies sugriovimą
+
+      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
+    labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
+    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
+    nelaisvę visus gyventojus, ir net pelenais pavertė.
+
+
+
+
+          174 (169).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -424,7 +447,16 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų,
     kurie plaukė laivais, ir, išdėstęs tinkamose vietose šaulius bei pristatęs prie sienų
     kopėčias, pradėjo pulti Auktuolyčių pilį462.
-  citata_rodoma: "Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį\nir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,\nkur gyvena po šiai dienai.\n\n\n\n\n\n     175 (170)."
+  citata_rodoma: |
+    Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
+    ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
+    kur gyvena po šiai dienai.
+
+
+
+
+
+         175 (170).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -444,7 +476,13 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
     „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
     atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
-  citata_rodoma: "Po to ima pasakoti apie atskirų pilių bei\nmiestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas,\nKristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Pastarojo\npasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio\n„karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų\natminties ir vargu ar kas galėtų juos tinkamai išdėstyti."
+  citata_rodoma: |
+    Po to ima pasakoti apie atskirų pilių bei
+    miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas,
+    Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Pastarojo
+    pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
+    „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
+    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -506,7 +544,13 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
     dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
     grubę.
-  citata_rodoma: "1329 metais Lietuvos didysis kunigaikštis\nGediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­\nkiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17\ndienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys\nbuvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį."
+  citata_rodoma: |
+    1329 metais Lietuvos didysis kunigaikštis
+    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
+    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
+    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
+    buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
+    Veliuoną ir sugriovė pilį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

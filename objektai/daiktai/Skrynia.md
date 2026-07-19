@@ -85,7 +85,9 @@ Nenurodyta
     Jau krai­
     tis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį
     ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus.
-  citata_rodoma: "Jau krai­\ntis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus."
+  citata_rodoma: |
+    Jau krai­
+    tis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -104,7 +106,8 @@ Nenurodyta
     siriša juos per pečius.
     Broliai mėgina nešti skrynią: ima dviese —
     skrynia nė krust, ima trise keturiese — tas pat.
-  citata_rodoma: "Broliai mėgina nešti skrynią: ima dviese — skrynia nė krust, ima trise keturiese — tas pat."
+  citata_rodoma: |
+    Broliai mėgina nešti skrynią: ima dviese — skrynia nė krust, ima trise keturiese — tas pat.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -127,7 +130,9 @@ Nenurodyta
     Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji iš­
     sivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą
     ratų užpakalyje.
-  citata_rodoma: "Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji iš­\nsivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje."
+  citata_rodoma: |
+    Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji iš­
+    sivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

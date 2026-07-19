@@ -175,7 +175,16 @@ Nenurodyta
     Pirmoji puolimą pradėjo švedų kai-
     riojo, o netrukus ir dešiniojo sparno
     kavalerija.
-  citata_rodoma: "Lietuvių karvedžiai nuo seno\nmėgo apgaulingo atsitraukimo manevrą,\nkurį su laiku vis įdomiau įgyvendindavo ir\nprovokuodami suardyti priešo rikiuotę pri-\nversdavo jį pralaimėti.\n\nPirmoji puolimą pradėjo švedų kai-\nriojo, o netrukus ir dešiniojo sparno\nkavalerija."
+  citata_rodoma: |
+    Lietuvių karvedžiai nuo seno
+    mėgo apgaulingo atsitraukimo manevrą,
+    kurį su laiku vis įdomiau įgyvendindavo ir
+    provokuodami suardyti priešo rikiuotę pri-
+    versdavo jį pralaimėti.
+
+    Pirmoji puolimą pradėjo švedų kai-
+    riojo, o netrukus ir dešiniojo sparno
+    kavalerija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -142,7 +142,26 @@ media_all_json: |-
     prasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­
     mo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus
     kapitulai, jos turtui bei valdiniams.
-  citata_rodoma: "Savo ir minėto miesto vardu [ta­\nrėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos \njurisdikcijos būtų laisvi ir atleisti. O prelatai ir kanauninkai \nsavo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, \nkad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus \nvyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­\nnigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­\nvavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek \ntik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­\nteikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo \nMotiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­\nvo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­\nras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­\nkupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo \nlegatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises, \nir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad \nprasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­\nmo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus \nkapitulai, jos turtui bei valdiniams."
+  citata_rodoma: |
+    Savo ir minėto miesto vardu [ta­
+    rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
+    jurisdikcijos būtų laisvi ir atleisti. O prelatai ir kanauninkai
+    savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,
+    kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus
+    vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­
+    nigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­
+    vavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek
+    tik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­
+    teikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo
+    Motiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­
+    vo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­
+    ras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­
+    kupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo
+    legatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises,
+    ir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad
+    prasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­
+    mo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus
+    kapitulai, jos turtui bei valdiniams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -175,7 +194,19 @@ media_all_json: |-
     mi Korevičiais, ir vieną žemę, taip
     pat mūsų valdinio, vadinamo An-
     driušiu, prie to paties dvaro esančią.
-  citata_rodoma: "[Dievobaimin­\nga širdimi apsvarstę pirmuosius \nveiksmus, Kristuje gerbiamam tėvui \nponui Vilniaus vyskupui Motiejui ir \njo įpėdiniams, Visagalio Dievo ir šlo­\nvingosios Mergelės Marijos garbei ir \nt. t. (Dovanojame) mūsų dvarą Me­\ndininkų valsčiuje; kurį kitados val­\ndė broliai Ivaška ir Fedka, vadina­\nmi Korevičiais, ir vieną žemę, taip \npat mūsų valdinio, vadinamo An- \ndriušiu, prie to paties dvaro esančią."
+  citata_rodoma: |
+    [Dievobaimin­
+    ga širdimi apsvarstę pirmuosius
+    veiksmus, Kristuje gerbiamam tėvui
+    ponui Vilniaus vyskupui Motiejui ir
+    jo įpėdiniams, Visagalio Dievo ir šlo­
+    vingosios Mergelės Marijos garbei ir
+    t. t. (Dovanojame) mūsų dvarą Me­
+    dininkų valsčiuje; kurį kitados val­
+    dė broliai Ivaška ir Fedka, vadina­
+    mi Korevičiais, ir vieną žemę, taip
+    pat mūsų valdinio, vadinamo An-
+    driušiu, prie to paties dvaro esančią.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

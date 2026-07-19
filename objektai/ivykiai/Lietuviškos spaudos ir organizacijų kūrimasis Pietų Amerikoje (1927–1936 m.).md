@@ -90,7 +90,10 @@ Nenurodyta
     visokių išnaudotojų ir kenksmingo komunistų darbo. Be to,
     jam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa-
     rapijos organizavimą.
-  citata_rodoma: "1929 m. į Sao Paulą atvykusiam pirmajam Lietuvos konsului teko sunkus uždavinys — lietuvių veikimą apvalyti nuo visokių išnaudotojų ir kenksmingo komunistų darbo. Be to,\njam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa-\nrapijos organizavimą."
+  citata_rodoma: |
+    1929 m. į Sao Paulą atvykusiam pirmajam Lietuvos konsului teko sunkus uždavinys — lietuvių veikimą apvalyti nuo visokių išnaudotojų ir kenksmingo komunistų darbo. Be to,
+    jam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa-
+    rapijos organizavimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +114,12 @@ Nenurodyta
     kykla (joje yra apie 100 mokinių). Visos tautiškos organiza-
     cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
     pavadintą Urugvajaus Lietuvių Klubu.
-  citata_rodoma: "Jo rūpesčiu buvo įkurta lietuvių katalikų bend-\nruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo-\nkykla (joje yra apie 100 mokinių). Visos tautiškos organiza-\ncijos to paties kun. Radžiaus buvo suburtos į vieną centrą,\npavadintą Urugvajaus Lietuvių Klubu."
+  citata_rodoma: |
+    Jo rūpesčiu buvo įkurta lietuvių katalikų bend-
+    ruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo-
+    kykla (joje yra apie 100 mokinių). Visos tautiškos organiza-
+    cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
+    pavadintą Urugvajaus Lietuvių Klubu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +137,10 @@ Nenurodyta
     simas čia jau yra įėjęs į tinkamas vėžes. Be to, Sao Paule jau su-
     organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
     tinta 1936 m. vasario 16 d.).
-  citata_rodoma: "Be to, Sao Paule jau su-\norganizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-\ntinta 1936 m. vasario 16 d.)."
+  citata_rodoma: |
+    Be to, Sao Paule jau su-
+    organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
+    tinta 1936 m. vasario 16 d.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

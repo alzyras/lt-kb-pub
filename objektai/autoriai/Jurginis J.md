@@ -130,7 +130,9 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
     genere — III, 100) terminu D. apibūdina to meto prūsų ir lietuvių visuomenės socialines
     viršūnes (III, 7, 21, 122, 220, 259, 318, 332 ir kt.); taip pat vadinami ir Lenkijos (II, 3;
     III, 357), Vokietijos, Anglijos (III, 327, 348; IV, 52; Papildymai, 9) feodalai.
-  citata_rodoma: "Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis\nJ., Pagonybės..., p. 107)."
+  citata_rodoma: |
+    Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
+    J., Pagonybės..., p. 107).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

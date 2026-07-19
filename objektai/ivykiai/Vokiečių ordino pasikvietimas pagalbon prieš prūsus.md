@@ -70,7 +70,11 @@ Nenurodyta
     džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
     sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
     riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
-  citata_rodoma: "Po ilgų kovų, XIII amž. pra-\ndžioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė\nsau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-\nriavęs didelius aisčių plotus, sukūrė ten savo valstybę."
+  citata_rodoma: |
+    Po ilgų kovų, XIII amž. pra-
+    džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
+    sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
+    riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

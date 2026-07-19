@@ -88,7 +88,13 @@ Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko �
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
-  citata_rodoma: "Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė\nį slavų kraštą; venedų karalius Skalka buvo sumuštas ir\nkrito mūšio lauke, o jo kraštas pateko į priešų rankas.\nTačiau Jarmeriko įniršiui to nepakako."
+  citata_rodoma: |
+    Pakviestas į pagal­
+    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
+    už savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė
+    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
+    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
+    Tačiau Jarmeriko įniršiui to nepakako.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

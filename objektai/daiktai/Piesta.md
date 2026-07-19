@@ -79,7 +79,11 @@ Nenurodyta
     kanapgrūdžius išdžiovina piestoje, stambiai sumala girnose ir neskir­
     dami žievių pila į piestą. Piestoje ilgai muša. Tas darbas nuobodus,
     reikalauja daug sveikatos. Muša, kol ima tikšti aliejus.
-  citata_rodoma: "Toj pačioj piestoj muša ir aliejų iš kanapių grūdų. Šiam reikalui \nkanapgrūdžius išdžiovina piestoje, stambiai sumala girnose ir neskir­\ndami žievių pila į piestą. Piestoje ilgai muša. Tas darbas nuobodus, \nreikalauja daug sveikatos. Muša, kol ima tikšti aliejus."
+  citata_rodoma: |
+    Toj pačioj piestoj muša ir aliejų iš kanapių grūdų. Šiam reikalui
+    kanapgrūdžius išdžiovina piestoje, stambiai sumala girnose ir neskir­
+    dami žievių pila į piestą. Piestoje ilgai muša. Tas darbas nuobodus,
+    reikalauja daug sveikatos. Muša, kol ima tikšti aliejus.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

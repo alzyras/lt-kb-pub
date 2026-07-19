@@ -394,7 +394,15 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     propria [Vilniaus vyskupas O1y kos
     kunigaikštis Jurgis Radvila savo ran­
     ka].
-  citata_rodoma: "Duo­\nta ir aktuota Vilniuje, 1582 metų sau­\nsio Il dieną], dalyvaujant visai ka­\npitulai, su parašu: Georgius Radziwiłł \nEpiscopus Vilnens. Dux Olicae. manu \npropria [Vilniaus vyskupas O1y kos \nkunigaikštis Jurgis Radvila savo ran­\nka]."
+  citata_rodoma: |
+    Duo­
+    ta ir aktuota Vilniuje, 1582 metų sau­
+    sio Il dieną], dalyvaujant visai ka­
+    pitulai, su parašu: Georgius Radziwiłł
+    Episcopus Vilnens. Dux Olicae. manu
+    propria [Vilniaus vyskupas O1y kos
+    kunigaikštis Jurgis Radvila savo ran­
+    ka].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -431,7 +439,23 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
     porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
     minėtos kolegijos ir inkorporuota.
-  citata_rodoma: "Taigi, kai mes, Jurgis Radvila,\nDievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­\nnigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų\nmiestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir\nfunduotos klierikų seminarijos, šioje mūsų Vilniaus diece­\nzijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­\ntarnautojų trūkumas Viešpaties vynuogyne, nusprendėme\nįsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­\nvobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­\nlių skaičius. Suprantame, kad mūsų ganytojiškoms parei­\ngoms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo\npajamų ir kapitulos, ir visokios rūšies vertybių, personatų,\npelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­\nsų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar\nporcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau\nminėtos kolegijos ir inkorporuota."
+  citata_rodoma: |
+    Taigi, kai mes, Jurgis Radvila,
+    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
+    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
+    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
+    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
+    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
+    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
+    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
+    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
+    lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­
+    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
+    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
+    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
+    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
+    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
+    minėtos kolegijos ir inkorporuota.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -462,7 +486,21 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     grindiniu vadu Čeliadninu, o pastarasis
     savo ruožtu nesuteikė paramos dėl jų
     asmeninės nesantaikos.
-  citata_rodoma: "(XVI a.\ntapyto paveikslo „Oršos mūšis“\nfragmentas) Lietuviai persekioja\nbėgančius rusus\n\nViršuje matyti ir buože užsimojęs lauko etmonas Jurgis Radvila\n\nK. Ostrogiškis\nduoda ženklą\n„ artileristams\n\natidengti ugnį\n\ndešiniajame rusų armijos flange."
+  citata_rodoma: |
+    (XVI a.
+    tapyto paveikslo „Oršos mūšis“
+    fragmentas) Lietuviai persekioja
+    bėgančius rusus
+
+    Viršuje matyti ir buože užsimojęs lauko etmonas Jurgis Radvila
+
+    K. Ostrogiškis
+    duoda ženklą
+    „ artileristams
+
+    atidengti ugnį
+
+    dešiniajame rusų armijos flange.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -521,7 +559,17 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     ją, atleidžiančią miesto dalį, priklausančią vyskupijos juris­
     dikcijai, nuo bet kokio paklusnumo ir pasaulietinės civili­
     nės teisės, ir nurodė, kad jie turi savo teisę ir magistratą.
-  citata_rodoma: "Be to, kilnusis, Andrius Vo-\ndzinskis, šviesiojo didžiai gerbiamo pono Jurgio, Dievo ma­\nlone šventosios Romos bažnyčios presbiterio, kardinolo Rad­\nvilos, Vilniaus vyskupijos nuolatinio administratoriaus,\nOlykos ir Nesvyžiaus kunigaikščio ir mūsų vietininko Li­\nvonijoje, valdinys ir įgaliotinis, parodė šviesiausiojo mūsų\npirmtako, šventos atminties karaliaus Vladislovo privilegi­\nją, atleidžiančią miesto dalį, priklausančią vyskupijos juris­\ndikcijai, nuo bet kokio paklusnumo ir pasaulietinės civili­\nnės teisės, ir nurodė, kad jie turi savo teisę ir magistratą."
+  citata_rodoma: |
+    Be to, kilnusis, Andrius Vo-
+    dzinskis, šviesiojo didžiai gerbiamo pono Jurgio, Dievo ma­
+    lone šventosios Romos bažnyčios presbiterio, kardinolo Rad­
+    vilos, Vilniaus vyskupijos nuolatinio administratoriaus,
+    Olykos ir Nesvyžiaus kunigaikščio ir mūsų vietininko Li­
+    vonijoje, valdinys ir įgaliotinis, parodė šviesiausiojo mūsų
+    pirmtako, šventos atminties karaliaus Vladislovo privilegi­
+    ją, atleidžiančią miesto dalį, priklausančią vyskupijos juris­
+    dikcijai, nuo bet kokio paklusnumo ir pasaulietinės civili­
+    nės teisės, ir nurodė, kad jie turi savo teisę ir magistratą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -675,7 +723,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     Juos rėmė ir daug kitų atverstų didikų, o ypač dievobaimingoji
     Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta
     žmona karaliui Henrikui ir kurią vedė Stp.
-  citata_rodoma: "verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus)."
+  citata_rodoma: |
+    verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

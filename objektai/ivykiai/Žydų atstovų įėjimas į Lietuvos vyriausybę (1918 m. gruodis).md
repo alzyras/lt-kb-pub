@@ -86,7 +86,8 @@ Nenurodyta
     ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
-  citata_rodoma: "ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos"
+  citata_rodoma: |
+    ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

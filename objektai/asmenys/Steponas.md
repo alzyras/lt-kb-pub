@@ -131,7 +131,12 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: "Adalberto misija Prūsijoje (997), Norvegijos\nvaldovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-\nimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-\njos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo\nkrikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009)."
+  citata_rodoma: |
+    Adalberto misija Prūsijoje (997), Norvegijos
+    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
+    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

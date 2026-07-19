@@ -109,7 +109,8 @@ Nenurodyta
     Vaikščiojo vis basas.
     Rudenį rinkdavo piliavą javais, prieš
     Kalėdas rinkdavo paviržius mėsa.
-  citata_rodoma: "Rudenį rinkdavo piliavą javais, prieš Kalėdas rinkdavo paviržius mėsa."
+  citata_rodoma: |
+    Rudenį rinkdavo piliavą javais, prieš Kalėdas rinkdavo paviržius mėsa.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -131,7 +132,8 @@ Nenurodyta
     ganyme susitarę, kad nuo pilno gyvenimo piemuo vieną dieną gano,
     kitą — ne, o nuo pusės gyvenimo — vieną savaitę piemuo ėjo taip, kaip
     nuo pilno gyvenimo, o antrą savaitę visai neganė.
-  citata_rodoma: "Kaimo ūkininkai taip buvo ganyme susitarę, kad nuo pilno gyvenimo piemuo vieną dieną gano, kitą — ne, o nuo pusės gyvenimo — vieną savaitę piemuo ėjo taip, kaip nuo pilno gyvenimo, o antrą savaitę visai neganė."
+  citata_rodoma: |
+    Kaimo ūkininkai taip buvo ganyme susitarę, kad nuo pilno gyvenimo piemuo vieną dieną gano, kitą — ne, o nuo pusės gyvenimo — vieną savaitę piemuo ėjo taip, kaip nuo pilno gyvenimo, o antrą savaitę visai neganė.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -152,7 +154,8 @@ Nenurodyta
     rublius pinigais ir pasodinome puspūrį bulvių.
     Visas drabužis jo, tik
     ganomomis dienomis mes duodame valgyti.
-  citata_rodoma: "Už tatai sumokėjome penkis rublius pinigais ir pasodinome puspūrį bulvių. Visas drabužis jo, tik ganomomis dienomis mes duodame valgyti."
+  citata_rodoma: |
+    Už tatai sumokėjome penkis rublius pinigais ir pasodinome puspūrį bulvių. Visas drabužis jo, tik ganomomis dienomis mes duodame valgyti.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

@@ -112,7 +112,12 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
     pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­
     vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
     1965, 169-183 p.).
-  citata_rodoma: "Apie Vilniaus amatų pramonę, dar­\nbininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.\npradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­\nvičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,\n1965, 169-183 p.)."
+  citata_rodoma: |
+    Apie Vilniaus amatų pramonę, dar­
+    bininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.
+    pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­
+    vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
+    1965, 169-183 p.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +141,10 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
     netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
     Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
     „kurie yra veikale „Tūkstantis ir viena naktis“28 29.
-  citata_rodoma: "21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,\nįvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-\n560."
+  citata_rodoma: |
+    21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
+    įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-
+    560.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

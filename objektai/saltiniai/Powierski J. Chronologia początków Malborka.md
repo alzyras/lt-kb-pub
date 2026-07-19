@@ -76,7 +76,8 @@ Dusburgietis teigia, kad powierski J.
   citata_originali: |
     ketvirtyje —Vilniaus valstybinio pedagoginio instituto mokslo darbai. Istorija ir filologija.
     V., 1957, t. 3, p. 5—33.
-  citata_rodoma: "Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31."
+  citata_rodoma: |
+    Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -110,7 +110,12 @@ media_all_json: |-
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: "Išvaryti ir politiš-\nkai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino\niš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-\ndos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją\npoliciją."
+  citata_rodoma: |
+    Išvaryti ir politiš-
+    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
+    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
+    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
+    policiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +138,15 @@ media_all_json: |-
     ## Puslapis 13
 
     Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
-  citata_rodoma: "Ba­\nlinskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­\nnį krašto gyvenimą. 1855 m., po caro Nikolajaus I mirties ir\nXII\n\n## Puslapis 13\n\nRusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos."
+  citata_rodoma: |
+    Ba­
+    linskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­
+    nį krašto gyvenimą. 1855 m., po caro Nikolajaus I mirties ir
+    XII
+
+    ## Puslapis 13
+
+    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

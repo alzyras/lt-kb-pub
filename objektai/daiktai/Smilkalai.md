@@ -80,8 +80,10 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     kunigas turėjęs tris dienas pasninkauti, ant plikos žemės gulęs, ir į šventą ugnį smilkalus
-        mėčioti.
-  citata_rodoma: "kunigas turėjęs tris dienas pasninkauti, ant plikos žemės gulęs, ir į šventą ugnį smilkalus\nmėčioti."
+    mėčioti.
+  citata_rodoma: |
+    kunigas turėjęs tris dienas pasninkauti, ant plikos žemės gulęs, ir į šventą ugnį smilkalus
+    mėčioti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

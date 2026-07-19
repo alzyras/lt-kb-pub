@@ -142,7 +142,13 @@ Nenurodyta
     pavadinimas - nežinome. Tikras dalykas yra tik tai, kad Arak-
     so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
     tik tada, kai prie jos gyveno budinai.
-  citata_rodoma: "3. Dievo Perkūno šventykloje, senovės Romovėje, švento­\njo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­\nras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­\nri degė prižiūrima paties vyriausiojo žynio. Iš pavasario būda­\nvo paruošiama dvylika ąžuolinių malkų stirtų, sukraunamų prie\nšventyklos. Vienos stirtos turėjo pakakti mėnesiui."
+  citata_rodoma: |
+    3. Dievo Perkūno šventykloje, senovės Romovėje, švento­
+    jo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­
+    ras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­
+    ri degė prižiūrima paties vyriausiojo žynio. Iš pavasario būda­
+    vo paruošiama dvylika ąžuolinių malkų stirtų, sukraunamų prie
+    šventyklos. Vienos stirtos turėjo pakakti mėnesiui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -166,7 +172,17 @@ Nenurodyta
     pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
     šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
     likti tokį garbinimą (Hiegels.
-  citata_rodoma: "Istoriniai padavimai skelbia, kad lie­\ntuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­\nprieinamuose miškuose, idant išsaugotų ugnį, nes manė, jog,\njai užgesus, tautai gresia pražūtis. Ji buvo garbinama su dide­\nlėmis pamaldomis, iš jos buvo imami nuodėguliai svarbiau­\nsioms aukoms deginti ir laidotuvių laužams. Žinyčios aukuro\npelenai turėjo gydomąją galią. Žyniai iš jų burdavo. Žemaičiai\nmanė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai\nužmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį\nužgesino ."
+  citata_rodoma: |
+    Istoriniai padavimai skelbia, kad lie­
+    tuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­
+    prieinamuose miškuose, idant išsaugotų ugnį, nes manė, jog,
+    jai užgesus, tautai gresia pražūtis. Ji buvo garbinama su dide­
+    lėmis pamaldomis, iš jos buvo imami nuodėguliai svarbiau­
+    sioms aukoms deginti ir laidotuvių laužams. Žinyčios aukuro
+    pelenai turėjo gydomąją galią. Žyniai iš jų burdavo. Žemaičiai
+    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
+    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
+    užgesino .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

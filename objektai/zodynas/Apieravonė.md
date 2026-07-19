@@ -74,7 +74,9 @@ Terminas vartojamas kartu su poterių ir greito išėjimo aprašymu.
     pai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­
     dindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­
     pa. Pagavus duonos gabalėlį tuoj pro duris.
-  citata_rodoma: "Šiaučienė ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trumpa.\nPagavus duonos gabalėlį tuoj pro duris."
+  citata_rodoma: |
+    Šiaučienė ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trumpa.
+    Pagavus duonos gabalėlį tuoj pro duris.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

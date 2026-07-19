@@ -68,7 +68,10 @@ Kiek plačiau ordino priešą minėjo pir­ mosios Pabaltijyje vokiečių kronik
     vėliau lenkų metraščiuose. Kiek plačiau ordino priešą minėjo pir­
     mosios Pabaltijyje vokiečių kronikos, būtent, Latvijos Henriko
     (surašyta 1225-27 m.) ir Eiliuotinė Livonijos kronika (po 1290 m.).
-  citata_rodoma: "Kiek plačiau ordino priešą minėjo pir­\nmosios Pabaltijyje vokiečių kronikos, būtent, Latvijos Henriko\n(surašyta 1225-27 m.) ir Eiliuotinė Livonijos kronika (po 1290 m.)."
+  citata_rodoma: |
+    Kiek plačiau ordino priešą minėjo pir­
+    mosios Pabaltijyje vokiečių kronikos, būtent, Latvijos Henriko
+    (surašyta 1225-27 m.) ir Eiliuotinė Livonijos kronika (po 1290 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

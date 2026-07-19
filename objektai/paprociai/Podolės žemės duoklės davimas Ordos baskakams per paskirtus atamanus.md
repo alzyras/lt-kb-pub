@@ -73,7 +73,10 @@ Nenurodyta
     Podolėje veikė jų paskirti atamanai, kurie
     nuo Podolės žemės duodavo duoklę at-
     vykstantiems Ordos baskakams.
-  citata_rodoma: "Podolėje veikė jų paskirti atamanai, kurie\nnuo Podolės žemės duodavo duoklę at-\nvykstantiems Ordos baskakams."
+  citata_rodoma: |
+    Podolėje veikė jų paskirti atamanai, kurie
+    nuo Podolės žemės duodavo duoklę at-
+    vykstantiems Ordos baskakams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,8 @@ media_all_json: |-
     blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
     pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
     sustabdyta naujos bažnyčios statyba Klaipėdoje.
-  citata_rodoma: "Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia"
+  citata_rodoma: |
+    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

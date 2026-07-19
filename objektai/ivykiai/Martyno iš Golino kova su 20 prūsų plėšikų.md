@@ -111,7 +111,14 @@ Nenurodyta
     subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo
     juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias
     žemes nusiaubė, grobdamas ir degindamas.
-  citata_rodoma: "Dar apie Martyną iš Golino ir jo nuostabią kovą\n\n  Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino\nleidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno\nsargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,\nkiek čia jo bendrų ir kur jie. Sitai padarę, smarkiai juos užpuolė, Martynas bei jo draugai\nnarsiai gynėsi, todėl daug ir vienos, ir kitos šalies karių buvo sunkiai sužeista."
+  citata_rodoma: |
+    Dar apie Martyną iš Golino ir jo nuostabią kovą
+
+      Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
+    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
+    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
+    kiek čia jo bendrų ir kur jie. Sitai padarę, smarkiai juos užpuolė, Martynas bei jo draugai
+    narsiai gynėsi, todėl daug ir vienos, ir kitos šalies karių buvo sunkiai sužeista.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

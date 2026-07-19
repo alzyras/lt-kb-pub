@@ -72,7 +72,12 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
     tį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių
     „de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,
     baronum ac militum“^2 ).
-  citata_rodoma: ".\nJuk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­\ntį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių\n„de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,\nbaronum ac militum“^2 )."
+  citata_rodoma: |
+    .
+    Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­
+    tį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių
+    „de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,
+    baronum ac militum“^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,9 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
     9—43.
     [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1975, t. 5, s.
     37—38.
-  citata_rodoma: "[Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1975, t. 5, s.\n37—38."
+  citata_rodoma: |
+    [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1975, t. 5, s.
+    37—38.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

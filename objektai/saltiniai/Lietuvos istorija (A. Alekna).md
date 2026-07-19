@@ -109,7 +109,13 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
     rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
     jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
     daugiau šaltinių ir mokslinių tyrinėjimų.
-  citata_rodoma: "Alekna buvo pirmasis (1922-1930) Lie­\ntuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­\ntojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­\nrijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,\njos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas\ndaugiau šaltinių ir mokslinių tyrinėjimų."
+  citata_rodoma: |
+    Alekna buvo pirmasis (1922-1930) Lie­
+    tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­
+    tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­
+    rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
+    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
+    daugiau šaltinių ir mokslinių tyrinėjimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

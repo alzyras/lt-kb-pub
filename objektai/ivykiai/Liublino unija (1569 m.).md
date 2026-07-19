@@ -336,7 +336,15 @@ Nenurodyta
     ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau
     nesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne-
     trukus.
-  citata_rodoma: "Chodkevičius surado išeities \nkelius ten, kur, atrodė, jų nėra. \nŽinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-\njos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net \nir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per \našaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau \nnesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne-\ntrukus."
+  citata_rodoma: |
+    Chodkevičius surado išeities
+    kelius ten, kur, atrodė, jų nėra.
+    Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-
+    jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net
+    ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per
+    ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau
+    nesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne-
+    trukus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -386,7 +394,13 @@ Nenurodyta
     Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
     Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
     žiui (1609–1611 m.
-  citata_rodoma: "Liublino unijos nauda pasireiškė jau ne-\ntrukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui\n\nL I E T U V O S  I S T O R I J A\n66\nSteponui Batorui (valdė 1576–1586  m."
+  citata_rodoma: |
+    Liublino unijos nauda pasireiškė jau ne-
+    trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
+
+    L I E T U V O S  I S T O R I J A
+    66
+    Steponui Batorui (valdė 1576–1586  m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -406,7 +420,10 @@ Nenurodyta
     tybingumą. Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-
     vų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities
     kelius ten, kur, atrodė, jų nėra.
-  citata_rodoma: "Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-\nvų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities \nkelius ten, kur, atrodė, jų nėra."
+  citata_rodoma: |
+    Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-
+    vų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities
+    kelius ten, kur, atrodė, jų nėra.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -469,7 +486,12 @@ Nenurodyta
     ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per
     ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau
     nesuabejota dar du šimtmečius.
-  citata_rodoma: "Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-\njos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net \nir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per \našaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau \nnesuabejota dar du šimtmečius."
+  citata_rodoma: |
+    Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-
+    jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net
+    ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per
+    ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau
+    nesuabejota dar du šimtmečius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -485,7 +507,7 @@ Nenurodyta
     Lenkijos ir Lietuvos jungtinė kariuomenė
     sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
     tencijai.
-    1569 
+    1569
     Liublino unija. Susikuria jungtinė Lenkijos ir Lietuvos Valstybė –
     Abiejų Tautų Respublika.
   statusas: verified
@@ -564,7 +586,12 @@ Nenurodyta
     veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
     tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
     6 Jonynas I. Istorijos baruose.
-  citata_rodoma: "LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­\ndą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai\nsavarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­\nmas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­\nlitiniams įvykiams ir pagal juos suskirstė veikalo turinį6."
+  citata_rodoma: |
+    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
+    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
+    savarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­
+    mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
+    litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -140,7 +140,18 @@ Nenurodyta
     žįstamos senės, kuri, tarytum būtų atsiųsta antgamtinės jėgos,
     paprastai pasirodydavo kartą per metus, dažniausiai per Ra­
     sos švente, šv.
-  citata_rodoma: "Šios dievybės atvaizdą pasiseka pamatyti kai kuriose Lie­\ntuvos vietovėse, kur išlikę senieji papročiai, ypač Merkinės vals­\nčiuje. Ant apvalaus 10 colių skersmens duonos kepalo, apvy­\nnioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai\npanaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta\ndrobe, apačioje perjuosta siaurai susukta spalvota skarele; pati\nfigūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­\nkardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas."
+  citata_rodoma: |
+    Šios dievybės atvaizdą pasiseka pamatyti kai kuriose Lie­
+    tuvos vietovėse, kur išlikę senieji papročiai, ypač Merkinės vals­
+    čiuje. Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
+    nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
+    panaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta
+    drobe, apačioje perjuosta siaurai susukta spalvota skarele; pati
+    figūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­
+    kardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia
+    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
+    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
+    tas tas antrasis pavadinimas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -163,7 +174,14 @@ Nenurodyta
     kažkokius paplotėlius, kuriuos dalydavo žmonėms; o joms at­
     nešdavo žuvų, vėžių, laukinių ir naminių vandens paukščių,
     paršelių, sidabrinių pinigų.
-  citata_rodoma: "Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi. Gondu\nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka\nant stalo neliestą, o tikrąjį karvojų suvalgo."
+  citata_rodoma: |
+    Tokia
+    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
+    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
+    tas tas antrasis pavadinimas.
+    Tačiau lietuviams tie du dalykai visiškai skirtingi. Gondu
+    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
+    ant stalo neliestą, o tikrąjį karvojų suvalgo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

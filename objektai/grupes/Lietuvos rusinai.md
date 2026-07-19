@@ -244,7 +244,14 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
     pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
     buvo deivė, kaip vadinosi vyriausiasis dievas.
-  citata_rodoma: "Slavai garbino tą pačią dievybę, vadindami įvairiais tar­\nmiškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,\nDajebog. Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,\n„Belewitt“**."
+  citata_rodoma: |
+    Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
+    miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
+    Dajebog. Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
+    „Belewitt“**.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -267,7 +274,18 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     riai saugojusi lemtį, sergėjo akimirką, kada turėtų pasibaigti žmo­
     gaus gyvybės audimas; kaip mat lemties žirklėmis perkirpdavo
     audeklą ir nutraukdavo žmogaus gyvenimo tėkmę.
-  citata_rodoma: "141\n\n## Puslapis 141\n\nVerpėja (VVerpeja)\nNemarioji žmogaus gyvenimo siūlo verpėja.\nLietuviai pažinojo tiktai vienintelę Parką: apie ją skamba\nliaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,\nbet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­\njau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­\nlą, kuris baigiasi žvaigžde."
+  citata_rodoma: |
+    141
+
+    ## Puslapis 141
+
+    Verpėja (VVerpeja)
+    Nemarioji žmogaus gyvenimo siūlo verpėja.
+    Lietuviai pažinojo tiktai vienintelę Parką: apie ją skamba
+    liaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,
+    bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
+    jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
+    lą, kuris baigiasi žvaigžde.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -292,7 +310,17 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     žįstamos senės, kuri, tarytum būtų atsiųsta antgamtinės jėgos,
     paprastai pasirodydavo kartą per metus, dažniausiai per Ra­
     sos švente, šv. Jono išvakarėse.
-  citata_rodoma: "Ant apvalaus 10 colių skersmens duonos kepalo, apvy­\nnioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai\npanaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta\ndrobe, apačioje perjuosta siaurai susukta spalvota skarele; pati\nfigūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­\nkardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi."
+  citata_rodoma: |
+    Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
+    nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
+    panaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta
+    drobe, apačioje perjuosta siaurai susukta spalvota skarele; pati
+    figūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­
+    kardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia
+    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
+    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
+    tas tas antrasis pavadinimas.
+    Tačiau lietuviams tie du dalykai visiškai skirtingi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

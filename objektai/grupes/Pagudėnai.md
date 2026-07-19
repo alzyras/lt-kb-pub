@@ -647,7 +647,14 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
     kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
     478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas.
-  citata_rodoma: "Mat velnias, žmonių giminės\nnedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė\njuos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,\nišskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.\nTačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti\nužpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus\nir juos išsivarė į nelaisvę."
+  citata_rodoma: |
+    Mat velnias, žmonių giminės
+    nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
+    juos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,
+    išskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.
+    Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
+    užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
+    ir juos išsivarė į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -669,7 +676,18 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85)."
+  citata_rodoma: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
+
+
+
+
+                   90 (85).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -688,7 +706,18 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
     143 (138).
-  citata_rodoma: "Apie vienos pilaitės užkariavimą\n\n  Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai\nužpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją\nįsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į\nKristburgo pilį, iš pagrindų sugriovė šią pilaitę417.\n\n\n\n\n 143 (138)."
+  citata_rodoma: |
+    Apie vienos pilaitės užkariavimą
+
+      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
+    užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
+    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
+    Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
+
+
+
+
+     143 (138).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -711,7 +740,16 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
     tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
     pilis.
-  citata_rodoma: "1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.\nTačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš\npasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis\ntokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum\npilis."
+  citata_rodoma: |
+    1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
+    broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
+    keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
+    savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
+    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
+    pasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis
+    tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
+    pilis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -748,7 +786,19 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
     Po to jie patraukė prie Rudino, Lypos483 ir galop prie Velzaco484 pilių, pastarosios papilį iki
     pamatų sudegino.
-  citata_rodoma: "Dar apie tą patį\n\n  Tų pačių metų rudenį broliai vėl įsiveržė  į Pagudės žemę ir ją nusiaubė, degindami\nbei piešdami, daugybę paėmė  į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo\nšeimyna patraukė link Lietuvos  į Gardino pilies apygardą [territorium], o visa ši žemė\npavirto dykromis.\n\n\n\n\n\n192 (187)."
+  citata_rodoma: |
+    Dar apie tą patį
+
+      Tų pačių metų rudenį broliai vėl įsiveržė  į Pagudės žemę ir ją nusiaubė, degindami
+    bei piešdami, daugybę paėmė  į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo
+    šeimyna patraukė link Lietuvos  į Gardino pilies apygardą [territorium], o visa ši žemė
+    pavirto dykromis.
+
+
+
+
+
+    192 (187).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -791,7 +841,12 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
     307  Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
-  citata_rodoma: "Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską\npatvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir\nteisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl\ntos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų\n  307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m."
+  citata_rodoma: |
+    Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
+    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
+      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -814,7 +869,18 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
     visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
     tarnauti gyvajam dievui Jėzui Kristui.
-  citata_rodoma: "Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą\n\n  1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,\nvarmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,\nkad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai\npaklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]\nribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas\nTirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui\nbei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su\nvisomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė\ntarnauti gyvajam dievui Jėzui Kristui."
+  citata_rodoma: |
+    Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
+
+      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
+    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
+    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
+    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
+    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
+    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
+    tarnauti gyvajam dievui Jėzui Kristui.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -832,7 +898,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     vardas buvęs fonetiškai panašus į baltiškąjį hidronimą su *Kulm-(Kul-ma?). Lenkiškasis
     pilies vardas lygintinas ir su prūsų kelmis, kelmo užrašymo variantais: chelmo, Chelmo
     ‘kepurė’ (MPKP, 2, p. 34, 53, 279; Топоров B. H. Прусский язык, A—D, с.
-  citata_rodoma: "Trečia — Pagudė193,\nkurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai."
+  citata_rodoma: |
+    Trečia — Pagudė193,
+    kurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -858,7 +926,14 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     tarnai, kaip moko apaštalas, gyveno nelyginant merdėdami didžiai kantrūs sielvartuose,
     negandose, suspaudimuose, plakimuose, kalėjimuose, sąmyšiuose, sunkiuose darbuose,
     budėjimuose, badavimuose; jie rodėsi nuliūdę, tačiau buvo visuomet linksmi.
-  citata_rodoma: "Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti\nkrikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.\nGalop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų\ngyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi\nmiestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni\ngynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo\nant iškeltų prūsų iečių, o likusieji sudegė."
+  citata_rodoma: |
+    Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
+    krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
+    Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
+    gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
+    miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
+    gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
+    ant iškeltų prūsų iečių, o likusieji sudegė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -879,7 +954,14 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
     pasalos, atkirto jiems kelią į miestą.
-  citata_rodoma: "Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį\n\n  1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė."
+  citata_rodoma: |
+    Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
+
+      1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
+    broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
+    keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
+    savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -905,7 +987,17 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
     krikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai
     vyrų.
-  citata_rodoma: "Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­\n     medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį\n\n  Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene\nįsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti\nsusibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria\nraitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios\ntarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė\nkažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar\n  416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m."
+  citata_rodoma: |
+    Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
+         medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
+
+      Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
+    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
+    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
+    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
+    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
+    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
+      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -930,7 +1022,19 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
     naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
     laiką nieko nedarė.
-  citata_rodoma: "Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir\n           apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių\n\n  Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie\nPagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,\npaliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo\nsu broliais.\n\n\n\n\n            169 (164)."
+  citata_rodoma: |
+    Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
+               apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
+
+      Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie
+    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
+    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
+    su broliais.
+
+
+
+
+                169 (164).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -952,7 +1056,14 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
     gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
     ant iškeltų prūsų iečių, o likusieji sudegė.
-  citata_rodoma: "Apie Veklico pilies ir vienos pilaitės sugriovimą\n\n  Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,\nantrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė\nvisus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui\npatraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu\nvienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado."
+  citata_rodoma: |
+    Apie Veklico pilies ir vienos pilaitės sugriovimą
+
+      Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
+    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė
+    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui
+    patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu
+    vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

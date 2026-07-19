@@ -77,7 +77,14 @@ Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo b
     se - Bresto vaivadijoje, pasitelkę ir savo
     šalininkus, tarnus bei rekrūtus iš savo dvarų
     Lenkijoje - Voluinėje.
-  citata_rodoma: "Oginskis\n\ntelkė respublikonų pajėgas Žemaitijoje, Viš-\nnioveckiai organizavo bajoriją LDK pietuo-\nse - Bresto vaivadijoje, pasitelkę ir savo\nšalininkus, tarnus bei rekrūtus iš savo dvarų\nLenkijoje - Voluinėje."
+  citata_rodoma: |
+    Oginskis
+
+    telkė respublikonų pajėgas Žemaitijoje, Viš-
+    nioveckiai organizavo bajoriją LDK pietuo-
+    se - Bresto vaivadijoje, pasitelkę ir savo
+    šalininkus, tarnus bei rekrūtus iš savo dvarų
+    Lenkijoje - Voluinėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

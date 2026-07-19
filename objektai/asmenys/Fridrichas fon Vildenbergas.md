@@ -97,7 +97,15 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
     Vildenbergas Meve 1324 m., daly­
     vaujant Pelplino abatui Jordanui,
     liepė parengti, yra Slapt. Archyve.
-  citata_rodoma: "Mažesniųjų brolių laiškas, rašytas in \nCulmine [Kulme], datuotas fl. d. 1323 \nin die S. Katherine, du originalai (XI, \nNr. 19, 20) ir nuorašas (LII, Spinta \nNr. 1), kurį magistras Fridrichas fon \nVildenbergas Meve 1324 m., daly­\nvaujant Pelplino abatui Jordanui, \nliepė parengti, yra Slapt. Archyve."
+  citata_rodoma: |
+    Mažesniųjų brolių laiškas, rašytas in
+    Culmine [Kulme], datuotas fl. d. 1323
+    in die S. Katherine, du originalai (XI,
+    Nr. 19, 20) ir nuorašas (LII, Spinta
+    Nr. 1), kurį magistras Fridrichas fon
+    Vildenbergas Meve 1324 m., daly­
+    vaujant Pelplino abatui Jordanui,
+    liepė parengti, yra Slapt. Archyve.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

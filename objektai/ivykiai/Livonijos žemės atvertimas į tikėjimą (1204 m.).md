@@ -85,7 +85,11 @@ Nenurodyta
 
       1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus
     Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.).
-  citata_rodoma: "Apie Livonijos žemės atvertimą į tikėjimą\n\n  1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus\nInocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.)."
+  citata_rodoma: |
+    Apie Livonijos žemės atvertimą į tikėjimą
+
+      1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus
+    Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

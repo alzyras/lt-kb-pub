@@ -91,7 +91,13 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
     kė carui memorialą — ku-
     nigaikštijos sudarymo pro-
     jektą.
-  citata_rodoma: "Jis pats tuo tarpu pradėjo\nrūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos že-\nmių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įtei-\nkė carui memorialą — ku-\nnigaikštijos sudarymo pro-\njektą."
+  citata_rodoma: |
+    Jis pats tuo tarpu pradėjo
+    rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos že-
+    mių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įtei-
+    kė carui memorialą — ku-
+    nigaikštijos sudarymo pro-
+    jektą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

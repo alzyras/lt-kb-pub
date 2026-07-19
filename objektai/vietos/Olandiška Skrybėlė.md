@@ -81,7 +81,14 @@ Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, pap�
     mas išliko kaip žalčių laikymas1.
     Kaunis (Kaunis)
     Meilės dievaitis, deivės Mildos sūnus, lietuvių Kupidonas.
-  citata_rodoma: "156\n\n## Puslapis 156\n\nužneštos pakrantės. Senoji Palanga buvo išsidėsčiusi kalvos, va­\ndinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­\nlangos sunešė jūra, įrodo Čackis31 32."
+  citata_rodoma: |
+    156
+
+    ## Puslapis 156
+
+    užneštos pakrantės. Senoji Palanga buvo išsidėsčiusi kalvos, va­
+    dinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­
+    langos sunešė jūra, įrodo Čackis31 32.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

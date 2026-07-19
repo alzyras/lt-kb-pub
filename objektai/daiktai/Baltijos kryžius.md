@@ -77,7 +77,11 @@ Nenurodyta
     http://sammler.ru/uploads/post-622-1333798270.jpg
 
     p. 190, Vokiečių kariai, Alvydo Tamošiūno nuotr.
-  citata_rodoma: "p. 190, Baltijos kryžius, teiktas pasižymėjusiems bermontininkams - vokiečiams.\nhttp://sammler.ru/uploads/post-622-1333798270.jpg\n\np."
+  citata_rodoma: |
+    p. 190, Baltijos kryžius, teiktas pasižymėjusiems bermontininkams - vokiečiams.
+    http://sammler.ru/uploads/post-622-1333798270.jpg
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

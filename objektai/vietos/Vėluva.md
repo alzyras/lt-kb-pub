@@ -452,7 +452,14 @@ media_all_json: |-
     Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­
     damas Įsručio ir Vėluvos apylinkes. O kitame žygyje (1365) paėmė
     ir sunaikino Angerburgo pilį^17.
-  citata_rodoma: "**\n\n\n(^252) ii skyrius: valstybės iškilimas\nJis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­\ndamas Įsručio ir Vėluvos apylinkes. O kitame žygyje (1365) paėmė\nir sunaikino Angerburgo pilį^17."
+  citata_rodoma: |
+    **
+
+
+    (^252) ii skyrius: valstybės iškilimas
+    Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­
+    damas Įsručio ir Vėluvos apylinkes. O kitame žygyje (1365) paėmė
+    ir sunaikino Angerburgo pilį^17.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -477,7 +484,10 @@ media_all_json: |-
     pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
     patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo
     pusėje56.
-  citata_rodoma: "Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį\npatraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo\npusėje56."
+  citata_rodoma: |
+    Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
+    patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
+    pusėje56.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -499,7 +509,14 @@ media_all_json: |-
     lietuvių žygius į Danijos karaliaus valdas — Revelio žemę (III, 343), į Klaipėdos miestą ir
     apylinkes (III, 344), Vėluvą (III, 345) bei Dobrynę (III, 346), be to, 1324 m. popiežiaus
     legatų dokumentu dėl taikos su Gediminu (III, 356)122.
-  citata_rodoma: "M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis\n1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio\n18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs\nžinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą (III, 213);\nkad pasirėmęs Varmės vyskupo  ir kapitulos 1323 m. spalio 16 d. dokumentu apie\nlietuvių žygius į Danijos karaliaus valdas — Revelio žemę (III, 343), į Klaipėdos miestą ir\napylinkes (III, 344), Vėluvą (III, 345) bei Dobrynę (III, 346), be to, 1324 m."
+  citata_rodoma: |
+    M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
+    1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio
+    18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs
+    žinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą (III, 213);
+    kad pasirėmęs Varmės vyskupo  ir kapitulos 1323 m. spalio 16 d. dokumentu apie
+    lietuvių žygius į Danijos karaliaus valdas — Revelio žemę (III, 343), į Klaipėdos miestą ir
+    apylinkes (III, 344), Vėluvą (III, 345) bei Dobrynę (III, 346), be to, 1324 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -570,7 +587,13 @@ media_all_json: |-
     1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
     - Kaip matome, Į pietus nuo Ragainės, be vėlyvos Lykos pilaitės, nebuvo
         jokios ordino pilies.
-  citata_rodoma: "Štai Lietuvai artimesniųjų pilių įkūrimo\ndatos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava —\n1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m.,\nLotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,\nAlenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—\n1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t."
+  citata_rodoma: |
+    Štai Lietuvai artimesniųjų pilių įkūrimo
+    datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava —
+    1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m.,
+    Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,
+    Alenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—
+    1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -592,7 +615,17 @@ media_all_json: |-
     pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
     brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
     bei jo sūnų Maudelį331 su daugybe ginklanešių.
-  citata_rodoma: "Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą\n\n   Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,\nskalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat\nbūgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino\ntolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami\nir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė\npastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo\nbrautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330\nbei jo sūnų Maudelį331 su daugybe ginklanešių."
+  citata_rodoma: |
+    Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
+
+       Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
+    skalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat
+    būgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino
+    tolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami
+    ir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė
+    pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
+    brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
+    bei jo sūnų Maudelį331 su daugybe ginklanešių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -619,7 +652,17 @@ media_all_json: |-
     Toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai
     matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių
     karaliaus gavę kankinių vainikus.
-  citata_rodoma: "Apie Vėluvos pilies puolimą\n\n  Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai\nsu viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias\ndienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į\nkovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų\nbei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas\nTupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,\nragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]\npiliai padegti."
+  citata_rodoma: |
+    Apie Vėluvos pilies puolimą
+
+      Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
+    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
+    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -641,7 +684,10 @@ media_all_json: |-
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
     norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija ir Prūsija).
-  citata_rodoma: "Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m."
+  citata_rodoma: |
+    Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -688,7 +734,15 @@ media_all_json: |-
     įveisti savo sode. Taip man pasakojo to įvykio liudytojas. Kad ir
     kaip ten būtų, bet Lydos gyventojai nuo seno tuos medžius ypač
     garbina ir laiko juos šventais.
-  citata_rodoma: "Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis\nprie žemės buvo dvidešimt septynių uolekčių apimties (vadi­\nnasi, skersmuo buvo beveik devynios uolektys!); paliudyti tai\nir išduoti matų pažymėjimą gali gerbiamoji Vėluvos miesto\ntaryba; aš pats turiu šito įrodym iĮ su tos tarybos antspaudu.\nDabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,\njeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame\nišrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“."
+  citata_rodoma: |
+    Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
+    prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
+    nasi, skersmuo buvo beveik devynios uolektys!); paliudyti tai
+    ir išduoti matų pažymėjimą gali gerbiamoji Vėluvos miesto
+    taryba; aš pats turiu šito įrodym iĮ su tos tarybos antspaudu.
+    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
+    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
+    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

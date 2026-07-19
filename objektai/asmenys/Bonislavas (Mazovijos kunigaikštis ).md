@@ -77,7 +77,17 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     darė sutartį su kryžiuočių Ordinu, ir ne tik Dlugošo pasa­
     kyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus,
     V aniek arba Vanko Masovie Dux, bet dar irVVigand Marb.
-  citata_rodoma: "Savo dviejuose \nlaiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla- \nvas, Mazovijos kunigaikštis]0. Niekur nevaliojome rasti Ma­\nzovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­\nniu valdė Wencenslaus dei gratia dux Masovie et Plocz \n[Venceslavas, Dievo malone Mazovijos ir Plocko kuni­\ngaikštis] (pasak dokumentų), tas pats, kuris 1321 metais su­\ndarė sutartį su kryžiuočių Ordinu, ir ne tik Dlugošo pasa­\nkyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus, \nV aniek arba Vanko Masovie Dux, bet dar irVVigand Marb."
+  citata_rodoma: |
+    Savo dviejuose
+    laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla-
+    vas, Mazovijos kunigaikštis]0. Niekur nevaliojome rasti Ma­
+    zovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­
+    niu valdė Wencenslaus dei gratia dux Masovie et Plocz
+    [Venceslavas, Dievo malone Mazovijos ir Plocko kuni­
+    gaikštis] (pasak dokumentų), tas pats, kuris 1321 metais su­
+    darė sutartį su kryžiuočių Ordinu, ir ne tik Dlugošo pasa­
+    kyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus,
+    V aniek arba Vanko Masovie Dux, bet dar irVVigand Marb.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

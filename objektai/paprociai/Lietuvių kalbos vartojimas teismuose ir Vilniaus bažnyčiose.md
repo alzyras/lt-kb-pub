@@ -64,7 +64,11 @@ Nenurodyta
     džius sakydavo lietuviškai, o į knygas įrašydavo rusiškai, loty­
     niškai arba lenkiškai1. Vilniuje lietuviškus pamokslus kunigai iš
     ambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2.
-  citata_rodoma: "Yra dokumentinių įrodymų, jog teismuose XVI amžiuje nuospren­\ndžius sakydavo lietuviškai, o į knygas įrašydavo rusiškai, loty­\nniškai arba lenkiškai1. Vilniuje lietuviškus pamokslus kunigai iš\nambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2."
+  citata_rodoma: |
+    Yra dokumentinių įrodymų, jog teismuose XVI amžiuje nuospren­
+    džius sakydavo lietuviškai, o į knygas įrašydavo rusiškai, loty­
+    niškai arba lenkiškai1. Vilniuje lietuviškus pamokslus kunigai iš
+    ambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -62,7 +62,12 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
     prisikėlė“. Tuo momentu buvo aktyvuo-
     tas lenkų rezervas, kuris pradėjo apeiti
     kryžiuočius kairėje iš jų dešiniojo flango.
-  citata_rodoma: "Kryžiuočiai, pamanę, jog mūšis laimė-\ntas, užtraukė pergalės giesmę „Kristus\nprisikėlė“. Tuo momentu buvo aktyvuo-\ntas lenkų rezervas, kuris pradėjo apeiti\nkryžiuočius kairėje iš jų dešiniojo flango."
+  citata_rodoma: |
+    Kryžiuočiai, pamanę, jog mūšis laimė-
+    tas, užtraukė pergalės giesmę „Kristus
+    prisikėlė“. Tuo momentu buvo aktyvuo-
+    tas lenkų rezervas, kuris pradėjo apeiti
+    kryžiuočius kairėje iš jų dešiniojo flango.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

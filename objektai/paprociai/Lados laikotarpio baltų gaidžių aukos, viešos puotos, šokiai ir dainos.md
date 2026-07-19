@@ -106,7 +106,13 @@ Nenurodyta.
     vienas iš senovės indų valdovų, iš mitinės mėnulio vaikų kar­
     tos, kitur šis vardas reiškiąs planetos Merkurijaus genijų, o
     2 Skaityk Gvaninio septintosios knygos I dalį*.
-  citata_rodoma: "Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos\npaskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos\nviešos puotos, šokta pievose, mergaitės dainuodavo dainas,\nkuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­\nive, tai yra: „Lada, didžioji mūsų deive“. Paskutinė diena buvo\nRasos šventė. Skaityk straipsnį „Šventės“."
+  citata_rodoma: |
+    Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos
+    paskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos
+    viešos puotos, šokta pievose, mergaitės dainuodavo dainas,
+    kuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­
+    ive, tai yra: „Lada, didžioji mūsų deive“. Paskutinė diena buvo
+    Rasos šventė. Skaityk straipsnį „Šventės“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -78,7 +78,9 @@ Dusburgietis teigia, kad mažiulis V.
     1. Erste Hälfte (1140—1257)
     / Philippi, Wölky.— 1882, 1961, Aalen; Zweite Hälfte (1257—1309) / A. Seraphim,
     1909, 1961 — Aalen; Bd.
-  citata_rodoma: "Mažiulis V. Dėl Neringos vardo.— Lietuvių kalbotyros klausimai, V., 1960, 3, p. 301—\n315."
+  citata_rodoma: |
+    Mažiulis V. Dėl Neringos vardo.— Lietuvių kalbotyros klausimai, V., 1960, 3, p. 301—
+    315.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

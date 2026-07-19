@@ -79,7 +79,9 @@ Dusburgietis teigia, kad vanagas A.
     В., 1981, с. 102— 103.
     Матузова В. И. Археографические принципы издания «Хроники земли прусской»
     Петра из Дусбурга.
-  citata_rodoma: "Vanagas A. K. Būga — lietuvių onomastikos pradininkas.— Iš lietuvių kalbotyros\nistorijos. V., 1980, p. 7—35."
+  citata_rodoma: |
+    Vanagas A. K. Būga — lietuvių onomastikos pradininkas.— Iš lietuvių kalbotyros
+    istorijos. V., 1980, p. 7—35.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

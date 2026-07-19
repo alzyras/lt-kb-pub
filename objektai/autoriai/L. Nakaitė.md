@@ -76,7 +76,13 @@ Nakaitė, L.
     143-159 p. -—- Navickas, K. : Vilniaus gyventojų apavas XII1-XIV a.,
     ILKI, IV, 1964, 188-196 p. — Pakštas, K. : _Lietuvių tautos plotai ir
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr.
-  citata_rodoma: "—\nNakaitė, L. : _Sidabro naudojimas II-XIII amžiais Lietuvoje dirbiniams\npuošti_ , AkMD, t. 16, 1964, 63-82 p. — (”) _Sidabras kaip vertės matas\nI m. e. tūkstantmečio Lietuvoje_ , AkMD, t. 20, 1966, 33-47 p. — (”) _Auk­\nsakalystės Lietuvoje iki XIII a. klausimu,_ AkMD, t. 22, 1966, 67-84 p. ;\nt. 27, 1968, 47-56 p."
+  citata_rodoma: |
+    —
+    Nakaitė, L. : _Sidabro naudojimas II-XIII amžiais Lietuvoje dirbiniams
+    puošti_ , AkMD, t. 16, 1964, 63-82 p. — (”) _Sidabras kaip vertės matas
+    I m. e. tūkstantmečio Lietuvoje_ , AkMD, t. 20, 1966, 33-47 p. — (”) _Auk­
+    sakalystės Lietuvoje iki XIII a. klausimu,_ AkMD, t. 22, 1966, 67-84 p. ;
+    t. 27, 1968, 47-56 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

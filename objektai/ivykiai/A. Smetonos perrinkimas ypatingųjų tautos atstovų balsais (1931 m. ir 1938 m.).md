@@ -117,7 +117,8 @@ Nenurodyta
     dybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo
     apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie –
     prezidentą.
-  citata_rodoma: "dybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo"
+  citata_rodoma: |
+    dybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +139,8 @@ Nenurodyta
     į valdžią atėjo A. Hitleris, o 1934 m. po perversmų įsitvirtino autorita-
     riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
     visai liberalus.
-  citata_rodoma: "džio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu. Panašiai A. Smetona"
+  citata_rodoma: |
+    džio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu. Panašiai A. Smetona
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

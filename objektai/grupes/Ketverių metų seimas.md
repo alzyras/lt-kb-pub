@@ -138,7 +138,11 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
     „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
     ną.
-  citata_rodoma: "Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m. \npatvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam \n„eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-\nną."
+  citata_rodoma: |
+    Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m.
+    patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
+    „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
+    ną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -160,7 +164,15 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
     suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą. Mies-
     tiečių teises ir įformino Gegužės trečiosios konstitucija.
-  citata_rodoma: "2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n91\nGegužės trečiosios konstitucija ir \nAbiejų Tautų tarpusavio įžadas\nNuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų \nseimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-\nbai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui \nsuteikti beveik lygias teises su bajorais ar bent pradėti šį procesą."
+  citata_rodoma: |
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    91
+    Gegužės trečiosios konstitucija ir
+    Abiejų Tautų tarpusavio įžadas
+    Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų
+    seimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-
+    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
+    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

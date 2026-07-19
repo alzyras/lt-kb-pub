@@ -93,7 +93,18 @@ Narbutas pasakojo, kad Jeronimas keliaudamas rado saulės garbintojus, ypač gar
     dęs kažkokias naujas paslaptis, o protėvių papročius norįs iš­
     guiti, todėl jie prašydavo ir maldaudavo, kad neleistų naikinti
     protėvių tikėjimo.
-  citata_rodoma: "Jeronimas įtikino, kad tai apgavystė, sugriovė\nšventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­\nliaudamas toliau, atrado saulės garbintojus; jie ypač garbino\ndidžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­\nmas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,\nkadangi vienas galingas karalius pagrobęs ją laikė uždarytą\ntvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo\ndidžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­\ngaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­\ntystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­\nno paviete, kur lietuviai gyvena, ir Trakų."
+  citata_rodoma: |
+    Jeronimas įtikino, kad tai apgavystė, sugriovė
+    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
+    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
+    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
+    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
+    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
+    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
+    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
+    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
+    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
+    no paviete, kur lietuviai gyvena, ir Trakų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

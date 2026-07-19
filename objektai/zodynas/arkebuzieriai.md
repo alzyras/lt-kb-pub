@@ -80,7 +80,14 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
     kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
 
     galingais ginklais aprūpinti arkebuzieriai.
-  citata_rodoma: "g“ sel\n\nFlanguose Tercijos priekyje būdavo išrikiuojami\nišrikiuota muškietininkai. Kitose tercijos rikiuotės\nkavalerija vietose didžiąją dalį šaulių sudarė ne tokiais\n\ngalingais ginklais aprūpinti arkebuzieriai."
+  citata_rodoma: |
+    g“ sel
+
+    Flanguose Tercijos priekyje būdavo išrikiuojami
+    išrikiuota muškietininkai. Kitose tercijos rikiuotės
+    kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
+
+    galingais ginklais aprūpinti arkebuzieriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -100,7 +107,11 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
     gėsi husarus sulaikyti. Rotmistro A.Vainos
     husarams buvo pasiųstas pastiprinimas —
     kelios kuršiečių reitarų kuopos.
-  citata_rodoma: "Lietuvos\narkebuzieriai rėmė ugnimi husarų ataką,\no švedų arkibuzieriai savo ugnimi sten-\ngėsi husarus sulaikyti. Rotmistro A."
+  citata_rodoma: |
+    Lietuvos
+    arkebuzieriai rėmė ugnimi husarų ataką,
+    o švedų arkibuzieriai savo ugnimi sten-
+    gėsi husarus sulaikyti. Rotmistro A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -126,7 +126,15 @@ Nenurodyta
     avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
     nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
     pelenai ilsisi supiltame kalne).
-  citata_rodoma: "Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.\nJie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-\nte“, tai yra, anot autoriaus vertimo, „loca adiectorum “."
+  citata_rodoma: |
+    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
+    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
+    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

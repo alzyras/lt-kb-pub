@@ -67,7 +67,8 @@ Grunskis E.
     Vilnius, 2006.
     Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,
     1995.
-  citata_rodoma: "Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,"
+  citata_rodoma: |
+    Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

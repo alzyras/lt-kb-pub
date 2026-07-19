@@ -62,7 +62,14 @@ Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs voki
     (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
     niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;
     Acta S. Gongr. de Propaganda Fide ; Litterae S. Gongr. de Prop.
-  citata_rodoma: "Pokarinių laikų vokiečių istorikai yra : W. Ziesemer, Karaliau­\nčiaus ir Dancigo archyvų žinovas, ypač atsidėjęs vokiečių ordino\nistorijos šaltiniams tirti^152. Buvęs Karaliaučiaus archyvo (dabar\n\n(^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­\nniai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;\nActa S."
+  citata_rodoma: |
+    Pokarinių laikų vokiečių istorikai yra : W. Ziesemer, Karaliau­
+    čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs vokiečių ordino
+    istorijos šaltiniams tirti^152. Buvęs Karaliaučiaus archyvo (dabar
+
+    (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
+    niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;
+    Acta S.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

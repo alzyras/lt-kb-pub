@@ -172,7 +172,13 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
     (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
     klausimą.
-  citata_rodoma: "Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-\nnijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-\nrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas \nį karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono \n(Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos \nklausimą."
+  citata_rodoma: |
+    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
+    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
+    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
+    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
+    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
+    klausimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -195,7 +201,12 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis).
-  citata_rodoma: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria \nne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-\ntas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), \no juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson \n(Karolis Bučinskis)."
+  citata_rodoma: |
+    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
+    ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
+    tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
+    o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
+    (Karolis Bučinskis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

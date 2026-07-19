@@ -78,7 +78,9 @@ Dusburgietis teigia, kad valikonytė J.
     Ловмяньский Г. Руссы и руги, — ВИ, 1971, № 9, с. 43—52.
     Ловмяньский Г. Роль рыцарских орденов в Прибалтике (XIII—XIV вв.). — Польша
     и Русь, М., 1974, с.
-  citata_rodoma: "Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI\namžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs. 2, p. 51—64."
+  citata_rodoma: |
+    Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI
+    amžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs. 2, p. 51—64.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

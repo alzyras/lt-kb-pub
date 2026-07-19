@@ -71,7 +71,11 @@ media_all_json: |-
     piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
     jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
     kais.
-  citata_rodoma: "Laiške jis pareiškęs norą būti paklusniu po-\npiežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius\njis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-\nkais."
+  citata_rodoma: |
+    Laiške jis pareiškęs norą būti paklusniu po-
+    piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
+    jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
+    kais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

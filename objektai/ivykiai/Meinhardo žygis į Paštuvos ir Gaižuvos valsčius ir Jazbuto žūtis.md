@@ -89,7 +89,23 @@ Nenurodyta
     nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
     lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
     m
-  citata_rodoma: "Po to jis su savo kariais pasuko kita\nkryptimi: staiga puolė Medrabą, kurios gynėjai daug\nkartų buvo nusiaubę netolimas Prūsijos žemes ir pri­\ndarę nemaža nuostolių; ją užėmęs, išvadavo galybę\nten kalinamų krikščionių. Vėliau su didesne kariauna,\nkurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­\nžė į Lietuvą pats magistras Meinhardas, žiauriai nu­\nsiaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos\nugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,\nJazbutas įniko persekioti už-\nN u žu d o m a s\nlie tu v ių\npakaimę vorą, kuriai tuomet\nk u n ig a ik štis J a zb u ta s\nvadovavo Henrikas Cutsver-\ntas."
+  citata_rodoma: |
+    Po to jis su savo kariais pasuko kita
+    kryptimi: staiga puolė Medrabą, kurios gynėjai daug
+    kartų buvo nusiaubę netolimas Prūsijos žemes ir pri­
+    darę nemaža nuostolių; ją užėmęs, išvadavo galybę
+    ten kalinamų krikščionių. Vėliau su didesne kariauna,
+    kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­
+    žė į Lietuvą pats magistras Meinhardas, žiauriai nu­
+    siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos
+    ugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,
+    Jazbutas įniko persekioti už-
+    N u žu d o m a s
+    lie tu v ių
+    pakaimę vorą, kuriai tuomet
+    k u n ig a ik štis J a zb u ta s
+    vadovavo Henrikas Cutsver-
+    tas.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

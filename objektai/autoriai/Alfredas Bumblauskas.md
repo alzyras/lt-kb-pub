@@ -139,7 +139,23 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
     Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
-  citata_rodoma: "Inga Vinogradnaitė\nIšleista Lietuvos Respublikos \nužsienio reikalų ministerijos užsakymu\nAntras leidimas\n© Alfonsas Eidintas, 2013\n© Alfredas Bumblauskas, 2013\n© Antanas Kulakauskas, 2013\n© Mindaugas Tamošaitis, 2013\n© Lietuvos Respublikos užsienio reikalų ministerija, 2013\n\nTURINYS\nSantrumpos  8\nRedaktoriaus žodis  9\nĮ v a d a s\nLIETUVA – VIDURIO EUROPOS DALIS  12 \nGeografinis Europos centras?"
+  citata_rodoma: |
+    Inga Vinogradnaitė
+    Išleista Lietuvos Respublikos
+    užsienio reikalų ministerijos užsakymu
+    Antras leidimas
+    © Alfonsas Eidintas, 2013
+    © Alfredas Bumblauskas, 2013
+    © Antanas Kulakauskas, 2013
+    © Mindaugas Tamošaitis, 2013
+    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
+
+    TURINYS
+    Santrumpos  8
+    Redaktoriaus žodis  9
+    Į v a d a s
+    LIETUVA – VIDURIO EUROPOS DALIS  12
+    Geografinis Europos centras?
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

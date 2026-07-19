@@ -82,7 +82,13 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
     visą naktį. Kitą rytą jotvingiai padegė savo vežimus (t. y.
     taborus), o patys ir pėsti, ir važiuoti išsislapstė savo miš­
     kuose.
-  citata_rodoma: "Taip buvo pradėtas\nmūšis, kuris visą dieną užpuolikams buvo labai sėkmin­\ngas. Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-\nbiasto, kuris visos jotvingių tautos vardu prašė Danie­\nliaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­\nradarbiauti su lenkais. Danielius nesutiko."
+  citata_rodoma: |
+    Taip buvo pradėtas
+    mūšis, kuris visą dieną užpuolikams buvo labai sėkmin­
+    gas. Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-
+    biasto, kuris visos jotvingių tautos vardu prašė Danie­
+    liaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­
+    radarbiauti su lenkais. Danielius nesutiko.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

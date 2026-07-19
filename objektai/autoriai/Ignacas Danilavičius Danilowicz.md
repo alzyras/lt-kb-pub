@@ -108,7 +108,13 @@ Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pa
     tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
     nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
     Malevskiui už gausius išrašus iš Lietuvos Metrikos.
-  citata_rodoma: "Kita vertus, pirmoje \ndalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­\ndra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­\ntarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­\nnui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui \nMalevskiui už gausius išrašus iš Lietuvos Metrikos."
+  citata_rodoma: |
+    Kita vertus, pirmoje
+    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
+    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
+    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
+    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
+    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

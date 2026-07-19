@@ -89,7 +89,8 @@ Nenurodyta
     nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
     Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
     teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-  citata_rodoma: "čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo"
+  citata_rodoma: |
+    čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

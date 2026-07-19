@@ -131,7 +131,14 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
     vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
     įstatymų aktuose.
-  citata_rodoma: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-\nvas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-\nmus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai \nišmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių \nreforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta \nvykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m. \nįstatymų aktuose."
+  citata_rodoma: |
+    Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
+    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
+    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai
+    išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
+    reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
+    vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
+    įstatymų aktuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

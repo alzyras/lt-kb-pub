@@ -229,7 +229,14 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
     tvarką (pas Hartknochą, p. 149):
     1.
-  citata_rodoma: "Pretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų\nžynių vyriausiąjį žynį."
+  citata_rodoma: |
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
+    žynių vyriausiąjį žynį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -251,7 +258,16 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     davo žadėdamas dievų malonę. O kad būtų labiau tuo įsitiki­
     nę, sakydavo jiems, kad jis pats norįs už jų nuodėmes pasiau­
     koti ir kankinio mirtimi už juos atsilyginti.
-  citata_rodoma: "Antra\nvertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios\ngiminės tautas pasaulietiškos grafo pareigos nebuvo susijusios\nsu žyniavimu . O be to, krivio pavadinimą žinojo beveik vien\nlietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­\nna provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1\nSkaityk pabaigoje I priedą.\n10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius."
+  citata_rodoma: |
+    Antra
+    vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios
+    giminės tautas pasaulietiškos grafo pareigos nebuvo susijusios
+    su žyniavimu . O be to, krivio pavadinimą žinojo beveik vien
+    lietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­
+    na provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1
+    Skaityk pabaigoje I priedą.
+    10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
+    Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

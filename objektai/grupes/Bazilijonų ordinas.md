@@ -61,7 +61,6 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   susije_objektai: "mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-171059
     - c-171058
 <a id="claim-t-188017"></a>
 - t-003
@@ -102,7 +101,13 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
     savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
     bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
-  citata_rodoma: "Daug geriau buvo sutvarkytas\nunitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-\nlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-\nzi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių\nsavo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-\nbysy), nors ten nei pravoslavų nei unitų nebuvo iš viso."
+  citata_rodoma: |
+    Daug geriau buvo sutvarkytas
+    unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -121,7 +126,13 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     kampiniame name, seniau buvo
     cerkvelė. Vėliau Mamoničių spaus­
     tuvė, matyt, atiteko bazilijonams.
-  citata_rodoma: "Mamoničių namai sto-\nvėjo, rodos, toje vietoje, kur dabar Sle-\ndzinskio namai, Nr. 203, o šalia,\nkampiniame name, seniau buvo\ncerkvelė. Vėliau Mamoničių spaus-\ntuvė, matyt, atiteko bazilijonams."
+  citata_rodoma: |
+    Mamoničių namai sto-
+    vėjo, rodos, toje vietoje, kur dabar Sle-
+    dzinskio namai, Nr. 203, o šalia,
+    kampiniame name, seniau buvo
+    cerkvelė. Vėliau Mamoničių spaus-
+    tuvė, matyt, atiteko bazilijonams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -142,14 +153,22 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     69
     Perlas paimtas iš pranašo Habukuko ir
     Kalėdoms dovanotas Jonui Hlebavičiui.
-  citata_rodoma: "Mamoničių namai sto­\nvėjo, rodos, toje vietoje, kur dabar Sle- \ndzinskio namai, Nr. 203, o šalia, \nkampiniame name, seniau buvo \ncerkvelė. Vėliau Mamoničių spaus­\ntuvė, matyt, atiteko bazilijonams.\n69\nPerlas paimtas iš pranašo Habukuko ir \nKalėdoms dovanotas Jonui Hlebavičiui."
+  citata_rodoma: |
+    Mamoničių namai sto­
+    vėjo, rodos, toje vietoje, kur dabar Sle-
+    dzinskio namai, Nr. 203, o šalia,
+    kampiniame name, seniau buvo
+    cerkvelė. Vėliau Mamoničių spaus­
+    tuvė, matyt, atiteko bazilijonams.
+    69
+    Perlas paimtas iš pranašo Habukuko ir
+    Kalėdoms dovanotas Jonui Hlebavičiui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188015
 - id: c-171060
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -160,7 +179,12 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     Dievui už puikią savo pergalę, ant kalvelės, netoli Medinin­
     kų vartų, pastatė mūrinę Švč. Trejybės cerkvę ir prie jos įkur­
     dino Šv. Bazilijaus ordino vienuolius.
-  citata_rodoma: "Beveik tuo \npat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką \nDievui už puikią savo pergalę, ant kalvelės, netoli Medinin­\nkų vartų, pastatė mūrinę Švč. Trejybės cerkvę ir prie jos įkur­\ndino Šv. Bazilijaus ordino vienuolius."
+  citata_rodoma: |
+    Beveik tuo
+    pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką
+    Dievui už puikią savo pergalę, ant kalvelės, netoli Medinin­
+    kų vartų, pastatė mūrinę Švč. Trejybės cerkvę ir prie jos įkur­
+    dino Šv. Bazilijaus ordino vienuolius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -180,7 +204,14 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
     prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
     ir aukštesniųjų.
-  citata_rodoma: "Vilniuje šie turėjo net savą, popiežiaus iš-\nlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-\nzi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių\nsavo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-\nbysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur\nprie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net\nir aukštesniųjų."
+  citata_rodoma: |
+    Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
+    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
+    ir aukštesniųjų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

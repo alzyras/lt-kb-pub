@@ -90,7 +90,8 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
     aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
     parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
     leisti laikraštį ir nuolatinę televizijos laidą.
-  citata_rodoma: "dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –"
+  citata_rodoma: |
+    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -177,7 +177,14 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
     ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
     das.
-  citata_rodoma: "Senoji pi­\nliavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­\ntiestu per gana gilią griovą, tarp kurios polių buvo net kalė­\njimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos\npavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,\n° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­\ndas."
+  citata_rodoma: |
+    Senoji pi­
+    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
+    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
+    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
+    pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
+    ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
+    das.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

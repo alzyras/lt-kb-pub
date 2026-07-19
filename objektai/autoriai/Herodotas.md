@@ -796,7 +796,13 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
     siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
     slavų Tryzną.
-  citata_rodoma: "E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­\nsiausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais."
+  citata_rodoma: |
+    E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
+    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -822,7 +828,20 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
     leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
     apgyventas sodybas.
-  citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
+  citata_rodoma: |
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
+    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
+    kalnai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -846,7 +865,13 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
     besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
     les iš kambarių.
-  citata_rodoma: "Ant laidotuvių laužo su miru­\nsiojo kūnu būdavo kraunama viskas, kas velionio gyvenime\nbuvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­\nžiūriu sekta senovės galais ir skandinavais bei daugeliu kitų\nįvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,\ntaip pat užmušdavo jų mylimiausius tarnus."
+  citata_rodoma: |
+    Ant laidotuvių laužo su miru­
+    siojo kūnu būdavo kraunama viskas, kas velionio gyvenime
+    buvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­
+    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
+    įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
+    taip pat užmušdavo jų mylimiausius tarnus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -868,7 +893,16 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     kilusiomis gentimis. Dievus garbino senovės Indijos bu­
     dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­
     siformavusiai budinu genčiai, kuri įsikūrė prie Dono.
-  citata_rodoma: "Pirmykštėje žmonių visuomenėje tautos sun­\nkiai pakęsdavo šalia savęs svetimos giminės ir kalbos\nžmones, o gentainių pagalbą ir abipusę draugystę labai\nbrangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­\nmeninio gyvenimo kūdikystės lygio ir atrastų mūsų am­\nžiais. Minėtų pelazgų palikuonių turėjo būti ant kai­\nriojo Dono vidurupio kranto. Tai mini ir Herodotas*,\nteigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų\ngyvenamo krašto."
+  citata_rodoma: |
+    Pirmykštėje žmonių visuomenėje tautos sun­
+    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
+    žmones, o gentainių pagalbą ir abipusę draugystę labai
+    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
+    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
+    žiais. Minėtų pelazgų palikuonių turėjo būti ant kai­
+    riojo Dono vidurupio kranto. Tai mini ir Herodotas*,
+    teigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų
+    gyvenamo krašto.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1000,7 +1034,17 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
     gi kalba apie gintarą, randamą ten, kur Aldeskos upė
     įteka į Šiaurės jūrą3.
-  citata_rodoma: "Herodotas ¡savo kelionės po Skitiją metu teiravosi \napie gintaringas vietas; boristeniečiai, ariba Padneprės \ngraikų kolonistai, jam pasakoję, jog šis produktas pasie­\nkiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt \ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei \nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo. \nKeliautojas tik sužinojo, kad jis renkamas prie Eridano \nupės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­\ngi kalba apie gintarą, randamą ten, kur Aldeskos upė \nįteka į Šiaurės jūrą3."
+  citata_rodoma: |
+    Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+    Keliautojas tik sužinojo, kad jis renkamas prie Eridano
+    upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
+    gi kalba apie gintarą, randamą ten, kur Aldeskos upė
+    įteka į Šiaurės jūrą3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1142,7 +1186,16 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     500 metais prieš Kristaus gimimą klestėjo prekyba tarp
     helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
     Pameotidės gyventojai2.
-  citata_rodoma: "Tai plačiau paaiškins\ndalykus, kurių kontūrus paliko Herodotas.\nReikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš­\nto prie Fasio pasiektų Meotų jūrą1, apie kurią seniausių\nžinių randame H erodo to darbuose, nors graikai turi ir\ngerokai senesnes epochas siekiančių duomenų. Maždaug\n500 metais prieš Kristaus gimimą klestėjo prekyba tarp\nhelenų ir meotidų, nes tokį bendrinį pavadinimą turėjo\nPameotidės gyventojai2."
+  citata_rodoma: |
+    Tai plačiau paaiškins
+    dalykus, kurių kontūrus paliko Herodotas.
+    Reikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš­
+    to prie Fasio pasiektų Meotų jūrą1, apie kurią seniausių
+    žinių randame H erodo to darbuose, nors graikai turi ir
+    gerokai senesnes epochas siekiančių duomenų. Maždaug
+    500 metais prieš Kristaus gimimą klestėjo prekyba tarp
+    helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
+    Pameotidės gyventojai2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1168,7 +1221,21 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     sime iš atitinkamos vėlesnių laikų pozicijos, mažų ma­
     žiausiai neatsižvelgdami į išorinį žodžių pavidalą, jų
     reikšmės ir minčių atitikimą.
-  citata_rodoma: "Maždaug \n500 metais prieš Kristaus gimimą klestėjo prekyba tarp \nhelenų ir meotidų, nes tokį bendrinį pavadinimą turėjo \nPameotidės gyventojai2. Herodoto aprašymuose yra ne­\nmažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­\nnagrinėsime jas dabartinių ir praėjusių laikų dvasia. \nTai ir yra tikslas, kurio mes dar siekiame ir nuo kurio vis \nlabiau tolsime, kol liausimės praėjusio pasaulio dalykus \natkakliai ir su išankstine nuostata matuoti mūsų šiandie­\nnos masteliais. Kritikuodami Herodoto patiklumą, taisy­\nsime jo geografines klaidas ir tiesas, t. y. visuomet žvelg­\nsime iš atitinkamos vėlesnių laikų pozicijos, mažų ma­\nžiausiai neatsižvelgdami į išorinį žodžių pavidalą, jų \nreikšmės ir minčių atitikimą."
+  citata_rodoma: |
+    Maždaug
+    500 metais prieš Kristaus gimimą klestėjo prekyba tarp
+    helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
+    Pameotidės gyventojai2. Herodoto aprašymuose yra ne­
+    mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­
+    nagrinėsime jas dabartinių ir praėjusių laikų dvasia.
+    Tai ir yra tikslas, kurio mes dar siekiame ir nuo kurio vis
+    labiau tolsime, kol liausimės praėjusio pasaulio dalykus
+    atkakliai ir su išankstine nuostata matuoti mūsų šiandie­
+    nos masteliais. Kritikuodami Herodoto patiklumą, taisy­
+    sime jo geografines klaidas ir tiesas, t. y. visuomet žvelg­
+    sime iš atitinkamos vėlesnių laikų pozicijos, mažų ma­
+    žiausiai neatsižvelgdami į išorinį žodžių pavidalą, jų
+    reikšmės ir minčių atitikimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1201,7 +1268,23 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
-  citata_rodoma: "Taigi naujų laikų gabumams nebūdin­\ngas praėjusių amžių tikėjimas, kuris buvo mokslinis, \nžmogiškas ir dieviškas taip, jog šiandien, žvelgdami į \npraeities veidrodį, suvokiame mūsų labai matematiškai \nribotą žvilgsni, kuris pastebi tik išorinius paviršius, vos \nįžiūri užtemdytus klonius, bet jokiu būdu negali nei jų \nišmatuoti, nei geriau pažinti. Būtent ši priežastis daro \nmus visiškai bejėgius spręsti apie tikrą reikšmę praėju­\nsių laikų, jei jie patys savęs nepaaiškina; kalbant kitais \nžodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­\nlosofiškai arba kritiškai, nes kritika — filosofijos šaka.\nNei Homero, nei Herodoto žemėlapiai, kurie niekad \nnebuvo tikslūs astronominiai-geografiniai, bet apskritai \nmitologiniai, kosmografiniai, genealoginiai ir istoriniai, \nnesutampa su mūsų žemėlapiais, kuriems būdingos tiks­\nlios matematinės projekcijos."
+  citata_rodoma: |
+    Taigi naujų laikų gabumams nebūdin­
+    gas praėjusių amžių tikėjimas, kuris buvo mokslinis,
+    žmogiškas ir dieviškas taip, jog šiandien, žvelgdami į
+    praeities veidrodį, suvokiame mūsų labai matematiškai
+    ribotą žvilgsni, kuris pastebi tik išorinius paviršius, vos
+    įžiūri užtemdytus klonius, bet jokiu būdu negali nei jų
+    išmatuoti, nei geriau pažinti. Būtent ši priežastis daro
+    mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­
+    sių laikų, jei jie patys savęs nepaaiškina; kalbant kitais
+    žodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­
+    losofiškai arba kritiškai, nes kritika — filosofijos šaka.
+    Nei Homero, nei Herodoto žemėlapiai, kurie niekad
+    nebuvo tikslūs astronominiai-geografiniai, bet apskritai
+    mitologiniai, kosmografiniai, genealoginiai ir istoriniai,
+    nesutampa su mūsų žemėlapiais, kuriems būdingos tiks­
+    lios matematinės projekcijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1253,7 +1336,16 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     jie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­
     kime ten, kur jo vandenys jungiasi su Pontu, ir panagri­
     nėkime tą truputį istorijos palikimo.
-  citata_rodoma: "Kai \nskitai staiga dingo ir jų niekur nebuvo matyti, Darijus \npaliko šiuos pusiau pastatytus įtvirtinimus ir pasuko į \nvakarus, nes manė, kad ten buvo visi skitai. Iš čia persų \nkaralius pradėjo traukti atgal.\nLig šiol vadovavomės Herodoto pasakojimu, kuriame \njie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­\nkime ten, kur jo vandenys jungiasi su Pontu, ir panagri­\nnėkime tą truputį istorijos palikimo."
+  citata_rodoma: |
+    Kai
+    skitai staiga dingo ir jų niekur nebuvo matyti, Darijus
+    paliko šiuos pusiau pastatytus įtvirtinimus ir pasuko į
+    vakarus, nes manė, kad ten buvo visi skitai. Iš čia persų
+    karalius pradėjo traukti atgal.
+    Lig šiol vadovavomės Herodoto pasakojimu, kuriame
+    jie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­
+    kime ten, kur jo vandenys jungiasi su Pontu, ir panagri­
+    nėkime tą truputį istorijos palikimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

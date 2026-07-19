@@ -104,7 +104,17 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
     pasiuntinius pas lietuvių didįjį kunigaikštį
     Vytautą, kad išduotų jam pabėgusį „carą“
     Tochtamišą, jo priešą.
-  citata_rodoma: "Greičiausiai Vytauto\niniciatyva per Maskvos didįjį kunigaikštį\nVasilijų Konstantinopolio patriarchas ra-\ngino Kijevo metropolitą Kiprijoną kviesti\ntikinčiuosius į karą prieš totorius.\nBesirengdamas žygiui į Sarajų, Aukso\nordos chanas Timūr-Kutlukas atsiuntė savo\npasiuntinius pas lietuvių didįjį kunigaikštį\nVytautą, kad išduotų jam pabėgusį „carą“\nTochtamišą, jo priešą."
+  citata_rodoma: |
+    Greičiausiai Vytauto
+    iniciatyva per Maskvos didįjį kunigaikštį
+    Vasilijų Konstantinopolio patriarchas ra-
+    gino Kijevo metropolitą Kiprijoną kviesti
+    tikinčiuosius į karą prieš totorius.
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
+    Vytautą, kad išduotų jam pabėgusį „carą“
+    Tochtamišą, jo priešą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

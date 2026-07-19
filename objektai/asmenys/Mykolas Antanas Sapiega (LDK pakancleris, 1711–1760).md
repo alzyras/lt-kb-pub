@@ -155,7 +155,8 @@ media_all_json: |-
     Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43]. 1759 m. jis
     pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
     posto [57].
-  citata_rodoma: "Taip pat 1755 m. laiške kanauninkas teigė, kad LDK pakancleris\\nMykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43]."
+  citata_rodoma: |
+    Taip pat 1755 m. laiške kanauninkas teigė, kad LDK pakancleris\nMykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43].
   statusas: verified
   atnaujinta: "2026-07-14 12:33"
   teiginio_tipas: faktas

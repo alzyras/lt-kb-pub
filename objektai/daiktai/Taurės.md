@@ -124,7 +124,10 @@ Nenurodyta
     terims, karčioji — vyrams.
     Prie to raguolis ragaišio, gabalas mėsos
     ir varinė taurelė.
-  citata_rodoma: "Prie to raguolis ragaišio,\ngabalas mėsos\nir varinė taurelė."
+  citata_rodoma: |
+    Prie to raguolis ragaišio,
+    gabalas mėsos
+    ir varinė taurelė.
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
@@ -147,7 +150,8 @@ Nenurodyta
     ir geria tą degtinę, vis ją keikdami.
     Kai visą išgėrė, sumanė su­
     daužyti taurelę.
-  citata_rodoma: "Kai visą išgėrė, sumanė sudaužyti taurelę."
+  citata_rodoma: |
+    Kai visą išgėrė, sumanė sudaužyti taurelę.
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
@@ -164,7 +168,8 @@ Nenurodyta
     O taurė stora, kaip koks stiklo burbulas. Paskui ir su­
     manė duoti į aslos akmenį.
     Čia vargšei šonas nudužo.
-  citata_rodoma: "O taurė stora, kaip koks stiklo burbulas. Paskui ir sumanė duoti į aslos akmenį. Čia vargšei šonas nudužo."
+  citata_rodoma: |
+    O taurė stora, kaip koks stiklo burbulas. Paskui ir sumanė duoti į aslos akmenį. Čia vargšei šonas nudužo.
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
@@ -183,7 +188,9 @@ Nenurodyta
     Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­
     gerti po taurelę „ant abiejų kojų.“
     Taip užkandžiavo šventoriuje.
-  citata_rodoma: "Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­\ngerti po taurelę „ant abiejų kojų.“"
+  citata_rodoma: |
+    Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­
+    gerti po taurelę „ant abiejų kojų.“
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas

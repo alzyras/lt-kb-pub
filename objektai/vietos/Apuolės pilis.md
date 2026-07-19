@@ -131,7 +131,11 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     svaro sidabro. Iš XI-XII amž. danų šaltinių (Genealogia regum
     Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
     protarpiais esą mokėję duoklę ir danams.
-  citata_rodoma: "Nė sausakimšoje Apuolės pilia­\nkalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek\nkarių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę\nsvaro sidabro. Iš XI-XII amž."
+  citata_rodoma: |
+    Nė sausakimšoje Apuolės pilia­
+    kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek
+    karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę
+    svaro sidabro. Iš XI-XII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

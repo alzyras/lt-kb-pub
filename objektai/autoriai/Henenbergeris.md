@@ -286,7 +286,20 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
     kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
     galbūt įtikintume savo naudai.
-  citata_rodoma: "Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­\nkupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad\nKaraliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­\nninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko\nDavido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi\nPretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-\nbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­\nmus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo\nKristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­\nba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­\nba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­\nrokai išsamesniais paaiškinimais negu Simonas Grunau17.\n2."
+  citata_rodoma: |
+    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
+    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
+    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
+    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
+    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
+    2.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -315,7 +328,18 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     galop susilieja su Tavos upe, kuri taip pat yra Gilijos ša­
     ka, ir įteka į Kuršių marias, dar padariusi Subelės ir Ver-
     gelės šakas.
-  citata_rodoma: "XV am­\nžiaus prūsų kronikininkas Henenbergeris nurodo dar dau­\ngiau šiandien jau neegzistuojančių šakų: Akmenės, Szyr- \nwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, \nKallamppe, Taszargis, U Imis, Szloda. Visi šie pavadinimai \nlietuvių kalboje turi prasmę ir teikia didelių galimybių \netimologiniams tyrimams. Pagrindinė kairioji vaga, atsi­\nšakojusi prie Sancinės, vadinama Gilge, arba Gilia, tai \nreiškia gylį; žemiau, ties Būdveitų kaimu, jį išsišakoja į \ndvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota; \njos tik prie Dreiškių kaimo vėl susilieja į vieną."
+  citata_rodoma: |
+    XV am­
+    žiaus prūsų kronikininkas Henenbergeris nurodo dar dau­
+    giau šiandien jau neegzistuojančių šakų: Akmenės, Szyr-
+    winde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm,
+    Kallamppe, Taszargis, U Imis, Szloda. Visi šie pavadinimai
+    lietuvių kalboje turi prasmę ir teikia didelių galimybių
+    etimologiniams tyrimams. Pagrindinė kairioji vaga, atsi­
+    šakojusi prie Sancinės, vadinama Gilge, arba Gilia, tai
+    reiškia gylį; žemiau, ties Būdveitų kaimu, jį išsišakoja į
+    dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota;
+    jos tik prie Dreiškių kaimo vėl susilieja į vieną.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

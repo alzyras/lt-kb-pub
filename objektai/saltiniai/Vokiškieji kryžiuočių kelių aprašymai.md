@@ -154,7 +154,11 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     476  1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
     (plg. D. III, 223). Sukilimas galėjo vykti vienu metu su Lietuvos—jotvingių įsiveržimu
     (D. III, 192) į vakarines Ordino valdas (Töppen M.— SRP, 1, p. 136).
-  citata_rodoma: "Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą\naprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad\nDusburgiečio paminėta pilis buvusi prie Sešuvies (Mortensen G., Beitrage..., p. 27), jo\nžemupio kair. krante (SZM, p. 289, žemėlapis; Salys A., Skalva, p. 538, 540)."
+  citata_rodoma: |
+    Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą
+    aprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad
+    Dusburgiečio paminėta pilis buvusi prie Sešuvies (Mortensen G., Beitrage..., p. 27), jo
+    žemupio kair. krante (SZM, p. 289, žemėlapis; Salys A., Skalva, p. 538, 540).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -173,7 +177,11 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten,
     o toliau minimas kelias czu Kattow (SRP, 2, p. 683). Pastarasis vietovardis atitiktų
     vėlesnę Katinavą bei D. Catthow.
-  citata_rodoma: "1384 m.\nkelio iš Įsruties  į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten,\no toliau minimas kelias czu Kattow (SRP, 2, p. 683). Pastarasis vietovardis atitiktų\nvėlesnę Katinavą bei D. Catthow."
+  citata_rodoma: |
+    1384 m.
+    kelio iš Įsruties  į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten,
+    o toliau minimas kelias czu Kattow (SRP, 2, p. 683). Pastarasis vietovardis atitiktų
+    vėlesnę Katinavą bei D. Catthow.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

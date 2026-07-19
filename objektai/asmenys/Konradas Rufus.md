@@ -80,7 +80,10 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
     kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
     įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
     nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
-  citata_rodoma: "Tas brolis Ditrichas iš Ezbeko iš anksto išsipranašavo sau mirtį,\nkalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks\natgal, o tas tarė: „Man pakanka savo žirgo, nes manęs netrukus gyvo nebematysi“."
+  citata_rodoma: |
+    Tas brolis Ditrichas iš Ezbeko iš anksto išsipranašavo sau mirtį,
+    kalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks
+    atgal, o tas tarė: „Man pakanka savo žirgo, nes manęs netrukus gyvo nebematysi“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

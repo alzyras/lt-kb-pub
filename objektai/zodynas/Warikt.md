@@ -118,7 +118,11 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
     ir Pagude, šiaurėje buvo Baltijos jūra. Šioje provincijoje
     gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš
     labiausiai civilizuotų ir mažiausiai karingi.
-  citata_rodoma: "Pavadinimą galbūt davė gentys,\nkurios buvo vadinamos varinais; lietuvių kalba tai reiš­\nkia piemenį, t. y. nuo žodžio Warikt, varyti, ginti gyvu­\nlius, ganyti*."
+  citata_rodoma: |
+    Pavadinimą galbūt davė gentys,
+    kurios buvo vadinamos varinais; lietuvių kalba tai reiš­
+    kia piemenį, t. y. nuo žodžio Warikt, varyti, ginti gyvu­
+    lius, ganyti*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

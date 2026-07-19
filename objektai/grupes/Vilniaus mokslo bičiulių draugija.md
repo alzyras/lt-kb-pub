@@ -94,7 +94,8 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
     draugijos leido mokslinius tęsti-
     nius leidinius. Beje, abi jos buvo
     viena kitos kolektyviniai nariai.
-  citata_rodoma: "nius leidinius. Beje, abi jos buvo"
+  citata_rodoma: |
+    nius leidinius. Beje, abi jos buvo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -116,7 +117,8 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
     telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: "plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,"
+  citata_rodoma: |
+    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

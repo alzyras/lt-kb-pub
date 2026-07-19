@@ -128,7 +128,17 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
     atskirus, tikybos valdininkų įgaliotus dievus. Štai kokia yra tikra
     ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
     kyla iš pačių religijos sargų arba kunigų.
-  citata_rodoma: "Tiesą sako „Antilukrecijaus“ auto­\nrius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir\nžmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­\nnamomis su smilkytuvu rankose“1.\nIndiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­\ndžių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­\ngybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.\nSenovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-\njus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas\nromėnus ir kitus."
+  citata_rodoma: |
+    Tiesą sako „Antilukrecijaus“ auto­
+    rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
+    žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
+    namomis su smilkytuvu rankose“1.
+    Indiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­
+    džių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­
+    gybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.
+    Senovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-
+    jus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas
+    romėnus ir kitus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -212,7 +212,19 @@ Nenurodyta
     sėje pergalės viltį, vis dėlto galop krikščionys buvo
     sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
     galvas padėjo.
-  citata_rodoma: "Kovotojams buvo įsakyta susilaikyti \nnuo grobio ir, kol nepraėjo pakili pergalės nuotaika, \nkarštai pulti dar kruvinais kalavijais priešą, kad kil­\ntų dar smarkesnė kova ir būtų pasiekta visiška per­\ngalė. Kai pasirodė iš užnugario grėsmingi barbarai, \nkurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas \nir baimė, jog paimta stovykla; tada, susidūrus kariuo­\nmenėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­\nmas palaikė ne vieną valandą ir vienoje, ir kitoje pu­\nsėje pergalės viltį, vis dėlto galop krikščionys buvo \nsumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba \ngalvas padėjo."
+  citata_rodoma: |
+    Kovotojams buvo įsakyta susilaikyti
+    nuo grobio ir, kol nepraėjo pakili pergalės nuotaika,
+    karštai pulti dar kruvinais kalavijais priešą, kad kil­
+    tų dar smarkesnė kova ir būtų pasiekta visiška per­
+    galė. Kai pasirodė iš užnugario grėsmingi barbarai,
+    kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
+    ir baimė, jog paimta stovykla; tada, susidūrus kariuo­
+    menėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­
+    mas palaikė ne vieną valandą ir vienoje, ir kitoje pu­
+    sėje pergalės viltį, vis dėlto galop krikščionys buvo
+    sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
+    galvas padėjo.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

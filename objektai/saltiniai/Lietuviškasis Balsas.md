@@ -71,7 +71,9 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
     pagalbos. Tačiau lietuvių nusistatymas ginti savo teises nė kiek
     nemažėjo; jį dar labiau paskatino tautiškasis Amerikos lietu-
     vių judėjimas, ypač pagyvėjęs su 1883 m. atsiradusia „Aušra".
-  citata_rodoma: "„Lietuviškojo Balso\" pirmojo numerio antraštė.\n(Laikraštis ėjo 1885—1889 m.)."
+  citata_rodoma: |
+    „Lietuviškojo Balso" pirmojo numerio antraštė.
+    (Laikraštis ėjo 1885—1889 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -92,7 +94,11 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
     venančių lietuvių inteligentų, savo laikraštyje jis kėlė lietuvių
     susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o
     nesiglausti prie lenkų.
-  citata_rodoma: "Per 4 metus, padedamas Lietuvoje ir Rusijoje gy-\nvenančių lietuvių inteligentų, savo laikraštyje jis kėlė lietuvių\nsusipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o\nnesiglausti prie lenkų."
+  citata_rodoma: |
+    Per 4 metus, padedamas Lietuvoje ir Rusijoje gy-
+    venančių lietuvių inteligentų, savo laikraštyje jis kėlė lietuvių
+    susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o
+    nesiglausti prie lenkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

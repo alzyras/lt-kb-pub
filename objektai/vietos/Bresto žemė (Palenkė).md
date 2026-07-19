@@ -88,7 +88,10 @@ Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łoki
     patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
     įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
     Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
-  citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną)."
+  citata_rodoma: |
+    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
+    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
+    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

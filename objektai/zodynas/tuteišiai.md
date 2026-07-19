@@ -144,7 +144,14 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
     įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
     tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
-  citata_rodoma: "Bet rytiniai ir pietrytiniai šio ploto pakraš-\nčiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) \nprocesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, \nlaikant save tiesiog čiabuviais (tuteišiais). Mat baltarusių šnekta pragma-\ntiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius \nponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas \nįgis XIX a."
+  citata_rodoma: |
+    Bet rytiniai ir pietrytiniai šio ploto pakraš-
+    čiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo)
+    procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
+    laikant save tiesiog čiabuviais (tuteišiais). Mat baltarusių šnekta pragma-
+    tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
+    ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
+    įgis XIX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

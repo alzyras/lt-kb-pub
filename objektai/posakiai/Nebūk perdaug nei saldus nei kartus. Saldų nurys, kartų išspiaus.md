@@ -68,7 +68,8 @@ Aforistinė elgesio formulė apie saiką.
   citata_originali: |
     — Tai mat, ponaiti, nebūk perdaug nei saldus nei kartus. Saldų
     nurys, kartų išspiaus. Vis negera.
-  citata_rodoma: "— Tai mat, ponaiti, nebūk perdaug nei saldus nei kartus. Saldų nurys, kartų išspiaus. Vis negera."
+  citata_rodoma: |
+    — Tai mat, ponaiti, nebūk perdaug nei saldus nei kartus. Saldų nurys, kartų išspiaus. Vis negera.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

@@ -63,7 +63,8 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Visa Lietuvos ūkė buvo paskaidyta į mažas apygardas, tėvūnijomis, arba pavietėmis^1057 , vadinamas, nuo vardo vyresniojo, tėvūnu vadinamo, gudiškai Storasta^1058 , ar rasi nuo žodžio vieta, į kurią liuobėjo vyresnieji tos apygardos susirinkę sūdyti^1059 arba kitus ūkės reikalus atlikti: todėl vadinos paviete, gudiškai pavietu.
-  citata_rodoma: "Visa Lietuvos ūkė buvo paskaidyta į mažas apygardas, tėvūnijomis, arba pavietėmis^1057 , vadinamas, nuo vardo vyresniojo, tėvūnu vadinamo, gudiškai Storasta^1058 , ar rasi nuo žodžio vieta, į kurią liuobėjo vyresnieji tos apygardos susirinkę sūdyti^1059 arba kitus ūkės reikalus atlikti: todėl vadinos paviete, gudiškai pavietu."
+  citata_rodoma: |
+    Visa Lietuvos ūkė buvo paskaidyta į mažas apygardas, tėvūnijomis, arba pavietėmis^1057 , vadinamas, nuo vardo vyresniojo, tėvūnu vadinamo, gudiškai Storasta^1058 , ar rasi nuo žodžio vieta, į kurią liuobėjo vyresnieji tos apygardos susirinkę sūdyti^1059 arba kitus ūkės reikalus atlikti: todėl vadinos paviete, gudiškai pavietu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

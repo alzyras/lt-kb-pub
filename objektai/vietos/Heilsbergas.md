@@ -176,7 +176,20 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
     lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
-  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
+  citata_rodoma: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

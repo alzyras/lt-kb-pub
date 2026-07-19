@@ -367,7 +367,13 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
     ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
     pa).
-  citata_rodoma: "Daugiausia šaudė\niš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD\nbūrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann)\n„skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-\nves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-\npa)."
+  citata_rodoma: |
+    Daugiausia šaudė
+    iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
+    būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann)
+    „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
+    ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
+    pa).
   statusas: verified
   atnaujinta: "2026-07-14 08:50"
   teiginio_tipas: faktas
@@ -387,7 +393,14 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     ir buvo sutelktos, pro Panerius ir Vokę
     Valkininkų kryptimi išžygiavo Sapiegų
     pajėgos. Jas sudarė apie 1500 karių -
-  citata_rodoma: "Sapiegų pajėgos\n\nKitą dieną iš Vilniaus, kurio apylinkėse\n\nir buvo sutelktos, pro Panerius ir Vokę\nValkininkų kryptimi išžygiavo Sapiegų\npajėgos."
+  citata_rodoma: |
+    Sapiegų pajėgos
+
+    Kitą dieną iš Vilniaus, kurio apylinkėse
+
+    ir buvo sutelktos, pro Panerius ir Vokę
+    Valkininkų kryptimi išžygiavo Sapiegų
+    pajėgos.
   statusas: verified
   atnaujinta: "2026-07-14 08:50"
   teiginio_tipas: faktas
@@ -410,7 +423,17 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     ir buvo sutelktos, pro Panerius ir Vokę
     Valkininkų kryptimi išžygiavo Sapiegų
     pajėgos.
-  citata_rodoma: "panceriniais raiteliais (ši kavalerijos rūšis egzistavo Lenkijoje) ir ilgainiui jų skirtumai\nbeveik išnyko. Dėvėdavo šarvinius marškinius, o xvii a. ir kirasą.\n\nSapiegų pajėgos\n\nKitą dieną iš Vilniaus, kurio apylinkėse\n\nir buvo sutelktos, pro Panerius ir Vokę\nValkininkų kryptimi išžygiavo Sapiegų\npajėgos."
+  citata_rodoma: |
+    panceriniais raiteliais (ši kavalerijos rūšis egzistavo Lenkijoje) ir ilgainiui jų skirtumai
+    beveik išnyko. Dėvėdavo šarvinius marškinius, o xvii a. ir kirasą.
+
+    Sapiegų pajėgos
+
+    Kitą dieną iš Vilniaus, kurio apylinkėse
+
+    ir buvo sutelktos, pro Panerius ir Vokę
+    Valkininkų kryptimi išžygiavo Sapiegų
+    pajėgos.
   statusas: verified
   atnaujinta: "2026-07-14 08:50"
 
@@ -428,7 +451,11 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     kijoje), Gardino, Slonimo, Polocko, Sarijos, Derečino (šiandieninėje Baltarusijoje), Lvovo,
     Letičevo (šiandieninėje Ukrainoje) ir daugelio kitų vietovių. Visgi Vilnius, Antakalnis,
     Paneriai, Riešė, kaip laiškų sukūrimo ir išsiuntimo vietos, būdavo minimos dažniausiai.
-  citata_rodoma: "J. Lopacinskis rašydavo ir iš Varšuvos, Poznanės, Losko, Kocko (Len-\nkijoje), Gardino, Slonimo, Polocko, Sarijos, Derečino (šiandieninėje Baltarusijoje), Lvovo, \nLetičevo (šiandieninėje Ukrainoje) ir daugelio kitų vietovių. Visgi Vilnius, Antakalnis, \nPaneriai, Riešė, kaip laiškų sukūrimo ir išsiuntimo vietos, būdavo minimos dažniausiai."
+  citata_rodoma: |
+    J. Lopacinskis rašydavo ir iš Varšuvos, Poznanės, Losko, Kocko (Len-
+    kijoje), Gardino, Slonimo, Polocko, Sarijos, Derečino (šiandieninėje Baltarusijoje), Lvovo,
+    Letičevo (šiandieninėje Ukrainoje) ir daugelio kitų vietovių. Visgi Vilnius, Antakalnis,
+    Paneriai, Riešė, kaip laiškų sukūrimo ir išsiuntimo vietos, būdavo minimos dažniausiai.
   statusas: verified
   atnaujinta: "2026-07-14 08:49"
   teiginio_tipas: faktas

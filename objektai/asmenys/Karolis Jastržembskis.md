@@ -65,7 +65,7 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    1863-1864 m. sukilėlių vėliava
+    sukilėlių vėliava
 
     200 sukilėlių būrys, vadovaujamas dimisi-
     jos karininko Karolio Jastržembskio, susi-
@@ -75,7 +75,17 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
     kautis nepatogioje vietovėje. Žuvo apie
 
     30 sukilėlių ir pats būrio vadas.
-  citata_rodoma: "sukilėlių vėliava\n\n200 sukilėlių būrys, vadovaujamas dimisi-\njos karininko Karolio Jastržembskio, susi-\nkovė su gen. mjr. Suchodolskio kavalerijos\ndaliniu. Rusams pavyko atkirsti sukilėlius,\nbesitraukiančius miško link ir priversti\nkautis nepatogioje vietovėje. Žuvo apie\n\n30 sukilėlių ir pats būrio vadas."
+  citata_rodoma: |
+    sukilėlių vėliava
+
+    200 sukilėlių būrys, vadovaujamas dimisi-
+    jos karininko Karolio Jastržembskio, susi-
+    kovė su gen. mjr. Suchodolskio kavalerijos
+    daliniu. Rusams pavyko atkirsti sukilėlius,
+    besitraukiančius miško link ir priversti
+    kautis nepatogioje vietovėje. Žuvo apie
+
+    30 sukilėlių ir pats būrio vadas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

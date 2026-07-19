@@ -118,7 +118,14 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     minėjo J. Dlugošas ir M. Strijkovskis), ir ola - „požeminis ur­
     vas“. Ar tik ši „etimologija“ nerodo, kaip vardas Nijolė buvo
     sukurtas?
-  citata_rodoma: "O\nšią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse\ntam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,\nkauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš\nviso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­\ntas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­\ndą Milda."
+  citata_rodoma: |
+    O
+    šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
+    tam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,
+    kauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš
+    viso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­
+    tas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­
+    dą Milda.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

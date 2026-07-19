@@ -149,7 +149,15 @@ Nenurodyta
     rausiąs taikai, jeigu magistras asmeniškai jos paprašy­
     siąs ir kuo greičiausiai paleisiąs iš kalėjimo bei sugrą­
     žinsiąs į sostą arkivyskupą.
-  citata_rodoma: "Maskvėnai, į šį žygį patraukę\nsu šimtu dvidešimt tūkstančių vyrų, netrukus užėmė\ndidelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.\nViljandyje į priešų rankas pakliuvo pats magistras Fiur-\nstenbergas, bet niekur neradau parašyta, ar gyvas, ar\nžuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei\napygardos valdytoją Dorpato vyskupą ir visą dvasinin­\nkų kolegiją."
+  citata_rodoma: |
+    Maskvėnai, į šį žygį patraukę
+    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
+    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
+    Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
+    stenbergas, bet niekur neradau parašyta, ar gyvas, ar
+    žuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
+    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
+    kų kolegiją.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

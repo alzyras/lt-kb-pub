@@ -211,7 +211,15 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
     siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
-  citata_rodoma: "Ketvirta­\nme skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu\nšalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio\nkamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­\nko kažką panašaus į pasagą. Nenuginčijamai tai turėtų būti\nvalstybės antrosios sostinės, arba Vilniaus, herbas. Šis riteris,\nišskyrus, kad jam trūksta moters ant pečių, labai panašus į Al­\nėj, kurį laikėme Vilniaus miesto herbu."
+  citata_rodoma: |
+    Ketvirta­
+    me skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu
+    šalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio
+    kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­
+    ko kažką panašaus į pasagą. Nenuginčijamai tai turėtų būti
+    valstybės antrosios sostinės, arba Vilniaus, herbas. Šis riteris,
+    išskyrus, kad jam trūksta moters ant pečių, labai panašus į Al­
+    ėj, kurį laikėme Vilniaus miesto herbu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

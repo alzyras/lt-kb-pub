@@ -193,7 +193,16 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     Lenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu
     nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba. Kai šitai buvo padaryta, 1244 atvyko
     brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
-  citata_rodoma: "Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis\n\n   Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop\npaklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis\naplinkybėmis, kuris patarė pasiųsti Austrijos kunigaikščiui Mstivojų, Sventopelko sūnų,\nkaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir\nLenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu\nnepaskubėsianti ateiti ir dieviškoji, ir jų pagalba. Kai šitai buvo padaryta, 1244 atvyko\nbrolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos."
+  citata_rodoma: |
+    Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
+
+       Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
+    paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis
+    aplinkybėmis, kuris patarė pasiųsti Austrijos kunigaikščiui Mstivojų, Sventopelko sūnų,
+    kaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir
+    Lenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu
+    nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba. Kai šitai buvo padaryta, 1244 atvyko
+    brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -220,7 +229,19 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
     šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
     palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
-  citata_rodoma: "Dėl to,\nbrolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių\nsutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,\no įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei\nsavo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo\nevangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,\nir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš\ntai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu\npatvirtintą277. Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė\nsurasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;\nšios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai\npalaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu."
+  citata_rodoma: |
+    Dėl to,
+    brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
+    sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,
+    o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei
+    savo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo
+    evangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,
+    ir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš
+    tai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu
+    patvirtintą277. Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė
+    surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
+    šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
+    palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -242,7 +263,16 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą
     jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.
     krante žemiau Nogato atsišakojimo.
-  citata_rodoma: "Mstivojus, Pomeranijos kunigaikštis, anksčiau\nnelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,\npaliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą\ntarp jo ir magistro bei brolių taikos susitarimą.\n\n\n\n\n               130 (125)."
+  citata_rodoma: |
+    Mstivojus, Pomeranijos kunigaikštis, anksčiau
+    nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,
+    paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą
+    tarp jo ir magistro bei brolių taikos susitarimą.
+
+
+
+
+                   130 (125).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -261,7 +291,12 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
     ordino broliams Prūsijoje.
-  citata_rodoma: "Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis\n\n  Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,\nturėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,\nSamborą, Vartislavą bei dar vieną507."
+  citata_rodoma: |
+    Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
+
+      Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
+    turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,
+    Samborą, Vartislavą bei dar vieną507.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -284,7 +319,13 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
     skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
     (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
-  citata_rodoma: "Sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus\nmetus išlaikė savo valdžioje prieš brolių valią. Galop atvyko jo šventenybė Pilypas, Fermo\nvyskupas, apaštališkojo sosto legatas, atsiųstas  į Lenkijos žemę, ir brolis Konradas iš\nTirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams\nskriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,\n(SRP, 1, p."
+  citata_rodoma: |
+    Sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus
+    metus išlaikė savo valdžioje prieš brolių valią. Galop atvyko jo šventenybė Pilypas, Fermo
+    vyskupas, apaštališkojo sosto legatas, atsiųstas  į Lenkijos žemę, ir brolis Konradas iš
+    Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
+    skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
+    (SRP, 1, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -305,7 +346,14 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     Nojenburgo pilį401; prūsai nuo vieno Vyslos kranto, o Nojenburgo pilėnai nuo kito užpuolė
     penkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;
     galop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę.
-  citata_rodoma: "Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Tėvui\nmirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo\neiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti\nir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo prieš jo\nNojenburgo pilį401; prūsai nuo vieno Vyslos kranto, o Nojenburgo pilėnai nuo kito užpuolė\npenkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;\ngalop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę."
+  citata_rodoma: |
+    Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Tėvui
+    mirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo
+    eiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti
+    ir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo prieš jo
+    Nojenburgo pilį401; prūsai nuo vieno Vyslos kranto, o Nojenburgo pilėnai nuo kito užpuolė
+    penkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;
+    galop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

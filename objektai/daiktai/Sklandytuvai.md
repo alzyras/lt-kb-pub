@@ -94,7 +94,8 @@ Nenurodyta
     reikalams.
     Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
     tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
-  citata_rodoma: "fiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktu-"
+  citata_rodoma: |
+    fiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktu-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

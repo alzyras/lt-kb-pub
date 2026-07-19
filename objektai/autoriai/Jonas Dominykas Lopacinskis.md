@@ -100,7 +100,9 @@ Jono Dominyko Lopacinskio gausi asmeninė korespondencija straipsnyje pateikiama
     etapas – tarnystės Vilniuje kapituloje metai. Tai buvo laikotarpis, nulėmęs tolimesnę
     šios asmenybės karjerą. Apie minėtąjį dvasininką – jo mintis ir siekius – sužinoti leidžia
     gausi jo asmeninė korespondencija.
-  citata_rodoma: "Apie minėtąjį dvasininką – jo mintis ir siekius – sužinoti leidžia \ngausi jo asmeninė korespondencija."
+  citata_rodoma: |
+    Apie minėtąjį dvasininką – jo mintis ir siekius – sužinoti leidžia
+    gausi jo asmeninė korespondencija.
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas

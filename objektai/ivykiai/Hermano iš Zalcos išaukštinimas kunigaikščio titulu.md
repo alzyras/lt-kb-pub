@@ -82,7 +82,17 @@ Nenurodyta
     Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
     turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
     pasitarnavo, draugiškai vieną su kitu taikydamas.
-  citata_rodoma: "Kartą, kai popiežius Honorijus III\nir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu\npatikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,\ntvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats\nesąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada\njo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė\nkunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.\nKaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę\nturėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem\npasitarnavo, draugiškai vieną su kitu taikydamas."
+  citata_rodoma: |
+    Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
+    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
+    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
+    Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
+    turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
+    pasitarnavo, draugiškai vieną su kitu taikydamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -106,7 +116,18 @@ Nenurodyta
     esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
     jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
     kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-  citata_rodoma: "Kai venedai buvo smarkiai sutramdyti po maišto, sukelto\nprieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį\nšventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo\nruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl\ndažnų stebuklų, kuriuos viešpats padaro per tą kryžių. Kartą, kai popiežius Honorijus III\nir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu\npatikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,\ntvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats\nesąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada\njo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė\nkunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams."
+  citata_rodoma: |
+    Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių. Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
+    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
+    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

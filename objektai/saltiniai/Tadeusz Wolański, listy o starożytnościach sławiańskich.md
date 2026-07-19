@@ -71,7 +71,10 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
     šyti šių žemių ribų, tačiau, apskritai pažymėję jas žemė­
     lapyje, pereisime prie detalaus kiekvienos genties apra­
     šymo.
-  citata_rodoma: "Julijaus Cezario laikais lietuvių var­\ndas buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza\nWolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*."
+  citata_rodoma: |
+    Julijaus Cezario laikais lietuvių var­
+    das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
+    Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

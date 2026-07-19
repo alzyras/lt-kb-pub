@@ -151,7 +151,22 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
     trukus ateiviai ir vietiniai gyventojai visiškai susivie­
     nijo: abi tautos panoro turėti bendrą valstybę, o lie­
     tuviai patys netgi sutiko pasiduoti ateivių valdžiai.
-  citata_rodoma: "Toji sodyba, tada vadinama R om a n o va , paskui\nRomnove bei Romove, vėliau tapo vyriausiojo lietuvių\nžynio Krivės Krivaičio būstine, kurią, Gediminui vieš-\npataujaut, iš pamatų išgriovė vokiečių ordino vienuo­\nliai riteriai, paprastai vadinami kryžiuočiais. Gerokai\npasistūmėję tolyn, jie persikėlė per Nevėžio upę ir\nnusigavo į vietas, kur gyveno alanai, arba lietuviai.\nTen, negaišdami pasidarę įtvirtinimus, įkurdino juose\n60\n\n## Puslapis 59\n\nįgulas, kurios galėtų sėkmingai atremti vietinius gy­\nventojus, jeigu šie kartais susimanytų pulti naujuosius\nateivius."
+  citata_rodoma: |
+    Toji sodyba, tada vadinama R om a n o va , paskui
+    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
+    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
+    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
+    liai riteriai, paprastai vadinami kryžiuočiais. Gerokai
+    pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir
+    nusigavo į vietas, kur gyveno alanai, arba lietuviai.
+    Ten, negaišdami pasidarę įtvirtinimus, įkurdino juose
+    60
+
+    ## Puslapis 59
+
+    įgulas, kurios galėtų sėkmingai atremti vietinius gy­
+    ventojus, jeigu šie kartais susimanytų pulti naujuosius
+    ateivius.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

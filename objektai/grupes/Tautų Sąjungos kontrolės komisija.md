@@ -77,7 +77,15 @@ Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareik
     komoji kuopa. 1920 m. lapkričio
     22 d. Giedraičių apylinkėse, pa-
     sibaigus mūšiui su lenkais
-  citata_rodoma: "Lapkričio 21 d. į frontą\natvykusi Tautų Sąjungos kontrolės komi-\nsija pareikalavo nutraukti karo veiksmus\n\nLietuvos kariuomenės 2-ojo\npėstininkų didžiojo Lietuvos\nkunigaikščio Algirdo pulko mo-\nkomoji kuopa."
+  citata_rodoma: |
+    Lapkričio 21 d. į frontą
+    atvykusi Tautų Sąjungos kontrolės komi-
+    sija pareikalavo nutraukti karo veiksmus
+
+    Lietuvos kariuomenės 2-ojo
+    pėstininkų didžiojo Lietuvos
+    kunigaikščio Algirdo pulko mo-
+    komoji kuopa.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

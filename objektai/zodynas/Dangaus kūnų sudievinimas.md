@@ -110,7 +110,15 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
     Saulė aptemdavo. Latviai šį nutikimą vadina Majtaszana arba
     Saules majtaszana, Saulės gadinimu. Tuomet kiekvieną būty­
     bę apimdavo baimė, kad mieloji Saulė nebūtų sunaikinta.
-  citata_rodoma: "Tegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du\nsvarbiausieji dangaus kūnai, į savo giminę įtraukia visus kitus,\nkurie yra jų vaikai."
+  citata_rodoma: |
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du
+    svarbiausieji dangaus kūnai, į savo giminę įtraukia visus kitus,
+    kurie yra jų vaikai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

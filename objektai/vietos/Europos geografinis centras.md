@@ -178,7 +178,11 @@ Nenurodyta
     cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
     gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
-  citata_rodoma: "Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-\ntarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines\nGraikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta\nLietuvoje, kurioje ir yra geografinis Europos centras."
+  citata_rodoma: |
+    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
+    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
+    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
+    Lietuvoje, kurioje ir yra geografinis Europos centras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

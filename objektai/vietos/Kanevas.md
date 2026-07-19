@@ -131,7 +131,16 @@ media_all_json: |-
     įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.,
     pastaraisiais dešimtmečiais akcentuotos
     dvi priešpaskutinės datos. Tarptautinių
-  citata_rodoma: "(į šiaurę nuo Kijevo), Kanevas, Cerkasai\n(prie Dniepro žemiau Kijevo; xvi a. vidu-\nrio Kanevo pilies aprašo išlikusiame pa-\ndavime sakoma, kad Kanevą su Čerkasais\nįkūrė Gediminas).\n\nGedimino žygis, mūšis prie Irpenės ir\nKijevo užėmimas istoriografijoje datuotas\nįvairiai, 1320-1321, 1322, 1323, 1324, 1333 m."
+  citata_rodoma: |
+    (į šiaurę nuo Kijevo), Kanevas, Cerkasai
+    (prie Dniepro žemiau Kijevo; xvi a. vidu-
+    rio Kanevo pilies aprašo išlikusiame pa-
+    davime sakoma, kad Kanevą su Čerkasais
+    įkūrė Gediminas).
+
+    Gedimino žygis, mūšis prie Irpenės ir
+    Kijevo užėmimas istoriografijoje datuotas
+    įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -161,7 +170,20 @@ media_all_json: |-
     Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
     mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
     džioje.
-  citata_rodoma: "Visi luo­\nmai, išėję iš miesto, sveikino\nnugalėtoją\nGediminą\nkaip\nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo\nvaldžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio."
+  citata_rodoma: |
+    Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

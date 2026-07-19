@@ -112,7 +112,12 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
     istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­
     mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­
     tekos turtus.
-  citata_rodoma: "Daukanto viršinin­\nkas. Vilniaus praeities žinovas Mikalojus Malinovskis padėjo \nistorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­\nmas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­\ntekos turtus."
+  citata_rodoma: |
+    Daukanto viršinin­
+    kas. Vilniaus praeities žinovas Mikalojus Malinovskis padėjo
+    istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­
+    mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­
+    tekos turtus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

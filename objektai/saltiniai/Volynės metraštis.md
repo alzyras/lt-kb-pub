@@ -125,7 +125,13 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
     anksto žinodami, jog lietuviai susirengė į žygį, kelias dienas jų laukė su kariuomene,
     tačiau pabodus laukti, nes šie kelyje užtruko ilgiau nei paprastai, išsisklaidę sugrįžo
     namo.
-  citata_rodoma: "Galop atvyko jo šventenybė Pilypas, Fermo\nvyskupas, apaštališkojo sosto legatas, atsiųstas  į Lenkijos žemę, ir brolis Konradas iš\nTirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams\nskriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,\n(SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб. 810, 833, 870);\nZilija (Būga К., 3, p. 149 ir kt.)."
+  citata_rodoma: |
+    Galop atvyko jo šventenybė Pilypas, Fermo
+    vyskupas, apaštališkojo sosto legatas, atsiųstas  į Lenkijos žemę, ir brolis Konradas iš
+    Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
+    skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
+    (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб. 810, 833, 870);
+    Zilija (Būga К., 3, p. 149 ir kt.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -145,7 +151,10 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
     vardu Zilija504. Ši kariuomenė buvo tokia didelė, kad ji nusidriekė per daugelį mylių. Ji
     503  Turbūt į Lietuvos valstybės teritoriją, gal į Gardino apylinkes (plg. D. III, 217, 219,
     223).
-  citata_rodoma: "501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis —\nKrismence (ПСРЛ, 2, стб. 833); 1259 m. Mindaugo dokumente Cresmen (PUB, 1, 2,\nNr. 79; LIS 1 p. 47)."
+  citata_rodoma: |
+    501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis —
+    Krismence (ПСРЛ, 2, стб. 833); 1259 m. Mindaugo dokumente Cresmen (PUB, 1, 2,
+    Nr. 79; LIS 1 p. 47).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

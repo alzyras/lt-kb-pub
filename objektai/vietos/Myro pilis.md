@@ -62,7 +62,8 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
     (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
     pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
     je, tai yra europinės reikšmės riba.
-  citata_rodoma: "Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje"
+  citata_rodoma: |
+    Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

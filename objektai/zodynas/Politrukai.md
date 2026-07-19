@@ -72,7 +72,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
     miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
     atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir
     trukdant politrukams.
-  citata_rodoma: "miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai"
+  citata_rodoma: |
+    miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

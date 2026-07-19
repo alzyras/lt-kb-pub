@@ -56,7 +56,8 @@ Dusburgietis teigia, kad mažiulis V.
   citata_originali: |
     Mažiulis V. Pasaulio tautų kalbos.—V., 1979.
     Mažiulis V. Rec: B. H. Топоров.
-  citata_rodoma: "Mažiulis V. Pasaulio tautų kalbos.—V., 1979."
+  citata_rodoma: |
+    Mažiulis V. Pasaulio tautų kalbos.—V., 1979.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

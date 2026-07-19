@@ -91,7 +91,12 @@ Nenurodyta
     kad visos vaidilutės buvo nesenos. O tos, kurios norėjo tar­
     nauti dievams pasibaigus skirtam laikui, pasitraukdavo į nuo­
     šalias vietas, kur tapdavo ypatingomis pranašautojomis34.
-  citata_rodoma: "Pūtikai (Pustones)\nYpatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­\ntimu. Iš to taip pat kilęs jų pavadinimas, kuris reiškia putėją.\nPasak padavimų, kuriais paprasti žmonės tiki iki šiol, pūtikas\ngalėjo žodžiais sulaikyti kraują, tekantį iš perkirstos gyslos."
+  citata_rodoma: |
+    Pūtikai (Pustones)
+    Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­
+    timu. Iš to taip pat kilęs jų pavadinimas, kuris reiškia putėją.
+    Pasak padavimų, kuriais paprasti žmonės tiki iki šiol, pūtikas
+    galėjo žodžiais sulaikyti kraują, tekantį iš perkirstos gyslos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

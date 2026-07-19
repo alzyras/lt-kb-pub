@@ -160,7 +160,8 @@ media_all_json: |-
     1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
     giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
     kuris įtikėjo ir krikštijosi.
-  citata_rodoma: "giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,"
+  citata_rodoma: |
+    giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -180,7 +181,8 @@ media_all_json: |-
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: "jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo"
+  citata_rodoma: |
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

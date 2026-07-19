@@ -75,7 +75,10 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
     aplankė Vytautą. Rado čia ir Vytauto sekretorių ar kanclerį
     Mikalojų Sapienskį^1 ). Tuojau Romos ciesorius ir patiekė Vy­
     tautui jo karūnacijos projektą.
-  citata_rodoma: "Rado čia ir Vytauto sekretorių ar kanclerį\nMikalojų Sapienskį^1 ). Tuojau Romos ciesorius ir patiekė Vy­\ntautui jo karūnacijos projektą."
+  citata_rodoma: |
+    Rado čia ir Vytauto sekretorių ar kanclerį
+    Mikalojų Sapienskį^1 ). Tuojau Romos ciesorius ir patiekė Vy­
+    tautui jo karūnacijos projektą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -95,7 +98,12 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
     król Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli! się
     wnieść na królewską godność, a z księstwa Litewskiego nowe uczynić
     królewstwo“.
-  citata_rodoma: "(^3) ) M. Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­\nkė: „Nalega na pana mojego, ksiąźecia Witolda“, Zygmunt Jego Miłość\nkról Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli! się\nwnieść na królewską godność, a z księstwa Litewskiego nowe uczynić\nkrólewstwo“."
+  citata_rodoma: |
+    (^3) ) M. Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­
+    kė: „Nalega na pana mojego, ksiąźecia Witolda“, Zygmunt Jego Miłość
+    król Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli! się
+    wnieść na królewską godność, a z księstwa Litewskiego nowe uczynić
+    królewstwo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

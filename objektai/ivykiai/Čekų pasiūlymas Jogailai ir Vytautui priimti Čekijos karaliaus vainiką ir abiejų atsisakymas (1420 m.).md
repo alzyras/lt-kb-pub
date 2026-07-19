@@ -160,7 +160,34 @@ Nenurodyta
     karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
     myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
     prieš imperatoriaus galybę.
-  citata_rodoma: "Atsiuntė garbingus žygūnus pats Edi- \ngejus, Tauridės valdovas, didžiai išgarsėjęs kovose su \nlietuviais bei rusais, ir susidraugavo su Vytautu, be to, \nsudarytu susitarimu iškilmingai pažadėjo savo ištiki­\nmybę, amžiną taiką ir pagalbą kovojant su visokiais \npriešais.\nPo šių žygių garsas apie Vytauto pergales pasklido\ntarpu imperatorius Zigmantas \napsiėmė tarpininkauti ir išspręsti jau keletą metų už­\nsitęsusį lenkų ir kryžiuočių ginčą dėl kurių ne kurių \nžemių, nes, siaučiant dažnoms kovoms bei rietenoms, \nvargu ar galima buvo kitaip nustelbti šio be galo dai­\ngaus karo želmenį. Jogaila\n1419 m e ta i \nir Vytautas, įsitikinę, jog len­\nkų reikalavimai teisėti, neat­\nmetė šitokios galimybės ginčui išspręsti. Kai paaiškėjo, \nkad imperatoriaus sprendimai nesiremia teisingumu, \nkad jo skelbiamos ištarmės pažeidžia net moralės nor­\nmas, jie atsisakė jo tarpinin-\n1420 m e ta i \nkavimo ir pasiryžo ginklu įro-\nkilusių tikybinių nesutarimų čekai atsisakė klausyti \nRomos bažnyčios, pradėjo atvirai maištauti prieš savo \nkaralių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­\nmyninėse šalyse jėgų, kuriomis galėtų remtis kovoje \nprieš imperatoriaus galybę."
+  citata_rodoma: |
+    Atsiuntė garbingus žygūnus pats Edi-
+    gejus, Tauridės valdovas, didžiai išgarsėjęs kovose su
+    lietuviais bei rusais, ir susidraugavo su Vytautu, be to,
+    sudarytu susitarimu iškilmingai pažadėjo savo ištiki­
+    mybę, amžiną taiką ir pagalbą kovojant su visokiais
+    priešais.
+    Po šių žygių garsas apie Vytauto pergales pasklido
+    tarpu imperatorius Zigmantas
+    apsiėmė tarpininkauti ir išspręsti jau keletą metų už­
+    sitęsusį lenkų ir kryžiuočių ginčą dėl kurių ne kurių
+    žemių, nes, siaučiant dažnoms kovoms bei rietenoms,
+    vargu ar galima buvo kitaip nustelbti šio be galo dai­
+    gaus karo želmenį. Jogaila
+    1419 m e ta i
+    ir Vytautas, įsitikinę, jog len­
+    kų reikalavimai teisėti, neat­
+    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
+    kad imperatoriaus sprendimai nesiremia teisingumu,
+    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
+    mas, jie atsisakė jo tarpinin-
+    1420 m e ta i
+    kavimo ir pasiryžo ginklu įro-
+    kilusių tikybinių nesutarimų čekai atsisakė klausyti
+    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
+    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
+    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
+    prieš imperatoriaus galybę.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -189,7 +216,23 @@ Nenurodyta
 
     atsakyti. Nuodugniau apsvarstęs padėtį, jis vis dėlto
     taip pat atmetė čekų siūlymus.
-  citata_rodoma: "Prisi­\njungus šioms tautoms, taip išaugsiančios valstybės\njėgos, jog jų visiškai pakaksią sutramdyti ir imperato­\nriui Zigmantui, už kurį vargu ar kas esąs priešiškesnis\nlenkų tautai, ir kryžiuočiams. Rodėsi, jog jie kalba tei­\nsingai, jog tai, ką jie siūlo, tikrai naudinga, tačiau ka­\nralius po senovei atsikalbinėjo; Vytautas, kur kas la­\nbiau už jį trokšdamas šlovės ir karaliaus vainiko, ilgą\nlaiką dvejojo, nežinodamas, ar priimti, ar atmesti jų\npasiūlymus, ir dėl to vengė aiškiai pasiuntiniams\nm\n\n## Puslapis 400\n\natsakyti. Nuodugniau apsvarstęs padėtį, jis vis dėlto\ntaip pat atmetė čekų siūlymus."
+  citata_rodoma: |
+    Prisi­
+    jungus šioms tautoms, taip išaugsiančios valstybės
+    jėgos, jog jų visiškai pakaksią sutramdyti ir imperato­
+    riui Zigmantui, už kurį vargu ar kas esąs priešiškesnis
+    lenkų tautai, ir kryžiuočiams. Rodėsi, jog jie kalba tei­
+    singai, jog tai, ką jie siūlo, tikrai naudinga, tačiau ka­
+    ralius po senovei atsikalbinėjo; Vytautas, kur kas la­
+    biau už jį trokšdamas šlovės ir karaliaus vainiko, ilgą
+    laiką dvejojo, nežinodamas, ar priimti, ar atmesti jų
+    pasiūlymus, ir dėl to vengė aiškiai pasiuntiniams
+    m
+
+    ## Puslapis 400
+
+    atsakyti. Nuodugniau apsvarstęs padėtį, jis vis dėlto
+    taip pat atmetė čekų siūlymus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -182,7 +182,15 @@ Nenurodyta
     mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
     dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
     su daiktais nesudeginti.
-  citata_rodoma: "Aisčiai manė, kad mirusiam žmogui būsią\nreikalinga turėti tų pačių reikmenių ir įrankių, kuriuos turėjęs\nšiame pasauly. Todėl, laidodami lavonus, jie įdėdavo į kapą įvai-\nrių daiktų: pabalnotų arklių, ginklų, papuošalų ir kitko. Tik pat-\nsai laidojimo būdas buvo nevienodas. Vieni žmonės, ypač žy-\nmesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-\ndojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami\nsu daiktais nesudeginti."
+  citata_rodoma: |
+    Aisčiai manė, kad mirusiam žmogui būsią
+    reikalinga turėti tų pačių reikmenių ir įrankių, kuriuos turėjęs
+    šiame pasauly. Todėl, laidodami lavonus, jie įdėdavo į kapą įvai-
+    rių daiktų: pabalnotų arklių, ginklų, papuošalų ir kitko. Tik pat-
+    sai laidojimo būdas buvo nevienodas. Vieni žmonės, ypač žy-
+    mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
+    dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
+    su daiktais nesudeginti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -202,7 +210,14 @@ Nenurodyta
     sios šventės, vadinamosios vėlinės; tuomet joms būdavo
     aukojamos įvairios aukos. Vėlėms kiekvienos puotos metu že-
     mėn būdavo nuliejama gėrimų ir numetama maisto.
-  citata_rodoma: "Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo\nšeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar\nmedžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų\nglobėjos. Todėl būdavo ruošiamos specialios vėlių garbinamo-\nsios šventės, vadinamosios vėlinės; tuomet joms būdavo\naukojamos įvairios aukos. Vėlėms kiekvienos puotos metu že-\nmėn būdavo nuliejama gėrimų ir numetama maisto."
+  citata_rodoma: |
+    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
+    šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
+    medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
+    globėjos. Todėl būdavo ruošiamos specialios vėlių garbinamo-
+    sios šventės, vadinamosios vėlinės; tuomet joms būdavo
+    aukojamos įvairios aukos. Vėlėms kiekvienos puotos metu že-
+    mėn būdavo nuliejama gėrimų ir numetama maisto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -221,7 +236,13 @@ Nenurodyta
     turtingųjų ir « kunigų » net iki pusės metų), per tą laiką iš įniru­
     siojo turto keldavę puotas. Jeigu kas likdavo, buvo išbaigiama
     dalybomis per arklių lenktynes (SRP, I, 735-5).
-  citata_rodoma: "Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius.\n«Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių\nmetu. Nesudegintą lavoną laikydami du mėnesius ir daugiau (o\nturtingųjų ir « kunigų » net iki pusės metų), per tą laiką iš įniru­\nsiojo turto keldavę puotas. Jeigu kas likdavo, buvo išbaigiama\ndalybomis per arklių lenktynes (SRP, I, 735-5)."
+  citata_rodoma: |
+    Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius.
+    «Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių
+    metu. Nesudegintą lavoną laikydami du mėnesius ir daugiau (o
+    turtingųjų ir « kunigų » net iki pusės metų), per tą laiką iš įniru­
+    siojo turto keldavę puotas. Jeigu kas likdavo, buvo išbaigiama
+    dalybomis per arklių lenktynes (SRP, I, 735-5).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -243,7 +264,15 @@ Nenurodyta
     priklausė jo užsiėmimui. Mat, visi tokie daiktai kartu su jais,
     pagal jų tikėjimą, turėjo prisikelti iš numirusių ir tarnauti
     toliau, kaip anksčiau tarnavo”1 2).
-  citata_rodoma: "Dėl to buvo paprotys, kad mirus kilmingam žmo­\ngui (edelin) ginklus ir arklį, tarnus (knechte), moteris (meide),\nbrangius apdarus, kurtus ir sakalus ir daug kitų padargų, rei­\nkalingų karo žygyje buvo sudeginama kartu su lavonu. Taip\npat su paprasto žmogaus lavonu buvo deginama visa, kas\npriklausė jo užsiėmimui. Mat, visi tokie daiktai kartu su jais,\npagal jų tikėjimą, turėjo prisikelti iš numirusių ir tarnauti\ntoliau, kaip anksčiau tarnavo”1 2)."
+  citata_rodoma: |
+    Dėl to buvo paprotys, kad mirus kilmingam žmo­
+    gui (edelin) ginklus ir arklį, tarnus (knechte), moteris (meide),
+    brangius apdarus, kurtus ir sakalus ir daug kitų padargų, rei­
+    kalingų karo žygyje buvo sudeginama kartu su lavonu. Taip
+    pat su paprasto žmogaus lavonu buvo deginama visa, kas
+    priklausė jo užsiėmimui. Mat, visi tokie daiktai kartu su jais,
+    pagal jų tikėjimą, turėjo prisikelti iš numirusių ir tarnauti
+    toliau, kaip anksčiau tarnavo”1 2).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -262,7 +291,12 @@ Nenurodyta
     vieji, rūpindamiesi vėlių likimu, šaukdavosi į Žeminę, nuliedami
     jai gėrimo ar numesdami valgio, ypač vėlinių dienomis. Ti­
     kėta vėles pereinant į gyvulius, medžius ir kitus gamtos kūnus.
-  citata_rodoma: "Kur ir kaip vėlės aname pasauly laikėsi ir patiems tikin­\ntiesiems nebuvo aišku. Būta kažkokios dausų sąvokos. Gy­\nvieji, rūpindamiesi vėlių likimu, šaukdavosi į Žeminę, nuliedami\njai gėrimo ar numesdami valgio, ypač vėlinių dienomis. Ti­\nkėta vėles pereinant į gyvulius, medžius ir kitus gamtos kūnus."
+  citata_rodoma: |
+    Kur ir kaip vėlės aname pasauly laikėsi ir patiems tikin­
+    tiesiems nebuvo aišku. Būta kažkokios dausų sąvokos. Gy­
+    vieji, rūpindamiesi vėlių likimu, šaukdavosi į Žeminę, nuliedami
+    jai gėrimo ar numesdami valgio, ypač vėlinių dienomis. Ti­
+    kėta vėles pereinant į gyvulius, medžius ir kitus gamtos kūnus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -278,7 +312,10 @@ Nenurodyta
     Patobulėjo ginklų, įrankių ir papuošalų formos.
     Mirusiųjų kapai ėmė darytis žymiai turtingesni. Išpuošiami net
     drauge pakasami žirgai.
-  citata_rodoma: "Patobulėjo ginklų, įrankių ir papuošalų formos.\nMirusiųjų kapai ėmė darytis žymiai turtingesni. Išpuošiami net\ndrauge pakasami žirgai."
+  citata_rodoma: |
+    Patobulėjo ginklų, įrankių ir papuošalų formos.
+    Mirusiųjų kapai ėmė darytis žymiai turtingesni. Išpuošiami net
+    drauge pakasami žirgai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -304,7 +341,16 @@ Nenurodyta
     genčių; jų kalba buvo labiau gimininga slavų kalbai:
     Slėceris šias dvi kalbas skelbia esant antro giminystės
     laipsnio.
-  citata_rodoma: "Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo\nsu krivičiais, o ne krivičių Smolenską, nes iš daugelio\ntos genties šakų lengvai galėjo atsirasti viena, kuri, kaip\nir Polocko, galėjo būti palankesnė rusams ir prisidėti\nprie Olego.\nBe to, reikia pridurti nors ir nepilną, tačiau Nestoro\nišsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­\njų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių\nmetu rengdavo turnyrus."
+  citata_rodoma: |
+    Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
+    su krivičiais, o ne krivičių Smolenską, nes iš daugelio
+    tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
+    ir Polocko, galėjo būti palankesnė rusams ir prisidėti
+    prie Olego.
+    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
+    išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
+    jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
+    metu rengdavo turnyrus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

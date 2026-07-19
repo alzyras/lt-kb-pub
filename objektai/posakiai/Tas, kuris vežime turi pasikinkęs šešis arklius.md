@@ -94,7 +94,13 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
     Kadangi mitologiniai metai prasidėdavo nuo balandžio, tai juos
     išvardysime šia tvarka:
     1.
-  citata_rodoma: "Tokios priesaikos turėjo būti žinomos jau labai senais lai­\nkais, o po unijos jas pažino ir lenkai, nes labai sena patarlė sa­\nko: „ Tas, kuris vežime turi pasikinkęs šešis arklius, kuris dėžutėje\nturi tūkstantį dukatų, o priešininką -  už dviejų mylių, tas gali\ndrésiai dėti kepurę ant stalo“'9. Tai išrašyta iš XVI amžiaus vie­\ntinių dokumentų18 19 20."
+  citata_rodoma: |
+    Tokios priesaikos turėjo būti žinomos jau labai senais lai­
+    kais, o po unijos jas pažino ir lenkai, nes labai sena patarlė sa­
+    ko: „ Tas, kuris vežime turi pasikinkęs šešis arklius, kuris dėžutėje
+    turi tūkstantį dukatų, o priešininką -  už dviejų mylių, tas gali
+    drésiai dėti kepurę ant stalo“'9. Tai išrašyta iš XVI amžiaus vie­
+    tinių dokumentų18 19 20.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

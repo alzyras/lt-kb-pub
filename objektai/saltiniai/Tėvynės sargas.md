@@ -71,7 +71,13 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
     nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
     jos ir geranoriškumo įsikūnijimas.
-  citata_rodoma: "Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-\nsi rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,\nužėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo\n1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-\nnas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-\njos ir geranoriškumo įsikūnijimas."
+  citata_rodoma: |
+    Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
+    si rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,
+    užėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo
+    1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
+    nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
+    jos ir geranoriškumo įsikūnijimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

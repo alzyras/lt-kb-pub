@@ -106,7 +106,13 @@ Nenurodyta
     savo kariuomene, atplaukusia pasroviui iš Kulmo, negali prie jų prieiti, nes juos skyrė
     gili upė286, atgavo drąsą ir sugrįžo su savaisiais atgal, o matydamas, jog magistras
     rengiasi pulti pilį, paskubomis atstatė tiltą ir pasiuntė 300 vyrų ginti pilies.
-  citata_rodoma: "Kokie keisti, kokie\nbe galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis\nžemino tikėjimą ir tikinčiuosius! Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo\nsosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės\npadėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir\nįsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose."
+  citata_rodoma: |
+    Kokie keisti, kokie
+    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
+    žemino tikėjimą ir tikinčiuosius! Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
+    sosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės
+    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
+    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -120,7 +126,7 @@ Nenurodyta
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
-    sosto legatą ir didįjį magistrą, pranešdami jiems apie naują karą ir Prūsijos žemės
+    sosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės
     padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
     įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
@@ -128,7 +134,16 @@ Nenurodyta
     didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
     prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
     plaukioti Vysla aukštyn ir žemyn.
-  citata_rodoma: "Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo\nsosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės\npadėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir\nįsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi\nklastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali\ndaryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo\ndidžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti\nprieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams\nplaukioti Vysla aukštyn ir žemyn."
+  citata_rodoma: |
+    Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
+    sosto legatą  ir didįjį magistrą, pranešdami jiems apie naują karą  ir Prūsijos žemės
+    padėtį. Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
+    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

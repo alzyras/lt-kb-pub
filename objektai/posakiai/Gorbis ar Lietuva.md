@@ -63,7 +63,8 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
     Lietuva Vakarams buvo nelengvas.
-  citata_rodoma: "bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar"
+  citata_rodoma: |
+    bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

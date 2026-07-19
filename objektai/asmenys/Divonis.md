@@ -146,7 +146,21 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
     dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
     Dyvaonys, paskutinį kartą Dymonis.
-  citata_rodoma: "Vyrai turi po tris žmonas, bendrauja su jo­\nmis kada ir kur nori nesigėdydami pašalinių, nes tokiuose\ndalykuose jie neturi gėdos, bendrauja su žmonomis bend­\nrai ir pakaitomis; ten, kur yra vyras, turi būti ir žmona,\nir, nors daug turi moterų, vaikų augina mažai.\n171\n\n## Puslapis 169\n\n172\nBitinijos keliautojai turėjo daug laiko visa tai sužinoti,\nnes juos tame krašte užklupo labai sunki žiema; čia jiems\nreikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,\nišskyrus vieną, vardu Divonis1."
+  citata_rodoma: |
+    Vyrai turi po tris žmonas, bendrauja su jo­
+    mis kada ir kur nori nesigėdydami pašalinių, nes tokiuose
+    dalykuose jie neturi gėdos, bendrauja su žmonomis bend­
+    rai ir pakaitomis; ten, kur yra vyras, turi būti ir žmona,
+    ir, nors daug turi moterų, vaikų augina mažai.
+    171
+
+    ## Puslapis 169
+
+    172
+    Bitinijos keliautojai turėjo daug laiko visa tai sužinoti,
+    nes juos tame krašte užklupo labai sunki žiema; čia jiems
+    reikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,
+    išskyrus vieną, vardu Divonis1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

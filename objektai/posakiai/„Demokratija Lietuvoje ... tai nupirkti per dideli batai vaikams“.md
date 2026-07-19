@@ -62,7 +62,8 @@ Demokratija Lietuvoje, pasak A.
     do, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas. Seimas atrodė
     smulk­meniškai besikišantis į vykdomosios valdžios reikalus ir nekompe-
     tentingas.
-  citata_rodoma: "do, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas. Seimas atrodė"
+  citata_rodoma: |
+    do, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas. Seimas atrodė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

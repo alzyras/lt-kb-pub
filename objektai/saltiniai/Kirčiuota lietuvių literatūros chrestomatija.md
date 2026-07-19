@@ -90,7 +90,11 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
     kadangi taisyklingai kirčius tarti tegalima įprasti tik skaitant kir­
     čiuotus tekstus, tai chrestomatija yra labai reikalinga kiekvienam no­
     rinčiam gerai išmokti mūsų rašomosios kalbos. Kaina Lt.
-  citata_rodoma: "Iki šiol dar nė vienos kirčiuotos chrestomatijos neturėjome, o\nkadangi taisyklingai kirčius tarti tegalima įprasti tik skaitant kir­\nčiuotus tekstus, tai chrestomatija yra labai reikalinga kiekvienam no­\nrinčiam gerai išmokti mūsų rašomosios kalbos. Kaina Lt."
+  citata_rodoma: |
+    Iki šiol dar nė vienos kirčiuotos chrestomatijos neturėjome, o
+    kadangi taisyklingai kirčius tarti tegalima įprasti tik skaitant kir­
+    čiuotus tekstus, tai chrestomatija yra labai reikalinga kiekvienam no­
+    rinčiam gerai išmokti mūsų rašomosios kalbos. Kaina Lt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

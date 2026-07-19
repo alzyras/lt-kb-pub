@@ -64,7 +64,14 @@ Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti
     S. Zabielos pranešimą, kad priešas jau tik
     dvi mylios nuo Lietuvos Brastos ir prašė
     paskubėti.
-  citata_rodoma: "Liepos 22 d., kai A. Byševskis jau buvo\nJanove, jis gavo Karo tarybos prie kara-\nliaus nurodymą vykti ne į Lietuvos Brastą,\n\no neleisti Rusijos kariuomenei persikelti\nper Bugą šiauriau, nors ten tokio pavojaus\nnebuvo."
+  citata_rodoma: |
+    Liepos 22 d., kai A. Byševskis jau buvo
+    Janove, jis gavo Karo tarybos prie kara-
+    liaus nurodymą vykti ne į Lietuvos Brastą,
+
+    o neleisti Rusijos kariuomenei persikelti
+    per Bugą šiauriau, nors ten tokio pavojaus
+    nebuvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

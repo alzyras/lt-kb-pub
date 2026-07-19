@@ -61,7 +61,11 @@ Leontovičių ir M.
     kuriedu yra palikę daug studijų ir straipsnių iš Lietuvos valstybės
     teisiniu santykių ir institucijų : E. I. Leontovičių ir M. F.
     Vladimirskį-Budanovą 187.
-  citata_rodoma: "Čia reikia pirmiausia paminėti du žymius teisės istorikus,\nkuriedu yra palikę daug studijų ir straipsnių iš Lietuvos valstybės\nteisiniu santykių ir institucijų : E. I. Leontovičių ir M. F.\nVladimirskį-Budanovą 187."
+  citata_rodoma: |
+    Čia reikia pirmiausia paminėti du žymius teisės istorikus,
+    kuriedu yra palikę daug studijų ir straipsnių iš Lietuvos valstybės
+    teisiniu santykių ir institucijų : E. I. Leontovičių ir M. F.
+    Vladimirskį-Budanovą 187.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

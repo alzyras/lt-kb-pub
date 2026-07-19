@@ -82,7 +82,12 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
     tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš
     abiejų šalių daug sužeistųjų, kai kurie krito nukauti.
-  citata_rodoma: "Apie 3 brolių ir 40 vyrų nužudymą\n\n  Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene\npatraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus\nprūsus."
+  citata_rodoma: |
+    Apie 3 brolių ir 40 vyrų nužudymą
+
+      Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene
+    patraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus
+    prūsus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

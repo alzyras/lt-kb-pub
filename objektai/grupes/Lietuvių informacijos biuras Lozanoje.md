@@ -75,7 +75,8 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
     kai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Ga-
     brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose
     kėlė Lietuvos nepriklausomybės reikalą.
-  citata_rodoma: "brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose"
+  citata_rodoma: |
+    brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

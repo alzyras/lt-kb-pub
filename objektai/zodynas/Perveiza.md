@@ -87,7 +87,8 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
         gadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti
         reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
         žemlionų, arba vyčių.
-  citata_rodoma: "Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą, sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė. Atlikusysis arba išmestasis ir nevaidinusysis ant tos perveizos vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo laikoma karės vėliava tos apykartos;"
+  citata_rodoma: |
+    Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą, sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė. Atlikusysis arba išmestasis ir nevaidinusysis ant tos perveizos vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo laikoma karės vėliava tos apykartos;
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

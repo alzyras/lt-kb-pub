@@ -83,7 +83,14 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
-  citata_rodoma: "Prieš kautynes\n\nSutelkęs stambias pajėgas, gen. L. Želi-\ngovskis lapkričio 17 d. auštant pradėjo\nsavo didžiąją ofenzyvą, puldamas lie-\ntuvių 1-osios pėstininkų divizijos uži-\nmamą barą nuo Nėries iki Dubingių."
+  citata_rodoma: |
+    Prieš kautynes
+
+    Sutelkęs stambias pajėgas, gen. L. Želi-
+    govskis lapkričio 17 d. auštant pradėjo
+    savo didžiąją ofenzyvą, puldamas lie-
+    tuvių 1-osios pėstininkų divizijos uži-
+    mamą barą nuo Nėries iki Dubingių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -100,7 +107,10 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
     Širvintų apylinkėse paima į nelaisvę gen. Itn. S. Nastopką
     su beveik visu I divizijos štabu. Šis prasiveržimas priver-
     čia atsitraukti visą lietuvių frontą.
-  citata_rodoma: "@ Spalio 21 d. lenkų kavalerija apeina lietuvių pozicijas ir\nŠirvintų apylinkėse paima į nelaisvę gen. Itn. S. Nastopką\nsu beveik visu I divizijos štabu."
+  citata_rodoma: |
+    @ Spalio 21 d. lenkų kavalerija apeina lietuvių pozicijas ir
+    Širvintų apylinkėse paima į nelaisvę gen. Itn. S. Nastopką
+    su beveik visu I divizijos štabu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

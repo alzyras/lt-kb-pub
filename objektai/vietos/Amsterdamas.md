@@ -93,7 +93,9 @@ Amsterdamas, 1650 m.
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: "Nuo XIV a. ryčiausias Europoje du amžius\nK. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
+  citata_rodoma: |
+    Nuo XIV a. ryčiausias Europoje du amžius
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +128,12 @@ Amsterdamas, 1650 m.
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: "Taigi Abiejų Tautų Respublika:\n•\t aprūpino Vakarus (per Gdanską į Amsterdamą) javais, \n•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir \nbajoriškosios demokratijos tradiciją, \n•\t Vilnius XVI–XVIII a."
+  citata_rodoma: |
+    Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

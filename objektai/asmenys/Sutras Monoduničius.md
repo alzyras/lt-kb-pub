@@ -137,7 +137,10 @@ media_all_json: |-
     Rusios kunigaikščiai, kuriems
     vadovavo Danielius —
     klastingas, godus ir neramus žmogus.
-  citata_rodoma: "Įvyko mūšis. Sutras krito mūšio lauke nuo pačių\nkunigaikščių ginklo. Tuo tarpu Stegutas tikriausiai žu­\nvo per antrąją ataką nuo kažkokio Selvo rankos."
+  citata_rodoma: |
+    Įvyko mūšis. Sutras krito mūšio lauke nuo pačių
+    kunigaikščių ginklo. Tuo tarpu Stegutas tikriausiai žu­
+    vo per antrąją ataką nuo kažkokio Selvo rankos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -76,7 +76,12 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
     siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
     net į labai intimius santykius.
-  citata_rodoma: "Tuo metu Čartoriskiai pasiun-\n  tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-\n  niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-\n  siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo\n  net į labai intimius santykius."
+  citata_rodoma: |
+    Tuo metu Čartoriskiai pasiun-
+      tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
+      niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
+      siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
+      net į labai intimius santykius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -93,7 +98,8 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
           - 4. Čartoriskių reformos
           - 5- Radomo konfed. ir Čartoriskių ref. apkarpymas (1768 m.)
           - 6.
-  citata_rodoma: "- 3. Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos"
+  citata_rodoma: |
+    - 3. Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -113,7 +119,9 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     bendradarbiauti, kišdamosi į Respublikos vidaus reikalus.
     Rusų kariuomenei parėmus, karalium buvo išrinktas Sta-
     nislovas Augustas.
-  citata_rodoma: "Rusų kariuomenei parėmus, karalium buvo išrinktas Sta-\n  nislovas Augustas."
+  citata_rodoma: |
+    Rusų kariuomenei parėmus, karalium buvo išrinktas Sta-
+      nislovas Augustas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -204,7 +204,10 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis,
     perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą
     ir Vytautą.
-  citata_rodoma: "Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis,\nperdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą\nir Vytautą."
+  citata_rodoma: |
+    Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis,
+    perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą
+    ir Vytautą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +245,18 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
     damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
     dievą.
-  citata_rodoma: "201\n\n## Puslapis 201\n\nmitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi\ngal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas\nDlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo\nfetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką\nišaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­\nminė, jokie namai, net daug pavienių asmenų negyveno be\nsavo asmeninių fetišų."
+  citata_rodoma: |
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

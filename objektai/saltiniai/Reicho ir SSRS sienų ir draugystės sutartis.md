@@ -88,7 +88,12 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: "Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp\nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į\nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos\nspaudimą Lietuvai kaip ranka nuėmė."
+  citata_rodoma: |
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -110,7 +115,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     spaudimą Lietuvai kaip ranka nuėmė.
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį.
-  citata_rodoma: "Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai \nkariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną). \nTačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp \nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į \nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos \nspaudimą Lietuvai kaip ranka nuėmė. \nUžtat sukruto sujudo Maskva – V."
+  citata_rodoma: |
+    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+    Užtat sukruto sujudo Maskva – V.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

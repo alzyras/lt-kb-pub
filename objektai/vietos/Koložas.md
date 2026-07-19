@@ -84,7 +84,18 @@ media_all_json: |-
     190, 201
     Konrad Zöllner von Rottenstein,
     D. mag.
-  citata_rodoma: "47-49,\n66, 381\nKokenhusen, pilis 208, 221\nKolainių pilis 212\nKolankowski L. 84, 150, 281, 293,\n302, 304, 309, 323, 339\nKoliumnų dinastija 214\nKolomna, netoli Maskvos 313\nKoložas, Gardino priemiestis 125**\n**_Komunistas_** **42\nKoneczny F."
+  citata_rodoma: |
+    47-49,
+    66, 381
+    Kokenhusen, pilis 208, 221
+    Kolainių pilis 212
+    Kolankowski L. 84, 150, 281, 293,
+    302, 304, 309, 323, 339
+    Koliumnų dinastija 214
+    Kolomna, netoli Maskvos 313
+    Koložas, Gardino priemiestis 125**
+    **_Komunistas_** **42
+    Koneczny F.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

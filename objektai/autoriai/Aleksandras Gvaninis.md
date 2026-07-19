@@ -237,7 +237,14 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     mingas atsitikimas, nes jų dievukas ant jų pykstąs; jeigu nutin­
     ka kokia nors nelaimė dėl kokio nors atsitiktinumo arba dėl 12
     12 Lib.
-  citata_rodoma: "Dar raiškiau aiškina Gvaninis : „Dar ir šiandien (1610\nmetais) yra tokių, ypač kaimuose ir miesteliuose, kurie garbi­\nna kažkokius žalčius ir savo kalba vadina juos gyvatėmis, o šie\nkažkaip turį po pilvu ketvertą kojų -  juodų, trumpučių, žiau­\nnų pavidalo; juos laiko savo namuose tarytum kokius namų\ndievaičius; šeimininkai, nudirbę savo darbus, tam tikru laiku\npaduoda jiems aukos vietoj pieno;"
+  citata_rodoma: |
+    Dar raiškiau aiškina Gvaninis : „Dar ir šiandien (1610
+    metais) yra tokių, ypač kaimuose ir miesteliuose, kurie garbi­
+    na kažkokius žalčius ir savo kalba vadina juos gyvatėmis, o šie
+    kažkaip turį po pilvu ketvertą kojų -  juodų, trumpučių, žiau­
+    nų pavidalo; juos laiko savo namuose tarytum kokius namų
+    dievaičius; šeimininkai, nudirbę savo darbus, tam tikru laiku
+    paduoda jiems aukos vietoj pieno;
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -261,7 +268,12 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
     jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
     gelis kitų tautų nebuvo laisvos nuo tų prietarų.
-  citata_rodoma: "Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­\npaprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-\nninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­\nras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­\nbintojų keletą avilių bičių."
+  citata_rodoma: |
+    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
+    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
+    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
+    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
+    bintojų keletą avilių bičių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -288,7 +300,13 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     gų, labai traukė žmogaus dėmesį: jų jėga griauna, daužo, nai­
     kina viską, net šventyklas ir dievų stabus; taigi tos jėgos valdo­
     vas turi būti galingiausias dievas.
-  citata_rodoma: "Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina\nšį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­\nmės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo\nsuasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų\naukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­\ntingais mitais."
+  citata_rodoma: |
+    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
+    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
+    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
+    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
+    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
+    tingais mitais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

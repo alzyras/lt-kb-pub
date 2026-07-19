@@ -93,7 +93,14 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
     nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
     niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
     ralienės Elžbietos, Jadvygos motinos.
-  citata_rodoma: "Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­\ntrzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­\nvo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams\nnebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­\nnigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­\nniuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­\nralienės Elžbietos, Jadvygos motinos."
+  citata_rodoma: |
+    Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
+    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
+    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
+    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +121,13 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
     Lenkų kronikininkas Dlugošas rašo, kad buvo atvykusi ir Lenki­
     jos karalienė Jadvyga, Jogailos žmona, bet tai nėra tikra, nes tuo
     pat laiku ji buvo Juodoje Rusijoje.
-  citata_rodoma: "Kartu su jais atvyko\nkeli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosylius,\ndidelis skaičius dvasininkų ir daug lietuvių bei lenkų didikų.\nLenkų kronikininkas Dlugošas rašo, kad buvo atvykusi ir Lenki­\njos karalienė Jadvyga, Jogailos žmona, bet tai nėra tikra, nes tuo\npat laiku ji buvo Juodoje Rusijoje."
+  citata_rodoma: |
+    Kartu su jais atvyko
+    keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosylius,
+    didelis skaičius dvasininkų ir daug lietuvių bei lenkų didikų.
+    Lenkų kronikininkas Dlugošas rašo, kad buvo atvykusi ir Lenki­
+    jos karalienė Jadvyga, Jogailos žmona, bet tai nėra tikra, nes tuo
+    pat laiku ji buvo Juodoje Rusijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -99,7 +99,14 @@ Nenurodyta
     pažintis. Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
     žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
     ninkų pranešimais ir savo paties duomenimis.
-  citata_rodoma: "Atlikę maldas ir būrimus, belaisvį pastatydavo žmo­\nnių akivaizdoje; žynys, vyriausiasis iš susirinkusiųjų, smogda­\nvo jam peiliu į krūtinę. Jeigu kraujas plūsdavo srove, tai būda­\nvo geras ir sėkmingas ženklas, priešingai, jeigu vos lašėdavo,\ntuomet nebuvo ko tikėtis sėkmės kare; puolamąjį karą sustab­\ndydavo, kol dievai parodys geresnį ženklą. Po to belaisvį sude­\ngindavo."
+  citata_rodoma: |
+    Atlikę maldas ir būrimus, belaisvį pastatydavo žmo­
+    nių akivaizdoje; žynys, vyriausiasis iš susirinkusiųjų, smogda­
+    vo jam peiliu į krūtinę. Jeigu kraujas plūsdavo srove, tai būda­
+    vo geras ir sėkmingas ženklas, priešingai, jeigu vos lašėdavo,
+    tuomet nebuvo ko tikėtis sėkmės kare; puolamąjį karą sustab­
+    dydavo, kol dievai parodys geresnį ženklą. Po to belaisvį sude­
+    gindavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

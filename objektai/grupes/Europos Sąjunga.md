@@ -267,7 +267,11 @@ media_all_json: |-
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
-  citata_rodoma: "1990 m. kovo 11 d. atkūrusi nepriklausomybę, \n2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, \n2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-\njungai – laisvų ir demokratinių Europos valstybių susivienijimui."
+  citata_rodoma: |
+    1990 m. kovo 11 d. atkūrusi nepriklausomybę,
+    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
+    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
+    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -286,7 +290,9 @@ media_all_json: |-
     mokymo turinys ir kokybė, jaunimui atsivėrė galimybės siekti aukštojo
     išsilavinimo ne tik Lietuvoje, bet ir kitose pasaulio valstybėse. Sparčiai
     išsiplėtė knygų, periodinės spaudos leidyba, šalies bibliotekų tinklas.
-  citata_rodoma: "klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų \nprogramose."
+  citata_rodoma: |
+    klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų
+    programose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -309,7 +315,13 @@ media_all_json: |-
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: "1991 m. rugsėjo 17 d. Lietuva priimta \nį Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-\ntas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO \n(Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą \n(ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto \nsutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą."
+  citata_rodoma: |
+    1991 m. rugsėjo 17 d. Lietuva priimta
+    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
+    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
+    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
+    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
+    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -334,7 +346,12 @@ media_all_json: |-
     šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
     nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
     ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
-  citata_rodoma: "Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikū-\nrusios Lietuvos užsienio politikos tikslas. 1990 m. gruodžio 14 d. Baltijos \nšalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-\nnominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę \nir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai."
+  citata_rodoma: |
+    Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikū-
+    rusios Lietuvos užsienio politikos tikslas. 1990 m. gruodžio 14 d. Baltijos
+    šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
+    nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
+    ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -354,7 +371,10 @@ media_all_json: |-
     pagalbą Lietuvai. Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
     (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
     tapti ES narėmis.
-  citata_rodoma: "Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos \n(asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą \ntapti ES narėmis."
+  citata_rodoma: |
+    Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
+    (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
+    tapti ES narėmis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -370,7 +390,9 @@ media_all_json: |-
     Šiuo atveju didžiausią naudą gauna vartotojai.
     Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
     ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai.
-  citata_rodoma: "Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-\nventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai."
+  citata_rodoma: |
+    Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
+    ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -391,7 +413,10 @@ media_all_json: |-
     niai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas
     stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
     esant nesaugią.
-  citata_rodoma: "Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-\nsimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-\nmente – 12 europarlamentarų."
+  citata_rodoma: |
+    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
+    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
+    mente – 12 europarlamentarų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

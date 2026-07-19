@@ -145,7 +145,22 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     Gavęs šitokias garbingas pareigas, kartą sužinojo, jog
     Vasilijaus našlė, o jo brolio anūkė begėdiškai gyvena
     su Ovčina, ėjusiu tas pačias pareigas, kaip ir jis.
-  citata_rodoma: "630\n\n## Puslapis 629\n\nŠtai kaip vertino šis žmogus, barbarų barbaras, savo\njėgas, štai kaip pasitikėjo sėkme, taip viską perdėda­\nmas, tokį pasipūtėlišką išdidumą rodydamas, kad ne­\nrandu nė tinkamo žodžio jo ydoms pavadinti. Jam už­\nteko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš­\nku paklausti imperatorių Maksimilijoną, ką turėtų\ndaryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku­\nrį, be abejonės, jam netrukus sukaustytą atvešią. Ka­\nralius, prie Borisovo pasilikęs keturis tūkstančius karių,\nvisus kitus pulkus, Konstantino Ostrogiškio vedamus,\nišsiuntė prieš Čeliadniną."
+  citata_rodoma: |
+    630
+
+    ## Puslapis 629
+
+    Štai kaip vertino šis žmogus, barbarų barbaras, savo
+    jėgas, štai kaip pasitikėjo sėkme, taip viską perdėda­
+    mas, tokį pasipūtėlišką išdidumą rodydamas, kad ne­
+    randu nė tinkamo žodžio jo ydoms pavadinti. Jam už­
+    teko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš­
+    ku paklausti imperatorių Maksimilijoną, ką turėtų
+    daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku­
+    rį, be abejonės, jam netrukus sukaustytą atvešią. Ka­
+    ralius, prie Borisovo pasilikęs keturis tūkstančius karių,
+    visus kitus pulkus, Konstantino Ostrogiškio vedamus,
+    išsiuntė prieš Čeliadniną.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -170,7 +185,20 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     lėtojai lyg tyčia neskubėjo: apsikrovę didžiule manta,
     visą mėnesį žygiavo sunkiai pravažiuojamais ir pra­
     einamais keliais iki Smolensko.
-  citata_rodoma: "Karalius bei karalienė, iškilmingai Vilniuje per mišias\npadėkoję viešpačiui dievui už pergalę, pasiuntė Ro­\nmos popiežiui kaip dovaną keturiolika į nelaisvę pa­\nimtų maskvėnų — pačių žymiausiųjų didikų. Tačiau\nimperatorius Maksimilijonas netoli Halės jėga juos at­\nėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal\nį Maskvą. Be abejo, šitai jis\nIm p e ra to riu s\nM a k si-\npadarė dėl savo senos drau-\nm ili jo n a s\nišsiža d a\ngystės su Vasilijumi."
+  citata_rodoma: |
+    Karalius bei karalienė, iškilmingai Vilniuje per mišias
+    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
+    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
+    imtų maskvėnų — pačių žymiausiųjų didikų. Tačiau
+    imperatorius Maksimilijonas netoli Halės jėga juos at­
+    ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
+    į Maskvą. Be abejo, šitai jis
+    Im p e ra to riu s
+    M a k si-
+    padarė dėl savo senos drau-
+    m ili jo n a s
+    išsiža d a
+    gystės su Vasilijumi.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -63,7 +63,12 @@ Pinskas lokalizuojamas prie Pinos upės.
     intako).
     * Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­
     paliudytas.
-  citata_rodoma: "Pinskas — viena iš Turovo-Pinsko kunigaikštystės sostinių, \ndabar BTSR Bresto sr. miestas (prie Pinos up., Pripetės kairiojo \nintako).\n*  Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­\npaliudytas."
+  citata_rodoma: |
+    Pinskas — viena iš Turovo-Pinsko kunigaikštystės sostinių,
+    dabar BTSR Bresto sr. miestas (prie Pinos up., Pripetės kairiojo
+    intako).
+    *  Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­
+    paliudytas.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -159,7 +159,21 @@ Nenurodyta
     Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
     didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo
     etmonu 5 — ponas Spytka Spytkovičius 6.
-  citata_rodoma: "Paskui didysis kunigaikštis Vytautas nusiuntė savo \npasiuntinius į Didįjį Naugardą ir Pskovą, idant ten jį \npripažintų savo valdovu ir mokėtų jam duoklę,1  sakė: \n„Jūs duodate duoklę mano žentui, Maskvos kunigaikš­\nčiui Vasilijui, kuris yra mano vasalas, o man, vyriau­\nsiajam valdovui, nenorite duoti.\" Bet naugardiečiai ir \npskoviečiai nekreipė dėmesio ir duoklės duoti neno­\nrėjo.\n\nDidysis kunigaikštis Vytautas, sutelkęs visas savo \npajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis \nmėnesius prie Porchovo miesto3  ir, nepaėmęs miesto, \nnuėjo per Naugardo ir Pskovo žemę niokodamas, de­\ngindamas ir imdamas nelaisvėn * ."
+  citata_rodoma: |
+    Paskui didysis kunigaikštis Vytautas nusiuntė savo
+    pasiuntinius į Didįjį Naugardą ir Pskovą, idant ten jį
+    pripažintų savo valdovu ir mokėtų jam duoklę,1  sakė:
+    „Jūs duodate duoklę mano žentui, Maskvos kunigaikš­
+    čiui Vasilijui, kuris yra mano vasalas, o man, vyriau­
+    siajam valdovui, nenorite duoti." Bet naugardiečiai ir
+    pskoviečiai nekreipė dėmesio ir duoklės duoti neno­
+    rėjo.
+
+    Didysis kunigaikštis Vytautas, sutelkęs visas savo
+    pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
+    mėnesius prie Porchovo miesto3  ir, nepaėmęs miesto,
+    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
+    gindamas ir imdamas nelaisvėn * .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

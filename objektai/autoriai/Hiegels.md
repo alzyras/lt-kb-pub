@@ -81,7 +81,11 @@ Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų
     sunku pakeisti mažiausio upelio pavadinimą taip, kad kaimie­
     čiai neprisimintų senojo vardo, tuo labiau upės, tokios reikš­
     mingos istorijai ir tekančios per nemažą krašto plotą.
-  citata_rodoma: "Šitaip galindų tauta turėjo Rosės * 5\nšventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­\nlikti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį\nseniausius budizmo principus, pastebėjo Kašmiro žemumoje*."
+  citata_rodoma: |
+    Šitaip galindų tauta turėjo Rosės * 5
+    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
+    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
+    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

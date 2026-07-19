@@ -114,7 +114,18 @@ Nenurodyta
     siąs duotas atkirtis. Tverė turėjo labai galingas karo
     jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
     ties tūkstančių raitelių.
-  citata_rodoma: "Vasiljevičius tvirtino, kad nei jis pats, nei jo\nbrolis nepadarę skriaudos ir nepažeidę susitarimo, gal\n5 3  4\n\n## Puslapis 533\n\ntik šiek tiek žemių atsiėmęs Maskvos kunigaikštystės\nribose iš neteisėtų savininkų. Norėdamas parodyti, jog\njam visai nerūpi keisti esamos padėties, pasiūlė visą\nreikalą patikėti spręsti abiejų šalių atstovams. Tada\nkaralius ir liovėsi kėlęs bet kokius reikalavimus."
+  citata_rodoma: |
+    Vasiljevičius tvirtino, kad nei jis pats, nei jo
+    brolis nepadarę skriaudos ir nepažeidę susitarimo, gal
+    5 3  4
+
+    ## Puslapis 533
+
+    tik šiek tiek žemių atsiėmęs Maskvos kunigaikštystės
+    ribose iš neteisėtų savininkų. Norėdamas parodyti, jog
+    jam visai nerūpi keisti esamos padėties, pasiūlė visą
+    reikalą patikėti spręsti abiejų šalių atstovams. Tada
+    karalius ir liovėsi kėlęs bet kokius reikalavimus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

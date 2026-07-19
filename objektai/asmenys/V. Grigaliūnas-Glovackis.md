@@ -193,7 +193,17 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
     pjūčio 23 d. grupę papildė 5-asis pulkas,
     kovų išvakarėse - 8-asis. Grupės šta-
     bas buvo Seinuose.
-  citata_rodoma: "liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA\n\nBuvo sudaryta plk. V. Grigaliūno-\nGlovackio vadovaujama kovinė grupė,\nkurią sudarė 2-asis ir 10-asis pėstininkų\npulkai bei 6-ojo pulko batalionas, taip\npat 5-oji ir 9-oji artilerijos baterijos bei\n2-ojo husarų pulko eskadronas, rug-\npjūčio 23 d. grupę papildė 5-asis pulkas,\nkovų išvakarėse - 8-asis."
+  citata_rodoma: |
+    liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA
+
+    Buvo sudaryta plk. V. Grigaliūno-
+    Glovackio vadovaujama kovinė grupė,
+    kurią sudarė 2-asis ir 10-asis pėstininkų
+    pulkai bei 6-ojo pulko batalionas, taip
+    pat 5-oji ir 9-oji artilerijos baterijos bei
+    2-ojo husarų pulko eskadronas, rug-
+    pjūčio 23 d. grupę papildė 5-asis pulkas,
+    kovų išvakarėse - 8-asis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

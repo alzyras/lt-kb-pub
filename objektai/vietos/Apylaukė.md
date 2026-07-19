@@ -90,7 +90,12 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 
     1921 m. buvo įsteigtas šarvuotų traukinių pulkas, kurį be „Gedimino“ sudarė dar du
     nauji traukiniai „Kęstutis“ ir „Algirdas“.
-  citata_rodoma: "Lapkričio 21 d.\natnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke\njis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.\n\n1921 m."
+  citata_rodoma: |
+    Lapkričio 21 d.
+    atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke
+    jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.
+
+    1921 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

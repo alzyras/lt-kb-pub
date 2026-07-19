@@ -764,7 +764,14 @@ media_all_json: |-
     be to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų
     didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
     (7000) ir Apuolės (15.000) pilyse.
-  citata_rodoma: "Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš\nnaujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių\nSeeįurgą ir, po aštuonių dienų Apuolės apgulimo, privertė Kuršius\njam atiduoti danų grobį, padaryti taiką, mokėti ankstyvesnę duoklę,\nbe to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų\ndidelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo\n(7000) ir Apuolės (15."
+  citata_rodoma: |
+    Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
+    naujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių
+    Seeįurgą ir, po aštuonių dienų Apuolės apgulimo, privertė Kuršius
+    jam atiduoti danų grobį, padaryti taiką, mokėti ankstyvesnę duoklę,
+    be to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų
+    didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
+    (7000) ir Apuolės (15.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -785,7 +792,12 @@ media_all_json: |-
     didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
     vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
     atvedęs 30.000 karių^59.
-  citata_rodoma: "Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,\nkad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs\ndidelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius\nvartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten\natvedęs 30."
+  citata_rodoma: |
+    Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,
+    kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs
+    didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
+    vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
+    atvedęs 30.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -845,7 +857,13 @@ media_all_json: |-
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino. Tuo metu žemai-
     čiai puolė Klaipėdą.
-  citata_rodoma: "Tuo tar-\npu žemaičiai puolė Kuršą ir niokojo jį\n19 dienų, husitų ir Lenkijos kariuomenė\nįsiveržė į Ordino valdas birželio pradžioje,\nviską naikino ir degino. Tuo metu žemai-\nčiai puolė Klaipėdą."
+  citata_rodoma: |
+    Tuo tar-
+    pu žemaičiai puolė Kuršą ir niokojo jį
+    19 dienų, husitų ir Lenkijos kariuomenė
+    įsiveržė į Ordino valdas birželio pradžioje,
+    viską naikino ir degino. Tuo metu žemai-
+    čiai puolė Klaipėdą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -872,7 +890,11 @@ media_all_json: |-
     Vokiečių-kryžiuočių ordino didžiojo ma-
     gistro Rusdorfo, atstovaujančio Ordino že-
     mėms Prūsijoje, Livonijoje ir Vokietijoje.
-  citata_rodoma: "1435 m. spalį smogta Livonijai dar kartą,\nkai žemaičiai Kurše sudegino Durbės pilį.\n\n1435 m."
+  citata_rodoma: |
+    1435 m. spalį smogta Livonijai dar kartą,
+    kai žemaičiai Kurše sudegino Durbės pilį.
+
+    1435 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -900,7 +922,18 @@ media_all_json: |-
     persekiojęs respublikonų kariuome-
     nės dalinys įžengė į Vilnių Sapiegoms
     jau išvykus iš miesto.
-  citata_rodoma: "Etmonas, iždininkas ir marša-\nlas vakare pasiekė Vilnių, iš visų savo\nrūmų suvežė svarbiausias vertybes į\ndominikonų vienuolyną, kuriame ir\npernakvojo, o ryte, paskleidę gandą,\nkad vyksta į Drują bei Bychovo tvir-\ntovę, iš tikrųjų suskubo trauktis į\nKuršą - į Bauskę ir Mintaują. Juos\npersekiojęs respublikonų kariuome-\nnės dalinys įžengė į Vilnių Sapiegoms\njau išvykus iš miesto."
+  citata_rodoma: |
+    Etmonas, iždininkas ir marša-
+    las vakare pasiekė Vilnių, iš visų savo
+    rūmų suvežė svarbiausias vertybes į
+    dominikonų vienuolyną, kuriame ir
+    pernakvojo, o ryte, paskleidę gandą,
+    kad vyksta į Drują bei Bychovo tvir-
+    tovę, iš tikrųjų suskubo trauktis į
+    Kuršą - į Bauskę ir Mintaują. Juos
+    persekiojęs respublikonų kariuome-
+    nės dalinys įžengė į Vilnių Sapiegoms
+    jau išvykus iš miesto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -920,7 +953,13 @@ media_all_json: |-
     jungininkus, danų ir rusų kariuomenes ir, nubloškę
     saksus nuo Rygos, 1702 m. įsiveržė į Lietuvos terito-
     riją.
-  citata_rodoma: "Šiaurės karas\n\n1700 m. Saksonijos kariuomenė įžengė į Kuršą ir\napsiautė Rygą. Tačiau švedai sumušė Augusto II sa-\njungininkus, danų ir rusų kariuomenes ir, nubloškę\nsaksus nuo Rygos, 1702 m."
+  citata_rodoma: |
+    Šiaurės karas
+
+    1700 m. Saksonijos kariuomenė įžengė į Kuršą ir
+    apsiautė Rygą. Tačiau švedai sumušė Augusto II sa-
+    jungininkus, danų ir rusų kariuomenes ir, nubloškę
+    saksus nuo Rygos, 1702 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -958,7 +997,13 @@ media_all_json: |-
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
     e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
-  citata_rodoma: "Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,\no prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,\nLietuvos ir Kuršo187.\n  1236 m."
+  citata_rodoma: |
+    Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
+    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
+    Lietuvos ir Kuršo187.
+      1236 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1034,7 +1079,15 @@ media_all_json: |-
     vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
     idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
     priklausomybės siekis etnografiniu pagrindu.
-  citata_rodoma: "Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos \nvalstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo \nkaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, \nSuvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-\nvos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams \nvis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo \nidėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-\npriklausomybės siekis etnografiniu pagrindu."
+  citata_rodoma: |
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1079,7 +1132,20 @@ media_all_json: |-
     lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
-  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
+  citata_rodoma: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1122,7 +1188,20 @@ media_all_json: |-
     kurią
     tik valiojo pasiekti jų stai­
     gus įsiūtis.
-  citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
+  citata_rodoma: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1148,7 +1227,17 @@ media_all_json: |-
     vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
     rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
     karalius Halfanask
-  citata_rodoma: "Pavergęs slavų kraštą ir pamanęs, jog \nįtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė \nį Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus \nplytinčius kraštus, žiauriai liedamas žmonių kraują ir be \ngalo juos engdamas. Tuomet slavai, pasinaudodami Jar­\nmeriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir \nplėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas \nskubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­\ngalėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­\nviais, jog visiškai įbauginta liaudis vėl nusižemino."
+  citata_rodoma: |
+    Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
+    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
+    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
+    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
+    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
+    viais, jog visiškai įbauginta liaudis vėl nusižemino.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1170,7 +1259,13 @@ media_all_json: |-
     kiška, t. y. neparemta reikiamais įrodymais, ji būtų, vis
     dėlto čia minimi karai su kuronais bei jų nukariavimai
     mūsų eros 'pačioje pradžioje.
-  citata_rodoma: "279\nKoryones2, Kuryones, arba kuršiai lietuviškai, Kurr\nzemme patys vadina savo kraštą. Nestoras mini Kors,\ntinkamiau Kurs3. Žiloje senovėje Kuršo žemėje gyveno\nkažkokia tauta, vadinama baronais; jie savo gyvenvietes\nįkūrė gerokai už dabartinių šios žemės ribų."
+  citata_rodoma: |
+    279
+    Koryones2, Kuryones, arba kuršiai lietuviškai, Kurr
+    zemme patys vadina savo kraštą. Nestoras mini Kors,
+    tinkamiau Kurs3. Žiloje senovėje Kuršo žemėje gyveno
+    kažkokia tauta, vadinama baronais; jie savo gyvenvietes
+    įkūrė gerokai už dabartinių šios žemės ribų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1237,7 +1332,12 @@ media_all_json: |-
     antrą išeidavo. Kartą, kai Vitolfas puotavo pas vieną karalių,
     jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
     šių ypatybių kaip žirgas.
-  citata_rodoma: "Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­\nčiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto\nnaudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir\nJaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės\nbartininko Vidmanto iš Kuršo duktė."
+  citata_rodoma: |
+    Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
+    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
+    naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
+    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
+    bartininko Vidmanto iš Kuršo duktė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

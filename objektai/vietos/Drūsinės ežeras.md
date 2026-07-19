@@ -132,7 +132,17 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     lyginti didesnis ir užėmė didesnę šios provincijos dalį: į
     šiaurę jis tyvuliavo gerokai toliau — net iki dabartinio
     Elbliongo, šiandien esančio per mylią.
-  citata_rodoma: "Tai pa­\nminklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų\nkeliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­\nvo gamybos blizgučius. Drūsinės, arba Druso, ežeras\nvadinamas šitaip nuo žodžio Druskas, druska, todėl, kad\nkitados jis susisiekdavo didesniais sąsiauriais su jūra;\ntaigi jo vanduo buvo sūrus. Senovėje ežeras buvo nepa­\nlyginti didesnis ir užėmė didesnę šios provincijos dalį: į\nšiaurę jis tyvuliavo gerokai toliau — net iki dabartinio\nElbliongo, šiandien esančio per mylią."
+  citata_rodoma: |
+    Tai pa­
+    minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
+    keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
+    vo gamybos blizgučius. Drūsinės, arba Druso, ežeras
+    vadinamas šitaip nuo žodžio Druskas, druska, todėl, kad
+    kitados jis susisiekdavo didesniais sąsiauriais su jūra;
+    taigi jo vanduo buvo sūrus. Senovėje ežeras buvo nepa­
+    lyginti didesnis ir užėmė didesnę šios provincijos dalį: į
+    šiaurę jis tyvuliavo gerokai toliau — net iki dabartinio
+    Elbliongo, šiandien esančio per mylią.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

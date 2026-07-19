@@ -75,7 +75,8 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
     je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo
     mama – iš Lietuvos emigrantų) ar Anthony Kiedis iš „Red Hot Chilli Pep-
     pers“… Visų neišvardysi.
-  citata_rodoma: "je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo"
+  citata_rodoma: |
+    je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

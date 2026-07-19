@@ -116,7 +116,35 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
     iš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS darbuotojas ginkluotas TT pistoletu, Sausio įvykių metu saugo AT rūmuose
 
     nuotraukose Mokomojo junginio kariai AT gynyboje 1991 m. rugpjūčio pučo metu, vienas jų ginkluotas AKSU automatiniu šautuvu (sutrumpinta „kalašnikovo“ versija)
-  citata_rodoma: "Goštauto\ngatvės pusės (iš tikrųjų buvo „minuojama“\nmokomosiomis prieštankinėmis minomis);\n\n## Puslapis 263\n\n“\n©\n£\n=\n[>]\n=\n7\n~\n©\n\"\no\n>\n=\nee\nv\nwed\n\nSausio įvykių metu Aukščiausiosiosios Tarybos gynėjai turėjo labai nedaug kovinių ginklų. Dauguma savanorių ginkluodavosi tuo, kas pakliuvo po ranka - metaliniais\nstrypais, lazdomis ir kt. Sausio įvykių metu iš medžiotojų būrelių bei specializuotų medžiotojų parduotuvių pavyko gauti medžioklinių šautuvų, šiek tiek kovinių ginklų gauta\niš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS darbuotojas ginkluotas TT pistoletu, Sausio įvykių metu saugo AT rūmuose\n\nnuotraukose Mokomojo junginio kariai AT gynyboje 1991 m."
+  citata_rodoma: |
+    Goštauto
+    gatvės pusės (iš tikrųjų buvo „minuojama“
+    mokomosiomis prieštankinėmis minomis);
+
+    ## Puslapis 263
+
+    “
+    ©
+    £
+    =
+    [>]
+    =
+    7
+    ~
+    ©
+    "
+    o
+    >
+    =
+    ee
+    v
+    wed
+
+    Sausio įvykių metu Aukščiausiosiosios Tarybos gynėjai turėjo labai nedaug kovinių ginklų. Dauguma savanorių ginkluodavosi tuo, kas pakliuvo po ranka - metaliniais
+    strypais, lazdomis ir kt. Sausio įvykių metu iš medžiotojų būrelių bei specializuotų medžiotojų parduotuvių pavyko gauti medžioklinių šautuvų, šiek tiek kovinių ginklų gauta
+    iš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS darbuotojas ginkluotas TT pistoletu, Sausio įvykių metu saugo AT rūmuose
+
+    nuotraukose Mokomojo junginio kariai AT gynyboje 1991 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,7 +173,18 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
     sunkvežimiu ir dviem „Kirovec“ traktoriais,
     Goštauto gatvė ties Žvėryno tiltu blokuota
     sunkiąja technika.
-  citata_rodoma: "“\n\nAukščiausiosios Tarybos pirmininkas ir\nšalies vadovas Vytautas Lansbergis 1991 m.\nsausio 13 d., saugomas ATAS (Aukščiausiosios\nTarybos Apsaligos skyriaus) pareigūnų\n\nprieigose Žvėryno tiltas užtvertas „Kraz“\nsunkvežimiu ir dviem „Kirovec“ traktoriais,\nGoštauto gatvė ties Žvėryno tiltu blokuota\nsunkiąja technika."
+  citata_rodoma: |
+    “
+
+    Aukščiausiosios Tarybos pirmininkas ir
+    šalies vadovas Vytautas Lansbergis 1991 m.
+    sausio 13 d., saugomas ATAS (Aukščiausiosios
+    Tarybos Apsaligos skyriaus) pareigūnų
+
+    prieigose Žvėryno tiltas užtvertas „Kraz“
+    sunkvežimiu ir dviem „Kirovec“ traktoriais,
+    Goštauto gatvė ties Žvėryno tiltu blokuota
+    sunkiąja technika.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

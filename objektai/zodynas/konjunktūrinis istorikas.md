@@ -69,7 +69,13 @@ media_all_json: |-
     S. Sužiedėlio kelias į Lietuvos istorijos sritį ėjo per isto­
     rijos mokytojo darbą gimnazijose, būtent lietuvių gimnazijoje Rygoje
     (1927-1935) ir Kėdainiuose.
-  citata_rodoma: ") neturėdamas pastovaus atlyginimo, Matu­\nsas, kuris turėjo gerą pasiruošimą būti kritišku tyrinėtoju ir gerai\nmokėjo eilę svetimų kalbų, buvo priverstas tapti konjunktūriniu\nistoriku, istorijos žurnalistu. Jis rašinėjo daug smulkių straipsnių\niš Lietuvos istorijos ir į dienos spaudą^90.\nS."
+  citata_rodoma: |
+    ) neturėdamas pastovaus atlyginimo, Matu­
+    sas, kuris turėjo gerą pasiruošimą būti kritišku tyrinėtoju ir gerai
+    mokėjo eilę svetimų kalbų, buvo priverstas tapti konjunktūriniu
+    istoriku, istorijos žurnalistu. Jis rašinėjo daug smulkių straipsnių
+    iš Lietuvos istorijos ir į dienos spaudą^90.
+    S.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -71,7 +71,18 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
     galimai ispaniški, bet
     pasitaiko vokiečių bei
     italų ginklininkų darbo.
-  citata_rodoma: "Rugsėjo 15 d. turkų kariuomenė, vado-\nvaujama Budos pašos Karakašo dar kartą\nbandė pulti, bet mūšio metu turkų vadui\nį galvą pataikė kulka ir jo kariuomenė\npasitraukė.\n\ni\n\n| Ispaniškojo tipo rapyra\n\nXVII a."
+  citata_rodoma: |
+    Rugsėjo 15 d. turkų kariuomenė, vado-
+    vaujama Budos pašos Karakašo dar kartą
+    bandė pulti, bet mūšio metu turkų vadui
+    į galvą pataikė kulka ir jo kariuomenė
+    pasitraukė.
+
+    i
+
+    | Ispaniškojo tipo rapyra
+
+    XVII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

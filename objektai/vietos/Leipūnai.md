@@ -109,7 +109,12 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     smuklės ir čia - už vienos mylios (7 km)
     nuo respublikonų stovyklos Valkininkuose,
     sustojo.
-  citata_rodoma: "Sapiegų\ndaliniai nužygiavo iki Lieponių (Leipūnų)\nsmuklės ir čia - už vienos mylios (7 km)\nnuo respublikonų stovyklos Valkininkuose,\nsustojo."
+  citata_rodoma: |
+    Sapiegų
+    daliniai nužygiavo iki Lieponių (Leipūnų)
+    smuklės ir čia - už vienos mylios (7 km)
+    nuo respublikonų stovyklos Valkininkuose,
+    sustojo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

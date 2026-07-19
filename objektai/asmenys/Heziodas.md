@@ -100,7 +100,15 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
     beturtis neregys arba šlubis. Kai jo klausdavo, kodėl jis toks
     vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
     dievų valia.
-  citata_rodoma: "Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­\nmui ir atskleisti slaptam. Hartknochas pagal vietinius padavi­\nmus ir kronikas šitaip aprašo vagystės nustatymo būdą: „Jeigu \nkam ką nors pavogdavo, jis tuoj pat vykdavo pas tam tikrą \nsignotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo \nbeturtis neregys arba šlubis. Kai jo klausdavo, kodėl jis toks \nvargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti \ndievų valia."
+  citata_rodoma: |
+    Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
+    mui ir atskleisti slaptam. Hartknochas pagal vietinius padavi­
+    mus ir kronikas šitaip aprašo vagystės nustatymo būdą: „Jeigu
+    kam ką nors pavogdavo, jis tuoj pat vykdavo pas tam tikrą
+    signotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo
+    beturtis neregys arba šlubis. Kai jo klausdavo, kodėl jis toks
+    vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
+    dievų valia.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

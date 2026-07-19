@@ -85,7 +85,15 @@ Nenurodyta
 
 
                                 121.
-  citata_rodoma: "Apie raupsuotųjų deginimų Prancūzijoje\n\n  1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji. Mat sklido kalbos,\nkad jie nuodija vandenis, o nuo to žūva daug žmonių ir gyvulių.\n\n\n\n                            121."
+  citata_rodoma: |
+    Apie raupsuotųjų deginimų Prancūzijoje
+
+      1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji. Mat sklido kalbos,
+    kad jie nuodija vandenis, o nuo to žūva daug žmonių ir gyvulių.
+
+
+
+                                121.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -64,7 +64,12 @@ Livonijos kariuomenės 1433.I.30—II.9 reidas ėjo per Linkmenų valsčių.
     du po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­
     palių vaisčiusi, o Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­
     liau telkti kariuomenės.
-  citata_rodoma: "Livonijos kariuome­\nnė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­\ndu po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­\npalių vaisčiusi, o  Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­\nliau telkti kariuomenės."
+  citata_rodoma: |
+    Livonijos kariuome­
+    nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­
+    du po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­
+    palių vaisčiusi, o  Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­
+    liau telkti kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas

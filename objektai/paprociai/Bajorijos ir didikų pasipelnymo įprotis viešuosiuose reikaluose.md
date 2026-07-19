@@ -82,7 +82,10 @@ Nenurodyta
     stovėjo prie to darbo, būtų buvę sąžiningesni. Bet to meto bajorija
     ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
     nyti.
-  citata_rodoma: "Bet to meto bajorija\nir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-\nnyti."
+  citata_rodoma: |
+    Bet to meto bajorija
+    ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
+    nyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -100,7 +103,9 @@ Nenurodyta
     ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
     nyti. Užtat daugumas mokykloms skirtų pinigų žūdavo visokių
     agentų kišenėse, ir mokyklos pradėjo skursti.
-  citata_rodoma: "Užtat daugumas mokykloms skirtų pinigų žūdavo visokių\nagentų kišenėse, ir mokyklos pradėjo skursti."
+  citata_rodoma: |
+    Užtat daugumas mokykloms skirtų pinigų žūdavo visokių
+    agentų kišenėse, ir mokyklos pradėjo skursti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

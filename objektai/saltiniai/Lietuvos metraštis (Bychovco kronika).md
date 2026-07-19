@@ -395,7 +395,16 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     paskelbimu“.
 
     Algirdas atsitraukia nuo Maskvos. 1370 m. paveikslėlis iš iliustruoto XVI a. rusų metraščio
-  citata_rodoma: "1368 m. žygis\n\nLietuvos metraštis (Bychovco kronika)\nteigia, kad Maskvos didysis kunigaikš-\ntis Dmitrijus pats sulaužė taiką, atsiųsda-\nmas pas Algirdą „savo pasiuntinį su karo\npaskelbimu“.\n\nAlgirdas atsitraukia nuo Maskvos."
+  citata_rodoma: |
+    1368 m. žygis
+
+    Lietuvos metraštis (Bychovco kronika)
+    teigia, kad Maskvos didysis kunigaikš-
+    tis Dmitrijus pats sulaužė taiką, atsiųsda-
+    mas pas Algirdą „savo pasiuntinį su karo
+    paskelbimu“.
+
+    Algirdas atsitraukia nuo Maskvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -445,7 +454,10 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
     paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
     kaimynų krikščionių žemes.
-  citata_rodoma: "Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,\nkuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.\n72)."
+  citata_rodoma: |
+    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
+    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
+    72).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -478,7 +490,21 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
     rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
     bulumą, būtiną amžinajam gyvenimui.
-  citata_rodoma: "Lieka tik \nspėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­\nniuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­\nrusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje, \nšiauriniame Paukščių tako gale; puotaudavo kartu su jais, \ngerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai, \njų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo \nlenkų ir rusinu priespaudos. Vienas liaudies padavimas sa­\nko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių, \nkurių kiekviena leidžia pasitenkinti šimtu naujų malonumų. \nPekla lietuviškai turi originalų pavadinimą Pragaras; tai su­\nsiję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­\nmeldystės filosofijai, galime daryti išvadą, kad lietuviai turė­\njo kančių įvaizdį."
+  citata_rodoma: |
+    Lieka tik
+    spėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­
+    niuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­
+    rusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje,
+    šiauriniame Paukščių tako gale; puotaudavo kartu su jais,
+    gerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai,
+    jų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo
+    lenkų ir rusinu priespaudos. Vienas liaudies padavimas sa­
+    ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,
+    kurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.
+    Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
+    siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­
+    meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
+    jo kančių įvaizdį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -517,7 +543,17 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     cijos pavadinimo, be to, ir lietuvių kronika teigia, kad
     lietuvių kolonijos kairiojoje Neries pakrantėje paplito tik
     X amžiuje.
-  citata_rodoma: "Taip pat\nir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­\njos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Ven­\ntos upė, skalavusi lietuvių vinidų gyvenamąsias vietas.\n274\nNeroma — atskirai pažymėtas tikrosios Lietuvos kraš­\ntas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,\nnes ir kronikos kairiojoje šios upės pakrantėje esančią\nLietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­\nvendinta provincija1 2."
+  citata_rodoma: |
+    Taip pat
+    ir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­
+    jos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Ven­
+    tos upė, skalavusi lietuvių vinidų gyvenamąsias vietas.
+    274
+    Neroma — atskirai pažymėtas tikrosios Lietuvos kraš­
+    tas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,
+    nes ir kronikos kairiojoje šios upės pakrantėje esančią
+    Lietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­
+    vendinta provincija1 2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

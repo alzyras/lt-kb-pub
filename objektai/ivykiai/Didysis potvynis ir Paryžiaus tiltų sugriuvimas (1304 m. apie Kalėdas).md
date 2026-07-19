@@ -100,7 +100,16 @@ Nenurodyta
 
 
                      98.
-  citata_rodoma: "Apie potvynį\n\n  1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią\nnuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi\npatyrė baisybę nuostolių.\n\n\n\n                 98."
+  citata_rodoma: |
+    Apie potvynį
+
+      1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią
+    nuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi
+    patyrė baisybę nuostolių.
+
+
+
+                     98.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

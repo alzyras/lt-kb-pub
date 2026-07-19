@@ -68,7 +68,9 @@ media_all_json: |-
     miański, Instytut Historii PAN, 2 1959.
     HrIU = Hruševs’kyj, M. : Istorija Ukrajiny-Rusy, t. 4 (2-ras leid.),
     1907 ; t. 5-6, Kijevas-Lvovas 1905-1907.
-  citata_rodoma: "HrIU = Hruševs’kyj, M. : Istorija Ukrajiny-Rusy, t. 4 (2-ras leid.),\n1907 ; t. 5-6, Kijevas-Lvovas 1905-1907."
+  citata_rodoma: |
+    HrIU = Hruševs’kyj, M. : Istorija Ukrajiny-Rusy, t. 4 (2-ras leid.),
+    1907 ; t. 5-6, Kijevas-Lvovas 1905-1907.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

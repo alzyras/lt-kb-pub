@@ -131,7 +131,18 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
     nais įvirtinimais - lengvais žemės šancais,
     kuriuos sumaniai naudodavo tiek puldami,
     tiek ir besigindami.
-  citata_rodoma: "LDK didysis etmonas pasiuntė ke-\nletą lengvosios kavalerijos - „lisovčikų“\n\nLIETUVOS LENGVOJI KAVALERIJA\n\nIštrauka iš Prancūzijos grafo Antoine Gramont (1663-1664 m.) pasakojimo apie ka-\nzokus, tarnaujančius Lenkijos-Lietuvos kariuomenėse.\n\nnais įvirtinimais - lengvais žemės šancais,\nkuriuos sumaniai naudodavo tiek puldami,\ntiek ir besigindami."
+  citata_rodoma: |
+    LDK didysis etmonas pasiuntė ke-
+    letą lengvosios kavalerijos - „lisovčikų“
+
+    LIETUVOS LENGVOJI KAVALERIJA
+
+    Ištrauka iš Prancūzijos grafo Antoine Gramont (1663-1664 m.) pasakojimo apie ka-
+    zokus, tarnaujančius Lenkijos-Lietuvos kariuomenėse.
+
+    nais įvirtinimais - lengvais žemės šancais,
+    kuriuos sumaniai naudodavo tiek puldami,
+    tiek ir besigindami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

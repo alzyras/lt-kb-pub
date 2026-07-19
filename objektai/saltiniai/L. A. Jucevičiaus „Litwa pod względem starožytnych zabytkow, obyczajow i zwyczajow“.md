@@ -78,7 +78,11 @@ Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lie
     išėjo į karą ir visi trys žuvo; pavasarį į namus sugrįžo tik jų žir­
     gai. Sesuo, gailesčio pagauta, metė tėvų namus ir, netekusi proto,
     graudžiai vaitojo klajodama po įvairias vietas.
-  citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­\nimta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“\ndalies, pavadintos „Metamorfozės lietuvių mitologijoje“."
+  citata_rodoma: |
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
+    LTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­
+    imta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“
+    dalies, pavadintos „Metamorfozės lietuvių mitologijoje“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

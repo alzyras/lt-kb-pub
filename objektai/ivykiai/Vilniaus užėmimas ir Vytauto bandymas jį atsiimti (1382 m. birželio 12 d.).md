@@ -113,7 +113,11 @@ Nenurodyta
     Vytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula. Iš
     abiejų pusių krito per 1000 žmonių, bet Vilniaus Vytautas neat­
     gavo^2 ).
-  citata_rodoma: "Manydamas, kad Jogailos jėgos Vilniuje tėra gana silpnos,\nVytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula. Iš\nabiejų pusių krito per 1000 žmonių, bet Vilniaus Vytautas neat­\ngavo^2 )."
+  citata_rodoma: |
+    Manydamas, kad Jogailos jėgos Vilniuje tėra gana silpnos,
+    Vytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula. Iš
+    abiejų pusių krito per 1000 žmonių, bet Vilniaus Vytautas neat­
+    gavo^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -137,7 +141,12 @@ Nenurodyta
     ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: "Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­\nmušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su\nta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo\nVitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­\ngos pirklys Hanulo įteikė jam pilies raktus^1 )."
+  citata_rodoma: |
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

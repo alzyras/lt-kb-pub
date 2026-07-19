@@ -223,7 +223,14 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     minėtos provincijos. Nėra abejonių, kad ir ji dalijosi į
     plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms
     taip pat priklausė didelės valdos.
-  citata_rodoma: "Dar mažiau \nžinomos pietinės Varmijos sienos su Galinda. Atrodo, jog \nvienas šios sienos punktas buvo prie Morungeno, kur ir \nšiandien yra Galindų kaimas. Vadinasi, Varmijai priklau­\nsantis krašto plotas buvo didelis, be to, ji turėjo daugiau \ndirbamos ir tankiau apgyvendintos žemės negu anksčiau \nminėtos provincijos."
+  citata_rodoma: |
+    Dar mažiau
+    žinomos pietinės Varmijos sienos su Galinda. Atrodo, jog
+    vienas šios sienos punktas buvo prie Morungeno, kur ir
+    šiandien yra Galindų kaimas. Vadinasi, Varmijai priklau­
+    santis krašto plotas buvo didelis, be to, ji turėjo daugiau
+    dirbamos ir tankiau apgyvendintos žemės negu anksčiau
+    minėtos provincijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

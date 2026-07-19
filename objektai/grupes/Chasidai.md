@@ -83,7 +83,8 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: "plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį"
+  citata_rodoma: |
+    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -105,7 +106,8 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
     Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabi-
     nizmą – sureikšminti individą ir nuoširdų jo tikėjimą, sušvelninti griežtus
     buitį normuojančius įstatymus.
-  citata_rodoma: "Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabi-"
+  citata_rodoma: |
+    Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabi-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

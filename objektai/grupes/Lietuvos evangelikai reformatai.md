@@ -95,7 +95,11 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
     perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
     sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
     iki šių dienų.
-  citata_rodoma: "XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo\nperėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai\nsudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko\niki šių dienų."
+  citata_rodoma: |
+    XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo
+    perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
+    sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
+    iki šių dienų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

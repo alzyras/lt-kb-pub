@@ -187,7 +187,16 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
     nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
     tine ir karine pergale, kokia ji iš tiesų ir buvo.
-  citata_rodoma: "VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis \nteisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo."
+  citata_rodoma: |
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
+    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    153
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
+    tine ir karine pergale, kokia ji iš tiesų ir buvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +216,16 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
     A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
     džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
-  citata_rodoma: "VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis \nteisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo."
+  citata_rodoma: |
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
+    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    153
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
+    tine ir karine pergale, kokia ji iš tiesų ir buvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

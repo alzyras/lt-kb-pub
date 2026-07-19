@@ -72,7 +72,10 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
     J. Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas
     prof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta
     1905 m.).
-  citata_rodoma: "J. Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas\nprof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta\n1905 m.)."
+  citata_rodoma: |
+    J. Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas
+    prof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta
+    1905 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

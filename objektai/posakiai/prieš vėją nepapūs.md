@@ -94,7 +94,14 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
     santaikai su Lenkija, didėjo jo draugiškumas su Ordinu, ko taip
     lenkai niekad netroško, bet visad dėjo pastangų geriems jo san­
     tykiams suardyti.
-  citata_rodoma: "Len­\nkų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją\nnepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­\ngas. Bijojo lenkai ir dar vieno dalyko: atsiradus Vytauto ne­\nsantaikai su Lenkija, didėjo jo draugiškumas su Ordinu, ko taip\nlenkai niekad netroško, bet visad dėjo pastangų geriems jo san­\ntykiams suardyti."
+  citata_rodoma: |
+    Len­
+    kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
+    nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
+    gas. Bijojo lenkai ir dar vieno dalyko: atsiradus Vytauto ne­
+    santaikai su Lenkija, didėjo jo draugiškumas su Ordinu, ko taip
+    lenkai niekad netroško, bet visad dėjo pastangų geriems jo san­
+    tykiams suardyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -115,7 +122,11 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
     kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
     nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
     gas.
-  citata_rodoma: "Len­\nkų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją\nnepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­\ngas."
+  citata_rodoma: |
+    Len­
+    kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
+    nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
+    gas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

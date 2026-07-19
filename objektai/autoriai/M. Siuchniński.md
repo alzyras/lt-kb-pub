@@ -48,7 +48,8 @@ Siuchniński.
   citata_originali: |
     Vilnius, 2009; Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
     M.  Siuchniński.
-  citata_rodoma: "Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,"
+  citata_rodoma: |
+    Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

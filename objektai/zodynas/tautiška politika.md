@@ -92,7 +92,9 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
     **Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis
     Vytenio politikos vaisius. Varydamas tautišką politiką ir kovo-
     damas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
-  citata_rodoma: "Varydamas tautišką politiką ir kovo-\ndamas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe."
+  citata_rodoma: |
+    Varydamas tautišką politiką ir kovo-
+    damas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +113,13 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 
     Marijenburgas, —
     nuo 1309 m. kryžiuočių ordino magistro būstinė.
-  citata_rodoma: "**Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis\nVytenio politikos vaisius. Varydamas tautišką politiką ir kovo-\ndamas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.\n\nMarijenburgas, —\nnuo 1309 m."
+  citata_rodoma: |
+    **Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis
+    Vytenio politikos vaisius. Varydamas tautišką politiką ir kovo-
+    damas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
+
+    Marijenburgas, —
+    nuo 1309 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,13 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
     galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kau-
     lams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis
     saugomas Vilniaus Lietuvių Mokslo Draugijoje.
-  citata_rodoma: "Beje, yra lietuvių, kurie net nujaučia kapo vietą, bet\nlenkai jiems neleidžia jo ieškoti. D. Malinauskas, kurs švenčiausiai\ntiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie\ngalėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kau-\nlams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis\nsaugomas Vilniaus Lietuvių Mokslo Draugijoje."
+  citata_rodoma: |
+    Beje, yra lietuvių, kurie net nujaučia kapo vietą, bet
+    lenkai jiems neleidžia jo ieškoti. D. Malinauskas, kurs švenčiausiai
+    tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie
+    galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kau-
+    lams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis
+    saugomas Vilniaus Lietuvių Mokslo Draugijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

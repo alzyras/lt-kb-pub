@@ -70,7 +70,13 @@ Jono Kuklierio kūno 1920 m.
     mūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno
 
     1920 m. liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA 201
-  citata_rodoma: "Tuojau pasirodė ir pulko vadas pulkininkas\n\n1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio\nmūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno\n\n1920 m."
+  citata_rodoma: |
+    Tuojau pasirodė ir pulko vadas pulkininkas
+
+    1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio
+    mūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno
+
+    1920 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

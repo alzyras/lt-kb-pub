@@ -78,7 +78,13 @@ Nenurodyta
     į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
     užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
     kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
-  citata_rodoma: "Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių\n\n   Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių\nį Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį\nužpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai\nkraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392)."
+  citata_rodoma: |
+    Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
+
+       Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių
+    į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
+    užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
+    kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

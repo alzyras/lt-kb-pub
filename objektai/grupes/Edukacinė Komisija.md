@@ -292,7 +292,11 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     tuvai ir Lenkijai.
     Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
     pinigų sunaudojimu.
-  citata_rodoma: "Komisija buvo įkurta bendra Lie-\ntuvai ir Lenkijai.\nKomisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir\npinigų sunaudojimu."
+  citata_rodoma: |
+    Komisija buvo įkurta bendra Lie-
+    tuvai ir Lenkijai.
+    Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
+    pinigų sunaudojimu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -311,7 +315,9 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
     siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
     turtai pavesti Edukacinei Komisijai.
-  citata_rodoma: "Todėl 1776 m. tos komisijos buvo panaikintos, ir visi\nturtai pavesti Edukacinei Komisijai."
+  citata_rodoma: |
+    Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
+    turtai pavesti Edukacinei Komisijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -332,7 +338,10 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
     pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
     valstybė.
-  citata_rodoma: "Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso\npirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati\nvalstybė."
+  citata_rodoma: |
+    Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
+    pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
+    valstybė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -352,7 +361,11 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     na kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­
     zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
     komisijos veikla.
-  citata_rodoma: ", daugelį jos istorijos įvykių jis verti­\nna kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­\nzuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės \nkomisijos veikla."
+  citata_rodoma: |
+    , daugelį jos istorijos įvykių jis verti­
+    na kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­
+    zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
+    komisijos veikla.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -409,7 +422,12 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
     kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
     Lietuvos ir Lenkijos komisijos.
-  citata_rodoma: "Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-\ngiais valstybių atskirumas net dar padidėjo; pav., Targovicos\nkonfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-\nkacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros\nLietuvos ir Lenkijos komisijos."
+  citata_rodoma: |
+    Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
+    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
+    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
+    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
+    Lietuvos ir Lenkijos komisijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -429,7 +447,11 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
     komisijos veikla. Taigi jis išliko savo jaunystės idealų - Švieti­
     mo filosofijos principų - šalininkas.
-  citata_rodoma: "Ypač negailestingos jo kritikos susilaukė jė­\nzuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės\nkomisijos veikla. Taigi jis išliko savo jaunystės idealų - Švieti­\nmo filosofijos principų - šalininkas."
+  citata_rodoma: |
+    Ypač negailestingos jo kritikos susilaukė jė­
+    zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
+    komisijos veikla. Taigi jis išliko savo jaunystės idealų - Švieti­
+    mo filosofijos principų - šalininkas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

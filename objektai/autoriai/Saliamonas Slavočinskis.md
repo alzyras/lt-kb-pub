@@ -93,7 +93,8 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
     ar gramatikos (1737 m. lietuvių kalbos gramatika) rūpinosi tik lietuvių
     kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
-  citata_rodoma: "mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)"
+  citata_rodoma: |
+    mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

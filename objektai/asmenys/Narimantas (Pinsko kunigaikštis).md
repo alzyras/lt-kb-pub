@@ -312,7 +312,16 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     T ė v o n ija
     išd a lija m a
     nytų atsiskirti.
-  citata_rodoma: "Narimantas nenorėjo\ntaip spręsti valstybės reikalų, kad broliai galėtų jam\nprikaišioti, jog sprendžia perdaug griežtai: dėl savo\nsprendimo jis nenorėjo vienas pats susilaukti visuo­\ntinės neapykantos. Todėl jis nieko neveikė savo valia,\nbe tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­\nninti savo sprendimus. Jeigu jis vienas, remdamasis\naukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų\ngalėję skatinti brolių ir valdinių nepasitenkinimą."
+  citata_rodoma: |
+    Narimantas nenorėjo
+    taip spręsti valstybės reikalų, kad broliai galėtų jam
+    prikaišioti, jog sprendžia perdaug griežtai: dėl savo
+    sprendimo jis nenorėjo vienas pats susilaukti visuo­
+    tinės neapykantos. Todėl jis nieko neveikė savo valia,
+    be tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­
+    ninti savo sprendimus. Jeigu jis vienas, remdamasis
+    aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
+    galėję skatinti brolių ir valdinių nepasitenkinimą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -336,7 +345,16 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai
     liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­
     reikšti užuojautos.
-  citata_rodoma: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną \nminėto livoniečio Fledro dukterį, jo brolis Daumantas \nvedė antrąją to paties Fledro 21 dukterį. Praėjus nema­\nža laiko, Utenos kunigaikščio Daumanto žmona ėmė \nsirguliuoti ir pasimirė.\nDidysis kunigaikštis Narimantas, išgirdęs apie savo \nbrolienės mirtį ir pats ne itin tvirtai jausdamasis, labai \nliūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­\nreikšti užuojautos."
+  citata_rodoma: |
+    Didysis kunigaikštis Narimantas pasiėmė sau žmoną
+    minėto livoniečio Fledro dukterį, jo brolis Daumantas
+    vedė antrąją to paties Fledro 21 dukterį. Praėjus nema­
+    ža laiko, Utenos kunigaikščio Daumanto žmona ėmė
+    sirguliuoti ir pasimirė.
+    Didysis kunigaikštis Narimantas, išgirdęs apie savo
+    brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai
+    liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­
+    reikšti užuojautos.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -383,7 +401,15 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     kaip čia jį nugalabijus. O tuo metu, valdant Traide­
     niui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­
     nigaikštis Giedrius.
-  citata_rodoma: "Ir, bevaldant didžiajam kunigaikščiui Traideniui, didy­\nsis kunigaikštis Daumantas, atžygiavęs iš Pskovo, už­\nėmė Polocko miestą ir ėmė kunigaikščiauti Pskove ir \nPolocke *. Jam buvo labai gaila, kad jo jaunesnysis \nbrolis Traidenis tapo Lietuvos viešpačiu, ir ėmė galvoti, \nkaip čia jį nugalabijus. O tuo metu, valdant Traide­\nniui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­\nnigaikštis Giedrius."
+  citata_rodoma: |
+    Ir, bevaldant didžiajam kunigaikščiui Traideniui, didy­
+    sis kunigaikštis Daumantas, atžygiavęs iš Pskovo, už­
+    ėmė Polocko miestą ir ėmė kunigaikščiauti Pskove ir
+    Polocke *. Jam buvo labai gaila, kad jo jaunesnysis
+    brolis Traidenis tapo Lietuvos viešpačiu, ir ėmė galvoti,
+    kaip čia jį nugalabijus. O tuo metu, valdant Traide­
+    niui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­
+    nigaikštis Giedrius.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

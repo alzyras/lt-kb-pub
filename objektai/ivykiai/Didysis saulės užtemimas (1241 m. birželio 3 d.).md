@@ -90,7 +90,13 @@ Nenurodyta
     žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37).
 
     29.
-  citata_rodoma: "Apie didįjį saulės užtemimą\n\n  Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net\nžvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37).\n\n29."
+  citata_rodoma: |
+    Apie didįjį saulės užtemimą
+
+      Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net
+    žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37).
+
+    29.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

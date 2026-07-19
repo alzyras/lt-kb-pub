@@ -77,7 +77,8 @@ Dusburgietis teigia, kad kuzavinis К.
     207—216.
     Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
     žinynas, 1933, t. 25, Nr. 101, p. 171—185.
-  citata_rodoma: "Kuzavinis К. Prūsų kalba.—V., 1964."
+  citata_rodoma: |
+    Kuzavinis К. Prūsų kalba.—V., 1964.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -92,7 +92,13 @@ Nenurodyta
     sirašė susitarimą dėl jos II padalijimo, po
     kurio Abiejų Tautų Respublika neteko apie
     300 tūkst. kv. km teritorijos.
-  citata_rodoma: "Siekiant dar\nlabiau susilpninti Abiejų Tautų Respubliką,\n1793 m. sausio 23 d. Prūsija su Rusija pa-\nsirašė susitarimą dėl jos II padalijimo, po\nkurio Abiejų Tautų Respublika neteko apie\n300 tūkst. kv. km teritorijos."
+  citata_rodoma: |
+    Siekiant dar
+    labiau susilpninti Abiejų Tautų Respubliką,
+    1793 m. sausio 23 d. Prūsija su Rusija pa-
+    sirašė susitarimą dėl jos II padalijimo, po
+    kurio Abiejų Tautų Respublika neteko apie
+    300 tūkst. kv. km teritorijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

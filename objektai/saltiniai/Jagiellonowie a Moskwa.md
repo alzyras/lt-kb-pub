@@ -64,7 +64,9 @@ media_all_json: |-
     1967.
     PaJM = Paszkiewicz, H. : Jagiellonowie a Moskwa, t. 1 : Litwa a
     Moskwa w XIII i XIV wieku. Varšuva 1933.
-  citata_rodoma: "PaJM = Paszkiewicz, H. : Jagiellonowie a Moskwa, t. 1 : Litwa a\nMoskwa w XIII i XIV wieku. Varšuva 1933."
+  citata_rodoma: |
+    PaJM = Paszkiewicz, H. : Jagiellonowie a Moskwa, t. 1 : Litwa a
+    Moskwa w XIII i XIV wieku. Varšuva 1933.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

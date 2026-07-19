@@ -85,7 +85,12 @@ Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir varda
     naminių gyvulių auginimui; atsižvelgiant į tai, Santvaras (So­
     tuar), kaip piemenų dievas, gauna aukas, ir jį garbinti moka
     skurdžiausiose pirkelėse“16.
-  citata_rodoma: "Reikia atminti, kad Antikos žmonės saulę laikė\nugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­\ndami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­\nlogijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­\nno, garbinimas sutampa."
+  citata_rodoma: |
+    Reikia atminti, kad Antikos žmonės saulę laikė
+    ugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­
+    dami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­
+    logijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­
+    no, garbinimas sutampa.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

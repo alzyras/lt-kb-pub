@@ -173,7 +173,15 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     rui reikalavimą, kad jis priverstų Vytautą sugriauti atnaujintą
     Veliuoną, kuri esanti Ordino žemėje ir atiduoti kryžiuočiams
     visas Nemuno ir Nevėžio krantuose Vytauto pastatytas pilis^4 ).
-  citata_rodoma: "Po to Kauno\nsaloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas,\n(1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar\nJogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir\nlenkų bajorai, Ordino riteriai. Ordino pasiuntinys įteikė Mak­\nrui reikalavimą, kad jis priverstų Vytautą sugriauti atnaujintą\nVeliuoną, kuri esanti Ordino žemėje ir atiduoti kryžiuočiams\nvisas Nemuno ir Nevėžio krantuose Vytauto pastatytas pilis^4 )."
+  citata_rodoma: |
+    Po to Kauno
+    saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas,
+    (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar
+    Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir
+    lenkų bajorai, Ordino riteriai. Ordino pasiuntinys įteikė Mak­
+    rui reikalavimą, kad jis priverstų Vytautą sugriauti atnaujintą
+    Veliuoną, kuri esanti Ordino žemėje ir atiduoti kryžiuočiams
+    visas Nemuno ir Nevėžio krantuose Vytauto pastatytas pilis^4 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

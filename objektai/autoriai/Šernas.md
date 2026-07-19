@@ -75,7 +75,26 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
     (autorius giesmės „Lie-
     tuviai esame mes gi-
     mę").
-  citata_rodoma: "Tik vienas Šernas savo „Lie-\ntuviškoje Ceitun-\ngoje\" buvo pradėjęs\nspausdinti patriotiškus\nstraipsnius - apie garbin-\ngą lietuvių praeitį ir apie\nsunkų dabartinį sveti-\nmųjų jungą. Juos rašė\nne tik Didžiosios Lietu-\nvos lietuviai inteligentai,\n— ypač Dr. J. Basa-\nnavičius, — bet ir\npatsai redaktorius Šer-\nnas, M. Jankus ir\nlietuvių draugas vokie-\ntis S. Zauerveinas\n(autorius giesmės „Lie-\ntuviai esame mes gi-\nmę\")."
+  citata_rodoma: |
+    Tik vienas Šernas savo „Lie-
+    tuviškoje Ceitun-
+    goje" buvo pradėjęs
+    spausdinti patriotiškus
+    straipsnius - apie garbin-
+    gą lietuvių praeitį ir apie
+    sunkų dabartinį sveti-
+    mųjų jungą. Juos rašė
+    ne tik Didžiosios Lietu-
+    vos lietuviai inteligentai,
+    — ypač Dr. J. Basa-
+    navičius, — bet ir
+    patsai redaktorius Šer-
+    nas, M. Jankus ir
+    lietuvių draugas vokie-
+    tis S. Zauerveinas
+    (autorius giesmės „Lie-
+    tuviai esame mes gi-
+    mę").
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

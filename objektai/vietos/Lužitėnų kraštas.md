@@ -89,7 +89,14 @@ Narbutas Lužitėnų kraštą mini tarp vietovių, kuriose rasta panašiais žen
     džiaugsmo raktą, tad jo reikšmė aiški, nes raktas kiekvieno
     dievo rankoje nusako jo valdžią, o pats raktas įgauna reikšmę
     nuo vietos, kurioje pavaizduotas.
-  citata_rodoma: "Sako, kad lietuviai kaimiečiai\nšitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­\nse. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių\nsenovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje\ntikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­\nsonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­\ndą, kad tai buvo deivės Velionos aukurai."
+  citata_rodoma: |
+    Sako, kad lietuviai kaimiečiai
+    šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
+    se. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių
+    senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje
+    tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­
+    sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
+    dą, kad tai buvo deivės Velionos aukurai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

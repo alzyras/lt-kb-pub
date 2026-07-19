@@ -166,7 +166,13 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     kelioliką metų ištikimai tarnavo.
     Jogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­
     sitenkinimo.
-  citata_rodoma: "Patyręs apie\nsavo dviejų brolių (Karigailos, Viganto — Aleksandro) mirtį, jis\ngrįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam\nkelioliką metų ištikimai tarnavo.\nJogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­\nsitenkinimo."
+  citata_rodoma: |
+    Patyręs apie
+    savo dviejų brolių (Karigailos, Viganto — Aleksandro) mirtį, jis
+    grįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam
+    kelioliką metų ištikimai tarnavo.
+    Jogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­
+    sitenkinimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

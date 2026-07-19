@@ -300,7 +300,14 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
     riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
     nigaikščio buveinę.
-  citata_rodoma: "Kivirčai tarp brolių da­\nvė pradžią slaptoms, bet sumaniai parengtoms sutartims \nsiekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo \nvaldos sostinės, turėjęs geriausių galimybių stebėti visus \nbrolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę."
+  citata_rodoma: |
+    Kivirčai tarp brolių da­
+    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
+    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
+    valdos sostinės, turėjęs geriausių galimybių stebėti visus
+    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -382,7 +389,19 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     III KNYGA
     mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
     veinei*.
-  citata_rodoma: "Jų pabūgę miestiečiai, raginami ir remiami Vilniaus \nvyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­\nlimu, išmetę medinius statinius. Atrodo, kad tais metais bu­\nvo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­\nkrypusios ir suskilusios, be to, išaugo panašūs ir erdvūs\n232\n\n## Puslapis 249\n\nIII KNYGA\nmediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­\nveinei*."
+  citata_rodoma: |
+    Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
+    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
+    limu, išmetę medinius statinius. Atrodo, kad tais metais bu­
+    vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
+    krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs
+    232
+
+    ## Puslapis 249
+
+    III KNYGA
+    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
+    veinei*.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -406,7 +425,14 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
     puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
     ežerų apsuptai Trakų piliai.
-  citata_rodoma: "Trumpas Aleksandro valdymas, gana nesėkmingas Lie­\ntuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių, \njos sostinei tam tikru atžvilgiu buvo naudingas. Beveik visą \namžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­\nnėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­\npuolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai, \nežerų apsuptai Trakų piliai."
+  citata_rodoma: |
+    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
+    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
+    jos sostinei tam tikru atžvilgiu buvo naudingas. Beveik visą
+    amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­
+    nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
+    puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
+    ežerų apsuptai Trakų piliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -481,7 +507,17 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     35 36
     G w a g n i n i Kronika Sarmacyi Em- Žr. VIII priedą.
     ropejskiej, vert.
-  citata_rodoma: "Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­\nčios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus \npilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties \nvardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo \nužbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 \nmetais, tad gal būtų galima manyti, jog Žemutinės pilies te­\nritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv. \nOnos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę\n35 36\nG w a g n i n i Kronika Sarmacyi Em- Žr."
+  citata_rodoma: |
+    Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
+    čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
+    pilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties
+    vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo
+    užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581
+    metais, tad gal būtų galima manyti, jog Žemutinės pilies te­
+    ritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv.
+    Onos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę
+    35 36
+    G w a g n i n i Kronika Sarmacyi Em- Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -570,7 +606,18 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
     greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
     dėl pavojingos Glinskio puikybės.
-  citata_rodoma: "paskui, sugrįžęs į Krokuvą, vėl bu-\n234\n\n## Puslapis 251\n\nIII KNYGA\nlėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­\ntinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o \njo palaikai iškart buvo palaidoti koplyčioje, prie katedros, \ngreta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą \ndėl pavojingos Glinskio puikybės."
+  citata_rodoma: |
+    paskui, sugrįžęs į Krokuvą, vėl bu-
+    234
+
+    ## Puslapis 251
+
+    III KNYGA
+    lėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­
+    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
+    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
+    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
+    dėl pavojingos Glinskio puikybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

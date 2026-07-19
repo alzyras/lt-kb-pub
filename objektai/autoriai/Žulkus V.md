@@ -104,7 +104,10 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
     3—23.
     Ткачоў М. А. Замкi Беларусi (XIII—XVII ст.). — Мiнск, 1977.
     Ткачоў М. А. Абарочнычя забудаваннi заходнix зямель Беларуci XIII—XVIII ст. ст.
-  citata_rodoma: "16—\n  Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje\n1982 ir 1983 metais. V., 1984, p. 43—46."
+  citata_rodoma: |
+    16—
+      Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
+    1982 ir 1983 metais. V., 1984, p. 43—46.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -120,7 +123,8 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
     —
     Проблемы этнической истории балтов: Тезисы докладов, Рига, 1977, с. 44—48.
     Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук.
-  citata_rodoma: "Žulkus V. Klaipėdos pilis ir miestas XIII—XVI a —MG 1983, Nr. 8, p. 28—29."
+  citata_rodoma: |
+    Žulkus V. Klaipėdos pilis ir miestas XIII—XVI a —MG 1983, Nr. 8, p. 28—29.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

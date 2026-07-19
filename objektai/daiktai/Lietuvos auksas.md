@@ -103,7 +103,11 @@ Nenurodyta
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
-  citata_rodoma: "Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-\nno konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų \nSąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą. \nTačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas."
+  citata_rodoma: |
+    Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
+    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
+    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
+    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

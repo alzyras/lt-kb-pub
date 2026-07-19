@@ -95,7 +95,17 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
     dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
     tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
     kad atvykę deramai pataisytų tai, kas atsitiko.
-  citata_rodoma: "Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais\n\n   Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų\nsmarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;\nnukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.\n\n\n\n\n               350 (343)."
+  citata_rodoma: |
+    Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+
+       Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
+    smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
+    nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
+
+
+
+
+                   350 (343).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

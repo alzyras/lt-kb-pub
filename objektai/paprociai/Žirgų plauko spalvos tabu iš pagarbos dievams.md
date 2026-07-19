@@ -107,7 +107,14 @@ Nenurodyta
     pirmųjų, Dargis įtikėjo, nuolankiai išpažino savo klaidą ir pasidarė uolus tikėjimo bei
     tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
     klystančiųjų naujakrikščių širdis.
-  citata_rodoma: "6. Apie vieną stebuklą\n\n  Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris\nnepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo\nprietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo\ntvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris\nkartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties."
+  citata_rodoma: |
+    6. Apie vieną stebuklą
+
+      Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris
+    nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo
+    prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo
+    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris
+    kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -124,7 +131,14 @@ Nenurodyta
     žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Vieni iš pagarbos saviesiems
     dievams nedrįso jodinėti juodžiais, kiti — balčiais215, treti — kitokio plauko žirgais.
     6.
-  citata_rodoma: "žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Vieni iš pagarbos saviesiems\ndievams nedrįso jodinėti juodžiais, kiti — balčiais215, treti — kitokio plauko žirgais.\n\n\n\n\n                                 6."
+  citata_rodoma: |
+    žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Vieni iš pagarbos saviesiems
+    dievams nedrįso jodinėti juodžiais, kiti — balčiais215, treti — kitokio plauko žirgais.
+
+
+
+
+                                     6.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

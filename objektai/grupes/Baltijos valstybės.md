@@ -76,7 +76,8 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
     kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
     nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
     pavėluota.
-  citata_rodoma: "nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą"
+  citata_rodoma: |
+    nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

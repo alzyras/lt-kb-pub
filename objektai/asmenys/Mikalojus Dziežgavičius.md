@@ -77,7 +77,13 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
     skirti vyskupais Vytautui juos rekomenduojant. Du paskutiniai
     prieš įšventinant juos į vyskupus buvo Trakų klebonai, taigi gy­
     veno Vytauto rezidencijoje.
-  citata_rodoma: "Taip antai, ketvirtas iš eilės Vilniaus\nvyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­\ntu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis\nŽemaičių ir vėliau Vilniaus vysk. Motiejus ir antrasis Žemaičių\nvysk. Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­\nskirti vyskupais Vytautui juos rekomenduojant."
+  citata_rodoma: |
+    Taip antai, ketvirtas iš eilės Vilniaus
+    vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­
+    tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis
+    Žemaičių ir vėliau Vilniaus vysk. Motiejus ir antrasis Žemaičių
+    vysk. Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­
+    skirti vyskupais Vytautui juos rekomenduojant.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

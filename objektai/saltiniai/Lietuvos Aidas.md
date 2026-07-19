@@ -65,7 +65,10 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
     uždrausti. Vien tik vokiečių štabas spausdino lietuvišką laikrašt-
     palaikį „Dabartį". Tik 1917 metais buvo gautas leidimas
     griežtoj cenzūroj leisti „Lietuvos Aidą".
-  citata_rodoma: "Vien tik vokiečių štabas spausdino lietuvišką laikrašt-\npalaikį „Dabartį\". Tik 1917 metais buvo gautas leidimas\ngriežtoj cenzūroj leisti „Lietuvos Aidą\"."
+  citata_rodoma: |
+    Vien tik vokiečių štabas spausdino lietuvišką laikrašt-
+    palaikį „Dabartį". Tik 1917 metais buvo gautas leidimas
+    griežtoj cenzūroj leisti „Lietuvos Aidą".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

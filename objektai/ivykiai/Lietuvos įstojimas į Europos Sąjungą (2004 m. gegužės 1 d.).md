@@ -93,7 +93,13 @@ Nenurodyta
     rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
     konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
     mo) Europos parlamentui teisę.
-  citata_rodoma: "Kiek­\nvienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-\nrių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos \nrinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir \nkonsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-\nmo) Europos parlamentui teisę."
+  citata_rodoma: |
+    Kiek­
+    vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-
+    rių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos
+    rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
+    konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
+    mo) Europos parlamentui teisę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

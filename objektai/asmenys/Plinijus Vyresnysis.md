@@ -411,7 +411,13 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     tėsi klajoklių amaksolių, arba sarmatų, ordos, neturėju­
     sios kitokių būstų, o tik klajokliškas palapines, ištiestas
     ant vežimų.
-  citata_rodoma: "Pagaliau, papildydamas aprašymą, cituoju tą\npatį autorių: Welti, Hossii ir Karbony, — tai toliau į\nšiaurę prie Baltijos jūros gyvenusios gentys. Plinijus\nnetrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­\nriai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar\nsugebės kas nors nubraižyti šių tautų žemėlapį?"
+  citata_rodoma: |
+    Pagaliau, papildydamas aprašymą, cituoju tą
+    patį autorių: Welti, Hossii ir Karbony, — tai toliau į
+    šiaurę prie Baltijos jūros gyvenusios gentys. Plinijus
+    netrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­
+    riai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar
+    sugebės kas nors nubraižyti šių tautų žemėlapį?
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -480,7 +486,14 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
     gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
     rinė Europos pakrantė.
-  citata_rodoma: "Sala, kurią Plinijus vadina Baltija, remdamasis visais\nHardua rankraščiais ir stebėjimais, turėtų vadintis Basi-\nlia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų\nkelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2\nFosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­\nroje, Austraviją, arba Glesariją, nurodo esant fryzų sala\nAmelandu."
+  citata_rodoma: |
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
+    kelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2
+    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
+    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
+    Amelandu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -512,7 +525,23 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
     labai daug gintaro, — ten seniau buvo daugelį mylių
     besitęsianti sausuma.
-  citata_rodoma: "Kopija iš Karaliau­\nčiaus archyvo kopijos, sub titulo Pommeraniae pertinen­\ndo, yra be pradžios ir pabaigos. Argi tuo būdu negalima\nbuvo patekti j Baltiją, Plinijaus vadinamą gintaringa\nsala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos\nir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­\ndaug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už\nšiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­\nžiau kaip šiandien Sambijoje.\nLaikui bėgant, čia marių vandenys visiškai pakeitė\npakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­\nrokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau\nji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien\nnardo žuvys ir iš paslaptingų jūros gelmių išgaunama\nlabai daug gintaro, — ten seniau buvo daugelį mylių\nbesitęsianti sausuma."
+  citata_rodoma: |
+    Kopija iš Karaliau­
+    čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
+    do, yra be pradžios ir pabaigos. Argi tuo būdu negalima
+    buvo patekti j Baltiją, Plinijaus vadinamą gintaringa
+    sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos
+    ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­
+    daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už
+    šiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­
+    žiau kaip šiandien Sambijoje.
+    Laikui bėgant, čia marių vandenys visiškai pakeitė
+    pakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­
+    rokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau
+    ji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien
+    nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
+    labai daug gintaro, — ten seniau buvo daugelį mylių
+    besitęsianti sausuma.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -543,7 +572,19 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     įvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
-  citata_rodoma: "Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­\nga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine\nir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­\nristenio ir Bugo, šio autoriaus vadinto Btigus2. Bet, kal­\nbant apie Gero upę, o ypač apie kraštą, kur yra skitų ka­\npinynas, negalima atmesti prielaidos, kad buvę ir kitų\nvietų su panašiais, anksčiau ar vėliau Plinijaus užrašy­\ntais pavadinimais; tuo atveju, jei šis žymus geografas\nnesuklydo remdamasis žiniomis, surinktomis iš pernelyg\nįvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai\nnemokėjo rasti vietos jo Carcinites** įlankai ir to paties\npavadinimo miestui."
+  citata_rodoma: |
+    Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
+    ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
+    ir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­
+    ristenio ir Bugo, šio autoriaus vadinto Btigus2. Bet, kal­
+    bant apie Gero upę, o ypač apie kraštą, kur yra skitų ka­
+    pinynas, negalima atmesti prielaidos, kad buvę ir kitų
+    vietų su panašiais, anksčiau ar vėliau Plinijaus užrašy­
+    tais pavadinimais; tuo atveju, jei šis žymus geografas
+    nesuklydo remdamasis žiniomis, surinktomis iš pernelyg
+    įvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai
+    nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
+    pavadinimo miestui.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -569,7 +610,18 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     įsikūrusi Bartėnų seniūnijoje. Vėliau sužinosime, kad ją įkūrė dar
     XIII amžiuje arba XIV amžiaus pradžioje ateiviai iš kitų Lietuvos
     žemės kraštų.
-  citata_rodoma: "Senovės tyrinėtojai, pradedant Plinijaus kom­\npiliacijomis ir baigiant nuodugniai mąstančiu Uphage- \nnu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, \nnet mokytasis ponas Foigtas patenka į keblią padėtį šia \nprasme ir daro visiškai netaiklias išvadas2. Pernelyg daug \nlaiko reikėtų tam, kad paneigtume visas hipotezes, o ant­\nra vertus, tektų kartoti tai, ką jau rašėme arba ketiname \nvėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­\nrės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,\nj Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė, \nįsikūrusi Bartėnų seniūnijoje."
+  citata_rodoma: |
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
+    piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
+    nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
+    net mokytasis ponas Foigtas patenka į keblią padėtį šia
+    prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
+    laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
+    ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

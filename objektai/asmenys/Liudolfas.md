@@ -103,7 +103,23 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
     karą prieš lietuvius beveik
     K rik šč io n išk ų jų ša lių
     visą Europą.
-  citata_rodoma: "Skubiai sutelkę būrius,\ntu v ių\nsudarytus veikiau iš plėšikų\nnei karių, jie įsiveržė keliose\nvietose į Prūsiją, likusią be jokios apsaugos, Šitaip es­\nti, kai ginamasi nuo dviejų priešų, visą dėmesį sutel­\nkus į vieną ir visai užmiršus, kokių bėdų galima susi­\nlaukti iš kito! Beveik visa Prūsija buvo nusiaubta ir\npelenais paversta, bemaž visi žemdirbiai išžudyti, ša­\nlis buvo taip žiauriai nuniokota, kad Liudolfas, sugrį­\nžęs iš žygio ir išvydęs nepaprastą nelaimę, apstulbo iš\nsiaubo ir sielvarto; prarado ir protą, o netrukus ir nu­\nmirė. Jo įpėdinis Henrikas Duzemeris turėjo raginti į\nkarą prieš lietuvius beveik\nK rik šč io n išk ų jų  ša lių\nvisą Europą."
+  citata_rodoma: |
+    Skubiai sutelkę būrius,
+    tu v ių
+    sudarytus veikiau iš plėšikų
+    nei karių, jie įsiveržė keliose
+    vietose į Prūsiją, likusią be jokios apsaugos, Šitaip es­
+    ti, kai ginamasi nuo dviejų priešų, visą dėmesį sutel­
+    kus į vieną ir visai užmiršus, kokių bėdų galima susi­
+    laukti iš kito! Beveik visa Prūsija buvo nusiaubta ir
+    pelenais paversta, bemaž visi žemdirbiai išžudyti, ša­
+    lis buvo taip žiauriai nuniokota, kad Liudolfas, sugrį­
+    žęs iš žygio ir išvydęs nepaprastą nelaimę, apstulbo iš
+    siaubo ir sielvarto; prarado ir protą, o netrukus ir nu­
+    mirė. Jo įpėdinis Henrikas Duzemeris turėjo raginti į
+    karą prieš lietuvius beveik
+    K rik šč io n išk ų jų  ša lių
+    visą Europą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

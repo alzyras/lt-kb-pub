@@ -71,7 +71,8 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
     sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo
     sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „lands-
     bergininkus“.
-  citata_rodoma: "sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo"
+  citata_rodoma: |
+    sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

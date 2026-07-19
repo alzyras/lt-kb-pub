@@ -75,7 +75,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     und
     finnischen
     Volkspoesie. Tilžė. Litauische Warte.
-  citata_rodoma: "L. Die Beziehungen zwischen der litauischen \nund \nfinnischen \nVolkspoesie. Tilžė. Litauische Warte."
+  citata_rodoma: |
+    L. Die Beziehungen zwischen der litauischen
+    und
+    finnischen
+    Volkspoesie. Tilžė. Litauische Warte.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -90,7 +94,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   indeksas: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“, p. 7 (PDF 6)."
   citata_originali: |
     L. Tas pats lietuviškai. Tilžė. Prūsų lietuvių balsas.
-  citata_rodoma: "L. Tas pats lietuviškai. Tilžė. Prūsų lietuvių balsas."
+  citata_rodoma: |
+    L. Tas pats lietuviškai. Tilžė. Prūsų lietuvių balsas.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

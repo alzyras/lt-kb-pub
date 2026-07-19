@@ -751,7 +751,12 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
     Lietuva nesiruošianti kariauti – užteksią milicijos…
     Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
-  citata_rodoma: "Ekstravagantiškasis istorijos pro-\nfesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai \nnustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą \nLietuva nesiruošianti kariauti – užteksią milicijos…\nTačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją."
+  citata_rodoma: |
+    Ekstravagantiškasis istorijos pro-
+    fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai
+    nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
+    Lietuva nesiruošianti kariauti – užteksią milicijos…
+    Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

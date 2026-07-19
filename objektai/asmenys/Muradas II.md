@@ -75,7 +75,12 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
     Žvilgterėję dabar bendrai į Vytauto Didžiojo veikimą po
     Melno taikos, matome, kad šituo laiku (1422—1428) veik visa jo
     energija buvo sunaudojama įsigalėjimui Rytuose.
-  citata_rodoma: "Turkų sultonas Muradas II\nsiuntė Vytautui į Smolenską dovanų.\nŽvilgterėję dabar bendrai į Vytauto Didžiojo veikimą po\nMelno taikos, matome, kad šituo laiku (1422—1428) veik visa jo\nenergija buvo sunaudojama įsigalėjimui Rytuose."
+  citata_rodoma: |
+    Turkų sultonas Muradas II
+    siuntė Vytautui į Smolenską dovanų.
+    Žvilgterėję dabar bendrai į Vytauto Didžiojo veikimą po
+    Melno taikos, matome, kad šituo laiku (1422—1428) veik visa jo
+    energija buvo sunaudojama įsigalėjimui Rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -61,7 +61,8 @@ Bogušo miškas šiame šaltinyje yra miškas.
     — Juk tamsta šiemet samdei iš Bogušo
     miško. Kažin, ar ilgai stovės kelias. Nėr ko laukti, reikia tuojau namo
     vilkti.
-  citata_rodoma: "Juk tamsta šiemet samdei iš Bogušo miško. Kažin, ar ilgai stovės kelias. Nėr ko laukti, reikia tuojau namo vilkti."
+  citata_rodoma: |
+    Juk tamsta šiemet samdei iš Bogušo miško. Kažin, ar ilgai stovės kelias. Nėr ko laukti, reikia tuojau namo vilkti.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

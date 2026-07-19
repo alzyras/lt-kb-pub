@@ -109,7 +109,17 @@ Nenurodyta
     netos ir metalai buvo perdegę ir pusiau susilydę, kitur visiškai
     sveiki; vadinasi, kai kada tie dalykai būdavo kartu metami į
     laužą, o kartais, sudeginus kūną, dedami tiesiai į urną.
-  citata_rodoma: "Kartais jie būna apdėti ak­\nmenimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių\nasmenų kūnus laidodavo ne tik su visais drabužiais, būdingais\nkiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­\nvas būdamas: karys su ginklu, medžiotojas su lanku, amati­\nninkas su savo amato įrankiais. Visuomet pagoniškose kapa­\nvietėse randamas koks nors geležinis daiktas, padėtas prie deši­\nniojo peties, prie motenį -  varinės adatos, akmeniniai verpstukų\nsmagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­\nkio lygintuvo liekanas, iškastas Obeliuose)."
+  citata_rodoma: |
+    Kartais jie būna apdėti ak­
+    menimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių
+    asmenų kūnus laidodavo ne tik su visais drabužiais, būdingais
+    kiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­
+    vas būdamas: karys su ginklu, medžiotojas su lanku, amati­
+    ninkas su savo amato įrankiais. Visuomet pagoniškose kapa­
+    vietėse randamas koks nors geležinis daiktas, padėtas prie deši­
+    niojo peties, prie motenį -  varinės adatos, akmeniniai verpstukų
+    smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
+    kio lygintuvo liekanas, iškastas Obeliuose).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

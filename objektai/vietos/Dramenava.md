@@ -137,7 +137,13 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
     išsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
-  citata_rodoma: "Štai todėl,\npalaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei\nkaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę\nvieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo\natgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus\nišsklaidė."
+  citata_rodoma: |
+    Štai todėl,
+    palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
+    kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
+    vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
+    atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
+    išsklaidė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -154,7 +160,9 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
     Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus. Rinavos
     pilis, matyt, buvusi Galtgarbių aukštumoje (117 m virš Baltijos jūros lygio įrengtame
     piliakalnyje tarp Galtgarbių ir Kumėnų (Kumehnen).
-  citata_rodoma: "380 D.  ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas  į pietus nuo\nPabečių (Sch-K; GAO, p. 30)."
+  citata_rodoma: |
+    380 D.  ir Jer.— Dramenow; Dramenava (vėliau — Drebnau), kaimas  į pietus nuo
+    Pabečių (Sch-K; GAO, p. 30).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -175,7 +183,16 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
     vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
     atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
     išsklaidė.
-  citata_rodoma: "Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį\n\n  Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai\nbroliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,\npalaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei\nkaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę\nvieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo\natgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus\nišsklaidė."
+  citata_rodoma: |
+    Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
+
+      Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
+    broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui. Štai todėl,
+    palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
+    kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
+    vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
+    atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
+    išsklaidė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

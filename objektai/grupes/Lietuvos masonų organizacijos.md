@@ -117,7 +117,14 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
     straipsnių.
     T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
     laikinį žmogų.
-  citata_rodoma: "Europos istorikų -\nVilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro\nVilhelmo Gizo, Johano Miulerio -  darbus.\nVisuomenės švietimo ir ugdymo uždaviniai buvo suformu­\nluoti masonų organizacijose. Lietuvos istorijos ir etnografijos\nmuziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­\nbutas."
+  citata_rodoma: |
+    Europos istorikų -
+    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
+    Vilhelmo Gizo, Johano Miulerio -  darbus.
+    Visuomenės švietimo ir ugdymo uždaviniai buvo suformu­
+    luoti masonų organizacijose. Lietuvos istorijos ir etnografijos
+    muziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­
+    butas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -137,7 +144,14 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
     Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
     odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
     Marcinovskis taip pat priklausė masonų organizacijai.
-  citata_rodoma: "Ant taurės išgraviruota data -  „1817 m.“ R. Kli­\nmavičiaus nuomone, tais metais T. Narbutas įstojo į masonų\norganizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­\nmo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik\nWilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­\nodinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas\nMarcinovskis taip pat priklausė masonų organizacijai."
+  citata_rodoma: |
+    Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
+    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
+    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
+    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
+    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
+    Marcinovskis taip pat priklausė masonų organizacijai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

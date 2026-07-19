@@ -162,7 +162,26 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
     tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
     rėkite, kad, susiradę kokį valdovą, neprarastumėte per
     savo ištižimą laisvės, kurią iš priešų malonės gavote.
-  citata_rodoma: "Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles. Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę."
+  citata_rodoma: |
+    Galop nugalėję lietuviai išvijo barbarus iš
+    stovyklos: galybė priešų krito mūšyje, kur kas dau­
+    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
+    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
+    D u o k lės p ra ša n tiem s
+    sk ita m s E rd vila s siu n ­
+    čia  d v i strė le s
+    šaukęs pasiuntinius, jis atsi­
+    sakė duoklės, paskelbė karą
+    ir įteikė jų kunigaikščiui do­
+    vaną— dvi strėles. Atleidęs
+    pasiuntinius, įsakė juos klyst-
+    82
+
+    ## Puslapis 81
+
+    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
+    valdovui ne tik didesnę pagarbą bei palankumą, bet
+    ir pastovesnę ištikimybę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -195,7 +214,27 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
     klastingų duobių saugotis.
     Tada tie etmonai, išrikiavę karius, žengė į mūšį,
     o vokiečiai, šitai matydami, susikovė su jais.
-  citata_rodoma: "Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą.\nNaugardiečiai, matydami pskoviečius jam pasidavus \nir priėmus jo vietininką, nebenorėdami, kad jų žemė \nnuo didžiojo kunigaikščio Vytauto dar labiau nukentė­\ntų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam \ntarnauti, ir duoklę duoti, ir laikyti ji savo valdovu, \nkaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas \npaskyrė jiems vietininku savo svainį, kunigaikštį Si­\nmoną Alšėniškį, vadinamą Rūsčiuoju 9 ."
+  citata_rodoma: |
+    Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+    (07
+
+    ## Puslapis 103
+
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
+    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
+    moną Alšėniškį, vadinamą Rūsčiuoju 9 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

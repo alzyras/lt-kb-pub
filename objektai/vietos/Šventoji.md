@@ -130,7 +130,14 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
     stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
     muną dviejų mylių ruože^31.
-  citata_rodoma: "Jos žemupys\npaliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena\ntiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­\nmuno pusėje įteka Šventoji.\nŽemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui\nstačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­\nmuną dviejų mylių ruože^31."
+  citata_rodoma: |
+    Jos žemupys
+    paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena
+    tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­
+    muno pusėje įteka Šventoji.
+    Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
+    stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
+    muną dviejų mylių ruože^31.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

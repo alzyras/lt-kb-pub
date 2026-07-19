@@ -91,7 +91,8 @@ Nenurodyta
     bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti
     komunikaciją tarp šalies gyventojų, bet ir turėjo slaptą kultūrinės ekspansi-
     jos aspektą.
-  citata_rodoma: "bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti"
+  citata_rodoma: |
+    bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

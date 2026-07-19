@@ -64,10 +64,13 @@ Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Enno
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    teiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­
-    derikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­
-    šams beriliams nugalėti.
-  citata_rodoma: "Visa tai lėmė,\njog romėnai slapta nuvyko pas Zenoną prašyli, kad jis\n1 Ennodius. In lib. dicto Theodorici reg. P. 298."
+    Visa tai lėmė,
+    jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis
+    1 Ennodius. In lib. dicto Theodorici reg. P. 298.
+  citata_rodoma: |
+    Visa tai lėmė,
+    jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis
+    1 Ennodius. In lib. dicto Theodorici reg. P. 298.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

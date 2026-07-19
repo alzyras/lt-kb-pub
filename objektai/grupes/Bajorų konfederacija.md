@@ -94,7 +94,13 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
     vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
-  citata_rodoma: "Prieš švedus ir jų sąjungininkus taip pat\nkovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-\nvusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,\nvadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,\nKristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos\nkariuomenės."
+  citata_rodoma: |
+    Prieš švedus ir jų sąjungininkus taip pat
+    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
+    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
+    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
+    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
+    kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -70,7 +70,16 @@ media_all_json: |-
     P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
 
     Dalius Žygelis, Loreta Uzdraitė.
-  citata_rodoma: ",\n\nKarolis Zikaras, Loreta Uzdraitė.\n\nKARAS PO KARO\n\nP. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,\n\nDalius Žygelis, Loreta Uzdraitė."
+  citata_rodoma: |
+    ,
+
+    Karolis Zikaras, Loreta Uzdraitė.
+
+    KARAS PO KARO
+
+    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

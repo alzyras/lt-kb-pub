@@ -54,13 +54,19 @@ Nors Eneas Silvius Picolomini ir perdeda, pa­ sakodamas apie jo žiaurumą, bet
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    jam įžeidimų. Nors Eneas Silvius Picolomini ir perdeda, pa­
+    Nors Eneas Silvius Picolomini ir perdeda, pa­
     sakodamas apie jo žiaurumą, bet švelniu valdovu Vytauto ne­
     galima vadinti. Sunku jį už tai kaltinti: juk ir labiau persi­
     ėmusioje krikščionybės dvasia vakarų Europoje žiaurumų bu­
     vo labai daug, tai dar daugiau jų turėjo būti mažiau kultūrin­
     guose rytuose.
-  citata_rodoma: "Nors Eneas Silvius Picolomini ir perdeda, pa­\nsakodamas apie jo žiaurumą, bet švelniu valdovu Vytauto ne­\ngalima vadinti. Sunku jį už tai kaltinti: juk ir labiau persi­\nėmusioje krikščionybės dvasia vakarų Europoje žiaurumų bu­\nvo labai daug, tai dar daugiau jų turėjo būti mažiau kultūrin­\nguose rytuose."
+  citata_rodoma: |
+    Nors Eneas Silvius Picolomini ir perdeda, pa­
+    sakodamas apie jo žiaurumą, bet švelniu valdovu Vytauto ne­
+    galima vadinti. Sunku jį už tai kaltinti: juk ir labiau persi­
+    ėmusioje krikščionybės dvasia vakarų Europoje žiaurumų bu­
+    vo labai daug, tai dar daugiau jų turėjo būti mažiau kultūrin­
+    guose rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

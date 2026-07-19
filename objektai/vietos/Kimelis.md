@@ -132,7 +132,13 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
     upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
-  citata_rodoma: "Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto\ndievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,\ntaip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir\npatys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei\nišlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o\nją pačią, pakišę ugnį, ligi pamatu sudegino."
+  citata_rodoma: |
+    Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
+    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
+    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
+    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
+    išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
+    ją pačią, pakišę ugnį, ligi pamatu sudegino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

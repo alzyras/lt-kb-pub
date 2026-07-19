@@ -381,7 +381,19 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
     tą vardą jiems suteikė kitos tautos, o ne jie patys taip save vadino,
     be to, Adelungas ir net Dobrovskis venedus klaidingai priskyrė prie
     vokiečių, pateikė Safaržykas (Starožytnošci slawianskie.
-  citata_rodoma: "Kaip slavai atsirado ‘šiose lygumose arba kaip\nir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.\nPasakysime tiktai tiek, kad venedams priklausė ne viena\ngentis, labai dominanti mūsų veikalą, o panagrinėję pa­\nties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,\ndar labiau sustiprinsime šią nuomonę. Galėjo būti, kad\nvenedų slavams ikikrikščioniškosios eros amžiais ar kiek\nvėliau priklausė kuri nors Baltijos jūros pakrantė tarp\nVyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš\nrytų slenkančių genčių; jų pėdsakas išliko Vindavos upės\npavadinime; be to, Vinidų, Vinidarių pavardę dera lai­\nkyti lietuviškos kilmės."
+  citata_rodoma: |
+    Kaip slavai atsirado ‘šiose lygumose arba kaip
+    ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
+    Pasakysime tiktai tiek, kad venedams priklausė ne viena
+    gentis, labai dominanti mūsų veikalą, o panagrinėję pa­
+    ties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,
+    dar labiau sustiprinsime šią nuomonę. Galėjo būti, kad
+    venedų slavams ikikrikščioniškosios eros amžiais ar kiek
+    vėliau priklausė kuri nors Baltijos jūros pakrantė tarp
+    Vyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš
+    rytų slenkančių genčių; jų pėdsakas išliko Vindavos upės
+    pavadinime; be to, Vinidų, Vinidarių pavardę dera lai­
+    kyti lietuviškos kilmės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

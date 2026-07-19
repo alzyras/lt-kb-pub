@@ -169,7 +169,15 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
     Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
     tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
     reikalavo Odoakras.
-  citata_rodoma: "Beveik tuo pat metu Norike kilo kažkokie neramumai, \nkurie ir atviliojo ten herulus. 477 metais jie sudegino gar­\nsią romėnų koloniją Juvavą prie Saurus upės — dabar \ntai Zalcburgas prie Zalcacho upės.\nTaigi 478 metais reikėjo saksų priešakyje plaukti į \nGaliją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­\ntis karalius nusižemino ir sudarė sąjungą, kokios iš jo \nreikalavo Odoakras."
+  citata_rodoma: |
+    Beveik tuo pat metu Norike kilo kažkokie neramumai,
+    kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­
+    sią romėnų koloniją Juvavą prie Saurus upės — dabar
+    tai Zalcburgas prie Zalcacho upės.
+    Taigi 478 metais reikėjo saksų priešakyje plaukti į
+    Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
+    tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
+    reikalavo Odoakras.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

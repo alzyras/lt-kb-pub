@@ -66,13 +66,19 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Vorkslos mūšyje su loloriais.
-    • Trubčevskas — dabar RFTSR Brlansko miestas (apie 80 km
-    į pietvakarius nuo Briansko, prie Desnos upės); XIV a. buvo Brlans­
-    ko kunigaikštystės dalis, prijungta prie Lietuvos valstybės XIV a.
-    šeštajame ar septintajame dešlmtmelyje. BK versijoje apie Trubčevs-
-    ko priklausymų Andriui Algirdalčiut Polockiškiui gali būti tiesos.
-  citata_rodoma: "Ten taip pat buvo bažnyčia „sancta M aria in arena\".\n1 0  Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius \n¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS.\n23\n1  Pasakojimas apie Algirdo žygį į Maskvų yra tik Lietuvos \nm etraščių Jevrejinovo nuoraše ir BK."
+    Ten taip pat buvo bažnyčia „sancta M aria in arena".
+    1 0  Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius
+    ¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS.
+    23
+    1  Pasakojimas apie Algirdo žygį į Maskvų yra tik Lietuvos
+    m etraščių Jevrejinovo nuoraše ir BK.
+  citata_rodoma: |
+    Ten taip pat buvo bažnyčia „sancta M aria in arena".
+    1 0  Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius
+    ¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS.
+    23
+    1  Pasakojimas apie Algirdo žygį į Maskvų yra tik Lietuvos
+    m etraščių Jevrejinovo nuoraše ir BK.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

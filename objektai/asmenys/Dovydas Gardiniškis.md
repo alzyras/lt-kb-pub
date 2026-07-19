@@ -70,7 +70,10 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
     Pagal M. Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado
     Dovydo Gardiniškio žmona buvusi taip pat Gediminaite. Politiškai
     dar reikšmingesnės buvo sūnų vedybos.
-  citata_rodoma: "Pagal M. Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado\nDovydo Gardiniškio žmona buvusi taip pat Gediminaite. Politiškai\ndar reikšmingesnės buvo sūnų vedybos."
+  citata_rodoma: |
+    Pagal M. Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado
+    Dovydo Gardiniškio žmona buvusi taip pat Gediminaite. Politiškai
+    dar reikšmingesnės buvo sūnų vedybos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

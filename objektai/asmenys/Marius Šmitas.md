@@ -72,8 +72,11 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
   citata_originali: |
     p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.
 
-    p. 261, Marius Šmitas ir Pranas Kasteckas 1991 m. pučas, KAM.
-  citata_rodoma: "p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.\n\np."
+    p.
+  citata_rodoma: |
+    p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

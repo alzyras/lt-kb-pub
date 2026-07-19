@@ -158,7 +158,12 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     krašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną,
     o vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis
     kartus.
-  citata_rodoma: ", 1316 m.\npradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs\nkrašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną,\no vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis\nkartus."
+  citata_rodoma: |
+    , 1316 m.
+    pradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs
+    krašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną,
+    o vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis
+    kartus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -178,7 +183,10 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
+  citata_rodoma: |
+    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

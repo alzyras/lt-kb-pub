@@ -214,7 +214,19 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
     pėdų ilgio, medžių be šerdžių, šakų, ataugų, rievių, ro­
     dančių augalų amžių, iš dalies prisisunkusių sieros rūgš­
     ties, bet nesuakmenėjusių.
-  citata_rodoma: "49\n\n## Puslapis 47\n\nkrantų buvusios salos, dalis sausumos nusileido arba vir­\nto kyšuliais, upių žiotys pakeitė savo kryptis, užtvino pa­\nkrantės ir atsirado šiuos pokyčius lydinčių aplinkybių1.\nSavaime suprantama, tokia didžiulė nelaimė turėjusi iš­\nstumti tuometinius Baltijos jūros pakrančių gyventojus,\nkurie buvo kimbrai, iš jų gyvenamųjų vietų. Tai ir pri­\nvertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net\nIlyrijoje."
+  citata_rodoma: |
+    49
+
+    ## Puslapis 47
+
+    krantų buvusios salos, dalis sausumos nusileido arba vir­
+    to kyšuliais, upių žiotys pakeitė savo kryptis, užtvino pa­
+    krantės ir atsirado šiuos pokyčius lydinčių aplinkybių1.
+    Savaime suprantama, tokia didžiulė nelaimė turėjusi iš­
+    stumti tuometinius Baltijos jūros pakrančių gyventojus,
+    kurie buvo kimbrai, iš jų gyvenamųjų vietų. Tai ir pri­
+    vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
+    Ilyrijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -237,7 +249,18 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
     išsaugoję daug smulkmenų, įrodančių jų seną kilmę. Ve­
     necijos senatorius Morosinis turi knygą, aiškinančią jų
     kalbą ir kilmę1.
-  citata_rodoma: "51\n\n## Puslapis 49\n\nsykį sakė, jog šio istoriko tikroviškumas yra tikrai isto­\nrinis. Mes, sekdami Herodoto žodžiais ir remdamiesi se­\nnovės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­\nsijoje viešėjusia gentimi, net galėjusia palikti savo kal­\nbos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­\nros pakrančių gyventojais paminklų. Savo pavadinimą\njie įamžino iki šiol išlikusiose pavardėse."
+  citata_rodoma: |
+    51
+
+    ## Puslapis 49
+
+    sykį sakė, jog šio istoriko tikroviškumas yra tikrai isto­
+    rinis. Mes, sekdami Herodoto žodžiais ir remdamiesi se­
+    novės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­
+    sijoje viešėjusia gentimi, net galėjusia palikti savo kal­
+    bos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­
+    ros pakrančių gyventojais paminklų. Savo pavadinimą
+    jie įamžino iki šiol išlikusiose pavardėse.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

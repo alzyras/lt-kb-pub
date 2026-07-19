@@ -141,7 +141,13 @@ media_all_json: |-
     toliau - palei Vilniaus-Lydos geležinkelį iki
     Bastūnų stoties. Varėnos ir Bastūnų stotys
     liko lenkams.
-  citata_rodoma: "Galiausiai spalio 7 d. buvo nusta-\ntyta demarkacinė linija nuo Vokietijos sienos\niki Juodosios Ančios ir Nemuno santakos,\ntoliau - palei Vilniaus-Lydos geležinkelį iki\nBastūnų stoties. Varėnos ir Bastūnų stotys\nliko lenkams."
+  citata_rodoma: |
+    Galiausiai spalio 7 d. buvo nusta-
+    tyta demarkacinė linija nuo Vokietijos sienos
+    iki Juodosios Ančios ir Nemuno santakos,
+    toliau - palei Vilniaus-Lydos geležinkelį iki
+    Bastūnų stoties. Varėnos ir Bastūnų stotys
+    liko lenkams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -157,7 +163,9 @@ media_all_json: |-
     Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio.
-  citata_rodoma: "Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-\nnys nuvyko į Varėną, iš ten per Alytų į Šeštokus."
+  citata_rodoma: |
+    Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
+    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -175,7 +183,11 @@ media_all_json: |-
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
     grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
     nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
-  citata_rodoma: "Traukinys savo patrankomis ir kul-\nkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“\ngrižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,\nnuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį."
+  citata_rodoma: |
+    Traukinys savo patrankomis ir kul-
+    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
+    grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
+    nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -194,7 +206,11 @@ media_all_json: |-
     troliuojamą Lietuvos teritoriją iš rytų.
 
     Spalio 3 d. lenkai užima Varėnos stotį.
-  citata_rodoma: "sugrįžti į Lietuvos kariuomenės kon-\ntroliuojamą Lietuvos teritoriją iš rytų.\n\nSpalio 3 d. lenkai užima Varėnos stotį."
+  citata_rodoma: |
+    sugrįžti į Lietuvos kariuomenės kon-
+    troliuojamą Lietuvos teritoriją iš rytų.
+
+    Spalio 3 d. lenkai užima Varėnos stotį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

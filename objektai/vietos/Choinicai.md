@@ -76,7 +76,23 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
     pasibaigė karas Prūsijoje, kur
     nicus
     lenkai užėmė Choinicus.
-  citata_rodoma: "Po to, beveik netrukdomi pasi­\nrengę lemiamam antpuoliui, iš arti visa jėga užgriuvo\ntvirtovės sienas. Pilies gynėjai, iš visų pusių apsupti,\nmėgino prasiveržti, tačiau juos sumušė ir atstūmė; kai\nnuo padegamųjų strėlių daugelyje vietų suliepsnojo\nnamai, jie, praradę bet kokią viltį, pasiūlius Ulrichui,\nįgulos viršininkui, pasidavė\n1467 m e ta i\nkaraliui. Choinicams kritus,\nG im sta\nk u n ig a ik štis\npopiežiaus pasiuntinys\nRu-\nZ y g im a n ta s\ndolfas pasistengė, kad būtų\nsudaryta taika."
+  citata_rodoma: |
+    Po to, beveik netrukdomi pasi­
+    rengę lemiamam antpuoliui, iš arti visa jėga užgriuvo
+    tvirtovės sienas. Pilies gynėjai, iš visų pusių apsupti,
+    mėgino prasiveržti, tačiau juos sumušė ir atstūmė; kai
+    nuo padegamųjų strėlių daugelyje vietų suliepsnojo
+    namai, jie, praradę bet kokią viltį, pasiūlius Ulrichui,
+    įgulos viršininkui, pasidavė
+    1467 m e ta i
+    karaliui. Choinicams kritus,
+    G im sta
+    k u n ig a ik štis
+    popiežiaus pasiuntinys
+    Ru-
+    Z y g im a n ta s
+    dolfas pasistengė, kad būtų
+    sudaryta taika.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

@@ -59,7 +59,10 @@ Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir rel
     dė Lietuvos kunigaikščiai^146. Kitas ukrainietis istorikas V. Zai­
     kinas rašė iš teisės filosofijos ir religijos istorijos srities, lies­
     damas D. Lietuvos Kunigaikštystę^147.
-  citata_rodoma: "Kitas ukrainietis istorikas V. Zai­\nkinas rašė iš teisės filosofijos ir religijos istorijos srities, lies­\ndamas D. Lietuvos Kunigaikštystę^147."
+  citata_rodoma: |
+    Kitas ukrainietis istorikas V. Zai­
+    kinas rašė iš teisės filosofijos ir religijos istorijos srities, lies­
+    damas D. Lietuvos Kunigaikštystę^147.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

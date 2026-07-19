@@ -89,7 +89,8 @@ Nenurodyta
     Vėžiavimas
     būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­
     tą vandenį ir parnešdavo terbą vėžių.
-  citata_rodoma: "Vėžiavimas būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šiltą vandenį ir parnešdavo terbą vėžių."
+  citata_rodoma: |
+    Vėžiavimas būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šiltą vandenį ir parnešdavo terbą vėžių.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

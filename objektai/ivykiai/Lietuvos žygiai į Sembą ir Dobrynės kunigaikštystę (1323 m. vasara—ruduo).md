@@ -134,7 +134,15 @@ Nenurodyta
     spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų
     sutartį Rygos miestas ir t. t. Ordinas tęsė agresiją 1324 m., kovo mėn. puldamas Gardino
     apylinkes, gegužės mėn.— Gedimino pilį Žemaitijoje, metų pabaigoje, rodos, vėl Gardiną.
-  citata_rodoma: "Tuo pat metu\n„Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias\npilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį\npatraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo\npusėje56.\n  Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš\nVokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,\nAriogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje."
+  citata_rodoma: |
+    Tuo pat metu
+    „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
+    pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
+    patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
+    pusėje56.
+      Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš
+    Vokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,
+    Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

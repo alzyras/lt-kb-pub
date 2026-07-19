@@ -154,7 +154,17 @@ Nenurodyta
     tuvių kariuomenė mūšio išvakarėse įveikė
     apie 25 km atstumą. P. Šuiskis išrikiavo
     savo kariuomenę ir laukė lietuvių.
-  citata_rodoma: "Kariuomenės viena kitą pamatė sau-\n\nsio 26 d. Žygyje gavęs žinių apie tai, kad lie-\ntuviai ruošiasi jam užkirsti kelią, P. Šuiskis\npats pasirinko mūšio vietą - lauką tarpu-\nmiškyje prie Ulos upės netoli Čašnikų.\nPrieš tai jo kariuomenė per tris-keturias\ndienas buvo nukeliavusi apie 80 km, o lie-\ntuvių kariuomenė mūšio išvakarėse įveikė\napie 25 km atstumą."
+  citata_rodoma: |
+    Kariuomenės viena kitą pamatė sau-
+
+    sio 26 d. Žygyje gavęs žinių apie tai, kad lie-
+    tuviai ruošiasi jam užkirsti kelią, P. Šuiskis
+    pats pasirinko mūšio vietą - lauką tarpu-
+    miškyje prie Ulos upės netoli Čašnikų.
+    Prieš tai jo kariuomenė per tris-keturias
+    dienas buvo nukeliavusi apie 80 km, o lie-
+    tuvių kariuomenė mūšio išvakarėse įveikė
+    apie 25 km atstumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -182,7 +192,22 @@ Nenurodyta
     minė Radvila Rudasis) ir šaulius. Pavykus
     juos išmušti iš pozicijų, priešininkų ka-
     riuomenéje kilo sumaištis.
-  citata_rodoma: "Puolimą pradėjo kelios lietu-\nvių vėliavos, pagrindinės jėgos\nbuvo paliktos lemiamam smūgiui.\nP. Šuiskis kontratakavo, mėginda-\nmas sustabdyti priešakinių lietuvių\npulkų puolimą, bet šie atlaikė mas-\nkvėnų smūgius. Tuo pasinaudodamas\nLietuvos didysis etmonas metė į mūšį\nvisas jėgas, koncentruodamas smūgį\nprieš maskvėnų artileriją (buvusios ke-\nlios dešimtys patrankų, atrodo, net iš viso\nnebuvo panaudotos, apie ką vėliau užsi-\nminė Radvila Rudasis) ir šaulius. Pavykus\njuos išmušti iš pozicijų, priešininkų ka-\nriuomenéje kilo sumaištis"
+  citata_rodoma: |
+    Puolimą pradėjo kelios lietu-
+    vių vėliavos, pagrindinės jėgos
+    buvo paliktos lemiamam smūgiui.
+    P. Šuiskis kontratakavo, mėginda-
+    mas sustabdyti priešakinių lietuvių
+    pulkų puolimą, bet šie atlaikė mas-
+    kvėnų smūgius. Tuo pasinaudodamas
+    Lietuvos didysis etmonas metė į mūšį
+    visas jėgas, koncentruodamas smūgį
+    prieš maskvėnų artileriją (buvusios ke-
+    lios dešimtys patrankų, atrodo, net iš viso
+    nebuvo panaudotos, apie ką vėliau užsi-
+    minė Radvila Rudasis) ir šaulius. Pavykus
+    juos išmušti iš pozicijų, priešininkų ka-
+    riuomenéje kilo sumaištis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +225,12 @@ Nenurodyta
     triuškinimas ir bėgančių priešų
     skerdynės. Daug bėgančių rusų pa-
     skendo, bandydami perplaukti Ulos upę.
-  citata_rodoma: "Trumpai žiemos dienai\nbaigiantis prasidėjo maskvėnų\ntriuškinimas ir bėgančių priešų\nskerdynės. Daug bėgančių rusų pa-\nskendo, bandydami perplaukti Ulos upę."
+  citata_rodoma: |
+    Trumpai žiemos dienai
+    baigiantis prasidėjo maskvėnų
+    triuškinimas ir bėgančių priešų
+    skerdynės. Daug bėgančių rusų pa-
+    skendo, bandydami perplaukti Ulos upę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +257,21 @@ Nenurodyta
     kitų artimiausių caro Ivano rv dvariškių.
     Taip pat nemaža kilmingųjų buvo paimta
     į nelaisvę.
-  citata_rodoma: "Skaičiuojama,\nkad šiame mūšyje žuvo apie 8000 —\n10000 maskvėnų. Pirmosios Lietuvos\nistorijos autorius Motiejus Strijkovksis,\nteigė, kad 1573 m. keliaudamas iš Vitebsko,\njis pats Ivansko lauke dar matė\nboluojančias maskvėnų kaulų\nkrūvas. Be vyriausiojo vado kuni-\ngaikščio M. Šuiskio, žuvo kunigaikš-\nčiai Aleksandras Porozovskis, Ivanas\nZacharinas, Fiodoras Paleckis bei daug\nkitų artimiausių caro Ivano rv dvariškių.\nTaip pat nemaža kilmingųjų buvo paimta\nį nelaisvę."
+  citata_rodoma: |
+    Skaičiuojama,
+    kad šiame mūšyje žuvo apie 8000 —
+    10000 maskvėnų. Pirmosios Lietuvos
+    istorijos autorius Motiejus Strijkovksis,
+    teigė, kad 1573 m. keliaudamas iš Vitebsko,
+    jis pats Ivansko lauke dar matė
+    boluojančias maskvėnų kaulų
+    krūvas. Be vyriausiojo vado kuni-
+    gaikščio M. Šuiskio, žuvo kunigaikš-
+    čiai Aleksandras Porozovskis, Ivanas
+    Zacharinas, Fiodoras Paleckis bei daug
+    kitų artimiausių caro Ivano rv dvariškių.
+    Taip pat nemaža kilmingųjų buvo paimta
+    į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -246,7 +290,12 @@ Nenurodyta
     stačiatikių katedroje. Lietuviams atiteko
     daug Maskvos kariuomenės ginklų, šarvų,
     drabužių ir atsargų.
-  citata_rodoma: "P. Šuiskio kūnas buvo atvež-\ntas į Vilnių ir su didele pagarba palaidotas\nstačiatikių katedroje. Lietuviams atiteko\ndaug Maskvos kariuomenės ginklų, šarvų,\ndrabužių ir atsargų."
+  citata_rodoma: |
+    P. Šuiskio kūnas buvo atvež-
+    tas į Vilnių ir su didele pagarba palaidotas
+    stačiatikių katedroje. Lietuviams atiteko
+    daug Maskvos kariuomenės ginklų, šarvų,
+    drabužių ir atsargų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

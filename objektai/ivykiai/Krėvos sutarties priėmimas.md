@@ -146,7 +146,8 @@ Nenurodyta
     išseko ir vertė ieškoti sąjungininko. Išeitis buvo 1385 m. sudaryta Krėvos
     sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
     Lenkijos karaliumi.
-  citata_rodoma: "sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo"
+  citata_rodoma: |
+    sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -165,7 +166,8 @@ Nenurodyta
     Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
     čių puolimai. Krėvos sutarties sudarymo išvakarėse Lietuvos jėgos seko,
     todėl lenkai tapo jos sąjungininkais.
-  citata_rodoma: "čių puolimai. Krėvos sutarties sudarymo išvakarėse Lietuvos jėgos seko,"
+  citata_rodoma: |
+    čių puolimai. Krėvos sutarties sudarymo išvakarėse Lietuvos jėgos seko,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

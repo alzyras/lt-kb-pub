@@ -102,7 +102,19 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
     Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
     leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593,
     santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi.
-  citata_rodoma: "Apie daugybės miestų bei pilių pastatymą\n\n  1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs\ngerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą  ir pritarimą,— to vyro,\nkuris itin rūpestingai ir uoliai ėjo jam patikėtas pareigas, be to, norėdamas praplėsti\nkrikščionių žemes, pradėjo statyti, o šventųjų Petro bei Povilo, apaštalų, dieną (birželio\n29) užbaigė Girdavų pilį Bartos žemėje. Tais pačiais metais ir tuo pat laiku Eberhardas,\nVarmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino\n\n\npagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,\nnetgi vyskupų valdas (žr."
+  citata_rodoma: |
+    Apie daugybės miestų bei pilių pastatymą
+
+      1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs
+    gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą  ir pritarimą,— to vyro,
+    kuris itin rūpestingai ir uoliai ėjo jam patikėtas pareigas, be to, norėdamas praplėsti
+    krikščionių žemes, pradėjo statyti, o šventųjų Petro bei Povilo, apaštalų, dieną (birželio
+    29) užbaigė Girdavų pilį Bartos žemėje. Tais pačiais metais ir tuo pat laiku Eberhardas,
+    Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino
+
+
+    pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,
+    netgi vyskupų valdas (žr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

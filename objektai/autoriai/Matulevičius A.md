@@ -68,7 +68,10 @@ Dusburgietis teigia, kad matulevičius A.
     Matulevičius A. Dėl lietuvių Prūsijoje etninės ribos XVIII a. pradžioje.—LMAD, 1972,
     t. 1 (38), p. 103—119.
     Matusas J. Ar prūsai buvo lietuviai?
-  citata_rodoma: "Matulevičius A. Dėl lietuvių Prūsijoje etninės ribos XVIII a. pradžioje.—LMAD, 1972,\nt. 1 (38), p. 103—119.\n  Matusas J. Ar prūsai buvo lietuviai?"
+  citata_rodoma: |
+    Matulevičius A. Dėl lietuvių Prūsijoje etninės ribos XVIII a. pradžioje.—LMAD, 1972,
+    t. 1 (38), p. 103—119.
+      Matusas J. Ar prūsai buvo lietuviai?
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -62,14 +62,21 @@ Ji ne tik gynė svarbų kelią tarp Prūsų ir Livonijos per patogią Kuršių N
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    ir kariniu atžvilgiu. Pavaduodamas susirgusį Livonijos magistrą,
+    Pavaduodamas susirgusį Livonijos magistrą,
     Eberhard von Seyne^135 (Deutschmeister) pastatė strategiškai svarbią
     Klaipėdos pilį 1253-1254 m.^136. Ji ne tik gynė svarbų kelią tarp
     Prūsų ir Livonijos per patogią Kuršių Neringą, bet dar turėjo būti
     apsauga artėjančioms iš Kuršo į pietus ir nuo kairiojo Nemuno
     kranto į šiaurę ordino riterių jėgoms, turinčioms sudaryti bendrą tiltą
     vakarų Žemaičiuose (Baltijos pakraštyje).
-  citata_rodoma: "Pavaduodamas susirgusį Livonijos magistrą,\nEberhard von Seyne^135 (Deutschmeister) pastatė strategiškai svarbią\nKlaipėdos pilį 1253-1254 m.^136. Ji ne tik gynė svarbų kelią tarp\nPrūsų ir Livonijos per patogią Kuršių Neringą, bet dar turėjo būti\napsauga artėjančioms iš Kuršo į pietus ir nuo kairiojo Nemuno\nkranto į šiaurę ordino riterių jėgoms, turinčioms sudaryti bendrą tiltą\nvakarų Žemaičiuose (Baltijos pakraštyje)."
+  citata_rodoma: |
+    Pavaduodamas susirgusį Livonijos magistrą,
+    Eberhard von Seyne^135 (Deutschmeister) pastatė strategiškai svarbią
+    Klaipėdos pilį 1253-1254 m.^136. Ji ne tik gynė svarbų kelią tarp
+    Prūsų ir Livonijos per patogią Kuršių Neringą, bet dar turėjo būti
+    apsauga artėjančioms iš Kuršo į pietus ir nuo kairiojo Nemuno
+    kranto į šiaurę ordino riterių jėgoms, turinčioms sudaryti bendrą tiltą
+    vakarų Žemaičiuose (Baltijos pakraštyje).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

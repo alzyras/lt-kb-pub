@@ -66,7 +66,14 @@ Mickevičius.
     ryšių bei raitųjų žvalgų komandas ir dau-
     gybė gurguolės vežimų. Pulkas artilerijos
     neturėjo.
-  citata_rodoma: "Bolševikų pajėgos\n7-ajam „lietuviška-\njam“ pulkui vadovavo\nrusas Lebedevas, jo pa-\nvaduotojas buvo baltarusis\nA. Ružancovas, pulko komi-\nsaras - lietuvis S. Mickevičius."
+  citata_rodoma: |
+    Bolševikų pajėgos
+    7-ajam „lietuviška-
+    jam“ pulkui vadovavo
+    rusas Lebedevas, jo pa-
+    vaduotojas buvo baltarusis
+    A. Ružancovas, pulko komi-
+    saras - lietuvis S. Mickevičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

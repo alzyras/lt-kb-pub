@@ -118,7 +118,8 @@ Nenurodyta
     žiuodavo tą dieną į bažnyčią mišių klausyti, pelenais galvos barstyti,
     bet kitiems proga ir dantis plauti.
     Pelenijoje mažiukai veždavo per kaimą „dėdelį“ .
-  citata_rodoma: "Pelenijoje mažiukai veždavo per kaimą „dėdelį“ ."
+  citata_rodoma: |
+    Pelenijoje mažiukai veždavo per kaimą „dėdelį“ .
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -137,7 +138,8 @@ Nenurodyta
     gavėnia, nejaučiamas griežtas skirtumas minimų laikų. Užgavėnėse
     jau ne devynis sykius valgoma, Pelenijoje jau dantų neplaunama, dė­
     delio nevežiojama ir gavėnios negavėjama.
-  citata_rodoma: "Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama."
+  citata_rodoma: |
+    Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -156,7 +158,8 @@ Nenurodyta
     esti pas įlaidų ūkininką ant tvarto.
     Čia jį nurėdo, arba palieka aprė­
     dytą kitiems metams.
-  citata_rodoma: "Pervažiavę visą kaimą ir sugrįžę, vaikai veža dėdelį, iš kur paėmę. Jo būstinės vieta esti pas įlaidų ūkininką ant tvarto. Čia jį nurėdo, arba palieka aprėdytą kitiems metams."
+  citata_rodoma: |
+    Pervažiavę visą kaimą ir sugrįžę, vaikai veža dėdelį, iš kur paėmę. Jo būstinės vieta esti pas įlaidų ūkininką ant tvarto. Čia jį nurėdo, arba palieka aprėdytą kitiems metams.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

@@ -78,7 +78,13 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
     kiti), kovoję be vieningos vadovybės, buvo
     sutriuškinti Osmanų imperijos sultono
     Bajazito kariuomenės.
-  citata_rodoma: "Prie Dunojaus, Nikopolio mūšyje 1396 m.\nrugsėjo 25 d. vakarų kryžininkai (prancū-\nzai, vengrai, vokiečiai, britai, italai, čekai ir\nkiti), kovoję be vieningos vadovybės, buvo\nsutriuškinti Osmanų imperijos sultono\nBajazito kariuomenės."
+  citata_rodoma: |
+    Prie Dunojaus, Nikopolio mūšyje 1396 m.
+    rugsėjo 25 d. vakarų kryžininkai (prancū-
+    zai, vengrai, vokiečiai, britai, italai, čekai ir
+    kiti), kovoję be vieningos vadovybės, buvo
+    sutriuškinti Osmanų imperijos sultono
+    Bajazito kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

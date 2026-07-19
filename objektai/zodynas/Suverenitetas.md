@@ -194,7 +194,10 @@ Nenurodyta
     nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
     atsiskaitymus ir paties statuto keitimo procedūrą.
-  citata_rodoma: "Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-\nnitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas\nir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius"
+  citata_rodoma: |
+    Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
+    nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
+    ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +220,10 @@ Nenurodyta
     šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
     verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
     susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
-  citata_rodoma: "šalys pasižadėjo visose aplinkybėse gerbti viena antros su-\nverenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat\nsusilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų."
+  citata_rodoma: |
+    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
+    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
+    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +248,12 @@ Nenurodyta
     somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
     Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
     12 dienos sutartim.
-  citata_rodoma: "vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo\nsimpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-\nsomą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto\nVilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos\n12 dienos sutartim."
+  citata_rodoma: |
+    vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo
+    simpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-
+    somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
+    Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
+    12 dienos sutartim.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -265,7 +276,10 @@ Nenurodyta
     Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
     tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
     žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
-  citata_rodoma: "Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių\ntautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­\nžuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m."
+  citata_rodoma: |
+    Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
+    tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
+    žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -284,7 +298,13 @@ Nenurodyta
     būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
     namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
     žinios, patarimo ir valios nepradėti karo.
-  citata_rodoma: "Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila\nordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-\nbinė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo\nbūti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri-\nnamas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo\nžinios, patarimo ir valios nepradėti karo."
+  citata_rodoma: |
+    Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
+    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-
+    binė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo
+    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri-
+    namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
+    žinios, patarimo ir valios nepradėti karo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

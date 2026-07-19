@@ -72,7 +72,13 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
     minima paaiškinimuose. Abiejose rodyklėse iš kronikų bei dokumentų imtos lotyniškosios
     ar vokiškosios vardų formos pateikiamos dažniausiai tuo linksniu, kokiu jie ten
     užrašyti.
-  citata_rodoma: "Agota\n  Ahohietis\n  605 Į rodykles nedėta bibliografijos vardai (šios kn. p. 431 — 458), kurių didžiuma\nminima paaiškinimuose. Abiejose rodyklėse iš kronikų bei dokumentų imtos lotyniškosios\nar  vokiškosios vardų formos pateikiamos  dažniausiai tuo  linksniu, kokiu  jie ten\nužrašyti."
+  citata_rodoma: |
+    Agota
+      Ahohietis
+      605 Į rodykles nedėta bibliografijos vardai (šios kn. p. 431 — 458), kurių didžiuma
+    minima paaiškinimuose. Abiejose rodyklėse iš kronikų bei dokumentų imtos lotyniškosios
+    ar  vokiškosios vardų formos pateikiamos  dažniausiai tuo  linksniu, kokiu  jie ten
+    užrašyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

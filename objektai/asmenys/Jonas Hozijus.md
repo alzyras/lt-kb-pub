@@ -218,7 +218,26 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     glauda su visais pastatais, skirtais jos poreikiams, bus pa­
     statyta ir įrengta, kad joje galėtų vargšai ir ligoniai žmonės,
     priimti ir apgyvendinti, patogiai gyventi.
-  citata_rodoma: "Taip pat \natiduodame, dovanojame, skiriame ir užrašome pagal žemiau \nišvardintas tokias sąlygas ir formas, tokiu būdu. Kol minėtai \nprieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­\nčiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto \nprokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, \nkaip minėtos prieglaudos provizoriaus žiniai, pavedėme, kaip \nir visus pelnus bei pajamas ir aukas, kurias Kristuje susivie-\n-  —  •  •  —\n390\n\n## Puslapis 407\n\nIV KNYGA\nniję tikintieji arba jau padarė, arba dar gali ateityje padaryti, \nvisuomet priims ir rinks, ir iš šio tilto pajamų minėta prie­\nglauda su visais pastatais, skirtais jos poreikiams, bus pa­\nstatyta ir įrengta, kad joje galėtų vargšai ir ligoniai žmonės, \npriimti ir apgyvendinti, patogiai gyventi."
+  citata_rodoma: |
+    Taip pat
+    atiduodame, dovanojame, skiriame ir užrašome pagal žemiau
+    išvardintas tokias sąlygas ir formas, tokiu būdu. Kol minėtai
+    prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­
+    čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto
+    prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo,
+    kaip minėtos prieglaudos provizoriaus žiniai, pavedėme, kaip
+    ir visus pelnus bei pajamas ir aukas, kurias Kristuje susivie-
+    -  —  •  •  —
+    390
+
+    ## Puslapis 407
+
+    IV KNYGA
+    niję tikintieji arba jau padarė, arba dar gali ateityje padaryti,
+    visuomet priims ir rinks, ir iš šio tilto pajamų minėta prie­
+    glauda su visais pastatais, skirtais jos poreikiams, bus pa­
+    statyta ir įrengta, kad joje galėtų vargšai ir ligoniai žmonės,
+    priimti ir apgyvendinti, patogiai gyventi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -259,7 +278,18 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     duoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto
     galia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­
     spaudas.
-  citata_rodoma: "Dėl to taip \npat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis \nJonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį \ntiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­\nnėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­\nnauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­\ntus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai \nprieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą \nduoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto \ngalia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­\nspaudas."
+  citata_rodoma: |
+    Dėl to taip
+    pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis
+    Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį
+    tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­
+    nėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­
+    nauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­
+    tus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai
+    prieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą
+    duoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto
+    galia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­
+    spaudas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -92,7 +92,8 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
     ypač Vilniuje, gotika pradėjo plisti gyvenamųjų namų statyboje, pasie-
     kė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių
     pastatų architektūroje.
-  citata_rodoma: "kė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių"
+  citata_rodoma: |
+    kė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +112,12 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
     kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
     šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
     ris dėl to iki šiol neprarado gydomojo poveikio.
-  citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
+  citata_rodoma: |
+    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
+    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
+    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
+    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
+    vieną šventę, ypač per šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

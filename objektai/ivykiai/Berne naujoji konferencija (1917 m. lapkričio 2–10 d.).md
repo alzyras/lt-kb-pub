@@ -82,7 +82,12 @@ Nenurodyta
     2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
     rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
     kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
-  citata_rodoma: "Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne\nvėl buvo sušaukta naujoji konferencija (1917 m. lapkričio\n2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-\nrencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-\nkalą būsimajai Lietuvai turėti uostą (Klaipėdą)."
+  citata_rodoma: |
+    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
+    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
+    2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
+    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
+    kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

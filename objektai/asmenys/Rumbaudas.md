@@ -137,7 +137,13 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
     navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
     bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
     gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
-  citata_rodoma: "Jo pareigū­\nnas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­\nsigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­\nnavos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių\nbajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­\ngaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą."
+  citata_rodoma: |
+    Jo pareigū­
+    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
+    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
+    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
+    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
+    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -165,7 +171,21 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
     kad karalystės luomai nu­
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
-  citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir \nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos \npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie- \nIšsiskiisto Lucko su- \ntė Korčine seimą, norėdamas, \nvažiavimo dalyviai \nkad karalystės luomai nu­\nspręstų, kaip dera priešintis \nnesaikingiems Vytauto potroškiams."
+  citata_rodoma: |
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

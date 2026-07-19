@@ -161,8 +161,18 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
     kiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir
     54
-    Žr. VII priedą.
-  citata_rodoma: "Karališkųjų \nmuitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­\nkesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė \nsuvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­\ndė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­\nraliaus paskirtų senatorių pastangomis, išlaisvino miestą \nnuo ateityje labai nemalonaus monopolio, kuris būtų smar­\nkiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir\n54\nŽr."
+    Žr.
+  citata_rodoma: |
+    Karališkųjų
+    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
+    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
+    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
+    dė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­
+    raliaus paskirtų senatorių pastangomis, išlaisvino miestą
+    nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
+    kiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir
+    54
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

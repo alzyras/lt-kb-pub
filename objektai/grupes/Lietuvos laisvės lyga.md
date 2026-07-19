@@ -137,7 +137,9 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
     klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
-  citata_rodoma: "LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-\nklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius."
+  citata_rodoma: |
+    LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
+    klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -159,7 +161,13 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
     politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
     niuose forumuose.
-  citata_rodoma: "Skirtingai nei \nkatalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus. \nSavo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), \nkurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir \npolitinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-\nniuose forumuose."
+  citata_rodoma: |
+    Skirtingai nei
+    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
+    Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
+    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
+    politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
+    niuose forumuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -180,7 +188,8 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     niuose forumuose. LLL įkūrėjas ir vadovas Antanas Terleckas save vadino
     rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
     nepriklausomybę taikiomis priemonėmis.
-  citata_rodoma: "rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos"
+  citata_rodoma: |
+    rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

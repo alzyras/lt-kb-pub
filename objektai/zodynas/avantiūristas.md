@@ -65,11 +65,15 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Atitinkamai keičiasi ir jo elgesys. Jeigu iki tol Vytautas
+    Jeigu iki tol Vytautas
     atrodė nepastovus, besiblaškantis, avantiūristas, tai nuo 1392 me­
     tų jis virsta rimtu, pilno masto valdovu—monarchu. Jis įgyja
     didesnio pastovumo.
-  citata_rodoma: "Jeigu iki tol Vytautas\natrodė nepastovus, besiblaškantis, avantiūristas, tai nuo 1392 me­\ntų jis virsta rimtu, pilno masto valdovu—monarchu. Jis įgyja\ndidesnio pastovumo."
+  citata_rodoma: |
+    Jeigu iki tol Vytautas
+    atrodė nepastovus, besiblaškantis, avantiūristas, tai nuo 1392 me­
+    tų jis virsta rimtu, pilno masto valdovu—monarchu. Jis įgyja
+    didesnio pastovumo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

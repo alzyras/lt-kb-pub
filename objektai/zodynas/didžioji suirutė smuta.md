@@ -105,7 +105,10 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
     jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
     nebe puolančioji, bet puolamoji.
-  citata_rodoma: "Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo\njokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo\nnebe puolančioji, bet puolamoji."
+  citata_rodoma: |
+    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
+    jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
+    nebe puolančioji, bet puolamoji.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +126,9 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: "Maskvoje tuomet prasidėjo per-\nversmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ )."
+  citata_rodoma: |
+    Maskvoje tuomet prasidėjo per-
+    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

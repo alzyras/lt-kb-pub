@@ -107,7 +107,8 @@ media_all_json: |-
     psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“,
     kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas parti-
     jas (panašiai kaip elzasiečiai ar Silezijos lenkai).
-  citata_rodoma: "Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir"
+  citata_rodoma: |
+    Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

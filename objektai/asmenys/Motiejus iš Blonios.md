@@ -85,7 +85,28 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
     nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
     miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
     tapo nuolatinės miesto vaistinės pradžia.
-  citata_rodoma: "1208, kur nurodytas Slaptajame \narchyve esantis vokiečių kalba rašy­\ntas didžiojo Lietuvos kunigaikščio \nVytauto žmonos Julijonos, dėkojan- \nčios didžiajam magistrui Pauliui fon\n237\n\n## Puslapis 254\n\nVILNIAUS MIESTO ISTORIJA I I  TOMAS\nNebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­\nniais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­\nmavo skausminga liga, iš Krokuvos atvyko anuometinį gy­\ndymo meną išmanantys: vienas - pagal profesiją fizikas, arba \nrūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; \nantras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­\ndymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus \ngydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­\nnio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­\nmiko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau \ntapo nuolatinės miesto vaistinės pradžia."
+  citata_rodoma: |
+    1208, kur nurodytas Slaptajame
+    archyve esantis vokiečių kalba rašy­
+    tas didžiojo Lietuvos kunigaikščio
+    Vytauto žmonos Julijonos, dėkojan-
+    čios didžiajam magistrui Pauliui fon
+    237
+
+    ## Puslapis 254
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­
+    niais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­
+    mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­
+    dymo meną išmanantys: vienas - pagal profesiją fizikas, arba
+    rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas;
+    antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­
+    dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus
+    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
+    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
+    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
+    tapo nuolatinės miesto vaistinės pradžia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -111,7 +111,17 @@ Nenurodyta
     griežtai
     jį
     uždraudė2.
-  citata_rodoma: "Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­\nplito, Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir\nvisiškai likviduoti tą paprotį'. Bet jis išliko iki XVII amžiaus pra­\ndžios, nes Vilniaus vyskupas Bžostovskis dar 1710 metais tą pa­\nprotį\nmatė\nir\ngriežtai\njį\nuždraudė2."
+  citata_rodoma: |
+    Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­
+    plito, Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir
+    visiškai likviduoti tą paprotį'. Bet jis išliko iki XVII amžiaus pra­
+    džios, nes Vilniaus vyskupas Bžostovskis dar 1710 metais tą pa­
+    protį
+    matė
+    ir
+    griežtai
+    jį
+    uždraudė2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

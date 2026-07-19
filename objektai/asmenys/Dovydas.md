@@ -237,7 +237,14 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     gai užbaigęs. Ir sėkmingai kovodavo, ir pergales lai­
     mėdavo dėl to, kad mokėjo nepaprastai greitai susi­
     rengti į žygį.
-  citata_rodoma: "Šis didvyris iš tiesų buvo vertas geresnio liki­\nmo. Visada jis rodydavęs tokį karinį sumanumą, vi­\nsada jį lydėjusi tokia lemtinga sėkmė, kad ligi tol be­\nmaž nebuvo ėmęsis žygio, kurio nebūtų labai sėkmin­\ngai užbaigęs. Ir sėkmingai kovodavo, ir pergales lai­\nmėdavo dėl to, kad mokėjo nepaprastai greitai susi­\nrengti į žygį."
+  citata_rodoma: |
+    Šis didvyris iš tiesų buvo vertas geresnio liki­
+    mo. Visada jis rodydavęs tokį karinį sumanumą, vi­
+    sada jį lydėjusi tokia lemtinga sėkmė, kad ligi tol be­
+    maž nebuvo ėmęsis žygio, kurio nebūtų labai sėkmin­
+    gai užbaigęs. Ir sėkmingai kovodavo, ir pergales lai­
+    mėdavo dėl to, kad mokėjo nepaprastai greitai susi­
+    rengti į žygį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -114,7 +114,11 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
     karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
     šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
     apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
-  citata_rodoma: "Todėl vienas lietuvis, vardu Nodamas, prityręs\nkarys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė\nšiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,\napsirengęs moteriškais rūbais, atsisėdo ant upės kranto."
+  citata_rodoma: |
+    Todėl vienas lietuvis, vardu Nodamas, prityręs
+    karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
+    šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
+    apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -148,7 +152,24 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
     go išgelbėti, nepaliktų šioje vietoje, nes ji arba badu
     mirsianti, arba, jeigu vėl į barbarų rankas pakliūsian-
     ti, nustosianti ir šlovės, ir gyvybės.
-  citata_rodoma: "Vis dėlto jis sušaukė įgulą ir visus para­\ngino sugalvoti kokią gudrybę, kuri leistų padaryti prie­\nšui žalos, nes šiuo metu nesą galimybės panaudoti jė­\ngos. Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir\nlabai stiprus karys; jis pažadėjo vadui padėti, tegu tik\nkiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad\njie galės ne tik susikauti, bet ir nugalėti. Tiesiai per\nlaukus ir miškus užbėgęs už akių priešams, pamažu\nplaukiantiems prieš vandenį vingiuota upe, toje vie­\ntoje, kur pakrantės slėnyje galybė tankių brūzgynų,\njis paslėpė ginkluotus karius, o pats, persirengęs len­\nke, ėmė, vos išvydęs atplaukiant laivą, verksmingu\nm\n\n## Puslapis 163\n\nbalsu lenkiškai dejuoti."
+  citata_rodoma: |
+    Vis dėlto jis sušaukė įgulą ir visus para­
+    gino sugalvoti kokią gudrybę, kuri leistų padaryti prie­
+    šui žalos, nes šiuo metu nesą galimybės panaudoti jė­
+    gos. Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir
+    labai stiprus karys; jis pažadėjo vadui padėti, tegu tik
+    kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad
+    jie galės ne tik susikauti, bet ir nugalėti. Tiesiai per
+    laukus ir miškus užbėgęs už akių priešams, pamažu
+    plaukiantiems prieš vandenį vingiuota upe, toje vie­
+    toje, kur pakrantės slėnyje galybė tankių brūzgynų,
+    jis paslėpė ginkluotus karius, o pats, persirengęs len­
+    ke, ėmė, vos išvydęs atplaukiant laivą, verksmingu
+    m
+
+    ## Puslapis 163
+
+    balsu lenkiškai dejuoti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

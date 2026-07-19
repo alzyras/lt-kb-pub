@@ -128,7 +128,8 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
     karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
     rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
     jam suteiktas aukščiausias – partizanų generolo laipsnis.
-  citata_rodoma: "rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno"
+  citata_rodoma: |
+    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -157,7 +158,8 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
     gydėsi požeminiame bunkeryje)
     ir po pusantrų metų tardymų su-
     šaudė Maskvos Butyrkų kalėjime.
-  citata_rodoma: "agentai išdavė J. Žemaitį-Vytautą"
+  citata_rodoma: |
+    agentai išdavė J. Žemaitį-Vytautą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +185,8 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
     rodo, kad L. Berija pripažino Lie-
     tuvoje vykstantį partizaninį karą
     rimta grėsme sovietų valdymui.
-  citata_rodoma: "nežinoma. Tačiau vien tas faktas"
+  citata_rodoma: |
+    nežinoma. Tačiau vien tas faktas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

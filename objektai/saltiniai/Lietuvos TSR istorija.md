@@ -93,7 +93,8 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   citata_originali: |
     —V., 1969.
     Lietuvos TSR istorija.—T. 1,—V., 1957.
-  citata_rodoma: "Lietuvos TSR istorija.—T. 1,—V., 1957."
+  citata_rodoma: |
+    Lietuvos TSR istorija.—T. 1,—V., 1957.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

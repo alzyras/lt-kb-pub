@@ -55,7 +55,9 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
   citata_originali: |
     Šeštajame amžiuje gimus Kristui kitsai raštininkas, minavodamas Lietuvos kraštą, sako: „Vieni giruliai, arba girionys (taip vadino toj gadynėj žemaičius ir kalnėnus), temoka linus auginti, kurių
         laukai užsėti joriuoja^1164 it jūroje vilnys.“
-  citata_rodoma: "Šeštajame amžiuje gimus Kristui kitsai raštininkas, minavodamas Lietuvos kraštą, sako: „Vieni giruliai, arba girionys (taip vadino toj gadynėj žemaičius ir kalnėnus), temoka linus auginti, kurių\nlaukai užsėti joriuoja^1164 it jūroje vilnys.“"
+  citata_rodoma: |
+    Šeštajame amžiuje gimus Kristui kitsai raštininkas, minavodamas Lietuvos kraštą, sako: „Vieni giruliai, arba girionys (taip vadino toj gadynėj žemaičius ir kalnėnus), temoka linus auginti, kurių
+    laukai užsėti joriuoja^1164 it jūroje vilnys.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

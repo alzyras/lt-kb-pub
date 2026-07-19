@@ -116,7 +116,14 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
     pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
     laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
     po 20 markių dalies.
-  citata_rodoma: "Apie išdavystę, per kurią žuvo šimtas krikščionių\n\n  1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai\ngerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams\nvisokeriopų eibių. Kai broliai jam juos išskyrė, jis  ir patraukė su jais prie Aukaimio\npilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga\njuos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti."
+  citata_rodoma: |
+    Apie išdavystę, per kurią žuvo šimtas krikščionių
+
+      1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai
+    gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams
+    visokeriopų eibių. Kai broliai jam juos išskyrė, jis  ir patraukė su jais prie Aukaimio
+    pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga
+    juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

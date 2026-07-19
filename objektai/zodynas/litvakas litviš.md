@@ -57,7 +57,8 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
     ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
-  citata_rodoma: "jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,"
+  citata_rodoma: |
+    jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

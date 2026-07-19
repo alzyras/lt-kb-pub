@@ -146,7 +146,10 @@ Nenurodyta
     Veikdamas kardu, diplomatija (santykiai su Ryga ir Vladislovu
     Łokietka) ir apdairiomis vaikų vedybomis, Gediminas išugdė vals­
     tybę, kurios stiprybė nesibaigė jo mirtimi.
-  citata_rodoma: "Veikdamas kardu, diplomatija (santykiai su Ryga ir Vladislovu\nŁokietka) ir apdairiomis vaikų vedybomis, Gediminas išugdė vals­\ntybę, kurios stiprybė nesibaigė jo mirtimi."
+  citata_rodoma: |
+    Veikdamas kardu, diplomatija (santykiai su Ryga ir Vladislovu
+    Łokietka) ir apdairiomis vaikų vedybomis, Gediminas išugdė vals­
+    tybę, kurios stiprybė nesibaigė jo mirtimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -166,7 +169,11 @@ Nenurodyta
     (Narimantas-Hlebas, Jaunutis-Jonas, Karijotas-Mykolas, Liubartas-
     Dimitras) priėmė stačiatikių tikėjimą arba vedė rusų kunigaikšty­
     tes.
-  citata_rodoma: "Keli jo paties sūnūs\n(Narimantas-Hlebas, Jaunutis-Jonas, Karijotas-Mykolas, Liubartas-\nDimitras) priėmė stačiatikių tikėjimą arba vedė rusų kunigaikšty­\ntes."
+  citata_rodoma: |
+    Keli jo paties sūnūs
+    (Narimantas-Hlebas, Jaunutis-Jonas, Karijotas-Mykolas, Liubartas-
+    Dimitras) priėmė stačiatikių tikėjimą arba vedė rusų kunigaikšty­
+    tes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -186,7 +193,12 @@ Nenurodyta
     žinomiems kunigaikščiams Trubeckoj (iš Dimitro), Čartoriskiams
     (iš Konstantino), Bielskiams ir Sluckiams (iš Vladimiro), Sanguš­
     koms ir Kobrinskiams (iš Teodoro).
-  citata_rodoma: "Vesdami stačiatikes žmonas ir prisiimdami\nrusų papročius, jie, jų anūkai ar proanūkai davė pradžią vėliau\nžinomiems kunigaikščiams Trubeckoj (iš Dimitro), Čartoriskiams\n(iš Konstantino), Bielskiams ir Sluckiams (iš Vladimiro), Sanguš­\nkoms ir Kobrinskiams (iš Teodoro)."
+  citata_rodoma: |
+    Vesdami stačiatikes žmonas ir prisiimdami
+    rusų papročius, jie, jų anūkai ar proanūkai davė pradžią vėliau
+    žinomiems kunigaikščiams Trubeckoj (iš Dimitro), Čartoriskiams
+    (iš Konstantino), Bielskiams ir Sluckiams (iš Vladimiro), Sanguš­
+    koms ir Kobrinskiams (iš Teodoro).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

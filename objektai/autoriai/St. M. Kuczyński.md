@@ -111,7 +111,11 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
     (^12) **St. M. Kuczyński :** **_Wielka wojna z Zakonem Krzyżackim w latach
     1409-11_** **, Warszawa 1955, 186, 192 p.**
     (^13) **CEV, 209 p.**
-  citata_rodoma: "**\n(^12) **St. M. Kuczyński :** **_Wielka wojna z Zakonem Krzyżackim w latach\n1409-11_** **, Warszawa 1955, 186, 192 p.**\n(^13) **CEV, 209 p."
+  citata_rodoma: |
+    **
+    (^12) **St. M. Kuczyński :** **_Wielka wojna z Zakonem Krzyżackim w latach
+    1409-11_** **, Warszawa 1955, 186, 192 p.**
+    (^13) **CEV, 209 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

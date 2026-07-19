@@ -189,7 +189,13 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
     užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
     kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
-  citata_rodoma: "Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių\n\n   Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių\nį Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį\nužpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai\nkraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392)."
+  citata_rodoma: |
+    Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
+
+       Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių
+    į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
+    užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
+    kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -209,7 +215,14 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
     traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
     dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką.
-  citata_rodoma: "23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių\n\n  Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,\n  596 1241 m. įvykiai.\n\nkuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.\n21,33)."
+  citata_rodoma: |
+    23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
+
+      Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,
+      596 1241 m. įvykiai.
+
+    kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
+    21,33).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -238,7 +251,27 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     tūkstantį keturis šimtus avinų, po šimtą stumbrų, brie­
     džių ir kitokių žvėrių, o išgeriama po septynis šimtus
     statinių midaus, neskaitant kitų gėrimų.
-  citata_rodoma: "Štai todėl vienaip kalbėjo im­\nperatorius su Jogaila, kitaip\n1429 m eta i\nakis į akį su Vytautu. Valdo­\nvų posėdyje jis visą laiką ra­\ngino sudaryti santarvę, sutelktomis jėgomis numalšinti\nhusitus, pirmiausia, žinoma, Čekijoje, o vėliau visą\nkariuomenę nukreipti prieš turkus ir saracėnus, kerši­\njant už Rytų imperijos griovimą. Iš tiesų didingi su­\nmanymai, ir daugelis jiems\nJ o g a ila  atsisako\nnuoširdžiai\npritarė,\ntačiau\nkur kas lengviau juos pa-\n416\n\n## Puslapis 415\n\nsiūlyti, nei įgyvendinti."
+  citata_rodoma: |
+    Štai todėl vienaip kalbėjo im­
+    peratorius su Jogaila, kitaip
+    1429 m eta i
+    akis į akį su Vytautu. Valdo­
+    vų posėdyje jis visą laiką ra­
+    gino sudaryti santarvę, sutelktomis jėgomis numalšinti
+    husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą
+    kariuomenę nukreipti prieš turkus ir saracėnus, kerši­
+    jant už Rytų imperijos griovimą. Iš tiesų didingi su­
+    manymai, ir daugelis jiems
+    J o g a ila  atsisako
+    nuoširdžiai
+    pritarė,
+    tačiau
+    kur kas lengviau juos pa-
+    416
+
+    ## Puslapis 415
+
+    siūlyti, nei įgyvendinti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

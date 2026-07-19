@@ -119,7 +119,10 @@ media_all_json: |-
     Vytauto pagrasinimu. Tik 1394 metais jis puolė Vladimiro že­
     mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
     važiavo Vytautui nusilenkti.
-  citata_rodoma: "Tik 1394 metais jis puolė Vladimiro že­\nmes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­\nvažiavo Vytautui nusilenkti."
+  citata_rodoma: |
+    Tik 1394 metais jis puolė Vladimiro že­
+    mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
+    važiavo Vytautui nusilenkti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

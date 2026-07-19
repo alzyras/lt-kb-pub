@@ -89,7 +89,13 @@ Narbutas aiškino Wujtis kaip „viršininką“ ir laikė jį Vaidevučio vardo
     išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
     nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
     iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo.
-  citata_rodoma: "10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­\ndevučio (Wejdawutis) šiek tiek klysta kildindami jį tiesiai iš Wujtis.\nSis vardas susideda iš Wejdas (stabas arba veidas, atvaizdas) ir Wujtis\n(viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­\ntojas."
+  citata_rodoma: |
+    10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
+    Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­
+    devučio (Wejdawutis) šiek tiek klysta kildindami jį tiesiai iš Wujtis.
+    Sis vardas susideda iš Wejdas (stabas arba veidas, atvaizdas) ir Wujtis
+    (viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­
+    tojas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

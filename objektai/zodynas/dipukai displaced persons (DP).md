@@ -84,7 +84,8 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
     Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
     (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
     įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
-  citata_rodoma: "Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų"
+  citata_rodoma: |
+    Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

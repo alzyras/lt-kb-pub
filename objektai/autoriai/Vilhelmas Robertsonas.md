@@ -59,7 +59,11 @@ media_all_json: |-
     auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
     Vilhelmo Gizo, Johano Miulerio - darbus.
-  citata_rodoma: "Vilniaus universiteto\nauklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -\nVilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro\nVilhelmo Gizo, Johano Miulerio -  darbus."
+  citata_rodoma: |
+    Vilniaus universiteto
+    auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
+    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
+    Vilhelmo Gizo, Johano Miulerio -  darbus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

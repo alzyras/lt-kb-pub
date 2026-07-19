@@ -80,7 +80,8 @@ Nenurodyta
     prieš išvažiuojant į
     „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm —
     tai kraičvežiai.
-  citata_rodoma: "Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai."
+  citata_rodoma: |
+    Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -103,7 +104,8 @@ Nenurodyta
     mat,
     visų
     pastočių ir arklių negalima sutalpinti vienuose namuose.
-  citata_rodoma: "Grįčioj buvę kaimynai išėjo paimti svodbininkų arklių; mat, visų pastočių ir arklių negalima sutalpinti vienuose namuose."
+  citata_rodoma: |
+    Grįčioj buvę kaimynai išėjo paimti svodbininkų arklių; mat, visų pastočių ir arklių negalima sutalpinti vienuose namuose.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -124,7 +126,8 @@ Nenurodyta
     tai kraičvežiai.
     Šiais laikais vienos pastotės negana, reikia dviejų, o
     kartais ir daugiau; aprašomais laikais visada užtekdavo vienos.
-  citata_rodoma: "Šiais laikais vienos pastotės negana, reikia dviejų, o kartais ir daugiau; aprašomais laikais visada užtekdavo vienos."
+  citata_rodoma: |
+    Šiais laikais vienos pastotės negana, reikia dviejų, o kartais ir daugiau; aprašomais laikais visada užtekdavo vienos.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

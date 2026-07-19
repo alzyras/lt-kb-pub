@@ -110,7 +110,8 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
     karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos
     valstybių jau buvo nacių okupuotos, Lenkija – grobuonių pasidalyta, tad
     ir Baltijos valstybėse suvokta, jog artėja jų eilė.
-  citata_rodoma: "ir svarstė ne tik savo, valstybės, bet ir tautos galimybes išlikti. Mintis „Po"
+  citata_rodoma: |
+    ir svarstė ne tik savo, valstybės, bet ir tautos galimybes išlikti. Mintis „Po
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

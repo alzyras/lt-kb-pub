@@ -102,7 +102,8 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
     miama iš visuomenės apyvartos lietuvių kalba taptų oficiali kalba, kad Lietu-
     vos istorija mokyklose būtų dėstoma kaip pagrindinė istorijos pamokų tema,
     prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“.
-  citata_rodoma: "Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“."
+  citata_rodoma: |
+    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -125,7 +126,8 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
     SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
     o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
     Lietuvoje.
-  citata_rodoma: "pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja"
+  citata_rodoma: |
+    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

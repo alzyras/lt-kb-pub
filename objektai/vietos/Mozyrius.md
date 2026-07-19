@@ -196,7 +196,10 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: "Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+  citata_rodoma: |
+    Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -274,7 +277,12 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
+  citata_rodoma: |
+    Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -298,7 +306,10 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: "Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+  citata_rodoma: |
+    Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas

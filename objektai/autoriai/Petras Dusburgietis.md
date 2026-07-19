@@ -341,7 +341,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171349
     - c-013
 <a id="claim-t-188460"></a>
 - t-017
@@ -972,7 +971,10 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
     broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
     stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
-  citata_rodoma: "Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.\n  Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų\nįvykių."
+  citata_rodoma: |
+    Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.
+      Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
+    įvykių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1014,7 +1016,12 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
     aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
     ir daugelyje kitų [vietų].
-  citata_rodoma: "Epocha, kurioje rašė Petras iš Dusburgo\n\n   3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos\nkare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo\nužbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno."
+  citata_rodoma: |
+    Epocha, kurioje rašė Petras iš Dusburgo
+
+       3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
+    kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
+    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1039,7 +1046,20 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas.
-  citata_rodoma: "PRŪSIJOS ŽEMĖS\n   KRONIKA\n\nDedikacija\n\n\n     Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,\nŠventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą\nsveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.\nKiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje\nšventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi\nnuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei\nbūsimosioms kartoms pamokyti."
+  citata_rodoma: |
+    PRŪSIJOS ŽEMĖS
+       KRONIKA
+
+    Dedikacija
+
+
+         Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
+    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1072,7 +1092,14 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus\nkaras prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,\nnušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš\nDusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.\nTarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti\ndaugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir\njo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.)."
+  citata_rodoma: |
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1096,7 +1123,16 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     ženklus ir galingus stebuklus, tavimi pasitikėtų, tave garbintų, aukštintų bei šlovintų,
     kad tu, iš kurio — viskas, per kurį — viskas ir kuriame—viskas, teiktumeisi globoti, tu,
     dieve, kuris gyveni ir viešpatauji per amžių amžius.
-  citata_rodoma: "Kaip ši knyga sutvarkyta\n\n   Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų\nordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę,\ntrečia, apsakysiu karus, vykusius šioje žemėje, bei kitus žygius, pakalbėsiu  ir apie\ntuos, kuriuos pats esu matęs, ir apie tuos, apie kuriuos pasakojo juos matę ir juose\ndalyvavę žmonės, pagaliau  ir apie tuos, apie kuriuos sužinojau iš patikimų šaltinių.\nKetvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,\nkai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi."
+  citata_rodoma: |
+    Kaip ši knyga sutvarkyta
+
+       Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų
+    ordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę,
+    trečia, apsakysiu karus, vykusius šioje žemėje, bei kitus žygius, pakalbėsiu  ir apie
+    tuos, kuriuos pats esu matęs, ir apie tuos, apie kuriuos pasakojo juos matę ir juose
+    dalyvavę žmonės, pagaliau  ir apie tuos, apie kuriuos sužinojau iš patikimų šaltinių.
+    Ketvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,
+    kai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1174,7 +1210,15 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     jungtines žemaičių ir paties Lietuvos val-
     dovo karaliaus Mindaugo karines pajėgas,
     nukreiptas prieš Ordiną.
-  citata_rodoma: "), mini žemaičius,\nbet vėliau, Durbės mūšio išvakarėse, prie\nVartajų, Georgenburgo ir pačiame mū-\nšyje — tik lietuvius arba „pagonis“.\n\nP. Dusburgietis pažymi, kad „keturi\ntūkstančiai lietuvių“ niokojo Kuršo žemę,\n0 po to stojo į mūšį."
+  citata_rodoma: |
+    ), mini žemaičius,
+    bet vėliau, Durbės mūšio išvakarėse, prie
+    Vartajų, Georgenburgo ir pačiame mū-
+    šyje — tik lietuvius arba „pagonis“.
+
+    P. Dusburgietis pažymi, kad „keturi
+    tūkstančiai lietuvių“ niokojo Kuršo žemę,
+    0 po to stojo į mūšį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1201,7 +1245,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188459
     - t-197328
 - id: c-171350
   autorius: "Teodoras Narbutas"
@@ -1216,7 +1259,14 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
     giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
     davo karalių, ponų ir prastuomenės didžios pagarbos.
-  citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
+  citata_rodoma: |
+    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
+    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
+    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
+    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
+    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
+    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
+    šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1274,7 +1324,16 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
     no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
     tos, todėl turėjo būti jau labai senas.
-  citata_rodoma: "Straips­\nnyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių \nbuveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­\nliko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus \nvienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­\ntus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis \nžynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­\nno šventykla; tai įvyko praėjus 69 metams po minėtosios da­\ntos, todėl turėjo būti jau labai senas."
+  citata_rodoma: |
+    Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
+    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
+    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
+    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
+    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
+    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
+    tos, todėl turėjo būti jau labai senas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1295,7 +1354,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     Duomenų apie Antikos sibiles, kurių pranašavimo princi­
     pai buvo panašūs, skaitytojas ras F. Noelio mitologijos žody­
     ne43. Kunigas Osinskis išvertė jį pažodžiui į lenkų kalbą.
-  citata_rodoma: "Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­\nsią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta\ngarsaus pranašo, kurio teirautasi apie tos šventyklos likimą.\nĮvairiose vietose gyveno moterų pranašautojų, kurių pra­\nnašystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-\nburgietis."
+  citata_rodoma: |
+    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
+    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
+    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
+    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
+    našystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-
+    burgietis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1398,7 +1463,20 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
     žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
     spėjimas yra visiškai nepriimtinas.
-  citata_rodoma: "Sūduva turėjo gana\ndaug įtvirtintų pilių, kur gyveno šioje provincijoje dau­\ngiausia buvusių savarankiškų valdovų. Kryžiuočiams val­\ndant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;\napie ją žinome tik iš Dusburgo paminėto jos valsčiaus,\nvadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir\nRaigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie\nšią, toje pačioje vietoje esančią provinciją, be to, neabe­\njotina, kad nuo seno ten gyveno ir lietuviui Tas pats\ngeografas taip pat žinojo vieną sudinų koloniją, buvusią\ngermanų markomanų genties kaimynystėje, dabar Pra­\nhos apskritis (Čekija), prie Vltavos upės; tai galėjo būti\niš prūsų Sūduvos kažkokia užklydusi genties dalis4."
+  citata_rodoma: |
+    Sūduva turėjo gana
+    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
+    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
+    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
+    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
+    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
+    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

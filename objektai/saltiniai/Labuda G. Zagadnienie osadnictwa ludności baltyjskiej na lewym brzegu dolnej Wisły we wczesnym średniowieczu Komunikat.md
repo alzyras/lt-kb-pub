@@ -82,7 +82,10 @@ Dusburgietis teigia, kad labuda G.
     niezależności księstwa (1138—1371).— Rocznik mazowiecki, Warszawa, 1979, t. 7, s.
     31—56.
     Plinius C. Secundus Naturalis historiae libri XXXVII/Ed. C. Mayhoff.
-  citata_rodoma: "Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły\nwe wczesnym średniowieczu: Komunikat.—Konferencja pomorska (1978), Wrocław—\nWarszawa— Kraków—Gdańsk, 1979, s. 13—34."
+  citata_rodoma: |
+    Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły
+    we wczesnym średniowieczu: Komunikat.—Konferencja pomorska (1978), Wrocław—
+    Warszawa— Kraków—Gdańsk, 1979, s. 13—34.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

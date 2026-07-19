@@ -86,7 +86,13 @@ Narbutas, cituodamas Herodotą, budinų giminei priskiria trumpą išvaizdos for
     panašių žodžių ir vietovardžių. Išvadas būtų teisingiau
     pagrįsti mitologinėmis ir psichologinėmis išraiškomis, ta­
     čiau nesinorėtų atmesti ir slavų tyrinėtojų pastabų.
-  citata_rodoma: "Ten kasmet bū­\ndavo minimos Dioniso (Bacho) šventės ir vykdavo bak­\nchanalijos. Pasak to paties istoriko, budinu giminei bū­\ndingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai\nžmonės, turi šviesiai mėlynas akis“1. Būtent šie bruožai\nyra skitiški, aprašyti to paties autoriaus."
+  citata_rodoma: |
+    Ten kasmet bū­
+    davo minimos Dioniso (Bacho) šventės ir vykdavo bak­
+    chanalijos. Pasak to paties istoriko, budinu giminei bū­
+    dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai
+    žmonės, turi šviesiai mėlynas akis“1. Būtent šie bruožai
+    yra skitiški, aprašyti to paties autoriaus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

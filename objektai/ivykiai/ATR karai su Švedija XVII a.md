@@ -85,7 +85,8 @@ Nenurodyta
     uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
     Rygą ir užvaldė Baltijos pakrantes.
-  citata_rodoma: "Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė"
+  citata_rodoma: |
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

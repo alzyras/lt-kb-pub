@@ -116,7 +116,7 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    nių rezultatų nepasiekė. Tačiau 1563 m. pra-
+    Tačiau 1563 m. pra-
 
     džioje caras Ivanas Rūstusis, asmeniškai
     vadovaudamas 60 tūkstančių karių, įsi-
@@ -125,7 +125,16 @@ Nenurodyta
     Nors miestas didvyriškai gynėsi, po dviejų
     savaičių kovos įgula, nebegalėdama prie-
     šintis, pasidavė.
-  citata_rodoma: "Tačiau 1563 m. pra-\n\ndžioje caras Ivanas Rūstusis, asmeniškai\nvadovaudamas 60 tūkstančių karių, įsi-\nveržė į Lietuvos Didžiąją Kunigaikštystę\nir sausio 31 d. pradėjo Polocko apsiaustį.\nNors miestas didvyriškai gynėsi, po dviejų\nsavaičių kovos įgula, nebegalėdama prie-\nšintis, pasidavė."
+  citata_rodoma: |
+    Tačiau 1563 m. pra-
+
+    džioje caras Ivanas Rūstusis, asmeniškai
+    vadovaudamas 60 tūkstančių karių, įsi-
+    veržė į Lietuvos Didžiąją Kunigaikštystę
+    ir sausio 31 d. pradėjo Polocko apsiaustį.
+    Nors miestas didvyriškai gynėsi, po dviejų
+    savaičių kovos įgula, nebegalėdama prie-
+    šintis, pasidavė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

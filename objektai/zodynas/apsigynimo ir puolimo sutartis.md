@@ -87,7 +87,12 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
     stojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­
     no taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­
     vo vertės ir jam buvo labai naudinga politikai rytuose.
-  citata_rodoma: "Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­\nkos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­\nstojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­\nno taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­\nvo vertės ir jam buvo labai naudinga politikai rytuose."
+  citata_rodoma: |
+    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
+    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
+    stojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­
+    no taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­
+    vo vertės ir jam buvo labai naudinga politikai rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -101,7 +101,8 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
     niuose forumuose. LLL įkūrėjas ir vadovas Antanas Terleckas save vadino
     rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
     nepriklausomybę taikiomis priemonėmis.
-  citata_rodoma: "rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos"
+  citata_rodoma: |
+    rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +124,8 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
     prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas.
-  citata_rodoma: "Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,"
+  citata_rodoma: |
+    Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

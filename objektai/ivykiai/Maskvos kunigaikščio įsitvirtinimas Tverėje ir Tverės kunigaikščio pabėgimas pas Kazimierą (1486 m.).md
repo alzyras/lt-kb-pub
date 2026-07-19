@@ -125,7 +125,16 @@ Nenurodyta
     kiau mėgo medžioklę,
     o ypač taurų, kurių Lenkijoje
     negalima užtikti.
-  citata_rodoma: "Tverė turėjo labai galingas karo\njėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­\nties tūkstančių raitelių. Lietuviams tikrai buvo pavo­\njinga maskvėnų sėkmė, toks smarkus jų augimas kai­\nmynų sąskaita, tačiau karalius Kazimieras, kaip ir visi\nseniai mėgdamas ramybę, po senovei vengė karo. To­\ndėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­\nbomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai\njį pagerbęs, bet nieko doro nepažadėjęs."
+  citata_rodoma: |
+    Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
+    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
+    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
+    seniai mėgdamas ramybę, po senovei vengė karo. To­
+    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
+    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
+    jį pagerbęs, bet nieko doro nepažadėjęs.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

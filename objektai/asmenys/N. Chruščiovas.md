@@ -70,7 +70,8 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
     kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
     čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
     130 kunigų.
-  citata_rodoma: "J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-"
+  citata_rodoma: |
+    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

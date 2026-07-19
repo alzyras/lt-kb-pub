@@ -94,7 +94,13 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
     susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
     bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
     teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
-  citata_rodoma: "Tačiau šios konstitucijos veikimas visa apim-\ntimi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-\nkinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs\nsusiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,\nbet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-\nteisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai."
+  citata_rodoma: |
+    Tačiau šios konstitucijos veikimas visa apim-
+    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
+    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
+    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
+    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
+    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

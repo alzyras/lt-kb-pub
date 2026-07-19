@@ -54,7 +54,7 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
+    Gedimino laikais Lie-
     tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
     latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
     žmonės - kariai, galintys bet kada stoti į tarnybą.
@@ -64,7 +64,17 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
     Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
     dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
     mongolus prie Mėlynųjų vandenų.
-  citata_rodoma: "Gedimino laikais Lie-\ntuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-\nlatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji\nžmonės - kariai, galintys bet kada stoti į tarnybą.\n\n## Puslapis 21\n\nGerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-\ndovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius\nmongolus prie Mėlynųjų vandenų."
+  citata_rodoma: |
+    Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
+
+    ## Puslapis 21
+
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

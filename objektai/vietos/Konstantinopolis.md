@@ -287,7 +287,14 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
     tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
     se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas.
-  citata_rodoma: "Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­\ntriarchui Eufimėjui pristatė Polocko vysk. Teodozijų, kaipo kan­\ndidatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo\npainformavę apie Vytauto sumanymus atitraukti Lietuvos sta­\nčiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­\ntuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­\nse kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas."
+  citata_rodoma: |
+    Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­
+    triarchui Eufimėjui pristatė Polocko vysk. Teodozijų, kaipo kan­
+    didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo
+    painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­
+    čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
+    tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
+    se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -308,7 +315,13 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     keikė. Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­
     rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet
     ir ji nieko nelaimėjo.
-  citata_rodoma: "Bet\nKonstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­\nblako metropolitu, bet atėmė iš įo žemutinius šventimus ir ji iš­\nkeikė. Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­\nrūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet\nir ji nieko nelaimėjo."
+  citata_rodoma: |
+    Bet
+    Konstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­
+    blako metropolitu, bet atėmė iš įo žemutinius šventimus ir ji iš­
+    keikė. Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­
+    rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet
+    ir ji nieko nelaimėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -348,7 +361,29 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     koldo sūnus Mindaugas, o Mindaugo
     kunigaikščio vaikai: Višlegas (ar tik
     ne vienuolis Vaišelga) ir Daumantas.
-  citata_rodoma: "Ir Vilnia \n[Vilnius] buvo priverstas duoti \nduoklę Ugrų karaliui (tikriausiai Ha­\nličo) už saugojimą nuo didžiojo ku­\nnigaikščio Mstislavo Rogvoldovi- \nčiaus. Ir vilniečiai paėmę sau iš \nCargrado [Konstantinopolio] Poloc­\nko kunigaikščio Rostislavo Rogvol- \ndovičiaus vaikus - kunigaikštį Do- \nvilą ir jo brolį kunigaikštį Maukoldą \nir tai pirmasis Vilniuje kunigaikštis \nDovilas, didysis Maukoldo brolis, o \njo vaikai: Vidas, kurį žmonės Vilku \nvadino, ir Erdenas kunigaikštis, o Er- \ndenas sūnus pasikrikštijo, buvo val­\ndovas Tvėrėje, kuris prieš Petrą, prieš \nstebukladarį, neramumą sukėlė, va­\ndino jį Andriejumi, rašė prieš stebuk­\nladarį melagingus žodžius, o Mau­\nkoldo sūnus Mindaugas, o Mindaugo \nkunigaikščio vaikai: Višlegas (ar tik \nne vienuolis Vaišelga) ir Daumantas."
+  citata_rodoma: |
+    Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus. Ir vilniečiai paėmę sau iš
+    Cargrado [Konstantinopolio] Poloc­
+    ko kunigaikščio Rostislavo Rogvol-
+    dovičiaus vaikus - kunigaikštį Do-
+    vilą ir jo brolį kunigaikštį Maukoldą
+    ir tai pirmasis Vilniuje kunigaikštis
+    Dovilas, didysis Maukoldo brolis, o
+    jo vaikai: Vidas, kurį žmonės Vilku
+    vadino, ir Erdenas kunigaikštis, o Er-
+    denas sūnus pasikrikštijo, buvo val­
+    dovas Tvėrėje, kuris prieš Petrą, prieš
+    stebukladarį, neramumą sukėlė, va­
+    dino jį Andriejumi, rašė prieš stebuk­
+    ladarį melagingus žodžius, o Mau­
+    koldo sūnus Mindaugas, o Mindaugo
+    kunigaikščio vaikai: Višlegas (ar tik
+    ne vienuolis Vaišelga) ir Daumantas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -365,7 +400,11 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 
       1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį
     buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405).
-  citata_rodoma: "Apie Konstantinopolio miesto atgavimą\n\n  1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį\nbuvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405)."
+  citata_rodoma: |
+    Apie Konstantinopolio miesto atgavimą
+
+      1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį
+    buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

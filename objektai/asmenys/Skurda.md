@@ -84,7 +84,10 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
     nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų
     ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
     kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
-  citata_rodoma: "Tačiau Skurdą516,\nkitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į\nLietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517."
+  citata_rodoma: |
+    Tačiau Skurdą516,
+    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
+    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -67,7 +67,9 @@ Malinin: Starec Eleazarova monastyrja Filofej, Kiev 1901, Priloženija 45p.).
     nale Božym Šlacham, 1948, 9-10 nr., 5-8 p. ; A. Ammann:** **_Abriß der ost­
     slawischen Kirchengeschichte,_** **Wien 1950, 165p. (eit. iš V. Malinin:** **_Starec
     Eleazarova monastyrja Filofej,_** **Kiev 1901, Priloženija 45p.).
-  citata_rodoma: "(eit. iš V. Malinin:** **_Starec\nEleazarova monastyrja Filofej,_** **Kiev 1901, Priloženija 45p.)."
+  citata_rodoma: |
+    (eit. iš V. Malinin:** **_Starec
+    Eleazarova monastyrja Filofej,_** **Kiev 1901, Priloženija 45p.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

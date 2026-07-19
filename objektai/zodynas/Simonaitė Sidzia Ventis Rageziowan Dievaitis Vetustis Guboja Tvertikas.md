@@ -105,7 +105,18 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
     pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
     žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
     bino mane ypatinga savo išvaizda.
-  citata_rodoma: "Simonaitė (Simonajte)\nMoteriškos giminės fetišas, jį garbino Mikuckių giminė.\nSidzia\nMikalauskų giminės fetišas.\nVentis (W entis)\nSemetų giminės fetišas.\nRageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės."
+  citata_rodoma: |
+    Simonaitė (Simonajte)
+    Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
+    Sidzia
+    Mikalauskų giminės fetišas.
+    Ventis (W entis)
+    Semetų giminės fetišas.
+    Rageziowan
+    Kęsgailų giminės fetišas.
+    Dievaitis (Dewojtis)
+    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
+    seinių apskrityje, tikriausiai prie Jūros upės.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

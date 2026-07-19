@@ -108,7 +108,7 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
     kurios nuo 1569 m. buvo
     Lenkijos ribose: mat, jose
     taip pat visą laiką veikė
-    Lietuvos statutas). Ogins-
+    [[Lietuvos Statutas|Lietuvos statutas]]). Ogins-
     kis nurodinėjo, kad tuo
     būdu kelias Nepoleono
     įtakai Lietuvoje būtų už-
@@ -120,7 +120,15 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
     klausomą tribunolą (mat,
     tada aukščiausioji instan-
     cija buvo Rusijos senatas).
-  citata_rodoma: "Be to, jis siūlė pa-\nlikti toje kunigaikštijoje\nLietuvos statutą be jokių\napribojimų ir įsteigti nuo\nPetrapilio visiškai nepri-\nklausomą tribunolą (mat,\ntada aukščiausioji instan-\ncija buvo Rusijos senatas)."
+  citata_rodoma: |
+    Be to, jis siūlė pa-
+    likti toje kunigaikštijoje
+    Lietuvos statutą be jokių
+    apribojimų ir įsteigti nuo
+    Petrapilio visiškai nepri-
+    klausomą tribunolą (mat,
+    tada aukščiausioji instan-
+    cija buvo Rusijos senatas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

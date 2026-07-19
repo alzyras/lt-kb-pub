@@ -115,7 +115,12 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
     Comolijano, iš ten į Carnuntum, žinomą romėnų karinę
     poziciją prie Dunojaus. Pagaliau ten šiaurinės prekės iš
     barbarų rankų patekdavo pas romėnus5.
-  citata_rodoma: "Taip mūsų kraštų prekės lengvai patekdavo arba\nį Tartesą, arba prie Galijos krantų, o per Galiją arkliais\n50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,\nkaip įgalima numanyti, buvo patogesnis už jūros kelią,\nkuris ėjo pro šv. Vincento kyšulį ir Heraklio stulpus."
+  citata_rodoma: |
+    Taip mūsų kraštų prekės lengvai patekdavo arba
+    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
+    50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,
+    kaip įgalima numanyti, buvo patogesnis už jūros kelią,
+    kuris ėjo pro šv. Vincento kyšulį ir Heraklio stulpus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

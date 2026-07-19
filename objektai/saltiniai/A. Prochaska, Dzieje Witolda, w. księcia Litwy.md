@@ -70,7 +70,11 @@ Prochaska, A.
     Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914. — (”)
     _Znaczenie niedoszłej koronacji Witolda_ , AW, I, 1923, 337-351 p. — Sar _­_
     nes, A. : _Zur Kritik des XI.
-  citata_rodoma: "—\nProchaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914. — (”)\n_Znaczenie niedoszłej koronacji Witolda_ , AW, I, 1923, 337-351 p. — Sar _­_\nnes, A."
+  citata_rodoma: |
+    —
+    Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914. — (”)
+    _Znaczenie niedoszłej koronacji Witolda_ , AW, I, 1923, 337-351 p. — Sar _­_
+    nes, A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

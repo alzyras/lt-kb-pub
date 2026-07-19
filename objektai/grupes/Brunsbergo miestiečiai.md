@@ -112,7 +112,11 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
     tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš
     abiejų šalių daug sužeistųjų, kai kurie krito nukauti. Galop, nieko nepešę, pasitraukė.
-  citata_rodoma: "Jiems narsiai pasipriešino miestiečiai\nir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami\ntas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš\nabiejų šalių daug sužeistųjų, kai kurie krito nukauti. Galop, nieko nepešę, pasitraukė."
+  citata_rodoma: |
+    Jiems narsiai pasipriešino miestiečiai
+    ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
+    tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš
+    abiejų šalių daug sužeistųjų, kai kurie krito nukauti. Galop, nieko nepešę, pasitraukė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -139,7 +143,12 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-  citata_rodoma: "Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,\nmanydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei\nmiestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos\nreikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai."
+  citata_rodoma: |
+    Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
+    manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
+    miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
+    reikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60
+    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -161,7 +170,12 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
     mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
     palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
-  citata_rodoma: "Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,\nkurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,\nmanydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei\nmiestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos\nreikmenų, kiek ant pečių galėjo pakelti."
+  citata_rodoma: |
+    Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
+    kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
+    manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
+    miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
+    reikmenų, kiek ant pečių galėjo pakelti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -110,7 +110,14 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
     rija. bet teikiamais jos pavyzdžiais siekė kovoti su sa­
     vo gyvenamojo laikotarpio visuomenės ir santvarkos
     ydomis.
-  citata_rodoma: "Trys iš jų priklau­\nso Bychovco kronikos autoriui. Žemaitijos istorijai pri­\nskirtina taip pat tai, kas joje pasakojama apie Žemaiti­\njos seniūnų Kęsgailų giminės atstovus (jie minimi bent \n12 atvejų). Tačiau iš viso Žemaitijos ir karų su kry­\nžiuočiais istorijai pažinti Bychovco kronika yra men­\nkas informatorius."
+  citata_rodoma: |
+    Trys iš jų priklau­
+    so Bychovco kronikos autoriui. Žemaitijos istorijai pri­
+    skirtina taip pat tai, kas joje pasakojama apie Žemaiti­
+    jos seniūnų Kęsgailų giminės atstovus (jie minimi bent
+    12 atvejų). Tačiau iš viso Žemaitijos ir karų su kry­
+    žiuočiais istorijai pažinti Bychovco kronika yra men­
+    kas informatorius.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

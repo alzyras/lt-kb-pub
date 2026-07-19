@@ -94,7 +94,15 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
     ostrzu 2 i cwierc, miąžszosč przy dziurce jeden i avierč
     cali, dziurka z jedney strony 9, z dnigiey 7 linij ma w
     šrednicy, wnętrze jej do poloni wygladzone) (PE.
-  citata_rodoma: "Vėliau T. Narbutas šią informaciją įdėjo į vadina­\nmuosius „Mažesniuosius istorijos raštus“ (Pomniej-\nsze pisma historyczne szczegolnie do historyi Lit-\nwy odnoszące się. -  Wilno, 1852. -  S. 222-224).\nObelių kapinyno radiniai užėmė vieną garbingiau­\nsių vietų Šaurų dvaro muziejuje ([Narbutl T.] Spi-\nsanie Muzeum w Szavvrach. -  L. 2 (nr. 3); -  L. 3\n(nr. 29, 31)."
+  citata_rodoma: |
+    Vėliau T. Narbutas šią informaciją įdėjo į vadina­
+    muosius „Mažesniuosius istorijos raštus“ (Pomniej-
+    sze pisma historyczne szczegolnie do historyi Lit-
+    wy odnoszące się. -  Wilno, 1852. -  S. 222-224).
+    Obelių kapinyno radiniai užėmė vieną garbingiau­
+    sių vietų Šaurų dvaro muziejuje ([Narbutl T.] Spi-
+    sanie Muzeum w Szavvrach. -  L. 2 (nr. 3); -  L. 3
+    (nr. 29, 31).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

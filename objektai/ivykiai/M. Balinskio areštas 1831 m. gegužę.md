@@ -84,7 +84,11 @@ Nenurodyta
     netrukus paleistas. Kaip rašo istorikas Romualdas Naruniecas,
     „Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka pa­
     slaptinga".
-  citata_rodoma: "Gegužės mėnesį buvo areštuotas M. Balinskis, bet \nnetrukus paleistas. Kaip rašo istorikas Romualdas Naruniecas, \n„Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka pa­\nslaptinga\"."
+  citata_rodoma: |
+    Gegužės mėnesį buvo areštuotas M. Balinskis, bet
+    netrukus paleistas. Kaip rašo istorikas Romualdas Naruniecas,
+    „Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka pa­
+    slaptinga".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

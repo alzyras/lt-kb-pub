@@ -103,7 +103,17 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
     kas, tik kiek jaunesnis. Vadinasi, šis istorinis įvykis tu­
     rėjęs būti I krikščioniškosios eros amžiaus pirmojoje pu­
     sėje.
-  citata_rodoma: "Rusų karvedys, vardu\nRanonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo\nDanijos karaliaus valdžion. Netrukus antrą kito Rusnės\npono, vadinamo \\Vespats, Viešpačiu1, sostinę užėmė tie\npatys priešai, pavadinę Pelltsz, Peltišu ar gal Piltene\nvieną seniausių miestų šiame lietuviškų žemių krašte.\nBet tam, kad visiškai užimtų Rusią, Frotonui dar reikėjo\nnugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,\nsu kuriuo susidoroti buvo ne taip lengva; jis sudarė su\njuo sąjungą ir vedė jo dukrą."
+  citata_rodoma: |
+    Rusų karvedys, vardu
+    Ranonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo
+    Danijos karaliaus valdžion. Netrukus antrą kito Rusnės
+    pono, vadinamo \Vespats, Viešpačiu1, sostinę užėmė tie
+    patys priešai, pavadinę Pelltsz, Peltišu ar gal Piltene
+    vieną seniausių miestų šiame lietuviškų žemių krašte.
+    Bet tam, kad visiškai užimtų Rusią, Frotonui dar reikėjo
+    nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,
+    su kuriuo susidoroti buvo ne taip lengva; jis sudarė su
+    juo sąjungą ir vedė jo dukrą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

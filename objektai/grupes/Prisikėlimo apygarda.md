@@ -184,7 +184,16 @@ media_all_json: |-
     zanų vadų susirinkimų vieta (čia
     1949 m. vasario 16 d. pasirašyta
     LLKS deklaracija).
-  citata_rodoma: "Prisikėlimo apygardoje buvo\natkurta P. Lukšio rinktinė (netrukus pervadinta į\nMaironio), joje J. Paliūnas užėmė svar-\nbias pareigas. Naujoji Prisikėlimo\napygarda dėl savo geografinės pa-\ndėties tapo visos Lietuvos parti-\nzanų vadų susirinkimų vieta (čia\n1949 m. vasario 16 d. pasirašyta\nLLKS deklaracija)."
+  citata_rodoma: |
+    Prisikėlimo apygardoje buvo
+    atkurta P. Lukšio rinktinė (netrukus pervadinta į
+    Maironio), joje J. Paliūnas užėmė svar-
+    bias pareigas. Naujoji Prisikėlimo
+    apygarda dėl savo geografinės pa-
+    dėties tapo visos Lietuvos parti-
+    zanų vadų susirinkimų vieta (čia
+    1949 m. vasario 16 d. pasirašyta
+    LLKS deklaracija).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -202,7 +211,10 @@ media_all_json: |-
     rio rinktinę. 1948 m. Jungtinė Kęstučio apygarda (ku-
     riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
     Prisikėlimo apygardas.
-  citata_rodoma: "1948 m. Jungtinė Kęstučio apygarda (ku-\nriai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir\nPrisikėlimo apygardas."
+  citata_rodoma: |
+    1948 m. Jungtinė Kęstučio apygarda (ku-
+    riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
+    Prisikėlimo apygardas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

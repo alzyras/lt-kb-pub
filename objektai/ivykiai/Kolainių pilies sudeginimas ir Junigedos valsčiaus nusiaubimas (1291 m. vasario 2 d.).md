@@ -120,7 +120,19 @@ Nenurodyta
     Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
     nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
     244 (237).
-  citata_rodoma: "Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą\n\n  1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,\nKaraliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami\npro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į\nJunigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų\nnuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.\n\n\n\n\n     244 (237)."
+  citata_rodoma: |
+    Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
+
+      1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
+    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
+    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į
+    Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
+    nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
+
+
+
+
+         244 (237).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

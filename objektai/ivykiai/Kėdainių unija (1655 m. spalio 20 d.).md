@@ -125,7 +125,14 @@ Nenurodyta
     jos ir jo lūkesčių nepateisino, J. Radvila negavo jokių
     reikšmingų pareigų, karinė pagalba suteikta nebuvo,
     užimtoje teritorijoje švedai elgėsi kaip okupantai.
-  citata_rodoma: "J. Radvila ir lauko etmonas\nV. Gosievskis 1655 m. pasirašė LDK pasidavimo Švedijai\naktą (didesnė dalis Lenkijos jau buvo pasidavusi\nšvedams prieš tai). J. Radvila buvo unijos su Lenkija\nnutraukimo ir sudarymo jos su Švedija šalininkas.\nJo pastangomis unija buvo sudaryta Kėdainiuose\n1655 m. spalio 20 d."
+  citata_rodoma: |
+    J. Radvila ir lauko etmonas
+    V. Gosievskis 1655 m. pasirašė LDK pasidavimo Švedijai
+    aktą (didesnė dalis Lenkijos jau buvo pasidavusi
+    švedams prieš tai). J. Radvila buvo unijos su Lenkija
+    nutraukimo ir sudarymo jos su Švedija šalininkas.
+    Jo pastangomis unija buvo sudaryta Kėdainiuose
+    1655 m. spalio 20 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

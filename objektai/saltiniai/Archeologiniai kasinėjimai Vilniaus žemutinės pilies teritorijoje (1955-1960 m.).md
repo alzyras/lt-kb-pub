@@ -77,7 +77,12 @@ media_all_json: |-
     124 p. — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­
     nynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI
     amžiais_ , Vilnius 1970.
-  citata_rodoma: "— (”) _Archeologiniai kasinėjimai\nVilniaus žemutinės pilies teritorijoje (1955-1960 m.)_ , AkMD, t. 4, 1958,\n91-111 p. ; t. 6, 1959, 115-134 p. ; t. 9, 1960, 43-66 p. ; t. 11, 1961, 103-\n124 p. — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­\nnynuose,_ AkMD, t."
+  citata_rodoma: |
+    — (”) _Archeologiniai kasinėjimai
+    Vilniaus žemutinės pilies teritorijoje (1955-1960 m.)_ , AkMD, t. 4, 1958,
+    91-111 p. ; t. 6, 1959, 115-134 p. ; t. 9, 1960, 43-66 p. ; t. 11, 1961, 103-
+    124 p. — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­
+    nynuose,_ AkMD, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -188,7 +188,15 @@ Nenurodyta
     sužeistų, netinkamų gynybai , tačiau juos
     keitė sveikieji. Mūšio įkarštyje komtūrui
     iš mašinos paleistas akmuo nunešė galvą.
-  citata_rodoma: "Po keturių savaičių apgulties, po dauge-\nlio susidūrimų meistras Hermanas vienoje\npilies angoje pastatė bombardą prieš lie-\ntuvius, tačiau lietuviai, priešpriešiais įtaisę\ntokį pat pabūklą, užmušė minėtą meistrą.\nPo sunkių kovų buvo „pilyje daug brolių\nsužeistų, netinkamų gynybai , tačiau juos\nkeitė sveikieji."
+  citata_rodoma: |
+    Po keturių savaičių apgulties, po dauge-
+    lio susidūrimų meistras Hermanas vienoje
+    pilies angoje pastatė bombardą prieš lie-
+    tuvius, tačiau lietuviai, priešpriešiais įtaisę
+    tokį pat pabūklą, užmušė minėtą meistrą.
+    Po sunkių kovų buvo „pilyje daug brolių
+    sužeistų, netinkamų gynybai , tačiau juos
+    keitė sveikieji.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

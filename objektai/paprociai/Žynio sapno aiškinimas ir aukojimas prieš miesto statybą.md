@@ -101,7 +101,20 @@ Nenurodyta
     no Vilniumi pagal Vilnios upės vardą.
     h i
     XI Knyga, sk.
-  citata_rodoma: "Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­\ndeika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas, \nišaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi \napkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­\ntuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­\nbę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks \nšio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­\nkas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro \npilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­\nno Vilniumi pagal Vilnios upės vardą."
+  citata_rodoma: |
+    Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
+    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
+    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
+    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
+    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
+    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
+    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
+    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
+    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
+    no Vilniumi pagal Vilnios upės vardą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

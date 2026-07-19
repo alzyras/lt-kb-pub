@@ -89,7 +89,8 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
     pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
     tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
     žemėse priemone.
-  citata_rodoma: "tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų"
+  citata_rodoma: |
+    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

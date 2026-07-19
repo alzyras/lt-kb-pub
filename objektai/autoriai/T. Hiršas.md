@@ -90,7 +90,12 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
     žemupio rodo, mūsų galva, vietovardžių su Kulm- baltiškąją kilmę.
     1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos
     šiaurėje, Vyslos vakaruose ir Drėvantos (dab.
-  citata_rodoma: "Vygandas Marburgietis XIV a. 9-ame dešimtmetyje (1382, 1384 m.) Lietuvoje, Neries\nžemupyje, mini villa Culmen, terra Culmense (Bornbachas — Kolmische land; SRP, 2,\np. 602, 626— 627; plg. dar 3, p. 118). Kronikos leidėjas T. Hiršas mano, kad čia esanti\nrašybos klaida (turėtų būti Culvensem), kad tai Kulva (kituose to meto šaltiniuose —\nKolwa, Colwe, Koluwe — Weg."
+  citata_rodoma: |
+    Vygandas Marburgietis XIV a. 9-ame dešimtmetyje (1382, 1384 m.) Lietuvoje, Neries
+    žemupyje, mini villa Culmen, terra Culmense (Bornbachas — Kolmische land; SRP, 2,
+    p. 602, 626— 627; plg. dar 3, p. 118). Kronikos leidėjas T. Hiršas mano, kad čia esanti
+    rašybos klaida (turėtų būti Culvensem), kad tai Kulva (kituose to meto šaltiniuose —
+    Kolwa, Colwe, Koluwe — Weg.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

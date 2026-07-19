@@ -71,11 +71,15 @@ media_all_json: |-
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
-    Batoro laikais. Tik labai suma-
+    Tik labai suma-
     žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
     jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)
     tebuvo atgauta tik viena Latgala.
-  citata_rodoma: "Tik labai suma-\nžėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji\njos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)\ntebuvo atgauta tik viena Latgala."
+  citata_rodoma: |
+    Tik labai suma-
+    žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
+    jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)
+    tebuvo atgauta tik viena Latgala.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

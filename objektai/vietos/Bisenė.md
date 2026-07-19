@@ -207,7 +207,17 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.
-  citata_rodoma: "Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
+  citata_rodoma: |
+    Apie Bisenės papilių sudeginimą 1313 metais
+
+      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
+    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
+    abu jos papiliai supleškėjo ugnyje.
+
+
+
+
+                    320 (313).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -226,7 +236,12 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
     kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
     317 (310).
-  citata_rodoma: "Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė\nvisą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,\nkurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę\nkaro įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne\nkurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą."
+  citata_rodoma: |
+    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
+    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
+    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
+    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
+    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -245,7 +260,18 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     turėjo iš čia pasitraukti, o į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
     išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
     329 (322).
-  citata_rodoma: "Apie 80 lietuvių žūtį 1316 metais\n\n  Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir\n60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,\nturėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,\nišskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.\n\n\n\n\n             329 (322)."
+  citata_rodoma: |
+    Apie 80 lietuvių žūtį 1316 metais
+
+      Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
+    60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
+    turėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
+    išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
+
+
+
+
+                 329 (322).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

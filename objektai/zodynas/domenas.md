@@ -62,7 +62,11 @@ Todėl nei bajorų nei didžiojo kunigaikščio dvaruose (vadinamuosiuose domenu
     tuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos kara-
     lystės žemių, nes joje buvo daugybė didžiojo kunigaikščio
     dvarų (domenų).
-  citata_rodoma: "Tačiau pajamų iš Lie-\ntuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos kara-\nlystės žemių, nes joje buvo daugybė didžiojo kunigaikščio\ndvarų (domenų)."
+  citata_rodoma: |
+    Tačiau pajamų iš Lie-
+    tuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos kara-
+    lystės žemių, nes joje buvo daugybė didžiojo kunigaikščio
+    dvarų (domenų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

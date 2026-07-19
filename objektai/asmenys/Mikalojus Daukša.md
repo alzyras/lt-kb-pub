@@ -72,7 +72,10 @@ media_all_json: |-
     ar gramatikos (1737 m. lietuvių kalbos gramatika) rūpinosi tik lietuvių
     kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
-  citata_rodoma: "lietuvių kalbos gramatika) rūpinosi tik lietuvių \nkalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu. \nTodėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta."
+  citata_rodoma: |
+    lietuvių kalbos gramatika) rūpinosi tik lietuvių
+    kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
+    Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

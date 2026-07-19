@@ -66,7 +66,9 @@ media_all_json: |-
     **ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­
     gijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.).
     Aidai = 1945-49 m.
-  citata_rodoma: "ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­\ngijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.)."
+  citata_rodoma: |
+    ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­
+    gijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

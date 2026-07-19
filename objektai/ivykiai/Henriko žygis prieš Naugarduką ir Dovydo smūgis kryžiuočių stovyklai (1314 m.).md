@@ -132,7 +132,27 @@ Nenurodyta
     tą, geriausią kariuomenę metė prieš pilį, bet po
     pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
     verstas išsižadėti šio sumanymo.
-  citata_rodoma: "Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­\nsijos maršalas, pakartotiniais antpuoliais nuniokojo Me­\ndininkų valsčių. Jeigu lietuviai, parodę tokį narsu­\nmą, būtų turėję ten daugiau \n1314 m e ta i \nkarių ir jėgų, tikrai būtų kry­\nžiuočiai netekę visos stovyk­\nlos, mat penki kariai, nakties tamsoje prasigavę pro \nsargybas, prisėlino beveik ligi pačių vadų ir, keletą\npriešų nužudę ir pasiplėšę \nN e p a p ra sta \np e n k ių \ngrobio, kiek tik galėjo pen- \niie tu v ių n arsa \nkiese pakelti, sveiki sugrįžo\npas savuosius, įvarydami kry­\nžiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau \nbūta baimės nei pavojaus. Truputį vėliau Henrikas, \nugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­\nriuomene ligi Naugarduko."
+  citata_rodoma: |
+    Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
+    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
+    dininkų valsčių. Jeigu lietuviai, parodę tokį narsu­
+    mą, būtų turėję ten daugiau
+    1314 m e ta i
+    karių ir jėgų, tikrai būtų kry­
+    žiuočiai netekę visos stovyk­
+    los, mat penki kariai, nakties tamsoje prasigavę pro
+    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
+    priešų nužudę ir pasiplėšę
+    N e p a p ra sta
+    p e n k ių
+    grobio, kiek tik galėjo pen-
+    iie tu v ių n arsa
+    kiese pakelti, sveiki sugrįžo
+    pas savuosius, įvarydami kry­
+    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
+    būta baimės nei pavojaus. Truputį vėliau Henrikas,
+    ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­
+    riuomene ligi Naugarduko.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

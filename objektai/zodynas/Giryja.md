@@ -161,7 +161,10 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
     (§34), ¡gyvenusią miškingose dykrose prie tautos kapų.
     S] pavadinimą pateikia kronikininkas Jonas, gy-venęs apie
     1359 metus2.
-  citata_rodoma: "Gal net lengviau būtų paaiškinti šio žodžio 'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių\niškraipymo: Giryja, girija, miškas, Girkija, girkija, miš­\nkingumas1."
+  citata_rodoma: |
+    Gal net lengviau būtų paaiškinti šio žodžio 'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių
+    iškraipymo: Giryja, girija, miškas, Girkija, girkija, miš­
+    kingumas1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -181,7 +184,9 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
     varžosi darydami etimologines išvadas, mes nelinkę šito daryti; ta­
     čiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­
     no krašto, tokį pavadinimą yra gavusi iš tos pačios tautos.
-  citata_rodoma: "tačiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­\nno krašto, tokį pavadinimą yra gavusi iš tos pačios tautos."
+  citata_rodoma: |
+    tačiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­
+    no krašto, tokį pavadinimą yra gavusi iš tos pačios tautos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -207,7 +212,16 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
     timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
     priklausančiai kryžiuočiams, kurie valdyti pradėjo nuo
     Ruimo.
-  citata_rodoma: "Reikėtų\natsisakyti šio aiškinimo, nes paminklas daug senesnis už\npačią epochą. Gal net lengviau būtų paaiškinti šio žodžio\n'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių\niškraipymo: Giryja, girija, miškas, Girkija, girkija, miš­\nkingumas1. Be to, prisiminkime, kad senaisiais amžiais\nir svetimšaliai vadindavo lietuvius Geras\\ lietuvių kalba\nturi tokį pat žodį, taip pat primena skitišką gerų kastą\n(§34), ¡gyvenusią miškingose dykrose prie tautos kapų."
+  citata_rodoma: |
+    Reikėtų
+    atsisakyti šio aiškinimo, nes paminklas daug senesnis už
+    pačią epochą. Gal net lengviau būtų paaiškinti šio žodžio
+    'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių
+    iškraipymo: Giryja, girija, miškas, Girkija, girkija, miš­
+    kingumas1. Be to, prisiminkime, kad senaisiais amžiais
+    ir svetimšaliai vadindavo lietuvius Geras\ lietuvių kalba
+    turi tokį pat žodį, taip pat primena skitišką gerų kastą
+    (§34), ¡gyvenusią miškingose dykrose prie tautos kapų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -271,7 +271,15 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
     su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
     (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
     gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
-  citata_rodoma: "O « Europos šiaurės Tacitas »,\narkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta\nHammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas\nSkandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė\ndaugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius\nsu švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»\n(« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą\ngelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."
+  citata_rodoma: |
+    O « Europos šiaurės Tacitas »,
+    arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta
+    Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas
+    Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė
+    daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius
+    su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
+    (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
+    gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -336,7 +344,14 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
     jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
     giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
     davo karalių, ponų ir prastuomenės didžios pagarbos.
-  citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
+  citata_rodoma: |
+    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
+    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
+    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
+    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
+    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
+    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
+    šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -423,7 +438,15 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
     jo amžiuje žinomas Rusias: vieną, per kurios vidurį plau­
     kė Nemunas iki lietuvių žemių, ir antrą, kurią kirto išėjęs
     iš Lietuvos5.
-  citata_rodoma: "Ra- \ndevikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos \nsienas, mini Rusios problemą. Jis priskyrė Lenkijai visą \nPrūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­\nsus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4. \nTie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­\njusią Rusios vardą, kuris susimaišė su Nemuno aukštupio \nslaviškumu."
+  citata_rodoma: |
+    Ra-
+    devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
+    sienas, mini Rusios problemą. Jis priskyrė Lenkijai visą
+    Prūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­
+    sus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4.
+    Tie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­
+    jusią Rusios vardą, kuris susimaišė su Nemuno aukštupio
+    slaviškumu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -83,7 +83,8 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
     kada pretendavo Vytautas Didysis. Netekusi Vilniaus, Lietuva atsisuko į
     Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
     nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-  citata_rodoma: "nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą."
+  citata_rodoma: |
+    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

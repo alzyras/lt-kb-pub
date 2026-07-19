@@ -138,7 +138,12 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     kantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo
     šūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­
     kai ir jų tautinio palikimo tęsėjai.
-  citata_rodoma: "Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis\nir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­\nkantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo\nšūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­\nkai ir jų tautinio palikimo tęsėjai."
+  citata_rodoma: |
+    Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis
+    ir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­
+    kantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo
+    šūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­
+    kai ir jų tautinio palikimo tęsėjai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +168,14 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     linskis pasisakė už bendrą Lenkijos ir istorinės Lietuvos politi­
     nę ateitį, bet jis pripažino LDK istorinį savarankiškumą ir net
     panaudojo jį gindamas savo politines pažiūras.
-  citata_rodoma: "Kraševskio Vilniaus \nistorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­\nne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų is- \ntorinio-geografinio, o ne nacionalinio, tautos supratimo\". Ap­\nskritai šios asmenybės stovėjo prie Vilniaus ir urbanistinės \nLietuvos istorijos ištakų, jų kūrybinį palikimą plačiai naudojo \nlietuvių nacionalinio judėjimo dalyviai - aušrininkai. Nors M."
+  citata_rodoma: |
+    Kraševskio Vilniaus
+    istorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­
+    ne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų is-
+    torinio-geografinio, o ne nacionalinio, tautos supratimo". Ap­
+    skritai šios asmenybės stovėjo prie Vilniaus ir urbanistinės
+    Lietuvos istorijos ištakų, jų kūrybinį palikimą plačiai naudojo
+    lietuvių nacionalinio judėjimo dalyviai - aušrininkai. Nors M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -171,7 +171,15 @@ Nenurodyta
     miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
     niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
     kai.
-  citata_rodoma: "Ne­\nturtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net\njei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­\nmingumo turi paklykauti .\nSeniau ašaras, išverktas per laidotuves, labai rūpestingai\nsurinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių\nindelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­\nrusiojo kojų. Apie tai bus straipsnyje „Kapai“."
+  citata_rodoma: |
+    Ne­
+    turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
+    jei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­
+    mingumo turi paklykauti .
+    Seniau ašaras, išverktas per laidotuves, labai rūpestingai
+    surinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių
+    indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
+    rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -215,7 +223,15 @@ Nenurodyta
     ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
     roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
     pelenai.
-  citata_rodoma: "Ir\nšiandien ten randama daugybė nuolaužų, priklausančių ašari­\nnėms*. Vienoda jų sandara ir tokia pat radimo vieta įtikina,\njog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,\nkad į jas tekėtų ašaros.\nTikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­\ndos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­\nrias dėdavo sudegintų žmonių pelenus."
+  citata_rodoma: |
+    Ir
+    šiandien ten randama daugybė nuolaužų, priklausančių ašari­
+    nėms*. Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

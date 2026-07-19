@@ -203,7 +203,16 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     tarpu baltarusių yra (kitokie. Horizontalus jų pjūvis yra
     šiek tiek suplotos elipsės formos, vertikalus skersinis pjū­
     vis sudaro dalį apskritimo.
-  citata_rodoma: "Ypač mus domina baltarusių\npilkapiai, savo forma ir dydžiu besiskiriantys nuo ukrai-\nnietiškų, arba stepinių. Šie yra gana aukšti ir turi konu-\nso'formą arba labai panašūs į šieno kupetas; jie dažniau­\nsiai išbarstyti pavieniui šen bei ten, juose beveik visada\nrandama ginklų ir turtingų riterių apdarų likučių. Tuo\ntarpu baltarusių yra (kitokie. Horizontalus jų pjūvis yra\nšiek tiek suplotos elipsės formos, vertikalus skersinis pjū­\nvis sudaro dalį apskritimo."
+  citata_rodoma: |
+    Ypač mus domina baltarusių
+    pilkapiai, savo forma ir dydžiu besiskiriantys nuo ukrai-
+    nietiškų, arba stepinių. Šie yra gana aukšti ir turi konu-
+    so'formą arba labai panašūs į šieno kupetas; jie dažniau­
+    siai išbarstyti pavieniui šen bei ten, juose beveik visada
+    randama ginklų ir turtingų riterių apdarų likučių. Tuo
+    tarpu baltarusių yra (kitokie. Horizontalus jų pjūvis yra
+    šiek tiek suplotos elipsės formos, vertikalus skersinis pjū­
+    vis sudaro dalį apskritimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -236,7 +245,23 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
     o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
     laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
-  citata_rodoma: "a) Pilkapiai visuomet buvo laikomi kapais.\nb) Jie priklauso neatmenamos senovės epochai.\nc) Tai paminklai kažkokios tautos, gyvenusios šioje\nžemėje iki slavų ir su jais kariavusios, arba tos, kurią\nslavai pavergė ginklu,\nd) Rogačiovas, esąs trikampyje, kurį skalauja Dnep-\nras ir Drutė, ant kalvos, laikomas seniausiu šio krašto\nmiestu ir visų pripažįstamas šios buvusios pilkapių ka-\nsėjų genties sostine.\ne) Vis dėlto pilkapius visuomet gaubė dabartinės mū-\nsų kraštiečių kartos pagarba. Šiandien kaimiečiai nors\nnelaiko jų savo tautos protėvių kapais, tačiau iš pagar-\nbos po jais besiilsinčios genties žmonių palaikams nieka-\nda nesiryžta paliesti jų nei noragu, nei kitais įrankiais,\no juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury\nlaukų, tarp pastatų ir gerokai trukdo, jie jų neliečia."
+  citata_rodoma: |
+    a) Pilkapiai visuomet buvo laikomi kapais.
+    b) Jie priklauso neatmenamos senovės epochai.
+    c) Tai paminklai kažkokios tautos, gyvenusios šioje
+    žemėje iki slavų ir su jais kariavusios, arba tos, kurią
+    slavai pavergė ginklu,
+    d) Rogačiovas, esąs trikampyje, kurį skalauja Dnep-
+    ras ir Drutė, ant kalvos, laikomas seniausiu šio krašto
+    miestu ir visų pripažįstamas šios buvusios pilkapių ka-
+    sėjų genties sostine.
+    e) Vis dėlto pilkapius visuomet gaubė dabartinės mū-
+    sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
+    nelaiko jų savo tautos protėvių kapais, tačiau iš pagar-
+    bos po jais besiilsinčios genties žmonių palaikams nieka-
+    da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
+    o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
+    laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -264,7 +289,9 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     Šis lietuvių tautos istoriją dominantis straipsnis buvo
     parašytas leidiniui „Tygodnik Wilenslki“', bet ir dabar
     čia verta pakartoti jį su tam tikromis pataisomis.
-  citata_rodoma: "Pilkapiai — žemės kalvos, supiltos žmonių rankomis,\nrusinu vadinami kurhany."
+  citata_rodoma: |
+    Pilkapiai — žemės kalvos, supiltos žmonių rankomis,
+    rusinu vadinami kurhany.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

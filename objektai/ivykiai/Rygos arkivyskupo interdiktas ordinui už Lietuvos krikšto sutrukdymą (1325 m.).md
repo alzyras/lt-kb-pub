@@ -146,7 +146,9 @@ Nenurodyta
     krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­
     niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
     vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
-  citata_rodoma: "Iš Avignono 1325 m. sugrįžęs Rygos arki­\nvyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą."
+  citata_rodoma: |
+    Iš Avignono 1325 m. sugrįžęs Rygos arki­
+    vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -167,7 +169,9 @@ Nenurodyta
     vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
     Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
     darytoji taika.
-  citata_rodoma: "Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­\ndarytoji taika."
+  citata_rodoma: |
+    Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
+    darytoji taika.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -187,7 +191,11 @@ Nenurodyta
     darytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė
     su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
     kad per tą laiką Gediminas galįs pasikrikštyti.
-  citata_rodoma: "Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­\ndarytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė\nsu Gediminu nekariauti ketverius metus, nes buvo turima vilčių,\nkad per tą laiką Gediminas galįs pasikrikštyti."
+  citata_rodoma: |
+    Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
+    darytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė
+    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
+    kad per tą laiką Gediminas galįs pasikrikštyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

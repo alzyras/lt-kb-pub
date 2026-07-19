@@ -151,7 +151,17 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     grobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
     šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
     499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224).
-  citata_rodoma: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena\n\n   Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų\npradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo\nkariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,\nkurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei\nšio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu\ngrobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per\nšią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė\n  499  Plg."
+  citata_rodoma: |
+    Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
+
+       Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
+    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
+    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
+    kurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei
+    šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
+    grobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
+    šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
+      499  Plg.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -175,7 +185,15 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
     skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
     (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
-  citata_rodoma: "Apie Skomanto, sūduvių vado, atsivertimą\n\n  Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,\nnegalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios\nžemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas\ntremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip\ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė\ntikėjimui ir broliams."
+  citata_rodoma: |
+    Apie Skomanto, sūduvių vado, atsivertimą
+
+      Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,
+    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
+    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
+    tremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -193,7 +211,10 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     Nr. 79; LIS 1 p. 47). Skomanto (žr. paaiškinimus D. III,  164, 1) valdomas Kresinenos
     valsčius buvo apie Skomanto ežerą (Skomentnersee, dab. j. Skomętno į vakarus nuo
     Augustavo) ir toliau į rytus (Kamiński A., Jaćwież, p. 102).
-  citata_rodoma: "Skomanto (žr. paaiškinimus D. III, 164, 1) valdomas Kresinenos\nvalsčius buvo apie Skomanto ežerą (Skomentnersee, dab. j. Skomętno  į vakarus nuo\nAugustavo) ir toliau į rytus (Kamiński A."
+  citata_rodoma: |
+    Skomanto (žr. paaiškinimus D. III, 164, 1) valdomas Kresinenos
+    valsčius buvo apie Skomanto ežerą (Skomentnersee, dab. j. Skomętno  į vakarus nuo
+    Augustavo) ir toliau į rytus (Kamiński A.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

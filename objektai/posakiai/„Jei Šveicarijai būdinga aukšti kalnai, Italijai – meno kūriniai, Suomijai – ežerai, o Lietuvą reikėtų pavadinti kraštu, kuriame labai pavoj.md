@@ -60,7 +60,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors
     Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
     ji dažnai laikoma Rytų Europos dalimi.
-  citata_rodoma: "tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors"
+  citata_rodoma: |
+    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

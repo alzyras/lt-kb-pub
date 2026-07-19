@@ -90,8 +90,24 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
     grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos ka-
     riuomenės dalinių organizavimo. Tapo 1-ojo pėsti- |
     ninky pulko vadu. Ėjo 1-osios brigados vado pareigas, |
-    1919 m. gegužę paskirtas Ukmergės grupės vadu.
-  citata_rodoma: "Paveiksle pavaizduoti\nRadviliškį atakuojantys 1-ojo pėstininkų pulko kariai,\nginkluoti Mosin-Nagant šautuvais\n\n## Puslapis 195\n\nKazys Ladyga (1893-1941)\n\n1914 m. baigė Vilniaus karo mokyklą, dalyvavo\nPirmajame pasauliniame kare, buvo du kartus su-\nžeistas. Baigiantis pasauliniam karui turėjo Rusijos\nkariuomenės kapitono laipsnį. Po demobilizacijos\ngrįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos ka-\nriuomenės dalinių organizavimo. Tapo 1-ojo pėsti- |\nninky pulko vadu. Ėjo 1-osios brigados vado pareigas, |\n1919 m."
+    1919 m.
+  citata_rodoma: |
+    Paveiksle pavaizduoti
+    Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
+    ginkluoti Mosin-Nagant šautuvais
+
+    ## Puslapis 195
+
+    Kazys Ladyga (1893-1941)
+
+    1914 m. baigė Vilniaus karo mokyklą, dalyvavo
+    Pirmajame pasauliniame kare, buvo du kartus su-
+    žeistas. Baigiantis pasauliniam karui turėjo Rusijos
+    kariuomenės kapitono laipsnį. Po demobilizacijos
+    grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos ka-
+    riuomenės dalinių organizavimo. Tapo 1-ojo pėsti- |
+    ninky pulko vadu. Ėjo 1-osios brigados vado pareigas, |
+    1919 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

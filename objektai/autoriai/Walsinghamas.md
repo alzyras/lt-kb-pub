@@ -85,7 +85,25 @@ IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. V
     priskiria Derbio grafui, o užmuštų
     ir sužeistų lietuvių nurodo buvus
     apie 4 000.
-  citata_rodoma: "545, byloja, kad „per \npirmąjį puolimą kryžiuočių kariai \nužėmė medinę pilį, kurioj daugiau \nkaip tūkstantį žmonių nužudę; sude­\nginę šaunių raitelių bei pėstininkų ka­\nrių, kelis ir Rusios kunigaikščius, bū­\ntent vieną iš Lenkijos karaliaus brolių, \nvardu Karigaila; toje pilyje iš viso bu­\nvo sučiupę iki dviejų tūkstančių įvai­\nraus amžiaus žmonių/'\n30\nD e W a 1 Histoire de Vordre Teut. T. IV, \np. 68, rašo, kad anglų kronikininkas \nWalsinghamas  savo kronikoje \n1390 m. Vilniaus užėmimo garbę \npriskiria Derbio grafui, o užmuštų \nir sužeistų lietuvių nurodo buvus \napie 4 000."
+  citata_rodoma: |
+    545, byloja, kad „per
+    pirmąjį puolimą kryžiuočių kariai
+    užėmė medinę pilį, kurioj daugiau
+    kaip tūkstantį žmonių nužudę; sude­
+    ginę šaunių raitelių bei pėstininkų ka­
+    rių, kelis ir Rusios kunigaikščius, bū­
+    tent vieną iš Lenkijos karaliaus brolių,
+    vardu Karigaila; toje pilyje iš viso bu­
+    vo sučiupę iki dviejų tūkstančių įvai­
+    raus amžiaus žmonių/'
+    30
+    D e W a 1 Histoire de Vordre Teut. T. IV,
+    p. 68, rašo, kad anglų kronikininkas
+    Walsinghamas  savo kronikoje
+    1390 m. Vilniaus užėmimo garbę
+    priskiria Derbio grafui, o užmuštų
+    ir sužeistų lietuvių nurodo buvus
+    apie 4 000.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

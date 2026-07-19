@@ -114,7 +114,26 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
     ir be saiko ištikimus graikų apeigoms, kad jie pasiduo­
     tų Maskvos valdžiai bei priklausomybei, išduotų Se-
     verską ir užpultų su savo kariaunomis Lietuvą.
-  citata_rodoma: "Šis, labiau\ngeisdamas plėsti savo valdas, nei paisyti duoto žodžio\nbei giminystės, ryžosi galop viešai įpilti pasiuntiniams\ntaurę nuodų, kuriuos ligi šiol virino, puoselėdamas šir­\ndyje slaptus kėslus. Be reikalo, tarė, minimos čia su­\ntartys, kurios, tiek kartų Aleksandro sulaužytos, seniai\nneturinčios jokios vertės. Juk jis įsakęs Vilniaus vys­\nkupui Vaitiekui Taborui ir\nP a sk elb ia\nA le k sa n d -\nSmolensko\nJuozapui Solta-\nrui karą\nnui ne kartą raginti Eleną\npereiti į Romos tikėjimą; li­\ngi šiol rūmuose nesanti pastatyta Elenos reikalams\nkoplyčia; rusai verčiami atsisakyti prosenelių tikėjimo\nir todėl kai kurie, norėdami išvengti šitokios nuodė­\nmės, ieškosi prieglobsčio Maskvoje."
+  citata_rodoma: |
+    Šis, labiau
+    geisdamas plėsti savo valdas, nei paisyti duoto žodžio
+    bei giminystės, ryžosi galop viešai įpilti pasiuntiniams
+    taurę nuodų, kuriuos ligi šiol virino, puoselėdamas šir­
+    dyje slaptus kėslus. Be reikalo, tarė, minimos čia su­
+    tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai
+    neturinčios jokios vertės. Juk jis įsakęs Vilniaus vys­
+    kupui Vaitiekui Taborui ir
+    P a sk elb ia
+    A le k sa n d -
+    Smolensko
+    Juozapui Solta-
+    rui karą
+    nui ne kartą raginti Eleną
+    pereiti į Romos tikėjimą; li­
+    gi šiol rūmuose nesanti pastatyta Elenos reikalams
+    koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
+    ir todėl kai kurie, norėdami išvengti šitokios nuodė­
+    mės, ieškosi prieglobsčio Maskvoje.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -147,7 +166,20 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
     Ir, atleidęs pasiuntinį, sušaukė visą savo lietuvių
     bei rusų kariuomenę, ir iš Vitebsko ištraukė stačiai
     į Maskvą3.
-  citata_rodoma: "76\n\n## Puslapis 72\n\n22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ, \nPIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ \nPRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE\nKunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­\ntę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, \no visi lietuvių didikai pasiliko pagonys. Didysis kuni­\ngaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­\nvertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien \nrusų."
+  citata_rodoma: |
+    76
+
+    ## Puslapis 72
+
+    22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ,
+    PIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ
+    PRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE
+    Kunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­
+    tę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą,
+    o visi lietuvių didikai pasiliko pagonys. Didysis kuni­
+    gaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­
+    vertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien
+    rusų.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

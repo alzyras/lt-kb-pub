@@ -259,7 +259,20 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
     Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
     4to, puikiausiai išsilaikęs.
-  citata_rodoma: "Šiame laiške po parašais yra penki antspaudai.\n356\n\n## Puslapis 373\n\nIV KNYGA\nALEKSANDRO JOGAILAIČIO DOVANOJIMAS\nVILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI  \nPIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE  \n1493 METAIS\n(Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)\nŠis aktas, surašytas gryna slavų kalba, ant popieriaus in \n4to, puikiausiai išsilaikęs."
+  citata_rodoma: |
+    Šiame laiške po parašais yra penki antspaudai.
+    356
+
+    ## Puslapis 373
+
+    IV KNYGA
+    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
+    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
+    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
+    1493 METAIS
+    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
+    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
+    4to, puikiausiai išsilaikęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

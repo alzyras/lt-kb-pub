@@ -110,7 +110,20 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     ros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju-
     zumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir
     1.1.
-  citata_rodoma: "Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­\nkintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, - \no tai mėginama jau daryti\"13. Kita vertus, Laiškuose galima užtikti \nano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų. „Taip \npat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais\nXIV\n\n## Puslapis 15\n\ndarbais kunigai Tatarė, Rajūnas, Kitkevičius, Žemaičių kated­\nros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju- \nzumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir \n1."
+  citata_rodoma: |
+    Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­
+    kintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, -
+    o tai mėginama jau daryti"13. Kita vertus, Laiškuose galima užtikti
+    ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų. „Taip
+    pat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais
+    XIV
+
+    ## Puslapis 15
+
+    darbais kunigai Tatarė, Rajūnas, Kitkevičius, Žemaičių kated­
+    ros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju-
+    zumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir
+    1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +146,11 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
     me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
     nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
-  citata_rodoma: "sukilimo klestėjusį Vilniaus universitetą. M. Balinskis, lyg ir pri­\nsimindamas savo jaunystės metus „nenaudėlių\" draugijoje šia­\nme Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose \nnagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas."
+  citata_rodoma: |
+    sukilimo klestėjusį Vilniaus universitetą. M. Balinskis, lyg ir pri­
+    simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
+    me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
+    nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +171,13 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
     rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
     dešimtmetyje.
-  citata_rodoma: "Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta \nWarszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti \nstraipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­\ntingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū- \nrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a. \ndešimtmetyje."
+  citata_rodoma: |
+    Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
+    Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti
+    straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­
+    tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
+    rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
+    dešimtmetyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -158,7 +158,14 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
     manas, kurio straipsnis buvo išspausdintas
     ,,Dziennik
     Wilenski" (J829.
-  citata_rodoma: "Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­\nlo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,\nypač Hisingeris ir Geiingeno universiteto profesorius IJaus-\nmanas, kurio straipsnis buvo išspausdintas\n,,Dziennik\nWilenski\" (J829. T. V). Sunku nustatyti tų sąnašų ribas\nneturint smulkių tų vietovių tyrinėjimų."
+  citata_rodoma: |
+    Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­
+    lo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,
+    ypač Hisingeris ir Geiingeno universiteto profesorius IJaus-
+    manas, kurio straipsnis buvo išspausdintas
+    ,,Dziennik
+    Wilenski" (J829. T. V). Sunku nustatyti tų sąnašų ribas
+    neturint smulkių tų vietovių tyrinėjimų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -184,7 +191,16 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
     žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­
     ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­
     menys būtų iš visų kampų sunešti į vieną krūvą.
-  citata_rodoma: "Šios akmens krušos įrodymas ■—■ tai\nakmens sangrūdų išsidėstymas. Jų visuomet daugiau ir\nmasyvesnių būva kalnų papėdėse, tose vietose, kur yra jų\nsvorio centrą atitinkantis pagrindas. Taigi matyti, jog\nakmenys lengvai krito nuo kalnų paraboline metimo kryp­\ntimi. Šios uolienų nuolaužos ne visur vienodai nuklojo\nžemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­\nba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­\nmenys būtų iš visų kampų sunešti į vieną krūvą."
+  citata_rodoma: |
+    Šios akmens krušos įrodymas ■—■ tai
+    akmens sangrūdų išsidėstymas. Jų visuomet daugiau ir
+    masyvesnių būva kalnų papėdėse, tose vietose, kur yra jų
+    svorio centrą atitinkantis pagrindas. Taigi matyti, jog
+    akmenys lengvai krito nuo kalnų paraboline metimo kryp­
+    timi. Šios uolienų nuolaužos ne visur vienodai nuklojo
+    žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­
+    ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­
+    menys būtų iš visų kampų sunešti į vieną krūvą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

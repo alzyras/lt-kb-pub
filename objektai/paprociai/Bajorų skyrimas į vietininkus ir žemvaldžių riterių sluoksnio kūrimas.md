@@ -105,7 +105,12 @@ Nenurodyta
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-
     liko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje
     buvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis.
-  citata_rodoma: "Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-\nliko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje \nbuvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis."
+  citata_rodoma: |
+    Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-
+    liko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje
+    buvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

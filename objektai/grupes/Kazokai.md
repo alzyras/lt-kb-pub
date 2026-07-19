@@ -267,7 +267,11 @@ media_all_json: |-
     kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
     kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
     rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
-  citata_rodoma: "1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti\nkazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-\nkę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-\nrų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“."
+  citata_rodoma: |
+    1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
+    kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
+    kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
+    rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -286,7 +290,9 @@ media_all_json: |-
     Žiemą Lietuvos kaimas daug kur buvo perėjęs į vietos žmonių rankas.
     Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
     zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
-  citata_rodoma: "Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-\nzokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė."
+  citata_rodoma: |
+    Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
+    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -309,7 +315,16 @@ media_all_json: |-
     mis jėgomis su visa Lietuvos kariuomene
     nublokšti švedus į šiaurėje esantį pelkėtą
     mišką ir ten juos sunaikinti.
-  citata_rodoma: "Šio sparno jėga - reitarų\nsutelkta ugnis, husarų geležinis smūgis,\nLietuvos totorių ir kazokų manevringumas\npersekiojant bėgantį priešą. Sparno užda-\nvinys - apeiti priešininko dešinįjį sparną,\nnustumti jį nuo Dauguvos kranto ir bendro-\nmis jėgomis su visa Lietuvos kariuomene\nnublokšti švedus į šiaurėje esantį pelkėtą\nmišką ir ten juos sunaikinti."
+  citata_rodoma: |
+    Šio sparno jėga - reitarų
+    sutelkta ugnis, husarų geležinis smūgis,
+    Lietuvos totorių ir kazokų manevringumas
+    persekiojant bėgantį priešą. Sparno užda-
+    vinys - apeiti priešininko dešinįjį sparną,
+    nustumti jį nuo Dauguvos kranto ir bendro-
+    mis jėgomis su visa Lietuvos kariuomene
+    nublokšti švedus į šiaurėje esantį pelkėtą
+    mišką ir ten juos sunaikinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -328,7 +343,12 @@ media_all_json: |-
     Neatlaikę puolimo, kazokai ėmė trauk-
     tis. LDK didysis etmonas pasiuntė ke-
     letą lengvosios kavalerijos - „lisovčikų“
-  citata_rodoma: "Pirmiausiai janičarai (turkų pėstininkai),\no po to ir turkų kavalerija atakavo atski-\nrai įsikūrusių Ukrainos kazokų stovyklą.\nNeatlaikę puolimo, kazokai ėmė trauk-\ntis."
+  citata_rodoma: |
+    Pirmiausiai janičarai (turkų pėstininkai),
+    o po to ir turkų kavalerija atakavo atski-
+    rai įsikūrusių Ukrainos kazokų stovyklą.
+    Neatlaikę puolimo, kazokai ėmė trauk-
+    tis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

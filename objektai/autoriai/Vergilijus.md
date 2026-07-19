@@ -118,7 +118,14 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
     na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
     arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
     žmonės priskiria kažkokią šventumo ypatybe5.
-  citata_rodoma: "371\n\n## Puslapis 371\n\nkad sampilas būtų kuo aukščiausias“1. Vergilijus praneša, kad\nEnėjo laikais virš karstų supildavo kalnus. Tą patį Ksenofon-\ntas sako apie persus."
+  citata_rodoma: |
+    371
+
+    ## Puslapis 371
+
+    kad sampilas būtų kuo aukščiausias“1. Vergilijus praneša, kad
+    Enėjo laikais virš karstų supildavo kalnus. Tą patį Ksenofon-
+    tas sako apie persus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

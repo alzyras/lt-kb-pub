@@ -111,7 +111,12 @@ media_all_json: |-
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
+  citata_rodoma: |
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+    *
+    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -130,7 +135,13 @@ media_all_json: |-
     _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
     pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
     _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
-  citata_rodoma: "— Sideravičius, K. : _Marksistinė Lietuvos TSR isto­\nrija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-\nlenininių pozicijų,_ Komunistas, 1963, nr. 10, 42-47 p. — Trumpa, V. :\n_Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­\npa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :\n_Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.)."
+  citata_rodoma: |
+    — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
+    rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-
+    lenininių pozicijų,_ Komunistas, 1963, nr. 10, 42-47 p. — Trumpa, V. :
+    _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
+    pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
+    _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

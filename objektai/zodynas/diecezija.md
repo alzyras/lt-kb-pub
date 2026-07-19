@@ -138,7 +138,20 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     ką9. O keturi naujai įvesti prelatų ir aštuoni kanauninkų
     titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
     tiems Lietuvoje Kristaus tikėjimą.
-  citata_rodoma: "Iškilmingai, \ndalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, \nją pašventino Gniezno arkivyskupas Bodzanta, o karalienė \nJadvyga iš savo pačios lobyno skrynių apdovanojo brangiais \nrykais ir visokia manta. Lenkų didžponiams patarus, pir­\nmuoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­\nrinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš \nJastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­\nnuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­\ntos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­\nką9. O keturi naujai įvesti prelatų ir aštuoni kanauninkų \ntitulai buvo atiduoti uoliausiems lenkų kunigams, platinan­\ntiems Lietuvoje Kristaus tikėjimą."
+  citata_rodoma: |
+    Iškilmingai,
+    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
+    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
+    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
+    rykais ir visokia manta. Lenkų didžponiams patarus, pir­
+    muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­
+    rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš
+    Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­
+    nuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­
+    tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
+    ką9. O keturi naujai įvesti prelatų ir aštuoni kanauninkų
+    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
+    tiems Lietuvoje Kristaus tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +177,20 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     jos garbei, tačiau pašvęsta ypačiai
     šv. Stanislovui, kankiniui ir vysku­
     pui bei šv.
-  citata_rodoma: "Karalius tuoj pat \naprūpino ją nemenkomis pajamomis: be turtingos Klodovo \nklebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam\nbet ir kai kuriais padavimais ar \nužuominomis, kurias aptikau Vil­\nniaus kapitulos ar Karaliauč. slapt. \narchyvo dokumentuose.\n8\nKatedra pastatyta Švč. Trejybės ir \nDievo Motinos Švč. Mergelės Mari­\njos garbei, tačiau pašvęsta ypačiai \nšv. Stanislovui, kankiniui ir vysku­\npui bei šv."
+  citata_rodoma: |
+    Karalius tuoj pat
+    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
+    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
+    bet ir kai kuriais padavimais ar
+    užuominomis, kurias aptikau Vil­
+    niaus kapitulos ar Karaliauč. slapt.
+    archyvo dokumentuose.
+    8
+    Katedra pastatyta Švč. Trejybės ir
+    Dievo Motinos Švč. Mergelės Mari­
+    jos garbei, tačiau pašvęsta ypačiai
+    šv. Stanislovui, kankiniui ir vysku­
+    pui bei šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +217,14 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     prašyti patvirtinti senato reikalavimus. Taip pat atvyko
     ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
     tas jų imperatoriaus titulas.
-  citata_rodoma: "Dėl to Romos se-\nnatas nusiuntė į Konstantinopolį pasiuntinius, pranešda-\nmas, jog nereikia skelbti imperatorių Romoje, nes auk-\nščiausio rango pareigūnas yra Rytų imperijoje; imperato-\nrius gali drąsiai pasikliauti dora ir karingumu Odoakro\nkaip patricijaus, kuriam jis teikiasi patikėti valdžią italų\ndiecezijoje."
+  citata_rodoma: |
+    Dėl to Romos se-
+    natas nusiuntė į Konstantinopolį pasiuntinius, pranešda-
+    mas, jog nereikia skelbti imperatorių Romoje, nes auk-
+    ščiausio rango pareigūnas yra Rytų imperijoje; imperato-
+    rius gali drąsiai pasikliauti dora ir karingumu Odoakro
+    kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
+    diecezijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

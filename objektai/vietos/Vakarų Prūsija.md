@@ -94,7 +94,31 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
     nas BAKA ŠV
     ASmenaQ,
     o da rėva
-  citata_rodoma: "Gardine išleista privilegija nurodė statyti\n\na i miesto gynybinę mūro sieną\n\n## Puslapis 79\n\nNuo 1466 m. ry\nVakarų Prūsija ir\nVarmė buvo pri-\njungtos tiesiogiai\nprie Lenkijos.\n\n—\n-\n— Ū\npes\n\n6 Palanga\n\nKlaipe\n\nKARALIAU C /\n\nD."
+  citata_rodoma: |
+    Gardine išleista privilegija nurodė statyti
+
+    a i miesto gynybinę mūro sieną
+
+    ## Puslapis 79
+
+    Nuo 1466 m. ry
+    Vakarų Prūsija ir
+    Varmė buvo pri-
+    jungtos tiesiogiai
+    prie Lenkijos.
+
+    —
+    -
+    — Ū
+    pes
+
+    6 Palanga
+
+    Klaipe
+
+    KARALIAU C /
+
+    D.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

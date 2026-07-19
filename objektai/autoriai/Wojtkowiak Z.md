@@ -81,7 +81,8 @@ Dusburgietis teigia, kad wojtkowiak Z.
     Baltistica, 1980, 16(1), р. 19—24.
     Пашуто В. Т. Помезания: «Помезанская правда» как исторический источник
     изучения общественного и политического строя Помезании XIII—XIV вв.
-  citata_rodoma: "Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980."
+  citata_rodoma: |
+    Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

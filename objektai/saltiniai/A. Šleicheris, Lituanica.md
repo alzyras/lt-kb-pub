@@ -90,7 +90,10 @@ media_all_json: |-
     nekreipdami deramo dėmesio į liaudies poeziją bei pažiūras,
     jie prarasdavo vienintelį gyvąjį šaltinį ir svarbų rašytinių šalti­
     nių patikrinimo kriterijų.
-  citata_rodoma: "Ypač T. Nar­\nbuto kritika pasmarkėjo XIX a. pabaigoje, įsigalėjus pozity­\n30 Schleicher. Lituanica. -  Wien, 1853. -  S. 18."
+  citata_rodoma: |
+    Ypač T. Nar­
+    buto kritika pasmarkėjo XIX a. pabaigoje, įsigalėjus pozity­
+    30 Schleicher. Lituanica. -  Wien, 1853. -  S. 18.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

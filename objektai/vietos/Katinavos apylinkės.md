@@ -89,7 +89,10 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
     lokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai).
     Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
     tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П. И., Шмидт
-  citata_rodoma: "Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos\napylinkės, kur  Katinavos  kalva nadruvių buvo laikoma  šventa.  Čia,  piliakalnyje,\nlokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai)."
+  citata_rodoma: |
+    Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos
+    apylinkės, kur  Katinavos  kalva nadruvių buvo laikoma  šventa.  Čia,  piliakalnyje,
+    lokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

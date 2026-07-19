@@ -178,7 +178,20 @@ Nenurodyta
     minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
     keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
     vo gamybos blizgučius.
-  citata_rodoma: "Jei netu­\nrėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis\nnieko nežinotume apie šį miestą. Esama neabejotinų įro­\ndymų apie tolimais amžiais šiose vietose gyvenusių žmo­\nnių, visuomet garsėjusių prekyba, turtingumą; kasinėjant\nnetoli Elbliongo, aptikta labai dailių aukso, sidabro ir\nkitokių auksuotų metalų papuošalų, molio, vaško ir pana­\nšių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią\ndalį senovės paminklų, saugomų Karaliaučiaus Archyvo\nkabinete; kitur panašių beveik nepavykdavo rasti. Tai pa­\nminklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų\nkeliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­\nvo gamybos blizgučius."
+  citata_rodoma: |
+    Jei netu­
+    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
+    nieko nežinotume apie šį miestą. Esama neabejotinų įro­
+    dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
+    nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant
+    netoli Elbliongo, aptikta labai dailių aukso, sidabro ir
+    kitokių auksuotų metalų papuošalų, molio, vaško ir pana­
+    šių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią
+    dalį senovės paminklų, saugomų Karaliaučiaus Archyvo
+    kabinete; kitur panašių beveik nepavykdavo rasti. Tai pa­
+    minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
+    keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
+    vo gamybos blizgučius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

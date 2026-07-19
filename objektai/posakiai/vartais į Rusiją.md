@@ -104,7 +104,45 @@ CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KU
     XVII a. pradžioje, kai mirus abiems Iva-
     no IV (Rūsčiojo) palikuonims Fiodorui
     ir mažamečiui Dmitrijui, nutrūko Rusiją
-  citata_rodoma: "CHOTINO MŪŠIS 117\n\n## Puslapis 120\n\nE _-KURSO KUNIGAIKŠTYSTĖ S\nres Livontios KUNIGAIKŠTYSTĖ ||\nPES\nSen\n\nPRŪSIJOS\nKUNIGAIKSTYSTE-\n\n“yf\n\nLIETUVOS\n\n14 DIDŽIOJI\n“KUNIGAIKŠTYSTĖ\n>\n\nPA |\n7\n\na\n\nLENKUOS | 3\n| KARALYSTĖ | ) uae\n\nMūšio priešistorė\n1514 m. Rusijos užgrobtas strategiškai svar-\nbus tarp Dauguvos ir Dniepro upių išsidės-\ntęs Smolenskas visuomet buvo laikomas\nvartais į Rusiją, todėl ne kartą tapo kari-\nnės konfrontacijos tarp Lietuvos ir Rusijos\nobjektu.\n\nProga atsiimti Smolenską atsirado\nXVII a."
+  citata_rodoma: |
+    CHOTINO MŪŠIS 117
+
+    ## Puslapis 120
+
+    E _-KURSO KUNIGAIKŠTYSTĖ S
+    res Livontios KUNIGAIKŠTYSTĖ ||
+    PES
+    Sen
+
+    PRŪSIJOS
+    KUNIGAIKSTYSTE-
+
+    “yf
+
+    LIETUVOS
+
+    14 DIDŽIOJI
+    “KUNIGAIKŠTYSTĖ
+    >
+
+    PA |
+    7
+
+    a
+
+    LENKUOS | 3
+    | KARALYSTĖ | ) uae
+
+    Mūšio priešistorė
+    1514 m. Rusijos užgrobtas strategiškai svar-
+    bus tarp Dauguvos ir Dniepro upių išsidės-
+    tęs Smolenskas visuomet buvo laikomas
+    vartais į Rusiją, todėl ne kartą tapo kari-
+    nės konfrontacijos tarp Lietuvos ir Rusijos
+    objektu.
+
+    Proga atsiimti Smolenską atsirado
+    XVII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

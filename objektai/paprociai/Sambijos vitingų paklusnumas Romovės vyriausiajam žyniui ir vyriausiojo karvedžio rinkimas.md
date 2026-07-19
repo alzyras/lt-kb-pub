@@ -84,7 +84,10 @@ Nenurodyta
     Salavija
     Vienuolikta Prūsijos provincija buvo Salavija, Scha-
     laueri.
-  citata_rodoma: "Prireikus jie vadovavo ginkluotiems žmo­\nnėms, be to, iš jų buvo renkamas vyriausias karvedys,\nkuriuo pastaruoju laiku buvo vitingas Glaudė."
+  citata_rodoma: |
+    Prireikus jie vadovavo ginkluotiems žmo­
+    nėms, be to, iš jų buvo renkamas vyriausias karvedys,
+    kuriuo pastaruoju laiku buvo vitingas Glaudė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -99,7 +99,14 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
     tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
     negali tavęs išganyti, tad išpažink žydų tikėjimą“.
-  citata_rodoma: "Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,\ndavė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus\npiktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.\nVieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius\nbegardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo\ntiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas\nnegali tavęs išganyti, tad išpažink žydų tikėjimą“."
+  citata_rodoma: |
+    Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
+    davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
+    piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
+    Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
+    begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
+    tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
+    negali tavęs išganyti, tad išpažink žydų tikėjimą“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

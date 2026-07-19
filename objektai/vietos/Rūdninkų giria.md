@@ -179,7 +179,22 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
     siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
     turtą.
-  citata_rodoma: "ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­\nj e 3  pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko \niš Trakų pilies, skubėdamas į Mazoviją,4  pas savo te­\ntą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­\nvo tikra jo tėvo sesuo5 , kunigaikštienės Boleslovienės \npamotė6 . Važiuodamas per Rūdininkų girią7 , jis toje \ngirioje susidūrė su didžiuoju kunigaikščiu Kazimieru \nir žemai nusilenkė didžiajam kunigaikščiui Kazimierui, \nir ėmė prašyti malonės; kunigaikštis Kazimieras paža­\ndėjo suteiksiąs jam savo malonę ir paliksiąs jam jo \ntėvoniją 7 .\nO paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės."
+  citata_rodoma: |
+    ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
+    j e 3  pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
+    iš Trakų pilies, skubėdamas į Mazoviją,4  pas savo te­
+    tą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­
+    vo tikra jo tėvo sesuo5 , kunigaikštienės Boleslovienės
+    pamotė6 . Važiuodamas per Rūdininkų girią7 , jis toje
+    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
+    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
+    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
+    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
+    tėvoniją 7 .
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -201,7 +216,15 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     pat Rūdninkų, ir dabar tebevadinama Królewski ogród, lietu­
     viškai - Karaliaus daržas, kur būta daug briedžių, stirnų ir
     meškų, šiandien pastarųjų išlikę vos keletas.
-  citata_rodoma: "Jame veisėsi daug \nbriedžių ir stirnų. Nors Mendzižečės girios daugiau negu 3 \n000 valakų plotas, kuriam priklauso ir Rūdninkų medžionė, \nbuvo nežmoniškai nuniokotas, išliko šiame žvėryne iki šiol \nyra likę puikaus miško pėdsakų. Viena iš girių, esanti prie \npat Rūdninkų, ir dabar tebevadinama Królewski ogród, lietu­\nviškai - Karaliaus daržas, kur būta daug briedžių, stirnų ir \nmeškų, šiandien pastarųjų išlikę vos keletas."
+  citata_rodoma: |
+    Jame veisėsi daug
+    briedžių ir stirnų. Nors Mendzižečės girios daugiau negu 3
+    000 valakų plotas, kuriam priklauso ir Rūdninkų medžionė,
+    buvo nežmoniškai nuniokotas, išliko šiame žvėryne iki šiol
+    yra likę puikaus miško pėdsakų. Viena iš girių, esanti prie
+    pat Rūdninkų, ir dabar tebevadinama Królewski ogród, lietu­
+    viškai - Karaliaus daržas, kur būta daug briedžių, stirnų ir
+    meškų, šiandien pastarųjų išlikę vos keletas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -219,7 +242,12 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     dos klodų, slypinčių po pelkėmis ir girių tankmėmis. Bažny­
     čia Rūdninkuose galėjusi būti nuo seno, bet klebonijos fun­
     dacija datuojama nuo Zigmanto III.
-  citata_rodoma: "O Rūdninkų miškuose nieko panašaus ir neįmanoma \nbūtų surasti. Jų pavadinimas kilęs nuo nemažų geležies rū­\ndos klodų, slypinčių po pelkėmis ir girių tankmėmis. Bažny­\nčia Rūdninkuose galėjusi būti nuo seno, bet klebonijos fun­\ndacija datuojama nuo Zigmanto III."
+  citata_rodoma: |
+    O Rūdninkų miškuose nieko panašaus ir neįmanoma
+    būtų surasti. Jų pavadinimas kilęs nuo nemažų geležies rū­
+    dos klodų, slypinčių po pelkėmis ir girių tankmėmis. Bažny­
+    čia Rūdninkuose galėjusi būti nuo seno, bet klebonijos fun­
+    dacija datuojama nuo Zigmanto III.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -243,7 +271,18 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     nenuginčijami žmonių gyvenimo nuo tolimiausių amžių pėd­
     sakai. O Rūdninkų miškuose nieko panašaus ir neįmanoma
     būtų surasti.
-  citata_rodoma: "Pati vietovė, su­\npama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­\ngaus ranka jos niekada nelietė iki pat mūsų laikų, kai, suma­\nžėjus miškų, mediena tapo pagrindinis vidaus ir užsienio \nprekybos objektas. Seniau Rūdninkų girios išties buvo ne­\nperžengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­\nse, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­\nse, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai - \nnenuginčijami žmonių gyvenimo nuo tolimiausių amžių pėd­\nsakai. O Rūdninkų miškuose nieko panašaus ir neįmanoma \nbūtų surasti."
+  citata_rodoma: |
+    Pati vietovė, su­
+    pama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­
+    gaus ranka jos niekada nelietė iki pat mūsų laikų, kai, suma­
+    žėjus miškų, mediena tapo pagrindinis vidaus ir užsienio
+    prekybos objektas. Seniau Rūdninkų girios išties buvo ne­
+    peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­
+    se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­
+    se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai -
+    nenuginčijami žmonių gyvenimo nuo tolimiausių amžių pėd­
+    sakai. O Rūdninkų miškuose nieko panašaus ir neįmanoma
+    būtų surasti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

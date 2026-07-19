@@ -73,7 +73,10 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
     kaitė, I. : _Dėl mirusiųjų deginimo papročio,_ ILKI, t. 3, 1961, 125-131 p.
     — Saulė (jos kultas), MLTE, III, 164-165 p. — Schmidt, W. : Ursprung
     und Werden der Religion, 1930.
-  citata_rodoma: "— Pisani, V.: _II paganesimo balto-slavo,_ Storia delle\nreligioni, red. G. Castellani, vol. II, Torino 1965, 807-857 p. — Sadaus­\nkaitė, I."
+  citata_rodoma: |
+    — Pisani, V.: _II paganesimo balto-slavo,_ Storia delle
+    religioni, red. G. Castellani, vol. II, Torino 1965, 807-857 p. — Sadaus­
+    kaitė, I.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

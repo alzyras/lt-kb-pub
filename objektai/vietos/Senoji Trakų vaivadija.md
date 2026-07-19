@@ -82,7 +82,14 @@ Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų
     Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
     radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
     šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-  citata_rodoma: "127\n\n## Puslapis 127\n\nLietuva į.Liethua)\nLaisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­\nviai, ypač senojoje Trakų vaivadijoje, latviai ir estai."
+  citata_rodoma: |
+    127
+
+    ## Puslapis 127
+
+    Lietuva į.Liethua)
+    Laisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­
+    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

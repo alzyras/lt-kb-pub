@@ -97,7 +97,8 @@ Nenurodyta
     sako jį galėdavus perlaužti pasagą ir pertraukti storoką kanapinę
     virvę. Jo sveikata pairo tik į gyvenimo pabaigą. Jaunystę praleido
     Zigmanto II antkapis Krokuvos katedroje.
-  citata_rodoma: "Zigmanto II antkapis Krokuvos katedroje."
+  citata_rodoma: |
+    Zigmanto II antkapis Krokuvos katedroje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

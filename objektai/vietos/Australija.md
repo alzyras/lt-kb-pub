@@ -93,7 +93,11 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
     tugaliją išvyko į JAV.
-  citata_rodoma: "Per trejus–ketverius metus į JAV pasisekė atvykti \nvisiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie \n30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją. \n1940 m."
+  citata_rodoma: |
+    Per trejus–ketverius metus į JAV pasisekė atvykti
+    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
+    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
+    1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -85,7 +85,13 @@ Nenurodyta
     Dar nuo savo dešimtmečių veiklos Palestinoje kryžiuočių or­
     dinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga
     Romos kurijos globa.
-  citata_rodoma: "Jiems Fridrichas II vadinamoje\n_auksinėje bulėje_ , duotoje Veronoje 1245 m., amžinai padovanojo\nKuršą, Lietuvą ir Žiemgalius.\nDar nuo savo dešimtmečių veiklos Palestinoje kryžiuočių or­\ndinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga\nRomos kurijos globa."
+  citata_rodoma: |
+    Jiems Fridrichas II vadinamoje
+    _auksinėje bulėje_ , duotoje Veronoje 1245 m., amžinai padovanojo
+    Kuršą, Lietuvą ir Žiemgalius.
+    Dar nuo savo dešimtmečių veiklos Palestinoje kryžiuočių or­
+    dinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga
+    Romos kurijos globa.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

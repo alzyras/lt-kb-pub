@@ -135,7 +135,18 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
     veržė į Livoniją, bet ten nieko reikšmingesnio nenu­
     veikė, nes buvo priverstas greitai atitraukti kariuome­
     nę į Lietuvą.
-  citata_rodoma: "Šitaip atstumti, kryžiuo­\nčiai leidosi į Junigedą; kadangi vienu metu laivai bu­\nvo užplaukę ant seklumų, lietuviai juos apspito ir, vie­\nni laivais atplaukę, kiti atabradais nubridę, užpuolė\nkautynių nelaukiantį priešą; jie paėmė laivus, kovoje\nkrito narsiausi vyrai, kiti vargais negalais paspruko,\nžuvo visi vadai, išskyrus vieną. Geriau sekėsi Liudvi­\nkui Libencelei: jis užėmė Lietuvoje Kimelio pilį, kuri\nbuvo daug kartų stipriomis jėgomis, bet nesėkmingai\npuldinėta, ir sumušė gardiniečius, drįsusius stoti su juo\nį kovą. Tačiau ir šią pergalę aptemdė skausmas."
+  citata_rodoma: |
+    Šitaip atstumti, kryžiuo­
+    čiai leidosi į Junigedą; kadangi vienu metu laivai bu­
+    vo užplaukę ant seklumų, lietuviai juos apspito ir, vie­
+    ni laivais atplaukę, kiti atabradais nubridę, užpuolė
+    kautynių nelaukiantį priešą; jie paėmė laivus, kovoje
+    krito narsiausi vyrai, kiti vargais negalais paspruko,
+    žuvo visi vadai, išskyrus vieną. Geriau sekėsi Liudvi­
+    kui Libencelei: jis užėmė Lietuvoje Kimelio pilį, kuri
+    buvo daug kartų stipriomis jėgomis, bet nesėkmingai
+    puldinėta, ir sumušė gardiniečius, drįsusius stoti su juo
+    į kovą. Tačiau ir šią pergalę aptemdė skausmas.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

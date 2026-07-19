@@ -74,7 +74,8 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
     paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
     legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
     dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: "legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo"
+  citata_rodoma: |
+    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

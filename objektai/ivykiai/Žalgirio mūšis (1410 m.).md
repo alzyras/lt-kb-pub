@@ -219,7 +219,15 @@ Nenurodyta
     1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40
     vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-
     šais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
-  citata_rodoma: "Apskritai Vytauto planas buvo įžūlus \nir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo \npuolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-\ngiuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-\nsomis Ordino pajėgomis. \n1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 \nvėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-\nšais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo."
+  citata_rodoma: |
+    Apskritai Vytauto planas buvo įžūlus
+    ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
+    puolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
+    giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
+    somis Ordino pajėgomis.
+    1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40
+    vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-
+    šais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -239,7 +247,14 @@ Nenurodyta
     riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
     lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
     teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
-  citata_rodoma: "Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors \nreikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai, \nbūtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė \negzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-\nriją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-\nlijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino \nteritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja."
+  citata_rodoma: |
+    Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
+    reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,
+    būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė
+    egzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-
+    riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
+    lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
+    teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -259,7 +274,13 @@ Nenurodyta
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
     buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
     jūros.
-  citata_rodoma: "Žalgirio mūšis\nNors popiežius uždraudė Vokiečių ordinui kariauti su ap-\nsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo \ngalinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis \nbuvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie \njūros."
+  citata_rodoma: |
+    Žalgirio mūšis
+    Nors popiežius uždraudė Vokiečių ordinui kariauti su ap-
+    sikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo
+    galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
+    buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
+    jūros.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -274,7 +295,7 @@ Nenurodyta
   citata_originali: |
     1392–1430
     žymiausio Lietuvos valdovo Vytauto valdymo metai.
-    1410 
+    1410
     Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
     sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
     tencijai.

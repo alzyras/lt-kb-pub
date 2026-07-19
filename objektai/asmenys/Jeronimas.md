@@ -122,7 +122,10 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
     neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
     atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
     kuri juos saugotų, būdama tarp jų ir prūsų.
-  citata_rodoma: "Jeronimas priduria: „Negi gali būti kas vainikuotas\nšventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios\nneteisybės, nei kantrios teisybės."
+  citata_rodoma: |
+    Jeronimas priduria: „Negi gali būti kas vainikuotas
+    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
+    neteisybės, nei kantrios teisybės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

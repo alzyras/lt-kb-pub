@@ -175,7 +175,13 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
     Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
     cijos pirkliai.
-  citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai."
+  citata_rodoma: |
+    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
+    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
+    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
+    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
+    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
+    cijos pirkliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -241,7 +247,13 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
     apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
     arčiau didž. Lietuvos kunigaikščio būstinės.
-  citata_rodoma: "kunigaikščiui priklau­\nsančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų\ngausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­\nmaičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau\napgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat\narčiau didž. Lietuvos kunigaikščio būstinės."
+  citata_rodoma: |
+    kunigaikščiui priklau­
+    sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų
+    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
+    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
+    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
+    arčiau didž. Lietuvos kunigaikščio būstinės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

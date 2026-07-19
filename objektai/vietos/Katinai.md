@@ -91,7 +91,13 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
     Viduriniajai vorai po atkaklių kautynių
     pavyko užimti Užkalnius, Ėriškėlius ir
     Barklainius.
-  citata_rodoma: "Dešinioji kolona ener-\ngingu puolimu užėmė plane numatytus\nJotvainių, Griniūnų ir Katinų kaimus.\nViduriniajai vorai po atkaklių kautynių\npavyko užimti Užkalnius, Ėriškėlius ir\nBarklainius."
+  citata_rodoma: |
+    Dešinioji kolona ener-
+    gingu puolimu užėmė plane numatytus
+    Jotvainių, Griniūnų ir Katinų kaimus.
+    Viduriniajai vorai po atkaklių kautynių
+    pavyko užimti Užkalnius, Ėriškėlius ir
+    Barklainius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +113,9 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
     Juos Užkalnių kaimą ir pietinius Barklainius. pulti ir užimti Ėriškių ir Rajūnų kaimus.
     BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.
     kaimo link ir jį užimti. 1919 m.
-  citata_rodoma: "BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.\nkaimo link ir jį užimti. 1919 m."
+  citata_rodoma: |
+    BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.
+    kaimo link ir jį užimti. 1919 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

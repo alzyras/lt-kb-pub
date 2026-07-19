@@ -109,7 +109,8 @@ Nenurodyta
     102
 
     geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų.
-  citata_rodoma: "Atvažiavęs dėdė neša geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų."
+  citata_rodoma: |
+    Atvažiavęs dėdė neša geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -128,7 +129,8 @@ Nenurodyta
     Šeimininkai nulikdami sto­
     jo čia prie vieno, čia prie kito būrelio.
     Giminės prašyti antradieniui.
-  citata_rodoma: "Giminės prašyti antradieniui."
+  citata_rodoma: |
+    Giminės prašyti antradieniui.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -151,7 +153,8 @@ Nenurodyta
     ir sotūs,
     paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina ker­
     tėje, vyras pats sau randa vietą prie vyrų.
-  citata_rodoma: "Atvažiavusius gimines valgydina seklyčioje, atskirai, dėl tikrump, kad būtų pavalgę ir sotūs, paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina kertėje, vyras pats sau randa vietą prie vyrų."
+  citata_rodoma: |
+    Atvažiavusius gimines valgydina seklyčioje, atskirai, dėl tikrump, kad būtų pavalgę ir sotūs, paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina kertėje, vyras pats sau randa vietą prie vyrų.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

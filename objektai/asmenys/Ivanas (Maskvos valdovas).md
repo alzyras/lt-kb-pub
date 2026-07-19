@@ -214,7 +214,28 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
     Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
     su visais palydovais.
-  citata_rodoma: "Karalius \ntaip paskirstė senatorių \npareigas, kad vieni turėjo\npasiuntinius sutikti, priimti ir \nT a ria m a si d ė l ta ik o s, \ndosniai pavaišinti, o kiti —\nb e t su sip y k sta m o \nkalbėtis su jais apie valstybės\nreikalus. Sutiko ir priėmė \nmaskvėnus pataurininkis Mikalojus Kiška, stalininkas \nMikalojus Dorogostaiskis, maršalai Jonas Valavičius ir \nJonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To- \nčinskis ir Mikalojus Konča, o vedė derybas tokie orūs \nvyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų \nkaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis \nTiškevičius, maršalai Eustachijus Valavičius ir Jonas \nSimkovičius, iždininkas Mikalojus Naruševičius, Lietu­\nvos raštininkas Mykolas Garaburda. Kai prieita prie \npagrindinio derybų klausimo, maskvėnai atkakliausiai \npareikalavo amžinam Maskvos valdymui perduoti tai, \nką didysis kunigaikštis esąs užėmęs."
+  citata_rodoma: |
+    Karalius
+    taip paskirstė senatorių
+    pareigas, kad vieni turėjo
+    pasiuntinius sutikti, priimti ir
+    T a ria m a si d ė l ta ik o s,
+    dosniai pavaišinti, o kiti —
+    b e t su sip y k sta m o
+    kalbėtis su jais apie valstybės
+    reikalus. Sutiko ir priėmė
+    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
+    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
+    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
+    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
+    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
+    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
+    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
+    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
+    vos raštininkas Mykolas Garaburda. Kai prieita prie
+    pagrindinio derybų klausimo, maskvėnai atkakliausiai
+    pareikalavo amžinam Maskvos valdymui perduoti tai,
+    ką didysis kunigaikštis esąs užėmęs.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -247,7 +268,23 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     rau k ė į žygį S tanislovas Pacas, lauko etm onas; su len ­
     gvaisiais V itebsko žem ės raiteliais jis n u siau b ė ap lin ­
     kinius m ask v ėn ų kaim us.
-  citata_rodoma: "Sutiko ir priėmė\nmaskvėnus pataurininkis Mikalojus Kiška, stalininkas\nMikalojus Dorogostaiskis, maršalai Jonas Valavičius ir\nJonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-\nčinskis ir Mikalojus Konča, o vedė derybas tokie orūs\nvyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų\nkaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis\nTiškevičius, maršalai Eustachijus Valavičius ir Jonas\nSimkovičius, iždininkas Mikalojus Naruševičius, Lietu­\nvos raštininkas Mykolas Garaburda. Kai prieita prie\npagrindinio derybų klausimo, maskvėnai atkakliausiai\npareikalavo amžinam Maskvos valdymui perduoti tai,\nką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­\nsiškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,\nJezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį\nsu visais palydovais."
+  citata_rodoma: |
+    Sutiko ir priėmė
+    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
+    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
+    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
+    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
+    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
+    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
+    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
+    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
+    vos raštininkas Mykolas Garaburda. Kai prieita prie
+    pagrindinio derybų klausimo, maskvėnai atkakliausiai
+    pareikalavo amžinam Maskvos valdymui perduoti tai,
+    ką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­
+    siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
+    Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
+    su visais palydovais.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

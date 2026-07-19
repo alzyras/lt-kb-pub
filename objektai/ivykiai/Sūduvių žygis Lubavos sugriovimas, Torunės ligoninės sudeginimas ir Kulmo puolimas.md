@@ -79,7 +79,7 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas\" parinktas kaip owner_note_path. Targetas \"Sūduviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-167352
+    - c-60061
 
 <a id="claim-t-196973"></a>
 - t-003
@@ -118,6 +118,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59429
+    - t-59430
 - id: c-167352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -138,5 +139,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59430
     - t-196973

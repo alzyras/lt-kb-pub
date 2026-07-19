@@ -72,7 +72,8 @@ Voldemaro, o vėliau uždarė ir pusiau slaptą, ginkluotą radikaliausių tauti
     versmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą,
     ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
     laikė A. Voldemarą savo vadu.
-  citata_rodoma: "ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri"
+  citata_rodoma: |
+    ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

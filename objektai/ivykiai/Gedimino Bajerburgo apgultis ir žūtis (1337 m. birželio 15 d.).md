@@ -106,7 +106,25 @@ Nenurodyta
     bet ten dar prieš aštuonerius metus
     Bremeno pirkliai jau buvo pastaty­
     dinę keletą namų.
-  citata_rodoma: "O vis dėlto Vilniuje, galingos valstybės sostinėje, \nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su \nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200 \nmetais, ant kalno, vadinto Righe, \nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti \nkrikščioniškąjį tikėjimą Livonijoje, \nbet ten dar prieš aštuonerius metus \nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
+  citata_rodoma: |
+    O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
+    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
+    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
+    giję feodalinio valdymo principai.
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

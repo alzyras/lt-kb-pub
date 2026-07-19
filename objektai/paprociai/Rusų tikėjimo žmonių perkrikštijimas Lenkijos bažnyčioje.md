@@ -105,7 +105,14 @@ Nenurodyta
     galėjo rastis sektantiškos pažiūros.
     Kai dėl pakartotinio krikštijimo, tai privalome padaryti dar
     kai kurias pataisas.
-  citata_rodoma: "Nors paprotys senovinis, virtęs teise, bet pik­\ntnaudžiauti juo nepateisinama. Todėl blogai daro kunigai, ku­\nrie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichė-\njų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var­\ndan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra­\nmentą draudžiama. Pakanka pasiekti, kad išsižadėtų klaidų ir\npaklustų Romos bažnyčiai."
+  citata_rodoma: |
+    Nors paprotys senovinis, virtęs teise, bet pik­
+    tnaudžiauti juo nepateisinama. Todėl blogai daro kunigai, ku­
+    rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichė-
+    jų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var­
+    dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra­
+    mentą draudžiama. Pakanka pasiekti, kad išsižadėtų klaidų ir
+    paklustų Romos bažnyčiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

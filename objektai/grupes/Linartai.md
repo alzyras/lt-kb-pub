@@ -104,7 +104,8 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
     Bet yra ir tebegyvenančių ir juokų per degtinę padariusių.
     Štai Linartai du broliu, abu mėgdavo išgerti,
     o su skatikais trumpa.
-  citata_rodoma: "Štai Linartai du broliu, abu mėgdavo išgerti, o su skatikais trumpa."
+  citata_rodoma: |
+    Štai Linartai du broliu, abu mėgdavo išgerti, o su skatikais trumpa.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
@@ -124,7 +125,8 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
     degtinė čia gyveno, matai, ko čia nebuvo:
     čia mušėsi, čia taikėsi, o
     taiką užgerdavo degtine, ir vėl mušėsi.
-  citata_rodoma: "Juk Ažytėnai — menka vietelė, bet kai degtinė čia gyveno, matai, ko čia nebuvo: čia mušėsi, čia taikėsi, o taiką užgerdavo degtine, ir vėl mušėsi."
+  citata_rodoma: |
+    Juk Ažytėnai — menka vietelė, bet kai degtinė čia gyveno, matai, ko čia nebuvo: čia mušėsi, čia taikėsi, o taiką užgerdavo degtine, ir vėl mušėsi.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
@@ -143,7 +145,8 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
     Kaip dabar Plačiukui neužgerti Linarto, kad jis, Linartas, toks geras,
     atgynė nuo ano durniaus. Ot, ir pritapo Linartas prie geriančios drau­
     gijos.
-  citata_rodoma: "Dabar Antanas atsisėdo šalia geriančio Plačiuko, pykdamas: „Mat, snarglys, jis čia atmins pernykščius ar užpernykščius daiktus.“ Kaip dabar Plačiukui neužgerti Linarto, kad jis, Linartas, toks geras, atgynė nuo ano durniaus. Ot, ir pritapo Linartas prie geriančios draugijos."
+  citata_rodoma: |
+    Dabar Antanas atsisėdo šalia geriančio Plačiuko, pykdamas: „Mat, snarglys, jis čia atmins pernykščius ar užpernykščius daiktus.“ Kaip dabar Plačiukui neužgerti Linarto, kad jis, Linartas, toks geras, atgynė nuo ano durniaus. Ot, ir pritapo Linartas prie geriančios draugijos.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas

@@ -258,7 +258,20 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
     seną, teisėtai jam priklausančią valdą. Jogaila visaip
     stengėsi susitarti su Vytautu, kad šis nesipriešintų len­
     kų įsitvirtinimui šiose žemėse.
-  citata_rodoma: "Veikiau norėdamas len­\nkus labiau palenkti į karalių, Vytautas galop sutiko nu­\nsileisti, bet pareikalavo kaip atlyginimo keturiasdešimt\ntūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-\n346\n\n## Puslapis 345\n\ngi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,\nSpitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­\ngų, atidavė karalystei ir karaliui Kamenecą, Smotričių,\nSkalą, Červonogradą. Vėliau šių valdų vietininku kara­\nlius laikinai buvo paskyręs Spiteką."
+  citata_rodoma: |
+    Veikiau norėdamas len­
+    kus labiau palenkti į karalių, Vytautas galop sutiko nu­
+    sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt
+    tūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-
+    346
+
+    ## Puslapis 345
+
+    gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
+    Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
+    gų, atidavė karalystei ir karaliui Kamenecą, Smotričių,
+    Skalą, Červonogradą. Vėliau šių valdų vietininku kara­
+    lius laikinai buvo paskyręs Spiteką.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

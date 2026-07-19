@@ -72,7 +72,15 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
     Amino laišką, kuriame jis Lietuvai siūlė są-
 
     jungą prieš Maskvą.
-  citata_rodoma: "Mengli-Girėjus, gavęs žinią apie toto-\nriams fatališkai pasibaigusį mūšį, tuojau pat\nišsiuntė savo pasiuntinį į Vilnių, kuris turėjo\npranešti, kad chanas labai noriai laikysis ge-\ngužės mėnesį suderėtos taikos. Pasiuntinys\ntaip pat gabeno Kazanės chano Mahometo-\nAmino laišką, kuriame jis Lietuvai siūlė są-\njungą prieš Maskvą."
+  citata_rodoma: |
+    Mengli-Girėjus, gavęs žinią apie toto-
+    riams fatališkai pasibaigusį mūšį, tuojau pat
+    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
+    pranešti, kad chanas labai noriai laikysis ge-
+    gužės mėnesį suderėtos taikos. Pasiuntinys
+    taip pat gabeno Kazanės chano Mahometo-
+    Amino laišką, kuriame jis Lietuvai siūlė są-
+    jungą prieš Maskvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

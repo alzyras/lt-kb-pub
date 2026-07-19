@@ -71,7 +71,9 @@ Gimbutienė (Gimbutas), Marija : Lietuvos proistorė, LE, t.
     w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.,
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961.
-  citata_rodoma: "— Gimbutienė (Gimbutas), Marija : _Lietuvos proistorė,_ LE, t. 15,\n269-291 p. — (”) GiB ; šios knygos ital. vertimas : _I Baltici,_ Milano 1967."
+  citata_rodoma: |
+    — Gimbutienė (Gimbutas), Marija : _Lietuvos proistorė,_ LE, t. 15,
+    269-291 p. — (”) GiB ; šios knygos ital. vertimas : _I Baltici,_ Milano 1967.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -122,7 +122,10 @@ Nenurodyta
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: "R edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS"
+  citata_rodoma: |
+    R edaktorių kolegija:
+    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
+    A. TYLA] N. VĖLIUS,! V. VISOCKAS
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

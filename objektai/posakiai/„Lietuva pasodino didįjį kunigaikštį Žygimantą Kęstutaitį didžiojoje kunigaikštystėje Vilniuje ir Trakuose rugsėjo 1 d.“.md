@@ -75,7 +75,15 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 
     Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m. Kazimierui.
     S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
-  citata_rodoma: "Lietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
+  citata_rodoma: |
+    Lietuvos metraščio liudijimu, „Lietuva
+    pasodino didįjį kunigaikštį Žygimantą
+    Kęstutaitį didžiojoje kunigaikštystėje
+    Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
+
+    ## Puslapis 69
+
+    Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

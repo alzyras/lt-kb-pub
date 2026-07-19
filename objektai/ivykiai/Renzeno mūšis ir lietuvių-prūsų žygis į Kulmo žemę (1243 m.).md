@@ -203,7 +203,12 @@ Nenurodyta
     pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
     klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
     pagrindą147.
-  citata_rodoma: "Šia proga jis kalba apie didžiulę prūsų  ir\nsūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas\n— nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti\nprūsų kovą nuo Lietuvos, jos karinių pastangų.\n  Dusburgiečio kronikoje nepaisoma ir kitų faktų145."
+  citata_rodoma: |
+    Šia proga jis kalba apie didžiulę prūsų  ir
+    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
+    prūsų kovą nuo Lietuvos, jos karinių pastangų.
+      Dusburgiečio kronikoje nepaisoma ir kitų faktų145.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -263,7 +268,13 @@ Nenurodyta
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: "Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus\ntada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir\nsutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui\n(1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28."
+  citata_rodoma: |
+    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
+    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
+    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

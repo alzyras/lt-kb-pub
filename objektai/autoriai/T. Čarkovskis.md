@@ -77,7 +77,10 @@ media_all_json: |-
     mės druska. Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė
     dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
     lenkų ir lietuvių santykius pablogino.
-  citata_rodoma: "Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė\ndr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri\nlenkų ir lietuvių santykius pablogino."
+  citata_rodoma: |
+    Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė
+    dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
+    lenkų ir lietuvių santykius pablogino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

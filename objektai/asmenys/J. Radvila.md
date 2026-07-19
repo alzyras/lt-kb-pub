@@ -76,7 +76,12 @@ Radvilos pajėgos.
     vės, kol netoliese buvo J. Radvilos pajėgos.
     Esant tokiai padėčiai atėjo 1654 m. rug-
     pjūčio 12 diena.
-  citata_rodoma: "Caro kariuomenė prie\nSmolensko taip pat nesiryžo imtis ryz-\ntingesnių veiksmų ir šturmuoti tvirto-\nvės, kol netoliese buvo J. Radvilos pajėgos.\nEsant tokiai padėčiai atėjo 1654 m."
+  citata_rodoma: |
+    Caro kariuomenė prie
+    Smolensko taip pat nesiryžo imtis ryz-
+    tingesnių veiksmų ir šturmuoti tvirto-
+    vės, kol netoliese buvo J. Radvilos pajėgos.
+    Esant tokiai padėčiai atėjo 1654 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -290,7 +290,9 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
     kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
     m.), kurios žemaičiai taip pat neįstengė išgriauti.
-  citata_rodoma: "Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259\nm.), kurios žemaičiai taip pat neįstengė išgriauti."
+  citata_rodoma: |
+    Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
+    m.), kurios žemaičiai taip pat neįstengė išgriauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -309,7 +311,11 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     pilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-
     riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
     čiams (1328 m.).
-  citata_rodoma: "Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos\npilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-\nriauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-\nčiams (1328 m."
+  citata_rodoma: |
+    Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos
+    pilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-
+    riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
+    čiams (1328 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -362,7 +368,29 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     riuomenę, laukė pagrindinių dalinių, kurie su naugar-
     dukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo
     už dienos ar kitos pasirodyti.
-  citata_rodoma: "Vis dėlto, kai, pilyje užkūrus laužą ir šitaip\n7*\n195\n\n## Puslapis 194\n\npadavus pavojaus ženklą, kaimynai įspėti šoko gink­\nluotis, magistras turėjo palikti pilį ramybėje. Nebetoli\nsu kariuomene buvo ir Gediminas, įrengęs stovyklą\ntarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­\nšo padegti kaimai, kylantys\nG ed im in a s\nsu m u ša\ndūmai žadino skausmą, o\nk ry ž iu o č iu s  ir a tim a\nskausmas — drąsą, tačiau ap-\niš jų  Ž e m a itiją\ndairiam\nkunigaikščiui\ntuo\ntarpu daugiau rūpėjo, kieno\npusėje jėgų persvara."
+  citata_rodoma: |
+    Vis dėlto, kai, pilyje užkūrus laužą ir šitaip
+    7*
+    195
+
+    ## Puslapis 194
+
+    padavus pavojaus ženklą, kaimynai įspėti šoko gink­
+    luotis, magistras turėjo palikti pilį ramybėje. Nebetoli
+    su kariuomene buvo ir Gediminas, įrengęs stovyklą
+    tarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­
+    šo padegti kaimai, kylantys
+    G ed im in a s
+    su m u ša
+    dūmai žadino skausmą, o
+    k ry ž iu o č iu s  ir a tim a
+    skausmas — drąsą, tačiau ap-
+    iš jų  Ž e m a itiją
+    dairiam
+    kunigaikščiui
+    tuo
+    tarpu daugiau rūpėjo, kieno
+    pusėje jėgų persvara.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -382,7 +410,15 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
     kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
-  citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso."
+  citata_rodoma: |
+    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
+    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
+    125
+
+    ## Puslapis 125
+
+    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
+    nedailaus, bet labai patvaraus gipso.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

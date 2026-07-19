@@ -166,7 +166,11 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
     seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
     tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
     davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: "Ir Lietuvoje prieš kiekvieną bendrąjį\nseimą taip pat buvo pradėti daryti tokie pat į seimą vyks-\ntančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-\ndavo Volkoviske, o vėliau Slanime."
+  citata_rodoma: |
+    Ir Lietuvoje prieš kiekvieną bendrąjį
+    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
+    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
+    davo Volkoviske, o vėliau Slanime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -187,7 +191,10 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
     piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
+  citata_rodoma: |
+    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +218,16 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
     Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
     tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
-  citata_rodoma: "Sme-\ntona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta \nuž etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: \nKauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko \napskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), \nbe to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti \nir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais). \nApskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-\ntuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti."
+  citata_rodoma: |
+    Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
+    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

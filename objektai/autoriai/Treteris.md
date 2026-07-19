@@ -157,7 +157,15 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
     reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
     apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
     mą amalo žaluma nuspalvintų jo vainiką.
-  citata_rodoma: "Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­\nbių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­\nvėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­\ndėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo\nJono I prašomas, įsakė jį nukirsti."
+  citata_rodoma: |
+    Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
+    bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
+    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
+    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
+    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
+    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
+    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
+    Jono I prašomas, įsakė jį nukirsti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -180,7 +188,14 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
     aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
     rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
     buvo Adytum.
-  citata_rodoma: "Žymiausia šventykla buvo Romovėje, ku­\nrios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos\nvyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur\nreiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­\nsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-\nleidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­\ntas ne visai tiksliai."
+  citata_rodoma: |
+    Žymiausia šventykla buvo Romovėje, ku­
+    rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
+    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
+    reiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­
+    sijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-
+    leidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­
+    tas ne visai tiksliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -199,7 +214,11 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
     nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
     si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
     meldžių papratimu slapčia ateidavo prie jos m elstis18.
-  citata_rodoma: "Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už\nBaublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­\n12 Treteris*, Henenbergeris, Šiucas, Hartknochas.\n13 Opisanie starožytnej Polski."
+  citata_rodoma: |
+    Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
+    Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
+    12 Treteris*, Henenbergeris, Šiucas, Hartknochas.
+    13 Opisanie starožytnej Polski.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

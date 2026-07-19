@@ -79,7 +79,14 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
     Lasickis jos išsamiau neaiškino.
     Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­
     šiai - Uhsinsz arba Szwets uhsinsz21.
-  citata_rodoma: "Mėšlų boba (Mahslu Baba)\nDeivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­\nmininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­\nlių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti\nmaža senutė.\nAtrodo, ją žinojo tik latviai, kadangi kur nors kitur nieko\npanašaus nematome."
+  citata_rodoma: |
+    Mėšlų boba (Mahslu Baba)
+    Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­
+    mininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­
+    lių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti
+    maža senutė.
+    Atrodo, ją žinojo tik latviai, kadangi kur nors kitur nieko
+    panašaus nematome.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

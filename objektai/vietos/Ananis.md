@@ -52,13 +52,19 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššva
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
+    Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
 
       Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas
     popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas. Tačiau ilgainiui šio miesto
     gyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus
     jis ir numirė (Mart. p. 438; Ptol. p. 1223).
-  citata_rodoma: "Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą\n\n  Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas\npopiežius Bonifacas, o visas bažnyčios turtas išnešiojamas. Tačiau ilgainiui šio miesto\ngyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus\njis ir numirė (Mart. p. 438; Ptol. p. 1223)."
+  citata_rodoma: |
+    Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
+
+      Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas
+    popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas. Tačiau ilgainiui šio miesto
+    gyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus
+    jis ir numirė (Mart. p. 438; Ptol. p. 1223).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -79,7 +79,9 @@ Dusburgietis teigia, kad lietuvos archeologijos bruožai / P.
     1939.
     Lietuvos archeologijos bruožai / P. Kulikauskas, R. Kulikauskienė, A. Tautavičius.—V.,
     1961.
-  citata_rodoma: "Lietuvos archeologijos bruožai / P. Kulikauskas, R. Kulikauskienė, A. Tautavičius.—V.,\n1961."
+  citata_rodoma: |
+    Lietuvos archeologijos bruožai / P. Kulikauskas, R. Kulikauskienė, A. Tautavičius.—V.,
+    1961.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

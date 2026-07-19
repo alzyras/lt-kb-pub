@@ -149,7 +149,12 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais
     buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,
     o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
-  citata_rodoma: "1344 m. čia minima  pilis — huse Sareibe\n(Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra\napskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,\nryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,\np. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162)."
+  citata_rodoma: |
+    1344 m. čia minima  pilis — huse Sareibe
+    (Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra
+    apskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,
+    ryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,
+    p. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

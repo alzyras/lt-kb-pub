@@ -59,7 +59,8 @@ Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldu
     politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
     Neatsitiktinai Lietuva vadinta Sovietų Sąjungos ferma, nes daug investicijų
     nukreipta į žemės ūkio ir maisto pramonės sektorius.
-  citata_rodoma: "Neatsitiktinai Lietuva vadinta Sovietų Sąjungos ferma, nes daug investicijų"
+  citata_rodoma: |
+    Neatsitiktinai Lietuva vadinta Sovietų Sąjungos ferma, nes daug investicijų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

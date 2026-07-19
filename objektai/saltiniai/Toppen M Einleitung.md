@@ -71,7 +71,8 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
     источник для реконструкции этногенеза и древнейшей истории славян. — Вопросы
     этногенеза н этнической истории славян и восточных романцев: Методология и
     историография, М., 1976, с.
-  citata_rodoma: "Toppen M Einleitung.—SRP, 1, S. 3—20."
+  citata_rodoma: |
+    Toppen M Einleitung.—SRP, 1, S. 3—20.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -62,7 +62,8 @@ Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicij
     ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
     Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekono-
     mikos.
-  citata_rodoma: "ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų"
+  citata_rodoma: |
+    ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

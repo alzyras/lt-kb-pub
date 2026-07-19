@@ -774,7 +774,9 @@ media_all_json: |-
     1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
     niška. Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)
     vis daug kartų yra vedę derybas Lietuvos krikšto reikalu.
-  citata_rodoma: "Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)\nvis daug kartų yra vedę derybas Lietuvos krikšto reikalu."
+  citata_rodoma: |
+    Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)
+    vis daug kartų yra vedę derybas Lietuvos krikšto reikalu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -793,7 +795,9 @@ media_all_json: |-
     yra praėjęs dviejų frontų kovose su vokiečių ordinu ir žygiuose į
     Lenkiją. Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
     intensyviai iki 1307 puldinėjo Lenkiją.
-  citata_rodoma: "Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau\nintensyviai iki 1307 puldinėjo Lenkiją."
+  citata_rodoma: |
+    Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
+    intensyviai iki 1307 puldinėjo Lenkiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -815,7 +819,11 @@ media_all_json: |-
     Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
     aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
     ir daugelyje kitų [vietų].
-  citata_rodoma: "XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti\nLivonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę\nkovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą\nekonominę Lietuvos blokadą."
+  citata_rodoma: |
+    XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
+    Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę
+    kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą
+    ekonominę Lietuvos blokadą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -837,7 +845,13 @@ media_all_json: |-
     VYTENIS, Traidenio sūnus,
     did. Lietuvos kunigaikštis
     1283 m., nužudytas 1315 m.
-  citata_rodoma: "-1\n'\n- --- - -■  N\nVYTENIS, Traidenio sūnus, \ndid. Lietuvos kunigaikštis \n1283 m., nužudytas 1315 m."
+  citata_rodoma: |
+    -1
+    '
+    - --- - -■  N
+    VYTENIS, Traidenio sūnus,
+    did. Lietuvos kunigaikštis
+    1283 m., nužudytas 1315 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -859,7 +873,13 @@ media_all_json: |-
     du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
     broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
     pilis paliko apleista po šiai dienai.
-  citata_rodoma: "Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11\n\n  Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų."
+  citata_rodoma: |
+    Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
+
+      Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -884,7 +904,15 @@ media_all_json: |-
     atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
     privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
     lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
-  citata_rodoma: "Dar apie tą patį\n\n   Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis\nįsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.\nBrolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes."
+  citata_rodoma: |
+    Dar apie tą patį
+
+       Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
+    įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1017,7 +1045,25 @@ media_all_json: |-
     Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
     Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
     torių.
-  citata_rodoma: ", valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo, \nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų \nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė \nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8.\nTačiau Vilniaus istorija prasideda tik 1321 metais, kai \nGediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,\ntorių."
+  citata_rodoma: |
+    , valią, tam slėny pir­
+    masis miškus išnaikinęs ir savo tė­
+    vo bei savo paties įpėdinių kapavie­
+    tėms skyręs; pavadino ją vardu tėvo,
+    Šventaragio, kas reikštų Šventą al-
+    18
+
+    ## Puslapis 35
+
+    I  KNYGA
+    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
+    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
+    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
+    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
+    okratinio valdymo centrų tikrai galėjo būti8.
+    Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
+    Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
+    torių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1036,7 +1082,9 @@ media_all_json: |-
     diminaičių dinastija.
     Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
     nas (valdęs 1316–1341 m.).
-  citata_rodoma: "Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-\nnas (valdęs 1316–1341 m.)."
+  citata_rodoma: |
+    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
+    nas (valdęs 1316–1341 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1087,7 +1135,17 @@ media_all_json: |-
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
     Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
     yra prie 1317 m. (1.
-  citata_rodoma: "47\n\n## Puslapis 64\n\nVILNIAUS MIESTO ISTORIJA I  TOMAS\npilį, kur minėtas grafas iš Hamburgo ir daugybė kitų didi­\nkų priėmė kariuomenės garbę]. Šitai vyko viešpataujant Lie­\ntuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina \nDusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] \nyra prie 1317 m."
+  citata_rodoma: |
+    47
+
+    ## Puslapis 64
+
+    VILNIAUS MIESTO ISTORIJA I  TOMAS
+    pilį, kur minėtas grafas iš Hamburgo ir daugybė kitų didi­
+    kų priėmė kariuomenės garbę]. Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1109,7 +1167,10 @@ media_all_json: |-
     Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
     tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
     130), taip pat laukininkus — valstiečius (rustict — III, 262).
-  citata_rodoma: "Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):\nMindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,\n269, 306, 310, 356)."
+  citata_rodoma: |
+    Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):
+    Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,
+    269, 306, 310, 356).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1135,7 +1196,18 @@ media_all_json: |-
     belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
     trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
     žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.
-  citata_rodoma: "Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­\n                        nių nužudymą bei paėmimą į nelaisvę\n\n   Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais\nvyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,\nkunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,\no bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė\nį nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,\nneleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,\nbe to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę\nbelaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių."
+  citata_rodoma: |
+    Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
+                            nių nužudymą bei paėmimą į nelaisvę
+
+       Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
+    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
+    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
+    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
+    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
+    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
+    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
+    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1175,7 +1247,26 @@ media_all_json: |-
     dosi persekioti priešo su didikais ar bajorais, kurie jau
     buvo atvykę į Krokuvą arba kuriuos galėjo greitosio­
     mis sušaukti iš aplinkinių gyvenviečių.
-  citata_rodoma: "Staigiai ir be var­\ngo iškilęs į valdžios viršūnes, Vytenis turėjo pamato\nįtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­\nma padėtis negali nekurstyti pavydo, neteikti progos\nmaištams, ypač dėl to, kad negalėjo stigti maištui nei\nkurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė\nvado būsimam vidaus karui, kol, jam valdant, Trai-\nverstas pradėti karą dėl visai kitų priežasčių, ypač pa­\nbrėždamas tą žinomiausią: būsią keršijama lenkams už\npatirtą praėjusiais metais Jotvingijoje pralaimėjimą.\nSutelkęs didesnę nei paprastai kariuomenę, jis patrau­\nkė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo\napygardas, nuvedė kariuomenę į Sandomiro žemę. Len­\nkams pasitraukus į miestus ir neleidus savo turtą nio­\nkoti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­\nšinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­\nnius kaimus ir dvarus, išžudęs galybę silpnų senių bei\nvaikų, be kito grobio, išsivarė šešis tūkstančius žmo­\nnių."
+  citata_rodoma: |
+    Staigiai ir be var­
+    go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
+    įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­
+    ma padėtis negali nekurstyti pavydo, neteikti progos
+    maištams, ypač dėl to, kad negalėjo stigti maištui nei
+    kurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė
+    vado būsimam vidaus karui, kol, jam valdant, Trai-
+    verstas pradėti karą dėl visai kitų priežasčių, ypač pa­
+    brėždamas tą žinomiausią: būsią keršijama lenkams už
+    patirtą praėjusiais metais Jotvingijoje pralaimėjimą.
+    Sutelkęs didesnę nei paprastai kariuomenę, jis patrau­
+    kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo
+    apygardas, nuvedė kariuomenę į Sandomiro žemę. Len­
+    kams pasitraukus į miestus ir neleidus savo turtą nio­
+    koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­
+    šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­
+    nius kaimus ir dvarus, išžudęs galybę silpnų senių bei
+    vaikų, be kito grobio, išsivarė šešis tūkstančius žmo­
+    nių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1210,7 +1301,17 @@ media_all_json: |-
     ėję iš kaimų į bažnyčias,
     miestą pavyko užimti staigiu
     antpuoliu.
-  citata_rodoma: "Šitaip viena pra­\ngaištinga puota privertė gedėti dėl artimųjų mirties\nar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­\nnoje vietoje tapo apiplėšta beveik visa Lietuva, nes\nturtingiausieji, kaip tada buvo įprasta, susivežė ten\nkartu su žmonomis ir vaikais visus lobius, norėdami\npasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­\nvo, Vytenis, surinkęs visose valdose lėšų, vieną ka­\nriuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­\nčius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė."
+  citata_rodoma: |
+    Šitaip viena pra­
+    gaištinga puota privertė gedėti dėl artimųjų mirties
+    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
+    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
+    turtingiausieji, kaip tada buvo įprasta, susivežė ten
+    kartu su žmonomis ir vaikais visus lobius, norėdami
+    pasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­
+    vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
+    riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
+    čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1283,7 +1384,20 @@ media_all_json: |-
     dėl to, kad neturėjo po ranka kariuomenės (paprastai
     šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
     džiusi po kaimus.
-  citata_rodoma: "Vieną pulką atidavė rygie- \nčiams Nojermiulenui apsiaus­\nti ir aplinkiniams kaimams \nplėšti, Pagrindines jėgas Vytenis pats atvedė prie Kark- \nsio: po ryžtingos apsupties įsiveržė į sutvirtinimus, pa­\nėmė pilį, visi gynėjai buvo išžudyti, liko gyvi vos \nketuri riteriai, komtūro sauga ir šiek tiek vertingesnių \nbelaisvių. Po to nugalėtojai, paleisti pasiplėšti grobio, \nnusiaubė visas apylinkes, naikindami ugnimi ir kala­\nviju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­\ntoli Livonijos įlankos, magistras Brunonas nirtulingai \njuos užpuolė prie Treiderės upės, jau apsikrovusius \ngrobiu."
+  citata_rodoma: |
+    Vieną pulką atidavė rygie-
+    čiams Nojermiulenui apsiaus­
+    ti ir aplinkiniams kaimams
+    plėšti, Pagrindines jėgas Vytenis pats atvedė prie Kark-
+    sio: po ryžtingos apsupties įsiveržė į sutvirtinimus, pa­
+    ėmė pilį, visi gynėjai buvo išžudyti, liko gyvi vos
+    keturi riteriai, komtūro sauga ir šiek tiek vertingesnių
+    belaisvių. Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1324,7 +1438,28 @@ media_all_json: |-
     kaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­
     nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
     giuoti.
-  citata_rodoma: "Kitais metais, kai Vytenis\nabu luomus sukvietė į pasi-\n1305 m e ta i\ntarimą, Sembos vyskupystės\nV y te n is\np e rse k io ja\nfogtas Pilypas fon Bolandas,\nk ry žiu o č iu s g ro b ik u s\npasinaudojęs progą, kad bu­\nvo išvykę kunigaikščiai ir\nbajorai, nusiaubė pasienio kaimiečius. Kai valdovui\npranešė, jog įsibrovė priešas ir degina kaimus bei kie­\nmus, jis greitosiomis su tūkstančiu penkiais šimtais\nraitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­\nžiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­\nkėtai užpuolė nebesisaugančių priešų ariergardą; ko­\nvėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­\nrios kitos priežasties, ar dėl to, kad ir vienos, ir kitos\nkariuomenės dydis buvo nežinomas, vadai nežinojo,\nkieno pusėje jėgos persvara; kai ir vienoje, ir kitoje\npusėje krito keletas karių, susidūrimas liovėsi."
+  citata_rodoma: |
+    Kitais metais, kai Vytenis
+    abu luomus sukvietė į pasi-
+    1305 m e ta i
+    tarimą, Sembos vyskupystės
+    V y te n is
+    p e rse k io ja
+    fogtas Pilypas fon Bolandas,
+    k ry žiu o č iu s g ro b ik u s
+    pasinaudojęs progą, kad bu­
+    vo išvykę kunigaikščiai ir
+    bajorai, nusiaubė pasienio kaimiečius. Kai valdovui
+    pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
+    mus, jis greitosiomis su tūkstančiu penkiais šimtais
+    raitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­
+    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
+    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
+    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
+    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
+    kariuomenės dydis buvo nežinomas, vadai nežinojo,
+    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
+    pusėje krito keletas karių, susidūrimas liovėsi.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1385,7 +1520,20 @@ media_all_json: |-
     javai, beveik pribrendę pjū­
     čiai, raitelių ištrypti, paim­
     tas didžiulis grobis.
-  citata_rodoma: "Sugrįžęs iš šio žygio, netrukus \nir mirė, valdęs dvidešimt dvejus metus, nukamuotas \nmetų naštos, karo rūpesčių ir visokiausių nesėkmių. \nPragaištingi lietuviams buvo šie metai: mirė valdovas, \nbe to, badas ir maras sunkia našta užgulė žmones.\n1315 m e ta i \nP a sk u tin ie ji V y te n io \nž y g ia i į P rū siją\ntvirtovių įsiveržėlių atremti, \nbuvo suvaryti atgal į pilis, \njavai, beveik pribrendę pjū­\nčiai, raitelių ištrypti, paim­\ntas didžiulis grobis."
+  citata_rodoma: |
+    Sugrįžęs iš šio žygio, netrukus
+    ir mirė, valdęs dvidešimt dvejus metus, nukamuotas
+    metų naštos, karo rūpesčių ir visokiausių nesėkmių.
+    Pragaištingi lietuviams buvo šie metai: mirė valdovas,
+    be to, badas ir maras sunkia našta užgulė žmones.
+    1315 m e ta i
+    P a sk u tin ie ji V y te n io
+    ž y g ia i į P rū siją
+    tvirtovių įsiveržėlių atremti,
+    buvo suvaryti atgal į pilis,
+    javai, beveik pribrendę pjū­
+    čiai, raitelių ištrypti, paim­
+    tas didžiulis grobis.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1479,7 +1627,13 @@ media_all_json: |-
     diminaičių dinastija.
     Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
     nas (valdęs 1316–1341 m.).
-  citata_rodoma: "Mat besigviešiantys sosto jau turės pagrįsti \nsavo teises, giminystę arba priklausomybę valdovų dinastijai. XIII a. pa-\nbaigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-\ndiminaičių dinastija. \nDinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-\nnas (valdęs 1316–1341 m.)."
+  citata_rodoma: |
+    Mat besigviešiantys sosto jau turės pagrįsti
+    savo teises, giminystę arba priklausomybę valdovų dinastijai. XIII a. pa-
+    baigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-
+    diminaičių dinastija.
+    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
+    nas (valdęs 1316–1341 m.).
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1497,7 +1651,13 @@ media_all_json: |-
     yra praėjęs dviejų frontų kovose su vokiečių ordinu ir žygiuose į
     Lenkiją. Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
     intensyviai iki 1307 puldinėjo Lenkiją.
-  citata_rodoma: "O Lietuvos metraštis visai neistoriškai Vytenį\nyra susiejęs su žinomąja legenda apie lietuvių kilmę iš romėnų.\nVisas Vytenio valdymo dvidešimtmetis (1295-96 - 1315-16)\nyra praėjęs dviejų frontų kovose su vokiečių ordinu ir žygiuose į\nLenkiją. Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau\nintensyviai iki 1307 puldinėjo Lenkiją."
+  citata_rodoma: |
+    O Lietuvos metraštis visai neistoriškai Vytenį
+    yra susiejęs su žinomąja legenda apie lietuvių kilmę iš romėnų.
+    Visas Vytenio valdymo dvidešimtmetis (1295-96 - 1315-16)
+    yra praėjęs dviejų frontų kovose su vokiečių ordinu ir žygiuose į
+    Lenkiją. Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
+    intensyviai iki 1307 puldinėjo Lenkiją.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1544,7 +1704,20 @@ media_all_json: |-
     nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
     verčia dykynėmis, visada sakydami, jog visa tai daroma
     krikščionybei ginti.
-  citata_rodoma: "Tiesa, arkivyskupui Isamui tarpininkaujant, \ntikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­\ndinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­\nkeliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­\ndovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos \narkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­\nčių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti; \ntik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­\nti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­\ngąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­\nnu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus \nverčia dykynėmis, visada sakydami, jog visa tai daroma \nkrikščionybei ginti."
+  citata_rodoma: |
+    Tiesa, arkivyskupui Isamui tarpininkaujant,
+    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
+    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
+    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­
+    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
+    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
+    verčia dykynėmis, visada sakydami, jog visa tai daroma
+    krikščionybei ginti.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1565,7 +1738,13 @@ media_all_json: |-
     du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
     broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
     pilis paliko apleista po šiai dienai.
-  citata_rodoma: "Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11\n\n  Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų."
+  citata_rodoma: |
+    Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
+
+      Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1585,7 +1764,15 @@ media_all_json: |-
     VYTENIS, Traidenio sūnus,
     did. Lietuvos kunigaikštis
     1283 m., nužudytas 1315 m.
-  citata_rodoma: "Lietuvos\n\\ kunigaikštis,\nTRAIDENIS +1283 kartu su broliu.-1\n'\n- --- - -■  N\nVYTENIS, Traidenio sūnus, \ndid. Lietuvos kunigaikštis \n1283 m., nužudytas 1315 m."
+  citata_rodoma: |
+    Lietuvos
+    \ kunigaikštis,
+    TRAIDENIS +1283 kartu su broliu.-1
+    '
+    - --- - -■  N
+    VYTENIS, Traidenio sūnus,
+    did. Lietuvos kunigaikštis
+    1283 m., nužudytas 1315 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1647,7 +1834,17 @@ media_all_json: |-
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
     Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
     yra prie 1317 m. (1.
-  citata_rodoma: "47\n\n## Puslapis 64\n\nVILNIAUS MIESTO ISTORIJA I  TOMAS\npilį, kur minėtas grafas iš Hamburgo ir daugybė kitų didi­\nkų priėmė kariuomenės garbę]. Šitai vyko viešpataujant Lie­\ntuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina \nDusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] \nyra prie 1317 m. (1."
+  citata_rodoma: |
+    47
+
+    ## Puslapis 64
+
+    VILNIAUS MIESTO ISTORIJA I  TOMAS
+    pilį, kur minėtas grafas iš Hamburgo ir daugybė kitų didi­
+    kų priėmė kariuomenės garbę]. Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1668,7 +1865,11 @@ media_all_json: |-
     Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
     aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
     ir daugelyje kitų [vietų].
-  citata_rodoma: "XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti\nLivonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę\nkovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą\nekonominę Lietuvos blokadą."
+  citata_rodoma: |
+    XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
+    Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę
+    kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą
+    ekonominę Lietuvos blokadą.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1695,7 +1896,14 @@ media_all_json: |-
     vietoje pasalą, įsiveržė [į jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
     moteris ir vaikus paėmę į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
     200 lietuvių.
-  citata_rodoma: "Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,\natplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai\nužstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir\nne kartą mėgino šitai padaryti."
+  citata_rodoma: |
+    Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
+    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
+    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
+    ne kartą mėgino šitai padaryti.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -1740,7 +1948,18 @@ media_all_json: |-
     belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
     trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
     žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.
-  citata_rodoma: "Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­\n                        nių nužudymą bei paėmimą į nelaisvę\n\n   Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais\nvyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,\nkunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,\no bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė\nį nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,\nneleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,\nbe to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę\nbelaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių."
+  citata_rodoma: |
+    Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
+                            nių nužudymą bei paėmimą į nelaisvę
+
+       Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
+    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
+    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
+    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
+    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
+    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
+    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
+    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1797,7 +2016,30 @@ media_all_json: |-
     Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
     Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
     torių.
-  citata_rodoma: "Wilno 1740 in 8vo, skyr. I. Esą \npirmasis toje vietovėje įkurdinęs gy­\nvenvietę Germantas, vykdydamas \nsavo tėvo, kunigaikščio Šventaragio, \npasak jų, viešpatavusio Lietuvoje \napie 1268 m., valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo, \nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų \nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė \nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8.\nTačiau Vilniaus istorija prasideda tik 1321 metais, kai \nGediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,\ntorių."
+  citata_rodoma: |
+    Wilno 1740 in 8vo, skyr. I. Esą
+    pirmasis toje vietovėje įkurdinęs gy­
+    venvietę Germantas, vykdydamas
+    savo tėvo, kunigaikščio Šventaragio,
+    pasak jų, viešpatavusio Lietuvoje
+    apie 1268 m., valią, tam slėny pir­
+    masis miškus išnaikinęs ir savo tė­
+    vo bei savo paties įpėdinių kapavie­
+    tėms skyręs; pavadino ją vardu tėvo,
+    Šventaragio, kas reikštų Šventą al-
+    18
+
+    ## Puslapis 35
+
+    I  KNYGA
+    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
+    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
+    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
+    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
+    okratinio valdymo centrų tikrai galėjo būti8.
+    Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
+    Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
+    torių.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1827,7 +2069,25 @@ media_all_json: |-
     tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
     apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
     jus po Jogailos.
-  citata_rodoma: "45\n\n## Puslapis 62\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nKaramzinas0, laikydamas tai labai abejotinu dalyku, o Min­\ndaugo kilmės įrodymus - visiškais paistalais, nebent būtų \npriimtinos už tiesą didžiausios chronologinės klaidos ir su­\ntikta su prielaida, kad Rusios kunigaikščių sūnūs, krikščio­\nnys, galėjo turėti lietuviškus vardus ir būti pagonys. Ar ga­\nlima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką \nvardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad \nVytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko \nMetraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip \nrodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­\ntojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra \napie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­\njus po Jogailos."
+  citata_rodoma: |
+    45
+
+    ## Puslapis 62
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Karamzinas0, laikydamas tai labai abejotinu dalyku, o Min­
+    daugo kilmės įrodymus - visiškais paistalais, nebent būtų
+    priimtinos už tiesą didžiausios chronologinės klaidos ir su­
+    tikta su prielaida, kad Rusios kunigaikščių sūnūs, krikščio­
+    nys, galėjo turėti lietuviškus vardus ir būti pagonys. Ar ga­
+    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
+    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
+    Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko
+    Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
+    rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­
+    tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
+    apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
+    jus po Jogailos.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1855,7 +2115,23 @@ media_all_json: |-
     jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
     namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
     ir minėtą bažnyčią sudegino.
-  citata_rodoma: "Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­\ndaryti taiką, siuntė savo pasiuntinius ponams Rygos arki­\nvyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai \nnužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo \nmetu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė \ntaiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­\nvo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­\nno Isamo namo, pakeliui vienus jie užmušė, kitus pakorė \narba privertė, kad jie patys pasiskandintų.\nTaip pat mūsų pirmtakas karalius Vytenis buvo pasiun­\ntęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­\npui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius \niš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir \njau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų \nnamo broliai pasiuntė aplinkiniais keliais savo kariuomenę \nir minėtą bažnyčią sudegino."
+  citata_rodoma: |
+    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
+    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
+    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
+    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
+    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
+    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
+    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
+    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
+    arba privertė, kad jie patys pasiskandintų.
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1873,7 +2149,13 @@ media_all_json: |-
     1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
     niška. Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)
     vis daug kartų yra vedę derybas Lietuvos krikšto reikalu.
-  citata_rodoma: "Atsakymo reikalauja ir kitas faktas. Matomai Lietuvos valdo­\nvai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­\npročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis\n1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­\nniška. Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)\nvis daug kartų yra vedę derybas Lietuvos krikšto reikalu."
+  citata_rodoma: |
+    Atsakymo reikalauja ir kitas faktas. Matomai Lietuvos valdo­
+    vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­
+    pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
+    1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
+    niška. Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)
+    vis daug kartų yra vedę derybas Lietuvos krikšto reikalu.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1897,7 +2179,15 @@ media_all_json: |-
     atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
     privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
     lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
-  citata_rodoma: "Dar apie tą patį\n\n   Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis\nįsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.\nBrolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes."
+  citata_rodoma: |
+    Dar apie tą patį
+
+       Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
+    įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -1933,13 +2223,20 @@ media_all_json: |-
   puslapiai: "PDF 210"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
-    Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
-    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
-    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
-    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
-    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
-    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
-    ne kartą mėgino šitai padaryti.
+    Apie Bisenės pilies sudeginimą 1316 metais
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
+    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
+    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
+    pilis paliko apleista po šiai dienai.
+    330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
+    Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
+    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
+    vietoje pasalą, įsiveržė [į jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
+    moteris ir vaikus paėmę į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
+    200 lietuvių.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

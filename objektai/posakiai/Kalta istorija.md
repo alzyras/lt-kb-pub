@@ -93,7 +93,12 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
     prieštaravimų, gal net per daug kritiška kaimynams. Tačiau toks įspūdis
     gali darytis tik dėl to, kad būta valstybių, kurios (kartais) labai norėjo
     „priglobti“ Lietuvą kuo ilgesniam laikui arba tiesiog joje dominuoti.
-  citata_rodoma: "Tūlas gal pasakys, kad mūsų\nnaratyvas, papasakota istorija, jam pasirodė atverianti per daug aštrių\nprieštaravimų, gal net per daug kritiška kaimynams. Tačiau toks įspūdis\ngali darytis tik dėl to, kad būta valstybių, kurios (kartais) labai norėjo\n„priglobti“ Lietuvą kuo ilgesniam laikui arba tiesiog joje dominuoti."
+  citata_rodoma: |
+    Tūlas gal pasakys, kad mūsų
+    naratyvas, papasakota istorija, jam pasirodė atverianti per daug aštrių
+    prieštaravimų, gal net per daug kritiška kaimynams. Tačiau toks įspūdis
+    gali darytis tik dėl to, kad būta valstybių, kurios (kartais) labai norėjo
+    „priglobti“ Lietuvą kuo ilgesniam laikui arba tiesiog joje dominuoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -118,7 +123,9 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
     pasiekimus.
     Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos
     istorikai.
-  citata_rodoma: "Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos\nistorikai."
+  citata_rodoma: |
+    Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos
+    istorikai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

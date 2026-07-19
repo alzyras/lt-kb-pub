@@ -107,7 +107,16 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
     kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
     traukė baigiantis II krikščioniškosios eros amžiui4.
-  citata_rodoma: "229\n\n## Puslapis 240\n\nsavo dukrą, vardu Almveiga, ar Alfnija1. Maždaug to\npaties amžiaus pabaigoje švedų karalius Got'brodas irgi\nsėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­\nvo kovodamas su Bojumi, Otino sūnumi, rusų karalienės\nRindos vyru."
+  citata_rodoma: |
+    229
+
+    ## Puslapis 240
+
+    savo dukrą, vardu Almveiga, ar Alfnija1. Maždaug to
+    paties amžiaus pabaigoje švedų karalius Got'brodas irgi
+    sėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­
+    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
+    Rindos vyru.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

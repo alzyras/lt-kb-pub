@@ -69,7 +69,12 @@ media_all_json: |-
     joje_ , 1931.
 
     **2.
-  citata_rodoma: "— Žilinskas, J. : _Ak­\nmens periodo_ ( _mesolithicum-neolithicum_ ) _žmogus Žemaitijoje ir Suvalki­\njoje_ , 1931.\n\n**2."
+  citata_rodoma: |
+    — Žilinskas, J. : _Ak­
+    mens periodo_ ( _mesolithicum-neolithicum_ ) _žmogus Žemaitijoje ir Suvalki­
+    joje_ , 1931.
+
+    **2.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

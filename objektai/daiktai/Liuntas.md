@@ -81,7 +81,8 @@ Nenurodyta
     net jo vardas kalboje.
     Vietoje liunto po vyžos padu prisiuva seno nu­
     dėvėto milo skudurą ar kitą kokį suvalkiotą skurlį.
-  citata_rodoma: "Vietoje liunto po vyžos padu prisiuva seno nudėvėto milo skudurą ar kitą kokį suvalkiotą skurlį."
+  citata_rodoma: |
+    Vietoje liunto po vyžos padu prisiuva seno nudėvėto milo skudurą ar kitą kokį suvalkiotą skurlį.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -101,7 +102,8 @@ Nenurodyta
     snukį ir kulną*'.
     Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų
     po padu, kad jis ilgiau laikytų.
-  citata_rodoma: "Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų po padu, kad jis ilgiau laikytų."
+  citata_rodoma: |
+    Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų po padu, kad jis ilgiau laikytų.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -124,7 +126,8 @@ Nenurodyta
     draikas ir nuoplakas.
     Iš pakulų vijo bet kokią minkštą, dviejų šakų
     virvę, mažiuko žmogaus piršto storumo, kuri buvo vadinama liuntu.
-  citata_rodoma: "Iš pakulų vijo bet kokią minkštą, dviejų šakų virvę, mažiuko žmogaus piršto storumo, kuri buvo vadinama liuntu."
+  citata_rodoma: |
+    Iš pakulų vijo bet kokią minkštą, dviejų šakų virvę, mažiuko žmogaus piršto storumo, kuri buvo vadinama liuntu.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

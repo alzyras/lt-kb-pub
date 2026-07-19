@@ -91,7 +91,8 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: "jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo"
+  citata_rodoma: |
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +115,8 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     Žemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento
     valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
     įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
-  citata_rodoma: "valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas"
+  citata_rodoma: |
+    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

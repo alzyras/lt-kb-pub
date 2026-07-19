@@ -90,7 +90,11 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
     pėstininkų rikiuotė prarado darnumą,
     įsako pulti. V. Vainos kavalerija atakuoja
     priešo pėstininkus centre.
-  citata_rodoma: "Chodkevičius, pastebėjęs, kad švedų\npėstininkų rikiuotė prarado darnumą,\nįsako pulti. V. Vainos kavalerija atakuoja\npriešo pėstininkus centre."
+  citata_rodoma: |
+    Chodkevičius, pastebėjęs, kad švedų
+    pėstininkų rikiuotė prarado darnumą,
+    įsako pulti. V. Vainos kavalerija atakuoja
+    priešo pėstininkus centre.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +115,12 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
     kelios kuršiečių reitarų kuopos. Pralaužus
     pirmąsias švedų eiles, už jų stovėjo kitos ir
     buvo vis sunkiau veržtis į priekį.
-  citata_rodoma: "Rotmistro A.Vainos\nhusarams buvo pasiųstas pastiprinimas —\nkelios kuršiečių reitarų kuopos. Pralaužus\npirmąsias švedų eiles, už jų stovėjo kitos ir\nbuvo vis sunkiau veržtis į priekį."
+  citata_rodoma: |
+    Rotmistro A.Vainos
+    husarams buvo pasiųstas pastiprinimas —
+    kelios kuršiečių reitarų kuopos. Pralaužus
+    pirmąsias švedų eiles, už jų stovėjo kitos ir
+    buvo vis sunkiau veržtis į priekį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

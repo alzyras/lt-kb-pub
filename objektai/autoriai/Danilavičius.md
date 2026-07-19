@@ -74,7 +74,11 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
     torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
     tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
     autentišką.
-  citata_rodoma: "Dėl šitos sutarties autentiškumo keliama abejonių. Is­\ntorikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;\ntačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip\nautentišką."
+  citata_rodoma: |
+    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
+    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
+    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
+    autentišką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

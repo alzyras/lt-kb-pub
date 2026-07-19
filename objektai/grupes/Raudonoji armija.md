@@ -229,7 +229,11 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
     metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
     kariuomenę.
-  citata_rodoma: "Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-\ncijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir \nmetė Raudonosios armijos divizijas paskui traukiančią namo vokiečių \nkariuomenę."
+  citata_rodoma: |
+    Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
+    cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
+    metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
+    kariuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -250,7 +254,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“. Rem-
     damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
     16 dienos manifestu deklaravo Sovietų Lietuvą.
-  citata_rodoma: "Rem-\ndamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio \n16 dienos manifestu deklaravo Sovietų Lietuvą."
+  citata_rodoma: |
+    Rem-
+    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
+    16 dienos manifestu deklaravo Sovietų Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -272,7 +279,12 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     Nepriklausomybės karta
     Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
     viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija.
-  citata_rodoma: "Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms \npo 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė \nsavo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-\nnas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS, \nbolševizmui."
+  citata_rodoma: |
+    Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
+    po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė
+    savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-
+    nas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS,
+    bolševizmui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -293,7 +305,9 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     to uždarymu, tad sostinės, ministerijų ir įstaigų perkelti iš Kauno į Vilnių
     neskubėta. Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvo-
     je, 20 000 kariškių reikmės – trūko kareivinių, patalpų, butų karininkams.
-  citata_rodoma: "Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvo-\nje, 20 000 kariškių reikmės – trūko kareivinių, patalpų, butų karininkams."
+  citata_rodoma: |
+    Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvo-
+    je, 20 000 kariškių reikmės – trūko kareivinių, patalpų, butų karininkams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -311,7 +325,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
     liau – Raudonosios armijos 29-uoju šaulių korpusu).
-  citata_rodoma: "Liepos 3 dieną priimtas Lietuvos \nkariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-\nliau – Raudonosios armijos 29-uoju šaulių korpusu)."
+  citata_rodoma: |
+    Liepos 3 dieną priimtas Lietuvos
+    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+    liau – Raudonosios armijos 29-uoju šaulių korpusu).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -334,7 +351,13 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     savarankiškas lietuvių tautos sprendimas įstoti į SSRS, nors LDK istorija,
     Lietuvos nepriklausomybės 20-metis strigo visoje sovietinėje istoriogra-
     fijoje kaip kaulas gerklėje.
-  citata_rodoma: "Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dė-\nkoti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo \n1940 m., nes sukonstruota socialistinės revoliucijos teorija, neva buvęs \nsavarankiškas lietuvių tautos sprendimas įstoti į SSRS, nors LDK istorija, \nLietuvos nepriklausomybės 20-metis strigo visoje sovietinėje istoriogra-\nfijoje kaip kaulas gerklėje."
+  citata_rodoma: |
+    Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dė-
+    koti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo
+    1940 m., nes sukonstruota socialistinės revoliucijos teorija, neva buvęs
+    savarankiškas lietuvių tautos sprendimas įstoti į SSRS, nors LDK istorija,
+    Lietuvos nepriklausomybės 20-metis strigo visoje sovietinėje istoriogra-
+    fijoje kaip kaulas gerklėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -360,7 +383,11 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     Baigiantis Antrajam pasauliniam karui, bijodami artėjan-
     čios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos
     gyventojų pasitraukė į Vakarus.
-  citata_rodoma: "Lietuvos diplomatinė tarnyba ir išeivija\nBaigiantis Antrajam pasauliniam karui, bijodami artėjan-\nčios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos \ngyventojų pasitraukė į Vakarus."
+  citata_rodoma: |
+    Lietuvos diplomatinė tarnyba ir išeivija
+    Baigiantis Antrajam pasauliniam karui, bijodami artėjan-
+    čios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos
+    gyventojų pasitraukė į Vakarus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

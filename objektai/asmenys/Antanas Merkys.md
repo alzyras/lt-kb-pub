@@ -139,7 +139,11 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Anta-
     no Merkio vyriausybę. Tokią taktiką galima įvardyti kaip buvimą „tarp
     valdžios ir opozicijos“, kaip „kompromisų politiką“.
-  citata_rodoma: "LVLS ir LKDP neparei-\nkalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du \nsavo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Anta-\nno Merkio vyriausybę."
+  citata_rodoma: |
+    LVLS ir LKDP neparei-
+    kalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du
+    savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Anta-
+    no Merkio vyriausybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -158,7 +162,11 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
     į Maskvą ministrą J. Urbšį.
-  citata_rodoma: "Nuo V. Molotovo rėksmingų kaltinimų \nabsurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune \nsužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti \nį Maskvą ministrą J. Urbšį."
+  citata_rodoma: |
+    Nuo V. Molotovo rėksmingų kaltinimų
+    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -177,7 +185,8 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     Lietuvos ministrą pirmininką A. Merkį. Grėsmės akivaizdoje prezidentas
     A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
     1939 m. spalio 10 d. sutarties.
-  citata_rodoma: "A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų"
+  citata_rodoma: |
+    A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -197,7 +206,10 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     skaudžiai nubausta. Krikščionys demokratai ir liaudininkai, prieš tai su-
     sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
     krikščionims demokratams gen. S. Raštikį.
-  citata_rodoma: "Krikščionys demokratai ir liaudininkai, prieš tai su-\nsitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą \nkrikščionims demokratams gen. S. Raštikį."
+  citata_rodoma: |
+    Krikščionys demokratai ir liaudininkai, prieš tai su-
+    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
+    krikščionims demokratams gen. S. Raštikį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +229,9 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     1939 m. spalio 10 d. sutarties.
     Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
     sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-  citata_rodoma: "Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas \nsukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-"
+  citata_rodoma: |
+    Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
+    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

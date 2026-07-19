@@ -235,7 +235,10 @@ Nenurodyta
     Lietuvos nepriklausiusių rusėnų žemių centru. Algirdas suvokė,
     kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
     rengė į ją tris karo žygius (1368; 1370; 1372).
-  citata_rodoma: "Algirdas suvokė,\nkad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-\nrengė į ją tris karo žygius (1368; 1370; 1372)."
+  citata_rodoma: |
+    Algirdas suvokė,
+    kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
+    rengė į ją tris karo žygius (1368; 1370; 1372).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -254,7 +257,10 @@ Nenurodyta
     rengė į ją tris karo žygius (1368; 1370; 1372). Nors Maskvos krem-
     liaus užimti nepavyko, tačiau Maskvos pretenzijos į lietuvių
     valdomas rusėnų teritorijas buvo užkardytos.
-  citata_rodoma: "Nors Maskvos krem-\nliaus užimti nepavyko, tačiau Maskvos pretenzijos į lietuvių\nvaldomas rusėnų teritorijas buvo užkardytos."
+  citata_rodoma: |
+    Nors Maskvos krem-
+    liaus užimti nepavyko, tačiau Maskvos pretenzijos į lietuvių
+    valdomas rusėnų teritorijas buvo užkardytos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

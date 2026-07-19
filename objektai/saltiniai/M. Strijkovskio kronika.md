@@ -960,7 +960,14 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
     tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
     rijos knyga.
-  citata_rodoma: "Nors egzis-\ntavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai, \nvis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame \ngyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo \n1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-\ntuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-\nrijos knyga."
+  citata_rodoma: |
+    Nors egzis-
+    tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
+    vis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame
+    gyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
+    1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
+    tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
+    rijos knyga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -985,7 +992,19 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
     dangino su visu guotu į Šventaragio slėnį, už keturių mylių
     nuo Trakų, kur Vilnios upė įteka į Viliją.
-  citata_rodoma: "400.\n48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją."
+  citata_rodoma: |
+    400.
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1012,7 +1031,13 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     plačiai aprašo, kokių gudrybių tą­
     kart ėmėsi Kęstutis, puldamas Vil-
     nių.
-  citata_rodoma: "31\nStrijkovskis, 1.465, o juo sekda­\nmas ir K o j e 1  a v i č i u s, p. 361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių."
+  citata_rodoma: |
+    31
+    Strijkovskis, 1.465, o juo sekda­
+    mas ir K o j e 1  a v i č i u s, p. 361,
+    plačiai aprašo, kokių gudrybių tą­
+    kart ėmėsi Kęstutis, puldamas Vil-
+    nių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1033,7 +1058,12 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 
     M. Strijkovskio kronika), kt. vėlesni liudi-
     jimai. Vienalaikių šaltinių duomenų nėra.
-  citata_rodoma: "Jį mena xvi a. is-\ntorinė tradicija (Lietuvos metraščiai,\n\nM. Strijkovskio kronika), kt. vėlesni liudi-\njimai. Vienalaikių šaltinių duomenų nėra."
+  citata_rodoma: |
+    Jį mena xvi a. is-
+    torinė tradicija (Lietuvos metraščiai,
+
+    M. Strijkovskio kronika), kt. vėlesni liudi-
+    jimai. Vienalaikių šaltinių duomenų nėra.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1100,7 +1130,32 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     broliui, riteriui kunigaikščiui, prie­
     dermes/7  Knyga XIII, p. 455, Varš.
     leid.
-  citata_rodoma: "Šitaip Kryžiuočių ordino kruvina politika\n34\nStrijkovskis prie nukautų tos \napsupties metu priskiria Nariman­\ntą, įdėdamas šį D 1  u g o š o prasi­\nmanytą pasakojimą: „Narimantas, \nPinsko kunigaikštis, Jogailos tikras \nbrolis, tuo metu, kai narsiai abi pilis \nsu Lietuva ir Rusia gindamas ėjo į \npagalbą nuo vienų prie kitų, buvo \nkažkokio vokiečio riterio, ne pras­\nčioko, iš Vytauto pusės, iškviestas \nstoti vienas prieš vieną, o kai abu iš \nmūšio lauko atjoję į pievą narsiai su­\nkryžiavo ietis, ir pats Narimantas, \nnuo žirgo nublokštas, buvo sučiup­\ntas ir atvestas pas Vytautą, pastara­\nsis aną be gailesčio įsakė už kojų ant \nvinkšnos šakos pakarti lankoje, tarp \nvokiečių patrankų ir šaudyklių, o \npatį mirtinai iš lanko paleista strėle \npervėrė, pamindamas deramas pus­\nbroliui, riteriui kunigaikščiui, prie­\ndermes/7  Knyga XIII, p. 455, Varš. \nleid."
+  citata_rodoma: |
+    Šitaip Kryžiuočių ordino kruvina politika
+    34
+    Strijkovskis prie nukautų tos
+    apsupties metu priskiria Nariman­
+    tą, įdėdamas šį D 1  u g o š o prasi­
+    manytą pasakojimą: „Narimantas,
+    Pinsko kunigaikštis, Jogailos tikras
+    brolis, tuo metu, kai narsiai abi pilis
+    su Lietuva ir Rusia gindamas ėjo į
+    pagalbą nuo vienų prie kitų, buvo
+    kažkokio vokiečio riterio, ne pras­
+    čioko, iš Vytauto pusės, iškviestas
+    stoti vienas prieš vieną, o kai abu iš
+    mūšio lauko atjoję į pievą narsiai su­
+    kryžiavo ietis, ir pats Narimantas,
+    nuo žirgo nublokštas, buvo sučiup­
+    tas ir atvestas pas Vytautą, pastara­
+    sis aną be gailesčio įsakė už kojų ant
+    vinkšnos šakos pakarti lankoje, tarp
+    vokiečių patrankų ir šaudyklių, o
+    patį mirtinai iš lanko paleista strėle
+    pervėrė, pamindamas deramas pus­
+    broliui, riteriui kunigaikščiui, prie­
+    dermes/7  Knyga XIII, p. 455, Varš.
+    leid.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1169,7 +1224,20 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     me, esą turėjęs savo dukterį Sofiją
     ištekinti už Mazovijos didžiojo ku­
     nigaikščio.
-  citata_rodoma: "F o i g t a s, \nV, 534. Strijkovskis ir Koj e- \n1  a v i č i u s apie tą gudrybę pana­\nšiai mena, pridurdami, kad Vytau­\ntas paleidęs gandą, esą atvykęs į Vil­\nnių rengti savo sesers Ringailės \nvestuvių su Mazovijos kunigaikščiu \nHenriku iškilmių, kas panašiau į tie­\nsą negu tai, apie ką bylojäma aukš­\nčiau nurodytame vokiečių aprašy­\nme, esą turėjęs savo dukterį Sofiją\ništekinti už Mazovijos didžiojo ku­\nnigaikščio."
+  citata_rodoma: |
+    F o i g t a s,
+    V, 534. Strijkovskis ir Koj e-
+    1  a v i č i u s apie tą gudrybę pana­
+    šiai mena, pridurdami, kad Vytau­
+    tas paleidęs gandą, esą atvykęs į Vil­
+    nių rengti savo sesers Ringailės
+    vestuvių su Mazovijos kunigaikščiu
+    Henriku iškilmių, kas panašiau į tie­
+    są negu tai, apie ką bylojäma aukš­
+    čiau nurodytame vokiečių aprašy­
+    me, esą turėjęs savo dukterį Sofiją
+    ištekinti už Mazovijos didžiojo ku­
+    nigaikščio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1228,7 +1296,12 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     jų religinė raštija tikina, kad tos būtybės esančios blogesnės
     už šėtonus, be galo kenksmingos, atsiunčiančios žmonėms 70
     18 Šiame žodyne vietoj B klaidingai parašyta P.
-  citata_rodoma: "Kitaip juos vadindavo piktukais nuo Piktas', netoli\nVilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose\nvadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas\npalivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­\ndinami Purs; Strijkovskis juos vadina taip pat pigmėjais17."
+  citata_rodoma: |
+    Kitaip juos vadindavo piktukais nuo Piktas', netoli
+    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
+    vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
+    palivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­
+    dinami Purs; Strijkovskis juos vadina taip pat pigmėjais17.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1267,7 +1340,14 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
     dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
     kažkokį triukšmą ir lyg žalčių šnypštimą.
-  citata_rodoma: "Gyvatė (Giwojte)\nNuodingas šliužas. Šios rūšies būtybės buvo traktuojamos\nkaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.\nStrijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­\nno šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,\nkurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­\nriumi."
+  citata_rodoma: |
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1286,7 +1366,11 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
-  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
+  citata_rodoma: |
+    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
+    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
+    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
+    milžino išvaizdos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1313,7 +1397,21 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
     arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
     11 Sirvydo žodynas.
-  citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
+  citata_rodoma: |
+    Jau ir šiaip žinome, ir anksčiau sakėme, kad
+    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
+    8
+    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
+    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
+    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
+    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
+    430
+
+    ## Puslapis 430
+
+    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
+    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
+    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1371,7 +1469,16 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
     vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
     ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
-  citata_rodoma: "Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų. Jėzuitas\nKojai avičius*** parašė lietuvių istoriją lotynų kalba; jis\napsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius\nrėmus, ne visuomet taikliai taisydamas jo spragas.\n6\nNuo to meto nieko iš šio dalyko neišėjo ištisai: mė­\nginimai, nedidelės žinutės, studijos, prielaidų fragmentai."
+  citata_rodoma: |
+    Latvių, arba
+    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
+    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
+    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
+    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
+    rėmus, ne visuomet taikliai taisydamas jo spragas.
+    6
+    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
+    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1395,7 +1502,16 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     2 Alt und neues Preussen oder Preussische Historien, etc.
     3 Žodis „germanas“ kilęs iš Gera, senovės germanų kalba reiškia
     karį.
-  citata_rodoma: "Tam nereikia įrodymų,\nnes tai liudija minėtų kraštų istorijos. Mūsų kronikinin­\nkas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­\ntiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­\ndamasis vertais pasitikėjimo prūsų kronikų rašytojais,\nypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­\nriją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­\nsiškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur\nvėliau įsikūrė prūsai."
+  citata_rodoma: |
+    Tam nereikia įrodymų,
+    nes tai liudija minėtų kraštų istorijos. Mūsų kronikinin­
+    kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
+    tiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­
+    damasis vertais pasitikėjimo prūsų kronikų rašytojais,
+    ypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­
+    riją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­
+    siškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur
+    vėliau įsikūrė prūsai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

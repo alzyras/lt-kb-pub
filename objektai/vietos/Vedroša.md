@@ -125,7 +125,16 @@ media_all_json: |-
     tekęs sūnaus, atsisakė sunkių karvedžio pareigų, visi
     šie pasikeitimai ir sužadino Ivanui viltį, jog dabar su­
     silauksiąs kur kas didesnės sėkmės nei ligi šiol.
-  citata_rodoma: "Vargais negalais abi pusės sutarė dėl šešerių\nmetų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­\ngomis. Pavyko atgauti vieną kitą nereikšmingą pilį,\nbet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa­\ngaliau didikų, prie Vedrošos paimtų į nelaisvę, kurie\npasiliko Maskvos rankose. Derantis dėl Livonijos, var­\ngais negalais pavyko pasiekti, kad Naugardo ir Psko­\nvo vaivadoms buvo įsakyta tartis su magistro atsto­\nvais dėl taikos."
+  citata_rodoma: |
+    Vargais negalais abi pusės sutarė dėl šešerių
+    metų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­
+    gomis. Pavyko atgauti vieną kitą nereikšmingą pilį,
+    bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa­
+    galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie
+    pasiliko Maskvos rankose. Derantis dėl Livonijos, var­
+    gais negalais pavyko pasiekti, kad Naugardo ir Psko­
+    vo vaivadoms buvo įsakyta tartis su magistro atsto­
+    vais dėl taikos.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -156,7 +165,16 @@ media_all_json: |-
     M a sk v o s
     k u n ig a ik š-
     vyrus atgal pas karalių.
-  citata_rodoma: "Štai todėl Jonui Sapiegai, val­\ndančiam karaliaus vardu Vi-\nT a ik a  su  m a sk v ė n a is\ntebską, buvo pavesta susitar­\nti su kunigaikščio Vasilijaus\npasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip. Ir\nviena, ir kita šalis be jokių išlygų paleisianti į laisvę\nbelaisvius, pirmiausia tuos, kurie paimti prie Vedro-\nšos."
+  citata_rodoma: |
+    Štai todėl Jonui Sapiegai, val­
+    dančiam karaliaus vardu Vi-
+    T a ik a  su  m a sk v ė n a is
+    tebską, buvo pavesta susitar­
+    ti su kunigaikščio Vasilijaus
+    pasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip. Ir
+    viena, ir kita šalis be jokių išlygų paleisianti į laisvę
+    belaisvius, pirmiausia tuos, kurie paimti prie Vedro-
+    šos.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

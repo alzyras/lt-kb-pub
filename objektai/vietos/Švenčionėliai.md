@@ -79,7 +79,11 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 
     batalionai iki vakaro ginasi ties Merkiu prieš dvi lenkų bri-
     gadas, galiausiai atsitraukia į pietines Vilniaus prieigas.
-  citata_rodoma: "(3 Spalio 17 d. lenkai puola, užima Švenčionėlius, tačiau\n\nbatalionai iki vakaro ginasi ties Merkiu prieš dvi lenkų bri-\ngadas, galiausiai atsitraukia į pietines Vilniaus prieigas."
+  citata_rodoma: |
+    (3 Spalio 17 d. lenkai puola, užima Švenčionėlius, tačiau
+
+    batalionai iki vakaro ginasi ties Merkiu prieš dvi lenkų bri-
+    gadas, galiausiai atsitraukia į pietines Vilniaus prieigas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -103,7 +107,12 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
     Dubingių-Švenčionėlių linijoje.
 
     artilerijos baterija.
-  citata_rodoma: "Frontas nusistovėjo Kernavės-\nMusninkų-Širvintų- Giedraičių\nDubingių-Švenčionėlių linijoje.\n\nartilerijos baterija."
+  citata_rodoma: |
+    Frontas nusistovėjo Kernavės-
+    Musninkų-Širvintų- Giedraičių
+    Dubingių-Švenčionėlių linijoje.
+
+    artilerijos baterija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

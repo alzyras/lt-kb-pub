@@ -103,7 +103,16 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
     Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
     ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje
     pat vietoje pastatydino kitą pilį tuo pat vardu404.
-  citata_rodoma: "Apie tai, kaip buvo atkeršyta už šį sukilimą\n\n   Šitai sužinoję, magistras ir broliai, subūrę didelę kariuomenę, šventųjų apaštalų Petro\nir Povilo dieną (birželio 29) įsiveržė į Pomeranijos žemę netoli Nojenburgo pilies, o vėliau,\nrudenį,— netoli Dirsovijos miesto bei pilies402 ir nusiaubė abiejų pilių apylinkes ugnimi,\n\n  399 Brandenburgo pilis pastatyta Pokarviuose (žr. paaiškinimus D. III, 91, 3; be to,\nHennenberger C, Erclerung.., p. 33) prie Aismarių, deš. Frišingo (dab. Prochladnaja)\nžiočių pusėje."
+  citata_rodoma: |
+    Apie tai, kaip buvo atkeršyta už šį sukilimą
+
+       Šitai sužinoję, magistras ir broliai, subūrę didelę kariuomenę, šventųjų apaštalų Petro
+    ir Povilo dieną (birželio 29) įsiveržė į Pomeranijos žemę netoli Nojenburgo pilies, o vėliau,
+    rudenį,— netoli Dirsovijos miesto bei pilies402 ir nusiaubė abiejų pilių apylinkes ugnimi,
+
+      399 Brandenburgo pilis pastatyta Pokarviuose (žr. paaiškinimus D. III, 91, 3; be to,
+    Hennenberger C, Erclerung.., p. 33) prie Aismarių, deš. Frišingo (dab. Prochladnaja)
+    žiočių pusėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

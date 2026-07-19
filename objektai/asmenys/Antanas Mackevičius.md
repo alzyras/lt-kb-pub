@@ -206,7 +206,12 @@ Mackevičius, vėliau K.
     įšventinimo apeigas. Stovykloje veikė karo
     lauko ligoninė, mokymai vyko lietuviškai,
     komandos buvo duodamos lietuvių kalba.
-  citata_rodoma: "Kunigas A. Mackevičius\nstovykloje laikė mišias, atlikinėjo naujokų\nįšventinimo apeigas. Stovykloje veikė karo\nlauko ligoninė, mokymai vyko lietuviškai,\nkomandos buvo duodamos lietuvių kalba."
+  citata_rodoma: |
+    Kunigas A. Mackevičius
+    stovykloje laikė mišias, atlikinėjo naujokų
+    įšventinimo apeigas. Stovykloje veikė karo
+    lauko ligoninė, mokymai vyko lietuviškai,
+    komandos buvo duodamos lietuvių kalba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -224,7 +229,12 @@ Mackevičius, vėliau K.
 
     ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
     lius Lietuvius!“
-  citata_rodoma: "Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-\nmenė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:\n\n~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-\nlius Lietuvius!"
+  citata_rodoma: |
+    Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
+    menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
+
+    ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
+    lius Lietuvius!
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -247,7 +257,12 @@ Mackevičius, vėliau K.
     Genujos-Cuneo karo mokyklos, ruošusios
     karininkus partizaninei kovai, absolven-
     tui B. Kolyškai.
-  citata_rodoma: "Vienai kolonai\npavedė vadovauti A. Mackevičių, kitą —\nGenujos-Cuneo karo mokyklos, ruošusios\nkarininkus partizaninei kovai, absolven-\ntui B. Kolyškai."
+  citata_rodoma: |
+    Vienai kolonai
+    pavedė vadovauti A. Mackevičių, kitą —
+    Genujos-Cuneo karo mokyklos, ruošusios
+    karininkus partizaninei kovai, absolven-
+    tui B. Kolyškai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -270,7 +285,14 @@ Mackevičius, vėliau K.
     sukilėliai ilgą laiką atmušinėjo rusų karių
     atakas, tačiau po kiek laiko puolantieji pra-
     laužė kairįjį gynėjų sparną.
-  citata_rodoma: "A. Mackevičiui nepavyko\ntinkamai išdėstyti gynybai savo šaulių,\nklampioje vietovėje sukilėlių kavalerija\nbuvo neveiksminga. Narsiai kaudamiesi\nsukilėliai ilgą laiką atmušinėjo rusų karių\natakas, tačiau po kiek laiko puolantieji pra-\nlaužė kairįjį gynėjų sparną."
+  citata_rodoma: |
+    A. Mackevičiui nepavyko
+    tinkamai išdėstyti gynybai savo šaulių,
+    klampioje vietovėje sukilėlių kavalerija
+    buvo neveiksminga. Narsiai kaudamiesi
+    sukilėliai ilgą laiką atmušinėjo rusų karių
+    atakas, tačiau po kiek laiko puolantieji pra-
+    laužė kairįjį gynėjų sparną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -293,7 +315,15 @@ Mackevičius, vėliau K.
 
     Kautynės Biržų girioje buvo didžiau-
     sios per visą 1863-1864 m. sukilimą.
-  citata_rodoma: "A. Mackevičiui pavyko suburti\nišsklaidytus sukilėlius ir išvesti pro Rusijos\nkariuomenės apsupimą į Vidurio Lietuvą.\n\nMūšio pasekmės\n\nKautynės Biržų girioje buvo didžiau-\nsios per visą 1863-1864 m."
+  citata_rodoma: |
+    A. Mackevičiui pavyko suburti
+    išsklaidytus sukilėlius ir išvesti pro Rusijos
+    kariuomenės apsupimą į Vidurio Lietuvą.
+
+    Mūšio pasekmės
+
+    Kautynės Biržų girioje buvo didžiau-
+    sios per visą 1863-1864 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -319,7 +349,13 @@ Mackevičius, vėliau K.
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
     109
     nas Mackevičius.
-  citata_rodoma: "Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) \nsukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-\n\n3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )\n109\nnas Mackevičius."
+  citata_rodoma: |
+    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
+    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    109
+    nas Mackevičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -194,7 +194,10 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
     95.
-  citata_rodoma: "1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442)."
+  citata_rodoma: |
+    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
+    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -214,7 +217,13 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
     karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
     Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
       599 D.— Dunemunde; vėliau vok.
-  citata_rodoma: "Apie Albrechto, Romos karaliaus, nužudymą\n\n  1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos\nkaralių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs\nAustrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.\n  599 D."
+  citata_rodoma: |
+    Apie Albrechto, Romos karaliaus, nužudymą
+
+      1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
+    karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
+    Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
+      599 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -234,7 +243,13 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
     karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227),
     šitaip Čekijos sostas, kuris neturėjo įpėdinių, atiteko svetimiesiems, nes Romos karalius
     Albrechtas į minėtąjį sostą pakėlė savo sūnų.
-  citata_rodoma: "Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems\n\n  1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas\nkaraliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227),\nšitaip Čekijos sostas, kuris neturėjo įpėdinių, atiteko svetimiesiems, nes Romos karalius\nAlbrechtas į minėtąjį sostą pakėlė savo sūnų."
+  citata_rodoma: |
+    Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
+
+      1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas
+    karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227),
+    šitaip Čekijos sostas, kuris neturėjo įpėdinių, atiteko svetimiesiems, nes Romos karalius
+    Albrechtas į minėtąjį sostą pakėlė savo sūnų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

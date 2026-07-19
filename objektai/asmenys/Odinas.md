@@ -139,7 +139,17 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
     vių, kai, kaip reikia manyti, padaugėjo šiuo verslu užsi­
     imančių žmonių, gotai labiau panoro plėšti turtų prikrau­
     tus laivus ir turtingas pakrančių gyvenamąsias vietoves.
-  citata_rodoma: "85\n\n## Puslapis 83\n\nrnėgio, juos derėtų vadinti pirmaisiais Siaurės didvyriais.\nTurbūt jų šlovė keltų kartose pelnė jiems pravardę Goti,\no tai reiškia Dievą; tačiau iš pradžių jie turėjo vadintis\nWod, tai yra Vodino, arba Odino, bičiulis1. Jų karingu­\nmas buvo taip susipynęs su žiaurumu, kad jų vardas tapo\npasaulio siaubu ir dangaus rykšte."
+  citata_rodoma: |
+    85
+
+    ## Puslapis 83
+
+    rnėgio, juos derėtų vadinti pirmaisiais Siaurės didvyriais.
+    Turbūt jų šlovė keltų kartose pelnė jiems pravardę Goti,
+    o tai reiškia Dievą; tačiau iš pradžių jie turėjo vadintis
+    Wod, tai yra Vodino, arba Odino, bičiulis1. Jų karingu­
+    mas buvo taip susipynęs su žiaurumu, kad jų vardas tapo
+    pasaulio siaubu ir dangaus rykšte.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

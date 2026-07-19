@@ -57,7 +57,10 @@ Avižonis : Vosylius I, LE, t.
     (^4) **K. Avižonis :** **_Vosylius I,_** **LE, t. 34, 539-541 p.**
     (^5) **PSRL, 8, 91 p. — Plg. KolLJ, I, 140 p.; Ig. Jonynas :** **_Vytauto
     šeimyna.
-  citata_rodoma: "**\n(^4) **K. Avižonis :** **_Vosylius I,_** **LE, t. 34, 539-541 p.**\n(^5) **PSRL, 8, 91 p."
+  citata_rodoma: |
+    **
+    (^4) **K. Avižonis :** **_Vosylius I,_** **LE, t. 34, 539-541 p.**
+    (^5) **PSRL, 8, 91 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

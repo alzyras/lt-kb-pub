@@ -78,12 +78,17 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Pats žodžiu vertimas padarytas gana atsargiai. Autoriaus su­
+    Autoriaus su­
     naudota žodžiams aiškinti daugybė lietuvišku raštų (Širvydo, Kur­
     šaičio, Daukšos, Duonelaičio, Daukanto, Žemaitės, J. Jablonskio, K.
     Būgos raštai ir k. k.). Rusiškiems žodžiams nustatyti naudotasi
     garsaus rusiškos kalbos mokovo Dalio žodynu.
-  citata_rodoma: "Autoriaus su­\nnaudota žodžiams aiškinti daugybė lietuvišku raštų (Širvydo, Kur­\nšaičio, Daukšos, Duonelaičio, Daukanto, Žemaitės, J. Jablonskio, K.\nBūgos raštai ir k. k.). Rusiškiems žodžiams nustatyti naudotasi\ngarsaus rusiškos kalbos mokovo Dalio žodynu."
+  citata_rodoma: |
+    Autoriaus su­
+    naudota žodžiams aiškinti daugybė lietuvišku raštų (Širvydo, Kur­
+    šaičio, Daukšos, Duonelaičio, Daukanto, Žemaitės, J. Jablonskio, K.
+    Būgos raštai ir k. k.). Rusiškiems žodžiams nustatyti naudotasi
+    garsaus rusiškos kalbos mokovo Dalio žodynu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

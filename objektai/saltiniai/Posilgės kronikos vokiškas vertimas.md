@@ -55,7 +55,9 @@ Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten,
     12, 18, 22, 43). XV a. vokiškame rankraštyje — Ragnith (SRP,
     2, p. 709). XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu
     parašytos Posilgės kronikos vokiškame vertime — Rangnith (SRP, 3, p. 131).
-  citata_rodoma: "XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu\nparašytos Posilgės kronikos vokiškame vertime — Rangnith (SRP, 3, p. 131)."
+  citata_rodoma: |
+    XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu
+    parašytos Posilgės kronikos vokiškame vertime — Rangnith (SRP, 3, p. 131).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -87,7 +87,11 @@ Nenurodyta
     svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
     tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
     pat išliko iki pat nepriklausomybės pabaigos.
-  citata_rodoma: "Vyriausiojo Lietuvos tribunolo reikalas buvo\nsvarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-\ntinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks\npat išliko iki pat nepriklausomybės pabaigos."
+  citata_rodoma: |
+    Vyriausiojo Lietuvos tribunolo reikalas buvo
+    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
+    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
+    pat išliko iki pat nepriklausomybės pabaigos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

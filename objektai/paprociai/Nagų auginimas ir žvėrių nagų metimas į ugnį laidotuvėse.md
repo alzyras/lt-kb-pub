@@ -66,10 +66,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pagal jų nuomonę į dangų eiti ir doriesiems reikią per didžiai aukštą ir žiaurų kalną ropoti į
-        aukštybes, todėl, idant lengviau tenai galėtų įlipti, numirėlius degindami, mėčioję į ugnį meškos
-        ir lūšies nagus, kiti prieš smertį patys nagų savo nepjaustę ir auginę, idant turėtų kuo įsikibti
-        lipdami ir pasiilsėti galėtų.
-  citata_rodoma: "Pagal jų nuomonę į dangų eiti ir doriesiems reikią per didžiai aukštą ir žiaurų kalną ropoti į\naukštybes, todėl, idant lengviau tenai galėtų įlipti, numirėlius degindami, mėčioję į ugnį meškos\nir lūšies nagus, kiti prieš smertį patys nagų savo nepjaustę ir auginę, idant turėtų kuo įsikibti\nlipdami ir pasiilsėti galėtų."
+    aukštybes, todėl, idant lengviau tenai galėtų įlipti, numirėlius degindami, mėčioję į ugnį meškos
+    ir lūšies nagus, kiti prieš smertį patys nagų savo nepjaustę ir auginę, idant turėtų kuo įsikibti
+    lipdami ir pasiilsėti galėtų.
+  citata_rodoma: |
+    Pagal jų nuomonę į dangų eiti ir doriesiems reikią per didžiai aukštą ir žiaurų kalną ropoti į
+    aukštybes, todėl, idant lengviau tenai galėtų įlipti, numirėlius degindami, mėčioję į ugnį meškos
+    ir lūšies nagus, kiti prieš smertį patys nagų savo nepjaustę ir auginę, idant turėtų kuo įsikibti
+    lipdami ir pasiilsėti galėtų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

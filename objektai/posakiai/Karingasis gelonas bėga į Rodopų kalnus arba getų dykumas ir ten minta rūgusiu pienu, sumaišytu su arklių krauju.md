@@ -78,7 +78,10 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
     gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
     gasis gelonas bėga į Rodopų kalnus arba getų dykumas
     ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
-  citata_rodoma: "Vergilijus apie tokį kumelės pieno vartojimą rašė: „Karin­\n  gasis gelonas bėga į Rodopų kalnus arba getų dykumas\n  ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4."
+  citata_rodoma: |
+    Vergilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
+      gasis gelonas bėga į Rodopų kalnus arba getų dykumas
+      ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

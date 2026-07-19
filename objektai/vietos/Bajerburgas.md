@@ -256,7 +256,13 @@ media_all_json: |-
     upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti,
     ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti
     sostine Lietuvos, kurią svajota greit nukariauti.
-  citata_rodoma: "Apsaugoti toli\nlietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto\ntada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie\nupelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti,\nilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti\nsostine Lietuvos, kurią svajota greit nukariauti."
+  citata_rodoma: |
+    Apsaugoti toli
+    lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto
+    tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie
+    upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti,
+    ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti
+    sostine Lietuvos, kurią svajota greit nukariauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -295,7 +301,11 @@ media_all_json: |-
     nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
     susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
     dėlto atsiuntė savo brolį Kaributą pagalbon.
-  citata_rodoma: "Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­\nnešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra\nsusimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis\ndėlto atsiuntė savo brolį Kaributą pagalbon."
+  citata_rodoma: |
+    Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
+    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
+    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
+    dėlto atsiuntė savo brolį Kaributą pagalbon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

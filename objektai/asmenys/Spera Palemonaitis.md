@@ -88,7 +88,16 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
     ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
     nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
     (Betygola) pavadinimas.
-  citata_rodoma: "219\n\n## Puslapis 219\n\nbai“. Šitas neįkainojamas mūsų senovės paminklas -  tai įrody­\nmas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­\nlingas žmogus, nes kaldino auksinius medalius. Tiktai kyla klau­\nsimas: ar XI amžiuje, kuriame gyveno Spera, egzistavo biar-\nmiškasis raidynas?"
+  citata_rodoma: |
+    219
+
+    ## Puslapis 219
+
+    bai“. Šitas neįkainojamas mūsų senovės paminklas -  tai įrody­
+    mas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­
+    lingas žmogus, nes kaldino auksinius medalius. Tiktai kyla klau­
+    simas: ar XI amžiuje, kuriame gyveno Spera, egzistavo biar-
+    miškasis raidynas?
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

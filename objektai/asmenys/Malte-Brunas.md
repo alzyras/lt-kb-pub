@@ -47,7 +47,6 @@ Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174176
 
 <a id="claim-t-197775"></a>
 - t-002
@@ -81,5 +80,4 @@ Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191294
     - t-197775

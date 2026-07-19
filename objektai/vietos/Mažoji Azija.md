@@ -164,7 +164,10 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     atskirą valstybę. Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė
     ordino dalis. Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
     lančiais pagonimis kumanais.
-  citata_rodoma: "Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė\nordino dalis. Į Vengriją ordinas buvo pakviestas kariauti su ją puo-\nlančiais pagonimis kumanais."
+  citata_rodoma: |
+    Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė
+    ordino dalis. Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
+    lančiais pagonimis kumanais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -181,7 +184,10 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     mas ir labai greit pralobo. Jis įsigijo daugybę turtų ne tik Mažojoj
     Azijoj, bet ir Europoj. Krikščionių būklė Mažojoj Azijoj buvo labai
     netikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj.
-  citata_rodoma: "Jis įsigijo daugybę turtų ne tik Mažojoj\nAzijoj, bet ir Europoj. Krikščionių būklė Mažojoj Azijoj buvo labai\nnetikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj."
+  citata_rodoma: |
+    Jis įsigijo daugybę turtų ne tik Mažojoj
+    Azijoj, bet ir Europoj. Krikščionių būklė Mažojoj Azijoj buvo labai
+    netikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

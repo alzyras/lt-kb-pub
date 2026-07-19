@@ -212,7 +212,11 @@ Nenurodyta
     pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
     klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
     tas 1579 m.).
-  citata_rodoma: "Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi\npakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-\nklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-\ntas 1579 m.)."
+  citata_rodoma: |
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -232,7 +236,12 @@ Nenurodyta
     reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją.
-  citata_rodoma: "Aišku, aukštosios mokyklos poreikis brendo visuo-\nmenėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-\nreformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas\nValerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-\nmui įkurti kolegiją."
+  citata_rodoma: |
+    Aišku, aukštosios mokyklos poreikis brendo visuo-
+    menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
+    reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
+    Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
+    mui įkurti kolegiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -256,7 +265,12 @@ Nenurodyta
     universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
     šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
     praėjus 400 metų po krikšto.
-  citata_rodoma: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus\nuniversitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem\nšimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –\npraėjus 400 metų po krikšto."
+  citata_rodoma: |
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
+    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
+    šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
+    praėjus 400 metų po krikšto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

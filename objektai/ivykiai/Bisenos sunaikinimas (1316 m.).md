@@ -143,7 +143,14 @@ Pilis sudeginta ir liko apleista.
     du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
     broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
     pilis paliko apleista po šiai dienai.
-  citata_rodoma: "Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš\nAltenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės\nginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi\nčia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę\ndu ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to\nbroliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip\npilis paliko apleista po šiai dienai."
+  citata_rodoma: |
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
+    Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
+    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
+    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
+    pilis paliko apleista po šiai dienai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -154,7 +154,13 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
     nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
     mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
     rybė moka daryti stebuklus lengvatikių akyse.
-  citata_rodoma: "Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­\nkė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai \nprisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada \nnelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja- \nmi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­\nrybė moka daryti stebuklus lengvatikių akyse."
+  citata_rodoma: |
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
+    rybė moka daryti stebuklus lengvatikių akyse.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -178,7 +184,14 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
     Rungis (Rungis)
     Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
     dų ir malant pripila.
-  citata_rodoma: "Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­\nmatomas užpuola miegančias moteris, kitą kartą prijaukintas\npasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­\nda į klėtis, senoms, taupioms šeimininkėms išneša grietinę,\nduoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­\nterims arba mergaitėms, duoda net pinigų. Moteris, suviliota\nšios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės."
+  citata_rodoma: |
+    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
+    matomas užpuola miegančias moteris, kitą kartą prijaukintas
+    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
+    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
+    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
+    terims arba mergaitėms, duoda net pinigų. Moteris, suviliota
+    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -74,7 +74,8 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
     rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
     teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
     kariuomenių kontroliuojamoje zonoje.
-  citata_rodoma: "teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos"
+  citata_rodoma: |
+    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

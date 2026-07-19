@@ -98,7 +98,9 @@ Nenurodyta
     priklausė pagrindiniams dievams ir iš jų buvo žemiausias, ka­
     dangi valdė žemės elementą. Jo valdžioje buvo visa, kas val­
     goma, ko reikėjo gyvoms būtybėms išsimaitinti.
-  citata_rodoma: "Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir\narklio."
+  citata_rodoma: |
+    Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir
+    arklio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

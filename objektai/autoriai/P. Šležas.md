@@ -144,7 +144,20 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     cijas, ar joms užsienio archyvuose rinko medžiagą (J. Deveikė-
     Navakienė, V. Trumpa). Lietuvos istorikų eiles papildė užsienyje
     iš Lietuvos istorijos savo disertacijas rašiusieji (M. Krasauskaitė,
-  citata_rodoma: "Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos\ndirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji\nKauno universiteto auklėtiniai, pirmiausia išdrįsę duoti kolektyvi­\nnes monografijas apie Vytautą D. (red. P. Šležas, 1930), Jogailą\n(1935) ir stambią Lietuvos istoriją (red. A. Šapoka, 1936). Gera\ndalis tu istorikų išėjo į vieno, ar antro fakulteto dėstytojus (K.\nAvižonis, Z. Ivinskis, J. Jakštas, J. Matusas, S. Sužiedėlis, Ad.\nŠapoka). Kiti reiškėsi savo raštais ir periodikoje būdami istorijos\nmokytojais gimnazijose (V. Daugirdaitė-Sruogienė, A. Kučinskas,\nP. Pakarklis, P. Šležas, P. Štuopis; o dar kiti ruošė savo diserta­\ncijas, ar joms užsienio archyvuose rinko medžiagą (J. Deveikė-\nNavakienė, V. Trumpa). Lietuvos istorikų eiles papildė užsienyje\niš Lietuvos istorijos savo disertacijas rašiusieji (M."
+  citata_rodoma: |
+    Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
+    dirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji
+    Kauno universiteto auklėtiniai, pirmiausia išdrįsę duoti kolektyvi­
+    nes monografijas apie Vytautą D. (red. P. Šležas, 1930), Jogailą
+    (1935) ir stambią Lietuvos istoriją (red. A. Šapoka, 1936). Gera
+    dalis tu istorikų išėjo į vieno, ar antro fakulteto dėstytojus (K.
+    Avižonis, Z. Ivinskis, J. Jakštas, J. Matusas, S. Sužiedėlis, Ad.
+    Šapoka). Kiti reiškėsi savo raštais ir periodikoje būdami istorijos
+    mokytojais gimnazijose (V. Daugirdaitė-Sruogienė, A. Kučinskas,
+    P. Pakarklis, P. Šležas, P. Štuopis; o dar kiti ruošė savo diserta­
+    cijas, ar joms užsienio archyvuose rinko medžiagą (J. Deveikė-
+    Navakienė, V. Trumpa). Lietuvos istorikų eiles papildė užsienyje
+    iš Lietuvos istorijos savo disertacijas rašiusieji (M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +176,10 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
     schichte, t. 10, 1928, 357-368 p.
-  citata_rodoma: "— Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­\nker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-\nschichte, t. 10, 1928, 357-368 p."
+  citata_rodoma: |
+    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
+    ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
+    schichte, t. 10, 1928, 357-368 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

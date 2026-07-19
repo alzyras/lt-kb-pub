@@ -82,7 +82,14 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
     niaus vyskupas Bžostovskis, atsisakydamas klausyti Gniezno
     arkivyskupo (tais laikais rzeczpospolitos primo) juridiškai buvo
     visiškai teisus.
-  citata_rodoma: "Vėliau Lietuvos metropolitu pradė­\njo skaitytis Gniezno arkivyskupas, bet iš tikro nei Vytauto\nlaikais, nei kada nors vėliau Lietuvos bažnyčia tai metropolijai\nformališkai priskirta nebuvo^2 ). Dėl to tai XVII amž. gale Vil­\nniaus vyskupas Bžostovskis, atsisakydamas klausyti Gniezno\narkivyskupo (tais laikais rzeczpospolitos primo) juridiškai buvo\nvisiškai teisus."
+  citata_rodoma: |
+    Vėliau Lietuvos metropolitu pradė­
+    jo skaitytis Gniezno arkivyskupas, bet iš tikro nei Vytauto
+    laikais, nei kada nors vėliau Lietuvos bažnyčia tai metropolijai
+    formališkai priskirta nebuvo^2 ). Dėl to tai XVII amž. gale Vil­
+    niaus vyskupas Bžostovskis, atsisakydamas klausyti Gniezno
+    arkivyskupo (tais laikais rzeczpospolitos primo) juridiškai buvo
+    visiškai teisus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

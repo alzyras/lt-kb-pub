@@ -49,7 +49,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172937
+    - c-172938
 
 <a id="claim-t-190055"></a>
 - t-002
@@ -126,7 +126,6 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190054
     - t-197430
 - id: c-172938
   autorius: "Teodoras Narbutas"
@@ -144,13 +143,22 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
     beveik visiškai atvirą; kaimiečiai tuos kapus priskiria stabmel­
     dystės laikams; pasakoja, kad, prie skeletų būdavo randama
     labai senų pinigų ir visokių metalo gabalų.
-  citata_rodoma: "Statinio viduje paprastai stovi maži mo­\nliniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­\nna pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų\narba jūros bangų nutrintų akmenukų, kuriems dievobaimingi\nžmonės priskiria kažkokią šventumo ypatybe5.\n3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man\npasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­\nrius*."
+  citata_rodoma: |
+    Statinio viduje paprastai stovi maži mo­
+    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
+    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
+    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
+    žmonės priskiria kažkokią šventumo ypatybe5.
+    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
+    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
+    rius*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-190054
     - t-190055
 - id: c-184111
   autorius: "Mikalojus Vorobjovas"

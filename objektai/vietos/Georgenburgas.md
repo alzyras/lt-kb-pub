@@ -157,7 +157,17 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
     bet vėliau, Durbės mūšio išvakarėse, prie
     Vartajų, Georgenburgo ir pačiame mū-
     šyje — tik lietuvius arba „pagonis“.
-  citata_rodoma: "Vokiečiai siekė išsau-\ngoti lietuvių blokuojamą Georgenburgą\n(Jurbarką), būrė dideles pajėgas Klaipė-\ndoje, rengdamiesi dideliam puolimui, kuris\ngaliausiai baigėsi mūšiu prie Durbės.\n\nLietuvių pajėgos\n\nEiliuota Livonijos kronika, aprašydama\nSkuodo mūšį (1259 m."
+  citata_rodoma: |
+    Vokiečiai siekė išsau-
+    goti lietuvių blokuojamą Georgenburgą
+    (Jurbarką), būrė dideles pajėgas Klaipė-
+    doje, rengdamiesi dideliam puolimui, kuris
+    galiausiai baigėsi mūšiu prie Durbės.
+
+    Lietuvių pajėgos
+
+    Eiliuota Livonijos kronika, aprašydama
+    Skuodo mūšį (1259 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

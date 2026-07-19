@@ -121,7 +121,20 @@ Nenurodyta
     tuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo
     aptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­
     cheologinių radinių ir meno kolekcijos.
-  citata_rodoma: "Iš \ntiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet \nveikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­\nvo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­\nčių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių \ntautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­\nieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo \nformos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­\nmą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais \nmetais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis. Lie­\ntuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo \naptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­\ncheologinių radinių ir meno kolekcijos."
+  citata_rodoma: |
+    Iš
+    tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet
+    veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­
+    vo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
+    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
+    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
+    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
+    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
+    mą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
+    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis. Lie­
+    tuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo
+    aptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­
+    cheologinių radinių ir meno kolekcijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,30 @@ Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo įrengtas prie eže
     bunkerio vidų
 
     244 ŠIMONIŲ GIRIOS APGULTIS 1949 m. lapkričio 1-3 d.
-  citata_rodoma: "Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo\nįrengtas prie ežero melduose, ir ten išdėstė savo kareivius,\ntokiu būdu nepalikdami jokių vilčių partizanams atsitraukti\n\nMūšis\n\n1949 m. lapkričio 1 d. Šimonių girioje, prie\nPriepado ež., MGB 298-ojo šaulių pulko\n3-iojo bataliono kareivių apsupti bunkeryje\npo atkaklios kovos žuvo 7 partizanai: Julius\nBurneika- Tardytojas (apygardos vado adju-\ntantas), Jonas Liesys-Algis (buvęs Prisikėlimo\napygardos vado adjutantas), Aleksas Matelis-\nAudenis (apygardos organizacinio sk. virši-\nninkas), Albinas Pajarskas-Bebas (Algimanto\napygardos štabo viršininkas), Antanas Star-\nkus-Montė (Algimanto apygardos vadas),\n\n“Rust kareiviai lenda\n“| įsusprogdinto\nbunkerio vidų\n\n244 ŠIMONIŲ GIRIOS APGULTIS 1949 m."
+  citata_rodoma: |
+    Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo
+    įrengtas prie ežero melduose, ir ten išdėstė savo kareivius,
+    tokiu būdu nepalikdami jokių vilčių partizanams atsitraukti
+
+    Mūšis
+
+    1949 m. lapkričio 1 d. Šimonių girioje, prie
+    Priepado ež., MGB 298-ojo šaulių pulko
+    3-iojo bataliono kareivių apsupti bunkeryje
+    po atkaklios kovos žuvo 7 partizanai: Julius
+    Burneika- Tardytojas (apygardos vado adju-
+    tantas), Jonas Liesys-Algis (buvęs Prisikėlimo
+    apygardos vado adjutantas), Aleksas Matelis-
+    Audenis (apygardos organizacinio sk. virši-
+    ninkas), Albinas Pajarskas-Bebas (Algimanto
+    apygardos štabo viršininkas), Antanas Star-
+    kus-Montė (Algimanto apygardos vadas),
+
+    “Rust kareiviai lenda
+    “| įsusprogdinto
+    bunkerio vidų
+
+    244 ŠIMONIŲ GIRIOS APGULTIS 1949 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

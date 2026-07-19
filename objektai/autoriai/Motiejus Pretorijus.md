@@ -199,7 +199,19 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
     nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
     tinanti kūdikį.
-  citata_rodoma: "Latviuose tai buvo žynys ir pranašautojas. Paimdavo į\nsaują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31\nVėjininkai (Wejones)\n31\nŠias penkias pranašautojų rūšis pateikia Pretorijus, remdama­\nsis savais pastebėjimais, ką buvo matęs savo akimis.\n299\n\n## Puslapis 299\n\nteliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­\nlykus, ypač apie pamestus daiktus."
+  citata_rodoma: |
+    Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
+    saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
+    Vėjininkai (Wejones)
+    31
+    Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama­
+    sis savais pastebėjimais, ką buvo matęs savo akimis.
+    299
+
+    ## Puslapis 299
+
+    teliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­
+    lykus, ypač apie pamestus daiktus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -227,7 +239,14 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
+  citata_rodoma: |
+    Daugeliu požiūrių
+    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
+    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
+    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
+    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -273,7 +292,15 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     jog ne vienai senovės prūsų kartai tenka garbė už tai,
     1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
     \Warrejas.
-  citata_rodoma: "Tai, žinoma, vien panašumai, kuriuos\npastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,\njog prūsai ir rusai iš pradžių priklausė vienai genčiai;\nvariagų vardą jis kildina iš grynai prūsiško žodžio Wa-\nrejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį\nduoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,\njog 859 metais variagai paskyrė kailių duoklę, be kitų, ir\nkrivičiams."
+  citata_rodoma: |
+    Tai, žinoma, vien panašumai, kuriuos
+    pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
+    jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
+    variagų vardą jis kildina iš grynai prūsiško žodžio Wa-
+    rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį
+    duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
+    jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
+    krivičiams.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

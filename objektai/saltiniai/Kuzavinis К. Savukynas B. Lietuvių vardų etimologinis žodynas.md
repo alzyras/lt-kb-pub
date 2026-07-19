@@ -65,7 +65,9 @@ Dusburgietis teigia, kad kuzavinis К.
     1971, p. 42—157.
     Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej
     w świetle ztotej bulli Fryderyka II z r.
-  citata_rodoma: "Kuzavinis К. Savukynas B. Lietuvių vardų etimologinis žodynas.— Vardai ir žodžiai, V.,\n1971, p. 42—157."
+  citata_rodoma: |
+    Kuzavinis К. Savukynas B. Lietuvių vardų etimologinis žodynas.— Vardai ir žodžiai, V.,
+    1971, p. 42—157.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

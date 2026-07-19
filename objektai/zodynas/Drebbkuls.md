@@ -89,7 +89,15 @@ Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu, o lia
     metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
     už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
     mą, rengdavosi naujam, doram gyvenimui.
-  citata_rodoma: "Tautų neapykanta\nyra senų pirmykščių laikų palikimas.\nLatviai šį dievą vadino Drebbkuls, kadangi jo galybei pri­\nskirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai,\nkai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka,\nkad visa dreba. Latvių žemėje žemės drebėjimai nežinomi, taigi\nšį pasakojimą šios tautos protėviai turėjo atsinešti iš šiltesnių\nkraštų; tas pasakojimas išlikęs iki šiol'."
+  citata_rodoma: |
+    Tautų neapykanta
+    yra senų pirmykščių laikų palikimas.
+    Latviai šį dievą vadino Drebbkuls, kadangi jo galybei pri­
+    skirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai,
+    kai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka,
+    kad visa dreba. Latvių žemėje žemės drebėjimai nežinomi, taigi
+    šį pasakojimą šios tautos protėviai turėjo atsinešti iš šiltesnių
+    kraštų; tas pasakojimas išlikęs iki šiol'.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -62,7 +62,13 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     Be šių Vytautui paklusnių totorių, jis turėjo jų ir tiesiog jam
     priklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,
     o kai kurie net etnografinėje Lietuvoje.
-  citata_rodoma: "Taip pat buvo jam\npaklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susitaikęs\nchanas Devletberdi, vėliau Machmeto nužudytas.\nBe šių Vytautui paklusnių totorių, jis turėjo jų ir tiesiog jam\npriklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,\no kai kurie net etnografinėje Lietuvoje."
+  citata_rodoma: |
+    Taip pat buvo jam
+    paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susitaikęs
+    chanas Devletberdi, vėliau Machmeto nužudytas.
+    Be šių Vytautui paklusnių totorių, jis turėjo jų ir tiesiog jam
+    priklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,
+    o kai kurie net etnografinėje Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

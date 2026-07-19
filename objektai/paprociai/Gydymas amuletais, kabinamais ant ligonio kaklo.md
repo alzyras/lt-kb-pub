@@ -102,7 +102,15 @@ Nenurodyta
     dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
     žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
     mi, katinu ir gyvate ir nuskandinti Nemune.
-  citata_rodoma: "Štai jų vertimas: „Einu aplink more, ¡no­\nre užkemšu, more užsikimšk, kraujau, sukepk!“\nSaitininkai (Sejtones)\nPranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,\nužkabindami ant ligonio kaklo tam tikrus amuletus' .\nKaunu Ra ugi s (žiūrėtojas į alaus ryką)\nŽiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į\ndruską."
+  citata_rodoma: |
+    Štai jų vertimas: „Einu aplink more, ¡no­
+    re užkemšu, more užsikimšk, kraujau, sukepk!“
+    Saitininkai (Sejtones)
+    Pranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,
+    užkabindami ant ligonio kaklo tam tikrus amuletus' .
+    Kaunu Ra ugi s (žiūrėtojas į alaus ryką)
+    Žiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į
+    druską.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

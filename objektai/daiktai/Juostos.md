@@ -90,7 +90,10 @@ Nenurodyta
     plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
     papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
     audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
-  citata_rodoma: "Ano laiko apyrankių ir kitų\npapuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo\naudinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų."
+  citata_rodoma: |
+    Ano laiko apyrankių ir kitų
+    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
+    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

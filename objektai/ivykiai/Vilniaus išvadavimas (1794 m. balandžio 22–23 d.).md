@@ -87,7 +87,12 @@ Nenurodyta
 
     N. Arsenjevo butas, saugomas 12 muš-
     kietininkų.
-  citata_rodoma: "Kpt. A. Nelepcos vadovaujama maždaug\n30 karių grupė puolė Pacų rūmus, kuriuose\nbuvo rusų Vilniaus įgulos vado generolo\n\nN."
+  citata_rodoma: |
+    Kpt. A. Nelepcos vadovaujama maždaug
+    30 karių grupė puolė Pacų rūmus, kuriuose
+    buvo rusų Vilniaus įgulos vado generolo
+
+    N.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

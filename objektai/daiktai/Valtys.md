@@ -218,7 +218,25 @@ Nenurodyta
     mi išsirinkto vado, persikėlė per jū­
     rą ir įsikūrė Prūsijoje, Žemaitijoje bei
     Karelijoje, tarp vietinių gyventojų.
-  citata_rodoma: "Man vis dėlto atrodo, \nkad įvykis, aprašytas Petro Olai \n„Danų kronikoje\", yra kaip tik tas, \nkuris, viena vertus, atbloškė Riuri- \nką ir jo variagus į Rusiją, kita ver­\ntus, galbūt tariamąjį Palemoną su \ndraugais - į Lietuvą. Juk šis kroniki­\nninkas pasakoja, kad apie 880 me­\ntus, viešpataujant Danijoje karaliui \nKanutui (Cnud), kai dėl pragaištingo \nnederliaus visiems gyventojams trū­\nko grūdų, buvo įsakyta kas trečią \nžmogų išvaryti iš valsčiaus visiems \nlaikams. Likimo lemties tremtiniai, \nsutelkę į draugę valtis, vadovauja­\nmi išsirinkto vado, persikėlė per jū­\nrą ir įsikūrė Prūsijoje, Žemaitijoje bei \nKarelijoje, tarp vietinių gyventojų."
+  citata_rodoma: |
+    Man vis dėlto atrodo,
+    kad įvykis, aprašytas Petro Olai
+    „Danų kronikoje", yra kaip tik tas,
+    kuris, viena vertus, atbloškė Riuri-
+    ką ir jo variagus į Rusiją, kita ver­
+    tus, galbūt tariamąjį Palemoną su
+    draugais - į Lietuvą. Juk šis kroniki­
+    ninkas pasakoja, kad apie 880 me­
+    tus, viešpataujant Danijoje karaliui
+    Kanutui (Cnud), kai dėl pragaištingo
+    nederliaus visiems gyventojams trū­
+    ko grūdų, buvo įsakyta kas trečią
+    žmogų išvaryti iš valsčiaus visiems
+    laikams. Likimo lemties tremtiniai,
+    sutelkę į draugę valtis, vadovauja­
+    mi išsirinkto vado, persikėlė per jū­
+    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
+    Karelijoje, tarp vietinių gyventojų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -243,7 +261,11 @@ Nenurodyta
     netgi nedviprasmiškai nurodo šios didelės pergalės prie­
     žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
     Onevu, perėjimą į priešo pusę.
-  citata_rodoma: "Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką."
+  citata_rodoma: |
+    Sis sutriuškinimas buvęs toks ¡baisus,
+    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
+    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
+    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -267,7 +289,8 @@ Nenurodyta
     riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
     Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
     rios, turėjusi prie Rasytės susisiekimą su jūra.
-  citata_rodoma: "Šie, susirinkę labai daug savo valčių, stojo į mūšį prie įėjimo į Rusnės įlanką."
+  citata_rodoma: |
+    Šie, susirinkę labai daug savo valčių, stojo į mūšį prie įėjimo į Rusnės įlanką.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -280,15 +303,23 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
+    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
+    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
     Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
-    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
-    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
-    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
-    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
-    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
-    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
-    Onevu, perėjimą į priešo pusę. Karalius Frotonas užėmė
-  citata_rodoma: "Danai, atplaukę su\nnedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas\nrusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.\nToji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­\nrios, turėjusi prie Rasytės susisiekimą su jūra."
+    rios, turėjusi prie Rasytės susisiekimą su jūra.
+  citata_rodoma: |
+    Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
+    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
+    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
+    rios, turėjusi prie Rasytės susisiekimą su jūra.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

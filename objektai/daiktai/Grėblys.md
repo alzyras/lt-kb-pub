@@ -81,7 +81,8 @@ Nenurodyta
     Mergaitės grebia,
     pusbernis arklius daboja, bet ir jam yra grėblys, ir jis, bedabodamas
     arklius, turi šieną grėbti.
-  citata_rodoma: "Mergaitės grebia, pusbernis arklius daboja, bet ir jam yra grėblys, ir jis, bedabodamas arklius, turi šieną grėbti."
+  citata_rodoma: |
+    Mergaitės grebia, pusbernis arklius daboja, bet ir jam yra grėblys, ir jis, bedabodamas arklius, turi šieną grėbti.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -100,7 +101,8 @@ Nenurodyta
     ir jais užvaro plaką ant galo, grėbliu stumdama. Vaikai ant galo
     irgi išmokyti priimti plaką, be to mokslo plakas suirs ir nukris vėl ant
     žemės.
-  citata_rodoma: "..., grėbliu stumdama."
+  citata_rodoma: |
+    ..., grėbliu stumdama.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas

@@ -79,7 +79,9 @@ Vartojamas kaip vardo „Vizinas“ aiškinimas ir kaip liaudiškas, dialektinis
     Kadlubeko
     lenkų
     istorijos nagrinėjimuose.
-  citata_rodoma: "1 Wizin, Vizinas lietuvių kalba, Lydos apskrityje vartojamu dia­\nlektu, reiškia šliužą, bjaurų, šliaužiojantį padarą."
+  citata_rodoma: |
+    1 Wizin, Vizinas lietuvių kalba, Lydos apskrityje vartojamu dia­
+    lektu, reiškia šliužą, bjaurų, šliaužiojantį padarą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

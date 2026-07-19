@@ -103,7 +103,15 @@ Nenurodyta
     Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
     tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
     reikalavo Odoakras.
-  citata_rodoma: "321\nNors šio valdovo valdžia buvo skirta vidinei tvarkai\nItalijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­\ntą jam reikėjo rengti karo žygius.\nBeveik tuo pat metu Norike kilo kažkokie neramumai,\nkurie ir atviliojo ten herulus. 477 metais jie sudegino gar­\nsią romėnų koloniją Juvavą prie Saurus upės — dabar\ntai Zalcburgas prie Zalcacho upės."
+  citata_rodoma: |
+    321
+    Nors šio valdovo valdžia buvo skirta vidinei tvarkai
+    Italijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­
+    tą jam reikėjo rengti karo žygius.
+    Beveik tuo pat metu Norike kilo kažkokie neramumai,
+    kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­
+    sią romėnų koloniją Juvavą prie Saurus upės — dabar
+    tai Zalcburgas prie Zalcacho upės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

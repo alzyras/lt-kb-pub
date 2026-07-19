@@ -506,7 +506,12 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
     lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
     priartėjo prie Vilniaus.
-  citata_rodoma: "Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus."
+  citata_rodoma: |
+    Nors
+    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
+    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
+    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
+    priartėjo prie Vilniaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -525,7 +530,11 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
     Ukmerge, Breslauja (Braslaw).
     Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
-  citata_rodoma: "Į jam paskirtą palyginti nedidelį žemių da­\nlinį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,\nUkmerge, Breslauja (Braslaw).\nKiti šeši Gedimino sūnus taip pat gavo savo dalis."
+  citata_rodoma: |
+    Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -547,7 +556,13 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     kius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­
     tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
     krikštyti kunigai ir vienuoliai.
-  citata_rodoma: "Čia jis aplankė didesnius Lietuvos miestelius,\nkaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,\nkur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­\nkius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­\ntas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių\nkrikštyti kunigai ir vienuoliai."
+  citata_rodoma: |
+    Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­
+    tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
+    krikštyti kunigai ir vienuoliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -570,7 +585,12 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
     kotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
     Ordino riterių kirstas pagoniškai Lietuvai.
-  citata_rodoma: "Vilnius, tiesa, turėdamas tvirtovėse labai stip­\nrias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­\nninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­\nkotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo\nOrdino riterių kirstas pagoniškai Lietuvai."
+  citata_rodoma: |
+    Vilnius, tiesa, turėdamas tvirtovėse labai stip­
+    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
+    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
+    kotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
+    Ordino riterių kirstas pagoniškai Lietuvai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -599,7 +619,20 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
     dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
     do, bus vėl patyręs nesėkmių.
-  citata_rodoma: "—  • —\n215\n\n## Puslapis 232\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\npriekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie\nrugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten\njo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-\ndo, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­\ngimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius\ndėl šių staigių permainų ir abipusių karinių gaudynių, atro­\ndo, bus vėl patyręs nesėkmių."
+  citata_rodoma: |
+    —  • —
+    215
+
+    ## Puslapis 232
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
+    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
+    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
+    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­
+    gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
+    dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
+    do, bus vėl patyręs nesėkmių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -660,7 +693,12 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
     kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
     kius juos tikėjimo tiesų, krikštijami.
-  citata_rodoma: "Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į\nrytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,\nkaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,\nkur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­\nkius juos tikėjimo tiesų, krikštijami."
+  citata_rodoma: |
+    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
+    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -717,7 +755,17 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     čiaus archyve esantis Švitrigailos
     laiškas, rašytas iš Vilniaus didžiajam
     magistrui 1432 metų sausio 5 dieną.
-  citata_rodoma: "Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­\nrėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­\ngimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­\ngarduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada\nGoštautu ir daugeliu kitų bajorų, galingos kariuomenės\n13\nTą patvirtina Slaptajame Karaliau­\nčiaus archyve esantis Švitrigailos\nlaiškas, rašytas iš Vilniaus didžiajam\nmagistrui 1432 metų sausio 5 dieną."
+  citata_rodoma: |
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -806,7 +854,11 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir
     Ašmenos. O žiemop, drauge su Polocko Andriumi, puolė Livonijos
     kryžiuočiai.
-  citata_rodoma: "Dar 1385 m. vasarą\nPrūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir\nAšmenos. O žiemop, drauge su Polocko Andriumi, puolė Livonijos\nkryžiuočiai."
+  citata_rodoma: |
+    Dar 1385 m. vasarą
+    Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir
+    Ašmenos. O žiemop, drauge su Polocko Andriumi, puolė Livonijos
+    kryžiuočiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

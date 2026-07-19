@@ -70,7 +70,12 @@ media_all_json: |-
     1635 m., tad reikėjo arba ruoš-
     tis naujam karui arba rūpintis
     pratęsti paliaubas.
-  citata_rodoma: "1629 m. padarytos\nAltmarko paliaubos baigėsi\n1635 m., tad reikėjo arba ruoš-\ntis naujam karui arba rūpintis\npratęsti paliaubas."
+  citata_rodoma: |
+    1629 m. padarytos
+    Altmarko paliaubos baigėsi
+    1635 m., tad reikėjo arba ruoš-
+    tis naujam karui arba rūpintis
+    pratęsti paliaubas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

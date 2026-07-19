@@ -117,7 +117,11 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
     sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
     tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
     čius.
-  citata_rodoma: "Jos ištakose – ir didžiau-\nsias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir \ntautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-\nčius."
+  citata_rodoma: |
+    Jos ištakose – ir didžiau-
+    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
+    tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
+    čius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +139,10 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
     1918 II 16
     Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
     vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-  citata_rodoma: "1918 II 16\t\nVokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-\nvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą."
+  citata_rodoma: |
+    1918 II 16
+    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
+    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -93,7 +93,13 @@ Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas. 1755 m. į Tomo Ignoto 
     brolis Mikalojus LDK instigatorius, Trakų ir Smolensko kaštelionai Tadas Oginskis ir
     Stanislovas Bužinskis (Stanisław Burzyński), Žemaičių vyskupas Antanas Dominykas
     Tiškevičius, „pakalbėsim dėl Čerėjos“, teigė J. D. Lopacinskis [45].
-  citata_rodoma: "1755 m. J. D. Lopacinskis laiške Anykščių ir\nPunios seniūnui Mykolui Ksaverui Sapiegai minėjo, kad į Baltarusijos sufragano Tomo\nIgnoto Zenkovičiaus (Tomasz Ignacy Zienkowicz) konsekraciją atvykę kanauninko\nbrolis Mikalojus LDK instigatorius, Trakų ir Smolensko kaštelionai Tadas Oginskis ir\nStanislovas Bužinskis (Stanisław Burzyński), Žemaičių vyskupas Antanas Dominykas\nTiškevičius, „pakalbėsim dėl Čerėjos“, teigė J. D. Lopacinskis [45]."
+  citata_rodoma: |
+    1755 m. J. D. Lopacinskis laiške Anykščių ir
+    Punios seniūnui Mykolui Ksaverui Sapiegai minėjo, kad į Baltarusijos sufragano Tomo
+    Ignoto Zenkovičiaus (Tomasz Ignacy Zienkowicz) konsekraciją atvykę kanauninko
+    brolis Mikalojus LDK instigatorius, Trakų ir Smolensko kaštelionai Tadas Oginskis ir
+    Stanislovas Bužinskis (Stanisław Burzyński), Žemaičių vyskupas Antanas Dominykas
+    Tiškevičius, „pakalbėsim dėl Čerėjos“, teigė J. D. Lopacinskis [45].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

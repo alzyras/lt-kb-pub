@@ -61,8 +61,14 @@ Majewski, W.
     ne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
     Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :
     _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
-    421 p. — (”) _Rok 1410.
-  citata_rodoma: "—\nMajewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­\nne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den\nDeutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :\n_Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-\n421 p."
+    421 p.
+  citata_rodoma: |
+    —
+    Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­
+    ne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
+    Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :
+    _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
+    421 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

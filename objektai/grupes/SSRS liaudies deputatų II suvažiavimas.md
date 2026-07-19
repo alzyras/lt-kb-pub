@@ -72,7 +72,8 @@ Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų p
     veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
     smerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padari-
     nių su Baltijos valstybių okupacija nesusiejo.
-  citata_rodoma: "veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-"
+  citata_rodoma: |
+    veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

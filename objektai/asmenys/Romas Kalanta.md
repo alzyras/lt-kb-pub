@@ -145,7 +145,10 @@ media_all_json: |-
     sakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų). Siekdama
     sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
     priežastis – sunki psichikos liga šizofrenija.
-  citata_rodoma: "Siekdama\nsumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo\npriežastis – sunki psichikos liga šizofrenija."
+  citata_rodoma: |
+    Siekdama
+    sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
+    priežastis – sunki psichikos liga šizofrenija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +167,9 @@ media_all_json: |-
     vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą.
-  citata_rodoma: "R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės\nklausimą."
+  citata_rodoma: |
+    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
+    klausimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -184,7 +189,9 @@ media_all_json: |-
     santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
     tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
-  citata_rodoma: "R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-\nformalių jaunimo grupių judėjimą."
+  citata_rodoma: |
+    R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-
+    formalių jaunimo grupių judėjimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -201,7 +208,9 @@ media_all_json: |-
     vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
-  citata_rodoma: "R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės \nklausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją."
+  citata_rodoma: |
+    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
+    klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

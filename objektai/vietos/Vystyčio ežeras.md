@@ -61,7 +61,13 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
     Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
     visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
     Šešupėn.
-  citata_rodoma: "Iš čia ji tęsėsi vėl per dykrą tiesiai\nį Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius\nir Vystyčio ežerą, kuris liko ordino pusėje.\nSūduvos dykroje toliau siena buvo nužymėta upių krantais :\nvisu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo\nŠešupėn."
+  citata_rodoma: |
+    Iš čia ji tęsėsi vėl per dykrą tiesiai
+    į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius
+    ir Vystyčio ežerą, kuris liko ordino pusėje.
+    Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
+    visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
+    Šešupėn.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

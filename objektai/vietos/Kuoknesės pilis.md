@@ -77,7 +77,13 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     pasiuntė 2400 karių, kurie turėjo prista-
     tyti apsiautusiai švedų kariuomenei maistą
     ir šaudmenis.
-  citata_rodoma: "Mūšio išvakarėse\n\n1601 m. balandžio 1 d. Švedijos kariuomenė\nšturmu užėmė Kuoknesės miestą ir apsupo\npilį, bet joje esanti lietuvių įgula nepasi-\ndavė."
+  citata_rodoma: |
+    Mūšio išvakarėse
+
+    1601 m. balandžio 1 d. Švedijos kariuomenė
+    šturmu užėmė Kuoknesės miestą ir apsupo
+    pilį, bet joje esanti lietuvių įgula nepasi-
+    davė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

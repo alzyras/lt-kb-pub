@@ -69,7 +69,9 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
     iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­
     mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­
     menės ir valstybės pradžią (LowStud).
-  citata_rodoma: "W. Kętrzyńskis atsidėjo Mindaugo\ndonacinių dokumentų klausimui^127. H."
+  citata_rodoma: |
+    W. Kętrzyńskis atsidėjo Mindaugo
+    donacinių dokumentų klausimui^127. H.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

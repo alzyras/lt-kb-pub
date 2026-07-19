@@ -67,7 +67,8 @@ media_all_json: |-
     popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
     versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-  citata_rodoma: "Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas."
+  citata_rodoma: |
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

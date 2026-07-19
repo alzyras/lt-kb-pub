@@ -204,7 +204,18 @@ Nenurodyta
     Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos
     žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus
     vadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237).
-  citata_rodoma: "Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas\nRudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo\nžmonių krito kovoje262. Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė\nmūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino\ndrabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei\nkitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų\nnamų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).\nPo to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku,\nPrūsijos žemės magistrą, su keturiasdešimt brolių  ir daugybe ginklanešių  į Livonijos\nžemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus\nvadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237)."
+  citata_rodoma: |
+    Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
+    Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
+    žmonių krito kovoje262. Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
+    mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
+    drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei
+    kitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų
+    namų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).
+    Po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku,
+    Prūsijos žemės magistrą, su keturiasdešimt brolių  ir daugybe ginklanešių  į Livonijos
+    žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus
+    vadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -237,7 +248,9 @@ Nenurodyta
     ir griebtis įvairiausių gudrybių, trokšdamas paslapčiomis suleisti savo nuodingą geluonį,
     sutrypti viešpaties vynuogyną ir viešpaties lauke prisėti raugių. Galop štai šiuo būdu jis
     sukėlė žiauriausią tikėjimo ir tikinčiųjų persekiojimą.
-  citata_rodoma: "263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.\n  264  Žr. paaiškinimus D. II, 12, 182."
+  citata_rodoma: |
+    263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
+      264  Žr. paaiškinimus D. II, 12, 182.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -255,7 +268,11 @@ Nenurodyta
     (1273—1282 m.) valdymo laikotarpiu — magistro kanceliarijoje ir jo įsakymu, juo
     siekiama įtvirtinti Ordino tradiciją tarp pačių Ordino brolių, o galbūt ir tarp atvykstančių
     talkininkų.
-  citata_rodoma: "Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė\nsu Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus\ndvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas\npo kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje."
+  citata_rodoma: |
+    Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
+    su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus
+    dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas
+    po kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -117,7 +117,14 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,
     nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
     stovie ») sritis^27.
-  citata_rodoma: "Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės\n(Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo\napgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­\ngraudą»^26. Taip pat du kartu (1292, 1294) ordino kariuomenė\npasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,\nnusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­\nstovie ») sritis^27."
+  citata_rodoma: |
+    Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
+    (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo
+    apgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­
+    graudą»^26. Taip pat du kartu (1292, 1294) ordino kariuomenė
+    pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,
+    nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
+    stovie ») sritis^27.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +143,12 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     krikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po
     10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
     pakeliui į vyr. magistro stovyklą buvo išžudyti^16.
-  citata_rodoma: "Apie Peštvės\nįgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi\nkrikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po\n10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)\npakeliui į vyr."
+  citata_rodoma: |
+    Apie Peštvės
+    įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi
+    krikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po
+    10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
+    pakeliui į vyr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +166,11 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai
     buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose
     iki Kauno nebeliko jokio lietuvių gynimosi punkto.
-  citata_rodoma: "Grįždami jie sudegino\ndar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai\nbuvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose\niki Kauno nebeliko jokio lietuvių gynimosi punkto."
+  citata_rodoma: |
+    Grįždami jie sudegino
+    dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai
+    buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose
+    iki Kauno nebeliko jokio lietuvių gynimosi punkto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

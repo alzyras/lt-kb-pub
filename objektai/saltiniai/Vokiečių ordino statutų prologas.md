@@ -127,7 +127,10 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
     2. regula (taisyklės), 3. teisė, 4. papročiai). Šios dalys buvo galutinai sujungtos prieš
     1264 m. ir pradėjo plisti rankraštiniais nuorašais. Prieš tai, apie 1245 m., parengta nauja
     regulos redakcija, kurios įvadu tapo prologas.
-  citata_rodoma: "Prologas — pirmoji, viena iš svarbiausių Vokiečių ordino statutų dalis (1. prologas,\n2. regula (taisyklės), 3. teisė, 4. papročiai). Šios dalys buvo galutinai sujungtos prieš\n1264 m. ir pradėjo plisti rankraštiniais nuorašais."
+  citata_rodoma: |
+    Prologas — pirmoji, viena iš svarbiausių Vokiečių ordino statutų dalis (1. prologas,
+    2. regula (taisyklės), 3. teisė, 4. papročiai). Šios dalys buvo galutinai sujungtos prieš
+    1264 m. ir pradėjo plisti rankraštiniais nuorašais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

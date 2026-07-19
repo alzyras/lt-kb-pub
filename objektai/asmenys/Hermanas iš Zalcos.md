@@ -476,7 +476,13 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
     ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
     dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
-  citata_rodoma: "Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė\nOrdinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,\nArmėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.\nJo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo\ngirdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno\nžmogaus pastangomis."
+  citata_rodoma: |
+    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
+    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
+    žmogaus pastangomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -501,7 +507,16 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
     jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
     kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-  citata_rodoma: "Dievas jam buvo suteikęs tokių malonių,\nkad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.\nJį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei\ndidžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo\nsavo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto\nprieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį\nšventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo\nruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl\ndažnų stebuklų, kuriuos viešpats padaro per tą kryžių."
+  citata_rodoma: |
+    Dievas jam buvo suteikęs tokių malonių,
+    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
+    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -583,7 +598,12 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
     broliais, jog nepagailėtų ir vienos akies, kad tik Ordinas jo vadovavimo metais taip
     sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių.
-  citata_rodoma: "5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą\n\n   Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,\no mirė liepos 24 dieną  ir palaidotas Barletoje158.  Jis buvo iškalbingas, mandagus,\nišmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą."
+  citata_rodoma: |
+    5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
+
+       Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
+    o mirė liepos 24 dieną  ir palaidotas Barletoje158.  Jis buvo iškalbingas, mandagus,
+    išmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -609,7 +629,20 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     155  Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje
     („Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t. 1, p. 225),
     tačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku.
-  citata_rodoma: "Apie brolį Hermaną, trečią magistrą\n\n   Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė\ngegužės 20 dieną ir palaidotas Akone157.\n\n\n\n\n               5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą\n\n   Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,\no mirė liepos 24 dieną  ir palaidotas Barletoje158.  Jis buvo iškalbingas, mandagus,\nišmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą."
+  citata_rodoma: |
+    Apie brolį Hermaną, trečią magistrą
+
+       Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė
+    gegužės 20 dieną ir palaidotas Akone157.
+
+
+
+
+                   5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
+
+       Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
+    o mirė liepos 24 dieną  ir palaidotas Barletoje158.  Jis buvo iškalbingas, mandagus,
+    išmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -688,7 +721,12 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     Turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.
     Originale vardas, matyt, buvo pažymėtas kriptonimu „H“, kurią kopijuotojas suprato
     kaip vardo „Herman“ santrumpą.
-  citata_rodoma: "procesu, kuris vyko ir Romoje, popiežiaus kurijoje,\nir Pomeranijoje, popiežiaus legato akivaizdoje.\n  Turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.\nOriginale vardas, matyt, buvo pažymėtas kriptonimu „H“, kurią kopijuotojas suprato\nkaip vardo „Herman“ santrumpą."
+  citata_rodoma: |
+    procesu, kuris vyko ir Romoje, popiežiaus kurijoje,
+    ir Pomeranijoje, popiežiaus legato akivaizdoje.
+      Turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.
+    Originale vardas, matyt, buvo pažymėtas kriptonimu „H“, kurią kopijuotojas suprato
+    kaip vardo „Herman“ santrumpą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -89,7 +89,8 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
     mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-
     na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
     sienas.
-  citata_rodoma: "na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos"
+  citata_rodoma: |
+    na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +109,8 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
     teismą paskelbti minėtus mirties nuosprendžius. Visa tai atšaldė dalį LLV
     bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
     sijos kariuomenei imtis veiksmų.
-  citata_rodoma: "teismą paskelbti minėtus mirties nuosprendžius. Visa tai atšaldė dalį LLV"
+  citata_rodoma: |
+    teismą paskelbti minėtus mirties nuosprendžius. Visa tai atšaldė dalį LLV
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

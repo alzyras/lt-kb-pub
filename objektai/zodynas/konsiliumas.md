@@ -68,7 +68,9 @@ media_all_json: |-
     vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Ja-
     me, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, ku-
     ris jau buvo spręstas Konstancos suvažiavime.
-  citata_rodoma: "Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)\nvyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas."
+  citata_rodoma: |
+    Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)
+    vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

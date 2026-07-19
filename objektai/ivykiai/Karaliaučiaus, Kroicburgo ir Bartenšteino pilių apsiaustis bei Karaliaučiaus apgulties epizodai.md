@@ -349,7 +349,12 @@ Nenurodyta
     Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
     ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
     nes būgštavo, kad dievas ant jų labai užsirūstinęs.
-  citata_rodoma: "95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji."
+  citata_rodoma: |
+    95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
+
+       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
+    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
+    tu globoji.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -398,7 +403,13 @@ Nenurodyta
     Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai
     puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar
     mirtinai sužeistaisiais.
-  citata_rodoma: "Galop aukštybių dievas atėjo jiems  į pagalbą, o kad\nšitaip buvo, neverta nė abejoti, nes žmonėms vargu ar būtų užtekę jėgų taip grumtis\nsu tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti\ntiltą bei kuorus. Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis\n  373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos\npunkto, svarbą Ordinui."
+  citata_rodoma: |
+    Galop aukštybių dievas atėjo jiems  į pagalbą, o kad
+    šitaip buvo, neverta nė abejoti, nes žmonėms vargu ar būtų užtekę jėgų taip grumtis
+    su tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti
+    tiltą bei kuorus. Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
+      373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos
+    punkto, svarbą Ordinui.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -422,7 +433,13 @@ Nenurodyta
     išsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
-  citata_rodoma: "Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,\nkad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas\nsembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,\nnežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop\npaspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai\ntrukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų."
+  citata_rodoma: |
+    Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
+    kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
+    sembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,
+    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
+    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
+    trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -446,7 +463,19 @@ Nenurodyta
     Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
     ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
     nes būgštavo, kad dievas ant jų labai užsirūstinęs.
-  citata_rodoma: "Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo\nmiestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino\njų tėvams.\n\n\n\n\n       95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji."
+  citata_rodoma: |
+    Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
+    miestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino
+    jų tėvams.
+
+
+
+
+           95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
+
+       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
+    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
+    tu globoji.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

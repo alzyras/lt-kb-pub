@@ -135,7 +135,13 @@ Nenurodyta
     Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
     tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
     nės monetos su nežinomais atvaizdais, herbais ir užrašais.
-  citata_rodoma: "Vadinasi, bu­\nvo tik Jupiteris, turėjęs antrąją ypatybę*.\nŽinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti\npiorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos\nnuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­\nse buvo žinomi Lietuvoje."
+  citata_rodoma: |
+    Vadinasi, bu­
+    vo tik Jupiteris, turėjęs antrąją ypatybę*.
+    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
+    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
+    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
+    se buvo žinomi Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -160,7 +166,14 @@ Nenurodyta
     šiomis dar perskaitomomis raidėmis: CESTIANUS; kitoje pu­
     sėje ant laidotuvinių neštuvų pavaizduotas žmogus tinkleliu už­
     dengtu veidu, o užrašo visai negalima perskaityti.
-  citata_rodoma: "Mat tais laikais bajorai, susidėję su žy­\ndais, spekuliavo pinigais, ypač lietuviškais. Tasai Petras buvo\nnepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­\nnigus, ypač perkūnus: auksą parduodavo į Olandiją, o baltąjį\nsidabrą perkaldindavo į lenkiškus pinigus, tad buvo pramintas\nPerkūnu iš Kurozvenkų. Jo išmonės lenkiškieji grašiai, turin­\ntys vos pusę vertės, buvo praminti piorunkomis25."
+  citata_rodoma: |
+    Mat tais laikais bajorai, susidėję su žy­
+    dais, spekuliavo pinigais, ypač lietuviškais. Tasai Petras buvo
+    nepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­
+    nigus, ypač perkūnus: auksą parduodavo į Olandiją, o baltąjį
+    sidabrą perkaldindavo į lenkiškus pinigus, tad buvo pramintas
+    Perkūnu iš Kurozvenkų. Jo išmonės lenkiškieji grašiai, turin­
+    tys vos pusę vertės, buvo praminti piorunkomis25.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

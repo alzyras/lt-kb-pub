@@ -78,7 +78,8 @@ Apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
     Susimilk ant sutvėrimo savo!
     Jei tą laiką per daug lietaus, o stinga giedros, tai vietoje „laimin­
     gą rasą“ sako „dovanok mums gerą orą“ .
-  citata_rodoma: "Jei tą laiką per daug lietaus, o stinga giedros, tai vietoje „laimingą rasą“ sako „dovanok mums gerą orą“ ."
+  citata_rodoma: |
+    Jei tą laiką per daug lietaus, o stinga giedros, tai vietoje „laimingą rasą“ sako „dovanok mums gerą orą“ .
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas

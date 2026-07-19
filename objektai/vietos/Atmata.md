@@ -75,7 +75,10 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
     Christburg, Aldinkirsburg, Kirseburg ir pan., vėliau Alt Christburg, dab. Stary Dzierzgoń)
     Kristburgas Naujasis (Kirsburg, Cristburg, Christiborc ir pan. prūsų Zirgūnos vietoje;
     Christburgas, dab.
-  citata_rodoma: "Atlanto vandenynas\nAtmata, u.\nAtrebatas (dab."
+  citata_rodoma: |
+    Atlanto vandenynas
+    Atmata, u.
+    Atrebatas (dab.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

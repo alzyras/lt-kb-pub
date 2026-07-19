@@ -104,7 +104,20 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
     karštai pulti dar kruvinais kalavijais priešą, kad kil­
     tų dar smarkesnė kova ir būtų pasiekta visiška per­
     galė.
-  citata_rodoma: "Ten greitosiomis įrengę stovyklą,\nsustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­\nletą būrių gurguolėms saugoti, o patys su visomis jė­\ngomis patraukė link priešo, kuris, pasak kalbų, taip\npat buvo įsitvirtinęs stovykloje. Barbarai, per žvalgus\ngavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo\ngerai ginkluotų karių puolimo, ypač dėl to, kad jų\npačių ir apsiginklavimas, ir kariavimo būdas buvo\nmenkoki. Štai todėl jie nutarė kokia nors nedidele\npergale atimti priešui iš pat pradžių progą džiaugsmui\nir įbauginti atšiaurias širdis: puolimas būsiąs silpnes­\nnis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks\nlabiau turį bijoti, negu drąsą rodyti."
+  citata_rodoma: |
+    Ten greitosiomis įrengę stovyklą,
+    sustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­
+    letą būrių gurguolėms saugoti, o patys su visomis jė­
+    gomis patraukė link priešo, kuris, pasak kalbų, taip
+    pat buvo įsitvirtinęs stovykloje. Barbarai, per žvalgus
+    gavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo
+    gerai ginkluotų karių puolimo, ypač dėl to, kad jų
+    pačių ir apsiginklavimas, ir kariavimo būdas buvo
+    menkoki. Štai todėl jie nutarė kokia nors nedidele
+    pergale atimti priešui iš pat pradžių progą džiaugsmui
+    ir įbauginti atšiaurias širdis: puolimas būsiąs silpnes­
+    nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks
+    labiau turį bijoti, negu drąsą rodyti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

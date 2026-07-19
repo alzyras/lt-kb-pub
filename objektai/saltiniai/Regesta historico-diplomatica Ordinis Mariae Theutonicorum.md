@@ -106,7 +106,10 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
     padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
     suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis\nir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat\nriterių ordinas iš Kalatravos (Ispanija; Szacherska S. M., Opactwo..., p. 31—35)."
+  citata_rodoma: |
+    1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis
+    ir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat
+    riterių ordinas iš Kalatravos (Ispanija; Szacherska S. M., Opactwo..., p. 31—35).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

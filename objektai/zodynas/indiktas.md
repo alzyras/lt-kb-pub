@@ -134,7 +134,22 @@ media_all_json: |-
     (Iš Vilniaus kapitulos archyvo rankraščių)
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq.
-  citata_rodoma: "Rašyta Vilniuje Viešpa­\nties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.\nM.P. Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq."
+  citata_rodoma: |
+    Rašyta Vilniuje Viešpa­
+    ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.
+    M.P. Valerijonas
+
+    ## Puslapis 394
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
+    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
+    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
+    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
+    1533 METAIS
+    (Iš Vilniaus kapitulos archyvo rankraščių)
+    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
+    aniae, Russiae, totiusq.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

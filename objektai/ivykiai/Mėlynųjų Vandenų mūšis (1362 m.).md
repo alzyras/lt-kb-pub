@@ -220,7 +220,24 @@ Nenurodyta
     pirmas Rytų Europoje toks didelis įsiverži-
     mas į Ordos valdas, sudavęs jos įtakai di-
     delį smūgį.
-  citata_rodoma: "Taigi po mūšio buvo nusiaub-\ntas Aukso ordos valdų plotas tarp\npietinio Bugo ir Dniestro prie\nJuodosios jūros.\n\nPergalės tarptautinė reikšmė\nAlgirdo pajėgų žygis prieš toto-\nrius ir pergalė prie Mėlynųjų Van-\ndenų sutvirtino Lietuvos pozicijas\nKijevo žemėje ir pačiame Kijeve.\nPo pergalės Lietuvos kariuomenė\n\nnuniokojo totoriams pavaldų kraštą -\nPodolę, pasiekdama Juodąją jūrą. Tai buvo\npirmas Rytų Europoje toks didelis įsiverži-\nmas į Ordos valdas, sudavęs jos įtakai di-\ndelį smūgį."
+  citata_rodoma: |
+    Taigi po mūšio buvo nusiaub-
+    tas Aukso ordos valdų plotas tarp
+    pietinio Bugo ir Dniestro prie
+    Juodosios jūros.
+
+    Pergalės tarptautinė reikšmė
+    Algirdo pajėgų žygis prieš toto-
+    rius ir pergalė prie Mėlynųjų Van-
+    denų sutvirtino Lietuvos pozicijas
+    Kijevo žemėje ir pačiame Kijeve.
+    Po pergalės Lietuvos kariuomenė
+
+    nuniokojo totoriams pavaldų kraštą -
+    Podolę, pasiekdama Juodąją jūrą. Tai buvo
+    pirmas Rytų Europoje toks didelis įsiverži-
+    mas į Ordos valdas, sudavęs jos įtakai di-
+    delį smūgį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -246,7 +263,20 @@ Nenurodyta
     šimtmečiai) įrašytas „Pasakojimas apie
     Podolę“ - plačiausiai kalbantis šaltinis
     šia tema.
-  citata_rodoma: "Mėlynųjų Vandenų įvykių pagrindi-\nniai šaltiniai: žinios xv a. pirmosios pusės\nrusų Tverės sąvade - Rogožos metraštyje\nprieš 6871 (1363) m. sakoma, kad rudenį\nAlgirdas „Mėlynuosius Vandenis ir Baltąją\npakrantę nukariavo“. Tas pats aprašyta vė-\nlesniame Maskvos- Tverės kilmės Nikono\nmetraštyje (susijusiame su Algirdo pali-\nkuonimis Belskiais). Trumpojoje Lietuvos\nmetraščių redakcijoje (xv a. 4-5 de-\nšimtmečiai) įrašytas „Pasakojimas apie\nPodolę“ - plačiausiai kalbantis šaltinis\nšia tema."
+  citata_rodoma: |
+    Mėlynųjų Vandenų įvykių pagrindi-
+    niai šaltiniai: žinios xv a. pirmosios pusės
+    rusų Tverės sąvade - Rogožos metraštyje
+    prieš 6871 (1363) m. sakoma, kad rudenį
+    Algirdas „Mėlynuosius Vandenis ir Baltąją
+    pakrantę nukariavo“. Tas pats aprašyta vė-
+    lesniame Maskvos- Tverės kilmės Nikono
+    metraštyje (susijusiame su Algirdo pali-
+    kuonimis Belskiais). Trumpojoje Lietuvos
+    metraščių redakcijoje (xv a. 4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -271,7 +301,19 @@ Nenurodyta
     telkęs savo lietuvių pajėgas, žygiuoda-
     mas Padniepre pro Kanevą, Čerkasus, ties
     Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: "Tas pats aprašyta vė-\nlesniame Maskvos- Tverės kilmės Nikono\nmetraštyje (susijusiame su Algirdo pali-\nkuonimis Belskiais). Trumpojoje Lietuvos\nmetraščių redakcijoje (xv a. 4-5 de-\nšimtmečiai) įrašytas „Pasakojimas apie\nPodolę“ - plačiausiai kalbantis šaltinis\nšia tema. Istorinė tradicija (jai atstovauja\nM. Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius."
+  citata_rodoma: |
+    Tas pats aprašyta vė-
+    lesniame Maskvos- Tverės kilmės Nikono
+    metraštyje (susijusiame su Algirdo pali-
+    kuonimis Belskiais). Trumpojoje Lietuvos
+    metraščių redakcijoje (xv a. 4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema. Istorinė tradicija (jai atstovauja
+    M. Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -296,7 +338,18 @@ Nenurodyta
     ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
     Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
     Vidurio ir Rytų Europos jėga.
-  citata_rodoma: "Algirdo didvalstybė\nMongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva \npasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos. \nKijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau \nlinkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso \nordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir \nAlgirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga \nVidurio ir Rytų Europos jėga."
+  citata_rodoma: |
+    Algirdo didvalstybė
+    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
+    pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
+    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
+    Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
+    Vidurio ir Rytų Europos jėga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

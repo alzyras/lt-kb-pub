@@ -84,7 +84,8 @@ Nenurodyta
     gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
     dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
     visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai.
-  citata_rodoma: "dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK"
+  citata_rodoma: |
+    dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

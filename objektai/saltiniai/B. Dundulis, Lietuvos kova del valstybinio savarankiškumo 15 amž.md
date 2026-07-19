@@ -71,7 +71,10 @@ Dundulis, B.
     1938, 323-340 p. — Končius, J. : _Vytautas the Great, Grand Duke of
     Lithuania_ , Miami, Florida 1964, 171-184 p. — Łowmiański, H. : _Witold
     wielki książę Litwy_ , Vilnius 1930.
-  citata_rodoma: "—Dundulis, B. : _Lietuvos kova del valstybinio sava­\nrankiškumo 15 amž._ , Vilnius 1968. — Ekdahl, S. : _Der Krieg zwischen\ndem Deutschen Orden und Polen-Litauen im Jahre 1422_ , ZfO, t."
+  citata_rodoma: |
+    —Dundulis, B. : _Lietuvos kova del valstybinio sava­
+    rankiškumo 15 amž._ , Vilnius 1968. — Ekdahl, S. : _Der Krieg zwischen
+    dem Deutschen Orden und Polen-Litauen im Jahre 1422_ , ZfO, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -69,7 +69,8 @@ Papildomos aiškios formos neišskirtos.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
-  citata_rodoma: "Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty."
+  citata_rodoma: |
+    Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

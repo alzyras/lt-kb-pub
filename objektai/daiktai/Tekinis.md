@@ -77,7 +77,10 @@ Nenurodyta
     Traukiant pavažą už
     virvės pavaža slenka, o tekinis sukasi, nes jo stukas, siekdamas žemę,
     turi suktis, negali šliaužti, lygiai taip, kaip ratų tekinis bevažiuojant.
-  citata_rodoma: "Traukiant pavažą už \nvirvės pavaža slenka, o tekinis sukasi, nes jo stukas, siekdamas žemę, \nturi suktis, negali šliaužti, lygiai taip, kaip ratų tekinis bevažiuojant."
+  citata_rodoma: |
+    Traukiant pavažą už
+    virvės pavaža slenka, o tekinis sukasi, nes jo stukas, siekdamas žemę,
+    turi suktis, negali šliaužti, lygiai taip, kaip ratų tekinis bevažiuojant.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -94,7 +97,10 @@ Nenurodyta
     Paimta sena sena pavaža, ant vieno jos stipino užmautas tekinis.
     Tekinis neduoda stovėti pavažai, jis svyra į šalį, kol stukas pasiekia
     žemę. Taip visas sustatymas palieka pasviręs.
-  citata_rodoma: "Paimta sena sena pavaža, ant vieno jos stipino užmautas tekinis. \nTekinis neduoda stovėti pavažai, jis svyra į šalį, kol stukas pasiekia \nžemę. Taip visas sustatymas palieka pasviręs."
+  citata_rodoma: |
+    Paimta sena sena pavaža, ant vieno jos stipino užmautas tekinis.
+    Tekinis neduoda stovėti pavažai, jis svyra į šalį, kol stukas pasiekia
+    žemę. Taip visas sustatymas palieka pasviręs.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

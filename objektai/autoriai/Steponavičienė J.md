@@ -81,7 +81,9 @@ Dusburgietis teigia, kad steponavičienė J.
     Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
     (конец XV — первая пол. XVI в.) и его отражение в Первом Литовском статуте:
     Автореферат канд. дис. — В., 1978.
-  citata_rodoma: "Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—\nBaltistica, 1974, 10 (2), p. 163— 168."
+  citata_rodoma: |
+    Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—
+    Baltistica, 1974, 10 (2), p. 163— 168.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

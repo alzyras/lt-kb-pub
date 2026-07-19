@@ -89,7 +89,17 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
     dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad
     skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą lai-
     kys tik Vokietijos intriga.
-  citata_rodoma: "Jeigu tautos vertė, imant visą\nžmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų\nužimti pirmą vietą tarp Europos tautų“\nBenjamin W. Dwight\nIš jo „Modern Philology“ („Modernioji filologija“)\nX\nX a. pradžioje apie lietuvių tautos egzistenciją gerai\nžinojo tik žymūs to meto lingvistai, keldami lietuvių\nkalbos savitumą, jos išsaugotas archajines indoeuropiečių kalbos formas\nir vertingumą lyginamajai kalbotyrai."
+  citata_rodoma: |
+    Jeigu tautos vertė, imant visą
+    žmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų
+    užimti pirmą vietą tarp Europos tautų“
+    Benjamin W. Dwight
+    Iš jo „Modern Philology“ („Modernioji filologija“)
+    X
+    X a. pradžioje apie lietuvių tautos egzistenciją gerai
+    žinojo tik žymūs to meto lingvistai, keldami lietuvių
+    kalbos savitumą, jos išsaugotas archajines indoeuropiečių kalbos formas
+    ir vertingumą lyginamajai kalbotyrai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

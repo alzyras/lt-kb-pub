@@ -90,7 +90,15 @@ Nenurodyta
     užtikau laidotuves — gi man šeimininkė
     šmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino
     dūšią.“ Su dovana tiesiai patraukiau ant namų.
-  citata_rodoma: "— Man užtektų ir pas mužikus vaikščioti, — sako urėdas.\n— Po mužikus eidamas, žinok šeimininkų vardus, paminėk jų\npatronus, pasimelsk už dūšias, kur išsiskyrė iš tų namų, tai bus gerai.\nVisada suminkštėja širdys — mėsos šmotelį atneša.\nPernai, vaikščiodamas po baisogalius,\nužtikau laidotuves — gi man šeimininkė\nšmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino\ndūšią.“"
+  citata_rodoma: |
+    — Man užtektų ir pas mužikus vaikščioti, — sako urėdas.
+    — Po mužikus eidamas, žinok šeimininkų vardus, paminėk jų
+    patronus, pasimelsk už dūšias, kur išsiskyrė iš tų namų, tai bus gerai.
+    Visada suminkštėja širdys — mėsos šmotelį atneša.
+    Pernai, vaikščiodamas po baisogalius,
+    užtikau laidotuves — gi man šeimininkė
+    šmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino
+    dūšią.“
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

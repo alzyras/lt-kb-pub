@@ -96,13 +96,19 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Sitai pamatę, kiti, apimti baimės, atsitraukė.
-    127 (122). Apie Brandenburgo pilies pastatymą
-    Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos
+    Apie Brandenburgo pilies pastatymą
+
+      Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos
     žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
     bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
     vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
-  citata_rodoma: "127 (122). Apie Brandenburgo pilies pastatymą\n\n  Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos\nžemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro\nbei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų\nvadinama tuo pat vardu, kaip vadinama ir jo markgrafystė."
+  citata_rodoma: |
+    Apie Brandenburgo pilies pastatymą
+
+      Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos
+    žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
+    bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
+    vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

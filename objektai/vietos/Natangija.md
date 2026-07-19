@@ -157,7 +157,16 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
     dedant nuo Varmijos, priklauso Natangijai, o pakrantėje
     matavimui stinga žemės, kuri taip pat nepriklausytų Na-
     tangijai.
-  citata_rodoma: "Be to, vienuoliai riteriai tu­\nrėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­\nrinkti iš jų vieną dalį. Antra vertus, tie patys piliečiai\nturėjo gauti Varmijoje 2500 margų žemės; iš vienos pu­\nsės šis plotas turėjo būti atmatuotas nuo Lemptenburgo\nLipza link ir palei jos krantą, o iš antros pusės — Natan-\ngijos link tiek toli, kol margų skaičius susidarys prie pat\nVarmijos. Bet toks matavimas pagal dabartinę vietovės\npadėtį yra neįmanomas."
+  citata_rodoma: |
+    Be to, vienuoliai riteriai tu­
+    rėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­
+    rinkti iš jų vieną dalį. Antra vertus, tie patys piliečiai
+    turėjo gauti Varmijoje 2500 margų žemės; iš vienos pu­
+    sės šis plotas turėjo būti atmatuotas nuo Lemptenburgo
+    Lipza link ir palei jos krantą, o iš antros pusės — Natan-
+    gijos link tiek toli, kol margų skaičius susidarys prie pat
+    Varmijos. Bet toks matavimas pagal dabartinę vietovės
+    padėtį yra neįmanomas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -177,7 +186,12 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
     toliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-
     dos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­
     tų pavadinimai neišliko.
-  citata_rodoma: "Antra tokia Sklumeno valda buvo netoli Bar-\ntenšteino. Salia Brandenburgo buvo Pakarvės valda, o\ntoliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-\ndos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­\ntų pavadinimai neišliko."
+  citata_rodoma: |
+    Antra tokia Sklumeno valda buvo netoli Bar-
+    tenšteino. Salia Brandenburgo buvo Pakarvės valda, o
+    toliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-
+    dos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­
+    tų pavadinimai neišliko.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -124,7 +124,14 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
     pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
     mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
     tuvos istoriją toliau XIII amžiaus1.
-  citata_rodoma: "Todėl vieni tiesiog\npriimdavo kronikininkų geriau išdėstytas išvadas apie\ntautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė\nvargais negalais suregztas savąsias, o dar kiti su tikrai\npyrgonišku nepatiklumu, visas kronikų sakmes pasako­\nmis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­\ntuvos istoriją toliau XIII amžiaus1."
+  citata_rodoma: |
+    Todėl vieni tiesiog
+    priimdavo kronikininkų geriau išdėstytas išvadas apie
+    tautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė
+    vargais negalais suregztas savąsias, o dar kiti su tikrai
+    pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
+    mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
+    tuvos istoriją toliau XIII amžiaus1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

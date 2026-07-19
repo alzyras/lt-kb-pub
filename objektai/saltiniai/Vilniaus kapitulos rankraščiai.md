@@ -65,7 +65,7 @@ Nenurodyta
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Kulkos minimos švininės, geležinės ir akmeninės. Dauge­
+    Dauge­
     liui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę
     ir jų liejimo formas bei daugybę įrangos, reikalingos apka­
     sams daryti.
@@ -79,8 +79,23 @@ Nenurodyta
     1542 METAIS
     (Iš Vilniaus kapitulos rankraščių)
     Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
-    niae, Russiae, Prussiae, Masoviaeq. etc.
-  citata_rodoma: "Dauge­\nliui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę \nir jų liejimo formas bei daugybę įrangos, reikalingos apka­\nsams daryti.\n\n## Puslapis 332\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nV\nKARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA \nPRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI \n1542 METAIS\n(Iš Vilniaus kapitulos rankraščių)\nSigismundus Dei gratia Rex Poloniae Magnus Dux Litua- \nniae, Russiae, Prussiae, Masoviaeq."
+    niae, Russiae, Prussiae, Masoviaeq.
+  citata_rodoma: |
+    Dauge­
+    liui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę
+    ir jų liejimo formas bei daugybę įrangos, reikalingos apka­
+    sams daryti.
+
+    ## Puslapis 332
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    V
+    KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA
+    PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI
+    1542 METAIS
+    (Iš Vilniaus kapitulos rankraščių)
+    Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
+    niae, Russiae, Prussiae, Masoviaeq.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

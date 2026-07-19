@@ -113,7 +113,11 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
     palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
     Į tai broliai atsakė: „Kas tau šitai pasakė?
-  citata_rodoma: "Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,\ntarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros\npalankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.\n   Į tai broliai atsakė: „Kas tau šitai pasakė?"
+  citata_rodoma: |
+    Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
+    tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
+    palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
+       Į tai broliai atsakė: „Kas tau šitai pasakė?
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -153,7 +157,12 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     savo guolio ir palydėjau ją ligi savo namo durų, kur, jai pranykus, išvydau jus ginkluotus
     pilyje. Dėl to aiškiai supratau, jog dėl jos nuopelnų ir maldų jūs užėmėte štai šią pilį,
     272  Sartovicai, Sartowice (D.— Sardewicz, J. — Schartowitz) — į šiaurės rytus nuo dab.
-  citata_rodoma: "Šitai padarę, aptiko viename\nrūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei\nkankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už\ntokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami\nišėjo iš rūsio."
+  citata_rodoma: |
+    Šitai padarę, aptiko viename
+    rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei
+    kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už
+    tokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
+    išėjo iš rūsio.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

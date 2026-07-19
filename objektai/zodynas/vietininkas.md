@@ -664,7 +664,19 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
     gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
     tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
-  citata_rodoma: "tas pats Žy­\ngimantas Vilniaus kapitulai padova­\nnojo Vainelgų dvarą.\n223\n\n## Puslapis 240\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nŽygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­\ntas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­\ngaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­\ntuvai, jis dažniausiai gyveno Trakuose arba Vilniuje."
+  citata_rodoma: |
+    tas pats Žy­
+    gimantas Vilniaus kapitulai padova­
+    nojo Vainelgų dvarą.
+    223
+
+    ## Puslapis 240
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
+    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
+    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
+    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -773,7 +785,17 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     gį, sutraukta Gedimino kariuomenė perėjo Vladimiro
     ir Lucko žemes, nedarydama čia, sąjungininkų valdo­
     se, niekam skriaudų ir priartėjo prie Ovručo.
-  citata_rodoma: "Todėl, net nepabandęs laimės kovos lauke, kuo\ngreičiausiai pabėgo į Severską. Gediminas, be kovos\nužėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną\nir Brestą, visą kraštą, ką tik iš priešo išplėštą, prijun­\ngė prie Lietuvos valdų, palikdamas lietuvių įgulas ir\nvietininkus. Išsiuntęs kariuomenę į žiemos stovyklą,\npats žiemą praleido Breste, gal norėdamas, kaip ki­\ntiems sakėsi, laimėtų žemių reikalus geriau sutvarkyti,\no gal ketindamas asmeniškai rengtis, kaip ir darė, nau­\njam karui."
+  citata_rodoma: |
+    Todėl, net nepabandęs laimės kovos lauke, kuo
+    greičiausiai pabėgo į Severską. Gediminas, be kovos
+    užėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną
+    ir Brestą, visą kraštą, ką tik iš priešo išplėštą, prijun­
+    gė prie Lietuvos valdų, palikdamas lietuvių įgulas ir
+    vietininkus. Išsiuntęs kariuomenę į žiemos stovyklą,
+    pats žiemą praleido Breste, gal norėdamas, kaip ki­
+    tiems sakėsi, laimėtų žemių reikalus geriau sutvarkyti,
+    o gal ketindamas asmeniškai rengtis, kaip ir darė, nau­
+    jam karui.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -950,7 +972,19 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
     gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
     tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
-  citata_rodoma: "tas pats Žy­\ngimantas Vilniaus kapitulai padova­\nnojo Vainelgų dvarą.\n223\n\n## Puslapis 240\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nŽygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­\ntas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­\ngaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­\ntuvai, jis dažniausiai gyveno Trakuose arba Vilniuje."
+  citata_rodoma: |
+    tas pats Žy­
+    gimantas Vilniaus kapitulai padova­
+    nojo Vainelgų dvarą.
+    223
+
+    ## Puslapis 240
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
+    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
+    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
+    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
 
@@ -1064,7 +1098,12 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­
     gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun.
     priklausomus.
-  citata_rodoma: "Šis darbas beveik\ngalutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir\ndidesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­\ngaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun.\npriklausomus."
+  citata_rodoma: |
+    Šis darbas beveik
+    galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir
+    didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­
+    gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun.
+    priklausomus.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas

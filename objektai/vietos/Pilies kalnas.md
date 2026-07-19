@@ -106,7 +106,16 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (oz-
     zerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos
     užvertė visas jo brangenybes.
-  citata_rodoma: "Mano Petras negalėjo išsiteirauti apie Švitri­\ngailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila \nsu gausia kariauna, nemažais paramos pulkais ir dauge­\nliu žmonių patraukė. - Praneša man vėliau, kad įvyko griū­\ntis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki\" \npriežasties. Tas kalnas užslinko ant Manvydo rūmo (namo) \nir daug nuostolių pridarė, jo pataurininkis ir rykūnės (oz- \nzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos \nužvertė visas jo brangenybes."
+  citata_rodoma: |
+    Mano Petras negalėjo išsiteirauti apie Švitri­
+    gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila
+    su gausia kariauna, nemažais paramos pulkais ir dauge­
+    liu žmonių patraukė. - Praneša man vėliau, kad įvyko griū­
+    tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki"
+    priežasties. Tas kalnas užslinko ant Manvydo rūmo (namo)
+    ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (oz-
+    zerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos
+    užvertė visas jo brangenybes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +133,12 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     griūtis palietė, mūrai išliko sveiki. Vienas Vengrijos kuni­
     gaikštis atvyko su aštuoniasdešimčia raitelių į Vilnių, siū­
     lydamasis Vytautui į tarnybą su 700 raitelių.
-  citata_rodoma: "- Patsai būtų lygiai taip pat \nžuvęs, jeigu nebūtų buvę po dienos pastebėta. Bet tik kalną \ngriūtis palietė, mūrai išliko sveiki. Vienas Vengrijos kuni­\ngaikštis atvyko su aštuoniasdešimčia raitelių į Vilnių, siū­\nlydamasis Vytautui į tarnybą su 700 raitelių."
+  citata_rodoma: |
+    - Patsai būtų lygiai taip pat
+    žuvęs, jeigu nebūtų buvę po dienos pastebėta. Bet tik kalną
+    griūtis palietė, mūrai išliko sveiki. Vienas Vengrijos kuni­
+    gaikštis atvyko su aštuoniasdešimčia raitelių į Vilnių, siū­
+    lydamasis Vytautui į tarnybą su 700 raitelių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -143,7 +157,13 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
     Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
     turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
-  citata_rodoma: "Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57."
+  citata_rodoma: |
+    Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
+    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
+    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
+    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
+    turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +183,14 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos
     kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
     nausiąs ir 1.1.
-  citata_rodoma: "(Plg. Ind. cod. kist. dipt. Livoniae)\nTI, p. 132, N 518.\nDinaburgo komtūras praneša Livonijos magistrui, kad \nŠvitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; \nkad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos \nkunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­\nnausiąs ir 1.1."
+  citata_rodoma: |
+    (Plg. Ind. cod. kist. dipt. Livoniae)
+    TI, p. 132, N 518.
+    Dinaburgo komtūras praneša Livonijos magistrui, kad
+    Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
+    kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos
+    kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
+    nausiąs ir 1.1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -85,7 +85,12 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
     Filimeras, baimindamasis didelio žmonių susigrūdimo,
     nes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­
     kį. Taip pusė gotų gyventojų šįsyk liko kitapus Vyslos.
-  citata_rodoma: "Naruševičius šį išėjimą aiškina kitaip. Jis rašo:\n  „Panašu į tiesą, kad dakai su getais, prisimindami tiek iš\n  romėnų patirtų pralaimėjimų, pasikvietė pas save gotus,\n  pasiryžę veikiau jungtis su jais negu būti svetimų valdo­\n  mi“1. Tačiau su tuo sunku sutikti, nes gotų kelionės"
+  citata_rodoma: |
+    Naruševičius šį išėjimą aiškina kitaip. Jis rašo:
+      „Panašu į tiesą, kad dakai su getais, prisimindami tiek iš
+      romėnų patirtų pralaimėjimų, pasikvietė pas save gotus,
+      pasiryžę veikiau jungtis su jais negu būti svetimų valdo­
+      mi“1. Tačiau su tuo sunku sutikti, nes gotų kelionės
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

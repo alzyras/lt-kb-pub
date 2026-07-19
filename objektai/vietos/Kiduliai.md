@@ -95,7 +95,15 @@ Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai se
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
     kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
-  citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso."
+  citata_rodoma: |
+    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
+    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
+    125
+
+    ## Puslapis 125
+
+    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
+    nedailaus, bet labai patvaraus gipso.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

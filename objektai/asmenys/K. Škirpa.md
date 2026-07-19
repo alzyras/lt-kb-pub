@@ -166,7 +166,12 @@ media_all_json: |-
     armijos vadas plk. ltn. K. Ladyga netu-
     rėjo vieningos nuomonės dėl priemonių,
     kurių reikėtų imtis.
-  citata_rodoma: "Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-\nnaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos\ntęsia nevaisingą Suvalkų puolimą.\n\nkariuomenės vadas plk."
+  citata_rodoma: |
+    Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
+    naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
+    tęsia nevaisingą Suvalkų puolimą.
+
+    kariuomenės vadas plk.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

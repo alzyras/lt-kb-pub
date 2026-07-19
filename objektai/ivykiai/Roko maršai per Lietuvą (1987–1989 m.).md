@@ -84,7 +84,8 @@ Nenurodyta
     namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą
     vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
     išlaisvinti režimo įbaugintus žmones.
-  citata_rodoma: "namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą"
+  citata_rodoma: |
+    namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

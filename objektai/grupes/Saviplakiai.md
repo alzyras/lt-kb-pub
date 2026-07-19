@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    4. Apie viešąją krikščionių atgailą
+    Apie viešąją krikščionių atgailą
 
       To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o
     kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].
@@ -62,7 +62,15 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
 
 
                               5.
-  citata_rodoma: "4. Apie viešąją krikščionių atgailą\n\n  To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o\nkadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].\n\n\n\n                          5."
+  citata_rodoma: |
+    Apie viešąją krikščionių atgailą
+
+      To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o
+    kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].
+
+
+
+                              5.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

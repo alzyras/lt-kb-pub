@@ -126,7 +126,12 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     tyti apsiautusiai švedų kariuomenei maistą
     ir šaudmenis. Operacijai vadovauti buvo
     paskirtas K. Carlsonas Gyllienhelmas.
-  citata_rodoma: "Karolis Sudermanas\npasiuntė 2400 karių, kurie turėjo prista-\ntyti apsiautusiai švedų kariuomenei maistą\nir šaudmenis. Operacijai vadovauti buvo\npaskirtas K. Carlsonas Gyllienhelmas."
+  citata_rodoma: |
+    Karolis Sudermanas
+    pasiuntė 2400 karių, kurie turėjo prista-
+    tyti apsiautusiai švedų kariuomenei maistą
+    ir šaudmenis. Operacijai vadovauti buvo
+    paskirtas K. Carlsonas Gyllienhelmas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

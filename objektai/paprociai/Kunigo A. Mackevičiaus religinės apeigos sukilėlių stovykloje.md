@@ -130,7 +130,12 @@ Nenurodyta
     įšventinimo apeigas. Stovykloje veikė karo
     lauko ligoninė, mokymai vyko lietuviškai,
     komandos buvo duodamos lietuvių kalba.
-  citata_rodoma: "Kunigas A. Mackevičius\nstovykloje laikė mišias, atlikinėjo naujokų\nįšventinimo apeigas. Stovykloje veikė karo\nlauko ligoninė, mokymai vyko lietuviškai,\nkomandos buvo duodamos lietuvių kalba."
+  citata_rodoma: |
+    Kunigas A. Mackevičius
+    stovykloje laikė mišias, atlikinėjo naujokų
+    įšventinimo apeigas. Stovykloje veikė karo
+    lauko ligoninė, mokymai vyko lietuviškai,
+    komandos buvo duodamos lietuvių kalba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +159,15 @@ Nenurodyta
     sukilėlius ir šventina jų vėliavas
 
     bent įgyti autonominę nepriklausomybę.
-  citata_rodoma: "Caro vy-\nriausybei pradėjus daryti pirmąsias re-\nformas, stiprėjo viltis atgauti laisvę ar\n\nKunigas A. Mackevičius laimina\nsukilėlius ir šventina jų vėliavas\n\nbent įgyti autonominę nepriklausomybę."
+  citata_rodoma: |
+    Caro vy-
+    riausybei pradėjus daryti pirmąsias re-
+    formas, stiprėjo viltis atgauti laisvę ar
+
+    Kunigas A. Mackevičius laimina
+    sukilėlius ir šventina jų vėliavas
+
+    bent įgyti autonominę nepriklausomybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -93,7 +93,12 @@ Nenurodyta
     kartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač
     J. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700
     m. sukaktis (1951 m.).
-  citata_rodoma: "Ir tuo klausimu\nnauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą\nkartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač\nJ. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700\nm. sukaktis (1951 m.)."
+  citata_rodoma: |
+    Ir tuo klausimu
+    nauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą
+    kartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač
+    J. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700
+    m. sukaktis (1951 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

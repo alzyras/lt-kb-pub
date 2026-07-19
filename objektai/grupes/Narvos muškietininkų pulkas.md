@@ -118,7 +118,24 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     letas kitų smulkesnių dalinių. Iš
     viso 2500 pėstininkų, 300 rai-
     telių ir 19 artilerijos pabūklų.
-  citata_rodoma: "Mėginta šautuvus gaminti Gardine,\n\ntačiau vadovybė savais gamintojais nepasitikėjo\n\nRusijos pajėgos\n\nLietuviams puolant balandžio 23 d.\nVilniuje buvusią rusų įgulą sudarė:\nNarvos muškietininkų pulko vienas\nbatalionas ir trys kompanijos (kuo-\npos), Pskovo muškietininkų pul-\nko du batalionai, Dono kazokų\npulkas, keturios lauko artileri-\njos kompanijos (kuopos) ir ke-\nletas kitų smulkesnių dalinių. Iš\nviso 2500 pėstininkų, 300 rai-\ntelių ir 19 artilerijos pabūklų."
+  citata_rodoma: |
+    Mėginta šautuvus gaminti Gardine,
+
+    tačiau vadovybė savais gamintojais nepasitikėjo
+
+    Rusijos pajėgos
+
+    Lietuviams puolant balandžio 23 d.
+    Vilniuje buvusią rusų įgulą sudarė:
+    Narvos muškietininkų pulko vienas
+    batalionas ir trys kompanijos (kuo-
+    pos), Pskovo muškietininkų pul-
+    ko du batalionai, Dono kazokų
+    pulkas, keturios lauko artileri-
+    jos kompanijos (kuopos) ir ke-
+    letas kitų smulkesnių dalinių. Iš
+    viso 2500 pėstininkų, 300 rai-
+    telių ir 19 artilerijos pabūklų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

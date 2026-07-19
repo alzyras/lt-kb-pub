@@ -130,7 +130,11 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
     8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
     laimėjo.
-  citata_rodoma: "O čia dar po kie-\ntoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės \n8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-\nlaimėjo."
+  citata_rodoma: |
+    O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -150,7 +154,10 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     džio 19 dieną sušaukė III Seimo nepaprastąjį posėdį. Jame LKDP bloko
     balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
     kuris prisiekė laikytis šalies konstitucijos.
-  citata_rodoma: "Jame LKDP bloko \nbalsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona, \nkuris prisiekė laikytis šalies konstitucijos."
+  citata_rodoma: |
+    Jame LKDP bloko
+    balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
+    kuris prisiekė laikytis šalies konstitucijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -171,7 +178,10 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     kusius raumenis. Tačiau krikščionių demokratų blokas, Katalikų veikimo
     centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
     monopolizuoti ideologinės ir organizacinės erdvės.
-  citata_rodoma: "Tačiau krikščionių demokratų blokas, Katalikų veikimo \ncentras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo \nmonopolizuoti ideologinės ir organizacinės erdvės."
+  citata_rodoma: |
+    Tačiau krikščionių demokratų blokas, Katalikų veikimo
+    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
+    monopolizuoti ideologinės ir organizacinės erdvės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -196,7 +206,13 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
     kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
     29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
-  citata_rodoma: "L I E T U V O S  I S T O R I J A\n148\nVisuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-\nse, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: \nLietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-\njunga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos)."
+  citata_rodoma: |
+    L I E T U V O S  I S T O R I J A
+    148
+    Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
+    se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
+    Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-
+    junga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

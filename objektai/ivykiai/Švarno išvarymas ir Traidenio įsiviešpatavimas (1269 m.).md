@@ -85,7 +85,12 @@ Nenurodyta
     turėjo įsiviešpatauti.
     _Traideniui_ tapus Lietuvos valdovu (1269/70-1281/82), vėl visam
     šimtmečiui Lietuvoje buvo užtikrinta _pagonybės_ persvara.
-  citata_rodoma: "Berods, galima spręsti, kad\nŠvarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m.\nturėjo įsiviešpatauti.\n_Traideniui_ tapus Lietuvos valdovu (1269/70-1281/82), vėl visam\nšimtmečiui Lietuvoje buvo užtikrinta _pagonybės_ persvara."
+  citata_rodoma: |
+    Berods, galima spręsti, kad
+    Švarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m.
+    turėjo įsiviešpatauti.
+    _Traideniui_ tapus Lietuvos valdovu (1269/70-1281/82), vėl visam
+    šimtmečiui Lietuvoje buvo užtikrinta _pagonybės_ persvara.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

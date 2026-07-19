@@ -117,7 +117,14 @@ Nenurodyta
     vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
     Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
     ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
-  citata_rodoma: "Prū-\nsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak \nSimono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, \nkur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-\nvų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus. \nSvarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų \nir griausmų dievas, o trečiasis – javų dievas Patrimpas."
+  citata_rodoma: |
+    Prū-
+    sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
+    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
+    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
+    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
+    Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
+    ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

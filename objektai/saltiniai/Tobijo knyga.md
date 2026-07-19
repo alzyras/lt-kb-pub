@@ -113,7 +113,21 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas.
-  citata_rodoma: "PRŪSIJOS ŽEMĖS\n   KRONIKA\n\nDedikacija\n\n\n     Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,\nŠventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą\nsveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.\nKiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje\nšventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi\nnuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei\nbūsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad\napreikšti dievo darbus yra šlovinga."
+  citata_rodoma: |
+    PRŪSIJOS ŽEMĖS
+       KRONIKA
+
+    Dedikacija
+
+
+         Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
+    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

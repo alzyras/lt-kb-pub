@@ -88,7 +88,10 @@ Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Alge
     Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
     kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
     ir dabar jam taip seksis kaip anksčiau.
-  citata_rodoma: "421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas\n(Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar —\nŠtumas (PUB, 1, Nr."
+  citata_rodoma: |
+    421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas
+    (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar —
+    Štumas (PUB, 1, Nr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

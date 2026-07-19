@@ -91,7 +91,14 @@ media_all_json: |-
     Visą 1430 vasarą Vytautas šiam nepaprastam aktui ruošėsi,
     kai imperatorius jį gynė Romoje: Vytauto vainikavimasis visai
     nekenkiąs Lietuvos ir Lenkijos sąjungai.
-  citata_rodoma: "Tai rodo jo\nlaiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas\nvainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą,\nbet ir pastangas « mūsų kraštą pavergti »^15.\nVisą 1430 vasarą Vytautas šiam nepaprastam aktui ruošėsi,\nkai imperatorius jį gynė Romoje: Vytauto vainikavimasis visai\nnekenkiąs Lietuvos ir Lenkijos sąjungai."
+  citata_rodoma: |
+    Tai rodo jo
+    laiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas
+    vainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą,
+    bet ir pastangas « mūsų kraštą pavergti »^15.
+    Visą 1430 vasarą Vytautas šiam nepaprastam aktui ruošėsi,
+    kai imperatorius jį gynė Romoje: Vytauto vainikavimasis visai
+    nekenkiąs Lietuvos ir Lenkijos sąjungai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

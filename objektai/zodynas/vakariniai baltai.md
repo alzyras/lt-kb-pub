@@ -159,7 +159,11 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
     kitos nutolusios. Leksinių bendrumų tarp jotvingių ir lietuvių kalbos žymiai daugiau negu
     skirtumų.
-  citata_rodoma: "Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių\nbaltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,\nskalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.\n   Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15."
+  citata_rodoma: |
+    Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
+    baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
+    skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
+       Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

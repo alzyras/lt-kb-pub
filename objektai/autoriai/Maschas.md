@@ -110,7 +110,11 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
     pateiksime tokį pastebėjimą.
     Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
     duota natūralaus dydžio III lentelės 17-ajame piešinyje.
-  citata_rodoma: "Sunku susekti, kada ir kas dovanojo arba kas\n6\nMasch. Altertümer der Obotriten (p. 151, piešinys nr. 15); Bulga­\nrinas. Rusija. - T. L -  Piešinys nr. 3."
+  citata_rodoma: |
+    Sunku susekti, kada ir kas dovanojo arba kas
+    6
+    Masch. Altertümer der Obotriten (p. 151, piešinys nr. 15); Bulga­
+    rinas. Rusija. - T. L -  Piešinys nr. 3.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

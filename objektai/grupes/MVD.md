@@ -89,7 +89,9 @@ media_all_json: |-
     apsupties Varčios miške. 1946 m. visiškas Daugų MVD įgulos sunaikinimas.
     1948 m. sunkvežimio netoli Onuškio susprogdinimas su 19 vietinės įgulos
     karių.
-  citata_rodoma: "1946 m. visiškas Daugų MVD įgulos sunaikinimas.\n1948 m."
+  citata_rodoma: |
+    1946 m. visiškas Daugų MVD įgulos sunaikinimas.
+    1948 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +113,13 @@ media_all_json: |-
     liko iki 1949 m.). 1947 m. įkūrus
     Algimanto apygardą, jis tapo jos
     vadu, 1948 m.
-  citata_rodoma: "Jam vadovaujant pa-\nvyko Troškūnų ir Kauno MVD ir MGB\nįstaigose kai kuriuos pareigūnus\nužverbuoti partizanų informato-\nriais (kai kurie jų nedemaskuoti\nliko iki 1949 m.). 1947 m."
+  citata_rodoma: |
+    Jam vadovaujant pa-
+    vyko Troškūnų ir Kauno MVD ir MGB
+    įstaigose kai kuriuos pareigūnus
+    užverbuoti partizanų informato-
+    riais (kai kurie jų nedemaskuoti
+    liko iki 1949 m.). 1947 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

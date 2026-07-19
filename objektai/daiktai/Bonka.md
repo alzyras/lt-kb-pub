@@ -99,7 +99,9 @@ Nenurodyta
     pakartėmis su gėrimu.
     Šventadienį važiuoja į bažnyčią, šeimininkė parūpina dvi bonki
     degtinės, vieną virintos ir pasaldintos, antrą karčios.
-  citata_rodoma: "Šventadienį važiuoja į bažnyčią, šeimininkė parūpina dvi bonki\ndegtinės, vieną virintos ir pasaldintos, antrą karčios."
+  citata_rodoma: |
+    Šventadienį važiuoja į bažnyčią, šeimininkė parūpina dvi bonki
+    degtinės, vieną virintos ir pasaldintos, antrą karčios.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -117,7 +119,8 @@ Nenurodyta
     Įėjo į grįčią ir atsiklaupė vidury as­
     los, prie kėdės, išsitraukė iš užančio bonką ir atsigėrė. Paskui bonką
     pastatė šalia savęs žemėj ir ėmė melstis, iškėlęs rankas.
-  citata_rodoma: "Įėjo į grįčią ir atsiklaupė vidury aslos, prie kėdės, išsitraukė iš užančio bonką ir atsigėrė."
+  citata_rodoma: |
+    Įėjo į grįčią ir atsiklaupė vidury aslos, prie kėdės, išsitraukė iš užančio bonką ir atsigėrė.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -136,7 +139,8 @@ Nenurodyta
     jie tikrai valgė.
     Pirmiau, prieš blaivybės įsteigimą, broliai statydavo
     ant stalo degtinės bonkas.
-  citata_rodoma: "Pirmiau, prieš blaivybės įsteigimą, broliai statydavo ant stalo degtinės bonkas."
+  citata_rodoma: |
+    Pirmiau, prieš blaivybės įsteigimą, broliai statydavo ant stalo degtinės bonkas.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -160,7 +164,8 @@ Nenurodyta
     parsinešė
     kelias bonkas degtinės, žinoma, kad užtektų, parsikvietė du kaimynu,
     ir geria tą degtinę, vis ją keikdami.
-  citata_rodoma: "parsinešė kelias bonkas degtinės, žinoma, kad užtektų, parsikvietė du kaimynu, ir geria tą degtinę, vis ją keikdami."
+  citata_rodoma: |
+    parsinešė kelias bonkas degtinės, žinoma, kad užtektų, parsikvietė du kaimynu, ir geria tą degtinę, vis ją keikdami.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

@@ -77,7 +77,11 @@ Nenurodyta
     Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
     klostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
     apylinkėse, o šv.
-  citata_rodoma: "Lietuvos krikščionėjimo simboliu tapo šv.  Kazimiero (1458–1484), \nLietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos \nklostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus \napylinkėse, o šv."
+  citata_rodoma: |
+    Lietuvos krikščionėjimo simboliu tapo šv.  Kazimiero (1458–1484),
+    Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
+    klostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
+    apylinkėse, o šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

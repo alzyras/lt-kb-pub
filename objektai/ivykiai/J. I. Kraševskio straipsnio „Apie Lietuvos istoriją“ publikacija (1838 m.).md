@@ -89,7 +89,15 @@ Nenurodyta
     Taigi konkretus apmąstymų objektas nebuvo nurodytas,
     nors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­
     spėti.
-  citata_rodoma: "Straipsnis dvel­\nkė ramybe, rimtumu, didele erudicija ir bylojo apie ne\nvienų metų svarstymus. T. Narbuto pavardė nebuvo pa­\nminėta, nors ant J. I. Kraševskio stalo, be jokios abejo­\nnės, jąu gulėjo ne tik antras, bet ir trečias LTI tomas.\nTaigi konkretus apmąstymų objektas nebuvo nurodytas,\nnors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­\nspėti."
+  citata_rodoma: |
+    Straipsnis dvel­
+    kė ramybe, rimtumu, didele erudicija ir bylojo apie ne
+    vienų metų svarstymus. T. Narbuto pavardė nebuvo pa­
+    minėta, nors ant J. I. Kraševskio stalo, be jokios abejo­
+    nės, jąu gulėjo ne tik antras, bet ir trečias LTI tomas.
+    Taigi konkretus apmąstymų objektas nebuvo nurodytas,
+    nors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­
+    spėti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

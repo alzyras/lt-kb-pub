@@ -133,7 +133,8 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
     Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
     partija, susikūrusi 1896 m.
-  citata_rodoma: "tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų"
+  citata_rodoma: |
+    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -152,7 +153,8 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
     1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
     mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
     demonstracijos, mitingai.
-  citata_rodoma: "mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,"
+  citata_rodoma: |
+    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -167,7 +169,8 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   citata_originali: |
     Jų organizatoriai daugiausia buvo Rusijos, taip
     pat lenkų socialistinių partijų vietos skyriai.
-  citata_rodoma: "Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai."
+  citata_rodoma: |
+    Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

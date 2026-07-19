@@ -113,7 +113,26 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
     mo, ir tik 1391 m. kovo 12 d. išrink­
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
-  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
+  citata_rodoma: |
+    22
+    Miechovita, Strijkovskis
+    ir K o j e 1 a v i č i u s klysta sakyda­
+    mi, esą žygio vadovavimas buvo pa­
+    vestas Konradui Valenrodui, kurį
+    jau tuo metu vadina didžiuoju ma­
+    gistru, kai Konradas Valenrodas
+    1382 metais, sekmadienį prieš Šv.
+    Mykolą paskirtas Ordino didžiuoju
+    maršalu, 1387 metais per Apreiški­
+    mo Marijai šventę tapo didžiuoju
+    komtūru arba arkikomtūru, 1390
+    rugpjūčio 15 d., po didžiojo magistro
+    Konrado Ciolnerio fon Rotenšteino
+    mirties, - ir didžiojo magistro vieti­
+    ninku, iki pat kapitulos suvažiavi­
+    mo, ir tik 1391 m. kovo 12 d. išrink­
+    tas didž. magistru; mirė 1393 m.
+    liepos 25 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

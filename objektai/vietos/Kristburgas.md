@@ -482,7 +482,18 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
     143 (138).
-  citata_rodoma: "Apie vienos pilaitės užkariavimą\n\n  Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai\nužpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją\nįsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į\nKristburgo pilį, iš pagrindų sugriovė šią pilaitę417.\n\n\n\n\n 143 (138)."
+  citata_rodoma: |
+    Apie vienos pilaitės užkariavimą
+
+      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
+    užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
+    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
+    Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
+
+
+
+
+     143 (138).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -529,7 +540,15 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
     išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
-  citata_rodoma: "Apie daugybės pomeranų bei prūsų žūtį\n\n  Pastačius Kristburgo pilį, sunerimo neišmintingi žmonės, naujakrikščiai ir Sventopelkas,\nir susibaudę nutarė ją sunaikinti bei nušluoti, pabandžius pulti vienokiomis ar kitokiomis\npriemonėmis. Galop jie susitarė visi drauge apsupti Kristburgo pilį ir tol nesitraukti, kol\nji nebus sulyginta su žeme. Todėl susibūrę prūsai pasiuntė didelę kariuomenę ir daugybę\nginklanešių, turėjusių saugoti vežimus bei ketverinius kinkinius, gabenančius maistą ir\nginklus."
+  citata_rodoma: |
+    Apie daugybės pomeranų bei prūsų žūtį
+
+      Pastačius Kristburgo pilį, sunerimo neišmintingi žmonės, naujakrikščiai ir Sventopelkas,
+    ir susibaudę nutarė ją sunaikinti bei nušluoti, pabandžius pulti vienokiomis ar kitokiomis
+    priemonėmis. Galop jie susitarė visi drauge apsupti Kristburgo pilį ir tol nesitraukti, kol
+    ji nebus sulyginta su žeme. Todėl susibūrę prūsai pasiuntė didelę kariuomenę ir daugybę
+    ginklanešių, turėjusių saugoti vežimus bei ketverinius kinkinius, gabenančius maistą ir
+    ginklus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -553,7 +572,17 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 
 
                   124.
-  citata_rodoma: "Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje\n\n  1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo\npilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami,\njog jie laša iš kokios žaizdos, atidžiai apžiūrėjo jam ir burną, ir veidą, ir rankas, bet\nnerado nė pėdsako žaizdos, todėl visi didžiai dėl to atsitikimo stebėjosi.\n\n\n\n              124."
+  citata_rodoma: |
+    Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
+
+      1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo
+    pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami,
+    jog jie laša iš kokios žaizdos, atidžiai apžiūrėjo jam ir burną, ir veidą, ir rankas, bet
+    nerado nė pėdsako žaizdos, todėl visi didžiai dėl to atsitikimo stebėjosi.
+
+
+
+                  124.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -579,7 +608,15 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     sužeistas, ir pasakė: „Henrikai, aš dosnesnis už jį“, be to, palietęs kraujuojančią žaizdą
     šone, pareiškė: „Štai šitokią karalystę tau duosiu, jei man tarnausi, kur kas geresnę nei
     ta, kurią tau žada šis netikras karalius“.
-  citata_rodoma: "Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais\n\n   Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,\npersekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo\npilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,\npirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,\ntačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir\npasimirė."
+  citata_rodoma: |
+    Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
+
+       Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
+    persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo
+    pilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,
+    pirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,
+    tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
+    pasimirė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

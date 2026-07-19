@@ -68,8 +68,11 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
   citata_originali: |
     Jachna Laurinavičius žinomas nuo - 1485 m.
     Tuo metu burmistras Mykolas Laurinavičius.
-    1501 m. burmistras Jonas Hanusavičius.
-  citata_rodoma: "Jachna Laurinavičius žinomas nuo - 1485 m.\nTuo metu burmistras Mykolas Laurinavičius.\n1501 m."
+    1501 m.
+  citata_rodoma: |
+    Jachna Laurinavičius žinomas nuo - 1485 m.
+    Tuo metu burmistras Mykolas Laurinavičius.
+    1501 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

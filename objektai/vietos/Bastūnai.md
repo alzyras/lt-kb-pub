@@ -71,7 +71,13 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
     toliau - palei Vilniaus-Lydos geležinkelį iki
     Bastūnų stoties. Varėnos ir Bastūnų stotys
     liko lenkams.
-  citata_rodoma: "Galiausiai spalio 7 d. buvo nusta-\ntyta demarkacinė linija nuo Vokietijos sienos\niki Juodosios Ančios ir Nemuno santakos,\ntoliau - palei Vilniaus-Lydos geležinkelį iki\nBastūnų stoties. Varėnos ir Bastūnų stotys\nliko lenkams."
+  citata_rodoma: |
+    Galiausiai spalio 7 d. buvo nusta-
+    tyta demarkacinė linija nuo Vokietijos sienos
+    iki Juodosios Ančios ir Nemuno santakos,
+    toliau - palei Vilniaus-Lydos geležinkelį iki
+    Bastūnų stoties. Varėnos ir Bastūnų stotys
+    liko lenkams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

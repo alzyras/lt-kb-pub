@@ -80,7 +80,8 @@ Apibendrinanti senosios Lietuvos buities formulė.
     dailės kūriniams,
     pilniems
     naivumo ir tragizmo.
-  citata_rodoma: "liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, daug meldėsi, daug dirbo, daug gėrė ir lėbavo."
+  citata_rodoma: |
+    liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, daug meldėsi, daug dirbo, daug gėrė ir lėbavo.
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas

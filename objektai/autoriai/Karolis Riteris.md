@@ -210,7 +210,16 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
     daug kartų apdainavo* ir aprašė. Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
     jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
-  citata_rodoma: "Čia plyti vešlios žolės\nturtingos Padonės pievos, supančios Dono žiotis į Azovo\njūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­\n1\nIštrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­\ngeschichten.\nII.\nAbschn.\nI)."
+  citata_rodoma: |
+    Čia plyti vešlios žolės
+    turtingos Padonės pievos, supančios Dono žiotis į Azovo
+    jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
+    1
+    Ištrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­
+    geschichten.
+    II.
+    Abschn.
+    I).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -242,7 +251,22 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
     gerokai anksčiau atėjo iš Indijos į kraštus, esančius prie
     Meotų, ir sudarė tautą, turėjusią tobulesnę bendruomeninę
     santvarką ir prekybos verslą.
-  citata_rodoma: "Vis dėlto Steponas*, o vėliau \nir Eustatijas2 bei visi senovės scholastai vartoja ’Iv8ixvję3, \n-kaip ir vėlesni Bizantijos tyrinėtojai, net ir Hesichijas. \nPateiktos šiai pataisai paremti geografinės prielaidos vi­\nsiškai nebūtų vertos dėmesio, jeigu nebūtų labai papli­\ntusi antra išvada, neva senovės autoriai visur painiojo \ngeografinius vietovardžius; tai mokslininkui, senovės ty­\nrinėtojui, kuris suvokia Herodoto padavimų vertę, visiš­\nkai neatrodo tikras dalykas.\nMokslininkas ponas Riteris, įrodęs pavadinimo Indy, \nindai arba indėnai teisingumą, cituoja savo ankstesnius \nveikalus apie senovės kolchus, saulės garbintojus, kurie \ngerokai anksčiau atėjo iš Indijos į kraštus, esančius prie \nMeotų, ir sudarė tautą, turėjusią tobulesnę bendruomeninę \nsantvarką ir prekybos verslą."
+  citata_rodoma: |
+    Vis dėlto Steponas*, o vėliau
+    ir Eustatijas2 bei visi senovės scholastai vartoja ’Iv8ixvję3,
+    -kaip ir vėlesni Bizantijos tyrinėtojai, net ir Hesichijas.
+    Pateiktos šiai pataisai paremti geografinės prielaidos vi­
+    siškai nebūtų vertos dėmesio, jeigu nebūtų labai papli­
+    tusi antra išvada, neva senovės autoriai visur painiojo
+    geografinius vietovardžius; tai mokslininkui, senovės ty­
+    rinėtojui, kuris suvokia Herodoto padavimų vertę, visiš­
+    kai neatrodo tikras dalykas.
+    Mokslininkas ponas Riteris, įrodęs pavadinimo Indy,
+    indai arba indėnai teisingumą, cituoja savo ankstesnius
+    veikalus apie senovės kolchus, saulės garbintojus, kurie
+    gerokai anksčiau atėjo iš Indijos į kraštus, esančius prie
+    Meotų, ir sudarė tautą, turėjusią tobulesnę bendruomeninę
+    santvarką ir prekybos verslą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -289,7 +313,10 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
     atsiradusį mokslingumą ponas Riteris įrodė mūsų ne
     kartą cituotame ir kuo didžiausios pagarbos vertame vei­
     kale, nagrinėdamas žiliausią Europos senovę.
-  citata_rodoma: "Prie pačių keisčiausių išvadų, nepaisant slaviško\nskambėjimo panašumo, labai artimo esmei, derėtų pri­\n1 Tai įrodo Riteris (Vorhalle ettr. Absch. IIT Kap, S. 147—-160)."
+  citata_rodoma: |
+    Prie pačių keisčiausių išvadų, nepaisant slaviško
+    skambėjimo panašumo, labai artimo esmei, derėtų pri­
+    1 Tai įrodo Riteris (Vorhalle ettr. Absch. IIT Kap, S. 147—-160).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

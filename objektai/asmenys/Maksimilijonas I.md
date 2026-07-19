@@ -84,7 +84,12 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
     buvo suartėta su Habsburgais. To suartė-
     jimo ryškiausia manifestacija buvo 1515 m.
     suvažiavimas Vienoje.
-  citata_rodoma: "Suardžius\nMaskvos ir imperatoriaus Maksimilijono I\nsąjungą, nukreiptą prieš Žygimantą Senąjį,\nbuvo suartėta su Habsburgais. To suartė-\njimo ryškiausia manifestacija buvo 1515 m."
+  citata_rodoma: |
+    Suardžius
+    Maskvos ir imperatoriaus Maksimilijono I
+    sąjungą, nukreiptą prieš Žygimantą Senąjį,
+    buvo suartėta su Habsburgais. To suartė-
+    jimo ryškiausia manifestacija buvo 1515 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -113,7 +113,11 @@ Nenurodyta
     denburgo ir Ragainės komtūrams, maršalka atsitraukė nuo
     Trakų. Iš šito fakto aiškiai matyti, kad Jogaila suėjo su Or­
     dinu į dar artimesnius santykius.
-  citata_rodoma: "Patvirtinus tą aktą savo antspaudomis Baigos, Bran­\ndenburgo ir Ragainės komtūrams, maršalka atsitraukė nuo\nTrakų. Iš šito fakto aiškiai matyti, kad Jogaila suėjo su Or­\ndinu į dar artimesnius santykius."
+  citata_rodoma: |
+    Patvirtinus tą aktą savo antspaudomis Baigos, Bran­
+    denburgo ir Ragainės komtūrams, maršalka atsitraukė nuo
+    Trakų. Iš šito fakto aiškiai matyti, kad Jogaila suėjo su Or­
+    dinu į dar artimesnius santykius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

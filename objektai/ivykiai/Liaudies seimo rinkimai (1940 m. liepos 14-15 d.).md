@@ -164,7 +164,8 @@ Nenurodyta
     11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
     Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
     seimą dalyvavo 95 proc.
-  citata_rodoma: "Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies"
+  citata_rodoma: |
+    Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -184,7 +185,8 @@ Nenurodyta
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
     kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
     tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: "išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,"
+  citata_rodoma: |
+    išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -205,7 +207,8 @@ Nenurodyta
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
     vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
     jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-  citata_rodoma: "toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti"
+  citata_rodoma: |
+    toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -226,7 +229,15 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     192
     iš jų 99,19 proc. balsavo už Lietuvos darbo liaudies sąjungos kandidatus.
-  citata_rodoma: "Prieš pat rinkimus, liepos \n11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.\nOficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies \nseimą dalyvavo 95 proc. (per rinkimus į pasus buvo dedami antspaudai),\n\nL I E T U V O S  I S T O R I J A\n192\niš jų 99,19 proc."
+  citata_rodoma: |
+    Prieš pat rinkimus, liepos
+    11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
+    Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
+    seimą dalyvavo 95 proc. (per rinkimus į pasus buvo dedami antspaudai),
+
+    L I E T U V O S  I S T O R I J A
+    192
+    iš jų 99,19 proc.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

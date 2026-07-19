@@ -221,7 +221,16 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
     statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
     esančius toliau nuo Lietuvos.
-  citata_rodoma: "Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto\nstatytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,\nesančius toliau nuo Lietuvos."
+  citata_rodoma: |
+    Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
+    statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
+    esančius toliau nuo Lietuvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +251,11 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios\nvietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."
+  citata_rodoma: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
+    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -264,7 +277,10 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala.
-  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala."
+  citata_rodoma: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

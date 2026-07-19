@@ -129,7 +129,8 @@ media_all_json: |-
     Karolis Piotrovskis (Karol Piotrowski) [9]. 1752 m. J. D. Lopacinskis minėjo, kad atvyks
     Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
     per seimelį dėl brolio interesų.
-  citata_rodoma: "1752 m. J. D. Lopacinskis minėjo, kad atvyks Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti per seimelį dėl brolio interesų."
+  citata_rodoma: |
+    1752 m. J. D. Lopacinskis minėjo, kad atvyks Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti per seimelį dėl brolio interesų.
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

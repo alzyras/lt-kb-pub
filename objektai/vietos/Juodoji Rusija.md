@@ -83,7 +83,12 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
     Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
     kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
     garduko » pasistatė vienuolyną ir ten atgailavo^63.
-  citata_rodoma: "Iš Juodojoje Rusijoje užimtųjų sričių Min­\ndaugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė\nNaugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­\nkas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­\ngarduko » pasistatė vienuolyną ir ten atgailavo^63."
+  citata_rodoma: |
+    Iš Juodojoje Rusijoje užimtųjų sričių Min­
+    daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė
+    Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
+    kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
+    garduko » pasistatė vienuolyną ir ten atgailavo^63.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

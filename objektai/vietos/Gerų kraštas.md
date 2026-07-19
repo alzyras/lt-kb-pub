@@ -146,7 +146,17 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
     užliejamą slėnį; šiame slėnyje tęsiasi juosta šiandien
     sąnašų perskirtos įdubo-s, kur pavasario potvynių vande­
     nys sudaro vasarą išdžiūstančius ežerus.
-  citata_rodoma: "Smulkiau panagrinėsime mūsų stebėjimus. 1810 me­\ntais kaip inžinierius, įpareigotas parinkti tinkamą tvirto­\nvei vietą tarp Mogiliovo ir Kijevo, galėjau pakankamai \nsukaupti medžiagos, susijusios su mūsų aptariamu daly­\nku, kuris visuomet buvo mano mėgstamiausias užsiėmi­\nmas*. Iš to darau išvadą, jog Gerų kraštas plytėjo abie­\njose Dnepro pakrantėse, kur viename plote sukaupta ga­\nna daug pilkapių, panašių į šen bei ten išmėtytus kapi­\nnynus, šio krašto vidurys yra Rogačiovas, kurio apylin­\nkėse esama gausiausių pilkapių rinkinių."
+  citata_rodoma: |
+    Smulkiau panagrinėsime mūsų stebėjimus. 1810 me­
+    tais kaip inžinierius, įpareigotas parinkti tinkamą tvirto­
+    vei vietą tarp Mogiliovo ir Kijevo, galėjau pakankamai
+    sukaupti medžiagos, susijusios su mūsų aptariamu daly­
+    ku, kuris visuomet buvo mano mėgstamiausias užsiėmi­
+    mas*. Iš to darau išvadą, jog Gerų kraštas plytėjo abie­
+    jose Dnepro pakrantėse, kur viename plote sukaupta ga­
+    na daug pilkapių, panašių į šen bei ten išmėtytus kapi­
+    nynus, šio krašto vidurys yra Rogačiovas, kurio apylin­
+    kėse esama gausiausių pilkapių rinkinių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

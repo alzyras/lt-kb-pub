@@ -65,7 +65,15 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
     pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
     tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
     voldemarininkas gen. Petras Kubiliūnas.
-  citata_rodoma: "Vietoje LV ministrų vokiečių valdžia lietuvių \nadministracijos vadovais paskyrė generalinius tarėjus, o ministerijas\n\n5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n203\npervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-\ntuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo \nvoldemarininkas gen. Petras Kubiliūnas."
+  citata_rodoma: |
+    Vietoje LV ministrų vokiečių valdžia lietuvių
+    administracijos vadovais paskyrė generalinius tarėjus, o ministerijas
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    203
+    pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
+    tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
+    voldemarininkas gen. Petras Kubiliūnas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

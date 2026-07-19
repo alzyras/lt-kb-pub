@@ -79,7 +79,12 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
     lima surasti O s s o 1  i ń s k i II t., 1.155
     sq.; jis pataisė Janockio ir kitų Roizi-
     jaus biografų klaidas.
-  citata_rodoma: "Daugiausia \nžinių apie šį nepaprastą žmogų ga­\nlima surasti O s s o 1  i ń s k i II t., 1.155 \nsq.; jis pataisė Janockio ir kitų Roizi- \njaus biografų klaidas."
+  citata_rodoma: |
+    Daugiausia
+    žinių apie šį nepaprastą žmogų ga­
+    lima surasti O s s o 1  i ń s k i II t., 1.155
+    sq.; jis pataisė Janockio ir kitų Roizi-
+    jaus biografų klaidas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -104,7 +109,14 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
     vos istoriją", bet po karaliaus mir­
     ties tą darbą užmetęs, janociana, Vol.
     J, p. 223-227.
-  citata_rodoma: "Janockis jį vadina dar tiks­\nliau - Mieleskiu ir pasakoja, kad, Žy­\ngimanto Augusto nurodymu, jis \npradėjęs rašyti lotynų kalba „Lietu­\nvos istoriją\", bet po karaliaus mir­\nties tą darbą užmetęs, janociana, Vol.\nJ, p. 223-227."
+  citata_rodoma: |
+    Janockis jį vadina dar tiks­
+    liau - Mieleskiu ir pasakoja, kad, Žy­
+    gimanto Augusto nurodymu, jis
+    pradėjęs rašyti lotynų kalba „Lietu­
+    vos istoriją", bet po karaliaus mir­
+    ties tą darbą užmetęs, janociana, Vol.
+    J, p. 223-227.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

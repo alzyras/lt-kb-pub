@@ -70,7 +70,18 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
     prielaidas miestams kurtis nori
     įžiūrėti tiesiog kiekvienos šalies vie­
     tinėse sąlygose.
-  citata_rodoma: "Jau veikiau tai netvirtas ir varganas būvis,\na)\nŠi nuomonė, įžvalgiausių istorikų vi­\nsuotinai pripažįstama, pirmą kartą \nsutiko pasipriešinimą anglų auto­\nriaus H a 1 1  a m o asmenyje, kuris \nsavo kūrinyje View of the state of Eu­\nrope etc. London, 1813 in 4-to, t. 1, \nprielaidas miestams kurtis nori \nįžiūrėti tiesiog kiekvienos šalies vie­\ntinėse sąlygose."
+  citata_rodoma: |
+    Jau veikiau tai netvirtas ir varganas būvis,
+    a)
+    Ši nuomonė, įžvalgiausių istorikų vi­
+    suotinai pripažįstama, pirmą kartą
+    sutiko pasipriešinimą anglų auto­
+    riaus H a 1 1  a m o asmenyje, kuris
+    savo kūrinyje View of the state of Eu­
+    rope etc. London, 1813 in 4-to, t. 1,
+    prielaidas miestams kurtis nori
+    įžiūrėti tiesiog kiekvienos šalies vie­
+    tinėse sąlygose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

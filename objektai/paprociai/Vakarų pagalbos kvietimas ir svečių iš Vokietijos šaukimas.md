@@ -156,7 +156,10 @@ Nenurodyta
     Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
     karus, ir ordinui į talką plaukdavo minios karių. Iš Palestinos or-
     dinas atsinešė į aisčių kraštą ir kariavimo būdą.
-  citata_rodoma: "Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus,\nir ordinui į talką plaukdavo minios karių. Iš Palestinos or-\ndinas atsinešė į aisčių kraštą ir kariavimo būdą."
+  citata_rodoma: |
+    Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus,
+    ir ordinui į talką plaukdavo minios karių. Iš Palestinos or-
+    dinas atsinešė į aisčių kraštą ir kariavimo būdą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -174,7 +177,11 @@ Nenurodyta
     galbos. Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
     iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
     davo surasti.
-  citata_rodoma: "Livonijos vyskupų pavyzdžiu, ir čia pradėta šauktis Vakarų pa-\ngalbos. Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet\niš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-\ndavo surasti."
+  citata_rodoma: |
+    Livonijos vyskupų pavyzdžiu, ir čia pradėta šauktis Vakarų pa-
+    galbos. Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
+    iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
+    davo surasti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -194,7 +201,10 @@ Nenurodyta
     raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
     legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
     ordino prieauglių.
-  citata_rodoma: "Popiežiaus privi­\nlegijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo\nordino prieauglių."
+  citata_rodoma: |
+    Popiežiaus privi­
+    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
+    ordino prieauglių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -109,7 +109,11 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
     pastabos ir komentarai. Be jų daugeliui nebūtų aiškios nei paties au­
     toriaus intencijos, nei tikslas bei veikalo idėja Komentarai daro vei­
     kalą suprantamą net ir mažiau išsilavinusiam skaitytojui.
-  citata_rodoma: "Labai reikšmingą priedą prie „Likimo kelių” sudaro V. Bičiūno\npastabos ir komentarai. Be jų daugeliui nebūtų aiškios nei paties au­\ntoriaus intencijos, nei tikslas bei veikalo idėja Komentarai daro vei­\nkalą suprantamą net ir mažiau išsilavinusiam skaitytojui."
+  citata_rodoma: |
+    Labai reikšmingą priedą prie „Likimo kelių” sudaro V. Bičiūno
+    pastabos ir komentarai. Be jų daugeliui nebūtų aiškios nei paties au­
+    toriaus intencijos, nei tikslas bei veikalo idėja Komentarai daro vei­
+    kalą suprantamą net ir mažiau išsilavinusiam skaitytojui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -132,7 +136,15 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
     Vinco Višvilio sunkūs ieškojimai, klajonės, nuostabus nuotykiai ir il­
     ga kelionė — tai giliai prasmingas visos mūsų tautos kelias nuo pat
     pradžios ligi šių dienų.
-  citata_rodoma: "8, —\n„Likimo kelių” turinį sudaro savotiškai pasakiškas pasakoji­\nmas apie Vincą Višvilį — prastą kaimo bernaitį piemenėli, kuris pri­\nsiklausęs motinos pasakų apie karalių Žvaigždikį ir karalienę Panikę,\nryžtasi prikelti iš miego Žvaigždikį, atseit, pačią Lietuvą. Tie visi\nVinco Višvilio sunkūs ieškojimai, klajonės, nuostabus nuotykiai ir il­\nga kelionė — tai giliai prasmingas visos mūsų tautos kelias nuo pat\npradžios ligi šių dienų."
+  citata_rodoma: |
+    8, —
+    „Likimo kelių” turinį sudaro savotiškai pasakiškas pasakoji­
+    mas apie Vincą Višvilį — prastą kaimo bernaitį piemenėli, kuris pri­
+    siklausęs motinos pasakų apie karalių Žvaigždikį ir karalienę Panikę,
+    ryžtasi prikelti iš miego Žvaigždikį, atseit, pačią Lietuvą. Tie visi
+    Vinco Višvilio sunkūs ieškojimai, klajonės, nuostabus nuotykiai ir il­
+    ga kelionė — tai giliai prasmingas visos mūsų tautos kelias nuo pat
+    pradžios ligi šių dienų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

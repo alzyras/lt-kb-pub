@@ -62,7 +62,12 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
     Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
     Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
     nėjęs Vytautą nepradėti kautynių.
-  citata_rodoma: "Prie Vorsklos galvas paguldė\nVytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis\nKrokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.\nJo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­\nnėjęs Vytautą nepradėti kautynių."
+  citata_rodoma: |
+    Prie Vorsklos galvas paguldė
+    Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis
+    Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
+    Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
+    nėjęs Vytautą nepradėti kautynių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

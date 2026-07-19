@@ -105,7 +105,8 @@ Nenurodyta
     geidė.
     Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vy­
     žas pinti.
-  citata_rodoma: "Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti."
+  citata_rodoma: |
+    Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti.
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
@@ -125,7 +126,8 @@ Nenurodyta
     snukį ir kulną*'.
     Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų
     po padu, kad jis ilgiau laikytų.
-  citata_rodoma: "Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų po padu, kad jis ilgiau laikytų."
+  citata_rodoma: |
+    Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų po padu, kad jis ilgiau laikytų.
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
@@ -146,7 +148,8 @@ Nenurodyta
     prievakary ir atnešė terboje žirnių anksčių.
     Pertaisė Napaliuko dar­
     bą ir padarė dailią, mažą vyžiukę.
-  citata_rodoma: "Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę."
+  citata_rodoma: |
+    Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę.
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas

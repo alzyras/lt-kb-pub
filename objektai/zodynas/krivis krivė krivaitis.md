@@ -141,7 +141,12 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį.
-  citata_rodoma: "Toks didelis buvo jo autoritetas,\nkad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu\nkitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos\niš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta\nsenovėje, negęstančiąją ugnį."
+  citata_rodoma: |
+    Toks didelis buvo jo autoritetas,
+    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
+    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
+    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
+    senovėje, negęstančiąją ugnį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -158,7 +163,9 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     genere — III, 100) terminu D. apibūdina to meto prūsų ir lietuvių visuomenės socialines
     viršūnes (III, 7, 21, 122, 220, 259, 318, 332 ir kt.); taip pat vadinami ir Lenkijos (II, 3;
     III, 357), Vokietijos, Anglijos (III, 327, 348; IV, 52; Papildymai, 9) feodalai.
-  citata_rodoma: "Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis\nJ., Pagonybės..., p. 107)."
+  citata_rodoma: |
+    Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
+    J., Pagonybės..., p. 107).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

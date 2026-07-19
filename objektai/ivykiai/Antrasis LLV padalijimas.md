@@ -86,7 +86,8 @@ Nenurodyta
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
     Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
     žemės.
-  citata_rodoma: "Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių"
+  citata_rodoma: |
+    Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

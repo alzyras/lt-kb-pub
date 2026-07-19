@@ -78,7 +78,8 @@ media_all_json: |-
     pilna Laumės ar Laimės vardų. Šias „pirmines“ šventvietes turėjo sergėti
     žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-
     ganos („regėti“).
-  citata_rodoma: "žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-"
+  citata_rodoma: |
+    žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

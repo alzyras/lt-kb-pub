@@ -85,7 +85,14 @@ Nenurodyta
     entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
-  citata_rodoma: "Pakviesti \nį tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug \nambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio \nentuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus \nVakarų diplomatų epitetą „Baltic Kindergarten“… \nVilniuje pašalinamas Lenino paminklas.  \n1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka"
+  citata_rodoma: |
+    Pakviesti
+    į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug
+    ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio
+    entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
+    Vakarų diplomatų epitetą „Baltic Kindergarten“…
+    Vilniuje pašalinamas Lenino paminklas.
+    1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

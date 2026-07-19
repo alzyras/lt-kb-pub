@@ -118,7 +118,17 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
     sitarimą su Rytų bažnyčia ti­
     kėjimo reikalais, tuo užgaudamas p ase k ėju s Rytų schi­
     zmos, kurios atkakliai laikėsi Seversko didikai.
-  citata_rodoma: "K as be ko, sunki bausmė, bet ir ji neįsten­\ngė sugrąžinti didikų atgal prie karaliaus. Įžeistos širdys \nvisur pradėjo matyti įžeidinėjimą ir godžiai klausytis \ntų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų \nLietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­\nm ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­\nmo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir \npradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­\ngai skųstis, jog, juos priimant, buvęs užgautas jų oru­\nmas."
+  citata_rodoma: |
+    K as be ko, sunki bausmė, bet ir ji neįsten­
+    gė sugrąžinti didikų atgal prie karaliaus. Įžeistos širdys
+    visur pradėjo matyti įžeidinėjimą ir godžiai klausytis
+    tų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų
+    Lietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­
+    m ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­
+    mo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir
+    pradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­
+    gai skųstis, jog, juos priimant, buvęs užgautas jų oru­
+    mas.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

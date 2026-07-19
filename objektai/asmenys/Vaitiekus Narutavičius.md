@@ -99,7 +99,38 @@ media_all_json: |-
     sų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­
     miems, surašyta Petro Opalinskio, Poznanės kustodo, ran­
     ka, kuriam šis reikalas buvo pavestas.
-  citata_rodoma: "Ir taip \nmes minėtų mūsų valdinių žydų Trakuose reikalui visas jų \nnuosavybes, paliaubas ir sprendimus maloningai palaikyda­\nmi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­\nsomybes, minėtoje privilegijoje aprašytas, nutarėme saugoti, \nginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­\nriname ir giname, žiūrėdami, kad ši galia ir šis raštas am­\nžiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui \nir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­\nvo ir vyko Melnike pirmadienį prieš Tris Karalius metais \nnuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­\nsiam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko \n[Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­\nkų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­\ndžiosios Kunigaikštystės didžiajam maršalkai ir Gardino \nseniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­\nnigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­\nvadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui, \nVaitiekui Janavičiui - karališkajam rūmininkui ir Kauno \nseniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­\nšalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •\n• -- \n199\n\n## Puslapis 216\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmaršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­\nsų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­\nmiems, surašyta Petro Opalinskio, Poznanės kustodo, ran­\nka, kuriam šis reikalas buvo pavestas."
+  citata_rodoma: |
+    Ir taip
+    mes minėtų mūsų valdinių žydų Trakuose reikalui visas jų
+    nuosavybes, paliaubas ir sprendimus maloningai palaikyda­
+    mi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­
+    somybes, minėtoje privilegijoje aprašytas, nutarėme saugoti,
+    ginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­
+    riname ir giname, žiūrėdami, kad ši galia ir šis raštas am­
+    žiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui
+    ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­
+    vo ir vyko Melnike pirmadienį prieš Tris Karalius metais
+    nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­
+    siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko
+    [Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­
+    kų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­
+    džiosios Kunigaikštystės didžiajam maršalkai ir Gardino
+    seniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­
+    nigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­
+    vadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui,
+    Vaitiekui Janavičiui - karališkajam rūmininkui ir Kauno
+    seniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­
+    šalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •
+    • --
+    199
+
+    ## Puslapis 216
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    maršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­
+    sų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­
+    miems, surašyta Petro Opalinskio, Poznanės kustodo, ran­
+    ka, kuriam šis reikalas buvo pavestas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

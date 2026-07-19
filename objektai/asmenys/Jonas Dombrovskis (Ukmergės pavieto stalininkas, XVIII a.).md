@@ -80,7 +80,10 @@ Jonas Dombrovskis buvo Ukmergės pavieto stalininkas. Jonas Dombrovskis su broli
     (šiandieninėje Baltarusijoje, Vitebsko srityje) valdas. Anot J. D. Lopacinskio abu su broliu
     Ukmergės pavieto stalininku Jonu Dombrovskiu (Jan Dombrowski) prašė, kad M. K. Sa-
     piega nenorėtų iš jų atpirkti rakto.
-  citata_rodoma: "Anot J. D. Lopacinskio abu su broliu\nUkmergės pavieto stalininku Jonu Dombrovskiu (Jan Dombrowski) prašė, kad M. K. Sa-\npiega nenorėtų iš jų atpirkti rakto."
+  citata_rodoma: |
+    Anot J. D. Lopacinskio abu su broliu
+    Ukmergės pavieto stalininku Jonu Dombrovskiu (Jan Dombrowski) prašė, kad M. K. Sa-
+    piega nenorėtų iš jų atpirkti rakto.
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

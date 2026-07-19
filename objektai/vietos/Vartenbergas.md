@@ -95,7 +95,14 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
     sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
     užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris ir vaikus išsivarė į
     nelaisvę.
-  citata_rodoma: "Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį\n\n  Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,\npavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną\nsekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai\nužgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į\nnelaisvę."
+  citata_rodoma: |
+    Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
+
+      Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
+    pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
+    sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
+    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
+    nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

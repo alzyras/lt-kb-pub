@@ -84,7 +84,14 @@ Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis 
     sirodydavo trečią kartą. Tuomet kildavo neapsakomas išgąs­
     tis, nepaprasta baimė dėl greito rūstaus dievų keršto apimda­
     vo šeimininką, namiškius ir kaimynus.
-  citata_rodoma: "Skaityk apie jį žemiau,\nstraipsnyje „Žyniai“.\nTą patį dievą skandinavai vadina Pro, taip pat Dievų satra­\npu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­\nralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs\ndaug laivų, maldavo jo malonės juodosiomis aukomis, ką se­\nnovės švedai vadinoFroblosk, auka dievui Fra."
+  citata_rodoma: |
+    Skaityk apie jį žemiau,
+    straipsnyje „Žyniai“.
+    Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
+    pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
+    ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
+    daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
+    novės švedai vadinoFroblosk, auka dievui Fra.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

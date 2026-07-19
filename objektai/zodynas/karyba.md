@@ -76,7 +76,15 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
     skaitytojams pamatyti Lietuvos istoriją ir Lietuvos kary-
     bos raidą nauju kampu ir paskatins papildyti Lietuvos ka-
     rybos istorijos tyrinėtojų gretas naujais jaunais istorikais.
-  citata_rodoma: "Stengtasi pateikti daug kontekstinės informacijos,\nnupasakojančios kiekvieno laikotarpio karybos, ginkluo-\ntės raidos tendencijas bei regiono geopolitinį kontekstą.\n\nKnygos rengėjai tikisi, kad ši knyga suteiks galimybę\nskaitytojams pamatyti Lietuvos istoriją ir Lietuvos kary-\nbos raidą nauju kampu ir paskatins papildyti Lietuvos ka-\nrybos istorijos tyrinėtojų gretas naujais jaunais istorikais."
+  citata_rodoma: |
+    Stengtasi pateikti daug kontekstinės informacijos,
+    nupasakojančios kiekvieno laikotarpio karybos, ginkluo-
+    tės raidos tendencijas bei regiono geopolitinį kontekstą.
+
+    Knygos rengėjai tikisi, kad ši knyga suteiks galimybę
+    skaitytojams pamatyti Lietuvos istoriją ir Lietuvos kary-
+    bos raidą nauju kampu ir paskatins papildyti Lietuvos ka-
+    rybos istorijos tyrinėtojų gretas naujais jaunais istorikais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -83,7 +83,15 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
     los Užupyje; antrą kartą 1749 metų birželio 8 dieną iš Subačiaus prie­
     miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
     žirbos iš nepaprasta liepsna užsidegusio kamino.
-  citata_rodoma: "Žemės motina (Žemines Mahti)\nPožemio deivė, gyvenusi žemės viduryje. Jeigu kas nors\nnumesta ant žemės arba pamesta, jos galia sugrąžinti to pra­\nšantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­\ntas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­\ndavo savo malonę, leisdama toms mergelėms per naktį nu­\ndirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų\nviską gatava."
+  citata_rodoma: |
+    Žemės motina (Žemines Mahti)
+    Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors
+    numesta ant žemės arba pamesta, jos galia sugrąžinti to pra­
+    šantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­
+    tas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­
+    davo savo malonę, leisdama toms mergelėms per naktį nu­
+    dirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų
+    viską gatava.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

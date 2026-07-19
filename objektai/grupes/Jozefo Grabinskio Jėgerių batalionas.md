@@ -76,7 +76,16 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
     (2004 m. vykusi
     1794 m. sukilimo
     kovų inscenizacija)
-  citata_rodoma: "Vėliau Vilnių nuo rusų puolimo gynė\ngen. mjr. Jono Mejeno divizija, kurią sudarė\n2-0ji ir 3-ioji Tautinės kavalerijos brigados,\nmjr. Jozefo Grabinskio Jėgerių batalionas,\n\nLDK kariuomenės\nartileristai prasidėjus\nsukilimui Vilniuje\n(2004 m."
+  citata_rodoma: |
+    Vėliau Vilnių nuo rusų puolimo gynė
+    gen. mjr. Jono Mejeno divizija, kurią sudarė
+    2-0ji ir 3-ioji Tautinės kavalerijos brigados,
+    mjr. Jozefo Grabinskio Jėgerių batalionas,
+
+    LDK kariuomenės
+    artileristai prasidėjus
+    sukilimui Vilniuje
+    (2004 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -287,7 +287,22 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     nuo kūno nuplėšę, nupjovę ir nukir­
     tę, iš šios galvos visaip tyčiojosi ir ją
     užgauliojo karaliaus paniekinimui].
-  citata_rodoma: ", p. 35, parašyta: \nTandem Christianissimum principem \ndominum Cazimirum dictum Cortgel- \nlo, fratrem germanum domini Regis, in­\nterfecerunt, interfectique caput a corpo­\nre scindentes et amputantes et \ndetruncantes, cum eodem capite ludib­\nria et multas subsannaciones fecerunt \nin vilipendium Regis. [Pagaliau krikš­\nčioniškąjį valdovą poną Kazimierą, \nvadinamą Karigaila, tikrą karaliaus \nbrolį, nužudė, ir nužudytojo galvą \nnuo kūno nuplėšę, nupjovę ir nukir­\ntę, iš šios galvos visaip tyčiojosi ir ją \nužgauliojo karaliaus paniekinimui]."
+  citata_rodoma: |
+    , p. 35, parašyta:
+    Tandem Christianissimum principem
+    dominum Cazimirum dictum Cortgel-
+    lo, fratrem germanum domini Regis, in­
+    terfecerunt, interfectique caput a corpo­
+    re scindentes et amputantes et
+    detruncantes, cum eodem capite ludib­
+    ria et multas subsannaciones fecerunt
+    in vilipendium Regis. [Pagaliau krikš­
+    čioniškąjį valdovą poną Kazimierą,
+    vadinamą Karigaila, tikrą karaliaus
+    brolį, nužudė, ir nužudytojo galvą
+    nuo kūno nuplėšę, nupjovę ir nukir­
+    tę, iš šios galvos visaip tyčiojosi ir ją
+    užgauliojo karaliaus paniekinimui].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -332,7 +347,20 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     Visi tuometiniai kryžiuočių prane­
     šimai panašiai užginčija, kad Kari-
     gailalauvęs nukirsdintas.
-  citata_rodoma: "Didenybei \ntaip kalbėjo, nežinojo ir nežino, kaip \nbuvo iš tikrųjų. Kadangi girdėjome\niš vyriausiojo maršalo ir iš kitų gar­\nbingų žmonių, ponų riterių, ginkla­\nnešių, jog kunigaikštis Karigaila, ka­\nreivių neatpažintas buvęs nukautas, \nir kad tik penktą dieną iš lietuvių, \npabėgusių iš Aukštutinės pilies, bu­\nvo sužinota, jog kunigaikštis žuvęs/' \nVisi tuometiniai kryžiuočių prane­\nšimai panašiai užginčija, kad Kari- \ngailalauvęs nukirsdintas."
+  citata_rodoma: |
+    Didenybei
+    taip kalbėjo, nežinojo ir nežino, kaip
+    buvo iš tikrųjų. Kadangi girdėjome
+    iš vyriausiojo maršalo ir iš kitų gar­
+    bingų žmonių, ponų riterių, ginkla­
+    nešių, jog kunigaikštis Karigaila, ka­
+    reivių neatpažintas buvęs nukautas,
+    ir kad tik penktą dieną iš lietuvių,
+    pabėgusių iš Aukštutinės pilies, bu­
+    vo sužinota, jog kunigaikštis žuvęs/'
+    Visi tuometiniai kryžiuočių prane­
+    šimai panašiai užginčija, kad Kari-
+    gailalauvęs nukirsdintas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -387,7 +415,24 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     tuvos sostinei.
     valdovui, S 1 a p t. Arch, esantis
     (Briefe des Grosskomthurs an den Köm.
-  citata_rodoma: "Arkikomtūro laiškas Romos\n- •\n123\n\n## Puslapis 140\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nPatrankų, apie kurias neseniai buvo sužinota, baisūs pa­\ndariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose \nįgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo \npagautų žmonių kamšatis ir visur umaru besibraunantis, įsi- \nšėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­\nti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­\ntutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito \nmūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­\nvo likimą31. Taip pasibaigė toji diena, lig tolei baisiausia Lie­\ntuvos sostinei."
+  citata_rodoma: |
+    Arkikomtūro laiškas Romos
+    - •
+    123
+
+    ## Puslapis 140
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­
+    dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose
+    įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo
+    pagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-
+    šėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­
+    ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­
+    tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
+    mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
+    vo likimą31. Taip pasibaigė toji diena, lig tolei baisiausia Lie­
+    tuvos sostinei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

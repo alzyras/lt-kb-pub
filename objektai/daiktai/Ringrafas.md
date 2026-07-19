@@ -81,7 +81,14 @@ Nenurodyta
     išsigelbėjo nuo visiško sunaikinimo, būsi-
     mas Rusijos karvedys vos išvengė mirties.
     Gen. mjr.
-  citata_rodoma: "XVIII a. Lietuvos kariuomenės gvardijos pėstininkų\nkarininkų ringrafas (nedidelis skydelis, nešiojamas\nant krūtinės) su Lietuvos herbu - Vyčiu\n\nĮnirtingo mūšio metu šis batalionas vos\nišsigelbėjo nuo visiško sunaikinimo, būsi-\nmas Rusijos karvedys vos išvengė mirties."
+  citata_rodoma: |
+    XVIII a. Lietuvos kariuomenės gvardijos pėstininkų
+    karininkų ringrafas (nedidelis skydelis, nešiojamas
+    ant krūtinės) su Lietuvos herbu - Vyčiu
+
+    Įnirtingo mūšio metu šis batalionas vos
+    išsigelbėjo nuo visiško sunaikinimo, būsi-
+    mas Rusijos karvedys vos išvengė mirties.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

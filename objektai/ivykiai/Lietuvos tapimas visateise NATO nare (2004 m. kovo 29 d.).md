@@ -110,7 +110,10 @@ Nenurodyta
     mui į NATO. 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
     garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
     tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
-  citata_rodoma: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-\ngarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-\ntos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės."
+  citata_rodoma: |
+    2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
+    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
+    tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -160,7 +160,17 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
     juostas.
     Apsiribokime spėlionėmis apie senovės kūrinį, kuris
     leidžia mums pažinti tik savo žaismo fragmentus.
-  citata_rodoma: "Todėl viskas prasidėjo nuo Siaurės, nes prie\npusiaujo dėl karščio niekas negalėjo augti. Tai taip pat\nsutampa su žymiojo tyrinėtojo pono Humbolto aiškini­\nmais; jis teigia, kad tropikų augalija vėsėjusi senovės\nŠiaurėje, kuri turėjo tuomet gana daug išsiskyrusios ši­\nlumos, kai kieta sausumos dalis atsiskyrė nuo skystos, o\nlai pirmiausia įvyko Šiaurėje: taip tropinė šiluma pagim­\ndė augaliją ir gyvūniją. Iš tikrųjų tai truko neilgai, o\ntik tol, kol susikaupusi šiluma išsisklaidė ir po kitas oro\njuostas."
+  citata_rodoma: |
+    Todėl viskas prasidėjo nuo Siaurės, nes prie
+    pusiaujo dėl karščio niekas negalėjo augti. Tai taip pat
+    sutampa su žymiojo tyrinėtojo pono Humbolto aiškini­
+    mais; jis teigia, kad tropikų augalija vėsėjusi senovės
+    Šiaurėje, kuri turėjo tuomet gana daug išsiskyrusios ši­
+    lumos, kai kieta sausumos dalis atsiskyrė nuo skystos, o
+    lai pirmiausia įvyko Šiaurėje: taip tropinė šiluma pagim­
+    dė augaliją ir gyvūniją. Iš tikrųjų tai truko neilgai, o
+    tik tol, kol susikaupusi šiluma išsisklaidė ir po kitas oro
+    juostas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -71,7 +71,14 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
     muoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų
     kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai pa-
     lankus.
-  citata_rodoma: "Norėdama atskirti\nją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia\nįsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vig-\nriuose (1798 m.; 1818 m. ji buvo perkelta į Seinus). Pir-\nmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų\nkleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai pa-\nlankus."
+  citata_rodoma: |
+    Norėdama atskirti
+    ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia
+    įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vig-
+    riuose (1798 m.; 1818 m. ji buvo perkelta į Seinus). Pir-
+    muoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų
+    kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai pa-
+    lankus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

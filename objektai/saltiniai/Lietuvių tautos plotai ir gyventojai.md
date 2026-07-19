@@ -75,7 +75,9 @@ media_all_json: |-
     143-159 p. -—- Navickas, K. : Vilniaus gyventojų apavas XII1-XIV a.,
     ILKI, IV, 1964, 188-196 p. — Pakštas, K. : _Lietuvių tautos plotai ir
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr.
-  citata_rodoma: "— Pakštas, K. : _Lietuvių tautos plotai ir\ngyventojai_ , Aidai, nr. 3, 1957, 97-107 p."
+  citata_rodoma: |
+    — Pakštas, K. : _Lietuvių tautos plotai ir
+    gyventojai_ , Aidai, nr. 3, 1957, 97-107 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

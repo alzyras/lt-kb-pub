@@ -103,7 +103,9 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
     vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
     limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
     riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
-  citata_rodoma: "Bet toto-\nriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo."
+  citata_rodoma: |
+    Bet toto-
+    riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

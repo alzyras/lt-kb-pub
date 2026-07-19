@@ -93,7 +93,14 @@ Nenurodyta
     didžiojo kunigaikščio Kazimiero globėją Joną Goštau­
     tą, nes Jonas Goštautas buvo kunigaikščio Jurgio vai­
     kų krikštatėvis ir todėl jiedu bičiuliškai sugyveno.
-  citata_rodoma: "Ir didysis kunigaikštis Kazimieras juos priėmė, pri­\nsiekė elgsiąsis su jais maloningai ir patiksiąs jiems jų\nturtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­\njungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­\nlai palikti Kantautą bent trejus metus Žemaičių seniū­\nnu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­\ngaikščiui Kazimierui."
+  citata_rodoma: |
+    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
+    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
+    turtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­
+    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
+    lai palikti Kantautą bent trejus metus Žemaičių seniū­
+    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
+    gaikščiui Kazimierui.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

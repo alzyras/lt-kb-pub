@@ -106,7 +106,8 @@ Nenurodyta
     lotynų kalba – tai tikroji, arba gimtoji, lietuvių kalba.
     1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
     viena iš reikšmingiausių Naujųjų amžių apraiškų.
-  citata_rodoma: "1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma"
+  citata_rodoma: |
+    1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +130,8 @@ Nenurodyta
     su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
     padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
     teresų lygį ir taip išugdyti lietuvių inteligentiją.
-  citata_rodoma: "su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo"
+  citata_rodoma: |
+    su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

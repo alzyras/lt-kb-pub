@@ -134,7 +134,21 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     vykdant Valkininkų nutarimą, buvo iš
     esmės suformuota nauja LDK kariuomenė -
     7500 etatinių vienetų.
-  citata_rodoma: "“\n\nsuvažiavimas, priėmęs „Valkininkų nuta-\nrimą“, kuriuo buvo įkurta LDK bajorijos\ngeneralinė konfederacija, suformuoti ypa-\ntingieji LDK valdžios organai, nutarta atimti\niš Sapiegų jų turėtas pareigybes, o dvarus\nkonfiskuoti. Priėmusi nutarimą respubli-\nkonų kariuomenė nužygiavo į Vilnių, kur\nŠnipiškių priemiestyje įrengtoje stovykloje,\n\nvykdant Valkininkų nutarimą, buvo iš\nesmės suformuota nauja LDK kariuomenė -\n7500 etatinių vienetų."
+  citata_rodoma: |
+    “
+
+    suvažiavimas, priėmęs „Valkininkų nuta-
+    rimą“, kuriuo buvo įkurta LDK bajorijos
+    generalinė konfederacija, suformuoti ypa-
+    tingieji LDK valdžios organai, nutarta atimti
+    iš Sapiegų jų turėtas pareigybes, o dvarus
+    konfiskuoti. Priėmusi nutarimą respubli-
+    konų kariuomenė nužygiavo į Vilnių, kur
+    Šnipiškių priemiestyje įrengtoje stovykloje,
+
+    vykdant Valkininkų nutarimą, buvo iš
+    esmės suformuota nauja LDK kariuomenė -
+    7500 etatinių vienetų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -161,8 +175,23 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     Valkininkų mūšis galutinai sugriovė
     Sapiegų hegemoniją Lietuvoje, užbaigė nuo
 
-    1700 m. lapkričio 18 d. VALKININKŲ MUSIS 139
-  citata_rodoma: "Priėmusi nutarimą respubli-\nkonų kariuomenė nužygiavo į Vilnių, kur\nŠnipiškių priemiestyje įrengtoje stovykloje,\n\nvykdant Valkininkų nutarimą, buvo iš\nesmės suformuota nauja LDK kariuomenė -\n7500 etatinių vienetų. Išsireikalavusi iš\nVilniaus miesto kontribuciją, respublikonų\nkariuomenė iš sostinės pasitraukė į naujas\ndislokavimo vietas.\n\nValkininkų mūšis galutinai sugriovė\nSapiegų hegemoniją Lietuvoje, užbaigė nuo\n\n1700 m."
+    1700 m.
+  citata_rodoma: |
+    Priėmusi nutarimą respubli-
+    konų kariuomenė nužygiavo į Vilnių, kur
+    Šnipiškių priemiestyje įrengtoje stovykloje,
+
+    vykdant Valkininkų nutarimą, buvo iš
+    esmės suformuota nauja LDK kariuomenė -
+    7500 etatinių vienetų. Išsireikalavusi iš
+    Vilniaus miesto kontribuciją, respublikonų
+    kariuomenė iš sostinės pasitraukė į naujas
+    dislokavimo vietas.
+
+    Valkininkų mūšis galutinai sugriovė
+    Sapiegų hegemoniją Lietuvoje, užbaigė nuo
+
+    1700 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -180,7 +209,12 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     datuotas Valkininkuose 1700 m. lapkričio 24 d., t. y. tą pačią dieną,
     kai buvo padarytas nutarimas, skelbiąs Sapiegas išdavikais; bet iš
     tikro jis buvo surašytas vėliau, ir parašai surinkti atskirai. 1701—2 m.
-  citata_rodoma: "Tas raštas pasirašytas visų žymesniųjų Sapiegų priešų, bajorijos\nvadų (Višniaveckio, Oginskio, Katilo, Radvilos, Pociejaus ir kt.). Jis\ndatuotas Valkininkuose 1700 m. lapkričio 24 d., t. y. tą pačią dieną,\nkai buvo padarytas nutarimas, skelbiąs Sapiegas išdavikais; bet iš\ntikro jis buvo surašytas vėliau, ir parašai surinkti atskirai."
+  citata_rodoma: |
+    Tas raštas pasirašytas visų žymesniųjų Sapiegų priešų, bajorijos
+    vadų (Višniaveckio, Oginskio, Katilo, Radvilos, Pociejaus ir kt.). Jis
+    datuotas Valkininkuose 1700 m. lapkričio 24 d., t. y. tą pačią dieną,
+    kai buvo padarytas nutarimas, skelbiąs Sapiegas išdavikais; bet iš
+    tikro jis buvo surašytas vėliau, ir parašai surinkti atskirai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

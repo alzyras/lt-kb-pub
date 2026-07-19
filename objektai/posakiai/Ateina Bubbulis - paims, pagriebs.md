@@ -91,7 +91,13 @@ Vaikų gąsdinimo formulė, kurioje Bubbulis pristatomas kaip ateinanti ir pagri
     dami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­
     logijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­
     no, garbinimas sutampa.
-  citata_rodoma: "Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­\nveikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­\ndangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­\neina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,\nlik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai\nbuvo paprastas girtuoklių globėjo epitetas."
+  citata_rodoma: |
+    Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
+    veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
+    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
+    eina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,
+    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
+    buvo paprastas girtuoklių globėjo epitetas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

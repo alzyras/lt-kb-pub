@@ -101,7 +101,11 @@ media_all_json: |-
     nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
     šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
-  citata_rodoma: "Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,\nnes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie\nšono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo\nvartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti."
+  citata_rodoma: |
+    Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
+    nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
+    šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
+    vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -120,7 +124,12 @@ media_all_json: |-
     šiaipjau patalpose. Taip pat iš anksto didiko atgabentos virtuvės pa-
     gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo
     alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
-  citata_rodoma: "Atvežti\njie tuojau būdavo sutalpinami iš anksto pasamdytose smuklėse ir\nšiaipjau patalpose. Taip pat iš anksto didiko atgabentos virtuvės pa-\ngamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo\nalkani ir tikrai sočiai pavalgydavo tik seimelio metu."
+  citata_rodoma: |
+    Atvežti
+    jie tuojau būdavo sutalpinami iš anksto pasamdytose smuklėse ir
+    šiaipjau patalpose. Taip pat iš anksto didiko atgabentos virtuvės pa-
+    gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo
+    alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

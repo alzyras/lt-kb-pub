@@ -113,7 +113,11 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
     matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
     vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
     Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
-  citata_rodoma: "Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-\nmatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-\nvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų\nTrojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai."
+  citata_rodoma: |
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
+    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

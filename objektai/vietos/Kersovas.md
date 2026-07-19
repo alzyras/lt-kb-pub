@@ -88,7 +88,14 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
     bendrais užpuolė ir visus išžudė jų guoliuose, išskyrus vieną, kurį Martynas nukovė
     pastojęs jam kelią, kuriuo šis mėgino sprukti; po to sugrįžo namo su anksčiau pelnytu
     grobiu bei šių netikėlių ginklais ir kitais daiktais.
-  citata_rodoma: "Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį\n\n   Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės\ndalyje, kuri vadinama Kersovu,  ir, išžudę daugybę krikščionių, pasitraukė su dideliu\ngrobiu. Tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs\ndaugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas\nkopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”."
+  citata_rodoma: |
+    Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
+
+       Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės
+    dalyje, kuri vadinama Kersovu,  ir, išžudę daugybę krikščionių, pasitraukė su dideliu
+    grobiu. Tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs
+    daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas
+    kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -59,7 +59,9 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
     tuviškai kalbėti net tie, kurie ir moką. Liaudis tebekalbanti lietu-
     viškai, tačiau turinti mokytis lenkiškai, kad galėtų susikalbėti su
     ponais.
-  citata_rodoma: "**Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-\nnanti savo kalba, kad nekurianti savos literatūros."
+  citata_rodoma: |
+    **Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-
+    nanti savo kalba, kad nekurianti savos literatūros.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

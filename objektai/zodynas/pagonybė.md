@@ -139,7 +139,15 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
     ieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų,
     taigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-
     mėnų religinėms sistemoms.
-  citata_rodoma: "1 skyrius •  S E N O J I  L I E T U VA\n23\nPagonybė ir Lietuvos vardo paminėjimas  \n1009 metais\nDaugiausia ginčytinų teiginių ir vertinimų yra pasaky-\nta Lietuvos pagonybės tema. Taip atsitiko dėl prieštaros tarp pirmojoje \nXIX a. pusėje sukurto pagoniškos epochos kaip lietuvių aukso amžiaus \nmito ir istorijos šaltinių teikiamos informacijos skurdumo."
+  citata_rodoma: |
+    1 skyrius •  S E N O J I  L I E T U VA
+    23
+    Pagonybė ir Lietuvos vardo paminėjimas
+    1009 metais
+    Daugiausia ginčytinų teiginių ir vertinimų yra pasaky-
+    ta Lietuvos pagonybės tema. Taip atsitiko dėl prieštaros tarp pirmojoje
+    XIX a. pusėje sukurto pagoniškos epochos kaip lietuvių aukso amžiaus
+    mito ir istorijos šaltinių teikiamos informacijos skurdumo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

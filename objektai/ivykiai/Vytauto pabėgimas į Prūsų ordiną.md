@@ -123,7 +123,16 @@ Nenurodyta
     ir [prisiekiau) paklusnumą šventajam tėvui popiežiui.
     O tenai pas juos palikau savo brolį, savo seserį, savo
     žmoną ir savo vaikus. Visus juos palikau jo nelaisvėje.
-  citata_rodoma: "Ir po duo­\nto žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano \nmotiną taip pat nužudė, o ir mane patį jie paėmė į ne­\nlaisvę. Tada mane išgelbėjo dievas, ir aš nuo jų pabė­\ngau ir nubėgau pas prakilnius žmones, Prūsų Ordino \ndidįjį magistrą, priėmiau šventąjį krikščionių tikėjimą \nir [prisiekiau) paklusnumą šventajam tėvui popiežiui. \nO tenai pas juos palikau savo brolį, savo seserį, savo \nžmoną ir savo vaikus. Visus juos palikau jo nelaisvėje."
+  citata_rodoma: |
+    Ir po duo­
+    to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano
+    motiną taip pat nužudė, o ir mane patį jie paėmė į ne­
+    laisvę. Tada mane išgelbėjo dievas, ir aš nuo jų pabė­
+    gau ir nubėgau pas prakilnius žmones, Prūsų Ordino
+    didįjį magistrą, priėmiau šventąjį krikščionių tikėjimą
+    ir [prisiekiau) paklusnumą šventajam tėvui popiežiui.
+    O tenai pas juos palikau savo brolį, savo seserį, savo
+    žmoną ir savo vaikus. Visus juos palikau jo nelaisvėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

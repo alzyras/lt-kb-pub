@@ -71,7 +71,14 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
     poziciją Drobų-Murliškių-Deveikių-
     Purviškių-Lundaiškės linijoje, įsa-
     kyta pulti Degučių-Zarasų kryptimi.
-  citata_rodoma: "Viduriniajai, karin. V. Skorupskio va-\ndovaujamai kolonai (1-ojo pėst. pulko\ndu batalionai, pusė husarų eskadrono,\n4-osios baterijos vienas būrys), laikiusiai\npoziciją Drobų-Murliškių-Deveikių-\nPurviškių-Lundaiškės linijoje, įsa-\nkyta pulti Degučių-Zarasų kryptimi."
+  citata_rodoma: |
+    Viduriniajai, karin. V. Skorupskio va-
+    dovaujamai kolonai (1-ojo pėst. pulko
+    du batalionai, pusė husarų eskadrono,
+    4-osios baterijos vienas būrys), laikiusiai
+    poziciją Drobų-Murliškių-Deveikių-
+    Purviškių-Lundaiškės linijoje, įsa-
+    kyta pulti Degučių-Zarasų kryptimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

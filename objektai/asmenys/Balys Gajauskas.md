@@ -81,7 +81,8 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
     nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
     nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
     teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus).
-  citata_rodoma: "Sovietinė valdžia represijas prieš disidentus derino su dalinių"
+  citata_rodoma: |
+    Sovietinė valdžia represijas prieš disidentus derino su dalinių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

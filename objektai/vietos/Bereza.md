@@ -75,7 +75,10 @@ Bereza čia minima kaip laidojimo vieta.
     pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61]. Tais
     pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors
     didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
-  citata_rodoma: "Tais\npačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors\ndidikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės."
+  citata_rodoma: |
+    Tais
+    pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors
+    didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
   statusas: verified
   atnaujinta: "2026-07-14 05:14"
   teiginio_tipas: faktas

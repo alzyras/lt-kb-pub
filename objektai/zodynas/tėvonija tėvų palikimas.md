@@ -121,7 +121,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: "(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)"
+  citata_rodoma: |
+    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -141,7 +142,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta. Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
     Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.
-  citata_rodoma: "Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir"
+  citata_rodoma: |
+    Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -160,7 +162,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
     jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
     Užnemunę.
-  citata_rodoma: "tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau"
+  citata_rodoma: |
+    tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -1022,7 +1022,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Tautų Respublikos valdovu. 1592 m. mirus
     Jonui 111, Upsaloje 1594 m. jis taip pat vai-
     nikuotas ir Švedijos karaliumi.
-  citata_rodoma: "Mūšio priešistorė\nŠvedijos karalius Jonas 111 buvo vedęs\nLenkijos-Lietuvos valdovo Žygimanto\nAugusto seserį Kotryną. Jų sūnus Zigman-\ntas Vaza III 1587 m. buvo išrinktas Abiejų\nTautų Respublikos valdovu."
+  citata_rodoma: |
+    Mūšio priešistorė
+    Švedijos karalius Jonas 111 buvo vedęs
+    Lenkijos-Lietuvos valdovo Žygimanto
+    Augusto seserį Kotryną. Jų sūnus Zigman-
+    tas Vaza III 1587 m. buvo išrinktas Abiejų
+    Tautų Respublikos valdovu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1043,7 +1049,12 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     o Lenkijos Respublika. Galima su šypsena žiūrėti į tradicinės lenkų istori-
     nės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos
     partneris?
-  citata_rodoma: "Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-\nkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, \no Lenkijos Respublika. Galima su šypsena žiūrėti į tradicinės lenkų istori-\nnės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos \npartneris?"
+  citata_rodoma: |
+    Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
+    kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
+    o Lenkijos Respublika. Galima su šypsena žiūrėti į tradicinės lenkų istori-
+    nės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos
+    partneris?
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

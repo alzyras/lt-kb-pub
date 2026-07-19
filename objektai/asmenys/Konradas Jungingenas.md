@@ -80,7 +80,19 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
     nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
     kiolika dienų teplėšė Lietuvą.
-  citata_rodoma: "Prūsijos ordi­\nnas iš sykio griebėsi tos patogios progos pradėti karą ir nio­\nkoti tuos pavojingus jam kaimynus (1394 m.); kitais metais \nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę \nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir \nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo, \nnet iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­\nje, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­\nnai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­\nkiolika dienų teplėšė Lietuvą."
+  citata_rodoma: |
+    Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­
+    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
+    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
+    kiolika dienų teplėšė Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

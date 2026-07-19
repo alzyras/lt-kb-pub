@@ -90,16 +90,25 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Iš tikrųjų žinome, jog grai­
-    kai taip vadino dvi upes: viena sruveno Atikoje ir buvo
-    Iliso intakas, antra yra italų upė, šiandien vadinama Pa­
-    du. Senovės astronomai tuo pačiu vardu pavadino dan­
-    gaus žvaigždynus. Eridano, susijusio su gintaru, būtina
-    ieškoti gintaringuose kraštuose, t. y. senovės prūsų žemių
-    kaimynystėje. Pats Plinijus, išdėstęs įvairiais prielaidas,
-    nurodo, kad Elektridų, arba Gintaringos, salos turėjusios
-    būti Germanų jūros šiaurinėje dalyje, prie Eridano žiočių3.
-  citata_rodoma: "Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­\ndelis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­\nkiodamas po Eridano ežerą, niūniavo gražias priešmirti­\nnes giesmes.\n157\nŠio mito turinys sutampa su pono Radlofo požiūriu,\nkurį anksčiau (§ 145) pateikėme; šios žinios pateko iš\npadavimų į graikų poetų kūrinius. Dabar reikia tik pa­\nstudijuoti Eridano upę."
+    Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
+    delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­
+    kiodamas po Eridano ežerą, niūniavo gražias priešmirti­
+    nes giesmes.
+    157
+    Šio mito turinys sutampa su pono Radlofo požiūriu,
+    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
+    padavimų į graikų poetų kūrinius. Dabar reikia tik pa­
+    studijuoti Eridano upę.
+  citata_rodoma: |
+    Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
+    delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­
+    kiodamas po Eridano ežerą, niūniavo gražias priešmirti­
+    nes giesmes.
+    157
+    Šio mito turinys sutampa su pono Radlofo požiūriu,
+    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
+    padavimų į graikų poetų kūrinius. Dabar reikia tik pa­
+    studijuoti Eridano upę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

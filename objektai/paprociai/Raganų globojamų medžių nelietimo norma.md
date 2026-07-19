@@ -120,7 +120,14 @@ Nenurodyta
     buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
     gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
     žmoną.
-  citata_rodoma: "Kiekviena ragana turėjo savo medį, kurį globojo stengda­\nmasi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,\nkurie jai tuo tikslu būtų padėję, ji galėjo suteikti tūkstantį pa­\nslaugų ir malonumų. Priešingai, tam, kuris norėjo savavališ­\nkai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­\nkų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti\nneišgydomomis ligomis. Taip anot lietuvių padavimų."
+  citata_rodoma: |
+    Kiekviena ragana turėjo savo medį, kurį globojo stengda­
+    masi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,
+    kurie jai tuo tikslu būtų padėję, ji galėjo suteikti tūkstantį pa­
+    slaugų ir malonumų. Priešingai, tam, kuris norėjo savavališ­
+    kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
+    kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
+    neišgydomomis ligomis. Taip anot lietuvių padavimų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -75,7 +75,12 @@ Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provin
     komitetas, pasivadinęs Laikinąja
     Vyriausybe Lietuvoje. Sukilimo vadu
     Lietuvoje tapo Konstantinas Kalinauskas.
-  citata_rodoma: "Lietuvoje analogišką manifestą 1863 m.\nvasario 1 d. paskelbė Lietuvos Provincijos\nkomitetas, pasivadinęs Laikinąja\nVyriausybe Lietuvoje. Sukilimo vadu\nLietuvoje tapo Konstantinas Kalinauskas."
+  citata_rodoma: |
+    Lietuvoje analogišką manifestą 1863 m.
+    vasario 1 d. paskelbė Lietuvos Provincijos
+    komitetas, pasivadinęs Laikinąja
+    Vyriausybe Lietuvoje. Sukilimo vadu
+    Lietuvoje tapo Konstantinas Kalinauskas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

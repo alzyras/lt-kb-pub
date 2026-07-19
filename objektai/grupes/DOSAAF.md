@@ -55,7 +55,14 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
     stotys gautos iš kol kas nežinomų šaltinių
     ir panaudotos radijo žvalgybai (sovietų
     ryšio pasiklausymui).
-  citata_rodoma: "Nešiojamosios radijo\nstotelės perimtos iš buvusios DOSAAF\n(jomis buvo sukurtas ryšio tinklas tarp\nlauko postų), R-105 ir R-107 karinės radijo\nstotys gautos iš kol kas nežinomų šaltinių\nir panaudotos radijo žvalgybai (sovietų\nryšio pasiklausymui)."
+  citata_rodoma: |
+    Nešiojamosios radijo
+    stotelės perimtos iš buvusios DOSAAF
+    (jomis buvo sukurtas ryšio tinklas tarp
+    lauko postų), R-105 ir R-107 karinės radijo
+    stotys gautos iš kol kas nežinomų šaltinių
+    ir panaudotos radijo žvalgybai (sovietų
+    ryšio pasiklausymui).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

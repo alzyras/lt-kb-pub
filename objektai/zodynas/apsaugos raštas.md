@@ -90,7 +90,14 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
     no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
     apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
     sos įtakos į Nemuną.
-  citata_rodoma: "Gavęs Jogai­\nlos apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­\npos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­\nlos ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­\nno seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu\napsistojo su savo motina ir broliais sutartoje vietoje prie Duby­\nsos įtakos į Nemuną."
+  citata_rodoma: |
+    Gavęs Jogai­
+    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
+    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
+    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
+    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
+    apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
+    sos įtakos į Nemuną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +119,12 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
     pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
     los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
     no seklumo esą nebegalima toliau plaukti.
-  citata_rodoma: "Gavęs Jogai­\nlos apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­\npos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­\nlos ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­\nno seklumo esą nebegalima toliau plaukti."
+  citata_rodoma: |
+    Gavęs Jogai­
+    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
+    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
+    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
+    no seklumo esą nebegalima toliau plaukti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

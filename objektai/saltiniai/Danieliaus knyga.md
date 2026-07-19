@@ -70,7 +70,11 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
     ugnies liežuviai kilo per 49 uolektis virš krosnies ir sudegino kūrikus, o Danieliaus ir jo
     bičiulių nė neužgavo ir nieko blogo jiems nepadarė, štai tada jis ir tarė: „Aukščiausias
     dievas padarė manyje ženklų ir stebuklų“.
-  citata_rodoma: "Pratarmė\n\n  „Aukščiausias dievas padarė manyje ženklų ir stebuklų. Taigi man patiko paskelbti jo\nženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III)."
+  citata_rodoma: |
+    Pratarmė
+
+      „Aukščiausias dievas padarė manyje ženklų ir stebuklų. Taigi man patiko paskelbti jo
+    ženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

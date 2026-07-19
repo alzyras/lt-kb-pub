@@ -155,7 +155,18 @@ Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono 
     galop susilieja su Tavos upe, kuri taip pat yra Gilijos ša­
     ka, ir įteka į Kuršių marias, dar padariusi Subelės ir Ver-
     gelės šakas.
-  citata_rodoma: "XV am­\nžiaus prūsų kronikininkas Henenbergeris nurodo dar dau­\ngiau šiandien jau neegzistuojančių šakų: Akmenės, Szyr- \nwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, \nKallamppe, Taszargis, U Imis, Szloda. Visi šie pavadinimai \nlietuvių kalboje turi prasmę ir teikia didelių galimybių \netimologiniams tyrimams. Pagrindinė kairioji vaga, atsi­\nšakojusi prie Sancinės, vadinama Gilge, arba Gilia, tai \nreiškia gylį; žemiau, ties Būdveitų kaimu, jį išsišakoja į \ndvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota; \njos tik prie Dreiškių kaimo vėl susilieja į vieną."
+  citata_rodoma: |
+    XV am­
+    žiaus prūsų kronikininkas Henenbergeris nurodo dar dau­
+    giau šiandien jau neegzistuojančių šakų: Akmenės, Szyr-
+    winde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm,
+    Kallamppe, Taszargis, U Imis, Szloda. Visi šie pavadinimai
+    lietuvių kalboje turi prasmę ir teikia didelių galimybių
+    etimologiniams tyrimams. Pagrindinė kairioji vaga, atsi­
+    šakojusi prie Sancinės, vadinama Gilge, arba Gilia, tai
+    reiškia gylį; žemiau, ties Būdveitų kaimu, jį išsišakoja į
+    dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota;
+    jos tik prie Dreiškių kaimo vėl susilieja į vieną.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

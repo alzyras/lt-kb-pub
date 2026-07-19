@@ -244,7 +244,10 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
     jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
     2 028 971 (be Vilniaus ir Klaipėdos kraštų).
-  citata_rodoma: "Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-\njo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo \n2 028 971 (be Vilniaus ir Klaipėdos kraštų)."
+  citata_rodoma: |
+    Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
+    jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
+    2 028 971 (be Vilniaus ir Klaipėdos kraštų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -281,7 +284,11 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     organizacijas. Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
     šaukusi karo padėties su Lenkija.
-  citata_rodoma: "Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.\nLenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbames-\nnę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių \norganizacijas. Dėl to 1927 m."
+  citata_rodoma: |
+    Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
+    Lenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbames-
+    nę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių
+    organizacijas. Dėl to 1927 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -321,7 +328,15 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
     plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
     žiūrėjo tik per Vilniaus prizmę.
-  citata_rodoma: "Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-\nga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, \nsocialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-\ntavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus \nkrašto, nors sustiprino regiono šalių bendradarbiavimą.\nPo nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-\nplomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva \nžiūrėjo tik per Vilniaus prizmę."
+  citata_rodoma: |
+    Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
+    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
+    socialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-
+    tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
+    krašto, nors sustiprino regiono šalių bendradarbiavimą.
+    Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
+    plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
+    žiūrėjo tik per Vilniaus prizmę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

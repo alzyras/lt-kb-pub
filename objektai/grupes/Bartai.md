@@ -481,7 +481,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
     krikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai
     vyrų.
-  citata_rodoma: "Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­\n     medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį\n\n  Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene\nįsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti\nsusibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria\nraitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios\ntarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė\nkažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar\n  416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m."
+  citata_rodoma: |
+    Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
+         medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
+
+      Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
+    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
+    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
+    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
+    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
+    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
+      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -540,7 +550,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
     kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
     šlovinamas per amžius, amen.
-  citata_rodoma: "dokumente — Barta major et minor\n\nDidžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių\nbuvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug\ntūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti\nketuris tūkstančius raitelių ir keturiasdešimt tūkstančių karių."
+  citata_rodoma: |
+    dokumente — Barta major et minor
+
+    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
+    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
+    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
+    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -561,7 +577,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
     jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
     tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius.
-  citata_rodoma: "144 (139). Apie daugybės prūsų žūtį\n\n  Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią\nkariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad\nir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba\npaėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis."
+  citata_rodoma: |
+    144 (139). Apie daugybės prūsų žūtį
+
+      Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
+    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
+    ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
+    paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -585,7 +607,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
-  citata_rodoma: "Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos\nkunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,\nkuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams\nširdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais\nir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe\nkarių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir\ngrobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo\nnė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską\npatvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir\nteisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė."
+  citata_rodoma: |
+    Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
+    kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
+    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
+    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
+    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
+    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
+    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -607,7 +639,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
     gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
     Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
-  citata_rodoma: "Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir\nprisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu\njie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,\npastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,\ntikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių. Kai šitai\npadarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga\ngynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas\nKrofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą."
+  citata_rodoma: |
+    Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
+    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
+    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
+    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
+    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių. Kai šitai
+    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
+    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
+    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -624,7 +664,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe. Mat jie turėjo šešis
     tūkstančius raitelių ir galybę kitokių karių. Kiekviena šių genčių turėjo daug stiprių
     pilių, tačiau per daug įkyrėčiau, apie kiekvieną jų skyrium pasakodamas.
-  citata_rodoma: "201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,\nPlicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor"
+  citata_rodoma: |
+    201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
+    Plicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -690,7 +732,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
     jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
     tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius.
-  citata_rodoma: "Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią\nkariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad\nir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba\npaėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.\nTodėl išsiuntė į priekį savo kariuomenę su grobiu, o pats nusekė iš paskos su nedideliu\npulkeliu."
+  citata_rodoma: |
+    Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
+    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
+    ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
+    paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
+    Todėl išsiuntė į priekį savo kariuomenę su grobiu, o pats nusekė iš paskos su nedideliu
+    pulkeliu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -754,7 +802,18 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85). Apie didelį krikščionių kraujo praliejimą"
+  citata_rodoma: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
+
+
+
+
+                   90 (85). Apie didelį krikščionių kraujo praliejimą
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -777,7 +836,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     žodžiais pridengęs klastą, garsiai vokiškai sakydavo: „Jei kas čia slapstosi, tegu išeina
     be baimės, nes netikėlių kariuomenė jau atsitraukė“. Tuos, kurie, patikėję šiais žodžiais,
     išeidavo, jis su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo.
-  citata_rodoma: "Kai šitai\npadarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga\ngynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas\nKrofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,\nkiti pasitraukė nebaigę reikalo. Piktžodžiautojui Divanui nutiko taip kaip tam Heliodorui,\nkuris, mėgindamas apiplėšti viešpaties šventyklos iždinę, krito dievo nutrenktas žemėn\nnegyvas; įėjęs  į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno\npagalbos, tik neštuvais buvo išneštas laukan."
+  citata_rodoma: |
+    Kai šitai
+    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
+    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
+    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
+    kiti pasitraukė nebaigę reikalo. Piktžodžiautojui Divanui nutiko taip kaip tam Heliodorui,
+    kuris, mėgindamas apiplėšti viešpaties šventyklos iždinę, krito dievo nutrenktas žemėn
+    negyvas; įėjęs  į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno
+    pagalbos, tik neštuvais buvo išneštas laukan.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -806,7 +873,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     traukti prieš lietuvius ir iš
     magistro išprašė karių; jis
     slapta nuvedė siaurais miškų
-  citata_rodoma: "Tuo tarpu keletas kitų lietuvių būrių\nniokojo Lenkijos pasienius, grįždami jie pateko į prie­\nšų pasalas, ir tuo metu, kai namai, regis, buvo ranka\npasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­\ntyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,\nkurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,\nvildamiesi, jog už naują išdavystę kryžiuočiai jiems\natleis jų ankstesnį nusikaltimą. Kitų metų pradžioje\nlietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­\nvo tokie blogi kaip anuomet."
+  citata_rodoma: |
+    Tuo tarpu keletas kitų lietuvių būrių
+    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
+    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
+    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
+    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
+    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
+    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
+    atleis jų ankstesnį nusikaltimą. Kitų metų pradžioje
+    lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
+    vo tokie blogi kaip anuomet.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -80,7 +80,17 @@ Nenurodyta
     prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
     vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
     brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
-  citata_rodoma: "Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį\n\n   Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.\nBrolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise\nKristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis\nviešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.\nBroliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę\nprūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;\nvienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė\nbrolius ir visus pilies gyventojus, o ją pačią pavertė pelenais."
+  citata_rodoma: |
+    Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
+
+       Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
+    Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
+    Kristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis
+    viešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
+    Broliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę
+    prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
+    vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
+    brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

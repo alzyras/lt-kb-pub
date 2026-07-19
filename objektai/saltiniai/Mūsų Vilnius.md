@@ -81,7 +81,8 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
     tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
     turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
     Vilnius“ leidimą.
-  citata_rodoma: "turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų"
+  citata_rodoma: |
+    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

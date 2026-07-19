@@ -397,7 +397,8 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
     rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
     čiatikių srityse, priėmė jų tikėjimą.
-  citata_rodoma: "Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą."
+  citata_rodoma: |
+    Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -416,7 +417,8 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liu­
     bartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties
     (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
-  citata_rodoma: "Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies."
+  citata_rodoma: |
+    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -435,7 +437,10 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     politikos sistemoje tai buvo vienas pagrindinis ramstis. Taip
     pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
     ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
-  citata_rodoma: "Taip\npat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­\nris vedė vienturtę Volynijos kunigaikščio įpėdinę."
+  citata_rodoma: |
+    Taip
+    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
+    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -460,7 +465,13 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
     mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
     nigaikščio vienturtę dukterį^4 ).
-  citata_rodoma: "1340 met.\npasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo\nir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir\nGedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­\nmine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­\nnigaikščio vienturtę dukterį"
+  citata_rodoma: |
+    1340 met.
+    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
+    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
+    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
+    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
+    nigaikščio vienturtę dukterį
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -481,7 +492,8 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     ir broliai. Buvo ne kartą ten nuvykęs ir Algirdas, bet dažniausiai
     nuvykdavo Kęstutis.
     Voluinę Liubartas vis dėlto atlaikė.
-  citata_rodoma: "Voluinę Liubartas vis dėlto atlaikė."
+  citata_rodoma: |
+    Voluinę Liubartas vis dėlto atlaikė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -501,7 +513,10 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
     gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
     vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
-  citata_rodoma: "Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-\ngaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo\nvedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės."
+  citata_rodoma: |
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
+    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -565,7 +580,15 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     turėjo vengti karo su lietuviais, antraip galėjo palūžti
     iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
     bių.
-  citata_rodoma: "Tad šis, norėdamas apginti savo teises į Ru­\nsią, nutarė, jog pirmiausia būtina kariauti su lietuviais.\nMat Rusią valdė Algirdo broliai: Liubartas — Lvovą,\nKęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-\nmantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai\nturėjo vengti karo su lietuviais, antraip galėjo palūžti\niš karto susidūrę su daugybe kliūčių ir karo sunkeny­\nbių."
+  citata_rodoma: |
+    Tad šis, norėdamas apginti savo teises į Ru­
+    sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.
+    Mat Rusią valdė Algirdo broliai: Liubartas — Lvovą,
+    Kęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-
+    mantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai
+    turėjo vengti karo su lietuviais, antraip galėjo palūžti
+    iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
+    bių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -636,7 +659,28 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     kymu dvejus metus statytą iš degtų plytų ir pareika­
     lavusią didelių išlaidų, paliepė iš pamatų sugriauti.
     Po to sutelktas jėgas nuvedė į Lenkiją ir smarkiai nu-
-  citata_rodoma: "Į tą pusę dabar \nL ie tu v ių \nka ra s \nRu- \nir patraukė visos jėgos. Tuo \nš io je p rie š len k u s \nmetu Aleksandras buvo iš­\nvykęs į Krokuvą, kur derė­\njosi su lenkais; iškeliavusį valdovą Vladimire pava­\ndavo lenkų riteris Petras Turskis; pilis turėjo pakan­\nkamai maisto ir galėjo atlaikyti ilgesnę apsuptį, tačiau \npilies viršininkas visai prarado narsą, kai pasirodė \nginkluoti būriai; jis iš niekur nesitikėjo paramos, to­\ndėl, išsiderėjęs, kad šie paliktų jo žmones gyvus ir \nneliestų turtų, bemat pasidavė, šitaip išvengdamas ka­\nmuojančios apgulos. Liubartas be kovos ir be didesnių \npastangų atgavo neseniai iš jo atimtą tėvoniją, seno­\nje medinėje pilyje įrengė visokių gynybinių įtvirtini­\nmų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa­\nkymu dvejus metus statytą iš degtų plytų ir pareika­\nlavusią didelių išlaidų, paliepė iš pamatų sugriauti."
+  citata_rodoma: |
+    Į tą pusę dabar
+    L ie tu v ių
+    ka ra s
+    Ru-
+    ir patraukė visos jėgos. Tuo
+    š io je p rie š len k u s
+    metu Aleksandras buvo iš­
+    vykęs į Krokuvą, kur derė­
+    josi su lenkais; iškeliavusį valdovą Vladimire pava­
+    davo lenkų riteris Petras Turskis; pilis turėjo pakan­
+    kamai maisto ir galėjo atlaikyti ilgesnę apsuptį, tačiau
+    pilies viršininkas visai prarado narsą, kai pasirodė
+    ginkluoti būriai; jis iš niekur nesitikėjo paramos, to­
+    dėl, išsiderėjęs, kad šie paliktų jo žmones gyvus ir
+    neliestų turtų, bemat pasidavė, šitaip išvengdamas ka­
+    muojančios apgulos. Liubartas be kovos ir be didesnių
+    pastangų atgavo neseniai iš jo atimtą tėvoniją, seno­
+    je medinėje pilyje įrengė visokių gynybinių įtvirtini­
+    mų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa­
+    kymu dvejus metus statytą iš degtų plytų ir pareika­
+    lavusią didelių išlaidų, paliepė iš pamatų sugriauti.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

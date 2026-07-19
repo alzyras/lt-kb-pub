@@ -84,7 +84,13 @@ Terminas vartojamas jaujos ir javų vėtymo darbo kontekste.
     šeimininko darbas —- kūrenti jaują ir išvėtyti krūvą (iškulti
     ir su­
     stumti į daiktą javai vadinasi „krūva“).
-  citata_rodoma: "Po pusryčių \ntuojau \nseka tiesus ir neišvengiamas \nšeimininko darbas —- kūrenti jaują ir išvėtyti krūvą (iškulti \nir su­\nstumti į daiktą javai vadinasi „krūva"
+  citata_rodoma: |
+    Po pusryčių
+    tuojau
+    seka tiesus ir neišvengiamas
+    šeimininko darbas —- kūrenti jaują ir išvėtyti krūvą (iškulti
+    ir su­
+    stumti į daiktą javai vadinasi „krūva
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

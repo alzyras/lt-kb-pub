@@ -89,7 +89,10 @@ K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į"
+  citata_rodoma: |
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

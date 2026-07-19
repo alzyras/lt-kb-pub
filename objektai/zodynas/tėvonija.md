@@ -175,7 +175,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta. Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
     Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.
-  citata_rodoma: "Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir"
+  citata_rodoma: |
+    Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -197,7 +198,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: "(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)"
+  citata_rodoma: |
+    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -328,7 +330,21 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     O tuo laiku Žemaičių didysis kunigaikštis Mantvila
     sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
     gaikščiai išvaikyti.
-  citata_rodoma: "4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ \nIR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE\nO paskui 1  didysis kunigaikštis Kernius ir Gimbu­\ntas, geisdami praplėsti savo tėvonijas, sutelkė savo pa­\njėgas iš Lietuvos ir Žemaičių ir leidosi į Rusią, link \nBreslaujos ir link Polocko, ir padarė daug žalos rusams, \njų žemę nuniokojo ir daugybę žmonių išsivarė ne­\nlaisvėn 2 .\nO tuo laiku, jam bebūnant Rusioje, kita gentis, va­\ndinama latviais, kurie gyveno jūros pakrantėje ir iš­\ngirdo, kad kunigaikščio Kerniaus nebėra Lietuvoje, \no didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi \nsusirinkę patraukė į Žemaičių žemę ir pridarė Žemai­\nčių žemėje daug žalos."
+  citata_rodoma: |
+    4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ
+    IR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE
+    O paskui 1  didysis kunigaikštis Kernius ir Gimbu­
+    tas, geisdami praplėsti savo tėvonijas, sutelkė savo pa­
+    jėgas iš Lietuvos ir Žemaičių ir leidosi į Rusią, link
+    Breslaujos ir link Polocko, ir padarė daug žalos rusams,
+    jų žemę nuniokojo ir daugybę žmonių išsivarė ne­
+    laisvėn 2 .
+    O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
+    dinama latviais, kurie gyveno jūros pakrantėje ir iš­
+    girdo, kad kunigaikščio Kerniaus nebėra Lietuvoje,
+    o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi
+    susirinkę patraukė į Žemaičių žemę ir pridarė Žemai­
+    čių žemėje daug žalos.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

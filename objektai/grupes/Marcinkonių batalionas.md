@@ -107,7 +107,14 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     Mūšio padariniai
     Operacijos metu žuvo 4 partizanai ir 2 buvo
     sužeisti.
-  citata_rodoma: "Marcinkonių bataliono vyrams buvo\nnesmagu dėl savo pavėlavimo į kauty-\nnes, todėl jie kitą, gruodžio 16 d. puolė\nPerlojos stribų įgulą ir ją sunaikino.\nMūšio padariniai\nOperacijos metu žuvo 4 partizanai ir 2 buvo\nsužeisti."
+  citata_rodoma: |
+    Marcinkonių bataliono vyrams buvo
+    nesmagu dėl savo pavėlavimo į kauty-
+    nes, todėl jie kitą, gruodžio 16 d. puolė
+    Perlojos stribų įgulą ir ją sunaikino.
+    Mūšio padariniai
+    Operacijos metu žuvo 4 partizanai ir 2 buvo
+    sužeisti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -120,7 +120,11 @@ Nenurodyta
     sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
     apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
     brolio rankos.
-  citata_rodoma: "Vakarų misionierius, būsima-\nsis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia\napkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio\nbrolio rankos."
+  citata_rodoma: |
+    Vakarų misionierius, būsima-
+    sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
+    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
+    brolio rankos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +142,11 @@ Nenurodyta
     kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
     su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
     kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
-  citata_rodoma: "Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,\nkuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs\nsu krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri\nkildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės."
+  citata_rodoma: |
+    Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
+    kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
+    su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
+    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

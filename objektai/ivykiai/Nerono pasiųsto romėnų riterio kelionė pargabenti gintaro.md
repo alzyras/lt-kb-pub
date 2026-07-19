@@ -161,7 +161,16 @@ Nenurodyta
     investa, ut retta arcendis feris podium protegentia succinis nodaren-
     lur, arma vero et Ubitina totusque unius àtei apparatus esset e
     succino.
-  citata_rodoma: "Daugiau smulkmenų apie\nšią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į\nRomą. Pasaulio sostinę didžiai nustebino neregėta pra­\nbanga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­\njų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio\nmetu naudoti reikmenys spindėjo gintaru. Tarp daugelio\nretų egzempliorių matytas vienas gintaro gabalas, svėręs\n13 romėniškų svarų, arba apie pusę dešimties mūsų sva­\nrų2."
+  citata_rodoma: |
+    Daugiau smulkmenų apie
+    šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į
+    Romą. Pasaulio sostinę didžiai nustebino neregėta pra­
+    banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­
+    jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio
+    metu naudoti reikmenys spindėjo gintaru. Tarp daugelio
+    retų egzempliorių matytas vienas gintaro gabalas, svėręs
+    13 romėniškų svarų, arba apie pusę dešimties mūsų sva­
+    rų2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -152,7 +152,12 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
     nukristų ant žemės, tai savo nuolaužomis užgriozdytų beveik ket­
     virtadalį jos paviršiaus. Mėnulis yra rutulio formos kūnas, kaip
     obuolys; ant jo yra dėmės, juoduliai, t. y. kaip ant obuolių būva.
-  citata_rodoma: "Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­\ntorius, t. y. Raseinių korespondentas, galėjo būti ir Simonas Sta­\nnevičius\n(1799—1848)."
+  citata_rodoma: |
+    Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį
+    LTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­
+    torius, t. y. Raseinių korespondentas, galėjo būti ir Simonas Sta­
+    nevičius
+    (1799—1848).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

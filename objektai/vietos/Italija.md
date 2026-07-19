@@ -491,7 +491,12 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     jos autoriai išgalvojo nemaža kunigaikščių vardų, kurie už-
     pildė tą didelę spragą (II—XII amž.), ir visus Lietuvos
     kunigaikščius kildino iš to Palemono.
-  citata_rodoma: "Esą, istorijoje žinomas romėnų karvedys Publijas Li-\nbonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą\nir čia sukūręs valstybę. Jo vardas čia buvęs iškreiptas į Pale-\nmoną. Tas atsitikę I-II amžiuje po Kristaus. Kadangi pirmieji\nLietuvos kunigaikščiai yra žinomi tik iš XIII amž."
+  citata_rodoma: |
+    Esą, istorijoje žinomas romėnų karvedys Publijas Li-
+    bonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą
+    ir čia sukūręs valstybę. Jo vardas čia buvęs iškreiptas į Pale-
+    moną. Tas atsitikę I-II amžiuje po Kristaus. Kadangi pirmieji
+    Lietuvos kunigaikščiai yra žinomi tik iš XIII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -515,7 +520,16 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
     Vidurio Europą.
-  citata_rodoma: "senoji Vakarų Europa skilo į dvi dalis – pietinę katali-\nkiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-\npanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-\ncūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų \ndvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-\nteris Paulius Rubensas). \nProtestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-\nropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-\npos dalies (Olandija, Anglija) ir per XVII–XVIII a."
+  citata_rodoma: |
+    senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
+    kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
+    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
+    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
+    teris Paulius Rubensas).
+    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
+    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
+    pos dalies (Olandija, Anglija) ir per XVII–XVIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -639,7 +653,22 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
     pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
     lius.
-  citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
+  citata_rodoma: |
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

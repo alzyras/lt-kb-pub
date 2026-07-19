@@ -80,7 +80,12 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
     108), Prussia (1212 m..— ten pat, Nr. 6, p. 5; Nr. 7, p. 6; 1224 m.— Nr. 52, p. 38), Prutia
     (1216 m.—ten pat, Nr. 9, p. 7; 1222 m.— Nr. 41, p. 28), Prusia (1223 m,— ten pat, Nr.
     46, p. 34; 1230 m.— Nr. 75, p. 56), Prucia (1228 m.— ten pat, Nr. 67, p. 49—50).
-  citata_rodoma: "Į šiaurę nuo Nemuno žiočių, Minijos\nžemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.\nLietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,\np. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,\nžemėl.)."
+  citata_rodoma: |
+    Į šiaurę nuo Nemuno žiočių, Minijos
+    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
+    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
+    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
+    žemėl.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

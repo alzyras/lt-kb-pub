@@ -75,7 +75,8 @@ Terminas vartojamas kaip laukiamas apeiginės situacijos pasakymas.
     nima: „anksti rytą, bėras žirgas, žalia giria, raiba gegelė, rasa burna
     prausiama ir kita.“
     Tuo sykiu oracijos nebuvo.
-  citata_rodoma: "Tuo sykiu oracijos nebuvo"
+  citata_rodoma: |
+    Tuo sykiu oracijos nebuvo
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

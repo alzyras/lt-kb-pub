@@ -64,9 +64,11 @@ Davies N.
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Vilnius, 2005.
     Davies N. God’s playground: a history of Poland. T. 1: The origins to 1795.
-  citata_rodoma: "Davies N. God’s playground: a history of Poland. T. 1: The origins to 1795. \nNew York, 1982."
+    New York, 1982.
+  citata_rodoma: |
+    Davies N. God’s playground: a history of Poland. T. 1: The origins to 1795.
+    New York, 1982.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -421,7 +421,11 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
     suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: "broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė\njiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis\nir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties\npadedami, ateityje pajungsią savo valdžiai."
+  citata_rodoma: |
+    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
+    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
+    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
+    padedami, ateityje pajungsią savo valdžiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -447,7 +451,9 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
-  citata_rodoma: "170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.\n411)."
+  citata_rodoma: |
+    170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
+    411).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -467,7 +473,13 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
     e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
-  citata_rodoma: "Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186."
+  citata_rodoma: |
+    Prūsijos žemės aprašymas
+
+       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
+    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -487,7 +499,12 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,
     ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies
     plėšikavo.
-  citata_rodoma: "Kai apie tai sužinojo prūsai, jie, smarkiai\nsuirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto\nant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,\nilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies\nplėšikavo."
+  citata_rodoma: |
+    Kai apie tai sužinojo prūsai, jie, smarkiai
+    suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
+    ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,
+    ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies
+    plėšikavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -520,7 +537,9 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     Dravinė, Dreverna — Vanagas A. Lietuvių hidronimų..., p. 90—
     91; Salys A. [Prūsų] kalba, p. 148; Топоров B. H. Прусский язык, А—D, с. 371; K—L,
     с.
-  citata_rodoma: "Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo\nlenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca)."
+  citata_rodoma: |
+    Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
+    lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -539,7 +558,12 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     besiribojančios su prūsų teritorija, centras.
     169 Kaimas Sedlce (D.— Cedelicze) buvęs į pietus nuo Vyslos, kiek į šiaurę nuo
     Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose).
-  citata_rodoma: "Juos išklausęs, minėtasis valdovas Konradas, Lenkijos\nkunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas\n  168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje\nbesiribojančios su prūsų teritorija, centras.\n  169 Kaimas Sedlce (D."
+  citata_rodoma: |
+    Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
+    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
+      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
+    besiribojančios su prūsų teritorija, centras.
+      169 Kaimas Sedlce (D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -589,7 +613,15 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     ėję iš kaimų į bažnyčias,
     miestą pavyko užimti staigiu
     antpuoliu.
-  citata_rodoma: "Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė. \nKadangi Dobrynėje sekmadienį visi žmonės buvo su-\nD o b iy n ą , ž u d o k i y - \nnių ir plėšimo, žuvo liepsno-\ndevynis tūkstančius belaisvių. Su kryžiuočiais kautasi \natvirame lauke: mūšyje krito ordino magistras Bur- \nchardas Aremas su trisdešimčia to ordino riterių, o \nlietuviai laimėjo kautynes."
+  citata_rodoma: |
+    Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
+    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
+    D o b iy n ą , ž u d o k i y -
+    nių ir plėšimo, žuvo liepsno-
+    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
+    atvirame lauke: mūšyje krito ordino magistras Bur-
+    chardas Aremas su trisdešimčia to ordino riterių, o
+    lietuviai laimėjo kautynes.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

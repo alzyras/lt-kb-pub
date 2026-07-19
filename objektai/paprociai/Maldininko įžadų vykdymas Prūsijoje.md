@@ -81,7 +81,15 @@ Nenurodyta
     sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
     šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
     bažnyčios sienos.
-  citata_rodoma: "54 (53) Apie vieną stebuklą\n\n  Tuo metu pasimirė kelyje, grįždamas  į savo tėvynę, vienas kryžininkas iš Meiseno,\nkuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus. Jo sūnus, ilgai\nnesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas\nsustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas\nšlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo\nbažnyčios sienos."
+  citata_rodoma: |
+    54 (53) Apie vieną stebuklą
+
+      Tuo metu pasimirė kelyje, grįždamas  į savo tėvynę, vienas kryžininkas iš Meiseno,
+    kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus. Jo sūnus, ilgai
+    nesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas
+    sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
+    šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
+    bažnyčios sienos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

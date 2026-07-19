@@ -199,7 +199,10 @@ Nenurodyta
     ti kariuomenę. Jogaila nuvyko Krokuvon ir įsakė šaukti ka­
     riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
     po vieną vežimą maisto šešioms savaitėms.
-  citata_rodoma: "Jogaila nuvyko Krokuvon ir įsakė šaukti ka­\nriuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir\npo vieną vežimą maisto šešioms savaitėms."
+  citata_rodoma: |
+    Jogaila nuvyko Krokuvon ir įsakė šaukti ka­
+    riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
+    po vieną vežimą maisto šešioms savaitėms.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -76,7 +76,10 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
     Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir
     lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-
     lystę, nors ir nelinko nuo jos atsiskirti).
-  citata_rodoma: "Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir \nlenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-\nlystę, nors ir nelinko nuo jos atsiskirti)."
+  citata_rodoma: |
+    Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir
+    lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-
+    lystę, nors ir nelinko nuo jos atsiskirti).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -96,7 +99,12 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
     vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
     bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
     gūnus, žemutinės teismų grandies teisėjus.
-  citata_rodoma: "Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir \nsavivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-\nkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-\nbluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos \nvietos administracijos, atlikusios iš esmės pagalbines funkcijas."
+  citata_rodoma: |
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

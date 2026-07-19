@@ -84,14 +84,21 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
-    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
-    Dii socii arbaAnactes - monarchai. E Noelis mano, kad Kabi­
-    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
-    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
-    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
-    įvedė paslaptingą jų garbinimo ritualą.
-  citata_rodoma: "Čio­\nnykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena\nįnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,\npagrobiantis vėlę.\nVėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti\ndievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV\nlentelėje. Skaitykite straipsnį apie herbus."
+    Čio­
+    nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena
+    įnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,
+    pagrobiantis vėlę.
+    Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
+    dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
+    lentelėje. Skaitykite straipsnį apie herbus.
+  citata_rodoma: |
+    Čio­
+    nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena
+    įnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,
+    pagrobiantis vėlę.
+    Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
+    dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
+    lentelėje. Skaitykite straipsnį apie herbus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

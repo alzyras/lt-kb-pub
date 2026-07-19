@@ -82,7 +82,18 @@ Nenurodyta
     turėjo iš čia pasitraukti, o į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
     išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
     329 (322).
-  citata_rodoma: "Apie 80 lietuvių žūtį 1316 metais\n\n  Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir\n60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,\nturėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,\nišskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.\n\n\n\n\n             329 (322)."
+  citata_rodoma: |
+    Apie 80 lietuvių žūtį 1316 metais
+
+      Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
+    60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
+    turėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
+    išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
+
+
+
+
+                 329 (322).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

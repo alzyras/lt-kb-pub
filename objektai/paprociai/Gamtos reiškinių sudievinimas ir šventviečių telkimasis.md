@@ -100,7 +100,14 @@ Nenurodyta
     religinės sistemos neturėjo, o tik buvo sudievinę gamtą. Senieji lietuviai
     visur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje
     ir vandenyje – matę šventybės raišką.
-  citata_rodoma: "Romantikai \nieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų, \ntaigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-\nmėnų religinėms sistemoms. Juos kritikuojantieji manė, kad lietuviai \nreliginės sistemos neturėjo, o tik buvo sudievinę gamtą. Senieji lietuviai \nvisur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje \nir vandenyje – matę šventybės raišką."
+  citata_rodoma: |
+    Romantikai
+    ieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų,
+    taigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-
+    mėnų religinėms sistemoms. Juos kritikuojantieji manė, kad lietuviai
+    religinės sistemos neturėjo, o tik buvo sudievinę gamtą. Senieji lietuviai
+    visur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje
+    ir vandenyje – matę šventybės raišką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

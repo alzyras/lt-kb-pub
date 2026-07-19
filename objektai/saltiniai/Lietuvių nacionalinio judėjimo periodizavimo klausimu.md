@@ -72,7 +72,10 @@ media_all_json: |-
     kyklos Lietuvoje XIX a. antrojoje pusėje_** **(Pedagogika ir psichologija, t. 9,
     sąs. 2, 1969).**
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966.
-  citata_rodoma: "); kiti jo straips­\nniai :** **_Lietuvių nacionalinio judėjimo periodizavimo klausimu_** **(Problemos, t. 2,\n1968, 86-97 p.) ;** **_Nacionalinės buržuazijos formavimasis Lietuvoje XIX a."
+  citata_rodoma: |
+    ); kiti jo straips­
+    niai :** **_Lietuvių nacionalinio judėjimo periodizavimo klausimu_** **(Problemos, t. 2,
+    1968, 86-97 p.) ;** **_Nacionalinės buržuazijos formavimasis Lietuvoje XIX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

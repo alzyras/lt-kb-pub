@@ -102,7 +102,20 @@ Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipi
     deika), kiekvienas savaip. Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
     išvilioti sau dovanų“.
-  citata_rodoma: "Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos\nupę, liečia mūsų dalyką:\nRzeko, ktdrędy lz}> poniesiesz moję,\nZmieszane z twemi czystemi wodami;\nRozgioš me skargi, rozgloš niepokoje...\nNiech twoja Neris (a) i bogam oznami,\nPod ktorych wladzą są morskie zamęty,\nCierpienia moję i žal nieujęty.\nPowiedz przešliczne boztwo Wiliej rzeki\nNimfom (b) twym siostrom, boginiom podwodnym:\n25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas\nbaisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo\nKarališkosios Malonybės Vilniaus miesto dukartinį sudeginimą."
+  citata_rodoma: |
+    Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos
+    upę, liečia mūsų dalyką:
+    Rzeko, ktdrędy lz}> poniesiesz moję,
+    Zmieszane z twemi czystemi wodami;
+    Rozgioš me skargi, rozgloš niepokoje...
+    Niech twoja Neris (a) i bogam oznami,
+    Pod ktorych wladzą są morskie zamęty,
+    Cierpienia moję i žal nieujęty.
+    Powiedz przešliczne boztwo Wiliej rzeki
+    Nimfom (b) twym siostrom, boginiom podwodnym:
+    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
+    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
+    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

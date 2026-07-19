@@ -65,7 +65,14 @@ media_all_json: |-
     pėstininkų pulkai pa-
 
     tyrė nuostolių.
-  citata_rodoma: "Šiame ruože (\nprieš lietuvius 4 ©\nkovoję 13-asis y\nulony ir 201-asis\npėstininkų pulkai pa-\n\ntyrė nuostolių."
+  citata_rodoma: |
+    Šiame ruože (
+    prieš lietuvius 4 ©
+    kovoję 13-asis y
+    ulony ir 201-asis
+    pėstininkų pulkai pa-
+
+    tyrė nuostolių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

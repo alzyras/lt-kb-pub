@@ -102,7 +102,13 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
     Jos garbei buvo geriamas, kalbant tam tikras maldas, pir­
     masis indas, pripiltas iš pilnos statinės: tai buvo vadinama nu­
     leidimu (Nukijdimas).
-  citata_rodoma: "Budintoja (Budintoja)\nBudėjimui prielanki deivė, pratusi reikiamu momentu pa­\nžadinti miegančiuosius. Tik tiek težinome iš Lasickio.\nTačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos\npriešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos\ndraugas arba vyras buvo Varpas (Warpas), šaukiąs keltis."
+  citata_rodoma: |
+    Budintoja (Budintoja)
+    Budėjimui prielanki deivė, pratusi reikiamu momentu pa­
+    žadinti miegančiuosius. Tik tiek težinome iš Lasickio.
+    Tačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos
+    priešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos
+    draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

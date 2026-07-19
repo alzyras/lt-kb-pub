@@ -95,7 +95,8 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
     Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
     karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
     sutartimi“).
-  citata_rodoma: "karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos"
+  citata_rodoma: |
+    karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -116,7 +117,8 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
     slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
     Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
     giškas aktas“ prieš Lietuvą.
-  citata_rodoma: "slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su"
+  citata_rodoma: |
+    slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

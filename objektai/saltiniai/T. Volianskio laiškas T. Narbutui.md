@@ -86,7 +86,22 @@ T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip 
     liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
     erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
-  citata_rodoma: "501\n\n## Puslapis 511\n\n184 /Ten pat,\n5\npastraipos\ntęsinys/\nPonas Tadas Volianskis skaito\n, Maitez (MATTEZ),\nt. y. Maljasz, arba Matas.\nSakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­\nmą (PEį. L. 274). Tai informacija iš to paties T„ Volianskio laiš­\nko, T. Narbutui\n(Ten pat)."
+  citata_rodoma: |
+    501
+
+    ## Puslapis 511
+
+    184 /Ten pat,
+    5
+    pastraipos
+    tęsinys/
+    Ponas Tadas Volianskis skaito
+    , Maitez (MATTEZ),
+    t. y. Maljasz, arba Matas.
+    Sakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­
+    mą (PEį. L. 274). Tai informacija iš to paties T„ Volianskio laiš­
+    ko, T. Narbutui
+    (Ten pat).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

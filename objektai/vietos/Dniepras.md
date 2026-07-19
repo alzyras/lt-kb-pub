@@ -582,7 +582,13 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Nuo rytų Pabaltijo krantų į Romos imperiją didėjanti prekyba
     gintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­
     švaistę.
-  citata_rodoma: "Jis\ndu kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes)\nprasideda ».\nNuo rytų Pabaltijo krantų į Romos imperiją didėjanti prekyba\ngintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­\nšvaistę."
+  citata_rodoma: |
+    Jis
+    du kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes)
+    prasideda ».
+    Nuo rytų Pabaltijo krantų į Romos imperiją didėjanti prekyba
+    gintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­
+    švaistę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -608,7 +614,12 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
     tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
     buvo apsupta pirklių gyvenamų ir lankomų žemių.
-  citata_rodoma: "Geografinė jo didingos valstybės būklė prekybai buvo gana\npatogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­\nriomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,\nDniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie\nanų laikų prekybos centrai, kaip D."
+  citata_rodoma: |
+    Geografinė jo didingos valstybės būklė prekybai buvo gana
+    patogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­
+    riomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,
+    Dniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie
+    anų laikų prekybos centrai, kaip D.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -633,7 +644,13 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
     Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
     cijos pirkliai.
-  citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai."
+  citata_rodoma: |
+    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
+    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
+    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
+    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
+    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
+    cijos pirkliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -656,7 +673,12 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
     gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
     apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
-  citata_rodoma: "Kai ant Dniepro\nsaviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,\nVytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,\ngausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės\napie mus, kad mus nugalėjo du priešai: šaltis ir totoriai."
+  citata_rodoma: |
+    Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -689,7 +711,20 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Vorsklos, prie Ordos valdų pari-
     bių, susitiko su Aukso ordos chano
     Timūr-Kutluko kariuomene.
-  citata_rodoma: "Rugpjūčio\npradžioje kariuomenė, persikėlusi per\nDnieprą, jo kairiuoju krantu patraukė į\n\nŠarvinių\npirštinių\nrekonstrukcija\n\nstepes, kur laukė prie\nkairiojo Dniepro intako\nVorsklos, prie Ordos valdų pari-\nbių, susitiko su Aukso ordos chano\nTimūr-Kutluko kariuomene."
+  citata_rodoma: |
+    Rugpjūčio
+    pradžioje kariuomenė, persikėlusi per
+    Dnieprą, jo kairiuoju krantu patraukė į
+
+    Šarvinių
+    pirštinių
+    rekonstrukcija
+
+    stepes, kur laukė prie
+    kairiojo Dniepro intako
+    Vorsklos, prie Ordos valdų pari-
+    bių, susitiko su Aukso ordos chano
+    Timūr-Kutluko kariuomene.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -711,7 +746,15 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: "Jodami stepėmis tarp\nLietuvos ir Maskvos valdų jie kasdien su-\nkardavo maždaug po 25 km ir per 50 dienų\nįveikė apie 900 km atstumą. Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
+  citata_rodoma: |
+    Jodami stepėmis tarp
+    Lietuvos ir Maskvos valdų jie kasdien su-
+    kardavo maždaug po 25 km ir per 50 dienų
+    įveikė apie 900 km atstumą. Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -730,7 +773,11 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     upyno kunigaikštystes — Brianską, Trubčevską, Nau-
     gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
     atiduotos valdyti Algirdo sūnums ar brolėnams.
-  citata_rodoma: "Čia jis užėmė visas Dniepro ir Desnos\nupyno kunigaikštystes — Brianską, Trubčevską, Nau-\ngardą Sieverską, ir kt. Visos tos kunigaikštystės buvo\natiduotos valdyti Algirdo sūnums ar brolėnams."
+  citata_rodoma: |
+    Čia jis užėmė visas Dniepro ir Desnos
+    upyno kunigaikštystes — Brianską, Trubčevską, Nau-
+    gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
+    atiduotos valdyti Algirdo sūnums ar brolėnams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -768,7 +815,12 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
-  citata_rodoma: "Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų\nVandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo\nne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį\nDniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje\nPodolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima."
+  citata_rodoma: |
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
+    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -795,7 +847,17 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     surinkęs didelę kariuomenę, pa-
     skelbęs su ja einąs prieš Timūr-
     Aksaką.
-  citata_rodoma: "su-\nmušė Didžiosios ordos chaną\nTochtamišą, išvijo jį iš savo\nvaldų, pasiekė Riazanės kuni-\ngaikštystę, sustojo Dono regi-\none. Jo vadai pasiekė Dnieprą.\nLietuvos valdovas Vytautas,\nsurinkęs didelę kariuomenę, pa-\nskelbęs su ja einąs prieš Timūr-\nAksaką."
+  citata_rodoma: |
+    su-
+    mušė Didžiosios ordos chaną
+    Tochtamišą, išvijo jį iš savo
+    valdų, pasiekė Riazanės kuni-
+    gaikštystę, sustojo Dono regi-
+    one. Jo vadai pasiekė Dnieprą.
+    Lietuvos valdovas Vytautas,
+    surinkęs didelę kariuomenę, pa-
+    skelbęs su ja einąs prieš Timūr-
+    Aksaką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -813,7 +875,10 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Tad Algirdas sėkmingai išnaudojo totorių silpnumą. Jau nuo 1357
     m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius
     plotus Desnos baseine.
-  citata_rodoma: "Tad Algirdas sėkmingai išnaudojo totorių silpnumą. Jau nuo 1357\nm. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius\nplotus Desnos baseine."
+  citata_rodoma: |
+    Tad Algirdas sėkmingai išnaudojo totorių silpnumą. Jau nuo 1357
+    m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius
+    plotus Desnos baseine.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -840,7 +905,11 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     vinčioje prie Dniepro, Vytautas įstei­
     gė muitinę, vadintą Vytauto pirtimi.
     Žr. M i c h a 1  o n i s Lit. de Morib.
-  citata_rodoma: "Lietuvių Tavano pilyje, sto­\nvinčioje prie Dniepro, Vytautas įstei­\ngė muitinę, vadintą Vytauto pirtimi.\nŽr."
+  citata_rodoma: |
+    Lietuvių Tavano pilyje, sto­
+    vinčioje prie Dniepro, Vytautas įstei­
+    gė muitinę, vadintą Vytauto pirtimi.
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

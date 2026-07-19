@@ -94,7 +94,16 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
     Bekešui dėl Alantos dvaro - Step­
     hanus Rex - ]an Hlebowicz na Dub-
     rownie Kaszt.
-  citata_rodoma: "Onos bažnyčia / p. 297 \n• Faksimilės, paimtos iš dekretų ir \nlaiškų, esančių Radvilų archyve, \noriginalų:\n1) Aleksandro Jogailaičio dovanoji­\nmas Vilniaus miestiečiui Maksi- \nmui Užupyje Vilniuje / p. 447\n2) Žygimanto Senojo parašas - Si­\ngismundus Rex Į p."
+  citata_rodoma: |
+    Onos bažnyčia / p. 297
+    • Faksimilės, paimtos iš dekretų ir
+    laiškų, esančių Radvilų archyve,
+    originalų:
+    1) Aleksandro Jogailaičio dovanoji­
+    mas Vilniaus miestiečiui Maksi-
+    mui Užupyje Vilniuje / p. 447
+    2) Žygimanto Senojo parašas - Si­
+    gismundus Rex Į p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

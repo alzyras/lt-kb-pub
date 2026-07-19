@@ -82,8 +82,10 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     briedinis diržas su vario sagčiais^1460 , pirma goda^1461 ir gašumas senovės Lietuvos vyro, nugis išjuoktas
-        ir lauko žmogui paliktas, o meškena, taurena ar briedena neb kyriejum^1462 bebuvo.
-  citata_rodoma: "briedinis diržas su vario sagčiais^1460 , pirma goda^1461 ir gašumas senovės Lietuvos vyro, nugis išjuoktas\nir lauko žmogui paliktas, o meškena, taurena ar briedena neb kyriejum^1462 bebuvo."
+    ir lauko žmogui paliktas, o meškena, taurena ar briedena neb kyriejum^1462 bebuvo.
+  citata_rodoma: |
+    briedinis diržas su vario sagčiais^1460 , pirma goda^1461 ir gašumas senovės Lietuvos vyro, nugis išjuoktas
+    ir lauko žmogui paliktas, o meškena, taurena ar briedena neb kyriejum^1462 bebuvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

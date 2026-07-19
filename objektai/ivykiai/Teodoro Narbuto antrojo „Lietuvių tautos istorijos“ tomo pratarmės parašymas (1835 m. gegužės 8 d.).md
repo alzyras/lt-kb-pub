@@ -140,7 +140,13 @@ Nenurodyta
     Šia prasme antrą tomą
     galima laikyti šaltiniu, kuris turi duoti pradžią istorijos
     upei, turėsiančiai atitekėti net iki šių dienų.
-  citata_rodoma: "PRATARME\nVos tik buvo išspausdinta religijos, papročių ir kitų\ndalykų apžvalga, esanti įvadas į lietuvių tautos istorijos\npažinimą, skubu atiduoti spaudai antrą tomą, apžvel­\ngiantį šios tautos ištakas ir jos protėvių atsikėlimo į da­\nbar gyvenamąsias žemes istoriją."
+  citata_rodoma: |
+    PRATARME
+    Vos tik buvo išspausdinta religijos, papročių ir kitų
+    dalykų apžvalga, esanti įvadas į lietuvių tautos istorijos
+    pažinimą, skubu atiduoti spaudai antrą tomą, apžvel­
+    giantį šios tautos ištakas ir jos protėvių atsikėlimo į da­
+    bar gyvenamąsias žemes istoriją.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -166,7 +172,10 @@ Nenurodyta
     mūsų pirmtakai nesitikėjo, mes dažnai pajėgiame paro­
     dyti labai įdomių ir galinčių dominti pasaulio istorijos
     visumą faktų.
-  citata_rodoma: "Rašyta gauruose\n1835 m. gegužės 8 dieną.\nTeodoras Narbutas"
+  citata_rodoma: |
+    Rašyta gauruose
+    1835 m. gegužės 8 dieną.
+    Teodoras Narbutas
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

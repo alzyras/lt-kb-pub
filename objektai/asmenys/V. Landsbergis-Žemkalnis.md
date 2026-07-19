@@ -77,7 +77,14 @@ Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Litua
     L I E T U V O S  I S T O R I J A
     174
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-  citata_rodoma: "du lietuviai, Steponas Darius ir Stasys Girėnas, mažu \n„Pienocentro“ pastatas Kaune (apie 1938).  \nArchitektas V. Landsbergis-Žemkalnis\n\nL I E T U V O S  I S T O R I J A\n174\nlėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
+  citata_rodoma: |
+    du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
+    „Pienocentro“ pastatas Kaune (apie 1938).
+    Architektas V. Landsbergis-Žemkalnis
+
+    L I E T U V O S  I S T O R I J A
+    174
+    lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

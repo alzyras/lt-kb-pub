@@ -105,7 +105,8 @@ Nenurodyta
     stovybių ir personalo išlaikymą. Diplomatai savo atstovaujamose valstybėse
     simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
     dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.
-  citata_rodoma: "simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,"
+  citata_rodoma: |
+    simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

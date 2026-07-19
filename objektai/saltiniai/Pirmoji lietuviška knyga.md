@@ -80,7 +80,9 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
     kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
     paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
     kaimynų krikščionių žemes.
-  citata_rodoma: "M. Mažvydas\n(1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105)."
+  citata_rodoma: |
+    M. Mažvydas
+    (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -81,7 +81,11 @@ Nenurodyta
     nojo keliolika šio mūšio karininkų ir karei-
     vių neseniai įsteigto karinio Virtuti Militari
     ordino auksiniais ir sidabriniais medaliais.
-  citata_rodoma: "Ne veltui karalius S. A. Poniatovskis apdova-\nnojo keliolika šio mūšio karininkų ir karei-\nvių neseniai įsteigto karinio Virtuti Militari\nordino auksiniais ir sidabriniais medaliais."
+  citata_rodoma: |
+    Ne veltui karalius S. A. Poniatovskis apdova-
+    nojo keliolika šio mūšio karininkų ir karei-
+    vių neseniai įsteigto karinio Virtuti Militari
+    ordino auksiniais ir sidabriniais medaliais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

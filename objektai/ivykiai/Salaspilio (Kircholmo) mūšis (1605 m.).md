@@ -279,7 +279,14 @@ Nenurodyta
     žmogus mūšio metu buvo visur ir pasiro-
     dydavo ten, kur jo kariams būdavo ypač
     sunku.
-  citata_rodoma: "Pasinaudodamas laikina ramybe, Karolis\nChodkevičius pasakė kalbą, padrąsino ir\nįkvėpė savo karius. Daugelis karininkų ir\nkarių gerai pažinojo etmoną. Šis narsus\nžmogus mūšio metu buvo visur ir pasiro-\ndydavo ten, kur jo kariams būdavo ypač\nsunku."
+  citata_rodoma: |
+    Pasinaudodamas laikina ramybe, Karolis
+    Chodkevičius pasakė kalbą, padrąsino ir
+    įkvėpė savo karius. Daugelis karininkų ir
+    karių gerai pažinojo etmoną. Šis narsus
+    žmogus mūšio metu buvo visur ir pasiro-
+    dydavo ten, kur jo kariams būdavo ypač
+    sunku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -304,7 +311,19 @@ Nenurodyta
     © Dambravos raitarai užeina F.J. Mansfeldo
     kavaleristams iš flango ir suduoda stiprų
     smūgį.
-  citata_rodoma: "@ J.K. Chodkevičius, pastebėjęs, kad švedų\npėstininkų rikiuotė prarado darnumą,\nįsako pulti. V. Vainos kavalerija atakuoja\npriešo pėstininkus centre.\n\n@ J.P. Sapiegos ir T. Dambravos raiteliai su-\nsikauna su atakuojančia švedų kavalerija\nflanguose.\n\n© Dambravos raitarai užeina F.J. Mansfeldo\nkavaleristams iš flango ir suduoda stiprų\nsmūgį."
+  citata_rodoma: |
+    @ J.K. Chodkevičius, pastebėjęs, kad švedų
+    pėstininkų rikiuotė prarado darnumą,
+    įsako pulti. V. Vainos kavalerija atakuoja
+    priešo pėstininkus centre.
+
+    @ J.P. Sapiegos ir T. Dambravos raiteliai su-
+    sikauna su atakuojančia švedų kavalerija
+    flanguose.
+
+    © Dambravos raitarai užeina F.J. Mansfeldo
+    kavaleristams iš flango ir suduoda stiprų
+    smūgį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -324,7 +343,14 @@ Nenurodyta
     (0 Sumaištis švedų pėstininkų rikiuotėje pa-
     deda V. Vainai juos išblaškyti centre. Žūva
     švedų generolas A. Liuneburgietis.
-  citata_rodoma: "[9] Švedų kavalerija pradeda netvarkingai\ntrauktis ir lipti ant savo pėstininkų, tai su-\nardo jų rikiuotės vientisumą.\n\n(0 Sumaištis švedų pėstininkų rikiuotėje pa-\ndeda V. Vainai juos išblaškyti centre. Žūva\nšvedų generolas A. Liuneburgietis."
+  citata_rodoma: |
+    [9] Švedų kavalerija pradeda netvarkingai
+    trauktis ir lipti ant savo pėstininkų, tai su-
+    ardo jų rikiuotės vientisumą.
+
+    (0 Sumaištis švedų pėstininkų rikiuotėje pa-
+    deda V. Vainai juos išblaškyti centre. Žūva
+    švedų generolas A. Liuneburgietis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -351,7 +377,21 @@ Nenurodyta
     panika, kurią dar labiau padidino rotmis-
     trų Machmeto ir Zakaro Lietuvos totorių
     vėliavų įvedimas į mūšį.
-  citata_rodoma: "Rotmistrų J. P. Sapiegos ir T. Dambra-\nvos kavalerija susikovė su švedų kairiojo\nir dešiniojo sparnų kavalerija. Rotmistro\n\"T. Dambravos vadovaujama viena rei-\ntarų vėliava prajojo Dauguvos pakrante ir\natsidūrė generolo E J. Mansfeldo kavale-\nrijos dešiniajame sparne. Vienu metu, iš\nšono ir priekio, reitarų ir husarų vėliavos\nsudavė tokį stiprų smūgį, kad švedų ka-\nvalerija buvo nublokšta tiesiai ant savųjų\npėstininkų ir juos pradėjo trypti. Prasidėjo\npanika, kurią dar labiau padidino rotmis-\ntrų Machmeto ir Zakaro Lietuvos totorių\nvėliavų įvedimas į mūšį."
+  citata_rodoma: |
+    Rotmistrų J. P. Sapiegos ir T. Dambra-
+    vos kavalerija susikovė su švedų kairiojo
+    ir dešiniojo sparnų kavalerija. Rotmistro
+    "T. Dambravos vadovaujama viena rei-
+    tarų vėliava prajojo Dauguvos pakrante ir
+    atsidūrė generolo E J. Mansfeldo kavale-
+    rijos dešiniajame sparne. Vienu metu, iš
+    šono ir priekio, reitarų ir husarų vėliavos
+    sudavė tokį stiprų smūgį, kad švedų ka-
+    valerija buvo nublokšta tiesiai ant savųjų
+    pėstininkų ir juos pradėjo trypti. Prasidėjo
+    panika, kurią dar labiau padidino rotmis-
+    trų Machmeto ir Zakaro Lietuvos totorių
+    vėliavų įvedimas į mūšį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -377,7 +417,20 @@ Nenurodyta
     Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas
 
     nepajudėjusios išstovėjo iki vidudienio.
-  citata_rodoma: "Karolis Chodkevičius pastebėjo, kad\nšvedai išsirikiavo ant aukšto upelio kranto,\nkai, jo kariuomenė stovėjo lygumoje. Jei\nLietuvos kariuomenei reikėtų pradėti\nataką, šturmuodama priešo pozicijas ji\nprarastų daug karių ir nepasiektų reikiamo\nefekto. Lietuviai mėgino nedideliais išpuo-\nliais išprovokuoti švedus pulti pirmuosius,\ntačiau šie nesureagavo. Abi kariuomenės\n\nSalaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas\n\nnepajudėjusios išstovėjo iki vidudienio."
+  citata_rodoma: |
+    Karolis Chodkevičius pastebėjo, kad
+    švedai išsirikiavo ant aukšto upelio kranto,
+    kai, jo kariuomenė stovėjo lygumoje. Jei
+    Lietuvos kariuomenei reikėtų pradėti
+    ataką, šturmuodama priešo pozicijas ji
+    prarastų daug karių ir nepasiektų reikiamo
+    efekto. Lietuviai mėgino nedideliais išpuo-
+    liais išprovokuoti švedus pulti pirmuosius,
+    tačiau šie nesureagavo. Abi kariuomenės
+
+    Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas
+
+    nepajudėjusios išstovėjo iki vidudienio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -391,12 +444,17 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    ® Švedų gvardijos kavaleriją pasitinka
+    Švedų gvardijos kavaleriją pasitinka
     T. Lackio husarai ir ryžtingu puolimu nu-
     bloškia švedų raituosius gvardiečius.
 
-    ® Švedų pajėgos bėga iš mūšio lauko.
-  citata_rodoma: "® Švedų gvardijos kavaleriją pasitinka\nT. Lackio husarai ir ryžtingu puolimu nu-\nbloškia švedų raituosius gvardiečius.\n\n® Švedų pajėgos bėga iš mūšio lauko."
+    ® Švedų pajėgos bėga iš mūšio lauko
+  citata_rodoma: |
+    Švedų gvardijos kavaleriją pasitinka
+    T. Lackio husarai ir ryžtingu puolimu nu-
+    bloškia švedų raituosius gvardiečius.
+
+    ® Švedų pajėgos bėga iš mūšio lauko
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -418,7 +476,16 @@ Nenurodyta
     nerolas Andrius Lennartssonas. Lietuvių
     kairiojo sparno sėkmė labai padėjo cen-
     tre besikaunantiems V. Vainos kariams.
-  citata_rodoma: "Prasidėjo žiau-\nrios besitraukiančio priešo kapotynés.\nTeigiama, kad mūšio metu nuo rotmistro\nT. Dambravos kirčio žuvo karaliaus žen-\ntas kunigaikštis Fridrichas Liuneburgietis.\nŽuvo centro pėstininkams vadovavęs ge-\nnerolas Andrius Lennartssonas. Lietuvių\nkairiojo sparno sėkmė labai padėjo cen-\ntre besikaunantiems V. Vainos kariams."
+  citata_rodoma: |
+    Prasidėjo žiau-
+    rios besitraukiančio priešo kapotynés.
+    Teigiama, kad mūšio metu nuo rotmistro
+    T. Dambravos kirčio žuvo karaliaus žen-
+    tas kunigaikštis Fridrichas Liuneburgietis.
+    Žuvo centro pėstininkams vadovavęs ge-
+    nerolas Andrius Lennartssonas. Lietuvių
+    kairiojo sparno sėkmė labai padėjo cen-
+    tre besikaunantiems V. Vainos kariams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -438,7 +505,14 @@ Nenurodyta
     jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
     kuriose lietuviai kovojo petys į petį su rusėnais.
-  citata_rodoma: "Bendras vidaus politinis \ngyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos \nStatutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-\ntuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-\njasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės \npergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne, \nkuriose lietuviai kovojo petys į petį su rusėnais."
+  citata_rodoma: |
+    Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -457,7 +531,12 @@ Nenurodyta
     Tačiau jų pasipriešinimas buvo palaužtas.
     Eiliniai kariai buvo išžudyti, o karininkai
     paimti į nelaisvę.
-  citata_rodoma: "Besitraukiantys švedų pėstininkai bandė\nslėptis Salaspilio (Kircholmo) bažnyčioje.\nTačiau jų pasipriešinimas buvo palaužtas.\nEiliniai kariai buvo išžudyti, o karininkai\npaimti į nelaisvę."
+  citata_rodoma: |
+    Besitraukiantys švedų pėstininkai bandė
+    slėptis Salaspilio (Kircholmo) bažnyčioje.
+    Tačiau jų pasipriešinimas buvo palaužtas.
+    Eiliniai kariai buvo išžudyti, o karininkai
+    paimti į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -475,7 +554,12 @@ Nenurodyta
     uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
     Rygą ir užvaldė Baltijos pakrantes.
-  citata_rodoma: "Kova dėl Livonijos daugiausia buvo suin-\nteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko \nuostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus \nSalaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė \nRygą ir užvaldė Baltijos pakrantes."
+  citata_rodoma: |
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -492,7 +576,11 @@ Nenurodyta
     vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
     turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
     Dail. P. Snayrs, apie 1620 m.
-  citata_rodoma: "1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus \nvadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), \nturinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.  \nDail. P. Snayrs, apie 1620 m."
+  citata_rodoma: |
+    1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
+    vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
+    turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
+    Dail. P. Snayrs, apie 1620 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

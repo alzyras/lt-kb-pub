@@ -70,9 +70,16 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
     kėjimą.
     Jau metai laiko nūnai, kai kunigaikštis [Jogailai
     Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6. Man tai buvo
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
     labai skaudu.
-  citata_rodoma: "Tai buvo iš jų pusės daroma man didelė neteisybė, kad \njie prieš mano valią spyrė, kad aš priimčiau rusų ti­\nkėjimą.\nJau metai laiko nūnai, kai kunigaikštis [Jogailai \nLiublino pilyje užrašė kunigaikščiui Skirgailai raštais \nvisą mano tėviškę mano akivaizdoje6 . Man tai buvo \nlabai skaudu."
+  citata_rodoma: |
+    Tai buvo iš jų pusės daroma man didelė neteisybė, kad
+    jie prieš mano valią spyrė, kad aš priimčiau rusų ti­
+    kėjimą.
+    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
+    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
+    labai skaudu.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas

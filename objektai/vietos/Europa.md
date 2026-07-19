@@ -1606,7 +1606,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     Lietuvai ramybės. Praėjus dvidešimt metų nuo Kėzmarko su­
     važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į
     viešumą ir sujudinti visą Europą. Tai atsitiko 1429 m.
-  citata_rodoma: "Praėjus dvidešimt metų nuo Kėzmarko su­\nvažiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į\nviešumą ir sujudinti visą Europą. Tai atsitiko 1429 m."
+  citata_rodoma: |
+    Praėjus dvidešimt metų nuo Kėzmarko su­
+    važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į
+    viešumą ir sujudinti visą Europą. Tai atsitiko 1429 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1656,7 +1659,39 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     grobuoniško
     Prūsijos Kryžiuočių
     ordino.
-  citata_rodoma: "Čiurlionis ir E. M unchas:_ Melancholija ir šviesa\nStasys Šalkauskis \nRaštai, IX tomas\nVincas Vyčinas \nRaštai, III tomas\n\n## Puslapis 496\n\nMYKOLAS BALINSKIS\ngalingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki \nmūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras \nLietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • - \nkronikų ir senųjų, archyvuose saugomų rankraščių išrinkti \npadavimus, bylojančius apie Vilniaus kilmę, tas teises ir \ndaugybę privilegijų^ kuriomis'j o gyv \nnaudojosi, ne tik atgaivinti amžinin \nnius, keleto amžių, įvykius toje sosti \nir galimybės man leido, prisidt \nLietuvos istorijos įvykių aiškinim \nmums patiems, o Europai visai neg \n• riterių žygiais ir išmintingiausia Mindaugo, Gedimino, \nAlgirdo, Kęstučio, Jogailos ir Vytauto politika, \nistorija menkame plote išsitenkančios Tautos, \nkuri pati viena, savosios pagonybės atskirta \nnuo kitų Europos šalių, vien savo \nnarsos dėka įstengė atremti bai­\nsius mongolų antpuolius, \npažaboti Rusią ir nesileisti \npavergiama godžiai \ngrobuoniško \nPrūsijos Kryžiuočių \nordino."
+  citata_rodoma: |
+    Čiurlionis ir E. M unchas:_ Melancholija ir šviesa
+    Stasys Šalkauskis
+    Raštai, IX tomas
+    Vincas Vyčinas
+    Raštai, III tomas
+
+    ## Puslapis 496
+
+    MYKOLAS BALINSKIS
+    galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
+    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras
+    Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • -
+    kronikų ir senųjų, archyvuose saugomų rankraščių išrinkti
+    padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
+    daugybę privilegijų^ kuriomis'j o gyv
+    naudojosi, ne tik atgaivinti amžinin
+    nius, keleto amžių, įvykius toje sosti
+    ir galimybės man leido, prisidt
+    Lietuvos istorijos įvykių aiškinim
+    mums patiems, o Europai visai neg
+    • riterių žygiais ir išmintingiausia Mindaugo, Gedimino,
+    Algirdo, Kęstučio, Jogailos ir Vytauto politika,
+    istorija menkame plote išsitenkančios Tautos,
+    kuri pati viena, savosios pagonybės atskirta
+    nuo kitų Europos šalių, vien savo
+    narsos dėka įstengė atremti bai­
+    sius mongolų antpuolius,
+    pažaboti Rusią ir nesileisti
+    pavergiama godžiai
+    grobuoniško
+    Prūsijos Kryžiuočių
+    ordino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1677,7 +1712,13 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     taip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su
     ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
     kokį svarbesnį Europos politikos klausimą.
-  citata_rodoma: ") griežtomis priemonėmis pakirto jos rytietiškos san-\ntvarkos šaknis ir išvedė ją į europėjamąjį kelią. Kartu jis atsuko į\nEuropą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija\ntaip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su\nja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant\nkokį svarbesnį Europos politikos klausimą."
+  citata_rodoma: |
+    ) griežtomis priemonėmis pakirto jos rytietiškos san-
+    tvarkos šaknis ir išvedė ją į europėjamąjį kelią. Kartu jis atsuko į
+    Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija
+    taip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su
+    ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
+    kokį svarbesnį Europos politikos klausimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1696,7 +1737,11 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     lies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą,
     Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
     kurti bendrą Europos aukštojo mokslo erdvę.
-  citata_rodoma: "Aukštasis mokslas iš da-\nlies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą, \nLietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-\nkurti bendrą Europos aukštojo mokslo erdvę."
+  citata_rodoma: |
+    Aukštasis mokslas iš da-
+    lies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą,
+    Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
+    kurti bendrą Europos aukštojo mokslo erdvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1747,7 +1792,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     ten, kur ambrozija sruveno, auksinis, palaimintasis die­
     vų kraštas, hesperidžių sodas, makrobijų1 gyvenamoji
     1 Šis pavadinimas turėtų reikšti kinų protėvius.
-  citata_rodoma: "Tie pirmykščiai žmonės esą buvę hi­\nperborėjai. Apolonas ir Diana į Graikiją, Ozyris į Egiptą \natvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji \nAtlantidos sala egzistavo Siaurės Europoje arba dingu­\nsiose salose, kurios buvo Lediniuotojoje jūroje."
+  citata_rodoma: |
+    Tie pirmykščiai žmonės esą buvę hi­
+    perborėjai. Apolonas ir Diana į Graikiją, Ozyris į Egiptą
+    atvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji
+    Atlantidos sala egzistavo Siaurės Europoje arba dingu­
+    siose salose, kurios buvo Lediniuotojoje jūroje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

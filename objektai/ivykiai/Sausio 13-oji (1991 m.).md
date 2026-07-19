@@ -174,7 +174,12 @@ Nenurodyta
     Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią
     Vienas žymiausių M. K. Čiurlionio kūrinių
     „Karalių pasaka“, 1909 m.
-  citata_rodoma: "Lietu-\nvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat \nSausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią \nVienas žymiausių M. K. Čiurlionio kūrinių \n„Karalių pasaka“, 1909 m."
+  citata_rodoma: |
+    Lietu-
+    vos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat
+    Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią
+    Vienas žymiausių M. K. Čiurlionio kūrinių
+    „Karalių pasaka“, 1909 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -195,7 +200,11 @@ Nenurodyta
     sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
     vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
-  citata_rodoma: "1991 m. sausio 13-ąją, \nsovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-\nvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji \npateko po tanko vikšrais ir mirė ligoninėje."
+  citata_rodoma: |
+    1991 m. sausio 13-ąją,
+    sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
+    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
+    pateko po tanko vikšrais ir mirė ligoninėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -218,7 +227,10 @@ Nenurodyta
     Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin-
     damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad
     ši sovietų kariuomenės agresija būtų sustabdyta.
-  citata_rodoma: "Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin-\ndamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad \nši sovietų kariuomenės agresija būtų sustabdyta."
+  citata_rodoma: |
+    Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin-
+    damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad
+    ši sovietų kariuomenės agresija būtų sustabdyta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

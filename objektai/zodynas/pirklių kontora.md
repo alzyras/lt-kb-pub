@@ -79,7 +79,9 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
     iškilo didelis prekybos centras Polockas, o prie Nemuno
     — Kaunas. Abiejuose tuose centruose Hanza veikiai įsteigė
     savo agentūras (vadinamąsias pirklių kontoras).
-  citata_rodoma: "Abiejuose tuose centruose Hanza veikiai įsteigė\nsavo agentūras (vadinamąsias pirklių kontoras)."
+  citata_rodoma: |
+    Abiejuose tuose centruose Hanza veikiai įsteigė
+    savo agentūras (vadinamąsias pirklių kontoras).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

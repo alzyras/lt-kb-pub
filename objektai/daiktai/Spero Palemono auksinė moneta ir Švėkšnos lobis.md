@@ -140,7 +140,7 @@ Nenurodyta
     duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
     Žemaitijos, turėjo būti nelabai seniai rasta (1814 ar 1815 me­
     tais) Švėkšnoje, tenykštės klebonijos sode; tarnas pasisavino
-    lobį, iškastą persodinant rožių krūmą, - mat auksinių monetų
+    lobį, iškastą persodinant rožių krūmą, -  mat auksinių monetų
     turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
     gios senovės liekanos nežinia kur dingo.
   statusas: verified
@@ -167,7 +167,13 @@ Nenurodyta
     navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
     kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
     sūnus, iš Petro.
-  citata_rodoma: "Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris\nturėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio\nautorius, man rašytame laiške (Raseiniai. -  1836.IV19)*."
+  citata_rodoma: |
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
+    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
+    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
+    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

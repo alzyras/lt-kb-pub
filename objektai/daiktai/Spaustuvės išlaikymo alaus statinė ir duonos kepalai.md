@@ -86,7 +86,14 @@ Nenurodyta
     nio alaus oxeftą duoti tenebatur [privalėjo].
     Be to, duoti 8 asmenims kas savaitę po 8 kepalus duonos
     ir tiems patiems 8 valgį iš kolegijos virtuvės.
-  citata_rodoma: "auksinų. Notandum [pa­\nžymėtina], kurios pro contigenti lucro [iš gaunamo pelno] \nskiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­\nper [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­\nnio alaus oxeftą duoti tenebatur [privalėjo].\nBe to, duoti 8 asmenims kas savaitę po 8 kepalus duonos \nir tiems patiems 8 valgį iš kolegijos virtuvės."
+  citata_rodoma: |
+    auksinų. Notandum [pa­
+    žymėtina], kurios pro contigenti lucro [iš gaunamo pelno]
+    skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­
+    per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­
+    nio alaus oxeftą duoti tenebatur [privalėjo].
+    Be to, duoti 8 asmenims kas savaitę po 8 kepalus duonos
+    ir tiems patiems 8 valgį iš kolegijos virtuvės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

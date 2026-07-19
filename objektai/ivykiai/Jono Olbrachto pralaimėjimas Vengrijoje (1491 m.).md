@@ -146,7 +146,19 @@ Nenurodyta
     tuo tarpu pastarasis piktinosi ir puoselėjo širdyje kerštą
     sūnui Vladislovui, Čekijos karaliui, skatindamas Joną
     pradėti karą.
-  citata_rodoma: "Kadangi tėvas karštai \nreikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, \ngavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­\ndamas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­\ngrįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­\npešęs, turėjo grįžti į Lenkiją. Sį laimės ar žmonių ne­\npastovumą kur kas nuosaikiau sutiko jaunikaitis nei \njo iškaršęs tėvas. Mat pirmasis, vos išvykęs iš Veng­\nrijos, liovėsi kvaršinęs sau galvą mintimis apie sostą, \ntuo tarpu pastarasis piktinosi ir puoselėjo širdyje kerštą \nsūnui Vladislovui, Čekijos karaliui, skatindamas Joną \npradėti karą."
+  citata_rodoma: |
+    Kadangi tėvas karštai
+    reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
+    gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­
+    damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
+    grįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­
+    pešęs, turėjo grįžti į Lenkiją. Sį laimės ar žmonių ne­
+    pastovumą kur kas nuosaikiau sutiko jaunikaitis nei
+    jo iškaršęs tėvas. Mat pirmasis, vos išvykęs iš Veng­
+    rijos, liovėsi kvaršinęs sau galvą mintimis apie sostą,
+    tuo tarpu pastarasis piktinosi ir puoselėjo širdyje kerštą
+    sūnui Vladislovui, Čekijos karaliui, skatindamas Joną
+    pradėti karą.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

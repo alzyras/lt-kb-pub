@@ -75,7 +75,22 @@ Zabiela, liepos 16 d. išžygiavęs į Lietuvos Brastą iš stovyklos prie Biels
     priešakinės sargybos pulkas. Iš viso
     1818 durtuvų (pėstininkų), 718 kardų
     (kavalerijos).
-  citata_rodoma: "uniforma\n\nRIKOŠETAS\n\nLDK 2-ojo Didžiosios buo-\nžės pėstininkų regimento\neilinis su Ketverių metų\nseimo periodo pavyzdžio\n\nLietuvių pajėgos\nS. Zabiela, liepos 16 d. išžygiavęs į Lie-\ntuvos Brastą iš stovyklos prie Bielsko,\nturėjo 4 bataliono dydžio pėstininkų\npulkus (LDK 2-ąjį, 6-ąjį, 7-ąjį, 8-ąjį\n| péstininky regimentus)."
+  citata_rodoma: |
+    uniforma
+
+    RIKOŠETAS
+
+    LDK 2-ojo Didžiosios buo-
+    žės pėstininkų regimento
+    eilinis su Ketverių metų
+    seimo periodo pavyzdžio
+
+    Lietuvių pajėgos
+    S. Zabiela, liepos 16 d. išžygiavęs į Lie-
+    tuvos Brastą iš stovyklos prie Bielsko,
+    turėjo 4 bataliono dydžio pėstininkų
+    pulkus (LDK 2-ąjį, 6-ąjį, 7-ąjį, 8-ąjį
+    | péstininky regimentus).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

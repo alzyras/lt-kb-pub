@@ -90,7 +90,12 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
     Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
     Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
     sutriuškino švedų galybę (1709).
-  citata_rodoma: "Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos\n(Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.\nKairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį\nVorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis\nsutriuškino švedų galybę (1709)."
+  citata_rodoma: |
+    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
+    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
+    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
+    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
+    sutriuškino švedų galybę (1709).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +113,11 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
     tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
     vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
     menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
-  citata_rodoma: "Timuras\ntačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo\nvado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­\nmenės į kautynes stojo žymiai daugiau už Vytauto jėgas^34."
+  citata_rodoma: |
+    Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
+    menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

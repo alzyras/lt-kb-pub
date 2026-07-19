@@ -151,7 +151,11 @@ Nenurodyta
     kanonika
     krakowsklcgo. dzlejów polsklch kslęg
     dwanascie (toliau — Dzieje), t. HI, Kraków.
-  citata_rodoma: "* Pasakojimas apie mUšj prie Jieseldos gali būti sukurtas pagal \n1M žinią apie 1262 m. karą su Lietuva, pagal kurį Volynės kuni­\ngaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir \nsumušė juos."
+  citata_rodoma: |
+    * Pasakojimas apie mUšj prie Jieseldos gali būti sukurtas pagal
+    1M žinią apie 1262 m. karą su Lietuva, pagal kurį Volynės kuni­
+    gaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir
+    sumušė juos.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

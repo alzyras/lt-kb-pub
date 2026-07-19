@@ -106,7 +106,16 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
     šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
     netikėlių pasiuntiniams jų drabužius bei žirgus165.
-  citata_rodoma: "Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą\n\n   Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai\ndar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir\nįbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,\nreikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų\npatenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,\nšiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems\nnetikėlių pasiuntiniams jų drabužius bei žirgus165."
+  citata_rodoma: |
+    Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
+
+       Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
+    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
+    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
+    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
+    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
+    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
+    netikėlių pasiuntiniams jų drabužius bei žirgus165.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -134,7 +143,24 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     viso ankstyvesnio gyvenimo: paprastai ant purpurinio
     apsiausto jis vilkėdavo juodą drapaną, kaip vienuolio
     įžadų ženklą.
-  citata_rodoma: "Taigi visuotiniame\nsusirinkime kunigaikščiu buvo išrinktas Vaišvilkas.\nU  5\n\n## Puslapis 114\n\nIšleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­\nkui nuodugniai papasakoti apie diduomenės bei tau­\ntos prielankumą ir pakviesti jį perimti tėvo paliktos\nvaldžios. Iš pradžių Vaišvil­\nkas\nnė\nklausyti nenorėjo\napie tai, ko jį maldavo žy­\ngūnai, nes šitai prieštaravo\njo pasirinktam gyvenimo bū­\ndui."
+  citata_rodoma: |
+    Taigi visuotiniame
+    susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
+    U  5
+
+    ## Puslapis 114
+
+    Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­
+    kui nuodugniai papasakoti apie diduomenės bei tau­
+    tos prielankumą ir pakviesti jį perimti tėvo paliktos
+    valdžios. Iš pradžių Vaišvil­
+    kas
+    nė
+    klausyti nenorėjo
+    apie tai, ko jį maldavo žy­
+    gūnai, nes šitai prieštaravo
+    jo pasirinktam gyvenimo bū­
+    dui.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -157,7 +183,18 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     dymų. Senosios draugystės pastovumui laiduoti visiškai
     užtenka ankstesnio susitarimo, nepaisant to, kad jis
     nepatvirtintas jokia priesaika.
-  citata_rodoma: "Tačiau ligai išgy­\ndyti jau nebeužteko gydytojo, reikėjo veiksmingesnių\npriemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­\ntarė, jog reikia pastatyti ginkluotas saugas visuose ke­\nliuose Lenkijos pasienyje ir\nuoliai žiūrėti, kad ir impera­\ntoriaus, ir Vytauto žygūnai\nnegalėtų prasmukti nei į vie­\nną, nei į kitą pusę. Viskam\nvadovauti paskyrė Joną Čar-\nnkovskį."
+  citata_rodoma: |
+    Tačiau ligai išgy­
+    dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių
+    priemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­
+    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
+    liuose Lenkijos pasienyje ir
+    uoliai žiūrėti, kad ir impera­
+    toriaus, ir Vytauto žygūnai
+    negalėtų prasmukti nei į vie­
+    ną, nei į kitą pusę. Viskam
+    vadovauti paskyrė Joną Čar-
+    nkovskį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

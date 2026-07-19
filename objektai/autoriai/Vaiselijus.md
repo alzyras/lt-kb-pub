@@ -156,7 +156,16 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
     go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
-  citata_rodoma: "-  Frankfurt und Leip­\nzig, 1684*.\n103\n\n## Puslapis 103\n\nliones, nepažindami krašto realijų, todėl to dievo vardas buvo\nrašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-\nsickis -Audros."
+  citata_rodoma: |
+    -  Frankfurt und Leip­
+    zig, 1684*.
+    103
+
+    ## Puslapis 103
+
+    liones, nepažindami krašto realijų, todėl to dievo vardas buvo
+    rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
+    sickis -Audros.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -177,7 +186,14 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
     mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
     gezanijos tėvo, vardą.
-  citata_rodoma: "Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo\ndidžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,\nypač tokie gyveno pietinėse aukštumose arba kalvose,\nkur šios provincijos dalis buvo vadinama Hokerland. Ki­\nti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal\nmitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-\ngezanijos tėvo, vardą."
+  citata_rodoma: |
+    Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo
+    didžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,
+    ypač tokie gyveno pietinėse aukštumose arba kalvose,
+    kur šios provincijos dalis buvo vadinama Hokerland. Ki­
+    ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
+    mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
+    gezanijos tėvo, vardą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

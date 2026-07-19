@@ -63,7 +63,12 @@ media_all_json: |-
 
     - Niekada nesitarsim, nesiderésim! - toks buvo ssrs valdovų
     atsakymas. - Atšaukit savo paskelbtą Nepriklausomybės aktą.
-  citata_rodoma: "Štai, buvę skriaudėjai arba paveldėtojai, mūsų ištiesta taikos ir\ndraugystės ranka, susitarkime.\n\n- Niekada nesitarsim, nesiderésim! - toks buvo ssrs valdovų\natsakymas. - Atšaukit savo paskelbtą Nepriklausomybės aktą."
+  citata_rodoma: |
+    Štai, buvę skriaudėjai arba paveldėtojai, mūsų ištiesta taikos ir
+    draugystės ranka, susitarkime.
+
+    - Niekada nesitarsim, nesiderésim! - toks buvo ssrs valdovų
+    atsakymas. - Atšaukit savo paskelbtą Nepriklausomybės aktą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

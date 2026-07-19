@@ -70,7 +70,11 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
     nieko nepasako apie baltų gyvenimą, reikia griebtis «kastuvo
     mokslo », juo labiau, kad jau iš senojo geležies amžiaus (0-400 m.
     po Kr.) yra turtingų kapinynų.
-  citata_rodoma: "Kadangi anie tolimi nuo rytų Europos autoriai beveik visai\nnieko nepasako apie baltų gyvenimą, reikia griebtis «kastuvo\nmokslo », juo labiau, kad jau iš senojo geležies amžiaus (0-400 m.\npo Kr.) yra turtingų kapinynų."
+  citata_rodoma: |
+    Kadangi anie tolimi nuo rytų Europos autoriai beveik visai
+    nieko nepasako apie baltų gyvenimą, reikia griebtis «kastuvo
+    mokslo », juo labiau, kad jau iš senojo geležies amžiaus (0-400 m.
+    po Kr.) yra turtingų kapinynų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

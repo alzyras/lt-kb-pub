@@ -73,7 +73,15 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
     sio 8 d. nusileido daugiau kaip 30 transpor-
     tinių lėktuvų 11-76, kurių vienas talpina iki
     145 desantininkų.
-  citata_rodoma: "Sustiprinti esamą Vilniaus įgulą buvo at-\nsiųsti ir papildomi sovietinės kariuomenės\nkariai. Buvo atskraidinti kariai iš Pskovo\n76-osios oro desanto divizijos 234-0jo\npulko, karių su kovinėmis desanto mašino-\nmis BMD-1 ir BMD-2 (dėl vikšrinės važiuo-\nklės šnekamojoje kalboje žmonių dažnai\nvadintomis tanketėmis, t. y. mažais tankais)."
+  citata_rodoma: |
+    Sustiprinti esamą Vilniaus įgulą buvo at-
+    siųsti ir papildomi sovietinės kariuomenės
+    kariai. Buvo atskraidinti kariai iš Pskovo
+    76-osios oro desanto divizijos 234-0jo
+    pulko, karių su kovinėmis desanto mašino-
+    mis BMD-1 ir BMD-2 (dėl vikšrinės važiuo-
+    klės šnekamojoje kalboje žmonių dažnai
+    vadintomis tanketėmis, t. y. mažais tankais).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -122,7 +122,21 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
     nus Tracensis et Polocensis [Skirgaila -
     didysis Lietuvos kunigaikštis ir Tra­
     kų bei Polocko valdovas].
-  citata_rodoma: "Tik taikos sutartyje tarp Ordi­\nno maršalo Engelhardo Rabės ir \nLietuvos, apie kurią užsimena F o i g- \nt a s, V, 507, sudarytoje ties Kaunu\n1388 metais, Scriptum prope Cowno in \ncrastino b. Martini Fpi^copi et confes.\nan. dom. 1388 [pasirašyta ties Kaunu \nrytojaus dieną po Šv. Martyno, vys­\nkupo ir išpažinėjo, Viešpaties metais \n1388], Skirgaila save vadina: Schir- \ngalo Dei gratia dux lithuanie et domi­\nnus Tracensis et Polocensis [Skirgaila - \ndidysis Lietuvos kunigaikštis ir Tra­\nkų bei Polocko valdovas]."
+  citata_rodoma: |
+    Tik taikos sutartyje tarp Ordi­
+    no maršalo Engelhardo Rabės ir
+    Lietuvos, apie kurią užsimena F o i g-
+    t a s, V, 507, sudarytoje ties Kaunu
+    1388 metais, Scriptum prope Cowno in
+    crastino b. Martini Fpi^copi et confes.
+    an. dom. 1388 [pasirašyta ties Kaunu
+    rytojaus dieną po Šv. Martyno, vys­
+    kupo ir išpažinėjo, Viešpaties metais
+    1388], Skirgaila save vadina: Schir-
+    galo Dei gratia dux lithuanie et domi­
+    nus Tracensis et Polocensis [Skirgaila -
+    didysis Lietuvos kunigaikštis ir Tra­
+    kų bei Polocko valdovas].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +154,12 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
     Engelhardas Rabe paėmė Maišiagalą, sudegino Kernavę. 1390 m.
     ankstyvą rudenį į didelį karo žygį, sąjungoje su Žemaičiais, išsi­
     ruošė Livonijos magistras.
-  citata_rodoma: "Vytauto lydimi kryžiuočiai darė vieną po kito didelius žygius,\nkuriuose dalyvavo tūkstantiniai būriai. Veiklus ordino maršalas\nEngelhardas Rabe paėmė Maišiagalą, sudegino Kernavę. 1390 m.\nankstyvą rudenį į didelį karo žygį, sąjungoje su Žemaičiais, išsi­\nruošė Livonijos magistras."
+  citata_rodoma: |
+    Vytauto lydimi kryžiuočiai darė vieną po kito didelius žygius,
+    kuriuose dalyvavo tūkstantiniai būriai. Veiklus ordino maršalas
+    Engelhardas Rabe paėmė Maišiagalą, sudegino Kernavę. 1390 m.
+    ankstyvą rudenį į didelį karo žygį, sąjungoje su Žemaičiais, išsi­
+    ruošė Livonijos magistras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +182,17 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
     To įsidėmėtino žygio į Vilnių apra­
     šymą nepasirašę įdėjome į 1829 metų
     Dziennik Wileński Nr. 1.
-  citata_rodoma: "Tad, visuotinei tamsybei klestint, kryžiuočiai leng­\nvai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar \nesanti pagonių šalis. Galop ta galinga kariauna išsiruošė į \nžygį vedama vyriausiojo vado Ordino maršalo Engelhardo \nRabės22, kadangi didysis magistras Konradas Ciolneris gu­\nlėjo pakirstas sunkios ligos. Tūkstančiui rinktinių anglų\n21\nTo įsidėmėtino žygio į Vilnių apra­\nšymą nepasirašę įdėjome į 1829 metų \nDziennik Wileński Nr. 1."
+  citata_rodoma: |
+    Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
+    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
+    esanti pagonių šalis. Galop ta galinga kariauna išsiruošė į
+    žygį vedama vyriausiojo vado Ordino maršalo Engelhardo
+    Rabės22, kadangi didysis magistras Konradas Ciolneris gu­
+    lėjo pakirstas sunkios ligos. Tūkstančiui rinktinių anglų
+    21
+    To įsidėmėtino žygio į Vilnių apra­
+    šymą nepasirašę įdėjome į 1829 metų
+    Dziennik Wileński Nr. 1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

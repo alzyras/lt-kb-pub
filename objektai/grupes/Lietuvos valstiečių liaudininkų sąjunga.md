@@ -273,7 +273,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
     kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
     29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
-  citata_rodoma: "kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo"
+  citata_rodoma: |
+    kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -293,7 +294,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
     tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
     lyderis Kazys Grinius.
-  citata_rodoma: "tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų"
+  citata_rodoma: |
+    tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -312,7 +314,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
     liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
     ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
-  citata_rodoma: "liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę"
+  citata_rodoma: |
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -332,7 +335,12 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     M. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-
     timieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam
     Seimui, iškirsti politinę „orlaidę“. Dėl to atgaivinta Seimo institucija.
-  citata_rodoma: "Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-\ntikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko \nM. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-\ntimieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam \nSeimui, iškirsti politinę „orlaidę“."
+  citata_rodoma: |
+    Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-
+    tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
+    M. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-
+    timieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam
+    Seimui, iškirsti politinę „orlaidę“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -354,7 +362,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
     lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
     ultraradikalieji voldemarininkai.
-  citata_rodoma: "matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines"
+  citata_rodoma: |
+    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -376,7 +385,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: "ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono"
+  citata_rodoma: |
+    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -396,7 +406,10 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     skaudžiai nubausta. Krikščionys demokratai ir liaudininkai, prieš tai su-
     sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
     krikščionims demokratams gen. S. Raštikį.
-  citata_rodoma: "Krikščionys demokratai ir liaudininkai, prieš tai su-\nsitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą \nkrikščionims demokratams gen. S. Raštikį."
+  citata_rodoma: |
+    Krikščionys demokratai ir liaudininkai, prieš tai su-
+    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
+    krikščionims demokratams gen. S. Raštikį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

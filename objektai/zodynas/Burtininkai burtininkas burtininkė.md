@@ -180,7 +180,15 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
     me su jūra krašte, kuriame daug visokių didelių vandenų, to­
     dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
     jie negalėjo apsieiti be savo Neptūno.
-  citata_rodoma: "Tolesnį šito patvirtinimą rasime žemiau,\nstraipsnyje „Laima“.\nVisos lietuvių genties tautos turėjo savo dainius, panašius\nį kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­\nnuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­\ndavo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat\nBurts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­\niais Lėlio."
+  citata_rodoma: |
+    Tolesnį šito patvirtinimą rasime žemiau,
+    straipsnyje „Laima“.
+    Visos lietuvių genties tautos turėjo savo dainius, panašius
+    į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­
+    nuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­
+    davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat
+    Burts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­
+    iais Lėlio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -255,7 +263,11 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: "Burtininkė (Burte)\nLietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­\nvo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­\ndinimas yra Lasickio mitologijoje."
+  citata_rodoma: |
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­
+    vo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­
+    dinimas yra Lasickio mitologijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

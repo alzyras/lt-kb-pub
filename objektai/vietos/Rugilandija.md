@@ -100,7 +100,13 @@ Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi N
     rulai su jiems būdingu pasipūtimu įžeidė nepriklauso­
     mus longobardus, linkusius paklusti savo valia, o ne
     prievarta.
-  citata_rodoma: "Didžiausia herulų dalis pasitraukė \nprie Dunojaus, kur ketino apsigyventi šalia rugių arba \ntoje Noriko dalyje, kurią pavadino Rugilandija. Savo kai­\nmynystėje jie rado longobardus ir ėmė savintis tam tikrą \njų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­\nnėjusi, be to, visiškai negausi, bet pernelyg karinga."
+  citata_rodoma: |
+    Didžiausia herulų dalis pasitraukė
+    prie Dunojaus, kur ketino apsigyventi šalia rugių arba
+    toje Noriko dalyje, kurią pavadino Rugilandija. Savo kai­
+    mynystėje jie rado longobardus ir ėmė savintis tam tikrą
+    jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
+    nėjusi, be to, visiškai negausi, bet pernelyg karinga.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

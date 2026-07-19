@@ -65,7 +65,13 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
     yra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,
     kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
     skersai kelio.
-  citata_rodoma: "Savo mokytojo\nOlesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko\nklausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai\nyra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,\nkuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo\nskersai kelio."
+  citata_rodoma: |
+    Savo mokytojo
+    Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko
+    klausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai
+    yra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,
+    kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
+    skersai kelio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

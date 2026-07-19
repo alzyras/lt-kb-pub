@@ -87,7 +87,13 @@ Nenurodyta
     m., atvykus riteriams iš Čekijos ir nuo Reino, vėl žygiuota prieš Lietuvą, bet dėl didelių
     šalčių iš pusiaukelės buvo grįžta. Tais pačiais metais kryžiuočiai vėl bandė niokoti
     panemunes apie Paštuvą (III, 340, 342, 347).
-  citata_rodoma: "Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš\nVokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,\nAriogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje. 1323\nm., atvykus riteriams iš Čekijos ir nuo Reino, vėl žygiuota prieš Lietuvą, bet dėl didelių\nšalčių  iš pusiaukelės buvo grįžta. Tais pačiais metais kryžiuočiai vėl bandė niokoti\npanemunes apie Paštuvą (III, 340, 342, 347)."
+  citata_rodoma: |
+    Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš
+    Vokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,
+    Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje. 1323
+    m., atvykus riteriams iš Čekijos ir nuo Reino, vėl žygiuota prieš Lietuvą, bet dėl didelių
+    šalčių  iš pusiaukelės buvo grįžta. Tais pačiais metais kryžiuočiai vėl bandė niokoti
+    panemunes apie Paštuvą (III, 340, 342, 347).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

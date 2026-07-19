@@ -181,7 +181,13 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
     prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
     pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
-  citata_rodoma: "Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten\nkai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam\nįkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską\ntinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo\nprie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti\npilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai."
+  citata_rodoma: |
+    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -221,7 +227,11 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
     pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
     legatu140.
-  citata_rodoma: "Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama\napie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji\npastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė\niš Kroicburgo (įvykį kronikininkas datuoja 1263 m."
+  citata_rodoma: |
+    Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
+    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
+    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
+    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

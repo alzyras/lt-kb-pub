@@ -150,7 +150,13 @@ Nenurodyta
     civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
     organizavimu, studijomis Krokuvos universitete, administracinės sistemos
     perėmimu, ūkio reforma.
-  citata_rodoma: "Mykolas Lietuvis siūlo ir kalbos permainas – at-\nsisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų. Tačiau viską nulė-\nmė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji \ncivilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos \norganizavimu, studijomis Krokuvos universitete, administracinės sistemos \nperėmimu, ūkio reforma."
+  citata_rodoma: |
+    Mykolas Lietuvis siūlo ir kalbos permainas – at-
+    sisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų. Tačiau viską nulė-
+    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
+    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
+    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
+    perėmimu, ūkio reforma.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -169,7 +175,12 @@ Nenurodyta
     Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
     versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
     davė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje.
-  citata_rodoma: "Lietuvai tai \npavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino \nLietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-\nversitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas \ndavė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje."
+  citata_rodoma: |
+    Lietuvai tai
+    pavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino
+    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
+    versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
+    davė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

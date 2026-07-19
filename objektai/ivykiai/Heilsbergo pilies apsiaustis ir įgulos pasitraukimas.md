@@ -150,7 +150,12 @@ Nenurodyta
     Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o
     palaidotas Kulmenzės bažnyčioje. Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,
     įgudęs kariauti ir Kristui atsidavęs vyras.
-  citata_rodoma: "94 (89). Apie tai, kaip buvo palikta Heilsbergo pilis\n\n   Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]\nbei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė\n250 arklių ir jų odas."
+  citata_rodoma: |
+    94 (89). Apie tai, kaip buvo palikta Heilsbergo pilis
+
+       Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]
+    bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė
+    250 arklių ir jų odas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -171,7 +176,12 @@ Nenurodyta
     Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
     pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
     keliais pasitraukė.
-  citata_rodoma: "Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]\nbei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė\n250 arklių ir jų odas. Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo\nmiestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino\njų tėvams."
+  citata_rodoma: |
+    Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]
+    bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė
+    250 arklių ir jų odas. Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
+    miestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino
+    jų tėvams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

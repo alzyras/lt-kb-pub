@@ -140,7 +140,20 @@ Nenurodyta
     kaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­
     nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
     giuoti.
-  citata_rodoma: "Jau kry­\nžiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­\nkėtai užpuolė nebesisaugančių priešų ariergardą; ko­\nvėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­\nrios kitos priežasties, ar dėl to, kad ir vienos, ir kitos \nkariuomenės dydis buvo nežinomas, vadai nežinojo, \nkieno pusėje jėgos persvara; kai ir vienoje, ir kitoje \npusėje krito keletas karių, susidūrimas liovėsi. Šalti­\nniai mini, jog tuo pačiu metu kautasi Livonijoje prie \nD u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei \nkaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­\nnią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­\ngiuoti."
+  citata_rodoma: |
+    Jau kry­
+    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
+    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
+    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
+    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
+    kariuomenės dydis buvo nežinomas, vadai nežinojo,
+    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
+    pusėje krito keletas karių, susidūrimas liovėsi. Šalti­
+    niai mini, jog tuo pačiu metu kautasi Livonijoje prie
+    D u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei
+    kaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­
+    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
+    giuoti.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -178,7 +191,21 @@ Nenurodyta
     veik nepraeinamais keliais
     per Mazovijos miškus, įsi­
     veržė į Didžiosios Lenkijos žemes.
-  citata_rodoma: "Kai valdovui\npranešė, jog įsibrovė priešas ir degina kaimus bei kie­\nmus, jis greitosiomis su tūkstančiu penkiais šimtais\nraitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­\nžiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­\nkėtai užpuolė nebesisaugančių priešų ariergardą; ko­\nvėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­\nrios kitos priežasties, ar dėl to, kad ir vienos, ir kitos\nkariuomenės dydis buvo nežinomas, vadai nežinojo,\nkieno pusėje jėgos persvara; kai ir vienoje, ir kitoje\npusėje krito keletas karių, susidūrimas liovėsi. Šalti­\nniai mini, jog tuo pačiu metu kautasi Livonijoje prie\nD u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei\nkaip baigėsi."
+  citata_rodoma: |
+    Kai valdovui
+    pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
+    mus, jis greitosiomis su tūkstančiu penkiais šimtais
+    raitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­
+    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
+    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
+    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
+    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
+    kariuomenės dydis buvo nežinomas, vadai nežinojo,
+    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
+    pusėje krito keletas karių, susidūrimas liovėsi. Šalti­
+    niai mini, jog tuo pačiu metu kautasi Livonijoje prie
+    D u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei
+    kaip baigėsi.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

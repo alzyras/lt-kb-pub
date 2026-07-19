@@ -76,7 +76,8 @@ Dusburgietis teigia, kad potkowski E.
   citata_originali: |
     Toppen M Einleitung.—SRP, 1, S. 3—20.
     Toeppen M. Historisch-comparative Geographie von Preussen.
-  citata_rodoma: "Potkowski E. Rycerze w habitach.— Warszawa, 1974."
+  citata_rodoma: |
+    Potkowski E. Rycerze w habitach.— Warszawa, 1974.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

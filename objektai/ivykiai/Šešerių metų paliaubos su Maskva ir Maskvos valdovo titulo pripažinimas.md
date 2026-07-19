@@ -135,7 +135,14 @@ Nenurodyta
     siuntimą į Maskvą vėlesniam
     atsiųsti legatus, ta pačia proga nusiskųsdamas dėl nau­
     jų skriaudų.
-  citata_rodoma: "Pirmoji pasiuntinybė patraukė į Možaiską\ntik tada, kai gavo žinią, jog karaliaus legatai Smo­\nlenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­\njųjų metų nepradėta kalbėtis dėl taikos. Maskvėnų\nmetraščiai mini popiežiaus Klemenso legatą Joną Fren-\ntijulijų, imperatoriaus Karolio V — grafą Leonardą ir\nkaraliaus Ferdinando — Zigmantą Herberšteiną."
+  citata_rodoma: |
+    Pirmoji pasiuntinybė patraukė į Možaiską
+    tik tada, kai gavo žinią, jog karaliaus legatai Smo­
+    lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
+    jųjų metų nepradėta kalbėtis dėl taikos. Maskvėnų
+    metraščiai mini popiežiaus Klemenso legatą Joną Fren-
+    tijulijų, imperatoriaus Karolio V — grafą Leonardą ir
+    karaliaus Ferdinando — Zigmantą Herberšteiną.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -170,7 +177,16 @@ Nenurodyta
     tik tada, kai gavo žinią, jog karaliaus legatai Smo­
     lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
     jųjų metų nepradėta kalbėtis dėl taikos.
-  citata_rodoma: "Suderinę su karaliumi savo planus, \npopiežiaus, imperatoriaus bei Romos karaliaus pasiun­\ntiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur \niš paskos turėjo leistis ir karaliaus legatai, turėję tol \nlaukti pasienyje, kol jiems būsią leista įžengti į Mask­\nvos žemę. Pirmoji pasiuntinybė patraukė į Možaiską \ntik tada, kai gavo žinią, jog karaliaus legatai Smo­\nlenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­\njųjų metų nepradėta kalbėtis dėl taikos."
+  citata_rodoma: |
+    Suderinę su karaliumi savo planus,
+    popiežiaus, imperatoriaus bei Romos karaliaus pasiun­
+    tiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur
+    iš paskos turėjo leistis ir karaliaus legatai, turėję tol
+    laukti pasienyje, kol jiems būsią leista įžengti į Mask­
+    vos žemę. Pirmoji pasiuntinybė patraukė į Možaiską
+    tik tada, kai gavo žinią, jog karaliaus legatai Smo­
+    lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
+    jųjų metų nepradėta kalbėtis dėl taikos.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

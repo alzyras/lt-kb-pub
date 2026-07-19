@@ -70,7 +70,10 @@ media_all_json: |-
     Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,
     1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų
     sienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_
-  citata_rodoma: "Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,\n1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų\nsienų,_ Athenaeum, VI, 1935, 54-117 p."
+  citata_rodoma: |
+    Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,
+    1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų
+    sienų,_ Athenaeum, VI, 1935, 54-117 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

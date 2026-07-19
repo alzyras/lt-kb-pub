@@ -126,7 +126,14 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     kur ėmė užiminėti pa-
     talpas, plėšti gyvento-
     jus ir kitaip savivaliauti.
-  citata_rodoma: "1919 m. liepos 26 d. į\nKuršėnus įžengė pirmieji\nbermontininkai, vado-\nvaujami plk. Virgoličiaus,\nkur ėmė užiminėti pa-\ntalpas, plėšti gyvento-\njus ir kitaip savivaliauti."
+  citata_rodoma: |
+    1919 m. liepos 26 d. į
+    Kuršėnus įžengė pirmieji
+    bermontininkai, vado-
+    vaujami plk. Virgoličiaus,
+    kur ėmė užiminėti pa-
+    talpas, plėšti gyvento-
+    jus ir kitaip savivaliauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,7 +153,10 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     Spalio 5 d. plk. Virgoličiaus
     rinktinė iš Kuršėnų per-
     sikėlė į Šiaulius.
-  citata_rodoma: "Spalio 5 d. plk. Virgoličiaus\nrinktinė iš Kuršėnų per-\nsikėlė į Šiaulius."
+  citata_rodoma: |
+    Spalio 5 d. plk. Virgoličiaus
+    rinktinė iš Kuršėnų per-
+    sikėlė į Šiaulius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -171,7 +181,14 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     vė: vieni kitiems prikai-
     šiojo, kiekvienas norėjo
     vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
-  citata_rodoma: "Tada Kuršėnuose\nįvyko paskutinis vadų pa-\nsitarimas, kur pasirodė di-\ndžiausia tarp jų nesantar-\nvė: vieni kitiems prikai-\nšiojo, kiekvienas norėjo\nvadovauti, bet nieko neveikė, tiktai paradavo ir puotavo."
+  citata_rodoma: |
+    Tada Kuršėnuose
+    įvyko paskutinis vadų pa-
+    sitarimas, kur pasirodė di-
+    džiausia tarp jų nesantar-
+    vė: vieni kitiems prikai-
+    šiojo, kiekvienas norėjo
+    vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -135,7 +135,18 @@ Nenurodyta
     nuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma
     manęs: „Jėzau Kristau, dievo sūnau“. Po to jis tiksliai išpranašavo savo mirties dieną ir
     valandą.
-  citata_rodoma: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių\n                                 sudeginimą\n\n   Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,\nslaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus\nir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.\n\n\n\n\n           262 (255)."
+  citata_rodoma: |
+    Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
+                                     sudeginimą
+
+       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
+    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
+    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
+
+
+
+
+               262 (255).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

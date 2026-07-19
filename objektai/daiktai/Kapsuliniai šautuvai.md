@@ -82,14 +82,21 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    I. Ganeckio rinktinę, tačiau rusų
+    Ganeckio rinktinę, tačiau rusų
     kariai pranoko sukilėlius ginkluote, nes
     buvo ginkluoti naujo pavyzdžio kapsuli-
     niais šautuvais. Be to, rusai turėjo didelį
     neseniai pasibaigusio Krymo karo paty-
     rimą. Daugelis sukilėlių turėjo tik senus
     titnaginius arba medžioklinius šautuvus.
-  citata_rodoma: "Ganeckio rinktinę, tačiau rusų\nkariai pranoko sukilėlius ginkluote, nes\nbuvo ginkluoti naujo pavyzdžio kapsuli-\nniais šautuvais. Be to, rusai turėjo didelį\nneseniai pasibaigusio Krymo karo paty-\nrimą. Daugelis sukilėlių turėjo tik senus\ntitnaginius arba medžioklinius šautuvus."
+  citata_rodoma: |
+    Ganeckio rinktinę, tačiau rusų
+    kariai pranoko sukilėlius ginkluote, nes
+    buvo ginkluoti naujo pavyzdžio kapsuli-
+    niais šautuvais. Be to, rusai turėjo didelį
+    neseniai pasibaigusio Krymo karo paty-
+    rimą. Daugelis sukilėlių turėjo tik senus
+    titnaginius arba medžioklinius šautuvus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

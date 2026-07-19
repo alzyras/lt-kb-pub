@@ -79,7 +79,12 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
     nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
     teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
     nimu.
-  citata_rodoma: "Vyskupi-\njoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų\nnacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV\nteritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-\nnimu."
+  citata_rodoma: |
+    Vyskupi-
+    joje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų
+    nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
+    teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
+    nimu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

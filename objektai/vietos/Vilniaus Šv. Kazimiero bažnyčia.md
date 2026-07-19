@@ -68,7 +68,11 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
     Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
     architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
     čia.
-  citata_rodoma: "Barokinė \nNesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės \narchitektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-\nčia."
+  citata_rodoma: |
+    Barokinė
+    Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
+    architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
+    čia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

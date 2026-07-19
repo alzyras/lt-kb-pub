@@ -102,7 +102,8 @@ Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos 
     vasarą pradėjęs lietuvių kalbos studijas
     kažkur Lietuvos šiaurėje;
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
-  citata_rodoma: "1899—1900 m. studijavo Tartų universitete, latvių kalbos lektoriui Lautenbachui vadovaujant, latvių kalbą ir liaudies poeziją; tą pačią 1900 m. vasarą pradėjęs lietuvių kalbos studijas kažkur Lietuvos šiaurėje;"
+  citata_rodoma: |
+    1899—1900 m. studijavo Tartų universitete, latvių kalbos lektoriui Lautenbachui vadovaujant, latvių kalbą ir liaudies poeziją; tą pačią 1900 m. vasarą pradėjęs lietuvių kalbos studijas kažkur Lietuvos šiaurėje;
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas

@@ -87,7 +87,13 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
     Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
     suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
     dodavo laisvės deivės simboliu.
-  citata_rodoma: "Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­\ndalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas\nmurgais (murgi). Ašagarde (Assagard), arba šiaurės Olimpe,\nji turėjo prabangius rūmus, vadintus Tautų sambūriu (Zgro-\nmadzenie ludow), kuriuose jai patarnaudavo žuvusių už laisvę\nriterių vėlės. Jos karietą traukdavo dvejetas katinų."
+  citata_rodoma: |
+    Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
+    dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas
+    murgais (murgi). Ašagarde (Assagard), arba šiaurės Olimpe,
+    ji turėjo prabangius rūmus, vadintus Tautų sambūriu (Zgro-
+    madzenie ludow), kuriuose jai patarnaudavo žuvusių už laisvę
+    riterių vėlės. Jos karietą traukdavo dvejetas katinų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

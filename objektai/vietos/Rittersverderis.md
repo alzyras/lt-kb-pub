@@ -112,7 +112,11 @@ media_all_json: |-
     Henrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­
     tautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­
     nigaikštiją su Rusijos kraštais, kad tik jis taikintųsi.
-  citata_rodoma: "Šie pirma jį nusiuntė į Rittersverderį pas Vytautą.\nHenrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­\ntautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­\nnigaikštiją su Rusijos kraštais, kad tik jis taikintųsi."
+  citata_rodoma: |
+    Šie pirma jį nusiuntė į Rittersverderį pas Vytautą.
+    Henrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­
+    tautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­
+    nigaikštiją su Rusijos kraštais, kad tik jis taikintųsi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +135,11 @@ media_all_json: |-
     mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
     savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
     Lietuvą.
-  citata_rodoma: "Vytautą rado jis Rittersverdery, berengiantį planus toli­\nmesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis\nsavo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti\nLietuvą."
+  citata_rodoma: |
+    Vytautą rado jis Rittersverdery, berengiantį planus toli­
+    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
+    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
+    Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +161,14 @@ media_all_json: |-
     Po kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­
     randant priežastį, jog norįs pasiųsti ją Lietuvon, varyti
     Ordino naudai propagandos.
-  citata_rodoma: "Dar\n1391 m. pabaigoj, matyt, nujausdamas, kad santykiai su Ordi­\nnu turės kada nors vėl pasikeisti, ėmė Vytautas savo šalininkus\nrankioti į Rittersverderį iš kitų Ordino pilių.\nPo kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­\nrandant priežastį, jog norįs pasiųsti ją Lietuvon, varyti\nOrdino naudai propagandos."
+  citata_rodoma: |
+    Dar
+    1391 m. pabaigoj, matyt, nujausdamas, kad santykiai su Ordi­
+    nu turės kada nors vėl pasikeisti, ėmė Vytautas savo šalininkus
+    rankioti į Rittersverderį iš kitų Ordino pilių.
+    Po kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­
+    randant priežastį, jog norįs pasiųsti ją Lietuvon, varyti
+    Ordino naudai propagandos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

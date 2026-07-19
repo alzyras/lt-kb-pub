@@ -129,7 +129,13 @@ Nenurodyta
     kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais ir trikdė jam
     ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
     dievui.
-  citata_rodoma: "Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje\n\n  Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.\nJie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis\nbudėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios\npilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą."
+  citata_rodoma: |
+    Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje
+
+      Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
+    Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
+    budėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
+    pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -152,7 +158,17 @@ Nenurodyta
     ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
     dievui. Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
     susigėdęs atstojo ir nebedrįso daugiau rodytis.
-  citata_rodoma: "Apie kito brolio gyvenimą toje pačioje pilyje\n\n  Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus\nTeutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas\njam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti. Todėl pirmąją\nnaktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi\nkas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais  ir trikdė jam\nramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas\ndievui. Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo\nsusigėdęs atstojo ir nebedrįso daugiau rodytis."
+  citata_rodoma: |
+    Apie kito brolio gyvenimą toje pačioje pilyje
+
+      Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
+    Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
+    jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti. Todėl pirmąją
+    naktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi
+    kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais  ir trikdė jam
+    ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
+    dievui. Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
+    susigėdęs atstojo ir nebedrįso daugiau rodytis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

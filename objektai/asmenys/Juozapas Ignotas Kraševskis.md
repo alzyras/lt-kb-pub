@@ -159,7 +159,14 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
     niojo peties, prie motenį - varinės adatos, akmeniniai verpstukų
     smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
     kio lygintuvo liekanas, iškastas Obeliuose).
-  citata_rodoma: "Tada aprengia drabužiais, pritinkančiais luomui ir ly­\nčiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša\nrankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­\nriai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti\ndrabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot\npono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­\nrūs“. Mes gi apie tai nieko negalime pasakyti*."
+  citata_rodoma: |
+    Tada aprengia drabužiais, pritinkančiais luomui ir ly­
+    čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
+    rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
+    riai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti
+    drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
+    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
+    rūs“. Mes gi apie tai nieko negalime pasakyti*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

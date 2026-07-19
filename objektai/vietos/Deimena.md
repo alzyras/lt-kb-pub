@@ -72,7 +72,12 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
     plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
     liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
-  citata_rodoma: "Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-\ntuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno\nkelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo\nplaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-\nliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą."
+  citata_rodoma: |
+    Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
+    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
+    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
+    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
+    liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

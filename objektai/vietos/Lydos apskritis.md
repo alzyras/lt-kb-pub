@@ -182,7 +182,12 @@ media_all_json: |-
     sukęs į dešinę pusę. Lygus užrašas, prasidedantis nuo skydelio
     dešiniojo krašto, yra toks: ZEMAJTAS: MINZIOS, tai yra: Že­
     maičių moneta.
-  citata_rodoma: "Nematyti jokio užrašo.\n1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­\nčios upės pakrantės skardyje, kaimietis rado senų sidabrinių\npinigų. 1832 metais iš jų gavau penkis vienetus iš trijų rūšių\nmonetų, kurios sudarė tą lobį."
+  citata_rodoma: |
+    Nematyti jokio užrašo.
+    1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­
+    čios upės pakrantės skardyje, kaimietis rado senų sidabrinių
+    pinigų. 1832 metais iš jų gavau penkis vienetus iš trijų rūšių
+    monetų, kurios sudarė tą lobį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -224,7 +229,14 @@ media_all_json: |-
     ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
     roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
     pelenai.
-  citata_rodoma: "Vienoda jų sandara ir tokia pat radimo vieta įtikina,\njog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,\nkad į jas tekėtų ašaros.\nTikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­\ndos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­\nrias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo\nObelijomis."
+  citata_rodoma: |
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -247,7 +259,13 @@ media_all_json: |-
     nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje
     Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie­
     čių dievą, ant kurio drabužių buvę iškalti kryžiai.
-  citata_rodoma: "Tai palikimas seniausių šios žemės gyvento­\njų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos\nmineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,\nšiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę\nrasti Lydos apskrityje. Pasitaiko taip pat ir akmeninių kaitų,\nlabai gražiai padirbtų iš titnago."
+  citata_rodoma: |
+    Tai palikimas seniausių šios žemės gyvento­
+    jų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos
+    mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
+    šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
+    rasti Lydos apskrityje. Pasitaiko taip pat ir akmeninių kaitų,
+    labai gražiai padirbtų iš titnago.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

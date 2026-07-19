@@ -166,7 +166,11 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
     lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
     čia tik sustodavo, vykdami prekiauti į rusų kraštus.
-  citata_rodoma: ",\nkai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo\nlankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba\nčia tik sustodavo, vykdami prekiauti į rusų kraštus."
+  citata_rodoma: |
+    ,
+    kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
+    lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
+    čia tik sustodavo, vykdami prekiauti į rusų kraštus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -187,7 +191,11 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     jų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos
     vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
     kluotą savo tikinčiųjų apsaugą.
-  citata_rodoma: "Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,\nir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,\njų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos\nvyskupas, Albertas (1199—1229 m."
+  citata_rodoma: |
+    Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,
+    ir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,
+    jų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos
+    vyskupas, Albertas (1199—1229 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -385,7 +385,12 @@ media_all_json: |-
     Dimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog
     _«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
     to » (« postulati regis Bohemiae Vitoldi »)^17.
-  citata_rodoma: "Su\n5000-7000 vyrų jis nusiuntė Čekijon Jogailos brolio Kaributo-\nDimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog\n_«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­\nto » (« postulati regis Bohemiae Vitoldi »)^17."
+  citata_rodoma: |
+    Su
+    5000-7000 vyrų jis nusiuntė Čekijon Jogailos brolio Kaributo-
+    Dimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog
+    _«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
+    to » (« postulati regis Bohemiae Vitoldi »)^17.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -456,7 +461,14 @@ media_all_json: |-
     Pirmąją sekančių metų dieną padaugėjo karaliui ir
     įpėdinių, nes gimė Žygimantas16, ir rūpesčių, nes neži­
     nojo, ar pavyks išlaikyti savo rankose Lietuvą.
-  citata_rodoma: "N ei\npasiuntinybei, nei chanui nepagailėta g au sių  dovanų.\nK azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi\nb ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam\nV ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,\nm anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­\nimti sau arb a k u riam  savo sūnui."
+  citata_rodoma: |
+    N ei
+    pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
+    K azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi
+    b ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam
+    V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,
+    m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
+    imti sau arb a k u riam  savo sūnui.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

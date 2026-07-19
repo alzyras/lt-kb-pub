@@ -116,7 +116,10 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­
     zo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų
     vyrų viso pasaulio istorijoje.
-  citata_rodoma: "Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­\nzo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų\nvyrų viso pasaulio istorijoje."
+  citata_rodoma: |
+    Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­
+    zo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų
+    vyrų viso pasaulio istorijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

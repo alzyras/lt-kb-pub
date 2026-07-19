@@ -73,7 +73,15 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,
     Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
     galos dekanatai).
-  citata_rodoma: "XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-\nsaulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią\npasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-\nmaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-\nkupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie\njos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,\nPanevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-\ngalos dekanatai)."
+  citata_rodoma: |
+    XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
+    saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią
+    pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-
+    maičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-
+    kupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie
+    jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,
+    Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
+    galos dekanatai).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

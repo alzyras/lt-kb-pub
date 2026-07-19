@@ -84,7 +84,16 @@ Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ate
     kesnių žinių apie jas nei iš padavimų, nei iš istorijos. Vis dėlto
     reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos
     ir iki nustatytų metų, o vėliau galėdavo ištekėti.
-  citata_rodoma: "Apie juos\nbuvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti\njį arba paleisti, kad pūstų.\nŽvakiniai (Žwakones)\nŠie pranašautojai nusiliedavo tam tikras žvakes ir pagal jų\ndegimą bei dūmus kurdavo savo ateities pranašavimus.\nPūtikai (Pustones)\nYpatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­\ntimu."
+  citata_rodoma: |
+    Apie juos
+    buvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti
+    jį arba paleisti, kad pūstų.
+    Žvakiniai (Žwakones)
+    Šie pranašautojai nusiliedavo tam tikras žvakes ir pagal jų
+    degimą bei dūmus kurdavo savo ateities pranašavimus.
+    Pūtikai (Pustones)
+    Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­
+    timu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

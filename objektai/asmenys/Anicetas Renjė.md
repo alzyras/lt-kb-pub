@@ -206,7 +206,15 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     nier, 1804-1877), su kuriuo ilgus dešimtmečius su­
     sirašinėjo (didelė dalis šios korespondencijos pa­
     siekė mūsų dienas).
-  citata_rodoma: "P. 273* -  Išnaša, kuria autorius papildė paragrafą, rengda­\nmas antrąjį LTI leidimą (PEĮ. -  L. 164). Šią infor­\nmaciją, kaip galima spręsti iš papildymo turinio,\nT. Narbutas gavo iš Vilniaus gydytojo ir visuome­\nnės veikėjo Aniceto Renjė (Renier, Renjer, Reg-\nnier, 1804-1877), su kuriuo ilgus dešimtmečius su­\nsirašinėjo (didelė dalis šios korespondencijos pa­\nsiekė mūsų dienas)."
+  citata_rodoma: |
+    P. 273* -  Išnaša, kuria autorius papildė paragrafą, rengda­
+    mas antrąjį LTI leidimą (PEĮ. -  L. 164). Šią infor­
+    maciją, kaip galima spręsti iš papildymo turinio,
+    T. Narbutas gavo iš Vilniaus gydytojo ir visuome­
+    nės veikėjo Aniceto Renjė (Renier, Renjer, Reg-
+    nier, 1804-1877), su kuriuo ilgus dešimtmečius su­
+    sirašinėjo (didelė dalis šios korespondencijos pa­
+    siekė mūsų dienas).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -226,7 +234,11 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     išsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
     riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
     dumą.
-  citata_rodoma: "T. Narbutas liguistai reagavo j jam\nišsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­\nriodikoje, pagirdami už iškelto ir realizuoto sumanymo di­\ndumą."
+  citata_rodoma: |
+    T. Narbutas liguistai reagavo j jam
+    išsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
+    riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
+    dumą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -251,7 +263,12 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     kalnu yra erdvūs požeminiai koridoriai, labai patvariai išmū­
     ryti iš plytų, su salėmis, nišomis, besitęsiantys įvairiais zigza­
     gais; sako, kad iki šiol nežinoma, kur jie baigiasi.
-  citata_rodoma: "Tik neaišku, koks buvo rezul­\ntatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos\ndaktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį\npastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos\ndalykus*."
+  citata_rodoma: |
+    Tik neaišku, koks buvo rezul­
+    tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
+    daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį
+    pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
+    dalykus*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -271,7 +288,19 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     lėjo egzistuoti griaustinio ir žaibų dievo šventykla: „Aš mažai
     tikiu šiais padavimais, bylojančiais, tarytum čia iš tikrųjų buvo
     garbinamas Perkūnas“.
-  citata_rodoma: "(Medicinos\ndaktaro\nRenjė\n1839.XII.15\ndienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis\npadarė\ndar\nprieš\nman\naprašant\ntuos\ndalykus."
+  citata_rodoma: |
+    (Medicinos
+    daktaro
+    Renjė
+    1839.XII.15
+    dienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis
+    padarė
+    dar
+    prieš
+    man
+    aprašant
+    tuos
+    dalykus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

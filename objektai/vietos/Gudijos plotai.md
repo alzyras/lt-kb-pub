@@ -59,7 +59,10 @@ media_all_json: |-
     santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
     pirmoje pusėje yra atėję eilė žodžių. Minėtinas svorio matas birka­
     vas (latviškai — birkavs), kilęs iš vikingų uosto Birkos.
-  citata_rodoma: "Šitaip per Gudijos plotus Lietuvon dar IX amž.\npirmoje pusėje yra atėję eilė žodžių. Minėtinas svorio matas birka­\nvas (latviškai — birkavs), kilęs iš vikingų uosto Birkos."
+  citata_rodoma: |
+    Šitaip per Gudijos plotus Lietuvon dar IX amž.
+    pirmoje pusėje yra atėję eilė žodžių. Minėtinas svorio matas birka­
+    vas (latviškai — birkavs), kilęs iš vikingų uosto Birkos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

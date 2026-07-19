@@ -79,7 +79,11 @@ media_all_json: |-
     pavertė laukiniais nomadais, panašiais į girių žvėris už
     tai, kad nepriėmė mokslo, siunčiamo jiems per pranašą
     Khaintają, Šafrano sūnų, kurį jie nukankino5.
-  citata_rodoma: "Kor ypač didelė\n1 Vorhalle europäischer Völkergesch.\n2 Skorochodo Majevskio tyrinėjimai.\n3 Allgem."
+  citata_rodoma: |
+    Kor ypač didelė
+    1 Vorhalle europäischer Völkergesch.
+    2 Skorochodo Majevskio tyrinėjimai.
+    3 Allgem.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

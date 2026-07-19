@@ -92,7 +92,26 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
     kad didysis kunigaikštis Aleksandras žygiuos j Molda­
     vijos žemę per Braclavą. link Sorokos “, o karalius
     Olbrachtas — iš kito šono.
-  citata_rodoma: "Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .\nSeptyni tūkstančiai penktaisiais metais nuo pasaulio \nsutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­\ntai devyniasdešimt septintųjų metų vasarą Lenkijos ka­\nralius Olbrachas sutelkė galybę savo kariuomenės ir \nsu visomis Lenkijos karalystės jėgomis, su paruoštais \nžirgais ir ginklais išžygiavo prieš Moldavijos vaivadą \nSteponą l0 .\nO didysis kunigaikštis Aleksandras tame Parčevo \nseime buvo kalbėjęs su savo broliu karaliumi Olbrach- \ntu ir slapta nuo visų savo Tarybų ponų buvo nutarę, \nkad didysis kunigaikštis Aleksandras žygiuos j Molda­\nvijos žemę per Braclavą. link Sorokos “ , o karalius \nOlbrachtas — iš kito šono."
+  citata_rodoma: |
+    Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+    Septyni tūkstančiai penktaisiais metais nuo pasaulio
+    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
+    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
+    ralius Olbrachas sutelkė galybę savo kariuomenės ir
+    su visomis Lenkijos karalystės jėgomis, su paruoštais
+    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
+    Steponą l0 .
+    O didysis kunigaikštis Aleksandras tame Parčevo
+    seime buvo kalbėjęs su savo broliu karaliumi Olbrach-
+    tu ir slapta nuo visų savo Tarybų ponų buvo nutarę,
+    kad didysis kunigaikštis Aleksandras žygiuos j Molda­
+    vijos žemę per Braclavą. link Sorokos “ , o karalius
+    Olbrachtas — iš kito šono.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas

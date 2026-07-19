@@ -73,7 +73,8 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
     kos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvir-
     tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo
     programos.
-  citata_rodoma: "tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo"
+  citata_rodoma: |
+    tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,14 @@ Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia �
     lenkiški žodžiai, ir, jei gerbiamieji istorikai būtų tai su­
     vokę, jiems, be abejo, nereikėtų vargti ieškant lietuviams
     vietos svetimoje žemėje, kur jie niekados negyveno.
-  citata_rodoma: "Tačiau vokiečių senovės tyrinėtojai prira­\nšė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti\nvisiškai nereikšmingi. Naujausias yra Reinchardo teigi­\nmas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi\nį pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,\nnes ten yra vietovardžių Stabinas, Staviškės. Tai bent\netimologinių išvadų pagrindas!"
+  citata_rodoma: |
+    Tačiau vokiečių senovės tyrinėtojai prira­
+    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
+    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
+    mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
+    į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
+    nes ten yra vietovardžių Stabinas, Staviškės. Tai bent
+    etimologinių išvadų pagrindas!
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -68,7 +68,12 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
     baigoje siekė sutaikyti abi puses. To siekė
     ir Jogaila, tarpininkaujant abiejų seseriai,
     Mozūrijos kunigaikštienei Aleksandrai.
-  citata_rodoma: "Tuo tarpu Bazelio\nbažnytinis susirinkimas dar 1431 m. pa-\nbaigoje siekė sutaikyti abi puses. To siekė\nir Jogaila, tarpininkaujant abiejų seseriai,\nMozūrijos kunigaikštienei Aleksandrai."
+  citata_rodoma: |
+    Tuo tarpu Bazelio
+    bažnytinis susirinkimas dar 1431 m. pa-
+    baigoje siekė sutaikyti abi puses. To siekė
+    ir Jogaila, tarpininkaujant abiejų seseriai,
+    Mozūrijos kunigaikštienei Aleksandrai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -66,7 +66,8 @@ Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai, įk�
     plėtoti stambųjį prekinį ūkį; buvę žemės ūkio įmonių darbininkai ir tar-
     nautojai, įsikūrę naujose buvusių ūkių gyvenvietėse ir neturintys toje vie-
     tovėje teisės į žemės nuosavybę.
-  citata_rodoma: "Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai,"
+  citata_rodoma: |
+    Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -136,7 +136,15 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
     atvyko į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo į Prūsiją
     ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs į Vokietiją, lengvapėdiškai
     sugalvojo vėl jas eiti.
-  citata_rodoma: "Vieni kelyje prigėrė, kiti išmirė badu, o \ntreti pasikorė iš sielvarto.\n283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,   apie tai, kaip jis atsisa­\nkė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno\n1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją \natvyko į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo į Prūsiją \nir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs į Vokietiją, lengvapėdiškai \nsugalvojo vėl jas eiti."
+  citata_rodoma: |
+    Vieni kelyje prigėrė, kiti išmirė badu, o
+    treti pasikorė iš sielvarto.
+    283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,   apie tai, kaip jis atsisa­
+    kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
+    1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
+    atvyko į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo į Prūsiją
+    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs į Vokietiją, lengvapėdiškai
+    sugalvojo vėl jas eiti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

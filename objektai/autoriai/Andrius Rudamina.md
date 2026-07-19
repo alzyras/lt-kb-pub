@@ -158,7 +158,8 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
     1626–1634 m. ir rašė asketikos veikalus kinų kalba. Šiauriausias katali-
     kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
     universiteto reikšmė.
-  citata_rodoma: "kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų"
+  citata_rodoma: |
+    kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

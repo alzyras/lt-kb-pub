@@ -140,7 +140,16 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
     kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
     dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
     buvo sunaikintos.
-  citata_rodoma: "XIV am­\nžiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami\njos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-\nburgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­\nlyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis\nGediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­\nkiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17\ndienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys\nbuvo sunaikintos."
+  citata_rodoma: |
+    XIV am­
+    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
+    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
+    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
+    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
+    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
+    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
+    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
+    buvo sunaikintos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -165,7 +174,13 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
     Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
     dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
     grubę.
-  citata_rodoma: "1329 metais Lietuvos didysis kunigaikštis\nGediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­\nkiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17\ndienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys\nbuvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį."
+  citata_rodoma: |
+    1329 metais Lietuvos didysis kunigaikštis
+    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
+    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
+    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
+    buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
+    Veliuoną ir sugriovė pilį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -81,7 +81,13 @@ Nenurodyta
     veiksmai), netoli Eglainės, dabartinėje
     Latvijos teritorijoje, kovų metu ėjo iš
     rankų į rankas.
-  citata_rodoma: "Ginkluoti šautuvais\nMauser 98 su užmautais durtuvais.\nArnenhofo vietovė (kur vyksta ir aprašyti\nveiksmai), netoli Eglainės, dabartinėje\nLatvijos teritorijoje, kovų metu ėjo iš\nrankų į rankas."
+  citata_rodoma: |
+    Ginkluoti šautuvais
+    Mauser 98 su užmautais durtuvais.
+    Arnenhofo vietovė (kur vyksta ir aprašyti
+    veiksmai), netoli Eglainės, dabartinėje
+    Latvijos teritorijoje, kovų metu ėjo iš
+    rankų į rankas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

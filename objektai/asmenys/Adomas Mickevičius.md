@@ -171,7 +171,10 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: "Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-\ntas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu\nsave laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz)."
+  citata_rodoma: |
+    Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
+    tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
+    save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +210,14 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     LDK herbas Vytis iš herbyno
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
-  citata_rodoma: "Tačiau ir tomis su-\ndėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji\natstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),\no Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų\nLDK herbas Vytis iš herbyno\n„Stemmata Polonica“ (saugomo\nParyžiuje), XVI a. vid."
+  citata_rodoma: |
+    Tačiau ir tomis su-
+    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
+    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
+    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
+    LDK herbas Vytis iš herbyno
+    „Stemmata Polonica“ (saugomo
+    Paryžiuje), XVI a. vid.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +237,10 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei. Tarp
     šių organizacijų narių buvo ir A. Mickevičius, rašęs ir apie Tėvynę Lietu-
     Adomas Mickevičius.
-  citata_rodoma: "Tarp\nšių organizacijų narių buvo ir A. Mickevičius, rašęs ir apie Tėvynę Lietu-\nAdomas Mickevičius."
+  citata_rodoma: |
+    Tarp
+    šių organizacijų narių buvo ir A. Mickevičius, rašęs ir apie Tėvynę Lietu-
+    Adomas Mickevičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -245,7 +258,9 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
     dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
     jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
-  citata_rodoma: "Apkaltinus per 100 asmenų, dvidešimt, tarp\njų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus."
+  citata_rodoma: |
+    Apkaltinus per 100 asmenų, dvidešimt, tarp
+    jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -268,7 +283,13 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
     pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: "Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-\nviškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik\nliaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,\nJ.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,\nsavotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-\nba rašyta poezija."
+  citata_rodoma: |
+    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
+    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
+    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
+    ba rašyta poezija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -295,7 +316,17 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
     savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
     ba rašyta poezija.
-  citata_rodoma: "Jonas Basanavičius\n\nL I E T U V O S  I S T O R I J A\n120\nDidžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-\nviškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik \nliaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus, \nJ.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, \nsavotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-\nba rašyta poezija."
+  citata_rodoma: |
+    Jonas Basanavičius
+
+    L I E T U V O S  I S T O R I J A
+    120
+    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
+    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
+    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
+    ba rašyta poezija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

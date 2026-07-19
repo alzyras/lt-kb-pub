@@ -87,7 +87,15 @@ Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis
     les, iškeptas pelenuose arba virtas su pelenais. Gali būti, kad
     šis vaisius nuo alkaloidinės rūgšties praranda savo aitrumą ir
     būna visai pakenčiamas valgis.
-  citata_rodoma: "Apie tai papa­\nsakosime straipsnyje „Šventyklos“.\nNeseniai buvo aptiktas kadaise milžiniškas ir labai senas\njau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai\nmanoma, kad jis garbintas kaip šventasis. Jį atrado pats ponas\nDionizas Paškevičius Bardžių dvare, Žemaitijoje, arti Kražių,\nprie vieškelio į Raseinius, tarp Nemakščių ir Kaltinėnų mies­\ntelių."
+  citata_rodoma: |
+    Apie tai papa­
+    sakosime straipsnyje „Šventyklos“.
+    Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
+    jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai
+    manoma, kad jis garbintas kaip šventasis. Jį atrado pats ponas
+    Dionizas Paškevičius Bardžių dvare, Žemaitijoje, arti Kražių,
+    prie vieškelio į Raseinius, tarp Nemakščių ir Kaltinėnų mies­
+    telių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -215,7 +215,18 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
     krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
     ri laikytina grynai stabmeldiška.
-  citata_rodoma: "Tie­\nsa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po\nlaiko pelenais rusenančią kitatikybės ugnį, iš kurios pamažu\nįsidegdamas gaisras vėliau pridarė daug bėdos Vakari} bažny­\nčiai. Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,\napie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė\nnelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas."
+  citata_rodoma: |
+    Tie­
+    sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po
+    laiko pelenais rusenančią kitatikybės ugnį, iš kurios pamažu
+    įsidegdamas gaisras vėliau pridarė daug bėdos Vakari} bažny­
+    čiai. Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
+    apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė
+    nelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -239,7 +250,17 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     no, kuris būtų išdrįsęs prisiliesti geležimi prie šventojo me­
     džio. Todėl Jeronimas, pagriebęs kirvį, pirmas nukirto vieną iš
     aukščiausių medžių.
-  citata_rodoma: "Jeronimas pasijuokė iš jų nai­\nvumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė, \nmėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis \nDievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms. \nPaskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas \nbuvo laikomas labiau garbintinas. Čia Jeronimas ilgai mokė \nžmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką \nliepė iškirsti. Žmonėms atėjus su kirviais, neatsirado nė vie­\nno, kuris būtų išdrįsęs prisiliesti geležimi prie šventojo me­\ndžio."
+  citata_rodoma: |
+    Jeronimas pasijuokė iš jų nai­
+    vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė,
+    mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis
+    Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms.
+    Paskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas
+    buvo laikomas labiau garbintinas. Čia Jeronimas ilgai mokė
+    žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką
+    liepė iškirsti. Žmonėms atėjus su kirviais, neatsirado nė vie­
+    no, kuris būtų išdrįsęs prisiliesti geležimi prie šventojo me­
+    džio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -261,7 +282,13 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     kertami šventi miškai ir iš dievų atimamas prieglobstis. Žmo­
     nės melsdavę jų dieviškosios pagalbos, kai iškildavęs reikalas,
     o dabar nežiną, kurioje vietoje ieškoti dievo.
-  citata_rodoma: "Šitokiu atve­\nju žyniai patardavo sudaryti testamentą ir paskirstyti savo že­\nmiškąjį turtą. Jeronimas įtikino, kad tai apgavystė, sugriovė\nšventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­\nliaudamas toliau, atrado saulės garbintojus; jie ypač garbino\ndidžiulį geležinį kūjį."
+  citata_rodoma: |
+    Šitokiu atve­
+    ju žyniai patardavo sudaryti testamentą ir paskirstyti savo že­
+    miškąjį turtą. Jeronimas įtikino, kad tai apgavystė, sugriovė
+    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
+    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
+    didžiulį geležinį kūjį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

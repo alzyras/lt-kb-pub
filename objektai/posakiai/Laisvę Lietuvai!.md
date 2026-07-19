@@ -88,7 +88,8 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
     tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
     pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
     lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
-  citata_rodoma: "sušukęs „Laisvę Lietuvai!“, pasidegė."
+  citata_rodoma: |
+    sušukęs „Laisvę Lietuvai!“, pasidegė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

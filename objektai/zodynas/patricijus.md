@@ -120,7 +120,11 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
     prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at­
     siuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,
     t. y. imperatoriaus vietininku.
-  citata_rodoma: "Oresto nuverstas impera(orius Julijus Nepas, neturėjęs\nprieglaudos Dalmatijoje, tuojau po Odoakro pergalės at-\nsiuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,\nt. y. imperatoriaus vietininku."
+  citata_rodoma: |
+    Oresto nuverstas impera(orius Julijus Nepas, neturėjęs
+    prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at-
+    siuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,
+    t. y. imperatoriaus vietininku.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

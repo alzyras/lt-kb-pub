@@ -80,7 +80,9 @@ Dusburgietis teigia, kad tumler M.
     Кириллова Ю. М. Прибалтика, Белоруссия. — М.., 1978.
     Кудрякова Е. Б. Известия о Руси в Хронике Саксона Грамматика: Дипломная
     работа/Научн. рук. проф. А. Г. Кузьмин.
-  citata_rodoma: "Tumler M. Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400 mit einem\nAbriss der Geschichte des Ordens von 1400 bis zur neuesten Zeit.— Wien, 1954."
+  citata_rodoma: |
+    Tumler M. Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400 mit einem
+    Abriss der Geschichte des Ordens von 1400 bis zur neuesten Zeit.— Wien, 1954.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -172,7 +172,38 @@ Nenurodyta
     niu keliu ten patekti, palie­
     pė nukloti iš pilies į Barboros
     sodus takelį ir tiltuką per Vilnios upę.
-  citata_rodoma: "Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai\nją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi\nir karaliaus Aleksandro pa­\nlaikai, Augustas neilgai ge­\ndėjo. Jaunatviškai lengvabū­\ndiškas, be to, iš mažumės\ntaip išauklėtas, kad mėgo\npuotauti, šokti ir visaip link-\n1545 m e ta i\nM iršta  A u strijo s k u ­\nn ig a ik š ty tė\nE lžb ieta ,\nA u g u sto  žm on a\n6 7  4\n\n## Puslapis 673\n\nsmintis su moterimis, pradėjo lankyti Barborą Radvi­\nlaitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­\nvados Stanislovo Goštauto našlę. Nors Radvilų rūmai\nbuvo visai netoli karaliaus\nA u g u sta s sla p ta i ve-\npilies, Augustas, trokšdamas\nd a\nB arborą\nR a d vi-\nkada panorėjęs kuo trumpes-\nla itę\nniu keliu ten patekti, palie­\npė nukloti iš pilies į Barboros\nsodus takelį ir tiltuką per Vilnios upę."
+  citata_rodoma: |
+    Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
+    ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
+    ir karaliaus Aleksandro pa­
+    laikai, Augustas neilgai ge­
+    dėjo. Jaunatviškai lengvabū­
+    diškas, be to, iš mažumės
+    taip išauklėtas, kad mėgo
+    puotauti, šokti ir visaip link-
+    1545 m e ta i
+    M iršta  A u strijo s k u ­
+    n ig a ik š ty tė
+    E lžb ieta ,
+    A u g u sto  žm on a
+    6 7  4
+
+    ## Puslapis 673
+
+    smintis su moterimis, pradėjo lankyti Barborą Radvi­
+    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
+    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
+    buvo visai netoli karaliaus
+    A u g u sta s sla p ta i ve-
+    pilies, Augustas, trokšdamas
+    d a
+    B arborą
+    R a d vi-
+    kada panorėjęs kuo trumpes-
+    la itę
+    niu keliu ten patekti, palie­
+    pė nukloti iš pilies į Barboros
+    sodus takelį ir tiltuką per Vilnios upę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

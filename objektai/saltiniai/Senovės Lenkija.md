@@ -86,7 +86,12 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
     J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
     apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
     dinį leidinį Senovės Lenkija.
-  citata_rodoma: "1841 m. jis tapo vienu iš enciklopedinio \npobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir \nJ. Sniadeckių biografijas, parengė jų darbų rinktines, parašė \napie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­\ndinį leidinį Senovės Lenkija."
+  citata_rodoma: |
+    1841 m. jis tapo vienu iš enciklopedinio
+    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
+    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
+    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
+    dinį leidinį Senovės Lenkija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +111,14 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
     tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
     rašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai,
     jų geografinė padėtis, trumpa istorinė apžvalga.
-  citata_rodoma: "Balinskis pa­\nliko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­\nčiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos \nistorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys \ntomai, kurių vienas skirtas LDK istoriniam topografiniam ap­\nrašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai, \njų geografinė padėtis, trumpa istorinė apžvalga."
+  citata_rodoma: |
+    Balinskis pa­
+    liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
+    čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
+    istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
+    tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
+    rašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai,
+    jų geografinė padėtis, trumpa istorinė apžvalga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

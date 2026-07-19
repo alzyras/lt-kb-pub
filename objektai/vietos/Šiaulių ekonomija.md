@@ -95,7 +95,11 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
     torių aprašymas_ (1963) ir _Rankraščių rinkiniai Lietuvos T. S. R.
     Mokslų Akademijos Centrinės bibliotekos XI-XX amžių rankraščių
     fondų trumpa apžvalga_ (1963).
-  citata_rodoma: "Marčėnas:\n_Šiaulių ekonomijos valstiečių sukilimas 1769 m._ (1969)^114 ; A.\nMakarevičius: _Ekonominės teorijos Vilniaus universitete\n1783-1832 m."
+  citata_rodoma: |
+    Marčėnas:
+    _Šiaulių ekonomijos valstiečių sukilimas 1769 m._ (1969)^114 ; A.
+    Makarevičius: _Ekonominės teorijos Vilniaus universitete
+    1783-1832 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

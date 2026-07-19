@@ -110,7 +110,14 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     ją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino
     pagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295.
     57 (56). Apie brolį Henriką, trečią magistrą.
-  citata_rodoma: "Tuo tarpu stalininkas Druzigeris,\nsu saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad\nir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo\nžemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo\ngirdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo\nmūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos\nraudas."
+  citata_rodoma: |
+    Tuo tarpu stalininkas Druzigeris,
+    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
+    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
+    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
+    girdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo
+    mūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos
+    raudas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

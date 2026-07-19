@@ -97,7 +97,12 @@ media_all_json: |-
     raportas didžiajam magistrui, kuriame minima, kad (Smolensko vie­
     tininkas] Jurgis Butrimas pasitraukė nuo Švitrigailos, pripažindamas
     2ygimanto Kęstutaičio valdžią (LUB, VIII, Nr. 999, p. 611).
-  citata_rodoma: "Ir vasario 15 d. su­\nsijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­\nnių. Tačiau susitarim as nebuvo jgyvendintas. Livonijos kariuome­\nnė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­\ndu po šiaurės rytų Lietuvą"
+  citata_rodoma: |
+    Ir vasario 15 d. su­
+    sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­
+    nių. Tačiau susitarim as nebuvo jgyvendintas. Livonijos kariuome­
+    nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­
+    du po šiaurės rytų Lietuvą
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

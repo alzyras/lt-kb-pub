@@ -59,7 +59,11 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
     tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis
     Jogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau
     (^19) **LUB, III, 393-395, 400, 489-495 p.; RaCD, 55-60 p.**
-  citata_rodoma: "Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais\ntariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis\nJogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau\n(^19) **LUB, III, 393-395, 400, 489-495 p."
+  citata_rodoma: |
+    Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais
+    tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis
+    Jogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau
+    (^19) **LUB, III, 393-395, 400, 489-495 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

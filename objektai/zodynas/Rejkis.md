@@ -151,7 +151,12 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     turėjo vergiškai klusnių valdinių, o patys buvo priklau­
     somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
     valdė provincijas.
-  citata_rodoma: "Jie, gyvenę savo pilaitėse, įsa­\nkinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,\nturėjo vergiškai klusnių valdinių, o patys buvo priklau­\nsomi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie\nvaldė provincijas."
+  citata_rodoma: |
+    Jie, gyvenę savo pilaitėse, įsa­
+    kinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,
+    turėjo vergiškai klusnių valdinių, o patys buvo priklau­
+    somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
+    valdė provincijas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -175,7 +180,15 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
     valdė provincijas.
     Tokie kilmingų giminių ponai gyveno Pamedėje.
-  citata_rodoma: "Vadinasi, krašto ba­\njorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­\nskirų apskričių savininkai. Jie, gyvenę savo pilaitėse, įsa­\nkinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,\nturėjo vergiškai klusnių valdinių, o patys buvo priklau­\nsomi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie\nvaldė provincijas.\nTokie kilmingų giminių ponai gyveno Pamedėje."
+  citata_rodoma: |
+    Vadinasi, krašto ba­
+    jorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­
+    skirų apskričių savininkai. Jie, gyvenę savo pilaitėse, įsa­
+    kinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,
+    turėjo vergiškai klusnių valdinių, o patys buvo priklau­
+    somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
+    valdė provincijas.
+    Tokie kilmingų giminių ponai gyveno Pamedėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

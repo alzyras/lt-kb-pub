@@ -141,7 +141,10 @@ Nenurodyta
     1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
     nebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino
     pagalbos ir krikštijosi.
-  citata_rodoma: "1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis\nnebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino\npagalbos ir krikštijosi."
+  citata_rodoma: |
+    1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
+    nebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino
+    pagalbos ir krikštijosi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +167,14 @@ Nenurodyta
     krikštijosi « su didele daugybe pagonių »^92 ; o kitoje bulėje popie­
     žius dar aiškiau pažymėjo, kad krikštą priėmė « didelė daugybė pa­
     gonių, kurie buvo jam (Mindaugui) pasidavę»^93.
-  citata_rodoma: "Mindaugas krikštijosi\nne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu\njam priklausančių žemių gyventojų. Tad Inocentas IV, apie tai iš\nMindaugo pasiuntinių sužinojęs, galėjo rašyti, jog Lietuvos valdovas\nkrikštijosi « su didele daugybe pagonių »^92 ; o kitoje bulėje popie­\nžius dar aiškiau pažymėjo, kad krikštą priėmė « didelė daugybė pa­\ngonių, kurie buvo jam (Mindaugui) pasidavę»^93."
+  citata_rodoma: |
+    Mindaugas krikštijosi
+    ne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu
+    jam priklausančių žemių gyventojų. Tad Inocentas IV, apie tai iš
+    Mindaugo pasiuntinių sužinojęs, galėjo rašyti, jog Lietuvos valdovas
+    krikštijosi « su didele daugybe pagonių »^92 ; o kitoje bulėje popie­
+    žius dar aiškiau pažymėjo, kad krikštą priėmė « didelė daugybė pa­
+    gonių, kurie buvo jam (Mindaugui) pasidavę»^93.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -186,7 +196,14 @@ Nenurodyta
     kartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač
     J. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700
     m. sukaktis (1951 m.).
-  citata_rodoma: "Ne mažiau reikšmingas yra kitas klausimas, būtent, ar Min­\ndaugo ir jo šalininkų pasikrikštijimo datą (1251 m.) jau reikia\nskaityti oficialiuoju visos lietuvių tautos krikštu. Ir tuo klausimu\nnauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą\nkartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač\nJ. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700\nm. sukaktis (1951 m.)."
+  citata_rodoma: |
+    Ne mažiau reikšmingas yra kitas klausimas, būtent, ar Min­
+    daugo ir jo šalininkų pasikrikštijimo datą (1251 m.) jau reikia
+    skaityti oficialiuoju visos lietuvių tautos krikštu. Ir tuo klausimu
+    nauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą
+    kartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač
+    J. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700
+    m. sukaktis (1951 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

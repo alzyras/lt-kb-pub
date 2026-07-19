@@ -232,7 +232,12 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     skitų tautos (§55), kurios dalis buvo budinai, nesunkiai
     galima suvokti senovės tyrinėtojų nuomonę ir ką tik mūsų
     pasakytas mintis.
-  citata_rodoma: "Tiriant lietuvių kalbą, pa-\nvyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo\nužrašyta Raseinių apskrityje 1805 metais: dainininkas\nstengiasi piešti gyvenimo gimtojoje sodyboje laimę ir\nnaudą, peikdamas tuos, kurie ją palieka2."
+  citata_rodoma: |
+    Tiriant lietuvių kalbą, pa-
+    vyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo
+    užrašyta Raseinių apskrityje 1805 metais: dainininkas
+    stengiasi piešti gyvenimo gimtojoje sodyboje laimę ir
+    naudą, peikdamas tuos, kurie ją palieka2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -254,7 +259,12 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
     mam požiūriui. Sanskrite yra panašus ir panašią reikšmę
     turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje
-  citata_rodoma: "Šventajame Rašte, pas pranašą Ezechielį, mokslininkai\naptinka žodį Ross ar Russ, kurį vieni laiko tam tikros\ntautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių\npusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,\nOlomnošč, galvos, svarbiausio dalyko, prasme."
+  citata_rodoma: |
+    Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
+    aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
+    tautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių
+    pusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,
+    Olomnošč, galvos, svarbiausio dalyko, prasme.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -280,7 +290,13 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     pasakytas mintis. Pirmykštė skitų tauta visiškai galėjo
     vadintis Rus ar, kaip to nori arabų rašytojai, Ashabir-Ros3.
     būdama visos tautos pagrindu ir pirmąja kolonija.
-  citata_rodoma: "Bet vėliau vienas lietuvių pamoks-\nlininkas iš Viikiškių Prūsijoje geriau paaiškino, jog šis\nžodis į vokiečių kalbą verčiamas Stammorth; tai į lenkų\nkalbą pažodžiui neverčiama, tačiau atitinka tai, ką vadi-\nname Gtomna osada, pagrindine gyvenviete, o dainelėje\nreiškia Ojcow dziedzina, tėviškė."
+  citata_rodoma: |
+    Bet vėliau vienas lietuvių pamoks-
+    lininkas iš Viikiškių Prūsijoje geriau paaiškino, jog šis
+    žodis į vokiečių kalbą verčiamas Stammorth; tai į lenkų
+    kalbą pažodžiui neverčiama, tačiau atitinka tai, ką vadi-
+    name Gtomna osada, pagrindine gyvenviete, o dainelėje
+    reiškia Ojcow dziedzina, tėviškė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

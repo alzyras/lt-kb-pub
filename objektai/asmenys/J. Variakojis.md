@@ -141,7 +141,11 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     sužinojęs, nedelsdamas pasiuntė pustrečios
     kuopos su dviem kulkosvaidžiais užimti
     miestą.
-  citata_rodoma: "Karin. J. Variakojis, tai\nsužinojęs, nedelsdamas pasiuntė pustrečios\nkuopos su dviem kulkosvaidžiais užimti\nmiestą."
+  citata_rodoma: |
+    Karin. J. Variakojis, tai
+    sužinojęs, nedelsdamas pasiuntė pustrečios
+    kuopos su dviem kulkosvaidžiais užimti
+    miestą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -158,7 +162,11 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     vadovaujamas Panevėžio batalio-
     nas saugojo Klovainių-Rozalimo
     ruožą.
-  citata_rodoma: "Kpt. J. Variakojo\nvadovaujamas Panevėžio batalio-\nnas saugojo Klovainių-Rozalimo\nruožą."
+  citata_rodoma: |
+    Kpt. J. Variakojo
+    vadovaujamas Panevėžio batalio-
+    nas saugojo Klovainių-Rozalimo
+    ruožą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -184,7 +192,16 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     goms užimant Panevėžį, J. Variakojis
     su pirmuoju savanorių būriu paliko
     miestą ir atvyko į Kėdainius.
-  citata_rodoma: "## Puslapis 173\n\n—————\n\nDar 1918 m. gruodžio 29 d. paskir-\ntas Panevėžio srities apsaugos viršininku\nkarin. J. Variakojis, nuvykęs į pasky-\nrimo vietą, energingai ėmėsi organi-\nzuoti savanorių būrį."
+  citata_rodoma: |
+    ## Puslapis 173
+
+    —————
+
+    Dar 1918 m. gruodžio 29 d. paskir-
+    tas Panevėžio srities apsaugos viršininku
+    karin. J. Variakojis, nuvykęs į pasky-
+    rimo vietą, energingai ėmėsi organi-
+    zuoti savanorių būrį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

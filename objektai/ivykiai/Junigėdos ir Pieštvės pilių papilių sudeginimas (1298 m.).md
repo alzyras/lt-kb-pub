@@ -108,7 +108,20 @@ Nenurodyta
     ir užsimušė. Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
     nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
     turėjome keliauti ten, kur amžinos linksmybės“.
-  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais\n\n  Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.\n\n\n\n\n         272 (265)."
+  citata_rodoma: |
+    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+
+      Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+
+
+
+
+             272 (265).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -81,7 +81,10 @@ Posakiu socialinis Vilniaus šurmulys prilyginamas gęstančiai liepsnai.
     „Greitai mūsų publika visai užges, šią savaitę išvyksta ir tribunolo maršalas [jau minėtas
     Ašmenos seniūnas Andrius Oginskis] su dėde ir tėvu“ [59].
     Kartais laiškuose būdavo minimi pokalbiai.
-  citata_rodoma: "Pasibaigus tribunolui 1760 m. kanauninkas apgailestavo:\n„Greitai mūsų publika visai užges, šią savaitę išvyksta ir tribunolo maršalas [jau minėtas\nAšmenos seniūnas Andrius Oginskis] su dėde ir tėvu“ [59]."
+  citata_rodoma: |
+    Pasibaigus tribunolui 1760 m. kanauninkas apgailestavo:
+    „Greitai mūsų publika visai užges, šią savaitę išvyksta ir tribunolo maršalas [jau minėtas
+    Ašmenos seniūnas Andrius Oginskis] su dėde ir tėvu“ [59].
   statusas: verified
   atnaujinta: "2026-07-14 08:04"
   teiginio_tipas: faktas

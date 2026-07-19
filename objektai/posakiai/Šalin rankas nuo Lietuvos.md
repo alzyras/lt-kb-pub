@@ -91,7 +91,8 @@ media_all_json: |-
     Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
     tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
     tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
-  citata_rodoma: "lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“"
+  citata_rodoma: |
+    lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

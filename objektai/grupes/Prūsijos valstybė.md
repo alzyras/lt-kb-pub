@@ -90,7 +90,8 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
     ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
     va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
     Lietuvos vardu).
-  citata_rodoma: "va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios"
+  citata_rodoma: |
+    va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -109,7 +110,8 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
     sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
     tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
     vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: "sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių"
+  citata_rodoma: |
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -108,7 +108,16 @@ Nenurodyta
     1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
     būtinybės verčiami, devynis kartus su jais stojo į kovą.
-  citata_rodoma: "Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į\nPrūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,\nišvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir\npaguodė juos išmintingais žodžiais ir pamokymais.\n\n\n\n\n             265 (258). Apie Kimelio pilies sunaikinimą 1296 metais"
+  citata_rodoma: |
+    Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
+    Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
+    išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir
+    paguodė juos išmintingais žodžiais ir pamokymais.
+
+
+
+
+                 265 (258). Apie Kimelio pilies sunaikinimą 1296 metais
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

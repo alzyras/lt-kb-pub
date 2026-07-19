@@ -109,7 +109,23 @@ Nenurodyta
     čia suėjusius į bažnyčią, arba išžudė, arba išsivarė į
     nelaisvę. Nebetoli nuo ten buvo ir Vytautas, tačiau be
     kariuomenės.
-  citata_rodoma: "Kai žinia apie šį \nžygį pasiekė karaliaus rūmus, Jogaila, bijodamas, kad \nsavo ruožtu kryžiuočiai nesurengtų šitokio išpuolio, be­\nmatant pasiuntė žygūnus, stengdamasis magistrui pasi­\nteisinti dėl Žygimanto veiksmų ir reikalaudamas, kad \nvisa tai, kas įvyko nežinant apie paliaubas, nieku būdu \nnepažeistų neseniai sudaryto susitarimo. Kryžiuočiai nė \nkiek neatlyžo, šitaip karaliui pasiteisinus, tačiau tuo \ntarpu dėjosi negalvoju apie kerštą, vildamiesi, kad vė­\nliau, kai lietuviai jausis saugesni, būsią patogiau atsi­\nteisti už nuostolius.\nvos sienų, paėmė į nelaisvę sargybinius, budinčius prie \nIskros upės, ir pasklido po Volkovysko apygardą. Stai­\nga užpuolę, užėmė Volkovyską: žmones, šventą dieną \nčia suėjusius į bažnyčią, arba išžudė, arba išsivarė į \nnelaisvę."
+  citata_rodoma: |
+    Kai žinia apie šį
+    žygį pasiekė karaliaus rūmus, Jogaila, bijodamas, kad
+    savo ruožtu kryžiuočiai nesurengtų šitokio išpuolio, be­
+    matant pasiuntė žygūnus, stengdamasis magistrui pasi­
+    teisinti dėl Žygimanto veiksmų ir reikalaudamas, kad
+    visa tai, kas įvyko nežinant apie paliaubas, nieku būdu
+    nepažeistų neseniai sudaryto susitarimo. Kryžiuočiai nė
+    kiek neatlyžo, šitaip karaliui pasiteisinus, tačiau tuo
+    tarpu dėjosi negalvoju apie kerštą, vildamiesi, kad vė­
+    liau, kai lietuviai jausis saugesni, būsią patogiau atsi­
+    teisti už nuostolius.
+    vos sienų, paėmė į nelaisvę sargybinius, budinčius prie
+    Iskros upės, ir pasklido po Volkovysko apygardą. Stai­
+    ga užpuolę, užėmė Volkovyską: žmones, šventą dieną
+    čia suėjusius į bažnyčią, arba išžudė, arba išsivarė į
+    nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

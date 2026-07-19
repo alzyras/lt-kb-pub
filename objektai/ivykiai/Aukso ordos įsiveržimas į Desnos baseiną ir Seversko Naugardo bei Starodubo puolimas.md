@@ -145,7 +145,12 @@ Nenurodyta
     1507 m. kovo mėn. Mirė 1508 m.
     55 Michailas Ivanovičius Ostrogiškis buvo Lucko seniūnu ir Vo­
     lynės žemės maršalu jau 1500 m. gruodžio mėn. ir dar 150!
-  citata_rodoma: "Pa­\ngal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir \nDono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­\npjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­\nseine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės."
+  citata_rodoma: |
+    Pa­
+    gal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir
+    Dono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­
+    pjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­
+    seine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

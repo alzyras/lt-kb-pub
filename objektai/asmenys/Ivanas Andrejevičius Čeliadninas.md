@@ -65,7 +65,17 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
     čio dvaro pajėgoms vadovavo Ratajus Ši-
     riajevas. Vyriausias Maskvos kariuomenės
     vadas buvo Ivanas Čeliadninas.
-  citata_rodoma: "bojarinų Grigorijaus Fiodorovičiaus\nDavidovo, Ivano Andrejevičiaus Čelia-\ndnino ir kitų vaivadų, tokių kaip kuni-\ngaikščių Ivano Pronskio, Ivano „Tiomkos“\nRostovskio, Andriejaus Obolenskio, va-\ndovaujamos pajėgos, kurias čia tuo tikslu\npasiuntė Maskvos valdovas Vasilijus 111,\npats likęs Smolenske. Didžiojo kunigaikš-\nčio dvaro pajėgoms vadovavo Ratajus Ši-\nriajevas."
+  citata_rodoma: |
+    bojarinų Grigorijaus Fiodorovičiaus
+    Davidovo, Ivano Andrejevičiaus Čelia-
+    dnino ir kitų vaivadų, tokių kaip kuni-
+    gaikščių Ivano Pronskio, Ivano „Tiomkos“
+    Rostovskio, Andriejaus Obolenskio, va-
+    dovaujamos pajėgos, kurias čia tuo tikslu
+    pasiuntė Maskvos valdovas Vasilijus 111,
+    pats likęs Smolenske. Didžiojo kunigaikš-
+    čio dvaro pajėgoms vadovavo Ratajus Ši-
+    riajevas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

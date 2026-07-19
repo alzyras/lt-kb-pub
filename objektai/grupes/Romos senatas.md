@@ -148,7 +148,16 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
     bet iš kuklumo ar politinių sumetimų skatinamas, o gal
     vengdamas įžeisti senatą, neliepė vadinti save nei im­
     peratoriumi, nei Italijos karaliumi.
-  citata_rodoma: "318\nIšsigandę italai nė nedrįso priešintis, visi iškart len­\nkėsi naujo valdovo galybei. Romos senatas patvirtino Ro­\nmulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­\nmulo karališkoji ir pirmojo Augusto įsteigtos karūnos,\npašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­\nnoro, kad šis jaunuolis sujungtų anų įžymių Romos im­\nperijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­\ntulų paveldėtojas."
+  citata_rodoma: |
+    318
+    Išsigandę italai nė nedrįso priešintis, visi iškart len­
+    kėsi naujo valdovo galybei. Romos senatas patvirtino Ro­
+    mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
+    mulo karališkoji ir pirmojo Augusto įsteigtos karūnos,
+    pašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­
+    noro, kad šis jaunuolis sujungtų anų įžymių Romos im­
+    perijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­
+    tulų paveldėtojas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -177,7 +186,18 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
     tas jų imperatoriaus titulas. Tačiau, nepaisant viso to,
     Odoakras gavo tai, ko geidė, nors italai nelabai buvo
     linkę jį remti.
-  citata_rodoma: "Dėl to Romos se­\nnatas nusiuntė į Konstantinopolį pasiuntinius, pranešda­\nmas, jog nereikia skelbti imperatorių Romoje, nes aukš­\nčiausio rango pareigūnas yra Rytų imperijoje; imperato­\nrius gali drąsiai pasikliauti dora ir karingumu Odoakro \nkaip patricijaus, kuriam jis teikiasi patikėti valdžią italų \ndiecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­\nsiuntinius, kurie, demonstruodami nuolankumą, turėjo \nprašyti patvirtinti senato reikalavimus. Taip pat atvyko \nir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­\ntas jų imperatoriaus titulas."
+  citata_rodoma: |
+    Dėl to Romos se­
+    natas nusiuntė į Konstantinopolį pasiuntinius, pranešda­
+    mas, jog nereikia skelbti imperatorių Romoje, nes aukš­
+    čiausio rango pareigūnas yra Rytų imperijoje; imperato­
+    rius gali drąsiai pasikliauti dora ir karingumu Odoakro
+    kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
+    diecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­
+    siuntinius, kurie, demonstruodami nuolankumą, turėjo
+    prašyti patvirtinti senato reikalavimus. Taip pat atvyko
+    ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
+    tas jų imperatoriaus titulas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -88,7 +88,31 @@ Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo n
     antpuolių, kryžiuotis, išsiža­
     dėjęs minties užimti pilį, iš­
     siuntė karius niokoti kaimų.
-  citata_rodoma: "Neatnešė ato­\nkvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs\nparamos iš Bavarijos grafo Volfgango ir Livonijos\nkryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:\nAriogalos, Pernaravos ir Labūnavos žemės Žemaiti­\njoje tapo visai sunaikintos. Sėkmingai išsigabenus vi­\nsą grobį ir išsivedus visus belaisvius, grėsmingai įsi­\nveržė į Lietuvą Prūsijos maršalas Šindekopfas ir\n2 47\n\n## Puslapis 246\n\napsupo Gardiną; kadangi Pat-\n1363 m e ta i\nrikas, vadovavęs pilies gyny-\nP iū sų\nž y g ia i\nį\nLie-\nbai, narsiai atrėmė keletą\ntu v ą  ir Ž e m a itiją\nantpuolių, kryžiuotis, išsiža­\ndėjęs minties užimti pilį, iš­\nsiuntė karius niokoti kaimų."
+  citata_rodoma: |
+    Neatnešė ato­
+    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
+    paramos iš Bavarijos grafo Volfgango ir Livonijos
+    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
+    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
+    joje tapo visai sunaikintos. Sėkmingai išsigabenus vi­
+    są grobį ir išsivedus visus belaisvius, grėsmingai įsi­
+    veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
+    2 47
+
+    ## Puslapis 246
+
+    apsupo Gardiną; kadangi Pat-
+    1363 m e ta i
+    rikas, vadovavęs pilies gyny-
+    P iū sų
+    ž y g ia i
+    į
+    Lie-
+    bai, narsiai atrėmė keletą
+    tu v ą  ir Ž e m a itiją
+    antpuolių, kryžiuotis, išsiža­
+    dėjęs minties užimti pilį, iš­
+    siuntė karius niokoti kaimų.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

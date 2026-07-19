@@ -81,7 +81,10 @@ Nenurodyta
     Kiekvienas dvarponis turėjo savo bravarą,
     kiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryž­
     kelių.
-  citata_rodoma: "Kiekvienas dvarponis turėjo savo bravarą,\nkiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryž­\nkelių."
+  citata_rodoma: |
+    Kiekvienas dvarponis turėjo savo bravarą,
+    kiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryž­
+    kelių.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -100,7 +103,9 @@ Nenurodyta
     Čia buvo bravariukas.“
     Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos
     lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
-  citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos\nlugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
+  citata_rodoma: |
+    Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos
+    lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

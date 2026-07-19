@@ -64,7 +64,12 @@ fevaf 143 Kritusius mūšy karius laukuose liepia palaidot, Tie bevardžiai kapa
     Kritusius mūšy karius laukuose liepia palaidot,
 
     Tie bevardžiai kapai - paminklas amžinas mūšio.
-  citata_rodoma: "fevaf 143\n\nKritusius mūšy karius laukuose liepia palaidot,\n\nTie bevardžiai kapai - paminklas amžinas mūšio."
+  citata_rodoma: |
+    fevaf 143
+
+    Kritusius mūšy karius laukuose liepia palaidot,
+
+    Tie bevardžiai kapai - paminklas amžinas mūšio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

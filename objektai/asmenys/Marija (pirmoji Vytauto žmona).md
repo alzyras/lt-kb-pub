@@ -60,7 +60,11 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
     žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė.
     Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
     paskui pasidarė labai uoli katalikė.
-  citata_rodoma: "Jo pirmoji\nžmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė.\nAntroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik\npaskui pasidarė labai uoli katalikė."
+  citata_rodoma: |
+    Jo pirmoji
+    žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė.
+    Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
+    paskui pasidarė labai uoli katalikė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

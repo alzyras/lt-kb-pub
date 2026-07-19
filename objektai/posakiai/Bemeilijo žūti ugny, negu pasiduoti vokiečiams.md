@@ -81,7 +81,9 @@ media_all_json: |-
     Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas.
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
     ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
-  citata_rodoma: "Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-\nginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.)."
+  citata_rodoma: |
+    Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
+    ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

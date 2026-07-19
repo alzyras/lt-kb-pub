@@ -193,7 +193,15 @@ tags:
     vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
     idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
     priklausomybės siekis etnografiniu pagrindu.
-  citata_rodoma: "Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos \nvalstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo \nkaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, \nSuvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-\nvos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams \nvis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo \nidėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-\npriklausomybės siekis etnografiniu pagrindu."
+  citata_rodoma: |
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +225,13 @@ tags:
     joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
     berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
     Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
-  citata_rodoma: "1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies \napskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-\nskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-\njoms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-\nberniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje \nVilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji."
+  citata_rodoma: |
+    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
+    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
+    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
+    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
+    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
+    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -237,7 +251,11 @@ tags:
     traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
     Vakarų kraštu.
     Pasikeitė valdžios kursas ir bažnyčios atžvilgiu.
-  citata_rodoma: "Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos \nvalstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo \nkaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, \nSuvalkų ir Gardino gubernijose, dalis Kuršo."
+  citata_rodoma: |
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -261,7 +279,16 @@ tags:
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
     Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
     tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
-  citata_rodoma: "Sme-\ntona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta \nuž etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: \nKauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko \napskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), \nbe to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti \nir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais). \nApskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-\ntuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti."
+  citata_rodoma: |
+    Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
+    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -280,7 +307,12 @@ tags:
     lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
     A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
     ta išties mažai, priskirti Lietuvai.
-  citata_rodoma: "Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-\ntendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-\nno gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo \nlietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, \nA."
+  citata_rodoma: |
+    Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
+    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
+    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
+    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
+    A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

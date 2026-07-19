@@ -109,7 +109,15 @@ Nenurodyta
         vainikus sagstė, palaidose bizose įpinti kaspinai blizgėjo, vietoje žieminių vilnonių tokiomis pat
         klastės marškonomis sagėmis, kurias galėjo kaip tinkamos nuo vieno peties ar nuo abiedviejų
         numesti, kursai apdaras didžiai jas gašijo^344 : dirvose, pievose trūsėdamos it gulbės svyravo.
-  citata_rodoma: "Išeiginiu drabužiu motriškųjų\nbuvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli\ntesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;\ntai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas; paskesniuose\nlaikuose išlepusios audė dryžus, kuriuos šiandien dar daugioj vietoj gal regėti Žemaičiuose ir\nŽemgaliuose, arba Kurše; tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele\nsusegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;\nžiemą vilnonus, vasarą marškonus dėvėjo."
+  citata_rodoma: |
+    Išeiginiu drabužiu motriškųjų
+    buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
+    tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
+    tai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas; paskesniuose
+    laikuose išlepusios audė dryžus, kuriuos šiandien dar daugioj vietoj gal regėti Žemaičiuose ir
+    Žemgaliuose, arba Kurše; tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
+    susegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;
+    žiemą vilnonus, vasarą marškonus dėvėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

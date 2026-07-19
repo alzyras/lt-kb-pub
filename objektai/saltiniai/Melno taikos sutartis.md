@@ -77,7 +77,14 @@ Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta 
     Varšuv. que Masoviae ab um, et Paulum deRus-
     76 dorf, Magistrum Cruciferorum et suum
     Kojałowicz,Pars.
-  citata_rodoma: ") pageidaujamu valdovu kunigaikštį \nŽygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė \njau anais laikais buvo tokia didelė, kad lygia greta svarbiausių \nkaralystės miestų, jam buvo leista laiduoti sutarties, sudarytos \nsu kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.\n75\nŽr."
+  citata_rodoma: |
+    ) pageidaujamu valdovu kunigaikštį
+    Žygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė
+    jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių
+    karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos
+    su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.
+    75
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

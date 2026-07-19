@@ -78,7 +78,12 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
     lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.
     Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­
     tautui globoti.
-  citata_rodoma: "Tuo pačiu metu dar įvyko vienas svar­\nbus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­\nlybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.\nVosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­\ntautui globoti."
+  citata_rodoma: |
+    Tuo pačiu metu dar įvyko vienas svar­
+    bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­
+    lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.
+    Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­
+    tautui globoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

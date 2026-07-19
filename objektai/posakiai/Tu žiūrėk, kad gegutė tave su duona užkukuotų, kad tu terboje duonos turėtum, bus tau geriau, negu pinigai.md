@@ -72,7 +72,11 @@ Pamokomoji formulė, iškelianti duoną aukščiau už pinigus.
     šiojaus kišenėje pinigų, kad mane su pinigais gegutė užkukuotų“ . Šei­
     mininkas į tai: „Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad
     tu terboje duonos turėtum, bus tau geriau, negu pinigai“ .
-  citata_rodoma: "Pavasariais aš visada ne­\nšiojaus kišenėje pinigų, kad mane su pinigais gegutė užkukuotų“ . Šei­\nmininkas į tai: „Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad\ntu terboje duonos turėtum, bus tau geriau, negu pinigai“ ."
+  citata_rodoma: |
+    Pavasariais aš visada ne­
+    šiojaus kišenėje pinigų, kad mane su pinigais gegutė užkukuotų“ . Šei­
+    mininkas į tai: „Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad
+    tu terboje duonos turėtum, bus tau geriau, negu pinigai“ .
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

@@ -80,7 +80,8 @@ Dusburgietis teigia, kad varakauskas R.
     съезда в Вильне 1893, М., 1895, r. 1, с. 246—259.
     Мержинский А. Ф. Ромове: Археологическое исследование (из Трудов X
     археологического съезда.
-  citata_rodoma: "Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982."
+  citata_rodoma: |
+    Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

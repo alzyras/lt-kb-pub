@@ -81,7 +81,16 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
     kuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­
     da Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­
     dyti Vytautas?
-  citata_rodoma: "Ir, apskritai, galime\ndrąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­\nriškumas jaudins ir žavės mus, kels didybės laisvės troškimą,\nstiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­\nvoje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­\nvių tauta.\nBaigdami šį darbą norėtume dar išspręsti vieną klausimą,\nbūtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­\nmu^2 ), geriau diarchija^3 ), t."
+  citata_rodoma: |
+    Ir, apskritai, galime
+    drąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­
+    riškumas jaudins ir žavės mus, kels didybės laisvės troškimą,
+    stiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­
+    voje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­
+    vių tauta.
+    Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
+    būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­
+    mu^2 ), geriau diarchija^3 ), t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -103,7 +112,13 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
     stiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­
     voje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­
     vių tauta.
-  citata_rodoma: "Ir, apskritai, galime\ndrąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­\nriškumas jaudins ir žavės mus, kels didybės laisvės troškimą,\nstiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­\nvoje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­\nvių tauta."
+  citata_rodoma: |
+    Ir, apskritai, galime
+    drąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­
+    riškumas jaudins ir žavės mus, kels didybės laisvės troškimą,
+    stiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­
+    voje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­
+    vių tauta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

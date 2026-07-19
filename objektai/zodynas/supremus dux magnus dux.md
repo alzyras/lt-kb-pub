@@ -114,7 +114,10 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
     (1377). Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
     džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
     tiktai supremus dux (aukščiausias kunigaikštis).
-  citata_rodoma: "Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­\ndžiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo\ntiktai supremus dux (aukščiausias kunigaikštis)."
+  citata_rodoma: |
+    Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
+    džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
+    tiktai supremus dux (aukščiausias kunigaikštis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

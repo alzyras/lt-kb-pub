@@ -107,7 +107,23 @@ Tai Narbuto lyginamoji rasinė / etnologinė schema, o ne neutralus šiuolaikini
     mas tariant garsus; 3) žmonių padermė, gyvenanti Europoje, yra
     viena ir ta pati, kuri buvo pavadinta kaukaziečių-europiečių genti­
     mi. Tiksliau ją būtų vadinti indų-skitų paderme.
-  citata_rodoma: "Pirmykščiais laikais, esant vienai, t. y.\nkaukaziečių-europiečių tautų genčiai, kalbos skirtumai ne­\nturėjo būti dideli, net prabėgus daugeliui amžių ir bend­\nrai giminei suskilus į daugybę atšakų. Taigi lengva pa­\ndaryti prielaidą, jog vienas budinu klanas, patekęs tarp\nslavų, suslavėjo1.\n1 Šia proga reikia papildyti mūsų nuomonę, kurią mūsų rašinyje\nšiandien teko ne kartą priminti: tarp įvairių tautų kalbų pastebimas\npanašumas arba net žodžių identiškumas. Tai yra todėl, kad: 1) visa\nžmonių padermė išėjo iš vieno lopšio, iš vienos žmonių poros, iš vie­\nnos pirmapradės genties, kurios kalba buvo visų kalbų motina; 2)\nkalbos organo, su kuriuo galima išgauti tūkstančio jausmų garsus,\nsudėtis yra visai žmonių giminei bendra, — iš čia ir dažnas tapatu­\nmas tariant garsus; 3) žmonių padermė, gyvenanti Europoje, yra\nviena ir ta pati, kuri buvo pavadinta kaukaziečių-europiečių genti­\nmi. Tiksliau ją būtų vadinti indų-skitų paderme."
+  citata_rodoma: |
+    Pirmykščiais laikais, esant vienai, t. y.
+    kaukaziečių-europiečių tautų genčiai, kalbos skirtumai ne­
+    turėjo būti dideli, net prabėgus daugeliui amžių ir bend­
+    rai giminei suskilus į daugybę atšakų. Taigi lengva pa­
+    daryti prielaidą, jog vienas budinu klanas, patekęs tarp
+    slavų, suslavėjo1.
+    1 Šia proga reikia papildyti mūsų nuomonę, kurią mūsų rašinyje
+    šiandien teko ne kartą priminti: tarp įvairių tautų kalbų pastebimas
+    panašumas arba net žodžių identiškumas. Tai yra todėl, kad: 1) visa
+    žmonių padermė išėjo iš vieno lopšio, iš vienos žmonių poros, iš vie­
+    nos pirmapradės genties, kurios kalba buvo visų kalbų motina; 2)
+    kalbos organo, su kuriuo galima išgauti tūkstančio jausmų garsus,
+    sudėtis yra visai žmonių giminei bendra, — iš čia ir dažnas tapatu­
+    mas tariant garsus; 3) žmonių padermė, gyvenanti Europoje, yra
+    viena ir ta pati, kuri buvo pavadinta kaukaziečių-europiečių genti­
+    mi. Tiksliau ją būtų vadinti indų-skitų paderme.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

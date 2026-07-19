@@ -92,7 +92,15 @@ Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia C
     susirinkime pasakė kalbą, pavadintą „Rusų
     tautos ir vardo kilmė“, kurią dauguma istori­
     kų sutiko labai nepalankiai.
-  citata_rodoma: "Turimas omenyje žymaus bibliografo Andriaus\nSoto\n(Schott;\n?—1759)\nveikalas;\nPrussia\nChristiana sive de introductione religionis\nChristiane in Prussia. 1738."
+  citata_rodoma: |
+    Turimas omenyje žymaus bibliografo Andriaus
+    Soto
+    (Schott;
+    ?—1759)
+    veikalas;
+    Prussia
+    Christiana sive de introductione religionis
+    Christiane in Prussia. 1738.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

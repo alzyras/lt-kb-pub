@@ -137,7 +137,8 @@ media_all_json: |-
     Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
     Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
     Karolis Piotrovskis (Karol Piotrowski) [9].
-  citata_rodoma: "1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavininku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc / Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku – Karolis Piotrovskis (Karol Piotrowski) [9]."
+  citata_rodoma: |
+    1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavininku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc / Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku – Karolis Piotrovskis (Karol Piotrowski) [9].
   statusas: verified
   atnaujinta: "2026-07-14 12:33"
   teiginio_tipas: faktas
@@ -158,7 +159,11 @@ media_all_json: |-
     per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
     [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
     kintas Vilniaus seimelio rezultatais [29].
-  citata_rodoma: "1752 m. J. D. Lopacinskis minėjo, kad atvyks\nVilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti\nper seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius\n[28]."
+  citata_rodoma: |
+    1752 m. J. D. Lopacinskis minėjo, kad atvyks
+    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
+    per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
+    [28].
   statusas: verified
   atnaujinta: "2026-07-14 09:40"
   teiginio_tipas: faktas

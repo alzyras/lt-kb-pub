@@ -125,7 +125,13 @@ Nenurodyta
     išsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
-  citata_rodoma: "Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,\nkad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas\nsembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,\nnežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop\npaspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai\ntrukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų."
+  citata_rodoma: |
+    Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
+    kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
+    sembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,
+    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
+    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
+    trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

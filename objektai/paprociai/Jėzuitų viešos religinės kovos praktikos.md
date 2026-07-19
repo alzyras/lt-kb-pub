@@ -87,7 +87,14 @@ Nenurodyta
     jie tokiuos disputus rengdavo vieni; vienas jų narys stodavo
     ginti protestantizmo, išdėstydamas protestantų argumentus, o
     kitas, ginąs katalikybę, sugriaudavo tuos argumentus.
-  citata_rodoma: "Be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai\ndar kovojo su protestantais ir kitokiais būdais. Jie ruošdavo\ntikybinius disputus, kuriuose savo moksliškumu nugalėdavo\nprotestantų teologus. Kai protestantai pradėjo vengti disputų,\njie tokiuos disputus rengdavo vieni; vienas jų narys stodavo\nginti protestantizmo, išdėstydamas protestantų argumentus, o\nkitas, ginąs katalikybę, sugriaudavo tuos argumentus."
+  citata_rodoma: |
+    Be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai
+    dar kovojo su protestantais ir kitokiais būdais. Jie ruošdavo
+    tikybinius disputus, kuriuose savo moksliškumu nugalėdavo
+    protestantų teologus. Kai protestantai pradėjo vengti disputų,
+    jie tokiuos disputus rengdavo vieni; vienas jų narys stodavo
+    ginti protestantizmo, išdėstydamas protestantų argumentus, o
+    kitas, ginąs katalikybę, sugriaudavo tuos argumentus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

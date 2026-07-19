@@ -130,7 +130,17 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
     nei bažnyčios sakramentams, nei šventiesiems rūbams bei indams, o dvasininkų, tiek
     vienuolių, tiek pasauliečių, bei kitų abiejų lyčių žmonių sunaikino per 4 tūkstančius,
     vienus nužudydamas, kitus išsivarydamas į amžiną vergovę583.
-  citata_rodoma: "Apie 45 lietuvių žūtį 1324 metais\n\n   Tais pačiais metais ir tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka,\nsu 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai\njuos apsupo ir visus nukovė.\n\n\n\n\n                        353 (346)."
+  citata_rodoma: |
+    Apie 45 lietuvių žūtį 1324 metais
+
+       Tais pačiais metais ir tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka,
+    su 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai
+    juos apsupo ir visus nukovė.
+
+
+
+
+                            353 (346).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -74,7 +74,8 @@ Nenurodyta
     nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis
     Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
     tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos.
-  citata_rodoma: "Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,"
+  citata_rodoma: |
+    Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

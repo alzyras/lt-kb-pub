@@ -185,7 +185,11 @@ Nenurodyta
     susijęs (ar sutampa) su J. Dlugošo žodžiais Ač-Girėjaus nekrologe:
     „Su Lenkija ir Prūsija jis [Ač-Girėjusj visą savo valdymą laikėsi
     pagirtinos taikos”.
-  citata_rodoma: "Tačiau J . Dlugošo pasakojimas apie \nSuchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko- \nllankovskio spėjimas |L  Kolankowski. Dzieje W. Księstwa Litewskie- \ngo, I, p. 240), kad kalbamasis sąmokslas buvo tuoj po 1444 m,"
+  citata_rodoma: |
+    Tačiau J . Dlugošo pasakojimas apie
+    Suchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko-
+    llankovskio spėjimas |L  Kolankowski. Dzieje W. Księstwa Litewskie-
+    go, I, p. 240), kad kalbamasis sąmokslas buvo tuoj po 1444 m,
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -209,7 +213,12 @@ Nenurodyta
     J. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­
     čiau J. Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei
     apie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų.
-  citata_rodoma: "Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą, \nkurio pagrindiniu veikėju buvęs Suchta, y ra plačiai užrašytas \nJ. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­\nčiau J . Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei \napie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų."
+  citata_rodoma: |
+    Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą,
+    kurio pagrindiniu veikėju buvęs Suchta, y ra plačiai užrašytas
+    J. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­
+    čiau J . Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei
+    apie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

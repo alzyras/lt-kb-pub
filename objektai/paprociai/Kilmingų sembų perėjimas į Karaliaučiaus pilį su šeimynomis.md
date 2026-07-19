@@ -97,7 +97,19 @@ Nenurodyta
     Prūsai, užkietėję piktadariai, ilgai suko galvą, kaip sunaikinti Karaliaučiaus pilį.
     Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
     už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
-  citata_rodoma: "100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių\n\n  Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į\nšventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš\nviešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos\ngarsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su\nšeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.\n\n\n\n\n 101 (96)."
+  citata_rodoma: |
+    100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
+
+      Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į
+    šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš
+    viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
+    garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
+    šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
+
+
+
+
+     101 (96).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

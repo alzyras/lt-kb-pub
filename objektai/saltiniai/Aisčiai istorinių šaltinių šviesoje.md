@@ -69,7 +69,9 @@ media_all_json: |-
     nio kapinyno tyrinėjimai _,_ AkMD, t. 7, 1959, 43-56 p. — Petrauskaitė,
     D. : _Žiegždrių piliakalnis,_ ILKI, t. 1, 1958, 119-124 p. —Puzinas, J. :
     _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p. — (”)
-  citata_rodoma: "—Puzinas, J. :\n_Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p."
+  citata_rodoma: |
+    —Puzinas, J. :
+    _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

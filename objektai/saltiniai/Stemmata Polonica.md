@@ -101,7 +101,10 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
     LDK herbas Vytis iš herbyno
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
-  citata_rodoma: "LDK herbas Vytis iš herbyno \n„Stemmata Polonica“ (saugomo \nParyžiuje), XVI a. vid."
+  citata_rodoma: |
+    LDK herbas Vytis iš herbyno
+    „Stemmata Polonica“ (saugomo
+    Paryžiuje), XVI a. vid.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +127,8 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
     Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
     vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
     „vodką“.
-  citata_rodoma: "„Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid."
+  citata_rodoma: |
+    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

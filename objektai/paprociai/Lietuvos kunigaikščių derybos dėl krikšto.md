@@ -105,7 +105,19 @@ Nenurodyta
     kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
     leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
     nuo krikščionybės.
-  citata_rodoma: "Lietuva \nliko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis \nir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar \ngyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo \nlaikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir \niki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, \nkiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas \nGedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir \nišpranašaus Vilniaus įkūrimą ir šlovę. Nors nebus nė vieno kunigaikščio, \nkuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-\nleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą \nnuo krikščionybės."
+  citata_rodoma: |
+    Lietuva
+    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
+    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
+    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
+    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
+    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
+    išpranašaus Vilniaus įkūrimą ir šlovę. Nors nebus nė vieno kunigaikščio,
+    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
+    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
+    nuo krikščionybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

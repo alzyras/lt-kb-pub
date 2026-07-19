@@ -92,7 +92,10 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
     kuriose lietuviai kovojo petys į petį su rusėnais.
-  citata_rodoma: "LDK politinės tautos prielaidas kūrė LDK karinės \npergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne, \nkuriose lietuviai kovojo petys į petį su rusėnais."
+  citata_rodoma: |
+    LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +117,10 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė
     sumuša turkus 1673 m. (Iš Vilniuje spausdinto
     J. Benneto veikalo „Viešpaties dešinės galybė“, 1674)
-  citata_rodoma: "Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė  \nsumuša turkus 1673 m. (Iš Vilniuje spausdinto \nJ. Benneto veikalo „Viešpaties dešinės galybė“, 1674)"
+  citata_rodoma: |
+    Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė
+    sumuša turkus 1673 m. (Iš Vilniuje spausdinto
+    J. Benneto veikalo „Viešpaties dešinės galybė“, 1674)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

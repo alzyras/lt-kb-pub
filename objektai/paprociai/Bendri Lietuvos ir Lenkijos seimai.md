@@ -113,7 +113,12 @@ Nenurodyta
     tų bendrą seimą, bendrai vienoje vietoje
     rinktąjį valdovą, bendrą apsaugą ir bendrus
     pinigus.
-  citata_rodoma: "Šiuo susita-\nrimu buvo norima įkurti viena jungtinė valstybė, kuri turė-\ntų bendrą seimą, bendrai vienoje vietoje\nrinktąjį valdovą, bendrą apsaugą ir bendrus\npinigus."
+  citata_rodoma: |
+    Šiuo susita-
+    rimu buvo norima įkurti viena jungtinė valstybė, kuri turė-
+    tų bendrą seimą, bendrai vienoje vietoje
+    rinktąjį valdovą, bendrą apsaugą ir bendrus
+    pinigus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

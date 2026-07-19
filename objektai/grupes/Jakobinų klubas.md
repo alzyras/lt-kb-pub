@@ -61,7 +61,8 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
     eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
     navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
     teismą paskelbti minėtus mirties nuosprendžius.
-  citata_rodoma: "navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias"
+  citata_rodoma: |
+    navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

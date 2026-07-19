@@ -84,7 +84,13 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
     draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis.
     Lenkai savo mitologijoje turėjo tą pačią dievybę, vadintą
     Budzisz, kurios ženklas buvo žąsis - paukštis.
-  citata_rodoma: "Ratainyčia (Ratajniczu)\nDeivė, globojanti jojamuosius arklius. Tą reiškia pats var­\ndas, ir Lasickis nurodo jį, remdamasis savo tyrimais. Senovės\ngraikai turėjo to dalyko deivę, vadintą Hippone arba Eppone.\nDėl panašių pareigų ir kalbinės reikšmės Ratainyčią priskiria­\nme prie deivių."
+  citata_rodoma: |
+    Ratainyčia (Ratajniczu)
+    Deivė, globojanti jojamuosius arklius. Tą reiškia pats var­
+    das, ir Lasickis nurodo jį, remdamasis savo tyrimais. Senovės
+    graikai turėjo to dalyko deivę, vadintą Hippone arba Eppone.
+    Dėl panašių pareigų ir kalbinės reikšmės Ratainyčią priskiria­
+    me prie deivių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

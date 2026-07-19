@@ -60,7 +60,11 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
     Zig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­
     mantas siuntė Vytautui supažindinti su įvairiais klausimais dėl
     karūnacijos ir išsklaidyt jo abejones^3 ).
-  citata_rodoma: "Pirma jos važiavo kaip ciesoriaus reprezentantai\nZig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­\nmantas siuntė Vytautui supažindinti su įvairiais klausimais dėl\nkarūnacijos ir išsklaidyt jo abejones^3 )."
+  citata_rodoma: |
+    Pirma jos važiavo kaip ciesoriaus reprezentantai
+    Zig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­
+    mantas siuntė Vytautui supažindinti su įvairiais klausimais dėl
+    karūnacijos ir išsklaidyt jo abejones^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

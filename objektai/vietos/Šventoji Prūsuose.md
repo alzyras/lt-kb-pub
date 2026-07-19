@@ -85,7 +85,12 @@ media_all_json: |-
     tančio permainų jie paprastai nesikeičia, ir upės, tekėdamos
     įprasta vaga, išsaugo atminimą apie gentis ir tautas, kurios vie­
     na po kitos išnyksta arba atsiranda jų pakrantėse.
-  citata_rodoma: "Tai labai įdomus sutapimas, o galbūt ir\npamėgdžiojimas reiškinio, apie kurį kalbame*.\n5. Prūsuose dar yra Šventoji upė (Szwentoja), įtekanti į\nElksnės (Ebcne) upę jos kairiajame krante arba į Timbrą, kuri\nįteka į Nemunyną, arba į pietinę Nemuno atšaką."
+  citata_rodoma: |
+    Tai labai įdomus sutapimas, o galbūt ir
+    pamėgdžiojimas reiškinio, apie kurį kalbame*.
+    5. Prūsuose dar yra Šventoji upė (Szwentoja), įtekanti į
+    Elksnės (Ebcne) upę jos kairiajame krante arba į Timbrą, kuri
+    įteka į Nemunyną, arba į pietinę Nemuno atšaką.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

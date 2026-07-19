@@ -85,7 +85,10 @@ Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su kuria seimo (1790 m.) buv
     atsisakė padėti. Mat, anksčiau Prūsija seimą rėmė tik dėl to,
     kad norėjo įgelti Rusijai, kuri nesutiko leisti jai užimti Dancigo
     ir Torno.
-  citata_rodoma: "Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su\nkuria seimo (1790 m.) buvo padaryta karinė sutartis, tačiau ši\natsisakė padėti."
+  citata_rodoma: |
+    Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su
+    kuria seimo (1790 m.) buvo padaryta karinė sutartis, tačiau ši
+    atsisakė padėti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -52,11 +52,15 @@ Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas. Berlyno karališkosios
+    Berlyno  karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
-  citata_rodoma: "Berlyno  karališkosios\nbibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.\nKodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,\npapildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales."
+  citata_rodoma: |
+    Berlyno  karališkosios
+    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
+    Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

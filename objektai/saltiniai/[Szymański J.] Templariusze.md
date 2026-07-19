@@ -78,7 +78,10 @@ Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszaw
   citata_originali: |
     Вилинбахов В. Б., Энговатов Н. В. Предварительные замечания о западных
     галиндах и восточной голяди. — Там же, 1963, t. 23, s. 233—267.
-  citata_rodoma: "[Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,\n\nt. 6, cz. 1, s. 48—49."
+  citata_rodoma: |
+    [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,
+
+    t. 6, cz. 1, s. 48—49.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

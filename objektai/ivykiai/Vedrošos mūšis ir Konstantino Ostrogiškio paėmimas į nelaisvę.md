@@ -134,7 +134,19 @@ Nenurodyta
     stabtelėdamas iš
     pradžių Minske, o po to Bo­
     risove.
-  citata_rodoma: "Šiek tiek pažygiavus, žvalgai pra­\nnešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­\njuose Vedrošos krantuose, o dalis raitelių, atsiskyrusių\nnuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­\nme lauke, už dviejų mylių laukianti atvykstančių lietu­\nvių. Pagrindinės priešų jėgos bei jų stovykla esančios\nuž upės, pulti trukdysią krūmai ir pelkės. Svarstant\nsusidariusią padėtį bei gautas žinias karvedžių pasita­\nrime, pradėta aštriai ginčytis, kaip tokiu painiu atveju\nelgtis. Daugelis manė, kad dabar, kai sulaužyti susita­\nrimai, geriau parodyti narsą nei baimę, jeigu jau rei­\nkia pasirinkti vieną iš dviejų."
+  citata_rodoma: |
+    Šiek tiek pažygiavus, žvalgai pra­
+    nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­
+    juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių
+    nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­
+    me lauke, už dviejų mylių laukianti atvykstančių lietu­
+    vių. Pagrindinės priešų jėgos bei jų stovykla esančios
+    už upės, pulti trukdysią krūmai ir pelkės. Svarstant
+    susidariusią padėtį bei gautas žinias karvedžių pasita­
+    rime, pradėta aštriai ginčytis, kaip tokiu painiu atveju
+    elgtis. Daugelis manė, kad dabar, kai sulaužyti susita­
+    rimai, geriau parodyti narsą nei baimę, jeigu jau rei­
+    kia pasirinkti vieną iš dviejų.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

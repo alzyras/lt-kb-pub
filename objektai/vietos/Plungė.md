@@ -64,7 +64,8 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
     panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
     nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
     ir tik 3–5 proc.
-  citata_rodoma: "panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose"
+  citata_rodoma: |
+    panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

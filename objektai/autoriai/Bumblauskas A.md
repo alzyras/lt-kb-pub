@@ -88,7 +88,9 @@ Bumblauskas A.
     Vilnius, 1998.
     Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
     2010.
-  citata_rodoma: "Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,\n2010."
+  citata_rodoma: |
+    Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
+    2010.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

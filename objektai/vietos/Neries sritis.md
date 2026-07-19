@@ -78,7 +78,15 @@ Kiek tos kovos Kęstučio valdymo laiku padidėjo, rodo ir ta aplinkybė, kad vo
     dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
     vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
     lyvauja kartu žygyje prieš lenkus.
-  citata_rodoma: "Kiek tos kovos Kęstučio valdymo laiku padidėjo,\nrodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad\n1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­\nvą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad\npriešai nebuvo pasiekę.\nTokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­\nre Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,\nir užtat nenuostabu, kad jis labai anksti (1368 m."
+  citata_rodoma: |
+    Kiek tos kovos Kęstučio valdymo laiku padidėjo,
+    rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
+    1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­
+    vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad
+    priešai nebuvo pasiekę.
+    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
+    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
+    ir užtat nenuostabu, kad jis labai anksti (1368 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

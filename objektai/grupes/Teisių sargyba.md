@@ -61,7 +61,8 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
     dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
     kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
     karo, policijos komisijų – pirmininkai (ministrai).
-  citata_rodoma: "dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai"
+  citata_rodoma: |
+    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

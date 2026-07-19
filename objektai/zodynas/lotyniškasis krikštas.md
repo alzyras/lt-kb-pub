@@ -161,7 +161,13 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
     daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
-  citata_rodoma: "Į kai­\nmyninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­\nbinėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-\npaliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­\nkluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­\nčiais (1422 m."
+  citata_rodoma: |
+    Į kai­
+    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
+    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
+    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
+    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

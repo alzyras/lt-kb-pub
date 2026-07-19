@@ -124,7 +124,17 @@ Nenurodyta
     pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
     trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
     išaugo miestas242.
-  citata_rodoma: "Apie karą su pagudėnais ir Elbingo pilies pastatymą\n\n   Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra\npagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno\nmarkgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237\nviešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti\nElbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten\npastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai\ntrukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui\nišaugo miestas242."
+  citata_rodoma: |
+    Apie karą su pagudėnais ir Elbingo pilies pastatymą
+
+       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
+    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
+    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
+    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
+    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
+    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
+    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
+    išaugo miestas242.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

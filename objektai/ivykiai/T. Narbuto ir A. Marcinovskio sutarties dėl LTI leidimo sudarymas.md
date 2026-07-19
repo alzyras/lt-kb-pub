@@ -155,7 +155,13 @@ Nenurodyta
     L.itewski“, kurio redaktorius buvo A. Marcinovskis.
     Kaip rodo reklaminio skelbimo tekstas, jo autorius nėra
     vien prekiautojas, kuriam svarbu tik įsiūlyti savo prekę.
-  citata_rodoma: "Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­\nkalo išleidimo buvo sudaryta tik praėjus porai metų po pirmo\ntomo išspausdinimo. Tai rodo galutinį A. Marcinovskio apsi­\nsprendimą leisti visą LTI. Reikia manyti, kad žodžiu susitarta\nbuvo anksčiau, o pirmo tomo populiarumas paskatino suda­\nryti ir oficialią sutartį."
+  citata_rodoma: |
+    Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­
+    kalo išleidimo buvo sudaryta tik praėjus porai metų po pirmo
+    tomo išspausdinimo. Tai rodo galutinį A. Marcinovskio apsi­
+    sprendimą leisti visą LTI. Reikia manyti, kad žodžiu susitarta
+    buvo anksčiau, o pirmo tomo populiarumas paskatino suda­
+    ryti ir oficialią sutartį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -179,7 +185,13 @@ Nenurodyta
     savybėn. Pastarasis po to, kai bus gautas cenzūros suti­
     kimas pardavinėti, privalo už kiekvieną tomą sumokėti
     300 rublių sidabru honoraro.
-  citata_rodoma: "Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­\nkalo išleidimo buvo sudaryta tik praėjus porai metų po\npirmo tomo išspausdinimo. Tai rodo galutinį A. Marci-\nnovskio apsisprendimą leisti visą LTI. Reikia manyti, jog\nžodžiu susitarta buvo anksčiau, o pirmo tomo populiaru­\nmas paskatino sudaryti ir oficialią sutartį."
+  citata_rodoma: |
+    Vadinasi, sutartis su A. Marcinovskiu dėl viso vei­
+    kalo išleidimo buvo sudaryta tik praėjus porai metų po
+    pirmo tomo išspausdinimo. Tai rodo galutinį A. Marci-
+    novskio apsisprendimą leisti visą LTI. Reikia manyti, jog
+    žodžiu susitarta buvo anksčiau, o pirmo tomo populiaru­
+    mas paskatino sudaryti ir oficialią sutartį.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

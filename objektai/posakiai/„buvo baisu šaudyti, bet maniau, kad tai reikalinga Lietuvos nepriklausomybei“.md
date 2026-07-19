@@ -68,7 +68,8 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
     daryti.
     Po pirmųjų SD einzatskomandų akcijų 1941 m. rugpjūčio pradžioje
     95 proc.
-  citata_rodoma: "Lietuvos nepriklausomybei“, juoba kad okupantai įsakinėjo ir skatino tai"
+  citata_rodoma: |
+    Lietuvos nepriklausomybei“, juoba kad okupantai įsakinėjo ir skatino tai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

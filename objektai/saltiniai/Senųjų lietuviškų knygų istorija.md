@@ -60,11 +60,15 @@ Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    —** **_Christburgo taika_** **, LE, t. 3, 541 p.**
+    **
     (^2) **Plg. Vcl. Biržiška :** **_Senųjų lietuviškų knygų istorija_** **, I, Chicago, Ill.
     1953, 39-52 p.**
-    (^3) **Pvz., Al.
-  citata_rodoma: "**\n(^2) **Plg. Vcl. Biržiška :** **_Senųjų lietuviškų knygų istorija_** **, I, Chicago, Ill.\n1953, 39-52 p.**\n(^3) **Pvz."
+    (^3) **Pvz.
+  citata_rodoma: |
+    **
+    (^2) **Plg. Vcl. Biržiška :** **_Senųjų lietuviškų knygų istorija_** **, I, Chicago, Ill.
+    1953, 39-52 p.**
+    (^3) **Pvz.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

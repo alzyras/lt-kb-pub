@@ -91,7 +91,18 @@ Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius ž
     banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­
     jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio
     metu naudoti reikmenys spindėjo gintaru.
-  citata_rodoma: "O gal pasitaikė\niš toto regėti žmogų su didele kailine kepure ilgomis au­\nsinėmis, tįsančiomis ligi žemės, ¡kuriomis jis galėjo apsi­\nmuturiuoti; tokios ir dabar dėvimos Rusijos valstybės šiau­\nriniuose kraštuose. Čia ir gimė Melas pasaka apie ilgaau­\nsius žmones Satmali, Plinijaus vadintus Panotii1.\n176\nKrikščioniškosios eros 54 ar 55 metais imperatorius\nNeronas, norėjęs parodyti Romai ypač prašmatnų reginį,\nsumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­\nmas."
+  citata_rodoma: |
+    O gal pasitaikė
+    iš toto regėti žmogų su didele kailine kepure ilgomis au­
+    sinėmis, tįsančiomis ligi žemės, ¡kuriomis jis galėjo apsi­
+    muturiuoti; tokios ir dabar dėvimos Rusijos valstybės šiau­
+    riniuose kraštuose. Čia ir gimė Melas pasaka apie ilgaau­
+    sius žmones Satmali, Plinijaus vadintus Panotii1.
+    176
+    Krikščioniškosios eros 54 ar 55 metais imperatorius
+    Neronas, norėjęs parodyti Romai ypač prašmatnų reginį,
+    sumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­
+    mas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

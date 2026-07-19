@@ -486,7 +486,10 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
     aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
     ir daugelyje kitų [vietų].
-  citata_rodoma: "3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos\nkare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo\nužbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno."
+  citata_rodoma: |
+    3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
+    kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
+    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -505,7 +508,12 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     kartoms žinių apie Ordino laimėtus karus, kuriuos jis surašė ir sudėjo „į šią knygą“.
     Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame
     bus taisytina.
-  citata_rodoma: "Dusburgiečio dedikacija kronikos pradžioje rodo, kad  jis buvęs Kryžiuočių ordino\nbrolis — kunigas, vėliau, galimas daiktas, magistro kapelionas. Jo siekta palikti ateities\nkartoms žinių apie Ordino laimėtus karus, kuriuos jis surašė ir sudėjo „į šią knygą“.\nVeikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame\nbus taisytina."
+  citata_rodoma: |
+    Dusburgiečio dedikacija kronikos pradžioje rodo, kad  jis buvęs Kryžiuočių ordino
+    brolis — kunigas, vėliau, galimas daiktas, magistro kapelionas. Jo siekta palikti ateities
+    kartoms žinių apie Ordino laimėtus karus, kuriuos jis surašė ir sudėjo „į šią knygą“.
+    Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame
+    bus taisytina.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
 
@@ -527,7 +535,14 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
     ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
     vienodos, kad šios tautos turėjusios bendrą priešą71.
-  citata_rodoma: "Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,\ndidžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne\ntik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,\nKryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą\nprieš Lietuvą.\n  Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį."
+  citata_rodoma: |
+    Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
+    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
+    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
+    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
+    prieš Lietuvą.
+      Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -549,7 +564,10 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     lietuvių žygius į Danijos karaliaus valdas — Revelio žemę (III, 343), į Klaipėdos miestą ir
     apylinkes (III, 344), Vėluvą (III, 345) bei Dobrynę (III, 346), be to, 1324 m. popiežiaus
     legatų dokumentu dėl taikos su Gediminu (III, 356)122.
-  citata_rodoma: "Dusburgietis, pvz.,  tiksliai nurodo, kada buvo\nišrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d.\n(III, 354)."
+  citata_rodoma: |
+    Dusburgietis, pvz.,  tiksliai nurodo, kada buvo
+    išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d.
+    (III, 354).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -600,7 +618,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 
     Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
     Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
-  citata_rodoma: "Apie didžiojo magistro mirtį\n\n  Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio\n18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo\npaties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo\niš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,\n\nPastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—\nLenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą."
+  citata_rodoma: |
+    Apie didžiojo magistro mirtį
+
+      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
+    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
+    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
+    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
+
+    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
+    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -625,7 +652,20 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas.
-  citata_rodoma: "PRŪSIJOS ŽEMĖS\n   KRONIKA\n\nDedikacija\n\n\n     Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,\nŠventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą\nsveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.\nKiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje\nšventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi\nnuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei\nbūsimosioms kartoms pamokyti."
+  citata_rodoma: |
+    PRŪSIJOS ŽEMĖS
+       KRONIKA
+
+    Dedikacija
+
+
+         Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
+    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -646,7 +686,10 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
     pasirodyti Prūsijoje ir kiek vėliau, kai Ordino sostinė buvusi perkelta į Marienburgą
     (1309 m.) (M. Poliakuvna).
-  citata_rodoma: "Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame\nbus taisytina.\n   Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m."
+  citata_rodoma: |
+    Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame
+    bus taisytina.
+       Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -667,7 +710,10 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     smurto, nedorumo ir turto gobšumo, jei ne tarp krikščionių žmonių, o ypač tarp tų,
     kurie dedasi dorais vienuoliais kaip, pavyzdžiui, kryžiuočiai, tačiau kurie daro visokį
     42  CEV, p. 1018—1021.
-  citata_rodoma: "1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo\nužbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.\n   XIII a."
+  citata_rodoma: |
+    1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
+    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
+       XIII a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -689,7 +735,14 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
     ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
     vienuolių bendruomenės gyvenimo dėsniai.
-  citata_rodoma: "69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta\natitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,\napribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai\ništekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti\nvienuolių bendruomenės gyvenimo dėsniai."
+  citata_rodoma: |
+    69
+      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
+    argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
+    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
+    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
+    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
+    vienuolių bendruomenės gyvenimo dėsniai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -716,7 +769,20 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 
 
                               2.
-  citata_rodoma: "Apie evangeliją: pradžioje buvo žodis\n\n   Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,\nkad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos\nkiekvieną dieną turį skaityti evangeliją: „Pradžioje buvo žodis” su eilute: „Parodyk mums,\nviešpatie, savo gailestingumą”  ir kolektą: „Visagalis amžinasis dieve, nukreipk mūsų\nveiksmus, kaip tau patinka”, o tardami „Ir žodis tapo kūnu”, broliai turį pulti ant kelių ir\nklūpoti iki kolektos galo.\n\n\n\n\n                          2."
+  citata_rodoma: |
+    Apie evangeliją: pradžioje buvo žodis
+
+       Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,
+    kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos
+    kiekvieną dieną turį skaityti evangeliją: „Pradžioje buvo žodis” su eilute: „Parodyk mums,
+    viešpatie, savo gailestingumą”  ir kolektą: „Visagalis amžinasis dieve, nukreipk mūsų
+    veiksmus, kaip tau patinka”, o tardami „Ir žodis tapo kūnu”, broliai turį pulti ant kelių ir
+    klūpoti iki kolektos galo.
+
+
+
+
+                              2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -745,7 +811,12 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     nebuvo įsakęs tokių viešai skelbti nei pajūrio miestuose, nei kitose provincijose585; be
     to, pridūrė, kad karalius savo dievų galybe prisiekė, jog niekad neketinąs priimti kito
     tikėjimo, o laikysis to, kuriam iki mirties buvo ištikimi jo senoliai.
-  citata_rodoma: "Apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą\n\n   Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras,\ntais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas\nvyriausiojoje būstinėje Marienburge, o vadovavo.......metų582."
+  citata_rodoma: |
+    Apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą
+
+       Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras,
+    tais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas
+    vyriausiojoje būstinėje Marienburge, o vadovavo.......metų582.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

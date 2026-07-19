@@ -72,7 +72,14 @@ Pirmoji kovų fazė: Vilniaus išvadavimas 1794 m. balandžio 16 d. Šiauliuose 
     brigada (ankščiau vadinta Kauno husarų).
     Tuo metu Žemaitijoje praktiškai nebuvo
     Rusijos kariuomenės.
-  citata_rodoma: "Pirmoji kovų fazė: Vilniaus\n\nišvadavimas\n\n1794 m. balandžio 16 d. Šiauliuose ir jo apy-\nlinkėse sukilimą pradėjo LDK 1-oji Tautinė\nbrigada (ankščiau vadinta Kauno husarų)."
+  citata_rodoma: |
+    Pirmoji kovų fazė: Vilniaus
+
+    išvadavimas
+
+    1794 m. balandžio 16 d. Šiauliuose ir jo apy-
+    linkėse sukilimą pradėjo LDK 1-oji Tautinė
+    brigada (ankščiau vadinta Kauno husarų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

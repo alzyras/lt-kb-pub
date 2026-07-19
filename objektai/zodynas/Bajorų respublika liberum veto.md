@@ -99,7 +99,8 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
     Vienas didingiausių ir puošniausių LDK baroko
     interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
     interjeras (XVII a. antra p.).
-  citata_rodoma: "blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad"
+  citata_rodoma: |
+    blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

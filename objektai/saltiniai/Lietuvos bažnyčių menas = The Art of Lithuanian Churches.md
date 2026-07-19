@@ -67,7 +67,11 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
     Lithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
     Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
     darbas.
-  citata_rodoma: "Vilnius, 1999; Lietuvos bažnyčių menas = The Art of \nLithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų \nEuropos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų \ndarbas."
+  citata_rodoma: |
+    Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
+    Lithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
+    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
+    darbas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

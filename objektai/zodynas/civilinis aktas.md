@@ -125,7 +125,16 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
     pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
     vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.
     jis pats.
-  citata_rodoma: "**\n\n\n(^374) III skyrius: valstybės suklestėjimas\nbuvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip\nbažnytinė ceremonija, nesąs būtinas. Nurodydamas eilę pavyzdžių,\nkur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­\npimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui\nvainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t."
+  citata_rodoma: |
+    **
+
+
+    (^374) III skyrius: valstybės suklestėjimas
+    buvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip
+    bažnytinė ceremonija, nesąs būtinas. Nurodydamas eilę pavyzdžių,
+    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
+    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
+    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

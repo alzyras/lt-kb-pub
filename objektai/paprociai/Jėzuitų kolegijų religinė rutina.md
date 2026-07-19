@@ -100,7 +100,9 @@ Nenurodyta
     kursą. Daugumas mokinių gyveno kolegijose ir ištisą dieną iš-
     būdavo mokytojų priežiūroje. Ypatingai buvo žiūrima, kad
     mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
-  citata_rodoma: "Ypatingai buvo žiūrima, kad\nmokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-"
+  citata_rodoma: |
+    Ypatingai buvo žiūrima, kad
+    mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

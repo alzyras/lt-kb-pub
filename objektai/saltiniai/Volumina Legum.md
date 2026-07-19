@@ -100,7 +100,11 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
     konstitucijos buvo surinktos ir išspausdintos specialiuose rinki-
     niuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-
     spausdinta 8 tomai.
-  citata_rodoma: "Vėliau, XVIII amžiuje, visos\nkonstitucijos buvo surinktos ir išspausdintos specialiuose rinki-\nniuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-\nspausdinta 8 tomai."
+  citata_rodoma: |
+    Vėliau, XVIII amžiuje, visos
+    konstitucijos buvo surinktos ir išspausdintos specialiuose rinki-
+    niuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-
+    spausdinta 8 tomai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,8 @@ Dusburgietis teigia, kad valančius M.
     Сопоставление результатов лингвистических и археологических исследований. —
     Проблемы этногенеза и этнической истории балтов: Тезисы докладов, В., 1981, с.
     99—101.
-  citata_rodoma: "Valančius M. Raštai. T. 1.— V., 1972."
+  citata_rodoma: |
+    Valančius M. Raštai. T. 1.— V., 1972.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

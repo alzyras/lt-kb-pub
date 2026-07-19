@@ -132,7 +132,14 @@ Narbutas rašo, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet
     teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
     kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
     mas iš Krivio, regis, atrodo visai natūralus.
-  citata_rodoma: "Taip manyti\ngalima pagal jų krašto padėtį“. Jei jo prielaida teisinga,\no aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,\ntokiu atveju labiau dera jų pavadinimą kildinti iš bend­\nro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš\nkažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris\nteisingai klausia, ką tai reiškia sarmatiškai."
+  citata_rodoma: |
+    Taip manyti
+    galima pagal jų krašto padėtį“. Jei jo prielaida teisinga,
+    o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,
+    tokiu atveju labiau dera jų pavadinimą kildinti iš bend­
+    ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš
+    kažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris
+    teisingai klausia, ką tai reiškia sarmatiškai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

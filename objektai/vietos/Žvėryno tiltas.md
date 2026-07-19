@@ -97,7 +97,17 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
     sidėjo jau po sausio 13-osios. Nuo stichinio
     barikadų statymo pereita prie planingos
     gynybos sistemos kūrimo, kuriai vadovavo
-  citata_rodoma: ", saugomas ATAS (Aukščiausiosios\nTarybos Apsaligos skyriaus) pareigūnų\n\nprieigose Žvėryno tiltas užtvertas „Kraz“\nsunkvežimiu ir dviem „Kirovec“ traktoriais,\nGoštauto gatvė ties Žvėryno tiltu blokuota\nsunkiąja technika.\n\nTrečiasis gynybinių įrengimų etapas pra-\nsidėjo jau po sausio 13-osios."
+  citata_rodoma: |
+    , saugomas ATAS (Aukščiausiosios
+    Tarybos Apsaligos skyriaus) pareigūnų
+
+    prieigose Žvėryno tiltas užtvertas „Kraz“
+    sunkvežimiu ir dviem „Kirovec“ traktoriais,
+    Goštauto gatvė ties Žvėryno tiltu blokuota
+    sunkiąja technika.
+
+    Trečiasis gynybinių įrengimų etapas pra-
+    sidėjo jau po sausio 13-osios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +134,13 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
     stogo. Gynėjai išsikėlė nerašytą misiją - pa-
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
-  citata_rodoma: "Tuo tikslu\ndalis ginkluotų A. Pociaus vadovaujamų\nvyrų buvo išdėstyti ties Žvėryno tiltu ki-\ntoje Neries pusėje, dalis kovotojų išsidėstė\nant Nacionalinės M. Mažvydo bibliotekos\nstogo."
+  citata_rodoma: |
+    Tuo tikslu
+    dalis ginkluotų A. Pociaus vadovaujamų
+    vyrų buvo išdėstyti ties Žvėryno tiltu ki-
+    toje Neries pusėje, dalis kovotojų išsidėstė
+    ant Nacionalinės M. Mažvydo bibliotekos
+    stogo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

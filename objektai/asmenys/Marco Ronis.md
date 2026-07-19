@@ -80,7 +80,10 @@ Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų,
     bet turi savitą tos kalbos tarme; yra papročių ir fizionomijos
     skirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės
     šiaurės slavų šeimos šaką.
-  citata_rodoma: "Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,\ntodėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-\nnis, Bolloysos? Šie vardai skamba visai neprūsiškai."
+  citata_rodoma: |
+    Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
+    todėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-
+    nis, Bolloysos? Šie vardai skamba visai neprūsiškai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

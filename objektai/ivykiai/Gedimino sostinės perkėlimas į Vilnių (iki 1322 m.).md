@@ -124,7 +124,13 @@ Nenurodyta
     vilko » sapno yra nebeįsivaizduojama.
     Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
     jau buvo perkėlęs savo sostinę^15.
-  citata_rodoma: "Vilniaus įkūrimo legenda taip įaugo\nį savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be\n«Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio\nvilko » sapno yra nebeįsivaizduojama.\nIstoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun\njau buvo perkėlęs savo sostinę^15."
+  citata_rodoma: |
+    Vilniaus įkūrimo legenda taip įaugo
+    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
+    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
+    vilko » sapno yra nebeįsivaizduojama.
+    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
+    jau buvo perkėlęs savo sostinę^15.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

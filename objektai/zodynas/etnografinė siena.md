@@ -129,7 +129,14 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
     Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti
     ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios
     Lietuvos sujungimą.
-  citata_rodoma: "Okupacijos metu ir Vilniaus konferencija ir Taryba vengė\naiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta\nbendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyve-\nnamąsias (etnografines) žemes. Priešingai, lietuviai Rusijoje,\nAmerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti\nir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios\nLietuvos sujungimą."
+  citata_rodoma: |
+    Okupacijos metu ir Vilniaus konferencija ir Taryba vengė
+    aiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta
+    bendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyve-
+    namąsias (etnografines) žemes. Priešingai, lietuviai Rusijoje,
+    Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti
+    ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios
+    Lietuvos sujungimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -155,7 +162,15 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
     dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
     škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
     buvusios gubernijos sienos.
-  citata_rodoma: "Lietuvos Latvijos sienos nustatymas**\n\nSusikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-\ntuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet\n\nkadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje\nčia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-\nduoti 1921 m."
+  citata_rodoma: |
+    Lietuvos Latvijos sienos nustatymas**
+
+    Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-
+    tuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet
+
+    kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
+    čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-
+    duoti 1921 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -133,7 +133,10 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
     įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76
     — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos
     faktus į lituanistinę istorinę literatūrą.
-  citata_rodoma: "Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)\npilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris\nperdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.)."
+  citata_rodoma: |
+    Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
+    pilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
+    perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

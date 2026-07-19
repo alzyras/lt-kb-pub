@@ -86,7 +86,8 @@ Nenurodyta
     Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
     partija, susikūrusi 1896 m.
-  citata_rodoma: "tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų"
+  citata_rodoma: |
+    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

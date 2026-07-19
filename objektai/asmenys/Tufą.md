@@ -128,7 +128,12 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
     sėkmės labiau įbaugintas negu sugniuždytas, jis pasuko
     į Romą, ketindamas ten įsitvirtinti. Bet nedėkinga Roma
     užvėrė savo vartus.
-  citata_rodoma: "Vienas se­\nniausių jo karvedžių Tufą perėjo priešo pusėn. Čia, ne­\nsėkmės labiau įbaugintas negu sugniuždytas, jis pasuko \nį Romą, ketindamas ten įsitvirtinti. Bet nedėkinga Roma \nužvėrė savo vartus."
+  citata_rodoma: |
+    Vienas se­
+    niausių jo karvedžių Tufą perėjo priešo pusėn. Čia, ne­
+    sėkmės labiau įbaugintas negu sugniuždytas, jis pasuko
+    į Romą, ketindamas ten įsitvirtinti. Bet nedėkinga Roma
+    užvėrė savo vartus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

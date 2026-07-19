@@ -70,7 +70,8 @@ Lietuvos krikščionėjimo simboliu tapo šv.
     Lietuvos krikščionėjimo simboliu tapo šv.  Kazimiero (1458–1484),
     Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
     klostymasis.
-  citata_rodoma: "Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos"
+  citata_rodoma: |
+    Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

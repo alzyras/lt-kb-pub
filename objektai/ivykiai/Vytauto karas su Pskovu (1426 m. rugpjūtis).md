@@ -114,7 +114,10 @@ Nenurodyta
     M Iš tikrųjų gal ne barzdos, o vadinamieji bunčiukal — iš ark­
     lių uodegų padaryti pagražinimai, kuriais totoriai puošdavo savo
     žirgus (K. Szajnocha, Szkice historyczne, Lw6w.
-  citata_rodoma: "450 rublių už belaisvius (1427.111.30), Per abu šluos karus Didysis \nNaugardas laikėsi neulralitelo. BK pasakojime čia, veikiausiai, turi­\nm a galvoje 1426 ra. rugpiūčio mėn. Vytauto karas su Pskovu."
+  citata_rodoma: |
+    450 rublių už belaisvius (1427.111.30), Per abu šluos karus Didysis
+    Naugardas laikėsi neulralitelo. BK pasakojime čia, veikiausiai, turi­
+    m a galvoje 1426 ra. rugpiūčio mėn. Vytauto karas su Pskovu.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

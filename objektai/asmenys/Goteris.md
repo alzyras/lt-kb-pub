@@ -158,7 +158,17 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
     dinių Nemuno žiočių ir beveik toje pačioje vietoje, kur
     vėliau lietuviai turėjo Klaipėdą, o kryžiuočiai įkūrė Me-
     metburgą.
-  citata_rodoma: "Supylė virš jo kapo didžiulį pil­\nkapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­\nnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­\ntraukė baigiantis II krikščioniškosios eros amžiui4.\n232\nSkandinavų didvyris, vadinamas Sturlaugu Darbš-\nčiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,\no vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam\nkraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo\nRusios uostas."
+  citata_rodoma: |
+    Supylė virš jo kapo didžiulį pil­
+    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
+    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
+    traukė baigiantis II krikščioniškosios eros amžiui4.
+    232
+    Skandinavų didvyris, vadinamas Sturlaugu Darbš-
+    čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
+    o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
+    kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
+    Rusios uostas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

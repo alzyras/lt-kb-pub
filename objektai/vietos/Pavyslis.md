@@ -87,7 +87,13 @@ Narbutas rašo, kad Pavyslio ir Padneprio senieji gyventojai pildavo milžinkapi
     3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
     pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
     rius*.
-  citata_rodoma: "Iš istorijos žinome, kad kartais panašiai\ndarydavo romėnai. Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės."
+  citata_rodoma: |
+    Iš istorijos žinome, kad kartais panašiai
+    darydavo romėnai. Kad Pavyslio, Padneprio senieji gyventojai
+    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
+    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
+    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
+    buvęs kažkokios milžiniškos tautos amžinos kapinės.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

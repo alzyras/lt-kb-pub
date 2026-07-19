@@ -71,7 +71,8 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
     reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-
     čius. Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
     Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.
-  citata_rodoma: "Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio"
+  citata_rodoma: |
+    Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

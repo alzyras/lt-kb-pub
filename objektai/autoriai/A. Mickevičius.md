@@ -116,7 +116,8 @@ Mickevičiaus, J.
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
     pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: "liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,"
+  citata_rodoma: |
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -86,7 +86,10 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
     duomenis, liečiančius Lietuvą ir lietuvius". Taigi ji nesirūpino
     kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-
     tuviškosios kultūros palaikus.
-  citata_rodoma: "Taigi ji nesirūpino\nkelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-\ntuviškosios kultūros palaikus."
+  citata_rodoma: |
+    Taigi ji nesirūpino
+    kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-
+    tuviškosios kultūros palaikus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +110,11 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
     tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
     ti mokslui visus kalbos, istorijos, tautosakos ir panašius
     duomenis, liečiančius Lietuvą ir lietuvius".
-  citata_rodoma: "Draugija savo sta-\ntuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-\nti mokslui visus kalbos, istorijos, tautosakos ir panašius\nduomenis, liečiančius Lietuvą ir lietuvius\"."
+  citata_rodoma: |
+    Draugija savo sta-
+    tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
+    ti mokslui visus kalbos, istorijos, tautosakos ir panašius
+    duomenis, liečiančius Lietuvą ir lietuvius".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

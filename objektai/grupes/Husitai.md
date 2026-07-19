@@ -502,7 +502,27 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     tūkstantį keturis šimtus avinų, po šimtą stumbrų, brie­
     džių ir kitokių žvėrių, o išgeriama po septynis šimtus
     statinių midaus, neskaitant kitų gėrimų.
-  citata_rodoma: "Štai todėl vienaip kalbėjo im­\nperatorius su Jogaila, kitaip\n1429 m eta i\nakis į akį su Vytautu. Valdo­\nvų posėdyje jis visą laiką ra­\ngino sudaryti santarvę, sutelktomis jėgomis numalšinti\nhusitus, pirmiausia, žinoma, Čekijoje, o vėliau visą\nkariuomenę nukreipti prieš turkus ir saracėnus, kerši­\njant už Rytų imperijos griovimą. Iš tiesų didingi su­\nmanymai, ir daugelis jiems\nJ o g a ila  atsisako\nnuoširdžiai\npritarė,\ntačiau\nkur kas lengviau juos pa-\n416\n\n## Puslapis 415\n\nsiūlyti, nei įgyvendinti."
+  citata_rodoma: |
+    Štai todėl vienaip kalbėjo im­
+    peratorius su Jogaila, kitaip
+    1429 m eta i
+    akis į akį su Vytautu. Valdo­
+    vų posėdyje jis visą laiką ra­
+    gino sudaryti santarvę, sutelktomis jėgomis numalšinti
+    husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą
+    kariuomenę nukreipti prieš turkus ir saracėnus, kerši­
+    jant už Rytų imperijos griovimą. Iš tiesų didingi su­
+    manymai, ir daugelis jiems
+    J o g a ila  atsisako
+    nuoširdžiai
+    pritarė,
+    tačiau
+    kur kas lengviau juos pa-
+    416
+
+    ## Puslapis 415
+
+    siūlyti, nei įgyvendinti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

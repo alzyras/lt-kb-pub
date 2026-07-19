@@ -74,7 +74,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
     pos šiaurę. Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
     gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,
     jis priplaukė krantą Priegliaus žiotyse.
-  citata_rodoma: "jis priplaukė krantą Priegliaus žiotyse."
+  citata_rodoma: |
+    jis priplaukė krantą Priegliaus žiotyse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

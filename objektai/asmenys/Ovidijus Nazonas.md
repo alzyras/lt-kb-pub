@@ -212,7 +212,23 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
     viškus, kurie, pagoniškų šventyklų žynių saugomi, įvedus krikščio-
     nybę, galėjo patekti į Katedros archyvą, iš kur juos kanauninkas Ja­
     roslavas atidavė vyskupui Kristijonui.
-  citata_rodoma: "Priminsiu tik, jog \nOvidijus, garsus vyras, senatorius, išsilavinęs ir turtingas, be to, \nsavo malonumui išmokęs to krašto kalbą, galėjo apkeliauti Siaurės \nkraštus ir palikti Plocke savo užrašus — arba lotyniškus, arba sla­\nviškus, kurie, pagoniškų šventyklų žynių saugomi, įvedus krikščio- \nnybę, galėjo patekti į Katedros archyvą, iš kur juos kanauninkas Ja­\nroslavas atidavė vyskupui Kristijonui. Negalime taip pat atmesti ga­\nlimybės, jog Ovidijus, tiek metų gyvendamas tarp slavų, kur buvo \npaplitusi daugpatystė ir kur vergės gimdydavo vaikus; taigi Ovidijus, \ngyvendamas ten ir turėdamas tarnaičių, galėjo susilaukti sūnaus ir \njį išsiauklėti savo dvasia. Jeigu tas sūnus vėliau, pasinaudojęs gau­\ntomis žiniomis, apkeliavo Pabaltijo kraštus ir aprašė ten surinktas \nžinias, jeigu jis, kaip ir dera, buvo vadinamas syn Ovid ir tas var­\ndas, kaip tuomet slavams buvo įprasta, buvo rašomas iš dešinės į \nkairę, tai to keliautojo vardas buvo Divonys, o skaitant atvirkščiai, \nbūtų' Syn—Ovid."
+  citata_rodoma: |
+    Priminsiu tik, jog
+    Ovidijus, garsus vyras, senatorius, išsilavinęs ir turtingas, be to,
+    savo malonumui išmokęs to krašto kalbą, galėjo apkeliauti Siaurės
+    kraštus ir palikti Plocke savo užrašus — arba lotyniškus, arba sla­
+    viškus, kurie, pagoniškų šventyklų žynių saugomi, įvedus krikščio-
+    nybę, galėjo patekti į Katedros archyvą, iš kur juos kanauninkas Ja­
+    roslavas atidavė vyskupui Kristijonui. Negalime taip pat atmesti ga­
+    limybės, jog Ovidijus, tiek metų gyvendamas tarp slavų, kur buvo
+    paplitusi daugpatystė ir kur vergės gimdydavo vaikus; taigi Ovidijus,
+    gyvendamas ten ir turėdamas tarnaičių, galėjo susilaukti sūnaus ir
+    jį išsiauklėti savo dvasia. Jeigu tas sūnus vėliau, pasinaudojęs gau­
+    tomis žiniomis, apkeliavo Pabaltijo kraštus ir aprašė ten surinktas
+    žinias, jeigu jis, kaip ir dera, buvo vadinamas syn Ovid ir tas var­
+    das, kaip tuomet slavams buvo įprasta, buvo rašomas iš dešinės į
+    kairę, tai to keliautojo vardas buvo Divonys, o skaitant atvirkščiai,
+    būtų' Syn—Ovid.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -243,7 +259,23 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
     1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
-  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
+  citata_rodoma: |
+    Tačiau Kelsijus ir Dalinas per­
+    nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
+    Kristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po
+    keturių tūkstančių metų jos neliks nė pėdsako. Antra
+    vertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,
+    Ovidijus kalba apie vandens lygio kritimą, pateikdami
+    akivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis
+    apie
+    Baltijos
+    jūrą“).
+    Seni
+    venecijiečių
+    žemėlapiai
+    šiai jūrai skiria gerokai didesnį plotą, negu ji užima
+    šiandien, be to, matoma daug pavyzdžių ir gretimose že­
+    mėse, kurios tarsi įrodo jos mažėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

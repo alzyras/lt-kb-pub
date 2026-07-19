@@ -91,7 +91,16 @@ Nenurodyta
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-  citata_rodoma: "Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, \nnesuvaidintas, dažnai pamokančias mūsų tautos istorines patirtis. Jas įsi-\nmindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-\njais. Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi \n1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui \nJuzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija \nturi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“ \nBūtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną \nMačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu."
+  citata_rodoma: |
+    Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas,
+    nesuvaidintas, dažnai pamokančias mūsų tautos istorines patirtis. Jas įsi-
+    mindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-
+    jais. Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
+    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
+    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

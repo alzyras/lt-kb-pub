@@ -230,7 +230,13 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     ginklanešiais jis daug kartų šlovingai kariavo su lietuviais. Ne sykį jis traukė į karą
     laivais, o kartą — prieš Lietuvos karaliaus žemę Aukštaičius542, čia sudegino kaimą, vardu
     542  D.— versus Austechiam terram regis Lethowie, Jer.
-  citata_rodoma: "Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300\n\n  Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei\nginklanešiais jis daug kartų šlovingai kariavo su lietuviais. Ne sykį jis traukė  į karą\nlaivais, o kartą — prieš Lietuvos karaliaus žemę Aukštaičius542, čia sudegino kaimą, vardu\n  542 D."
+  citata_rodoma: |
+    Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
+
+      Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
+    ginklanešiais jis daug kartų šlovingai kariavo su lietuviais. Ne sykį jis traukė  į karą
+    laivais, o kartą — prieš Lietuvos karaliaus žemę Aukštaičius542, čia sudegino kaimą, vardu
+      542 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -250,7 +256,15 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
     viename lauke ir 25 iš jų nukovė.
     241 (234).
-  citata_rodoma: "Todėl brolis Liudvikas iš Libencelės ir brolis\nMarkvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė\nviename lauke ir 25 iš jų nukovė.\n\n\n\n\n               241 (234)."
+  citata_rodoma: |
+    Todėl brolis Liudvikas iš Libencelės ir brolis
+    Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
+    viename lauke ir 25 iš jų nukovė.
+
+
+
+
+                   241 (234).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -269,7 +283,14 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
     kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
     213 (208).
-  citata_rodoma: "Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną\nkilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.\n\n\n\n\n    213 (208)."
+  citata_rodoma: |
+    Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
+    kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
+
+
+
+
+        213 (208).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -294,7 +315,19 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
-  citata_rodoma: "Apie Kimelio pilies sunaikinimą 1296 metais\n\n   Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir\n200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją\npraėjo; kai begrįždami atitiko tikrąjį kelią ir įėjo  į pilį, nieko joje nerado, nes žmonės,\nkurie joje gyveno, pamatę brolių kariuomenę, išsislapstė miškuose, nei galėdami, nei\nnorėdami priešintis jų antpuoliams. Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto\ndievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,\ntaip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir\npatys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei\nišlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o\nją pačią, pakišę ugnį, ligi pamatu sudegino."
+  citata_rodoma: |
+    Apie Kimelio pilies sunaikinimą 1296 metais
+
+       Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir
+    200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją
+    praėjo; kai begrįždami atitiko tikrąjį kelią ir įėjo  į pilį, nieko joje nerado, nes žmonės,
+    kurie joje gyveno, pamatę brolių kariuomenę, išsislapstė miškuose, nei galėdami, nei
+    norėdami priešintis jų antpuoliams. Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
+    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
+    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
+    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
+    išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
+    ją pačią, pakišę ugnį, ligi pamatu sudegino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -315,7 +348,14 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
     ordino broliams Prūsijoje.
-  citata_rodoma: "Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę\n\n   Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo\ngyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,\natidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,\ntodėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę\npuotauti."
+  citata_rodoma: |
+    Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
+
+       Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
+    gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,
+    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
+    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
+    puotauti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

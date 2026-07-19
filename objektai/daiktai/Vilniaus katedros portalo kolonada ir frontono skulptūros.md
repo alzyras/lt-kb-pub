@@ -109,7 +109,8 @@ Nenurodyta
     Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
     skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
     dvasia.
-  citata_rodoma: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado"
+  citata_rodoma: |
+    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +125,8 @@ Nenurodyta
   citata_originali: |
     Kazimiero, Lenkijos
     globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
-  citata_rodoma: "globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono."
+  citata_rodoma: |
+    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

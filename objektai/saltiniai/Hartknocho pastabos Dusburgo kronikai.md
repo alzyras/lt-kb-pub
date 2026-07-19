@@ -92,7 +92,17 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
     manytume buvus.
     g
     Post haec XI Kalendas Junii Fr.
-  citata_rodoma: "Jeigu mes net tarsime, kad ta pilis Vilniuje \ngerokai anksčiau pastatyta, tai Dusburgas, Gedimino \namžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­\ndemini, juk pats Gediminas, arba rygiečiai, dar prieš metus \nviešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­\nniaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­\ngi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs \nbūti ta vadinama Castrum Gedemini, yra visiškai atmestina. \nMes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį \nmanytume buvus."
+  citata_rodoma: |
+    Jeigu mes net tarsime, kad ta pilis Vilniuje
+    gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
+    amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­
+    demini, juk pats Gediminas, arba rygiečiai, dar prieš metus
+    viešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­
+    niaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­
+    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
+    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
+    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
+    manytume buvus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

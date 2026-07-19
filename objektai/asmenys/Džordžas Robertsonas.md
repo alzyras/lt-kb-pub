@@ -81,7 +81,16 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
     260
     Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
     tarties 5-ajame straipsnyje.
-  citata_rodoma: "Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje \nEuropos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas \nValdas Adamkus ir NATO Generalinis sekretorius Džordžas \nRobertsonas 2000 m. gegužės 19 d.\n\nL I E T U V O S  I S T O R I J A\n260\nPagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-\ntarties 5-ajame straipsnyje."
+  citata_rodoma: |
+    Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje
+    Europos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas
+    Valdas Adamkus ir NATO Generalinis sekretorius Džordžas
+    Robertsonas 2000 m. gegužės 19 d.
+
+    L I E T U V O S  I S T O R I J A
+    260
+    Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
+    tarties 5-ajame straipsnyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -151,7 +151,12 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 
     @ 1. Budrio traukinys per Mažeikius, per Latvijos
     teritoriją (Priekulę) atvyksta į Kretingą.
-  citata_rodoma: "Kalmantavičiaus-Bajoro traukinys išvyksta\nį Tauragę.\n\n@ 1. Budrio traukinys per Mažeikius, per Latvijos\nteritoriją (Priekulę) atvyksta į Kretingą."
+  citata_rodoma: |
+    Kalmantavičiaus-Bajoro traukinys išvyksta
+    į Tauragę.
+
+    @ 1. Budrio traukinys per Mažeikius, per Latvijos
+    teritoriją (Priekulę) atvyksta į Kretingą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

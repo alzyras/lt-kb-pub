@@ -85,7 +85,8 @@ media_all_json: |-
     ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs
     bajorų jaunimas, tikėjęs, kad pavyks įtraukti į sukilimą valstiečius, ku-
     riuos, anot jų, turėjo nuvilti caro paskelbta baudžiavos naikinimo tvarka.
-  citata_rodoma: "ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs"
+  citata_rodoma: |
+    ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

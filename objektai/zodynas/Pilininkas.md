@@ -218,7 +218,17 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     Ragainės komtūro bei jo karių mirtį. Kai jie nuliūdę šnekučiavosi, atvyko žygūnas, kuris
     pranešė, kad Ragainės broliai nukovę 25 plėšikautojus. Nespėjus baigti kalbos, atvyko
     antras ir pranešė, jog brolių kariuomenė nugalėjo priešą ir sugrįžta.
-  citata_rodoma: "75).\n\nTais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,\nišplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias\nnaujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau\nminėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,\nkaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,\ngalop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,\natsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir\nšitaip išvaduojamas iš netikėlių nelaisvės."
+  citata_rodoma: |
+    75).
+
+    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
+    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
+    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
+    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
+    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
+    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
+    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
+    šitaip išvaduojamas iš netikėlių nelaisvės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

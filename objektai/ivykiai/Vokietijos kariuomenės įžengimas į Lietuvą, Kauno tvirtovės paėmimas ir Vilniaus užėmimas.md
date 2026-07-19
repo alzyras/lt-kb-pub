@@ -112,7 +112,13 @@ Nenurodyta
     rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
     teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
     kariuomenių kontroliuojamoje zonoje.
-  citata_rodoma: "Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams\nnusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-\nvasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o\nrugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės\nteritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos\nkariuomenių kontroliuojamoje zonoje."
+  citata_rodoma: |
+    Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
+    nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
+    vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o
+    rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
+    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
+    kariuomenių kontroliuojamoje zonoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +141,11 @@ Nenurodyta
     niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
     Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
     kimus nudraskė.
-  citata_rodoma: "Dar nesusigaudę kur pateko, vokiečiai Vil-\nniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu\nLenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-\nkimus nudraskė."
+  citata_rodoma: |
+    Dar nesusigaudę kur pateko, vokiečiai Vil-
+    niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
+    Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
+    kimus nudraskė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 

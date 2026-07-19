@@ -193,7 +193,18 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
     O didysis kunigaikštis Skirgaila pats vienas perplau­
     kė upę ir pasislėpė Kreivojoje pilyje. Jr didysis kuni­
     gaikštis Vytautas pasivijo jį Kreivojoje pilyje.
-  citata_rodoma: "Ir dievas padėjo didžiajam kunigaikš­\nčiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­\nsiškai. o kiti išbėgiojo ir daugybė jų buvo nukauta. \nDaugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­\nnigaikštį Simoną, Jaunučio sūnų I S , Smolensko kuni­\ngaikštį Glėbą, Svetoslavo sūnų l6 , kunigaikštį Glėbą, \nKonstantino sūnų l7 , kunigaikštį Joną Tetą1 * , Levą Plak- \nsičių '9 , ir paėmė daugelį kitų kunigaikščių.\nKunigaikštis Vytautas su visomis pajėgomis vėl iš­\nžygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti \nKreivąją pilį bei šaudyti iš patrankų."
+  citata_rodoma: |
+    Ir dievas padėjo didžiajam kunigaikš­
+    čiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­
+    siškai. o kiti išbėgiojo ir daugybė jų buvo nukauta.
+    Daugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­
+    nigaikštį Simoną, Jaunučio sūnų I S , Smolensko kuni­
+    gaikštį Glėbą, Svetoslavo sūnų l6 , kunigaikštį Glėbą,
+    Konstantino sūnų l7 , kunigaikštį Joną Tetą1 * , Levą Plak-
+    sičių '9 , ir paėmė daugelį kitų kunigaikščių.
+    Kunigaikštis Vytautas su visomis pajėgomis vėl iš­
+    žygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti
+    Kreivąją pilį bei šaudyti iš patrankų.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -217,7 +228,18 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
     tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
     senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
     didžiai garbinama lietuvių.
-  citata_rodoma: "Iš žalio slėnio gilumos, ant paskutiniojo iš kal­\nnų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, \nbuvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­\nta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų \npusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­\nsiausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, \npalei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­\nmingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­\ntis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų \nsenovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, \ndidžiai garbinama lietuvių."
+  citata_rodoma: |
+    Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
+    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
+    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
+    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­
+    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
+    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
+    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
+    didžiai garbinama lietuvių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -253,7 +275,30 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
     lengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­
     tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
     rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.
-  citata_rodoma: "Kunigaikščio rūmų pastatai, \nkuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;\n1 je, kur šiais laikais buvo profesoriaus\nArklidės buvo erdvios, keturkam- Špicnagelio sodas, tarp pilies kalno \npės, pastatytos iš medžio toje vieto- ir karaliaus malūno\n107\n\n## Puslapis 124\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\no pilį supančios sienos kampe, pietvakarių pusėje, stovėjo \naukštas mūrinis namas, užsibaigiantis keturiais bokšteliais, \nkurį Vladislovas Jogaila vėliau paskyrė Vilniaus vyskupų \ngyvenamajam būstui2. Šalimais jo apvalus bokštas, iš plytų \nir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai \nskelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­\nlies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­\ntinių tvora, paskui Vilnios upės vandenų skalaujama iš vie­\nnos pusės, o iš kitos - jos perkasos, dar Gedimino laikais \niškastos, - pilį puolantiems Lietuvos priešams sudarė ne­\nlengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­\ntų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­\nrių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją."
+  citata_rodoma: |
+    Kunigaikščio rūmų pastatai,
+    kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;
+    1 je, kur šiais laikais buvo profesoriaus
+    Arklidės buvo erdvios, keturkam- Špicnagelio sodas, tarp pilies kalno
+    pės, pastatytos iš medžio toje vieto- ir karaliaus malūno
+    107
+
+    ## Puslapis 124
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    o pilį supančios sienos kampe, pietvakarių pusėje, stovėjo
+    aukštas mūrinis namas, užsibaigiantis keturiais bokšteliais,
+    kurį Vladislovas Jogaila vėliau paskyrė Vilniaus vyskupų
+    gyvenamajam būstui2. Šalimais jo apvalus bokštas, iš plytų
+    ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai
+    skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­
+    lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­
+    tinių tvora, paskui Vilnios upės vandenų skalaujama iš vie­
+    nos pusės, o iš kitos - jos perkasos, dar Gedimino laikais
+    iškastos, - pilį puolantiems Lietuvos priešams sudarė ne­
+    lengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­
+    tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
+    rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

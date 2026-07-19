@@ -151,7 +151,17 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
-  citata_rodoma: "radikalios – intensyviai kurdamas katalikiškų institucijų tinklą, valdovas \natsigręžė ir į stačiatikybę. 1415 m. Naugarduke sušaukęs LDK stačiatikių \nvyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją \npaskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-\nblaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o \nG. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų \nbažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos \nidėją (ji įgyvendinta vėliau – 1439 m. Florencijoje)."
+  citata_rodoma: |
+    radikalios – intensyviai kurdamas katalikiškų institucijų tinklą, valdovas
+    atsigręžė ir į stačiatikybę. 1415 m. Naugarduke sušaukęs LDK stačiatikių
+    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
+    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
+    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
+    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
+    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
+    idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,10 @@ Nenurodyta
     žiuodavo dešimtys tūkstančių maldininkų. Jie ne tik meldėsi, bendrau-
     davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
     literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
-  citata_rodoma: "Jie ne tik meldėsi, bendrau-\ndavo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos \nliteratūros: maldaknygių, katekizmų ar Šventojo Rašto."
+  citata_rodoma: |
+    Jie ne tik meldėsi, bendrau-
+    davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
+    literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

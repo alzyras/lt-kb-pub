@@ -110,7 +110,10 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
     ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
     drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
     moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
-  citata_rodoma: "Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis\nKappershagen (Sch-K) deš. Alnos žemupio krante  į pietus nuo Vėluvos. Galbūt tai\nsuvokietinta Kapsteta (Capostete)."
+  citata_rodoma: |
+    Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis
+    Kappershagen (Sch-K) deš. Alnos žemupio krante  į pietus nuo Vėluvos. Galbūt tai
+    suvokietinta Kapsteta (Capostete).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -132,7 +135,16 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
     ir patraukė į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito
     pilį334, ir anksčiau aprašytu būdu ją užėmė; paėmęs pilyje ir jos apylinkėse daug žmonių
     į nelaisvę ir daug nukovęs, ją iki pamatų sudegino.
-  citata_rodoma: "su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę\nprie sienų kopėčias bei padarę visa kita, kas reikalinga pilims pulti, užkariavo Kapstetos\npilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę žmonių,\ndaugybę nukovę, o visą žemę nusiaubė, grobdami ir degindami.\n\n\n\n\n     75 (74)."
+  citata_rodoma: |
+    su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę
+    prie sienų kopėčias bei padarę visa kita, kas reikalinga pilims pulti, užkariavo Kapstetos
+    pilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę žmonių,
+    daugybę nukovę, o visą žemę nusiaubė, grobdami ir degindami.
+
+
+
+
+         75 (74).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -96,7 +96,10 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
     nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
     Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
-  citata_rodoma: "Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.\nS. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,\nfilol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai."
+  citata_rodoma: |
+    Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
+    S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
+    filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -113,7 +116,11 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
     upės vardo. Senoji baltiška forma greičiausiai turėtų būti *Labjava/*Labjuva>*Labiava
     / *Labiuva, plg. Laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas
     A., Dėl vietovardžio Labguva..., p. 185—189).
-  citata_rodoma: "Vardas Labguva/ Labgava kilęs iš tokio pat\nupės vardo. Senoji baltiška forma greičiausiai turėtų būti *Labjava/*Labjuva>*Labiava\n/ *Labiuva, plg. Laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas\nA., Dėl vietovardžio Labguva..., p. 185—189)."
+  citata_rodoma: |
+    Vardas Labguva/ Labgava kilęs iš tokio pat
+    upės vardo. Senoji baltiška forma greičiausiai turėtų būti *Labjava/*Labjuva>*Labiava
+    / *Labiuva, plg. Laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas
+    A., Dėl vietovardžio Labguva..., p. 185—189).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

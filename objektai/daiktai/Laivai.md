@@ -594,7 +594,11 @@ Nenurodyta
     užtrukus, Kęstutis išgirdo, kad galingas Jogailos šalininkas Di­
     mitras Kaributas, Novgorodo Sieversko valdytojas, atsisakė jo
     klausyti ir mokėti duoklę didžiojo kunigaikščio iždui.
-  citata_rodoma: "Jis darė 1382 m. sausio mėn. žygius į jo\nžemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­\nmotomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir\nsustojo ties Jurbarku."
+  citata_rodoma: |
+    Jis darė 1382 m. sausio mėn. žygius į jo
+    žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­
+    motomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir
+    sustojo ties Jurbarku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -616,7 +620,12 @@ Nenurodyta
     no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
     apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
     sos įtakos į Nemuną.
-  citata_rodoma: "Gavęs Jogai­\nlos apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­\npos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­\nlos ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­\nno seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu"
+  citata_rodoma: |
+    Gavęs Jogai­
+    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
+    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
+    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
+    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -637,7 +646,12 @@ Nenurodyta
     atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
     lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
     100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
-  citata_rodoma: "Kai 1313 m. kry­\nžiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »\natplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,\nlietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su\n100 laivų, kurie priešą nuvijo, o laivą sudegino^21."
+  citata_rodoma: |
+    Kai 1313 m. kry­
+    žiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »
+    atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
+    lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
+    100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -659,7 +673,11 @@ Nenurodyta
     dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
     nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
     jie bus turėję ir laivų.
-  citata_rodoma: "Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai\ndažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-\nnijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi\njie bus turėję ir laivų."
+  citata_rodoma: |
+    Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai
+    dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
+    nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
+    jie bus turėję ir laivų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -677,7 +695,9 @@ Nenurodyta
     lietuviai skaudžiai pralaimėjo. Prie ano meto didžių skaičių pamė­
     gimo, Dusburgas užrašė, jog ten kautynėse žuvę 4000 lietuvių ir
     rygiečių^35.
-  citata_rodoma: "Su rygiečiais atvykę laivais griauti Neuermühleno pilies,\nlietuviai skaudžiai pralaimėjo."
+  citata_rodoma: |
+    Su rygiečiais atvykę laivais griauti Neuermühleno pilies,
+    lietuviai skaudžiai pralaimėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -701,7 +721,18 @@ Nenurodyta
     įplaukė į Nemuną. Mūsų istorikai
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
-  citata_rodoma: "9 4 .\n52\nTas žygis buvo paskubomis ir slap­\nta suruoštas, ir todėl didysis magist­\nras tuokart mažai teturėjo svetimša­\nlių, juk nesigarsino po visą Europą, \no slapčia iš Marienburgo išplaukė \nVysla laivais, paskui jūros įlanka \nįplaukė į Nemuną. Mūsų istorikai \nbendrais bruožais ir ne taip išsamiai \napie šitai pasakoja."
+  citata_rodoma: |
+    9 4 .
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -752,7 +783,14 @@ Nenurodyta
     netgi nedviprasmiškai nurodo šios didelės pergalės prie­
     žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
     Onevu, perėjimą į priešo pusę.
-  citata_rodoma: "Šie, susirinkę labai daug savo valčių, stojo\nį mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su\nnedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas\nrusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką."
+  citata_rodoma: |
+    Šie, susirinkę labai daug savo valčių, stojo
+    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
+    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
+    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

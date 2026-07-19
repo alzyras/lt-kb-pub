@@ -108,7 +108,15 @@ Nenurodyta
     nigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo
     įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė
     didysis kunigaikštis.
-  citata_rodoma: "priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje\nEuropoje, būtent klebonus skirdavo tas, kas pastatydavo ir\n\naprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis\nkunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-\nnigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo\nįkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė\ndidysis kunigaikštis."
+  citata_rodoma: |
+    priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje
+    Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir
+
+    aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis
+    kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-
+    nigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo
+    įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė
+    didysis kunigaikštis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

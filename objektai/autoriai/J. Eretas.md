@@ -97,7 +97,9 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
     8 dol.
     J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro
     ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.
-  citata_rodoma: "J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro\nir jo bendrininkų gyvenimas bei veikla, paruošta spaudai."
+  citata_rodoma: |
+    J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro
+    ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

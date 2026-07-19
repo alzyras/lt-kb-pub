@@ -93,7 +93,14 @@ Nenurodyta
     kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
     vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
     kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
-  citata_rodoma: "Apie nuostabų atsitikimą šiame kare\n\n  Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia  į žygį ne\nvienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti\nkamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,\nvienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,\nkodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino."
+  citata_rodoma: |
+    Apie nuostabų atsitikimą šiame kare
+
+      Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia  į žygį ne
+    vienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti
+    kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
+    vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
+    kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

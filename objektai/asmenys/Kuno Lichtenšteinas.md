@@ -79,7 +79,8 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
     nukreiptas prieš lenkus, kitas – prieš lietuvius – sudarė frontą. Prasidėjus
     mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
     vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
-  citata_rodoma: "mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,"
+  citata_rodoma: |
+    mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

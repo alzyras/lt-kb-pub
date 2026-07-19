@@ -225,7 +225,17 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     manytume buvus.
     g
     Post haec XI Kalendas Junii Fr.
-  citata_rodoma: "Jeigu mes net tarsime, kad ta pilis Vilniuje \ngerokai anksčiau pastatyta, tai Dusburgas, Gedimino \namžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­\ndemini, juk pats Gediminas, arba rygiečiai, dar prieš metus \nviešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­\nniaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­\ngi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs \nbūti ta vadinama Castrum Gedemini, yra visiškai atmestina. \nMes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį \nmanytume buvus."
+  citata_rodoma: |
+    Jeigu mes net tarsime, kad ta pilis Vilniuje
+    gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
+    amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­
+    demini, juk pats Gediminas, arba rygiečiai, dar prieš metus
+    viešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­
+    niaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­
+    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
+    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
+    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
+    manytume buvus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -272,7 +282,16 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     jo išsišokimą, kuris mums bevertis ir bereikšmis. O todėl ne­
     pritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri­
     vį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs.
-  citata_rodoma: "O \nkad šis palyginimas yra toks pat beprasmis ir netinkamas kaip \nRomovės kildinimas iš Romos, šito mažamokslis ordino kro­\nnikininkas, be abejo, nesuvokė.\nNet atrodo, kad yra pagrindo manyti, jog jis tuo palygini­\nmu norėjo užmaskuoti savo nežinojimą, matomą iš žodžiųqui- \ndam didus Crive (vienas žmogus, vadintas kriviu). Tad atlei­\ndžiame Dusburgiečiui šį palyginimą, kaip jam būdingą, kaip \njo išsišokimą, kuris mums bevertis ir bereikšmis."
+  citata_rodoma: |
+    O
+    kad šis palyginimas yra toks pat beprasmis ir netinkamas kaip
+    Romovės kildinimas iš Romos, šito mažamokslis ordino kro­
+    nikininkas, be abejo, nesuvokė.
+    Net atrodo, kad yra pagrindo manyti, jog jis tuo palygini­
+    mu norėjo užmaskuoti savo nežinojimą, matomą iš žodžiųqui-
+    dam didus Crive (vienas žmogus, vadintas kriviu). Tad atlei­
+    džiame Dusburgiečiui šį palyginimą, kaip jam būdingą, kaip
+    jo išsišokimą, kuris mums bevertis ir bereikšmis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

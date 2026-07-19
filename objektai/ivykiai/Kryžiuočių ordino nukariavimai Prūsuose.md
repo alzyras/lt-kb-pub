@@ -196,7 +196,12 @@ Nenurodyta
     esant nelaisvėje, ordinas pasirūpino, kad ir imperatorius ir popie-
     žius pripažintų jam visus Prūsų ir kitų pagonių nukariaujamus
     kraštus.
-  citata_rodoma: "Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę,\niš kurios ordinas nesirūpino jo išvaduoti net 5 metus. Vyskupui\nesant nelaisvėje, ordinas pasirūpino, kad ir imperatorius ir popie-\nžius pripažintų jam visus Prūsų ir kitų pagonių nukariaujamus\nkraštus."
+  citata_rodoma: |
+    Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę,
+    iš kurios ordinas nesirūpino jo išvaduoti net 5 metus. Vyskupui
+    esant nelaisvėje, ordinas pasirūpino, kad ir imperatorius ir popie-
+    žius pripažintų jam visus Prūsų ir kitų pagonių nukariaujamus
+    kraštus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -214,7 +219,11 @@ Nenurodyta
     riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.
     Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
     karus, ir ordinui į talką plaukdavo minios karių.
-  citata_rodoma: "Be\nriterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.\nBe to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus\nkarus, ir ordinui į talką plaukdavo minios karių."
+  citata_rodoma: |
+    Be
+    riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.
+    Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
+    karus, ir ordinui į talką plaukdavo minios karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

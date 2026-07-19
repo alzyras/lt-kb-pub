@@ -109,7 +109,16 @@ Nenurodyta
     malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad
     pačioje pradžioje užgesintų įsiliepsnojančią ir bemaž
     jau įsiplieskiančią karo ugnį.
-  citata_rodoma: "Susitaręs su Vytautu, Jo­\ngaila, dėdamasis turįs visai kitų ketinimų, atvyko į\nKauną. Nelyginant į vaišes čia pasikvietė kryžiuočių\nvadovus. Vieniems ir kitiems rodant abipusį palanku­\nmą ir reiškiant džiaugsmą, dėl neseniai sudarytos su­\ntarties, pradėta kalbėti apie taiką: karalius ir Vytautas\npatys pradėjo tą reikalą gvildenti bei šį tą siūlyti ir\nkryžiuočių teirautis, ko reikia imtis, kad Prūsija ir Lie­\ntuva gyventų tvirtos ir pastovios taikos sąlygomis."
+  citata_rodoma: |
+    Susitaręs su Vytautu, Jo­
+    gaila, dėdamasis turįs visai kitų ketinimų, atvyko į
+    Kauną. Nelyginant į vaišes čia pasikvietė kryžiuočių
+    vadovus. Vieniems ir kitiems rodant abipusį palanku­
+    mą ir reiškiant džiaugsmą, dėl neseniai sudarytos su­
+    tarties, pradėta kalbėti apie taiką: karalius ir Vytautas
+    patys pradėjo tą reikalą gvildenti bei šį tą siūlyti ir
+    kryžiuočių teirautis, ko reikia imtis, kad Prūsija ir Lie­
+    tuva gyventų tvirtos ir pastovios taikos sąlygomis.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

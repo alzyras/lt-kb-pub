@@ -107,15 +107,31 @@ Baltų / prūsų regioninė grupė.
     apie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­
     biausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­
     džiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­
-    gutį, Santvarą, Žemininką - dievus, kuriuos M. Strijkovskis
+    gutį, Santvarą, Žemininką -  dievus, kuriuos M. Strijkovskis
     laiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-
     mą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­
     skis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-
-    knochas - prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
+    knochas -  prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
     kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
     ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
     vu.
-  citata_rodoma: "T. Narbutas ne­\nkompiliavo senųjų šaltinių, tačiau lietuviais laikydamas visus\nbaltus, analizuodamas vieną ar kitą jų mitologijos reiškinį, sten­\ngėsi surinkti duomenis iš visų jų gyventų arealų (Lietuvos, Prū­\nsijos, Latvijos) ir kartu juos pateikti. Pavyzdžiui, kalbėdamas\napie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­\nbiausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­\ndžiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­\ngutį, Santvarą, Žemininką -  dievus, kuriuos M. Strijkovskis\nlaiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-\nmą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­\nskis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-\nknochas -  prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,\nkuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,\nir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­\nvu."
+  citata_rodoma: |
+    T. Narbutas ne­
+    kompiliavo senųjų šaltinių, tačiau lietuviais laikydamas visus
+    baltus, analizuodamas vieną ar kitą jų mitologijos reiškinį, sten­
+    gėsi surinkti duomenis iš visų jų gyventų arealų (Lietuvos, Prū­
+    sijos, Latvijos) ir kartu juos pateikti. Pavyzdžiui, kalbėdamas
+    apie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­
+    biausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­
+    džiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­
+    gutį, Santvarą, Žemininką -  dievus, kuriuos M. Strijkovskis
+    laiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-
+    mą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­
+    skis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-
+    knochas -  prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
+    kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
+    ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
+    vu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

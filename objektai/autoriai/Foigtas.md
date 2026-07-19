@@ -127,7 +127,12 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
     sulaukę žilos senatvės, jie paprastai surengdavo liaudžiai tokį
     pat reginį. Šia tema Hartknochas pateikė tokią ištrauką iš se­
     nesnių kronikų (p. 154): „Pirmiausia vaidilos sušaukia žmo- 12
-  citata_rodoma: "Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet\njų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­\nta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo\nseno žinomos germanų tautoms. Tačiau mūsų to dalyko su­\npratimu sunku su tuo sutikti."
+  citata_rodoma: |
+    Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
+    jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
+    ta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo
+    seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
+    pratimu sunku su tuo sutikti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -148,7 +153,12 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
     Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,
     panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-
     bad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.
-  citata_rodoma: "Tie­\nsa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,\nkadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-\ntas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.\n4 Dusburg."
+  citata_rodoma: |
+    Tie­
+    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
+    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
+    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
+    4 Dusburg.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

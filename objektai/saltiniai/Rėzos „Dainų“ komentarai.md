@@ -73,12 +73,17 @@ Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūs
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jį gerdavo šiltą, kaip kavą. Šį gėrimą mini padavimai, o
-    senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo­
-    niams tai esąs labai stiprinantis dalykas. Degintą degtinę su
-    medumi žmonės lenkiškai vadina krupniku (Knipniczek); tas
-    slaviškas pavadinimas tikriausiai kilęs iš to lietuviško gėrimo.
-  citata_rodoma: "Ponas Rėza „Dainų“ komentaruose pažy­\nmi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama\nBier. Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­\nvėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:\nbe jokių prieskonių."
+    Ponas Rėza „Dainų“ komentaruose pažy­
+    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
+    Bier. Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
+    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
+    be jokių prieskonių.
+  citata_rodoma: |
+    Ponas Rėza „Dainų“ komentaruose pažy­
+    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
+    Bier. Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
+    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
+    be jokių prieskonių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

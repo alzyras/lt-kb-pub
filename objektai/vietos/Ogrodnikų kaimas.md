@@ -90,7 +90,12 @@ media_all_json: |-
     sukęs į dešinę pusę. Lygus užrašas, prasidedantis nuo skydelio
     dešiniojo krašto, yra toks: ZEMAJTAS: MINZIOS, tai yra: Že­
     maičių moneta.
-  citata_rodoma: "Nematyti jokio užrašo.\n1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­\nčios upės pakrantės skardyje, kaimietis rado senų sidabrinių\npinigų. 1832 metais iš jų gavau penkis vienetus iš trijų rūšių\nmonetų, kurios sudarė tą lobį."
+  citata_rodoma: |
+    Nematyti jokio užrašo.
+    1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­
+    čios upės pakrantės skardyje, kaimietis rado senų sidabrinių
+    pinigų. 1832 metais iš jų gavau penkis vienetus iš trijų rūšių
+    monetų, kurios sudarė tą lobį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

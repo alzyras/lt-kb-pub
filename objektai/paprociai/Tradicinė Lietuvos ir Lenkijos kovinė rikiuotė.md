@@ -101,7 +101,14 @@ Nenurodyta
     vaidmenį pralaužant priešo kariuomenės rikiuotę. Lengvoji raitija
     buvo rikiuojama sparnuose ir palaikydavo sunkiųjų raitelių ataką
     flanguodama priešininką.
-  citata_rodoma: "Xv a. pabaigoje - xvi a. pradžioje susiformavo kovinė rikiuotė, kuri\nilgam laikui tapo tradicine Lietuvoje ir Lenkijoje. Mūšiui kariuo-\nmenės centre dviem ešelonais, viena už kitos išsidėstydavo sun-\nkiųjų raitelių vėliavos. Centras mūšio metu atlikdavo pagrindinį\nvaidmenį pralaužant priešo kariuomenės rikiuotę. Lengvoji raitija\nbuvo rikiuojama sparnuose ir palaikydavo sunkiųjų raitelių ataką\nflanguodama priešininką."
+  citata_rodoma: |
+    Xv a. pabaigoje - xvI a. pradžioje susiformavo kovinė rikiuotė, kuri
+    ilgam laikui tapo tradicine Lietuvoje ir Lenkijoje. Mūšiui kariuo-
+    menės centre dviem ešelonais, viena už kitos išsidėstydavo sun-
+    kiųjų raitelių vėliavos. Centras mūšio metu atlikdavo pagrindinį
+    vaidmenį pralaužant priešo kariuomenės rikiuotę. Lengvoji raitija
+    buvo rikiuojama sparnuose ir palaikydavo sunkiųjų raitelių ataką
+    flanguodama priešininką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -121,7 +128,14 @@ Nenurodyta
     tininkus bei artileriją, kurie pradėti rikiuoti tarp centro sunkiosios
     kavalerijos vėliavų ir lengvosios kavalerijos sparnų, ir paremdavo
     ugnimi centro pajėgų atakas.
-  citata_rodoma: "Tuo metu pėstininkų ir artilerijos vaidmuo mūšio lauke dar ne-\nbuvo labai reikšmingas. K. Ostrogiškio sprendimai, išnaudojant\nartileriją Oršos mūšyje, buvo tam metui nestandartiški ir netgi\nnovatoriški. xVI a. antrojoje pusėje imta efektyviau išnaudoti pės-\ntininkus bei artileriją, kurie pradėti rikiuoti tarp centro sunkiosios\nkavalerijos vėliavų ir lengvosios kavalerijos sparnų, ir paremdavo\nugnimi centro pajėgų atakas."
+  citata_rodoma: |
+    Tuo metu pėstininkų ir artilerijos vaidmuo mūšio lauke dar ne-
+    buvo labai reikšmingas. K. Ostrogiškio sprendimai, išnaudojant
+    artileriją Oršos mūšyje, buvo tam metui nestandartiški ir netgi
+    novatoriški. xVI a. antrojoje pusėje imta efektyviau išnaudoti pės-
+    tininkus bei artileriją, kurie pradėti rikiuoti tarp centro sunkiosios
+    kavalerijos vėliavų ir lengvosios kavalerijos sparnų, ir paremdavo
+    ugnimi centro pajėgų atakas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -349,7 +349,11 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
     įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
     Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
-  citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė\nnužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos."
+  citata_rodoma: |
+    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
+    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
+    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė
+    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -438,7 +442,15 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė
     juos ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
     paspruko, kad galėtų kitiems apie tai papasakoti.
-  citata_rodoma: "Apie Lenkijos žemės apiplėšimą\n\n  Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele\nkariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių\nnukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos\nkunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos\nmagistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji\nkunigaikščiai pasileido bėgti su visais savo lenkais."
+  citata_rodoma: |
+    Apie Lenkijos žemės apiplėšimą
+
+      Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
+    kariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
+    kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
+    magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
+    kunigaikščiai pasileido bėgti su visais savo lenkais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

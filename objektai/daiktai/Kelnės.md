@@ -75,7 +75,8 @@ Nenurodyta
     kitas ir išmokdavo. Kur valgo, ten gauna viršutinį apsiaustą, bet marš­
     kinius ir kelnes gauna pasavaičiui. Kelnės visada parištos virvele prie
     blauzdų.
-  citata_rodoma: "Kelnės visada parištos virvele prie blauzdų."
+  citata_rodoma: |
+    Kelnės visada parištos virvele prie blauzdų.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -94,7 +95,8 @@ Nenurodyta
     Piemeniukas, turėdamas rankoje įtakingą įrankį, mėgindavo jį pūsti:
     kitas ir išmokdavo. Kur valgo, ten gauna viršutinį apsiaustą, bet marš­
     kinius ir kelnes gauna pasavaičiui.
-  citata_rodoma: "Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui."
+  citata_rodoma: |
+    Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas

@@ -599,7 +599,14 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
     dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
     skolinius.
-  citata_rodoma: "Užsimezgė vakarinių baltų (prūsų) santykiai ir su germanais,\nnes paskutiniajame amžiuje pr. Kr. ir pirmajame po Kr. Vyslos\nžemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­\nsių plote iki Alnos upės. Lietuvos teritorijos jie nepalietė ir dides­\nnės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­\ndami su prūsais, gotai jiems tame laikotarpyje yra davę devynius\nskolinius."
+  citata_rodoma: |
+    Užsimezgė vakarinių baltų (prūsų) santykiai ir su germanais,
+    nes paskutiniajame amžiuje pr. Kr. ir pirmajame po Kr. Vyslos
+    žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­
+    sių plote iki Alnos upės. Lietuvos teritorijos jie nepalietė ir dides­
+    nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
+    dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
+    skolinius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -696,7 +703,23 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     ir
     skirtingas
     šakas*.
-  citata_rodoma: "Si \nkeltų šaka, išsiplėtusi Siaurės krašte, skyrėsi nuo jai \ngiminingų genčių savo ypatingu azartinių žygių pomė­\ngiu, neramiu charakteriu, neprisirišimu prie vienos vie­\ntos, polinkiu grobti ir panieka žmoniškumo teisėms. Jie \nturėjo gana aukštą civilizacijos lygį, bet jų papročiai bu­\nvo žiaurūs, jie nepasigailėdavo nė vieno, kurį įtarė esant \njų priešą. Antra vertus, galima gėrėtis jų drąsa sausu­\nmoje ir jūroje, laivybos meno išradingumu, nepailstamu \ndarbštumu, ir, jei nepaliausime vertinę jų karingumo po-\n1 Žinoma, jog gotai kildinami iš germanų, tačiau ši kaukazielių- \neuropiečių genties padermė yra ta pati kaip ir kelių, tik padalyta Į \ndvi dideles \nir \nskirtingas \nšakas*."
+  citata_rodoma: |
+    Si
+    keltų šaka, išsiplėtusi Siaurės krašte, skyrėsi nuo jai
+    giminingų genčių savo ypatingu azartinių žygių pomė­
+    giu, neramiu charakteriu, neprisirišimu prie vienos vie­
+    tos, polinkiu grobti ir panieka žmoniškumo teisėms. Jie
+    turėjo gana aukštą civilizacijos lygį, bet jų papročiai bu­
+    vo žiaurūs, jie nepasigailėdavo nė vieno, kurį įtarė esant
+    jų priešą. Antra vertus, galima gėrėtis jų drąsa sausu­
+    moje ir jūroje, laivybos meno išradingumu, nepailstamu
+    darbštumu, ir, jei nepaliausime vertinę jų karingumo po-
+    1 Žinoma, jog gotai kildinami iš germanų, tačiau ši kaukazielių-
+    europiečių genties padermė yra ta pati kaip ir kelių, tik padalyta Į
+    dvi dideles
+    ir
+    skirtingas
+    šakas*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -767,7 +790,17 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     reikia prisiminti, kad pirmiausia spaliai atvyko į tas Va­
     karų šalis nuo Azovo jūros, o vėliau visi ar galbūt veik­
     lesnė jų dalis keliavo su gotais.
-  citata_rodoma: "161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus. Bet\natsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir\nbuvo nuneštas srovės. Yra senovės istorikų prielaidų, jog\nFilimeras, baimindamasis didelio žmonių susigrūdimo,\nnes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­\nkį. Taip pusė gotų gyventojų šįsyk liko kitapus Vyslos."
+  citata_rodoma: |
+    161 krikščioniško­
+    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
+    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
+    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
+    met ribojo senovės geografų taip pavadintus kraštus. Bet
+    atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir
+    buvo nuneštas srovės. Yra senovės istorikų prielaidų, jog
+    Filimeras, baimindamasis didelio žmonių susigrūdimo,
+    nes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­
+    kį. Taip pusė gotų gyventojų šįsyk liko kitapus Vyslos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -866,7 +899,22 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
     pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
     lius.
-  citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
+  citata_rodoma: |
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

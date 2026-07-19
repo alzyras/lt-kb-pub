@@ -147,7 +147,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
     «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
     vilko » sapno yra nebeįsivaizduojama.
-  citata_rodoma: "Geležinio vilko legenda, be abejo, primena\nRomos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę\niš romėnų. Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo\nį savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be\n«Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio\nvilko » sapno yra nebeįsivaizduojama."
+  citata_rodoma: |
+    Geležinio vilko legenda, be abejo, primena
+    Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę
+    iš romėnų. Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
+    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
+    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
+    vilko » sapno yra nebeįsivaizduojama.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

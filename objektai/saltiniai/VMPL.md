@@ -60,7 +60,11 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
 
     (^5) **VMPL, I, nr. 693.**
     (^6) **VMPL, I, nr. 692.
-  citata_rodoma: "Abi pusi tą susitarimą patvirtino priesaiko-\n\n(^5) **VMPL, I, nr. 693.**\n(^6) **VMPL, I, nr."
+  citata_rodoma: |
+    Abi pusi tą susitarimą patvirtino priesaiko-
+
+    (^5) **VMPL, I, nr. 693.**
+    (^6) **VMPL, I, nr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

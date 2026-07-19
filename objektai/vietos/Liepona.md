@@ -65,7 +65,10 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
     Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
     visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
     Šešupėn. Šešupės krantu ji ėjo per girių masyvus.
-  citata_rodoma: "Sūduvos dykroje toliau siena buvo nužymėta upių krantais :\nvisu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo\nŠešupėn. Šešupės krantu ji ėjo per girių masyvus."
+  citata_rodoma: |
+    Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
+    visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
+    Šešupėn. Šešupės krantu ji ėjo per girių masyvus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

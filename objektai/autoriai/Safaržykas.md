@@ -194,7 +194,14 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
     2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
     lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
     (Zeller.
-  citata_rodoma: "Vadi­\nnasi, čia gyventa jau iki IV amžiaus.\n1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus\nmano buvus slavus, kuriuos kadaise nukariavo skitai*.\n2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­\nlių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai\n(Zeller."
+  citata_rodoma: |
+    Vadi­
+    nasi, čia gyventa jau iki IV amžiaus.
+    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
+    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
+    2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
+    lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
+    (Zeller.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -73,7 +73,8 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
     prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas.
-  citata_rodoma: "Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,"
+  citata_rodoma: |
+    Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

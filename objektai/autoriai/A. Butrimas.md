@@ -64,9 +64,11 @@ Butrimas ir kiti.
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Chicago, 2010; Lietuva
-    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose.
-  citata_rodoma: "Chicago, 2010; Lietuva\n1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose."
+    Lietuva
+    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009;
+  citata_rodoma: |
+    Lietuva
+    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009;
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

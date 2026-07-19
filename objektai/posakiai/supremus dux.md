@@ -68,7 +68,9 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
     niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą
     iki gyvos galvos. Taip didysis magistras jį jau titulavo Salyno
     taikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m.
-  citata_rodoma: "Taip didysis magistras jį jau titulavo Salyno\ntaikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m."
+  citata_rodoma: |
+    Taip didysis magistras jį jau titulavo Salyno
+    taikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

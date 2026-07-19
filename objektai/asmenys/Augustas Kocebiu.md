@@ -95,7 +95,17 @@ Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. R
     17 Pagal lietuvių kalbos ypatybes žodis Lelus, latviškai Leels reiš­
     kia šviesųjį (excellens), kai taikomas žmogui, ir didįjį (magnus), kai
     kalbama ne apie žmogų, o apie negyvą daiktą.
-  citata_rodoma: "Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro\nd’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki\n1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį\nbuvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,\nypač mitologiją liečiančius dalykus**.\n101\n\n## Puslapis 101\n\nir kiekvienos ligos, išsigydymo šaltinis."
+  citata_rodoma: |
+    Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
+    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
+    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
+    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
+    ypač mitologiją liečiančius dalykus**.
+    101
+
+    ## Puslapis 101
+
+    ir kiekvienos ligos, išsigydymo šaltinis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

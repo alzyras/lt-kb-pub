@@ -62,7 +62,11 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
     Slavic and Baltic_ , Slavonic and East European Revue, XX, 1941. —
     (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
     Zeitschr. für vergleichende Sprachforschung, t. 70, 1954.
-  citata_rodoma: "— Senn, A. : _On the Kinship between\nSlavic and Baltic_ , Slavonic and East European Revue, XX, 1941. —\n(”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_\nZeitschr."
+  citata_rodoma: |
+    — Senn, A. : _On the Kinship between
+    Slavic and Baltic_ , Slavonic and East European Revue, XX, 1941. —
+    (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
+    Zeitschr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

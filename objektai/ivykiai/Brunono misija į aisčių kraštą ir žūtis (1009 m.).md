@@ -129,7 +129,11 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
     prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
     jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
     deda Lietuvos ribos.
-  citata_rodoma: "Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo\nAnnales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos\nir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas\nmisininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,"
+  citata_rodoma: |
+    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
+    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
+    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
+    misininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

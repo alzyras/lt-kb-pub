@@ -188,7 +188,13 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
     (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
     klausimą.
-  citata_rodoma: "Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-\nnijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-\nrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas \nį karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono \n(Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos \nklausimą."
+  citata_rodoma: |
+    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
+    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
+    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
+    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
+    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
+    klausimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -215,7 +221,10 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     klausimą. Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
     dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
     karo aukoms, jos metu surinkta 200 tūkst. dolerių.
-  citata_rodoma: "Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-\ndentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos \nkaro aukoms, jos metu surinkta 200 tūkst. dolerių."
+  citata_rodoma: |
+    Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
+    dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
+    karo aukoms, jos metu surinkta 200 tūkst. dolerių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -235,7 +244,9 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     čiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės
     srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo
     darbams.
-  citata_rodoma: "lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę, \npradėjo verslus, atidarė pramonės įmones, bankus."
+  citata_rodoma: |
+    lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę,
+    pradėjo verslus, atidarė pramonės įmones, bankus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

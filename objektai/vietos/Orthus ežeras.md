@@ -80,7 +80,11 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
     kančios upės, kurios susiliejusios sudaro Dalmatijos upę Naren-
     tą, arba Naroną, įtekančią į Adrijos jūrą ties Šventuoju Opusu
     (Opus).
-  citata_rodoma: "Šventų ežerų yra taip pat Nemuno kairiajame krante,\nkur ir miestelis [Šventežeris] turi tokį vardą.\n3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­\nkomas dievu."
+  citata_rodoma: |
+    Šventų ežerų yra taip pat Nemuno kairiajame krante,
+    kur ir miestelis [Šventežeris] turi tokį vardą.
+    3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­
+    komas dievu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -254,7 +254,12 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     nusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų.
     Kaip tik tuo metu šventosios Marijos ligoninės Teutonų namų ordino Jeruzalėje broliai
     pradėjo prieš juos naują karą.
-  citata_rodoma: "Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas\nPotyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra\nvadinamieji Dobrynės broliai. Tačiau prūsai, nutykoję gerą progą, arba nugalabydavo jų\nvadus bei tuos, kurie juos vedė į žygį, arba patys kur toliau nuo savęs nuvydavo; šitaip\nnusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų."
+  citata_rodoma: |
+    Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
+    Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
+    vadinamieji Dobrynės broliai. Tačiau prūsai, nutykoję gerą progą, arba nugalabydavo jų
+    vadus bei tuos, kurie juos vedė į žygį, arba patys kur toliau nuo savęs nuvydavo; šitaip
+    nusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -277,7 +282,12 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
     Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
     prieš Ordiną.
-  citata_rodoma: "Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų\nordino broliai pradėję su jais naują karą (II, 7)."
+  citata_rodoma: |
+    Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
+    ordino broliai pradėję su jais naują karą (II, 7).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -301,7 +311,18 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
-  citata_rodoma: "Apie Kristaus karių ordino brolius\n\n  Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau\nsuprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono\nir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi\nKristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo\nmetu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;\nminėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge\nsu juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems\n  165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis\nįvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten."
+  citata_rodoma: |
+    Apie Kristaus karių ordino brolius
+
+      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
+    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
+    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
+    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
+    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
+    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
+    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
+      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
+    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

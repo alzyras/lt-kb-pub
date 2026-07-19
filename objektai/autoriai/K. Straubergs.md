@@ -59,8 +59,12 @@ Straubergs, K.
     — Straubergs, K. : _Latvju sakrālā
     pasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga
     *1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic
-    University, nr. 3, Hamburg 1946 (žr. A. Mažiulis, rec.
-  citata_rodoma: "— Straubergs, K. : _Latvju sakrālā\npasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga\n*1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic\nUniversity, nr."
+    University, nr.
+  citata_rodoma: |
+    — Straubergs, K. : _Latvju sakrālā
+    pasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga
+    *1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic
+    University, nr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

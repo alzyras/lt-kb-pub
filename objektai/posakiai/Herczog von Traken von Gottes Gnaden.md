@@ -61,7 +61,10 @@ media_all_json: |-
     atvykęs su savo giminaičiais sausio mėn. 30 d., kaip „Herczog
     von Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­
     žadėdamas būti jo vasalu.
-  citata_rodoma: "30 d., kaip „Herczog\nvon Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­\nžadėdamas būti jo vasalu."
+  citata_rodoma: |
+    30 d., kaip „Herczog
+    von Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­
+    žadėdamas būti jo vasalu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

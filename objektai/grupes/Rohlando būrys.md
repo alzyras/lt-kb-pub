@@ -69,7 +69,9 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
     šovė Gelgaudą, laikydamas jį to negarbingo žygio kaltininku.
     Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
     lando būrys.
-  citata_rodoma: "Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-\nlando būrys."
+  citata_rodoma: |
+    Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
+    lando būrys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

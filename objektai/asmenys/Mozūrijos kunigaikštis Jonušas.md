@@ -70,7 +70,10 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     kunigaikščio Jono ir apsikrikštijo Marijos vardu. Danuta 1380
     m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
     taip pat Marijos vardu. 1392 m.
-  citata_rodoma: "Danuta 1380\nm. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama\ntaip pat Marijos vardu. 1392 m."
+  citata_rodoma: |
+    Danuta 1380
+    m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
+    taip pat Marijos vardu. 1392 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

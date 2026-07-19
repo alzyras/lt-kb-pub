@@ -82,7 +82,15 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
     čių pilkapi ų. Lietuvoje pilkapiai randami labai retai, dažnai sly­
     pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
     mę*.
-  citata_rodoma: "Po ketverto metų Žemaičių vyskupas Melchioras\nGiedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­\nmiečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­\nniško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­\nkai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo\nnuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­\nlų ir šventųjų girių iškirtimui."
+  citata_rodoma: |
+    Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo
+    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
+    lų ir šventųjų girių iškirtimui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

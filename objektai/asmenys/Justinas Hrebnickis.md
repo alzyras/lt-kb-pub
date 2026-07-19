@@ -72,7 +72,13 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
     onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
     kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose.
-  citata_rodoma: "Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­\nniuje susikūrė sukilimo centrinis komitetas, kuriam priklausė \nAntanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­\nonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­\nkas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­\nkarinėse Rusijos imperijos gubernijose."
+  citata_rodoma: |
+    Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
+    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
+    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
+    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
+    kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
+    karinėse Rusijos imperijos gubernijose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

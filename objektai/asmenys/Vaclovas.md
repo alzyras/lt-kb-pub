@@ -194,7 +194,20 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
     kitais broliais; rašoma, jog buvo išvesta tūkstantis du
     šimtai belaisvių. Vis dėlto tėvynėje jie patyrė ne ma­
     žesnių nuostolių iš vokiečių.
-  citata_rodoma: "Kadangi tyli ir metraš­\ntininkai, aišku, kad artimiausiais metais ir su kaimy­\nnais gyventa santaikoje, ir valstybės viduje nebuvo\njokių sambrūzdžių. Ramybė liovėsi, kai mirė Vanka,\narba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo\nseserį). Lietuviai, manydami, jog kunigaikščio mirtimi\nnutraukiama ir giminystė, ir\n1336 m e ta i\nsantarvė, su didžiule kariuo­\nmene lapkričio mėnesį nu­\nniokojo Mažo vi ją; žygyje dalyvavo pats Algirdas su\nkitais broliais; rašoma, jog buvo išvesta tūkstantis du\nšimtai belaisvių."
+  citata_rodoma: |
+    Kadangi tyli ir metraš­
+    tininkai, aišku, kad artimiausiais metais ir su kaimy­
+    nais gyventa santaikoje, ir valstybės viduje nebuvo
+    jokių sambrūzdžių. Ramybė liovėsi, kai mirė Vanka,
+    arba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo
+    seserį). Lietuviai, manydami, jog kunigaikščio mirtimi
+    nutraukiama ir giminystė, ir
+    1336 m e ta i
+    santarvė, su didžiule kariuo­
+    mene lapkričio mėnesį nu­
+    niokojo Mažo vi ją; žygyje dalyvavo pats Algirdas su
+    kitais broliais; rašoma, jog buvo išvesta tūkstantis du
+    šimtai belaisvių.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

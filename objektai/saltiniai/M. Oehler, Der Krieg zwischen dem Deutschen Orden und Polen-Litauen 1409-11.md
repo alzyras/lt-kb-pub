@@ -69,7 +69,9 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
     Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :
     _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
     421 p. — (”) _Rok 1410.
-  citata_rodoma: "— Oehler, M. : _Der Krieg zwischen den\nDeutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A."
+  citata_rodoma: |
+    — Oehler, M. : _Der Krieg zwischen den
+    Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

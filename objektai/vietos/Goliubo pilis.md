@@ -195,7 +195,13 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar
     išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
     turėjo didelių nuostolių sunkiai sužeistaisiais.
-  citata_rodoma: "Šie,\nsusijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio\n29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę\n\n  549 Goliubo pilis prie Drevantos,  į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.\nGolub-Dobrzyń."
+  citata_rodoma: |
+    Šie,
+    susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio
+    29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę
+
+      549 Goliubo pilis prie Drevantos,  į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.
+    Golub-Dobrzyń.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -214,7 +220,15 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi
     didelį grobį“. Henrikas nudžiugo ir, užsėdęs savo žirgą, nusekė iš paskos visokiausiais
     keliais ir šunkeliais.
-  citata_rodoma: "Pailsęs nuo rūpesčių ir palaužtas negalės,\nilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia\npasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.\n\n\n\n\n         280 (273)."
+  citata_rodoma: |
+    Pailsęs nuo rūpesčių ir palaužtas negalės,
+    ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
+    pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.
+
+
+
+
+             280 (273).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -234,7 +248,16 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
     apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
     ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
-  citata_rodoma: "268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262)."
+  citata_rodoma: |
+    268 (261) Apie penkių kaimų apiplėšimą
+
+      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
+    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
+
+
+
+
+       269 (262).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -261,7 +284,24 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
     apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
     ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
-  citata_rodoma: "Šis,\nbemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino\npilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,\nkai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.\n\n\n\n\n                   268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262)."
+  citata_rodoma: |
+    Šis,
+    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
+    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
+    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
+
+
+
+
+                       268 (261) Apie penkių kaimų apiplėšimą
+
+      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
+    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
+
+
+
+
+       269 (262).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -52,7 +52,8 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
-  citata_rodoma: "Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių."
+  citata_rodoma: |
+    Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -68,7 +69,10 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
     Antras rašytojas, gyvenąs pirmajame amžiuje gimus Kristui, savo garbingame rašte „Girionų
         būdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,
         beje, javus ir vaisius steigiai^1174 veisiantys.
-  citata_rodoma: "Antras rašytojas, gyvenąs pirmajame amžiuje gimus Kristui, savo garbingame rašte „Girionų\nbūdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,\nbeje, javus ir vaisius steigiai^1174 veisiantys."
+  citata_rodoma: |
+    Antras rašytojas, gyvenąs pirmajame amžiuje gimus Kristui, savo garbingame rašte „Girionų
+    būdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,
+    beje, javus ir vaisius steigiai^1174 veisiantys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

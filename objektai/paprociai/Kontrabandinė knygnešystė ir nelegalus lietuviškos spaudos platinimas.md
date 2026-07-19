@@ -145,7 +145,12 @@ Nenurodyta
     Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-
     nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose
     ir nelegalų jos platinimą Lietuvoje.
-  citata_rodoma: "Todėl jų bemaž niekas ir ne-\nskaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.\nParaginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-\nnizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose \nir nelegalų jos platinimą Lietuvoje."
+  citata_rodoma: |
+    Todėl jų bemaž niekas ir ne-
+    skaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.
+    Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-
+    nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose
+    ir nelegalų jos platinimą Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -75,7 +75,10 @@ Nenurodyta
     Ąžuolo gabalas, ku­
     riuo muša grūdus piestoje, vadinasi piestu. Jis per vidurį susiaurin­
     tas, kad galima būtų apkabinti delnu. Mušti tinka abudu galu.
-  citata_rodoma: "Ąžuolo gabalas, ku­\nriuo muša grūdus piestoje, vadinasi piestu. Jis per vidurį susiaurin­\ntas, kad galima būtų apkabinti delnu. Mušti tinka abudu galu."
+  citata_rodoma: |
+    Ąžuolo gabalas, ku­
+    riuo muša grūdus piestoje, vadinasi piestu. Jis per vidurį susiaurin­
+    tas, kad galima būtų apkabinti delnu. Mušti tinka abudu galu.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -94,7 +97,11 @@ Nenurodyta
     manyti, kad žmogus, kol nežinojo plieno, kol pasigaudavo akmeninį
     peilį ir kirvį, tada tiekė sau rakandus ir dubinėlius taip, kaip dabar
     yra tiekiama piesta, būtent, anglimis.
-  citata_rodoma: "Kad mušimas būtų sėkmingesnis, galuose prikalinėta smulkių vinių. Galima \nmanyti, kad žmogus, kol nežinojo plieno, kol pasigaudavo akmeninį \npeilį ir kirvį, tada tiekė sau rakandus ir dubinėlius taip, kaip dabar \nyra tiekiama piesta, būtent, anglimis."
+  citata_rodoma: |
+    Kad mušimas būtų sėkmingesnis, galuose prikalinėta smulkių vinių. Galima
+    manyti, kad žmogus, kol nežinojo plieno, kol pasigaudavo akmeninį
+    peilį ir kirvį, tada tiekė sau rakandus ir dubinėlius taip, kaip dabar
+    yra tiekiama piesta, būtent, anglimis.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

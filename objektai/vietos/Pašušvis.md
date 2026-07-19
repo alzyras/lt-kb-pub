@@ -65,7 +65,9 @@ Pašušvis šiame šaltinyje yra gyvenvietė ar vietovė.
     — Taip tankiai atsitinka, kad žmogus dėl niekų prapuola, — ta­
     rė vienas svečias. — Jau bus gerokai metų, kai Pašušvy gyveno vo­
     kietis Škobaras, kuris puodus lipdė ir krosnis mūrijo.
-  citata_rodoma: "— Jau bus gerokai metų, kai Pašušvy gyveno vo­\nkietis Škobaras, kuris puodus lipdė ir krosnis mūrijo."
+  citata_rodoma: |
+    — Jau bus gerokai metų, kai Pašušvy gyveno vo­
+    kietis Škobaras, kuris puodus lipdė ir krosnis mūrijo.
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas

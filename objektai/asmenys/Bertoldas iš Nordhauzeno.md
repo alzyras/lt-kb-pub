@@ -86,7 +86,16 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
     nelaisvę. Pagaliau jie patraukė prieš šias pilis bei miestus: Graudingą487, Marienverderį,
     Santyrą ir Kristburgą, viską, kas kelyje pasitaikė, arba išžudė, arba paėmė į nelaisvę,
     arba pavertė pelenais.
-  citata_rodoma: "Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių\n               apygardų nusiaubimą ir Klemento pilies sugriovimą\n\n  Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras,\nkuris, šiaip jau apdairiai tvarkęs, ūkio reikalus, kur kas mažiau tiko karui (matyt, mažiau\nbuvo tam linkęs), todėl jis  ir negebėjo duoti deramo atkirčio priešo išpuoliams. Dėl\nto sūduviai vis dažniau įsibraudavo  į Kulmo žemę  ir, smarkiai nuniokoję dievo tautą,\nviską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems\nnebesipriešina, jie išdrįsdavo net su maža kariuomene brautis  į Kulmo žemę."
+  citata_rodoma: |
+    Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
+                   apygardų nusiaubimą ir Klemento pilies sugriovimą
+
+      Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras,
+    kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus, kur kas mažiau tiko karui (matyt, mažiau
+    buvo tam linkęs), todėl jis  ir negebėjo duoti deramo atkirčio priešo išpuoliams. Dėl
+    to sūduviai vis dažniau įsibraudavo  į Kulmo žemę  ir, smarkiai nuniokoję dievo tautą,
+    viską šioje žemėje sudeginę bei išgrobstę, pasitraukdavo; pajutę, kad niekas jiems
+    nebesipriešina, jie išdrįsdavo net su maža kariuomene brautis  į Kulmo žemę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -80,7 +80,12 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai
     klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
     bas.
-  citata_rodoma: "Tuo metu ir įvyko lietuvių puolimas iš\nŽemaičių, o lenkų — netoli Sviečės.\nĮ Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai\nklausti Jogailos, kur ir kada būtų galima pradėti taikos dery­\nbas."
+  citata_rodoma: |
+    Tuo metu ir įvyko lietuvių puolimas iš
+    Žemaičių, o lenkų — netoli Sviečės.
+    Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai
+    klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
+    bas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -99,7 +104,11 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     nę upės krantus ir apstatę juos patrankomis. Jėga veržtis per
     Drevencą sąjungininkai nerizikavo, nes buvo pavojinga pradėti
     mūšį nepatogiose pozicijose.
-  citata_rodoma: "Jie čia jau buvo atvykę iš Sviečės, sustipri­\nnę upės krantus ir apstatę juos patrankomis. Jėga veržtis per\nDrevencą sąjungininkai nerizikavo, nes buvo pavojinga pradėti\nmūšį nepatogiose pozicijose."
+  citata_rodoma: |
+    Jie čia jau buvo atvykę iš Sviečės, sustipri­
+    nę upės krantus ir apstatę juos patrankomis. Jėga veržtis per
+    Drevencą sąjungininkai nerizikavo, nes buvo pavojinga pradėti
+    mūšį nepatogiose pozicijose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

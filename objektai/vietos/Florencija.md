@@ -214,7 +214,21 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
     kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
     ir barbariškumo, nuo to laiko pradėjo smukti.
-  citata_rodoma: "Tačiau ši jo žmo­\nna Sofija, Tverės kunigaikščio Bori­\nso duktė, vėliau pateko Žygimanto\ngalion; nes popiežius Eugenijus IV\nužtarė ją laiške Žygimantui Kęstu-\ntaičiui, rašytame iš Florencijos 1434\nmetų spalio 20 dieną.\n216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių\nmiestiečių17."
+  citata_rodoma: |
+    Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
+    216
+
+    ## Puslapis 233
+
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -262,7 +276,15 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     nekliudoma persikėlė per Reiną. Atrodo, kad herulų būta
     lik pirmame dalinyje, nes Galijoje apie juos nieko nekal­
     bama.
-  citata_rodoma: "Vėliau ši nesuskaičiuojama kariuo­\nmenė pasidalijo į dvi dalis: viena, kurioje buvo 200 000 \nkarių, atėjo prie Florencijos mūrų, bet beveik visiškai \npralaimėjo Stilichono vadovaujamiems romėnams. Antra \ndalis liko vietoje, laukdama progos, kuri atvertų kelią į \nItaliją. Tačiau, pirmai kariuomenės daliai pralaimėjus, ji \nnėjo pirmyn, o pasuko Galijos link ir 406 metų pabaigoje \nnekliudoma persikėlė per Reiną."
+  citata_rodoma: |
+    Vėliau ši nesuskaičiuojama kariuo­
+    menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000
+    karių, atėjo prie Florencijos mūrų, bet beveik visiškai
+    pralaimėjo Stilichono vadovaujamiems romėnams. Antra
+    dalis liko vietoje, laukdama progos, kuri atvertų kelią į
+    Italiją. Tačiau, pirmai kariuomenės daliai pralaimėjus, ji
+    nėjo pirmyn, o pasuko Galijos link ir 406 metų pabaigoje
+    nekliudoma persikėlė per Reiną.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

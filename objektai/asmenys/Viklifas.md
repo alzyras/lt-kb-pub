@@ -103,7 +103,18 @@ Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į t�
     kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
     krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
     ri laikytina grynai stabmeldiška.
-  citata_rodoma: "Tie­\nsa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po\nlaiko pelenais rusenančią kitatikybės ugnį, iš kurios pamažu\nįsidegdamas gaisras vėliau pridarė daug bėdos Vakari} bažny­\nčiai. Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,\napie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė\nnelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas."
+  citata_rodoma: |
+    Tie­
+    sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po
+    laiko pelenais rusenančią kitatikybės ugnį, iš kurios pamažu
+    įsidegdamas gaisras vėliau pridarė daug bėdos Vakari} bažny­
+    čiai. Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
+    apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė
+    nelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

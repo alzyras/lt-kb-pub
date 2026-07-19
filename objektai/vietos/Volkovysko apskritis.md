@@ -93,7 +93,16 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
     Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
     ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
     liaudies padavimų.
-  citata_rodoma: "Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­\nvirta šventoji upė iki šiol išlaikė nepakitusį savo vardą."
+  citata_rodoma: |
+    Pas­
+    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
+    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
+    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
+    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
+    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
+    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
+    kančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­
+    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

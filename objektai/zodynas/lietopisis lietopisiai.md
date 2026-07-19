@@ -71,7 +71,11 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
     metraščių žymė: jei kuris _lietopisis_ kurį nors Lietuvos valdovą
     labiau pravardžiavo, buvo aišku, kad šis lietuvių tautoje buvo labiau
     pasižymėjęs (pvz., Algirdas).
-  citata_rodoma: "Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų\nmetraščių žymė: jei kuris _lietopisis_ kurį nors Lietuvos valdovą\nlabiau pravardžiavo, buvo aišku, kad šis lietuvių tautoje buvo labiau\npasižymėjęs (pvz., Algirdas)."
+  citata_rodoma: |
+    Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų
+    metraščių žymė: jei kuris _lietopisis_ kurį nors Lietuvos valdovą
+    labiau pravardžiavo, buvo aišku, kad šis lietuvių tautoje buvo labiau
+    pasižymėjęs (pvz., Algirdas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

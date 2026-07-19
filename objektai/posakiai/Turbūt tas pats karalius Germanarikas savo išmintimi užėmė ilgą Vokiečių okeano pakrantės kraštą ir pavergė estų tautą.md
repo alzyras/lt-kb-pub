@@ -67,7 +67,15 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
     vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
     ni estus, kalbėdamas apie karingus Odoakro vadovauja­
     mus herulus, kilusius iš estų tautos.
-  citata_rodoma: "Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-\n  riko įtaką Europos vakaruose gyvenančioms tautoms ir\n  gentims, sako: „Turbūt tas pats karalius Germanarikas\n  savo išmintimi užėmė ilgą Vokiečių okeano pakrantės\n  kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­\n  vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­\n  ni estus, kalbėdamas apie karingus Odoakro vadovauja­\n  mus herulus, kilusius iš estų tautos."
+  citata_rodoma: |
+    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
+      riko įtaką Europos vakaruose gyvenančioms tautoms ir
+      gentims, sako: „Turbūt tas pats karalius Germanarikas
+      savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
+      kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­
+      vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
+      ni estus, kalbėdamas apie karingus Odoakro vadovauja­
+      mus herulus, kilusius iš estų tautos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

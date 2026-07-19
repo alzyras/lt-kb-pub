@@ -63,7 +63,8 @@ Bilazaro miškas šiame šaltinyje yra miškas.
     tas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.
     Šiandien
     toje vietoje „kelmai kelmuoti, pakalnės nuplikę“ .
-  citata_rodoma: "„Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“"
+  citata_rodoma: |
+    „Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

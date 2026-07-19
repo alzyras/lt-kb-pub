@@ -75,7 +75,8 @@ Nenurodyta
     mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
     turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
     buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
-  citata_rodoma: "mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva"
+  citata_rodoma: |
+    mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

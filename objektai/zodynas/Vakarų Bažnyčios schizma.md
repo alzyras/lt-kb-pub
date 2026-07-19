@@ -128,7 +128,9 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
     kadangi šituo laiku buvo Vakarų Bažnyčios schizma ir Romos
     popiežiai, turėdami savo rūpesčių, negalėjo Ordino gerai pa­
     spausti, todėl jis popiežių ir neklausė.
-  citata_rodoma: "kadangi šituo laiku buvo Vakarų Bažnyčios schizma ir Romos\npopiežiai, turėdami savo rūpesčių, negalėjo Ordino gerai"
+  citata_rodoma: |
+    kadangi šituo laiku buvo Vakarų Bažnyčios schizma ir Romos
+    popiežiai, turėdami savo rūpesčių, negalėjo Ordino gerai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -150,7 +152,9 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
     daug tikėjimo klausimų, bet ir įvykdyti tarp krikščioniškų tau­
     tų taiką, — tai katalikiška Vak. Europos visuomenė labai juo
     domėjosi ir į Konstancijos miestą (dabart.
-  citata_rodoma: "turėjo ne tiktai pašalinti Vakarų Bažnyčios schizmą, išrišti\ndaug tikėjimo klausimų, bet ir įvykdyti tarp krikščioniškų"
+  citata_rodoma: |
+    turėjo ne tiktai pašalinti Vakarų Bažnyčios schizmą, išrišti
+    daug tikėjimo klausimų, bet ir įvykdyti tarp krikščioniškų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

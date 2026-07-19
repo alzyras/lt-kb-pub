@@ -66,7 +66,11 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
     (^25) **CEV, nr. 1198, 1240, 1242, 1243. Plg. A. Prochaska:** **_Dzieje Witolda,_**
     **1914, 306-308 p.**
     (^26) **Žr. aukščiau 361 p.**
-  citata_rodoma: "**\n(^25) **CEV, nr. 1198, 1240, 1242, 1243. Plg. A. Prochaska:** **_Dzieje Witolda,_**\n**1914, 306-308 p.**\n(^26) **Žr."
+  citata_rodoma: |
+    **
+    (^25) **CEV, nr. 1198, 1240, 1242, 1243. Plg. A. Prochaska:** **_Dzieje Witolda,_**
+    **1914, 306-308 p.**
+    (^26) **Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -64,7 +64,12 @@ Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras,
     žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas
     Žemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė
     jų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją.
-  citata_rodoma: "Sukilimas prasidėjo Raseinių apskrityje, kur\nbuvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­\nžiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas\nŽemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė\njų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją."
+  citata_rodoma: |
+    Sukilimas prasidėjo Raseinių apskrityje, kur
+    buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­
+    žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas
+    Žemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė
+    jų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -98,7 +98,8 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
     ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
-  citata_rodoma: "riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien"
+  citata_rodoma: |
+    riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +125,8 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: "klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,"
+  citata_rodoma: |
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

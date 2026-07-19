@@ -91,7 +91,10 @@ Dusburgietis teigia, kad vileišis V.
     исторической
     и
     доисторической географии ятвягов.
-  citata_rodoma: "Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos\nšviesoje.—K., 1935.\n  Vydūnas."
+  citata_rodoma: |
+    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
+    šviesoje.—K., 1935.
+      Vydūnas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

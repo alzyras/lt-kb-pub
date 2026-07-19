@@ -63,7 +63,16 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
     Sukilėlių apmokymai ir reorgani-
     zacija Teresboro karinėje stovykloje
     užtruko 10 dienų.
-  citata_rodoma: "Po nepavykusio\ngrafo Liudviko Pliaterio antpuolio prieš\nRusijos kariuomenės karinio transporto\ngurguolę, vykstančią į Daugpilį, teko at-\nsisakyti šios tvirtovės puolimo, nes rusų\nkarinė vadovybė perprato sukilėlių planus.\nSukilėlių apmokymai ir reorgani-\nzacija Teresboro karinėje stovykloje\nužtruko 10 dienų."
+  citata_rodoma: |
+    Po nepavykusio
+    grafo Liudviko Pliaterio antpuolio prieš
+    Rusijos kariuomenės karinio transporto
+    gurguolę, vykstančią į Daugpilį, teko at-
+    sisakyti šios tvirtovės puolimo, nes rusų
+    karinė vadovybė perprato sukilėlių planus.
+    Sukilėlių apmokymai ir reorgani-
+    zacija Teresboro karinėje stovykloje
+    užtruko 10 dienų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

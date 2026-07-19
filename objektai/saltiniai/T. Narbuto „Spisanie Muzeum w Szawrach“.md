@@ -81,7 +81,15 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
     rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusiviliodavo
     į savo slėptuves dailius jaunikaičius, kurie jau niekuomet iš ten
     nebesugrįždavo25. Tų deivių karalienės vardas buvo Jūratė28.
-  citata_rodoma: "Minėtas I. Danilavičiaus rinkinys,\ndavęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto\nSaurų dvaro bibliotekoje ([Narbutt T.] Spisanie Muzeum w Szavv-\nrach.\nL.\n13.\nNr.\n85)."
+  citata_rodoma: |
+    Minėtas I. Danilavičiaus rinkinys,
+    davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto
+    Saurų dvaro bibliotekoje ([Narbutt T.] Spisanie Muzeum w Szavv-
+    rach.
+    L.
+    13.
+    Nr.
+    85).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

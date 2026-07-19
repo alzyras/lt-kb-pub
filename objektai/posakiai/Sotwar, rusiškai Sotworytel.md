@@ -67,7 +67,15 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
     vo fabrikas, gaminęs tokios rūšies popierių. Taigi galėjo panašus
     egzistuoti nuo seno. Kiti skaitė Sotwar, rusiškai Sotworytel, ir
     net nemanė jį esant pagonišką simbolį.
-  citata_rodoma: "Dėl Santvaro atvaizdo buvo įvairiausių nuomonių. Visų pirma\n  buvo abejojama dėl popieriaus autentiškumo: ar jis priklausė iki-\n  krikščioniškajai epochai ir 200 metais buvo panaudotas dokumentui\n  rašyti. Bet buvo rastas popierius su tokiu pat ženklu, tik be ratinio\n  užrašo; jis įtikino, jog kažkur Lietuvoje arba Lietuvos Rusioje bu­\n  vo fabrikas, gaminęs tokios rūšies popierių. Taigi galėjo panašus\n  egzistuoti nuo seno. Kiti skaitė Sotwar, rusiškai Sotworytel, ir\n  net nemanė jį esant pagonišką simbolį."
+  citata_rodoma: |
+    Dėl Santvaro atvaizdo buvo įvairiausių nuomonių. Visų pirma
+      buvo abejojama dėl popieriaus autentiškumo: ar jis priklausė iki-
+      krikščioniškajai epochai ir 200 metais buvo panaudotas dokumentui
+      rašyti. Bet buvo rastas popierius su tokiu pat ženklu, tik be ratinio
+      užrašo; jis įtikino, jog kažkur Lietuvoje arba Lietuvos Rusioje bu­
+      vo fabrikas, gaminęs tokios rūšies popierių. Taigi galėjo panašus
+      egzistuoti nuo seno. Kiti skaitė Sotwar, rusiškai Sotworytel, ir
+      net nemanė jį esant pagonišką simbolį.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -73,12 +73,18 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Todėl šiandien dar jaunas žemaitis, jei
-        negali raitas joti noris ir ant erkelės kumelėlės į bažnyčią ar į mugę, tad velijąs pėsčias beeinąs,
-        nekaip bevažiuojąs. Klausiamas, dėl ko nevažiuoja su motriškosiomis važiuotas, atsako: „Ar aš koksai
-        vergas ratgaly vilktis.“ Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
-        jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
-        duosiu arklius į bažnyčią joti.“
-  citata_rodoma: "Todėl šiandien dar jaunas žemaitis, jei\nnegali raitas joti noris ir ant erkelės kumelėlės į bažnyčią ar į mugę, tad velijąs pėsčias beeinąs,\nnekaip bevažiuojąs. Klausiamas, dėl ko nevažiuoja su motriškosiomis važiuotas, atsako: „Ar aš koksai\nvergas ratgaly vilktis.“ Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo\njaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj\nduosiu arklius į bažnyčią joti.“"
+    negali raitas joti noris ir ant erkelės kumelėlės į bažnyčią ar į mugę, tad velijąs pėsčias beeinąs,
+    nekaip bevažiuojąs. Klausiamas, dėl ko nevažiuoja su motriškosiomis važiuotas, atsako: „Ar aš koksai
+    vergas ratgaly vilktis.“ Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
+    jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
+    duosiu arklius į bažnyčią joti.“
+  citata_rodoma: |
+    Todėl šiandien dar jaunas žemaitis, jei
+    negali raitas joti noris ir ant erkelės kumelėlės į bažnyčią ar į mugę, tad velijąs pėsčias beeinąs,
+    nekaip bevažiuojąs. Klausiamas, dėl ko nevažiuoja su motriškosiomis važiuotas, atsako: „Ar aš koksai
+    vergas ratgaly vilktis.“ Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
+    jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
+    duosiu arklius į bažnyčią joti.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

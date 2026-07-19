@@ -123,7 +123,13 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     Gediminas: Dlugošas Lib. IX,
     p. 923, nurodo, kad buvo ugninės
     strėlės pervertas.
-  citata_rodoma: "Rau­\ndonė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot\nKai dėl rūšies ginklo, nuo kurio žuvo \nGediminas: Dlugošas Lib. IX, \np. 923, nurodo, kad buvo ugninės \nstrėlės pervertas."
+  citata_rodoma: |
+    Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib. IX,
+    p. 923, nurodo, kad buvo ugninės
+    strėlės pervertas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

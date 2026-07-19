@@ -149,7 +149,18 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
     šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
     arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
     su vienu ir Petros — su vienu sufraganu.
-  citata_rodoma: "Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą\n\n  Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino\ndidysis magistras. Nežinau, kas jį bus paskatinęs, bet tuo metu, kai turėjo patraukti ginti\n\nšventosios žemės, jis, pasiprašęs leidimo ir jį gavęs, nusivilko Teutonų ordino apsiaustą\nir apsivilko hospitaljerų ordino abitą, kuriuo vilkėdamas vėliau ir mirė.\n\n\n\n  71."
+  citata_rodoma: |
+    Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą
+
+      Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino
+    didysis magistras. Nežinau, kas jį bus paskatinęs, bet tuo metu, kai turėjo patraukti ginti
+
+    šventosios žemės, jis, pasiprašęs leidimo ir jį gavęs, nusivilko Teutonų ordino apsiaustą
+    ir apsivilko hospitaljerų ordino abitą, kuriuo vilkėdamas vėliau ir mirė.
+
+
+
+      71.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -171,7 +182,19 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
     pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo. Kunigas uoliai padarė,
     ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs
     padirbdinti.
-  citata_rodoma: "Apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais\n\n   Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus\nmetus. Anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs\nPrūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,\nkai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o\ngrįždamas namo, kelyje ir pasimirė.\n\n\n\n\n                 204 (199)."
+  citata_rodoma: |
+    Apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais
+
+       Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus
+    metus. Anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs
+    Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
+    kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
+    grįždamas namo, kelyje ir pasimirė.
+
+
+
+
+                     204 (199).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -332,7 +332,10 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
     kitos nutolusios. Leksinių bendrumų tarp jotvingių ir lietuvių kalbos žymiai daugiau negu
     skirtumų.
-  citata_rodoma: "Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių\nbaltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,\nskalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14."
+  citata_rodoma: |
+    Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
+    baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
+    skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -375,7 +378,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
     gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
     ir nukovė daugiau nei du tūkstančius priešo karių.
-  citata_rodoma: "Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė\nBysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai\nužpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,\ntarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo\ngyvybės, nei savo genties”."
+  citata_rodoma: |
+    Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
+    Bysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai
+    užpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
+    tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
+    gyvybės, nei savo genties”.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -413,7 +421,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Vardas (Nadruva, Nadrava) kildinamas iš upėvardžio Drava (plg.— Druoja, Priegliaus
     intakas apie Įsrutį); Drava greičiausiai buvusi apeliatyvas, kurio pagrindinė reikšmė
     ‘tekėti’.
-  citata_rodoma: "Septinta — Nadruva197, kurioje [gyveno] nadruviai. Aštunta — Skalva198, kurioje [gyveno]\n\n\n\n\n\n  197 D."
+  citata_rodoma: |
+    Septinta — Nadruva197, kurioje [gyveno] nadruviai. Aštunta — Skalva198, kurioje [gyveno]
+
+
+
+
+
+      197 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -462,7 +477,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
     tarnauti gyvajam dievui Jėzui Kristui.
     176 (171).
-  citata_rodoma: "Po to, kai mūsų aukščiau minėtas\nTirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui\nbei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su\nvisomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė\ntarnauti gyvajam dievui Jėzui Kristui.\n\n\n\n\n      176 (171)."
+  citata_rodoma: |
+    Po to, kai mūsų aukščiau minėtas
+    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
+    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
+    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
+    tarnauti gyvajam dievui Jėzui Kristui.
+
+
+
+
+          176 (171).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -494,7 +519,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
     ir Alnos (kair.
-  citata_rodoma: "Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,\npriėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9."
+  citata_rodoma: |
+    Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,
+    priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -512,7 +539,10 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     lokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai).
     Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
     tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П. И., Шмидт
-  citata_rodoma: "Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos\napylinkės, kur  Katinavos  kalva nadruvių buvo laikoma  šventa.  Čia,  piliakalnyje,\nlokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai)."
+  citata_rodoma: |
+    Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos
+    apylinkės, kur  Katinavos  kalva nadruvių buvo laikoma  šventa.  Čia,  piliakalnyje,
+    lokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

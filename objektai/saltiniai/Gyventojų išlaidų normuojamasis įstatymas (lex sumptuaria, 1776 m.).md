@@ -72,7 +72,10 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
     mundierius. 1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
     ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
     prižiūrėti jo vykdymą.
-  citata_rodoma: "1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas\nir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi\nprižiūrėti jo vykdymą."
+  citata_rodoma: |
+    1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
+    ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
+    prižiūrėti jo vykdymą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

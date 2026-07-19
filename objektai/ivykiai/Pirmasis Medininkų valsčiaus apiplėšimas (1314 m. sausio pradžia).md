@@ -145,7 +145,12 @@ Nenurodyta
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
     savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
     puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
-  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino\nbrolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą."
+  citata_rodoma: |
+    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
+    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
+    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
+    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
+    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -166,7 +171,15 @@ Nenurodyta
     atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
     užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
     ne kartą mėgino šitai padaryti.
-  citata_rodoma: "Štai todėl kitą dieną jie įsiveržė į minėtąjį valsčių ir\nper tris mylias į vieną bei kitą pusę jį nusiaubė, degindami bei piešdami, o nužudę bei\npaėmę į nelaisvę septynis šimtus žmonių, sugrįžo namo su dideliu grobiu.\n\n\n\n\n                        321 (314)."
+  citata_rodoma: |
+    Štai todėl kitą dieną jie įsiveržė į minėtąjį valsčių ir
+    per tris mylias į vieną bei kitą pusę jį nusiaubė, degindami bei piešdami, o nužudę bei
+    paėmę į nelaisvę septynis šimtus žmonių, sugrįžo namo su dideliu grobiu.
+
+
+
+
+                            321 (314).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

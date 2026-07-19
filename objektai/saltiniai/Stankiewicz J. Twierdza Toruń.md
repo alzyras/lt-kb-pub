@@ -79,7 +79,8 @@ Dusburgietis teigia, kad stankiewicz J.
     докладов, М, 1983 с. 69.
     Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
     (конец XV — первая пол.
-  citata_rodoma: "Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68."
+  citata_rodoma: |
+    Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

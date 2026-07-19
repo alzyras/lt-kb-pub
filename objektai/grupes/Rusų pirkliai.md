@@ -132,7 +132,15 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  citata_rodoma: |
+    ) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

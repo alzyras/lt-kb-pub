@@ -82,7 +82,16 @@ Nenurodyta
     sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
-  citata_rodoma: "Išsamesnėms krašto praeities studijoms istoriką galė­\njo paskatinti pusbrolio Justino parašyta nedidelė knygelė\n„Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­\ntu susidomėjimas istorija buvo didelis, Vilniaus universitete\ndėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­\ncevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­\nsirinkimuose diskutavo apie krašto praeitį, liaudies padavimus\nir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­\nkus."
+  citata_rodoma: |
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

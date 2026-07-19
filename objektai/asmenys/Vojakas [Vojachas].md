@@ -67,7 +67,19 @@ Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspau
     surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
     šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
     palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
-  citata_rodoma: "Dėl to,\nbrolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių\nsutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,\no įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei\nsavo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo\nevangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,\nir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš\ntai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu\npatvirtintą277. Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė\nsurasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;\nšios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai\npalaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu."
+  citata_rodoma: |
+    Dėl to,
+    brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
+    sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,
+    o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei
+    savo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo
+    evangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,
+    ir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš
+    tai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu
+    patvirtintą277. Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė
+    surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
+    šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
+    palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -98,7 +98,14 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
     kurias vėjas nuneša nuo žemės paviršiaus! Pakilo stiprus vėjas ir nunešė visus tuos
     laivus toli nuo kranto, ir nutiko jiems su tais laivais taip pat kaip ir tam netikėliui saracėnų
     karaliui, po pralaimėto mūšio bėgusiam nuo Karolio.
-  citata_rodoma: "Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę\ndrauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,\nkurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis\nmeldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo\ntėvonijos paniekinti“. Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene\nir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,\nKristaus tikėjimas ten turėsiąs išnykti."
+  citata_rodoma: |
+    Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
+    drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
+    kurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis
+    meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
+    tėvonijos paniekinti“. Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
+    ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
+    Kristaus tikėjimas ten turėsiąs išnykti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

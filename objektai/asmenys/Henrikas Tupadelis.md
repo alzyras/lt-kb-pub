@@ -107,7 +107,15 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
     282).
     394  Ordino krašto magistras Helmerichas iš Viurcburgo (1262— 1263).
     395  Dėl Ordino maršalo Ditricho žuvimo žr. paaiškinimus D. III, 120, 392.
-  citata_rodoma: "Henrikas\nTupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,\nragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]\npiliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o\nminėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam\nlietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė\nvienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė\njam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį."
+  citata_rodoma: |
+    Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
+    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
+    lietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė
+    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
+    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

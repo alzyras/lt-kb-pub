@@ -62,7 +62,8 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
     entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
-  citata_rodoma: "kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti"
+  citata_rodoma: |
+    kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

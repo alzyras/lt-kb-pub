@@ -106,7 +106,15 @@ Nenurodyta
     ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė.
-  citata_rodoma: "Apie Junigedos papilio sudeginimą 1315 m. spalio 12\n\n  Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir\nsielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją\nišvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus\nšešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos\npapilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie\nnuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
+  citata_rodoma: |
+    Apie Junigedos papilio sudeginimą 1315 m. spalio 12
+
+      Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
+    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
+    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
+    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
+    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
+    nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -353,7 +353,15 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
     ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
     mingumo skraiste.
-  citata_rodoma: "Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju.\nSenovės persai turėjo karingą dievaitį, vadintą Kaousu. 1\n11\nSzybinski."
+  citata_rodoma: |
+    Tą kalaviją lietuviai paskyrė savajam karo dievui;
+    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
+    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
+    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
+    nelaisvėje buvo nužudytas tuo kalaviju.
+    Senovės persai turėjo karingą dievaitį, vadintą Kaousu. 1
+    11
+    Szybinski.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -371,7 +379,11 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     lentelėje. Skaitykite straipsnį apie herbus.
     Šneibratas (Sznejbrato)
     Paukščių ūkio ir medžioklės dievas.
-  citata_rodoma: "Šio dievo mitas taip pat sutampa su senovės persų Oro-\nmazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai\nvadino jį Niger Deus ir painiojo su Plutono mitais. Senovės\nsaksai jį vadino Aire."
+  citata_rodoma: |
+    Šio dievo mitas taip pat sutampa su senovės persų Oro-
+    mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
+    vadino jį Niger Deus ir painiojo su Plutono mitais. Senovės
+    saksai jį vadino Aire.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -456,7 +468,18 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     bę Padnestrės apylinkes, paliko šias vietas puolantiems
     persams ir taip darė be paliovos traukdamiesi nuo jų
     kariuomenės.
-  citata_rodoma: "37\nDarijaus puolimai prieš skitus. Apie 520 metus prieš\nKristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­\nbai išmintingas monarchas Indatiras. Jis niekino grai­\nkus ir persus, nes jie buvo svetimi žmonės, o šie savo\nruožtu niekino skitus kaip barbarus. Tačiau skitų galybė\nir reikšmė politinėje arenoje dar buvo nemažos, nes per­\nsų karalius Darijus siekė sąjungos su Indatiru ir norėjo\nvesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal\nsu panieka; į prašymą karalaitės rankos atsakyta nei­\ngiamai."
+  citata_rodoma: |
+    37
+    Darijaus puolimai prieš skitus. Apie 520 metus prieš
+    Kristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­
+    bai išmintingas monarchas Indatiras. Jis niekino grai­
+    kus ir persus, nes jie buvo svetimi žmonės, o šie savo
+    ruožtu niekino skitus kaip barbarus. Tačiau skitų galybė
+    ir reikšmė politinėje arenoje dar buvo nemažos, nes per­
+    sų karalius Darijus siekė sąjungos su Indatiru ir norėjo
+    vesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal
+    su panieka; į prašymą karalaitės rankos atsakyta nei­
+    giamai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -497,7 +520,15 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     Totila. Nedaug herulų, gal išlikusių kažkur Rytų valsty­
     bės provincijose po to, kai prieš keturiasdešimt metų bu­
     vo išblaškyti, liko šiose vietose gyventi1.
-  citata_rodoma: "Taigi 535 metais, kai samdyta\nsvetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė\nberiliai, vandalai ir maurai. Taip pat ir Romai antrąkart\npakliuvus į Totilos rankas, kai Justinianas surinko ka­\nriuomenę, greta longobardų ir persų buvo herulų. Si ka­\nriuomenė buvo sutelkta Pado žemupyje 552 metais Nar­\nšui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo\nTotila."
+  citata_rodoma: |
+    Taigi 535 metais, kai samdyta
+    svetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė
+    beriliai, vandalai ir maurai. Taip pat ir Romai antrąkart
+    pakliuvus į Totilos rankas, kai Justinianas surinko ka­
+    riuomenę, greta longobardų ir persų buvo herulų. Si ka­
+    riuomenė buvo sutelkta Pado žemupyje 552 metais Nar­
+    šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo
+    Totila.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

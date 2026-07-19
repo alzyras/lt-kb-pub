@@ -148,7 +148,28 @@ Nenurodyta
     niais sakramentais sudegino ir kt.],
     e
     D u s b. c.
-  citata_rodoma: ": Idem gentiles Lytwini an­\nno dom. MCCCXXIII, in carniprivio \nintraverunt Revaliam terram regis Da­\ncie in partibus Lyvonie ac eciam Epis­\ncopatum Tarbetensem, quas rapinis et \nincendiis exsiccialiter? destruxerunt oc­\ncidentes et capientes quatuor millia ho­\nminum sexus promiscui et quingentas\nduas parochiales ecclesias cum sacra­\nmentis ecclesie comburentes etc. [Taip \npat pagonys lietuviai Viešpaties me­\ntais 1323-iais per Užgavėnes įsiver­\nžė į Danijos karalystės Revelio že­\nmę Livonijos srityse ir net Dorpato \nvyskupiją, kurias piešdami ir degin­\ndami iki pamatų sugriovę sunaiki­\nno ir pagrobė 4 000 vyrų ir moterų \nir 42 parapijų bažnyčias su bažnyti­\nniais sakramentais sudegino ir kt.], \ne\nD u s b."
+  citata_rodoma: |
+    : Idem gentiles Lytwini an­
+    no dom. MCCCXXIII, in carniprivio
+    intraverunt Revaliam terram regis Da­
+    cie in partibus Lyvonie ac eciam Epis­
+    copatum Tarbetensem, quas rapinis et
+    incendiis exsiccialiter? destruxerunt oc­
+    cidentes et capientes quatuor millia ho­
+    minum sexus promiscui et quingentas
+    duas parochiales ecclesias cum sacra­
+    mentis ecclesie comburentes etc. [Taip
+    pat pagonys lietuviai Viešpaties me­
+    tais 1323-iais per Užgavėnes įsiver­
+    žė į Danijos karalystės Revelio že­
+    mę Livonijos srityse ir net Dorpato
+    vyskupiją, kurias piešdami ir degin­
+    dami iki pamatų sugriovę sunaiki­
+    no ir pagrobė 4 000 vyrų ir moterų
+    ir 42 parapijų bažnyčias su bažnyti­
+    niais sakramentais sudegino ir kt.],
+    e
+    D u s b.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

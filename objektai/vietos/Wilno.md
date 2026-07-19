@@ -83,7 +83,11 @@ Obraz Litwy pod względem jej cywilizacyi, od czasow najdawniejszych do koncawie
     netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
     Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
     „kurie yra veikale „Tūkstantis ir viena naktis“28 29.
-  citata_rodoma: "Lietuvių liaudis nesanti išlaikiusi jokių mitų,\n20 Jaroszewi.cz J. Obraz Litwy pod względem jej cywilizacyi, od\nczasow najdawniejszych do koncawieku XVIII.-Wilno, 1844. -  Cz. I:\nLitwa poganska. -  S. 177-199."
+  citata_rodoma: |
+    Lietuvių liaudis nesanti išlaikiusi jokių mitų,
+    20 Jaroszewi.cz J. Obraz Litwy pod względem jej cywilizacyi, od
+    czasow najdawniejszych do koncawieku XVIII.-Wilno, 1844. -  Cz. I:
+    Litwa poganska. -  S. 177-199.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

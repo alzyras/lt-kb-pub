@@ -75,7 +75,13 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
     savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
     tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
     valstybinės tarnybos.
-  citata_rodoma: "Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-\ntinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai \ntautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti \nsavo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-\ntuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė \nvalstybinės tarnybos."
+  citata_rodoma: |
+    Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
+    tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai
+    tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti
+    savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
+    tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
+    valstybinės tarnybos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

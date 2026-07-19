@@ -322,7 +322,15 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
     je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
     dymą, kaip ir patį miestą, perleido į Algirdo rankas.
-  citata_rodoma: "lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­\nmas kartu su jam palankiu broliu Narimantu, Pinsko \nkunigaikščiu; pirmasis - Smolenske, antrasis pas totorių \nchaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas."
+  citata_rodoma: |
+    lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -347,7 +355,16 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
     Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
     varniuose, Veliuonoje.
-  citata_rodoma: "Trakuose,\nDarsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­\nbingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje."
+  citata_rodoma: |
+    Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -366,7 +383,11 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
     kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
     valstybės vieningumui.
-  citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos"
+  citata_rodoma: |
+    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
+    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
+    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
+    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -385,7 +406,12 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
     das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
-  citata_rodoma: "Vyriausias sūnus, Man-\nv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą\nir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-\ndas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų\npasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą."
+  citata_rodoma: |
+    Vyriausias sūnus, Man-
+    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
+    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
+    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
+    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -440,7 +466,23 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     jorijai mobilizuotis, o jų mažesnių būrių
 
     Vilnius Aleksandro valdymo laikais.
-  citata_rodoma: "Vietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais.\n\nLietuvos kariuomenės mobilizacija, vadai\nir pirmieji susidūrimai\n\nStaigus totorių įsiveržimas sutrukdė jų\nveiksmus patyrusių paliestų pavietų ba-\njorijai mobilizuotis, o jų mažesnių būrių\n\nVilnius Aleksandro valdymo laikais."
+  citata_rodoma: |
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+
+    Lietuvos kariuomenės mobilizacija, vadai
+    ir pirmieji susidūrimai
+
+    Staigus totorių įsiveržimas sutrukdė jų
+    veiksmus patyrusių paliestų pavietų ba-
+    jorijai mobilizuotis, o jų mažesnių būrių
+
+    Vilnius Aleksandro valdymo laikais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -504,7 +546,10 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     tokio Gediminaičio nesą buvę^18. Narimantui, kuris 1348 m. žuvo
     Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
     kunigaikštijos, t. y. dabartinė Polesė (Pripetės plote).
-  citata_rodoma: "Narimantui, kuris 1348 m. žuvo\nStrėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo\nkunigaikštijos, t. y. dabartinė Polesė (Pripetės plote)."
+  citata_rodoma: |
+    Narimantui, kuris 1348 m. žuvo
+    Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
+    kunigaikštijos, t. y. dabartinė Polesė (Pripetės plote).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -523,7 +568,11 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
     kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
     valstybės vieningumui.
-  citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos"
+  citata_rodoma: |
+    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
+    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
+    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
+    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -545,7 +594,15 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
     je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
     dymą, kaip ir patį miestą, perleido į Algirdo rankas.
-  citata_rodoma: "lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­\nmas kartu su jam palankiu broliu Narimantu, Pinsko \nkunigaikščiu; pirmasis - Smolenske, antrasis pas totorių \nchaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas."
+  citata_rodoma: |
+    lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -568,7 +625,16 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
     Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
     varniuose, Veliuonoje.
-  citata_rodoma: "Trakuose,\nDarsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­\nbingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje."
+  citata_rodoma: |
+    Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -597,7 +663,23 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     jorijai mobilizuotis, o jų mažesnių būrių
 
     Vilnius Aleksandro valdymo laikais.
-  citata_rodoma: "Vietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais.\n\nLietuvos kariuomenės mobilizacija, vadai\nir pirmieji susidūrimai\n\nStaigus totorių įsiveržimas sutrukdė jų\nveiksmus patyrusių paliestų pavietų ba-\njorijai mobilizuotis, o jų mažesnių būrių\n\nVilnius Aleksandro valdymo laikais."
+  citata_rodoma: |
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+
+    Lietuvos kariuomenės mobilizacija, vadai
+    ir pirmieji susidūrimai
+
+    Staigus totorių įsiveržimas sutrukdė jų
+    veiksmus patyrusių paliestų pavietų ba-
+    jorijai mobilizuotis, o jų mažesnių būrių
+
+    Vilnius Aleksandro valdymo laikais.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -615,7 +697,12 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
     das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
-  citata_rodoma: "Vyriausias sūnus, Man-\nv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą\nir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-\ndas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų\npasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą."
+  citata_rodoma: |
+    Vyriausias sūnus, Man-
+    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
+    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
+    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
+    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 

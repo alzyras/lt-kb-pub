@@ -331,7 +331,27 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     nigaikščiai, Tochtamišo totoriai, talkinin-
     kai iš Lenkijos, Kryžiuočių ordino kariai,
     moldavai.
-  citata_rodoma: "Rugpjūčio\npradžioje kariuomenė, persikėlusi per\nDnieprą, jo kairiuoju krantu patraukė į\n\nŠarvinių\npirštinių\nrekonstrukcija\n\nstepes, kur laukė prie\nkairiojo Dniepro intako\nVorsklos, prie Ordos valdų pari-\nbių, susitiko su Aukso ordos chano\nTimūr-Kutluko kariuomene.\n\nLietuvos jungtinės pajėgos\n\nLietuviai, žemaičiai, LDK rusų žemių ku-\nnigaikščiai, Tochtamišo totoriai, talkinin-\nkai iš Lenkijos, Kryžiuočių ordino kariai,\nmoldavai."
+  citata_rodoma: |
+    Rugpjūčio
+    pradžioje kariuomenė, persikėlusi per
+    Dnieprą, jo kairiuoju krantu patraukė į
+
+    Šarvinių
+    pirštinių
+    rekonstrukcija
+
+    stepes, kur laukė prie
+    kairiojo Dniepro intako
+    Vorsklos, prie Ordos valdų pari-
+    bių, susitiko su Aukso ordos chano
+    Timūr-Kutluko kariuomene.
+
+    Lietuvos jungtinės pajėgos
+
+    Lietuviai, žemaičiai, LDK rusų žemių ku-
+    nigaikščiai, Tochtamišo totoriai, talkinin-
+    kai iš Lenkijos, Kryžiuočių ordino kariai,
+    moldavai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -378,7 +398,17 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     plačiai aprašo, kokių gudrybių tą­
     kart ėmėsi Kęstutis, puldamas Vil-
     nių.
-  citata_rodoma: "Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas. Andrius žuvo prie Vorsklos 1399 \nmetais.\n31\nStrijkovskis, 1."
+  citata_rodoma: |
+    Strijkovskis ir Koje-
+    1  a v i č i u s supainiojo Andrių, Al­
+    girdo sūnų, su Vaidotu, Kęstučio sū­
+    numi, todėl radosi jų minimas
+    Andrius Vaidotas, Kęstučio sūnus,
+    Polocko kunigaikštis - visai išgalvo­
+    tas. Andrius žuvo prie Vorsklos 1399
+    metais.
+    31
+    Strijkovskis, 1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -398,7 +428,12 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
 
     Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
     pasibaigusį 1435 m.
-  citata_rodoma: "Vytauto pralaimėjimas toto-\nriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.\n\nPo Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,\npasibaigusį 1435 m."
+  citata_rodoma: |
+    Vytauto pralaimėjimas toto-
+    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
+
+    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
+    pasibaigusį 1435 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -421,7 +456,14 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
 
     Švitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-
     čionių pasaulio sienos“ (in finibus totius Christianitatis).
-  citata_rodoma: "Vytautas ir pats buvo reagavęs į Ser-\nbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką\nNikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu\n1399 m. prie Vorsklos.\n\nŠvitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-\nčionių pasaulio sienos“ (in finibus totius Christianitatis)."
+  citata_rodoma: |
+    Vytautas ir pats buvo reagavęs į Ser-
+    bijos sunaikinimą prie Kosovo (1389) - organizavo analogišką
+    Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu
+    1399 m. prie Vorsklos.
+
+    Švitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-
+    čionių pasaulio sienos“ (in finibus totius Christianitatis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

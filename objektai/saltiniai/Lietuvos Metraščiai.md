@@ -126,7 +126,13 @@ media_all_json: |-
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
     nacijos“ ponų sluoksnį.
-  citata_rodoma: ", kai Lietuvos bajorija bendrai pradėjo save kildinti \niš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono \nir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai \nvesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių \ndinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių \nnacijos“ ponų sluoksnį."
+  citata_rodoma: |
+    , kai Lietuvos bajorija bendrai pradėjo save kildinti
+    iš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

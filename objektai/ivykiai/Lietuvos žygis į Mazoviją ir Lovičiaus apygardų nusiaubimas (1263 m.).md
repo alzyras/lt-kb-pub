@@ -103,7 +103,20 @@ Nenurodyta
     nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
     mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
     čio, žmona, karalienės sesuo.
-  citata_rodoma: "Ki­\ntais metais Mindaugas žiemą nusiaubė Livoniją: vasa­\nrio 2 dieną užėmė bei su-\n1263 m e ta i\ngriovė Pernu, prie Daugav-\ngryvos susikovė su priešu.\nPo to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­\nją: kadangi čia negalėjo priešo įvilioti į mūšį, o po\nankstesnių nuniokojimų šalyje nebuvo nieko dora li­\nkę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos\nLovičiaus apygardos, todėl iš ten buvo išgabentas di­\ndžiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­\nju."
+  citata_rodoma: |
+    Ki­
+    tais metais Mindaugas žiemą nusiaubė Livoniją: vasa­
+    rio 2 dieną užėmė bei su-
+    1263 m e ta i
+    griovė Pernu, prie Daugav-
+    gryvos susikovė su priešu.
+    Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­
+    ją: kadangi čia negalėjo priešo įvilioti į mūšį, o po
+    ankstesnių nuniokojimų šalyje nebuvo nieko dora li­
+    kę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos
+    Lovičiaus apygardos, todėl iš ten buvo išgabentas di­
+    džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­
+    ju.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

@@ -62,7 +62,15 @@ Beveik tuo pat metu buvo puolamas ir Alberto Žilio-Kęstučio būrio bunkeris �
     bunkeris Šimonių girioje prie Iženos upelio,
     jame žuvo 6 partizanai. Vėliausiai užpul-
     tas Kunigaikščio Margio rinktinės bunkeris
-  citata_rodoma: "Beveik tuo pat metu buvo puolamas\nir Alberto Žilio-Kęstučio būrio bunke-\nris Šimonių girioje netoli Sliepšiškio k. Čia\nžuvo 5 partizanai.\n\nTaip pat užpultas Antano Jančio-Žaibo\nbunkeris Šimonių girioje prie Iženos upelio,\njame žuvo 6 partizanai."
+  citata_rodoma: |
+    Beveik tuo pat metu buvo puolamas
+    ir Alberto Žilio-Kęstučio būrio bunke-
+    ris Šimonių girioje netoli Sliepšiškio k. Čia
+    žuvo 5 partizanai.
+
+    Taip pat užpultas Antano Jančio-Žaibo
+    bunkeris Šimonių girioje prie Iženos upelio,
+    jame žuvo 6 partizanai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

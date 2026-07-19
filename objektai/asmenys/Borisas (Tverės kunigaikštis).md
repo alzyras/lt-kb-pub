@@ -173,7 +173,28 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
     nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
     kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
     ir barbariškumo, nuo to laiko pradėjo smukti.
-  citata_rodoma: "Tai, ką mūsų kronikininkai kal­\nba apie Švitrigailos žmonos sugavi­\nmą Ašmenoje, esą jis neįstengęs iš­\nsivežti kartu - tai nėra tikslu, nes tais \npat 1432 metais lapkričio 30 dieną \nŠvitrigaila, rašydamas Livonijos ma­\ngistrui, užsimena, kad žmona jam \npagimdžiusi sūnų. Tačiau ši jo žmo­\nna Sofija, Tverės kunigaikščio Bori­\nso duktė, vėliau pateko Žygimanto \ngalion; nes popiežius Eugenijus IV \nužtarė ją laiške Žygimantui Kęstu- \ntaičiui, rašytame iš Florencijos 1434 \nmetų spalio 20 dieną.\n216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių \nmiestiečių17."
+  citata_rodoma: |
+    Tai, ką mūsų kronikininkai kal­
+    ba apie Švitrigailos žmonos sugavi­
+    mą Ašmenoje, esą jis neįstengęs iš­
+    sivežti kartu - tai nėra tikslu, nes tais
+    pat 1432 metais lapkričio 30 dieną
+    Švitrigaila, rašydamas Livonijos ma­
+    gistrui, užsimena, kad žmona jam
+    pagimdžiusi sūnų. Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
+    216
+
+    ## Puslapis 233
+
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +248,22 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
 
     bei teisę šaukti viečę, skambinti varpu ir valdytis, kaip
     Didžiajame Naugarde ir Pskove.
-  citata_rodoma: "Savo įpėdiniu Polocke paliko savo sūnų Borisą\", \nir šis kunigaikštis Borisas prie Berezinos upės įkūrė \nsavo vardo miestą ir pavadino jį Borisovu l2 . Būda­\nmas rusų tikėjimo, buvo labai pamaldus ir pastatydino \nPolocke mūrinę šventosios Sofijos cerkvę l3; antrą —  \nšventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie \nPolotos upės, pusę mylios aukščiau pilies; trečią — \nBoriso ir Glebo cerkvę Belčičių vienuolyne l6 .\nValdydamas Polocką, jis buvo maloningas savo val­\ndiniams ir jiems, savo valdiniams, dovanojo laisvių\n\n## Puslapis 46\n\nbei teisę šaukti viečę, skambinti varpu ir valdytis, kaip \nDidžiajame Naugarde ir Pskove."
+  citata_rodoma: |
+    Savo įpėdiniu Polocke paliko savo sūnų Borisą",
+    ir šis kunigaikštis Borisas prie Berezinos upės įkūrė
+    savo vardo miestą ir pavadino jį Borisovu l2 . Būda­
+    mas rusų tikėjimo, buvo labai pamaldus ir pastatydino
+    Polocke mūrinę šventosios Sofijos cerkvę l3; antrą —
+    šventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie
+    Polotos upės, pusę mylios aukščiau pilies; trečią —
+    Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
+    Valdydamas Polocką, jis buvo maloningas savo val­
+    diniams ir jiems, savo valdiniams, dovanojo laisvių
+
+    ## Puslapis 46
+
+    bei teisę šaukti viečę, skambinti varpu ir valdytis, kaip
+    Didžiajame Naugarde ir Pskove.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -70,7 +70,8 @@ Dusburgietis teigia, kad vanagas A.
     — Польша
     и Русь, М., 1974, с. 67—79.
     Лукшайте И. К., Об обычае двойного выкупа за женшину по литовскому праву.
-  citata_rodoma: "Vanagas A. Galindai.— MG, 1965, Nr. 5, p. 28—29."
+  citata_rodoma: |
+    Vanagas A. Galindai.— MG, 1965, Nr. 5, p. 28—29.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

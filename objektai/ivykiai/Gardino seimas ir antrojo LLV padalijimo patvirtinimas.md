@@ -84,7 +84,8 @@ Nenurodyta
     žemės. Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
     mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
     naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
-  citata_rodoma: "naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą."
+  citata_rodoma: |
+    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

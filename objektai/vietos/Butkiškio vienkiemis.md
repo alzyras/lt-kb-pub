@@ -76,7 +76,15 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
     vienkiemio Jovaišų sodyboje. Rūgštymas
     buvo pristatytas prie pagrindinio įėjimo,
     o Vijoklis — prie atsarginio.
-  citata_rodoma: "Po intensyvių tardymų\nbei kankinimų abu sutiko bendradarbiauti\nir spalio 28 d. atvedė čekistus prie tuome-\ntinio Šiaurės Rytų partizanų srities štabo\nbunkerio Anykščių valsčiaus, Butkiškio\nvienkiemio Jovaišų sodyboje. Rūgštymas\nbuvo pristatytas prie pagrindinio įėjimo,\no Vijoklis — prie atsarginio."
+  citata_rodoma: |
+    Po intensyvių tardymų
+    bei kankinimų abu sutiko bendradarbiauti
+    ir spalio 28 d. atvedė čekistus prie tuome-
+    tinio Šiaurės Rytų partizanų srities štabo
+    bunkerio Anykščių valsčiaus, Butkiškio
+    vienkiemio Jovaišų sodyboje. Rūgštymas
+    buvo pristatytas prie pagrindinio įėjimo,
+    o Vijoklis — prie atsarginio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

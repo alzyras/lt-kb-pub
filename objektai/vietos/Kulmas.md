@@ -878,7 +878,12 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     1231 m. pavasarį atvyko prie Vislos Hermano Balke's vadovaujamas
     būrelis riterių. Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kul-
     mas (1235 m.).
-  citata_rodoma: "Krikščionims\nginti ir naujakrikštams apsaugoti nuo fanatiškų pagonių puolimų,\n1231 m. pavasarį atvyko prie Vislos Hermano Balke's vadovaujamas\nbūrelis riterių. Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kul-\nmas (1235 m.)."
+  citata_rodoma: |
+    Krikščionims
+    ginti ir naujakrikštams apsaugoti nuo fanatiškų pagonių puolimų,
+    1231 m. pavasarį atvyko prie Vislos Hermano Balke's vadovaujamas
+    būrelis riterių. Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kul-
+    mas (1235 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -899,7 +904,12 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
     mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
     būti veikimo bazė vyskupui.
-  citata_rodoma: "Tada Mozūrų kunigaikš-\ntis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-\nkupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-\nmės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo\nbūti veikimo bazė vyskupui."
+  citata_rodoma: |
+    Tada Mozūrų kunigaikš-
+    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
+    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
+    mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
+    būti veikimo bazė vyskupui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -924,7 +934,16 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     kaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir
     Lenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu
     nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba.
-  citata_rodoma: "Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems\nverčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties\ndvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su\npriešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius\nprie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių\naukų. Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius\nvisose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido\nbėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis\njais pasprukti."
+  citata_rodoma: |
+    Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems
+    verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties
+    dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su
+    priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius
+    prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
+    aukų. Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius
+    visose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido
+    bėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis
+    jais pasprukti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -964,7 +983,10 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: "), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28."
+  citata_rodoma: |
+    ), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
 
@@ -983,7 +1005,14 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     buvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai
     įsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.
     Šit kokia stulbinanti ir siaubinga piktadarybė!
-  citata_rodoma: "Apie Kulmo žemės nusiaubimą\n\n  Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,\npadarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį\nbuvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai\nįsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.\nŠit kokia stulbinanti ir siaubinga piktadarybė!"
+  citata_rodoma: |
+    Apie Kulmo žemės nusiaubimą
+
+      Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
+    padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį
+    buvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai
+    įsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.
+    Šit kokia stulbinanti ir siaubinga piktadarybė!
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1011,7 +1040,22 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 
 
                          42.
-  citata_rodoma: "Apie vieną stebuklą\n\n  Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti\nžuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;\npaklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,\neidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius\nsmilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir\ndžiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;\ndrauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o\nvisi žmonės patikėjo jos žodžiais.\n\n\n\n\n                     42."
+  citata_rodoma: |
+    Apie vieną stebuklą
+
+      Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti
+    žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;
+    paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,
+    eidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius
+    smilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir
+    džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;
+    drauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o
+    visi žmonės patikėjo jos žodžiais.
+
+
+
+
+                         42.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1050,7 +1094,14 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
     taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
     kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
-  citata_rodoma: "Apie dviejų našlių ginčą dėl vieno vyro\n\n  Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi\ntame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,\ntekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko\ntaip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant\nkauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį."
+  citata_rodoma: |
+    Apie dviejų našlių ginčą dėl vieno vyro
+
+      Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
+    tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
+    tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
+    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
+    kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1071,7 +1122,12 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
-  citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1091,7 +1147,10 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
     (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
     Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.
-  citata_rodoma: "), praėjus totorių—mongolų pavojui\n(1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje."
+  citata_rodoma: |
+    ), praėjus totorių—mongolų pavojui
+    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1121,7 +1180,16 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     ką girdėjo; pro ausis nuleidęs jam pasakytus žodžius, jis sveiką ir gyvą išleido minėtąjį
     valdovą Henriką į Kulmo miestą, kur šis atpasakojo magistrui bei broliams visa, ką buvo
     girdėjęs.
-  citata_rodoma: "Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele\nkariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą\nbei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,\nšiuo perkėlimu darydamas Kulmo žemę saugesnę.\n\n\n\n\n              60 (59)."
+  citata_rodoma: |
+    Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele
+    kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą
+    bei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,
+    šiuo perkėlimu darydamas Kulmo žemę saugesnę.
+
+
+
+
+                  60 (59).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

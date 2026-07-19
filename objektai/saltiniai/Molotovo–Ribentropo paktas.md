@@ -277,7 +277,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
     Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
-  citata_rodoma: "protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių"
+  citata_rodoma: |
+    protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -300,7 +301,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     disidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-
     ves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl
     savo nepriklausomybės.
-  citata_rodoma: "paminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir"
+  citata_rodoma: |
+    paminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -319,7 +321,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas.
-  citata_rodoma: "tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus"
+  citata_rodoma: |
+    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -340,7 +343,8 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
     netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
     publika.
-  citata_rodoma: "ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę"
+  citata_rodoma: |
+    ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

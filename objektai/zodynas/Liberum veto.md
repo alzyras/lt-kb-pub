@@ -96,7 +96,12 @@ Nenurodyta
 
 
     nieko nenuveikę.
-  citata_rodoma: "_ Tatai vadinosi _liberum veto,_ t. y. laisvojo\npasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,\n\n\nnieko nenuveikę."
+  citata_rodoma: |
+    _ Tatai vadinosi _liberum veto,_ t. y. laisvojo
+    pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
+
+
+    nieko nenuveikę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

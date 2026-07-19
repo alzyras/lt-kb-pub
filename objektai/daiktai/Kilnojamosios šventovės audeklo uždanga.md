@@ -99,7 +99,13 @@ Nenurodyta
     davo žymesnius žmones arba garsesnius atnašautojus, gero­
     kai pagyvenusius, kurių ilgas gyvenimas buvo visiškai nepa­
     peikiamas.
-  citata_rodoma: "Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­\nvių, kurios priklausė ugnies šventovėms piratėjoms. Apie to­\nkią turime istorinę žinią, išlikusią Prūsijos kronikose21 2 23. Jos ap­\nrašymas būtų toks. Parinkus kokį nors dievams malonų medį,\naplink jį būdavo išvyniojama astuonių uolekčių aukščio au­\ndeklo uždanga iš šešių atskirų gabalų."
+  citata_rodoma: |
+    Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
+    vių, kurios priklausė ugnies šventovėms piratėjoms. Apie to­
+    kią turime istorinę žinią, išlikusią Prūsijos kronikose21 2 23. Jos ap­
+    rašymas būtų toks. Parinkus kokį nors dievams malonų medį,
+    aplink jį būdavo išvyniojama astuonių uolekčių aukščio au­
+    deklo uždanga iš šešių atskirų gabalų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

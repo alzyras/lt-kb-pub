@@ -88,7 +88,12 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
     kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
     bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento
     Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
-  citata_rodoma: "Apie gibelinus ir gvelfus\n\n  1228 viešpaties metais Italijoje radosi gibelinų  ir gvelfų partijos; šitai yra vardai\ndviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią\n(Ptol. 21,27)."
+  citata_rodoma: |
+    Apie gibelinus ir gvelfus
+
+      1228 viešpaties metais Italijoje radosi gibelinų  ir gvelfų partijos; šitai yra vardai
+    dviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią
+    (Ptol. 21,27).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

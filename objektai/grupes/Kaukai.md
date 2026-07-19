@@ -89,7 +89,14 @@ Narbutas kaukų garbintojams priskiria paprotį nakčiai padėti maisto ir iš j
     ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
     yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
     lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-  citata_rodoma: "Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­\nvo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip\nsu barstukais.\nŠie dievaičiai atitinka Antikos Paną.\nPrūsijos kronikininkų, besivadovaujančių Olafo Didžiojo\n„Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­\nviai perėmę iš skandinavų."
+  citata_rodoma: |
+    Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­
+    vo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip
+    su barstukais.
+    Šie dievaičiai atitinka Antikos Paną.
+    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
+    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
+    viai perėmę iš skandinavų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

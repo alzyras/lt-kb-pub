@@ -94,7 +94,8 @@ Nenurodyta
     opozicijoje esantis krikščionių demokratų blokas, tautininkai, karininkai
     ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę
     studentų demonstraciją).
-  citata_rodoma: "ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę"
+  citata_rodoma: |
+    ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

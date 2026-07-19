@@ -93,7 +93,18 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
     tolius ir pasižadėti, jog nebeniokosiąs Livonijos; jeigu
     su tuo jis nesutiksiąs, karalius turėsiąs paskelbti jam
     karą.
-  citata_rodoma: "Didysis \nLietuvos kunigaikštis bei visi Lietuvos luomai privalą \nginti visą Livoniją ir teutonų riterius, skirdami tam ir \nlėšų, ir karių. Lietuvių etmonai, atžygiavę su kariuo­\nmene į Livoniją ir suderinę karo planus, privalą steng­\ntis, kad kariai, ar įsikurdinę nuolatinėse ar žiemos sto­\nvyklose, ar žygiuodami per kraštą, nedarytų jokios \nžalos. Iš priešo atsiimtas grobis atiteksiąs tam, kam \nanksčiau priklausė: ar lietuviams, ar Livonijos žmo­\nnėms, o maskvėnams priklausiusi manta būsianti dalo­\nma po lygiai tarp Lietuvos ir Livonijos."
+  citata_rodoma: |
+    Didysis
+    Lietuvos kunigaikštis bei visi Lietuvos luomai privalą
+    ginti visą Livoniją ir teutonų riterius, skirdami tam ir
+    lėšų, ir karių. Lietuvių etmonai, atžygiavę su kariuo­
+    mene į Livoniją ir suderinę karo planus, privalą steng­
+    tis, kad kariai, ar įsikurdinę nuolatinėse ar žiemos sto­
+    vyklose, ar žygiuodami per kraštą, nedarytų jokios
+    žalos. Iš priešo atsiimtas grobis atiteksiąs tam, kam
+    anksčiau priklausė: ar lietuviams, ar Livonijos žmo­
+    nėms, o maskvėnams priklausiusi manta būsianti dalo­
+    ma po lygiai tarp Lietuvos ir Livonijos.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

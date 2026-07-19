@@ -65,7 +65,11 @@ media_all_json: |-
     Lietuvos valstybės santykiai su totorių ordomis dau­
     giausia už.kliudomi legendinėje dalyje, kur visi mūšiai
     baigiasi lietuvių pergalėmis, o taip pat Aleksandro vai-
-  citata_rodoma: "Kalbant apie LDK santykius su Rusų valstybe, labai \niškeliamas Vytauto pranašumas savo žento Vasilijaus, \nMaskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­\ngarduko feodalinių respublikų atžvilgiu."
+  citata_rodoma: |
+    Kalbant apie LDK santykius su Rusų valstybe, labai
+    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
+    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
+    garduko feodalinių respublikų atžvilgiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

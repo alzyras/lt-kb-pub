@@ -177,7 +177,12 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
     (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
     Maskvos.
-  citata_rodoma: "Pirmiausia ji privertė savo valdžiai pasi-\nduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-\nvas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio\n(pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie\nMaskvos."
+  citata_rodoma: |
+    Pirmiausia ji privertė savo valdžiai pasi-
+    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
+    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
+    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
+    Maskvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -203,7 +208,17 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     štai jis atleidžiąs Maskvos kunigaikštį nuo varganos
     kelionės ligi Vilniaus, o pats anksčiau atvyksiąs į
     Maskvą, nei sudegsiąs šis deglas.
-  citata_rodoma: "Visiems įsakė nieko nedeginti ir\nnieko neniokoti; gyventojus leido skriausti tik tada,\nkai reikėjo gauti maisto bei pašaro. Kai žvalgai pra­\nnešė, jog netoliese esąs didelis miestas Možaiskas, Al­\ngirdas, leidęs kariams šiek tiek pailsėti, surikiavo juos\nkautynių tvarka ir išvedė į atvirą vieškelį. Tada, pasi­\nkvietęs žygūną (šis ligi tol nežinojo, kas su juo da­\nroma ir kur esąs atvežtas), įteikė jam deglą ir pasakė\nšitokius žodžius: tegu jis nešąs nelyginant laišką ir\ndovaną savo valdovui šį deglą."
+  citata_rodoma: |
+    Visiems įsakė nieko nedeginti ir
+    nieko neniokoti; gyventojus leido skriausti tik tada,
+    kai reikėjo gauti maisto bei pašaro. Kai žvalgai pra­
+    nešė, jog netoliese esąs didelis miestas Možaiskas, Al­
+    girdas, leidęs kariams šiek tiek pailsėti, surikiavo juos
+    kautynių tvarka ir išvedė į atvirą vieškelį. Tada, pasi­
+    kvietęs žygūną (šis ligi tol nežinojo, kas su juo da­
+    roma ir kur esąs atvežtas), įteikė jam deglą ir pasakė
+    šitokius žodžius: tegu jis nešąs nelyginant laišką ir
+    dovaną savo valdovui šį deglą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -230,7 +245,20 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
     priesaika turinti sustiprinti amžinąją taiką.
-  citata_rodoma: "Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­\njojo visokių netikėtumų, ir lietuvis norėjo laiku iš­\nvengti visokių atsitiktinumų, jie be didelio vargo su­\ntarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­\nmas žymiausiųjų palydovų ir\nT a ik o s ta ip  m a s k v ė -\nbajorų, įžengsiąs į miestą ne­\nrių ir A lg ir d o  s ą ly g o s\nlyginant draugas; tarsi nuga­\nlėtojas jis įsmeigsiąs ietį į\npilies vartus. Lietuvos sienos būsiančios praplėstos li­\ngi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­\nreiviams algą, o vadui — karo išlaidas."
+  citata_rodoma: |
+    Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
+    jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­
+    vengti visokių atsitiktinumų, jie be didelio vargo su­
+    tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­
+    mas žymiausiųjų palydovų ir
+    T a ik o s ta ip  m a s k v ė -
+    bajorų, įžengsiąs į miestą ne­
+    rių ir A lg ir d o  s ą ly g o s
+    lyginant draugas; tarsi nuga­
+    lėtojas jis įsmeigsiąs ietį į
+    pilies vartus. Lietuvos sienos būsiančios praplėstos li­
+    gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
+    reiviams algą, o vadui — karo išlaidas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -262,7 +290,16 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     siuntimą į Maskvą vėlesniam
     atsiųsti legatus, ta pačia proga nusiskųsdamas dėl nau­
     jų skriaudų.
-  citata_rodoma: "Suderinę su karaliumi savo planus,\npopiežiaus, imperatoriaus bei Romos karaliaus pasiun­\ntiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur\niš paskos turėjo leistis ir karaliaus legatai, turėję tol\nlaukti pasienyje, kol jiems būsią leista įžengti į Mask­\nvos žemę. Pirmoji pasiuntinybė patraukė į Možaiską\ntik tada, kai gavo žinią, jog karaliaus legatai Smo­\nlenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­\njųjų metų nepradėta kalbėtis dėl taikos."
+  citata_rodoma: |
+    Suderinę su karaliumi savo planus,
+    popiežiaus, imperatoriaus bei Romos karaliaus pasiun­
+    tiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur
+    iš paskos turėjo leistis ir karaliaus legatai, turėję tol
+    laukti pasienyje, kol jiems būsią leista įžengti į Mask­
+    vos žemę. Pirmoji pasiuntinybė patraukė į Možaiską
+    tik tada, kai gavo žinią, jog karaliaus legatai Smo­
+    lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
+    jųjų metų nepradėta kalbėtis dėl taikos.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -302,7 +339,16 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     d id žiu o ju
     k u n ig a ik ščiu
     6 5 7
-  citata_rodoma: "Be to, sutarė teismų reikalus sutvarkyti iki\ngarsios Rusioje palaimintosios mergelės globėjos šven­\ntės, sutikdamas, kad teismo posėdžiuose dalyvautų\nMackevičius. Karaliaus legatai jau keliavo namo, kai\nMaskvą pasiekė žinia, jog valachų pasiuntiniai sulai­\nkyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas\npalydovas maskvėnas gavęs įsakymą grįžti į Maskvą.\nPritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­\nliaus pasiuntinius Možaiske."
+  citata_rodoma: |
+    Be to, sutarė teismų reikalus sutvarkyti iki
+    garsios Rusioje palaimintosios mergelės globėjos šven­
+    tės, sutikdamas, kad teismo posėdžiuose dalyvautų
+    Mackevičius. Karaliaus legatai jau keliavo namo, kai
+    Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai­
+    kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas
+    palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.
+    Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
+    liaus pasiuntinius Možaiske.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

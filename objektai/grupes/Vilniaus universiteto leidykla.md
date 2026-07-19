@@ -64,7 +64,17 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
 
     Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
     leidykla, 2012. – 280 p.
-  citata_rodoma: "Kalbos redaktorė Gražina Indrišiūnienė\nViršelio dailininkė Audronė Uzielaitė\nMaketuotoja Vida Vaidakavičienė\nIšleido Vilniaus universitetas, Vilniaus universiteto leidykla\nUniversiteto g. 3, LT-01122 Vilnius\nAlfonsas Eidintas, Alfredas Bumblauskas, \nAntanas Kulakauskas, Mindaugas Tamošaitis\n\nLietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto \nleidykla, 2012. – 280 p."
+  citata_rodoma: |
+    Kalbos redaktorė Gražina Indrišiūnienė
+    Viršelio dailininkė Audronė Uzielaitė
+    Maketuotoja Vida Vaidakavičienė
+    Išleido Vilniaus universitetas, Vilniaus universiteto leidykla
+    Universiteto g. 3, LT-01122 Vilnius
+    Alfonsas Eidintas, Alfredas Bumblauskas,
+    Antanas Kulakauskas, Mindaugas Tamošaitis
+
+    Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
+    leidykla, 2012. – 280 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

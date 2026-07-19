@@ -158,7 +158,11 @@ Nenurodyta
     ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: "mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su\nta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo\nVitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­\ngos pirklys Hanulo įteikė jam pilies raktus^1 )."
+  citata_rodoma: |
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -179,7 +183,9 @@ Nenurodyta
     sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
     Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
     to raktus ir pavedė karo vadovybę.
-  citata_rodoma: "Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­\nto raktus ir pavedė karo vadovybę."
+  citata_rodoma: |
+    Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
+    to raktus ir pavedė karo vadovybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

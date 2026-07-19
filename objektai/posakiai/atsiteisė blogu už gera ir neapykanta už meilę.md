@@ -87,12 +87,17 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Šis, paklausęs patarimo, susikvietė daug brolių bei
-    ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
-    juos užpuolė ir visus išžudė. Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
-    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
-    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-  citata_rodoma: "Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą\n\n  Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug\nkartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,\natsiteisė blogu už gera ir neapykanta už meilę."
+    Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
+
+      Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
+    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
+    atsiteisė blogu už gera ir neapykanta už meilę.
+  citata_rodoma: |
+    Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
+
+      Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
+    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
+    atsiteisė blogu už gera ir neapykanta už meilę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

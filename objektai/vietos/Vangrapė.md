@@ -108,7 +108,11 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
     katilą ir, verždamiesi toliau, iš pamatų sugriovė visus tris kuorus, iš 1300 vyrų, kurie
     turėjo juos ginti, retas kuris išvengė mirties, o brolių pusėje krito nukautas tik vienas
     maršalas392.
-  citata_rodoma: "391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė\n(literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —\nVengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas)\napylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero."
+  citata_rodoma: |
+    391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė
+    (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —
+    Vengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas)
+    apylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -129,7 +133,10 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
     119 (114). Apie Bartenšteino pilies puolimą
     Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
     įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.
-  citata_rodoma: "Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391\njuos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto\nbuvo susitarę."
+  citata_rodoma: |
+    Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391
+    juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto
+    buvo susitarę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

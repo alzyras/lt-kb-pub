@@ -102,7 +102,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - saltinis: [[objektai/saltiniai/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md]]
     - vieta_saltinyje: offset: 15692-16003; match: exact
     - santrauka: Tyrulė minima kaip viena iš didžiųjų pietinės įšleities upių.
     - pagrindzia:
@@ -112,7 +112,9 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
         per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
         kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
         buvo medės, arba girios.
-  citata_rodoma: "už tų tyrų, juo į šiaurę einant,\nbuvo medės, arba girios."
+  citata_rodoma: |
+    už tų tyrų, juo į šiaurę einant,
+    buvo medės, arba girios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -99,7 +99,15 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
     šiuo sąsiauriu buvo nelengva, jūra buvo sekli, pakrantės
     prižėlusios meldų, pilna jūros pabaisų, oras šaltas, ūka­
     notas, diena nedaug šviesesnė už naktį.
-  citata_rodoma: "Buvo nutarta patiems daryti\natradimus tolimose Vakarų pasaulio pakrantėse. Dėl to\napie 450 metus prieš Kristaus gimimą iš Kartaginos buvo\nišsiųsti už Heraklio stulpų du puikūs keliautojai: vienas\njų, Hanonas, su daugybe laivų, prikrautų įvairiausių reik­\nmenų, pasuko į pietus ir palei Afrikos krantus nuplaukė\nnet iki Bajadoro kyšulio. Šio žygio mums nereikšmingas\nsmulkmenas praleisime."
+  citata_rodoma: |
+    Buvo nutarta patiems daryti
+    atradimus tolimose Vakarų pasaulio pakrantėse. Dėl to
+    apie 450 metus prieš Kristaus gimimą iš Kartaginos buvo
+    išsiųsti už Heraklio stulpų du puikūs keliautojai: vienas
+    jų, Hanonas, su daugybe laivų, prikrautų įvairiausių reik­
+    menų, pasuko į pietus ir palei Afrikos krantus nuplaukė
+    net iki Bajadoro kyšulio. Šio žygio mums nereikšmingas
+    smulkmenas praleisime.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

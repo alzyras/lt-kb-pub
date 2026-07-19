@@ -178,7 +178,25 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     antiquis, verum et ex novis experimentis lamentosis novissime in
     terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
     lor evidenter!
-  citata_rodoma: "Tačiau Gediminas, jei galiu taip \nsakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik \n1323 ir 1324 metais su plėšikaujančia ir viską naikinančia\n97\n\n## Puslapis 114\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę, \nnepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo \nne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet \nbyloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­\nchyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija: \nquod nichil aliud quam vestrarum nostrarumque terrarum sub­\nversionem sua dolosa calliditate pretendit, non solum ex multis \nantiquis, verum et ex novis experimentis lamentosis novissime in \nterra Dobrynen et confinibus Culmensibus patet et patuit prohdo- \nlor evidenter!"
+  citata_rodoma: |
+    Tačiau Gediminas, jei galiu taip
+    sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
+    1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
+    97
+
+    ## Puslapis 114
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,
+    nepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo
+    ne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet
+    byloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­
+    chyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija:
+    quod nichil aliud quam vestrarum nostrarumque terrarum sub­
+    versionem sua dolosa calliditate pretendit, non solum ex multis
+    antiquis, verum et ex novis experimentis lamentosis novissime in
+    terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
+    lor evidenter!
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

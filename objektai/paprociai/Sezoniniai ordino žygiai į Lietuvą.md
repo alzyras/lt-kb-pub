@@ -125,7 +125,12 @@ Nenurodyta
     terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
     deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
     rečiau lietuvių apgyventose vietose.
-  citata_rodoma: "Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.\nIšsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais\nterminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedideli\nkariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir rečiau\nlietuvių apgyventose vietose."
+  citata_rodoma: |
+    Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
+    Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
+    terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedideli
+    kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir rečiau
+    lietuvių apgyventose vietose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -143,7 +148,9 @@ Nenurodyta
     piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
     Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
     kryžiuočių ir 30—iš Livonijos.
-  citata_rodoma: "Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių\nir 30—iš Livonijos."
+  citata_rodoma: |
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių
+    ir 30—iš Livonijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

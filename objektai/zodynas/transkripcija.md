@@ -93,7 +93,18 @@ Nenurodyta
     apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
     joje, iš kurios transkribuotas rastasis lankraštis, ar jos
     paties transkribuotojo prirašytos — neišaiškinta.
-  citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­\nto paraštėse būta tos pačios rašysenos trumpų pastabų \napie turinį lenkų kalba, bet ar jų jau būta toje kopi­\njoje, iš kurios transkribuotas rastasis lankraštis, ar jos \npaties transkribuotojo prirašytos — neišaiškinta."
+  citata_rodoma: |
+    lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame
+    rankraščio puslapyje, XVII a. rašysena buvę lenkiškai
+    užrašyta: „Kronika Litewska z ruskiego języka na pols-
+    ki przettumaczona", nors iš tikrųjų rankraštis buvo ne
+    vertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­
+    čio, kirilica rašyto teksto transkripcija lotyniškai len­
+    kiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­
+    to paraštėse būta tos pačios rašysenos trumpų pastabų
+    apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
+    joje, iš kurios transkribuotas rastasis lankraštis, ar jos
+    paties transkribuotojo prirašytos — neišaiškinta.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas

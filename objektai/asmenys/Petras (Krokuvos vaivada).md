@@ -112,7 +112,34 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
     klasta ir nusikaltimais suge-
     n u žu d o m a s
     bėjo išvengti karo.
-  citata_rodoma: "Tuo tarpu lietuviai, matydami sąjungininkų sutriuš­\nkinimą, nėmaž neaprimo; tais pačiais metais jie stai­\ngiu antpuoliu plačiai nusiaubė didelį Mazovijos plotą; \nkunigaikščiai Konradas ir Boleslovas neturėjo nei\ndrąsos, nei jėgų priešintis: \nM a zo v ija n io k o ja m a \njie, užsidarę pilyse, \ngynė\nlie tu v ių \nsavo ir kitų bajorų turtą.\nVaišvilkas, matydamas, jog \nšitokie išpuoliai į Lenkiją ar Mažo vi ją dėl didelių at­\nstumų negali duoti nieko kito, tik karo grobį, ėmė \nmąstyti, kaip galėtų padidinti savo valdas ir praplėsti \njų ribas. Štai todėl jis perkėlė kariuomenę į Rusią, \nkurią dėl vidaus nesantarvės ir susiskaidymo lengva \nbuvo svetimšaliams skriausti; atplėšęs keletą pilių, jis \njau grasino Vladimirui ir visai Volynei. Vladimiro ku­\nnigaikštis Leonas po jo tėvo karaliaus Danieliaus mir­\nties, kai Rusios gyvenimas dar nebuvo aprimęs, be to,\nneturėdamas pakankamai jė- \nV a išv ilk a s rusų kla s- \ngų tokiam priešui atremti,\ntin gai a p su p a m a s ir \nklasta ir nusikaltimais suge-\nn u žu d o m a s \nbėjo išvengti karo."
+  citata_rodoma: |
+    Tuo tarpu lietuviai, matydami sąjungininkų sutriuš­
+    kinimą, nėmaž neaprimo; tais pačiais metais jie stai­
+    giu antpuoliu plačiai nusiaubė didelį Mazovijos plotą;
+    kunigaikščiai Konradas ir Boleslovas neturėjo nei
+    drąsos, nei jėgų priešintis:
+    M a zo v ija n io k o ja m a
+    jie, užsidarę pilyse,
+    gynė
+    lie tu v ių
+    savo ir kitų bajorų turtą.
+    Vaišvilkas, matydamas, jog
+    šitokie išpuoliai į Lenkiją ar Mažo vi ją dėl didelių at­
+    stumų negali duoti nieko kito, tik karo grobį, ėmė
+    mąstyti, kaip galėtų padidinti savo valdas ir praplėsti
+    jų ribas. Štai todėl jis perkėlė kariuomenę į Rusią,
+    kurią dėl vidaus nesantarvės ir susiskaidymo lengva
+    buvo svetimšaliams skriausti; atplėšęs keletą pilių, jis
+    jau grasino Vladimirui ir visai Volynei. Vladimiro ku­
+    nigaikštis Leonas po jo tėvo karaliaus Danieliaus mir­
+    ties, kai Rusios gyvenimas dar nebuvo aprimęs, be to,
+    neturėdamas pakankamai jė-
+    V a išv ilk a s rusų kla s-
+    gų tokiam priešui atremti,
+    tin gai a p su p a m a s ir
+    klasta ir nusikaltimais suge-
+    n u žu d o m a s
+    bėjo išvengti karo.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

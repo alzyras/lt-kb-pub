@@ -128,7 +128,29 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     VILNIAUS MIESTO ISTORIJA II TOMAS
     norėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­
     vo dienas kalėjime toje pačioje Lietuvoje.
-  citata_rodoma: "Ją skaitant atro­\ndo, kad Aleksandras, leisdamas sta­\ntyti tokius namus, turėjo omenyje ne \ntik miesto ir muito pelną, bet ir iš­\norinį saugumą. Mat rašo, jog svečiai, \ntai yra, rusų pirkliai, atvykstantys su \nsavo prekėmis į Vilnių, apsistoja \nįvairiuose namuose mieste, kur no­\nri, be jokio prisistatymo, o paskui, \nprekiaudami su vokiečiais ir kitais \nsvetimšaliais pirkliais, niekam ne­\npranešę, išvažiuoja iš miesto; ir kad \ntarp jų gali būti nepatikimų ir no­\nrinčių pakenkti, todėl įsako ir leidžia \nmiestui statyti užeigą ir t t.\n231\n\n## Puslapis 248\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nnorėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­\nvo dienas kalėjime toje pačioje Lietuvoje."
+  citata_rodoma: |
+    Ją skaitant atro­
+    do, kad Aleksandras, leisdamas sta­
+    tyti tokius namus, turėjo omenyje ne
+    tik miesto ir muito pelną, bet ir iš­
+    orinį saugumą. Mat rašo, jog svečiai,
+    tai yra, rusų pirkliai, atvykstantys su
+    savo prekėmis į Vilnių, apsistoja
+    įvairiuose namuose mieste, kur no­
+    ri, be jokio prisistatymo, o paskui,
+    prekiaudami su vokiečiais ir kitais
+    svetimšaliais pirkliais, niekam ne­
+    pranešę, išvažiuoja iš miesto; ir kad
+    tarp jų gali būti nepatikimų ir no­
+    rinčių pakenkti, todėl įsako ir leidžia
+    miestui statyti užeigą ir t t.
+    231
+
+    ## Puslapis 248
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    norėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­
+    vo dienas kalėjime toje pačioje Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -196,7 +218,14 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     tyti tokius namus, turėjo omenyje ne
     tik miesto ir muito pelną, bet ir iš­
     orinį saugumą.
-  citata_rodoma: "44\nSvečių namams skirta privilegija yra: \nD u b i ń s k i, 1.18. Ją skaitant atro­\ndo, kad Aleksandras, leisdamas sta­\ntyti tokius namus, turėjo omenyje ne \ntik miesto ir muito pelną, bet ir iš­\norinį saugumą."
+  citata_rodoma: |
+    44
+    Svečių namams skirta privilegija yra:
+    D u b i ń s k i, 1.18. Ją skaitant atro­
+    do, kad Aleksandras, leisdamas sta­
+    tyti tokius namus, turėjo omenyje ne
+    tik miesto ir muito pelną, bet ir iš­
+    orinį saugumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

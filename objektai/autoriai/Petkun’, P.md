@@ -71,7 +71,12 @@ media_all_json: |-
     zbirnik pošanu akademyka M. S. Hruševskoho, I, 1928, Kijiv, 165-168
     p. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką). —
     Presniakov, A. E. : _Lekciji po russkoj istoriji,_ t. 2, vyp.
-  citata_rodoma: "— Paszkiewicz, H. : PaJM. — Petkun’, P. : _Schidnia meža Ve-\nlykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj\nzbirnik pošanu akademyka M. S. Hruševskoho, I, 1928, Kijiv, 165-168\np. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką). —\nPresniakov, A."
+  citata_rodoma: |
+    — Paszkiewicz, H. : PaJM. — Petkun’, P. : _Schidnia meža Ve-
+    lykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj
+    zbirnik pošanu akademyka M. S. Hruševskoho, I, 1928, Kijiv, 165-168
+    p. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką). —
+    Presniakov, A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

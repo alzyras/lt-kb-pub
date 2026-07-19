@@ -155,8 +155,28 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     pirmieji to dokumento žodžiai:
     „Mes, didysis kunigaikštis Vytautas,
     švento krikšto metu gavęs Aleksan­
-    dro vardą" ir 1.1.
-  citata_rodoma: "Veiklus, santūrus, kilnus, my­\nlintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika, \ntačiau ūmus, per daug ambicingas, kartais siekiantis savo \ntikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto \ngeri ir blogi bruožai. Vis dėlto pirmieji nusveria antruo­\nsius: juk visos Vytauto dorybės tik jo paties, gyvenusio\n85\nTiesa, šimtmečiu vėliau karalienė \nBona pagerbė Vytauto atminimą \nantkapiniu marmuro paminklu di­\ndžiojo altoriaus dešinėje pusėje. Iš \nvieno Vytauto dovanojimo akto Tra­\nkų miestui, 1384 metų rugpjūčio 23 \ndieną rašyto, aišku, kaip tatai ir iš \nistorijos žinoma, kad tuo metu jis jau \nbuvęs krikščionis, ką liudija patys \npirmieji to dokumento žodžiai:\n„Mes, didysis kunigaikštis Vytautas, \nšvento krikšto metu gavęs Aleksan­\ndro vardą\" ir 1."
+    dro vardą" ir 1.
+  citata_rodoma: |
+    Veiklus, santūrus, kilnus, my­
+    lintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika,
+    tačiau ūmus, per daug ambicingas, kartais siekiantis savo
+    tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
+    geri ir blogi bruožai. Vis dėlto pirmieji nusveria antruo­
+    sius: juk visos Vytauto dorybės tik jo paties, gyvenusio
+    85
+    Tiesa, šimtmečiu vėliau karalienė
+    Bona pagerbė Vytauto atminimą
+    antkapiniu marmuro paminklu di­
+    džiojo altoriaus dešinėje pusėje. Iš
+    vieno Vytauto dovanojimo akto Tra­
+    kų miestui, 1384 metų rugpjūčio 23
+    dieną rašyto, aišku, kaip tatai ir iš
+    istorijos žinoma, kad tuo metu jis jau
+    buvęs krikščionis, ką liudija patys
+    pirmieji to dokumento žodžiai:
+    „Mes, didysis kunigaikštis Vytautas,
+    švento krikšto metu gavęs Aleksan­
+    dro vardą" ir 1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

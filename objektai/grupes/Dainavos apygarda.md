@@ -72,7 +72,11 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
     Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
     pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
     vėliau ir LLKS gynybos pajėgų vadu.
-  citata_rodoma: "Po kelių mėnesių Ramanauskas-Vanagas\nbuvo pakeltas į Merkio rinktinės vado pareigas.\nVėliau jis tapo Dainavos apygardos ir Pietų Lietuvos\nsrities partizanų vadu. 1949 m."
+  citata_rodoma: |
+    Po kelių mėnesių Ramanauskas-Vanagas
+    buvo pakeltas į Merkio rinktinės vado pareigas.
+    Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos
+    srities partizanų vadu. 1949 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

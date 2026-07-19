@@ -102,7 +102,8 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
     knygą prof. dr. Zenonui Butkui ir doc. dr. Sauliui Kaubriui ir daugeliui
     kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
     atrinkimo.
-  citata_rodoma: "nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip"
+  citata_rodoma: |
+    nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -117,7 +118,8 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
   citata_originali: |
     Vilnius, 2010.
     Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000.
-  citata_rodoma: "Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000."
+  citata_rodoma: |
+    Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

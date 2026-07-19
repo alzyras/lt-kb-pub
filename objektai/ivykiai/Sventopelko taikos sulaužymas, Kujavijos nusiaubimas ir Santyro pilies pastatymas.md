@@ -134,7 +134,15 @@ Nenurodyta
     didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
     prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
     plaukioti Vysla aukštyn ir žemyn.
-  citata_rodoma: "Kai jam dėl šito buvo prikaišiojama, jis\natsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis\nnesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su\nmanimi gyventi taikiai“. Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau\npradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir\nNogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo\nbrolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,\nišsivarydavo juos į nelaisvę ar nugalabydavo."
+  citata_rodoma: |
+    Kai jam dėl šito buvo prikaišiojama, jis
+    atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
+    nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
+    manimi gyventi taikiai“. Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
+    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
+    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
+    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
+    išsivarydavo juos į nelaisvę ar nugalabydavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -157,7 +165,16 @@ Nenurodyta
     atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
     nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
     manimi gyventi taikiai“.
-  citata_rodoma: "Tačiau iš įgimto piktumo nesiliovė klastingai\nir slaptai persekiojęs brolių bei tikinčiųjų ir nieko neėmė  į galvą, kai broliai jam šitai\nprikaišiojo. Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę\nir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,\nbaisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop\nsugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis\natsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis\nnesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su\nmanimi gyventi taikiai“."
+  citata_rodoma: |
+    Tačiau iš įgimto piktumo nesiliovė klastingai
+    ir slaptai persekiojęs brolių bei tikinčiųjų ir nieko neėmė  į galvą, kai broliai jam šitai
+    prikaišiojo. Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę
+    ir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,
+    baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop
+    sugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis
+    atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
+    nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
+    manimi gyventi taikiai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

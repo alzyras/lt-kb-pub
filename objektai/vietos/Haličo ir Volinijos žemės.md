@@ -63,11 +63,15 @@ Prasidėjęs kon­ fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusit�
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    anksčiau palaikomi intereso prieš bendrą priešą. Prasidėjęs kon­
+    Prasidėjęs kon­
     fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusitęsė iki Liud­
     viko Anjou mirties (1382).
     Po laikino atodūsio, nuo 1328 Lietuvą vėl užgulė sunki našta.
-  citata_rodoma: "Prasidėjęs kon­\nfliktas dėl Haličo ir Volinijos žemių paveldėjimo nusitęsė iki Liud­\nviko Anjou mirties (1382).\nPo laikino atodūsio, nuo 1328 Lietuvą vėl užgulė sunki našta."
+  citata_rodoma: |
+    Prasidėjęs kon­
+    fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusitęsė iki Liud­
+    viko Anjou mirties (1382).
+    Po laikino atodūsio, nuo 1328 Lietuvą vėl užgulė sunki našta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

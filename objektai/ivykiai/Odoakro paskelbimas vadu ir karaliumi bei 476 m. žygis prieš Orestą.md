@@ -152,7 +152,20 @@ Nenurodyta
     imperatorius Augustulas pateko nelaisvėn ir liko gyvas
     tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
     ratoriaus ženklus ir purpurus.
-  citata_rodoma: "303\n\n## Puslapis 314\n\n317\nKaringoms, nesvetingų italų pavydo ir Oresto griež­\ntumo išgąsdintoms gentims nieko daugiau nereikėjo; 476\nmetų pradžioje visi alanai, turcilingai, gepidai, skiriai,\nherulai paskelbė Odoakrą savo vadu jr karaliumi. Sis\nnaujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­\nmas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­\nšinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo\nlaikoma Italijos sostine."
+  citata_rodoma: |
+    303
+
+    ## Puslapis 314
+
+    317
+    Karingoms, nesvetingų italų pavydo ir Oresto griež­
+    tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
+    metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
+    herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
+    naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
+    mas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­
+    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
+    laikoma Italijos sostine.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -174,7 +187,15 @@ Nenurodyta
     miestą, esanti netoli Neapolio, t. y. Lukulanumą, kuris
     atnešdavo šešis tūkstančius solidų, to meto piniginių vie­
     netų, metinių pajamų.
-  citata_rodoma: "Orestas, nedrįsęs atvirai pasiprie­\nšinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo\nlaikoma Italijos sostine. Odoakro kariuomenės apgultas\nmiestas netrukus buvo užimtas, apiplėštas ir sunaikin­\ntas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,\nimperatorius Augustulas pateko nelaisvėn ir liko gyvas\ntik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­\nratoriaus ženklus ir purpurus."
+  citata_rodoma: |
+    Orestas, nedrįsęs atvirai pasiprie­
+    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
+    laikoma Italijos sostine. Odoakro kariuomenės apgultas
+    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
+    tas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,
+    imperatorius Augustulas pateko nelaisvėn ir liko gyvas
+    tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
+    ratoriaus ženklus ir purpurus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

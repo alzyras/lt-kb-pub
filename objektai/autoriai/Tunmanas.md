@@ -173,7 +173,12 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
     jau dėl to, kad buvo rastos Lietuvos žemėje.
     III
     lentelė, 10-asis piešinys.
-  citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
+  citata_rodoma: |
+    Apie tai byloja ir pats žibintas -
+    aiškus šviesos atributas**.
+    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
+    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
+    Nauk. -  Warszawa, 1812).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -218,7 +223,16 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
     Vidivarii (alii legunt Vidioarii), resident ex diversis nationibus aggre­
     gati (Capite 5). Gepidae commanebant in insula Viselae amnis cir­
     cumacta, quam pro patrio sermone dicebant Gepidos.
-  citata_rodoma: "Ar galima tuo remiantis daryti prie­\nlaidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad\nšis tautų lydinys yra tikras ir vienintelis lietuvių protėvis?\nJuk žymus švedų senovės istorikas Tunmanas, susižavė­\njęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo\ngaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje\nir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­\nrėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­\nlio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos."
+  citata_rodoma: |
+    Ar galima tuo remiantis daryti prie­
+    laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad
+    šis tautų lydinys yra tikras ir vienintelis lietuvių protėvis?
+    Juk žymus švedų senovės istorikas Tunmanas, susižavė­
+    jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo
+    gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje
+    ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­
+    rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­
+    lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

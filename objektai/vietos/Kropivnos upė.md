@@ -70,7 +70,16 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
     riai smogė į Konstantino kariuomenės sparną: narsiai
     gindamiesi, lietuviai atlaikė pirmąjį smūgį ir, sutelkę
     jėgas, atstūmė priešą.
-  citata_rodoma: "Konstantinas, pasukęs su savo kariais į\nkairę, užvedė priešo raitelius, lipte lipančius jiems ant\nkulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­\nmas savo raitelių vėliavoms sugrįžti ir užpulti priešą.\nMaskvėnai, nelaukę šitokio manevro, dėl kurio žuvo\ndaugybė jų karių, šaukdami ir rėkdami pasileido išsi­\ngandę bėgti. Kova pavirto tikromis skerdynėmis, ne­\nmaža maskvėnų prigėrė Kropivnos pelkėse ir pačioje\nupėje."
+  citata_rodoma: |
+    Konstantinas, pasukęs su savo kariais į
+    kairę, užvedė priešo raitelius, lipte lipančius jiems ant
+    kulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­
+    mas savo raitelių vėliavoms sugrįžti ir užpulti priešą.
+    Maskvėnai, nelaukę šitokio manevro, dėl kurio žuvo
+    daugybė jų karių, šaukdami ir rėkdami pasileido išsi­
+    gandę bėgti. Kova pavirto tikromis skerdynėmis, ne­
+    maža maskvėnų prigėrė Kropivnos pelkėse ir pačioje
+    upėje.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

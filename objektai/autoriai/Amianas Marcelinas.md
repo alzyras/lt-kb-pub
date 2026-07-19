@@ -136,7 +136,15 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą. Nestoras irgi nusirašė visa tai.
-  citata_rodoma: "Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama \nChue, Chunnigard-, ji priklausė minėtai tautai. Galėjo \nbūti, kad slavai, vėliau tapę šios tvirtovės šeimininkais, \nėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe- \nrewoz, o iš čia pasakojimas apie tris brolius — K i j ų, \nŠčeką ir Choryvą — susiliejo išvien su žiniomis apie se­\nnovės Kijevą. Nestoras irgi nusirašė visa tai."
+  citata_rodoma: |
+    Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
+    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
+    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
+    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
+    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
+    novės Kijevą. Nestoras irgi nusirašė visa tai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

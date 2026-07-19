@@ -109,7 +109,10 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     patraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus
     prūsus. Tą dieną pakilo tokia migla, kad žmonės, tolėliau stovėdami, negalėjo kits kito
     matyti.
-  citata_rodoma: "412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),\nkitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,\nDie Eroberung.., 4, 109; Sch-K)."
+  citata_rodoma: |
+    412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),
+    kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,
+    Die Eroberung.., 4, 109; Sch-K).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

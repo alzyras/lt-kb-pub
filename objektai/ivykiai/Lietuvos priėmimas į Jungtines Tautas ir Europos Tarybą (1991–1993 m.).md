@@ -91,7 +91,8 @@ Nenurodyta
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: "nizacijas ir tapti visateise valstybe. 1991 m. rugsėjo 17 d. Lietuva priimta"
+  citata_rodoma: |
+    nizacijas ir tapti visateise valstybe. 1991 m. rugsėjo 17 d. Lietuva priimta
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

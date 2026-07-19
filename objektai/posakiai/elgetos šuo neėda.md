@@ -69,7 +69,8 @@ Trumpa formulė apie elgetos santykį su šunimis.
     Aš
     žiūrėjau, kad šunys tavęs nesitvertų“ . Ne, sakau, šunys manęs nelo­
     ja. Ką veiks ir pasivertę: elgetos šuo neėda.
-  citata_rodoma: "Ką veiks ir pasivertę: elgetos šuo neėda."
+  citata_rodoma: |
+    Ką veiks ir pasivertę: elgetos šuo neėda.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

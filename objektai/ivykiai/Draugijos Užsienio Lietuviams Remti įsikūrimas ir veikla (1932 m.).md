@@ -102,7 +102,10 @@ Nenurodyta
     Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
     lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
     siunčia išeivių bibliotekoms knygų ir vadovėlių.
-  citata_rodoma: "Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi\nlietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,\nsiunčia išeivių bibliotekoms knygų ir vadovėlių."
+  citata_rodoma: |
+    Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
+    lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
+    siunčia išeivių bibliotekoms knygų ir vadovėlių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

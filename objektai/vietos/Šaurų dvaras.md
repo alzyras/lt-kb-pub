@@ -143,7 +143,13 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
     Pirmieji T. Narbuto spausdinti darbai - tai užsienietiškų
     leidinių apžvalgos, eilėraščiai, vertimai Vilniaus laikraščiuo­
     se.
-  citata_rodoma: "Vi­\nsuomenės akyse jis tapo LTI autoriumi.\nTeodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­\nviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­\nbutai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose\nminima nuo Horodlės unijos laikų."
+  citata_rodoma: |
+    Vi­
+    suomenės akyse jis tapo LTI autoriumi.
+    Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­
+    viete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­
+    butai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose
+    minima nuo Horodlės unijos laikų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -156,13 +162,19 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­
-    sių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­
-    jo paieškos. Juo tapo Antanas Marcinovskis (1781-1855) - ži­
-    nomas Vilniaus literatas, redaktorius ir spaustuvės savininkas,
-    vienas ryškiausių to meto intelektualų. Nesuklysime sakyda­
-    mi, kad būtent jam reikėtų priskirti dalį LTI šlovės, nors iš
-  citata_rodoma: "žemaitis. Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­\ntais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­\ndžiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­\npliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­\nkos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­\nma nemažai šio žemaičių literato rankraščių."
+    žemaitis. Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
+    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
+    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių.
+  citata_rodoma: |
+    žemaitis. Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
+    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
+    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

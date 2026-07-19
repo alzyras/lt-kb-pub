@@ -61,7 +61,14 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
     į kautynes įsitraukė ir Žaliosios rinktinės
     Aušros (vadas Ignas Gasčiūnas- Artojas)
     būrys.
-  citata_rodoma: "Pirmiausia buvo pulta viena vietinių vyrų,\ndaugiausia iš Dragonių k. stovykla, o pasi-\ngirdus šūviams į pagalbą metėsi kaimynys-\ntėje stovyklavę partizanų būriai. Tuojau pat\nį kautynes įsitraukė ir Žaliosios rinktinės\nAušros (vadas Ignas Gasčiūnas- Artojas)\nbūrys."
+  citata_rodoma: |
+    Pirmiausia buvo pulta viena vietinių vyrų,
+    daugiausia iš Dragonių k. stovykla, o pasi-
+    girdus šūviams į pagalbą metėsi kaimynys-
+    tėje stovyklavę partizanų būriai. Tuojau pat
+    į kautynes įsitraukė ir Žaliosios rinktinės
+    Aušros (vadas Ignas Gasčiūnas- Artojas)
+    būrys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -164,7 +164,9 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     mo dokumentu.
     Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
-  citata_rodoma: "Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams \natsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą."
+  citata_rodoma: |
+    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
+    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -205,7 +207,11 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
     davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
     kur Taryba veda Lietuvą.
-  citata_rodoma: "Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-\ncijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, \ndavė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, \nkur Taryba veda Lietuvą."
+  citata_rodoma: |
+    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
+    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
+    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
+    kur Taryba veda Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +233,10 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-
     temos keitimą, o tautiniu klausimu
     pasisakyta atsargiai.
-  citata_rodoma: "„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-\ntemos keitimą, o tautiniu klausimu \npasisakyta atsargiai."
+  citata_rodoma: |
+    „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-
+    temos keitimą, o tautiniu klausimu
+    pasisakyta atsargiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -249,7 +258,11 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
     čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
     dėl Lietuvos SSR valstybinio suvereniteto.
-  citata_rodoma: "LPS reika-\nlaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-\nčios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija \ndėl Lietuvos SSR valstybinio suvereniteto."
+  citata_rodoma: |
+    LPS reika-
+    laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
+    čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
+    dėl Lietuvos SSR valstybinio suvereniteto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

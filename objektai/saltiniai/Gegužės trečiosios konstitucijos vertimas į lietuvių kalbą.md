@@ -77,7 +77,11 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
     tucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos
     kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės
     literatūros tekstų.
-  citata_rodoma: "Neatsitiktinai tuo metu konsti-\ntucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos\nkultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės\nliteratūros tekstų."
+  citata_rodoma: |
+    Neatsitiktinai tuo metu konsti-
+    tucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos
+    kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės
+    literatūros tekstų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

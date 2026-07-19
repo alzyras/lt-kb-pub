@@ -200,7 +200,20 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     švedų kariuomenei,
     veikusiai prieš lietu-
     vius Livonijoje. 1616 m.
-  citata_rodoma: "ee Kuoknesės pilis\n\nBaronas Karolis Karl-\nsonas Gyllenhielmas\n(Carl Carlson Gyllen-\nhielm, 1574-1650 m.)\nŠvedijos karaliaus\nKarolio 1x ir Karinos\nNilsdotter nesantuo-\nkinis sūnus. Vadovavo\nšvedų kariuomenei,\nveikusiai prieš lietu-\nvius Livonijoje."
+  citata_rodoma: |
+    ee Kuoknesės pilis
+
+    Baronas Karolis Karl-
+    sonas Gyllenhielmas
+    (Carl Carlson Gyllen-
+    hielm, 1574-1650 m.)
+    Švedijos karaliaus
+    Karolio 1x ir Karinos
+    Nilsdotter nesantuo-
+    kinis sūnus. Vadovavo
+    švedų kariuomenei,
+    veikusiai prieš lietu-
+    vius Livonijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -223,7 +236,16 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 
     puolimo kryptimi (į dešinįjį lietuvių
     sparną) gvardijos kavaleriją.
-  citata_rodoma: "SALASPILIO (KIRKCHOLMO) MUSIS\n\nriuomenės karališkosios gvardijos pėstininkų batalionas, už jo\nant žirgo Švedijos karalius Karolis Ix. Jį apsupę ginkluoti alebardo-\nmis kariai — pėstininkų karininkai. Netrukus karalius duos nurodymą\nsiųsti gvardijos kavaleriją į lemiamą ataką\n\npuolimo kryptimi (į dešinįjį lietuvių\nsparną) gvardijos kavaleriją."
+  citata_rodoma: |
+    SALASPILIO (KIRKCHOLMO) MUSIS
+
+    riuomenės karališkosios gvardijos pėstininkų batalionas, už jo
+    ant žirgo Švedijos karalius Karolis Ix. Jį apsupę ginkluoti alebardo-
+    mis kariai — pėstininkų karininkai. Netrukus karalius duos nurodymą
+    siųsti gvardijos kavaleriją į lemiamą ataką
+
+    puolimo kryptimi (į dešinįjį lietuvių
+    sparną) gvardijos kavaleriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

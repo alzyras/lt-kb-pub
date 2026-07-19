@@ -133,7 +133,16 @@ Nenurodyta
     Sudarius Liublino uniją, aplinkybės kurį
     laiką neleido imtis rimtų karo veiksmų.
     1570 m.
-  citata_rodoma: "Šios aplinkybės pastūmėjo LDK gana\nnepalankiomis sąlygomis 1569 m. sudaryti\nsu Lenkija Liublino uniją, tikintis karinės\npagalbos, kuri leistų pasiekti persilaužimą\nkare su Maskva ir likviduoti egezistencinį\npavojų Lietuvai.\n\nSudarius Liublino uniją, aplinkybės kurį\nlaiką neleido imtis rimtų karo veiksmų."
+  citata_rodoma: |
+    Šios aplinkybės pastūmėjo LDK gana
+    nepalankiomis sąlygomis 1569 m. sudaryti
+    su Lenkija Liublino uniją, tikintis karinės
+    pagalbos, kuri leistų pasiekti persilaužimą
+    kare su Maskva ir likviduoti egezistencinį
+    pavojų Lietuvai.
+
+    Sudarius Liublino uniją, aplinkybės kurį
+    laiką neleido imtis rimtų karo veiksmų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

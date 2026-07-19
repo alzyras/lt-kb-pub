@@ -61,7 +61,12 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
     den“^1 ) ir pakilusia nuotaika kovojo toliau. Keletas Ordino vėlia­
     vų (ją buvo devynios) metėsi vytis besitraukiančią lietuvių ka­
     riuomenę.
-  citata_rodoma: "Or­\ndino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­\nden“^1 ) ir pakilusia nuotaika kovojo toliau. Keletas Ordino vėlia­\nvų (ją buvo devynios) metėsi vytis besitraukiančią lietuvių ka­\nriuomenę."
+  citata_rodoma: |
+    Or­
+    dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­
+    den“^1 ) ir pakilusia nuotaika kovojo toliau. Keletas Ordino vėlia­
+    vų (ją buvo devynios) metėsi vytis besitraukiančią lietuvių ka­
+    riuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

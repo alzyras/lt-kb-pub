@@ -85,7 +85,15 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
     ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
     pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
     taip. Priešingais atvejais broliai irgi tinkamai elgėsi.
-  citata_rodoma: "tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė  į Sūduvą; kai jis žygiavo\natgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi  jį persekioti, nukovė\nir jį, ir 30 vyrų. Vis dėlto manyčiau, jog nieku būdu nederėtų nutylėti, kad šis brolis\nFridrichas prieš savo žūtį taip smarkiai kirto kalaviju per nugarą vienam tvirtam kariui,\npastojusiam kovoje jam kelią, taip baisiai jam smogė, kad tas, neatlaikęs smūgio, su\narkliu parkrito žemėn, nors šis kirtis jo visai nesužeidė ir nepaliko ant kūno jokio žaizdos\npėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti\nsūduviai, dalyvavę tame kare ir viską matę."
+  citata_rodoma: |
+    tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė  į Sūduvą; kai jis žygiavo
+    atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi  jį persekioti, nukovė
+    ir jį, ir 30 vyrų. Vis dėlto manyčiau, jog nieku būdu nederėtų nutylėti, kad šis brolis
+    Fridrichas prieš savo žūtį taip smarkiai kirto kalaviju per nugarą vienam tvirtam kariui,
+    pastojusiam kovoje jam kelią, taip baisiai jam smogė, kad tas, neatlaikęs smūgio, su
+    arkliu parkrito žemėn, nors šis kirtis jo visai nesužeidė ir nepaliko ant kūno jokio žaizdos
+    pėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti
+    sūduviai, dalyvavę tame kare ir viską matę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

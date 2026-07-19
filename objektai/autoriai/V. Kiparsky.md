@@ -69,7 +69,8 @@ Kiparsky, V.: Baltische Sprachen und Völ­ ker, Baltische Lande, I, 1939, 48-59
     trimas, J. (= Jonikas, P.) : _Baltų kalbos ir tautos,_ Aidai, nr. 6, 1947,
     263-267 p. -— Kiparsky, V. : _Kurenfrage,_ 1939. — Klimas, P. : _Lietuva,
     jos gyventojai ir sienos,_ Kaunas 1917.
-  citata_rodoma: "-— Kiparsky, V. : _Kurenfrage,_ 1939. — Klimas, P."
+  citata_rodoma: |
+    -— Kiparsky, V. : _Kurenfrage,_ 1939. — Klimas, P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

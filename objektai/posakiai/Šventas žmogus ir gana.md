@@ -68,7 +68,8 @@ Trumpa gynybinė vertinimo formulė.
   citata_originali: |
     — Eik, eik! Ką čia šneki niekus! Šventas žmogus ir gana, — sa­
     ko šeimininkė.
-  citata_rodoma: "— Eik, eik! Ką čia šneki niekus! Šventas žmogus ir gana, — sako šeimininkė."
+  citata_rodoma: |
+    — Eik, eik! Ką čia šneki niekus! Šventas žmogus ir gana, — sako šeimininkė.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

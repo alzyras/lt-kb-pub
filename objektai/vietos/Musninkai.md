@@ -64,7 +64,12 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
     Dubingių-Švenčionėlių linijoje.
 
     artilerijos baterija.
-  citata_rodoma: "Frontas nusistovėjo Kernavės-\nMusninkų-Širvintų- Giedraičių\nDubingių-Švenčionėlių linijoje.\n\nartilerijos baterija."
+  citata_rodoma: |
+    Frontas nusistovėjo Kernavės-
+    Musninkų-Širvintų- Giedraičių
+    Dubingių-Švenčionėlių linijoje.
+
+    artilerijos baterija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

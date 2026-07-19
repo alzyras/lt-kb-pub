@@ -61,7 +61,14 @@ Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir g
     ir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei
     jo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo
     turtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias.
-  citata_rodoma: "Vis dėlto dievas, būdamas\nir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak\npranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo\nnedraugams, ir jis rūstinasi ant savo priešų” (Nah 1, 2). Argi tad galėjo viešpats kantriai\nir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei\njo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo\nturtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias."
+  citata_rodoma: |
+    Vis dėlto dievas, būdamas
+    ir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak
+    pranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo
+    nedraugams, ir jis rūstinasi ant savo priešų” (Nah 1, 2). Argi tad galėjo viešpats kantriai
+    ir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei
+    jo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo
+    turtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

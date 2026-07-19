@@ -98,7 +98,10 @@ Nenurodyta
     respublikomis. Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
     mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
     valstybės nuosavybe, o ūkininkai – žemės naudotojais.
-  citata_rodoma: "Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-\nmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo\nvalstybės nuosavybe, o ūkininkai – žemės naudotojais."
+  citata_rodoma: |
+    Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
+    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
+    valstybės nuosavybe, o ūkininkai – žemės naudotojais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

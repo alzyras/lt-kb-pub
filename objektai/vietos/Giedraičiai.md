@@ -165,7 +165,18 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     iš šiaurės rytų. Lietuvių pajėgos negalėjo
     atsilaikyti prieš gausių lenkų pajėgų puo-
     lima.
-  citata_rodoma: "LIETUVOS\nRESPUBLIKA\n\nKautynių priešistorė\n\n1920 m. spalio 9 d. želigovskininkai užė-\nmė Vilnių ir ėmė veržtis toliau į Lietuvos\nteritoriją. Viena svarbiausių lenkų puo-\nlimo krypčių buvo Ukmergės link pro\nGiedraičius su galutiniu tikslu pulti Kauną\niš šiaurės rytų."
+  citata_rodoma: |
+    LIETUVOS
+    RESPUBLIKA
+
+    Kautynių priešistorė
+
+    1920 m. spalio 9 d. želigovskininkai užė-
+    mė Vilnių ir ėmė veržtis toliau į Lietuvos
+    teritoriją. Viena svarbiausių lenkų puo-
+    limo krypčių buvo Ukmergės link pro
+    Giedraičius su galutiniu tikslu pulti Kauną
+    iš šiaurės rytų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +202,15 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
-  citata_rodoma: "Lietuvių artilerija prieš lenkų dalinius  \n1920 m. kovose prie Giedraičių\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n145\nSąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-\ntuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos \nvadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo."
+  citata_rodoma: |
+    Lietuvių artilerija prieš lenkų dalinius
+    1920 m. kovose prie Giedraičių
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    145
+    Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
+    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
+    vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -213,7 +232,14 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     jinga padėtis, lenkams pasiekus savo puo-
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
-  citata_rodoma: "Spalio 26-27 d. lenkai apėjo kai-\n\nrįjį lietuvių sparną ir užėmė Giedraičius,\nŽelvą, Dubingius, Vidiškį. Susidarė pavo-\njinga padėtis, lenkams pasiekus savo puo-\nlimo tikslą, Lietuvai būtų iškilęs pavojus\nprarasti nepriklausomybę."
+  citata_rodoma: |
+    Spalio 26-27 d. lenkai apėjo kai-
+
+    rįjį lietuvių sparną ir užėmė Giedraičius,
+    Želvą, Dubingius, Vidiškį. Susidarė pavo-
+    jinga padėtis, lenkams pasiekus savo puo-
+    limo tikslą, Lietuvai būtų iškilęs pavojus
+    prarasti nepriklausomybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -240,7 +266,16 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     Frontas nusistovėjo Kernavės-
     Musninkų-Širvintų- Giedraičių
     Dubingių-Švenčionėlių linijoje.
-  citata_rodoma: "Šis ženklas atspindėjo siekį\natkurti didžiąją Lenkiją\ninkorporuojant į ją visą\nLietuvos teritoriją\n\njau E. Adamkavičiaus vado-\nvaujama 1-oji divizija spalio\n29-31 d. sėkmingai kontraat-\nakavo ir išvadavo Giedraičius."
+  citata_rodoma: |
+    Šis ženklas atspindėjo siekį
+    atkurti didžiąją Lenkiją
+    inkorporuojant į ją visą
+    Lietuvos teritoriją
+
+    jau E. Adamkavičiaus vado-
+    vaujama 1-oji divizija spalio
+    29-31 d. sėkmingai kontraat-
+    akavo ir išvadavo Giedraičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

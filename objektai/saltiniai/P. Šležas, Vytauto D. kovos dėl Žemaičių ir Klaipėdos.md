@@ -71,7 +71,12 @@ media_all_json: |-
     412 p. — (”) _Klaipėdos miesto istorijos bruožai 1252-1466,_ Mūsų Žinynas,
 
     1933.
-  citata_rodoma: "— Šležas,\nP. : _Vytauto D. kovos dėl Žemaičių ir Klaipėdos,_ NaR, nr. 18, 1932, 409-\n412 p. — (”) _Klaipėdos miesto istorijos bruožai 1252-1466,_ Mūsų Žinynas,\n\n1933."
+  citata_rodoma: |
+    — Šležas,
+    P. : _Vytauto D. kovos dėl Žemaičių ir Klaipėdos,_ NaR, nr. 18, 1932, 409-
+    412 p. — (”) _Klaipėdos miesto istorijos bruožai 1252-1466,_ Mūsų Žinynas,
+
+    1933.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

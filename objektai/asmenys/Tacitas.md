@@ -308,7 +308,17 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
     kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
     1 De Mor.
-  citata_rodoma: "Tad atleiskime\nsenovės autoriams, kurių geografinių žinių gavimo gali­\nmybės buvo labiau ribotos negu mūsų; jos pražuvo, mums\nliko vien spausdintos Plinijaus ištraukos arba kitų geog­\nrafų traktatų fragmentai. Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys."
+  citata_rodoma: |
+    Tad atleiskime
+    senovės autoriams, kurių geografinių žinių gavimo gali­
+    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
+    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
+    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
+    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
+    klauso nei sarmatams, nei germanams, turi daug žemių,
+    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
+    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
+    rytuose yra nežinomos sritys.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -333,7 +343,14 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     čiuojamą daugybę dievų, religinių tradicijų; slavai šia
     prasme taip nedarė, nes, nors slavų mitologijoje buvo
     nemažai dievų, jiems lenkėsi ne visos gentys.
-  citata_rodoma: "Plinijus teigia, kad jazigai gyveno prie Tisos\nupės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria\njų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­\nringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­\ndo, kad jie kariavo su svevų karaliaus Vanijaus Vanino\nvėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus\nmetu kovėsi romėnų gretose."
+  citata_rodoma: |
+    Plinijus teigia, kad jazigai gyveno prie Tisos
+    upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
+    jų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­
+    ringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­
+    do, kad jie kariavo su svevų karaliaus Vanijaus Vanino
+    vėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus
+    metu kovėsi romėnų gretose.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -362,7 +379,12 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     suskirstyti metų laikus pagal žemės darbus ir iš anksto praneš-
     ti juos ateinant ; šaukti ir suburti į krūvą žmones, jeigu jam
     reikėdavo paskelbti kokius nors dalykus dievų vardu.
-  citata_rodoma: "Tacitas žinojo apie šią žynių klasę, kadangi juos vadina\nmiesto žyniais . Bet jo laikais dar nebuvo bendrų vyriausiųjų\nžynių, kurie prasideda nuo Vaidevučio, tai yra nuo krikščio­\nniškos eros šeštojo amžiaus pradžios. 15\n15 Czacki."
+  citata_rodoma: |
+    Tacitas žinojo apie šią žynių klasę, kadangi juos vadina
+    miesto žyniais . Bet jo laikais dar nebuvo bendrų vyriausiųjų
+    žynių, kurie prasideda nuo Vaidevučio, tai yra nuo krikščio­
+    niškos eros šeštojo amžiaus pradžios. 15
+    15 Czacki.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -86,7 +86,14 @@ Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su
     atsidėjo mokslui ir tarnavo Saulei, garbinamai Koros
     vardu, lėmė, kad pas juos anksčiausiai suklestėjo gamtos
     mokslai, pradėti vartoti augalinės kilmės vaistai.
-  citata_rodoma: "Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,\nmums artimą gentį, tad remkimės tik moksliniu ir kruopš­\nčiai parašytu pono Riterio** veikalu1. Jame sakoma, kad\nkolchai giminiavosi su indais, arba kitados iš Indostano\nkilusiomis gentimis. Dievus garbino senovės Indijos bu­\ndizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­\nsiformavusiai budinu genčiai, kuri įsikūrė prie Dono."
+  citata_rodoma: |
+    Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
+    mums artimą gentį, tad remkimės tik moksliniu ir kruopš­
+    čiai parašytu pono Riterio** veikalu1. Jame sakoma, kad
+    kolchai giminiavosi su indais, arba kitados iš Indostano
+    kilusiomis gentimis. Dievus garbino senovės Indijos bu­
+    dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­
+    siformavusiai budinu genčiai, kuri įsikūrė prie Dono.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

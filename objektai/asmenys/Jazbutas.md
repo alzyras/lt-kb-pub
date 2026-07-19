@@ -196,7 +196,16 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     pasilinksminimuose, labai nusigando ir, manydami, jog jų sąmokslas esąs susektas,
     nedrįso nieko bloga broliams daryti, ir šitaip broliai iš dievo malonės sveiki bei gyvi
     pargrįžo namo.
-  citata_rodoma: "Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką\nCutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto\nJazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,\nkalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.\n\n\n\n\n                247 (240)."
+  citata_rodoma: |
+    Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
+    Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
+    Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
+    kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
+
+
+
+
+                    247 (240).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -233,7 +242,30 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     sus kitus būrius abipus kelio
     pasalose, jis įsakė Ragainės
     būriui traukti tiesiai prie pilies vartų.
-  citata_rodoma: "Pasivijęs jį, atsitraukiantį su dideliu grobiu,\nJazbutas įniko persekioti už-\nN u žu d o m a s\nlie tu v ių\npakaimę vorą, kuriai tuomet\nk u n ig a ik štis J a zb u ta s\nvadovavo Henrikas Cutsver-\ntas. Šį išvydęs, Jazbutas, su\nįniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų\npuolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­\nrikas ietimi persmeigė Jazbutą, kuris, griūdamas že­\nmėn, nukirto kalaviju puolančiam nugalėtojui pirštą.\nSusidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­\nnio būrio kariai veržėsi ginti užpakalinio, kadangi ir\nlietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,\nm\n\n## Puslapis 165\n\nbijodami patekti j pasalas, vengė nutolti nuo stovyk­\nlos) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­\nna pusė, tačiau visas grobis, lietuviams matant ir iš\npykčio griežiant dantimis, buvo išgabentas j Prūsiją."
+  citata_rodoma: |
+    Pasivijęs jį, atsitraukiantį su dideliu grobiu,
+    Jazbutas įniko persekioti už-
+    N u žu d o m a s
+    lie tu v ių
+    pakaimę vorą, kuriai tuomet
+    k u n ig a ik štis J a zb u ta s
+    vadovavo Henrikas Cutsver-
+    tas. Šį išvydęs, Jazbutas, su
+    įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
+    puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
+    rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
+    mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
+    Susidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­
+    nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
+    lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
+    m
+
+    ## Puslapis 165
+
+    bijodami patekti j pasalas, vengė nutolti nuo stovyk­
+    los) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­
+    na pusė, tačiau visas grobis, lietuviams matant ir iš
+    pykčio griežiant dantimis, buvo išgabentas j Prūsiją.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

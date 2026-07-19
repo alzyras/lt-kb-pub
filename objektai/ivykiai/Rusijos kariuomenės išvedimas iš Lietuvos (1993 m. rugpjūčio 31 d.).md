@@ -94,7 +94,8 @@ Nenurodyta
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
     Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
     metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: "minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo"
+  citata_rodoma: |
+    minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

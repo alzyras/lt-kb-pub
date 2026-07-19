@@ -113,7 +113,15 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
     AT Apsaugos skyriaus (ATAS) dar-
     buotojų, ginkluotų maždaug 20 PM
     (Makarov) ir 4 TT pistoletais,
-  citata_rodoma: "Iki šio\nnutarimo pagrindinį organizacinį ir va-\ndovavimo darbą vykdė KAD direktorius\nAudrius Butkevičius, A. Skučas su savo vy-\nrais ir AT gynybos štabo viršininku paskir-\ntas Jonas Gečas su padalinių vadais.\n\nApie 120 A."
+  citata_rodoma: |
+    Iki šio
+    nutarimo pagrindinį organizacinį ir va-
+    dovavimo darbą vykdė KAD direktorius
+    Audrius Butkevičius, A. Skučas su savo vy-
+    rais ir AT gynybos štabo viršininku paskir-
+    tas Jonas Gečas su padalinių vadais.
+
+    Apie 120 A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

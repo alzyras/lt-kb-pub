@@ -92,7 +92,8 @@ Valančiaus, VAIKŲ KNYGELĖ.
     skaitymai kalendoriaus
     „Vilniaus Zavackio drukarnės“ (taip vadino kalendorių) arba skaity­
     mas iš vyskupo Valančiaus knygelių.
-  citata_rodoma: "skaitymas iš vyskupo Valančiaus knygelių"
+  citata_rodoma: |
+    skaitymas iš vyskupo Valančiaus knygelių
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas

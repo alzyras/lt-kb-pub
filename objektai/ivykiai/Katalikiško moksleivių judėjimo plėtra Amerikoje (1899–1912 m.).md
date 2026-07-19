@@ -71,7 +71,10 @@ Nenurodyta
     įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lie-
     tuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos
     ir Europos universitetuose.
-  citata_rodoma: "Taip antai, Federacijos įkurta (1899 m.) „Motinėlė\", kuri, jos remiama, šelpia lie-\ntuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos\nir Europos universitetuose."
+  citata_rodoma: |
+    Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lie-
+    tuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos
+    ir Europos universitetuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

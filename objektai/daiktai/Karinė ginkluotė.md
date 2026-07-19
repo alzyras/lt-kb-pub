@@ -218,7 +218,10 @@ Nenurodyta
     Volinijos kunigaikštis Vasilkas Danieliui Romanaičiui pasiuntė
     grobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.
     Vartojo lietuviai dar ietis ir kardus.
-  citata_rodoma: "Volinijos kunigaikštis Vasilkas Danieliui Romanaičiui pasiuntė\ngrobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.\nVartojo lietuviai dar ietis ir kardus."
+  citata_rodoma: |
+    Volinijos kunigaikštis Vasilkas Danieliui Romanaičiui pasiuntė
+    grobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.
+    Vartojo lietuviai dar ietis ir kardus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -317,7 +320,12 @@ Nenurodyta
     kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
     operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
     ka sutinkama to meto Kryžiuočių ordine.
-  citata_rodoma: "vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai\nbuvo labai branginami, sugadinti perkalami. Didesnė dalis gin-\nkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš\noperacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-\nka sutinkama to meto Kryžiuočių ordine."
+  citata_rodoma: |
+    vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai
+    buvo labai branginami, sugadinti perkalami. Didesnė dalis gin-
+    kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
+    operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
+    ka sutinkama to meto Kryžiuočių ordine.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

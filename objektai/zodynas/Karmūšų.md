@@ -75,7 +75,11 @@ Papildomos aiškios formos neišskirtos.
         manyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
-  citata_rodoma: "Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su\nneprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai\ngodojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo\ngalvą padėję."
+  citata_rodoma: |
+    Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
+    neprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai
+    godojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo
+    galvą padėję.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

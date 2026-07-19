@@ -85,15 +85,23 @@ Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleis
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Lib­
-    ri XXX. Coloniae Agrippinae, 1589; Murinius Martinus. Kronika
-    mistrzow pruskich na polskie z niemieckiego przeložona z przy-
-    daniem rzeczy pamięci godnych z rozmaitych kronik zebranych.
-    Toriui, 1582.
-    145 /Ten pat, 2 pastraipos tęsinys ir nauja išnaša/
-    Senovės prūsų merginas, jeigu norėdavo jas vesti, turėdavo iš
-    tėvų nusipirkti8.
-  citata_rodoma: "Vėliau T, Narbutas šią informaciją įdėjo j vadina­\nmuosius „Mažesniuosius istorinius raštus“ (Pomniejsze pisma his-\ntoryczne szczegolnie do historyi Litwy odnoszące się. Wilno, 1852.\n491\n\n## Puslapis 501\n\nS. 222—224)."
+    Vėliau T, Narbutas šią informaciją įdėjo j vadina­
+    muosius „Mažesniuosius istorinius raštus“ (Pomniejsze pisma his-
+    toryczne szczegolnie do historyi Litwy odnoszące się. Wilno, 1852.
+    491
+
+    ## Puslapis 501
+
+    S. 222—224).
+  citata_rodoma: |
+    Vėliau T, Narbutas šią informaciją įdėjo j vadina­
+    muosius „Mažesniuosius istorinius raštus“ (Pomniejsze pisma his-
+    toryczne szczegolnie do historyi Litwy odnoszące się. Wilno, 1852.
+    491
+
+    ## Puslapis 501
+
+    S. 222—224).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

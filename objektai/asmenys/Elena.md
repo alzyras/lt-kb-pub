@@ -712,7 +712,15 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  citata_rodoma: |
+    ) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -739,7 +747,17 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: "229\n\n## Puslapis 246\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nsu Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­\nkreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai \nir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­\ntarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­\ndžiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m."
+  citata_rodoma: |
+    229
+
+    ## Puslapis 246
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
+    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
+    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
+    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
+    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -792,7 +810,45 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     successoribus, melius, et utilius, consultiusque videbitur ex­
     pedire. In quorum omnium fidem, et robur praesentibus si­
     gillum nostrum est subappensum.
-  citata_rodoma: "Taip pat [dovanojame] turtą, va­\ndinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­\nmėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai \nir dvarą, vadinamą Horodišče, ir Losičius su visomis Horo- \ndiščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais - \nšios žemės kadaise priklausė Bełsko kunigaikščiui Semio­\nnui. Taigi visą minėtą turtą ir aiškiai išvardintus dvarus \ndidžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­\nsiajai Elenai davėme, dovanojome ir šiuo raštu duodame, \ndovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­\nsam laikui su visais žmonėmis ir visais bajorais, su viskuo, \nkas šiems dvarams ar valdoms priklauso, su jų patarnavi­\nmais ir darbais, žinoma, su činšais, pajamomis, mokesčiais \n- ar grašiais, ar medumi, rinkliavomis, dvareliais, dirvomis \nir laukais, miškų aptvarais, krūmais, vandenimis, upėmis, \ntvenkiniais, ežerais, upeliais, upeliūkščiais, žuvų kūdromis, \nžūklavimu, malūnais ir jų produktais, miškais, šilais, gojais, \nbitynais, bebrų, laukinių žvėrių ir paukščių medžiokle ir ap­\nskritai su visomis pajamomis ir gėrybėmis, nuo seno toms \nvaldoms priklausančiomis ir paprastai mokamomis, nieko \niš jų nepaimant, ir su visais priklausiniais, priedėliais ir vi­\nsais priedais, kad ir kokiu vardu jie vadintųsi, nuo seno mi­\nnėtoms valdoms kokiu nors būdu pareinančiais, kurie buvo \nir dabar yra, ir ateityje kokiais nors būdais ar žmogiškos veik­\nlos dėka gali atsirasti ir didėti į plotį, į ilgį ir aplinkui, žiū­\nrint, kaip pačios žemės savo sienomis yra apribotos ir api­\nbrėžtos, minėtajai šviesiajai poniai Elenai, didžiajai \nkunigaikštienei ir jos teisėtiems įpėdiniams su visa domini­\njos ir nuosavybės teise turėti, laikyti, naudotis, taikiai ir\n361\n\n## Puslapis 378\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\ndonandum, alienandum, et in suos, suorumque succesorum \nusus beneplacitos convertendum, prout sibi, et suis legitimis \nsuccessoribus, melius, et utilius, consultiusque videbitur ex­\npedire."
+  citata_rodoma: |
+    Taip pat [dovanojame] turtą, va­
+    dinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­
+    mėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai
+    ir dvarą, vadinamą Horodišče, ir Losičius su visomis Horo-
+    diščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais -
+    šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
+    nui. Taigi visą minėtą turtą ir aiškiai išvardintus dvarus
+    didžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­
+    siajai Elenai davėme, dovanojome ir šiuo raštu duodame,
+    dovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­
+    sam laikui su visais žmonėmis ir visais bajorais, su viskuo,
+    kas šiems dvarams ar valdoms priklauso, su jų patarnavi­
+    mais ir darbais, žinoma, su činšais, pajamomis, mokesčiais
+    - ar grašiais, ar medumi, rinkliavomis, dvareliais, dirvomis
+    ir laukais, miškų aptvarais, krūmais, vandenimis, upėmis,
+    tvenkiniais, ežerais, upeliais, upeliūkščiais, žuvų kūdromis,
+    žūklavimu, malūnais ir jų produktais, miškais, šilais, gojais,
+    bitynais, bebrų, laukinių žvėrių ir paukščių medžiokle ir ap­
+    skritai su visomis pajamomis ir gėrybėmis, nuo seno toms
+    valdoms priklausančiomis ir paprastai mokamomis, nieko
+    iš jų nepaimant, ir su visais priklausiniais, priedėliais ir vi­
+    sais priedais, kad ir kokiu vardu jie vadintųsi, nuo seno mi­
+    nėtoms valdoms kokiu nors būdu pareinančiais, kurie buvo
+    ir dabar yra, ir ateityje kokiais nors būdais ar žmogiškos veik­
+    los dėka gali atsirasti ir didėti į plotį, į ilgį ir aplinkui, žiū­
+    rint, kaip pačios žemės savo sienomis yra apribotos ir api­
+    brėžtos, minėtajai šviesiajai poniai Elenai, didžiajai
+    kunigaikštienei ir jos teisėtiems įpėdiniams su visa domini­
+    jos ir nuosavybės teise turėti, laikyti, naudotis, taikiai ir
+    361
+
+    ## Puslapis 378
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    donandum, alienandum, et in suos, suorumque succesorum
+    usus beneplacitos convertendum, prout sibi, et suis legitimis
+    successoribus, melius, et utilius, consultiusque videbitur ex­
+    pedire.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -863,7 +919,39 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     illustrissimam Helenam Reginam Consortem nostram haben­
     dum, tenendum, utifruendum pacifice, et quiete possidendum,
     sicut expressum est ad tempora vitae suae.
-  citata_rodoma: "Amžinai dalykų atminčiai. Šiuo raštu skelbiame \nvisiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­\ndamas į šviesiausiosios karalienės, mūsų brangiausiosios \nžmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir \nnorėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė, \njai dovanojome, užrašėme ir šiuo raštu duodame, užrašome \nir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį, \nstovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas \nvaldas, prie šios pilies nuo seno esančias ir jai priklausan­\nčias su žmonėmis ir jų patarnavimais bei darbais, činšais, \npajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­\nmis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių \nkrūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­\nnais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų \naptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­\nrais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla- \nvimu, malūnais ir jų produktais, apskritai, su visais priklau- \nsiniais, priedėliais ir visais priedais, kad ir kokiu vardu jie\n365\n\n## Puslapis 382\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\net appendicibus universis, quocunque nomine aliter nuncu­\npatis, ad expressum castellum Mobilow quomodolibet ex an­\ntiquo spectantibus; et pertinentibus, quae sunt, et in poste­\nrum quocunque ingenio, ac industria bumana fieri, et angeri \npossint, ita late, longe, et circumferentialiter prout ipsa bona \nin suis graniciebus limitata sunt, et distincta per expressum — \nillustrissimam Helenam Reginam Consortem nostram haben­\ndum, tenendum, utifruendum pacifice, et quiete possidendum, \nsicut expressum est ad tempora vitae suae."
+  citata_rodoma: |
+    Amžinai dalykų atminčiai. Šiuo raštu skelbiame
+    visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­
+    damas į šviesiausiosios karalienės, mūsų brangiausiosios
+    žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir
+    norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė,
+    jai dovanojome, užrašėme ir šiuo raštu duodame, užrašome
+    ir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį,
+    stovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas
+    valdas, prie šios pilies nuo seno esančias ir jai priklausan­
+    čias su žmonėmis ir jų patarnavimais bei darbais, činšais,
+    pajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­
+    mis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių
+    krūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­
+    nais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų
+    aptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­
+    rais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla-
+    vimu, malūnais ir jų produktais, apskritai, su visais priklau-
+    siniais, priedėliais ir visais priedais, kad ir kokiu vardu jie
+    365
+
+    ## Puslapis 382
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    et appendicibus universis, quocunque nomine aliter nuncu­
+    patis, ad expressum castellum Mobilow quomodolibet ex an­
+    tiquo spectantibus; et pertinentibus, quae sunt, et in poste­
+    rum quocunque ingenio, ac industria bumana fieri, et angeri
+    possint, ita late, longe, et circumferentialiter prout ipsa bona
+    in suis graniciebus limitata sunt, et distincta per expressum —
+    illustrissimam Helenam Reginam Consortem nostram haben­
+    dum, tenendum, utifruendum pacifice, et quiete possidendum,
+    sicut expressum est ad tempora vitae suae.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

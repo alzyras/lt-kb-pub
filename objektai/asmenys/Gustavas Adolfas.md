@@ -82,7 +82,10 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
     liui X Gustavui, Gustavo Adolfo sesers ir Vokietijos
     Cveibriukeno kunigaikščio sūnui. Jis buvo auklėjamas Švedi-
     joje ir sostą turėjo gauti kartu su Kristinos ranka.
-  citata_rodoma: "Sostas atiteko Karo-\n  liui X Gustavui, Gustavo Adolfo sesers ir Vokietijos\n  Cveibriukeno kunigaikščio sūnui."
+  citata_rodoma: |
+    Sostas atiteko Karo-
+      liui X Gustavui, Gustavo Adolfo sesers ir Vokietijos
+      Cveibriukeno kunigaikščio sūnui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

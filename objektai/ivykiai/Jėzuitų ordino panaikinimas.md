@@ -117,7 +117,14 @@ Nenurodyta
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: "L I E T U V O S  I S T O R I J A\n68\nBaroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje \nXVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-\nvero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino \npanaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai \nkartais laikomi Apšvietos epochos pradžia."
+  citata_rodoma: |
+    L I E T U V O S  I S T O R I J A
+    68
+    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
+    XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
+    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
+    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
+    kartais laikomi Apšvietos epochos pradžia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

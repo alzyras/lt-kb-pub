@@ -63,7 +63,15 @@ media_all_json: |-
     tuvių kariuomenė mūšio išvakarėse įveikė
     apie 25 km atstumą. P. Šuiskis išrikiavo
     savo kariuomenę ir laukė lietuvių.
-  citata_rodoma: "Žygyje gavęs žinių apie tai, kad lie-\ntuviai ruošiasi jam užkirsti kelią, P. Šuiskis\npats pasirinko mūšio vietą - lauką tarpu-\nmiškyje prie Ulos upės netoli Čašnikų.\nPrieš tai jo kariuomenė per tris-keturias\ndienas buvo nukeliavusi apie 80 km, o lie-\ntuvių kariuomenė mūšio išvakarėse įveikė\napie 25 km atstumą."
+  citata_rodoma: |
+    Žygyje gavęs žinių apie tai, kad lie-
+    tuviai ruošiasi jam užkirsti kelią, P. Šuiskis
+    pats pasirinko mūšio vietą - lauką tarpu-
+    miškyje prie Ulos upės netoli Čašnikų.
+    Prieš tai jo kariuomenė per tris-keturias
+    dienas buvo nukeliavusi apie 80 km, o lie-
+    tuvių kariuomenė mūšio išvakarėse įveikė
+    apie 25 km atstumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

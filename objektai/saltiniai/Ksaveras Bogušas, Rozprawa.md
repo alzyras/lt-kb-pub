@@ -142,7 +142,15 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
     Reitgotiją. Sis pavadinimas, anot naujausių tyrimų, reiš­
     kia lietuvių genčių gyvenamus pamario kraštus4, prie
     kurių priklausė ir H i r i j a (§ 240).
-  citata_rodoma: "Tad artimiausias ir saugiausias herulų kelias vingiavo į \nŠiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš \nkur buvo visai netoli iki herulų gimtosios Jūros upės \nkrantų. Tai patvirtinančių įrodymų randame Ksavero Bo- \ngušo veikaluose3; iš jų sužinome, jog herulų keliauta į \nReitgotiją. Sis pavadinimas, anot naujausių tyrimų, reiš­\nkia lietuvių genčių gyvenamus pamario kraštus4, prie \nkurių priklausė ir H i r i j a (§ 240)."
+  citata_rodoma: |
+    Tad artimiausias ir saugiausias herulų kelias vingiavo į
+    Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš
+    kur buvo visai netoli iki herulų gimtosios Jūros upės
+    krantų. Tai patvirtinančių įrodymų randame Ksavero Bo-
+    gušo veikaluose3; iš jų sužinome, jog herulų keliauta į
+    Reitgotiją. Sis pavadinimas, anot naujausių tyrimų, reiš­
+    kia lietuvių genčių gyvenamus pamario kraštus4, prie
+    kurių priklausė ir H i r i j a (§ 240).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

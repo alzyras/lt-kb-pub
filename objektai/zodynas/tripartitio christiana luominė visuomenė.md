@@ -75,7 +75,8 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
     ir Viduramžių luomų idėją. O juk Lietuvos krikšto metu Jogaila suteikė
     privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
     nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
-  citata_rodoma: "privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų"
+  citata_rodoma: |
+    privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

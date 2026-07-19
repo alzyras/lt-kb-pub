@@ -70,7 +70,15 @@ media_all_json: |-
     (^280) XI SKYRIUS: VALSTYBĖS IŠKILIMAS
 
     **9.
-  citata_rodoma: "— Zajączkowski,\nSt. : _Żmudź w początkach unii polsko-litewskiej_ , PamZH, II, 1930, 337-\n344 p.\n\n\n(^280) XI SKYRIUS: VALSTYBĖS IŠKILIMAS\n\n**9."
+  citata_rodoma: |
+    — Zajączkowski,
+    St. : _Żmudź w początkach unii polsko-litewskiej_ , PamZH, II, 1930, 337-
+    344 p.
+
+
+    (^280) XI SKYRIUS: VALSTYBĖS IŠKILIMAS
+
+    **9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

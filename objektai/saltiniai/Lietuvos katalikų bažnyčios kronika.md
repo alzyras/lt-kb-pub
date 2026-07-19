@@ -65,7 +65,8 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
     tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
     Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
     veiklą ir propagandą.
-  citata_rodoma: "Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę"
+  citata_rodoma: |
+    Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

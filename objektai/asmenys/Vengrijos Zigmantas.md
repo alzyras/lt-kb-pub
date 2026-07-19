@@ -59,7 +59,12 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
     tarpininkauti.
     Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
     jingu pusbrolių priešų.
-  citata_rodoma: "Vaclovas tačiau gąsdino, jog ordino\npusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi\ntarpininkauti.\nZigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­\njingu pusbrolių priešų."
+  citata_rodoma: |
+    Vaclovas tačiau gąsdino, jog ordino
+    pusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi
+    tarpininkauti.
+    Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
+    jingu pusbrolių priešų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -113,7 +113,13 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
     kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
     Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
     kalu.
-  citata_rodoma: "O tai yra toks pat užrašas kaip\n  ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO\n  MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito\n  skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo\n  maximo Jurowito\". Lotynų kalbą slavai venedai ir lietuviai var­\n  tojo kaip diplomatinę kalbą."
+  citata_rodoma: |
+    O tai yra toks pat užrašas kaip
+      ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
+      MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
+      skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
+      maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
+      tojo kaip diplomatinę kalbą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -134,7 +140,15 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
     bą slavai venedai ir lietuviai vartojo kaip diplomatinę kalbą. (Tą
     pakabučio piešinį paėmiau iš Tomseno III lentelės 34 piešinio) “
     (žiūrėk ten pat, piešinį 50).
-  citata_rodoma: "O\ntai yra toks pat užrašas kaip ir ant kai kurių romėniškų medalių;\njis reiškia IOVI OPTIMO MAXIMO. Taip pat kaip ir ant Vol-\ngasto miesto globėjo Jurovito skydo, ant kurio radau tokį užra­\nšą: „Tutori Volgastiensi, optimo maximo Jurowito“. Lotynų kal­\nbą slavai venedai ir lietuviai vartojo kaip diplomatinę kalbą. (Tą\npakabučio piešinį paėmiau iš Tomseno III lentelės 34 piešinio) “\n(žiūrėk ten pat, piešinį 50)."
+  citata_rodoma: |
+    O
+    tai yra toks pat užrašas kaip ir ant kai kurių romėniškų medalių;
+    jis reiškia IOVI OPTIMO MAXIMO. Taip pat kaip ir ant Vol-
+    gasto miesto globėjo Jurovito skydo, ant kurio radau tokį užra­
+    šą: „Tutori Volgastiensi, optimo maximo Jurowito“. Lotynų kal­
+    bą slavai venedai ir lietuviai vartojo kaip diplomatinę kalbą. (Tą
+    pakabučio piešinį paėmiau iš Tomseno III lentelės 34 piešinio) “
+    (žiūrėk ten pat, piešinį 50).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -151,10 +165,17 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
     pačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu
     raiteliu, be paukščio. Užrašas tik trimis runomis: „MO.K. Turėtų
     būti skaitoma iš dešinės į kairę, tuomet atsirastų žodis KOM,
-    tai yra Kohma - puotų ir apsivalgymo dievaičio vardas. Taškas,
+    tai yra Kohma -  puotų ir apsivalgymo dievaičio vardas. Taškas,
     esantis prieš raidę „K“, rodo, kad žodis yra sutrumpintas. Todėl,
     mano nuomone, reikėtų skaityti: „Kurcho, optimo maximo“.
-  citata_rodoma: "Antrasis numizmatinis radinys tos\npačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu\nraiteliu, be paukščio. Užrašas tik trimis runomis: „MO.K. Turėtų\nbūti skaitoma iš dešinės į kairę, tuomet atsirastų žodis KOM,\ntai yra Kohma -  puotų ir apsivalgymo dievaičio vardas. Taškas,\nesantis prieš raidę „K“, rodo, kad žodis yra sutrumpintas. Todėl,\nmano nuomone, reikėtų skaityti: „Kurcho, optimo maximo“."
+  citata_rodoma: |
+    Antrasis numizmatinis radinys tos
+    pačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu
+    raiteliu, be paukščio. Užrašas tik trimis runomis: „MO.K. Turėtų
+    būti skaitoma iš dešinės į kairę, tuomet atsirastų žodis KOM,
+    tai yra Kohma -  puotų ir apsivalgymo dievaičio vardas. Taškas,
+    esantis prieš raidę „K“, rodo, kad žodis yra sutrumpintas. Todėl,
+    mano nuomone, reikėtų skaityti: „Kurcho, optimo maximo“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

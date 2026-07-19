@@ -102,7 +102,16 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
     Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
     kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
     1 De Mor.
-  citata_rodoma: "Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys. Jie stato namus, gyvena\nkolonijomis, užsiima žemdirbyste, prekyba, pernicitate gau­\ndent, turi pėstininkų kariuomenę; jų gyvenimo būdas vi­\nsiškai skiriasi nuo sarmatų klajoklių."
+  citata_rodoma: |
+    Siek tiek labiau venedų reika­
+    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
+    klauso nei sarmatams, nei germanams, turi daug žemių,
+    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
+    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
+    rytuose yra nežinomos sritys. Jie stato namus, gyvena
+    kolonijomis, užsiima žemdirbyste, prekyba, pernicitate gau­
+    dent, turi pėstininkų kariuomenę; jų gyvenimo būdas vi­
+    siškai skiriasi nuo sarmatų klajoklių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

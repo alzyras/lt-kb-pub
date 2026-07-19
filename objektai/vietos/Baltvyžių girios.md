@@ -60,7 +60,10 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
     gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžiok-
     lėje, įvykusioje Baltvyžių giriose. Caras, jų įtikintas, grįžęs į Pet-
     rapilį paskelbė tą dekretą.
-  citata_rodoma: "Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgubernatorius Sviatopolkas Mirskis ir Kauno gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžiok-\nlėje, įvykusioje Baltvyžių giriose. Caras, jų įtikintas, grįžęs į Pet-\nrapilį paskelbė tą dekretą."
+  citata_rodoma: |
+    Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgubernatorius Sviatopolkas Mirskis ir Kauno gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžiok-
+    lėje, įvykusioje Baltvyžių giriose. Caras, jų įtikintas, grįžęs į Pet-
+    rapilį paskelbė tą dekretą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

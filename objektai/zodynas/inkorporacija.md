@@ -123,7 +123,11 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
     leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­
     voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
     pati didžiojo kunigaikščio institucija.
-  citata_rodoma: "1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą\nleno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­\nvoje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir\npati didžiojo kunigaikščio institucija."
+  citata_rodoma: |
+    1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą
+    leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­
+    voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
+    pati didžiojo kunigaikščio institucija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

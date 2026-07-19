@@ -204,7 +204,9 @@ media_all_json: |-
     jiems padėkos išraiška.
     **Zenonas Ivinskis**
     Bonn, 1970 m. spalių mėn. 15 d.
-  citata_rodoma: "**Zenonas Ivinskis**\nBonn, 1970 m. spalių mėn. 15 d."
+  citata_rodoma: |
+    **Zenonas Ivinskis**
+    Bonn, 1970 m. spalių mėn. 15 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -228,7 +230,15 @@ media_all_json: |-
     reikštis genetiniam metodui, kuris pirmoje vietoje stato visuome­
     ninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst
     Bernheim).
-  citata_rodoma: "Ir pas mus toji labiau _praktiško_ tikslo siekusi istorija, buvusi\ngyvenimo mokytoja, kuri praeityje labiau teieškojo gerų moralinių,\npamokinančių ir patriotiškai nuteikiančių pavyzdžių, turi užleisti\npirmaujančią vietą _genetinei_ (priežastinei) istorijai. Pragmatiškai-\n-didaktinis istorijos rašymo būdas turi trauktis ir labiau leisti\nreikštis genetiniam metodui, kuris pirmoje vietoje stato visuome­\nninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst\nBernheim)."
+  citata_rodoma: |
+    Ir pas mus toji labiau _praktiško_ tikslo siekusi istorija, buvusi
+    gyvenimo mokytoja, kuri praeityje labiau teieškojo gerų moralinių,
+    pamokinančių ir patriotiškai nuteikiančių pavyzdžių, turi užleisti
+    pirmaujančią vietą _genetinei_ (priežastinei) istorijai. Pragmatiškai-
+    -didaktinis istorijos rašymo būdas turi trauktis ir labiau leisti
+    reikštis genetiniam metodui, kuris pirmoje vietoje stato visuome­
+    ninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst
+    Bernheim).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -269,7 +279,12 @@ media_all_json: |-
     giau autentiškumo įgyjančiais _rašytais šaltiniais._
     Šitoje _apžvalginėje_ Lietuvos istorijoje yra stengiamasi panaudoti
     ikišiolinės tyrinėjimų išdavos ištisų laikotarpių ir atskirų temų.
-  citata_rodoma: "Reziumuotai ir probėgomis tepatiekdami kitų proistorinius duome­\nnis, tikrąją Lietuvos istoriją pradedame sąvartoje istorinių laikų,\nbūtent, XII amžiaus gale, kai lietuvių tautos žygiai ir jos «įėji­\nmas » Europos istorijon jau gali būti nuosekliai pagrįsti vis dau­\ngiau autentiškumo įgyjančiais _rašytais šaltiniais._"
+  citata_rodoma: |
+    Reziumuotai ir probėgomis tepatiekdami kitų proistorinius duome­
+    nis, tikrąją Lietuvos istoriją pradedame sąvartoje istorinių laikų,
+    būtent, XII amžiaus gale, kai lietuvių tautos žygiai ir jos «įėji­
+    mas » Europos istorijon jau gali būti nuosekliai pagrįsti vis dau­
+    giau autentiškumo įgyjančiais _rašytais šaltiniais._
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

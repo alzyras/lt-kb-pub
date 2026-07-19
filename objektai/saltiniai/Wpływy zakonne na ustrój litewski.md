@@ -68,7 +68,10 @@ Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski, PH, t.
     1938, 269 p. — Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski,
     PH, t. 25, 1925, 160-186 p. ; plg. PH, t. 36, 1946, 174-178 p. — (”) Kam-
     SL.
-  citata_rodoma: "— Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski,\nPH, t. 25, 1925, 160-186 p. ; plg. PH, t. 36, 1946, 174-178 p. — (”) Kam-\nSL."
+  citata_rodoma: |
+    — Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski,
+    PH, t. 25, 1925, 160-186 p. ; plg. PH, t. 36, 1946, 174-178 p. — (”) Kam-
+    SL.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,8 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
     rodo, kad L. Berija pripažino Lie-
     tuvoje vykstantį partizaninį karą
     rimta grėsme sovietų valdymui.
-  citata_rodoma: "nežinoma. Tačiau vien tas faktas"
+  citata_rodoma: |
+    nežinoma. Tačiau vien tas faktas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

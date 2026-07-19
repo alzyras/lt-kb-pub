@@ -63,7 +63,9 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     rodo Karielos runos.
     L. Lietuvių tautos atgimimas.
     Taukomies 1926— 27.
-  citata_rodoma: "L. Lietuvių tautos atgimimas. \nTaukomies 1926— 27."
+  citata_rodoma: |
+    L. Lietuvių tautos atgimimas.
+    Taukomies 1926— 27.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

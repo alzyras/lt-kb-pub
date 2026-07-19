@@ -712,7 +712,12 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti
     Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
     Lietuva Vokiečių Ordino žemėmis.
-  citata_rodoma: "Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­\nstatyti Žemaitijos sienas. Šiose derybose dalyvavo ir Hanzos\nmiestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti\nVytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su\nLietuva Vokiečių Ordino žemėmis."
+  citata_rodoma: |
+    Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
+    statyti Žemaitijos sienas. Šiose derybose dalyvavo ir Hanzos
+    miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti
+    Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
+    Lietuva Vokiečių Ordino žemėmis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -729,7 +734,11 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
     Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
     žiemop (XI.
-  citata_rodoma: "Yra tikra tiek,\njog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per\nVeliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada\nžiemop (XI."
+  citata_rodoma: |
+    Yra tikra tiek,
+    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
+    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
+    žiemop (XI.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -749,7 +758,13 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
     Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
     tęs prieš vokiečius ».
-  citata_rodoma: "Tuo pat metu, kai kryžiuočiai įrodinėjo, kad\ndešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas\npasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)\natstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.\nOrdinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­\ntęs prieš vokiečius »."
+  citata_rodoma: |
+    Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
+    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
+    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
+    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
+    Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
+    tęs prieš vokiečius ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -787,7 +802,25 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     bet ten dar prieš aštuonerius metus
     Bremeno pirkliai jau buvo pastaty­
     dinę keletą namų.
-  citata_rodoma: "O vis dėlto Vilniuje, galingos valstybės sostinėje, \nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su \nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200 \nmetais, ant kalno, vadinto Righe, \nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti \nkrikščioniškąjį tikėjimą Livonijoje, \nbet ten dar prieš aštuonerius metus \nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
+  citata_rodoma: |
+    O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
+    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
+    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
+    giję feodalinio valdymo principai.
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -809,7 +842,11 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
     susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
     dėlto atsiuntė savo brolį Kaributą pagalbon.
-  citata_rodoma: "Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­\nnešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra\nsusimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis\ndėlto atsiuntė savo brolį Kaributą pagalbon."
+  citata_rodoma: |
+    Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
+    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
+    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
+    dėlto atsiuntė savo brolį Kaributą pagalbon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -835,7 +872,14 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     manytume buvus.
     g
     Post haec XI Kalendas Junii Fr.
-  citata_rodoma: "Tai­\ngi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs\nbūti ta vadinama Castrum Gedemini, yra visiškai atmestina.\nMes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį\nmanytume buvus.\ng\nPost haec XI Kalendas Junii Fr."
+  citata_rodoma: |
+    Tai­
+    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
+    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
+    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
+    manytume buvus.
+    g
+    Post haec XI Kalendas Junii Fr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -856,7 +900,11 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     t. 16, 1964, 53-61 p. ; t. 20, 1966, 49-56 p.) ir davė straipsnį _Romos
     imperijos įtakos baltų genčių kultūrai klausimu_ (AkMD, t 18, 1965,
     47-64 p )^102. L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
-  citata_rodoma: "Iš Rudaičių ir Veliuonos\nkapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,\n1963, 55-70 p. ; t. 24, 1967, 47-58 p.), taip pat rašė apie Romos\nmonetų radinius Lietuvoje I-V a."
+  citata_rodoma: |
+    Iš Rudaičių ir Veliuonos
+    kapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,
+    1963, 55-70 p. ; t. 24, 1967, 47-58 p.), taip pat rašė apie Romos
+    monetų radinius Lietuvoje I-V a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -992,7 +1040,10 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
     Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.
-  citata_rodoma: "Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,\njog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per\nVeliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas."
+  citata_rodoma: |
+    Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
+    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
+    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1070,7 +1121,12 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     Su šia malonia dievybe supažindina dainelė, iki šiol tebes­
     kambanti Lietuvos kaimo gražuolių lūpose:
     Dok mums žiedaj, dok, Grubite!
-  citata_rodoma: "Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­\ngė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,\nkuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­\nmė pilį ir perstatė į krikščionių bažnyčią."
+  citata_rodoma: |
+    Vis dėlto 1364 metais kryžiuočiai sudegino
+    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
+    gė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,
+    kuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­
+    mė pilį ir perstatė į krikščionių bažnyčią.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

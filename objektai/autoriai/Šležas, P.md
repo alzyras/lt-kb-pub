@@ -69,7 +69,10 @@ media_all_json: |-
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
     schichte, t. 10, 1928, 357-368 p.
-  citata_rodoma: "— Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­\nker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-\nschichte, t. 10, 1928, 357-368 p."
+  citata_rodoma: |
+    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
+    ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
+    schichte, t. 10, 1928, 357-368 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

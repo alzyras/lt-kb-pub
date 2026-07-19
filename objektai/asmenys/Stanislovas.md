@@ -131,7 +131,15 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
     ginklus ir rankas, kurios, jo vedamos, sėkmingai lie­
     jo galybės priešų kraują, šito užteksią jiems įtikėti
     būsima pergale.
-  citata_rodoma: "Įgavo drąsos ir \nStanislovas, iš anksto paskel­\nbęs, jog šios kautynės lemiančios jo padėtį, todėl vi­\nsus kitus paliko rezerve, o pats su savo kariais atsi­\nstojo pirmosiose rikiuotės eilėse. Gediminas, priešų dar \nneregėdamas, skatino savo vyrus į kovą. Tegu jie ne­\nužmirštą jo paskatų ir savo narsumo, kurį rodę dau­\ngelyje pergalingų kovų."
+  citata_rodoma: |
+    Įgavo drąsos ir
+    Stanislovas, iš anksto paskel­
+    bęs, jog šios kautynės lemiančios jo padėtį, todėl vi­
+    sus kitus paliko rezerve, o pats su savo kariais atsi­
+    stojo pirmosiose rikiuotės eilėse. Gediminas, priešų dar
+    neregėdamas, skatino savo vyrus į kovą. Tegu jie ne­
+    užmirštą jo paskatų ir savo narsumo, kurį rodę dau­
+    gelyje pergalingų kovų.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

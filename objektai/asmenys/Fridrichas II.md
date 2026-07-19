@@ -287,7 +287,12 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
     jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
     kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-  citata_rodoma: "Kai venedai buvo smarkiai sutramdyti po maišto, sukelto\nprieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį\nšventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo\nruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl\ndažnų stebuklų, kuriuos viešpats padaro per tą kryžių."
+  citata_rodoma: |
+    Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -312,7 +317,10 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     Prūsijoje (III, 33), surado naujų įrodymų, kad duomenys apie lietuvių niokojamus žygius
     1323 m., Gedimino krikštą paremti dokumentais kaip ir duomenys apie Ordino magistro
     Vernerio nužudymą 1330 m. (Papildymas, 20).
-  citata_rodoma: "M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,\npanaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis\nnušvietęs pagal Ordino 1230 m."
+  citata_rodoma: |
+    M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,
+    panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis
+    nušvietęs pagal Ordino 1230 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -334,7 +342,14 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     baisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius
     prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios
     sakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol.
-  citata_rodoma: "Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II\n                            nesantuokinio sūnaus, mirtį\n\n  1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį\nSicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,\nnesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.\n22, 30)."
+  citata_rodoma: |
+    Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
+                                nesantuokinio sūnaus, mirtį
+
+      1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį
+    Sicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,
+    nesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.
+    22, 30).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -352,7 +367,12 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
       1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę
     ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
     kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
-  citata_rodoma: "Apie Konradino, imperatoriaus Fridricho II anūko, žūtį\n\n  1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę\nir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos\nkilmingųjų (Mart. p. 409; Ptol. 22, 34—38)."
+  citata_rodoma: |
+    Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
+
+      1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę
+    ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
+    kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -380,7 +400,15 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
     sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
     likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai.
-  citata_rodoma: "Todėl kunigaikštis pasiuntė pas\nminėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir\njam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais\nklausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio\nįkalbamas, patartas popiežiaus, imperatoriaus Fridricho II  ir Vokietijos kunigaikščių,\nkurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą. Taigi pas\nLenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo\nOrdino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru."
+  citata_rodoma: |
+    Todėl kunigaikštis pasiuntė pas
+    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
+    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
+    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
+    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II  ir Vokietijos kunigaikščių,
+    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą. Taigi pas
+    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
+    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -403,7 +431,12 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
     turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
     pasitarnavo, draugiškai vieną su kitu taikydamas.
-  citata_rodoma: "Kartą, kai popiežius Honorijus III\nir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu\npatikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,\ntvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats\nesąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos."
+  citata_rodoma: |
+    Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -423,7 +456,13 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
       1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės
     karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
     kitais metais pasimirė nunuodytas (Mart. p. 404).
-  citata_rodoma: "Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,\n                                            mirtį\n\n  1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės\nkaraliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet\nkitais metais pasimirė nunuodytas (Mart. p. 404)."
+  citata_rodoma: |
+    Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
+                                                mirtį
+
+      1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės
+    karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
+    kitais metais pasimirė nunuodytas (Mart. p. 404).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

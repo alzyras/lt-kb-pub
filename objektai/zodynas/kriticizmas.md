@@ -121,7 +121,12 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
     doti rašytiniai šaltiniai yra ne visai patikimi. Patikrinti ir įver­
     tinti tautosakinius ir etnografinius šaltinius jam buvo dar sun­
     kiau nemokant lietuvių kalbos.
-  citata_rodoma: "Tačiau, nežiūrint didelės pagarbos autoritetams, senuosius\nšaltinius ir tyrinėtojus T. Narbutas vertino kritiškai, ne kartą\npabrėždamas, kad laikosi „griežto kriticizmo“, apsiriboja „kri-\ntikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė-\njęs „aiškias klaidas“."
+  citata_rodoma: |
+    Tačiau, nežiūrint didelės pagarbos autoritetams, senuosius
+    šaltinius ir tyrinėtojus T. Narbutas vertino kritiškai, ne kartą
+    pabrėždamas, kad laikosi „griežto kriticizmo“, apsiriboja „kri-
+    tikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė-
+    jęs „aiškias klaidas“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

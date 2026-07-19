@@ -107,7 +107,8 @@ Nenurodyta
     muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
     liau – Raudonosios armijos 29-uoju šaulių korpusu).
-  citata_rodoma: "muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos"
+  citata_rodoma: |
+    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

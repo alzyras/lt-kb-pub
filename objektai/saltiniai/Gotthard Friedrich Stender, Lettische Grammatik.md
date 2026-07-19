@@ -136,7 +136,18 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
     nykščiai gyventojai, nes galbūt jie yra estų palikuonys;
     tačiau šis noras įmaišyti juos į visos tautos šaknį yra
     neteisingas ir labai klaidingas.
-  citata_rodoma: "Trumpiausiai į tai atsakome pateikdami Kuršo pa­\nmokslininko ir latvių gramatikos autoriaus Stenderio žo­\ndžius. Stenderis, neketindamas atsakyti į Tuntnano prie­\nlaidą, bet tiesiog aprašydamas istorinius-topografinius šios\ntautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­\nrinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir\nnors pačiame Kuršo viduryje yra dvi apskritys, kur kai­\nmiečiai tarpusavy kalbasi estiškai, o su svetimšaliais —\nlatviškai, bet tai niekados neturėjo jokios įtakos latvių\nkalbai, nes estai nesimaišė su latviais ir su jais nesituo-\nkė“2."
+  citata_rodoma: |
+    Trumpiausiai į tai atsakome pateikdami Kuršo pa­
+    mokslininko ir latvių gramatikos autoriaus Stenderio žo­
+    džius. Stenderis, neketindamas atsakyti į Tuntnano prie­
+    laidą, bet tiesiog aprašydamas istorinius-topografinius šios
+    tautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­
+    rinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir
+    nors pačiame Kuršo viduryje yra dvi apskritys, kur kai­
+    miečiai tarpusavy kalbasi estiškai, o su svetimšaliais —
+    latviškai, bet tai niekados neturėjo jokios įtakos latvių
+    kalbai, nes estai nesimaišė su latviais ir su jais nesituo-
+    kė“2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -158,7 +169,17 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
     buvo panašūs nei išvaizda, nei papročiais ir kalba, sky­
     rėsi nuo tikrų poloviečių, kurie negalėjo kitaip užklysti į
     tas šalis, o nebent tik taip, kaip mes jau minėjome.
-  citata_rodoma: "Mongolų karvedžiai skubėjo\nužimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­\nlydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­\n1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­\nschweig,\n1761.\n8-vo.\nS.\n1,\nsequ."
+  citata_rodoma: |
+    Mongolų karvedžiai skubėjo
+    užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­
+    lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
+    1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­
+    schweig,
+    1761.
+    8-vo.
+    S.
+    1,
+    sequ.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

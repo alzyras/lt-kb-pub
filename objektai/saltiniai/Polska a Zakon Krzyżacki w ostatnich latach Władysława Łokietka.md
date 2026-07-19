@@ -67,7 +67,10 @@ media_all_json: |-
     St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —
     (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
     Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
-  citata_rodoma: "—\n(”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_\nLwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut)."
+  citata_rodoma: |
+    —
+    (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
+    Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

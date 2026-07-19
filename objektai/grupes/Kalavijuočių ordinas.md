@@ -107,7 +107,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie ordino įkūrimą."
   pagrindžia:
-    - c-05800
+    - c-05799
 
 <a id="claim-t-175533"></a>
 - t-004
@@ -422,7 +422,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą įkūrimo aplinkybę."
   pagrindžia:
-    - c-05800
+    - c-05799
 
 <a id="claim-t-175553"></a>
 - t-020
@@ -708,7 +708,9 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-175532
     - t-175543
+    - t-175552
 - id: c-05800
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -720,15 +722,18 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae
     Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
     raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją.
-  citata_rodoma: "Pagal Palestinoje\nsu turkais kovojančių templininkų statutą, vyskupo priklausomybėje\n1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae\nChristi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be\nraudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją."
+  citata_rodoma: |
+    Pagal Palestinoje
+    su turkais kovojančių templininkų statutą, vyskupo priklausomybėje
+    1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae
+    Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
+    raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175532
-    - t-175552
 - id: c-42692
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -742,7 +747,13 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valsty-
     bei. Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros
     epocha, kurios pabaigoje daugelis baltų tautų nustojo egzistuoti.
-  citata_rodoma: "Tačiau šis proce-\nsas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsi-\nkūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga\npakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valsty-\nbei. Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros\nepocha, kurios pabaigoje daugelis baltų tautų nustojo egzistuoti."
+  citata_rodoma: |
+    Tačiau šis proce-
+    sas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsi-
+    kūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga
+    pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valsty-
+    bei. Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros
+    epocha, kurios pabaigoje daugelis baltų tautų nustojo egzistuoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -762,7 +773,11 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     lavijuočiai), o kiti į Pavyslį (kryžiuočiai). Nuo tada pradeda
     rastis kaskart vis daugiau istorinių žinių apie aisčių gyve-
     nimą ir jų kovas už savo nepriklausomybę.
-  citata_rodoma: "Vieni jų atsikraustė į Padauguvį (ka-\nlavijuočiai), o kiti į Pavyslį (kryžiuočiai). Nuo tada pradeda\nrastis kaskart vis daugiau istorinių žinių apie aisčių gyve-\nnimą ir jų kovas už savo nepriklausomybę."
+  citata_rodoma: |
+    Vieni jų atsikraustė į Padauguvį (ka-
+    lavijuočiai), o kiti į Pavyslį (kryžiuočiai). Nuo tada pradeda
+    rastis kaskart vis daugiau istorinių žinių apie aisčių gyve-
+    nimą ir jų kovas už savo nepriklausomybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -888,7 +903,16 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     vių sutriuškintas lemiamame Saulės mūšyje 1236 m. Nors lietu- i
     viams nepavyko perimti vokiečių užgrobtų šiaurinių baltų žemių, .
     tačiau tolimesnė vokiečių ekspansija iš šiaurės buvo sulaikyta.
-  citata_rodoma: "Nauja priešiška jėga regione paspartino Lietuvos valstybės kon-\nsolidavimo procesą, tačiau lietuviams teko apsiriboti siauresne\n\nbaltiška teritorija. Sustiprėjusios Lietuvos valstybės kariuomenė\n\nbuvo pajėgi kautis su Kalavijuočių ordinu ir pastarasis buvo lietu-\n\nvių sutriuškintas lemiamame Saulės mūšyje 1236 m. Nors lietu- i\nviams nepavyko perimti vokiečių užgrobtų šiaurinių baltų žemių, ."
+  citata_rodoma: |
+    Nauja priešiška jėga regione paspartino Lietuvos valstybės kon-
+    solidavimo procesą, tačiau lietuviams teko apsiriboti siauresne
+
+    baltiška teritorija. Sustiprėjusios Lietuvos valstybės kariuomenė
+
+    buvo pajėgi kautis su Kalavijuočių ordinu ir pastarasis buvo lietu-
+
+    vių sutriuškintas lemiamame Saulės mūšyje 1236 m. Nors lietu- i
+    viams nepavyko perimti vokiečių užgrobtų šiaurinių baltų žemių, .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1049,7 +1073,17 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     karo, ir taikos metu tokios pat santarvės bei šlovės,
     kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
     bei lazdą.
-  citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
+  citata_rodoma: |
+    Vis dėl­
+    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
+    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
+    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
+    sako Livonijos metraštis, žemaičiai ir lietuviai prie
+    Eželio ant ledo kovojo su Livonijos magistru Otonu,
+    magistras žuvo su penkiasdešimčia šio ordino brolių.
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1079,7 +1113,22 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     čionybę. Ir viena, ir kita šalis uoliai veikė: pasiunti­
     niais tapo Alėto vyskupas Baltramiejus ir šv. Teofrido
     vienuolyno abatas Bernardas.
-  citata_rodoma: "Kai šitaip klostėsi reikalai\nPrūsijos pasienyje, Livonija,\nvildamasi pastovios taikos, il­\nsėjosi nuo karo. Fridrichas,\nRygos vyskupas, gal asme­\nniškai jausdamas Gediminui\ndėkingumą už ne vieną kar­\ntą suteiktą pagalbą, o gal\ngailėdamasis karų nukamuotos Livonijos, bandė am­\nžiams sutaikyti Livonijos ordiną ir Lietuvą. Tuo rei­\nkalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­\nrėdamas Livonijos ordiną aukščiausios galios vardu\npriversti pagalvoti apie taiką, o lietuvius, garbingai\npasiuntinybei tarpininkaujant, paskatinti priimti krikš­\nčionybę."
+  citata_rodoma: |
+    Kai šitaip klostėsi reikalai
+    Prūsijos pasienyje, Livonija,
+    vildamasi pastovios taikos, il­
+    sėjosi nuo karo. Fridrichas,
+    Rygos vyskupas, gal asme­
+    niškai jausdamas Gediminui
+    dėkingumą už ne vieną kar­
+    tą suteiktą pagalbą, o gal
+    gailėdamasis karų nukamuotos Livonijos, bandė am­
+    žiams sutaikyti Livonijos ordiną ir Lietuvą. Tuo rei­
+    kalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­
+    rėdamas Livonijos ordiną aukščiausios galios vardu
+    priversti pagalvoti apie taiką, o lietuvius, garbingai
+    pasiuntinybei tarpininkaujant, paskatinti priimti krikš­
+    čionybę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

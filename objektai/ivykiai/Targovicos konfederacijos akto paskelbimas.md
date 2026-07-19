@@ -90,7 +90,17 @@ Nenurodyta
     jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: "L I E T U V O S  I S T O R I J A\n94\nLietuvos Didžiosios Kunigaikštijos \nsunaikinimas \nGegužės trečiosios konstitucijos reformoms įnirtingai \npriešinosi aristokratija ir visa konservatyvioji visuomenės dalis. Tačiau \nopozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius \nreformų priešininkus. Peterburge subrendo ir buvo surašytas Targovicos \n(miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-\njos aktas, paskelbtas 1792 m. gegužės 14 d."
+  citata_rodoma: |
+    L I E T U V O S  I S T O R I J A
+    94
+    Lietuvos Didžiosios Kunigaikštijos
+    sunaikinimas
+    Gegužės trečiosios konstitucijos reformoms įnirtingai
+    priešinosi aristokratija ir visa konservatyvioji visuomenės dalis. Tačiau
+    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
+    reformų priešininkus. Peterburge subrendo ir buvo surašytas Targovicos
+    (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
+    jos aktas, paskelbtas 1792 m. gegužės 14 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

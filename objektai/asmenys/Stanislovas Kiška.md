@@ -171,7 +171,17 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     riais ir maskvėnais (po to, kai 1502 m. jam
     pavyko apginti Smolenską nuo maskvėnų,
     jam buvo patikėtos etmono pareigos).
-  citata_rodoma: "Jis\nvyriausiais kariuomenės vadais paskyrė\nLDK etmoną Stanislovą Kišką ir savo favo-\nrita, dvaro maršalką, kunigaikštį Mykolą\nGlinskį, o pats grįžo į Vilnių. Stanislovas\nKiška nebuvo labai gabus karvedys, bet jau\nturėjo tam tikros patirties kovose su toto-\nriais ir maskvėnais (po to, kai 1502 m. jam\npavyko apginti Smolenską nuo maskvėnų,\njam buvo patikėtos etmono pareigos)."
+  citata_rodoma: |
+    Jis
+    vyriausiais kariuomenės vadais paskyrė
+    LDK etmoną Stanislovą Kišką ir savo favo-
+    rita, dvaro maršalką, kunigaikštį Mykolą
+    Glinskį, o pats grįžo į Vilnių. Stanislovas
+    Kiška nebuvo labai gabus karvedys, bet jau
+    turėjo tam tikros patirties kovose su toto-
+    riais ir maskvėnais (po to, kai 1502 m. jam
+    pavyko apginti Smolenską nuo maskvėnų,
+    jam buvo patikėtos etmono pareigos).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

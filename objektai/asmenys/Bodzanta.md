@@ -215,7 +215,30 @@ Bodzanta Vladislovo vardu.
     ti jam as,
     v a in ik u o ja-
     m a s
-  citata_rodoma: "Po to vasario 16 dieną, kuri\npaskirta šv. Valentinui, Gnez-\nno\narkivyskupo\nBodzantos\napkrikštytas, gavo Vladislo­\nvo vardą. Pakeitė kartu su\ntikėjimu vardus ir kiti kunigaikščiai, kurie dar nebuvo\npriėmę krikščionybės: Vygandas su Vytautu tapo Alek­\nsandrais, Skirgaila ir Karigaila — Kazimierais, Švitri-\n1386 m eta i\nJo g a ila\na tv y k s ta\nį\nK ro k u v ą , jis a p k rik š-\nti jam as,\nv a in ik u o  ja-\nm a s\n282\n\n## Puslapis 281\n\ngaila — Boleslovu, Daujotas — Jurgiu."
+  citata_rodoma: |
+    Po to vasario 16 dieną, kuri
+    paskirta šv. Valentinui, Gnez-
+    no
+    arkivyskupo
+    Bodzantos
+    apkrikštytas, gavo Vladislo­
+    vo vardą. Pakeitė kartu su
+    tikėjimu vardus ir kiti kunigaikščiai, kurie dar nebuvo
+    priėmę krikščionybės: Vygandas su Vytautu tapo Alek­
+    sandrais, Skirgaila ir Karigaila — Kazimierais, Švitri-
+    1386 m eta i
+    Jo g a ila
+    a tv y k s ta
+    į
+    K ro k u v ą , jis a p k rik š-
+    ti jam as,
+    v a in ik u o  ja-
+    m a s
+    282
+
+    ## Puslapis 281
+
+    gaila — Boleslovu, Daujotas — Jurgiu.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

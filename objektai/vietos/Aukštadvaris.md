@@ -73,7 +73,10 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
     | įgulų puolančiam priešui atremti. Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
     | Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |
     | šiek tiek pakenčiamus batus.
-  citata_rodoma: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |\n| Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |\n| šiek tiek pakenčiamus batus."
+  citata_rodoma: |
+    Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
+    | Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |
+    | šiek tiek pakenčiamus batus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

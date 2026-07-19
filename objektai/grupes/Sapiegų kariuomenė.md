@@ -104,7 +104,22 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
     kad vyksta į Drują bei Bychovo tvir-
     tovę, iš tikrųjų suskubo trauktis į
     Kuršą - į Bauskę ir Mintaują.
-  citata_rodoma: "Sapiega, gavęs iš Višnioveckių\nsaugumo garantijas, pasidavė kartu\nsu visa likusia kariuomene respubli-\nkonams. Šios Sapiegų kariuomenės\ndalies gynyba neleido respubliko-\nnams organizuoti besitraukiančių\nSapiegų giminės senjorų persekio-\njimą. Etmonas, iždininkas ir marša-\nlas vakare pasiekė Vilnių, iš visų savo\nrūmų suvežė svarbiausias vertybes į\ndominikonų vienuolyną, kuriame ir\npernakvojo, o ryte, paskleidę gandą,\nkad vyksta į Drują bei Bychovo tvir-\ntovę, iš tikrųjų suskubo trauktis į\nKuršą - į Bauskę ir Mintaują."
+  citata_rodoma: |
+    Sapiega, gavęs iš Višnioveckių
+    saugumo garantijas, pasidavė kartu
+    su visa likusia kariuomene respubli-
+    konams. Šios Sapiegų kariuomenės
+    dalies gynyba neleido respubliko-
+    nams organizuoti besitraukiančių
+    Sapiegų giminės senjorų persekio-
+    jimą. Etmonas, iždininkas ir marša-
+    las vakare pasiekė Vilnių, iš visų savo
+    rūmų suvežė svarbiausias vertybes į
+    dominikonų vienuolyną, kuriame ir
+    pernakvojo, o ryte, paskleidę gandą,
+    kad vyksta į Drują bei Bychovo tvir-
+    tovę, iš tikrųjų suskubo trauktis į
+    Kuršą - į Bauskę ir Mintaują.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

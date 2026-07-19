@@ -90,7 +90,14 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
     Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė
     ponas Laurinavičius - garbingasis Kauno mokyklos profesorius
     ir prefektas)*.
-  citata_rodoma: "Įėjimas -  tai priekiniai vartai, į dešinę\nnuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,\narba svečių namas (šios šventyklos ir viso miesto piešinį žiū­\nrėk VII lentelėje).\nKita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­\nklį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-\n7141-asis puslapis."
+  citata_rodoma: |
+    Įėjimas -  tai priekiniai vartai, į dešinę
+    nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,
+    arba svečių namas (šios šventyklos ir viso miesto piešinį žiū­
+    rėk VII lentelėje).
+    Kita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­
+    klį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-
+    7141-asis puslapis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

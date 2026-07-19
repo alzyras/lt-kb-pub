@@ -164,7 +164,15 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
     Naugardu, Pskovu, Mozūrija, Odojevo ir
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais. Tuo tarpu Jogailos\nLenkijos santykiai su Ordinu aštrėjo."
+  citata_rodoma: |
+    Gegužės 15 d.
+
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais. Tuo tarpu Jogailos
+    Lenkijos santykiai su Ordinu aštrėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

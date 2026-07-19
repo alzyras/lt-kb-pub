@@ -79,7 +79,11 @@ Tadas Slizenis buvo kanauninkas. Tado Slizenio namuose tuo metu gyveno jo brolis
     rašė ir M. K. Sapiegai. Jis teigė, kad galėtų pasiūlyti kanauninko Tado Slizenio (Tadeusz
     Ślizień) namus, bet perspėjo, kad ten tuo metu gyvena jo brolis – Lietuvos Vyriausiojo
     Tribunolo pasiuntinys.
-  citata_rodoma: "Tais pačiais metais J. D. Lopacinskis apie apsigyvenimo Vilniuje sudėtingumą ir pasiūlymus\nrašė ir M. K. Sapiegai. Jis teigė, kad galėtų pasiūlyti kanauninko Tado Slizenio (Tadeusz\nŚlizień) namus, bet perspėjo, kad ten tuo metu gyvena jo brolis – Lietuvos Vyriausiojo\nTribunolo pasiuntinys."
+  citata_rodoma: |
+    Tais pačiais metais J. D. Lopacinskis apie apsigyvenimo Vilniuje sudėtingumą ir pasiūlymus
+    rašė ir M. K. Sapiegai. Jis teigė, kad galėtų pasiūlyti kanauninko Tado Slizenio (Tadeusz
+    Ślizień) namus, bet perspėjo, kad ten tuo metu gyvena jo brolis – Lietuvos Vyriausiojo
+    Tribunolo pasiuntinys.
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

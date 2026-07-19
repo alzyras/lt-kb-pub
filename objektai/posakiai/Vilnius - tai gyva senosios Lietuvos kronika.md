@@ -105,7 +105,14 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     šlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir
     aistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios
     Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
-  citata_rodoma: "1859 m. išleistame vadove po Vilnių autorius Adomas Ho­\nnorijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas \nmiestas jau turi savo istorikus. „Vilniuje sulig kiekvienu žings­\nniu užtiksite ką nors įdomaus, pamokomo, kas primins jums \nšlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir \naistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios \nLietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas."
+  citata_rodoma: |
+    1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
+    norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas
+    miestas jau turi savo istorikus. „Vilniuje sulig kiekvienu žings­
+    niu užtiksite ką nors įdomaus, pamokomo, kas primins jums
+    šlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir
+    aistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios
+    Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

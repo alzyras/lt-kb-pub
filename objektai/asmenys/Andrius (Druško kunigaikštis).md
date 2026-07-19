@@ -91,7 +91,30 @@ media_all_json: |-
     pačia teise ir sąlygomis, kaip ją val­
     dė Druško kunigaikščio Andriaus
     sūnūs ].
-  citata_rodoma: "3-oji privilegija rašyta \nTrakuose, datuota 1411 m., kuria di­\ndysis kunigaikštis Vytautas, atsi­\nliepdamas į vyskupo Mikalojaus ir \nVilniaus kapitulos pareiškimus \nmainais už dvasininkijos Vechatnicos \nkaimą Volkovisko paviete, esantį \nkapitulai netinkamoje vietovėje, \nduoda jai: Vilias seu haereditates \nnostras Mileykozvo et Moranonnikoni- \nce nuncupatas in districtu Creuensi \n(powiat Krewski) sitas, haereditates \nque Blusza in flumine Swisłocz et di­\nstrictu Swisłocen, eo modo et jure quo \nipsam filii Andreani Ducis de Druszsko \ntenuerunt, etc. [kaimus, arba mums \npriklausančius, vadinamus Mileika- \nvu ir Moranonikovičiais, Krėvos \nvalsčiuje esančius, ir Blušą prie Svis- \nločės upės Svisločės valsčiuje tokia \npačia teise ir sąlygomis, kaip ją val­\ndė Druško kunigaikščio Andriaus \nsūnūs ]."
+  citata_rodoma: |
+    3-oji privilegija rašyta
+    Trakuose, datuota 1411 m., kuria di­
+    dysis kunigaikštis Vytautas, atsi­
+    liepdamas į vyskupo Mikalojaus ir
+    Vilniaus kapitulos pareiškimus
+    mainais už dvasininkijos Vechatnicos
+    kaimą Volkovisko paviete, esantį
+    kapitulai netinkamoje vietovėje,
+    duoda jai: Vilias seu haereditates
+    nostras Mileykozvo et Moranonnikoni-
+    ce nuncupatas in districtu Creuensi
+    (powiat Krewski) sitas, haereditates
+    que Blusza in flumine Swisłocz et di­
+    strictu Swisłocen, eo modo et jure quo
+    ipsam filii Andreani Ducis de Druszsko
+    tenuerunt, etc. [kaimus, arba mums
+    priklausančius, vadinamus Mileika-
+    vu ir Moranonikovičiais, Krėvos
+    valsčiuje esančius, ir Blušą prie Svis-
+    ločės upės Svisločės valsčiuje tokia
+    pačia teise ir sąlygomis, kaip ją val­
+    dė Druško kunigaikščio Andriaus
+    sūnūs ].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

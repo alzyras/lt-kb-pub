@@ -122,7 +122,11 @@ Nenurodyta
     su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
     Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
     pažinoję teritoriją, kelius ir žmones (III, 74, 223).
-  citata_rodoma: "Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.\nPirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs\n1282 m.). Trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras\nVerneris, kuriam kronikininkas įteikė savo veikalą."
+  citata_rodoma: |
+    Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.
+    Pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs
+    1282 m.). Trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras
+    Verneris, kuriam kronikininkas įteikė savo veikalą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

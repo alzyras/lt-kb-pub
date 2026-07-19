@@ -810,7 +810,10 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     hičiną ir Melniką. Negavęs pagalbos Mozūrijoje ir palikęs sa­
     vo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­
     rių ir begalėjo laukti paramos.
-  citata_rodoma: "Negavęs pagalbos Mozūrijoje ir palikęs sa­\nvo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­\nrių ir begalėjo laukti paramos."
+  citata_rodoma: |
+    Negavęs pagalbos Mozūrijoje ir palikęs sa­
+    vo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­
+    rių ir begalėjo laukti paramos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -834,7 +837,14 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
     Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
     Varmijos)^1 ).
-  citata_rodoma: "Abu\nmagistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­\njos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,\nBrastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su\nKęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių\nOrdino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir\nVarmijos)^1 )."
+  citata_rodoma: |
+    Abu
+    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
+    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
+    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
+    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
+    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
+    Varmijos)^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -855,7 +865,13 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
     buvo ir (tada dar pusiau savarankiški) Žemaičiai.
-  citata_rodoma: "Vyriausias sūnus, Man-\nv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą\nir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-\ndas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų\npasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje\nbuvo ir (tada dar pusiau savarankiški) Žemaičiai."
+  citata_rodoma: |
+    Vyriausias sūnus, Man-
+    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
+    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
+    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
+    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
+    buvo ir (tada dar pusiau savarankiški) Žemaičiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -904,7 +920,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
     jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
     tėjimo viršūnės.
-  citata_rodoma: "Tame pačiame seime \nLietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­\nraliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.) \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės."
+  citata_rodoma: |
+    Tame pačiame seime
+    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
+    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
+    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
+    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
+    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
+    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
+    tėjimo viršūnės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -956,7 +980,20 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
-  citata_rodoma: "112.\nI1l\n\n## Puslapis 128\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvyskupui, iškilmingu aktu dovanodamas kunigaikštišką \nTauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra- \nvos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius \nDrohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­\nkamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­\nteko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos \nistorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė."
+  citata_rodoma: |
+    112.
+    I1l
+
+    ## Puslapis 128
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
+    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
+    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
+    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
+    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -982,7 +1019,13 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     mu užėmė ano valdos sostinę Gardiną ir šiaip taip
     patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis.
-  citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
+  citata_rodoma: |
+    Pats tuo metu už­
+    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
+    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
+    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
+    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
+    Vilniaus diecezijos senųjų turto do- Vilnensis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1008,7 +1051,18 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     valdžios vadžias. Tiktai jaunos ir dorovingos karalienės
     mirtis 1545 metų liepos 17 dieną paskandino liūdesyje rū­
     mus ir miesto gyventojus29.
-  citata_rodoma: ") \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės.\nŽygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos \nseimo kartu su karaliene Elžbieta ir didele dvariškių svita, \ntais pačiais metais ir su geriausiomis pranašystėmis perėmė \nvaldžios vadžias. Tiktai jaunos ir dorovingos karalienės \nmirtis 1545 metų liepos 17 dieną paskandino liūdesyje rū­\nmus ir miesto gyventojus29."
+  citata_rodoma: |
+    )
+    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
+    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
+    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
+    tėjimo viršūnės.
+    Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
+    seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
+    tais pačiais metais ir su geriausiomis pranašystėmis perėmė
+    valdžios vadžias. Tiktai jaunos ir dorovingos karalienės
+    mirtis 1545 metų liepos 17 dieną paskandino liūdesyje rū­
+    mus ir miesto gyventojus29.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1030,7 +1084,12 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
     mas Lietuvoje virto nenutrūkstamu procesu.
-  citata_rodoma: "Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė \nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į \nVilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-\nmas Lietuvoje virto nenutrūkstamu procesu."
+  citata_rodoma: |
+    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
+    mas Lietuvoje virto nenutrūkstamu procesu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1055,7 +1114,17 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
     tais pačiais metais ir su geriausiomis pranašystėmis perėmė
     valdžios vadžias.
-  citata_rodoma: "Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)\nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės.\nŽygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos\nseimo kartu su karaliene Elžbieta ir didele dvariškių svita,\ntais pačiais metais ir su geriausiomis pranašystėmis perėmė\nvaldžios vadžias."
+  citata_rodoma: |
+    Bet Žygimantas, metų naštos prislėg­
+    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
+    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
+    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
+    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
+    tėjimo viršūnės.
+    Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
+    seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
+    tais pačiais metais ir su geriausiomis pranašystėmis perėmė
+    valdžios vadžias.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1076,7 +1145,12 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
     (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
     stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
-  citata_rodoma: "Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, \nTrakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-\nse LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje \n(Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net \nstačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių."
+  citata_rodoma: |
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
+    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1096,7 +1170,11 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     šių mokyklų iš pradžių žymiausioji buvo vilniškė. Po protes-
     tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
     kalvinų bažnyčia.
-  citata_rodoma: "Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-\nžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-\ndžios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų\nšių mokyklų iš pradžių žymiausioji buvo vilniškė."
+  citata_rodoma: |
+    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
+    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
+    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
+    šių mokyklų iš pradžių žymiausioji buvo vilniškė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1117,7 +1195,12 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
     Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
     kijos ir Lietuvos) dignitorių – ministrų.
-  citata_rodoma: "Liepos pabaigoje \ngynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-\nėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą \nprie Targovicos konfederacijos. \n1792 m."
+  citata_rodoma: |
+    Liepos pabaigoje
+    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
+    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
+    prie Targovicos konfederacijos.
+    1792 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1139,7 +1222,11 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: "Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė \nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į \nVilnių ir atidavė besikuriančiam jėzuitų universitetui."
+  citata_rodoma: |
+    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1183,7 +1270,12 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
     prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš
     72 pabūklų ji prarado tik septynis.
-  citata_rodoma: "LDK kariuomenė turėjo daug sunkumų su karo \nvadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-\nfas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino \nprie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš \n72 pabūklų ji prarado tik septynis."
+  citata_rodoma: |
+    LDK kariuomenė turėjo daug sunkumų su karo
+    vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-
+    fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
+    prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš
+    72 pabūklų ji prarado tik septynis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1227,7 +1319,13 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     kunigaikščio Jogailos savo tėvui, kad jo tėvas, didysis
     kunigaikštis Kęstutis, po susitikimo vėl galės saugiai
     grįžti.
-  citata_rodoma: "O kai prisiartina \ndidysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­\nsiduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta \nį Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia \nį Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­\njos kunigaikščiu."
+  citata_rodoma: |
+    O kai prisiartina
+    didysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­
+    siduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta
+    į Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia
+    į Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­
+    jos kunigaikščiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

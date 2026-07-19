@@ -76,7 +76,8 @@ Dusburgietis teigia, kad ziesemer W.
   citata_originali: |
     В. 2. — М 1955.
     Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв.
-  citata_rodoma: "Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906."
+  citata_rodoma: |
+    Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -72,7 +72,8 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: "laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos"
+  citata_rodoma: |
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

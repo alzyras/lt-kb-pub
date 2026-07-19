@@ -86,7 +86,17 @@ Nenurodyta
     karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
     kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
     317 (310).
-  citata_rodoma: "Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė\nvisą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,\nkurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę\nkaro įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne\nkurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.\n\n\n\n\n                   317 (310)."
+  citata_rodoma: |
+    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
+    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
+    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
+    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
+    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
+
+
+
+
+                       317 (310).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -96,7 +96,10 @@ Nenurodyta
     „Koruch“ vietoj „Kracho“, o vietoje raidės „ch“, kuri nebuvo ži­
     noma venedų runų abėcėlėje, buvo naudojama dviguba „gg“
     (11), kurios, sujungtos į vieną raidę, skaitoma kaip „ CH“.
-  citata_rodoma: "Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš\nsenovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios\nvėliavos aprašymas yra straipsnyje apie herbus."
+  citata_rodoma: |
+    Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
+    senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios
+    vėliavos aprašymas yra straipsnyje apie herbus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

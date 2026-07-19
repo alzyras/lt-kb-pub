@@ -455,7 +455,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     sukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas
     tik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo
     30 metų (1290).
-  citata_rodoma: "Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą\nprieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.)\nnesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo\nsukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas\ntik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo\n30 metų (1290)."
+  citata_rodoma: |
+    Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą
+    prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.)
+    nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo
+    sukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas
+    tik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo
+    30 metų (1290).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -477,7 +483,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
     ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
     mi kaip Liet’gola.
-  citata_rodoma: "Latvių ten atliktas asimiliacijos\nfaktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių\nsritis yra asimiliavę lietuviai.\nTikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai\nryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­\nmi kaip Liet’gola."
+  citata_rodoma: |
+    Latvių ten atliktas asimiliacijos
+    faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių
+    sritis yra asimiliavę lietuviai.
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -497,7 +509,11 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     ninkių tautų yra minimos — vis savo atskiras kalbas turinčios —
     «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­
     nams buvo svarbus vandens kelias į rytus.
-  citata_rodoma: "Tarp kitų duokli­\nninkių tautų yra minimos — vis savo atskiras kalbas turinčios —\n«Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­\nnams buvo svarbus vandens kelias į rytus."
+  citata_rodoma: |
+    Tarp kitų duokli­
+    ninkių tautų yra minimos — vis savo atskiras kalbas turinčios —
+    «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­
+    nams buvo svarbus vandens kelias į rytus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -532,7 +548,11 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     kuršius bei žiemgalius.
     Puikų lietuvių apginklavimą paliudija ir faktas, kad po per­
     galės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais.
-  citata_rodoma: "Spindinčius metalo ginklus kronikininkai randa ir pas\nkuršius bei žiemgalius.\nPuikų lietuvių apginklavimą paliudija ir faktas, kad po per­\ngalės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais."
+  citata_rodoma: |
+    Spindinčius metalo ginklus kronikininkai randa ir pas
+    kuršius bei žiemgalius.
+    Puikų lietuvių apginklavimą paliudija ir faktas, kad po per­
+    galės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -553,7 +573,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
     jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
     tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
-  citata_rodoma: "Betarpiškame ryšyje su Georgenburgo įkūrimu\nreikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies\nDobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.\nMindaugo pergamentai kryžiuočiams teteikė formalią teisę į\njiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek\ntegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti."
+  citata_rodoma: |
+    Betarpiškame ryšyje su Georgenburgo įkūrimu
+    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
+    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
+    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
+    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
+    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -574,7 +600,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     puolė žemaičiai^165. Nepasisekus pilies paimti, jie persimetė į pietus
     prie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­
     nėjo nykstančią ir maisto trūkstančią vokiečių įgulą.
-  citata_rodoma: "Kai kryžiuočiams\nnepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 ,\njie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami,\npuolė žemaičiai^165. Nepasisekus pilies paimti, jie persimetė į pietus\nprie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­\nnėjo nykstančią ir maisto trūkstančią vokiečių įgulą."
+  citata_rodoma: |
+    Kai kryžiuočiams
+    nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 ,
+    jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami,
+    puolė žemaičiai^165. Nepasisekus pilies paimti, jie persimetė į pietus
+    prie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­
+    nėjo nykstančią ir maisto trūkstančią vokiečių įgulą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -595,7 +627,10 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     buvo pasidalinę kryžiuočiai ir Rygos arkivyskupas. Kaip reikalingą
     bazę savo žygiams ordinas 1265 m. pastatė Mintaujos (Jelgavos)
     pilį.
-  citata_rodoma: "Traidenis varžėsi su Livonijos ordinu dėl žiemgaliu žemės, kurią\nbuvo pasidalinę kryžiuočiai ir Rygos arkivyskupas. Kaip reikalingą\nbazę savo žygiams ordinas 1265 m."
+  citata_rodoma: |
+    Traidenis varžėsi su Livonijos ordinu dėl žiemgaliu žemės, kurią
+    buvo pasidalinę kryžiuočiai ir Rygos arkivyskupas. Kaip reikalingą
+    bazę savo žygiams ordinas 1265 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -614,7 +649,11 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     valdžios. Panašiai kaip prūsų sukilimo vadas Herkus Mantas, žiem­
     galių sukilėlių vadas Nameisė taip pat iki tol buvo tarnavęs ordi-
     nui^242.
-  citata_rodoma: "Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos\nvaldžios. Panašiai kaip prūsų sukilimo vadas Herkus Mantas, žiem­\ngalių sukilėlių vadas Nameisė taip pat iki tol buvo tarnavęs ordi-\nnui^242."
+  citata_rodoma: |
+    Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos
+    valdžios. Panašiai kaip prūsų sukilimo vadas Herkus Mantas, žiem­
+    galių sukilėlių vadas Nameisė taip pat iki tol buvo tarnavęs ordi-
+    nui^242.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -636,7 +675,10 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
-  citata_rodoma: "Vis dėlto Lietuva ir toliau liko pagrindinė,\nvadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,\ntelkė jėgas ir kovai Prūsijoje."
+  citata_rodoma: |
+    Vis dėlto Lietuva ir toliau liko pagrindinė,
+    vadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,
+    telkė jėgas ir kovai Prūsijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -654,7 +696,11 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
     kuršius, žiemgalius. Lietuviai, gyvenę į rytus nuo šių genčių, natūralu, į
     metraščius nepateko, o ir rytų baltų diferenciacijos procesas vyko vėliau.
-  citata_rodoma: "Anks-\ntyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus, \nkuršius, žiemgalius. Lietuviai, gyvenę į rytus nuo šių genčių, natūralu, į \nmetraščius nepateko, o ir rytų baltų diferenciacijos procesas vyko vėliau."
+  citata_rodoma: |
+    Anks-
+    tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
+    kuršius, žiemgalius. Lietuviai, gyvenę į rytus nuo šių genčių, natūralu, į
+    metraščius nepateko, o ir rytų baltų diferenciacijos procesas vyko vėliau.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -672,7 +718,11 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų
     bendradarbiavimas26. Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė
     kalavijuočiams padauguvyje27.
-  citata_rodoma: "Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų\npuolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų\nbendradarbiavimas26. Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė\nkalavijuočiams padauguvyje27."
+  citata_rodoma: |
+    Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
+    puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų
+    bendradarbiavimas26. Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė
+    kalavijuočiams padauguvyje27.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

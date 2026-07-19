@@ -60,7 +60,11 @@ Nors Pauli savo Prūsijos valsty­ bės istorijoje, T.
     bės istorijoje, T. IV, p. 164 f. f. taip jį
     vertina, nesame linkę pripažinti
     esant tai tikra.
-  citata_rodoma: "Nors Pauli  savo Prūsijos valsty­\nbės istorijoje, T. IV, p. 164 f. f. taip jį \nvertina, nesame linkę pripažinti \nesant tai tikra."
+  citata_rodoma: |
+    Nors Pauli  savo Prūsijos valsty­
+    bės istorijoje, T. IV, p. 164 f. f. taip jį
+    vertina, nesame linkę pripažinti
+    esant tai tikra.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

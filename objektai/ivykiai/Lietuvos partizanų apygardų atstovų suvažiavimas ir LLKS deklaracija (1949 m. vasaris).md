@@ -135,7 +135,18 @@ Nenurodyta
     organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Suvažiavimas
     patvirtino dokumentus, įteisinusius LLKs vadovavimą politinei ir
     karinei tautos išlaisvinimo kovai.
-  citata_rodoma: "Tačiau jie\n\n## Puslapis 235\n\nLIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA\n\n1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas,\nkuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą\norganizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Suvažiavimas\npatvirtino dokumentus, įteisinusius LLKs vadovavimą politinei ir\nkarinei tautos išlaisvinimo kovai."
+  citata_rodoma: |
+    Tačiau jie
+
+    ## Puslapis 235
+
+    LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA
+
+    1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas,
+    kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą
+    organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Suvažiavimas
+    patvirtino dokumentus, įteisinusius LLKs vadovavimą politinei ir
+    karinei tautos išlaisvinimo kovai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -157,7 +168,12 @@ Nenurodyta
 
     atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
     jos ateities raidos gaires.
-  citata_rodoma: "1949 m. vasario 16 d. LLKS tarybos\npatvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė\n\natkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė\njos ateities raidos gaires."
+  citata_rodoma: |
+    1949 m. vasario 16 d. LLKS tarybos
+    patvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė
+
+    atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
+    jos ateities raidos gaires.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -90,7 +90,10 @@ media_all_json: |-
     Rusią. Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
     kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
     viams »^14.
-  citata_rodoma: "Bet to paties siekė ir Algirdas, kuris nedvejodamas pas-\nkelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu-\nviams »^14."
+  citata_rodoma: |
+    Bet to paties siekė ir Algirdas, kuris nedvejodamas pas-
+    kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu-
+    viams »^14.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +109,9 @@ media_all_json: |-
     (^14) **SRP, II, 80 p. (« Omnis Russia ad Letwinos deberet simpliciter
     pertinere »).**
     (^15) **PSRL, 7, 215 p. ; 18, 97 p.**
-  citata_rodoma: "(^14) **SRP, II, 80 p. (« Omnis Russia ad Letwinos deberet simpliciter\npertinere »).**"
+  citata_rodoma: |
+    (^14) **SRP, II, 80 p. (« Omnis Russia ad Letwinos deberet simpliciter
+    pertinere »).**
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

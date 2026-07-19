@@ -121,7 +121,11 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 
       1273 viešpaties metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi (Mart.
     p. 420; Ptol. 23, 3).
-  citata_rodoma: "Apie Rudolfo išrinkimą Romos karaliumi\n\n  1273 viešpaties metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi (Mart.\np. 420; Ptol. 23, 3)."
+  citata_rodoma: |
+    Apie Rudolfo išrinkimą Romos karaliumi
+
+      1273 viešpaties metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi (Mart.
+    p. 420; Ptol. 23, 3).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

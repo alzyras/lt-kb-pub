@@ -130,7 +130,12 @@ Nenurodyta
     Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
     315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
     siekimas — grobti naujas žemes.
-  citata_rodoma: "Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai\ndarydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).\nOrdinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,\n315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino\nsiekimas — grobti naujas žemes."
+  citata_rodoma: |
+    Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
+    darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
+    Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
+    315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
+    siekimas — grobti naujas žemes.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -151,7 +156,13 @@ Nenurodyta
     istorikų pastangos vaizduoti Prūsijos bei kitų žemių užkariavimą, lydimą vietos gyventojų
     pavergimo, kaip šių sričių „pertvarkymą vietos gyventojų ir vokiečių elementų sintezės“
     pagrindų.
-  citata_rodoma: "Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,\n315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino\nsiekimas — grobti naujas žemes. Jo nuomone, Marienverderio pilis pavyslyje pastatyta,\n„kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines\nprūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,\n315), t. y. užgrobti lietuvių žemes."
+  citata_rodoma: |
+    Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
+    315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
+    siekimas — grobti naujas žemes. Jo nuomone, Marienverderio pilis pavyslyje pastatyta,
+    „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines
+    prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,
+    315), t. y. užgrobti lietuvių žemes.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -172,7 +183,13 @@ Nenurodyta
     315), t. y. užgrobti lietuvių žemes.
     Tęsdama Dusburgiečio ir kitų Ordino kronikininkų tradiciją, buržuazinė vokiečių
     istoriografija visaip stengėsi ir stengiasi pateisinti vokiečių feodalų veiksmus Rytuose.
-  citata_rodoma: "Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,\natskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.\n  Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai\ndarydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).\nOrdinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,\n315)."
+  citata_rodoma: |
+    Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,
+    atskirus istorinius faktus, bet tam pajungia ir visą kronikos idėjinį turinį.
+      Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
+    darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
+    Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
+    315).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

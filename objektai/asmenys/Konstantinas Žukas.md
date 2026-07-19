@@ -66,7 +66,17 @@ Konstantinas Žukas.
     vadu buvo paskirtas jau kovose pasižy-
     mėjęs plk. ltn. K. Ladyga, buvo pakeisti
     kai kurie pulkų vadai.
-  citata_rodoma: "buvo paskirtas\nplk. Itn. Konstantinas Žukas. Atleidus iš\npareigų armijos vadą gen. S. Nastopką\n\nir Generalinio štabo viršininką\n\ngen. M. Katchę, rugpjūčio 23 d. armijos\nvadu buvo paskirtas jau kovose pasižy-\nmėjęs plk. ltn. K. Ladyga, buvo pakeisti\nkai kurie pulkų vadai."
+  citata_rodoma: |
+    buvo paskirtas
+    plk. Itn. Konstantinas Žukas. Atleidus iš
+    pareigų armijos vadą gen. S. Nastopką
+
+    ir Generalinio štabo viršininką
+
+    gen. M. Katchę, rugpjūčio 23 d. armijos
+    vadu buvo paskirtas jau kovose pasižy-
+    mėjęs plk. ltn. K. Ladyga, buvo pakeisti
+    kai kurie pulkų vadai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

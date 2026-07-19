@@ -941,7 +941,11 @@ media_all_json: |-
     įkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai
     anksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž. gale
     politiškai jau atsipalaidavo.
-  citata_rodoma: "Jos pri­\nklausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo\nįkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai\nanksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž."
+  citata_rodoma: |
+    Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai
+    anksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -962,7 +966,12 @@ media_all_json: |-
     Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
     kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
     garduko » pasistatė vienuolyną ir ten atgailavo^63.
-  citata_rodoma: "Iš Juodojoje Rusijoje užimtųjų sričių Min­\ndaugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė\nNaugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­\nkas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­\ngarduko » pasistatė vienuolyną ir ten atgailavo^63."
+  citata_rodoma: |
+    Iš Juodojoje Rusijoje užimtųjų sričių Min­
+    daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė
+    Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
+    kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
+    garduko » pasistatė vienuolyną ir ten atgailavo^63.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -983,7 +992,12 @@ media_all_json: |-
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
-  citata_rodoma: "Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas\nnaujas įpėdinis."
+  citata_rodoma: |
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
+    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
+    naujas įpėdinis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1004,7 +1018,14 @@ media_all_json: |-
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  citata_rodoma: |
+    Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1059,7 +1080,20 @@ media_all_json: |-
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  citata_rodoma: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1097,7 +1131,19 @@ media_all_json: |-
 
     VILNIAUS MIESTO ISTORIJA I TOMAS
     amore nostri.
-  citata_rodoma: "Dėl to mes norime sukviesti\nvyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­\nsiškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­\nrališkajame mieste, vardu Vilnius, antrą Naugarduke; prie\njų priskirkite mums šiais metais keturis brolius, mokančius\nlenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir\n63\n\n## Puslapis 80\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\namore nostri."
+  citata_rodoma: |
+    Dėl to mes norime sukviesti
+    vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­
+    siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­
+    rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie
+    jų priskirkite mums šiais metais keturis brolius, mokančius
+    lenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir
+    63
+
+    ## Puslapis 80
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    amore nostri.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1151,7 +1197,13 @@ media_all_json: |-
     G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m.
-  citata_rodoma: "1415 m. Naugarduke sušaukęs LDK stačiatikių \nvyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją \npaskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-\nblaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a."
+  citata_rodoma: |
+    1415 m. Naugarduke sušaukęs LDK stačiatikių
+    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
+    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
+    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1172,7 +1224,11 @@ media_all_json: |-
     daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
     d)
     Harris, Voyages.
-  citata_rodoma: "Naugardukas jau buvo garsiojo Min­\ndaugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-\nd)\nHarris, Voyages."
+  citata_rodoma: |
+    Naugardukas jau buvo garsiojo Min­
+    daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
+    d)
+    Harris, Voyages.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1193,7 +1249,12 @@ media_all_json: |-
     Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
     klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
     įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
-  citata_rodoma: "Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su\nvalsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),\nSlanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­\nklausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo\nįkurtas, tur būt, dar lietuvių gyvenamoje žemėje."
+  citata_rodoma: |
+    Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su
+    valsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),
+    Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1212,7 +1273,11 @@ media_all_json: |-
     nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
     muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
     mylią nuo Lydos.
-  citata_rodoma: "O totoriai, ties Kłecku įsirengę košą, arba stovyklą,\nnemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­\nmuną, savo papročiu plėšdamas apylinkes, atsidūrė vos per\nmylią nuo Lydos."
+  citata_rodoma: |
+    O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
+    nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
+    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
+    mylią nuo Lydos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1232,7 +1297,12 @@ media_all_json: |-
     (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
     Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
     kunigaikštijos ir tapęs vienuoliu.
-  citata_rodoma: "Taip pradėtas lietuvių kunigaikščių kūrima-\nsis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės \n(šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie \nLietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs \nkunigaikštijos ir tapęs vienuoliu."
+  citata_rodoma: |
+    Taip pradėtas lietuvių kunigaikščių kūrima-
+    sis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės
+    (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
+    Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
+    kunigaikštijos ir tapęs vienuoliu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1252,7 +1322,12 @@ media_all_json: |-
     visa savo kariuomene į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
     569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
     centrinėje Žemaitijoje (SZM, p. 223— 226).
-  citata_rodoma: "322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą\n\n  Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su\nvisa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų\n  569 D."
+  citata_rodoma: |
+    322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
+
+      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
+    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
+      569 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1301,7 +1376,13 @@ media_all_json: |-
     (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
     pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
     je, tai yra europinės reikšmės riba.
-  citata_rodoma: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-\ntantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-\nje. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje \n(Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-\npos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-\nje, tai yra europinės reikšmės riba."
+  citata_rodoma: |
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1371,7 +1452,28 @@ media_all_json: |-
     la im i
     atsargomis ir pilną įvairiau­
     sio grobio.
-  citata_rodoma: "Jeigu lietuviai, parodę tokį narsu­\nmą, būtų turėję ten daugiau\n1314 m e ta i\nkarių ir jėgų, tikrai būtų kry­\nžiuočiai netekę visos stovyk­\nlos, mat penki kariai, nakties tamsoje prasigavę pro\nsargybas, prisėlino beveik ligi pačių vadų ir, keletą\npriešų nužudę ir pasiplėšę\nN e p a p ra sta\np e n k ių\ngrobio, kiek tik galėjo pen-\niie tu v ių  n arsa\nkiese pakelti, sveiki sugrįžo\npas savuosius, įvarydami kry­\nžiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau\nbūta baimės nei pavojaus. Truputį vėliau Henrikas,\nugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­\nriuomene ligi Naugarduko. Apiplėšęs ir sudeginęs mies­\ntą, geriausią kariuomenę metė prieš pilį, bet po\npirmojo antpuolio, netekęs žymiausių karių, buvo pri­\nverstas išsižadėti šio sumanymo."
+  citata_rodoma: |
+    Jeigu lietuviai, parodę tokį narsu­
+    mą, būtų turėję ten daugiau
+    1314 m e ta i
+    karių ir jėgų, tikrai būtų kry­
+    žiuočiai netekę visos stovyk­
+    los, mat penki kariai, nakties tamsoje prasigavę pro
+    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
+    priešų nužudę ir pasiplėšę
+    N e p a p ra sta
+    p e n k ių
+    grobio, kiek tik galėjo pen-
+    iie tu v ių  n arsa
+    kiese pakelti, sveiki sugrįžo
+    pas savuosius, įvarydami kry­
+    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
+    būta baimės nei pavojaus. Truputį vėliau Henrikas,
+    ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­
+    riuomene ligi Naugarduko. Apiplėšęs ir sudeginęs mies­
+    tą, geriausią kariuomenę metė prieš pilį, bet po
+    pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
+    verstas išsižadėti šio sumanymo.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1400,7 +1502,15 @@ media_all_json: |-
     Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
     metas, valdovo valia turėjęs būti Trakuose vaišingai
     priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
-  citata_rodoma: "Tuo metu ten\nsusirinkę didikai tarėsi, kaip susigerinti su karaliumi,\nkaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio\nkėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­\njami Naugarduko vaivados Alberto Goštauto, subruz­\ndo ginti pilies, o kiti pasitraukė už Nemuno. Priešas,\nįžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­\nteliams vytis bėgančiuosius, o su kitais apgulė pilį."
+  citata_rodoma: |
+    Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
+    jami Naugarduko vaivados Alberto Goštauto, subruz­
+    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
+    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
+    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1424,7 +1534,19 @@ media_all_json: |-
     miesto į šventąjį dievo motinos katakombų vienuolyną,
     ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
     lia šventojo Pečeros Teodozijaus19 grabo.
-  citata_rodoma: "Suėjo kariuomenės Dokudo- \nvo 1  vietovėje, ir Vytauto kariuomenė sumušė Karibu-\n98\n\n## Puslapis 94\n\nto kariuomenę3 . O pats kunigaikštis Kaributas su ku­\nnigaikštiene ir su vaikais pabėgo į Naugarduką3 . Di­\ndysis kunigaikštis Vytautas, sutelkęs savo kariuomenę, \npats nužygiavo į Naugarduką ir, užėmęs miestą, kuni­\ngaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­\nėmė nelaisvėn 4 ."
+  citata_rodoma: |
+    Suėjo kariuomenės Dokudo-
+    vo 1  vietovėje, ir Vytauto kariuomenė sumušė Karibu-
+    98
+
+    ## Puslapis 94
+
+    to kariuomenę3 . O pats kunigaikštis Kaributas su ku­
+    nigaikštiene ir su vaikais pabėgo į Naugarduką3 . Di­
+    dysis kunigaikštis Vytautas, sutelkęs savo kariuomenę,
+    pats nužygiavo į Naugarduką ir, užėmęs miestą, kuni­
+    gaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­
+    ėmė nelaisvėn 4 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -1605,7 +1727,12 @@ media_all_json: |-
     visa savo kariuomene į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
     569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
     centrinėje Žemaitijoje (SZM, p. 223— 226).
-  citata_rodoma: "322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą\n\n  Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su\nvisa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų\n  569 D."
+  citata_rodoma: |
+    322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
+
+      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
+    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
+      569 D.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1630,7 +1757,20 @@ media_all_json: |-
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  citata_rodoma: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1691,7 +1831,11 @@ media_all_json: |-
     daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
     d)
     Harris, Voyages.
-  citata_rodoma: "Naugardukas jau buvo garsiojo Min­\ndaugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-\nd)\nHarris, Voyages."
+  citata_rodoma: |
+    Naugardukas jau buvo garsiojo Min­
+    daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
+    d)
+    Harris, Voyages.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1710,7 +1854,11 @@ media_all_json: |-
     įkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai
     anksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž. gale
     politiškai jau atsipalaidavo.
-  citata_rodoma: "Jos pri­\nklausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo\nįkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai\nanksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž."
+  citata_rodoma: |
+    Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai
+    anksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1758,7 +1906,12 @@ media_all_json: |-
     (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
     Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
     kunigaikštijos ir tapęs vienuoliu.
-  citata_rodoma: "Taip pradėtas lietuvių kunigaikščių kūrima-\nsis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės \n(šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie \nLietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs \nkunigaikštijos ir tapęs vienuoliu."
+  citata_rodoma: |
+    Taip pradėtas lietuvių kunigaikščių kūrima-
+    sis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės
+    (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
+    Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
+    kunigaikštijos ir tapęs vienuoliu.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1795,7 +1948,14 @@ media_all_json: |-
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  citata_rodoma: |
+    Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1831,7 +1991,19 @@ media_all_json: |-
 
     VILNIAUS MIESTO ISTORIJA I TOMAS
     amore nostri.
-  citata_rodoma: "Dėl to mes norime sukviesti\nvyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­\nsiškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­\nrališkajame mieste, vardu Vilnius, antrą Naugarduke; prie\njų priskirkite mums šiais metais keturis brolius, mokančius\nlenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir\n63\n\n## Puslapis 80\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\namore nostri."
+  citata_rodoma: |
+    Dėl to mes norime sukviesti
+    vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­
+    siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­
+    rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie
+    jų priskirkite mums šiais metais keturis brolius, mokančius
+    lenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir
+    63
+
+    ## Puslapis 80
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    amore nostri.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1851,7 +2023,12 @@ media_all_json: |-
     Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
     klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
     įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
-  citata_rodoma: "Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su\nvalsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),\nSlanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­\nklausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo\nįkurtas, tur būt, dar lietuvių gyvenamoje žemėje."
+  citata_rodoma: |
+    Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su
+    valsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),
+    Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1906,7 +2083,13 @@ media_all_json: |-
     (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
     pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
     je, tai yra europinės reikšmės riba.
-  citata_rodoma: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-\ntantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-\nje. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje \n(Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-\npos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-\nje, tai yra europinės reikšmės riba."
+  citata_rodoma: |
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1949,7 +2132,12 @@ media_all_json: |-
     Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
     kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
     garduko » pasistatė vienuolyną ir ten atgailavo^63.
-  citata_rodoma: "Iš Juodojoje Rusijoje užimtųjų sričių Min­\ndaugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė\nNaugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­\nkas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­\ngarduko » pasistatė vienuolyną ir ten atgailavo^63."
+  citata_rodoma: |
+    Iš Juodojoje Rusijoje užimtųjų sričių Min­
+    daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė
+    Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
+    kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
+    garduko » pasistatė vienuolyną ir ten atgailavo^63.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1969,7 +2157,12 @@ media_all_json: |-
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
-  citata_rodoma: "Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas\nnaujas įpėdinis."
+  citata_rodoma: |
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
+    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
+    naujas įpėdinis.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1990,7 +2183,13 @@ media_all_json: |-
     G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m.
-  citata_rodoma: "1415 m. Naugarduke sušaukęs LDK stačiatikių \nvyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją \npaskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-\nblaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a."
+  citata_rodoma: |
+    1415 m. Naugarduke sušaukęs LDK stačiatikių
+    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
+    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
+    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2005,7 +2204,9 @@ media_all_json: |-
   citata_originali: |
     Pilį pasisekė jam sudeginti. Bet ir tuo jis nepasiten­
     kino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino.
-  citata_rodoma: "Bet ir tuo jis nepasiten­\nkino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino."
+  citata_rodoma: |
+    Bet ir tuo jis nepasiten­
+    kino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2024,7 +2225,11 @@ media_all_json: |-
     nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
     muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
     mylią nuo Lydos.
-  citata_rodoma: "O totoriai, ties Kłecku įsirengę košą, arba stovyklą,\nnemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­\nmuną, savo papročiu plėšdamas apylinkes, atsidūrė vos per\nmylią nuo Lydos."
+  citata_rodoma: |
+    O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
+    nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
+    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
+    mylią nuo Lydos.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 

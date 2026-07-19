@@ -108,7 +108,18 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     nama gyvenvietė, o šventovės ir
     šventos girios buvo saugomos galin­
     gos tvirtovės.
-  citata_rodoma: "Tas \nRomuvas sunaikino kryžiuočiai, už­\nėmę Prūsiją; tačiau nežinia, ar kitos, \nar tos pačios iš anos žemės perkel­\ntos, buvo pačioje Lietuvoje, prie \nKauno, ant Nevėžio kranto, .būtent \ntoj vietoj, kur dabar Romainiai. XIII \namžiuje tai buvo labai tankiai gyve­\nnama gyvenvietė, o šventovės ir \nšventos girios buvo saugomos galin­\ngos tvirtovės."
+  citata_rodoma: |
+    Tas
+    Romuvas sunaikino kryžiuočiai, už­
+    ėmę Prūsiją; tačiau nežinia, ar kitos,
+    ar tos pačios iš anos žemės perkel­
+    tos, buvo pačioje Lietuvoje, prie
+    Kauno, ant Nevėžio kranto, .būtent
+    toj vietoj, kur dabar Romainiai. XIII
+    amžiuje tai buvo labai tankiai gyve­
+    nama gyvenvietė, o šventovės ir
+    šventos girios buvo saugomos galin­
+    gos tvirtovės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

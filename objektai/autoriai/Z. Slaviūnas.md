@@ -85,7 +85,9 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
     netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
     Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
     „kurie yra veikale „Tūkstantis ir viena naktis“28 29.
-  citata_rodoma: "22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.\nKomentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959."
+  citata_rodoma: |
+    22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
+    Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

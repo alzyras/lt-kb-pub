@@ -743,7 +743,15 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: "Į Trakus (1430\nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir\nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos\nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  citata_rodoma: |
+    Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -785,7 +793,11 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     (Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.
     Tris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,
     žygiavo prieš Maskvą.
-  citata_rodoma: "Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo\n(Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.\nTris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,\nžygiavo prieš Maskvą."
+  citata_rodoma: |
+    Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo
+    (Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.
+    Tris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,
+    žygiavo prieš Maskvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -809,7 +821,15 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     Naugardu, Pskovu, Mozūrija, Odojevo ir
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais. Tuo tarpu Jogailos\nLenkijos santykiai su Ordinu aštrėjo."
+  citata_rodoma: |
+    Gegužės 15 d.
+
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais. Tuo tarpu Jogailos
+    Lenkijos santykiai su Ordinu aštrėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -829,7 +849,11 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
-  citata_rodoma: "Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:\nMaskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-\ntuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai\npasirinkti sau globą."
+  citata_rodoma: |
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
+    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
+    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
+    pasirinkti sau globą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -852,7 +876,14 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: "Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.\nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų\npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie\nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  citata_rodoma: |
+    Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -877,7 +908,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
-  citata_rodoma: "Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 )."
+  citata_rodoma: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -900,7 +937,12 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     riais ir stengėsi su jais atnaujinti gerus santykius^2 ); o norėda­
     mas įsiteikti pačiam Ordinui, 1400 m. padarė žygį prieš Žemai­
     čius.
-  citata_rodoma: "Naudodamasis gerais santykiais su Didžiuoju Ma­\ngistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką\nRusijoj, ypač Tverio kunigaikštijoj. Jis vėl ėmė artėti su toto­\nriais ir stengėsi su jais atnaujinti gerus santykius^2 ); o norėda­\nmas įsiteikti pačiam Ordinui, 1400 m."
+  citata_rodoma: |
+    Naudodamasis gerais santykiais su Didžiuoju Ma­
+    gistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką
+    Rusijoj, ypač Tverio kunigaikštijoj. Jis vėl ėmė artėti su toto­
+    riais ir stengėsi su jais atnaujinti gerus santykius^2 ); o norėda­
+    mas įsiteikti pačiam Ordinui, 1400 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -920,7 +962,12 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
     (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
     Maskvos.
-  citata_rodoma: "Pirmiausia ji privertė savo valdžiai pasi-\nduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-\nvas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio\n(pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie\nMaskvos."
+  citata_rodoma: |
+    Pirmiausia ji privertė savo valdžiai pasi-
+    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
+    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
+    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
+    Maskvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -943,7 +990,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
     čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
     ar bent turėti jiems didelę įtaką.
-  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
+  citata_rodoma: |
+    Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -965,7 +1018,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
-  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
+  citata_rodoma: |
+    Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -997,7 +1056,14 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     užtarė ją laiške Žygimantui Kęstu-
     taičiui, rašytame iš Florencijos 1434
     metų spalio 20 dieną.
-  citata_rodoma: "Tačiau ši jo žmo­\nna Sofija, Tverės kunigaikščio Bori­\nso duktė, vėliau pateko Žygimanto\ngalion; nes popiežius Eugenijus IV\nužtarė ją laiške Žygimantui Kęstu-\ntaičiui, rašytame iš Florencijos 1434\nmetų spalio 20 dieną."
+  citata_rodoma: |
+    Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1059,7 +1125,18 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas.
-  citata_rodoma: "26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte\nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš\nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,\no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas."
+  citata_rodoma: |
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

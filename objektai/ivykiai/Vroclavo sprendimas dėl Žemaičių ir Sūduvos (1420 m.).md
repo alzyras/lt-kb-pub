@@ -196,7 +196,9 @@ Nenurodyta
     reiškė vokiečių kunigaikščiai, matydami skriaudžiamą savo globo­
     tinį. Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
     buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).
-  citata_rodoma: "Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes\nbuvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420)."
+  citata_rodoma: |
+    Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
+    buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -216,7 +218,11 @@ Nenurodyta
     buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­
     mantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti
     prieš sunkiai įveikiamus husitus.
-  citata_rodoma: "Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes\nbuvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­\nmantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti\nprieš sunkiai įveikiamus husitus."
+  citata_rodoma: |
+    Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
+    buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­
+    mantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti
+    prieš sunkiai įveikiamus husitus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

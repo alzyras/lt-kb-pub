@@ -85,7 +85,21 @@ Nenurodyta
     grobęs ir įkurdinęs ten savo įgulas, o jis pats privalo
     likti Maskvos kunigaikštystėje kaip tremtinys, neturė­
     damas jokios vilties kada sugrįžti.
-  citata_rodoma: "Karalius, užbaigęs ka­\nrą su Maskva, dalį algininkų paleido, o su kitais pa­\nsiuntė į Volynę Konstantiną Ostrogiškį. Mat Krymo\nskitai, padaliję savo kariuo-\nS k ita i su m u ša m i Vo-\nmenę trimis žygio voromis,\nly n ė je\nsmarkiai nuniokojo Volynę\ntuo metu, kai dėl karo su\nMaskva čia nebuvo likę nei karių, nei karvedžių. Nio­\nkotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­\nsos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­\nkeldami didelę baimę Slucko krašte ir smarkiai jį\nnusiaubdami."
+  citata_rodoma: |
+    Karalius, užbaigęs ka­
+    rą su Maskva, dalį algininkų paleido, o su kitais pa­
+    siuntė į Volynę Konstantiną Ostrogiškį. Mat Krymo
+    skitai, padaliję savo kariuo-
+    S k ita i su m u ša m i Vo-
+    menę trimis žygio voromis,
+    ly n ė je
+    smarkiai nuniokojo Volynę
+    tuo metu, kai dėl karo su
+    Maskva čia nebuvo likę nei karių, nei karvedžių. Nio­
+    kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­
+    sos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­
+    keldami didelę baimę Slucko krašte ir smarkiai jį
+    nusiaubdami.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

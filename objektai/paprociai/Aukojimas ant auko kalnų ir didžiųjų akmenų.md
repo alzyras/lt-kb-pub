@@ -66,11 +66,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
-        arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
-        vaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,
-        gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
-        kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
-  citata_rodoma: "Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,\narba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos\nvaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,\ngintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,\nkasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja."
+    arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
+    vaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,
+    gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
+    kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
+  citata_rodoma: |
+    Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
+    arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
+    vaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,
+    gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
+    kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

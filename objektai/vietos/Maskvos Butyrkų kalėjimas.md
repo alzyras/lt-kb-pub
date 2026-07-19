@@ -78,7 +78,8 @@ media_all_json: |-
     gydėsi požeminiame bunkeryje)
     ir po pusantrų metų tardymų su-
     šaudė Maskvos Butyrkų kalėjime.
-  citata_rodoma: "agentai išdavė J. Žemaitį-Vytautą"
+  citata_rodoma: |
+    agentai išdavė J. Žemaitį-Vytautą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

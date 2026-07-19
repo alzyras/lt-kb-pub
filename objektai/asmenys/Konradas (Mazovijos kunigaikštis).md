@@ -214,7 +214,15 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
     įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II ir Vokietijos kunigaikščių,
     kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą.
-  citata_rodoma: "Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams\n\n  Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip\ndidžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią\nšlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo\nkunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis\nsumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad\nbroliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės."
+  citata_rodoma: |
+    Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
+
+      Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip
+    didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią
+    šlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo
+    kunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis
+    sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad
+    broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -236,7 +244,16 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
     šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
     netikėlių pasiuntiniams jų drabužius bei žirgus165.
-  citata_rodoma: "Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą\n\n   Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai\ndar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir\nįbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,\nreikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų\npatenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,\nšiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems\nnetikėlių pasiuntiniams jų drabužius bei žirgus165."
+  citata_rodoma: |
+    Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
+
+       Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
+    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
+    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
+    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
+    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
+    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
+    netikėlių pasiuntiniams jų drabužius bei žirgus165.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -289,7 +306,14 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
     tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
     ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno).
-  citata_rodoma: "Apie tai, kaip prūsai niokojo Kulmo žemę\n\n  Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai\nkrikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos\nvyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai\nsėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą\nJėzų Kristų161."
+  citata_rodoma: |
+    Apie tai, kaip prūsai niokojo Kulmo žemę
+
+      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
+    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
+    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
+    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
+    Jėzų Kristų161.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -313,7 +337,16 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
-  citata_rodoma: "Apie Kristaus karių ordino brolius\n\n  Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau\nsuprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono\nir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi\nKristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo\nmetu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;\nminėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge\nsu juo keturiolika kitų vyrų."
+  citata_rodoma: |
+    Apie Kristaus karių ordino brolius
+
+      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
+    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
+    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
+    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
+    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
+    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
+    su juo keturiolika kitų vyrų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

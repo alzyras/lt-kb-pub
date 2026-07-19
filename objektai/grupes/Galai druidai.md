@@ -99,7 +99,21 @@ Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas pan
     priežastis ir kartu galės atrasti kelią, vedantį į visų žemės tau­
     tų visuotinį apšvietimą; numatys ir nuspręs, ar galima ateityje
     tikėtis visuotinės laimės laikų.
-  citata_rodoma: "O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*.\nŠalia šių trijų šaltinių dar radosi žynių pridurstytų vietinių\nprasimanymų, kurių pėdsakai pastebimi menkiausiuose mi­\nluose, apeigose ir kitose religinėse smulkmenose."
+  citata_rodoma: |
+    O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
+    Šalia šių trijų šaltinių dar radosi žynių pridurstytų vietinių
+    prasimanymų, kurių pėdsakai pastebimi menkiausiuose mi­
+    luose, apeigose ir kitose religinėse smulkmenose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

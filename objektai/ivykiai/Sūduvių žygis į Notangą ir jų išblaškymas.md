@@ -110,7 +110,18 @@ Nenurodyta
     Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
     sužeidė, o kiti gėdingai pabėgo.
     201 (196).
-  citata_rodoma: "Apie sūduvių pabėgimą\n\n  Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su\npalyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.\nBroliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai\nsužeidė, o kiti gėdingai pabėgo.\n\n\n\n\n   201 (196)."
+  citata_rodoma: |
+    Apie sūduvių pabėgimą
+
+      Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
+    palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
+    Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
+    sužeidė, o kiti gėdingai pabėgo.
+
+
+
+
+       201 (196).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

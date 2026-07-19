@@ -83,7 +83,8 @@ Terminas vartojamas vestuvių dovanų paskirstymo kontekste.
     apsiaustui;
     mošėms, vyro seserims, ir dieveriams, vyro broliams, duoda po dro­
     bės stuomenį; du kraičvežiu jau apdovanoti.
-  citata_rodoma: "Uošviui, vyro tėvui, duoda ar pasiūtą apsiaustą, ar tik medžiagą apsiaustui; mošėms, vyro seserims, ir dieveriams, vyro broliams, duoda po drobės stuomenį; du kraičvežiu jau apdovanoti."
+  citata_rodoma: |
+    Uošviui, vyro tėvui, duoda ar pasiūtą apsiaustą, ar tik medžiagą apsiaustui; mošėms, vyro seserims, ir dieveriams, vyro broliams, duoda po drobės stuomenį; du kraičvežiu jau apdovanoti.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

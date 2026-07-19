@@ -106,7 +106,12 @@ Nenurodyta
     Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
     (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
     mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
-  citata_rodoma: "Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­\nsisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,\nJonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »\n(Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­\nmą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11."
+  citata_rodoma: |
+    Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
+    sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,
+    Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
+    (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
+    mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

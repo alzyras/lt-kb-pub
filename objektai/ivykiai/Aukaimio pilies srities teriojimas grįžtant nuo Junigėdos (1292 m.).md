@@ -88,7 +88,12 @@ Nenurodyta
     1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
     gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
     kalne^25.
-  citata_rodoma: "Grįždami nuo Junigėdos 1292, kryžiuočiai\nteriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.\n1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­\ngindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies\nkalne^25."
+  citata_rodoma: |
+    Grįždami nuo Junigėdos 1292, kryžiuočiai
+    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
+    1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
+    gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
+    kalne^25.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

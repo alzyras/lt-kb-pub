@@ -93,7 +93,11 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
     Brabanto k.
 
     Brandenburgo mkg.
-  citata_rodoma: "PAPILDYMAS\n\n  Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im\n14. Jahrhundert in Preussen.—Berlin 1935."
+  citata_rodoma: |
+    PAPILDYMAS
+
+      Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im
+    14. Jahrhundert in Preussen.—Berlin 1935.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -107,7 +107,9 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     «nebetikėti». Salzbacho padedamas, Vytautas pataikė ordine į
     laimingą momentą. Tarp Jogailos ir vyr. magistro nuo 1388 m.
     pradžios buvo užsimezgusios derybos.
-  citata_rodoma: "Salzbacho padedamas, Vytautas pataikė ordine į\nlaimingą momentą. Tarp Jogailos ir vyr."
+  citata_rodoma: |
+    Salzbacho padedamas, Vytautas pataikė ordine į
+    laimingą momentą. Tarp Jogailos ir vyr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -125,7 +127,11 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     kad Salzbachas buvo uolus Vytauto patarėjas. Dėl to Liubline
     Kęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau
     «nebetikėti».
-  citata_rodoma: "Jau anksčiau buvo žinoma,\nkad Salzbachas buvo uolus Vytauto patarėjas. Dėl to Liubline\nKęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau\n«nebetikėti»."
+  citata_rodoma: |
+    Jau anksčiau buvo žinoma,
+    kad Salzbachas buvo uolus Vytauto patarėjas. Dėl to Liubline
+    Kęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau
+    «nebetikėti».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -143,7 +149,10 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo
     ordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­
     čiu (grafu Reineck) jis nuo 1384 m. buvo Vytauto nelaisvėje.
-  citata_rodoma: "Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo\nordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­\nčiu (grafu Reineck) jis nuo 1384 m."
+  citata_rodoma: |
+    Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo
+    ordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­
+    čiu (grafu Reineck) jis nuo 1384 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -68,7 +68,8 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
     rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
     skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą.
-  citata_rodoma: "skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,"
+  citata_rodoma: |
+    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

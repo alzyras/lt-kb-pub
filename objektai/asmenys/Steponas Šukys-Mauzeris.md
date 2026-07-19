@@ -58,7 +58,17 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
     ir Alberto Žilio-Kęstučio būrio bunke-
     ris Šimonių girioje netoli Sliepšiškio k. Čia
     žuvo 5 partizanai.
-  citata_rodoma: "Partizanai, buvę\nšiame bunkeryje, girdėjo visą praėjusią dieną\ngirioje vykusių kautynių garsus, tačiau nesi-\ntikėjo, kad bus atrasti arba išduoti. Steponas\nŠukys-Mauzeris nusišovė, kiti pasidavė, kai\nčekistai išsprogdino bunkerio viršų.\n\nBeveik tuo pat metu buvo puolamas\nir Alberto Žilio-Kęstučio būrio bunke-\nris Šimonių girioje netoli Sliepšiškio k."
+  citata_rodoma: |
+    Partizanai, buvę
+    šiame bunkeryje, girdėjo visą praėjusią dieną
+    girioje vykusių kautynių garsus, tačiau nesi-
+    tikėjo, kad bus atrasti arba išduoti. Steponas
+    Šukys-Mauzeris nusišovė, kiti pasidavė, kai
+    čekistai išsprogdino bunkerio viršų.
+
+    Beveik tuo pat metu buvo puolamas
+    ir Alberto Žilio-Kęstučio būrio bunke-
+    ris Šimonių girioje netoli Sliepšiškio k.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

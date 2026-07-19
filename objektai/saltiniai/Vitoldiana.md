@@ -64,7 +64,9 @@ media_all_json: |-
     nr. 8-10, 1934 ; nr. 5-7, 10, 1935. — Koneczny, P. : _Jagiełło i Witold,_
     I, Lwów 1893. -— (”) _Vitoldiana_ , AW, t. 7, 1930, 494-504 p. (Dubysos
     sutartys).
-  citata_rodoma: "-— (”) _Vitoldiana_ , AW, t. 7, 1930, 494-504 p. (Dubysos\nsutartys)."
+  citata_rodoma: |
+    -— (”) _Vitoldiana_ , AW, t. 7, 1930, 494-504 p. (Dubysos
+    sutartys).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

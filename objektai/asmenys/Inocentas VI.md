@@ -66,7 +66,13 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     kunigaikščio Algirdo. Pasiuntiniai rado popiežių Perudžijoje
     (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę
     (1388.
-  citata_rodoma: "Tad\nkiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­\nniai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­\npininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos\nkunigaikščio Algirdo. Pasiuntiniai rado popiežių Perudžijoje\n(Š."
+  citata_rodoma: |
+    Tad
+    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
+    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
+    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
+    kunigaikščio Algirdo. Pasiuntiniai rado popiežių Perudžijoje
+    (Š.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -110,7 +110,21 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
     jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: "Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus \npilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­\ntuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo \npaklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu \npaskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas \njam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,\n73 nė Ona mirė Trakuose, o palaidota\nOna buvo Smolensko kunigaikščio buvo Vilniuje."
+  citata_rodoma: |
+    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
+    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
+    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
+    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
+    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
+    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
+    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
+    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
+    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
+    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
+    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
+    73 nė Ona mirė Trakuose, o palaidota
+    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

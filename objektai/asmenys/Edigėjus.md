@@ -86,7 +86,18 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
     priai kovojo....ir lėkė strėlės tarsi stiprus
     lietus, ir pradėjo pergalėti Lietuva Ordos
     kunigaikštį Edigėjų“.
-  citata_rodoma: "pabaigą\n\nPirmiausia stojo į mūšį su savo jėga\n„didysis Ordos kunigaikštis“ Edigėjus ir\nsusidūrė su Vytautu, „Totoriai ir Lietuva“\nšaudė arbaletais ir patrankėlėmis, tačiau\nlygiame lauke „patrankos ir patrankėlės\nneveiksmingos buvo“, bet „Lietuva sti-\npriai kovojo....ir lėkė strėlės tarsi stiprus\nlietus, ir pradėjo pergalėti Lietuva Ordos\nkunigaikštį Edigėjų“."
+  citata_rodoma: |
+    pabaigą
+
+    Pirmiausia stojo į mūšį su savo jėga
+    „didysis Ordos kunigaikštis“ Edigėjus ir
+    susidūrė su Vytautu, „Totoriai ir Lietuva“
+    šaudė arbaletais ir patrankėlėmis, tačiau
+    lygiame lauke „patrankos ir patrankėlės
+    neveiksmingos buvo“, bet „Lietuva sti-
+    priai kovojo....ir lėkė strėlės tarsi stiprus
+    lietus, ir pradėjo pergalėti Lietuva Ordos
+    kunigaikštį Edigėjų“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +123,16 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
     ir atsakydamas į ankstesnį Vytauto reikala-
     vimą, pareikalavo Lietuvos pinigus žymėti
     Ordos ženklais.
-  citata_rodoma: "Edigėjus ir padrą-\nsino chaną, derybos iš\nkarto prasidėjo su Edigėjumi.\n\nVytautas 5 dienas stovėjo kitoje Vorsklos\npusėje, įtvirtintoje stovykloje su geležinė-\nmis grandinėmis kaustytais vežimais, su\ndaugeliu patrankėlių (piščalių), patrankų,\n„arbaletų“."
+  citata_rodoma: |
+    Edigėjus ir padrą-
+    sino chaną, derybos iš
+    karto prasidėjo su Edigėjumi.
+
+    Vytautas 5 dienas stovėjo kitoje Vorsklos
+    pusėje, įtvirtintoje stovykloje su geležinė-
+    mis grandinėmis kaustytais vežimais, su
+    daugeliu patrankėlių (piščalių), patrankų,
+    „arbaletų“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

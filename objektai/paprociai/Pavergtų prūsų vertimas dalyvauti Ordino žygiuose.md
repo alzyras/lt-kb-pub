@@ -116,7 +116,14 @@ Nenurodyta
     1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
     grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
     Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-  citata_rodoma: "Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,\nkad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,\n226—1285 m.; 249—1292 m.), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis\n(III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri\nstengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—\nBajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių\nprūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37."
+  citata_rodoma: |
+    Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
+    kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,
+    226—1285 m.; 249—1292 m.), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis
+    (III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri
+    stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
+    Bajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių
+    prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

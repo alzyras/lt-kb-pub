@@ -81,7 +81,9 @@ Dusburgietis teigia, kad wattenbach W.
     съезда в Вильне 1893, М., 1895, r. 1, с. 246—259.
     Мержинский А. Ф. Ромове: Археологическое исследование (из Трудов X
     археологического съезда.
-  citata_rodoma: "Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des\ndreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886."
+  citata_rodoma: |
+    Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des
+    dreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -81,7 +81,8 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
     Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
     Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
     gos, tautinio pobūdžio literatūra.
-  citata_rodoma: "Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-"
+  citata_rodoma: |
+    Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +107,8 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: "tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas"
+  citata_rodoma: |
+    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

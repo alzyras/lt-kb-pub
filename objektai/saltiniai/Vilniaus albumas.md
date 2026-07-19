@@ -158,7 +158,8 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
     Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių
     menininkų, savo likimą susaisčiusių su krašto likimu.
     Vilniaus katedra iš J. K. Vilčinskio  „Vilniaus albumo“.
-  citata_rodoma: "Vilniaus katedra iš J. K. Vilčinskio  „Vilniaus albumo“."
+  citata_rodoma: |
+    Vilniaus katedra iš J. K. Vilčinskio  „Vilniaus albumo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -178,7 +179,10 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
     Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
     Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
     iš J. K. Vilčinskio „Vilniaus albumo“.
-  citata_rodoma: "Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija, \nSenųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras  \niš J. K. Vilčinskio „Vilniaus albumo“."
+  citata_rodoma: |
+    Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
+    Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
+    iš J. K. Vilčinskio „Vilniaus albumo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +204,12 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
     lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
     Motiejus Valančius iš J. K. Vilčinskio
     „Vilniaus albumo“.
-  citata_rodoma: "Po poros metų šių blaivybės \nbrolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi \nlietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-\nMotiejus Valančius iš J. K. Vilčinskio  \n„Vilniaus albumo“."
+  citata_rodoma: |
+    Po poros metų šių blaivybės
+    brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi
+    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
+    Motiejus Valančius iš J. K. Vilčinskio
+    „Vilniaus albumo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,7 @@ Politinė valstybė / politinis darinys.
   citata_originali: |
     Gilinantis į tau­
     tos ir asmenybės savitumą, išskirtinumą, atkreiptas dėmesys į
-    atskirų tautų kalbas, papročius, tautosaką, mitologiją - visą
+    atskirų tautų kalbas, papročius, tautosaką, mitologiją -  visą
     etninę kultūrą, kuri klasicizme buvo ignoruojama arba tiesiog
     niekinama kaip tamsios, politiniame ir kultūriniame valstybės
     gyvenime, nedalyvaujančios liaudies kultūra. Sis judėjimas su­
@@ -86,7 +86,22 @@ Politinė valstybė / politinis darinys.
     tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
     neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
     rijos imperijoms.
-  citata_rodoma: "Gilinantis į tau­\ntos ir asmenybės savitumą, išskirtinumą, atkreiptas dėmesys į\natskirų tautų kalbas, papročius, tautosaką, mitologiją -  visą\netninę kultūrą, kuri klasicizme buvo ignoruojama arba tiesiog\nniekinama kaip tamsios, politiniame ir kultūriniame valstybės\ngyvenime, nedalyvaujančios liaudies kultūra. Sis judėjimas su­\nstiprino domėjimąsi kalbotyra ir tiesiog pagimdė etnologijos\n(tautosakos, etnografijos, mitologijos ir pan.) mokslus, o pro­\nfesinėje kultūroje (ypač literatūroje, muzikoje, vaizduojama­\njame mene) įtvirtino naują romantizmo kryptį.\nŠie Europoje vykstantys audringi socialinio, politinio ir kul­\ntūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­\ntuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai\nneteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­\nrijos imperijoms."
+  citata_rodoma: |
+    Gilinantis į tau­
+    tos ir asmenybės savitumą, išskirtinumą, atkreiptas dėmesys į
+    atskirų tautų kalbas, papročius, tautosaką, mitologiją -  visą
+    etninę kultūrą, kuri klasicizme buvo ignoruojama arba tiesiog
+    niekinama kaip tamsios, politiniame ir kultūriniame valstybės
+    gyvenime, nedalyvaujančios liaudies kultūra. Sis judėjimas su­
+    stiprino domėjimąsi kalbotyra ir tiesiog pagimdė etnologijos
+    (tautosakos, etnografijos, mitologijos ir pan.) mokslus, o pro­
+    fesinėje kultūroje (ypač literatūroje, muzikoje, vaizduojama­
+    jame mene) įtvirtino naują romantizmo kryptį.
+    Šie Europoje vykstantys audringi socialinio, politinio ir kul­
+    tūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­
+    tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
+    neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
+    rijos imperijoms.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

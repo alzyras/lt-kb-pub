@@ -72,7 +72,8 @@ media_all_json: |-
     nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
     nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
     karo, nei taikos“ situacijoje.
-  citata_rodoma: "nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei"
+  citata_rodoma: |
+    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

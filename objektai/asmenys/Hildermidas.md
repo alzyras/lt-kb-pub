@@ -48,7 +48,19 @@ Nenurodyta
     sėdėjo austrų riteris Kinodi-
     jus, kitados vienui vienas iš­
     žudęs šešiasdešimt turkų, kurie jį vijosi.
-  citata_rodoma: "Nusiaubęs dideliuose \nplotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš \nlietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­\nkojusius pulkus prie Marienverderio salos, pasak kry­\nžiuočių metraštininkų, prieš vesdamasis karius į krašto \ngilumą, iškėlė toje saloje prabangią puotą. Prie stalo \nvisi karvedžiai bei riteriai susėdo tokion vieton, kokia\nkiekvienam priklausė pagal \nPrieš \nm ū šį \niškelia \njo žygių šlovę."
+  citata_rodoma: |
+    Nusiaubęs dideliuose
+    plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
+    lietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­
+    kojusius pulkus prie Marienverderio salos, pasak kry­
+    žiuočių metraštininkų, prieš vesdamasis karius į krašto
+    gilumą, iškėlė toje saloje prabangią puotą. Prie stalo
+    visi karvedžiai bei riteriai susėdo tokion vieton, kokia
+    kiekvienam priklausė pagal
+    Prieš
+    m ū šį
+    iškelia
+    jo žygių šlovę.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

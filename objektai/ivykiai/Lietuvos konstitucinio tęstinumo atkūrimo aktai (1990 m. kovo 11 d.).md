@@ -147,7 +147,8 @@ Nenurodyta
     reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
     savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
     teritoriją.
-  citata_rodoma: "reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su"
+  citata_rodoma: |
+    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

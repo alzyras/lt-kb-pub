@@ -75,7 +75,13 @@ Nenurodyta
     bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
     džiauninkai). Labai maža tuomet buvo belikę katalikų kunigų,
     o dar mažiau jų mokėjo lietuviškai.
-  citata_rodoma: "Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.\nDidikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję\nliuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai,\n(liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo\nbažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-\ndžiauninkai)."
+  citata_rodoma: |
+    Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.
+    Didikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję
+    liuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai,
+    (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo
+    bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
+    džiauninkai).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

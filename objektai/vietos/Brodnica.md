@@ -160,7 +160,14 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
     iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
     kardo, kiti į nelaisvę papuolę.
-  citata_rodoma: "Tuo lai­\nku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos\n(Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių\nir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per\npusantrų metų žuvo apie dvidešimt tūkstančių krikščionių\niš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio\nkardo, kiti į nelaisvę papuolę."
+  citata_rodoma: |
+    Tuo lai­
+    ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos
+    (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių
+    ir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per
+    pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
+    iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
+    kardo, kiti į nelaisvę papuolę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

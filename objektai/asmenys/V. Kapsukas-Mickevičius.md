@@ -61,7 +61,12 @@ Kapsukas-Mickevičius.
     Stakliškes, o kitą dieną jo priešakiniai da-
     liniai, susišaudę su lietuvių husarų žvalgų
     būriu, užėmė netoli Prienų esantį Jiezną.
-  citata_rodoma: "rusų bei lietuvių kalbomis, pasveikino ir\npalydėjo „buržujų“ mušti pats „Lietuvos\nbolševikų“ lyderis V. Kapsukas-Mickevičius.\nGrojant „Internacionalą“, pulkas išžygiavo\nLentvario kryptimi."
+  citata_rodoma: |
+    rusų bei lietuvių kalbomis, pasveikino ir
+    palydėjo „buržujų“ mušti pats „Lietuvos
+    bolševikų“ lyderis V. Kapsukas-Mickevičius.
+    Grojant „Internacionalą“, pulkas išžygiavo
+    Lentvario kryptimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

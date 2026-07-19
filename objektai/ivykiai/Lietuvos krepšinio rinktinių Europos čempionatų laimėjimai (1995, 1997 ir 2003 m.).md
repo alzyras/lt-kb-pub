@@ -85,7 +85,8 @@ Nenurodyta
     krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m. Lietu-
     vos krepšininkai trečią kartą tapo Europos čempionais. Moterų krepšinio
     rinktinė 1997 m. tapo Europos čempione.
-  citata_rodoma: "vos krepšininkai trečią kartą tapo Europos čempionais. Moterų krepšinio"
+  citata_rodoma: |
+    vos krepšininkai trečią kartą tapo Europos čempionais. Moterų krepšinio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

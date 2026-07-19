@@ -109,7 +109,17 @@ Nenurodyta
         manyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
-  citata_rodoma: "Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su\nneprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai\ngodojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo\ngalvą padėję. Ne vien jų narsybę ir kantrybę gėrynėse^843 ir sueimuose^844 garbino, bet dar norėjo\npačias vietas, ant kurių taip garbingi ir narsūs vyrai buvo mirę, idant nė nuo ko nebūt palytimos\nir pakušinamos^845 , todėl žambį smeginti^846 , arti, kasti tokias vietas arba laukus turėjo sau už visų\ndidžiausią nuodėmę ir tuos, kurie būt drįsę juos ardyti, kuo smarkiausiai karojo, ką nuo to gal\nmanyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;\nkokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra\nžinomos"
+  citata_rodoma: |
+    Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
+    neprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai
+    godojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo
+    galvą padėję. Ne vien jų narsybę ir kantrybę gėrynėse^843 ir sueimuose^844 garbino, bet dar norėjo
+    pačias vietas, ant kurių taip garbingi ir narsūs vyrai buvo mirę, idant nė nuo ko nebūt palytimos
+    ir pakušinamos^845 , todėl žambį smeginti^846 , arti, kasti tokias vietas arba laukus turėjo sau už visų
+    didžiausią nuodėmę ir tuos, kurie būt drįsę juos ardyti, kuo smarkiausiai karojo, ką nuo to gal
+    manyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;
+    kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
+    žinomos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

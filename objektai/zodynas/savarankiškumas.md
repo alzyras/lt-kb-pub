@@ -63,7 +63,11 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
     mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
-  citata_rodoma: "Iš savo pusės Lenkų ba-\njorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be\nlietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-\nmas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos."
+  citata_rodoma: |
+    Iš savo pusės Lenkų ba-
+    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
+    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
+    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

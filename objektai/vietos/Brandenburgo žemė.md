@@ -75,7 +75,13 @@ media_all_json: |-
     valdų.
 
     apgulė miestą.
-  citata_rodoma: "1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė\n1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-\nfurtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino\nvaldų.\n\napgulė miestą."
+  citata_rodoma: |
+    1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė
+    1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-
+    furtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino
+    valdų.
+
+    apgulė miestą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

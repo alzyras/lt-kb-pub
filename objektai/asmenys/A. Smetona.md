@@ -654,7 +654,11 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
     ti. Jos vadovas A. Smetona, siekdamas kompromiso, į jos veiklą įtraukė
     kairės ir liberalų lyderius.
-  citata_rodoma: "Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms \npadegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-\nti. Jos vadovas A. Smetona, siekdamas kompromiso, į jos veiklą įtraukė \nkairės ir liberalų lyderius."
+  citata_rodoma: |
+    Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
+    padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
+    ti. Jos vadovas A. Smetona, siekdamas kompromiso, į jos veiklą įtraukė
+    kairės ir liberalų lyderius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -706,7 +710,14 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     Demokratija Lietuvoje, pasak A. Smetonos, tai nupirkti per dideli batai
     vaikams – parlamentarizmo tradicija vos per šešerius metus nesubren-
     do, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas.
-  citata_rodoma: "„Bolševizaciją“ papildė kaltinimai polonizaci-\nja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti \n70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-\nkiams, įvertinta kaip pavojus visai tautai. \nDemokratija Lietuvoje, pasak A. Smetonos, tai nupirkti per dideli batai \nvaikams – parlamentarizmo tradicija vos per šešerius metus nesubren-\ndo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas."
+  citata_rodoma: |
+    „Bolševizaciją“ papildė kaltinimai polonizaci-
+    ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
+    70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
+    kiams, įvertinta kaip pavojus visai tautai.
+    Demokratija Lietuvoje, pasak A. Smetonos, tai nupirkti per dideli batai
+    vaikams – parlamentarizmo tradicija vos per šešerius metus nesubren-
+    do, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -772,7 +783,13 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu. Taip pre-
     zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
     šalies politinę jėgą – krikščionis demokratus.
-  citata_rodoma: "Opozi-\ncijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-\nklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, \no nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu. Taip pre-\nzidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią \nšalies politinę jėgą – krikščionis demokratus."
+  citata_rodoma: |
+    Opozi-
+    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
+    klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
+    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu. Taip pre-
+    zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
+    šalies politinę jėgą – krikščionis demokratus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -793,7 +810,11 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     Beck) nieko gero nedavė: 1936 m. sausį J. Bekas savo kalboje išplūdo Lie-
     tuvą, o kovo mėn. Kaune atsakomąja kalba A. Smetona užvėrė duris kom-
     promisui.
-  citata_rodoma: "Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef \nBeck) nieko gero nedavė: 1936 m. sausį J. Bekas savo kalboje išplūdo Lie-\ntuvą, o kovo mėn. Kaune atsakomąja kalba A. Smetona užvėrė duris kom-\npromisui."
+  citata_rodoma: |
+    Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef
+    Beck) nieko gero nedavė: 1936 m. sausį J. Bekas savo kalboje išplūdo Lie-
+    tuvą, o kovo mėn. Kaune atsakomąja kalba A. Smetona užvėrė duris kom-
+    promisui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -817,7 +838,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
     bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
     gruodžio 11-osios rezoliucijos pagrindu.
-  citata_rodoma: "Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-\ncijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, \ndavė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, \nkur Taryba veda Lietuvą. Kovo 23 dieną Berlyne A. Smetonos vadovau-\njama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui \nGeorgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos \nkaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-\nbę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai… \ngruodžio 11-osios rezoliucijos pagrindu."
+  citata_rodoma: |
+    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
+    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
+    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
+    kur Taryba veda Lietuvą. Kovo 23 dieną Berlyne A. Smetonos vadovau-
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -836,7 +866,12 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     Lietuvos ministrą pirmininką A. Merkį. Grėsmės akivaizdoje prezidentas
     A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
     1939 m. spalio 10 d. sutarties.
-  citata_rodoma: "Tai rodė, \njog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti \nLietuvos ministrą pirmininką A. Merkį. Grėsmės akivaizdoje prezidentas \nA. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų \n1939 m. spalio 10 d. sutarties."
+  citata_rodoma: |
+    Tai rodė,
+    jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
+    Lietuvos ministrą pirmininką A. Merkį. Grėsmės akivaizdoje prezidentas
+    A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
+    1939 m. spalio 10 d. sutarties.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -859,7 +894,15 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
     jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
     A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.
-  citata_rodoma: "Vytauto Didžiojo mirties \n500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo \nmuziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-\nveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-\nvos miestuose ir miesteliuose, jam pastatyti paminklai. \nTaip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą \njų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado – \nA. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę."
+  citata_rodoma: |
+    Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
+    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
+    A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -921,7 +964,14 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     181
     kus pakeitė kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuo-
     sius.
-  citata_rodoma: "Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-\nmą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-\nKlaipėdos nacių teismas Kaune (1934 m. gruodis)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n181\nkus pakeitė kalėjimu iki gyvos galvos, o 1937 m."
+  citata_rodoma: |
+    Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-
+    mą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-
+    Klaipėdos nacių teismas Kaune (1934 m. gruodis)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    181
+    kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -945,7 +995,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
     A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems
     užteks“.
-  citata_rodoma: "Ketvir-\ntajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti \nverslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n169\nTačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas \nA. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems \nužteks“."
+  citata_rodoma: |
+    Ketvir-
+    tajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
+    verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    169
+    Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
+    A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems
+    užteks“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -986,7 +1045,14 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
     cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
     valdymą.
-  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n161\nA. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-\nneto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-\nnybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus \n(įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus), \nSeimui nesant, vykdyti jo teises."
+  citata_rodoma: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    161
+    A. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-
+    neto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-
+    nybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus
+    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
+    Seimui nesant, vykdyti jo teises.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1009,7 +1075,12 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     dangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros
     reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų
     žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
-  citata_rodoma: "1923 m. panaikintas žydų ministro be \nportfelio postas, vėliau laikytasi prezidento A. Smetonos nuostatos – ka-\ndangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros \nreikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų \nžemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“."
+  citata_rodoma: |
+    1923 m. panaikintas žydų ministro be
+    portfelio postas, vėliau laikytasi prezidento A. Smetonos nuostatos – ka-
+    dangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros
+    reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų
+    žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1029,7 +1100,12 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
     valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
     tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
-  citata_rodoma: "Nepriklausomybės karta\nPer nepilnus du dešimtmečius Lietuva galutinai tapo lietu-\nviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos \nvalstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-\ntuviškai kalbanti Lietuva – iš esmės įgyvendintas."
+  citata_rodoma: |
+    Nepriklausomybės karta
+    Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
+    viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
+    valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
+    tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1053,7 +1129,14 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
     tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
     iš balkono sveikino minias.
-  citata_rodoma: "Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-\nsinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad \nDidžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių \nsusirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-\nkių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai, \ntempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona \niš balkono sveikino minias."
+  citata_rodoma: |
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
+    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-
+    kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
+    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
+    iš balkono sveikino minias.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1078,7 +1161,12 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
     portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
-  citata_rodoma: "Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio \nVytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): \nvalstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos \nportretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-\ntvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai."
+  citata_rodoma: |
+    Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio
+    Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena):
+    valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
+    portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
+    tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

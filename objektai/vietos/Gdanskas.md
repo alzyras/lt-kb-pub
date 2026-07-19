@@ -174,7 +174,10 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
     diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
     statuso (panašaus į Dancigo (dabar Gdanskas)).
-  citata_rodoma: "Beje, ne visi klaipė-\ndiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ \nstatuso (panašaus į Dancigo (dabar Gdanskas))."
+  citata_rodoma: |
+    Beje, ne visi klaipė-
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -192,7 +195,10 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     kė pretenzijas į Švedijos sostą. Kova dėl Livonijos daugiausia buvo suin-
     teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
     uostą.
-  citata_rodoma: "Kova dėl Livonijos daugiausia buvo suin-\nteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko \nuostą."
+  citata_rodoma: |
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -225,7 +231,22 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: "Taigi Abiejų Tautų Respublika:\n•\t aprūpino Vakarus (per Gdanską į Amsterdamą) javais, \n•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir \nbajoriškosios demokratijos tradiciją, \n•\t Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių \nribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-\nsauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,\n•\t iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-\npoje Vilniaus universitetą, turintį savitas misionierių, kankinių ir \nšventųjų, poetų, retorikų ir logikų tradicijas,\n•\t išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-\ntūros mokyklą,\n• sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje \nteisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija – \nkonstituciją, tapusią ankstyviausia rašytine konstitucija Europoje."
+  citata_rodoma: |
+    Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
+    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
+    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
+    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
+    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
+    šventųjų, poetų, retorikų ir logikų tradicijas,
+    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
+    tūros mokyklą,
+    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
+    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
+    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -241,7 +262,9 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     Išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a. II-oji pusė) bei
     Elbinge (XVII a.)77.
     Dusburgiečio kronika rankraštiniais nuorašais plito ir žymiai vėliau, jau ją paskelbus.
-  citata_rodoma: "Išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a. II-oji pusė) bei\nElbinge (XVII a.)77."
+  citata_rodoma: |
+    Išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a. II-oji pusė) bei
+    Elbinge (XVII a.)77.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

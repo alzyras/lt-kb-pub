@@ -132,7 +132,16 @@ Nenurodyta
     bei piešdami, daugybę paėmė į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo
     šeimyna patraukė link Lietuvos į Gardino pilies apygardą [territorium], o visa ši žemė
     pavirto dykromis.
-  citata_rodoma: "Apie tai, kaip buvo apleista Skalvos žemė\n\n  Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai\ngalingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta\nir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai\npalankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po\nkito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,\nkad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė\nkrikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų."
+  citata_rodoma: |
+    Apie tai, kaip buvo apleista Skalvos žemė
+
+      Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
+    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
+    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
+    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
+    kito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,
+    kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
+    krikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

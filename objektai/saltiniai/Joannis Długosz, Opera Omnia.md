@@ -70,7 +70,10 @@ DlugO = Joannis Długosz, Opera Omnia, t.
     DoZGos = Dovnar-Zapol’skij, M. V. : Gosudarstvennoe chozjaistvo Ve-
     likogo Knjažestva Litovskogo pri Jagellonach, atsp. iš
     KUIz, Kijevas.
-  citata_rodoma: "DlugO = Joannis Długosz, Opera Omnia, t. 11-14, Krokuva 1873-\n1878.\nDoZGos = Dovnar-Zapol’skij, M."
+  citata_rodoma: |
+    DlugO = Joannis Długosz, Opera Omnia, t. 11-14, Krokuva 1873-
+    1878.
+    DoZGos = Dovnar-Zapol’skij, M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

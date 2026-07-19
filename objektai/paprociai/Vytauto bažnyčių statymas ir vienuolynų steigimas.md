@@ -143,7 +143,11 @@ Nenurodyta
     apdovanojo žemėmis, javais ir pinigais.
     Be bažnyčių Vytautas taip pat statė Lietuvoje ir vienuoly­
     nų.
-  citata_rodoma: "Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai\napdovanojo žemėmis, javais ir pinigais.\nBe bažnyčių Vytautas taip pat statė Lietuvoje ir vienuoly­\nnų."
+  citata_rodoma: |
+    Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai
+    apdovanojo žemėmis, javais ir pinigais.
+    Be bažnyčių Vytautas taip pat statė Lietuvoje ir vienuoly­
+    nų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +167,12 @@ Nenurodyta
     da Lietuvoje nėra pastatęs. Taip, pavyzdžiui, yra išlikusių ži­
     nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
     valstybės vietose: Vilniuje katedrą (1399) ir šv.
-  citata_rodoma: "Per visą savo valdymo\nlaiką jis pastatė tiek bažnyčių, kiek jų, gal būt, niekas ir nieka­\nda Lietuvoje nėra pastatęs. Taip, pavyzdžiui, yra išlikusių ži­\nnių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos\nvalstybės vietose: Vilniuje katedrą (1399) ir šv."
+  citata_rodoma: |
+    Per visą savo valdymo
+    laiką jis pastatė tiek bažnyčių, kiek jų, gal būt, niekas ir nieka­
+    da Lietuvoje nėra pastatęs. Taip, pavyzdžiui, yra išlikusių ži­
+    nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
+    valstybės vietose: Vilniuje katedrą (1399) ir šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

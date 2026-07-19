@@ -87,7 +87,12 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
     akademijos istorija. Aprašydamas šios Lietuvos aukštosios mo­
     kyklos raidą 1579-1803 m., daugelį jos istorijos įvykių jis verti­
     na kaip švietėjas.
-  citata_rodoma: "Didesnį dėmesį vėlesnėje istoriografi­\njoje pelnė kitas M. Balinskio darbas - 1862 m. išleista Vilniaus \nakademijos istorija. Aprašydamas šios Lietuvos aukštosios mo­\nkyklos raidą 1579-1803 m., daugelį jos istorijos įvykių jis verti­\nna kaip švietėjas."
+  citata_rodoma: |
+    Didesnį dėmesį vėlesnėje istoriografi­
+    joje pelnė kitas M. Balinskio darbas - 1862 m. išleista Vilniaus
+    akademijos istorija. Aprašydamas šios Lietuvos aukštosios mo­
+    kyklos raidą 1579-1803 m., daugelį jos istorijos įvykių jis verti­
+    na kaip švietėjas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +112,13 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
     istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
     tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
     rašymui.
-  citata_rodoma: "M. Balinskis pa­\nliko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­\nčiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos \nistorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys \ntomai, kurių vienas skirtas LDK istoriniam topografiniam ap­\nrašymui."
+  citata_rodoma: |
+    M. Balinskis pa­
+    liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
+    čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
+    istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
+    tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
+    rašymui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

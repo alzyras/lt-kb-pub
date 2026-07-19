@@ -52,7 +52,9 @@ Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusiga
     vonijoje įsikūrė vokiečių ateivių valstybė, lietuviai ėmė pulti ir
     ją. Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję
     įlanką, nusigaudavo net į Saremą (Eželį).
-  citata_rodoma: "Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję\nįlanką, nusigaudavo net į Saremą (Eželį)."
+  citata_rodoma: |
+    Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję
+    įlanką, nusigaudavo net į Saremą (Eželį).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

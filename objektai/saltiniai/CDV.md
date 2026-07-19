@@ -68,7 +68,14 @@ Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias m
     (^292) ii skyrius: valstybės iškilimas
     grafinis lietuvių elementas buvo atskiriamas nuo rytinių slavų^21 ir
     ateičiai saugojamas nuo stačiatikių įtakos.
-  citata_rodoma: "**\n(^20) **CDV, I, 13-15 p.**\n\n\n(^292) ii skyrius: valstybės iškilimas\ngrafinis lietuvių elementas buvo atskiriamas nuo rytinių slavų^21 ir\nateičiai saugojamas nuo stačiatikių įtakos."
+  citata_rodoma: |
+    **
+    (^20) **CDV, I, 13-15 p.**
+
+
+    (^292) ii skyrius: valstybės iškilimas
+    grafinis lietuvių elementas buvo atskiriamas nuo rytinių slavų^21 ir
+    ateičiai saugojamas nuo stačiatikių įtakos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

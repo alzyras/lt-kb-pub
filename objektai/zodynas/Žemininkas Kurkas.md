@@ -82,7 +82,13 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
     kė prietaringą tikėjimą šia dievybe*.
     Latviai tą dievą, vadindami Zeemneeks, garbino visiškai ta
     pačia prasme kaip lietuviai.
-  citata_rodoma: "Žemininkas (Ziemienikas)\nKitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­\ngumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -\ntai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir\ntamsą, buvo šviesos dievo antipodas, namų ir apskritai viso\nkrašto globėjas."
+  citata_rodoma: |
+    Žemininkas (Ziemienikas)
+    Kitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­
+    gumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -
+    tai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir
+    tamsą, buvo šviesos dievo antipodas, namų ir apskritai viso
+    krašto globėjas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

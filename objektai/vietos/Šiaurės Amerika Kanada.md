@@ -81,18 +81,29 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žymesnių
-    asmenų kūnus laidodavo ne tik su visais drabužiais, būdingais
-    kiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­
-    vas būdamas: karys su ginklu, medžiotojas su lanku, amati­
-    ninkas su savo amato įrankiais. Visuomet pagoniškose kapa­
-    vietėse randamas koks nors geležinis daiktas, padėtas prie deši­
-    niojo peties, prie motenį - varinės adatos, akmeniniai verpstukų
-    smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
-    kio lygintuvo liekanas, iškastas Obeliuose). Pas vyrus dažnai ras­
-    davo titnagą ugniai skelti arba skiltuvo likučių, taip pat galąstu­
-    vų skiltuvams su skylute, skirta pakabinti ant dirželio.
-  citata_rodoma: "Mes gi apie tai nieko negalime pasakyti*.\n362\n\n## Puslapis 362\n\nHuronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­\ntos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,\nšeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­\nsius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad\nbūtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­\nje; verkia, priekaištauja, kam juos paliko."
+    Mes gi apie tai nieko negalime pasakyti*.
+    362
+
+    ## Puslapis 362
+
+    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
+    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
+    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
+    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
+    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
+    je; verkia, priekaištauja, kam juos paliko.
+  citata_rodoma: |
+    Mes gi apie tai nieko negalime pasakyti*.
+    362
+
+    ## Puslapis 362
+
+    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
+    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
+    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
+    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
+    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
+    je; verkia, priekaištauja, kam juos paliko.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

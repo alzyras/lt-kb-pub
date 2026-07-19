@@ -186,7 +186,12 @@ Nenurodyta
     iliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksem-
     burgiečio dvikova su lietuviu didiku Margaliu (Margiriu?). Kai jie
     raiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais.
-  citata_rodoma: "Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.\nlietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai\niliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksem-\nburgiečio dvikova su lietuviu didiku Margaliu (Margiriu?). Kai jie\nraiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais."
+  citata_rodoma: |
+    Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.
+    lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai
+    iliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksem-
+    burgiečio dvikova su lietuviu didiku Margaliu (Margiriu?). Kai jie
+    raiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +216,19 @@ Nenurodyta
     kirviai
 
     1368, 1370, 1372 m.
-  citata_rodoma: "„Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo\nMaskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,\nir žemaičių kunigaikštis Algirdas buvo atrėmęs savo ietį į Maskvos sieną.“\n\nIr, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0\nnujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis\nstovėjo prie Maskvos!“\n\nKovos\nkirviai\n\n1368, 1370, 1372 m."
+  citata_rodoma: |
+    „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
+    Maskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,
+    ir žemaičių kunigaikštis Algirdas buvo atrėmęs savo ietį į Maskvos sieną.“
+
+    Ir, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0
+    nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis
+    stovėjo prie Maskvos!“
+
+    Kovos
+    kirviai
+
+    1368, 1370, 1372 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -241,7 +258,24 @@ Nenurodyta
     ir nukėlęs sieną ligi Možaisko8 ir Kolomnos7, daugelį
     žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
     gojęs, išžygiavo namo.
-  citata_rodoma: "Ir tada didysis kuni­\ngaikštis Algirdas tarė Maskvos didžiajam kunigaikš­\nčiui: „Nors mes su tavimi susitaikėme, bet man nede­\nra kitaip pasielgti — turiu atremti į tavo Maskvosmies- \nto sieną savo ietį ir vardan savo šlovės palikti ženklą, \nkad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas \nbuvo atrėmęs savo ietį į Maskvos sieną.\"\nIr, užšokęs ant žirgo, paėmęs ietį rankon, prijojo \nprie miesto ir atrėmė savo ietį į sieną, o nujodamas \ndidžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­\nmink, kad lietuvių ietis stovėjo prie Maskvos!\"\nO vėliau didysis kunigaikštis Algirdas su visa savo \nkariuomene ir su didžia šlove, su daugybe belaisvių ir \nneapsakomu grobiu, nukariavęs ir paėmęs daug miestų \nir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį \nžmonių paėmęs nelaisvėn, o visus savo žmones išsau­\ngojęs, išžygiavo namo."
+  citata_rodoma: |
+    Ir tada didysis kuni­
+    gaikštis Algirdas tarė Maskvos didžiajam kunigaikš­
+    čiui: „Nors mes su tavimi susitaikėme, bet man nede­
+    ra kitaip pasielgti — turiu atremti į tavo Maskvosmies-
+    to sieną savo ietį ir vardan savo šlovės palikti ženklą,
+    kad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas
+    buvo atrėmęs savo ietį į Maskvos sieną."
+    Ir, užšokęs ant žirgo, paėmęs ietį rankon, prijojo
+    prie miesto ir atrėmė savo ietį į sieną, o nujodamas
+    didžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­
+    mink, kad lietuvių ietis stovėjo prie Maskvos!"
+    O vėliau didysis kunigaikštis Algirdas su visa savo
+    kariuomene ir su didžia šlove, su daugybe belaisvių ir
+    neapsakomu grobiu, nukariavęs ir paėmęs daug miestų
+    ir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį
+    žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
+    gojęs, išžygiavo namo.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

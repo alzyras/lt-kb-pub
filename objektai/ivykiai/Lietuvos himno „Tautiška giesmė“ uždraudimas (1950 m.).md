@@ -84,7 +84,8 @@ Nenurodyta
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: "vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose"
+  citata_rodoma: |
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

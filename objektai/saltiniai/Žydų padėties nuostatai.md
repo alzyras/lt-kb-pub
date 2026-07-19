@@ -89,7 +89,8 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padė-
     ties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų
     iš nacių Vokietijos ir plaukė jos politikos farvateryje.
-  citata_rodoma: "ties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų"
+  citata_rodoma: |
+    ties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

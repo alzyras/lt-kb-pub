@@ -96,7 +96,17 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
     Pasak to paties autoriaus, prieš aukos atnašavimą priešais sta­
     bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
     dievas.
-  citata_rodoma: "310\n\n## Puslapis 310\n\npuotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­\nriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais\nlabiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­\ndrausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II\namžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710\nmetais tą paprotį m atė ir griežtai jį uždraudė10 1."
+  citata_rodoma: |
+    310
+
+    ## Puslapis 310
+
+    puotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­
+    riuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais
+    labiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­
+    drausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II
+    amžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710
+    metais tą paprotį m atė ir griežtai jį uždraudė10 1.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

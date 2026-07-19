@@ -70,7 +70,13 @@ Damoklo kardas tikrai pakibo ant unijos, kurią taip smarkiai gynė lenkai ir, i
     naujų privilegijų, kurių jau geidavo nuo 1425 m. ir už kurias pa­
     sižadėjo išrinkti vieną Jogailos sūnų sau į karalius, kuris iš jų
     jiems labiau patiks ir išrinktasis sutiks patvirtinti jų privilegijas.
-  citata_rodoma: "Damoklo kardas tikrai pakibo ant unijos,\nkurią taip smarkiai gynė lenkai ir, ieškodami plačiausios para­\nmos prieš šį pavojų, Jogailos pašaukti, susivažiavo į Jedlną\n(1430. III). Čia susirinkusi bajorija, taip sakant dėl drąsumo\nir karingesnio ūpo prieš Vytautą, pareikalavo iš savo karaliaus\nnaujų privilegijų, kurių jau geidavo nuo 1425 m."
+  citata_rodoma: |
+    Damoklo kardas tikrai pakibo ant unijos,
+    kurią taip smarkiai gynė lenkai ir, ieškodami plačiausios para­
+    mos prieš šį pavojų, Jogailos pašaukti, susivažiavo į Jedlną
+    (1430. III). Čia susirinkusi bajorija, taip sakant dėl drąsumo
+    ir karingesnio ūpo prieš Vytautą, pareikalavo iš savo karaliaus
+    naujų privilegijų, kurių jau geidavo nuo 1425 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

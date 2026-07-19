@@ -69,7 +69,9 @@ LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
     klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
-  citata_rodoma: "LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-\nklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius."
+  citata_rodoma: |
+    LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
+    klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

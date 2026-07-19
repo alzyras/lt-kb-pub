@@ -113,7 +113,15 @@ Nenurodyta
     darbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos
     sūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais
     ir padėjau ten, kur jam dera būti“. Sitai pasakęs, laimingai atidavė viešpačiui sielą.
-  citata_rodoma: "Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai\nSkomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo\ngynėju ir garbingu krikščionių tautos vadu. Mirties patale gulėdamas, jis, paklaustas\nbrolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti\nKristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną\ndarbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos\nsūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais\nir padėjau ten, kur jam dera būti“. Sitai pasakęs, laimingai atidavė viešpačiui sielą."
+  citata_rodoma: |
+    Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
+    Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo
+    gynėju ir garbingu krikščionių tautos vadu. Mirties patale gulėdamas, jis, paklaustas
+    brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti
+    Kristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną
+    darbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos
+    sūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais
+    ir padėjau ten, kur jam dera būti“. Sitai pasakęs, laimingai atidavė viešpačiui sielą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

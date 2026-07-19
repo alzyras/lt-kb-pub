@@ -298,7 +298,11 @@ Nenurodyta
     metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
     mi tos sutarties originalą, sakė esą matę visų keturių valdovų
     sveikas antspaudas^2 ).
-  citata_rodoma: "Prūsų istorikas Voigtas (apie 1825\nmetus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­\nmi tos sutarties originalą, sakė esą matę visų keturių valdovų\nsveikas antspaudas^2 )."
+  citata_rodoma: |
+    Prūsų istorikas Voigtas (apie 1825
+    metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
+    mi tos sutarties originalą, sakė esą matę visų keturių valdovų
+    sveikas antspaudas^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -319,7 +323,9 @@ Nenurodyta
     c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
     dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
     (^2) ) C. ep. V., 223.
-  citata_rodoma: "c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­\ndome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj."
+  citata_rodoma: |
+    c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
+    dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

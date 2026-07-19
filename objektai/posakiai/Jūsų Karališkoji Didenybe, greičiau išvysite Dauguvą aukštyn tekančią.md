@@ -63,7 +63,14 @@ Vienas iš jų pasakė: „Jūsų Karališkoji Didenybe, greičiau išvysite Dau
 
     Švedų kariuomenės pės-
     tininkų batalionas.
-  citata_rodoma: "Vienas iš jų pasakė: „Jūsų\nKarališkoji Didenybe, greičiau išvysite\nDauguvą aukštyn tekančią, negu lietuvius\nir jų etmoną iš kovos lauko bėgančius“\n\nŠvedų kariuomenės pės-\ntininkų batalionas."
+  citata_rodoma: |
+    Vienas iš jų pasakė: „Jūsų
+    Karališkoji Didenybe, greičiau išvysite
+    Dauguvą aukštyn tekančią, negu lietuvius
+    ir jų etmoną iš kovos lauko bėgančius“
+
+    Švedų kariuomenės pės-
+    tininkų batalionas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

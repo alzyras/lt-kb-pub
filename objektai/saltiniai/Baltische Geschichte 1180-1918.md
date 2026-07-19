@@ -57,7 +57,10 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
     schichte der baltischen Staaten_** **(1970). — R. Wittram :** **_Baltische Geschichte
     1180-1918_** **(WiBG).**
     (^168) **Pvz., joje t. 5, 1969, yra W. Nöbel :** **_Michael Küchmeister.
-  citata_rodoma: "— R. Wittram :** **_Baltische Geschichte\n1180-1918_** **(WiBG).**\n(^168) **Pvz."
+  citata_rodoma: |
+    — R. Wittram :** **_Baltische Geschichte
+    1180-1918_** **(WiBG).**
+    (^168) **Pvz.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

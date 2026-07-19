@@ -93,7 +93,8 @@ Nenurodyta
     kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
     tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
     susibūrusios grupės perversmo planas, suėmus J. Pajaujį, žlugo.
-  citata_rodoma: "tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį"
+  citata_rodoma: |
+    tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

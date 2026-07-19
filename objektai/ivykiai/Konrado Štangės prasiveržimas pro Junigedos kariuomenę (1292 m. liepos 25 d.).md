@@ -161,7 +161,12 @@ Nenurodyta
     kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
     vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
     kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
-  citata_rodoma: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo\ndieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,\npasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal\nir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių. Šitai išgirdę, broliai ir kiti,\nlabai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?"
+  citata_rodoma: |
+    Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
+    dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
+    pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal
+    ir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių. Šitai išgirdę, broliai ir kiti,
+    labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -383,7 +383,12 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     rezervą. Kryžiuočiai mėgino apeiti lenkų
 
     64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m. liepos 15 d.
-  citata_rodoma: "Matydamas, kad mūšio sėkmė krypsta ne\njo naudai, didysis magistras į mūšį metė\nrezervą. Kryžiuočiai mėgino apeiti lenkų\n\n64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m."
+  citata_rodoma: |
+    Matydamas, kad mūšio sėkmė krypsta ne
+    jo naudai, didysis magistras į mūšį metė
+    rezervą. Kryžiuočiai mėgino apeiti lenkų
+
+    64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -431,7 +436,14 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
     ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
     vienodos, kad šios tautos turėjusios bendrą priešą71.
-  citata_rodoma: "Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,\ndidžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne\ntik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,\nKryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą\nprieš Lietuvą.\n  Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį."
+  citata_rodoma: |
+    Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
+    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
+    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
+    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
+    prieš Lietuvą.
+      Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -520,7 +532,26 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     mo, ir tik 1391 m. kovo 12 d. išrink­
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
-  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
+  citata_rodoma: |
+    22
+    Miechovita, Strijkovskis
+    ir K o j e 1 a v i č i u s klysta sakyda­
+    mi, esą žygio vadovavimas buvo pa­
+    vestas Konradui Valenrodui, kurį
+    jau tuo metu vadina didžiuoju ma­
+    gistru, kai Konradas Valenrodas
+    1382 metais, sekmadienį prieš Šv.
+    Mykolą paskirtas Ordino didžiuoju
+    maršalu, 1387 metais per Apreiški­
+    mo Marijai šventę tapo didžiuoju
+    komtūru arba arkikomtūru, 1390
+    rugpjūčio 15 d., po didžiojo magistro
+    Konrado Ciolnerio fon Rotenšteino
+    mirties, - ir didžiojo magistro vieti­
+    ninku, iki pat kapitulos suvažiavi­
+    mo, ir tik 1391 m. kovo 12 d. išrink­
+    tas didž. magistru; mirė 1393 m.
+    liepos 25 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

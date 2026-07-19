@@ -163,7 +163,11 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
     ninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą
     Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
-  citata_rodoma: "Jos dėka ordinui, su Reicho\nkunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­\nninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą\nKonrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją."
+  citata_rodoma: |
+    Jos dėka ordinui, su Reicho
+    kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
+    ninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą
+    Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

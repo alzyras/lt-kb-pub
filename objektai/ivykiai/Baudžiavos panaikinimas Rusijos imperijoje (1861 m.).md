@@ -97,7 +97,20 @@ Nenurodyta
     tas į Petrapilį, kur tokį
     pat darbą dirbo speciali
     komisija visai Rusijai.
-  citata_rodoma: "Po to (1858 m.) valstiečių at-\nleidimo projektui pa-\nruošti visose Lietuvos\ngubernijose buvo suda-\nryti bajorų komitetai,\nkurių darbą turėjo su-\nvienodinti centralinė\nkomisija Vilniuje. Ši-\ntos komisijos sudarytas\nprojektas buvo nusiųs-\ntas į Petrapilį, kur tokį\npat darbą dirbo speciali\nkomisija visai Rusijai."
+  citata_rodoma: |
+    Po to (1858 m.) valstiečių at-
+    leidimo projektui pa-
+    ruošti visose Lietuvos
+    gubernijose buvo suda-
+    ryti bajorų komitetai,
+    kurių darbą turėjo su-
+    vienodinti centralinė
+    komisija Vilniuje. Ši-
+    tos komisijos sudarytas
+    projektas buvo nusiųs-
+    tas į Petrapilį, kur tokį
+    pat darbą dirbo speciali
+    komisija visai Rusijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -119,7 +132,12 @@ Nenurodyta
     taikos suvažiavimais.
     Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
-  citata_rodoma: "Reformai atlikti buvo sudarytos apskrityse valstiečių ko-\nmisijos, apskritys padalintos į apylinkes, kurių priešaky bu-\nvo pastatyti taikos tarpininkai, o didesniesiems nesu-\nsipratimams spręsti — visų tarpininkų suvažiavimai, vadinami\ntaikos suvažiavimais."
+  citata_rodoma: |
+    Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
+    misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
+    vo pastatyti taikos tarpininkai, o didesniesiems nesu-
+    sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami
+    taikos suvažiavimais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

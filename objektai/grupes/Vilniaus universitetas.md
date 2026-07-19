@@ -493,7 +493,11 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
     epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
     universitetą.
-  citata_rodoma: "Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-\ndinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko \nepochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus \nuniversitetą."
+  citata_rodoma: |
+    Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
+    dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
+    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
+    universitetą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -537,7 +541,12 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
     1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
     lį ir gavęs Imperatoriškojo universiteto statusą.
-  citata_rodoma: "Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, \nkurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-\nmės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas, \n1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-\nlį ir gavęs Imperatoriškojo universiteto statusą."
+  citata_rodoma: |
+    Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda,
+    kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-
+    mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
+    1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
+    lį ir gavęs Imperatoriškojo universiteto statusą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -615,7 +624,22 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     etnosu, bet jie patys save laikė
     vieno dvilypio lietuvių-žemaičių
     etnoso dalimi).
-  citata_rodoma: "Jau tuomet pripažinta, kad \ntai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.\nVilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-\ntijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar \nvienas kitas), kurie susitarė kryp-\ntingai plėtoti aukštosios kultūros \nkūrimo lietuvių (žemaičių) kalba \ndarbą, o sykiu rūpintis lietuvių \nir žemaičių liaudies švietimu jų \ngimtąja kalba (nors žemaičius \nkai kas tuomet laikė atskiru, \netniniams lietuviams giminingu \netnosu, bet jie patys save laikė \nvieno dvilypio lietuvių-žemaičių \netnoso dalimi)."
+  citata_rodoma: |
+    Jau tuomet pripažinta, kad
+    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
+    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
+    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+    vienas kitas), kurie susitarė kryp-
+    tingai plėtoti aukštosios kultūros
+    kūrimo lietuvių (žemaičių) kalba
+    darbą, o sykiu rūpintis lietuvių
+    ir žemaičių liaudies švietimu jų
+    gimtąja kalba (nors žemaičius
+    kai kas tuomet laikė atskiru,
+    etniniams lietuviams giminingu
+    etnosu, bet jie patys save laikė
+    vieno dvilypio lietuvių-žemaičių
+    etnoso dalimi).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -660,7 +684,12 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
     šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
     praėjus 400 metų po krikšto.
-  citata_rodoma: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus \nuniversitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem \nšimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje – \npraėjus 400 metų po krikšto."
+  citata_rodoma: |
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
+    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
+    šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
+    praėjus 400 metų po krikšto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -699,7 +728,10 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     neva ištaisant per 500 metų ligtolinės istorijos vyksmo padarytas klaidas
     ir skriaudas, netgi jokio prieš valdžią nukreipto politinio turinio netu-
     rinti knyga, laikraštis ar maldaknygė tapo kontrabandos preke.
-  citata_rodoma: "Pirmąjį šio laikotarpio trečdalį veikė didžiausias Rusijos imperijoje \neuropinį mokslo ir studijų lygį pasiekęs Vilniaus universitetas. Tačiau \nnuo 1864 m."
+  citata_rodoma: |
+    Pirmąjį šio laikotarpio trečdalį veikė didžiausias Rusijos imperijoje
+    europinį mokslo ir studijų lygį pasiekęs Vilniaus universitetas. Tačiau
+    nuo 1864 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -747,7 +779,16 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
     Lenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą.
-  citata_rodoma: "VIII\n\n## Puslapis 9\n\nPo 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir\nRusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­\nsuomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į\nLenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­\nvenimo lėšų, M."
+  citata_rodoma: |
+    VIII
+
+    ## Puslapis 9
+
+    Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir
+    Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­
+    suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
+    Lenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­
+    venimo lėšų, M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -769,7 +810,12 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
     ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
     gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
-  citata_rodoma: "1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-\nciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-\nsiteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų \nministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-\ngijos akademija ir Vilniaus Romos katalikų dvasinė akademija."
+  citata_rodoma: |
+    1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
+    ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
+    siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
+    ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
+    gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

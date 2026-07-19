@@ -82,7 +82,14 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
     jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
     pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
     tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių.
-  citata_rodoma: "Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį\n\n  Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir\nprisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu\njie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,\npastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,\ntikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių."
+  citata_rodoma: |
+    Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
+
+      Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
+    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
+    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
+    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
+    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

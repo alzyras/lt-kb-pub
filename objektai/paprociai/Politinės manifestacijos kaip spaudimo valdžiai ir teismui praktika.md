@@ -148,7 +148,14 @@ Nenurodyta
     reformą numatyta pradėti po dvejų metų. Netrukus Varšuvoje ir Vilniuje
     kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pa-
     baigoje caro valdžia įvedė karo padėtį.
-  citata_rodoma: "Naujasis imperatorius 1861 m. pavasarį pasirašė manifestą, paleidu-\nsį privačių dvarų valstiečius iš baudžiavinės priklausomybės, pasirašyti \nteisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-\nmatyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių \nreformą numatyta pradėti po dvejų metų. Netrukus Varšuvoje ir Vilniuje \nkilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pa-\nbaigoje caro valdžia įvedė karo padėtį."
+  citata_rodoma: |
+    Naujasis imperatorius 1861 m. pavasarį pasirašė manifestą, paleidu-
+    sį privačių dvarų valstiečius iš baudžiavinės priklausomybės, pasirašyti
+    teisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-
+    matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
+    reformą numatyta pradėti po dvejų metų. Netrukus Varšuvoje ir Vilniuje
+    kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pa-
+    baigoje caro valdžia įvedė karo padėtį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -170,7 +177,16 @@ Nenurodyta
     lio 28 dieną. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
     eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
     navusiame jakobinų klube.
-  citata_rodoma: "Kreiptasi į valstiečius (tai pirmas atsišaukimas \nlietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-\nnę, žadėta suteikti jiems asmens laisvę. \nSukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos \nvyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-\nlio 28 dieną. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos \neigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-\nnavusiame jakobinų klube."
+  citata_rodoma: |
+    Kreiptasi į valstiečius (tai pirmas atsišaukimas
+    lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
+    nę, žadėta suteikti jiems asmens laisvę.
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
+    eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
+    navusiame jakobinų klube.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

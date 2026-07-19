@@ -62,7 +62,13 @@ Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido 
     literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą
     knygų.
     **Lietuviškosios spaudos suklestėjimas**.
-  citata_rodoma: "Burba vadovaujant, buvo\ngalutinai atsiskirta nuo lenkų. Tada Šliūpo rūpesčiu buvo įsteig-\nta Lietuvių Mokslo Draugystė, kuri leido mėnesinį\nliteratūros ir mokslo žurnalą „Apšvietą\" ir išleido keletą\nknygų.\n**Lietuviškosios spaudos suklestėjimas**."
+  citata_rodoma: |
+    Burba vadovaujant, buvo
+    galutinai atsiskirta nuo lenkų. Tada Šliūpo rūpesčiu buvo įsteig-
+    ta Lietuvių Mokslo Draugystė, kuri leido mėnesinį
+    literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą
+    knygų.
+    **Lietuviškosios spaudos suklestėjimas**.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

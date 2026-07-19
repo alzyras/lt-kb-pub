@@ -164,7 +164,10 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
     Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
-  citata_rodoma: "Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,\nmaršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė\npilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi;"
+  citata_rodoma: |
+    Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
+    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi;
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -190,7 +193,11 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
     savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
     puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
-  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės."
+  citata_rodoma: |
+    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
+    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
+    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
+    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

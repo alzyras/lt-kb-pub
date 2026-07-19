@@ -69,7 +69,15 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
     pavadintą Girdavai388. Savo nuo tikėjimo atsimetusių tautiečių daug kartų antpuoliais bei
     384  Tepliavos (GAO, p. 181) Ordino pilis, kaip rodo Pelplino ir Torunės analai, statyta
     1265 m. (SRP, 1, p. 270; ten pat, 3, p. 61; žr. dar paaiškinimą D. III, 71, 10).
-  citata_rodoma: "113 (108). Apie tai, kaip buvo palikta Girdavų pilis\n\n  Tuo metu387 vienas tikėjimą bei tikinčiuosius rėmęs žmogus, vardu Girdavas, kurio\npalikuonys po šiai dienai vadinami Rendaliais, turėjo Bartos žemėje pilį, nuo jo vardo\npavadintą Girdavai388. Savo nuo tikėjimo atsimetusių tautiečių daug kartų antpuoliais bei\n\n  384 Tepliavos (GAO, p. 181) Ordino pilis, kaip rodo Pelplino ir Torunės analai, statyta\n1265 m. (SRP, 1, p. 270; ten pat, 3, p. 61; žr. dar paaiškinimą D. III, 71, 10)."
+  citata_rodoma: |
+    113 (108). Apie tai, kaip buvo palikta Girdavų pilis
+
+      Tuo metu387 vienas tikėjimą bei tikinčiuosius rėmęs žmogus, vardu Girdavas, kurio
+    palikuonys po šiai dienai vadinami Rendaliais, turėjo Bartos žemėje pilį, nuo jo vardo
+    pavadintą Girdavai388. Savo nuo tikėjimo atsimetusių tautiečių daug kartų antpuoliais bei
+
+      384 Tepliavos (GAO, p. 181) Ordino pilis, kaip rodo Pelplino ir Torunės analai, statyta
+    1265 m. (SRP, 1, p. 270; ten pat, 3, p. 61; žr. dar paaiškinimą D. III, 71, 10).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

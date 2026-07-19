@@ -180,7 +180,13 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     Tų metų kovo 5 dieną vyriausioje būstinėje Marienburge pasimirė brolis Zigfridas iš
     Foichtvangeno, Teutonų ordino didysis magistras, o jį palaidojo Kulmenzėje, katedros
     bažnyčioje.
-  citata_rodoma: "D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,\ntapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;\nTarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die\nBesiedlung..., 2, p. 185 ir žemėl.), tačiau dab. Skeršpylių k. (Veliuonos apyl. Jurbarko\nrj.), deš. Mituvos krante prie Akmenos santakos bei toliau  į rytus piliakalnio pėdsakų\nnerandame."
+  citata_rodoma: |
+    D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
+    tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;
+    Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die
+    Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab. Skeršpylių k. (Veliuonos apyl. Jurbarko
+    rj.), deš. Mituvos krante prie Akmenos santakos bei toliau  į rytus piliakalnio pėdsakų
+    nerandame.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -222,7 +228,12 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     Tais 1295 metais Boleslovas, Mazovijos kunigaikštis, apie kurį jau kalbėta, sielodamasis
     Tacito minimus germanus lemovius (Lemonii ar Lemovii — Tacitas P. K., Rinktiniai raštai,
     p. 29) bandoma sieti su XIII a.
-  citata_rodoma: "544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių\npietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,\np. 665—666; SZM, p. 230—231; Łowmiański H., Studja..., 2, p. 100—101; plg. Jurginis\nJ., Baudžiavos..., p. 170). Pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen\nG., Die Besiedlung..., 2, p. 205)."
+  citata_rodoma: |
+    544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių
+    pietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,
+    p. 665—666; SZM, p. 230—231; Łowmiański H., Studja..., 2, p. 100—101; plg. Jurginis
+    J., Baudžiavos..., p. 170). Pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen
+    G., Die Besiedlung..., 2, p. 205).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -262,7 +273,11 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     Gardino pilies; kai jie priėjo pelkes, kuriomis teka upė, vardu Bebras, kariuomenės
     vedliai dvi dienas klaidžiojo, nerasdami tikro kelio, o šitaip patvarkė dieviškoji apvaizda,
     nes minėtosios karaliaus kariuomenės žmonės dar nebuvo sugrįžę namo.
-  citata_rodoma: "561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos\nintakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)\nkelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.\n35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185)."
+  citata_rodoma: |
+    561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
+    intakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)
+    kelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.
+    35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

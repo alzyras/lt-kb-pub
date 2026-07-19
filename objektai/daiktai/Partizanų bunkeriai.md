@@ -125,7 +125,8 @@ Nenurodyta
     bežemių vaikai, netarnavę ginkluotosiose pajėgose. Įstoję į partizanų gretas
     jie turėjo išmokti kariavimo gudrybių ir prisitaikyti prie sudėtingų gyveni-
     mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
-  citata_rodoma: "miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai."
+  citata_rodoma: |
+    miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +148,8 @@ Nenurodyta
     10 tūkst. vyrų, partizanai sudarė mažus, mobilius būrius, sodybose ir
     prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
     šukavimus.
-  citata_rodoma: "prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per"
+  citata_rodoma: |
+    prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

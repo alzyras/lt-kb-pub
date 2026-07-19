@@ -68,7 +68,12 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų
     eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,
     buvo pasiekę, palyginti, aukštą kultūros laipsnį.
-  citata_rodoma: "Artimiausieji rytų kaimynai dregovičiai (Beržūnės\nbaseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors\nKijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana\nžemame kultūros laipsnyje. Tuo tarpu pagonys lietuviai, kaip\npatvirtina rašytieji šaltiniai (XIII-XIV amž."
+  citata_rodoma: |
+    Artimiausieji rytų kaimynai dregovičiai (Beržūnės
+    baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors
+    Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana
+    žemame kultūros laipsnyje. Tuo tarpu pagonys lietuviai, kaip
+    patvirtina rašytieji šaltiniai (XIII-XIV amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

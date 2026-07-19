@@ -93,8 +93,23 @@ Nenurodyta
     ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau
     kaip 20 žmonių maitinimui, item pro sartis et tectis [remon­
     tui], to paties mūrinio namo remontui, per metus vos tegau­
-    na habitualiter [išskirtinai] 2000 lenk. auksinų.
-  citata_rodoma: "Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­\nlas jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­\ngusto III ir Stanislovo Augusto.\nNėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­\nkiamą naudą ir paskutiniojoje privilegijoje išsakytą sąlygą, \nkad nuo kiekvienos naujai išspausdintos knygos po vieną \negzempliorių privalo duoti Lietuvos kancleriams ir Viešajai \nbibliotekai.\nSpaustuvės lėšas sudaro pajamos, gautos už parduotas \njoje spausdintas knygas, ir a demptis expensis [iš gautų išlai­\ndoms] - spaudmenims, popieriui, atlyginimams, rinkėjams \nir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau \nkaip 20 žmonių maitinimui, item pro sartis et tectis [remon­\ntui], to paties mūrinio namo remontui, per metus vos tegau­\nna habitualiter [išskirtinai] 2000 lenk."
+    na habitualiter [išskirtinai] 2000 lenk.
+  citata_rodoma: |
+    Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­
+    las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­
+    gusto III ir Stanislovo Augusto.
+    Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­
+    kiamą naudą ir paskutiniojoje privilegijoje išsakytą sąlygą,
+    kad nuo kiekvienos naujai išspausdintos knygos po vieną
+    egzempliorių privalo duoti Lietuvos kancleriams ir Viešajai
+    bibliotekai.
+    Spaustuvės lėšas sudaro pajamos, gautos už parduotas
+    joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­
+    doms] - spaudmenims, popieriui, atlyginimams, rinkėjams
+    ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau
+    kaip 20 žmonių maitinimui, item pro sartis et tectis [remon­
+    tui], to paties mūrinio namo remontui, per metus vos tegau­
+    na habitualiter [išskirtinai] 2000 lenk.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

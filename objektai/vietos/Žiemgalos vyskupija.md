@@ -65,7 +65,10 @@ Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^1
     kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
     pijos dalybų (1254 m.)^139. Mindaugo užrašymai Žemaičiuose reiškė
     tolimesnius ordino laimėjimus.
-  citata_rodoma: "Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­\npijos dalybų (1254 m.)^139. Mindaugo užrašymai Žemaičiuose reiškė\ntolimesnius ordino laimėjimus."
+  citata_rodoma: |
+    Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
+    pijos dalybų (1254 m.)^139. Mindaugo užrašymai Žemaičiuose reiškė
+    tolimesnius ordino laimėjimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

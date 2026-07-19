@@ -68,7 +68,9 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
     tuvių kariais toliau persekiojo bolševi-
     kus. Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
-  citata_rodoma: "Birželio 3 d. buvo užimti Daugailiai,\nTauragnai, birželio 4 d. Paberžė."
+  citata_rodoma: |
+    Birželio 3 d. buvo užimti Daugailiai,
+    Tauragnai, birželio 4 d. Paberžė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

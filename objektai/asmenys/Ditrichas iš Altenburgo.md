@@ -184,7 +184,10 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
     Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
     Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
-  citata_rodoma: "Darbą Mikalojus baigė\njau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos\nžemės kronikoje“ nemaža detalių pakeista arba pridėta79."
+  citata_rodoma: |
+    Darbą Mikalojus baigė
+    jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
+    žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -211,7 +214,14 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės
     kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių
     bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų.
-  citata_rodoma: "Apie Gedimino pilies papilio sudeginimą 1324 metais\n\n  Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44\nbroliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies\npapilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems\npavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,\nkuriuos paėmė į nelaisvę."
+  citata_rodoma: |
+    Apie Gedimino pilies papilio sudeginimą 1324 metais
+
+      Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44
+    broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies
+    papilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems
+    pavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,
+    kuriuos paėmė į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -234,7 +244,15 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     Henriko VI laikais (Dusb. I, 2).
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
     III (Ptol.
-  citata_rodoma: "Apie Lunenburgo pilies ir dviejų miestų pastatymą\n\n  Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą\nleidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,\nsantakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595."
+  citata_rodoma: |
+    Apie Lunenburgo pilies ir dviejų miestų pastatymą
+
+      Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
+    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
+    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
+    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
+    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
+    Ilienburgo [Ilijos] pilies595.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -253,7 +271,14 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
     čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
     du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus.
-  citata_rodoma: "Apie Bisenės pilies sudeginimą 1316 metais\n\n   Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš\nAltenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės\nginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi\nčia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę\ndu ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus."
+  citata_rodoma: |
+    Apie Bisenės pilies sudeginimą 1316 metais
+
+       Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
+    Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
+    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

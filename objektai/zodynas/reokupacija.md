@@ -70,7 +70,8 @@ media_all_json: |-
     kvizicijos, vyrai gaudyti darbams. Totalitariniam režimui vėl ėmė diri-
     guoti komunistų partija, valstybės saugumo (NKGB ir NKVD) struktū-
     ros, sovietų valdininkai ir okupacinė kariuomenė.
-  citata_rodoma: "iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu"
+  citata_rodoma: |
+    iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

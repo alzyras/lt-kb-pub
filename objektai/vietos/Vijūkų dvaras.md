@@ -84,7 +84,10 @@ Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
     dėstyti teologijos. Šiame Varmijos mieste kardinolas
     Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
     trukus pasidariusią svarbia jėzuitų atrama.
-  citata_rodoma: "Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno."
+  citata_rodoma: |
+    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
+    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
+    no.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -140,7 +140,18 @@ Nenurodyta
     universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
     šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
     praėjus 400 metų po krikšto.
-  citata_rodoma: "Vilniaus universite-\nto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, \nMartyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir \nOksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. \nbuvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose \nvietoje įprasto Horacijaus. \nVilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus \nuniversitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem \nšimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje – \npraėjus 400 metų po krikšto."
+  citata_rodoma: |
+    Vilniaus universite-
+    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
+    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
+    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
+    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
+    vietoje įprasto Horacijaus.
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
+    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
+    šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
+    praėjus 400 metų po krikšto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -159,7 +170,13 @@ Nenurodyta
     dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
     epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
     universitetą.
-  citata_rodoma: "Naujoji mokykla vadinosi Academia et Universitas Vilnensis \nSocietatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.\nVilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-\ndinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko \nepochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus \nuniversitetą."
+  citata_rodoma: |
+    Naujoji mokykla vadinosi Academia et Universitas Vilnensis
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+    Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
+    dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
+    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
+    universitetą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

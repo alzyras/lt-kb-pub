@@ -125,7 +125,29 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
     Vilnensem ducere, et vendere, alijs diebus pro Civibus dunta-
     xat liberis manentibus, juribus et privilegijs Civitati Vilnen.
     concessis salvis remanentibus.
-  citata_rodoma: "Ir todėl patiems ar jų \ntarnams smurtu bet ką iš kapitulos valdinių namų imti ne­\nbuvo leista ir neleidžiama. Tačiau, kad dėl Vilniaus miesto \ngyventojų, priklausančių visokiems ponams, įvairumo, ne­\nkiltų per didelė suirutė ir netvarka pačiame mieste, norime, \nkad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­\nrinčiais Vilniaus mieste ir už jo ribų valdinių, kartu susi­\nrinktų ir tiek dėl duonos dydžio bei svorio, tiek dėl kitų da­\nlykų, nuo kurių priklauso gera tvarka, bendrai susitartų ir \nvisi kartu, ir kiekvienas atskirai pasirūpintų, kad to, kas ben­\ndru sutarimu buvo nutarta, jų valdiniai laikytųsi. Taip ant­\nradieniais ir penktadieniais, be jokio kito rašto ir nepriešta­\nraujant regulai, yra leidžiama kapitulos valdiniams, taip pat\n383\n\n## Puslapis 400\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nferiis, absque praescripto, et regula liceat, permissumque sit \nsubditis Capituli, etiam de Villis eorum, panes in Civitatem \nVilnensem ducere, et vendere, alijs diebus pro Civibus dunta- \nxat liberis manentibus, juribus et privilegijs Civitati Vilnen."
+  citata_rodoma: |
+    Ir todėl patiems ar jų
+    tarnams smurtu bet ką iš kapitulos valdinių namų imti ne­
+    buvo leista ir neleidžiama. Tačiau, kad dėl Vilniaus miesto
+    gyventojų, priklausančių visokiems ponams, įvairumo, ne­
+    kiltų per didelė suirutė ir netvarka pačiame mieste, norime,
+    kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­
+    rinčiais Vilniaus mieste ir už jo ribų valdinių, kartu susi­
+    rinktų ir tiek dėl duonos dydžio bei svorio, tiek dėl kitų da­
+    lykų, nuo kurių priklauso gera tvarka, bendrai susitartų ir
+    visi kartu, ir kiekvienas atskirai pasirūpintų, kad to, kas ben­
+    dru sutarimu buvo nutarta, jų valdiniai laikytųsi. Taip ant­
+    radieniais ir penktadieniais, be jokio kito rašto ir nepriešta­
+    raujant regulai, yra leidžiama kapitulos valdiniams, taip pat
+    383
+
+    ## Puslapis 400
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    feriis, absque praescripto, et regula liceat, permissumque sit
+    subditis Capituli, etiam de Villis eorum, panes in Civitatem
+    Vilnensem ducere, et vendere, alijs diebus pro Civibus dunta-
+    xat liberis manentibus, juribus et privilegijs Civitati Vilnen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

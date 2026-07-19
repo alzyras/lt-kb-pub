@@ -83,7 +83,8 @@ Nenurodyta
     Kaune pastatytas mauzoliejus (naikintas per nacių okupaciją ir baigtas
     naikinti sovietmečiu). 1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
     liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
-  citata_rodoma: "liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį."
+  citata_rodoma: |
+    liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

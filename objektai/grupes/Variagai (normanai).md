@@ -123,7 +123,11 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
     kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
     santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
     pirmoje pusėje yra atėję eilė žodžių.
-  citata_rodoma: "Kai Dniepro baseine\nprasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos\nkariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius\nsantykius. Šitaip per Gudijos plotus Lietuvon dar IX amž."
+  citata_rodoma: |
+    Kai Dniepro baseine
+    prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos
+    kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
+    santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -167,7 +171,14 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
     Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
     ria visiems laikams buvo nustatyta minėtų valstybių sie­
     na, o Rusia buvo padalyta į dvi nelygias dalis2.
-  citata_rodoma: "Tai jų ka­\nringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo\nrusų variagų vardu. Apie juos mes dar kalbėsime chro­\nnologine mūsų pasakojimo tvarka. Čia tik pateikiame\nanksčiau mūsų Surovieckio padarytą ir labai teisingą pa­\nstabą, jog senovės geografai šią variagų-lietuvių tautą\nžinojo gitonų vardu1."
+  citata_rodoma: |
+    Tai jų ka­
+    ringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo
+    rusų variagų vardu. Apie juos mes dar kalbėsime chro­
+    nologine mūsų pasakojimo tvarka. Čia tik pateikiame
+    anksčiau mūsų Surovieckio padarytą ir labai teisingą pa­
+    stabą, jog senovės geografai šią variagų-lietuvių tautą
+    žinojo gitonų vardu1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -564,7 +564,10 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 die-
     nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
     katedros rūsyje, po šv. Mykolo Arkangelo altorium.
-  citata_rodoma: "Didžiojo valdovo lavonas buvo laikomas 8 die-\nnas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas\nkatedros rūsyje, po šv. Mykolo Arkangelo altorium."
+  citata_rodoma: |
+    Didžiojo valdovo lavonas buvo laikomas 8 die-
+    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
+    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -581,7 +584,10 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     tedrai sudegus, altorius žuvo. Tada Zigmanto Augusto motina, ka-
     ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
     bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
-  citata_rodoma: "Tada Zigmanto Augusto motina, ka-\nralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;\nbet kai 1610 m. apdegė katedra, žuvo ir šis paminklas."
+  citata_rodoma: |
+    Tada Zigmanto Augusto motina, ka-
+    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
+    bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -618,7 +624,10 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
     skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
     dvasia.
-  citata_rodoma: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado \nskulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko \ndvasia."
+  citata_rodoma: |
+    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
+    skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
+    dvasia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -670,7 +679,10 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     katedros fundatorių. Bet ši katedra 1399 metais sudegė. Ta­
     da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
     bet ir ją gaisras sunaikino 1531 m.
-  citata_rodoma: "Bet ši katedra 1399 metais sudegė. Ta­\nda Vytautas buvo pastatęs naują gotiško stiliaus katedrą,\nbet ir ją gaisras sunaikino 1531 m."
+  citata_rodoma: |
+    Bet ši katedra 1399 metais sudegė. Ta­
+    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
+    bet ir ją gaisras sunaikino 1531 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -730,7 +742,21 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
     lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
     atrado kuklumą ir sulaukė prielankumo.
-  citata_rodoma: "VILNIAUS MIESTO ISTORIJA I I  TOMAS\n29 to Augusto 1543 metais, numirė Vil-\nElžbieta, Vengrijos ir Čekijos kara- niuje 1545 metais, palaidota kated-\nliaus, vėliau imperatoriaus Ferdi- ros bažnyčioje, koplyčioje, šalia ka-\nnando, duktė, ištekinta už Žygiman- raliaus Aleksandro.\n272\n\n## Puslapis 289\n\nIV KNYGA\nPakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­\nteliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­\nlės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio\natrado kuklumą ir sulaukė prielankumo."
+  citata_rodoma: |
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    29 to Augusto 1543 metais, numirė Vil-
+    Elžbieta, Vengrijos ir Čekijos kara- niuje 1545 metais, palaidota kated-
+    liaus, vėliau imperatoriaus Ferdi- ros bažnyčioje, koplyčioje, šalia ka-
+    nando, duktė, ištekinta už Žygiman- raliaus Aleksandro.
+    272
+
+    ## Puslapis 289
+
+    IV KNYGA
+    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
+    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
+    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
+    atrado kuklumą ir sulaukė prielankumo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -755,7 +781,16 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     55
     Stryjkowski, p. 466, Kromer,
     Lib.
-  citata_rodoma: "Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis\npriimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­\nkydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­\nbių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų\ndata, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,\ntos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­\nmą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-\n55\nStryjkowski, p."
+  citata_rodoma: |
+    Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
+    priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­
+    kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­
+    bių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
+    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
+    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
+    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
+    55
+    Stryjkowski, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -951,7 +986,14 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
     dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
     kažkokį triukšmą ir lyg žalčių šnypštimą.
-  citata_rodoma: "Gyvatė (Giwojte)\nNuodingas šliužas. Šios rūšies būtybės buvo traktuojamos\nkaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.\nStrijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­\nno šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,\nkurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­\nriumi."
+  citata_rodoma: |
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

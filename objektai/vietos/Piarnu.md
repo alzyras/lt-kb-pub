@@ -123,7 +123,16 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
     traukė Rygos link ketindamas dar kartą
     pulti Daugavgryvą. Žygiuodamas pro
     Salacgryvą, jis netikėtai sužinojo, kad
-  citata_rodoma: "Mūšio išvakarėse\n\nPiarnu užėmimas užtikrino lietuviams\nsaugų užnugarį ir leido tęsti karo veiks-\nmus siekiant panaikinti Rygos miesto blo-\nkadą. Todėl Jonas Karolis Chodkevičius\nPiarnu apsaugai palikęs 200 karių, pa-\ntraukė Rygos link ketindamas dar kartą\npulti Daugavgryvą."
+  citata_rodoma: |
+    Mūšio išvakarėse
+
+    Piarnu užėmimas užtikrino lietuviams
+    saugų užnugarį ir leido tęsti karo veiks-
+    mus siekiant panaikinti Rygos miesto blo-
+    kadą. Todėl Jonas Karolis Chodkevičius
+    Piarnu apsaugai palikęs 200 karių, pa-
+    traukė Rygos link ketindamas dar kartą
+    pulti Daugavgryvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

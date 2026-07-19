@@ -88,7 +88,15 @@ S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems v
     tautos istoriją, reikėtų turėti omenyje visą kompleksą veiks­
     nių, visų pirma susijusių su jo biografijos detalėmis, - prade­
     dant kilme ir baigiant 1808-1809 metų Rusijos-Švedijos karu.
-  citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12. D. Poška, kalbėdamas apie poreikį ra­\nšyti lietuvių tautos istoriją, visų pirma turėjo omenyje „moky­\ntus vyrus ir galvočius“, istoriją, kuri papildytų Siaurės Euro­\npos tyrinėjimus."
+  citata_rodoma: |
+    Galbūt geriausiai šį faktą paaiškintų paties
+    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
+    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
+    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
+    daug kartų apsirinka“12. D. Poška, kalbėdamas apie poreikį ra­
+    šyti lietuvių tautos istoriją, visų pirma turėjo omenyje „moky­
+    tus vyrus ir galvočius“, istoriją, kuri papildytų Siaurės Euro­
+    pos tyrinėjimus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

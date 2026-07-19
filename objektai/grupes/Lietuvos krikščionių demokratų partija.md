@@ -114,7 +114,12 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
     lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
     ultraradikalieji voldemarininkai.
-  citata_rodoma: "Besąlyginis ulti-\nmatumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines\njėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“\nlyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir\nultraradikalieji voldemarininkai."
+  citata_rodoma: |
+    Besąlyginis ulti-
+    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
+    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
+    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
+    ultraradikalieji voldemarininkai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +140,11 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: "Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-\nginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono\nČerniaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-\ntijos gavo po dvi ministrų vietas."
+  citata_rodoma: |
+    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
+    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
+    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
+    tijos gavo po dvi ministrų vietas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -155,7 +164,10 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     skaudžiai nubausta. Krikščionys demokratai ir liaudininkai, prieš tai su-
     sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
     krikščionims demokratams gen. S. Raštikį.
-  citata_rodoma: "Krikščionys demokratai ir liaudininkai, prieš tai su-\nsitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą\nkrikščionims demokratams gen. S. Raštikį."
+  citata_rodoma: |
+    Krikščionys demokratai ir liaudininkai, prieš tai su-
+    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
+    krikščionims demokratams gen. S. Raštikį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -89,7 +89,12 @@ Nenurodyta
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: "„Mužikus nori padaryti\nbajorais, o mus — mužikais\", — šaukė bajorija. (Lietuvos bajo-\nrija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo\nskiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-\ndėti savo statuto, t. y. savo atskirų teisių)."
+  citata_rodoma: |
+    „Mužikus nori padaryti
+    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
+    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
+    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
+    dėti savo statuto, t. y. savo atskirų teisių).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

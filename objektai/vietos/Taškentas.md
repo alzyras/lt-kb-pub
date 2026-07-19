@@ -75,7 +75,8 @@ media_all_json: |-
     bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti
     komunikaciją tarp šalies gyventojų, bet ir turėjo slaptą kultūrinės ekspansi-
     jos aspektą.
-  citata_rodoma: "zuoti rusų kalbos kvalifikacijos tobulinimo kursus mokytojams, rajonuose"
+  citata_rodoma: |
+    zuoti rusų kalbos kvalifikacijos tobulinimo kursus mokytojams, rajonuose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

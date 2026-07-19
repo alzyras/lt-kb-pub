@@ -82,7 +82,15 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     240
     Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
     13 d.).
-  citata_rodoma: "Griebtasi šantažo – grasinta \nprijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, \no iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-\nją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva\n\nL I E T U V O S  I S T O R I J A\n240\nMichailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m."
+  citata_rodoma: |
+    Griebtasi šantažo – grasinta
+    prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities,
+    o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-
+    ją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva
+
+    L I E T U V O S  I S T O R I J A
+    240
+    Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -68,7 +68,13 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
     į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
     reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
     amžiaus.
-  citata_rodoma: "Užsieny jau daug kas manė, kad\njis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuo-\njautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems\nį Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-\nreikšti užuojautą\". Zigmantas mirė 1548 m., sulaukęs 81 m.\namžiaus."
+  citata_rodoma: |
+    Užsieny jau daug kas manė, kad
+    jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuo-
+    jautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems
+    į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
+    reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
+    amžiaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

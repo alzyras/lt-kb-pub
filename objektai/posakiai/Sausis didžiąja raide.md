@@ -124,7 +124,36 @@ media_all_json: |-
     kovo 11-ąją paskelbė atkurianti save kaip nepriklausomą valstybę,
     ne vienam galiūnui arba gudragalviui atrodė, kad ši maža šalis
     skelbia karą negailestingai didvalstybei ir beviltiškai pralaimės.
-  citata_rodoma: "AUKSCIAUSIOS TARYBOS GYNYBA 259\n\nr\n©\n£\n=\n=\n=\nn\n©\n>]\nal\no\n>\n=\n~\n2\nal\n\n## Puslapis 262\n\n„Kai rašoma Sausis didžiąja raide - tai atminties dar neprara-\ndusioje Lietuvoje aišku: kalbėsim apie Sausio 13-ąją, apie tą 1991\nmetų naktį, kai Lietuva nepuldama laimėjo ištvermės ir istikimy-\nbės mūšį. Ji liko savo kely tvirtai žengianti toliau į laisvę, pasau-\nlio užjausta dėl sukeltų aukų ir gerbiama už drąsą; o užpuolikas,\ndaužęs ir šaudęs beginklius žmones, subyrėjo į dulkes.\n\nKai Lietuva laisvai išrinkto parlamento sprendimu 1990 m."
+  citata_rodoma: |
+    AUKSCIAUSIOS TARYBOS GYNYBA 259
+
+    r
+    ©
+    £
+    =
+    =
+    =
+    n
+    ©
+    >]
+    al
+    o
+    >
+    =
+    ~
+    2
+    al
+
+    ## Puslapis 262
+
+    „Kai rašoma Sausis didžiąja raide - tai atminties dar neprara-
+    dusioje Lietuvoje aišku: kalbėsim apie Sausio 13-ąją, apie tą 1991
+    metų naktį, kai Lietuva nepuldama laimėjo ištvermės ir istikimy-
+    bės mūšį. Ji liko savo kely tvirtai žengianti toliau į laisvę, pasau-
+    lio užjausta dėl sukeltų aukų ir gerbiama už drąsą; o užpuolikas,
+    daužęs ir šaudęs beginklius žmones, subyrėjo į dulkes.
+
+    Kai Lietuva laisvai išrinkto parlamento sprendimu 1990 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

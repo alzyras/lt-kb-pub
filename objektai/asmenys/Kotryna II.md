@@ -169,7 +169,11 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
     ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.
-  citata_rodoma: "Nuo «nebylių\nseimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius\nir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,\nkurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai."
+  citata_rodoma: |
+    Nuo «nebylių
+    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
+    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
+    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -190,7 +194,10 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     Paskutinis respublikos karalius Stanislovas Augustas Ponia­
     tovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­
     tas, jos statytinis.
-  citata_rodoma: "Paskutinis respublikos karalius Stanislovas Augustas Ponia­\ntovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­\ntas, jos statytinis."
+  citata_rodoma: |
+    Paskutinis respublikos karalius Stanislovas Augustas Ponia­
+    tovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­
+    tas, jos statytinis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +218,11 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     trukus mirė carienė Elžbieta, caras Petras III buvo pašalintas
     nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji
     buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).
-  citata_rodoma: "Poniatauskui grįžus namo, ne-\n  trukus mirė carienė Elžbieta, caras Petras III buvo pašalintas\n  nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji\n  buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė)."
+  citata_rodoma: |
+    Poniatauskui grįžus namo, ne-
+      trukus mirė carienė Elžbieta, caras Petras III buvo pašalintas
+      nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji
+      buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -230,7 +241,10 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     Prancūzijos revoliucionieriais. Tada karalius kreipėsi į Kotryną,
     siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
     ji paliktų seimo padarytąsias reformas.
-  citata_rodoma: "Tada karalius kreipėsi į Kotryną,\n  siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik\n  ji paliktų seimo padarytąsias reformas."
+  citata_rodoma: |
+    Tada karalius kreipėsi į Kotryną,
+      siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
+      ji paliktų seimo padarytąsias reformas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -250,7 +264,10 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vado-
     vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-
     karų Europos konfliktus, ir jos žodis ten nusverdavo.
-  citata_rodoma: "Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vado-\n  vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-\n  karų Europos konfliktus, ir jos žodis ten nusverdavo."
+  citata_rodoma: |
+    Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vado-
+      vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-
+      karų Europos konfliktus, ir jos žodis ten nusverdavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

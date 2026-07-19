@@ -66,7 +66,8 @@ media_all_json: |-
   citata_originali: |
     Vilnius, 1976; Millennium of Lithuania:
     Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009; H. Olszewski.
-  citata_rodoma: "Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009;"
+  citata_rodoma: |
+    Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009;
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

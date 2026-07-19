@@ -113,7 +113,20 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę.
-  citata_rodoma: "Artilerija\nto meto Lietuvos kariuomenėje dar nevai-\ndino didesnio savarankiško vaidmens, bet\nbuvo įprastas atributas, kuris mūšio lauke\nvis dėlto praversdavo. Pašauktinės kariuo-\nmenės silpnąsias savybes (santykinai nedi-\ndelę kovinę patirtį, ne visada patenkinamą\ndiscipliną) bandyta kompensuoti samdi-\nniais - kariais profesionalais.\n\nTotorių įsiveržimas\n\n1506 m."
+  citata_rodoma: |
+    Artilerija
+    to meto Lietuvos kariuomenėje dar nevai-
+    dino didesnio savarankiško vaidmens, bet
+    buvo įprastas atributas, kuris mūšio lauke
+    vis dėlto praversdavo. Pašauktinės kariuo-
+    menės silpnąsias savybes (santykinai nedi-
+    delę kovinę patirtį, ne visada patenkinamą
+    discipliną) bandyta kompensuoti samdi-
+    niais - kariais profesionalais.
+
+    Totorių įsiveržimas
+
+    1506 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

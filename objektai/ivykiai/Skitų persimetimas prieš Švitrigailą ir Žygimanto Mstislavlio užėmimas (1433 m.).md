@@ -198,7 +198,29 @@ Nenurodyta
     ketinusi išvyti Žygimantą ir
     sugrąžinti į valdžią Lietuvoje
     Boleslovą.
-  citata_rodoma: "Tik rudens\npabaigoje paliko Žygimantas\nŽ yg im a n ta s\ntraukia\nsavo slėptuves ir užpuolė su\n/ M stisla vlį\nmenka savo kariuomene, pa­\njėgiančia tik nuostolių priešui\npridaryti, kurias ne kurias Boleslovo valdas. Bemokė­\ndamas kaimus, priėjo ir Mstislavlį: apsupęs atkakliai\nI . V\n451\nSkitai, p a k v ie s ti k o ­\nv o ti p rieš Ž yg im a n tą ,\nn u k reip ia\ngin klu s\nprieš Š vitrigailą\n\n## Puslapis 450\n\nginamą miestą, po mėnesio jį užėmė, o tada patraukė\nį žiemos stovyklą."
+  citata_rodoma: |
+    Tik rudens
+    pabaigoje paliko Žygimantas
+    Ž yg im a n ta s
+    traukia
+    savo slėptuves ir užpuolė su
+    / M stisla vlį
+    menka savo kariuomene, pa­
+    jėgiančia tik nuostolių priešui
+    pridaryti, kurias ne kurias Boleslovo valdas. Bemokė­
+    damas kaimus, priėjo ir Mstislavlį: apsupęs atkakliai
+    I . V
+    451
+    Skitai, p a k v ie s ti k o ­
+    v o ti p rieš Ž yg im a n tą ,
+    n u k reip ia
+    gin klu s
+    prieš Š vitrigailą
+
+    ## Puslapis 450
+
+    ginamą miestą, po mėnesio jį užėmė, o tada patraukė
+    į žiemos stovyklą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

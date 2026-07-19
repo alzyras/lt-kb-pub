@@ -69,7 +69,8 @@ Savarankiškas prisitaikymo ir atsargumo posakis.
     Kad būčiau sugavęs, kiek čia būtų piktumo, bar­
     nių. Ir vis į mane atsilieptų. Geriau: „Tarnauk Dievui, neužmiršk ir
     velnio“ .
-  citata_rodoma: "Geriau: „Tarnauk Dievui, neužmiršk ir velnio“ ."
+  citata_rodoma: |
+    Geriau: „Tarnauk Dievui, neužmiršk ir velnio“ .
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

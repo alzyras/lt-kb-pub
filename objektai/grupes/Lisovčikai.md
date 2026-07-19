@@ -63,7 +63,10 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
     tilerijos baterijų pozicijas, išžudė
     jų tarnybas ir sugadino pabūk-
     lus.
-  citata_rodoma: "J. K. Chodkevičius pasiuntė ke-\nlias raitarų ir „lisovčikų“ vėliavas\nį kontrataką."
+  citata_rodoma: |
+    J. K. Chodkevičius pasiuntė ke-
+    lias raitarų ir „lisovčikų“ vėliavas
+    į kontrataką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

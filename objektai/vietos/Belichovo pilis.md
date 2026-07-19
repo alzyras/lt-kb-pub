@@ -91,7 +91,18 @@ Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šia
     liese buvusią šventą girią ir šventovę; šiandien tą Šventą
     vietą primena Heiligenmalde, esanti į pietus nuo Christ­
     burgo.
-  citata_rodoma: "Taip\npat šioje provincijoje būva pilaičių, iš dalies pastatytų\nlapsisaugoti nuo priešų puolimų, o iš dalies — keliaujan­\ntiems ponams apsistoti. Belichovo pilis, kilmingojo Jono\nbuveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-\nlochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat\nMokrau kaimo. Ant Grevožos kalno, kur dabar stūkso\nChristburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­\nliese buvusią šventą girią ir šventovę; šiandien tą Šventą\nvietą primena Heiligenmalde, esanti į pietus nuo Christ­\nburgo."
+  citata_rodoma: |
+    Taip
+    pat šioje provincijoje būva pilaičių, iš dalies pastatytų
+    lapsisaugoti nuo priešų puolimų, o iš dalies — keliaujan­
+    tiems ponams apsistoti. Belichovo pilis, kilmingojo Jono
+    buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-
+    lochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat
+    Mokrau kaimo. Ant Grevožos kalno, kur dabar stūkso
+    Christburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­
+    liese buvusią šventą girią ir šventovę; šiandien tą Šventą
+    vietą primena Heiligenmalde, esanti į pietus nuo Christ­
+    burgo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

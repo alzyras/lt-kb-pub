@@ -113,7 +113,14 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
     kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
     ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
     duoti naujai jėgai^1 ).
-  citata_rodoma: "Todėl ir\nnenuostabu, kad žemaičiai savo vakarykščiams priešams\nėmė daryti ištikimybės priesaikas. Taip 1384 metų vasa­\nrio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir\nkt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­\nventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­\nduoti naujai jėgai^1 )."
+  citata_rodoma: |
+    Todėl ir
+    nenuostabu, kad žemaičiai savo vakarykščiams priešams
+    ėmė daryti ištikimybės priesaikas. Taip 1384 metų vasa­
+    rio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir
+    kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
+    ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
+    duoti naujai jėgai^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -99,7 +99,13 @@ media_all_json: |-
     **_Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pra­
     džioje_** **(AkMD, t. 34, 1970, 85-96 p.);** **_Slaptos studentų draugijos Vilniaus
     Medicinos-Chirurgijos Akademijoje 1832-1841 m._** **(AkMD, t. 4, 1958, 135-**
-  citata_rodoma: ", 57-74 p.**\n(^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­\nžiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo\nknyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**\n(^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,\nt."
+  citata_rodoma: |
+    , 57-74 p.**
+    (^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­
+    žiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo
+    knyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**
+    (^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,
+    t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

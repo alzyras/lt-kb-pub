@@ -139,7 +139,14 @@ Nenurodyta
     Savo ruožtu totoriai šaudė iš lankų aukšta
     trajektorija ir apipylė tankiai sustojusias
     LDK kariuomenės vėliavas strėlių kruša.
-  citata_rodoma: "Tuo\ntarpu kiti LDK kariai dviejose vietose rentė\nperkėlas per upę. Priedangą jų darbui teikė\ndviejų patrankų, šautuvų ir lankų ugnis.\nSavo ruožtu totoriai šaudė iš lankų aukšta\ntrajektorija ir apipylė tankiai sustojusias\nLDK kariuomenės vėliavas strėlių kruša."
+  citata_rodoma: |
+    Tuo
+    tarpu kiti LDK kariai dviejose vietose rentė
+    perkėlas per upę. Priedangą jų darbui teikė
+    dviejų patrankų, šautuvų ir lankų ugnis.
+    Savo ruožtu totoriai šaudė iš lankų aukšta
+    trajektorija ir apipylė tankiai sustojusias
+    LDK kariuomenės vėliavas strėlių kruša.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -159,7 +166,8 @@ Nenurodyta
     žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
     ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
     liai su lankais, paruoštais smūgiui.
-  citata_rodoma: "Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui."
+  citata_rodoma: |
+    Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

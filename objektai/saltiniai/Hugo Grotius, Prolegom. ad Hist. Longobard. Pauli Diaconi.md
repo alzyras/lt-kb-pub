@@ -65,7 +65,8 @@ Hugo Grotius.
     dų“'. Rytuose ji ribojosi su Sudargija, pietuose — su
     Barta, vakaruose — su Natangija ir Sambija, o šiaurė­
     je — su Salavija.
-  citata_rodoma: "3 Hugo Grotius. Prolegom. ad Hist. Longobard. Pauli Diaconi."
+  citata_rodoma: |
+    3 Hugo Grotius. Prolegom. ad Hist. Longobard. Pauli Diaconi.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

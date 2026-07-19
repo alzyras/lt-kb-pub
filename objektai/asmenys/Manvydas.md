@@ -353,7 +353,13 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
     Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
     turtus.
-  citata_rodoma: "Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus."
+  citata_rodoma: |
+    Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
+    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
+    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
+    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
+    turtus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -395,7 +401,13 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
     tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
     pančius vienas ant kito.
-  citata_rodoma: "Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir\nJaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės\nbartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais."
+  citata_rodoma: |
+    Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
+    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
+    bartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

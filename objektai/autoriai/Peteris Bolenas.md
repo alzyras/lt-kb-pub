@@ -96,7 +96,12 @@ media_all_json: |-
     elio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­
     bais, archeologų radiniais, savo ir kitų kraštotyrininkų surink­
     ta tautosaka, etnografine medžiaga.
-  citata_rodoma: "savo meto istorikų Johano Foigto, Nikolajaus Karamzi-\nno, Adomo Naruševičiaus, Tado Cackio, Joachimo Lelevelio,\nKsavero Bogušo, kalbininkų Johano Severino Faterio, Samu­\nelio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­\nbais,"
+  citata_rodoma: |
+    savo meto istorikų Johano Foigto, Nikolajaus Karamzi-
+    no, Adomo Naruševičiaus, Tado Cackio, Joachimo Lelevelio,
+    Ksavero Bogušo, kalbininkų Johano Severino Faterio, Samu­
+    elio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­
+    bais,
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

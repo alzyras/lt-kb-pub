@@ -58,7 +58,11 @@ media_all_json: |-
     Livonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla
     lotyniška restauracija parodė, kad analų originalo tekstu skubotas
     Stryjko vskis nesinaudojo tiksliai.
-  citata_rodoma: "Šitaip pagal Stryjkovskį buvo restauruoti\nLivonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla\nlotyniška restauracija parodė, kad analų originalo tekstu skubotas\nStryjko vskis nesinaudojo tiksliai."
+  citata_rodoma: |
+    Šitaip pagal Stryjkovskį buvo restauruoti
+    Livonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla
+    lotyniška restauracija parodė, kad analų originalo tekstu skubotas
+    Stryjko vskis nesinaudojo tiksliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

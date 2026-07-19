@@ -1262,7 +1262,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas Algirdo ryšys su motina ir gimimo data. Vardo reikšmė palikta su Narbuto atribucija, nepridedant kitų genealoginių duomenų.'
   pagrindžia:
-    - c-171401
+    - c-160298
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Marija (Algirdo žmona).md#claim-t-87545|Marija (Algirdo žmona)]]: Marija buvo Tverės kunigaikštytė ir Algirdo žmona.
@@ -1902,7 +1902,11 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     pradėjo veikti. Netikėtai užėmęs Vilnių, jis pasikvietė Algir-
     dą ir užleido jam valdyti visą Vilniaus kunigaikštystę. Jaunu-
     čiui buvo duota Zaslaulio kunigaikštystė.
-  citata_rodoma: "Kęstučiui iš Trakų buvo visai netoli Vilnius, tad jisai ir\npradėjo veikti. Netikėtai užėmęs Vilnių, jis pasikvietė Algir-\ndą ir užleido jam valdyti visą Vilniaus kunigaikštystę. Jaunu-\nčiui buvo duota Zaslaulio kunigaikštystė."
+  citata_rodoma: |
+    Kęstučiui iš Trakų buvo visai netoli Vilnius, tad jisai ir
+    pradėjo veikti. Netikėtai užėmęs Vilnių, jis pasikvietė Algir-
+    dą ir užleido jam valdyti visą Vilniaus kunigaikštystę. Jaunu-
+    čiui buvo duota Zaslaulio kunigaikštystė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1920,7 +1924,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
     das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
-  citata_rodoma: "Vyriausias sūnus, Man-\nv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą\nir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-\ndas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų\npasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą."
+  citata_rodoma: |
+    Vyriausias sūnus, Man-
+    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
+    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
+    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
+    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
 
@@ -2141,7 +2150,17 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
     ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
     riteriai, gviešęsi grobio ir valdžios.
-  citata_rodoma: "Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -\nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-\nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės\nneįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­\ndęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl\nko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino\nriteriai, gviešęsi grobio ir valdžios."
+  citata_rodoma: |
+    Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­
+    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
+    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
+    riteriai, gviešęsi grobio ir valdžios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2173,6 +2192,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176279
+    - t-198008
 - id: c-160299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2244,7 +2264,19 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     i
     Grzybowski knygoje Skarb
     nieoszacowany O O. Franciszkanów.
-  citata_rodoma: "Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­\nnių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti \nLietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­\nse]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­\ntu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­\nmu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje \nsteigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats \ntapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­\ngi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,\ni\nGrzybowski knygoje Skarb \nnieoszacowany O O."
+  citata_rodoma: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2330,7 +2362,19 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
-  citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
+  citata_rodoma: |
+    V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2441,7 +2485,11 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
-  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
+  citata_rodoma: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -2579,7 +2627,16 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     vaidų, gal dėl to, kad Jaunutis nerodė noro keisti pa­
     dėtį, o gal dėl to, kad kiti didikai bei broliai palaikė
     Algirdą.
-  citata_rodoma: "Kęstutis\nsiūlė valdžią Algirdui, kaip vyresniajam, Algirdas —\nKęstučiui, kuris vienas pats pašalinęs Jaunutį. Galop\nabu sutarė, kad Algirdas gausiąs didžiojo kunigaikščio\ntitulą, o visa kita jie dalysią lygiomis, tiktai priešai\nbūsią abiem bendri. Jaunučiui, paleistam į laisvę, ati­\ndavė Zaslavlio kunigaikštystę, kuri vėliau, kadangi Jau­\nnutis neturėjo sūnaus, kaip motinos paveldima žemė\natiteko Glebavičiams."
+  citata_rodoma: |
+    Kęstutis
+    siūlė valdžią Algirdui, kaip vyresniajam, Algirdas —
+    Kęstučiui, kuris vienas pats pašalinęs Jaunutį. Galop
+    abu sutarė, kad Algirdas gausiąs didžiojo kunigaikščio
+    titulą, o visa kita jie dalysią lygiomis, tiktai priešai
+    būsią abiem bendri. Jaunučiui, paleistam į laisvę, ati­
+    davė Zaslavlio kunigaikštystę, kuri vėliau, kadangi Jau­
+    nutis neturėjo sūnaus, kaip motinos paveldima žemė
+    atiteko Glebavičiams.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2634,7 +2691,16 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     į
     p ilies
     v a r tu s
-  citata_rodoma: "Mat rusai nuo senų senovės įpratę Velykų dieną do­\nvanoti vienas kitam margutį kaip bičiuliškumo ženklą.\nAlgirdas, nors viešai laikėsi stabmeldžių apeigų, ta­\nčiau, neseniai savo žmonos Julijonos, Vitebsko kuni­\ngaikščio dukters, noru sutikęs priimti krikščionybę, ne­\natmetė rusų apeigų ir rusams Vitebske pastatė porą\nšventovių. Palankumą krikščionybei jis, be to, parodė,\nžiauriai tuo metu atkeršydamas už krikščionių šventi­\nkų nužudymą."
+  citata_rodoma: |
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių. Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2682,7 +2748,38 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     jos seniūnu Goštautą. Visas valachų įgulas jis sumušė,
     o Nestaną, valdžiusį Teodoro vardu Podolę, paėmė Ka-
     menece į nelaisvę ir išsiuntė į Vilnių.
-  citata_rodoma: "Kai mirė \nbrolis, jo įpėdiniu, Algirdo remiamas, tapo Naugardu-\nK o n sta n tin a s \nK a rijo ­\nta itis, \nA lg ird o \nb ro ­\nlėn as, \nk v ie č ia m a s \nį \nL e n k ijo s ka ra liu s\n23 o\n\nko kunigaikštis Teodoras Ka- \nA lg ird a s \nsu tra m d o \nrijotaitis; kadangi šis, įsigi-\nm a išta u ja n tį b ro lėn ą \njęs naujų žemių, ėmė nebe­\nsiskaityti su Lietuvos didžio­\njo kunigaikščio senosiomis teisėmis, buvo išvarytas iš \nvisų valdų. Karą prieš maištininką pradėjo pats Algir­\ndas. Kadangi Teodoras buvo išvykęs (įkurdinęs pily­\nse stiprias valachų įgulas, jis leidosi iš Podolės pas \nVengrijos karalių pagalbos, išsiveždamas visus pini­\ngus ir auksą) ir neskubėjo grįžti su kariuomene, Al­\ngirdas užėmė reikšmingas Braclavo, Smotričiaus, So- \nkoleco, Skalos, Kameneco, Červonogrado pilis, vienur \nstodamas į atvirą kovą, kitur greitumu palauždamas \ngynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė \njos seniūnu Goštautą."
+  citata_rodoma: |
+    Kai mirė
+    brolis, jo įpėdiniu, Algirdo remiamas, tapo Naugardu-
+    K o n sta n tin a s
+    K a rijo ­
+    ta itis,
+    A lg ird o
+    b ro ­
+    lėn as,
+    k v ie č ia m a s
+    į
+    L e n k ijo s ka ra liu s
+    23 o
+
+    ko kunigaikštis Teodoras Ka-
+    A lg ird a s
+    su tra m d o
+    rijotaitis; kadangi šis, įsigi-
+    m a išta u ja n tį b ro lėn ą
+    jęs naujų žemių, ėmė nebe­
+    siskaityti su Lietuvos didžio­
+    jo kunigaikščio senosiomis teisėmis, buvo išvarytas iš
+    visų valdų. Karą prieš maištininką pradėjo pats Algir­
+    das. Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
+    se stiprias valachų įgulas, jis leidosi iš Podolės pas
+    Vengrijos karalių pagalbos, išsiveždamas visus pini­
+    gus ir auksą) ir neskubėjo grįžti su kariuomene, Al­
+    girdas užėmė reikšmingas Braclavo, Smotričiaus, So-
+    koleco, Skalos, Kameneco, Červonogrado pilis, vienur
+    stodamas į atvirą kovą, kitur greitumu palauždamas
+    gynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė
+    jos seniūnu Goštautą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2710,7 +2807,17 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
     gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
     tus.
-  citata_rodoma: "Kryžiuočiai, vedami Sembos fogto, savo ruož­\ntu, negalėdami pasivyti traukiančio namo Kęstučio, nu­\nsiaubė Ariogalos žemes. Kai Algirdas bei Aleksandras\nKarijotaitis su keliomis žygio voromis padalyta kariuo­\nmene iš karto nuniokojo daugelį Prūsijos vietų ir, su­\ngriovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų\nmiestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­\ngistras irgi sėkmingai nusiaubė didelius Lietuvos plo­\ntus. Šitaip praėjo ir kiti metai, pakaitomis vieniems\nkitus puldinėjant."
+  citata_rodoma: |
+    Kryžiuočiai, vedami Sembos fogto, savo ruož­
+    tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
+    siaubė Ariogalos žemes. Kai Algirdas bei Aleksandras
+    Karijotaitis su keliomis žygio voromis padalyta kariuo­
+    mene iš karto nuniokojo daugelį Prūsijos vietų ir, su­
+    griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų
+    miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
+    gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
+    tus. Šitaip praėjo ir kiti metai, pakaitomis vieniems
+    kitus puldinėjant.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2741,7 +2848,19 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir
     pavertė Lenkijos sritimi bei Lenkijos karalių nuosavy­
     be.
-  citata_rodoma: "Algirdas, Lietuvos didysis kuni­\ngaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių\nsienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš\nšių žemių, po to padalijęs brolio Karijoto sūnums kraš­\ntą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir\nkitas pilis\nir jas sutvirtinę, nesigailėdami didelių iš­\nlaidų. Mirus Konstantinui Karijotaičiui, Podolės kuni­\ngaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.\nKadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš­\nčiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­\nda, paskirdamas vietininku Goštautą."
+  citata_rodoma: |
+    Algirdas, Lietuvos didysis kuni­
+    gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių
+    sienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš
+    šių žemių, po to padalijęs brolio Karijoto sūnums kraš­
+    tą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir
+    kitas pilis
+    ir jas sutvirtinę, nesigailėdami didelių iš­
+    laidų. Mirus Konstantinui Karijotaičiui, Podolės kuni­
+    gaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.
+    Kadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš­
+    čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­
+    da, paskirdamas vietininku Goštautą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2780,7 +2899,25 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     kia ieškoti tokių vaistų, kurie visiems laikams išgydy­
     tų negalę, sušaukė, susiruošęs traukti į Prūsiją, Vilniuje
     lietuvių seimą.
-  citata_rodoma: "Kas be ko, jie visi neišpasakytai trokštą, kad\nkaralius asmeniškai juos valdytų, tačiau jie to nesitiki,\n511\n\n## Puslapis 510\n\nn es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad\nkaralius ilgam  atitrūktų nuo jų valstybės reikalų. Štai\nto d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­\nd a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,\nSlucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais\nAlgirdo proanūkį. Karalius, g erai žinodamas, kiek rū­\npesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,\nnutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko\ngero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­\nrai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­\nsakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s\nsumanymus, g an a tolim us jų reikalavimams."
+  citata_rodoma: |
+    Kas be ko, jie visi neišpasakytai trokštą, kad
+    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
+    511
+
+    ## Puslapis 510
+
+    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
+    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
+    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
+    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
+    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
+    Algirdo proanūkį. Karalius, g erai žinodamas, kiek rū­
+    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
+    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
+    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
+    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
+    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
+    sumanymus, g an a tolim us jų reikalavimams.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2864,7 +3001,14 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     dysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras,
     paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­
     klusti didžiajam kunigaikščiui Algirduil7.
-  citata_rodoma: "Kunigaikštis Teodo­\nras išgirdo, kad jo brolių Podolės žemėje nebėra gy­\nvųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15\nO tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­\ndysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras, \npaėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­\nklusti didžiajam kunigaikščiui Algirduil7."
+  citata_rodoma: |
+    Kunigaikštis Teodo­
+    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
+    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15
+    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
+    dysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras,
+    paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­
+    klusti didžiajam kunigaikščiui Algirduil7.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -3043,7 +3187,19 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     i
     Grzybowski knygoje Skarb
     nieoszacowany O O. Franciszkanów.
-  citata_rodoma: "Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­\nnių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti \nLietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­\nse]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­\ntu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­\nmu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje \nsteigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats \ntapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­\ngi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,\ni\nGrzybowski knygoje Skarb \nnieoszacowany O O."
+  citata_rodoma: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
 
@@ -3259,7 +3415,36 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     padaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos
     ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
-  citata_rodoma: "26\nKazimiero IV, kai jis buvo dar Lie­\ntuvos didysis kunigaikštis, privile­\ngijoje, 1440 metais duotoje Romos\nkatalikų ir stačiatikių tikėjimo Vil­\nniaus miestiečiams, kuriems leidžia­\nma laisvai prekiauti nemokant mui­\nto mokesčio visoje Lietuvos valsty­\nbėje, pasakyta, kad tai yra senos lais­\nvės, senolio Algirdo ir jo įpėdinių\nsuteiktos Vilniui, atnaujinimas. Con­\ncedimus ac darnus hanc libertatem, quod\nper totum nostrum Magnum Ducatum\nLithuaniae et Russiae nullum thelo-\nneum a quibuscumque mercantiis darė\net solvere tenebuntur; sed juxta consu­\netudinem antiquam a Nostris Praede­\ncessoribus et signanter Serenissimis\nPrincipibus Avo videlicet Olgerdo,\nolim Magno Duce Lithuaniae et Domi­\nno Vladislao Rege Poloniae, tunc autem\n32\n\n## Puslapis 49\n\nI  KNYGA\npadaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos\nypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­\ngonims skiepyti krikščionišką graikų apeigų tikėjimą."
+  citata_rodoma: |
+    26
+    Kazimiero IV, kai jis buvo dar Lie­
+    tuvos didysis kunigaikštis, privile­
+    gijoje, 1440 metais duotoje Romos
+    katalikų ir stačiatikių tikėjimo Vil­
+    niaus miestiečiams, kuriems leidžia­
+    ma laisvai prekiauti nemokant mui­
+    to mokesčio visoje Lietuvos valsty­
+    bėje, pasakyta, kad tai yra senos lais­
+    vės, senolio Algirdo ir jo įpėdinių
+    suteiktos Vilniui, atnaujinimas. Con­
+    cedimus ac darnus hanc libertatem, quod
+    per totum nostrum Magnum Ducatum
+    Lithuaniae et Russiae nullum thelo-
+    neum a quibuscumque mercantiis darė
+    et solvere tenebuntur; sed juxta consu­
+    etudinem antiquam a Nostris Praede­
+    cessoribus et signanter Serenissimis
+    Principibus Avo videlicet Olgerdo,
+    olim Magno Duce Lithuaniae et Domi­
+    no Vladislao Rege Poloniae, tunc autem
+    32
+
+    ## Puslapis 49
+
+    I  KNYGA
+    padaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos
+    ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
+    gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -3306,7 +3491,14 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     dysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras,
     paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­
     klusti didžiajam kunigaikščiui Algirduil7.
-  citata_rodoma: "Kunigaikštis Teodo­\nras išgirdo, kad jo brolių Podolės žemėje nebėra gy­\nvųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15\nO tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­\ndysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras, \npaėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­\nklusti didžiajam kunigaikščiui Algirduil7."
+  citata_rodoma: |
+    Kunigaikštis Teodo­
+    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
+    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15
+    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
+    dysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras,
+    paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­
+    klusti didžiajam kunigaikščiui Algirduil7.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
 
@@ -3487,7 +3679,11 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     įsiviešpatavo anoje rytų erdvėje iki Okos aukštupių (anapus Dniep­
     ro). Lietuva tada buvo ofenzyvoje. Tad rivalizuojanti Maskva
     Algirdui dar nepajėgė aktyviai atsispirti.
-  citata_rodoma: "Atskirą didelę epochą sudarė Lietuvos istorijoje, kai lietuviai\nįsiviešpatavo anoje rytų erdvėje iki Okos aukštupių (anapus Dniep­\nro). Lietuva tada buvo ofenzyvoje. Tad rivalizuojanti Maskva\nAlgirdui dar nepajėgė aktyviai atsispirti."
+  citata_rodoma: |
+    Atskirą didelę epochą sudarė Lietuvos istorijoje, kai lietuviai
+    įsiviešpatavo anoje rytų erdvėje iki Okos aukštupių (anapus Dniep­
+    ro). Lietuva tada buvo ofenzyvoje. Tad rivalizuojanti Maskva
+    Algirdui dar nepajėgė aktyviai atsispirti.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -3550,7 +3746,17 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
     ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
     riteriai, gviešęsi grobio ir valdžios.
-  citata_rodoma: "Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -\nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-\nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės\nneįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­\ndęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl\nko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino\nriteriai, gviešęsi grobio ir valdžios."
+  citata_rodoma: |
+    Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­
+    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
+    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
+    riteriai, gviešęsi grobio ir valdžios.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
 
@@ -3751,7 +3957,19 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
-  citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
+  citata_rodoma: |
+    V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
 
@@ -3813,7 +4031,11 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
-  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
+  citata_rodoma: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
 
@@ -3892,34 +4114,36 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   puslapiai: "PDF 214"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
-    Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
-    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
+    Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
+    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
+    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
+    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
+    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
+    nugalėjo ir paėmė nesuskaičiuojamus turtus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198008
 - id: c-171402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 273"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
   citata_originali: |
-    Viena tokia buvo Didžiojoje
-    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
-    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
-    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
-    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
-    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
-    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
-    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
-    dyklos vietoje įkūrė cerkvę su šventiku.
+    Tai davė jiems dingstį pasista­
+    tydinti pilį, nes Kernavė buvo visiškai sunaikinta. O kadangi
+    duoklės susidėjo daugiausia iš miško gėrybių, nes dirbamos
+    žemės dirvonavo trūkstant išblaškytų ir už Neries pabėgusių
+    žmonių, todėl valdovų ir krašto gyventojų verslas buvo lauki­
+    nių žvėrių medžioklė. Dėl šios priežasties ir tuo metu atsirado
+    Trakų pavadinimas. Vėliau Lietuvos kunigaikščiai, išstūmę ru­
+    sinus iš tos krašto dalies, pasilaikė tą pilį; tenai žmonės, taikiai
+    ir laisvai gyvendami, ilgai džiaugėsi palaiminga būtimi; šito
+    liudytojai buvo miestas, pilis ir šventyklos, garsėjusios labai
+    gražiais ir nuostabą keliančiais pastatais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

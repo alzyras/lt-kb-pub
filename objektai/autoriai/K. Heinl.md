@@ -65,7 +65,13 @@ media_all_json: |-
     valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,
     kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
     taip pat buvo didžiausia.
-  citata_rodoma: "Ir teisingai pastebi K. Heinl: „Nei vienam jo pirmtakūnų tą pa­\ndaryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­\nkė savo tikslo kaip jis“^2 ). Krašto viduje jis tapo absoliutišku\nvaldovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,\nkaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka\ntaip pat buvo didžiausia."
+  citata_rodoma: |
+    Ir teisingai pastebi K. Heinl: „Nei vienam jo pirmtakūnų tą pa­
+    daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­
+    kė savo tikslo kaip jis“^2 ). Krašto viduje jis tapo absoliutišku
+    valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,
+    kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
+    taip pat buvo didžiausia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

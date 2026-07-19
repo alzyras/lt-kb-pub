@@ -95,7 +95,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
     tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
     žemėse priemone.
-  citata_rodoma: "tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų"
+  citata_rodoma: |
+    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +113,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
     buvo įteisinta pačių Lietuvos bajorų reikalavimu, tai buvo Lietuvos visuo-
     menės pasirinkimas, o ne polonizacija.
-  citata_rodoma: "statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba"
+  citata_rodoma: |
+    statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +131,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
     70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
     kiams, įvertinta kaip pavojus visai tautai.
-  citata_rodoma: "ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti"
+  citata_rodoma: |
+    ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

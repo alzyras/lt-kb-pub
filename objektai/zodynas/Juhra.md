@@ -112,7 +112,9 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
     girdai, Eygirdy, Eigirdžiai, Eygirdzie, Daugirdai, Dowgirdy, Negir-
     biai, Negirby, Skauzgiriai, Szkowsgirdy, Vozgirdai, Wazgirdy, Viz­
     girdai, Wizgirdy etc.
-  citata_rodoma: "Lietuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,\ntaip pat ir latvių kalba3."
+  citata_rodoma: |
+    Lietuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,
+    taip pat ir latvių kalba3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

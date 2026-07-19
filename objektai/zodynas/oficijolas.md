@@ -82,7 +82,33 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
     rem morem, et privilegia urbi concessa, petentes suo, et Civi­
     tatis praefatae nomine ut ab buiusmodi de novo usurpata Ca­
     pituli iurisdictione liberi, et exempti pronunciarentur.
-  citata_rodoma: "Kad mus \npasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos \nmūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­\ngųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­\nnyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip \nsavo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai, \npati kapitula prieš Vilniaus miesto gyventojus nepagrįstai \nišplečia ir faktiškai juos [bausdama] negaliojančiomis baus­\nmėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai \nanksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono \nVilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­\nreigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks- \nkomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­\nmą, kadangi privalo paklusti gausybei teisėjų ir būti jų \nbaudžiami pagal tos [kapitulos] tvarką, ypač esant grynai \npasaulietiniams reikalams, iškilusiems ir vykstantiems tarp \npasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­\nka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o \ncivilinei įstaigai. Kaip minėtoji kapitula dėl atimtos iš kapitu­\nlos valdinių degtinės ir mažesnės, negu nurodyta, iškeptos\n379\n\n## Puslapis 396\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nsententijs excommunicationis innodasset."
+  citata_rodoma: |
+    Kad mus
+    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
+    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
+    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
+    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
+    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
+    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
+    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
+    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai
+    anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono
+    Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­
+    reigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks-
+    komunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­
+    mą, kadangi privalo paklusti gausybei teisėjų ir būti jų
+    baudžiami pagal tos [kapitulos] tvarką, ypač esant grynai
+    pasaulietiniams reikalams, iškilusiems ir vykstantiems tarp
+    pasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­
+    ka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o
+    civilinei įstaigai. Kaip minėtoji kapitula dėl atimtos iš kapitu­
+    los valdinių degtinės ir mažesnės, negu nurodyta, iškeptos
+    379
+
+    ## Puslapis 396
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    sententijs excommunicationis innodasset.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

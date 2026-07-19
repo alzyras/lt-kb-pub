@@ -95,7 +95,16 @@ Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi
     tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
     ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
     vuose išlikę duomenys iš XIII amžiaus.
-  citata_rodoma: "Arntas (Arndt) 17 pa-\nteilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­\nmiečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,\nsubyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas."
+  citata_rodoma: |
+    Arntas (Arndt) 17 pa-
+    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
+    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
+    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
+    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
+    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
+    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
+    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
+    17 Lieflandische Geschichte (1757 metų leidimas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

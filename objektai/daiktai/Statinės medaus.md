@@ -120,7 +120,16 @@ Nenurodyta
     pasodino pas juos vietininku Pinsko kunigaikštį Juri­
     jų, pramintą Nosimi8, o pats su visomis pajėgomis nu­
     žygiavo prieš Naugardą.
-  citata_rodoma: "Štai kas nutiko po šito dangaus ženklo didžiajam \nkunigaikščiui Vytautui, draugiškai sugyvenusiam su \nsavo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi \nDimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-\ndausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­\nnius, kad suieškojęs nubaustų kaltininkus bei atlygintų \nnuostolius severskiečiams."
+  citata_rodoma: |
+    Štai kas nutiko po šito dangaus ženklo didžiajam
+    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
+    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
+    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
+    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
+    verskiečius, atėmė iš jų du bebrus ir tris statines me-
+    dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
+    nius, kad suieškojęs nubaustų kaltininkus bei atlygintų
+    nuostolius severskiečiams.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

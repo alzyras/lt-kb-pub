@@ -85,7 +85,9 @@ Snorro.
     riba ligi sienos su Prūsija ir pagal šią sieną, išskiriant
     Dobrynės ir Michalovo žemes, net iki Vyslos, kur yra se­
     nasis Kulmas.
-  citata_rodoma: "3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla\nSaga."
+  citata_rodoma: |
+    3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla
+    Saga.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

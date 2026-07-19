@@ -84,7 +84,12 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
     tutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur
     nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų
     paliktos, kaip buvusios.
-  citata_rodoma: "Sužinojęs apie\ntai, Muravjovas įsakė tikrinamosioms komisijoms, kad už servi-\ntutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur\nnors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų\npaliktos, kaip buvusios."
+  citata_rodoma: |
+    Sužinojęs apie
+    tai, Muravjovas įsakė tikrinamosioms komisijoms, kad už servi-
+    tutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur
+    nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų
+    paliktos, kaip buvusios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -104,7 +109,10 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
     čius. Valstiečiai, eidami baudžiavą, turėjo vadinamuosius
     servitutus, t. y. teises dvaro miškuose ganyti, šienau-
     ti, dvaro ežeruose žvejoti ir giriose pasikirsti malkų.
-  citata_rodoma: "Valstiečiai, eidami baudžiavą, turėjo vadinamuosius\nservitutus, t. y. teises dvaro miškuose ganyti, šienau-\nti, dvaro ežeruose žvejoti ir giriose pasikirsti malkų."
+  citata_rodoma: |
+    Valstiečiai, eidami baudžiavą, turėjo vadinamuosius
+    servitutus, t. y. teises dvaro miškuose ganyti, šienau-
+    ti, dvaro ežeruose žvejoti ir giriose pasikirsti malkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

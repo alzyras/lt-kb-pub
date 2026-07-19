@@ -122,7 +122,10 @@ Nenurodyta
     netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
     Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
     „kurie yra veikale „Tūkstantis ir viena naktis“28 29.
-  citata_rodoma: "21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,\nįvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-\n560."
+  citata_rodoma: |
+    21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
+    įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-
+    560.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -143,7 +146,10 @@ Nenurodyta
     kovskio, Aleksandro Gvaninio, Jono Lasickio, Alberto Vijū-
     ko-Kojalavičiaus ir daugelio kitų, kurių darbai kartu yra reikš­
     mingi ir kaip lietuvių mitologijos šaltinis.
-  citata_rodoma: "14 Daukantas S. Raštai. -  T. 1/ Tekstą parengė B. Vanagienė. Su­\ndarė, įvadą ir paaiškinimus parašė V. Merkys. -  V, 1976. -  P. 81-99,\n488-560."
+  citata_rodoma: |
+    14 Daukantas S. Raštai. -  T. 1/ Tekstą parengė B. Vanagienė. Su­
+    darė, įvadą ir paaiškinimus parašė V. Merkys. -  V, 1976. -  P. 81-99,
+    488-560.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

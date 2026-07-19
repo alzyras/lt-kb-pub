@@ -73,7 +73,17 @@ Mintis apie savarankišką Lietuvos Didžiosios Kunigaikštystės valdovą sukė
     dabartinių negandų toliau klostysis įvykiai, ir svarstė,
     kokios žalos atnešė valstybei Jogailos išvykimas į Len­
     kiją.
-  citata_rodoma: "Narbuto vadovaujami Žygimanto valdiniai bei žemai­\nčiai, nuo seno atsidavę Kęstučio šeimai, palaikė Mykolą. \nSąmokslininkai, tikėdamiesi atlyginimo iš Žygimanto \nvaržovo, be to, bijodami galimo tardymo ir teismo,\nrėmė tremtyje gyvenantį Bo- \nL ietu vo s d id ik ų pažiū- \nleslovą. Ir vieni, ir kiti nepai­\nros į n a u ją jį v a ld o v ą \nsė valstybės reikalų, o žiūrėjo\ntik savo asmeninės naudos."
+  citata_rodoma: |
+    Narbuto vadovaujami Žygimanto valdiniai bei žemai­
+    čiai, nuo seno atsidavę Kęstučio šeimai, palaikė Mykolą.
+    Sąmokslininkai, tikėdamiesi atlyginimo iš Žygimanto
+    varžovo, be to, bijodami galimo tardymo ir teismo,
+    rėmė tremtyje gyvenantį Bo-
+    L ietu vo s d id ik ų pažiū-
+    leslovą. Ir vieni, ir kiti nepai­
+    ros į n a u ją jį v a ld o v ą
+    sė valstybės reikalų, o žiūrėjo
+    tik savo asmeninės naudos.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

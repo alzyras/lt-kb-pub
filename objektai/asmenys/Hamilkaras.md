@@ -95,7 +95,13 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
     buvo gintaringos salos, ten tikrai turėjo būti žiotys Aldes-
     ko, arba Tanajo šiaurinės šakos, arba to paties Eridano,
     garsėjusio pasakiškumu, ¡bet lig tol dar neištirto krašto1.
-  citata_rodoma: "Antras keliautojas, kurio pavardė\nHamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­\nsuko šv. Vincento kyšulį, apiplaukė Estremidų sąsiaurio\nvakarinę pakrantę ir jos šiaurinėje pusėje atrado Albiono\nir šv. Jernos salas, arba Britaniją ir Airiją, neapsakomai\nturtingas švino ir alavo."
+  citata_rodoma: |
+    Antras keliautojas, kurio pavardė
+    Hamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­
+    suko šv. Vincento kyšulį, apiplaukė Estremidų sąsiaurio
+    vakarinę pakrantę ir jos šiaurinėje pusėje atrado Albiono
+    ir šv. Jernos salas, arba Britaniją ir Airiją, neapsakomai
+    turtingas švino ir alavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

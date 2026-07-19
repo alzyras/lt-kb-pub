@@ -67,7 +67,8 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
     Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
     Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
     lenkų Armija Krajova daliniais.
-  citata_rodoma: "Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais"
+  citata_rodoma: |
+    Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

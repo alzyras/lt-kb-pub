@@ -88,7 +88,9 @@ Narbutas skaitytoją nukreipia į Majevskio studiją apie Indijos budinų hierar
     bad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.
     Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
     jų visiškai negalima pripažinti teisingais.
-  citata_rodoma: "5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją\n(Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*."
+  citata_rodoma: |
+    5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją
+    (Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

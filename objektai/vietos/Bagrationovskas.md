@@ -77,7 +77,12 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
     Kronsvicas
     Krušvica
     Kujavija
-  citata_rodoma: "Bačkininkėliai\nBagrationovskas (buv. Pr. Ylava)\nBajerburgas\nBaldensheimas\nBaiga (Honeda, Vundenava, dab."
+  citata_rodoma: |
+    Bačkininkėliai
+    Bagrationovskas (buv. Pr. Ylava)
+    Bajerburgas
+    Baldensheimas
+    Baiga (Honeda, Vundenava, dab.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

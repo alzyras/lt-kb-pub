@@ -71,7 +71,9 @@ Dusburgietis teigia, kad schmid B.
     Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
     Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
     1925.
-  citata_rodoma: "Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg\ni. Pr., 1929, Heft 2, S. 191—200."
+  citata_rodoma: |
+    Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
+    i. Pr., 1929, Heft 2, S. 191—200.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

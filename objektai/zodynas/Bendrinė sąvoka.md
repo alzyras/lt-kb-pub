@@ -61,7 +61,8 @@ Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine s
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: "Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o"
+  citata_rodoma: |
+    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

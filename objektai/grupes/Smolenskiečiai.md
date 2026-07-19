@@ -137,7 +137,19 @@ Tos vė­ liavos buvusios smolenskiečių.
     vežimais įvažiavus į pilį ir užrakinus vartus, visi tie vy­
     rai išlindo iš vežimų ir metėsi stačiai į kunigaikščio Žy­
     gimanto miegamąjį, kur jis klausė mišių.
-  citata_rodoma: "O \ngyvų paimta keturios dešimtys5 0  kunigaikščių su Kijevo \nmetropolitu6 I, jų vardais žinomi du: Kijevo kuni­\ngaikštis Ivanas Vladimirovičius 5 2 ir jo brolis Teodoras \nKaributaitis5 3 , o visų kitų vardai neužrašyti.\nPraėjus nuo to mūšio trims savaitėms, didysis ku­\nnigaikštis Žygimantas sutelkė visas savo lietuvių pa­\njėgas ir išsiuntė savo sūnų kunigaikštį Mykolą į Rusią. \nIr kunigaikštis Mykolas, tenai nuvykęs, apsistojo Or­\nšoje; smolenskiečiai pasitiko Oršoje kunigaikštį My­\nkolą ir pasidavė didžiajam kunigaikščiui Žygimantui \nir jo sūnui kunigaikščiui Mykolui5 5 ."
+  citata_rodoma: |
+    O
+    gyvų paimta keturios dešimtys5 0  kunigaikščių su Kijevo
+    metropolitu6 I, jų vardais žinomi du: Kijevo kuni­
+    gaikštis Ivanas Vladimirovičius 5 2 ir jo brolis Teodoras
+    Kaributaitis5 3 , o visų kitų vardai neužrašyti.
+    Praėjus nuo to mūšio trims savaitėms, didysis ku­
+    nigaikštis Žygimantas sutelkė visas savo lietuvių pa­
+    jėgas ir išsiuntė savo sūnų kunigaikštį Mykolą į Rusią.
+    Ir kunigaikštis Mykolas, tenai nuvykęs, apsistojo Or­
+    šoje; smolenskiečiai pasitiko Oršoje kunigaikštį My­
+    kolą ir pasidavė didžiajam kunigaikščiui Žygimantui
+    ir jo sūnui kunigaikščiui Mykolui5 5 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

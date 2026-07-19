@@ -149,7 +149,10 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
     tose; e) dideli ir maži uolienų luitai perplaukė per Baltijos jūrą ta­
     da, kai ištirpo ledkalniai, ir Žemės revoliucijos metu buvo išbarstyti
     po įvairias lygumas.
-  citata_rodoma: "dideli ir maži uolienų luitai perplaukė per Baltijos jūrą ta­\nda, kai ištirpo ledkalniai, ir Žemės revoliucijos metu buvo išbarstyti\npo įvairias lygumas."
+  citata_rodoma: |
+    dideli ir maži uolienų luitai perplaukė per Baltijos jūrą ta­
+    da, kai ištirpo ledkalniai, ir Žemės revoliucijos metu buvo išbarstyti
+    po įvairias lygumas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -174,7 +177,14 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
     kristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­
     jos ir garai, kurie su didžiule jėga ėmė traiškyti žemės
     kevalą.
-  citata_rodoma: "Štai ir visas spėjimas apie Žemės revoliucijos priežas­\ntis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos\nkristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­\njos ir garai, kurie su didžiule jėga ėmė traiškyti žemės\nkevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­\nsias materijos lavinos, potvyniai, uolų trupėjimas, pusty­\nmas, viesulai, biraus žemės sluoksnio susiformavimas,"
+  citata_rodoma: |
+    Štai ir visas spėjimas apie Žemės revoliucijos priežas­
+    tis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos
+    kristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­
+    jos ir garai, kurie su didžiule jėga ėmė traiškyti žemės
+    kevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­
+    sias materijos lavinos, potvyniai, uolų trupėjimas, pusty­
+    mas, viesulai, biraus žemės sluoksnio susiformavimas,
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

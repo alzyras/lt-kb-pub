@@ -126,7 +126,9 @@ Nenurodyta
     žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
     Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
-  citata_rodoma: "Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-\nrios priminė aukas ir didelių netekčių skausmą."
+  citata_rodoma: |
+    Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
+    rios priminė aukas ir didelių netekčių skausmą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

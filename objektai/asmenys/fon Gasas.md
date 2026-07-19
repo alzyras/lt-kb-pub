@@ -64,7 +64,14 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
     linys. Į nelaisvę pakliuvo Z. Sierakauskas,
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
-  citata_rodoma: "Vilniaus karo apygardos Karo veiksmų\n\njuos miegančius gegužės 10 naktį apsupo ir\npaėmė į nelaisvę paporučikio fon Gaso da-\nlinys. Į nelaisvę pakliuvo Z. Sierakauskas,\nB. Kolyška, S. Kozakauskas ir dar keletas\nkarininkų."
+  citata_rodoma: |
+    Vilniaus karo apygardos Karo veiksmų
+
+    juos miegančius gegužės 10 naktį apsupo ir
+    paėmė į nelaisvę paporučikio fon Gaso da-
+    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
+    B. Kolyška, S. Kozakauskas ir dar keletas
+    karininkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

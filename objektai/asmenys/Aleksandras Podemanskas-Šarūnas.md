@@ -65,7 +65,15 @@ media_all_json: |-
     Neifalto- Lakūno ir jam talkinančio
 
     Aleksandro Podemansko - Šarūno.
-  citata_rodoma: "Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš\nakis galimas partizanų negailestingas sankcijas.“\n\nPartizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos\nkariuomenės ulonų puskarininkio Jono\nNeifalto- Lakūno ir jam talkinančio\n\nAleksandro Podemansko - Šarūno."
+  citata_rodoma: |
+    Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš
+    akis galimas partizanų negailestingas sankcijas.“
+
+    Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos
+    kariuomenės ulonų puskarininkio Jono
+    Neifalto- Lakūno ir jam talkinančio
+
+    Aleksandro Podemansko - Šarūno.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

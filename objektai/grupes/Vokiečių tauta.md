@@ -113,7 +113,17 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
     skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
     savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
     jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
-  citata_rodoma: "1.\nSeniausias žinomas šito šaltinis yra Simonas Grunau,\nnaujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš\ntikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­\nšantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug\nužsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais\nnekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­\nma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų\narba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­\n11 Sirvydo žodynas."
+  citata_rodoma: |
+    1.
+    Seniausias žinomas šito šaltinis yra Simonas Grunau,
+    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
+    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
+    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
+    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
+    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
+    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
+    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
+    11 Sirvydo žodynas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

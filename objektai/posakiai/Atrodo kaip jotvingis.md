@@ -75,7 +75,15 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
     kitoms europietėms moterims nebūdingi tie bruožai, kurie
     puošia dailias senovės jotvingių dukras, kažkada gal iš­
     tekintas už slavų jaunuolių.
-  citata_rodoma: "Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.\n  Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu\n  sutinka bjauraus veido žmogų, be to, vilkintį apdriskusius ir ne-\n  švarius rūbus, tai sakoma:\n  „Atrodo\n  kaip\n  jotvingis\" (Biblioteka\n  Warszawska. R. 1842. T. IV)***."
+  citata_rodoma: |
+    Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.
+      Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu
+      sutinka bjauraus veido žmogų, be to, vilkintį apdriskusius ir ne-
+      švarius rūbus, tai sakoma:
+      „Atrodo
+      kaip
+      jotvingis" (Biblioteka
+      Warszawska. R. 1842. T. IV)***.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

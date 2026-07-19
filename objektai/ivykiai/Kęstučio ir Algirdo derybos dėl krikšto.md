@@ -77,7 +77,10 @@ Nenurodyta
     prodė (1351—1382). Tiesa, savo valdymo pradžioje Kęstutis su
     Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
     rėję pasiliauti nuolatiniai Ordino puolimai.
-  citata_rodoma: "Tiesa, savo valdymo pradžioje Kęstutis su\nAlgirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­\nrėję pasiliauti nuolatiniai Ordino puolimai."
+  citata_rodoma: |
+    Tiesa, savo valdymo pradžioje Kęstutis su
+    Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
+    rėję pasiliauti nuolatiniai Ordino puolimai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

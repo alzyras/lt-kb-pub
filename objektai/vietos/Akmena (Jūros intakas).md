@@ -77,7 +77,10 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
     Colm/Kolm
     Colmelawcken, Collmilawken
     Colmen (deš.
-  citata_rodoma: "Ašeradė)\n  Akmena (Jūros intakas), u.\n  Akmena (Mituvos intakas), u."
+  citata_rodoma: |
+    Ašeradė)
+      Akmena (Jūros intakas), u.
+      Akmena (Mituvos intakas), u.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

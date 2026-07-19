@@ -79,7 +79,9 @@ Terminas vartojamas aprašant gaminimą.
     yra tiekiama piesta, būtent, anglimis.
     Garstyčninkui dirbti paima sieką rugių ir sudaigina, o sudygu­
     sius išdžiovina — ir gauna tris gorčius salyklos.
-  citata_rodoma: "Garstyčninkui dirbti paima sieką rugių ir sudaigina, o sudygu­\nsius išdžiovina — ir gauna tris gorčius salyklos"
+  citata_rodoma: |
+    Garstyčninkui dirbti paima sieką rugių ir sudaigina, o sudygu­
+    sius išdžiovina — ir gauna tris gorčius salyklos
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

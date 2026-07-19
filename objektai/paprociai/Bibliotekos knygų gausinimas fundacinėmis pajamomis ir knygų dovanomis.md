@@ -125,7 +125,26 @@ Nenurodyta
     kę už 3 750 auks. sumą, bibliotekai skyrė lėšų tiek iš mūri­
     nių namų, tiek ir iš sklypų pelnomų, jas užrašė bibliotekai
     knygų gausinimo dėlei.
-  citata_rodoma: "Jo Karališkosios Didenybės \nsekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą \nMinsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­\nreigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po \n100 auksinų kolegija duotų knygoms įsigyti; tad šie visada \njai atitekdavo.\n1746 metais maloningieji tėvai Kazimieras ir Mykolas \nVežbickiai, pirma apie 16 000 auksinų sumą dėję langams \nsutaisyti, dailidžių darbo spintoms įsigyti, marmuro stalams \nir nutinkuoti mūrinį namą, vadinamą Liaudanskų, Turgaus\n--•  - -\n184\n\n## Puslapis 201\n\nIl KNYGA\ngatvėje, Žuvų turgavietės gale, taip pat sklypus Užupyje, \nsu maloningųjų Kauno tėvų jėzuitų kolegijos pastatais, pir­\nkę už 3 750 auks."
+  citata_rodoma: |
+    Jo Karališkosios Didenybės
+    sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą
+    Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­
+    reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po
+    100 auksinų kolegija duotų knygoms įsigyti; tad šie visada
+    jai atitekdavo.
+    1746 metais maloningieji tėvai Kazimieras ir Mykolas
+    Vežbickiai, pirma apie 16 000 auksinų sumą dėję langams
+    sutaisyti, dailidžių darbo spintoms įsigyti, marmuro stalams
+    ir nutinkuoti mūrinį namą, vadinamą Liaudanskų, Turgaus
+    --•  - -
+    184
+
+    ## Puslapis 201
+
+    Il KNYGA
+    gatvėje, Žuvų turgavietės gale, taip pat sklypus Užupyje,
+    su maloningųjų Kauno tėvų jėzuitų kolegijos pastatais, pir­
+    kę už 3 750 auks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

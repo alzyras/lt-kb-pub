@@ -729,7 +729,18 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85). Apie didelį krikščionių kraujo praliejimą"
+  citata_rodoma: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
+
+
+
+
+                   90 (85). Apie didelį krikščionių kraujo praliejimą
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -757,7 +768,19 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: "Ordino pajėgos\n1260 m. Klaipėdoje prieš Lietuvą buvo\nsutelktos Livonijos ir Prūsijos kryžiuočių\nordinų pajėgos, broliai riteriai ir\ni 4 jiems pavaldžių užgrobtų žemių\n“prievarta buriami kariai (prūsai -\npamedėnai, notangai, varmiai, sem-\nbai, o taip pat kuršiai, estai ir kt.), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį."
+  citata_rodoma: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -777,7 +800,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
     476  1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
     (plg. D. III, 223).
-  citata_rodoma: "Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo\nsembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir\nvarmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis\n\n  476 1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas\n(plg. D. III, 223)."
+  citata_rodoma: |
+    Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
+    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
+    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
+
+      476 1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
+    (plg. D. III, 223).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -821,7 +850,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     viliojo į dvikovą, kol galop, nutykoję progą, nužudė. Taip pat buvęs jų nužudytas dar
     vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties
     prūsai labai džiūgavo, o broliai sielvartavo.
-  citata_rodoma: "118 (113). Apie Kroicburgo pilies sugriovimą\n\n   Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus\nmetus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,\nilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.\nSitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius."
+  citata_rodoma: |
+    118 (113). Apie Kroicburgo pilies sugriovimą
+
+       Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus
+    metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,
+    ilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.
+    Sitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -913,7 +948,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
     savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
     puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
-  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino\nbrolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami\nkaršto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi\nmūsų dievo Jėzaus Kristaus garbei."
+  citata_rodoma: |
+    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
+    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
+    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
+    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
+    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
+    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
+    mūsų dievo Jėzaus Kristaus garbei.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -985,7 +1027,17 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.
-  citata_rodoma: "319 (312). Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
+  citata_rodoma: |
+    319 (312). Apie Bisenės papilių sudeginimą 1313 metais
+
+      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
+    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
+    abu jos papiliai supleškėjo ugnyje.
+
+
+
+
+                    320 (313).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1023,7 +1075,11 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
     Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
     priskiriama Notangai).
-  citata_rodoma: "Ventos intaką Varmė (Būga K. 3, 114).\nTeritorija į šiaurės rytus nuo Pagudės, platus ruožas nuo Elbingo palei Aismares beveik\n\nNotanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai."
+  citata_rodoma: |
+    Ventos intaką Varmė (Būga K. 3, 114).
+    Teritorija į šiaurės rytus nuo Pagudės, platus ruožas nuo Elbingo palei Aismares beveik
+
+    Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -54,7 +54,8 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
     žiauriai siaubti kalavijuočių ordino pavergtas sritis, naikinti jo
     pilis. Šitiems žygiams jie rado ir talkininkų. Tai buvo galinga
     D. Naugardo miestiečių valstybė.
-  citata_rodoma: "D. Naugardo miestiečių valstybė."
+  citata_rodoma: |
+    D. Naugardo miestiečių valstybė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

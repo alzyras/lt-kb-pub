@@ -122,7 +122,14 @@ media_all_json: |-
     dėstyti teologijos. Šiame Varmijos mieste kardinolas
     Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
     trukus pasidariusią svarbia jėzuitų atrama.
-  citata_rodoma: "„Lietuvos istorijos\" atsiradimas glaudžiai susijęs su\nVilniaus aukštąja mokykla, vadinta dvigubu akademi­\njos ir universiteto vardu, kurios profesoriumi A. Koje­\nlavičius buvo ir kurios studentams skyrė savo veikalą.\nŠiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno."
+  citata_rodoma: |
+    „Lietuvos istorijos" atsiradimas glaudžiai susijęs su
+    Vilniaus aukštąja mokykla, vadinta dvigubu akademi­
+    jos ir universiteto vardu, kurios profesoriumi A. Koje­
+    lavičius buvo ir kurios studentams skyrė savo veikalą.
+    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
+    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
+    no.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

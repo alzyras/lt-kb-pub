@@ -87,7 +87,8 @@ Nenurodyta
     mechanizmas – rugpjūčio 16-ąją lietuvių policijos departamento direkto-
     rius Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir juos
     sutelkti tam numatytose vietose.
-  citata_rodoma: "rius Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir juos"
+  citata_rodoma: |
+    rius Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir juos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

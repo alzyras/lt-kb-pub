@@ -91,7 +91,11 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
     k a l b a
     — siemucha,
     n e s š v e n č i a m a s a v a i t ę p o V e l y k ų .
-  citata_rodoma: "De\ndiis samagitarum caeterorumque Sarmatarum et falsorum Chris­\ntianorum II Michalo Lituanus. De moribus Tartarorum, Lituano-\nrum et Moschorum. Basileae, 1615)."
+  citata_rodoma: |
+    De
+    diis samagitarum caeterorumque Sarmatarum et falsorum Chris­
+    tianorum II Michalo Lituanus. De moribus Tartarorum, Lituano-
+    rum et Moschorum. Basileae, 1615).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

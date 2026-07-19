@@ -110,7 +110,8 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: "poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę"
+  citata_rodoma: |
+    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +132,8 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
     nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
     nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
     teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus).
-  citata_rodoma: "Sovietinė valdžia represijas prieš disidentus derino su dalinių"
+  citata_rodoma: |
+    Sovietinė valdžia represijas prieš disidentus derino su dalinių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,13 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
     partizanai prie Žuvinto ežero susidūrė su
     pasaloje laukusiais NKVD kareiviais ir vie-
     tiniais stribais.
-  citata_rodoma: "1945 m. birželio 25 d. į pa-\nsalą patekęs žuvo „Muškietininkų“ būrio\n\nvadas Vladas Gavėnas-Tarzanas bei lais-\nvės kovotojai Vincas Boruta-Žvalgas ir\nSigitas Melnykas-Portas."
+  citata_rodoma: |
+    1945 m. birželio 25 d. į pa-
+    salą patekęs žuvo „Muškietininkų“ būrio
+
+    vadas Vladas Gavėnas-Tarzanas bei lais-
+    vės kovotojai Vincas Boruta-Žvalgas ir
+    Sigitas Melnykas-Portas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

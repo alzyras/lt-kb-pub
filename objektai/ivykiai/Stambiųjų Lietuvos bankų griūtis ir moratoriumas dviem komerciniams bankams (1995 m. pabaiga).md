@@ -87,7 +87,8 @@ Nenurodyta
     Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų
     pasekmių: bankų sektorius sustiprėjo, išlikę bankai veikė apdairiau, su-
     mažėjo blogų paskolų portfelis, sustiprėjo bankų priežiūra.
-  citata_rodoma: "Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų"
+  citata_rodoma: |
+    Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

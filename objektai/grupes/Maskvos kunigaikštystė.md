@@ -230,7 +230,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
     viams »^14.
     Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.
-  citata_rodoma: "Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai."
+  citata_rodoma: |
+    Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -304,7 +305,21 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     džiaugsmą dėl jo susitaikymo su Jo­
     gaila ir todėl dedąs viltis, jog čekų
     eretikai būsią šiek tiek apmalšinti.
-  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­\ngaliau pakviestas atvyksta Jogaila, lydimas gausaus Len-\nkaralių Zigmantą nuo ketinimo ka­\nrūnuoti Vytautą, ir Nr."
+  citata_rodoma: |
+    Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­
+    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
+    karalių Zigmantą nuo ketinimo ka­
+    rūnuoti Vytautą, ir Nr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -325,7 +340,12 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
     nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
     sūnus Vosylius, atsparumo nerodė.
-  citata_rodoma: "Kad ir po didelių pastangų, bet į gyvenimo galą\njam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­\ngardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo\nnuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos\nsūnus Vosylius, atsparumo nerodė."
+  citata_rodoma: |
+    Kad ir po didelių pastangų, bet į gyvenimo galą
+    jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­
+    gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
+    nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
+    sūnus Vosylius, atsparumo nerodė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 

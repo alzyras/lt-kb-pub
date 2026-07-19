@@ -66,7 +66,16 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
     puolimą ir neleido užgrobti bolševikų
     strateginiuose planuose numatytą užimti
     svarbų punktą - Kėdainius.
-  citata_rodoma: "Bolševikai tos pa-\nčios dienos vakare buvo priversi palikti\nKėdainių apylinkes ir atsitraukti į Šėtą.\nNedidelės ir prastai ginkluotos lietuvių\npajėgos, parodžiusios drąsą ir ištvermę,\nsugebėjo atlaikyti daug didesnių pajėgų\npuolimą ir neleido užgrobti bolševikų\nstrateginiuose planuose numatytą užimti\nsvarbų punktą - Kėdainius."
+  citata_rodoma: |
+    Bolševikai tos pa-
+    čios dienos vakare buvo priversi palikti
+    Kėdainių apylinkes ir atsitraukti į Šėtą.
+    Nedidelės ir prastai ginkluotos lietuvių
+    pajėgos, parodžiusios drąsą ir ištvermę,
+    sugebėjo atlaikyti daug didesnių pajėgų
+    puolimą ir neleido užgrobti bolševikų
+    strateginiuose planuose numatytą užimti
+    svarbų punktą - Kėdainius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

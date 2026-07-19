@@ -85,7 +85,9 @@ Nenurodyta
     regione. XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
     žygius į kaimynų baltų ir slavų žemes. 1183 m. užfiksuotas pirma-
     sis žinomas lietuvių reidas į Pskovo žemes.
-  citata_rodoma: "1183 m. užfiksuotas pirma-\nsis žinomas lietuvių reidas į Pskovo žemes."
+  citata_rodoma: |
+    1183 m. užfiksuotas pirma-
+    sis žinomas lietuvių reidas į Pskovo žemes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

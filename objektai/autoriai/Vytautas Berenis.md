@@ -137,7 +137,9 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
     12 Kirkoras A. H. Pasivaikščiojimai po Vilnių ir jo apylinkes, V., 1991, p. 17.
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
     p. 128.
-  citata_rodoma: "13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,\np. 128."
+  citata_rodoma: |
+    13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
+    p. 128.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -161,7 +163,10 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
     lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
     bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
     gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-  citata_rodoma: "Vytautas Berenis\nMykolas Balinskis - \nVilniaus miesto istorikas"
+  citata_rodoma: |
+    Vytautas Berenis
+    Mykolas Balinskis -
+    Vilniaus miesto istorikas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

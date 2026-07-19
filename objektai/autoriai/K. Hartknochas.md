@@ -697,7 +697,10 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
     Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
     baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
-  citata_rodoma: "Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679\nm.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio\nvariantas."
+  citata_rodoma: |
+    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
+    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
+    variantas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -716,7 +719,9 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     Poliakuvnos darbe išsamiai išanalizuoti kronikos šaltiniai, be kita ko, žodinė tradicija
     ir paties kronikininko stebėjimai, teologiniai ir politiniai šio kūrinio uždaviniai ir kt.
     klausimai89.
-  citata_rodoma: "82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro\nHartknoch."
+  citata_rodoma: |
+    82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro
+    Hartknoch.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -753,7 +758,12 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     Vieno Lietuvos bajoro duktė ypač garsėjo prisirišimu prie trijų
     savo brolių. Labiausiai jai patikdavę, kai galėdavo jiems pasi­
     meilinti: siuvinėti gūnias, austi juostas.
-  citata_rodoma: "Žiūrėk II lentelės 4-ąjį piešinį.\nElnias (Elnis)\nElnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis\npašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą\nHartknochas pagrindžia savo pastebėjimais15."
+  citata_rodoma: |
+    Žiūrėk II lentelės 4-ąjį piešinį.
+    Elnias (Elnis)
+    Elnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis
+    pašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą
+    Hartknochas pagrindžia savo pastebėjimais15.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -772,7 +782,13 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     mus šaltinius. Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
     dingos mūsų tėvynės istorijai.
-  citata_rodoma: "Tai liudija Strijkovskis. Ant\nKukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­\nkų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­\nbegyvuojantis kaimo žmonių pasakojimuose. Hartknochas,\nremdamasis savo tyrimais, pasakoja, kad ant to paties kalno\nnuo seno degusi Kerniaus užkurta Amžinoji ugnis ."
+  citata_rodoma: |
+    Tai liudija Strijkovskis. Ant
+    Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­
+    kų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­
+    begyvuojantis kaimo žmonių pasakojimuose. Hartknochas,
+    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
+    nuo seno degusi Kerniaus užkurta Amžinoji ugnis .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -836,7 +852,16 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     gramzdžią pievą, jos kojos įklimpo, ir žemė taip suspaudė pė­
     das, kad nebegalėjo ji pajudėti iš vietos ir pavirto medžiu -
     blinde.
-  citata_rodoma: "Henenbergeris tikina, kad dar jo laikais,\ntai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­\nnės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­\nsi didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­\nmeldžių papratimu slapčia ateidavo prie jos m elstis18.\nPŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­\ntąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-\ngo valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo\nhorizontaliai, o paskui suaugdavo užsiriesdamos į viršų."
+  citata_rodoma: |
+    Henenbergeris tikina, kad dar jo laikais,
+    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
+    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
+    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
+    meldžių papratimu slapčia ateidavo prie jos m elstis18.
+    PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­
+    tąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-
+    go valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo
+    horizontaliai, o paskui suaugdavo užsiriesdamos į viršų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -880,7 +905,14 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
     rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
     buvo Adytum.
-  citata_rodoma: "Žymiausia šventykla buvo Romovėje, ku­\nrios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos\nvyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur\nreiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­\nsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-\nleidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­\ntas ne visai tiksliai."
+  citata_rodoma: |
+    Žymiausia šventykla buvo Romovėje, ku­
+    rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
+    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
+    reiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­
+    sijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-
+    leidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­
+    tas ne visai tiksliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -954,7 +986,14 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     muose dar prisimenami lietuvių liaudies dainų dainuotojai,
     vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
     tas, tačiau, pasak tų pasakojimų, tai buvę seniai.
-  citata_rodoma: "Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir\nsusijuosdavo balta drobine skara.\nSignotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse."
+  citata_rodoma: |
+    Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
+    susijuosdavo balta drobine skara.
+    Signotai (Sigonottaį
+    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
+    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
+    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
+    Gardaičio tarnai, todėl jų būdavo pajūrio srityse.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -980,7 +1019,16 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     ir pramogai. O jų sugebėjimai ir išmonė, tamsių žmonių aki­
     mis, viršijantys kitų sugebėjimus, praradus anksčiau turėtą pa­
     garbą, pavertė juos kerėtojais.
-  citata_rodoma: "Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-\nknochas po ilgo nereikšmingo svarstymo šia tema pataiko į\nankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­\nkai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­\nginius patvirtina kitų senovės istorikų tyrimai."
+  citata_rodoma: |
+    Iš šventojo
+    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
+    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
+    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
+    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
+    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
+    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
+    kai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­
+    ginius patvirtina kitų senovės istorikų tyrimai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1002,7 +1050,12 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     požiūriu lietuviai niekuo nesiskyrė nuo graikų ir romėnų, ne­
     bent tik buvo kai kurių skirtumų, kilusių dėl vietos aplinkybių
     ir nevienodo apšvietos laipsnio,.
-  citata_rodoma: "Londono A l yra tiesiog ištobulintas šitas\nalus. Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­\nligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­\nrinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo\ndaryti alų iki atsikraustant kryžiuočiams."
+  citata_rodoma: |
+    Londono A l yra tiesiog ištobulintas šitas
+    alus. Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
+    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
+    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
+    daryti alų iki atsikraustant kryžiuočiams.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1022,7 +1075,12 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
     valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
     saiką labiau nei pirštų padėjimas ant Evangelijos.
-  citata_rodoma: "Kad nuramintume žmoniškumo gynėjus, turime\n16\nĮrodymui Hartknochas pateikia: Litterae Gregorii Papae IX\n// Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum\n1232. -  Nr. 7."
+  citata_rodoma: |
+    Kad nuramintume žmoniškumo gynėjus, turime
+    16
+    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
+    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
+    1232. -  Nr. 7.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1064,7 +1122,12 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
     anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
     tuva kilties ir vienos genties broliai?
-  citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę."
+  citata_rodoma: |
+    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
+    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
+    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1083,7 +1146,11 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
     si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
     meldžių papratimu slapčia ateidavo prie jos m elstis18.
-  citata_rodoma: "Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už\nBaublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­\n12 Treteris*, Henenbergeris, Šiucas, Hartknochas.\n13 Opisanie starožytnej Polski."
+  citata_rodoma: |
+    Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
+    Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
+    12 Treteris*, Henenbergeris, Šiucas, Hartknochas.
+    13 Opisanie starožytnej Polski.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

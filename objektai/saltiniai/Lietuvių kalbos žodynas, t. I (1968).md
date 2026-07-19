@@ -81,7 +81,11 @@ Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsa
     žemio dievas Poklius (lietuviškasis Plutonas), M. Strijkovskio
     minima Krūminė (lietuviškoji Demetra) ir paties T. Narbuto
     surasta jų duktė Nijolė (Persefonė).
-  citata_rodoma: "Kadangi vienas Kauno priemiestis vadinosi\n16\nŽr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -\nV., 1968.-T. I.-P. 1118."
+  citata_rodoma: |
+    Kadangi vienas Kauno priemiestis vadinosi
+    16
+    Žr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -
+    V., 1968.-T. I.-P. 1118.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

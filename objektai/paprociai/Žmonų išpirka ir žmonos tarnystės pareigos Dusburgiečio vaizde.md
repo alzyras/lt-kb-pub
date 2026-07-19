@@ -128,11 +128,15 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    212 XIII a. stambieji žemvaldžiai pirkdavo ir parduodavo moteris, nelaisvosios
+    212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
     šeimynos nares. Lietuvių kalboje žodžiai moteris ir žmona XVI a. ir vėliau buvo sinonimai.
     Atrodo, Dusburgietis bus supainiojęs moters — nelaisvos šeimynos narės padėtį su
     žmonos — gyvenimo draugės padėtimi.
-  citata_rodoma: "212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios\nšeimynos nares. Lietuvių kalboje žodžiai moteris ir žmona XVI a. ir vėliau buvo sinonimai.\nAtrodo, Dusburgietis bus supainiojęs moters — nelaisvos šeimynos narės padėtį su\nžmonos — gyvenimo draugės padėtimi."
+  citata_rodoma: |
+    212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
+    šeimynos nares. Lietuvių kalboje žodžiai moteris ir žmona XVI a. ir vėliau buvo sinonimai.
+    Atrodo, Dusburgietis bus supainiojęs moters — nelaisvos šeimynos narės padėtį su
+    žmonos — gyvenimo draugės padėtimi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -145,13 +149,19 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
-    tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai
-    atsidūrę itin varganoje padėtyje, pratę patys nusižudyti. Jie neskiria nei dienų, nei
-    valandų. Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
-    ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,
-    pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje.
-  citata_rodoma: "Pagal seną paprotį, kurį\nprūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną\nlaiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam\ntikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama\nelgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada\ntinkami."
+    Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama
+    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
+    tinkami.
+  citata_rodoma: |
+    Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama
+    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
+    tinkami.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -171,7 +181,14 @@ Nenurodyta
     prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
     laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
     tikromis dienomis plauna kojas namiškiams ir svečiams212.
-  citata_rodoma: "Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui\nnamiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką\nišgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria\nvisi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį\nprūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną\nlaiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam\ntikromis dienomis plauna kojas namiškiams ir svečiams212."
+  citata_rodoma: |
+    Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
+    namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
+    išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
+    visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

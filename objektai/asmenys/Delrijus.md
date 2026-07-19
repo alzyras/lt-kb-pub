@@ -84,7 +84,20 @@ Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą
     timi, nusiėmęs kepurę, bėgiodavo po lauką, užsidėjęs ant pe­
     čių lašinių paltį, ir šitaip maldėsi Perkūnui, bet, debesims išsi­
     sklaidžius, lašinius pats suvalgydavo.
-  citata_rodoma: "Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo\nšventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-\n344\n\n## Puslapis 344\n\nrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­\nromantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­\nje pusėje, praktikuodavo dar kitą piromantijos rūšį."
+  citata_rodoma: |
+    Strijkovskis aiškiai
+    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
+    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
+    Palės garbei.
+    Būrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo
+    šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
+    344
+
+    ## Puslapis 344
+
+    rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
+    romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
+    je pusėje, praktikuodavo dar kitą piromantijos rūšį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

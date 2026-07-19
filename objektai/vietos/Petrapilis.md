@@ -137,7 +137,12 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
     siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
     net į labai intimius santykius.
-  citata_rodoma: "Tuo metu Čartoriskiai pasiun-\ntė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-\nniatauską. Gavęs Saksonijos atstovo titulą, šis greit su-\nsiartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo\nnet į labai intimius santykius."
+  citata_rodoma: |
+    Tuo metu Čartoriskiai pasiun-
+    tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
+    niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
+    siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
+    net į labai intimius santykius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

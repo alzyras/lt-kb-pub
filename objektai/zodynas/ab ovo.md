@@ -137,7 +137,14 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
     reikia būti, kad neįklimptum į tą sraunų nuolatinių prie­
     laidų ir hipotezių verpetą ir kad tas žibintas neužgestų
     dar tau nespėjus iš ten išsikapstyti?“1.
-  citata_rodoma: "anonimas rašė: „Autorius, norėdamas ab ovo nustatyti\nLietuvos lizdą, privalo pereiti visą tos tautų migracijos,\npapasakotos kronikų pasakose, labirintą; pereiti laikyda-\nmas delne istorinės tiesos žibintą. Kokiam gi įžvalgiam\nreikia būti, kad neįklimptum į tą sraunų nuolatinių prie-\nlaidų ir hipotezių verpetą ir kad tas žibintas neužgestų\ndar tau nespėjus iš ten išsikapstyti?“1."
+  citata_rodoma: |
+    anonimas rašė: „Autorius, norėdamas ab ovo nustatyti
+    Lietuvos lizdą, privalo pereiti visą tos tautų migracijos,
+    papasakotos kronikų pasakose, labirintą; pereiti laikyda-
+    mas delne istorinės tiesos žibintą. Kokiam gi įžvalgiam
+    reikia būti, kad neįklimptum į tą sraunų nuolatinių prie-
+    laidų ir hipotezių verpetą ir kad tas žibintas neužgestų
+    dar tau nespėjus iš ten išsikapstyti?“1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -161,7 +168,12 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
     ab ovo (pabr. T. N. — R. G.), iki pat tų laikų, kai ji 1569
     metais, valdant Zygimįantui] Aug[ustui], susijungė su
     Lenkija.
-  citata_rodoma: "Mano uždavinys, kaip galima spręsti iš „Mitologijos“, yra\natskleisti praeities įvykių esmę, pradedant tautos kilmės\nab ovo (pabr. T. N. — R. G.), iki pat tų laikų, kai ji 1569\nmetais, valdant Zygimįantui] Aug[ustui], susijungė su\nLenkija."
+  citata_rodoma: |
+    Mano uždavinys, kaip galima spręsti iš „Mitologijos“, yra
+    atskleisti praeities įvykių esmę, pradedant tautos kilmės
+    ab ovo (pabr. T. N. — R. G.), iki pat tų laikų, kai ji 1569
+    metais, valdant Zygimįantui] Aug[ustui], susijungė su
+    Lenkija.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

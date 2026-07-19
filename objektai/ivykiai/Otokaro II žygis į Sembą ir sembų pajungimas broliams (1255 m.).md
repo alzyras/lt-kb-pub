@@ -203,7 +203,17 @@ Nenurodyta
     nelaisvę ir išžudęs, ten pat ir pernakvojo. Kitą dieną patraukė į Rudavos valsčių ir ten
     pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
     321 D.— Medenow, Jer.
-  citata_rodoma: "Žiemą ši kariuomenė atžygiavo  į Elbingą,\ntačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo\napvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti\ndu vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir\nštai ne tik kariai bei paprasti žmonės, bet  ir karalius,  ir kiti kunigaikščiai jau buvo\nbepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,\nkad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius\nnuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,\nvardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama\nKandeimu, gerai žinojusį visą Sembos karių galią."
+  citata_rodoma: |
+    Žiemą ši kariuomenė atžygiavo  į Elbingą,
+    tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
+    apvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti
+    du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir
+    štai ne tik kariai bei paprasti žmonės, bet  ir karalius,  ir kiti kunigaikščiai jau buvo
+    bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,
+    kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius
+    nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
+    vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
+    Kandeimu, gerai žinojusį visą Sembos karių galią.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -291,7 +301,17 @@ Nenurodyta
     nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
     vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
     Kandeimu, gerai žinojusį visą Sembos karių galią.
-  citata_rodoma: "Apie sembų pavergimą\n\n  Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko\nsembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos\nkaralių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,\nkuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos\nmarkgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą\nsu galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,\nAustrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu\natkeršyti už nukryžiuotojo viešpaties kančias."
+  citata_rodoma: |
+    Apie sembų pavergimą
+
+      Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
+    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
+    karalių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
+    kuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos
+    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
+    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
+    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
+    atkeršyti už nukryžiuotojo viešpaties kančias.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

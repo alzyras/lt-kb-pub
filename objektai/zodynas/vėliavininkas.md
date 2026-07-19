@@ -128,7 +128,17 @@ Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenė
     biui, Žemaitijos kunigaikščiui; rašytojai nesutaria, ar
     jis turėjo rinkto valdovo, ar tik laikino valdytojo ti­
     tulą.
-  citata_rodoma: "Žuvo Livonijos magist­\nras Ernstas, grafas Gelardas,\nbe to, šešiasdešimt septyni kryžiuočių ordino riteriai.\nŽuvus tame pačiame mūšyje vėliavininkui Henrikui\nfon Tyzenhauzenui, kariuomenės vėliava su dievo mo­\ntinos mergelės, Livonijos globėjos, atvaizdu pateko į\nlietuvių rankas. Padėtį ištaisyti bandė Elhardas, Reve-\nlio komtūras, sutelkdamas likučius bėglių ir užpuldamas\npriešą, tačiau ir jis, atstumtas, sužeistas ir praradęs žir­\ngą, vos gyvas paspruko iš kovos lauko."
+  citata_rodoma: |
+    Žuvo Livonijos magist­
+    ras Ernstas, grafas Gelardas,
+    be to, šešiasdešimt septyni kryžiuočių ordino riteriai.
+    Žuvus tame pačiame mūšyje vėliavininkui Henrikui
+    fon Tyzenhauzenui, kariuomenės vėliava su dievo mo­
+    tinos mergelės, Livonijos globėjos, atvaizdu pateko į
+    lietuvių rankas. Padėtį ištaisyti bandė Elhardas, Reve-
+    lio komtūras, sutelkdamas likučius bėglių ir užpuldamas
+    priešą, tačiau ir jis, atstumtas, sužeistas ir praradęs žir­
+    gą, vos gyvas paspruko iš kovos lauko.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

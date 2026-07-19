@@ -76,7 +76,15 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
     yra
     dar
     lietuviškesnis.
-  citata_rodoma: "Gotų pakurstyti he­\nrulai, surinkę savo jaunimą ir narsaus Malabato2 vado­\n1 Paulus\nDiaconus.\nLib.\nXII,\nP.\n259."
+  citata_rodoma: |
+    Gotų pakurstyti he­
+    rulai, surinkę savo jaunimą ir narsaus Malabato2 vado­
+    1 Paulus
+    Diaconus.
+    Lib.
+    XII,
+    P.
+    259.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -147,7 +147,12 @@ media_all_json: |-
     atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
     bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
     Lietuvoje.
-  citata_rodoma: "Gana ilgą laiką bajorija čia nieko nelaimėjo. Bet pagaliau,\nkai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),\natsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-\nbunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir\nLietuvoje."
+  citata_rodoma: |
+    Gana ilgą laiką bajorija čia nieko nelaimėjo. Bet pagaliau,
+    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
+    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
+    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
+    Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,8 @@ Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio p
     čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
     patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
     lapio.
-  citata_rodoma: "čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m."
+  citata_rodoma: |
+    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

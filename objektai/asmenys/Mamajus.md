@@ -98,7 +98,14 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
     Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
     kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
     simus pateiks kiti tyrinėjimai.
-  citata_rodoma: "Be to, kyla ir dar \nkitų klausimų: ar Charoboe ordos pečenegai, prisijungę \nprie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė \nten miesto ir nepavadino jo taip pat panašiai Belotzeba. \nIš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas, \nkurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­\nsimus pateiks kiti tyrinėjimai."
+  citata_rodoma: |
+    Be to, kyla ir dar
+    kitų klausimų: ar Charoboe ordos pečenegai, prisijungę
+    prie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė
+    ten miesto ir nepavadino jo taip pat panašiai Belotzeba.
+    Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
+    kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
+    simus pateiks kiti tyrinėjimai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

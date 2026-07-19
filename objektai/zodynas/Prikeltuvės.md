@@ -79,7 +79,8 @@ Terminas vartojamas vestuvių tęsinio ir ištekėjusios moters apdėjimo kontek
     dėjo, didžiai norėjo už bernužėlio į nevalėlę“ .
     Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia:
     turi suruošti vadinamas „prikeltuves“ .
-  citata_rodoma: "Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia: turi suruošti vadinamas „prikeltuves“ ."
+  citata_rodoma: |
+    Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia: turi suruošti vadinamas „prikeltuves“ .
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

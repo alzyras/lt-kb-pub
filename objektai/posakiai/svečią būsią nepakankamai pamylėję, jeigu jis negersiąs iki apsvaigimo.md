@@ -96,7 +96,12 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
     elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
     tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
     tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213.
-  citata_rodoma: "Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui\nnamiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką\nišgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria\nvisi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį\nprūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211."
+  citata_rodoma: |
+    Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
+    namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
+    išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
+    visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

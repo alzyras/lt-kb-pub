@@ -107,7 +107,11 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     P. Lukšys - pirmasis Nepriklausomybės
     kovose žuvęs Lietuvos savano-
     ris.
-  citata_rodoma: "Raudonarmiečiai\nėmė trauktis. Tačiau kitą akimirką į žval-\ngus pasipylė ugnis iš Taučiūnų dvaro. Žuvo\nP."
+  citata_rodoma: |
+    Raudonarmiečiai
+    ėmė trauktis. Tačiau kitą akimirką į žval-
+    gus pasipylė ugnis iš Taučiūnų dvaro. Žuvo
+    P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

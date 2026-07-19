@@ -60,7 +60,8 @@ Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėj
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: "plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį"
+  citata_rodoma: |
+    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

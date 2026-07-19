@@ -139,7 +139,14 @@ Nenurodyta
     tai minima J. F. R. kronikoje, iš kurios pateikiu pažodinę iš­
     trauką: „Trakai - vienas iš seniausių Lietuvos miestų - seniau
     vadinosi Ghurgani.
-  citata_rodoma: "273\n\n## Puslapis 273\n\nįtvirtinimai18. Kalnas, arba Kolnas; etimologinė Kol prasmė -\nkalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­\nturime; reikėtų manyti, kad jame turėjo būti stabų rinkinys."
+  citata_rodoma: |
+    273
+
+    ## Puslapis 273
+
+    įtvirtinimai18. Kalnas, arba Kolnas; etimologinė Kol prasmė -
+    kalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­
+    turime; reikėtų manyti, kad jame turėjo būti stabų rinkinys.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -166,7 +173,17 @@ Nenurodyta
     Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au­
     toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is­
     torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis.
-  citata_rodoma: "Politinė padėtis jau buvo\nnepalanki senajai religinei santvarkai, todėl tikėjimo galvos\nautoritetas pamažu turėjo silpnėti15.\nVis dėlto jie darė didelę įtaką visuomenės mąstymui -  ar\ntai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,\nar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­\nrias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;\npagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­\nsirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs\n14 Schütz."
+  citata_rodoma: |
+    Politinė padėtis jau buvo
+    nepalanki senajai religinei santvarkai, todėl tikėjimo galvos
+    autoritetas pamažu turėjo silpnėti15.
+    Vis dėlto jie darė didelę įtaką visuomenės mąstymui -  ar
+    tai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,
+    ar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­
+    rias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;
+    pagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­
+    sirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs
+    14 Schütz.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

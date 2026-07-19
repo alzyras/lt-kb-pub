@@ -91,7 +91,25 @@ Nenurodyta
     pabėgti,
     paspaudė pentinais žirgus ir, suvirtę į griovius, visi su­
     sirado čia galą.
-  citata_rodoma: "Atspėję jų sumanymą, lietuvių kariai\nprikasė vieškelyje daugybę nedidelių griovių, padengė\njuos plona, nepastebima, bet žirgo neatlaikančia dan­\nga, o patys išsislapstė gretimuose miškuose. Sušalę, iš­\nalkę, išvargę priešai, nenujausdami nei vyliaus, nei pa­\nsalų, ramiai šuoliavo į priekį, manydami, jog jų nety-\nko jokie pavojai. Kai atsidūrė netoli tos vietos, kur\nbuvo prikasta griovių, už nugaros staiga pasigirdo bai-\n5 1 6\n\n## Puslapis 515\n\nsus šauksmas ir iš pasalų iššoko lietuvių kariai. Ne­\ntikėto antpuolio išgąsdinti Livonijos raiteliai, gal no­\nrėdami užimti patogesnę kovos poziciją, gal\npabėgti,\npaspaudė pentinais žirgus ir, suvirtę į griovius, visi su­\nsirado čia galą."
+  citata_rodoma: |
+    Atspėję jų sumanymą, lietuvių kariai
+    prikasė vieškelyje daugybę nedidelių griovių, padengė
+    juos plona, nepastebima, bet žirgo neatlaikančia dan­
+    ga, o patys išsislapstė gretimuose miškuose. Sušalę, iš­
+    alkę, išvargę priešai, nenujausdami nei vyliaus, nei pa­
+    salų, ramiai šuoliavo į priekį, manydami, jog jų nety-
+    ko jokie pavojai. Kai atsidūrė netoli tos vietos, kur
+    buvo prikasta griovių, už nugaros staiga pasigirdo bai-
+    5 1 6
+
+    ## Puslapis 515
+
+    sus šauksmas ir iš pasalų iššoko lietuvių kariai. Ne­
+    tikėto antpuolio išgąsdinti Livonijos raiteliai, gal no­
+    rėdami užimti patogesnę kovos poziciją, gal
+    pabėgti,
+    paspaudė pentinais žirgus ir, suvirtę į griovius, visi su­
+    sirado čia galą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

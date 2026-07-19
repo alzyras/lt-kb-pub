@@ -110,7 +110,10 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
     Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
     nacijos.
-  citata_rodoma: "Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į\nKrokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-\nnacijos."
+  citata_rodoma: |
+    Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
+    Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
+    nacijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

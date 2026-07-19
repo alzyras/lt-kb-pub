@@ -63,7 +63,10 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
     lyvavo ir Vytautas. Pačiame tekste yra pažymėta, kad be ma­
     gistro ir Jogailos savo antspaudas prie dokumentų prikabino
     „Kinstutte herczoge czu Tracken und Wytould unsir son“.
-  citata_rodoma: "Pačiame tekste yra pažymėta, kad be ma­\ngistro ir Jogailos savo antspaudas prie dokumentų prikabino\n„Kinstutte herczoge czu Tracken und Wytould unsir son“."
+  citata_rodoma: |
+    Pačiame tekste yra pažymėta, kad be ma­
+    gistro ir Jogailos savo antspaudas prie dokumentų prikabino
+    „Kinstutte herczoge czu Tracken und Wytould unsir son“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

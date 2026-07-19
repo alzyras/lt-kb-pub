@@ -104,7 +104,19 @@ Nenurodyta
     vyzdžio dėlei, idant niekas daugiau nebepadarytų krikš­
     čioniui nieko pikto. Ir anieji buvo nugalabyti, visaip
     kankinant.
-  citata_rodoma: "Ir parvyksta didysis kunigaikštis Algirdas į Vilnių. \nGoštautas žemai lenkdamasis prašė didįjį kunigaikštį \nAlgirdą, idant tuos pagonis, kurie tuos nekaltus vie­\nnuolius taip žiauriai ir negailestingai žudė, už šitokį jų \nžiaurumą lieptų nubausti. Ir pats didysis kunigaikštis \nAlgirdas labai liūdėjo, kad taip žiauriai nužudė tuos \nkrikščionis-vienuolius, jam buvo apmaudu, kad krikš­\nčionims teko patirti tokį žiaurumą. Už tai pasmerkia \nmyriop penkis šimtus vilniečių, kad juos nubaustų pa­\nvyzdžio dėlei, idant niekas daugiau nebepadarytų krikš­\nčioniui nieko pikto. Ir anieji buvo nugalabyti, visaip \nkankinant."
+  citata_rodoma: |
+    Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
+    Goštautas žemai lenkdamasis prašė didįjį kunigaikštį
+    Algirdą, idant tuos pagonis, kurie tuos nekaltus vie­
+    nuolius taip žiauriai ir negailestingai žudė, už šitokį jų
+    žiaurumą lieptų nubausti. Ir pats didysis kunigaikštis
+    Algirdas labai liūdėjo, kad taip žiauriai nužudė tuos
+    krikščionis-vienuolius, jam buvo apmaudu, kad krikš­
+    čionims teko patirti tokį žiaurumą. Už tai pasmerkia
+    myriop penkis šimtus vilniečių, kad juos nubaustų pa­
+    vyzdžio dėlei, idant niekas daugiau nebepadarytų krikš­
+    čioniui nieko pikto. Ir anieji buvo nugalabyti, visaip
+    kankinant.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

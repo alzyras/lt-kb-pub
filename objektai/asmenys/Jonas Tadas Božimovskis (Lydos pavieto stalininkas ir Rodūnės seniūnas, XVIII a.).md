@@ -91,7 +91,10 @@ Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas. 
     Pvz., 1755 m. kanauninkas rašė, esą seimelių savaitė prasidėjo nuo Ašmenos žemės tei-
     sėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto
     stalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96].
-  citata_rodoma: "Pvz., 1755 m. kanauninkas rašė, esą seimelių savaitė prasidėjo nuo Ašmenos žemės tei-\nsėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto\nstalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96]."
+  citata_rodoma: |
+    Pvz., 1755 m. kanauninkas rašė, esą seimelių savaitė prasidėjo nuo Ašmenos žemės tei-
+    sėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto
+    stalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

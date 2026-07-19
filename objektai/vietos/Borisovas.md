@@ -174,7 +174,20 @@ media_all_json: |-
     taip netvirtus bernardinų pastatų
     pamatus, o sklvpą, kuriame malū­
     nas stovėjo, atiduoda vienuolynui.
-  citata_rodoma: "51\nKaralius Aleksandras savo sprendi­\nmu, datuotu Borisove 1500 m. (feria \nquinta in octava Visitationis Beatae \nVirginis Mariae - ketvirtadienį Švč.\nMergelės Marijos Apsilankymo ok­\ntavoje), bernardinų prašymu, prie \nvienuolyno esantį savo malūną įsa­\nko nugriauti, kadangi šis dėl drebė­\njimo malimo metu išjudino jau ir \ntaip netvirtus bernardinų pastatų \npamatus, o sklvpą, kuriame malū­\nnas stovėjo, atiduoda vienuolynui."
+  citata_rodoma: |
+    51
+    Karalius Aleksandras savo sprendi­
+    mu, datuotu Borisove 1500 m. (feria
+    quinta in octava Visitationis Beatae
+    Virginis Mariae - ketvirtadienį Švč.
+    Mergelės Marijos Apsilankymo ok­
+    tavoje), bernardinų prašymu, prie
+    vienuolyno esantį savo malūną įsa­
+    ko nugriauti, kadangi šis dėl drebė­
+    jimo malimo metu išjudino jau ir
+    taip netvirtus bernardinų pastatų
+    pamatus, o sklvpą, kuriame malū­
+    nas stovėjo, atiduoda vienuolynui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -255,7 +268,19 @@ media_all_json: |-
     vaikais ir visomis brangenybėmis, pats, kurį metą už­
     trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
     savuosius.
-  citata_rodoma: "Ga­\nvęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­\nkis tūkstančius algininkų bei didikų kariaunas ir ka­\nrališkąsias vėliavas, o netrukus ir pats skubiai patrau­\nkė paskui išsiųstąją kariuomenę sutelkęs pašauktinių\nbajorų jėgas ir valstybės viduje įsikūrusių skitų bū­\nrius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius."
+  citata_rodoma: |
+    Ga­
+    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
+    kis tūkstančius algininkų bei didikų kariaunas ir ka­
+    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
+    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
+    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
+    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
+    kiojo karalius.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

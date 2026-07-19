@@ -119,7 +119,8 @@ Nenurodyta
     organizacijas. Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
     šaukusi karo padėties su Lenkija.
-  citata_rodoma: "Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-"
+  citata_rodoma: |
+    Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

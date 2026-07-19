@@ -72,7 +72,12 @@ Jos siekė veikti išvien ir pasitarnauti Lietuvos laisvės bylai tarptautiniu m
     1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-
     vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
     Lietuvos atstatymo, remiantis nekintama lietuvių tautos valia“.
-  citata_rodoma: "Jos siekė veikti išvien \nir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu. Tam įtakos turėjo \n1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-\nvinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos \nLietuvos atstatymo, remiantis nekintama lietuvių tautos valia“."
+  citata_rodoma: |
+    Jos siekė veikti išvien
+    ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu. Tam įtakos turėjo
+    1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-
+    vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
+    Lietuvos atstatymo, remiantis nekintama lietuvių tautos valia“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,13 +74,20 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
-        vienkiemiuose per gerą šaukimą nuo kits kito taip, idant balsą gaidžio ar šunies savo susiedo^173
-        galėtų girdėti, ką darė jau dėl išvengimo tarp savęs barnių, kurie it^174 veikiai galėjo keltis, turint
-        lygiai^175 pievas, dirvas ir daržus, jau saugodamies nuo gaisrų, idant, vienam trobesiui užsidegus,
-        negalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant
-        antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
-        remti ar antram pagalbą duoti, jei to būt reikę.
-  citata_rodoma: "Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172\nvienkiemiuose per gerą šaukimą nuo kits kito taip, idant balsą gaidžio ar šunies savo susiedo^173\ngalėtų girdėti, ką darė jau dėl išvengimo tarp savęs barnių, kurie it^174 veikiai galėjo keltis, turint\nlygiai^175 pievas, dirvas ir daržus, jau saugodamies nuo gaisrų, idant, vienam trobesiui užsidegus,\nnegalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant\nantrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs\nremti ar antram pagalbą duoti, jei to būt reikę."
+    vienkiemiuose per gerą šaukimą nuo kits kito taip, idant balsą gaidžio ar šunies savo susiedo^173
+    galėtų girdėti, ką darė jau dėl išvengimo tarp savęs barnių, kurie it^174 veikiai galėjo keltis, turint
+    lygiai^175 pievas, dirvas ir daržus, jau saugodamies nuo gaisrų, idant, vienam trobesiui užsidegus,
+    negalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant
+    antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
+    remti ar antram pagalbą duoti, jei to būt reikę.
+  citata_rodoma: |
+    Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
+    vienkiemiuose per gerą šaukimą nuo kits kito taip, idant balsą gaidžio ar šunies savo susiedo^173
+    galėtų girdėti, ką darė jau dėl išvengimo tarp savęs barnių, kurie it^174 veikiai galėjo keltis, turint
+    lygiai^175 pievas, dirvas ir daržus, jau saugodamies nuo gaisrų, idant, vienam trobesiui užsidegus,
+    negalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant
+    antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
+    remti ar antram pagalbą duoti, jei to būt reikę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

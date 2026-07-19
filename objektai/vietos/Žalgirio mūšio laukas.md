@@ -47,10 +47,14 @@ Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dzežgonis)
+
     Žalgirio mūšio laukas (dab. Grunvaldo k. apyl.)
-    Žambija (žr. Semba)
-    Žardė (Sarden), p.
-  citata_rodoma: "Dzežgonis)\n\nŽalgirio mūšio laukas (dab. Grunvaldo k. apyl.)\nŽambija (žr."
+    Žambija (žr.
+  citata_rodoma: |
+    Dzežgonis)
+
+    Žalgirio mūšio laukas (dab. Grunvaldo k. apyl.)
+    Žambija (žr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -114,7 +114,16 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
     Lietuva buvo beveik praradusi valstybingumą.
 
     kariuomene stovėjo prie Šklovo.
-  citata_rodoma: "„amžinąja\ntaika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.\n\nTaip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį\namžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje\nbeveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir\nLietuva buvo beveik praradusi valstybingumą.\n\nkariuomene stovėjo prie Šklovo."
+  citata_rodoma: |
+    „amžinąja
+    taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
+
+    Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį
+    amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje
+    beveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir
+    Lietuva buvo beveik praradusi valstybingumą.
+
+    kariuomene stovėjo prie Šklovo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

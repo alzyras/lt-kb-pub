@@ -95,7 +95,12 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
     Saulės. Nakties karalius, laiko tarpsnių valdovas (laikas bu­
     vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir
     keičiantis pavidalą.
-  citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
+  citata_rodoma: |
+    24
+    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
+    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
+    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
+    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

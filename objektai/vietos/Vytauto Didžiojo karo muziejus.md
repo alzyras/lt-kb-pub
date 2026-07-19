@@ -62,7 +62,8 @@ Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune V
     muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
-  citata_rodoma: "500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo"
+  citata_rodoma: |
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -72,7 +72,11 @@ Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo
     Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
     lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
     ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės.
-  citata_rodoma: "Kalbant apie mūsų žemės formavimąsi, ne­\n1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė\njį iš Trakijos į Makedoniją (Noet Fr. Dictionnaire de la fable. Straips­\nnis „Athos“)*."
+  citata_rodoma: |
+    Kalbant apie mūsų žemės formavimąsi, ne­
+    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
+    jį iš Trakijos į Makedoniją (Noet Fr. Dictionnaire de la fable. Straips­
+    nis „Athos“)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -231,7 +231,10 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
     gybę belaisvių. Toks žygis paprastai trukdavo ne ilgiau, kaip
     savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
     kelio lietuviai.
-  citata_rodoma: "Toks žygis paprastai trukdavo ne ilgiau, kaip\nsavaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems\nkelio lietuviai."
+  citata_rodoma: |
+    Toks žygis paprastai trukdavo ne ilgiau, kaip
+    savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
+    kelio lietuviai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -108,7 +108,14 @@ media_all_json: |-
     - 7) Vilniaus vyskupo ir kardinolo ku­
     nigaikščio Jurgio Radvilos pa­
     rašas - Jerzij C ard.
-  citata_rodoma: "448\n6) Stepono Batoro parašas iš laiško, \nrašyto 1576 m. gruodžio 20 d. / \np. 448\n- 7) Vilniaus vyskupo ir kardinolo ku­\nnigaikščio Jurgio Radvilos pa­\nrašas - Jerzij C ard."
+  citata_rodoma: |
+    448
+    6) Stepono Batoro parašas iš laiško,
+    rašyto 1576 m. gruodžio 20 d. /
+    p. 448
+    - 7) Vilniaus vyskupo ir kardinolo ku­
+    nigaikščio Jurgio Radvilos pa­
+    rašas - Jerzij C ard.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

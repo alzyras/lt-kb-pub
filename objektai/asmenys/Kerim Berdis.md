@@ -150,7 +150,17 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
     les iškilmes, uždėjo jam perlais bei brangakmeniais nu­
     sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­
     rastai vadinamu caru) ir pakėlė į valdovus.
-  citata_rodoma: "Kerim Berdis, \ngalingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo \npasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas \nsavo jėgomis nieko laimėti ir nepajėgdamas susitaikyti \nsu likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­\ntu su svarbiausiais savo šalininkais. Vytautas, ne vieną \nkartą ligi tol patyręs šios tautos tvirtą palankumą ir \nsulaukęs karo metais pagalbos, suprato, jog valstybei \nbūsianti didelė nauda, jeigu palenks į save šios tautos \nvadą, jį užstodamas."
+  citata_rodoma: |
+    Kerim Berdis,
+    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
+    pasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas
+    savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti
+    su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­
+    tu su svarbiausiais savo šalininkais. Vytautas, ne vieną
+    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
+    sulaukęs karo metais pagalbos, suprato, jog valstybei
+    būsianti didelė nauda, jeigu palenks į save šios tautos
+    vadą, jį užstodamas.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

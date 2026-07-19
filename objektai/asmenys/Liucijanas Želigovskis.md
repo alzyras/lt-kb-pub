@@ -71,7 +71,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
     Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
-  citata_rodoma: "durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi."
+  citata_rodoma: |
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

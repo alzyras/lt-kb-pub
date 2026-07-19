@@ -71,7 +71,11 @@ media_all_json: |-
     gaikštis Zemovitas sudarė eilinę dar ne-
     užgrobtos Sūduvos pasidalijimo sutartį,
     sustiprindami tarpusavio sąjungą.
-  citata_rodoma: "1260 m. birželio 5 d. jis ir Mozūrijos kuni-\ngaikštis Zemovitas sudarė eilinę dar ne-\nužgrobtos Sūduvos pasidalijimo sutartį,\nsustiprindami tarpusavio sąjungą."
+  citata_rodoma: |
+    1260 m. birželio 5 d. jis ir Mozūrijos kuni-
+    gaikštis Zemovitas sudarė eilinę dar ne-
+    užgrobtos Sūduvos pasidalijimo sutartį,
+    sustiprindami tarpusavio sąjungą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

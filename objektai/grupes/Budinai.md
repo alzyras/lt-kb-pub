@@ -408,7 +408,18 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     chanalijos. Pasak to paties istoriko, budinu giminei bū­
     dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai
     žmonės, turi šviesiai mėlynas akis“1.
-  citata_rodoma: "Iš Herodoto žinome, kad budinai savo žemėje turėjo\n pastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­\n vienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­\n kų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo\n labai didingos, jose taip pat stovėdavo medinės šventyk­\n los, kuriose buvo helenų dievai, garbinami heleniškai,\n altoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­\n davo minimos Dioniso (Bacho) šventės ir vykdavo bak­\n chanalijos. Pasak to paties istoriko, budinu giminei bū­\n dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai\n žmonės, turi šviesiai mėlynas akis“1."
+  citata_rodoma: |
+    Iš Herodoto žinome, kad budinai savo žemėje turėjo
+     pastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­
+     vienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­
+     kų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo
+     labai didingos, jose taip pat stovėdavo medinės šventyk­
+     los, kuriose buvo helenų dievai, garbinami heleniškai,
+     altoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­
+     davo minimos Dioniso (Bacho) šventės ir vykdavo bak­
+     chanalijos. Pasak to paties istoriko, budinu giminei bū­
+     dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai
+     žmonės, turi šviesiai mėlynas akis“1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -427,7 +438,10 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     mums lietuvių tautos pradžia atrodo kaip lydi­
     nys dviejų tautų — gelonų ir budinu. Pirmieji buvo pelaz-
     gų-helenų, antrieji — indų-skitų kilmės.
-  citata_rodoma: "mums lietuvių tautos pradžia atrodo kaip lydi­\n nys dviejų tautų — gelonų ir budinu. Pirmieji buvo pelaz-\n gų-helenų, antrieji — indų-skitų kilmės."
+  citata_rodoma: |
+    mums lietuvių tautos pradžia atrodo kaip lydi­
+     nys dviejų tautų — gelonų ir budinu. Pirmieji buvo pelaz-
+     gų-helenų, antrieji — indų-skitų kilmės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -454,7 +468,16 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
     ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
     liaudies padavimų.
-  citata_rodoma: "Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­\nvirta šventoji upė iki šiol išlaikė nepakitusį savo vardą."
+  citata_rodoma: |
+    Pas­
+    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
+    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
+    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
+    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
+    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
+    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
+    kančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­
+    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -475,7 +498,11 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     arba šaltinis, kurio vanduo tiek pat padeda gauti išganymą arba apsi­
     valymą nuodėmių kaip ir šventieji Indo vandenys.
     H*
-  citata_rodoma: "Indai svarbiu savo religingumo dalyku laiko\ntų upių garbinimą. Garbinti tokį upių šventumą buvo lietuvių\nprotėvių, konkrečiai budinu , indų-skitų tautos, paprotys .\n2 Rostovskis."
+  citata_rodoma: |
+    Indai svarbiu savo religingumo dalyku laiko
+    tų upių garbinimą. Garbinti tokį upių šventumą buvo lietuvių
+    protėvių, konkrečiai budinu , indų-skitų tautos, paprotys .
+    2 Rostovskis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -504,7 +531,18 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
     venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
     arba šiek tiek vėliau.
-  citata_rodoma: "Tikras dalykas yra tik tai, kad Arak-\nso upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip\ntik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­\ncijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­\nsigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-\nsas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas."
+  citata_rodoma: |
+    Tikras dalykas yra tik tai, kad Arak-
+    so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
+    tik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­
+    cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
+    sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
+    sas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
+    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
+    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
+    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
+    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
+    sivadinanti Oskolas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

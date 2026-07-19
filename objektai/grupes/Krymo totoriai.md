@@ -215,7 +215,10 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     su Švedija. Lietuvos pajėgas sudarė apie
     10 tūkst. lietuvių ir 2 tūkst. Krymo to-
     torių - samdinių.
-  citata_rodoma: "Lietuvos pajėgas sudarė apie\n10 tūkst. lietuvių ir 2 tūkst. Krymo to-\ntorių - samdinių."
+  citata_rodoma: |
+    Lietuvos pajėgas sudarė apie
+    10 tūkst. lietuvių ir 2 tūkst. Krymo to-
+    torių - samdinių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -230,7 +233,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
     vių pajėgų. Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.
-  citata_rodoma: "Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-\nvių pajėgų."
+  citata_rodoma: |
+    Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
+    vių pajėgų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -249,7 +254,11 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     kad šiauriau Prostkų per upę keliasi toto-
     riai. Juos sulaikyti jis pasiuntė B. Radvilos
     kavaleriją.
-  citata_rodoma: "Tuo tarpu G. Valdekas gavo žinią,\nkad šiauriau Prostkų per upę keliasi toto-\nriai. Juos sulaikyti jis pasiuntė B. Radvilos\nkavaleriją."
+  citata_rodoma: |
+    Tuo tarpu G. Valdekas gavo žinią,
+    kad šiauriau Prostkų per upę keliasi toto-
+    riai. Juos sulaikyti jis pasiuntė B. Radvilos
+    kavaleriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

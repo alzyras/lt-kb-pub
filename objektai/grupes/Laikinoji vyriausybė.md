@@ -129,7 +129,8 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
     negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
     civilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-
     ti vokiečių kariuomenei.
-  citata_rodoma: "negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir"
+  citata_rodoma: |
+    negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -149,7 +150,8 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
     arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
     tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
     demokratų pakraipos asmenys.
-  citata_rodoma: "tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių"
+  citata_rodoma: |
+    tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -170,7 +172,8 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
     įstatymų ir nutarimų neveikė. Realiai LV situacijos nevaldė, nes negalė-
     jo palaikyti ryšių su visu kraštu – paštas, telegrafas, telefonas naudoti tik
     vokiečių kariniams reikalams.
-  citata_rodoma: "jo palaikyti ryšių su visu kraštu – paštas, telegrafas, telefonas naudoti tik"
+  citata_rodoma: |
+    jo palaikyti ryšių su visu kraštu – paštas, telegrafas, telefonas naudoti tik
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

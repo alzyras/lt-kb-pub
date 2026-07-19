@@ -89,7 +89,14 @@ media_all_json: |-
     Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
     matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
     čių pilkapi ų.
-  citata_rodoma: "Taip jų mokslas rado mora­\nlinę atramą. Po ketverto metų Žemaičių vyskupas Melchioras\nGiedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­\nmiečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­\nniško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­\nkai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis."
+  citata_rodoma: |
+    Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

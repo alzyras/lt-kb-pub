@@ -107,7 +107,12 @@ Nenurodyta
     bei. 1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
     pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
     Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
-  citata_rodoma: "Lietuvių genties iškilimas ir padėjo \npagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-\nbei. 1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip \npat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas \nMindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių."
+  citata_rodoma: |
+    Lietuvių genties iškilimas ir padėjo
+    pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
+    bei. 1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
+    pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
+    Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

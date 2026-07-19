@@ -134,7 +134,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
     delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
     jos ir veikė kuluaruose.
-  citata_rodoma: "prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai"
+  citata_rodoma: |
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +155,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
     inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
     su sostine Vilniumi.
-  citata_rodoma: "inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų"
+  citata_rodoma: |
+    inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -178,7 +180,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
     karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
     sutartimi“).
-  citata_rodoma: "karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos"
+  citata_rodoma: |
+    karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

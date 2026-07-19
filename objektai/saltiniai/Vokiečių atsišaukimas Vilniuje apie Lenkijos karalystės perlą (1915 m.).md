@@ -95,7 +95,8 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
     niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
     Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
     kimus nudraskė.
-  citata_rodoma: "niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu"
+  citata_rodoma: |
+    niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

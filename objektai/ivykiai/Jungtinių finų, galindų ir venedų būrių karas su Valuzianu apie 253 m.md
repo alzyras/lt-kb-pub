@@ -137,7 +137,21 @@ Nenurodyta
     nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
-  citata_rodoma: "Esama \nneabejotinų įrodymų, nes, \nvaldant \nimperatoriui \nGalui, apie 253 metus \njungtiniai finų, \ngalindų ir venedų būriai kariavo su imperatorium Valuzia- \nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­\nnių medalių1. Šie numizmatiniai užrašai nemini gotų, \nnes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­\nsią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­\ntuose2."
+  citata_rodoma: |
+    Esama
+    neabejotinų įrodymų, nes,
+    valdant
+    imperatoriui
+    Galui, apie 253 metus
+    jungtiniai finų,
+    galindų ir venedų būriai kariavo su imperatorium Valuzia-
+    nu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­
+    vino kaip vandalų, finų, galindų ir venedų nugalėto­
+    ją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
+    nių medalių1. Šie numizmatiniai užrašai nemini gotų,
+    nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
+    sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
+    tuose2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

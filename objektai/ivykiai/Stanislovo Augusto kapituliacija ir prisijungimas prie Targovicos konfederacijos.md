@@ -88,7 +88,8 @@ Nenurodyta
     pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
     Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
     kare su Rusija toli gražu nebuvo išsemtos.
-  citata_rodoma: "pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo"
+  citata_rodoma: |
+    pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

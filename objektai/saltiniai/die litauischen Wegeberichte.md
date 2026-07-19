@@ -63,7 +63,13 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
     iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka
     atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
     jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
-  citata_rodoma: "Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­\ntuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose\nAukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų\niš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka\natviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo\njam betarpiškai priklausančiose lietuviškose tėviškės valdose."
+  citata_rodoma: |
+    Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­
+    tuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose
+    Aukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų
+    iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka
+    atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
+    jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

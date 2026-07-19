@@ -283,7 +283,11 @@ media_all_json: |-
     vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.
     1552. Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus
     vaivadai Mikalojui Radvilai.
-  citata_rodoma: "Sklypas tas ir mūrinis namas, kuriame yra spaustu­\nvė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.\n1552. Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus \nvaivadai Mikalojui Radvilai."
+  citata_rodoma: |
+    Sklypas tas ir mūrinis namas, kuriame yra spaustu­
+    vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.
+    1552. Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus
+    vaivadai Mikalojui Radvilai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -308,7 +312,19 @@ media_all_json: |-
     tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
     32 33
     Žr. III priedą.
-  citata_rodoma: "Taip pat, kad miesto \ngyventojai savo reikmėms galėtų lengviau pasisamdyti pa­\ndienius darbininkus, visiems padienininkams nuo tol nu­\nrodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­\nvyzdžiu.\nTais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­\nlo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus \nišradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­\nšalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­\ntinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-\n32 33\nŽr. III priedą."
+  citata_rodoma: |
+    Taip pat, kad miesto
+    gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
+    dienius darbininkus, visiems padienininkams nuo tol nu­
+    rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
+    vyzdžiu.
+    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
+    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
+    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
+    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
+    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
+    32 33
+    Žr. III priedą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -331,7 +347,17 @@ media_all_json: |-
     vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
     čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
     čio iš miesto į Užupį, už Vilnelės.
-  citata_rodoma: "Uždėtas mažasis antspaudas, vaiz­\nduojantis Vytį su aplink neįskaitoma legenda.\nPATS ALEKSANDRAS,\nDIEVO MALONE DIDYSIS LIETUVOS, \nRUSIOS, ŽEMAIČIŲ IR KITŲ \nKUNIGAIKŠTIS\nVilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­\nvilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi- \nčiui šienaujamą pievą palei tavo malūną prie kelio, vedan­\nčio iš miesto į Užupį, už Vilnelės."
+  citata_rodoma: |
+    Uždėtas mažasis antspaudas, vaiz­
+    duojantis Vytį su aplink neįskaitoma legenda.
+    PATS ALEKSANDRAS,
+    DIEVO MALONE DIDYSIS LIETUVOS,
+    RUSIOS, ŽEMAIČIŲ IR KITŲ
+    KUNIGAIKŠTIS
+    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
+    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
+    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
+    čio iš miesto į Užupį, už Vilnelės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -352,7 +378,14 @@ media_all_json: |-
     Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
     menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
     mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
-  citata_rodoma: "Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei\nį vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat\nkarių, abi buvo vienodai narsios. Vis dėlto Radvila ne­\ngalėjo sutikti, kad jo kariai visą laiką tik stebėtų kau­\ntynes: smogęs priešams į sparną, jis nulėmė sėkmę.\nNeilgai trukus priešai pasileido bėgti: žuvus karo kė­\nlėjui, visi kaip vienas paspruko iš kovos lauko."
+  citata_rodoma: |
+    Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
+    į vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat
+    karių, abi buvo vienodai narsios. Vis dėlto Radvila ne­
+    galėjo sutikti, kad jo kariai visą laiką tik stebėtų kau­
+    tynes: smogęs priešams į sparną, jis nulėmė sėkmę.
+    Neilgai trukus priešai pasileido bėgti: žuvus karo kė­
+    lėjui, visi kaip vienas paspruko iš kovos lauko.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -375,7 +408,15 @@ media_all_json: |-
     kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
     gelės Dievo Gimdytojos garbei. Po to pakvietė karmelitus ir
     prie tos bažnyčios jiems pastatydino vienuolyną.
-  citata_rodoma: "Be \nto, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­\nčių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus \nRadvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš \ntotorius pasiektai pergalei atminti savo žemėje už miesto ant \nkalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­\ngelės Dievo Gimdytojos garbei. Po to pakvietė karmelitus ir \nprie tos bažnyčios jiems pastatydino vienuolyną."
+  citata_rodoma: |
+    Be
+    to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­
+    čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus
+    Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš
+    totorius pasiektai pergalei atminti savo žemėje už miesto ant
+    kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
+    gelės Dievo Gimdytojos garbei. Po to pakvietė karmelitus ir
+    prie tos bažnyčios jiems pastatydino vienuolyną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -406,7 +447,25 @@ media_all_json: |-
     Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
     Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
     savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
-  citata_rodoma: "13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,\np. 128.\nXVI\n\n## Puslapis 17\n\nMYKOLAS B A L I N S K I S\nniaus\nMIESTO ISTORIJA\nHaec omnia, quae credidi esse patriae necessaria, \nquae scribere mihi fas erat, vobis exponere arbitror: \nvestrum judicium, non de mea voluntate, sed de opere exoro.\n„Visa, ką maniau būsiant reikalinga tėvynei ir \nką man derėjo parašyti, nutariau išdėstyti jums, \nket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — \nRotundas  (Augustinas Mieleckis), Vilniaus vaitas, \nMikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam \nsavąją Lietuvos istoriją, kurios rankraštis yra dingęs."
+  citata_rodoma: |
+    13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
+    p. 128.
+    XVI
+
+    ## Puslapis 17
+
+    MYKOLAS B A L I N S K I S
+    niaus
+    MIESTO ISTORIJA
+    Haec omnia, quae credidi esse patriae necessaria,
+    quae scribere mihi fas erat, vobis exponere arbitror:
+    vestrum judicium, non de mea voluntate, sed de opere exoro.
+    „Visa, ką maniau būsiant reikalinga tėvynei ir
+    ką man derėjo parašyti, nutariau išdėstyti jums,
+    ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ —
+    Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
+    Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
+    savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

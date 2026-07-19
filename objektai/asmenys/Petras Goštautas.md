@@ -437,7 +437,22 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     naują vienuolyną, visus 36 vienuo­
     lius ir su jais sykiu Goštautą nukan­
     kino.
-  citata_rodoma: "Grzybowski  s, pranciško­\nnas, anksčiau nurodytoje knygoje \n(8 p.) sako, kad Goštautas pranciš­\nkonu tapęs Krokuvoje, o paskui ap­\nsigyvenęs Vilniuje, savo įkurtame \nvienuolyne, Vilniaus miestiečius \nvertęs į Kristaus tikėjimą. Tačiau \npastarieji 1341 metais, į Vilnių atvy­\nkus totoriams, pažadėjusiems pagal­\nbą Algirdui kažkokiame žygyje, \nšiuos pagonis sukurstė pulti pran­\nciškonus ir kartu su jais užpuolę \nnaują vienuolyną, visus 36 vienuo­\nlius ir su jais sykiu Goštautą nukan­\nkino."
+  citata_rodoma: |
+    Grzybowski  s, pranciško­
+    nas, anksčiau nurodytoje knygoje
+    (8 p.) sako, kad Goštautas pranciš­
+    konu tapęs Krokuvoje, o paskui ap­
+    sigyvenęs Vilniuje, savo įkurtame
+    vienuolyne, Vilniaus miestiečius
+    vertęs į Kristaus tikėjimą. Tačiau
+    pastarieji 1341 metais, į Vilnių atvy­
+    kus totoriams, pažadėjusiems pagal­
+    bą Algirdui kažkokiame žygyje,
+    šiuos pagonis sukurstė pulti pran­
+    ciškonus ir kartu su jais užpuolę
+    naują vienuolyną, visus 36 vienuo­
+    lius ir su jais sykiu Goštautą nukan­
+    kino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -469,7 +484,18 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     dokumentus, kurie galėtų ano meto
     įvykius iš tamsos į ryškią šviesą iš­
     kelti.
-  citata_rodoma: "Algirdas viešai nubaudė to žiauraus poelgio vadei­\nvas ir liepė paskelbti visame krašte valią nevaržomiems \ngyventi visiems krikščionių vienuoliams ir laisvę išpažinti \nsavo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­\ndė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­\nčios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl \nto, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi \nliūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­\nnuolyną pastatydino naujoje vietoje, savo naujų medinių rū­\nmų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­\nvadino Mergelės Marijos vardu20."
+  citata_rodoma: |
+    Algirdas viešai nubaudė to žiauraus poelgio vadei­
+    vas ir liepė paskelbti visame krašte valią nevaržomiems
+    gyventi visiems krikščionių vienuoliams ir laisvę išpažinti
+    savo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
+    dė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­
+    čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl
+    to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi
+    liūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­
+    nuolyną pastatydino naujoje vietoje, savo naujų medinių rū­
+    mų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­
+    vadino Mergelės Marijos vardu20.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -564,7 +590,18 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
     18
     Wremiennik Sofijski, p. 334.
-  citata_rodoma: "Ne kartą jau minoritai, apaš­\ntalavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo \npranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­\ntimu į tikėjimą, pasmerkė save skaudžioms kančioms. Ta­\nčiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje, \nvaldovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­\nba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę \nįtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną \nBučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir\n18\nWremiennik Sofijski, p."
+  citata_rodoma: |
+    Ne kartą jau minoritai, apaš­
+    talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
+    pranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­
+    timu į tikėjimą, pasmerkė save skaudžioms kančioms. Ta­
+    čiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,
+    valdovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­
+    ba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę
+    įtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną
+    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
+    18
+    Wremiennik Sofijski, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -645,7 +682,22 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     pas savuosius, įvarydami kry­
     žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
     būta baimės nei pavojaus.
-  citata_rodoma: "Smarkiausia ir sunkiausia kova vyko prie to di­\ndžiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau\n191\n\n## Puslapis 190\n\njis, nukirtus inkarų virves, buvo srovės užneštas ant\nseklumos, kur vos nesudužo, čia jį galop lietuviai už­\nėmė ir sudegino. Surminas grįžo pas valdovą nugalė­\ntoju, visiems nešdamas džiaugsmą, o pats slėpdamas\nširdyje liūdesį, nes šioje pergalingoje kovoje jis ne­\nteko savo brolio Goštauto drauge su kitais narsiais\nkariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­\nsijos maršalas, pakartotiniais antpuoliais nuniokojo Me­\ndininkų valsčių."
+  citata_rodoma: |
+    Smarkiausia ir sunkiausia kova vyko prie to di­
+    džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
+    191
+
+    ## Puslapis 190
+
+    jis, nukirtus inkarų virves, buvo srovės užneštas ant
+    seklumos, kur vos nesudužo, čia jį galop lietuviai už­
+    ėmė ir sudegino. Surminas grįžo pas valdovą nugalė­
+    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
+    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
+    teko savo brolio Goštauto drauge su kitais narsiais
+    kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
+    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
+    dininkų valsčių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -679,7 +731,27 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     tas, įsakė ištardyti bruzdėji­
     mo vadovus. Ištardžius penki
     8'
-  citata_rodoma: "Vienas būrelis iš sep­\ntynių vienuolių buvo prievarta išvilktas iš namų į aikš­\ntę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,\ntuo būdu pašventindami savo krauju lietuvių žemes\nKristaus mokslo sėjai; kitas būrelis, taip pat iš septy­\nnių vienuolių, buvo nutemptas į kalną, kurį žmonės\nvadina Plikuoju, čia juos prie kryžių pririšo ir nuo\nstataus kalno šlaito nustūmė į papėdėje tekančią Vil­\nnią. Šventus nužudytųjų kūnus Goštautas įsakė surasti\nir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­\ntaus žodį. Sugrįžęs iš Maskvos žygio, Algirdas, gal\npaskatintas nepaprastai žiauraus nusikaltimo, gal dėl\nto, kad dabar palankiau nei\nV iln ie č ia i n u bau džia-\nanksčiau žiūrėjo į krikščio-\nm i už k rik šč io n y b ė s\nnis, o gal Goštauto sukursty-\nsk e lb ė jų  n u žu d ym ą\ntas, įsakė ištardyti bruzdėji­\nmo vadovus."
+  citata_rodoma: |
+    Vienas būrelis iš sep­
+    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
+    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
+    tuo būdu pašventindami savo krauju lietuvių žemes
+    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
+    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
+    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
+    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
+    nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
+    ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
+    taus žodį. Sugrįžęs iš Maskvos žygio, Algirdas, gal
+    paskatintas nepaprastai žiauraus nusikaltimo, gal dėl
+    to, kad dabar palankiau nei
+    V iln ie č ia i n u bau džia-
+    anksčiau žiūrėjo į krikščio-
+    m i už k rik šč io n y b ė s
+    nis, o gal Goštauto sukursty-
+    sk e lb ė jų  n u žu d ym ą
+    tas, įsakė ištardyti bruzdėji­
+    mo vadovus.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -729,7 +801,19 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
     sausų malkų ir padegė taip, kad vėjas neštų liepsną į
     pilį, daug gynėjų žuvo ugnyje.
-  citata_rodoma: "Iš pradžių Ragainės komtūras išsklaidė dar­\nbininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­\ntosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė\npradėtą pilį. Po to Prūsijos magistras užėmė ir sude­\ngino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;\ntaip pat sudegino ir užkariavo Veliuoną, neseniai pa­\nkeltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­\ntas, tačiau puolėjai prie pačių sienų sukrovė krūvą\nsausų malkų ir padegė taip, kad vėjas neštų liepsną į\npilį, daug gynėjų žuvo ugnyje. Įgulos vadas Goštautas,\nnors pats pasidavęs priešams, žuvo nuo nugalėtojų\nrankų, kai šie susiginčijo dėl belaisvio."
+  citata_rodoma: |
+    Iš pradžių Ragainės komtūras išsklaidė dar­
+    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
+    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
+    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
+    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
+    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
+    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
+    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
+    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
+    pilį, daug gynėjų žuvo ugnyje. Įgulos vadas Goštautas,
+    nors pats pasidavęs priešams, žuvo nuo nugalėtojų
+    rankų, kai šie susiginčijo dėl belaisvio.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

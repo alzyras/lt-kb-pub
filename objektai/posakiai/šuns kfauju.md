@@ -108,7 +108,11 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
     išgalabyti, o mužikus — šuns kraują — iškelti" paro­
     dytas kaip viena iš baisiausių Žygimanto Kęstutaičio
     nedorybių.
-  citata_rodoma: "Tariamas siekimas „visą bajorų luomą kruvinai \nišgalabyti, o mužikus — šuns kraują — iškelti\" paro­\ndytas kaip viena iš baisiausių Žygimanto Kęstutaičio \nnedorybių."
+  citata_rodoma: |
+    Tariamas siekimas „visą bajorų luomą kruvinai
+    išgalabyti, o mužikus — šuns kraują — iškelti" paro­
+    dytas kaip viena iš baisiausių Žygimanto Kęstutaičio
+    nedorybių.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -135,7 +139,14 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
     gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
     kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
     gumi.
-  citata_rodoma: "Valstiečiai originaliajame Bychovco kronikos teks­\nte vadinami „šuns kfauju\", bet nėra ko stebėtis, prisi­\nminus, kad toje pačioje kronikoje feodalas Droždža, \nLietuvos did. kunigaikščio Aleksandro favorito kuni­\ngaikščio Mykolo Glinskio giminaitis, valdęs didžiojo \nkunigaikščio valsčius ir pilis, vadinamas „prastu\" žmo­\ngumi."
+  citata_rodoma: |
+    Valstiečiai originaliajame Bychovco kronikos teks­
+    te vadinami „šuns kfauju", bet nėra ko stebėtis, prisi­
+    minus, kad toje pačioje kronikoje feodalas Droždža,
+    Lietuvos did. kunigaikščio Aleksandro favorito kuni­
+    gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
+    kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
+    gumi.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

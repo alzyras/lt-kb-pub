@@ -119,7 +119,16 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
     vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
     Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
     Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
-  citata_rodoma: "Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae\n                                Mariae] pastatymą\n\n  Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo\nįsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad\nmūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai\nkurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė\nį Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo\n1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu."
+  citata_rodoma: |
+    Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
+                                    Mariae] pastatymą
+
+      Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
+    įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
+    mūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai
+    kurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė
+    į Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo
+    1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

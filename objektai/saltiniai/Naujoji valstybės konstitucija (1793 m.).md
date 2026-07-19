@@ -78,7 +78,10 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
     šeimininkavo Kotrynos ambasadorius, Ziversas. Buvo sudaryta
     naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
     buvusi po I padalinimo.
-  citata_rodoma: "Buvo sudaryta\nnaujoji valstybės konstitucija, kuria buvo grąžinta santvarka,\nbuvusi po I padalinimo."
+  citata_rodoma: |
+    Buvo sudaryta
+    naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
+    buvusi po I padalinimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

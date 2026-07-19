@@ -113,7 +113,8 @@ Socialinė ir prekybinė grupė.
     Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į
     vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reika­
     linga prekių.
-  citata_rodoma: "Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reikalinga prekių."
+  citata_rodoma: |
+    Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reikalinga prekių.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
@@ -134,7 +135,8 @@ Socialinė ir prekybinė grupė.
     Ką beėję pėsti, jie važiuoja važiuoti ir ne tiek šį tą parduoda, kiek
     perka, būtent: odas, kailius, ašutus, paukščius, kiaušinius, skudurus
     ir visokias nuliekamas smulkmenas.
-  citata_rodoma: "Šiandien kromininkai po kaimus nebevaikščioja. Ką beėję pėsti, jie važiuoja važiuoti ir ne tiek šį tą parduoda, kiek perka, būtent: odas, kailius, ašutus, paukščius, kiaušinius, skudurus ir visokias nuliekamas smulkmenas."
+  citata_rodoma: |
+    Šiandien kromininkai po kaimus nebevaikščioja. Ką beėję pėsti, jie važiuoja važiuoti ir ne tiek šį tą parduoda, kiek perka, būtent: odas, kailius, ašutus, paukščius, kiaušinius, skudurus ir visokias nuliekamas smulkmenas.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
@@ -153,7 +155,8 @@ Socialinė ir prekybinė grupė.
     kiojęs šeimyną, pradeda metus.
     48.
     Kaimo žydai kromininkai.
-  citata_rodoma: "Kaimo žydai kromininkai."
+  citata_rodoma: |
+    Kaimo žydai kromininkai.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
@@ -175,7 +178,8 @@ Socialinė ir prekybinė grupė.
     Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą,
     Mums,
     mažiems, kromininkas ir Leiba buvo lygios sąvokos.
-  citata_rodoma: "Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą, mums, mažiems, kromininkas ir Leiba buvo lygios sąvokos."
+  citata_rodoma: |
+    Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą, mums, mažiems, kromininkas ir Leiba buvo lygios sąvokos.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas

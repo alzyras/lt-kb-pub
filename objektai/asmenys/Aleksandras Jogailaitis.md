@@ -940,7 +940,17 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: "229\n\n## Puslapis 246\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nsu Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­\nkreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai \nir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­\ntarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­\ndžiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m."
+  citata_rodoma: |
+    229
+
+    ## Puslapis 246
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
+    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
+    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
+    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
+    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -967,7 +977,19 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
-  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
+  citata_rodoma: |
+    ), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
+    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
+    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
+    siljevičiaus užmačių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1132,7 +1154,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     besiverčiantiems auksakalystės menu nesilaikant civilinės
     teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
     rams numatytos bausmės.
-  citata_rodoma: "Šiuo raštu skel­\nbiame visiems ir kiekvienam, kam dera žinoti, kad pas mus \nir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems \nsenjorams* ir visam mūsų Vilniaus miesto auksakalių ce­\nchui, buvo pakviestas garsusis Steponas Genseris, auksaka­\nlys, tiek dėl jo paties, tiek dėl jo nekilnojamojo turto, jei kokį \nturėtų. Už tai, kad jis nepakluso Lenkijos karaliaus it taip \npat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro, \nmūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­\nto auksakalių cechui duotai ir mūsų patvirtintai privilegi­\njai, nebijodamas toje pačioje privilegijoje nedrausmingiems, \nbesiverčiantiems auksakalystės menu nesilaikant civilinės \nteisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­\nrams numatytos bausmės."
+  citata_rodoma: |
+    Šiuo raštu skel­
+    biame visiems ir kiekvienam, kam dera žinoti, kad pas mus
+    ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems
+    senjorams* ir visam mūsų Vilniaus miesto auksakalių ce­
+    chui, buvo pakviestas garsusis Steponas Genseris, auksaka­
+    lys, tiek dėl jo paties, tiek dėl jo nekilnojamojo turto, jei kokį
+    turėtų. Už tai, kad jis nepakluso Lenkijos karaliaus it taip
+    pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro,
+    mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­
+    to auksakalių cechui duotai ir mūsų patvirtintai privilegi­
+    jai, nebijodamas toje pačioje privilegijoje nedrausmingiems,
+    besiverčiantiems auksakalystės menu nesilaikant civilinės
+    teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
+    rams numatytos bausmės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1242,7 +1278,18 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
     greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
     dėl pavojingos Glinskio puikybės.
-  citata_rodoma: "paskui, sugrįžęs į Krokuvą, vėl bu-\n234\n\n## Puslapis 251\n\nIII KNYGA\nlėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­\ntinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o \njo palaikai iškart buvo palaidoti koplyčioje, prie katedros, \ngreta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą \ndėl pavojingos Glinskio puikybės."
+  citata_rodoma: |
+    paskui, sugrįžęs į Krokuvą, vėl bu-
+    234
+
+    ## Puslapis 251
+
+    III KNYGA
+    lėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­
+    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
+    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
+    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
+    dėl pavojingos Glinskio puikybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1364,7 +1411,23 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     žalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­
     damas ginkluota jėga jam atkeršyti už Olbrachto pra­
     laimėjimą kaip už savo paties pažeminimą.
-  citata_rodoma: "Dėl šių priežasčių Severs­\nko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos, \nišdavė valstybę ir v isas savo valdas prijungė prie Mas­\nkvos. Ž inia apie atsiskyrimą smarkiai išgąsdino karalių, \ntačiau jis nieko kito nesugebėjo padaryti, tik užprotes­\ntuoti per pasiuntinį V a itie k ų K iočką dėl šios skriaudos.\n53S\n\nTiesa, žadėjo karalius patraukti su visomis jėgomis ir \natkeršyti Maskvos valdovui, tačiau, tuo pat metu gavęs \nlaišką, kuriuo jam pranešė, kad jo sūnus Jonas Olbra- \nchtas Vengrijoje sumuštas brolio Vladislovo ir su nu­\ngalėtoju sudaręs santarvę, padarydamas Lietuvai daug \nžalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­\ndamas ginkluota jėga jam atkeršyti už Olbrachto pra­\nlaimėjimą kaip už savo paties pažeminimą."
+  citata_rodoma: |
+    Dėl šių priežasčių Severs­
+    ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos,
+    išdavė valstybę ir v isas savo valdas prijungė prie Mas­
+    kvos. Ž inia apie atsiskyrimą smarkiai išgąsdino karalių,
+    tačiau jis nieko kito nesugebėjo padaryti, tik užprotes­
+    tuoti per pasiuntinį V a itie k ų K iočką dėl šios skriaudos.
+    53S
+
+    Tiesa, žadėjo karalius patraukti su visomis jėgomis ir
+    atkeršyti Maskvos valdovui, tačiau, tuo pat metu gavęs
+    laišką, kuriuo jam pranešė, kad jo sūnus Jonas Olbra-
+    chtas Vengrijoje sumuštas brolio Vladislovo ir su nu­
+    galėtoju sudaręs santarvę, padarydamas Lietuvai daug
+    žalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­
+    damas ginkluota jėga jam atkeršyti už Olbrachto pra­
+    laimėjimą kaip už savo paties pažeminimą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1400,7 +1463,18 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     anksčiau už karalių mirė Vilniaus vyskupas Andrius,
     kilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu
     bei proto aštrumu.
-  citata_rodoma: "Gerokai nesutarė tie, kurie, visaip meilin-\ndamiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie\natvirai siūlė Simoną Olelkaitį. Vis dėlto šiuos užmojus\nsutramdė dar tebegyva jų širdyse Kazimiero įtaka ir\npagarba jam: jie negalėjo aplenkti jo sūnų, ypač Alek­\nsandro, kurį paskutinę gyvenimo valandą Kazimieras\npriešmirtiniais žodžiais jiems pasiūlė į valdovus. Be to,\nir pats Aleksandras, jaunikaitis, kupinas valdovui de­\nramų savybių, žadino viltį, jog per savo gabumus susi­\nlauks tokios pat sėkmės, kokios iš pradžių buvo susi­\nlaukęs jo tėvas."
+  citata_rodoma: |
+    Gerokai nesutarė tie, kurie, visaip meilin-
+    damiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie
+    atvirai siūlė Simoną Olelkaitį. Vis dėlto šiuos užmojus
+    sutramdė dar tebegyva jų širdyse Kazimiero įtaka ir
+    pagarba jam: jie negalėjo aplenkti jo sūnų, ypač Alek­
+    sandro, kurį paskutinę gyvenimo valandą Kazimieras
+    priešmirtiniais žodžiais jiems pasiūlė į valdovus. Be to,
+    ir pats Aleksandras, jaunikaitis, kupinas valdovui de­
+    ramų savybių, žadino viltį, jog per savo gabumus susi­
+    lauks tokios pat sėkmės, kokios iš pradžių buvo susi­
+    laukęs jo tėvas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1425,7 +1499,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     sėdžiavo seimas, valdovo ap­
     daru pasipuošusį Aleksandrą palydėjo į šv. Stanislovo
     katedrą ir pasodino į tėvo sostą.
-  citata_rodoma: "Akivaizdus ir nepaprastas tautos pritarimas\nju  k u n ig a ik ščiu\nsusirinko į Vilniaus seimą. At­\nvyko ir tokie žymūs vyrai,\n5 4 2\n\n## Puslapis 541\n\nneleido atidėlioti vainikavimo\nP a k ėlim a s į so stą\ndienos: iš tos vietos, kur po­\nsėdžiavo seimas, valdovo ap­\ndaru pasipuošusį Aleksandrą palydėjo į šv. Stanislovo\nkatedrą ir pasodino į tėvo sostą."
+  citata_rodoma: |
+    Akivaizdus ir nepaprastas tautos pritarimas
+    ju  k u n ig a ik ščiu
+    susirinko į Vilniaus seimą. At­
+    vyko ir tokie žymūs vyrai,
+    5 4 2
+
+    ## Puslapis 541
+
+    neleido atidėlioti vainikavimo
+    P a k ėlim a s į so stą
+    dienos: iš tos vietos, kur po­
+    sėdžiavo seimas, valdovo ap­
+    daru pasipuošusį Aleksandrą palydėjo į šv. Stanislovo
+    katedrą ir pasodino į tėvo sostą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1448,7 +1536,17 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     siekdamas pergalės, susilaukė pralaimėjimo: visiems
     pulkams pasklidus atviroje lygumoje, parodė priešams,
     kaip mažai teturi kariuomenės.
-  citata_rodoma: "Atvestas pas Ivaną, Konstan­\ntinas, tironui įsakius, turėjo iškęsti neapsakomus kan­\nkinimus: ne tik kojas jam it vergui surakino grandinė­\nmis, bet ir rankas užlaužė už nugaros ir nelyginant\nraiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą\nAleksandras sužinojo prie Bobro upės; norėdamas su­\nstabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-\nse. Kodėl vėliau Aleksandras su kariuomene patraukė\nlink Polocko, nei kur parašyta radau, nei pats atspėti\ngalėjau."
+  citata_rodoma: |
+    Atvestas pas Ivaną, Konstan­
+    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
+    kinimus: ne tik kojas jam it vergui surakino grandinė­
+    mis, bet ir rankas užlaužė už nugaros ir nelyginant
+    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
+    Aleksandras sužinojo prie Bobro upės; norėdamas su­
+    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
+    se. Kodėl vėliau Aleksandras su kariuomene patraukė
+    link Polocko, nei kur parašyta radau, nei pats atspėti
+    galėjau.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1476,7 +1574,27 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     kėdamas valdovo palankumu, nekreipė dėmesio į
     žmonių kalbas, nors savo ruožtu visaip stengėsi pra­
     žudyti gandų skleidėjus.
-  citata_rodoma: "Neatsispyręs kas dieną girdimiems Glinskio\nklastingiems\nraginimams,\nKaralius\npasmerkia\nAleksandras pasmerkė mir-\nmirčiai\nžymiausius\nčiai Žemaitijos seniūną Sta-\nLietuvos didikus\nnislovą Žarnovskį, Smolens­\nko vietininką Stanislovą Kiš­\nką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos\nmaršalą Joną Zaberezinskį ir kitus to paties luomo ir\ntos pačios minties žmones. Jis sušaukė Breste seimą,\nketindamas kokia nors dingstimi sukviesti ten žymiau­\nsius didikus į pilį, suimti ir išžudyti. Nieko nežinoda­\nmi apie karaliaus sumanymus, į seimą kaip paprastai\nsuvažiavo gausybė bajorų, tačiau, karalystės kanclerio\nJono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį."
+  citata_rodoma: |
+    Neatsispyręs kas dieną girdimiems Glinskio
+    klastingiems
+    raginimams,
+    Karalius
+    pasmerkia
+    Aleksandras pasmerkė mir-
+    mirčiai
+    žymiausius
+    čiai Žemaitijos seniūną Sta-
+    Lietuvos didikus
+    nislovą Žarnovskį, Smolens­
+    ko vietininką Stanislovą Kiš­
+    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
+    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
+    tos pačios minties žmones. Jis sušaukė Breste seimą,
+    ketindamas kokia nors dingstimi sukviesti ten žymiau­
+    sius didikus į pilį, suimti ir išžudyti. Nieko nežinoda­
+    mi apie karaliaus sumanymus, į seimą kaip paprastai
+    suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
+    Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1524,7 +1642,14 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     mu deramai pateisindavo nuomonę apie juos. Kiekvienas žy­
     nys ar vaidilutė privalėjo likti viengungiai, laikytis nepriekaiš­
     tingos skaistybės, būti nepapeikiamų papročių.
-  citata_rodoma: "Tai tikriausiai pati seniausia šventovė Že­\nmaitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,\nVilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­\ndant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­\ntoje buvo pastatyta filija .\nLietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­\nvių, kurios priklausė ugnies šventovėms piratėjoms."
+  citata_rodoma: |
+    Tai tikriausiai pati seniausia šventovė Že­
+    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
+    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
+    Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
+    vių, kurios priklausė ugnies šventovėms piratėjoms.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1545,7 +1670,18 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
     Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-
     vas.
-  citata_rodoma: "Tai tik­\nriausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­\njoje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero\nir Zurblio (2urblis)\npievos.\nValdant\nkaraliui\nAleksandrui,\njo\nįsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.\n,9a Ludwik z Pokiewia."
+  citata_rodoma: |
+    Tai tik­
+    riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
+    joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero
+    ir Zurblio (2urblis)
+    pievos.
+    Valdant
+    karaliui
+    Aleksandrui,
+    jo
+    įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
+    ,9a Ludwik z Pokiewia.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1591,7 +1727,11 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos imperatoriaus
     Albrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­
     vo n e Gardine, o Vilniuje, paliktas ten karaliaus vietininku.
-  citata_rodoma: "5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje \n1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus \nAlbrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­\nvo n e  Gardine, o Vilniuje, paliktas ten karaliaus vietininku."
+  citata_rodoma: |
+    5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje
+    1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus
+    Albrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­
+    vo n e  Gardine, o Vilniuje, paliktas ten karaliaus vietininku.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

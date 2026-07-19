@@ -197,7 +197,14 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
     metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
     1236).
-  citata_rodoma: "Apie tamplierių ordino panaikinimą\n\n  1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas\nV, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet\napaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties\nmetais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.\n1236)."
+  citata_rodoma: |
+    Apie tamplierių ordino panaikinimą
+
+      1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas
+    V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet
+    apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
+    metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
+    1236).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -252,7 +259,14 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
     vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-  citata_rodoma: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291\nm.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310\nm. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių\nordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo\nParyžiuje 1314 m.69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos."
+  citata_rodoma: |
+    1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
+    m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
+    m. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių
+    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
+    Paryžiuje 1314 m.69
+      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
+    argumentacijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

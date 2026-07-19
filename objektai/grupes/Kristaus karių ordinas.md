@@ -107,7 +107,22 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
     Lubava (Lubovia; Löbau, dab. Lubawa, Liubava), p., miestas
     Luka
     Lukas (Lick, vėliau Lyck, dab.
-  citata_rodoma: "Diewenns\nDirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)\nDiunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)\nDyrų sodyba\nDnepras, u.\n   padneprė\nDobinas\nDobre Miasto žr. Gutštatas\nDobrynė, ž. kunigaikštystė\n     pilis, miestas\nDobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas\nDomijono šv. ordinas\nDona\nDorpatas\nDortmundas"
+  citata_rodoma: |
+    Diewenns
+    Dirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)
+    Diunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)
+    Dyrų sodyba
+    Dnepras, u.
+       padneprė
+    Dobinas
+    Dobre Miasto žr. Gutštatas
+    Dobrynė, ž. kunigaikštystė
+         pilis, miestas
+    Dobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas
+    Domijono šv. ordinas
+    Dona
+    Dorpatas
+    Dortmundas
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

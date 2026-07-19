@@ -87,7 +87,8 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
     mo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė. Todėl XV–XVI a.
     būtent LDK koncentravosi gausūs bažnytinės unijos bandymai, galutinai
     nulėmę Brastos bažnytinę uniją 1596 m.
-  citata_rodoma: "pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir"
+  citata_rodoma: |
+    pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +108,8 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
     bendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek
     Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
     lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
-  citata_rodoma: "Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko"
+  citata_rodoma: |
+    Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

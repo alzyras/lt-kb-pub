@@ -171,7 +171,19 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
     nutarė, kad anuodu bus jų įpėdiniais didžiųjų kuni-
     Lietuvi
     (M itu
-  citata_rodoma: "APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ \nVILNIUJE\nTuo melu kai didysis kunigaikštis Algirdas žy­\ngiavo prieš Maskvą, o su juo buvo jo vaivada Petras \nGoštautas, susirinko Vilniaus miesliečiai pagonys ir di­\ndeliu būriu atėjo prie vienuolyno; nenorėdami, kad \nbūtų Romos tikėjimo krikščionių, vienuolyną sudegino \nir septynis vienuolius sukapojo, o kitus septynis vie­\nnuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­\nkydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­\nkite. Kam mūsų dievus naikinote.\" 2 O vyskupo sode, \nkur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 ."
+  citata_rodoma: |
+    APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
+    VILNIUJE
+    Tuo melu kai didysis kunigaikštis Algirdas žy­
+    giavo prieš Maskvą, o su juo buvo jo vaivada Petras
+    Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
+    deliu būriu atėjo prie vienuolyno; nenorėdami, kad
+    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
+    ir septynis vienuolius sukapojo, o kitus septynis vie­
+    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
+    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
+    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
+    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

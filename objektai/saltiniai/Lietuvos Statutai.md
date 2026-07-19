@@ -254,7 +254,8 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
     tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Taigi politinis
     lietuvių elitas – stačiatikiškos kultūros užsakovai.
-  citata_rodoma: "tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Taigi politinis"
+  citata_rodoma: |
+    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Taigi politinis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -276,7 +277,13 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     teisėmis naudojosi tik bajorų luomas (bet net XIX a. konstitucingoje ir
     modernioje Didžiojoje Britanijoje tokiomis teisėmis besinaudojančių
     piliečių procentas nebuvo didesnis).
-  citata_rodoma: "Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo \nlygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūri-\nmo iniciatoriais Albertu Goštautu ar Leonu Sapiega. Tačiau politinėmis \nteisėmis naudojosi tik bajorų luomas (bet net XIX a. konstitucingoje ir \nmodernioje Didžiojoje Britanijoje tokiomis teisėmis besinaudojančių \npiliečių procentas nebuvo didesnis)."
+  citata_rodoma: |
+    Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo
+    lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūri-
+    mo iniciatoriais Albertu Goštautu ar Leonu Sapiega. Tačiau politinėmis
+    teisėmis naudojosi tik bajorų luomas (bet net XIX a. konstitucingoje ir
+    modernioje Didžiojoje Britanijoje tokiomis teisėmis besinaudojančių
+    piliečių procentas nebuvo didesnis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -295,7 +302,8 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     voje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų
     krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
     Statutų teisine norma.
-  citata_rodoma: "krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos"
+  citata_rodoma: |
+    krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -315,7 +323,8 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
     tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
     jasi Lietuvos Statutais.
-  citata_rodoma: "gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos"
+  citata_rodoma: |
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -353,7 +362,15 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
     15
     tuvių kalba.
-  citata_rodoma: "LDK ba-\njorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais. Net oficialioji \nvalstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis \nsiekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lie-\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n15\ntuvių kalba."
+  citata_rodoma: |
+    LDK ba-
+    jorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais. Net oficialioji
+    valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis
+    siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lie-
+
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    15
+    tuvių kalba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -402,7 +419,13 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
     jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.
-  citata_rodoma: "Bendras vidaus politinis \ngyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos \nStatutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-\ntuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-\njasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės \npergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab."
+  citata_rodoma: |
+    Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -427,7 +450,16 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
     valdžios galias riboja konstitucija.
-  citata_rodoma: "Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir \njo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės \npamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos \nRespublikos konstitucijomis. Pagrindinės Konstitucijos nuostatos skelbė, \nkad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta, \nsuverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo \ntiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią \nLietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas, \nvaldžios galias riboja konstitucija."
+  citata_rodoma: |
+    Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
+    jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės
+    pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos
+    Respublikos konstitucijomis. Pagrindinės Konstitucijos nuostatos skelbė,
+    kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,
+    suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo
+    tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
+    Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
+    valdžios galias riboja konstitucija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -93,7 +93,34 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
     Iki okupacijos tarnavo nepriklausomos Lietuvos ka-
     riuomenėje - Alytuje, ulonų pulke, jam buvo suteik-
     tas puskarininkio laipsnis.
-  citata_rodoma: "gegužės 16 dienos mūšyje\n\ndalyvavo apie 90 partizanų\n\nNKVD pajėgos\n\nPartizanus kalniškės miške puolė 1-ojo\nPabaltijo fronto NKvp kariuomenės\n220-asis Kutuzovo ordino pulkas. Jam\nvadovavo majoras Jacenka ir štabo virši-\nninkas majoras Buiničius.\n\n/  Partizaninio pasipriešinimo\npradžios Lietuvos laisvės\nkovotojų raištis, naudotas\nPietų Lietuvoje\n\nDainavos apygardos\npartizanai\n\n## Puslapis 227\n\nJonas Neifalta-Lakūnas (1910-1945) IŠ NKVD RAPORTO\n\nIki okupacijos tarnavo nepriklausomos Lietuvos ka-\nriuomenėje - Alytuje, ulonų pulke, jam buvo suteik-\ntas puskarininkio laipsnis."
+  citata_rodoma: |
+    gegužės 16 dienos mūšyje
+
+    dalyvavo apie 90 partizanų
+
+    NKVD pajėgos
+
+    Partizanus kalniškės miške puolė 1-ojo
+    Pabaltijo fronto NKvp kariuomenės
+    220-asis Kutuzovo ordino pulkas. Jam
+    vadovavo majoras Jacenka ir štabo virši-
+    ninkas majoras Buiničius.
+
+    /  Partizaninio pasipriešinimo
+    pradžios Lietuvos laisvės
+    kovotojų raištis, naudotas
+    Pietų Lietuvoje
+
+    Dainavos apygardos
+    partizanai
+
+    ## Puslapis 227
+
+    Jonas Neifalta-Lakūnas (1910-1945) IŠ NKVD RAPORTO
+
+    Iki okupacijos tarnavo nepriklausomos Lietuvos ka-
+    riuomenėje - Alytuje, ulonų pulke, jam buvo suteik-
+    tas puskarininkio laipsnis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

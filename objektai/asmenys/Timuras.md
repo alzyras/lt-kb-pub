@@ -91,7 +91,11 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
     vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
     menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
-  citata_rodoma: "Timuras\ntačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo\nvado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­\nmenės į kautynes stojo žymiai daugiau už Vytauto jėgas^34."
+  citata_rodoma: |
+    Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
+    menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +112,10 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     ordoje. Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo
     chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Kad
     ir atgavęs valdžią, Tochtamišas nesijautė saugus.
-  citata_rodoma: "Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo\nchano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Kad\nir atgavęs valdžią, Tochtamišas nesijautė saugus."
+  citata_rodoma: |
+    Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo
+    chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Kad
+    ir atgavęs valdžią, Tochtamišas nesijautė saugus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

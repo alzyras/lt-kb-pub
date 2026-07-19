@@ -98,7 +98,17 @@ media_all_json: |-
     auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
     žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
     konvikto gyventojams 8 nuošimčius mokėjo.
-  citata_rodoma: "186\n\n## Puslapis 203\n\nIl KNYGA\n1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą \ndavė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 \nauksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo \nžydams; nuo šios sumos kahalas iki 1763 metų Valerijono \nkonvikto gyventojams 8 nuošimčius mokėjo."
+  citata_rodoma: |
+    186
+
+    ## Puslapis 203
+
+    Il KNYGA
+    1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
+    davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500
+    auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
+    žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
+    konvikto gyventojams 8 nuošimčius mokėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

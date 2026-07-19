@@ -204,7 +204,12 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     binimo apeigų liekanos.
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
-  citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
+  citata_rodoma: |
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -260,7 +265,13 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     i Alų, kuris buvo skirtas atnašavimui, pirkdavo už pinigus, kuriuos
     gaudavo už javus, tikriausiai bendrai viso kaimo pasėtus atskiroje dir­
     voje, tai yra šventame lauke (Luc.
-  citata_rodoma: "Buvo buriama\nstebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.\nBuvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.\nStenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­\nsimenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­\nmo nekaltai nubaudė vieną žmogų“42."
+  citata_rodoma: |
+    Buvo buriama
+    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
+    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
+    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
+    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
+    mo nekaltai nubaudė vieną žmogų“42.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

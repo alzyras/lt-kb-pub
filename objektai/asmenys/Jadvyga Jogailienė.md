@@ -429,7 +429,12 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
     gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
     jos karalium“.
-  citata_rodoma: "Ka­\nralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­\nriolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­\ngai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­\njos karalium“."
+  citata_rodoma: |
+    Ka­
+    ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­
+    riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
+    gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
+    jos karalium“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -450,7 +455,12 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
     Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
     go markagrafu, vėliau tapusiu ciesorium Zigmantu.
-  citata_rodoma: "Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi\njos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su\nAustrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­\ngo markagrafu, vėliau tapusiu ciesorium Zigmantu."
+  citata_rodoma: |
+    Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
+    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
+    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
+    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
+    go markagrafu, vėliau tapusiu ciesorium Zigmantu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -474,7 +484,15 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
     tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
     tos žemės priklauso Lenkijai.
-  citata_rodoma: "Tada Jadvyga „mylimam\nbroliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir\nRusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­\ntos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį\nčinšą^3 ).\nKiek toks reikalavimas buvo teisingas, sunku pasakyti, bet\ntokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad\ntos žemės priklauso Lenkijai."
+  citata_rodoma: |
+    Tada Jadvyga „mylimam
+    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
+    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
+    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
+    činšą^3 ).
+    Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
+    tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
+    tos žemės priklauso Lenkijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -503,7 +521,22 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
     čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
     krikštytieji Krokuvoje.
-  citata_rodoma: "vfa1 ft I' W Ji,\\V,|<jr iv try.,\n106\n\n## Puslapis 123\n\nIl KNYGA\nGalop išsižadėjęs jau apnykusių pagonybės prietarų, kaip \nnaujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos \napaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­\nje atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir \ntauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­\nčionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno \narkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­\nčiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­\nkrikštytieji Krokuvoje."
+  citata_rodoma: |
+    vfa1 ft I' W Ji,\V,|<jr iv try.,
+    106
+
+    ## Puslapis 123
+
+    Il KNYGA
+    Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip
+    naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos
+    apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­
+    je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir
+    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
+    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
+    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
+    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
+    krikštytieji Krokuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -522,7 +555,11 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.
     Tada Jogailos padėtis, kuri rėmėsi Lenkijoj tiktai žmona, su­
     svyravo.
-  citata_rodoma: "Pastarąjį susiartinimą pagreitino labai netikėta\nJadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.\nTada Jogailos padėtis, kuri rėmėsi Lenkijoj tiktai žmona, su­\nsvyravo."
+  citata_rodoma: |
+    Pastarąjį susiartinimą pagreitino labai netikėta
+    Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.
+    Tada Jogailos padėtis, kuri rėmėsi Lenkijoj tiktai žmona, su­
+    svyravo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -545,7 +582,12 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
     tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
     činšą^3 ).
-  citata_rodoma: "Tada Jadvyga „mylimam\nbroliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir\nRusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­\ntos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį\nčinšą^3 )."
+  citata_rodoma: |
+    Tada Jadvyga „mylimam
+    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
+    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
+    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
+    činšą^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -563,7 +605,10 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     krikšto gavo Vladislovo vardą. Po krikšto įvyko jo jung-
     tuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo
     1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.).
-  citata_rodoma: "Po krikšto įvyko jo jung-\ntuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo\n1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.)."
+  citata_rodoma: |
+    Po krikšto įvyko jo jung-
+    tuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo
+    1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -628,7 +673,14 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
     ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
     Cereteno vyskupu.
-  citata_rodoma: "Andrius Vosylius Jas­\ntrzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­\nvo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams\nnebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­\nnigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­\nniuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­\nralienės Elžbietos, Jadvygos motinos. 1377 m."
+  citata_rodoma: |
+    Andrius Vosylius Jas­
+    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
+    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
+    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos. 1377 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -650,7 +702,15 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
     pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
     kunigaikščio Algirdo.
-  citata_rodoma: "Tuo reikalu pas popiežių buvo\nsiunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­\njoje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs\nVilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad\nkiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­\nniai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­\npininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos\nkunigaikščio Algirdo."
+  citata_rodoma: |
+    Tuo reikalu pas popiežių buvo
+    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
+    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
+    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
+    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
+    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
+    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
+    kunigaikščio Algirdo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -174,7 +174,14 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
     saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
     jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
     žyniai.
-  citata_rodoma: "Jokia laiko pažanga, jokia civilizuoto pasaulio per­\nmaina nesutrikdo jų stabilios padėties: amžiais jos stovi ant\ntos pačios pakopos; niekas jų neskatina ieškoti gerovės žen­\ngiant aukščiau; iš kitų tautų, pasisavinusių svetimus daiktus ir\natradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net\nnorą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų."
+  citata_rodoma: |
+    Jokia laiko pažanga, jokia civilizuoto pasaulio per­
+    maina nesutrikdo jų stabilios padėties: amžiais jos stovi ant
+    tos pačios pakopos; niekas jų neskatina ieškoti gerovės žen­
+    giant aukščiau; iš kitų tautų, pasisavinusių svetimus daiktus ir
+    atradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net
+    norą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­
+    gybė senųjų Azijos tautų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -199,7 +206,16 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
     ten, kur ambrozija sruveno, auksinis, palaimintasis die­
     vų kraštas, hesperidžių sodas, makrobijų1 gyvenamoji
     1 Šis pavadinimas turėtų reikšti kinų protėvius.
-  citata_rodoma: "Tad šį skyrių pirmiausia,\nkol imsimės tolesnių ieškojimų, skirkime seniausių epo­\nchų problemoms.\n11\nEuropa palyginti su Azija ir Afrika yra naujasis pa­\nsaulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau\ncivilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra\naukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas\nžmonių giminės lopšiu."
+  citata_rodoma: |
+    Tad šį skyrių pirmiausia,
+    kol imsimės tolesnių ieškojimų, skirkime seniausių epo­
+    chų problemoms.
+    11
+    Europa palyginti su Azija ir Afrika yra naujasis pa­
+    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
+    civilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra
+    aukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas
+    žmonių giminės lopšiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

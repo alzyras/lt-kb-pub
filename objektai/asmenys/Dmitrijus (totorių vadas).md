@@ -86,7 +86,19 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
     jūros pajūrio ir Krymo totorių teritori-
     jos trijų vadų-kunigaikščių Chadžibėjaus,
     Kutlugbugo, Dmitrijaus kariuomene.
-  citata_rodoma: "Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius.\n\nLietuvos kariuomenė buvo sudaryta\niš Lietuvos valdovo Algirdo ir jo brolio\nKarijoto trijų sūnų - Karijotaičių vado-\nvaujamų karių. Jie susirėmė su Juodosios\njūros pajūrio ir Krymo totorių teritori-\njos trijų vadų-kunigaikščių Chadžibėjaus,\nKutlugbugo, Dmitrijaus kariuomene."
+  citata_rodoma: |
+    Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
+
+    Lietuvos kariuomenė buvo sudaryta
+    iš Lietuvos valdovo Algirdo ir jo brolio
+    Karijoto trijų sūnų - Karijotaičių vado-
+    vaujamų karių. Jie susirėmė su Juodosios
+    jūros pajūrio ir Krymo totorių teritori-
+    jos trijų vadų-kunigaikščių Chadžibėjaus,
+    Kutlugbugo, Dmitrijaus kariuomene.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

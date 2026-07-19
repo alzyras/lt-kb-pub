@@ -118,7 +118,15 @@ Nenurodyta
     mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-
     kriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į
     stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.
-  citata_rodoma: "Beje, ekspertus apstulbino tai, kad Kauno guber-\nnijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis \nnei vyrų: atitinkamai 55 proc. ir 52 proc. \nSužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį \nlotyniškąjį raidyną kirilika. Jei valdžia būtų leidusi lietuviškas pradžios \nmokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-\nkriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į \nstačiatikybę, abėcėlė boikoto galėjo nesusilaukti."
+  citata_rodoma: |
+    Beje, ekspertus apstulbino tai, kad Kauno guber-
+    nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
+    nei vyrų: atitinkamai 55 proc. ir 52 proc.
+    Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
+    lotyniškąjį raidyną kirilika. Jei valdžia būtų leidusi lietuviškas pradžios
+    mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-
+    kriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į
+    stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

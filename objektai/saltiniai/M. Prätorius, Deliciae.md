@@ -166,7 +166,11 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     pilį (minima XIV a. 2-oje pusėje — SRP, 2, p. 577, 709 ir kt.). Norkyčiai čia buvo ir
     XVI a., vėliau Norkyčių gyvenvietė buvusi perkelta per 2 km į šiaurę, prie Įsruties—
     Karaliaučiaus kelio (dab. Meždurečjė). Senoje vietoje beliko apleistas Pilies kalnas.
-  citata_rodoma: "Reikšminga, kad senuose pasakojimuose,\nžinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi\nkadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.\n(VVU) 157; r. p. (MA) 279; š. p. 576)."
+  citata_rodoma: |
+    Reikšminga, kad senuose pasakojimuose,
+    žinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi
+    kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.
+    (VVU) 157; r. p. (MA) 279; š. p. 576).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

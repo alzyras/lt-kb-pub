@@ -124,7 +124,10 @@ Nenurodyta
     Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
     poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
     namąją Lietuvių konferenciją.
-  citata_rodoma: "Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo\npoziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-\nnamąją Lietuvių konferenciją."
+  citata_rodoma: |
+    Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
+    poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
+    namąją Lietuvių konferenciją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +150,12 @@ Nenurodyta
     imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
     orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
     darbo ir karo tarnybų struktūrose.
-  citata_rodoma: "Nors\nkonferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-\nimti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės\norientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos\ndarbo ir karo tarnybų struktūrose."
+  citata_rodoma: |
+    Nors
+    konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-
+    imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
+    orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
+    darbo ir karo tarnybų struktūrose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -161,7 +161,12 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
     rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
     Radomo susitarimu.
-  citata_rodoma: "Vytauto ir Lietuvos bajorų\ndokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-\nvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-\nrašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus\nRadomo susitarimu."
+  citata_rodoma: |
+    Vytauto ir Lietuvos bajorų
+    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
+    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
+    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
+    Radomo susitarimu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

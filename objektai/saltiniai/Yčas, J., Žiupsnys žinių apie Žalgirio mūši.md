@@ -68,7 +68,9 @@ Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
     Berlin, 1906.
     Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,
     Vilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930).
-  citata_rodoma: "Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,\nVilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930)."
+  citata_rodoma: |
+    Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,
+    Vilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -160,7 +160,22 @@ Nenurodyta
     didesnę kariuomenę, Vytautas patraukė į Trakus ir čia,
     mirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-
     šėnų kunigaikščio Algimantaičio dukra.
-  citata_rodoma: "Galbūt atkakliu ne­\npritarimu ir būtų privertęs\nV y ta u ta s  v e d a\nVytautą atsisakyti šio suma­\nnymo, jeigu nebūtų parėmęs\nJonas Kropidlas, Kujavijos vyskupas, su karaliumi at­\nvykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus\npagal valdovo norus, jis pareiškė, jog santuoka būsian­\nti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-\n3 9 6\n\n## Puslapis 395\n\nmos bažnyčia. Pasibaigus vestuvių iškilmėms, valdovai\niš visų jėgų įniko rengtis karui su kryžiuočiais."
+  citata_rodoma: |
+    Galbūt atkakliu ne­
+    pritarimu ir būtų privertęs
+    V y ta u ta s  v e d a
+    Vytautą atsisakyti šio suma­
+    nymo, jeigu nebūtų parėmęs
+    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
+    vykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus
+    pagal valdovo norus, jis pareiškė, jog santuoka būsian­
+    ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
+    3 9 6
+
+    ## Puslapis 395
+
+    mos bažnyčia. Pasibaigus vestuvių iškilmėms, valdovai
+    iš visų jėgų įniko rengtis karui su kryžiuočiais.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

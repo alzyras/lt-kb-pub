@@ -82,7 +82,10 @@ Nenurodyta
     apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII
     a.^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
     skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.).
-  citata_rodoma: "J. Stankus rašė\napie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII\na.^104 E."
+  citata_rodoma: |
+    J. Stankus rašė
+    apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII
+    a.^104 E.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

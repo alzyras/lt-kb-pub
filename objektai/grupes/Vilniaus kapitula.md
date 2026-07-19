@@ -705,7 +705,24 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     Aleksandras, kitaip Vytautas, Dievo
     malone didysis Lietuvos kunigaikš­
     tis ir Rusios valdovas].
-  citata_rodoma: "1413 metais,\n70\nTai keturios privilegijos, iki šiol išli­\nkusios Vilniaus kapitulos archyve: 1- \noji, rašyta Vilniuje, sabbato in festo \nSancti Barnabae Apostoli, anno D-ni \n1407 [šeštadienį Šv. apaštalo Barna­\nbo šventėje Viešp. metais 1407], ku­\nria kapitulai mainais už pirm dova­\nnotą Jaryničių kaimą atiduodamas \nLiubarų kaimas, joje didysis kuni­\ngaikštis rašo: Nos Alexander alias \nWithowdus Dei gratia Dux Major Lit- \nhuaniae et Dominus Russiae [Mes, \nAleksandras, kitaip Vytautas, Dievo \nmalone didysis Lietuvos kunigaikš­\ntis ir Rusios valdovas]."
+  citata_rodoma: |
+    1413 metais,
+    70
+    Tai keturios privilegijos, iki šiol išli­
+    kusios Vilniaus kapitulos archyve: 1-
+    oji, rašyta Vilniuje, sabbato in festo
+    Sancti Barnabae Apostoli, anno D-ni
+    1407 [šeštadienį Šv. apaštalo Barna­
+    bo šventėje Viešp. metais 1407], ku­
+    ria kapitulai mainais už pirm dova­
+    notą Jaryničių kaimą atiduodamas
+    Liubarų kaimas, joje didysis kuni­
+    gaikštis rašo: Nos Alexander alias
+    Withowdus Dei gratia Dux Major Lit-
+    huaniae et Dominus Russiae [Mes,
+    Aleksandras, kitaip Vytautas, Dievo
+    malone didysis Lietuvos kunigaikš­
+    tis ir Rusios valdovas].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -791,7 +808,17 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
     žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
     konvikto gyventojams 8 nuošimčius mokėjo.
-  citata_rodoma: "186\n\n## Puslapis 203\n\nIl KNYGA\n1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą \ndavė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 \nauksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo \nžydams; nuo šios sumos kahalas iki 1763 metų Valerijono \nkonvikto gyventojams 8 nuošimčius mokėjo."
+  citata_rodoma: |
+    186
+
+    ## Puslapis 203
+
+    Il KNYGA
+    1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
+    davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500
+    auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
+    žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
+    konvikto gyventojams 8 nuošimčius mokėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -817,7 +844,15 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo
     stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,
     vadinamo Juoduoju.
-  citata_rodoma: "Tik po dvejų metų kapitula, patyrusi, kad\njau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­\npą imtis visokeriopų priemonių, kokias tik jam tokiu atveju\nleistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­\nkuotas ir priverstas palikti miestą, bet Martyno Liuterio ir\nCvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo\nstipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,\nvadinamo Juoduoju."
+  citata_rodoma: |
+    Tik po dvejų metų kapitula, patyrusi, kad
+    jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­
+    pą imtis visokeriopų priemonių, kokias tik jam tokiu atveju
+    leistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­
+    kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
+    Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo
+    stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,
+    vadinamo Juoduoju.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -925,7 +960,20 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     mokėti, ir kapitula su kunigaikščiu
     Kristupu pradėjo teismo procesą dėl
     Filipovo namo.
-  citata_rodoma: "Tą Fi-\nlipovo namą kunigaikščio Kristupo\ntėvas Mikalojus Radvila Juodasis,\nVilniaus vaivada, Lietuvos kancleris,\nnuomojo iš kapitulos pagal sutartį\nnuo 1541 metų ir kasmet mokėjo po\n20 kapų lietuviškų grašių dėl to, kad\nsujungęs su savo namu, turėtų erd­\nvesnį būstą. Šis činšas buvo mokamas\nvienuolika metų, bet paskui liautasi\nmokėti, ir kapitula su kunigaikščiu\nKristupu pradėjo teismo procesą dėl\nFilipovo namo."
+  citata_rodoma: |
+    Tą Fi-
+    lipovo namą kunigaikščio Kristupo
+    tėvas Mikalojus Radvila Juodasis,
+    Vilniaus vaivada, Lietuvos kancleris,
+    nuomojo iš kapitulos pagal sutartį
+    nuo 1541 metų ir kasmet mokėjo po
+    20 kapų lietuviškų grašių dėl to, kad
+    sujungęs su savo namu, turėtų erd­
+    vesnį būstą. Šis činšas buvo mokamas
+    vienuolika metų, bet paskui liautasi
+    mokėti, ir kapitula su kunigaikščiu
+    Kristupu pradėjo teismo procesą dėl
+    Filipovo namo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -950,7 +998,16 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     religiniuose ginčuose laikėsi vidu­
     rio, patvirtina šios knygos pabaigo­
     je, VI priede, įdėtas dokumentas.
-  citata_rodoma: "Po Vilniaus sufragano Albino mirties ka­\npitula jo biblioteką atidavė jėzuitams. Bet jiems ėmė truk­\ndyti prityręs teisės mokslo žinovas Petras Roizijus, Vilniaus\nkanauninkas, kuris šio ordino nekentė; būdamas Švento\n47\nKad Žygimantas Augustas šiuose\nreliginiuose ginčuose laikėsi vidu­\nrio, patvirtina šios knygos pabaigo­\nje, VI priede, įdėtas dokumentas."
+  citata_rodoma: |
+    Po Vilniaus sufragano Albino mirties ka­
+    pitula jo biblioteką atidavė jėzuitams. Bet jiems ėmė truk­
+    dyti prityręs teisės mokslo žinovas Petras Roizijus, Vilniaus
+    kanauninkas, kuris šio ordino nekentė; būdamas Švento
+    47
+    Kad Žygimantas Augustas šiuose
+    religiniuose ginčuose laikėsi vidu­
+    rio, patvirtina šios knygos pabaigo­
+    je, VI priede, įdėtas dokumentas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1016,7 +1073,13 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
     penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
     riausiai 1399).
-  citata_rodoma: "136, N533\nDinaburgo komtūro pranešimas Livonijos magistrui apie \nVilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie \nnuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje \npenktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­\nriausiai 1399)."
+  citata_rodoma: |
+    136, N533
+    Dinaburgo komtūro pranešimas Livonijos magistrui apie
+    Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
+    nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
+    penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
+    riausiai 1399).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1172,7 +1235,22 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 
     Il KNYGA
     3.
-  citata_rodoma: "Vilniaus kapitula pano­\nro ta garbe dalintis ir užtat tas pa­\nčias karūnas savo kolegijai herbu\npasirinko, kad niekuo Krokuvos ka­\npitulai nenusileistų - Aaronas mirė\n1059 metų spalio 9 dieną.\n4\nApie šį vyskupą mūsų autoriai ne­\nžino, tačiau Wadyngas  savo pran-\n190\n\n## Puslapis 207\n\nIl KNYGA\n3."
+  citata_rodoma: |
+    Vilniaus kapitula pano­
+    ro ta garbe dalintis ir užtat tas pa­
+    čias karūnas savo kolegijai herbu
+    pasirinko, kad niekuo Krokuvos ka­
+    pitulai nenusileistų - Aaronas mirė
+    1059 metų spalio 9 dieną.
+    4
+    Apie šį vyskupą mūsų autoriai ne­
+    žino, tačiau Wadyngas  savo pran-
+    190
+
+    ## Puslapis 207
+
+    Il KNYGA
+    3.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1288,7 +1366,31 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     ar juos bausti už nusikaltimus priklauso ne tarėjams ar Vil­
     niaus miestui, o Vilniaus kapitulai ir pagal teisę, ir pagal
     paprotį, iki šiol tvirtai saugotą.
-  citata_rodoma: "O prelatai ir kanauninkai\nsavo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,\nkad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus\nvyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­\nnigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­\nvavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek\ntik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­\nteikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo\nMotiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­\nvo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­\nras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­\nkupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo\nlegatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises,\nir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad\nprasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­\nmo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus\nkapitulai, jos turtui bei valdiniams. O [vaitas ir tarėjai] nesi­\nlaikydami įstatymų pasisavina iš bažnyčios valdinių sau pa­\ntogią jurisdikciją, [teigdami] esą šitai nei teise, nei papro­\nčiais nėra leista, kad jiems Vilniaus kapitula skirtų bažnytines\ncenzūras, nes ką nors spręsti bažnyčios valdinių atžvilgiu\nar juos bausti už nusikaltimus priklauso ne tarėjams ar Vil­\nniaus miestui, o Vilniaus kapitulai ir pagal teisę, ir pagal\npaprotį, iki šiol tvirtai saugotą."
+  citata_rodoma: |
+    O prelatai ir kanauninkai
+    savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,
+    kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus
+    vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­
+    nigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­
+    vavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek
+    tik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­
+    teikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo
+    Motiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­
+    vo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­
+    ras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­
+    kupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo
+    legatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises,
+    ir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad
+    prasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­
+    mo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus
+    kapitulai, jos turtui bei valdiniams. O [vaitas ir tarėjai] nesi­
+    laikydami įstatymų pasisavina iš bažnyčios valdinių sau pa­
+    togią jurisdikciją, [teigdami] esą šitai nei teise, nei papro­
+    čiais nėra leista, kad jiems Vilniaus kapitula skirtų bažnytines
+    cenzūras, nes ką nors spręsti bažnyčios valdinių atžvilgiu
+    ar juos bausti už nusikaltimus priklauso ne tarėjams ar Vil­
+    niaus miestui, o Vilniaus kapitulai ir pagal teisę, ir pagal
+    paprotį, iki šiol tvirtai saugotą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -68,7 +68,11 @@ Kliausis, lg.
     R. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p.
     — Nieborowski, P. : Der deutsche Orden und Polen in der Zeit des
     grössten Konfliktes , Breslau 1 21924.
-  citata_rodoma: "—\nKliausis, lg. : Die Kircheupolitik in Litauen unter Jogaila und Vytautas\n( 1377-1421 ), Diss. Graz 1929, mašinr. VII + 117 p.). — Krasauskas,\nR. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p."
+  citata_rodoma: |
+    —
+    Kliausis, lg. : Die Kircheupolitik in Litauen unter Jogaila und Vytautas
+    ( 1377-1421 ), Diss. Graz 1929, mašinr. VII + 117 p.). — Krasauskas,
+    R. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

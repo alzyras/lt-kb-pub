@@ -219,7 +219,10 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     gerai žinomais, laikais. Aisčiai, kaip ir beveik visi Europos gy-
     ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
     čios indoeuropiečių, arba arijų, tautų grupės.
-  citata_rodoma: "Aisčiai, kaip ir beveik visi Europos gy-\nventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-\nčios indoeuropiečių, arba arijų, tautų grupės."
+  citata_rodoma: |
+    Aisčiai, kaip ir beveik visi Europos gy-
+    ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
+    čios indoeuropiečių, arba arijų, tautų grupės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +245,18 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
     neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
     te, vėliau pavadintame Prūsija, stebėjimus.
-  citata_rodoma: "Tokį pat nuotolį nuo Vys­\nlos žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad\nprekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­\nbikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės\nreligijos pašventintais svetingumo papročiais ar tam tik­\nrais šiuo pagrindu sudarytais susitarimais.\n*  ¥  *\nIII skyrius\nS E N O V Ė S  Ž I N I Ų  T Ę S I N Y S\n171\nSausumos atradimai."
+  citata_rodoma: |
+    Tokį pat nuotolį nuo Vys­
+    los žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad
+    prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­
+    bikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės
+    religijos pašventintais svetingumo papročiais ar tam tik­
+    rais šiuo pagrindu sudarytais susitarimais.
+    *  ¥  *
+    III skyrius
+    S E N O V Ė S  Ž I N I Ų  T Ę S I N Y S
+    171
+    Sausumos atradimai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

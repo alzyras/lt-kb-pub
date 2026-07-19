@@ -86,7 +86,8 @@ Nenurodyta
     kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
     į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
     Veiveriuose nušovė tris valstiečius, šimtus areštavo.
-  citata_rodoma: "kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną"
+  citata_rodoma: |
+    kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

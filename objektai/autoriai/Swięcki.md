@@ -77,7 +77,10 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
     dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
     kiai tyrėjo nuomonei. Vis dėlto iki šiol ypač garbinami pilka­
     piai, supilti ant žymių žmonių pelenų.
-  citata_rodoma: "Net buvo ap­\n23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-\nrožytnej Polski. -  T. II)."
+  citata_rodoma: |
+    Net buvo ap­
+    23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
+    rožytnej Polski. -  T. II).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

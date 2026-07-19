@@ -110,7 +110,22 @@ Nenurodyta
     legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­
     tą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus
     leistis į Maskvą, kur jo diena iš dienos laukė.
-  citata_rodoma: "Didikai, būgštaudami,\nkad Glinskis, sugrįžęs į tėvynę ir atgavęs karaliaus\n6 2 8\n\n## Puslapis 627\n\nmalonę, po senovei rengsiąs klastingas ir žalingas pink­\nles, slaptai išsiuntė žygūną, pranešdami Maskvos ku­\nnigaikščiui, ką galvoja daryti Glinskis. Vasilijus, nie­\nkam nieko aiškiai nesakydamas, paliepė budriau sau­\ngoti visus pasienio kelius ir rūpestingai kratyti visų\nkeleivių drabužius bei nešulius. Tuo metu popiežiaus\nlegatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­\ntą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus\nleistis į Maskvą, kur jo diena iš dienos laukė."
+  citata_rodoma: |
+    Didikai, būgštaudami,
+    kad Glinskis, sugrįžęs į tėvynę ir atgavęs karaliaus
+    6 2 8
+
+    ## Puslapis 627
+
+    malonę, po senovei rengsiąs klastingas ir žalingas pink­
+    les, slaptai išsiuntė žygūną, pranešdami Maskvos ku­
+    nigaikščiui, ką galvoja daryti Glinskis. Vasilijus, nie­
+    kam nieko aiškiai nesakydamas, paliepė budriau sau­
+    goti visus pasienio kelius ir rūpestingai kratyti visų
+    keleivių drabužius bei nešulius. Tuo metu popiežiaus
+    legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­
+    tą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus
+    leistis į Maskvą, kur jo diena iš dienos laukė.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

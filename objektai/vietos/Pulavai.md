@@ -107,7 +107,11 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
     Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
     Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
-  citata_rodoma: "Lenkijoje tokiuos žy-\nmius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,\nBranickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų\nNesvyžiuje; vėliau iškilo Oginskių dvaras Slanime."
+  citata_rodoma: |
+    Lenkijoje tokiuos žy-
+    mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
+    Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
+    Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +152,14 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
     siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
-  citata_rodoma: "MITOLOGIJOS PABAIGA. 13\n13\nSeniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo\nsenojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies\ntyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­\nniaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,\nsuteikęs mums tą žinią."
+  citata_rodoma: |
+    MITOLOGIJOS PABAIGA. 13
+    13
+    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
+    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
+    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
+    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
+    suteikęs mums tą žinią.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

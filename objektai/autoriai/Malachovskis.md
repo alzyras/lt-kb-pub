@@ -88,7 +88,15 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
     metais; d - Pašičius (Paszyc) 1510 metais; e - Stecevičius (Ste-
     cewicz) 1609 m etais;/- Zubas (Zub) 1480 metais; g - Rekstys
     (Rexč) 1481 metais;/?
-  citata_rodoma: "Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų\nherbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­\nsų heraldikos specialistus lenkus visuomet užgula didelis rū­\n10\nŽinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­\nkė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu\nšaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­\nnomas ir Neseckiui."
+  citata_rodoma: |
+    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
+    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­
+    sų heraldikos specialistus lenkus visuomet užgula didelis rū­
+    10
+    Žinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­
+    kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
+    šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
+    nomas ir Neseckiui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

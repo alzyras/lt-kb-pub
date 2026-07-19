@@ -63,7 +63,12 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
     tuvos įžymiausiam kunigaikščiui išaugti. Tikslesnių žinių apie
     Vytauto auklėjimą nėra, taigi sunku ir pasakyti, kurie kiti veik­
     sniai turėjo reikšmės jo būdui susidaryti.
-  citata_rodoma: "Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­\nvo su kaimyninėmis valstybėmis, buvo tinkamiausia dirva Lie­\ntuvos įžymiausiam kunigaikščiui išaugti. Tikslesnių žinių apie\nVytauto auklėjimą nėra, taigi sunku ir pasakyti, kurie kiti veik­\nsniai turėjo reikšmės jo būdui susidaryti."
+  citata_rodoma: |
+    Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­
+    vo su kaimyninėmis valstybėmis, buvo tinkamiausia dirva Lie­
+    tuvos įžymiausiam kunigaikščiui išaugti. Tikslesnių žinių apie
+    Vytauto auklėjimą nėra, taigi sunku ir pasakyti, kurie kiti veik­
+    sniai turėjo reikšmės jo būdui susidaryti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

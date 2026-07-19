@@ -183,7 +183,13 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     garsesnę provinciją visu kraštu, vadindavo visgĮ Prūsiją5 6.
     Lenkų rašytojai iš pat ¡pradžių prūsus lotyniškai vadinda­
     vo Gethae5.
-  citata_rodoma: "Sis Kulmo provincijos pavadinimas sve­\ntimšalių raštuose buvo taikomas ir visai Prūsijai, būtent\npriklausančiai kryžiuočiams, kurie valdyti pradėjo nuo\nRuimo. Bajeris mano, kad šis pavadinimas buvo vartoja­\nmas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­\nsiją vadino tuo pačiu vardu4."
+  citata_rodoma: |
+    Sis Kulmo provincijos pavadinimas sve­
+    timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
+    priklausančiai kryžiuočiams, kurie valdyti pradėjo nuo
+    Ruimo. Bajeris mano, kad šis pavadinimas buvo vartoja­
+    mas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­
+    siją vadino tuo pačiu vardu4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -204,7 +210,13 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     ją norėjo įdėti į savo „Monumentą Prussica“.
     Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
     gamtos tyrinėtojai Klaprotas ir Hagenas.
-  citata_rodoma: "Labiausiai jį primena skruzdėliniai gyvasakiai; gel­\ntonas ir baltas gintaras kvepia skirtingai. Smalsuoliams\nrekomenduojama paskaityti knygelę „Ja. Wigancli Epis-\ncopi Pomesatiiensis de Succino, alce et herbis iri Prussia\nnascentibus libri\", išleistą 1590 metais Jenoje; Bajeris\nją norėjo įdėti į savo „Monumentą Prussica“."
+  citata_rodoma: |
+    Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
+    tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams
+    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

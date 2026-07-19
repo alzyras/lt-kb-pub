@@ -180,7 +180,11 @@ Nenurodyta.
     perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko
     1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
     tikių plotuose augino rimtą pavojų.
-  citata_rodoma: "Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos\nperkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko\n1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­\ntikių plotuose augino rimtą pavojų."
+  citata_rodoma: |
+    Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos
+    perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko
+    1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
+    tikių plotuose augino rimtą pavojų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +204,11 @@ Nenurodyta.
     pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
     valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
     gyventojams.
-  citata_rodoma: "Ir Algirdas, ir Maskvos kunigaikštis tuo\npačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo\nvalstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo\ngyventojams."
+  citata_rodoma: |
+    Ir Algirdas, ir Maskvos kunigaikštis tuo
+    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
+    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
+    gyventojams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +225,10 @@ Nenurodyta.
     sekė atstatyti Vytenio ir Gedimino laikų padėtį. 1354 m. Konstan­
     tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
     sančių žemių metropolitą — arkivyskupą Romaną.
-  citata_rodoma: "1354 m. Konstan-\ntinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-\nsančių žemių metropolitą — arkivyskupą Romaną."
+  citata_rodoma: |
+    1354 m. Konstan-
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-
+    sančių žemių metropolitą — arkivyskupą Romaną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -238,7 +249,11 @@ Nenurodyta.
     pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
-  citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
+  citata_rodoma: |
+    Lietuvos stačiatikių metropolija nebebuvo
+    atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
+    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
+    Filotėją įtikinti Lietuvos ortodoksų labui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -257,7 +272,11 @@ Nenurodyta.
     politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
     gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
     sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
-  citata_rodoma: "Patriarchas Lietuvos stačiatikių metro-\npolitu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai\ngyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas\nsostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė."
+  citata_rodoma: |
+    Patriarchas Lietuvos stačiatikių metro-
+    politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
+    gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
+    sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -275,7 +294,10 @@ Nenurodyta.
     Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri­
     gorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino
     jos atnaujinimą, tepatverusį vos penkerius metus.
-  citata_rodoma: "Nuo 1389 m. Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri-\ngorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino\njos atnaujinimą, tepatverusį vos penkerius metus."
+  citata_rodoma: |
+    Nuo 1389 m. Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri-
+    gorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino
+    jos atnaujinimą, tepatverusį vos penkerius metus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

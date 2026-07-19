@@ -65,7 +65,10 @@ media_all_json: |-
     „Laisvė" ir „Vilnis"', socialistų „Naujienos"), keletas dvidie-
     ninių, tridieninių ir savaitinių; kiti — dvisavaitiniai ir mėne-
     siniai.
-  citata_rodoma: "„Garso Amerikos Lietuvių\" antraštė.\n(Šis laikraštis 1892—4 m. ėjo tik „Garso\" vardu ir buvo kairesnis, o\n1894—9 m. buvo leidžiamas 10-ties kunigų bendrovės)."
+  citata_rodoma: |
+    „Garso Amerikos Lietuvių" antraštė.
+    (Šis laikraštis 1892—4 m. ėjo tik „Garso" vardu ir buvo kairesnis, o
+    1894—9 m. buvo leidžiamas 10-ties kunigų bendrovės).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

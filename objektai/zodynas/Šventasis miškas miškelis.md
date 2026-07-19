@@ -179,7 +179,20 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
     pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
     riuose jie būdavo garbinami.
-  citata_rodoma: "Seniausiais amžiais, kai miškai, dengiantys žemę, buvo\nžmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­\nžumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai\nten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai.\nŠiuose miškeliuose buvo padėti pirmieji visuomeninio gyveni- 2\n2 Tuo tikrai lietuvišku pavadinimu kaimiečiai vadina miškelius\nTrakų apskrityje apie Marcinkonis.\n262\n\n## Puslapis 262\n\nmo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi\nmiškelis buvo pirmoji visų tautų šventykla."
+  citata_rodoma: |
+    Seniausiais amžiais, kai miškai, dengiantys žemę, buvo
+    žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
+    žumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai
+    ten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai.
+    Šiuose miškeliuose buvo padėti pirmieji visuomeninio gyveni- 2
+    2 Tuo tikrai lietuvišku pavadinimu kaimiečiai vadina miškelius
+    Trakų apskrityje apie Marcinkonis.
+    262
+
+    ## Puslapis 262
+
+    mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi
+    miškelis buvo pirmoji visų tautų šventykla.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -246,7 +259,11 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     nokėjų šventyklos vietą nukeliame į Ukrainą, prie Psiolo upės, į
     dešinįjį jos krantą, prie Romnos upės žiočių, kur ir dabar yra
     miestelis, vadinamas Romnais (Romne).
-  citata_rodoma: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­\ntakos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­\nse ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo\nšventi miškeliai, daugiau ar mažiau garsūs."
+  citata_rodoma: |
+    Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
+    takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­
+    se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
+    šventi miškeliai, daugiau ar mažiau garsūs.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

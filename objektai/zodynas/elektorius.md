@@ -94,7 +94,12 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
     elektoriaus peršamą Neuburgo
     princą, bet kartu statė ir savo
     kandidatūrą.
-  citata_rodoma: "Radvila, kaip Branden-\nburgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir\nelektoriaus peršamą Neuburgo\nprincą, bet kartu statė ir savo\nkandidatūrą."
+  citata_rodoma: |
+    Radvila, kaip Branden-
+    burgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir
+    elektoriaus peršamą Neuburgo
+    princą, bet kartu statė ir savo
+    kandidatūrą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

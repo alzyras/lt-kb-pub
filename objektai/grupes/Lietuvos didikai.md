@@ -161,7 +161,18 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     Didžiojoje Kunigaikštystėje įtvirtinti atskirą vietininką bei
     susilpninti seną ryšį, vertė Kazimierą, kaip jau esame apie
     tai užsiminę, dažnai Lietuvoje šaukti seimus.
-  citata_rodoma: "Pagaliau per šį ilgą, tai­\nkos ir saugumo atžvilgiu Vilniui dar pirmutinį Kazimiero\nvaldymo periodą dažni Lietuvos didikų suvažiavimai ir pa­\nsitarimai Vilniuje, užsienio pasiuntinių sambūriai ir su jais\nsudaromos sutartys suteikė miestui iškilmingumo ir pagau­\nsino ištaigingų rūmų, statomų varganai suręstų namų vieto­\nje, skaičių. Goštauto pradėti neramumai Vilniuje, stengian­\ntis atplėšti šį kraštą nuo Lenkijos, o labiausiai siekiant\nDidžiojoje Kunigaikštystėje įtvirtinti atskirą vietininką bei\nsusilpninti seną ryšį, vertė Kazimierą, kaip jau esame apie\ntai užsiminę, dažnai Lietuvoje šaukti seimus."
+  citata_rodoma: |
+    Pagaliau per šį ilgą, tai­
+    kos ir saugumo atžvilgiu Vilniui dar pirmutinį Kazimiero
+    valdymo periodą dažni Lietuvos didikų suvažiavimai ir pa­
+    sitarimai Vilniuje, užsienio pasiuntinių sambūriai ir su jais
+    sudaromos sutartys suteikė miestui iškilmingumo ir pagau­
+    sino ištaigingų rūmų, statomų varganai suręstų namų vieto­
+    je, skaičių. Goštauto pradėti neramumai Vilniuje, stengian­
+    tis atplėšti šį kraštą nuo Lenkijos, o labiausiai siekiant
+    Didžiojoje Kunigaikštystėje įtvirtinti atskirą vietininką bei
+    susilpninti seną ryšį, vertė Kazimierą, kaip jau esame apie
+    tai užsiminę, dažnai Lietuvoje šaukti seimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -214,7 +225,18 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     dabartinių negandų toliau klostysis įvykiai, ir svarstė,
     kokios žalos atnešė valstybei Jogailos išvykimas į Len­
     kiją.
-  citata_rodoma: "Esąs tik vienas būdas suteikti valstybei saugią ramybę,\ntas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­\nrinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių,\nnevaldydamas svetimų valstybių, asmeniškai rūpintųsi\nišsaugoti Lietuvos Didžiosios Kunigaikštystės vientisu­\nmą. Šitokios mintys, platinamos ir žodiškai, ir raštiškai\nlaiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­\njorai, sukėlė didelį nemažo būrio palankumą Aleksan­\ndrui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.\nNugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos\ngimine ir sąjungą su lenkais."
+  citata_rodoma: |
+    Esąs tik vienas būdas suteikti valstybei saugią ramybę,
+    tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­
+    rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių,
+    nevaldydamas svetimų valstybių, asmeniškai rūpintųsi
+    išsaugoti Lietuvos Didžiosios Kunigaikštystės vientisu­
+    mą. Šitokios mintys, platinamos ir žodiškai, ir raštiškai
+    laiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­
+    jorai, sukėlė didelį nemažo būrio palankumą Aleksan­
+    drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
+    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
+    gimine ir sąjungą su lenkais.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -238,7 +260,21 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
     gimine ir sąjungą su lenkais.
-  citata_rodoma: "Kiti parėmė šį siūlymą\niš baimės, kad atidėliojant yal-\ndžia\nvalstybėje\nneatitektų\nMykolui. Štai todėl kuo grei­\nčiausiai sušaukė Breste seimą,\nnes kelias į tą miestą Kazi­\nmierui buvo artimas, o kitų grupuočių vadovams tolo­\nkas. Pasiuntė kilmingiausius ir žymiausius didikus bro­\nlius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti\nKazimierą į Brestą kuo greičiausiai perimti valdžios; jie\nkaip beįmanydami privalėjo raginti jaunikaitį, kad jis,\nlenkų patariamas, nesusimanytų delsti."
+  citata_rodoma: |
+    Kiti parėmė šį siūlymą
+    iš baimės, kad atidėliojant yal-
+    džia
+    valstybėje
+    neatitektų
+    Mykolui. Štai todėl kuo grei­
+    čiausiai sušaukė Breste seimą,
+    nes kelias į tą miestą Kazi­
+    mierui buvo artimas, o kitų grupuočių vadovams tolo­
+    kas. Pasiuntė kilmingiausius ir žymiausius didikus bro­
+    lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti
+    Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie
+    kaip beįmanydami privalėjo raginti jaunikaitį, kad jis,
+    lenkų patariamas, nesusimanytų delsti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

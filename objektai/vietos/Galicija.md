@@ -64,7 +64,10 @@ Galicijoje.
     nei pravoslavai. Kai rusai užėmė kraštą, tai unija buvo smurtu
     išnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po
     padalinimo buvo patekusios Austrijai, t. y. Galicijoje.
-  citata_rodoma: "Kai rusai užėmė kraštą, tai unija buvo smurtu\nišnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po\npadalinimo buvo patekusios Austrijai, t. y. Galicijoje."
+  citata_rodoma: |
+    Kai rusai užėmė kraštą, tai unija buvo smurtu
+    išnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po
+    padalinimo buvo patekusios Austrijai, t. y. Galicijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,7 @@ Nenurodyta
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
-    monu Sobieskiu palaikė Prancūzų kandidatą. Kai pasirodė,
+    Kai pasirodė,
     jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau
     keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo lai-
     kais), tuomet prancūziškoji partija pastatė kandidatu savo vadą
@@ -84,7 +84,18 @@ Nenurodyta
     lauko, buvo labai palan-
     kiai lenkų bajorijos su-
     tiktas.
-  citata_rodoma: "Kai pasirodė,\njog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau\nkeliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo lai-\nkais), tuomet prancūziškoji partija pastatė kandidatu savo vadą\nhetmoną Sobieskį. Išgar-\nsėjęs Lenkijos gynėjas\nnuo turkų, atvykęs į elek-\ncinį seimą tiesiog iš karo\nlauko, buvo labai palan-\nkiai lenkų bajorijos su-\ntiktas."
+  citata_rodoma: |
+    Kai pasirodė,
+    jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau
+    keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo lai-
+    kais), tuomet prancūziškoji partija pastatė kandidatu savo vadą
+    hetmoną Sobieskį. Išgar-
+    sėjęs Lenkijos gynėjas
+    nuo turkų, atvykęs į elek-
+    cinį seimą tiesiog iš karo
+    lauko, buvo labai palan-
+    kiai lenkų bajorijos su-
+    tiktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

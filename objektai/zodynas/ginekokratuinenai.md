@@ -167,7 +167,13 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
     dų-skitų gentis, turėjusi santykių su amazonėmis, kurių,
     kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
     laikyti panašia j skitų.
-  citata_rodoma: "Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,\nyra medų palikuonys, gyvenę prie Dono žemupio ir Juo-\ndosios jūros; pirmiausia buvo sarmatai, amazonių kara-\nlienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-\nkimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,\ntisagetai, turkai1."
+  citata_rodoma: |
+    Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
+    yra medų palikuonys, gyvenę prie Dono žemupio ir Juo-
+    dosios jūros; pirmiausia buvo sarmatai, amazonių kara-
+    lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-
+    kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,
+    tisagetai, turkai1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

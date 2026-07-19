@@ -252,7 +252,11 @@ Nenurodyta
     samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
     Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
-  citata_rodoma: "Iš tikrųjų tai buvo lenkiška Lietuvos \nsamprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano \nŽeligovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-\ndurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi."
+  citata_rodoma: |
+    Iš tikrųjų tai buvo lenkiška Lietuvos
+    samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -277,7 +281,13 @@ Nenurodyta
     vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
-  citata_rodoma: "Nors 1920 m. \nspalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį \nsusitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-\nvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-\nligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos \n(Litwa środkowa) sudarymą."
+  citata_rodoma: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -297,7 +307,9 @@ Nenurodyta
     tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
     suformuota „Vidurinė Lietuva“.
-  citata_rodoma: "Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo\nsuformuota „Vidurinė Lietuva“."
+  citata_rodoma: |
+    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
+    suformuota „Vidurinė Lietuva“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -319,7 +331,10 @@ Nenurodyta
     nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
     nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
     karo, nei taikos“ situacijoje.
-  citata_rodoma: "1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-\nnėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei\nkaro, nei taikos“ situacijoje."
+  citata_rodoma: |
+    1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
+    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
+    karo, nei taikos“ situacijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

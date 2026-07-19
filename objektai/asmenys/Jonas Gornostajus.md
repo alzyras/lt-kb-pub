@@ -160,7 +160,24 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius.
-  citata_rodoma: "Vasilijus pri­\nmygtinai reikalavo, kad ka­\nraliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­\nviau galėsiąs tramdyti saviškius, jei šie susimanys be\nsaiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­\nkai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-\niždininkiui, ir Jonui Gornostajui, raštininkui. Šie ilgai\naiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­\ndžiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­\nriomis kitados buvusi sudaryta sutartis tarp jo senelio\nVasilijaus ir karaliaus Kazimiero, arba tomis, kurias\n6 4 9\n\n## Puslapis 648\n\nbuvo sutarę karalius Aleksandras ir jo tėvas Ivanas\nVasiljevičius."
+  citata_rodoma: |
+    Vasilijus pri­
+    mygtinai reikalavo, kad ka­
+    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
+    viau galėsiąs tramdyti saviškius, jei šie susimanys be
+    saiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­
+    kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
+    iždininkiui, ir Jonui Gornostajui, raštininkui. Šie ilgai
+    aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­
+    džiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­
+    riomis kitados buvusi sudaryta sutartis tarp jo senelio
+    Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
+    6 4 9
+
+    ## Puslapis 648
+
+    buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
+    Vasiljevičius.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -215,7 +232,15 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
     žeistas jų valdovo orumas, jeigu, belaisviams reika­
     laujant taikos, Maskvos kunigaikštystės pasiuntiniai
     pirmieji vyks į Lietuvą, nes to mat ligi šiol nėra buvę.
-  citata_rodoma: "Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,\nbe kita ko, maldaudamas, kad karalius įsakytų Gleba­\nvičiui, staigios ir karingos prigimties vyrui, susilaikyti\nkol kas nuo neleistinų veiksmų. Karaliaus bei senato\nvardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau­\nsiasis valdytojas. Esą galybė svarbių priežasčių ver­\nčiančios karalių tęsti karą, be to, ne mažiau svarbios\nneleidžiančios jam pirmam išsiųsti legatus."
+  citata_rodoma: |
+    Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,
+    be kita ko, maldaudamas, kad karalius įsakytų Gleba­
+    vičiui, staigios ir karingos prigimties vyrui, susilaikyti
+    kol kas nuo neleistinų veiksmų. Karaliaus bei senato
+    vardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau­
+    siasis valdytojas. Esą galybė svarbių priežasčių ver­
+    čiančios karalių tęsti karą, be to, ne mažiau svarbios
+    neleidžiančios jam pirmam išsiųsti legatus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

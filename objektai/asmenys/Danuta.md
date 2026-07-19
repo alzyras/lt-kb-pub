@@ -89,7 +89,10 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     kunigaikščio Jono ir apsikrikštijo Marijos vardu. Danuta 1380
     m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
     taip pat Marijos vardu. 1392 m.
-  citata_rodoma: "Danuta 1380\nm. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama\ntaip pat Marijos vardu. 1392 m."
+  citata_rodoma: |
+    Danuta 1380
+    m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
+    taip pat Marijos vardu. 1392 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -113,7 +116,14 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     ropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų
     tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė
     Smolensko kunigaikštytę Oną, taip pat stačiatikę.
-  citata_rodoma: "Jis turėjo tada 33 metus, ir krikščionybė jam\nnebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­\ntikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­\njusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­\nropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų\ntikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė\nSmolensko kunigaikštytę Oną, taip pat stačiatikę."
+  citata_rodoma: |
+    Jis turėjo tada 33 metus, ir krikščionybė jam
+    nebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­
+    tikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­
+    jusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­
+    ropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų
+    tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė
+    Smolensko kunigaikštytę Oną, taip pat stačiatikę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

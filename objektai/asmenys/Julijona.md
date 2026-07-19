@@ -276,7 +276,13 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
-  citata_rodoma: "Visose trijose Jogailos ir\nSlorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi\nkiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,\nKarigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs\nbei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente."
+  citata_rodoma: |
+    Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -305,7 +311,21 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
     dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
     Algimantaičio dukterį.
-  citata_rodoma: "149\n\n## Puslapis 166\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nVytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­\ngailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­\nsinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo \ndovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai \nVilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­\ndžiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­\nlėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­\ndė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono \nAlgimantaičio dukterį."
+  citata_rodoma: |
+    149
+
+    ## Puslapis 166
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­
+    gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­
+    sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo
+    dovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai
+    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
+    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
+    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
+    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
+    Algimantaičio dukterį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -324,7 +344,10 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
     metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
     kunigaikščio Aleksandro dukterį Julijoną^15.
-  citata_rodoma: "Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir\nmetropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės\nkunigaikščio Aleksandro dukterį Julijoną^15."
+  citata_rodoma: |
+    Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
+    metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
+    kunigaikščio Aleksandro dukterį Julijoną^15.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -346,7 +369,14 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     butų pakrikštyta lotynų apeigomis.
     Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
     turėjo labiau susidomėti Vytautu ir jį palaikyti.
-  citata_rodoma: "pavasarį bus žinojęs apie projektus kviesti jį\nLenkijos karaliumi ir sutuokti su Jadvyga. Remiantis Torno analų\nžinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis\npas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva\nbutų pakrikštyta lotynų apeigomis.\nĮ karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas\nturėjo labiau susidomėti Vytautu ir jį palaikyti."
+  citata_rodoma: |
+    pavasarį bus žinojęs apie projektus kviesti jį
+    Lenkijos karaliumi ir sutuokti su Jadvyga. Remiantis Torno analų
+    žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis
+    pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva
+    butų pakrikštyta lotynų apeigomis.
+    Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
+    turėjo labiau susidomėti Vytautu ir jį palaikyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -370,7 +400,10 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
     ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
     pastangomis.
-  citata_rodoma: "Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta\nne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —\npastangomis."
+  citata_rodoma: |
+    Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
+    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
+    pastangomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -401,7 +434,16 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     į
     p ilies
     v a r tu s
-  citata_rodoma: "Mat rusai nuo senų senovės įpratę Velykų dieną do­\nvanoti vienas kitam margutį kaip bičiuliškumo ženklą.\nAlgirdas, nors viešai laikėsi stabmeldžių apeigų, ta­\nčiau, neseniai savo žmonos Julijonos, Vitebsko kuni­\ngaikščio dukters, noru sutikęs priimti krikščionybę, ne­\natmetė rusų apeigų ir rusams Vitebske pastatė porą\nšventovių. Palankumą krikščionybei jis, be to, parodė,\nžiauriai tuo metu atkeršydamas už krikščionių šventi­\nkų nužudymą."
+  citata_rodoma: |
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių. Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

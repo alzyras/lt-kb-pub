@@ -104,7 +104,8 @@ Nenurodyta
     vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą.
-  citata_rodoma: "R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės"
+  citata_rodoma: |
+    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

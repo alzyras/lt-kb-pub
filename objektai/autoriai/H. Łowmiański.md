@@ -60,7 +60,10 @@ media_all_json: |-
     nuo Lydos). Yra bandoma seniausias lietuvių sienas nukelti iki
     linijos Merkinė-Eišiškės-Šalčininkai (H. Łowmiański, H. Paszkie­
     wicz).
-  citata_rodoma: "Yra bandoma seniausias lietuvių sienas nukelti iki\nlinijos Merkinė-Eišiškės-Šalčininkai (H. Łowmiański, H. Paszkie­\nwicz)."
+  citata_rodoma: |
+    Yra bandoma seniausias lietuvių sienas nukelti iki
+    linijos Merkinė-Eišiškės-Šalčininkai (H. Łowmiański, H. Paszkie­
+    wicz).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

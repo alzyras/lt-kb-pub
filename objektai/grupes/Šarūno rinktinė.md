@@ -107,7 +107,18 @@ media_all_json: |-
     apygardos ir Šarūno rinktinės štabai,
 
     1949 m. lapkričio 1-3 d. ŠIMONIŲ GIRIOS APGULTIS
-  citata_rodoma: "Mūšio padariniai\nDidžiausias laisvės kovotojų ir NKVD susi-\nrėmimas įvyko 1949 m. lapkričio 1-2 dieno-\nmis, kai partizanų bunkeriai buvo išduoti.\nŠimonių girioje sovietų kariai susprogdino\naštuonis partizanų bunkerius: žuvo 33 parti-\nzanai, 10 laisvės kovotojų pateko į nelaisvę.\n1949 m. rudenį buvo sunaikinti Algimanto\napygardos ir Šarūno rinktinės štabai,\n\n1949 m."
+  citata_rodoma: |
+    Mūšio padariniai
+    Didžiausias laisvės kovotojų ir NKVD susi-
+    rėmimas įvyko 1949 m. lapkričio 1-2 dieno-
+    mis, kai partizanų bunkeriai buvo išduoti.
+    Šimonių girioje sovietų kariai susprogdino
+    aštuonis partizanų bunkerius: žuvo 33 parti-
+    zanai, 10 laisvės kovotojų pateko į nelaisvę.
+    1949 m. rudenį buvo sunaikinti Algimanto
+    apygardos ir Šarūno rinktinės štabai,
+
+    1949 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

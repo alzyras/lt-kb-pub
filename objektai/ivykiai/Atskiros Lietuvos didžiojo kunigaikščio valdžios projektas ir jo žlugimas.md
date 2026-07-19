@@ -77,7 +77,13 @@ Nenurodyta
     kalinių atmainų į lietuvių-rusų žemių valdymą; tai buvo
     Vytautas.
     Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą.
-  citata_rodoma: "Vygunto mirtis praskynė kelią tam,\nkuris po dviejų savaičių, neatsižvelgiant į pasižadėjimus, kurie\nbuvo duoti Skirgailai, gavo Vilnių ir įvedė nemaža radi­\nkalinių atmainų į lietuvių-rusų žemių valdymą; tai buvo\nVytautas.\nVygunto mirtis privertė kviestis ir Vytautą į Lietuvą."
+  citata_rodoma: |
+    Vygunto mirtis praskynė kelią tam,
+    kuris po dviejų savaičių, neatsižvelgiant į pasižadėjimus, kurie
+    buvo duoti Skirgailai, gavo Vilnių ir įvedė nemaža radi­
+    kalinių atmainų į lietuvių-rusų žemių valdymą; tai buvo
+    Vytautas.
+    Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

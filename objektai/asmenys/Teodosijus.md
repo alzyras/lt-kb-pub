@@ -119,7 +119,12 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
     pastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą
     Teodosijų. Jis buvo tačiau priverstas pripažinti « Kijevo ir visos
     Rusios» metropolitu graiką Fotijų (1408-1431)^62.
-  citata_rodoma: "Mirus Kijevo\nir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo\npastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą\nTeodosijų. Jis buvo tačiau priverstas pripažinti « Kijevo ir visos\nRusios» metropolitu graiką Fotijų (1408-1431)^62."
+  citata_rodoma: |
+    Mirus Kijevo
+    ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
+    pastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą
+    Teodosijų. Jis buvo tačiau priverstas pripažinti « Kijevo ir visos
+    Rusios» metropolitu graiką Fotijų (1408-1431)^62.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

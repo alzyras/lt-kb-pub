@@ -60,7 +60,8 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: "ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono"
+  citata_rodoma: |
+    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

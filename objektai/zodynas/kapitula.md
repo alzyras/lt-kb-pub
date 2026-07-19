@@ -178,7 +178,11 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
     muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
     sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
-  citata_rodoma: "Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­\ndamas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­\nmuno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­\nsis Marienburgas pasidarė Vytauto giminių bei šalininkų centras."
+  citata_rodoma: |
+    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
+    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
+    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
+    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

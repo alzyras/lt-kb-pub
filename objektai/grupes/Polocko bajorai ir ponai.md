@@ -86,7 +86,14 @@ Narbutas pasakoja, kad Treniota įkalino Polocko bajorus, o Jonas, gelbėdamas P
     kraštyje), sakytame 1689 metais, šv. Kazimiero dieną, akademinėje
     šv. Jono bažnyčioje. Yra kai kurių asketiškų, nieko nereiškiančių prie­
     dų; kitkas visiškai sutampa.
-  citata_rodoma: "Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus\nkeršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­\nkokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­\nsiuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­\njį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­\nimtus bajorus. Todėl Jonas, išvaduodamas nuo nelaimės Po­\nlocko ponus, išjojo į Naugardą ir ten tapo vienuoliu."
+  citata_rodoma: |
+    Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus. Todėl Jonas, išvaduodamas nuo nelaimės Po­
+    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

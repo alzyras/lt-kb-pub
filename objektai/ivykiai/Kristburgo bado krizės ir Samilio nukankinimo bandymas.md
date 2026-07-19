@@ -178,7 +178,15 @@ Nenurodyta
     miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
     prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
     pamedėnui, vardu Jonas, Sarginio sūnui.
-  citata_rodoma: "Šitai sužinoję, prūsai\nįtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,\ntol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,\nten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,\nkad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie\njų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei\nlaisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,\no pasiliko tik vienas kitas."
+  citata_rodoma: |
+    Šitai sužinoję, prūsai
+    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
+    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
+    ten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,
+    kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
+    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
+    laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
+    o pasiliko tik vienas kitas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

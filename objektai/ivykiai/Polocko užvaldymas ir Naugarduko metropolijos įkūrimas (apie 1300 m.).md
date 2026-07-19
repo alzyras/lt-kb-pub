@@ -86,7 +86,11 @@ Nenurodyta
     1300 m. ilgiems laikams Lietuvai užvaldė Polocką. Šis turtingas
     ir svarbus prekybos punktas prie Dauguvos, Mindaugui mirus,
     buvo atsipalaidavęs nuo Lietuvos.
-  citata_rodoma: "Naudodamasis proga, jis apie\n1300 m. ilgiems laikams Lietuvai užvaldė Polocką. Šis turtingas\nir svarbus prekybos punktas prie Dauguvos, Mindaugui mirus,\nbuvo atsipalaidavęs nuo Lietuvos."
+  citata_rodoma: |
+    Naudodamasis proga, jis apie
+    1300 m. ilgiems laikams Lietuvai užvaldė Polocką. Šis turtingas
+    ir svarbus prekybos punktas prie Dauguvos, Mindaugui mirus,
+    buvo atsipalaidavęs nuo Lietuvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -137,7 +137,13 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
     šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
     bažnyčios sienos.
-  citata_rodoma: "Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų\n\n   Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs\nSventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie\nVišogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su\ngalybe savo karių stovįs prie Svečės pilies ir ją stiprinąs."
+  citata_rodoma: |
+    Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
+
+       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
+    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
+    Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
+    galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -157,7 +163,9 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
     pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
     kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
-  citata_rodoma: "291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród\n— dab. Fordonas kair. Vyslos krante, prie Bidgoščiaus. Išliko piliakalnis."
+  citata_rodoma: |
+    291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród
+    — dab. Fordonas kair. Vyslos krante, prie Bidgoščiaus. Išliko piliakalnis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

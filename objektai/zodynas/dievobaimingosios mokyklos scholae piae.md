@@ -82,13 +82,19 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
-    tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą
+    Be to, XVIII amž. ir į Lietuvą
     atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
     ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias
     mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
     pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat
     kolegijų, kaip ir jėzuitai.
-  citata_rodoma: "Be to, XVIII amž. ir į Lietuvą\natsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų\nordinas (pijarai kurdavo vadinamąsias dievobaimingąsias\nmokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami\npijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat\nkolegijų, kaip ir jėzuitai."
+  citata_rodoma: |
+    Be to, XVIII amž. ir į Lietuvą
+    atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
+    ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias
+    mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
+    pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat
+    kolegijų, kaip ir jėzuitai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

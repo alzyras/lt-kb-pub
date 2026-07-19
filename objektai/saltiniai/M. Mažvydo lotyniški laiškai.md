@@ -78,7 +78,9 @@ Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragne
     atitraukusi čia 9 metais anksčiau, nei Teutonų ordinas atvyko į Prūsijos žemę467. Galop
     rutėnai, pavargę nuo įstangų ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie
     bemintą. Šie atsakė: „Žuvimis“.
-  citata_rodoma: "M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,\nPirmoji.., p. 251, 257)."
+  citata_rodoma: |
+    M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
+    Pirmoji.., p. 251, 257).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

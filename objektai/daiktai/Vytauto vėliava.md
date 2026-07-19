@@ -125,7 +125,14 @@ Nenurodyta
     vusių Gediminaičių ir Riurikaičių kunigaikščių ir jų aukų. Po Vy­
     tauto vėliava bus kovoję apie 50 kunigaikščių, iš kurių per dvide­
     šimt žuvo.
-  citata_rodoma: "000\nkritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo\nbent dešimtį kartų mažiau.\nMetraščiuose skirtingai paduodami skaičiai kautynėse dalyva­\nvusių Gediminaičių ir Riurikaičių kunigaikščių ir jų aukų. Po Vy­\ntauto vėliava bus kovoję apie 50 kunigaikščių, iš kurių per dvide­\nšimt žuvo."
+  citata_rodoma: |
+    000
+    kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo
+    bent dešimtį kartų mažiau.
+    Metraščiuose skirtingai paduodami skaičiai kautynėse dalyva­
+    vusių Gediminaičių ir Riurikaičių kunigaikščių ir jų aukų. Po Vy­
+    tauto vėliava bus kovoję apie 50 kunigaikščių, iš kurių per dvide­
+    šimt žuvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

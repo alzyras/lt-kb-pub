@@ -150,7 +150,8 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos. Tam padėjo 1975 m. Hel-
     sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
-  citata_rodoma: "sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises."
+  citata_rodoma: |
+    sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -114,7 +114,14 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     duodamos turtingesniems, nes iš jų tikėtasi geresnės karinės
     prievolės atlikimo. Taip buvo kolonizuojama ir Žemaitija ir ki­
     ti kraštai.
-  citata_rodoma: "Taip pat ir kitais sumetimais Vytautas stengdavosi įkur­\ndinti neužimtose, bet jam priklausomose žemėse, plėsdamas jose\ndvarų ūkį ir įkurdamas darbininkus, kuriuos atleisdavo nuo lažo\nir padarydavo laisvus nuomininkus, arba tos žemės būdavo\nduodamos turtingesniems, nes iš jų tikėtasi geresnės karinės\nprievolės atlikimo. Taip buvo kolonizuojama ir Žemaitija ir ki­\nti kraštai."
+  citata_rodoma: |
+    Taip pat ir kitais sumetimais Vytautas stengdavosi įkur­
+    dinti neužimtose, bet jam priklausomose žemėse, plėsdamas jose
+    dvarų ūkį ir įkurdamas darbininkus, kuriuos atleisdavo nuo lažo
+    ir padarydavo laisvus nuomininkus, arba tos žemės būdavo
+    duodamos turtingesniems, nes iš jų tikėtasi geresnės karinės
+    prievolės atlikimo. Taip buvo kolonizuojama ir Žemaitija ir ki­
+    ti kraštai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

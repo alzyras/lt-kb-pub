@@ -148,7 +148,10 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę
     456  Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
     457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab.
-  citata_rodoma: "Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę\n\n  456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m."
+  citata_rodoma: |
+    Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę
+
+      456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

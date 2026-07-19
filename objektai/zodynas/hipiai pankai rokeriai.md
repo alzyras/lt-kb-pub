@@ -60,7 +60,8 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
     nustatytiems kultūros standartams. Susiformavo dvi kultūrinės kryptys –
     etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo
     roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.
-  citata_rodoma: "etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo"
+  citata_rodoma: |
+    etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

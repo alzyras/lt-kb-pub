@@ -240,7 +240,15 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     palikę arklius, pėsčiomis po brolių vėliava per ėjo mišką, vardu Vintas578; apyaušryje,
     kai ryžosi slaptai priartėti prie Junigedos pilies ir ją paimti, įspėti pilėnai užkūrė ugnį ir
     dūmais pranešė kaimyniniams stabmeldžiams, kad čia pat brolių kariuomenė.
-  citata_rodoma: "Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais\n\n  Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su\naštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje\nvietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o\nmoteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami\n200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie\npasileido bėgti ir šitaip išsigelbėjo."
+  citata_rodoma: |
+    Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
+
+      Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
+    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
+    vietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
+    moteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
+    200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
+    pasileido bėgti ir šitaip išsigelbėjo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -308,7 +316,14 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
     pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
     atvykęs, patraukė į Ragainę.
-  citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais."
+  citata_rodoma: |
+    Apie Medininkų valsčiaus apiplėšimą 1316 metais
+
+      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
+    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
+    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
+    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
+    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

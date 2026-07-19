@@ -1778,7 +1778,12 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
 
     (^11) **_Epitome principam Lithuaniae_****.
-  citata_rodoma: "Bet ir rusai, kurie Kroniką ar\njos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą\n(nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-\n\n(^11) **_Epitome principam Lithuaniae_****."
+  citata_rodoma: |
+    Bet ir rusai, kurie Kroniką ar
+    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
+    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
+
+    (^11) **_Epitome principam Lithuaniae_****.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1801,7 +1806,13 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     Lietuvos kariai rusai šaudydami iš lankų.
     Daug ordino brolių žuvo, tarp jų Gdan-
     sko komtūras, Sembos vyskupo teisėjas.
-  citata_rodoma: "Mūšyje, pirmiausia jo pradžioje, kaip pa-\nžymi kronikininkas Vygandas, lietuviai\npriešą atakavo svaidomosiomis ietimis, o\nLietuvos kariai rusai šaudydami iš lankų.\nDaug ordino brolių žuvo, tarp jų Gdan-\nsko komtūras, Sembos vyskupo teisėjas."
+  citata_rodoma: |
+    Mūšyje, pirmiausia jo pradžioje, kaip pa-
+    žymi kronikininkas Vygandas, lietuviai
+    priešą atakavo svaidomosiomis ietimis, o
+    Lietuvos kariai rusai šaudydami iš lankų.
+    Daug ordino brolių žuvo, tarp jų Gdan-
+    sko komtūras, Sembos vyskupo teisėjas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1846,7 +1857,12 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
     kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
     kunigaikščių joje buvo per penkiasdešimt.
-  citata_rodoma: "Tuo\nbūdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­\nčiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama\nkariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos\nkunigaikščių joje buvo per penkiasdešimt."
+  citata_rodoma: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
+    kunigaikščių joje buvo per penkiasdešimt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1883,7 +1899,27 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     nostram profitentibus acquirunt, eadem onera sustineant, in
     possessionibus acquisitis vėl acquirendis, quae sustinuerunt
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
-  citata_rodoma: "Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­\nnešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­\nse gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­\nsybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo\nžmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­\nkėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų\nir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,\nir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,\nkad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar\ntotoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­\nžįstančių valdinių cesijos ar decesijos būdu, sudarydami\nkontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,\n401\n\n## Puslapis 418\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nnostram profitentibus acquirunt, eadem onera sustineant, in\npossessionibus acquisitis vėl acquirendis, quae sustinuerunt\nii, a quibus eas acquisiverunt, aut acquisituri sunt."
+  citata_rodoma: |
+    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
+    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
+    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
+    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
+    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
+    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
+    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
+    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
+    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
+    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
+    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
+    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
+    401
+
+    ## Puslapis 418
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    nostram profitentibus acquirunt, eadem onera sustineant, in
+    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
+    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1902,7 +1938,11 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
     jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
-  citata_rodoma: "Įvairūs lenkų autoriai į jį pažiurėjo kaip\nį tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar\njos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą\n(nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu."
+  citata_rodoma: |
+    Įvairūs lenkų autoriai į jį pažiurėjo kaip
+    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
+    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
+    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1961,7 +2001,15 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     apeigomis,
     ir
     valstybine santvarka.
-  citata_rodoma: "Erdvilui mirus, Naugarduko kunigaikštystę valdyti\nžemių. Polocko rusai savo valstybės valdymą buvo\nperdavę ne vienam kunigaikščiui, bet tautai5; šitokių\npermainų priežastis buvo ta, kad per skitų karą buvo\nnetekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,\ntvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­\nrėkite, kad, susiradę kokį valdovą, neprarastumėte per\nsavo ištižimą laisvės, kurią iš priešų malonės gavote."
+  citata_rodoma: |
+    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
+    žemių. Polocko rusai savo valstybės valdymą buvo
+    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
+    permainų priežastis buvo ta, kad per skitų karą buvo
+    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
+    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
+    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
+    savo ištižimą laisvės, kurią iš priešų malonės gavote.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

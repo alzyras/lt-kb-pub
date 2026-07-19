@@ -102,7 +102,8 @@ Nenurodyta
     Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios in-
     formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti
     Sitkūnų (netoli Kauno) radijo stotis.
-  citata_rodoma: "formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti"
+  citata_rodoma: |
+    formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

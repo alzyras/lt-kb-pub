@@ -155,7 +155,13 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     mit Werdicheit kome desse Breef dorch dach und nacht sun­
     der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
     šis laiškas turi būti tikrai ir nedelsiant atiduotas).
-  citata_rodoma: "Be metų (turbūt, 1396).\n(Iš originalo Karaliaučiaus Slaptajame Archyve) \nAdresas toks: „Dėmė Erwerdighen Meister to Lyfflande \nmit Werdicheit kome desse Breef dorch dach und nacht sun­\nder alle sümen B.\" (Didžiai gerbiamam Livonijos magistrui \nšis laiškas turi būti tikrai ir nedelsiant atiduotas)."
+  citata_rodoma: |
+    Be metų (turbūt, 1396).
+    (Iš originalo Karaliaučiaus Slaptajame Archyve)
+    Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
+    mit Werdicheit kome desse Breef dorch dach und nacht sun­
+    der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
+    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -230,7 +236,20 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     VILNIAUS MIESTO ISTORIJA / TOMAS
     II
     (Plg. InJ. cod. hist. di pl.
-  citata_rodoma: "Dinaburgo komtūras \n(parašas)\nOriginalą atitinka:\nDr. Hennigas\nKarai. Slapt. Arch. Direktorius \nUž nuorašo perrašymo teisingumą [atsako]\nDr. Napierskis\n\n## Puslapis 184\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nII\n(Plg."
+  citata_rodoma: |
+    Dinaburgo komtūras
+    (parašas)
+    Originalą atitinka:
+    Dr. Hennigas
+    Karai. Slapt. Arch. Direktorius
+    Už nuorašo perrašymo teisingumą [atsako]
+    Dr. Napierskis
+
+    ## Puslapis 184
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    II
+    (Plg.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

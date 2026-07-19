@@ -103,7 +103,11 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
     Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
-  citata_rodoma: "169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo\nInovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino\npalikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,\nžemėlapis Nr. 6)."
+  citata_rodoma: |
+    169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
+    Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino
+    palikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,
+    žemėlapis Nr. 6).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -122,7 +126,11 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
     padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
     suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: "broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė\njiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis\nir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties\npadedami, ateityje pajungsią savo valdžiai."
+  citata_rodoma: |
+    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
+    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
+    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
+    padedami, ateityje pajungsią savo valdžiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

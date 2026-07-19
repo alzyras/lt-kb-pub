@@ -109,7 +109,12 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
     nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų
     pastatydinti bažnyčią, o tas šitaip ir padarė, būtent: pastatė cistersų ordino vienuolyną
     Revelyje, kuris yra Livonijos žemėje.
-  citata_rodoma: "Apie Henriko, Danijos karaliaus, žūtį\n\n  1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs\nuž jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų\nnaudos, todėl kitais metais  jį nužudė frizai (Mart. p. 404)."
+  citata_rodoma: |
+    Apie Henriko, Danijos karaliaus, žūtį
+
+      1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
+    už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų
+    naudos, todėl kitais metais  jį nužudė frizai (Mart. p. 404).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

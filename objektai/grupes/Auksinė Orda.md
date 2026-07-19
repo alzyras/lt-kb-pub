@@ -369,7 +369,10 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
     Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
     didesnių nuostolių.
-  citata_rodoma: "Kai nuo XIV amž. galo totorių valstybė (Aukso\nOrda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji\njėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų."
+  citata_rodoma: |
+    Kai nuo XIV amž. galo totorių valstybė (Aukso
+    Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji
+    jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -408,7 +411,9 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
     Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
     sutriuškino švedų galybę (1709).
-  citata_rodoma: "Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos\n(Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė."
+  citata_rodoma: |
+    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
+    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -427,7 +432,10 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII
     amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
     gė Aukso Ordą.
-  citata_rodoma: "Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII\namž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­\ngė Aukso Ordą."
+  citata_rodoma: |
+    Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII
+    amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
+    gė Aukso Ordą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -469,7 +477,12 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
     čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
     skynė kelią į tikruosius jo didybės laikus.
-  citata_rodoma: "Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­\ndovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­\nvo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir\npaskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net\nAukso Ordoje."
+  citata_rodoma: |
+    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
+    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
+    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
+    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
+    Aukso Ordoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -489,7 +502,12 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
 
     - Aglenas ir jo įpėdinis Kotlogas-Timuras.
-  citata_rodoma: "Šis padarė\ntris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos\nbuvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas\n\n- Aglenas ir jo įpėdinis Kotlogas-Timuras."
+  citata_rodoma: |
+    Šis padarė
+    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
+    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
+
+    - Aglenas ir jo įpėdinis Kotlogas-Timuras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -528,7 +546,11 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
     totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
     Lietuva.
-  citata_rodoma: "Jonas III su naujuoju chanu padarė sąjungą ir su-\nnaikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo\ntotorių (1480 m.), ir vienintelis galingas jos konkurentas liko\nLietuva."
+  citata_rodoma: |
+    Jonas III su naujuoju chanu padarė sąjungą ir su-
+    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
+    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
+    Lietuva.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

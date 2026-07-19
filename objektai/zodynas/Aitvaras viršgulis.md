@@ -150,7 +150,13 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
     mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
     rybė moka daryti stebuklus lengvatikių akyse.
-  citata_rodoma: "Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­\nkė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai \nprisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada \nnelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja- \nmi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­\nrybė moka daryti stebuklus lengvatikių akyse."
+  citata_rodoma: |
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
+    rybė moka daryti stebuklus lengvatikių akyse.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

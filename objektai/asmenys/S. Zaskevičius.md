@@ -85,7 +85,12 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     10 d. Jiezno puolimo karin. S. Zaskevičius
     su likusia rinktinės dalimi traukėsi
     Tverų kryptimi. Vakare pasiekusi netoli
-  citata_rodoma: "Po nepavy-\nkusio vasario\n10 d. Jiezno puolimo karin. S. Zaskevičius\nsu likusia rinktinės dalimi traukėsi\nTverų kryptimi."
+  citata_rodoma: |
+    Po nepavy-
+    kusio vasario
+    10 d. Jiezno puolimo karin. S. Zaskevičius
+    su likusia rinktinės dalimi traukėsi
+    Tverų kryptimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +112,15 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     pats tuometinis krašto
     apsaugos viceministras
     karin. S. Zaskevičius.
-  citata_rodoma: "Atsižvelgiant į minėtos krypties\nsvarbą ir besiklostančios situaci-\njos pavojingumą, vadovauti |\noperacijai, neutralizuo-\njant kilusį pavojų, ėmėsi\npats tuometinis krašto\napsaugos viceministras\nkarin. S. Zaskevičius."
+  citata_rodoma: |
+    Atsižvelgiant į minėtos krypties
+    svarbą ir besiklostančios situaci-
+    jos pavojingumą, vadovauti |
+    operacijai, neutralizuo-
+    jant kilusį pavojų, ėmėsi
+    pats tuometinis krašto
+    apsaugos viceministras
+    karin. S. Zaskevičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -130,7 +143,13 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     rintos kuopos dydžio S. Zas-
     kevičiaus vadovaujama rinktinė
     artėjo prie Jiezno.
-  citata_rodoma: "Dauguma savano-\n\nVasario 10 d. ryte sustip-\nrintos kuopos dydžio S. Zas-\nkevičiaus vadovaujama rinktinė\nartėjo prie Jiezno."
+  citata_rodoma: |
+    Dauguma savano-
+
+    Vasario 10 d. ryte sustip-
+    rintos kuopos dydžio S. Zas-
+    kevičiaus vadovaujama rinktinė
+    artėjo prie Jiezno.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

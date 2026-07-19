@@ -108,7 +108,11 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
     Jo, kaip savo giminės ir, be abejo, luomo atstovo, interesai Vilniuje buvo bene svarbiausi
     būsimam hierarchui ir viena iš pagrindinių jo laiškų temų. Jis brolį nuolat ragino dažniau
     atvykti į Vilnių.
-  citata_rodoma: "Bene dažniausias jo adresatas buvo brolis Mikalojus Lopacinskis (1715–1778) – būsimasis LDK didysis raštininkas.\nJo, kaip savo giminės ir, be abejo, luomo atstovo, interesai Vilniuje buvo bene svarbiausi\nbūsimam hierarchui ir viena iš pagrindinių jo laiškų temų. Jis brolį nuolat ragino dažniau\natvykti į Vilnių."
+  citata_rodoma: |
+    Bene dažniausias jo adresatas buvo brolis Mikalojus Lopacinskis (1715–1778) – būsimasis LDK didysis raštininkas.
+    Jo, kaip savo giminės ir, be abejo, luomo atstovo, interesai Vilniuje buvo bene svarbiausi
+    būsimam hierarchui ir viena iš pagrindinių jo laiškų temų. Jis brolį nuolat ragino dažniau
+    atvykti į Vilnių.
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
   teiginio_tipas: faktas

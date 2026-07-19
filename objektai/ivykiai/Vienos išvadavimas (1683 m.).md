@@ -69,7 +69,12 @@ Nenurodyta
     momentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena
     buvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies
     Vengrijos.
-  citata_rodoma: "Padarius sąjungą su\nAustrija, turkai užpuolė šią ir pasiekė net Vieną. Kritiškuoju\nmomentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena\nbuvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies\nVengrijos."
+  citata_rodoma: |
+    Padarius sąjungą su
+    Austrija, turkai užpuolė šią ir pasiekė net Vieną. Kritiškuoju
+    momentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena
+    buvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies
+    Vengrijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

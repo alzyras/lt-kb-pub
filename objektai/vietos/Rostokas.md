@@ -85,7 +85,11 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
     patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
     jis pats su jais jokios sutarties nedarė.
-  citata_rodoma: "Dėl to rygiečiai kėlė balsą Hanzos\nsąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų\npatvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad\njis pats su jais jokios sutarties nedarė."
+  citata_rodoma: |
+    Dėl to rygiečiai kėlė balsą Hanzos
+    sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
+    patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
+    jis pats su jais jokios sutarties nedarė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

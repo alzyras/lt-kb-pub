@@ -65,7 +65,8 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
     mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
     onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
     neteisėtais.
-  citata_rodoma: "onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės"
+  citata_rodoma: |
+    onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

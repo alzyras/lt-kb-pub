@@ -59,8 +59,14 @@ Oginskis spėjo sutelkti Chomske, ėmė supti Rusijos kariuomenės daliniai.
     Lietuvos kariuomenę, kurią M. K. Oginskis
     spėjo sutelkti Chomske, ėmė supti Rusijos
     kariuomenės daliniai. Didžiojo etmono
-    buvo pareikalauta pasiduoti. Oginskis,
-  citata_rodoma: "Mūšis\n\nLietuvos kariuomenę, kurią M. K. Oginskis\nspėjo sutelkti Chomske, ėmė supti Rusijos\nkariuomenės daliniai. Didžiojo etmono\nbuvo pareikalauta pasiduoti."
+    buvo pareikalauta pasiduoti.
+  citata_rodoma: |
+    Mūšis
+
+    Lietuvos kariuomenę, kurią M. K. Oginskis
+    spėjo sutelkti Chomske, ėmė supti Rusijos
+    kariuomenės daliniai. Didžiojo etmono
+    buvo pareikalauta pasiduoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

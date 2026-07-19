@@ -121,7 +121,10 @@ Nenurodyta
     173  Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi
     Hohenlohės reliacijos originale, įėjo į Ordino tradiciją. Tai turėjo įvykti tarp 1226 m.
     („Aukso bulės“) ir 1230 m. (Krušvicos falsifikato).
-  citata_rodoma: "173 Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi\nHohenlohės reliacijos originale, įėjo  į Ordino tradiciją. Tai turėjo įvykti tarp 1226 m.\n(„Aukso bulės“) ir 1230 m. (Krušvicos falsifikato)."
+  citata_rodoma: |
+    173 Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi
+    Hohenlohės reliacijos originale, įėjo  į Ordino tradiciją. Tai turėjo įvykti tarp 1226 m.
+    („Aukso bulės“) ir 1230 m. (Krušvicos falsifikato).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -143,7 +146,17 @@ Nenurodyta
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
     171 Remdamasis Krušvicos falsifikatu (žr. žemiau), Dusburgietis mini 3 sūnus
     — liudytojus.
-  citata_rodoma: "Kad\nšis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,\nišdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)\nviešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui\nGiunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui\nVilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui\nJonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.\n\n  171 Remdamasis Krušvicos  falsifikatu  (žr. žemiau), Dusburgietis mini 3 sūnus\n— liudytojus."
+  citata_rodoma: |
+    Kad
+    šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
+    išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
+    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
+    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
+    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
+    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
+
+      171 Remdamasis Krušvicos  falsifikatu  (žr. žemiau), Dusburgietis mini 3 sūnus
+    — liudytojus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -169,7 +182,20 @@ Nenurodyta
     Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
-  citata_rodoma: "savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam\npritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia\nesantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,\nviešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius\nvisas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei\nteisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie\nšiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims. Kad\nšis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,\nišdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)\nviešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui\nGiunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui\nVilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui\nJonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174."
+  citata_rodoma: |
+    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
+    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
+    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
+    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
+    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
+    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
+    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims. Kad
+    šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
+    išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
+    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
+    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
+    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
+    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

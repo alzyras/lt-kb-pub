@@ -87,7 +87,13 @@ Nenurodyta
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
     257
     roje atskyrimo.
-  citata_rodoma: "1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės\nsienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n257\nroje atskyrimo."
+  citata_rodoma: |
+    1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
+    sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    257
+    roje atskyrimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

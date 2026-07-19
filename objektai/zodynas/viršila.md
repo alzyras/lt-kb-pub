@@ -75,7 +75,14 @@ media_all_json: |-
     vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
     vusį to paties pulko I batalioną Vidugirių kaime.
     „Vidugirių kaimą pasiekėme po pietų.
-  citata_rodoma: "“ |\n\n| 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-\nmena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir\nvadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-\nvusį to paties pulko I batalioną Vidugirių kaime.\n„Vidugirių kaimą pasiekėme po pietų."
+  citata_rodoma: |
+    “ |
+
+    | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-
+    mena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir
+    vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
+    vusį to paties pulko I batalioną Vidugirių kaime.
+    „Vidugirių kaimą pasiekėme po pietų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -197,7 +197,9 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     1970.
     AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936
     (spaudai paruošė kim. J. Stakauskas).
-  citata_rodoma: "AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936\n(spaudai paruošė kim. J. Stakauskas)."
+  citata_rodoma: |
+    AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936
+    (spaudai paruošė kim. J. Stakauskas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -219,7 +221,12 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     siam naudingais patarimais šią monografiją rašant bei reda­
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
-  citata_rodoma: "Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę\ndidelio dėkingumo gerb. prof. A. Aleknai mielai padėju­\nsiam naudingais patarimais šią monografiją rašant bei reda­\nguojant, ir kartu apgailestaujam, kad gerb, profesorius dėl\nligos negalėjo parašyti šiai knygai įžangos žodžio."
+  citata_rodoma: |
+    Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
+    didelio dėkingumo gerb. prof. A. Aleknai mielai padėju­
+    siam naudingais patarimais šią monografiją rašant bei reda­
+    guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
+    ligos negalėjo parašyti šiai knygai įžangos žodžio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

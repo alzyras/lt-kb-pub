@@ -77,7 +77,10 @@ media_all_json: |-
     Tada pro rinktinę pravažiavo keturios vokiečių
     patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos
     tą patį kartojo: „Dabar tai jie gaus“.
-  citata_rodoma: "Tada pro rinktinę pravažiavo keturios vokiečių\npatrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos\ntą patį kartojo: „Dabar tai jie gaus“."
+  citata_rodoma: |
+    Tada pro rinktinę pravažiavo keturios vokiečių
+    patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos
+    tą patį kartojo: „Dabar tai jie gaus“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

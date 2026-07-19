@@ -413,7 +413,15 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     surašytos klausantis jų skaldų, bei
     šiaurės kronikos byloja ne apie vie­
     ną tokį žygį.
-  citata_rodoma: "Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­\nliautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­\nsėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­\nje padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių \nsantakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos\nsurašytos klausantis jų skaldų, bei \nšiaurės kronikos byloja ne apie vie­\nną tokį žygį."
+  citata_rodoma: |
+    Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
+    liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
+    sėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­
+    je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
+    santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos
+    surašytos klausantis jų skaldų, bei
+    šiaurės kronikos byloja ne apie vie­
+    ną tokį žygį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -452,7 +460,30 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
-  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t."
+  citata_rodoma: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -554,7 +585,13 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     Kitose vietose, kaip man pasakojo, tokias vandenų gundy­
     tojas paprasti žmonės vadina undinėmis (Ondynami) arba van­
     denėmis (Wundynami), o tai žodžio nimfa vertimas.
-  citata_rodoma: "Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­\njimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­\nniui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­\nja, kurią seniau vadino Nerimi."
+  citata_rodoma: |
+    Iš to žodžio paimtas pa­
+    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
+    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
+    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
+    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
+    ja, kurią seniau vadino Nerimi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -601,7 +638,20 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
     kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
     padavimai.
-  citata_rodoma: "Lietuvos didžiojo kunigaikščio Gedimino kapas yra\nprie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,\n1 Principum viromm tumulis injiciunt omnes humum urtatim, et\navide cupientes tumulos, quam maximos efficere (Herodotas). Luka-\nnas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių\npelenai ilsisi supiltame kalne).\n2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski\nnumeryje**.\n372\n\n## Puslapis 372\n\nvedančio iš Užupio į Antakalnį."
+  citata_rodoma: |
+    Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
+    numeryje**.
+    372
+
+    ## Puslapis 372
+
+    vedančio iš Užupio į Antakalnį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -638,7 +688,22 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     sk e lb ė jų n u žu d ym ą
     tas, įsakė ištardyti bruzdėji­
     mo vadovus.
-  citata_rodoma: "Kol jis pats gyveno\nVilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,\ntačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­\nkėję, arba Poleksijoje), minia, kažin kieno sukursty­\nta, žiauriai su jais susidorojo. Vienas būrelis iš sep­\ntynių vienuolių buvo prievarta išvilktas iš namų į aikš­\ntę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,\ntuo būdu pašventindami savo krauju lietuvių žemes\nKristaus mokslo sėjai; kitas būrelis, taip pat iš septy­\nnių vienuolių, buvo nutemptas į kalną, kurį žmonės\nvadina Plikuoju, čia juos prie kryžių pririšo ir nuo\nstataus kalno šlaito nustūmė į papėdėje tekančią Vil­\nnią. Šventus nužudytųjų kūnus Goštautas įsakė surasti\nir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­\ntaus žodį."
+  citata_rodoma: |
+    Kol jis pats gyveno
+    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
+    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
+    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
+    ta, žiauriai su jais susidorojo. Vienas būrelis iš sep­
+    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
+    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
+    tuo būdu pašventindami savo krauju lietuvių žemes
+    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
+    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
+    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
+    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
+    nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
+    ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
+    taus žodį.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

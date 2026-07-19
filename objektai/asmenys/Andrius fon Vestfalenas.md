@@ -89,7 +89,15 @@ Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo l
     bei lazdą. Šitoks nesudėtingas tada buvo vainikavimo
     paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
     lią žiūrėti valstybės reikalų ir viduje, ir svetur.
-  citata_rodoma: "Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­\nmantas."
+  citata_rodoma: |
+    Tais pačiais metais, kaip
+    sako Livonijos metraštis, žemaičiai ir lietuviai prie
+    Eželio ant ledo kovojo su Livonijos magistru Otonu,
+    magistras žuvo su penkiasdešimčia šio ordino brolių.
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
+    mantas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

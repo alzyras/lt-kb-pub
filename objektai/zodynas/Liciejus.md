@@ -79,7 +79,8 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie Turku suomių liciej�
     metų gyvenęs Luononmaa saloje šalia to paties Naantalio.
     1880 m.
     įstojo į Turku suomių liciejų, mūsiškai — gimnaziją.
-  citata_rodoma: "įstojo į Turku suomių liciejų, mūsiškai — gimnaziją"
+  citata_rodoma: |
+    įstojo į Turku suomių liciejų, mūsiškai — gimnaziją
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

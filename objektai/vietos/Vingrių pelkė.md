@@ -80,7 +80,14 @@ Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingri�
     nyčią. Pirmtakų krauju sudrėkintas laukas, įpėdiniams
     negailint triūso, atnešė gausų pamaldumo derlių, ku­
     riuo mes ligi šiol džiaugiamės.
-  citata_rodoma: "Be to, paskelbtas įstatymas, leidžian­\ntis ilgainiui krikščionims netrukdomiems viešose ir už­\ndarose vietose skelbti savo tikėjimo tiesas. Naują to\npaties ordino vienuolių būrį pakvietė Goštautas į Vil­\nnių ir paskyrė jiems vietą netoli Vingrių pelkės, ža­\ndėdamas pastatyti ten pat šv. Mergelės Marijos baž­\nnyčią."
+  citata_rodoma: |
+    Be to, paskelbtas įstatymas, leidžian­
+    tis ilgainiui krikščionims netrukdomiems viešose ir už­
+    darose vietose skelbti savo tikėjimo tiesas. Naują to
+    paties ordino vienuolių būrį pakvietė Goštautas į Vil­
+    nių ir paskyrė jiems vietą netoli Vingrių pelkės, ža­
+    dėdamas pastatyti ten pat šv. Mergelės Marijos baž­
+    nyčią.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

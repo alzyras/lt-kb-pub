@@ -69,7 +69,8 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
     12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
     Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
     daugiatūkstantinė taikių Lietuvos gyventojų minia.
-  citata_rodoma: "Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė"
+  citata_rodoma: |
+    Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

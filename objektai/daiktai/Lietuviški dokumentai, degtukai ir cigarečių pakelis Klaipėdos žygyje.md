@@ -85,7 +85,8 @@ Nenurodyta
     Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
     kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
     ar cigarečių pakelio, peržengė sieną.
-  citata_rodoma: "kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų"
+  citata_rodoma: |
+    kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

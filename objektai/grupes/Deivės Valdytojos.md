@@ -85,7 +85,16 @@ Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į
     budriai saugojusi lemtį, sergėjo akimirką, kada turėtų pasibaigti
     žmogaus gyvybės audimas; kaip mat lemties žirklėmis perkop­
     davo audeklą ir nutraukdavo žmogaus gyvenimo tėkmę.
-  citata_rodoma: "Kartais\nvasaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­\nmės, j puikius slėnius, esančius greta upių ir ežerų. Jeigu tose\nvietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­\nrytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo\nakmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba\nelipsės formą. Gerbėjai jas galėdavo stebėti iš .tam tikro atstumo,\nbet vargas tam, kuris išdrįsdavo prisiartinti — jos be pasigailė­\njimo nužudydavo kiekvieną, kuris įžeisdavo jų garbę."
+  citata_rodoma: |
+    Kartais
+    vasaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­
+    mės, j puikius slėnius, esančius greta upių ir ežerų. Jeigu tose
+    vietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­
+    rytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo
+    akmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba
+    elipsės formą. Gerbėjai jas galėdavo stebėti iš .tam tikro atstumo,
+    bet vargas tam, kuris išdrįsdavo prisiartinti — jos be pasigailė­
+    jimo nužudydavo kiekvieną, kuris įžeisdavo jų garbę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

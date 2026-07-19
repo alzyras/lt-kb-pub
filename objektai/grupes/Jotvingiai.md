@@ -577,7 +577,10 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: "Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  citata_rodoma: |
+    Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -613,7 +616,17 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     pripažinti, kad švedų mokslininko
     Thunmano  tyrinėjimai ir prie­
     laidos panašiausios į tiesą.
-  citata_rodoma: "Prūsai - apie jų kalbą pasakytina,\nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu\npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,\niki pat Baltijos jūros siekianti, kaip lietuvių genties centras,\nišsaugojo gryniausius savo padermės bruožus. Kraštas, ku­\nrį dabar užima Vilniaus gubernija ir dalis Gardino guberni­\njų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­\ntuvių tautos padermių gyvenvietė: Žemaitijos, arba\nžemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2."
+  citata_rodoma: |
+    Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -632,7 +645,8 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
     tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
     vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: "sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių"
+  citata_rodoma: |
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -767,7 +781,30 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     pripažinti, kad švedų mokslininko
     Thunmano  tyrinėjimai ir prie­
     laidos panašiausios į tiesą.
-  citata_rodoma: "Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba \ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos \niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki \nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina, \nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu \npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija, \niki pat Baltijos jūros siekianti, kaip lietuvių genties centras, \nišsaugojo gryniausius savo padermės bruožus. Kraštas, ku­\nrį dabar užima Vilniaus gubernija ir dalis Gardino guberni­\njų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­\ntuvių tautos padermių gyvenvietė: Žemaitijos, arba \nžemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.\ni\nKol istorikai neįstengė rasti patiki­\nmos išvados apie lietuvių tautos \nkilmę, kol kas to dar neketinu šia­\nme veikale aptarti; vis dėlto turiu \npripažinti, kad švedų mokslininko \nThunmano  tyrinėjimai ir prie­\nlaidos panašiausios į tiesą."
+  citata_rodoma: |
+    Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
+    i
+    Kol istorikai neįstengė rasti patiki­
+    mos išvados apie lietuvių tautos
+    kilmę, kol kas to dar neketinu šia­
+    me veikale aptarti; vis dėlto turiu
+    pripažinti, kad švedų mokslininko
+    Thunmano  tyrinėjimai ir prie­
+    laidos panašiausios į tiesą.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -788,7 +825,16 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
     riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
     javų likučius sudegino (PSRL, II, 834).
-  citata_rodoma: "Dar neturint masinio šakniavaisių pakaitalo,\nkokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės\nliūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų\ndaugėjimą.\nKaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių\npavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834)."
+  citata_rodoma: |
+    Dar neturint masinio šakniavaisių pakaitalo,
+    kokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės
+    liūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų
+    daugėjimą.
+    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
+    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834).
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -811,7 +857,17 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
     to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
     atsitikę su jotvingiais.
-  citata_rodoma: "Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip\ntada butu sunku paaiškinti, kaip po intensyvių ir per eilę genera­\ncijų daug aukų reikalavusių karų su ordinu, tuo pat laiku vykstant\nstipriai ekspansijai į rytus, butų galėjusi tuojau prasidėti vidaus\nkolonizacija. Priimant dėmesin ir šitas istorines aplinkybes, nega­\nlima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų\nbuvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius\nnebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus\nto laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra\natsitikę su jotvingiais."
+  citata_rodoma: |
+    Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip
+    tada butu sunku paaiškinti, kaip po intensyvių ir per eilę genera­
+    cijų daug aukų reikalavusių karų su ordinu, tuo pat laiku vykstant
+    stipriai ekspansijai į rytus, butų galėjusi tuojau prasidėti vidaus
+    kolonizacija. Priimant dėmesin ir šitas istorines aplinkybes, nega­
+    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
+    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
+    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
+    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
+    atsitikę su jotvingiais.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -829,7 +885,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
     drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
     dalis jų yra žinoma ir vardais.
-  citata_rodoma: "tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų\npareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos\npriešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant\ndrauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.\ndalis jų yra žinoma ir vardais."
+  citata_rodoma: |
+    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
+    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
+    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
+    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
+    dalis jų yra žinoma ir vardais.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -849,7 +910,14 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę
     nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­
     muno prie Gardino.
-  citata_rodoma: "Išskyrus Gardiną, tos sritys buvo\nimta vadinti Juodoji Rusia («Černaja Rus’ »), ir jos jau XII\namžiaus pradžioje pateko Lietuvos valdžion. Toliau į pietvakarius\nėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš\nXIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę\nnuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­\nmuno prie Gardino."
+  citata_rodoma: |
+    Išskyrus Gardiną, tos sritys buvo
+    imta vadinti Juodoji Rusia («Černaja Rus’ »), ir jos jau XII
+    amžiaus pradžioje pateko Lietuvos valdžion. Toliau į pietvakarius
+    ėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš
+    XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę
+    nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­
+    muno prie Gardino.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -871,7 +939,16 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
     « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
     II, 879).
-  citata_rodoma: "Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių\npavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­\nmetį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,\njotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami\n« vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL\nII, 879)."
+  citata_rodoma: |
+    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
+    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
+    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
+    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
+    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
+    II, 879).
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -917,7 +994,11 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
     liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
     lietuviai29.
-  citata_rodoma: "Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  citata_rodoma: |
+    Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -940,7 +1021,18 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
     pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
     Daumanto, už Nalšios kunigaikščiol0.
-  citata_rodoma: "Mindaugas buvo pasiruošęs, bet nutarė su jais at­\nvirame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir\n55\n\n## Puslapis 51\n\n(naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus, \nir jotvingius. O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
+  citata_rodoma: |
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
+    55
+
+    ## Puslapis 51
+
+    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
+    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
+    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
+    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
+    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -961,7 +1053,15 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     atsitikę su jotvingiais.
     Kai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje
     padarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius.
-  citata_rodoma: "Priimant dėmesin ir šitas istorines aplinkybes, nega­\nlima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų\nbuvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius\nnebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus\nto laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra\natsitikę su jotvingiais.\nKai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje\npadarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius."
+  citata_rodoma: |
+    Priimant dėmesin ir šitas istorines aplinkybes, nega­
+    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
+    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
+    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
+    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
+    atsitikę su jotvingiais.
+    Kai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje
+    padarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -1007,7 +1107,18 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     Šalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­
     kystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,
     žvejybos), buvo puoselėjamas amatas.
-  citata_rodoma: "Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­\nmetį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,\njotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami\n« vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL\nII, 879).\nŠalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­\nkystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,\nžvejybos), buvo puoselėjamas amatas."
+  citata_rodoma: |
+    Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
+    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
+    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
+    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
+    II, 879).
+    Šalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­
+    kystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,
+    žvejybos), buvo puoselėjamas amatas.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -1043,7 +1154,13 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
     tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
     vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: "Vėliau, \nI tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-\nnių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-\nsų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių \ntautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir \nvėliau įkūrė Prūsijos valstybę."
+  citata_rodoma: |
+    Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
+    vėliau įkūrė Prūsijos valstybę.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 

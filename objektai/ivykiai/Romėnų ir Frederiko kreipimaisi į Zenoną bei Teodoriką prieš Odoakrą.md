@@ -97,7 +97,16 @@ Nenurodyta
     teiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­
     derikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­
     šams beriliams nugalėti.
-  citata_rodoma: "Visa tai lėmė,\njog romėnai slapta nuvyko pas Zenoną prašyli, kad jis\n1 Ennodius. In lib. dicto Theodorici reg. P. 298.\n\n## Puslapis 320\n\nteiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­\nderikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­\nšams beriliams nugalėti."
+  citata_rodoma: |
+    Visa tai lėmė,
+    jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis
+    1 Ennodius. In lib. dicto Theodorici reg. P. 298.
+
+    ## Puslapis 320
+
+    teiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­
+    derikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­
+    šams beriliams nugalėti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

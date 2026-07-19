@@ -63,7 +63,12 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
     žmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai
     šią knygą perskaityti.
-  citata_rodoma: "Šioje knygoje visai tikrai atvaizduotos\nvisos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­\nkai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku\nžmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai\nšią knygą perskaityti."
+  citata_rodoma: |
+    Šioje knygoje visai tikrai atvaizduotos
+    visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­
+    kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
+    žmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai
+    šią knygą perskaityti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

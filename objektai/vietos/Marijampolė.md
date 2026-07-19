@@ -138,7 +138,12 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     Filosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių
     ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose
     (1939-1940 m. berniukų gimnazijos direktorius).
-  citata_rodoma: "(1930) jos duota šio\nvaldovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­\nrikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai\nnebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.\nA."
+  citata_rodoma: |
+    (1930) jos duota šio
+    valdovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­
+    rikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai
+    nebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.
+    A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -156,7 +161,10 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     Lietuvos karalius,_** **Marijampolė 1932.**
     (^71) **J. Yčas:** **_Kronisto Simono Grunau reikalu,_** **Kaunas 1922 (atsp. iš
     Švietimo Darbo).
-  citata_rodoma: "Paties autoriaus sulietuvinta:** **_Mindaugas,\nLietuvos karalius,_** **Marijampolė 1932.**\n(^71) **J."
+  citata_rodoma: |
+    Paties autoriaus sulietuvinta:** **_Mindaugas,
+    Lietuvos karalius,_** **Marijampolė 1932.**
+    (^71) **J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

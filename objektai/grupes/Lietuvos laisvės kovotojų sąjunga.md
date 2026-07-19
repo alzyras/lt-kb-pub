@@ -96,7 +96,12 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: "Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė\n46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-\nklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,\nsuėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA\ngrupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių."
+  citata_rodoma: |
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -125,7 +130,18 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     do pogrindinius leidinius. 1943–1944 m. pogrindyje veikė Vyriausiasis
     Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių
     politines jėgas.
-  citata_rodoma: "(to meto atvirukas)\n\nL I E T U V O S  I S T O R I J A\n204\nantinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius \ndalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių, \nišsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus. \nKrikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė \nį Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę \ntautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-\ndo pogrindinius leidinius. 1943–1944 m."
+  citata_rodoma: |
+    (to meto atvirukas)
+
+    L I E T U V O S  I S T O R I J A
+    204
+    antinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius
+    dalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių,
+    išsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus.
+    Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
+    į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
+    tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
+    do pogrindinius leidinius. 1943–1944 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

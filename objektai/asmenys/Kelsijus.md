@@ -98,7 +98,19 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
     šiai jūrai skiria gerokai didesnį plotą, negu ji užima
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
-  citata_rodoma: "Iš tikrųjų kai ku­\nrias sausumas galima laikyti buvusiomis salomis po to,\nkai iš ten pasitraukė jūra. Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“)."
+  citata_rodoma: |
+    Iš tikrųjų kai ku­
+    rias sausumas galima laikyti buvusiomis salomis po to,
+    kai iš ten pasitraukė jūra. Tačiau Kelsijus ir Dalinas per­
+    nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
+    Kristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po
+    keturių tūkstančių metų jos neliks nė pėdsako. Antra
+    vertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,
+    Ovidijus kalba apie vandens lygio kritimą, pateikdami
+    akivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis
+    apie
+    Baltijos
+    jūrą“).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

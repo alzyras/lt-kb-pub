@@ -121,7 +121,15 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
     cijų, kurias mūsų žemė ne vieną kartą patyrė, ypač išsi­
     skyrė viena: tuomet labai nukentėjo uolienos ir jos buvo
     nepaprastai suskaldytos.
-  citata_rodoma: "Geriausiai šį ypatingą fenomeną pa­\naiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­\nna tolimais amžiais susidūrė dvi palyginti didelės pla­\nnetos, vadinamos H espera ir Fajetonu; jų skeveldros iš\ndalies nukrito žemėn ir sukėlė joje fizines revoliucijas,\nkurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos\nir panašios į šią prielaidos, prie žemės buvęs antras mė­\nnulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo."
+  citata_rodoma: |
+    Geriausiai šį ypatingą fenomeną pa­
+    aiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­
+    na tolimais amžiais susidūrė dvi palyginti didelės pla­
+    netos, vadinamos H espera ir Fajetonu; jų skeveldros iš
+    dalies nukrito žemėn ir sukėlė joje fizines revoliucijas,
+    kurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos
+    ir panašios į šią prielaidos, prie žemės buvęs antras mė­
+    nulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

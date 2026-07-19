@@ -93,7 +93,21 @@ Nenurodyta
     kauti kuo daugiau
 
     puolančiųjų.
-  citata_rodoma: "Pasyvios ir aktyvios kliūtys prieš\npėstininkus turėjo tikslą tiesiog sulėtinti\nšturmo greitį ir suteikti erdvės gynėjams\n\nPPS-43, perdirbtas sovietinis pistoletas-\nkulkosvaidis, šovinys - 7,62x25 mm TT.\n1991 m. sausį Parlamente budėjusių savanorių\nginklas\n\nmanevruoti bei nu-\n\nkauti kuo daugiau\n\npuolančiųjų."
+  citata_rodoma: |
+    Pasyvios ir aktyvios kliūtys prieš
+    pėstininkus turėjo tikslą tiesiog sulėtinti
+    šturmo greitį ir suteikti erdvės gynėjams
+
+    PPS-43, perdirbtas sovietinis pistoletas-
+    kulkosvaidis, šovinys - 7,62x25 mm TT.
+    1991 m. sausį Parlamente budėjusių savanorių
+    ginklas
+
+    manevruoti bei nu-
+
+    kauti kuo daugiau
+
+    puolančiųjų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

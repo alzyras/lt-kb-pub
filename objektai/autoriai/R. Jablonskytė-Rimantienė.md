@@ -60,7 +60,12 @@ Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus sto
     tė - Kuncienė rašė apie įvairius kapinynus bei pilkapius
     V. Urbanavičius domėjosi degintiniais kapais ir laidosena
     Lietuvoje XIV a.^100.
-  citata_rodoma: "Be jų,\nR. Jablonskytė - Rimantienė pateikė duomenų apie\nseniausias akmens amžiaus stovyklas Lietuvoje^98. O N avickai­\ntė - Kuncienė rašė apie įvairius kapinynus bei pilkapius\nV."
+  citata_rodoma: |
+    Be jų,
+    R. Jablonskytė - Rimantienė pateikė duomenų apie
+    seniausias akmens amžiaus stovyklas Lietuvoje^98. O N avickai­
+    tė - Kuncienė rašė apie įvairius kapinynus bei pilkapius
+    V.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

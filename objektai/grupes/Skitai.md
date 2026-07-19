@@ -350,7 +350,13 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
     5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
     rinkinyje, yra nemažai tokių akmenų.
-  citata_rodoma: "Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­\ndamas įsitikinau1 2."
+  citata_rodoma: |
+    Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
+    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
+    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
+    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
+    jų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­
+    damas įsitikinau1 2.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -384,7 +390,18 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
     daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
     tymo.
-  citata_rodoma: "Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos. Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę."
+  citata_rodoma: |
+    Matoma, kad jie apsigyveno toli­
+    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
+    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
+    kios varginančios ir ilgos žiemos. Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -569,7 +586,22 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     sosto įpėdiniu. Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
     pasiekti geruoju.
-  citata_rodoma: "Mat juodi debesys ap­\ntraukė dangų, pakilo nepaprasta audra, sugriaudėjo \nperkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­\nlydovus, keturis arklius iš šešių ir penktą ginklanešio \nžirgą.\nSugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek \npailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,\nnetekę mirusio chano Saladi- \n1419 m eta i \nno, suskilo atskiromis grupė-\nS k itų ta u to m s V y ta u - \nmis: vieni vieną, kiti kitą \ntas p a s k y r ė v a ld o v u s \nmirusio valdovo sūnų siūlė\nsosto įpėdiniu."
+  citata_rodoma: |
+    Mat juodi debesys ap­
+    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
+    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
+    lydovus, keturis arklius iš šešių ir penktą ginklanešio
+    žirgą.
+    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
+    pailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,
+    netekę mirusio chano Saladi-
+    1419 m eta i
+    no, suskilo atskiromis grupė-
+    S k itų ta u to m s V y ta u -
+    mis: vieni vieną, kiti kitą
+    tas p a s k y r ė v a ld o v u s
+    mirusio valdovo sūnų siūlė
+    sosto įpėdiniu.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -625,7 +657,18 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     visai neteisėtai Aleksandras valdąs Smolensko bei Ki­
     jevo žemes; jeigu norima, girdi, sukurti amžinąją tai­
     ką, būtina, kad Aleksandras užleistų ir šias žemes.
-  citata_rodoma: "Mat paliaubų susitarimas,\npasak Ivano, apimąs tik kaimiečius ir nusikaltėlius, bet\nneliečiąs nei laisvųjų žmonių, nei vyrų, išgarsėjusių\nkaro žygiais ar valstybiniais darbais.\nVargais negalais per pasiuntinius išsaugojus taiką\ndidelę metų dali, rudens pradžioje karalius sužinojo,\nkad Krymo skitai, pasirodę apie Pripetę, siautėja Lie­\ntuvos valdose. Bematant jis\nįsakė kunigaikščiams Simonui\nOlelkaičiui ir Jurgiui Dubro-\nvickiui sustabdyti priešą."
+  citata_rodoma: |
+    Mat paliaubų susitarimas,
+    pasak Ivano, apimąs tik kaimiečius ir nusikaltėlius, bet
+    neliečiąs nei laisvųjų žmonių, nei vyrų, išgarsėjusių
+    karo žygiais ar valstybiniais darbais.
+    Vargais negalais per pasiuntinius išsaugojus taiką
+    didelę metų dali, rudens pradžioje karalius sužinojo,
+    kad Krymo skitai, pasirodę apie Pripetę, siautėja Lie­
+    tuvos valdose. Bematant jis
+    įsakė kunigaikščiams Simonui
+    Olelkaičiui ir Jurgiui Dubro-
+    vickiui sustabdyti priešą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

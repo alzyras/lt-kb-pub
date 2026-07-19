@@ -61,7 +61,9 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     Kamienne) ež.
     Stalupėnai (dab. Nesterovas)
     Stanaičiai (dab.
-  citata_rodoma: "Stalupėnai (dab. Nesterovas)\nStanaičiai (dab."
+  citata_rodoma: |
+    Stalupėnai (dab. Nesterovas)
+    Stanaičiai (dab.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -111,7 +111,8 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
     talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
     tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
     susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
-  citata_rodoma: "tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),"
+  citata_rodoma: |
+    tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -132,7 +133,8 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
     tada egzistavo ne etninė, bet politinė lietuvių tauta, kurios pagrindinis
     požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių
     žmonių kilmė ir istorija pasakojama Lietuvos metraščiuose.
-  citata_rodoma: "požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių"
+  citata_rodoma: |
+    požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

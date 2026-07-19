@@ -74,7 +74,19 @@ Jankus ir lietuvių draugas vokietis S.
     (autorius giesmės „Lie-
     tuviai esame mes gi-
     mę").
-  citata_rodoma: "Juos rašė\nne tik Didžiosios Lietu-\nvos lietuviai inteligentai,\n— ypač Dr. J. Basa-\nnavičius, — bet ir\npatsai redaktorius Šer-\nnas, M. Jankus ir\nlietuvių draugas vokie-\ntis S. Zauerveinas\n(autorius giesmės „Lie-\ntuviai esame mes gi-\nmę\")."
+  citata_rodoma: |
+    Juos rašė
+    ne tik Didžiosios Lietu-
+    vos lietuviai inteligentai,
+    — ypač Dr. J. Basa-
+    navičius, — bet ir
+    patsai redaktorius Šer-
+    nas, M. Jankus ir
+    lietuvių draugas vokie-
+    tis S. Zauerveinas
+    (autorius giesmės „Lie-
+    tuviai esame mes gi-
+    mę").
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

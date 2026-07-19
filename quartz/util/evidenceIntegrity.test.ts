@@ -41,6 +41,14 @@ describe("evidence integrity", () => {
     assert.ok(issues.some((issue) => issue.code === "citation_text_mismatch"))
   })
 
+  test("uses the original quote before a shortened display excerpt", () => {
+    const withExcerpt = validMarkdown.replace(
+      "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio.",
+      "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio. Jogaila vadovavo kitai daliai.\n  citata_rodoma: |\n    kitai daliai.",
+    )
+    assert.deepEqual(collectEvidenceIntegrityIssues(withExcerpt), [])
+  })
+
   test("rejects duplicate global claim ids", () => {
     const duplicate = validMarkdown.replace(
       "\n## Citatos",

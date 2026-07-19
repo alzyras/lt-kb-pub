@@ -118,7 +118,8 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
     kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
     reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
     laičio poema „Metai“ (apie 1750).
-  citata_rodoma: "reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-"
+  citata_rodoma: |
+    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -137,7 +138,8 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
     Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
     poe­ma „Metai“ (su vertimu į vokiečių kalbą).
-  citata_rodoma: "Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta"
+  citata_rodoma: |
+    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

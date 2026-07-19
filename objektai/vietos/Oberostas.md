@@ -64,7 +64,8 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
     rį). Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
     tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
     „Dabartis“.
-  citata_rodoma: "tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis"
+  citata_rodoma: |
+    tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

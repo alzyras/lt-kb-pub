@@ -112,7 +112,11 @@ Nenurodyta
     miešti, pavadinimo, ir iš kunigaikščių Giedraičių pavardės. Iš do­
     kumentų Giedraičių giminės atstovai žinomi tik nuo XV a. pra­
     džios.
-  citata_rodoma: "Mindaugas buvo nužudytas 1263 m. rudcn|. Nužudymo vieta \nnežinoma. Pagal tradiciją, užfiksuotą XVI a., tai įvyko Agluonoje, \nj šiaurės rytus nuo Daugpilio. Iki XVII a. pradžios Agluonos vie­\nnuolyno buvusi marmurinė antkapinė lenta su atitinkamu užrašu."
+  citata_rodoma: |
+    Mindaugas buvo nužudytas 1263 m. rudcn|. Nužudymo vieta
+    nežinoma. Pagal tradiciją, užfiksuotą XVI a., tai įvyko Agluonoje,
+    j šiaurės rytus nuo Daugpilio. Iki XVII a. pradžios Agluonos vie­
+    nuolyno buvusi marmurinė antkapinė lenta su atitinkamu užrašu.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

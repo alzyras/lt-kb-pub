@@ -119,7 +119,15 @@ media_all_json: |-
     Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis
     ir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­
     kantas.
-  citata_rodoma: "»\nŠitaip išvertęs žinomą lotynišką humanistų posakį (Homines histo-\nriarum ignari semper sunt pueri) pradėjo mūsų žymusis tautinio\natgimimo vyras J. Basanavičius 1883 metais savo žinomą istorinę\nprakalbą pirmajame « Aušros » numeryje.\nTokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis\nir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­\nkantas."
+  citata_rodoma: |
+    »
+    Šitaip išvertęs žinomą lotynišką humanistų posakį (Homines histo-
+    riarum ignari semper sunt pueri) pradėjo mūsų žymusis tautinio
+    atgimimo vyras J. Basanavičius 1883 metais savo žinomą istorinę
+    prakalbą pirmajame « Aušros » numeryje.
+    Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis
+    ir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­
+    kantas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

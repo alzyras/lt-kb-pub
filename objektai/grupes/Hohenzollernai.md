@@ -63,7 +63,15 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
     valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
     minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
     vandenį.
-  citata_rodoma: "Kai\nvienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-\nlernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,\nbuvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos\npartneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos\nvalstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos\nminčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)\nvandenį."
+  citata_rodoma: |
+    Kai
+    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
+    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
+    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
+    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
+    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
+    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
+    vandenį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

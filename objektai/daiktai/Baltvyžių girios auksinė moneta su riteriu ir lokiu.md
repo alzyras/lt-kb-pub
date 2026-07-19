@@ -84,7 +84,14 @@ Nenurodyta
     piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
     redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
     tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
-  citata_rodoma: "Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­\ntai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­\nkalta tokiu pat stiliumi kaip gerais Romos cezarių laikais. Pieši­\nnys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią\npiešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“\nredaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir\ntikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*."
+  citata_rodoma: |
+    Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
+    tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­
+    kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais. Pieši­
+    nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
+    piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
+    redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
+    tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

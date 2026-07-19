@@ -105,7 +105,15 @@ Nenurodyta
     davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
     gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
     dą34 ir išvedė į žmones.
-  citata_rodoma: "O paskui Petras Goštautas atsivedė kitus vienuo- \nlius-pranciškonus, bet nebedrįso jau statyti jiems vie­\nnuolyno toje vietoje, kur pirmieji nužudyti, įkūrė jiems \nvienuolyną toje vietoje, kur smėlynėje prie Vingrių \nturėjo pasistatęs namą, kur dabar stovi dievo motinos \nvienuolynas \\  Ir nuo tų laikų Vilniuje stovi pirmas \nkrikščioniškas Romos tikėjimo dievo motinos vienuo­\nlių vienuolynas 5 ."
+  citata_rodoma: |
+    O paskui Petras Goštautas atsivedė kitus vienuo-
+    lius-pranciškonus, bet nebedrįso jau statyti jiems vie­
+    nuolyno toje vietoje, kur pirmieji nužudyti, įkūrė jiems
+    vienuolyną toje vietoje, kur smėlynėje prie Vingrių
+    turėjo pasistatęs namą, kur dabar stovi dievo motinos
+    vienuolynas \  Ir nuo tų laikų Vilniuje stovi pirmas
+    krikščioniškas Romos tikėjimo dievo motinos vienuo­
+    lių vienuolynas 5 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

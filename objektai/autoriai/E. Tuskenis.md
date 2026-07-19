@@ -48,7 +48,8 @@ Tuskenis.
   citata_originali: |
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
     politics.
-  citata_rodoma: "Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European"
+  citata_rodoma: |
+    Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -427,7 +427,10 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     Trečia — Pagudė193,
     kurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai. Penkta —
     30—31; be to, plg. lie.
-  citata_rodoma: "Ketvirta — Varmė194, kurioje [gyveno] varmiai. Penkta —\n\n30—31; be to, plg."
+  citata_rodoma: |
+    Ketvirta — Varmė194, kurioje [gyveno] varmiai. Penkta —
+
+    30—31; be to, plg.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -450,7 +453,18 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
     visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
     tarnauti gyvajam dievui Jėzui Kristui.
-  citata_rodoma: "Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą\n\n  1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,\nvarmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,\nkad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai\npaklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]\nribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas\nTirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui\nbei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su\nvisomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė\ntarnauti gyvajam dievui Jėzui Kristui."
+  citata_rodoma: |
+    Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
+
+      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
+    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
+    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
+    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
+    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
+    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
+    tarnauti gyvajam dievui Jėzui Kristui.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -472,7 +486,18 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85)."
+  citata_rodoma: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
+
+
+
+
+                   90 (85).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -491,7 +516,11 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
     476  1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
     (plg. D. III, 223).
-  citata_rodoma: "Kai šitai sužinojo notangai ir\nvarmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis\n\n  476 1277 m."
+  citata_rodoma: |
+    Kai šitai sužinojo notangai ir
+    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
+
+      476 1277 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -544,7 +573,19 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: "Ordino pajėgos\n1260 m. Klaipėdoje prieš Lietuvą buvo\nsutelktos Livonijos ir Prūsijos kryžiuočių\nordinų pajėgos, broliai riteriai ir\ni 4 jiems pavaldžių užgrobtų žemių\n“prievarta buriami kariai (prūsai -\npamedėnai, notangai, varmiai, sem-\nbai, o taip pat kuršiai, estai ir kt.), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį."
+  citata_rodoma: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -587,7 +628,19 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 
                    21.
-  citata_rodoma: "Apie Baigos pilies apgulą\n\n  Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs\nvisą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip\nkaro vadas kitų akivaizdoje pasižymėti kovoje, tačiau, priartėjęs prie pilies ir pervertas\nvieno brolio strėle [telo], krito žemėn ir baigė dienas, o šio įvykio nugąsdinti ir visi kiti\nišsižadėjo savo sumanymo.\n\n\n\n\n               21."
+  citata_rodoma: |
+    Apie Baigos pilies apgulą
+
+      Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs
+    visą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip
+    karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau, priartėjęs prie pilies ir pervertas
+    vieno brolio strėle [telo], krito žemėn ir baigė dienas, o šio įvykio nugąsdinti ir visi kiti
+    išsižadėjo savo sumanymo.
+
+
+
+
+                   21.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -604,7 +657,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
     kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
     137 (132).
-  citata_rodoma: "Išžudžius vadus ir\nkitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.\n\n\n\n\n137 (132)."
+  citata_rodoma: |
+    Išžudžius vadus ir
+    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
+
+
+
+
+    137 (132).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -628,7 +688,12 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
     307  Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
-  citata_rodoma: "Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską\npatvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir\nteisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl\ntos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų\n  307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m."
+  citata_rodoma: |
+    Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
+    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
+      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

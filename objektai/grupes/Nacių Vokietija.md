@@ -121,7 +121,11 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos
     vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
     tentingų Vokietijos įstaigų sutikimo“.
-  citata_rodoma: "Tačiau Vokietijos\nvyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos\nvyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-\ntentingų Vokietijos įstaigų sutikimo“."
+  citata_rodoma: |
+    Tačiau Vokietijos
+    vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos
+    vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
+    tentingų Vokietijos įstaigų sutikimo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -141,7 +145,10 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
-  citata_rodoma: "Liepos 17-osios nutarimu iš „buvusių laisvų\nLietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto\n(Ostlando) reicho komisariatas."
+  citata_rodoma: |
+    Liepos 17-osios nutarimu iš „buvusių laisvų
+    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
+    (Ostlando) reicho komisariatas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +170,15 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     jų nevykdymą buvo skiriamos didelės nuobaudos), į Lietuvą siunčiami
     vokiečių kolonistai (apie 30 tūkst. žmonių, daugiausia iki karo čia gy-
     venę vokiečiai).
-  citata_rodoma: "Kiekvienai jų vadovavo generalinis \nkomisaras, kurie su svarbiausiomis civilinės valdžios įstaigomis rūpi-\nnosi policine priežiūra, racionaliu darbo jėgos naudojimu aprūpinant \nVokietijos kariuomenę ir vokiečių karo ūkį. Vokiečių valdžia Lietuvoje \npajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gy-\nventojų poreikių. Lietuvos ūkininkai turėjo mokėti dideles prievoles (už \njų nevykdymą buvo skiriamos didelės nuobaudos), į Lietuvą siunčiami \nvokiečių kolonistai (apie 30 tūkst."
+  citata_rodoma: |
+    Kiekvienai jų vadovavo generalinis
+    komisaras, kurie su svarbiausiomis civilinės valdžios įstaigomis rūpi-
+    nosi policine priežiūra, racionaliu darbo jėgos naudojimu aprūpinant
+    Vokietijos kariuomenę ir vokiečių karo ūkį. Vokiečių valdžia Lietuvoje
+    pajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gy-
+    ventojų poreikių. Lietuvos ūkininkai turėjo mokėti dideles prievoles (už
+    jų nevykdymą buvo skiriamos didelės nuobaudos), į Lietuvą siunčiami
+    vokiečių kolonistai (apie 30 tūkst.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

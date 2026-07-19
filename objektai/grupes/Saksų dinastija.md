@@ -93,7 +93,9 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     nulems tolesnį ATR likimą.
     Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-
     vas Augustas Poniatovskis.
-  citata_rodoma: "Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-\nvas Augustas Poniatovskis."
+  citata_rodoma: |
+    Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-
+    vas Augustas Poniatovskis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

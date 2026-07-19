@@ -114,7 +114,18 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
     tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
     institucija, sutelkusi krašto visuomenę.
-  citata_rodoma: ", po caro Nikolajaus I mirties ir\nXII\n\n## Puslapis 13\n\nRusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos. \nCaras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­\nmo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­\nmeninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­\ntyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė \ninstitucija, sutelkusi krašto visuomenę."
+  citata_rodoma: |
+    , po caro Nikolajaus I mirties ir
+    XII
+
+    ## Puslapis 13
+
+    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
+    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
+    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
+    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
+    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
+    institucija, sutelkusi krašto visuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +147,11 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas
     buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug
     daugiau - nepriklausomybę arba bent autonomiją.
-  citata_rodoma: "dešimtmetyje. Aleksandro II atėjimas į sostą buvo liberalių re­\nformų pradžia: atgaivino visuomenės siekimus atgauti tai, kas \nbuvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug \ndaugiau - nepriklausomybę arba bent autonomiją."
+  citata_rodoma: |
+    dešimtmetyje. Aleksandro II atėjimas į sostą buvo liberalių re­
+    formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas
+    buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug
+    daugiau - nepriklausomybę arba bent autonomiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

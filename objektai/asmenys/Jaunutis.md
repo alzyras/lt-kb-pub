@@ -237,7 +237,10 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     bartas. Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs
     jokios srities, o gyveno prie tėvų Vilniuje. Tėvui mirus, jis
     automatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu.
-  citata_rodoma: "Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs\njokios srities, o gyveno prie tėvų Vilniuje. Tėvui mirus, jis\nautomatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu."
+  citata_rodoma: |
+    Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs
+    jokios srities, o gyveno prie tėvų Vilniuje. Tėvui mirus, jis
+    automatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -314,7 +317,20 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     žytynės, kurios parodė, jog trečiasis pašalintas iš val­
     džios ne dėl to, kad broliai patys būtų troškę valdyti,
     bet dėl to, kad nenorėjo jam nusileisti.
-  citata_rodoma: "Kadangi Algirdas ar iš-\nIš Ja u n u čio  a tim a m a\nsisukinėjo, ar tikrai sutartu\nv a ld ž ia\nlaiku negalėjo iš Vitebsko\natvykti, Kęstutis, netoli sos­\ntinės esančiuose Trakuose tvarkęs visus sąmokslo rei­\nkalus, lapkričio 22 dieną slapta į Vilnių įvedė kariuo­\nmenę ir paryčiu užėmė abi pilis. Pabudęs iš miego ir\nišgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus­\nnuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš\nmiško atgal sugrąžino. Vėlėliau atvyko ir Algirdas su\nkariuomene."
+  citata_rodoma: |
+    Kadangi Algirdas ar iš-
+    Iš Ja u n u čio  a tim a m a
+    sisukinėjo, ar tikrai sutartu
+    v a ld ž ia
+    laiku negalėjo iš Vitebsko
+    atvykti, Kęstutis, netoli sos­
+    tinės esančiuose Trakuose tvarkęs visus sąmokslo rei­
+    kalus, lapkričio 22 dieną slapta į Vilnių įvedė kariuo­
+    menę ir paryčiu užėmė abi pilis. Pabudęs iš miego ir
+    išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus­
+    nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš
+    miško atgal sugrąžino. Vėlėliau atvyko ir Algirdas su
+    kariuomene.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -336,7 +352,12 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     privilegijų dėl tų žemių, kurias jis man buvo davęs,
     dėl rusų žemės7, kuri buvo priklausiusi Liubartui",
     kad aš ją galėčiau pasilaikyti.
-  citata_rodoma: "Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­\nniaus pilies, o kunigaikštis Algirdas negalėjo atvykti. \nIr mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir \nišvijo iš tenai Jaunutį. Ir visi krašto žmonės prisidėjo \nprie jo, ir visos pilys pasidavė jam."
+  citata_rodoma: |
+    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
+    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
+    Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir
+    išvijo iš tenai Jaunutį. Ir visi krašto žmonės prisidėjo
+    prie jo, ir visos pilys pasidavė jam.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

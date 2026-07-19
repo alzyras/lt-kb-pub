@@ -203,7 +203,23 @@ Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teu
     mat nenorėjo jiedu nei neramios Vytauto širdies už­
     gauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus ka­
     rui, patys vienaip ar kitaip išvengtų bėdos.
-  citata_rodoma: "Negalėdamas dėl gy­\nnėjų pasipriešinimo įsiveržti į pilį, jis porą kartų puo­\nlė miestą, tačiau abu kartus buvo atremtas miestiečių \nbei lenkų, kurie sudarė miesto įgulą. Nieko nepešęs \nklasta, metė savo sumanymus ir, aplinkybių verčiamas, \nėmė rengtis atvirai kovai, būdamas tikras, jog ir Kazi­\nmieras netruks prieš jį griebtis ginklo, ir karalius Jo­\ngaila skubiai iš Lenkijos atsiųs pagalbos. Smarkiai su­\nstiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių \nkarių įgulas Gardine, Suraže, Breste, Kamenece ir ki­\ntose pilyse, pats su žmona, šeimyna, brangiaisiais in­\ndais bei savo šalininkais pa- \nP abėga į M a z o v iją \nsitraukė į Mazoviją pas ku­\nnigaikščius Jonušą ir Zemo- \nvitą, savo giminaičius."
+  citata_rodoma: |
+    Negalėdamas dėl gy­
+    nėjų pasipriešinimo įsiveržti į pilį, jis porą kartų puo­
+    lė miestą, tačiau abu kartus buvo atremtas miestiečių
+    bei lenkų, kurie sudarė miesto įgulą. Nieko nepešęs
+    klasta, metė savo sumanymus ir, aplinkybių verčiamas,
+    ėmė rengtis atvirai kovai, būdamas tikras, jog ir Kazi­
+    mieras netruks prieš jį griebtis ginklo, ir karalius Jo­
+    gaila skubiai iš Lenkijos atsiųs pagalbos. Smarkiai su­
+    stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių
+    karių įgulas Gardine, Suraže, Breste, Kamenece ir ki­
+    tose pilyse, pats su žmona, šeimyna, brangiaisiais in­
+    dais bei savo šalininkais pa-
+    P abėga į M a z o v iją
+    sitraukė į Mazoviją pas ku­
+    nigaikščius Jonušą ir Zemo-
+    vitą, savo giminaičius.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

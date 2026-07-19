@@ -64,7 +64,6 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177412
-    - c-177413
 
 <a id="claim-t-195051"></a>
 - t-002
@@ -102,7 +101,11 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     susidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­
     vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
     mones.
-  citata_rodoma: "Tėviškės atsivadavimo reikalas jį vertė\nsusidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­\nvo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­\nmones."
+  citata_rodoma: |
+    Tėviškės atsivadavimo reikalas jį vertė
+    susidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­
+    vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
+    mones.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -121,11 +124,13 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     Tikslas pateisino prie­
     mones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
     lauke, bet dažnai ir aplinkiniais keliais.
-  citata_rodoma: "Tikslas pateisino prie­\nmones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame\nlauke, bet dažnai ir aplinkiniais keliais."
+  citata_rodoma: |
+    Tikslas pateisino prie­
+    mones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
+    lauke, bet dažnai ir aplinkiniais keliais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195050

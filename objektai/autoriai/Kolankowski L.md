@@ -81,7 +81,9 @@ Dusburgietis teigia, kad kolankowski L.
     Nalepa J. Próba nowej etymologii nazwy Galindia czyli Golędź.— ABS, Wrocław—
     Warszawa—Kraków—Gdańsk, 1976, 9, s. 191—209.
     Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
-  citata_rodoma: "Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków\npolskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162."
+  citata_rodoma: |
+    Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków
+    polskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

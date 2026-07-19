@@ -92,11 +92,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kieminę auką pats namų gaspadorius atlaikęs tokiu pragumu: ūkiantis ar žaibuojant ir iš tolo
-        krušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,
-        tankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar
-        varstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano
-        javų to kipšo, melsiu tave šia palčia lašinių.“^
-  citata_rodoma: "Kieminę auką pats namų gaspadorius atlaikęs tokiu pragumu: ūkiantis ar žaibuojant ir iš tolo\nkrušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,\ntankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar\nvarstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano\njavų to kipšo, melsiu tave šia palčia lašinių.“^"
+    krušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,
+    tankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar
+    varstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano
+    javų to kipšo, melsiu tave šia palčia lašinių.“^
+  citata_rodoma: |
+    Kieminę auką pats namų gaspadorius atlaikęs tokiu pragumu: ūkiantis ar žaibuojant ir iš tolo
+    krušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,
+    tankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar
+    varstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano
+    javų to kipšo, melsiu tave šia palčia lašinių.“^
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -110,9 +115,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams
-        puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
-        dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
-  citata_rodoma: "Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams\npuotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam\ndėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs."
+    puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
+    dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
+  citata_rodoma: |
+    Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams
+    puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
+    dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

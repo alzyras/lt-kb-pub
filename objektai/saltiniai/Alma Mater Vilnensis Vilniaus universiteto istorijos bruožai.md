@@ -64,7 +64,8 @@ Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė mon
     Senosios Lietuvos istorija: 1009–1795. Vilnius, 2005; Alma Mater
     Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija. Vilnius,
     2009; Čiurlionis Vilniuje.
-  citata_rodoma: "Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija. Vilnius,"
+  citata_rodoma: |
+    Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija. Vilnius,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

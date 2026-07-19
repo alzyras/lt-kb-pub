@@ -79,7 +79,10 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
     Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš
     Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
     vardu Zilija504.
-  citata_rodoma: "Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281\nm.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.\n(Powierski J., Chronologia..., p. 5—31)."
+  citata_rodoma: |
+    Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
+    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
+    (Powierski J., Chronologia..., p. 5—31).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

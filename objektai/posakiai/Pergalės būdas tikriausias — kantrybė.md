@@ -141,7 +141,17 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
     neteisybės, nei kantrios teisybės. Šitaip prasidėjo naujas karas, šitaip pradėta vartoti
     naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios
     priešus.
-  citata_rodoma: "(1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,\nkuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:\n\n                 Pergalės būdas tikriausias — kantrybė, tas kovą laimi,\n               Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!\n\n  o kitoje vietoje:\n\n                Vien tik kantrybė, dorybių viršūnė, įstengia\n                     Ir beginklį įveikt, ir ginkluotą parblokšt!"
+  citata_rodoma: |
+    (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,
+    kuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:
+
+                     Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
+                   Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
+
+      o kitoje vietoje:
+
+                    Vien tik kantrybė, dorybių viršūnė, įstengia
+                         Ir beginklį įveikt, ir ginkluotą parblokšt!
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -167,7 +177,14 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
     Ir beginklį įveikt, ir ginkluotą parblokšt!
     Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
     jei sieloje tikrai išsaugome kantrybę“.
-  citata_rodoma: "o kitoje vietoje:\n\n                Vien tik kantrybė, dorybių viršūnė, įstengia\n                     Ir beginklį įveikt, ir ginkluotą parblokšt!\n\n  Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,\njei sieloje tikrai išsaugome kantrybę“."
+  citata_rodoma: |
+    o kitoje vietoje:
+
+                    Vien tik kantrybė, dorybių viršūnė, įstengia
+                         Ir beginklį įveikt, ir ginkluotą parblokšt!
+
+      Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
+    jei sieloje tikrai išsaugome kantrybę“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -186,7 +203,11 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
     neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
     atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
     kuri juos saugotų, būdama tarp jų ir prūsų.
-  citata_rodoma: "Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,\njei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas\nšventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios\nneteisybės, nei kantrios teisybės."
+  citata_rodoma: |
+    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
+    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
+    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
+    neteisybės, nei kantrios teisybės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

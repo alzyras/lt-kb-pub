@@ -104,7 +104,19 @@ Nenurodyta
     no, kuris būtų išdrįsęs prisiliesti geležimi prie šventojo me­
     džio. Todėl Jeronimas, pagriebęs kirvį, pirmas nukirto vieną iš
     aukščiausių medžių.
-  citata_rodoma: "Tokiu pačiu būdu buvo pastatyti ir\nstulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno\nkrantus*.\n„Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir\nvisoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­\nbinimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą. Mat\nJeronimas Prahiškis, kurį Lenkijos karalius Vladislovas Jogaila\nbuvo nusiuntęs į Lietuvą plėsti krikščionių tikėjimo, rašo” , jog\npirmieji lietuviai, pas kuriuos jis atvykęs, garbinę žalčius: 31\n31\nLietuvoje būta dviejų Jeronimų Prahiškių -  apie tai užsimena\nir Cackis (O prawach."
+  citata_rodoma: |
+    Tokiu pačiu būdu buvo pastatyti ir
+    stulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno
+    krantus*.
+    „Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir
+    visoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­
+    binimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą. Mat
+    Jeronimas Prahiškis, kurį Lenkijos karalius Vladislovas Jogaila
+    buvo nusiuntęs į Lietuvą plėsti krikščionių tikėjimo, rašo” , jog
+    pirmieji lietuviai, pas kuriuos jis atvykęs, garbinę žalčius: 31
+    31
+    Lietuvoje būta dviejų Jeronimų Prahiškių -  apie tai užsimena
+    ir Cackis (O prawach.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -154,7 +154,9 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
     vyskupas Ignotas Masalskis) įkūrimas 1773 m.
-  citata_rodoma: "Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus \nvyskupas Ignotas Masalskis) įkūrimas 1773 m."
+  citata_rodoma: |
+    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -178,7 +180,11 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
     Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
     ir Vilniaus vyskupas I. Masalskis.
-  citata_rodoma: "Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y. \nLietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas \nSimonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis \nir Vilniaus vyskupas I. Masalskis."
+  citata_rodoma: |
+    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
+    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
+    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+    ir Vilniaus vyskupas I. Masalskis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +206,11 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
     vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
     lio 28 dieną.
-  citata_rodoma: "Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos \nvyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-\nlio 28 dieną."
+  citata_rodoma: |
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -223,7 +233,16 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
     vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
     Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
-  citata_rodoma: "Lietuvoje Apšvietos ir klasicizmo žingsniai iš esmės buvo to \npaties istorinio proceso dalys. 1769 m. vienas iš klasicizmo architektūros\n\nL I E T U V O S  I S T O R I J A\n90\npradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740– \n1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus \nvyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus \nVerkiuose, vieną iš ryškiausių klasicizmo paminklų."
+  citata_rodoma: |
+    Lietuvoje Apšvietos ir klasicizmo žingsniai iš esmės buvo to
+    paties istorinio proceso dalys. 1769 m. vienas iš klasicizmo architektūros
+
+    L I E T U V O S  I S T O R I J A
+    90
+    pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740–
+    1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
+    vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
+    Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -243,7 +262,13 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
     timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
     švietimo sistemą.
-  citata_rodoma: "pradėjo eiti pir-\nmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“. \nReikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus \nvyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-\ntimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino \nšvietimo sistemą."
+  citata_rodoma: |
+    pradėjo eiti pir-
+    mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
+    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
+    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
+    švietimo sistemą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

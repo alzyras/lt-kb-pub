@@ -96,7 +96,12 @@ Nenurodyta
     Kabirai (Kabiiy)
     Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
     džių trejybė.
-  citata_rodoma: "Patelas (Patelo)\nSkraidančių oro dvasių dievas, savitas aukščiausiosios ka­\ntegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą\njis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.\nJo garbei kiekvienas namuose laikydavo numirėlio kaukolę."
+  citata_rodoma: |
+    Patelas (Patelo)
+    Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
+    tegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą
+    jis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
+    Jo garbei kiekvienas namuose laikydavo numirėlio kaukolę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

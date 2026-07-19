@@ -124,7 +124,13 @@ Nenurodyta
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: "Be to, buvo renkamos se-\nnienos ir seni istoriniai doku-\nmentai, o D. Poška savo\nBaubly įtaisė net senienų mu-\nziejų. Jis taip pat bandė rašyti\nir Lietuvos istoriją."
+  citata_rodoma: |
+    Be to, buvo renkamos se-
+    nienos ir seni istoriniai doku-
+    mentai, o D. Poška savo
+    Baubly įtaisė net senienų mu-
+    ziejų. Jis taip pat bandė rašyti
+    ir Lietuvos istoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +153,11 @@ Nenurodyta
     nei socialinių nei tautinių — idėjų, nes lietuviškasis elementas dar
     nebuvo tiek susipratęs, kad galėtų veržtis iš nusistojusios
     santvarkos formų.
-  citata_rodoma: "1812 m. Poška iš tuščiavidurio ąžuolo\npadarė 3 trobeles, kuriose buvo įtaisyti\nmuziejėliai; Bijotuose, paliai Skaud-\nvilę, jos dar tebestovi."
+  citata_rodoma: |
+    1812 m. Poška iš tuščiavidurio ąžuolo
+    padarė 3 trobeles, kuriose buvo įtaisyti
+    muziejėliai; Bijotuose, paliai Skaud-
+    vilę, jos dar tebestovi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

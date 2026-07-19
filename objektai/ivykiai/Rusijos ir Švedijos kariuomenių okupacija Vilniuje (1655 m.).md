@@ -93,7 +93,12 @@ Nenurodyta
     rinčiu aukščiausius mokslo laipsnius ir didelę pedago­
     ginę patirtį, verčia daryti prielaidą, kad šis iš Vijūkų
     kilęs bajorėlis galėjo būti jai kuo nors nepageidautinas.
-  citata_rodoma: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių\nokupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.\nA. Kojelavičius dalyvavo ordino narių susirinkime\nVaršuvoje, kur išrenkamas Lietuvos provincijos įgalio­\ntiniu. Jos reikalais važinėjo į Romą!"
+  citata_rodoma: |
+    1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
+    okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
+    A. Kojelavičius dalyvavo ordino narių susirinkime
+    Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
+    tiniu. Jos reikalais važinėjo į Romą!
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

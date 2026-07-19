@@ -105,7 +105,8 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
     dėl to meto sunkumų pavaizduota gana grubiai. Kojos su nagais
     galėtų būti ir erelio, nes tas paukštis buvo mistiškai laikomas sau­
     lės garbintoju ir iš visų žemės padarų buvo arčiausiai saulės.
-  citata_rodoma: "T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143)."
+  citata_rodoma: |
+    T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

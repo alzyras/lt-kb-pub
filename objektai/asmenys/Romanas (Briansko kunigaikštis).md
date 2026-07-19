@@ -127,7 +127,13 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     metu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje
     prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
     Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
-  citata_rodoma: "Taigi Lietuvos antpuolyje su toto-\nriais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo\nsūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo\nmetu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje\nprieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,\nVladimiro, taip pat Pinsko, Turovo - kunigaikščiai."
+  citata_rodoma: |
+    Taigi Lietuvos antpuolyje su toto-
+    riais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo
+    sūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo
+    metu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje
+    prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
+    Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -158,7 +164,19 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     rų, galinčių valdyti ginklą, be to, gynėjų gretas pa­
     pildė ten pabėgę kariai, kuriems pasisekė išvengti žū­
     ties.
-  citata_rodoma: "Kova\nįsiplieskė iš naujo, kai atžygiavo rusų pagalbiniai da­\nliniai, vedami Perejeslavlio kunigaikščio Olego ir Luc­\nko kunigaikščio Levo, tačiau šie kunigaikščiai, per\nneatsargumą įsiveržę tarp susigrūdusių karių, pragaišo\nmaišatyje, leisdami tuo lietuviams neabejoti pergale.\nNetekusios vadų pagalbinės jėgos ėmė kovoti atvan­\ngiau ir padrikai, vidurinės eilės, anksčiau išstumtos iš\nvietos, pradėjo trauktis, galop kunigaikščiai Stanis­\nlovas ir Romanas paskatino savo pavyzdžiu kitus ka­\nrius sprukti iš kovos lauko. Bėgančiųjų žudynes su­\nstabdė naktis."
+  citata_rodoma: |
+    Kova
+    įsiplieskė iš naujo, kai atžygiavo rusų pagalbiniai da­
+    liniai, vedami Perejeslavlio kunigaikščio Olego ir Luc­
+    ko kunigaikščio Levo, tačiau šie kunigaikščiai, per
+    neatsargumą įsiveržę tarp susigrūdusių karių, pragaišo
+    maišatyje, leisdami tuo lietuviams neabejoti pergale.
+    Netekusios vadų pagalbinės jėgos ėmė kovoti atvan­
+    giau ir padrikai, vidurinės eilės, anksčiau išstumtos iš
+    vietos, pradėjo trauktis, galop kunigaikščiai Stanis­
+    lovas ir Romanas paskatino savo pavyzdžiu kitus ka­
+    rius sprukti iš kovos lauko. Bėgančiųjų žudynes su­
+    stabdė naktis.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -179,7 +197,12 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
     prie Tykiosios Sosnos 3 užpuolė Vytauto valdinius se-
     verskiečius, atėmė iš jų du bebrus ir tris statines me-
-  citata_rodoma: "Bet kunigaikštis Jurijus susisiekė su smo- \nlenskiečiais, tie priėmė jį ir atidarė jam miesto vartus. \nO čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto \npaskirtas. Jie jį patį užmušė, o kunigaikštienę ir jo vai­\nkus paleido."
+  citata_rodoma: |
+    Bet kunigaikštis Jurijus susisiekė su smo-
+    lenskiečiais, tie priėmė jį ir atidarė jam miesto vartus.
+    O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto
+    paskirtas. Jie jį patį užmušė, o kunigaikštienę ir jo vai­
+    kus paleido.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

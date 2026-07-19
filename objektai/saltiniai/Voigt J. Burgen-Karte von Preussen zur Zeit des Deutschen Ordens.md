@@ -64,7 +64,9 @@ Dusburgietis teigia, kad voigt J.
     с. 3—8.
     Охманьский Е. Иноземные поселения в Литве XIII—XIV вв. в свете этнонимических
     местных названий.
-  citata_rodoma: "Voigt J. Burgen-Karte von Preussen zur Zeit des Deutschen Ordens.—oVigt J. Geschichte\nPreussens, Bd. 2."
+  citata_rodoma: |
+    Voigt J. Burgen-Karte von Preussen zur Zeit des Deutschen Ordens.—oVigt J. Geschichte
+    Preussens, Bd. 2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

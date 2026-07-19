@@ -134,7 +134,12 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     religinių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros
     gyvūnas), galbūt ir Auksinės upės vardas.
     Taigi su pagonišku kultu sietųsi buv.
-  citata_rodoma: "Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės\ndeš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,\nPriegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas\nreliginių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros\ngyvūnas), galbūt ir Auksinės upės vardas."
+  citata_rodoma: |
+    Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės
+    deš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,
+    Priegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas
+    religinių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros
+    gyvūnas), galbūt ir Auksinės upės vardas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -253,7 +253,13 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     1940 VI 15
     realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
     ja ir aneksuoja Lietuvos Respubliką.
-  citata_rodoma: "1918 II 16\t\nVokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-\nvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą. \n1940 VI 15\t\nrealizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-\nja ir aneksuoja Lietuvos Respubliką."
+  citata_rodoma: |
+    1918 II 16
+    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
+    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
+    1940 VI 15
+    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
+    ja ir aneksuoja Lietuvos Respubliką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

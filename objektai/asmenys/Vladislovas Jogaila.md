@@ -815,7 +815,15 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
     Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
     jungta prie Lenkijos.
-  citata_rodoma: "Didysis kunigaikštis ne­\nteko savo žirgų ir brangenybių, o žala, kurią per tai patyrė, \nkaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­\nčių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią \nLietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą \naktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir \nRusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­\njungta prie Lenkijos."
+  citata_rodoma: |
+    Didysis kunigaikštis ne­
+    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
+    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
+    čių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią
+    Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą
+    aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
+    Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
+    jungta prie Lenkijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

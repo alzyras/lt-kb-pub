@@ -84,7 +84,12 @@ Nenurodyta
     delegacija susilaukė didelio palankumo, paaiškina, be kitko, bendros
     politinės bei religinės priežastys, dėl kurių nuo Lijono koncilijo rytų
     Europa buvo Romos kurijoje labiau susidomėta.
-  citata_rodoma: "Jį liudija šeši popiežiaus raštai Mindaugui, ar jo reikalu siųsti kitiems,\nišėję iš kurijos 1251 m. vidurvasaryje. Kad Nemuno žemių valdovo\ndelegacija susilaukė didelio palankumo, paaiškina, be kitko, bendros\npolitinės bei religinės priežastys, dėl kurių nuo Lijono koncilijo rytų\nEuropa buvo Romos kurijoje labiau susidomėta."
+  citata_rodoma: |
+    Jį liudija šeši popiežiaus raštai Mindaugui, ar jo reikalu siųsti kitiems,
+    išėję iš kurijos 1251 m. vidurvasaryje. Kad Nemuno žemių valdovo
+    delegacija susilaukė didelio palankumo, paaiškina, be kitko, bendros
+    politinės bei religinės priežastys, dėl kurių nuo Lijono koncilijo rytų
+    Europa buvo Romos kurijoje labiau susidomėta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

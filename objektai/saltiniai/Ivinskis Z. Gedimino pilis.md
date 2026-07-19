@@ -106,7 +106,11 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
     kalėjusio drauge su juo, pažadėjo dievui už išvadavimą gerą svarą vaško; bematant
     sutrupėjo grandinės, kuriomis buvo surakintas, prasidarė kalėjimo durys, ir jis atgavo
     laisvę.
-  citata_rodoma: "Patikimesni atrodo bandymai ją\nlokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante\n(Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino\npilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340)."
+  citata_rodoma: |
+    Patikimesni atrodo bandymai ją
+    lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
+    (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino
+    pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -297,7 +297,11 @@ Nenurodyta
     pradžioje tevartojo.
     Kautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,
     trikampiais, keturkampiais.
-  citata_rodoma: "Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik\npradžioje tevartojo.\nKautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,\ntrikampiais, keturkampiais."
+  citata_rodoma: |
+    Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
+    pradžioje tevartojo.
+    Kautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,
+    trikampiais, keturkampiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -338,7 +342,11 @@ Nenurodyta
     viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
     žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
     gininkų kariuomenėj nesukėlė.
-  citata_rodoma: "Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­\nviai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­\nžiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­\ngininkų kariuomenėj nesukėlė."
+  citata_rodoma: |
+    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
+    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
+    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
+    gininkų kariuomenėj nesukėlė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -356,7 +364,9 @@ Nenurodyta
     švino. Patrankos padarydavo daug triukšmo, bet maža nau­
     dos. Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
     pradžioje tevartojo.
-  citata_rodoma: "Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik\npradžioje tevartojo."
+  citata_rodoma: |
+    Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
+    pradžioje tevartojo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

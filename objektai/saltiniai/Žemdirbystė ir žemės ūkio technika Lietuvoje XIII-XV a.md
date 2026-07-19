@@ -71,7 +71,10 @@ media_all_json: |-
     bajorais, XVIII a._** **(AkMD, t. 7, 1959, 91-103 p.) ;** **_Patriarchaliniai vergai
     Lietuvoje_** **(AkMD, t. 8, 1960, 75-91 p.) ; parašė knygą** **_Renesansas ir huma­
     nizmas Lietuvoje_** **(1965)** **_; Istorija ir poezija_** **(1969) ; apie baudžiavą (JurB) ;**
-  citata_rodoma: ") ;** **_Žemdirbystė ir žemės ūkio tech­\nnika Lietuvoje XIII-XV a._** **(rus. k. su liet. santr., AkMD, t. 1, 1955, 57-\n73 p.) ;** **_Valstiečiai_** **«** **_veldamai_** **»** **_Lietuvoje XV-XVI a."
+  citata_rodoma: |
+    ) ;** **_Žemdirbystė ir žemės ūkio tech­
+    nika Lietuvoje XIII-XV a._** **(rus. k. su liet. santr., AkMD, t. 1, 1955, 57-
+    73 p.) ;** **_Valstiečiai_** **«** **_veldamai_** **»** **_Lietuvoje XV-XVI a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

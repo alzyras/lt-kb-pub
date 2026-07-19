@@ -73,7 +73,12 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
     ževskis, pasiųstas į Lietuvą 1389 m. ir savo pareigas ėjęs
     vienus metus. Kokis buvo to seniūno vaidmuo, nėra visiškai
     aišku, bet tikra, kad visų pirma buvo karinis.
-  citata_rodoma: "Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­\nniūnas“, kaip jį vadina Dlugošas; juo buvo Mikalojus Masko­\nževskis, pasiųstas į Lietuvą 1389 m. ir savo pareigas ėjęs\nvienus metus. Kokis buvo to seniūno vaidmuo, nėra visiškai\naišku, bet tikra, kad visų pirma buvo karinis."
+  citata_rodoma: |
+    Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­
+    niūnas“, kaip jį vadina Dlugošas; juo buvo Mikalojus Masko­
+    ževskis, pasiųstas į Lietuvą 1389 m. ir savo pareigas ėjęs
+    vienus metus. Kokis buvo to seniūno vaidmuo, nėra visiškai
+    aišku, bet tikra, kad visų pirma buvo karinis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

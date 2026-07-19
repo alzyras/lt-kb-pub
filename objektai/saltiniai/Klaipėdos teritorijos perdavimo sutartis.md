@@ -66,7 +66,8 @@ Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investic
     pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
     (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
     dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
-  citata_rodoma: "pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai"
+  citata_rodoma: |
+    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

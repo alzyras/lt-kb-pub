@@ -57,7 +57,10 @@ media_all_json: |-
     (^3) **CDPr, III, 180 (nr. 134).**
     (^4) **SRP, II, 596 p.**
     (^5) **LUB, III, 395 : E. Raczyński : RaCD, 58 p.**
-  citata_rodoma: "**\n(^3) **CDPr, III, 180 (nr. 134).**\n(^4) **SRP, II, 596 p."
+  citata_rodoma: |
+    **
+    (^3) **CDPr, III, 180 (nr. 134).**
+    (^4) **SRP, II, 596 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

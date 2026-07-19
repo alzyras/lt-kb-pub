@@ -78,7 +78,14 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
     Jogailos žygis sukėlė Lietuvoje nepasitenkinimą, nes didžiojoje
     kunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių
     žemėje nebūdavo »5 6.
-  citata_rodoma: "O Vilnių\nJogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo\nKlemensas Moskorzewskis. Lietuvos metraštis («Liatopisiec veli-\nkich kniaziej litovskich») Vytauto lupomis paaiškina, jog tokis\nJogailos žygis sukėlė Lietuvoje nepasitenkinimą, nes didžiojoje\nkunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių\nžemėje nebūdavo »5 6."
+  citata_rodoma: |
+    O Vilnių
+    Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
+    Klemensas Moskorzewskis. Lietuvos metraštis («Liatopisiec veli-
+    kich kniaziej litovskich») Vytauto lupomis paaiškina, jog tokis
+    Jogailos žygis sukėlė Lietuvoje nepasitenkinimą, nes didžiojoje
+    kunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių
+    žemėje nebūdavo »5 6.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -96,7 +103,11 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
     Moskorzewskis. Žemumos muro pilį, prie kurios sienų krito jaunas
     Vytauto brolis Tautvilas, buvo apginta kunigaikščio Feodoro Os­
     trogiškio.
-  citata_rodoma: "Kalno (Gedimino) pilį atlaikė Jogailos vietininkas K.\nMoskorzewskis. Žemumos muro pilį, prie kurios sienų krito jaunas\nVytauto brolis Tautvilas, buvo apginta kunigaikščio Feodoro Os­\ntrogiškio."
+  citata_rodoma: |
+    Kalno (Gedimino) pilį atlaikė Jogailos vietininkas K.
+    Moskorzewskis. Žemumos muro pilį, prie kurios sienų krito jaunas
+    Vytauto brolis Tautvilas, buvo apginta kunigaikščio Feodoro Os­
+    trogiškio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

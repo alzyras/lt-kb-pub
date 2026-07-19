@@ -180,7 +180,16 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
     dabar vadinamas Seimo upe. Šios upės, susiliejančios
     netoli Dnepro žiočių, iš tikrųjų išteka iš skirtingų kraštų;
     tai sako ir Herodotas.
-  citata_rodoma: "34\nSkitijos geografija. Skitų įpročius, papročius ir religi­\nją iš dalies aprašė Herodotas, bet tai nelabai reikalinga\nmūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors\nHerodoto\nistorijoje\nji\nnepakankamai\nišdėstyta."
+  citata_rodoma: |
+    34
+    Skitijos geografija. Skitų įpročius, papročius ir religi­
+    ją iš dalies aprašė Herodotas, bet tai nelabai reikalinga
+    mūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors
+    Herodoto
+    istorijoje
+    ji
+    nepakankamai
+    išdėstyta.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -246,7 +255,16 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
     jie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­
     kime ten, kur jo vandenys jungiasi su Pontu, ir panagri­
     nėkime tą truputį istorijos palikimo.
-  citata_rodoma: "Kai \nskitai staiga dingo ir jų niekur nebuvo matyti, Darijus \npaliko šiuos pusiau pastatytus įtvirtinimus ir pasuko į \nvakarus, nes manė, kad ten buvo visi skitai. Iš čia persų \nkaralius pradėjo traukti atgal.\nLig šiol vadovavomės Herodoto pasakojimu, kuriame \njie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­\nkime ten, kur jo vandenys jungiasi su Pontu, ir panagri­\nnėkime tą truputį istorijos palikimo."
+  citata_rodoma: |
+    Kai
+    skitai staiga dingo ir jų niekur nebuvo matyti, Darijus
+    paliko šiuos pusiau pastatytus įtvirtinimus ir pasuko į
+    vakarus, nes manė, kad ten buvo visi skitai. Iš čia persų
+    karalius pradėjo traukti atgal.
+    Lig šiol vadovavomės Herodoto pasakojimu, kuriame
+    jie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž­
+    kime ten, kur jo vandenys jungiasi su Pontu, ir panagri­
+    nėkime tą truputį istorijos palikimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

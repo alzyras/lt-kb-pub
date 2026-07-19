@@ -87,7 +87,11 @@ Nenurodyta
     mūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo
     būti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir
     restauravimas mūrinių Vilniaus pilių.
-  citata_rodoma: "Berods, Vytauto laikais buvo dar\nmūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo\nbūti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir\nrestauravimas mūrinių Vilniaus pilių."
+  citata_rodoma: |
+    Berods, Vytauto laikais buvo dar
+    mūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo
+    būti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir
+    restauravimas mūrinių Vilniaus pilių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -169,7 +169,12 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
     kia manyti, kad čia daug padėjo tie geri santykiai Vytauto su
     Jogaila, kurie, „nežiūrint visokiausių intrigų“, jau 1423 m. pa­
     siekė kuo didžiausio solidarumo prieš husitus^1 ).
-  citata_rodoma: "Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų\npasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą\nsavo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­\nlinkybėms, Vytautas nuo to sumanymo atsisakė.\nJei tuo laiku, t."
+  citata_rodoma: |
+    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
+    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
+    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
+    linkybėms, Vytautas nuo to sumanymo atsisakė.
+    Jei tuo laiku, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

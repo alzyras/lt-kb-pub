@@ -624,7 +624,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     (J. Kosako paveikslas).
     Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija
     atvaduota.
-  citata_rodoma: "Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija\natvaduota."
+  citata_rodoma: |
+    Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija
+    atvaduota.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -663,7 +665,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
-  citata_rodoma: "Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52."
+  citata_rodoma: |
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -682,7 +686,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     įgulą. Toji Įgula išbuvo Rygoje net iki 1313 m., kada arkivysku-
     pas ir miestiečiai buvo priversti padaryti taiką su ordinu ir nu-
     traukti sąjungą su Vyteniu.
-  citata_rodoma: "pas ir miestiečiai buvo priversti padaryti taiką su ordinu ir nu-\ntraukti sąjungą su Vyteniu."
+  citata_rodoma: |
+    pas ir miestiečiai buvo priversti padaryti taiką su ordinu ir nu-
+    traukti sąjungą su Vyteniu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -712,7 +718,19 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
     sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
     kvos.
-  citata_rodoma: "LPS staigus populiarumas ir masiškumas \n(Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar \nGyvasis Baltijos kelias – rankomis susikibusių žmonių  \ngrandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d.  \nA. Petrovo nuotrauka\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n239\niniciatyvinė grupė), jo pasiekti rezultatai pirmiausia priverčiant LSSR AT \npriimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų \nsąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-\nkvos."
+  citata_rodoma: |
+    LPS staigus populiarumas ir masiškumas
+    (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar
+    Gyvasis Baltijos kelias – rankomis susikibusių žmonių
+    grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d.
+    A. Petrovo nuotrauka
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    239
+    iniciatyvinė grupė), jo pasiekti rezultatai pirmiausia priverčiant LSSR AT
+    priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
+    sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
+    kvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -771,7 +789,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     vesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.
     Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
     klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
-  citata_rodoma: "Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-\nklausomos iki 1582 m., kada jį nukariavo Steponas Batoras."
+  citata_rodoma: |
+    Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
+    klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -796,7 +816,13 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
     vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
     tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
     buvo apsupta pirklių gyvenamų ir lankomų žemių.
-  citata_rodoma: "Geografinė jo didingos valstybės būklė prekybai buvo gana\npatogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­\nriomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,\nDniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie\nanų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­\nvas, Ryga, Dancigas, Krokuva ir k."
+  citata_rodoma: |
+    Geografinė jo didingos valstybės būklė prekybai buvo gana
+    patogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­
+    riomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,
+    Dniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie
+    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
+    vas, Ryga, Dancigas, Krokuva ir k.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

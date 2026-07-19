@@ -154,7 +154,14 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
     ir pirmas magistras Livonijos žemėje, kur sėkmingai vadovavo šešerius metus182; abidvi
     žemes gražiai sutvarkęs ir labai sėkmingai sukariavęs ne vieną karą, jis, kaip žemiau
     pamatysime, sugrįžo, metų ir darbų palaužtas, į Vokietiją, kur mirė ir kur jį palaidojo.
-  citata_rodoma: "Apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje\n\n   Brolis Hermanas, vadinamas  Balkų, pirmas  šventosios  Marijos Teutonų namų\nJeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų. Jis buvo\nir pirmas magistras Livonijos žemėje, kur sėkmingai vadovavo šešerius metus182; abidvi\nžemes gražiai sutvarkęs ir labai sėkmingai sukariavęs ne vieną karą, jis, kaip žemiau\npamatysime, sugrįžo, metų ir darbų palaužtas, į Vokietiją, kur mirė ir kur jį palaidojo."
+  citata_rodoma: |
+    Apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje
+
+       Brolis Hermanas, vadinamas  Balkų, pirmas  šventosios  Marijos Teutonų namų
+    Jeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų. Jis buvo
+    ir pirmas magistras Livonijos žemėje, kur sėkmingai vadovavo šešerius metus182; abidvi
+    žemes gražiai sutvarkęs ir labai sėkmingai sukariavęs ne vieną karą, jis, kaip žemiau
+    pamatysime, sugrįžo, metų ir darbų palaužtas, į Vokietiją, kur mirė ir kur jį palaidojo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -177,7 +184,16 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
     žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus
     vadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237).
     29.
-  citata_rodoma: "Po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku,\nPrūsijos žemės magistrą, su keturiasdešimt brolių  ir daugybe ginklanešių  į Livonijos\nžemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus\nvadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237).\n\n\n\n\n                29."
+  citata_rodoma: |
+    Po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku,
+    Prūsijos žemės magistrą, su keturiasdešimt brolių  ir daugybe ginklanešių  į Livonijos
+    žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus
+    vadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237).
+
+
+
+
+                    29.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -200,7 +216,18 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
     pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
     6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
     į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“.
-  citata_rodoma: "Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­\n                                    ta Nesavos pilis\n\n  Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą\nvyrą  ir pamaldų  brolį Hermaną  iš  Zalcos, Teutonų namų ordino  didįjį magistrą,\npranešdamas, kaip  čia tvarkomas jam  patikėtas  reikalas,  nuolankiai prašydamas\nir maldaudamas, kad jam atsiųstų daugiau brolių bei ginklanešių (1230). Magistras,\npatenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro\npareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,\n6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,\nį žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“."
+  citata_rodoma: |
+    Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
+                                        ta Nesavos pilis
+
+      Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
+    vyrą  ir pamaldų  brolį Hermaną  iš  Zalcos, Teutonų namų ordino  didįjį magistrą,
+    pranešdamas, kaip  čia tvarkomas jam  patikėtas  reikalas,  nuolankiai prašydamas
+    ir maldaudamas, kad jam atsiųstų daugiau brolių bei ginklanešių (1230). Magistras,
+    patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
+    pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
+    6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
+    į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -226,7 +253,12 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
     pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš
     Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
     ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų.
-  citata_rodoma: "Magistras,\npatenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro\npareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,\n6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,\nį žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“."
+  citata_rodoma: |
+    Magistras,
+    patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
+    pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
+    6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
+    į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

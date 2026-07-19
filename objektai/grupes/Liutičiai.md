@@ -90,7 +90,17 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
     papročiuose išsaugojo nemažai kilmės pėdsakų. Kraštas,
     kur jie gyveno, vadinosi Verulija, Verlija, t. y. iškraipytas
     Herulijos pavadinimas. Tai įrodo Ksaveras Bogušas3.
-  citata_rodoma: "Be to, pačioje Lietuvoje yra panašiai vadinamų\nvalsčių ir netgi ne vienoje vietoje; lietuvių geografijoje\nžinomi Vilkija, Vilkai, Vilkiškės. Vadinasi, kartos, vadi­\nnusios savo gyvenamąją vietovę Vilkija, galėjo arba iš­\nkeliauti iš Lietuvos, arba atvykti nuo Oderio į Lietuvą\nir čia įamžinti savo kolonijų pavadinimus, kai jas po\nminėtų metų išstūmė slavai liutičiai, nuo kurių ir šian­\ndien šis kraštas vadinamas Lužica2. Tačiau likę Meklen­\nburge herulai, nors ir engiami vokiečių, savo kalboje ir\npapročiuose išsaugojo nemažai kilmės pėdsakų."
+  citata_rodoma: |
+    Be to, pačioje Lietuvoje yra panašiai vadinamų
+    valsčių ir netgi ne vienoje vietoje; lietuvių geografijoje
+    žinomi Vilkija, Vilkai, Vilkiškės. Vadinasi, kartos, vadi­
+    nusios savo gyvenamąją vietovę Vilkija, galėjo arba iš­
+    keliauti iš Lietuvos, arba atvykti nuo Oderio į Lietuvą
+    ir čia įamžinti savo kolonijų pavadinimus, kai jas po
+    minėtų metų išstūmė slavai liutičiai, nuo kurių ir šian­
+    dien šis kraštas vadinamas Lužica2. Tačiau likę Meklen­
+    burge herulai, nors ir engiami vokiečių, savo kalboje ir
+    papročiuose išsaugojo nemažai kilmės pėdsakų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

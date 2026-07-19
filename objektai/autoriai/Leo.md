@@ -86,7 +86,13 @@ Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartin
     kituose šio veikalo skyriuose; apie borusus visoje Lietuvos
     žemėje nėra nė pėdsako, be to, verta dėmesio prielaida
     1 De Boruss.
-  citata_rodoma: "Pirmiausia\ntaip manė Erazmas Stela1**. Jo išvadą pripažino daugelis,\nypač Leo2***, kuris net nurodo, kad borusai 523 ar 530\nmetais persikėlė iš šiaurės į dabartinę Prūsiją. Bet KHu-\nveris karštai tam prieštaravo ir sakė, jog pamišęs buvo\ntas, kuris sugalvojo tokias prūsų kilmės išvadas."
+  citata_rodoma: |
+    Pirmiausia
+    taip manė Erazmas Stela1**. Jo išvadą pripažino daugelis,
+    ypač Leo2***, kuris net nurodo, kad borusai 523 ar 530
+    metais persikėlė iš šiaurės į dabartinę Prūsiją. Bet KHu-
+    veris karštai tam prieštaravo ir sakė, jog pamišęs buvo
+    tas, kuris sugalvojo tokias prūsų kilmės išvadas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

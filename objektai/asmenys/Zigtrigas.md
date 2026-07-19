@@ -90,7 +90,17 @@ Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje
     vęs lietuviškos kilmės, nes turi šaknį Gan, iš kurios kilęs žodis Ga­
     nau, taip pat prieveiksmis Gana. Duwanis, Diwonis buvo dažni lietu­
     viški asmenvardžiai.
-  citata_rodoma: "Vadinasi, šis istorinis įvykis tu­\nrėjęs būti I krikščioniškosios eros amžiaus pirmojoje pu­\nsėje.\n231\nNorvegų valdovas Halfadanas tame pačiame amžiuje\nkariavo esančiame į rytus užjūrio krašte su rusais vadi­\nnama tauta ir dvikovoje nukovė garsų tenykštį karalių,\nvardu Zigtrigas. Po šio atsitikimo jis taip pagarsėjo ka­\nringumu, kad kitas rusų karalius Eimuntas išleido už jo\n1 Wespats lietuvių kalba reiškia poną."
+  citata_rodoma: |
+    Vadinasi, šis istorinis įvykis tu­
+    rėjęs būti I krikščioniškosios eros amžiaus pirmojoje pu­
+    sėje.
+    231
+    Norvegų valdovas Halfadanas tame pačiame amžiuje
+    kariavo esančiame į rytus užjūrio krašte su rusais vadi­
+    nama tauta ir dvikovoje nukovė garsų tenykštį karalių,
+    vardu Zigtrigas. Po šio atsitikimo jis taip pagarsėjo ka­
+    ringumu, kad kitas rusų karalius Eimuntas išleido už jo
+    1 Wespats lietuvių kalba reiškia poną.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

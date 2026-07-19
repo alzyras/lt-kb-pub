@@ -148,7 +148,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
     kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
     tymą ir nepriklausomojo gyvenimo laikotarpį.
-  citata_rodoma: "|"
+  citata_rodoma: |
+    |
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -171,7 +172,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
     P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
     cijai.
-  citata_rodoma: "|"
+  citata_rodoma: |
+    |
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -190,7 +192,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
     J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
     pirmininku Taryba išsirinko A. Smetoną.
-  citata_rodoma: "|"
+  citata_rodoma: |
+    |
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

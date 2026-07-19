@@ -85,7 +85,13 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
     Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
     ka, Upinė - Rzeczna. Istorija teigia, kad tai dievybei kaip auka
     buvo atnašaujami balti paršeliai.
-  citata_rodoma: "Iszskalbk man amzuliali.\nKitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­\nliose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai\nir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti\nreliginės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie\njuos dar teks pakalbėti)."
+  citata_rodoma: |
+    Iszskalbk man amzuliali.
+    Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
+    liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
+    ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
+    religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
+    juos dar teks pakalbėti).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

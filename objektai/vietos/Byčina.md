@@ -60,7 +60,11 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
-  citata_rodoma: "Maksimilijonas\ndar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties\nByčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo\npriverstas atsisakyti nuo sosto."
+  citata_rodoma: |
+    Maksimilijonas
+    dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
+    Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
+    priverstas atsisakyti nuo sosto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

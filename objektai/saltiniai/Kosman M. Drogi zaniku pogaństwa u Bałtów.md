@@ -78,7 +78,9 @@ Dusburgietis teigia, kad kosman M.
     25—62.
     Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—
     Gdańsk, 1976.
-  citata_rodoma: "Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—\nGdańsk, 1976."
+  citata_rodoma: |
+    Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—
+    Gdańsk, 1976.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -158,7 +158,14 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     klausimas, ar toks palyginimas ir išvados prikergimas galėjo
     kiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji
     istorinė tiesa dėl to tapo abejotina?
-  citata_rodoma: "O todėl ne­\npritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri­\nvį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs.\nBetgi, įsigilinus į nurodytosios vietos antrąją dalį, iškyla \nklausimas, ar toks palyginimas ir išvados prikergimas galėjo \nkiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji \nistorinė tiesa dėl to tapo abejotina?"
+  citata_rodoma: |
+    O todėl ne­
+    pritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri­
+    vį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs.
+    Betgi, įsigilinus į nurodytosios vietos antrąją dalį, iškyla
+    klausimas, ar toks palyginimas ir išvados prikergimas galėjo
+    kiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji
+    istorinė tiesa dėl to tapo abejotina?
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

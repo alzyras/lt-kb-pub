@@ -99,7 +99,15 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     traukė Subačiaus
     kryptimi ir įsi-
     tvirtino Kupiškyje.
-  citata_rodoma: "Naktį iš\ngegužės 22 d. į\n23 d. bolševikai\npaliko Panevėžio\napylinkes, pasi-\ntraukė Subačiaus\nkryptimi ir įsi-\ntvirtino Kupiškyje."
+  citata_rodoma: |
+    Naktį iš
+    gegužės 22 d. į
+    23 d. bolševikai
+    paliko Panevėžio
+    apylinkes, pasi-
+    traukė Subačiaus
+    kryptimi ir įsi-
+    tvirtino Kupiškyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +131,15 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     Lietuvoje veikęs partizanų batalionas.
     Galiausiai bolševikai gegužės 30-31 d. at-
     sitraukė ir iš Kupiškio.
-  citata_rodoma: "Mūšio pasekmės\nIšvadavusi\nPanevėžį, Pane-\nvėžio rinktinė\ntoliau parsekio-\ndama priešą ge-\ngužės 27 d. užėmė Troškūnus ir Subačių.\nBiržus jau 26 d."
+  citata_rodoma: |
+    Mūšio pasekmės
+    Išvadavusi
+    Panevėžį, Pane-
+    vėžio rinktinė
+    toliau parsekio-
+    dama priešą ge-
+    gužės 27 d. užėmė Troškūnus ir Subačių.
+    Biržus jau 26 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

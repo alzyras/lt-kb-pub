@@ -95,7 +95,8 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     daro užbaigą ir sako:
     — O tu, Grigorai, sutikęs, davęs žodį, laikykis, nedaryk iš savo
     burnos, atsiprašant, kažin ką.
-  citata_rodoma: "O tu, Grigorai, sutikęs, davęs žodį, laikykis, nedaryk iš savo burnos, atsiprašant, kažin ką."
+  citata_rodoma: |
+    O tu, Grigorai, sutikęs, davęs žodį, laikykis, nedaryk iš savo burnos, atsiprašant, kažin ką.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -114,7 +115,8 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     tinėlę. Sakosi neturįs dar vietos ir galvojąs, iš ko čia galima pasigerti.
     Kitas žmogus, Lileika, jis nei samdo nei persisamdo, jis laisvas nuo
     to rūpesčio.
-  citata_rodoma: "Kitas žmogus, Lileika, jis nei samdo nei persisamdo, jis laisvas nuo to rūpesčio."
+  citata_rodoma: |
+    Kitas žmogus, Lileika, jis nei samdo nei persisamdo, jis laisvas nuo to rūpesčio.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -133,7 +135,8 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     to rūpesčio. Lileika mato Grigorą ir supranta jo troškulį — tad priei­
     na prie jo ir sako:
     — Aš tave papiršiu Jokūbui, gerai?
-  citata_rodoma: "Lileika mato Grigorą ir supranta jo troškulį — tad prieina prie jo ir sako: „Aš tave papiršiu Jokūbui, gerai?“"
+  citata_rodoma: |
+    Lileika mato Grigorą ir supranta jo troškulį — tad prieina prie jo ir sako: „Aš tave papiršiu Jokūbui, gerai?“
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

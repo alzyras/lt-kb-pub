@@ -183,7 +183,16 @@ Nenurodyta
     bažnyčiųl0, todėl Vytautas pramintas antruoju dievo
     apaštalu", kadangi jis pačius atkakliausius stabmel­
     džius atvertė į krikščionių tikėjimą.
-  citata_rodoma: "Tais pačiais metais Vytautas įsteigė Žemaičių vys­\nkupiją ir pastatė švento Petro bažnyčią Medininkuose, \nkuriuos žemaičiai dabar Varniais vadina; paskyrė ka­\nnauninkus, apdovanojo bažnyčią turtais9  ir įsakė visą \nŽemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­\nčionių, apkrikštijo visą Užnerio žemę ir įkūrė daug \nbažnyčiųl0 , todėl Vytautas pramintas antruoju dievo \napaštalu\", kadangi jis pačius atkakliausius stabmel­\ndžius atvertė į krikščionių tikėjimą."
+  citata_rodoma: |
+    Tais pačiais metais Vytautas įsteigė Žemaičių vys­
+    kupiją ir pastatė švento Petro bažnyčią Medininkuose,
+    kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­
+    nauninkus, apdovanojo bažnyčią turtais9  ir įsakė visą
+    Žemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­
+    čionių, apkrikštijo visą Užnerio žemę ir įkūrė daug
+    bažnyčiųl0 , todėl Vytautas pramintas antruoju dievo
+    apaštalu", kadangi jis pačius atkakliausius stabmel­
+    džius atvertė į krikščionių tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -205,7 +214,14 @@ Nenurodyta
     to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
     įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
     sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
-  citata_rodoma: "Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-\nnytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-\ntauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai \npadaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-\nto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), \nįsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai \nsklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą."
+  citata_rodoma: |
+    Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
+    nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
+    tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai
+    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
+    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
+    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
+    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -226,7 +242,15 @@ Nenurodyta
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
-  citata_rodoma: "Tai \npadaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-\nto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), \nįsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai \nsklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą. \nBe to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-\nją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su \nKatalikų bažnyčia."
+  citata_rodoma: |
+    Tai
+    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
+    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
+    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
+    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
+    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
+    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+    Katalikų bažnyčia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

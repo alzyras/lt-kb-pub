@@ -66,7 +66,11 @@ Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai
     svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų
     teises Lietuvos Statute (1529). Nuo seno šaltiniuose yra paliudytos
     taip pat medaus duoklės.
-  citata_rodoma: "Kad bitininkystė dar ir vėliau buvo\nsvarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų\nteises Lietuvos Statute (1529). Nuo seno šaltiniuose yra paliudytos\ntaip pat medaus duoklės."
+  citata_rodoma: |
+    Kad bitininkystė dar ir vėliau buvo
+    svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų
+    teises Lietuvos Statute (1529). Nuo seno šaltiniuose yra paliudytos
+    taip pat medaus duoklės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

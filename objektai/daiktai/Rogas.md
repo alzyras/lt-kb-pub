@@ -84,7 +84,10 @@ Nenurodyta
     kaipogi senovėj kalnėnai ir žemaičiai taip didžiai mylėjo savo žirgus, jog, pačiam mirus, lygiai degino ant rogo^1187 su
         pačiu jo žirgą, paskiau, krikščionimis jau tapę, garsūs kareiviai sirgdami liepė savo karės žirgą pas
         save atvesti ir taip, veizėdami į jį, kaipo į savo draugą laimės ir nelaimės, numirė.
-  citata_rodoma: "kaipogi senovėj kalnėnai ir žemaičiai taip didžiai mylėjo savo žirgus, jog, pačiam mirus, lygiai degino ant rogo^1187 su\npačiu jo žirgą, paskiau, krikščionimis jau tapę, garsūs kareiviai sirgdami liepė savo karės žirgą pas\nsave atvesti ir taip, veizėdami į jį, kaipo į savo draugą laimės ir nelaimės, numirė."
+  citata_rodoma: |
+    kaipogi senovėj kalnėnai ir žemaičiai taip didžiai mylėjo savo žirgus, jog, pačiam mirus, lygiai degino ant rogo^1187 su
+    pačiu jo žirgą, paskiau, krikščionimis jau tapę, garsūs kareiviai sirgdami liepė savo karės žirgą pas
+    save atvesti ir taip, veizėdami į jį, kaipo į savo draugą laimės ir nelaimės, numirė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

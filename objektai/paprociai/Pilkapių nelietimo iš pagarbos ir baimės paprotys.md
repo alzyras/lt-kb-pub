@@ -95,7 +95,14 @@ Nenurodyta
     da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
     o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
     laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
-  citata_rodoma: "Vis dėlto pilkapius visuomet gaubė dabartinės mū-\nsų kraštiečių kartos pagarba. Šiandien kaimiečiai nors\nnelaiko jų savo tautos protėvių kapais, tačiau iš pagar-\nbos po jais besiilsinčios genties žmonių palaikams nieka-\nda nesiryžta paliesti jų nei noragu, nei kitais įrankiais,\no juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury\nlaukų, tarp pastatų ir gerokai trukdo, jie jų neliečia."
+  citata_rodoma: |
+    Vis dėlto pilkapius visuomet gaubė dabartinės mū-
+    sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
+    nelaiko jų savo tautos protėvių kapais, tačiau iš pagar-
+    bos po jais besiilsinčios genties žmonių palaikams nieka-
+    da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
+    o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
+    laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

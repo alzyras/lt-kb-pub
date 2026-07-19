@@ -75,7 +75,13 @@ sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nuk
     šimtmečiai) įrašytas „Pasakojimas apie
     Podolę“ - plačiausiai kalbantis šaltinis
     šia tema.
-  citata_rodoma: "sakoma, kad rudenį\nAlgirdas „Mėlynuosius Vandenis ir Baltąją\npakrantę nukariavo“. Tas pats aprašyta vė-\nlesniame Maskvos- Tverės kilmės Nikono\nmetraštyje (susijusiame su Algirdo pali-\nkuonimis Belskiais)."
+  citata_rodoma: |
+    sakoma, kad rudenį
+    Algirdas „Mėlynuosius Vandenis ir Baltąją
+    pakrantę nukariavo“. Tas pats aprašyta vė-
+    lesniame Maskvos- Tverės kilmės Nikono
+    metraštyje (susijusiame su Algirdo pali-
+    kuonimis Belskiais).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

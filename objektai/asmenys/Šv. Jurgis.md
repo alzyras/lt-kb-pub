@@ -79,7 +79,10 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
     išnaša/
     Spanheim E. Dissertationes de usu et praestantia numismatum
     aliquorum.
-  citata_rodoma: "Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­\nkokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis\nsmeigia ietimi drakoną."
+  citata_rodoma: |
+    Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
+    kokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis
+    smeigia ietimi drakoną.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

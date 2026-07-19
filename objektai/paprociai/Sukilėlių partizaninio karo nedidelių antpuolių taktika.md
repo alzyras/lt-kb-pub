@@ -104,7 +104,15 @@ Nenurodyta
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
     109
     nas Mackevičius.
-  citata_rodoma: "Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos \nvadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje. \nPo Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) \nsukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-\n\n3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )\n109\nnas Mackevičius."
+  citata_rodoma: |
+    Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
+    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
+    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
+    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    109
+    nas Mackevičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

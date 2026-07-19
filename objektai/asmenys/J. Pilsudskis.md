@@ -185,7 +185,12 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: "Bolševikų diktatūra \nSSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje, \nperversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m. \ngegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti \nvisus, nepatenkintus Seimo valdymu („seimokratija“)."
+  citata_rodoma: |
+    Bolševikų diktatūra
+    SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje,
+    perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
+    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
+    visus, nepatenkintus Seimo valdymu („seimokratija“).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -206,7 +211,10 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     Lenkiškam ereliui sparnais kone apgobus žemyno Rytus, J. Pilsudskis
     motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir ko-
     vos su bolševikais būtinybe.
-  citata_rodoma: "Lenkiškam ereliui sparnais kone apgobus žemyno Rytus, J. Pilsudskis \nmotyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir ko-\nvos su bolševikais būtinybe."
+  citata_rodoma: |
+    Lenkiškam ereliui sparnais kone apgobus žemyno Rytus, J. Pilsudskis
+    motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir ko-
+    vos su bolševikais būtinybe.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -251,7 +259,10 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
     Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
     pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
-  citata_rodoma: "Lietuva ir Lenkija kaktomuša susidūrė \nŽenevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė \nA. Voldemarui klausimą „Karas ar taika?“ A."
+  citata_rodoma: |
+    Lietuva ir Lenkija kaktomuša susidūrė
+    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
+    A. Voldemarui klausimą „Karas ar taika?“ A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -277,7 +288,12 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
     laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
     vidinio chaoso.
-  citata_rodoma: "Gausūs R. Dmovskio ir \nJ. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl \n1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą \nlaiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie \nvidinio chaoso."
+  citata_rodoma: |
+    Gausūs R. Dmovskio ir
+    J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl
+    1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
+    laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
+    vidinio chaoso.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

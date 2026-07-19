@@ -125,7 +125,12 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
     Zalfeldas
     Zangershauzenas
     Zelionogradskas (buv.
-  citata_rodoma: "Vištytis, miestelis\nVitchendorfas, k. Saksonijoje\nVitlandas (Witland, Withlandia)\nViurcburgas\nVizenburgas  (žr."
+  citata_rodoma: |
+    Vištytis, miestelis
+    Vitchendorfas, k. Saksonijoje
+    Vitlandas (Witland, Withlandia)
+    Viurcburgas
+    Vizenburgas  (žr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -87,7 +87,8 @@ Nenurodyta
     12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
     ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
     socialinį, teisinį ir administracinį bendradarbiavimą.
-  citata_rodoma: "ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,"
+  citata_rodoma: |
+    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

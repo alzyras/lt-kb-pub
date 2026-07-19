@@ -93,7 +93,8 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
     tai pasakys.
     Žila galva buvo Vaičys, senas žmogus, apie bet kurį dalyką galįs
     pašnekėti geriau už kitą.
-  citata_rodoma: "Žila galva buvo Vaičys, senas žmogus, apie bet kurį dalyką galįs pašnekėti geriau už kitą."
+  citata_rodoma: |
+    Žila galva buvo Vaičys, senas žmogus, apie bet kurį dalyką galįs pašnekėti geriau už kitą.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -111,7 +112,8 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
     me — ne. Kaip čia dabar yra?
     — Ir broliai keliai ir nebroliai keliai, — atsiliepė Vaičys: — vi­
     sas svietas giminės tarp savęs ir tiek.
-  citata_rodoma: "— Ir broliai keliai ir nebroliai keliai, — atsiliepė Vaičys: — visas svietas giminės tarp savęs ir tiek."
+  citata_rodoma: |
+    — Ir broliai keliai ir nebroliai keliai, — atsiliepė Vaičys: — visas svietas giminės tarp savęs ir tiek.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -129,7 +131,8 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
     nieks nesugaus.
     O antra Lukošiuke, — tęsė toliau Vaičys, — buvo
     nuėjus į Papušinį už Grigės. Tai ta mano senelė.
-  citata_rodoma: "O antra Lukošiuke, — tęsė toliau Vaičys, — buvo nuėjus į Papušinį už Grigės. Tai ta mano senelė."
+  citata_rodoma: |
+    O antra Lukošiuke, — tęsė toliau Vaičys, — buvo nuėjus į Papušinį už Grigės. Tai ta mano senelė.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

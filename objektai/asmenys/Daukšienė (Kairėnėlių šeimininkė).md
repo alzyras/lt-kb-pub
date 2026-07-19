@@ -70,7 +70,8 @@ Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su 
     Ten jaunuosius pasitiko
     su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte ne­
     šina.
-  citata_rodoma: "Vestuvininkai nuvažiavo į Kairėnėlius. Ten jaunuosius pasitiko su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte nešina."
+  citata_rodoma: |
+    Vestuvininkai nuvažiavo į Kairėnėlius. Ten jaunuosius pasitiko su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte nešina.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

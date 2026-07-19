@@ -94,7 +94,13 @@ Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado t
     teto architektūros profesorius ponas Šulcas tarp mirusio ar­
     chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
     tinantį šį padavimą.
-  citata_rodoma: "Senovės germanai ją vadino H erta, tai yra Motina žeme.\nTam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas\nčerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­\ngų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­\nronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­\nčios Agenda."
+  citata_rodoma: |
+    Senovės germanai ją vadino H erta, tai yra Motina žeme.
+    Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
+    čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­
+    gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­
+    ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­
+    čios Agenda.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -61,7 +61,10 @@ Manhardt, W.
     Sovetskaja Archeologija, t. 17, 1953, 211-222 p. — Manhardt, W. :
     _Letto-Preussische Götterlehre,_ Riga 1936 (surinkti beveik visi šaltiniai;
     plg. papild. Z. Ivinskis, rec. LP, I, 1, 1940, 319-322 p.).
-  citata_rodoma: "— Manhardt, W. :\n_Letto-Preussische Götterlehre,_ Riga 1936 (surinkti beveik visi šaltiniai;\nplg. papild. Z. Ivinskis, rec. LP, I, 1, 1940, 319-322 p.)."
+  citata_rodoma: |
+    — Manhardt, W. :
+    _Letto-Preussische Götterlehre,_ Riga 1936 (surinkti beveik visi šaltiniai;
+    plg. papild. Z. Ivinskis, rec. LP, I, 1, 1940, 319-322 p.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

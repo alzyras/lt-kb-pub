@@ -148,7 +148,20 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
     galvijus, paėmė išpirką. Tuomet kartu su
     Tverės kunigaikščiu puolė Kašiną, vėl gavo
     išpirką.
-  citata_rodoma: "pavasarį, siekdamas apsiginti nuo\nnuolatinių Maskvos antpuolių, Tverės\nkunigaikštis Michailas vėl kvietėsi į pa-\ngalbą Lietuvos pajėgas - „slapta atvedė\nlietuvių kariuomenę“. Tverės kunigaikš-\ntis puolė Dmitrovą, o tuo metu Kęstutis ir\nAndrius Algirdaitis Polockietis, Vytautas\nKęstutaitis su Lietuvos kariuomene - to-\nlimesnįjį Perejeslavlį, sudegino „posadą“\nir cerkves, nusiaubė apylinkes, sunaikino\ngalvijus, paėmė išpirką. Tuomet kartu su\nTverės kunigaikščiu puolė Kašiną, vėl gavo\nišpirką."
+  citata_rodoma: |
+    pavasarį, siekdamas apsiginti nuo
+    nuolatinių Maskvos antpuolių, Tverės
+    kunigaikštis Michailas vėl kvietėsi į pa-
+    galbą Lietuvos pajėgas - „slapta atvedė
+    lietuvių kariuomenę“. Tverės kunigaikš-
+    tis puolė Dmitrovą, o tuo metu Kęstutis ir
+    Andrius Algirdaitis Polockietis, Vytautas
+    Kęstutaitis su Lietuvos kariuomene - to-
+    limesnįjį Perejeslavlį, sudegino „posadą“
+    ir cerkves, nusiaubė apylinkes, sunaikino
+    galvijus, paėmė išpirką. Tuomet kartu su
+    Tverės kunigaikščiu puolė Kašiną, vėl gavo
+    išpirką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

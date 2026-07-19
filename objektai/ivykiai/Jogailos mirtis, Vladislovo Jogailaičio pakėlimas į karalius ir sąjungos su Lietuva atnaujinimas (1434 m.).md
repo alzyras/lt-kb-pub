@@ -120,7 +120,17 @@ Nenurodyta
     Korčino seime, o iš ten leido­
     si į Krokuvą bei Lvovą, kur ketino pakelti į valdžią Ste­
     poną, Moldavijos valdovą.
-  citata_rodoma: "Ga­\nlop, pajutęs, kad jam visai užėmė kvapą, paliepė nu­\nnešti į lovą supratęs, jog ateiną paskutinioji. Pasikvie­\ntęs karalystės didikus, jis paprašė, kad, rinkdami sosto\nįpėdinį, neaplenktų sūnaus Vladislovo. Vienam ir ki­\ntam didikui pažadėjus užtarti sūnų, karalius nuolan­\nkiai paprašė palaikyti Vladislovą Zbignevą Olesnickį\nir, nusimovęs nuo piršto žiedą, jam atidavė, maldauda­\nmas atleisti, jeigu kada su juo nesutaręs, reikšdamas\npriešingą nuomonę."
+  citata_rodoma: |
+    Ga­
+    lop, pajutęs, kad jam visai užėmė kvapą, paliepė nu­
+    nešti į lovą supratęs, jog ateiną paskutinioji. Pasikvie­
+    tęs karalystės didikus, jis paprašė, kad, rinkdami sosto
+    įpėdinį, neaplenktų sūnaus Vladislovo. Vienam ir ki­
+    tam didikui pažadėjus užtarti sūnų, karalius nuolan­
+    kiai paprašė palaikyti Vladislovą Zbignevą Olesnickį
+    ir, nusimovęs nuo piršto žiedą, jam atidavė, maldauda­
+    mas atleisti, jeigu kada su juo nesutaręs, reikšdamas
+    priešingą nuomonę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

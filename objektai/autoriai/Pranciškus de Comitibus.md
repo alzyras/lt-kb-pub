@@ -62,7 +62,11 @@ Gi Pranciškus de Comitibus yra užrašęs, kad Vytauto bijojo ir jį gerbė ne 
     bijojo ir jį gerbė ne tiktai totorių ciesorius (vyriausias chanas),
 
     (^1) ) C. ep.
-  citata_rodoma: "Gi Pranciškus de Comitibus yra užrašęs, kad Vytauto\nbijojo ir jį gerbė ne tiktai totorių ciesorius (vyriausias chanas),\n\n(^1) ) C."
+  citata_rodoma: |
+    Gi Pranciškus de Comitibus yra užrašęs, kad Vytauto
+    bijojo ir jį gerbė ne tiktai totorių ciesorius (vyriausias chanas),
+
+    (^1) ) C.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

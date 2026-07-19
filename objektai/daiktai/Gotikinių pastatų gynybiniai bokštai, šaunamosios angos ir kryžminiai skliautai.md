@@ -96,7 +96,8 @@ Nenurodyta
     gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
     perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
     Naugarduke ir Lucke.
-  citata_rodoma: "perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,"
+  citata_rodoma: |
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

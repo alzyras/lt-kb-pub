@@ -613,7 +613,10 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     choje prie jūros gyvenusiems prūsams ir kuršiams teko atremti
     plėšikaujančius skandinavus. Tiesa, kuršiai XI a. jau ir patys reng-
     davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
-  citata_rodoma: "Vikingų epo-\nchoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti\nplėšikaujančius skandinavus. Tiesa, kuršiai XI a."
+  citata_rodoma: |
+    Vikingų epo-
+    choje prie jūros gyvenusiems prūsams ir kuršiams teko atremti
+    plėšikaujančius skandinavus. Tiesa, kuršiai XI a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -663,7 +666,14 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     Skrytaš się w niekios przestrzenie.
     Gdiež ciebie szukač?
     Czy juž tylko na ionie šmierci?
-  citata_rodoma: "Labai sukrės­\nta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo\nvyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.\nSkandinavai taip pat manė, kad dėl tos kelionės deivė Frėja\ntapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių\ntautų. Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­\ntinkame mūsų kaimiečių padavimuose."
+  citata_rodoma: |
+    Labai sukrės­
+    ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
+    vyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.
+    Skandinavai taip pat manė, kad dėl tos kelionės deivė Frėja
+    tapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių
+    tautų. Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
+    tinkame mūsų kaimiečių padavimuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -708,7 +718,12 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
     yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
     lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-  citata_rodoma: "Šie dievaičiai atitinka Antikos Paną.\nPrūsijos kronikininkų, besivadovaujančių Olafo Didžiojo\n„Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­\nviai perėmę iš skandinavų.\n30 Stenden Lettische Grammatik."
+  citata_rodoma: |
+    Šie dievaičiai atitinka Antikos Paną.
+    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
+    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
+    viai perėmę iš skandinavų.
+    30 Stenden Lettische Grammatik.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -845,7 +860,22 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     upę. Antroji šiandien vadinama Ašva; ji prasideda taip
     pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
     žą ties Loišės pasienio smukle.
-  citata_rodoma: "Prie Rusnės, kiek\nžemiau Sancinės, dešinėje pakrantėje ir prie įlankos, yra\n223\n\n## Puslapis 221\n\nkaimas Sena Rusia, Sienas-Russ; ši vieta verta visokeriopo\ntyrinėtojo dėmesio, nes ten turėjusi būti pilis arba viena\nseniausių lietuvių kolonijų. Garsus senovės šiaurės mies­\ntas Assagard, apie kurį ir jo buvimo vietą parašyta tiek\nprieštaringų nuomonių, be abejo, buvęs Rusioje, kur nuo­\nlat gyveno skandinavai. Sis pavadinimas kilo iš skandina­\nvų religijos ir reiškė vietą, kurioje buvo mitinių tos liau­\ndies pusdievių ir senovės didvyrių, vadinamų asais, kurių\nprotėviai kartu su Odinu atėjo nuo Azovo jūros."
+  citata_rodoma: |
+    Prie Rusnės, kiek
+    žemiau Sancinės, dešinėje pakrantėje ir prie įlankos, yra
+    223
+
+    ## Puslapis 221
+
+    kaimas Sena Rusia, Sienas-Russ; ši vieta verta visokeriopo
+    tyrinėtojo dėmesio, nes ten turėjusi būti pilis arba viena
+    seniausių lietuvių kolonijų. Garsus senovės šiaurės mies­
+    tas Assagard, apie kurį ir jo buvimo vietą parašyta tiek
+    prieštaringų nuomonių, be abejo, buvęs Rusioje, kur nuo­
+    lat gyveno skandinavai. Sis pavadinimas kilo iš skandina­
+    vų religijos ir reiškė vietą, kurioje buvo mitinių tos liau­
+    dies pusdievių ir senovės didvyrių, vadinamų asais, kurių
+    protėviai kartu su Odinu atėjo nuo Azovo jūros.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -911,7 +941,16 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
     jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
     religijos, kurią gana veiksmingai formavo graikų mitologija.
-  citata_rodoma: "Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip\ntatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną\nir tais pačiais principais besiremiančią religiją, pamėgdžiojan-\nčią beveik visas menkiausias smulkmenas.\nNet atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti."
+  citata_rodoma: |
+    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
+    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
+    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
+    čią beveik visas menkiausias smulkmenas.
+    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
+    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
+    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
+    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
+    plaikos kilo mitologija, kurią imamės išdėstyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -976,7 +1015,16 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
     perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
     kas šia upe keliavęs, bus davęs upei savo vardą.
-  citata_rodoma: "Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?\nAtsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo\nužkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­\nsinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir\nauksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem\nkraštams.\nApie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams."
+  citata_rodoma: |
+    Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?
+    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
+    užkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­
+    sinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir
+    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
+    kraštams.
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1024,7 +1072,13 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     globtė (Abglojte), kas reiškia nuometą. Uždedant ant galvos šį
     vainiką, svočia (Pirszle) lietuviškai dainuodavo tokį dvieilį:
     Dziewczynę gdy przyyviedziesz, to cząstka twego data.
-  citata_rodoma: "Romėnai darydavo pakirptuves\nįvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­\nves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-\nratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak\nislandų sagose esančių padavimų, skandinavai taip pat žinojo\npakirptuves. Senovės lenkai ypač laikėsi šio papročio."
+  citata_rodoma: |
+    Romėnai darydavo pakirptuves
+    įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­
+    ves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-
+    ratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak
+    islandų sagose esančių padavimų, skandinavai taip pat žinojo
+    pakirptuves. Senovės lenkai ypač laikėsi šio papročio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -279,7 +279,13 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     regioninio darinio su Lenkija priešakyje. Išnaudodama lietuvių ir lenkų
     konfliktą savo tikslams Maskva žaidė savo naudai, o tai kenkė ir Baltijos
     šalių, ir Lenkijos interesams.
-  citata_rodoma: "Latvija ir Es-\ntija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo \nį Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus \nregioninio darinio su Lenkija priešakyje. Išnaudodama lietuvių ir lenkų \nkonfliktą savo tikslams Maskva žaidė savo naudai, o tai kenkė ir Baltijos \nšalių, ir Lenkijos interesams."
+  citata_rodoma: |
+    Latvija ir Es-
+    tija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo
+    į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus
+    regioninio darinio su Lenkija priešakyje. Išnaudodama lietuvių ir lenkų
+    konfliktą savo tikslams Maskva žaidė savo naudai, o tai kenkė ir Baltijos
+    šalių, ir Lenkijos interesams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -300,7 +306,14 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     Baltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti
     naują ekonomiką, spręsti energetinės nepriklausomybės klausimus, ieš-
     koti naujų rinkų ir savo vietos Europoje, pasaulyje.
-  citata_rodoma: "Unitari-\nnė, unifikacinė SSRS politika gerokai nusmukdė Latvijos ir Estijos lygį, \nbet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijo-\nme kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus. Tačiau \nBaltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti \nnaują ekonomiką, spręsti energetinės nepriklausomybės klausimus, ieš-\nkoti naujų rinkų ir savo vietos Europoje, pasaulyje."
+  citata_rodoma: |
+    Unitari-
+    nė, unifikacinė SSRS politika gerokai nusmukdė Latvijos ir Estijos lygį,
+    bet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijo-
+    me kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus. Tačiau
+    Baltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti
+    naują ekonomiką, spręsti energetinės nepriklausomybės klausimus, ieš-
+    koti naujų rinkų ir savo vietos Europoje, pasaulyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

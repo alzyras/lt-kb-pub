@@ -64,7 +64,11 @@ Pasiunčia ir Vytautui perspėjantį laišką, kad jis nenutrauktų unijos ir ni
     jis nenutrauktų unijos ir nieko nedarytų nepasitaręs su popie­
     žium, „kad paskui mes nepareikalautume ištirt reikalą ir atšaukt
     neteisėtai įvykusią karūnaciją“^3 ).
-  citata_rodoma: "Pasiunčia ir Vytautui perspėjantį laišką, kad\njis nenutrauktų unijos ir nieko nedarytų nepasitaręs su popie­\nžium, „kad paskui mes nepareikalautume ištirt reikalą ir atšaukt\nneteisėtai įvykusią karūnaciją“^3 )."
+  citata_rodoma: |
+    Pasiunčia ir Vytautui perspėjantį laišką, kad
+    jis nenutrauktų unijos ir nieko nedarytų nepasitaręs su popie­
+    žium, „kad paskui mes nepareikalautume ištirt reikalą ir atšaukt
+    neteisėtai įvykusią karūnaciją“^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

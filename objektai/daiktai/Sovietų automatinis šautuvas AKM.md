@@ -112,7 +112,15 @@ Nenurodyta
     nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
     siją - AKM. 1974 m. buvo sukurtas naujas Kalašnikovo automato
     variantas — AK-74, kuris naudojo dar mažesnį šovinį.
-  citata_rodoma: "Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-\nprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,\ntai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai\npaplito po visą pasaulį.\n\n1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-\nnizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-\nsiją - AKM."
+  citata_rodoma: |
+    Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
+    prasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,
+    tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai
+    paplito po visą pasaulį.
+
+    1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-
+    nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
+    siją - AKM.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

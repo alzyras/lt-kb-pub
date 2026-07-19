@@ -130,7 +130,22 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
     tingieji LDK valdžios organai, nutarta atimti
     iš Sapiegų jų turėtas pareigybes, o dvarus
     konfiskuoti.
-  citata_rodoma: "Valki-\nninkuose vyko respublikonų bajorijos\n\n„Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę\nšeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo\nlaisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro\nlengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik\ntuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.“\n\nsuvažiavimas, priėmęs „Valkininkų nuta-\nrimą“, kuriuo buvo įkurta LDK bajorijos\ngeneralinė konfederacija, suformuoti ypa-\ntingieji LDK valdžios organai, nutarta atimti\niš Sapiegų jų turėtas pareigybes, o dvarus\nkonfiskuoti."
+  citata_rodoma: |
+    Valki-
+    ninkuose vyko respublikonų bajorijos
+
+    „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
+    šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo
+    laisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro
+    lengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik
+    tuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.“
+
+    suvažiavimas, priėmęs „Valkininkų nuta-
+    rimą“, kuriuo buvo įkurta LDK bajorijos
+    generalinė konfederacija, suformuoti ypa-
+    tingieji LDK valdžios organai, nutarta atimti
+    iš Sapiegų jų turėtas pareigybes, o dvarus
+    konfiskuoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

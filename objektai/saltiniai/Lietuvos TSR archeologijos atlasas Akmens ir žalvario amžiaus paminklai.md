@@ -75,7 +75,9 @@ Lietuvos TSR archeologijos atlasas, I : Akmens ir žalva­ rio amžiaus paminkla
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961. — _Lietuvos TSR archeologijos atlasas,_ I : _Akmens ir žalva­
     rio amžiaus paminklai,_ red. R. Rimantienė, Vilnius 1974.
-  citata_rodoma: "— _Lietuvos TSR archeologijos atlasas,_ I : _Akmens ir žalva­\nrio amžiaus paminklai,_ red. R. Rimantienė, Vilnius 1974."
+  citata_rodoma: |
+    — _Lietuvos TSR archeologijos atlasas,_ I : _Akmens ir žalva­
+    rio amžiaus paminklai,_ red. R. Rimantienė, Vilnius 1974.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

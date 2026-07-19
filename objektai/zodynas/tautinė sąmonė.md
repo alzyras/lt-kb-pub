@@ -130,7 +130,13 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
     pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
     Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
     dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
-  citata_rodoma: "Stryjkovskis ne­\ngalėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri\nteišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose\npas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris\nStryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­\ndotas »^20 nuoširdžiai persiėmė Lietuvos reikalais."
+  citata_rodoma: |
+    Stryjkovskis ne­
+    galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri
+    teišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose
+    pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
+    Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
+    dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

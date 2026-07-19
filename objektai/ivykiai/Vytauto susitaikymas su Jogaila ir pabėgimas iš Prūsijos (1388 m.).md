@@ -127,7 +127,24 @@ Nenurodyta
     los, Jurbarke, Noigardene, Marienburge, sutinkamas
     tarsi draugas, išžudė vokiečių eilinius karius, apiplėšė
     ir sudegino pilis, išsivedė įgulų viršininkus.
-  citata_rodoma: "Magistras lengvai sutiko su tuo siūlymu, jis ir \npats trokšte troško naujomis Lietuvos skriaudomis ai­\ntrinti senąsias žaizdas, tada Vytautui būtų sunkiau su­\nartėti su karaliumi Jogaila, jis būtų priverstas stipriau \nlaikytis draugystės su kryžiuočiais. Vytautas įsakė sa­\nvo kariams parengti ginklus, pasiimti maisto daugeliui \ndienų ir gerai pasiruošti skubiam žygiui: pats taip vis­\nką tvarkė, kad jo žmonės neapsikrautų per daug nešu­\nliais ir kad kryžiuočiams nekiltų įtarimas, jog jie bėga. \nIšjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris \nvedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo­\nną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su \nturtais, ir skubiai paspruko link Žemaitijos, o iš ten, \npasukęs Prūsijos pasieniu į Palenkę, kurią gynė jo įgu­\nlos, Jurbarke, Noigardene, Marienburge, sutinkamas \ntarsi draugas, išžudė vokiečių eilinius karius, apiplėšė \nir sudegino pilis, išsivedė įgulų viršininkus."
+  citata_rodoma: |
+    Magistras lengvai sutiko su tuo siūlymu, jis ir
+    pats trokšte troško naujomis Lietuvos skriaudomis ai­
+    trinti senąsias žaizdas, tada Vytautui būtų sunkiau su­
+    artėti su karaliumi Jogaila, jis būtų priverstas stipriau
+    laikytis draugystės su kryžiuočiais. Vytautas įsakė sa­
+    vo kariams parengti ginklus, pasiimti maisto daugeliui
+    dienų ir gerai pasiruošti skubiam žygiui: pats taip vis­
+    ką tvarkė, kad jo žmonės neapsikrautų per daug nešu­
+    liais ir kad kryžiuočiams nekiltų įtarimas, jog jie bėga.
+    Išjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris
+    vedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo­
+    ną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su
+    turtais, ir skubiai paspruko link Žemaitijos, o iš ten,
+    pasukęs Prūsijos pasieniu į Palenkę, kurią gynė jo įgu­
+    los, Jurbarke, Noigardene, Marienburge, sutinkamas
+    tarsi draugas, išžudė vokiečių eilinius karius, apiplėšė
+    ir sudegino pilis, išsivedė įgulų viršininkus.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

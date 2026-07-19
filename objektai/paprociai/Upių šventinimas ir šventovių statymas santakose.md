@@ -87,7 +87,11 @@ Nenurodyta
     pastebėjo
     Kašmiro
     žemumoje.
-  citata_rodoma: "Patys seniausi indai turėjo paprotį, šventindami upes, prie dviejų\nupių santakos statyti šventoves ir ten atlikti tokį garbinimą (Hie-\ngels. Reise nach Indien). Jis šį paprotį, menantį seniausius bu­\ndizmo principus,"
+  citata_rodoma: |
+    Patys seniausi indai turėjo paprotį, šventindami upes, prie dviejų
+    upių santakos statyti šventoves ir ten atlikti tokį garbinimą (Hie-
+    gels. Reise nach Indien). Jis šį paprotį, menantį seniausius bu­
+    dizmo principus,
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

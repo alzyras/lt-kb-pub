@@ -94,7 +94,18 @@ Nenurodyta
     pat rengė ir leido dokumentų rinkinius, kuriuose tendencingai
     stengtasi įrodyti rusiškosios, ortodoksiškos civilizacijos tradici­
     jas Šiaurės Vakarų krašte.
-  citata_rodoma: "Lie­\ntuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo \naptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­\ncheologinių radinių ir meno kolekcijos. Rusų administracija taip\nIX\n\n## Puslapis 10\n\npat rengė ir leido dokumentų rinkinius, kuriuose tendencingai \nstengtasi įrodyti rusiškosios, ortodoksiškos civilizacijos tradici­\njas Šiaurės Vakarų krašte."
+  citata_rodoma: |
+    Lie­
+    tuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo
+    aptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­
+    cheologinių radinių ir meno kolekcijos. Rusų administracija taip
+    IX
+
+    ## Puslapis 10
+
+    pat rengė ir leido dokumentų rinkinius, kuriuose tendencingai
+    stengtasi įrodyti rusiškosios, ortodoksiškos civilizacijos tradici­
+    jas Šiaurės Vakarų krašte.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

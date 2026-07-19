@@ -83,7 +83,8 @@ Nenurodyta
     Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
     tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
     respublikomis.
-  citata_rodoma: "tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis"
+  citata_rodoma: |
+    tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -93,7 +93,14 @@ Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir
     faktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­
     davo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­
     čionių, tai yra ne kiekvienas jose galėdavo dalyvauti.
-  citata_rodoma: "Egiptiečiai visiškai nesivadina\njų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­\nkus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­\nsias slaptas apeigas. Antikoje beveik kiekviena tauta turėjo\nsavo slaptas religines šventes, maldas, aukas; kuo labiau iš­\nprususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­\nlesnis darydavosi tas stabmeldiškasis religinis kultas."
+  citata_rodoma: |
+    Egiptiečiai visiškai nesivadina
+    jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
+    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
+    sias slaptas apeigas. Antikoje beveik kiekviena tauta turėjo
+    savo slaptas religines šventes, maldas, aukas; kuo labiau iš­
+    prususi kuri nors tauta buvo, tuo painesnis, tamsesnis, deta­
+    lesnis darydavosi tas stabmeldiškasis religinis kultas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

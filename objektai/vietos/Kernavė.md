@@ -460,7 +460,12 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     plotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių
     sritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso
     pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.
-  citata_rodoma: "Yra paaiškėję, kad pradinė\nMindaugo « Lietuva » ir jo valdomos tėviškės pilys tebus apėmusios\nplotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių\nsritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso\npastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17."
+  citata_rodoma: |
+    Yra paaiškėję, kad pradinė
+    Mindaugo « Lietuva » ir jo valdomos tėviškės pilys tebus apėmusios
+    plotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių
+    sritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso
+    pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -506,7 +511,12 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
     žvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės
     įkūrimas^14.
-  citata_rodoma: "XVI amž. plačioji Lietuvos metraščio\nredakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo\nKernavės, toje girios vietoje, kur Gediminas primedžiojęs daug\nžvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės\nįkūrimas^14."
+  citata_rodoma: |
+    XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -545,7 +555,20 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
     kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
     aukščiau mūsų nurodytomis.
-  citata_rodoma: "Nederėtų, be\nto, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš\nmūsų valdinių per tą pačią upę kitose vietose statyti mažų\ntiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės\ndvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­\nžiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime\nuždrausti ir uždraudžiame bei užginame perkėlimus, vadi­\nnamus plaustais, per tą pačią Vilijos upę, kad nė vienas iš\nmūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­\nmo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­\nnyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­\nkimo tam pačiam mūsų nustatytam muitui, su bausmėmis,\naukščiau mūsų nurodytomis."
+  citata_rodoma: |
+    Nederėtų, be
+    to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
+    mūsų valdinių per tą pačią upę kitose vietose statyti mažų
+    tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės
+    dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
+    žiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime
+    uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­
+    namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš
+    mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­
+    mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­
+    nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
+    kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
+    aukščiau mūsų nurodytomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -583,7 +606,13 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).
 
     (^1) ) C. ep.
-  citata_rodoma: "O\nVytautas, pasislėpęs miškuose, naikino atsiskyrusius Ordino\npulkus ir gurguoles. Nors ir smarkiai kryžiuočiai buvo perse­\nkiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).\n\n(^1) ) C."
+  citata_rodoma: |
+    O
+    Vytautas, pasislėpęs miškuose, naikino atsiskyrusius Ordino
+    pulkus ir gurguoles. Nors ir smarkiai kryžiuočiai buvo perse­
+    kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).
+
+    (^1) ) C.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -604,7 +633,13 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     pilį. Į kairę nuo kelto, kur dabar Lukiškių priemiestis, nuo
     senų senovės kerojo įvairioms dievybėms pašvęsti ąžuolai,
     šen bei ten palei Viliją laukuose augo pušys5.
-  citata_rodoma: "Kelias\nsuko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs\nį du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės\npilį. Į kairę nuo kelto, kur dabar Lukiškių priemiestis, nuo\nsenų senovės kerojo įvairioms dievybėms pašvęsti ąžuolai,\nšen bei ten palei Viliją laukuose augo pušys5."
+  citata_rodoma: |
+    Kelias
+    suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs
+    į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
+    pilį. Į kairę nuo kelto, kur dabar Lukiškių priemiestis, nuo
+    senų senovės kerojo įvairioms dievybėms pašvęsti ąžuolai,
+    šen bei ten palei Viliją laukuose augo pušys5.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -626,7 +661,12 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
     Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
     žvėrienos.
-  citata_rodoma: "Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­\nsių administracijos centrais. XVI amž. plačioji Lietuvos metraščio\nredakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo\nKernavės, toje girios vietoje, kur Gediminas primedžiojęs daug\nžvėrienos."
+  citata_rodoma: |
+    Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
+    sių administracijos centrais. XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -656,7 +696,23 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     visam laikui pasiliko Retu­
     mas P o lo ck a s
     vių rankose.
-  citata_rodoma: "Todėl, norėdamas su­\nrišti priešui rankas, įkūrė pirmą nausėdiją ant upės\nkranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos\n64\n\n## Puslapis 63\n\npadėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos\nsostinę. Ši vietovė po šiai dienai išsaugojo vardą, gau­\ndėj o dirbti pakrantėje laukus, rusai, su įtarimu žiūrėję\nį naujuosius kaimynus, ėmėsi smurto ir ginklo. Šie\nveiksmai priminė veikiau atkarų plėšikavimą nei gar­\nbingą karą: nuolatiniais antpuoliais buvo siaubiami\nnaujakuriai;\nKernius bei Gimbutas dėjosi nematą\nskriaudų, tačiau paslapčiomis ryžosi pulti Rusią."
+  citata_rodoma: |
+    Todėl, norėdamas su­
+    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
+    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+    64
+
+    ## Puslapis 63
+
+    padėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos
+    sostinę. Ši vietovė po šiai dienai išsaugojo vardą, gau­
+    dėj o dirbti pakrantėje laukus, rusai, su įtarimu žiūrėję
+    į naujuosius kaimynus, ėmėsi smurto ir ginklo. Šie
+    veiksmai priminė veikiau atkarų plėšikavimą nei gar­
+    bingą karą: nuolatiniais antpuoliais buvo siaubiami
+    naujakuriai;
+    Kernius bei Gimbutas dėjosi nematą
+    skriaudų, tačiau paslapčiomis ryžosi pulti Rusią.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -686,7 +742,22 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     nedidelių būrių. Šitokia padėtis paskatino Kernavės ku­
     nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten
     išvaryti.
-  citata_rodoma: "Šios įgulos nepaprastai kenkė aplinkiniam\nkraštui: nesutikdamos pasipriešinimo, jos pridarydavo\ndaug žalos menkais, bet dažnais išpuoliais, rengiamais\nnedidelių būrių. Šitokia padėtis paskatino Kernavės ku­\nnigaikštį Aleksandrą Vygandą pamėginti priešą iš ten\nišvaryti. Puldamas Ritersver-\nA le k sa n d ra s V y g a n -\nderį su trimis lenkų pėstinin-\ndas n e sė k m in g a i puo-\nkų ir keliais lietuvių raitelių\nia pilis\nbūriais, kunigaikštis, be abe­\njonės, būtų netrukęs užimti\npilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,\nkai gynėjai jau ketino pasiduoti."
+  citata_rodoma: |
+    Šios įgulos nepaprastai kenkė aplinkiniam
+    kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
+    daug žalos menkais, bet dažnais išpuoliais, rengiamais
+    nedidelių būrių. Šitokia padėtis paskatino Kernavės ku­
+    nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten
+    išvaryti. Puldamas Ritersver-
+    A le k sa n d ra s V y g a n -
+    derį su trimis lenkų pėstinin-
+    das n e sė k m in g a i puo-
+    kų ir keliais lietuvių raitelių
+    ia pilis
+    būriais, kunigaikštis, be abe­
+    jonės, būtų netrukęs užimti
+    pilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,
+    kai gynėjai jau ketino pasiduoti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -736,7 +807,20 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
     mėti ten visuomet stovi medinis kryžius.
-  citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
+  citata_rodoma: |
+    Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -756,7 +840,13 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
     sas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
     Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę.
-  citata_rodoma: "To­\nkie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­\nniams persikėlus į Lietuvą, didžioji šventykla buvo įvairiose\nvietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­\ngė šventoji ugnis.\n4."
+  citata_rodoma: |
+    To­
+    kie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­
+    niams persikėlus į Lietuvą, didžioji šventykla buvo įvairiose
+    vietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­
+    gė šventoji ugnis.
+    4.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

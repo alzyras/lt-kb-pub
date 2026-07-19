@@ -162,7 +162,10 @@ media_all_json: |-
     nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
     Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
     dėjusiai veikti generalgubernatoriaus institucijai.
-  citata_rodoma: "1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos \nGardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-\ndėjusiai veikti generalgubernatoriaus institucijai."
+  citata_rodoma: |
+    1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
+    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
+    dėjusiai veikti generalgubernatoriaus institucijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +186,10 @@ media_all_json: |-
     Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
     istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
     bernijos šiaurinis pakraštys.
-  citata_rodoma: "Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, \nistoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-\nbernijos šiaurinis pakraštys."
+  citata_rodoma: |
+    Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
+    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
+    bernijos šiaurinis pakraštys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +213,13 @@ media_all_json: |-
     joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
     berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
     Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
-  citata_rodoma: "1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies \napskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-\nskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-\njoms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-\nberniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje \nVilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji."
+  citata_rodoma: |
+    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
+    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
+    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
+    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
+    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
+    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -60,7 +60,8 @@ Prancūzija Žoržo B.
     nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
     buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
     jūrą.
-  citata_rodoma: "buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į"
+  citata_rodoma: |
+    buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

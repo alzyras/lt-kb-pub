@@ -95,7 +95,11 @@ Nenurodyta
     1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-
     draudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti
     ir platinti.
-  citata_rodoma: "Tik jo įpėdinis Kaufmanas\n1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-\ndraudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti\nir platinti."
+  citata_rodoma: |
+    Tik jo įpėdinis Kaufmanas
+    1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-
+    draudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti
+    ir platinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

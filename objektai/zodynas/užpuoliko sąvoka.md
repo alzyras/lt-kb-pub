@@ -67,7 +67,9 @@ media_all_json: |-
     su minėtu laišku ligi 1944 metų.
     1933 metais Lietuva tą nepuolimo sutartį papildė kita su-
     tartimi, kuri apibūdino užpuoliko sąvoką.
-  citata_rodoma: "1933 metais Lietuva tą nepuolimo sutartį papildė kita su-\ntartimi, kuri apibūdino užpuoliko sąvoką."
+  citata_rodoma: |
+    1933 metais Lietuva tą nepuolimo sutartį papildė kita su-
+    tartimi, kuri apibūdino užpuoliko sąvoką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

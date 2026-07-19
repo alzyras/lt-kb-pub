@@ -81,7 +81,12 @@ Nenurodyta
     pavardę, kūrusio kitą dar Pirmojo pasaulinio karo pabaigoje pasirodžiusį,
     pirmąjį vokiečių masiškai gamintą pistoletą kulkosvaidį MP 18. Po vokiečių
     atsitraukimo iš Lietuvos teritorijos čia liko nemažai šių ginklų.
-  citata_rodoma: "MP 40 dažnai\nšnekamojoje kalboje vadinamas „Šmaiseriu“ pagal konstruktoriaus\npavardę, kūrusio kitą dar Pirmojo pasaulinio karo pabaigoje pasirodžiusį,\npirmąjį vokiečių masiškai gamintą pistoletą kulkosvaidį MP 18. Po vokiečių\natsitraukimo iš Lietuvos teritorijos čia liko nemažai šių ginklų."
+  citata_rodoma: |
+    MP 40 dažnai
+    šnekamojoje kalboje vadinamas „Šmaiseriu“ pagal konstruktoriaus
+    pavardę, kūrusio kitą dar Pirmojo pasaulinio karo pabaigoje pasirodžiusį,
+    pirmąjį vokiečių masiškai gamintą pistoletą kulkosvaidį MP 18. Po vokiečių
+    atsitraukimo iš Lietuvos teritorijos čia liko nemažai šių ginklų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

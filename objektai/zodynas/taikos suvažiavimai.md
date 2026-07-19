@@ -94,7 +94,14 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
     taikos suvažiavimais.
     Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
-  citata_rodoma: "Reformai atlikti buvo sudarytos apskrityse valstiečių ko-\nmisijos, apskritys padalintos į apylinkes, kurių priešaky bu-\nvo pastatyti taikos tarpininkai, o didesniesiems nesu-\nsipratimams spręsti — visų tarpininkų suvažiavimai, vadinami\ntaikos suvažiavimais.\nBaudžiavos panaikinimo vykdymas buvo pačių dvarininkų\nrankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo."
+  citata_rodoma: |
+    Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
+    misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
+    vo pastatyti taikos tarpininkai, o didesniesiems nesu-
+    sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami
+    taikos suvažiavimais.
+    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
+    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

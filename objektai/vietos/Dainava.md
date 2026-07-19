@@ -95,7 +95,12 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
     Dainava (Denowe, Deynowe, Dainowe). Ją kai kas, esą, vadinąs
     Jotvingiais (« Denowe totą, quam etiam quidam Jetwesen vocant »,
     PUB, I, 2 nr. 79).
-  citata_rodoma: "Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl\nkurių pirmojo autentiškumo nėra keliama abejonių, yra minima\nDainava (Denowe, Deynowe, Dainowe). Ją kai kas, esą, vadinąs\nJotvingiais (« Denowe totą, quam etiam quidam Jetwesen vocant »,\nPUB, I, 2 nr. 79)."
+  citata_rodoma: |
+    Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl
+    kurių pirmojo autentiškumo nėra keliama abejonių, yra minima
+    Dainava (Denowe, Deynowe, Dainowe). Ją kai kas, esą, vadinąs
+    Jotvingiais (« Denowe totą, quam etiam quidam Jetwesen vocant »,
+    PUB, I, 2 nr. 79).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

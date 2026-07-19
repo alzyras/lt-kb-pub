@@ -99,7 +99,9 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
   citata_originali: |
     Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
     buvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100.
-  citata_rodoma: "Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje\nbuvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100."
+  citata_rodoma: |
+    Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
+    buvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -122,7 +124,13 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
     ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
     metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
     dienų108.
-  citata_rodoma: "„Pelplino analų“\nteksto analizė leidžia manyti, kad „Seniausieji Prūsijos analai“, iš kurių padarytos mūsų\nminėtos išlikusios kopijos, pirmajame savo raidos etape apėmė iš esmės 1230—1293\nm. įvykius101.\n  „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat\nTorunės analai (originalios žinios prasideda XIV a."
+  citata_rodoma: |
+    „Pelplino analų“
+    teksto analizė leidžia manyti, kad „Seniausieji Prūsijos analai“, iš kurių padarytos mūsų
+    minėtos išlikusios kopijos, pirmajame savo raidos etape apėmė iš esmės 1230—1293
+    m. įvykius101.
+      „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
+    Torunės analai (originalios žinios prasideda XIV a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

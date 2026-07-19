@@ -58,7 +58,9 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
     duotą 1386 m. gegužės 10 d. Žiūr. A. Prochaska, Nieznany akt homogialny
     Witolda, Kwartalnik histor. IX t., 234 p.
     (^2) ) C. ep„ V., 234 nr., (^3) ) Žerb.
-  citata_rodoma: "Žiūr. A. Prochaska, Nieznany akt homogialny\nWitolda, Kwartalnik histor. IX t., 234 p."
+  citata_rodoma: |
+    Žiūr. A. Prochaska, Nieznany akt homogialny
+    Witolda, Kwartalnik histor. IX t., 234 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

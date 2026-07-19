@@ -55,7 +55,8 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
     buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ –
     saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir
     eilinį žmogų).
-  citata_rodoma: "saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir"
+  citata_rodoma: |
+    saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

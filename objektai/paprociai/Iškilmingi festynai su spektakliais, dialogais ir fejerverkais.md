@@ -85,7 +85,8 @@ Nenurodyta
     Szkoda zes JWWMco Pan dobrodziey prędzey
     do nas nieprzyiechał, bo tu teraż pełno spektakulow, dyalogow, a w sobotę wolny feierwerk
     orderowy nastąpi [...], 1754 07 28. Antakalnis.
-  citata_rodoma: "Szkoda zes JWWMco Pan dobrodziey prędzey do nas nieprzyiechał, bo tu teraż pełno spektakulow, dyalogow, a w sobotę wolny feierwerk orderowy nastąpi [...], 1754 07 28. Antakalnis."
+  citata_rodoma: |
+    Szkoda zes JWWMco Pan dobrodziey prędzey do nas nieprzyiechał, bo tu teraż pełno spektakulow, dyalogow, a w sobotę wolny feierwerk orderowy nastąpi [...], 1754 07 28. Antakalnis.
   statusas: verified
   atnaujinta: "2026-07-14 10:29"
   teiginio_tipas: faktas

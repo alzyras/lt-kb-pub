@@ -86,7 +86,11 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
     tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra-
     simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
     pelnus paskirtas Varšuvos gubernatorium.
-  citata_rodoma: "Tačiau jis neketino pasiduoti. Padaręs\ntikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra-\nsimušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-\npelnus paskirtas Varšuvos gubernatorium."
+  citata_rodoma: |
+    Tačiau jis neketino pasiduoti. Padaręs
+    tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra-
+    simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
+    pelnus paskirtas Varšuvos gubernatorium.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +110,11 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
     Dembinskio rinktinė (apie 3.500 karių). Rusai tuo tarpu atga-
     beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
     įmanoma buvo kariauti.
-  citata_rodoma: "Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik\nDembinskio rinktinė (apie 3.500 karių). Rusai tuo tarpu atga-\nbeno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-\nįmanoma buvo kariauti."
+  citata_rodoma: |
+    Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik
+    Dembinskio rinktinė (apie 3.500 karių). Rusai tuo tarpu atga-
+    beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
+    įmanoma buvo kariauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

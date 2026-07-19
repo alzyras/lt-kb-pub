@@ -140,7 +140,20 @@ Nenurodyta
     jį pagerbęs, bet nieko doro nepažadėjęs. Tuo tarpu Va­
     siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
     pradėjo karo, bet žalos daryti nevengė.
-  citata_rodoma: "Netru­\nkus liautasi grasinti ginklu:\nšitai patenkino neveiklų\nkaralių, tačiau valstybei iš to buvo maža naudos. Su­\nkruto visi nelyginant iš gilaus miego pabudę tik tada,\nkai sukrėtė širdis tarytum netoliese staiga blykstelėjęs\nžaibas skitų įsibrovimas.\nKaralius, jausdamas, jog\n1488 m e ta i\ndiena nuo dienos vis labiau\nsilpsta, žinojo, kad artėja pa­\nskutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­\nsokias progas, iškelti sūnus į deramas aukštybes."
+  citata_rodoma: |
+    Netru­
+    kus liautasi grasinti ginklu:
+    šitai patenkino neveiklų
+    karalių, tačiau valstybei iš to buvo maža naudos. Su­
+    kruto visi nelyginant iš gilaus miego pabudę tik tada,
+    kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs
+    žaibas skitų įsibrovimas.
+    Karalius, jausdamas, jog
+    1488 m e ta i
+    diena nuo dienos vis labiau
+    silpsta, žinojo, kad artėja pa­
+    skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
+    sokias progas, iškelti sūnus į deramas aukštybes.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

@@ -97,7 +97,10 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     Kryžių kalne žmonės statė jų vis daugiau. Taip Kryžių kalnas (jį 1993 m.
     aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
     Golgota.
-  citata_rodoma: "Taip Kryžių kalnas (jį 1993 m. \naplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška \nGolgota."
+  citata_rodoma: |
+    Taip Kryžių kalnas (jį 1993 m.
+    aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
+    Golgota.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +126,13 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
     Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
     metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: "Pir-\nminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo \nsėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.\nPopiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos \nRespublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas \nmetropolitas Audrys Juozas Bačkis."
+  citata_rodoma: |
+    Pir-
+    minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
+    sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
+    Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
+    Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
+    metropolitas Audrys Juozas Bačkis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

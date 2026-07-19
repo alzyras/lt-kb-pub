@@ -80,7 +80,10 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
     Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych: Problem
     pierwotnej lokalizacji —Sprawozdania Towarzystwa Naukowego w Toruniu, Toruń, 1977,
     Nr. 29, s. 54—57.
-  citata_rodoma: "Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych: Problem\npierwotnej lokalizacji —Sprawozdania Towarzystwa Naukowego w Toruniu, Toruń, 1977,\nNr. 29, s. 54—57."
+  citata_rodoma: |
+    Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych: Problem
+    pierwotnej lokalizacji —Sprawozdania Towarzystwa Naukowego w Toruniu, Toruń, 1977,
+    Nr. 29, s. 54—57.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

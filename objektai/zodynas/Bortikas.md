@@ -135,7 +135,11 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
     vakaruose — su Varmija, o šiaurėje — su Natangija ir
     Nadruva.
     1 Sledzenie początkow Narodow Slawianskich.
-  citata_rodoma: "Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­\ntis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį\nšoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino\nartileristus3."
+  citata_rodoma: |
+    Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­
+    tis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį
+    šoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino
+    artileristus3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

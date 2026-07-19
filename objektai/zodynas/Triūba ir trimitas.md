@@ -79,7 +79,9 @@ Terminas vartojamas kerdžiaus darbo ir kaimo signalų perdavimo kontekste.
     kaimiečių gerbiamas, pabaigė savo amželį.
     Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas,
     vadinamas triūba.
-  citata_rodoma: "Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas, \nvadinamas triūba"
+  citata_rodoma: |
+    Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas,
+    vadinamas triūba
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

@@ -71,7 +71,14 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
     šias Aukso ordai buvusias paval-
     džias žemes prijungdamas prie LDK.
     1396 m.
-  citata_rodoma: "Tų metų ru-\ndenį Vytauto nurodymu Skirgaila,\nžygiuodamas iš Kijevo į pietus,\npaėmė Čerkasus ir Zvenigorodą,\nšias Aukso ordai buvusias paval-\ndžias žemes prijungdamas prie LDK.\n1396 m."
+  citata_rodoma: |
+    Tų metų ru-
+    denį Vytauto nurodymu Skirgaila,
+    žygiuodamas iš Kijevo į pietus,
+    paėmė Čerkasus ir Zvenigorodą,
+    šias Aukso ordai buvusias paval-
+    džias žemes prijungdamas prie LDK.
+    1396 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

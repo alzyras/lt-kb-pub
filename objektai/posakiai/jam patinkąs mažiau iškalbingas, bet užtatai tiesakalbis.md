@@ -88,7 +88,12 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
     kalbis.
-  citata_rodoma: "Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,\ndažnai griebdavosi sąmojaus ir lakoniškumo. O kai vėl kartą jo akyse\nkažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­\nrė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­\nkalbis."
+  citata_rodoma: |
+    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
+    dažnai griebdavosi sąmojaus ir lakoniškumo. O kai vėl kartą jo akyse
+    kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
+    rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
+    kalbis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

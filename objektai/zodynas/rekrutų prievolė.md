@@ -150,7 +150,11 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
     mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
     dar nebuvo pasiruošta.
-  citata_rodoma: "1863–1864 metų sukilimas \n1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-\nmas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam \ndar nebuvo pasiruošta."
+  citata_rodoma: |
+    1863–1864 metų sukilimas
+    1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
+    mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
+    dar nebuvo pasiruošta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -171,7 +175,8 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     tautos formavimasis vyko ta pačia kryptimi.
     LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
     padėties iš esmės nepakeitė.
-  citata_rodoma: "LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių"
+  citata_rodoma: |
+    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -189,7 +194,8 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
     prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
     skelbto rekrutų ėmimo.
-  citata_rodoma: "prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-"
+  citata_rodoma: |
+    prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

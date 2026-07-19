@@ -175,7 +175,33 @@ Nenurodyta
     liodamas išleisiąs į Maskvą atsakingesnius pasiunti­
     nius, kurie ir susitartų dėl taikos. Šitaip jis kalbėjo
     Vengrijos karaliaus pasiuntiniui.
-  citata_rodoma: "Ivanas atsakė, jog ir jis di­\ndžiai trokšta, kad visi krikš­\nčionys, sutelkę jėgas, sėk­\nmingai pasipriešintų maho­\nmetonų tironijai, tačiau, pri-\nK ai \natsirado \nv iltis \nsu d a r y ti taiką, m ask- \nv ė n a i \ntrečią \nk artą \na p gu la Sm olen ską\n5 7 2\n\nverstas kariauti prieš Aleksandrą, tuo tarpu negali pri­\nsidėti prie bendros sąjungos. Esą jis niekad negalė­\nsiąs užmiršti, kaip smarkiai jam kenkęs Aleksandras: \nneminint rusų tikėjimui padarytų senųjų skriaudų, vi­\nsai neseniai su čekų bei vokiečių algininkais nunioko­\njęs Maskvos valstybės pakraščius, o praėjusiais metais \nsuleidęs Užvolgio skitus į Seversko žemę. Vis dėl­\nto jo, Ivano, širdis neatsisakanti taikos, jeigu Alek­\nsandras neatmesiąs teisingų taikos sąlygų ir neatidė­\nliodamas išleisiąs į Maskvą atsakingesnius pasiunti­\nnius, kurie ir susitartų dėl taikos."
+  citata_rodoma: |
+    Ivanas atsakė, jog ir jis di­
+    džiai trokšta, kad visi krikš­
+    čionys, sutelkę jėgas, sėk­
+    mingai pasipriešintų maho­
+    metonų tironijai, tačiau, pri-
+    K ai
+    atsirado
+    v iltis
+    su d a r y ti taiką, m ask-
+    v ė n a i
+    trečią
+    k artą
+    a p gu la Sm olen ską
+    5 7 2
+
+    verstas kariauti prieš Aleksandrą, tuo tarpu negali pri­
+    sidėti prie bendros sąjungos. Esą jis niekad negalė­
+    siąs užmiršti, kaip smarkiai jam kenkęs Aleksandras:
+    neminint rusų tikėjimui padarytų senųjų skriaudų, vi­
+    sai neseniai su čekų bei vokiečių algininkais nunioko­
+    jęs Maskvos valstybės pakraščius, o praėjusiais metais
+    suleidęs Užvolgio skitus į Seversko žemę. Vis dėl­
+    to jo, Ivano, širdis neatsisakanti taikos, jeigu Alek­
+    sandras neatmesiąs teisingų taikos sąlygų ir neatidė­
+    liodamas išleisiąs į Maskvą atsakingesnius pasiunti­
+    nius, kurie ir susitartų dėl taikos.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -207,7 +233,26 @@ Nenurodyta
     tekęs sūnaus, atsisakė sunkių karvedžio pareigų, visi
     šie pasikeitimai ir sužadino Ivanui viltį, jog dabar su­
     silauksiąs kur kas didesnės sėkmės nei ligi šiol.
-  citata_rodoma: "Išvykstantiems pasiuntiniams buvo\nnurodyta, kad amžina taika galinti būti sudaryta, jei­\ngu Maskvos valdovas priimsiąs šias svarbiausias są-\n5 73\n\n## Puslapis 572\n\nlygas: atstatyti pilis, sugrą-\nSudaro šešerių  m e tų\nžinti belaisvius bei perbėgė-\npa lia u b a s\nliūs ir įtraukti į sutarties\ntekstą Livonijos riterių ma­\ngistrą. Vargais negalais abi pusės sutarė dėl šešerių\nmetų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­\ngomis. Pavyko atgauti vieną kitą nereikšmingą pilį,\nbet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa­\ngaliau didikų, prie Vedrošos paimtų į nelaisvę, kurie\npasiliko Maskvos rankose."
+  citata_rodoma: |
+    Išvykstantiems pasiuntiniams buvo
+    nurodyta, kad amžina taika galinti būti sudaryta, jei­
+    gu Maskvos valdovas priimsiąs šias svarbiausias są-
+    5 73
+
+    ## Puslapis 572
+
+    lygas: atstatyti pilis, sugrą-
+    Sudaro šešerių  m e tų
+    žinti belaisvius bei perbėgė-
+    pa lia u b a s
+    liūs ir įtraukti į sutarties
+    tekstą Livonijos riterių ma­
+    gistrą. Vargais negalais abi pusės sutarė dėl šešerių
+    metų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­
+    gomis. Pavyko atgauti vieną kitą nereikšmingą pilį,
+    bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa­
+    galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie
+    pasiliko Maskvos rankose.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

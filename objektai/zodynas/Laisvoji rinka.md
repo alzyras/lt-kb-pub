@@ -100,7 +100,10 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
     tose buvusiose komunistinio bloko valstybėse. Netgi Suomijos, laisvosios
     rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuos-
     mukį, nes 22 proc. savo produkcijos Suomija eksportavo į SSRS.
-  citata_rodoma: "Netgi Suomijos, laisvosios\nrinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuos-\nmukį, nes 22 proc. savo produkcijos Suomija eksportavo į SSRS."
+  citata_rodoma: |
+    Netgi Suomijos, laisvosios
+    rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuos-
+    mukį, nes 22 proc. savo produkcijos Suomija eksportavo į SSRS.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +126,11 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
     guma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometi-
     nį Lietuvos AS pirmininką V. Landsbergį, nors sunkumai buvo senosios
     ekonomikos pasekmės.
-  citata_rodoma: "Paaiškėjus, kad dauguma buvusių ko-\nlūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti\nžemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis nau-\njais laisvosios rinkos pagrindais ir per keletą metų bankrutavo."
+  citata_rodoma: |
+    Paaiškėjus, kad dauguma buvusių ko-
+    lūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti
+    žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis nau-
+    jais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

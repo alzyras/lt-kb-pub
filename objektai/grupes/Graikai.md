@@ -423,7 +423,15 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     cas. Antra vertus, persų karalius, pasak Herodoto, savo
     dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
     čio tarytum padėjo skitams įgyvendinti jų ketinimus.
-  citata_rodoma: "39\nPo kurio laiko, 514 metais prieš Kristaus gimimą, kai\nskitai nė neketino žemintis, pats Darijus patraukė prieš\nIndatirą. Persų būriai įžengė į Europą ir, graikų sąjun­\ngininkų remiami, brovėsi Dunojaus link. Kažkur prie\nšiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam\npastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­\nkams."
+  citata_rodoma: |
+    39
+    Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
+    skitai nė neketino žemintis, pats Darijus patraukė prieš
+    Indatirą. Persų būriai įžengė į Europą ir, graikų sąjun­
+    gininkų remiami, brovėsi Dunojaus link. Kažkur prie
+    šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
+    pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­
+    kams.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

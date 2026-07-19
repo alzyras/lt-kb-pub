@@ -101,7 +101,8 @@ Nenurodyta
     prikeltuves.
     Vieno
     juokingo žodžio užtenka viso ryto nuotaikai pakelti.
-  citata_rodoma: "Vieno juokingo žodžio užtenka viso ryto nuotaikai pakelti."
+  citata_rodoma: |
+    Vieno juokingo žodžio užtenka viso ryto nuotaikai pakelti.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -120,7 +121,8 @@ Nenurodyta
     sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuve“ .
     Iš to Juozas pasigavo ir sako: „Žiūrėkite, kas jai galvoje, mat, „prikel-
     tuvė“ .
-  citata_rodoma: "Pramogos užtekdavo keliems rytams. Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuvė“ . Iš to Juozas pasigavo ir sako: „Žiūrėkite, kas jai galvoje, mat, „prikeltuvė“ ."
+  citata_rodoma: |
+    Pramogos užtekdavo keliems rytams. Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuvė“ . Iš to Juozas pasigavo ir sako: „Žiūrėkite, kas jai galvoje, mat, „prikeltuvė“ .
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -140,7 +142,8 @@ Nenurodyta
     Aš klausy­
     damas dėjaus sau į galvą, kad gal duona ir geriau už pinigus.
     Štai pasakos klojime girdėtos.
-  citata_rodoma: "Štai pasakos klojime girdėtos."
+  citata_rodoma: |
+    Štai pasakos klojime girdėtos.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -163,7 +166,8 @@ Nenurodyta
     jos nesproginėja ir liepsningai dega.
     Aš kurstydavau, šildydavaus ir
     klausydavau juokavimų.
-  citata_rodoma: "Aš kurstydavau, šildydavaus ir klausydavau juokavimų."
+  citata_rodoma: |
+    Aš kurstydavau, šildydavaus ir klausydavau juokavimų.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

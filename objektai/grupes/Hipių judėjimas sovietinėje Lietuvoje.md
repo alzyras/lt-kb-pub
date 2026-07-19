@@ -90,7 +90,8 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
     pavasaris suaktyvino kitaminčius. Sovietinėje sistemoje egzistavę hipių ar
     pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką
     visuomenę kaip hipiai Vakaruose.
-  citata_rodoma: "pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką"
+  citata_rodoma: |
+    pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -110,7 +111,8 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
     mečio pradžios įvykiais Vilniuje ir Kaune. 1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
     net 300 SSRS hipių suvažiavimu.
-  citata_rodoma: "restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar"
+  citata_rodoma: |
+    restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

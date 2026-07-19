@@ -72,7 +72,12 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
     (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
     tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
     Tverės kunigaikštį Mykolą10 11.
-  citata_rodoma: "Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį\nSviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I\n(1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas\ntačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar\nTverės kunigaikštį Mykolą10 11."
+  citata_rodoma: |
+    Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
+    Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
+    (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
+    tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
+    Tverės kunigaikštį Mykolą10 11.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

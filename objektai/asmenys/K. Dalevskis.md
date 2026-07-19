@@ -53,7 +53,7 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    tolių“. Tačiau, kai kurių
+    Tačiau, kai kurių
     sukilėlių nuomone,
     jie mūšio nepralai-
     mėjo. Taip tvirtino
@@ -61,7 +61,15 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
     damas, kad rusai va-
     kare iš kautynių vietos
     taip pat pasitraukė.
-  citata_rodoma: "Tačiau, kai kurių\nsukilėlių nuomone,\njie mūšio nepralai-\nmėjo. Taip tvirtino\nK. Dalevskis, nurody-\ndamas, kad rusai va-\nkare iš kautynių vietos\ntaip pat pasitraukė."
+  citata_rodoma: |
+    Tačiau, kai kurių
+    sukilėlių nuomone,
+    jie mūšio nepralai-
+    mėjo. Taip tvirtino
+    K. Dalevskis, nurody-
+    damas, kad rusai va-
+    kare iš kautynių vietos
+    taip pat pasitraukė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

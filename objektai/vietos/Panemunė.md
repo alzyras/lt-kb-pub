@@ -109,7 +109,11 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
     nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
     susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
     dėlto atsiuntė savo brolį Kaributą pagalbon.
-  citata_rodoma: "Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­\nnešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra\nsusimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis\ndėlto atsiuntė savo brolį Kaributą pagalbon."
+  citata_rodoma: |
+    Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
+    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
+    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
+    dėlto atsiuntė savo brolį Kaributą pagalbon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +132,10 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
     karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-
     gėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir
     patsai Vilniaus miestas.
-  citata_rodoma: "karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-\ngėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir\npatsai Vilniaus miestas."
+  citata_rodoma: |
+    karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-
+    gėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir
+    patsai Vilniaus miestas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

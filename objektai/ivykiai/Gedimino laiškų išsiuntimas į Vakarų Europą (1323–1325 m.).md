@@ -150,7 +150,11 @@ Nenurodyta
     kardo jis veikė ir diplomatija. Anų sunkių kovų metu yra atsiradę
     šeši laiškai, kurie Gedimino vardu buvo išsiuntinėti į Vakarų Europą
     įvairiems adresatams.
-  citata_rodoma: "Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia\nkardo jis veikė ir diplomatija. Anų sunkių kovų metu yra atsiradę\nšeši laiškai, kurie Gedimino vardu buvo išsiuntinėti į Vakarų Europą\nįvairiems adresatams."
+  citata_rodoma: |
+    Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia
+    kardo jis veikė ir diplomatija. Anų sunkių kovų metu yra atsiradę
+    šeši laiškai, kurie Gedimino vardu buvo išsiuntinėti į Vakarų Europą
+    įvairiems adresatams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -169,7 +173,13 @@ Nenurodyta
     ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
     Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
     popiežiaus tarpininkavimo.
-  citata_rodoma: "Laiškų pagrindinė\nmintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­\ntetą, žadėjo krikštytis. Tur būt, Gediminas nebuvo tiek daug\nketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.\nGediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė\npopiežiaus tarpininkavimo."
+  citata_rodoma: |
+    Laiškų pagrindinė
+    mintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­
+    tetą, žadėjo krikštytis. Tur būt, Gediminas nebuvo tiek daug
+    ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
+    Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
+    popiežiaus tarpininkavimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -189,7 +199,14 @@ Nenurodyta
     ir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,
     pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­
     tytos katalikų bažnyčios.
-  citata_rodoma: "Savo laiškuose Vokietijon Gediminas kvietė Lietuvon visokiau­\nsius amatininkus, pirklius, paminėdamas ir riterius su valstiečiais.\nKolonistams žadėjo jis daug lengvatų bei privilegijų ir per 10 metų\nnereikalauti iš jų jokių mokesčių. Rašydamas Saksų pranciškonams\nir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,\npažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­\ntytos katalikų bažnyčios."
+  citata_rodoma: |
+    Savo laiškuose Vokietijon Gediminas kvietė Lietuvon visokiau­
+    sius amatininkus, pirklius, paminėdamas ir riterius su valstiečiais.
+    Kolonistams žadėjo jis daug lengvatų bei privilegijų ir per 10 metų
+    nereikalauti iš jų jokių mokesčių. Rašydamas Saksų pranciškonams
+    ir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,
+    pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­
+    tytos katalikų bažnyčios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

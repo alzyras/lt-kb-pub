@@ -108,7 +108,11 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: "Karinėje srityje \nS. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-\nbes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras \nJ. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai."
+  citata_rodoma: |
+    Karinėje srityje
+    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
+    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
+    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +132,10 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas.
-  citata_rodoma: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas \nMironas."
+  citata_rodoma: |
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
+    Mironas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

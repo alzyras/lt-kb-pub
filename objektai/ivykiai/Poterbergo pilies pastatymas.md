@@ -90,7 +90,20 @@ Nenurodyta
     nesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja
     klaida, kur kas didesnė nei ankstesnė.
     48(47).
-  citata_rodoma: "Apie Poterbergo pilies pastatymą\n\n   Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis  tai\nvienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp\ndabartinio Kulmo miesto ir senosios pilies pastatė naują, kurią praminė nuo tos kalvos\nvardo Poterbergu287 ir kurioje paliko 12 brolių ir daug ginklanešių. Pilį pastatė tam, kad\nnesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja\nklaida, kur kas didesnė nei ankstesnė.\n\n\n\n\n                    48(47)."
+  citata_rodoma: |
+    Apie Poterbergo pilies pastatymą
+
+       Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis  tai
+    vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp
+    dabartinio Kulmo miesto ir senosios pilies pastatė naują, kurią praminė nuo tos kalvos
+    vardo Poterbergu287 ir kurioje paliko 12 brolių ir daug ginklanešių. Pilį pastatė tam, kad
+    nesumanytų šioje kalvoje ko statyti Sventopelkas ir šitaip nebūtų buvusi padaryta nauja
+    klaida, kur kas didesnė nei ankstesnė.
+
+
+
+
+                        48(47).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

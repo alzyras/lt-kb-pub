@@ -104,7 +104,8 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
     iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
     gubernatoriaus skiriamu apskrities viršininku priešakyje.
-  citata_rodoma: "iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su"
+  citata_rodoma: |
+    iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +125,8 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
     Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
     dėjusiai veikti generalgubernatoriaus institucijai.
-  citata_rodoma: "nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos"
+  citata_rodoma: |
+    nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

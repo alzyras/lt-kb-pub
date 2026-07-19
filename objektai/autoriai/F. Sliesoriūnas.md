@@ -70,7 +70,9 @@ Sliesoriūno straipsniai^117.
     diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
     (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117.
-  citata_rodoma: "1831 m. sukilimą liečia F. Sliesoriūno\nstraipsniai^117."
+  citata_rodoma: |
+    1831 m. sukilimą liečia F. Sliesoriūno
+    straipsniai^117.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

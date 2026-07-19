@@ -63,7 +63,11 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 
     kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
     laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
-  citata_rodoma: "Griežčiausiai neigiamai at-\nsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-\nkados\" (Przenigdy\"). Apskritai mūsų bajorijos nusistatymas buvo\nlaikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje."
+  citata_rodoma: |
+    Griežčiausiai neigiamai at-
+    sakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-
+    kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
+    laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -83,7 +87,12 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
     nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
     cialia brošiūra atsakė: „Niekad, niekados".
-  citata_rodoma: "Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai\nparašyta brošiūra — „Lietuvių Balsas\" (1902 m.), kur\njaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-\nnimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-\ncialia brošiūra atsakė: „Niekad, niekados\"."
+  citata_rodoma: |
+    Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
+    parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur
+    jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
+    nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
+    cialia brošiūra atsakė: „Niekad, niekados".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

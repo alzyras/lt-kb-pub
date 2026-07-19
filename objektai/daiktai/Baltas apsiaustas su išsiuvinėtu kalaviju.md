@@ -93,7 +93,11 @@ Nenurodyta
     raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
     legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
     ordino prieauglių.
-  citata_rodoma: "Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be\nraudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­\nlegijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo\nordino prieauglių."
+  citata_rodoma: |
+    Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
+    raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
+    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
+    ordino prieauglių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

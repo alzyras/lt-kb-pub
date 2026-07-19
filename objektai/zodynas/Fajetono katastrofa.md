@@ -123,7 +123,11 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
     jokiems vulkaniniams fenomenams, įvyko sprogimai, ku­
     rie į didelį aukštį išmetė pirmykščių uolų mases ir nusviedė
     jas iš šiaurės į pietus.
-  citata_rodoma: "Nugaliu suvokti, jog legendinėje senovėje žinoma Fa­\njetono katastrofa galėjo būti priminimas nukritimo kokios\nnedidelės planetos arba dar mažesnio, nepalyginti mažes­\nnio už Mėnulį palydovo."
+  citata_rodoma: |
+    Nugaliu suvokti, jog legendinėje senovėje žinoma Fa­
+    jetono katastrofa galėjo būti priminimas nukritimo kokios
+    nedidelės planetos arba dar mažesnio, nepalyginti mažes­
+    nio už Mėnulį palydovo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

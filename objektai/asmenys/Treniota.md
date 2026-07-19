@@ -321,7 +321,13 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
     atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
     neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais ir kitais daiktais.
-  citata_rodoma: "160 (155). Apie Birgelavos pilies sugriovimą\n\n   Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,\nsubūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo\njuos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias\nžemes nusiaubė, grobdamas ir degindamas."
+  citata_rodoma: |
+    160 (155). Apie Birgelavos pilies sugriovimą
+
+       Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,
+    subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo
+    juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias
+    žemes nusiaubė, grobdamas ir degindamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -341,7 +347,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
     veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
     Mindaugą.
-  citata_rodoma: "veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė"
+  citata_rodoma: |
+    veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -359,7 +366,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo
     Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje sta-
     čiatikybę priėmęs kunigaikštis.
-  citata_rodoma: "1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo"
+  citata_rodoma: |
+    1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -379,7 +387,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
     iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
     Livonija.
-  citata_rodoma: "iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su"
+  citata_rodoma: |
+    iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -400,7 +409,11 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą. Ypač glaudžiai
     lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
     įėjo į Mindaugo valstybės sudėtį31.
-  citata_rodoma: "Priešiškuose lietuviams\nšaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo\nmetu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė\nOrdino užnugarį pavyslyje (III, 160)."
+  citata_rodoma: |
+    Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -426,7 +439,16 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     siaubė Rusią; štai todėl, numatydamas įvairialypį pavo­
     jų, draskomas prieštaringų jausmų, jis nežinojo, ko
     imtis.
-  citata_rodoma: "Kad kerštas būtų kuo didesnis, ėmė visomis išga­\nlėmis rengtis karui: iš visos Skitijos jis surinko kur\nkas didesnę kariuomenę, nei kada anksčiau buvo su­\nrenkama: sutelkė didžiules Užvolgio, Nogajaus, Kaza­\nnės, Krymo ordas. Treniota negaišdamas griebėsi gink­\nlo: jis nenorėjo nusileisti tėvui nei narsa, nei sėkme.\nJis sakėsi laikąs laimingu ženklu, kad sūnus vėl išve­\nsianti į kovos lauką ta pati priežastis, kuri neseniai tė­\nvus paskatinusi pulti vienam kitą."
+  citata_rodoma: |
+    Kad kerštas būtų kuo didesnis, ėmė visomis išga­
+    lėmis rengtis karui: iš visos Skitijos jis surinko kur
+    kas didesnę kariuomenę, nei kada anksčiau buvo su­
+    renkama: sutelkė didžiules Užvolgio, Nogajaus, Kaza­
+    nės, Krymo ordas. Treniota negaišdamas griebėsi gink­
+    lo: jis nenorėjo nusileisti tėvui nei narsa, nei sėkme.
+    Jis sakėsi laikąs laimingu ženklu, kad sūnus vėl išve­
+    sianti į kovos lauką ta pati priežastis, kuri neseniai tė­
+    vus paskatinusi pulti vienam kitą.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

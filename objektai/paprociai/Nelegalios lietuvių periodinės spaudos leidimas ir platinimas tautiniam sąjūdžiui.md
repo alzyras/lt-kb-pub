@@ -193,7 +193,14 @@ Nenurodyta
     kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės
     lietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra,
     poezija, originali ir verstinė, populiarūs mokslo straipsniai.
-  citata_rodoma: "V. Kudirka \nrašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-\nnys taps Lietuvos himnu. „Varpas“ laikėsi liberalios demokratijos pozicijų, \nkartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, \nkritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės \nlietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra, \npoezija, originali ir verstinė, populiarūs mokslo straipsniai."
+  citata_rodoma: |
+    V. Kudirka
+    rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
+    nys taps Lietuvos himnu. „Varpas“ laikėsi liberalios demokratijos pozicijų,
+    kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus,
+    kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės
+    lietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra,
+    poezija, originali ir verstinė, populiarūs mokslo straipsniai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -215,7 +222,16 @@ Nenurodyta
     Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
     partija, susikūrusi 1896 m.
-  citata_rodoma: "Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-\nsi rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos, \nužėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo \n1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-\nnas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-\njos ir geranoriškumo įsikūnijimas. \nSavo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių \ntautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų \npartija, susikūrusi 1896 m."
+  citata_rodoma: |
+    Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
+    si rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,
+    užėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo
+    1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
+    nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
+    jos ir geranoriškumo įsikūnijimas.
+    Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
+    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
+    partija, susikūrusi 1896 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +258,21 @@ Nenurodyta
     dvi kryptis: pasaulietinę – libera-
     liąją ir katalikiškąją – konservaty-
     viąją.
-  citata_rodoma: "Ši idėja įplieskė lietuvybės \nbranduolinio užtaiso grumėjimą. \nNors po trejų metų „Aušra“ dėl \nvidinių idėjinių nesutarimų ir fi-\nnansinių sunkumų sustojo ėjusi, \nlietuvių kaip savarankiškos tautos \nugdymo darbo tęsėjų gretas iš-\nplėtė, jie ėmė rengti ir leisti nau-\njus periodinius leidinius lietuvių \nkalba. 1889–1890 m. lietuviškasis \nsąjūdis ir spauda diferencijavosi į \ndvi kryptis: pasaulietinę – libera-\nliąją ir katalikiškąją – konservaty-\nviąją."
+  citata_rodoma: |
+    Ši idėja įplieskė lietuvybės
+    branduolinio užtaiso grumėjimą.
+    Nors po trejų metų „Aušra“ dėl
+    vidinių idėjinių nesutarimų ir fi-
+    nansinių sunkumų sustojo ėjusi,
+    lietuvių kaip savarankiškos tautos
+    ugdymo darbo tęsėjų gretas iš-
+    plėtė, jie ėmė rengti ir leisti nau-
+    jus periodinius leidinius lietuvių
+    kalba. 1889–1890 m. lietuviškasis
+    sąjūdis ir spauda diferencijavosi į
+    dvi kryptis: pasaulietinę – libera-
+    liąją ir katalikiškąją – konservaty-
+    viąją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

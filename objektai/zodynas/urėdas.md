@@ -183,7 +183,9 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     privilegijoje valstybinį antspaudą. Galingasis Radvila nenusileido.
     Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
     kanclerio urėdas, nusileido ir prispaudė antspaudą.
-  citata_rodoma: "Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-\nkanclerio urėdas, nusileido ir prispaudė antspaudą."
+  citata_rodoma: |
+    Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
+    kanclerio urėdas, nusileido ir prispaudė antspaudą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

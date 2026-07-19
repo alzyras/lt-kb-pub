@@ -280,7 +280,11 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir
     XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
     panijos valdose nenusileisdavo saulė.
-  citata_rodoma: "O kas nutiko didžiųjų ge-\nografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir\nXVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-\npanijos valdose nenusileisdavo saulė."
+  citata_rodoma: |
+    O kas nutiko didžiųjų ge-
+    ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir
+    XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
+    panijos valdose nenusileisdavo saulė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -299,7 +303,10 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     mikos. Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
     sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
     žygio Ispanija nekartojo.
-  citata_rodoma: "Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-\nsėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,\nžygio Ispanija nekartojo."
+  citata_rodoma: |
+    Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
+    sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
+    žygio Ispanija nekartojo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -321,7 +328,12 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
     dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
     teris Paulius Rubensas).
-  citata_rodoma: "Katalikybė buvo prielaida Italijos ir Is-\npanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-\ncūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų\ndvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-\nteris Paulius Rubensas)."
+  citata_rodoma: |
+    Katalikybė buvo prielaida Italijos ir Is-
+    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
+    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
+    teris Paulius Rubensas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -343,7 +355,11 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     baisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius
     prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios
     sakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol.
-  citata_rodoma: "Apie tai, kaip saracėnai nusiaubė Ispaniją\n\n  1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis\ndėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart. p. 408)."
+  citata_rodoma: |
+    Apie tai, kaip saracėnai nusiaubė Ispaniją
+
+      1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis
+    dėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart. p. 408).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -363,7 +379,11 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
     Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
     popiežių, kuriam ir išpažino visas savo nuodėmes.
-  citata_rodoma: "20. Apie Maljorkos ir Menorkos salų užėmimą\n\n  1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir\nMenorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33)."
+  citata_rodoma: |
+    20. Apie Maljorkos ir Menorkos salų užėmimą
+
+      1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
+    Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -384,7 +404,13 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     grobikišku antpuoliu trukdęs savo valdovui landgrafui tesėti savo šventą sumanymą.
     Grąžinęs tad grobį tiems, iš kurių buvo paėmęs, jis kreipėsi į savo valdovą, prašydamasis
     dovanojamas už nusikaltimą.
-  citata_rodoma: "24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga\n\n  1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą\nakmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir\nlotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo\nAdomo ligi Antikristo, iškeldamas aikštėn žmonių savybes."
+  citata_rodoma: |
+    24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
+
+      1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą
+    akmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir
+    lotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo
+    Adomo ligi Antikristo, iškeldamas aikštėn žmonių savybes.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

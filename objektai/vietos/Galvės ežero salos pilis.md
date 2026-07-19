@@ -129,7 +129,10 @@ Nenurodyta
 
     ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
     lebert de Lannoy.
-  citata_rodoma: "kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės\nežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil-\nlebert de Lannoy."
+  citata_rodoma: |
+    kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
+    ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil-
+    lebert de Lannoy.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

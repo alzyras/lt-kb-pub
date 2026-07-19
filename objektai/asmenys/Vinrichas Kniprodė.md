@@ -164,7 +164,15 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
     deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
     Maišiagalos, priartėjo prie Vilniaus pilių.
-  citata_rodoma: "Pirmą kartą 1365 m., kai di­\ndysis Prūsijos magistras Vinrichas Kniprodė, naudodama­\nsis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio \nsūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­\nliaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­\ntuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­\ndeginęs visus valsčius nuo Labūnavos iki pat Kernavės ir \nMaišiagalos, priartėjo prie Vilniaus pilių."
+  citata_rodoma: |
+    Pirmą kartą 1365 m., kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
+    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
+    Maišiagalos, priartėjo prie Vilniaus pilių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -190,7 +198,15 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
     apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
     mą amalo žaluma nuspalvintų jo vainiką.
-  citata_rodoma: "Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­\nvėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­\ndėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo\nJono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355\nmetų; tada tasai Jonas I buvo Varmijos vyskupas."
+  citata_rodoma: |
+    Turime kažkokį aprašymą šio medžio, kurį Bo­
+    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
+    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
+    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
+    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
+    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
+    Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
+    metų; tada tasai Jonas I buvo Varmijos vyskupas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

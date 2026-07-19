@@ -111,7 +111,11 @@ Nenurodyta
     minimi Lietuvos didžiojo kunigaikščio Gedimino taikos sutartyje
     su Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­
     nimas.
-  citata_rodoma: "Kronistui Dusburgui pažįstami Aukštaičiai (« Austechia »), 1322 m.\nminimi Lietuvos didžiojo kunigaikščio Gedimino taikos sutartyje\nsu Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­\nnimas."
+  citata_rodoma: |
+    Kronistui Dusburgui pažįstami Aukštaičiai (« Austechia »), 1322 m.
+    minimi Lietuvos didžiojo kunigaikščio Gedimino taikos sutartyje
+    su Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­
+    nimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -134,7 +138,13 @@ Nenurodyta
     nimas.
     Platus miškų ruožas skyrė lietuvių gyvenvietes nuo Polocko
     žemės.
-  citata_rodoma: "Kronistui Dusburgui pažįstami Aukštaičiai (« Austechia »), 1322 m.\nminimi Lietuvos didžiojo kunigaikščio Gedimino taikos sutartyje\nsu Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­\nnimas.\nPlatus miškų ruožas skyrė lietuvių gyvenvietes nuo Polocko\nžemės."
+  citata_rodoma: |
+    Kronistui Dusburgui pažįstami Aukštaičiai (« Austechia »), 1322 m.
+    minimi Lietuvos didžiojo kunigaikščio Gedimino taikos sutartyje
+    su Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­
+    nimas.
+    Platus miškų ruožas skyrė lietuvių gyvenvietes nuo Polocko
+    žemės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

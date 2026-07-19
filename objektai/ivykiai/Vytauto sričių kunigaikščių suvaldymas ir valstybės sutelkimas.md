@@ -178,7 +178,14 @@ Nenurodyta
     kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
     tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
     tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
-  citata_rodoma: "Iš visų čia suminėtų sri-\nčių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji\niš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,\nji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-\nkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-\ntauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-\ntauto tiesioginei valdžiai atiteko tik rytinė jos dalis."
+  citata_rodoma: |
+    Iš visų čia suminėtų sri-
+    čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
+    iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
+    ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
+    kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
+    tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
+    tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -197,7 +204,11 @@ Nenurodyta
     nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
     iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
     bajorai.
-  citata_rodoma: "Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi\nnepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti\niš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai\nbajorai."
+  citata_rodoma: |
+    Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi
+    nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
+    iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
+    bajorai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

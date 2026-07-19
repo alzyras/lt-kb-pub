@@ -133,7 +133,14 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
     Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
     mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
     macijos skyriai.
-  citata_rodoma: "miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos \nsąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami uolūs oku-\npacinės valdžios statytiniai, kiti įspėjami netarnauti priešui. Partizanai \ntrukdė okupacinės valdžios rinkimus, apšaudydavo balsavimo būstines, \nstabdė miško kirtimo ir išvežimo darbus, kovojo su prievartiniu kolūkių \nkūrimu, partizanų karo lauko teismai teisė ir baudė mirties bausme trė-\nmimų vykdytojus, sovietinius pareigūnus ir šnipus."
+  citata_rodoma: |
+    miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos
+    sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami uolūs oku-
+    pacinės valdžios statytiniai, kiti įspėjami netarnauti priešui. Partizanai
+    trukdė okupacinės valdžios rinkimus, apšaudydavo balsavimo būstines,
+    stabdė miško kirtimo ir išvežimo darbus, kovojo su prievartiniu kolūkių
+    kūrimu, partizanų karo lauko teismai teisė ir baudė mirties bausme trė-
+    mimų vykdytojus, sovietinius pareigūnus ir šnipus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -152,7 +159,10 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
     vos, jos buvo 50–100 proc. didesnės negu vadinamiesiems „darbo valstie-
     čiams“. Daug „buožių“ šeimų ištremtos per 1949 m. ir 1951 m. vežimus,
     kiti persikėlė gyventi į miestus ar kitas SSRS respublikas.
-  citata_rodoma: "„Buožėms“ padidinti mokesčiai ir pylia-\nvos, jos buvo 50–100 proc. didesnės negu vadinamiesiems „darbo valstie-\nčiams“."
+  citata_rodoma: |
+    „Buožėms“ padidinti mokesčiai ir pylia-
+    vos, jos buvo 50–100 proc. didesnės negu vadinamiesiems „darbo valstie-
+    čiams“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -180,7 +190,19 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
     stabdė miško kirtimo ir išvežimo darbus, kovojo su prievartiniu kolūkių
     kūrimu, partizanų karo lauko teismai teisė ir baudė mirties bausme trė-
     mimų vykdytojus, sovietinius pareigūnus ir šnipus.
-  citata_rodoma: "Užimant \nGrupė Lietuvos partizanų 1947 m.\n\n5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n211\nmiestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos \nsąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami uolūs oku-\npacinės valdžios statytiniai, kiti įspėjami netarnauti priešui. Partizanai \ntrukdė okupacinės valdžios rinkimus, apšaudydavo balsavimo būstines, \nstabdė miško kirtimo ir išvežimo darbus, kovojo su prievartiniu kolūkių \nkūrimu, partizanų karo lauko teismai teisė ir baudė mirties bausme trė-\nmimų vykdytojus, sovietinius pareigūnus ir šnipus."
+  citata_rodoma: |
+    Užimant
+    Grupė Lietuvos partizanų 1947 m.
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    211
+    miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos
+    sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami uolūs oku-
+    pacinės valdžios statytiniai, kiti įspėjami netarnauti priešui. Partizanai
+    trukdė okupacinės valdžios rinkimus, apšaudydavo balsavimo būstines,
+    stabdė miško kirtimo ir išvežimo darbus, kovojo su prievartiniu kolūkių
+    kūrimu, partizanų karo lauko teismai teisė ir baudė mirties bausme trė-
+    mimų vykdytojus, sovietinius pareigūnus ir šnipus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

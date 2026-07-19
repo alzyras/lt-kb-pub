@@ -78,7 +78,18 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
     ## Puslapis 181
 
     | 1881 m. jstojo į Rusijos kariuomenę.
-  citata_rodoma: "Ukmergės\nrinktinė turėjo veržtis Ukmergės-Utenos-\nZarasų kryptimi, Panevėžio rinktinė -\nKėdainių-Panevėžio-Rokiškio kryptimi.\n\nAtskirojo Joniškėlio partizanų, kitaip\nvadinamojo mirties bataliono kariai\n\n## Puslapis 181\n\n| 1881 m."
+  citata_rodoma: |
+    Ukmergės
+    rinktinė turėjo veržtis Ukmergės-Utenos-
+    Zarasų kryptimi, Panevėžio rinktinė -
+    Kėdainių-Panevėžio-Rokiškio kryptimi.
+
+    Atskirojo Joniškėlio partizanų, kitaip
+    vadinamojo mirties bataliono kariai
+
+    ## Puslapis 181
+
+    | 1881 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

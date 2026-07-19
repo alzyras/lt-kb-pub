@@ -129,7 +129,12 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
     lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
     už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
     rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: "P. Pakarklis plėtojo\nmintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą\nbuv. Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu\nvardu vadinami savo kaimynų, išpažinę vieną  ir tą pačią tikybą (dvasinės kultūros\nbendrumo požymis), sudarę vieną ir tą patį politinį vienetą5."
+  citata_rodoma: |
+    P. Pakarklis plėtojo
+    mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą
+    buv. Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
+    vardu vadinami savo kaimynų, išpažinę vieną  ir tą pačią tikybą (dvasinės kultūros
+    bendrumo požymis), sudarę vieną ir tą patį politinį vienetą5.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -157,7 +162,13 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
     **_Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pra­
     džioje_** **(AkMD, t. 34, 1970, 85-96 p.);** **_Slaptos studentų draugijos Vilniaus
     Medicinos-Chirurgijos Akademijoje 1832-1841 m._** **(AkMD, t. 4, 1958, 135-**
-  citata_rodoma: ", 57-74 p.**\n(^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­\nžiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo\nknyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**\n(^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,\nt."
+  citata_rodoma: |
+    , 57-74 p.**
+    (^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­
+    žiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo
+    knyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**
+    (^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,
+    t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

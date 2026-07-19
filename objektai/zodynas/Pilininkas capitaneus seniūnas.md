@@ -103,7 +103,7 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    T. VII, p. 370-374. Re­
+    370-374. Re­
     gis, iš jo kilusi Hanulu giminė, kurių
     36
 
@@ -117,7 +117,21 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
     kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
     pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
     nių, turėjo slėptis Trakų pilyje34.
-  citata_rodoma: "370-374. Re­\ngis, iš jo kilusi Hanulu giminė, kurių\n36\n\n## Puslapis 53\n\nI  KNYGA\nVilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­\ngailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi \npilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas \nVilniaus gyventojų palankumas didžia dalimi nulėmė eigą \nkovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat \npralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­\nnių, turėjo slėptis Trakų pilyje34."
+  citata_rodoma: |
+    370-374. Re­
+    gis, iš jo kilusi Hanulu giminė, kurių
+    36
+
+    ## Puslapis 53
+
+    I  KNYGA
+    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
+    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
+    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
+    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
+    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
+    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
+    nių, turėjo slėptis Trakų pilyje34.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

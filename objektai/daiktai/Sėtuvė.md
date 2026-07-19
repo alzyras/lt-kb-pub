@@ -82,7 +82,8 @@ Nenurodyta
     kam sėtuvę iš eglės šaknų,
     narvelį sūriams džiovinti,
     šaukštą, samtį, kaušą, lanktį.
-  citata_rodoma: "Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį..."
+  citata_rodoma: |
+    Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį...
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas

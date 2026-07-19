@@ -88,7 +88,12 @@ Nenurodyta
     p. 88, Vokiškojo tipo alebarda xvi a.; Alebarda. xvi a. antroji pusė=xvII a., VR,
 
     Vytauto Abramausko nuotr.
-  citata_rodoma: "uselang=ru\n\np. 88, Vokiškojo tipo alebarda xvi a.; Alebarda. xvi a. antroji pusė=xvII a., VR,\n\nVytauto Abramausko nuotr."
+  citata_rodoma: |
+    uselang=ru
+
+    p. 88, Vokiškojo tipo alebarda xvi a.; Alebarda. xvi a. antroji pusė=xvII a., VR,
+
+    Vytauto Abramausko nuotr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -124,7 +124,15 @@ media_all_json: |-
     dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad
     skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą lai-
     kys tik Vokietijos intriga.
-  citata_rodoma: "IV s k y r i u s\nLIETUVOS VALSTYBĖS  \nATKŪRIMAS \n„Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių \nmaloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų \nkalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant  \njuos prie veiksmažodžių ir prieveiksmių, lygiai kaip prie \nbūdvardžių ir daiktavardžių."
+  citata_rodoma: |
+    IV s k y r i u s
+    LIETUVOS VALSTYBĖS
+    ATKŪRIMAS
+    „Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių
+    maloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų
+    kalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant
+    juos prie veiksmažodžių ir prieveiksmių, lygiai kaip prie
+    būdvardžių ir daiktavardžių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,14 @@ Narbutas Ambervales apibūdina kaip romėnų laukų apvalymo arba pašventinimo 
     vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
     dievų valia. Šis žynys pirmiausia melsdavo dangaus dievą Uka-
     pirmą ir žemės dievą Pušaitį, idant neleistų vagiui pabėgti.
-  citata_rodoma: "Bet kol stabmeldystė tebebuvo\nsavo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo\nnepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­\nčias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino\nAmbervales arba Cum solemnia vota lustrare agros (iškilmin­\ngomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­\nšventinimu atnašaujant iškilmingas aukas."
+  citata_rodoma: |
+    Bet kol stabmeldystė tebebuvo
+    savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
+    nepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­
+    čias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino
+    Ambervales arba Cum solemnia vota lustrare agros (iškilmin­
+    gomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­
+    šventinimu atnašaujant iškilmingas aukas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

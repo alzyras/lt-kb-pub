@@ -93,7 +93,18 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
     mėti ten visuomet stovi medinis kryžius.
-  citata_rodoma: "154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­\nrybėmis, dievintomis anais amžiais."
+  citata_rodoma: |
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­
+    rybėmis, dievintomis anais amžiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

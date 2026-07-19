@@ -96,7 +96,10 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
     turėjo didelių nuostolių sunkiai sužeistaisiais.
     277 (270). Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
     Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
-  citata_rodoma: "550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis\nLivonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.\n79)."
+  citata_rodoma: |
+    550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
+    Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
+    79).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

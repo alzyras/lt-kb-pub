@@ -106,7 +106,8 @@ media_all_json: |-
     nė žodžio apie Steigiamąjį Seimą. Žinoma, Vokietijai ši rezoliucija praver-
     tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
     Lietuvos Tarybos delegacija net nebuvo pakviesta.
-  citata_rodoma: "tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias"
+  citata_rodoma: |
+    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +132,8 @@ media_all_json: |-
     kariuomenę. 1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su
     Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
     tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.
-  citata_rodoma: "Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-"
+  citata_rodoma: |
+    Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

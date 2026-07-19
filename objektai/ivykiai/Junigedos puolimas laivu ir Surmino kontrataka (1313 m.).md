@@ -172,7 +172,10 @@ Laivas buvo paimtas ir sudegintas.
     Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
     mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
-  citata_rodoma: "Šitai išvydę, pilėnai, pasičiupę\nginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame\nmūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo."
+  citata_rodoma: |
+    Šitai išvydę, pilėnai, pasičiupę
+    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
+    mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -191,7 +194,10 @@ Laivas buvo paimtas ir sudegintas.
     laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
     mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista.
-  citata_rodoma: "Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su\nsienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,\nlaivą pagriebė smarkus vėjas ir nubloškė prie kranto."
+  citata_rodoma: |
+    Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
+    sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
+    laivą pagriebė smarkus vėjas ir nubloškė prie kranto.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -213,7 +219,12 @@ Laivas buvo paimtas ir sudegintas.
     pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista,
     o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
     jį pavertė pelenais568.
-  citata_rodoma: "Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa\nLietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei\nkaringą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą\nraitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai\ngintis."
+  citata_rodoma: |
+    Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
+    Lietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei
+    karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
+    raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
+    gintis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

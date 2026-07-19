@@ -230,7 +230,15 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
     jog ne vienai senovės prūsų kartai tenka garbė už tai,
     1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
     \Warrejas.
-  citata_rodoma: "Tai, žinoma, vien panašumai, kuriuos\npastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,\njog prūsai ir rusai iš pradžių priklausė vienai genčiai;\nvariagų vardą jis kildina iš grynai prūsiško žodžio Wa-\nrejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį\nduoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,\njog 859 metais variagai paskyrė kailių duoklę, be kitų, ir\nkrivičiams."
+  citata_rodoma: |
+    Tai, žinoma, vien panašumai, kuriuos
+    pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
+    jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
+    variagų vardą jis kildina iš grynai prūsiško žodžio Wa-
+    rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį
+    duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
+    jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
+    krivičiams.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -253,7 +261,18 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
     siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
     kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
     Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-  citata_rodoma: "Ne Sarkės, o Šar­\nkučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­\ndos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-\nkutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­\nsiausia šios provincijos tvirtovė buvo Sasava, stovėjusi\nkažkokios upės pakrantėje, bet tai tiksliai nenustatyta.\nPretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­\n\n## Puslapis 370\n\ndos turėjo būti vadinama Cyse arba Sussa."
+  citata_rodoma: |
+    Ne Sarkės, o Šar­
+    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
+    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
+    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
+    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
+    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
+    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
+
+    ## Puslapis 370
+
+    dos turėjo būti vadinama Cyse arba Sussa.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

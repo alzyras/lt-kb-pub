@@ -114,7 +114,15 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
     finia Culmensia [Dobrynės žemė ir
     kaimyninės Kulmo žemės] kentė­
     jo per tą antpuolį.
-  citata_rodoma: "h\nD u s b. c. 399, mini tik pačią Dobry­\nnės kunigaikštystę, bet viename do­\nkumente Slapt. arch. Spinta XI, Nr. \n18 sakoma: terra Dobrynensis et con­\nfinia Culmensia [Dobrynės žemė ir \nkaimyninės Kulmo žemės] kentė­\njo per tą antpuolį."
+  citata_rodoma: |
+    h
+    D u s b. c. 399, mini tik pačią Dobry­
+    nės kunigaikštystę, bet viename do­
+    kumente Slapt. arch. Spinta XI, Nr.
+    18 sakoma: terra Dobrynensis et con­
+    finia Culmensia [Dobrynės žemė ir
+    kaimyninės Kulmo žemės] kentė­
+    jo per tą antpuolį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

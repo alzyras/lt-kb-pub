@@ -77,7 +77,18 @@ Nenurodyta
     sembų kariuomenę, paimdami į nelaisvę moteris ir vaikus. Visus kiemus šiame valsčiuje
     bei kaimynystėje jie pavertė pelenais.
     109 (104).
-  citata_rodoma: "atvykę į sutartą vietą, Livonijos kariams dar neatėjus, pradėjo siaubti minėtąjį valsčių,\ngrobdami ir degindami. įniršę sembai susibūrė, smarkiai užgriuvo brolių kariuomenę ir\nvos neprivertė jos bėgti, metę  į kovą visas savo jėgas, bet atskubėjo Livonijos broliai\nsu daugybe puikių ir didelių žirgų ir, kartu puldami netikėlius, kalavijais išnaikino visą\nsembų kariuomenę, paimdami į nelaisvę moteris ir vaikus. Visus kiemus šiame valsčiuje\nbei kaimynystėje jie pavertė pelenais.\n\n\n\n\n                 109 (104)."
+  citata_rodoma: |
+    atvykę į sutartą vietą, Livonijos kariams dar neatėjus, pradėjo siaubti minėtąjį valsčių,
+    grobdami ir degindami. įniršę sembai susibūrė, smarkiai užgriuvo brolių kariuomenę ir
+    vos neprivertė jos bėgti, metę  į kovą visas savo jėgas, bet atskubėjo Livonijos broliai
+    su daugybe puikių ir didelių žirgų ir, kartu puldami netikėlius, kalavijais išnaikino visą
+    sembų kariuomenę, paimdami į nelaisvę moteris ir vaikus. Visus kiemus šiame valsčiuje
+    bei kaimynystėje jie pavertė pelenais.
+
+
+
+
+                     109 (104).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

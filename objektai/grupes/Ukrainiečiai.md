@@ -151,7 +151,12 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
 
     (^11) **_Epitome principam Lithuaniae_****.
-  citata_rodoma: "Bet ir rusai, kurie Kroniką ar\njos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą\n(nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-\n\n(^11) **_Epitome principam Lithuaniae_****."
+  citata_rodoma: |
+    Bet ir rusai, kurie Kroniką ar
+    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
+    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
+
+    (^11) **_Epitome principam Lithuaniae_****.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

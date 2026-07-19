@@ -92,7 +92,21 @@ Nenurodyta
     Lenkai ir Rumunai).
     Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-
     mis teisėmis į pasaulio valstybių draugiją.
-  citata_rodoma: "Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.)\nvisų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai\nišspręstas, tačiau ne be sunkenybių Lietuvai. Tuo metu didžio-\nsios valstybės Latviją ir Estiją jau buvo pripažinusios de jure,\no Lietuvai tokį pripažinimą dar atidėjo, ligi bus išspręstas kon-\nfliktas su Lenkija. Be to, Lenkijos delegatas Tautų Sąjungoj\nįteikė skundą dėl tariamų lenkų persekiojimų Lietuvoj ir reika-\nlavo vėl atidėti Lietuvos priėmimą. Tačiau daugumas delegatų\nbalsavo už priėmimą, rasdami, kad Lietuva įvykdė visas sąly-\ngas, kurių reikalauja Tautų S-gos paktas (už atidėjimą komisijoj\nbalsavo Lenkai, Rumunai ir Jugoslavai, o prieš priėmimą —\nLenkai ir Rumunai).\nTuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-\nmis teisėmis į pasaulio valstybių draugiją."
+  citata_rodoma: |
+    Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.)
+    visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai
+    išspręstas, tačiau ne be sunkenybių Lietuvai. Tuo metu didžio-
+    sios valstybės Latviją ir Estiją jau buvo pripažinusios de jure,
+    o Lietuvai tokį pripažinimą dar atidėjo, ligi bus išspręstas kon-
+    fliktas su Lenkija. Be to, Lenkijos delegatas Tautų Sąjungoj
+    įteikė skundą dėl tariamų lenkų persekiojimų Lietuvoj ir reika-
+    lavo vėl atidėti Lietuvos priėmimą. Tačiau daugumas delegatų
+    balsavo už priėmimą, rasdami, kad Lietuva įvykdė visas sąly-
+    gas, kurių reikalauja Tautų S-gos paktas (už atidėjimą komisijoj
+    balsavo Lenkai, Rumunai ir Jugoslavai, o prieš priėmimą —
+    Lenkai ir Rumunai).
+    Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-
+    mis teisėmis į pasaulio valstybių draugiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

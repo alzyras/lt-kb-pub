@@ -67,8 +67,11 @@ LReim = Livländische Reimchronik, išl.
   citata_originali: |
     LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876
     (Nachdruck 1963, Hildesheim) (cituota pagal eilutes).
-    LTI = Lietuvos TSR Istorija, t. 1, nuo seniausių laikų iki 1861 m.
-  citata_rodoma: "LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876\n(Nachdruck 1963, Hildesheim) (cituota pagal eilutes).\nLTI = Lietuvos TSR Istorija, t."
+    LTI = Lietuvos TSR Istorija, t.
+  citata_rodoma: |
+    LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876
+    (Nachdruck 1963, Hildesheim) (cituota pagal eilutes).
+    LTI = Lietuvos TSR Istorija, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

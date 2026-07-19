@@ -124,7 +124,12 @@ Nenurodyta
     smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
     iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
     Varšuva vientisumą[as] dabar ir ateityje“.
-  citata_rodoma: "Dokumento preambulėje, be kitų nuostatų, buvo primin-\nti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas\nsmurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių\niškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir\nVaršuva vientisumą[as] dabar ir ateityje“."
+  citata_rodoma: |
+    Dokumento preambulėje, be kitų nuostatų, buvo primin-
+    ti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas
+    smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
+    iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
+    Varšuva vientisumą[as] dabar ir ateityje“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,7 +151,10 @@ Nenurodyta
     kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą. Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
     bet kokių pretenzijų į Vilniaus kraštą.
-  citata_rodoma: "Ra-\ntifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė\nbet kokių pretenzijų į Vilniaus kraštą."
+  citata_rodoma: |
+    Ra-
+    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
+    bet kokių pretenzijų į Vilniaus kraštą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

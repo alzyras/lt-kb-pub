@@ -107,7 +107,13 @@ Nenurodyta
     nepalieka be bausmės. Todėl, pasvėręs nuodėmes nedorųjų žmonių, kurie visokeriopai
     teršė piktadarystėmis šventąją žemę, pavirto, jų sukurstytas, žiauruoliu jis, tas, kuris iš
     prigimties yra meilus ir švelnus.
-  citata_rodoma: "Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių\n                                          atversti\n\n  1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą\natversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,\nkur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes."
+  citata_rodoma: |
+    Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
+                                              atversti
+
+      1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą
+    atversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,
+    kur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

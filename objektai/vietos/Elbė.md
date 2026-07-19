@@ -223,7 +223,12 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
     jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
     vintais jėzuitų aprašymais.
-  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado\nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar\ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
+  citata_rodoma: |
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -248,7 +253,17 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo.
-  citata_rodoma: "Tuo remiantis galima suvokti, kaip mažai iš senovės\nautorių įmanoma gauti žinių apie Siaurės kraštus, nes\nvisos jų žinios rėmėsi tik pasakojimais. Graikai, ypač\nmasiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­\nvyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­\nlėtojai, pažengė toliau, tačiau apie kraštus, esančius už\nElbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.\nApie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado\nBaltijos salą."
+  citata_rodoma: |
+    Tuo remiantis galima suvokti, kaip mažai iš senovės
+    autorių įmanoma gauti žinių apie Siaurės kraštus, nes
+    visos jų žinios rėmėsi tik pasakojimais. Graikai, ypač
+    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
+    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
+    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
+    Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

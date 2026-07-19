@@ -105,7 +105,14 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
     gaus, vainikuoto kunigaikščio mitra, biustas veidu į priekį; iš
     kairės - vėliava su dviem įkirpimais. Senovinės liutnios pavi­
     dalo apvadėlis.
-  citata_rodoma: "Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­\nmis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,\npasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už\nžmogaus -  iš apačios į viršų -  KUNI: DI. Santrumpoje MEN­\nDOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­\nčio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­\ngaikštį."
+  citata_rodoma: |
+    Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­
+    mis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,
+    pasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už
+    žmogaus -  iš apačios į viršų -  KUNI: DI. Santrumpoje MEN­
+    DOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­
+    čio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­
+    gaikštį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

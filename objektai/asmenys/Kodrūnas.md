@@ -74,7 +74,14 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
     o kitus išžudyti. Šitai padarę, broliai, atsidėkodami dievui, drauge su savo ginklanešiais
     apsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su
     minėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas.
-  citata_rodoma: "Magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai\nnužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus\nbei surėmę  į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems talkino\nKodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,\no kitus išžudyti. Šitai padarę, broliai, atsidėkodami dievui, drauge su savo ginklanešiais\napsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su\nminėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas."
+  citata_rodoma: |
+    Magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai
+    nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus
+    bei surėmę  į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems talkino
+    Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
+    o kitus išžudyti. Šitai padarę, broliai, atsidėkodami dievui, drauge su savo ginklanešiais
+    apsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su
+    minėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

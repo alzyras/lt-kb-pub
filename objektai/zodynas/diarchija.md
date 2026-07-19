@@ -161,7 +161,15 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     dyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,
     kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
     to laikais.
-  citata_rodoma: "Baigdami šį darbą norėtume dar išspręsti vieną klausimą,\nbūtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­\nmu^2 ), geriau diarchija^3 ), t. y. dviejų asmenų valdymo sistema,\nkuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­\nda Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­\ndyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,\nkuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­\nto laikais."
+  citata_rodoma: |
+    Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
+    būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­
+    mu^2 ), geriau diarchija^3 ), t. y. dviejų asmenų valdymo sistema,
+    kuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­
+    da Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­
+    dyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,
+    kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
+    to laikais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +191,11 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     (1377). Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
     džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
     tiktai supremus dux (aukščiausias kunigaikštis).
-  citata_rodoma: "Toks Lietu­\nvos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­\ntorikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas\n(1377). Jam mirus Vilniaus d."
+  citata_rodoma: |
+    Toks Lietu­
+    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
+    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
+    (1377). Jam mirus Vilniaus d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -205,7 +217,12 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
     torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
     (1377).
-  citata_rodoma: "Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­\nnigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­\nvos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­\ntorikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas\n(1377)."
+  citata_rodoma: |
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
+    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
+    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
+    (1377).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

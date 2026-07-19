@@ -64,7 +64,9 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
     sutartys). — Prochaska, A. : _Upadek Kiejstuta_ , KH, t. 23, 1909, 493-
     506 p. — Semkowicz, Wb.: _Hanul, namiestnik wileński i jego ród_ , AW,
     t. 7, 1930, 1-20 p. — Smolka, St.
-  citata_rodoma: "— Semkowicz, Wb.: _Hanul, namiestnik wileński i jego ród_ , AW,\nt. 7, 1930, 1-20 p."
+  citata_rodoma: |
+    — Semkowicz, Wb.: _Hanul, namiestnik wileński i jego ród_ , AW,
+    t. 7, 1930, 1-20 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

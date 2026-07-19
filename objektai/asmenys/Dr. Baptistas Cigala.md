@@ -79,7 +79,10 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
     Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
     nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: "į tą Krokuvos profesorių, be abejo\nZb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­\nnę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala."
+  citata_rodoma: |
+    į tą Krokuvos profesorių, be abejo
+    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
+    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -103,7 +106,15 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     pats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­
     priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
     karūnacijos aktą^2 ).
-  citata_rodoma: "Cigala antrame savo atsakyme gina, kad\nkarūnacijai atlikti nereikalingas popiežiaus patvirtinimas. Ro­\nmos karalius turįs teisę karūnuot ir kurti karalystes be popie­\nžiaus, jis galįs atlikt viską, kas liečia išviršinę pusę — dekoraci­\nją. į klausimą, ar po karūnacijos turi įvykti ir konsekracija, tas\npats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­\npriduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį\nkarūnacijos aktą^2 )."
+  citata_rodoma: |
+    Cigala antrame savo atsakyme gina, kad
+    karūnacijai atlikti nereikalingas popiežiaus patvirtinimas. Ro­
+    mos karalius turįs teisę karūnuot ir kurti karalystes be popie­
+    žiaus, jis galįs atlikt viską, kas liečia išviršinę pusę — dekoraci­
+    ją. į klausimą, ar po karūnacijos turi įvykti ir konsekracija, tas
+    pats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­
+    priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
+    karūnacijos aktą^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -115,7 +115,17 @@ media_all_json: |-
     verunt in ortu diei suburbium Castri
     Gedemini, et incendio destruxerunt
     etc.
-  citata_rodoma: "Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį \nmanytume buvus.\ng\nPost haec XI Kalendas Junii Fr. Tho­\nmas de Aldenburg Commendator de Ra- \nganita et 44 fratres cum 400 viris de \nSambia et Nattangia improvise intra­\nverunt in ortu diei suburbium Castri \nGedemini, et incendio destruxerunt\netc."
+  citata_rodoma: |
+    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
+    manytume buvus.
+    g
+    Post haec XI Kalendas Junii Fr. Tho­
+    mas de Aldenburg Commendator de Ra-
+    ganita et 44 fratres cum 400 viris de
+    Sambia et Nattangia improvise intra­
+    verunt in ortu diei suburbium Castri
+    Gedemini, et incendio destruxerunt
+    etc.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -134,7 +144,12 @@ media_all_json: |-
     yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
     jos užimti, o tik sudegino papilį.
-  citata_rodoma: "Kita užuomina \nDusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] \nyra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­\nchas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė \njos užimti, o tik sudegino papilį."
+  citata_rodoma: |
+    Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

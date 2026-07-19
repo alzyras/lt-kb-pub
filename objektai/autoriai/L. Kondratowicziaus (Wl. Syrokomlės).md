@@ -57,7 +57,11 @@ Kondratowicziaus (Wl.
     amž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė
     L. Kondratowicziaus (Wl. Syrokomlės) poema « Margier » ir Ign. Kra-
     szewskio apysaka «Kunigas ».
-  citata_rodoma: "XIX\namž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė\nL. Kondratowicziaus (Wl. Syrokomlės) poema « Margier » ir Ign. Kra-\nszewskio apysaka «Kunigas »."
+  citata_rodoma: |
+    XIX
+    amž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė
+    L. Kondratowicziaus (Wl. Syrokomlės) poema « Margier » ir Ign. Kra-
+    szewskio apysaka «Kunigas ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

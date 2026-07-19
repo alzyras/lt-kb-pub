@@ -149,8 +149,15 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
     Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių
     ir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­
     kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
-    pijos dalybų (1254 m.)^139.
-  citata_rodoma: "Dar platesnėje Ceklio srityje,\nkurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė\nplotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki\nVeiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių\nir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­\nkariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­\npijos dalybų (1254 m."
+    pijos dalybų (1254 m.
+  citata_rodoma: |
+    Dar platesnėje Ceklio srityje,
+    kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė
+    plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki
+    Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių
+    ir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­
+    kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
+    pijos dalybų (1254 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

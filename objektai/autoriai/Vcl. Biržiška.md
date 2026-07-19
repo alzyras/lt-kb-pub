@@ -75,7 +75,16 @@ Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, k
     gaikštijos gyventojams, kai religinis priklausomumas politikoje
     ėmė vaidinti svarbią rolę, kliudė rytinėse žemėse išlaikyti Vilniaus
     dvaro atstovaujamą valstybingumą (Eigenstaatlichkeit).
-  citata_rodoma: "**\n(^13) **Plg. Vcl. Biržiška :** **_Senųjų lietuviškų knygų istorija_** **, I, Chicago, Ill\n1953, 39-52 p.**\n\n\n(^244) II skyrius: valstybės iškilimas\ngaikštijos gyventojams, kai religinis priklausomumas politikoje\nėmė vaidinti svarbią rolę, kliudė rytinėse žemėse išlaikyti Vilniaus\ndvaro atstovaujamą valstybingumą (Eigenstaatlichkeit)."
+  citata_rodoma: |
+    **
+    (^13) **Plg. Vcl. Biržiška :** **_Senųjų lietuviškų knygų istorija_** **, I, Chicago, Ill
+    1953, 39-52 p.**
+
+
+    (^244) II skyrius: valstybės iškilimas
+    gaikštijos gyventojams, kai religinis priklausomumas politikoje
+    ėmė vaidinti svarbią rolę, kliudė rytinėse žemėse išlaikyti Vilniaus
+    dvaro atstovaujamą valstybingumą (Eigenstaatlichkeit).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

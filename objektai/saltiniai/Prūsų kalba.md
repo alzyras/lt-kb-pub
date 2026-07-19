@@ -76,10 +76,13 @@ Dusburgietis teigia, kad prūsų kalba —MLTE, 1968, 2, p. 935—936.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vėlius N. Mitinės lietuvių sakmių būtybės: Laimės, laumės, aitvarai, kaukai, raganos,
-    burtininkai, vilktakiai —V., 1977.
-    Vėlius N. Senovės baltų pasaulėžiūra: Struktūros bruožai.— V, 1983.
-  citata_rodoma: "Prūsų kalba —MLTE, 1968, 2, p. 935—936.\n   Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/\nSudarė P."
+    Prūsų kalba —MLTE, 1968, 2, p. 935—936.
+       Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/
+    Sudarė P.
+  citata_rodoma: |
+    Prūsų kalba —MLTE, 1968, 2, p. 935—936.
+       Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/
+    Sudarė P.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

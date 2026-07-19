@@ -144,7 +144,15 @@ Nenurodyta
     Stanislovu
     Jonaičiu
     Kęsgailą buvo pašalintas iš Ponų Tarybos.
-  citata_rodoma: "BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais, \npradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m. \nKrymo totoriai tenkinosi pietinių LDK sričių — Podolės ir Voly­\nnės — niokojimu, o  nuo 1502 m. persim etė | šiaurę nuo Pripetės \npelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­\nduko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą. \nT ai turėjo daryti labai dideli ir nem alonų |spūd| ano meto LDK \nvisuomenei."
+  citata_rodoma: |
+    BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais,
+    pradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m.
+    Krymo totoriai tenkinosi pietinių LDK sričių — Podolės ir Voly­
+    nės — niokojimu, o  nuo 1502 m. persim etė | šiaurę nuo Pripetės
+    pelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­
+    duko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą.
+    T ai turėjo daryti labai dideli ir nem alonų |spūd| ano meto LDK
+    visuomenei.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

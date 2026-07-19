@@ -320,7 +320,12 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
     žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
     Lietuvos.
-  citata_rodoma: "Grindžiama\nmintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)\nvalstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat\nžemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš\nLietuvos."
+  citata_rodoma: |
+    Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -340,7 +345,10 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes. Jose pa-
     mažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš
     kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos.
-  citata_rodoma: "Jose pa-\nmažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš\nkurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos."
+  citata_rodoma: |
+    Jose pa-
+    mažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš
+    kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -359,7 +367,12 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
     tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
     tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
-  citata_rodoma: "Vienuolynuose rašoma bulgarų kilmės slavų\nbažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia\nkalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos\ntradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-\ntuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai."
+  citata_rodoma: |
+    Vienuolynuose rašoma bulgarų kilmės slavų
+    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
+    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
+    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
+    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -377,7 +390,10 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     maskvėnai savo ruožtu LDK rytų slavus – lietuviais. Patys LDK slavai save
     vadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė
     savu valdovu.
-  citata_rodoma: "Patys LDK slavai save\nvadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė\nsavu valdovu."
+  citata_rodoma: |
+    Patys LDK slavai save
+    vadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė
+    savu valdovu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -396,7 +412,11 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
     Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
     dicinos daktaro laipsnį, 1517–1519 m.
-  citata_rodoma: "Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-\nvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus\nSkorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-\ndicinos daktaro laipsnį, 1517–1519 m."
+  citata_rodoma: |
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

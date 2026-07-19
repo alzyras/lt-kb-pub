@@ -166,7 +166,13 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
     iš KH), Lwów 1896 ;** **_Od Mendoga do Jagiełły_** **, Litwa i Ruś, IV, 1, 1912.**
     (^132) **A. Prochaska :** **_Zjazd monarchów w Lucku,_** **Przewodnik Nauk. i
     Literacki, I, Lwów 1874, 58 p. ;** **_Ostatnie łata Witołda.
-  citata_rodoma: "Paszki­\newiczius, geras senosios Lietuvos istorijos šaltinių žinovas,\n\n(^131) **A. Prochaska : Stosunki krzyżaków z Oedyminem i Łokietkiem (atsp.\niš KH), Lwów 1896 ;** **_Od Mendoga do Jagiełły_** **, Litwa i Ruś, IV, 1, 1912.**\n(^132) **A."
+  citata_rodoma: |
+    Paszki­
+    ewiczius, geras senosios Lietuvos istorijos šaltinių žinovas,
+
+    (^131) **A. Prochaska : Stosunki krzyżaków z Oedyminem i Łokietkiem (atsp.
+    iš KH), Lwów 1896 ;** **_Od Mendoga do Jagiełły_** **, Litwa i Ruś, IV, 1, 1912.**
+    (^132) **A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

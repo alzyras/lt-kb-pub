@@ -61,7 +61,11 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
     senuoju terminu « Eistr» (« Saga Olafs konungs Tryggvasonar »).
     Šiaip jau, kaip rusų kalbos skoliniai iš IX amž. parodo, lietuvių
     prekyba su normanais ėjo per rusus (K. Būga).
-  citata_rodoma: "Vikingai naudojo\nvisas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavadintas\nsenuoju terminu « Eistr» (« Saga Olafs konungs Tryggvasonar »).\nŠiaip jau, kaip rusų kalbos skoliniai iš IX amž."
+  citata_rodoma: |
+    Vikingai naudojo
+    visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavadintas
+    senuoju terminu « Eistr» (« Saga Olafs konungs Tryggvasonar »).
+    Šiaip jau, kaip rusų kalbos skoliniai iš IX amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

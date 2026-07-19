@@ -137,7 +137,14 @@ Nenurodyta
     prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
-  citata_rodoma: "Represinės instituci-\njos, slopindamos parti-\nzaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių\nšeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę\nprievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse\nmiestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-\nčia užkasdavo pelkėse ar šiukšlynuose."
+  citata_rodoma: |
+    Represinės instituci-
+    jos, slopindamos parti-
+    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
+    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
+    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
+    čia užkasdavo pelkėse ar šiukšlynuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

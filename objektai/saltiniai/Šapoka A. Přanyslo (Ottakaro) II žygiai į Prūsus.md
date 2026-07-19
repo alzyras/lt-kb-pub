@@ -69,7 +69,8 @@ Dusburgietis teigia, kad šapoka A.
   citata_originali: |
     48—49.
     Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35.
-  citata_rodoma: "Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35."
+  citata_rodoma: |
+    Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

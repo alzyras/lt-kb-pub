@@ -143,7 +143,11 @@ Nenurodyta
     cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
     klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
     į Prancūzijos didžiąją revoliuciją.
-  citata_rodoma: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-\ncūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-\nklaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi \nį Prancūzijos didžiąją revoliuciją."
+  citata_rodoma: |
+    Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
+    cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
+    klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
+    į Prancūzijos didžiąją revoliuciją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +168,11 @@ Nenurodyta
     dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
     kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
     karo, policijos komisijų – pirmininkai (ministrai).
-  citata_rodoma: "Tvarkyti valstybės reikalus valdovui turi pa-\ndėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai \nkuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, \nkaro, policijos komisijų – pirmininkai (ministrai)."
+  citata_rodoma: |
+    Tvarkyti valstybės reikalus valdovui turi pa-
+    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
+    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
+    karo, policijos komisijų – pirmininkai (ministrai).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,14 @@ Krašto padalinimas į pavietus ir vaivadijas.
     Nors Žemaičių kunigaikščiai — dėl savo ypatingos geografinės pa­
     dėties — jau Mindaugo laikais politiškai rodė savarankiškumo,
     tačiau ir XIII amž. buvo Lietuvos dalis.
-  citata_rodoma: "Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį\nŽemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau\ntapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir\nŽemaičių seniūnijos, ilgai išsaugojusios savo politines privilegijas.\nNors Žemaičių kunigaikščiai — dėl savo ypatingos geografinės pa­\ndėties — jau Mindaugo laikais politiškai rodė savarankiškumo,\ntačiau ir XIII amž."
+  citata_rodoma: |
+    Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį
+    Žemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau
+    tapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir
+    Žemaičių seniūnijos, ilgai išsaugojusios savo politines privilegijas.
+    Nors Žemaičių kunigaikščiai — dėl savo ypatingos geografinės pa­
+    dėties — jau Mindaugo laikais politiškai rodė savarankiškumo,
+    tačiau ir XIII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

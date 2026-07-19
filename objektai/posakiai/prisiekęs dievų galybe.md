@@ -95,7 +95,15 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
     įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį:
     išsivarė daug žmonių ir išsivežė galybę visokių daiktų. Nors šis Jazbutas rodėsi einąs
     su netikėliais, tačiau slapta gerbė brolius.
-  citata_rodoma: "Todėl jie turėjo nutraukti\napgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad\nateityje nelaukti, kol broliai užpulsią kokią pilį.\n\n\n\n\n          239 (232)."
+  citata_rodoma: |
+    Todėl jie turėjo nutraukti
+    apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
+    ateityje nelaukti, kol broliai užpulsią kokią pilį.
+
+
+
+
+              239 (232).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -115,7 +123,11 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
     Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų
     įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį:
     išsivarė daug žmonių ir išsivežė galybę visokių daiktų.
-  citata_rodoma: "Broliai nieku\nbūdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti. Todėl jie turėjo nutraukti\napgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad\nateityje nelaukti, kol broliai užpulsią kokią pilį."
+  citata_rodoma: |
+    Broliai nieku
+    būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti. Todėl jie turėjo nutraukti
+    apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
+    ateityje nelaukti, kol broliai užpulsią kokią pilį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

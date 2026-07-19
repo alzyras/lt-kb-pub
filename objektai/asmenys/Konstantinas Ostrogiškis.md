@@ -297,7 +297,17 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     rikiuotę. Kaip ir tikėjosi, apgaulė pavyko. Maskvėnai,
     pamanę, jog lietuviai sprunka iš kovos lauko, pasilei­
     do jų vytis.
-  citata_rodoma: "Į nelaisvę pakliuvo\nmaskvėnų karo vadas Čeliadninas ir dešimt kitų žy­\nmių didikų, daug dūmos narių ir du tūkstančiai bajo­\nrų. Surengęs stovykloje kareiviškas pamaldas ir pa­\ndėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis\nsuskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­\nniasdešimt žymiausių bajorų, išsiuntė juos karaliui su\nlaišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­\nnią apie pralaimėjimą, paliko prie Smolensko savo ka­\nriuomenę ir persigandęs pabėgo į Maskvą."
+  citata_rodoma: |
+    Į nelaisvę pakliuvo
+    maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­
+    mių didikų, daug dūmos narių ir du tūkstančiai bajo­
+    rų. Surengęs stovykloje kareiviškas pamaldas ir pa­
+    dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis
+    suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­
+    niasdešimt žymiausių bajorų, išsiuntė juos karaliui su
+    laišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­
+    nią apie pralaimėjimą, paliko prie Smolensko savo ka­
+    riuomenę ir persigandęs pabėgo į Maskvą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -116,7 +116,9 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
     produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
     suomet labai vertino ir dabar tebevertina šiaurės rytų
     gyventojai.
-  citata_rodoma: "3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus\n(Vorhalle der europäischer Völkergesch. S. 153, 154, 266)."
+  citata_rodoma: |
+    3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
+    (Vorhalle der europäischer Völkergesch. S. 153, 154, 266).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

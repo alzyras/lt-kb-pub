@@ -61,7 +61,10 @@ Dusburgietis teigia, kad nemaža žinių galėjo pateikti ir „krikščioniški
     pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose   kovose prieš Ordiną
     žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
     XIV a. viduryje134.
-  citata_rodoma: "Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę\nOrdino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau\nsu Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt."
+  citata_rodoma: |
+    Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
+    Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
+    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

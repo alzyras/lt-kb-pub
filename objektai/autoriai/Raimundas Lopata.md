@@ -94,7 +94,8 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     Ams-
     terdam–New York, 2010.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
-  citata_rodoma: "Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996."
+  citata_rodoma: |
+    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +127,8 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
     paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
     sateise Europos Sąjungos nare 2004 m.
-  citata_rodoma: "jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,"
+  citata_rodoma: |
+    jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

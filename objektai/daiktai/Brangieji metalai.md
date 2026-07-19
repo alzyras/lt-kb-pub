@@ -128,7 +128,11 @@ Nenurodyta
     rodė didelį duosnumą. Valgydamas ir gerdamas susivaldė, per
     visą savo gyvenimą nevartojo vyno ir jokio kito gėrimo, o tik
     gryną vandenį.
-  citata_rodoma: "Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­\njo didelius turtus: aukso, sidabro, brangių akmenų, audeklų, kai­\nlinių ir kitokių brangenybių, kurias paskui kitiems dalindamas\nrodė didelį duosnumą."
+  citata_rodoma: |
+    Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­
+    jo didelius turtus: aukso, sidabro, brangių akmenų, audeklų, kai­
+    linių ir kitokių brangenybių, kurias paskui kitiems dalindamas
+    rodė didelį duosnumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,7 +149,10 @@ Nenurodyta
     jog jau XIII amž. Lietuvoje buvo daug turto. Kunigaikščiai turėjo
     sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
     mas buvo turtingas^5.
-  citata_rodoma: "Kunigaikščiai turėjo\nsukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­\nmas buvo turtingas^5."
+  citata_rodoma: |
+    Kunigaikščiai turėjo
+    sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
+    mas buvo turtingas^5.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -167,7 +174,10 @@ Nenurodyta
     panašiomis lazdomis naudojosi ir žemesnieji kriviai, nekildin­
     sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
     provincijoje.
-  citata_rodoma: "Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­\nvusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat\njiems patikėdavo saugoti brangiuosius metalus."
+  citata_rodoma: |
+    Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
+    vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat
+    jiems patikėdavo saugoti brangiuosius metalus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

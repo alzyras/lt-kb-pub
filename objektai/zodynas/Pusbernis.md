@@ -126,7 +126,8 @@ Vartojamas asmens socialinei padėčiai nusakyti.
     Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
     tą
     figūrą.
-  citata_rodoma: "Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą."
+  citata_rodoma: |
+    Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

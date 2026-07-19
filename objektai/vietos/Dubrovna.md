@@ -126,13 +126,23 @@ media_all_json: |-
     čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­
     menės niekur kitur negalės išsirikiuoti, kaip tik šiame
     lauke, ir todėl prikasė duobių ir pridengė velėnomis,
-    kad žirgai ir žmonės į jas įgriūtų3.
+    kad žirgai ir žmonės į jas įgriūtų3 .
     Karalius Jogaila ir didysis kunigaikštis Vytautas, su
     savo kariuomenėmis perėję per miškus, priėjo tuos
     Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
-    didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo
-    etmonu 5 — ponas Spytka Spytkovičius 6.
-  citata_rodoma: "Numatė vokie­\nčiai, kad lenkai ir lietuviai su tokia daugybe kariuo­\nmenės niekur kitur negalės išsirikiuoti, kaip tik šiame \nlauke, ir todėl prikasė duobių ir pridengė velėnomis, \nkad žirgai ir žmonės į jas įgriūtų3 .\nKaralius Jogaila ir didysis kunigaikštis Vytautas, su \nsavo kariuomenėmis perėję per miškus, priėjo tuos \nDubrovnos laukus. Tuo metu Jogailos kariuomenėje \ndidžiuoju etmonu buvo ponas Sokolas Čekas \\  o kiemo \netmonu 5  — ponas Spytka Spytkovičius 6 ."
+    didžiuoju etmonu buvo ponas Sokolas Čekas \  o kiemo
+    etmonu 5  — ponas Spytka Spytkovičius 6 .
+  citata_rodoma: |
+    Numatė vokie­
+    čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­
+    menės niekur kitur negalės išsirikiuoti, kaip tik šiame
+    lauke, ir todėl prikasė duobių ir pridengė velėnomis,
+    kad žirgai ir žmonės į jas įgriūtų3 .
+    Karalius Jogaila ir didysis kunigaikštis Vytautas, su
+    savo kariuomenėmis perėję per miškus, priėjo tuos
+    Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
+    didžiuoju etmonu buvo ponas Sokolas Čekas \  o kiemo
+    etmonu 5  — ponas Spytka Spytkovičius 6 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

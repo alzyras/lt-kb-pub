@@ -158,7 +158,13 @@ Nenurodyta
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: "O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-\ntams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison\nir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir\nBruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o\nZemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-\nra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
+  citata_rodoma: |
+    O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
+    tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison
+    ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir
+    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
+    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
+    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

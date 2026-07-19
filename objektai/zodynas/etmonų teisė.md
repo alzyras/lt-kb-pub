@@ -78,7 +78,21 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
     nukreiptas prieš Rusiją ir jos pareigūnų sa-
     vivalę bei kišimąsi į Lietuvos kariuomenės
     reikalus.
-  citata_rodoma: "Lietuvos\ndidysis etmo-\n\nnas Mykolas Ka-\nzimieras Oginskis į jų\nreikalavimus pasiaiškinti\natsakė, kad įgyvendinąs\nseną etmonų teisę „įžen-\ngus į šalį svetimai kariuo-\nmenei į kraštą Respublikos\nkariuomenę rinkti“. Nors faktiškai Lietuvos\nkariuomenės veiksmai buvo nukreipti ir\nprieš nuo Rusijos priklausomą ATR kara-\nlių S."
+  citata_rodoma: |
+    Lietuvos
+    didysis etmo-
+
+    nas Mykolas Ka-
+    zimieras Oginskis į jų
+    reikalavimus pasiaiškinti
+    atsakė, kad įgyvendinąs
+    seną etmonų teisę „įžen-
+    gus į šalį svetimai kariuo-
+    menei į kraštą Respublikos
+    kariuomenę rinkti“. Nors faktiškai Lietuvos
+    kariuomenės veiksmai buvo nukreipti ir
+    prieš nuo Rusijos priklausomą ATR kara-
+    lių S.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

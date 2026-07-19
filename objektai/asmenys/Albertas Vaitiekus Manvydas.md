@@ -89,7 +89,12 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
     tautai ir jų tarpe Albertas Goštautas.
     IS Istorija apie Davainos ir jo belaisvės vedybas žinoma tik
     iš BK.
-  citata_rodoma: "5 Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y­\ntauto politinių bendradarbių. Nuo 1397 m. Vilniaus seniūnas, o  pas­\nkui pirmasis Vilniaus vaivada (1413—1422). Našlę Julijonų Butri­\nmienę galėjo būti vedęs po 1407 m., nes ligi tol gyva tebebuvo pir­\nmoji M anvydo žmona Jadvyga."
+  citata_rodoma: |
+    5 Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y­
+    tauto politinių bendradarbių. Nuo 1397 m. Vilniaus seniūnas, o  pas­
+    kui pirmasis Vilniaus vaivada (1413—1422). Našlę Julijonų Butri­
+    mienę galėjo būti vedęs po 1407 m., nes ligi tol gyva tebebuvo pir­
+    moji M anvydo žmona Jadvyga.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -137,7 +137,11 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
     jo gyvenimą
     Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas
     Karaliaučiaus brolių komtūru.
-  citata_rodoma: "Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach\neinem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį\nmetę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame\nnuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
+  citata_rodoma: |
+    Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
+    einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį
+    metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
+    nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

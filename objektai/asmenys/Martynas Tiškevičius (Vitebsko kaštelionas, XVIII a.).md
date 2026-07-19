@@ -89,7 +89,9 @@ Martynas Tiškevičius buvo Vitebsko kaštelionas. 1757 m. Vitebsko kaštelionas
     paskata surengti dar vieną seimelį, prieštaraujantį šiam [53].Minėtos ir politinės derybos.
     1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną
     Tiškevičių ir tarėsi dėl seimelio reikalų bei Sapiegų interesų [52].
-  citata_rodoma: "1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną\nTiškevičių ir tarėsi dėl seimelio reikalų bei Sapiegų interesų [52]."
+  citata_rodoma: |
+    1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną
+    Tiškevičių ir tarėsi dėl seimelio reikalų bei Sapiegų interesų [52].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

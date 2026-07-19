@@ -79,7 +79,10 @@ media_all_json: |-
     K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
     für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
-  citata_rodoma: "— Būga,\nK. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.\nfür slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p."
+  citata_rodoma: |
+    — Būga,
+    K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
+    für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

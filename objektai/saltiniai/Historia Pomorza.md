@@ -79,7 +79,8 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
     Lietuvos TSR archeologijos atlasas.— T. 2: Piliakalniai / Redagavo A. Tautavičius. —
     V., 1975; T. 3: I—XIII a. pilkapynai ir senkapiai / Parengė A. Tautavičius; Redagavo R.
     Rimantienė.
-  citata_rodoma: "Historia Pomorza / Pod red. G. Labudy.— T. 1; do r. 1466, cz. 1.— Poznań, 1969."
+  citata_rodoma: |
+    Historia Pomorza / Pod red. G. Labudy.— T. 1; do r. 1466, cz. 1.— Poznań, 1969.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

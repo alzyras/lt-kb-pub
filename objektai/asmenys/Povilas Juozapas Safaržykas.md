@@ -247,7 +247,15 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
     giu, daugio, daugiel, daugiaus; lenkų kalboje mielce ar­
     ba dlugo. Antroje eilutėje pirmas žodis Т01ГН, tojge,
     reiškia šiandien taigi, lenkiškai a zatem, więc.
-  citata_rodoma: "Pats se­\nniausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­\ngai egzistavo dar prieš Kristų, yra istorinis paminklas, da­\nbar saugomas Imperatoriškajame Senienų kabinete Vie­\nnoje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu\nsu kitomis brangenybėmis 1799 metais buvo rasta Toron-\ntalo komitate, netoli Šv. Mikalojaus piiesto, kasant vy­\nnuogyną pono Nako dvare."
+  citata_rodoma: |
+    Pats se­
+    niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
+    gai egzistavo dar prieš Kristų, yra istorinis paminklas, da­
+    bar saugomas Imperatoriškajame Senienų kabinete Vie­
+    noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
+    su kitomis brangenybėmis 1799 metais buvo rasta Toron-
+    talo komitate, netoli Šv. Mikalojaus piiesto, kasant vy­
+    nuogyną pono Nako dvare.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

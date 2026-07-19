@@ -144,7 +144,18 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
     galėjau ištyrinėti, mane įtikina, jog visų žymių žmonių kūnų, įvai­
     riose vietose skirtų apeigoms, pelenai bei jų likučiai būdavo per­
     nešami į Obeliją.
-  citata_rodoma: "Kaulai tiek supuvę, kad neradau nė vienos svei­\nkos kaukolės; jos priklauso įvairaus amžiaus ir lyties asme­\nnims; tuo mane įtikino apatiniai žandikauliai ir dantys, taip\npat ilgi plaukai po keliomis kaukolėmis, kurias atkasiau po 7\n7\nLietuviškas šio kaimo pavadinimas lenkiškai reiškia Soleczniki.\nTenykščiuose mineraliniuose šaltiniuose esama kažkokių druskų, net\nbromo, kaip sužinojau iš tyrimų vieno chemiko, kuris pas kaimietį\npaliko vokišku raštu rašytą raštelį, kad 1819 metais susekęs tą sub­\nstanciją Druskininkų vandenyje. Bet nežinau, kas jis buvo ir ar tai\nteisybė."
+  citata_rodoma: |
+    Kaulai tiek supuvę, kad neradau nė vienos svei­
+    kos kaukolės; jos priklauso įvairaus amžiaus ir lyties asme­
+    nims; tuo mane įtikino apatiniai žandikauliai ir dantys, taip
+    pat ilgi plaukai po keliomis kaukolėmis, kurias atkasiau po 7
+    7
+    Lietuviškas šio kaimo pavadinimas lenkiškai reiškia Soleczniki.
+    Tenykščiuose mineraliniuose šaltiniuose esama kažkokių druskų, net
+    bromo, kaip sužinojau iš tyrimų vieno chemiko, kuris pas kaimietį
+    paliko vokišku raštu rašytą raštelį, kad 1819 metais susekęs tą sub­
+    stanciją Druskininkų vandenyje. Bet nežinau, kas jis buvo ir ar tai
+    teisybė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

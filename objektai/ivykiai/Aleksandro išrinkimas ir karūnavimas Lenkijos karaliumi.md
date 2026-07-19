@@ -119,7 +119,14 @@ Nenurodyta
     M Andrius Droždža. Aleksandro favorito kunigaikščio Mykolo
     Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais
     buvusio Lietuvos Kameneco (prie Brastosl valdytoju (1470—1479).
-  citata_rodoma: "Turim a galvoje Lenkijos delegacija, kurių išsiuntė Lenkijos \nseimas, 1501 X 3 Pelrakave sulyginai išrinkęs Ldk Aleksandrų Len-\n\n## Puslapis 321\n\nkijos karaliumi vieton I501.VI.17 m irusio jo brolio Jono Olbrach- \nto."
+  citata_rodoma: |
+    Turim a galvoje Lenkijos delegacija, kurių išsiuntė Lenkijos
+    seimas, 1501 X 3 Pelrakave sulyginai išrinkęs Ldk Aleksandrų Len-
+
+    ## Puslapis 321
+
+    kijos karaliumi vieton I501.VI.17 m irusio jo brolio Jono Olbrach-
+    to.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

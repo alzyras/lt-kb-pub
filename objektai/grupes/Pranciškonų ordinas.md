@@ -1308,7 +1308,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     raginimą krikštytis10 11. O pats Lietuvos valdovas nebuvo joks
     krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
     pranciškonai, kurie tvarkė kanceliariją.
-  citata_rodoma: "Jo paties dvare sukinėjosi ir turėjo įtakos\npranciškonai, kurie tvarkė kanceliariją."
+  citata_rodoma: |
+    Jo paties dvare sukinėjosi ir turėjo įtakos
+    pranciškonai, kurie tvarkė kanceliariją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1357,7 +1359,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
     597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: "Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.\n  Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis\nscolarium] patvirtino tas pats valdovas popiežius Honorijus."
+  citata_rodoma: |
+    Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
+      Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis
+    scolarium] patvirtino tas pats valdovas popiežius Honorijus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1380,7 +1385,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     leidžiamos raketos, vyko įvairūs
     šaudymai bei deginamos kitos ar­
     tilerijos užtaisų ugnys".
-  citata_rodoma: "Maždaug 1522 metais \npranciškonai vietoje sudegusios medinės taip pat išmūrijo iki \nšios dienos tebestovinčią Šv. Mikalojaus bažnyčią. O po dvi­\ndešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė, \nVilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­\nvo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­\ntydino nedidukę oratoriją, arba koplyčią14."
+  citata_rodoma: |
+    Maždaug 1522 metais
+    pranciškonai vietoje sudegusios medinės taip pat išmūrijo iki
+    šios dienos tebestovinčią Šv. Mikalojaus bažnyčią. O po dvi­
+    dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
+    Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­
+    vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­
+    tydino nedidukę oratoriją, arba koplyčią14.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1406,7 +1418,19 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     i
     Grzybowski knygoje Skarb
     nieoszacowany O O. Franciszkanów.
-  citata_rodoma: "Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­\nnių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti \nLietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­\nse]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­\ntu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­\nmu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje \nsteigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats \ntapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­\ngi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,\ni\nGrzybowski knygoje Skarb \nnieoszacowany O O."
+  citata_rodoma: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1444,7 +1468,31 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
     me archyve ir kuriuos Kotzebue
     išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: "406, pri­\nsimena dar vieną Gedimino dukrą, \nkuri esą buvusi anuomet garbingo \nriterio Dovydo, Gardino kašteliono, \narba tiksliau kunigaikščio, viešpata­\nvusio Gardino valdoje, žmona.\nIl\nGedimino laiškuose, rašytuose do­\nminikonų ir Mažesniųjų brolių, ar­\nba pranciškonų, ordinams bei Han­\nzos miestams, kurių autentiškas \n1323 metais notaro parengtas doku­\nmentas yra Karaliaučiaus Slaptaja-\n-  •  -\n20\n\n## Puslapis 37\n\nI  KNYGA\ngumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­\nnių pasirinko jo valdomų visų kraštų sostine tikriausiai \ntodėl, kad būdamas arčiau sienų su kryžiuočiais turėjo\nme archyve ir kuriuos Kotzebue \nišspausdino savo Prūsijos istorijoje."
+  citata_rodoma: |
+    406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1549,7 +1597,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
     ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
     Cereteno vyskupu.
-  citata_rodoma: "Andrius Vosylius Jas­\ntrzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­\nvo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams\nnebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­\nnigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­\nniuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­\nralienės Elžbietos, Jadvygos motinos. 1377 m."
+  citata_rodoma: |
+    Andrius Vosylius Jas­
+    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
+    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
+    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos. 1377 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1616,7 +1671,31 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     dicto expirato et tantum (ü) secundum terre fertilitatem
     datunt decimam prout in aliis regnis vėl provinciis (m) darė
     consueverunt.
-  citata_rodoma: "Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­\nnuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,\n[tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­\ndaro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]\nsielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­\ndo dvasininkus; patariame kiekvienam valdovui pasisaugoti\ntokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­\nkai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka\nmalone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­\nlių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­\njamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios\npadėties amatininkams, būtent, meistrams, kurpiams, račiams,\nakmenskaldžiams, druskininkams, malūnininkams, sidabra-\nkaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­\ntiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su\n59\n\n## Puslapis 76\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmedio ipse (1) at omni opere regio sint exempti, termino pre-\ndicto expirato et tantum (ü) secundum terre fertilitatem\ndatunt decimam prout in aliis regnis vėl provinciis (m) darė\nconsueverunt."
+  citata_rodoma: |
+    Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
+    nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
+    [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
+    daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]
+    sielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­
+    do dvasininkus; patariame kiekvienam valdovui pasisaugoti
+    tokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­
+    kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka
+    malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­
+    lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­
+    jamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios
+    padėties amatininkams, būtent, meistrams, kurpiams, račiams,
+    akmenskaldžiams, druskininkams, malūnininkams, sidabra-
+    kaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­
+    tiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su
+    59
+
+    ## Puslapis 76
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    medio ipse (1) at omni opere regio sint exempti, termino pre-
+    dicto expirato et tantum (ü) secundum terre fertilitatem
+    datunt decimam prout in aliis regnis vėl provinciis (m) darė
+    consueverunt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1640,7 +1719,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     sigyvenęs Vilniuje, savo įkurtame
     vienuolyne, Vilniaus miestiečius
     vertęs į Kristaus tikėjimą.
-  citata_rodoma: "XIX. Visos detalės apie Lietu­\nvos pranciškonus yra šio didžiulio \nordino analų rinkinio septintame to­\nme. Grzybowski  s, pranciško­\nnas, anksčiau nurodytoje knygoje \n(8 p."
+  citata_rodoma: |
+    XIX. Visos detalės apie Lietu­
+    vos pranciškonus yra šio didžiulio
+    ordino analų rinkinio septintame to­
+    me. Grzybowski  s, pranciško­
+    nas, anksčiau nurodytoje knygoje
+    (8 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1719,7 +1804,19 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     i
     Grzybowski knygoje Skarb
     nieoszacowany O O. Franciszkanów.
-  citata_rodoma: "Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­\nnių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti \nLietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­\nse]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­\ntu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­\nmu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje \nsteigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats \ntapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­\ngi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,\ni\nGrzybowski knygoje Skarb \nnieoszacowany O O."
+  citata_rodoma: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -1737,7 +1834,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
     palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
     trų vienuolynas).
-  citata_rodoma: "Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-\nji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių \nVilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų \nnužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų \npalaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-\ntrų vienuolynas)."
+  citata_rodoma: |
+    Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
+    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
+    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
+    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
+    trų vienuolynas).
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -1855,7 +1958,31 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
     me archyve ir kuriuos Kotzebue
     išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: "406, pri­\nsimena dar vieną Gedimino dukrą, \nkuri esą buvusi anuomet garbingo \nriterio Dovydo, Gardino kašteliono, \narba tiksliau kunigaikščio, viešpata­\nvusio Gardino valdoje, žmona.\nIl\nGedimino laiškuose, rašytuose do­\nminikonų ir Mažesniųjų brolių, ar­\nba pranciškonų, ordinams bei Han­\nzos miestams, kurių autentiškas \n1323 metais notaro parengtas doku­\nmentas yra Karaliaučiaus Slaptaja-\n-  •  -\n20\n\n## Puslapis 37\n\nI  KNYGA\ngumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­\nnių pasirinko jo valdomų visų kraštų sostine tikriausiai \ntodėl, kad būdamas arčiau sienų su kryžiuočiais turėjo\nme archyve ir kuriuos Kotzebue \nišspausdino savo Prūsijos istorijoje."
+  citata_rodoma: |
+    406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -1877,7 +2004,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     sigyvenęs Vilniuje, savo įkurtame
     vienuolyne, Vilniaus miestiečius
     vertęs į Kristaus tikėjimą.
-  citata_rodoma: "XIX. Visos detalės apie Lietu­\nvos pranciškonus yra šio didžiulio \nordino analų rinkinio septintame to­\nme. Grzybowski  s, pranciško­\nnas, anksčiau nurodytoje knygoje \n(8 p."
+  citata_rodoma: |
+    XIX. Visos detalės apie Lietu­
+    vos pranciškonus yra šio didžiulio
+    ordino analų rinkinio septintame to­
+    me. Grzybowski  s, pranciško­
+    nas, anksčiau nurodytoje knygoje
+    (8 p.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -1898,7 +2031,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
     ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
     Cereteno vyskupu.
-  citata_rodoma: "Andrius Vosylius Jas­\ntrzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­\nvo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams\nnebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­\nnigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­\nniuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­\nralienės Elžbietos, Jadvygos motinos. 1377 m."
+  citata_rodoma: |
+    Andrius Vosylius Jas­
+    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
+    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
+    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos. 1377 m.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -1937,7 +2077,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     leidžiamos raketos, vyko įvairūs
     šaudymai bei deginamos kitos ar­
     tilerijos užtaisų ugnys".
-  citata_rodoma: "Maždaug 1522 metais \npranciškonai vietoje sudegusios medinės taip pat išmūrijo iki \nšios dienos tebestovinčią Šv. Mikalojaus bažnyčią. O po dvi­\ndešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė, \nVilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­\nvo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­\ntydino nedidukę oratoriją, arba koplyčią14."
+  citata_rodoma: |
+    Maždaug 1522 metais
+    pranciškonai vietoje sudegusios medinės taip pat išmūrijo iki
+    šios dienos tebestovinčią Šv. Mikalojaus bažnyčią. O po dvi­
+    dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
+    Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­
+    vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­
+    tydino nedidukę oratoriją, arba koplyčią14.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -1954,7 +2101,11 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
     rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
     čiatikių srityse, priėmė jų tikėjimą.
-  citata_rodoma: "Jo paties dvare sukinėjosi ir turėjo įtakos\npranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­\nrimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­\nčiatikių srityse, priėmė jų tikėjimą."
+  citata_rodoma: |
+    Jo paties dvare sukinėjosi ir turėjo įtakos
+    pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
+    rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
+    čiatikių srityse, priėmė jų tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -1999,7 +2150,19 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 
     VILNIAUS MIESTO ISTORIJA I TOMAS
     ir Gotfridą fon Ostą.
-  citata_rodoma: "Tad buvo perskaitytas tas laiškas ir du kiti,\nkurie buvo įteikti miesto tarybai ir minoritų kustodui. Buvo\naptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką\ndaryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­\nsius Ordino riterius, Rygos presbiterį, Vendeno komtūrą\nVeimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau\n99\n\n## Puslapis 116\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nir Gotfridą fon Ostą."
+  citata_rodoma: |
+    Tad buvo perskaitytas tas laiškas ir du kiti,
+    kurie buvo įteikti miesto tarybai ir minoritų kustodui. Buvo
+    aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką
+    daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­
+    sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą
+    Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau
+    99
+
+    ## Puslapis 116
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ir Gotfridą fon Ostą.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -2054,7 +2217,17 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
     verčia dykynėmis, visada sakydami, jog visa tai daroma
     krikščionybei ginti.
-  citata_rodoma: "Juk val­\ndovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos\narkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­\nčių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;\ntik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­\nti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­\ngąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­\nnu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus\nverčia dykynėmis, visada sakydami, jog visa tai daroma\nkrikščionybei ginti."
+  citata_rodoma: |
+    Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­
+    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
+    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
+    verčia dykynėmis, visada sakydami, jog visa tai daroma
+    krikščionybei ginti.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -2091,7 +2264,23 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 
     VILNIAUS MIESTO ISTORIJA I TOMAS
     amore nostri.
-  citata_rodoma: "Mes pageidaujame per jus ir jūsų brolius paskelbti savo\nnutarimą visuose miestuose, vietovėse ir kaimuose ir pa­\nskatinti žmones išganingais pamokymais, kad tai, ką Die­\nvas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­\ntų danguose su palaimintaisiais. Dėl to mes norime sukviesti\nvyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­\nsiškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­\nrališkajame mieste, vardu Vilnius, antrą Naugarduke; prie\njų priskirkite mums šiais metais keturis brolius, mokančius\nlenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir\n63\n\n## Puslapis 80\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\namore nostri."
+  citata_rodoma: |
+    Mes pageidaujame per jus ir jūsų brolius paskelbti savo
+    nutarimą visuose miestuose, vietovėse ir kaimuose ir pa­
+    skatinti žmones išganingais pamokymais, kad tai, ką Die­
+    vas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­
+    tų danguose su palaimintaisiais. Dėl to mes norime sukviesti
+    vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­
+    siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­
+    rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie
+    jų priskirkite mums šiais metais keturis brolius, mokančius
+    lenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir
+    63
+
+    ## Puslapis 80
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    amore nostri.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -2105,16 +2294,21 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Neilgai trukus, didysis kunigaikštis Algirdas davė
-    Petrui Goštautui Vilnių. Būdamas Vilniaus vaivada \
-    didžiajam kunigaikščiui Algirdui leidus, jis pirmą kar­
-    tą parsikvietė iš Lenkijos 14 vienuolių pranciškonų5 ,
-    ir savo rūmuose Vilniuje, kur dabar yra Vilniaus vys­
-    kupo rūmai6 , įsteigė dievo motinos vienuolyną, o sau
-    rūmus pasistatė Smėlynėje7 , priešais Vingrius8 , kur
-    dabar dievo motinos vienuolynas9 . Tasai Petras Goš­
-    tautas pirmas priėmė Romos tikėjimą ir parnešė jį
-    j Lietuvą l0 .
+    Ir,
+    niekaip neišgalėdamas jam atsispirti, nusiuntė pas jj,
+    prašydamas [taikos] ir žadėdamas jam brangias dova­
+    nas, idant jo iš Maskvos, jo tėvonijos, neišvarytų,
+    o savo rūstybę numalšintų ir pasiimtų iš jo. ką pa­
+    norės.
+    Ir didysis kunigaikštis Algirdas pasigailėjo, parodė
+    savo maloningumą, nemetė jo iš Maskvos ir padarė su
+    juo taiką. O paskui, sudarius susitarimą, ir pats Mask­
+    vos didysis kunigaikštis išjojo pas jį, ir matėsi su juo,
+    ir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­
+    čiuojamą daugybę dovanų — aukso, sidabro ir bran­
+    gių perlų, sabalų bei kitų brangių ir retų žvėrių kai­
+    lių 5, ir apmokėjo išlaidas, kurias Algirdas pasidarė,
+    žygiuodamas j Maskvos žemę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2126,18 +2320,27 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
-    VILNIUJE
-    Tuo melu kai didysis kunigaikštis Algirdas žy­
-    giavo prieš Maskvą, o su juo buvo jo vaivada Petras
-    Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
-    deliu būriu atėjo prie vienuolyno; nenorėdami, kad
-    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
-    ir septynis vienuolius sukapojo, o kitus septynis vie­
-    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
-    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
-    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
-    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
+    Vyriausias—Jogaila Vladislovas18;
+    antras — Skirgaila19, trečias — Švitrigaila30,
+    ketvir­
+    tas— Kaributas21, penktas — Dimitrijus22, Koreco ku­
+    nigaikštis 23, šeštas — kunigaikštis Vasilijus 24.
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs25. Pirmas — Vytautas26, o kai krikštijosi pravos­
+    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
+    kų tikėjimo krikštą, jam davė Aleksandro vardą27.
+    Antras — jo brolis kunigaikštis Andrius Kuprys28, ku­
+    ris kunigaikščiavo Polocke; trečias — 2ygimantas 29,
+    ketvirtas — Patrikas 30, penktas — Tautvilą 3I, šeštas —
+    Vaidotas32; jie visi trys mirė, jauni būdami, negavę
+    dalių 33.
+    Labiausiai 34 iš visų savo sūnų didysis kunigaikštis
+    Algirdas mylėjo savo sūnų Jogailą, o didysis kunigaikš­
+    tis Kęstutis — savo sūnų Vytautą, ir, dar gyvi būdami,
+    nutarė, kad anuodu bus jų įpėdiniais didžiųjų kuni-
+    Lietuvi
+    (M itu
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

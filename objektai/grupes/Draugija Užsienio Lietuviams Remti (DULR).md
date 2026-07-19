@@ -147,7 +147,11 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių
     ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-
     nizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.
-  citata_rodoma: "Rūpindamasi, kad kraštas palaikytų su išeiviais kuo\nartimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių\nekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-\nnizacijas, padeda susitikti sportininkams ir pasirodyti menininkams."
+  citata_rodoma: |
+    Rūpindamasi, kad kraštas palaikytų su išeiviais kuo
+    artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių
+    ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-
+    nizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -165,7 +169,10 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
     lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
     siunčia išeivių bibliotekoms knygų ir vadovėlių.
-  citata_rodoma: "Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi\nlietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,\nsiunčia išeivių bibliotekoms knygų ir vadovėlių."
+  citata_rodoma: |
+    Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
+    lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
+    siunčia išeivių bibliotekoms knygų ir vadovėlių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -186,7 +193,12 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     giasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių drau-
     gijas ir spaudą. Tam tikslui ji skiria nemaža pinigų ir remia užsienio
     lietuvių spaudą raštais.
-  citata_rodoma: "Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos\nlietuviškos organizacijos ir spauda, tai DULR kiek galėdama sten-\ngiasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių drau-\ngijas ir spaudą. Tam tikslui ji skiria nemaža pinigų ir remia užsienio\nlietuvių spaudą raštais."
+  citata_rodoma: |
+    Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos
+    lietuviškos organizacijos ir spauda, tai DULR kiek galėdama sten-
+    giasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių drau-
+    gijas ir spaudą. Tam tikslui ji skiria nemaža pinigų ir remia užsienio
+    lietuvių spaudą raštais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 

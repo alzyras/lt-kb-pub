@@ -88,7 +88,8 @@ Nenurodyta
     sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
     pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
     mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
-  citata_rodoma: "mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai."
+  citata_rodoma: |
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

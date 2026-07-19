@@ -73,7 +73,11 @@ media_all_json: |-
     ir apie Sapiegų rūmų remontą Antakalnyje. Jis aiškino, kad „ponas vizitatorius“ [galbūt
     koadjutorius Juozapas Sapiega] apie remontą praneš daugiau, tačiau kanauninkas rašė,
     kad pagrindinėje salėje jau užtaisytos skylės pakabinamose lubose.
-  citata_rodoma: "Aplinkybės. Laiške LDK stovyklininkui Aleksandrui Mykolui Sapiegai 1749 m. jis minėjo\nir apie Sapiegų rūmų remontą Antakalnyje. Jis aiškino, kad „ponas vizitatorius“ [galbūt\nkoadjutorius Juozapas Sapiega] apie remontą praneš daugiau, tačiau kanauninkas rašė,\nkad pagrindinėje salėje jau užtaisytos skylės pakabinamose lubose."
+  citata_rodoma: |
+    Aplinkybės. Laiške LDK stovyklininkui Aleksandrui Mykolui Sapiegai 1749 m. jis minėjo
+    ir apie Sapiegų rūmų remontą Antakalnyje. Jis aiškino, kad „ponas vizitatorius“ [galbūt
+    koadjutorius Juozapas Sapiega] apie remontą praneš daugiau, tačiau kanauninkas rašė,
+    kad pagrindinėje salėje jau užtaisytos skylės pakabinamose lubose.
   statusas: verified
   atnaujinta: "2026-07-14 10:44"
   teiginio_tipas: faktas

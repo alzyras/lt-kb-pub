@@ -312,7 +312,21 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
     ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
     žemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau­
     rę — piemenys, pecuarii, arba nomadai.
-  citata_rodoma: "Vadina­\nsi, būta skitų gerų—kapakasių genties, kažkokios skitų\nkastos, kuri gyveno šiame miškingame krašte — visos\ngenties kapinėse.\n35\nKitas skitų upes, nepaisant jų pavadinimų sugraikini-\nmo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,\nšiandien Dnestras, Hipanis, šiandien Būgas (pastaro­\nsios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),\nBoristenis, šiandien Dnepras. Veltui kai kurie senovės\ntyrinėtojai daug vargo stengdamiesi surasti šios garsios\nupės pavadinimo ištakas, kurių dabar nepavyks paaiškin­\nti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­\n1 Ibid."
+  citata_rodoma: |
+    Vadina­
+    si, būta skitų gerų—kapakasių genties, kažkokios skitų
+    kastos, kuri gyveno šiame miškingame krašte — visos
+    genties kapinėse.
+    35
+    Kitas skitų upes, nepaisant jų pavadinimų sugraikini-
+    mo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,
+    šiandien Dnestras, Hipanis, šiandien Būgas (pastaro­
+    sios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),
+    Boristenis, šiandien Dnepras. Veltui kai kurie senovės
+    tyrinėtojai daug vargo stengdamiesi surasti šios garsios
+    upės pavadinimo ištakas, kurių dabar nepavyks paaiškin­
+    ti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­
+    1 Ibid.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -351,7 +365,19 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
     nei nuo .sarmatų, Vėliau romėnai sudarė su gelonais tai­
     kos sutartį, ir atsirado abipusė sąjunga, įpareigojusi ge-
     1 Ammian Marcelin.
-  citata_rodoma: "207\nVėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar\nišnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus\nAleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­\nnijos karalystės valdžios galybė, padažnėjo grobikiškų\nžygių įvairių agresyvių tautų, besiskverbiančių vis toliau\nį pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­\nniąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai\nliko kairiojoje Dnepro pakrantėje savarankiški, be sle­\ngiančios jų valdžios įtakos; netgi esama nedidelių dings­\nčių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­\ntus."
+  citata_rodoma: |
+    207
+    Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
+    išnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus
+    Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
+    nijos karalystės valdžios galybė, padažnėjo grobikiškų
+    žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
+    į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­
+    niąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai
+    liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
+    giančios jų valdžios įtakos; netgi esama nedidelių dings­
+    čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
+    tus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

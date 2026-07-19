@@ -103,7 +103,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     tikti apie liepos 5—6 d. Pasiuntiniai grįžę nupasakojo, ką ma­
     tę, bet magistras nepatikėjęs, kad sąjungininkai įstengtų čia su­
     sirinkti.
-  citata_rodoma: "Tuo metu ir įvyko lietuvių puolimas iš\nŽemaičių, o lenkų — netoli Sviečės.\nĮ Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai\nklausti Jogailos, kur ir kada būtų galima pradėti taikos dery­\nbas. Jogaila vietos neskyrė, tik nurodė, kad bus galima susi­\ntikti apie liepos 5—6 d."
+  citata_rodoma: |
+    Tuo metu ir įvyko lietuvių puolimas iš
+    Žemaičių, o lenkų — netoli Sviečės.
+    Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai
+    klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
+    bas. Jogaila vietos neskyrė, tik nurodė, kad bus galima susi­
+    tikti apie liepos 5—6 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -127,7 +133,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     buvo dar metams prailgintos.
     Tokia netikra kelių metų padėtis nepaprastai trukdė kul­
     tūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus.
-  citata_rodoma: "Vienais metais (1418) Vytautas ir Jo­\ngaila buvo net išsirengę į karą ir savo kariuomenes sutraukę\nprie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos\nbuvo dar metams prailgintos.\nTokia netikra kelių metų padėtis nepaprastai trukdė kul­\ntūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus."
+  citata_rodoma: |
+    Vienais metais (1418) Vytautas ir Jo­
+    gaila buvo net išsirengę į karą ir savo kariuomenes sutraukę
+    prie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos
+    buvo dar metams prailgintos.
+    Tokia netikra kelių metų padėtis nepaprastai trukdė kul­
+    tūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -81,7 +81,8 @@ media_all_json: |-
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
-  citata_rodoma: "mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-"
+  citata_rodoma: |
+    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

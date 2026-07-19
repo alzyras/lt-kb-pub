@@ -69,7 +69,13 @@ media_all_json: |-
     balandį pasitraukė iš legalaus gyvenimo ir įstojo į
     Nemunaičio apylinkių partizanų būrį, iš karto buvo
     išrinktas jo vadu.
-  citata_rodoma: "Prasidėjus antra-\njai bolševikinei okupacijai, matydamas, kaip oku-\npantai naikina tautą, A. Ramanauskas. 1945 m.\nbalandį pasitraukė iš legalaus gyvenimo ir įstojo į\nNemunaičio apylinkių partizanų būrį, iš karto buvo\nišrinktas jo vadu."
+  citata_rodoma: |
+    Prasidėjus antra-
+    jai bolševikinei okupacijai, matydamas, kaip oku-
+    pantai naikina tautą, A. Ramanauskas. 1945 m.
+    balandį pasitraukė iš legalaus gyvenimo ir įstojo į
+    Nemunaičio apylinkių partizanų būrį, iš karto buvo
+    išrinktas jo vadu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

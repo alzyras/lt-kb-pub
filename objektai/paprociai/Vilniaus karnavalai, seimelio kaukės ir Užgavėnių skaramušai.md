@@ -121,7 +121,12 @@ Nenurodyta
     ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
     pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
     yra kanauninko mūriniame name [17].
-  citata_rodoma: "1757 m. kanauninkas pranešė, kad Vilniuje rengiamas karnavalas, kuriame ketinąs\ndalyvauti Mykolas Kazimieras Radvila Žuvelė [49]. Beje, karnavalus jis kartais minėjo su\nironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių\npribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas\nyra kanauninko mūriniame name [17]."
+  citata_rodoma: |
+    1757 m. kanauninkas pranešė, kad Vilniuje rengiamas karnavalas, kuriame ketinąs
+    dalyvauti Mykolas Kazimieras Radvila Žuvelė [49]. Beje, karnavalus jis kartais minėjo su
+    ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
+    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
+    yra kanauninko mūriniame name [17].
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
   teiginio_tipas: faktas

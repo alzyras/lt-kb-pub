@@ -55,7 +55,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09962
-    - c-09963
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -68,9 +67,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     „Žemaičiai (Semnones) esantys. Jų tikyba senovę jų rodo. Laikui atėjus, siuntiniai^99
-         visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
-         akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
-  citata_rodoma: "„Žemaičiai (Semnones) esantys. Jų tikyba senovę jų rodo. Laikui atėjus, siuntiniai^99\n visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę\n akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai"
+    visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
+    akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
+  citata_rodoma: |
+    „Žemaičiai (Semnones) esantys. Jų tikyba senovę jų rodo. Laikui atėjus, siuntiniai^99
+    visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
+    akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -84,12 +86,13 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
-         tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
-  citata_rodoma: "negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis\n tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi."
+    tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
+  citata_rodoma: |
+    negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
+    tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07805

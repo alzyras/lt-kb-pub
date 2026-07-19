@@ -162,7 +162,18 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
     pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
     lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
     bešališkumu.
-  citata_rodoma: "Apie tai dar bus mūsų is­\ntorijos tęsinyje.\n221\n\n## Puslapis 221\n\nKukovaitis (Kukowojtis)\nSudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­\npatavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­\nlaidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai\nįvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę."
+  citata_rodoma: |
+    Apie tai dar bus mūsų is­
+    torijos tęsinyje.
+    221
+
+    ## Puslapis 221
+
+    Kukovaitis (Kukowojtis)
+    Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­
+    patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
+    laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
+    įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -197,7 +208,13 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
     mus šaltinius. Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
     dingos mūsų tėvynės istorijai.
-  citata_rodoma: "Tai liudija Strijkovskis. Ant\nKukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­\nkų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­\nbegyvuojantis kaimo žmonių pasakojimuose. Hartknochas,\nremdamasis savo tyrimais, pasakoja, kad ant to paties kalno\nnuo seno degusi Kerniaus užkurta Amžinoji ugnis ."
+  citata_rodoma: |
+    Tai liudija Strijkovskis. Ant
+    Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­
+    kų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­
+    begyvuojantis kaimo žmonių pasakojimuose. Hartknochas,
+    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
+    nuo seno degusi Kerniaus užkurta Amžinoji ugnis .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

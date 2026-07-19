@@ -93,7 +93,19 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
     155  Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje
     („Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t. 1, p. 225),
     tačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku.
-  citata_rodoma: "Apie brolį Hermaną, trečią magistrą\n\n   Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė\ngegužės 20 dieną ir palaidotas Akone157.\n\n\n\n\n               5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą\n\n   Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,\no mirė liepos 24 dieną  ir palaidotas Barletoje158."
+  citata_rodoma: |
+    Apie brolį Hermaną, trečią magistrą
+
+       Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė
+    gegužės 20 dieną ir palaidotas Akone157.
+
+
+
+
+                   5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
+
+       Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
+    o mirė liepos 24 dieną  ir palaidotas Barletoje158.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

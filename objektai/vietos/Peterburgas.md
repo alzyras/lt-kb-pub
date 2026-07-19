@@ -378,7 +378,10 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: "Tačiau\nopozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius\nreformų priešininkus."
+  citata_rodoma: |
+    Tačiau
+    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
+    reformų priešininkus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -398,7 +401,10 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
     ir Lietuvos valstybės padalijimo.
-  citata_rodoma: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-\nburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos\nir Lietuvos valstybės padalijimo."
+  citata_rodoma: |
+    Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
+    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
+    ir Lietuvos valstybės padalijimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -417,7 +423,10 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
     burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
     valstybingumo likučius ir nubrėžė tikslias sienas.
-  citata_rodoma: "1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-\nburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos\nvalstybingumo likučius ir nubrėžė tikslias sienas."
+  citata_rodoma: |
+    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
+    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
+    valstybingumo likučius ir nubrėžė tikslias sienas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -437,7 +446,10 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     gijos akademija ir Vilniaus Romos katalikų dvasinė akademija. Po dešimt
     metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
     burgą, o Medicinos-chirurgijos akademija uždaryta.
-  citata_rodoma: "Po dešimt\nmetų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-\nburgą, o Medicinos-chirurgijos akademija uždaryta."
+  citata_rodoma: |
+    Po dešimt
+    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
+    burgą, o Medicinos-chirurgijos akademija uždaryta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -459,7 +471,10 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
     Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
     (Kenigsbergą), linija Liepoja–Romnai.
-  citata_rodoma: "Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis\nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių\n(Kenigsbergą), linija Liepoja–Romnai."
+  citata_rodoma: |
+    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -477,7 +492,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
     Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
     tonomijos Lietuvai suteikimo.
-  citata_rodoma: "Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-\ntonomijos Lietuvai suteikimo."
+  citata_rodoma: |
+    Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
+    tonomijos Lietuvai suteikimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -497,7 +514,11 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
     tiesiamos pirmosios telefono linijos, XX a. pradžioje pasirodo ir pirmieji
     automobiliai.
-  citata_rodoma: "Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis \nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių \n(Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-\ntiesiamos pirmosios telefono linijos, XX a."
+  citata_rodoma: |
+    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
+    tiesiamos pirmosios telefono linijos, XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -520,7 +541,17 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
     įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
     liko caro rankose.
-  citata_rodoma: "pavasarį ka-\nzokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė. \nŽinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-\ntonomijos Lietuvai suteikimo. \nLietuva po 1905-ųjų – kultūrinė kova\nNors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-\nsa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-\ntybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi \nįstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas \nliko caro rankose."
+  citata_rodoma: |
+    pavasarį ka-
+    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
+    Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
+    tonomijos Lietuvai suteikimo.
+    Lietuva po 1905-ųjų – kultūrinė kova
+    Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-
+    sa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-
+    tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
+    įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
+    liko caro rankose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -540,7 +571,10 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
     burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m. panaikintas
     Lietuvos Statutas, o teismų sistema surusinta.
-  citata_rodoma: "Po dešimt \nmetų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-\nburgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m."
+  citata_rodoma: |
+    Po dešimt
+    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
+    burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -562,7 +596,14 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     revoliucijos euforijos apimtai kairei pasisakius už Lietuvos ateitį Rusijos
     laisvų tautų federacijoje, aiškiai nepriklausomybės siekianti koservaty-
     vioji dauguma apleido seimą.
-  citata_rodoma: "Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius. \nMaždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-\nsklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-\nformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, \ngimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija, \ncaro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-\ntiškai jie skilo: kai 1917 m."
+  citata_rodoma: |
+    Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius.
+    Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
+    sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
+    formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
+    gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija,
+    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
+    tiškai jie skilo: kai 1917 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -584,7 +625,11 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
-  citata_rodoma: "Jaunuolis nesibaidė vyriau­\nsybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų\nkorpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
+  citata_rodoma: |
+    Jaunuolis nesibaidė vyriau­
+    sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
+    korpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
+    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -606,7 +651,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     jam šio tomo leidimui4. Si aplinkybė leidžia daryti prie­
     laidą, jog abu tomai į rusų kalbą buvo verčiami tiesiog
     iš rankraščio, kartu su lenkiškuoju variantu.
-  citata_rodoma: "Vadinasi, su­\nmanymas siekia daug ankstesnius laikus nei „Lietuvių mi­\ntologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­\nbės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­\nvo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-\nišleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­\nnės T. Narbuto korespondencijos, istorikas daugelį metų\nieškojo galimybės išspausdinti šio tomo vertimą."
+  citata_rodoma: |
+    Vadinasi, su­
+    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
+    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
+    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
+    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
+    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
+    nės T. Narbuto korespondencijos, istorikas daugelį metų
+    ieškojo galimybės išspausdinti šio tomo vertimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

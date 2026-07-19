@@ -101,7 +101,11 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     Žuvinto-Palių partizanų persekiojimas
     tęsėsi toliau. 1945 m. birželio 25 d. į pa-
     salą patekęs žuvo „Muškietininkų“ būrio
-  citata_rodoma: "Mūšio išvakarės\n\nŽuvinto-Palių partizanų persekiojimas\ntęsėsi toliau. 1945 m."
+  citata_rodoma: |
+    Mūšio išvakarės
+
+    Žuvinto-Palių partizanų persekiojimas
+    tęsėsi toliau. 1945 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

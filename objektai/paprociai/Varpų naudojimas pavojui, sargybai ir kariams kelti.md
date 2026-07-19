@@ -119,7 +119,13 @@ Nenurodyta
     mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
     muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
     sigauti.
-  citata_rodoma: "Gumbinės (Gumbin) miestas nuo\ntokio varpo gavęs pavadinimą.\nKronikininkai taip pat mano, kad dievui Varpui būdavo\naukojami gaidžiai, kaip budrumo simboliai.\nSenovės egiptiečiai, persai, graikai, romėnai turėjo varpų,\nskirtų tam tikroms religinėms apeigoms."
+  citata_rodoma: |
+    Gumbinės (Gumbin) miestas nuo
+    tokio varpo gavęs pavadinimą.
+    Kronikininkai taip pat mano, kad dievui Varpui būdavo
+    aukojami gaidžiai, kaip budrumo simboliai.
+    Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
+    skirtų tam tikroms religinėms apeigoms.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -133,7 +139,7 @@ Nenurodyta
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuviškai šis žo­
-    dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą.
+    dis paraidžiui reiškia varpą, perkeltine prasme -  žadinimą.
     Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
     tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­
     riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui

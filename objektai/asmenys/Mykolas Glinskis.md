@@ -714,7 +714,25 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     kitam jis nusiskundė, jog, kariaudamas dėl šios pilies,
     turėjęs tiek nuostolių, kad tų pinigų būtų užtekę pa­
     statyti dviem puikiausioms pilims.
-  citata_rodoma: "Tuo tarpu Glinskis suvo-\nT ia g išk a s\nM y k o lo\nkė, jog visos jo viltys bergž-\nG lin sk io  g a la s\ndžios ir tuščios, nes Vasili­\njus, žodžiu pažadėjęs jam ati­\nduoti Smolenską ir šitaip atsilyginti už paramą, nė\nnesirengė to daryti. Atsimindamas, kokia sėkmė jį\nanksčiau lydėjusi, jis bodėjosi dabartine padėtimi, kai\nniekuo negalima pasitikėti; visur matydamas rusų bar­\nbariškumą, juto širdyje gailestį dėl savo veiksmų. Kiek­\nvieną dieną krūtinę plėšė be paliovos stiprėjantis tė­\nvynės ilgesys ir didėjo viltis, jog karalius gali viską\natleisti. Pasiuntęs per ištikimą savo giminaitį laišką ka­\nraliui, jis nuolankiai paprašė atleidimo, pasižadėdamas\ništikima tarnyba atpirkti savo nusikalstamą veiklą, ku­\nria atnešęs tėvynei tiek skausmo."
+  citata_rodoma: |
+    Tuo tarpu Glinskis suvo-
+    T ia g išk a s
+    M y k o lo
+    kė, jog visos jo viltys bergž-
+    G lin sk io  g a la s
+    džios ir tuščios, nes Vasili­
+    jus, žodžiu pažadėjęs jam ati­
+    duoti Smolenską ir šitaip atsilyginti už paramą, nė
+    nesirengė to daryti. Atsimindamas, kokia sėkmė jį
+    anksčiau lydėjusi, jis bodėjosi dabartine padėtimi, kai
+    niekuo negalima pasitikėti; visur matydamas rusų bar­
+    bariškumą, juto širdyje gailestį dėl savo veiksmų. Kiek­
+    vieną dieną krūtinę plėšė be paliovos stiprėjantis tė­
+    vynės ilgesys ir didėjo viltis, jog karalius gali viską
+    atleisti. Pasiuntęs per ištikimą savo giminaitį laišką ka­
+    raliui, jis nuolankiai paprašė atleidimo, pasižadėdamas
+    ištikima tarnyba atpirkti savo nusikalstamą veiklą, ku­
+    ria atnešęs tėvynei tiek skausmo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -771,7 +789,20 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     lapties. Baisu ir pagalvoti,
     kaip jis buvo maitojamas: pririštą prie iešmo, degino
     lėta ugnimi, grąžtais gręžė kiaušą bei nagus.
-  citata_rodoma: "Tuo metu popiežiaus \nlegatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­\ntą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus \nleistis į Maskvą, kur jo diena iš dienos laukė. Dėda­\nmasis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų \nbei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į \nakį pranešti Glinskiui karaliaus valią. Pakelėje suimtas\nir siaubingai kankinamas, jis \nP u ik u s ištv e r m ė s p a - \nnieko nepasakė ir neišdavė \nv y z d y s \nkaraliaus jam patikėtos pas­\nlapties."
+  citata_rodoma: |
+    Tuo metu popiežiaus
+    legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­
+    tą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus
+    leistis į Maskvą, kur jo diena iš dienos laukė. Dėda­
+    masis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų
+    bei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į
+    akį pranešti Glinskiui karaliaus valią. Pakelėje suimtas
+    ir siaubingai kankinamas, jis
+    P u ik u s ištv e r m ė s p a -
+    nieko nepasakė ir neišdavė
+    v y z d y s
+    karaliaus jam patikėtos pas­
+    lapties.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -840,7 +871,17 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     damas grįžo į Vilnių
 
     YD rugpjūčio 12 d. Džiugi
-  citata_rodoma: "Paskutiniai\n\ntotoriai buvo išgaudyti\n\nrugpjūčio 8 d. Mūšio\nnugalėtojas Mykolas\nGlinskis triumfuo-\ndamas grįžo į Vilnių\n\nYD rugpjūčio 12 d."
+  citata_rodoma: |
+    Paskutiniai
+
+    totoriai buvo išgaudyti
+
+    rugpjūčio 8 d. Mūšio
+    nugalėtojas Mykolas
+    Glinskis triumfuo-
+    damas grįžo į Vilnių
+
+    YD rugpjūčio 12 d.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -975,17 +1016,31 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   puslapiai: "PDF 606"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 606."
   citata_originali: |
-    Pilys bus atstatomos ta tvarka, kuri sužymėta anks­
-    čiau sudarytoje sutartyje. Nedelsiant turi būti grąžinta
-    karaliui tai, ką Mykolas Glinskis esąs užėmęs kara­
-    liaus valdose ar kaip savo tėvoniją, ar kaip Lietuvos
-    didžiųjų kunigaikščių beneficiją ar pagaliau jėga už­
-    grobęs ir įkurdinęs ten savo įgulas, o jis pats privalo
-    likti Maskvos kunigaikštystėje kaip tremtinys, neturė­
-    damas jokios vilties kada sugrįžti. Nusikalstamai pa­
-    laikę maištą jo giminaičiai bei globotiniai, perėję į
-    Maskvos kunigaikštystę, irgi turi ten pasilikti, o kol
-    kas neišsikraustę iš Lietuvos privalo ten išvykti.
+    Iš dalies priešą sumušęs, iš dalies išvaikęs, Kiška, di­
+    džiuodamasis savo žygiu ir gausiu grobiu, bet nenorė­
+    damas, kad jam išeitų taip, kaip atsitiko Ostrogiškiui
+    prie Vedrošos, tai yra vengdamas traukti atviromis vie­
+    tomis ir bėgančiam priešui rodyti, kokia maža jo ka­
+    riauna, nuvedė visus savo
+    M a sk v o s
+    k u n ig a ik š-
+    vyrus atgal pas karalių. Va­
+    žis
+    V a siliju s
+    pra šo
+    silijus, Maskvos kunigaikštis,
+    ta ik o s
+    išgąsdintas
+    šitokios
+    nesėk­
+    mės, o labiausiai Viazmos,
+    Možaisko, Belajos, Riazanės ir Rževo apylinkių nunio­
+    kojimo, bematant primiršo buvusį narsumą. Neilgai
+    trukus pasiuntęs tarpininką, jis pareiškė karaliui norįs
+    su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių
+    įgaliojimų turinčius legatus, jeigu karalius sutinkąs
+    daugiau nebelieti krikščionių kraujo. Maskvėnų pasiūly­
+    mus pranešė senatui, ir didikai, pareiškę savo nuomonę,
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1020,17 +1075,13 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   puslapiai: "PDF 169"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 169."
   citata_originali: |
-    Totoriai ma­
-    tė, kad lietuviai ne visi kartu keliasi per upę, patys
-    narsiausieji iš jų tarpo puolė lietuvius ir daugelį iš to
-    dešiniojo sparno nukovė ir vos jų nesumušė. O tada
-    kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
-    perėjęs per upę, smogė visiems totorių pulkams ir per­
-    skėlė juos į dvi dalis. Tada atsigavo ir tie mūsų deši­
-    niojo sparno žmonės ir taip pat smogė jiems, ir iš abie­
-    jų pusių taip sumaišė totorių pulkus, kad totoriai ne­
-    tik kautis nebegalėjo, bet ir akių bei rankų nebedrįso
-    prieš Lietuvos kariuomenę pakelti.
+    Ir mes su mūsų tėvu stovėjome ant vieno kalno,
+    o kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­
+    da kunigaikštis Skirgaila davė žodi mano tėvui kuni­
+    gaikščio Jogailos vardu ir davė jam savo ranką, ir savo
+    vardu taip pat davė žodį ir savo ranką. Ir man pačiam
+    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
+    savo vardu, ir [davėj savo ranką.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

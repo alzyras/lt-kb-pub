@@ -77,7 +77,8 @@ Terminas siejamas su pirmąja pavasario diena.
     ore: gavėnios pradžioje šalčiai retėja, atodrėkiai tankėja ir galiau pa­
     leidžia.
     Pelenijai išaušus sveikiname pirmąją pavasario dieną.
-  citata_rodoma: "Pelenijai išaušus sveikiname pirmąją pavasario dieną"
+  citata_rodoma: |
+    Pelenijai išaušus sveikiname pirmąją pavasario dieną
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

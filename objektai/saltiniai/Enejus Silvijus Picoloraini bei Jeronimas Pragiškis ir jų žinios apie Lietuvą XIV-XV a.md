@@ -66,7 +66,10 @@ Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­ mas Pragiškis ir jų ž
     (^2) ) Cit. iš prof. A. Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­
     mas Pragiškis ir jų žinios apie Lietuvą XIV-XV a.”, Kaunas 1928 m.,
     35 pusl.
-  citata_rodoma: "(^2) ) Cit. iš prof. A. Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­\nmas Pragiškis ir jų žinios apie Lietuvą XIV-XV a.”, Kaunas 1928 m.,\n35 pusl."
+  citata_rodoma: |
+    (^2) ) Cit. iš prof. A. Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­
+    mas Pragiškis ir jų žinios apie Lietuvą XIV-XV a.”, Kaunas 1928 m.,
+    35 pusl.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

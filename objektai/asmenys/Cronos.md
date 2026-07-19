@@ -88,7 +88,14 @@ Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vak
     (Ernsas), Visurgt's (Vėzeris), Albis (Elbė); tik Oderiui
     tenka pavadinimas Guitalus, nes šios labai didelės upės
     Plinijus nebūtų praleidęs3.
-  citata_rodoma: "164\nDar negalima nepaminėti pastabų apie pavadinimą\nCronium. Seniausi padavimai sako, jog galingas Siaurės\nVakarų kraštų valdovas Cronos, laiko karalius, arba Ti­\ntanas, garbinamas kaip laiko simbolis, kurį vadino ir Sa­\nturnu, gyvenęs šiauriniuose Okeano kraštuose. Dėl to ši­\ntaip buvo vadinama šiaurinė jūra, ypač Baltija."
+  citata_rodoma: |
+    164
+    Dar negalima nepaminėti pastabų apie pavadinimą
+    Cronium. Seniausi padavimai sako, jog galingas Siaurės
+    Vakarų kraštų valdovas Cronos, laiko karalius, arba Ti­
+    tanas, garbinamas kaip laiko simbolis, kurį vadino ir Sa­
+    turnu, gyvenęs šiauriniuose Okeano kraštuose. Dėl to ši­
+    taip buvo vadinama šiaurinė jūra, ypač Baltija.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -119,7 +119,14 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
     skrynia būdavo naudojama ir kelionėms daiktams, ginklams susidėti;
     tai buvo pačių vertingiausių daiktų saugykla (хранилище). Taigi galė­
     jo būti, kad slavų protėviai taip vadino dievų šventyklas.
-  citata_rodoma: "Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­\ndę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­\ngiją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir\npuošė dievų statulomis. Neabejotina, kad Retra iš karto buvo\nlierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-\nl<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­\nnanti prabangumu tas beveik dar laukines Europos šalis."
+  citata_rodoma: |
+    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
+    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
+    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
+    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
+    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
+    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
+    nanti prabangumu tas beveik dar laukines Europos šalis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

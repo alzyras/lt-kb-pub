@@ -85,7 +85,8 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
     mis“, viešajame gyvenime vietoje lenkų įsivyrautų rusų kalba, dominuo-
     jančias pozicijas įgytų Rusų stačiatikių bažnyčia, o valstiečių vaikai įsilie-
     tų į rusų aukštąją kultūrą.
-  citata_rodoma: "dvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose"
+  citata_rodoma: |
+    dvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -103,7 +104,8 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
     dešimt cerkvių. Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto
     centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
     bažnyčios katedra paversta Šv.
-  citata_rodoma: "centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių"
+  citata_rodoma: |
+    centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

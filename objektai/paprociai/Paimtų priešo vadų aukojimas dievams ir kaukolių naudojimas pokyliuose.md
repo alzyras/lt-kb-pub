@@ -73,11 +73,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tarp paimtųjų neprietelių karėje didžiuosius jų vyresniuosius gyvus dievams savo aukavo tokiu
-        būdu: sugautąjį neprietelių atmoną ar kitą karvedį, pririšę žirgo kojas prie keturių stiebų, patį
-        šarvuotą, kaip buvo kariavęs, pasodino ant jo su visais jo ginklais, paskui, sukrovę malkinę po
-        apačia, sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti,
-        tą, kurį nulėmė, taip pat sudegino, kaip jei pirmąjį.
-  citata_rodoma: "Tarp paimtųjų neprietelių karėje didžiuosius jų vyresniuosius gyvus dievams savo aukavo tokiu\nbūdu: sugautąjį neprietelių atmoną ar kitą karvedį, pririšę žirgo kojas prie keturių stiebų, patį\nšarvuotą, kaip buvo kariavęs, pasodino ant jo su visais jo ginklais, paskui, sukrovę malkinę po\napačia, sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti,\ntą, kurį nulėmė, taip pat sudegino, kaip jei pirmąjį."
+    būdu: sugautąjį neprietelių atmoną ar kitą karvedį, pririšę žirgo kojas prie keturių stiebų, patį
+    šarvuotą, kaip buvo kariavęs, pasodino ant jo su visais jo ginklais, paskui, sukrovę malkinę po apačia,
+    sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti, tą, kurį
+    nulėmė, taip pat sudegino, kaip jei pirmąjį.
+  citata_rodoma: |
+    Tarp paimtųjų neprietelių karėje didžiuosius jų vyresniuosius gyvus dievams savo aukavo tokiu
+    būdu: sugautąjį neprietelių atmoną ar kitą karvedį, pririšę žirgo kojas prie keturių stiebų, patį
+    šarvuotą, kaip buvo kariavęs, pasodino ant jo su visais jo ginklais, paskui, sukrovę malkinę po apačia,
+    sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti, tą, kurį
+    nulėmė, taip pat sudegino, kaip jei pirmąjį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

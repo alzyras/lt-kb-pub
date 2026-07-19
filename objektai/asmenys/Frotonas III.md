@@ -147,7 +147,18 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
     žmonos gimtąją žemę. Tais laikais labiausiai garsėjo tur­
     tais ir visus rusnėnų ponus šlove ir karine galybe pranoko
     vienas valdovas, t. y. Grolaugas.
-  citata_rodoma: "Tai patvir­\ntina Nestoro pateiktos žinios, kad skandinavams priklau­\nsė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs\ndanų istorijos įvykius, palygintus su tiksliausiais skaičia­\nvimais, Frotono III valdymą sieja su III krikščioniškosios\neros amžiumi.\n234\nIslandų sakmėse, vadinamose šiaurinėmis sagomis,\nesama žinių apie įžymų rusų karalių, vadinamą Zugurla-\nmu, kuris, anot Torfėjo chronologinių skaičiavimų, taip\npat gyveno III amžiuje3."
+  citata_rodoma: |
+    Tai patvir­
+    tina Nestoro pateiktos žinios, kad skandinavams priklau­
+    sė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs
+    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
+    vimais, Frotono III valdymą sieja su III krikščioniškosios
+    eros amžiumi.
+    234
+    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
+    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
+    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
+    pat gyveno III amžiuje3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -174,7 +185,18 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
     rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
     jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
     nijos karalystei.
-  citata_rodoma: "Visi Šie įvykiai siejami su III amžiumi.\n235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus."
+  citata_rodoma: |
+    Visi Šie įvykiai siejami su III amžiumi.
+    235
+    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
+    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
+    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
+    grąžino iš jo tėvo atimtą Danijos sostą1.
+    236
+    Sklinda garsūs senoviniai skandinavų padavimai apie
+    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
+    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
+    ringumo žmogus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

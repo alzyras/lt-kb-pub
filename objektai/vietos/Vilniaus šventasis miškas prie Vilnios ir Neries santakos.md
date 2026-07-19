@@ -74,7 +74,11 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
     nokėjų šventyklos vietą nukeliame į Ukrainą, prie Psiolo upės, į
     dešinįjį jos krantą, prie Romnos upės žiočių, kur ir dabar yra
     miestelis, vadinamas Romnais (Romne).
-  citata_rodoma: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­\ntakos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­\nse ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo\nšventi miškeliai, daugiau ar mažiau garsūs."
+  citata_rodoma: |
+    Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
+    takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­
+    se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
+    šventi miškeliai, daugiau ar mažiau garsūs.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

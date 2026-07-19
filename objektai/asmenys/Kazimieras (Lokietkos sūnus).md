@@ -71,7 +71,11 @@ media_all_json: |-
     vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
     Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
     24.000 Lietuvoje buvusių lenkų karo belaisvių.
-  citata_rodoma: "1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino\nvedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters\nAldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi\n24."
+  citata_rodoma: |
+    1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino
+    vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
+    Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
+    24.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

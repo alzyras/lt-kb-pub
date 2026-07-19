@@ -71,7 +71,12 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
     Akademijos Istorijos Institutas leidžia kas antri metai knygas :
     _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
     skyrių red. A. Tautavičius.
-  citata_rodoma: "^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių\nskydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.). LTSR Mokslų\nAkademijos Istorijos Institutas leidžia kas antri metai knygas :\n_Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos\nskyrių red. A. Tautavičius."
+  citata_rodoma: |
+    ^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
+    skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.). LTSR Mokslų
+    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
+    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
+    skyrių red. A. Tautavičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

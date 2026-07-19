@@ -92,7 +92,28 @@ Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bič
     gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
     atmetė rusų apeigų ir rusams Vitebske pastatė porą
     šventovių.
-  citata_rodoma: "Kai, sutik­\ndami su šitokiomis sąlygomis; \nprisiekė valdovas Dimitrijus, \nvyriausiasis šventikas, žmo­\nnių vadinamas metropolitu, \nviečė ir žymiausieji bajorai, \nAlgirdas, \ntą \npačią \ndieną \nįžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­\nvanojo kunigaikštį, kariškai jį pasveikinęs prie pačių \naltorių (,,Tad jau supratai, Dimitrijau, katras iš mu­\ndviejų greičiau pakyla į karą\"), velykiniu kiaušiniu. \nMat rusai nuo senų senovės įpratę Velykų dieną do­\nvanoti vienas kitam margutį kaip bičiuliškumo ženklą. \nAlgirdas, nors viešai laikėsi stabmeldžių apeigų, ta­\nčiau, neseniai savo žmonos Julijonos, Vitebsko kuni­\ngaikščio dukters, noru sutikęs priimti krikščionybę, ne­\natmetė rusų apeigų ir rusams Vitebske pastatė porą \nšventovių."
+  citata_rodoma: |
+    Kai, sutik­
+    dami su šitokiomis sąlygomis;
+    prisiekė valdovas Dimitrijus,
+    vyriausiasis šventikas, žmo­
+    nių vadinamas metropolitu,
+    viečė ir žymiausieji bajorai,
+    Algirdas,
+    tą
+    pačią
+    dieną
+    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
+    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
+    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
+    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

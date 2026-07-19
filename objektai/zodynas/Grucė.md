@@ -77,7 +77,9 @@ Terminas vartojamas aprašant gaminimą ir sudėtį.
     lyg iš pikliavotų miltų pagamintą.
     Padaryti grucei ima džiovintų krosnyje miežių ir grūda pies­
     toje, kad nusivalytų grūdams ašakos.
-  citata_rodoma: "Padaryti grucei ima džiovintų krosnyje miežių ir grūda pies­\ntoje, kad nusivalytų grūdams ašakos"
+  citata_rodoma: |
+    Padaryti grucei ima džiovintų krosnyje miežių ir grūda pies­
+    toje, kad nusivalytų grūdams ašakos
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

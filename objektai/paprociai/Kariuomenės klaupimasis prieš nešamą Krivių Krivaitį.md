@@ -99,7 +99,12 @@ Nenurodyta
     klaidą, cituodamas tą maldelę, kurią grynai lietuviškai reiktų
     taip rašyti: Perkūne Dewajte, ne muszk und mana: Tiewe, mel-
     dzio tawipaltu messu.
-  citata_rodoma: "Kai su­\nšaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;\nvaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba\npinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis\nmosikuodavo raudona vėliavėle ir kažką į juos numesdavo..."
+  citata_rodoma: |
+    Kai su­
+    šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
+    vaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba
+    pinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis
+    mosikuodavo raudona vėliavėle ir kažką į juos numesdavo...
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

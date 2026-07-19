@@ -80,7 +80,9 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     Glinskiui sukėlus viduje sąmokslą, buvo paimtas (1514 m.).
     Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
     kvos kariuomenę ties Orša.
-  citata_rodoma: "Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-\nkvos kariuomenę ties Orša."
+  citata_rodoma: |
+    Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
+    kvos kariuomenę ties Orša.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

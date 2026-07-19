@@ -66,7 +66,8 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
     Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos
     kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-
     zidentinei valdymo formai nepritarta.
-  citata_rodoma: "Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad"
+  citata_rodoma: |
+    Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

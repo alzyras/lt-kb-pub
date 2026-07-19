@@ -82,7 +82,9 @@ Nenurodyta
     vyskupas tos pačios bylos reikalu tada buvo išvykęs į Romą).
     Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o het-
     monas — išvesti iš bažnytinių dvarų kariuomenę.
-  citata_rodoma: "Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o het-\nmonas — išvesti iš bažnytinių dvarų kariuomenę."
+  citata_rodoma: |
+    Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o het-
+    monas — išvesti iš bažnytinių dvarų kariuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

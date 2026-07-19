@@ -90,7 +90,11 @@ Nenurodyta
     si ir dvasininkai. Tėvūnams buvo įsakyta aprūpinti klebonus
     žeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti
     vyskupo.
-  citata_rodoma: "Tomis pat teisėmis naudojo­\nsi ir dvasininkai. Tėvūnams buvo įsakyta aprūpinti klebonus\nžeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti\nvyskupo."
+  citata_rodoma: |
+    Tomis pat teisėmis naudojo­
+    si ir dvasininkai. Tėvūnams buvo įsakyta aprūpinti klebonus
+    žeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti
+    vyskupo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

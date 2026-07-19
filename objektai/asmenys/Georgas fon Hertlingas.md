@@ -64,7 +64,8 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
     kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
     bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
     gruodžio 11-osios rezoliucijos pagrindu.
-  citata_rodoma: "jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui"
+  citata_rodoma: |
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

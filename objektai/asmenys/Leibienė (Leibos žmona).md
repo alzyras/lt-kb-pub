@@ -82,7 +82,8 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
     Tas rabinas vedė pačią, o uošvis vedė Leibienę.
     Leibienė išėjo gy­
     venti į Panevėžį ir kromo nebenešiojo.
-  citata_rodoma: "Leibienė išėjo gyventi į Panevėžį ir kromo nebenešiojo."
+  citata_rodoma: |
+    Leibienė išėjo gyventi į Panevėžį ir kromo nebenešiojo.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -101,7 +102,8 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
     veiksle, reiškiantį ramybę ir taikumą. Senatvėje jau Leiba vedė antrą
     pačią, o jam mirus, jo pati nešiojo jo kromą. Leibienė nešiojo kromą,
     taip, kaip ir Leiba, bet kita pakraipa.
-  citata_rodoma: "Leibienė nešiojo kromą, taip, kaip ir Leiba, bet kita pakraipa."
+  citata_rodoma: |
+    Leibienė nešiojo kromą, taip, kaip ir Leiba, bet kita pakraipa.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

@@ -60,7 +60,12 @@ Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha, kuri sutapo s
     naują laikotarpį. Pirmajai jis reiškė dideles reformas bei vidujinį
     stiprėjimą ir didesnio tarptautinio svorio įsigijimą, antrajai — viso­
     keriopą silpnėjimą.
-  citata_rodoma: "Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,\nkuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė\nnaują laikotarpį. Pirmajai jis reiškė dideles reformas bei vidujinį\nstiprėjimą ir didesnio tarptautinio svorio įsigijimą, antrajai — viso­\nkeriopą silpnėjimą."
+  citata_rodoma: |
+    Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,
+    kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
+    naują laikotarpį. Pirmajai jis reiškė dideles reformas bei vidujinį
+    stiprėjimą ir didesnio tarptautinio svorio įsigijimą, antrajai — viso­
+    keriopą silpnėjimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -92,7 +92,12 @@ Terminas reiškia puotose vartotus saldžius vaisių gardėsius.
     riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?),
     kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio
     laiške], kurių privežta labai daug.
-  citata_rodoma: "Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pa-\nsakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie\nriesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?),\nkakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio\nlaiške], kurių privežta labai daug."
+  citata_rodoma: |
+    Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pa-
+    sakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie
+    riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?),
+    kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio
+    laiške], kurių privežta labai daug.
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

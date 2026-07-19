@@ -83,7 +83,13 @@ Nenurodyta
 
     Progresas pakeitė ne tik šautuvus, bet ir mažuosius ginklus -
     plačiai pradėti naudoti revolveriai.
-  citata_rodoma: "jAv jau buvo\ngaminami pirmi dėtuvinių šautuvų modeliai, taip pat ir kulkos-\nvaidžio prototipas - daugiavamzdė Gatlingo sistema.\n\nProgresas pakeitė ne tik šautuvus, bet ir mažuosius ginklus -\nplačiai pradėti naudoti revolveriai."
+  citata_rodoma: |
+    jAv jau buvo
+    gaminami pirmi dėtuvinių šautuvų modeliai, taip pat ir kulkos-
+    vaidžio prototipas - daugiavamzdė Gatlingo sistema.
+
+    Progresas pakeitė ne tik šautuvus, bet ir mažuosius ginklus -
+    plačiai pradėti naudoti revolveriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

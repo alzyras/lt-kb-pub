@@ -111,7 +111,13 @@ Nenurodyta
     metų skirtumu dviem atvejais kronikose minimi žygiai, pvz., prieš
     jotvingius (1112 ir 1113 m.), prieš lietuvius (1203 ir 1205 m.), yra
     buvęs tik vienas darytas žygis.
-  citata_rodoma: "Nėra negalima tačiau, kad čia metraščiai, kurie skaičiavo\nmetus nuo pasaulio sutvėrimo (1132 m. žygis užrašytas prie 6640\nmetų), kalba apie vieną tą patį žygį. Gal būt, vienų ar poros\nmetų skirtumu dviem atvejais kronikose minimi žygiai, pvz., prieš\njotvingius (1112 ir 1113 m.), prieš lietuvius (1203 ir 1205 m.), yra\nbuvęs tik vienas darytas žygis."
+  citata_rodoma: |
+    Nėra negalima tačiau, kad čia metraščiai, kurie skaičiavo
+    metus nuo pasaulio sutvėrimo (1132 m. žygis užrašytas prie 6640
+    metų), kalba apie vieną tą patį žygį. Gal būt, vienų ar poros
+    metų skirtumu dviem atvejais kronikose minimi žygiai, pvz., prieš
+    jotvingius (1112 ir 1113 m.), prieš lietuvius (1203 ir 1205 m.), yra
+    buvęs tik vienas darytas žygis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +137,13 @@ Nenurodyta
     o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
     didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
     sumuštas.
-  citata_rodoma: "Lietuvos vardas vėl minimas po 87 metų, kai esą\ndveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į\nLietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,\no 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su\ndidele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių\nsumuštas."
+  citata_rodoma: |
+    Lietuvos vardas vėl minimas po 87 metų, kai esą
+    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
+    Lietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,
+    o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
+    didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
+    sumuštas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

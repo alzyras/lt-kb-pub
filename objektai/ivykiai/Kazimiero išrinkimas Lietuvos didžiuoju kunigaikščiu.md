@@ -129,7 +129,13 @@ Nenurodyta
     tystei
     o Jurgis Nosuta pabėgo į Mazoviją, nes jis
     LlHuvoi
-  citata_rodoma: "Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį\nJurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­\ntystės šeimininku Jogailos sūnų karalaitį Kazimierą l0 ,\nLietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų\nžemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­\nsiuntiniais ponus Mykolą ir Joną Kęsgailas1 1 ."
+  citata_rodoma: |
+    Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
+    Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
+    tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0 ,
+    Lietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų
+    žemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­
+    siuntiniais ponus Mykolą ir Joną Kęsgailas1 1 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

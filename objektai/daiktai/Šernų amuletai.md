@@ -106,7 +106,13 @@ Nenurodyta
     rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
     renką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore
     yra kaip svebai ».
-  citata_rodoma: "Anot Tacito,\nSvebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną\ndievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius\nrūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie\nrenką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore\nyra kaip svebai »."
+  citata_rodoma: |
+    Anot Tacito,
+    Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną
+    dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius
+    rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
+    renką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore
+    yra kaip svebai ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -146,7 +146,17 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus
     Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus
     dėl šventosios žemės išvadavimo.
-  citata_rodoma: "Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai\nnepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,\nkartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia\nbegalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies\nmylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai\nsvarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems. Kai vieną naktį\njis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę  ir, nuo ilgo budėjimo\npavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus\nKristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus\ndėl šventosios žemės išvadavimo."
+  citata_rodoma: |
+    Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai
+    nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,
+    kartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia
+    begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
+    mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
+    svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems. Kai vieną naktį
+    jis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę  ir, nuo ilgo budėjimo
+    pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus
+    Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus
+    dėl šventosios žemės išvadavimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

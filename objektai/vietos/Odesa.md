@@ -72,7 +72,13 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
     rytų slavų plotus. Odesos universiteto istorikas V. V. Antono­
     vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
     bės istoriją iki Gedimino mirties (AnM, AnOč).
-  citata_rodoma: "XIX amžiui einant į galą rusų universitetų istorikams vis\ndaugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,\nkuri nuo XIII amž. per du šimtus metų nepaliovė užimti plačius\nrytų slavų plotus. Odesos universiteto istorikas V. V. Antono­\nvičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­\nbės istoriją iki Gedimino mirties (AnM, AnOč)."
+  citata_rodoma: |
+    XIX amžiui einant į galą rusų universitetų istorikams vis
+    daugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,
+    kuri nuo XIII amž. per du šimtus metų nepaliovė užimti plačius
+    rytų slavų plotus. Odesos universiteto istorikas V. V. Antono­
+    vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
+    bės istoriją iki Gedimino mirties (AnM, AnOč).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

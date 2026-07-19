@@ -98,7 +98,13 @@ Nenurodyta
     prašyti pasigailėjimo. Religija suteikdavo kriviams valdžią tam
     tikroje apygardoje, apskrityje arba vėliavoje; jam buvo paval­
     dūs visi žemesnieji kunigai.
-  citata_rodoma: "Kai tik kas numirdavęs, to\nšešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­\nkėdavęs patekti su žemesniojo krivio duotu leidimu į laimės\nprieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­\nvaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­\nšiojama vyriausiojo žynio lazda su trimis užlenkimais."
+  citata_rodoma: |
+    Kai tik kas numirdavęs, to
+    šešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­
+    kėdavęs patekti su žemesniojo krivio duotu leidimu į laimės
+    prieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­
+    vaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­
+    šiojama vyriausiojo žynio lazda su trimis užlenkimais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

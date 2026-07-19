@@ -278,7 +278,23 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
-  citata_rodoma: "Dimitrijus sumokėsiąs ka­\nreiviams algą, o vadui — karo išlaidas. Abiejų tautų\npriesaika turinti sustiprinti amžinąją taiką. Kai, sutik­\ndami su šitokiomis sąlygomis;\nprisiekė valdovas Dimitrijus,\nvyriausiasis šventikas, žmo­\nnių vadinamas metropolitu,\nviečė ir žymiausieji bajorai,\nAlgirdas,\ntą\npačią\ndieną\nįžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­\nvanojo kunigaikštį, kariškai jį pasveikinęs prie pačių\naltorių (,,Tad jau supratai, Dimitrijau, katras iš mu­\ndviejų greičiau pakyla į karą\"), velykiniu kiaušiniu."
+  citata_rodoma: |
+    Dimitrijus sumokėsiąs ka­
+    reiviams algą, o vadui — karo išlaidas. Abiejų tautų
+    priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
+    dami su šitokiomis sąlygomis;
+    prisiekė valdovas Dimitrijus,
+    vyriausiasis šventikas, žmo­
+    nių vadinamas metropolitu,
+    viečė ir žymiausieji bajorai,
+    Algirdas,
+    tą
+    pačią
+    dieną
+    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
+    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
+    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
+    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -295,7 +311,10 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     sekė atstatyti Vytenio ir Gedimino laikų padėtį. 1354 m. Konstan­
     tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
     sančių žemių metropolitą — arkivyskupą Romaną.
-  citata_rodoma: "1354 m. Konstan-\ntinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-\nsančių žemių metropolitą — arkivyskupą Romaną."
+  citata_rodoma: |
+    1354 m. Konstan-
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-
+    sančių žemių metropolitą — arkivyskupą Romaną.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas
@@ -314,7 +333,11 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
     gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
     sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
-  citata_rodoma: "Patriarchas Lietuvos stačiatikių metro-\npolitu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai\ngyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas\nsostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė."
+  citata_rodoma: |
+    Patriarchas Lietuvos stačiatikių metro-
+    politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
+    gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
+    sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas
@@ -333,7 +356,11 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
     valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
     gyventojams.
-  citata_rodoma: "Ir Algirdas, ir Maskvos kunigaikštis tuo\npačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo\nvalstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo\ngyventojams."
+  citata_rodoma: |
+    Ir Algirdas, ir Maskvos kunigaikštis tuo
+    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
+    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
+    gyventojams.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas
@@ -372,7 +399,11 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
-  citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
+  citata_rodoma: |
+    Lietuvos stačiatikių metropolija nebebuvo
+    atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
+    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
+    Filotėją įtikinti Lietuvos ortodoksų labui.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas
@@ -396,7 +427,12 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     manto Kęstutaičio nelaisvėje 1432.XII 8— 1433, nes 1433 m. jis pa­
     liego Iš nelaisvės Ir 1438—1440 iki Žygimanto Kęstutaičio nužudy­
     mo vietlninkavo Didžiajame Naugarde.
-  citata_rodoma: "”  „O  trečių vasarų\" — kalbama apie 1435 m\nw Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos. Bu­\nvo Volynės (1415— 1428). Smolensko (nuo 1428) vyskupu. 1432 m. \nŠvitrigailos pasiūlymu ¡šventintas Konstantinopolyje LDK ir Mask­\nvos Didžiosios Kunigaikštystės bei kitų rusų žemių metropolitu."
+  citata_rodoma: |
+    ”  „O  trečių vasarų" — kalbama apie 1435 m
+    w Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos. Bu­
+    vo Volynės (1415— 1428). Smolensko (nuo 1428) vyskupu. 1432 m.
+    Švitrigailos pasiūlymu ¡šventintas Konstantinopolyje LDK ir Mask­
+    vos Didžiosios Kunigaikštystės bei kitų rusų žemių metropolitu.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas
@@ -417,7 +453,11 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
-  citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
+  citata_rodoma: |
+    Lietuvos stačiatikių metropolija nebebuvo
+    atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
+    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
+    Filotėją įtikinti Lietuvos ortodoksų labui.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas

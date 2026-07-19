@@ -71,7 +71,8 @@ media_all_json: |-
     menės dalis, rizikuodama gyvybe (buvo ir sušaudytų už žydų slėpimą),
     bandė padėti žydams, gelbėti, nemažai žydų išgelbėjo katalikų kunigai,
     vienuolės, paprasti valstiečiai.
-  citata_rodoma: "se, liaudyje jie paniekinamai vadinti „žydšaudžiais“. Kita lietuvių visuo-"
+  citata_rodoma: |
+    se, liaudyje jie paniekinamai vadinti „žydšaudžiais“. Kita lietuvių visuo-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

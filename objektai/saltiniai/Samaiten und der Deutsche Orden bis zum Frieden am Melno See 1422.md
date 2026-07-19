@@ -70,7 +70,10 @@ media_all_json: |-
     KrSO = Krumbholtz, R. : Samaiten und der Deutsche Orden bis
     zum Frieden am Melno See 1422, Karaliaučius 1890 (atsp.
     iš AM 1889-90).
-  citata_rodoma: "KrSO = Krumbholtz, R. : Samaiten und der Deutsche Orden bis\nzum Frieden am Melno See 1422, Karaliaučius 1890 (atsp.\niš AM 1889-90)."
+  citata_rodoma: |
+    KrSO = Krumbholtz, R. : Samaiten und der Deutsche Orden bis
+    zum Frieden am Melno See 1422, Karaliaučius 1890 (atsp.
+    iš AM 1889-90).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

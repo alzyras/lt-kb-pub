@@ -120,7 +120,17 @@ Nenurodyta
     kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
     traukė baigiantis II krikščioniškosios eros amžiui4.
-  citata_rodoma: "Maždaug to paties amžiaus pabaigoje švedų karalius Got'brodas irgi\nsėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­\nvo kovodamas su Bojumi, Otino sūnumi, rusų karalienės\nRindos vyru. Vienas suomių burtininkas išpranašavo šį\nliūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­\nnėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­\nlaidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­\nkapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­\nnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­\ntraukė baigiantis II krikščioniškosios eros amžiui4."
+  citata_rodoma: |
+    Maždaug to paties amžiaus pabaigoje švedų karalius Got'brodas irgi
+    sėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­
+    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
+    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
+    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
+    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
+    laidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­
+    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
+    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
+    traukė baigiantis II krikščioniškosios eros amžiui4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -57,7 +57,9 @@ Jau Ptolemajas II a.
     jas II a. žinojo prūsų gentį galindus ir jotvingius arba sūduvius. Anks-
     tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
     kuršius, žiemgalius.
-  citata_rodoma: "I mūsų eros tūkstantmetis – baltų diferenciacijos laikas. Jau Ptolema-\njas II a. žinojo prūsų gentį galindus ir jotvingius arba sūduvius."
+  citata_rodoma: |
+    I mūsų eros tūkstantmetis – baltų diferenciacijos laikas. Jau Ptolema-
+    jas II a. žinojo prūsų gentį galindus ir jotvingius arba sūduvius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

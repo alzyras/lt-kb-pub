@@ -61,7 +61,10 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
     Tautinio autoramento pagrindu buvo formuojama sunkioji kava-
     lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
     bei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai.
-  citata_rodoma: "Tautinio autoramento pagrindu buvo formuojama sunkioji kava-\nlerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai\nbei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai."
+  citata_rodoma: |
+    Tautinio autoramento pagrindu buvo formuojama sunkioji kava-
+    lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
+    bei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

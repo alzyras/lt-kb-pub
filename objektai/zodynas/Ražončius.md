@@ -76,7 +76,9 @@ Terminas vartojamas kaip religinio bendruomeninio elgesio matas, už kurio nelan
     kaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai,
     pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už ne­
     atėjimą rytą ražončiaus giedoti.
-  citata_rodoma: "Tai pabauda už nekėlimą, už ne­\natėjimą rytą ražončiaus giedoti"
+  citata_rodoma: |
+    Tai pabauda už nekėlimą, už ne­
+    atėjimą rytą ražončiaus giedoti
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

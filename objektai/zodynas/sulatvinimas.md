@@ -52,7 +52,9 @@ sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sula
     kur lietuvių vaikų yra nedaug, jie visi eina į latviškas mokyklas.
     Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-
     vėja.
-  citata_rodoma: "Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-\nvėja."
+  citata_rodoma: |
+    Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-
+    vėja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

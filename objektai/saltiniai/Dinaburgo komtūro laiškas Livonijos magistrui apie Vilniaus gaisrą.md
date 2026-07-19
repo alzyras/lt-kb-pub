@@ -99,7 +99,13 @@ media_all_json: |-
     nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
     penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
     riausiai 1399).
-  citata_rodoma: "136, N533\nDinaburgo komtūro pranešimas Livonijos magistrui apie \nVilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie \nnuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje \npenktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­\nriausiai 1399)."
+  citata_rodoma: |
+    136, N533
+    Dinaburgo komtūro pranešimas Livonijos magistrui apie
+    Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
+    nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
+    penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
+    riausiai 1399).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -162,7 +168,15 @@ media_all_json: |-
     Originalą atitinka:
     Dr. Hennigas
     Karai.
-  citata_rodoma: "Gertrūdą.\nDar man sako pasiuntinys, kad, pasak Vilniaus gyvento­\njų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­\ntolių už 60 000 sidabro luitų.\nDinaburgo komtūras \n(parašas)\nOriginalą atitinka:\nDr."
+  citata_rodoma: |
+    Gertrūdą.
+    Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­
+    jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­
+    tolių už 60 000 sidabro luitų.
+    Dinaburgo komtūras
+    (parašas)
+    Originalą atitinka:
+    Dr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

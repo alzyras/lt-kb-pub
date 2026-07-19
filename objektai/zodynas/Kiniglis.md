@@ -118,7 +118,15 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
     tą
     ir
     reiškia.
-  citata_rodoma: "Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus, ne\nviename jų randame lietuvių kalbai būdingų elementų. Pavyzdžiui,\nPaparona arba Kiniglis, tai reiškia ne kiškį, kaip kad pasakyta\n„Herbyne“ (aiškino tik pagal piešinį ir iš lotynų kalbos išvertė\nžodį Lepus)', bet triušį, nes lietuvių kalboje žodis Kiniglis būtent\ntą\nir\nreiškia."
+  citata_rodoma: |
+    Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus, ne
+    viename jų randame lietuvių kalbai būdingų elementų. Pavyzdžiui,
+    Paparona arba Kiniglis, tai reiškia ne kiškį, kaip kad pasakyta
+    „Herbyne“ (aiškino tik pagal piešinį ir iš lotynų kalbos išvertė
+    žodį Lepus)', bet triušį, nes lietuvių kalboje žodis Kiniglis būtent
+    tą
+    ir
+    reiškia.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

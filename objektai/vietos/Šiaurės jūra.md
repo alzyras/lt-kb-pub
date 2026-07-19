@@ -136,7 +136,16 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     vo nukeliavęs ne toliau kaip iki dabartinio Kijevo. Galop
     jis taip baigia savo pasakojimą: „Apie toliausias Europos
     vietoves neturiu 'ką pasakyti.
-  citata_rodoma: "Bet turbūt\ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei\nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.\nKeliautojas tik sužinojo, kad jis renkamas prie Eridano\nupės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­\ngi kalba apie gintarą, randamą ten, kur Aldeskos upė\nįteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę\nlaiko pasakų išmone, tačiau mes, spręsdami iš senovės\n1 Lib."
+  citata_rodoma: |
+    Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+    Keliautojas tik sužinojo, kad jis renkamas prie Eridano
+    upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
+    gi kalba apie gintarą, randamą ten, kur Aldeskos upė
+    įteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę
+    laiko pasakų išmone, tačiau mes, spręsdami iš senovės
+    1 Lib.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

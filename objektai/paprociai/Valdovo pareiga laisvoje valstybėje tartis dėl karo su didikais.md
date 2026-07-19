@@ -106,7 +106,16 @@ Nenurodyta
     nei jo pastangos, nei karaliaus autoritetas nesutramdė
     pasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­
     das, pakvietė į karo sąjungininkus Švedijos karalių.
-  citata_rodoma: "Štai\ntodėl Augustas pasistengė Ivanui laiškais deramai pa­\nsiteisinti. Esą, galėdamas elgtis savo nuožiūra, neabe­\njotinai su džiaugsmu patrauktų į žygį prieš skitus, ta­\nčiau laisvų žmonių valstybėje valdovas įstatymų ver­\nčiamas skaitytis su kitų nuomone. Lenkijos didikai tuo\ntarpu nieku būdu negalėsią pritarti jo pasiūlymui ka­\nriauti su skitais, nes visiems aišku, jog, pakėlus ginklą\nprieš skitus, bematant susirengs į karo žygį turkai."
+  citata_rodoma: |
+    Štai
+    todėl Augustas pasistengė Ivanui laiškais deramai pa­
+    siteisinti. Esą, galėdamas elgtis savo nuožiūra, neabe­
+    jotinai su džiaugsmu patrauktų į žygį prieš skitus, ta­
+    čiau laisvų žmonių valstybėje valdovas įstatymų ver­
+    čiamas skaitytis su kitų nuomone. Lenkijos didikai tuo
+    tarpu nieku būdu negalėsią pritarti jo pasiūlymui ka­
+    riauti su skitais, nes visiems aišku, jog, pakėlus ginklą
+    prieš skitus, bematant susirengs į karo žygį turkai.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

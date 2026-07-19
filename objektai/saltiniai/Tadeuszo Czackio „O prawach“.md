@@ -76,7 +76,9 @@ Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio
     pakirptuvėmis buvo pažymimas kiekvienas žmogaus gyveni­
     mo laikotarpis, pradedant jaunyste, kai pasikeisdavo padėtis,
     pareigos ir 1.1.
-  citata_rodoma: "10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -\nS. 61-62. - Nota nr. 331)."
+  citata_rodoma: |
+    10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
+    S. 61-62. - Nota nr. 331).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

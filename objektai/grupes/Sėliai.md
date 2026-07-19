@@ -83,7 +83,12 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
     tis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos
     vidurupio krante gyveno latgãliai (taip šitų sričių gyven-
     tojus vadina senieji raštai).
-  citata_rodoma: "** Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo\nŠventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dau-\nguvos žemupio krante — žiemgaliai, kairiajame Dauguvos\nvidurupio krante, siekdami dabartines Utenos ir Zarasų apskri-\ntis, gyveno sėliai, o į šiaurę nuo jų, t."
+  citata_rodoma: |
+    ** Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo
+    Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dau-
+    guvos žemupio krante — žiemgaliai, kairiajame Dauguvos
+    vidurupio krante, siekdami dabartines Utenos ir Zarasų apskri-
+    tis, gyveno sėliai, o į šiaurę nuo jų, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

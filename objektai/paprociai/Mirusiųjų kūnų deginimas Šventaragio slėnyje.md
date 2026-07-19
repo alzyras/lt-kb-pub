@@ -146,7 +146,27 @@ Nenurodyta
     vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
     tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
     okratinio valdymo centrų tikrai galėjo būti8.
-  citata_rodoma: "I. Esą \npirmasis toje vietovėje įkurdinęs gy­\nvenvietę Germantas, vykdydamas \nsavo tėvo, kunigaikščio Šventaragio, \npasak jų, viešpatavusio Lietuvoje \napie 1268 m., valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo, \nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų \nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė \nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8."
+  citata_rodoma: |
+    I. Esą
+    pirmasis toje vietovėje įkurdinęs gy­
+    venvietę Germantas, vykdydamas
+    savo tėvo, kunigaikščio Šventaragio,
+    pasak jų, viešpatavusio Lietuvoje
+    apie 1268 m., valią, tam slėny pir­
+    masis miškus išnaikinęs ir savo tė­
+    vo bei savo paties įpėdinių kapavie­
+    tėms skyręs; pavadino ją vardu tėvo,
+    Šventaragio, kas reikštų Šventą al-
+    18
+
+    ## Puslapis 35
+
+    I  KNYGA
+    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
+    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
+    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
+    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
+    okratinio valdymo centrų tikrai galėjo būti8.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

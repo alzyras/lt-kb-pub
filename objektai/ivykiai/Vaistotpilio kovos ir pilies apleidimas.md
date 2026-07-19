@@ -179,7 +179,13 @@ Nenurodyta
     Gubros—Alnos santakoje, Sempopolio piliakalnyje (VBK; HE, p. 171, 144; Jasas R.,
     Didysis.., žemėlapis), be to, kituose Gubros pakrančių piliakalniuose ir gyvenvietėse:
     Ruvnina Dolnoje (Równina Dolna, buv.
-  citata_rodoma: "Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje\n\n  Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu\nVaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią\nten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis\nbrolius bei daugybę krikščionių."
+  citata_rodoma: |
+    Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
+
+      Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
+    Vaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią
+    ten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis
+    brolius bei daugybę krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

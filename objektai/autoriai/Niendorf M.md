@@ -57,7 +57,8 @@ Niendorf M.
     2005.
     Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in
     der Frühen Neuzeit (1569–1795).
-  citata_rodoma: "Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in"
+  citata_rodoma: |
+    Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

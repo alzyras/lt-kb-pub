@@ -60,7 +60,11 @@ Tiergard’as reiškė tą pačią nuomonę.
     tą pačią nuomonę. Informuodamas vyriausią magistrą apie Vy­
     tauto pretenzijas į Klaipėdą, jis įtikinėjo, jog « ordinui butų skriauda
     ir didelis nuostolis »^23.
-  citata_rodoma: "Ir pačioje Romoje sėdįs ordino prokuratorius J. Tiergard’as reiškė\ntą pačią nuomonę. Informuodamas vyriausią magistrą apie Vy­\ntauto pretenzijas į Klaipėdą, jis įtikinėjo, jog « ordinui butų skriauda\nir didelis nuostolis »^23."
+  citata_rodoma: |
+    Ir pačioje Romoje sėdįs ordino prokuratorius J. Tiergard’as reiškė
+    tą pačią nuomonę. Informuodamas vyriausią magistrą apie Vy­
+    tauto pretenzijas į Klaipėdą, jis įtikinėjo, jog « ordinui butų skriauda
+    ir didelis nuostolis »^23.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

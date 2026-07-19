@@ -152,7 +152,20 @@ Nenurodyta
     Ir didysis kunigaikštis vėl perduoda Smolensko val­
     dymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­
     vo sostinę.
-  citata_rodoma: "Tarybos ponai su kariuomene prastovėjo prie \nSmolensko tris savaites8  ir miesto niekaip neįveikė, \no priemiesčius bei vienuolynus sudegino, daug žmonių \nišsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­\njo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.\nDidysis kunigaikštis Kazimieras, sutelkęs visas savo \nLietuvos pajėgas, tą patį rudenį atėjo prie Smolensko, \npats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­\ngaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­\ntybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .\nIr didysis kunigaikštis vėl perduoda Smolensko val­\ndymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­\nvo sostinę."
+  citata_rodoma: |
+    Tarybos ponai su kariuomene prastovėjo prie
+    Smolensko tris savaites8  ir miesto niekaip neįveikė,
+    o priemiesčius bei vienuolynus sudegino, daug žmonių
+    išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
+    jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
+    Didysis kunigaikštis Kazimieras, sutelkęs visas savo
+    Lietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,
+    pats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­
+    gaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­
+    tybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .
+    Ir didysis kunigaikštis vėl perduoda Smolensko val­
+    dymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­
+    vo sostinę.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
@@ -181,7 +194,19 @@ Nenurodyta
     o priemiesčius bei vienuolynus sudegino, daug žmonių
     išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
     jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
-  citata_rodoma: "Ir tuomet pargrįžo bajorai nuo \nkunigaikščio Kazimiero; o jisai vieniems iš jų nukirto \ngalvas, kitus suėmęs sukaustė, visus jų turtus atėmė ir \nišdalijo savo bajorams, ir panūdo būti nepriklausamas \nnuo didžiojo kunigaikščio Kazimiero.\nKunigaikščiui Kazimierui to buvo labai gaila, ir jis \nsiunčia prieš Smolenską savo Tarybos ponus su kariuo­\nmene. Tarybos ponai su kariuomene prastovėjo prie \nSmolensko tris savaites8  ir miesto niekaip neįveikė, \no priemiesčius bei vienuolynus sudegino, daug žmonių \nišsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­\njo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą."
+  citata_rodoma: |
+    Ir tuomet pargrįžo bajorai nuo
+    kunigaikščio Kazimiero; o jisai vieniems iš jų nukirto
+    galvas, kitus suėmęs sukaustė, visus jų turtus atėmė ir
+    išdalijo savo bajorams, ir panūdo būti nepriklausamas
+    nuo didžiojo kunigaikščio Kazimiero.
+    Kunigaikščiui Kazimierui to buvo labai gaila, ir jis
+    siunčia prieš Smolenską savo Tarybos ponus su kariuo­
+    mene. Tarybos ponai su kariuomene prastovėjo prie
+    Smolensko tris savaites8  ir miesto niekaip neįveikė,
+    o priemiesčius bei vienuolynus sudegino, daug žmonių
+    išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
+    jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas

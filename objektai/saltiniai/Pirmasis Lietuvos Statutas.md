@@ -133,7 +133,18 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     mąjį Statutą. Miestų pastangos apsisaugoti nuo bajorų įta­
     kos buvo juo didesnės, juo stipriau oligarchija bandė įsitvir­
     tinti Lenkijos žemėje valdant paskutiniajam Jogailaičiui.
-  citata_rodoma: "Kai dar 1564 metais Bełsko seime Žygimantas Augustas \ntvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­\nrią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, \natsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­\nmus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­\nribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau \nbylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip \nsavo metu darė ir Žygimantas Senasis, paskelbdamas Pir­\nmąjį Statutą. Miestų pastangos apsisaugoti nuo bajorų įta­\nkos buvo juo didesnės, juo stipriau oligarchija bandė įsitvir­\ntinti Lenkijos žemėje valdant paskutiniajam Jogailaičiui."
+  citata_rodoma: |
+    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
+    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
+    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
+    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
+    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
+    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
+    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
+    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
+    mąjį Statutą. Miestų pastangos apsisaugoti nuo bajorų įta­
+    kos buvo juo didesnės, juo stipriau oligarchija bandė įsitvir­
+    tinti Lenkijos žemėje valdant paskutiniajam Jogailaičiui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -160,7 +171,20 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     jos tyrinėjimai žr. C z a c k i Rozpra­
     wa o żydach, p. 107, Vilniuje, Zavadz-
     kio sp., 1807.
-  citata_rodoma: "Tačiau nėra likę ženklų, kad \nLietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš \nprekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo, \nkad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi \napatija, ir miestiečių gyvenimas, pirma buvęs judresnis, ėmė\n68\nTa privilegija, vėliau paskelbta Pir­\nmojo Lietuvos Statuto pradžioje, \ntaip pat veikale C z a c k i O Litew­\nskich i Polskich prawach, T. I, p. 93; o \njos tyrinėjimai žr. C z a c k i Rozpra­\nwa o żydach, p. 107, Vilniuje, Zavadz- \nkio sp., 1807."
+  citata_rodoma: |
+    Tačiau nėra likę ženklų, kad
+    Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš
+    prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo,
+    kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi
+    apatija, ir miestiečių gyvenimas, pirma buvęs judresnis, ėmė
+    68
+    Ta privilegija, vėliau paskelbta Pir­
+    mojo Lietuvos Statuto pradžioje,
+    taip pat veikale C z a c k i O Litew­
+    skich i Polskich prawach, T. I, p. 93; o
+    jos tyrinėjimai žr. C z a c k i Rozpra­
+    wa o żydach, p. 107, Vilniuje, Zavadz-
+    kio sp., 1807.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

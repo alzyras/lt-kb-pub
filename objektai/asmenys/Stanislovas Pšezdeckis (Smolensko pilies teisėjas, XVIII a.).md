@@ -90,7 +90,12 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
     pateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu
     Tadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai. Seimelio metu referendorius
     protegavo Smolensko pilies teisėją Stanislovą Pšezdeckį (Stanisław Przezdiecki).
-  citata_rodoma: "1756 m. kanauninkas pasakojo apie Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio\nMykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko\npateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu\nTadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai. Seimelio metu referendorius\nprotegavo Smolensko pilies teisėją Stanislovą Pšezdeckį (Stanisław Przezdiecki)."
+  citata_rodoma: |
+    1756 m. kanauninkas pasakojo apie Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio
+    Mykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko
+    pateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu
+    Tadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai. Seimelio metu referendorius
+    protegavo Smolensko pilies teisėją Stanislovą Pšezdeckį (Stanisław Przezdiecki).
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

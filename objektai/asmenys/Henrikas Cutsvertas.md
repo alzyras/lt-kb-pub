@@ -261,7 +261,11 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
     kariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė
     vieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam
     priskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų.
-  citata_rodoma: "Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką\nCutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto\nJazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,\nkalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą."
+  citata_rodoma: |
+    Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
+    Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
+    Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
+    kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -295,7 +299,15 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
     neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
     be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
     belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių.
-  citata_rodoma: "Apie Aukaimio valsčiaus nusiaubimą\n\n   Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis\nHenrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių  ir tūkstančiu penkiais\nšimtais vyrų išjojo537 link Junigedos pilies; surengę pasalas, Ragainės broliai su savo\nginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių,\nkurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos\ntikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų."
+  citata_rodoma: |
+    Apie Aukaimio valsčiaus nusiaubimą
+
+       Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis
+    Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių  ir tūkstančiu penkiais
+    šimtais vyrų išjojo537 link Junigedos pilies; surengę pasalas, Ragainės broliai su savo
+    ginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių,
+    kurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos
+    tikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -322,7 +334,11 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
     272 (265). Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
     Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
     metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
-  citata_rodoma: "Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes."
+  citata_rodoma: |
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -345,7 +361,12 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
     dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
     bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
     apgins.
-  citata_rodoma: "Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir\npasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;\njie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu\ntučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“. Brolis Henrikas atsakė: „Jeigu\ntaip yra, kaip sakai, patark mums, ką turime daryti, kad išvengtume pavojų“."
+  citata_rodoma: |
+    Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir
+    pasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;
+    jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu
+    tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“. Brolis Henrikas atsakė: „Jeigu
+    taip yra, kaip sakai, patark mums, ką turime daryti, kad išvengtume pavojų“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -381,7 +402,30 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
     sus kitus būrius abipus kelio
     pasalose, jis įsakė Ragainės
     būriui traukti tiesiai prie pilies vartų.
-  citata_rodoma: "Pasivijęs jį, atsitraukiantį su dideliu grobiu,\nJazbutas įniko persekioti už-\nN u žu d o m a s\nlie tu v ių\npakaimę vorą, kuriai tuomet\nk u n ig a ik štis J a zb u ta s\nvadovavo Henrikas Cutsver-\ntas. Šį išvydęs, Jazbutas, su\nįniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų\npuolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­\nrikas ietimi persmeigė Jazbutą, kuris, griūdamas že­\nmėn, nukirto kalaviju puolančiam nugalėtojui pirštą.\nSusidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­\nnio būrio kariai veržėsi ginti užpakalinio, kadangi ir\nlietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,\nm\n\n## Puslapis 165\n\nbijodami patekti j pasalas, vengė nutolti nuo stovyk­\nlos) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­\nna pusė, tačiau visas grobis, lietuviams matant ir iš\npykčio griežiant dantimis, buvo išgabentas j Prūsiją."
+  citata_rodoma: |
+    Pasivijęs jį, atsitraukiantį su dideliu grobiu,
+    Jazbutas įniko persekioti už-
+    N u žu d o m a s
+    lie tu v ių
+    pakaimę vorą, kuriai tuomet
+    k u n ig a ik štis J a zb u ta s
+    vadovavo Henrikas Cutsver-
+    tas. Šį išvydęs, Jazbutas, su
+    įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
+    puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
+    rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
+    mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
+    Susidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­
+    nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
+    lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
+    m
+
+    ## Puslapis 165
+
+    bijodami patekti j pasalas, vengė nutolti nuo stovyk­
+    los) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­
+    na pusė, tačiau visas grobis, lietuviams matant ir iš
+    pykčio griežiant dantimis, buvo išgabentas j Prūsiją.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

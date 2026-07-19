@@ -127,7 +127,8 @@ Nenurodyta
     Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-
     nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose
     ir nelegalų jos platinimą Lietuvoje.
-  citata_rodoma: "nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose"
+  citata_rodoma: |
+    nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

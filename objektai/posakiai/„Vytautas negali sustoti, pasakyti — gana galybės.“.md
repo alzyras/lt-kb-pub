@@ -112,7 +112,10 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     Valdžia, mat, turi tendencijos vis didėt, plėto­
     tis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­
     ma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti.
-  citata_rodoma: "Valdžia, mat, turi tendencijos vis didėt, plėto­\ntis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­\nma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti."
+  citata_rodoma: |
+    Valdžia, mat, turi tendencijos vis didėt, plėto­
+    tis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­
+    ma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -130,7 +133,10 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo
     galybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­
     žymų. 1401, 1413, 1429 m. to proceso etapai.
-  citata_rodoma: "Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo\ngalybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­\nžymų. 1401, 1413, 1429 m. to proceso etapai."
+  citata_rodoma: |
+    Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo
+    galybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­
+    žymų. 1401, 1413, 1429 m. to proceso etapai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

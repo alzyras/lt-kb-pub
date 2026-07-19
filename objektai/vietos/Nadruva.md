@@ -506,7 +506,19 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
     pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
     464  D. čia pats sau prieštarauja.
-  citata_rodoma: "Apie įvykius prieš šį karą\n\n   Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,\nįsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne\nkurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima\npasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.\n\n\n\n\n\n  464  D."
+  citata_rodoma: |
+    Apie įvykius prieš šį karą
+
+       Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
+    įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne
+    kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
+    pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
+
+
+
+
+
+      464  D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -564,7 +576,11 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -613,7 +629,11 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
     už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
     rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: "Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei\nankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva\nbei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;\nvakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4."
+  citata_rodoma: |
+    Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
+    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
+    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
+    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -694,7 +714,17 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     anuomet nebuvo visiškai tikslios sienos dėl tarp jų ply-
     tėjusių dykrų; iš šiaurės sienos buvo tikresnės ir geriau
     nustatytos.
-  citata_rodoma: "Nadruva\nDevinta prūsų provincija buvo Nadruva, kuri šiau­\nrėje ribojosi su Sūduva, galbūt per Pisos upę. Kiek to­\nliau į vakarus buvo Barta, o pietuose — provincija, kurią\nskyrė Prieglius ir Angerapė. Tačiau vėlesniais laikais ap­\ntinkama, jog Nadruvos valdos tęsėsi net iki Nordenburgo.\nRytuose Nadruva ribojosi su Lietuva ir Žemaitija, bet\nanuomet nebuvo visiškai tikslios sienos dėl tarp jų ply-\ntėjusių dykrų; iš šiaurės sienos buvo tikresnės ir geriau\nnustatytos."
+  citata_rodoma: |
+    Nadruva
+    Devinta prūsų provincija buvo Nadruva, kuri šiau­
+    rėje ribojosi su Sūduva, galbūt per Pisos upę. Kiek to­
+    liau į vakarus buvo Barta, o pietuose — provincija, kurią
+    skyrė Prieglius ir Angerapė. Tačiau vėlesniais laikais ap­
+    tinkama, jog Nadruvos valdos tęsėsi net iki Nordenburgo.
+    Rytuose Nadruva ribojosi su Lietuva ir Žemaitija, bet
+    anuomet nebuvo visiškai tikslios sienos dėl tarp jų ply-
+    tėjusių dykrų; iš šiaurės sienos buvo tikresnės ir geriau
+    nustatytos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -720,7 +750,15 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     didelėje girioje,i žinomoje Graudenu pavadinimu ir nusi­
     driekusioje per visą šios provincijos rytinę dalį, buvo dau­
     gybė įvairiausių laukinių žvėrių.
-  citata_rodoma: "Tvirtovių val­\ndovai buvo įtakingi krašto žmonės, nes ir čia aukštes­\nnioji klasė valdė žemesniąją. Dėl vietovės savitumo Nad-\nruva nuo kitų provincijų skyrėsi tuo, kad ji beveik netu­\nrėjo jokių ežerų, tačiau ji buvo turtinga miškų. Gana\ndidelėje girioje,i žinomoje Graudenu pavadinimu ir nusi­\ndriekusioje per visą šios provincijos rytinę dalį, buvo dau­\ngybė įvairiausių laukinių žvėrių."
+  citata_rodoma: |
+    Tvirtovių val­
+    dovai buvo įtakingi krašto žmonės, nes ir čia aukštes­
+    nioji klasė valdė žemesniąją. Dėl vietovės savitumo Nad-
+    ruva nuo kitų provincijų skyrėsi tuo, kad ji beveik netu­
+    rėjo jokių ežerų, tačiau ji buvo turtinga miškų. Gana
+    didelėje girioje,i žinomoje Graudenu pavadinimu ir nusi­
+    driekusioje per visą šios provincijos rytinę dalį, buvo dau­
+    gybė įvairiausių laukinių žvėrių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

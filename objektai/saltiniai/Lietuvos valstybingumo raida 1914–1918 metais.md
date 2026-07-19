@@ -62,7 +62,8 @@ Lietuvos valstybingumo raida 1914–1918 metais.
     Ams-
     terdam–New York, 2010.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
-  citata_rodoma: "Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996."
+  citata_rodoma: |
+    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

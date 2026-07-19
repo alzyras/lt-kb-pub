@@ -74,7 +74,15 @@ auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 d
     čienę, Ašmenos žemės raštinink., iš kurios metinių procen­
     tų, skaičiuojant nuo 100 po 7, kasmet būdavo gaunama po
     280 auksinų.
-  citata_rodoma: "Insuper [be to], be nenuolatinių ir nevienodų pajamų, ku­\nrias spaustuvė kasmet gauna parduodama knygas, ji dar turi \n4000 lenk. auksinų sumą, iš minėto pardavimo sudariusi, \nkuri 1759 metų balandžio 22 dienos skolaraščiu investuota \npas Jos Malonybę ponią Barborą iš Sulistrovskių Čechavi­\nčienę, Ašmenos žemės raštinink., iš kurios metinių procen­\ntų, skaičiuojant nuo 100 po 7, kasmet būdavo gaunama po \n280 auksinų."
+  citata_rodoma: |
+    Insuper [be to], be nenuolatinių ir nevienodų pajamų, ku­
+    rias spaustuvė kasmet gauna parduodama knygas, ji dar turi
+    4000 lenk. auksinų sumą, iš minėto pardavimo sudariusi,
+    kuri 1759 metų balandžio 22 dienos skolaraščiu investuota
+    pas Jos Malonybę ponią Barborą iš Sulistrovskių Čechavi­
+    čienę, Ašmenos žemės raštinink., iš kurios metinių procen­
+    tų, skaičiuojant nuo 100 po 7, kasmet būdavo gaunama po
+    280 auksinų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

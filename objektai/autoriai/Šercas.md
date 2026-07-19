@@ -83,7 +83,16 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
     čiam atėjo į galvą lengvabūdiškai pasakyti, tarytum kas nors
     būtų palaikęs rusų šventikus pasakų išmone, o Peterburgo pa­
     vadinimą kildinęs iš Romos šv.
-  citata_rodoma: "411\n\n## Puslapis 411\n\n-  P. 375) ir Šerco (Scherz. Glossarium Germanorum. -  P. 364),\nverčiamas kaip legis custos, sacerdos; ewa -  lex et testamentum,\nquia vim habet legis: inde eu-werd (įstatymo saugotojas,\ndvasininkas; ewa -  įstatymas ir testamentas, kadangi turi\nįstatymo galią; iš to eu-werd)."
+  citata_rodoma: |
+    411
+
+    ## Puslapis 411
+
+    -  P. 375) ir Šerco (Scherz. Glossarium Germanorum. -  P. 364),
+    verčiamas kaip legis custos, sacerdos; ewa -  lex et testamentum,
+    quia vim habet legis: inde eu-werd (įstatymo saugotojas,
+    dvasininkas; ewa -  įstatymas ir testamentas, kadangi turi
+    įstatymo galią; iš to eu-werd).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

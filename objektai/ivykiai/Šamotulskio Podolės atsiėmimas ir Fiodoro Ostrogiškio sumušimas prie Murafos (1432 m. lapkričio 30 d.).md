@@ -189,7 +189,32 @@ Nenurodyta
     ti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia,
     tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
     mo ne visuomet leidžia sulaukti panašaus galo.
-  citata_rodoma: "Kryžiuočiai \nmėgina \nsudrumsti taikų len­\nkų ir lietuvių sugy­\nvenimą\n4 4 4\n\nTuo metu, kai Žygimantas \nŠ v itrig a ila \nįs iv e ržia \ntvarkė Lietuvą, Boleslovas\nį L ietu vą , o į P o d o lę \ntelkė kariuomenę Rusioje, ku-\np a siu n čia \nO stro g o \nrią bemaž visą buvo patrau-\nk u n ig a ik štį \nkęs dosnumu į savo pusę, ke­\ntindamas pradėti karą iš kar­\nto ir su Žygimantu, ir su Jogaila. Padalijęs savo jėgas \ndviem žygio voromis, vieną pats nuvedė į Lietuvą, o \nkunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim­\nti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia, \ntačiau pirmosios sėkmės dėl žmonių laimės nepastovu­\nmo ne visuomet leidžia sulaukti panašaus galo."
+  citata_rodoma: |
+    Kryžiuočiai
+    mėgina
+    sudrumsti taikų len­
+    kų ir lietuvių sugy­
+    venimą
+    4 4 4
+
+    Tuo metu, kai Žygimantas
+    Š v itrig a ila
+    įs iv e ržia
+    tvarkė Lietuvą, Boleslovas
+    į L ietu vą , o į P o d o lę
+    telkė kariuomenę Rusioje, ku-
+    p a siu n čia
+    O stro g o
+    rią bemaž visą buvo patrau-
+    k u n ig a ik štį
+    kęs dosnumu į savo pusę, ke­
+    tindamas pradėti karą iš kar­
+    to ir su Žygimantu, ir su Jogaila. Padalijęs savo jėgas
+    dviem žygio voromis, vieną pats nuvedė į Lietuvą, o
+    kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim­
+    ti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia,
+    tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
+    mo ne visuomet leidžia sulaukti panašaus galo.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

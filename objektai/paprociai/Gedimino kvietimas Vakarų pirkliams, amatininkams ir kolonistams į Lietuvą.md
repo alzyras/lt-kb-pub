@@ -179,7 +179,15 @@ Nenurodyta
     1 skyrius •  S E N O J I  L I E T U VA
     33
     lonistus.
-  citata_rodoma: "Gedimino krikšto akcija \nnepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo. \nKrikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – \npriartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-\n\n1 skyrius •  S E N O J I  L I E T U VA\n33\nlonistus."
+  citata_rodoma: |
+    Gedimino krikšto akcija
+    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
+    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
+    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    33
+    lonistus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

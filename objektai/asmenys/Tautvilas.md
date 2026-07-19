@@ -338,7 +338,10 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
     Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
     remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
-  citata_rodoma: "Stiprindamas centrinę valdžią\nMindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,\nremiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą."
+  citata_rodoma: |
+    Stiprindamas centrinę valdžią
+    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
+    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -388,7 +391,43 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     broliui, riteriui kunigaikščiui, prie­
     dermes/7  Knyga XIII, p. 455, Varš.
     leid.
-  citata_rodoma: "- • —  \n126\n\n## Puslapis 143\n\nIl KNYGA\npo įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­\nžiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir \nkalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­\ntoliai buvo irgi ne mažesni; be daugybės nukautų karių, prie \nVilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­\nčio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­\nfas Algardas34. Šitaip Kryžiuočių ordino kruvina politika\n34\nStrijkovskis prie nukautų tos \napsupties metu priskiria Nariman­\ntą, įdėdamas šį D 1  u g o š o prasi­\nmanytą pasakojimą: „Narimantas, \nPinsko kunigaikštis, Jogailos tikras \nbrolis, tuo metu, kai narsiai abi pilis \nsu Lietuva ir Rusia gindamas ėjo į \npagalbą nuo vienų prie kitų, buvo \nkažkokio vokiečio riterio, ne pras­\nčioko, iš Vytauto pusės, iškviestas \nstoti vienas prieš vieną, o kai abu iš \nmūšio lauko atjoję į pievą narsiai su­\nkryžiavo ietis, ir pats Narimantas, \nnuo žirgo nublokštas, buvo sučiup­\ntas ir atvestas pas Vytautą, pastara­\nsis aną be gailesčio įsakė už kojų ant \nvinkšnos šakos pakarti lankoje, tarp \nvokiečių patrankų ir šaudyklių, o \npatį mirtinai iš lanko paleista strėle \npervėrė, pamindamas deramas pus­\nbroliui, riteriui kunigaikščiui, prie­\ndermes/7  Knyga XIII, p."
+  citata_rodoma: |
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
+    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
+    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
+    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
+    fas Algardas34. Šitaip Kryžiuočių ordino kruvina politika
+    34
+    Strijkovskis prie nukautų tos
+    apsupties metu priskiria Nariman­
+    tą, įdėdamas šį D 1  u g o š o prasi­
+    manytą pasakojimą: „Narimantas,
+    Pinsko kunigaikštis, Jogailos tikras
+    brolis, tuo metu, kai narsiai abi pilis
+    su Lietuva ir Rusia gindamas ėjo į
+    pagalbą nuo vienų prie kitų, buvo
+    kažkokio vokiečio riterio, ne pras­
+    čioko, iš Vytauto pusės, iškviestas
+    stoti vienas prieš vieną, o kai abu iš
+    mūšio lauko atjoję į pievą narsiai su­
+    kryžiavo ietis, ir pats Narimantas,
+    nuo žirgo nublokštas, buvo sučiup­
+    tas ir atvestas pas Vytautą, pastara­
+    sis aną be gailesčio įsakė už kojų ant
+    vinkšnos šakos pakarti lankoje, tarp
+    vokiečių patrankų ir šaudyklių, o
+    patį mirtinai iš lanko paleista strėle
+    pervėrė, pamindamas deramas pus­
+    broliui, riteriui kunigaikščiui, prie­
+    dermes/7  Knyga XIII, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -408,7 +447,11 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno
     Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­
     das, o Vitebske jų dėdė, motinos brolis, Vikintas.
-  citata_rodoma: "Juodąją Rusiją. Tuo pat metu\nLietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno\nMindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­\ndas, o Vitebske jų dėdė, motinos brolis, Vikintas."
+  citata_rodoma: |
+    Juodąją Rusiją. Tuo pat metu
+    Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno
+    Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­
+    das, o Vitebske jų dėdė, motinos brolis, Vikintas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -434,7 +477,21 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     skirįąs? Vaišvilkas mat, pasipiktinęs savo tėvo Min­
     daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
     rusus, kur kitados gyveno kaip įkaitas.
-  citata_rodoma: "Ko galėjo tikėtis iš tų, kuriuos jis savo pavyzdžiu bu­\nvo išmokęs neištikimybės? Todėl, norėdamas sutvir­\ntinti padėtį prieš bet kokius galimus varžovus, jis iš­\nkvietė iš Polocko savo pusbrolį Tautvilą. Šiam atvykus\nir abiem pasveikinus vienam kitą, kad pašalintas bend­\nras priešas, Tautvilas pradėjo\nT a u tv ila s\nre zg a\nsą-\ndėl akių tartis su Treniota\nm o k slą  p rie š T ren io tą\napie valstybės reikalus, o\nslapta su savaisiais regzti\nprieš jį naują sąmokslą."
+  citata_rodoma: |
+    Ko galėjo tikėtis iš tų, kuriuos jis savo pavyzdžiu bu­
+    vo išmokęs neištikimybės? Todėl, norėdamas sutvir­
+    tinti padėtį prieš bet kokius galimus varžovus, jis iš­
+    kvietė iš Polocko savo pusbrolį Tautvilą. Šiam atvykus
+    ir abiem pasveikinus vienam kitą, kad pašalintas bend­
+    ras priešas, Tautvilas pradėjo
+    T a u tv ila s
+    re zg a
+    są-
+    dėl akių tartis su Treniota
+    m o k slą  p rie š T ren io tą
+    apie valstybės reikalus, o
+    slapta su savaisiais regzti
+    prieš jį naują sąmokslą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -476,7 +533,10 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     vardis primena totorių-mongolų chano Batu karvedį Kaidaną.
     11 Kaidanovo vietovardyje tikrai galėjo atsispindėti buvęs di­
     delis mūšis su Kaidano vadovaujamais totoriais.
-  citata_rodoma: "10 Kaldanovas — dabar BTSR Minsko sr. miestas Dzeržinskas. \nXVI a. buvo | šiaurę nuo Naugarduko vaivadijos sienos. Vieto­\nvardis primena totorių-mongolų chano Batu karvedį Kaidaną."
+  citata_rodoma: |
+    10 Kaldanovas — dabar BTSR Minsko sr. miestas Dzeržinskas.
+    XVI a. buvo | šiaurę nuo Naugarduko vaivadijos sienos. Vieto­
+    vardis primena totorių-mongolų chano Batu karvedį Kaidaną.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -599,7 +659,10 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     vardis primena totorių-mongolų chano Batu karvedį Kaidaną.
     11 Kaidanovo vietovardyje tikrai galėjo atsispindėti buvęs di­
     delis mūšis su Kaidano vadovaujamais totoriais.
-  citata_rodoma: "10 Kaldanovas — dabar BTSR Minsko sr. miestas Dzeržinskas. \nXVI a. buvo | šiaurę nuo Naugarduko vaivadijos sienos. Vieto­\nvardis primena totorių-mongolų chano Batu karvedį Kaidaną."
+  citata_rodoma: |
+    10 Kaldanovas — dabar BTSR Minsko sr. miestas Dzeržinskas.
+    XVI a. buvo | šiaurę nuo Naugarduko vaivadijos sienos. Vieto­
+    vardis primena totorių-mongolų chano Batu karvedį Kaidaną.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -634,7 +697,11 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
     Šis nuo 1382 m. rodė ištikimybę savo švogeriui Vytautui (juodu
     buvo vedę kunigaikštytes seseris Sudimantaites).
-  citata_rodoma: "Dalis jo šalininkų\nbuvo sumesti į kalėjimą. Iš Vytauto brolio Tautvilos buvo atimtas\nNaugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.\nŠis nuo 1382 m."
+  citata_rodoma: |
+    Dalis jo šalininkų
+    buvo sumesti į kalėjimą. Iš Vytauto brolio Tautvilos buvo atimtas
+    Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
+    Šis nuo 1382 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -651,7 +718,10 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
     Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
     remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
-  citata_rodoma: "Stiprindamas centrinę valdžią\nMindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,\nremiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą."
+  citata_rodoma: |
+    Stiprindamas centrinę valdžią
+    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
+    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -700,7 +770,43 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     broliui, riteriui kunigaikščiui, prie­
     dermes/7  Knyga XIII, p. 455, Varš.
     leid.
-  citata_rodoma: "- • —  \n126\n\n## Puslapis 143\n\nIl KNYGA\npo įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­\nžiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir \nkalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­\ntoliai buvo irgi ne mažesni; be daugybės nukautų karių, prie \nVilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­\nčio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­\nfas Algardas34. Šitaip Kryžiuočių ordino kruvina politika\n34\nStrijkovskis prie nukautų tos \napsupties metu priskiria Nariman­\ntą, įdėdamas šį D 1  u g o š o prasi­\nmanytą pasakojimą: „Narimantas, \nPinsko kunigaikštis, Jogailos tikras \nbrolis, tuo metu, kai narsiai abi pilis \nsu Lietuva ir Rusia gindamas ėjo į \npagalbą nuo vienų prie kitų, buvo \nkažkokio vokiečio riterio, ne pras­\nčioko, iš Vytauto pusės, iškviestas \nstoti vienas prieš vieną, o kai abu iš \nmūšio lauko atjoję į pievą narsiai su­\nkryžiavo ietis, ir pats Narimantas, \nnuo žirgo nublokštas, buvo sučiup­\ntas ir atvestas pas Vytautą, pastara­\nsis aną be gailesčio įsakė už kojų ant \nvinkšnos šakos pakarti lankoje, tarp \nvokiečių patrankų ir šaudyklių, o \npatį mirtinai iš lanko paleista strėle \npervėrė, pamindamas deramas pus­\nbroliui, riteriui kunigaikščiui, prie­\ndermes/7  Knyga XIII, p."
+  citata_rodoma: |
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
+    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
+    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
+    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
+    fas Algardas34. Šitaip Kryžiuočių ordino kruvina politika
+    34
+    Strijkovskis prie nukautų tos
+    apsupties metu priskiria Nariman­
+    tą, įdėdamas šį D 1  u g o š o prasi­
+    manytą pasakojimą: „Narimantas,
+    Pinsko kunigaikštis, Jogailos tikras
+    brolis, tuo metu, kai narsiai abi pilis
+    su Lietuva ir Rusia gindamas ėjo į
+    pagalbą nuo vienų prie kitų, buvo
+    kažkokio vokiečio riterio, ne pras­
+    čioko, iš Vytauto pusės, iškviestas
+    stoti vienas prieš vieną, o kai abu iš
+    mūšio lauko atjoję į pievą narsiai su­
+    kryžiavo ietis, ir pats Narimantas,
+    nuo žirgo nublokštas, buvo sučiup­
+    tas ir atvestas pas Vytautą, pastara­
+    sis aną be gailesčio įsakė už kojų ant
+    vinkšnos šakos pakarti lankoje, tarp
+    vokiečių patrankų ir šaudyklių, o
+    patį mirtinai iš lanko paleista strėle
+    pervėrė, pamindamas deramas pus­
+    broliui, riteriui kunigaikščiui, prie­
+    dermes/7  Knyga XIII, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -719,7 +825,11 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno
     Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­
     das, o Vitebske jų dėdė, motinos brolis, Vikintas.
-  citata_rodoma: "Juodąją Rusiją. Tuo pat metu\nLietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno\nMindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­\ndas, o Vitebske jų dėdė, motinos brolis, Vikintas."
+  citata_rodoma: |
+    Juodąją Rusiją. Tuo pat metu
+    Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno
+    Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­
+    das, o Vitebske jų dėdė, motinos brolis, Vikintas.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 

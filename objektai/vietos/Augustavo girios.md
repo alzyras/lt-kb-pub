@@ -61,12 +61,17 @@ Daugelis kronikų aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedž
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Kovose jis yra parodęs daug vikrumo. Daugelis kronikų
+    Daugelis kronikų
     aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedžiodamas,
     ar bežygiuodamas į priešo kraštą, Lietuvos pasienyje (Augustavo
     giriose) 1361 m. pakliuvo į kryžiuočių nelaisvę. Bet po 7 mėnesių
     jam pavyko pabėgti ir iš saugių Marienburgo mūrų^9.
-  citata_rodoma: "Daugelis kronikų\naprašė ir Europoje plačiai išgarsino tai, kaip jis bemedžiodamas,\nar bežygiuodamas į priešo kraštą, Lietuvos pasienyje (Augustavo\ngiriose) 1361 m. pakliuvo į kryžiuočių nelaisvę. Bet po 7 mėnesių\njam pavyko pabėgti ir iš saugių Marienburgo mūrų^9."
+  citata_rodoma: |
+    Daugelis kronikų
+    aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedžiodamas,
+    ar bežygiuodamas į priešo kraštą, Lietuvos pasienyje (Augustavo
+    giriose) 1361 m. pakliuvo į kryžiuočių nelaisvę. Bet po 7 mėnesių
+    jam pavyko pabėgti ir iš saugių Marienburgo mūrų^9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

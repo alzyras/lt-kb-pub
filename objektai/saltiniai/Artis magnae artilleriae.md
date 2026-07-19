@@ -137,7 +137,8 @@ media_all_json: |-
     („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
     orija.
-  citata_rodoma: "(„Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos"
+  citata_rodoma: |
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -160,7 +161,8 @@ media_all_json: |-
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: "Žymiausio LDK karo inžinieriaus, daugiapakopių raketų"
+  citata_rodoma: |
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

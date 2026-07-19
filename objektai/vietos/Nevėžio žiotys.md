@@ -63,7 +63,12 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
     (greičiausiai per Nemuno senvagę į salą).
     Tiltas galuose turėjo du gynybinius bokš-
     tus.
-  citata_rodoma: "Siekdamas atkurti gynybą Nemuno-\nNeries-Nevėžio žiočių ruože, Kęstutis\nstatydino pilį Nevėžio žiočių Vyrgalės sa-\nloje - Naująjį Kauną ir „tiltą per Nemuną“\n(greičiausiai per Nemuno senvagę į salą)."
+  citata_rodoma: |
+    Siekdamas atkurti gynybą Nemuno-
+    Neries-Nevėžio žiočių ruože, Kęstutis
+    statydino pilį Nevėžio žiočių Vyrgalės sa-
+    loje - Naująjį Kauną ir „tiltą per Nemuną“
+    (greičiausiai per Nemuno senvagę į salą).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

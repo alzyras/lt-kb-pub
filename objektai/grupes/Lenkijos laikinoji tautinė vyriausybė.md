@@ -59,7 +59,8 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
     buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
     „baltiesiems“.
-  citata_rodoma: "lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė"
+  citata_rodoma: |
+    lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

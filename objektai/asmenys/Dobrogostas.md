@@ -168,7 +168,18 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     užuominomis, kurias aptikau Vil­
     niaus kapitulos ar Karaliauč. slapt.
     archyvo dokumentuose.
-  citata_rodoma: "O keturi naujai įvesti prelatų ir aštuoni kanauninkų \ntitulai buvo atiduoti uoliausiems lenkų kunigams, platinan­\ntiems Lietuvoje Kristaus tikėjimą. Netrukus Poznanės vys­\nkupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­\npiežių išprašyti bulės, patvirtinančios naujo ganytojo \nišrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat \naprūpino ją nemenkomis pajamomis: be turtingos Klodovo \nklebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam\nbet ir kai kuriais padavimais ar \nužuominomis, kurias aptikau Vil­\nniaus kapitulos ar Karaliauč."
+  citata_rodoma: |
+    O keturi naujai įvesti prelatų ir aštuoni kanauninkų
+    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
+    tiems Lietuvoje Kristaus tikėjimą. Netrukus Poznanės vys­
+    kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­
+    piežių išprašyti bulės, patvirtinančios naujo ganytojo
+    išrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat
+    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
+    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
+    bet ir kai kuriais padavimais ar
+    užuominomis, kurias aptikau Vil­
+    niaus kapitulos ar Karaliauč.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

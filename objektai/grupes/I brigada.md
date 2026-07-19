@@ -73,7 +73,13 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
     minių-Bružų- Naujasodės linijoje.
 
     Karin.
-  citata_rodoma: "Puolimą pradėjo I brigada, jos\nsvarbiausias uždavinys buvo pralaužti\nbolševikų gynybą gerai įtvirtintoje Gal-\nminių-Bružų- Naujasodės linijoje.\n\nKarin."
+  citata_rodoma: |
+    Puolimą pradėjo I brigada, jos
+    svarbiausias uždavinys buvo pralaužti
+    bolševikų gynybą gerai įtvirtintoje Gal-
+    minių-Bružų- Naujasodės linijoje.
+
+    Karin.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

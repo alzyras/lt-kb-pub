@@ -78,7 +78,10 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: "pagaliau iš Voluinės, iš Ostroho buvo nepa-\nprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-\nkos“ kilmės kunigaikščiai Ostrogiškiai."
+  citata_rodoma: |
+    pagaliau iš Voluinės, iš Ostroho buvo nepa-
+    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
+    kos“ kilmės kunigaikščiai Ostrogiškiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

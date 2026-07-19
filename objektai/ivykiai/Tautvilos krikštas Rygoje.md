@@ -77,7 +77,10 @@ Nenurodyta
     Iš ten Tautvilą su Danieliui skirtais belaisviais nu­
     vyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme,
     ir jis buvo pakrikštytas.
-  citata_rodoma: "Iš ten Tautvilą su Danieliui skirtais belaisviais nu-\nvyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme, \nir jis buvo pakrikštytas."
+  citata_rodoma: |
+    Iš ten Tautvilą su Danieliui skirtais belaisviais nu-
+    vyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme,
+    ir jis buvo pakrikštytas.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

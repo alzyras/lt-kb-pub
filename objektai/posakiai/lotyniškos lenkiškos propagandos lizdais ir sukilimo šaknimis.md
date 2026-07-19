@@ -51,7 +51,9 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
     lyčios: joms buvo prikišta, kad be leidimo buvusios pasta-
     tytos. Nebuvo aplenkti nė vienuolynai: juos paskelbė „lo-
     tyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
-  citata_rodoma: "Nebuvo aplenkti nė vienuolynai: juos paskelbė „lo-\ntyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis\"."
+  citata_rodoma: |
+    Nebuvo aplenkti nė vienuolynai: juos paskelbė „lo-
+    tyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

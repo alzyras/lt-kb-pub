@@ -71,7 +71,10 @@ Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio «Traid
     Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio
     «Traidenio» I (1316-41). Šio sūnus Boleslovas-Jurgis II (1324-40),
     Gediminui neprieštaraujant, perėmė dėdžių palikimą.
-  citata_rodoma: "Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio\n«Traidenio» I (1316-41). Šio sūnus Boleslovas-Jurgis II (1324-40),\nGediminui neprieštaraujant, perėmė dėdžių palikimą."
+  citata_rodoma: |
+    Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio
+    «Traidenio» I (1316-41). Šio sūnus Boleslovas-Jurgis II (1324-40),
+    Gediminui neprieštaraujant, perėmė dėdžių palikimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

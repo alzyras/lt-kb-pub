@@ -86,7 +86,8 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
     1958, 75-98 p. ; vėlesni tyrinėjimai, t. p. t. 27, 1, 1961, 27-49 p. ; RoB,
     t. 1, 1961, 131-191 p. ; RoB, t. 3, 1962, 233-297 p. — (”) _Cmentarzysko
     kurhanowe w miejsc.
-  citata_rodoma: "— Gimbutienė, M. : _Vidurinis geležies amžius_ , LE, t. 15, 282-285 p."
+  citata_rodoma: |
+    — Gimbutienė, M. : _Vidurinis geležies amžius_ , LE, t. 15, 282-285 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -103,7 +104,10 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
     sen,_ Königsberg 1927. — Gimbutienė (Gimbutas), M. : _A Survey of the
     Bronze Age Culture in the South-eastern Baltic Area_ , Światowit, t. 23, 1960,
     atsp. 45 p. — (”) _The Bronze Age Cultures of Central and Eastern Europe,_
-  citata_rodoma: "— Gimbutienė (Gimbutas), M. : _A Survey of the\nBronze Age Culture in the South-eastern Baltic Area_ , Światowit, t. 23, 1960,\natsp. 45 p."
+  citata_rodoma: |
+    — Gimbutienė (Gimbutas), M. : _A Survey of the
+    Bronze Age Culture in the South-eastern Baltic Area_ , Światowit, t. 23, 1960,
+    atsp. 45 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -113,7 +113,14 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
     nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
     kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
     rų savininkams — bajorams.
-  citata_rodoma: ") nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo\npastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti\ndidžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio\nmokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to\nnepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam\nkunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-\nrų savininkams — bajorams."
+  citata_rodoma: |
+    ) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo
+    pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti
+    didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio
+    mokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to
+    nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
+    kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
+    rų savininkams — bajorams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

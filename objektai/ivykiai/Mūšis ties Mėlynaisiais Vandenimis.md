@@ -138,7 +138,11 @@ Nenurodyta
     laikotarpio žinomas Kutlubugas, kuris 1382 m. buvo Krymo val­
     dytoju. Apie kitus du čia minimus totorių vadus Chadžibėjų ir Di-
     mltrų žinių nėra.
-  citata_rodoma: "1 Vienas Kutlubugas minimas IM 1277 m. Iš Algirdo valdymo \nlaikotarpio žinomas Kutlubugas, kuris 1382 m. buvo Krymo val­\ndytoju. Apie kitus du čia minimus totorių vadus Chadžibėjų ir Di-\nmltrų žinių nėra."
+  citata_rodoma: |
+    1 Vienas Kutlubugas minimas IM 1277 m. Iš Algirdo valdymo
+    laikotarpio žinomas Kutlubugas, kuris 1382 m. buvo Krymo val­
+    dytoju. Apie kitus du čia minimus totorių vadus Chadžibėjų ir Di-
+    mltrų žinių nėra.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

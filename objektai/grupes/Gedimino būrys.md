@@ -64,7 +64,15 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     Juos visus į bendrą Žuvinto-Palių junginį
     suvienijo ir jam vadovavo Lietuvos kariuo-
     menės majoras Sergijus Staniškis-Litas.
-  citata_rodoma: "Partizanų pajėgos\n\nTuo metu Žuvinto paliose ir Buktos\n(Žaliosios) miške jau veikė Gedimino,\nKlarko, Juozo Pandeikos, Edvardo ir Jurgio\nLajų bei Kosto Barkausko būriai. Prie\nDaukšių bazavosi „Muškietininkų“ būrys,\nvadovaujamas Vlado Gavėno-Tarzano."
+  citata_rodoma: |
+    Partizanų pajėgos
+
+    Tuo metu Žuvinto paliose ir Buktos
+    (Žaliosios) miške jau veikė Gedimino,
+    Klarko, Juozo Pandeikos, Edvardo ir Jurgio
+    Lajų bei Kosto Barkausko būriai. Prie
+    Daukšių bazavosi „Muškietininkų“ būrys,
+    vadovaujamas Vlado Gavėno-Tarzano.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

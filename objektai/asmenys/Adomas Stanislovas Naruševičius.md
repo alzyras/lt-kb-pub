@@ -220,7 +220,13 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
     Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
     sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
     nėje Mazovijoje.
-  citata_rodoma: "70\n161 metai. Gotų žygis su Filimeru. 161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus."
+  citata_rodoma: |
+    70
+    161 metai. Gotų žygis su Filimeru. 161 krikščioniško­
+    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
+    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
+    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
+    met ribojo senovės geografų taip pavadintus kraštus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -242,7 +248,15 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
     atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
     nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
     1 Lib. XXXI.
-  citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
+  citata_rodoma: |
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -262,7 +276,13 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
     vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
     rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
     liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
-  citata_rodoma: "Tai, be\nabejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­\ntojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­\nnės sutampa. Sis geografas pastarosios aukštupyje kuo\naiškiausiai apgyvendina gelonų tautą2. Naruševičius taip\npat patvirtina tai daugelyje savo darbų3."
+  citata_rodoma: |
+    Tai, be
+    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
+    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
+    nės sutampa. Sis geografas pastarosios aukštupyje kuo
+    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
+    pat patvirtina tai daugelyje savo darbų3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

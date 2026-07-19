@@ -80,7 +80,8 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
     Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia
     susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia su-
     griuvusios SSRS teritorijoje.
-  citata_rodoma: "Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia"
+  citata_rodoma: |
+    Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

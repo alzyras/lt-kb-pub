@@ -130,7 +130,14 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
         karvedžiu nuo to, jog į karę svietą vedė, jau atmonu, jog ėjo atmonyti^978 neprieteliams sau žalas ir
         abydas padarytas. Vadino jį didžiuoju gaspadorium, arba didžiuoju kunigaikščiu, beje, didžiuoju
         kunigu, arba rykiu, beje, karalium, nuo žodžio lotyniško rex regis – karalius.
-  citata_rodoma: "Pakajui esant, kunigai ūkę rėdė, bet, kėlusis didelėms karėms su svetimomis tautomis, į kurias visai\ntautai reikėjo traukti, žemlionys^977 , arba kareiviai, pakėlė tarp savęs visų narsųjį ir kantrųjį vyrą, kurį,\npakėlę ant savo pečių, nešiojo po rindas kareivių, rodydami visiems, idant žinotų, ko turi klausyti,\nnesgi, tą pakėlus, kožno ūkininko gyvyba ir smertis jo rankoje buvo, kaipogi valdžia ir rėdą kūrėjų\nkūrėjo toj pačioj valandoj apsistojo, o pakeltojo karvedžio, arba atmono, prasidėjo, kurį vadino jau\nkarvedžiu nuo to, jog į karę svietą vedė, jau atmonu, jog ėjo atmonyti^978 neprieteliams sau žalas ir\nabydas padarytas."
+  citata_rodoma: |
+    Pakajui esant, kunigai ūkę rėdė, bet, kėlusis didelėms karėms su svetimomis tautomis, į kurias visai
+    tautai reikėjo traukti, žemlionys^977 , arba kareiviai, pakėlė tarp savęs visų narsųjį ir kantrųjį vyrą, kurį,
+    pakėlę ant savo pečių, nešiojo po rindas kareivių, rodydami visiems, idant žinotų, ko turi klausyti,
+    nesgi, tą pakėlus, kožno ūkininko gyvyba ir smertis jo rankoje buvo, kaipogi valdžia ir rėdą kūrėjų
+    kūrėjo toj pačioj valandoj apsistojo, o pakeltojo karvedžio, arba atmono, prasidėjo, kurį vadino jau
+    karvedžiu nuo to, jog į karę svietą vedė, jau atmonu, jog ėjo atmonyti^978 neprieteliams sau žalas ir
+    abydas padarytas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,14 +152,18 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - saltinis: [[objektai/saltiniai/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md]]
     - vieta_saltinyje: offset: 285124-286031; match: ocr_normalized_gapped
     - santrauka: Šiame tekste išvardijamos įvairios pilies ir rūmų pareigybės.; Šios pareigybės siejamos su raktų, vėliavos, ūkės žymės ir rūmų tvarkos priežiūra.
     - pagrindzia:
     - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
       citata_originali: |
         Kožnoj tėvūnijoj buvo dar tie vyresnieji: raktininkas, kurs lobius didžiojo kunigaikščio už raktui laikė ir saugojo, jo pripadėtojas vadinos parakčia; buvo dar pilies ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 , kurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba pulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas, kurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062.
-  citata_rodoma: "ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 ,\nkurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba\npulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas,\nkurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062."
+  citata_rodoma: |
+    ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 ,
+    kurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba
+    pulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas,
+    kurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

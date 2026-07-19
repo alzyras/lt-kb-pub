@@ -2372,7 +2372,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_llm_pakomentavimas: "Teiginys paliktas kaip Narbuto turėto nuorašo liudijimas. Nepridėta heraldikos ir Ostapo Kropotkovo detalių."
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173881
+    - c-180180
 
 <a id="claim-t-191000"></a>
 - t-130
@@ -2884,7 +2884,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-180238
     - c-184815
 <a id="claim-t-10107"></a>
 - t-165
@@ -4048,7 +4047,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     žiais, Vytautas, sargų nepažintas, išėjo su žmona iš pilies ir pa-
     ruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-
     gaikštį Jonušą.
-  citata_rodoma: "Jį čia galėjo lankyti žmona Ona, su kuria jis ir sugalvojo\nbūdą pabėgti. Tam tikslui pasiaukojo jų tarnaitė, kuri atvyk-\ndavo drauge su Ona pas Vytautą. Persirengęs tarnaitės drabu-\nžiais, Vytautas, sargų nepažintas, išėjo su žmona iš pilies ir pa-\nruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-\ngaikštį Jonušą."
+  citata_rodoma: |
+    Jį čia galėjo lankyti žmona Ona, su kuria jis ir sugalvojo
+    būdą pabėgti. Tam tikslui pasiaukojo jų tarnaitė, kuri atvyk-
+    davo drauge su Ona pas Vytautą. Persirengęs tarnaitės drabu-
+    žiais, Vytautas, sargų nepažintas, išėjo su žmona iš pilies ir pa-
+    ruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-
+    gaikštį Jonušą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4065,7 +4070,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     sąlygas. Pagaliau jis turėjo net pasižadėti atgautoje savo tėvo-
     nijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą
     Vygando vardu ir išsiuntė su didele kariuomene į Lietuvą.
-  citata_rodoma: "Pabėgėlis Vytautas už paramą turėjo priimti visas ordino\nsąlygas. Pagaliau jis turėjo net pasižadėti atgautoje savo tėvo-\nnijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą\nVygando vardu ir išsiuntė su didele kariuomene į Lietuvą."
+  citata_rodoma: |
+    Pabėgėlis Vytautas už paramą turėjo priimti visas ordino
+    sąlygas. Pagaliau jis turėjo net pasižadėti atgautoje savo tėvo-
+    nijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą
+    Vygando vardu ir išsiuntė su didele kariuomene į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4085,7 +4094,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     savo žymiųjų didikų, kurie patvirtino susitarimus su Konradu
     Jungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš
     ordino žemių (Žemaičių) činšininkų.
-  citata_rodoma: "Grįžęs iš laimingai baig­\ntos Smolensko operacijos, 1404 rugpiūčio viduryje Vytautas su\ndidžiuoju magistru susivažiavo prie Lampėdžių (arti Kauno) Ritters­\nwerderio saloje^33. Jis rodė ordinui didelį palankumą. Akivaizdoje\nsavo žymiųjų didikų, kurie patvirtino susitarimus su Konradu\nJungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš\nordino žemių (Žemaičių) činšininkų."
+  citata_rodoma: |
+    Grįžęs iš laimingai baig­
+    tos Smolensko operacijos, 1404 rugpiūčio viduryje Vytautas su
+    didžiuoju magistru susivažiavo prie Lampėdžių (arti Kauno) Ritters­
+    werderio saloje^33. Jis rodė ordinui didelį palankumą. Akivaizdoje
+    savo žymiųjų didikų, kurie patvirtino susitarimus su Konradu
+    Jungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš
+    ordino žemių (Žemaičių) činšininkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4103,7 +4119,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     dovas Vytautas, suvienijęs jėgas su pusbrolio karaliaus Jogailos
     vedama Lenkijos kariuomene, viename didžiausių viduramžių
     Europos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną..
-  citata_rodoma: "Tik 1410 m. Lietuvos val-\ndovas Vytautas, suvienijęs jėgas su pusbrolio karaliaus Jogailos\nvedama Lenkijos kariuomene, viename didžiausių viduramžių\nEuropos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną.."
+  citata_rodoma: |
+    Tik 1410 m. Lietuvos val-
+    dovas Vytautas, suvienijęs jėgas su pusbrolio karaliaus Jogailos
+    vedama Lenkijos kariuomene, viename didžiausių viduramžių
+    Europos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną..
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4120,7 +4140,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
     Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
     riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
-  citata_rodoma: "Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis\nVytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs\nSmolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-\nriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose."
+  citata_rodoma: |
+    Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
+    Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
+    Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
+    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4158,7 +4182,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     turėdamas dvidešimt metų, dalyvavęs 1370 metais Rudavos mū­
     šyje^2 ), 1430 metais mirdamas jis turėjęs aštuoniasdešimt metų,
     vadinasi turėjo gimti apie 1350 metus^3 ).
-  citata_rodoma: "Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene\npirmagimis sūnus. Kuriais metais jis gimė, tiksliai sunku pasa­\nkyti. Konradas Bitschinas savo kronikoje sako, kad Vytautas,\nturėdamas dvidešimt metų, dalyvavęs 1370 metais Rudavos mū­\nšyje^2 ), 1430 metais mirdamas jis turėjęs aštuoniasdešimt metų,\nvadinasi turėjo gimti apie 1350 metus^3 )."
+  citata_rodoma: |
+    Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene
+    pirmagimis sūnus. Kuriais metais jis gimė, tiksliai sunku pasa­
+    kyti. Konradas Bitschinas savo kronikoje sako, kad Vytautas,
+    turėdamas dvidešimt metų, dalyvavęs 1370 metais Rudavos mū­
+    šyje^2 ), 1430 metais mirdamas jis turėjęs aštuoniasdešimt metų,
+    vadinasi turėjo gimti apie 1350 metus^3 ).
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -4368,7 +4398,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
     kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
     de Lannoy, buvo siuntinėjami totorių kalba raštai.
-  citata_rodoma: "Mokėjo ne tik vokiečių, bet ir lotynų kalbą. Galėjo mokėt\nir rusų, nes su jų kunigaikščiais vedė daug reikalų ir giminia­\nvosi. Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­\nbos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo\nkun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert\nde Lannoy, buvo siuntinėjami totorių kalba raštai."
+  citata_rodoma: |
+    Mokėjo ne tik vokiečių, bet ir lotynų kalbą. Galėjo mokėt
+    ir rusų, nes su jų kunigaikščiais vedė daug reikalų ir giminia­
+    vosi. Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­
+    bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
+    kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
+    de Lannoy, buvo siuntinėjami totorių kalba raštai.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -4389,7 +4425,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     šus sutaikinti, tarpininkavo. Kovai paaštrėjus, jis palaiko dau­
     giau tėvą. Bet jo veikime nežymu dar didelio veiklumo, savos
     iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus.
-  citata_rodoma: "Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­\nčio kovos metu su Jogaila. Jis atsidūrė sunkioje būklėje: abu\nbuvo jam artimi — Kęstutis kaip tėvas, Jogaila kaip draugas\n— pusbrolis. Jo veikime reiškėsi svyravimo: jis norėjo prie­\nšus sutaikinti, tarpininkavo. Kovai paaštrėjus, jis palaiko dau­\ngiau tėvą. Bet jo veikime nežymu dar didelio veiklumo, savos\niniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus."
+  citata_rodoma: |
+    Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­
+    čio kovos metu su Jogaila. Jis atsidūrė sunkioje būklėje: abu
+    buvo jam artimi — Kęstutis kaip tėvas, Jogaila kaip draugas
+    — pusbrolis. Jo veikime reiškėsi svyravimo: jis norėjo prie­
+    šus sutaikinti, tarpininkavo. Kovai paaštrėjus, jis palaiko dau­
+    giau tėvą. Bet jo veikime nežymu dar didelio veiklumo, savos
+    iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -4418,7 +4461,19 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     pajėgomis, ieškojo paspirties, juoba kad 1389 metų gale
     18
     Slap t. Karai.
-  citata_rodoma: "Vytautas, visus savo\nbrolius ir gimines gabumais lenkiantis, pasigviešęs valdžios\nir garbės, negalėjo taikstytis nei su jam daromomis skriau­\ndomis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­\ndyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­\nlis, paaukštinimu, tad susimokęs Gardine su jam palankiais\nLietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­\ntinės Skirgailą ir paimti valdžią. Tačiau nenorėdamas ban­\ndyti laimės ir pradėti mūšį su persvarą turinčiomis priešo\npajėgomis, ieškojo paspirties, juoba kad 1389 metų gale\n18\nSlap t."
+  citata_rodoma: |
+    Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią. Tačiau nenorėdamas ban­
+    dyti laimės ir pradėti mūšį su persvarą turinčiomis priešo
+    pajėgomis, ieškojo paspirties, juoba kad 1389 metų gale
+    18
+    Slap t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4478,7 +4533,25 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     wien i 6 sot hrywien i 50 i osm hryzvien
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
-  citata_rodoma: "A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
+  citata_rodoma: |
+    A liteho
+    236
+
+    ## Puslapis 253
+
+    III KNYGA
+    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
+    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
+    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­
+    jos istorija mums išsaugojo įdomią žinią apie tai, kad
+    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
+    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
+    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
+    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
+    serebra do mina/ pryszlo 20 tysiacz hry-
+    wien i 6 sot hrywien i 50 i osm hryzvien
+    i dwa skotcy [Vilniuje, birželio 9-ta
+    diena, 2 indiktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4779,7 +4852,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
     siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
     Žygimantą Kaributaitį, savo sūnėną.
-  citata_rodoma: "Valakijos kunigaikščiai jo globos sie­\nkė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­\nnarchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­\nsiuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį \nŽygimantą Kaributaitį, savo sūnėną."
+  citata_rodoma: |
+    Valakijos kunigaikščiai jo globos sie­
+    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
+    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
+    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
+    Žygimantą Kaributaitį, savo sūnėną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4843,7 +4921,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     sų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados
     nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
     naus Vytauto klausimą.
-  citata_rodoma: "Vytautas, gavęs tą iššūkį, sukviečia Lietuvos ir Rusios\ndidikus į tarybą, liepia jiems skaityti laišką ir klausia: ar jie\nnorį būti pavaldūs Lenkijai ir jai mokėti duoklę? Pasigirsta vi­\nsų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados\nnemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­\nnaus Vytauto klausimą."
+  citata_rodoma: |
+    Vytautas, gavęs tą iššūkį, sukviečia Lietuvos ir Rusios
+    didikus į tarybą, liepia jiems skaityti laišką ir klausia: ar jie
+    norį būti pavaldūs Lenkijai ir jai mokėti duoklę? Pasigirsta vi­
+    sų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados
+    nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
+    naus Vytauto klausimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4876,7 +4960,25 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: "99, kuriame atkalbinėja Romos\n157\n\n## Puslapis 174\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\npriešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­\nleidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  citata_rodoma: |
+    99, kuriame atkalbinėja Romos
+    157
+
+    ## Puslapis 174
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4925,7 +5027,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     64
     Jahrbücher Johannes Linde.nblatts,
     P-113.
-  citata_rodoma: "Vladislovas Jogaila, aukščiausiąją valdžią\nLietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą\naktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir\nRusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­\njungta prie Lenkijos. Tačiau Jogaila norėjo tą vien tik asme­\nniškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­\ndamas pačių lietuvių sutikimą ir priesaiką, o Vytautas savo\nruožtu siekė ir palikuonims, jeigu jų kada turėtų, garantuoti šio­\nkios tokios naudos, tad suvažiavo į Vilnių karaliaus sukviesti\n64\nJahrbücher Johannes Linde."
+  citata_rodoma: |
+    Vladislovas Jogaila, aukščiausiąją valdžią
+    Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą
+    aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
+    Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
+    jungta prie Lenkijos. Tačiau Jogaila norėjo tą vien tik asme­
+    niškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­
+    damas pačių lietuvių sutikimą ir priesaiką, o Vytautas savo
+    ruožtu siekė ir palikuonims, jeigu jų kada turėtų, garantuoti šio­
+    kios tokios naudos, tad suvažiavo į Vilnių karaliaus sukviesti
+    64
+    Jahrbücher Johannes Linde.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4966,7 +5079,30 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Visame tame plote, nuo senų senovės apaugusiame girio­
     mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
     ganos medžioklių trobelės.
-  citata_rodoma: "5 [apie gotų genties kilmę ir \nkaro žygius]); yra ne kokios nors vie­\nnos tautos nomen gentile [giminės \nvardas], bet toks įvairių tautų sam­\nbūrio nomen sociale [bendruomenės \nvardas], koks yra frankų pavadini­\nmas.\n2\nApie Lietuvos ir Žemaitijos tapatu­\nmą ir apie tą jos dalijimą į aukštuti­\nnę ir žemutinę sužinome iš kuo pa­\ntikimiausio šaltinio, iš didžiojo \nkunigaikščio Vytauto 1420 metais \nRomos imperatoriui Zigmantui ra- \nšvto laiško: Terra Samaytarum, - pa-\n14\n\n## Puslapis 31\n\nI  KNYGA\nVisame tame plote, nuo senų senovės apaugusiame girio­\nmis, palei gausių upių, versmių, ežerų krantus, stovėjo var­\nganos medžioklių trobelės."
+  citata_rodoma: |
+    5 [apie gotų genties kilmę ir
+    karo žygius]); yra ne kokios nors vie­
+    nos tautos nomen gentile [giminės
+    vardas], bet toks įvairių tautų sam­
+    būrio nomen sociale [bendruomenės
+    vardas], koks yra frankų pavadini­
+    mas.
+    2
+    Apie Lietuvos ir Žemaitijos tapatu­
+    mą ir apie tą jos dalijimą į aukštuti­
+    nę ir žemutinę sužinome iš kuo pa­
+    tikimiausio šaltinio, iš didžiojo
+    kunigaikščio Vytauto 1420 metais
+    Romos imperatoriui Zigmantui ra-
+    švto laiško: Terra Samaytarum, - pa-
+    14
+
+    ## Puslapis 31
+
+    I  KNYGA
+    Visame tame plote, nuo senų senovės apaugusiame girio­
+    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
+    ganos medžioklių trobelės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5005,7 +5141,21 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
     valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
     apgultis.
-  citata_rodoma: "134\n\n## Puslapis 151\n\nIl KNYGA\nTačiau tas amžių amžiams Lietuvos monarchijai atmintinas\nVytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­\nrie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o\nvakaruose atitolinę rytų link tarp Lenkijos iki tolimų šiauri­\nnės Rusios pakraščių nustatė, dar nebuvo pati gražiausia epo­\ncha Vilniaus miesto istorijoje. Tiekos negandų nukamuota,\nnesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­\nvaliojo greit pakilti iš vargų, kokius patyrė per pastarąsias\napgultis."
+  citata_rodoma: |
+    134
+
+    ## Puslapis 151
+
+    Il KNYGA
+    Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas
+    Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­
+    rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o
+    vakaruose atitolinę rytų link tarp Lenkijos iki tolimų šiauri­
+    nės Rusios pakraščių nustatė, dar nebuvo pati gražiausia epo­
+    cha Vilniaus miesto istorijoje. Tiekos negandų nukamuota,
+    nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
+    valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
+    apgultis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5067,7 +5217,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
     tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
     čių dinastija.
-  citata_rodoma: "Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti \nįsivaizduojami Lietuvos valdovų portretai\n\n1 skyrius •  S E N O J I  L I E T U VA\n35\nkunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-\ngaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis \n(valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam \ntapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-\nčių dinastija."
+  citata_rodoma: |
+    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5191,7 +5351,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
     grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
     Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-  citata_rodoma: ") padėti Gedimino kariuomenei, kuri\nstengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—\nBajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių\nprūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37."
+  citata_rodoma: |
+    ) padėti Gedimino kariuomenei, kuri
+    stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
+    Bajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių
+    prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -5224,7 +5388,20 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: "Tačiau Vilniaus vyskupas Petras tam \nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, \nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas \nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką.\nVytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m."
+  citata_rodoma: |
+    Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
+    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
+    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
+    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
+    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
+    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
+    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5290,7 +5467,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
     Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
     jungta prie Lenkijos.
-  citata_rodoma: "Didysis kunigaikštis ne­\nteko savo žirgų ir brangenybių, o žala, kurią per tai patyrė, \nkaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­\nčių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią \nLietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą \naktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir \nRusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­\njungta prie Lenkijos."
+  citata_rodoma: |
+    Didysis kunigaikštis ne­
+    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
+    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
+    čių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią
+    Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą
+    aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
+    Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
+    jungta prie Lenkijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5334,7 +5519,19 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
     Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
     tinės Skirgailą ir paimti valdžią.
-  citata_rodoma: "Karaliui išvykus į Lenkiją, Vytauto padė­\ntis tapo dargi nesaugi: mat akylai stebimas kiekviename\nžingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­\nmų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,\nkad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo\nbrolius ir gimines gabumais lenkiantis, pasigviešęs valdžios\nir garbės, negalėjo taikstytis nei su jam daromomis skriau­\ndomis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­\ndyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­\nlis, paaukštinimu, tad susimokęs Gardine su jam palankiais\nLietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­\ntinės Skirgailą ir paimti valdžią."
+  citata_rodoma: |
+    Karaliui išvykus į Lenkiją, Vytauto padė­
+    tis tapo dargi nesaugi: mat akylai stebimas kiekviename
+    žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­
+    mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
+    kad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5451,7 +5648,24 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     krikštą, turėjo savo koplyčią, kurios
     pėdsakų šios pilies vienos sienos se­
     novinėje tapyboje yra iki šiol išlikę.
-  citata_rodoma: "Iš \nvieno Vytauto dovanojimo akto Tra­\nkų miestui, 1384 metų rugpjūčio 23 \ndieną rašyto, aišku, kaip tatai ir iš \nistorijos žinoma, kad tuo metu jis jau \nbuvęs krikščionis, ką liudija patys \npirmieji to dokumento žodžiai:\n„Mes, didysis kunigaikštis Vytautas, \nšvento krikšto metu gavęs Aleksan­\ndro vardą\" ir 1.1. Jo žmonos - Smo­\nlensko kunigaikštytė Ona, o kita - \nAlgimanto Alšėniškio duktė Julijo­\nna -išpažino graikų apeigų tikėjimą \nir Trakų pilyje, dar prieš Lietuvos \nkrikštą, turėjo savo koplyčią, kurios \npėdsakų šios pilies vienos sienos se­\nnovinėje tapyboje yra iki šiol išlikę."
+  citata_rodoma: |
+    Iš
+    vieno Vytauto dovanojimo akto Tra­
+    kų miestui, 1384 metų rugpjūčio 23
+    dieną rašyto, aišku, kaip tatai ir iš
+    istorijos žinoma, kad tuo metu jis jau
+    buvęs krikščionis, ką liudija patys
+    pirmieji to dokumento žodžiai:
+    „Mes, didysis kunigaikštis Vytautas,
+    švento krikšto metu gavęs Aleksan­
+    dro vardą" ir 1.1. Jo žmonos - Smo­
+    lensko kunigaikštytė Ona, o kita -
+    Algimanto Alšėniškio duktė Julijo­
+    na -išpažino graikų apeigų tikėjimą
+    ir Trakų pilyje, dar prieš Lietuvos
+    krikštą, turėjo savo koplyčią, kurios
+    pėdsakų šios pilies vienos sienos se­
+    novinėje tapyboje yra iki šiol išlikę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5533,7 +5747,10 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     bikų"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono
     Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi.
-  citata_rodoma: "Balinskis miesto istorinę apžvalgą užbaigia Stepono \nBatoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­\nma 1430 m. - Vytauto Didžiojo mirtimi."
+  citata_rodoma: |
+    Balinskis miesto istorinę apžvalgą užbaigia Stepono
+    Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
+    ma 1430 m. - Vytauto Didžiojo mirtimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5784,7 +6001,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
     Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
     ti, ir kuris palaimino tą santuoką.
-  citata_rodoma: "Kai\nVilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­\ndžiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­\nlėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­\ndė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono\nAlgimantaičio dukterį. Tačiau Vilniaus vyskupas Petras tam\nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,\nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas\nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką."
+  citata_rodoma: |
+    Kai
+    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
+    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
+    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
+    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
+    Algimantaičio dukterį. Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -6009,7 +6237,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     kad mestų darbus ir pasišalintų iš krašto. Pastarasis, turėda-
     51
     Lindenblatt Jahrbücher, p. 9 4 .
-  citata_rodoma: "Tačiau netruko užklupti\njuos Vytautas su lietuviais bei lenkais ir kreipėsi į magistrą,\nkad mestų darbus ir pasišalintų iš krašto. Pastarasis, turėda-\n51\nLindenblatt Jahrbücher, p."
+  citata_rodoma: |
+    Tačiau netruko užklupti
+    juos Vytautas su lietuviais bei lenkais ir kreipėsi į magistrą,
+    kad mestų darbus ir pasišalintų iš krašto. Pastarasis, turėda-
+    51
+    Lindenblatt Jahrbücher, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -6048,7 +6281,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Lietuvos krikštas.
     1392–1430
     žymiausio Lietuvos valdovo Vytauto valdymo metai.
-    1410 
+    1410
     Žalgirio (Griunvaldo) mūšis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
@@ -6132,7 +6365,21 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     dė į Trakus prieš Vytautą. Vytautas, iš draugų apie
     viską sužinojęs, spėjo su pamote Birute pasitraukti į
     Gardiną.
-  citata_rodoma: "Tuo būdu\nužėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­\nją, prašydamas pagalbos; pats, palikęs mieste stiprią\nsavo įgulą, pailsėjusią ir papildytą kariuomenę nuve­\ndė į Trakus prieš Vytautą. Vytautas, iš draugų apie\nviską sužinojęs, spėjo su pamote Birute pasitraukti į\nGardiną.\nJogaila\natkakliai\nU žkariauja T rakus\npuolė Trakus, ir trakiškiai\nilgai neatsilaikė: nesitikėda­\nmi iš niekur paramos, jie perėjo į Jogailos pusę, ati­\nduodami miestą, pilis bei turtą."
+  citata_rodoma: |
+    Tuo būdu
+    užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
+    ją, prašydamas pagalbos; pats, palikęs mieste stiprią
+    savo įgulą, pailsėjusią ir papildytą kariuomenę nuve­
+    dė į Trakus prieš Vytautą. Vytautas, iš draugų apie
+    viską sužinojęs, spėjo su pamote Birute pasitraukti į
+    Gardiną.
+    Jogaila
+    atkakliai
+    U žkariauja T rakus
+    puolė Trakus, ir trakiškiai
+    ilgai neatsilaikė: nesitikėda­
+    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
+    duodami miestą, pilis bei turtą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6193,7 +6440,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     gresianti mirtis, pridurdamas,
     kad Jogailos siųsti budeliai
     jau atvyko į Krėvą.
-  citata_rodoma: "Lais­\nvai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­\nva valia nutarusi dalytis su vyru likimo užkrautais var­\ngais, čia jį ir palydėjo su dviem mergaitėmis. Ši \naplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­\nvę: dažnai juk likimą lemia menkų menkiausios prie­\nžastys. Vienas sargybinis kar­\ntą įspėjo Oną, jog Vytautui \ngresianti mirtis, pridurdamas, \nkad Jogailos siųsti budeliai \njau atvyko į Krėvą."
+  citata_rodoma: |
+    Lais­
+    vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­
+    va valia nutarusi dalytis su vyru likimo užkrautais var­
+    gais, čia jį ir palydėjo su dviem mergaitėmis. Ši
+    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
+    vę: dažnai juk likimą lemia menkų menkiausios prie­
+    žastys. Vienas sargybinis kar­
+    tą įspėjo Oną, jog Vytautui
+    gresianti mirtis, pridurdamas,
+    kad Jogailos siųsti budeliai
+    jau atvyko į Krėvą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6233,7 +6491,23 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     mat nenorėjo jiedu nei neramios Vytauto širdies už­
     gauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus ka­
     rui, patys vienaip ar kitaip išvengtų bėdos.
-  citata_rodoma: "Negalėdamas dėl gy­\nnėjų pasipriešinimo įsiveržti į pilį, jis porą kartų puo­\nlė miestą, tačiau abu kartus buvo atremtas miestiečių \nbei lenkų, kurie sudarė miesto įgulą. Nieko nepešęs \nklasta, metė savo sumanymus ir, aplinkybių verčiamas, \nėmė rengtis atvirai kovai, būdamas tikras, jog ir Kazi­\nmieras netruks prieš jį griebtis ginklo, ir karalius Jo­\ngaila skubiai iš Lenkijos atsiųs pagalbos. Smarkiai su­\nstiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių \nkarių įgulas Gardine, Suraže, Breste, Kamenece ir ki­\ntose pilyse, pats su žmona, šeimyna, brangiaisiais in­\ndais bei savo šalininkais pa- \nP abėga į M a z o v iją \nsitraukė į Mazoviją pas ku­\nnigaikščius Jonušą ir Zemo- \nvitą, savo giminaičius."
+  citata_rodoma: |
+    Negalėdamas dėl gy­
+    nėjų pasipriešinimo įsiveržti į pilį, jis porą kartų puo­
+    lė miestą, tačiau abu kartus buvo atremtas miestiečių
+    bei lenkų, kurie sudarė miesto įgulą. Nieko nepešęs
+    klasta, metė savo sumanymus ir, aplinkybių verčiamas,
+    ėmė rengtis atvirai kovai, būdamas tikras, jog ir Kazi­
+    mieras netruks prieš jį griebtis ginklo, ir karalius Jo­
+    gaila skubiai iš Lenkijos atsiųs pagalbos. Smarkiai su­
+    stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių
+    karių įgulas Gardine, Suraže, Breste, Kamenece ir ki­
+    tose pilyse, pats su žmona, šeimyna, brangiaisiais in­
+    dais bei savo šalininkais pa-
+    P abėga į M a z o v iją
+    sitraukė į Mazoviją pas ku­
+    nigaikščius Jonušą ir Zemo-
+    vitą, savo giminaičius.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6270,7 +6544,21 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     dies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo
     valdas, Konradas gana greitai paskyrė karių bei lėšų
     kaiui.
-  citata_rodoma: "Iš M a z o v ijo s  į Prū-\nNors Urbonas IV, Romos po-\nsiją\npiežius, prieš metus ir buvo\nišleidęs raštą, rimtai ragin­\ndamas ir karalių, ir kryžiuočių riterius laikytis taikos,\ntačiau Celneris su džiaugsmu nutarė nepraleisti pro­\ngos pradėti karą. Dėdamasis, kad gailisi tremtinio, jis\nsiūlė šiam visko, ko tik reikia karui f' pats iš visos šir­\ndies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo\nvaldas, Konradas gana greitai paskyrė karių bei lėšų\nkaiui. Buvo aišku, kad pagalbą jis ne duoda, bet par­\nduoda, tikėdamasis, kad visas pelnas ilgainiui atiteks\nkryžiuočiams."
+  citata_rodoma: |
+    Iš M a z o v ijo s  į Prū-
+    Nors Urbonas IV, Romos po-
+    siją
+    piežius, prieš metus ir buvo
+    išleidęs raštą, rimtai ragin­
+    damas ir karalių, ir kryžiuočių riterius laikytis taikos,
+    tačiau Celneris su džiaugsmu nutarė nepraleisti pro­
+    gos pradėti karą. Dėdamasis, kad gailisi tremtinio, jis
+    siūlė šiam visko, ko tik reikia karui f' pats iš visos šir­
+    dies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo
+    valdas, Konradas gana greitai paskyrė karių bei lėšų
+    kaiui. Buvo aišku, kad pagalbą jis ne duoda, bet par­
+    duoda, tikėdamasis, kad visas pelnas ilgainiui atiteks
+    kryžiuočiams.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6346,7 +6634,19 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     ir po pergalės sugrįžo pas saviškius. Išsiuntęs žygūną,
     turintį Olesnickiui pranešti apie jo atvykimą, patraukė
     liesiai į Vilnių.
-  citata_rodoma: "Vytautas, gavęs apie tai \nžinią, įsakė sustoti, belaisvius ir visą grobį saugoti pa­\nvedė nedidelei saugai, o pats, sugrįžęs atgal, su kitais \nkariais surengė pasalas prie siauro miško kelio; kai \npriešai neapdairiai į jas pakliuvo, visus ligi vieno išžu­\ndė. Po to suskaičiavęs užmuštuosius, jis (žmogus, ku­\nriam buvo aiškūs visi kryžiuočių planai) bemat supra­\nto, kaip nedaug beliko pilyse gynėjų, kitiems ištraukus \njo persekioti. Todėl kuo greičiausiai patraukė su savo \nvyrais prie tvirtovių, be jokio vargo užėmė beveik ne­\nginamus įtvirtinimus, juos nusiaubė, sudegino, sugriovė \nir po pergalės sugrįžo pas saviškius."
+  citata_rodoma: |
+    Vytautas, gavęs apie tai
+    žinią, įsakė sustoti, belaisvius ir visą grobį saugoti pa­
+    vedė nedidelei saugai, o pats, sugrįžęs atgal, su kitais
+    kariais surengė pasalas prie siauro miško kelio; kai
+    priešai neapdairiai į jas pakliuvo, visus ligi vieno išžu­
+    dė. Po to suskaičiavęs užmuštuosius, jis (žmogus, ku­
+    riam buvo aiškūs visi kryžiuočių planai) bemat supra­
+    to, kaip nedaug beliko pilyse gynėjų, kitiems ištraukus
+    jo persekioti. Todėl kuo greičiausiai patraukė su savo
+    vyrais prie tvirtovių, be jokio vargo užėmė beveik ne­
+    ginamus įtvirtinimus, juos nusiaubė, sudegino, sugriovė
+    ir po pergalės sugrįžo pas saviškius.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6377,7 +6677,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     kelią: dėl asmeniškos neapy­
     kantos įtūžusios širdys visiškai užmiršo rūpintis ben­
     drais reikalais.
-  citata_rodoma: "Kadangi Vytautas jiems paro­\ndė palankumą, apsuptieji visiškai pasidavė jo malonei.\nPerdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,\npilyse bei miestuose paliko lietuvių karių įgulas ir lietu­\nvių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­\nna išgabeno į Vilnių."
+  citata_rodoma: |
+    Kadangi Vytautas jiems paro­
+    dė palankumą, apsuptieji visiškai pasidavė jo malonei.
+    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
+    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
+    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
+    na išgabeno į Vilnių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6445,7 +6751,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     rus sumanymus, savo karines jėgas prie Vytauto. Smo-
     lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
     buvo nuvesta į Vitebską.
-  citata_rodoma: "Apgula užtruko ištisą mėnesį,\ntačiau ne dėl to, kad nebuvo\nA p su p a  V ite b s k ą\ndaroma, kas tokiais atvejais\nreikalinga, o todėl, kad gynė­\njai, ypač Livonijos kariai, klausydami ne tiek Švitri­\ngailos skatinimų, kiek įsakymų bei grasinimų, prieši­\nnosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto\nkariai įsiveržė pro visiškai sugriautus įtvirtinimus į\nžemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas\nkitas pilėnas."
+  citata_rodoma: |
+    Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto
+    kariai įsiveržė pro visiškai sugriautus įtvirtinimus į
+    žemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas
+    kitas pilėnas.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6513,7 +6830,21 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     valdovų ir Lenkijos bei Lie­
     tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
     galbos.
-  citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
+  citata_rodoma: |
+    Vis dėlto buvo pamato būgštauti, kad jie gali
+    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
+    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
+    uždavinio: pasikvietęs į palydovus didikus Goštautą,
+    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
+    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
+    tiktai karalystės pakancleris Trombą), kad, Vytautui
+    376
+
+    ## Puslapis 375
+
+    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
+    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
+    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6573,7 +6904,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Žemaitijos, susitikimas neat­
     nešė jokios naudos, ir netru­
     kus kryžiuočiai iš pasalų pradėjo atvirą karą.
-  citata_rodoma: "Po to ir viena, ir kita šalis puldinėjo\nir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti\ndidesnę kariuomenę, Vytautas patraukė į Trakus ir čia,\nmirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-\nšėnų kunigaikščio Algimantaičio dukra. Julijona mi-\nrusiajai buvo teta."
+  citata_rodoma: |
+    Po to ir viena, ir kita šalis puldinėjo
+    ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
+    didesnę kariuomenę, Vytautas patraukė į Trakus ir čia,
+    mirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-
+    šėnų kunigaikščio Algimantaičio dukra. Julijona mi-
+    rusiajai buvo teta.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6633,7 +6970,22 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     ti L ietu vo s karaliaus
     v a in ik ą
     i i .
-  citata_rodoma: "Lietuvos isto rija\n417\n\n## Puslapis 416\n\nsusilygintų karališkomis insignijomis su kitais valdovais,\njeigu, žinoma, panorėsiąs su juo užmegzti draugiškus\nsantykius ir vėliau jų laikytis. Senoji valdovų liga —\ngarbės troškimas — taip aptemdė Vytautui, žmogui ga­\nna atsargiam ir pažįstančiam Zigmanto klastas, protą,\njog jam nė į galvą neatėjo, kad šiais siūlymais sten­\ngiamasi ne tiek jį išaukštinti, kiek sugriauti lietuvių bei\nlenkų sandraugą. Štai todėl jis sutiko su pasiūlymu ir\nsusidraugavo su imperatoriumi sau pačiam davęs žodį\nnieko nedaryti be karaliaus žinios ir sutikimo."
+  citata_rodoma: |
+    Lietuvos isto rija
+    417
+
+    ## Puslapis 416
+
+    susilygintų karališkomis insignijomis su kitais valdovais,
+    jeigu, žinoma, panorėsiąs su juo užmegzti draugiškus
+    santykius ir vėliau jų laikytis. Senoji valdovų liga —
+    garbės troškimas — taip aptemdė Vytautui, žmogui ga­
+    na atsargiam ir pažįstančiam Zigmanto klastas, protą,
+    jog jam nė į galvą neatėjo, kad šiais siūlymais sten­
+    giamasi ne tiek jį išaukštinti, kiek sugriauti lietuvių bei
+    lenkų sandraugą. Štai todėl jis sutiko su pasiūlymu ir
+    susidraugavo su imperatoriumi sau pačiam davęs žodį
+    nieko nedaryti be karaliaus žinios ir sutikimo.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6734,7 +7086,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190999
 - id: c-173882
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -6763,7 +7114,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tobie
     bracie
     dziewaję Lote\vkę.
-  citata_rodoma: "IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo\nturėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­\ndžiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris\nsostą paveldėjo iš Skirgailos."
+  citata_rodoma: |
+    IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
+    turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
+    džiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris
+    sostą paveldėjo iš Skirgailos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -6790,7 +7145,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     džią labai garsiai šeimai, bū­
     tent Nemyrų. Po to galima buvo tikėtis, kad Maskvos
     valdovas laikysis tvirtos taikos, tačiau dingstį naujam
-  citata_rodoma: "Mat tų pačių metų pabaigoje, sudeginęs Briansko ir\nStarodubo pilis, jis perdavė kunigaikščiui Vasilijui Nau-\ngardą, Seversko žemės sosti-\n1407 m e ta i\nnę, o pats pabėgo į Maskvą.\nTaigi jis ir privertė Vy­\ntautą vėl imtis ginklo ir, gerai pasirengus, pradėti karą\nsu Vasilijumi. Vytautas įsakė visų Lietuvos žemių karo\njėgoms susirinkti į Smolenską."
+  citata_rodoma: |
+    Mat tų pačių metų pabaigoje, sudeginęs Briansko ir
+    Starodubo pilis, jis perdavė kunigaikščiui Vasilijui Nau-
+    gardą, Seversko žemės sosti-
+    1407 m e ta i
+    nę, o pats pabėgo į Maskvą.
+    Taigi jis ir privertė Vy­
+    tautą vėl imtis ginklo ir, gerai pasirengus, pradėti karą
+    su Vasilijumi. Vytautas įsakė visų Lietuvos žemių karo
+    jėgoms susirinkti į Smolenską.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -6898,7 +7262,24 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6.
-  citata_rodoma: "Didysis kunigaikštis Vytautas prieš Ria- \nzanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną \nLengvenį su didele kariuomene ir su Smolensko pajė­\ngomis; tie parsivarė daugybę belaisvių riazaniečių ir \nsu dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .\nTą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls. O didysis kunigaikštis \nVytautas taip pat pagerbė savo žentą, didįjį kunigaikš­\ntį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų \ndrabužių, brangių aksomų, vertingiausių brangakmenių, \nžirgų su aukso balnais ir daug kitų nuostabių daiktų ir, \nišlydėjęs jį su didele pagarba į Maskvą, pats išvyko \nj Lietuvą l6 ."
+  citata_rodoma: |
+    Didysis kunigaikštis Vytautas prieš Ria-
+    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
+    Lengvenį su didele kariuomene ir su Smolensko pajė­
+    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
+    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
+    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
+    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
+    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
+    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
+    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
+    auksiniais indais ir bachmatais ls. O didysis kunigaikštis
+    Vytautas taip pat pagerbė savo žentą, didįjį kunigaikš­
+    tį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų
+    drabužių, brangių aksomų, vertingiausių brangakmenių,
+    žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
+    išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
+    j Lietuvą l6 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -6924,7 +7305,19 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
     ir dovanojo brangių dovanų2, ir nuo tol tarpe jų įsiga­
     lėjo didelė meilė.
-  citata_rodoma: "Esant šiam Vytautui didžiuoju kunigaikščiu ir val­\ndant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį \nkitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­\nmė, bet ir Vengrų žemės valdovas, vadinamas Romos \nim peratorium igyveno su juo didelėje meilėje.\nKartą šis šlovingasis valdovas, būdamas savo pilyje, \nDidžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­\nrų karalių, vadinamą Romos imperatoriumi, ir liepė jam \natvykti. Ir šis kuo klusniausiai, nedelsdamas atvyko pas \njį su savo karaliene, ir reiškė jam didžiausią pagarbą, \nir dovanojo brangių dovanų2 , ir nuo tol tarpe jų įsiga­\nlėjo didelė meilė."
+  citata_rodoma: |
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    im peratorium igyveno su juo didelėje meilėje.
+    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
+    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
+    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
+    atvykti. Ir šis kuo klusniausiai, nedelsdamas atvyko pas
+    jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
+    ir dovanojo brangių dovanų2 , ir nuo tol tarpe jų įsiga­
+    lėjo didelė meilė.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -7306,7 +7699,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą
     kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
     Vytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn.
-  citata_rodoma: "sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo\ntarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą\nkartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.\nVytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn."
+  citata_rodoma: |
+    sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo
+    tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą
+    kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
+    Vytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -7325,7 +7722,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietu-
     vos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškil-
     mingai pažymėtas Vytauto mirties 500 metų jubiliejus.
-  citata_rodoma: "LDK tradicija, lietuvių ir jų kuni-\ngaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo \nvardai visuomet kėlė atgimstančios lietuvių tautos sąmonę. Valstybės ir \ntautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietu-\nvos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškil-\nmingai pažymėtas Vytauto mirties 500 metų jubiliejus."
+  citata_rodoma: |
+    LDK tradicija, lietuvių ir jų kuni-
+    gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
+    vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę. Valstybės ir
+    tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietu-
+    vos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškil-
+    mingai pažymėtas Vytauto mirties 500 metų jubiliejus.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -7377,7 +7780,24 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6.
-  citata_rodoma: "Didysis kunigaikštis Vytautas prieš Ria- \nzanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną \nLengvenį su didele kariuomene ir su Smolensko pajė­\ngomis; tie parsivarė daugybę belaisvių riazaniečių ir \nsu dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .\nTą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls. O didysis kunigaikštis \nVytautas taip pat pagerbė savo žentą, didįjį kunigaikš­\ntį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų \ndrabužių, brangių aksomų, vertingiausių brangakmenių, \nžirgų su aukso balnais ir daug kitų nuostabių daiktų ir, \nišlydėjęs jį su didele pagarba į Maskvą, pats išvyko \nj Lietuvą l6 ."
+  citata_rodoma: |
+    Didysis kunigaikštis Vytautas prieš Ria-
+    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
+    Lengvenį su didele kariuomene ir su Smolensko pajė­
+    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
+    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
+    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
+    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
+    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
+    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
+    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
+    auksiniais indais ir bachmatais ls. O didysis kunigaikštis
+    Vytautas taip pat pagerbė savo žentą, didįjį kunigaikš­
+    tį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų
+    drabužių, brangių aksomų, vertingiausių brangakmenių,
+    žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
+    išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
+    j Lietuvą l6 .
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7409,7 +7829,27 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     krikštą, turėjo savo koplyčią, kurios
     pėdsakų šios pilies vienos sienos se­
     novinėje tapyboje yra iki šiol išlikę.
-  citata_rodoma: "Tiesa, šimtmečiu vėliau karalienė \nBona pagerbė Vytauto atminimą \nantkapiniu marmuro paminklu di­\ndžiojo altoriaus dešinėje pusėje. Iš \nvieno Vytauto dovanojimo akto Tra­\nkų miestui, 1384 metų rugpjūčio 23 \ndieną rašyto, aišku, kaip tatai ir iš \nistorijos žinoma, kad tuo metu jis jau \nbuvęs krikščionis, ką liudija patys \npirmieji to dokumento žodžiai:\n„Mes, didysis kunigaikštis Vytautas, \nšvento krikšto metu gavęs Aleksan­\ndro vardą\" ir 1.1. Jo žmonos - Smo­\nlensko kunigaikštytė Ona, o kita - \nAlgimanto Alšėniškio duktė Julijo­\nna -išpažino graikų apeigų tikėjimą \nir Trakų pilyje, dar prieš Lietuvos \nkrikštą, turėjo savo koplyčią, kurios \npėdsakų šios pilies vienos sienos se­\nnovinėje tapyboje yra iki šiol išlikę."
+  citata_rodoma: |
+    Tiesa, šimtmečiu vėliau karalienė
+    Bona pagerbė Vytauto atminimą
+    antkapiniu marmuro paminklu di­
+    džiojo altoriaus dešinėje pusėje. Iš
+    vieno Vytauto dovanojimo akto Tra­
+    kų miestui, 1384 metų rugpjūčio 23
+    dieną rašyto, aišku, kaip tatai ir iš
+    istorijos žinoma, kad tuo metu jis jau
+    buvęs krikščionis, ką liudija patys
+    pirmieji to dokumento žodžiai:
+    „Mes, didysis kunigaikštis Vytautas,
+    švento krikšto metu gavęs Aleksan­
+    dro vardą" ir 1.1. Jo žmonos - Smo­
+    lensko kunigaikštytė Ona, o kita -
+    Algimanto Alšėniškio duktė Julijo­
+    na -išpažino graikų apeigų tikėjimą
+    ir Trakų pilyje, dar prieš Lietuvos
+    krikštą, turėjo savo koplyčią, kurios
+    pėdsakų šios pilies vienos sienos se­
+    novinėje tapyboje yra iki šiol išlikę.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7432,7 +7872,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     bikų"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono
     Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi.
-  citata_rodoma: "Vilniaus miesto istorijos pratarmėje istorikas rašė: „Mums \npatiems mažai pažįstami, Europai visai nežinomi istorijos įvy­\nkiai, riterių žygiais ir sumaniausia Mindaugo, Gedimino, Al­\ngirdo, Kęstučio, Jogailos ir Vytauto politika garsūs, politika Tau­\ntos, mažame plote išsitenkančios, kuri pati viena, savo pagonybėj \nužsisklendusi nuo kitų Europos šalių, įstengė vien savo pačios \ništverme atremti baisius mongolų antpuolius, užvaldyti Rusią \nir nesileisti pavergiama Prūsijos Kryžiuočių Ordino godžių gro­\nbikų\"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono \nBatoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­\nma 1430 m. - Vytauto Didžiojo mirtimi."
+  citata_rodoma: |
+    Vilniaus miesto istorijos pratarmėje istorikas rašė: „Mums
+    patiems mažai pažįstami, Europai visai nežinomi istorijos įvy­
+    kiai, riterių žygiais ir sumaniausia Mindaugo, Gedimino, Al­
+    girdo, Kęstučio, Jogailos ir Vytauto politika garsūs, politika Tau­
+    tos, mažame plote išsitenkančios, kuri pati viena, savo pagonybėj
+    užsisklendusi nuo kitų Europos šalių, įstengė vien savo pačios
+    ištverme atremti baisius mongolų antpuolius, užvaldyti Rusią
+    ir nesileisti pavergiama Prūsijos Kryžiuočių Ordino godžių gro­
+    bikų"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono
+    Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
+    ma 1430 m. - Vytauto Didžiojo mirtimi.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7453,7 +7904,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
-  citata_rodoma: "Kai šį sprendimą sužinojo Vytautas ir\nJogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­\nvirko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo\ngirdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas\nsuglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­\nnos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,\nsekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui\nnepasitenkinimą^3 )."
+  citata_rodoma: |
+    Kai šį sprendimą sužinojo Vytautas ir
+    Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
+    virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
+    girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
+    suglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­
+    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
+    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
+    nepasitenkinimą^3 ).
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -7472,7 +7931,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė
     pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą,
     pritapo prie jos ir joje išsilaikė.
-  citata_rodoma: "1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti \ntik lenkų didikų pritarimo, deja, Vytautas jo nesulaukė – 1430 m. spalio \n27 d. mirė. Nors maksimalus planas nebuvo įgyvendintas, svarbiausią \ntikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė \npašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą, \npritapo prie jos ir joje išsilaikė."
+  citata_rodoma: |
+    1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti
+    tik lenkų didikų pritarimo, deja, Vytautas jo nesulaukė – 1430 m. spalio
+    27 d. mirė. Nors maksimalus planas nebuvo įgyvendintas, svarbiausią
+    tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė
+    pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą,
+    pritapo prie jos ir joje išsilaikė.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7509,7 +7974,32 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
     valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
     apgultis.
-  citata_rodoma: "Warsz. \nrašo, kad jo laikais buvę „Vytauto \nužrašai Krokuvos pilyje, karaliaus \niždinėje, kuriuose prisipažįsta susi­\ntaikęs ir sutaręs su pusbroliu Skir­\ngaila dėl Lietuvos Didžiosios Kuni­\ngaikštystės viršenybės, ir taip pat su \njuo suėjo į sąjungą prieš kiekvieną \npriešą, išskyrus Lenkijos karalių\", - \nką savo laiškais ir Vytauto žmona \nOna patvirtina.\n134\n\n## Puslapis 151\n\nIl KNYGA\nTačiau tas amžių amžiams Lietuvos monarchijai atmintinas \nVytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­\nrie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o \nvakaruose atitolinę rytų link tarp Lenkijos iki tolimų šiauri­\nnės Rusios pakraščių nustatė, dar nebuvo pati gražiausia epo­\ncha Vilniaus miesto istorijoje. Tiekos negandų nukamuota, \nnesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­\nvaliojo greit pakilti iš vargų, kokius patyrė per pastarąsias \napgultis."
+  citata_rodoma: |
+    Warsz.
+    rašo, kad jo laikais buvę „Vytauto
+    užrašai Krokuvos pilyje, karaliaus
+    iždinėje, kuriuose prisipažįsta susi­
+    taikęs ir sutaręs su pusbroliu Skir­
+    gaila dėl Lietuvos Didžiosios Kuni­
+    gaikštystės viršenybės, ir taip pat su
+    juo suėjo į sąjungą prieš kiekvieną
+    priešą, išskyrus Lenkijos karalių", -
+    ką savo laiškais ir Vytauto žmona
+    Ona patvirtina.
+    134
+
+    ## Puslapis 151
+
+    Il KNYGA
+    Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas
+    Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­
+    rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o
+    vakaruose atitolinę rytų link tarp Lenkijos iki tolimų šiauri­
+    nės Rusios pakraščių nustatė, dar nebuvo pati gražiausia epo­
+    cha Vilniaus miesto istorijoje. Tiekos negandų nukamuota,
+    nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
+    valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
+    apgultis.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7567,7 +8057,23 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
-  citata_rodoma: "Vis dėlto nereikėtų manyti, kad Vilnius \nypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų, \npatirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk \ntas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­\nbojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su \nPrūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­\nva, o naudodamasi galingo monarcho parama, jau pasiekė ir \ntolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­\nnius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­\nkių turėjo išaugti būdamas tokios didelės valstybės sostinė. \nEsant karinei valdžiai, viešpataujant valdovams, besirūpinan­\ntiems vien nukariavimais ir, po teisybei, naujos monarchijos \nkūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės \nkraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­\ntas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­\nklestėti!"
+  citata_rodoma: |
+    Vis dėlto nereikėtų manyti, kad Vilnius
+    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
+    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7590,7 +8096,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     ja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus
     įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
     Lietuvos interesams ginti.
-  citata_rodoma: "Vytautas Vilniui suteikė (1424 metais) \ntam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami \nnuo įvairių duoklių, tačiau tais laikais jau ėmęs stiprėti nepa­\nkantumas kitatikiams lėmė, kad ta geradarybe vien tik Ro­\nmos katalikų tikėjimą išpažįstantys naudojosi80. Šiaip ar taip, \nbet jokio persekiojimo miesto gyventojai dėl šito niekada ne­\nbuvo patyrę. Įžvalgia savo politika Vytautas, nors skaityda- \nmasis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­\nja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus \nįstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai \nLietuvos interesams ginti."
+  citata_rodoma: |
+    Vytautas Vilniui suteikė (1424 metais)
+    tam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami
+    nuo įvairių duoklių, tačiau tais laikais jau ėmęs stiprėti nepa­
+    kantumas kitatikiams lėmė, kad ta geradarybe vien tik Ro­
+    mos katalikų tikėjimą išpažįstantys naudojosi80. Šiaip ar taip,
+    bet jokio persekiojimo miesto gyventojai dėl šito niekada ne­
+    buvo patyrę. Įžvalgia savo politika Vytautas, nors skaityda-
+    masis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­
+    ja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus
+    įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
+    Lietuvos interesams ginti.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7607,7 +8124,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     sydamas mišių ir šventindamas riterius. Jogaila sąjungininkų kariuo-
     menės dydžiu, žygio kryptimi, grėsmingu jėgos demonstravimu manė
     priversti Ordiną pradėti derybas ir jam padiktuoti savo sąlygas.
-  citata_rodoma: "Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi. Vytautas troško \nlemiamo mūšio, o Jogaila laukė pasiūlymo derėtis – jis tęsė laiką, klau-\nsydamas mišių ir šventindamas riterius. Jogaila sąjungininkų kariuo-\nmenės dydžiu, žygio kryptimi, grėsmingu jėgos demonstravimu manė \npriversti Ordiną pradėti derybas ir jam padiktuoti savo sąlygas."
+  citata_rodoma: |
+    Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi. Vytautas troško
+    lemiamo mūšio, o Jogaila laukė pasiūlymo derėtis – jis tęsė laiką, klau-
+    sydamas mišių ir šventindamas riterius. Jogaila sąjungininkų kariuo-
+    menės dydžiu, žygio kryptimi, grėsmingu jėgos demonstravimu manė
+    priversti Ordiną pradėti derybas ir jam padiktuoti savo sąlygas.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7629,7 +8151,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną. Po
     to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
     Lenkiją, Vilnių palikęs.
-  citata_rodoma: "Čia, krašto reikalus \nįstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­\nvo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, \npavaldžiu karališkajai savo valdžiai16.\nMiestui teko būti liudytoju dviejų prašmatnių vestuvių: \nZiemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­\ngaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo \nMazovijos kunigaikščio, kuris vedė Vytauto seserį Oną. Po \nto karalius, spiriamas karalystės reikalų, greitai išskubėjo į \nLenkiją, Vilnių palikęs."
+  citata_rodoma: |
+    Čia, krašto reikalus
+    įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
+    vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
+    pavaldžiu karališkajai savo valdžiai16.
+    Miestui teko būti liudytoju dviejų prašmatnių vestuvių:
+    Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­
+    gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
+    Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną. Po
+    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
+    Lenkiją, Vilnių palikęs.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7677,7 +8209,23 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
     tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
     pavertė anksčiau negu suspėjo Vytautas su kariauna19.
-  citata_rodoma: "116\n\n## Puslapis 133\n\nIl KNYGA\nSkirgailai išvykus į Polocką jam buvo gera proga įgyvendin­\nti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­\nvykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug \ndengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­\nkluotų žmonių būrį. Pastarieji, gurguolei atvykus iki Žemu­\ntinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo, \nir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo \nkariais. Rogėse pasislėpusiems žmonėms pavyko patekti į \npilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­\ntojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais \npavertė anksčiau negu suspėjo Vytautas su kariauna19."
+  citata_rodoma: |
+    116
+
+    ## Puslapis 133
+
+    Il KNYGA
+    Skirgailai išvykus į Polocką jam buvo gera proga įgyvendin­
+    ti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­
+    vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
+    dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
+    kluotų žmonių būrį. Pastarieji, gurguolei atvykus iki Žemu­
+    tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo,
+    ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo
+    kariais. Rogėse pasislėpusiems žmonėms pavyko patekti į
+    pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
+    tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
+    pavertė anksčiau negu suspėjo Vytautas su kariauna19.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7704,7 +8252,22 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     64
     Jahrbücher Johannes Linde.nblatts,
     P-113.
-  citata_rodoma: "Didysis kunigaikštis ne­\nteko savo žirgų ir brangenybių, o žala, kurią per tai patyrė, \nkaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­\nčių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią \nLietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą \naktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir \nRusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­\njungta prie Lenkijos. Tačiau Jogaila norėjo tą vien tik asme­\nniškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­\ndamas pačių lietuvių sutikimą ir priesaiką, o Vytautas savo \nruožtu siekė ir palikuonims, jeigu jų kada turėtų, garantuoti šio­\nkios tokios naudos, tad suvažiavo į Vilnių karaliaus sukviesti\n64\nJahrbücher Johannes Linde.nblatts, \nP-113."
+  citata_rodoma: |
+    Didysis kunigaikštis ne­
+    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
+    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
+    čių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią
+    Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą
+    aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
+    Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
+    jungta prie Lenkijos. Tačiau Jogaila norėjo tą vien tik asme­
+    niškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­
+    damas pačių lietuvių sutikimą ir priesaiką, o Vytautas savo
+    ruožtu siekė ir palikuonims, jeigu jų kada turėtų, garantuoti šio­
+    kios tokios naudos, tad suvažiavo į Vilnių karaliaus sukviesti
+    64
+    Jahrbücher Johannes Linde.nblatts,
+    P-113.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7727,7 +8290,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­
     tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
     sančio, negrąžino.
-  citata_rodoma: "Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­\ndislovas Jogaila, iš pradžių Lietuvai ir jos sostinei daug kai­\nnavo, tačiau tai buvo būtinas barbariško būvio, ligi tol tvy­\nrojusio tame krašte, pergalėjimas, kam iš visų jėgų priešinosi \nKryžiuočių ordinas, aiškiai numatydamas savo nuopuolį, \njei Lietuva ir Lenkija ateityje sustiprėtų. Ta liūdna Vilniaus \npadėtis dar pablogėjo įsiliepsnojus Vytauto karui su Skir­\ngaila. Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas \nduotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­\ntuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­\nsančio, negrąžino."
+  citata_rodoma: |
+    Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­
+    dislovas Jogaila, iš pradžių Lietuvai ir jos sostinei daug kai­
+    navo, tačiau tai buvo būtinas barbariško būvio, ligi tol tvy­
+    rojusio tame krašte, pergalėjimas, kam iš visų jėgų priešinosi
+    Kryžiuočių ordinas, aiškiai numatydamas savo nuopuolį,
+    jei Lietuva ir Lenkija ateityje sustiprėtų. Ta liūdna Vilniaus
+    padėtis dar pablogėjo įsiliepsnojus Vytauto karui su Skir­
+    gaila. Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
+    duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­
+    tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
+    sančio, negrąžino.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7750,7 +8324,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
     tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
     čių dinastija.
-  citata_rodoma: "Dail A. Penkowskis, 1838 m.\nItalo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti \nįsivaizduojami Lietuvos valdovų portretai\n\n1 skyrius •  S E N O J I  L I E T U VA\n35\nkunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-\ngaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis \n(valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam \ntapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-\nčių dinastija."
+  citata_rodoma: |
+    Dail A. Penkowskis, 1838 m.
+    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7770,7 +8355,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     naujos visuomeninės tvarkos įvedimo. Tačiau viso šio darbo
     vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
     nuo rūpinimosi Lietuva ir krikšto reikalais.
-  citata_rodoma: "Vytautas nuo pat pirmos krikšto dienos aktyviai daly­\nvavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­\ndamas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­\nspaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie\nnaujos visuomeninės tvarkos įvedimo. Tačiau viso šio darbo\nvadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį\nnuo rūpinimosi Lietuva ir krikšto reikalais."
+  citata_rodoma: |
+    Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
+    vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­
+    damas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­
+    spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
+    naujos visuomeninės tvarkos įvedimo. Tačiau viso šio darbo
+    vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
+    nuo rūpinimosi Lietuva ir krikšto reikalais.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -7800,7 +8392,24 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     trokšta jos nepaisydamas šventos priesaikos, kokią pats da­
     vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
     tėvynei nelaimę atneš.
-  citata_rodoma: "Len­\nkų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­\nti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, \no karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­\nkijos senato valią galima būtų didžiajam kunigaikščiui už­\ndėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­\ndžiamiems. Vytautas, vėl su įkarščiu išsakęs savo didelį norą \nstojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­\ndavimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­\ndų: palenkti dovanomis ir pažadais Krokuvos vyskupą \nOlesnickį, kuris kartu su Krokuvos vaivada Janu iš Tarno­\nvo turėjo lemiamą balsą karaliaus taryboje. Bet šis vyras, \ntiesus ir nepalaužiamas, davė jam tokį įsidėmėtiną atsaky­\nmą: „Nors Vytautas ir vertas yra karūnos, tačiau, jeigu \ntrokšta jos nepaisydamas šventos priesaikos, kokią pats da­\nvė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p \ntėvynei nelaimę atneš."
+  citata_rodoma: |
+    Len­
+    kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­
+    ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija,
+    o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­
+    kijos senato valią galima būtų didžiajam kunigaikščiui už­
+    dėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­
+    džiamiems. Vytautas, vėl su įkarščiu išsakęs savo didelį norą
+    stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­
+    davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­
+    dų: palenkti dovanomis ir pažadais Krokuvos vyskupą
+    Olesnickį, kuris kartu su Krokuvos vaivada Janu iš Tarno­
+    vo turėjo lemiamą balsą karaliaus taryboje. Bet šis vyras,
+    tiesus ir nepalaužiamas, davė jam tokį įsidėmėtiną atsaky­
+    mą: „Nors Vytautas ir vertas yra karūnos, tačiau, jeigu
+    trokšta jos nepaisydamas šventos priesaikos, kokią pats da­
+    vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
+    tėvynei nelaimę atneš.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7832,7 +8441,27 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: "Toje pat Pulavų bibliotekoje \nriaus Zigmanto įkalbinėjimų, nesi- yra popiežiaus Martyno laiškai - \nryžtų karūnuoti Vytauto T,ietuvos ir Nr. 99, kuriame atkalbinėja Romos\n157\n\n## Puslapis 174\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\npriešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­\nleidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  citata_rodoma: |
+    Toje pat Pulavų bibliotekoje
+    riaus Zigmanto įkalbinėjimų, nesi- yra popiežiaus Martyno laiškai -
+    ryžtų karūnuoti Vytauto T,ietuvos ir Nr. 99, kuriame atkalbinėja Romos
+    157
+
+    ## Puslapis 174
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7848,7 +8477,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     dovas Vytautas, suvienijęs jėgas su pusbrolio karaliaus Jogailos
     vedama Lenkijos kariuomene, viename didžiausių viduramžių
     Europos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną..
-  citata_rodoma: "Tik 1410 m. Lietuvos val-\ndovas Vytautas, suvienijęs jėgas su pusbrolio karaliaus Jogailos\nvedama Lenkijos kariuomene, viename didžiausių viduramžių\nEuropos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną.."
+  citata_rodoma: |
+    Tik 1410 m. Lietuvos val-
+    dovas Vytautas, suvienijęs jėgas su pusbrolio karaliaus Jogailos
+    vedama Lenkijos kariuomene, viename didžiausių viduramžių
+    Europos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną..
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7864,7 +8497,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
     Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
     riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
-  citata_rodoma: "Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis\nVytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs\nSmolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-\nriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose."
+  citata_rodoma: |
+    Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
+    Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
+    Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
+    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7887,7 +8524,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     ja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus
     įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
     Lietuvos interesams ginti.
-  citata_rodoma: "Vytautas Vilniui suteikė (1424 metais) \ntam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami \nnuo įvairių duoklių, tačiau tais laikais jau ėmęs stiprėti nepa­\nkantumas kitatikiams lėmė, kad ta geradarybe vien tik Ro­\nmos katalikų tikėjimą išpažįstantys naudojosi80. Šiaip ar taip, \nbet jokio persekiojimo miesto gyventojai dėl šito niekada ne­\nbuvo patyrę. Įžvalgia savo politika Vytautas, nors skaityda- \nmasis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­\nja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus \nįstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai \nLietuvos interesams ginti."
+  citata_rodoma: |
+    Vytautas Vilniui suteikė (1424 metais)
+    tam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami
+    nuo įvairių duoklių, tačiau tais laikais jau ėmęs stiprėti nepa­
+    kantumas kitatikiams lėmė, kad ta geradarybe vien tik Ro­
+    mos katalikų tikėjimą išpažįstantys naudojosi80. Šiaip ar taip,
+    bet jokio persekiojimo miesto gyventojai dėl šito niekada ne­
+    buvo patyrę. Įžvalgia savo politika Vytautas, nors skaityda-
+    masis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­
+    ja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus
+    įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
+    Lietuvos interesams ginti.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7905,7 +8553,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
     sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
     vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
-  citata_rodoma: "Netrukus sąjungininkai puolė miestą. Vytautas su žemai­\nčiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­\nvėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir \nPrūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro \nsienų. Visos tuometinės artilerijos karo mašinos ir ugnias- \nvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti."
+  citata_rodoma: |
+    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
+    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
+    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
+    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
+    sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
+    vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7926,7 +8580,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     į krikščionybę pagoniškas Lietuvos erdves, bet ir ieškoti sugyvenimo for-
     mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
     reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
-  citata_rodoma: "Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-\ntuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju \nŽemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento \nvaldovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas \nįgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu. Kadangi Vy-\ntautui iš tikrųjų teko didžiulė užduotis įvykdyti konversiją – ne tik atvesti \nį krikščionybę pagoniškas Lietuvos erdves, bet ir ieškoti sugyvenimo for-\nmulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą \nreikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste."
+  citata_rodoma: |
+    Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-
+    tuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju
+    Žemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento
+    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
+    įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu. Kadangi Vy-
+    tautui iš tikrųjų teko didžiulė užduotis įvykdyti konversiją – ne tik atvesti
+    į krikščionybę pagoniškas Lietuvos erdves, bet ir ieškoti sugyvenimo for-
+    mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
+    reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7954,7 +8617,23 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     pajėgomis, ieškojo paspirties, juoba kad 1389 metų gale
     18
     Slap t. Karai.
-  citata_rodoma: "Karaliui išvykus į Lenkiją, Vytauto padė­\ntis tapo dargi nesaugi: mat akylai stebimas kiekviename \nžingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­\nmų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras, \nkad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo \nbrolius ir gimines gabumais lenkiantis, pasigviešęs valdžios \nir garbės, negalėjo taikstytis nei su jam daromomis skriau­\ndomis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­\ndyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­\nlis, paaukštinimu, tad susimokęs Gardine su jam palankiais \nLietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­\ntinės Skirgailą ir paimti valdžią. Tačiau nenorėdamas ban­\ndyti laimės ir pradėti mūšį su persvarą turinčiomis priešo \npajėgomis, ieškojo paspirties, juoba kad 1389 metų gale\n18\nSlap t. Karai."
+  citata_rodoma: |
+    Karaliui išvykus į Lenkiją, Vytauto padė­
+    tis tapo dargi nesaugi: mat akylai stebimas kiekviename
+    žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­
+    mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
+    kad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią. Tačiau nenorėdamas ban­
+    dyti laimės ir pradėti mūšį su persvarą turinčiomis priešo
+    pajėgomis, ieškojo paspirties, juoba kad 1389 metų gale
+    18
+    Slap t. Karai.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -7978,7 +8657,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Paleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­
     tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,
     apie ką jis pats gyrėsi Zigmantui.
-  citata_rodoma: "Vytautas turėjo neblogus santykius ir su kita mongolų šaka\n— turkais, kurie jo valdymo metu vis daugiau spraudėsi į Bal­\nkanų pusiasalį. Kai jie vieną kartą puolė Bosniją (prie Adrijati­\nkos jūros), o Konstancijos susirinkimas ragino Vytautą ir Jo­\ngailą padėti besiginantiems vengrams, tai abiem valdovam pa­\nrašius grasinantį sultonui laišką, turkai iš Bosnijos pasitraukė.\nVytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­\ngerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono\nPaleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­\ntytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,\napie ką jis pats gyrėsi Zigmantui."
+  citata_rodoma: |
+    Vytautas turėjo neblogus santykius ir su kita mongolų šaka
+    — turkais, kurie jo valdymo metu vis daugiau spraudėsi į Bal­
+    kanų pusiasalį. Kai jie vieną kartą puolė Bosniją (prie Adrijati­
+    kos jūros), o Konstancijos susirinkimas ragino Vytautą ir Jo­
+    gailą padėti besiginantiems vengrams, tai abiem valdovam pa­
+    rašius grasinantį sultonui laišką, turkai iš Bosnijos pasitraukė.
+    Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­
+    gerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono
+    Paleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­
+    tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,
+    apie ką jis pats gyrėsi Zigmantui.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -7996,7 +8686,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     mininkas, todėl jisai buvo ir tikrasis mūšio vadas. Mū-
     šio laimėjimo nuopelnas, be abejo, pirmučiausia priklauso Vy-
     tautui.
-  citata_rodoma: "Visų viršininku buvo laikomas Jogaila, ir jis turėjo duoti ženklą\nmūšiui pradėti. Vytautas buvo sudarytosios karo tarybos pir-\nmininkas, todėl jisai buvo ir tikrasis mūšio vadas. Mū-\nšio laimėjimo nuopelnas, be abejo, pirmučiausia priklauso Vy-\ntautui."
+  citata_rodoma: |
+    Visų viršininku buvo laikomas Jogaila, ir jis turėjo duoti ženklą
+    mūšiui pradėti. Vytautas buvo sudarytosios karo tarybos pir-
+    mininkas, todėl jisai buvo ir tikrasis mūšio vadas. Mū-
+    šio laimėjimo nuopelnas, be abejo, pirmučiausia priklauso Vy-
+    tautui.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8044,7 +8739,21 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     čiai, paėmę du tūkstančius belaisvių, pargrįžo triumfuoda­
     mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
     Vilniaus užėmimą.
-  citata_rodoma: "Tų karingų vienuolių viršininkas, greitas \npasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­\ngos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­\nsiuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios \npilies sudarė sutartį su Vytautu. Netrukus po to Ordino \nmaršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­\ntuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir \nMaišiagalą, o prie pat sostinės su karių likučiais nusiaubė \naplinkines žemes. Veidmainingas Ordino elgesys su Vytau­\ntu, norint ne iškelti jį, o tik drumsti vandenį Lietuvoje ir \nniokoti ją, šįsyk išgelbėjo Vilnių nuo nelaimės: mat kryžiuo­\nčiai, paėmę du tūkstančius belaisvių, pargrįžo triumfuoda­\nmi, Vytauto labui nieko nenuveikę, nė negalvodami apie \nVilniaus užėmimą."
+  citata_rodoma: |
+    Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
+    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
+    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
+    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
+    aplinkines žemes. Veidmainingas Ordino elgesys su Vytau­
+    tu, norint ne iškelti jį, o tik drumsti vandenį Lietuvoje ir
+    niokoti ją, šįsyk išgelbėjo Vilnių nuo nelaimės: mat kryžiuo­
+    čiai, paėmę du tūkstančius belaisvių, pargrįžo triumfuoda­
+    mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
+    Vilniaus užėmimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8065,7 +8774,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     suvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių
     jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą
     puotą Vytautą paskelbė Lietuvos karaliumi.
-  citata_rodoma: "Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas\nsutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­\nnimą už Vytauto sunaikintąsias ordino pilis prie Nemuno per 1392\nm. atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,\nkai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių\nir nelaisvu valstiečių. Į iškilmingą ir visą savaitę trukusį Salyno\nsuvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių\njo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą\npuotą Vytautą paskelbė Lietuvos karaliumi."
+  citata_rodoma: |
+    Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
+    sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­
+    nimą už Vytauto sunaikintąsias ordino pilis prie Nemuno per 1392
+    m. atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,
+    kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių
+    ir nelaisvu valstiečių. Į iškilmingą ir visą savaitę trukusį Salyno
+    suvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių
+    jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą
+    puotą Vytautą paskelbė Lietuvos karaliumi.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8109,7 +8827,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     vos kariuomenės puolimo kryptį. Apskritai Vytauto planas buvo įžūlus
     ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
     puolančioji pusė.
-  citata_rodoma: "Tačiau išvedus visą kariuomenę iš Lietuvos, liko \nneapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baig-\ntis katastrofa. Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-\nmą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-\nvos kariuomenės puolimo kryptį. Apskritai Vytauto planas buvo įžūlus \nir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo \npuolančioji pusė."
+  citata_rodoma: |
+    Tačiau išvedus visą kariuomenę iš Lietuvos, liko
+    neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baig-
+    tis katastrofa. Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
+    mą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-
+    vos kariuomenės puolimo kryptį. Apskritai Vytauto planas buvo įžūlus
+    ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
+    puolančioji pusė.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8141,7 +8866,27 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: "Tačiau Vilniaus vyskupas Petras tam \nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, \nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas \nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką.\nVytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus \npilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­\ntuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo \npaklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu \npaskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas \njam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,\n73 nė Ona mirė Trakuose, o palaidota\nOna buvo Smolensko kunigaikščio buvo Vilniuje."
+  citata_rodoma: |
+    Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
+    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
+    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
+    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
+    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
+    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
+    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
+    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
+    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
+    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
+    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
+    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
+    73 nė Ona mirė Trakuose, o palaidota
+    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8162,7 +8907,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
     giems valdovams buvę nepatogu susirišti giminystės ryšiais su
     savo pavaldiniais.
-  citata_rodoma: "Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias\nšios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,\nišaugęs kitų miško medžių tarpe. Jo tėvas Kęstutis, nuolatinis\nŽemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo\nŽemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,\nbuvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­\ngiems valdovams buvę nepatogu susirišti giminystės ryšiais su\nsavo pavaldiniais."
+  citata_rodoma: |
+    Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
+    šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
+    išaugęs kitų miško medžių tarpe. Jo tėvas Kęstutis, nuolatinis
+    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
+    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
+    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
+    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
+    savo pavaldiniais.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8184,7 +8937,10 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     bet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­
     limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
     keliu, kaip ir į Žalgirio mūšį.
-  citata_rodoma: "Vytautas ir Jogaila, nelaukdami Ordino užpuo­\nlimo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat\nkeliu, kaip ir į Žalgirio mūšį."
+  citata_rodoma: |
+    Vytautas ir Jogaila, nelaukdami Ordino užpuo­
+    limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
+    keliu, kaip ir į Žalgirio mūšį.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8210,7 +8966,19 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
     ir dovanojo brangių dovanų2, ir nuo tol tarpe jų įsiga­
     lėjo didelė meilė.
-  citata_rodoma: "Esant šiam Vytautui didžiuoju kunigaikščiu ir val­\ndant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį \nkitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­\nmė, bet ir Vengrų žemės valdovas, vadinamas Romos \nim peratorium igyveno su juo didelėje meilėje.\nKartą šis šlovingasis valdovas, būdamas savo pilyje, \nDidžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­\nrų karalių, vadinamą Romos imperatoriumi, ir liepė jam \natvykti. Ir šis kuo klusniausiai, nedelsdamas atvyko pas \njį su savo karaliene, ir reiškė jam didžiausią pagarbą, \nir dovanojo brangių dovanų2 , ir nuo tol tarpe jų įsiga­\nlėjo didelė meilė."
+  citata_rodoma: |
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    im peratorium igyveno su juo didelėje meilėje.
+    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
+    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
+    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
+    atvykti. Ir šis kuo klusniausiai, nedelsdamas atvyko pas
+    jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
+    ir dovanojo brangių dovanų2 , ir nuo tol tarpe jų įsiga­
+    lėjo didelė meilė.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8234,7 +9002,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tas, ką jis priminė vėliau lenkams, nesileido į jokias derybas
     tuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai
     tuos pasitarimus^2 ).
-  citata_rodoma: "Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­\nda jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,\nnorėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­\nmantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­\njos ir Ordino. Užtat slaptai, nedalyvaujant lenkų ponams, ku­\nrie kartu buvo atvykę su Vytautu, pasiūlė jam karaliaus karū­\nną, žadėdamas visišką nepriklausomybę nuo Jogailos ir Lenki­\njos ir net pagalbą prieš juos, jeigu jie priešintųsi. Bet Vytau­\ntas, ką jis priminė vėliau lenkams, nesileido į jokias derybas\ntuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai\ntuos pasitarimus^2 )."
+  citata_rodoma: |
+    Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
+    da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
+    norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­
+    mantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­
+    jos ir Ordino. Užtat slaptai, nedalyvaujant lenkų ponams, ku­
+    rie kartu buvo atvykę su Vytautu, pasiūlė jam karaliaus karū­
+    ną, žadėdamas visišką nepriklausomybę nuo Jogailos ir Lenki­
+    jos ir net pagalbą prieš juos, jeigu jie priešintųsi. Bet Vytau­
+    tas, ką jis priminė vėliau lenkams, nesileido į jokias derybas
+    tuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai
+    tuos pasitarimus^2 ).
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8282,7 +9061,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     smūgiai, kuriuos šie nuo jo patyrė,
     galėtų būti prilyginti tai nelaimei,
     kokią pats per juos iškentėjo?
-  citata_rodoma: "Taigi \ngreitai, 1385 metais, mažamečiai Vy­\ntauto sūnūs, Jonas ir Jurgis, buvo Ka­\nraliaučiuje nunuodyti! Vytautas ne­\nvilty dėl savo sūnų netekties puolėsi \nprie sutarties su Jogaila, visą širdį \ndėdamas. Apgavystė, kurios ėmėsi \nišvykdamas iš kryžiuočių krašto, ir \nsmūgiai, kuriuos šie nuo jo patyrė, \ngalėtų būti prilyginti tai nelaimei, \nkokią pats per juos iškentėjo?"
+  citata_rodoma: |
+    Taigi
+    greitai, 1385 metais, mažamečiai Vy­
+    tauto sūnūs, Jonas ir Jurgis, buvo Ka­
+    raliaučiuje nunuodyti! Vytautas ne­
+    vilty dėl savo sūnų netekties puolėsi
+    prie sutarties su Jogaila, visą širdį
+    dėdamas. Apgavystė, kurios ėmėsi
+    išvykdamas iš kryžiuočių krašto, ir
+    smūgiai, kuriuos šie nuo jo patyrė,
+    galėtų būti prilyginti tai nelaimei,
+    kokią pats per juos iškentėjo?
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8305,7 +9095,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
     atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
     vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė.
-  citata_rodoma: "Algirdas \nkartais gyvendavo Paneriuose, šiandien priklausančiuose \nVilniaus kapitulai. Pasiligojusi Vytauto žmona Julijona bu­\nvo apsistojusi kažkokiame kunigaikščių kaime, vadinama­\nme Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto \nvokiečių raštininko, šiandien negalima suprasti, kokia tai \nbuvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose \nbuvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, \nŽygimantų - Senojo ir Augusto - laikais, kai net Vilniuje \natsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­\nvo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė."
+  citata_rodoma: |
+    Algirdas
+    kartais gyvendavo Paneriuose, šiandien priklausančiuose
+    Vilniaus kapitulai. Pasiligojusi Vytauto žmona Julijona bu­
+    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
+    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
+    vokiečių raštininko, šiandien negalima suprasti, kokia tai
+    buvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose
+    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
+    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
+    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
+    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8342,7 +9143,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
     numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
     chija turėjo įsitvirtinti Europos politinėje sistemoje.
-  citata_rodoma: "Lucko suvažiavi-\nmas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją \nįėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I \nir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-\nto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, \nkad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu \nvaldovu. \nLucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, \nnumatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-\nchija turėjo įsitvirtinti Europos politinėje sistemoje."
+  citata_rodoma: |
+    Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
+    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
+    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
+    valdovu.
+    Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
+    numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
+    chija turėjo įsitvirtinti Europos politinėje sistemoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8378,7 +9189,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą
     kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
     Vytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn.
-  citata_rodoma: "Ir Vytautas, nesitikėdamas tuo\ntarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą\nkartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.\nVytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn."
+  citata_rodoma: |
+    Ir Vytautas, nesitikėdamas tuo
+    tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą
+    kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
+    Vytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8397,7 +9212,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-
     vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
     Olesnickis.
-  citata_rodoma: "Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-\nsiųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.\nSumanymą iškėlė imperatorius Zigmantas. Jogaila tam pritarė,\nbet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-\nvavo Lietuvos savarankiškumo priešas, vysk. Zbignevas\nOlesnickis."
+  citata_rodoma: |
+    Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
+    siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
+    Sumanymą iškėlė imperatorius Zigmantas. Jogaila tam pritarė,
+    bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-
+    vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
+    Olesnickis.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8420,7 +9241,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­
     mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais,
     nusprendė užimti Vilnių ir Trakus.
-  citata_rodoma: "Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje; \nvos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­\nsioje, sukelti Jogailos brolio Kaributo, viešpatavusio Severs- \nko kunigaikštystėje ir nenorėjusio pripažinti Kęstučio vir­\nšenybės, vertė šį vykti ten su visa kariauna. Palikdamas \nVilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui, \njaunajam Vytautui.\nKai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­\ngauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­\nmažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, \nnusprendė užimti Vilnių ir Trakus."
+  citata_rodoma: |
+    Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
+    vos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­
+    sioje, sukelti Jogailos brolio Kaributo, viešpatavusio Severs-
+    ko kunigaikštystėje ir nenorėjusio pripažinti Kęstučio vir­
+    šenybės, vertė šį vykti ten su visa kariauna. Palikdamas
+    Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui,
+    jaunajam Vytautui.
+    Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­
+    gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­
+    mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais,
+    nusprendė užimti Vilnių ir Trakus.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8439,7 +9271,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     rūpinąs turėti geresnių.
     Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
     niką išsikovoti.
-  citata_rodoma: "Jogaila bandė teisintis, kad Vytautą įžeidžiąs laiškas\n(iš Krokuvos — imperatoriui Zigmantui) buvęs parašytas be kara­\nliaus žinios^12. Vytautui tai davė progos Jogailą kaltinti, jog jis\njau visai patekęs savo patarėjų įtakon, nenorįs jų pašalinti ir nesi­\nrūpinąs turėti geresnių.\nVisos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­\nniką išsikovoti."
+  citata_rodoma: |
+    Jogaila bandė teisintis, kad Vytautą įžeidžiąs laiškas
+    (iš Krokuvos — imperatoriui Zigmantui) buvęs parašytas be kara­
+    liaus žinios^12. Vytautui tai davė progos Jogailą kaltinti, jog jis
+    jau visai patekęs savo patarėjų įtakon, nenorįs jų pašalinti ir nesi­
+    rūpinąs turėti geresnių.
+    Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
+    niką išsikovoti.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8465,7 +9304,20 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     nas patikusią lietuvaitę. Tačiau tas netikėtas ryšys, kuris Hen­
     rikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį
     karaliaus susitarimą su Vytautu48.
-  citata_rodoma: "133\n\n## Puslapis 150\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\ngyveno kryžiuočių sostinėje Marienburge. Nepaprastas Rin­\ngailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su \nslaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą, \nkad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­\nnuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­\nnas patikusią lietuvaitę. Tačiau tas netikėtas ryšys, kuris Hen­\nrikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį \nkaraliaus susitarimą su Vytautu48."
+  citata_rodoma: |
+    133
+
+    ## Puslapis 150
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    gyveno kryžiuočių sostinėje Marienburge. Nepaprastas Rin­
+    gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su
+    slaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą,
+    kad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­
+    nuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­
+    nas patikusią lietuvaitę. Tačiau tas netikėtas ryšys, kuris Hen­
+    rikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį
+    karaliaus susitarimą su Vytautu48.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8486,7 +9338,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
-  citata_rodoma: "Tai \npadaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-\nto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), \nįsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai \nsklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą. \nBe to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-\nją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su \nKatalikų bažnyčia."
+  citata_rodoma: |
+    Tai
+    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
+    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
+    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
+    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
+    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
+    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+    Katalikų bažnyčia.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8502,7 +9362,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     sąlygas. Pagaliau jis turėjo net pasižadėti atgautoje savo tėvo-
     nijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą
     Vygando vardu ir išsiuntė su didele kariuomene į Lietuvą.
-  citata_rodoma: "Pabėgėlis Vytautas už paramą turėjo priimti visas ordino\nsąlygas. Pagaliau jis turėjo net pasižadėti atgautoje savo tėvo-\nnijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą\nVygando vardu ir išsiuntė su didele kariuomene į Lietuvą."
+  citata_rodoma: |
+    Pabėgėlis Vytautas už paramą turėjo priimti visas ordino
+    sąlygas. Pagaliau jis turėjo net pasižadėti atgautoje savo tėvo-
+    nijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą
+    Vygando vardu ir išsiuntė su didele kariuomene į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8535,7 +9399,28 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė
     ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
     mingai palaidoti85.
-  citata_rodoma: "Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį\n159\n\n## Puslapis 176\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nkada nors turėti taip godotą karūną, jis sunkiai susirgo, o \ngausiai susirinkę svetimšaliai pradėjo išsivažinėti iš Vilniaus. \nLiko tik vienas Fotijas, Maskvos metropolitas, ketinęs \nišprašyti Kijevo metropolijos prijungimą prie Maskvos; \ngražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­\nimtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­\nvą. Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien \nsilpstantį ir būdamas tikras, kad šis jau galutinai atsisakė \nsavo sumanymo, aukštuosius didikus iš savo tarybos išsiun­\ntė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­\nju. Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose, \ngedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė \nį pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė \nir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­\nmingai palaidoti85."
+  citata_rodoma: |
+    Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
+    159
+
+    ## Puslapis 176
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    kada nors turėti taip godotą karūną, jis sunkiai susirgo, o
+    gausiai susirinkę svetimšaliai pradėjo išsivažinėti iš Vilniaus.
+    Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs
+    išprašyti Kijevo metropolijos prijungimą prie Maskvos;
+    gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­
+    imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­
+    vą. Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
+    silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
+    savo sumanymo, aukštuosius didikus iš savo tarybos išsiun­
+    tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
+    ju. Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose,
+    gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė
+    į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė
+    ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
+    mingai palaidoti85.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8555,7 +9440,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     ir Lenkijos ateičiai palikusius savo pėdsakų iki pat šių dienų.
     Pusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­
     mesni vaidmenį Lietuvoje.
-  citata_rodoma: "**1. Vytauto didžiojo sąjunga su kryžiuočiais ir jo laimėjimai**\n    **prieš Algirdaičius Lietuvoje antrojo vidaus karo metu**\n\nSugrįžęs iš ordino, Vytautas penkerius metus (1384-89) tarnavo\nJogailai ir rėmė visus jo politinius bei kultūrinius žygius, Lietuvos\nir Lenkijos ateičiai palikusius savo pėdsakų iki pat šių dienų.\nPusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­\nmesni vaidmenį Lietuvoje."
+  citata_rodoma: |
+    **1. Vytauto didžiojo sąjunga su kryžiuočiais ir jo laimėjimai**
+        **prieš Algirdaičius Lietuvoje antrojo vidaus karo metu**
+
+    Sugrįžęs iš ordino, Vytautas penkerius metus (1384-89) tarnavo
+    Jogailai ir rėmė visus jo politinius bei kultūrinius žygius, Lietuvos
+    ir Lenkijos ateičiai palikusius savo pėdsakų iki pat šių dienų.
+    Pusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­
+    mesni vaidmenį Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8577,7 +9470,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­
     gaikštystės sostinė. Toksai pagrindinės valdžios nutolimas
     nuo sostinės galėjo turėti blogos įtakos jos gerovei.
-  citata_rodoma: "Beveik visą \namžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­\nnėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­\npuolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai, \nežerų apsuptai Trakų piliai. Nuo 1400 metų, ištisą šimtmetį, \nTrakuose Vytautas, Žygimantas ir Kazimieras svarstė lem- \ntingiausius Lietuvos reikalus ir ten sprendė plačios savo vals­\ntybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­\ngaikštystės sostinė. Toksai pagrindinės valdžios nutolimas \nnuo sostinės galėjo turėti blogos įtakos jos gerovei."
+  citata_rodoma: |
+    Beveik visą
+    amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­
+    nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
+    puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
+    ežerų apsuptai Trakų piliai. Nuo 1400 metų, ištisą šimtmetį,
+    Trakuose Vytautas, Žygimantas ir Kazimieras svarstė lem-
+    tingiausius Lietuvos reikalus ir ten sprendė plačios savo vals­
+    tybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­
+    gaikštystės sostinė. Toksai pagrindinės valdžios nutolimas
+    nuo sostinės galėjo turėti blogos įtakos jos gerovei.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8596,7 +9499,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­
     poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką.
-  citata_rodoma: "Kai sužinojo, kad kryžiuočių\npasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­\nsiuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­\nnum) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­\npoldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­\ntauto laišką."
+  citata_rodoma: |
+    Kai sužinojo, kad kryžiuočių
+    pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
+    siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­
+    num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­
+    poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
+    tauto laišką.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8652,7 +9561,29 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     wien i 6 sot hrywien i 50 i osm hryzvien
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
-  citata_rodoma: "A \nza srebro i za robotu i za mied' i za wsi \nrzeczy, szto k mincy prisłuchaiut, \nwyszło 50 tysiacz kop i szest tysiacz kop. \na 40 kop. i kopa i 26 hroszej. A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
+  citata_rodoma: |
+    A
+    za srebro i za robotu i za mied' i za wsi
+    rzeczy, szto k mincy prisłuchaiut,
+    wyszło 50 tysiacz kop i szest tysiacz kop.
+    a 40 kop. i kopa i 26 hroszej. A liteho
+    236
+
+    ## Puslapis 253
+
+    III KNYGA
+    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
+    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
+    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­
+    jos istorija mums išsaugojo įdomią žinią apie tai, kad
+    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
+    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
+    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
+    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
+    serebra do mina/ pryszlo 20 tysiacz hry-
+    wien i 6 sot hrywien i 50 i osm hryzvien
+    i dwa skotcy [Vilniuje, birželio 9-ta
+    diena, 2 indiktas.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8696,7 +9627,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     kad mestų darbus ir pasišalintų iš krašto. Pastarasis, turėda-
     51
     Lindenblatt Jahrbücher, p. 9 4 .
-  citata_rodoma: "Jokūbą, vėl išsiruošė ana­\npus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­\ndinti ir stiprinti Rittersverderio pilį52. Tačiau netruko užklupti \njuos Vytautas su lietuviais bei lenkais ir kreipėsi į magistrą, \nkad mestų darbus ir pasišalintų iš krašto. Pastarasis, turėda-\n51\nLindenblatt Jahrbücher, p. 9 4 ."
+  citata_rodoma: |
+    Jokūbą, vėl išsiruošė ana­
+    pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­
+    dinti ir stiprinti Rittersverderio pilį52. Tačiau netruko užklupti
+    juos Vytautas su lietuviais bei lenkais ir kreipėsi į magistrą,
+    kad mestų darbus ir pasišalintų iš krašto. Pastarasis, turėda-
+    51
+    Lindenblatt Jahrbücher, p. 9 4 .
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8720,7 +9658,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Vytautas užpuolė Pskovą, nes Dorpato vyskupas, kuris Vytautą
     turėjo savo globėju, skundėsi, kad pskoviečiai vargina jo že­
     mes^1 ).
-  citata_rodoma: "Taigi šiam\nkarui pasibaigus, Vytautas visą savo energiją nukreipė į Psko­\nvo ir Naugardo miestus ir į Rusijos kraštus.\nGudrūs Pskovo ir Naugardo pirkliai, pajutę Vytauto pyk­\ntį, keletą kartų siuntė pas jį su dovanomis savo pasiuntinius,\nbet Vytautas nenorėjo klausyti jų taikių pasiūlymų ir atvirai\nrengėsi karui, kuris įvyko 1426 m. Tų metų vasarą, rugpiūčio\nmėn. surinkęs didelę iš lietuvių, lenkų, čekų ir totorių kariuomenę,\nVytautas užpuolė Pskovą, nes Dorpato vyskupas, kuris Vytautą\nturėjo savo globėju, skundėsi, kad pskoviečiai vargina jo že­\nmes^1 )."
+  citata_rodoma: |
+    Taigi šiam
+    karui pasibaigus, Vytautas visą savo energiją nukreipė į Psko­
+    vo ir Naugardo miestus ir į Rusijos kraštus.
+    Gudrūs Pskovo ir Naugardo pirkliai, pajutę Vytauto pyk­
+    tį, keletą kartų siuntė pas jį su dovanomis savo pasiuntinius,
+    bet Vytautas nenorėjo klausyti jų taikių pasiūlymų ir atvirai
+    rengėsi karui, kuris įvyko 1426 m. Tų metų vasarą, rugpiūčio
+    mėn. surinkęs didelę iš lietuvių, lenkų, čekų ir totorių kariuomenę,
+    Vytautas užpuolė Pskovą, nes Dorpato vyskupas, kuris Vytautą
+    turėjo savo globėju, skundėsi, kad pskoviečiai vargina jo že­
+    mes^1 ).
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8740,7 +9689,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     savo žymiųjų didikų, kurie patvirtino susitarimus su Konradu
     Jungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš
     ordino žemių (Žemaičių) činšininkų.
-  citata_rodoma: "Grįžęs iš laimingai baig­\ntos Smolensko operacijos, 1404 rugpiūčio viduryje Vytautas su\ndidžiuoju magistru susivažiavo prie Lampėdžių (arti Kauno) Ritters­\nwerderio saloje^33. Jis rodė ordinui didelį palankumą. Akivaizdoje\nsavo žymiųjų didikų, kurie patvirtino susitarimus su Konradu\nJungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš\nordino žemių (Žemaičių) činšininkų."
+  citata_rodoma: |
+    Grįžęs iš laimingai baig­
+    tos Smolensko operacijos, 1404 rugpiūčio viduryje Vytautas su
+    didžiuoju magistru susivažiavo prie Lampėdžių (arti Kauno) Ritters­
+    werderio saloje^33. Jis rodė ordinui didelį palankumą. Akivaizdoje
+    savo žymiųjų didikų, kurie patvirtino susitarimus su Konradu
+    Jungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš
+    ordino žemių (Žemaičių) činšininkų.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8805,7 +9761,23 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     nių, turėjo slėptis Trakų pilyje34. Ir šią pilį Jogaila būtų leng­
     vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
     pagalbą sūnui pagaliau nebūtų atvykęs.
-  citata_rodoma: "Re­\ngis, iš jo kilusi Hanulu giminė, kurių\n36\n\n## Puslapis 53\n\nI  KNYGA\nVilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­\ngailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi \npilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas \nVilniaus gyventojų palankumas didžia dalimi nulėmė eigą \nkovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat \npralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­\nnių, turėjo slėptis Trakų pilyje34. Ir šią pilį Jogaila būtų leng­\nvai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į \npagalbą sūnui pagaliau nebūtų atvykęs."
+  citata_rodoma: |
+    Re­
+    gis, iš jo kilusi Hanulu giminė, kurių
+    36
+
+    ## Puslapis 53
+
+    I  KNYGA
+    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
+    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
+    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
+    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
+    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
+    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
+    nių, turėjo slėptis Trakų pilyje34. Ir šią pilį Jogaila būtų leng­
+    vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
+    pagalbą sūnui pagaliau nebūtų atvykęs.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8826,7 +9798,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tačiau ūmus, per daug ambicingas, kartais siekiantis savo
     tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
     geri ir blogi bruožai.
-  citata_rodoma: "Vytauto palaikai buvo atvežti į Vilnių ir iškil­\nmingai palaidoti85. Vytautas savo laikais buvo didžią šlovę \npelnęs karžygys, šiaurės kraštuose labiausiai aukštinamas \nmonarchas; nė vienas iš tuomet viešpatavusiųjų, jam ne­\nprilygo narsa ir kario šlove. Veiklus, santūrus, kilnus, my­\nlintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika, \ntačiau ūmus, per daug ambicingas, kartais siekiantis savo \ntikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto \ngeri ir blogi bruožai."
+  citata_rodoma: |
+    Vytauto palaikai buvo atvežti į Vilnių ir iškil­
+    mingai palaidoti85. Vytautas savo laikais buvo didžią šlovę
+    pelnęs karžygys, šiaurės kraštuose labiausiai aukštinamas
+    monarchas; nė vienas iš tuomet viešpatavusiųjų, jam ne­
+    prilygo narsa ir kario šlove. Veiklus, santūrus, kilnus, my­
+    lintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika,
+    tačiau ūmus, per daug ambicingas, kartais siekiantis savo
+    tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
+    geri ir blogi bruožai.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8853,7 +9834,22 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
     Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
     ti, ir kuris palaimino tą santuoką.
-  citata_rodoma: "VILNIAUS MIESTO ISTORIJA I TOMAS\nVytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­\ngailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­\nsinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo \ndovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai \nVilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­\ndžiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­\nlėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­\ndė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono \nAlgimantaičio dukterį. Tačiau Vilniaus vyskupas Petras tam \nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, \nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas \nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką."
+  citata_rodoma: |
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­
+    gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­
+    sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo
+    dovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai
+    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
+    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
+    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
+    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
+    Algimantaičio dukterį. Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8870,7 +9866,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     toviai mainėsi draugiškais laiškais, davinėjo patarimus, keitėsi
     įvairiomis brangiomis dovanomis^43 , tarėsi nematąs, kas dėjosi Že­
     maičiuose.
-  citata_rodoma: "Prie Dubysos pilies skubiai dirbo 800 darbininkų ir 24 meisteriai.\nApsimetęs ordino draugu, ir čia Vytautas teikė pagalbą. Jis pas­\ntoviai mainėsi draugiškais laiškais, davinėjo patarimus, keitėsi\nįvairiomis brangiomis dovanomis^43 , tarėsi nematąs, kas dėjosi Že­\nmaičiuose."
+  citata_rodoma: |
+    Prie Dubysos pilies skubiai dirbo 800 darbininkų ir 24 meisteriai.
+    Apsimetęs ordino draugu, ir čia Vytautas teikė pagalbą. Jis pas­
+    toviai mainėsi draugiškais laiškais, davinėjo patarimus, keitėsi
+    įvairiomis brangiomis dovanomis^43 , tarėsi nematąs, kas dėjosi Že­
+    maičiuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8897,7 +9898,22 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
     Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
     tinės Skirgailą ir paimti valdžią.
-  citata_rodoma: "Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas \nduotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­\ntuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­\nsančio, negrąžino. Karaliui išvykus į Lenkiją, Vytauto padė­\ntis tapo dargi nesaugi: mat akylai stebimas kiekviename \nžingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­\nmų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras, \nkad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo \nbrolius ir gimines gabumais lenkiantis, pasigviešęs valdžios \nir garbės, negalėjo taikstytis nei su jam daromomis skriau­\ndomis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­\ndyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­\nlis, paaukštinimu, tad susimokęs Gardine su jam palankiais \nLietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­\ntinės Skirgailą ir paimti valdžią."
+  citata_rodoma: |
+    Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
+    duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­
+    tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
+    sančio, negrąžino. Karaliui išvykus į Lenkiją, Vytauto padė­
+    tis tapo dargi nesaugi: mat akylai stebimas kiekviename
+    žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­
+    mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
+    kad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8918,7 +9934,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     bet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­
     limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
     keliu, kaip ir į Žalgirio mūšį.
-  citata_rodoma: "Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­\ndiną, kurio magistru buvo išrinktas jam palankus Povilas\nRussdortas, vietoje atstatyto Küchmeisterio, nes Ordinas su\nVytautu nuo 1414 m. buvo tik per plauką nuo karo. Popiežiaus\npasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,\nbet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­\nlimo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat\nkeliu, kaip ir į Žalgirio mūšį."
+  citata_rodoma: |
+    Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
+    diną, kurio magistru buvo išrinktas jam palankus Povilas
+    Russdortas, vietoje atstatyto Küchmeisterio, nes Ordinas su
+    Vytautu nuo 1414 m. buvo tik per plauką nuo karo. Popiežiaus
+    pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,
+    bet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­
+    limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
+    keliu, kaip ir į Žalgirio mūšį.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -8944,7 +9968,20 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
     jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
     sudarė su jais paliaubas.
-  citata_rodoma: "To garbingo karžygio palaikai Skir­\ngailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­\nrėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­\nvo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas \niš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas, \ntačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­\nvyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo \nneišvengiamos pražūties.\nTas Vytauto pabėgimas turėjo priversti Jogailą nerimau­\nti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­\ngrobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­\njo, 1382 metų lapkričio pradžioje Dubysos upės salelėje \nsudarė su jais paliaubas."
+  citata_rodoma: |
+    To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -8965,7 +10002,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
     Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
     tetą – 1422 m.
-  citata_rodoma: "Atrodo, kad visa Vytauto politika orientuota į „švento \nvaldovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas \nįgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu. Kadangi Vy-\ntautui iš tikrųjų teko didžiulė užduotis įvykdyti konversiją – ne tik atvesti \nį krikščionybę pagoniškas Lietuvos erdves, bet ir ieškoti sugyvenimo for-\nmulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą \nreikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste. \nSiekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-\ntetą – 1422 m."
+  citata_rodoma: |
+    Atrodo, kad visa Vytauto politika orientuota į „švento
+    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
+    įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu. Kadangi Vy-
+    tautui iš tikrųjų teko didžiulė užduotis įvykdyti konversiją – ne tik atvesti
+    į krikščionybę pagoniškas Lietuvos erdves, bet ir ieškoti sugyvenimo for-
+    mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
+    reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
+    Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
+    tetą – 1422 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9049,7 +10095,35 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Visame tame plote, nuo senų senovės apaugusiame girio­
     mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
     ganos medžioklių trobelės.
-  citata_rodoma: "Tikrai \ntikėtina, jog vardas tautos, įsikūru­\nsios prie Vyslos žiočių - vidivarii [vi- \ndivarijai], duotas Jornandeso \n(De geticae gentis origine ac rebus ges­\ntis Cap. 5 [apie gotų genties kilmę ir \nkaro žygius]); yra ne kokios nors vie­\nnos tautos nomen gentile [giminės \nvardas], bet toks įvairių tautų sam­\nbūrio nomen sociale [bendruomenės \nvardas], koks yra frankų pavadini­\nmas.\n2\nApie Lietuvos ir Žemaitijos tapatu­\nmą ir apie tą jos dalijimą į aukštuti­\nnę ir žemutinę sužinome iš kuo pa­\ntikimiausio šaltinio, iš didžiojo \nkunigaikščio Vytauto 1420 metais \nRomos imperatoriui Zigmantui ra- \nšvto laiško: Terra Samaytarum, - pa-\n14\n\n## Puslapis 31\n\nI  KNYGA\nVisame tame plote, nuo senų senovės apaugusiame girio­\nmis, palei gausių upių, versmių, ežerų krantus, stovėjo var­\nganos medžioklių trobelės."
+  citata_rodoma: |
+    Tikrai
+    tikėtina, jog vardas tautos, įsikūru­
+    sios prie Vyslos žiočių - vidivarii [vi-
+    divarijai], duotas Jornandeso
+    (De geticae gentis origine ac rebus ges­
+    tis Cap. 5 [apie gotų genties kilmę ir
+    karo žygius]); yra ne kokios nors vie­
+    nos tautos nomen gentile [giminės
+    vardas], bet toks įvairių tautų sam­
+    būrio nomen sociale [bendruomenės
+    vardas], koks yra frankų pavadini­
+    mas.
+    2
+    Apie Lietuvos ir Žemaitijos tapatu­
+    mą ir apie tą jos dalijimą į aukštuti­
+    nę ir žemutinę sužinome iš kuo pa­
+    tikimiausio šaltinio, iš didžiojo
+    kunigaikščio Vytauto 1420 metais
+    Romos imperatoriui Zigmantui ra-
+    švto laiško: Terra Samaytarum, - pa-
+    14
+
+    ## Puslapis 31
+
+    I  KNYGA
+    Visame tame plote, nuo senų senovės apaugusiame girio­
+    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
+    ganos medžioklių trobelės.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9071,7 +10145,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     vo be Lenkijos baronų sutikimo^2 ).
     Toliau Vytautas pabrėžia, kad šis punktas galės būt pritai­
     kintas tik jam mirus^3 ).
-  citata_rodoma: "Juk\ntai buvo visos Lietuvos pažeminimas ir nepasitikėjimas jos ba­\njorų taryba. Tuojau iš čia Vytautas nurašė Jogailai laišką,\nsu pasipiktinimu pabrėždamas, kaip jį skaudžiai jis įžeidė,\npasisakęs nenorįs todėl palaikyti jo karūnacijos, kad Lie­\ntuvos bajorai ir gyventojai neturi teisės laisvai išsirinkti valdo­\nvo be Lenkijos baronų sutikimo^2 ).\nToliau Vytautas pabrėžia, kad šis punktas galės būt pritai­\nkintas tik jam mirus^3 )."
+  citata_rodoma: |
+    Juk
+    tai buvo visos Lietuvos pažeminimas ir nepasitikėjimas jos ba­
+    jorų taryba. Tuojau iš čia Vytautas nurašė Jogailai laišką,
+    su pasipiktinimu pabrėždamas, kaip jį skaudžiai jis įžeidė,
+    pasisakęs nenorįs todėl palaikyti jo karūnacijos, kad Lie­
+    tuvos bajorai ir gyventojai neturi teisės laisvai išsirinkti valdo­
+    vo be Lenkijos baronų sutikimo^2 ).
+    Toliau Vytautas pabrėžia, kad šis punktas galės būt pritai­
+    kintas tik jam mirus^3 ).
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9104,7 +10187,27 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     už ežero, skalaujančio pilį, vadina­
     mo Galve, buvęs kunigaikščio žvė­
     rynas.
-  citata_rodoma: "Trakų pilis, reikia many­\nti, taip pat yra buvusi sena, galbūt \ndar prieš Gediminą, gynybinė ir me­\ndžiotojų gyvenvietė. Gediminas \ntrumpam buvo ją padaręs savo sos­\ntinės pilimi, ir tik Kęstutis bei jo sū­\nnus Vytautas išplėtė ir pritaikė nuo­\nlatinei buveinei, paversdami galingų \nkunigaikščių garbei derančia. Vieno­\nje Vytauto privilegijoje, suteiktoje \nTrakams, rašytoje pod lita Bożeho na- \nroienia 1384, mca Augusta 23 dnia In- \ndykta, skaitome, kad Trakai jau tuo­\nmet, tai yra prieš krikščionybės \nįvedimą Lietuvoje, buvo ganėtinai \nsvarbus Lietuvos miestas, kad ten \njau būta krikščionių bažnyčių, ir kad \nuž ežero, skalaujančio pilį, vadina­\nmo Galve, buvęs kunigaikščio žvė­\nrynas."
+  citata_rodoma: |
+    Trakų pilis, reikia many­
+    ti, taip pat yra buvusi sena, galbūt
+    dar prieš Gediminą, gynybinė ir me­
+    džiotojų gyvenvietė. Gediminas
+    trumpam buvo ją padaręs savo sos­
+    tinės pilimi, ir tik Kęstutis bei jo sū­
+    nus Vytautas išplėtė ir pritaikė nuo­
+    latinei buveinei, paversdami galingų
+    kunigaikščių garbei derančia. Vieno­
+    je Vytauto privilegijoje, suteiktoje
+    Trakams, rašytoje pod lita Bożeho na-
+    roienia 1384, mca Augusta 23 dnia In-
+    dykta, skaitome, kad Trakai jau tuo­
+    met, tai yra prieš krikščionybės
+    įvedimą Lietuvoje, buvo ganėtinai
+    svarbus Lietuvos miestas, kad ten
+    jau būta krikščionių bažnyčių, ir kad
+    už ežero, skalaujančio pilį, vadina­
+    mo Galve, buvęs kunigaikščio žvė­
+    rynas.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9121,7 +10224,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     iš anos Lietuvos ir atkūrė savo valstybę. LDK tradicija, lietuvių ir jų kuni-
     gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
     vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.
-  citata_rodoma: "Didvyriai surasti – tai visi Lietuvos didieji kuni-\ngaikščiai kaip prakilni jungtis su moderniąja, XX a. Lietuva, kuri atsirado \niš anos Lietuvos ir atkūrė savo valstybę. LDK tradicija, lietuvių ir jų kuni-\ngaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo \nvardai visuomet kėlė atgimstančios lietuvių tautos sąmonę."
+  citata_rodoma: |
+    Didvyriai surasti – tai visi Lietuvos didieji kuni-
+    gaikščiai kaip prakilni jungtis su moderniąja, XX a. Lietuva, kuri atsirado
+    iš anos Lietuvos ir atkūrė savo valstybę. LDK tradicija, lietuvių ir jų kuni-
+    gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
+    vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9137,7 +10245,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     nesigirdėjo. Jogailos atliekamos apeigos nervino Vytautą, murmėjo net
     lenkų riteriai. Todėl Vytautas surizikavo – pirmasis metė į mūšį Lietuvos
     kariuomenę.
-  citata_rodoma: "Taigi Vytautas laukė Jogailos žodžio pradėti mūšį, o to žodžio \nnesigirdėjo. Jogailos atliekamos apeigos nervino Vytautą, murmėjo net \nlenkų riteriai. Todėl Vytautas surizikavo – pirmasis metė į mūšį Lietuvos \nkariuomenę."
+  citata_rodoma: |
+    Taigi Vytautas laukė Jogailos žodžio pradėti mūšį, o to žodžio
+    nesigirdėjo. Jogailos atliekamos apeigos nervino Vytautą, murmėjo net
+    lenkų riteriai. Todėl Vytautas surizikavo – pirmasis metė į mūšį Lietuvos
+    kariuomenę.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9167,7 +10279,25 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     apie tai žinių yra įdėję: K u 1  c z y ń s-
     k i Specimen Ecclesiae Ruthenicae,
     Pars.
-  citata_rodoma: "Kenksmingą tos virše­\nnybės įtaką graikų apeigų tikėjimo \ndvasininkų ir gyventojų rusų mąs- \ntvmo būdui ne kartą didysis kuni­\ngaikštis buvo pajutęs, ypač karų su \nMaskva laikais; o, be to, juk ir ne­\nmažos pajamos kasmet iš Lietuvos \nbūdavo teikiamos Maskvos metro­\npolitams. Vytautas užkirto tam ke­\nlią, nutraukdamas iš karto visus ry­\nšius su naujai išrinktu Maskvos \nmetropolitu Fotijumi ir paliepdamas \nvyskupams, susirinkusiems į Nau­\ngarduką, išrinkti iš savo tarpo Lie­\ntuvai atskirą metropolitą. Daugiau \napie tai žinių yra įdėję: K u 1  c z y ń s- \nk i Specimen Ecclesiae Ruthenicae, \nPars."
+  citata_rodoma: |
+    Kenksmingą tos virše­
+    nybės įtaką graikų apeigų tikėjimo
+    dvasininkų ir gyventojų rusų mąs-
+    tvmo būdui ne kartą didysis kuni­
+    gaikštis buvo pajutęs, ypač karų su
+    Maskva laikais; o, be to, juk ir ne­
+    mažos pajamos kasmet iš Lietuvos
+    būdavo teikiamos Maskvos metro­
+    politams. Vytautas užkirto tam ke­
+    lią, nutraukdamas iš karto visus ry­
+    šius su naujai išrinktu Maskvos
+    metropolitu Fotijumi ir paliepdamas
+    vyskupams, susirinkusiems į Nau­
+    garduką, išrinkti iš savo tarpo Lie­
+    tuvai atskirą metropolitą. Daugiau
+    apie tai žinių yra įdėję: K u 1  c z y ń s-
+    k i Specimen Ecclesiae Ruthenicae,
+    Pars.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9187,7 +10317,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     vilty dėl savo sūnų netekties puolėsi
     prie sutarties su Jogaila, visą širdį
     dėdamas.
-  citata_rodoma: "Kokios bu­\nvo šios sutarties pasekmės? Taigi \ngreitai, 1385 metais, mažamečiai Vy­\ntauto sūnūs, Jonas ir Jurgis, buvo Ka­\nraliaučiuje nunuodyti! Vytautas ne­\nvilty dėl savo sūnų netekties puolėsi \nprie sutarties su Jogaila, visą širdį \ndėdamas."
+  citata_rodoma: |
+    Kokios bu­
+    vo šios sutarties pasekmės? Taigi
+    greitai, 1385 metais, mažamečiai Vy­
+    tauto sūnūs, Jonas ir Jurgis, buvo Ka­
+    raliaučiuje nunuodyti! Vytautas ne­
+    vilty dėl savo sūnų netekties puolėsi
+    prie sutarties su Jogaila, visą širdį
+    dėdamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9210,7 +10348,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     dvaruose raštininkais, patarėjais. Vienas Vytauto mokytojas
     buvo kryžiuotis, nes tėvo dvare vokiečių belaisvių nestigdavo;
     todėl jis iš jų bus išmokęs skaityti ir rašyti.
-  citata_rodoma: "Bet iš ki­\ntos pusės, Vytautui teko gyventi ne vien pagoniško tikėjimo pa­\nsauliožiūros rate. Kaip Trakuose, taip ir dėdės Algirdo šeimoj\nVilniuj tekdavo jam susidurti ir su krikščionybės idėjomis,\nnes čia dažnai atvykdavo iš Vakarų ir Rytų Europos įvairūs\npasiuntiniai, riteriai, vienuoliai, kurie lankydavos ne tik naujo\ntikėjimo skelbimo reikalais, bet ir apsigyvendavo kunigaikščių\ndvaruose raštininkais, patarėjais. Vienas Vytauto mokytojas\nbuvo kryžiuotis, nes tėvo dvare vokiečių belaisvių nestigdavo;\ntodėl jis iš jų bus išmokęs skaityti ir rašyti."
+  citata_rodoma: |
+    Bet iš ki­
+    tos pusės, Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
+    sauliožiūros rate. Kaip Trakuose, taip ir dėdės Algirdo šeimoj
+    Vilniuj tekdavo jam susidurti ir su krikščionybės idėjomis,
+    nes čia dažnai atvykdavo iš Vakarų ir Rytų Europos įvairūs
+    pasiuntiniai, riteriai, vienuoliai, kurie lankydavos ne tik naujo
+    tikėjimo skelbimo reikalais, bet ir apsigyvendavo kunigaikščių
+    dvaruose raštininkais, patarėjais. Vienas Vytauto mokytojas
+    buvo kryžiuotis, nes tėvo dvare vokiečių belaisvių nestigdavo;
+    todėl jis iš jų bus išmokęs skaityti ir rašyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9232,7 +10380,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     nyčių Žemaitijoje po krikščionybės įvedimo. Vėliau karalienė
     Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
     klebonija tapo išties reikšmingiausia Žemaitijoje.
-  citata_rodoma: "Pats miestelis dali­\njamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­\nkinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium \n[šventovė], regis, turėtų būti senesnių metų ir, pasak vieti­\nnio padavimo, gali siekti net pagonybės laikus. Pirmoji baž­\nnyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­\nnyčių Žemaitijoje po krikščionybės įvedimo. Vėliau karalienė \nBona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta \nklebonija tapo išties reikšmingiausia Žemaitijoje."
+  citata_rodoma: |
+    Pats miestelis dali­
+    jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­
+    kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium
+    [šventovė], regis, turėtų būti senesnių metų ir, pasak vieti­
+    nio padavimo, gali siekti net pagonybės laikus. Pirmoji baž­
+    nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­
+    nyčių Žemaitijoje po krikščionybės įvedimo. Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9257,7 +10414,20 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
     Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
     aplinkines žemes.
-  citata_rodoma: "1390 metų sausio pradžioje visą savo šei­\nmą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­\ntesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar \nlabiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų \nsavo pilių gynybą. Tų karingų vienuolių viršininkas, greitas \npasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­\ngos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­\nsiuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios \npilies sudarė sutartį su Vytautu. Netrukus po to Ordino \nmaršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­\ntuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir \nMaišiagalą, o prie pat sostinės su karių likučiais nusiaubė \naplinkines žemes."
+  citata_rodoma: |
+    1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
+    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
+    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
+    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
+    aplinkines žemes.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9275,7 +10445,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     žiais, Vytautas, sargų nepažintas, išėjo su žmona iš pilies ir pa-
     ruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-
     gaikštį Jonušą.
-  citata_rodoma: "Jį čia galėjo lankyti žmona Ona, su kuria jis ir sugalvojo\nbūdą pabėgti. Tam tikslui pasiaukojo jų tarnaitė, kuri atvyk-\ndavo drauge su Ona pas Vytautą. Persirengęs tarnaitės drabu-\nžiais, Vytautas, sargų nepažintas, išėjo su žmona iš pilies ir pa-\nruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-\ngaikštį Jonušą."
+  citata_rodoma: |
+    Jį čia galėjo lankyti žmona Ona, su kuria jis ir sugalvojo
+    būdą pabėgti. Tam tikslui pasiaukojo jų tarnaitė, kuri atvyk-
+    davo drauge su Ona pas Vytautą. Persirengęs tarnaitės drabu-
+    žiais, Vytautas, sargų nepažintas, išėjo su žmona iš pilies ir pa-
+    ruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-
+    gaikštį Jonušą.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9296,7 +10472,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     sų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados
     nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
     naus Vytauto klausimą.
-  citata_rodoma: "Il KNYGA\nketi činšą, kuris jai iš Lietuvos priklausantis, kadangi šis kraštas \nkaraliaus Vladislovo Jogailos jai atiduotas kaip vestuvinė do­\nvana. Vytautas, gavęs tą iššūkį, sukviečia Lietuvos ir Rusios \ndidikus į tarybą, liepia jiems skaityti laišką ir klausia: ar jie \nnorį būti pavaldūs Lenkijai ir jai mokėti duoklę? Pasigirsta vi­\nsų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados \nnemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­\nnaus Vytauto klausimą."
+  citata_rodoma: |
+    Il KNYGA
+    keti činšą, kuris jai iš Lietuvos priklausantis, kadangi šis kraštas
+    karaliaus Vladislovo Jogailos jai atiduotas kaip vestuvinė do­
+    vana. Vytautas, gavęs tą iššūkį, sukviečia Lietuvos ir Rusios
+    didikus į tarybą, liepia jiems skaityti laišką ir klausia: ar jie
+    norį būti pavaldūs Lenkijai ir jai mokėti duoklę? Pasigirsta vi­
+    sų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados
+    nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
+    naus Vytauto klausimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9331,7 +10516,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tobie
     bracie
     dziewaję Lote\vkę.
-  citata_rodoma: "IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo\nturėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­\ndžiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris\nsostą paveldėjo iš Skirgailos."
+  citata_rodoma: |
+    IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
+    turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
+    džiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris
+    sostą paveldėjo iš Skirgailos.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9351,7 +10540,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     prestižo ir garbės, o mažiau realios politikos reikalas, didelę dalį
     10.000 rb. gautos kontribucijos išdalijo jis žygio dalyviams lenkų
     karininkams (riteriams).
-  citata_rodoma: "Šalia kronikininkų užfiksuoto švelnumo, slypėjo didelis\nkietumas, siejęsis su žiaurumu. Šalia taupumo, Vytautui buvo\ncharakteringas didelis švaistymasis materialinėmis gėrybėmis, ypač\nkai reikėdavo pasirodyti užsieniečiams. Kai Vytautas, pvz., darė\n1428 m. prieš turtingą D. Naugardą žygį, kuris buvo daugiau jo\nprestižo ir garbės, o mažiau realios politikos reikalas, didelę dalį\n10.000 rb. gautos kontribucijos išdalijo jis žygio dalyviams lenkų\nkarininkams (riteriams)."
+  citata_rodoma: |
+    Šalia kronikininkų užfiksuoto švelnumo, slypėjo didelis
+    kietumas, siejęsis su žiaurumu. Šalia taupumo, Vytautui buvo
+    charakteringas didelis švaistymasis materialinėmis gėrybėmis, ypač
+    kai reikėdavo pasirodyti užsieniečiams. Kai Vytautas, pvz., darė
+    1428 m. prieš turtingą D. Naugardą žygį, kuris buvo daugiau jo
+    prestižo ir garbės, o mažiau realios politikos reikalas, didelę dalį
+    10.000 rb. gautos kontribucijos išdalijo jis žygio dalyviams lenkų
+    karininkams (riteriams).
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9367,7 +10564,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tautas su Jogaila pradeda krikštyti žemaičius. 1418 m. Vytautas siunčia į
     Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
     grįsti siekį gyventi unijoje su Katalikų bažnyčia.
-  citata_rodoma: "Todėl 1413 m. Vy-\ntautas su Jogaila pradeda krikštyti žemaičius. 1418 m. Vytautas siunčia į \nKonstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-\ngrįsti siekį gyventi unijoje su Katalikų bažnyčia."
+  citata_rodoma: |
+    Todėl 1413 m. Vy-
+    tautas su Jogaila pradeda krikštyti žemaičius. 1418 m. Vytautas siunčia į
+    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
+    grįsti siekį gyventi unijoje su Katalikų bažnyčia.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9416,7 +10617,22 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
     Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
     tinės Skirgailą ir paimti valdžią.
-  citata_rodoma: "Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas \nduotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­\ntuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­\nsančio, negrąžino. Karaliui išvykus į Lenkiją, Vytauto padė­\ntis tapo dargi nesaugi: mat akylai stebimas kiekviename \nžingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­\nmų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras, \nkad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo \nbrolius ir gimines gabumais lenkiantis, pasigviešęs valdžios \nir garbės, negalėjo taikstytis nei su jam daromomis skriau­\ndomis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­\ndyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­\nlis, paaukštinimu, tad susimokęs Gardine su jam palankiais \nLietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­\ntinės Skirgailą ir paimti valdžią."
+  citata_rodoma: |
+    Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
+    duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­
+    tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
+    sančio, negrąžino. Karaliui išvykus į Lenkiją, Vytauto padė­
+    tis tapo dargi nesaugi: mat akylai stebimas kiekviename
+    žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­
+    mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
+    kad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9444,7 +10660,23 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
-  citata_rodoma: "Vis dėlto nereikėtų manyti, kad Vilnius \nypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų, \npatirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk \ntas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­\nbojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su \nPrūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­\nva, o naudodamasi galingo monarcho parama, jau pasiekė ir \ntolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­\nnius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­\nkių turėjo išaugti būdamas tokios didelės valstybės sostinė. \nEsant karinei valdžiai, viešpataujant valdovams, besirūpinan­\ntiems vien nukariavimais ir, po teisybei, naujos monarchijos \nkūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės \nkraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­\ntas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­\nklestėti!"
+  citata_rodoma: |
+    Vis dėlto nereikėtų manyti, kad Vilnius
+    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
+    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9486,7 +10718,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     iki užkimimo, karius skatinęs kovai^18. Tuo metu Vytautas tvarkė
     pulkus, davinėjo įsakymus, keisdamas žirgus visur jodinėjo, kau­
     tynių metu atstatinėjo pralaužtas vietas ar keitė naujais daliniais^19.
-  citata_rodoma: "Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip\nZbignievo Olesnickio. Pagal kronikininką, karalius formaliai skai­\ntėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun­\ntinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas\n«tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas\niki užkimimo, karius skatinęs kovai^18. Tuo metu Vytautas tvarkė\npulkus, davinėjo įsakymus, keisdamas žirgus visur jodinėjo, kau­\ntynių metu atstatinėjo pralaužtas vietas ar keitė naujais daliniais^19."
+  citata_rodoma: |
+    Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
+    Zbignievo Olesnickio. Pagal kronikininką, karalius formaliai skai­
+    tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun­
+    tinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas
+    «tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas
+    iki užkimimo, karius skatinęs kovai^18. Tuo metu Vytautas tvarkė
+    pulkus, davinėjo įsakymus, keisdamas žirgus visur jodinėjo, kau­
+    tynių metu atstatinėjo pralaužtas vietas ar keitė naujais daliniais^19.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9511,7 +10751,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     damas Vakarų Europos žmogus, keletą metų joje išbuvęs, jos
     auklėtas, negalėjo nepastebėti ir nejausti to didelio savo krašto
     atsilikimo, ko jis ir negalėjo ilgiau toleruoti.
-  citata_rodoma: "Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­\ntauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš\nprielankumo Lenkijai, bet iš prielankumo tai Vak. Europos kultū­\nrai, kuri ėmė skverbtis per Lenkiją į Lietuvą jau nuo Krėvės\nunijos ir, gal būt, nuo ankstyvesnių laikų. Kochanovskis yra tos\nnuomonės, kad paskutine unija Vytautas nenorėjęs Lietuvos len­\nkinti, bet ją civilizuoti^3 ). Ir nenuostabu, nes Vytautas, pats bū­\ndamas Vakarų Europos žmogus, keletą metų joje išbuvęs, jos\nauklėtas, negalėjo nepastebėti ir nejausti to didelio savo krašto\natsilikimo, ko jis ir negalėjo ilgiau toleruoti."
+  citata_rodoma: |
+    Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
+    tauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš
+    prielankumo Lenkijai, bet iš prielankumo tai Vak. Europos kultū­
+    rai, kuri ėmė skverbtis per Lenkiją į Lietuvą jau nuo Krėvės
+    unijos ir, gal būt, nuo ankstyvesnių laikų. Kochanovskis yra tos
+    nuomonės, kad paskutine unija Vytautas nenorėjęs Lietuvos len­
+    kinti, bet ją civilizuoti^3 ). Ir nenuostabu, nes Vytautas, pats bū­
+    damas Vakarų Europos žmogus, keletą metų joje išbuvęs, jos
+    auklėtas, negalėjo nepastebėti ir nejausti to didelio savo krašto
+    atsilikimo, ko jis ir negalėjo ilgiau toleruoti.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9554,7 +10804,19 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
     portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
-  citata_rodoma: "Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-\nnimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas, \nimta rūpintis žuvusių už Lietuvos laisvę karių kapais. 1934 m. lapkričio 23 d. \nKaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-\nvę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi \nkarių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-\nkilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji. \nNuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio \nVytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): \nvalstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos \nportretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-\ntvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai."
+  citata_rodoma: |
+    Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
+    nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
+    imta rūpintis žuvusių už Lietuvos laisvę karių kapais. 1934 m. lapkričio 23 d.
+    Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-
+    vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
+    karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
+    kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
+    Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio
+    Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena):
+    valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
+    portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
+    tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9571,7 +10833,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
     Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
     Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
-  citata_rodoma: "Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.\nPo Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent\nŠvitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš\nJogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,\nVytautas kartu su Skirgaila 1392 m. paėmė Vitebską."
+  citata_rodoma: |
+    Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
+    Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
+    Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
+    Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
+    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9590,7 +10857,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tuvos kunigaikštis, pavedė save Dievo valiai, lakstė visur tarp
     lenkų ir lietuvių kariuomenių, dažnai mainydamas arklius“
     (Dlugošas). Tai Vytauto apsauga.
-  citata_rodoma: "Vytautas\nvisą laiką, kai Jogaila tarėsi su pasiuntiniais, lakstė kariuome­\nnės tarpe, darė tvarką. „Aleksandras Vytautas, Didysis Lie­\ntuvos kunigaikštis, pavedė save Dievo valiai, lakstė visur tarp\nlenkų ir lietuvių kariuomenių, dažnai mainydamas arklius“\n(Dlugošas). Tai Vytauto apsauga."
+  citata_rodoma: |
+    Vytautas
+    visą laiką, kai Jogaila tarėsi su pasiuntiniais, lakstė kariuome­
+    nės tarpe, darė tvarką. „Aleksandras Vytautas, Didysis Lie­
+    tuvos kunigaikštis, pavedė save Dievo valiai, lakstė visur tarp
+    lenkų ir lietuvių kariuomenių, dažnai mainydamas arklius“
+    (Dlugošas). Tai Vytauto apsauga.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9615,7 +10888,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     baigos. Padarytas kompromisas, kuriuo einant buvo pripažinta
     Vytautui didžiojo kunigaikščio valdžia, bet pareinanti nuo Len­
     kijos.
-  citata_rodoma: "Apie tai galima spręsti iš to, kad Jogaila, kartu su\n„brangiausia žmona“, taikos vardan pasiuntė į Vilnių per jo se­\nną gynėją Klemensą iš Moskoževo, papuoštą knygą apie Kris­\ntaus kančias, padėtą Vilniaus Katedroj jos patronų garbei (bu­\nvo ir tam tikras raštas).\nKuo būdu stengtasi išlyginti nesusipratimas, apie tai\nliudija ir Vytauto titulas: „ex parte Regni Poloniae supremi du­\ncis Lituaniae“, kokį duoda Vytautui anas raštas iš 1398 m. pa­\nbaigos. Padarytas kompromisas, kuriuo einant buvo pripažinta\nVytautui didžiojo kunigaikščio valdžia, bet pareinanti nuo Len­\nkijos."
+  citata_rodoma: |
+    Apie tai galima spręsti iš to, kad Jogaila, kartu su
+    „brangiausia žmona“, taikos vardan pasiuntė į Vilnių per jo se­
+    ną gynėją Klemensą iš Moskoževo, papuoštą knygą apie Kris­
+    taus kančias, padėtą Vilniaus Katedroj jos patronų garbei (bu­
+    vo ir tam tikras raštas).
+    Kuo būdu stengtasi išlyginti nesusipratimas, apie tai
+    liudija ir Vytauto titulas: „ex parte Regni Poloniae supremi du­
+    cis Lituaniae“, kokį duoda Vytautui anas raštas iš 1398 m. pa­
+    baigos. Padarytas kompromisas, kuriuo einant buvo pripažinta
+    Vytautui didžiojo kunigaikščio valdžia, bet pareinanti nuo Len­
+    kijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9641,7 +10925,20 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Algirdaitis, nors realiai Jogaila greičiausiai
     tik patvirtino jau esamą padėtį, LDK diduo-
     menės valią.
-  citata_rodoma: "Mūšio priešistorė\n\n1430 m. spalio 27 d. mirė didis Lietuvos\nvaldovas, valstybės galybės kūrėjas Vytau-\ntas Didysis Kęstutaitis. Lietuvos metraščio\nliudijimu, Lietuvos aukščiausiojo kuni-\ngaikščio ir Lenkijos karaliaus Jogailos\nAlgirdaičio teikimu, Lietuvos kunigaikš-\nčiams ir diduomenei pritariant, į Lietuvos\nvaldovo sostą buvo pasodintas Švitrigaila\nAlgirdaitis, nors realiai Jogaila greičiausiai\ntik patvirtino jau esamą padėtį, LDK diduo-\nmenės valią."
+  citata_rodoma: |
+    Mūšio priešistorė
+
+    1430 m. spalio 27 d. mirė didis Lietuvos
+    valdovas, valstybės galybės kūrėjas Vytau-
+    tas Didysis Kęstutaitis. Lietuvos metraščio
+    liudijimu, Lietuvos aukščiausiojo kuni-
+    gaikščio ir Lenkijos karaliaus Jogailos
+    Algirdaičio teikimu, Lietuvos kunigaikš-
+    čiams ir diduomenei pritariant, į Lietuvos
+    valdovo sostą buvo pasodintas Švitrigaila
+    Algirdaitis, nors realiai Jogaila greičiausiai
+    tik patvirtino jau esamą padėtį, LDK diduo-
+    menės valią.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9657,7 +10954,10 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
     gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
     tis grąžino jam Lietuvos valdžią.
-  citata_rodoma: "Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­\ngailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­\ntis grąžino jam Lietuvos valdžią."
+  citata_rodoma: |
+    Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
+    gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
+    tis grąžino jam Lietuvos valdžią.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9678,7 +10978,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
     didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
     sančias žemes ir jų dvarus.
-  citata_rodoma: "Taigi didysis Lietuvos kunigaikš­\ntis buvo didžiausias visoje valstybėje žemvaldys ir turėjo pla­\nčiausių teisių žemės valdymo srityje.\nVytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė\ndidelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­\nsančias žemes ir jų dvarus."
+  citata_rodoma: |
+    Taigi didysis Lietuvos kunigaikš­
+    tis buvo didžiausias visoje valstybėje žemvaldys ir turėjo pla­
+    čiausių teisių žemės valdymo srityje.
+    Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
+    didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
+    sančias žemes ir jų dvarus.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9723,7 +11029,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
     Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
     jungta prie Lenkijos.
-  citata_rodoma: "Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio \narklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir \nKatedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­\nteko savo žirgų ir brangenybių, o žala, kurią per tai patyrė, \nkaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­\nčių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią \nLietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą \naktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir \nRusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­\njungta prie Lenkijos."
+  citata_rodoma: |
+    Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
+    arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
+    Katedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­
+    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
+    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
+    čių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią
+    Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą
+    aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
+    Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
+    jungta prie Lenkijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9771,7 +11087,20 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
     galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
     Klaipėda ir visa Užnemune.
-  citata_rodoma: "Švitrigaila\ntelkė kariuomenę „mūsų\nAšmenos dvare, 7 mylios\nnuo Vilniaus“. Lietuvius\nšalininkus subūręs dar\nBorisove, užėmęs Minską,\n\nŽemaičiai, nepatenkinti Vokiečių ordino valdžia, buvo ne\nkartą sukilę, dažnai jų veiksmus paremdavo Vytautas. Po\nŽalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės\ntaika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos\ngalvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su\nKlaipėda ir visa Užnemune."
+  citata_rodoma: |
+    Švitrigaila
+    telkė kariuomenę „mūsų
+    Ašmenos dvare, 7 mylios
+    nuo Vilniaus“. Lietuvius
+    šalininkus subūręs dar
+    Borisove, užėmęs Minską,
+
+    Žemaičiai, nepatenkinti Vokiečių ordino valdžia, buvo ne
+    kartą sukilę, dažnai jų veiksmus paremdavo Vytautas. Po
+    Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės
+    taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
+    galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
+    Klaipėda ir visa Užnemune.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9791,7 +11120,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     kė, kad pats nedėsiąs pastangų gauti karūnos, bet atsiųstos —
     neatmesiąs^1 ). Apie karą su Lenkija, jis nemanąs, bet kiekvieną
     jos puolimą atremsiąs^2 ).
-  citata_rodoma: "Nežiūrint visų nesusipratimų su lenkais, Vytautas ir dabar\natvykusiems pasiuntiniams buvo malonus ir vaišingas: nesigai­\nlėjo jiems visokių dovanų, o išvykstant, pats palydėjo iki Vol­\nkovisko. Čia su jais atsisveikindamas, jis diplomatiškai pareiš­\nkė, kad pats nedėsiąs pastangų gauti karūnos, bet atsiųstos —\nneatmesiąs^1 ). Apie karą su Lenkija, jis nemanąs, bet kiekvieną\njos puolimą atremsiąs^2 )."
+  citata_rodoma: |
+    Nežiūrint visų nesusipratimų su lenkais, Vytautas ir dabar
+    atvykusiems pasiuntiniams buvo malonus ir vaišingas: nesigai­
+    lėjo jiems visokių dovanų, o išvykstant, pats palydėjo iki Vol­
+    kovisko. Čia su jais atsisveikindamas, jis diplomatiškai pareiš­
+    kė, kad pats nedėsiąs pastangų gauti karūnos, bet atsiųstos —
+    neatmesiąs^1 ). Apie karą su Lenkija, jis nemanąs, bet kiekvieną
+    jos puolimą atremsiąs^2 ).
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9863,7 +11199,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     karaliaus susitarimą su Vytautu48. Tasai kunigaikštis, toks pat
     narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
     pridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna.
-  citata_rodoma: "Nepaprastas Rin­\ngailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su \nslaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą, \nkad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­\nnuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­\nnas patikusią lietuvaitę. Tačiau tas netikėtas ryšys, kuris Hen­\nrikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį \nkaraliaus susitarimą su Vytautu48. Tasai kunigaikštis, toks pat \nnarsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir \npridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna."
+  citata_rodoma: |
+    Nepaprastas Rin­
+    gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su
+    slaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą,
+    kad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­
+    nuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­
+    nas patikusią lietuvaitę. Tačiau tas netikėtas ryšys, kuris Hen­
+    rikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį
+    karaliaus susitarimą su Vytautu48. Tasai kunigaikštis, toks pat
+    narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
+    pridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9884,7 +11230,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
-  citata_rodoma: "Vytauto tolerancija patiko tautinėms mažumoms – \njuk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-\nkias Europoje jie gavo gerokai vėliau. Be to, Vytautas įkūnijo kiekvienam \nlietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-\nsomybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties \n500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo \nmuziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-\nveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-\nvos miestuose ir miesteliuose, jam pastatyti paminklai."
+  citata_rodoma: |
+    Vytauto tolerancija patiko tautinėms mažumoms –
+    juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
+    kias Europoje jie gavo gerokai vėliau. Be to, Vytautas įkūnijo kiekvienam
+    lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
+    somybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9922,9 +11277,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Lietuvos krikštas.
     1392–1430
     žymiausio Lietuvos valdovo Vytauto valdymo metai.
-    1410 
+    1410
     Žalgirio (Griunvaldo) mūšis.
-  citata_rodoma: "1387\t\nLietuvos krikštas.\n1392–1430\t\nžymiausio Lietuvos valdovo Vytauto valdymo metai.\n1410 \t\nŽalgirio (Griunvaldo) mūšis."
+  citata_rodoma: |
+    1387
+    Lietuvos krikštas.
+    1392–1430
+    žymiausio Lietuvos valdovo Vytauto valdymo metai.
+    1410
+    Žalgirio (Griunvaldo) mūšis.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -9946,7 +11307,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     (^376) III skyrius: valstybės suklestėjimas
     ir aprūpindamas Medininkų vyskupiją, bet taip pat organizuodamas
     eilę parapinių bažnyčių Lietuvoje.
-  citata_rodoma: "Tai butų davę progos vokiečių ordinui vesti\nvėl kietą propagandą prieš Lietuvą.\nSupratęs krikščionybės naudą, Vytautas aktyviai rūpinosi ją\nplėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žy­\nmių, o gal ir žymesnių nuopelnų. Nusipelnė jis ne tik įsteigdamas\n\n\n(^376) III skyrius: valstybės suklestėjimas\nir aprūpindamas Medininkų vyskupiją, bet taip pat organizuodamas\neilę parapinių bažnyčių Lietuvoje."
+  citata_rodoma: |
+    Tai butų davę progos vokiečių ordinui vesti
+    vėl kietą propagandą prieš Lietuvą.
+    Supratęs krikščionybės naudą, Vytautas aktyviai rūpinosi ją
+    plėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žy­
+    mių, o gal ir žymesnių nuopelnų. Nusipelnė jis ne tik įsteigdamas
+
+
+    (^376) III skyrius: valstybės suklestėjimas
+    ir aprūpindamas Medininkų vyskupiją, bet taip pat organizuodamas
+    eilę parapinių bažnyčių Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -9983,7 +11354,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
     grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
     Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-  citata_rodoma: ") padėti Gedimino kariuomenei, kuri\nstengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—\nBajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių\nprūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37."
+  citata_rodoma: |
+    ) padėti Gedimino kariuomenei, kuri
+    stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
+    Bajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių
+    prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -10027,7 +11402,18 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
     siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
     Žygimantą Kaributaitį, savo sūnėną.
-  citata_rodoma: "Vytauto \ndidžiausios šlovės ir galybės metai ir Vilniui buvo geriausios \nkloties laikai. Tada Lietuvos sostinėje regėdavo kupranuga­\nrius, dryžuotom gūniom apdangstytus, turtingomis dovano­\nmis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas \nVytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo \ntotorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­\nkė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­\nnarchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­\nsiuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį \nŽygimantą Kaributaitį, savo sūnėną."
+  citata_rodoma: |
+    Vytauto
+    didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
+    kloties laikai. Tada Lietuvos sostinėje regėdavo kupranuga­
+    rius, dryžuotom gūniom apdangstytus, turtingomis dovano­
+    mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas
+    Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo
+    totorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­
+    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
+    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
+    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
+    Žygimantą Kaributaitį, savo sūnėną.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -10044,7 +11430,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: "Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-\nkino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė \nvietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  citata_rodoma: |
+    Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
+    kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
+    vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -10071,7 +11462,21 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
     mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
     Stanislovas82.
-  citata_rodoma: "Tais\n81\nKaramzin  Histor. Ross., vert. į apie tą pskoviečių pasiuntinybę, vy- \nlenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza \nmetraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika\n155\n\n## Puslapis 172\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos \nlėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­\nmes pašventino vyskupai: Kijevo - Mykolas ir Plocko - \nStanislovas82."
+  citata_rodoma: |
+    Tais
+    81
+    Karamzin  Histor. Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
+    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
+    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
+    155
+
+    ## Puslapis 172
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
+    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
+    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
+    Stanislovas82.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -10091,7 +11496,15 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
     pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-  citata_rodoma: "Aišku, \nšios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl \nnatūralu, kad čia jų būta mažiau. Tačiau XVII–XVIII a. bent jau Vilnius \nprilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja) \ntokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net \njei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, \npastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-\nmenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK."
+  citata_rodoma: |
+    Aišku,
+    šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
+    natūralu, kad čia jų būta mažiau. Tačiau XVII–XVIII a. bent jau Vilnius
+    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -10108,7 +11521,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
     Mindaugas sukuria Lietuvos valstybę.
-  citata_rodoma: "Lietuva liks savarankiška civilizacinė monada, todėl \ntiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-\ntur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps \nmandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.\nMindaugas sukuria Lietuvos valstybę."
+  citata_rodoma: |
+    Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+    Mindaugas sukuria Lietuvos valstybę.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -10128,7 +11546,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     puolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
     giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
     somis Ordino pajėgomis.
-  citata_rodoma: "Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-\nmą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-\nvos kariuomenės puolimo kryptį. Apskritai Vytauto planas buvo įžūlus \nir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo \npuolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-\ngiuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-\nsomis Ordino pajėgomis."
+  citata_rodoma: |
+    Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
+    mą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-
+    vos kariuomenės puolimo kryptį. Apskritai Vytauto planas buvo įžūlus
+    ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
+    puolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
+    giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
+    somis Ordino pajėgomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -10150,7 +11575,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
     gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
     valdovas, daugelis kunigaikščių ir bajorų.
-  citata_rodoma: "Tasai kunigaikštis, toks pat \nnarsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir \npridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna. \nJis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris \nkaraliaus apie tą susitarimą jau buvo perspėtas49. Netrukus, \ntais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­\ndžią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi- \nliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­\ngaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis \nvaldovas, daugelis kunigaikščių ir bajorų."
+  citata_rodoma: |
+    Tasai kunigaikštis, toks pat
+    narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
+    pridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna.
+    Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris
+    karaliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,
+    tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
+    džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-
+    liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
+    gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
+    valdovas, daugelis kunigaikščių ir bajorų.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -10180,7 +11615,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198265
 - id: c-180239
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -10196,7 +11630,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
     jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
     A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.
-  citata_rodoma: "Be to, Vytautas įkūnijo kiekvienam \nlietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-\nsomybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties \n500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo \nmuziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-\nveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-\nvos miestuose ir miesteliuose, jam pastatyti paminklai. \nTaip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą \njų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado – \nA. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę."
+  citata_rodoma: |
+    Be to, Vytautas įkūnijo kiekvienam
+    lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
+    somybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
+    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
+    A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -10220,7 +11664,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tams, nes juose pasakyta, kad valdovus renka viena pusė su
     žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
     Vytauto ir lietuvių bajorų žinios ir pritarimo.
-  citata_rodoma: "Bet ir tada nebuvo iš­\nspręstas. Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­\nsekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars,\nVytautas dabar laukė karūnos, kaip ženklo, kuris turi išgelbėti\nvalstybę^3 ) ir jos laisvę^4 ).\nJedlnos nutarimai buvo priešingi ir Horodlės unijos ak­\ntams, nes juose pasakyta, kad valdovus renka viena pusė su\nžinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be\nVytauto ir lietuvių bajorų žinios ir pritarimo."
+  citata_rodoma: |
+    Bet ir tada nebuvo iš­
+    spręstas. Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­
+    sekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars,
+    Vytautas dabar laukė karūnos, kaip ženklo, kuris turi išgelbėti
+    valstybę^3 ) ir jos laisvę^4 ).
+    Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­
+    tams, nes juose pasakyta, kad valdovus renka viena pusė su
+    žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
+    Vytauto ir lietuvių bajorų žinios ir pritarimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -10243,7 +11696,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     namas Didžiuoju. Norėdami būti objektyvūs, turime pasakyti,
     kad vargiai vieni lietuviai be lenkų sąjungininkystės, kad ir to­
     kiam gabiam Vytautui vadovaujant, būtų nugalėję kryžiuočius.
-  citata_rodoma: "Ir tuo būdu prisiartino Vokiečių\nOrdinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­\nse ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų —\nsu Ordinu ir jo gausingais Vakarų Europos svečiais. Kryžiuo­\nčių galybė buvo sutriuškinta. Rytai ginklų kovoje nugalėjo\nVakarus, vadovaujant genialiam Vytautui, kuris neveltui vadi­\nnamas Didžiuoju. Norėdami būti objektyvūs, turime pasakyti,\nkad vargiai vieni lietuviai be lenkų sąjungininkystės, kad ir to­\nkiam gabiam Vytautui vadovaujant, būtų nugalėję kryžiuočius."
+  citata_rodoma: |
+    Ir tuo būdu prisiartino Vokiečių
+    Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­
+    se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų —
+    su Ordinu ir jo gausingais Vakarų Europos svečiais. Kryžiuo­
+    čių galybė buvo sutriuškinta. Rytai ginklų kovoje nugalėjo
+    Vakarus, vadovaujant genialiam Vytautui, kuris neveltui vadi­
+    namas Didžiuoju. Norėdami būti objektyvūs, turime pasakyti,
+    kad vargiai vieni lietuviai be lenkų sąjungininkystės, kad ir to­
+    kiam gabiam Vytautui vadovaujant, būtų nugalėję kryžiuočius.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
@@ -10266,7 +11728,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     jo. Zigmantas, vis dėlto pasėjęs nesantaikos sėklą tarp bro­
     lių ir dviejų tautų, pargrįžęs tuoj pat išleido pasiuntinius su
     karūna pas Vytautą.
-  citata_rodoma: "Neva krikščioniškųjų valstybių sąjungos prieš tur­\nkus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas \natmintinas daugelio monarchų ir kunigaikščių suvažiavimas \nbūtų sušauktas Lucke. Tačiau kai ten išaiškėjo, kad, užuot \naptarus turkų klausimą, imperatoriaus imamasi gudrių už­\nmačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat \npasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė- \njo. Zigmantas, vis dėlto pasėjęs nesantaikos sėklą tarp bro­\nlių ir dviejų tautų, pargrįžęs tuoj pat išleido pasiuntinius su \nkarūna pas Vytautą."
+  citata_rodoma: |
+    Neva krikščioniškųjų valstybių sąjungos prieš tur­
+    kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas
+    atmintinas daugelio monarchų ir kunigaikščių suvažiavimas
+    būtų sušauktas Lucke. Tačiau kai ten išaiškėjo, kad, užuot
+    aptarus turkų klausimą, imperatoriaus imamasi gudrių už­
+    mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat
+    pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
+    jo. Zigmantas, vis dėlto pasėjęs nesantaikos sėklą tarp bro­
+    lių ir dviejų tautų, pargrįžęs tuoj pat išleido pasiuntinius su
+    karūna pas Vytautą.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
 
@@ -10563,7 +12035,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
     duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
     Trakų ir Lucko kunigaikščiais2S.
-  citata_rodoma: "Savo grįžimu iš ordino Vytautas, pradžioje tik Skirgailos vietą\nteužėmęs kaip «dux Lithuaniae », pradėjo naują laikotarpį. Vy­\ntauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai\nduoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi\nTrakų ir Lucko kunigaikščiais2S."
+  citata_rodoma: |
+    Savo grįžimu iš ordino Vytautas, pradžioje tik Skirgailos vietą
+    teužėmęs kaip «dux Lithuaniae », pradėjo naują laikotarpį. Vy­
+    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
+    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
+    Trakų ir Lucko kunigaikščiais2S.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -10619,7 +12096,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių
     valdovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­
     trui^62.
-  citata_rodoma: "Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­\nplauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­\nkydamas, jog jis jau _tris_ kartus esąs išdavęs ordiną; o ketvirtą\nkartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių\nvaldovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­\ntrui^62."
+  citata_rodoma: |
+    Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
+    plauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­
+    kydamas, jog jis jau _tris_ kartus esąs išdavęs ordiną; o ketvirtą
+    kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių
+    valdovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­
+    trui^62.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -10739,15 +12222,17 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   puslapiai: "PDF 154"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
-    Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
+    Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
+    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
+    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
+    minimo ir garbinimo apeigos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -10760,12 +12245,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   puslapiai: "PDF 154"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
-    Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
-    ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
-    langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
-    užbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­
-    nus, laikė ją šventa.
+    Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
+    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
+    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
+    minimo ir garbinimo apeigos.
+    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
+    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
+    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

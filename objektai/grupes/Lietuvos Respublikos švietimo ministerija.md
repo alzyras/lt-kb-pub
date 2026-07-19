@@ -70,7 +70,8 @@ media_all_json: |-
     zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
     Šapoka.
-  citata_rodoma: "šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas"
+  citata_rodoma: |
+    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

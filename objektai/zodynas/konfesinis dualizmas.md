@@ -83,7 +83,8 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
     ir kultūrinio elito statusą, nes stačiatikiai neteko savo civilizacinio pra-
     našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai
     negalėjo pretenduoti) problemą.
-  citata_rodoma: "našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai"
+  citata_rodoma: |
+    našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

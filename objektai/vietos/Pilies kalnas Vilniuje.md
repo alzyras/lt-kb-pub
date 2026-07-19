@@ -88,7 +88,16 @@ Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies 
     kuriose gyvavo kokia nors civilizacija, religiniu požiūriu buvo
     išganymo, tai yra geresnio pomirtinio gyvenimo vilties, žen­
     klas.
-  citata_rodoma: "Pagaliau panašių atradimų retumas mūsų krašte verčia\ndaryti išvadą, kad mirusiųjų kūnai būdavo deginami retai ar­\nba kad pelenus dažniausiai užkasdavo induose iš medžiagos,\nneatsparios puvimui. Vilniuje, kaip spėjama, kunigaikščių pe­\nlenai turi būti pakasti Pilies kalne iš saulėtekio pusės, ir jei jie\nbuvo supilti į patvarias urnas, tai turėtų gulėti giliai kalne.\nMano kaimynystėje, prie Nočios miestelio, atsitiktinai at­\nkasus vieną kapą, rastas akmeninis kirvukas, padarytas iš kie­\ntos geležies."
+  citata_rodoma: |
+    Pagaliau panašių atradimų retumas mūsų krašte verčia
+    daryti išvadą, kad mirusiųjų kūnai būdavo deginami retai ar­
+    ba kad pelenus dažniausiai užkasdavo induose iš medžiagos,
+    neatsparios puvimui. Vilniuje, kaip spėjama, kunigaikščių pe­
+    lenai turi būti pakasti Pilies kalne iš saulėtekio pusės, ir jei jie
+    buvo supilti į patvarias urnas, tai turėtų gulėti giliai kalne.
+    Mano kaimynystėje, prie Nočios miestelio, atsitiktinai at­
+    kasus vieną kapą, rastas akmeninis kirvukas, padarytas iš kie­
+    tos geležies.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

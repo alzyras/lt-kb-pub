@@ -87,7 +87,8 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
     degtinė čia gyveno, matai, ko čia nebuvo:
     čia mušėsi, čia taikėsi, o
     taiką užgerdavo degtine, ir vėl mušėsi.
-  citata_rodoma: "Juk Ažytėnai — menka vietelė, bet kai degtinė čia gyveno, matai, ko čia nebuvo: čia mušėsi, čia taikėsi, o taiką užgerdavo degtine, ir vėl mušėsi."
+  citata_rodoma: |
+    Juk Ažytėnai — menka vietelė, bet kai degtinė čia gyveno, matai, ko čia nebuvo: čia mušėsi, čia taikėsi, o taiką užgerdavo degtine, ir vėl mušėsi.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -105,7 +106,8 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
     niais.
     Mikalojus Katkus.
     Ažytėnai, 1927 m. rugsėjo 25 d.
-  citata_rodoma: "Ažytėnai, 1927 m. rugsėjo 25 d."
+  citata_rodoma: |
+    Ažytėnai, 1927 m. rugsėjo 25 d.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

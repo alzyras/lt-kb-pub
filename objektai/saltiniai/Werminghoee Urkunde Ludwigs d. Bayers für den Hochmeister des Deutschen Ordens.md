@@ -69,7 +69,11 @@ Werminghoee, A.
     _Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_
     Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St.
-  citata_rodoma: "— Werminghoee, A. :\n_Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_\nArchiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,\nSt."
+  citata_rodoma: |
+    — Werminghoee, A. :
+    _Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_
+    Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
+    St.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

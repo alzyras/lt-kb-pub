@@ -68,7 +68,9 @@ Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą, kuriuo (1610 m
     tai pripažino jį caru ir atsisakė nuo visų pretenzijų į Maskvos
     sostą. Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,
     kuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru.
-  citata_rodoma: "Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,\nkuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru."
+  citata_rodoma: |
+    Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,
+    kuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

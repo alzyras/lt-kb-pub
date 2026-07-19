@@ -87,7 +87,12 @@ Nenurodyta
     lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
     100 laivų, kurie priešą nuvijo, o laivą sudegino^21. 1315 m. rugpiū­
     čio mėn.
-  citata_rodoma: "Kai 1313 m. kry­\nžiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »\natplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,\nlietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su\n100 laivų, kurie priešą nuvijo, o laivą sudegino^21. 1315 m."
+  citata_rodoma: |
+    Kai 1313 m. kry­
+    žiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »
+    atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
+    lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
+    100 laivų, kurie priešą nuvijo, o laivą sudegino^21. 1315 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

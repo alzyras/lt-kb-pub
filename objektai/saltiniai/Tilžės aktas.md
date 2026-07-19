@@ -68,7 +68,10 @@ media_all_json: |-
     "Tuometinė vokiečių valdžia šį Tarybos nu-
     tarimą, dar vadinamą Tilžės aktu, igno-
     ravo.
-  citata_rodoma: "\"Tuometinė vokiečių valdžia šį Tarybos nu-\ntarimą, dar vadinamą Tilžės aktu, igno-\nravo."
+  citata_rodoma: |
+    "Tuometinė vokiečių valdžia šį Tarybos nu-
+    tarimą, dar vadinamą Tilžės aktu, igno-
+    ravo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

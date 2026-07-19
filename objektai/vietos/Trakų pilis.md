@@ -237,7 +237,13 @@ Trakų pilis.
     čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
     Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
     karuose taip pat naudojo parako ginklus ir patrankas.
-  citata_rodoma: "Tuo pat\nlaiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­\nšteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­\nčių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie\nMarienverderio nukreipė jas prieš patį Ordiną. Vytautas savo\nkaruose taip pat naudojo parako ginklus ir patrankas."
+  citata_rodoma: |
+    Tuo pat
+    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
+    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
+    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
+    Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
+    karuose taip pat naudojo parako ginklus ir patrankas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -259,7 +265,13 @@ Trakų pilis.
     šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
     čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
     Marienverderio nukreipė jas prieš patį Ordiną.
-  citata_rodoma: "per Velykų šventes ataka­\nvęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat\nlaiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­\nšteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­\nčių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie\nMarienverderio nukreipė jas prieš patį Ordiną."
+  citata_rodoma: |
+    per Velykų šventes ataka­
+    vęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat
+    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
+    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
+    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
+    Marienverderio nukreipė jas prieš patį Ordiną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -380,7 +392,14 @@ Trakų pilis.
     jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
     siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
-  citata_rodoma: "MITOLOGIJOS PABAIGA. 13\n13\nSeniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo\nsenojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies\ntyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­\nniaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,\nsuteikęs mums tą žinią."
+  citata_rodoma: |
+    MITOLOGIJOS PABAIGA. 13
+    13
+    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
+    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
+    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
+    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
+    suteikęs mums tą žinią.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

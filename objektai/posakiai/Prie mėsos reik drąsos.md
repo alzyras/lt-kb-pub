@@ -69,7 +69,9 @@ Trumpa juokaujanti formulė apie mėsos valgymą.
     Svogūnai susmulkinti ir sutrinti su druska buvo gausūs lašiniuose.
     — Prašom eit prie mėsos, — pasakė statydama.
     — Prie mėsos reik drąsos, — sumetė Praniukas.
-  citata_rodoma: "— Prašom eit prie mėsos, — pasakė statydama.\n— Prie mėsos reik drąsos, — sumetė Praniukas."
+  citata_rodoma: |
+    — Prašom eit prie mėsos, — pasakė statydama.
+    — Prie mėsos reik drąsos, — sumetė Praniukas.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

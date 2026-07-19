@@ -73,7 +73,11 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
     derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
     mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
     kviena kalba ir kultūra yra vertingas visos žmonijos turtas.
-  citata_rodoma: "Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-\nderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų\nmintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-\nkviena kalba ir kultūra yra vertingas visos žmonijos turtas."
+  citata_rodoma: |
+    Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
+    derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
+    mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
+    kviena kalba ir kultūra yra vertingas visos žmonijos turtas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

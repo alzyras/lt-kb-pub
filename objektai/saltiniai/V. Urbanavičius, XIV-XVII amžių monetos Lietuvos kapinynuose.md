@@ -76,7 +76,10 @@ Urbanavičius, V.
     124 p. — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­
     nynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI
     amžiais_ , Vilnius 1970.
-  citata_rodoma: "— Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­\nnynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI\namžiais_ , Vilnius 1970."
+  citata_rodoma: |
+    — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­
+    nynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI
+    amžiais_ , Vilnius 1970.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

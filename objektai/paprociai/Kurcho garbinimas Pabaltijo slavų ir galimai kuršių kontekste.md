@@ -110,7 +110,23 @@ Nenurodyta
     (skaityti atvirkščiai) •— PYLL—WIT. Jis yra pono Tomseno, Ka­
     rališkojo Danijos numizmatikos kabineto direktoriaus, paskelbtoje
     lentelėje (Nr. 1.
-  citata_rodoma: "92\n92 /Ten pat/\nPabaltijo\nslavai\ntaip\npat\ngarbino\nKurchą.\nPonas Tadas Vo­\nlianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­\nrašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1\nlenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —\nR. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­\nkui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo\nKurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­\nkalu."
+  citata_rodoma: |
+    92
+    92 /Ten pat/
+    Pabaltijo
+    slavai
+    taip
+    pat
+    garbino
+    Kurchą.
+    Ponas Tadas Vo­
+    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
+    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
+    lenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —
+    R. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­
+    kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
+    Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
+    kalu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

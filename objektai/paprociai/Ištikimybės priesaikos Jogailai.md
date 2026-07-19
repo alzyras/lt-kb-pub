@@ -108,7 +108,12 @@ Nenurodyta
     versti duoti priesaika patvirtintus raštus, kad amžinai būsią
     ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
     šaukti tuojau atvyksią į Lenkiją.
-  citata_rodoma: "Pirmučiausia šitam reikalui iš Krokuvos\nbuvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-\nversti duoti priesaika patvirtintus raštus, kad amžinai būsią\ništikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-\nšaukti tuojau atvyksią į Lenkiją."
+  citata_rodoma: |
+    Pirmučiausia šitam reikalui iš Krokuvos
+    buvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-
+    versti duoti priesaika patvirtintus raštus, kad amžinai būsią
+    ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
+    šaukti tuojau atvyksią į Lenkiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -127,7 +132,12 @@ Nenurodyta
     Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
     kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
     stojo savo galios^3 ).
-  citata_rodoma: "Tokią ištikimybės prie­\nsaiką tuo laiku iš viso buvo padarytos trys^2 ).\nProchaska yra tos nuomonės, kad aukščiau minėtu priesai­\nkos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­\nstojo savo galios^3 )."
+  citata_rodoma: |
+    Tokią ištikimybės prie­
+    saiką tuo laiku iš viso buvo padarytos trys^2 ).
+    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
+    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
+    stojo savo galios^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -71,7 +71,11 @@ media_all_json: |-
     luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
     ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
     pradžios, 1934).
-  citata_rodoma: "1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių\nluomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos\nūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.\npradžios, 1934)."
+  citata_rodoma: |
+    1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių
+    luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
+    ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
+    pradžios, 1934).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

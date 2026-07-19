@@ -93,7 +93,9 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     pareikalavo, kad Vytautas laiduotų sutartį, įkeisdamas savo arti-
     muosius. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
     mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
-  citata_rodoma: "Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-\n  mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų."
+  citata_rodoma: |
+    Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
+      mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

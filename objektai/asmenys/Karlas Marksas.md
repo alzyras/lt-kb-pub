@@ -58,7 +58,11 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
-  citata_rodoma: "Mokytojai verčiami studijuoti \nV. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų \npartijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-\ngą."
+  citata_rodoma: |
+    Mokytojai verčiami studijuoti
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

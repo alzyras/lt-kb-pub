@@ -94,7 +94,13 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
     kijos karaliumi. O Ziemovito viltys laimėti Jadvygos ranką 1383 m.
     pavasarį buvo padidėjusios, ir jis — priešingai Krokuvos ponų
     nusistatymui — planavęs Jadvygą pagrobti prievarta.
-  citata_rodoma: "**\n(^4) **Plg. H. Paszkiewicz :** **_O genezie i wartości Krewa_** **, 1938, 206 p.**\n\n\n(^282) ii skyrius: valstybės iškilimas\nm."
+  citata_rodoma: |
+    **
+    (^4) **Plg. H. Paszkiewicz :** **_O genezie i wartości Krewa_** **, 1938, 206 p.**
+
+
+    (^282) ii skyrius: valstybės iškilimas
+    m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -369,7 +369,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
     Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
     baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
-  citata_rodoma: "Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83."
+  citata_rodoma: |
+    Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -387,7 +388,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     Poliakuvnos darbe išsamiai išanalizuoti kronikos šaltiniai, be kita ko, žodinė tradicija
     ir paties kronikininko stebėjimai, teologiniai ir politiniai šio kūrinio uždaviniai ir kt.
     klausimai89.
-  citata_rodoma: "83 Voigt J. Geschichte Preussens, B. 3, S. 603—626."
+  citata_rodoma: |
+    83 Voigt J. Geschichte Preussens, B. 3, S. 603—626.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -408,7 +410,12 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
     anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
     tuva kilties ir vienos genties broliai?
-  citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę."
+  citata_rodoma: |
+    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
+    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
+    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -431,7 +438,13 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     aiškinimas).
     P. 273* - Išnaša, kuria autorius papildė paragrafą, rengda­
     mas antrąjį LTI leidimą (PEĮ.
-  citata_rodoma: "P. 258** -  Johano Foigto -  Karaliaučiaus universiteto profe­\nsoriaus, istoriko, kryžiuočių Slaptojo archyvo tyri­\nnėtojo, parašiusio daugiatomę „Prūsijos istoriją“\n{Voigt Johann. Geschichte Preussens. -  B. I-IX. -\nKönigsberg, 1827-1839) veikalai buvo vieni daž­\nniausiai cituojamų darbų T. Narbuto LTI."
+  citata_rodoma: |
+    P. 258** -  Johano Foigto -  Karaliaučiaus universiteto profe­
+    soriaus, istoriko, kryžiuočių Slaptojo archyvo tyri­
+    nėtojo, parašiusio daugiatomę „Prūsijos istoriją“
+    {Voigt Johann. Geschichte Preussens. -  B. I-IX. -
+    Königsberg, 1827-1839) veikalai buvo vieni daž­
+    niausiai cituojamų darbų T. Narbuto LTI.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -464,7 +477,25 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     novas ir savo surinktų giesmių leidėjas ponas Rėza***,
     kurio šviesa tiek daug pasinaudojome ankstesniame to-
     1 Hlebovičiaus „Vytauto gyvenimas“.
-  citata_rodoma: "Mokytos plunksnos dirbo ir dabar\ndarbuojas i prie jų istorijos: Kocebus* parašė senovės\nPrūsų istoriją, pelniusią didelį pripažinimą; mokslingasis\nponas Foi'gtas** baigia išleisti paskutinius pilnos tos\npačios istorijos tomus, kurių bus astuoni; šis visiškai už­\nbaigtas veikalas savo verte pranoksta visus lig tol žino­\nmus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­\nnikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie\nšaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­\nnovės tyrėjai netgi padarė išsamiai ir tvarkingai surink­\ntų, reikalingų ištraukų atsargas, o ponas Foigtas pats\nnepaprastu savo darbštumu, genialumu ir talentais at­\nskleidė jų turtingumą ir parodė retą jų panaudojimo pa­\nvyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų\nir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.\nBe to, Rusijos valstybės vakarinėse vokiečių gubernijose\nsteigiasi draugijos, pluša mokslininkai, žadėdami naujų\nšiaurinių kraštų istorijos vaisių."
+  citata_rodoma: |
+    Mokytos plunksnos dirbo ir dabar
+    darbuojas i prie jų istorijos: Kocebus* parašė senovės
+    Prūsų istoriją, pelniusią didelį pripažinimą; mokslingasis
+    ponas Foi'gtas** baigia išleisti paskutinius pilnos tos
+    pačios istorijos tomus, kurių bus astuoni; šis visiškai už­
+    baigtas veikalas savo verte pranoksta visus lig tol žino­
+    mus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­
+    nikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie
+    šaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­
+    novės tyrėjai netgi padarė išsamiai ir tvarkingai surink­
+    tų, reikalingų ištraukų atsargas, o ponas Foigtas pats
+    nepaprastu savo darbštumu, genialumu ir talentais at­
+    skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
+    vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
+    ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
+    Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
+    steigiasi draugijos, pluša mokslininkai, žadėdami naujų
+    šiaurinių kraštų istorijos vaisių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -494,7 +525,27 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
     nėra naujas teiginys. Dar kronikininkas Lukas Davidas
     (t. IT.
-  citata_rodoma: "333\n\n## Puslapis 344\n\n*  *  *\nIII priedas\nA p ie  d in g u s į\nVitiem dijos k ra štą\nIštrauka iš Foigto\n(Gesch. Preuss. B. I. S. 677)\nTai,\nkad\nAistmarės1\ngerokai\nišplėtė savo\nplotą,\nypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies\nir Piliavos miesto viską dengia marių vandenys, anks­\ntesniais laikais buvo gyvenama sausuma, jokiais požiūriais\nnėra naujas teiginys."
+  citata_rodoma: |
+    333
+
+    ## Puslapis 344
+
+    *  *  *
+    III priedas
+    A p ie  d in g u s į
+    Vitiem dijos k ra štą
+    Ištrauka iš Foigto
+    (Gesch. Preuss. B. I. S. 677)
+    Tai,
+    kad
+    Aistmarės1
+    gerokai
+    išplėtė savo
+    plotą,
+    ypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies
+    ir Piliavos miesto viską dengia marių vandenys, anks­
+    tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
+    nėra naujas teiginys.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -540,7 +591,21 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     te ir tuojau prie Pilkalnio kaimo galima pastebėti seną
     piliavietę; nuo čia už kelių šimtų sieksnių yra Ząsupėnų
     kaimas, prie kurio nėra nieko, kas primintų tvirtovę.
-  citata_rodoma: "Bet panašiau\nį tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į\npietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur\nesama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;\ntai labiau primena šį pavadinimą, nors ši vieta, mūsų\nnuomone, priklauso Nadruvai. Pono Foigto tyrimas yra\nkiek klaidingas. Aš pats lankiausi čia, tad aprašau tiks­\nliau: važiuojant iš Gumbinės medžiais apsodintu vieš­\nkeliu per Brakupėnus ir Maltviškės į Ragainę, per pusę\nprūsų mylios iki Maltviškių, iš Dubinu kaimo nesikeliant\nper Eimenio upelį, važiuojama kairiąja šio upelio pakran­\nte ir tuojau prie Pilkalnio kaimo galima pastebėti seną\npiliavietę; nuo čia už kelių šimtų sieksnių yra Ząsupėnų\nkaimas, prie kurio nėra nieko, kas primintų tvirtovę."
+  citata_rodoma: |
+    Bet panašiau
+    į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
+    pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
+    esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
+    tai labiau primena šį pavadinimą, nors ši vieta, mūsų
+    nuomone, priklauso Nadruvai. Pono Foigto tyrimas yra
+    kiek klaidingas. Aš pats lankiausi čia, tad aprašau tiks­
+    liau: važiuojant iš Gumbinės medžiais apsodintu vieš­
+    keliu per Brakupėnus ir Maltviškės į Ragainę, per pusę
+    prūsų mylios iki Maltviškių, iš Dubinu kaimo nesikeliant
+    per Eimenio upelį, važiuojama kairiąja šio upelio pakran­
+    te ir tuojau prie Pilkalnio kaimo galima pastebėti seną
+    piliavietę; nuo čia už kelių šimtų sieksnių yra Ząsupėnų
+    kaimas, prie kurio nėra nieko, kas primintų tvirtovę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -564,7 +629,14 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     gentims, sako: „Turbūt tas pats karalius Germanarikas
     savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
     kraštą ir pavergė estų tautą“4.
-  citata_rodoma: "Siame gana aiš­\nkiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad\njis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­\nšyti vadindamas estais. Išnagrinėjęs Tacito geografiją,\nnaujųjų laikų prūsų istorikas nustatė šią Estijos padėtį\nkaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo\n1 Thunmann."
+  citata_rodoma: |
+    Siame gana aiš­
+    kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
+    jis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­
+    šyti vadindamas estais. Išnagrinėjęs Tacito geografiją,
+    naujųjų laikų prūsų istorikas nustatė šią Estijos padėtį
+    kaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo
+    1 Thunmann.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

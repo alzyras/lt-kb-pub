@@ -77,7 +77,8 @@ Dusburgietis teigia, kad zinkevičius Z.
     — Питания гiдронiмiки, Киiв, 1971, с. 131—137.
     Седов В. В. Этногеография Восточной Европы середины I тысячелетия и. э. по
     данным археологии и Иордана.
-  citata_rodoma: "Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984."
+  citata_rodoma: |
+    Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

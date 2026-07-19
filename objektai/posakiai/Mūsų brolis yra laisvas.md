@@ -61,7 +61,11 @@ media_all_json: |-
     vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
     broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
     laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
-  citata_rodoma: "Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-\nvas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų\nbroliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome\nlaisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais\" ..."
+  citata_rodoma: |
+    Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-
+    vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
+    broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
+    laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

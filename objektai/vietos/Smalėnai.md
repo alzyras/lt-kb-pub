@@ -63,7 +63,10 @@ media_all_json: |-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
-  citata_rodoma: "Rugsėjo 22 d. „Gediminas“ susirėmė su\nlenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-\nkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus."
+  citata_rodoma: |
+    Rugsėjo 22 d. „Gediminas“ susirėmė su
+    lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
+    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,12 @@ Nenurodyta
     ja su Lietuva. — Ordinui buvo trumpai atsakyta: jei jis pultų
     Žemaitiją, tada Jogaila užpultų Prūsus, nes „Lietuvos priešus
     laikome savais”^1 ).
-  citata_rodoma: "Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo\nbūti tas klausimas išspręstas, gavo viršų bendradarbiavimo idė­\nja su Lietuva. — Ordinui buvo trumpai atsakyta: jei jis pultų\nŽemaitiją, tada Jogaila užpultų Prūsus, nes „Lietuvos priešus\nlaikome savais”^1 )."
+  citata_rodoma: |
+    Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo
+    būti tas klausimas išspręstas, gavo viršų bendradarbiavimo idė­
+    ja su Lietuva. — Ordinui buvo trumpai atsakyta: jei jis pultų
+    Žemaitiją, tada Jogaila užpultų Prūsus, nes „Lietuvos priešus
+    laikome savais”^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

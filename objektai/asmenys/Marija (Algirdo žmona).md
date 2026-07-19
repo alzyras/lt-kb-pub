@@ -80,7 +80,7 @@ media_all_json: |-
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Žr. V\lre- tis buvęs Kęstudo karių suduptas.
+    V\lre- tis buvęs Kęstudo karių suduptas.
     26
 
     ## Puslapis 43
@@ -92,7 +92,19 @@ media_all_json: |-
     Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
-  citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
+  citata_rodoma: |
+    V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -64,7 +64,10 @@ media_all_json: |-
     1893.**
     (^11) **PSRL, 17, 525 p. (Bychovco kronika).**
     (^12) **CEV, 814-815, 823-824, 836-838 p.**
-  citata_rodoma: "**\n(^11) **PSRL, 17, 525 p. (Bychovco kronika).**\n(^12) **CEV, 814-815, 823-824, 836-838 p."
+  citata_rodoma: |
+    **
+    (^11) **PSRL, 17, 525 p. (Bychovco kronika).**
+    (^12) **CEV, 814-815, 823-824, 836-838 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

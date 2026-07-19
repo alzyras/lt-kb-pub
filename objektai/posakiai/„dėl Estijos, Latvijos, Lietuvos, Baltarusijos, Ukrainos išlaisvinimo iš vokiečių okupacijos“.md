@@ -74,7 +74,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
     metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
     kariuomenę.
-  citata_rodoma: "cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir"
+  citata_rodoma: |
+    cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

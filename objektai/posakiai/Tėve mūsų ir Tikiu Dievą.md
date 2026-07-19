@@ -62,7 +62,13 @@ media_all_json: |-
     klausė, bet nebuvo kam lietuviškai aiškinti naujo tikėjimo. Jo­
     gaila šituo ar kuriuo kitu laiku išvertęs lietuvių k. „Tėve mū­
     sų“ ir „Tikiu Dievą“^2 ).
-  citata_rodoma: "Todėl ir Vy­\ntautui D. su Jogaila teko mokyti žmones pagrindinių kataliky­\nbės tiesų ne vien todėl, kad karališko žodžio žmonės labiau\nklausė, bet nebuvo kam lietuviškai aiškinti naujo tikėjimo. Jo­\ngaila šituo ar kuriuo kitu laiku išvertęs lietuvių k. „Tėve mū­\nsų“ ir „Tikiu Dievą“^2 )."
+  citata_rodoma: |
+    Todėl ir Vy­
+    tautui D. su Jogaila teko mokyti žmones pagrindinių kataliky­
+    bės tiesų ne vien todėl, kad karališko žodžio žmonės labiau
+    klausė, bet nebuvo kam lietuviškai aiškinti naujo tikėjimo. Jo­
+    gaila šituo ar kuriuo kitu laiku išvertęs lietuvių k. „Tėve mū­
+    sų“ ir „Tikiu Dievą“^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

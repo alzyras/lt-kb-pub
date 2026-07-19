@@ -129,7 +129,16 @@ Nenurodyta
     vietoje pasalą, įsiveržė [į jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
     moteris ir vaikus paėmę į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
     200 lietuvių.
-  citata_rodoma: "Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11\n\n  Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui\nsavo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai\npuldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,\nsudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,\natplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai\nužstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir\nne kartą mėgino šitai padaryti."
+  citata_rodoma: |
+    Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
+
+      Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
+    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
+    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
+    ne kartą mėgino šitai padaryti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -150,7 +159,14 @@ Nenurodyta
     būt pilį sudeginti. Tokia galybė benešiojančių ir bepuldinėjančių netikėlių buvo nukauta ir
     mirtinai sužeista, kad net nežinau, kiek iš tikrųjų, todėl jie, nepasiekę tikslo, ir pasitraukė
     sudeginę apgulos mašinas.
-  citata_rodoma: "dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai\nsužeistaisiais, o broliai — 18 karių sužeistaisiais. Nieko šiuo būdu nepešę, galop jie 17\ndieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele kariuomene,\npriėjo pilies gynybinį griovį ir ten prinešė malkų, šieno, stagarų ir šiaudu, norėdami žūt\nbūt pilį sudeginti. Tokia galybė benešiojančių ir bepuldinėjančių netikėlių buvo nukauta ir\nmirtinai sužeista, kad net nežinau, kiek iš tikrųjų, todėl jie, nepasiekę tikslo, ir pasitraukė\nsudeginę apgulos mašinas."
+  citata_rodoma: |
+    dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai
+    sužeistaisiais, o broliai — 18 karių sužeistaisiais. Nieko šiuo būdu nepešę, galop jie 17
+    dieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele kariuomene,
+    priėjo pilies gynybinį griovį ir ten prinešė malkų, šieno, stagarų ir šiaudu, norėdami žūt
+    būt pilį sudeginti. Tokia galybė benešiojančių ir bepuldinėjančių netikėlių buvo nukauta ir
+    mirtinai sužeista, kad net nežinau, kiek iš tikrųjų, todėl jie, nepasiekę tikslo, ir pasitraukė
+    sudeginę apgulos mašinas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

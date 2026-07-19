@@ -590,7 +590,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata."
   pagrindžia:
-    - c-163321
+    - c-36503
 
 <a id="claim-t-179673"></a>
 - t-030
@@ -609,7 +609,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   temporaliniai_duomenys: "įvykio data: 1395 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-163321
+    - c-36503
 
 <a id="claim-t-179674"></a>
 - t-031
@@ -1071,6 +1071,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179668
+    - t-179672
+    - t-179673
 - id: c-36504
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1110,7 +1112,21 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     kunigaikščių Vytauto ir Jono, bei
     Vaidilos, ir didysis komtūras, ku­
     ris jiems iškėlė puikias vaišes.
-  citata_rodoma: "Kitais\nmetais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­\ndriaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė\ntikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.\n28\nTas sandėris buvo sudarytas slapta\ngirioje, prie dabartinių Daugų, Tra­\nkų paviete, netoli nuo Alytaus, kaip\nmanau (auf dem Felde Daudisken);\ntarp atvykusiųjų į tariamą medžiok­\nlę buvo: Jogaila, lydimas Lietuvos\nkunigaikščių Vytauto ir Jono, bei\nVaidilos, ir didysis komtūras, ku­\nris jiems iškėlė puikias vaišes."
+  citata_rodoma: |
+    Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+    28
+    Tas sandėris buvo sudarytas slapta
+    girioje, prie dabartinių Daugų, Tra­
+    kų paviete, netoli nuo Alytaus, kaip
+    manau (auf dem Felde Daudisken);
+    tarp atvykusiųjų į tariamą medžiok­
+    lę buvo: Jogaila, lydimas Lietuvos
+    kunigaikščių Vytauto ir Jono, bei
+    Vaidilos, ir didysis komtūras, ku­
+    ris jiems iškėlė puikias vaišes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1188,7 +1204,15 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
     vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
     neišvengiamos pražūties.
-  citata_rodoma: "To garbingo karžygio palaikai Skir­\ngailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­\nrėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­\nvo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas\niš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,\ntačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­\nvyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo\nneišvengiamos pražūties."
+  citata_rodoma: |
+    To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1212,7 +1236,17 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     bratije »^3.
     Skirgailos politinis svoris, kurio valdžion pateko svarbios že­
     mės, turėjo padidėti.
-  citata_rodoma: "**\n\n\ngailai Jogaila paliko ir Vytauto tėviškę — Trakus, nors juos buvo\nžadėjęs grąžinti Kęstutaičiui. Reikšmingu dokumentu užrašydamas\nSkirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau\nuž visus kitus brolius — «a deržati mi jeho vyše usieje našeje\nbratije »^3.\nSkirgailos politinis svoris, kurio valdžion pateko svarbios že­\nmės, turėjo padidėti."
+  citata_rodoma: |
+    **
+
+
+    gailai Jogaila paliko ir Vytauto tėviškę — Trakus, nors juos buvo
+    žadėjęs grąžinti Kęstutaičiui. Reikšmingu dokumentu užrašydamas
+    Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau
+    už visus kitus brolius — «a deržati mi jeho vyše usieje našeje
+    bratije »^3.
+    Skirgailos politinis svoris, kurio valdžion pateko svarbios že­
+    mės, turėjo padidėti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1231,15 +1265,16 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     žemes^3 ), o tuo pačiu pripažįstančią Lucko viršenybę. Tai pasi­
     sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.). Kre-
     meniecas vėl susijungė su Volynija^4 ).
-  citata_rodoma: "Tai pasi­\nsekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.). Kre-\nmeniecas vėl susijungė su Volynija^4 )."
+  citata_rodoma: |
+    Tai pasi­
+    sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.). Kre-
+    meniecas vėl susijungė su Volynija^4 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179672
-    - t-179673
 - id: c-163322
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1253,7 +1288,13 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
     ir jo palikuonys. Iš to matyt, kad Skirgaila sužinojo aukščiau
     minėtą projektą, kuriam jis skubinos užbėgti už akių.
-  citata_rodoma: "1391 m.\nliepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus\nir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo\nbroliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila\nir jo palikuonys. Iš to matyt, kad Skirgaila sužinojo aukščiau\nminėtą projektą, kuriam jis skubinos užbėgti už akių."
+  citata_rodoma: |
+    1391 m.
+    liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus
+    ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
+    broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
+    ir jo palikuonys. Iš to matyt, kad Skirgaila sužinojo aukščiau
+    minėtą projektą, kuriam jis skubinos užbėgti už akių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1380,7 +1421,13 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     Lucke savo šalininkus, puolė Vilnių (1389); tačiau turėjo pasi­
     traukti ir antrą kartą bėgti pas kryžiuočius ir pradėti su Jo­
     gaila karą.
-  citata_rodoma: "Lietuvą Jogaila\npavedė savo broliui Skirgailai ir todėl Vytautui tuo tarpu la­\nbiau parūpo Lietuvos ateitis, kaip jos krikštas. Jis, surinkęs\nLucke savo šalininkus, puolė Vilnių (1389); tačiau turėjo pasi­\ntraukti ir antrą kartą bėgti pas kryžiuočius ir pradėti su Jo­\ngaila karą."
+  citata_rodoma: |
+    Lietuvą Jogaila
+    pavedė savo broliui Skirgailai ir todėl Vytautui tuo tarpu la­
+    biau parūpo Lietuvos ateitis, kaip jos krikštas. Jis, surinkęs
+    Lucke savo šalininkus, puolė Vilnių (1389); tačiau turėjo pasi­
+    traukti ir antrą kartą bėgti pas kryžiuočius ir pradėti su Jo­
+    gaila karą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1400,7 +1447,9 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     laikėsi savo sąlygų, reikalaudamas iš Jogailos grąžinti jam visą
     tėviškę. Tuo tarpu Trakuose viešpatavo Skirgaila, kurio išva­
     rymas vėl galėjo sukelti naują karą.
-  citata_rodoma: "Tuo tarpu Trakuose viešpatavo Skirgaila, kurio išva­\nrymas vėl galėjo sukelti naują karą."
+  citata_rodoma: |
+    Tuo tarpu Trakuose viešpatavo Skirgaila, kurio išva­
+    rymas vėl galėjo sukelti naują karą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1419,7 +1468,10 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
     Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m. besi­
     kaudamas su totoriais prie Vorsklos.
-  citata_rodoma: "O Skirgaila, sėkmingai apgulęs Polocką, kur\njis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.\nVėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m."
+  citata_rodoma: |
+    O Skirgaila, sėkmingai apgulęs Polocką, kur
+    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
+    Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1474,7 +1526,19 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     pajėgomis, ieškojo paspirties, juoba kad 1389 metų gale
     18
     Slap t. Karai.
-  citata_rodoma: "Vytautas, visus savo\nbrolius ir gimines gabumais lenkiantis, pasigviešęs valdžios\nir garbės, negalėjo taikstytis nei su jam daromomis skriau­\ndomis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­\ndyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­\nlis, paaukštinimu, tad susimokęs Gardine su jam palankiais\nLietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­\ntinės Skirgailą ir paimti valdžią. Tačiau nenorėdamas ban­\ndyti laimės ir pradėti mūšį su persvarą turinčiomis priešo\npajėgomis, ieškojo paspirties, juoba kad 1389 metų gale\n18\nSlap t."
+  citata_rodoma: |
+    Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią. Tačiau nenorėdamas ban­
+    dyti laimės ir pradėti mūšį su persvarą turinčiomis priešo
+    pajėgomis, ieškojo paspirties, juoba kad 1389 metų gale
+    18
+    Slap t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1521,7 +1585,13 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     kardu kapodavo apie save susirinkusius žmones, o atsipeikėjęs
     pats sužeistuosius apraišiodavo, nes tais laikais buvęs geras
     chirurgas.
-  citata_rodoma: "Lietuvos didikai negalėjo pakęsti dar ir to, kad jų aukš­\nčiausias žmogus, Skirgaila, visiškai neimponavo dorovingumu:\nbuvo didelis girtuoklis, pasigėręs nustodavęs proto, mušdavosi,\nkardu kapodavo apie save susirinkusius žmones, o atsipeikėjęs\npats sužeistuosius apraišiodavo, nes tais laikais buvęs geras\nchirurgas."
+  citata_rodoma: |
+    Lietuvos didikai negalėjo pakęsti dar ir to, kad jų aukš­
+    čiausias žmogus, Skirgaila, visiškai neimponavo dorovingumu:
+    buvo didelis girtuoklis, pasigėręs nustodavęs proto, mušdavosi,
+    kardu kapodavo apie save susirinkusius žmones, o atsipeikėjęs
+    pats sužeistuosius apraišiodavo, nes tais laikais buvęs geras
+    chirurgas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1541,7 +1611,12 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
     kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
     kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
-  citata_rodoma: "« Didžiojo ku­\nnigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo\nJogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis\nkunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,\nkuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių."
+  citata_rodoma: |
+    « Didžiojo ku­
+    nigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo
+    Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
+    kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
+    kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1559,7 +1634,10 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: "Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  citata_rodoma: |
+    Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1580,7 +1658,12 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     kai ir vaišingai priimtas. Nors jo kelionės tikslas sunku aiškiai
     nusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­
     kiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu.
-  citata_rodoma: "Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­\nropą savo brolį Skirgailą su slaptais įgaliojimais į kažkokius\npasitarimus. Ordinas, matyti, apie Skirgailos pasiuntinystės\ntikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­\nkai ir vaišingai priimtas."
+  citata_rodoma: |
+    Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­
+    ropą savo brolį Skirgailą su slaptais įgaliojimais į kažkokius
+    pasitarimus. Ordinas, matyti, apie Skirgailos pasiuntinystės
+    tikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­
+    kai ir vaišingai priimtas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1601,7 +1684,11 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     labai buvo nepatenkinta Skirgailos valdymu, nes savo gyveni­
     mu nebuvo jos tarpe populiarus ir nesugebėjo sujungti vienon
     galybėn skylančių Lietuvos jėgų.
-  citata_rodoma: "Antra, Lietuvos visuomenė\nlabai buvo nepatenkinta Skirgailos valdymu, nes savo gyveni­\nmu nebuvo jos tarpe populiarus ir nesugebėjo sujungti vienon\ngalybėn skylančių Lietuvos jėgų."
+  citata_rodoma: |
+    Antra, Lietuvos visuomenė
+    labai buvo nepatenkinta Skirgailos valdymu, nes savo gyveni­
+    mu nebuvo jos tarpe populiarus ir nesugebėjo sujungti vienon
+    galybėn skylančių Lietuvos jėgų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1696,7 +1783,11 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     tobie
     bracie
     dziewaję Lote\vkę.
-  citata_rodoma: "IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo\nturėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­\ndžiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris\nsostą paveldėjo iš Skirgailos."
+  citata_rodoma: |
+    IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
+    turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
+    džiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris
+    sostą paveldėjo iš Skirgailos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1718,7 +1809,19 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
     vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
     gyveno su juo didelėje meilėje.
-  citata_rodoma: "Ir \nšitaip mus prie to privedė vienas neištikimas mūsų pa­\ntarėjas.\nO kunigaikštis Jogaila pažado neišpildė, atstojo nuo \ntiesos ir mano tėviškės man neatidavė, o davė mano \ntėviškę savo broliui kunigaikščiui Skirgailai. Ogi Skir­\ngaila nėra mūsų 2 krikščionių tikėjimo, jis yra rusų\n181\n\n## Puslapis 175\n\ntikėjimo3 , kurio ir šiandien laikosi."
+  citata_rodoma: |
+    Ir
+    šitaip mus prie to privedė vienas neištikimas mūsų pa­
+    tarėjas.
+    O kunigaikštis Jogaila pažado neišpildė, atstojo nuo
+    tiesos ir mano tėviškės man neatidavė, o davė mano
+    tėviškę savo broliui kunigaikščiui Skirgailai. Ogi Skir­
+    gaila nėra mūsų 2 krikščionių tikėjimo, jis yra rusų
+    181
+
+    ## Puslapis 175
+
+    tikėjimo3 , kurio ir šiandien laikosi.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

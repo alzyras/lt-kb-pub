@@ -139,7 +139,10 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
     Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
     pažinoję teritoriją, kelius ir žmones (III, 74, 223).
-  citata_rodoma: "Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.\nPirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs\n1282 m.)."
+  citata_rodoma: |
+    Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.
+    Pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs
+    1282 m.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -158,7 +161,12 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
     597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: "Vieną gražią dieną, bėgdamas\nnuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš\nHeldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,\nten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:\n  597 D."
+  citata_rodoma: |
+    Vieną gražią dieną, bėgdamas
+    nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš
+    Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
+    ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
+      597 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -176,7 +184,11 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     (1273—1282 m.) valdymo laikotarpiu — magistro kanceliarijoje ir jo įsakymu, juo
     siekiama įtvirtinti Ordino tradiciją tarp pačių Ordino brolių, o galbūt ir tarp atvykstančių
     talkininkų.
-  citata_rodoma: "Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė\nsu Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus\ndvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas\npo kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje."
+  citata_rodoma: |
+    Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
+    su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus
+    dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas
+    po kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

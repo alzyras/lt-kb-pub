@@ -74,7 +74,19 @@ Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir 
     los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
     jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
     jūčio viduryje užpuolė Slucką.
-  citata_rodoma: "Vaivada Goštautas, pilies seniūnas\nMaskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai\ntaip nukamavo priešą, šaudydami iš patrankų bei reng­\ndami išpuolius, kad tas, nebesitikėdamas užkariauti pi­\nlies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas\nsmarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus\nsūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis\nvisur nuniokojo kraštą, sudegino miestą, o matydamas,\njog pilies nieku būdu greitai neužims, jos neapgulė,\nbet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko\nir Vitebsko žemes, niekur nesutikdamas pasipriešini­\nmo, ir sugrįžo atgal su didžiausiu grobiu."
+  citata_rodoma: |
+    Vaivada Goštautas, pilies seniūnas
+    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
+    taip nukamavo priešą, šaudydami iš patrankų bei reng­
+    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
+    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
+    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
+    sūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis
+    visur nuniokojo kraštą, sudegino miestą, o matydamas,
+    jog pilies nieku būdu greitai neužims, jos neapgulė,
+    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
+    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
+    mo, ir sugrįžo atgal su didžiausiu grobiu.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

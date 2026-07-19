@@ -211,7 +211,16 @@ media_all_json: |-
     santykius su Vokietija, nes didelę dalį
     Bermonto pajėgų sudarė vokiečių sa-
     vanoriai.
-  citata_rodoma: "1919 m. spalio 9 d.\nLietuvos vyriausybė paskelbė visoje\nšalyje karo padėtį, spalio 16 d. buvo pri-\nimtas sprendimas jėga išvaryti bermon-\ntininkus iš Lietuvos. Lietuvos konfliktas\nsu bermontininkais labai pablogino\nsantykius su Vokietija, nes didelę dalį\nBermonto pajėgų sudarė vokiečių sa-\nvanoriai."
+  citata_rodoma: |
+    1919 m. spalio 9 d.
+    Lietuvos vyriausybė paskelbė visoje
+    šalyje karo padėtį, spalio 16 d. buvo pri-
+    imtas sprendimas jėga išvaryti bermon-
+    tininkus iš Lietuvos. Lietuvos konfliktas
+    su bermontininkais labai pablogino
+    santykius su Vokietija, nes didelę dalį
+    Bermonto pajėgų sudarė vokiečių sa-
+    vanoriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

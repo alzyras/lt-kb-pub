@@ -82,7 +82,12 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
     Išslklšusiame LDK pakraštyje: dabar RFTSR miestas (apie 70 ktn
     j rytus nuo Oriolo). Kiti Lietuvos metraščių nuorašai Novosllės
     kunigaikščio Lucko suvažiavime nemini.
-  citata_rodoma: "'• Novosilė — kadaise Černigovo kunigaikštystes miestas ir da­\nlinė kunigaikštystė taip  Okos ir Dono aukštupių, labiausiai i rytus \nIšslklšusiame LDK pakraštyje: dabar RFTSR miestas (apie 70 ktn \nj rytus nuo Oriolo). Kiti Lietuvos metraščių nuorašai Novosllės \nkunigaikščio Lucko suvažiavime nemini."
+  citata_rodoma: |
+    '• Novosilė — kadaise Černigovo kunigaikštystes miestas ir da­
+    linė kunigaikštystė taip  Okos ir Dono aukštupių, labiausiai i rytus
+    Išslklšusiame LDK pakraštyje: dabar RFTSR miestas (apie 70 ktn
+    j rytus nuo Oriolo). Kiti Lietuvos metraščių nuorašai Novosllės
+    kunigaikščio Lucko suvažiavime nemini.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

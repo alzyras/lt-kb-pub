@@ -135,7 +135,12 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: "Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė\n46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-\nklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,\nsuėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA\ngrupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių."
+  citata_rodoma: |
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -152,7 +157,10 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     Kontrimas-Tėvas, Montė (1912-1952). Tarnavo Lietuvos kariuomenėje,
     buvo Šaulių sąjungos narys. 1943 m. įstojo į Lietuvos laisvės armijos
     (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis.
-  citata_rodoma: "Tarnavo Lietuvos kariuomenėje,\nbuvo Šaulių sąjungos narys. 1943 m. įstojo į Lietuvos laisvės armijos\n(LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis."
+  citata_rodoma: |
+    Tarnavo Lietuvos kariuomenėje,
+    buvo Šaulių sąjungos narys. 1943 m. įstojo į Lietuvos laisvės armijos
+    (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

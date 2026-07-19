@@ -113,7 +113,18 @@ Nenurodyta
     iš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie
     yra mūsų valdžioje (PUB, 2, 1, Nr. 418, p. 301; GL, Nr. 8, p. 69; popiežiaus bulės
     tekste — LUB, 2, Nr. 693, p. 151).
-  citata_rodoma: "Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­\n                                   na\n\n   Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,\nieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,\nne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti\nPrūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai\ndėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,\nkuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo\nkeliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį\nir ją iš pamatų sugriovė."
+  citata_rodoma: |
+    Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
+                                       na
+
+       Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,
+    ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,
+    ne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti
+    Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
+    dėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,
+    kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo
+    keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
+    ir ją iš pamatų sugriovė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

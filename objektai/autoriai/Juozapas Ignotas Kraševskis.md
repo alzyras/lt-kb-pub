@@ -103,14 +103,21 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jau vien
-    dėl šios priežasties jo darbas tapo reikšminga medžiaga, kad
-    kada nors būtų parašyta tikra (pabr. mano - R. G.) Lietuvos
-    istorija“20. Recenzento nuomone, T. Narbuto „Lietuvių mito­
-    18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
-    ta. - Tom I: Mitologija Litewska, z ošmią rycinami. - Wilno, nakia-
-    dem i drukiem A. Marcinowskiego.
-  citata_rodoma: "Tai buvo dvi didelės recenzijos: pirmoji iš­\nspausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­\nroji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­\nmiška, o antroji priklausė Juozapo Ignoto Kraševskio\nplunksnai.\nBene pati reikšmingiausia, ypač didelės apimties (25 pus­\nlapių) buvo anoniminė 1835 metų recenzija18."
+    Tai buvo dvi didelės recenzijos: pirmoji iš­
+    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
+    roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
+    miška, o antroji priklausė Juozapo Ignoto Kraševskio
+    plunksnai.
+    Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
+    lapių) buvo anoniminė 1835 metų recenzija18.
+  citata_rodoma: |
+    Tai buvo dvi didelės recenzijos: pirmoji iš­
+    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
+    roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
+    miška, o antroji priklausė Juozapo Ignoto Kraševskio
+    plunksnai.
+    Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
+    lapių) buvo anoniminė 1835 metų recenzija18.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

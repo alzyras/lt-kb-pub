@@ -107,7 +107,16 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
     vaivadystės, esą apsivilkęs pranciš­
     kono abitą, o vėliau netgi tapęs pir­
     muoju Vilniaus vyskupu.
-  citata_rodoma: "To­\nliau rašoma, jog, remiantis Baroni- \nj a u s nuomone, 36 kiti pranciško­\nnai 1341 metų gegužės 24 dieną bu­\nvę Vilniuje nužudyti, tarp jų ir pats \nPetras Goštautas, kuris, atsisakęs \nvaivadystės, esą apsivilkęs pranciš­\nkono abitą, o vėliau netgi tapęs pir­\nmuoju Vilniaus vyskupu."
+  citata_rodoma: |
+    To­
+    liau rašoma, jog, remiantis Baroni-
+    j a u s nuomone, 36 kiti pranciško­
+    nai 1341 metų gegužės 24 dieną bu­
+    vę Vilniuje nužudyti, tarp jų ir pats
+    Petras Goštautas, kuris, atsisakęs
+    vaivadystės, esą apsivilkęs pranciš­
+    kono abitą, o vėliau netgi tapęs pir­
+    muoju Vilniaus vyskupu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +144,22 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
     tų, ir apgyvendino juos prie Šv. Kry­
     žiaus bažnyčios, sodyboje, vėliau ta­
     pusioje Vyskupo rūmais.
-  citata_rodoma: "Waddyngas,  Mažesniųjų brolių \nordino istorijos autorius, ir jo komen­\ntatorius Antoni Melissanius \nde Macro pasakoja, kad dar 1333 \nmetais (prieš Gedimino mirtį) Pet­\nras Goštautas, būdamas Podolės vai­\nvada, iš Rusios ir Podolės atkvietęs \nį Vilnių keturiolika Šv. Pranciškaus \nregulos vienuolių vietoje anksčiau, \n1325 metais, atvykusių su popie­\nžiaus pasiuntinybe ir jau mirusių ar \nįvairiais laikais pagonių nukankin­\ntų, ir apgyvendino juos prie Šv. Kry­\nžiaus bažnyčios, sodyboje, vėliau ta­\npusioje Vyskupo rūmais."
+  citata_rodoma: |
+    Waddyngas,  Mažesniųjų brolių
+    ordino istorijos autorius, ir jo komen­
+    tatorius Antoni Melissanius
+    de Macro pasakoja, kad dar 1333
+    metais (prieš Gedimino mirtį) Pet­
+    ras Goštautas, būdamas Podolės vai­
+    vada, iš Rusios ir Podolės atkvietęs
+    į Vilnių keturiolika Šv. Pranciškaus
+    regulos vienuolių vietoje anksčiau,
+    1325 metais, atvykusių su popie­
+    žiaus pasiuntinybe ir jau mirusių ar
+    įvairiais laikais pagonių nukankin­
+    tų, ir apgyvendino juos prie Šv. Kry­
+    žiaus bažnyčios, sodyboje, vėliau ta­
+    pusioje Vyskupo rūmais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

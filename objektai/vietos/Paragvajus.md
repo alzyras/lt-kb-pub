@@ -65,7 +65,11 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-
     galijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais
     iš to einančiais padariniais.
-  citata_rodoma: "Tik penkių valstybių\natstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-\ngalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais\niš to einančiais padariniais."
+  citata_rodoma: |
+    Tik penkių valstybių
+    atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-
+    galijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais
+    iš to einančiais padariniais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

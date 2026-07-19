@@ -63,7 +63,8 @@ media_all_json: |-
     Buches der Historia Poloniae des Johannes
     Długosz. Witold und Polen in den Jahren 1427-1430_ , AM, t. 30, 1893.
     — Šležas, P. (red.) : _Vytautas Didysis,_ Kaunas 1930.
-  citata_rodoma: "— Šležas, P. (red.) : _Vytautas Didysis,_ Kaunas 1930."
+  citata_rodoma: |
+    — Šležas, P. (red.) : _Vytautas Didysis,_ Kaunas 1930.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

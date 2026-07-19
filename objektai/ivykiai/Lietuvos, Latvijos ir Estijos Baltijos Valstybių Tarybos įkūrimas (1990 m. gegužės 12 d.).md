@@ -108,7 +108,8 @@ Nenurodyta
     Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
     sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
     užsienio politikos pozicija.
-  citata_rodoma: "sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra"
+  citata_rodoma: |
+    sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

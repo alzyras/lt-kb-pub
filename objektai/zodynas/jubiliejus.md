@@ -52,12 +52,17 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    88. Apie jubiliejaus metų indulgenciją
+    Apie jubiliejaus metų indulgenciją
 
        Tais pačiais metais buvo jubiliejus,  ir jo šventenybė Bonifacas, popiežius, suteikė
     visišką nuodėmių at leidimą kiekvienam, kas lanko šventųjų Petro be Pauliaus, apaštalų,
     slenksčius (Ptol. pried. p. 1220 Mart. p. 437).
-  citata_rodoma: "Apie jubiliejaus metų indulgenciją\n\n   Tais pačiais metais buvo jubiliejus,  ir jo šventenybė Bonifacas, popiežius, suteikė\nvisišką nuodėmių at leidimą kiekvienam, kas lanko šventųjų Petro be Pauliaus, apaštalų,\nslenksčius (Ptol. pried. p. 1220 Mart. p. 437)."
+  citata_rodoma: |
+    Apie jubiliejaus metų indulgenciją
+
+       Tais pačiais metais buvo jubiliejus,  ir jo šventenybė Bonifacas, popiežius, suteikė
+    visišką nuodėmių at leidimą kiekvienam, kas lanko šventųjų Petro be Pauliaus, apaštalų,
+    slenksčius (Ptol. pried. p. 1220 Mart. p. 437).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

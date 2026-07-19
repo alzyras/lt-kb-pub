@@ -118,7 +118,10 @@ Lebedžio, Vilnius 1957, 31-35 p.
     (^9) **M. Baryczowa : Augustyn Rotundus Mieleski, wójt wileński, pierwszy
     historyk i apologeta, AW, X, 1935, 71-96 p.; XI, 1936, 117-172 p.**
     (^10) **Z. Ivinskis, LE, t. 26, 16 p.**
-  citata_rodoma: "**\n(^7) **Liet. išverstą ištrauką žr.** **_Lietuvių literatūros chrestomatijoj,_** **paruoštoj\nK. Korsako ir J. Lebedžio, Vilnius 1957, 31-35 p."
+  citata_rodoma: |
+    **
+    (^7) **Liet. išverstą ištrauką žr.** **_Lietuvių literatūros chrestomatijoj,_** **paruoštoj
+    K. Korsako ir J. Lebedžio, Vilnius 1957, 31-35 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +143,9 @@ Lebedžio, Vilnius 1957, 31-35 p.
     laikomas moderniosios mitologijos (o kartais net iš viso mito­
     logijos) mokslo pradžia, pasirodė tais pačiais metais (1835),
     kaip ir T. Narbuto „Lietuvių mitologija“.
-  citata_rodoma: "9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -\nP. 216-303."
+  citata_rodoma: |
+    9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
+    P. 216-303.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

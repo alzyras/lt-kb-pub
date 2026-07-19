@@ -69,7 +69,8 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
     kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
     Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
     išpranašaus Vilniaus įkūrimą ir šlovę.
-  citata_rodoma: "laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir"
+  citata_rodoma: |
+    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

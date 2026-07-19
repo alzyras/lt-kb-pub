@@ -110,7 +110,15 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
     sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
     Išskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai
     šaltiniai jo nemini.
-  citata_rodoma: "Vytenio kovos su ordinu ir jo sąjunga su Ryga**\nPukuveras, apie kurį galima aiškiai pasakyti, kad jis (o gal\njau ir jo tėvas) pradėjo per 280 metų trukusį paveldimosios mo­\nnarchijos perijodą, apie 1295 turėjo būti miręs. Kronikininkas\nDusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus\nsūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.\nIšskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai\nšaltiniai jo nemini."
+  citata_rodoma: |
+    Vytenio kovos su ordinu ir jo sąjunga su Ryga**
+    Pukuveras, apie kurį galima aiškiai pasakyti, kad jis (o gal
+    jau ir jo tėvas) pradėjo per 280 metų trukusį paveldimosios mo­
+    narchijos perijodą, apie 1295 turėjo būti miręs. Kronikininkas
+    Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus
+    sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
+    Išskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai
+    šaltiniai jo nemini.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

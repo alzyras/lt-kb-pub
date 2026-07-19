@@ -117,7 +117,12 @@ Nenurodyta
     link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­
     hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
     gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
-  citata_rodoma: "Po to, sąjun­\ngininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau\nlink. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­\nhendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­\ngailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą."
+  citata_rodoma: |
+    Po to, sąjun­
+    gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
+    link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­
+    hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
+    gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

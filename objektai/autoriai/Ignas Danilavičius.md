@@ -202,7 +202,13 @@ media_all_json: |-
     tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
     nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
     Malevskiui už gausius išrašus iš Lietuvos Metrikos.
-  citata_rodoma: "Kita vertus, pirmoje \ndalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­\ndra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­\ntarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­\nnui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui \nMalevskiui už gausius išrašus iš Lietuvos Metrikos."
+  citata_rodoma: |
+    Kita vertus, pirmoje
+    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
+    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
+    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
+    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
+    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -224,7 +230,11 @@ media_all_json: |-
     skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
     partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
     kas.
-  citata_rodoma: "Veikalo pra­\ntarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­\nnui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui\nMalevskiui už gausius išrašus iš Lietuvos Metrikos. P."
+  citata_rodoma: |
+    Veikalo pra­
+    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
+    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
+    Malevskiui už gausius išrašus iš Lietuvos Metrikos. P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -268,7 +278,19 @@ media_all_json: |-
     senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
     deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
     po Amžinosios ugnies aukuro griuvėsiais30.
-  citata_rodoma: "Duomenų apie tai mums\npaliko Strijkovskis.\nBirutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną."
+  citata_rodoma: |
+    Duomenų apie tai mums
+    paliko Strijkovskis.
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

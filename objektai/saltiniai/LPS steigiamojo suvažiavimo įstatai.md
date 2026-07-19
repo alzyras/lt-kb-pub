@@ -79,7 +79,8 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
     iš užsienio šalių. Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas
     priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
     nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
-  citata_rodoma: "nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais."
+  citata_rodoma: |
+    nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

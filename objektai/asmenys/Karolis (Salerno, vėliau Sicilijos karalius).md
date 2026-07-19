@@ -108,7 +108,13 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
     pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus
     Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus
     dėl šventosios žemės išvadavimo.
-  citata_rodoma: "Apie palaimintosios Marijos Magdalietės palaikų atidengimą\n\n  1280 viešpaties metais Karolis, Salerno, o vėliau Sicilijos karalius, atidengė Marijos\nMagdalietės palaikus (Ptol. 23, 35).\n\n66."
+  citata_rodoma: |
+    Apie palaimintosios Marijos Magdalietės palaikų atidengimą
+
+      1280 viešpaties metais Karolis, Salerno, o vėliau Sicilijos karalius, atidengė Marijos
+    Magdalietės palaikus (Ptol. 23, 35).
+
+    66.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

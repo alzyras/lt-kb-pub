@@ -129,7 +129,15 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     retų egzempliorių matytas vienas gintaro gabalas, svėręs
     13 romėniškų svarų, arba apie pusę dešimties mūsų sva­
     rų2.
-  citata_rodoma: "Čia ir gimė Melas pasaka apie ilgaau­\nsius žmones Satmali, Plinijaus vadintus Panotii1.\n176\nKrikščioniškosios eros 54 ar 55 metais imperatorius\nNeronas, norėjęs parodyti Romai ypač prašmatnų reginį,\nsumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­\nmas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo\nišsiųstas kilmingas romėnas."
+  citata_rodoma: |
+    Čia ir gimė Melas pasaka apie ilgaau­
+    sius žmones Satmali, Plinijaus vadintus Panotii1.
+    176
+    Krikščioniškosios eros 54 ar 55 metais imperatorius
+    Neronas, norėjęs parodyti Romai ypač prašmatnų reginį,
+    sumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­
+    mas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo
+    išsiųstas kilmingas romėnas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

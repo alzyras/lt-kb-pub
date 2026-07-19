@@ -110,7 +110,18 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
     tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory­
     bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia­
     mintę politiką, neišmatuojamą troškimą būti galingi.
-  citata_rodoma: "Kad mums būtų lengviau išsemti visą naudą iš mitologijos\nskaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius\nmus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­\njimuose.\nSeniausios žemės tautos -  indai ir kinai savo tautiškumo\nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,\ndėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir\ndabar tebėra to paties apšvietos, politinių institucijų ir religi­\njos lygio."
+  citata_rodoma: |
+    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
+    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
+    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
+    jimuose.
+    Seniausios žemės tautos -  indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,
+    dėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir
+    dabar tebėra to paties apšvietos, politinių institucijų ir religi­
+    jos lygio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

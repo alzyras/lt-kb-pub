@@ -87,10 +87,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo
-        dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
-        kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
-        per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
-  citata_rodoma: "Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo\ndievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo\nkareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir\nper kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349."
+    dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
+    kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
+    per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
+  citata_rodoma: |
+    Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo
+    dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
+    kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
+    per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

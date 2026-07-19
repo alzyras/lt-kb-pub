@@ -64,7 +64,8 @@ Didysis X Lietuvos užsienio politikoje.
   citata_originali: |
     Vilnius, 2009.
     Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996.
-  citata_rodoma: "Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996."
+  citata_rodoma: |
+    Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

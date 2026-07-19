@@ -81,7 +81,9 @@ istoriografija, tautos kilmės klausimai
     me ir apimtimi jis turėjo nenusileisti pirmam tomui, nes
     nagrinėjo bene populiariausią romantinės istoriografijos
     problemą — „šaknų ieškojimo“ klausimą.
-  citata_rodoma: "nagrinėjo bene populiariausią romantinės istoriografijos\nproblemą — „šaknų ieškojimo“ klausimą."
+  citata_rodoma: |
+    nagrinėjo bene populiariausią romantinės istoriografijos
+    problemą — „šaknų ieškojimo“ klausimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

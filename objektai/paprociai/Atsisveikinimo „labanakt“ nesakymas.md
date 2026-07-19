@@ -85,7 +85,8 @@ Nenurodyta
     ant tilto bestovinčius prie užkeltų vartų. Atkėliau vartus, suleidau jau­
     čius ir užkabinau. Atsiskyriau su bendraganėmis neatsisveikinęs; tada
     dar nebuvo papročio sakyti „labanakt“ .
-  citata_rodoma: "Atsiskyriau su bendraganėmis neatsisveikinęs; tada dar nebuvo papročio sakyti „labanakt“."
+  citata_rodoma: |
+    Atsiskyriau su bendraganėmis neatsisveikinęs; tada dar nebuvo papročio sakyti „labanakt“.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

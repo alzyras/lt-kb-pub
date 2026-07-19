@@ -64,7 +64,14 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
     dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
     šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį
     pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo.
-  citata_rodoma: "Apie vieno sūduvio atsivertimą ir nuostabų įvykį\n\n  Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir\nšeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,\ndėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo\nšeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį\npakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo."
+  citata_rodoma: |
+    Apie vieno sūduvio atsivertimą ir nuostabų įvykį
+
+      Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
+    šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs,
+    dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo
+    šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį
+    pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

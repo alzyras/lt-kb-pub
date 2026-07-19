@@ -75,7 +75,9 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
     Vėlius N. Mitinės lietuvių sakmių būtybės: Laimės, laumės, aitvarai, kaukai, raganos,
     burtininkai, vilktakiai —V., 1977.
     Vėlius N. Senovės baltų pasaulėžiūra: Struktūros bruožai.— V, 1983.
-  citata_rodoma: "Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/\nSudarė P. Pakarklis; Redagavo K. Jablonskis.— V., 1960."
+  citata_rodoma: |
+    Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/
+    Sudarė P. Pakarklis; Redagavo K. Jablonskis.— V., 1960.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

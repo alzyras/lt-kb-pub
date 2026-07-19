@@ -126,7 +126,11 @@ Nenurodyta
     ir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai
     dabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­
     diną ir galutinai atėmė iš jo Žemaitiją.
-  citata_rodoma: "Tuo būdu buvo užbaigti painūs\nir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai\ndabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­\ndiną ir galutinai atėmė iš jo Žemaitiją."
+  citata_rodoma: |
+    Tuo būdu buvo užbaigti painūs
+    ir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai
+    dabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­
+    diną ir galutinai atėmė iš jo Žemaitiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

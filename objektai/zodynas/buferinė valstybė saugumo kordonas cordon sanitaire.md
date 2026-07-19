@@ -120,7 +120,8 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
     Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokie-
     tijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant
     grėsmę savo sienoms ir atskiram valstybiniam gyvenimui.
-  citata_rodoma: "tijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant"
+  citata_rodoma: |
+    tijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +141,8 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
     Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
     netgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo
     „revizionistais per prievartą“.
-  citata_rodoma: "tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos"
+  citata_rodoma: |
+    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -168,7 +170,18 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
     čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
     Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
     netgi grėsė nepriklausomybės praradimu.
-  citata_rodoma: "Lietuvių artilerija prieš lenkų dalinius  \n1920 m. kovose prie Giedraičių\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n145\nSąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-\ntuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos \nvadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo. Ta-\nčiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti \nVilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis \nnetgi grėsė nepriklausomybės praradimu."
+  citata_rodoma: |
+    Lietuvių artilerija prieš lenkų dalinius
+    1920 m. kovose prie Giedraičių
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    145
+    Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
+    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
+    vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo. Ta-
+    čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
+    Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
+    netgi grėsė nepriklausomybės praradimu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

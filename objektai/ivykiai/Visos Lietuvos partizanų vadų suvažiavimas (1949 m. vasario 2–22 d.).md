@@ -95,7 +95,8 @@ Nenurodyta
     karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
     rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
     jam suteiktas aukščiausias – partizanų generolo laipsnis.
-  citata_rodoma: "rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno"
+  citata_rodoma: |
+    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

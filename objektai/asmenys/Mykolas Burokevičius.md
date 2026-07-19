@@ -53,7 +53,13 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
     „Jedinstvo“. Yra duomenų, kad sausio 13 d.
     naktį kariniuose veiksmuose iš viso daly-
     vavo apie 900 sovietinių kareivių.
-  citata_rodoma: "Apie 400 „raudonraiš-\nčių“, vadovaujamų „Nacionalinio gelbė-\njimo komiteto“ lyderių komunistų Juozo\nJermalavičiaus, Mykolo Burokevičiaus\nir Valerijaus Ivanovo organizacijos\n„Jedinstvo“. Yra duomenų, kad sausio 13 d."
+  citata_rodoma: |
+    Apie 400 „raudonraiš-
+    čių“, vadovaujamų „Nacionalinio gelbė-
+    jimo komiteto“ lyderių komunistų Juozo
+    Jermalavičiaus, Mykolo Burokevičiaus
+    ir Valerijaus Ivanovo organizacijos
+    „Jedinstvo“. Yra duomenų, kad sausio 13 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

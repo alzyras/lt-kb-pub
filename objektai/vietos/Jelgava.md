@@ -108,7 +108,14 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     vesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.
     Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
     klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
-  citata_rodoma: "Visai Livonijai bu-\nvo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir\nplati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta ku-\nnigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pa-\nvesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.\nŠitos sutarties nepripažino tik Rygos miestas; jis liko nepri-\nklausomos iki 1582 m."
+  citata_rodoma: |
+    Visai Livonijai bu-
+    vo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir
+    plati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta ku-
+    nigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pa-
+    vesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.
+    Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
+    klausomos iki 1582 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +135,10 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
+  citata_rodoma: |
+    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

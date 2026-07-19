@@ -87,7 +87,8 @@ media_all_json: |-
     karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos
     valstybių jau buvo nacių okupuotos, Lenkija – grobuonių pasidalyta, tad
     ir Baltijos valstybėse suvokta, jog artėja jų eilė.
-  citata_rodoma: "„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to"
+  citata_rodoma: |
+    „Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

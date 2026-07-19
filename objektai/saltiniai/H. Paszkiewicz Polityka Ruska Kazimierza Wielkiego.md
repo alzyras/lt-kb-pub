@@ -60,11 +60,15 @@ Paszkiewicz : Polityka Ruska Kazimierza Wiel­ kiego, Warszawa 1925, 197 p. 5 i�
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    (^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**
+    **
     (^8) **Laiško tekstą žr. H. Paszkiewicz :** **_Polityka Ruska Kazimierza Wiel­
     kiego,_** **Warszawa 1925, 197 p. 5 išn.**
     (^9) **SRP, II, 742.
-  citata_rodoma: "**\n(^8) **Laiško tekstą žr. H. Paszkiewicz :** **_Polityka Ruska Kazimierza Wiel­\nkiego,_** **Warszawa 1925, 197 p. 5 išn.**\n(^9) **SRP, II, 742."
+  citata_rodoma: |
+    **
+    (^8) **Laiško tekstą žr. H. Paszkiewicz :** **_Polityka Ruska Kazimierza Wiel­
+    kiego,_** **Warszawa 1925, 197 p. 5 išn.**
+    (^9) **SRP, II, 742.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

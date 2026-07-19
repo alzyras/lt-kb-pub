@@ -140,7 +140,16 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
     Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
     ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
     liaudies padavimų.
-  citata_rodoma: "Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross)."
+  citata_rodoma: |
+    Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
+    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
+    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
+    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
+    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
+    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
+    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
+    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
+    kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -162,7 +171,15 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
     čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
     toro žodžius priskiria poloviečių veiksmams dešiniojoje
     Dnepro pakrantėje.
-  citata_rodoma: "Vadinasi, tokiu pat būdu ten pateko ir\nmasagetai4.\n59\nNaujame pasirinktame krašte budinai indų papročiu\npašventino upę mitiniu Ross vardu, kurį randame šian­\ndienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­\ndis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­\n1 Moralius."
+  citata_rodoma: |
+    Vadinasi, tokiu pat būdu ten pateko ir
+    masagetai4.
+    59
+    Naujame pasirinktame krašte budinai indų papročiu
+    pašventino upę mitiniu Ross vardu, kurį randame šian­
+    dienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­
+    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
+    1 Moralius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

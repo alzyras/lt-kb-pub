@@ -53,14 +53,21 @@ Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio m
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    42. Apie dviejų našlių ginčą dėl vieno vyro
+    Apie dviejų našlių ginčą dėl vieno vyro
 
       Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
     tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
     tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
     taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
     kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
-  citata_rodoma: "Apie dviejų našlių ginčą dėl vieno vyro\n\n  Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi\ntame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,\ntekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko\ntaip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant\nkauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį."
+  citata_rodoma: |
+    Apie dviejų našlių ginčą dėl vieno vyro
+
+      Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
+    tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
+    tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
+    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
+    kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

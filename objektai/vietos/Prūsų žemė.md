@@ -700,7 +700,12 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
     vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
     tijonas^73.
-  citata_rodoma: "Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų\nkraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų\nprieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų\nvyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­\ntijonas^73."
+  citata_rodoma: |
+    Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų
+    kraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų
+    prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
+    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
+    tijonas^73.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -739,7 +744,12 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-
     bas. O du kartus (1242 - 1249 ir 1260 — 1274 m.) net buvo sukilusios visos pa-
     vergtos jų giminės.
-  citata_rodoma: "Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir\nvisą nukariautą kraštą.\nPrūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo,\nužpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-\nbas. O du kartus (1242 - 1249 ir 1260 — 1274 m."
+  citata_rodoma: |
+    Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
+    visą nukariautą kraštą.
+    Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo,
+    užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-
+    bas. O du kartus (1242 - 1249 ir 1260 — 1274 m.
   statusas: verified
   atnaujinta: "2026-07-18 19:52"
   teiginio_tipas: faktas

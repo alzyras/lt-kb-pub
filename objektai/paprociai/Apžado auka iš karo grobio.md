@@ -138,7 +138,18 @@ Nenurodyta
     dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
     už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
     vo lazda.
-  citata_rodoma: "15. Apžado auka. Kartais žygiuojant į svetimą žemę gro­\nbio, būrio vadas duodavo apžadą, kad gražiausią grobį paau­\n318\n\n## Puslapis 318\n\nI\nkos dievams. Tokiu atveju, jeigu į rankas patekdavo itin graži\nmergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­\nžis, o todėl ir vertė viršydavo kitus paskirus pagrobtus daly­\nkus, tokią mergaitę sugrįžę į tėvynę paaukodavo dievams."
+  citata_rodoma: |
+    15. Apžado auka. Kartais žygiuojant į svetimą žemę gro­
+    bio, būrio vadas duodavo apžadą, kad gražiausią grobį paau­
+    318
+
+    ## Puslapis 318
+
+    I
+    kos dievams. Tokiu atveju, jeigu į rankas patekdavo itin graži
+    mergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­
+    žis, o todėl ir vertė viršydavo kitus paskirus pagrobtus daly­
+    kus, tokią mergaitę sugrįžę į tėvynę paaukodavo dievams.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -162,7 +173,11 @@ Nenurodyta
     ris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­
     žintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug
     kitokių pamokymų.
-  citata_rodoma: "Kro­\nnikos tyli, ar sudegindavo gyvą, ar pirma užmušdavo. Tikra tik\ntai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­\nniais drabužiais ir atlikdavo įprastines aukojimo apeigas16."
+  citata_rodoma: |
+    Kro­
+    nikos tyli, ar sudegindavo gyvą, ar pirma užmušdavo. Tikra tik
+    tai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­
+    niais drabužiais ir atlikdavo įprastines aukojimo apeigas16.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

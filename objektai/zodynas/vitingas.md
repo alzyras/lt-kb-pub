@@ -184,7 +184,13 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam
     tarnavęs (jie buvo vadinami vitingais). Ir iš jų, kaip ir iš atsi-
     krausčiusių vokiečių riterių, kai kurie įstodavo į ordiną.
-  citata_rodoma: "Kitas aukštesnysis luo-\nmas buvo atėjūnai vokiečiai bajorai, kurie čia gavo\ndvarų ir kurių pareiga buvo padėti ordinui kariauti. Jų tarpe\nbuvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam\ntarnavęs (jie buvo vadinami vitingais). Ir iš jų, kaip ir iš atsi-\nkrausčiusių vokiečių riterių, kai kurie įstodavo į ordiną."
+  citata_rodoma: |
+    Kitas aukštesnysis luo-
+    mas buvo atėjūnai vokiečiai bajorai, kurie čia gavo
+    dvarų ir kurių pareiga buvo padėti ordinui kariauti. Jų tarpe
+    buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam
+    tarnavęs (jie buvo vadinami vitingais). Ir iš jų, kaip ir iš atsi-
+    krausčiusių vokiečių riterių, kai kurie įstodavo į ordiną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -203,7 +209,10 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     Salavija
     Vienuolikta Prūsijos provincija buvo Salavija, Scha-
     laueri.
-  citata_rodoma: "Prireikus jie vadovavo ginkluotiems žmo­\nnėms, be to, iš jų buvo renkamas vyriausias karvedys,\nkuriuo pastaruoju laiku buvo vitingas Glaudė."
+  citata_rodoma: |
+    Prireikus jie vadovavo ginkluotiems žmo­
+    nėms, be to, iš jų buvo renkamas vyriausias karvedys,
+    kuriuo pastaruoju laiku buvo vitingas Glaudė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -235,7 +244,15 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     tik Sambijoje ir vadinta Withingen, pelnė kryžiuočių ma­
     lonę, pirmiausia parsidavė vokiečiams ir visuomet padėjo
     jiems žiauriai žudyti lietuvių tautą.
-  citata_rodoma: "Kaip savo valdų ponai ir turtingiausi krašto savininkai, jie\nvadinami bajorais ir, kaip anų skandinavų, vadinamų vi­\nkingais, vitingais, įpėdiniai, išsaugojo šį titulą, nors ir\npriėmė jiems priklausančių sembų tautybę. Sis aiškini­\nmas labiausiai tikėtinas, nes viena bajorų kasta, buvusi\ntik Sambijoje ir vadinta Withingen, pelnė kryžiuočių ma­\nlonę, pirmiausia parsidavė vokiečiams ir visuomet padėjo\njiems žiauriai žudyti lietuvių tautą."
+  citata_rodoma: |
+    Kaip savo valdų ponai ir turtingiausi krašto savininkai, jie
+    vadinami bajorais ir, kaip anų skandinavų, vadinamų vi­
+    kingais, vitingais, įpėdiniai, išsaugojo šį titulą, nors ir
+    priėmė jiems priklausančių sembų tautybę. Sis aiškini­
+    mas labiausiai tikėtinas, nes viena bajorų kasta, buvusi
+    tik Sambijoje ir vadinta Withingen, pelnė kryžiuočių ma­
+    lonę, pirmiausia parsidavė vokiečiams ir visuomet padėjo
+    jiems žiauriai žudyti lietuvių tautą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -531,7 +531,30 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     nes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­
     puošimais, tiek auksu lietais, aksominiais, purpuriniais ir
     kokiais kitais, kuriuos po mūsų ras.
-  citata_rodoma: "Tik po to, kas iš sumos atliks, tegu lygiomis dalimis \nsu jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­\nne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­\nvo nuosavą iš motinos paveldėtą turtą.\nVisus mūsų apdarus, drabužius, esančius mūsų sau­\ngyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės\n343\n\n## Puslapis 360\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nkaralienės Barboros apdarus, kuriuos Gzovskis saugoja, o \nvėliau ir kur kitur ir pas ką tik ras, su visais bet kaip vadina­\nmais jos didenybės drabužiais, nė vieno daikto neišskiriant, \ndovanojame jos didenybei karalaitei Onai, dvidešimt pratė­\ngiui pakinkytų vežimų, jau priskaičiuojant ir tuos, kurie yra \npas jos didenybę ir kuriuos sau iš tų, stovinčių arklidėse, \nįsakys pasirinkti, atiduodame, kad būtų gerai ir deramai pa­\nkinkyti su visa apranga, įranga, vadžiomis, pakinktais, taip \npat puskarietės, karietas, ekipažus ir kitas panašias priemo­\nnes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­\npuošimais, tiek auksu lietais, aksominiais, purpuriniais ir \nkokiais kitais, kuriuos po mūsų ras."
+  citata_rodoma: |
+    Tik po to, kas iš sumos atliks, tegu lygiomis dalimis
+    su jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­
+    ne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­
+    vo nuosavą iš motinos paveldėtą turtą.
+    Visus mūsų apdarus, drabužius, esančius mūsų sau­
+    gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės
+    343
+
+    ## Puslapis 360
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o
+    vėliau ir kur kitur ir pas ką tik ras, su visais bet kaip vadina­
+    mais jos didenybės drabužiais, nė vieno daikto neišskiriant,
+    dovanojame jos didenybei karalaitei Onai, dvidešimt pratė­
+    giui pakinkytų vežimų, jau priskaičiuojant ir tuos, kurie yra
+    pas jos didenybę ir kuriuos sau iš tų, stovinčių arklidėse,
+    įsakys pasirinkti, atiduodame, kad būtų gerai ir deramai pa­
+    kinkyti su visa apranga, įranga, vadžiomis, pakinktais, taip
+    pat puskarietės, karietas, ekipažus ir kitas panašias priemo­
+    nes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­
+    puošimais, tiek auksu lietais, aksominiais, purpuriniais ir
+    kokiais kitais, kuriuos po mūsų ras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -627,7 +650,38 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     niu keliu ten patekti, palie­
     pė nukloti iš pilies į Barboros
     sodus takelį ir tiltuką per Vilnios upę.
-  citata_rodoma: "Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai\nją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi\nir karaliaus Aleksandro pa­\nlaikai, Augustas neilgai ge­\ndėjo. Jaunatviškai lengvabū­\ndiškas, be to, iš mažumės\ntaip išauklėtas, kad mėgo\npuotauti, šokti ir visaip link-\n1545 m e ta i\nM iršta  A u strijo s k u ­\nn ig a ik š ty tė\nE lžb ieta ,\nA u g u sto  žm on a\n6 7  4\n\n## Puslapis 673\n\nsmintis su moterimis, pradėjo lankyti Barborą Radvi­\nlaitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­\nvados Stanislovo Goštauto našlę. Nors Radvilų rūmai\nbuvo visai netoli karaliaus\nA u g u sta s sla p ta i ve-\npilies, Augustas, trokšdamas\nd a\nB arborą\nR a d vi-\nkada panorėjęs kuo trumpes-\nla itę\nniu keliu ten patekti, palie­\npė nukloti iš pilies į Barboros\nsodus takelį ir tiltuką per Vilnios upę."
+  citata_rodoma: |
+    Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
+    ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
+    ir karaliaus Aleksandro pa­
+    laikai, Augustas neilgai ge­
+    dėjo. Jaunatviškai lengvabū­
+    diškas, be to, iš mažumės
+    taip išauklėtas, kad mėgo
+    puotauti, šokti ir visaip link-
+    1545 m e ta i
+    M iršta  A u strijo s k u ­
+    n ig a ik š ty tė
+    E lžb ieta ,
+    A u g u sto  žm on a
+    6 7  4
+
+    ## Puslapis 673
+
+    smintis su moterimis, pradėjo lankyti Barborą Radvi­
+    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
+    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
+    buvo visai netoli karaliaus
+    A u g u sta s sla p ta i ve-
+    pilies, Augustas, trokšdamas
+    d a
+    B arborą
+    R a d vi-
+    kada panorėjęs kuo trumpes-
+    la itę
+    niu keliu ten patekti, palie­
+    pė nukloti iš pilies į Barboros
+    sodus takelį ir tiltuką per Vilnios upę.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

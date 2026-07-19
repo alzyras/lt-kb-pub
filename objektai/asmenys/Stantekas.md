@@ -99,7 +99,14 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
     viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
     garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
     šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
-  citata_rodoma: "Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;\nvienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,\natbėgo su kruvinu kalaviju rankose pranešti apie pasalą. Todėl maldininkai pasiruošė\nkovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,\njie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,\nsubėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,\n  369 1262—1263 m."
+  citata_rodoma: |
+    Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
+    vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
+    atbėgo su kruvinu kalaviju rankose pranešti apie pasalą. Todėl maldininkai pasiruošė
+    kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,
+    jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,
+    subėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,
+      369 1262—1263 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

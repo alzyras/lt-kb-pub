@@ -61,7 +61,14 @@ Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastat
     šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
     Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
     niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
-  citata_rodoma: "Pirmosios dalies\nįvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.\nseptyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje\nįkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis\nšulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,\nVokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų\nniekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“."
+  citata_rodoma: |
+    Pirmosios dalies
+    įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
+    septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
+    įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
+    šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
+    Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
+    niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

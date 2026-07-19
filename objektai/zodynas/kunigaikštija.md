@@ -140,7 +140,10 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     jevo pašalinti Algirdo sūnų Vladimirą. Tuo pat metu, kaip ži­
     nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
     krašto viduje savarankiškumą.
-  citata_rodoma: "Tuo pat metu, kaip ži­\nnom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų\nkrašto viduje savarankiškumą."
+  citata_rodoma: |
+    Tuo pat metu, kaip ži­
+    nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
+    krašto viduje savarankiškumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -159,7 +162,11 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     t. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­
     torijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­
     naujinimas.
-  citata_rodoma: "Todėl ir nenuostabu, kad po Ostrovos sutarties,\nt. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­\ntorijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­\nnaujinimas."
+  citata_rodoma: |
+    Todėl ir nenuostabu, kad po Ostrovos sutarties,
+    t. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­
+    torijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­
+    naujinimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -180,7 +187,11 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
     broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
     ir jo palikuonys.
-  citata_rodoma: "Vyguntas, būdamas\nVladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos\ngalvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­\nkia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m."
+  citata_rodoma: |
+    Vyguntas, būdamas
+    Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
+    galvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­
+    kia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +211,12 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     krašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti
     rytuose, nes naminio karo metu Rusijos kraštai buvo patekę
     Maskvos įtakon.
-  citata_rodoma: "Tuo pat metu, kaip ži­\nnom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų\nkrašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti\nrytuose, nes naminio karo metu Rusijos kraštai buvo patekę\nMaskvos įtakon."
+  citata_rodoma: |
+    Tuo pat metu, kaip ži­
+    nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
+    krašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti
+    rytuose, nes naminio karo metu Rusijos kraštai buvo patekę
+    Maskvos įtakon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

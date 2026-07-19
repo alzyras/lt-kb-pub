@@ -1045,7 +1045,18 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     kovą. Kai prūsai pastebėjo tiek maža žmonių, [susibūrusių] prie brolių vėliavos, atgavo
     jėgas bei drąsą, staiga juos užpuolė, nužudė maršalą, visus brolius ir 400 vyrų, išskyrus
     10, kuriems pavyko pasprukti.
-  citata_rodoma: "pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis,\nžiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų\ndienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo sudaryta\nsutartis, užmiršęs savo nuolankumą  ir priesaiką, kuria šią taiką patvirtino, užmiršęs\nkraujo giminystę, tai yra sūnų, bei kitus įkaitus, kuriuos buvo davęs kaip užstatą, sulaužė\ntaikos sutartį ir su Prūsijos žemės naujakrikščiais atkritėliais bei sūduviais278 surinko\nmilžinišką kariuomenę, kuri, nekalbant apie kitas nelaimes, kaip apie paimtus į nelaisvę,\nužmuštus ir nesuskaičiuojamą grobį, pavertė dykromis visą Kulmo žemę, išskyrus tris\npilis: Torunę, Kulmą ir Rudiną. Šitai padarę, pasuko su savo kariuomene prie Kulmo\nmiesto bei pilies ir čia — išdidūs ir pasipūtę — apsistojo iki vakaro. Po to patraukė iki\npelkės, vardu Renzenas279, kur naktį ilsėjosi."
+  citata_rodoma: |
+    pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis,
+    žiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų
+    dienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo sudaryta
+    sutartis, užmiršęs savo nuolankumą  ir priesaiką, kuria šią taiką patvirtino, užmiršęs
+    kraujo giminystę, tai yra sūnų, bei kitus įkaitus, kuriuos buvo davęs kaip užstatą, sulaužė
+    taikos sutartį ir su Prūsijos žemės naujakrikščiais atkritėliais bei sūduviais278 surinko
+    milžinišką kariuomenę, kuri, nekalbant apie kitas nelaimes, kaip apie paimtus į nelaisvę,
+    užmuštus ir nesuskaičiuojamą grobį, pavertė dykromis visą Kulmo žemę, išskyrus tris
+    pilis: Torunę, Kulmą ir Rudiną. Šitai padarę, pasuko su savo kariuomene prie Kulmo
+    miesto bei pilies ir čia — išdidūs ir pasipūtę — apsistojo iki vakaro. Po to patraukė iki
+    pelkės, vardu Renzenas279, kur naktį ilsėjosi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1073,7 +1084,16 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     282  Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas
     Sventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį
     (PKD, p. 44).
-  citata_rodoma: "Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius\nvisose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido\nbėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis\njais pasprukti. Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,\nkurias vėjas nuneša nuo žemės paviršiaus! Pakilo stiprus vėjas ir nunešė visus tuos\nlaivus toli nuo kranto, ir nutiko jiems su tais laivais taip pat kaip ir tam netikėliui saracėnų\nkaraliui, po pralaimėto mūšio bėgusiam nuo Karolio. Neradę laivų, jie supuolė  į Vyslą\nir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė\nkalavijo282. Šitaip viešpats paguodė savo tautą, patekusią į didžiausią vargą."
+  citata_rodoma: |
+    Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius
+    visose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido
+    bėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis
+    jais pasprukti. Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
+    kurias vėjas nuneša nuo žemės paviršiaus! Pakilo stiprus vėjas ir nunešė visus tuos
+    laivus toli nuo kranto, ir nutiko jiems su tais laivais taip pat kaip ir tam netikėliui saracėnų
+    karaliui, po pralaimėto mūšio bėgusiam nuo Karolio. Neradę laivų, jie supuolė  į Vyslą
+    ir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė
+    kalavijo282. Šitaip viešpats paguodė savo tautą, patekusią į didžiausią vargą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1116,7 +1136,12 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
     prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
     plaukioti Vysla aukštyn ir žemyn.
-  citata_rodoma: "Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau\npradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir\nNogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo\nbrolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,\nišsivarydavo juos į nelaisvę ar nugalabydavo."
+  citata_rodoma: |
+    Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
+    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
+    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
+    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
+    išsivarydavo juos į nelaisvę ar nugalabydavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1240,7 +1265,16 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     kurių pridarė Sventopelkas su savo kariauna, ir, mušdamiesi į krūtinę, su ašaromis
     meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
     tėvonijos paniekinti“.
-  citata_rodoma: "Apie brolių vargus po mūšio\n\n  Sutriuškinus šiame mūšyje brolius, Sventopelkas didžiai džiaugėsi ir, dvigubai žvaliau\nkibdamas į savo nedorovingus darbus, dvigubai smarkiau sėtrindamas skaudžias brolių\nžaizdas, ėmėsi kaip beįmanydamas visokiausių priemonių nuvilioti nuo jų  į didžiausią\nvargą pakliuvusius jų valdinius ir įkalbinėjimais bei dovanomis palenkti juos savo klastin\ngai valiai. Tiesa, kurie ne kurie, jo sukiršinti, slapta buvo linkę jam paklusti, tačiau\ndėl dievo apvaizdos ir brolių apdairumo nė vienas jų nedrįso viešai to rodyti. Šitaip jo\nklastingi užmojai nuėjo niekais, nes jis nieko nepešė su savo piktais sumanymais."
+  citata_rodoma: |
+    Apie brolių vargus po mūšio
+
+      Sutriuškinus šiame mūšyje brolius, Sventopelkas didžiai džiaugėsi ir, dvigubai žvaliau
+    kibdamas į savo nedorovingus darbus, dvigubai smarkiau sėtrindamas skaudžias brolių
+    žaizdas, ėmėsi kaip beįmanydamas visokiausių priemonių nuvilioti nuo jų  į didžiausią
+    vargą pakliuvusius jų valdinius ir įkalbinėjimais bei dovanomis palenkti juos savo klastin
+    gai valiai. Tiesa, kurie ne kurie, jo sukiršinti, slapta buvo linkę jam paklusti, tačiau
+    dėl dievo apvaizdos ir brolių apdairumo nė vienas jų nedrįso viešai to rodyti. Šitaip jo
+    klastingi užmojai nuėjo niekais, nes jis nieko nepešė su savo piktais sumanymais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1268,7 +1302,19 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
     šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
     palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
-  citata_rodoma: "Dėl to,\nbrolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių\nsutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,\no įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei\nsavo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo\nevangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,\nir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš\ntai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu\npatvirtintą277. Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė\nsurasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;\nšios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai\npalaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu."
+  citata_rodoma: |
+    Dėl to,
+    brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
+    sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,
+    o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei
+    savo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo
+    evangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,
+    ir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš
+    tai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu
+    patvirtintą277. Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė
+    surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
+    šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
+    palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1290,7 +1336,15 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą.
-  citata_rodoma: "Kadangi\nklastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali\ndaryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo\ndidžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti\nprieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams\nplaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams\nplaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė\ntraukti su kariuomene į šią vietą."
+  citata_rodoma: |
+    Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1309,7 +1363,14 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
     ordino broliams Prūsijoje.
-  citata_rodoma: "Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis\n\n  Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,\nturėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,\nSamborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau\nminėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų\nordino broliams Prūsijoje."
+  citata_rodoma: |
+    Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
+
+      Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
+    turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,
+    Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
+    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
+    ordino broliams Prūsijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1338,7 +1399,20 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     didelę kariuomenę, netikėtai įsiveržė į kunigaikščiui Kazimierui priklausomą Kujavijos
     žemę, ją nuniokojo, degindamas bei grobdamas, o išžudęs daugybę krikščionių, drauge
     su milžinišku grobiu išsivarė moteris bei vaikus.
-  citata_rodoma: "Apie įvairias Sventopelko derybas ir sutartis\n\n  Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš\nLichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:\n„Esu pasirengęs paisyti teisingumo  ir vykdyti visa, ką įsakys broliai, jeigu jie man\nsugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,\nkad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu\nnegali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei\nbroliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,\nsu kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o\ntikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,\nvienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,\ntodėl ne teisingumo ieškoki, bet pasigailėjimo“."
+  citata_rodoma: |
+    Apie įvairias Sventopelko derybas ir sutartis
+
+      Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš
+    Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:
+    „Esu pasirengęs paisyti teisingumo  ir vykdyti visa, ką įsakys broliai, jeigu jie man
+    sugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,
+    kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu
+    negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei
+    broliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,
+    su kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o
+    tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
+    vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,
+    todėl ne teisingumo ieškoki, bet pasigailėjimo“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1361,7 +1435,17 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     pusę, ir beveik visi jam prijautė. Kai šitai įvyko, šis kunigaikštis sutvirtino savo pilis Vyslos
     pakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,
     kurie tapo broliams nelyginant kilpa po kaklu.
-  citata_rodoma: "Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje\n\n  Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių  ir\npragaišties, pasak šventojo rašto, be galo klastingos  ir suktos širdies; prūsų tautą,\nneseniai priėmusią Kristaus tikėjimą, jis pradėjo taikiais žodžiais raginti griebtis klastos,\nsudarė sąjungą su ta sąlyga, kad jie išvarysią jėga iš Prūsijos žemės Teutonų ordino\nbrolius ir kitus krikščionis266; jiems ši kalba rodėsi esanti gera, daug kas persimetė į jo\npusę, ir beveik visi jam prijautė. Kai šitai įvyko, šis kunigaikštis sutvirtino savo pilis Vyslos\npakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,\nkurie tapo broliams nelyginant kilpa po kaklu."
+  citata_rodoma: |
+    Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
+
+      Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių  ir
+    pragaišties, pasak šventojo rašto, be galo klastingos  ir suktos širdies; prūsų tautą,
+    neseniai priėmusią Kristaus tikėjimą, jis pradėjo taikiais žodžiais raginti griebtis klastos,
+    sudarė sąjungą su ta sąlyga, kad jie išvarysią jėga iš Prūsijos žemės Teutonų ordino
+    brolius ir kitus krikščionis266; jiems ši kalba rodėsi esanti gera, daug kas persimetė į jo
+    pusę, ir beveik visi jam prijautė. Kai šitai įvyko, šis kunigaikštis sutvirtino savo pilis Vyslos
+    pakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,
+    kurie tapo broliams nelyginant kilpa po kaklu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1414,7 +1498,20 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     bėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis
     jais pasprukti. Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
     kurias vėjas nuneša nuo žemės paviršiaus!
-  citata_rodoma: "——————————————————\n\n  Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo\nklastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs\ntinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,\ngalėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po\npaskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per\nVyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o\nvisa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę\ndrauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,\nkurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis\nmeldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo\ntėvonijos paniekinti“."
+  citata_rodoma: |
+    ——————————————————
+
+      Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo
+    klastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs
+    tinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,
+    galėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po
+    paskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per
+    Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o
+    visa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
+    drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
+    kurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis
+    meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
+    tėvonijos paniekinti“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1552,7 +1649,17 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
     gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
     vyrų, skirtų grobiui saugoti.
-  citata_rodoma: "Tuo metu, kai šitai dėjosi, Sventopelkas\nsutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui\natsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo\nbrolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,\nšitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė\ndvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė\nšiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę\nteutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė\ngabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30\nvyrų, skirtų grobiui saugoti."
+  citata_rodoma: |
+    Tuo metu, kai šitai dėjosi, Sventopelkas
+    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
+    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
+    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
+    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
+    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
+    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
+    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
+    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
+    vyrų, skirtų grobiui saugoti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1572,7 +1679,12 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
     Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
     prieš Ordiną.
-  citata_rodoma: "Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,\nDusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario\nkunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas\nLokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs  į ginkluotą kovą\nprieš Ordiną."
+  citata_rodoma: |
+    Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
+    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
+    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
+    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs  į ginkluotą kovą
+    prieš Ordiną.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1596,7 +1708,12 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
     bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
     Jurjevu, stovėjusią prie Osteros upės žiočių.
-  citata_rodoma: "Panagrinėkime, kaip buvo sakoma senovėje. Ne­\nstoras teigia, kad poloviečiai atėjo prie G i urge v o tvirto­\nvės, laikė ją apgulę visą vasarą, bet, negalėdami jos\nįveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-\nku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė."
+  citata_rodoma: |
+    Panagrinėkime, kaip buvo sakoma senovėje. Ne­
+    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
+    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
+    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
+    ku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

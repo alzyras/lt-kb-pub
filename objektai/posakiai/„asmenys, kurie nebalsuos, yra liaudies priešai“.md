@@ -80,7 +80,13 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
     kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
     tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: "Per rinkimų agitaciją valdžia daug dėmesio\nskyrė A. Smetonos režimo kritikai ir niekinimui, propagandai, meluo-\nta, kad rinkimai vyks demokratiškai, Lietuva išliks nepriklausoma, bus\nišsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,\nkad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-\ntininkai ir aukštus postus turėję valdininkai."
+  citata_rodoma: |
+    Per rinkimų agitaciją valdžia daug dėmesio
+    skyrė A. Smetonos režimo kritikai ir niekinimui, propagandai, meluo-
+    ta, kad rinkimai vyks demokratiškai, Lietuva išliks nepriklausoma, bus
+    išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
+    kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
+    tininkai ir aukštus postus turėję valdininkai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -99,7 +105,10 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
     Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-
     ninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies
     priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius.
-  citata_rodoma: "Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-\nninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies\npriešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius."
+  citata_rodoma: |
+    Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-
+    ninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies
+    priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -94,7 +94,9 @@ Dusburgietis teigia, kad wiliński K.
     Kalvaitis V. (Kalwaitis W.)
     Kaminskis A. (Kamiński)
     Kandeimas (D. — Candeym, Jer.
-  citata_rodoma: "Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia\nhistorica, Lódz, 1984."
+  citata_rodoma: |
+    Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia
+    historica, Lódz, 1984.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

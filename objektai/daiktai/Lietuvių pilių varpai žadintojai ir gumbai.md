@@ -150,7 +150,19 @@ Nenurodyta
     nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
     išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
     trumpai pasimeldžia ir patyli akis nukreipę į krosnį.
-  citata_rodoma: "Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,\nskirtų tam tikroms religinėms apeigoms. Scholastas Teokritas\npaliko žinią, kad varpai priklausė dievų Kabirų garbinimo pa­\nslaptingoms apeigoms, kadangi manyta, jog vario skambėji­\nmas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja\npiktąsias dvasias. Taigi buvo skambinama ir numirus stabmel­\n162\n\n## Puslapis 162\n\ndžiams. Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­\ntų gongais."
+  citata_rodoma: |
+    Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
+    skirtų tam tikroms religinėms apeigoms. Scholastas Teokritas
+    paliko žinią, kad varpai priklausė dievų Kabirų garbinimo pa­
+    slaptingoms apeigoms, kadangi manyta, jog vario skambėji­
+    mas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja
+    piktąsias dvasias. Taigi buvo skambinama ir numirus stabmel­
+    162
+
+    ## Puslapis 162
+
+    džiams. Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
+    tų gongais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

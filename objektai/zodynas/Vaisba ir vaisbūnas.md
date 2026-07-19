@@ -94,7 +94,11 @@ Nenurodyta
     vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-
     dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
     kybą, vaisbūnas — pirklį.
-  citata_rodoma: "Pažymėtina, kad „visbiečiai\" ir „pirkliai\" senovės lietuviams buvo\nvienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-\ndėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-\nkybą, vaisbūnas — pirklį."
+  citata_rodoma: |
+    Pažymėtina, kad „visbiečiai" ir „pirkliai" senovės lietuviams buvo
+    vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-
+    dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
+    kybą, vaisbūnas — pirklį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

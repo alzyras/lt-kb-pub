@@ -78,7 +78,19 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
     chovco kronika rodo toji memorialo vieta, kur A. Goš­
     tautas trumpai išdėsto savo protėvių nuopelnus Lietu­
     vos valstybei.
-  citata_rodoma: "Kaip Bychovco kronikoje Jonas Goštau­\ntas vaizduojamas Kazimiero Jogailaičio gelbėtoju, taip \nmemoriale Albertas Goštautas iškyla kaip Lietuvos \nvalstybės gelbėtojas, valdant Kazimiero sūnui Žygi­\nmantui II. („Šitaip aš, nors jaunas, vienas pats apgy­\nniau nuo priešo [M. Glinskio] tėvynę, nesant ne tik \nvaldovo, mano šviesiausiojo karaliaus, bet ir visų jį \npavaduojančių pareigūnų.\")6 0\nNeabejotiną A. Goštauto memorialo ryšį su By­\nchovco kronika rodo toji memorialo vieta, kur A. Goš­\ntautas trumpai išdėsto savo protėvių nuopelnus Lietu­\nvos valstybei."
+  citata_rodoma: |
+    Kaip Bychovco kronikoje Jonas Goštau­
+    tas vaizduojamas Kazimiero Jogailaičio gelbėtoju, taip
+    memoriale Albertas Goštautas iškyla kaip Lietuvos
+    valstybės gelbėtojas, valdant Kazimiero sūnui Žygi­
+    mantui II. („Šitaip aš, nors jaunas, vienas pats apgy­
+    niau nuo priešo [M. Glinskio] tėvynę, nesant ne tik
+    valdovo, mano šviesiausiojo karaliaus, bet ir visų jį
+    pavaduojančių pareigūnų.")6 0
+    Neabejotiną A. Goštauto memorialo ryšį su By­
+    chovco kronika rodo toji memorialo vieta, kur A. Goš­
+    tautas trumpai išdėsto savo protėvių nuopelnus Lietu­
+    vos valstybei.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas

@@ -58,7 +58,11 @@ media_all_json: |-
     « šukinė » (« Kammkeramik »)^5. Jos palikimui priklauso taip pat
     gana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių
     figūrėlių.
-  citata_rodoma: "Ši kultūra, dėl tų sukinių keramikos ornamentų, todėl dar vadinama\n« šukinė » (« Kammkeramik »)^5. Jos palikimui priklauso taip pat\ngana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių\nfigūrėlių."
+  citata_rodoma: |
+    Ši kultūra, dėl tų sukinių keramikos ornamentų, todėl dar vadinama
+    « šukinė » (« Kammkeramik »)^5. Jos palikimui priklauso taip pat
+    gana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių
+    figūrėlių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

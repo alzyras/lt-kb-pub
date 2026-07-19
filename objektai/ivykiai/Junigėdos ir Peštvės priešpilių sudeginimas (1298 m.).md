@@ -164,7 +164,13 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
     ir užsimušė. Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
     nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
     turėjome keliauti ten, kur amžinos linksmybės“.
-  citata_rodoma: "Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
+  citata_rodoma: |
+    Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -184,7 +190,12 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
     priešpilių ir juos sunaikinti. Pvz., 1298 Brandenburgo komtūras,
     išsiruošęs su gausiu buriu, tesudegino Junigėdos ir Peštvės prieš­
     pilius^9.
-  citata_rodoma: "Ordino kariuomenei pačias\npagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų\npriešpilių ir juos sunaikinti. Pvz., 1298 Brandenburgo komtūras,\nišsiruošęs su gausiu buriu, tesudegino Junigėdos ir Peštvės prieš­\npilius^9."
+  citata_rodoma: |
+    Ordino kariuomenei pačias
+    pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų
+    priešpilių ir juos sunaikinti. Pvz., 1298 Brandenburgo komtūras,
+    išsiruošęs su gausiu buriu, tesudegino Junigėdos ir Peštvės prieš­
+    pilius^9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

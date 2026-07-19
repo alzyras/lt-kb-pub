@@ -126,7 +126,13 @@ Nenurodyta
     kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su
     šventojo Kristoforo atvaizdu, ant raudono lako, kaip buvo
     įprasta pirmuosiuose Karalystės miestuose39.
-  citata_rodoma: "Tokiems miestiečiams galėjo būti suteikti bajorų herbai, \nbet tik sutikus nors vienai pastariesiems priklausančiai šei­\nmai, o viešiesiems reikalams magistratas negalėjo naudoti \nkito antspaudo, tik tą, kurį miestas nuo seno turėjo - su \nšventojo Kristoforo atvaizdu, ant raudono lako, kaip buvo \nįprasta pirmuosiuose Karalystės miestuose39."
+  citata_rodoma: |
+    Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
+    bet tik sutikus nors vienai pastariesiems priklausančiai šei­
+    mai, o viešiesiems reikalams magistratas negalėjo naudoti
+    kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su
+    šventojo Kristoforo atvaizdu, ant raudono lako, kaip buvo
+    įprasta pirmuosiuose Karalystės miestuose39.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -151,7 +157,19 @@ Nenurodyta
     milžiną Alkį patvirtinančiam ant­
     spaudui. Dėl kokios priežasties? Ne­
     įmanoma suprasti.
-  citata_rodoma: "Bet to negalime dovanoti die­\nvobaimingiems Vilniaus miestie­\nčiams, kad jie 1548 metais, kaip \nteigia straipsnio apie Vilniaus ant­\nspaudą autorius, turėdami herbe šv. \nKristoforą, apie kurį karalius Žygi­\nmantas Augustas dabar pacituoto­\nje privilegijoje taip aiškiai kalba, iš­\ndrįso panaudoti kažkokį pagonių \nmilžiną Alkį patvirtinančiam ant­\nspaudui. Dėl kokios priežasties? Ne­\nįmanoma suprasti."
+  citata_rodoma: |
+    Bet to negalime dovanoti die­
+    vobaimingiems Vilniaus miestie­
+    čiams, kad jie 1548 metais, kaip
+    teigia straipsnio apie Vilniaus ant­
+    spaudą autorius, turėdami herbe šv.
+    Kristoforą, apie kurį karalius Žygi­
+    mantas Augustas dabar pacituoto­
+    je privilegijoje taip aiškiai kalba, iš­
+    drįso panaudoti kažkokį pagonių
+    milžiną Alkį patvirtinančiam ant­
+    spaudui. Dėl kokios priežasties? Ne­
+    įmanoma suprasti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

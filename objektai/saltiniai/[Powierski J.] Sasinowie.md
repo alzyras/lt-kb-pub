@@ -68,7 +68,8 @@ Dusburgietis teigia, kad [Powierski J.] Sasinowie.— SSS, t.
     T. 1.— V., 1972.
     Valikonytė J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI
     amžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs.
-  citata_rodoma: "[Powierski J.] Sasinowie.— SSS, t. 5, s. 74—75."
+  citata_rodoma: |
+    [Powierski J.] Sasinowie.— SSS, t. 5, s. 74—75.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

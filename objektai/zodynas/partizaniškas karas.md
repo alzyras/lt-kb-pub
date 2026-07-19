@@ -67,7 +67,8 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes. Tada
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
-  citata_rodoma: "Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą."
+  citata_rodoma: |
+    Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -92,7 +93,17 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     žygio savo kraštą pasiekė vos
     maži išbadėjusios ir sušalusios
     jų kariuomenės likučiai.
-  citata_rodoma: "Kryžiuočiai ėmė trauktis; Vy-\ntautas tuo tarpu buvo sunaiki-\nnęs jų atgaliniam kely paruoštą\nmaisto atsargą, ir jų kariuome-\nnėje kilo badas. Kęstučio ir\nVytauto būriai puolė kryžiuo-\nčius kur galėdami, ir iš didelio\nžygio savo kraštą pasiekė vos\nmaži išbadėjusios ir sušalusios\njų kariuomenės likučiai."
+  citata_rodoma: |
+    Kryžiuočiai ėmė trauktis; Vy-
+    tautas tuo tarpu buvo sunaiki-
+    nęs jų atgaliniam kely paruoštą
+    maisto atsargą, ir jų kariuome-
+    nėje kilo badas. Kęstučio ir
+    Vytauto būriai puolė kryžiuo-
+    čius kur galėdami, ir iš didelio
+    žygio savo kraštą pasiekė vos
+    maži išbadėjusios ir sušalusios
+    jų kariuomenės likučiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

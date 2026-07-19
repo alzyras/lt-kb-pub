@@ -218,7 +218,14 @@ Nenurodyta
     dievus būti liudytojais. Priesaikos su užkeikimu taip pat dar
     tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
     (Kad až skradziuprapoltu).
-  citata_rodoma: "Tokių arklių\nnederėjo naudoti savo reikalui, o jeigu kam nors kumelė at­\nvesdavo švento plauko kumeliuką, reikėdavo deramai ir rū­\npestingai auginti iki penkerių metų, o paskui atiduoti vyriau­\nsiajam žyniui, kurio galioje buvo jį sudeginti kaip auką arba\npakeisti kitu ir pačiam juo naudotis, arba parduoti į kitą pro­\nvinciją ar į užsienį."
+  citata_rodoma: |
+    Tokių arklių
+    nederėjo naudoti savo reikalui, o jeigu kam nors kumelė at­
+    vesdavo švento plauko kumeliuką, reikėdavo deramai ir rū­
+    pestingai auginti iki penkerių metų, o paskui atiduoti vyriau­
+    siajam žyniui, kurio galioje buvo jį sudeginti kaip auką arba
+    pakeisti kitu ir pačiam juo naudotis, arba parduoti į kitą pro­
+    vinciją ar į užsienį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -236,7 +243,12 @@ Nenurodyta
     vaitis. Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
     kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
     davo jį ant laužo.
-  citata_rodoma: "17. Arklio auka. Jeigu grobiamasis žygis pavykdavo, treč­\ndalį grobio skirdavo paaukoti dievams; jį priimdavo Krivių Kri­\nvaitis. Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,\nkol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­\ndavo jį ant laužo."
+  citata_rodoma: |
+    17. Arklio auka. Jeigu grobiamasis žygis pavykdavo, treč­
+    dalį grobio skirdavo paaukoti dievams; jį priimdavo Krivių Kri­
+    vaitis. Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
+    kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
+    davo jį ant laužo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -260,7 +272,15 @@ Nenurodyta
     kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
     baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
     būdavo toks pat baisus kaip ir anų.
-  citata_rodoma: "Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,\nkol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­\ndavo jį ant laužo.\nDievams taip pat būdavo aukojamas arklys tam tikro plau­\nko, su tam tikrais įgimtais ženklais. Prūsai teikdavo pirmeny­\nbę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio\nplauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­\nvo pasirinktą plauką ir su juo ypatingus ženklus."
+  citata_rodoma: |
+    Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
+    kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
+    davo jį ant laužo.
+    Dievams taip pat būdavo aukojamas arklys tam tikro plau­
+    ko, su tam tikrais įgimtais ženklais. Prūsai teikdavo pirmeny­
+    bę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio
+    plauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­
+    vo pasirinktą plauką ir su juo ypatingus ženklus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -286,7 +306,19 @@ Nenurodyta
     dievus būti liudytojais. Priesaikos su užkeikimu taip pat dar
     tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
     (Kad až skradziuprapoltu).
-  citata_rodoma: "Prūsai teikdavo pirmeny­\nbę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio\nplauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­\nvo pasirinktą plauką ir su juo ypatingus ženklus. Tokių arklių\nnederėjo naudoti savo reikalui, o jeigu kam nors kumelė at­\nvesdavo švento plauko kumeliuką, reikėdavo deramai ir rū­\npestingai auginti iki penkerių metų, o paskui atiduoti vyriau­\nsiajam žyniui, kurio galioje buvo jį sudeginti kaip auką arba\npakeisti kitu ir pačiam juo naudotis, arba parduoti į kitą pro­\nvinciją ar į užsienį.\nKronikininkai aiškiai liudija, kad kruvinų aukų apeigos at­\nėjo iš gotų."
+  citata_rodoma: |
+    Prūsai teikdavo pirmeny­
+    bę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio
+    plauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­
+    vo pasirinktą plauką ir su juo ypatingus ženklus. Tokių arklių
+    nederėjo naudoti savo reikalui, o jeigu kam nors kumelė at­
+    vesdavo švento plauko kumeliuką, reikėdavo deramai ir rū­
+    pestingai auginti iki penkerių metų, o paskui atiduoti vyriau­
+    siajam žyniui, kurio galioje buvo jį sudeginti kaip auką arba
+    pakeisti kitu ir pačiam juo naudotis, arba parduoti į kitą pro­
+    vinciją ar į užsienį.
+    Kronikininkai aiškiai liudija, kad kruvinų aukų apeigos at­
+    ėjo iš gotų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

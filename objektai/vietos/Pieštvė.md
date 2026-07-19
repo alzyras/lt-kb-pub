@@ -187,7 +187,10 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus
     šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau.
-  citata_rodoma: "541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto\nkyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio\n(Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664)."
+  citata_rodoma: |
+    541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
+    kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
+    (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -211,7 +214,15 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     ir užsimušė. Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
     nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
     turėjome keliauti ten, kur amžinos linksmybės“.
-  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais\n\n  Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
+  citata_rodoma: |
+    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+
+      Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -236,7 +247,19 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
 
 
                 255 (248).
-  citata_rodoma: "Apie Junigedos ir Pieštvės pilių papilių sudeginimą\n\nTais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,\nmagistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei\ngyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:\nJunigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki\npamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.\n\n\n\n\n            255 (248)."
+  citata_rodoma: |
+    Apie Junigedos ir Pieštvės pilių papilių sudeginimą
+
+    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
+    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
+    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
+    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
+    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
+
+
+
+
+                255 (248).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -270,7 +293,17 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
     latinių priešo antpuolių iš baimės niekas nebedirbo
     žemės ar iš viso nebuvo kam ją dirbti.
-  citata_rodoma: "Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­\ntučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami \ndidelę šventę,, kitą dieną kryžiuočiai praleido ramiai, \ntačiau trečią dieną iki pat pamatų sugriovė kur ne \nkur tarp sudegintos pilies išlikusius gynybinius įren­\nginius: išvertė sienų likučius, nukasė pylimus, išlygino \ngriovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­\nnos pilis: pirmąją išsigandę gynėjai atidavė be kovos, \nantrąją paėmė po keturias dienas užtrukusios apgul- \nties."
+  citata_rodoma: |
+    Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
+    tučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami
+    didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,
+    tačiau trečią dieną iki pat pamatų sugriovė kur ne
+    kur tarp sudegintos pilies išlikusius gynybinius įren­
+    ginius: išvertė sienų likučius, nukasė pylimus, išlygino
+    griovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
+    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
+    antrąją paėmė po keturias dienas užtrukusios apgul-
+    ties.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

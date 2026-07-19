@@ -61,7 +61,8 @@ Vyriausybės pirmininkui J.
     nalizuotą turtą, o rugpjūčio 5 dieną uždraudė LV veiklą. Vyriausybės pir-
     mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
     veikimą sustabdytu prieš savo valią“.
-  citata_rodoma: "mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo"
+  citata_rodoma: |
+    mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

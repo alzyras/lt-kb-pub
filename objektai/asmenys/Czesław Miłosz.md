@@ -88,7 +88,10 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: "Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-\ntas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu \nsave laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz)."
+  citata_rodoma: |
+    Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
+    tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
+    save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -115,7 +118,14 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     266
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
-  citata_rodoma: "Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-\nto, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius\n\nL I E T U V O S  I S T O R I J A\n266\nnuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine \nGordimer (Nadina Gordimer) (g."
+  citata_rodoma: |
+    Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-
+    to, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius
+
+    L I E T U V O S  I S T O R I J A
+    266
+    nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
+    Gordimer (Nadina Gordimer) (g.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

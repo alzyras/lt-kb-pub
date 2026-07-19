@@ -78,7 +78,16 @@ media_all_json: |-
     suotinumą ir universalumą3. Draugijos narių leidžiamas
     humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
     kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
-  citata_rodoma: "Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­\nnines bei visuomenines ydas rodė ryškų šios organizacijos švie­\ntėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso \nstraipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­\nlioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­\njos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­\nsuotinumą ir universalumą3. Draugijos narių leidžiamas \nhumoristinis laikraštis Wiadomości brukowe (Grindinio žinios), \nkuriame aktyviai bendradarbiavo ir M."
+  citata_rodoma: |
+    Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
+    nines bei visuomenines ydas rodė ryškų šios organizacijos švie­
+    tėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso
+    straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­
+    lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
+    jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
+    suotinumą ir universalumą3. Draugijos narių leidžiamas
+    humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
+    kuriame aktyviai bendradarbiavo ir M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -101,7 +110,13 @@ media_all_json: |-
     mų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
     nines bei visuomenines ydas rodė ryškų šios organizacijos švie­
     tėjiškos veiklos pobūdį.
-  citata_rodoma: "Balinskis - Aušla- \nviu. Šubravcų draugijos kodekse suformuluotos narių elgesio \nir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­\nmų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­\nnines bei visuomenines ydas rodė ryškų šios organizacijos švie­\ntėjiškos veiklos pobūdį."
+  citata_rodoma: |
+    Balinskis - Aušla-
+    viu. Šubravcų draugijos kodekse suformuluotos narių elgesio
+    ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­
+    mų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
+    nines bei visuomenines ydas rodė ryškų šios organizacijos švie­
+    tėjiškos veiklos pobūdį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

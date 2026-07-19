@@ -79,7 +79,10 @@ Aleksandras Jurjevičius Lietuvoje turėjo Svyruotus.
     pareigybė buvo įvesta kaip tik jo mirties
     metais (1497); pirmuoju LDK didžiuoju etmonu buvo paskirtas Kons­
     tantinas Ostrogiškis (žr. past. 24).
-  citata_rodoma: "“  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus \nvyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede- \nvų, Pumų, S vyruotus ir Šešuolius."
+  citata_rodoma: |
+    “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
+    vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-
+    vų, Pumų, S vyruotus ir Šešuolius.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

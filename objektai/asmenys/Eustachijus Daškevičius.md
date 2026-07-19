@@ -98,7 +98,15 @@ Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stov
     viena, ir kita šalis be jokių išlygų paleisianti į laisvę
     belaisvius, pirmiausia tuos, kurie paimti prie Vedro-
     šos.
-  citata_rodoma: "Šitokie žmonės taip ilgai esti klusnūs, kaip\nilgai klausosi šeimininko prijaukinti žvėrys, žodžiu sa­\nkant, jų klusnumas trumpalaikis ir netikras. Vis dėlto\nvienas kitas slaptai perbėgo į lietuvių stovyklą, be ki­\ntų, ir senas kazokų vadas Eustachijus Daškevičius, pa­\ngarsėjęs pergalėmis prieš skitus. Karalius, užbaigęs ka­\nrą su Maskva, dalį algininkų paleido, o su kitais pa­\nsiuntė į Volynę Konstantiną Ostrogiškį."
+  citata_rodoma: |
+    Šitokie žmonės taip ilgai esti klusnūs, kaip
+    ilgai klausosi šeimininko prijaukinti žvėrys, žodžiu sa­
+    kant, jų klusnumas trumpalaikis ir netikras. Vis dėlto
+    vienas kitas slaptai perbėgo į lietuvių stovyklą, be ki­
+    tų, ir senas kazokų vadas Eustachijus Daškevičius, pa­
+    garsėjęs pergalėmis prieš skitus. Karalius, užbaigęs ka­
+    rą su Maskva, dalį algininkų paleido, o su kitais pa­
+    siuntė į Volynę Konstantiną Ostrogiškį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

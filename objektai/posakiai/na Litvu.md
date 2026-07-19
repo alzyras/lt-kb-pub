@@ -113,7 +113,13 @@ media_all_json: |-
     o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
     didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
     sumuštas.
-  citata_rodoma: "Lietuvos vardas vėl minimas po 87 metų, kai esą\ndveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į\nLietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,\no 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su\ndidele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių\nsumuštas."
+  citata_rodoma: |
+    Lietuvos vardas vėl minimas po 87 metų, kai esą
+    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
+    Lietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,
+    o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
+    didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
+    sumuštas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

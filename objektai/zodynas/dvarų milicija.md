@@ -81,7 +81,9 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
     buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos
     Lietuvos bajorija ir visi didžiūnai. Jie kiekvienas irgi atsivedė
     samdytos kariuomenės — savo dvarų milicijos.
-  citata_rodoma: "Jie kiekvienas irgi atsivedė\nsamdytos kariuomenės — savo dvarų milicijos."
+  citata_rodoma: |
+    Jie kiekvienas irgi atsivedė
+    samdytos kariuomenės — savo dvarų milicijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

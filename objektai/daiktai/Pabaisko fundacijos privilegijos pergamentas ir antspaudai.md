@@ -126,7 +126,18 @@ Nenurodyta
     nigaikštystės Vyriausiojo Tribunolo Viešųjų Reikalų knygas
     yra įrašyta žodis žodin, tokio turinio:
     In Nomine Domini Amen.
-  citata_rodoma: "Šitai Mes, Lietuvos Didžiosios Kunigaikštystės Vy­\nriausiojo Tribunolo Teismas, aną [dokumentą] priėmę, pa­\nvedėme įrašyti į Tribunolo Viešąsias knygas. Pati fundaci­\njos privilegija parašyta ant pergamento, esančio daugiau negu \nuolekties ilgumo ir platumo, lotynų kalba, ir tik per jos su­\nlenkimus ar sudūrimus ob vetustatem [dėl senumo] daugelis \nžodžių ir raidžių nusitrynė, todėl cum omissis spatiis [pralei­\ndę tuščius tarpus], pažymėję juos, į Lietuvos Didžiosios Ku­\nnigaikštystės Vyriausiojo Tribunolo Viešųjų Reikalų knygas \nyra įrašyta žodis žodin, tokio turinio:\nIn Nomine Domini Amen."
+  citata_rodoma: |
+    Šitai Mes, Lietuvos Didžiosios Kunigaikštystės Vy­
+    riausiojo Tribunolo Teismas, aną [dokumentą] priėmę, pa­
+    vedėme įrašyti į Tribunolo Viešąsias knygas. Pati fundaci­
+    jos privilegija parašyta ant pergamento, esančio daugiau negu
+    uolekties ilgumo ir platumo, lotynų kalba, ir tik per jos su­
+    lenkimus ar sudūrimus ob vetustatem [dėl senumo] daugelis
+    žodžių ir raidžių nusitrynė, todėl cum omissis spatiis [pralei­
+    dę tuščius tarpus], pažymėję juos, į Lietuvos Didžiosios Ku­
+    nigaikštystės Vyriausiojo Tribunolo Viešųjų Reikalų knygas
+    yra įrašyta žodis žodin, tokio turinio:
+    In Nomine Domini Amen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

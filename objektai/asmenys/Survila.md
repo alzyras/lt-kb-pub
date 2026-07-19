@@ -143,7 +143,15 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
     deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
     Maišiagalos, priartėjo prie Vilniaus pilių.
-  citata_rodoma: "Pirmą kartą 1365 m., kai di­\ndysis Prūsijos magistras Vinrichas Kniprodė, naudodama­\nsis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio\nsūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­\nliaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­\ntuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­\ndeginęs visus valsčius nuo Labūnavos iki pat Kernavės ir\nMaišiagalos, priartėjo prie Vilniaus pilių."
+  citata_rodoma: |
+    Pirmą kartą 1365 m., kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
+    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
+    Maišiagalos, priartėjo prie Vilniaus pilių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -165,7 +173,14 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
     liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
     tuvą21.
-  citata_rodoma: "Laimė, kad šio valdovo narsa visada valiodavo išgelbėti \nmiestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­\ndysis Prūsijos magistras Vinrichas Kniprodė, naudodama­\nsis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio \nsūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­\nliaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­\ntuvą21."
+  citata_rodoma: |
+    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

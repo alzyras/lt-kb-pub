@@ -90,7 +90,9 @@ media_all_json: |-
     tai pridėkite, ką kiti irgi viršaus prideda“ [14]. 1754 m. kanauninkas laiške minėjo, kad
     karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik
     Chełchowski) dėl Balbieriškio valdų [33].
-  citata_rodoma: "1754 m. kanauninkas laiške minėjo, kad karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik\nChełchowski) dėl Balbieriškio valdų [33]."
+  citata_rodoma: |
+    1754 m. kanauninkas laiške minėjo, kad karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik
+    Chełchowski) dėl Balbieriškio valdų [33].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

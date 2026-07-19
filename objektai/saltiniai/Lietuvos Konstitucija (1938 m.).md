@@ -111,7 +111,11 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
     Vilnius yra Lietuvos sostinė.
-  citata_rodoma: "Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir\nLietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-\ntraukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad\nVilnius yra Lietuvos sostinė."
+  citata_rodoma: |
+    Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -132,7 +136,11 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
     ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
     nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
-  citata_rodoma: "Tam reikė-\njo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje\nir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės\nnepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą."
+  citata_rodoma: |
+    Tam reikė-
+    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
+    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
+    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

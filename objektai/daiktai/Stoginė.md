@@ -76,7 +76,11 @@ Nenurodyta
         tose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip
         vadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,
         nuokamieniai^241 sukrautas.
-  citata_rodoma: "Jei\ntose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip\nvadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,\nnuokamieniai^241 sukrautas."
+  citata_rodoma: |
+    Jei
+    tose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip
+    vadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,
+    nuokamieniai^241 sukrautas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

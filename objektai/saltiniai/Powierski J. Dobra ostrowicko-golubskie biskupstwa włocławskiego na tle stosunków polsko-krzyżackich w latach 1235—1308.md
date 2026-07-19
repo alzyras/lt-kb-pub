@@ -148,7 +148,11 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
     savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
     kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
     paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
-  citata_rodoma: "Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų\n\n  540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.\n156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162)."
+  citata_rodoma: |
+    Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
+
+      540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.
+    156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -171,7 +175,12 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
     išvydo teisėją, sėdintį prie pakylos, ir apsukui stovėjusią minią žmonių, kurie įniko jį
     kaltinti visokiausiais nusikaltimais; įvestas į teismą ir teisėjo paklaustas, kuo galįs atremti
     jam keliamus įkalčius, jis nusigandęs tylėjo.
-  citata_rodoma: "Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten\nįsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai\n\n  554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių\nporeikiams (Powierski J., Dobra..., p. 191 — 192)."
+  citata_rodoma: |
+    Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten
+    įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai
+
+      554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių
+    poreikiams (Powierski J., Dobra..., p. 191 — 192).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -189,7 +198,8 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
     matęs, todėl paleido žirgą ir bematant jį prarado, kaip anksčiau prarado tarną. Mat
     juodu pranyko, ir niekas negalėjo suvokti, kur juodu pragaišo.
     291 (284).
-  citata_rodoma: "555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201)."
+  citata_rodoma: |
+    555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -94,7 +94,9 @@ media_all_json: |-
     ryškėti, jog reikia ieškoti naujų ir tikrų būdų, kurie leistų priimti
     krikščionybę. Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
     pagonio valdoma.
-  citata_rodoma: "Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti\npagonio valdoma."
+  citata_rodoma: |
+    Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
+    pagonio valdoma.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -114,7 +116,11 @@ media_all_json: |-
     rūpinosi ir budėjo, kad jo pavaldiniai ortodoksai nebūtų _priklau­
     somi_ nuo priešo žemėje sėdinčio metropolito. Pagaliau jam pasi­
     sekė atstatyti Vytenio ir Gedimino laikų padėtį.
-  citata_rodoma: "Vesdamas didžiosios Lietuvos kunigaikštijos interesų apspręs­\ntą bažnytinę politiką, Algirdas, nors pats ir būdamas pagonis,\nrūpinosi ir budėjo, kad jo pavaldiniai ortodoksai nebūtų _priklau­\nsomi_ nuo priešo žemėje sėdinčio metropolito."
+  citata_rodoma: |
+    Vesdamas didžiosios Lietuvos kunigaikštijos interesų apspręs­
+    tą bažnytinę politiką, Algirdas, nors pats ir būdamas pagonis,
+    rūpinosi ir budėjo, kad jo pavaldiniai ortodoksai nebūtų _priklau­
+    somi_ nuo priešo žemėje sėdinčio metropolito.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 

@@ -93,7 +93,14 @@ media_all_json: |-
     Kryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­
     ma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana
     tamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu.
-  citata_rodoma: "Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais,\nstojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ;\no kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais,\nturėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų »^4.\nKryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­\nma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana\ntamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu."
+  citata_rodoma: |
+    Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais,
+    stojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ;
+    o kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais,
+    turėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų »^4.
+    Kryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­
+    ma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana
+    tamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

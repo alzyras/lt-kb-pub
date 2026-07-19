@@ -61,7 +61,11 @@ Dabar toji visuomenė davė unijai savo sankciją^2 ).
     kaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui,
     t. y. did. kunigaikščio valiai, reguliuojant valstybės reikalus.
     Dabar toji visuomenė davė unijai savo sankciją^2 ).
-  citata_rodoma: "Lietuvių bajorija valstybės rei­\nkaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui,\nt. y. did. kunigaikščio valiai, reguliuojant valstybės reikalus.\nDabar toji visuomenė davė unijai savo sankciją^2 )."
+  citata_rodoma: |
+    Lietuvių bajorija valstybės rei­
+    kaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui,
+    t. y. did. kunigaikščio valiai, reguliuojant valstybės reikalus.
+    Dabar toji visuomenė davė unijai savo sankciją^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

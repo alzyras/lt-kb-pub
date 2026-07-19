@@ -69,7 +69,12 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
     riuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.
     Lenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius
     nėra.
-  citata_rodoma: "Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus\nį rusų žemes, atsirado vis daugiau žinių, kurios kartojamos įvai­\nriuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.\nLenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius\nnėra."
+  citata_rodoma: |
+    Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus
+    į rusų žemes, atsirado vis daugiau žinių, kurios kartojamos įvai­
+    riuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.
+    Lenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius
+    nėra.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

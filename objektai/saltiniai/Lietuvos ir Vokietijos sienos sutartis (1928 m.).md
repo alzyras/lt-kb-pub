@@ -69,7 +69,8 @@ Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl 
     dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
     svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
-  citata_rodoma: "dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,"
+  citata_rodoma: |
+    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

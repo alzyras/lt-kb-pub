@@ -63,7 +63,10 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
     Vytautą Didįjį.
     Kautynių _strategija_ taip pat nėra dar tiksliai išaiškinta ir pilnai
     įvertinta.
-  citata_rodoma: "Kiti vadai buvo maršalas Čupurna,\nper Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas\nSungaila, Ukmergės — Kinsgaila ir kt."
+  citata_rodoma: |
+    Kiti vadai buvo maršalas Čupurna,
+    per Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas
+    Sungaila, Ukmergės — Kinsgaila ir kt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

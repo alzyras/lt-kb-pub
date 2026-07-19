@@ -78,7 +78,14 @@ Narbutas Simonaitę įvardija kaip moteriškos giminės fetišą, kurį garbino 
     savininkų fetišą. Reikėjo iškasti griovį slėnelyje prie gyvena­
     mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
     pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė.
-  citata_rodoma: "Kaimiečiai tų šliužų nelai­\nko kenksmingais ir dabar nedaro jiems nieko bloga; priešin­\ngai, jų pasirodymas kažką reiškia.\nSimonaitė (Simonajte)\nMoteriškos giminės fetišas, jį garbino Mikuckių giminė.\nSidzia\nMikalauskų giminės fetišas."
+  citata_rodoma: |
+    Kaimiečiai tų šliužų nelai­
+    ko kenksmingais ir dabar nedaro jiems nieko bloga; priešin­
+    gai, jų pasirodymas kažką reiškia.
+    Simonaitė (Simonajte)
+    Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
+    Sidzia
+    Mikalauskų giminės fetišas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

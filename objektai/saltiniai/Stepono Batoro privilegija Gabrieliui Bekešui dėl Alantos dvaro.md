@@ -169,7 +169,15 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     - 7) Vilniaus vyskupo ir kardinolo ku­
     nigaikščio Jurgio Radvilos pa­
     rašas - Jerzij C ard.
-  citata_rodoma: "447\n5) Parašai ant privilegijos, išduotos \nBekešui dėl Alantos dvaro - Step­\nhanus Rex - ]an Hlebowicz na Dub- \nrownie Kaszt. Mienskij Podskarbij \nZiemskij i Pisar / p. 448\n6) Stepono Batoro parašas iš laiško, \nrašyto 1576 m."
+  citata_rodoma: |
+    447
+    5) Parašai ant privilegijos, išduotos
+    Bekešui dėl Alantos dvaro - Step­
+    hanus Rex - ]an Hlebowicz na Dub-
+    rownie Kaszt. Mienskij Podskarbij
+    Ziemskij i Pisar / p. 448
+    6) Stepono Batoro parašas iš laiško,
+    rašyto 1576 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

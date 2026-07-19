@@ -337,7 +337,12 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
     anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
     tuva kilties ir vienos genties broliai?
-  citata_rodoma: "Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­\nda apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­\nnuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra\npaimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas\nargumentų, vien kaip savo paties abejonę."
+  citata_rodoma: |
+    Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
+    da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
+    nuolio išmonė... Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -381,7 +386,14 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     lenkiški žodžiai, ir, jei gerbiamieji istorikai būtų tai su­
     vokę, jiems, be abejo, nereikėtų vargti ieškant lietuviams
     vietos svetimoje žemėje, kur jie niekados negyveno.
-  citata_rodoma: "Tačiau vokiečių senovės tyrinėtojai prira­\nšė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti\nvisiškai nereikšmingi. Naujausias yra Reinchardo teigi­\nmas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi\nį pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,\nnes ten yra vietovardžių Stabinas, Staviškės. Tai bent\netimologinių išvadų pagrindas!"
+  citata_rodoma: |
+    Tačiau vokiečių senovės tyrinėtojai prira­
+    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
+    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
+    mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
+    į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
+    nes ten yra vietovardžių Stabinas, Staviškės. Tai bent
+    etimologinių išvadų pagrindas!
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -407,7 +419,18 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     įsikūrusi Bartėnų seniūnijoje. Vėliau sužinosime, kad ją įkūrė dar
     XIII amžiuje arba XIV amžiaus pradžioje ateiviai iš kitų Lietuvos
     žemės kraštų.
-  citata_rodoma: "Senovės tyrinėtojai, pradedant Plinijaus kom­\npiliacijomis ir baigiant nuodugniai mąstančiu Uphage- \nnu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, \nnet mokytasis ponas Foigtas patenka į keblią padėtį šia \nprasme ir daro visiškai netaiklias išvadas2. Pernelyg daug \nlaiko reikėtų tam, kad paneigtume visas hipotezes, o ant­\nra vertus, tektų kartoti tai, ką jau rašėme arba ketiname \nvėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­\nrės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,\nj Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė, \nįsikūrusi Bartėnų seniūnijoje."
+  citata_rodoma: |
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
+    piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
+    nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
+    net mokytasis ponas Foigtas patenka į keblią padėtį šia
+    prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
+    laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
+    ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -438,7 +461,27 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
     nėra naujas teiginys. Dar kronikininkas Lukas Davidas
     (t. IT.
-  citata_rodoma: "333\n\n## Puslapis 344\n\n*  *  *\nIII priedas\nA p ie  d in g u s į\nVitiem dijos k ra štą\nIštrauka iš Foigto\n(Gesch. Preuss. B. I. S. 677)\nTai,\nkad\nAistmarės1\ngerokai\nišplėtė savo\nplotą,\nypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies\nir Piliavos miesto viską dengia marių vandenys, anks­\ntesniais laikais buvo gyvenama sausuma, jokiais požiūriais\nnėra naujas teiginys."
+  citata_rodoma: |
+    333
+
+    ## Puslapis 344
+
+    *  *  *
+    III priedas
+    A p ie  d in g u s į
+    Vitiem dijos k ra štą
+    Ištrauka iš Foigto
+    (Gesch. Preuss. B. I. S. 677)
+    Tai,
+    kad
+    Aistmarės1
+    gerokai
+    išplėtė savo
+    plotą,
+    ypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies
+    ir Piliavos miesto viską dengia marių vandenys, anks­
+    tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
+    nėra naujas teiginys.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -460,7 +503,13 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
     bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
     tas, t. y. Pusnė.
-  citata_rodoma: "Salavija\nVienuolikta Prūsijos provincija buvo Salavija, Scha-\nlaueri. Jos sienas pažymėti yra labai sunku. Kadangi se­\nnais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,\nbet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­\ntas, t. y. Pusnė."
+  citata_rodoma: |
+    Salavija
+    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
+    laueri. Jos sienas pažymėti yra labai sunku. Kadangi se­
+    nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
+    bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
+    tas, t. y. Pusnė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

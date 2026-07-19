@@ -197,14 +197,21 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Rusija, Tula, XIX a. antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
+    antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
 
     KAUTYNĖS TANKUMYNE
 
     Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko pri-
     siminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su-
     tvirtintą sukilėlių stovyklą užpuola rusų pajėgos.
-  citata_rodoma: "antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius\n\nKAUTYNĖS TANKUMYNE\n\nIštrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko pri-\nsiminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su-\ntvirtintą sukilėlių stovyklą užpuola rusų pajėgos."
+  citata_rodoma: |
+    antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
+
+    KAUTYNĖS TANKUMYNE
+
+    Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko pri-
+    siminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su-
+    tvirtintą sukilėlių stovyklą užpuola rusų pajėgos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

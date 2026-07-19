@@ -71,7 +71,13 @@ Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau 
     naujasis Abiejų Tautų Respublikos val-
     dovas Vladislovas Vaza su 15 tūkst. ka-
     riuomene. Rusų pajėgų padėtis ėmė
-  citata_rodoma: "1633 m. žiemą į pagalbą atskubėjo tuo-\nmetinis Lietuvos lauko etmonas Kristupas\nRadvila 11. Rugsėjį į frontą atvyko ir\nnaujasis Abiejų Tautų Respublikos val-\ndovas Vladislovas Vaza su 15 tūkst. ka-\nriuomene."
+  citata_rodoma: |
+    1633 m. žiemą į pagalbą atskubėjo tuo-
+    metinis Lietuvos lauko etmonas Kristupas
+    Radvila 11. Rugsėjį į frontą atvyko ir
+    naujasis Abiejų Tautų Respublikos val-
+    dovas Vladislovas Vaza su 15 tūkst. ka-
+    riuomene.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

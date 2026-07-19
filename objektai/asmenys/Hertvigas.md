@@ -60,7 +60,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    24. Apie Šnikenbergo pilies pastatymą
+    Apie Šnikenbergo pilies pastatymą
 
       Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti
     tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje
@@ -71,7 +71,18 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 
 
                         25.
-  citata_rodoma: "Apie Šnikenbergo pilies pastatymą\n\n  Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti\ntiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje\ndaug brolių ir vieną kilmingą vyrą Hertvigą, Hertvigo iš Pokarvių tėvą, bei kitus karingus\nvyrus, kurie trukdė netikėliams įsibrauti.\n\n\n\n\n                    25."
+  citata_rodoma: |
+    Apie Šnikenbergo pilies pastatymą
+
+      Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti
+    tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje
+    daug brolių ir vieną kilmingą vyrą Hertvigą, Hertvigo iš Pokarvių tėvą, bei kitus karingus
+    vyrus, kurie trukdė netikėliams įsibrauti.
+
+
+
+
+                        25.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -158,7 +158,37 @@ Nenurodyta
     pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
     važiavime, norėdamas neatidėliojant padaryti, ką su­
     važiavimas buvo nutaręs.
-  citata_rodoma: "Be\ngalo ryžtingas žmogus, jis\nnieko nedarė iš lėto, nepa­\nkęsdamas ir kitų delsimo;\ntiesą\nsakant,\nnegi\ngalima\nnesmerkti atidėliojimo, jei­\ngu rūpinamasi dievo gar­\nbinimo bei žmonių išganymo reikalais. Vytauto pa­\nkviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­\nkyrę naujuoju ganytoju Motiejų, lietuvį, teologijos\nmokslų magistrą, neseniai tapusį Vilniaus kanauninkų\nkolegijos vyresniuoju, spalio mėnesį deramai sutvarkė\npagal šventųjų įstatymų reikalavimus viską, ką ir turėjo\ni417 metai\nK o n sta n co s\ns u v a žia ­\nv im o  pasiuntiniai g a ­\nlutinai\nįsteigia\nŽ e ­\nm aičių v y s k u p y s tę\n305\n\n## Puslapis 394\n\nsutvarkyti kunigaikštystėje pagal bažnytinio suvažia­\nvimo nutarimą."
+  citata_rodoma: |
+    Be
+    galo ryžtingas žmogus, jis
+    nieko nedarė iš lėto, nepa­
+    kęsdamas ir kitų delsimo;
+    tiesą
+    sakant,
+    negi
+    galima
+    nesmerkti atidėliojimo, jei­
+    gu rūpinamasi dievo gar­
+    binimo bei žmonių išganymo reikalais. Vytauto pa­
+    kviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­
+    kyrę naujuoju ganytoju Motiejų, lietuvį, teologijos
+    mokslų magistrą, neseniai tapusį Vilniaus kanauninkų
+    kolegijos vyresniuoju, spalio mėnesį deramai sutvarkė
+    pagal šventųjų įstatymų reikalavimus viską, ką ir turėjo
+    i417 metai
+    K o n sta n co s
+    s u v a žia ­
+    v im o  pasiuntiniai g a ­
+    lutinai
+    įsteigia
+    Ž e ­
+    m aičių v y s k u p y s tę
+    305
+
+    ## Puslapis 394
+
+    sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
+    vimo nutarimą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

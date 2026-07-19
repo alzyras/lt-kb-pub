@@ -117,7 +117,12 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
     ėjus fermentaciją, alus jau ir gatavas. Iš tikrųjų turime įrody­
     mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
     nojo nuo seniausių laikų.
-  citata_rodoma: "Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­\nkus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­\nmus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose\nmedžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo\nBaubliu (Baublis)Ąi."
+  citata_rodoma: |
+    Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­
+    kus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­
+    mus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose
+    medžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo
+    Baubliu (Baublis)Ąi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

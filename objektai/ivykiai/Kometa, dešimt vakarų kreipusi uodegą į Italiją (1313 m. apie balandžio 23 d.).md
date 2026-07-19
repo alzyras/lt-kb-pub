@@ -75,7 +75,7 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    112. Apie kometą
+    Apie kometą
 
        Tais pačiais metais, apie šventą Jurgį (balandžio 23), pasirodė kometa, kuri vakarais
     10 dienų kreipė uodegą į Italiją.
@@ -83,7 +83,15 @@ Nenurodyta
 
 
                          113.
-  citata_rodoma: "112. Apie kometą\n\n   Tais pačiais metais, apie šventą Jurgį (balandžio 23), pasirodė kometa, kuri vakarais\n10 dienų kreipė uodegą į Italiją.\n\n\n\n                     113."
+  citata_rodoma: |
+    Apie kometą
+
+       Tais pačiais metais, apie šventą Jurgį (balandžio 23), pasirodė kometa, kuri vakarais
+    10 dienų kreipė uodegą į Italiją.
+
+
+
+                         113.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -85,7 +85,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
     monarchijoms ir nuo to mes jaučiamės smagiau.
-  citata_rodoma: "dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos"
+  citata_rodoma: |
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

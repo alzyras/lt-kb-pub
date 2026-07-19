@@ -92,7 +92,8 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
     ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
     jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
     nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
-  citata_rodoma: "jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:"
+  citata_rodoma: |
+    jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

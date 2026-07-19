@@ -79,7 +79,8 @@ Dusburgietis teigia, kad mierzyński A.
   citata_originali: |
     7, p. 102— 106.
     Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896.
-  citata_rodoma: "Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896."
+  citata_rodoma: |
+    Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

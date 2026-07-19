@@ -201,7 +201,16 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     krikščionims duoklę. Neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe
     frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys
     vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.
-  citata_rodoma: "Kita\nkariuomenės dalis nužygiavo  į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos\nkaralius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis\nšitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo\nkaralystės miestuose pastačius dievo bažnyčių, jis Įeisiąs visoje savo karalystėje skelbti\nKristaus tikėjimą; visi norintys priimti krikštą galėsią būti apkrikštyti, o jis pats mokėsiąs\nkrikščionims duoklę. Neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe\nfrizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys\nvylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę."
+  citata_rodoma: |
+    Kita
+    kariuomenės dalis nužygiavo  į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
+    karalius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis
+    šitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo
+    karalystės miestuose pastačius dievo bažnyčių, jis Įeisiąs visoje savo karalystėje skelbti
+    Kristaus tikėjimą; visi norintys priimti krikštą galėsią būti apkrikštyti, o jis pats mokėsiąs
+    krikščionims duoklę. Neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe
+    frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys
+    vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -224,7 +233,16 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
     pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
     atvykęs, patraukė į Ragainę.
-  citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai\ndėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į\nriterius."
+  citata_rodoma: |
+    Apie Medininkų valsčiaus apiplėšimą 1316 metais
+
+      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
+    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
+    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
+    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
+    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
+    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
+    riterius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -245,7 +263,15 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 
 
                   18.
-  citata_rodoma: "Apie Šventos Elžbietos vyro mirtį\n\n  1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava\nmirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.\n\n\n\n              18."
+  citata_rodoma: |
+    Apie Šventos Elžbietos vyro mirtį
+
+      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
+    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
+
+
+
+                  18.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -67,7 +67,8 @@ Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos
     Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
     lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
     dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
-  citata_rodoma: "dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių"
+  citata_rodoma: |
+    dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

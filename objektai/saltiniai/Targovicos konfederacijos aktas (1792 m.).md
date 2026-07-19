@@ -83,7 +83,9 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
     riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: "Ta konfederacija dėl jos akto pa-\nskelbimo vietos yra vadinama Targovicos konfederacija."
+  citata_rodoma: |
+    Ta konfederacija dėl jos akto pa-
+    skelbimo vietos yra vadinama Targovicos konfederacija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -103,7 +105,11 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
     aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
     rusai esą jų sąjungininkai.
-  citata_rodoma: "Opozicionieriai, atvykę į Targovicos\nmiestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos\naktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;\nrusai esą jų sąjungininkai."
+  citata_rodoma: |
+    Opozicionieriai, atvykę į Targovicos
+    miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
+    aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
+    rusai esą jų sąjungininkai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

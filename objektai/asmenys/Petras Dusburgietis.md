@@ -349,7 +349,12 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
     giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
     davo karalių, ponų ir prastuomenės didžios pagarbos.
-  citata_rodoma: "Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
+  citata_rodoma: |
+    Tas vanduo buvo laiko­
+    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
+    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
+    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
+    šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -369,7 +374,13 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     Duomenų apie Antikos sibiles, kurių pranašavimo princi­
     pai buvo panašūs, skaitytojas ras F. Noelio mitologijos žody­
     ne43. Kunigas Osinskis išvertė jį pažodžiui į lenkų kalbą.
-  citata_rodoma: "Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­\nsią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta\ngarsaus pranašo, kurio teirautasi apie tos šventyklos likimą.\nĮvairiose vietose gyveno moterų pranašautojų, kurių pra­\nnašystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-\nburgietis."
+  citata_rodoma: |
+    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
+    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
+    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
+    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
+    našystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-
+    burgietis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -439,7 +450,12 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
     Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
     kovą prieš agresiją.
-  citata_rodoma: "Siekdamas pagrįsti kryžiuočių\nužkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti\nOrdino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo\nkroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino\nvalstybės kūrinys."
+  citata_rodoma: |
+    Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -519,7 +535,14 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
     Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
     prieš Ordiną.
-  citata_rodoma: "Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų\nordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių\npuolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti\nprieš Lietuvą (III, 343—346, 357—358)."
+  citata_rodoma: |
+    Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
+    ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -541,7 +564,14 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
     ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
     vienodos, kad šios tautos turėjusios bendrą priešą71.
-  citata_rodoma: "Ši turėjo priminti Ordino veiklos tikslus ne\ntik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,\nKryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą\nprieš Lietuvą.\n  Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos\nkronikos IV-ojoje dalyje."
+  citata_rodoma: |
+    Ši turėjo priminti Ordino veiklos tikslus ne
+    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
+    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
+    prieš Lietuvą.
+      Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -612,7 +642,17 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
     kronikininkas Grunau, kuris tą patį perskaitė minėtoje kroni­
     koje, tad nėra abejonės, kad vyskupas Kristijonas žinojo krivį
     esant, o gal ir pažino jį iš arti, būdamas prūsų nelaisvėje.
-  citata_rodoma: "Ar kas nors atviriau pasakytų apie savo šaltinius?\nArba pats matė savo akimis, arba sužinojo iš tikrų liudytojų ir\ndalyvių, arba, rašydamas pagal tikras žinias, Dusburgietis ga­\nlėjo ir turėjo kalbėti tiesą. Ar jis galėjo išdrįsti daryti kitaip\nakivaizdoje tokių žmonių, kurie padėtį krašte iš dalies pažino\npatys, iš dalies galėjo gauti apie tai labai tikslių žinių, ar jis\ngalėjo išdrįsti tiesiog išgalvoti ir pateikti kaip būtą dalyką to­\nkius reiškinius kaip krivis akivaizdoje didžiojo magistro, savo\nvaldovo, kuris jau anksčiau gerai pažinojo šalį kaip ordino bro­\nlis, o nuo 1315 metų buvo didysis komtūras."
+  citata_rodoma: |
+    Ar kas nors atviriau pasakytų apie savo šaltinius?
+    Arba pats matė savo akimis, arba sužinojo iš tikrų liudytojų ir
+    dalyvių, arba, rašydamas pagal tikras žinias, Dusburgietis ga­
+    lėjo ir turėjo kalbėti tiesą. Ar jis galėjo išdrįsti daryti kitaip
+    akivaizdoje tokių žmonių, kurie padėtį krašte iš dalies pažino
+    patys, iš dalies galėjo gauti apie tai labai tikslių žinių, ar jis
+    galėjo išdrįsti tiesiog išgalvoti ir pateikti kaip būtą dalyką to­
+    kius reiškinius kaip krivis akivaizdoje didžiojo magistro, savo
+    valdovo, kuris jau anksčiau gerai pažinojo šalį kaip ordino bro­
+    lis, o nuo 1315 metų buvo didysis komtūras.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

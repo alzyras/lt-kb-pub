@@ -120,7 +120,23 @@ Nenurodyta
     pasak
     Prokopijaus, dalyvavo visuose herulų žygiuose), įsi­
     veržė su didžiule kariuomene į Italiją.
-  citata_rodoma: "Sąlygos buvo priimtos,\ntačiau neilgai tvėrė taika ir valdymo sandora: jie bu­\nvo ne tiek bendrininkai, kiek varžovai. Mat Teodori-\nkas, Otokarą dėl akių meiliai į puotą pasikvietęs, pa­\nsiuntė žudikus ir menėje atėmė gyvybę bei sostą; po\n55\n\n## Puslapis 54\n\nto, pasistengęs į savo pusę patraukti herulų kariuome­\nnę, lengvai juos perkalbėjo. Tačiau didelė herulų da­\nlis persikėlė iš Italijos į Grai-\n493 m e ta i\nkiją, mat sutartys leido Bi­\nzantijos imperatoriui kvies­\ntis tą gentį į karo sąjungininkus."
+  citata_rodoma: |
+    Sąlygos buvo priimtos,
+    tačiau neilgai tvėrė taika ir valdymo sandora: jie bu­
+    vo ne tiek bendrininkai, kiek varžovai. Mat Teodori-
+    kas, Otokarą dėl akių meiliai į puotą pasikvietęs, pa­
+    siuntė žudikus ir menėje atėmė gyvybę bei sostą; po
+    55
+
+    ## Puslapis 54
+
+    to, pasistengęs į savo pusę patraukti herulų kariuome­
+    nę, lengvai juos perkalbėjo. Tačiau didelė herulų da­
+    lis persikėlė iš Italijos į Grai-
+    493 m e ta i
+    kiją, mat sutartys leido Bi­
+    zantijos imperatoriui kvies­
+    tis tą gentį į karo sąjungininkus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

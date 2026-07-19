@@ -199,7 +199,9 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
     galbą, labai apsidžiaugė, pralinksmėjo ir nudžiugo jo
     širdis37. Ir paskui žengė keliu be baimės, priėjo Ka-
     menecą3*. o paskui Lvovą, ir vėl išsiskirstė kas sau.
-  citata_rodoma: "dove, jeigu tu neatskleisi mums savo minties ir tikslo, \nmes neisime už Bugo.\""
+  citata_rodoma: |
+    dove, jeigu tu neatskleisi mums savo minties ir tikslo,
+    mes neisime už Bugo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -224,7 +226,21 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
     ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
     žemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau­
     rę — piemenys, pecuarii, arba nomadai.
-  citata_rodoma: "Vadina­\nsi, būta skitų gerų—kapakasių genties, kažkokios skitų\nkastos, kuri gyveno šiame miškingame krašte — visos\ngenties kapinėse.\n35\nKitas skitų upes, nepaisant jų pavadinimų sugraikini-\nmo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,\nšiandien Dnestras, Hipanis, šiandien Būgas (pastaro­\nsios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),\nBoristenis, šiandien Dnepras. Veltui kai kurie senovės\ntyrinėtojai daug vargo stengdamiesi surasti šios garsios\nupės pavadinimo ištakas, kurių dabar nepavyks paaiškin­\nti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­\n1 Ibid."
+  citata_rodoma: |
+    Vadina­
+    si, būta skitų gerų—kapakasių genties, kažkokios skitų
+    kastos, kuri gyveno šiame miškingame krašte — visos
+    genties kapinėse.
+    35
+    Kitas skitų upes, nepaisant jų pavadinimų sugraikini-
+    mo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,
+    šiandien Dnestras, Hipanis, šiandien Būgas (pastaro­
+    sios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),
+    Boristenis, šiandien Dnepras. Veltui kai kurie senovės
+    tyrinėtojai daug vargo stengdamiesi surasti šios garsios
+    upės pavadinimo ištakas, kurių dabar nepavyks paaiškin­
+    ti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­
+    1 Ibid.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

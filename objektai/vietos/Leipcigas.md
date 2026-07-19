@@ -139,7 +139,11 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige.
-  citata_rodoma: "Kurį laiką taip elgėsi Mikalojus\nKonstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje\nžinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs\nVaršuvoje ir Leipcige."
+  citata_rodoma: |
+    Kurį laiką taip elgėsi Mikalojus
+    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
+    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
+    Varšuvoje ir Leipcige.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -84,7 +84,12 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
     teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos
     savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-
     kalavimų klausančios Lenkų vyriausybės.
-  citata_rodoma: "Iš tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų\ndaug vilniškių ir artimų sričių žmonių: tuo būdu buvo lengviau\nteisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos\nsavo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-\nkalavimų klausančios Lenkų vyriausybės."
+  citata_rodoma: |
+    Iš tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų
+    daug vilniškių ir artimų sričių žmonių: tuo būdu buvo lengviau
+    teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos
+    savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-
+    kalavimų klausančios Lenkų vyriausybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

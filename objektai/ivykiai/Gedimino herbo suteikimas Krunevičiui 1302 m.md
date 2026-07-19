@@ -150,7 +150,15 @@ Nenurodyta
     dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
     arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
     11 Skaityk straipsnį „Šventyklos”.
-  citata_rodoma: "Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10. Sis paprotys lietuviams\nnebuvo būdingas, bet kai kurios riterių šeimos, priklausančios\nLietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,\nkad jiems būtų suteikti herbai -  taip būdavo Lenkijoje."
+  citata_rodoma: |
+    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
+    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
+    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
+    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
+    metais Gediminas davė Krunevičiui10. Sis paprotys lietuviams
+    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
+    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
+    kad jiems būtų suteikti herbai -  taip būdavo Lenkijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -175,7 +183,15 @@ Nenurodyta
     metais; d - Pašičius (Paszyc) 1510 metais; e - Stecevičius (Ste-
     cewicz) 1609 m etais;/- Zubas (Zub) 1480 metais; g - Rekstys
     (Rexč) 1481 metais;/?
-  citata_rodoma: "Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų\nherbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­\nsų heraldikos specialistus lenkus visuomet užgula didelis rū­\n10\nŽinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­\nkė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu\nšaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­\nnomas ir Neseckiui."
+  citata_rodoma: |
+    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
+    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­
+    sų heraldikos specialistus lenkus visuomet užgula didelis rū­
+    10
+    Žinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­
+    kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
+    šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
+    nomas ir Neseckiui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

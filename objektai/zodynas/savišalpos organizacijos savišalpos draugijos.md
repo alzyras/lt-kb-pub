@@ -63,7 +63,10 @@ media_all_json: |-
 
     niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
     ryti kokį nors verslą (biznį).
-  citata_rodoma: "Tai vietinės smulkios draugijos, kurios daž-\nniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-\nryti kokį nors verslą (biznį)."
+  citata_rodoma: |
+    Tai vietinės smulkios draugijos, kurios daž-
+    niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
+    ryti kokį nors verslą (biznį).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -82,7 +85,10 @@ media_all_json: |-
     būtų išnaudojusios. Čia, be to, dar prieškariniais laikais buvo
     smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
     skaičius į Argentiną atvyko dar XIX amž. gale.
-  citata_rodoma: "Čia, be to, dar prieškariniais laikais buvo\nsmulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių\nskaičius į Argentiną atvyko dar XIX amž. gale."
+  citata_rodoma: |
+    Čia, be to, dar prieškariniais laikais buvo
+    smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
+    skaičius į Argentiną atvyko dar XIX amž. gale.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

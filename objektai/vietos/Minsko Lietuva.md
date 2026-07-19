@@ -181,7 +181,10 @@ Nenurodyta
     tarmė – lietuvių kalba. „Vidurinės Lietuvos“ prasmę galima suvokti tik
     turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
     dinamos „Minsko“, arba „rusėnų“, Lietuva.
-  citata_rodoma: "„Vidurinės Lietuvos“ prasmę galima suvokti tik\nturint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-\ndinamos „Minsko“, arba „rusėnų“, Lietuva."
+  citata_rodoma: |
+    „Vidurinės Lietuvos“ prasmę galima suvokti tik
+    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
+    dinamos „Minsko“, arba „rusėnų“, Lietuva.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -202,7 +205,10 @@ Nenurodyta
     Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
     pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
     valstybės be istorinės sostinės Vilniaus.
-  citata_rodoma: "Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais\npagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo\nvalstybės be istorinės sostinės Vilniaus."
+  citata_rodoma: |
+    Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
+    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
+    valstybės be istorinės sostinės Vilniaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -243,7 +249,14 @@ Nenurodyta
     pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
     valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
     valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
-  citata_rodoma: "Liucijano \nŽeligovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-\ndurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi. \nSavo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais \npagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo \nvalstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos \nvalstybės kūrėjai pretendavo į Mažosios Lietuvos žemes."
+  citata_rodoma: |
+    Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
+    Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
+    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
+    valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
+    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -363,7 +363,16 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
     ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
     liaudies padavimų.
-  citata_rodoma: "Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross)."
+  citata_rodoma: |
+    Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
+    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
+    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
+    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
+    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
+    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
+    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
+    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
+    kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -407,7 +416,13 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     tirštai gyvenama ir taiki. Bet galų gale tokia palanki
     genties padėtis baigėsi dėl menkų, kaip ir jie patys, žmo­
     giškų dalykų.
-  citata_rodoma: "Į šiaurę nuo skitų, net ligi Dono, gy­\nveno gelonai ir budinai, kitapus Dono, iki jūros, j rytus \nnuo skitų, — sarmatai. Skitų valstybė buvo galinga, \ntirštai gyvenama ir taiki. Bet galų gale tokia palanki \ngenties padėtis baigėsi dėl menkų, kaip ir jie patys, žmo­\ngiškų dalykų."
+  citata_rodoma: |
+    Į šiaurę nuo skitų, net ligi Dono, gy­
+    veno gelonai ir budinai, kitapus Dono, iki jūros, j rytus
+    nuo skitų, — sarmatai. Skitų valstybė buvo galinga,
+    tirštai gyvenama ir taiki. Bet galų gale tokia palanki
+    genties padėtis baigėsi dėl menkų, kaip ir jie patys, žmo­
+    giškų dalykų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

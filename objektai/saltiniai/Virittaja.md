@@ -88,7 +88,12 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     (Viename
     Suomijos
     valsčiuje kaimiečių apeigos, indoeuropiečių kilmės).
-  citata_rodoma: "1900. Ritvalos Helkos šventė. \nVirittaja. \n(Viename \nSuomijos \nvalsčiuje kaimiečių apeigos, indoeuropiečių kilmės)."
+  citata_rodoma: |
+    1900. Ritvalos Helkos šventė.
+    Virittaja.
+    (Viename
+    Suomijos
+    valsčiuje kaimiečių apeigos, indoeuropiečių kilmės).
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -105,7 +110,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Mažesni
     pranešimai XLVIII.
     1914 L. Apie lietuvių burtažodžius. Virittaja.
-  citata_rodoma: "1914 L. Apie lietuvių burtažodžius. Virittaja."
+  citata_rodoma: |
+    1914 L. Apie lietuvių burtažodžius. Virittaja.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -122,7 +128,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     1899. Apie mūsų (suomių) būrimo poezijos atsiradimą.
     Virit­
     taja (toks laikraštis).
-  citata_rodoma: "1899. Apie mūsų (suomių) būrimo poezijos atsiradimą. \nVirit­\ntaja (toks laikraštis)."
+  citata_rodoma: |
+    1899. Apie mūsų (suomių) būrimo poezijos atsiradimą.
+    Virit­
+    taja (toks laikraštis).
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

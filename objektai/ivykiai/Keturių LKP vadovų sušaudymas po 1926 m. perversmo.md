@@ -88,7 +88,8 @@ Nenurodyta
     dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad
     tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavo-
     jaus nematė.
-  citata_rodoma: "Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po"
+  citata_rodoma: |
+    Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

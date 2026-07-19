@@ -73,15 +73,23 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kiti išbėgiojo, ir kurie
-    ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei
-    pavalgyti, tik vienas kitas išsigelbėjo nuo žūties.
-    242 (235). Apie paguodą, suteiktą broliams bei krikščionims
-    Kai ši brolių kariuomenė, nugalėjusi priešą, dar nebuvo sugrįžusi iš žygio, kartą brolis
-    Meinhardas, magistras, prisėdo su kuriais ne kuriais Ordino vyresniaisiais pasišnekėti apie
-    rūpesčius, kuriuos kėlė minėtoji kariuomenė, užgaišusi kur kas ilgiau, nei turėjo, ir apie
-    Ragainės komtūro bei jo karių mirtį.
-  citata_rodoma: "Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,\nišplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias\nnaujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau\nminėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,\nkaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,\ngalop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,\natsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir\nšitaip išvaduojamas iš netikėlių nelaisvės."
+    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
+    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
+    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
+    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
+    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
+    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
+    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
+    šitaip išvaduojamas iš netikėlių nelaisvės.
+  citata_rodoma: |
+    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
+    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
+    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
+    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
+    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
+    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
+    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
+    šitaip išvaduojamas iš netikėlių nelaisvės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

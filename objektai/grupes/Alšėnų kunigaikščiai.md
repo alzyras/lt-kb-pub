@@ -126,7 +126,11 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
     stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
     gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
     Alšėnų kunigaikščiai.
-  citata_rodoma: "Be to,\nstačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-\ngaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,\nAlšėnų kunigaikščiai."
+  citata_rodoma: |
+    Be to,
+    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
+    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
+    Alšėnų kunigaikščiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

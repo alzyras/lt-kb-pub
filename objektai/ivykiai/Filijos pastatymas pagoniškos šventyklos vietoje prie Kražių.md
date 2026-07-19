@@ -102,7 +102,18 @@ Nenurodyta
     Aleksandrui,
     jo
     įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
-  citata_rodoma: "Prie Kražių miestelio, Kražantės upės kairiajame krante, ant Me­\ndžiokalnio kalno, stovėjo deivės Medziojnos šventykla19. Tai tik­\nriausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­\njoje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero\nir Zurblio (2urblis)\npievos.\nValdant\nkaraliui\nAleksandrui,\njo\nįsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b."
+  citata_rodoma: |
+    Prie Kražių miestelio, Kražantės upės kairiajame krante, ant Me­
+    džiokalnio kalno, stovėjo deivės Medziojnos šventykla19. Tai tik­
+    riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
+    joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero
+    ir Zurblio (2urblis)
+    pievos.
+    Valdant
+    karaliui
+    Aleksandrui,
+    jo
+    įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

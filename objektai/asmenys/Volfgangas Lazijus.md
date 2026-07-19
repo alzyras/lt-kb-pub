@@ -97,7 +97,15 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
     septynis lietuvių kalbos klausimus, kurių dauguma buvo bever­
     čiai, o kiti ir visiškai kvaili, nes mes kiekvieną tą asmenį asme­
     niškai pažinojome, ir nė vienas iš jų lietuviškai nemokėjo.
-  citata_rodoma: "Ma­\ntydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kal­\nba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į\nsavo „Meklenburgo istoriją“, parašytą XV amžiuje. Gal būtų pra­\ndingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu\nne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris\nją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš\npastarojo tas užrašas buvo įdėtas į Londono „Sylloge“."
+  citata_rodoma: |
+    Ma­
+    tydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kal­
+    ba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į
+    savo „Meklenburgo istoriją“, parašytą XV amžiuje. Gal būtų pra­
+    dingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu
+    ne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris
+    ją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš
+    pastarojo tas užrašas buvo įdėtas į Londono „Sylloge“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

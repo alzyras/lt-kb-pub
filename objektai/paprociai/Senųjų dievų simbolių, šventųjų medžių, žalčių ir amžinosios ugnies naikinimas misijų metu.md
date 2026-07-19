@@ -150,7 +150,14 @@ Nenurodyta
     vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
     mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
     tose.
-  citata_rodoma: "Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo\nnuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­\nlų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,\nkai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu\ntriukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­\nžė."
+  citata_rodoma: |
+    Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo
+    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
+    lų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,
+    kai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu
+    triukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­
+    žė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -110,7 +110,15 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
     Radvilos raitelių, 1000 pėstininkų ir 2000
     Walenrodto vedamų pėstininkų. Iš viso
     apie 7000 karių.
-  citata_rodoma: "Jungtinę olando gen.\nGeorgo Fridriko Valdeko vadovaujamą\nšvedų, brandenburgiečių ir prūsų ka-\nriuomenę sudarė 3500 raitarų ir dra-\ngūnų, 800 už švedus kariavusio Boguslavo\nRadvilos raitelių, 1000 pėstininkų ir 2000\nWalenrodto vedamų pėstininkų. Iš viso\napie 7000 karių."
+  citata_rodoma: |
+    Jungtinę olando gen.
+    Georgo Fridriko Valdeko vadovaujamą
+    švedų, brandenburgiečių ir prūsų ka-
+    riuomenę sudarė 3500 raitarų ir dra-
+    gūnų, 800 už švedus kariavusio Boguslavo
+    Radvilos raitelių, 1000 pėstininkų ir 2000
+    Walenrodto vedamų pėstininkų. Iš viso
+    apie 7000 karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

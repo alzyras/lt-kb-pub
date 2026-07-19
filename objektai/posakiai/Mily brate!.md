@@ -79,7 +79,13 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
     retų, kur šalių replikos perteikiamos tiesiogine kalba,
     ir ieškovas kreipiasi į atsakovą: „Mily brate!" — taip,
     kaip Jogaila į Švitrigailą Bychovco kronikoje.
-  citata_rodoma: "Pasakojimui pagyvinti jis vartoja tiesioginę kalbą\nTai, beje, nebuvo išimtis ir tuometinių Lietuvos vals­\ntybės raštinių praktikoje. Yra išlikę XVI a. teismų dek­\nretų, kur šalių replikos perteikiamos tiesiogine kalba, \nir ieškovas kreipiasi į atsakovą: „Mily brate!\" — taip, \nkaip Jogaila į Švitrigailą Bychovco kronikoje."
+  citata_rodoma: |
+    Pasakojimui pagyvinti jis vartoja tiesioginę kalbą
+    Tai, beje, nebuvo išimtis ir tuometinių Lietuvos vals­
+    tybės raštinių praktikoje. Yra išlikę XVI a. teismų dek­
+    retų, kur šalių replikos perteikiamos tiesiogine kalba,
+    ir ieškovas kreipiasi į atsakovą: „Mily brate!" — taip,
+    kaip Jogaila į Švitrigailą Bychovco kronikoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

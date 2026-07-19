@@ -96,7 +96,8 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
     sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
     pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
     mą.
-  citata_rodoma: "sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir"
+  citata_rodoma: |
+    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

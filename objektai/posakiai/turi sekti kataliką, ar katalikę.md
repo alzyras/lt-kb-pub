@@ -79,7 +79,11 @@ media_all_json: |-
     butų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti
     kataliką, ar katalikę » ir priimti Romos krikštą. Prie to jie « gali
     būti verčiami net kūno bausmėmis »^20.
-  citata_rodoma: "Įsakyme buvo įsakmiai pažymėta : jeigu kas\nbutų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti\nkataliką, ar katalikę » ir priimti Romos krikštą. Prie to jie « gali\nbūti verčiami net kūno bausmėmis »^20."
+  citata_rodoma: |
+    Įsakyme buvo įsakmiai pažymėta : jeigu kas
+    butų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti
+    kataliką, ar katalikę » ir priimti Romos krikštą. Prie to jie « gali
+    būti verčiami net kūno bausmėmis »^20.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -140,7 +140,16 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
     norėjo padarytį jį geriau matomą ir ketino priartinti; nuimant dalį
     apdorojamo paviršiaus, gabalas su trenksmu sprogo, o vanduo pa­
     virto dūmeliu.
-  citata_rodoma: "Wigancli Epis-\ncopi Pomesatiiensis de Succino, alce et herbis iri Prussia\nnascentibus libri\", išleistą 1590 metais Jenoje; Bajeris\nją norėjo įdėti į savo „Monumentą Prussica“.\nTai, kad gintaras yra senojo pasaulio kūrinys, teigia\ngamtos tyrinėtojai Klaprotas ir Hagenas. Pastarojo dar\nneišleistame veikale chemiškai įrodyta, jog jis priklauso\n1 Man sykį sakė, kad, apdorojęs vištos kiaušinio dydžio gintaro\ngabalą, žmogus pamatė viduje žirnio dydžio vandens rutuliuką."
+  citata_rodoma: |
+    Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
+    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
+    gamtos tyrinėtojai Klaprotas ir Hagenas. Pastarojo dar
+    neišleistame veikale chemiškai įrodyta, jog jis priklauso
+    1 Man sykį sakė, kad, apdorojęs vištos kiaušinio dydžio gintaro
+    gabalą, žmogus pamatė viduje žirnio dydžio vandens rutuliuką.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

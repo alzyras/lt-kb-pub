@@ -242,7 +242,16 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     zijos bokštą, Lietuvos radijo ir televizi-
     jos komitetą, o tankų ir šarvuočių vora
     pajudėjo Parlamento link.
-  citata_rodoma: "Sausio 12 d. Aukščiausioji\nTaryba - Atkuriamasis Seimas, vadovau-\njamas pirmininko Vytauto Landsbergio,\npriėmė nutarimą „Dėl priemonių Lietuvos\nRespublikai ginti“. Jau sausio 13-osios\nnaktį sovietai šturmavo Vilniaus televi-\nzijos bokštą, Lietuvos radijo ir televizi-\njos komitetą, o tankų ir šarvuočių vora\npajudėjo Parlamento link."
+  citata_rodoma: |
+    Sausio 12 d. Aukščiausioji
+    Taryba - Atkuriamasis Seimas, vadovau-
+    jamas pirmininko Vytauto Landsbergio,
+    priėmė nutarimą „Dėl priemonių Lietuvos
+    Respublikai ginti“. Jau sausio 13-osios
+    naktį sovietai šturmavo Vilniaus televi-
+    zijos bokštą, Lietuvos radijo ir televizi-
+    jos komitetą, o tankų ir šarvuočių vora
+    pajudėjo Parlamento link.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -285,7 +294,15 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
     privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
     į privačias rankas perleisti valstybės turtą.
-  citata_rodoma: "Kadangi \nesminiai pertvarkymai žemės ūkyje vyko valdžioje esant Sąjūdžiui, dau-\nguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometi-\nnį Lietuvos AS pirmininką V. Landsbergį, nors sunkumai buvo senosios \nekonomikos pasekmės. \nLietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido \nprivatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui \nį privačias rankas perleisti valstybės turtą."
+  citata_rodoma: |
+    Kadangi
+    esminiai pertvarkymai žemės ūkyje vyko valdžioje esant Sąjūdžiui, dau-
+    guma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometi-
+    nį Lietuvos AS pirmininką V. Landsbergį, nors sunkumai buvo senosios
+    ekonomikos pasekmės.
+    Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
+    privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
+    į privačias rankas perleisti valstybės turtą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -305,7 +322,10 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo
     sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „lands-
     bergininkus“.
-  citata_rodoma: "Per 1992 m. rinkimus į Sei-\nmą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų \nsėkmė lydėjo V. Landsbergio vadovaujamus konservatorius."
+  citata_rodoma: |
+    Per 1992 m. rinkimus į Sei-
+    mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų
+    sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -326,7 +346,9 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
     Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
     pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
-  citata_rodoma: "Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją \npasirašė 1991 m. liepos 29 d. (įsigaliojo po metų)."
+  citata_rodoma: |
+    Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
+    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

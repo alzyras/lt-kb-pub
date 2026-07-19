@@ -81,7 +81,8 @@ Smetona žuvo Klivlande per gaisrą.
     tugaliją išvyko į JAV. Tačiau norėdamas gauti JAV vizą turėjo įsipareigoti
     nevykdyti politinės veiklos, tad apsiribojo ryšiais su JAV lietuviais ir Lietu-
     vos diplomatais. 1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
-  citata_rodoma: "1944 m. sausį A. Smetona žuvo Klivlande per gaisrą."
+  citata_rodoma: |
+    1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

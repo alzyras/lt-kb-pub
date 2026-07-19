@@ -85,7 +85,12 @@ Nenurodyta
     leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
     ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
     žemes, ypač Lenkiją.
-  citata_rodoma: "Taikai\npalaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­\nleido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų\nordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų\nžemes, ypač Lenkiją."
+  citata_rodoma: |
+    Taikai
+    palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­
+    leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
+    ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
+    žemes, ypač Lenkiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

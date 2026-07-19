@@ -90,7 +90,15 @@ Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos api
     į šiaurę galėjo būti nuo 48 iki 51 laipsnio platumos, o
     tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
     nės, Tambovo ir Penzos gubernijose.
-  citata_rodoma: "Dar daugiau, anot jų, romėnai taip gerai pažinoję venedus\nkaip ir budinus, tad tokiu istorinių pritaikymų būdu stengiasi patvir­\ntinti, kad slavai kilę iš budinu.\n2 Ponas Setgoisas (Schettgeus) mėgino paskelbti įtikinamų šios\nprielaidos įrodymų. Maskvos miesto pavadinimas kilęs iš to paties\npavadinimo upės, kurios vardo ištakos yra slavų kalbos žodyje Mozg,\nturinčiame įvairią prasmę; ji galėjo vadintis Mozgowaja, Mozgowa\nir pagaliau Mosima, Maskva."
+  citata_rodoma: |
+    Dar daugiau, anot jų, romėnai taip gerai pažinoję venedus
+    kaip ir budinus, tad tokiu istorinių pritaikymų būdu stengiasi patvir­
+    tinti, kad slavai kilę iš budinu.
+    2 Ponas Setgoisas (Schettgeus) mėgino paskelbti įtikinamų šios
+    prielaidos įrodymų. Maskvos miesto pavadinimas kilęs iš to paties
+    pavadinimo upės, kurios vardo ištakos yra slavų kalbos žodyje Mozg,
+    turinčiame įvairią prasmę; ji galėjo vadintis Mozgowaja, Mozgowa
+    ir pagaliau Mosima, Maskva.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

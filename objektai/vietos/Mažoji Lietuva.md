@@ -321,7 +321,13 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: "Kai 1914 m. \nliepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-\nšė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-\nta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, \nesančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-\ntuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo."
+  citata_rodoma: |
+    Kai 1914 m.
+    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
+    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
+    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
+    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
+    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -364,7 +370,10 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
     reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
     laičio poema „Metai“ (apie 1750).
-  citata_rodoma: "Mažojoje Lietuvoje iškilo ir pirmasis \nreikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-\nlaičio poema „Metai“ (apie 1750)."
+  citata_rodoma: |
+    Mažojoje Lietuvoje iškilo ir pirmasis
+    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
+    laičio poema „Metai“ (apie 1750).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -391,7 +400,14 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
     tvirtai tikėdami, kad tikrai nebepražus.
-  citata_rodoma: "Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, po-\nliglotas Georgas (liet. Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už \nlietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame \nbuvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą \ngarbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-\nrėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau \ntvirtai tikėdami, kad tikrai nebepražus."
+  citata_rodoma: |
+    Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, po-
+    liglotas Georgas (liet. Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
+    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
+    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
+    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
+    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
+    tvirtai tikėdami, kad tikrai nebepražus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -414,7 +430,12 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
     va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
     Lietuvos vardu).
-  citata_rodoma: "Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau \npasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-\nta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-\nva (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios \nLietuvos vardu)."
+  citata_rodoma: |
+    Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
+    pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
+    ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
+    va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
+    Lietuvos vardu).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -454,7 +475,10 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     Kaune susirinko į pirmąjį Seimo posėdį. O juk planuota išrinkti ir apie
     100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-
     kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo.
-  citata_rodoma: "O juk planuota išrinkti ir apie \n100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-\nkimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo."
+  citata_rodoma: |
+    O juk planuota išrinkti ir apie
+    100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-
+    kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -473,7 +497,10 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     bos vartojimu. Šia samprata rėmėsi naujosios Lietuvos valstybės – Lie-
     tuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą,
     bet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes.
-  citata_rodoma: "Šia samprata rėmėsi naujosios Lietuvos valstybės – Lie-\ntuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą, \nbet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes."
+  citata_rodoma: |
+    Šia samprata rėmėsi naujosios Lietuvos valstybės – Lie-
+    tuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą,
+    bet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -495,7 +522,10 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     Kazio Griniaus vadovaujama vyriausybė. Pademonstruota vienybė su
     Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai
     pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.
-  citata_rodoma: "Pademonstruota vienybė su \nMažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai \npareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį."
+  citata_rodoma: |
+    Pademonstruota vienybė su
+    Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai
+    pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -103,7 +103,15 @@ Nenurodyta
     apeigomis,
     ir
     valstybine santvarka.
-  citata_rodoma: "Erdvilui mirus, Naugarduko kunigaikštystę valdyti\nžemių. Polocko rusai savo valstybės valdymą buvo\nperdavę ne vienam kunigaikščiui, bet tautai5; šitokių\npermainų priežastis buvo ta, kad per skitų karą buvo\nnetekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,\ntvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­\nrėkite, kad, susiradę kokį valdovą, neprarastumėte per\nsavo ištižimą laisvės, kurią iš priešų malonės gavote."
+  citata_rodoma: |
+    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
+    žemių. Polocko rusai savo valstybės valdymą buvo
+    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
+    permainų priežastis buvo ta, kad per skitų karą buvo
+    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
+    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
+    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
+    savo ištižimą laisvės, kurią iš priešų malonės gavote.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

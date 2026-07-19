@@ -100,7 +100,18 @@ Nenurodyta
     jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
     tas tas antrasis pavadinimas.
     Tačiau lietuviams tie du dalykai visiškai skirtingi.
-  citata_rodoma: "Kartais va­\nsaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­\nmės, į puikius slėnius, esančius greta upių ir ežerų. Jeigu tose\nvietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­\nrytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo\nakmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba\nelipsės formą. Gerbėjai jas galėdavo stebėti iš tam tikro atstumo,\nbet vargas tam, kuris išdrįsdavo prisiartinti -  jos be pasigailėji­\nmo nužudydavo kiekvieną, kuris įžeisdavo jų garbę. Ir šiandien\nŽemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį\nryšį su tuo deivių verpėjų arba audėjų garbinimu."
+  citata_rodoma: |
+    Kartais va­
+    saros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­
+    mės, į puikius slėnius, esančius greta upių ir ežerų. Jeigu tose
+    vietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­
+    rytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo
+    akmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba
+    elipsės formą. Gerbėjai jas galėdavo stebėti iš tam tikro atstumo,
+    bet vargas tam, kuris išdrįsdavo prisiartinti -  jos be pasigailėji­
+    mo nužudydavo kiekvieną, kuris įžeisdavo jų garbę. Ir šiandien
+    Žemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį
+    ryšį su tuo deivių verpėjų arba audėjų garbinimu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

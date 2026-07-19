@@ -134,7 +134,16 @@ Nenurodyta
     pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
     metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
     494  Žuvo 1279.111.5 prie dab.
-  citata_rodoma: "Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais\n\n   Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.\nMirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,\nLivonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių\npasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties\nmetais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,\n\n  494  Žuvo 1279."
+  citata_rodoma: |
+    Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+
+       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
+
+      494  Žuvo 1279.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

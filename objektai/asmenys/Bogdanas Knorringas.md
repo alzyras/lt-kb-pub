@@ -75,7 +75,16 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
     menės korpusas, padalintas į tris
     kolonas, pasiekė Vilnių. Pirmajai va-
     dovavo gen. mjr.
-  citata_rodoma: "Antroji kovų fazė:\n\nVilniaus gynyba\n\nLiepos 19 d. gen. ltn. B. Knorrin-\n\ngo vadovaujamas Rusijos kariuo-\nmenės korpusas, padalintas į tris\nkolonas, pasiekė Vilnių."
+  citata_rodoma: |
+    Antroji kovų fazė:
+
+    Vilniaus gynyba
+
+    Liepos 19 d. gen. ltn. B. Knorrin-
+
+    go vadovaujamas Rusijos kariuo-
+    menės korpusas, padalintas į tris
+    kolonas, pasiekė Vilnių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

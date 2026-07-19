@@ -69,7 +69,13 @@ media_all_json: |-
     Spausdinta Vilniuje pas Joną Karca-
     ną, 1583, in 4to, 54 p. (Chšonstov-
     skio veikalas).
-  citata_rodoma: "69\nPerlas paimtas iš pranašo Habukuko ir \nKalėdoms dovanotas Jonui Hlebavičiui. \nSpausdinta Vilniuje pas Joną Karca- \nną, 1583, in 4to, 54 p. (Chšonstov- \nskio veikalas)."
+  citata_rodoma: |
+    69
+    Perlas paimtas iš pranašo Habukuko ir
+    Kalėdoms dovanotas Jonui Hlebavičiui.
+    Spausdinta Vilniuje pas Joną Karca-
+    ną, 1583, in 4to, 54 p. (Chšonstov-
+    skio veikalas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

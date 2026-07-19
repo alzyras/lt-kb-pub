@@ -105,7 +105,8 @@ Nenurodyta
     siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas.
-  citata_rodoma: "tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus"
+  citata_rodoma: |
+    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -127,7 +128,8 @@ Nenurodyta
     Lietuvos laisvės lygos surengtas pirmasis sovietmečiu
     viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–
     Ribentropo paktui paminėti.
-  citata_rodoma: "viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–"
+  citata_rodoma: |
+    viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,9 @@ Dusburgietis teigia, kad trautmann R.
     109—128.
     История Литовской ССР (с древнейших времен до наших дней) / Ред. коллегия Б.
     Ванткявичюс (отв. ред.), В. Меркис, К. Навицкас, В. Пашуто, К. Сурблис, М. Ючас.
-  citata_rodoma: "Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,\nWörterbuch.— Göttingen, 1910."
+  citata_rodoma: |
+    Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,
+    Wörterbuch.— Göttingen, 1910.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

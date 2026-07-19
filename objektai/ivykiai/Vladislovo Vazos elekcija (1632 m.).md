@@ -72,7 +72,11 @@ Nenurodyta
     elekcija užtruko vos^1 /2
     valandos, nes Vladislovo
     priešų nebuvo.
-  citata_rodoma: "Pati\nelekcija užtruko vos^1 /2\nvalandos, nes Vladislovo\npriešų nebuvo."
+  citata_rodoma: |
+    Pati
+    elekcija užtruko vos^1 /2
+    valandos, nes Vladislovo
+    priešų nebuvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

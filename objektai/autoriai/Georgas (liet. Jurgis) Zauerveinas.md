@@ -94,7 +94,8 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
     garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
     tvirtai tikėdami, kad tikrai nebepražus.
-  citata_rodoma: "rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau"
+  citata_rodoma: |
+    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

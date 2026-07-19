@@ -68,7 +68,8 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     teisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-
     matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
     reformą numatyta pradėti po dvejų metų.
-  citata_rodoma: "matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių"
+  citata_rodoma: |
+    matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

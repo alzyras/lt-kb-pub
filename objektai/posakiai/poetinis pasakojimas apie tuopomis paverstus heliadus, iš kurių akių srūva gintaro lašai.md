@@ -63,7 +63,9 @@ Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalb�
     gana tikslių žinių. Bet ¡poetinis pasakojimas apie tuopomis
     paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
     tėja prie tiesos.
-  citata_rodoma: "Bet ¡poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­\n  tėja prie tiesos."
+  citata_rodoma: |
+    Bet ¡poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
+      tėja prie tiesos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

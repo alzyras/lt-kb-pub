@@ -112,7 +112,10 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
     Pastarosios unijos dokumentas, nors ir labai skambių žo­
     džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
     raida nuėjo kitu keliu.
-  citata_rodoma: "Pastarosios unijos dokumentas, nors ir labai skambių žo­\ndžių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos\nraida nuėjo kitu keliu."
+  citata_rodoma: |
+    Pastarosios unijos dokumentas, nors ir labai skambių žo­
+    džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
+    raida nuėjo kitu keliu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +136,11 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
     džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
     raida nuėjo kitu keliu. Lenkai laukė iš naujo akto abipusės pa­
     ramos ir sutarimo bendruose abiejų valstybių reikaluose.
-  citata_rodoma: "Pastarosios unijos dokumentas, nors ir labai skambių žo­\ndžių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos\nraida nuėjo kitu keliu. Lenkai laukė iš naujo akto abipusės pa­\nramos ir sutarimo bendruose abiejų valstybių reikaluose."
+  citata_rodoma: |
+    Pastarosios unijos dokumentas, nors ir labai skambių žo­
+    džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
+    raida nuėjo kitu keliu. Lenkai laukė iš naujo akto abipusės pa­
+    ramos ir sutarimo bendruose abiejų valstybių reikaluose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

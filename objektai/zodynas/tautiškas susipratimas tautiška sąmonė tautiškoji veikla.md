@@ -135,7 +135,11 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     priklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas
     kultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir
     subūrusio jėgas.
-  citata_rodoma: "Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su ne-\npriklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas\nkultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir\nsubūrusio jėgas."
+  citata_rodoma: |
+    Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su ne-
+    priklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas
+    kultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir
+    subūrusio jėgas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -156,7 +160,9 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     konservuoti lietuviškosios kultūros kūrinius mokslo reikalams,
     „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
     ti tautišką sąmonę.
-  citata_rodoma: "„Birutės\" tikslas buvo stiprinti lietuviškumą ir kel-\nti tautišką sąmonę."
+  citata_rodoma: |
+    „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
+    ti tautišką sąmonę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -176,7 +182,13 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     ti tautišką sąmonę. Jos sumanytojai buvo Basanavi-
     čius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir
     nemaža kitų M. Lietuvos veikėjų.
-  citata_rodoma: "Tilžėje įkurta „Birutės\"\ndraugija. Tuo tarpu, kai vokiečių Literatų Draugija turėjo tikslą\nkonservuoti lietuviškosios kultūros kūrinius mokslo reikalams,\n„Birutės\" tikslas buvo stiprinti lietuviškumą ir kel-\nti tautišką sąmonę. Jos sumanytojai buvo Basanavi-\nčius, Šliūpas, Zauerveinas, M."
+  citata_rodoma: |
+    Tilžėje įkurta „Birutės"
+    draugija. Tuo tarpu, kai vokiečių Literatų Draugija turėjo tikslą
+    konservuoti lietuviškosios kultūros kūrinius mokslo reikalams,
+    „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
+    ti tautišką sąmonę. Jos sumanytojai buvo Basanavi-
+    čius, Šliūpas, Zauerveinas, M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -91,7 +91,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     etnosu, bet jie patys save laikė
     vieno dvilypio lietuvių-žemaičių
     etnoso dalimi).
-  citata_rodoma: "tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar"
+  citata_rodoma: |
+    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

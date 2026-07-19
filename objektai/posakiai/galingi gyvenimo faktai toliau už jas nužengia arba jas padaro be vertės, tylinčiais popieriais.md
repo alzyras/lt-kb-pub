@@ -61,7 +61,12 @@ Kaip kiekviena sutartis taip ir ši pasiliko sutartimi: galingi gyvenimo faktai 
     jas nužengia arba jas padaro be vertės, tylinčiais popieriais.
     Apie tai leisime kalbėti Vytauto politikos faktams, naujoj susi­
     dariusioj situacijoj.
-  citata_rodoma: "Kaip kiekviena sutartis\ntaip ir ši pasiliko sutartimi: galingi gyvenimo faktai toliau už\njas nužengia arba jas padaro be vertės, tylinčiais popieriais.\nApie tai leisime kalbėti Vytauto politikos faktams, naujoj susi­\ndariusioj situacijoj."
+  citata_rodoma: |
+    Kaip kiekviena sutartis
+    taip ir ši pasiliko sutartimi: galingi gyvenimo faktai toliau už
+    jas nužengia arba jas padaro be vertės, tylinčiais popieriais.
+    Apie tai leisime kalbėti Vytauto politikos faktams, naujoj susi­
+    dariusioj situacijoj.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

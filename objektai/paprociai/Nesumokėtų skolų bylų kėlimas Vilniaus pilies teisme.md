@@ -98,7 +98,11 @@ Nenurodyta
     paminėti ir kiti Vilniuje vykę teismai. 1750 m. jis rašė, kad neįvardintas ponas Mstislavlio
     vaivados [greičiausiai Jurgio Felicijono Sapiegos] tarnas buvo toks nediskretiškas, kad Vil-
     niaus pilies teisme pateikė kaltinimą dėl nesumokėtos skolos prieš patį M. K. Sapiegą [11].
-  citata_rodoma: "Laiškuose buvo paminėti ir kiti Vilniuje vykę teismai. 1750 m. jis rašė, kad neįvardintas\nponas Mstislavlio vaivados [greičiausiai Jurgio Felicijono Sapiegos] tarnas buvo toks nedis-\nkretiškas, kad Vilniaus pilies teisme pateikė kaltinimą dėl nesumokėtos skolos prieš patį\nM. K. Sapiegą [11]."
+  citata_rodoma: |
+    Laiškuose buvo paminėti ir kiti Vilniuje vykę teismai. 1750 m. jis rašė, kad neįvardintas
+    ponas Mstislavlio vaivados [greičiausiai Jurgio Felicijono Sapiegos] tarnas buvo toks nedis-
+    kretiškas, kad Vilniaus pilies teisme pateikė kaltinimą dėl nesumokėtos skolos prieš patį
+    M. K. Sapiegą [11].
   statusas: verified
   atnaujinta: "2026-07-14 07:43"
   teiginio_tipas: faktas

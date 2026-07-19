@@ -119,7 +119,9 @@ Nenurodyta
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
     Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
     dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
-  citata_rodoma: "Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-\ndalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija."
+  citata_rodoma: |
+    Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
+    dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -54,7 +54,8 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
     Vladislovas buvo Čekų ir Vengrų karalius; kitas jo sūnus, Jonas
     Albrechtas, buvo tėvo įpėdinis — Lenkų karalius, o sūnus Alek-
     sandras — didysis Lietuvos kunigaikštis.
-  citata_rodoma: "Vladislovas buvo Čekų ir Vengrų karalius"
+  citata_rodoma: |
+    Vladislovas buvo Čekų ir Vengrų karalius
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

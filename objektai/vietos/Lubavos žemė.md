@@ -128,7 +128,13 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     žemė pateko ir į Dusburgiečio tekstą.
     Įkurdindami Kryžiuočių ordiną prie Vyslos, Lenkijos feodalai, o visų pirma kunigaikštis
     Konradas, matyt, ketino, jų padedami, ne tik gintis nuo prūsų, bet ir užkariauti Prūsiją.
-  citata_rodoma: "Dėl Lubavos žemės, tapusios vyskupo Kristijono\nvalda, vėliau ginčijosi kryžiuočiai ir Konradas, teisių į šią žemę klausimas buvęs aktualus\nHohenlohės reliacijos sudarymo metu (XIII a. 5-as dešimtmetis), matyti, todėl Lubavos\nžemė pateko ir į Dusburgiečio tekstą.\n  Įkurdindami Kryžiuočių ordiną prie Vyslos, Lenkijos feodalai, o visų pirma kunigaikštis\nKonradas, matyt, ketino, jų padedami, ne tik gintis nuo prūsų, bet ir užkariauti Prūsiją."
+  citata_rodoma: |
+    Dėl Lubavos žemės, tapusios vyskupo Kristijono
+    valda, vėliau ginčijosi kryžiuočiai ir Konradas, teisių į šią žemę klausimas buvęs aktualus
+    Hohenlohės reliacijos sudarymo metu (XIII a. 5-as dešimtmetis), matyti, todėl Lubavos
+    žemė pateko ir į Dusburgiečio tekstą.
+      Įkurdindami Kryžiuočių ordiną prie Vyslos, Lenkijos feodalai, o visų pirma kunigaikštis
+    Konradas, matyt, ketino, jų padedami, ne tik gintis nuo prūsų, bet ir užkariauti Prūsiją.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -146,7 +152,10 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     bažnyčiai ir feodalams, norėjusiems pajungti prūsų naujakrikščius. Popiežiaus bulės
     liudija, kad lenkų feodalai, nepaisydami Kristijono nepritarimo, braudavosi į apkrikštytų
     prūsų žemes.
-  citata_rodoma: "Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir\nLanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono\nvaldžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius."
+  citata_rodoma: |
+    Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
+    Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
+    valdžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -172,7 +181,14 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
-  citata_rodoma: "savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam\npritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia\nesantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,\nviešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius\nvisas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei\nteisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie\nšiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims."
+  citata_rodoma: |
+    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
+    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
+    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
+    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
+    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
+    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
+    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

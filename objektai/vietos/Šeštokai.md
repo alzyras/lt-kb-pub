@@ -73,7 +73,9 @@ media_all_json: |-
     Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio.
-  citata_rodoma: "Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-\nnys nuvyko į Varėną, iš ten per Alytų į Šeštokus."
+  citata_rodoma: |
+    Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
+    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -91,7 +93,11 @@ media_all_json: |-
     geležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje. Tuo
     tarpu nuo Lazdijų plentu atžygiavo [mūsų] 1 batalionas,
     apneštas dulkėmis ir užgrūdintas mūšiuose.
-  citata_rodoma: "Šie batalionai išsikrovė Šeštokų\ngeležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje. Tuo\ntarpu nuo Lazdijų plentu atžygiavo [mūsų] 1 batalionas,\napneštas dulkėmis ir užgrūdintas mūšiuose."
+  citata_rodoma: |
+    Šie batalionai išsikrovė Šeštokų
+    geležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje. Tuo
+    tarpu nuo Lazdijų plentu atžygiavo [mūsų] 1 batalionas,
+    apneštas dulkėmis ir užgrūdintas mūšiuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

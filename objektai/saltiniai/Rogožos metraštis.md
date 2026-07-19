@@ -89,7 +89,12 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     pabrėžia Algirdo „mokėjimą kariauti“,
     „kariavimą gudrumu“, iškeliami jo kari-
     niai sugebėjimai.
-  citata_rodoma: "Plačiausiai Lietuvos kariuomenės pirmąjį žygį į Maskvą nu-\nšvietusio Rogožos metraščio autorius\npabrėžia Algirdo „mokėjimą kariauti“,\n„kariavimą gudrumu“, iškeliami jo kari-\nniai sugebėjimai."
+  citata_rodoma: |
+    Plačiausiai Lietuvos kariuomenės pirmąjį žygį į Maskvą nu-
+    švietusio Rogožos metraščio autorius
+    pabrėžia Algirdo „mokėjimą kariauti“,
+    „kariavimą gudrumu“, iškeliami jo kari-
+    niai sugebėjimai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -115,7 +120,13 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     šimtmečiai) įrašytas „Pasakojimas apie
     Podolę“ - plačiausiai kalbantis šaltinis
     šia tema.
-  citata_rodoma: "Mėlynųjų Vandenų įvykių pagrindi-\nniai šaltiniai: žinios xv a. pirmosios pusės\nrusų Tverės sąvade - Rogožos metraštyje\nprieš 6871 (1363) m. sakoma, kad rudenį\nAlgirdas „Mėlynuosius Vandenis ir Baltąją\npakrantę nukariavo“."
+  citata_rodoma: |
+    Mėlynųjų Vandenų įvykių pagrindi-
+    niai šaltiniai: žinios xv a. pirmosios pusės
+    rusų Tverės sąvade - Rogožos metraštyje
+    prieš 6871 (1363) m. sakoma, kad rudenį
+    Algirdas „Mėlynuosius Vandenis ir Baltąją
+    pakrantę nukariavo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -112,7 +112,8 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     1864 me­
     tais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir
     tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
-  citata_rodoma: "1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus."
+  citata_rodoma: |
+    1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -134,7 +135,8 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     nusipirko dvylika hektarų žemės.
     Padedamas brolio pasistatė trobas
     ir gyveno kaip kiti ūkininkai.
-  citata_rodoma: "Užėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės. Padedamas brolio pasistatė trobas ir gyveno kaip kiti ūkininkai."
+  citata_rodoma: |
+    Užėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės. Padedamas brolio pasistatė trobas ir gyveno kaip kiti ūkininkai.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -153,7 +155,8 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     Petras.
     Uršulė žinojo, kad Ona ir Petras sau artimi, tos dvi mergai-
     ti apie širdies reikalus šnekėjosi atvirai.
-  citata_rodoma: "Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras. Uršulė žinojo, kad Ona ir Petras sau artimi."
+  citata_rodoma: |
+    Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras. Uršulė žinojo, kad Ona ir Petras sau artimi.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -173,7 +176,8 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     Girdėta, jausta ir svajota susipynė vienumon ir virto sapnu.
     Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdy-
     je, prieš užgavėnes, vedė Oną.
-  citata_rodoma: "Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną."
+  citata_rodoma: |
+    Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

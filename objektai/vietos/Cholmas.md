@@ -67,7 +67,13 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
     Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
     tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
     skirą Lietuvai stačiatikių metropoliją.
-  citata_rodoma: "Susirinkusieji stačiatikių\nvyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,\nCholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo\nKonstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­\ntropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­\nskirą Lietuvai stačiatikių metropoliją."
+  citata_rodoma: |
+    Susirinkusieji stačiatikių
+    vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,
+    Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo
+    Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
+    tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
+    skirą Lietuvai stačiatikių metropoliją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

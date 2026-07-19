@@ -95,7 +95,12 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
     Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
     iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
     des deutschen Ritterordens_ (1857-1859) ir CDPr.
-  citata_rodoma: "Buvęs\nKaraliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte\nPreusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva\niki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte\ndes deutschen Ritterordens_ (1857-1859) ir CDPr."
+  citata_rodoma: |
+    Buvęs
+    Karaliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte
+    Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
+    iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
+    des deutschen Ritterordens_ (1857-1859) ir CDPr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

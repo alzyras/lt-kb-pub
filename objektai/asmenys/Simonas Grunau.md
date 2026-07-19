@@ -404,7 +404,11 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
     Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
     kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
     vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
-  citata_rodoma: "Pasak\nSimono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,\nkur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-\nvų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus."
+  citata_rodoma: |
+    Pasak
+    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
+    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
+    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -423,7 +427,11 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
     laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
     Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
     m.)82.
-  citata_rodoma: "Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.\n3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų\nredakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių\nlaikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81."
+  citata_rodoma: |
+    Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
+    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
+    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
+    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -469,7 +477,17 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
     Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
     prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­
     mokslų ir pamokymų, nesiliovė po juo garbinti dievų.
-  citata_rodoma: "Šio milžiniš­\nko medžio kelmo skersmuo buvo šešios uolektys, šakos suda­\nrė tris tarpsnius, arba aukštus, ir buvo tokios tankios ir apau­\ngusios lapais, kad neprasiskverbdavo nei lietus, nei sniegas.\nNuostabiausias dalykas, ką aiškiai patvirtina seniausios kroni­\nkos, iš kurių rašė savo kroniką Simonas Grunau, kad Romo­\nvės ąžuolas žaliavo vasarą bei žiemą ir lapai visi nuo jo niekad\nnenukrisdavo. Tą ypatybę kronikininkai priskiria velnio galy­\nbei, manydami, kad velniai buvo garbinami toje šventykloje\nšalies dievų pavidalu."
+  citata_rodoma: |
+    Šio milžiniš­
+    ko medžio kelmo skersmuo buvo šešios uolektys, šakos suda­
+    rė tris tarpsnius, arba aukštus, ir buvo tokios tankios ir apau­
+    gusios lapais, kad neprasiskverbdavo nei lietus, nei sniegas.
+    Nuostabiausias dalykas, ką aiškiai patvirtina seniausios kroni­
+    kos, iš kurių rašė savo kroniką Simonas Grunau, kad Romo­
+    vės ąžuolas žaliavo vasarą bei žiemą ir lapai visi nuo jo niekad
+    nenukrisdavo. Tą ypatybę kronikininkai priskiria velnio galy­
+    bei, manydami, kad velniai buvo garbinami toje šventykloje
+    šalies dievų pavidalu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -496,7 +514,15 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
     kusi pusė sutikdavo su priesaikos žodžiais, tai yra su kepurės
     padavimu, priesaiką priimdavo, bet jai būtinai reikėjo sumokėti
     rublį grašiais, kurie buvo kepurėje.
-  citata_rodoma: "Kronikininkas\nGrunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai\npatekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­\nkūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis\ntaip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­\ndilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė\nuž plaukų, kitiems skaldė antausius, trečius gerokai apmušda­\nvo lazda."
+  citata_rodoma: |
+    Kronikininkas
+    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
+    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
+    kūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis
+    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
+    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
+    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
+    vo lazda.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -523,7 +549,15 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
     kusi pusė sutikdavo su priesaikos žodžiais, tai yra su kepurės
     padavimu, priesaiką priimdavo, bet jai būtinai reikėjo sumokėti
     rublį grašiais, kurie buvo kepurėje.
-  citata_rodoma: "Tą išpažintį jis\ntaip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­\ndilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė\nuž plaukų, kitiems skaldė antausius, trečius gerokai apmušda­\nvo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą. Į mote­\nris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­\nžintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug\nkitokių pamokymų."
+  citata_rodoma: |
+    Tą išpažintį jis
+    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
+    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
+    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
+    vo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą. Į mote­
+    ris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­
+    žintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug
+    kitokių pamokymų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -561,7 +595,11 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
     šeimos herbai egzistavo*. Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
     rios tais herbais naudojosi.
-  citata_rodoma: "Ant tos vėliavos\nbuvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­\ntelės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-\n6 Hartknoch."
+  citata_rodoma: |
+    Ant tos vėliavos
+    buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
+    telės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-
+    6 Hartknoch.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -619,7 +657,17 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
     skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
     savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
     jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
-  citata_rodoma: "1.\nSeniausias žinomas šito šaltinis yra Simonas Grunau,\nnaujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš\ntikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­\nšantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug\nužsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais\nnekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­\nma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų\narba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­\n11 Sirvydo žodynas."
+  citata_rodoma: |
+    1.
+    Seniausias žinomas šito šaltinis yra Simonas Grunau,
+    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
+    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
+    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
+    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
+    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
+    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
+    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
+    11 Sirvydo žodynas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

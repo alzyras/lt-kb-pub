@@ -87,7 +87,13 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
     50 Dono kazokų - iš viso per 1500 karių.
     Z. Sierakausko sukilėlių skaičius viršijo
     gen. mjr.
-  citata_rodoma: "Rusų pajėgos\nPrieš Sierakausko sukilėlius pasiųstoje\ngen. mjr. Ivano Ganeckio rinktinėje\nbuvo 5 kuopos pėstininkų, eskadronas\nulonų, % eskadrono gvardijos kazokų ir\n50 Dono kazokų - iš viso per 1500 karių."
+  citata_rodoma: |
+    Rusų pajėgos
+    Prieš Sierakausko sukilėlius pasiųstoje
+    gen. mjr. Ivano Ganeckio rinktinėje
+    buvo 5 kuopos pėstininkų, eskadronas
+    ulonų, % eskadrono gvardijos kazokų ir
+    50 Dono kazokų - iš viso per 1500 karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -109,7 +115,14 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
     įsakė gen. mjr. I. Ganeckiui žygiuoti į
     Ukmergės apskritį Anykščių kryptimi ir
     sunaikinti ten susibūrusius sukilėlius.
-  citata_rodoma: "Mūšis\nSukilėliams esant Teresboro stovykloje,\nŠiaurės Vakarų krašto generalgubernato-\nrius V. Nazimovas balandžio pabaigoje\nįsakė gen. mjr. I. Ganeckiui žygiuoti į\nUkmergės apskritį Anykščių kryptimi ir\nsunaikinti ten susibūrusius sukilėlius."
+  citata_rodoma: |
+    Mūšis
+    Sukilėliams esant Teresboro stovykloje,
+    Šiaurės Vakarų krašto generalgubernato-
+    rius V. Nazimovas balandžio pabaigoje
+    įsakė gen. mjr. I. Ganeckiui žygiuoti į
+    Ukmergės apskritį Anykščių kryptimi ir
+    sunaikinti ten susibūrusius sukilėlius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

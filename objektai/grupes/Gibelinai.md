@@ -110,7 +110,12 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
     kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
     bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento
     Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
-  citata_rodoma: "Apie gibelinus ir gvelfus\n\n  1228 viešpaties metais Italijoje radosi gibelinų  ir gvelfų partijos; šitai yra vardai\ndviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią\n(Ptol. 21,27)."
+  citata_rodoma: |
+    Apie gibelinus ir gvelfus
+
+      1228 viešpaties metais Italijoje radosi gibelinų  ir gvelfų partijos; šitai yra vardai
+    dviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią
+    (Ptol. 21,27).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -131,7 +136,14 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
     ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
     Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
     ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas.
-  citata_rodoma: "124. Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų\n\n  1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.\n\n\n\n          125."
+  citata_rodoma: |
+    124. Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų
+
+      1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.
+
+
+
+              125.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -149,7 +149,16 @@ Nenurodyta
     d id žiu o ju
     k u n ig a ik ščiu
     6 5 7
-  citata_rodoma: "Be to, sutarė teismų reikalus sutvarkyti iki\ngarsios Rusioje palaimintosios mergelės globėjos šven­\ntės, sutikdamas, kad teismo posėdžiuose dalyvautų\nMackevičius. Karaliaus legatai jau keliavo namo, kai\nMaskvą pasiekė žinia, jog valachų pasiuntiniai sulai­\nkyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas\npalydovas maskvėnas gavęs įsakymą grįžti į Maskvą.\nPritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­\nliaus pasiuntinius Možaiske."
+  citata_rodoma: |
+    Be to, sutarė teismų reikalus sutvarkyti iki
+    garsios Rusioje palaimintosios mergelės globėjos šven­
+    tės, sutikdamas, kad teismo posėdžiuose dalyvautų
+    Mackevičius. Karaliaus legatai jau keliavo namo, kai
+    Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai­
+    kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas
+    palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.
+    Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
+    liaus pasiuntinius Možaiske.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

@@ -81,7 +81,20 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
     kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­
     menės jis nusiaubė Mazoviją, o su likusiais dviem treč­
     daliais— Kulmo žemę.
-  citata_rodoma: "Kaip tei­\ngiama įvairių rašytojų, Ro­\nmuntas paliko penketą sūnų, \ntačiau artesnis tiesai vos ke­\nlių šaltinių minimas pasakojimas, jog jis mirė bevai­\nkis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­\nkio amžiaus, kad jauniausias iš jų, Traidenis, Romun- \ntui dar gyvam esant, vadovavo kariuomenei kaip \nvyriausiasis vadas. Vargu ar galima patikėti, kad per \ntokį trumpą laiką po Šventaragio mirties (tai yra vos \nper dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­\ndžiais jaunikaičiais, bet ir vyrais, galinčiais valstybę \nvaldyti."
+  citata_rodoma: |
+    Kaip tei­
+    giama įvairių rašytojų, Ro­
+    muntas paliko penketą sūnų,
+    tačiau artesnis tiesai vos ke­
+    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
+    kis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­
+    kio amžiaus, kad jauniausias iš jų, Traidenis, Romun-
+    tui dar gyvam esant, vadovavo kariuomenei kaip
+    vyriausiasis vadas. Vargu ar galima patikėti, kad per
+    tokį trumpą laiką po Šventaragio mirties (tai yra vos
+    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
+    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
+    valdyti.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

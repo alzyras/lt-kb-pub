@@ -324,7 +324,25 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
     bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
     atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
-  citata_rodoma: "- medinės bažnyčios ir bazilijo­\nnų vienuolyno įkūrimą Vilniuje pri­\nskiria Vitebsko kunigaikštytei Juli-\n27\n\n## Puslapis 44\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nsykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant \nVilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­\nmėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­\nkalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­\nmenė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o \ngal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus, \nsmurtu užėmusi pranciškonų vienuolyną, septynis vienuo­\nlius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos \nbėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms \natminti stovi kryžiai, Vilnios upės bangose žūtį rado19."
+  citata_rodoma: |
+    - medinės bažnyčios ir bazilijo­
+    nų vienuolyno įkūrimą Vilniuje pri­
+    skiria Vitebsko kunigaikštytei Juli-
+    27
+
+    ## Puslapis 44
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
+    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
+    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
+    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
+    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
+    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
+    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
+    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
+    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
+    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -360,7 +378,28 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
     ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
     taus žodį.
-  citata_rodoma: "Mat Goštautas buvo la-\nŠ v e n to\nP ra n cišk a u s\nbai įtakingas ir galingas Lie-\no id in o  b ro lia i n u kan -\ntuvoje: kai Algirdas kur iš-\nk in a m i V iln iu je\nvykdavo, jis valdydavo val­\nstybę. Kol jis pats gyveno\nVilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,\ntačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­\nkėję, arba Poleksijoje), minia, kažin kieno sukursty­\nta, žiauriai su jais susidorojo. Vienas būrelis iš sep­\ntynių vienuolių buvo prievarta išvilktas iš namų į aikš­\ntę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,\ntuo būdu pašventindami savo krauju lietuvių žemes\nKristaus mokslo sėjai; kitas būrelis, taip pat iš septy­\nnių vienuolių, buvo nutemptas į kalną, kurį žmonės\nvadina Plikuoju, čia juos prie kryžių pririšo ir nuo\nstataus kalno šlaito nustūmė į papėdėje tekančią Vil­\nnią."
+  citata_rodoma: |
+    Mat Goštautas buvo la-
+    Š v e n to
+    P ra n cišk a u s
+    bai įtakingas ir galingas Lie-
+    o id in o  b ro lia i n u kan -
+    tuvoje: kai Algirdas kur iš-
+    k in a m i V iln iu je
+    vykdavo, jis valdydavo val­
+    stybę. Kol jis pats gyveno
+    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
+    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
+    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
+    ta, žiauriai su jais susidorojo. Vienas būrelis iš sep­
+    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
+    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
+    tuo būdu pašventindami savo krauju lietuvių žemes
+    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
+    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
+    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
+    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
+    nią.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

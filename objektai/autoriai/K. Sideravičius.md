@@ -66,7 +66,10 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
     _gynimas_ [I960]^107. K. Sideravičius: _Nuo Durbės iki Žal­
     girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
     _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr).
-  citata_rodoma: "K. Sideravičius: _Nuo Durbės iki Žal­\ngirio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :\n_Lietuviu karas su kryžiuočiais,_ red."
+  citata_rodoma: |
+    K. Sideravičius: _Nuo Durbės iki Žal­
+    girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
+    _Lietuviu karas su kryžiuočiais,_ red.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

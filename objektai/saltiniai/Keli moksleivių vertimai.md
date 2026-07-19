@@ -57,7 +57,11 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
     įvairiomis temomis.
     „Šie moksleivau vertimai (rašo pats Rygiškiu Jonas) yra su­
     daryti iš Aleks.
-  citata_rodoma: "Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis\nįvairiomis temomis.\n„Šie moksleivau vertimai (rašo pats Rygiškiu Jonas) yra su­\ndaryti iš Aleks."
+  citata_rodoma: |
+    Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis
+    įvairiomis temomis.
+    „Šie moksleivau vertimai (rašo pats Rygiškiu Jonas) yra su­
+    daryti iš Aleks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

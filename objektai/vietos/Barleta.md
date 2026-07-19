@@ -69,8 +69,13 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
     pietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,
     Adrijos pakrantė).
 
-    jam nusivylimą? Tikrai ne. Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
-  citata_rodoma: "158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210—1239) mirė Salerne (į\npietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,\nAdrijos pakrantė).\n\njam nusivylimą?"
+    jam nusivylimą?
+  citata_rodoma: |
+    158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210—1239) mirė Salerne (į
+    pietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,
+    Adrijos pakrantė).
+
+    jam nusivylimą?
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -121,7 +121,11 @@ Nenurodyta
     gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
     lių armotų.
     Dabar Kęstučio padėtis žymiai pablogėjo.
-  citata_rodoma: "Skir­\ngaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­\nlių armotų.\nDabar Kęstučio padėtis žymiai pablogėjo."
+  citata_rodoma: |
+    Skir­
+    gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
+    lių armotų.
+    Dabar Kęstučio padėtis žymiai pablogėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

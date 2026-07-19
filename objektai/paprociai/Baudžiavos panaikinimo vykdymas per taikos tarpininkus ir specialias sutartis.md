@@ -82,7 +82,10 @@ Nenurodyta
     valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau
     praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
     vos tiktai keletas.
-  citata_rodoma: "Su valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau\npraėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado\nvos tiktai keletas."
+  citata_rodoma: |
+    Su valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau
+    praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
+    vos tiktai keletas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -105,7 +108,11 @@ Nenurodyta
     sios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais
     gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
     daryti sutartis.
-  citata_rodoma: "Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamo-\nsios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais\ngali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo\ndaryti sutartis."
+  citata_rodoma: |
+    Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamo-
+    sios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais
+    gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
+    daryti sutartis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

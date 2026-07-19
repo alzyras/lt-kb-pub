@@ -152,7 +152,10 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
     senovėje“ — beveik identiškai
     S. Daukanto tekstui „Pasakojimas apie veikalus lietuvių
     tautos senovėje“.
-  citata_rodoma: "„Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“\naiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-\nkalu“, „dziejopis“ — „wejkaluraszytojas“ ir t. t."
+  citata_rodoma: |
+    „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
+    aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-
+    kalu“, „dziejopis“ — „wejkaluraszytojas“ ir t. t.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

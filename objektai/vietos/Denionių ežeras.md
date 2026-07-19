@@ -73,7 +73,18 @@ media_all_json: |-
     Didžiausias laisvės kovotojų ir NKVD susi-
     rėmimas įvyko 1949 m. lapkričio 1-2 dieno-
     mis, kai partizanų bunkeriai buvo išduoti.
-  citata_rodoma: "Kautynių metu iš bunkerio pavyko išsiveržti\nJuozui Kemekliui-Rokui, kuris prasiveržė\nper apsupimo žiedą ir atbėgo į Pamaleišio\nkaimo Juodelių sodybą. Čia sodybos šeimi-\nninkams papasakojo, kad iš balso atpažino šį\nbunkerį išdavusį Vladą Karosą-Vilką, suimtą\nTarzano bunkeryje prie Denionių ežero.\n\nMūšio padariniai\nDidžiausias laisvės kovotojų ir NKVD susi-\nrėmimas įvyko 1949 m."
+  citata_rodoma: |
+    Kautynių metu iš bunkerio pavyko išsiveržti
+    Juozui Kemekliui-Rokui, kuris prasiveržė
+    per apsupimo žiedą ir atbėgo į Pamaleišio
+    kaimo Juodelių sodybą. Čia sodybos šeimi-
+    ninkams papasakojo, kad iš balso atpažino šį
+    bunkerį išdavusį Vladą Karosą-Vilką, suimtą
+    Tarzano bunkeryje prie Denionių ežero.
+
+    Mūšio padariniai
+    Didžiausias laisvės kovotojų ir NKVD susi-
+    rėmimas įvyko 1949 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

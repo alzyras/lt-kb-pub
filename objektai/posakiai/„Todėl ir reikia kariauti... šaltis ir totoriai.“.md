@@ -63,7 +63,13 @@ Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą 
     Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
     gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
     apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
-  citata_rodoma: "Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,\ndažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro\nsaviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,\nVytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,\ngausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės\napie mus, kad mus nugalėjo du priešai: šaltis ir totoriai."
+  citata_rodoma: |
+    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
+    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

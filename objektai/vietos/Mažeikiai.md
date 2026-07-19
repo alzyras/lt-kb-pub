@@ -82,8 +82,13 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
     teritoriją (Priekulę) atvyksta į Kretingą.
 
     @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
-    (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.,
-  citata_rodoma: "@ 1. Budrio traukinys per Mažeikius, per Latvijos\nteritoriją (Priekulę) atvyksta į Kretingą.\n\n@ Geležinkelio linija tarp Klaipėdos ir Šiaulių\n(Kretinga-Kužiai) buvo baigta tiesti tik 1936 m."
+    (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.
+  citata_rodoma: |
+    @ 1. Budrio traukinys per Mažeikius, per Latvijos
+    teritoriją (Priekulę) atvyksta į Kretingą.
+
+    @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
+    (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

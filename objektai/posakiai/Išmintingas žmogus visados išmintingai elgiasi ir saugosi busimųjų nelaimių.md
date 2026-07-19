@@ -52,13 +52,19 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    15. Apie karo laivus ir markgrafo pasitraukimą
+    Apie karo laivus ir markgrafo pasitraukimą
 
       Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių. Taigi
     ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
     mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
     „Maldininke, nuramink žęmę“.
-  citata_rodoma: "Apie karo laivus ir markgrafo pasitraukimą\n\n  Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių. Taigi\nir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų\nmažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia\n„Maldininke, nuramink žęmę“."
+  citata_rodoma: |
+    Apie karo laivus ir markgrafo pasitraukimą
+
+      Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių. Taigi
+    ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
+    mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
+    „Maldininke, nuramink žęmę“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

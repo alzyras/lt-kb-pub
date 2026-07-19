@@ -61,7 +61,11 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
 
     (^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.;** **_Deutsche Reichstags­
     akten_** **, hgg.
-  citata_rodoma: "Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­\nną tokiais žodžiais : «Kryžiuočiai yra svetimšaliai ir ateiviai iš\n\n(^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p."
+  citata_rodoma: |
+    Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­
+    ną tokiais žodžiais : «Kryžiuočiai yra svetimšaliai ir ateiviai iš
+
+    (^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

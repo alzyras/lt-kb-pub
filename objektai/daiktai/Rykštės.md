@@ -117,7 +117,12 @@ Nenurodyta
     gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
     tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
     tai būtų padarę rašydami savotiškoje kalboje“15.
-  citata_rodoma: "1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­\nviką. Apkaltintas už priešvalstybinę agitaciją ir siekimą sukur­\nti slaptą organizaciją, jis tardomas ir kalinamas. Viešai išplak­\ntą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­\nčią rusų armiją. Tai buvo didelis smūgis tėvui."
+  citata_rodoma: |
+    1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­
+    viką. Apkaltintas už priešvalstybinę agitaciją ir siekimą sukur­
+    ti slaptą organizaciją, jis tardomas ir kalinamas. Viešai išplak­
+    tą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­
+    čią rusų armiją. Tai buvo didelis smūgis tėvui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

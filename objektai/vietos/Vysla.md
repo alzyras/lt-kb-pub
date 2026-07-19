@@ -1022,7 +1022,12 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
     prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
     plaukioti Vysla aukštyn ir žemyn.
-  citata_rodoma: "Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau\npradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir\nNogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo\nbrolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,\nišsivarydavo juos į nelaisvę ar nugalabydavo."
+  citata_rodoma: |
+    Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
+    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
+    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
+    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
+    išsivarydavo juos į nelaisvę ar nugalabydavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1049,7 +1054,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     282  Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas
     Sventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį
     (PKD, p. 44).
-  citata_rodoma: "Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,\nkurias vėjas nuneša nuo žemės paviršiaus! Pakilo stiprus vėjas ir nunešė visus tuos\nlaivus toli nuo kranto, ir nutiko jiems su tais laivais taip pat kaip ir tam netikėliui saracėnų\nkaraliui, po pralaimėto mūšio bėgusiam nuo Karolio. Neradę laivų, jie supuolė  į Vyslą\nir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė\nkalavijo282."
+  citata_rodoma: |
+    Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
+    kurias vėjas nuneša nuo žemės paviršiaus! Pakilo stiprus vėjas ir nunešė visus tuos
+    laivus toli nuo kranto, ir nutiko jiems su tais laivais taip pat kaip ir tam netikėliui saracėnų
+    karaliui, po pralaimėto mūšio bėgusiam nuo Karolio. Neradę laivų, jie supuolė  į Vyslą
+    ir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė
+    kalavijo282.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1076,7 +1087,18 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
     Torunės, Karaliaučiaus, Berlyno ir kt. nuorašus parengė ir 1861 m. „Scriptores
     rerum Prussicarum“ serijoje paskelbė M. Tepenas.
-  citata_rodoma: "Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui\nir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių\nfeodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,\nniokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,\nNevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės\nkovą prieš agresiją.\n  Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių\nsluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi\nviduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką\nfanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių\nfeodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą."
+  citata_rodoma: |
+    Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
+    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+      Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
+    viduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių
+    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1118,7 +1140,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
     Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
     munės durpynuose.
-  citata_rodoma: "Lie­\ntuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­\ndrinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių\nyra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,\nNerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­\nmunės durpynuose."
+  citata_rodoma: |
+    Lie­
+    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
+    drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
+    yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
+    munės durpynuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1137,7 +1165,11 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     įvykdytas. Susijungusios Červinske prie Vyslos lietuvių ir lenkų
     jėgos turėjo žygiuoti į Marienburgą^5. Pusbrolių kariuomenės buvo
     surinktos iš savų žemių.
-  citata_rodoma: "sutarė _bendrą_ karinį planą, kuris už pusmečio buvo\nįvykdytas. Susijungusios Červinske prie Vyslos lietuvių ir lenkų\njėgos turėjo žygiuoti į Marienburgą^5. Pusbrolių kariuomenės buvo\nsurinktos iš savų žemių."
+  citata_rodoma: |
+    sutarė _bendrą_ karinį planą, kuris už pusmečio buvo
+    įvykdytas. Susijungusios Červinske prie Vyslos lietuvių ir lenkų
+    jėgos turėjo žygiuoti į Marienburgą^5. Pusbrolių kariuomenės buvo
+    surinktos iš savų žemių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1161,7 +1193,18 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     įplaukė į Nemuną. Mūsų istorikai
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
-  citata_rodoma: "9 4 .\n52\nTas žygis buvo paskubomis ir slap­\nta suruoštas, ir todėl didysis magist­\nras tuokart mažai teturėjo svetimša­\nlių, juk nesigarsino po visą Europą, \no slapčia iš Marienburgo išplaukė \nVysla laivais, paskui jūros įlanka \nįplaukė į Nemuną. Mūsų istorikai \nbendrais bruožais ir ne taip išsamiai \napie šitai pasakoja."
+  citata_rodoma: |
+    9 4 .
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1202,7 +1245,15 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
     e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
-  citata_rodoma: "Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,\no prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,\nLietuvos ir Kuršo187."
+  citata_rodoma: |
+    Prūsijos žemės aprašymas
+
+       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
+    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
+    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
+    Lietuvos ir Kuršo187.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1230,7 +1281,18 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
     iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
     išsaugojo gryniausius savo padermės bruožus.
-  citata_rodoma: "Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba\ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos\niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki\nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,\nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu\npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,\niki pat Baltijos jūros siekianti, kaip lietuvių genties centras,\nišsaugojo gryniausius savo padermės bruožus."
+  citata_rodoma: |
+    Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1256,7 +1318,20 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     bėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis
     jais pasprukti. Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
     kurias vėjas nuneša nuo žemės paviršiaus!
-  citata_rodoma: "——————————————————\n\n  Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo\nklastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs\ntinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,\ngalėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po\npaskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per\nVyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o\nvisa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę\ndrauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,\nkurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis\nmeldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo\ntėvonijos paniekinti“."
+  citata_rodoma: |
+    ——————————————————
+
+      Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo
+    klastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs
+    tinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,
+    galėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po
+    paskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per
+    Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o
+    visa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
+    drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
+    kurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis
+    meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
+    tėvonijos paniekinti“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1275,7 +1350,11 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
     Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
     Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai.
-  citata_rodoma: "Tuo tarpu Treniota su žemaičiais žygiavo\ntolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo\nKulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.\nTai buvo tik siaubiamieji, o ne užkariaujamieji žygiai."
+  citata_rodoma: |
+    Tuo tarpu Treniota su žemaičiais žygiavo
+    tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
+    Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
+    Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1314,7 +1393,11 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais.
-  citata_rodoma: "Išplaukęs Vysla į jūrą,\njis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-\nvykusius labai neskersuotų, jis atleido visus savo palydovus ir\nliko tik su dviem kunigais."
+  citata_rodoma: |
+    Išplaukęs Vysla į jūrą,
+    jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
+    vykusius labai neskersuotų, jis atleido visus savo palydovus ir
+    liko tik su dviem kunigais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1439,7 +1522,14 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     ties, bet nesuakmenėjusių. Tų medžių kilmės tyrinėtojas
     dar neatskleidė, bet iš pirmo žvilgsnio ir neįsigilinus jie
     laikomi geologiniais dariniais, imituojančiais medžius.
-  citata_rodoma: "Tai ir pri­\nvertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net\nIlyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­\nstojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­\ntis į Rytus, neabejotinai buvo priversti brautis kitapus\nKarpatų. Tai daryti skatino skitu arba genčių, judėjusių\npo Skitų karalystės žlugimo, baimė."
+  citata_rodoma: |
+    Tai ir pri­
+    vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
+    Ilyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­
+    stojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­
+    tis į Rytus, neabejotinai buvo priversti brautis kitapus
+    Karpatų. Tai daryti skatino skitu arba genčių, judėjusių
+    po Skitų karalystės žlugimo, baimė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1462,7 +1552,15 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     reiga. Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
     vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
     rijoje Romuntą.
-  citata_rodoma: "Lenkų ¡grobiu\ntapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­\nlėjo ¡prieš jų valių. Visi jie buvo pakrikštyti ir kartu su\ngyvulių bandomis ir grobiu išvesti už Vyslos.\n134\nTie, kurie iš jotvingių dar išliko po šio liūdno įvykio,\nklajojo be jokių ryšių su kitais kraštiečiais, be valdžios,\nvyresnybės likęs kraštas buvo panašus į nykią dykrą."
+  citata_rodoma: |
+    Lenkų ¡grobiu
+    tapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­
+    lėjo ¡prieš jų valių. Visi jie buvo pakrikštyti ir kartu su
+    gyvulių bandomis ir grobiu išvesti už Vyslos.
+    134
+    Tie, kurie iš jotvingių dar išliko po šio liūdno įvykio,
+    klajojo be jokių ryšių su kitais kraštiečiais, be valdžios,
+    vyresnybės likęs kraštas buvo panašus į nykią dykrą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

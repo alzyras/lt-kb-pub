@@ -64,7 +64,16 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
 
 
       36.
-  citata_rodoma: "Šitai karaliui išpranašavo\nšventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio\nnugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų\npastatydinti bažnyčią, o tas šitaip ir padarė, būtent: pastatė cistersų ordino vienuolyną\nRevelyje, kuris yra Livonijos žemėje.\n\n\n\n  36."
+  citata_rodoma: |
+    Šitai karaliui išpranašavo
+    šventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio
+    nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų
+    pastatydinti bažnyčią, o tas šitaip ir padarė, būtent: pastatė cistersų ordino vienuolyną
+    Revelyje, kuris yra Livonijos žemėje.
+
+
+
+      36.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

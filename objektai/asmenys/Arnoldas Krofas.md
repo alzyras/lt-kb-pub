@@ -85,7 +85,12 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
     daug ginklanešių, eidavo į tas vietas, kur tikėdavosi rasti besislapstančiųjų, ir, taikingais
     žodžiais pridengęs klastą, garsiai vokiškai sakydavo: „Jei kas čia slapstosi, tegu išeina
     be baimės, nes netikėlių kariuomenė jau atsitraukė“.
-  citata_rodoma: "Kai šitai\npadarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga\ngynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas\nKrofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,\nkiti pasitraukė nebaigę reikalo."
+  citata_rodoma: |
+    Kai šitai
+    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
+    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
+    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
+    kiti pasitraukė nebaigę reikalo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

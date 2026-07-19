@@ -96,7 +96,11 @@ Nenurodyta
     dyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų
     vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
     veckis tapo karalium.
-  citata_rodoma: "Didikai bandė šitą elekciją sutruk-\ndyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų\nvadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-\nveckis tapo karalium."
+  citata_rodoma: |
+    Didikai bandė šitą elekciją sutruk-
+    dyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų
+    vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
+    veckis tapo karalium.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

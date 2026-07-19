@@ -73,7 +73,15 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
     prieiti kaimynystėje gyvenančių tikėjimo priešų. Mat ten esama pelkių ir kitų pavojingų
     vietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma
     pereiti.
-  citata_rodoma: "Apie Brandenburgo markgrafo atvykimą\n\n   Tais  metais,  tai  yra 1255  viešpaties  metais339, valdovas  Jonas, Brandenburgo\nmarkgrafas, didžiai įgudęs  ir prityręs karvedys, žiemą atžygiavo  į Prūsijos žemę su\nstipria kariuomene, gerai viskuo aprūpinta; kadangi žiema pasitaikė šilta, jis negalėjo\nprieiti kaimynystėje gyvenančių tikėjimo priešų. Mat ten esama pelkių ir kitų pavojingų\nvietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma\npereiti."
+  citata_rodoma: |
+    Apie Brandenburgo markgrafo atvykimą
+
+       Tais  metais,  tai  yra 1255  viešpaties  metais339, valdovas  Jonas, Brandenburgo
+    markgrafas, didžiai įgudęs  ir prityręs karvedys, žiemą atžygiavo  į Prūsijos žemę su
+    stipria kariuomene, gerai viskuo aprūpinta; kadangi žiema pasitaikė šilta, jis negalėjo
+    prieiti kaimynystėje gyvenančių tikėjimo priešų. Mat ten esama pelkių ir kitų pavojingų
+    vietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma
+    pereiti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

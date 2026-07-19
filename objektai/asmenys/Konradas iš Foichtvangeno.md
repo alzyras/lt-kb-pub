@@ -179,7 +179,16 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
     būtinybės verčiami, devynis kartus su jais stojo į kovą.
-  citata_rodoma: "Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į\nPrūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,\nišvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir\npaguodė juos išmintingais žodžiais ir pamokymais.\n\n\n\n\n             265 (258)."
+  citata_rodoma: |
+    Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
+    Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
+    išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir
+    paguodė juos išmintingais žodžiais ir pamokymais.
+
+
+
+
+                 265 (258).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -217,7 +226,13 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai
     pasirodęs viešpats apreiškė regėjime šį pralaimėjimą. Ji matė brolius bei jų ginklanešius
     kovojančius su netikėliais ir žūstančius ir jų sielas angelų nešamas į dangų.
-  citata_rodoma: "Apie tą patį\n\n  Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado\niš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai\npasirodęs viešpats apreiškė regėjime šį pralaimėjimą. Ji matė brolius bei jų ginklanešius\nkovojančius su netikėliais ir žūstančius ir jų sielas angelų nešamas į dangų."
+  citata_rodoma: |
+    Apie tą patį
+
+      Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado
+    iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai
+    pasirodęs viešpats apreiškė regėjime šį pralaimėjimą. Ji matė brolius bei jų ginklanešius
+    kovojančius su netikėliais ir žūstančius ir jų sielas angelų nešamas į dangų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -237,7 +252,16 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
     metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
     494  Žuvo 1279.111.5 prie dab.
-  citata_rodoma: "Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais\n\n   Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.\nMirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,\nLivonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių\npasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties\nmetais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,\n\n  494  Žuvo 1279."
+  citata_rodoma: |
+    Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+
+       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
+
+      494  Žuvo 1279.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -189,7 +189,14 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     bingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą
     idealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų
     buvo suklota ir vis tebekovojama laisvame pasaulyje.
-  citata_rodoma: "Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-\nties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-\nmenį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų\npadėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-\nbingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą\nidealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų\nbuvo suklota ir vis tebekovojama laisvame pasaulyje."
+  citata_rodoma: |
+    Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-
+    ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-
+    menį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų
+    padėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-
+    bingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą
+    idealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų
+    buvo suklota ir vis tebekovojama laisvame pasaulyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -209,7 +216,14 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     ir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo
     vedamoji mintis per visus šimtmečius. Ji paryškinta politinio,
     religinio, kultūrinio bei ūkinio gyvenimo faktais.
-  citata_rodoma: "Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos\nribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-\nčius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_\nlietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo\nir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo\nvedamoji mintis per visus šimtmečius. Ji paryškinta politinio,\nreliginio, kultūrinio bei ūkinio gyvenimo faktais."
+  citata_rodoma: |
+    Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos
+    ribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-
+    čius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_
+    lietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo
+    ir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo
+    vedamoji mintis per visus šimtmečius. Ji paryškinta politinio,
+    religinio, kultūrinio bei ūkinio gyvenimo faktais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -231,7 +245,12 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
     prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
     atstatymas tautinės valstybės (1918).
-  citata_rodoma: "Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,\nkurios pagrindan yra dedama lietuvių tautos valstybingumo\nidėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­\nprėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir\natstatymas tautinės valstybės (1918)."
+  citata_rodoma: |
+    Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,
+    kurios pagrindan yra dedama lietuvių tautos valstybingumo
+    idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
+    prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
+    atstatymas tautinės valstybės (1918).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

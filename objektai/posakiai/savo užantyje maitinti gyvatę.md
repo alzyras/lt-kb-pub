@@ -97,7 +97,10 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     derinti su savo krašto gerove. Atsisakydamas jį priimti, Jo­
     gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
     užantyje maitinti gyvatę.
-  citata_rodoma: "Jo­\ngaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo\nužantyje maitinti gyvatę."
+  citata_rodoma: |
+    Jo­
+    gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
+    užantyje maitinti gyvatę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -120,7 +123,13 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     Lietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau
     žemaičius viliojęs, nes pastarieji yra pasidavę jam ir jo broliui
     Skirgailai^1 ).
-  citata_rodoma: "Atsisakydamas jį priimti, Jo­\ngaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo\nužantyje maitinti gyvatę. Baigdamas savo atsakymą, didysis\nLietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau\nžemaičius viliojęs, nes pastarieji yra pasidavę jam ir jo broliui\nSkirgailai^1 )."
+  citata_rodoma: |
+    Atsisakydamas jį priimti, Jo­
+    gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
+    užantyje maitinti gyvatę. Baigdamas savo atsakymą, didysis
+    Lietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau
+    žemaičius viliojęs, nes pastarieji yra pasidavę jam ir jo broliui
+    Skirgailai^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

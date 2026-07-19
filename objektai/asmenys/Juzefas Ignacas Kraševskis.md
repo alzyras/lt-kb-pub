@@ -106,7 +106,8 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
     Lietuvos istorijai iki Liublino unijos. Čia rašė produktyvusis lenkų rašyto-
     jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
     kultūrinio pobūdžio žurnalą „Atheneum“.
-  citata_rodoma: "jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs"
+  citata_rodoma: |
+    jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

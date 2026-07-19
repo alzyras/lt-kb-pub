@@ -120,7 +120,25 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
     Veliona (Wellona)
     Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­
     nio gyvenimo deivė.
-  citata_rodoma: "Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,\nradau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­\nšytoje ant pergamento rusų kalba, kuria bajorui Rimvydui\n128\n\n## Puslapis 128\n\n(Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­\nje. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­\ntymais garantuojama, laisvės siekiančių Merkinės valsčiaus\nvalstiečių maišto nuslopinimą, taip pat už sugavimą maišti­\nninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo\ndidenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­\nliui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės\n(Lietwii) ženklas.\nIš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių\nsuvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­\ndodavo laisvės deivės simboliu."
+  citata_rodoma: |
+    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
+    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
+    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
+    128
+
+    ## Puslapis 128
+
+    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
+    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
+    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
+    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
+    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
+    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
+    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
+    (Lietwii) ženklas.
+    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
+    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
+    dodavo laisvės deivės simboliu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

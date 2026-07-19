@@ -94,7 +94,10 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
     Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
     Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos
     Kunigaikštystės istoriją iki 1569 metų^32.
-  citata_rodoma: "Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas\nLudvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos\nKunigaikštystės istoriją iki 1569 metų^32."
+  citata_rodoma: |
+    Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
+    Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos
+    Kunigaikštystės istoriją iki 1569 metų^32.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 

@@ -102,7 +102,8 @@ Nenurodyta
     Blaivystė daug sugelbėjo svie­
     tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas
     žmogus.
-  citata_rodoma: "Blaivystė daug sugelbėjo svie­tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus."
+  citata_rodoma: |
+    Blaivystė daug sugelbėjo svie­tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -126,7 +127,8 @@ Nenurodyta
     parsinešė
     kelias bonkas degtinės, žinoma, kad užtektų, parsikvietė du kaimynu,
     ir geria tą degtinę, vis ją keikdami.
-  citata_rodoma: "Kai ryto eisme pri­siekti, o šiandien sumanė padaryti degtinei užgavėnes: parsinešė kelias bonkas degtinės..."
+  citata_rodoma: |
+    Kai ryto eisme pri­siekti, o šiandien sumanė padaryti degtinei užgavėnes: parsinešė kelias bonkas degtinės...
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

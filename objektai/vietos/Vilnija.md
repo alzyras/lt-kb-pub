@@ -81,7 +81,8 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
     100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-
     kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
     turimos teritorijos Lietuva dar nelaikė galutine.
-  citata_rodoma: "kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad"
+  citata_rodoma: |
+    kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -127,7 +127,27 @@ Nenurodyta
     amuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos
     Didžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­
     niuje, išsiuntinėtus po kitas pilis".
-  citata_rodoma: "Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS \nAUGUSTAS savo ranka.\n\n## Puslapis 328\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIV\nGINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO \nKARALIŠKOSIOS DIDENYBĖS LĖŠOMIS \nPAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I \nPASIENIO PILIS\n1565 METŲ 39 LAPŲ RANKRAŠTIS \n(Iš Pulavų bibliotekos rankraščių)\nTaip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­\nliotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­\nkraštis, perrašytas iš originalo, esančio Stokholme, ten lan­\nkantis V. Bernackiui, detalizuoja įvairių rūšių ginklus ir \namuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos \nDidžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­\nniuje, išsiuntinėtus po kitas pilis\"."
+  citata_rodoma: |
+    Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS
+    AUGUSTAS savo ranka.
+
+    ## Puslapis 328
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    IV
+    GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO
+    KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS
+    PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I
+    PASIENIO PILIS
+    1565 METŲ 39 LAPŲ RANKRAŠTIS
+    (Iš Pulavų bibliotekos rankraščių)
+    Taip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­
+    liotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­
+    kraštis, perrašytas iš originalo, esančio Stokholme, ten lan­
+    kantis V. Bernackiui, detalizuoja įvairių rūšių ginklus ir
+    amuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos
+    Didžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­
+    niuje, išsiuntinėtus po kitas pilis".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +184,13 @@ Nenurodyta
     dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­
     tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­
     mantu Senuoju ir Žygimantu Augustu.
-  citata_rodoma: "Įvairių kulkų - 88 352.\nBent jau vertingiausi ginklai (toliau rašo Golembiovskis) \nturėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­\ndinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­\ntėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­\nmantu Senuoju ir Žygimantu Augustu."
+  citata_rodoma: |
+    Įvairių kulkų - 88 352.
+    Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
+    turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­
+    dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­
+    tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­
+    mantu Senuoju ir Žygimantu Augustu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

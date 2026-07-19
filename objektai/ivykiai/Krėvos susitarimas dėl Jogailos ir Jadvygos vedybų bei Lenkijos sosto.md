@@ -118,7 +118,15 @@ Nenurodyta
     * Vytauto giminaičio ir politinio bendradarbio Jono Algiman-
     taičio AlSėniškio dalyvavimas Jogailos karūnacijoje yra galimas,
     nors kitų šaltinių nepaliudytas.
-  citata_rodoma: "Krėvos aklu Jogaila įsipareigojo sujungti visas LDK žemes su Len­\nkija. paleisti lenkus belaisvius, savo lėšomis ir pastangomis atgauti \nLenkijos prarastas žemes, sumokėti 200 tūkst. auksinų kompensa­\ncijų Jadvygos Sužadėtiniui Vilhelmui už jungtuvių išardymą ir pri­\nimti su savo dar nekrikštytais broliais Ir valdiniais katalikų tikėji­\nmą. Savo ruožtu Lenkijos atstovai 1386,1.11 Volkovyske davė Jo­\ngailai raStą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos \natidavimą jam  žmona."
+  citata_rodoma: |
+    Krėvos aklu Jogaila įsipareigojo sujungti visas LDK žemes su Len­
+    kija. paleisti lenkus belaisvius, savo lėšomis ir pastangomis atgauti
+    Lenkijos prarastas žemes, sumokėti 200 tūkst. auksinų kompensa­
+    cijų Jadvygos Sužadėtiniui Vilhelmui už jungtuvių išardymą ir pri­
+    imti su savo dar nekrikštytais broliais Ir valdiniais katalikų tikėji­
+    mą. Savo ruožtu Lenkijos atstovai 1386,1.11 Volkovyske davė Jo­
+    gailai raStą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos
+    atidavimą jam  žmona.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

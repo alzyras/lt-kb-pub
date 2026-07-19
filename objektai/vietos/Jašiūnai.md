@@ -151,7 +151,9 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
     lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
-  citata_rodoma: "1864 m. sausio 1 d. \nM. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
+  citata_rodoma: |
+    1864 m. sausio 1 d.
+    M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

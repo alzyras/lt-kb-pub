@@ -127,7 +127,13 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     Apie 1619 m. nutapyto Pieterio
     Snayerso paveikslo „Salaspilio
     mūšis“ fragmentas. Lietuvos
-  citata_rodoma: "Chodkevičius siekė neleisti švedams\nsusijungti, tačiau to padaryti nepavyko ir\nrugsėjo 23 d. Švedijos kariuomenė apgulė\nRygą.\n\nApie 1619 m."
+  citata_rodoma: |
+    Chodkevičius siekė neleisti švedams
+    susijungti, tačiau to padaryti nepavyko ir
+    rugsėjo 23 d. Švedijos kariuomenė apgulė
+    Rygą.
+
+    Apie 1619 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

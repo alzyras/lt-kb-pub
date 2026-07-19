@@ -76,7 +76,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     drauge su ministrų kabinetu sudarė vykdomąją valdžią. Gavusi naujo Vo-
     kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
     pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą.
-  citata_rodoma: "kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba"
+  citata_rodoma: |
+    kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

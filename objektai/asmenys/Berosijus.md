@@ -80,17 +80,27 @@ Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, b
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    ir tinkama laivybai, prasideda netoli Kaukazo kalno, su­
-    silieja su upe Ros, arba Araksu, ir įteka į Chazarų, arba
-    KaspijOiS, jūrą1. Iš pono Hamerio tyrimų ir ištraukų apie
-    Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-
-    so upę, ištekančią iš Kiliklo kalnų, esančių prie 67 laips­
-    nių ilgumos ir 41 laipsnio šiaurės platumos, sruvenančią
-    per Varnamo žemę ir susiliejančią su Kūra4. Anot Korano
-    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
-    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
-    dė žiloje senovėje.
-  citata_rodoma: "Bu­\ndinai, kaip jau sakėme, yra senovės Azijos skitų kasta,\ngyvenusi prie Arakso upės, kuri prasideda kartu su Euf­\nratu viename kalne4. Iš senovinių Berosijaus5 padavi­\nmų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­\nto, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-\nmoji vieta nurodoma prie armėnų Arakso. Ir iš tiesų\nbudinai kilę būtent iš ten: geografas Nubenskis*** (5\nKlimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės\nupės: viena Ros, kita Kor, arba Cyrus."
+    Bu­
+    dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,
+    gyvenusi prie Arakso upės, kuri prasideda kartu su Euf­
+    ratu viename kalne4. Iš senovinių Berosijaus5 padavi­
+    mų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­
+    to, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-
+    moji vieta nurodoma prie armėnų Arakso. Ir iš tiesų
+    budinai kilę būtent iš ten: geografas Nubenskis*** (5
+    Klimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės
+    upės: viena Ros, kita Kor, arba Cyrus.
+  citata_rodoma: |
+    Bu­
+    dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,
+    gyvenusi prie Arakso upės, kuri prasideda kartu su Euf­
+    ratu viename kalne4. Iš senovinių Berosijaus5 padavi­
+    mų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­
+    to, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-
+    moji vieta nurodoma prie armėnų Arakso. Ir iš tiesų
+    budinai kilę būtent iš ten: geografas Nubenskis*** (5
+    Klimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės
+    upės: viena Ros, kita Kor, arba Cyrus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

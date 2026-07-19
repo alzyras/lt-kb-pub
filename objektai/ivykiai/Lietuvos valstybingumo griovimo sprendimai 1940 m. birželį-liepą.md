@@ -107,7 +107,8 @@ Nenurodyta
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
-  citata_rodoma: "Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas."
+  citata_rodoma: |
+    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +132,8 @@ Nenurodyta
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: "toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir"
+  citata_rodoma: |
+    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

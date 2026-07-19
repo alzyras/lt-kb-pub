@@ -171,7 +171,8 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
     ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
     kaip agresorė.
-  citata_rodoma: "tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos"
+  citata_rodoma: |
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

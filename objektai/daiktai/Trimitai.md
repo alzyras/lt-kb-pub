@@ -90,7 +90,8 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu.
-  citata_rodoma: "Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu."
+  citata_rodoma: |
+    Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

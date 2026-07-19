@@ -105,7 +105,11 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas
     galutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.
     patvirtino Torno sutartį (1411).
-  citata_rodoma: "Taip buvo sulaukta\n1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas\ngalutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.\npatvirtino Torno sutartį (1411)."
+  citata_rodoma: |
+    Taip buvo sulaukta
+    1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas
+    galutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.
+    patvirtino Torno sutartį (1411).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -130,7 +134,15 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     pripažindamas Vytautui iki jo mirties, bet užgindamas jame
     statyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­
     zijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė.
-  citata_rodoma: "Bet ciesorius Zigmantas vilkino jį iki\n1420 m. pradžios, kol Breslave buvo sušauktas visos Vokieti­\njos kunigaikščių ir kurfiurstų suvažiavimas. Čia, dalyvaujant\ndar popiežiaus ir Anglijos karaliaus pasiuntiniams, Zigmantas,\nkaipo superarbitras, patvirtino Torno taiką, Žemaičių kraštą\npripažindamas Vytautui iki jo mirties, bet užgindamas jame\nstatyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­\nzijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė."
+  citata_rodoma: |
+    Bet ciesorius Zigmantas vilkino jį iki
+    1420 m. pradžios, kol Breslave buvo sušauktas visos Vokieti­
+    jos kunigaikščių ir kurfiurstų suvažiavimas. Čia, dalyvaujant
+    dar popiežiaus ir Anglijos karaliaus pasiuntiniams, Zigmantas,
+    kaipo superarbitras, patvirtino Torno taiką, Žemaičių kraštą
+    pripažindamas Vytautui iki jo mirties, bet užgindamas jame
+    statyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­
+    zijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -132,7 +132,10 @@ Nenurodyta
     lietuviais, o savo žemę – Lietuva. Iki šiol labiausiai paplitusi versija buvo
     Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
     toli Kernavės, vardo.
-  citata_rodoma: "Iki šiol labiausiai paplitusi versija buvo\nLietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-\ntoli Kernavės, vardo."
+  citata_rodoma: |
+    Iki šiol labiausiai paplitusi versija buvo
+    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
+    toli Kernavės, vardo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -151,7 +154,10 @@ Nenurodyta
     buvo tarp Nemuno ir Neries upių. Taigi Lietaukos upelis, dešinysis Neries
     intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu
     atveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai.
-  citata_rodoma: "Taigi Lietaukos upelis, dešinysis Neries\nintakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu\natveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai."
+  citata_rodoma: |
+    Taigi Lietaukos upelis, dešinysis Neries
+    intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu
+    atveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -170,7 +176,12 @@ Nenurodyta
     toli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-
     duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
     buvo tarp Nemuno ir Neries upių.
-  citata_rodoma: "Iki šiol labiausiai paplitusi versija buvo \nLietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-\ntoli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-\nduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais \nbuvo tarp Nemuno ir Neries upių."
+  citata_rodoma: |
+    Iki šiol labiausiai paplitusi versija buvo
+    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
+    toli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-
+    duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
+    buvo tarp Nemuno ir Neries upių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

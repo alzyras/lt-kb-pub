@@ -161,7 +161,16 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     Neries ir Nemuno įrengė savo įtvirtini-
     mus - griovį, pylimus su kuorais, izo-
     liuodami pilį.
-  citata_rodoma: "Kauno pilies apgula\n\nOrdino ir talkininkų kariuomenė šį kartą\nNemunu laivais, pučiant vakarų vėjui,\ntyliai aplenkdama Veliuonos ir Piešt-\n\nvės pilis, pasiekė Kauną. Išsilaipino že-\nmiau Kauno, keletą dienų statė tiltus ir\ntrečiąją dieną atžygiavo prie pilies."
+  citata_rodoma: |
+    Kauno pilies apgula
+
+    Ordino ir talkininkų kariuomenė šį kartą
+    Nemunu laivais, pučiant vakarų vėjui,
+    tyliai aplenkdama Veliuonos ir Piešt-
+
+    vės pilis, pasiekė Kauną. Išsilaipino že-
+    miau Kauno, keletą dienų statė tiltus ir
+    trečiąją dieną atžygiavo prie pilies.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

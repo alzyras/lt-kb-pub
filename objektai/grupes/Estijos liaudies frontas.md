@@ -69,7 +69,8 @@ media_all_json: |-
     13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms
     vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliau-
     sius pertvarkos šalininkus.
-  citata_rodoma: "13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms"
+  citata_rodoma: |
+    13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -143,7 +143,21 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
     Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
     visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
     artimos, kilusios iš vienos šakos - iš vieno lopšio*.
-  citata_rodoma: "Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti.\nIšnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­\nstebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­\nka: dangaus kūnai ir elementai, tai yra ugnis, vanduo, žemė,\n84\n\n## Puslapis 84\n\nbuvo garbinami pagal budistų ir senovės persų -  iš budizmo\nkilusio Zoroastro mokymo sekėjų -  taisykles."
+  citata_rodoma: |
+    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
+    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
+    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
+    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
+    plaikos kilo mitologija, kurią imamės išdėstyti.
+    Išnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­
+    stebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­
+    ka: dangaus kūnai ir elementai, tai yra ugnis, vanduo, žemė,
+    84
+
+    ## Puslapis 84
+
+    buvo garbinami pagal budistų ir senovės persų -  iš budizmo
+    kilusio Zoroastro mokymo sekėjų -  taisykles.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

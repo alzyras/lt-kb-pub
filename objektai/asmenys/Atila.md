@@ -79,13 +79,20 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė10, Įišleidžiama] už Ang­
+    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
     lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
     čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
     vienuolika tūkstančių mergelių, buvusių su ja. Ir jos
     vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
     rybė, padaryta krikščionims.
-  citata_rodoma: "O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo \nlydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­\nlijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan- \nčiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas \nvienuolika tūkstančių mergelių, buvusių su ja. Ir jos \nvardan Kristaus tapo kankinėmis. Tai pirma jo žiau­\nrybė, padaryta krikščionims."
+  citata_rodoma: |
+    O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
+    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
+    lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
+    čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
+    vienuolika tūkstančių mergelių, buvusių su ja. Ir jos
+    vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
+    rybė, padaryta krikščionims.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

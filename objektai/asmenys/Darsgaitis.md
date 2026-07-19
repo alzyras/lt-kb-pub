@@ -117,7 +117,10 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
     reikėdavo paskelbti kokius nors dalykus dievų vardu. Vaidilos
     dažnai sukeldavo visus žmones į karą su dievų priešu; tuo klau-
     simu, jų žodžiais tariant, jie žinodavę apreikštą dievų valią.
-  citata_rodoma: "Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227\nmetais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­\nmenę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*."
+  citata_rodoma: |
+    Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
+    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
+    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

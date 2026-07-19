@@ -63,7 +63,8 @@ media_all_json: |-
     nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-
     je užsilaiko. Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­
     niaus Aušros bromos Dievo Motinos.
-  citata_rodoma: "Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­niaus Aušros bromos Dievo Motinos."
+  citata_rodoma: |
+    Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­niaus Aušros bromos Dievo Motinos.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

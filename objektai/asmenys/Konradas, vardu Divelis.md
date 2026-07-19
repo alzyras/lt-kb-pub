@@ -113,7 +113,13 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: "Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
+  citata_rodoma: |
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
+    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
+    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
 
@@ -138,7 +144,12 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
     Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
     kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
     grįždamas namo, kelyje ir pasimirė.
-  citata_rodoma: "Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai\nkrikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],\nvadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas\nMartynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas\nar išsivarydamas į nelaisvę žmones."
+  citata_rodoma: |
+    Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
+    krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
+    vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas
+    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
+    ar išsivarydamas į nelaisvę žmones.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -161,7 +172,15 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
     paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
     vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
     su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
-  citata_rodoma: "III, 235), sukilimą prūsai galėjo rengti 1289 m.\n\nTuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
+  citata_rodoma: |
+    III, 235), sukilimą prūsai galėjo rengti 1289 m.
+
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
+    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
+    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

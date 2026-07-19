@@ -203,7 +203,12 @@ Nenurodyta
     broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
     šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
     p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
-  citata_rodoma: "Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų\nginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje\npusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną\nkrito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš\nmetus įvyko Pokarvių kautynės."
+  citata_rodoma: |
+    Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
+    ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
+    pusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną
+    krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
+    metus įvyko Pokarvių kautynės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -221,7 +226,10 @@ Nenurodyta
     Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
     kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
     pavakarę, jie atvyko į Karaliaučiaus pilį.
-  citata_rodoma: "Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria\nkariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie\npavakarę, jie atvyko į Karaliaučiaus pilį."
+  citata_rodoma: |
+    Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
+    kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
+    pavakarę, jie atvyko į Karaliaučiaus pilį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -111,7 +111,9 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
     vandenį. Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
     kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
-  citata_rodoma: "Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir\nkitų buvusių Žečpospolitos (respublikos) tautų federaciją."
+  citata_rodoma: |
+    Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
+    kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +135,12 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-
     gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams
     užmegzti.
-  citata_rodoma: "Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Žene-\n  vą, įsidėmėjo jo iškilmingus pareiškimus, kad Lenkija pripažįs-\n  tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-\n  gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams\n  užmegzti."
+  citata_rodoma: |
+    Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Žene-
+      vą, įsidėmėjo jo iškilmingus pareiškimus, kad Lenkija pripažįs-
+      tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-
+      gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams
+      užmegzti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

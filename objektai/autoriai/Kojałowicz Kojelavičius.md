@@ -64,7 +64,11 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
     Kojelavičius Pagraudenę vadi-
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
-  citata_rodoma: "f\nKojelavičius Pagraudenę vadi- \nna apylinkę Žemaitijoje: pograudien- \nb C S 7/7 Samogitia agri. Hist. Lithu. p. 436."
+  citata_rodoma: |
+    f
+    Kojelavičius Pagraudenę vadi-
+    na apylinkę Žemaitijoje: pograudien-
+    b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

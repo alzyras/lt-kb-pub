@@ -111,7 +111,17 @@ Nenurodyta
     gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
     latinių priešo antpuolių iš baimės niekas nebedirbo
     žemės ar iš viso nebuvo kam ją dirbti.
-  citata_rodoma: "Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­\ntučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami \ndidelę šventę,, kitą dieną kryžiuočiai praleido ramiai, \ntačiau trečią dieną iki pat pamatų sugriovė kur ne \nkur tarp sudegintos pilies išlikusius gynybinius įren­\nginius: išvertė sienų likučius, nukasė pylimus, išlygino \ngriovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­\nnos pilis: pirmąją išsigandę gynėjai atidavė be kovos, \nantrąją paėmė po keturias dienas užtrukusios apgul- \nties."
+  citata_rodoma: |
+    Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
+    tučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami
+    didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,
+    tačiau trečią dieną iki pat pamatų sugriovė kur ne
+    kur tarp sudegintos pilies išlikusius gynybinius įren­
+    ginius: išvertė sienų likučius, nukasė pylimus, išlygino
+    griovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
+    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
+    antrąją paėmė po keturias dienas užtrukusios apgul-
+    ties.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

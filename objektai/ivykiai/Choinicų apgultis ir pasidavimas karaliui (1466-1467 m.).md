@@ -112,7 +112,18 @@ Nenurodyta
     alkę, išvargę priešai, nenujausdami nei vyliaus, nei pa­
     salų, ramiai šuoliavo į priekį, manydami, jog jų nety-
     ko jokie pavojai.
-  citata_rodoma: "Apsuptieji irgi neleido laiko vėjais: trukdyda­\nmi tinkamai pasirengti lemiamam smūgiui, protarpiais\nrengė be galo drąsius išpuolius, sėkmingai ardė puola­\nmuosius įtaisus, žudė jų statytojus ir sekino kovinę dva­\nsią. Štai todėl karalius įsakė lietuvių kavalerijos vadui,\npasirinkus iš visų vėliavų ryžtingiausių karių, taip stro­\npiai budėti, kad priešas, vos pabandęs surengti išpuolį,\nbūtų bemat atremtas. Kelis kartus sumušus išsiveržė-\nlius, kovoje krito beveik visi narsiausi įgulos vyrai,\ntodėl kiti pilies gynėjai, smarkiai sumažėjus jų skaičiui,\nliovėsi rengę išpuolius."
+  citata_rodoma: |
+    Apsuptieji irgi neleido laiko vėjais: trukdyda­
+    mi tinkamai pasirengti lemiamam smūgiui, protarpiais
+    rengė be galo drąsius išpuolius, sėkmingai ardė puola­
+    muosius įtaisus, žudė jų statytojus ir sekino kovinę dva­
+    sią. Štai todėl karalius įsakė lietuvių kavalerijos vadui,
+    pasirinkus iš visų vėliavų ryžtingiausių karių, taip stro­
+    piai budėti, kad priešas, vos pabandęs surengti išpuolį,
+    būtų bemat atremtas. Kelis kartus sumušus išsiveržė-
+    lius, kovoje krito beveik visi narsiausi įgulos vyrai,
+    todėl kiti pilies gynėjai, smarkiai sumažėjus jų skaičiui,
+    liovėsi rengę išpuolius.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

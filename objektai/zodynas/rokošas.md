@@ -89,7 +89,9 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
     Vieni jį rėmė dėl to, kad neapkentė Šuiskio, o kiti už pinigus.
     Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenki-
     joje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas.
-  citata_rodoma: "Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenki-\njoje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas."
+  citata_rodoma: |
+    Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenki-
+    joje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +109,9 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
     joje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas. Kai
     1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę ka-
     reivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II.
-  citata_rodoma: "Kai 1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę ka-\nreivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II."
+  citata_rodoma: |
+    Kai 1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę ka-
+    reivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

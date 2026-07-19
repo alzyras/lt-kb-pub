@@ -151,7 +151,10 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
     ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
     daug brolių ir ginklanešių.
-  citata_rodoma: "Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259\nir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta\ndaug brolių ir ginklanešių."
+  citata_rodoma: |
+    Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
+    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
+    daug brolių ir ginklanešių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -169,7 +172,11 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar
     tebestovi415. Vos atvykęs  po konsekracijos į savo vyskupystę, šis vyskupas gavo per
     metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
-  citata_rodoma: "Valdovas Henrikas, Varmės vyskupas, vėliau,\n1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar\ntebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per\nmetus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas."
+  citata_rodoma: |
+    Valdovas Henrikas, Varmės vyskupas, vėliau,
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
+    tebestovi415. Vos atvykęs  po konsekracijos  į savo vyskupystę, šis vyskupas gavo per
+    metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -190,7 +197,16 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
     tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.
-  citata_rodoma: "Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­\n                                      lies bei miesto paėmimą\n\n  Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo\npilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo\ntos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele\nkariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai\nir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami\ntas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti."
+  citata_rodoma: |
+    Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
+                                          lies bei miesto paėmimą
+
+      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
+    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
+    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
+    kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
+    ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
+    tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -210,7 +226,10 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei
     kitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų
     namų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).
-  citata_rodoma: "259 Brunsbergas (Braunsbergas, dab. Branevas) — Pasarės (dab. Paslenka) žemupyje.\nPilis (anksčiau — prūsų, vėliau — kryžiuočių) stovėjo kiek žemiau dab. miesto, arčiau\nAismarių."
+  citata_rodoma: |
+    259 Brunsbergas (Braunsbergas, dab. Branevas) — Pasarės (dab. Paslenka) žemupyje.
+    Pilis (anksčiau — prūsų, vėliau — kryžiuočių) stovėjo kiek žemiau dab. miesto, arčiau
+    Aismarių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -72,14 +72,21 @@ Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų,
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Susivokę šia nutartimi vargu ką laimėsią,
-    nes motinos, išvydusios gimusių mergaičių grožį, slapčiomis jas augino, vieningai
-    nutarė nupjaustyti visoms savo žmonoms krūtis, kad neturėtų kuo maitinti kūdikių.
-    Pasipiktinusios šitokiu išniekinimu ir šitokiu šlykščių elgesiu moterys kreipėsi į vieną
-    viešpatę [ad dominam], kurią jie, paisydami senųjų papročių, laikė šventąja bei žyne202
-    ir pagal kurios nurodymus buvo tvarkomi šios žemės gyventojų reikalai, prašydamos
-    (PUB, 1, 1, Nr. 247, p. 180). Teritorija į šiaurę nuo Galindos, tarp Alnos (dab.
-  citata_rodoma: "Apie Galindos žemės nuniokojimą\n\n  Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai\nsustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,\nkuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,\nnužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės\nbūtų nužudomos, o berniukai paliekami karui."
+    Apie Galindos žemės nuniokojimą
+
+      Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai
+    sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,
+    kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,
+    nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės
+    būtų nužudomos, o berniukai paliekami karui.
+  citata_rodoma: |
+    Apie Galindos žemės nuniokojimą
+
+      Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai
+    sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,
+    kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,
+    nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės
+    būtų nužudomos, o berniukai paliekami karui.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

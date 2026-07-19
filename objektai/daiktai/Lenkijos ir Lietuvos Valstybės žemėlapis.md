@@ -84,7 +84,13 @@ Nenurodyta
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
     67
     LDK Baroko Europoje.
-  citata_rodoma: "XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapis, kuriame \nmatyti ir LDK sienos (Varšuvos karalių pilis)\n\n2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n67\nLDK Baroko Europoje."
+  citata_rodoma: |
+    XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapis, kuriame
+    matyti ir LDK sienos (Varšuvos karalių pilis)
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    67
+    LDK Baroko Europoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

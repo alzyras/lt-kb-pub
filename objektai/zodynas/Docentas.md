@@ -79,7 +79,9 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie jo pakvietimą į Hel
     lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl ka­
     ro nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavi-
     rno. Ordinariniu profesorium paskirtas 1930 m.
-  citata_rodoma: "ir tais pačiais metais buvo pakviestas Helsinkų universi­\nteto suomių liaudies poezijos docentu"
+  citata_rodoma: |
+    ir tais pačiais metais buvo pakviestas Helsinkų universi­
+    teto suomių liaudies poezijos docentu
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

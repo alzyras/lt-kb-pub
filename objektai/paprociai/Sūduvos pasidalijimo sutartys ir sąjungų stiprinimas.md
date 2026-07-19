@@ -104,7 +104,13 @@ Nenurodyta
     gaikštis Zemovitas sudarė eilinę dar ne-
     užgrobtos Sūduvos pasidalijimo sutartį,
     sustiprindami tarpusavio sąjungą.
-  citata_rodoma: "Puolimo prieš Lietuvą išvakarėse Ordi-\nnas stiprino ryšius su lenkų kunigaikščiais.\n1260 m. birželio 5 d. jis ir Mozūrijos kuni-\ngaikštis Zemovitas sudarė eilinę dar ne-\nužgrobtos Sūduvos pasidalijimo sutartį,\nsustiprindami tarpusavio sąjungą."
+  citata_rodoma: |
+    Puolimo prieš Lietuvą išvakarėse Ordi-
+    nas stiprino ryšius su lenkų kunigaikščiais.
+    1260 m. birželio 5 d. jis ir Mozūrijos kuni-
+    gaikštis Zemovitas sudarė eilinę dar ne-
+    užgrobtos Sūduvos pasidalijimo sutartį,
+    sustiprindami tarpusavio sąjungą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

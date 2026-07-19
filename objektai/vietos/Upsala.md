@@ -189,7 +189,19 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
     ką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais
     iš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,
     kurie šitiek laiko lydėjo gotus Pietryčių Europoje.
-  citata_rodoma: "Kadangi šiam aiškinimui nieko negali-\nm . 03\n417\n\n## Puslapis 417\n\nma prikišti, tad reikia sutikti, kad Upsala buvo svarbiausioji\nteismo vieta ir dievų buveinė. Tuos sprendimus skelbė ne kas\nkitas, o ten gyvenantis žynys, kuris savo dvigubu aukštu rangu\nteikė tai vietai dvigubą reikšmę -  ir kaip dievų buveinės, ir\nkaip teismo sostinės, taigi Upsalos ir krivio pavadinimai savo\nprasme bus visiškai tapatūs."
+  citata_rodoma: |
+    Kadangi šiam aiškinimui nieko negali-
+    m . 03
+    417
+
+    ## Puslapis 417
+
+    ma prikišti, tad reikia sutikti, kad Upsala buvo svarbiausioji
+    teismo vieta ir dievų buveinė. Tuos sprendimus skelbė ne kas
+    kitas, o ten gyvenantis žynys, kuris savo dvigubu aukštu rangu
+    teikė tai vietai dvigubą reikšmę -  ir kaip dievų buveinės, ir
+    kaip teismo sostinės, taigi Upsalos ir krivio pavadinimai savo
+    prasme bus visiškai tapatūs.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

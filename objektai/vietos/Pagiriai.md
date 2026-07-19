@@ -107,7 +107,16 @@ media_all_json: |-
     stojimą Pagirių kaime žygiuojant į Panevėžio
     frontą. Šis batalionas prie Panevėžio rinktinės
     prisijungė jau išlaisvinus Panevėžio miestą.
-  citata_rodoma: "25“\n\nLIETUVIAI SUTINKA SAVO KARIUOMENĘ\n\n2-ojo pėstininkų pulko I bataliono puskari-\nninkis Antanas Šukys prisimena bataliono su-\nstojimą Pagirių kaime žygiuojant į Panevėžio\nfrontą. Šis batalionas prie Panevėžio rinktinės\nprisijungė jau išlaisvinus Panevėžio miestą."
+  citata_rodoma: |
+    25“
+
+    LIETUVIAI SUTINKA SAVO KARIUOMENĘ
+
+    2-ojo pėstininkų pulko I bataliono puskari-
+    ninkis Antanas Šukys prisimena bataliono su-
+    stojimą Pagirių kaime žygiuojant į Panevėžio
+    frontą. Šis batalionas prie Panevėžio rinktinės
+    prisijungė jau išlaisvinus Panevėžio miestą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -143,7 +152,29 @@ media_all_json: |-
 
     Pao, ir Kėdainių komendantūros kariai sutrukdo. Dalis lenkų šiauriau Kėdainių
     pereina Nevėžį ir susprogdina geležinkelį.
-  citata_rodoma: "@ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka\nir kolonas atakuoja lietuvių karo lėktuvai. Naktį lenkai priartėja prie\n\n)— Lietuvių pajėgų išdėsty-\nmas ir puolimo kryptys\nLenkų pajėgų išdėsty-\nJ mas ir puolimo kryptys\n= = = =a Lietuvių atsitraukimo\n\nkryptys\nSt | me me p> Lenkų atsitraukimo\n\nkryptys\n\na\n||\n\n|\n\nKėdainių ir ketina susprogdinti tiltą per Nevėžį, tačiau 1-ojo pasienio pulko\n\nPao, ir Kėdainių komendantūros kariai sutrukdo."
+  citata_rodoma: |
+    @ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka
+    ir kolonas atakuoja lietuvių karo lėktuvai. Naktį lenkai priartėja prie
+
+    )— Lietuvių pajėgų išdėsty-
+    mas ir puolimo kryptys
+    Lenkų pajėgų išdėsty-
+    J mas ir puolimo kryptys
+    = = = =a Lietuvių atsitraukimo
+
+    kryptys
+    St | me me p> Lenkų atsitraukimo
+
+    kryptys
+
+    a
+    ||
+
+    |
+
+    Kėdainių ir ketina susprogdinti tiltą per Nevėžį, tačiau 1-ojo pasienio pulko
+
+    Pao, ir Kėdainių komendantūros kariai sutrukdo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

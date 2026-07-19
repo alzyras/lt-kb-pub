@@ -90,7 +90,11 @@ Stanislovo Sarnickio veikalas „Annales, sive de origine et rebus gestis Polono
     tian Lehrberg), kurio žymiausias veikalas: Unter­
     suchungen zu Erläuterung der älteren Geschichte
     Russlands.
-  citata_rodoma: "P. 269** -  Turimas omenyje Stanislovo Sarnickio (1532-1597)\nveikalas (Stanislai Sarnicii. Annales, sive de origi-\nne et rebus gestis Polonorum et Lituanorum. -  Libri\nocto. -  Cracovia, 1587)."
+  citata_rodoma: |
+    P. 269** -  Turimas omenyje Stanislovo Sarnickio (1532-1597)
+    veikalas (Stanislai Sarnicii. Annales, sive de origi-
+    ne et rebus gestis Polonorum et Lituanorum. -  Libri
+    octo. -  Cracovia, 1587).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

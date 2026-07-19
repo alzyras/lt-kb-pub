@@ -78,7 +78,11 @@ Nenurodyta
     Pietų Lietuvoje, GAM.
 
     p. 224, Dainavos apygardos partizanai, GAM.
-  citata_rodoma: "p. 224, Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas\nPietų Lietuvoje, GAM.\n\np."
+  citata_rodoma: |
+    p. 224, Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas
+    Pietų Lietuvoje, GAM.
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

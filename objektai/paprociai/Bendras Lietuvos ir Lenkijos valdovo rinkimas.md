@@ -122,7 +122,12 @@ Nenurodyta
     šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
     teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
     teisę seniau.
-  citata_rodoma: "Lie­\ntuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei\nšis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna\nteisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą\nteisę seniau."
+  citata_rodoma: |
+    Lie­
+    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
+    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
+    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
+    teisę seniau.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

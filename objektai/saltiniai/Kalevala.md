@@ -64,7 +64,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Matyt, „Kalevala“ ir jos
     kūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo
     mokslo šaką.
-  citata_rodoma: "Matyt, „Kalevala“ ir jos \nkūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo \nmokslo šaką."
+  citata_rodoma: |
+    Matyt, „Kalevala“ ir jos
+    kūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo
+    mokslo šaką.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

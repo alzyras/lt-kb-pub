@@ -72,7 +72,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60535
+    - c-002
 
 <a id="claim-t-59902"></a>
 - t-003
@@ -173,6 +173,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-59901
     - t-59902
 ## Citatos
 
@@ -187,7 +188,13 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas. Tačiau ilgainiui šio miesto
     gyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus
     jis ir numirė (Mart. p. 438; Ptol. p. 1223).
-  citata_rodoma: "Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą\n\n  Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas\npopiežius Bonifacas, o visas bažnyčios turtas išnešiojamas. Tačiau ilgainiui šio miesto\ngyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus\njis ir numirė (Mart. p. 438; Ptol. p. 1223)."
+  citata_rodoma: |
+    Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
+
+      Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas
+    popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas. Tačiau ilgainiui šio miesto
+    gyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus
+    jis ir numirė (Mart. p. 438; Ptol. p. 1223).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -209,7 +216,10 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
     95.
-  citata_rodoma: "1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442)."
+  citata_rodoma: |
+    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
+    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -227,7 +237,12 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
       1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
 
     karalių (Ptol. pried. p. 1217; Mart. p. 436).
-  citata_rodoma: "Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą\n\n  1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos\n\nkaralių (Ptol. pried. p. 1217; Mart. p. 436)."
+  citata_rodoma: |
+    Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
+
+      1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
+
+    karalių (Ptol. pried. p. 1217; Mart. p. 436).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -255,7 +270,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59901
     - t-194476
     - t-197062
 - id: c-60536

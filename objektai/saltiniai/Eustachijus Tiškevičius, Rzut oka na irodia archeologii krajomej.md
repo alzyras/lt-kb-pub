@@ -100,7 +100,14 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
     Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
     sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
     čius3.
-  citata_rodoma: "Ant­\nra vertus, beveik visoje Siaurės Europoje tai šen, tai ten\nrandami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir\nEstijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­\nsioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­\nčius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra\nretenybė."
+  citata_rodoma: |
+    Ant­
+    ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
+    randami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir
+    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
+    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
+    čius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra
+    retenybė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

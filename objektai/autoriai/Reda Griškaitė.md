@@ -137,7 +137,12 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     ta kultūros istorikės Redos Griškaitės studija. Svarbi tyrinėtojos
     išvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­
     rasis" romantikas - tik „naujasis klasikas".
-  citata_rodoma: "Balinskį, kurios autorius - Lietuvos lenkas. Savotiškai isto­\nriko biografijos vingių ir ano meto istorinių realijų analizei skir­\nta kultūros istorikės Redos Griškaitės studija. Svarbi tyrinėtojos \nišvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­\nrasis\" romantikas - tik „naujasis klasikas\"."
+  citata_rodoma: |
+    Balinskį, kurios autorius - Lietuvos lenkas. Savotiškai isto­
+    riko biografijos vingių ir ano meto istorinių realijų analizei skir­
+    ta kultūros istorikės Redos Griškaitės studija. Svarbi tyrinėtojos
+    išvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­
+    rasis" romantikas - tik „naujasis klasikas".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -179,7 +184,20 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     Istorijoje tiesa yra geležinė
     būtinybė, ir nereikėtų manyti, jog
     ji kada nors gali pakenkti.
-  citata_rodoma: "Taigi T. Narbutas, nors gerai\nišmanė savo profesijos paslaptis, puikiai valdė plunksną\nir žinojo savo meto keliamus reikalavimus, stengėsi pa­\nbrėžti, jog LTI piešiamas vaizdas — tai jo individualus,\nasmeninis suvokimas, nuo jo pabėgti neįmanoma, be to,\nir nebūtina. Kiekvienas rašo savo istoriją.\nReda Griškaitė\n\n## Puslapis 22\n\nIstorijoje tiesa yra geležinė\nbūtinybė, ir nereikėtų manyti, jog\nji kada nors gali pakenkti."
+  citata_rodoma: |
+    Taigi T. Narbutas, nors gerai
+    išmanė savo profesijos paslaptis, puikiai valdė plunksną
+    ir žinojo savo meto keliamus reikalavimus, stengėsi pa­
+    brėžti, jog LTI piešiamas vaizdas — tai jo individualus,
+    asmeninis suvokimas, nuo jo pabėgti neįmanoma, be to,
+    ir nebūtina. Kiekvienas rašo savo istoriją.
+    Reda Griškaitė
+
+    ## Puslapis 22
+
+    Istorijoje tiesa yra geležinė
+    būtinybė, ir nereikėtų manyti, jog
+    ji kada nors gali pakenkti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -67,7 +67,10 @@ Kotzebue : Preussens ältere Geschichte , III, 292 p. (^14) CEV, 78, 1034 p.
     (^13) **A. Kotzebue :** **_Preussens ältere Geschichte_** **, III, 292 p.**
     (^14) **CEV, 78, 1034 p. — SRP, III, 240 p. — CDPr, VI, 118 p.**
     (^15) **SRP, III, 237 p.—Voigt :** **_Gesch.
-  citata_rodoma: "**\n(^13) **A. Kotzebue :** **_Preussens ältere Geschichte_** **, III, 292 p.**\n(^14) **CEV, 78, 1034 p."
+  citata_rodoma: |
+    **
+    (^13) **A. Kotzebue :** **_Preussens ältere Geschichte_** **, III, 292 p.**
+    (^14) **CEV, 78, 1034 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

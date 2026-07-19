@@ -77,7 +77,10 @@ Nenurodyta
     Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas
     jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-
     nąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.
-  citata_rodoma: "Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas\njiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-\nnąsias ugnis, keistus dievų vardus, keistas tikybines apeigas."
+  citata_rodoma: |
+    Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas
+    jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-
+    nąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

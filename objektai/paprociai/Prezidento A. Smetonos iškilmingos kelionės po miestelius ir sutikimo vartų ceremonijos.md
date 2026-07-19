@@ -103,7 +103,8 @@ Nenurodyta
     lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
     moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
     tinkamai išpuoštų vietos žydų vartų.
-  citata_rodoma: "lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,"
+  citata_rodoma: |
+    lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -120,7 +120,12 @@ Nenurodyta
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
     muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-  citata_rodoma: "Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties \n(Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių \nsąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-\nmuvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su \nLietuvoje išplitusiais Aukuro kalnais ir akmenimis."
+  citata_rodoma: |
+    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
+    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
+    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
+    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
+    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +143,12 @@ Nenurodyta
     gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
     institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-  citata_rodoma: "Iš mūsų pagonių valdovų laikysenos \ngalima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-\ngi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo \ninstitucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti \nšaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį."
+  citata_rodoma: |
+    Iš mūsų pagonių valdovų laikysenos
+    galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-
+    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
+    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
+    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

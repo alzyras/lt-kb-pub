@@ -66,7 +66,11 @@ media_all_json: |-
     nęs dar niekas nieko nelaimėjo. Kas manęs ne-
     gerbia, to nevertinu nė aš. Savo nusistatymo aš nekei-
     čiu, ir niekas negali manęs priversti.
-  citata_rodoma: "— Maršalka, tu labai gerai žinai, kad piktuoju iš ma-\nnęs dar niekas nieko nelaimėjo. Kas manęs ne-\ngerbia, to nevertinu nė aš. Savo nusistatymo aš nekei-\nčiu, ir niekas negali manęs priversti."
+  citata_rodoma: |
+    — Maršalka, tu labai gerai žinai, kad piktuoju iš ma-
+    nęs dar niekas nieko nelaimėjo. Kas manęs ne-
+    gerbia, to nevertinu nė aš. Savo nusistatymo aš nekei-
+    čiu, ir niekas negali manęs priversti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

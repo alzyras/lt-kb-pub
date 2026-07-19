@@ -79,7 +79,8 @@ Terminas vartojamas rytmečio po vestuvių ir aprėdimo kontekste.
     na.
     Ji aprėdo jaunamarčios galvą jau nebe kaspinu ir rūtų vainiku,
     bet ištekėjusios moters aprėdu.
-  citata_rodoma: "Ji aprėdo jaunamarčios galvą jau nebe kaspinu ir rūtų vainiku, bet ištekėjusios moters aprėdu."
+  citata_rodoma: |
+    Ji aprėdo jaunamarčios galvą jau nebe kaspinu ir rūtų vainiku, bet ištekėjusios moters aprėdu.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

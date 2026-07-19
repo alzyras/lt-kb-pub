@@ -86,7 +86,11 @@ Nenurodyta
     procesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Taip
     pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
     dotuves.
-  citata_rodoma: "Dažniausiai muštynių atsitikdavo švenčių metu, per\nprocesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Taip\npat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-\ndotuves."
+  citata_rodoma: |
+    Dažniausiai muštynių atsitikdavo švenčių metu, per
+    procesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Taip
+    pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
+    dotuves.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +112,12 @@ Nenurodyta
     mažu jėzuitai įgavo visuomenės simpatijų: jų mokyklos buvo
     pilnos mokinių, jie patys tapo įtakingiausiųjų didikų kapelionais
     ir artimaisiais jų patarėjais.
-  citata_rodoma: "Be to, jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmin-\ngomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Pa-\nmažu jėzuitai įgavo visuomenės simpatijų: jų mokyklos buvo\npilnos mokinių, jie patys tapo įtakingiausiųjų didikų kapelionais\nir artimaisiais jų patarėjais."
+  citata_rodoma: |
+    Be to, jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmin-
+    gomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Pa-
+    mažu jėzuitai įgavo visuomenės simpatijų: jų mokyklos buvo
+    pilnos mokinių, jie patys tapo įtakingiausiųjų didikų kapelionais
+    ir artimaisiais jų patarėjais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

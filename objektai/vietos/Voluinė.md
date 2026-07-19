@@ -720,7 +720,12 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     testamentu Voluinę paliko Lietuvai, tačiau lenkai ne tik neketino
     atiduoti Lietuvai Podolės, bet dar ruošėsi ginklu užgrobti ir Vo-
     luinę.
-  citata_rodoma: "Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos,\no Podolė buvo valdoma Lenkų. Švitrigaila mirdamas (1452 m.)\ntestamentu Voluinę paliko Lietuvai, tačiau lenkai ne tik neketino\natiduoti Lietuvai Podolės, bet dar ruošėsi ginklu užgrobti ir Vo-\nluinę."
+  citata_rodoma: |
+    Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos,
+    o Podolė buvo valdoma Lenkų. Švitrigaila mirdamas (1452 m.)
+    testamentu Voluinę paliko Lietuvai, tačiau lenkai ne tik neketino
+    atiduoti Lietuvai Podolės, bet dar ruošėsi ginklu užgrobti ir Vo-
+    luinę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -740,7 +745,12 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
     rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
     linkes, buvo beveik negyvenamos.
-  citata_rodoma: "), taip ir Kazimiero laikais tankiau buvo\ngyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-\nlės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O\nrytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-\nlinkes, buvo beveik negyvenamos."
+  citata_rodoma: |
+    ), taip ir Kazimiero laikais tankiau buvo
+    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
+    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
+    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
+    linkes, buvo beveik negyvenamos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -779,7 +789,16 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
     gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
     gos arkivyskupą.
-  citata_rodoma: "Apsirūpinus ar­\ntilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­\nvo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,\nPodolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­\nles karinės amunicijos atsargas, nesunku buvo apginkluoti\ngausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­\ngiavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­\ngistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­\ngos arkivyskupą."
+  citata_rodoma: |
+    Apsirūpinus ar­
+    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
+    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
+    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
+    les karinės amunicijos atsargas, nesunku buvo apginkluoti
+    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
+    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
+    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
+    gos arkivyskupą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -819,7 +838,12 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
-  citata_rodoma: "Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių \npolitinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."
+  citata_rodoma: |
+    Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
+    politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -863,7 +887,12 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
     nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
-  citata_rodoma: "Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-\nmantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-\nveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-\nnės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo \nprisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime."
+  citata_rodoma: |
+    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -884,7 +913,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
     (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
     stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
-  citata_rodoma: "pradžios.\nJau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, \nTrakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-\nse LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje \n(Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net \nstačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių."
+  citata_rodoma: |
+    pradžios.
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
+    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -907,7 +942,16 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: "Vėliau Voluinė apskritai tapo šalutinių Gedimi-\nnaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-\nguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai \n(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka) \nir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-\nprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-\nkos“ kilmės kunigaikščiai Ostrogiškiai.\nDaugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų \natminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais."
+  citata_rodoma: |
+    Vėliau Voluinė apskritai tapo šalutinių Gedimi-
+    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
+    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
+    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
+    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
+    kos“ kilmės kunigaikščiai Ostrogiškiai.
+    Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
+    atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -943,7 +987,20 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
     gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
     šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
-  citata_rodoma: "-  •  -\n19\n\n## Puslapis 36\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nužėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir\nsavo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti\nmūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­\ntinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų\nperkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­\ngaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­\nšius su krikščioniškąja Europa, būtent Lenkija ir Rusia10."
+  citata_rodoma: |
+    -  •  -
+    19
+
+    ## Puslapis 36
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
+    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
+    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
+    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
+    perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
+    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
+    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -965,7 +1022,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
     pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
     je, tai yra europinės reikšmės riba.
-  citata_rodoma: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-\ntantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-\nje. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje \n(Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-\npos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-\nje, tai yra europinės reikšmės riba."
+  citata_rodoma: |
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -987,7 +1050,11 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+  citata_rodoma: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1024,7 +1091,12 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
     tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
     Livonijos ordino magistrą Andrių Štirlandą.
-  citata_rodoma: "Opoziciją pirmiausia sudarė artimiausi giminai-\nčiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną \nir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-\ntija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę \nLivonijos ordino magistrą Andrių Štirlandą."
+  citata_rodoma: |
+    Opoziciją pirmiausia sudarė artimiausi giminai-
+    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
+    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
+    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
+    Livonijos ordino magistrą Andrių Štirlandą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1094,7 +1166,15 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     šalininkus, tarnus bei rekrūtus iš savo dvarų
     Lenkijoje - Voluinėje. Visas respublikonų
     pajėgas ketinta sujungti prie Širvintų.
-  citata_rodoma: "A. Oginskis\n\ntelkė respublikonų pajėgas Žemaitijoje, Viš-\nnioveckiai organizavo bajoriją LDK pietuo-\nse - Bresto vaivadijoje, pasitelkę ir savo\nšalininkus, tarnus bei rekrūtus iš savo dvarų\nLenkijoje - Voluinėje. Visas respublikonų\npajėgas ketinta sujungti prie Širvintų."
+  citata_rodoma: |
+    A. Oginskis
+
+    telkė respublikonų pajėgas Žemaitijoje, Viš-
+    nioveckiai organizavo bajoriją LDK pietuo-
+    se - Bresto vaivadijoje, pasitelkę ir savo
+    šalininkus, tarnus bei rekrūtus iš savo dvarų
+    Lenkijoje - Voluinėje. Visas respublikonų
+    pajėgas ketinta sujungti prie Širvintų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -65,7 +65,12 @@ media_all_json: |-
     J. Čerkaskis dalyvavo užimant
     Gardiną, Vilnių, kur sumušė J. Radvilos
     ir V. Gosievskio pajėgas.
-  citata_rodoma: "Šklovo mūšyje taip pat dalyvavo ir kuni-\ngaikščio Jurijaus Boratinskio vadovaujamos\npajėgos.\n\nJ."
+  citata_rodoma: |
+    Šklovo mūšyje taip pat dalyvavo ir kuni-
+    gaikščio Jurijaus Boratinskio vadovaujamos
+    pajėgos.
+
+    J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -63,7 +63,10 @@ Liaškaus pieva šiame šaltinyje yra pieva.
     užgiedos, bet anie neužgiedojo, tik nusijuokė. Mūsiškiai girdėjo anuos
     nusijuokiant ir patys nusijuokė. Vienas pastebėjo: „Tai iš Liaškaus
     pievos“ .
-  citata_rodoma: "Mūsiškiai girdėjo anuos \nnusijuokiant ir patys nusijuokė. Vienas pastebėjo: „Tai iš Liaškaus \npievos“ ."
+  citata_rodoma: |
+    Mūsiškiai girdėjo anuos
+    nusijuokiant ir patys nusijuokė. Vienas pastebėjo: „Tai iš Liaškaus
+    pievos“ .
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas

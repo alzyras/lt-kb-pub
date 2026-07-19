@@ -65,7 +65,9 @@ Kämpfer : Beobachtungen zu den Sendschreiben Filofejs, JbGO, t.
     (eit. iš V. Malinin:** **_Starec
     Eleazarova monastyrja Filofej,_** **Kiev 1901, Priloženija 45p.). Plg. F. Kämpfer :**
     **_Beobachtungen zu den Sendschreiben Filofejs,_** **JbGO, t. 18, 1970, 1-46 p.**
-  citata_rodoma: "Plg. F. Kämpfer :**\n**_Beobachtungen zu den Sendschreiben Filofejs,_** **JbGO, t. 18, 1970, 1-46 p."
+  citata_rodoma: |
+    Plg. F. Kämpfer :**
+    **_Beobachtungen zu den Sendschreiben Filofejs,_** **JbGO, t. 18, 1970, 1-46 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -93,7 +93,8 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
     jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
     ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
     nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
-  citata_rodoma: "jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje"
+  citata_rodoma: |
+    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

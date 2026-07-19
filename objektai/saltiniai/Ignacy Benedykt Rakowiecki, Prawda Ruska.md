@@ -94,7 +94,13 @@ Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvo
     Vytimi, Giedraitis — Rože, Daumantas — Stumbro galva; Ge­
     diminas vietoj vieno Stulpo naudojo tris, Kaributas iš pradžių
     turėjo Erelį su Vytimi, o vėliau — Mėnulį su Kryžiais.
-  citata_rodoma: "178 /Ten pat,\n(5)\nišnaša/\nTurimas omenyje filologo Ignoto Benedikto Rakoveckio (Rakowiec-\nki; 1782—1839) darbas (Prawda Ruska. Warszawa, 1820—1828.\nT. I—II)."
+  citata_rodoma: |
+    178 /Ten pat,
+    (5)
+    išnaša/
+    Turimas omenyje filologo Ignoto Benedikto Rakoveckio (Rakowiec-
+    ki; 1782—1839) darbas (Prawda Ruska. Warszawa, 1820—1828.
+    T. I—II).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

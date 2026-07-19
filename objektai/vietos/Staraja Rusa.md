@@ -91,7 +91,15 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
     nusiaubtos Opokos apylinkės.
     Spalio 23 d. K. Radvila pasiekė prie
     apgulto Pskovo buvusią S. Batoro
-  citata_rodoma: "RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis\n\nvos atkariautos teritorijos\n\nStarajos Rusos miesto\nir jį sudegino, o įgulą\n„išmušė“. Galiausiai buvo\nnusiaubtos Opokos apylinkės."
+  citata_rodoma: |
+    RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
+
+    vos atkariautos teritorijos
+
+    Starajos Rusos miesto
+    ir jį sudegino, o įgulą
+    „išmušė“. Galiausiai buvo
+    nusiaubtos Opokos apylinkės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

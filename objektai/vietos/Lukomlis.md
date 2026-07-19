@@ -100,7 +100,14 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     Kijevą. Livonijos magistras grįžo į savo
     žemę ir netrukus mirė nuo parsivežtos
     ligos.
-  citata_rodoma: "Švitrigaila po 11 sa-\nvaičių traukdamasis grįžo į Lukomlį,\n\nkur paleido kariuomenę, o pats išvyko į\nKijevą. Livonijos magistras grįžo į savo\nžemę ir netrukus mirė nuo parsivežtos\nligos."
+  citata_rodoma: |
+    Švitrigaila po 11 sa-
+    vaičių traukdamasis grįžo į Lukomlį,
+
+    kur paleido kariuomenę, o pats išvyko į
+    Kijevą. Livonijos magistras grįžo į savo
+    žemę ir netrukus mirė nuo parsivežtos
+    ligos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

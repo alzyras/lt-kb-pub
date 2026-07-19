@@ -89,7 +89,15 @@ Narbutas tikybinį sugedimą aiškino kaip kylantį iš pačių religijos sargų
     giją kildina iš skandinavų. Kadangi ir šioje yra nemažai pasi­
     savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
     šybė pasirodo esanti dar ryškesnė.
-  citata_rodoma: "Savo ruožtu romėnai -  kuo jie darėsi galingesni ir labiau\napsišvietę, tuo labiau grimzdo į daugiadievystės chaosą. Žy­\nniai, kurių priviso nesuskaitoma daugybė, net nebežinojo, iš\nkur dar pasiskolinti naujų dievų. Ne tiktai miestai, šeimos, pa­\nvieniai žmonės, bet ir aistros bei gėdingi nusidėjimai turėjo\natskirus, tikybos valdininkų įgaliotus dievus. Štai kokia yra tikra\nir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas\nkyla iš pačių religijos sargų arba kunigų."
+  citata_rodoma: |
+    Savo ruožtu romėnai -  kuo jie darėsi galingesni ir labiau
+    apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą. Žy­
+    niai, kurių priviso nesuskaitoma daugybė, net nebežinojo, iš
+    kur dar pasiskolinti naujų dievų. Ne tiktai miestai, šeimos, pa­
+    vieniai žmonės, bet ir aistros bei gėdingi nusidėjimai turėjo
+    atskirus, tikybos valdininkų įgaliotus dievus. Štai kokia yra tikra
+    ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
+    kyla iš pačių religijos sargų arba kunigų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

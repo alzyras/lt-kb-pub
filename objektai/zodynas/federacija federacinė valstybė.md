@@ -162,7 +162,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     XVIII a. pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų),
     atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
     čiasis Lietuvos Statutas 1588 m.
-  citata_rodoma: "Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira"
+  citata_rodoma: |
+    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +184,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     daujama Lenkijos ir Lietuvos federacija niekaip nesilipdė, paaiškėjo, kad
     lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse
     etnografinėse ribose.
-  citata_rodoma: "lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse"
+  citata_rodoma: |
+    lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +202,11 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     jos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federa-
     cijos būdu. Varšuva tam nesipriešino, tačiau lietuviams federacija neti-
     ko – kam tada apskritai kovoti dėl nepriklausomybės?
-  citata_rodoma: "Tačiau 1921 m. Vilniaus klausimo ir Lietuvos ir Lenki-\njos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federa-\ncijos būdu. Varšuva tam nesipriešino, tačiau lietuviams federacija neti-\nko – kam tada apskritai kovoti dėl nepriklausomybės?"
+  citata_rodoma: |
+    Tačiau 1921 m. Vilniaus klausimo ir Lietuvos ir Lenki-
+    jos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federa-
+    cijos būdu. Varšuva tam nesipriešino, tačiau lietuviams federacija neti-
+    ko – kam tada apskritai kovoti dėl nepriklausomybės?
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -218,7 +224,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
     ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę
     diskusijom“.
-  citata_rodoma: "federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą."
+  citata_rodoma: |
+    federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

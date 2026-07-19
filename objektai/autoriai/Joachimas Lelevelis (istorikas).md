@@ -156,7 +156,12 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: "Išvaryti ir politiš-\nkai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino\niš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-\ndos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją\npoliciją."
+  citata_rodoma: |
+    Išvaryti ir politiš-
+    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
+    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
+    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
+    policiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -185,7 +190,20 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     zefas Frankas (Joseph Frank) – jų
     darbai buvo žinomi tarptautiniu
     mastu.
-  citata_rodoma: "Universi-\ntete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-\nlewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),\nchemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-\ndvigas Heinrichas Bojanus (Lu-\ndwig Heinrich Bojanus) ir Edu-\nardas Karolis Eichvaldas (Edward\nKarol Eichwald), iš Austrijos at-\nvykę Johanas Pėteris Frankas (Jo-\nhann Peter Frank) ir jo sūnus Jo-\nzefas Frankas (Joseph Frank) – jų\ndarbai buvo žinomi tarptautiniu\nmastu."
+  citata_rodoma: |
+    Universi-
+    tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-
+    lewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),
+    chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-
+    dvigas Heinrichas Bojanus (Lu-
+    dwig Heinrich Bojanus) ir Edu-
+    ardas Karolis Eichvaldas (Edward
+    Karol Eichwald), iš Austrijos at-
+    vykę Johanas Pėteris Frankas (Jo-
+    hann Peter Frank) ir jo sūnus Jo-
+    zefas Frankas (Joseph Frank) – jų
+    darbai buvo žinomi tarptautiniu
+    mastu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +245,13 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     šiu arba išsikraustydavo iš proto. Bet penktoji deivė - Sargė (Sar-
     gietoje) - tai pastebėjusi, anoms trims primindavo jų priedermes
     ir sergėdavo žmonių likimus.
-  citata_rodoma: "Ši deivė savo reikšme visiškai tapati romėnų žinomam die­\nvaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo\npaprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­\nkirtimo vietoje.\n18 Lelevelio senovės geografijos tyrimai*.\n19 Kunigo Sirvydo žodynas."
+  citata_rodoma: |
+    Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
+    vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
+    paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
+    kirtimo vietoje.
+    18 Lelevelio senovės geografijos tyrimai*.
+    19 Kunigo Sirvydo žodynas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

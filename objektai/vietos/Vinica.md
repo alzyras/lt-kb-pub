@@ -120,7 +120,21 @@ media_all_json: |-
     vadinamas Olegu), Riazanės kunigaikštis, karštomis
     maldomis jį užstojo ir, davęs užstatą, laidavo jam Vy­
     tauto palankumą.
-  citata_rodoma: "Niekas taip\nD im itru i a tid u o d a  tė-\nstipriai nesutramdo išpuikėlio\nv o n iją\nširdies, kaip nesėkmė, todėl\nir Dimitras, ilgai kalėdamas,\nišmoko klusnumo. Vėliau, prisiekęs visada būti ištiki­\nmas Vytautui bei jo įpėdiniams, gavo iš jo valdyti\n342\n\n## Puslapis 341\n\nBraclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs\nšiomis didelėmis valdomis, liovėsi reikalavęs Seversko."
+  citata_rodoma: |
+    Niekas taip
+    D im itru i a tid u o d a  tė-
+    stipriai nesutramdo išpuikėlio
+    v o n iją
+    širdies, kaip nesėkmė, todėl
+    ir Dimitras, ilgai kalėdamas,
+    išmoko klusnumo. Vėliau, prisiekęs visada būti ištiki­
+    mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti
+    342
+
+    ## Puslapis 341
+
+    Braclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs
+    šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

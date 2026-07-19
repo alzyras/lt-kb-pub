@@ -144,7 +144,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    17. Apie Šventos Elžbietos vyro mirtį
+    Apie Šventos Elžbietos vyro mirtį
 
       1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
     mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
@@ -152,7 +152,15 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 
 
                   18.
-  citata_rodoma: "Apie Šventos Elžbietos vyro mirtį\n\n  1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava\nmirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.\n\n\n\n              18."
+  citata_rodoma: |
+    Apie Šventos Elžbietos vyro mirtį
+
+      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
+    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
+
+
+
+                  18.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -165,11 +173,15 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    32. Apie Tiuringijos landgrafo išrinkimą Romos karaliumi
+    Apie Tiuringijos landgrafo išrinkimą Romos karaliumi
 
       1246 metais Tiuringijos landgrafas buvo išrinktas Romos karaliumi (Ptol. 22,5; Mart.
     p. 303, 309).
-  citata_rodoma: "Apie Tiuringijos landgrafo išrinkimą Romos karaliumi\n\n  1246 metais Tiuringijos landgrafas buvo išrinktas Romos karaliumi (Ptol. 22,5; Mart.\np. 303, 309)."
+  citata_rodoma: |
+    Apie Tiuringijos landgrafo išrinkimą Romos karaliumi
+
+      1246 metais Tiuringijos landgrafas buvo išrinktas Romos karaliumi (Ptol. 22,5; Mart.
+    p. 303, 309).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

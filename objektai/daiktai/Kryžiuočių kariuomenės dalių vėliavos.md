@@ -190,7 +190,12 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
     gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
     damas apie Tanenbergo mūšį.
-  citata_rodoma: "Prie\nto rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-\nšiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.\ngale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-\ndamas apie Tanenbergo mūšį."
+  citata_rodoma: |
+    Prie
+    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
+    šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
+    gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
+    damas apie Tanenbergo mūšį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +212,11 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
     Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
     nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
-  citata_rodoma: "PRIEDĖLIŲ PAAIŠKINIMAI\n**I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**\nTanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-\nnės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį."
+  citata_rodoma: |
+    PRIEDĖLIŲ PAAIŠKINIMAI
+    **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
+    Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
+    nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -223,7 +232,10 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
     to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
     šiuose. Dabar jos jau yra žuvusios.
-  citata_rodoma: "Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie\nto rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-\nšiuose. Dabar jos jau yra žuvusios."
+  citata_rodoma: |
+    Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
+    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
+    šiuose. Dabar jos jau yra žuvusios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

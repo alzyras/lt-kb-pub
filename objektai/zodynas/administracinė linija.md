@@ -113,7 +113,10 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
     promisui. Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
     dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
     perėjusį liniją lenkų kareivį.
-  citata_rodoma: "Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-\ndentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė\nperėjusį liniją lenkų kareivį."
+  citata_rodoma: |
+    Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
+    dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
+    perėjusį liniją lenkų kareivį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +141,14 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
     savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-
     nas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS,
     bolševizmui.
-  citata_rodoma: "Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės  \niš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n171\nTarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms \npo 1939 m."
+  citata_rodoma: |
+    Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
+    iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    171
+    Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
+    po 1939 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

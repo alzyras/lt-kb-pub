@@ -69,7 +69,18 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
     buvo pilies arsenale stacionariose po-
     zicijose). Jiems talkino apie 500 įvairiai
     ginkluotų civilių Vilniaus gyventojų.
-  citata_rodoma: "Lietuvos pajėgos\nVilniaus puolime balandžio 23 d. daly-\nvavo LDK 4-ojo pėstininkų regimento\n(pulko) dvi sumažintos kuopos, 7-ojo\nfuzilierių regimento dvi sumažintos\nkuopos, LDK tribunolo vengrų vėliavos\ndalinio 50 karių, artilerijos ir inžineri-\njos korpusų kariai. Iš viso apie 580 karių\nir 20 vienetų artilerijos pabūklų (visi jie\nbuvo pilies arsenale stacionariose po-\nzicijose)."
+  citata_rodoma: |
+    Lietuvos pajėgos
+    Vilniaus puolime balandžio 23 d. daly-
+    vavo LDK 4-ojo pėstininkų regimento
+    (pulko) dvi sumažintos kuopos, 7-ojo
+    fuzilierių regimento dvi sumažintos
+    kuopos, LDK tribunolo vengrų vėliavos
+    dalinio 50 karių, artilerijos ir inžineri-
+    jos korpusų kariai. Iš viso apie 580 karių
+    ir 20 vienetų artilerijos pabūklų (visi jie
+    buvo pilies arsenale stacionariose po-
+    zicijose).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

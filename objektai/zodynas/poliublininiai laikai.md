@@ -107,7 +107,12 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
     straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
     niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
     po 1569 metų Liublino unijos.
-  citata_rodoma: "Perėjęs pagrindinai į\npoliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę\nstraipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­\nniu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija\npo 1569 metų Liublino unijos."
+  citata_rodoma: |
+    Perėjęs pagrindinai į
+    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
+    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
+    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
+    po 1569 metų Liublino unijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

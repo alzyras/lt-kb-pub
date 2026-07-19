@@ -75,7 +75,11 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
     sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­
     somybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir
     tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
-  citata_rodoma: "Jo sudarytąja su Jogaila Ostrovos\nsutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­\nsomybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir\ntvarką išvargintam ir nualintam ilgų naminių karų kraštui."
+  citata_rodoma: |
+    Jo sudarytąja su Jogaila Ostrovos
+    sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­
+    somybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir
+    tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

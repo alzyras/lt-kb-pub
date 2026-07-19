@@ -164,7 +164,11 @@ Nenurodyta
     gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,
     bent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji
     šventoji namų ugnelė, arba gabija.
-  citata_rodoma: "Ugnis buvo\ngerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,\nbent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji\nšventoji namų ugnelė, arba gabija."
+  citata_rodoma: |
+    Ugnis buvo
+    gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,
+    bent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji
+    šventoji namų ugnelė, arba gabija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -186,7 +190,11 @@ Nenurodyta
     būtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­
     stogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo
     nepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių.
-  citata_rodoma: "Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje\nbūtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­\nstogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo\nnepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių."
+  citata_rodoma: |
+    Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje
+    būtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­
+    stogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo
+    nepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -104,7 +104,13 @@ media_all_json: |-
     Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
     čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
     čiau išvardintuose kraštuose^4 ).
-  citata_rodoma: "1424 metais buvo dar padaryta prekybos sutar­\ntis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“\n(laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,\nMaskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­\nčių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­\nčiau išvardintuose kraštuose^4 )."
+  citata_rodoma: |
+    1424 metais buvo dar padaryta prekybos sutar­
+    tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
+    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
+    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
+    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
+    čiau išvardintuose kraštuose^4 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +132,11 @@ media_all_json: |-
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: "Čia jie gavo iš Konrado\nžemių su Niešavos pi-\nlaite, o patys pasista-\ntė Fogelzango pilį."
+  citata_rodoma: |
+    Čia jie gavo iš Konrado
+    žemių su Niešavos pi-
+    laite, o patys pasista-
+    tė Fogelzango pilį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

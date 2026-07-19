@@ -73,7 +73,13 @@ Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiem�
     Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
     jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
     tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
-  citata_rodoma: "Betarpiškame ryšyje su Georgenburgo įkūrimu\nreikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies\nDobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.\nMindaugo pergamentai kryžiuočiams teteikė formalią teisę į\njiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek\ntegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti."
+  citata_rodoma: |
+    Betarpiškame ryšyje su Georgenburgo įkūrimu
+    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
+    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
+    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
+    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
+    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

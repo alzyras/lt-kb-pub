@@ -90,7 +90,12 @@ Narbutas remiasi Diu Fresnu aiškindamas, kad senovės vokiečių kalboje „Sal
     kur analogijos su kaimynais, labai giminiškais savo santvar­
     ka3, ten nenuginčijamai turėjo būti ir vyriausiasis žynys, ir vy­
     riausiasis teisėjas, tai yra krivis.
-  citata_rodoma: "Sala senovės vokiečių kalba reiškia teis­\nmą, o Ober-Sala -  tą pat, ką ir aukščiausiasis teismas; taip tą\nžodį aiškina Diu Fresnas (Du-Fresne. Glossarium ad scripto­\nres mediae et infimae latinitatis s. h. v.) ir Miozeris (Möser.\nOsnabruckische Geschichte. -  B. I. -  S. 352)."
+  citata_rodoma: |
+    Sala senovės vokiečių kalba reiškia teis­
+    mą, o Ober-Sala -  tą pat, ką ir aukščiausiasis teismas; taip tą
+    žodį aiškina Diu Fresnas (Du-Fresne. Glossarium ad scripto­
+    res mediae et infimae latinitatis s. h. v.) ir Miozeris (Möser.
+    Osnabruckische Geschichte. -  B. I. -  S. 352).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

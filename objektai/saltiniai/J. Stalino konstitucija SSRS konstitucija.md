@@ -87,7 +87,8 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     stengėsi elgtis kaip reikalauta ir gyveno dvigubą – viešą ir asmeninį – gy-
     venimą. Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
     dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
-  citata_rodoma: "Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos"
+  citata_rodoma: |
+    Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +107,8 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
-  citata_rodoma: "V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų"
+  citata_rodoma: |
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

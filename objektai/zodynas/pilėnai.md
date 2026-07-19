@@ -135,7 +135,19 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
     giau kaip trys šimtai samdininkų ir keli kryžiuočių
     ordino riteriai, o štai grobio buvo tiek, kiek keletas
     karių galėjo išvežti.
-  citata_rodoma: "Tad nebesitikė­\ndami galėsią apgulti pilį, nes to pradėti neleido audra, \nbe to, bijodami pavojaus, kuris galėtų iškilti, jeigu prie­\nšui paaiškėtų, kad puolėjų ne tiek daug, jie ryžtingai \nužpuolė miestą. Pilėnai, kuriems pirmas veržlus ant­\npuolis neleido pabėgti, buvo arba išžudyti, arba paimti \nį nelaisvę, o kurie paspruko į pilį, neteko namų, iš­\nplėštų ir sudegintų. Skerdynės čia ėjo didesnės, nei \ngalima buvo tikėtis iš priešų skaičiaus: jų nebuvo dau­\ngiau kaip trys šimtai samdininkų ir keli kryžiuočių \nordino riteriai, o štai grobio buvo tiek, kiek keletas \nkarių galėjo išvežti."
+  citata_rodoma: |
+    Tad nebesitikė­
+    dami galėsią apgulti pilį, nes to pradėti neleido audra,
+    be to, bijodami pavojaus, kuris galėtų iškilti, jeigu prie­
+    šui paaiškėtų, kad puolėjų ne tiek daug, jie ryžtingai
+    užpuolė miestą. Pilėnai, kuriems pirmas veržlus ant­
+    puolis neleido pabėgti, buvo arba išžudyti, arba paimti
+    į nelaisvę, o kurie paspruko į pilį, neteko namų, iš­
+    plėštų ir sudegintų. Skerdynės čia ėjo didesnės, nei
+    galima buvo tikėtis iš priešų skaičiaus: jų nebuvo dau­
+    giau kaip trys šimtai samdininkų ir keli kryžiuočių
+    ordino riteriai, o štai grobio buvo tiek, kiek keletas
+    karių galėjo išvežti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -173,7 +185,27 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
     goti nuo iečių bei strėlių ir
     geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
     priešą, stovintį krante.
-  citata_rodoma: "Iš tos išdavystės išėjo visai kas kita, nei vy­\nlėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,\nWQ\n\n## Puslapis 189\n\njeigu sugautas kaimietis nebūtų pranešęs, jog ne­\ntoliese tyko Vytenis su karių būriais, kryžiuočiai,\npersikėlę per Nemuną, patys būtų pakliuvę į pasalas,\nkurias spendė Gardinui. Bisenės užpuolimas buvo nar­\nsiai pilėnų atremtas; smarkiai sumuštas ir didelės ka­\nrių dalies netekęs priešas buvo priverstas pasitraukti\nnieko nepešęs. Kadangi stip-\n1313 m e ta i\nriausios lietuvių pilys buvo\nprie Nemuno bei kitų upių,\nVerneris, Ragainės komtūras, patarė kryžiuočiams jas\nvieną po kitos pulti laivais, įtikinėdamas, kad į van­\ndens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­\nprastai menkiau sutvirtinti ir lengviau prieinami."
+  citata_rodoma: |
+    Iš tos išdavystės išėjo visai kas kita, nei vy­
+    lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,
+    WQ
+
+    ## Puslapis 189
+
+    jeigu sugautas kaimietis nebūtų pranešęs, jog ne­
+    toliese tyko Vytenis su karių būriais, kryžiuočiai,
+    persikėlę per Nemuną, patys būtų pakliuvę į pasalas,
+    kurias spendė Gardinui. Bisenės užpuolimas buvo nar­
+    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
+    rių dalies netekęs priešas buvo priverstas pasitraukti
+    nieko nepešęs. Kadangi stip-
+    1313 m e ta i
+    riausios lietuvių pilys buvo
+    prie Nemuno bei kitų upių,
+    Verneris, Ragainės komtūras, patarė kryžiuočiams jas
+    vieną po kitos pulti laivais, įtikinėdamas, kad į van­
+    dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
+    prastai menkiau sutvirtinti ir lengviau prieinami.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

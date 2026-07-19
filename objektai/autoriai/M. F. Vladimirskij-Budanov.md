@@ -88,7 +88,11 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
     kuriedu yra palikę daug studijų ir straipsnių iš Lietuvos valstybės
     teisiniu santykių ir institucijų : E. I. Leontovičių ir M. F.
     Vladimirskį-Budanovą 187.
-  citata_rodoma: "Čia reikia pirmiausia paminėti du žymius teisės istorikus,\nkuriedu yra palikę daug studijų ir straipsnių iš Lietuvos valstybės\nteisiniu santykių ir institucijų : E. I. Leontovičių ir M. F.\nVladimirskį-Budanovą 187."
+  citata_rodoma: |
+    Čia reikia pirmiausia paminėti du žymius teisės istorikus,
+    kuriedu yra palikę daug studijų ir straipsnių iš Lietuvos valstybės
+    teisiniu santykių ir institucijų : E. I. Leontovičių ir M. F.
+    Vladimirskį-Budanovą 187.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +115,14 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
     ir kt. —Žr. LE, t. 34, 439 p.**
     (^140) **M. K. Liubavskij :** **_Oblastnoe delenie_** **(LOD);** **_Litovsko-russkij sejm_**
     **(ČIObč, t. 195, 197, 199, 1900-1901).
-  citata_rodoma: "**\n(^139) **M. F. Vladimirskij-Budanov :** **_Očerki iz istorii Litovsko-russkago\nprava,_** **3 tt., Kiev 1889-1893 ;** **_Uloženie i Litovskij Statut_** **(Sbornik gosudarst-\nvennych Znanii, VI, 1881) ;** **_Formy krestjanskago zemlevladenija v Litovsko-\nrusskom gosudarstve XVI v._** **(Kiev 1892, 1911) ;** **_Glavnyj Litovskij Tribunal_**\n**(Kievskaja Univ. Izvestija, IX, 1901) ;** **_Litovskie evreii_** **(ŽMNPr, I, 1885),\nir kt."
+  citata_rodoma: |
+    **
+    (^139) **M. F. Vladimirskij-Budanov :** **_Očerki iz istorii Litovsko-russkago
+    prava,_** **3 tt., Kiev 1889-1893 ;** **_Uloženie i Litovskij Statut_** **(Sbornik gosudarst-
+    vennych Znanii, VI, 1881) ;** **_Formy krestjanskago zemlevladenija v Litovsko-
+    russkom gosudarstve XVI v._** **(Kiev 1892, 1911) ;** **_Glavnyj Litovskij Tribunal_**
+    **(Kievskaja Univ. Izvestija, IX, 1901) ;** **_Litovskie evreii_** **(ŽMNPr, I, 1885),
+    ir kt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

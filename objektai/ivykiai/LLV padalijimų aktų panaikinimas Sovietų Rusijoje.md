@@ -87,7 +87,8 @@ Nenurodyta
     mo) aktas. Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panai-
     kino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė
     nebeatsikūrė.
-  citata_rodoma: "kino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė"
+  citata_rodoma: |
+    kino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

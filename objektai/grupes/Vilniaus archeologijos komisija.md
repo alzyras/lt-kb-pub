@@ -109,7 +109,13 @@ Archeologijos ir mokslo komisija.
     šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-  citata_rodoma: "Lelevelis, šali­\nninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­\nse istorikas detaliai aprašė Vilniaus Archeologinės komisijos \nveiklą, lenkų literatūros problemas, nemažai dėmesio skyrė \nistorijos mokslo padėčiai lenkiškos kultūros centruose - Var­\nšuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M."
+  citata_rodoma: |
+    Lelevelis, šali­
+    ninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­
+    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
+    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
+    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
+    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

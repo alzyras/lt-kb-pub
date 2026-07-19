@@ -148,7 +148,15 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
     nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
     kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
     magistrą, pagalbos.
-  citata_rodoma: "Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą\nbaltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai\nir užbaigė.\n\n\n\n\n            246 (239)."
+  citata_rodoma: |
+    Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą
+    baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai
+    ir užbaigė.
+
+
+
+
+                246 (239).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -176,7 +184,18 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
     pasileido jų persekioti vieni pėstininkai, užstodami kelią viename miške, kurį broliai
     greitai perėjo ir, lauke juos užpuolę, 12 nukovė, tuo tarpu kiti, pasileidę bėgti, vėliau nė
     nedrįso rodytis.
-  citata_rodoma: "Apie vieną nuostabų atsivertimą\n\n  Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo\nvienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,\ngarsėjęs kaip labai gabus račius  ir didelis karo pabūklų meistras. Kai jis kartą, jau\npadaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo\nvieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini\nketuriomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis\nneabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo\nbūdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami\nnumirėliai."
+  citata_rodoma: |
+    Apie vieną nuostabų atsivertimą
+
+      Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
+    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
+    garsėjęs kaip labai gabus račius  ir didelis karo pabūklų meistras. Kai jis kartą, jau
+    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
+    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
+    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
+    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
+    būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
+    numirėliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

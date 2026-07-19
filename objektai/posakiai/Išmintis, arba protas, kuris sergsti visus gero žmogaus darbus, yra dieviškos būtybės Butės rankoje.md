@@ -100,7 +100,17 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­
     da davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo
     nimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi
-  citata_rodoma: "Iš mitologijos žodynų sužinojęs, kad kitos tautos garbino\nindiškos kilmės deivę Bute, tapatinamą su išmintinguoju Bud-\nha, T. Narbutas ieško šios deivės ir Lietuvoje. Ir Klaipėdos apy­\nlinkėse iš vieno jūrininko išgirsta „padavimą“, kuriame tiesiai\nšviesiai sakoma: „Išmintis, arba protas, kuris sergsti visus ge­\nro žmogaus darbus, yra dieviškos būtybės Butės rankoje“. O\nkaip kitą argumentą, patvirtinantį mito apie šią deivę buvimą\nlietuvių mitologijoje, nurodo žodį būdas, kuris turįs prasmę ir\n„protas“, „išmintis“ (tokia prasme iki šiol šis žodis nėra užra­\nšytas16)."
+  citata_rodoma: |
+    Iš mitologijos žodynų sužinojęs, kad kitos tautos garbino
+    indiškos kilmės deivę Bute, tapatinamą su išmintinguoju Bud-
+    ha, T. Narbutas ieško šios deivės ir Lietuvoje. Ir Klaipėdos apy­
+    linkėse iš vieno jūrininko išgirsta „padavimą“, kuriame tiesiai
+    šviesiai sakoma: „Išmintis, arba protas, kuris sergsti visus ge­
+    ro žmogaus darbus, yra dieviškos būtybės Butės rankoje“. O
+    kaip kitą argumentą, patvirtinantį mito apie šią deivę buvimą
+    lietuvių mitologijoje, nurodo žodį būdas, kuris turįs prasmę ir
+    „protas“, „išmintis“ (tokia prasme iki šiol šis žodis nėra užra­
+    šytas16).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

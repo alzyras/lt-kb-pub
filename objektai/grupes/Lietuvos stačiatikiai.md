@@ -71,7 +71,12 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
     pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
-  citata_rodoma: "Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,\nLietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo\npajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
+  citata_rodoma: |
+    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
+    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
+    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
+    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
+    Filotėją įtikinti Lietuvos ortodoksų labui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

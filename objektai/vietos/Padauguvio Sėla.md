@@ -61,7 +61,13 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
     šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).
     Šiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­
     mas plotas, istorinių laikų angoje buvo vienalytiškas.
-  citata_rodoma: "Užėmę Padauguvio Sėlą (tarp Dauguvos intakų\nDysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­\nte, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos\nšoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).\nŠiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­\nmas plotas, istorinių laikų angoje buvo vienalytiškas."
+  citata_rodoma: |
+    Užėmę Padauguvio Sėlą (tarp Dauguvos intakų
+    Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­
+    te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos
+    šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).
+    Šiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­
+    mas plotas, istorinių laikų angoje buvo vienalytiškas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

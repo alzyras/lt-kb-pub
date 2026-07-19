@@ -85,7 +85,13 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     miausių giminių latvių, prūsų ir sūduvių-jotvingių. Labai tolimai
     pirmųjų žmogaus pėdsakų epochai pažinti reikia dar griebtis geolo­
     gijos, paleontologijos ir antropologijos.
-  citata_rodoma: "Rausiantis kastuvu rytų Pabaltijo žemėje, kuri ir čia yra už­\nkonservavusi daug senosios kultūros paminklų, galima pažvelgti\nnepalyginamai giliau į seniausią praeitį lietuvių protėvių ir jų arti­\nmiausių giminių latvių, prūsų ir sūduvių-jotvingių. Labai tolimai\npirmųjų žmogaus pėdsakų epochai pažinti reikia dar griebtis geolo­\ngijos, paleontologijos ir antropologijos."
+  citata_rodoma: |
+    Rausiantis kastuvu rytų Pabaltijo žemėje, kuri ir čia yra už­
+    konservavusi daug senosios kultūros paminklų, galima pažvelgti
+    nepalyginamai giliau į seniausią praeitį lietuvių protėvių ir jų arti­
+    miausių giminių latvių, prūsų ir sūduvių-jotvingių. Labai tolimai
+    pirmųjų žmogaus pėdsakų epochai pažinti reikia dar griebtis geolo­
+    gijos, paleontologijos ir antropologijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

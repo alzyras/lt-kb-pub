@@ -142,7 +142,13 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
     už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
     rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: "Ilgainiui pavyko nustatyti prūsų kalbos\nvietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių\nkalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu\nlietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės\nuž rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai\nrodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8."
+  citata_rodoma: |
+    Ilgainiui pavyko nustatyti prūsų kalbos
+    vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių
+    kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu
+    lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
+    už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
+    rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -185,7 +191,10 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
     nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
     Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
-  citata_rodoma: "Didelę  dalį  prūsiškųjų   ir  kitų  baltiškųjų  vietovardžių  bei  asmenvardžių\n\nrekonstrukcijų pateikė akad."
+  citata_rodoma: |
+    Didelę  dalį  prūsiškųjų   ir  kitų  baltiškųjų  vietovardžių  bei  asmenvardžių
+
+    rekonstrukcijų pateikė akad.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

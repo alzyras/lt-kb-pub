@@ -74,7 +74,8 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
     kokias klases turi išeiti elgeta.
     — Ar nepasapnavai šiandien ko gero? Rauleli, kai eisi į Lomius,
     neik vienas, veskis ir mane.
-  citata_rodoma: "— Ar nepasapnavai šiandien ko gero? Rauleli, kai eisi į Lomius, neik vienas, veskis ir mane."
+  citata_rodoma: |
+    — Ar nepasapnavai šiandien ko gero? Rauleli, kai eisi į Lomius, neik vienas, veskis ir mane.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -92,7 +93,8 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
     dau — šaukia mane tėvas, mano tėvas: „Juzapai, Juzapai!“
     Sakau:
     „Ko, tėveli brangiausias?“ O tėvas: „Eik į Lomius pas Lubiną!
-  citata_rodoma: "Eik į Lomius pas Lubiną!"
+  citata_rodoma: |
+    Eik į Lomius pas Lubiną!
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

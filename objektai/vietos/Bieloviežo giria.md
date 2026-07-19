@@ -70,7 +70,10 @@ Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti s
     pasiuntinius pas popiežių, prašydamas šventąjį tėvą-
     popiežių, kad jis duotų Vytautui vainiką pagal krikš­
     čionišką paprotį.
-  citata_rodoma: "Paskui didysis kunigaikštis Vytautas pasikvietė ka­\nralių Jogailą 1  žiemai pas save į Bieloviežo girią me­\ndžioti pramogai stumbrų."
+  citata_rodoma: |
+    Paskui didysis kunigaikštis Vytautas pasikvietė ka­
+    ralių Jogailą 1  žiemai pas save į Bieloviežo girią me­
+    džioti pramogai stumbrų.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

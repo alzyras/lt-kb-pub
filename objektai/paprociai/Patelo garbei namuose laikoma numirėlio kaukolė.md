@@ -134,7 +134,13 @@ Nenurodyta
     džių trejybė.
     Seniausiems ir drauge labiausiai paplitusiems mitams pri­
     klauso mitas apie Kabirus.
-  citata_rodoma: "Patelas (Patelo)\nSkraidančių oro dvasių dievas, savitas aukščiausiosios ka­\ntegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą\njis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.\nJo garbei kiekvienas namuose laikydavo numirėlio kaukolę.\nLasickis jį žino kaip Algį (Algis)."
+  citata_rodoma: |
+    Patelas (Patelo)
+    Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
+    tegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą
+    jis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
+    Jo garbei kiekvienas namuose laikydavo numirėlio kaukolę.
+    Lasickis jį žino kaip Algį (Algis).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -156,7 +162,14 @@ Nenurodyta
     Dii socii arbaAnactes - monarchai. E Noelis mano, kad Kabi­
     rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
     vo seniausia jų šventykla.
-  citata_rodoma: "Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,\nant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­\nriausiai šio dievo globojami buvo laužai, ant kurių degindavo\nnumirėlius, o jų vėles dievas pernešdavo į amžiną buveinę. Čio­\nnykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena\nįnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,\npagrobiantis vėlę."
+  citata_rodoma: |
+    Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,
+    ant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­
+    riausiai šio dievo globojami buvo laužai, ant kurių degindavo
+    numirėlius, o jų vėles dievas pernešdavo į amžiną buveinę. Čio­
+    nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena
+    įnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,
+    pagrobiantis vėlę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

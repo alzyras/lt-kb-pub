@@ -202,7 +202,10 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
     Jogailai paklusnumą.
-  citata_rodoma: "Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus\nprie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo\nJogailai paklusnumą."
+  citata_rodoma: |
+    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
+    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
+    Jogailai paklusnumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

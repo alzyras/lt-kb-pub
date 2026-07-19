@@ -66,7 +66,10 @@ Sapiega ir maršalas A.
     Vilnių. Kartu su juo pasitraukė
     iždininkas B. P. Sapiega ir marša-
     las A. P. Sapiega bei totorių vėliavos.
-  citata_rodoma: "Kartu su juo pasitraukė\niždininkas B. P. Sapiega ir marša-\nlas A. P. Sapiega bei totorių vėliavos."
+  citata_rodoma: |
+    Kartu su juo pasitraukė
+    iždininkas B. P. Sapiega ir marša-
+    las A. P. Sapiega bei totorių vėliavos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

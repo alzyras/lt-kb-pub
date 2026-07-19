@@ -159,7 +159,26 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
     „kiekvienas matys, jog varna puošiasi svetimomis
     plunksnomis". Šitaip rašė M. Strijkovskis apie A. Gvag-
     ninį.
-  citata_rodoma: "BBK-63.3(2L)\nVi-109\nSpausdinama pagal leidinį:\nAlbertas Vijūkas-Kojelavičius\nLIETUVOS ISTORIJA, V., Vaga, 1988\nREDAKCINE KOM ISIJA\nJ. LANKUTIS (pirm ininkas),\nA. JOVAIŠAS, A. MALDONIS, V. MERKYS,\nE. ULČINAITĖ, H. ZABULIS\nĮvadą ir paaiškinim us parašė\nJUOZAS JURGINIS\nIš lotynų ka!bos_vertė\nLEONAS VALKŪNAS\nV\n0503020908—250\n-----------------------  Prot. Nr.\nM853(10)—89\n1—89\n(6) Vertimas, įvadas, paaiškinimai."
+  citata_rodoma: |
+    BBK-63.3(2L)
+    Vi-109
+    Spausdinama pagal leidinį:
+    Albertas Vijūkas-Kojelavičius
+    LIETUVOS ISTORIJA, V., Vaga, 1988
+    REDAKCINE KOM ISIJA
+    J. LANKUTIS (pirm ininkas),
+    A. JOVAIŠAS, A. MALDONIS, V. MERKYS,
+    E. ULČINAITĖ, H. ZABULIS
+    Įvadą ir paaiškinim us parašė
+    JUOZAS JURGINIS
+    Iš lotynų ka!bos_vertė
+    LEONAS VALKŪNAS
+    V
+    0503020908—250
+    -----------------------  Prot. Nr.
+    M853(10)—89
+    1—89
+    (6) Vertimas, įvadas, paaiškinimai.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -180,7 +199,12 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
+  citata_rodoma: |
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+    *
+    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

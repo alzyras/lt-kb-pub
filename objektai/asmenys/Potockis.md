@@ -80,7 +80,10 @@ Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žage
     mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
     šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
     rasti Lydos apskrityje.
-  citata_rodoma: "9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš\nKurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė\nLvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*."
+  citata_rodoma: |
+    9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš
+    Kurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė
+    Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

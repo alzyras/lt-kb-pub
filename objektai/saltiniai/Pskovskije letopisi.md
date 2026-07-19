@@ -68,7 +68,12 @@ media_all_json: |-
     « Pskoviečiai liovėsi bučiuoti kryžių (priesaikai) Novgorodui, pasi­
     sodino iš lietuvių rankos («iz Litovskia ruki ») kunigaikštį Alek­
     sandrą »^5.
-  citata_rodoma: "**\n(^4) **_Pskovskije letopisi,_** **vyp. 1, Moskva-Leningrad 1941, 15-16 p.**\n\n\nSandras (Mykolo sūnus)."
+  citata_rodoma: |
+    **
+    (^4) **_Pskovskije letopisi,_** **vyp. 1, Moskva-Leningrad 1941, 15-16 p.**
+
+
+    Sandras (Mykolo sūnus).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

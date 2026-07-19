@@ -126,7 +126,22 @@ Nenurodyta
     me danguje aiškiai švietė mėnulio pilnatis, lenkai,
     trokšdami galutinės pergalės, dar po pusiaunakčio per­
     sekiojo sprunkančius rusus.
-  citata_rodoma: "Neilgai trukus, tai yra gruodžio 2 d., Boleslovas\npralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­\ndešimties tūkstančių kariuomene, įrengusia prie Ašme­\nnos stovyklą. Į pagalbą jam\nŽ y g im a n ta s\nsu m u ša\natėjo beveik visa Rusia, ne\nŠ v itrig a ilą\ntik ta, kuri priklausė Lietuvos\ndidžiajam kunigaikščiui, tai\nyra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,\nVolynės žemės, bet atžygiavo kariuomenė iš Maskvos,\nRiazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­\nčio Boriso brolio. Pagal slaptą susitarimą Livonija at­\nsiuntė į pagalbą kelis būrius vokiečių."
+  citata_rodoma: |
+    Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
+    pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
+    dešimties tūkstančių kariuomene, įrengusia prie Ašme­
+    nos stovyklą. Į pagalbą jam
+    Ž y g im a n ta s
+    su m u ša
+    atėjo beveik visa Rusia, ne
+    Š v itrig a ilą
+    tik ta, kuri priklausė Lietuvos
+    didžiajam kunigaikščiui, tai
+    yra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,
+    Volynės žemės, bet atžygiavo kariuomenė iš Maskvos,
+    Riazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­
+    čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
+    siuntė į pagalbą kelis būrius vokiečių.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -78,7 +78,8 @@ Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karal
     nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
     Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
     teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-  citata_rodoma: "nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki"
+  citata_rodoma: |
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

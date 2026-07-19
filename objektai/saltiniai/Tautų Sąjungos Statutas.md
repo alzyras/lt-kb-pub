@@ -96,7 +96,15 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
     Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
     tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
     liktą.
-  citata_rodoma: "Neutralumo politika ir\nMolotovo–Ribentropo paktas\nGriūvant Versalio sistemos postulatams, Tautų Sąjungai\nnebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų\nministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti\njų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto\n16-ą straipsnį. Neturėdamos jokio pasirinkimo, trys Baltijos valstybės\nparuošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m."
+  citata_rodoma: |
+    Neutralumo politika ir
+    Molotovo–Ribentropo paktas
+    Griūvant Versalio sistemos postulatams, Tautų Sąjungai
+    nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų
+    ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti
+    jų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto
+    16-ą straipsnį. Neturėdamos jokio pasirinkimo, trys Baltijos valstybės
+    paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -119,7 +127,16 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
     ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti
     jų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto
     16-ą straipsnį.
-  citata_rodoma: "O tikros politinių \njėgų vienybės reikėjo, nes artėjo sunkūs laikai.\nNeutralumo politika ir  \nMolotovo–Ribentropo paktas\nGriūvant Versalio sistemos postulatams, Tautų Sąjungai \nnebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų \nministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti \njų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto \n16-ą straipsnį."
+  citata_rodoma: |
+    O tikros politinių
+    jėgų vienybės reikėjo, nes artėjo sunkūs laikai.
+    Neutralumo politika ir
+    Molotovo–Ribentropo paktas
+    Griūvant Versalio sistemos postulatams, Tautų Sąjungai
+    nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų
+    ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti
+    jų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto
+    16-ą straipsnį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

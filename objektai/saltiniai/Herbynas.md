@@ -83,7 +83,13 @@ Simonas Daukantas atsiuntė Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną�
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti. Taip nyko dešimtmečius kaupta bib­
     lioteka, istorijos dokumentų archyvas, nespausdinti darbai.
-  citata_rodoma: "Pradžia jau buvo padaryta:\nišleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-\njūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­\nnealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­\ntos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,\nS. Daukantas nutraukė su juo santykius."
+  citata_rodoma: |
+    Pradžia jau buvo padaryta:
+    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
+    jūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­
+    nealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­
+    tos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,
+    S. Daukantas nutraukė su juo santykius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

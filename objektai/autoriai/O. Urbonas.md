@@ -71,7 +71,13 @@ Urbonas, O.
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
     _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
     St.
-  citata_rodoma: "— Urbonas, O. : _1410\nmetų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.\n\n1960. — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­\ndeutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :\n_Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p."
+  citata_rodoma: |
+    — Urbonas, O. : _1410
+    metų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.
+
+    1960. — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­
+    deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
+    _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

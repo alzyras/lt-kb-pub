@@ -119,7 +119,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
     Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
-  citata_rodoma: "durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi."
+  citata_rodoma: |
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -144,7 +145,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
-  citata_rodoma: "ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos"
+  citata_rodoma: |
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

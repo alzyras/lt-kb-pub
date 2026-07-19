@@ -96,7 +96,13 @@ Narbutas spėja, kad 1418 metų rankraštis apie agapijonus Rusijoje ir Lietuvoj
     kaip mūsų mitologų spėjimas; kai kurie iš mūsų deivės Lados
     daro graikų Venerą arba egiptiečių Izidę, o iš jos dvynių Lėlių
     vadina Kupidonu, o Polėlių - Himenėju.
-  citata_rodoma: "16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-\nmchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum\ncl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­\nnarum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro\nd’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki\n1425 metų."
+  citata_rodoma: |
+    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
+    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
+    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
+    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
+    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
+    1425 metų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

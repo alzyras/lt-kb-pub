@@ -63,7 +63,12 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
     beveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­
     nymui karūnuotis. Iškilo dideli ginčai, kurie vos neišprovokavo
     karo.
-  citata_rodoma: "Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto,\nkaip be druskos, neapseidavo ir kuriai jo nuopelnai buvo dideli,\nbeveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­\nnymui karūnuotis. Iškilo dideli ginčai, kurie vos neišprovokavo\nkaro."
+  citata_rodoma: |
+    Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto,
+    kaip be druskos, neapseidavo ir kuriai jo nuopelnai buvo dideli,
+    beveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­
+    nymui karūnuotis. Iškilo dideli ginčai, kurie vos neišprovokavo
+    karo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

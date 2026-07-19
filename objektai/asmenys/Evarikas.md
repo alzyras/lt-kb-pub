@@ -115,7 +115,21 @@ Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Eva
     ėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­
     tauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra
     1 Procop.
-  citata_rodoma: "Odoakras ne­\ntrukus perleido šią provinciją visigotų karaliui Evarikui, \nnorėdamas taip pelnyti jo palankumą, o kiek anksčiau \njis užmezgė draugiškus santykius su galingu Afrikos \nvandalų karaliumi Genseriku, iš kurio tam tikromis są­\nlygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių \nvadovų Zenono, Evariko ir Genseriko, kurie galėjo jam \npakenkti, palankumą, jis, dorybingo ministro romėno Li- \nberijaus remiamas, sutelkė visą dėmesį į Italijos vidaus \nproblemas; samdyta kariuomenė, kaip buvo žadėta, gavo \ntrečdalį žemės valdų1. Galbūt seni žemės savininkai pri­\nėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­\ntauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra\n1 Procop."
+  citata_rodoma: |
+    Odoakras ne­
+    trukus perleido šią provinciją visigotų karaliui Evarikui,
+    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
+    jis užmezgė draugiškus santykius su galingu Afrikos
+    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
+    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
+    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
+    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
+    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
+    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
+    trečdalį žemės valdų1. Galbūt seni žemės savininkai pri­
+    ėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­
+    tauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra
+    1 Procop.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

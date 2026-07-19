@@ -97,7 +97,11 @@ media_all_json: |-
     fui Pranciškui Potockiui į jo įdomų numizmatikos
     ir senovės daiktų kabinetą; taip pat nusiunčiau į
     Lvovą, į Osolinskių muziejų.
-  citata_rodoma: "Tai rusų istorijos ir literatūros paminklas (orig.:\n„Степенная книга“). Knygą metropolito Maka­\nrų aus iniciatyva parašė šventikas Andrejus (apie\n1560-1563 metus)."
+  citata_rodoma: |
+    Tai rusų istorijos ir literatūros paminklas (orig.:
+    „Степенная книга“). Knygą metropolito Maka­
+    rų aus iniciatyva parašė šventikas Andrejus (apie
+    1560-1563 metus).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

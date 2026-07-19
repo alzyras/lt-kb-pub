@@ -60,7 +60,10 @@ LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi
     su margiausiomis Europos šalimis – Lenkija ir Transilvanija. LDK išsi-
     skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
     mo ar juridinio įforminimo sparta.
-  citata_rodoma: "LDK išsi-\nskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-\nmo ar juridinio įforminimo sparta."
+  citata_rodoma: |
+    LDK išsi-
+    skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
+    mo ar juridinio įforminimo sparta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

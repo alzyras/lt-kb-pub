@@ -91,7 +91,17 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
     lius Žygimantas jau traukė su visomis jėgomis link
     Smolensko, sklido gandai, jog jis jau pasiekęs Mins­
     ką.
-  citata_rodoma: "Tokių kalbų paskatinti\nryžtingesni vyrai viešai pareikalavo, kad įgulos virši­\nninkas priimtinomis sąlygomis perduotų pilį Glinskiui.\nKiek galėdamas šitokiems siūlymams priešinosi Solo-\ngubas; visaip įrodinėdamas ir įtikinėdamas, jis mal­\ndaute maldavo vardan visų šventųjų, kad, skubotai\npasiduodami, neterštų šlovės, kurią įsigijo, garbingai\ndvylika metų gindami pilį. Mat neilgai trukus į pa­\ngalbą atskubėsiąs karalius, kuris šiuo metu jau prie\nMinsko: šitai ne gandai, bet tikros žinios."
+  citata_rodoma: |
+    Tokių kalbų paskatinti
+    ryžtingesni vyrai viešai pareikalavo, kad įgulos virši­
+    ninkas priimtinomis sąlygomis perduotų pilį Glinskiui.
+    Kiek galėdamas šitokiems siūlymams priešinosi Solo-
+    gubas; visaip įrodinėdamas ir įtikinėdamas, jis mal­
+    daute maldavo vardan visų šventųjų, kad, skubotai
+    pasiduodami, neterštų šlovės, kurią įsigijo, garbingai
+    dvylika metų gindami pilį. Mat neilgai trukus į pa­
+    galbą atskubėsiąs karalius, kuris šiuo metu jau prie
+    Minsko: šitai ne gandai, bet tikros žinios.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

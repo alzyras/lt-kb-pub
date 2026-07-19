@@ -128,7 +128,17 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     degino Linkmenų, Tauragnų, Utenos,
     Užpalių pilis, paėmė daug belaisvių, bet bi-
     jodami lietuvių kontrsmūgio, pasitraukė.
-  citata_rodoma: "Ordinas, pirmiausia jo Livonijos šaka,\ntoliau liko Švitrigailos rėmėja, nes siekė,\nkad pastarasis organizuotų platų piet-\nryčių frontą (su voluiniečiais, podolie-\nčiais, totoriais) prieš Lenkiją, kuri su\nhusitais vakaruose rengėsi kovoti prieš\nOrdiną. Livonijos ordinas ne visada paisė\n\nsusitarimų su Švitrigaila, veikė ir atski-\nrai."
+  citata_rodoma: |
+    Ordinas, pirmiausia jo Livonijos šaka,
+    toliau liko Švitrigailos rėmėja, nes siekė,
+    kad pastarasis organizuotų platų piet-
+    ryčių frontą (su voluiniečiais, podolie-
+    čiais, totoriais) prieš Lenkiją, kuri su
+    husitais vakaruose rengėsi kovoti prieš
+    Ordiną. Livonijos ordinas ne visada paisė
+
+    susitarimų su Švitrigaila, veikė ir atski-
+    rai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

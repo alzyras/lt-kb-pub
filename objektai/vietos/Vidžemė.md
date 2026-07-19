@@ -103,7 +103,14 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
     žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
     kranto ruožą.
-  citata_rodoma: "XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,\nkurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,\napimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­\nkrauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­\nveno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos\nžemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos\nkranto ruožą."
+  citata_rodoma: |
+    XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
+    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
+    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
+    krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
+    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
+    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
+    kranto ruožą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +131,12 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
     suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
     džios.
-  citata_rodoma: "Tuomet, iš vienos pusės, turėdamas savo ka-\nriuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,\nnuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau\nsuvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-\ndžios."
+  citata_rodoma: |
+    Tuomet, iš vienos pusės, turėdamas savo ka-
+    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
+    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
+    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
+    džios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

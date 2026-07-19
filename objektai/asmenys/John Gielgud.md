@@ -78,7 +78,13 @@ media_all_json: |-
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
     tuvos emigrantai arba kilusios iš jų šeimų.
-  citata_rodoma: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria \nne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-\ntas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), \no juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson \n(Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-\ntuvos emigrantai arba kilusios iš jų šeimų."
+  citata_rodoma: |
+    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
+    ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
+    tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
+    o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
+    (Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
+    tuvos emigrantai arba kilusios iš jų šeimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -155,7 +155,11 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.
-  citata_rodoma: "Jas\nrašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų\nlietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi\nbuvo skleidę protestantizmą."
+  citata_rodoma: |
+    Jas
+    rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
+    lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
+    buvo skleidę protestantizmą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

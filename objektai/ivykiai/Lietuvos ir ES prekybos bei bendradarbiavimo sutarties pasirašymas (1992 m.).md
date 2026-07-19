@@ -83,7 +83,8 @@ Nenurodyta
     raciją dėl politinio dialogo tarp ES ir Lietuvos. Nuo oficialių diplomatinių
     santykių su Lietuva užsimezgimo ES per PHARE programą pradėjo teikti
     pagalbą Lietuvai.
-  citata_rodoma: "raciją dėl politinio dialogo tarp ES ir Lietuvos. Nuo oficialių diplomatinių"
+  citata_rodoma: |
+    raciją dėl politinio dialogo tarp ES ir Lietuvos. Nuo oficialių diplomatinių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

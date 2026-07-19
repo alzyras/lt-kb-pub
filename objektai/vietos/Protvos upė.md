@@ -68,7 +68,12 @@ Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
     rus, paliko prie Protvos upės atkirsta asimiliacijai (M. Vasmer).
     Ilgai painiavas kėlė Nemuno vidurupio kairėje gyvenančių
     sūduvių priklausomybės klausimas.
-  citata_rodoma: "Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­\nkos kilties atplaiša, kuri, pasėkoje rytinių slavų ekspansijos į vaka­\nrus, paliko prie Protvos upės atkirsta asimiliacijai (M. Vasmer).\nIlgai painiavas kėlė Nemuno vidurupio kairėje gyvenančių\nsūduvių priklausomybės klausimas."
+  citata_rodoma: |
+    Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
+    kos kilties atplaiša, kuri, pasėkoje rytinių slavų ekspansijos į vaka­
+    rus, paliko prie Protvos upės atkirsta asimiliacijai (M. Vasmer).
+    Ilgai painiavas kėlė Nemuno vidurupio kairėje gyvenančių
+    sūduvių priklausomybės klausimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

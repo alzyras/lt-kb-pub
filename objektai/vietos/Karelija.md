@@ -63,8 +63,21 @@ Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkt
     mi išsirinkto vado, persikėlė per jū­
     rą ir įsikūrė Prūsijoje, Žemaitijoje bei
     Karelijoje, tarp vietinių gyventojų.
-    Žr. P e t r i Olai.
-  citata_rodoma: "Juk šis kroniki­\nninkas pasakoja, kad apie 880 me­\ntus, viešpataujant Danijoje karaliui \nKanutui (Cnud), kai dėl pragaištingo \nnederliaus visiems gyventojams trū­\nko grūdų, buvo įsakyta kas trečią \nžmogų išvaryti iš valsčiaus visiems \nlaikams. Likimo lemties tremtiniai, \nsutelkę į draugę valtis, vadovauja­\nmi išsirinkto vado, persikėlė per jū­\nrą ir įsikūrė Prūsijoje, Žemaitijoje bei \nKarelijoje, tarp vietinių gyventojų. \nŽr."
+    Žr.
+  citata_rodoma: |
+    Juk šis kroniki­
+    ninkas pasakoja, kad apie 880 me­
+    tus, viešpataujant Danijoje karaliui
+    Kanutui (Cnud), kai dėl pragaištingo
+    nederliaus visiems gyventojams trū­
+    ko grūdų, buvo įsakyta kas trečią
+    žmogų išvaryti iš valsčiaus visiems
+    laikams. Likimo lemties tremtiniai,
+    sutelkę į draugę valtis, vadovauja­
+    mi išsirinkto vado, persikėlė per jū­
+    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
+    Karelijoje, tarp vietinių gyventojų.
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

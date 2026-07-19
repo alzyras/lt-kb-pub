@@ -266,7 +266,18 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     savo krašte ką rusams duoti,
     kuri versdavosi tik žemės
     darbu, dabar štai ketino įsi-
-  citata_rodoma: "Arčiausiai puolančiųjų plytėjo Min-\ngailos valdinių žemės: norėdamas atkeršyta už jų nu­\nsiaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai\njas užėmė, šiek tiek anksčiau su kariuomene patraukę\nligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­\nsiai užpuolęs palaidą minią, narsią vien dėl gausumo,\no visai nemokančią kariauti, vienu smūgiu privertė\nsprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte\nlipdamas bėgantiems ant kulnų, mikliai išnaudojo per-\npergalingą kariuomenę atvedė prie Polocko sienų, kur\npabėgę priešai buvo perkėlę karo veiksmus."
+  citata_rodoma: |
+    Arčiausiai puolančiųjų plytėjo Min-
+    gailos valdinių žemės: norėdamas atkeršyta už jų nu­
+    siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
+    jas užėmė, šiek tiek anksčiau su kariuomene patraukę
+    ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
+    siai užpuolęs palaidą minią, narsią vien dėl gausumo,
+    o visai nemokančią kariauti, vienu smūgiu privertė
+    sprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte
+    lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
+    pergalingą kariuomenę atvedė prie Polocko sienų, kur
+    pabėgę priešai buvo perkėlę karo veiksmus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

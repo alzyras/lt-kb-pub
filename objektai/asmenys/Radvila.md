@@ -228,7 +228,21 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
     valdovų ir Lenkijos bei Lie­
     tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
     galbos.
-  citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
+  citata_rodoma: |
+    Vis dėlto buvo pamato būgštauti, kad jie gali
+    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
+    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
+    uždavinio: pasikvietęs į palydovus didikus Goštautą,
+    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
+    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
+    tiktai karalystės pakancleris Trombą), kad, Vytautui
+    376
+
+    ## Puslapis 375
+
+    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
+    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
+    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

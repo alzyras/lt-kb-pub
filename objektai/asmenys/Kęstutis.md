@@ -1559,7 +1559,11 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     jis valdė pavojingiausią ir priešo dažniausiai puolamą sritį. Jo
     viso gyvenimo tikslas buvo atlaikyti kryžiuočių puolimus. Al-
     girdas čia jam visada padėdavo.
-  citata_rodoma: "Greta Algirdo, svarbiausią vaidmenį vaidino Kęstutis, nes\njis valdė pavojingiausią ir priešo dažniausiai puolamą sritį. Jo\nviso gyvenimo tikslas buvo atlaikyti kryžiuočių puolimus. Al-\ngirdas čia jam visada padėdavo."
+  citata_rodoma: |
+    Greta Algirdo, svarbiausią vaidmenį vaidino Kęstutis, nes
+    jis valdė pavojingiausią ir priešo dažniausiai puolamą sritį. Jo
+    viso gyvenimo tikslas buvo atlaikyti kryžiuočių puolimus. Al-
+    girdas čia jam visada padėdavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1595,7 +1599,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     Tas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry­
     bę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į
     gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
-  citata_rodoma: "Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o\nkalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.\nTas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry­\nbę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į\ngyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių."
+  citata_rodoma: |
+    Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
+    kalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.
+    Tas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry­
+    bę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į
+    gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1761,7 +1770,17 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
     tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
     čių dinastija.
-  citata_rodoma: "Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti \nįsivaizduojami Lietuvos valdovų portretai\n\n1 skyrius •  S E N O J I  L I E T U VA\n35\nkunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-\ngaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis \n(valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam \ntapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-\nčių dinastija."
+  citata_rodoma: |
+    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1785,7 +1804,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
     riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
     nigaikščio buveinę.
-  citata_rodoma: "Kivirčai tarp brolių da­\nvė pradžią slaptoms, bet sumaniai parengtoms sutartims \nsiekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo \nvaldos sostinės, turėjęs geriausių galimybių stebėti visus \nbrolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę."
+  citata_rodoma: |
+    Kivirčai tarp brolių da­
+    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
+    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
+    valdos sostinės, turėjęs geriausių galimybių stebėti visus
+    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1809,7 +1835,15 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
     vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
     neišvengiamos pražūties.
-  citata_rodoma: "To garbingo karžygio palaikai Skir­\ngailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­\nrėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­\nvo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas\niš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,\ntačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­\nvyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo\nneišvengiamos pražūties."
+  citata_rodoma: |
+    To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1868,7 +1902,11 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
-  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
+  citata_rodoma: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -2024,7 +2062,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     tikėjo, bet Jogaila, tapęs didž. kunigaikščiu ir, norėdamas nusi­
     kratyti Kęstučiu ir Vytautu, nukreipė akis į šią priemonę. Ji­
     sai susidėjo su Vok.
-  citata_rodoma: "Pastarasis dalykas Lietuvai buvo labai svarbus, ir todėl\njai krikštas buvo reikalingas ne tik dėl jo kilnumo ir kultūri­\nnės vertės, bet ir kaip priemonė atsiginti nuo įkyrėjusių Vok,\nOrdino karų. Gediminas, Algirdas ir Kęstutis daug ja nepasi­\ntikėjo, bet Jogaila, tapęs didž. kunigaikščiu ir, norėdamas nusi­\nkratyti Kęstučiu ir Vytautu, nukreipė akis į šią priemonę."
+  citata_rodoma: |
+    Pastarasis dalykas Lietuvai buvo labai svarbus, ir todėl
+    jai krikštas buvo reikalingas ne tik dėl jo kilnumo ir kultūri­
+    nės vertės, bet ir kaip priemonė atsiginti nuo įkyrėjusių Vok,
+    Ordino karų. Gediminas, Algirdas ir Kęstutis daug ja nepasi­
+    tikėjo, bet Jogaila, tapęs didž. kunigaikščiu ir, norėdamas nusi­
+    kratyti Kęstučiu ir Vytautu, nukreipė akis į šią priemonę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2080,7 +2124,20 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     nuskriaudęs, ar jis turįs pagrindo ką nubausti už skriau­
     das, tačiau žudikai užpuolė jį mušti lazdomis per gal­
     vą ir užmušė.
-  citata_rodoma: "Krikščio­\nnis Daumantas padaręs piktadarystę, iš pavydo nužu­\ndydamas savo brolį pagonį Traidenį: „Jis pasiuntė še­\nšis žudikus, persirengusius elgetaujančiais kaimiečiais, \nšie pasitiko valdovą, begrįžtantį iš pirties, pusiaukelė­\nje, lydimą kelių asmenų; valdovas nusilenkė sutiktie­\nsiems ir mandagiai paklausė, kas ir kaip juos esąs \nnuskriaudęs, ar jis turįs pagrindo ką nubausti už skriau­\ndas, tačiau žudikai užpuolė jį mušti lazdomis per gal­\nvą ir užmušė. Liko valstybė it našlaitė be valdovo\".\nTraidenis mirė 1282 m., nėra žinių, kad jis būtų \nnužudytas. Savo mirtimi mirė ir Daumantas — Timotie­\njus."
+  citata_rodoma: |
+    Krikščio­
+    nis Daumantas padaręs piktadarystę, iš pavydo nužu­
+    dydamas savo brolį pagonį Traidenį: „Jis pasiuntė še­
+    šis žudikus, persirengusius elgetaujančiais kaimiečiais,
+    šie pasitiko valdovą, begrįžtantį iš pirties, pusiaukelė­
+    je, lydimą kelių asmenų; valdovas nusilenkė sutiktie­
+    siems ir mandagiai paklausė, kas ir kaip juos esąs
+    nuskriaudęs, ar jis turįs pagrindo ką nubausti už skriau­
+    das, tačiau žudikai užpuolė jį mušti lazdomis per gal­
+    vą ir užmušė. Liko valstybė it našlaitė be valdovo".
+    Traidenis mirė 1282 m., nėra žinių, kad jis būtų
+    nužudytas. Savo mirtimi mirė ir Daumantas — Timotie­
+    jus.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -2115,7 +2172,17 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     kus ir pelkes ir jį grįsti;
     šiems priskirti du tūkstančiai raitelių turėjo ginti dar­
     bininkus nuo staigių priešo antpuolių.
-  citata_rodoma: "Atsakydamas Algirdas neužmiršo savi­\ntvardos, nenorėdamas ūmiu pykčio protrūkiu prarasti\nprogą tartis. Jis įsakė gražiai priimti žygūną, tuo tar­\npu pats su broliu Kęstučiu (kaip tik tuo metu atvy­\nkusiu) skubiai aptarė reikalą ir be galo greitai, niekam\nnė žodžio nesakydamas, pasirengė karui. Iš visos Lie­\ntuvos, Žemaitijos ir Rusios sukvietė kunigaikščius su\nkariaunomis, o pirmiausia — savo brolius; kai apie ga­\nvėnios vidurį sutartą dieną jie pasirodė prie Vitebsko,\nkariuomenė ir patraukė į Maskvą."
+  citata_rodoma: |
+    Atsakydamas Algirdas neužmiršo savi­
+    tvardos, nenorėdamas ūmiu pykčio protrūkiu prarasti
+    progą tartis. Jis įsakė gražiai priimti žygūną, tuo tar­
+    pu pats su broliu Kęstučiu (kaip tik tuo metu atvy­
+    kusiu) skubiai aptarė reikalą ir be galo greitai, niekam
+    nė žodžio nesakydamas, pasirengė karui. Iš visos Lie­
+    tuvos, Žemaitijos ir Rusios sukvietė kunigaikščius su
+    kariaunomis, o pirmiausia — savo brolius; kai apie ga­
+    vėnios vidurį sutartą dieną jie pasirodė prie Vitebsko,
+    kariuomenė ir patraukė į Maskvą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2138,7 +2205,15 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     turėjo vengti karo su lietuviais, antraip galėjo palūžti
     iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
     bių.
-  citata_rodoma: "Tad šis, norėdamas apginti savo teises į Ru­\nsią, nutarė, jog pirmiausia būtina kariauti su lietuviais.\nMat Rusią valdė Algirdo broliai: Liubartas — Lvovą,\nKęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-\nmantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai\nturėjo vengti karo su lietuviais, antraip galėjo palūžti\niš karto susidūrę su daugybe kliūčių ir karo sunkeny­\nbių."
+  citata_rodoma: |
+    Tad šis, norėdamas apginti savo teises į Ru­
+    sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.
+    Mat Rusią valdė Algirdo broliai: Liubartas — Lvovą,
+    Kęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-
+    mantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai
+    turėjo vengti karo su lietuviais, antraip galėjo palūžti
+    iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
+    bių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2168,7 +2243,19 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     nusigavęs be kliūčių pas savuosius, netrukus su bro­
     liu Liubartu įvedė į karaliaus užimtas Rusios žemes
     kariuomenę.
-  citata_rodoma: "Už šį nuopelną\nkunigaikščio apdovanotas žemėmis ir nauju herbu,\njis davė pradžią naujai kilmingųjų Ivanickių šeimai.\nTuo tarpu su Kęstučiu nugalėtojai elgėsi pagarbiai,\nžiūrėdami į jį lyg į karalių; kai jis suteikė šiokių to­\nkių vilčių, sakydamasis galįs priimti krikščionybę,\nsargybiniai, kurie jį saugojo, ėmė dar švelniau su juo\nelgtis. Tuo būdu radęs progą užmigdyti sargybinių\nbudrumą, jis paspruko nakties tamsoje iš kalėjimo ir,\nnusigavęs be kliūčių pas savuosius, netrukus su bro­\nliu Liubartu įvedė į karaliaus užimtas Rusios žemes\nkariuomenę."
+  citata_rodoma: |
+    Už šį nuopelną
+    kunigaikščio apdovanotas žemėmis ir nauju herbu,
+    jis davė pradžią naujai kilmingųjų Ivanickių šeimai.
+    Tuo tarpu su Kęstučiu nugalėtojai elgėsi pagarbiai,
+    žiūrėdami į jį lyg į karalių; kai jis suteikė šiokių to­
+    kių vilčių, sakydamasis galįs priimti krikščionybę,
+    sargybiniai, kurie jį saugojo, ėmė dar švelniau su juo
+    elgtis. Tuo būdu radęs progą užmigdyti sargybinių
+    budrumą, jis paspruko nakties tamsoje iš kalėjimo ir,
+    nusigavęs be kliūčių pas savuosius, netrukus su bro­
+    liu Liubartu įvedė į karaliaus užimtas Rusios žemes
+    kariuomenę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2227,7 +2314,15 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     puolė Žemaitiją ir, padaliję
     pulkus keturiomis žygio vo­
     romis, nusiaubė visą kraštą.
-  citata_rodoma: "Užėmęs kovos lau­\nką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­\nsa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami \ntoliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius \nkarius, ramiai patraukė namo, išsigabendami laimikį — \nvisą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į \nžmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­\nnimu, nors labai norėjo užmiršti savo vargus."
+  citata_rodoma: |
+    Užėmęs kovos lau­
+    ką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­
+    sa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami
+    toliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius
+    karius, ramiai patraukė namo, išsigabendami laimikį —
+    visą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
+    žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
+    nimu, nors labai norėjo užmiršti savo vargus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2266,7 +2361,29 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
     gailą traukti su nedidele kariuomene ir be pagalbinin­
     kų stoti į lemiamą mūšį.
-  citata_rodoma: "Jogaila \natkakliai \nU žkariauja T rakus \npuolė Trakus, ir trakiškiai\nilgai neatsilaikė: nesitikėda­\nmi iš niekur paramos, jie perėjo į Jogailos pusę, ati­\nduodami miestą, pilis bei turtą. Kęstutis, savo ruožtu \napie viską sužinojęs, paliko rusų pulkus, turėjusius\ntoliau pulti Seversko Nau- \nK ęstu tis traukia p rieš \ngardą ir ginti apylinkes nuo\nJogailą, su p a T raku s \nKaributo antpuolių, o pats\nskubiai sugrįžo į Žemaitiją; \nčia greitosiomis surinkęs kariuomenę, persikėlė per \nNerį ir susijungė su Vytautu, jau sutelkusiu gardinie­\nčių pulkus. Kadangi neseniai per pasiuntinius buvo pra­\nšęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei \nsavo žento, ir toji pagalba diena iš dienos turėjo at­\nvykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­\ngailą traukti su nedidele kariuomene ir be pagalbinin­\nkų stoti į lemiamą mūšį."
+  citata_rodoma: |
+    Jogaila
+    atkakliai
+    U žkariauja T rakus
+    puolė Trakus, ir trakiškiai
+    ilgai neatsilaikė: nesitikėda­
+    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
+    duodami miestą, pilis bei turtą. Kęstutis, savo ruožtu
+    apie viską sužinojęs, paliko rusų pulkus, turėjusius
+    toliau pulti Seversko Nau-
+    K ęstu tis traukia p rieš
+    gardą ir ginti apylinkes nuo
+    Jogailą, su p a T raku s
+    Kaributo antpuolių, o pats
+    skubiai sugrįžo į Žemaitiją;
+    čia greitosiomis surinkęs kariuomenę, persikėlė per
+    Nerį ir susijungė su Vytautu, jau sutelkusiu gardinie­
+    čių pulkus. Kadangi neseniai per pasiuntinius buvo pra­
+    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
+    savo žento, ir toji pagalba diena iš dienos turėjo at­
+    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
+    gailą traukti su nedidele kariuomene ir be pagalbinin­
+    kų stoti į lemiamą mūšį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2303,7 +2420,17 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     ir todėl nutarė pirmiau pabandyti vilioti patiklias šir­
     dis klastingais žodžiais nei pulti kovų užgrūdintus vy-
     monėmis.
-  citata_rodoma: "2 7 0\n\nBe to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­\njos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­\nnojo, kad priešas vedasi didžiulę kariuomenę, kuriai \njie neprilygsta nei ginkluote, nei karių skaičiumi. Ta­\nčiau šis senas karys ir vadas, pasikliaudamas savo rei­\nkalo teisumu ir žinodamas, jog atsitraukimas neatneš \nišsigelbėjimo, tik gėdą, ryžtingai patraukė prieš Jo­\ngailą ir atvirame lauke išrikiavo savo pulkus."
+  citata_rodoma: |
+    2 7 0
+
+    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
+    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
+    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
+    jie neprilygsta nei ginkluote, nei karių skaičiumi. Ta­
+    čiau šis senas karys ir vadas, pasikliaudamas savo rei­
+    kalo teisumu ir žinodamas, jog atsitraukimas neatneš
+    išsigelbėjimo, tik gėdą, ryžtingai patraukė prieš Jo­
+    gailą ir atvirame lauke išrikiavo savo pulkus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2343,7 +2470,27 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     miegamojo prižiūrėtojai Pro-
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
-  citata_rodoma: "Mat nei geros savijautos,\nnei pasitikėjimo duotu žodžiu negali būti tada, kai,\nsusitarus dėl ko su priešu, šis nepaliauja galvojęs apie\nnaudą. Tą pačią naktį Jogaila, pamynęs draugystės bei\ngiminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­\ntingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį\nliepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­\ntaip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­\ngų, dėl savo sumanumo tikras Lietuvos Odisėjas, o\ndėl narsumo — Achilas, žuvo gimtajame krašte per\nbrolėno kaltę: penktą naktį\nJogailos\npasiųsti\nbudeliai\n(žymiausi\niš\njų — valdovo\nmiegamojo prižiūrėtojai Pro-\nkša, Bilgenis, Lisica ir kiti)\nKrėvos kalėjime jį pasmaugė."
+  citata_rodoma: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -2369,7 +2516,18 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
     tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
     minimo ir garbinimo apeigos.
-  citata_rodoma: "Birutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę."
+  citata_rodoma: |
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2390,7 +2548,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
     tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
     nugalėjo ir paėmė nesuskaičiuojamus turtus.
-  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
+  citata_rodoma: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2434,7 +2599,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     nutį saugoti, o pas savo brolį, didįjį kunigaikštį Algirdą,
     išsiuntė žygūną, pranešdamas, kad Vilnių valdąs, o bro­
     lį, didįjį kunigaikštį Jaunutį, suėmęs.
-  citata_rodoma: "nučio. Didysis kunigaikštis Algirdas nespėjo skirtu lai­\nku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis \nKęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies­\ntą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa­\nbėgo j Taurakalnį ir tenai naktį3 peršalo. Tenai jį su­\ngavę, parvežė pas jo brolį, didįjį kunigaikštį Kęstutį."
+  citata_rodoma: |
+    nučio. Didysis kunigaikštis Algirdas nespėjo skirtu lai­
+    ku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis
+    Kęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies­
+    tą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa­
+    bėgo j Taurakalnį ir tenai naktį3 peršalo. Tenai jį su­
+    gavę, parvežė pas jo brolį, didįjį kunigaikštį Kęstutį.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -2480,7 +2651,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
     ir dovanojo brangių dovanų2, ir nuo tol tarpe jų įsiga­
     lėjo didelė meilė.
-  citata_rodoma: "Ir man pačiam \njis taip pat davė žodį kunigaikščio Jogailos vardu ir \nsavo vardu, ir [davėj savo ranką. Ir mūsų tėvas pati­\nkėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­\ngaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­\nto žodžio suėmė jie mūsų tėvą ir jį nužudė."
+  citata_rodoma: |
+    Ir man pačiam
+    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
+    savo vardu, ir [davėj savo ranką. Ir mūsų tėvas pati­
+    kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
+    gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
+    to žodžio suėmė jie mūsų tėvą ir jį nužudė.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -2501,7 +2678,11 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     į šiaurę nuo Zaleščikų.
     24 Apie šį Nestaną, kituose Lietuvos metraščių nuorašuose va­
     dinamą Nestisu ir Nestaku, nieko tikro nežinoma.
-  citata_rodoma: "1 0  Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie \n1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis \njo  dalies plotas — tikslesnių žinių nėra. 1341 m. neabejotinai valdė \nŽemaičius, Trakų kunigaikštystę su Gardinu ir Palenkę su Brastų."
+  citata_rodoma: |
+    1 0  Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie
+    1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis
+    jo  dalies plotas — tikslesnių žinių nėra. 1341 m. neabejotinai valdė
+    Žemaičius, Trakų kunigaikštystę su Gardinu ir Palenkę su Brastų.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

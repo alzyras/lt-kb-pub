@@ -77,7 +77,17 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
     talionas užima Žeimelį.
 
     0 = R x [2] Lapkričio 20 d. Kauno batalio-
-  citata_rodoma: "Radviliškyje buvo paimta: 7 lauko pa-\ntrankos, 1 haubica, 2 zenitinės patrankos,\napie 100 kulkosvaidžių, 10 minosvaidžių,\n\n## Puslapis 197\n\n@ Lapkričio 20 d. Pasvalio ba-\ntalionas užima Žeimelį.\n\n0 = R x [2] Lapkričio 20 d."
+  citata_rodoma: |
+    Radviliškyje buvo paimta: 7 lauko pa-
+    trankos, 1 haubica, 2 zenitinės patrankos,
+    apie 100 kulkosvaidžių, 10 minosvaidžių,
+
+    ## Puslapis 197
+
+    @ Lapkričio 20 d. Pasvalio ba-
+    talionas užima Žeimelį.
+
+    0 = R x [2] Lapkričio 20 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

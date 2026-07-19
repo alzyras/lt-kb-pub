@@ -89,7 +89,13 @@ Paplauja čia minima kaip apsistojimo vieta Vilniuje.
     Benediktas Tyzenhauzas taip vienas kitą pamėgo, kad generolas nuolat būna pas seniūną
     Paplaujoje arba B. Tyzenhauzas lankosi pas A. Davainį Solohubą, kuris apsistojęs pas
     Hanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40].
-  citata_rodoma: "1754 m. dėl konkurencijos jis perspėjo tuometį\nAnykščių seniūną Mykolą Ksaverą Sapiegą, esą jo politiniai konkurentai LDK artilerijos\ngenerolas Antanas Davainis Solohubas (Antoni Dowojna Sołłohub) ir Ukmergės seniūnas\nBenediktas Tyzenhauzas taip vienas kitą pamėgo, kad generolas nuolat būna pas seniūną\nPaplaujoje arba B. Tyzenhauzas lankosi pas A. Davainį Solohubą, kuris apsistojęs pas\nHanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40]."
+  citata_rodoma: |
+    1754 m. dėl konkurencijos jis perspėjo tuometį
+    Anykščių seniūną Mykolą Ksaverą Sapiegą, esą jo politiniai konkurentai LDK artilerijos
+    generolas Antanas Davainis Solohubas (Antoni Dowojna Sołłohub) ir Ukmergės seniūnas
+    Benediktas Tyzenhauzas taip vienas kitą pamėgo, kad generolas nuolat būna pas seniūną
+    Paplaujoje arba B. Tyzenhauzas lankosi pas A. Davainį Solohubą, kuris apsistojęs pas
+    Hanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40].
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

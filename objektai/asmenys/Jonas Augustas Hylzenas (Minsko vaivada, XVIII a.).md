@@ -79,7 +79,10 @@ Jonas Augustas Hylzenas buvo Minsko vaivada. Jonas Augustas Hylzenas teigė atvy
     užims pats A. Zadarnovskis. Kanauninkas pasakojo broliui, kad Minsko vaivada Jonas
     Augustas Hylzenas (Jan August Hylzen) taip pat teigė, kad atvyks į Vilnių, tad jį reikės
     apgyvendinti M. Lopacinskio mūriniame name, prašė rezoliucijos dėl sutikimo [43].
-  citata_rodoma: "Kanauninkas pasakojo broliui, kad Minsko vaivada Jonas\nAugustas Hylzenas (Jan August Hylzen) taip pat teigė, kad atvyks į Vilnių, tad jį reikės\napgyvendinti M. Lopacinskio mūriniame name, prašė rezoliucijos dėl sutikimo [43]."
+  citata_rodoma: |
+    Kanauninkas pasakojo broliui, kad Minsko vaivada Jonas
+    Augustas Hylzenas (Jan August Hylzen) taip pat teigė, kad atvyks į Vilnių, tad jį reikės
+    apgyvendinti M. Lopacinskio mūriniame name, prašė rezoliucijos dėl sutikimo [43].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

@@ -68,7 +68,8 @@ Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidė
     lies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą,
     Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
     kurti bendrą Europos aukštojo mokslo erdvę.
-  citata_rodoma: "Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-"
+  citata_rodoma: |
+    Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -83,7 +83,8 @@ media_all_json: |-
     ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
     Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
     emigravęs į JAV.
-  citata_rodoma: "ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio"
+  citata_rodoma: |
+    ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

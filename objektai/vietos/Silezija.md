@@ -348,7 +348,13 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
     niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
     reikalams, kaip tuomet.
-  citata_rodoma: "Anų laikų\nVilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo\npasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos\nir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar\nniekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos\nreikalams, kaip tuomet."
+  citata_rodoma: |
+    Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
+    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
+    reikalams, kaip tuomet.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -368,7 +374,11 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
-  citata_rodoma: "Maksimilijonas\ndar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties\nByčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo\npriverstas atsisakyti nuo sosto."
+  citata_rodoma: |
+    Maksimilijonas
+    dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
+    Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
+    priverstas atsisakyti nuo sosto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -393,7 +403,17 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     kaip malonų patikėtinį", bei prašo,
     kad panašią paslaugą padarytų to
     paties svečio broliui Prūsijoje.
-  citata_rodoma: "Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o\nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus\nsudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano\ngą poną Fridrichą fon Bebirsteyną,\npriėmiau į savo dvariškių būrį ir\nkaip malonų patikėtinį\", bei prašo,\nkad panašią paslaugą padarytų to\npaties svečio broliui Prūsijoje."
+  citata_rodoma: |
+    Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus
+    sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano
+    gą poną Fridrichą fon Bebirsteyną,
+    priėmiau į savo dvariškių būrį ir
+    kaip malonų patikėtinį", bei prašo,
+    kad panašią paslaugą padarytų to
+    paties svečio broliui Prūsijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -414,7 +434,13 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
-  citata_rodoma: "Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o \nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9."
+  citata_rodoma: |
+    Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -438,7 +464,13 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     pat savo dvariškiams, su reikalais
     vykstantiems į Sileziją. Žr. K o t z e-
     b u e Sivitrigail, p. 58-59 ir 61.
-  citata_rodoma: "Ki­\ntame savo laiške Švitrigaila prašo\ngarantijų Hansui (Janui) Tscheizui ir\njo svainiui Mikalojui Sachsei, taip\npat savo dvariškiams, su reikalais\nvykstantiems į Sileziją. Žr."
+  citata_rodoma: |
+    Ki­
+    tame savo laiške Švitrigaila prašo
+    garantijų Hansui (Janui) Tscheizui ir
+    jo svainiui Mikalojui Sachsei, taip
+    pat savo dvariškiams, su reikalais
+    vykstantiems į Sileziją. Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -461,7 +493,14 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
     tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
     jos sostinei tam tikru atžvilgiu buvo naudingas.
-  citata_rodoma: "Tačiau netrukus į Vilnių at­\nvyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio\nkaraliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai\ngrėsusio pilietinio karo.\nTrumpas Aleksandro valdymas, gana nesėkmingas Lie­\ntuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,\njos sostinei tam tikru atžvilgiu buvo naudingas."
+  citata_rodoma: |
+    Tačiau netrukus į Vilnių at­
+    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
+    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
+    grėsusio pilietinio karo.
+    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
+    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
+    jos sostinei tam tikru atžvilgiu buvo naudingas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -486,7 +525,15 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
-  citata_rodoma: "Atvyko\nJogaila su savo šimtais palydovų, Romos ciesorius Zigmantas\nsu savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos\ngiminiete, — lydimi daugelio savo baronų; ir pats Vytautas su\ngausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.\nBuvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d."
+  citata_rodoma: |
+    Atvyko
+    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
+    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
+    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
+    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

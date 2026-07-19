@@ -64,7 +64,8 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
     įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos vals-
     tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų
     jurisdikcijos.
-  citata_rodoma: "tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų"
+  citata_rodoma: |
+    tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

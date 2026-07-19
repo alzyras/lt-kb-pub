@@ -227,7 +227,8 @@ media_all_json: |-
     slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
     Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
     giškas aktas“ prieš Lietuvą.
-  citata_rodoma: "slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su"
+  citata_rodoma: |
+    slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -248,7 +249,8 @@ media_all_json: |-
     mo dokumentu.
     Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
-  citata_rodoma: "atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą."
+  citata_rodoma: |
+    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -270,7 +272,8 @@ media_all_json: |-
     Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m.
-  citata_rodoma: "tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,"
+  citata_rodoma: |
+    tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

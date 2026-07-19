@@ -83,7 +83,10 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
     1951.
     Лаучюте Ю. А. Древняя и древнейшая территория расселения балтских племен:
     Сопоставление результатов лингвистических и археологических исследований.
-  citata_rodoma: "Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.\nMendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.\nOstpreussischer Theil. II Abtheilung, Bd. 2)."
+  citata_rodoma: |
+    Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.
+    Mendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.
+    Ostpreussischer Theil. II Abtheilung, Bd. 2).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

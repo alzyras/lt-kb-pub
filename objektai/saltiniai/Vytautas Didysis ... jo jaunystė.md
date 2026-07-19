@@ -56,7 +56,9 @@ media_all_json: |-
     red. A. Šapoka, Kaunas 1935, 47-79 p. — (”) _Jogaila_ , LE, t. 9, 419-
     425 p. — (”) _Vaidotas_ , LE, t. 32, 446-447 p. — (”) _Vytautas Didysis ...
     jo jaunystė_ , LE, t. 34, 373-376 p. — Jonynas, Ig.
-  citata_rodoma: "— (”) _Vytautas Didysis ...\njo jaunystė_ , LE, t. 34, 373-376 p."
+  citata_rodoma: |
+    — (”) _Vytautas Didysis ...
+    jo jaunystė_ , LE, t. 34, 373-376 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

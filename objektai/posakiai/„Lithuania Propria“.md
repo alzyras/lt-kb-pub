@@ -111,7 +111,15 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
     apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
     be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-  citata_rodoma: "Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio \n2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-\ntona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta \nuž etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: \nKauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko \napskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), \nbe to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti \nir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais)."
+  citata_rodoma: |
+    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
+    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -149,7 +157,21 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n129\nTeritorija, apie kurią lietuvių svajota: „Lituania Propria“  \n(žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ \n(Paryžius, 1920))\n\nL I E T U V O S  I S T O R I J A\n130\nKOVA DĖL NEPRIKLAUSOMYBĖS\nLietuvos planai: nuo autonomijos  \niki nepriklausomybės\nN\naują impulsą savo veiklai Europos šalių tautiniai są-\njūdžiai gavo 1914 m."
+  citata_rodoma: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    129
+    Teritorija, apie kurią lietuvių svajota: „Lituania Propria“
+    (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“
+    (Paryžius, 1920))
+
+    L I E T U V O S  I S T O R I J A
+    130
+    KOVA DĖL NEPRIKLAUSOMYBĖS
+    Lietuvos planai: nuo autonomijos
+    iki nepriklausomybės
+    N
+    aują impulsą savo veiklai Europos šalių tautiniai są-
+    jūdžiai gavo 1914 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

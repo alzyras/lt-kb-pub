@@ -108,7 +108,14 @@ Nenurodyta
     nia 25 ir Peremišlio kunigaikštis Ivanas Michailovičius26
     su daugeliu kitų vaivadų ir žmonių, ir jie visi jau stovi
     vienoje vietoje prie Dorohobužo.
-  citata_rodoma: "Didysis kunigaikštis Aleksandras išstovėjo Braclave \nnemaža laiko ir atstatė Braclavo miestą; visi žmonės, \nkurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo \nį Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo \nBraclavo, lietuviai sumušė kelis šimtus totorių. O pas­\nkui didysis kunigaikštis Aleksandras sugrįžo į Lietu­\nvą 3 9 ."
+  citata_rodoma: |
+    Didysis kunigaikštis Aleksandras išstovėjo Braclave
+    nemaža laiko ir atstatė Braclavo miestą; visi žmonės,
+    kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo
+    į Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo
+    Braclavo, lietuviai sumušė kelis šimtus totorių. O pas­
+    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
+    vą 3 9 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

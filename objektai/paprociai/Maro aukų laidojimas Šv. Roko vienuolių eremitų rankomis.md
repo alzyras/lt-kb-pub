@@ -108,7 +108,9 @@ Nenurodyta
     Nebūdavo galima jų spėti nė laidoti.
     Laidojo daugiausia Š v. Roko vienuoliai eremitai, kurių
     daugumas irgi buvo išbėgioję.
-  citata_rodoma: "Laidojo daugiausia Š v. Roko vienuoliai eremitai, kurių\ndaugumas irgi buvo išbėgioję."
+  citata_rodoma: |
+    Laidojo daugiausia Š v. Roko vienuoliai eremitai, kurių
+    daugumas irgi buvo išbėgioję.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

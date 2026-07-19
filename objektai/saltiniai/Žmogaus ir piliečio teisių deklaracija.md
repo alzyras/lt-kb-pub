@@ -72,7 +72,8 @@ Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijo
     cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
     klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
     į Prancūzijos didžiąją revoliuciją.
-  citata_rodoma: "klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi"
+  citata_rodoma: |
+    klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

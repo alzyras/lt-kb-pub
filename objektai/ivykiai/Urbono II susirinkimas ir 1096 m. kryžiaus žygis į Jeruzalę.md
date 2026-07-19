@@ -132,7 +132,15 @@ Nenurodyta
     šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
     arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
     su vienu ir Petros — su vienu sufraganu.
-  citata_rodoma: "Taigi 1096 viešpaties metais anksčiau\nminėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir\nužėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą\nbei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę\nkitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip\nšventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi\narkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —\nsu vienu ir Petros — su vienu sufraganu."
+  citata_rodoma: |
+    Taigi 1096 viešpaties metais anksčiau
+    minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir
+    užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą
+    bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę
+    kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip
+    šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
+    arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
+    su vienu ir Petros — su vienu sufraganu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -143,7 +143,22 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
     Maketuotoja Danutė Navickienė
     Užsakymas
     „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
-  citata_rodoma: "UDK 947.45\n\n## Puslapis 494\n\nMykolas Balinskis \nVILNIAUS MIESTO ISTORIJA\nIš lenkų kalbos vertė \nOna Slavėnaitė, Irena Katilienė \nIš lotynų kalbos vertė \nJūratė Dalia Baronienė\nRedaktorė Skirmantė Ramanauskaitė \nMeninis redaktorius Romas Dubonis \nMaketuotoja Danutė Navickienė\nUžsakymas\n„Minties\" leidykla, Z."
+  citata_rodoma: |
+    UDK 947.45
+
+    ## Puslapis 494
+
+    Mykolas Balinskis
+    VILNIAUS MIESTO ISTORIJA
+    Iš lenkų kalbos vertė
+    Ona Slavėnaitė, Irena Katilienė
+    Iš lotynų kalbos vertė
+    Jūratė Dalia Baronienė
+    Redaktorė Skirmantė Ramanauskaitė
+    Meninis redaktorius Romas Dubonis
+    Maketuotoja Danutė Navickienė
+    Užsakymas
+    „Minties" leidykla, Z.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -836,7 +836,11 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
     Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti
     saviškius (III, 26).
-  citata_rodoma: "Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,\nstebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).\nPats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti\nsaviškius (III, 26)."
+  citata_rodoma: |
+    Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
+    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
+    Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti
+    saviškius (III, 26).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -857,7 +861,10 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
     apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
     kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt. (III, 27, 155).
-  citata_rodoma: "Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,\napie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias\nkryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt."
+  citata_rodoma: |
+    Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
+    apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
+    kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -877,7 +884,12 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-  citata_rodoma: "Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,\n1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar\ntebestovi415."
+  citata_rodoma: |
+    Jiems atsitraukiant, atskubėjo priešpriešiais 60
+    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
+    tebestovi415.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -894,7 +906,9 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
-  citata_rodoma: "Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios\nbibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas."
+  citata_rodoma: |
+    Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
+    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -915,7 +929,14 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
     Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
     pasitraukė sugėdintas.
-  citata_rodoma: "Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei\nbrolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,\nketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,\npasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip\nryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.\nTodėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,\npasitraukė sugėdintas."
+  citata_rodoma: |
+    Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
+    ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
+    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
+    pasitraukė sugėdintas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -933,7 +954,12 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
     vienas pasirodyti.
-  citata_rodoma: "678).\n\nPrūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir\napsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė\nvienas pasirodyti."
+  citata_rodoma: |
+    678).
+
+    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
+    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
+    vienas pasirodyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -951,7 +977,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.
     Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
     ir 10 laivų.
-  citata_rodoma: "Dar kartų apie tą patį\n\n  Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,\npasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.\nKai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių\nir 10 laivų."
+  citata_rodoma: |
+    Dar kartų apie tą patį
+
+      Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
+    pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.
+    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
+    ir 10 laivų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -979,7 +1011,17 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     nelaisvę ir išžudęs, ten pat ir pernakvojo. Kitą dieną patraukė į Rudavos valsčių ir ten
     pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
     321 D.— Medenow, Jer.
-  citata_rodoma: "Žiemą ši kariuomenė atžygiavo  į Elbingą,\ntačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo\napvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti\ndu vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir\nštai ne tik kariai bei paprasti žmonės, bet  ir karalius,  ir kiti kunigaikščiai jau buvo\nbepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,\nkad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius\nnuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,\nvardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama\nKandeimu, gerai žinojusį visą Sembos karių galią."
+  citata_rodoma: |
+    Žiemą ši kariuomenė atžygiavo  į Elbingą,
+    tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
+    apvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti
+    du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir
+    štai ne tik kariai bei paprasti žmonės, bet  ir karalius,  ir kiti kunigaikščiai jau buvo
+    bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,
+    kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius
+    nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
+    vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
+    Kandeimu, gerai žinojusį visą Sembos karių galią.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1014,7 +1056,14 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     šitas bailusis karys“. Kadangi jiems visiems šitai labai patiko, išsiuntė žygūną, turėjusį
     padaryti, kas sumanyta. Tuo tarpu broliai, kuriems visa tai buvo pranešta, patraukė prie
     šio kaimo ir sutiko žygūną, kuris, išvydęs  atžygiuojant brolius su ginklanešiais, apstulbo,
-  citata_rodoma: "Apie Elbingo pilies ir miesto puolimą\n\n  Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei\nbrolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,\nketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,\npasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip\nryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo."
+  citata_rodoma: |
+    Apie Elbingo pilies ir miesto puolimą
+
+      Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
+    ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1035,7 +1084,14 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
     didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į
     vyriausiąją [Ordino] būstinę.
-  citata_rodoma: "Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­\n         kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno\n\n  1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją\natvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją\nir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai\nsugalvojo vėl jas eiti."
+  citata_rodoma: |
+    Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
+             kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
+
+      1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
+    atvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją
+    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai
+    sugalvojo vėl jas eiti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1060,7 +1116,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
     5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
     pilis — Elbingą ir Baigą.
-  citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų."
+  citata_rodoma: |
+    Apie laivų kautynes
+
+       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
+    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
+    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
+    žmonių ir 20 laivų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1081,7 +1143,14 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
     pasalos, atkirto jiems kelią į miestą.
-  citata_rodoma: "Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį\n\n  1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė."
+  citata_rodoma: |
+    Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
+
+      1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
+    broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
+    keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
+    savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1106,7 +1175,19 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
     naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
     laiką nieko nedarė.
-  citata_rodoma: "Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir\n           apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių\n\n  Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie\nPagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,\npaliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo\nsu broliais.\n\n\n\n\n            169 (164)."
+  citata_rodoma: |
+    Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
+               apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
+
+      Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie
+    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
+    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
+    su broliais.
+
+
+
+
+                169 (164).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1145,7 +1226,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
     kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
     jį nukovė.
-  citata_rodoma: "Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,\npasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.\nKai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių\nir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,\nkitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas\njį nukovė."
+  citata_rodoma: |
+    Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
+    pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.
+    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
+    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
+    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
+    jį nukovė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1167,7 +1254,12 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-  citata_rodoma: "Todėl, sudeginę pilį bei\nmiestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos\nreikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą."
+  citata_rodoma: |
+    Todėl, sudeginę pilį bei
+    miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
+    reikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60
+    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

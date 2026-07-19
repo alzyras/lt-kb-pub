@@ -60,7 +60,10 @@ Jei Vytautas delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie�
     Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda,
     tai paleidžia, tai naujai sumezga.
     Jo politika buvo neįmanoma be tinkamų padėjėjų.
-  citata_rodoma: "Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda,\ntai paleidžia, tai naujai sumezga.\nJo politika buvo neįmanoma be tinkamų padėjėjų."
+  citata_rodoma: |
+    Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda,
+    tai paleidžia, tai naujai sumezga.
+    Jo politika buvo neįmanoma be tinkamų padėjėjų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

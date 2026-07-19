@@ -92,7 +92,9 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
     Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
     tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
-  citata_rodoma: "Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos \ntyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586)."
+  citata_rodoma: |
+    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
+    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

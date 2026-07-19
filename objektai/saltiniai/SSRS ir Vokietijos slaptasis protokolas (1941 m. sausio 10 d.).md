@@ -73,7 +73,8 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
     kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
     1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
     Vokietijos už 7,5 mln. aukso dolerių).
-  citata_rodoma: "kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,"
+  citata_rodoma: |
+    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

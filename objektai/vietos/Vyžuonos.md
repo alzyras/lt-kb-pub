@@ -72,7 +72,11 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
 
     Birželio 1 d. Zechau, Musteikio ko-
     lonos kariai vykdė žvalgybą.
-  citata_rodoma: "Kolonos padaliniai\nprie kario diržo įsitvirtino Vyžuonose ir Vyžuonų dvare.\n\nBirželio 1 d."
+  citata_rodoma: |
+    Kolonos padaliniai
+    prie kario diržo įsitvirtino Vyžuonose ir Vyžuonų dvare.
+
+    Birželio 1 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -92,7 +96,11 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
     užėmė Vyžuonas. Judėdama link Utenos,
     kolona sutiko atkaklų bolševikų pasiprieši-
     nimą prie Kaliekių kaimo.
-  citata_rodoma: "Verždamiesi toliau lietuviai ir vokiečiai\nužėmė Vyžuonas. Judėdama link Utenos,\nkolona sutiko atkaklų bolševikų pasiprieši-\nnimą prie Kaliekių kaimo."
+  citata_rodoma: |
+    Verždamiesi toliau lietuviai ir vokiečiai
+    užėmė Vyžuonas. Judėdama link Utenos,
+    kolona sutiko atkaklų bolševikų pasiprieši-
+    nimą prie Kaliekių kaimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

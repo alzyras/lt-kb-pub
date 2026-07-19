@@ -95,7 +95,12 @@ media_all_json: |-
     Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
     Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
     Karolis Piotrovskis (Karol Piotrowski) [9].
-  citata_rodoma: "1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-\nninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /\nKaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas\nDylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –\nKarolis Piotrovskis (Karol Piotrowski) [9]."
+  citata_rodoma: |
+    1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
+    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
+    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
+    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
+    Karolis Piotrovskis (Karol Piotrowski) [9].
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

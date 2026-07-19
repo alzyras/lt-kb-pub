@@ -159,7 +159,13 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
 
     (^1) ) Scr. r.
-  citata_rodoma: "Kartu su Jogaila ir Vy­\ntautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­\ngandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir\npirmas Lietuvos krikšto aktas, atliktas Krokuvoje.\n\n(^1) ) Scr."
+  citata_rodoma: |
+    Kartu su Jogaila ir Vy­
+    tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
+    gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
+    pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
+
+    (^1) ) Scr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -182,7 +188,13 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
     tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
     visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
-  citata_rodoma: "Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas\nmotinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­\ngunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais\ntaikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­\ntyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:\nvisą dešinį Dubysos krantą, nuo pat ištakos iki įtakos."
+  citata_rodoma: |
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

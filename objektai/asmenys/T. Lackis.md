@@ -96,7 +96,14 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
     besikaunančius švedų pėstininkus, kurie
     kovėsi su rotmistro V. Vainos ir Kuršo rei-
     tarais.
-  citata_rodoma: "Rotmistro\nT. Lackio vadovaujami 200 husarų padarė\nlankstą ir visa jėga smogė į besikaunan-\nčių švedų raitelių kairįjį sparną. Raiteliai\npradėjo trauktis į priešingą pusę ir spausti\nbesikaunančius švedų pėstininkus, kurie\nkovėsi su rotmistro V."
+  citata_rodoma: |
+    Rotmistro
+    T. Lackio vadovaujami 200 husarų padarė
+    lankstą ir visa jėga smogė į besikaunan-
+    čių švedų raitelių kairįjį sparną. Raiteliai
+    pradėjo trauktis į priešingą pusę ir spausti
+    besikaunančius švedų pėstininkus, kurie
+    kovėsi su rotmistro V.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

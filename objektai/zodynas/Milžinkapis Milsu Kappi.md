@@ -121,7 +121,14 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
     juo sudegintų tarnų ir tarnaičių kapai.
     Žemesnio luomo žmonių palaidojimai buvo be tokių soli­
     džių statinių.
-  citata_rodoma: "Lietuvoje pilkapiai randami labai retai, dažnai sly­\npi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­\nmę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­\nriuos savo padavimuose apie milžinus arba didelius žmones\nvadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­\nmai senovei; tokių padavimų yra ir kitose lietuvių genties tau­\ntose."
+  citata_rodoma: |
+    Lietuvoje pilkapiai randami labai retai, dažnai sly­
+    pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
+    mę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
+    riuos savo padavimuose apie milžinus arba didelius žmones
+    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -145,7 +152,12 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
     kos ne ant krūtinės, o prie šonų taip sulenktos, kad galais sie­
     kė galvą; dešinėje laikė lenktą geležį - kapoklį arba skaptą,
     kuriuo dirba medinius šaukštus, kairėje - kažkokį geležinį įran­
-  citata_rodoma: "Tai yra kalnas, gerokai aukš­\ntesnis už kitus gretimus, stūksantis atskirai. Jo viršūnė iš visų\npusių aiškiai nukasta ir baigiasi terasa, iš kurios kyla plokščias\nkupolas, arba milžinkapis. Vietos padavimai iki šiol mini, kad\ntai Gedimino kapas."
+  citata_rodoma: |
+    Tai yra kalnas, gerokai aukš­
+    tesnis už kitus gretimus, stūksantis atskirai. Jo viršūnė iš visų
+    pusių aiškiai nukasta ir baigiasi terasa, iš kurios kyla plokščias
+    kupolas, arba milžinkapis. Vietos padavimai iki šiol mini, kad
+    tai Gedimino kapas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

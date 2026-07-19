@@ -63,7 +63,13 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
     kaip Lietuva. Taigi Vytauto laiką didžiajai Lietuvos kunigaikšti­
     jai galėjo visai tikti imperijos, o jos valdovui Vytautui — impe­
     ratoriaus vardas.
-  citata_rodoma: "Tokiai didelei Vytauto valstybei anais laikais\ngalėjo prilygti tik Vokiečiu imperija, Liuksemburgiečiu di­\nnastijos valdoma, bet ji valdžios atžvilgiu nebuvo tiek vieninga,\nkaip Lietuva. Taigi Vytauto laiką didžiajai Lietuvos kunigaikšti­\njai galėjo visai tikti imperijos, o jos valdovui Vytautui — impe­\nratoriaus vardas."
+  citata_rodoma: |
+    Tokiai didelei Vytauto valstybei anais laikais
+    galėjo prilygti tik Vokiečiu imperija, Liuksemburgiečiu di­
+    nastijos valdoma, bet ji valdžios atžvilgiu nebuvo tiek vieninga,
+    kaip Lietuva. Taigi Vytauto laiką didžiajai Lietuvos kunigaikšti­
+    jai galėjo visai tikti imperijos, o jos valdovui Vytautui — impe­
+    ratoriaus vardas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

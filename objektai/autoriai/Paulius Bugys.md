@@ -56,7 +56,10 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 
     p. 89, „DVIRANKIAI LANDSKNECHTŲ KALAVIJAI“, Paulius Bugys, Vidmantas Airini,
     Karolis Zikaras.
-  citata_rodoma: "p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.\n\np."
+  citata_rodoma: |
+    p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

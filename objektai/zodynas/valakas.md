@@ -72,7 +72,9 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
     kur buvo 30—33 margų, o kai kur siekė net 44 margus.
     Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
     buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  citata_rodoma: "Su šia reforma valakas pasidarė ūkio vienetas: nuo jo\nbuvo imami mokesčiai, nuo jo buvo einamos ir pareigos."
+  citata_rodoma: |
+    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
+    buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -76,7 +76,11 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
     10.000 rublių kontribucijos ir 1000 rublių už belaisvius. Šito žy­
     gio Vytautas negalėjo sėkmingai baigti ir dėl artėjančio Lucko
     suvažiavimo.
-  citata_rodoma: "Naugardo ir Porchovo miestai sumokėjo Vytautui\n10.000 rublių kontribucijos ir 1000 rublių už belaisvius. Šito žy­\ngio Vytautas negalėjo sėkmingai baigti ir dėl artėjančio Lucko\nsuvažiavimo."
+  citata_rodoma: |
+    Naugardo ir Porchovo miestai sumokėjo Vytautui
+    10.000 rublių kontribucijos ir 1000 rublių už belaisvius. Šito žy­
+    gio Vytautas negalėjo sėkmingai baigti ir dėl artėjančio Lucko
+    suvažiavimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

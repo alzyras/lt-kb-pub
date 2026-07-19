@@ -95,13 +95,19 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Todėl, pasvėręs nuodėmes nedorųjų žmonių, kurie visokeriopai
-    teršė piktadarystėmis šventąją žemę, pavirto, jų sukurstytas, žiauruoliu jis, tas, kuris iš
-    prigimties yra meilus ir švelnus. Todėl jie užsitraukė savo kaimynų pajuoką, o jų nedraugai
-    tyčiojosi iš jų prie akių. Jų kitara tapo liūdesiu, o jų narsa virto dulkėmis. Pasidarė lyg
-    našlė tautų valdovė, šalių kunigaikštienė virto baudžiauninke. Taigi šitaip dievas nubaudė
-    savo tautą ir paniekino jos paveldą.
-  citata_rodoma: "Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą\n\n  1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių\nordinui, ir Rudolfas, Romos karalius. To popiežiaus antraisiais metais buvo sugriautas\nTripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.\n432; Mart. p. 421)."
+    Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą
+
+      1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių
+    ordinui, ir Rudolfas, Romos karalius. To popiežiaus antraisiais metais buvo sugriautas
+    Tripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.
+    432; Mart. p. 421).
+  citata_rodoma: |
+    Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą
+
+      1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių
+    ordinui, ir Rudolfas, Romos karalius. To popiežiaus antraisiais metais buvo sugriautas
+    Tripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.
+    432; Mart. p. 421).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -92,7 +92,14 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
     pirmajame susirėmime vienas lietuvis ietimi jį taip sužeidė, kad išleido jam vidurius,
     tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
     pasimirė.
-  citata_rodoma: "Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais\n\n   Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi. O šeši\ntūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami bei imdami  į nelaisvę\nžmones  ir degindami viską, kas degė; be to, jie pagrobė visas žirgų kaimenes bei\nkitą turtą,  kurį lenkai, prisibijodami anksčiau minėtojo karaliaus, buvo sugabenę į šią\nkunigaikštystę."
+  citata_rodoma: |
+    Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
+
+       Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi. O šeši
+    tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami bei imdami  į nelaisvę
+    žmones  ir degindami viską, kas degė; be to, jie pagrobė visas žirgų kaimenes bei
+    kitą turtą,  kurį lenkai, prisibijodami anksčiau minėtojo karaliaus, buvo sugabenę į šią
+    kunigaikštystę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

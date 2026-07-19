@@ -80,7 +80,9 @@ Dusburgietis teigia, kad milthaler F.
     2: wiek XIV i XV,—Warszawa, 1896.
     Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg
     (Pr.) und Berlin, 1940.
-  citata_rodoma: "Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg\n(Pr.) und Berlin, 1940."
+  citata_rodoma: |
+    Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg
+    (Pr.) und Berlin, 1940.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

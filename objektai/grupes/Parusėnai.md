@@ -91,7 +91,13 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         (Pagezonija), Galindija, Varmija, ir tų kraštų pilis, bet dar įtakas Išlos, Pragaro ir Nemuno užgulė, ir
         vos vienas jūros pašalys tarp Liepojos ir Klaipėdos, giriomis užaugęs, medininkams žemaičiams
         beužliko.
-  citata_rodoma: "Tam nutikus Padaugavy, nuo vakarų vėl lenkai, norėdami Išlos įtaką užgulti, geidė Parusius nuveikti ir pačią Rusnę užimti. To dėjęsi, atvejų atvejais antpuldinėjo parusėnus, vieną atvejį taip toli buvo įsigrūdę į Žemaičių pajūrius, jog Rusnę pačią išteriojo^1412 ir jos garsią žinyčią išvertė. Parusėnai atkaliai, atmonydami tą lenkams, ėmė terioti jų pačių kraštą ir taip tenai juos įgrobė^1413 , jog lenkai, nesivildami parusėnų benuveikti nei benudrausti^1414 patys savo galia,\npatelkė sau iš Teutonijos karės brostvininkus^1415 vokiečius, kryžeiviais vadinamus, kurie, susinėrę su\nlenkais, ne vien užėmė lietuviams kraštus, vadinamus Pamedžionys, arba Pamezonija, Pagirionys\n(Pagezonija), Galindija, Varmija, ir tų kraštų pilis, bet dar įtakas Išlos, Pragaro ir Nemuno užgulė, ir\nvos vienas jūros pašalys tarp Liepojos ir Klaipėdos, giriomis užaugęs, medininkams žemaičiams\nbeužliko."
+  citata_rodoma: |
+    Tam nutikus Padaugavy, nuo vakarų vėl lenkai, norėdami Išlos įtaką užgulti, geidė Parusius nuveikti ir pačią Rusnę užimti. To dėjęsi, atvejų atvejais antpuldinėjo parusėnus, vieną atvejį taip toli buvo įsigrūdę į Žemaičių pajūrius, jog Rusnę pačią išteriojo^1412 ir jos garsią žinyčią išvertė. Parusėnai atkaliai, atmonydami tą lenkams, ėmė terioti jų pačių kraštą ir taip tenai juos įgrobė^1413 , jog lenkai, nesivildami parusėnų benuveikti nei benudrausti^1414 patys savo galia,
+    patelkė sau iš Teutonijos karės brostvininkus^1415 vokiečius, kryžeiviais vadinamus, kurie, susinėrę su
+    lenkais, ne vien užėmė lietuviams kraštus, vadinamus Pamedžionys, arba Pamezonija, Pagirionys
+    (Pagezonija), Galindija, Varmija, ir tų kraštų pilis, bet dar įtakas Išlos, Pragaro ir Nemuno užgulė, ir
+    vos vienas jūros pašalys tarp Liepojos ir Klaipėdos, giriomis užaugęs, medininkams žemaičiams
+    beužliko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +114,11 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         vergavo jų broliai kraugeriams vokiečiams Parusy, Žemgaliuose, arba Kurše, ir Padaugavy, kruviną
         prakaitą dieną naktį braukdami; todėl tankiai, krikščionų kunigą sugavę, perskėlė aukštai dvišakį
         medį augantį ir tenai kunigo kaklą įdėjo į spraskilą^1347 , kursai svimburdamas^1348 tenai nusigalavo.
-  citata_rodoma: "lietuviai, kalnėnai ir žemaičiai, žuvo dieną ir naktį, nenorėdami jiems vergauti ir jų gyvuliais būti taip, kaip jau\nvergavo jų broliai kraugeriams vokiečiams Parusy, Žemgaliuose, arba Kurše, ir Padaugavy, kruviną\nprakaitą dieną naktį braukdami; todėl tankiai, krikščionų kunigą sugavę, perskėlė aukštai dvišakį\nmedį augantį ir tenai kunigo kaklą įdėjo į spraskilą^1347 , kursai svimburdamas^1348 tenai nusigalavo."
+  citata_rodoma: |
+    lietuviai, kalnėnai ir žemaičiai, žuvo dieną ir naktį, nenorėdami jiems vergauti ir jų gyvuliais būti taip, kaip jau
+    vergavo jų broliai kraugeriams vokiečiams Parusy, Žemgaliuose, arba Kurše, ir Padaugavy, kruviną
+    prakaitą dieną naktį braukdami; todėl tankiai, krikščionų kunigą sugavę, perskėlė aukštai dvišakį
+    medį augantį ir tenai kunigo kaklą įdėjo į spraskilą^1347 , kursai svimburdamas^1348 tenai nusigalavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -127,7 +137,13 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         ginkluotų vyrų į karę po 500 jotų, kartais po 5000 arba 6000 pagal didumą šeimynos tos apygardos,
         dešimtį kartų daugiau pėsčiųjų. Visų nešeimingoji^1319 apygarda galėjo 2000 joties reikiant statyti
         karėn.
-  citata_rodoma: "Nuo ko gal manyti, jog, visiems žemlionims traukiant į karę, didi kariauna turėjo būti, ką\nir senovės raštai rodo, nesgi patys parusėnai, kariaudami metuose 1250 su vokiečių meldžionimis,\n4000 joties o 40 000 pėsčiųjų galėjo pastatyti į kovą, abelnai^1318 sakant, kožna apygarda galėjo išleisti\nginkluotų vyrų į karę po 500 jotų, kartais po 5000 arba 6000 pagal didumą šeimynos tos apygardos,\ndešimtį kartų daugiau pėsčiųjų. Visų nešeimingoji^1319 apygarda galėjo 2000 joties reikiant statyti\nkarėn."
+  citata_rodoma: |
+    Nuo ko gal manyti, jog, visiems žemlionims traukiant į karę, didi kariauna turėjo būti, ką
+    ir senovės raštai rodo, nesgi patys parusėnai, kariaudami metuose 1250 su vokiečių meldžionimis,
+    4000 joties o 40 000 pėsčiųjų galėjo pastatyti į kovą, abelnai^1318 sakant, kožna apygarda galėjo išleisti
+    ginkluotų vyrų į karę po 500 jotų, kartais po 5000 arba 6000 pagal didumą šeimynos tos apygardos,
+    dešimtį kartų daugiau pėsčiųjų. Visų nešeimingoji^1319 apygarda galėjo 2000 joties reikiant statyti
+    karėn.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -93,7 +93,12 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
 
     (^1) ) Hirt.
-  citata_rodoma: "Toliau Vytautas prekybos reikalus gynė beveik visose su\nOrdinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­\nrimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­\n\n(^1) ) Hirt."
+  citata_rodoma: |
+    Toliau Vytautas prekybos reikalus gynė beveik visose su
+    Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­
+    rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
+
+    (^1) ) Hirt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -116,7 +121,11 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
 
     kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
-  citata_rodoma: "Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis\nsu Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-\nrimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-\nkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną."
+  citata_rodoma: |
+    Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
+    su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
+    rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
+    kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

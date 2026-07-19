@@ -96,7 +96,11 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
     kia užpakalinį, galinį kraštą, Hinterland, nes jis plyti už
     anksčiau aprašytų2. Panašiau į tikrovę tai, jog buvusi
     atskirą kartą sudaranti gentis, vadinama natangais.
-  citata_rodoma: "Mokslininkai tyrinėtojai nesu­\ntaria dėl šio pavadinimo kilmės; manoma, kad tai reiš­\nkia užpakalinį, galinį kraštą, Hinterland, nes jis plyti už\nanksčiau aprašytų2."
+  citata_rodoma: |
+    Mokslininkai tyrinėtojai nesu­
+    taria dėl šio pavadinimo kilmės; manoma, kad tai reiš­
+    kia užpakalinį, galinį kraštą, Hinterland, nes jis plyti už
+    anksčiau aprašytų2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -143,7 +143,14 @@ Nenurodyta
     auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
     Vilhelmo Gizo, Johano Miulerio - darbus.
-  citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu\nT. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­\nnys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo\nprancūzų administracijoje."
+  citata_rodoma: |
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu
+    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
+    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
+    prancūzų administracijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -693,7 +693,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     435 Vartenbergo pilies, sūduvių sudegintos ir iki pat kronikos rašymo metų
     neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
     tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
-  citata_rodoma: "Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais\nneužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,\ndu iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos\nnuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo\npagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo\njuodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį."
+  citata_rodoma: |
+    Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
+    neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
+    du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos
+    nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
+    pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
+    juodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -720,7 +726,15 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
     kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
     grįždamas namo, kelyje ir pasimirė.
-  citata_rodoma: "Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai\nkrikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],\nvadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas\nMartynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas\nar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,\nnekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių\nramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o\nkiti išbėgiojo palikę visus turimus ginklus bei visą maistą."
+  citata_rodoma: |
+    Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
+    krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
+    vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas
+    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
+    ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
+    nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
+    ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
+    kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -749,7 +763,15 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
     Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
     jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti.
-  citata_rodoma: "Apie tą patį\n\n  Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs\nper patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui\nir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė\npokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į\nlaivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo\npo 20 markių dalies."
+  citata_rodoma: |
+    Apie tą patį
+
+      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
+    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
+    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
+    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
+    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
+    po 20 markių dalies.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -794,7 +816,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: "Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
+  citata_rodoma: |
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
+    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
+    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -832,7 +860,11 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
     bus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
     žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?
-  citata_rodoma: "Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš\nnetikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir\nbus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas\nžmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?"
+  citata_rodoma: |
+    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
+    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
+    bus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
+    žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

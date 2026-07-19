@@ -117,7 +117,19 @@ media_all_json: |-
     ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
     tautų bendruomenės]. (Slaptasis archyvas, Spinta
     XI, Nr. 19 ir 20).
-  citata_rodoma: "2) Kurį laiką buvo manoma, kad Gediminas \niš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel- \nplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­\nmus per presentes, eundem prefatum regem quasdam per piures \nmundi partes litteras direxisse, in quibus se cum suis et toto Reg­\nno asseruit baptizari et conjungi velle turbe fidelium populorum \n[Iš neseniai gautų dabartinių dokumentų įsitikinome, kad \ntas pats minėtas karalius po daugelį pasaulio šalių išsiunti­\nnėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais \nir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių \ntautų bendruomenės]. (Slaptasis archyvas, Spinta \nXI, Nr."
+  citata_rodoma: |
+    2) Kurį laiką buvo manoma, kad Gediminas
+    iš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel-
+    plino 1323 metais praneša popiežiui: Ex nuper actis patefeci­
+    mus per presentes, eundem prefatum regem quasdam per piures
+    mundi partes litteras direxisse, in quibus se cum suis et toto Reg­
+    no asseruit baptizari et conjungi velle turbe fidelium populorum
+    [Iš neseniai gautų dabartinių dokumentų įsitikinome, kad
+    tas pats minėtas karalius po daugelį pasaulio šalių išsiunti­
+    nėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais
+    ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
+    tautų bendruomenės]. (Slaptasis archyvas, Spinta
+    XI, Nr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +152,13 @@ media_all_json: |-
     liepė parengti, yra Slapt. Archyve.
     Olivos ir Pelplino abatų laiškas pa­
     žymėtas vėlesne data.
-  citata_rodoma: "1), kurį magistras Fridrichas fon \nVildenbergas Meve 1324 m., daly­\nvaujant Pelplino abatui Jordanui, \nliepė parengti, yra Slapt. Archyve. \nOlivos ir Pelplino abatų laiškas pa­\nžymėtas vėlesne data."
+  citata_rodoma: |
+    1), kurį magistras Fridrichas fon
+    Vildenbergas Meve 1324 m., daly­
+    vaujant Pelplino abatui Jordanui,
+    liepė parengti, yra Slapt. Archyve.
+    Olivos ir Pelplino abatų laiškas pa­
+    žymėtas vėlesne data.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

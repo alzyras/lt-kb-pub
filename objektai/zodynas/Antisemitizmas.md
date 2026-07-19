@@ -108,7 +108,11 @@ media_all_json: |-
     „kitokie“. Žydai lietuvių valstiečius matė kaip mažai civilizuotus kaimie-
     čius, iš kurių jie tik pirko produkciją, o vos prasibrėžianti lietuvių kultūra
     jiems, kaip ir lenkams, visiškai neimponavo.
-  citata_rodoma: "Lietuvos piliečiai žydai ir lenkai\nŠimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes \nlietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavu-\nsių žydų pirklių ir derliaus supirkėjų ir atvirkščiai."
+  citata_rodoma: |
+    Lietuvos piliečiai žydai ir lenkai
+    Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes
+    lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavu-
+    sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +133,10 @@ media_all_json: |-
     ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
-  citata_rodoma: "Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos \nplanų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie \ntiktai prašė, visų pirma plačiausią kultūrinę autonomiją."
+  citata_rodoma: |
+    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
+    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

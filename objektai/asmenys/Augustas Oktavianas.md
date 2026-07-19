@@ -142,7 +142,19 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
     Rifėjų, kalnai skyrė į rytus tekančius Volgos, Dono, Dnep-
     ro vandens baseinus nuo Dauguvos, Nemuno, Vyslos ir
     kitų upių, bėgančių į vakarus3.
-  citata_rodoma: "Kai kartaginietis\npamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­\nrodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats\nprarado savo laivą ir pražudė savo seklį, tačiau buvo už\nlai saviškių dosniai apdovanotas1.\n175\nIlgo imperatoriaus Augusto valdymo metais geografi­\njos tyrinėjimas padarė geroką pažangą: šis Romos val­\ndovas pats rašė traktatus apie geografiją, iš visur rinko\nžinias, pasitelkė matematikus2. Taigi nėra abejonių, kad\nvalstybės valdžia turėjo tam tikrų tikslių žinių apie jūras\nir kraštus, esančius į šiaurę nuo Elbės."
+  citata_rodoma: |
+    Kai kartaginietis
+    pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
+    rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
+    prarado savo laivą ir pražudė savo seklį, tačiau buvo už
+    lai saviškių dosniai apdovanotas1.
+    175
+    Ilgo imperatoriaus Augusto valdymo metais geografi­
+    jos tyrinėjimas padarė geroką pažangą: šis Romos val­
+    dovas pats rašė traktatus apie geografiją, iš visur rinko
+    žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
+    valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
+    ir kraštus, esančius į šiaurę nuo Elbės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

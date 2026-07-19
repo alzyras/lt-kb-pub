@@ -73,7 +73,11 @@ Kai Lenkų Liaudies respublikoje istorijos mokslas buvo perorganizuotas, nutruko
     dokumentų tomu, kuris apima iki 1507 m. taip svarbią Vilniaus
     vyskupijos istoriją (CDV), 1948 m. sustojo taip pat ir tolimesnis
     to kodekso leidimas.
-  citata_rodoma: "Kai Lenkų Liaudies respublikoje istorijos\nmokslas buvo perorganizuotas, nutruko (1950), žinoma, Monumenta\nPoloniae Vaticana (viso yra išėję 7 tomai) leidimas. Su pirmuoju\ndokumentų tomu, kuris apima iki 1507 m."
+  citata_rodoma: |
+    Kai Lenkų Liaudies respublikoje istorijos
+    mokslas buvo perorganizuotas, nutruko (1950), žinoma, Monumenta
+    Poloniae Vaticana (viso yra išėję 7 tomai) leidimas. Su pirmuoju
+    dokumentų tomu, kuris apima iki 1507 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

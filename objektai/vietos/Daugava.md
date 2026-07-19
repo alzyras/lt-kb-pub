@@ -164,7 +164,11 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
         pagadinto vardo latuviai, jų kraštą Latvija. Dar juo į rytus vadino kraštą Letgalija, tai yra –
         Lietuvos galas, kame Lietuvos tauta bengės, o krievių^107 prasidėjo; juo į pietus padaugaviais
         lužėnais, arba baltaisiais gudais.
-  citata_rodoma: "Antrapus Daugavos lietuvius gyvenančius lig upei Gaujai vadino latviais iš\n    pagadinto vardo latuviai, jų kraštą Latvija. Dar juo į rytus vadino kraštą Letgalija, tai yra –\n    Lietuvos galas, kame Lietuvos tauta bengės, o krievių^107 prasidėjo; juo į pietus padaugaviais\n    lužėnais, arba baltaisiais gudais."
+  citata_rodoma: |
+    Antrapus Daugavos lietuvius gyvenančius lig upei Gaujai vadino latviais iš
+        pagadinto vardo latuviai, jų kraštą Latvija. Dar juo į rytus vadino kraštą Letgalija, tai yra –
+        Lietuvos galas, kame Lietuvos tauta bengės, o krievių^107 prasidėjo; juo į pietus padaugaviais
+        lužėnais, arba baltaisiais gudais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -187,7 +191,17 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti.
-  citata_rodoma: "Abu jie niokojo \nkraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­\nla, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį, \nįsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą \nkunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­\nno. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­\nrus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­\nralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai, \natkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­\nskandinti."
+  citata_rodoma: |
+    Abu jie niokojo
+    kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
+    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
+    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
+    skandinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -215,7 +229,22 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
     iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
     išsaugojo gryniausius savo padermės bruožus.
-  citata_rodoma: "Iš tokio \ntrijų skirtingų kilmių gyventojų maišymosi ir samplaikos \nradosi nauja pasienio tauta, kuri senovės geografų ilgai bu­\nvo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje \nLietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba \ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos \niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki \nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina, \nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu \npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija, \niki pat Baltijos jūros siekianti, kaip lietuvių genties centras, \nišsaugojo gryniausius savo padermės bruožus."
+  citata_rodoma: |
+    Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -238,7 +267,14 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­
     binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus,
     regis, kolonija iš Bremeno įkūrė Rygą.
-  citata_rodoma: "Tokios gynybos sistemos globoje atsivėrė ke­\nliai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir \nAnglijoje, darbo vaisiais. XII amžiuje geriau susipažinta su toli­\nmesnėmis Baltijos jūros pakrantėmis. Bremeno pirkliai 1158 m. \natrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­\nbinius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus, \nregis, kolonija iš Bremeno įkūrė Rygą."
+  citata_rodoma: |
+    Tokios gynybos sistemos globoje atsivėrė ke­
+    liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir
+    Anglijoje, darbo vaisiais. XII amžiuje geriau susipažinta su toli­
+    mesnėmis Baltijos jūros pakrantėmis. Bremeno pirkliai 1158 m.
+    atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­
+    binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus,
+    regis, kolonija iš Bremeno įkūrė Rygą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -264,7 +300,20 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     senųjų valdų germanų gentį - gotus, o šie tai į Europos va­
     karus išsisklaidydavo, tai vėl į šiaurę, į Skandinaviją, bet ne
     kartą iš tų kraštų sugrįždavo į senąsias gyvenvietes.
-  citata_rodoma: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta \nvenedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos \nžiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie \njų šliejosi estų, gausios suomių padermės atšakos, gyven­\nvietės. Abi šios gentys, artėdamos viena prie kitos, stūmė iš\n13\n\n## Puslapis 30\n\nVILNIAUS MIESTO ISTORIJA I  TOMAS\nsenųjų valdų germanų gentį - gotus, o šie tai į Europos va­\nkarus išsisklaidydavo, tai vėl į šiaurę, į Skandinaviją, bet ne \nkartą iš tų kraštų sugrįždavo į senąsias gyvenvietes."
+  citata_rodoma: |
+    Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
+    venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
+    žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
+    jų šliejosi estų, gausios suomių padermės atšakos, gyven­
+    vietės. Abi šios gentys, artėdamos viena prie kitos, stūmė iš
+    13
+
+    ## Puslapis 30
+
+    VILNIAUS MIESTO ISTORIJA I  TOMAS
+    senųjų valdų germanų gentį - gotus, o šie tai į Europos va­
+    karus išsisklaidydavo, tai vėl į šiaurę, į Skandinaviją, bet ne
+    kartą iš tų kraštų sugrįždavo į senąsias gyvenvietes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

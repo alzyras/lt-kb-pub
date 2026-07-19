@@ -1031,7 +1031,17 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     atkeršyti už nukryžiuotojo viešpaties kančias. Tokia didelė buvo ši kariuomenė, kad joje
     318 Pršemislas Otokaras II, Čekijos karalius (1253—1278), 1254 m. gruodžio
     pabaigoje dar tebuvo Vroclave.
-  citata_rodoma: "70 (69). Apie karo su sembais rezultatų atspėjimą\n\n  Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau\njį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,\nmaloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.\nŠis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad\nbroliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes\nturime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,\nbet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš\npragaištį."
+  citata_rodoma: |
+    70 (69). Apie karo su sembais rezultatų atspėjimą
+
+      Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
+    jį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
+    maloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
+    Šis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad
+    broliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes
+    turime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,
+    bet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš
+    pragaištį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1055,7 +1065,17 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
     vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
     Kandeimu, gerai žinojusį visą Sembos karių galią.
-  citata_rodoma: "Apie sembų pavergimą\n\n  Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko\nsembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos\nkaralių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,\nkuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos\nmarkgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą\nsu galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,\nAustrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu\natkeršyti už nukryžiuotojo viešpaties kančias."
+  citata_rodoma: |
+    Apie sembų pavergimą
+
+      Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
+    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
+    karalių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
+    kuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos
+    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
+    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
+    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
+    atkeršyti už nukryžiuotojo viešpaties kančias.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1141,7 +1161,15 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
     dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
     plėšikiškais išpuoliais Ragainės broliams ramybę.
-  citata_rodoma: "237 (230). Apie Sembos žemės nusiaubimą\n\n  Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į\nSembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,\no grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė\nį žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė\natgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana\ndaug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių."
+  citata_rodoma: |
+    237 (230). Apie Sembos žemės nusiaubimą
+
+      Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į
+    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
+    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
+    į žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
+    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
+    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1311,7 +1339,16 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     jo amžiuje žinomas Rusias: vieną, per kurios vidurį plau­
     kė Nemunas iki lietuvių žemių, ir antrą, kurią kirto išėjęs
     iš Lietuvos5.
-  citata_rodoma: "Kvedliriburgo kronika mini prieš 1009 metus ru­\nsus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos\nšiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­\nvincijas, kurias dėl nesuprantamų priežasčių vadina salo­\nmis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­\ntu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,\nnes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-\ndevikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos\nsienas, mini Rusios problemą."
+  citata_rodoma: |
+    Kvedliriburgo kronika mini prieš 1009 metus ru­
+    sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
+    šiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­
+    vincijas, kurias dėl nesuprantamų priežasčių vadina salo­
+    mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­
+    tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,
+    nes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-
+    devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
+    sienas, mini Rusios problemą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1337,7 +1374,17 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
     rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
     karalius Halfanask
-  citata_rodoma: "Pavergęs slavų kraštą ir pamanęs, jog \nįtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė \nį Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus \nplytinčius kraštus, žiauriai liedamas žmonių kraują ir be \ngalo juos engdamas. Tuomet slavai, pasinaudodami Jar­\nmeriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir \nplėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas \nskubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­\ngalėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­\nviais, jog visiškai įbauginta liaudis vėl nusižemino."
+  citata_rodoma: |
+    Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
+    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
+    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
+    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
+    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
+    viais, jog visiškai įbauginta liaudis vėl nusižemino.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -59,7 +59,10 @@ Zajączkowski, St.
     waniem Litwy_ , Rocznik Wołyński, II, Równo 1931, 1-24 p.
     (^19) **PSRL, t. 17, 71 p.**
     (^20) **St.
-  citata_rodoma: "— Zajączkowski, St. : _W sprawie zajęcia\nPodlasia przez Giedymina_ , AW, t. 6, 1929, 1-8 p. — (”) _Wołyń pod pano­\nwaniem Litwy_ , Rocznik Wołyński, II, Równo 1931, 1-24 p."
+  citata_rodoma: |
+    — Zajączkowski, St. : _W sprawie zajęcia
+    Podlasia przez Giedymina_ , AW, t. 6, 1929, 1-8 p. — (”) _Wołyń pod pano­
+    waniem Litwy_ , Rocznik Wołyński, II, Równo 1931, 1-24 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

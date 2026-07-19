@@ -65,8 +65,10 @@ Heweker, Die Schlacht bei Tannenberg, Diss.
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.
-    Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
-  citata_rodoma: "Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.\nYčas, J."
+    Yčas, J.
+  citata_rodoma: |
+    Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.
+    Yčas, J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

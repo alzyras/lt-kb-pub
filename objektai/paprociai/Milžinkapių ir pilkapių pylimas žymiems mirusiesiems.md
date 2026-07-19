@@ -129,7 +129,12 @@ Nenurodyta
     akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
     tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
     nų eilės, nukreiptos nuo viršūnės tiesiai į apačią.
-  citata_rodoma: "Vis dėlto iki šiol ypač garbinami pilka­\npiai, supilti ant žymių žmonių pelenų.\nŠitokių aukštų milžinkapių pylimo paprotys buvo pažįsta­\nmas daugeliui antikinių tautų. Homeras mini jį kaip bendrą\ngraikams ir trojėnams."
+  citata_rodoma: |
+    Vis dėlto iki šiol ypač garbinami pilka­
+    piai, supilti ant žymių žmonių pelenų.
+    Šitokių aukštų milžinkapių pylimo paprotys buvo pažįsta­
+    mas daugeliui antikinių tautų. Homeras mini jį kaip bendrą
+    graikams ir trojėnams.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

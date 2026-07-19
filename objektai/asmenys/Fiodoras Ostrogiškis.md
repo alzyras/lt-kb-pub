@@ -98,7 +98,15 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
     jo, kad rusai nejautė pavojaus. Lenkų ir rusų kovos
     likimas išsisprendė tada, kai begalinį narsumą parodė
     šimtininkas Kemlickis.
-  citata_rodoma: "Lenkai atgavo drąsą ir ūpą, tuo\ntarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­\nsurado nei savo vėliavų, nei savo būrių. Kunigaikštis\nFiodoras, manydamas, jog lenkams į pagalbą atskuba\ndidelės jėgos, anksčiau už kitus paspruko su rinkti­\nniais kariais iš kovos lauko į saugesnę vietą, o paskui,\nvadą be tvarkos pasileido ir visa kariuomenė. Kur kas\ndaugiau jų žuvo bėgant, nei kovojant."
+  citata_rodoma: |
+    Lenkai atgavo drąsą ir ūpą, tuo
+    tarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­
+    surado nei savo vėliavų, nei savo būrių. Kunigaikštis
+    Fiodoras, manydamas, jog lenkams į pagalbą atskuba
+    didelės jėgos, anksčiau už kitus paspruko su rinkti­
+    niais kariais iš kovos lauko į saugesnę vietą, o paskui,
+    vadą be tvarkos pasileido ir visa kariuomenė. Kur kas
+    daugiau jų žuvo bėgant, nei kovojant.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

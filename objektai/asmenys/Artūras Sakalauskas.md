@@ -104,7 +104,8 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
     p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM.
     p. 263, Ant barikadų, juosusių AT, atsirado įvairių užrašų, palaikančių Lietuvos laisvės siekius
     ir rodančių pasiryžimą kovoti iki galo, Andriaus Petruliavičiaus nuotr.
-  citata_rodoma: "p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM."
+  citata_rodoma: |
+    p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +132,17 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
     respublikų, tarp jų ir pati Rusija (!), sekdamos nepasiduodan-
     čios Lietuvos pavyzdžiu, ėmė vis drąsiau galvoti apie atsisky-
     rimą nuo ssRS).
-  citata_rodoma: "Gorbačiovą, ma-\nnydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungoje ir\npašalins jos subyrėjimo pavojų (tuo metu jau daugelis sovietinių\n\nArtūras Sakalauskas —\npaskutinis 1991 m.\nkovoje už laisvę žuvęs\nLietuvos savanoris\n\nrespublikų, tarp jų ir pati Rusija (!"
+  citata_rodoma: |
+    Gorbačiovą, ma-
+    nydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungoje ir
+    pašalins jos subyrėjimo pavojų (tuo metu jau daugelis sovietinių
+
+    Artūras Sakalauskas —
+    paskutinis 1991 m.
+    kovoje už laisvę žuvęs
+    Lietuvos savanoris
+
+    respublikų, tarp jų ir pati Rusija (!
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

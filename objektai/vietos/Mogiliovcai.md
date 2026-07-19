@@ -108,7 +108,10 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
     niaus gimnazijos mokytojas Ipolitas Klimaševskis.
-  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek­\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­\nniaus gimnazijos mokytojas Ipolitas Klimaševskis."
+  citata_rodoma: |
+    Bychovco kronikos rankraštį prieš 1830 m. Alek­
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
+    niaus gimnazijos mokytojas Ipolitas Klimaševskis.
   statusas: verified
   atnaujinta: "2026-07-12 22:30"
   teiginio_tipas: faktas

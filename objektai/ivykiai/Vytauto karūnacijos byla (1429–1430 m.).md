@@ -193,7 +193,11 @@ Nenurodyta
     niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
     esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
     įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
-  citata_rodoma: "Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­\nniką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog\nesąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko\nįtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą."
+  citata_rodoma: |
+    Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
+    niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
+    esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
+    įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -240,7 +244,17 @@ Nenurodyta
     Vytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano
     Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
     naujo suardyta^1 ), suduotas jai didelis smūgis.
-  citata_rodoma: "Vytautas, nežiūrint net gilios jo senatvės, dar smar­\nkiai savo paskutiniais gyvenimo metais apgriovė unijos pa­\ngrindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­\nvą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­\nkarūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­\nratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­\ndama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti\nVytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano\nKutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš\nnaujo suardyta^1 ), suduotas jai didelis smūgis."
+  citata_rodoma: |
+    Vytautas, nežiūrint net gilios jo senatvės, dar smar­
+    kiai savo paskutiniais gyvenimo metais apgriovė unijos pa­
+    grindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­
+    vą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­
+    karūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­
+    ratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­
+    dama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti
+    Vytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano
+    Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
+    naujo suardyta^1 ), suduotas jai didelis smūgis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -291,7 +305,19 @@ Nenurodyta
     virai pagrasino, sakydamas,
     14*
     4 1 9
-  citata_rodoma: "Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją."
+  citata_rodoma: |
+    Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
+    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
+    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
+    iš Volynės į Vengriją.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

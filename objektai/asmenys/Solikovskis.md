@@ -81,7 +81,16 @@ Solikovskis, padėjęs ją pastatyti, niekada nebu­ vo Vilniaus, bet Lvovo arki
     pas, o svarbiausia, kad nei jis, nei jo
     kolega kardinolas Radvila 1501 m.
     dar nebuvo gimę.
-  citata_rodoma: "IV\nKNYGOS\nPABAIGA\nyra visiškai klaidinga. Solikovskis, \npadėjęs ją pastatyti, niekada nebu­\nvo Vilniaus, bet Lvovo arkivysku­\npas, o svarbiausia, kad nei jis, nei jo \nkolega kardinolas Radvila 1501 m. \ndar nebuvo gimę."
+  citata_rodoma: |
+    IV
+    KNYGOS
+    PABAIGA
+    yra visiškai klaidinga. Solikovskis,
+    padėjęs ją pastatyti, niekada nebu­
+    vo Vilniaus, bet Lvovo arkivysku­
+    pas, o svarbiausia, kad nei jis, nei jo
+    kolega kardinolas Radvila 1501 m.
+    dar nebuvo gimę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,8 @@ Terminas vartojamas kraičvežių kalboje ir vaidmeniniame vestuvių juoke.
     žai, visoki pasaitai, pentinai, vis išdabinti stučkomis, vis sudaro juo­
     kingai išdidų vaizdą. Tam panaši ir jų kalba: esą plunksnų pirkliai,
     perką kur geras plunksnas ir pūkus.
-  citata_rodoma: "Tam panaši ir jų kalba: esą plunksnų pirkliai, perką kur geras plunksnas ir pūkus."
+  citata_rodoma: |
+    Tam panaši ir jų kalba: esą plunksnų pirkliai, perką kur geras plunksnas ir pūkus.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

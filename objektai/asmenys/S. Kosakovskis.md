@@ -87,7 +87,29 @@ Kosakovskis.
     tai patys įleido sukilėlius į vidų.
     Atsitraukti su įgulos likučiais
     pavyko kpt.
-  citata_rodoma: "balandis-liepa KOVOS DĖL VILNIAUS 149\n\nwn\n-\n>\n2\nss\nKT)\nT\n©\n>\no\nx\n\n## Puslapis 152\n\ngatvėje Milerio name buvo su-\nimtas paskutinysis LDK didysis\netmonas, ištikimas Rusijai, gene-\nrolas S. Kosakovskis. Jį saugoję\nLietuvos kariuomenės artileris-\ntai patys įleido sukilėlius į vidų."
+  citata_rodoma: |
+    balandis-liepa KOVOS DĖL VILNIAUS 149
+
+    wn
+    -
+    >
+    2
+    ss
+    KT)
+    T
+    ©
+    >
+    o
+    x
+
+    ## Puslapis 152
+
+    gatvėje Milerio name buvo su-
+    imtas paskutinysis LDK didysis
+    etmonas, ištikimas Rusijai, gene-
+    rolas S. Kosakovskis. Jį saugoję
+    Lietuvos kariuomenės artileris-
+    tai patys įleido sukilėlius į vidų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

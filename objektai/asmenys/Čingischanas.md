@@ -110,7 +110,17 @@ media_all_json: |-
     buvo panašūs nei išvaizda, nei papročiais ir kalba, sky­
     rėsi nuo tikrų poloviečių, kurie negalėjo kitaip užklysti į
     tas šalis, o nebent tik taip, kaip mes jau minėjome.
-  citata_rodoma: "104\nGalop dabar privalome pridurti dar vieną istorinę pa­\nstabą. Kai 1223 metais Čingischanas išsiuntė stiprų savo\nkariuomenės būrį, vadovaujamą vadų Bojaduro ir Cip-\nnoviano, į vakarinę Kaspijos pakrantę užimti Samachos\nir Derbento miestų, atsitiko taip, kad pirmasis miestas\npasidavė nesipriešindamas. Mongolų karvedžiai skubėjo\nužimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­\nlydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­\n1 Stender Gotthard Friedrich."
+  citata_rodoma: |
+    104
+    Galop dabar privalome pridurti dar vieną istorinę pa­
+    stabą. Kai 1223 metais Čingischanas išsiuntė stiprų savo
+    kariuomenės būrį, vadovaujamą vadų Bojaduro ir Cip-
+    noviano, į vakarinę Kaspijos pakrantę užimti Samachos
+    ir Derbento miestų, atsitiko taip, kad pirmasis miestas
+    pasidavė nesipriešindamas. Mongolų karvedžiai skubėjo
+    užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­
+    lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
+    1 Stender Gotthard Friedrich.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

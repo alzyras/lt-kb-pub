@@ -164,7 +164,13 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     išsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
-  citata_rodoma: "Štai todėl,\npalaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei\nkaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę\nvieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo\natgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus\nišsklaidė."
+  citata_rodoma: |
+    Štai todėl,
+    palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
+    kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
+    vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
+    atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
+    išsklaidė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -183,7 +189,10 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
     Todėl jie, subūrę kariuomenę,  užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
     tebuvo du vyrai: vienas brolis bei jo tarnas.
-  citata_rodoma: "379 D. — territorium Pubeten, Jer. — gebît Pobêtin; Pabečiai (dab. Romanovas),\ngyvenvietė šiaurės Semboje  į pietryčius nuo buv. Naujųjų Kuršių, Neu-Kuhren (dab.\nPionierskas)."
+  citata_rodoma: |
+    379 D. — territorium Pubeten, Jer. — gebît Pobêtin; Pabečiai (dab. Romanovas),
+    gyvenvietė šiaurės Semboje  į pietryčius nuo buv. Naujųjų Kuršių, Neu-Kuhren (dab.
+    Pionierskas).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

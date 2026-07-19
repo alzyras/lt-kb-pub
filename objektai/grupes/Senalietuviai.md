@@ -87,7 +87,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: "viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,"
+  citata_rodoma: |
+    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +107,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
     arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
     tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
-  citata_rodoma: "nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“"
+  citata_rodoma: |
+    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

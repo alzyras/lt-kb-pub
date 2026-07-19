@@ -91,7 +91,11 @@ Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kau
     Visos šios trys pastabos aiškiai įtikina, kad lietuvių mitolo­
     gija rėmėsi graikų mitologija, kadangi net menkose smulkme­
     nose randamos apčiuopiamos panašybės.
-  citata_rodoma: "Kai Vilkijos seniūnas Zabiela uždraudė tuos\nkerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,\nšv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­\nris dėl to iki šiol neprarado gydomojo poveikio."
+  citata_rodoma: |
+    Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
+    ris dėl to iki šiol neprarado gydomojo poveikio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

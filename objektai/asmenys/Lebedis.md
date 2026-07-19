@@ -60,7 +60,10 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
     Die 1  10 bris [gruodžio 1 dieną] Lebedis liet. monetoms
     Varšuvoje, būdamas mokesčių rinkėjas, kai karališk. did. bu­
     vo Krokuvoje, pridėjo 3 flor., 19 gr.
-  citata_rodoma: "Die 1  10 bris [gruodžio 1 dieną] Lebedis liet. monetoms \nVaršuvoje, būdamas mokesčių rinkėjas, kai karališk. did. bu­\nvo Krokuvoje, pridėjo 3 flor., 19 gr."
+  citata_rodoma: |
+    Die 1  10 bris [gruodžio 1 dieną] Lebedis liet. monetoms
+    Varšuvoje, būdamas mokesčių rinkėjas, kai karališk. did. bu­
+    vo Krokuvoje, pridėjo 3 flor., 19 gr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

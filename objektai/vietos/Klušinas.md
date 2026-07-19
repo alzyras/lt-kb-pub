@@ -73,7 +73,14 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
 
     Dalis Rusijos bojarinų naujuoju caru iš-
     rinko Zigmanto Vazos sūnų Vladislovą.
-  citata_rodoma: "Lenkų ka-\nriuomenė šios sumaišties metu 1610 m. su-\n\nmušusi rusus prie Klušino, užėmė Maskvą.\n\nDalis Rusijos bojarinų naujuoju caru iš-\nrinko Zigmanto Vazos sūnų Vladislovą."
+  citata_rodoma: |
+    Lenkų ka-
+    riuomenė šios sumaišties metu 1610 m. su-
+
+    mušusi rusus prie Klušino, užėmė Maskvą.
+
+    Dalis Rusijos bojarinų naujuoju caru iš-
+    rinko Zigmanto Vazos sūnų Vladislovą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

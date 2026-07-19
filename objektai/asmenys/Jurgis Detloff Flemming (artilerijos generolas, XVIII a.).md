@@ -139,7 +139,9 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
     kancleris persikels į Antakalnį. Tada, sutaikęs iždininką Jurgį Detlofą Flemingą (Jerzy
     Detloff Flemming) su kunigaikščiu vėliavininku Jeronimu Radvila, jis persikraustys į
     Flemingų rūmus.
-  citata_rodoma: "Tada, sutaikęs iždininką Jurgį Detlofą Flemingą (Jerzy Detloff Flemming) su kunigaikščiu vėliavininku Jeronimu Radvila, jis persikraustys į\nFlemingų rūmus."
+  citata_rodoma: |
+    Tada, sutaikęs iždininką Jurgį Detlofą Flemingą (Jerzy Detloff Flemming) su kunigaikščiu vėliavininku Jeronimu Radvila, jis persikraustys į
+    Flemingų rūmus.
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

@@ -80,7 +80,12 @@ media_all_json: |-
     įvaizdį. Stengtasi pateikti daug kontekstinės informacijos,
     nupasakojančios kiekvieno laikotarpio karybos, ginkluo-
     tės raidos tendencijas bei regiono geopolitinį kontekstą.
-  citata_rodoma: "Šio leidinio tikslas - per karų kulminacinius momen-\ntus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę\nistoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-\ntojas galėtų susikurti įvairių laikotarpių Lietuvos kario\nįvaizdį."
+  citata_rodoma: |
+    Šio leidinio tikslas - per karų kulminacinius momen-
+    tus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę
+    istoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-
+    tojas galėtų susikurti įvairių laikotarpių Lietuvos kario
+    įvaizdį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

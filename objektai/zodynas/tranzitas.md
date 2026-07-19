@@ -69,7 +69,11 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
     konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų
     santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.
     VI. 2).
-  citata_rodoma: "Ambasadorių Konferencija jau po Klaipėdos\nkonvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų\nsantykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.\nVI. 2)."
+  citata_rodoma: |
+    Ambasadorių Konferencija jau po Klaipėdos
+    konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų
+    santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.
+    VI. 2).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -63,7 +63,13 @@ media_all_json: |-
     „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
     A. Voldemaras) prieš Varšuvą bandė atsilaikyti Vokietijos ar Sovietų Ru-
     sijos padedami, tačiau pastarųjų tai neviliojo.
-  citata_rodoma: "Ta-\nčiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti \nVilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis \nnetgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo \n„revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras \nA."
+  citata_rodoma: |
+    Ta-
+    čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
+    Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
+    netgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo
+    „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
+    A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

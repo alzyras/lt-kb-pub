@@ -67,7 +67,14 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
     paėmę Naugarduką, eiti toliau į „Lietuvos žemę“.
 
     Tačiau pati Naugarduko pilis nebuvo paimta.
-  citata_rodoma: "Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą\ndieną atžygiavę rusėnų kunigaikščiai tūžo ant Haličo kunigaikščio\n\nLevo, kad šis „pats su totoriais paėmė miestą“, nes ketino, drauge\npaėmę Naugarduką, eiti toliau į „Lietuvos žemę“.\n\nTačiau pati Naugarduko pilis nebuvo paimta."
+  citata_rodoma: |
+    Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą
+    dieną atžygiavę rusėnų kunigaikščiai tūžo ant Haličo kunigaikščio
+
+    Levo, kad šis „pats su totoriais paėmė miestą“, nes ketino, drauge
+    paėmę Naugarduką, eiti toliau į „Lietuvos žemę“.
+
+    Tačiau pati Naugarduko pilis nebuvo paimta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

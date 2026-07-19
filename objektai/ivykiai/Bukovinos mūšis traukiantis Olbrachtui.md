@@ -159,7 +159,11 @@ Nenurodyta
     maršalą, Naugarduko ir Slonimo vietininką poną Liu­
     taurą Chreptavičių l6, ir daugelį kitų savo kunigaikščių,
     ir ponų, ir dvarionių, ir bajorų.
-  citata_rodoma: "Kai karalius perėjo miškus ir Bukoviną, Moldavijos \nvaivada su visais savo žmonėmis pasuko atgalios. Tada \nMoldavijos vaivada paėmė nelaisvėn Lenkijos karalys­\ntės didįjį maršalą poną Točinskį 3 S ."
+  citata_rodoma: |
+    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
+    vaivada su visais savo žmonėmis pasuko atgalios. Tada
+    Moldavijos vaivada paėmė nelaisvėn Lenkijos karalys­
+    tės didįjį maršalą poną Točinskį 3 S .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

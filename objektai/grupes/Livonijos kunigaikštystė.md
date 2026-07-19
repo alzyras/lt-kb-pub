@@ -139,7 +139,23 @@ media_all_json: |-
     problemų kėlusius Krymo totorius
     ir tuomet jie vėl suaktyvino savo
     veiksmus Livonijoje.
-  citata_rodoma: "Karalius Steponas Batoras ir LDK\ndidysis etmonas Mikalojus Radvila\nRudasis suvokė, kad\nsiekiant nutraukti rusų\nveržimąsi į Livoniją rei-\nkia atkirsti Livonijos teritoriją nuo\nRusijos ir perkelti karo veiksmus\n\nVengriškasis-lenkiškasis kardas. Tokie\nkardai kilo iš Vengrijos, kur jie formavosi turkų\n\nPo Liublino unijos Livonijos ir Kuršo\nkunigaikštystės pripažintos bend-\nromis Lenkijos ir LDK valdomis.\n\n1572 m."
+  citata_rodoma: |
+    Karalius Steponas Batoras ir LDK
+    didysis etmonas Mikalojus Radvila
+    Rudasis suvokė, kad
+    siekiant nutraukti rusų
+    veržimąsi į Livoniją rei-
+    kia atkirsti Livonijos teritoriją nuo
+    Rusijos ir perkelti karo veiksmus
+
+    Vengriškasis-lenkiškasis kardas. Tokie
+    kardai kilo iš Vengrijos, kur jie formavosi turkų
+
+    Po Liublino unijos Livonijos ir Kuršo
+    kunigaikštystės pripažintos bend-
+    romis Lenkijos ir LDK valdomis.
+
+    1572 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

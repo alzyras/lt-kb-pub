@@ -182,7 +182,23 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
-  citata_rodoma: "Inga Vinogradnaitė\nIšleista Lietuvos Respublikos\nužsienio reikalų ministerijos užsakymu\nAntras leidimas\n© Alfonsas Eidintas, 2013\n© Alfredas Bumblauskas, 2013\n© Antanas Kulakauskas, 2013\n© Mindaugas Tamošaitis, 2013\n© Lietuvos Respublikos užsienio reikalų ministerija, 2013\n\nTURINYS\nSantrumpos  8\nRedaktoriaus žodis  9\nĮ v a d a s\nLIETUVA – VIDURIO EUROPOS DALIS  12\nGeografinis Europos centras?"
+  citata_rodoma: |
+    Inga Vinogradnaitė
+    Išleista Lietuvos Respublikos
+    užsienio reikalų ministerijos užsakymu
+    Antras leidimas
+    © Alfonsas Eidintas, 2013
+    © Alfredas Bumblauskas, 2013
+    © Antanas Kulakauskas, 2013
+    © Mindaugas Tamošaitis, 2013
+    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
+
+    TURINYS
+    Santrumpos  8
+    Redaktoriaus žodis  9
+    Į v a d a s
+    LIETUVA – VIDURIO EUROPOS DALIS  12
+    Geografinis Europos centras?
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -218,7 +234,21 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     Iš britų mokslininko Robert Gordon Latham
     „Descriptive Ethnology“ („Aprašomoji etnologija“)
     Geografinis Europos centras?
-  citata_rodoma: "Sauliui Kaubriui ir daugeliui\nkitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių\natrinkimo.\n   Alfonsas Eidintas,\n   redaktorius\n\nĮ v a d a s\nLIETUVA –\nVIDURIO EUROPOS DALIS\n„Be abejonės, sanskrito giminingumas su lietuvių kalba yra\ndidesnis, negu su bet kuria kita kalba šioje žemėje“\nIš britų mokslininko Robert Gordon Latham\n„Descriptive Ethnology“ („Aprašomoji etnologija“)\nGeografinis Europos centras?"
+  citata_rodoma: |
+    Sauliui Kaubriui ir daugeliui
+    kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
+    atrinkimo.
+       Alfonsas Eidintas,
+       redaktorius
+
+    Į v a d a s
+    LIETUVA –
+    VIDURIO EUROPOS DALIS
+    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
+    didesnis, negu su bet kuria kita kalba šioje žemėje“
+    Iš britų mokslininko Robert Gordon Latham
+    „Descriptive Ethnology“ („Aprašomoji etnologija“)
+    Geografinis Europos centras?
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -237,7 +267,10 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     ministerija), 2001; Lietuva, 1991 sausio 13. Dokumentinė medžiaga. Vilnius: Spaudos
     departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
     ir A. Eidinto, A. Bumblausko asmeninių archyvų.
-  citata_rodoma: "Vilnius: Spaudos \ndepartamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) \nir A. Eidinto, A. Bumblausko asmeninių archyvų."
+  citata_rodoma: |
+    Vilnius: Spaudos
+    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
+    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

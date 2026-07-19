@@ -98,7 +98,18 @@ Nenurodyta
     visiems miestų ir kaimų jauniems vyrams, pajėgian­
     tiems kariauti, ir šit buvo sutelkta didžiulė kariuo­
     menė. Kai lietuviai patraukė namo, Henrikas nedels-
-  citata_rodoma: "Iš ten \nkariuomenė patraukė prie Redino: dalis karių nesku­\nbėdami apgulė miestą, kiti, paleisti visomis kryptimis \npo apylinkes, kalaviju bei ugnimi viską niokojo. Į sto­\nvyklą sugrįžo tik tada, kai pasklido gandas, jog ar­\ntėja didžiulės kryžiuočių jėgos. Mat į kovą buvo pa­\nšaukti ne tik prityrę kryžiuočiai, samdininkai, bet ir \natėję į pagalbą svetimšaliai, įsakyta griebtis ginklo \nvisiems miestų ir kaimų jauniems vyrams, pajėgian­\ntiems kariauti, ir šit buvo sutelkta didžiulė kariuo­\nmenė."
+  citata_rodoma: |
+    Iš ten
+    kariuomenė patraukė prie Redino: dalis karių nesku­
+    bėdami apgulė miestą, kiti, paleisti visomis kryptimis
+    po apylinkes, kalaviju bei ugnimi viską niokojo. Į sto­
+    vyklą sugrįžo tik tada, kai pasklido gandas, jog ar­
+    tėja didžiulės kryžiuočių jėgos. Mat į kovą buvo pa­
+    šaukti ne tik prityrę kryžiuočiai, samdininkai, bet ir
+    atėję į pagalbą svetimšaliai, įsakyta griebtis ginklo
+    visiems miestų ir kaimų jauniems vyrams, pajėgian­
+    tiems kariauti, ir šit buvo sutelkta didžiulė kariuo­
+    menė.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

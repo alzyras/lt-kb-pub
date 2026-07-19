@@ -58,7 +58,8 @@ media_all_json: |-
     ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
     70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
     kiams, įvertinta kaip pavojus visai tautai.
-  citata_rodoma: "ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti"
+  citata_rodoma: |
+    ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -128,7 +128,21 @@ Nenurodyta
     stogo. Gynėjai išsikėlė nerašytą misiją - pa-
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
-  citata_rodoma: "Pirmomis sausio įvykių dienomis tik\nmažesnioji gynėjų dalis turėjo aiškesnę uz-\nduotį - pagal galimybes ginti AT rūmus ir\njų išorinį perimetrą, siekiant užfiksuoti patį\npasipriešinimo faktą, o daliai ginkluotų gy-\nnėjų AT šturmo metu atakuoti šturmuojan-\nčias sovietų pajėgas iš nugaros. Tuo tikslu\ndalis ginkluotų A. Pociaus vadovaujamų\nvyrų buvo išdėstyti ties Žvėryno tiltu ki-\ntoje Neries pusėje, dalis kovotojų išsidėstė\nant Nacionalinės M. Mažvydo bibliotekos\nstogo. Gynėjai išsikėlė nerašytą misiją - pa-\nsipriešinti bet kokiu atveju ir nepakartoti\n1940 m. klaidos!"
+  citata_rodoma: |
+    Pirmomis sausio įvykių dienomis tik
+    mažesnioji gynėjų dalis turėjo aiškesnę uz-
+    duotį - pagal galimybes ginti AT rūmus ir
+    jų išorinį perimetrą, siekiant užfiksuoti patį
+    pasipriešinimo faktą, o daliai ginkluotų gy-
+    nėjų AT šturmo metu atakuoti šturmuojan-
+    čias sovietų pajėgas iš nugaros. Tuo tikslu
+    dalis ginkluotų A. Pociaus vadovaujamų
+    vyrų buvo išdėstyti ties Žvėryno tiltu ki-
+    toje Neries pusėje, dalis kovotojų išsidėstė
+    ant Nacionalinės M. Mažvydo bibliotekos
+    stogo. Gynėjai išsikėlė nerašytą misiją - pa-
+    sipriešinti bet kokiu atveju ir nepakartoti
+    1940 m. klaidos!
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +168,17 @@ Nenurodyta
     užėmus valstybinius objektus, užtikrinti
     politinį šalies atstovavimą bei organizuoti
     įvairiapusišką pasipriešinimą okupantams.
-  citata_rodoma: "Atkurtos Lietuvos valstybės vadovybė so-\nvietų agresijos akistatoje siekė sutelktomis\nvisuomenės ir gynėjų pajėgomis fiksuoti\nkarinės agresijos prieš Lietuvos Respubliką\nfaktą. Pasirūpinti, kad sovietinė agresija\nbūtų pastebėta tarptautinės bendruomenės,\nkiek įmanoma platesniu mastu. Sovietams\nužėmus valstybinius objektus, užtikrinti\npolitinį šalies atstovavimą bei organizuoti\nįvairiapusišką pasipriešinimą okupantams."
+  citata_rodoma: |
+    Atkurtos Lietuvos valstybės vadovybė so-
+    vietų agresijos akistatoje siekė sutelktomis
+    visuomenės ir gynėjų pajėgomis fiksuoti
+    karinės agresijos prieš Lietuvos Respubliką
+    faktą. Pasirūpinti, kad sovietinė agresija
+    būtų pastebėta tarptautinės bendruomenės,
+    kiek įmanoma platesniu mastu. Sovietams
+    užėmus valstybinius objektus, užtikrinti
+    politinį šalies atstovavimą bei organizuoti
+    įvairiapusišką pasipriešinimą okupantams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -173,7 +197,12 @@ Nenurodyta
     Lietuvoje bei užsienyje, 2) gynyba kariniais
     metodais, 3) pilietinio, nesmurtinio pasi-
     priešinimo organizavimas.
-  citata_rodoma: "Galima išskirti tris principus: 1) sovietų\nagresijos fiksavimas ir informacijos sklaida\nLietuvoje bei užsienyje, 2) gynyba kariniais\nmetodais, 3) pilietinio, nesmurtinio pasi-\npriešinimo organizavimas."
+  citata_rodoma: |
+    Galima išskirti tris principus: 1) sovietų
+    agresijos fiksavimas ir informacijos sklaida
+    Lietuvoje bei užsienyje, 2) gynyba kariniais
+    metodais, 3) pilietinio, nesmurtinio pasi-
+    priešinimo organizavimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

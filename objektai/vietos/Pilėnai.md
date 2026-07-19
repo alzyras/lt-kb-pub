@@ -208,7 +208,11 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
     sunaikintos », pilies viduryje užkūrė didelį laužą, į jį sumetė savo
     turtą, ir « nužudę visas moteris ir vaikus ir sumetę lavonus į ugnį,
     vienas po kito patys išsižudė».
-  citata_rodoma: "Apgultos Pilėnų\n(Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovaujama, nar­\nsiai gynėsi. Wigando Marburgiečio eiliuotinėje kronikoje, jau žuvu­\nsioje, kurią plačiai panaudojo C."
+  citata_rodoma: |
+    Apgultos Pilėnų
+    (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovaujama, nar­
+    siai gynėsi. Wigando Marburgiečio eiliuotinėje kronikoje, jau žuvu­
+    sioje, kurią plačiai panaudojo C.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

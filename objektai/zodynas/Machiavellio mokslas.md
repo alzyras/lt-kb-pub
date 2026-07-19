@@ -60,7 +60,10 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
     na Sforza. Bona atsinešė iš Italijos įsitikinimus, kad val-
     dovas turįs siekti valdžios, nesiskaitydamas su jokiomis prie-
     monėmis _(Machiavellio_ mokslas).
-  citata_rodoma: "Bona atsinešė iš Italijos įsitikinimus, kad val-\ndovas turįs siekti valdžios, nesiskaitydamas su jokiomis prie-\nmonėmis _(Machiavellio_ mokslas)."
+  citata_rodoma: |
+    Bona atsinešė iš Italijos įsitikinimus, kad val-
+    dovas turįs siekti valdžios, nesiskaitydamas su jokiomis prie-
+    monėmis _(Machiavellio_ mokslas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

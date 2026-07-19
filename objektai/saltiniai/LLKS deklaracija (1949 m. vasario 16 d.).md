@@ -182,7 +182,14 @@ media_all_json: |-
     suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę.
-  citata_rodoma: "Bunkeryje pri-\nimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės \natkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, \nsuvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, \ndemokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo \nsudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios \norganu iki laisvų demokratinių Seimo rinkimų."
+  citata_rodoma: |
+    Bunkeryje pri-
+    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
+    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
+    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
+    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
+    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
+    organu iki laisvų demokratinių Seimo rinkimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +214,15 @@ media_all_json: |-
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
     organu iki laisvų demokratinių Seimo rinkimų.
-  citata_rodoma: "studijavo Prancūzijos artilerijos mokykloje), \njam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-\nimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės \natkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, \nsuvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, \ndemokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo \nsudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios \norganu iki laisvų demokratinių Seimo rinkimų."
+  citata_rodoma: |
+    studijavo Prancūzijos artilerijos mokykloje),
+    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
+    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
+    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
+    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
+    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
+    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
+    organu iki laisvų demokratinių Seimo rinkimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

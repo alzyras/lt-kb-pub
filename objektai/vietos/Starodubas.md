@@ -229,7 +229,22 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     ir pradėjo kruvinas kauty­
     nes, kol priešai, netikėto antpuolio pritrenkti, nespėjo
     atsigauti.
-  citata_rodoma: "Maskvėnai tvirtino,\nkad didysis kunigaikštis jiems neleidęs stoti į atvirą\nmūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei\n605\n\n## Puslapis 604\n\nįsakymų, o šaukdami ir triukšmaudami, paliko stovyk­\nlą bei gurguoles ir pasileido sprukti per miškus ir pel­\nkes. Po šio įvykio Glinskis, nelyginant sumažėjęs ne\ntik savo šalininkų, bet ir savo paties akyse, pasitraukė\nį Starodubą su išsaugotais pulkais, kuriais labiausiai\npasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas\npabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,\ndidikų patartas, nesiryžo persekioti maskvėnų."
+  citata_rodoma: |
+    Maskvėnai tvirtino,
+    kad didysis kunigaikštis jiems neleidęs stoti į atvirą
+    mūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei
+    605
+
+    ## Puslapis 604
+
+    įsakymų, o šaukdami ir triukšmaudami, paliko stovyk­
+    lą bei gurguoles ir pasileido sprukti per miškus ir pel­
+    kes. Po šio įvykio Glinskis, nelyginant sumažėjęs ne
+    tik savo šalininkų, bet ir savo paties akyse, pasitraukė
+    į Starodubą su išsaugotais pulkais, kuriais labiausiai
+    pasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas
+    pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,
+    didikų patartas, nesiryžo persekioti maskvėnų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -274,7 +289,12 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
     Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
     valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
-  citata_rodoma: "Nuvykęs Maskvon, jis prikalbėjo\nkunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-\n1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir\nTrubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo\nvaldą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį."
+  citata_rodoma: |
+    Nuvykęs Maskvon, jis prikalbėjo
+    kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-
+    1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
+    Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
+    valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas

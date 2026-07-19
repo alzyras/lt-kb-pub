@@ -105,7 +105,10 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     džios atskilo Volgos miestų regionas. džios likvidavimo didelėje Černigovo-
     Ordoje kilo badas ir maras, kuris plito į Seversko žemėje (į šiaurryčius nuo Kijevo),
     rusų miestus.
-  citata_rodoma: "džios likvidavimo didelėje Černigovo-\nOrdoje kilo badas ir maras, kuris plito į Seversko žemėje (į šiaurryčius nuo Kijevo),\nrusų miestus."
+  citata_rodoma: |
+    džios likvidavimo didelėje Černigovo-
+    Ordoje kilo badas ir maras, kuris plito į Seversko žemėje (į šiaurryčius nuo Kijevo),
+    rusų miestus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +141,24 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     G udriai
     a p ein a m a
     viai.
-  citata_rodoma: "Sako, jog skitai,\nlaikydamiesi barbariškųjų papročių, šitaip sudarydavę\nsutartis: ištraukę iš makštų kardus, pylė ant jų šaltą\nvandenį ir jį, varvantį nuo aštrių ašmenų, vienas po\nkito siurbė, pridurdami užkeikimo žodžius, kad, girdi,\ntas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­\nnant šis vanduo. Laikydamasis šio susitarimo, Šich\nAchmetas su šimtu tūkstančių raitelių užpuolė Severs-\nko žemę, baisiai siaubdamas valdas didikų, kurie atsi­\nmetė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu\nantpuoliu užėmęs Seversko Naugardą, Aleksandro var­\ndu jį bei kitas vietoves, pasidavusias geruoju, atidavė\nvaldyti Chaleckiui; perėjęs visą Seversko kraštą, kru­\nvinose kautynėse sumušė Mechmet\nGirėjų, Krymo\nkunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais\nbūriais."
+  citata_rodoma: |
+    Sako, jog skitai,
+    laikydamiesi barbariškųjų papročių, šitaip sudarydavę
+    sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą
+    vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po
+    kito siurbė, pridurdami užkeikimo žodžius, kad, girdi,
+    tas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­
+    nant šis vanduo. Laikydamasis šio susitarimo, Šich
+    Achmetas su šimtu tūkstančių raitelių užpuolė Severs-
+    ko žemę, baisiai siaubdamas valdas didikų, kurie atsi­
+    metė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu
+    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
+    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
+    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
+    vinose kautynėse sumušė Mechmet
+    Girėjų, Krymo
+    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
+    būriais.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -157,7 +177,10 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
     kiai tyrėjo nuomonei. Vis dėlto iki šiol ypač garbinami pilka­
     piai, supilti ant žymių žmonių pelenų.
-  citata_rodoma: "Net buvo ap­\n23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-\nrožytnej Polski. -  T. II)."
+  citata_rodoma: |
+    Net buvo ap­
+    23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
+    rožytnej Polski. -  T. II).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

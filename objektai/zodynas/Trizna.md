@@ -151,7 +151,11 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
     miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
     niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
     kai.
-  citata_rodoma: "Apie tai bus straipsnyje „Kapai“.\nPirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­\ntuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­\nmos laidojant labai žymius žmones."
+  citata_rodoma: |
+    Apie tai bus straipsnyje „Kapai“.
+    Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
+    tuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­
+    mos laidojant labai žymius žmones.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -174,7 +178,19 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
     Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
     ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
     gų stygių.
-  citata_rodoma: "368\n\n## Puslapis 368\n\nNeturime smulkesnių rašytinių žinių apie kokios nors tau­\ntos šias apeigas, kadangi jos priklausė slaptųjų kategorijai; tuo\nįsitikiname skaitydami Antikos rašytojus. Žinoma tik tiek, kad\nbūdavo aukos dievams kabirams, naktinės puotos, žirgų lenk­\ntynės, iečių laužymai, daug prabangos. Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką."
+  citata_rodoma: |
+    368
+
+    ## Puslapis 368
+
+    Neturime smulkesnių rašytinių žinių apie kokios nors tau­
+    tos šias apeigas, kadangi jos priklausė slaptųjų kategorijai; tuo
+    įsitikiname skaitydami Antikos rašytojus. Žinoma tik tiek, kad
+    būdavo aukos dievams kabirams, naktinės puotos, žirgų lenk­
+    tynės, iečių laužymai, daug prabangos. Lietuvoje gyveno garsi
+    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
+    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
+    apeigų paprotį, kiekviena tauta kitonišką.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

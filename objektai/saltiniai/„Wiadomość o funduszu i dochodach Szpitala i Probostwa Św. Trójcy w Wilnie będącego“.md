@@ -79,7 +79,18 @@ media_all_json: |-
     kunigo Martyno Počobuto, Švč. Tre­
     jybės klebono ir kun. koadjutoriaus
     Kundzičiaus parašais.
-  citata_rodoma: "2do, išspausdinto antrašte „Wiado­\nmość o funduszu i dochodach \nSzpitala i Probostwa Św. Trójcy w \nWilnie będącego, Prześwietnej \nKommissyi Wojewódzwa Wi­\nleńskiego do wyprowadzenia ofia­\nry na wojsko przeznaczonej\", duo­\nta 1789 metų rugsėjo 21 dieną, su \nkunigo Martyno Počobuto, Švč. Tre­\njybės klebono ir kun. koadjutoriaus \nKundzičiaus parašais."
+  citata_rodoma: |
+    2do, išspausdinto antrašte „Wiado­
+    mość o funduszu i dochodach
+    Szpitala i Probostwa Św. Trójcy w
+    Wilnie będącego, Prześwietnej
+    Kommissyi Wojewódzwa Wi­
+    leńskiego do wyprowadzenia ofia­
+    ry na wojsko przeznaczonej", duo­
+    ta 1789 metų rugsėjo 21 dieną, su
+    kunigo Martyno Počobuto, Švč. Tre­
+    jybės klebono ir kun. koadjutoriaus
+    Kundzičiaus parašais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

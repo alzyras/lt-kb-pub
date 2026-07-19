@@ -61,7 +61,13 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
     Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
     nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
     nigais.
-  citata_rodoma: "Mokes­\nčiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo\ndvarų, kaip Uždauguvio ir Padnieprės srityse.\nKadangi Vytauto laikais vyko persilaužimas tarp natūrali­\nnio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­\nnigais."
+  citata_rodoma: |
+    Mokes­
+    čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo
+    dvarų, kaip Uždauguvio ir Padnieprės srityse.
+    Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
+    nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
+    nigais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

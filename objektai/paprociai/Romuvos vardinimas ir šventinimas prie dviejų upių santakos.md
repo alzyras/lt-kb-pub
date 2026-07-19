@@ -116,7 +116,14 @@ Nenurodyta
     kų ir dosnios gamtos turtų tam, kad lengvesnis ir gra­
     žesnis būtų žmonių gyvenimas, nepasiseks aptikti seno­
     vės genčių paminklų.
-  citata_rodoma: "buvusi senovinė Romno tvirtovė, o šiandien slaviškai va­\ndinamas Romno miestelis. Sis pavadinimas mums prime­\nna vardą lietuvių šventojo miesto Romnome, Romuvos,\narba lietuvių dievų šventovės, kurią, kad ir kur ji būtų,\nlietuvių genties kartos vadindavo tik taip ir turėjo įprotį\njas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­\ntakoje."
+  citata_rodoma: |
+    buvusi senovinė Romno tvirtovė, o šiandien slaviškai va­
+    dinamas Romno miestelis. Sis pavadinimas mums prime­
+    na vardą lietuvių šventojo miesto Romnome, Romuvos,
+    arba lietuvių dievų šventovės, kurią, kad ir kur ji būtų,
+    lietuvių genties kartos vadindavo tik taip ir turėjo įprotį
+    jas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­
+    takoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

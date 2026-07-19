@@ -101,7 +101,16 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
     daug kartų apdainavo* ir aprašė. Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
     jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
-  citata_rodoma: "Čia plyti vešlios žolės\nturtingos Padonės pievos, supančios Dono žiotis į Azovo\njūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­\n1\nIštrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­\ngeschichten.\nII.\nAbschn.\nI)."
+  citata_rodoma: |
+    Čia plyti vešlios žolės
+    turtingos Padonės pievos, supančios Dono žiotis į Azovo
+    jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
+    1
+    Ištrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­
+    geschichten.
+    II.
+    Abschn.
+    I).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

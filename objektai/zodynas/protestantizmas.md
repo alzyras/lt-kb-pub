@@ -100,7 +100,10 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo
     įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
     rijos tarpe — liuteranizmas.
-  citata_rodoma: "Lietuvos didikų tarpe labiausiai buvo\nįsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-\nrijos tarpe — liuteranizmas."
+  citata_rodoma: |
+    Lietuvos didikų tarpe labiausiai buvo
+    įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
+    rijos tarpe — liuteranizmas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,16 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
 
     Sausio 13 d. naktį prie Televizijos bokšto budėjusių žmonių liudijimai apie so-
     vietų agresiją.
-  citata_rodoma: "Karinėms operacijoms ėmėsi vadovauti\nį Vilnių atvykęs sssR gynybos viceminis-\ntras, buvęs sssR oro desanto kariuomenės\nvadas generolas pulkininkas Vladislavas\nAčalovas ir sssR sausumos kariuomenės\n\nTANKAI PRIEŠ BEGINKLIUS ŽMONES\n\nSausio 13 d."
+  citata_rodoma: |
+    Karinėms operacijoms ėmėsi vadovauti
+    į Vilnių atvykęs sssR gynybos viceminis-
+    tras, buvęs sssR oro desanto kariuomenės
+    vadas generolas pulkininkas Vladislavas
+    Ačalovas ir sssR sausumos kariuomenės
+
+    TANKAI PRIEŠ BEGINKLIUS ŽMONES
+
+    Sausio 13 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

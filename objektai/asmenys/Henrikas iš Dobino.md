@@ -156,7 +156,20 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
     Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
     dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
     plėšikiškais išpuoliais Ragainės broliams ramybę.
-  citata_rodoma: "Apie Sembos žemės nusiaubimą\n\n  Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į\nSembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,\no grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė\nį žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė\natgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana\ndaug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.\n\n\n\n\n                  238 (231)."
+  citata_rodoma: |
+    Apie Sembos žemės nusiaubimą
+
+      Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į
+    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
+    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
+    į žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
+    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
+    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
+
+
+
+
+                      238 (231).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

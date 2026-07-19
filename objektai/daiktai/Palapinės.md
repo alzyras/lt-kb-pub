@@ -73,7 +73,11 @@ Nenurodyta
     landų atkaklaus mūšio reikėjo pasilsėti. Imta statyti palapinės
     ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms
     pasilsėti ir susitvarkyti.
-  citata_rodoma: "Tačiau vijosi netoli. Po 4—5 va­\nlandų atkaklaus mūšio reikėjo pasilsėti. Imta statyti palapinės\nir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms\npasilsėti ir susitvarkyti."
+  citata_rodoma: |
+    Tačiau vijosi netoli. Po 4—5 va­
+    landų atkaklaus mūšio reikėjo pasilsėti. Imta statyti palapinės
+    ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms
+    pasilsėti ir susitvarkyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

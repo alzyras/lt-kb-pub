@@ -95,7 +95,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
     bet ir žmoniškąsias vertybes), susiformavo dalies visuomenės įvaizdis,
     Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d.
     (R. Mičiūno reprodukcija)
-  citata_rodoma: "Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d."
+  citata_rodoma: |
+    Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -119,7 +120,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
     27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
     sakoma, kad surengti pogromus buvo nelengva.
-  citata_rodoma: "inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,"
+  citata_rodoma: |
+    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

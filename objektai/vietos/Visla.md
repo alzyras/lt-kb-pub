@@ -129,7 +129,9 @@ media_all_json: |-
     sileisti.
     Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
     Melno ežero (netoli Vislos)^1 ).
-  citata_rodoma: "Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie\nMelno ežero (netoli Vislos)^1 )."
+  citata_rodoma: |
+    Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
+    Melno ežero (netoli Vislos)^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

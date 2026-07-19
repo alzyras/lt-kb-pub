@@ -87,7 +87,10 @@ Nenurodyta
     atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
     lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
     100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
-  citata_rodoma: "Pats\nVytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­\nken lygumose jo kariuomenė buvo sumušta^20. Kai 1313 m."
+  citata_rodoma: |
+    Pats
+    Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­
+    ken lygumose jo kariuomenė buvo sumušta^20. Kai 1313 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -85,7 +85,12 @@ Pasak Narbuto cituojamo Plutarcho, atėniečių prijaukinti žalčiai dalyvaudav
     tų pieno karalienės.
     J. F. R. kronika mini tokią rupūžę, užaugusią nepaprasto
     dydžio, išmaitintą pienu; ji išdarinėjusi neapsakomus dalykus.
-  citata_rodoma: "Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­\nkė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­\nčiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­\nvo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­\nnėms apsireikšdavo žalčiu."
+  citata_rodoma: |
+    Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­
+    kė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­
+    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
+    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
+    nėms apsireikšdavo žalčiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

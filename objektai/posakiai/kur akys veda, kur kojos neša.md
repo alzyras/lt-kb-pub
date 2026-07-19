@@ -83,7 +83,16 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
     būrį, nukovė 65 vyrus ir išvadavo 70 krikščionių. Kita brolių dalis surado tik penkis
     krikščionių vaikus, kuriuos ir išsivedė. Po to broliai iš patikimų šaltinių sužinojo, kad vos
     keli šio būrio lietuviai gyvi ir sveiki besugrįžo.
-  citata_rodoma: "30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės\nir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,\nkad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių\nbei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.\n\n\n\n\n                      278 (271)."
+  citata_rodoma: |
+    30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės
+    ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,
+    kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių
+    bei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.
+
+
+
+
+                          278 (271).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

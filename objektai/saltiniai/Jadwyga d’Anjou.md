@@ -60,7 +60,10 @@ media_all_json: |-
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
     297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
     1970.
-  citata_rodoma: "— _(”)Jadwyga d’Anjou,_\nLE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,\n297 p."
+  citata_rodoma: |
+    — _(”)Jadwyga d’Anjou,_
+    LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
+    297 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

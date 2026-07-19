@@ -64,7 +64,10 @@ Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas St.
     Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas
     St. Kutrzebą, jau 1920 m. davė «Lietuvos visuomenės ir teisės
     istoriją».
-  citata_rodoma: "Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas\nSt. Kutrzebą, jau 1920 m. davė «Lietuvos visuomenės ir teisės\nistoriją»."
+  citata_rodoma: |
+    Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas
+    St. Kutrzebą, jau 1920 m. davė «Lietuvos visuomenės ir teisės
+    istoriją».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

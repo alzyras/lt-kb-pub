@@ -342,7 +342,10 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
     Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
     metais^4 ).
-  citata_rodoma: "O Vytautas Magdeburgo teises suteikė Brastai ir\nKaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430\nmetais^4 )."
+  citata_rodoma: |
+    O Vytautas Magdeburgo teises suteikė Brastai ir
+    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
+    metais^4 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -361,7 +364,12 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     metais^4 ).
     Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
     tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
-  citata_rodoma: "O Vytautas Magdeburgo teises suteikė Brastai ir\nKaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430\nmetais^4 ).\nApskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo\ntempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur."
+  citata_rodoma: |
+    O Vytautas Magdeburgo teises suteikė Brastai ir
+    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
+    metais^4 ).
+    Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
+    tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -632,7 +640,23 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     30 narna Magdeburgo, naujai duoda-
     Ši svarbi privilegija yra Vilniaus rne).
     miesto teisių D n b i n s k i o rinkinv-
-  citata_rodoma: "Kadangi pilietinis karas po Vytauto Didžiojo mir­\nties ir žiauri Žygimanto valdžia buvo Vilniaus miesto\nvaldžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę\nbe gyventojų miestą, beveik galutinai sugriovę Magdebur­\ngo teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­\nvo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą\ntvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­\ntoje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du\ndidžiuosius prekymečius, o kas savaitę - įprastus turgus,\ngarantavo miestui didesnes pajamas, dovanodamas jam ne­\nmažą žemės plotą, nusidriekusį išilgai miesto sienos palei\nViliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­\ndien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­\nvilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­\n29\nŽr."
+  citata_rodoma: |
+    Kadangi pilietinis karas po Vytauto Didžiojo mir­
+    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
+    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
+    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
+    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
+    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
+    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
+    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
+    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
+    garantavo miestui didesnes pajamas, dovanodamas jam ne­
+    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
+    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
+    dien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­
+    vilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­
+    29
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

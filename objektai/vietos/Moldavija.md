@@ -165,7 +165,14 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     19 dienų, husitų ir Lenkijos kariuomenė
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino.
-  citata_rodoma: "Magistras dar balandį prašė Švitrigailos\nkartu su Livonija, Podole, Valakija-Mol-\ndavija ir totoriais pulti Lenkiją. Tuo tar-\npu žemaičiai puolė Kuršą ir niokojo jį\n19 dienų, husitų ir Lenkijos kariuomenė\nįsiveržė į Ordino valdas birželio pradžioje,\nviską naikino ir degino."
+  citata_rodoma: |
+    Magistras dar balandį prašė Švitrigailos
+    kartu su Livonija, Podole, Valakija-Mol-
+    davija ir totoriais pulti Lenkiją. Tuo tar-
+    pu žemaičiai puolė Kuršą ir niokojo jį
+    19 dienų, husitų ir Lenkijos kariuomenė
+    įsiveržė į Ordino valdas birželio pradžioje,
+    viską naikino ir degino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

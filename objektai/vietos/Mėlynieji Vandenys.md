@@ -77,7 +77,13 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
     šimtmečiai) įrašytas „Pasakojimas apie
     Podolę“ - plačiausiai kalbantis šaltinis
     šia tema.
-  citata_rodoma: "Mėlynųjų Vandenų įvykių pagrindi-\nniai šaltiniai: žinios xv a. pirmosios pusės\nrusų Tverės sąvade - Rogožos metraštyje\nprieš 6871 (1363) m. sakoma, kad rudenį\nAlgirdas „Mėlynuosius Vandenis ir Baltąją\npakrantę nukariavo“."
+  citata_rodoma: |
+    Mėlynųjų Vandenų įvykių pagrindi-
+    niai šaltiniai: žinios xv a. pirmosios pusės
+    rusų Tverės sąvade - Rogožos metraštyje
+    prieš 6871 (1363) m. sakoma, kad rudenį
+    Algirdas „Mėlynuosius Vandenis ir Baltąją
+    pakrantę nukariavo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

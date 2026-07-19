@@ -561,7 +561,13 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
     pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
     nebeįkėlė.
-  citata_rodoma: "Pirmiausia reikia išaiškinti, kodėl taip ne­\npatvari buvo mindauginė vyskupija, kurioje nebuvo spėta suorga­\nnizuoti parapijų. « Lietuvos diecezijai » buvo lemta greitai žlugti,\nypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai\npasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn\nnebeįkėlė."
+  citata_rodoma: |
+    Pirmiausia reikia išaiškinti, kodėl taip ne­
+    patvari buvo mindauginė vyskupija, kurioje nebuvo spėta suorga­
+    nizuoti parapijų. « Lietuvos diecezijai » buvo lemta greitai žlugti,
+    ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
+    pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
+    nebeįkėlė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -579,7 +585,10 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
     vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
     tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus.
-  citata_rodoma: "Ten nuo 1216 metų, gavęs «Prūsų\nvyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­\ntijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus."
+  citata_rodoma: |
+    Ten nuo 1216 metų, gavęs «Prūsų
+    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
+    tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -595,7 +604,10 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     Vaitiekaus ir šv. Bonifaco mirties. Kristijonui pasi-
     sekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215
     m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.
-  citata_rodoma: "Kristijonui pasi-\nsekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215\nm. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius."
+  citata_rodoma: |
+    Kristijonui pasi-
+    sekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215
+    m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -665,7 +677,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
     organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
     toriumi.
-  citata_rodoma: "lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios"
+  citata_rodoma: |
+    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -707,7 +720,11 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
     Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
     prieš Ordiną.
-  citata_rodoma: "Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“."
+  citata_rodoma: |
+    Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -811,7 +828,11 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
     ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
     žodis Hentar pasiskolintas iš lietuvių.
-  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
+  citata_rodoma: |
+    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
+    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
+    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
+    S. 261).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -879,7 +900,12 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     nedidelio krašto gyventojai leidžia numanyti, jog vals­
     tybė buvo gerai tvarkoma.
     Slėceris paskelbė prielaidą (Nestor. Dritter Band.
-  citata_rodoma: "Sis tvirtinimas labiau už kitus įrodymus parodo vys­\nkupo Kristijono žiniose išlikusią tiesą. Nesuskaičiuojami \nnedidelio krašto gyventojai leidžia numanyti, jog vals­\ntybė buvo gerai tvarkoma.\nSlėceris paskelbė prielaidą (Nestor. Dritter Band."
+  citata_rodoma: |
+    Sis tvirtinimas labiau už kitus įrodymus parodo vys­
+    kupo Kristijono žiniose išlikusią tiesą. Nesuskaičiuojami
+    nedidelio krašto gyventojai leidžia numanyti, jog vals­
+    tybė buvo gerai tvarkoma.
+    Slėceris paskelbė prielaidą (Nestor. Dritter Band.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -907,7 +933,19 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     pat negalima paneigti ir didelio lietuvių genties išsibars­
     tymo dar priešistoriniais laikais, nes ir prie Reino, ir ana­
     pus jo yra ryškių litalanų pėdsakų.
-  citata_rodoma: "Alanai buvo\nskitų blondinų gentis, jie davė pradžią roksolanams; gotai\ntaip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima\npastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių\nkilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus\npradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-\njną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,\ngyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs\nprūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko\nbendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­\nsiedamas kildintiną iš alanų su į šias šalis atėjusių hunų\nantplūdžiu."
+  citata_rodoma: |
+    Alanai buvo
+    skitų blondinų gentis, jie davė pradžią roksolanams; gotai
+    taip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima
+    pastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių
+    kilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus
+    pradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-
+    jną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,
+    gyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs
+    prūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko
+    bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
+    siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
+    antplūdžiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

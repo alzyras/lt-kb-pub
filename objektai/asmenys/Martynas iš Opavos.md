@@ -92,7 +92,11 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     pradžios įvykiais129.
     Dusburgietis marginaliniuose paaiškinimuose (51-ame paragrafe iš 126) rėmėsi abiem
     minėtais autoriais.
-  citata_rodoma: "Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,\npo to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl\n„Polonus“), bet mirė ten nenuvykęs. Jis parašė Romos popiežių ir imperatorių istoriją\n(faktus pateikdamas paraleliškai), kuri baigiama XIII a. VlII-ojo dešimtmečio įvykiais."
+  citata_rodoma: |
+    Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
+    po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl
+    „Polonus“), bet mirė ten nenuvykęs. Jis parašė Romos popiežių ir imperatorių istoriją
+    (faktus pateikdamas paraleliškai), kuri baigiama XIII a. VlII-ojo dešimtmečio įvykiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

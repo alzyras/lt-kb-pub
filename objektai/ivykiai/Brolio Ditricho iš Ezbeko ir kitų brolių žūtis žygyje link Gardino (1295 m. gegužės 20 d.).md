@@ -156,7 +156,16 @@ Nenurodyta
     ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
     bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
     kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
-  citata_rodoma: "Po to Karaliaučiaus komtūras negaišdamas sugrįžo \nsu kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos \nmaištą. Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę, \nKaraliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti \nsugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai \nKaraliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, \nypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius \nbei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų, \nkuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti."
+  citata_rodoma: |
+    Po to Karaliaučiaus komtūras negaišdamas sugrįžo
+    su kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos
+    maištą. Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
+    Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
+    sugrąžino belaisvius, ir šitaip Notangos žemėje įsiviešpatavo ramybė. Vis dėlto, kai
+    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
+    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
+    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
+    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

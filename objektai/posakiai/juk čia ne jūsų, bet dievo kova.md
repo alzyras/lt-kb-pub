@@ -90,7 +90,9 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
     ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
     puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
     prieš Lietuvą (III, 343—346, 357—358).
-  citata_rodoma: "Nuolatos čia\npabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66."
+  citata_rodoma: |
+    Nuolatos čia
+    pabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

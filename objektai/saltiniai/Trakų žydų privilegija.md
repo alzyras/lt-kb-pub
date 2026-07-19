@@ -79,7 +79,15 @@ media_all_json: |-
     vos su kryžiuočiais, tad visos Lietuvos monarcho pastangos
     nukreiptos į vieną tikslą - susilpninti grėsmingas Prūsijos or­
     dino pajėgas.
-  citata_rodoma: ") visiems Lietuvos \nžydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­\nsios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną \nprivilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­\nrią vėliau patvirtino Kazimieras Didysis68. Betgi Trakų žydai, \ngerokai anksčiau, dar 1388 m., atskirai buvo gavę panašią pri­\nvilegiją, kuria išsamiai apibūdinta jų elgsena krikščionių at­\nžvilgiu69."
+  citata_rodoma: |
+    ) visiems Lietuvos
+    žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­
+    sios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną
+    privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­
+    rią vėliau patvirtino Kazimieras Didysis68. Betgi Trakų žydai,
+    gerokai anksčiau, dar 1388 m., atskirai buvo gavę panašią pri­
+    vilegiją, kuria išsamiai apibūdinta jų elgsena krikščionių at­
+    žvilgiu69.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

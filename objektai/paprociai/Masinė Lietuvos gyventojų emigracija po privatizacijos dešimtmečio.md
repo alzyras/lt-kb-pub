@@ -121,7 +121,8 @@ Nenurodyta
     sinę Lietuvos gyventojų emigraciją. Įvairiais duomenimis, nuo 1990 m. iš
     Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
     Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
-  citata_rodoma: "Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,"
+  citata_rodoma: |
+    Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

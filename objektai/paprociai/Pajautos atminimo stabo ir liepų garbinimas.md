@@ -72,7 +72,11 @@ Nenurodyta
     vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
     čius, ir jie ilgai kariavo vieni su kitais.
-  citata_rodoma: "O tą jos stabą garbino ir Pa­\njautą laikė deive. Paskui tas stabas supuvo, ir toje vie­\nloje išaugo liepos. Tąsias liepas garbino ir iki mūsų \ndienų jas tebedievina, minėdami tą Pajautą."
+  citata_rodoma: |
+    O tą jos stabą garbino ir Pa­
+    jautą laikė deive. Paskui tas stabas supuvo, ir toje vie­
+    loje išaugo liepos. Tąsias liepas garbino ir iki mūsų
+    dienų jas tebedievina, minėdami tą Pajautą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

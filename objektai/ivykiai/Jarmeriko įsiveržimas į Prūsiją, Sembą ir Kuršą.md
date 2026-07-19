@@ -102,7 +102,14 @@ Nenurodyta
     vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
     rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
     karalius Halfanask
-  citata_rodoma: "Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti\n40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­\nką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog\nįtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė\nį Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus\nplytinčius kraštus, žiauriai liedamas žmonių kraują ir be\ngalo juos engdamas."
+  citata_rodoma: |
+    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
+    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
+    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

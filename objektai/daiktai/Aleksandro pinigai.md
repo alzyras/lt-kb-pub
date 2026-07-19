@@ -66,7 +66,9 @@ Nenurodyta
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
     **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
     (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
-  citata_rodoma: "**Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_\n(skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą)."
+  citata_rodoma: |
+    **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
+    (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

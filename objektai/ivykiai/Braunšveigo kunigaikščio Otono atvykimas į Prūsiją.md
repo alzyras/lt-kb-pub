@@ -98,7 +98,18 @@ Nenurodyta
     imtis tikėjimo bei tikinčiųjų reikalo. Taigi Pomandas iš Baigos pilies sugrįžo pas savo
     bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
     nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
-  citata_rodoma: "25. Apie Braunšveigo kunigaikščio atvykimą\n\n  Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera\nžinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe\nmaldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir\nkunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.\n\n\n\n\n         26."
+  citata_rodoma: |
+    25. Apie Braunšveigo kunigaikščio atvykimą
+
+      Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera
+    žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe
+    maldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir
+    kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.
+
+
+
+
+             26.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

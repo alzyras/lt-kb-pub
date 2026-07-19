@@ -162,7 +162,10 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
     rankose, ji naudota kaip gyvulininkystės dvaras.
     Kaip rodo archeologiniai tyrimai, dab.
-  citata_rodoma: "Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,\ndalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino\nrankose, ji naudota kaip gyvulininkystės dvaras."
+  citata_rodoma: |
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -201,7 +204,14 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
     būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
     tuvos Romovę prie Dubysos ir Nemuno santakos12.
-  citata_rodoma: "Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla.\nUpės (Oppen) kaime augo storiausias ąžuolas, kuris, anot\nto paties istoriko, priklausė šventyklos liekanoms."
+  citata_rodoma: |
+    Šventyklos aptvaro vi­
+    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
+    bai, -  anot Enėjo Silvijaus liudijimo.
+    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
+    taip pat buvusi šventykla.
+    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
+    to paties istoriko, priklausė šventyklos liekanoms.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -222,7 +232,13 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
     išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
-  citata_rodoma: "Tai buvo 1258 metais“ .\nDybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­\nlas arba šventykla, savo viduryje turėjusi neapsakomo didumo\nąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę."
+  citata_rodoma: |
+    Tai buvo 1258 metais“ .
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

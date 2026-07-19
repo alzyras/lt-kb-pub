@@ -112,7 +112,8 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
-  citata_rodoma: "Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43]."
+  citata_rodoma: |
+    Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

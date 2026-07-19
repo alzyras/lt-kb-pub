@@ -155,7 +155,14 @@ Nenurodyta
     vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
     maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
     link Mazovijos kunigaikštystės.
-  citata_rodoma: "117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis\n\n  Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos\nmašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio\nvieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės."
+  citata_rodoma: |
+    117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis
+
+      Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
+    mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
+    vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
+    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
+    link Mazovijos kunigaikštystės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -178,7 +185,16 @@ Nenurodyta
     pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
     bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
     susidūrime tris nukovė.
-  citata_rodoma: "Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos\nmašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio\nvieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi\njuos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,\npasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,\nbado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame\nsusidūrime tris nukovė."
+  citata_rodoma: |
+    Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
+    mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
+    vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
+    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
+    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
+    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
+    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
+    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
+    susidūrime tris nukovė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -199,7 +215,15 @@ Nenurodyta
     vyrą, kuris nelyginant Galijotas, kvietęs į kovą Izraelio sūnų pulkus, pradėtų kiršinti
     apsuptųjų kariuomenę. Sis didžiu balsu šaukė: „Jeigu pilyje yra nors vienas vyras, kuris
     drįstų susigrumti su manimi dvikovoje, tegu išeina štai čia iš pilies“.
-  citata_rodoma: "Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi\njuos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,\npasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,\nbado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame\nsusidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris\ntada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė."
+  citata_rodoma: |
+    Neilgai trukus broliai, pristigę
+    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
+    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
+    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
+    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
+    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
+    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
+    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

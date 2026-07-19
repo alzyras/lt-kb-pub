@@ -137,12 +137,18 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O jos sesuo buvo ištekėjusi už
-    Daumanto, už Nalšios kunigaikščiol0. Ir Mindaugas
+    Daumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas
     pasiuntė kvieslius į Nalšią pas savo svainę, tarydamas:
     „Numirė tavo sesuo; atvažiuok savo sesers apraudoti."
     O kai ji atvažiavo gedėti, Mindaugas užsimanė ves­
     ti savo svainę.
-  citata_rodoma: "O jos sesuo buvo ištekėjusi už \nDaumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas \npasiuntė kvieslius į Nalšią pas savo svainę, tarydamas: \n„Numirė tavo sesuo; atvažiuok savo sesers apraudoti.\"\nO kai ji atvažiavo gedėti, Mindaugas užsimanė ves­\nti savo svainę."
+  citata_rodoma: |
+    O jos sesuo buvo ištekėjusi už
+    Daumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas
+    pasiuntė kvieslius į Nalšią pas savo svainę, tarydamas:
+    „Numirė tavo sesuo; atvažiuok savo sesers apraudoti."
+    O kai ji atvažiavo gedėti, Mindaugas užsimanė ves­
+    ti savo svainę.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -91,7 +91,16 @@ media_all_json: |-
     akalnio užuomazgos7.
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
-  citata_rodoma: "Kazimiero bažnyčia; po Aukš­\ntutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­\nkių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos \ntrobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­\ntoje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­\nlos, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­\nakalnio užuomazgos7.\nkuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname], \nrado."
+  citata_rodoma: |
+    Kazimiero bažnyčia; po Aukš­
+    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
+    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
+    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
+    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
+    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
+    akalnio užuomazgos7.
+    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
+    rado.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

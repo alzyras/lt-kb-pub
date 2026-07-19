@@ -60,7 +60,10 @@ Kromerio kronikos.
     ir Livonijos kronikas. Iš lenkų kronikų jam buvo pažįstamas J.
     Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio
     ir M. Kromerio kronikos.
-  citata_rodoma: "Iš lenkų kronikų jam buvo pažįstamas J.\nDlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio\nir M. Kromerio kronikos."
+  citata_rodoma: |
+    Iš lenkų kronikų jam buvo pažįstamas J.
+    Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio
+    ir M. Kromerio kronikos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

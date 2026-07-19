@@ -226,7 +226,19 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     nei nuo .sarmatų, Vėliau romėnai sudarė su gelonais tai­
     kos sutartį, ir atsirado abipusė sąjunga, įpareigojusi ge-
     1 Ammian Marcelin.
-  citata_rodoma: "207\nVėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar\nišnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus\nAleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­\nnijos karalystės valdžios galybė, padažnėjo grobikiškų\nžygių įvairių agresyvių tautų, besiskverbiančių vis toliau\nį pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­\nniąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai\nliko kairiojoje Dnepro pakrantėje savarankiški, be sle­\ngiančios jų valdžios įtakos; netgi esama nedidelių dings­\nčių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­\ntus."
+  citata_rodoma: |
+    207
+    Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
+    išnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus
+    Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
+    nijos karalystės valdžios galybė, padažnėjo grobikiškų
+    žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
+    į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­
+    niąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai
+    liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
+    giančios jų valdžios įtakos; netgi esama nedidelių dings­
+    čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
+    tus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -93,7 +93,12 @@ Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją p
     gramzdžią pievą, jos kojos įklimpo, ir žemė taip suspaudė pė­
     das, kad nebegalėjo ji pajudėti iš vietos ir pavirto medžiu -
     blinde.
-  citata_rodoma: "PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­\ntąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-\ngo valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo\nhorizontaliai, o paskui suaugdavo užsiriesdamos į viršų. Šį medį\n1664 metais suskaldė žaibas."
+  citata_rodoma: |
+    PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­
+    tąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-
+    go valsčiuje; jos šakos, pasiskirsčiusios trim aukštais, augdavo
+    horizontaliai, o paskui suaugdavo užsiriesdamos į viršų. Šį medį
+    1664 metais suskaldė žaibas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

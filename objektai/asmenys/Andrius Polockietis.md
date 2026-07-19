@@ -108,7 +108,10 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
     Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs
     vasalinę sutartį. Už pažadą ginti nuo priešų, jis ordinui buvo
     užrašęs «visą savo Polocko karalystę».
-  citata_rodoma: "Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs\nvasalinę sutartį. Už pažadą ginti nuo priešų, jis ordinui buvo\nužrašęs «visą savo Polocko karalystę»."
+  citata_rodoma: |
+    Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs
+    vasalinę sutartį. Už pažadą ginti nuo priešų, jis ordinui buvo
+    užrašęs «visą savo Polocko karalystę».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -127,7 +130,10 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
     Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m. besi­
     kaudamas su totoriais prie Vorsklos.
-  citata_rodoma: "O Skirgaila, sėkmingai apgulęs Polocką, kur\njis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.\nVėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m."
+  citata_rodoma: |
+    O Skirgaila, sėkmingai apgulęs Polocką, kur
+    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
+    Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,7 +151,9 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
     Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs
     vasalinę sutartį.
-  citata_rodoma: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.\nDar 1385 m."
+  citata_rodoma: |
+    Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
+    Dar 1385 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

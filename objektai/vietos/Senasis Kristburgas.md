@@ -99,7 +99,10 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
     vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas į amžiną vergovę,
     todėl ne teisingumo ieškoki, bet pasigailėjimo“.
-  citata_rodoma: "Kirsburgas (vėliau — Alt Christburg, dab. Stary Dzierzgoń) — senas pamedėnų centras.\nIšlikęs piliakalnis (MGP, p. 53, Nr. 15), pylimu įtvirtintas I tūkst. viduryje, kryžiuočių\nlaikotarpyje pylimas tik paaukštintas (Antoniewicz J., Bałtowie..., p. 44, 51)."
+  citata_rodoma: |
+    Kirsburgas (vėliau — Alt Christburg, dab. Stary Dzierzgoń) — senas pamedėnų centras.
+    Išlikęs piliakalnis (MGP, p. 53, Nr. 15), pylimu įtvirtintas I tūkst. viduryje, kryžiuočių
+    laikotarpyje pylimas tik paaukštintas (Antoniewicz J., Bałtowie..., p. 44, 51).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -121,7 +124,17 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     vadinama Senuoju Kristburgu, slapta įsibrovė į pilį, pristatęs prie sienų kopėčias, ir
     ją užėmė nukovęs ar išsivaręs į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
     daug ginklanešių.
-  citata_rodoma: "Apie vienos pilies užkariavimą ir apie Kristburgo pilį\n\n   Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems\nyra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko\nrūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius\nir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms\nilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar\nvadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir\nją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir\ndaug ginklanešių."
+  citata_rodoma: |
+    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
+
+       Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
+    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
+    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
+    ir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir
+    ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    daug ginklanešių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

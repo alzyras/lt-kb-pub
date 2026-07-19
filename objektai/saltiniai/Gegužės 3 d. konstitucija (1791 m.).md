@@ -224,7 +224,12 @@ media_all_json: |-
     priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir
     skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios
     reiškėjas.
-  citata_rodoma: "Šių \nbandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo \npriimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir \nskelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios \nreiškėjas."
+  citata_rodoma: |
+    Šių
+    bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo
+    priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir
+    skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios
+    reiškėjas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -325,7 +330,15 @@ media_all_json: |-
     1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK
     kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
     Kosciuška.
-  citata_rodoma: "sušaukti Seimą, kuris turėjo pritarti \nnaujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą. \nNors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus \nrusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-\ndalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-\ngustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti \nikikonstitucinę „auksinių laisvių“ santvarką. \n1794 m."
+  citata_rodoma: |
+    sušaukti Seimą, kuris turėjo pritarti
+    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
+    Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus
+    rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-
+    dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
+    gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
+    ikikonstitucinę „auksinių laisvių“ santvarką.
+    1794 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

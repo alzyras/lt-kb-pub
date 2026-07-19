@@ -77,7 +77,12 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
     laikotarpis
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
-  citata_rodoma: "Zigmanto santykiai su Lenkija ir jo mirtis 173\n5. Jogaila 174\nB. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo\nlaikotarpis\nI."
+  citata_rodoma: |
+    Zigmanto santykiai su Lenkija ir jo mirtis 173
+    5. Jogaila 174
+    B. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
+    laikotarpis
+    I.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

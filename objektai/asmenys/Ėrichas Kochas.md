@@ -67,7 +67,8 @@ Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijo
     davė nacių vadai Valteris R. Hesas (Walter R. Hess), Rytų Prūsijos ober-
     prezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipė-
     doje.
-  citata_rodoma: "vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems"
+  citata_rodoma: |
+    vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

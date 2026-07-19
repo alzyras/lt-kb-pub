@@ -118,7 +118,12 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
     se arba pilaitėse. Nuo seniausių laikų šios gentys pri­
     klausė tam tikrai kastai arba luomui, turėjusiam virše­
     nybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai.
-  citata_rodoma: "Beveik nėra abejonių, kad šias krašto dalis valdė\nįžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­\nse arba pilaitėse. Nuo seniausių laikų šios gentys pri­\nklausė tam tikrai kastai arba luomui, turėjusiam virše­\nnybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai."
+  citata_rodoma: |
+    Beveik nėra abejonių, kad šias krašto dalis valdė
+    įžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­
+    se arba pilaitėse. Nuo seniausių laikų šios gentys pri­
+    klausė tam tikrai kastai arba luomui, turėjusiam virše­
+    nybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

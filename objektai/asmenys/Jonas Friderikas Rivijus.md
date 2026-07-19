@@ -90,7 +90,15 @@ Narbutas laikė labiau tikėtina, kad Jonas Friderikas Rivijus kai kuriuos kroni
     Rinkau įvairias tų gedulo apeigų liekanas, sėmiausi žinių
     iš padavimų ir rašto paminklų, siekdamas papildyti šį straips­
     nį.
-  citata_rodoma: "Neįkainojamas Lietuvos\nistorijos paminklas. Sunku atspėti, ar tai Rivijus iš tikrųjų turėjo ran­\nkoje Rotundo Lietuvos istoriją, ar kai kuriuos dalykus įtraukė ( kro­\nniką iš savo senelio** užrašų; tai panašiau į tiesą, nes kai kuriais ki­\ntais straipsniais pats skatina šitaip manyti. Jo senelis*** ilgai gyveno\nLietuvoje, todėl galėjo turėti progą pasidaryti lotyniškų išrašų tie­\nsiog iš originalo, o vaikaitis****, kai kuriuos iš jų išvertęs vokiškai,\n¡traukė į savo enciklopedinę kompiliaciją*****."
+  citata_rodoma: |
+    Neįkainojamas Lietuvos
+    istorijos paminklas. Sunku atspėti, ar tai Rivijus iš tikrųjų turėjo ran­
+    koje Rotundo Lietuvos istoriją, ar kai kuriuos dalykus įtraukė ( kro­
+    niką iš savo senelio** užrašų; tai panašiau į tiesą, nes kai kuriais ki­
+    tais straipsniais pats skatina šitaip manyti. Jo senelis*** ilgai gyveno
+    Lietuvoje, todėl galėjo turėti progą pasidaryti lotyniškų išrašų tie­
+    siog iš originalo, o vaikaitis****, kai kuriuos iš jų išvertęs vokiškai,
+    ¡traukė į savo enciklopedinę kompiliaciją*****.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

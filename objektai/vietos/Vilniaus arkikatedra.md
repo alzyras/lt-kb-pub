@@ -76,7 +76,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
     mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: "Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –"
+  citata_rodoma: |
+    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -95,7 +96,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
     toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
     ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
     arkikatedrą.
-  citata_rodoma: "toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,"
+  citata_rodoma: |
+    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

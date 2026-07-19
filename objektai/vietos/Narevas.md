@@ -224,7 +224,14 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 
     Podolėje, Valakijoje, ragino dalyvauti ko-
     voje su totoriais.
-  citata_rodoma: "Kai Livonijos magistras buvo\nprie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino\npapilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių\ntuo metu kontroliuojamos Viznos apylinkes prie Narevo.\n\nPodolėje, Valakijoje, ragino dalyvauti ko-\nvoje su totoriais."
+  citata_rodoma: |
+    Kai Livonijos magistras buvo
+    prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
+    papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
+    tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
+
+    Podolėje, Valakijoje, ragino dalyvauti ko-
+    voje su totoriais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -265,7 +272,16 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
     niais to krašto sunkumais: mongolai nuolat puldinėjo, o
     kunigaikščiai vaidijosi tarpusavyje.
-  citata_rodoma: "1237 metais jis ve­\ndė savo būrius prieš jotvingius į Brastos apylinkes, bet\nitin dideli pavasario potvyniai ;užtvindė upių krantus, ir\njo sumanymas nebuvo įgyvendintas3.\n122\nNuo tų laikų matyti, kad jotvingiai pasitraukė nuo\nBugo—Narevo bei Prūsijos ir Lietuvos sienų link. Taip pat\nprisidėdavo prie prūsų, kai šie sukildavo prieš kryžiuo­\n1 Hipatijaus ( Voluinės) metraštis (spausdintas)."
+  citata_rodoma: |
+    1237 metais jis ve­
+    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
+    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
+    jo sumanymas nebuvo įgyvendintas3.
+    122
+    Nuo tų laikų matyti, kad jotvingiai pasitraukė nuo
+    Bugo—Narevo bei Prūsijos ir Lietuvos sienų link. Taip pat
+    prisidėdavo prie prūsų, kai šie sukildavo prieš kryžiuo­
+    1 Hipatijaus ( Voluinės) metraštis (spausdintas).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

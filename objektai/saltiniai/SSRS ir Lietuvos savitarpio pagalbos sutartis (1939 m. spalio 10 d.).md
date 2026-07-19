@@ -117,7 +117,9 @@ media_all_json: |-
     Vokietijos už 7,5 mln. aukso dolerių).
     Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
     va prarado neutralios politikos statusą ir dalį suvereniteto.
-  citata_rodoma: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-\nva prarado neutralios politikos statusą ir dalį suvereniteto."
+  citata_rodoma: |
+    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
+    va prarado neutralios politikos statusą ir dalį suvereniteto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +140,8 @@ media_all_json: |-
     vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
     santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
     nepriklausomybei.
-  citata_rodoma: "santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos"
+  citata_rodoma: |
+    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

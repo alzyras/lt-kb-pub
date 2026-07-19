@@ -60,7 +60,10 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
+  citata_rodoma: |
+    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

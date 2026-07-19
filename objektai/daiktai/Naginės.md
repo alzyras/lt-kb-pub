@@ -75,7 +75,8 @@ Nenurodyta
     nunešiotais miestiečio užvalkčiais. Kepurė irgi buvusi miestiška, ap­
     siavęs naginėmis, o kartais ir batais, įėjęs į grįčią ne poterius kalba,
     bet giesmę gieda.
-  citata_rodoma: "Kepurė irgi buvusi miestiška, ap- siavęs naginėmis, o kartais ir batais, įėjęs į grįčią ne poterius kalba, bet giesmę gieda."
+  citata_rodoma: |
+    Kepurė irgi buvusi miestiška, ap- siavęs naginėmis, o kartais ir batais, įėjęs į grįčią ne poterius kalba, bet giesmę gieda.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

@@ -67,7 +67,8 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     motriškosios varė plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo. Nesgi turėjo viežlybai^379 elgtis ir gyventi, jei iki šiai dienai tebėra jų kalboje, drabužį gerbiant, minavojami žodžiai: žluginti, skalbti, velėti, trinkti, prausti, plauti, mazgoti, balinti, skalurti, plūdurti, šviesti, baltinti ir anuoti^380.
-  citata_rodoma: "motriškosios varė plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo. Nesgi turėjo viežlybai^379 elgtis ir gyventi, jei iki šiai dienai tebėra jų kalboje, drabužį gerbiant, minavojami žodžiai: žluginti, skalbti, velėti, trinkti, prausti, plauti, mazgoti, balinti, skalurti, plūdurti, šviesti, baltinti ir anuoti^380."
+  citata_rodoma: |
+    motriškosios varė plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo. Nesgi turėjo viežlybai^379 elgtis ir gyventi, jei iki šiai dienai tebėra jų kalboje, drabužį gerbiant, minavojami žodžiai: žluginti, skalbti, velėti, trinkti, prausti, plauti, mazgoti, balinti, skalurti, plūdurti, šviesti, baltinti ir anuoti^380.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -82,7 +83,8 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     didžiausias pasiėmimas kiekvienos žmonos yra saugoti namuose ugnį ir viežlybumą užlaikyti.
-  citata_rodoma: "didžiausias pasiėmimas kiekvienos žmonos yra saugoti namuose ugnį ir viežlybumą užlaikyti."
+  citata_rodoma: |
+    didžiausias pasiėmimas kiekvienos žmonos yra saugoti namuose ugnį ir viežlybumą užlaikyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

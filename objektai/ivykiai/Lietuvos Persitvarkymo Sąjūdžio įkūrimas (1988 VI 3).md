@@ -125,7 +125,8 @@ Nenurodyta
     studentų – savo sudėtimi LPS užuomazgos skiriasi nuo 1968 m. Čekoslo-
     vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
     ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
-  citata_rodoma: "vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,"
+  citata_rodoma: |
+    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,11 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
     Lenkų santykių pynė. Bet terminas „prijungti” (applicare),
     kaip labai teisingai pastebėjo profesorius dr. St. Kutrzeba1 2),
     nėra juridiškas ir nieko aiškaus nepasako.
-  citata_rodoma: "Nuo šito prasideda visa Lietuvių —\nLenkų santykių pynė. Bet terminas „prijungti” (applicare),\nkaip labai teisingai pastebėjo profesorius dr. St. Kutrzeba1 2),\nnėra juridiškas ir nieko aiškaus nepasako."
+  citata_rodoma: |
+    Nuo šito prasideda visa Lietuvių —
+    Lenkų santykių pynė. Bet terminas „prijungti” (applicare),
+    kaip labai teisingai pastebėjo profesorius dr. St. Kutrzeba1 2),
+    nėra juridiškas ir nieko aiškaus nepasako.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

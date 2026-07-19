@@ -92,7 +92,12 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
     kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais ir trikdė jam
     ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
     dievui.
-  citata_rodoma: "Apie kito brolio gyvenimą toje pačioje pilyje\n\n  Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus\nTeutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas\njam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti."
+  citata_rodoma: |
+    Apie kito brolio gyvenimą toje pačioje pilyje
+
+      Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
+    Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
+    jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -115,7 +120,11 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
     Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
     o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
     į žygį.
-  citata_rodoma: "Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo\nsusigėdęs atstojo ir nebedrįso daugiau rodytis.\n\n234 (227)."
+  citata_rodoma: |
+    Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
+    susigėdęs atstojo ir nebedrįso daugiau rodytis.
+
+    234 (227).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

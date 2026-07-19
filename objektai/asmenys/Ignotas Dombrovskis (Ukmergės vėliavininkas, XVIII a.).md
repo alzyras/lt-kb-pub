@@ -78,7 +78,10 @@ media_all_json: |-
     1750 jis rašė, kad buvo pas Ukmergės vėliavininką Ignotą Dombrovskį (Ignacy Tadeusz
     Junosza Dąmbrowski), kuris sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos
     (šiandieninėje Baltarusijoje, Vitebsko srityje) valdas.
-  citata_rodoma: "1750 jis rašė, kad buvo pas Ukmergės vėliavininką Ignotą Dombrovskį (Ignacy Tadeusz\nJunosza Dąmbrowski), kuris sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos\n(šiandieninėje Baltarusijoje, Vitebsko srityje) valdas."
+  citata_rodoma: |
+    1750 jis rašė, kad buvo pas Ukmergės vėliavininką Ignotą Dombrovskį (Ignacy Tadeusz
+    Junosza Dąmbrowski), kuris sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos
+    (šiandieninėje Baltarusijoje, Vitebsko srityje) valdas.
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

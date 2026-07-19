@@ -214,7 +214,23 @@ Greta didžiojo etmono M.
     gaminti Niunberge meistro
     Kunzo Lochnerio, XVI a.
     6 dešimtmetyje
-  citata_rodoma: "Greta didžiojo\netmono M. Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų.\n\nŽygimanto Augusto\nparadiniai šarvai, pa-\n\ngaminti Niunberge meistro\nKunzo Lochnerio, XVI a."
+  citata_rodoma: |
+    Greta didžiojo
+    etmono M. Radvilos buvo jo šešio-
+    likmetis sūnus Kristupas Radvila,
+    vėliau tapęs didžiuoju etmonu ir
+    vadintas Perkūnu, lauko etmo-
+    nas Grigalius Chodkevičius,
+    būsimasis lauko etmonas
+    Romanas Sanguška, būsima-
+    sis Livonijos etmonas Jonas
+    Chodkevičius ir daugelis kitų.
+
+    Žygimanto Augusto
+    paradiniai šarvai, pa-
+
+    gaminti Niunberge meistro
+    Kunzo Lochnerio, XVI a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -238,7 +254,13 @@ Greta didžiojo etmono M.
     riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
     Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
     kuvos 43.
-  citata_rodoma: "Ir didysis kunigaikštis Aleksandras, maty­\ndamas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­\nties perduoti etmono vietą. Ponas Petras patarė per­\nduoti Volynės kunigaikščiui Konstantinui Ostrogiš- \nkiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius \ndavė etmono vietą kunigaikščiui Konstantinui2 5 ."
+  citata_rodoma: |
+    Ir didysis kunigaikštis Aleksandras, maty­
+    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
+    ties perduoti etmono vietą. Ponas Petras patarė per­
+    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
+    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

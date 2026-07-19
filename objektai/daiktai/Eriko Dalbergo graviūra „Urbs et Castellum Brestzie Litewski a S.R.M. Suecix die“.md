@@ -132,7 +132,11 @@ Nenurodyta
 
     Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
     švedams daug nuostolių.
-  citata_rodoma: "Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas\ndengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai)\n\nLietuvos teritoriją, todėl 1656 m."
+  citata_rodoma: |
+    Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas
+    dengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai)
+
+    Lietuvos teritoriją, todėl 1656 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

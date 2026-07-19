@@ -140,7 +140,15 @@ Nenurodyta
     Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
     bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto
     negavo^3 ).
-  citata_rodoma: "Kad laimėjimas būtų tikresnis, no­\nrėjo patraukti į savo pusę ir Maskvą. Per dvi savaiti Vytau­\ntas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­\nkvos kunigaikštienė grįžo į savo sostinę su brangiomis do­\nvanomis, auksu ir sidabru papuoštais paveikslais, net dalį\nKristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­\nbai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto\nnegavo^3 )."
+  citata_rodoma: |
+    Kad laimėjimas būtų tikresnis, no­
+    rėjo patraukti į savo pusę ir Maskvą. Per dvi savaiti Vytau­
+    tas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­
+    kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­
+    vanomis, auksu ir sidabru papuoštais paveikslais, net dalį
+    Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
+    bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto
+    negavo^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +171,16 @@ Nenurodyta
     negavo^3 ). Su Lenkija Vytauto santykiai tada buvo blo-
 
     (^1) ) Proch.
-  citata_rodoma: "Per dvi savaiti Vytau­\ntas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­\nkvos kunigaikštienė grįžo į savo sostinę su brangiomis do­\nvanomis, auksu ir sidabru papuoštais paveikslais, net dalį\nKristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­\nbai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto\nnegavo^3 ). Su Lenkija Vytauto santykiai tada buvo blo-\n\n(^1) ) Proch."
+  citata_rodoma: |
+    Per dvi savaiti Vytau­
+    tas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­
+    kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­
+    vanomis, auksu ir sidabru papuoštais paveikslais, net dalį
+    Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
+    bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto
+    negavo^3 ). Su Lenkija Vytauto santykiai tada buvo blo-
+
+    (^1) ) Proch.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

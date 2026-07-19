@@ -79,7 +79,9 @@ Dusburgietis teigia, kad kulikauskas P.
     Poznań, 1975.
     Otrębski J. Über die Herkunft des Preussennamens.— Lingua Posnaniensis, Poznań,
     1955, t. 5, s.
-  citata_rodoma: "Kulikauskas P. Sudargo piliakalniai.—Lietuvos TSR aukštųjų mokyklų mokslo darbai:\nIstorija, V., 1975, 15(2), p. 105 124."
+  citata_rodoma: |
+    Kulikauskas P. Sudargo piliakalniai.—Lietuvos TSR aukštųjų mokyklų mokslo darbai:
+    Istorija, V., 1975, 15(2), p. 105 124.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -80,7 +80,9 @@ media_all_json: |-
     čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
     tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
     ir paimančių juos įstatymo globon.
-  citata_rodoma: "Jame buvo nuostatų, palengvinančių valstiečių būklę\nir paimančių juos įstatymo globon."
+  citata_rodoma: |
+    Jame buvo nuostatų, palengvinančių valstiečių būklę
+    ir paimančių juos įstatymo globon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -81,7 +81,12 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
     kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
     apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
     krauklės prie Dauguvos iki Burtnieko ežero.
-  citata_rodoma: "Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai\nryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­\nmi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­\n_th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»\n(X, 3). XII-XIII amž."
+  citata_rodoma: |
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
+    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
+    (X, 3). XII-XIII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

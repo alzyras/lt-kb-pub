@@ -86,7 +86,8 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
-  citata_rodoma: "V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų"
+  citata_rodoma: |
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -105,7 +106,11 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
     rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
     skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą.
-  citata_rodoma: "lietuviai) XX suvažiavimas. Suvažiavimo metu „už savarankišką LKP, tu-\nrinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-\nskyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija, \nturinti reformuotą programą ir naują statutą."
+  citata_rodoma: |
+    lietuviai) XX suvažiavimas. Suvažiavimo metu „už savarankišką LKP, tu-
+    rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
+    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
+    turinti reformuotą programą ir naują statutą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

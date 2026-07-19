@@ -86,7 +86,8 @@ Nenurodyta
     sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
-  citata_rodoma: "sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko"
+  citata_rodoma: |
+    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

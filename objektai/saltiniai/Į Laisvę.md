@@ -64,7 +64,13 @@ media_all_json: |-
     Indija 20, 140
     Indreko R. 97
     Inocentas III, pop.
-  citata_rodoma: "7\nIbrahim Ibn Jakūb 115, 118\nIgoris, kng. 117\nIkškilė (Uexkuel) 165**\n**_Į Laisvę_** **42\nIlmenio ež."
+  citata_rodoma: |
+    7
+    Ibrahim Ibn Jakūb 115, 118
+    Igoris, kng. 117
+    Ikškilė (Uexkuel) 165**
+    **_Į Laisvę_** **42
+    Ilmenio ež.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

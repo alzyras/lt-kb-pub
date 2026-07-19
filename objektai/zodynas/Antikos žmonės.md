@@ -103,7 +103,14 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
     Viršaitis (Wirszajtos)
     Šio dievo stabas buvo senojoje Romovės šventykloje, jis
     buvo labai gerbiamas.
-  citata_rodoma: "Iš jų dažnai galima išgirsti: tas jau\nbiją winnam Likis („taip jam jau buvo lemta“)1 2.\nGraikai bei romėnai, kuriuos šiame veikale minėsime va­\ndindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas\ndievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti\npasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia\nviskam."
+  citata_rodoma: |
+    Iš jų dažnai galima išgirsti: tas jau
+    biją winnam Likis („taip jam jau buvo lemta“)1 2.
+    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
+    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
+    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
+    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
+    viskam.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

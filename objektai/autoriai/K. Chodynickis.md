@@ -61,7 +61,10 @@ Chodynickis ir J.
     Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
     Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
     Jakubowskis.
-  citata_rodoma: "Daug dėmesio atskiriems Gediminaičių laikų klausimams ir\nLietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.\nJakubowskis."
+  citata_rodoma: |
+    Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
+    Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
+    Jakubowskis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

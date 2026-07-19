@@ -72,7 +72,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   citata_originali: |
     Variantai 1273— 2106.
     1920 L. Medžiaga Lietuvos mokyklų reformai. Kaunas.
-  citata_rodoma: "1920 L. Medžiaga Lietuvos mokyklų reformai. Kaunas."
+  citata_rodoma: |
+    1920 L. Medžiaga Lietuvos mokyklų reformai. Kaunas.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -88,7 +89,9 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   citata_originali: |
     L. Šito leidinio santrauka vokiškai.
     Tilžė. Litauische Warte.
-  citata_rodoma: "L. Šito leidinio santrauka vokiškai. \nTilžė. Litauische Warte."
+  citata_rodoma: |
+    L. Šito leidinio santrauka vokiškai.
+    Tilžė. Litauische Warte.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

@@ -130,7 +130,22 @@ media_all_json: |-
     Annales Minorum seu trium ordinum
     a S. Francisco institutorum auctore A. R.
     P .
-  citata_rodoma: "To­\nliau rašoma, jog, remiantis Baroni- \nj a u s nuomone, 36 kiti pranciško­\nnai 1341 metų gegužės 24 dieną bu­\nvę Vilniuje nužudyti, tarp jų ir pats \nPetras Goštautas, kuris, atsisakęs \nvaivadystės, esą apsivilkęs pranciš­\nkono abitą, o vėliau netgi tapęs pir­\nmuoju Vilniaus vyskupu. Bet dėl \npainiavos, kurios pilna Waddyngo \npasakojime, ir dėl to, kad jo remtasi \nnežinia kokiais šaltiniais, negalima\nlengvai patikėti ir tuo Goštauto vys­\nkupavimu, ir tokiu dideliu nukan­\nkintų pranciškonų skaičiumi. Žr."
+  citata_rodoma: |
+    To­
+    liau rašoma, jog, remiantis Baroni-
+    j a u s nuomone, 36 kiti pranciško­
+    nai 1341 metų gegužės 24 dieną bu­
+    vę Vilniuje nužudyti, tarp jų ir pats
+    Petras Goštautas, kuris, atsisakęs
+    vaivadystės, esą apsivilkęs pranciš­
+    kono abitą, o vėliau netgi tapęs pir­
+    muoju Vilniaus vyskupu. Bet dėl
+    painiavos, kurios pilna Waddyngo
+    pasakojime, ir dėl to, kad jo remtasi
+    nežinia kokiais šaltiniais, negalima
+    lengvai patikėti ir tuo Goštauto vys­
+    kupavimu, ir tokiu dideliu nukan­
+    kintų pranciškonų skaičiumi. Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

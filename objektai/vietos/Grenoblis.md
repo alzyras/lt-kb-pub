@@ -69,7 +69,10 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
     kronistą Simoną Grunau^71. Trečiasis buvo nuo Simno kilęs Ignas
     Jonynas, kuris 1905 m. porai metų istorijos studijuoti išvyko
     į Prancūzijos Grenoblį. Istorijos studijas jis užbaigė 1911 m.
-  citata_rodoma: "Trečiasis buvo nuo Simno kilęs Ignas\nJonynas, kuris 1905 m. porai metų istorijos studijuoti išvyko\nį Prancūzijos Grenoblį. Istorijos studijas jis užbaigė 1911 m."
+  citata_rodoma: |
+    Trečiasis buvo nuo Simno kilęs Ignas
+    Jonynas, kuris 1905 m. porai metų istorijos studijuoti išvyko
+    į Prancūzijos Grenoblį. Istorijos studijas jis užbaigė 1911 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -62,7 +62,11 @@ media_all_json: |-
     (žemės gen. mjr. T. Korsako) milicijos ba-
     talionas ir keli eskadronai bei keletas kitų
     smulkesnių sukilėlių padalinių.
-  citata_rodoma: "Įguloje taip pat buvo Vilniaus pavieto\n(žemės gen. mjr. T. Korsako) milicijos ba-\ntalionas ir keli eskadronai bei keletas kitų\nsmulkesnių sukilėlių padalinių."
+  citata_rodoma: |
+    Įguloje taip pat buvo Vilniaus pavieto
+    (žemės gen. mjr. T. Korsako) milicijos ba-
+    talionas ir keli eskadronai bei keletas kitų
+    smulkesnių sukilėlių padalinių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -102,7 +102,10 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
     intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
     nigaikščių dovanota vokiečiams. Čia Vytautas pakartoja ankstesnių Lie-
     tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje.
-  citata_rodoma: "Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos\nintako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-\nnigaikščių dovanota vokiečiams."
+  citata_rodoma: |
+    Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
+    intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
+    nigaikščių dovanota vokiečiams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +126,10 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
     J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
     lietuvių lingvistai, ypač tarybiniu laikotarpiu6.
-  citata_rodoma: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,\npietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina\nkaip prūsų gyvenamą3."
+  citata_rodoma: |
+    Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
+    pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
+    kaip prūsų gyvenamą3.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

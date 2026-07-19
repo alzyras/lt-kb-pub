@@ -85,7 +85,13 @@ Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė
     t. y. Žemaitijoje ir Kurše, kur atskiroje Kuršo provincijoje,
     kurią sudaro dvi apskritys: senoji ir naujoji, vadinama
     Rachdija, lig šiol išliko šio pavadinimo pėdsakas.
-  citata_rodoma: "Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios\npakrantės ligi Dauguvos žemupio. Tokios nuomonės yra\nvisi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių\npagrįstų įrodymų priskiria jam čia ir Pavyslę1 2. Jame sa­\nvo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas\nGotija su būdvardžiu, reiškiančiu krašto gamtos savybę."
+  citata_rodoma: |
+    Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
+    pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra
+    visi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių
+    pagrįstų įrodymų priskiria jam čia ir Pavyslę1 2. Jame sa­
+    vo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas
+    Gotija su būdvardžiu, reiškiančiu krašto gamtos savybę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

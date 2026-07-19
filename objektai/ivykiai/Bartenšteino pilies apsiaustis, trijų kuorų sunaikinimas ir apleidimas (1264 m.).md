@@ -255,7 +255,17 @@ Nenurodyta
     kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
     tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
     rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
-  citata_rodoma: "Šitai išgirdę, broliai ir jų šeimyna, kitą dieną\npasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų\nrelikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.\n  392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,\n123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).\n\nVis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.\nGalop, kai nebebuvo galima ilgiau reikalo slėpti, priešai vienas po kito pradėjo artėti ir,\nišvydę, kad niekas jiems nesipriešina, įsibrovė į pilį; nužudę brolį, pilį jie panaudojo savo\nreikalams, iš jos dažnai puldinėdami brolius."
+  citata_rodoma: |
+    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
+    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
+    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
+      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,
+    123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).
+
+    Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
+    Galop, kai nebebuvo galima ilgiau reikalo slėpti, priešai vienas po kito pradėjo artėti ir,
+    išvydę, kad niekas jiems nesipriešina, įsibrovė į pilį; nužudę brolį, pilį jie panaudojo savo
+    reikalams, iš jos dažnai puldinėdami brolius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

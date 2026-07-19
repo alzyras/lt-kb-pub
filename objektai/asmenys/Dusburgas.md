@@ -157,7 +157,17 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
     džius. Beveik nėra abejonių, kad šias krašto dalis valdė
     įžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­
     se arba pilaitėse.
-  citata_rodoma: "Čia randame detalę, kuri pasikartoja kitose provinci­\njose ir kuri galėtų labiau paaiškinti visos tautos istoriją,\njei šaltiniai nebūtų taip sujaukti. Kiekviena provincija\ndalijosi j mažesnes dalis, atskirus valsčius, teritorijas,\nkaip jas buvo pratęs vadinti Dusburgas, kartais mažes­\nnes, o kartais didesnes; jos paprastai vadinamos pagal\npagrindines vietoves arba savo valdovų pilių vietovar­\ndžius. Beveik nėra abejonių, kad šias krašto dalis valdė\nįžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­\nse arba pilaitėse."
+  citata_rodoma: |
+    Čia randame detalę, kuri pasikartoja kitose provinci­
+    jose ir kuri galėtų labiau paaiškinti visos tautos istoriją,
+    jei šaltiniai nebūtų taip sujaukti. Kiekviena provincija
+    dalijosi j mažesnes dalis, atskirus valsčius, teritorijas,
+    kaip jas buvo pratęs vadinti Dusburgas, kartais mažes­
+    nes, o kartais didesnes; jos paprastai vadinamos pagal
+    pagrindines vietoves arba savo valdovų pilių vietovar­
+    džius. Beveik nėra abejonių, kad šias krašto dalis valdė
+    įžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­
+    se arba pilaitėse.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

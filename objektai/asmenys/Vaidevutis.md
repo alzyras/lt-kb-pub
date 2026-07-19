@@ -209,7 +209,13 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
     strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
     pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
     du erelio sparnai.
-  citata_rodoma: "Tačiau nežinome, iš kokio šaltinio yra\ntas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio\nvardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­\nkyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas\ntarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­\nčios vėliavos."
+  citata_rodoma: |
+    Tačiau nežinome, iš kokio šaltinio yra
+    tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
+    vardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­
+    kyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas
+    tarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­
+    čios vėliavos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -286,7 +292,12 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
     tautų ženklai, signetai, vėliavos, skydai ir t. t. Jų atsiradimo pra­
     džia dingsta amžių glūdumoje, paliesdama pačią yisuomenės užuo­
     mazgą.
-  citata_rodoma: "Tačiau nežinome, iš kokio šaltinio yra tas piešinys. Mūsų\npiešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­\nskio šil'ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo\nskirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir\nherbo. Mes dėl vietos stokos jį užrašėme ant pačios vėliavos."
+  citata_rodoma: |
+    Tačiau nežinome, iš kokio šaltinio yra tas piešinys. Mūsų
+    piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­
+    skio šil'ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo
+    skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir
+    herbo. Mes dėl vietos stokos jį užrašėme ant pačios vėliavos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

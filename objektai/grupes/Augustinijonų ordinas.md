@@ -64,7 +64,10 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 
 
     tuvoje buvo jau gana daug.
-  citata_rodoma: "Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, ber-\nnardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lie-\ntuvoje buvo jau gana daug."
+  citata_rodoma: |
+    Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, ber-
+    nardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lie-
+    tuvoje buvo jau gana daug.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

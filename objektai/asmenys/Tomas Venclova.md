@@ -116,7 +116,8 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
-  citata_rodoma: "užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti"
+  citata_rodoma: |
+    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +139,8 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: "poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę"
+  citata_rodoma: |
+    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

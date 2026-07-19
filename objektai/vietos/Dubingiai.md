@@ -182,7 +182,14 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     jinga padėtis, lenkams pasiekus savo puo-
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
-  citata_rodoma: "Spalio 26-27 d. lenkai apėjo kai-\n\nrįjį lietuvių sparną ir užėmė Giedraičius,\nŽelvą, Dubingius, Vidiškį. Susidarė pavo-\njinga padėtis, lenkams pasiekus savo puo-\nlimo tikslą, Lietuvai būtų iškilęs pavojus\nprarasti nepriklausomybę."
+  citata_rodoma: |
+    Spalio 26-27 d. lenkai apėjo kai-
+
+    rįjį lietuvių sparną ir užėmė Giedraičius,
+    Želvą, Dubingius, Vidiškį. Susidarė pavo-
+    jinga padėtis, lenkams pasiekus savo puo-
+    limo tikslą, Lietuvai būtų iškilęs pavojus
+    prarasti nepriklausomybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -205,7 +212,14 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
-  citata_rodoma: "Prieš kautynes\n\nSutelkęs stambias pajėgas, gen. L. Želi-\ngovskis lapkričio 17 d. auštant pradėjo\nsavo didžiąją ofenzyvą, puldamas lie-\ntuvių 1-osios pėstininkų divizijos uži-\nmamą barą nuo Nėries iki Dubingių."
+  citata_rodoma: |
+    Prieš kautynes
+
+    Sutelkęs stambias pajėgas, gen. L. Želi-
+    govskis lapkričio 17 d. auštant pradėjo
+    savo didžiąją ofenzyvą, puldamas lie-
+    tuvių 1-osios pėstininkų divizijos uži-
+    mamą barą nuo Nėries iki Dubingių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

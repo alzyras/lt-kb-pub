@@ -174,7 +174,14 @@ Nenurodyta
     Sunkiai šarvuotieji kovose turėdavo ir nepatogumų, — jei pa­
     sitaikydavo nuo arklio nusiversti, tai ant jo užsėsti kautynių
     laiku jiems būdavo labai sunku.
-  citata_rodoma: "Kavalerija būdavo sunkiai ir lengvai ginkluota. Sunkiąją\nkavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki\nkojų tvirtais metaliniais šarvais. Šarvuodavo net arklius. Toks\nriteris su anų laikų ginklais buvo beveik nepaimama tvirtovė.\nSunkiai šarvuotieji kovose turėdavo ir nepatogumų, — jei pa­\nsitaikydavo nuo arklio nusiversti, tai ant jo užsėsti kautynių\nlaiku jiems būdavo labai sunku."
+  citata_rodoma: |
+    Kavalerija būdavo sunkiai ir lengvai ginkluota. Sunkiąją
+    kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki
+    kojų tvirtais metaliniais šarvais. Šarvuodavo net arklius. Toks
+    riteris su anų laikų ginklais buvo beveik nepaimama tvirtovė.
+    Sunkiai šarvuotieji kovose turėdavo ir nepatogumų, — jei pa­
+    sitaikydavo nuo arklio nusiversti, tai ant jo užsėsti kautynių
+    laiku jiems būdavo labai sunku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -194,7 +201,13 @@ Nenurodyta
     lai būdavo labai įvairūs: ilga ietis, abiem pusėm aštrus kardas,
     kirvis, kuoka, plaktukas, lankai ir skydas nuo smūgių prisi­
     dengti.
-  citata_rodoma: "Lengvoji kavalerija buvo pa­\nnašiai šarvuota, bet jos šarvai būdavo lengvesni, dengdavo tik\npečius ir krūtinę. Galvas dengdavo šalmais. Kavalerijos gink­\nlai būdavo labai įvairūs: ilga ietis, abiem pusėm aštrus kardas,\nkirvis, kuoka, plaktukas, lankai ir skydas nuo smūgių prisi­\ndengti."
+  citata_rodoma: |
+    Lengvoji kavalerija buvo pa­
+    našiai šarvuota, bet jos šarvai būdavo lengvesni, dengdavo tik
+    pečius ir krūtinę. Galvas dengdavo šalmais. Kavalerijos gink­
+    lai būdavo labai įvairūs: ilga ietis, abiem pusėm aštrus kardas,
+    kirvis, kuoka, plaktukas, lankai ir skydas nuo smūgių prisi­
+    dengti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -214,7 +227,13 @@ Nenurodyta
     Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­
     vyko prie kariuomenės. Kariuomenė jau buvo visai paruošta ir
     laukė ženklo.
-  citata_rodoma: "Ordino ka­\nriuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­\ngalėjo, nes ne viskas buvo sutvarkyta. Pasimeldęs Jogaila, ne tik\nVytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­\nvyko prie kariuomenės. Kariuomenė jau buvo visai paruošta ir\nlaukė ženklo."
+  citata_rodoma: |
+    Ordino ka­
+    riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
+    galėjo, nes ne viskas buvo sutvarkyta. Pasimeldęs Jogaila, ne tik
+    Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­
+    vyko prie kariuomenės. Kariuomenė jau buvo visai paruošta ir
+    laukė ženklo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -232,7 +251,8 @@ Nenurodyta
     vadai, nežinodami čionykščių vietų, pasiklydo. Tarp jų du
     apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir
     atvestas pas kunigaikštį Danielių.
-  citata_rodoma: "Kitą rytą pastebėta, jog kai kurie priešų vadai, nežinodami čionykščių vietų, pasiklydo. Tarp jų du apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir atvestas pas kunigaikštį Danielių."
+  citata_rodoma: |
+    Kitą rytą pastebėta, jog kai kurie priešų vadai, nežinodami čionykščių vietų, pasiklydo. Tarp jų du apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir atvestas pas kunigaikštį Danielių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -253,7 +273,14 @@ Nenurodyta
     menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis. Ordino ka­
     riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
     galėjo, nes ne viskas buvo sutvarkyta.
-  citata_rodoma: "Abi priešininkų kariuomenės\nbuvo netoli viena kitos. Visa Ordino kariuomenė stovėjo atvi­\nrame lauke ir riterius, šarvuotus metaliniais šarvais, kepino\nkaršta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­\nmenės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis. Ordino ka­\nriuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­\ngalėjo, nes ne viskas buvo sutvarkyta."
+  citata_rodoma: |
+    Abi priešininkų kariuomenės
+    buvo netoli viena kitos. Visa Ordino kariuomenė stovėjo atvi­
+    rame lauke ir riterius, šarvuotus metaliniais šarvais, kepino
+    karšta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­
+    menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis. Ordino ka­
+    riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
+    galėjo, nes ne viskas buvo sutvarkyta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

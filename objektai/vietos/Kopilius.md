@@ -60,7 +60,11 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
     kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
     valstybės vieningumui.
-  citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos"
+  citata_rodoma: |
+    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
+    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
+    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
+    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

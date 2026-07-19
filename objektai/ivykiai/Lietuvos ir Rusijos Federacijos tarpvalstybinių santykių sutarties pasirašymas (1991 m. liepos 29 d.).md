@@ -151,7 +151,9 @@ Nenurodyta
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
     apie Rusijos ir jos tautų ateitį. Draugiški valstybių vadovų santykiai leido
     parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-  citata_rodoma: "Draugiški valstybių vadovų santykiai leido\nparengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
+  citata_rodoma: |
+    Draugiški valstybių vadovų santykiai leido
+    parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -169,7 +171,9 @@ Nenurodyta
     gos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-
     no Rusiją nepriklausoma valstybe. Spalio pradžioje tarp abiejų valstybių
     buvo užmegzti diplomatiniai santykiai.
-  citata_rodoma: "Spalio pradžioje tarp abiejų valstybių\nbuvo užmegzti diplomatiniai santykiai."
+  citata_rodoma: |
+    Spalio pradžioje tarp abiejų valstybių
+    buvo užmegzti diplomatiniai santykiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -188,7 +192,12 @@ Nenurodyta
     buvo užmegzti diplomatiniai santykiai.
     1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
     sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
-  citata_rodoma: "Sovietų Sąjun-\ngos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-\nno Rusiją nepriklausoma valstybe. Spalio pradžioje tarp abiejų valstybių \nbuvo užmegzti diplomatiniai santykiai. \n1997 m."
+  citata_rodoma: |
+    Sovietų Sąjun-
+    gos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-
+    no Rusiją nepriklausoma valstybe. Spalio pradžioje tarp abiejų valstybių
+    buvo užmegzti diplomatiniai santykiai.
+    1997 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -67,7 +67,8 @@ Vaskela G.
   citata_originali: |
     Vilnius, 1996.
     Vaskela G. Žemės reforma Lietuvoje 1919–1940 m. Vilnius, 1998.
-  citata_rodoma: "Vaskela G. Žemės reforma Lietuvoje 1919–1940 m. Vilnius, 1998."
+  citata_rodoma: |
+    Vaskela G. Žemės reforma Lietuvoje 1919–1940 m. Vilnius, 1998.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

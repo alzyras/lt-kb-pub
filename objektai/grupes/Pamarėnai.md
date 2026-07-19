@@ -118,7 +118,16 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
     ir prūsų kraštą.
-  citata_rodoma: "Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių\nir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai\nyra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.\n  „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.\n(t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus\nžygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,\nŽivinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)\n1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti\nir prūsų kraštą."
+  citata_rodoma: |
+    Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
+    ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
+    yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
+      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
+    (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
+    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
+    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
+    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
+    ir prūsų kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -138,7 +147,11 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: "Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  citata_rodoma: |
+    Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

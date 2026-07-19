@@ -142,7 +142,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
     nėse iškovojo bronzos medalius. Dar geresni rezultatai pasiekti Europos
     krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m.
-  citata_rodoma: "nėse iškovojo bronzos medalius. Dar geresni rezultatai pasiekti Europos"
+  citata_rodoma: |
+    nėse iškovojo bronzos medalius. Dar geresni rezultatai pasiekti Europos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

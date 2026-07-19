@@ -74,7 +74,9 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
     6, p. 173—314.
     Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros
     barai, 1984, Nr. 6, p. 62—64.
-  citata_rodoma: "Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros\nbarai, 1984, Nr. 6, p. 62—64."
+  citata_rodoma: |
+    Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros
+    barai, 1984, Nr. 6, p. 62—64.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -615,7 +615,21 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     tienė Birutė paskandinta, - nėra iki
     šiol aiškus ir rašantiesiems Lietuvos
     istoriją dera jo imtis.
-  citata_rodoma: "Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­\nti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­\ngrobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­\njo, 1382 metų lapkričio pradžioje Dubysos upės salelėje\nsudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs\njo aplankyti, netikėtai rado negyvą,\nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki\nšiol aiškus ir rašantiesiems Lietuvos\nistoriją dera jo imtis."
+  citata_rodoma: |
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
+    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
+    36
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -639,7 +653,17 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     buvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra,
     kurioje nebeliko pastovių sodybų ir kaimų. Tokių suverstų medžių
     užtvarų buvo ir giliau Žemaičių krašte.
-  citata_rodoma: "**\n\n\n(^256) n skyrius: valstybės iškilimas\nAtrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­\nrianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta\npo Peštvės ir Veliuonos pilių sunaikinimo (1363). Tada jau visas\npietvakarių Žemaičių plotas, ištisai prijungiant ir Mituvos baseiną,\nbuvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra,\nkurioje nebeliko pastovių sodybų ir kaimų."
+  citata_rodoma: |
+    **
+
+
+    (^256) n skyrius: valstybės iškilimas
+    Atrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­
+    rianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta
+    po Peštvės ir Veliuonos pilių sunaikinimo (1363). Tada jau visas
+    pietvakarių Žemaičių plotas, ištisai prijungiant ir Mituvos baseiną,
+    buvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra,
+    kurioje nebeliko pastovių sodybų ir kaimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -660,7 +684,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
     Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
     tęs prieš vokiečius ».
-  citata_rodoma: "Tuo pat metu, kai kryžiuočiai įrodinėjo, kad\ndešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas\npasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)\natstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.\nOrdinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­\ntęs prieš vokiečius »."
+  citata_rodoma: |
+    Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
+    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
+    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
+    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
+    Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
+    tęs prieš vokiečius ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -704,7 +734,38 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     Mindaugo raiteliai. Kadangi priešas įsi-
     veržė į Dubysos aukštupį, tad buvo akty-
     vuotas antrasis gynybos variantas.
-  citata_rodoma: "SAULĖS (ŠIAULIŲ) MUSIS 21\n\nva\nAS\nal\no\na4\nmn\nz\no\no\n©\na\no\n=\n=\n\niki Vytauto imperijos\n\n## Puslapis 24\n\n(Upytės) ir Dubysos (Šiaulių) aukštu-\npių regionus. Pirmuoju atveju - gynyba\niš esmės tektų Mindaugo vadovaujamai\nkariuomenei, o juos paremtų žemaičių\nraiteliai; antruoju atveju - pagrindinė\ngynybos našta tektų žemaičiams, vado-\nvaujamiems Vykinto, juos vėliau paremtų\nMindaugo raiteliai. Kadangi priešas įsi-\nveržė į Dubysos aukštupį, tad buvo akty-\nvuotas antrasis gynybos variantas."
+  citata_rodoma: |
+    SAULĖS (ŠIAULIŲ) MUSIS 21
+
+    va
+    AS
+    al
+    o
+    a4
+    mn
+    z
+    o
+    o
+    ©
+    a
+    o
+    =
+    =
+
+    iki Vytauto imperijos
+
+    ## Puslapis 24
+
+    (Upytės) ir Dubysos (Šiaulių) aukštu-
+    pių regionus. Pirmuoju atveju - gynyba
+    iš esmės tektų Mindaugo vadovaujamai
+    kariuomenei, o juos paremtų žemaičių
+    raiteliai; antruoju atveju - pagrindinė
+    gynybos našta tektų žemaičiams, vado-
+    vaujamiems Vykinto, juos vėliau paremtų
+    Mindaugo raiteliai. Kadangi priešas įsi-
+    veržė į Dubysos aukštupį, tad buvo akty-
+    vuotas antrasis gynybos variantas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -722,7 +783,12 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     maršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­
     mas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių
     dienų derybų buvo surašytos trys sutartys^19.
-  citata_rodoma: "Suvažiavus gausiam\nkryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino\nmaršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­\nmas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių\ndienų derybų buvo surašytos trys sutartys^19."
+  citata_rodoma: |
+    Suvažiavus gausiam
+    kryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino
+    maršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­
+    mas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių
+    dienų derybų buvo surašytos trys sutartys^19.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -742,7 +808,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     (« den Lettowen, die Sameiten sin genannt », eil. 4466).
     Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: "Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.\nŠušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."
+  citata_rodoma: |
+    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
+    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -783,7 +851,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
     užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
     Livonijos ir Prūsų—-ligi Dubysos upės.
-  citata_rodoma: "Kaip kita­\ndos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti\ndonacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino\n« draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo\nužleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.\nLivonijos ir Prūsų—-ligi Dubysos upės."
+  citata_rodoma: |
+    Kaip kita­
+    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
+    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
+    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
+    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
+    Livonijos ir Prūsų—-ligi Dubysos upės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -806,7 +880,10 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     vo praplėstos toliau į vakarus, apimdamos didesnius tikrų lie­
     tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
     autoritetas.
-  citata_rodoma: "Vytautas, norėdamas geriau\njuose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­\nti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve"
+  citata_rodoma: |
+    Vytautas, norėdamas geriau
+    juose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­
+    ti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -827,7 +904,12 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
     pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
     atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
-  citata_rodoma: "Vytautas teigė, jog pati Klaipėda priklausanti\nŽemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad\ndešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas\npasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)\natstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2."
+  citata_rodoma: |
+    Vytautas teigė, jog pati Klaipėda priklausanti
+    Žemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
+    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
+    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
+    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -866,7 +948,10 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala.
-  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala."
+  citata_rodoma: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -917,7 +1002,19 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
     to gyventojams.
-  citata_rodoma: "218\n\n## Puslapis 218\n\nnikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­\nmuno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris)."
+  citata_rodoma: |
+    218
+
+    ## Puslapis 218
+
+    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
+    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
+    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
+    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
+    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
+    lemonu Kalnas).
+    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
+    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -60,7 +60,8 @@ Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų
     cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
     dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
     teris Paulius Rubensas).
-  citata_rodoma: "cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų"
+  citata_rodoma: |
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

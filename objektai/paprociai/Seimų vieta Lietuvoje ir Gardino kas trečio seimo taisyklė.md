@@ -102,7 +102,12 @@ Nenurodyta
     tųsi Lietuvoje — Gardine. Be to, tas pats įstatymas
     pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
     Lietuvoje.
-  citata_rodoma: "Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš\nįstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas\nir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad\nkas trečias seimas, kurio maršalka esti lietuvis, rink-\ntųsi Lietuvoje — Gardine."
+  citata_rodoma: |
+    Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
+    įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas
+    ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
+    kas trečias seimas, kurio maršalka esti lietuvis, rink-
+    tųsi Lietuvoje — Gardine.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

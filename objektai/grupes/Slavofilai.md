@@ -103,7 +103,10 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     Toks universiteto klestėjimas nepatiko rusams, ypač sla-
     vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į
     draugiją.
-  citata_rodoma: "Toks universiteto klestėjimas nepatiko rusams, ypač sla-\nvofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į\ndraugiją."
+  citata_rodoma: |
+    Toks universiteto klestėjimas nepatiko rusams, ypač sla-
+    vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į
+    draugiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +127,14 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     mės nuo amžių buvusios rusų kultūros įta-
     koje, kad lenkai ten tesą tik atėjūnai ir kad todėl negalima
     jiems leisti toliau lenkinti krašto.
-  citata_rodoma: "500.\nToks universiteto klestėjimas nepatiko rusams, ypač sla-\nvofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į\ndraugiją. Jie skelbė, kad didžiosios Lietuvos kunigaikštijos že-\nmės nuo amžių buvusios rusų kultūros įta-\nkoje, kad lenkai ten tesą tik atėjūnai ir kad todėl negalima\njiems leisti toliau lenkinti krašto."
+  citata_rodoma: |
+    500.
+    Toks universiteto klestėjimas nepatiko rusams, ypač sla-
+    vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į
+    draugiją. Jie skelbė, kad didžiosios Lietuvos kunigaikštijos že-
+    mės nuo amžių buvusios rusų kultūros įta-
+    koje, kad lenkai ten tesą tik atėjūnai ir kad todėl negalima
+    jiems leisti toliau lenkinti krašto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

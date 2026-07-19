@@ -76,7 +76,9 @@ Dusburgietis teigia, kad nalepa J..
     Three Catechisms.—London, 1974.
     Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
     i.
-  citata_rodoma: "Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie.— Rocznik\nBiałostocki, Warszawa, 1981, t. 15, s. 141—149."
+  citata_rodoma: |
+    Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie.— Rocznik
+    Białostocki, Warszawa, 1981, t. 15, s. 141—149.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -72,7 +72,11 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
     dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
     patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
     sų žemę pasiglemžti.
-  citata_rodoma: "Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­\ngų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­\nslėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu\nir su Livonijos kraštu ir mūsų tėvą išdavė;"
+  citata_rodoma: |
+    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
+    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
+    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
+    ir su Livonijos kraštu ir mūsų tėvą išdavė;
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

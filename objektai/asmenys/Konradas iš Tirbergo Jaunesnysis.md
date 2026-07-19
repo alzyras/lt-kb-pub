@@ -181,7 +181,14 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
     lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė į Kristaus tikėjimą. Juos išvydęs,
     magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
-  citata_rodoma: "Apie brolį Konradą iš Tirbergo, Prūsijos magistrą\n\n   Brolis Konradas  iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo\npusšeštų metų. Šis brolis Konradas buvo minėtojo Konrado iš Tirbergo, magistro, tikrasis\nbrolis, juodu garsėjo kaip ryžtingi vyrai, pelnę didelę šlovę ir karo žygiais, ir kitokiais\ndarbais; jiems vadovaujant, taip sėkmingai kariauta su netikėliais, kad rodėsi, jog viskas\nsusiklosto taip, kaip jie nori."
+  citata_rodoma: |
+    Apie brolį Konradą iš Tirbergo, Prūsijos magistrą
+
+       Brolis Konradas  iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo
+    pusšeštų metų. Šis brolis Konradas buvo minėtojo Konrado iš Tirbergo, magistro, tikrasis
+    brolis, juodu garsėjo kaip ryžtingi vyrai, pelnę didelę šlovę ir karo žygiais, ir kitokiais
+    darbais; jiems vadovaujant, taip sėkmingai kariauta su netikėliais, kad rodėsi, jog viskas
+    susiklosto taip, kaip jie nori.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -203,7 +210,14 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
     Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
     šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.
-  citata_rodoma: "Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą\n\n  Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro\nįsakytas, sutelkė visą savo kariuomenę  ir įsiveržė  į Sūduvos žemės valsčių, vardu\nPakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs  į nelaisvę ir išžudęs\ndaugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,\nvardu Nagutinas496."
+  citata_rodoma: |
+    Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
+
+      Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro
+    įsakytas, sutelkė visą savo kariuomenę  ir įsiveržė  į Sūduvos žemės valsčių, vardu
+    Pakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs  į nelaisvę ir išžudęs
+    daugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,
+    vardu Nagutinas496.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -232,7 +246,14 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
     sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
     galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
-  citata_rodoma: "Apie Lietuvos pilies, vardu Bisenė, užkariavimą\n\n   Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su\ndidele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo\nryto iki pietų smarkiai puolė pilį, vardu Bisenė519, ir puldami buvo taip įnirtę, kad, nukovę\ndaugybę pilies gynėjų ar mirtinai sužeidę, galop įsiveržė į ją ir pavertė pelenais, vienus\npilėnus paėmę  į nelaisvę, o kitus išžudę."
+  citata_rodoma: |
+    Apie Lietuvos pilies, vardu Bisenė, užkariavimą
+
+       Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su
+    didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo
+    ryto iki pietų smarkiai puolė pilį, vardu Bisenė519, ir puldami buvo taip įnirtę, kad, nukovę
+    daugybę pilies gynėjų ar mirtinai sužeidę, galop įsiveržė į ją ir pavertė pelenais, vienus
+    pilėnus paėmę  į nelaisvę, o kitus išžudę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -253,7 +274,16 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
     savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
     lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė į Kristaus tikėjimą.
-  citata_rodoma: "Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­\n                           mą\n\n  Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis\npareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią\ntikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;\nkai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su\nsavimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų\nlyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą."
+  citata_rodoma: |
+    Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
+                               mą
+
+      Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
+    pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
+    tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
+    kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
+    savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
+    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

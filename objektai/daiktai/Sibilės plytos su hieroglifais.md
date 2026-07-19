@@ -174,7 +174,18 @@ Nenurodyta
     Matyt, tai buvo lietuvių panteonas. Esama nuomonės, besire­
     miančios padavimais, kad tas panteonas stovėjo ten, kur Sa­
     piegų - dabar iždo - rūmai.
-  citata_rodoma: "To aukuro viduje buvo kambarėlių aukojimo indams ir pana­\n271\n\n## Puslapis 271\n\nšiems daiktams laikyti. Prie šventyklos įėjimo buvo Krivių\nKrivaičio -  žynių žynio rūmas. Tas rūmas turėjo apvalų bokš­\ntą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­\nmą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­\nnesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto\nsienoje metų pradžioje, rodydavo metus."
+  citata_rodoma: |
+    To aukuro viduje buvo kambarėlių aukojimo indams ir pana­
+    271
+
+    ## Puslapis 271
+
+    šiems daiktams laikyti. Prie šventyklos įėjimo buvo Krivių
+    Krivaičio -  žynių žynio rūmas. Tas rūmas turėjo apvalų bokš­
+    tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
+    mą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­
+    nesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto
+    sienoje metų pradžioje, rodydavo metus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -199,7 +210,19 @@ Nenurodyta
     ant plytų ten, kur baigiasi jos netaisyklingoji dalis, kažkokius antspau­
     dus ir ženklus, kuriuos parodė Leleveliui. Tik neaišku, koks buvo rezul­
     tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos?
-  citata_rodoma: "Senas pasakojimas,\nkuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša\nžinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią\nšventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263\nmetais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­\nkulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­\neitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus\npati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas\nsu orakulo nurodytais ženklais -  hieroglifais; iš jų turėjo būti\nišpranašaujami geri ar prasti metai; paskutinė plyta buvo su\ndvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­\ngaikščiui. Tą ženklą panaudojo valstybės herbui ."
+  citata_rodoma: |
+    Senas pasakojimas,
+    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
+    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
+    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
+    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
+    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
+    eitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
+    pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas
+    su orakulo nurodytais ženklais -  hieroglifais; iš jų turėjo būti
+    išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
+    dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
+    gaikščiui. Tą ženklą panaudojo valstybės herbui .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -126,7 +126,14 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
     tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.
-  citata_rodoma: "Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­\n                                      lies bei miesto paėmimą\n\n  Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo\npilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo\ntos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele\nkariuomene ją apsupo, visą dieną smarkiai puolė."
+  citata_rodoma: |
+    Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
+                                          lies bei miesto paėmimą
+
+      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
+    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
+    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
+    kariuomene ją apsupo, visą dieną smarkiai puolė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

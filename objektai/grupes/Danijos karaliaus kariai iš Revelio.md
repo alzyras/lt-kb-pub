@@ -94,7 +94,16 @@ media_all_json: |-
     Lietuvių kariuomenė pozicijas užėmė
     rytiniame upelio krante, palikdama priešui
     nepatogesnę padėtį.
-  citata_rodoma: "“ Šiam patarimui nepritarė\nDanijos karaliaus kariai iš Revelio ir dau-\ngybė kitų, tvirtindami, kad be žirgų jie nej-\nstengsią mūšyje atsilaikyti dėl savo sunkios\nginkluotės.\n\nLietuvių kariuomenė pozicijas užėmė\nrytiniame upelio krante, palikdama priešui\nnepatogesnę padėtį."
+  citata_rodoma: |
+    “ Šiam patarimui nepritarė
+    Danijos karaliaus kariai iš Revelio ir dau-
+    gybė kitų, tvirtindami, kad be žirgų jie nej-
+    stengsią mūšyje atsilaikyti dėl savo sunkios
+    ginkluotės.
+
+    Lietuvių kariuomenė pozicijas užėmė
+    rytiniame upelio krante, palikdama priešui
+    nepatogesnę padėtį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +131,15 @@ media_all_json: |-
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: "), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį. Į šią kry-\nžiaus karo akciją buvo įtraukti ir prieš tuo\nmetu Rytų Europą užplūdusius totorius\ngausiai suverbuoti kryžininkai."
+  citata_rodoma: |
+    ), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį. Į šią kry-
+    žiaus karo akciją buvo įtraukti ir prieš tuo
+    metu Rytų Europą užplūdusius totorius
+    gausiai suverbuoti kryžininkai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

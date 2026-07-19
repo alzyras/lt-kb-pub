@@ -95,7 +95,9 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
     prieiti kaimynystėje gyvenančių tikėjimo priešų. Mat ten esama pelkių ir kitų pavojingų
     vietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma
     pereiti.
-  citata_rodoma: "334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau\nAlenburgo (dab. Družba). Piliavietėje vėliau buvo pastatyta bažnyčia (Ewald A."
+  citata_rodoma: |
+    334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau
+    Alenburgo (dab. Družba). Piliavietėje vėliau buvo pastatyta bažnyčia (Ewald A.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -114,7 +116,13 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
     ir patraukė  į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito
     pilį334, ir anksčiau aprašytu būdu ją užėmė; paėmęs pilyje ir jos apylinkėse daug žmonių
     į nelaisvę  ir daug nukovęs, ją  iki pamatų sudegino. Pilėnai, gyvenę kitose trijose
-  citata_rodoma: "Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė\n\n   Kitais metais (1256) tas pats Karaliaučiaus komtūras vėl sutelkė stiprią kariuomenę\nir patraukė  į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito\npilį334, ir anksčiau aprašytu būdu ją užėmė; paėmęs pilyje ir jos apylinkėse daug žmonių\nį nelaisvę  ir daug nukovęs, ją  iki pamatų sudegino."
+  citata_rodoma: |
+    Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė
+
+       Kitais metais (1256) tas pats Karaliaučiaus komtūras vėl sutelkė stiprią kariuomenę
+    ir patraukė  į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito
+    pilį334, ir anksčiau aprašytu būdu ją užėmė; paėmęs pilyje ir jos apylinkėse daug žmonių
+    į nelaisvę  ir daug nukovęs, ją  iki pamatų sudegino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

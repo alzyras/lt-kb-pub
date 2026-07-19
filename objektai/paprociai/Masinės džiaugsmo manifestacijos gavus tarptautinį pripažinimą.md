@@ -109,7 +109,8 @@ Nenurodyta
     sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
     Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
     susirinko prie laikinosios sostinės Kauno rotušės.
-  citata_rodoma: "Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių"
+  citata_rodoma: |
+    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

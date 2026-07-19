@@ -239,7 +239,20 @@ Nenurodyta
     tas jų imperatoriaus titulas. Tačiau, nepaisant viso to,
     Odoakras gavo tai, ko geidė, nors italai nelabai buvo
     linkę jį remti.
-  citata_rodoma: "Dėl to Romos se­\nnatas nusiuntė į Konstantinopolį pasiuntinius, pranešda­\nmas, jog nereikia skelbti imperatorių Romoje, nes aukš­\nčiausio rango pareigūnas yra Rytų imperijoje; imperato­\nrius gali drąsiai pasikliauti dora ir karingumu Odoakro \nkaip patricijaus, kuriam jis teikiasi patikėti valdžią italų \ndiecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­\nsiuntinius, kurie, demonstruodami nuolankumą, turėjo \nprašyti patvirtinti senato reikalavimus. Taip pat atvyko \nir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­\ntas jų imperatoriaus titulas. Tačiau, nepaisant viso to, \nOdoakras gavo tai, ko geidė, nors italai nelabai buvo \nlinkę jį remti."
+  citata_rodoma: |
+    Dėl to Romos se­
+    natas nusiuntė į Konstantinopolį pasiuntinius, pranešda­
+    mas, jog nereikia skelbti imperatorių Romoje, nes aukš­
+    čiausio rango pareigūnas yra Rytų imperijoje; imperato­
+    rius gali drąsiai pasikliauti dora ir karingumu Odoakro
+    kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
+    diecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­
+    siuntinius, kurie, demonstruodami nuolankumą, turėjo
+    prašyti patvirtinti senato reikalavimus. Taip pat atvyko
+    ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
+    tas jų imperatoriaus titulas. Tačiau, nepaisant viso to,
+    Odoakras gavo tai, ko geidė, nors italai nelabai buvo
+    linkę jį remti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -269,7 +282,21 @@ Nenurodyta
     berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
     problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
     trečdalį žemės valdų1.
-  citata_rodoma: "Tuo \nmetu Rytų rūmai nedviprasmiškai patvirtino Odoakrą \nItalijos vietininku, pavesdami jam visą valdžią ir Dal­\nmatijoje, kurios imperatorius buvo miręs. Odoakras ne­\ntrukus perleido šią provinciją visigotų karaliui Evarikui, \nnorėdamas taip pelnyti jo palankumą, o kiek anksčiau \njis užmezgė draugiškus santykius su galingu Afrikos \nvandalų karaliumi Genseriku, iš kurio tam tikromis są­\nlygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių \nvadovų Zenono, Evariko ir Genseriko, kurie galėjo jam \npakenkti, palankumą, jis, dorybingo ministro romėno Li- \nberijaus remiamas, sutelkė visą dėmesį į Italijos vidaus \nproblemas; samdyta kariuomenė, kaip buvo žadėta, gavo \ntrečdalį žemės valdų1."
+  citata_rodoma: |
+    Tuo
+    metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
+    Italijos vietininku, pavesdami jam visą valdžią ir Dal­
+    matijoje, kurios imperatorius buvo miręs. Odoakras ne­
+    trukus perleido šią provinciją visigotų karaliui Evarikui,
+    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
+    jis užmezgė draugiškus santykius su galingu Afrikos
+    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
+    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
+    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
+    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
+    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
+    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
+    trečdalį žemės valdų1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

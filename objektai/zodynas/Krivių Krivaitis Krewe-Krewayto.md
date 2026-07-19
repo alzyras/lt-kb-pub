@@ -123,7 +123,16 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
     kurie savo valia paliepdavo juos sudeginti ant laužo, kai bus
     sulaukę žilos senatvės, jie paprastai surengdavo liaudžiai tokį
     pat reginį.
-  citata_rodoma: "Taigi Vai­\ndevutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,\nbuvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­\ngaikščiai .\nTikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,\npanašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-\nbad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.\nDėl krivio pavadinimo kilmės buvo daug spėliojimų, bet\njų visiškai negalima pripažinti teisingais."
+  citata_rodoma: |
+    Taigi Vai­
+    devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
+    buvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­
+    gaikščiai .
+    Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,
+    panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-
+    bad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.
+    Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
+    jų visiškai negalima pripažinti teisingais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -151,7 +160,14 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
     žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
     tvarką (pas Hartknochą, p. 149):
     1.
-  citata_rodoma: "Pretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų\nžynių vyriausiąjį žynį."
+  citata_rodoma: |
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
+    žynių vyriausiąjį žynį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

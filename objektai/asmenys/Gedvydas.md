@@ -69,7 +69,10 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
     Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
     Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
     remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
-  citata_rodoma: "Stiprindamas centrinę valdžią\nMindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,\nremiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą."
+  citata_rodoma: |
+    Stiprindamas centrinę valdžią
+    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
+    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

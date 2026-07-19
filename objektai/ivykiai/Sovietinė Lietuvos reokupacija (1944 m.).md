@@ -106,7 +106,9 @@ Nenurodyta
     krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
     titulai. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
     1940 m.
-  citata_rodoma: "Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, \n1940 m."
+  citata_rodoma: |
+    Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
+    1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

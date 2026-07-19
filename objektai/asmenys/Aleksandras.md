@@ -311,7 +311,11 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
-  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
+  citata_rodoma: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -340,7 +344,22 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     pranešti, kad chanas labai noriai laikysis ge-
     gužės mėnesį suderėtos taikos. Pasiuntinys
     taip pat gabeno Kazanės chano Mahometo-
-  citata_rodoma: "Mūšio\nnugalėtojas Mykolas\nGlinskis triumfuo-\ndamas grįžo į Vilnių\n\nYD rugpjūčio 12 d. Džiugi\n\nžinia dar spėjo pasiekti\n\nmirštantį valdovą Aleksandrą.\nMengli-Girėjus, gavęs žinią apie toto-\nriams fatališkai pasibaigusį mūšį, tuojau pat\nišsiuntė savo pasiuntinį į Vilnių, kuris turėjo\npranešti, kad chanas labai noriai laikysis ge-\ngužės mėnesį suderėtos taikos."
+  citata_rodoma: |
+    Mūšio
+    nugalėtojas Mykolas
+    Glinskis triumfuo-
+    damas grįžo į Vilnių
+
+    YD rugpjūčio 12 d. Džiugi
+
+    žinia dar spėjo pasiekti
+
+    mirštantį valdovą Aleksandrą.
+    Mengli-Girėjus, gavęs žinią apie toto-
+    riams fatališkai pasibaigusį mūšį, tuojau pat
+    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
+    pranešti, kad chanas labai noriai laikysis ge-
+    gužės mėnesį suderėtos taikos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

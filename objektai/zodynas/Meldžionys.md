@@ -107,12 +107,18 @@ Vartojamos formos: `meldžionis`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir
-        piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už
-        savo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,
-        randami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo
-        numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
-        keleivių miegančių budinti.
-  citata_rodoma: "meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir\npiktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už\nsavo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,\nrandami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo\nnumirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų\nkeleivių miegančių budinti."
+    piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už
+    savo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,
+    randami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo
+    numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
+    keleivių miegančių budinti.
+  citata_rodoma: |
+    meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir
+    piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už
+    savo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,
+    randami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo
+    numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
+    keleivių miegančių budinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

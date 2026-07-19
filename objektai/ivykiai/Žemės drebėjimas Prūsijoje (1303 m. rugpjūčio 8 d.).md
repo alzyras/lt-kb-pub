@@ -82,7 +82,12 @@ Nenurodyta
     Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.
     Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs. Ką reiškė
     šis antgamtiškas žemės drebėjimas, paaiškės vėliau.
-  citata_rodoma: "Apie žemės drebėjimą Prūsijos žemėje\n\n  Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.\nTris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs. Ką reiškė\nšis antgamtiškas žemės drebėjimas, paaiškės vėliau."
+  citata_rodoma: |
+    Apie žemės drebėjimą Prūsijos žemėje
+
+      Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.
+    Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs. Ką reiškė
+    šis antgamtiškas žemės drebėjimas, paaiškės vėliau.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

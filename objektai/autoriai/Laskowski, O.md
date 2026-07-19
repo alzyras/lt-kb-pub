@@ -63,12 +63,17 @@ Laskowski, O.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
+    — Laskowski,
     O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
     Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­
     ne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
     Deutschen und Polen-Litauen 1409-11_ , Elbing 1910.
-  citata_rodoma: "— Laskowski,\nO. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —\nMajewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­\nne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den\nDeutschen und Polen-Litauen 1409-11_ , Elbing 1910."
+  citata_rodoma: |
+    — Laskowski,
+    O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
+    Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­
+    ne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
+    Deutschen und Polen-Litauen 1409-11_ , Elbing 1910.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -144,7 +144,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
-  citata_rodoma: "Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,"
+  citata_rodoma: |
+    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -184,7 +185,18 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     kio lygintuvo liekanas, iškastas Obeliuose). Pas vyrus dažnai ras­
     davo titnagą ugniai skelti arba skiltuvo likučių, taip pat galąstu­
     vų skiltuvams su skylute, skirta pakabinti ant dirželio.
-  citata_rodoma: "Mes gi apie tai nieko negalime pasakyti*.\n362\n\n## Puslapis 362\n\nHuronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­\ntos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,\nšeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­\nsius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad\nbūtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­\nje; verkia, priekaištauja, kam juos paliko."
+  citata_rodoma: |
+    Mes gi apie tai nieko negalime pasakyti*.
+    362
+
+    ## Puslapis 362
+
+    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
+    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
+    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
+    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
+    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
+    je; verkia, priekaištauja, kam juos paliko.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

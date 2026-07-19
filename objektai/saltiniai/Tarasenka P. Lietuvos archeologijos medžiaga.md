@@ -135,7 +135,8 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   citata_originali: |
     С. А. Аннинский. — М.—Л., 1938.
     Грушевский М. Хронольопя подïй Галицько-волинськоï лïтописи.
-  citata_rodoma: "Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928."
+  citata_rodoma: |
+    Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

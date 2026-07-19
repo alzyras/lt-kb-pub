@@ -118,7 +118,10 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
     lia.
-  citata_rodoma: "Aestuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,\nseklias vietas, kurios kartais būva apsemtos, o kartais —\nsausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
+  citata_rodoma: |
+    Aestuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    seklias vietas, kurios kartais būva apsemtos, o kartais —
+    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

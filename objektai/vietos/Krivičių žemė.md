@@ -102,7 +102,12 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
     visa savo kariuomene į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
     569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
     centrinėje Žemaitijoje (SZM, p. 223— 226).
-  citata_rodoma: "Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą\n\n  Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su\nvisa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų\n  569 D."
+  citata_rodoma: |
+    Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
+
+      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
+    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
+      569 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -122,7 +127,11 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
     šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
     papilį, nukovė daug žmonių, 78 paėmė į nelaisvę, o jį sudegino ligi pamatų. Po to jie
     nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
-  citata_rodoma: "571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis\nvadina Naugarduko žemę Nemuno aukštupyje. Naugarduko regioną krivičiai apgyvendino\nI m. e. tūkstantmečio 2-oje pusėje (Гуревич Ф. Д., Древности..., с. 76; Ochmański J.,\nLitewska granica..., p. 27—33). Žr. Zinkevičius Z., Lietuvių kalbos kilmė, p. 252."
+  citata_rodoma: |
+    571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis
+    vadina Naugarduko žemę Nemuno aukštupyje. Naugarduko regioną krivičiai apgyvendino
+    I m. e. tūkstantmečio 2-oje pusėje (Гуревич Ф. Д., Древности..., с. 76; Ochmański J.,
+    Litewska granica..., p. 27—33). Žr. Zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

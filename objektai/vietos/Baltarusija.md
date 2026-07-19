@@ -290,7 +290,10 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
     rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
     Lietuva, o šiandien ją vadiname istorine Lietuva.
-  citata_rodoma: "Būtent visa šios valstybės terito-\nrija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti \nLietuva, o šiandien ją vadiname istorine Lietuva."
+  citata_rodoma: |
+    Būtent visa šios valstybės terito-
+    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -312,7 +315,11 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+  citata_rodoma: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -329,7 +336,10 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
     kašenkos diktatūrinis valdymas. 1990 m. gegužės 12 d. Lietuva, Latvija ir
     Estija atnaujino 1934 m.
-  citata_rodoma: "Gerai klostėsi ekonominiai san-\ntykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-\nkašenkos diktatūrinis valdymas."
+  citata_rodoma: |
+    Gerai klostėsi ekonominiai san-
+    tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
+    kašenkos diktatūrinis valdymas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -426,7 +436,18 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
     pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
     čių.
-  citata_rodoma: "Paprastai jos būva netoli gyvenviečių\narba joms tinkamose vietose.\nNors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių."
+  citata_rodoma: |
+    Paprastai jos būva netoli gyvenviečių
+    arba joms tinkamose vietose.
+    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
+    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
+    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
+    palei senas Rusijos sienas su Lietuvos valstybe, de­
+    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
+    Lietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-
+    žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
+    pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
+    čių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

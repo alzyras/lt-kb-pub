@@ -80,7 +80,10 @@ Mulevičius 120.
     apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
     1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
     kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955).
-  citata_rodoma: ")^119 ;\napie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.\n1905 m."
+  citata_rodoma: |
+    )^119 ;
+    apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
+    1905 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

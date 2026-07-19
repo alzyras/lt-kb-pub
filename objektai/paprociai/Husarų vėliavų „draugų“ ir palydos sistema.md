@@ -224,7 +224,11 @@ Nenurodyta
     zistavo ATR iki XVIII a.
 
     _ palydos poreikius.
-  citata_rodoma: "Husarai ir jų XVII a. pavyzdžio organizacija eg-\nzistavo ATR iki XVIII a.\n\n_ palydos poreikius."
+  citata_rodoma: |
+    Husarai ir jų XVII a. pavyzdžio organizacija eg-
+    zistavo ATR iki XVIII a.
+
+    _ palydos poreikius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -247,7 +251,16 @@ Nenurodyta
     pralaužiamosios kavalerijos atakos nebuvo naudojamos
 
     tai, sudarę vėliavą.
-  citata_rodoma: "„Draugų“ palydos buvo vieninteliai viene-\n\nLietuvos ir Lenkijos husarai - vienintelė xvii a.\n\n„šoko kavalerija“ Europoje. ATR kariuomenės pratęsė\nEuropos riterių atakos tradiciją, o Vakarų Europoje xVII a.\npralaužiamosios kavalerijos atakos nebuvo naudojamos\n\ntai, sudarę vėliavą."
+  citata_rodoma: |
+    „Draugų“ palydos buvo vieninteliai viene-
+
+    Lietuvos ir Lenkijos husarai - vienintelė xvii a.
+
+    „šoko kavalerija“ Europoje. ATR kariuomenės pratęsė
+    Europos riterių atakos tradiciją, o Vakarų Europoje xVII a.
+    pralaužiamosios kavalerijos atakos nebuvo naudojamos
+
+    tai, sudarę vėliavą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -164,7 +164,10 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­
     rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
     dengti nuo visų Kęstučio įtarimų.
-  citata_rodoma: "tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­\nrymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­\ndengti nuo visų Kęstučio įtarimų."
+  citata_rodoma: |
+    tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­
+    rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
+    dengti nuo visų Kęstučio įtarimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

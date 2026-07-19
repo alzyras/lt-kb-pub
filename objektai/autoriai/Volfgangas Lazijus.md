@@ -132,7 +132,14 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
     svaresnių pastabų dėl lietuvių kalbos. Gaila, kad Ksavero Bogušo
     jau nebebuvo tarp
     gyvųjų!
-  citata_rodoma: "Gal būtų pra­\ndingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu\nne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris\nją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš\npastarojo tas užrašas buvo įdėtas į Londono „Sylloge“. Tą mal­\ndą į savo knygas vėliau įrašė gdanskietis Kliuverijus (Liuvenus),\no vėliau — Dusburgo tęsėjas Hartknochas."
+  citata_rodoma: |
+    Gal būtų pra­
+    dingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu
+    ne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris
+    ją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš
+    pastarojo tas užrašas buvo įdėtas į Londono „Sylloge“. Tą mal­
+    dą į savo knygas vėliau įrašė gdanskietis Kliuverijus (Liuvenus),
+    o vėliau — Dusburgo tęsėjas Hartknochas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

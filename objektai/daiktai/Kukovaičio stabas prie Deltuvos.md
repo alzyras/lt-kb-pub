@@ -94,7 +94,11 @@ Nenurodyta
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
-  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
+  citata_rodoma: |
+    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
+    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
+    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
+    milžino išvaizdos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -205,7 +205,13 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     susirėmimų nustūmė rusus nuo miesto,
     apsupo sumenkusias priešo pajėgas ir
     1634 m. sausio 24 d. privertė kapituliuoti.
-  citata_rodoma: "ATR valdovo\nVladislovo Vazos vadovaujama jungtinė\nlietuvių ir lenkų kariuomenė po atkaklių\nsusirėmimų nustūmė rusus nuo miesto,\napsupo sumenkusias priešo pajėgas ir\n1634 m. sausio 24 d. privertė kapituliuoti."
+  citata_rodoma: |
+    ATR valdovo
+    Vladislovo Vazos vadovaujama jungtinė
+    lietuvių ir lenkų kariuomenė po atkaklių
+    susirėmimų nustūmė rusus nuo miesto,
+    apsupo sumenkusias priešo pajėgas ir
+    1634 m. sausio 24 d. privertė kapituliuoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -221,7 +227,8 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     b. Vladislovo Vazoslaikai (1632—1648 m.)
     9. Vladislovo asmuo ir elekcija 315
     10.
-  citata_rodoma: "9. Vladislovo asmuo ir elekcija 315"
+  citata_rodoma: |
+    9. Vladislovo asmuo ir elekcija 315
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -244,7 +251,12 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     menės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas
     Vladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos
     kariuomenes, siekdamas didinti ugnies galią.
-  citata_rodoma: "1626-1629 m. Lietuvos\nir Lenkijos kariuomenėms teko patirti naujosios Švedijos kariuo-\nmenės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas\nVladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos\nkariuomenes, siekdamas didinti ugnies galią."
+  citata_rodoma: |
+    1626-1629 m. Lietuvos
+    ir Lenkijos kariuomenėms teko patirti naujosios Švedijos kariuo-
+    menės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas
+    Vladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos
+    kariuomenes, siekdamas didinti ugnies galią.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -264,7 +276,10 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     jais tik per delegatus. Bet XVII amžiuje, kai, pradedant Vladis-
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
     atskiri Lietuvos seimai ėmė nykti.
-  citata_rodoma: "Bet XVII amžiuje, kai, pradedant Vladis-\n  lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie\n  atskiri Lietuvos seimai ėmė nykti."
+  citata_rodoma: |
+    Bet XVII amžiuje, kai, pradedant Vladis-
+      lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
+      atskiri Lietuvos seimai ėmė nykti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -281,7 +296,9 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     dymo periodas buvo pilnas sunkių karų. Kiek mažiau jų buvo
     tik Vladislovo laikais, bet Jono Kazimiero laikais visa Lietuva
     buvo nuteriota Maskvos ir Švedų kariuomenių.
-  citata_rodoma: "Kiek mažiau jų buvo tik Vladislovo laikais, bet Jono Kazimiero\n  laikais visa Lietuva buvo nuteriota Maskvos ir Švedų kariuomenių."
+  citata_rodoma: |
+    Kiek mažiau jų buvo tik Vladislovo laikais, bet Jono Kazimiero
+      laikais visa Lietuva buvo nuteriota Maskvos ir Švedų kariuomenių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -297,7 +314,8 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     Stp. Batoro ir Zigmanto Vazos lietuviai iš pradžių
     net nepripažino savo didžiaisiais kunigaikščiais. Bet Vladislovas
     Vaza jau buvo bendrai išrinktas.
-  citata_rodoma: "Bet Vladislovas Vaza jau buvo bendrai išrinktas."
+  citata_rodoma: |
+    Bet Vladislovas Vaza jau buvo bendrai išrinktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -316,7 +334,13 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     naujasis Abiejų Tautų Respublikos val-
     dovas Vladislovas Vaza su 15 tūkst. ka-
     riuomene. Rusų pajėgų padėtis ėmė
-  citata_rodoma: "žiemą į pagalbą atskubėjo tuo-\nmetinis Lietuvos lauko etmonas Kristupas\nRadvila 11. Rugsėjį į frontą atvyko ir\nnaujasis Abiejų Tautų Respublikos val-\ndovas Vladislovas Vaza su 15 tūkst. ka-\nriuomene."
+  citata_rodoma: |
+    žiemą į pagalbą atskubėjo tuo-
+    metinis Lietuvos lauko etmonas Kristupas
+    Radvila 11. Rugsėjį į frontą atvyko ir
+    naujasis Abiejų Tautų Respublikos val-
+    dovas Vladislovas Vaza su 15 tūkst. ka-
+    riuomene.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -339,7 +363,16 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     Tačiau galiausiai Rusijoje kilo didelis suki-
     limas, Maskvoje įsitvirtinę lenkai ir lietu-
     viai buvo apsupti ir priversti kapituliuoti.
-  citata_rodoma: "su-\n\nmušusi rusus prie Klušino, užėmė Maskvą.\n\nDalis Rusijos bojarinų naujuoju caru iš-\nrinko Zigmanto Vazos sūnų Vladislovą.\nTačiau galiausiai Rusijoje kilo didelis suki-\nlimas, Maskvoje įsitvirtinę lenkai ir lietu-\nviai buvo apsupti ir priversti kapituliuoti."
+  citata_rodoma: |
+    su-
+
+    mušusi rusus prie Klušino, užėmė Maskvą.
+
+    Dalis Rusijos bojarinų naujuoju caru iš-
+    rinko Zigmanto Vazos sūnų Vladislovą.
+    Tačiau galiausiai Rusijoje kilo didelis suki-
+    limas, Maskvoje įsitvirtinę lenkai ir lietu-
+    viai buvo apsupti ir priversti kapituliuoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

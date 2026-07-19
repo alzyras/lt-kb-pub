@@ -83,19 +83,31 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo į
-    dykras Bartos žemėje, į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog,
-    turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė
-    belaisviams krikščionims, kurie ten pat stovėjo supančioti: „Kur jūsų dievas, kodėl
-    jis jums nepadeda, kaip mums padėjo mūsų dievai dabar ir kitados564?“ Krikščionys
-    dūsaudami tylėjo. Po kelių dienų, tai yra balandžio 8, atžygiavo brolis Henrikas iš Plockės,
-    didysis komtūras, bei 150 brolių su daugybe žmonių ir užėjo karalių bei jo kariuomenę,
-    iš visų pusių apsitverusią užtvaromis; priartėjus priekiniams būriams, lietuviai nukovė
-    60 krikščionių, tačiau netrukus, kai jie išvydo iš paskos atžygiuojančius brolius su jų
-    vėliava bei galybę ginkluotų vyrų, juos pagavo tokia baimė ir taip jiems sukrupo širdys,
-    kad neturėjo jėgų daugiau priešintis; dėl to vienu akies mirksniu metė ginklus ir leidosi
-    bėgti.
-  citata_rodoma: "Apie [giesmę] „Sveika, Marija“\n\n  Tuo metu, 1309 metais brolius kamavo galybė visokeriopų vargų. Todėl tas pats brolis\nZigfridas, magistras, nutarė, kad broliai vienuoliai po atskirų liturginių valandų giedotų\nantifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą\n„Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai\nmergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.\n\n\n\n\n             306 (299)."
+    Apie [giesmę] „Sveika, Marija“
+
+      Tuo metu, 1309 metais brolius kamavo galybė visokeriopų vargų. Todėl tas pats brolis
+    Zigfridas, magistras, nutarė, kad broliai vienuoliai po atskirų liturginių valandų giedotų
+    antifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą
+    „Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai
+    mergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.
+
+
+
+
+                 306 (299).
+  citata_rodoma: |
+    Apie [giesmę] „Sveika, Marija“
+
+      Tuo metu, 1309 metais brolius kamavo galybė visokeriopų vargų. Todėl tas pats brolis
+    Zigfridas, magistras, nutarė, kad broliai vienuoliai po atskirų liturginių valandų giedotų
+    antifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą
+    „Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai
+    mergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.
+
+
+
+
+                 306 (299).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

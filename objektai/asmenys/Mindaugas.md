@@ -1268,7 +1268,9 @@ media_all_json: |-
     nes, kaip žinia, tais metais jis padaręs didelį žygį į Mozūrus.
     1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
     30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
-  citata_rodoma: "1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su\n30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 )."
+  citata_rodoma: |
+    1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
+    30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1304,7 +1306,10 @@ media_all_json: |-
     koji lietuvių partija. Dėl tos giminės nesantaikos 1263 met. ir
     padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
     nežuvo.
-  citata_rodoma: "Dėl tos giminės nesantaikos 1263 met. ir\npadėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas\nnežuvo."
+  citata_rodoma: |
+    Dėl tos giminės nesantaikos 1263 met. ir
+    padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
+    nežuvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1324,7 +1329,11 @@ media_all_json: |-
     karaliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama
     Ordinui labai sustiprėjo. 1274 m. sukilimas buvo visiškai už-
     gniaužtas.
-  citata_rodoma: "1260 m. kilus didžiajam prūsų sukilimui, Lietuva\nsiuntė prūsams savo kariuomenę į pagalbą, tačiau, žuvus Lietuvos\nkaraliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama\nOrdinui labai sustiprėjo. 1274 m."
+  citata_rodoma: |
+    1260 m. kilus didžiajam prūsų sukilimui, Lietuva
+    siuntė prūsams savo kariuomenę į pagalbą, tačiau, žuvus Lietuvos
+    karaliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama
+    Ordinui labai sustiprėjo. 1274 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1559,7 +1568,16 @@ media_all_json: |-
     kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
     Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
     išpranašaus Vilniaus įkūrimą ir šlovę.
-  citata_rodoma: "Lietuva \nliko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis \nir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar \ngyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo \nlaikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir \niki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, \nkiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas \nGedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir \nišpranašaus Vilniaus įkūrimą ir šlovę."
+  citata_rodoma: |
+    Lietuva
+    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
+    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
+    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
+    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
+    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
+    išpranašaus Vilniaus įkūrimą ir šlovę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1620,7 +1638,20 @@ media_all_json: |-
     kurią
     tik valiojo pasiekti jų stai­
     gus įsiūtis.
-  citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
+  citata_rodoma: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1848,7 +1879,14 @@ media_all_json: |-
     kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
     Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
     tvarkos, kokia buvo ir kitur.
-  citata_rodoma: "Vilnius, Gedimino dėka nuo mažos gyvenvie­\ntės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos\nkaralystės sostine. Valstybėje nusistovėjus leninio valdymo\nprincipams, Gedimino veiklumo ir didžių jo politinių sie­\nkių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;\nVilnius savo kilimo pradžioje turėjo laikytis tokios pačios\ntvarkos, kokia buvo ir kitur."
+  citata_rodoma: |
+    Vilnius, Gedimino dėka nuo mažos gyvenvie­
+    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
+    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
+    principams, Gedimino veiklumo ir didžių jo politinių sie­
+    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
+    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
+    tvarkos, kokia buvo ir kitur.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -1889,7 +1927,9 @@ media_all_json: |-
     nes, kaip žinia, tais metais jis padaręs didelį žygį į Mozūrus.
     1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
     30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
-  citata_rodoma: "1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su\n30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 )."
+  citata_rodoma: |
+    1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
+    30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -1949,7 +1989,11 @@ media_all_json: |-
     karaliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama
     Ordinui labai sustiprėjo. 1274 m. sukilimas buvo visiškai už-
     gniaužtas.
-  citata_rodoma: "1260 m. kilus didžiajam prūsų sukilimui, Lietuva\nsiuntė prūsams savo kariuomenę į pagalbą, tačiau, žuvus Lietuvos\nkaraliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama\nOrdinui labai sustiprėjo. 1274 m."
+  citata_rodoma: |
+    1260 m. kilus didžiajam prūsų sukilimui, Lietuva
+    siuntė prūsams savo kariuomenę į pagalbą, tačiau, žuvus Lietuvos
+    karaliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama
+    Ordinui labai sustiprėjo. 1274 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -2001,7 +2045,13 @@ media_all_json: |-
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
     veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
     Mindaugą.
-  citata_rodoma: "Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-\ndaugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos \nšalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-\nvas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu. \nNalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), \nveikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m."
+  citata_rodoma: |
+    Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
+    daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos
+    šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-
+    vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu.
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
+    veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -2091,7 +2141,10 @@ media_all_json: |-
     koji lietuvių partija. Dėl tos giminės nesantaikos 1263 met. ir
     padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
     nežuvo.
-  citata_rodoma: "Dėl tos giminės nesantaikos 1263 met. ir\npadėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas\nnežuvo."
+  citata_rodoma: |
+    Dėl tos giminės nesantaikos 1263 met. ir
+    padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
+    nežuvo.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -2135,7 +2188,16 @@ media_all_json: |-
     kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
     Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
     išpranašaus Vilniaus įkūrimą ir šlovę.
-  citata_rodoma: "Lietuva \nliko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis \nir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar \ngyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo \nlaikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir \niki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, \nkiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas \nGedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir \nišpranašaus Vilniaus įkūrimą ir šlovę."
+  citata_rodoma: |
+    Lietuva
+    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
+    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
+    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
+    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
+    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
+    išpranašaus Vilniaus įkūrimą ir šlovę.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -2246,7 +2308,14 @@ media_all_json: |-
     kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
     Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
     tvarkos, kokia buvo ir kitur.
-  citata_rodoma: "Vilnius, Gedimino dėka nuo mažos gyvenvie­\ntės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos\nkaralystės sostine. Valstybėje nusistovėjus leninio valdymo\nprincipams, Gedimino veiklumo ir didžių jo politinių sie­\nkių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;\nVilnius savo kilimo pradžioje turėjo laikytis tokios pačios\ntvarkos, kokia buvo ir kitur."
+  citata_rodoma: |
+    Vilnius, Gedimino dėka nuo mažos gyvenvie­
+    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
+    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
+    principams, Gedimino veiklumo ir didžių jo politinių sie­
+    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
+    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
+    tvarkos, kokia buvo ir kitur.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -2318,7 +2387,15 @@ media_all_json: |-
     mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
     arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
     riai nužudyti.
-  citata_rodoma: "Viename jų, skirtame popiežiui ir kardinolams, Gediminas\nprašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta\nbūtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­\nro smurtas ir nesuskaičiuojamos išdavystės greit privertu-\nsios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­\nmo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos\narkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­\nriai nužudyti."
+  citata_rodoma: |
+    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
+    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
+    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
+    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
+    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
+    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
+    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
+    riai nužudyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas

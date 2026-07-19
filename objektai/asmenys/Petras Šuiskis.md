@@ -97,7 +97,13 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     iš Polocko traukė į Drucką. Čia jos turėjo
     susijungti ir pulti Minsko, Naugarduko, o
     vėliau Vilniaus kryptimi.
-  citata_rodoma: "Viena jų, vadovaujama\nkunigaikščio Baziliaus Serebriano, pajudėjo\niš Smolensko, kita, vadovaujama patyru-\nsio karvedžio kunigaikščio Petro Šuiskio,\n\niš Polocko traukė į Drucką."
+  citata_rodoma: |
+    Viena jų, vadovaujama
+    kunigaikščio Baziliaus Serebriano, pajudėjo
+    iš Smolensko, kita, vadovaujama patyru-
+    sio karvedžio kunigaikščio Petro Šuiskio,
+
+    iš Polocko traukė į Drucką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +128,13 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     riuomenei. Skubėdami užkirsti artėjančiam
     priešui kelią, raiteliai nelaukdami pėsti-
     ninkų ir artilerijos pajudėjo greitu maršu.
-  citata_rodoma: "Iš Polocko su savo kariuomene kuni-\ngaikštis P. Šuiskis pajudėjo sausio 23 d.\nApie tai Lietuvos didysis etmonas Myko-\nlas Radvila Rudasis žvalgų buvo greitai\ninformuotas, pats jis tuo metu buvo tik\napie 100 km nuo Polocko, Lukomlyje."
+  citata_rodoma: |
+    Iš Polocko su savo kariuomene kuni-
+    gaikštis P. Šuiskis pajudėjo sausio 23 d.
+    Apie tai Lietuvos didysis etmonas Myko-
+    las Radvila Rudasis žvalgų buvo greitai
+    informuotas, pats jis tuo metu buvo tik
+    apie 100 km nuo Polocko, Lukomlyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

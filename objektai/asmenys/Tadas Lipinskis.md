@@ -53,14 +53,21 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    M. Balinskis pa­
+    Balinskis pa­
     liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
     čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
     istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
     tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
     rašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai,
     jų geografinė padėtis, trumpa istorinė apžvalga.
-  citata_rodoma: "Balinskis pa­\nliko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­\nčiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos \nistorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys \ntomai, kurių vienas skirtas LDK istoriniam topografiniam ap­\nrašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai, \njų geografinė padėtis, trumpa istorinė apžvalga."
+  citata_rodoma: |
+    Balinskis pa­
+    liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
+    čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
+    istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
+    tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
+    rašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai,
+    jų geografinė padėtis, trumpa istorinė apžvalga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

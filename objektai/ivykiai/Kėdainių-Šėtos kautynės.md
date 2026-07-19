@@ -241,7 +241,15 @@ Nenurodyta
     Lietuviams atiteko kelios dešimtys šautuvų,
 
     1919 m. vasario 7-10 d. KEDAINIU-SETOS KAUTYNES
-  citata_rodoma: "Nukauti\nbolševikai su visomis kariškomis apeigo-\nmis buvo palaidoti Didžiojo karo aukų\nkapinėse. Naujosiose Kėdainių kapinėse\nbuvo palaidoti ir 40 žuvusių lietuvių karių.\nLietuviams atiteko kelios dešimtys šautuvų,\n\n1919 m."
+  citata_rodoma: |
+    Nukauti
+    bolševikai su visomis kariškomis apeigo-
+    mis buvo palaidoti Didžiojo karo aukų
+    kapinėse. Naujosiose Kėdainių kapinėse
+    buvo palaidoti ir 40 žuvusių lietuvių karių.
+    Lietuviams atiteko kelios dešimtys šautuvų,
+
+    1919 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -269,7 +277,15 @@ Nenurodyta
     tarp bolševikų ir Šilginėlių
     kaime buvusios lietuvių
     sargybos įvyko smarkus
-  citata_rodoma: "Toks buvo\npirmasis Kėdainių įgulos sava-\nnorių kovos krikštas.\nRaudonarmiečiai,\nmatydami, jog jų\nartilerija lietuvių\n\nDar tą pačią vasario 7 d."
+  citata_rodoma: |
+    Toks buvo
+    pirmasis Kėdainių įgulos sava-
+    norių kovos krikštas.
+    Raudonarmiečiai,
+    matydami, jog jų
+    artilerija lietuvių
+
+    Dar tą pačią vasario 7 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -109,7 +109,10 @@ Nenurodyta
     skritimi. Ir Medraboje buvo panaši pilis, priklausiusi ba­
     jorų Kandeimų giminei, kurios vardas vėliau pelnė kraš­
     to istorijoje didelę šlovę.
-  citata_rodoma: "Natangijoje, būdavo užkuriami karo laužai, kai prireik­\ndavo įspėti žmones, kurie stodavo po garsių karvedžių\nvėliavomis, jei priešas išsilaipindavo pakrantėse."
+  citata_rodoma: |
+    Natangijoje, būdavo užkuriami karo laužai, kai prireik­
+    davo įspėti žmones, kurie stodavo po garsių karvedžių
+    vėliavomis, jei priešas išsilaipindavo pakrantėse.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

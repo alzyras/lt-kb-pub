@@ -73,7 +73,11 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
     ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), bet ir
     davė gana įžvalgią ir šaltiniais paremtą monografiją apie Švitri­
     gailą (LePS).
-  citata_rodoma: "Taip pat vertingą įnašą davė A. Lewickis, kuris\nne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), bet ir\ndavė gana įžvalgią ir šaltiniais paremtą monografiją apie Švitri­\ngailą (LePS)."
+  citata_rodoma: |
+    Taip pat vertingą įnašą davė A. Lewickis, kuris
+    ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), bet ir
+    davė gana įžvalgią ir šaltiniais paremtą monografiją apie Švitri­
+    gailą (LePS).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -86,7 +86,8 @@ Nenurodyta
     šalių, ir Lenkijos interesams. Tiesa, Latvija 1921 m. vasario 16 d. pripaži-
     no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė
     parama.
-  citata_rodoma: "no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė"
+  citata_rodoma: |
+    no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

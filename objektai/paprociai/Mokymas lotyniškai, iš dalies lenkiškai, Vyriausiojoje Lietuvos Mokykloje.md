@@ -81,7 +81,8 @@ Nenurodyta
     filosofijos, teologijos ir teisės mokslų. Fizinėje kolegijoje
     buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
     V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
-  citata_rodoma: "Tuo būdu V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai."
+  citata_rodoma: |
+    Tuo būdu V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -100,7 +101,10 @@ Nenurodyta
     Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-
     kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
     t. y. jau universiteto laikais).
-  citata_rodoma: "Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-\nkai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,\nt. y. jau universiteto laikais)."
+  citata_rodoma: |
+    Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-
+    kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
+    t. y. jau universiteto laikais).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

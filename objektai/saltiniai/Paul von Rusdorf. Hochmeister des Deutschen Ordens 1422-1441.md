@@ -67,8 +67,12 @@ Hoch­ meister des Deutschen Ordens 1414-1422 ; t.
     Hoch­
     meister des Deutschen Ordens 1414-1422_** **; t. 15, 1969, yra C. A. Lückerath :
     P** **_a_** **ul** **_von Rusdorf. Hochmeister des Deutschen Ordens 1422-1441._**
-    (^169) **Juos išskaičiuoja Z. Ivinskis : LASD, t. 5, 530-533 p.**
-  citata_rodoma: "Hoch­\nmeister des Deutschen Ordens 1414-1422_** **; t. 15, 1969, yra C. A. Lückerath :\nP** **_a_** **ul** **_von Rusdorf. Hochmeister des Deutschen Ordens 1422-1441._**\n(^169) **Juos išskaičiuoja Z."
+    (^169) **Juos išskaičiuoja Z.
+  citata_rodoma: |
+    Hoch­
+    meister des Deutschen Ordens 1414-1422_** **; t. 15, 1969, yra C. A. Lückerath :
+    P** **_a_** **ul** **_von Rusdorf. Hochmeister des Deutschen Ordens 1422-1441._**
+    (^169) **Juos išskaičiuoja Z.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

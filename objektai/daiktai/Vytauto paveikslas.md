@@ -127,7 +127,11 @@ Nenurodyta
     kunigaikščio paveikslas
      Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
     Architektas Vladimiras Dubeneckis (V. Augustino nuotrauka)
-  citata_rodoma: "Pasvalyje  \nypatinga ceremonija pagerbiamas keliaujantis po Lietuvą \nkunigaikščio paveikslas\n Vytauto Didžiojo karo muziejus, atidarytas 1935 m."
+  citata_rodoma: |
+    Pasvalyje
+    ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą
+    kunigaikščio paveikslas
+     Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -149,7 +153,12 @@ Nenurodyta
     muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
-  citata_rodoma: "Vytauto Didžiojo mirties \n500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo \nmuziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-\nveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-\nvos miestuose ir miesteliuose, jam pastatyti paminklai."
+  citata_rodoma: |
+    Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

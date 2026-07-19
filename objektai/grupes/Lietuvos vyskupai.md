@@ -61,7 +61,10 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
     kruoti vyskupai. Tada popiežius pasiskubino ir tam pavojui už­
     kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­
     klausančiam Kulmijos vyskupui karūnuoti Vytautą^1 ).
-  citata_rodoma: "Tada popiežius pasiskubino ir tam pavojui už­\nkirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­\nklausančiam Kulmijos vyskupui karūnuoti Vytautą^1 )."
+  citata_rodoma: |
+    Tada popiežius pasiskubino ir tam pavojui už­
+    kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­
+    klausančiam Kulmijos vyskupui karūnuoti Vytautą^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

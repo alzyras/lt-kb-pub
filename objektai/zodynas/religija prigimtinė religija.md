@@ -98,7 +98,13 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
     kūdikyste. Žmonės, iš pat pradžių kurdami savo religinę san­
     tvarką, ją visuomet grindė tikėjimu viena aukščiausiąja Esy­
     be, ir tai buvo pavadinta prigimtine religija.
-  citata_rodoma: "Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­\nmas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,\nkad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­\nvai išrado tai, ką mes vadiname proto religija. Tačiau jos lygis,\nvisuomenėms tobulėjant, įvairiose tautose pasirodė esąs ki­\ntoks."
+  citata_rodoma: |
+    Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
+    mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
+    kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
+    vai išrado tai, ką mes vadiname proto religija. Tačiau jos lygis,
+    visuomenėms tobulėjant, įvairiose tautose pasirodė esąs ki­
+    toks.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -125,7 +131,17 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
     tikėjimas Dievu pakilo į aukštesnį lygį; imta jį skleisti ir pritai­
     kyti dabartinėms reikmėms. Dėl to buvo išrasti atvaizdai, sim­
     boliai, paminklai, trofėjai.
-  citata_rodoma: "Tolesnis mąstymo vystyma­\nsis sustiprino instinktą, arba vidinę nuojautą, dėl savo niekin­\ngumo, dėl Dievo didybės ir jo amžinumo: tolesnė šios evoliu­\ncijos eiga pagimdė Dievo ypatybių ir jo išmintingiausių darbų\nsupratimą.\nSprendžiant iš visų senojo pasaulio paminklų, visų seno­\nvės padavimų, vieno Dievo pažinimas siekia žmonių giminės\nkūdikyste. Žmonės, iš pat pradžių kurdami savo religinę san­\ntvarką, ją visuomet grindė tikėjimu viena aukščiausiąja Esy­\nbe, ir tai buvo pavadinta prigimtine religija."
+  citata_rodoma: |
+    Tolesnis mąstymo vystyma­
+    sis sustiprino instinktą, arba vidinę nuojautą, dėl savo niekin­
+    gumo, dėl Dievo didybės ir jo amžinumo: tolesnė šios evoliu­
+    cijos eiga pagimdė Dievo ypatybių ir jo išmintingiausių darbų
+    supratimą.
+    Sprendžiant iš visų senojo pasaulio paminklų, visų seno­
+    vės padavimų, vieno Dievo pažinimas siekia žmonių giminės
+    kūdikyste. Žmonės, iš pat pradžių kurdami savo religinę san­
+    tvarką, ją visuomet grindė tikėjimu viena aukščiausiąja Esy­
+    be, ir tai buvo pavadinta prigimtine religija.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -174,7 +174,10 @@ Nenurodyta
     Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu
     pasislėpęs meldėsi viename koplyčios kampelyje.
     70 (69).
-  citata_rodoma: "314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die\nEroberung..., 3, p. 3; Wojtecki D., Studien..., p. 147) ir 1253—1254 m. žiema, tiksliau—\n1254 m. pradžia (Powierski J., Dobra..., p. 62—64)."
+  citata_rodoma: |
+    314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die
+    Eroberung..., 3, p. 3; Wojtecki D., Studien..., p. 147) ir 1253—1254 m. žiema, tiksliau—
+    1254 m. pradžia (Powierski J., Dobra..., p. 62—64).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

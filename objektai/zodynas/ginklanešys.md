@@ -183,7 +183,17 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino
     paprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku
     būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti.
-  citata_rodoma: "Apie Ragainės ir Skalvių pilių pastatymą\n\n  1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti\nkrikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio\nkankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei\nant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai\nreiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,\npalikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,\nsu 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,\npastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą."
+  citata_rodoma: |
+    Apie Ragainės ir Skalvių pilių pastatymą
+
+      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
+    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

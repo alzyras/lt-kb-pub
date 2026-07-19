@@ -82,7 +82,22 @@ Nenurodyta
     Il KNYGA
     mis didelėmis arkadomis ir dviem mažomis, jas laiko stul­
     pai.
-  citata_rodoma: "Durys pušinės, dvigubos, apkalinėtos, su geležiniais vyriais, \nnuo įėjimo einant tiesiai yra 3 pakopos iš plytų; 2 langai nuo \ngatvės pusės, be stiklų, į teatro prieangį, kur grindys ir lu­\nbos lentų, langų - 7, be stiklų, langinės kiekvieno dvigubos, \nmedinės, dažytos, su geležiniais vyriais ir geležiniais brūk­\nliais; toliau medinės grotos įstatytos į geležinius vyrius, už \njų staliaus darbo pertvaras su durimis, vienu vyriumi. Pa­\ngaliau salė komedijoms ar tragedijoms rodyti, su keturio­\n178\n\n## Puslapis 195\n\nIl KNYGA\nmis didelėmis arkadomis ir dviem mažomis, jas laiko stul­\npai."
+  citata_rodoma: |
+    Durys pušinės, dvigubos, apkalinėtos, su geležiniais vyriais,
+    nuo įėjimo einant tiesiai yra 3 pakopos iš plytų; 2 langai nuo
+    gatvės pusės, be stiklų, į teatro prieangį, kur grindys ir lu­
+    bos lentų, langų - 7, be stiklų, langinės kiekvieno dvigubos,
+    medinės, dažytos, su geležiniais vyriais ir geležiniais brūk­
+    liais; toliau medinės grotos įstatytos į geležinius vyrius, už
+    jų staliaus darbo pertvaras su durimis, vienu vyriumi. Pa­
+    galiau salė komedijoms ar tragedijoms rodyti, su keturio­
+    178
+
+    ## Puslapis 195
+
+    Il KNYGA
+    mis didelėmis arkadomis ir dviem mažomis, jas laiko stul­
+    pai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

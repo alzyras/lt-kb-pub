@@ -393,7 +393,15 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis nusidėjus,
     nuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė
     šventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui.
-  citata_rodoma: "Štai šis popiežius Celestinas\nIII Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios\nnaudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto\nseptynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,\nbūtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,\nkurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo\npamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo\nšulai, o kiti broliai—sienos."
+  citata_rodoma: |
+    Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto
+    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
+    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,
+    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
+    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
+    šulai, o kiti broliai—sienos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -459,7 +467,28 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą
     Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
-  citata_rodoma: "Kai jo šventenybė Jeruzalės patriarchas\nHenrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir\nBetliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino\nmagistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:\nRadolfas, Tiberiados valdovas,  ir jo brolis valdovas Hugonas,  ir Reinoldas, Sidono\nvaldovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų\niš Jeruzalės karalystės  ir  iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo\nvyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato\nvyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco\nprie] Reino pfalcgrafas  ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,\nBrabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos\nhercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas\nir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno\nmarkgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių\nkilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus\nima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,\nviešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,\nštai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,\nSvabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą\nHenriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę\npopiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti."
+  citata_rodoma: |
+    Kai jo šventenybė Jeruzalės patriarchas
+    Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
+    Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino
+    magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
+    Radolfas, Tiberiados valdovas,  ir jo brolis valdovas Hugonas,  ir Reinoldas, Sidono
+    valdovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų
+    iš Jeruzalės karalystės  ir  iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo
+    vyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato
+    vyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco
+    prie] Reino pfalcgrafas  ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,
+    Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos
+    hercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas
+    ir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno
+    markgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių
+    kilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus
+    ima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,
+    viešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,
+    štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,
+    Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą
+    Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
+    popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -480,7 +509,10 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     pradedant Torune (1231 m.), lakoniškai pasakojama apie mūšius „zu Kuwerlant“
     1260 m. (t. y. Kurše— Durbė), „zu Pocarwen“ ir kt., apie Vokietijos, Čekijos hercogų,
     markgrafų, karalių atvykimą į Prūsiją.
-  citata_rodoma: "Pirmoje žinutėje kalbama\napie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,\npradedant Torune (1231 m."
+  citata_rodoma: |
+    Pirmoje žinutėje kalbama
+    apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,
+    pradedant Torune (1231 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -501,7 +533,14 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
     Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
     niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
-  citata_rodoma: "Pratarmėje autorius pranašo Danieliaus\nžodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies\nįvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.\nseptyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje\nįkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis\nšulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,\nVokietijai, Austrijai ir kt."
+  citata_rodoma: |
+    Pratarmėje autorius pranašo Danieliaus
+    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
+    įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
+    septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
+    įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
+    šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
+    Vokietijai, Austrijai ir kt.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -523,7 +562,15 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     153  Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab
     Izraelio teritorijoje), XI a. pabaigoje buvęs Vakarų Europos kryžininkų įkurtoje Jeruzalės
     karalystėje. 1187 m. jį užėmė Egipto sultonas.
-  citata_rodoma: "Tad popiežius, išklausęs šią\npasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties\ndievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams\nslaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti\nbroliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir\nsuteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas\n  153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab\nIzraelio teritorijoje), XI a."
+  citata_rodoma: |
+    Tad popiežius, išklausęs šią
+    pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
+    dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams
+    slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti
+    broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir
+    suteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas
+      153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab
+    Izraelio teritorijoje), XI a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -572,7 +619,12 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
     Kita vertus, jis rašė istorinį pasakojimą, paremtą didele jo sukaupta rašytine ir žodine
     Ordino tradicija, siekė šią tradiciją perduoti ateities kartoms (Dedikacija).
-  citata_rodoma: "Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą\n(1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108)."
+  citata_rodoma: |
+    Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

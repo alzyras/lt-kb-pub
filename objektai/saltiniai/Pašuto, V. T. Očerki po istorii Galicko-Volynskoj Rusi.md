@@ -60,10 +60,13 @@ Pašuto, V.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    — (”) PaRL. — Pašuto, V. T. : _Očerki
+    — Pašuto, V. T. : _Očerki
     po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii
     Litovskogo gosudarstva,_ Izvestija Akad.
-  citata_rodoma: "— Pašuto, V. T. : _Očerki\npo istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii\nLitovskogo gosudarstva,_ Izvestija Akad."
+  citata_rodoma: |
+    — Pašuto, V. T. : _Očerki
+    po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii
+    Litovskogo gosudarstva,_ Izvestija Akad.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

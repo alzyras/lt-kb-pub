@@ -77,7 +77,8 @@ Dusburgietis teigia, kad remeika J.
     3, 1828.
     Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.
     Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13.
-  citata_rodoma: "Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940."
+  citata_rodoma: |
+    Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

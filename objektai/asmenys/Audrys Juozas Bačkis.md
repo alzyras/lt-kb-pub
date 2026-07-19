@@ -84,7 +84,8 @@ Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respub
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
     Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
     metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: "Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas"
+  citata_rodoma: |
+    Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

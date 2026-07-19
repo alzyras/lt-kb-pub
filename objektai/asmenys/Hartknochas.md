@@ -341,7 +341,14 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
     pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
     būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
     tuvos Romovę prie Dubysos ir Nemuno santakos12.
-  citata_rodoma: "Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla.\nUpės (Oppen) kaime augo storiausias ąžuolas, kuris, anot\nto paties istoriko, priklausė šventyklos liekanoms."
+  citata_rodoma: |
+    Šventyklos aptvaro vi­
+    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
+    bai, -  anot Enėjo Silvijaus liudijimo.
+    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
+    taip pat buvusi šventykla.
+    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
+    to paties istoriko, priklausė šventyklos liekanoms.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -395,7 +402,20 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
     truko 12 metų, nusiaubė Baltijos jūros vakarines pakran­
     tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
     1 Plutarchus; Sirabo.
-  citata_rodoma: "Sis ypatingas įvykis, atsitikęs žemėje, kuria\nypač domisi mūsų veikalas, vertas to, kad jam būtų skir­\nta daugiau dėmesio. Hartknochas, remdamasis vietos pa­\ndavimais ir tiesioginiais vietovės tyrinėjimais, visiškai\nįsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog\nsmarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros\npotvyniai išilgai visos Prūsijos padarė nemažai Baltijos\njūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­\nsi, kad išliktų atminimas apie tą didžiulį kimbrų epochos\npotvynį, arba vietinį tvaną, cituotą prūsų kronikininko\nJokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­\nmas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo\nkronikos knygas), turėjo po ranka."
+  citata_rodoma: |
+    Sis ypatingas įvykis, atsitikęs žemėje, kuria
+    ypač domisi mūsų veikalas, vertas to, kad jam būtų skir­
+    ta daugiau dėmesio. Hartknochas, remdamasis vietos pa­
+    davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
+    įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog
+    smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros
+    potvyniai išilgai visos Prūsijos padarė nemažai Baltijos
+    jūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­
+    si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
+    potvynį, arba vietinį tvaną, cituotą prūsų kronikininko
+    Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­
+    mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
+    kronikos knygas), turėjo po ranka.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -419,7 +439,16 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
     bančių apie tokią kilmę. Kilęs iš Prūsijos Vilichijus, ko­
     mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
     iš graikų, nes galėjo su jais susikalbėti jų kalba4.
-  citata_rodoma: "Pažvelgę tyrinėtojo žvilgsniu į\nlietuvių senovės paminklus, visur aptinkame pėdsakų ir\npadavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­\nteikia žinių, jog prie Baltijos jūros amžių amžiais buvo\nžinomi padavimai apie tenykščių genčių, ypač prūsų, iš­\ntakas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­\ntu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­\nmu, rašo apie makedonus, po Aleksandro Didžiojo mirties\natvykusius į prūsų kraštus."
+  citata_rodoma: |
+    Pažvelgę tyrinėtojo žvilgsniu į
+    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
+    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
+    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
+    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
+    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
+    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
+    atvykusius į prūsų kraštus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

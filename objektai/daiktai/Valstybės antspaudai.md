@@ -87,7 +87,8 @@ Nenurodyta
     prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,
     prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks
     raštas, prieštaraująs valstybės įstatymams.
-  citata_rodoma: "prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,"
+  citata_rodoma: |
+    prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

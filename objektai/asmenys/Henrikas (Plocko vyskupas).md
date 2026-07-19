@@ -97,7 +97,38 @@ Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus
     pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
     dovauti galop parinko Henriką, mozūrų kunigaikščio
     Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
-  citata_rodoma: "Todėl ir buvo nutar­\nta užbaigti sunkų bei ilgą karą, kuriam nei karalius,\nužsiėmęs Lenkijos reikalais, asmeniškai negalėjo atsidė­\nti ir kurio nedrįso patikėti Skirgailai, karo sėkme nepa­\nsižyminčiam kunigaikščiui, ir tokiu būdu išvaduoti Lie­\ntuvą nuo baisiausių nelaimių; tai reikėjo padaryti dar\nir dėl to, kad, viena, lietuviai, be galo kovų nualinti,\nnedengė karo išlaidų, o antra, lenkai irgi nenoromis\nskyrė tam pinigų, nelyginant šitai būtų visai svetimas\n3 2 6\n\n## Puslapis 325\n\nreikalas. Priėmus nutarimą, ieškota žmogaus, kuriam be\npavojaus galima būtų patikėti šią slaptą užduotį, mat jis\nturėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti\npasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­\ndovauti galop parinko Henriką, mozūrų kunigaikščio\nZemovito sūnų, neseniai vainikuotą Plocko vyskupu.\nJo atvykimas (tiesą sakant,\nP a šn e n k a m a s m o zū rų\ndaug kas manė, jog dėl gi-\nk u n ig a ik štis\nH enri-\nminystės jis gali likti nepas-\nk a s\ntebėtas) anaiptol negalėjo ne­\nsukelti kryžiuočiams įtarimo,\ntačiau tuo pat metu Vytautas Marienburge surengė sa­\nvo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio\nVasilijaus, dideles palydėtuves."
+  citata_rodoma: |
+    Todėl ir buvo nutar­
+    ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,
+    užsiėmęs Lenkijos reikalais, asmeniškai negalėjo atsidė­
+    ti ir kurio nedrįso patikėti Skirgailai, karo sėkme nepa­
+    sižyminčiam kunigaikščiui, ir tokiu būdu išvaduoti Lie­
+    tuvą nuo baisiausių nelaimių; tai reikėjo padaryti dar
+    ir dėl to, kad, viena, lietuviai, be galo kovų nualinti,
+    nedengė karo išlaidų, o antra, lenkai irgi nenoromis
+    skyrė tam pinigų, nelyginant šitai būtų visai svetimas
+    3 2 6
+
+    ## Puslapis 325
+
+    reikalas. Priėmus nutarimą, ieškota žmogaus, kuriam be
+    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
+    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
+    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
+    dovauti galop parinko Henriką, mozūrų kunigaikščio
+    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
+    Jo atvykimas (tiesą sakant,
+    P a šn e n k a m a s m o zū rų
+    daug kas manė, jog dėl gi-
+    k u n ig a ik štis
+    H enri-
+    minystės jis gali likti nepas-
+    k a s
+    tebėtas) anaiptol negalėjo ne­
+    sukelti kryžiuočiams įtarimo,
+    tačiau tuo pat metu Vytautas Marienburge surengė sa­
+    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
+    Vasilijaus, dideles palydėtuves.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

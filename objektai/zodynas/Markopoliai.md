@@ -91,7 +91,14 @@ Markopolius Narbutas apibūdina kaip požemio dievaičius, kuriuos ypač garbino
     to valgio, kuris jiems buvo gardžiausias, per kitas šventes de­
     da daugiau, negu buvo per ankstesnes, prašydami, kad pagau­
     sintų javų.
-  citata_rodoma: "Markopoliai (Markopole)\nPožemio dievaičiai, kuriuos ypač garbino didikai ir bajo­\nrai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini\njuos kaip požemio dievaičius. Tai buvo barstukai, tik kilmin-\ngesnės giminės. Jiems nusilenkdavo pats Pušaitis, prašydamas\nkaimiečių vardu, idant markopoliai sulaikytų savo garbinto­\njus nuo nelaimingų žmonių engimo."
+  citata_rodoma: |
+    Markopoliai (Markopole)
+    Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
+    rai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini
+    juos kaip požemio dievaičius. Tai buvo barstukai, tik kilmin-
+    gesnės giminės. Jiems nusilenkdavo pats Pušaitis, prašydamas
+    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
+    jus nuo nelaimingų žmonių engimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

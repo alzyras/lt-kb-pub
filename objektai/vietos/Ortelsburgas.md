@@ -116,7 +116,12 @@ media_all_json: |-
     metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose
     puolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­
     čiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus.
-  citata_rodoma: "Kad lietuvių nuosto­\nliai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat\nmetais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose\npuolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­\nčiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus."
+  citata_rodoma: |
+    Kad lietuvių nuosto­
+    liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat
+    metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose
+    puolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­
+    čiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

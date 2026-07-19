@@ -89,7 +89,11 @@ Nenurodyta
     trauktis visu frontu, liepos
     4 d. LDK kariuomenė patyrė an-
     trąjį pralaimėjimą prie Zelvos.
-  citata_rodoma: "Pirmasis didelis mūšis įvyko bir-\nželio 11 d. prie Miro. Čia Lietuvos\nkariuomenė patyrė pirmąją nesė-\nkmę."
+  citata_rodoma: |
+    Pirmasis didelis mūšis įvyko bir-
+    želio 11 d. prie Miro. Čia Lietuvos
+    kariuomenė patyrė pirmąją nesė-
+    kmę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

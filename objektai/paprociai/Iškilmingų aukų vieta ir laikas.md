@@ -94,7 +94,15 @@ Nenurodyta
     tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
     kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
     17 Lieflandische Geschichte (1757 metų leidimas.
-  citata_rodoma: "Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­\nnikininkai specialistai to neaprašo, tik priduria, kad senais lai­\nkais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo\ngalutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų\nvyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­\ntuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba\nvisur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo\nlaikas*."
+  citata_rodoma: |
+    Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
+    nikininkai specialistai to neaprašo, tik priduria, kad senais lai­
+    kais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo
+    galutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų
+    vyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­
+    tuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba
+    visur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo
+    laikas*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -153,7 +153,14 @@ Nenurodyta
     biau skaitau, tuo labiau tuo įsitikinu. Antras tomas be­
     veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
     576 puslapiai.
-  citata_rodoma: "Tokį teiginį pailiustruoti galėtų keletas\nlaiškų, atsitiktinai išlikusių T. Narbuto mokslinėje kores­\npondencijoje. Įdomu, jog jie datuojami 1847—1848 me­\ntais, t. y. prabėgus dešimčiai metų po antro LTI tomo\n¡pasirodymo. Korespondentas — Lydos bajorų mokyklos\nvyresnysis mokytojas, Vilniaus gubernijos statistikos ko­\nmiteto narys Petras Lavrovas."
+  citata_rodoma: |
+    Tokį teiginį pailiustruoti galėtų keletas
+    laiškų, atsitiktinai išlikusių T. Narbuto mokslinėje kores­
+    pondencijoje. Įdomu, jog jie datuojami 1847—1848 me­
+    tais, t. y. prabėgus dešimčiai metų po antro LTI tomo
+    ¡pasirodymo. Korespondentas — Lydos bajorų mokyklos
+    vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­
+    miteto narys Petras Lavrovas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -179,7 +186,15 @@ Nenurodyta
     ir kai kurių vokiečių rašytojų tyrinėjimais, be to, neuž-1
     miršote ir Šlėcerio, kuris pripažįsta, jog lietuviai yra ypa­
     tinga gentis.
-  citata_rodoma: "Jo laiškai sako, jog lietu­\nvių kilmės klausimas dar ir penktajame dešimtmetyje jau­\ndino protus, o T. Narbuto „Istorija“ buvo pagrindinis\nautoritetas ir diskusijų objektas. Štai šio laiško ištrauka:\n„Mane labai domina vienas straipsnis: tyrinėjimas apie\nlietuvių tautos kilmę, vardą ir kalbą, kurio rankraštį ti­\nkiuosi greitu laiku atsiųsti Tamstai, kad galėtum perskai­\ntyti ir kritiškai įvertinti."
+  citata_rodoma: |
+    Jo laiškai sako, jog lietu­
+    vių kilmės klausimas dar ir penktajame dešimtmetyje jau­
+    dino protus, o T. Narbuto „Istorija“ buvo pagrindinis
+    autoritetas ir diskusijų objektas. Štai šio laiško ištrauka:
+    „Mane labai domina vienas straipsnis: tyrinėjimas apie
+    lietuvių tautos kilmę, vardą ir kalbą, kurio rankraštį ti­
+    kiuosi greitu laiku atsiųsti Tamstai, kad galėtum perskai­
+    tyti ir kritiškai įvertinti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

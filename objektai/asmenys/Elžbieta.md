@@ -312,7 +312,14 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 
 
         16.
-  citata_rodoma: "Kelerių metų šventa Elžbieta ištekėjo už vyro\n\n  1221 viešpaties metais Elžbieta pasiėmė į vyrus Tiuringijos markgrafą.\n\n\n\n    16."
+  citata_rodoma: |
+    Kelerių metų šventa Elžbieta ištekėjo už vyro
+
+      1221 viešpaties metais Elžbieta pasiėmė į vyrus Tiuringijos markgrafą.
+
+
+
+        16.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -353,7 +360,14 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 
 
                   13.
-  citata_rodoma: "Apie šventos Elžbietos gimimą\n\n  1207 viešpaties metais gimė šventa Elžbieta.\n\n\n\n              13."
+  citata_rodoma: |
+    Apie šventos Elžbietos gimimą
+
+      1207 viešpaties metais gimė šventa Elžbieta.
+
+
+
+                  13.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -374,7 +388,15 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 
 
                        26.
-  citata_rodoma: "Apie šventos Elžbietos kanonizavimą\n\n  1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,\nbrolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.\n\n\n\n                   26."
+  citata_rodoma: |
+    Apie šventos Elžbietos kanonizavimą
+
+      1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
+    brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
+
+
+
+                       26.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -399,7 +421,17 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
     buvo nutraukta.
-  citata_rodoma: "230\n\n## Puslapis 247\n\nIII KNYGA\npavasario, kai Aleksandro motina karalienė Elžbieta su duk­\nterimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­\nvykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.\nDeja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­\nto ginčai, ir po kelerių metų (1500 m."
+  citata_rodoma: |
+    230
+
+    ## Puslapis 247
+
+    III KNYGA
+    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
+    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
+    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -421,7 +453,15 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 
 
                   18.
-  citata_rodoma: "Apie Šventos Elžbietos vyro mirtį\n\n  1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava\nmirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.\n\n\n\n              18."
+  citata_rodoma: |
+    Apie Šventos Elžbietos vyro mirtį
+
+      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
+    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
+
+
+
+                  18.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -440,7 +480,14 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
     papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
     dievui bei jam įstotų į šį ordiną.
-  citata_rodoma: "Apie šventos Elžbietos mirtį\n\n  1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.\n\n\n\n                     22."
+  citata_rodoma: |
+    Apie šventos Elžbietos mirtį
+
+      1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.
+
+
+
+                         22.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -514,7 +561,23 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     lavimus, maskvėnams pažadėta, kad neilgai trukus prie
     Sebežo atvyks karaliaus taikytojai; ištyrę vietoje rei­
     kalą, jie ir atsilygins tiems, kurie neteko žemių.
-  citata_rodoma: "1543 m e ta i\nŽ y g im a n ta s\nA u g u s­\nta s v e d a  a u strų  k u ­\nn ig a ik š ty tę  E lžb ietą\nSugrįžęs į Lenkiją, kara­\nlius suskato apvesdinti sūnų\nAugustą. Nutarta susigimi­\nniuoti su Austrijos valdovų\nšeima ir paprašyti Augustui\nRomos karaliaus Ferdinando\ndukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­\ntorius Karolis V didžiai pritarė šiai santuokai, įsitikinę,\nkad ji dar labiau sustiprins santarvę ir gerus santy­\nkius, kuriems padėta pamatai anksčiau, susigiminiuo­\njant su Vladislovu bei Liudviku."
+  citata_rodoma: |
+    1543 m e ta i
+    Ž y g im a n ta s
+    A u g u s­
+    ta s v e d a  a u strų  k u ­
+    n ig a ik š ty tę  E lžb ietą
+    Sugrįžęs į Lenkiją, kara­
+    lius suskato apvesdinti sūnų
+    Augustą. Nutarta susigimi­
+    niuoti su Austrijos valdovų
+    šeima ir paprašyti Augustui
+    Romos karaliaus Ferdinando
+    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
+    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
+    kad ji dar labiau sustiprins santarvę ir gerus santy­
+    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
+    jant su Vladislovu bei Liudviku.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

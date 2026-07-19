@@ -81,7 +81,21 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
     Lengvenis, Lietuvos kunigaikštis,
     Algirdo sūnus: žr. D a n i L, Kronika
     Ruška pr 206.
-  citata_rodoma: "Bet, regis, visa tai yra prasima­\nnymas. Bent jau apie Narimantą kal­\nbant, pirmiausia, Dlugošas, žinia, \napsirinka jį prie Algirdo brolių pri­\nskirdamas, ir žinome iš Rusios met­\nraštininkų, kad jis Didįjį Naugardą \nvaldęs iki 1348 m.; o po jo ten val­\ndžią perėmęs jo sūnus Patrikas, ar­\nba Patricijus; po pastarojo tapo val­\ndovu, arba Žečpospolitos vaivada, \nir Rusios bei Ladogos kunigaikštis \nSimonas Lungvinas, arba tiksliau \nLengvenis, Lietuvos kunigaikštis, \nAlgirdo sūnus: žr."
+  citata_rodoma: |
+    Bet, regis, visa tai yra prasima­
+    nymas. Bent jau apie Narimantą kal­
+    bant, pirmiausia, Dlugošas, žinia,
+    apsirinka jį prie Algirdo brolių pri­
+    skirdamas, ir žinome iš Rusios met­
+    raštininkų, kad jis Didįjį Naugardą
+    valdęs iki 1348 m.; o po jo ten val­
+    džią perėmęs jo sūnus Patrikas, ar­
+    ba Patricijus; po pastarojo tapo val­
+    dovu, arba Žečpospolitos vaivada,
+    ir Rusios bei Ladogos kunigaikštis
+    Simonas Lungvinas, arba tiksliau
+    Lengvenis, Lietuvos kunigaikštis,
+    Algirdo sūnus: žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

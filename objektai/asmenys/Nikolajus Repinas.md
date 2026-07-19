@@ -106,7 +106,15 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
     Rusijos kariuomenės korpusui,
     puolusiam Vilnių, vadovavo generolas
     leitenantas Bogdanas Knorringas.
-  citata_rodoma: "Rusijos pajėgų vadovybė\nRusijos pajėgų, nukreiptų prieš\nsukilėlius, vyriausiasis vadas\nbuvo generolas leitenantas Niko-\nlajus Repinas. Sukilėliams puolant\nmiestą, Vilniaus įgulai tiesiogiai va-\ndovavo generolas majoras Nikolajus\nArsenjevas."
+  citata_rodoma: |
+    Rusijos pajėgų vadovybė
+    Rusijos pajėgų, nukreiptų prieš
+    sukilėlius, vyriausiasis vadas
+    buvo generolas leitenantas Niko-
+    lajus Repinas. Sukilėliams puolant
+    miestą, Vilniaus įgulai tiesiogiai va-
+    dovavo generolas majoras Nikolajus
+    Arsenjevas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

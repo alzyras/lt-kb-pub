@@ -79,11 +79,15 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    VI). Gerdenis pralaimėjo ir tik
+    Gerdenis pralaimėjo ir tik
     su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267
     m. žiemą) ir pats žuvo^219. Apie jo sūnus yra žinoma, kad jie
     išaugo stačiatikiais.
-  citata_rodoma: "Gerdenis pralaimėjo ir tik\nsu likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267\nm. žiemą) ir pats žuvo^219. Apie jo sūnus yra žinoma, kad jie\nišaugo stačiatikiais."
+  citata_rodoma: |
+    Gerdenis pralaimėjo ir tik
+    su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267
+    m. žiemą) ir pats žuvo^219. Apie jo sūnus yra žinoma, kad jie
+    išaugo stačiatikiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -104,7 +104,9 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
     net ir Herodoto geografija. Tačiau šie įrodymai negali pa­
     teisinti mūsų tyrinėtojo nuomonės, nes jis, rašydamas ne-
     klystančiojo stiliumi, neatsižvelgė į juos.
-  citata_rodoma: "Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta\n  nagrinėti faktus ir girdėti įrodytas tiesas."
+  citata_rodoma: |
+    Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta
+      nagrinėti faktus ir girdėti įrodytas tiesas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

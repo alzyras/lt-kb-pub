@@ -79,7 +79,9 @@ Dusburgietis teigia, kad wenta J.
     Непокупный А. П. К исследованию ареала ятвяжских реликтов. — Проблемы
     этнической истории балтов/Тезисы докладов — Рига, 1977, с. 143—146.
     Непокупный А. П. К поискам языковых следов ятвягов к востоку от Немана.
-  citata_rodoma: "Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice\noliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132."
+  citata_rodoma: |
+    Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
+    oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

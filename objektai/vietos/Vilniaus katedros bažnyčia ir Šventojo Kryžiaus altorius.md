@@ -53,7 +53,7 @@ media_all_json: |-
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Val erianus Episcopus Vilnen. manu propria.
+    manu propria.
     -- •
     418
 
@@ -72,7 +72,26 @@ media_all_json: |-
     sų rezidencijos name pirmadienį, po Velykų sekmadienio,
     tūkstantis penki šimtai septyniasdešimt devintaisiais metais
     nuo Kristaus gimimo.
-  citata_rodoma: "manu propria.\n-- • \n418\n\n## Puslapis 435\n\nIV  KNYGA\nnorime, kad po mūsų mirties keturis kartus per metus į mū­\nsų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­\nčio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­\ntas, vieną tik to metų ketvirčio dieną, penktadienį, kiekvienas \nateitų ir, koncelebruojant prie to paties altoriaus mūsų ku­\nnigui, kuriam ir priklauso tas altorius, dalyvautų gedulin­\ngose mišiose, laikomose už Bursos įkūrėjo sielą, ir šią šven­\ntą ir krikščionišką pareigą atliktų kiekvienais metais. Aktuota \nir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū­\nsų rezidencijos name pirmadienį, po Velykų sekmadienio, \ntūkstantis penki šimtai septyniasdešimt devintaisiais metais \nnuo Kristaus gimimo."
+  citata_rodoma: |
+    manu propria.
+    -- •
+    418
+
+    ## Puslapis 435
+
+    IV  KNYGA
+    norime, kad po mūsų mirties keturis kartus per metus į mū­
+    sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­
+    čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­
+    tas, vieną tik to metų ketvirčio dieną, penktadienį, kiekvienas
+    ateitų ir, koncelebruojant prie to paties altoriaus mūsų ku­
+    nigui, kuriam ir priklauso tas altorius, dalyvautų gedulin­
+    gose mišiose, laikomose už Bursos įkūrėjo sielą, ir šią šven­
+    tą ir krikščionišką pareigą atliktų kiekvienais metais. Aktuota
+    ir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū­
+    sų rezidencijos name pirmadienį, po Velykų sekmadienio,
+    tūkstantis penki šimtai septyniasdešimt devintaisiais metais
+    nuo Kristaus gimimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -88,7 +88,12 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studi
     jau dėl to, kad buvo rastos Lietuvos žemėje.
     III
     lentelė, 10-asis piešinys.
-  citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
+  citata_rodoma: |
+    Apie tai byloja ir pats žibintas -
+    aiškus šviesos atributas**.
+    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
+    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
+    Nauk. -  Warszawa, 1812).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

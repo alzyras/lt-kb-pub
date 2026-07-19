@@ -55,7 +55,8 @@ Laurinavičius Č., Sirutavičius V.
   citata_originali: |
     Laurinavičius Č., Sirutavičius V. Sąjūdis: nuo „persitvarkymo“ iki Kovo
     11-osios, Lietuvos istorija.
-  citata_rodoma: "Laurinavičius Č., Sirutavičius V. Sąjūdis: nuo „persitvarkymo“ iki Kovo"
+  citata_rodoma: |
+    Laurinavičius Č., Sirutavičius V. Sąjūdis: nuo „persitvarkymo“ iki Kovo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

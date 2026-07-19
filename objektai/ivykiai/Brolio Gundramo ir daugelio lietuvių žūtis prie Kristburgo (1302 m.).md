@@ -143,7 +143,18 @@ Nenurodyta
     sužeistas, ir pasakė: „Henrikai, aš dosnesnis už jį“, be to, palietęs kraujuojančią žaizdą
     šone, pareiškė: „Štai šitokią karalystę tau duosiu, jei man tarnausi, kur kas geresnę nei
     ta, kurią tau žada šis netikras karalius“.
-  citata_rodoma: "281 (274). Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais\n\n   Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,\npersekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo\npilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,\npirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,\ntačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir\npasimirė. Kai  jį mirusį ginklanešiai gabeno  į Kristburgo pilį, moterys, kurias jis buvo\nišvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore\nvirš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip\nskridę."
+  citata_rodoma: |
+    281 (274). Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
+
+       Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
+    persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo
+    pilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,
+    pirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,
+    tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
+    pasimirė. Kai  jį mirusį ginklanešiai gabeno  į Kristburgo pilį, moterys, kurias jis buvo
+    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
+    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
+    skridę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

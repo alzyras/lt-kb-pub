@@ -114,7 +114,12 @@ media_all_json: |-
     idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
     prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
     atstatymas tautinės valstybės (1918).
-  citata_rodoma: "Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,\nkurios pagrindan yra dedama lietuvių tautos valstybingumo\nidėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­\nprėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir\natstatymas tautinės valstybės (1918)."
+  citata_rodoma: |
+    Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,
+    kurios pagrindan yra dedama lietuvių tautos valstybingumo
+    idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
+    prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
+    atstatymas tautinės valstybės (1918).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

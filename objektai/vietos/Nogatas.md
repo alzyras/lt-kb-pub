@@ -162,7 +162,11 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
     prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
     plaukioti Vysla aukštyn ir žemyn.
-  citata_rodoma: "Todėl dviejų upių santakoje, būtent: Vyslos ir\nNogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo\nbrolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,\nišsivarydavo juos į nelaisvę ar nugalabydavo."
+  citata_rodoma: |
+    Todėl dviejų upių santakoje, būtent: Vyslos ir
+    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
+    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
+    išsivarydavo juos į nelaisvę ar nugalabydavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -203,7 +207,10 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp
     dabartinio Kulmo miesto ir senosios pilies pastatė naują, kurią praminė nuo tos kalvos
     vardo Poterbergu287 ir kurioje paliko 12 brolių ir daug ginklanešių.
-  citata_rodoma: "Todėl broliai,\n  283 D.— Nogadi, Jer.— Nogat. Nogatas — Vyslos deltos rytinė atšaka. Seniau Nogato\nvaga, įtekanti į Aismares, prasidėjo gerokai į pietus nuo dabartinio atsišakojimo."
+  citata_rodoma: |
+    Todėl broliai,
+      283 D.— Nogadi, Jer.— Nogat. Nogatas — Vyslos deltos rytinė atšaka. Seniau Nogato
+    vaga, įtekanti į Aismares, prasidėjo gerokai į pietus nuo dabartinio atsišakojimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

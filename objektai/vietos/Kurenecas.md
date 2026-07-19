@@ -95,7 +95,10 @@ media_all_json: |-
     sės, o pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­
     sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­
     nių.
-  citata_rodoma: "Ir vasario 15 d. su­\nsijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­\nnių."
+  citata_rodoma: |
+    Ir vasario 15 d. su­
+    sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­
+    nių.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

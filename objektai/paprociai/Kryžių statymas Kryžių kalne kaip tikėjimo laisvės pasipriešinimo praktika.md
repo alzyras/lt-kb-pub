@@ -107,7 +107,8 @@ Nenurodyta
     Kryžių kalne žmonės statė jų vis daugiau. Taip Kryžių kalnas (jį 1993 m.
     aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
     Golgota.
-  citata_rodoma: "aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška"
+  citata_rodoma: |
+    aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -65,7 +65,10 @@ Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gard
     žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis
     buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
     Gardino (1380.V.31).
-  citata_rodoma: "Jis\nbuvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti\nGardino (1380.V.31)."
+  citata_rodoma: |
+    Jis
+    buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
+    Gardino (1380.V.31).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

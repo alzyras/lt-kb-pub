@@ -200,7 +200,20 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     silpsta, žinojo, kad artėja pa­
     skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
     sokias progas, iškelti sūnus į deramas aukštybes.
-  citata_rodoma: "Netru­\nkus liautasi grasinti ginklu: \nšitai patenkino neveiklų\nkaralių, tačiau valstybei iš to buvo maža naudos. Su­\nkruto visi nelyginant iš gilaus miego pabudę tik tada, \nkai sukrėtė širdis tarytum netoliese staiga blykstelėjęs \nžaibas skitų įsibrovimas.\nKaralius, jausdamas, jog\n1488 m e ta i \ndiena nuo dienos vis labiau\nsilpsta, žinojo, kad artėja pa­\nskutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­\nsokias progas, iškelti sūnus į deramas aukštybes."
+  citata_rodoma: |
+    Netru­
+    kus liautasi grasinti ginklu:
+    šitai patenkino neveiklų
+    karalių, tačiau valstybei iš to buvo maža naudos. Su­
+    kruto visi nelyginant iš gilaus miego pabudę tik tada,
+    kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs
+    žaibas skitų įsibrovimas.
+    Karalius, jausdamas, jog
+    1488 m e ta i
+    diena nuo dienos vis labiau
+    silpsta, žinojo, kad artėja pa­
+    skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
+    sokias progas, iškelti sūnus į deramas aukštybes.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -231,7 +244,24 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie
     karaliaus. Aleksandras Šich Achmetą priėmė su didele
     pagarba ir pasisodino dešinėje.
-  citata_rodoma: "Karalius, supratęs, kad jo sumanymai visiems žinomi, \nsutiko parodyti malonę, patariamas to paties kancle­\nrio, o labiausiai Jono iš Osvencimo, savo nuodėm­\nklausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­\nją, o kitus išvijo iš senato.\nĮ seimą atvyko iš Vilniaus \nSkitas Sich Achmetas \nŠich Achmetas, Užvolgio ski-\ntariasi su karaliumi \ntų valdovas, o šiuo metu\nBreste ir Radome \ntremtinys ir beveik belaisvis.\nAleksandras jį pasitiko už \npenkių mylių: pastačius plyname lauke puošnią pala­\npinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo \nSich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie \nkaraliaus."
+  citata_rodoma: |
+    Karalius, supratęs, kad jo sumanymai visiems žinomi,
+    sutiko parodyti malonę, patariamas to paties kancle­
+    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
+    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
+    ją, o kitus išvijo iš senato.
+    Į seimą atvyko iš Vilniaus
+    Skitas Sich Achmetas
+    Šich Achmetas, Užvolgio ski-
+    tariasi su karaliumi
+    tų valdovas, o šiuo metu
+    Breste ir Radome
+    tremtinys ir beveik belaisvis.
+    Aleksandras jį pasitiko už
+    penkių mylių: pastačius plyname lauke puošnią pala­
+    pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo
+    Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie
+    karaliaus.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

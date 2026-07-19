@@ -102,7 +102,16 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
     bejotinai mūšyje patyrė smūgį ir Ordinas,
     jis po mūšio nežygiavo gilyn į Lietuvą, bet
     grįžo atgal į Prūsiją.
-  citata_rodoma: "Rusų metraščiai taip pat mini, kad „su-\nmušė vokiečiai Lietuvą, nukovė Lietuvos\n40 tūkstančių“, kad buvo nukautas „kuni-\ngaikštis Narimantas Gediminaitis (Algirdo\nir Kęstučio brolis), o su juo kunigaikščių ir\nvaivadų, ir Lietuvos daugybė“. Tačiau nea-\nbejotinai mūšyje patyrė smūgį ir Ordinas,\njis po mūšio nežygiavo gilyn į Lietuvą, bet\ngrįžo atgal į Prūsiją."
+  citata_rodoma: |
+    Rusų metraščiai taip pat mini, kad „su-
+    mušė vokiečiai Lietuvą, nukovė Lietuvos
+    40 tūkstančių“, kad buvo nukautas „kuni-
+    gaikštis Narimantas Gediminaitis (Algirdo
+    ir Kęstučio brolis), o su juo kunigaikščių ir
+    vaivadų, ir Lietuvos daugybė“. Tačiau nea-
+    bejotinai mūšyje patyrė smūgį ir Ordinas,
+    jis po mūšio nežygiavo gilyn į Lietuvą, bet
+    grįžo atgal į Prūsiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -125,7 +134,13 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 
     valdė Narimantas, t.y. Lietuvos vietininkas.
     Orechovo ir Veliuonos pilys buvo paimtos.
-  citata_rodoma: "Rugpjūčio pradžioje švedai paėmė\nOrechovą - svarbų strateginį punktą\nLadogos paežerėje, prie Nevos ištakų, kurį\n\nvaldė Narimantas, t.y. Lietuvos vietininkas.\nOrechovo ir Veliuonos pilys buvo paimtos."
+  citata_rodoma: |
+    Rugpjūčio pradžioje švedai paėmė
+    Orechovą - svarbų strateginį punktą
+    Ladogos paežerėje, prie Nevos ištakų, kurį
+
+    valdė Narimantas, t.y. Lietuvos vietininkas.
+    Orechovo ir Veliuonos pilys buvo paimtos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -151,7 +166,12 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
     Ladogos paežerėje, prie Nevos ištakų, kurį
 
     valdė Narimantas, t.y. Lietuvos vietininkas.
-  citata_rodoma: "Rugpjūčio pradžioje švedai paėmė\nOrechovą - svarbų strateginį punktą\nLadogos paežerėje, prie Nevos ištakų, kurį\n\nvaldė Narimantas, t."
+  citata_rodoma: |
+    Rugpjūčio pradžioje švedai paėmė
+    Orechovą - svarbų strateginį punktą
+    Ladogos paežerėje, prie Nevos ištakų, kurį
+
+    valdė Narimantas, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

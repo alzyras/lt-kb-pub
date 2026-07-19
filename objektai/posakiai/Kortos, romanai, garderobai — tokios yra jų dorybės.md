@@ -63,7 +63,12 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
     Paprastas žydelis daugiau domisi savo tauta nei lietu­
     viai. Kortos, romanai, garderobai — tokios yra jų dory­
     bės.
-  citata_rodoma: "Mažai yra Žemės rutulyje kraštų, panašių į Lietuvą, kur žmonės\n  tokie abejingi ir taip nesirūpina savo krašto reikalais.\n  Paprastas žydelis daugiau domisi savo tauta nei lietu­\n  viai. Kortos, romanai, garderobai — tokios yra jų dory­\n  bės."
+  citata_rodoma: |
+    Mažai yra Žemės rutulyje kraštų, panašių į Lietuvą, kur žmonės
+      tokie abejingi ir taip nesirūpina savo krašto reikalais.
+      Paprastas žydelis daugiau domisi savo tauta nei lietu­
+      viai. Kortos, romanai, garderobai — tokios yra jų dory­
+      bės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

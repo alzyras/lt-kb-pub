@@ -264,7 +264,13 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­
     tus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­
     mų ligi įh vasario.
-  citata_rodoma: "Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio \nmiestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27 \nrašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie \n100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­\ntus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­\nmų ligi įh vasario."
+  citata_rodoma: |
+    Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
+    miestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27
+    rašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie
+    100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­
+    tus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­
+    mų ligi įh vasario.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

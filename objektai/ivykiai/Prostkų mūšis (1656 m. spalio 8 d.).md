@@ -263,7 +263,23 @@ Nenurodyta
     tačiau staiga pasirodžiusios pagrindi-
 
     nės V. Gosievskio pajėgos juos užpuolė
-  citata_rodoma: "Mūšis\nSpalio 8 d. kariuomenės suartėjo ties\nProstkais skiriamos Elko upės. Lietuviai\n\nE gf\n\napgaulingu atsitraukimo manevru išvi-\nliojo brandenburgiečius persikelti į kita\nkrantą. Tuo tarpu G. Valdekas gavo žinią,\nkad šiauriau Prostkų per upę keliasi toto-\nriai. Juos sulaikyti jis pasiuntė B. Radvilos\nkavaleriją. Taip pat jis įsakė generolo Wa-\nlenrodto brandenburgiečiams keltis atgal,\ntačiau staiga pasirodžiusios pagrindi-\n\nnės V."
+  citata_rodoma: |
+    Mūšis
+    Spalio 8 d. kariuomenės suartėjo ties
+    Prostkais skiriamos Elko upės. Lietuviai
+
+    E gf
+
+    apgaulingu atsitraukimo manevru išvi-
+    liojo brandenburgiečius persikelti į kita
+    krantą. Tuo tarpu G. Valdekas gavo žinią,
+    kad šiauriau Prostkų per upę keliasi toto-
+    riai. Juos sulaikyti jis pasiuntė B. Radvilos
+    kavaleriją. Taip pat jis įsakė generolo Wa-
+    lenrodto brandenburgiečiams keltis atgal,
+    tačiau staiga pasirodžiusios pagrindi-
+
+    nės V.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

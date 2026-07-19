@@ -87,7 +87,13 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
     _Švarno_ valdymas (1267/68 -1269) Lietuvoje, užtrukęs ne
     «keletą metų », bet gal tik metus su viršum — nes jis mirė apie
     1269223 — praėjo be žymėtinų pėdsakų.
-  citata_rodoma: "Keršydamas už valdžios Lietu­\nvoje atidavimą Švarnui, kitas Volinijos-Haličo kunigaikštis, Levas\n(Danieliaus sūnus), pasikvietęs į svečius, Vaišvilką nužudė.\n_Švarno_ valdymas (1267/68 -1269) Lietuvoje, užtrukęs ne\n«keletą metų », bet gal tik metus su viršum — nes jis mirė apie\n1269223 — praėjo be žymėtinų pėdsakų."
+  citata_rodoma: |
+    Keršydamas už valdžios Lietu­
+    voje atidavimą Švarnui, kitas Volinijos-Haličo kunigaikštis, Levas
+    (Danieliaus sūnus), pasikvietęs į svečius, Vaišvilką nužudė.
+    _Švarno_ valdymas (1267/68 -1269) Lietuvoje, užtrukęs ne
+    «keletą metų », bet gal tik metus su viršum — nes jis mirė apie
+    1269223 — praėjo be žymėtinų pėdsakų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +113,11 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
     kunigaikštija tebuvo labai trumpas. Berods, galima spręsti, kad
     Švarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m.
     turėjo įsiviešpatauti.
-  citata_rodoma: "Tas Vaišvilko bandy­\nmas sujungti jauną Lietuvos valstybę su jo pamėgta Volinijos-Haličo\nkunigaikštija tebuvo labai trumpas. Berods, galima spręsti, kad\nŠvarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m."
+  citata_rodoma: |
+    Tas Vaišvilko bandy­
+    mas sujungti jauną Lietuvos valstybę su jo pamėgta Volinijos-Haličo
+    kunigaikštija tebuvo labai trumpas. Berods, galima spręsti, kad
+    Švarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

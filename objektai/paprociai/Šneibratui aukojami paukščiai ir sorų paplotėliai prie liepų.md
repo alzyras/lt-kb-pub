@@ -110,7 +110,12 @@ Nenurodyta
     siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
     Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
     Graikijoje ir toliau.
-  citata_rodoma: "Šneibratas (Sznejbrato)\nPaukščių ūkio ir medžioklės dievas. Jam daugiausia buvo\naukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-\nzwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų\nKomovės šventykloje."
+  citata_rodoma: |
+    Šneibratas (Sznejbrato)
+    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
+    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
+    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
+    Komovės šventykloje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

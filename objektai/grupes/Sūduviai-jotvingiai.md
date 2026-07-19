@@ -830,7 +830,15 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     Toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai
     matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių
     karaliaus gavę kankinių vainikus.
-  citata_rodoma: "Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai\nsu viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias\ndienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į\nkovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų\nbei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas\nTupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,\nragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]\npiliai padegti."
+  citata_rodoma: |
+    Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
+    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
+    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -880,7 +888,12 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
     gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
     ir nukovė daugiau nei du tūkstančius priešo karių.
-  citata_rodoma: "Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė\nBysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai\nužpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,\ntarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo\ngyvybės, nei savo genties”."
+  citata_rodoma: |
+    Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
+    Bysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai
+    užpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
+    tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
+    gyvybės, nei savo genties”.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -901,7 +914,14 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
     norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija ir Prūsija).
-  citata_rodoma: "Priešiškuose lietuviams\nšaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo\nmetu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė\nOrdino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai\nsutriuškino kryžiuočius mūšio lauke (III, 123)."
+  citata_rodoma: |
+    Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -921,7 +941,10 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: "Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  citata_rodoma: |
+    Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1050,7 +1073,11 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
     kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
     šlovinamas per amžius, amen.
-  citata_rodoma: "Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti\nketuris tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,\npranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe. Mat jie turėjo šešis\ntūkstančius raitelių  ir galybę kitokių karių."
+  citata_rodoma: |
+    Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
+    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,
+    pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe. Mat jie turėjo šešis
+    tūkstančius raitelių  ir galybę kitokių karių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1091,7 +1118,14 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,
     jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
     netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
-  citata_rodoma: "Įniršęs dėl tokio savo žmonių pralaimėjimo  ir tokių didelių nuostolių,\npatirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir\nstipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių\ndieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė\nvieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,\njeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie\nnetikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties."
+  citata_rodoma: |
+    Įniršęs dėl tokio savo žmonių pralaimėjimo  ir tokių didelių nuostolių,
+    patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
+    stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių
+    dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė
+    vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,
+    jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
+    netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1113,7 +1147,14 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     435 Vartenbergo pilies, sūduvių sudegintos ir iki pat kronikos rašymo metų
     neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
     tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
-  citata_rodoma: "Vieną\nsekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai\nužgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į\nnelaisvę.\n\n  435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų\nneatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a."
+  citata_rodoma: |
+    Vieną
+    sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
+    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
+    nelaisvę.
+
+      435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų
+    neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1133,7 +1174,9 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
     ir prūsų kraštą. Lietuvos ir Jotvingių jėgos puolė vieną iš minėtos antiprūsiškosios
     koalicijos dalyvių — Lenkiją25.
-  citata_rodoma: "„Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.\n(t. y. 1209— 1210 m.)22."
+  citata_rodoma: |
+    „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
+    (t. y. 1209— 1210 m.)22.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1192,7 +1235,15 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
     ordino broliams Prūsijoje.
-  citata_rodoma: "Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę\n\n   Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo\ngyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,\natidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,\ntodėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę\npuotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,\nbe paliovos  jį užgauliodamas bei plūsdamas."
+  citata_rodoma: |
+    Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
+
+       Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
+    gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,
+    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
+    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
+    puotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,
+    be paliovos  jį užgauliodamas bei plūsdamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1213,7 +1264,12 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
     norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija ir Prūsija).
-  citata_rodoma: "Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai\nsutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—\n1263 m."
+  citata_rodoma: |
+    Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
+    1263 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1258,7 +1314,19 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
     kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
     kurį niokojo, degindamas ir grobdamas.
-  citata_rodoma: "Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį\n\n  Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,\nTepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų\nnuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150\nžmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai\nčia kur kas daugiau prarado, nei buvo pelnę Semboje.\n\n\n\n\n               206 (201)."
+  citata_rodoma: |
+    Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
+
+      Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,
+    Tepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų
+    nuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150
+    žmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai
+    čia kur kas daugiau prarado, nei buvo pelnę Semboje.
+
+
+
+
+                   206 (201).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1278,7 +1346,18 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę į
     nelaisvę visus gyventojus, ir net pelenais pavertė.
     174 (169).
-  citata_rodoma: "Apie antrąjį Bartenšteino pilies sugriovimą\n\n  Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,\nlabai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,\nbroliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į\nnelaisvę visus gyventojus, ir net pelenais pavertė.\n\n\n\n\n      174 (169)."
+  citata_rodoma: |
+    Apie antrąjį Bartenšteino pilies sugriovimą
+
+      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
+    labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
+    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
+    nelaisvę visus gyventojus, ir net pelenais pavertė.
+
+
+
+
+          174 (169).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1316,7 +1395,10 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     sunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar
     jotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17. Mums žinomi
     jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18.
-  citata_rodoma: "Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15. Kiti tyrinėtojai teigia, kad\nsunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar\njotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17."
+  citata_rodoma: |
+    Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15. Kiti tyrinėtojai teigia, kad
+    sunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar
+    jotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1360,7 +1442,17 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
     brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
     bei jo sūnų Maudelį331 su daugybe ginklanešių.
-  citata_rodoma: "Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą\n\n   Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,\nskalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat\nbūgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino\ntolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami\nir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė\npastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo\nbrautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330\nbei jo sūnų Maudelį331 su daugybe ginklanešių."
+  citata_rodoma: |
+    Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
+
+       Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
+    skalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat
+    būgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino
+    tolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami
+    ir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė
+    pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
+    brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
+    bei jo sūnų Maudelį331 su daugybe ginklanešių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1381,7 +1473,13 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
     paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
     su broliais.
-  citata_rodoma: "Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,\n                            būtent: Eimsutis ir dar viena\n\n  Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas\nsiaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas\nkarys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui."
+  citata_rodoma: |
+    Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
+                                būtent: Eimsutis ir dar viena
+
+      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
+    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
+    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

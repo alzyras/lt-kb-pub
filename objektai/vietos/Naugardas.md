@@ -736,7 +736,13 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
-  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
+  citata_rodoma: |
+    Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -758,7 +764,12 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
     vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
     kurių žemės vėl būdavo užkariaujamos.
-  citata_rodoma: "Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­\nvo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,\nkurių žemės vėl būdavo užkariaujamos."
+  citata_rodoma: |
+    Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
+    vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
+    kurių žemės vėl būdavo užkariaujamos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -806,7 +817,20 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
     250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
-  citata_rodoma: "Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona, \ntaip gana ilgam sudrumstęs namų ramybę, privertė lenkus \ngaišti dėl nesvarbių reikalų.\nJau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­\nvo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­\nkeršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų \nmiestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­\nsyk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­\nmingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių \nPskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną \nSidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­\nleisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar \n250 rublių nepridėjo (1429 m."
+  citata_rodoma: |
+    Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
+    taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
+    gaišti dėl nesvarbių reikalų.
+    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
+    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
+    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
+    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
+    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
+    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
+    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
+    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
+    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
+    250 rublių nepridėjo (1429 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -836,7 +860,21 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
-  citata_rodoma: "Juk\ntas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­\nbojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su\nPrūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­\nva, o naudodamasi galingo monarcho parama, jau pasiekė ir\ntolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­\nnius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­\nkių turėjo išaugti būdamas tokios didelės valstybės sostinė.\nEsant karinei valdžiai, viešpataujant valdovams, besirūpinan­\ntiems vien nukariavimais ir, po teisybei, naujos monarchijos\nkūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės\nkraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­\ntas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­\nklestėti!"
+  citata_rodoma: |
+    Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -857,7 +895,12 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
     chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
     10.000 rublių kontribucijos (1428).
-  citata_rodoma: "Yra žinoma, kad jis, kariaudamas su Pskovu, pa­\nsitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,\no už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10.000 rublių kontribucijos (1428)."
+  citata_rodoma: |
+    Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
+    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
+    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -943,7 +986,14 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
     jo lankytis tolimose provincijose, kur artimiau susipažino su
     krikščioniškąja kultūra26.
-  citata_rodoma: "Jo laikais jau būdavo saugu visuose kraštuose, ku­\nriuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp\nNaugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus\nmiestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­\nje Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­\njo lankytis tolimose provincijose, kur artimiau susipažino su\nkrikščioniškąja kultūra26."
+  citata_rodoma: |
+    Jo laikais jau būdavo saugu visuose kraštuose, ku­
+    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
+    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -965,7 +1015,14 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: "Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.\nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų\npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie\nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  citata_rodoma: |
+    Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -989,7 +1046,12 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
     gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
     tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
-  citata_rodoma: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji\nrusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi\nsavo pačių valdžia galingi. Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė."
+  citata_rodoma: |
+    Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
+    rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
+    savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
+    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
+    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1101,7 +1163,21 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     tymo. Mechovita sako: „... linguagium Lithuanicum est quadri­
     partitum: primum linguagium est Iaczuingomm, ut horum qui
     circa castrum Drochicin inhabitarunt, et pauci supemint.
-  citata_rodoma: "Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę. Vėliau iš skandinavų legendų arba iš gana\nfragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­\nvusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,\nkad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­\njo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius\ndėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai\nmokėjo gana neblogai gintis."
+  citata_rodoma: |
+    Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
+    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
+    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
+    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
+    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
+    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
+    mokėjo gana neblogai gintis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

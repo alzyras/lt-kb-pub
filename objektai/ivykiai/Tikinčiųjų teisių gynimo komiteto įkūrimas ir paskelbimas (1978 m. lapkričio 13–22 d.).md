@@ -116,7 +116,8 @@ Nenurodyta
     kuriomis valstybėje naudojasi
     ateistai, o kulto laisvė praktikoje
     varžoma.
-  citata_rodoma: "kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio"
+  citata_rodoma: |
+    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +148,8 @@ Nenurodyta
     kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų
     nesiekęs Komitetas veikė penkerius metus, parengė 53 dokumentus ir kai
     kuriuos jų išplatino.
-  citata_rodoma: "kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų"
+  citata_rodoma: |
+    kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

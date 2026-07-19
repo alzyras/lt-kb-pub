@@ -90,7 +90,8 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
     Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skoli­
     nimas, grąžinimas skolos, samdymas darbininko, atleidimas, magary­
     čios ir daugybė kitų.
-  citata_rodoma: "Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skolinimas, grąžinimas skolos, samdymas darbininko, atleidimas, magaryčios ir daugybė kitų."
+  citata_rodoma: |
+    Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skolinimas, grąžinimas skolos, samdymas darbininko, atleidimas, magaryčios ir daugybė kitų.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
@@ -111,7 +112,8 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
     degtinės.
     Čia geriama magaryčias tiek, kiek galva pakelia arba kiek
     nepakelia.
-  citata_rodoma: "Čia geriama magaryčias tiek, kiek galva pakelia arba kiek nepakelia."
+  citata_rodoma: |
+    Čia geriama magaryčias tiek, kiek galva pakelia arba kiek nepakelia.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

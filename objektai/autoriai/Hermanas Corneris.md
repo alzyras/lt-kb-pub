@@ -83,7 +83,11 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
     K r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271,
     Herm. Corneri Chron. p. 1000, nieko apie Gedimino
     laiškus nėra girdėję, o viską priskiria arkivyskupui.
-  citata_rodoma: "4) Vėlesni kronikininkai: A 1 b. \nK r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271, \nHerm. Corneri Chron. p. 1000, nieko apie Gedimino \nlaiškus nėra girdėję, o viską priskiria arkivyskupui."
+  citata_rodoma: |
+    4) Vėlesni kronikininkai: A 1 b.
+    K r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271,
+    Herm. Corneri Chron. p. 1000, nieko apie Gedimino
+    laiškus nėra girdėję, o viską priskiria arkivyskupui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +112,19 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
     čio brolio, sūnui - subėgę vienas po
     kito ir tarsi kokį piktadarį nuvarę į
     pilį].
-  citata_rodoma: "Žr. Hermano C  o  r  neri o, \ndominikono, Kroniką, Naruševi­\nčiau s t. VII, p. 342, kuris byloja: \nCives oppidi Vilnae, magis faventes Ja- \n$il, filio Olgerdi, fratris Keystuti, cu- \ncurrerunt unus post alium, ac si furem \nquemdam insequerentur ad castrum \n[Vilniaus miesto miestiečiai, labiau\npalankūs Jogailai - Algirdo, Kęstu­\nčio brolio, sūnui - subėgę vienas po \nkito ir tarsi kokį piktadarį nuvarę į \npilį]."
+  citata_rodoma: |
+    Žr. Hermano C  o  r  neri o,
+    dominikono, Kroniką, Naruševi­
+    čiau s t. VII, p. 342, kuris byloja:
+    Cives oppidi Vilnae, magis faventes Ja-
+    $il, filio Olgerdi, fratris Keystuti, cu-
+    currerunt unus post alium, ac si furem
+    quemdam insequerentur ad castrum
+    [Vilniaus miesto miestiečiai, labiau
+    palankūs Jogailai - Algirdo, Kęstu­
+    čio brolio, sūnui - subėgę vienas po
+    kito ir tarsi kokį piktadarį nuvarę į
+    pilį].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

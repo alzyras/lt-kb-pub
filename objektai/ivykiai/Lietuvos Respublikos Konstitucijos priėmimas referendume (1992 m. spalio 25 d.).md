@@ -146,7 +146,9 @@ Nenurodyta
     Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vi-
     daus valdymą pagal demokratinį Vakarų pasaulio modelį. 1992 m. spa-
     lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
-  citata_rodoma: "1992 m. spa-\nlio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija."
+  citata_rodoma: |
+    1992 m. spa-
+    lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -171,7 +173,13 @@ Nenurodyta
     tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
     valdžios galias riboja konstitucija.
-  citata_rodoma: "Pagrindinės Konstitucijos nuostatos skelbė,\nkad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,\nsuverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo\ntiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią\nLietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,\nvaldžios galias riboja konstitucija."
+  citata_rodoma: |
+    Pagrindinės Konstitucijos nuostatos skelbė,
+    kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,
+    suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo
+    tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
+    Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
+    valdžios galias riboja konstitucija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

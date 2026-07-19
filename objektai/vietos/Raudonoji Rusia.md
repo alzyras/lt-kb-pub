@@ -62,7 +62,13 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
     Lietuvos vėliau nuvyko ir pats Jogaila.
     Apie pačią Lietuvos krikštijimo eigą ordino kronikos tyli, nes
     visa tai, kas dėjosi Vilniuje, buvo skersai kelio kryžiuočių planams.
-  citata_rodoma: "Kaip lenkų\ndaliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip\nLietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš\nLietuvos vėliau nuvyko ir pats Jogaila.\nApie pačią Lietuvos krikštijimo eigą ordino kronikos tyli, nes\nvisa tai, kas dėjosi Vilniuje, buvo skersai kelio kryžiuočių planams."
+  citata_rodoma: |
+    Kaip lenkų
+    daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip
+    Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš
+    Lietuvos vėliau nuvyko ir pats Jogaila.
+    Apie pačią Lietuvos krikštijimo eigą ordino kronikos tyli, nes
+    visa tai, kas dėjosi Vilniuje, buvo skersai kelio kryžiuočių planams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

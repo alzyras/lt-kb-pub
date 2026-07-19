@@ -72,7 +72,8 @@ Taikymosi ir susitaikymo per gėrimą formulė.
     alučiu,
     degtinės netekę.
     Užgerk!
-  citata_rodoma: "— Mes apkalbėjome vyrus, tamsta apkalbėjai moteris, — sako Putinienė.— Dabar esame lygiomis. Santaikai susigerkime alučiu, degtinės netekę. Užgerk!"
+  citata_rodoma: |
+    — Mes apkalbėjome vyrus, tamsta apkalbėjai moteris, — sako Putinienė.— Dabar esame lygiomis. Santaikai susigerkime alučiu, degtinės netekę. Užgerk!
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

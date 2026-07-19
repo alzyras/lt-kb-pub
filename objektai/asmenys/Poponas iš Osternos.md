@@ -250,7 +250,13 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
     šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
     bažnyčios sienos.
-  citata_rodoma: "Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų\n\n   Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs\nSventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie\nVišogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su\ngalybe savo karių stovįs prie Svečės pilies ir ją stiprinąs."
+  citata_rodoma: |
+    Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
+
+       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
+    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
+    Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
+    galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -272,7 +278,15 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     manimi gyventi taikiai“. Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
     pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
     Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų.
-  citata_rodoma: "Kai šitai buvo padaryta, 1244 atvyko\nbrolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.\nBe to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų\nsavo lėšomis. Šiems atvykus, broliai be galo džiaugėsi, o Sventopelkas priešingai — taip\nsunerimo ir išsigando, kad iš tos baimės pabandė susitaikyti su broliais, o to jam nebuvo\n  282  Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas\nSventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį\n(PKD, p."
+  citata_rodoma: |
+    Kai šitai buvo padaryta, 1244 atvyko
+    brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
+    Be to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų
+    savo lėšomis. Šiems atvykus, broliai be galo džiaugėsi, o Sventopelkas priešingai — taip
+    sunerimo ir išsigando, kad iš tos baimės pabandė susitaikyti su broliais, o to jam nebuvo
+      282  Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas
+    Sventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį
+    (PKD, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -297,7 +311,17 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     galybę nuodėmių visa krikščionių kariuomenė buvo išsklaidyta, šitaip ji nieko naudinga
     ir nenuveikė, nes numirė popiežius, patriarchas, legatas ir Navaros karalius (Mart. p.
     414; Ptol.
-  citata_rodoma: "Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą\n\n  Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.\nDaug kartų garbingai kariavęs Prūsijoje ir Livonijoje prieš tai, kai priėmė šias pareigas, ir\npo to, kai jas priėmė, pavargęs nuo metų ir rūpesčių naštos, jis nuolankiai atsisakė savo\npareigybės, o ją paveldėjo anksčiau jau šias pareigas ėjęs brolis Anonas.\n\n\n\n 39."
+  citata_rodoma: |
+    Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą
+
+      Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.
+    Daug kartų garbingai kariavęs Prūsijoje ir Livonijoje prieš tai, kai priėmė šias pareigas, ir
+    po to, kai jas priėmė, pavargęs nuo metų ir rūpesčių naštos, jis nuolankiai atsisakė savo
+    pareigybės, o ją paveldėjo anksčiau jau šias pareigas ėjęs brolis Anonas.
+
+
+
+     39.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -322,7 +346,16 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
     5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
     pilis — Elbingą ir Baigą.
-  citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip\nkilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo\nlaivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai\nsužalojo."
+  citata_rodoma: |
+    Apie laivų kautynes
+
+       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
+    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
+    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
+    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
+    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
+    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
+    sužalojo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -345,7 +378,17 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 
 
                 30.
-  citata_rodoma: "Apie brolį Poponą, antrą Prūsijos žemės magistrą\n\n   Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius\nmetus, o atsisakęs pareigų 1241, sugrįžo  į Vokietijos kraštą, kur vėliau buvo išrinktas\ndidžiuoju magistru265.\n\n\n\n\n            30."
+  citata_rodoma: |
+    Apie brolį Poponą, antrą Prūsijos žemės magistrą
+
+       Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius
+    metus, o atsisakęs pareigų 1241, sugrįžo  į Vokietijos kraštą, kur vėliau buvo išrinktas
+    didžiuoju magistru265.
+
+
+
+
+                30.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

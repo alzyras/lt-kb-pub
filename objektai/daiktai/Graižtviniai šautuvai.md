@@ -103,7 +103,13 @@ Nenurodyta
     pavojingu suartėjimo su priešininkų etapą. Besiginančioji pusė ga-
     lėjo atidengti efektyvią ugnį daug toliau, negu buvo įmanoma xix a.
     pirmojoje pusėje.
-  citata_rodoma: "## Puslapis 165\n\nPagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šau-\ntuvų kiekis. Didesnis graižtvinių šautuvų šaudymo nuotolis padarė\npavojingu suartėjimo su priešininkų etapą. Besiginančioji pusė ga-\nlėjo atidengti efektyvią ugnį daug toliau, negu buvo įmanoma xix a."
+  citata_rodoma: |
+    ## Puslapis 165
+
+    Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šau-
+    tuvų kiekis. Didesnis graižtvinių šautuvų šaudymo nuotolis padarė
+    pavojingu suartėjimo su priešininkų etapą. Besiginančioji pusė ga-
+    lėjo atidengti efektyvią ugnį daug toliau, negu buvo įmanoma xix a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

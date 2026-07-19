@@ -60,7 +60,6 @@ Nenurodyta
   pagrindžia:
     - c-177709
     - c-177708
-    - c-177710
 - susijęs iš [[objektai/daiktai/Ąsikliai.md#claim-t-195324|Ąsikliai]]: Pagalbinė detalė vyžoms adyti.
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -80,7 +79,8 @@ Nenurodyta
     šeimininkės virė košelieną ir mėtė išsinarsčiusius kaulus, bernai rinko
     karšius kiaulių blauzdikaulius, kirviais pusiau skėlė, o, pasmailinę kurį
     galą, darė adiklius.
-  citata_rodoma: "Kai šeimininkės virė košelieną ir mėtė išsinarsčiusius kaulus, bernai rinko karšius kiaulių blauzdikaulius, kirviais pusiau skėlė, o, pasmailinę kurį galą, darė adiklius."
+  citata_rodoma: |
+    Kai šeimininkės virė košelieną ir mėtė išsinarsčiusius kaulus, bernai rinko karšius kiaulių blauzdikaulius, kirviais pusiau skėlė, o, pasmailinę kurį galą, darė adiklius.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -99,7 +99,8 @@ Nenurodyta
     Vyžą adė liuntu ir
     tada, kai dar parako nebuvo.
     Vyžoms adyti reikalingas yra įrankis, vadinamas adikliu.
-  citata_rodoma: "Vyžoms adyti reikalingas yra įrankis, vadinamas adikliu."
+  citata_rodoma: |
+    Vyžoms adyti reikalingas yra įrankis, vadinamas adikliu.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -119,11 +120,11 @@ Nenurodyta
     kraipytų.
     Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas
     karnomis.
-  citata_rodoma: "Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis."
+  citata_rodoma: |
+    Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195323

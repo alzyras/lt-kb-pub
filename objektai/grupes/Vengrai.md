@@ -240,7 +240,16 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
     Lietuvą pasiryžęs pasipelnyti
     1499 m eta i
     iš svetimos nelaimės.
-  citata_rodoma: "Po to Lietuvos Didžiosios Kunigaikštystės\nvardu sudarė taiką su Steponu, Valachijos valdovu,\nbei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,\nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne\ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės."
+  citata_rodoma: |
+    Po to Lietuvos Didžiosios Kunigaikštystės
+    vardu sudarė taiką su Steponu, Valachijos valdovu,
+    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
+    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
+    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
+    tik valdovai, bet ir visos jų karalystės bei žemės pa­
+    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
+    Dievobaimingas Aleksandro įstangas sužlugdė klas­
+    tingos Ivano pinklės.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

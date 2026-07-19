@@ -383,7 +383,8 @@ media_all_json: |-
     mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
     turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
     buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
-  citata_rodoma: "turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos"
+  citata_rodoma: |
+    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -410,7 +411,14 @@ media_all_json: |-
     vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais. (Žr. 1.
-  citata_rodoma: "Apie tai mini Kroni­\nka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - \nlavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­\ndydama, kad „1253 metais Petras, išrinktas Poznanės \nvyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­\ntuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­\nkupais."
+  citata_rodoma: |
+    Apie tai mini Kroni­
+    ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -
+    lavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­
+    dydama, kad „1253 metais Petras, išrinktas Poznanės
+    vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
+    tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
+    kupais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -432,7 +440,15 @@ media_all_json: |-
     Vladislavovo pilis - 800 šarvuotų­
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
-  citata_rodoma: "51. Martinas \nGalias pasakoja, kad Poznanė duo­\ndavo 1 300 šarvuotųjų ir 4 000 gin­\nkluotų skydais, Gnieznas - 1 500 \nšarvuotųjų ir 5 000 pėstininkų; \nVladislavovo pilis - 800 šarvuotų­\njų, 2 000 su skydais, Gdečas - 300 \npirmųjų ir 2 000 antrųjų."
+  citata_rodoma: |
+    51. Martinas
+    Galias pasakoja, kad Poznanė duo­
+    davo 1 300 šarvuotųjų ir 4 000 gin­
+    kluotų skydais, Gnieznas - 1 500
+    šarvuotųjų ir 5 000 pėstininkų;
+    Vladislavovo pilis - 800 šarvuotų­
+    jų, 2 000 su skydais, Gdečas - 300
+    pirmųjų ir 2 000 antrųjų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -473,7 +489,12 @@ media_all_json: |-
     ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
     teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
     1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
-  citata_rodoma: "Poznanė dar anksčiau už Krokuvą - 1253 metais,\nSandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­\nketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų\nteises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -\n1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus."
+  citata_rodoma: |
+    Poznanė dar anksčiau už Krokuvą - 1253 metais,
+    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
+    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
+    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
+    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -502,7 +523,17 @@ media_all_json: |-
     parašęs puikią knygą „De optimo
     Senatore", kuri buvo išversta net į
     anglų kalbą.
-  citata_rodoma: "60\nLaurynas Goslickis, pirmiausia ka­\nraliaus Stepono sekretorius, galiau­\nsiai Poznanės vyskupas, išgarsėjo\nypatingais sugebėjimais spręsti vie­\nšuosius reikalus bei įvairiose pasiun­\ntinybėse, bet labiausiai lotynų kalba\nparašęs puikią knygą „De optimo\nSenatore\", kuri buvo išversta net į\nanglų kalbą."
+  citata_rodoma: |
+    60
+    Laurynas Goslickis, pirmiausia ka­
+    raliaus Stepono sekretorius, galiau­
+    siai Poznanės vyskupas, išgarsėjo
+    ypatingais sugebėjimais spręsti vie­
+    šuosius reikalus bei įvairiose pasiun­
+    tinybėse, bet labiausiai lotynų kalba
+    parašęs puikią knygą „De optimo
+    Senatore", kuri buvo išversta net į
+    anglų kalbą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -524,7 +555,11 @@ media_all_json: |-
     1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
     metų, 1538 m.
     13.
-  citata_rodoma: "12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto \nI tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o \n1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 \nmetų, 1538 m."
+  citata_rodoma: |
+    12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
+    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
+    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
+    metų, 1538 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,7 +78,8 @@ Dusburgietis teigia, kad stakauskas J.
     Батура Р. К. Из проблематики «Хроники земли Прусской» Дусбурга. — Балто-
     славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
     докладов, М, 1983 с.
-  citata_rodoma: "Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934."
+  citata_rodoma: |
+    Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

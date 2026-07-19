@@ -250,7 +250,11 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     strateginė kelių sankryža yra Šiauliuose
     (ties dab. Tilžės ir Vilniaus gatvių san-
     kryža), kur plėtojosi senovės gyvenvietė.
-  citata_rodoma: "Šiaulių žemėje pagrindinė\nstrateginė kelių sankryža yra Šiauliuose\n(ties dab. Tilžės ir Vilniaus gatvių san-\nkryža), kur plėtojosi senovės gyvenvietė."
+  citata_rodoma: |
+    Šiaulių žemėje pagrindinė
+    strateginė kelių sankryža yra Šiauliuose
+    (ties dab. Tilžės ir Vilniaus gatvių san-
+    kryža), kur plėtojosi senovės gyvenvietė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

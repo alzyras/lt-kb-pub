@@ -197,7 +197,14 @@ Nenurodyta
     sprendė imtis iniciaty-
     vos ir pasuko Rževo link, į
     Rusijos teritorijos gilumą.
-  citata_rodoma: "Rugpjūčio 21 d. prie\nŠelomos upės lietuviai\nsumušė apie 3000 rusų\ndalinį. K. Radvila nu-\nsprendė imtis iniciaty-\nvos ir pasuko Rževo link, į\nRusijos teritorijos gilumą."
+  citata_rodoma: |
+    Rugpjūčio 21 d. prie
+    Šelomos upės lietuviai
+    sumušė apie 3000 rusų
+    dalinį. K. Radvila nu-
+    sprendė imtis iniciaty-
+    vos ir pasuko Rževo link, į
+    Rusijos teritorijos gilumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -262,7 +269,35 @@ Nenurodyta
     stovyklą ir kitą dieną valdovui pateikė teritoriją, sudegino 6 miestus ir šimtus
     žygio ataskaitą, perdavė belaisvius. kaimų, nukovė apie 10000 rusų, surinko
     gausų karo grobį.
-  citata_rodoma: "Vėliau\nRadvilos pajėgos nusiaubė\nDubno apylinkes, užėmė\nCholmą, iš ten, palei\nLovatės upę, lietuviai nusi-\ngavo iki Novgorodo kunigaikš-\ntystėje, prie Ilmenio ežero esančio\n\n94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis\n\nvos atkariautos teritorijos\n\nStarajos Rusos miesto\nir jį sudegino, o įgulą\n„išmušė“. Galiausiai buvo\nnusiaubtos Opokos apylinkės.\nSpalio 23 d. K. Radvila pasiekė prie\napgulto Pskovo buvusią S. Batoro\n\n850 km), nu-\nsiaubė apie\n60 tūkst. kv. km\n\nŠarvinė\npirštinė, XVI a.\n\nstovyklą ir kitą dieną valdovui pateikė teritoriją, sudegino 6 miestus ir šimtus\nžygio ataskaitą, perdavė belaisvius."
+  citata_rodoma: |
+    Vėliau
+    Radvilos pajėgos nusiaubė
+    Dubno apylinkes, užėmė
+    Cholmą, iš ten, palei
+    Lovatės upę, lietuviai nusi-
+    gavo iki Novgorodo kunigaikš-
+    tystėje, prie Ilmenio ežero esančio
+
+    94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
+
+    vos atkariautos teritorijos
+
+    Starajos Rusos miesto
+    ir jį sudegino, o įgulą
+    „išmušė“. Galiausiai buvo
+    nusiaubtos Opokos apylinkės.
+    Spalio 23 d. K. Radvila pasiekė prie
+    apgulto Pskovo buvusią S. Batoro
+
+    850 km), nu-
+    siaubė apie
+    60 tūkst. kv. km
+
+    Šarvinė
+    pirštinė, XVI a.
+
+    stovyklą ir kitą dieną valdovui pateikė teritoriją, sudegino 6 miestus ir šimtus
+    žygio ataskaitą, perdavė belaisvius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

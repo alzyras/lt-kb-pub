@@ -81,7 +81,8 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: "tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas"
+  citata_rodoma: |
+    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

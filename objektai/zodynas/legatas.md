@@ -108,7 +108,16 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     paremtas Mikalojaus Radvilos, Nesvyžiaus kunigaikš­
     čio, pasirašė ilgalaikį taikos susitarimą šitokiomis są­
     lygomis.
-  citata_rodoma: "Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei\napygardos valdytoją Dorpato vyskupą ir visą dvasinin­\nkų kolegiją. Kai ši žinia pasiekė Lenkiją, Augustas, sku­\nbiai pasiuntęs žygūną, paragino savo legatus pasikal­\nbėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų. Tuo\ntarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­\nradęs saiko jausmą, nei pats paisė teisingumo, nei lega­\ntams leido ką siūlyti dėl Livonijos ir net dėl taikos su\nLietuva."
+  citata_rodoma: |
+    Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
+    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
+    kų kolegiją. Kai ši žinia pasiekė Lenkiją, Augustas, sku­
+    biai pasiuntęs žygūną, paragino savo legatus pasikal­
+    bėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų. Tuo
+    tarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­
+    radęs saiko jausmą, nei pats paisė teisingumo, nei lega­
+    tams leido ką siūlyti dėl Livonijos ir net dėl taikos su
+    Lietuva.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -136,7 +145,31 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą
     privalėsiančios
     stoti jungtinės abiejų tautų jėgos, be
-  citata_rodoma: "Tuo\ntarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­\nradęs saiko jausmą, nei pats paisė teisingumo, nei lega­\ntams leido ką siūlyti dėl Livonijos ir net dėl taikos su\nLietuva. Legatams reikalaujant Seversko ir Smolensko,\nMaskvos didikai atsakė, kad nesą kunigaikščio įgalioti\ntartis dėl užimtų žemių sugrąžinimo.\nEsą taikos\n1558 m e ta i\nM a s k v o s\nv a ld o v a s\nįsiv e ržia\nį\nL ivo n iją ,\nk a raliau s le g a tu s iš ­\nsiu n čia  a tg a l n e d a v ę s\nv iltie s  s u sita ik y ti\n701\n\n## Puslapis 700\n\nsusitarimą galima būsią sudaryti tik tada, kai šie pasi­\ntrauksią iš likusios Rusios dalies, kuri dabar lietuvių ir\nlenkų rankose."
+  citata_rodoma: |
+    Tuo
+    tarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­
+    radęs saiko jausmą, nei pats paisė teisingumo, nei lega­
+    tams leido ką siūlyti dėl Livonijos ir net dėl taikos su
+    Lietuva. Legatams reikalaujant Seversko ir Smolensko,
+    Maskvos didikai atsakė, kad nesą kunigaikščio įgalioti
+    tartis dėl užimtų žemių sugrąžinimo.
+    Esą taikos
+    1558 m e ta i
+    M a s k v o s
+    v a ld o v a s
+    įsiv e ržia
+    į
+    L ivo n iją ,
+    k a raliau s le g a tu s iš ­
+    siu n čia  a tg a l n e d a v ę s
+    v iltie s  s u sita ik y ti
+    701
+
+    ## Puslapis 700
+
+    susitarimą galima būsią sudaryti tik tada, kai šie pasi­
+    trauksią iš likusios Rusios dalies, kuri dabar lietuvių ir
+    lenkų rankose.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

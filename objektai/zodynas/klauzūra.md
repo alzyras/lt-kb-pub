@@ -62,7 +62,14 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
     daugelį — prie altoriaus, netgi tuo metu, kai šie teikė švenčiausiojo Jėzaus Kristaus kūną
     bei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė
     kojomis.
-  citata_rodoma: "Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,\nneskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų\nir griežtos klauzūros moterų vienuolynų. Jie žudė kunigus bei kitus dvasininkus,  ir\nbažnytinius, ir pasaulietinius, vienus — už bažnyčios sienų, kitus — pačioje bažnyčioje,\ndaugelį — prie altoriaus, netgi tuo metu, kai šie teikė švenčiausiojo Jėzaus Kristaus kūną\nbei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė\nkojomis."
+  citata_rodoma: |
+    Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,
+    neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų
+    ir griežtos klauzūros moterų vienuolynų. Jie žudė kunigus bei kitus dvasininkus,  ir
+    bažnytinius, ir pasaulietinius, vienus — už bažnyčios sienų, kitus — pačioje bažnyčioje,
+    daugelį — prie altoriaus, netgi tuo metu, kai šie teikė švenčiausiojo Jėzaus Kristaus kūną
+    bei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė
+    kojomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -76,7 +76,8 @@ media_all_json: |-
     tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis).
-  citata_rodoma: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria"
+  citata_rodoma: |
+    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -84,7 +84,12 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
     _Die Flucht der Litauer in der Schlacht bei Tannenberg,_ ZfO, 12, 1, 1963.
     11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
     nr. 559-561, 1888.
-  citata_rodoma: "1930. — Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius paver­\ngėjus 1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p.—Ekdahl, S.:\n_Die Flucht der Litauer in der Schlacht bei Tannenberg,_ ZfO, 12, 1, 1963.\n11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,\nnr. 559-561, 1888."
+  citata_rodoma: |
+    1930. — Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius paver­
+    gėjus 1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p.—Ekdahl, S.:
+    _Die Flucht der Litauer in der Schlacht bei Tannenberg,_ ZfO, 12, 1, 1963.
+    11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
+    nr. 559-561, 1888.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

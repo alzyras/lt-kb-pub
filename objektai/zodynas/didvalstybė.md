@@ -112,7 +112,8 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
     pripažinimo, kur užteko savo pačios galių, pagoniška Lietuva pamažu
     virto visam regionui reikšminga jėga arba didvalstybe (lenk. mocartstwo,
     rus. deržava, vok. Grossmacht), o nuo jos iki imperijos – jau tik žingsnis.
-  citata_rodoma: "rus. deržava, vok. Grossmacht), o nuo jos iki imperijos – jau tik žingsnis."
+  citata_rodoma: |
+    rus. deržava, vok. Grossmacht), o nuo jos iki imperijos – jau tik žingsnis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -132,7 +133,8 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
     pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose. Valdant Ldk
     Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia
     savo teritoriją nuo Baltijos iki Juodosios jūros.
-  citata_rodoma: "Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia"
+  citata_rodoma: |
+    Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

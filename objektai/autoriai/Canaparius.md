@@ -62,7 +62,10 @@ Adalberto (Vaitiekaus) biografas Canaparius, kuris kalbėjo apie « Pruzzorum fi
     Tikrąjį prūsų vardą pirmasis paminėjo 999 m. prūsų apaštalo-
     kankinio šv. Adalberto (Vaitiekaus) biografas Canaparius, kuris
     kalbėjo apie « Pruzzorum fines ».
-  citata_rodoma: "Tikrąjį prūsų vardą pirmasis paminėjo 999 m. prūsų apaštalo-\nkankinio šv. Adalberto (Vaitiekaus) biografas Canaparius, kuris\nkalbėjo apie « Pruzzorum fines »."
+  citata_rodoma: |
+    Tikrąjį prūsų vardą pirmasis paminėjo 999 m. prūsų apaštalo-
+    kankinio šv. Adalberto (Vaitiekaus) biografas Canaparius, kuris
+    kalbėjo apie « Pruzzorum fines ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

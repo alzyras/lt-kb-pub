@@ -132,7 +132,11 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
     no uždavinys, kaip galima spręsti iš „Mitologijos“, yra
     atskleisti praeities įvykių esmę, pradedant tautos kilmės
     ab ovo (pabr.
-  citata_rodoma: "Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, sumanymų,\npastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris sudarys penkis\narba šešis tomus, negali būti vadinamas istorija (historia), o tik\nveikalais (dzieje), t. y. turi turėti kuklesnį pavadinimą2."
+  citata_rodoma: |
+    Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, sumanymų,
+    pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris sudarys penkis
+    arba šešis tomus, negali būti vadinamas istorija (historia), o tik
+    veikalais (dzieje), t. y. turi turėti kuklesnį pavadinimą2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -161,7 +165,10 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
     senovėje“ — beveik identiškai
     S. Daukanto tekstui „Pasakojimas apie veikalus lietuvių
     tautos senovėje“.
-  citata_rodoma: "„Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“\naiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-\nkalu“."
+  citata_rodoma: |
+    „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
+    aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-
+    kalu“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

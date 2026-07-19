@@ -121,7 +121,13 @@ Nenurodyta
     monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22]. 1752 m. J. D. Lopacinskis
     rašė, esą Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis „valgęs pietus pas
     mus“ Antakalnyje, turėjo išvykti į kelionę nakvynei Paneriuose [30].
-  citata_rodoma: "Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti\nį Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni\nSołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-\nmonijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22]. 1752 m. J. D. Lopacinskis\nrašė, esą Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis „valgęs pietus pas\nmus“ Antakalnyje, turėjo išvykti į kelionę nakvynei Paneriuose [30]."
+  citata_rodoma: |
+    Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti
+    į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni
+    Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-
+    monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22]. 1752 m. J. D. Lopacinskis
+    rašė, esą Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis „valgęs pietus pas
+    mus“ Antakalnyje, turėjo išvykti į kelionę nakvynei Paneriuose [30].
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
   teiginio_tipas: faktas

@@ -82,7 +82,13 @@ Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu gl
     vo tik Jupiteris, turėjęs antrąją ypatybę*.
     Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
     piorunkomis (Piorunki).
-  citata_rodoma: "Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­\nsuomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę\niš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs\nKauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys\nžuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­\nkančias upes: Nerį, Nemuną ir Nevėžį."
+  citata_rodoma: |
+    Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
+    suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę
+    iš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs
+    Kauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys
+    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
+    kančias upes: Nerį, Nemuną ir Nevėžį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

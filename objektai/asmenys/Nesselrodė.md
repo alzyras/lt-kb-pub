@@ -87,7 +87,17 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
     įtakos Lietuvos vidaus reikalams, jis vis
     labiau silpo ir nebeteko jokios politinės
     reikšmės.
-  citata_rodoma: "Mūšio padariniai\n\nPabaisko (Šventosios) mūšyje žuvo\nLivonijos magistras Kerskorfas, marša-\n\nlas Nesselrodė, žuvo dauguma Livonijos\nkomtūrų ir riterijos krito, paimta į ne-\nlaisvę daug Švitrigailos karių. Be to, paimta\ndaug priešo vėliavų, kurios pergalės garbei\nbuvo pakabintos Vilniaus katedroje."
+  citata_rodoma: |
+    Mūšio padariniai
+
+    Pabaisko (Šventosios) mūšyje žuvo
+    Livonijos magistras Kerskorfas, marša-
+
+    las Nesselrodė, žuvo dauguma Livonijos
+    komtūrų ir riterijos krito, paimta į ne-
+    laisvę daug Švitrigailos karių. Be to, paimta
+    daug priešo vėliavų, kurios pergalės garbei
+    buvo pakabintos Vilniaus katedroje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

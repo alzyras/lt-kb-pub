@@ -70,7 +70,7 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    20. Apie Baigos pilies apgulą
+    Apie Baigos pilies apgulą
 
       Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs
     visą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip
@@ -82,7 +82,19 @@ Nenurodyta
 
 
                    21.
-  citata_rodoma: "20. Apie Baigos pilies apgulą\n\n  Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs\nvisą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip\nkaro vadas kitų akivaizdoje pasižymėti kovoje, tačiau, priartėjęs prie pilies ir pervertas\nvieno brolio strėle [telo], krito žemėn ir baigė dienas, o šio įvykio nugąsdinti ir visi kiti\nišsižadėjo savo sumanymo.\n\n\n\n\n               21."
+  citata_rodoma: |
+    Apie Baigos pilies apgulą
+
+      Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs
+    visą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip
+    karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau, priartėjęs prie pilies ir pervertas
+    vieno brolio strėle [telo], krito žemėn ir baigė dienas, o šio įvykio nugąsdinti ir visi kiti
+    išsižadėjo savo sumanymo.
+
+
+
+
+                   21.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

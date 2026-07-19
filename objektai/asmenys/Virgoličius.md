@@ -119,7 +119,14 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
     kur ėmė užiminėti pa-
     talpas, plėšti gyvento-
     jus ir kitaip savivaliauti.
-  citata_rodoma: "1919 m. liepos 26 d. į\nKuršėnus įžengė pirmieji\nbermontininkai, vado-\nvaujami plk. Virgoličiaus,\nkur ėmė užiminėti pa-\ntalpas, plėšti gyvento-\njus ir kitaip savivaliauti."
+  citata_rodoma: |
+    1919 m. liepos 26 d. į
+    Kuršėnus įžengė pirmieji
+    bermontininkai, vado-
+    vaujami plk. Virgoličiaus,
+    kur ėmė užiminėti pa-
+    talpas, plėšti gyvento-
+    jus ir kitaip savivaliauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

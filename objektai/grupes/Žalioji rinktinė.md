@@ -87,7 +87,12 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
     Apygardos teritorijoje, Šimonių girioje,
     bazavosi srities vadovybė, būdavo ren-
     giami srities vadų sąskrydžiai.
-  citata_rodoma: "Algimanto apygardą sudarė trys rinktinės:\nŠarūno, Kunigaikščio Margio ir Žalioji.\nApygardos teritorijoje, Šimonių girioje,\nbazavosi srities vadovybė, būdavo ren-\ngiami srities vadų sąskrydžiai."
+  citata_rodoma: |
+    Algimanto apygardą sudarė trys rinktinės:
+    Šarūno, Kunigaikščio Margio ir Žalioji.
+    Apygardos teritorijoje, Šimonių girioje,
+    bazavosi srities vadovybė, būdavo ren-
+    giami srities vadų sąskrydžiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +112,13 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
     kovotojai sujungti į vieną - Tumo Vaižganto
     rinktinę ir įtraukti į Vytauto, o Žaliosios
     rinktinės kovotojai - į Vyčio apygardas.
-  citata_rodoma: "1950 m. lapkričio 25 d. srities vado įsakymu\nAlgimanto apygarda buvo panaikinta. Likę\nŠarūno ir Kunigaikščio Margio rinktinių\nkovotojai sujungti į vieną - Tumo Vaižganto\nrinktinę ir įtraukti į Vytauto, o Žaliosios\nrinktinės kovotojai - į Vyčio apygardas."
+  citata_rodoma: |
+    1950 m. lapkričio 25 d. srities vado įsakymu
+    Algimanto apygarda buvo panaikinta. Likę
+    Šarūno ir Kunigaikščio Margio rinktinių
+    kovotojai sujungti į vieną - Tumo Vaižganto
+    rinktinę ir įtraukti į Vytauto, o Žaliosios
+    rinktinės kovotojai - į Vyčio apygardas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -91,7 +91,8 @@ Nenurodyta
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
     27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
     sakoma, kad surengti pogromus buvo nelengva.
-  citata_rodoma: "inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,"
+  citata_rodoma: |
+    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

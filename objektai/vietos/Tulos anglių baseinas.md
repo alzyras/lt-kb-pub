@@ -67,7 +67,11 @@ media_all_json: |-
     +» katorgos darbų į Tulos anglių baseino
     kasyklą. 1946 m. su keturiais tautiečiais
     jis pabėgo ir grįžo į Lietuvą.
-  citata_rodoma: "1945 m. sovietai jj suėmė ir išsiuntė\n+» katorgos darbų į Tulos anglių baseino\nkasyklą. 1946 m. su keturiais tautiečiais\njis pabėgo ir grįžo į Lietuvą."
+  citata_rodoma: |
+    1945 m. sovietai jj suėmė ir išsiuntė
+    +» katorgos darbų į Tulos anglių baseino
+    kasyklą. 1946 m. su keturiais tautiečiais
+    jis pabėgo ir grįžo į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

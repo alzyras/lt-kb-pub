@@ -59,7 +59,12 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
     pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
     vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
     ir šitaip jam atseikėjo tuo pačiu saiku.
-  citata_rodoma: "Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį\nHenriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat\npasiųsiu tave  į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda\nvėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų\nir šitaip jam atseikėjo tuo pačiu saiku."
+  citata_rodoma: |
+    Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
+    Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat
+    pasiųsiu tave  į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
+    vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
+    ir šitaip jam atseikėjo tuo pačiu saiku.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

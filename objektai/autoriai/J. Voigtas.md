@@ -101,7 +101,14 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
     gentims, sako: „Turbūt tas pats karalius Germanarikas
     savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
     kraštą ir pavergė estų tautą“4.
-  citata_rodoma: "Siame gana aiš­\nkiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad\njis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­\nšyti vadindamas estais. Išnagrinėjęs Tacito geografiją,\nnaujųjų laikų prūsų istorikas nustatė šią Estijos padėtį\nkaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo\n1 Thunmann."
+  citata_rodoma: |
+    Siame gana aiš­
+    kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
+    jis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­
+    šyti vadindamas estais. Išnagrinėjęs Tacito geografiją,
+    naujųjų laikų prūsų istorikas nustatė šią Estijos padėtį
+    kaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo
+    1 Thunmann.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

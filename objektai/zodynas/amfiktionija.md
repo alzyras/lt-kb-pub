@@ -76,7 +76,10 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
     (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
-  citata_rodoma: "Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties \n(Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių \nsąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti."
+  citata_rodoma: |
+    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
+    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
+    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

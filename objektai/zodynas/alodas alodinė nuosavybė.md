@@ -117,7 +117,10 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
     dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
     tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
     kad atvykę deramai pataisytų tai, kas atsitiko.
-  citata_rodoma: "Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų\nsmarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;\nnukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių."
+  citata_rodoma: |
+    Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
+    smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
+    nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

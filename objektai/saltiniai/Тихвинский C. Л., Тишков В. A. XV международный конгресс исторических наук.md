@@ -81,7 +81,9 @@ Dusburgietis teigia, kad тихвинский C.
     Girdavas (D.— Girdaw, Jer.— Girdauwe)
     Girdila (D.— Girdilo, Jer.— Girdelô)
     Giunteris, Mazovijos vysk.
-  citata_rodoma: "Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук.\n— ВИ, 1980, № 12, с. 3—23."
+  citata_rodoma: |
+    Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук.
+    — ВИ, 1980, № 12, с. 3—23.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -86,7 +86,9 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
     _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
     pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
     _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
-  citata_rodoma: "— Trumpa, V. :\n_Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p."
+  citata_rodoma: |
+    — Trumpa, V. :
+    _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -103,7 +105,11 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 
     (^82) **V. Trumpa:** **_Jonynas I_** **., LE 9 t., 478 p.**
     (^83) **A. Plateris :** **_Janulaitis mokslininkas_** **, LE 9 t., 293 p.**
-  citata_rodoma: "Šalia bendros Bažnyčios ir Lietuvos\n\n(^82) **V. Trumpa:** **_Jonynas I_** **., LE 9 t., 478 p.**\n(^83) **A."
+  citata_rodoma: |
+    Šalia bendros Bažnyčios ir Lietuvos
+
+    (^82) **V. Trumpa:** **_Jonynas I_** **., LE 9 t., 478 p.**
+    (^83) **A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

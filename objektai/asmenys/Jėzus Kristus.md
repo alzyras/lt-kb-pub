@@ -148,7 +148,11 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
     gyvenimas, tai yra jų buitis, kitados tokia vargana ir alkana, dabar sočiai praturtėjo
     laikinomis gėrybėmis, reikia šį bei tą pakalbėti apie buvusį skurdą ir esamą gerovę, kad
     šitaip sugretintos priešybės labiau viena kitą išryškintų.
-  citata_rodoma: "Tad atkreipk savo\nakis, gerasis Jėzau,  į tavo nuolankius tarnus, kurių rankomis štai teikeisi daryti tokių\nreikšmingų ženklų, kad nerimautų ir nuogąstautų gentys, kurios gyvena, nepaisydamos\ntavo ženklų. Leido jis skelbti ir savo stebuklus, nes jie galingi."
+  citata_rodoma: |
+    Tad atkreipk savo
+    akis, gerasis Jėzau,  į tavo nuolankius tarnus, kurių rankomis štai teikeisi daryti tokių
+    reikšmingų ženklų, kad nerimautų ir nuogąstautų gentys, kurios gyvena, nepaisydamos
+    tavo ženklų. Leido jis skelbti ir savo stebuklus, nes jie galingi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -173,7 +177,21 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas.
-  citata_rodoma: "PRŪSIJOS ŽEMĖS\n   KRONIKA\n\nDedikacija\n\n\n     Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,\nŠventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą\nsveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.\nKiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje\nšventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi\nnuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei\nbūsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad\napreikšti dievo darbus yra šlovinga."
+  citata_rodoma: |
+    PRŪSIJOS ŽEMĖS
+       KRONIKA
+
+    Dedikacija
+
+
+         Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
+    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -195,7 +213,18 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
     kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
     šlovinamas per amžius, amen.
     4.
-  citata_rodoma: "Septyni Teutonų ordino broliai su keliais\nginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik\niš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium],\nbet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,\nkuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris\nšlovinamas per amžius, amen.\n\n\n\n\n                          4."
+  citata_rodoma: |
+    Septyni Teutonų ordino broliai su keliais
+    ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik
+    iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium],
+    bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
+    kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
+    šlovinamas per amžius, amen.
+
+
+
+
+                              4.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

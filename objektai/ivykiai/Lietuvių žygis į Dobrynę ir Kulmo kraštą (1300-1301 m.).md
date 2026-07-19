@@ -148,7 +148,28 @@ Nenurodyta
     o visos gurguolės buvo nuvarytos į priekį, jie nedrįso
     bandyti laimės tikrose kautynėse ir davė trimitu ženk­
     lą trauktis.
-  citata_rodoma: "Iš L iv o n ijo s lie tu v ia i \nTaigi šeši tūkstančiai karių, \nž y g iu o ja \nĮ \nL en k iją , \nstaigiai įsiveržusių Į Dobry- \nn io k o ja D o b ryn ę \nnę, nuniokojo visą kraštą.\nBendras sąjungininkų pralai­\nmėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai \npatvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­\nvusiems kariams persikelti. Greitosiomis sutelktas len­\nkų būrys pasivijo besitrau- \n1301 m e ta i \nkiančius lietuvius ir, tikėda­\nmasis atsiimti grobį, smarkiai \nužpuolė ariergardą, nedelsdamas nė valandėlės; ka­\ndangi ten susidūrė su geriausiais kariuomenės daliniais, \no visos gurguolės buvo nuvarytos į priekį, jie nedrįso \nbandyti laimės tikrose kautynėse ir davė trimitu ženk­\nlą trauktis."
+  citata_rodoma: |
+    Iš L iv o n ijo s lie tu v ia i
+    Taigi šeši tūkstančiai karių,
+    ž y g iu o ja
+    Į
+    L en k iją ,
+    staigiai įsiveržusių Į Dobry-
+    n io k o ja D o b ryn ę
+    nę, nuniokojo visą kraštą.
+    Bendras sąjungininkų pralai­
+    mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai
+    patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­
+    vusiems kariams persikelti. Greitosiomis sutelktas len­
+    kų būrys pasivijo besitrau-
+    1301 m e ta i
+    kiančius lietuvius ir, tikėda­
+    masis atsiimti grobį, smarkiai
+    užpuolė ariergardą, nedelsdamas nė valandėlės; ka­
+    dangi ten susidūrė su geriausiais kariuomenės daliniais,
+    o visos gurguolės buvo nuvarytos į priekį, jie nedrįso
+    bandyti laimės tikrose kautynėse ir davė trimitu ženk­
+    lą trauktis.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

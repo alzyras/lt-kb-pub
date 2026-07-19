@@ -116,7 +116,11 @@ Nenurodyta
     Rusijos imperijos priespaudos laikų švietimą
     lietuvių kalba vaizduojanti alegorinė skulptūra
      „Lietuvos mokykla 1864–1904“.
-  citata_rodoma: "Rusų kalba\nRusijos imperijos priespaudos laikų švietimą\nlietuvių kalba vaizduojanti alegorinė skulptūra\n „Lietuvos mokykla 1864–1904“."
+  citata_rodoma: |
+    Rusų kalba
+    Rusijos imperijos priespaudos laikų švietimą
+    lietuvių kalba vaizduojanti alegorinė skulptūra
+     „Lietuvos mokykla 1864–1904“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

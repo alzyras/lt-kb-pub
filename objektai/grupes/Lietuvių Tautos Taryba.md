@@ -64,12 +64,17 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
-    **1917 m. lietuvių seimas Petrapily.** Rusijoje 1917 metų kovo
+    Rusijoje 1917 metų kovo
     mėnesį iš visokių srovių buvo sudaryta Lietuvių Tautos Taryba,
     kuri, norėdama sustiprinti savo autoritetą, sušaukė visų Rusijoje
     išblaškytų lietuvių seimą (Petrapily 1917 m. gegužės 27 d.,
     sen. kal.).
-  citata_rodoma: "Rusijoje 1917 metų kovo\nmėnesį iš visokių srovių buvo sudaryta Lietuvių Tautos Taryba,\nkuri, norėdama sustiprinti savo autoritetą, sušaukė visų Rusijoje\nišblaškytų lietuvių seimą (Petrapily 1917 m. gegužės 27 d.,\nsen. kal.)."
+  citata_rodoma: |
+    Rusijoje 1917 metų kovo
+    mėnesį iš visokių srovių buvo sudaryta Lietuvių Tautos Taryba,
+    kuri, norėdama sustiprinti savo autoritetą, sušaukė visų Rusijoje
+    išblaškytų lietuvių seimą (Petrapily 1917 m. gegužės 27 d.,
+    sen. kal.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

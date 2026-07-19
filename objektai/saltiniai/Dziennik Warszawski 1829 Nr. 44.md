@@ -85,7 +85,10 @@ Teodoras Narbutas, remdamasis „Dziennik Warszawski“ 1829 m. Nr. 44, herulus 
     4 Safaržykas dėl nesuvokiamų priežasčių mėgina įrodyti, jog ma­
     no ir mano pirmtakų aiškinimai apie skirtus ir hirius, kaip herulų pro­
     tėvius, nėra visiškai vaisingi.
-  citata_rodoma: "Todėl herulus\nreikėtų vadinti gerulais, Gerule; kai sakoma Herulis, tai skamba kaip\nErulis (Dziennik Warszawski. 1829. Nr. 44. S. 31)*."
+  citata_rodoma: |
+    Todėl herulus
+    reikėtų vadinti gerulais, Gerule; kai sakoma Herulis, tai skamba kaip
+    Erulis (Dziennik Warszawski. 1829. Nr. 44. S. 31)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

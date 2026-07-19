@@ -77,7 +77,8 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
     Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
     netgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo
     „revizionistais per prievartą“.
-  citata_rodoma: "Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis"
+  citata_rodoma: |
+    Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

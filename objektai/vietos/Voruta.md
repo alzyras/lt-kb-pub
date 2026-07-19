@@ -66,7 +66,14 @@ Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė v
     keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
     lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
     ir gyveno tenai.
-  citata_rodoma: "Andrių broliai riteriai pašalino iš pareigų, o Tautvilą \nparbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė \njotvingius ir žemaičius bei Danieliaus pagalbą, kurią \nDanielius buvo jam anksčiau davęs, ir išžygiavo prieš \nMindaugą.\nMindaugas buvo pasiruošęs, bet nutarė su jais at­\nvirame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir"
+  citata_rodoma: |
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

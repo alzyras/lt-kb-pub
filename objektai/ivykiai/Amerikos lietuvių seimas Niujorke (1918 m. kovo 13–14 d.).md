@@ -82,7 +82,12 @@ Nenurodyta
     kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-
     kos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-
     somą Lietuvos valstybę.
-  citata_rodoma: "Tais pat metais kovo mėn.\n13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas,\nkuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-\nkos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-\nsomą Lietuvos valstybę."
+  citata_rodoma: |
+    Tais pat metais kovo mėn.
+    13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas,
+    kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-
+    kos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-
+    somą Lietuvos valstybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

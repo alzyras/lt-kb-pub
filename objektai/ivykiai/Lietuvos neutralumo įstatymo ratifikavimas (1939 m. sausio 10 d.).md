@@ -92,7 +92,15 @@ Nenurodyta
     Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
     tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
     liktą.
-  citata_rodoma: "Neutralumo politika ir  \nMolotovo–Ribentropo paktas\nGriūvant Versalio sistemos postulatams, Tautų Sąjungai \nnebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų \nministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti \njų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto \n16-ą straipsnį. Neturėdamos jokio pasirinkimo, trys Baltijos valstybės \nparuošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d."
+  citata_rodoma: |
+    Neutralumo politika ir
+    Molotovo–Ribentropo paktas
+    Griūvant Versalio sistemos postulatams, Tautų Sąjungai
+    nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų
+    ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti
+    jų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto
+    16-ą straipsnį. Neturėdamos jokio pasirinkimo, trys Baltijos valstybės
+    paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

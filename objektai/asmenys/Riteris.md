@@ -86,7 +86,17 @@ Narbutas nurodo, kad ponas Riteris „Šiaurės senovės tyrimuose“ plačiai a
     1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
     buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
     ypač mitologiją liečiančius dalykus**.
-  citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
+  citata_rodoma: |
+    100
+
+    ## Puslapis 100
+
+    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
+    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
+    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
+    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
+    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
+    ponas Riteris savo Siaurės senovės tyrimuose15.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

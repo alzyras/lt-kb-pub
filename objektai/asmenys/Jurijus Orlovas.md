@@ -72,7 +72,8 @@ media_all_json: |-
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: "pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-"
+  citata_rodoma: |
+    pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

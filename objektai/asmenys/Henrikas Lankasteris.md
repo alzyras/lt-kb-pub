@@ -134,7 +134,18 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
     sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
     riteris Boucicaut24.
-  citata_rodoma: "liepos 25 d.\n119\n\n## Puslapis 136\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nlankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­\nbio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­\nno sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos \nsostą23. Prancūzams ir kitiems kariams vadovavo narsusis \nriteris Boucicaut24."
+  citata_rodoma: |
+    liepos 25 d.
+    119
+
+    ## Puslapis 136
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
+    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
+    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
+    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
+    riteris Boucicaut24.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -162,7 +173,19 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     prabuvęs Ispanijoje, siekdamas už­
     imti Kastilijos sostą, bemaž tuo pat
     metu tiesiai iš ten pargrįžo į Angliją.
-  citata_rodoma: "Jis eikvojo didžiules pinigų su­\nmas rengdamas turnyrus, kurie \nsuteikė progą jį palyginti nepalan­\nkioje šviesoje su Derbio grafu, jo \npusbroliu, labai gerbiamu kuni­\ngaikščiu]. Taigi Derbio grafas, daly­\nvavęs Vilniaus apgultyje 1390 m., \nnegalėjo būti jo tėvas kunigaikštis \nLankasteris, mat jis, kelerius metus \nprabuvęs Ispanijoje, siekdamas už­\nimti Kastilijos sostą, bemaž tuo pat \nmetu tiesiai iš ten pargrįžo į Angliją."
+  citata_rodoma: |
+    Jis eikvojo didžiules pinigų su­
+    mas rengdamas turnyrus, kurie
+    suteikė progą jį palyginti nepalan­
+    kioje šviesoje su Derbio grafu, jo
+    pusbroliu, labai gerbiamu kuni­
+    gaikščiu]. Taigi Derbio grafas, daly­
+    vavęs Vilniaus apgultyje 1390 m.,
+    negalėjo būti jo tėvas kunigaikštis
+    Lankasteris, mat jis, kelerius metus
+    prabuvęs Ispanijoje, siekdamas už­
+    imti Kastilijos sostą, bemaž tuo pat
+    metu tiesiai iš ten pargrįžo į Angliją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -193,7 +216,22 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     Anglijos ir nukeliavo į Prūsiją ka­
     riauti su netikėliais, kur išgarsėjo
     savo riteriškais žygiais.
-  citata_rodoma: "1, \npajėgomis įsibrovė į Lietuvą. Nebu­\nvo apie 1390 metus jokio Henriko \nAnglijos soste, o viešpatavo anuo \ntarpu Ričardas II, ir prie Vilniaus bu­\nvojo ne kas kitas, tik Henrikas Lan­\nkasteris, pirm Derbio grafas, vėliau \nžinomas kunigaikščio Herfordo var­\ndu, Jono de Gando, Lankasterio ku­\nnigaikščio, Ričardo dėdės, sūnus. \nTas Derbio grafas, būdamas kara­\nliaus priešininkų pusėje, išvyko iš \nAnglijos ir nukeliavo į Prūsiją ka­\nriauti su netikėliais, kur išgarsėjo \nsavo riteriškais žygiais."
+  citata_rodoma: |
+    1,
+    pajėgomis įsibrovė į Lietuvą. Nebu­
+    vo apie 1390 metus jokio Henriko
+    Anglijos soste, o viešpatavo anuo
+    tarpu Ričardas II, ir prie Vilniaus bu­
+    vojo ne kas kitas, tik Henrikas Lan­
+    kasteris, pirm Derbio grafas, vėliau
+    žinomas kunigaikščio Herfordo var­
+    du, Jono de Gando, Lankasterio ku­
+    nigaikščio, Ričardo dėdės, sūnus.
+    Tas Derbio grafas, būdamas kara­
+    liaus priešininkų pusėje, išvyko iš
+    Anglijos ir nukeliavo į Prūsiją ka­
+    riauti su netikėliais, kur išgarsėjo
+    savo riteriškais žygiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

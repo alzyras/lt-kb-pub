@@ -89,7 +89,8 @@ Nenurodyta
     Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m.
     Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
     apie 20 proc. biudžeto teko skirti krašto gynybos reikalams.
-  citata_rodoma: "Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –"
+  citata_rodoma: |
+    Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

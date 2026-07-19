@@ -108,7 +108,12 @@ Nenurodyta
     ne), kur buvo rastas organizacijos archyvas su narių sąrašais,
     šnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų
     vadai tuojau buvo areštuoti, ir sukilimo nebeįvyko.
-  citata_rodoma: "Mūsų saugumo organai susekė sąmokslininkus, tą pačią\nsukilimui skirtą naktį buvo padaryta krata P.O.W. centre (Kau-\nne), kur buvo rastas organizacijos archyvas su narių sąrašais,\nšnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų\nvadai tuojau buvo areštuoti, ir sukilimo nebeįvyko."
+  citata_rodoma: |
+    Mūsų saugumo organai susekė sąmokslininkus, tą pačią
+    sukilimui skirtą naktį buvo padaryta krata P.O.W. centre (Kau-
+    ne), kur buvo rastas organizacijos archyvas su narių sąrašais,
+    šnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų
+    vadai tuojau buvo areštuoti, ir sukilimo nebeįvyko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -127,7 +132,10 @@ Nenurodyta
     daugelis jų spėjo pasprukti į okupuotą Vilnių. Vis dėlto 117 iš
     jų 1920 m. gruodžio 11—24 d. buvo teisti kariuomenės teismo
     (iš viso P.O.W. sąrašuose buvo rasti suregistruoti 435 nariai).
-  citata_rodoma: "Vis dėlto 117 iš\njų 1920 m. gruodžio 11—24 d. buvo teisti kariuomenės teismo\n(iš viso P.O.W. sąrašuose buvo rasti suregistruoti 435 nariai)."
+  citata_rodoma: |
+    Vis dėlto 117 iš
+    jų 1920 m. gruodžio 11—24 d. buvo teisti kariuomenės teismo
+    (iš viso P.O.W. sąrašuose buvo rasti suregistruoti 435 nariai).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

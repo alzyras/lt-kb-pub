@@ -64,7 +64,9 @@ LieP = Lietuvos Pilys, red. J.
     t. 4). Krokuva 1892.
     LieP = Lietuvos Pilys, red. J. Jurginis (9-nių autorių tyrinėjimų
     rinkinys apie mūrines Lietuvos pilis), Vilnius 1971.
-  citata_rodoma: "LieP = Lietuvos Pilys, red. J. Jurginis (9-nių autorių tyrinėjimų\nrinkinys apie mūrines Lietuvos pilis), Vilnius 1971."
+  citata_rodoma: |
+    LieP = Lietuvos Pilys, red. J. Jurginis (9-nių autorių tyrinėjimų
+    rinkinys apie mūrines Lietuvos pilis), Vilnius 1971.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

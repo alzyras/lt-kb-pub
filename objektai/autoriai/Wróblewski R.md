@@ -71,7 +71,9 @@ Dusburgietis teigia, kad wróblewski R.
     Пашуто В. Т.  Образование Литовского государства — М., 1959.
     Пашуто В. Т.  Гродно в Хронике Петра Дусбурга. — Культура древней Руси/
     Посвящается 40-летию научной деятельности H. Н. Воронина, М., 1966, с.
-  citata_rodoma: "Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—\n1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18."
+  citata_rodoma: |
+    Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—
+    1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

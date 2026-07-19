@@ -86,7 +86,15 @@ Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuoki
     gelbėti Pitėją, reikia daryti prielaidą, jog šį pavadinimą
     1 Reikia atkreipti dėmesį, jog pirklių pavydas ir valdžios politika
     daugelį atradimų laikė paslaptyje.
-  citata_rodoma: "Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo. Dažnai\njo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo\nilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­\njęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­\nvintais jėzuitų aprašymais. Pitėjas vadina gutonus ger­\nmanų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­\nnimas pradėtas vartoti tik neseniai."
+  citata_rodoma: |
+    Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais. Pitėjas vadina gutonus ger­
+    manų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­
+    nimas pradėtas vartoti tik neseniai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

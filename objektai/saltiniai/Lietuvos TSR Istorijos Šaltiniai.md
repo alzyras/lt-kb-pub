@@ -131,7 +131,10 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
     pradedant Torune (1231 m.), lakoniškai pasakojama apie mūšius „zu Kuwerlant“
     1260 m. (t. y. Kurše— Durbė), „zu Pocarwen“ ir kt., apie Vokietijos, Čekijos hercogų,
     markgrafų, karalių atvykimą į Prūsiją.
-  citata_rodoma: "Kai kurios\nkronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas\nkronikos vertimas čia publikuojamas pirmą kartą."
+  citata_rodoma: |
+    Kai kurios
+    kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas
+    kronikos vertimas čia publikuojamas pirmą kartą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

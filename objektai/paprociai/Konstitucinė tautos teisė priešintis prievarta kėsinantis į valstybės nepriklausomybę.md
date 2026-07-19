@@ -129,7 +129,19 @@ Nenurodyta
     priešintis bet kam, kas prievarta kėsinasi į
     Lietuvos valstybės nepriklausomybę, terito-
     rijos vientisumą, konstitucinę santvarką.
-  citata_rodoma: "(1 skirsnis,\n\n3 straipsnis):\n\nNiekas negali varžyti ar riboti Tautos suve-\nreniteto, savintis visai Tautai priklausančių\nsuverenių galių.\n\nTauta ir kiekvienas pilietis turi teisę\npriešintis bet kam, kas prievarta kėsinasi į\nLietuvos valstybės nepriklausomybę, terito-\nrijos vientisumą, konstitucinę santvarką."
+  citata_rodoma: |
+    (1 skirsnis,
+
+    3 straipsnis):
+
+    Niekas negali varžyti ar riboti Tautos suve-
+    reniteto, savintis visai Tautai priklausančių
+    suverenių galių.
+
+    Tauta ir kiekvienas pilietis turi teisę
+    priešintis bet kam, kas prievarta kėsinasi į
+    Lietuvos valstybės nepriklausomybę, terito-
+    rijos vientisumą, konstitucinę santvarką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

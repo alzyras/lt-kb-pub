@@ -90,11 +90,15 @@ Nenurodyta
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
-    tūlose vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“
-        arba: „Kaip aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu
-        vadina lietuvį skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba
-        kūrėjų kūrėjo klausąs.
-  citata_rodoma: "tūlose vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“\narba: „Kaip aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu\nvadina lietuvį skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba\nkūrėjų kūrėjo klausąs."
+    tūlose
+    vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“ arba: „Kaip
+    aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu vadina lietuvį
+    skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba kūrėjų kūrėjo klausąs
+  citata_rodoma: |
+    tūlose
+    vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“ arba: „Kaip
+    aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu vadina lietuvį
+    skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba kūrėjų kūrėjo klausąs
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,10 +112,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jis pats retai, o rasi ir niekados nedavė įsakymų svietui, bet siuntė per savo kunigus,
-        žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,
-        krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
-        įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose.
-  citata_rodoma: "Jis pats retai, o rasi ir niekados nedavė įsakymų svietui, bet siuntė per savo kunigus,\nžygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,\nkrivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo\nįsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose."
+    žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,
+    krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
+    įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose
+  citata_rodoma: |
+    Jis pats retai, o rasi ir niekados nedavė įsakymų svietui, bet siuntė per savo kunigus,
+    žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,
+    krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
+    įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

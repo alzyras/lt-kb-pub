@@ -158,7 +158,15 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     tinio Lietuvos gyvenimo tvarkymas, ko Vytautas karštai siekė
     ir kas butų turėjęs didelės reikšmės, valstybei ir tautiniam gy­
     venimui.
-  citata_rodoma: "Iš pirmųjų trijų vysku­\npijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­\ntuvos bažnytinę provinciją. Tai būtų buvęs Vytauto vaini­\nkas, uždėtas visam Lietuvos christanizacijos darbui, nes su Lie­\ntuvos metropolijos įkūrimu būtų pilnai užbaigtas buvęs bažny­\ntinio Lietuvos gyvenimo tvarkymas, ko Vytautas karštai siekė\nir kas butų turėjęs didelės reikšmės, valstybei ir tautiniam gy­\nvenimui."
+  citata_rodoma: |
+    Iš pirmųjų trijų vysku­
+    pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­
+    tuvos bažnytinę provinciją. Tai būtų buvęs Vytauto vaini­
+    kas, uždėtas visam Lietuvos christanizacijos darbui, nes su Lie­
+    tuvos metropolijos įkūrimu būtų pilnai užbaigtas buvęs bažny­
+    tinio Lietuvos gyvenimo tvarkymas, ko Vytautas karštai siekė
+    ir kas butų turėjęs didelės reikšmės, valstybei ir tautiniam gy­
+    venimui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -179,7 +187,11 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­
     sirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė­
     mė pirklių ir amatininkų reikalus.
-  citata_rodoma: "Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias,\nŽemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­\nti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­\nsirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė"
+  citata_rodoma: |
+    Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias,
+    Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­
+    ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­
+    sirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

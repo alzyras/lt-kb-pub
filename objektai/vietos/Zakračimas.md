@@ -60,7 +60,11 @@ Susijungusios lietuvių, rusų, totorių jėgos su lenkų kariuomene prie Zakra�
     nuniokoti Prūsus. Vytauto bajorai irgi dalyvavo kovose, kaip
     antai, kun. Zigmantas Kaributas vadovavo kai kurioms lenkų
     kariuomenės dalims.
-  citata_rodoma: "Susijungusios lietuvių, rusų, totorių\njėgos su lenkų kariuomene prie Zakračimo (prie Vislos) padėjo\nnuniokoti Prūsus. Vytauto bajorai irgi dalyvavo kovose, kaip\nantai, kun."
+  citata_rodoma: |
+    Susijungusios lietuvių, rusų, totorių
+    jėgos su lenkų kariuomene prie Zakračimo (prie Vislos) padėjo
+    nuniokoti Prūsus. Vytauto bajorai irgi dalyvavo kovose, kaip
+    antai, kun.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

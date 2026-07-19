@@ -251,7 +251,10 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     ke ir totorius. Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
     sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
     gistro suvažiavimas^1 ).
-  citata_rodoma: "Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­\nsta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­\ngistro suvažiavimas^1 )."
+  citata_rodoma: |
+    Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
+    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
+    gistro suvažiavimas^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -272,7 +275,12 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
     kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
     ke, pas karalių Zigmantą.
-  citata_rodoma: "Tų pačių\nmetų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir\nRusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­\nkyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­\nke, pas karalių Zigmantą."
+  citata_rodoma: |
+    Tų pačių
+    metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir
+    Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
+    kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
+    ke, pas karalių Zigmantą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

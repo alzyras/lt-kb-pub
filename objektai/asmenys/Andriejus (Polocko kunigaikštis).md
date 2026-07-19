@@ -63,7 +63,12 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
     krikštą, priimdamas naują Aleksandro vardą, nes tuo laiku, kai
     susitaikė su Jogaila ir skyrėsi su Ordinu, Jogailos verčiamas
     buvo priėmęs stačiatikių tikėjimą^2 ).
-  citata_rodoma: "Krikštatėviu buvo prašytas Vok. Ordino\nmagistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko\nkunigaikščiu Andriumi Jogailos krikštynų ir vestuvių proga\nsuruošė žygį į Lietuvą. Vytautas Jogailos krikšto metu pada­\nrė katalikų tikėjimo išpažinimą, t."
+  citata_rodoma: |
+    Krikštatėviu buvo prašytas Vok. Ordino
+    magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko
+    kunigaikščiu Andriumi Jogailos krikštynų ir vestuvių proga
+    suruošė žygį į Lietuvą. Vytautas Jogailos krikšto metu pada­
+    rė katalikų tikėjimo išpažinimą, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -91,7 +91,19 @@ Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą prip
     užginčyti lietuvių tautai?
     Dabar apžvelkime Lasickio paliktą paslaptingųjų dievybių
     sąrašą, papildydami mūsišku jų supratimo išdėstymu.
-  citata_rodoma: "J98\n\n## Puslapis 198\n\nkad paslaptys nebuvo svetimos mūsų protėviams. Pagaliau jei­\ngu kronikos ir padavimai tvirtina apie lietuvius, kad jie slepią\nkai kurias savo apeigas , jeigu autoriai, įvairiapusiškai išma­\nnantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af­\nrikos Sacharos dykumos gyventojams’, tai kodėl tą turėtume\nužginčyti lietuvių tautai?\nDabar apžvelkime Lasickio paliktą paslaptingųjų dievybių\nsąrašą, papildydami mūsišku jų supratimo išdėstymu."
+  citata_rodoma: |
+    J98
+
+    ## Puslapis 198
+
+    kad paslaptys nebuvo svetimos mūsų protėviams. Pagaliau jei­
+    gu kronikos ir padavimai tvirtina apie lietuvius, kad jie slepią
+    kai kurias savo apeigas , jeigu autoriai, įvairiapusiškai išma­
+    nantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af­
+    rikos Sacharos dykumos gyventojams’, tai kodėl tą turėtume
+    užginčyti lietuvių tautai?
+    Dabar apžvelkime Lasickio paliktą paslaptingųjų dievybių
+    sąrašą, papildydami mūsišku jų supratimo išdėstymu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

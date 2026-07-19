@@ -55,7 +55,8 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
     Jučas M. The Battle of Grünwald: in commemoration of the 600th anniversary
     of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph
     Everatt, Mindaugas Šapoka.
-  citata_rodoma: "of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph"
+  citata_rodoma: |
+    of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

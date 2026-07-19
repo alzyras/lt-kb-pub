@@ -98,7 +98,11 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
     kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai
     kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo
     bėgti.
-  citata_rodoma: "(Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs\nAmalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir\nIšminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno\nstiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda."
+  citata_rodoma: |
+    (Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs
+    Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir
+    Išminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno
+    stiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -148,7 +148,9 @@ media_all_json: |-
     Smolenską, 0 1359 m. užėmė Mstislavlį susidūrimo.
     (piečiau Smolensko) ir galutinai įsitvirtino
     Mūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m.
-  citata_rodoma: "(piečiau Smolensko) ir galutinai įsitvirtino\nMūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m."
+  citata_rodoma: |
+    (piečiau Smolensko) ir galutinai įsitvirtino
+    Mūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

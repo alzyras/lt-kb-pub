@@ -82,7 +82,8 @@ Nenurodyta
     ugnis ir švietė klojimą.
     Malkas vartodavo alksnines ar liepines, nes
     jos nesproginėja ir liepsningai dega.
-  citata_rodoma: "Malkas vartodavo alksnines ar liepines, nes jos nesproginėja ir liepsningai dega."
+  citata_rodoma: |
+    Malkas vartodavo alksnines ar liepines, nes jos nesproginėja ir liepsningai dega.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -108,7 +109,8 @@ Nenurodyta
     krosnelėje
     kūrenosi
     ugnis ir švietė klojimą.
-  citata_rodoma: "Ant papėdės bent pusės masto aukštumo buvo sukrauta akmenų krosnelė su plačia ir aukšta kakta; toje krosnelėje kūrenosi ugnis ir švietė klojimą."
+  citata_rodoma: |
+    Ant papėdės bent pusės masto aukštumo buvo sukrauta akmenų krosnelė su plačia ir aukšta kakta; toje krosnelėje kūrenosi ugnis ir švietė klojimą.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -130,7 +132,8 @@ Nenurodyta
     kad kuliant
     būtų
     šviesiu.
-  citata_rodoma: "Klojime liepdavo man kurstyti „pečiuką“ , kad kuliant būtų šviesiu."
+  citata_rodoma: |
+    Klojime liepdavo man kurstyti „pečiuką“ , kad kuliant būtų šviesiu.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

@@ -84,7 +84,14 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
     tas akmuo, ant kurio Lemtis savo pirštu buvo užrašiusi kara­
     lienės Krūminės dukters likimą, kurį jai skyrė dievai prieš daug
     daug amžių.
-  citata_rodoma: "Pats pavadinimas, iš­\nreikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­\nkovskis, o deivei.\nApie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­\nšvenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­\ndangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo\nnepaprasto grožio vienatinę dukterį."
+  citata_rodoma: |
+    Pats pavadinimas, iš­
+    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
+    kovskis, o deivei.
+    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
+    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -100,7 +100,8 @@ media_all_json: |-
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: "•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir"
+  citata_rodoma: |
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -121,7 +122,8 @@ media_all_json: |-
     Vienas didingiausių ir puošniausių LDK baroko
     interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
     interjeras (XVII a. antra p.).
-  citata_rodoma: "blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad"
+  citata_rodoma: |
+    blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

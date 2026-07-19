@@ -98,7 +98,15 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
     ® Švedų gvardijos kavaleriją pasitinka
     T. Lackio husarai ir ryžtingu puolimu nu-
     bloškia švedų raituosius gvardiečius.
-  citata_rodoma: "Netrukus karalius duos nurodymą\nsiųsti gvardijos kavaleriją į lemiamą ataką\n\npuolimo kryptimi (į dešinįjį lietuvių\nsparną) gvardijos kavaleriją.\n\n® Švedų gvardijos kavaleriją pasitinka\nT."
+  citata_rodoma: |
+    Netrukus karalius duos nurodymą
+    siųsti gvardijos kavaleriją į lemiamą ataką
+
+    puolimo kryptimi (į dešinįjį lietuvių
+    sparną) gvardijos kavaleriją.
+
+    ® Švedų gvardijos kavaleriją pasitinka
+    T.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

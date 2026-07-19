@@ -114,7 +114,21 @@ Nenurodyta
     Henriko VI laikais (Dusb. I, 2).
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
     III (Ptol.
-  citata_rodoma: "Apie Lunenburgo pilies ir dviejų miestų pastatymą\n\n  Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą\nleidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,\nsantakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595.\n\n\n\n\n\n  593 D.— Says, Jer."
+  citata_rodoma: |
+    Apie Lunenburgo pilies ir dviejų miestų pastatymą
+
+      Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
+    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
+    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
+    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
+    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
+    Ilienburgo [Ilijos] pilies595.
+
+
+
+
+
+      593 D.— Says, Jer.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

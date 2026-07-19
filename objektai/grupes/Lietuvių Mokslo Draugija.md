@@ -143,7 +143,16 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     ta Lietuvių Mokslo Draugystė, kuri leido mėnesinį
     literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą
     knygų.
-  citata_rodoma: "Greta tų laikraščių, buvo leidžiama ir lietuviškų knygų, ta-\nčiau jų vertė buvo labai menka. Tai buvo visokios naivios isto-\nrijos, plėšikų nuotykiai, sapnininkai ir t.t. Rimtesnių ir tikrai\nvertingų raštų atsirado tik tada, kai į Ameriką atvyko daugiau\ninteligentų ir kai, Šliūpui su kun. Burba vadovaujant, buvo\ngalutinai atsiskirta nuo lenkų. Tada Šliūpo rūpesčiu buvo įsteig-\nta Lietuvių Mokslo Draugystė, kuri leido mėnesinį\nliteratūros ir mokslo žurnalą „Apšvietą\" ir išleido keletą\nknygų."
+  citata_rodoma: |
+    Greta tų laikraščių, buvo leidžiama ir lietuviškų knygų, ta-
+    čiau jų vertė buvo labai menka. Tai buvo visokios naivios isto-
+    rijos, plėšikų nuotykiai, sapnininkai ir t.t. Rimtesnių ir tikrai
+    vertingų raštų atsirado tik tada, kai į Ameriką atvyko daugiau
+    inteligentų ir kai, Šliūpui su kun. Burba vadovaujant, buvo
+    galutinai atsiskirta nuo lenkų. Tada Šliūpo rūpesčiu buvo įsteig-
+    ta Lietuvių Mokslo Draugystė, kuri leido mėnesinį
+    literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą
+    knygų.
   statusas: verified
   atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
@@ -162,7 +171,13 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     vežtuose bankuose, o iš kitos dalies 1915—1922 m. Lietuvių
     Mokslo Draugija leido tik ką įsikūrusioms lietuviškoms mo-
     kykloms vadovėlius.
-  citata_rodoma: "1913 m. į Ameriką atvyko dr. J. Basanavičius ir M.\nYčas, kurie surinko apie 25.000 dolerių Tautos Namams Vil-\nniuje statyti. D. karo metu dalis tų pinigų žuvo iš Vilniaus iš-\nvežtuose bankuose, o iš kitos dalies 1915—1922 m. Lietuvių\nMokslo Draugija leido tik ką įsikūrusioms lietuviškoms mo-\nkykloms vadovėlius."
+  citata_rodoma: |
+    1913 m. į Ameriką atvyko dr. J. Basanavičius ir M.
+    Yčas, kurie surinko apie 25.000 dolerių Tautos Namams Vil-
+    niuje statyti. D. karo metu dalis tų pinigų žuvo iš Vilniaus iš-
+    vežtuose bankuose, o iš kitos dalies 1915—1922 m. Lietuvių
+    Mokslo Draugija leido tik ką įsikūrusioms lietuviškoms mo-
+    kykloms vadovėlius.
   statusas: verified
   atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
@@ -187,7 +202,8 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai:
     Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo
     dr-jos narys korespondentas.
-  citata_rodoma: "Jis bendradarbiavo, jau nuo 1897 m., daugelyje žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai: Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo dr-jos narys korespondentas."
+  citata_rodoma: |
+    Jis bendradarbiavo, jau nuo 1897 m., daugelyje žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai: Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo dr-jos narys korespondentas.
   statusas: verified
   atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
@@ -209,7 +225,16 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     draugijos leido mokslinius tęsti-
     nius leidinius. Beje, abi jos buvo
     viena kitos kolektyviniai nariai.
-  citata_rodoma: "Abi draugijos daug dėmesio skyrė \npraeičiai, LDK paveldui, bet Lie-\ntuvių draugija ypač orientavosi į \nlietuvių kalbos ir etninės kultūros \ntyrimus, mokyklinių vadovėlių \nlietuvių mokykloms rengimą. Abi \ndraugijos leido mokslinius tęsti-\nnius leidinius. Beje, abi jos buvo \nviena kitos kolektyviniai nariai."
+  citata_rodoma: |
+    Abi draugijos daug dėmesio skyrė
+    praeičiai, LDK paveldui, bet Lie-
+    tuvių draugija ypač orientavosi į
+    lietuvių kalbos ir etninės kultūros
+    tyrimus, mokyklinių vadovėlių
+    lietuvių mokykloms rengimą. Abi
+    draugijos leido mokslinius tęsti-
+    nius leidinius. Beje, abi jos buvo
+    viena kitos kolektyviniai nariai.
   statusas: verified
   atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
@@ -231,7 +256,16 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
     telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: "Be to, etnografi-\nnės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po \n1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą. \nLygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-\njos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos \n1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad \njame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, \nplėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija, \ntelkusi lenkiškai kalbančiuosius."
+  citata_rodoma: |
+    Be to, etnografi-
+    nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
+    1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą.
+    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
+    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
+    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
+    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
+    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
+    telkusi lenkiškai kalbančiuosius.
   statusas: verified
   atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas

@@ -151,7 +151,9 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     greit mirė, ir stipriau-
     siais kandidatais liko
     keletas saviškių ponų.
-  citata_rodoma: "Augustui **III** mirus, kandidatų į sostą atsirado\n  nemaža."
+  citata_rodoma: |
+    Augustui **III** mirus, kandidatų į sostą atsirado
+      nemaža.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

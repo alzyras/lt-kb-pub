@@ -173,8 +173,16 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
     persikėlė į dešinįjį Dniepro krantą ir pa-
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: "Jodami stepėmis tarp\nLietuvos ir Maskvos valdų jie kasdien su-\nkardavo maždaug po 25 km ir per 50 dienų\nįveikė apie 900 km atstumą. Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
+    Galiausiai apie liepos 20-22 d.
+  citata_rodoma: |
+    Jodami stepėmis tarp
+    Lietuvos ir Maskvos valdų jie kasdien su-
+    kardavo maždaug po 25 km ir per 50 dienų
+    įveikė apie 900 km atstumą. Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

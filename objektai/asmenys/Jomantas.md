@@ -95,7 +95,14 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     Taip Vytautas sustiprino Lietuvos
     pozicijas saugodamasis galimos
     grėsmės iš pietryčių.
-  citata_rodoma: "Sustojęs prie Smolensko,\nvesdamas derybas su smolenskie-\nčiais, jį užėmė, pasodino ten savo\nvietininką kunigaikštį Jomantą.\nTaip Vytautas sustiprino Lietuvos\npozicijas saugodamasis galimos\ngrėsmės iš pietryčių."
+  citata_rodoma: |
+    Sustojęs prie Smolensko,
+    vesdamas derybas su smolenskie-
+    čiais, jį užėmė, pasodino ten savo
+    vietininką kunigaikštį Jomantą.
+    Taip Vytautas sustiprino Lietuvos
+    pozicijas saugodamasis galimos
+    grėsmės iš pietryčių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -83,7 +83,14 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
     ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
     mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
     gezanijos tėvo, vardą.
-  citata_rodoma: "Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo\ndidžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,\nypač tokie gyveno pietinėse aukštumose arba kalvose,\nkur šios provincijos dalis buvo vadinama Hokerland. Ki­\nti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal\nmitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-\ngezanijos tėvo, vardą."
+  citata_rodoma: |
+    Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo
+    didžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,
+    ypač tokie gyveno pietinėse aukštumose arba kalvose,
+    kur šios provincijos dalis buvo vadinama Hokerland. Ki­
+    ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
+    mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
+    gezanijos tėvo, vardą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

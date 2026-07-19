@@ -180,7 +180,15 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
     ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
     vienodos, kad šios tautos turėjusios bendrą priešą71.
     Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
-  citata_rodoma: "), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami\npopiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad\nekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios\nvienodos, kad šios tautos turėjusios bendrą priešą71.\n  Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus."
+  citata_rodoma: |
+    ), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami
+    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
+    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
+    vienodos, kad šios tautos turėjusios bendrą priešą71.
+      Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -206,7 +214,12 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
     Saulės. Nakties karalius, laiko tarpsnių valdovas (laikas bu­
     vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir
     keičiantis pavidalą.
-  citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
+  citata_rodoma: |
+    24
+    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
+    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
+    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
+    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

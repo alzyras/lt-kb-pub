@@ -72,7 +72,8 @@ Trumpa elgetavimo ir maldavimo formulė.
     tas paršas. Būdoje čirška vaikai, matyti iš būdos iškištos basos vyro
     kojos. Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimi­
     ninkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba.
-  citata_rodoma: "Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimininkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba."
+  citata_rodoma: |
+    Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimininkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

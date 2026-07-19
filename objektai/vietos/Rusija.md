@@ -1597,7 +1597,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     laikotarpį.
     Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
     jos finansų krizei.
-  citata_rodoma: "Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-\ngiausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos \nlaikotarpį. \nNauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-\njos finansų krizei."
+  citata_rodoma: |
+    Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
+    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
+    laikotarpį.
+    Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
+    jos finansų krizei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1619,7 +1624,15 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     su buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė
     Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi
     net konkrečias gubernijas, kuriose gali gyventi žydai.
-  citata_rodoma: "Vis dėlto Vilniaus, Lietuvos ir Abiejų \nTautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-\nvinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba \n„vodką“. Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas \n„Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje \nžydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo \nsu buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė \nRusijos imperatorė Jekaterina II 1791 m."
+  citata_rodoma: |
+    Vis dėlto Vilniaus, Lietuvos ir Abiejų
+    Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
+    vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
+    „vodką“. Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
+    „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
+    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
+    su buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė
+    Rusijos imperatorė Jekaterina II 1791 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1699,7 +1712,15 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
     jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
     kariškai sustiprėjusios Švedijos.
-  citata_rodoma: "rudenį padarė es-\nminę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių \nvalstybės institucijose. \nApšvieta ateina į LDK\nNuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-\ngaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos \njūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a. \nkariškai sustiprėjusios Švedijos."
+  citata_rodoma: |
+    rudenį padarė es-
+    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
+    valstybės institucijose.
+    Apšvieta ateina į LDK
+    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
+    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
+    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+    kariškai sustiprėjusios Švedijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1716,7 +1737,11 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
     cialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“. Lietu-
     vos vardas įgijo naujų prasmių.
-  citata_rodoma: "Rusijai sunaikinus senąją \nLietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-\ncialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“. Lietu-\nvos vardas įgijo naujų prasmių."
+  citata_rodoma: |
+    Rusijai sunaikinus senąją
+    Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
+    cialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“. Lietu-
+    vos vardas įgijo naujų prasmių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1741,7 +1766,17 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     88
     apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
     Lietuvos uostus Palangoje ir Šventojoje.
-  citata_rodoma: "Iškylanti Rusija Šiaurės karo \nmetu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-\nnę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki \nRygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų \nteritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos\n\nL I E T U V O S  I S T O R I J A\n88\napraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius \nLietuvos uostus Palangoje ir Šventojoje."
+  citata_rodoma: |
+    Iškylanti Rusija Šiaurės karo
+    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
+    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+
+    L I E T U V O S  I S T O R I J A
+    88
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1763,7 +1798,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     257
     roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
     artimesni santykiai tarp šių valstybių nesusiklostė.
-  citata_rodoma: "1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės \nsienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n257\nroje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė, \nartimesni santykiai tarp šių valstybių nesusiklostė."
+  citata_rodoma: |
+    1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
+    sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    257
+    roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
+    artimesni santykiai tarp šių valstybių nesusiklostė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1806,7 +1848,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
     apie Rusijos ir jos tautų ateitį.
-  citata_rodoma: "Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-\nse įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje \natiduota 50-čiai metų administruoti SSRS. Demokratinė Rusija, kaip ir \nLietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl \nnepriklausomybės. Kitą dieną po 1991 m."
+  citata_rodoma: |
+    Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
+    se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
+    atiduota 50-čiai metų administruoti SSRS. Demokratinė Rusija, kaip ir
+    Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl
+    nepriklausomybės. Kitą dieną po 1991 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1828,7 +1875,11 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-
     sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst. karių, prieš kuriuos LDK,
     Lenkijos padedama, galėjo pasiųsti 18 tūkst.
-  citata_rodoma: "Netrukus į pagalbą konfe-\nderatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie \nPolocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-\nsijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst."
+  citata_rodoma: |
+    Netrukus į pagalbą konfe-
+    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
+    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-
+    sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1848,7 +1899,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
     praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
     mus – 1830–1831 m. ir 1863–1864 m.
-  citata_rodoma: "Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-\njos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.\nRadikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės \npraradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-\nmus – 1830–1831 m."
+  citata_rodoma: |
+    Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-
+    jos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
+    Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
+    praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
+    mus – 1830–1831 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1867,7 +1923,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
     mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
     demonstracijos, mitingai.
-  citata_rodoma: "1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-\nmokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai, \ndemonstracijos, mitingai."
+  citata_rodoma: |
+    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
+    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
+    demonstracijos, mitingai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1911,7 +1970,11 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
     Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
     pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
-  citata_rodoma: "Draugiški valstybių vadovų santykiai leido \nparengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį. \nAbiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją \npasirašė 1991 m. liepos 29 d. (įsigaliojo po metų)."
+  citata_rodoma: |
+    Draugiški valstybių vadovų santykiai leido
+    parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+    Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
+    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1930,7 +1993,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     1918 II 16
     Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
     vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-  citata_rodoma: "1795\t\nRusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-\nbę. Didžioji Lietuvos dalis atitenka Rusijai.\n1918 II 16\t\nVokietijos okupacijos sąlygomis J."
+  citata_rodoma: |
+    1795
+    Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
+    bę. Didžioji Lietuvos dalis atitenka Rusijai.
+    1918 II 16
+    Vokietijos okupacijos sąlygomis J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1953,7 +2021,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
     Vilhelmo Gizo, Johano Miulerio - darbus.
-  citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu\nT. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­\nnys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo\nprancūzų administracijoje."
+  citata_rodoma: |
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu
+    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
+    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
+    prancūzų administracijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1989,7 +2064,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     tomą sumokėti 300 rublių sidabru honoraro. Taip pat iš karto
     po išspausdinimo dar turi duoti po 60 kiekvieno tomo egzem­
     pliorių“14.
-  citata_rodoma: "Taip pat skaityki­\nte: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­\ntas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­\nrijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -\nP.' 143-167."
+  citata_rodoma: |
+    Taip pat skaityki­
+    te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
+    tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
+    rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
+    P.' 143-167.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

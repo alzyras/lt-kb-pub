@@ -69,7 +69,10 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
     zultatų. Naujasis magistras Henrikas fon
     Plauenas spėjo pasirengti ir apsigynė.
     1411 m. prireikė pakartoti karo veiksmus,
-  citata_rodoma: "Naujasis magistras Henrikas fon\nPlauenas spėjo pasirengti ir apsigynė.\n1411 m."
+  citata_rodoma: |
+    Naujasis magistras Henrikas fon
+    Plauenas spėjo pasirengti ir apsigynė.
+    1411 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

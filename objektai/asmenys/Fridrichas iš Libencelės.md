@@ -172,7 +172,18 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     turėjo iš čia pasitraukti, o į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
     išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
     329 (322).
-  citata_rodoma: "Apie 80 lietuvių žūtį 1316 metais\n\n  Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir\n60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,\nturėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,\nišskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.\n\n\n\n\n             329 (322)."
+  citata_rodoma: |
+    Apie 80 lietuvių žūtį 1316 metais
+
+      Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
+    60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies,
+    turėjo iš čia pasitraukti, o  į jų vietą ateiti kiti, kuriuos jis bei jo bendrai visus išžudė,
+    išskyrus penkis, kurie, metę į šalį ginklus, išsigelbėjo pabėgdami.
+
+
+
+
+                 329 (322).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -225,7 +236,15 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė.
-  citata_rodoma: "Antra\nkariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150\nvyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu\napie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.\nTrečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo\nir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais\nkaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į\nnelaisvę, o daugybę vyrų nukovė."
+  citata_rodoma: |
+    Antra
+    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
+    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
+    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
+    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
+    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
+    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
+    nelaisvę, o daugybę vyrų nukovė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -250,7 +269,13 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     pėdas; jomis nusekė su būreliu ginklanešių brolis Valteris, pravarde Goldinas, ir visus
     išžudė, išskyrus vieną, kuris bėgdamas nusigavo iki brolio Henriko iš Vederės ir sunkiai
     jį sužeidė, vis dėlto sulaukdamas deramo atkirčio, nes brolis Henrikas jį mirtinai sužeidė.
-  citata_rodoma: "Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,\nTrinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,\ntaip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į\nBartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš\nLibencelės su visa jų šeimyna. Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė\nKaraliaučiaus brolių arklius."
+  citata_rodoma: |
+    Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,
+    Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,
+    taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į
+    Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
+    Libencelės su visa jų šeimyna. Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė
+    Karaliaučiaus brolių arklius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

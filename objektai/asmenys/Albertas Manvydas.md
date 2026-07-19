@@ -65,7 +65,17 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     ir ginkluote buvo panaši į kryžiuočių.
     Lenkai turėjo nemažai sunkiosios kavale-
     rijos.
-  citata_rodoma: "Vytauto pavaduotojais Lietuvos ka-\nriuomenėje buvo Vilniaus seniūnas\nAlbertas Manvydas, kunigaikščiai Simo-\nnas Lengvenis ir Žygimantas Kaributaitis.\n\nLenkijos kariuomenė\n\nLenkijos kariuomenė organizavimu\n\nir ginkluote buvo panaši į kryžiuočių."
+  citata_rodoma: |
+    Vytauto pavaduotojais Lietuvos ka-
+    riuomenėje buvo Vilniaus seniūnas
+    Albertas Manvydas, kunigaikščiai Simo-
+    nas Lengvenis ir Žygimantas Kaributaitis.
+
+    Lenkijos kariuomenė
+
+    Lenkijos kariuomenė organizavimu
+
+    ir ginkluote buvo panaši į kryžiuočių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

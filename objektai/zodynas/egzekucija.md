@@ -105,7 +105,11 @@ media_all_json: |-
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
-  citata_rodoma: "Šita politika buvo vadinama įstatymų vykdymu, arba — iš lotyniško — egzekucija.\nLietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos\nir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be\natodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų."
+  citata_rodoma: |
+    Šita politika buvo vadinama įstatymų vykdymu, arba — iš lotyniško — egzekucija.
+    Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
+    ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
+    atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +130,10 @@ media_all_json: |-
     Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
     lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
     sianti vykdoma vadinamoji egzekucija.
-  citata_rodoma: "Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais\nlietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-\nsianti vykdoma vadinamoji egzekucija."
+  citata_rodoma: |
+    Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
+    lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
+    sianti vykdoma vadinamoji egzekucija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

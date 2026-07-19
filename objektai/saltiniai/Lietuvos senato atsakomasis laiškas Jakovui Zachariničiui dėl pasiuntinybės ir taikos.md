@@ -96,7 +96,19 @@ Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė 
     sų pusių puolė Mstislavlį, tačiau narsus kunigaikščio
     Michailo Lengvenaičio pasipriešinimas niekais paver­
     tė visus maskvėnų sumanymus.
-  citata_rodoma: "Maskvėnai dėl to pasijuto\nsmarkiai užgauti, ir Jakovas Zachariničius Ivano var­\ndu pareiškė skundą, į kurį laišku atsakė lietuvių se­\nnatas. Esą dėl to, kad pasiuntiniai nevykstą į Maskvą,\nniekas nekaltas — nei didysis kunigaikštis Aleksand­\nras, nei jie. Netikėtai mirus Lenkijos karaliui, Alek­\nsandras, kamuojamas visokiausių rūpesčių, nieku būdu\nnegalėjęs paisyti susitarimų. Kai užimsiąs brolio sostą,\ntikrai išleisiąs į kelią pasiuntinius, kurie vienaip ar\nkitaip susitarsią dėl pastovios taikos, tuo tarpu Ivanas\nturėtų nutraukti karo veiksmus, naujomis skriaudomis\nneužkirsdamas kelio galimam taikos susitarimui."
+  citata_rodoma: |
+    Maskvėnai dėl to pasijuto
+    smarkiai užgauti, ir Jakovas Zachariničius Ivano var­
+    du pareiškė skundą, į kurį laišku atsakė lietuvių se­
+    natas. Esą dėl to, kad pasiuntiniai nevykstą į Maskvą,
+    niekas nekaltas — nei didysis kunigaikštis Aleksand­
+    ras, nei jie. Netikėtai mirus Lenkijos karaliui, Alek­
+    sandras, kamuojamas visokiausių rūpesčių, nieku būdu
+    negalėjęs paisyti susitarimų. Kai užimsiąs brolio sostą,
+    tikrai išleisiąs į kelią pasiuntinius, kurie vienaip ar
+    kitaip susitarsią dėl pastovios taikos, tuo tarpu Ivanas
+    turėtų nutraukti karo veiksmus, naujomis skriaudomis
+    neužkirsdamas kelio galimam taikos susitarimui.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

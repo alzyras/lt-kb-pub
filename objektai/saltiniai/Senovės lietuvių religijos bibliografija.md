@@ -66,7 +66,9 @@ Ivinskis : Senovės lietuvių religijos bibliografija, Kaunas 1938 (atsp. iš So
     **Rocznik Olsztyński, t. 3 (1960), p. 324-349.
     Z. Ivinskis : Senovės lietuvių religijos bibliografija, Kaunas 1938 (atsp.
     iš Soter 1935-37).
-  citata_rodoma: "Z. Ivinskis : Senovės lietuvių religijos bibliografija, Kaunas 1938 (atsp.\niš Soter 1935-37)."
+  citata_rodoma: |
+    Z. Ivinskis : Senovės lietuvių religijos bibliografija, Kaunas 1938 (atsp.
+    iš Soter 1935-37).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

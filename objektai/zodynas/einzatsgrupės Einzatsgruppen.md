@@ -117,7 +117,8 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir
     keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, ku-
     rias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai.
-  citata_rodoma: "ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir"
+  citata_rodoma: |
+    ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -141,7 +142,8 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
     27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
     sakoma, kad surengti pogromus buvo nelengva.
-  citata_rodoma: "inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,"
+  citata_rodoma: |
+    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

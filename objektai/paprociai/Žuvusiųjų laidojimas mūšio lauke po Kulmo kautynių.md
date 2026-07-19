@@ -74,7 +74,7 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    41. Apie vieną stebuklą
+    Apie vieną stebuklą
 
       Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti
     žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;
@@ -84,7 +84,17 @@ Nenurodyta
     džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;
     drauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o
     visi žmonės patikėjo jos žodžiais.
-  citata_rodoma: "41. Apie vieną stebuklą\n\n  Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti\nžuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;\npaklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,\neidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius\nsmilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir\ndžiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;\ndrauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o\nvisi žmonės patikėjo jos žodžiais."
+  citata_rodoma: |
+    Apie vieną stebuklą
+
+      Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti
+    žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;
+    paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,
+    eidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius
+    smilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir
+    džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;
+    drauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o
+    visi žmonės patikėjo jos žodžiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

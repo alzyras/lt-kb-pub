@@ -101,7 +101,10 @@ media_all_json: |-
     puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
     laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
     suskilusi, atskiri „saarai“ vedė nuolatinius karus.
-  citata_rodoma: "Vytauto\nlaikais totorių valstybė kaip tik pergyveno krizį. Orda buvo\nsuskilusi, atskiri „saarai“ vedė nuolatinius karus."
+  citata_rodoma: |
+    Vytauto
+    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
+    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

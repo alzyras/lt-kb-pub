@@ -164,10 +164,14 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio
-        visu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj
-        senovėj, nesgi turėjo pažines ir prekiojo ne vien su grekonimis, bet ir su egipčionimis,
-        penicijonimis.
-  citata_rodoma: "Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio\nvisu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj\nsenovėj, nesgi turėjo pažines ir prekiojo ne vien su grekonimis, bet ir su egipčionimis,\npenicijonimis."
+    visu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj
+    senovėj, nesgi turėjo pažines ir prekiojo ne vien su grekonimis, bet ir su egipčionimis,
+    penicijonimis
+  citata_rodoma: |
+    Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio
+    visu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj
+    senovėj, nesgi turėjo pažines ir prekiojo ne vien su grekonimis, bet ir su egipčionimis,
+    penicijonimis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -193,7 +197,20 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
     kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
     leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
     apgyventas sodybas.
-  citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
+  citata_rodoma: |
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
+    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
+    kalnai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

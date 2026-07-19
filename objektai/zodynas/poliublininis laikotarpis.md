@@ -190,7 +190,16 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
     binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
     Didžiosios Lietuvos Kunigaikštystės gyventojus.
-  citata_rodoma: "pir­\nmojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.\nPlačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­\nkai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­\nsiėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­\nrėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis\nryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­\nbinę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius\nDidžiosios Lietuvos Kunigaikštystės gyventojus."
+  citata_rodoma: |
+    pir­
+    mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
+    Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
+    kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
+    siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­
+    rėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis
+    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
+    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
+    Didžiosios Lietuvos Kunigaikštystės gyventojus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +220,11 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi
     (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
     liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
-  citata_rodoma: "Palyginti, objektyviai išdės­\ntė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi\n(1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­\nliublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos."
+  citata_rodoma: |
+    Palyginti, objektyviai išdės­
+    tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi
+    (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
+    liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

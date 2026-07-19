@@ -137,7 +137,19 @@ Nenurodyta
     175
     taičio, 1934 m. aplankė faktiškai visas Europos sostines, nuskrido per
     10  000  km.
-  citata_rodoma: "Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-\ntu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, \nbuvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-\ntuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių \npirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-\njos dirbtuvėse. Trijų ANBO IV lėktuvų grupė, vadovaujama A.  Gus-\nTransatlantiniai lakūnai  \nSteponas Darius ir Stasys Girėnas\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n175\ntaičio, 1934 m."
+  citata_rodoma: |
+    Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
+    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
+    buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
+    tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
+    pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
+    jos dirbtuvėse. Trijų ANBO IV lėktuvų grupė, vadovaujama A.  Gus-
+    Transatlantiniai lakūnai
+    Steponas Darius ir Stasys Girėnas
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    175
+    taičio, 1934 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

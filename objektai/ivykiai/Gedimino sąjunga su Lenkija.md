@@ -155,7 +155,11 @@ Nenurodyta
     masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
     čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
     mečio.
-  citata_rodoma: "Jo 1325 m. sutartis buvo pir­\nmasis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­\nčiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­\nmečio."
+  citata_rodoma: |
+    Jo 1325 m. sutartis buvo pir­
+    masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
+    čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
+    mečio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -195,7 +199,11 @@ Nenurodyta
     vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
     Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
     24.000 Lietuvoje buvusių lenkų karo belaisvių.
-  citata_rodoma: "1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino\nvedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters\nAldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi\n24.000 Lietuvoje buvusių lenkų karo belaisvių."
+  citata_rodoma: |
+    1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino
+    vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
+    Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
+    24.000 Lietuvoje buvusių lenkų karo belaisvių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -225,7 +233,15 @@ Nenurodyta
     kijos karaliaus Kazi-
     miero Didžiojo, savo
     dukterį Aldoną.
-  citata_rodoma: "Sutartis buvo sudaryta\n1325 m.; kad ji būtų\ntvirtesnė, Gediminas\nišleido už Vladislovo\nsūnaus, būsimojo Len-\nkijos karaliaus Kazi-\nmiero Didžiojo, savo\ndukterį Aldoną."
+  citata_rodoma: |
+    Sutartis buvo sudaryta
+    1325 m.; kad ji būtų
+    tvirtesnė, Gediminas
+    išleido už Vladislovo
+    sūnaus, būsimojo Len-
+    kijos karaliaus Kazi-
+    miero Didžiojo, savo
+    dukterį Aldoną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

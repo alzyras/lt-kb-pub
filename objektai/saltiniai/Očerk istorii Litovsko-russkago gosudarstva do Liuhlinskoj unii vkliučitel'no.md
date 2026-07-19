@@ -81,7 +81,10 @@ media_all_json: |-
     140a** **_Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliu-
     čitel'no_** **, Maskva 1910,**^2 **1915.**
     (^141) **_Lietuvos istorija ligi Liublino unijos_** **(1920, 1922).
-  citata_rodoma: "140a** **_Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliu-\nčitel'no_** **, Maskva 1910,**^2 **1915.**\n(^141) **_Lietuvos istorija ligi Liublino unijos_** **(1920, 1922)."
+  citata_rodoma: |
+    140a** **_Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliu-
+    čitel'no_** **, Maskva 1910,**^2 **1915.**
+    (^141) **_Lietuvos istorija ligi Liublino unijos_** **(1920, 1922).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

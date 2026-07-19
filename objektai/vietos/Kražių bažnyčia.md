@@ -70,7 +70,8 @@ media_all_json: |-
     mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
     kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
     kę miestelio gyventojai.
-  citata_rodoma: "mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti"
+  citata_rodoma: |
+    mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

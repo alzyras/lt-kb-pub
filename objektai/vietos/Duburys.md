@@ -79,7 +79,8 @@ Duburys šiame šaltinyje yra upuokšnis.
     Gi štai devyniolik­
     tame šimtmetyje Duburys atsiminė, jog ir jam vagos reikia, ir pasi­
     rūpino ištiesti ją visa tėkmė ligi pat Ažytės.
-  citata_rodoma: "Upuokšnis Duburys per keliasdešimt sieksnių nuo susiliejimo su Ažyte neturėjo vagos, bėgo lygia lanka, o pasiekęs Ažytės vagą, krito nuo kranto mažu kriokliuku."
+  citata_rodoma: |
+    Upuokšnis Duburys per keliasdešimt sieksnių nuo susiliejimo su Ažyte neturėjo vagos, bėgo lygia lanka, o pasiekęs Ažytės vagą, krito nuo kranto mažu kriokliuku.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -98,7 +99,8 @@ Duburys šiame šaltinyje yra upuokšnis.
     Duburys panoro gilesnės vagos.
     Tas pats krioklys imasi ją gilinti vi­
     sa tėkmė.
-  citata_rodoma: "Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė."
+  citata_rodoma: |
+    Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

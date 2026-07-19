@@ -107,7 +107,16 @@ Nenurodyta
 
     kavalerija beveik užspaudė savo pėstinin-
     kus, todėl pastarieji buvo priversti sustoti.
-  citata_rodoma: ", plačiai naudota Trisdešimtmečiame,\nAnglijos pilietiniame kare ir daugelyje kitų karinių konf-\nliktų. Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį\nnaudojo raitarai, o tam tikrais atvejais ir ATR husarų vė-\nliavų eiliniai. Anglakalbėje literatūroje tokie šalmai vadi-\nnami „Vėžio uodegos\" (lobster tale) tipo šalmais\n\nkavalerija beveik užspaudė savo pėstinin-\nkus, todėl pastarieji buvo priversti sustoti."
+  citata_rodoma: |
+    , plačiai naudota Trisdešimtmečiame,
+    Anglijos pilietiniame kare ir daugelyje kitų karinių konf-
+    liktų. Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį
+    naudojo raitarai, o tam tikrais atvejais ir ATR husarų vė-
+    liavų eiliniai. Anglakalbėje literatūroje tokie šalmai vadi-
+    nami „Vėžio uodegos" (lobster tale) tipo šalmais
+
+    kavalerija beveik užspaudė savo pėstinin-
+    kus, todėl pastarieji buvo priversti sustoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

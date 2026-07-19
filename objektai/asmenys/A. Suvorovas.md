@@ -59,7 +59,8 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
     teismą paskelbti minėtus mirties nuosprendžius. Visa tai atšaldė dalį LLV
     bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
     sijos kariuomenei imtis veiksmų.
-  citata_rodoma: "bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-"
+  citata_rodoma: |
+    bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -68,7 +68,8 @@ Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė 
     tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.
-  citata_rodoma: "sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje"
+  citata_rodoma: |
+    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

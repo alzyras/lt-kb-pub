@@ -245,7 +245,12 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
     laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
     vidinio chaoso.
-  citata_rodoma: "Gausūs R. Dmovskio ir \nJ. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl \n1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą \nlaiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie \nvidinio chaoso."
+  citata_rodoma: |
+    Gausūs R. Dmovskio ir
+    J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl
+    1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
+    laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
+    vidinio chaoso.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -266,7 +271,12 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: "Bolševikų diktatūra \nSSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje, \nperversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m. \ngegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti \nvisus, nepatenkintus Seimo valdymu („seimokratija“)."
+  citata_rodoma: |
+    Bolševikų diktatūra
+    SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje,
+    perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
+    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
+    visus, nepatenkintus Seimo valdymu („seimokratija“).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -290,7 +300,16 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     dabar įsivaizdavęs lyg ir kaip federaciją, o pačią Lietuvą tarsi padalytą į
     tris dalis – vakarinę etniškai lietuvišką, vidurinę su Vilniumi ir Gardinu,
     kaip lenkakalbę, ir rytinę su Minsku, kur būtų vietos ir baltarusių kalbai.
-  citata_rodoma: "Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją \nšalininkai, nevengę ir teroristinių veiksmų. Pats J. Pilsudskis – buvusios\n\nL I E T U V O S  I S T O R I J A\n126\ndvilypės Lenkijos ir Lietuvos valstybės atkūrimo šalininkas, tą dvilypumą \ndabar įsivaizdavęs lyg ir kaip federaciją, o pačią Lietuvą tarsi padalytą į \ntris dalis – vakarinę etniškai lietuvišką, vidurinę su Vilniumi ir Gardinu, \nkaip lenkakalbę, ir rytinę su Minsku, kur būtų vietos ir baltarusių kalbai."
+  citata_rodoma: |
+    Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją
+    šalininkai, nevengę ir teroristinių veiksmų. Pats J. Pilsudskis – buvusios
+
+    L I E T U V O S  I S T O R I J A
+    126
+    dvilypės Lenkijos ir Lietuvos valstybės atkūrimo šalininkas, tą dvilypumą
+    dabar įsivaizdavęs lyg ir kaip federaciją, o pačią Lietuvą tarsi padalytą į
+    tris dalis – vakarinę etniškai lietuvišką, vidurinę su Vilniumi ir Gardinu,
+    kaip lenkakalbę, ir rytinę su Minsku, kur būtų vietos ir baltarusių kalbai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -314,7 +333,16 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
     džiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
     sių“ daliniai.
-  citata_rodoma: "Nors 1920 m. \nspalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį \nsusitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-\nvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-\nligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos \n(Litwa środkowa) sudarymą. Pagal klastingą J. Pilsudskio sumanymą \nmiestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-\ndžiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-\nsių“ daliniai."
+  citata_rodoma: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą. Pagal klastingą J. Pilsudskio sumanymą
+    miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
+    džiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
+    sių“ daliniai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -380,7 +408,11 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio
     18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,
     laikydamasi Rusijos nedalomumo principo.
-  citata_rodoma: "Lenkiškam ereliui sparnais kone apgobus žemyno Rytus, J. Pilsudskis \nmotyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir ko-\nvos su bolševikais būtinybe. Lietuvai paprašius Antantės demarkuoti lini-\nją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m."
+  citata_rodoma: |
+    Lenkiškam ereliui sparnais kone apgobus žemyno Rytus, J. Pilsudskis
+    motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir ko-
+    vos su bolševikais būtinybe. Lietuvai paprašius Antantės demarkuoti lini-
+    ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -400,7 +432,12 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     vokiečiai ir net britai. Lenkija laikėsi ramiai, privengdama karinės Vokie-
     tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
     kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
-  citata_rodoma: "Susišaudymuose nuo prancūzų kulkų žuvo 16 lietuvių, nuo lietuvių – du \nprancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai \nvokiečiai ir net britai. Lenkija laikėsi ramiai, privengdama karinės Vokie-\ntijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir \nkad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis."
+  citata_rodoma: |
+    Susišaudymuose nuo prancūzų kulkų žuvo 16 lietuvių, nuo lietuvių – du
+    prancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai
+    vokiečiai ir net britai. Lenkija laikėsi ramiai, privengdama karinės Vokie-
+    tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
+    kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -421,7 +458,10 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
     Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
     pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
-  citata_rodoma: "Lietuva ir Lenkija kaktomuša susidūrė \nŽenevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė \nA. Voldemarui klausimą „Karas ar taika?“ A."
+  citata_rodoma: |
+    Lietuva ir Lenkija kaktomuša susidūrė
+    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
+    A. Voldemarui klausimą „Karas ar taika?“ A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

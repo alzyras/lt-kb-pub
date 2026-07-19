@@ -130,7 +130,10 @@ Nenurodyta
     XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
     Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
     Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
-  citata_rodoma: "XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir\nKijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi\nJaroslavo žygiai nereiškia tik vienos karinės ekspedicijos."
+  citata_rodoma: |
+    XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
+    Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
+    Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

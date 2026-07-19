@@ -78,7 +78,8 @@ Dusburgietis teigia, kad pakarklis P.
     Stepinš P. Durbės kauja.— Rīga, 1967.
     Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—
     Baltistica, 1974, 10 (2), p. 163— 168.
-  citata_rodoma: "Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935."
+  citata_rodoma: |
+    Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

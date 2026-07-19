@@ -61,7 +61,16 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
     o pinigų jums atiduoti neturiu."
     Bet netrukus Vytautas ėmė rinkti pinigus ir surin­
     kęs nusiuntė jiems visą auksinų sumą.
-  citata_rodoma: "O paskui vokiečiai atsiuntė pas didjjį kunigaikštį \nVytautą savo pasiuntinius, primindami jam, kad jis tu­\nrįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo \nužstatyta Žemaitija7 . Didysis kunigaikštis Vytautas \natsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­\nbar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją, \no pinigų jums atiduoti neturiu.\"\nBet netrukus Vytautas ėmė rinkti pinigus ir surin­\nkęs nusiuntė jiems visą auksinų sumą."
+  citata_rodoma: |
+    O paskui vokiečiai atsiuntė pas didjjį kunigaikštį
+    Vytautą savo pasiuntinius, primindami jam, kad jis tu­
+    rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo
+    užstatyta Žemaitija7 . Didysis kunigaikštis Vytautas
+    atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
+    bar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją,
+    o pinigų jums atiduoti neturiu."
+    Bet netrukus Vytautas ėmė rinkti pinigus ir surin­
+    kęs nusiuntė jiems visą auksinų sumą.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas

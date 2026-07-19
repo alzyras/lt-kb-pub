@@ -81,7 +81,7 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Puolimo eiga . a ;
+    a ;
     raudonosios armijos kario
 
     Puolimas buvo
@@ -92,7 +92,18 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
     remiami karin. M. Pečiulionio artileri-
     jos, ėmė supti Kaniūkų kaimą, kuriame
     laikėsi bolševikai.
-  citata_rodoma: "a ;\nraudonosios armijos kario\n\nPuolimas buvo\npradėtas gegu-\nžės 31 d. Karin.\nK. Ladygos ko-\nlonos kariai,\nremiami karin. M. Pečiulionio artileri-\njos, ėmė supti Kaniūkų kaimą, kuriame\nlaikėsi bolševikai."
+  citata_rodoma: |
+    a ;
+    raudonosios armijos kario
+
+    Puolimas buvo
+    pradėtas gegu-
+    žės 31 d. Karin.
+    K. Ladygos ko-
+    lonos kariai,
+    remiami karin. M. Pečiulionio artileri-
+    jos, ėmė supti Kaniūkų kaimą, kuriame
+    laikėsi bolševikai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

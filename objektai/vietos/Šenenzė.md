@@ -63,7 +63,14 @@ Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, �
     Šenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie)
     Šereitlaukis, Šereiklaukis
     Šernupė, u.
-  citata_rodoma: "Šarkokalnis, Šarkos kalnas (Kalėnuose) (žr. Sarkis, Sareka)\nŠaumburgas\nŠenenbergas, Šenburgas, Šenbergas\n\nŠenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie)\nŠereitlaukis, Šereiklaukis\nŠernupė, u."
+  citata_rodoma: |
+    Šarkokalnis, Šarkos kalnas (Kalėnuose) (žr. Sarkis, Sareka)
+    Šaumburgas
+    Šenenbergas, Šenburgas, Šenbergas
+
+    Šenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie)
+    Šereitlaukis, Šereiklaukis
+    Šernupė, u.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

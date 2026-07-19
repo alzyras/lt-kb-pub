@@ -71,7 +71,8 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
     Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
     giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
     laikotarpį.
-  citata_rodoma: "giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos"
+  citata_rodoma: |
+    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

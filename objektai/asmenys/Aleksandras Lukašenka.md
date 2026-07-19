@@ -70,7 +70,10 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
     kašenkos diktatūrinis valdymas. 1990 m. gegužės 12 d. Lietuva, Latvija ir
     Estija atnaujino 1934 m.
-  citata_rodoma: "Gerai klostėsi ekonominiai san-\ntykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-\nkašenkos diktatūrinis valdymas."
+  citata_rodoma: |
+    Gerai klostėsi ekonominiai san-
+    tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
+    kašenkos diktatūrinis valdymas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

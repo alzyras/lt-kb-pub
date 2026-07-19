@@ -64,7 +64,13 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
     tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
     valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
     ti su Lenkija.
-  citata_rodoma: "Ji propagavo autonominės \nLietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, \nbaltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų \ntautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma \nvalstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-\nti su Lenkija."
+  citata_rodoma: |
+    Ji propagavo autonominės
+    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
+    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
+    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
+    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
+    ti su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

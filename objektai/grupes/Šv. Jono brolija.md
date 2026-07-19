@@ -94,7 +94,14 @@ Vilniaus religinė miesto brolija.
     landžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios
     arkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus
     Žygimanto Augusto patvirtintą.
-  citata_rodoma: "Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da-\nlis Vilniaus gyventojams, Šv. Jono brolijai priklausantiems, \nkurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta-\ntais ir papuošimu, ad tenorem [pagal] sutartį, 1521 metų ba-\nlandžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios \narkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus \nŽygimanto Augusto patvirtintą."
+  citata_rodoma: |
+    Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da-
+    lis Vilniaus gyventojams, Šv. Jono brolijai priklausantiems,
+    kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta-
+    tais ir papuošimu, ad tenorem [pagal] sutartį, 1521 metų ba-
+    landžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios
+    arkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus
+    Žygimanto Augusto patvirtintą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

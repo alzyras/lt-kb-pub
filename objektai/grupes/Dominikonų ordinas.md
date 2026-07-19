@@ -451,7 +451,19 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     broliams kryžiuočiams skriaudą darydami, skleidė melą, esą
     rusinai ir lietuviai gera valia pareiškę norą krikščionių pa­
     pročiu krikštytis, bet jiems to daryti neleidžiama.
-  citata_rodoma: "Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad \nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir \npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu \nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote \nesant. Išorinį įrodymą randame pasakytą pirmiausia J e r o - \nš i n o, p."
+  citata_rodoma: |
+    Vėliau viskas byloja, jog Gediminas per pasiun­
+    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
+    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
+    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
+    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
+    kada nebuvo dėl jų suabejojęs.
+    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
+    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
+    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
+    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
+    esant. Išorinį įrodymą randame pasakytą pirmiausia J e r o -
+    š i n o, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -471,7 +483,11 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
-  citata_rodoma: "Aleksandras \niš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­\nvo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­\nsios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50."
+  citata_rodoma: |
+    Aleksandras
+    iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
+    vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
+    sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -539,7 +555,31 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
     me archyve ir kuriuos Kotzebue
     išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: "406, pri­\nsimena dar vieną Gedimino dukrą, \nkuri esą buvusi anuomet garbingo \nriterio Dovydo, Gardino kašteliono, \narba tiksliau kunigaikščio, viešpata­\nvusio Gardino valdoje, žmona.\nIl\nGedimino laiškuose, rašytuose do­\nminikonų ir Mažesniųjų brolių, ar­\nba pranciškonų, ordinams bei Han­\nzos miestams, kurių autentiškas \n1323 metais notaro parengtas doku­\nmentas yra Karaliaučiaus Slaptaja-\n-  •  -\n20\n\n## Puslapis 37\n\nI  KNYGA\ngumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­\nnių pasirinko jo valdomų visų kraštų sostine tikriausiai \ntodėl, kad būdamas arčiau sienų su kryžiuočiais turėjo\nme archyve ir kuriuos Kotzebue \nišspausdino savo Prūsijos istorijoje."
+  citata_rodoma: |
+    406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -684,7 +724,22 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     Vilnelės vorupę, kuri seniau toje mi­
     nėtosios kalvos pusėje įtekėjo į Vili­
     ją.
-  citata_rodoma: "Jis, pirmasis iš visų Lietuvos kuni­\ngaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­\nšius su krikščioniškąja Europa, būtent Lenkija ir Rusia10. \nSuteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­\nkonams ir dominikonams, prie Vilniaus pilies pastatydino \njiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, \nleido naujai įkurtame mieste apsigyventi gausiems atėjū­\nnams iš Vokietijos ir Lenkijos\n9\nManome, kad Pilies kalnas senų se­\nnovėje buvo gerokai mažesnė kalva, \nužbaigianti virtinę kalnų, juosiančių \nVilnelės vorupę, kuri seniau toje mi­\nnėtosios kalvos pusėje įtekėjo į Vili­\nją."
+  citata_rodoma: |
+    Jis, pirmasis iš visų Lietuvos kuni­
+    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
+    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
+    Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
+    konams ir dominikonams, prie Vilniaus pilies pastatydino
+    jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai,
+    leido naujai įkurtame mieste apsigyventi gausiems atėjū­
+    nams iš Vokietijos ir Lenkijos
+    9
+    Manome, kad Pilies kalnas senų se­
+    novėje buvo gerokai mažesnė kalva,
+    užbaigianti virtinę kalnų, juosiančių
+    Vilnelės vorupę, kuri seniau toje mi­
+    nėtosios kalvos pusėje įtekėjo į Vili­
+    ją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

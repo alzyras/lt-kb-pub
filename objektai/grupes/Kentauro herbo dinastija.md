@@ -61,7 +61,18 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
     įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
     nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
     minaičių dinastijos valdovui Vyteniui.
-  citata_rodoma: "Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir \nprasideda sakiniu apie Kristaus gimimą, valdant Romos \nimperatoriui Augustui, Romos imperatorių ligi Nerono \nišvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­\nmiesi nuo jo persekiojimo, dalis romėnų „bajorų\", va­\ndovaujamų imperatoriaus Nerono giminaičio Palemono, \npabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­\ntos ir valstybės pradininkais. Vėliau, išmirus Palemono \nįpėdiniams ir sekančios Kentauro herbo dinastijos ku­\nnigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi- \nminaičių dinastijos valdovui Vyteniui."
+  citata_rodoma: |
+    Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
+    prasideda sakiniu apie Kristaus gimimą, valdant Romos
+    imperatoriui Augustui, Romos imperatorių ligi Nerono
+    išvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­
+    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
+    dovaujamų imperatoriaus Nerono giminaičio Palemono,
+    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
+    tos ir valstybės pradininkais. Vėliau, išmirus Palemono
+    įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
+    nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
+    minaičių dinastijos valdovui Vyteniui.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas

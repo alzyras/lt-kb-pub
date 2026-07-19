@@ -108,7 +108,8 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
     mergele, išmoko verpti, austi ir kitų darbų,
     savo kuklumu nesiskyrė
     nuo tėvainių mergaičių — ūkininkų dukterų.
-  citata_rodoma: "Tais metais buvo keliamos mūsų namuose vestuvės, kurias bandysiu aprašyti. Mums mažiems esant, tėvai paėmė pusmergėlę, ką tik iš piemenių išėjusią, kuri buvo mažiems nešiotoja. Algos jai nemokėjo, ji, vadinasi, paimta už augintinę. Šeimininkai privalėjo sukrauti jai kraitį, atsitikus išleisti už vyro, duoti karvę ir dar šį tą. Barbora (taip vadinosi mūsų auklė), augindama mus per kiek metų, pati paaugo padoria kaimo mergele, išmoko verpti, austi ir kitų darbų, savo kuklumu nesiskyrė nuo tėvainių mergaičių — ūkininkų dukterų."
+  citata_rodoma: |
+    Tais metais buvo keliamos mūsų namuose vestuvės, kurias bandysiu aprašyti. Mums mažiems esant, tėvai paėmė pusmergėlę, ką tik iš piemenių išėjusią, kuri buvo mažiems nešiotoja. Algos jai nemokėjo, ji, vadinasi, paimta už augintinę. Šeimininkai privalėjo sukrauti jai kraitį, atsitikus išleisti už vyro, duoti karvę ir dar šį tą. Barbora (taip vadinosi mūsų auklė), augindama mus per kiek metų, pati paaugo padoria kaimo mergele, išmoko verpti, austi ir kitų darbų, savo kuklumu nesiskyrė nuo tėvainių mergaičių — ūkininkų dukterų.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -127,7 +128,8 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
     Kai jis nueidavo į
     javus ar į pievą, jokiu būdu negalima buvo jo išvaryti, visi jo bijojo.
     Barbora nusineša pančiuką — ir veste parveda bulių.
-  citata_rodoma: "Barbora nusineša pančiuką — ir veste parveda bulių."
+  citata_rodoma: |
+    Barbora nusineša pančiuką — ir veste parveda bulių.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

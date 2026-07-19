@@ -91,7 +91,15 @@ media_all_json: |-
     girdu; kariuomenę padalijo į tris žygio voras; vienu
     metu nuniokojo Vėluvos, Salduvos ir Įsruties apygar­
     dų kaimus.
-  citata_rodoma: "Prie\nSaldavos ir Neidenburgo jis sumušė kryžiuočius, nesi­\ntikėjusius jokio pavojaus. Žygis buvo pakartotas šiek\ntiek vėliau, tačiau su didesniu užmoju ir kartu su Al­\ngirdu; kariuomenę padalijo į tris žygio voras; vienu\nmetu nuniokojo Vėluvos, Salduvos ir Įsruties apygar­\ndų kaimus. Tuo metu ir kryžiuočiai nesėdėjo rankų\nsudėję."
+  citata_rodoma: |
+    Prie
+    Saldavos ir Neidenburgo jis sumušė kryžiuočius, nesi­
+    tikėjusius jokio pavojaus. Žygis buvo pakartotas šiek
+    tiek vėliau, tačiau su didesniu užmoju ir kartu su Al­
+    girdu; kariuomenę padalijo į tris žygio voras; vienu
+    metu nuniokojo Vėluvos, Salduvos ir Įsruties apygar­
+    dų kaimus. Tuo metu ir kryžiuočiai nesėdėjo rankų
+    sudėję.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

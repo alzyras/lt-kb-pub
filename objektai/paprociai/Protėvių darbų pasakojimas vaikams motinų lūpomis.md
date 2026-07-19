@@ -100,7 +100,12 @@ Nenurodyta
     timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
     ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
     dų, kurias sąmoningai ar nesąmoningai darė kiti.
-  citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12."
+  citata_rodoma: |
+    Galbūt geriausiai šį faktą paaiškintų paties
+    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
+    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
+    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
+    daug kartų apsirinka“12.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

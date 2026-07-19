@@ -91,7 +91,12 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
     Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
     turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
     pasitarnavo, draugiškai vieną su kitu taikydamas.
-  citata_rodoma: "Kartą, kai popiežius Honorijus III\nir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu\npatikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,\ntvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats\nesąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos."
+  citata_rodoma: |
+    Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

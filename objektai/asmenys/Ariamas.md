@@ -94,7 +94,20 @@ Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 
     galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
     šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
     jo nesuskaičiuojamų atsargų našta.
-  citata_rodoma: "Bet persų pasiuntiniai buvo išsiųsti atgal\nsu panieka; į prašymą karalaitės rankos atsakyta nei­\ngiamai.\n58\n\n## Puslapis 56\n\n38\nKeršydamas už tokį pažeminimą, galingas Rytų val­\ndovas įsakė Kapadokijos valdytojui Ariamui pulti skitus\niš jūros. Šis, priplaukęs su 30 galerų, labai juos sumušė,\npaėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­\nliaus brolis."
+  citata_rodoma: |
+    Bet persų pasiuntiniai buvo išsiųsti atgal
+    su panieka; į prašymą karalaitės rankos atsakyta nei­
+    giamai.
+    58
+
+    ## Puslapis 56
+
+    38
+    Keršydamas už tokį pažeminimą, galingas Rytų val­
+    dovas įsakė Kapadokijos valdytojui Ariamui pulti skitus
+    iš jūros. Šis, priplaukęs su 30 galerų, labai juos sumušė,
+    paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
+    liaus brolis.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -199,7 +199,13 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     damas jam vietininko valdžią Vilniaus did. kunigaikštijoj, bet
     dar tą valdžią išplėtė ir, apskritai, visose Lietuvos ir Rusijos
     žemėse^4 ).
-  citata_rodoma: "Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių.\nČia bebūdamas Jogaila, kaip tai aiškiai liudija Dlugošas ir kiti,\nne tik pasodino Vytautą J. Olesnickio vietoje, tuo būdu atiduo­\ndamas jam vietininko valdžią Vilniaus did. kunigaikštijoj, bet\ndar tą valdžią išplėtė ir, apskritai, visose Lietuvos ir Rusijos\nžemėse"
+  citata_rodoma: |
+    Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių.
+    Čia bebūdamas Jogaila, kaip tai aiškiai liudija Dlugošas ir kiti,
+    ne tik pasodino Vytautą J. Olesnickio vietoje, tuo būdu atiduo­
+    damas jam vietininko valdžią Vilniaus did. kunigaikštijoj, bet
+    dar tą valdžią išplėtė ir, apskritai, visose Lietuvos ir Rusijos
+    žemėse
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -218,7 +224,11 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     pusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-
     rimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-
     vyga ir Ona.
-  citata_rodoma: "Sutartis buvo patvirtinta abiejų\npusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-\nrimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-\nvyga ir Ona."
+  citata_rodoma: |
+    Sutartis buvo patvirtinta abiejų
+    pusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-
+    rimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-
+    vyga ir Ona.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -239,7 +249,13 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
     tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
     valdžią ir visada jį palaikyti.
-  citata_rodoma: "Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-\ntravos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-\ngaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-\njo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-\ntautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją\nvaldžią ir visada jį palaikyti."
+  citata_rodoma: |
+    Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
+    travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
+    gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
+    jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
+    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
+    valdžią ir visada jį palaikyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

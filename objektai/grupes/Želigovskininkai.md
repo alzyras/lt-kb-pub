@@ -90,7 +90,8 @@ media_all_json: |-
     sių“ daliniai. L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
     Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
     želigovskininkų judėjimą į Lietuvos teritoriją.
-  citata_rodoma: "Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį"
+  citata_rodoma: |
+    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

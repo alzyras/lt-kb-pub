@@ -84,7 +84,11 @@ Nenurodyta
     ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
     visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
     Italiją ir Prancūziją.
-  citata_rodoma: "Šiaip, kas norėdavo gauti aukštesniojo ir aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-\nninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o\nvisi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,\nItaliją ir Prancūziją."
+  citata_rodoma: |
+    Šiaip, kas norėdavo gauti aukštesniojo ir aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
+    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
+    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
+    Italiją ir Prancūziją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -103,7 +107,11 @@ Nenurodyta
     pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
     dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
     praturtėjo.
-  citata_rodoma: "Lietuvos žmonės\npradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-\ndėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai\npraturtėjo."
+  citata_rodoma: |
+    Lietuvos žmonės
+    pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
+    dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
+    praturtėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -186,7 +186,23 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     to p rū su s p rieš Lietu-
     neapsirinku spėliodamas, su­
     kurstyti Pelužio.
-  citata_rodoma: "Tame mūšyje žuvo keli tūkstančiai lie­\ntuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­\nėmė, daugybę po miškus klaidžiojančių vėliau išžudė\nkaimiečiai. Tačiau nei viena, nei kita pergalė negalė­\njusi, pasak metraštininkų, atsverti nuostolių, kuriuos\nLenkija tais metais patyrė iš lietuvių: Lukovo apylin­\nkės, Sandomiro bei Liublino žemės tapo visiškai nu­\nniokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­\nmingai puolė priešą, kryžiuočių riteriai, pavergę vi­\nsas prūsų gentis, pradėjo rengti žygius į Lietuvą gal\nsuvokę, jog laikas patogus išpuoliams, o gal, jeigu\ndėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­\ndaug tuo metu gyveno tremtyje tarp kryžiuočių; kai\nvaldžia atsidūrė kitos šeimos rankose, jis susimanė,\nsvetur gyvendamas, įsigyti didžiojo kunigaikščio ti­\ntulą."
+  citata_rodoma: |
+    Tame mūšyje žuvo keli tūkstančiai lie­
+    tuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­
+    ėmė, daugybę po miškus klaidžiojančių vėliau išžudė
+    kaimiečiai. Tačiau nei viena, nei kita pergalė negalė­
+    jusi, pasak metraštininkų, atsverti nuostolių, kuriuos
+    Lenkija tais metais patyrė iš lietuvių: Lukovo apylin­
+    kės, Sandomiro bei Liublino žemės tapo visiškai nu­
+    niokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­
+    mingai puolė priešą, kryžiuočių riteriai, pavergę vi­
+    sas prūsų gentis, pradėjo rengti žygius į Lietuvą gal
+    suvokę, jog laikas patogus išpuoliams, o gal, jeigu
+    dėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­
+    daug tuo metu gyveno tremtyje tarp kryžiuočių; kai
+    valdžia atsidūrė kitos šeimos rankose, jis susimanė,
+    svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
+    tulą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -227,7 +243,34 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     labai stiprus karys; jis pažadėjo vadui padėti, tegu tik
     kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad
     jie galės ne tik susikauti, bet ir nugalėti.
-  citata_rodoma: "Vėliau,\nsužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-\nnas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies\nįgulą ir išgabeno vertingiausius daiktus; priešas, už­\nėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­\ndrįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės\nkomtūras, ieškodamas progos karui ar pataikaudamas,\nkaip priduria senieji rašytojai, kažkokiam iš Vienos\nkilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­\ntą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­\nmunu prieš srovę į Lietuvą, ir jau buvo bepraplaukią\nKolainių pilį, Surmino iš naujo atstatytą. Surminas,\ndegdamas visuotine neapykanta ir kęsdamas skausmą\ndėl neseniai patirtų nuostolių, baisiai širdo, kad prie­\nšas kuo ramiausiai jo akyse plaukioja, tačiau atvirai\nnieko negalėjo padaryti, nes\nK a rin iu  v y liu m i pa-\nšie, atokiau nuo kranto plau-\nim a m a s\nk ry žiu o č ių\nkdami,\nbuvo\nnepasiekiami\nla iv a s\nnei ietimis, nei strėlėmis, o\njis pats neturėjo nė vieno di­\ndesnio laivo."
+  citata_rodoma: |
+    Vėliau,
+    sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
+    nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
+    įgulą ir išgabeno vertingiausius daiktus; priešas, už­
+    ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­
+    drįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės
+    komtūras, ieškodamas progos karui ar pataikaudamas,
+    kaip priduria senieji rašytojai, kažkokiam iš Vienos
+    kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
+    tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
+    munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
+    Kolainių pilį, Surmino iš naujo atstatytą. Surminas,
+    degdamas visuotine neapykanta ir kęsdamas skausmą
+    dėl neseniai patirtų nuostolių, baisiai širdo, kad prie­
+    šas kuo ramiausiai jo akyse plaukioja, tačiau atvirai
+    nieko negalėjo padaryti, nes
+    K a rin iu  v y liu m i pa-
+    šie, atokiau nuo kranto plau-
+    im a m a s
+    k ry žiu o č ių
+    kdami,
+    buvo
+    nepasiekiami
+    la iv a s
+    nei ietimis, nei strėlėmis, o
+    jis pats neturėjo nė vieno di­
+    desnio laivo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -255,7 +298,18 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     šaunumui bei drąsai, jeigu silpna ranka, bemaž nieko
     neveikdama, klote iškloja nesuskaitomas narsiausių
     karių krūvas?
-  citata_rodoma: "Tuo tarpu Gedimi­\nnas, norėdamas padėti apsuptai Veliuonai, su didelėmis\njėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias\npilis apsuptas ištisas dvidešimt dienų. Artėdami prie\ngynybinio pylimo, lietuviai čia patyrė smarkų pralai­\nmėjimą, nes buvo pavartoti ligi tol neregėti negirdėti\nginklai. Pasak metraštininkų, tada kryžiuočiai ėmę var­\ntoti geležinius vamzdžius, kurie, užtaisyti paraku ir\nsviediniais, purkšdami liepsnojantį paraką, be galo\nsmarkiai ir su baisiu trenksmu išmeta sviedinį į prie­\nšą."
+  citata_rodoma: |
+    Tuo tarpu Gedimi­
+    nas, norėdamas padėti apsuptai Veliuonai, su didelėmis
+    jėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias
+    pilis apsuptas ištisas dvidešimt dienų. Artėdami prie
+    gynybinio pylimo, lietuviai čia patyrė smarkų pralai­
+    mėjimą, nes buvo pavartoti ligi tol neregėti negirdėti
+    ginklai. Pasak metraštininkų, tada kryžiuočiai ėmę var­
+    toti geležinius vamzdžius, kurie, užtaisyti paraku ir
+    sviediniais, purkšdami liepsnojantį paraką, be galo
+    smarkiai ir su baisiu trenksmu išmeta sviedinį į prie­
+    šą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -283,7 +337,19 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     Lietuvą. Nusiaubęs dideliuose
     plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
     lietuvių bei žemaičių keletą pilių.
-  citata_rodoma: "Nusiaubęs dideliuose\nplotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš\nlietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­\nkojusius pulkus prie Marienverderio salos, pasak kry­\nžiuočių metraštininkų, prieš vesdamasis karius į krašto\ngilumą, iškėlė toje saloje prabangią puotą. Prie stalo\nvisi karvedžiai bei riteriai susėdo tokion vieton, kokia\nkiekvienam priklausė pagal\nPrieš\nm ū šį\niškelia\njo žygių šlovę."
+  citata_rodoma: |
+    Nusiaubęs dideliuose
+    plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
+    lietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­
+    kojusius pulkus prie Marienverderio salos, pasak kry­
+    žiuočių metraštininkų, prieš vesdamasis karius į krašto
+    gilumą, iškėlė toje saloje prabangią puotą. Prie stalo
+    visi karvedžiai bei riteriai susėdo tokion vieton, kokia
+    kiekvienam priklausė pagal
+    Prieš
+    m ū šį
+    iškelia
+    jo žygių šlovę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -370,7 +436,16 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     bius išdavystės įrodymus ir juos pateikus karaliui,
     Žygimanto neapykanta Glinskiui, nors ir slepiama, iš­
     kilo į viešumą.
-  citata_rodoma: "Tvarkydamas savo pairusius reikalus,\npirmiausia kreipėsi pagalbos Vengrijoje į karalių Vla­\ndislovą, bet šį kartą ir ten ne viskas išėjo taip, kaip\nnorėjo. Jis priprašė Vladislovą parašyti Žygimantui laiš­\nką ir priminti, kad nuolatinis bylos sprendimo atidėlio­\njimas galįs pakenkti Glinskio vardui ir padėčiai. Po\nVladislovo pasiuntinio atvyko pats Glinskis, maldau­\ndamas karalių viešai bylą išnagrinėti ir kuo greičiausiai\npaskelbti karališkąjį sprendimą vieno ar kito naudai."
+  citata_rodoma: |
+    Tvarkydamas savo pairusius reikalus,
+    pirmiausia kreipėsi pagalbos Vengrijoje į karalių Vla­
+    dislovą, bet šį kartą ir ten ne viskas išėjo taip, kaip
+    norėjo. Jis priprašė Vladislovą parašyti Žygimantui laiš­
+    ką ir priminti, kad nuolatinis bylos sprendimo atidėlio­
+    jimas galįs pakenkti Glinskio vardui ir padėčiai. Po
+    Vladislovo pasiuntinio atvyko pats Glinskis, maldau­
+    damas karalių viešai bylą išnagrinėti ir kuo greičiausiai
+    paskelbti karališkąjį sprendimą vieno ar kito naudai.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -396,7 +471,17 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     pagonims žygiuose
     prieš
     katalikus.
-  citata_rodoma: "Lietuvos\nDidžiosios Kunigaikštystės gyventojus jis skirstė į lietuvius ir rusus,\natsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę.\n15 Rusų metraščiais autorius\nvadina Lietuvos\nmetraščius, nes\njie parašyti Lietuvos Didžiojoje Kunigaikštystėje vartota rusų (bal­\ntarusių ir ukrainiečių)\nkalba. Ta pačia kalba parašyti ir Lietuvos\nstatutai."
+  citata_rodoma: |
+    Lietuvos
+    Didžiosios Kunigaikštystės gyventojus jis skirstė į lietuvius ir rusus,
+    atsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę.
+    15 Rusų metraščiais autorius
+    vadina Lietuvos
+    metraščius, nes
+    jie parašyti Lietuvos Didžiojoje Kunigaikštystėje vartota rusų (bal­
+    tarusių ir ukrainiečių)
+    kalba. Ta pačia kalba parašyti ir Lietuvos
+    statutai.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

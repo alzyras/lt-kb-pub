@@ -71,7 +71,10 @@ media_all_json: |-
     suvažiavime. Žuvo 1949 m. rugsėjo
     28 d. Šakių apskrities Jankų valsčiaus
     Šunkarių miške patekęs į pasalą.
-  citata_rodoma: "Žuvo 1949 m. rugsėjo\n28 d. Šakių apskrities Jankų valsčiaus\nŠunkarių miške patekęs į pasalą."
+  citata_rodoma: |
+    Žuvo 1949 m. rugsėjo
+    28 d. Šakių apskrities Jankų valsčiaus
+    Šunkarių miške patekęs į pasalą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -23,12 +23,11 @@ function citationEntries(sections: Map<string, EvidenceEntry[]>): EvidenceEntry[
 }
 
 function citationText(entry: EvidenceEntry): string {
-  return (
-    entry.fields.get("citata_rodoma")?.trim() ||
-    entry.fields.get("citata_originali")?.trim() ||
-    entry.fields.get("citata")?.trim() ||
-    ""
-  )
+  return ["citata_originali", "citata_rodoma", "citata"]
+    .map((key) => entry.fields.get(key)?.trim() ?? "")
+    .filter(Boolean)
+    .filter((text, index, values) => values.indexOf(text) === index)
+    .join("\n")
 }
 
 function normalizedTokens(text: string): Set<string> {
@@ -71,14 +70,48 @@ function normalizedTokens(text: string): Set<string> {
   const normalized = text
     .normalize("NFKD")
     .replace(/\p{Diacritic}/gu, "")
+    .replace(/[-\u00ad]\s*\n\s*(?=\p{L})/gu, "")
     .toLowerCase()
-  return new Set((normalized.match(/[a-z0-9]{4,}/g) ?? []).filter((token) => !stopwords.has(token)))
+  return new Set(
+    (normalized.match(/[\p{L}\p{N}]{3,}/gu) ?? []).filter((token) => !stopwords.has(token)),
+  )
 }
 
-function overlapScore(claim: EvidenceEntry, citation: EvidenceEntry): number {
-  const claimTokens = normalizedTokens(claim.fields.get("teiginys") ?? "")
-  const citationTokens = normalizedTokens(citationText(citation))
-  return [...claimTokens].filter((token) => citationTokens.has(token)).length
+export function evidenceTextOverlapScore(
+  claimText: string,
+  quoteText: string,
+  contextText = "",
+): number {
+  const claimTokens = normalizedTokens(`${claimText} ${contextText}`)
+  const citationTokens = normalizedTokens(quoteText)
+  return [...claimTokens].filter((claimToken) =>
+    [...citationTokens].some((citationToken) => {
+      if (claimToken === citationToken) return true
+      const commonLength = Math.min(claimToken.length, citationToken.length)
+      let prefixLength = 0
+      while (
+        prefixLength < commonLength &&
+        claimToken[prefixLength] === citationToken[prefixLength]
+      ) {
+        prefixLength++
+      }
+      return prefixLength >= 4
+    }),
+  ).length
+}
+
+export function evidenceDocumentContext(markdown: string): string {
+  const frontmatterTitle = markdown.match(/^pavadinimas:\s*["']?(.+?)["']?\s*$/m)?.[1]
+  if (frontmatterTitle) return frontmatterTitle.trim()
+  return markdown.match(/^#\s+(.+?)\s*$/m)?.[1]?.trim() ?? ""
+}
+
+function overlapScore(claim: EvidenceEntry, citation: EvidenceEntry, contextText: string): number {
+  return evidenceTextOverlapScore(
+    claim.fields.get("teiginys") ?? "",
+    citationText(citation),
+    contextText,
+  )
 }
 
 function claimIds(claims: EvidenceEntry[]): Set<string> {
@@ -91,6 +124,7 @@ function claimIds(claims: EvidenceEntry[]): Set<string> {
 
 export function collectEvidenceIntegrityIssues(markdown: string): EvidenceIntegrityIssue[] {
   const sections = parseEvidenceSections(markdown)
+  const contextText = evidenceDocumentContext(markdown)
   const claims = (sections.get("Teiginiai") ?? []).filter((entry) => entry.id.startsWith("t-"))
   const citations = citationEntries(sections)
   const issues: EvidenceIntegrityIssue[] = []
@@ -215,7 +249,7 @@ export function collectEvidenceIntegrityIssues(markdown: string): EvidenceIntegr
         })
       }
 
-      if (overlapScore(claim, citation) === 0) {
+      if (overlapScore(claim, citation, contextText) === 0) {
         issues.push({
           code: "citation_text_mismatch",
           severity: "warning",

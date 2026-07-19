@@ -135,7 +135,15 @@ Nenurodyta
     Nesvyžių ir Slucką, buvo itin geras punktas
     išpuoliams, kuriuos totoriai vykdė pasi-
     skirstę mažesniais būriais.
-  citata_rodoma: "Galiausiai apie liepos 20-22 d. jie sustojo.\nVietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais."
+  citata_rodoma: |
+    Galiausiai apie liepos 20-22 d. jie sustojo.
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

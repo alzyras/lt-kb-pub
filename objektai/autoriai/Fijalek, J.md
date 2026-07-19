@@ -66,7 +66,9 @@ Fijalek, J.
     401 p. — Fijalek, J. : _Średniowieczne biskupstwa kościoła wschodniego
     na Rusi i Litwie,_ KH, t. 10, 1896, 487-521 p. — Ivinskis, Z. : _Die
     Handelsbeziehungen Litauens mit Riga im 14.
-  citata_rodoma: "— Fijalek, J. : _Średniowieczne biskupstwa kościoła wschodniego\nna Rusi i Litwie,_ KH, t. 10, 1896, 487-521 p."
+  citata_rodoma: |
+    — Fijalek, J. : _Średniowieczne biskupstwa kościoła wschodniego
+    na Rusi i Litwie,_ KH, t. 10, 1896, 487-521 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -100,7 +100,15 @@ Nenurodyta
 
 
     27.
-  citata_rodoma: "Apie viešpaties erškėčių vainiko perkėlimą\n\n  1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į\nParyžių viešpaties erškėčių vainiką (Ptol. 21,36).\n\n\n\n27."
+  citata_rodoma: |
+    Apie viešpaties erškėčių vainiko perkėlimą
+
+      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
+    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
+
+
+
+    27.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

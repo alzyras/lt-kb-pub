@@ -114,7 +114,19 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     plentą ir siekė pralaužti atsparumu pagarsė-
     jusią „Bružų poziciją“, tačiau lietuviai patyrė
     nemažų nuostolių ir puolimas nepavyko.
-  citata_rodoma: "Tos dienos\nvakare, nežiūrint itin atkaklaus bolše-\nvikų pasipriešinimo, parėmus 1-ojo pės-\ntininkų pulko batalionui, pavyko užimti\nšią stotį, o taip pat ir senus Pirmojo pa-\nsaulinio karo laikų vokiečių apkasus.\n\nTuo tarpu 1-asis pėstininkų pulkas puo-\nlimą pradėjo naktį iš 23 į 24 d. palei Zarasų\nplentą ir siekė pralaužti atsparumu pagarsė-\njusią „Bružų poziciją“, tačiau lietuviai patyrė\nnemažų nuostolių ir puolimas nepavyko."
+  citata_rodoma: |
+    Tos dienos
+    vakare, nežiūrint itin atkaklaus bolše-
+    vikų pasipriešinimo, parėmus 1-ojo pės-
+    tininkų pulko batalionui, pavyko užimti
+    šią stotį, o taip pat ir senus Pirmojo pa-
+    saulinio karo laikų vokiečių apkasus.
+
+    Tuo tarpu 1-asis pėstininkų pulkas puo-
+    limą pradėjo naktį iš 23 į 24 d. palei Zarasų
+    plentą ir siekė pralaužti atsparumu pagarsė-
+    jusią „Bružų poziciją“, tačiau lietuviai patyrė
+    nemažų nuostolių ir puolimas nepavyko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

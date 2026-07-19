@@ -129,7 +129,8 @@ Nenurodyta
     nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
     tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
     ieškoti sprendimo.
-  citata_rodoma: "tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią"
+  citata_rodoma: |
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +149,8 @@ Nenurodyta
     auksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje
     įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
     buvo prilygintas JAV doleriui santykiu 10:1.
-  citata_rodoma: "įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas"
+  citata_rodoma: |
+    įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

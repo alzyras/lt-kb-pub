@@ -85,7 +85,8 @@ Nenurodyta
     pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
     karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
     šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
-  citata_rodoma: "pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą"
+  citata_rodoma: |
+    pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

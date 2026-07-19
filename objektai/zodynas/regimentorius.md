@@ -78,7 +78,11 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
     rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
     Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
-  citata_rodoma: "Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-\nkiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-\nrijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į\nValkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose)."
+  citata_rodoma: |
+    Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-
+    kiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-
+    rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
+    Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

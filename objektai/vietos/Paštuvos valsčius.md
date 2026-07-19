@@ -210,7 +210,12 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
     deramai pasiruošę gintis, ir išsižadės sumanytos piktadarystės“. Brolis Henrikas visa
     tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus,
     kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė.
-  citata_rodoma: "536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau\nNevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.\nValsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.\n40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;\nMakarevičius A., Vilkijos..., p. 62)."
+  citata_rodoma: |
+    536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
+    Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.
+    Valsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.
+    40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;
+    Makarevičius A., Vilkijos..., p. 62).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -249,7 +254,17 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
     nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo. Galop visa kariuomenė susirinko į
     vieną daiktą ir patraukė namo.
-  citata_rodoma: "Apie Paštuvos valsčiaus nusiaubimą\n\n  1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai\nįsiveržė  į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus\nžmonių paėmė į nelaisvę ar nukovė.\n\n\n\n\n           327 (320)."
+  citata_rodoma: |
+    Apie Paštuvos valsčiaus nusiaubimą
+
+      1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai
+    įsiveržė  į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus
+    žmonių paėmė į nelaisvę ar nukovė.
+
+
+
+
+               327 (320).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -272,7 +287,14 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
     neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
     nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
     pavyko garbingai išvengti kovos.
-  citata_rodoma: "Apie Paštuvos ir Gaižuvos valsčių apiplėšimą\n\n  Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais\nnuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,\nviską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug\nžmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus\nkapo esantis Pilies (Ramybės) kalnas (atrodo, XV a."
+  citata_rodoma: |
+    Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
+
+      Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais
+    nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,
+    viską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug
+    žmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus
+    kapo esantis Pilies (Ramybės) kalnas (atrodo, XV a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

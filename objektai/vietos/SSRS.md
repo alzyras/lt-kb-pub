@@ -665,7 +665,10 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
     kaip agresorė.
-  citata_rodoma: "Sovietams kariaujant su Suomija Baltijos vals-\ntybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos\nkaip agresorė."
+  citata_rodoma: |
+    Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -689,7 +692,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
     atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
-  citata_rodoma: "Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus\natsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą."
+  citata_rodoma: |
+    Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
+    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -712,7 +717,14 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m.
-  citata_rodoma: "Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-\nžo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:\nrugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-\nčiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-\nja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė\nLiaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-\nsiskyrė nuo 1936 m."
+  citata_rodoma: |
+    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
+    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
+    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
+    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
+    siskyrė nuo 1936 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -732,7 +744,10 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-
     tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
     ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
-  citata_rodoma: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-\ntuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių\nryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų."
+  citata_rodoma: |
+    Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-
+    tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
+    ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -755,7 +770,10 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-
     lomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-
     tos pagal SSRS aukštųjų mokyklų sistemą.
-  citata_rodoma: "Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-\nlomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-\ntos pagal SSRS aukštųjų mokyklų sistemą."
+  citata_rodoma: |
+    Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-
+    lomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-
+    tos pagal SSRS aukštųjų mokyklų sistemą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -772,7 +790,10 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
     nusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-
     lumą, daugiausia Sibirą.
-  citata_rodoma: "Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais \nnusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-\nlumą, daugiausia Sibirą."
+  citata_rodoma: |
+    Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
+    nusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-
+    lumą, daugiausia Sibirą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -794,7 +815,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino
     konstitucijos.
-  citata_rodoma: "Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-\nžo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: \nrugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-\nčiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-\nja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė \nLiaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-\nsiskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino \nkonstitucijos."
+  citata_rodoma: |
+    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
+    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
+    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
+    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
+    siskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino
+    konstitucijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -816,7 +845,13 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Pastatytos didžiulės gamyklos integruotos į Sovietų Sąjungos ūkio siste-
     Kauno hidroelektrinės statyboje mitingas pirmosios turbinos
     paleidimo proga.
-  citata_rodoma: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-\ntuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių \nryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų. \nPastatytos didžiulės gamyklos integruotos į Sovietų Sąjungos ūkio siste-\nKauno hidroelektrinės statyboje mitingas pirmosios turbinos \npaleidimo proga."
+  citata_rodoma: |
+    Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-
+    tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
+    ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
+    Pastatytos didžiulės gamyklos integruotos į Sovietų Sąjungos ūkio siste-
+    Kauno hidroelektrinės statyboje mitingas pirmosios turbinos
+    paleidimo proga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -857,7 +892,14 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: "Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai \nkariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną). \nTačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp \nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į \nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos \nspaudimą Lietuvai kaip ranka nuėmė."
+  citata_rodoma: |
+    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -885,7 +927,17 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
-  citata_rodoma: "Galimybė atsidurti „po \nrusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į \nNikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-\nžimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus, \nideologiškai priešiškas politines ir socialines grupes.\nSovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso \npasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. \nvasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi \ntariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-\nja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį."
+  citata_rodoma: |
+    Galimybė atsidurti „po
+    rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į
+    Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-
+    žimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus,
+    ideologiškai priešiškas politines ir socialines grupes.
+    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
+    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
+    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

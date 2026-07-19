@@ -208,7 +208,7 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     kurios nuo 1569 m. buvo
     Lenkijos ribose: mat, jose
     taip pat visą laiką veikė
-    Lietuvos statutas). Ogins-
+    [[Lietuvos Statutas|Lietuvos statutas]]). Ogins-
     kis nurodinėjo, kad tuo
     būdu kelias Nepoleono
     įtakai Lietuvoje būtų už-
@@ -220,7 +220,14 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     klausomą tribunolą (mat,
     tada aukščiausioji instan-
     cija buvo Rusijos senatas).
-  citata_rodoma: "Be to, jis siūlė pa-\nlikti toje kunigaikštijoje Lietuvos statutą be jokių\napribojimų ir įsteigti nuo\nPetrapilio visiškai nepri-\nklausomą tribunolą (mat,\ntada aukščiausioji instan-\ncija buvo Rusijos senatas)."
+  citata_rodoma: |
+    Be to, jis siūlė pa-
+    likti toje kunigaikštijoje Lietuvos statutą be jokių
+    apribojimų ir įsteigti nuo
+    Petrapilio visiškai nepri-
+    klausomą tribunolą (mat,
+    tada aukščiausioji instan-
+    cija buvo Rusijos senatas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +249,11 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
     tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
     pat išliko iki pat nepriklausomybės pabaigos.
-  citata_rodoma: "Vyriausiojo Lietuvos tribunolo reikalas buvo\nsvarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-\ntinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks\npat išliko iki pat nepriklausomybės pabaigos."
+  citata_rodoma: |
+    Vyriausiojo Lietuvos tribunolo reikalas buvo
+    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
+    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
+    pat išliko iki pat nepriklausomybės pabaigos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -275,7 +286,22 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     iš Albertrandžio rankraščių, rūpestin­
     gai profesoriaus Onacevičiaus
     išleistų Varšuvoje, 1823 m.
-  citata_rodoma: "Protasevičiaus pėdomis sekė ir \njo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­\nliau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­\nkupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą \ndvasiškai jaunuomenei lavintis, vadinamą seminarija59.\nLietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­\nkilmingai įvesdintas išlaisvino karalius nuo varginančio\n57\nVisas Vilniaus universiteto fundaci­\njos privilegijas kartu su atitinkama \npopiežiaus bule galima perskaityti \nveikale „Stepono Batoro valdymas\", \niš Albertrandžio rankraščių, rūpestin­\ngai profesoriaus Onacevičiaus \nišleistų Varšuvoje, 1823 m."
+  citata_rodoma: |
+    Protasevičiaus pėdomis sekė ir
+    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
+    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
+    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
+    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
+    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
+    kilmingai įvesdintas išlaisvino karalius nuo varginančio
+    57
+    Visas Vilniaus universiteto fundaci­
+    jos privilegijas kartu su atitinkama
+    popiežiaus bule galima perskaityti
+    veikale „Stepono Batoro valdymas",
+    iš Albertrandžio rankraščių, rūpestin­
+    gai profesoriaus Onacevičiaus
+    išleistų Varšuvoje, 1823 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

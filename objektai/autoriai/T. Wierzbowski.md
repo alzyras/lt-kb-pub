@@ -63,7 +63,12 @@ Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą (W.
     istorijos rėmuose, ar tai, pvz., tyrinėjant Edukacinę Komisiją
     (T. Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą
     (W. Kalinka), ar rašant monografijas apie valdovus.
-  citata_rodoma: "Tad atskirų tyrinėjimų ir studijų apie\nLietuvą vis mažiau, nes paprastai ji imta bendruose respublikos\nistorijos rėmuose, ar tai, pvz., tyrinėjant Edukacinę Komisiją\n(T. Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą\n(W. Kalinka), ar rašant monografijas apie valdovus."
+  citata_rodoma: |
+    Tad atskirų tyrinėjimų ir studijų apie
+    Lietuvą vis mažiau, nes paprastai ji imta bendruose respublikos
+    istorijos rėmuose, ar tai, pvz., tyrinėjant Edukacinę Komisiją
+    (T. Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą
+    (W. Kalinka), ar rašant monografijas apie valdovus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

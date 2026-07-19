@@ -109,7 +109,10 @@ Nenurodyta
     ižde buvusius pinigus. Seimas priėmė eilę konstitucijų, kuriomis
     Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo
     apdovanoti milžiniškomis sumomis pinigų.
-  citata_rodoma: "Seimas priėmė eilę konstitucijų, kuriomis\nRusams pasidarbavę didikai „už nuopelnus kraštui\" buvo\napdovanoti milžiniškomis sumomis pinigų."
+  citata_rodoma: |
+    Seimas priėmė eilę konstitucijų, kuriomis
+    Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo
+    apdovanoti milžiniškomis sumomis pinigų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +139,12 @@ Nenurodyta
     visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
     grobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus
     ižde buvusius pinigus.
-  citata_rodoma: "Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,\nkai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo\nvisiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-\ngrobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus\nižde buvusius pinigus."
+  citata_rodoma: |
+    Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,
+    kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo
+    visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
+    grobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus
+    ižde buvusius pinigus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

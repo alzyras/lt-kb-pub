@@ -101,7 +101,16 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
     ir laisvai gyvendami, ilgai džiaugėsi palaiminga būtimi; šito
     liudytojai buvo miestas, pilis ir šventyklos, garsėjusios labai
     gražiais ir nuostabą keliančiais pastatais.
-  citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
+  citata_rodoma: |
+    Viena tokia buvo Didžiojoje
+    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
+    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

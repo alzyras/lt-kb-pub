@@ -83,7 +83,12 @@ Nenurodyta
     gaikščiu, o Jogaila grįžta į savo žemes. Tuos pasiuntimą pa­
     siūlymus Jogailos vardu patvirtino ir Skirgaila, prašydamas
     abu juodu atvykti į Jogailos stovyklą.
-  citata_rodoma: "Tik kiek laiko praslinkus, jis atsiuntė į\nKęstučio stovyklą pasiuntinius, prašydamas, kad Vytautas pa­\ntarpininkautą derybose, kurią pagrindu jis siūlė atstatymą pir­\nmiau buvusios padėties, t. y. Kęstutis pasilieka didžiuoju kuni­\ngaikščiu, o Jogaila grįžta į savo žemes."
+  citata_rodoma: |
+    Tik kiek laiko praslinkus, jis atsiuntė į
+    Kęstučio stovyklą pasiuntinius, prašydamas, kad Vytautas pa­
+    tarpininkautą derybose, kurią pagrindu jis siūlė atstatymą pir­
+    miau buvusios padėties, t. y. Kęstutis pasilieka didžiuoju kuni­
+    gaikščiu, o Jogaila grįžta į savo žemes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

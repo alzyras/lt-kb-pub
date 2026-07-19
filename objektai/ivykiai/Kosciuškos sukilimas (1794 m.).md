@@ -115,7 +115,11 @@ Nenurodyta
     nesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė
     savo valdžią; o netrukus po to buvo atliktas paskutinis Res-
     publikos padalinimas.
-  citata_rodoma: "Bet šita naujoji santvarka neilgai tegyvavo. Po keleto mė-\nnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė\nsavo valdžią; o netrukus po to buvo atliktas paskutinis Res-\npublikos padalinimas."
+  citata_rodoma: |
+    Bet šita naujoji santvarka neilgai tegyvavo. Po keleto mė-
+    nesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė
+    savo valdžią; o netrukus po to buvo atliktas paskutinis Res-
+    publikos padalinimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +139,10 @@ Nenurodyta
     Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
     kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
     (tokių atsišaukimų buvo išleistų ir lietuviškų).
-  citata_rodoma: "Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-\nkimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę\n(tokių atsišaukimų buvo išleistų ir lietuviškų)."
+  citata_rodoma: |
+    Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
+    kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
+    (tokių atsišaukimų buvo išleistų ir lietuviškų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

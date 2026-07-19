@@ -61,7 +61,11 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
     tarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­
     gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
     link.
-  citata_rodoma: "Magistras tada atsakė, kad ginčą\ntarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­\ngininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau\nlink."
+  citata_rodoma: |
+    Magistras tada atsakė, kad ginčą
+    tarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­
+    gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
+    link.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

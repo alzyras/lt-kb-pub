@@ -105,7 +105,23 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
     kuri juos saugotų, būdama tarp jų ir prūsų. Jie ir paprašė minėtąjį kunigaikštį pastatydinti
     jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,
     prisimindamas šiuos poeto žodžius:
-  citata_rodoma: "Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu\nAptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226). \nKadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis, \nneturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems \natiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos, \nkuri juos saugotų, būdama tarp jų ir prūsų. Jie ir paprašė minėtąjį kunigaikštį pastatydinti \njiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to, \nprisimindamas šiuos poeto žodžius:\n\t\n\t\n\t\nPusę darbo padaro tasai, kas netrunka jo imtis —\t\n\t\nsutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį, \n179  Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina, \nkas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą."
+  citata_rodoma: |
+    Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu
+    Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
+    Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,
+    neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
+    atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
+    kuri juos saugotų, būdama tarp jų ir prūsų. Jie ir paprašė minėtąjį kunigaikštį pastatydinti
+    jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,
+    prisimindamas šiuos poeto žodžius:
+
+
+
+    Pusę darbo padaro tasai, kas netrunka jo imtis —
+
+    sutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį,
+    179  Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,
+    kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -127,7 +127,14 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
     kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
     eitis.
-  citata_rodoma: "Senas pasakojimas,\nkuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša\nžinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią\nšventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263\nmetais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­\nkulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­\neitis."
+  citata_rodoma: |
+    Senas pasakojimas,
+    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
+    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
+    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
+    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
+    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
+    eitis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

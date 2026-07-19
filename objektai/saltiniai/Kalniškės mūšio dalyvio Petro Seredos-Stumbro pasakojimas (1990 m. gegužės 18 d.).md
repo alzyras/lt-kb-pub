@@ -139,7 +139,16 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 
     »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
     kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro.
-  citata_rodoma: "“\n\nMŪŠIO DALYVIO ATSIMINIMAI\n\nAlytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-\nlyvio Petro Seredos-Stumbro pasakojimo ištrauka:\n\n»---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD\nkariuomenė."
+  citata_rodoma: |
+    “
+
+    MŪŠIO DALYVIO ATSIMINIMAI
+
+    Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-
+    lyvio Petro Seredos-Stumbro pasakojimo ištrauka:
+
+    »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
+    kariuomenė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

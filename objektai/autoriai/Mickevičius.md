@@ -88,7 +88,11 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
     kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-
     tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
     ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
-  citata_rodoma: "Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,\nkuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-\ntais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų\nir t.t."
+  citata_rodoma: |
+    Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,
+    kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-
+    tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
+    ir t.t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

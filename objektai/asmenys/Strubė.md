@@ -101,7 +101,16 @@ Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos s
     Ratas, reiškia ratą, Ratelis — ratelį, Rafatas — apskritą,
     apvalų3. Latvių kalba Rotha ir jos vedinys Rothals taip
     pat reiškia beveik tą patį4.
-  citata_rodoma: "Anot jo, \nsenovės rusai yra šiandienos rusų protėviai; šią savo prie­\nlaidą pagrindžia tuo, kad Saksas Gramatikas** bendrine \nsąvoka Estiorum terrae apėmęs kraštą, kur buvusi Rota- \nla. Mūsų skaitytojams iš šio veikalo (§ 77—83) jau ži­\nnoma, ką reiškia šis pavadinimas ir kiek jis buvęs bend­\nrinis. Tad nedera dėl to Rotalos stumti tiesiai prie šian­\ndienės Estijos2, bet pirmiausia reikia pabandyti rasti ją \nVyslos ir Nemuno tarpupyje."
+  citata_rodoma: |
+    Anot jo,
+    senovės rusai yra šiandienos rusų protėviai; šią savo prie­
+    laidą pagrindžia tuo, kad Saksas Gramatikas** bendrine
+    sąvoka Estiorum terrae apėmęs kraštą, kur buvusi Rota-
+    la. Mūsų skaitytojams iš šio veikalo (§ 77—83) jau ži­
+    noma, ką reiškia šis pavadinimas ir kiek jis buvęs bend­
+    rinis. Tad nedera dėl to Rotalos stumti tiesiai prie šian­
+    dienės Estijos2, bet pirmiausia reikia pabandyti rasti ją
+    Vyslos ir Nemuno tarpupyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

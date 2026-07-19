@@ -165,7 +165,11 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
     Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
     galėjimui Rytuose.
-  citata_rodoma: "Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo\nrespublikose, kurios daugiau šliejosi prie Livonijos Ordino ir\nMaskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­\ngalėjimui Rytuose."
+  citata_rodoma: |
+    Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
+    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
+    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
+    galėjimui Rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -212,7 +216,18 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
     250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
-  citata_rodoma: "Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­\nvo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­\nkeršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų \nmiestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­\nsyk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­\nmingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių \nPskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną \nSidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­\nleisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar \n250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po- \nsadniką Silvestrą Levontjevičių ir vietininką Parfėjų81."
+  citata_rodoma: |
+    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
+    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
+    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
+    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
+    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
+    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
+    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
+    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
+    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
+    250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
+    sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

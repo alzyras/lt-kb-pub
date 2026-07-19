@@ -70,7 +70,12 @@ Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius lietuvišk
     kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški
     žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941).
     Antrasis to rinkinio tomas liko rankraštyje.
-  citata_rodoma: "Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius\nlietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių\nkalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški\nžodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941).\nAntrasis to rinkinio tomas liko rankraštyje."
+  citata_rodoma: |
+    Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius
+    lietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių
+    kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški
+    žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941).
+    Antrasis to rinkinio tomas liko rankraštyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

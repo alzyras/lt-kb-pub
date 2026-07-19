@@ -391,7 +391,14 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     ši, po senovei spyriodamasi, jam nedavė laisvės stoti į vienuolyną. Po to ji kiekvieną
     naktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris
     sakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“.
-  citata_rodoma: "Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais\n\n  Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten\nnužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui\nir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl\nir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių\nbūrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių."
+  citata_rodoma: |
+    Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+
+      Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
+    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl
+    ir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių
+    būrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -418,7 +425,16 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     sužeistas, ir pasakė: „Henrikai, aš dosnesnis už jį“, be to, palietęs kraujuojančią žaizdą
     šone, pareiškė: „Štai šitokią karalystę tau duosiu, jei man tarnausi, kur kas geresnę nei
     ta, kurią tau žada šis netikras karalius“.
-  citata_rodoma: "Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,\npersekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo\npilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,\npirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,\ntačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir\npasimirė. Kai  jį mirusį ginklanešiai gabeno  į Kristburgo pilį, moterys, kurias jis buvo\nišvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore\nvirš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip\nskridę."
+  citata_rodoma: |
+    Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
+    persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo
+    pilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,
+    pirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,
+    tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
+    pasimirė. Kai  jį mirusį ginklanešiai gabeno  į Kristburgo pilį, moterys, kurias jis buvo
+    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
+    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
+    skridę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -524,7 +540,16 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     pasakė: „Niekas apie brolių atvykimą Lietuvos žemėje nieko nežino“ ir savo žodžiams
     patvirtinti pridūrė, kad štai tą pačią dieną atvyks penkiasdešimt vyrų, kurie statys savo
     karaliaus medžioklei užtvaras.
-  citata_rodoma: "Ir šiame karo žygyje, ir ankstyvesniajame begėdiškai išniekino\nbažnyčias, šventuosius rūbus bei taures, bažnyčios tarnus bei sakramentus ir, neskaitant\nkito grobio, kurio be galo daug čia paėmė, išsivarė daugiau nei tūkstantį du šimtus\nkrikščionių belaisvių. Štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo  į\ndykras Bartos žemėje,  į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog,\nturėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė\nbelaisviams krikščionims, kurie ten pat stovėjo supančioti: „Kur jūsų dievas, kodėl\njis jums nepadeda, kaip mums padėjo mūsų dievai dabar  ir kitados564?“ Krikščionys\ndūsaudami tylėjo."
+  citata_rodoma: |
+    Ir šiame karo žygyje, ir ankstyvesniajame begėdiškai išniekino
+    bažnyčias, šventuosius rūbus bei taures, bažnyčios tarnus bei sakramentus ir, neskaitant
+    kito grobio, kurio be galo daug čia paėmė, išsivarė daugiau nei tūkstantį du šimtus
+    krikščionių belaisvių. Štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo  į
+    dykras Bartos žemėje,  į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog,
+    turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė
+    belaisviams krikščionims, kurie ten pat stovėjo supančioti: „Kur jūsų dievas, kodėl
+    jis jums nepadeda, kaip mums padėjo mūsų dievai dabar  ir kitados564?“ Krikščionys
+    dūsaudami tylėjo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -87,7 +87,14 @@ Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš
     mo, kadangi visos ten esančios būtybės, taip pat medžiai ir
     augalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­
     čiamais.
-  citata_rodoma: "Kijevo Plikasis kalnas garsėjo 1\n1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­\nsiškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau­\nve -  plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar­\ndžio. Tačiau ir prūsų kalboje Khoh reiškia plikas, todėl Kaukazo pa­\nvadinimas išvedamas iš Khohkasp -  plikasis kalnas. Tokios nuomo­\nnės yra Malte-Brunas (Vocabulaire de mots génériques)."
+  citata_rodoma: |
+    Kijevo Plikasis kalnas garsėjo 1
+    1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­
+    siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau­
+    ve -  plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar­
+    džio. Tačiau ir prūsų kalboje Khoh reiškia plikas, todėl Kaukazo pa­
+    vadinimas išvedamas iš Khohkasp -  plikasis kalnas. Tokios nuomo­
+    nės yra Malte-Brunas (Vocabulaire de mots génériques).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

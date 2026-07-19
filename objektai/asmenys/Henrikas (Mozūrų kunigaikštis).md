@@ -78,7 +78,10 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
     kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
     mesniems žygiams.
-  citata_rodoma: "To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­\nkas. Vytautą rado jis Rittersverdery, berengiantį planus toli­\nmesniems žygiams."
+  citata_rodoma: |
+    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
+    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
+    mesniems žygiams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -99,7 +102,13 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     simpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir
 
     (^1) ) Tuo klausimu žiur.
-  citata_rodoma: "Būdamas Jogailos pasiuntinys, pasiūlė jis\nsavo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti\nLietuvą. Šitą Jogailos ir lenkų kapituliaciją padiktavo ne jų\nsimpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir\n\n(^1) ) Tuo klausimu žiur."
+  citata_rodoma: |
+    Būdamas Jogailos pasiuntinys, pasiūlė jis
+    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
+    Lietuvą. Šitą Jogailos ir lenkų kapituliaciją padiktavo ne jų
+    simpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir
+
+    (^1) ) Tuo klausimu žiur.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

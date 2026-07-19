@@ -73,13 +73,20 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
-        plikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš
-        muldų ar raugtinių^346 ir kitų kodžių^347. Paprastai sriuobalu buvo laiški ar skoba putra^348 ; jei tam
-        kartui ją virė, tad buvo vanduo, su miltais suvirintas, ir truputį pienu saldžiu pražilinta; juo
-        daugiau tenai miltų ir pieno buvo, juo skanesne vadinos, ką patarlė, šiandien minavojama, dar
-        stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
-        sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
-  citata_rodoma: "Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant\nplikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš\nmuldų ar raugtinių^346 ir kitų kodžių^347. Paprastai sriuobalu buvo laiški ar skoba putra^348 ; jei tam\nkartui ją virė, tad buvo vanduo, su miltais suvirintas, ir truputį pienu saldžiu pražilinta; juo\ndaugiau tenai miltų ir pieno buvo, juo skanesne vadinos, ką patarlė, šiandien minavojama, dar\nstigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą\nsakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“."
+    plikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš
+    muldų ar raugtinių^346 ir kitų kodžių^347. Paprastai sriuobalu buvo laiški ar skoba putra^348 ; jei tam
+    kartui ją virė, tad buvo vanduo, su miltais suvirintas, ir truputį pienu saldžiu pražilinta; juo
+    daugiau tenai miltų ir pieno buvo, juo skanesne vadinos, ką patarlė, šiandien minavojama, dar
+    stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
+    sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
+  citata_rodoma: |
+    Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
+    plikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš
+    muldų ar raugtinių^346 ir kitų kodžių^347. Paprastai sriuobalu buvo laiški ar skoba putra^348 ; jei tam
+    kartui ją virė, tad buvo vanduo, su miltais suvirintas, ir truputį pienu saldžiu pražilinta; juo
+    daugiau tenai miltų ir pieno buvo, juo skanesne vadinos, ką patarlė, šiandien minavojama, dar
+    stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
+    sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

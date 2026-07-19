@@ -65,7 +65,9 @@ media_all_json: |-
     _Die Flucht der Litauer in der Schlacht bei Tannenberg,_ ZfO, 12, 1, 1963.
     11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
     nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
-  citata_rodoma: ": _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,\nnr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss."
+  citata_rodoma: |
+    : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
+    nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -378,7 +378,12 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
     tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
     Tverės kunigaikštį Mykolą10 11.
-  citata_rodoma: "Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį\nSviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I\n(1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas\ntačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar\nTverės kunigaikštį Mykolą10 11."
+  citata_rodoma: |
+    Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
+    Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
+    (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
+    tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
+    Tverės kunigaikštį Mykolą10 11.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -417,7 +422,11 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     savo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­
     bo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris
     jį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti.
-  citata_rodoma: "Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir\nsavo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­\nbo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris\njį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti."
+  citata_rodoma: |
+    Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir
+    savo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­
+    bo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris
+    jį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -439,7 +448,13 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
     čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
     ar bent turėti jiems didelę įtaką.
-  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
+  citata_rodoma: |
+    Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -472,7 +487,24 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     VILNIAUS MIESTO ISTORIJA / TOMAS
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
-  citata_rodoma: "Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­\nventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri- \njaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam \nnepanorus mokėti nuo Seversko duoklės kaipo viršesniam \nvaldovui, sumušęs pradinėse kautynėse prie Nedokudo- \nvo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs \npatį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­\ngaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur \ngana ilgai buvo saugomas sargybos, kol, atkakliai prašant \nir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo\n139\n\n## Puslapis 156\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npaleistas ir iš Seversko valstybės, jau prijungtos prie Lie­\ntuvos, perkeltas į Volumes ir Podolės didžiules vaidas55."
+  citata_rodoma: |
+    Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
+    ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
+    jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
+    nepanorus mokėti nuo Seversko duoklės kaipo viršesniam
+    valdovui, sumušęs pradinėse kautynėse prie Nedokudo-
+    vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs
+    patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­
+    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
+    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
+    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
+    139
+
+    ## Puslapis 156
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
+    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -516,7 +548,18 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  citata_rodoma: |
+    Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

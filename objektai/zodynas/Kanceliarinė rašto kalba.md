@@ -62,7 +62,13 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
     Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
     tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
-  citata_rodoma: "Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­\ngaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­\nvinės rusų kalbos.\nPats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją."
+  citata_rodoma: |
+    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
+    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
+    vinės rusų kalbos.
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

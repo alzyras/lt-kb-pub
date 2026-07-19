@@ -95,7 +95,12 @@ Nenurodyta
     savo avilius ir dreves. Ji taip pat turėjo galios saugoti bites nuo
     kenksmingų vabzdžių ir kitų nutikimų.
     Lasickis jos išsamiau neaiškino.
-  citata_rodoma: "Mėšlų boba (Mahslu Baba)\nDeivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­\nmininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­\nlių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti\nmaža senutė."
+  citata_rodoma: |
+    Mėšlų boba (Mahslu Baba)
+    Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­
+    mininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­
+    lių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti
+    maža senutė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -84,7 +84,10 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
     sprendimu Ordinas privalėjo grąžinti Pomeraniją, tačiau kryžiuočiai sprendimo nepripažino
     ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
     nemažas politinis lenkų laimėjimas59.
-  citata_rodoma: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).\nMazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus\nkelius vakaruose ir šiaurėje blokavo Ordinas)."
+  citata_rodoma: |
+    Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
+    Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
+    kelius vakaruose ir šiaurėje blokavo Ordinas).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

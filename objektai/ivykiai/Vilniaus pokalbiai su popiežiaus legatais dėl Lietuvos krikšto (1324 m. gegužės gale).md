@@ -209,7 +209,10 @@ Nenurodyta
     darytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė
     su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
     kad per tą laiką Gediminas galįs pasikrikštyti.
-  citata_rodoma: "Išvykdami iš Livonijos, popiežiaus legatai įsakė\nsu Gediminu nekariauti ketverius metus, nes buvo turima vilčių,\nkad per tą laiką Gediminas galįs pasikrikštyti."
+  citata_rodoma: |
+    Išvykdami iš Livonijos, popiežiaus legatai įsakė
+    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
+    kad per tą laiką Gediminas galįs pasikrikštyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -228,7 +231,12 @@ Nenurodyta
     kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
     čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
     taikos, ir karą tepradėjo 1328 m.
-  citata_rodoma: "Išvykdami iš Livonijos, popiežiaus legatai įsakė\nsu Gediminu nekariauti ketverius metus, nes buvo turima vilčių,\nkad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­\nčiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios\ntaikos, ir karą tepradėjo 1328 m."
+  citata_rodoma: |
+    Išvykdami iš Livonijos, popiežiaus legatai įsakė
+    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
+    kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
+    čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
+    taikos, ir karą tepradėjo 1328 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

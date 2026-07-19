@@ -125,7 +125,8 @@ Nenurodyta
     ir nuosekliai didėjo, trūkstant karininkų, jie pradėti rengti Kaune. Sa-
     vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
     apie 12 000, jiems žadėti žemės sklypai.
-  citata_rodoma: "vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo"
+  citata_rodoma: |
+    vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +149,8 @@ Nenurodyta
     bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
     Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
-  citata_rodoma: "bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad"
+  citata_rodoma: |
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

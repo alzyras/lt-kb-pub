@@ -67,7 +67,12 @@ media_all_json: |-
     Krzemieniecas 267
     Krzywicki L. 140, 155, 209, 231
     Krzywolka, Suvalkų aps.
-  citata_rodoma: "349\nKrollmann Chb. 147, 150, 345\nKromero M. kronika 45\nKropi vna 321\nKrumbholtz R."
+  citata_rodoma: |
+    349
+    Krollmann Chb. 147, 150, 345
+    Kromero M. kronika 45
+    Kropi vna 321
+    Krumbholtz R.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

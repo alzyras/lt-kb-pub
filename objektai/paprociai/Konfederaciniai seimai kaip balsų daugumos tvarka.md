@@ -84,7 +84,9 @@ Nenurodyta
     liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
     aktą, kad numatomus klausimus spręsią balsų dauguma. Tuo
     būdu šitokiam seime _veto_ teisė jau nebeveikė.
-  citata_rodoma: "Tuo būdu šitokiam seime _veto_ teisė\njau nebeveikė."
+  citata_rodoma: |
+    Tuo būdu šitokiam seime _veto_ teisė
+    jau nebeveikė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

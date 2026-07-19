@@ -154,7 +154,14 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
     valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
-  citata_rodoma: "Lietuva tai laikė taktiniu atsi-\ntraukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad \nVilnius yra Lietuvos sostinė.\nPriėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas \nMironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos \nvaldžia stengėsi parodyti, kad iš esmės nieko neįvyko."
+  citata_rodoma: |
+    Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
+    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
+    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -175,7 +182,14 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: "Lietuvos \nteritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc. \nšalies eksporto ėjo per Klaipėdą.\nKrikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-\nginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono \nČerniaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-\ntijos gavo po dvi ministrų vietas."
+  citata_rodoma: |
+    Lietuvos
+    teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
+    šalies eksporto ėjo per Klaipėdą.
+    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
+    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
+    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
+    tijos gavo po dvi ministrų vietas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -196,7 +210,14 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino pa-
     skelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona
     ir ministras pirmininkas V. Mironas.
-  citata_rodoma: "Todėl 1936 m. vasarą \nvykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas \n„smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai \nlojalūs asmenys.\nAutoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino pa-\nskelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona \nir ministras pirmininkas V. Mironas."
+  citata_rodoma: |
+    Todėl 1936 m. vasarą
+    vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas
+    „smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai
+    lojalūs asmenys.
+    Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino pa-
+    skelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona
+    ir ministras pirmininkas V. Mironas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

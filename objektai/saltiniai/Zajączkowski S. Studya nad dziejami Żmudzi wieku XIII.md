@@ -271,7 +271,11 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     kalėjusio drauge su juo, pažadėjo dievui už išvadavimą gerą svarą vaško; bematant
     sutrupėjo grandinės, kuriomis buvo surakintas, prasidarė kalėjimo durys, ir jis atgavo
     laisvę.
-  citata_rodoma: "Patikimesni atrodo bandymai ją\nlokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante\n(Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino\npilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340)."
+  citata_rodoma: |
+    Patikimesni atrodo bandymai ją
+    lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
+    (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino
+    pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -306,7 +310,10 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus
     šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau.
-  citata_rodoma: "541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto\nkyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio\n(Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664)."
+  citata_rodoma: |
+    541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
+    kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
+    (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -347,7 +354,11 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     Gardino pilies; kai jie priėjo pelkes, kuriomis teka upė, vardu Bebras, kariuomenės
     vedliai dvi dienas klaidžiojo, nerasdami tikro kelio, o šitaip patvarkė dieviškoji apvaizda,
     nes minėtosios karaliaus kariuomenės žmonės dar nebuvo sugrįžę namo.
-  citata_rodoma: "561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos\nintakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)\nkelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.\n35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185)."
+  citata_rodoma: |
+    561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
+    intakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)
+    kelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.
+    35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -387,7 +398,12 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     deramai pasiruošę gintis, ir išsižadės sumanytos piktadarystės“. Brolis Henrikas visa
     tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus,
     kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė.
-  citata_rodoma: "536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau\nNevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.\nValsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.\n40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;\nMakarevičius A., Vilkijos..., p. 62)."
+  citata_rodoma: |
+    536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
+    Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.
+    Valsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.
+    40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;
+    Makarevičius A., Vilkijos..., p. 62).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -411,7 +427,10 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     vyrai buvo sugrįžę namo ir ilsėjosi po sunkaus žygio, dėkodami savo dievams už jiems
     suteiktą šiame kare pagalbą, įsiveržė į Pagraudės valsčių ir jį siaubingai nuniokojo,
     žudydamas žmones ir viską grobdamas.
-  citata_rodoma: "560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,\nKalsim; plg. 1415 m.— villa dicta Calsina (SRP, 2, p. 540). Laukas, buvęs  į vakarus\nnuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216)."
+  citata_rodoma: |
+    560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,
+    Kalsim; plg. 1415 m.— villa dicta Calsina (SRP, 2, p. 540). Laukas, buvęs  į vakarus
+    nuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

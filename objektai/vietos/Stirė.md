@@ -59,7 +59,12 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
     gas mūšis. Jogaila apsiautė Lucką, apgula
     tęsėsi, tačiau jo pajėgos buvo atremtos —
     lietuviai sėkmingai gynėsi.
-  citata_rodoma: "Prie Stirės\nįvyko Švitrigailos pajėgoms nesékmin-\ngas mūšis. Jogaila apsiautė Lucką, apgula\ntęsėsi, tačiau jo pajėgos buvo atremtos —\nlietuviai sėkmingai gynėsi."
+  citata_rodoma: |
+    Prie Stirės
+    įvyko Švitrigailos pajėgoms nesékmin-
+    gas mūšis. Jogaila apsiautė Lucką, apgula
+    tęsėsi, tačiau jo pajėgos buvo atremtos —
+    lietuviai sėkmingai gynėsi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

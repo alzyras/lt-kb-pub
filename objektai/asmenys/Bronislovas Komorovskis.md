@@ -80,7 +80,10 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
     ninkų, audėjų, auklių, inžinierių. Lenkijos prezidento Bronislovo Komo-
     rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
     kio apskrityje.
-  citata_rodoma: "Lenkijos prezidento Bronislovo Komo-\nrovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-\nkio apskrityje."
+  citata_rodoma: |
+    Lenkijos prezidento Bronislovo Komo-
+    rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
+    kio apskrityje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

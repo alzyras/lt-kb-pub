@@ -73,7 +73,11 @@ Ekdahl, S.
     1938, 323-340 p. — Končius, J. : _Vytautas the Great, Grand Duke of
     Lithuania_ , Miami, Florida 1964, 171-184 p. — Łowmiański, H. : _Witold
     wielki książę Litwy_ , Vilnius 1930.
-  citata_rodoma: "— Ekdahl, S. : _Der Krieg zwischen\ndem Deutschen Orden und Polen-Litauen im Jahre 1422_ , ZfO, t. 13, 1964,\n614-651 p. — Gidžiūnas, V. : _Vytauto kovos del valdžios ir pastangos tapti\nLietuvos karalium_ , Karys, 1973, 221-228, 266-273 p."
+  citata_rodoma: |
+    — Ekdahl, S. : _Der Krieg zwischen
+    dem Deutschen Orden und Polen-Litauen im Jahre 1422_ , ZfO, t. 13, 1964,
+    614-651 p. — Gidžiūnas, V. : _Vytauto kovos del valdžios ir pastangos tapti
+    Lietuvos karalium_ , Karys, 1973, 221-228, 266-273 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

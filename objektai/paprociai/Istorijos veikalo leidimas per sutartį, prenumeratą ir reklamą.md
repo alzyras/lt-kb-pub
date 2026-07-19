@@ -146,7 +146,13 @@ Nenurodyta
     ma pagrįstai, stebintis tokia ištverme, užtikrintai pasakyti: am­
     žių amžiais buvo laukiama tokio veikalo ir amžių amžiais jis
     gyvuos.
-  citata_rodoma: "Taigi nuo 1837 metų T. Narbutas galėjo toliau tęsti pradė­\ntą darbą, jau turėdamas pagrįstą viltį, kad LTI bus išspausdin­\nta. Ir ne tik išspausdinta, bet ir perkama: A. Marcinovskis pa­\nsirūpino ne tik leidyba, prenumerata, bet ir reklama. Išliko\npuikus šios leidėjo akcijos pavyzdys, vadinamasis „Praneši­\nmas“16."
+  citata_rodoma: |
+    Taigi nuo 1837 metų T. Narbutas galėjo toliau tęsti pradė­
+    tą darbą, jau turėdamas pagrįstą viltį, kad LTI bus išspausdin­
+    ta. Ir ne tik išspausdinta, bet ir perkama: A. Marcinovskis pa­
+    sirūpino ne tik leidyba, prenumerata, bet ir reklama. Išliko
+    puikus šios leidėjo akcijos pavyzdys, vadinamasis „Praneši­
+    mas“16.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -171,7 +177,14 @@ Nenurodyta
     nes „joje vaizduojami laikai ir įvykiai, regis, ypač domina visų
     rašančiųjų protą“.
     Tai buvo puikus pristatymas.
-  citata_rodoma: "Kaip rodo reklaminio skelbimo tekstas, jo autorius nėra\nvien prekiautojas, kuriam svarbu tik įsiūlyti savo prekę. A. Mar­\ncinovskis buvo artimas T. Narbutui žmogus, literatas, puikiai\nsupratęs LTI reikšmę. Leidėją, kaip žmogų ir kaip pilietį, ža­\nvėjo istoriko biografija, bylojanti apie jo atsidavimą ir rezig­\nnaciją -  nepaisydamas tarnyboje prarastos sveikatos, jis „ne­\nmanė, kad ganėtinai atidavė skolą visuomenei“."
+  citata_rodoma: |
+    Kaip rodo reklaminio skelbimo tekstas, jo autorius nėra
+    vien prekiautojas, kuriam svarbu tik įsiūlyti savo prekę. A. Mar­
+    cinovskis buvo artimas T. Narbutui žmogus, literatas, puikiai
+    supratęs LTI reikšmę. Leidėją, kaip žmogų ir kaip pilietį, ža­
+    vėjo istoriko biografija, bylojanti apie jo atsidavimą ir rezig­
+    naciją -  nepaisydamas tarnyboje prarastos sveikatos, jis „ne­
+    manė, kad ganėtinai atidavė skolą visuomenei“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

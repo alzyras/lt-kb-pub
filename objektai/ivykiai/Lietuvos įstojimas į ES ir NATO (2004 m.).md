@@ -169,7 +169,11 @@ Nenurodyta
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
-  citata_rodoma: "1990 m. kovo 11 d. atkūrusi nepriklausomybę, \n2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, \n2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-\njungai – laisvų ir demokratinių Europos valstybių susivienijimui."
+  citata_rodoma: |
+    1990 m. kovo 11 d. atkūrusi nepriklausomybę,
+    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
+    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
+    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -189,7 +193,10 @@ Nenurodyta
     mui į NATO. 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
     garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
     tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
-  citata_rodoma: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-\ngarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-\ntos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės."
+  citata_rodoma: |
+    2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
+    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
+    tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -209,7 +216,13 @@ Nenurodyta
     rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
     konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
     mo) Europos parlamentui teisę.
-  citata_rodoma: "Kiek­\nvienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-\nrių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos \nrinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir \nkonsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-\nmo) Europos parlamentui teisę."
+  citata_rodoma: |
+    Kiek­
+    vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-
+    rių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos
+    rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
+    konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
+    mo) Europos parlamentui teisę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

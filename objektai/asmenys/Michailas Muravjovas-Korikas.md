@@ -70,7 +70,11 @@ Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors j
     jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
     lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
-  citata_rodoma: "sukilimas. Po sukilimo \nvykusios represijos sustabdė istoriko planų įgyvendinimą, nors \njis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­\nlo Muravjovo - Koriko represijas krašte. 1864 m."
+  citata_rodoma: |
+    sukilimas. Po sukilimo
+    vykusios represijos sustabdė istoriko planų įgyvendinimą, nors
+    jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
+    lo Muravjovo - Koriko represijas krašte. 1864 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

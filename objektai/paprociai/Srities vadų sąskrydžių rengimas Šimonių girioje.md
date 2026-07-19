@@ -93,7 +93,12 @@ Nenurodyta
     leido laikraštį „Partizanų kova“. Algimanto
     apygardai vadovavo Antanas Slučka-Ša-
     rūnas (1947 m. gegužė - 1948 m. spalis) ir
-  citata_rodoma: "Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo ren-\ngiami srities vadų sąskrydžiai. Apygarda\nleido laikraštį „Partizanų kova“. Algimanto\napygardai vadovavo Antanas Slučka-Ša-\nrūnas (1947 m. gegužė - 1948 m. spalis) ir"
+  citata_rodoma: |
+    Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo ren-
+    giami srities vadų sąskrydžiai. Apygarda
+    leido laikraštį „Partizanų kova“. Algimanto
+    apygardai vadovavo Antanas Slučka-Ša-
+    rūnas (1947 m. gegužė - 1948 m. spalis) ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

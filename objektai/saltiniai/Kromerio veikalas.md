@@ -82,7 +82,13 @@ Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalb�
     grafo Tiškevičiaus Svisločės, yra Radovickių kaimas Jat-
     wiesk. Tai aiškūs dviejų skirtingų religijų kolonistų, at­
     vestų iš Jotvingijos, pėdsakai.
-  citata_rodoma: "Vis dėlto jis\nsako, kad dar jo laikais apie Drohiciną buvo kalbama jot­\nvingių kalba ir lietuviai negalėdavo nė žodžio suprasti.\nKromeriui2 buvo žinomi jotvingių likučiai (reliquiae),\nsavo kalba visiškai besiskiriantys nuo slavų ir lietuvių.\nAr tai ne tikros pasakos?"
+  citata_rodoma: |
+    Vis dėlto jis
+    sako, kad dar jo laikais apie Drohiciną buvo kalbama jot­
+    vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
+    Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
+    savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
+    Ar tai ne tikros pasakos?
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

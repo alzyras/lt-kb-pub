@@ -129,7 +129,14 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     pažymi : « Lietuvoje pradėjo valdyti pašėlęs _(okajauyj),_ nedorovingas,
     prakeiktas ir negailestingas Traidenis ». Jis ten lyginamas su žiau­
     ruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227.
-  citata_rodoma: "Pagal\nIpatijų, keturi Traidenio broliai (Borza, Sirputis, Lesis, Svilkenis)\nesą buvę krikščionys, kilnus ir geri vyrai^225 Bet toji kronika nepa­\ngailėjo piktų žodžių pačiam Traideniui. Prie 1270 m. ji pradžioje\npažymi : « Lietuvoje pradėjo valdyti pašėlęs _(okajauyj),_ nedorovingas,\nprakeiktas ir negailestingas Traidenis ». Jis ten lyginamas su žiau­\nruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227."
+  citata_rodoma: |
+    Pagal
+    Ipatijų, keturi Traidenio broliai (Borza, Sirputis, Lesis, Svilkenis)
+    esą buvę krikščionys, kilnus ir geri vyrai^225 Bet toji kronika nepa­
+    gailėjo piktų žodžių pačiam Traideniui. Prie 1270 m. ji pradžioje
+    pažymi : « Lietuvoje pradėjo valdyti pašėlęs _(okajauyj),_ nedorovingas,
+    prakeiktas ir negailestingas Traidenis ». Jis ten lyginamas su žiau­
+    ruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -64,7 +64,7 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    20. Apie didžiojo magistro mirtį
+    Apie didžiojo magistro mirtį
 
       Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
     18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
@@ -73,7 +73,16 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
 
     Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
     Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
-  citata_rodoma: "Apie didžiojo magistro mirtį\n\n  Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio\n18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo\npaties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo\niš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,\n\nPastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—\nLenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą."
+  citata_rodoma: |
+    Apie didžiojo magistro mirtį
+
+      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
+    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
+    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
+    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
+
+    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
+    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

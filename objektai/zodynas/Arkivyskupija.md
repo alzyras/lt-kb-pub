@@ -73,7 +73,12 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
-  citata_rodoma: "Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas\nnaujas įpėdinis."
+  citata_rodoma: |
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
+    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
+    naujas įpėdinis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

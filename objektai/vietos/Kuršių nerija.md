@@ -125,7 +125,13 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
     Vis dėlto brolis Liudvikas su savo palyda atžygiavo į Sembos žemę, kur visus krikštas
     prikėlė naujam gyvenimui.
-  citata_rodoma: "Apie vienos Sembos dalies nusiaubimą\n\n  1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509\nįsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:\nAbendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki\nir gyvi sugrįžo atgal."
+  citata_rodoma: |
+    Apie vienos Sembos dalies nusiaubimą
+
+      1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509
+    įsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:
+    Abendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki
+    ir gyvi sugrįžo atgal.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

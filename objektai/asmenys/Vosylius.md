@@ -111,7 +111,14 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     mažesnių chanų.
     Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
     gabenančių karūnas.
-  citata_rodoma: "Į iškilmes buvo pa­\nkviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­\nto anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­\nnės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug\nmažesnių chanų.\nTačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­\ngabenančių karūnas."
+  citata_rodoma: |
+    Į iškilmes buvo pa­
+    kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­
+    to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­
+    nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug
+    mažesnių chanų.
+    Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
+    gabenančių karūnas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

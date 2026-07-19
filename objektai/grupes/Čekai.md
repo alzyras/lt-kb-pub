@@ -410,7 +410,13 @@ media_all_json: |-
     tino kaimynus čekus, atsikra­
     čius teisėto valdovo valdžios,
     pasisiūlyti į valdinius.
-  citata_rodoma: "Panašų atsakymą gavo jie ir iš\nVytauto. Tačiau čekai neišsižadėjo savo sumanymo,\nmanydami, jog troškimas gauti karaliaus vainiką įveiks\nkiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­\ngūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­\ndis."
+  citata_rodoma: |
+    Panašų atsakymą gavo jie ir iš
+    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
+    manydami, jog troškimas gauti karaliaus vainiką įveiks
+    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
+    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
+    dis.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -168,7 +168,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
-  citata_rodoma: "kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius"
+  citata_rodoma: |
+    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +192,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
     pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: "liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,"
+  citata_rodoma: |
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -213,7 +215,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
     tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
     čius.
-  citata_rodoma: "sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir"
+  citata_rodoma: |
+    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -238,7 +241,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: "tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas"
+  citata_rodoma: |
+    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -261,7 +265,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
     Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
     gos, tautinio pobūdžio literatūra.
-  citata_rodoma: "Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-"
+  citata_rodoma: |
+    Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -282,7 +287,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-  citata_rodoma: "Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną"
+  citata_rodoma: |
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -58,7 +58,11 @@ VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS�
     VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
     p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.
     p. 126, „TVANAS“, Karolis Zikaras.
-  citata_rodoma: "53, „KOVOS SU KRYŽIUOČIAIS IKI VORSKSLOS MŪŠIO“, Romas Batūra.\n\nVAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE\np. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras."
+  citata_rodoma: |
+    53, „KOVOS SU KRYŽIUOČIAIS IKI VORSKSLOS MŪŠIO“, Romas Batūra.
+
+    VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
+    p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

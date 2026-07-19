@@ -177,7 +177,18 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
     padės Siaurės Europos istorijai ir patyrinės tuos žmones,
     neabejotinai atvestus į tuos kraštus kokio nors rusų vado,
     kurio pergalingi ginklai blizgėjo Bugo pakrantėse.
-  citata_rodoma: "Nei\ninazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar\nkitoms europietėms moterims nebūdingi tie bruožai, kurie\npuošia dailias senovės jotvingių dukras, kažkada gal iš­\ntekintas už slavų jaunuolių. Si Mechovitos padavimuose\nesanti prielaida pasitvirtina iš pirmo žvilgsnio. Reikia pa­\nčiam pamatyti, kaip gražų šventinį vasaros rytą daili, jau­\nna polesietė eina į bažnyčią, reikia regėti iš arti jos dra­\nbužius, judesius, figūrą, šypseną ir nepaprastai gražius\ndantis, ir tuomet žinovo akims atsiveria tikras azijinis\ngrožis."
+  citata_rodoma: |
+    Nei
+    inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar
+    kitoms europietėms moterims nebūdingi tie bruožai, kurie
+    puošia dailias senovės jotvingių dukras, kažkada gal iš­
+    tekintas už slavų jaunuolių. Si Mechovitos padavimuose
+    esanti prielaida pasitvirtina iš pirmo žvilgsnio. Reikia pa­
+    čiam pamatyti, kaip gražų šventinį vasaros rytą daili, jau­
+    na polesietė eina į bažnyčią, reikia regėti iš arti jos dra­
+    bužius, judesius, figūrą, šypseną ir nepaprastai gražius
+    dantis, ir tuomet žinovo akims atsiveria tikras azijinis
+    grožis.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -196,7 +207,10 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
     Tvirtovę gyvena, ir nedaug jų belikę. Antroji yra lietuvių ir že­
     maičių. Trečioji — prūsų. Ketvirtoji — Latvijoje arba Latgaloje —
     Livonija, esanti prie Dauguvos upės ir Rygos miesto.
-  citata_rodoma: "Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de\nduabus sarmatiis Asiana et Europiana, et de continentis in eis.\nCracoviae, 1517. L. II (De sarmatia Europiana)."
+  citata_rodoma: |
+    Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
+    duabus sarmatiis Asiana et Europiana, et de continentis in eis.
+    Cracoviae, 1517. L. II (De sarmatia Europiana).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

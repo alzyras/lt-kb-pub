@@ -456,7 +456,29 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     nagrinėti
     dar ne laikas, vėliau kalbėsime apie herulus ir tvir­
     čiau pagrįsime mūsų prielaidas.
-  citata_rodoma: "Tie, kurie nežinojo nei pago­\nniškų Graikijos ar Romos, nei Indijos? Pagaliau kaip \npo Odoakro pralaimėjimo grįžtantys iš Italijos he­\nrulai \ngalėjo \nduoti \npradžią \nlietuvių \ntautai, \njei \npa­\ntys buvo iš jų kilę, išėję iš tų pačių sodybų, kur \nir \nšiandien \ngyvena \njų \nainiai? \nBet \ntai \nnagrinėti \ndar ne laikas, vėliau kalbėsime apie herulus ir tvir­\nčiau pagrįsime mūsų prielaidas."
+  citata_rodoma: |
+    Tie, kurie nežinojo nei pago­
+    niškų Graikijos ar Romos, nei Indijos? Pagaliau kaip
+    po Odoakro pralaimėjimo grįžtantys iš Italijos he­
+    rulai
+    galėjo
+    duoti
+    pradžią
+    lietuvių
+    tautai,
+    jei
+    pa­
+    tys buvo iš jų kilę, išėję iš tų pačių sodybų, kur
+    ir
+    šiandien
+    gyvena
+    jų
+    ainiai?
+    Bet
+    tai
+    nagrinėti
+    dar ne laikas, vėliau kalbėsime apie herulus ir tvir­
+    čiau pagrįsime mūsų prielaidas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -505,7 +527,21 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     ėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­
     tauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra
     1 Procop.
-  citata_rodoma: "Odoakras ne­\ntrukus perleido šią provinciją visigotų karaliui Evarikui, \nnorėdamas taip pelnyti jo palankumą, o kiek anksčiau \njis užmezgė draugiškus santykius su galingu Afrikos \nvandalų karaliumi Genseriku, iš kurio tam tikromis są­\nlygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių \nvadovų Zenono, Evariko ir Genseriko, kurie galėjo jam \npakenkti, palankumą, jis, dorybingo ministro romėno Li- \nberijaus remiamas, sutelkė visą dėmesį į Italijos vidaus \nproblemas; samdyta kariuomenė, kaip buvo žadėta, gavo \ntrečdalį žemės valdų1. Galbūt seni žemės savininkai pri­\nėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­\ntauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra\n1 Procop."
+  citata_rodoma: |
+    Odoakras ne­
+    trukus perleido šią provinciją visigotų karaliui Evarikui,
+    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
+    jis užmezgė draugiškus santykius su galingu Afrikos
+    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
+    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
+    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
+    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
+    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
+    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
+    trečdalį žemės valdų1. Galbūt seni žemės savininkai pri­
+    ėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­
+    tauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra
+    1 Procop.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -534,7 +570,20 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     gerai iš abiejų galų sutvirtintas tiltas, herulų kariuomenė
     buvo kovinga, gausi, vadovaujama savimi pasitikinčio
     karvedžio.
-  citata_rodoma: "Tuo tarpu Teodorikas, ap­\nsaugojęs užnugarį, — jis buvo mūšio lauke nukovęs ge­\npidų karalių Trazilą ir įveikęs Bazos vadovaujamus bul­\ngarus, — pasikvietęs pagalbon visigotus, kai šiek tiek \nužtruko jo žygis, surengė savo kariuomenių vadų pasi­\ntarimą dėl tolesnių veiksmų; tuo pat metu jis gavo ži­\nnią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie \nSonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsi­\ntvirtino vietovėje, tarsi laukdamas priešo. Gotų karalius \niškart ten iškeliavo. Upė buvo gili, per ją buvo permestas \ngerai iš abiejų galų sutvirtintas tiltas, herulų kariuomenė \nbuvo kovinga, gausi, vadovaujama savimi pasitikinčio \nkarvedžio."
+  citata_rodoma: |
+    Tuo tarpu Teodorikas, ap­
+    saugojęs užnugarį, — jis buvo mūšio lauke nukovęs ge­
+    pidų karalių Trazilą ir įveikęs Bazos vadovaujamus bul­
+    garus, — pasikvietęs pagalbon visigotus, kai šiek tiek
+    užtruko jo žygis, surengė savo kariuomenių vadų pasi­
+    tarimą dėl tolesnių veiksmų; tuo pat metu jis gavo ži­
+    nią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie
+    Sonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsi­
+    tvirtino vietovėje, tarsi laukdamas priešo. Gotų karalius
+    iškart ten iškeliavo. Upė buvo gili, per ją buvo permestas
+    gerai iš abiejų galų sutvirtintas tiltas, herulų kariuomenė
+    buvo kovinga, gausi, vadovaujama savimi pasitikinčio
+    karvedžio.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

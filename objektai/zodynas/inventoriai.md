@@ -82,7 +82,10 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 
 
     ponas didino prievoles, jie neturėjo kam pasiskųsti.
-  citata_rodoma: "Tačiau tie inventoriai nega-\nlėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei\nponas didino prievoles, jie neturėjo kam pasiskųsti."
+  citata_rodoma: |
+    Tačiau tie inventoriai nega-
+    lėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei
+    ponas didino prievoles, jie neturėjo kam pasiskųsti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

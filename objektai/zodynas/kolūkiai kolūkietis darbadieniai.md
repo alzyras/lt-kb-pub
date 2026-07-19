@@ -89,7 +89,8 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     kių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui. Smuko
     aukšta tikinčiojo į Dievą valstiečio moralė, kai kurie savo sunkią dalią
     ėmė laistyti degtine.
-  citata_rodoma: "Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,"
+  citata_rodoma: |
+    Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -247,7 +247,15 @@ Nenurodyta
     zanus Panevėžio apskrityje. Persekiojami
     partizanai pasitraukė į Ažagų-Eimuliškio
     miškus.
-  citata_rodoma: "“\n\nMūšis\n1945 m. kovo pradžioje NKVD divizija puolė\nPušaloto, Pasvalio, Žaliosios girios parti-\nzanus Panevėžio apskrityje. Persekiojami\npartizanai pasitraukė į Ažagų-Eimuliškio\nmiškus."
+  citata_rodoma: |
+    “
+
+    Mūšis
+    1945 m. kovo pradžioje NKVD divizija puolė
+    Pušaloto, Pasvalio, Žaliosios girios parti-
+    zanus Panevėžio apskrityje. Persekiojami
+    partizanai pasitraukė į Ažagų-Eimuliškio
+    miškus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

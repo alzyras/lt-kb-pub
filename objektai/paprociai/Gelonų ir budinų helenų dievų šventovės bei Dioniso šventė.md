@@ -140,7 +140,17 @@ Nenurodyta
     tuose vienoje ar kitoje kalboje.
     Budtė — išminties, proto deivė. Lietuvių kalba Bu­
     da — tai statinys.
-  citata_rodoma: "60\nIš Herodoto žinome, kad budinai savo žemėje turėjo\npastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­\nvienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­\nkų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo\nlabai didingos, jose taip pat stovėdavo medinės šventyk­\nlos, kuriose buvo helenų dievai, garbinami heleniškai,\naltoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­\ndavo minimos Dioniso (Bacho) šventės ir vykdavo bak­\nchanalijos."
+  citata_rodoma: |
+    60
+    Iš Herodoto žinome, kad budinai savo žemėje turėjo
+    pastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­
+    vienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­
+    kų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo
+    labai didingos, jose taip pat stovėdavo medinės šventyk­
+    los, kuriose buvo helenų dievai, garbinami heleniškai,
+    altoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­
+    davo minimos Dioniso (Bacho) šventės ir vykdavo bak­
+    chanalijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

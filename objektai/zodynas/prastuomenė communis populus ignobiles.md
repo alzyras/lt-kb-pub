@@ -90,7 +90,12 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
     Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
     tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
     130), taip pat laukininkus — valstiečius (rustict — III, 262).
-  citata_rodoma: "208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,\n249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).\nJis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir\ntarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,\n130), taip pat laukininkus — valstiečius (rustict — III, 262)."
+  citata_rodoma: |
+    208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,
+    249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).
+    Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
+    tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
+    130), taip pat laukininkus — valstiečius (rustict — III, 262).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

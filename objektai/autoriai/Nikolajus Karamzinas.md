@@ -240,7 +240,12 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
     tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
     6 Jonynas I. Istorijos baruose.
-  citata_rodoma: "LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­\ndą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai\nsavarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­\nmas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­\nlitiniams įvykiams ir pagal juos suskirstė veikalo turinį6."
+  citata_rodoma: |
+    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
+    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
+    savarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­
+    mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
+    litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -300,7 +305,11 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
     kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
     vengrai vadino šias gentis kumanais.
-  citata_rodoma: "Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas\n(t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­\nrius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto."
+  citata_rodoma: |
+    Dešiniojoje Dnep-
+    1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
+    (t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­
+    rius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

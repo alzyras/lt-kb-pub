@@ -423,7 +423,17 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     o juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti. Ir tokiu būdu suglaudus
     ir subūrus pulkus buvo išvengta gretų retumo, o vienas pulkas už kito išsitęsęs per savo
     plotį užėmė nustatyto ilgio tarpą.
-  citata_rodoma: "“\n\nVYTAUTAS RIKIUOJA PULKUS\n\nDlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė\nlietuvių kariuomenę:\n\n„Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename\npulke raitelius ant žemesnių arklių arba pernelyg menkai apsiginklavusius sustatė viduryje,\no juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti."
+  citata_rodoma: |
+    “
+
+    VYTAUTAS RIKIUOJA PULKUS
+
+    Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė
+    lietuvių kariuomenę:
+
+    „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename
+    pulke raitelius ant žemesnių arklių arba pernelyg menkai apsiginklavusius sustatė viduryje,
+    o juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -494,7 +504,12 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
     m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
     variantas.
-  citata_rodoma: "Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo\njį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.\nDlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš\nJerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.\nSkubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80."
+  citata_rodoma: |
+    Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
+    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
+    Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
+    Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
+    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -525,7 +540,23 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     vykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis
     | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju
     magistru.
-  citata_rodoma: "Aukštesnio rango kariai\nturėdavo ir puošnius durklus. Rankoje\nkarys laiko to meto Lietuvai būdingą\npusantros rankos kalaviją, prie šono\nįmantriai dekoruotos odinės kalavijo\nmakštys su odoje įspaustais ornamentais\n\nNuo pagoniškosios\niki Vytauto imperijos\n\nLIETUVOS KARIUOMENĖ ŠNIPO AKIMIS\n\nJ. Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, at-\nvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis\n| buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju\nmagistru."
+  citata_rodoma: |
+    Aukštesnio rango kariai
+    turėdavo ir puošnius durklus. Rankoje
+    karys laiko to meto Lietuvai būdingą
+    pusantros rankos kalaviją, prie šono
+    įmantriai dekoruotos odinės kalavijo
+    makštys su odoje įspaustais ornamentais
+
+    Nuo pagoniškosios
+    iki Vytauto imperijos
+
+    LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS
+
+    J. Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, at-
+    vykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis
+    | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju
+    magistru.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -593,7 +624,13 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     Gediminas: Dlugošas Lib. IX,
     p. 923, nurodo, kad buvo ugninės
     strėlės pervertas.
-  citata_rodoma: "Rau­\ndonė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot\nKai dėl rūšies ginklo, nuo kurio žuvo \nGediminas: Dlugošas Lib. IX, \np. 923, nurodo, kad buvo ugninės \nstrėlės pervertas."
+  citata_rodoma: |
+    Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib. IX,
+    p. 923, nurodo, kad buvo ugninės
+    strėlės pervertas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -666,7 +703,18 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
     damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
     dievą.
-  citata_rodoma: "201\n\n## Puslapis 201\n\nmitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi\ngal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas\nDlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo\nfetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką\nišaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­\nminė, jokie namai, net daug pavienių asmenų negyveno be\nsavo asmeninių fetišų."
+  citata_rodoma: |
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -694,7 +742,20 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     kurioms vystančioms lietuvių šakoms vėl susijungus su
     plačiašakiu ir vešliu slavų medžiu, pirmiau buvusios gi-
     'Stavnanskie starožytnošci P. J. Szafarzyka.
-  citata_rodoma: "Vis dėlto žmogus, mokantis šias kalbas, ne­\nras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­\nmu, nes lietuvių, germanų, finų ir slavų kalbos skiriasi\nviena nuo kitos kaip dangus ir žemė\n„Slavų senienų“ autoriaus įsitikinimu, lietuviai iš nie­\nkur neatkeliavo, o nuo neatmenamų laikų gyveno prie\nBaltijos jūros kartu su slavų gentimis. Be to, jo nuomo­\nne, jau J. Dlugošo laikais slavai lietuvius laikė labai ma­\nža ir silpna tauta. Jis rašė: „Senaisiais laikais lietuvių\npadermė ir savo skaičiumi, ir savo jėga buvo maža, ne­\nžymi, engiama; kaip lapai ir žiedai krito ant svetimo, vo­\nkiečių, jungo, ir, be jokios abejonės, ši ¡padermė svetimu\nkrauju negalėjo nei turtėti, nei augti“1."
+  citata_rodoma: |
+    Vis dėlto žmogus, mokantis šias kalbas, ne­
+    ras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­
+    mu, nes lietuvių, germanų, finų ir slavų kalbos skiriasi
+    viena nuo kitos kaip dangus ir žemė
+    „Slavų senienų“ autoriaus įsitikinimu, lietuviai iš nie­
+    kur neatkeliavo, o nuo neatmenamų laikų gyveno prie
+    Baltijos jūros kartu su slavų gentimis. Be to, jo nuomo­
+    ne, jau J. Dlugošo laikais slavai lietuvius laikė labai ma­
+    ža ir silpna tauta. Jis rašė: „Senaisiais laikais lietuvių
+    padermė ir savo skaičiumi, ir savo jėga buvo maža, ne­
+    žymi, engiama; kaip lapai ir žiedai krito ant svetimo, vo­
+    kiečių, jungo, ir, be jokios abejonės, ši ¡padermė svetimu
+    krauju negalėjo nei turtėti, nei augti“1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

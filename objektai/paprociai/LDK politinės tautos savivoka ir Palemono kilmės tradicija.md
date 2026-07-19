@@ -100,7 +100,15 @@ Nenurodyta
     ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija.
-  citata_rodoma: "Tačiau \nrusėnų kilmės giminės (Chodkevičiai ar Sapiegos) net kurdavo legendas \napie savo lietuvišką kilmę. Taigi politinės tautos genezės jau galima ieško-\nti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti \niš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono \nir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai \nvesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių \ndinastija."
+  citata_rodoma: |
+    Tačiau
+    rusėnų kilmės giminės (Chodkevičiai ar Sapiegos) net kurdavo legendas
+    apie savo lietuvišką kilmę. Taigi politinės tautos genezės jau galima ieško-
+    ti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti
+    iš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

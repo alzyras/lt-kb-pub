@@ -350,7 +350,17 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
     buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
     ypač mitologiją liečiančius dalykus**.
-  citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
+  citata_rodoma: |
+    100
+
+    ## Puslapis 100
+
+    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
+    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
+    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
+    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
+    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
+    ponas Riteris savo Siaurės senovės tyrimuose15.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -458,7 +468,13 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     tėsi klajoklių amaksolių, arba sarmatų, ordos, neturėju­
     sios kitokių būstų, o tik klajokliškas palapines, ištiestas
     ant vežimų.
-  citata_rodoma: "Pagaliau, papildydamas aprašymą, cituoju tą\npatį autorių: Welti, Hossii ir Karbony, — tai toliau į\nšiaurę prie Baltijos jūros gyvenusios gentys. Plinijus\nnetrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­\nriai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar\nsugebės kas nors nubraižyti šių tautų žemėlapį?"
+  citata_rodoma: |
+    Pagaliau, papildydamas aprašymą, cituoju tą
+    patį autorių: Welti, Hossii ir Karbony, — tai toliau į
+    šiaurę prie Baltijos jūros gyvenusios gentys. Plinijus
+    netrukus rašė: „Sako, kad sarmatai, venedai, skirtai ir tū­
+    riai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar
+    sugebės kas nors nubraižyti šių tautų žemėlapį?
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -500,7 +516,14 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
     gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
     rinė Europos pakrantė.
-  citata_rodoma: "Sala, kurią Plinijus vadina Baltija, remdamasis visais\nHardua rankraščiais ir stebėjimais, turėtų vadintis Basi-\nlia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų\nkelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2\nFosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­\nroje, Austraviją, arba Glesariją, nurodo esant fryzų sala\nAmelandu."
+  citata_rodoma: |
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
+    kelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2
+    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
+    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
+    Amelandu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -531,7 +554,19 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     įvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
-  citata_rodoma: "Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­\nga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine\nir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­\nristenio ir Bugo, šio autoriaus vadinto Btigus2. Bet, kal­\nbant apie Gero upę, o ypač apie kraštą, kur yra skitų ka­\npinynas, negalima atmesti prielaidos, kad buvę ir kitų\nvietų su panašiais, anksčiau ar vėliau Plinijaus užrašy­\ntais pavadinimais; tuo atveju, jei šis žymus geografas\nnesuklydo remdamasis žiniomis, surinktomis iš pernelyg\nįvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai\nnemokėjo rasti vietos jo Carcinites** įlankai ir to paties\npavadinimo miestui."
+  citata_rodoma: |
+    Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
+    ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
+    ir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­
+    ristenio ir Bugo, šio autoriaus vadinto Btigus2. Bet, kal­
+    bant apie Gero upę, o ypač apie kraštą, kur yra skitų ka­
+    pinynas, negalima atmesti prielaidos, kad buvę ir kitų
+    vietų su panašiais, anksčiau ar vėliau Plinijaus užrašy­
+    tais pavadinimais; tuo atveju, jei šis žymus geografas
+    nesuklydo remdamasis žiniomis, surinktomis iš pernelyg
+    įvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai
+    nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
+    pavadinimo miestui.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -557,7 +592,18 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     įsikūrusi Bartėnų seniūnijoje. Vėliau sužinosime, kad ją įkūrė dar
     XIII amžiuje arba XIV amžiaus pradžioje ateiviai iš kitų Lietuvos
     žemės kraštų.
-  citata_rodoma: "Senovės tyrinėtojai, pradedant Plinijaus kom­\npiliacijomis ir baigiant nuodugniai mąstančiu Uphage- \nnu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, \nnet mokytasis ponas Foigtas patenka į keblią padėtį šia \nprasme ir daro visiškai netaiklias išvadas2. Pernelyg daug \nlaiko reikėtų tam, kad paneigtume visas hipotezes, o ant­\nra vertus, tektų kartoti tai, ką jau rašėme arba ketiname \nvėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­\nrės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,\nj Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė, \nįsikūrusi Bartėnų seniūnijoje."
+  citata_rodoma: |
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
+    piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
+    nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
+    net mokytasis ponas Foigtas patenka į keblią padėtį šia
+    prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
+    laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
+    ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

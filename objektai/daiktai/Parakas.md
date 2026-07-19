@@ -109,7 +109,16 @@ Nenurodyta
     imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
     grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
     atgal į Prūsiją.
-  citata_rodoma: "Taip įvairioms kautynėms ir ginčams besitęsiant praėjo \npenkios sunkios apsupties savaitės lenkų įgulai Aukštuti­\nnėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­\nkybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­\nriaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi \nir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­\nimtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema \ngrėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti \natgal į Prūsiją."
+  citata_rodoma: |
+    Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
+    penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
+    nėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­
+    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
+    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
+    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
+    imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
+    grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
+    atgal į Prūsiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -115,7 +115,13 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
     282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
     Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
     nužudė ar išsivarė į nelaisvę beveik 200 krikščionių.
-  citata_rodoma: "Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių\nvyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš\n  553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,\nvardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.\nManoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,\nStudia..., 2, p. 16, 25; MGP, p. 54)."
+  citata_rodoma: |
+    Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
+    vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
+      553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,
+    vardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.
+    Manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,
+    Studia..., 2, p. 16, 25; MGP, p. 54).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -135,7 +141,15 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
     komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo
     žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus,
     išskyrus tris.
-  citata_rodoma: "Apie 72 lietuvius, nukautus Notangoje\n\n  Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai\nįsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar\npagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo\nkomtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo\nžygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,\nišskyrus tris."
+  citata_rodoma: |
+    Apie 72 lietuvius, nukautus Notangoje
+
+      Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai
+    įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar
+    pagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo
+    komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo
+    žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,
+    išskyrus tris.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

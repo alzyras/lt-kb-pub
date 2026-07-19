@@ -146,7 +146,21 @@ media_all_json: |-
     nieko pikta nepadariusius, tavo širdį, ligi šiol kentėme
     tavo rūstį taip, kaip ir dera valdiniams, klausantiems
     savo valdovo.
-  citata_rodoma: "Dėl karaliaus ligos seimas buvo pa­\nleistas, kadangi vargu ar ką galima buvo benuveikti.\nSusirgęs karalius nuvežamas į Krokuvą, o Šich Ach-\nmetas, valdovo valia turėjęs būti Trakuose vaišingai\npriimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.\nPatariamas Nogajų ordos skitų, bandė iš ten pabėgti,\ntačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur\ndar stipriau saugojo, ypač\nK ry m o  sk ita i n io k o -\ndėl to, kad Krymo chanas\nja  L ie tu v ą\nMengli Girėjus per pasiunti­\nnius žadėjo karaliui taiką ir\npagalbą, jeigu šis neleis Šich Achmetui pasprukti."
+  citata_rodoma: |
+    Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
+    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
+    dar stipriau saugojo, ypač
+    K ry m o  sk ita i n io k o -
+    dėl to, kad Krymo chanas
+    ja  L ie tu v ą
+    Mengli Girėjus per pasiunti­
+    nius žadėjo karaliui taiką ir
+    pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -184,7 +198,17 @@ media_all_json: |-
     rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
     klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
     ją, o kitus išvijo iš senato.
-  citata_rodoma: "Karalius įsakė parūpinti Šich Achmetui pui­\nkiausią svitą ir palydėti jį į Radomą. Pakviestas į se­\nnato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­\nskundė, kad, girdi, kovodamas už Lenkijos bei Lietu­\nvos reikalus, buvęs priešo krašte nelyginant išduotas;\nišeikvojęs visus turtus kariuomenei išlaikyti, dabar,\nlaužant duotą žodį, turįs kęsti smurtą, negalėdamas su­\nsilaukti nei laisvės, nei pagalbos kovoje prieš Krymo\nskitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­\nkyta."
+  citata_rodoma: |
+    Karalius įsakė parūpinti Šich Achmetui pui­
+    kiausią svitą ir palydėti jį į Radomą. Pakviestas į se­
+    nato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­
+    skundė, kad, girdi, kovodamas už Lenkijos bei Lietu­
+    vos reikalus, buvęs priešo krašte nelyginant išduotas;
+    išeikvojęs visus turtus kariuomenei išlaikyti, dabar,
+    laužant duotą žodį, turįs kęsti smurtą, negalėdamas su­
+    silaukti nei laisvės, nei pagalbos kovoje prieš Krymo
+    skitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­
+    kyta.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

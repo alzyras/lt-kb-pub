@@ -84,7 +84,13 @@ Pono Georgi nuomone, japonų dievai Kami buvo visiškai tapatūs egiptiečių Ka
     tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
     ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
     mas, mirtis ir amžinybė.
-  citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną."
+  citata_rodoma: |
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

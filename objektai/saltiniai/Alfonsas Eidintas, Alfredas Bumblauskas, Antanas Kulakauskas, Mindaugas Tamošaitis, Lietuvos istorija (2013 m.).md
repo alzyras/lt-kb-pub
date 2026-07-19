@@ -175,7 +175,14 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
     prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
     jais grįstą Lietuvos istorijos veikalą.
-  citata_rodoma: "Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio \nreikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus \nuniversiteto Tarptautinių santykių ir politikos mokslų instituto moks-\nlininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-\nfesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus), \nprašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-\njais grįstą Lietuvos istorijos veikalą."
+  citata_rodoma: |
+    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
+    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
+    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
+    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
+    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
+    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
+    jais grįstą Lietuvos istorijos veikalą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +214,15 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
     paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
     sateise Europos Sąjungos nare 2004 m.
-  citata_rodoma: "Jo paskirtis – kiekvienam Skaitytojui, \nvisų pirma Europos Sąjungos piliečiams, aiškiai ir suprantamai atskleisti \nilgą, pergalingą, kartais sunkų ar net tragišką mūsų valstybės istorinį ke-\nlią, kurį Lietuvos valstybės kūrėjai įveikė vesdami šio krašto žmones per \nskirtingus laikotarpius, valstybės sanklodas, okupacijų duobes ir atkurtos \nnepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo \npaminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-\nsateise Europos Sąjungos nare 2004 m."
+  citata_rodoma: |
+    Jo paskirtis – kiekvienam Skaitytojui,
+    visų pirma Europos Sąjungos piliečiams, aiškiai ir suprantamai atskleisti
+    ilgą, pergalingą, kartais sunkų ar net tragišką mūsų valstybės istorinį ke-
+    lią, kurį Lietuvos valstybės kūrėjai įveikė vesdami šio krašto žmones per
+    skirtingus laikotarpius, valstybės sanklodas, okupacijų duobes ir atkurtos
+    nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
+    paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
+    sateise Europos Sąjungos nare 2004 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -234,7 +249,12 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti
     visą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-
     kingu ir taupiu žvilgsniu.
-  citata_rodoma: "Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams \nistorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-\ndamas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti \nvisą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-\nkingu ir taupiu žvilgsniu."
+  citata_rodoma: |
+    Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
+    istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-
+    damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti
+    visą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-
+    kingu ir taupiu žvilgsniu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -265,7 +285,11 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     lučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją:
     senovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-
     zavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir
-  citata_rodoma: "Knygos parengimo koordinacinis ir redagavimo darbas pavestas šių ei-\nlučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją: \nsenovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-\nzavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir"
+  citata_rodoma: |
+    Knygos parengimo koordinacinis ir redagavimo darbas pavestas šių ei-
+    lučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją:
+    senovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-
+    zavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -290,7 +314,14 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     stilius, planuoti skyrių apimtis, paragrafus, suregzti sąsajas, intarpus, kad
     pasakojimas būtų vienodai sklandus, balansuotas kiekybe, neperkrautas
     nebūtinais faktais ir kuo malonesnis skaitytojo akiai.
-  citata_rodoma: "arba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-\njoje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas \nKulakauskas (III skyrius), modernios Lietuvos valstybės atkūrimo \nprocesą, 1918–1940 m. trukusį nepriklausomybės dvidešimtmetį apžvel-\ngė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo \n1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-\nsiteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai)."
+  citata_rodoma: |
+    arba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-
+    joje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas
+    Kulakauskas (III skyrius), modernios Lietuvos valstybės atkūrimo
+    procesą, 1918–1940 m. trukusį nepriklausomybės dvidešimtmetį apžvel-
+    gė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo
+    1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-
+    siteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -305,7 +336,9 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   citata_originali: |
     Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
     leidykla, 2012. – 280 p.
-  citata_rodoma: "– Vilnius: Vilniaus universitetas, Vilniaus universiteto \nleidykla, 2012. – 280 p."
+  citata_rodoma: |
+    – Vilnius: Vilniaus universitetas, Vilniaus universiteto
+    leidykla, 2012. – 280 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

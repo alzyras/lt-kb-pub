@@ -73,7 +73,8 @@ Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Be
     Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef
     Beck) nieko gero nedavė: 1936 m. sausį J. Bekas savo kalboje išplūdo Lie-
     tuvą, o kovo mėn.
-  citata_rodoma: "Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef"
+  citata_rodoma: |
+    Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

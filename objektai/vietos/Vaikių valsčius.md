@@ -83,7 +83,10 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
     sykių jis stojo prieš juos į kovą.
-  citata_rodoma: "Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur\n— irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek\nsykių jis stojo prieš juos  į kovą."
+  citata_rodoma: |
+    Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
+    — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
+    sykių jis stojo prieš juos  į kovą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

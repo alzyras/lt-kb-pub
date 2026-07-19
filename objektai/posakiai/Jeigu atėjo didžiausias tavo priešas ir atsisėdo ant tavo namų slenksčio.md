@@ -121,7 +121,16 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
     (Gumbi); šios geležys buvo globojamos pavojaus dievo, šlovi­
     namo su ypatinga pagarba. Gumbinės (Gumbin) miestas nuo
     tokio varpo gavęs pavadinimą.
-  citata_rodoma: "Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje\npatalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­\nkas laikoma Dievo įžeidimu3. Jie turi tokią papročių taisyklę:\n„Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų\nslenksčio, nedaryk jam skriaudos, nes virš tavęs kybos amži­\nnas Dievo pyktis. Virš slenksčio ir po slenksčiu vieši namų lai­\nmė. Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­\nse“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­\nkala išorėje, virš pirkios arba svirno durų."
+  citata_rodoma: |
+    Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
+    patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
+    kas laikoma Dievo įžeidimu3. Jie turi tokią papročių taisyklę:
+    „Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų
+    slenksčio, nedaryk jam skriaudos, nes virš tavęs kybos amži­
+    nas Dievo pyktis. Virš slenksčio ir po slenksčiu vieši namų lai­
+    mė. Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
+    se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
+    kala išorėje, virš pirkios arba svirno durų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -145,7 +154,14 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
     aukojami gaidžiai, kaip budrumo simboliai.
     Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
     skirtų tam tikroms religinėms apeigoms.
-  citata_rodoma: "Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­\nkala išorėje, virš pirkios arba svirno durų. Statydami namą,\npaprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais\ndažais.\n3\nMongolai labai garbino namų slenksčius: tas, kuris praeidamas\npaliesdavo juos koja, būdavo baudžiamas."
+  citata_rodoma: |
+    Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
+    kala išorėje, virš pirkios arba svirno durų. Statydami namą,
+    paprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais
+    dažais.
+    3
+    Mongolai labai garbino namų slenksčius: tas, kuris praeidamas
+    paliesdavo juos koja, būdavo baudžiamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

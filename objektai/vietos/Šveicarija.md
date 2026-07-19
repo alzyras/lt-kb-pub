@@ -161,7 +161,11 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
-  citata_rodoma: "dalyvavo iš okupuotosios Lietuvos atvykę delegatai.\nBuvo nutarta politinės propagandos centrą padaryti Šveicarijoje\nir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-\nbo pagrindu buvo paimtas nepriklausomybės reikalavimas."
+  citata_rodoma: |
+    dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
+    Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
+    ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
+    bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

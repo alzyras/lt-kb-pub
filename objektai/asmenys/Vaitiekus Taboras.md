@@ -173,7 +173,14 @@ media_all_json: |-
     pasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o
     dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį
     magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais.
-  citata_rodoma: "10. Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, \niškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­\nnytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje \nnuovoka kaip reta kas. Išbaudė iš popiežiaus ir karaliaus \npasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o \ndėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį \nmagistratui ir daug prisidėjo lėšomis. Mirė 1507 metais."
+  citata_rodoma: |
+    10. Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių,
+    iškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­
+    nytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje
+    nuovoka kaip reta kas. Išbaudė iš popiežiaus ir karaliaus
+    pasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o
+    dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį
+    magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -266,7 +273,29 @@ media_all_json: |-
     dera krikščioniui aprūpintas visais sakramentais, mirė
     birželio 7 d., išgyvenęs šešiasdešimt ketverius metus, o
     Lietuvą valdęs penkiasdešimt dvejus.
-  citata_rodoma: "Keliais mėnesiais\nanksčiau už karalių mirė Vilniaus vyskupas Andrius,\nkilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu\nbei proto aštrumu. Jo įpėdiniu tapo šviesiausios kilmės\nVaitiekus Taboras.\n\n## Puslapis 540\n\nS e S t a\nk n y g a\nAPIE LIETUVIŲ PRAEITI, KAI VALDE\nŠv ie s ia u s ia s is  k u n ig a ik š t is a lek sand ras\n1492 metai\nAleksandras išrenka-\nKai Lietuvoje pasklido ži­\nnia apie karaliaus Kazimiero\nm a s L ie tu v o s did žiu o -\nmirtį, gausybė didikų skubiai\nkaip Simonas Olelkaitis, Slucko kunigaikštis, Alšėnų,\nMstislavlio bei Giedraičių kunigaikštiškųjų šeimų gal­\nvos, Žemaitijos seniūnas Kęsgailą, kunigaikščiai Vosy-\nlus ir Mykolas Glinskiai."
+  citata_rodoma: |
+    Keliais mėnesiais
+    anksčiau už karalių mirė Vilniaus vyskupas Andrius,
+    kilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu
+    bei proto aštrumu. Jo įpėdiniu tapo šviesiausios kilmės
+    Vaitiekus Taboras.
+
+    ## Puslapis 540
+
+    S e S t a
+    k n y g a
+    APIE LIETUVIŲ PRAEITI, KAI VALDE
+    Šv ie s ia u s ia s is  k u n ig a ik š t is a lek sand ras
+    1492 metai
+    Aleksandras išrenka-
+    Kai Lietuvoje pasklido ži­
+    nia apie karaliaus Kazimiero
+    m a s L ie tu v o s did žiu o -
+    mirtį, gausybė didikų skubiai
+    kaip Simonas Olelkaitis, Slucko kunigaikštis, Alšėnų,
+    Mstislavlio bei Giedraičių kunigaikštiškųjų šeimų gal­
+    vos, Žemaitijos seniūnas Kęsgailą, kunigaikščiai Vosy-
+    lus ir Mykolas Glinskiai.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

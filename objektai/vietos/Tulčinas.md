@@ -60,7 +60,11 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
     Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
     Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
-  citata_rodoma: "Lenkijoje tokiuos žy-\nmius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,\nBranickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų\nNesvyžiuje; vėliau iškilo Oginskių dvaras Slanime."
+  citata_rodoma: |
+    Lenkijoje tokiuos žy-
+    mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
+    Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
+    Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

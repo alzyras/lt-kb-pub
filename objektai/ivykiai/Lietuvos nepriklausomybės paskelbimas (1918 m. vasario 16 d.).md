@@ -82,7 +82,10 @@ Nenurodyta
     vos nepriklausomybę. Taryba ryžosi atgaivinti savo vienybę nau-
     ju, visai savarankišku pareiškimu, kurs patapo
     Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
-  citata_rodoma: "Taryba ryžosi atgaivinti savo vienybę nau-\nju, visai savarankišku pareiškimu, kurs patapo\nLietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.)."
+  citata_rodoma: |
+    Taryba ryžosi atgaivinti savo vienybę nau-
+    ju, visai savarankišku pareiškimu, kurs patapo
+    Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -71,7 +71,9 @@ Dusburgietis teigia, kad wunder H.
     — Культура древней Руси/
     Посвящается 40-летию научной деятельности H. Н. Воронина, М., 1966, с. 191—192.
     Пашуто В. Т.  Реваншисты — псевдоисторики России.
-  citata_rodoma: "Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,\nJahrhundert.— Wiesbaden, 1968."
+  citata_rodoma: |
+    Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,
+    Jahrhundert.— Wiesbaden, 1968.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

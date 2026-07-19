@@ -116,7 +116,9 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
     Osos, deš. upės krante, tarp dab. Lasino ir Osos, kur į pietus nuo gyvenvietės Sčepankai
     (Szczepanki) išliko ovalus piliakalnis. Kai prūsai šią pilį sunaikino, 1326 m. buvo
     pastatyta antroji Štarkenbergo pilis kair.
-  citata_rodoma: "427  D. ir Jer.— Belichow; Bialachovas, Białachowo (SZCh, p. 5), gyvenvietė Osos\nžemupio deš. krante per 9 km į šiaurės rytus nuo Grudziondzo; žr. D. III, 14."
+  citata_rodoma: |
+    427  D. ir Jer.— Belichow; Bialachovas, Białachowo (SZCh, p. 5), gyvenvietė Osos
+    žemupio deš. krante per 9 km į šiaurės rytus nuo Grudziondzo; žr. D. III, 14.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -138,7 +140,15 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
     prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
     vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
     brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
-  citata_rodoma: "Apie antrąjį minėtojo Marienverderio miesto sugriovimą\n\n  Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais."
+  citata_rodoma: |
+    Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+
+      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

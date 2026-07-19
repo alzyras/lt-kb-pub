@@ -60,7 +60,8 @@ media_all_json: |-
     sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami
     pasikėsinimu į vokiečių kareivius žudyti be teismo, kartais sudeginami
     ištisi kaimai (Pirčiupiai).
-  citata_rodoma: "sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami"
+  citata_rodoma: |
+    sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

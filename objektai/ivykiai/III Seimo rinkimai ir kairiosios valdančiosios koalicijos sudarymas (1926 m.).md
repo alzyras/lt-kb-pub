@@ -132,7 +132,13 @@ Nenurodyta
     laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
     tinių mažumų atstovai Seime.
-  citata_rodoma: "O čia dar po kie-\ntoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės\n8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-\nlaimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –\nvalstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-\ntinių mažumų atstovai Seime."
+  citata_rodoma: |
+    O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
+    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
+    tinių mažumų atstovai Seime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

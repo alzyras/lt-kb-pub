@@ -120,7 +120,12 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
     siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
     Žygimantą Kaributaitį, savo sūnėną.
-  citata_rodoma: "Valakijos kunigaikščiai jo globos sie­\nkė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­\nnarchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­\nsiuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį \nŽygimantą Kaributaitį, savo sūnėną."
+  citata_rodoma: |
+    Valakijos kunigaikščiai jo globos sie­
+    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
+    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
+    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
+    Žygimantą Kaributaitį, savo sūnėną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

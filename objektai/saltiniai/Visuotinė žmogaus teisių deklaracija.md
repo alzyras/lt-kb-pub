@@ -72,7 +72,8 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
     patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
     jos nepaisė.
-  citata_rodoma: "patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai"
+  citata_rodoma: |
+    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

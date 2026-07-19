@@ -65,7 +65,8 @@ Gaškaitė N.
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
-  citata_rodoma: "Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006."
+  citata_rodoma: |
+    Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

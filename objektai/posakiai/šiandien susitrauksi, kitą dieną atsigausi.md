@@ -70,7 +70,8 @@ Patariamoji formulė apie susilaikymo ir atsistatymo kaitą.
     Išverda kopūstų ar burokų be jokio užda­
     ro — ir srėbk duona užsikąsdamas. Sakoma: kokia diena, toks ir val­
     gis. Arba: šiandien susitrauksi, kitą dieną atsigausi.
-  citata_rodoma: "Arba: šiandien susitrauksi, kitą dieną atsigausi."
+  citata_rodoma: |
+    Arba: šiandien susitrauksi, kitą dieną atsigausi.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

@@ -169,7 +169,12 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     pradėti karą. Šitokie rūpesčiai taip jam paėdė širdį,
     kad, trokšdamas gauti sūnui sostą, beveik nematė nie­
     ko kito ir nejautė, kokių patiria nuostolių.
-  citata_rodoma: "Jonas beturėjo vos keturis tūkstančius karių, kai susi­\ndūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet\nne drąsos, štai todėl ir su tokia maža kariauna jis sto­\njo į lemtingą mūšį. Sumuštas vos ne vos paspruko iš\nnugalėtojo rankų."
+  citata_rodoma: |
+    Jonas beturėjo vos keturis tūkstančius karių, kai susi­
+    dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
+    ne drąsos, štai todėl ir su tokia maža kariauna jis sto­
+    jo į lemtingą mūšį. Sumuštas vos ne vos paspruko iš
+    nugalėtojo rankų.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -200,7 +205,17 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     ir skitai, paskatinti Ivano dovanų ir pažadų, užpuolė
     Volynę, vedami Achmat Girėjaus, Krymo valdovo sū­
     naus.
-  citata_rodoma: "Poznanėje netrukus\nsvetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­\ndytinė kariuomenė neatvyko laiku į stovyklą, nes už-\ngaišo pakelėje beplėšikaudama. Broliai karaliai visaip\nstengėsi padėti Aleksandrui, Vladislovas — per Motie­\njų Cezelickį, o Jonas — per Aleksandrą Skorutą ragin­\ndami Ivaną sutikti su teisingomis taikos sąlygomis.\nPats Aleksandras, norėdamas parodyti, jog ir jis ne­\nprieštarauja taikai, nusiuntė į Maskvą Stanislovą Nar­\nbutą."
+  citata_rodoma: |
+    Poznanėje netrukus
+    svetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­
+    dytinė kariuomenė neatvyko laiku į stovyklą, nes už-
+    gaišo pakelėje beplėšikaudama. Broliai karaliai visaip
+    stengėsi padėti Aleksandrui, Vladislovas — per Motie­
+    jų Cezelickį, o Jonas — per Aleksandrą Skorutą ragin­
+    dami Ivaną sutikti su teisingomis taikos sąlygomis.
+    Pats Aleksandras, norėdamas parodyti, jog ir jis ne­
+    prieštarauja taikai, nusiuntė į Maskvą Stanislovą Nar­
+    butą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

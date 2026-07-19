@@ -106,7 +106,11 @@ Nenurodyta
     čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
     o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
     bernatorius.
-  citata_rodoma: "Nuo to laiko Klaipėdos kraštas yra negin-\nčijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,\no respublikos vyriausybei ten atstovauja prezidento skiriamas gu-\nbernatorius."
+  citata_rodoma: |
+    Nuo to laiko Klaipėdos kraštas yra negin-
+    čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
+    o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
+    bernatorius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +139,12 @@ Nenurodyta
     nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
     atsiskaitymus ir paties statuto keitimo procedūrą.
-  citata_rodoma: "Antroji dalis yra priedėlis, kuris išdėsto au-\ntonominį statutą, būtent apibrėžia vietinių organų kompetenciją,\nnustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,\nsantykius tarp teismo organų, dviejų kalbų oficialumą, finansinius\natsiskaitymus ir paties statuto keitimo procedūrą."
+  citata_rodoma: |
+    Antroji dalis yra priedėlis, kuris išdėsto au-
+    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
+    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
+    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
+    atsiskaitymus ir paties statuto keitimo procedūrą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

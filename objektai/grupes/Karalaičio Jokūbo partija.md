@@ -78,7 +78,9 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
     Fridriko Augusto atsto-
     vas. Tuomet daugumas,
     ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.
-  citata_rodoma: "Tuomet daugumas,\nypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę."
+  citata_rodoma: |
+    Tuomet daugumas,
+    ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -77,7 +77,11 @@ Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama ka
     Cracoviensis. Nr. 541; ten yra tekstas taikos, kuri buvo pasirašyta
     su kryžiuočiais prie Melno ežero)*.
     ū*
-  citata_rodoma: "Pavadinimas kilęs iš lietuvių\nsudargų genties1 2, kurios dauguma priklausė Rusiai ir\ntodėl nebuvo įskaičiuojama į Prūsiją sudarančių provin­\n1 Praetorius. Schaubühne. B. III. C. 4."
+  citata_rodoma: |
+    Pavadinimas kilęs iš lietuvių
+    sudargų genties1 2, kurios dauguma priklausė Rusiai ir
+    todėl nebuvo įskaičiuojama į Prūsiją sudarančių provin­
+    1 Praetorius. Schaubühne. B. III. C. 4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

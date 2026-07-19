@@ -214,7 +214,22 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
     duliuojantis vainikas. Iš abiejų pusių venedų runomis užrašytas
     dievaičio (dievaitės) vardas, padalytas į dvi dalis: T rip M" K P
     (skaityti atvirkščiai) •— PYLL—WIT.
-  citata_rodoma: "92\n92 /Ten pat/\nPabaltijo\nslavai\ntaip\npat\ngarbino\nKurchą.\nPonas Tadas Vo­\nlianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­\nrašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1\nlenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —\nR. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­\nkui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo\nKurchas."
+  citata_rodoma: |
+    92
+    92 /Ten pat/
+    Pabaltijo
+    slavai
+    taip
+    pat
+    garbino
+    Kurchą.
+    Ponas Tadas Vo­
+    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
+    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
+    lenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —
+    R. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­
+    kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
+    Kurchas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -238,7 +253,14 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
     deo colere, cui nomen Carcho imposuemnt (Jie turėjo paprotį kas­
     met, nupjovus javus, pasidaryti stabą ir garbinti jį kaip dievą, kurį
     vadino Kurku).
-  citata_rodoma: "Pabaltijo slavai taip pat garbino Kurką. Ponas Tadas Vo-\nlianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­\nrašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1\nlenkiška linija -1112 colio, 1 rusiška linija -1  ¡10 colio -  R. G.)\nskersmens. Jis skirias Sambomi, Pabaltijo slavų karaliukui, der­\nliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo Kur­\nkas."
+  citata_rodoma: |
+    Pabaltijo slavai taip pat garbino Kurką. Ponas Tadas Vo-
+    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
+    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
+    lenkiška linija -1112 colio, 1 rusiška linija -1  ¡10 colio -  R. G.)
+    skersmens. Jis skirias Sambomi, Pabaltijo slavų karaliukui, der­
+    liaus, vaisių ir daržininkystės dievukui, kurio vardas buvo Kur­
+    kas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

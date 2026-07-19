@@ -222,7 +222,18 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
     gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
     vo mažametis.
-  citata_rodoma: "Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje \npas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­\nsisvečiuoti pas Voložino kunigaikščius, ir Voložine at­\nėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį, \nir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį \nSimonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša \nVilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir \nMikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 ."
+  citata_rodoma: |
+    Didysis
+    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
+    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
+    lenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje
+    pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­
+    sisvečiuoti pas Voložino kunigaikščius, ir Voložine at­
+    ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį,
+    ir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį
+    Simonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša
+    Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
+    Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

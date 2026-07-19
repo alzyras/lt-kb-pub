@@ -81,7 +81,8 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
     tučio palaikų deginimo aprašymai.
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
     ir didvyrius.
-  citata_rodoma: "Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius"
+  citata_rodoma: |
+    Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

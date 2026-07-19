@@ -97,7 +97,11 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
     Maskvos kunigaikščiui Jonui Kalitai. Totorių palaikomas, šis gana
     veiklus Gedimino amžininkas savo valdžion taip pat užiminėjo rusų
     žemes.
-  citata_rodoma: "Gedimino laimėjimai dar labiau buvo skersai kelio didžiajam\nMaskvos kunigaikščiui Jonui Kalitai. Totorių palaikomas, šis gana\nveiklus Gedimino amžininkas savo valdžion taip pat užiminėjo rusų\nžemes."
+  citata_rodoma: |
+    Gedimino laimėjimai dar labiau buvo skersai kelio didžiajam
+    Maskvos kunigaikščiui Jonui Kalitai. Totorių palaikomas, šis gana
+    veiklus Gedimino amžininkas savo valdžion taip pat užiminėjo rusų
+    žemes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -118,7 +122,12 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
     Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
     Pajutę savo savarankiškumui pavojų iš Maskvos pusės, naugar­
     diečiai kreipėsi į Gediminą.
-  citata_rodoma: "Veiklus didysis Maskvos\nkunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde\nMaskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.\nPajutę savo savarankiškumui pavojų iš Maskvos pusės, naugar­\ndiečiai kreipėsi į Gediminą."
+  citata_rodoma: |
+    Veiklus didysis Maskvos
+    kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde
+    Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
+    Pajutę savo savarankiškumui pavojų iš Maskvos pusės, naugar­
+    diečiai kreipėsi į Gediminą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

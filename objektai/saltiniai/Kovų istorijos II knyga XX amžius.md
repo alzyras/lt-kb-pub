@@ -64,7 +64,10 @@ Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
 
     p. 218, 1. Lesčius V. Anušauskas A. Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
     p. 218, 2. Ten pat.
-  citata_rodoma: "KARAS PO KARO\n\np. 218, 1. Lesčius V. Anušauskas A. Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104."
+  citata_rodoma: |
+    KARAS PO KARO
+
+    p. 218, 1. Lesčius V. Anušauskas A. Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

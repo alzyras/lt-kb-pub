@@ -114,7 +114,9 @@ Religinė Odoakro charakteristika šaltinyje.
     mo, juo labiau kad ir šiaip nepajėgė vieni įdirbti visą že­
     mę. Odoakras saugojo juos nuo nelaimių, atgaivino me­
     ną ir mokslus, nors pats buvo arijonas, rėmė katalikus.
-  citata_rodoma: "Odoakras saugojo juos nuo nelaimių, atgaivino me-\nną ir mokslus, nors pats buvo arijonas, rėmė katalikus."
+  citata_rodoma: |
+    Odoakras saugojo juos nuo nelaimių, atgaivino me-
+    ną ir mokslus, nors pats buvo arijonas, rėmė katalikus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

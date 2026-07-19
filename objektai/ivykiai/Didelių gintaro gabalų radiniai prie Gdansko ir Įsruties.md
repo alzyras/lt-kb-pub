@@ -115,7 +115,16 @@ Nenurodyta
     daugelį vaistų būdavo dedama skysto gintaro medžiagų,
     eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
     dai ir kinai; pas mus jis dedamas į lakus.
-  citata_rodoma: "Vien Sembos pakrantėje esame turtingiausių kasyklų, ir\njūra išmeta daugiausia tikro ir labiausiai blizgančio gin­\ntaro. Nemažai jo randama ir pakrantėse Vyslos ir Daugu­\nvos žiočių link, Lenkijoje prie Ostrolenkos, o tais laikais\nitin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­\nkrantėse. Be to, iš dalies aptinkama šios medžiagos kitose\nEuropos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip\nteigiama, neseniai atradęs didelių gintaro klodų1 Avos\nkaralystėje."
+  citata_rodoma: |
+    Vien Sembos pakrantėje esame turtingiausių kasyklų, ir
+    jūra išmeta daugiausia tikro ir labiausiai blizgančio gin­
+    taro. Nemažai jo randama ir pakrantėse Vyslos ir Daugu­
+    vos žiočių link, Lenkijoje prie Ostrolenkos, o tais laikais
+    itin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­
+    krantėse. Be to, iš dalies aptinkama šios medžiagos kitose
+    Europos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip
+    teigiama, neseniai atradęs didelių gintaro klodų1 Avos
+    karalystėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

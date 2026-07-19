@@ -102,7 +102,17 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
     Henriko VI laikais (Dusb. I, 2).
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
     III (Ptol.
-  citata_rodoma: "Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595.\n\n\n\n\n\n  593 D."
+  citata_rodoma: |
+    Be
+    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
+    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
+    Ilienburgo [Ilijos] pilies595.
+
+
+
+
+
+      593 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -123,7 +133,19 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
     brolis Luterbergas, Kulmo landkomtūras,— Drevantos upės pakrantėje miestą, vardu
     Noimarkas591.
     361 (354).
-  citata_rodoma: "Be to, tas pats brolis Fridrichas\npastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas,\nVarmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto  pilį, vardu  Plutai589,\no Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą, vardu Bišofsverderis590, o\nbrolis Luterbergas, Kulmo landkomtūras,— Drevantos upės pakrantėje miestą, vardu\nNoimarkas591.\n\n\n\n\n\n 361 (354)."
+  citata_rodoma: |
+    Be to, tas pats brolis Fridrichas
+    pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas,
+    Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto  pilį, vardu  Plutai589,
+    o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą, vardu Bišofsverderis590, o
+    brolis Luterbergas, Kulmo landkomtūras,— Drevantos upės pakrantėje miestą, vardu
+    Noimarkas591.
+
+
+
+
+
+     361 (354).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

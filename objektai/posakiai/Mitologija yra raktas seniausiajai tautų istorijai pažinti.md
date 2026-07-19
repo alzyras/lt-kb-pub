@@ -132,7 +132,19 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
     svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
     nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
     nimo smulkmenų.
-  citata_rodoma: "Lietuvių mitologija, sukurta iš graikų, \nnebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­\nprastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­\ntulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.\nKad mums būtų lengviau išsemti visą naudą iš mitologijos \nskaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius \nmus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­\njimuose.\nSeniausios žemės tautos - indai ir kinai savo tautiškumo \nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų."
+  citata_rodoma: |
+    Lietuvių mitologija, sukurta iš graikų,
+    nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
+    prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
+    tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
+    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
+    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
+    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
+    jimuose.
+    Seniausios žemės tautos - indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

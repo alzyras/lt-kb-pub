@@ -76,7 +76,8 @@ Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senat
     vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
     studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
     Simonas Daukantas.
-  citata_rodoma: "bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų"
+  citata_rodoma: |
+    bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

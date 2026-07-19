@@ -95,7 +95,8 @@ Nenurodyta
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: "ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,"
+  citata_rodoma: |
+    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

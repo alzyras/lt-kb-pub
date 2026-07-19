@@ -84,7 +84,9 @@ media_all_json: |-
     Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
     lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-
     tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
-  citata_rodoma: "1839 m. likviduojama Uni-\ntų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas."
+  citata_rodoma: |
+    1839 m. likviduojama Uni-
+    tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -102,7 +104,8 @@ media_all_json: |-
     dešimt cerkvių. Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto
     centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
     bažnyčios katedra paversta Šv.
-  citata_rodoma: "centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių"
+  citata_rodoma: |
+    centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

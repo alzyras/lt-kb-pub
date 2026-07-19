@@ -131,7 +131,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
     Vidurio Europą.
-  citata_rodoma: "pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją"
+  citata_rodoma: |
+    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

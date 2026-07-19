@@ -140,7 +140,12 @@ Pilis liko nepaimta.
     tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo
     būsimų pavojų, pasiuntė žvalgus, turėjusius saugoti kelius; vienas iš jų skubiai sugrįžo
     ir pasisakė matęs minėtuosius plėšikautojus.
-  citata_rodoma: "1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,\nmagistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais\npėstininkų. Pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai\npriešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad\nnuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo."
+  citata_rodoma: |
+    1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
+    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
+    pėstininkų. Pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai
+    priešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
+    nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -163,7 +168,15 @@ Pilis liko nepaimta.
     Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų
     įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį:
     išsivarė daug žmonių ir išsivežė galybę visokių daiktų.
-  citata_rodoma: "Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad\nnuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo. Kai pradėjo temti,\npenki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių\nnuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino\npaprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku\nbūdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti. Todėl jie turėjo nutraukti\napgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad\nateityje nelaukti, kol broliai užpulsią kokią pilį."
+  citata_rodoma: |
+    Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
+    nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo. Kai pradėjo temti,
+    penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių
+    nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino
+    paprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku
+    būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti. Todėl jie turėjo nutraukti
+    apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
+    ateityje nelaukti, kol broliai užpulsią kokią pilį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

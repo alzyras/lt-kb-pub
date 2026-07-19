@@ -139,7 +139,14 @@ Nenurodyta
     Henriko sūnus, kurį esame minėję, kalbėdami apie karą su pamedėnais; kai, pasitelkęs
     magistrą ir brolius, ketino užgriūti priešus, prie įeigos į Notangos žemę rado pilaitę407,
     ginamą daugybės ginklanešių, kliudžiusių šiam kunigaikščiui žygiuoti į priekį.
-  citata_rodoma: "131 (126). Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą\n\n  Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto\nir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje\npat vietoje pastatydino kitą pilį tuo pat vardu404. Toje pilyje gyveno kilmingasis brolis\nHermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas,\ndėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius."
+  citata_rodoma: |
+    131 (126). Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
+
+      Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
+    ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje
+    pat vietoje pastatydino kitą pilį tuo pat vardu404. Toje pilyje gyveno kilmingasis brolis
+    Hermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas,
+    dėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -160,7 +167,15 @@ Nenurodyta
     o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo
     šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
     išsivedė su savimi.
-  citata_rodoma: "Kai\ntraukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta\nŠtai šiuo būdu. Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė\nVarmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė\npilį. Šitai išgirdęs, komtūras susirūpino  ir patraukė su saviškiais link Karaliaučiaus,\no parplaukęs laivais  į Brandenburgą, čia išvadavo nuo prūsų brolius  ir kitus iš savo\nšeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus\nišsivedė su savimi."
+  citata_rodoma: |
+    Kai
+    traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
+    Štai šiuo būdu. Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
+    Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė
+    pilį. Šitai išgirdęs, komtūras susirūpino  ir patraukė su saviškiais link Karaliaučiaus,
+    o parplaukęs laivais  į Brandenburgą, čia išvadavo nuo prūsų brolius  ir kitus iš savo
+    šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
+    išsivedė su savimi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -182,7 +197,14 @@ Nenurodyta
     Henriko sūnus, kurį esame minėję, kalbėdami apie karą su pamedėnais; kai, pasitelkęs
     magistrą ir brolius, ketino užgriūti priešus, prie įeigos į Notangos žemę rado pilaitę407,
     ginamą daugybės ginklanešių, kliudžiusių šiam kunigaikščiui žygiuoti į priekį.
-  citata_rodoma: "Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto\nir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje\npat vietoje pastatydino kitą pilį tuo pat vardu404. Toje pilyje gyveno kilmingasis brolis\nHermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas,\ndėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius. Paprastai, susiruošęs  į\nkarą, karys užsideda šarvus, mat norima, kad jis pasijustų žvalesnis, tačiau šio brolio\nkūnas buvęs taip sužalotas, kad rodėsi, jog jis kokių skorpionų sukandžiotas."
+  citata_rodoma: |
+    Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
+    ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje
+    pat vietoje pastatydino kitą pilį tuo pat vardu404. Toje pilyje gyveno kilmingasis brolis
+    Hermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas,
+    dėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius. Paprastai, susiruošęs  į
+    karą, karys užsideda šarvus, mat norima, kad jis pasijustų žvalesnis, tačiau šio brolio
+    kūnas buvęs taip sužalotas, kad rodėsi, jog jis kokių skorpionų sukandžiotas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

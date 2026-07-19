@@ -64,7 +64,11 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
     Rykantų įsitvirtinusi 3-ioji I. Musteikio
     vadovaujama divizija spalio 14-15 d. lenkų
     veržimąsi sustabdė.
-  citata_rodoma: "Kairiajame Neries krante prie Semeliškių —\nRykantų įsitvirtinusi 3-ioji I. Musteikio\nvadovaujama divizija spalio 14-15 d. lenkų\nveržimąsi sustabdė."
+  citata_rodoma: |
+    Kairiajame Neries krante prie Semeliškių —
+    Rykantų įsitvirtinusi 3-ioji I. Musteikio
+    vadovaujama divizija spalio 14-15 d. lenkų
+    veržimąsi sustabdė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

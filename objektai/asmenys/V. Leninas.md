@@ -86,7 +86,8 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: "vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose"
+  citata_rodoma: |
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +109,8 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
     bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
     Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
     o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.
-  citata_rodoma: "bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač"
+  citata_rodoma: |
+    bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

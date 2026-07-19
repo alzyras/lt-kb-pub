@@ -78,7 +78,21 @@ Su skausmu ir pa­ sibaisėjimu tenka pripažinti, kad 1828 metais tuometinė Ra
     lių plytoms naujai statomam dvari­
     ninko Kosobudžkio namui Nr.
     priemiestyje už Aušros vartų.
-  citata_rodoma: "Jurgio bažny­\nčios prie Vilijos. Su skausmu ir pa­\nsibaisėjimu tenka pripažinti, kad \n1828 metais tuometinė Radvilų pro- \nkuratorija, pro pirštus žiūrėdama į \nlietuviams brangius dingusios di­\ndingos praeities paminklus, atėmė iš \nmiesto ir krašto, ir taip nedaug se­\nnovinių paminklų teturinčio, tuos \ngarbingus ir puikius griuvėsius, par­\nduodama juos už 500 sidabrinių rub­\nlių plytoms naujai statomam dvari­\nninko Kosobudžkio namui Nr. \npriemiestyje už Aušros vartų."
+  citata_rodoma: |
+    Jurgio bažny­
+    čios prie Vilijos. Su skausmu ir pa­
+    sibaisėjimu tenka pripažinti, kad
+    1828 metais tuometinė Radvilų pro-
+    kuratorija, pro pirštus žiūrėdama į
+    lietuviams brangius dingusios di­
+    dingos praeities paminklus, atėmė iš
+    miesto ir krašto, ir taip nedaug se­
+    novinių paminklų teturinčio, tuos
+    garbingus ir puikius griuvėsius, par­
+    duodama juos už 500 sidabrinių rub­
+    lių plytoms naujai statomam dvari­
+    ninko Kosobudžkio namui Nr.
+    priemiestyje už Aušros vartų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

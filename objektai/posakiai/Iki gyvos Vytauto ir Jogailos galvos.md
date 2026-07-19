@@ -102,7 +102,9 @@ media_all_json: |-
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
     mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
-  citata_rodoma: "Tuo būdu Lietuvos savarankišku-\nmas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos."
+  citata_rodoma: |
+    Tuo būdu Lietuvos savarankišku-
+    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -121,7 +123,12 @@ media_all_json: |-
     taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
     galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
     Klaipėda ir visa Užnemune.
-  citata_rodoma: "Po\nŽalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės\ntaika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos\ngalvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su\nKlaipėda ir visa Užnemune."
+  citata_rodoma: |
+    Po
+    Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės
+    taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
+    galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
+    Klaipėda ir visa Užnemune.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

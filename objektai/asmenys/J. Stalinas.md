@@ -225,7 +225,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     ventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-
     gystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst.
     tremtinių ir apie 20 tūkst. politinių kalinių.
-  citata_rodoma: "džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir"
+  citata_rodoma: |
+    džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -245,7 +246,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     ruoštasi kovojant, kad atėjus metui būtų galima paimti valdžią į savo ran-
     kas. Partizanų būriai, pradėję kurtis 1944 m. vasaros pabaigoje, greitai di-
     dėjo, susidarė jų rinktinės, apygardos, sritys.
-  citata_rodoma: "pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,"
+  citata_rodoma: |
+    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -268,7 +270,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
     Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
     gos, tautinio pobūdžio literatūra.
-  citata_rodoma: "tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo"
+  citata_rodoma: |
+    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -287,7 +290,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: "vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose"
+  citata_rodoma: |
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -307,7 +311,11 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
-  citata_rodoma: "Mokytojai verčiami studijuoti \nV. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų \npartijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-\ngą."
+  citata_rodoma: |
+    Mokytojai verčiami studijuoti
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -327,7 +335,11 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
     čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
     130 kunigų.
-  citata_rodoma: "J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-\nkai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-\nčią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo \n130 kunigų."
+  citata_rodoma: |
+    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
+    kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
+    čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
+    130 kunigų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

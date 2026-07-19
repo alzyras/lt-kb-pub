@@ -591,7 +591,17 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
     liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
     amžiuje, baltai išlaikė ją aukštame laipsnyje.
-  citata_rodoma: ") baltuose ir jų san­**\n    **tykiai su kaimynais**\n\nĮsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui\n(pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos\nPripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje\nvyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi\nNemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­\nliai, be jokių lūžių vystydami savo kultūrą viduriniame geležies\namžiuje, baltai išlaikė ją aukštame laipsnyje."
+  citata_rodoma: |
+    ) baltuose ir jų san­**
+        **tykiai su kaimynais**
+
+    Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui
+    (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos
+    Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje
+    vyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi
+    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
+    liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
+    amžiuje, baltai išlaikė ją aukštame laipsnyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -612,7 +622,13 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
     išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
     Salys).
-  citata_rodoma: "Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,\nyra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų\nslavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų\nbendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra\nišriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.\nSalys)."
+  citata_rodoma: |
+    Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,
+    yra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų
+    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
+    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
+    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
+    Salys).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -630,7 +646,11 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
     akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
-  citata_rodoma: "Mindaugas\nnorėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės\nbaltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač\nakivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34."
+  citata_rodoma: |
+    Mindaugas
+    norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
+    baltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
+    akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -652,7 +672,11 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     lietuviai29.
     Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
     Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30.
-  citata_rodoma: "Taigi Lietuvos\npastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.\n  Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus\ntada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną."
+  citata_rodoma: |
+    Taigi Lietuvos
+    pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
+      Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -725,7 +749,14 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Prūsai ir Lietuva\n\n   Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos\nartimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos\nvientisumas.\n  Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių."
+  citata_rodoma: |
+    Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

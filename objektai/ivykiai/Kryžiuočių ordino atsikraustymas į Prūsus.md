@@ -121,7 +121,13 @@ Nenurodyta
     vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
     veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
     paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
-  citata_rodoma: "Jau Dobrinės ordiną steigdami, vyskupas ir kunigaikštis Kon-\nradas susižinojo su vokiečių riterių ordinu, kurs kryžiaus karų\nmetu buvo įsteigtas Palestinoje; ten galutinai įsigalėjus turkams, jo\nvadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko\nveikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir\npaimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą."
+  citata_rodoma: |
+    Jau Dobrinės ordiną steigdami, vyskupas ir kunigaikštis Kon-
+    radas susižinojo su vokiečių riterių ordinu, kurs kryžiaus karų
+    metu buvo įsteigtas Palestinoje; ten galutinai įsigalėjus turkams, jo
+    vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
+    veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
+    paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -143,7 +149,12 @@ Nenurodyta
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: "1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.\nČia jie gavo iš Konrado\nžemių su Niešavos pi-\nlaite, o patys pasista-\ntė Fogelzango pilį."
+  citata_rodoma: |
+    1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
+    Čia jie gavo iš Konrado
+    žemių su Niešavos pi-
+    laite, o patys pasista-
+    tė Fogelzango pilį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -86,7 +86,13 @@ Nenurodyta
     LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
     iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
     ciatyvinės grupės nariai.
-  citata_rodoma: "LPS tapo dar populiaresnis, \nkai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti \nlaikraštis „Atgimimas“ (red. Romualdas Ozolas).\nLPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi \niniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-\nciatyvinės grupės nariai."
+  citata_rodoma: |
+    LPS tapo dar populiaresnis,
+    kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
+    laikraštis „Atgimimas“ (red. Romualdas Ozolas).
+    LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
+    iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
+    ciatyvinės grupės nariai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

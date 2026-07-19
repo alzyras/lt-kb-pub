@@ -89,7 +89,10 @@ Nenurodyta
     jame dešimtmetyje). Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
     mėsos produktų eksportas į užsienį.
-  citata_rodoma: "Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-\ndirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir\nmėsos produktų eksportas į užsienį."
+  citata_rodoma: |
+    Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
+    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
+    mėsos produktų eksportas į užsienį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -108,7 +111,12 @@ Nenurodyta
     mėsos produktų eksportas į užsienį.
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
     nais.
-  citata_rodoma: "Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-\ndirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir \nmėsos produktų eksportas į užsienį.\nŠalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-\nnais."
+  citata_rodoma: |
+    Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
+    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
+    mėsos produktų eksportas į užsienį.
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

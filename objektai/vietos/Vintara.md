@@ -65,7 +65,17 @@ media_all_json: |-
     Gelvonų link Švitrigailos - Ordino ka-
     riuomenė, ar buvo perėjusi Žirnajos upę
     (kaip teigiama istoriografijoje), nėra aišku.
-  citata_rodoma: "Šią kariuomenių išsidėstymo\nsituaciją natūroje atitinka ne Žirnajos (kaip\nįprasta istoriografijoje), bet jos dešiniojo\nintako Vintaros, tekančios per dabartinį\nPabaisko miestelį, padėtis.\n\nKokiose pozicijose buvo sustojusi kelyje\nGelvonų link Švitrigailos - Ordino ka-\nriuomenė, ar buvo perėjusi Žirnajos upę\n(kaip teigiama istoriografijoje), nėra aišku."
+  citata_rodoma: |
+    Šią kariuomenių išsidėstymo
+    situaciją natūroje atitinka ne Žirnajos (kaip
+    įprasta istoriografijoje), bet jos dešiniojo
+    intako Vintaros, tekančios per dabartinį
+    Pabaisko miestelį, padėtis.
+
+    Kokiose pozicijose buvo sustojusi kelyje
+    Gelvonų link Švitrigailos - Ordino ka-
+    riuomenė, ar buvo perėjusi Žirnajos upę
+    (kaip teigiama istoriografijoje), nėra aišku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

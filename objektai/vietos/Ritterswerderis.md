@@ -72,7 +72,11 @@ media_all_json: |-
     damas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­
     ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie
     Nemuno, būtent, Naująjį Gardiną ir Meteną22 23 *.
-  citata_rodoma: "1392 m. birželio gale, apsimes­\ndamas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­\nga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie\nNemuno, būtent, Naująjį Gardiną ir Meteną22 23 *."
+  citata_rodoma: |
+    1392 m. birželio gale, apsimes­
+    damas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­
+    ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie
+    Nemuno, būtent, Naująjį Gardiną ir Meteną22 23 *.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,9 @@ Nenurodyta
     lenkiškoji protestantų akcija. Lietuvos protestantai suskato
     lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
     tik tada, kai to griebėsi atsigavę katalikai.
-  citata_rodoma: "Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus\ntik tada, kai to griebėsi atsigavę katalikai."
+  citata_rodoma: |
+    Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
+    tik tada, kai to griebėsi atsigavę katalikai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

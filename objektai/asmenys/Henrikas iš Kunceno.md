@@ -144,7 +144,12 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
     Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
     kitų kilmingųjų iš Reino.
-  citata_rodoma: "Ilgokai jam grasinę, galop tarėjai paprašė\nteisėją jo pasigailėti, o  jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis\nHenrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.\nKai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,\nkilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė."
+  citata_rodoma: |
+    Ilgokai jam grasinę, galop tarėjai paprašė
+    teisėją jo pasigailėti, o  jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis
+    Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.
+    Kai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,
+    kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -167,7 +172,14 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
     tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
     negali tavęs išganyti, tad išpažink žydų tikėjimą“.
-  citata_rodoma: "Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,\ndavė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus\npiktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.\nVieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius\nbegardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo\ntiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas\nnegali tavęs išganyti, tad išpažink žydų tikėjimą“."
+  citata_rodoma: |
+    Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
+    davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
+    piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
+    Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
+    begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
+    tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
+    negali tavęs išganyti, tad išpažink žydų tikėjimą“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

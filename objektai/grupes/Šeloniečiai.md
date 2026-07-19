@@ -75,12 +75,17 @@ Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, t
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Agazirai, Agazziry. Senovės tyrinėto­
-    jai šią gentį priskiria prie lietuvių. Jordanas rašo: „Prie
-    Vyslos žiočių yra vidivarai, o už jų estai, su kuriais ri­
-    bojasi agazirai; tai labai karinga gentis, nesėjanti javų,
-    gyvenanti iš gyvulių auginimo ir medžioklės“3.
-  citata_rodoma: "Iš tikrųjų lai buvo žemgalių gentys. Selonės\napskrity gyveno šeloniečių, Selonczycy, tauta — taip pat\nžemgaliai'2.\n281\nLatvijos dalys."
+    Iš tikrųjų lai buvo žemgalių gentys. Selonės
+    apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat
+    žemgaliai'2.
+    281
+    Latvijos dalys.
+  citata_rodoma: |
+    Iš tikrųjų lai buvo žemgalių gentys. Selonės
+    apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat
+    žemgaliai'2.
+    281
+    Latvijos dalys.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

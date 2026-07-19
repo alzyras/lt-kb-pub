@@ -64,7 +64,9 @@ Dusburgietis teigia, kad mažiulis V.
     Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
     —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
     Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
-  citata_rodoma: "Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais\n—Iš lietuvių etnogenezės, V., 1981, p. 5—11."
+  citata_rodoma: |
+    Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
+    —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

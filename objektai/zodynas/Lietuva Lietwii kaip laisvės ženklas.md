@@ -141,7 +141,13 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
     tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
     cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
     iormatams.
-  citata_rodoma: "Rusovas sako, kad latvių jaunimas garbino tą deivę, va­\ndindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį\nmitą pastebi Stenderis, bet dėl savo keistos etimologizacijos\nsudvejina: vienur vadinaDekkla, kitur -  Tikla. Taip pat priski­\nria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-\npakenčiančio jaunimo deivė, tai painioja ją su Laima."
+  citata_rodoma: |
+    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
+    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
+    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
+    sudvejina: vienur vadinaDekkla, kitur -  Tikla. Taip pat priski­
+    ria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-
+    pakenčiančio jaunimo deivė, tai painioja ją su Laima.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

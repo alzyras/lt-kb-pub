@@ -1328,7 +1328,10 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     gerai žinomais, laikais. Aisčiai, kaip ir beveik visi Europos gy-
     ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
     čios indoeuropiečių, arba arijų, tautų grupės.
-  citata_rodoma: "Aisčiai, kaip ir beveik visi Europos gy-\nventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-\nčios indoeuropiečių, arba arijų, tautų grupės."
+  citata_rodoma: |
+    Aisčiai, kaip ir beveik visi Europos gy-
+    ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
+    čios indoeuropiečių, arba arijų, tautų grupės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1349,7 +1352,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Lietuvos valstybė
 
     x1 a.
-  citata_rodoma: "Slavų ekspansija\nartėjo prie Lietuvos žemių.\n\nLietuvos valstybė\n\nx1 a."
+  citata_rodoma: |
+    Slavų ekspansija
+    artėjo prie Lietuvos žemių.
+
+    Lietuvos valstybė
+
+    x1 a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1371,7 +1380,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
     rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
     Lietuva, o šiandien ją vadiname istorine Lietuva.
-  citata_rodoma: "Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-\nnama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-\ngai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į \nrytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-\nrija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti \nLietuva, o šiandien ją vadiname istorine Lietuva."
+  citata_rodoma: |
+    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
+    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
+    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
+    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
+    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1390,7 +1405,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
     nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
     sų, jotvingių, lietuvių ir latvių tautos.
-  citata_rodoma: "Vėliau, \nI tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-\nnių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-\nsų, jotvingių, lietuvių ir latvių tautos."
+  citata_rodoma: |
+    Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1473,7 +1492,16 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
     pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
     buvo deivė, kaip vadinosi vyriausiasis dievas.
-  citata_rodoma: "Stenderis, tuose savo latvių mitologijos straipsniuo­\nse saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­\nmės ir tiesos.\nSlavai garbino tą pačią dievybę, vadindami įvairiais tar­\nmiškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,\nDajebog. Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga."
+  citata_rodoma: |
+    Stenderis, tuose savo latvių mitologijos straipsniuo­
+    se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
+    mės ir tiesos.
+    Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
+    miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
+    Dajebog. Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1494,7 +1522,14 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Lietuvos aukso amžiuje Kaunas su apylinkėmis buvo tikra Lie­
     tuvos Kitera. Nuostabi vietovė, marios savaime augančių gė­
     lių, puošnesnių už kitas laukines.
-  citata_rodoma: "Skaityk straipsnį „Šventės“.\nTai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-\nvai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­\nkas panašaus, aišku, buvo ir Pergrubė. Ją vaizdavo kaip nuogą\njauną ir gražią mergaitę su palaidais, žemiau kelių krintan­\nčiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­\nkoje laikančią obuolį, kairėje -  vynuogių kekę."
+  citata_rodoma: |
+    Skaityk straipsnį „Šventės“.
+    Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
+    vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
+    kas panašaus, aišku, buvo ir Pergrubė. Ją vaizdavo kaip nuogą
+    jauną ir gražią mergaitę su palaidais, žemiau kelių krintan­
+    čiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­
+    koje laikančią obuolį, kairėje -  vynuogių kekę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1533,7 +1568,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
     šė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­
     rybėmis, dievintomis anais amžiais.
-  citata_rodoma: "28\nSlavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu­\nrėjo rusvus, šviesiai pilkus (ruse) plaukus. Ukrainoje jas vadinaMaivAz\nnuo žodžio mavvczat’-  miaukti, rėkti katino balsu, kadangi tos būty­\nbės turėjo įprotį kelti kačių muziką per dabartines Sekmines. Štai ir\nnaujas kačių muzikos kilmės išaiškinimas!"
+  citata_rodoma: |
+    28
+    Slavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu­
+    rėjo rusvus, šviesiai pilkus (ruse) plaukus. Ukrainoje jas vadinaMaivAz
+    nuo žodžio mavvczat’-  miaukti, rėkti katino balsu, kadangi tos būty­
+    bės turėjo įprotį kelti kačių muziką per dabartines Sekmines. Štai ir
+    naujas kačių muzikos kilmės išaiškinimas!
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1554,7 +1595,12 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     lemonu Kalnas).
     Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
     sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-  citata_rodoma: "Antikoje buvo taip pat milžinas Alkijonas (Alcyon). Pas slavus\nbūta įsivaizdavimo apie milžiną, nešantį ant pečių mažesnio ūgio\nžmogų (kažkas panašaus į mūsiškį Alcį); tai rodo vieno Prilvico\nstabo piešinys6. Pagal runų įrašo šifruotą tai turėtų būti Belbogas\n(Bielboh)*."
+  citata_rodoma: |
+    Antikoje buvo taip pat milžinas Alkijonas (Alcyon). Pas slavus
+    būta įsivaizdavimo apie milžiną, nešantį ant pečių mažesnio ūgio
+    žmogų (kažkas panašaus į mūsiškį Alcį); tai rodo vieno Prilvico
+    stabo piešinys6. Pagal runų įrašo šifruotą tai turėtų būti Belbogas
+    (Bielboh)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1623,7 +1669,16 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Aurelijus Antoninas pastatė Romoje, ant Kapitolijaus kalno,
     buvo didžiulis juodas akmuo, apie kurį manyta, kad jis nukri­
     tęs iš dangaus (akmuo - meteoritas).
-  citata_rodoma: "Pasakojimas apie stebuklingus medžius\nmini uosį.\n241\n\n## Puslapis 241\n\nSlavai uosį paskirdavo Jupiteriui, vadintam Jesse. Skandi­\nnavai garbino uosį, vadinamą Igdrasilu, po kurio šakomis gy­\nvenę dievai."
+  citata_rodoma: |
+    Pasakojimas apie stebuklingus medžius
+    mini uosį.
+    241
+
+    ## Puslapis 241
+
+    Slavai uosį paskirdavo Jupiteriui, vadintam Jesse. Skandi­
+    navai garbino uosį, vadinamą Igdrasilu, po kurio šakomis gy­
+    venę dievai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1665,7 +1720,19 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     pagaliau, pripylęs pilną taurę, meta jauniesiems po kojų, sa­
     kydamas: „Tokia yra savavališkos meilės auka“; jaunikis su­
     traiško taurę koja.
-  citata_rodoma: "Moterys dar kartą dainuoja graudžią dai­\nną, beveik tokią pat kaip anksčiau, lėkštę su alaus puodeliu\nir\n355\n\n## Puslapis 355\n\nneša aplink duonkubilį, duoną deda ant stalo, alų išpila ant\nslenksčio .\nPakirptuvių, rusiškai Zastryžyny, apeigos, įprastinės slavų\nkiltims, buvo bendros daugeliui senovės Siaurės ir Pietų Eu­\nropos tautų. Jos siekia labai tolimas Europos senovės epochas."
+  citata_rodoma: |
+    Moterys dar kartą dainuoja graudžią dai­
+    ną, beveik tokią pat kaip anksčiau, lėkštę su alaus puodeliu
+    ir
+    355
+
+    ## Puslapis 355
+
+    neša aplink duonkubilį, duoną deda ant stalo, alų išpila ant
+    slenksčio .
+    Pakirptuvių, rusiškai Zastryžyny, apeigos, įprastinės slavų
+    kiltims, buvo bendros daugeliui senovės Siaurės ir Pietų Eu­
+    ropos tautų. Jos siekia labai tolimas Europos senovės epochas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1690,7 +1757,18 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo
     tos pačios nuomonės. Tai nugrimzdusios į paklydimą religijos
     silpnoji pusė.
-  citata_rodoma: "Visose tautose,\nratu supančiose Lietuvą, pastebime daugiau ištvirkimo, palai­\ndų kalbų, dainų, gašlių šokių ir net nusižengimų sutuoktinių\ništikimybei, mergiškai skaistybei ir panašiai. Ypač slavai, mėgs­\ntantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­\npročiuose nuslysta į kraštutinumą; net pagyvenusios moterys\npirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­\nrungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­\ntuvių genties tautose šito negalima susekti -  nei jų kalboje,\nnei tautinėse dainose nėra nieko panašaus; joms net trūksta\ntokių žodžių."
+  citata_rodoma: |
+    Visose tautose,
+    ratu supančiose Lietuvą, pastebime daugiau ištvirkimo, palai­
+    dų kalbų, dainų, gašlių šokių ir net nusižengimų sutuoktinių
+    ištikimybei, mergiškai skaistybei ir panašiai. Ypač slavai, mėgs­
+    tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­
+    pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys
+    pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­
+    rungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­
+    tuvių genties tautose šito negalima susekti -  nei jų kalboje,
+    nei tautinėse dainose nėra nieko panašaus; joms net trūksta
+    tokių žodžių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1822,7 +1900,19 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     kais, žmonių gyventa daug vėliau, mažiau ir senų genčių
     gyvenimo pėdsakų arba stinga paminklų, įrodančių šių
     gyvenviečių senumą, arba jie labai reti.
-  citata_rodoma: "Taip mes taip pat nedve­\njodami pripažįstame tą istorinę tiesą, kad lietuvių tautos\nprotėviai gyveno prie Rosės upės, tekančios per šiandienę\nVolkovysko apskritį. Jų gyvenviečių galėjo būti net iki\nIV amžiaus po Kristaus gimimo ar kiek vėliau, kol iš\nNemuno aukštupio pusės pradėjo spausti slavų gentys.\n217\nTurime padaryti dar vieną ekskursą, kad galėtume\nderamai isuprasti šiame veikale glūdintį aiškinimo būdą\nir kartu pataikytume į kelią, kuris kiekvieną skaitytoją\ngali nuvesti ten, kur įmanoma patikrinti čia dėstomus\ndalykus."
+  citata_rodoma: |
+    Taip mes taip pat nedve­
+    jodami pripažįstame tą istorinę tiesą, kad lietuvių tautos
+    protėviai gyveno prie Rosės upės, tekančios per šiandienę
+    Volkovysko apskritį. Jų gyvenviečių galėjo būti net iki
+    IV amžiaus po Kristaus gimimo ar kiek vėliau, kol iš
+    Nemuno aukštupio pusės pradėjo spausti slavų gentys.
+    217
+    Turime padaryti dar vieną ekskursą, kad galėtume
+    deramai isuprasti šiame veikale glūdintį aiškinimo būdą
+    ir kartu pataikytume į kelią, kuris kiekvieną skaitytoją
+    gali nuvesti ten, kur įmanoma patikrinti čia dėstomus
+    dalykus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1849,7 +1939,21 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     buklingu gėrimu, bet netrukus ją palikęs. įžeistas išdavi­
     kiškai pamestos karalienės tėvas susijungė su rusais ir pa­
     skelbė žentui karą, kuris baigėsi danų karaliaus pergale.
-  citata_rodoma: "230\n\n## Puslapis 241\n\n233\nDanijos karalius Frotonas III su galingu laivynu ir\nsausumos kariuomene rengė žygius į Baltijos jūros ryti­\nnes pakrantes. Pirmiausia jis kariavo su slavais, kurių\nkarvedys Strunikas1 buvo nukautas. Pasak istorinių skai­\nčiavimų, šios kautynės jvykusios danams išsilaipinus kaž­\nkur Suomių įlankoje, galbūt prie Narvos upės žiočių, anot\nkitų — prie Nevos žiočių, nes ten jau galėjo būti Siaurės\nslavų pakrančių gyvenviečių, atkariautų iš suomių ir pra-\nlobusių iš žuvininkystės."
+  citata_rodoma: |
+    230
+
+    ## Puslapis 241
+
+    233
+    Danijos karalius Frotonas III su galingu laivynu ir
+    sausumos kariuomene rengė žygius į Baltijos jūros ryti­
+    nes pakrantes. Pirmiausia jis kariavo su slavais, kurių
+    karvedys Strunikas1 buvo nukautas. Pasak istorinių skai­
+    čiavimų, šios kautynės jvykusios danams išsilaipinus kaž­
+    kur Suomių įlankoje, galbūt prie Narvos upės žiočių, anot
+    kitų — prie Nevos žiočių, nes ten jau galėjo būti Siaurės
+    slavų pakrančių gyvenviečių, atkariautų iš suomių ir pra-
+    lobusių iš žuvininkystės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1898,7 +2002,18 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     miestų, upių ir įvairių kitų geografinių vietovių pavadi­
     nimai amžiams bėgant ir įvairių tautų kalbose gali kisti,
     tačiau bet kuris žodis nėra vien ore sugautas garsas.
-  citata_rodoma: "Be to, reikia manyti, jog šį bendrą tautų lizdą svetima\ngentis dalijo nemažą laiko tarpą, nes latvių tarmė labai\nryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas\nnėra toks ryškus nei prūsų, nei he rūtų kalbose, nes tarp\njų kontaktai nebuvo nutrūkę.\nVisi senovės tyrinėtojai sutinka, jog vilkų tauta buvo\nslaviška gentis, be to, viena iš pačių seniausių, kuri mūsų\neroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­\njose upės pakrantėse ar net salose, esančiose prie jos\nįtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­\nlijos pakrantėse."
+  citata_rodoma: |
+    Be to, reikia manyti, jog šį bendrą tautų lizdą svetima
+    gentis dalijo nemažą laiko tarpą, nes latvių tarmė labai
+    ryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas
+    nėra toks ryškus nei prūsų, nei he rūtų kalbose, nes tarp
+    jų kontaktai nebuvo nutrūkę.
+    Visi senovės tyrinėtojai sutinka, jog vilkų tauta buvo
+    slaviška gentis, be to, viena iš pačių seniausių, kuri mūsų
+    eroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­
+    jose upės pakrantėse ar net salose, esančiose prie jos
+    įtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­
+    lijos pakrantėse.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1925,7 +2040,19 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     krantų. Tai patvirtinančių įrodymų randame Ksavero Bo-
     gušo veikaluose3; iš jų sužinome, jog herulų keliauta į
     Reitgotiją.
-  citata_rodoma: "V amžiaus pabaigoje šiuose kraštuose jau plačiai driekėsi\nslavų gyvenamosios vietovės po vandalų ir longobardi}\nrevoliucijų, įvykusių IV amžiaus pabaigoje ir V amžiaus\npradžioje; jos lėmė germanų išsikėlimą iš šių kraštų į\nPietus2. Slavai visuomet buvo svetingi, daug jų kartų\nbuvo taikių, vertėsi žemdirbyste, ypač tos, kurios gyveno\narčiau Baltijos jūros ir kurių gyvenamosios vietos tęsėsi\nnuo Vyslos dešiniosios pakrantės iki Nemuno žemupio.\nTad artimiausias ir saugiausias herulų kelias vingiavo į\nŠiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš\nkur buvo visai netoli iki herulų gimtosios Jūros upės\nkrantų."
+  citata_rodoma: |
+    V amžiaus pabaigoje šiuose kraštuose jau plačiai driekėsi
+    slavų gyvenamosios vietovės po vandalų ir longobardi}
+    revoliucijų, įvykusių IV amžiaus pabaigoje ir V amžiaus
+    pradžioje; jos lėmė germanų išsikėlimą iš šių kraštų į
+    Pietus2. Slavai visuomet buvo svetingi, daug jų kartų
+    buvo taikių, vertėsi žemdirbyste, ypač tos, kurios gyveno
+    arčiau Baltijos jūros ir kurių gyvenamosios vietos tęsėsi
+    nuo Vyslos dešiniosios pakrantės iki Nemuno žemupio.
+    Tad artimiausias ir saugiausias herulų kelias vingiavo į
+    Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš
+    kur buvo visai netoli iki herulų gimtosios Jūros upės
+    krantų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

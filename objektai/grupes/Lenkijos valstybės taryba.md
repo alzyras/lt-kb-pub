@@ -114,7 +114,11 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta.
-  citata_rodoma: "Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės\ntaryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo\nkunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-\nlią, nebūta."
+  citata_rodoma: |
+    Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
+    taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
+    kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
+    lią, nebūta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -139,7 +143,17 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
-  citata_rodoma: "Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos \nveiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos \nLenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-\nvon, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu \natveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju – \ntai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur, \nkitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį \nsupo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos \nvalstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-\nlemta valstybių sąveika naikino Lietuvos valstybingumą."
+  citata_rodoma: |
+    Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
+    veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos
+    Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-
+    von, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu
+    atveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju –
+    tai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,
+    kitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį
+    supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
+    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +178,15 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     tai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,
     kitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį
     supo Lenkijos valstybės taryba.
-  citata_rodoma: "Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos\nveiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos\nLenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-\nvon, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu\natveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju –\ntai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,\nkitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį\nsupo Lenkijos valstybės taryba."
+  citata_rodoma: |
+    Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
+    veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos
+    Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-
+    von, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu
+    atveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju –
+    tai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,
+    kitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį
+    supo Lenkijos valstybės taryba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

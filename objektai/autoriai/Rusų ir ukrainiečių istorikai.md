@@ -161,7 +161,11 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
     žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
     dė Lietuvos kunigaikščiai^146.
-  citata_rodoma: "Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­\nčių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo\nžemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­\ndė Lietuvos kunigaikščiai^146."
+  citata_rodoma: |
+    Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
+    čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
+    žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
+    dė Lietuvos kunigaikščiai^146.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -92,7 +92,11 @@ T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus 
     ostrzu 2 i cwierc, miąžszosč przy dziurce jeden i avierč
     cali, dziurka z jedney strony 9, z dnigiey 7 linij ma w
     šrednicy, wnętrze jej do poloni wygladzone) (PE.
-  citata_rodoma: "Vėliau T. Narbutas šią informaciją įdėjo į vadina­\nmuosius „Mažesniuosius istorijos raštus“ (Pomniej-\nsze pisma historyczne szczegolnie do historyi Lit-\nwy odnoszące się. -  Wilno, 1852. -  S. 222-224)."
+  citata_rodoma: |
+    Vėliau T. Narbutas šią informaciją įdėjo į vadina­
+    muosius „Mažesniuosius istorijos raštus“ (Pomniej-
+    sze pisma historyczne szczegolnie do historyi Lit-
+    wy odnoszące się. -  Wilno, 1852. -  S. 222-224).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

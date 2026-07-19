@@ -86,7 +86,10 @@ Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, mag
     klaidžiusių po Atilos sūnų žlugimo. Nebūtina dėstyti
     žinomų istorinių dalykų apie pečenegus, nes tai nesusiję
     su mūsų tema.
-  citata_rodoma: "Kromeris poloviečius vadina gotais\n(De situ, populis, moribus, magistratibus... P. 483). Si nuomonė ne­\ngali būti visai nepagrįsta."
+  citata_rodoma: |
+    Kromeris poloviečius vadina gotais
+    (De situ, populis, moribus, magistratibus... P. 483). Si nuomonė ne­
+    gali būti visai nepagrįsta.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

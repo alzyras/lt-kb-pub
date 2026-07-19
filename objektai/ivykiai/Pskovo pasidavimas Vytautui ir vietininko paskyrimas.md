@@ -130,7 +130,18 @@ Nenurodyta
     Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
     žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
     gelis karių dėl tų duobių labai nukentėjo.
-  citata_rodoma: "Sekančiais metais didysis kunigaikštis Vytautas išsi­\nrengė prieš Pskovo miestą5  ir paėmė Pskovo miestus \nVeližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą."
+  citata_rodoma: |
+    Sekančiais metais didysis kunigaikštis Vytautas išsi­
+    rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus
+    Veližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

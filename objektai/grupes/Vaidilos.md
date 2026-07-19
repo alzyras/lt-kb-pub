@@ -138,7 +138,12 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
     klaidą, cituodamas tą maldelę, kurią grynai lietuviškai reiktų
     taip rašyti: Perkūne Dewajte, ne muszk und mana: Tiewe, mel-
     dzio tawipaltu messu.
-  citata_rodoma: "Kai su­\nšaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;\nvaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba\npinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis\nmosikuodavo raudona vėliavėle ir kažką į juos numesdavo..."
+  citata_rodoma: |
+    Kai su­
+    šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
+    vaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba
+    pinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis
+    mosikuodavo raudona vėliavėle ir kažką į juos numesdavo...
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -162,7 +167,20 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
     drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
     pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
     rūs“. Mes gi apie tai nieko negalime pasakyti*.
-  citata_rodoma: "360\n\n## Puslapis 360\n\nžįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­\ntojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino\nneišdildomą jų bruožą gerbti žmogaus gyvybe. Ar būtų galima\nįsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie\nbūsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­\nvengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad\npo mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­\nles; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms\nvėlėms padarytą skriaudą?"
+  citata_rodoma: |
+    360
+
+    ## Puslapis 360
+
+    žįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­
+    tojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino
+    neišdildomą jų bruožą gerbti žmogaus gyvybe. Ar būtų galima
+    įsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie
+    būsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­
+    vengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad
+    po mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­
+    les; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms
+    vėlėms padarytą skriaudą?
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

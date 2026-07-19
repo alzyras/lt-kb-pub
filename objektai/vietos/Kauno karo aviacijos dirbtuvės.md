@@ -67,7 +67,9 @@ media_all_json: |-
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
     jos dirbtuvėse.
-  citata_rodoma: "66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-\njos dirbtuvėse."
+  citata_rodoma: |
+    66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
+    jos dirbtuvėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

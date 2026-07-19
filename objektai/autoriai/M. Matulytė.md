@@ -67,7 +67,8 @@ Matulytė.
     Vilnius, 2010; Vilniaus
     fotografija, 1858–1915. Sud. M. Matulytė. Vilnius, 2001; Vilniaus klasicizmas: parodos
     katalogas.
-  citata_rodoma: "fotografija, 1858–1915. Sud. M. Matulytė. Vilnius, 2001;"
+  citata_rodoma: |
+    fotografija, 1858–1915. Sud. M. Matulytė. Vilnius, 2001;
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

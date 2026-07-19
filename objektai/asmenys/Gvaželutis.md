@@ -99,7 +99,17 @@ Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios 
     kytas pusdieviu. Padavimas apie jį paimtas iš liaudies. Tai bu­
     vo nepaprastas žmogus: praeitį žinojo, dabartį suprato, ateitį
     įspėdavo.
-  citata_rodoma: "214\n\n## Puslapis 214\n\njant Trobiaus sūnui vienuoliui Laurui, Vytenis, išrinktas Lie­\ntuvos didžiuoju kunigaikščiu, mirė 1315 metais, kelyje buvo\nnutrenktas perkūno. Jis turėjo tris žmonas, kurios viena po\nkitos mirė; iš pirmosios 1257 metais gimė Gediminas, iš ant­\nrosios 1295 metais -  Gvaželutis ir 1296 metais -  Vainius. Tre­\nčioji paliko bevaikė."
+  citata_rodoma: |
+    214
+
+    ## Puslapis 214
+
+    jant Trobiaus sūnui vienuoliui Laurui, Vytenis, išrinktas Lie­
+    tuvos didžiuoju kunigaikščiu, mirė 1315 metais, kelyje buvo
+    nutrenktas perkūno. Jis turėjo tris žmonas, kurios viena po
+    kitos mirė; iš pirmosios 1257 metais gimė Gediminas, iš ant­
+    rosios 1295 metais -  Gvaželutis ir 1296 metais -  Vainius. Tre­
+    čioji paliko bevaikė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

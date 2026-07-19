@@ -82,7 +82,8 @@ Nenurodyta
     tetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
     ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
     problemai.
-  citata_rodoma: "ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių"
+  citata_rodoma: |
+    ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

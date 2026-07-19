@@ -130,7 +130,12 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
     Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
     Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
     Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
-  citata_rodoma: "XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė\nMikalojus iš Jerošino. Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo\n(1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė\njau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos\nžemės kronikoje“ nemaža detalių pakeista arba pridėta79."
+  citata_rodoma: |
+    XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
+    Mikalojus iš Jerošino. Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
+    (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
+    jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
+    žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

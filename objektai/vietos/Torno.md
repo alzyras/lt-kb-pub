@@ -175,7 +175,12 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     kariuomenei.
     Taip maždaug atrodo Vytauto žemės ūkis ir jam mokami
     mokesčiai.
-  citata_rodoma: "Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­\nvo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti\nkariuomenei.\nTaip maždaug atrodo Vytauto žemės ūkis ir jam mokami\nmokesčiai."
+  citata_rodoma: |
+    Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­
+    vo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti
+    kariuomenei.
+    Taip maždaug atrodo Vytauto žemės ūkis ir jam mokami
+    mokesčiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -196,7 +201,11 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
     prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
     aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
-  citata_rodoma: "Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties\n(1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio\nprekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,\naišku, kad nuoširdžių santykių su Vytautu negalėjo būti."
+  citata_rodoma: |
+    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
+    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
+    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
+    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

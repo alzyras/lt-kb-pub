@@ -154,7 +154,15 @@ Nenurodyta
     tai. Raginami sarmatų puolimų, kėlusių visiško išnaikini­
     mo pavojų, kuriam pasipriešinti nepajėgė, jie paliko der­
     lingus Ukrainos kraštus ir iškeliavo vakarų link.
-  citata_rodoma: "Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­\ntai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti\nj dešiniosios Dono pakrantės Skitiją, jog tuos kraštus\npradėta vadinti europine Sarmatija; tai ir turėjo būti svar­\nbiausia priežastis, kuri privertė gelonus ir ¡budinus palikti\nsavo prie Dono buvusias valdas1. Būtent šios sarmatų-\nalanų .revoliucijos lėmė didelius šios epochos pokyčius\nEuropos rytuose."
+  citata_rodoma: |
+    Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­
+    tai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti
+    j dešiniosios Dono pakrantės Skitiją, jog tuos kraštus
+    pradėta vadinti europine Sarmatija; tai ir turėjo būti svar­
+    biausia priežastis, kuri privertė gelonus ir ¡budinus palikti
+    savo prie Dono buvusias valdas1. Būtent šios sarmatų-
+    alanų .revoliucijos lėmė didelius šios epochos pokyčius
+    Europos rytuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

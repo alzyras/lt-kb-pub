@@ -91,7 +91,13 @@ Nenurodyta
     ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
     Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
     vojingiausias.
-  citata_rodoma: "Autoritarinis ramaus publicisto ir kalbėtojo A. Smetonos režimas ne-\ntenkino dešiniojo sparno tautininkų, kuriems imponavo Italijos fašizmas \nir energingesnis lyderis. Kariuomenėje įtakingi nacionalistai voldemari-\nninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen. \nPetro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-\nvojingiausias."
+  citata_rodoma: |
+    Autoritarinis ramaus publicisto ir kalbėtojo A. Smetonos režimas ne-
+    tenkino dešiniojo sparno tautininkų, kuriems imponavo Italijos fašizmas
+    ir energingesnis lyderis. Kariuomenėje įtakingi nacionalistai voldemari-
+    ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
+    Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
+    vojingiausias.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

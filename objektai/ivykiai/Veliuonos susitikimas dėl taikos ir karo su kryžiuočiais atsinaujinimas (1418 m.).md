@@ -151,7 +151,22 @@ Nenurodyta
     įsteigia
     Ž e ­
     m aičių v y s k u p y s tę
-  citata_rodoma: "Sugrįžti nuo tikėjimo reikalų prie vals­\ntybės rūpesčių paragino Vytautą tai, kad netrukus turė­\njo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­\nprendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai\npasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,\nąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai\natmetė vieną po kitos visas\n1418 m e ta i\nsiūlomas taikos sąlygas, pasi-\nS u sitik im a s d ė l tai-\npūtėliškai reikalaudami visos\nk o s  a tn eša  k a rą\nŽemaitijos, susitikimas neat­\nnešė jokios naudos, ir netru­\nkus kryžiuočiai iš pasalų pradėjo atvirą karą."
+  citata_rodoma: |
+    Sugrįžti nuo tikėjimo reikalų prie vals­
+    tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
+    jo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­
+    prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai
+    pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,
+    ąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai
+    atmetė vieną po kitos visas
+    1418 m e ta i
+    siūlomas taikos sąlygas, pasi-
+    S u sitik im a s d ė l tai-
+    pūtėliškai reikalaudami visos
+    k o s  a tn eša  k a rą
+    Žemaitijos, susitikimas neat­
+    nešė jokios naudos, ir netru­
+    kus kryžiuočiai iš pasalų pradėjo atvirą karą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

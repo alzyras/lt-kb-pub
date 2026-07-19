@@ -81,7 +81,11 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
     teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
     kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
     je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (?
-  citata_rodoma: "Rungis (Rungis)\nMalūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­\ndų ir malant pripila. Sako, kad gyvena pas savo garbintojus,\npasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių ."
+  citata_rodoma: |
+    Rungis (Rungis)
+    Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
+    dų ir malant pripila. Sako, kad gyvena pas savo garbintojus,
+    pasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

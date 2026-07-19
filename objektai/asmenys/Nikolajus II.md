@@ -75,7 +75,8 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
     pažadėjo pripažinti pagrindines demokratines laisves ir organizuoti Vals-
     tybės Dūmos – parlamento – rinkimus, lietuvių veikėjai sumanė Vilniuje
     legaliai sušaukti didelį lietuvių iš visų Lietuvos vietovių suvažiavimą.
-  citata_rodoma: "kylančios revoliucijos bangos visoje Rusijoje, išleido manifestą, kuriame"
+  citata_rodoma: |
+    kylančios revoliucijos bangos visoje Rusijoje, išleido manifestą, kuriame
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

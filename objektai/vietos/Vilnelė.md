@@ -498,7 +498,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     Kitose vietose, kaip man pasakojo, tokias vandenų gundy­
     tojas paprasti žmonės vadina undinėmis (Ondynami) arba van­
     denėmis (Wundynami), o tai žodžio nimfa vertimas.
-  citata_rodoma: "Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­\njimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­\nniui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­\nja, kurią seniau vadino Nerimi."
+  citata_rodoma: |
+    Iš to žodžio paimtas pa­
+    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
+    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
+    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
+    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
+    ja, kurią seniau vadino Nerimi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -523,7 +529,19 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     [Vyskupo seminarijos fundacija iš
     vyskupo stalo dvaro, vadinamo
     Vozgėliškėmis [Vaisgėliškis].
-  citata_rodoma: "Pagaliau čia, Vilniuje, \nšis didis karalius, nenuilstamai rūpindamasis krašto saugu­\nmu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­\ngai bausdavo išdavikus ir apdovanodavo doruosius bei nu­\nsipelniusius. Vilniaus turguje 1580 metų birželio 18 dieną \nbuvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­\nvystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 \nmetais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, \npastačius apvalaus bokšto pavidalo paminklą, išlikusį iki\n[Vyskupo seminarijos fundacija iš \nvyskupo stalo dvaro, vadinamo \nVozgėliškėmis [Vaisgėliškis]."
+  citata_rodoma: |
+    Pagaliau čia, Vilniuje,
+    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
+    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
+    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
+    sipelniusius. Vilniaus turguje 1580 metų birželio 18 dieną
+    buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­
+    vystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
+    metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
+    pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki
+    [Vyskupo seminarijos fundacija iš
+    vyskupo stalo dvaro, vadinamo
+    Vozgėliškėmis [Vaisgėliškis].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -562,7 +580,28 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     dintą Jeruzalimu, Paplaujoje. Ponia
     Vitebsko vaivadienė turėjo gerą sko­
     nį ir gyveno žavingoje vietoje.
-  citata_rodoma: "Iš tos versmės ištekantis upelis vadi­\nnosi Druja, nes yra miesto archyve ka­\nraliaus Žygimanto Augusto laiškas, \nrašytas rusų kalba iš Liublino, datuo­\ntas 1538 metų rugsėjo 1 dieną, su \nLietuvos antspaudu ir raštininko Os- \ntafiejaus [Eustachijaus] parašu, įspė­\njantis ponią Kiščiną, Vitebsko vaiva- \ndienę, kad nestabdytų vandens, \nvamzdžiais nuvesto į miestą, iš Dru­\njos upės Paplaujoje, tekančios netoli \nZiupronių kelio, nes tam yra kara­\nliaus leidimas, kurį ji privalanti gerb­\nti. Toji Kiščina valdė Markučius ir ant \nkalno prie Vilnelės turėjo didelius \nkaimo stiliaus namus, - prie kelio, iš­\neinančio iš daubos ir vedančio iš da­\nbartinio Markučių dvaro į namelį, va­\ndintą Jeruzalimu, Paplaujoje. Ponia \nVitebsko vaivadienė turėjo gerą sko­\nnį ir gyveno žavingoje vietoje."
+  citata_rodoma: |
+    Iš tos versmės ištekantis upelis vadi­
+    nosi Druja, nes yra miesto archyve ka­
+    raliaus Žygimanto Augusto laiškas,
+    rašytas rusų kalba iš Liublino, datuo­
+    tas 1538 metų rugsėjo 1 dieną, su
+    Lietuvos antspaudu ir raštininko Os-
+    tafiejaus [Eustachijaus] parašu, įspė­
+    jantis ponią Kiščiną, Vitebsko vaiva-
+    dienę, kad nestabdytų vandens,
+    vamzdžiais nuvesto į miestą, iš Dru­
+    jos upės Paplaujoje, tekančios netoli
+    Ziupronių kelio, nes tam yra kara­
+    liaus leidimas, kurį ji privalanti gerb­
+    ti. Toji Kiščina valdė Markučius ir ant
+    kalno prie Vilnelės turėjo didelius
+    kaimo stiliaus namus, - prie kelio, iš­
+    einančio iš daubos ir vedančio iš da­
+    bartinio Markučių dvaro į namelį, va­
+    dintą Jeruzalimu, Paplaujoje. Ponia
+    Vitebsko vaivadienė turėjo gerą sko­
+    nį ir gyveno žavingoje vietoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -588,7 +627,17 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
     siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
     palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
-  citata_rodoma: "Dar \nniūrokas tuomet, bet visais laikais kerintis gražiu krašto­\nvaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku- \nsiems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­\nnų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, \nbuvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­\nta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų \npusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­\nsiausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, \npalei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja."
+  citata_rodoma: |
+    Dar
+    niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
+    vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku-
+    siems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
+    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
+    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
+    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -626,7 +675,30 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
     gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
     šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
-  citata_rodoma: "Man atrodo, kad jei Lietuvo­\nje buvo keletas tokių šventų vieto­\nvių, tai Vilnius būtinai turėjo būti \nviena iš jų, o jeigu buvo tik ta vie­\nnintelė, tad tikriausiai po to smūgio \nPerkūno tikėjimo relikvijos ir Krivių \nKrivaitis su aukotojais iš Romainių \nbuvo perkelti į Vilnių, taigi Vilnius \nXIII amžiaus gale jau galėjo būti tan­\nkiai gvvenama ir svarbi gyvenvietė.\n-  •  -\n19\n\n## Puslapis 36\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nužėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir \nsavo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti \nmūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­\ntinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų \nperkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­\ngaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­\nšius su krikščioniškąja Europa, būtent Lenkija ir Rusia10."
+  citata_rodoma: |
+    Man atrodo, kad jei Lietuvo­
+    je buvo keletas tokių šventų vieto­
+    vių, tai Vilnius būtinai turėjo būti
+    viena iš jų, o jeigu buvo tik ta vie­
+    nintelė, tad tikriausiai po to smūgio
+    Perkūno tikėjimo relikvijos ir Krivių
+    Krivaitis su aukotojais iš Romainių
+    buvo perkelti į Vilnių, taigi Vilnius
+    XIII amžiaus gale jau galėjo būti tan­
+    kiai gvvenama ir svarbi gyvenvietė.
+    -  •  -
+    19
+
+    ## Puslapis 36
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
+    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
+    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
+    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
+    perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
+    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
+    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -652,7 +724,20 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     pusės atitekėjęs Vingrių upokšnis vi­
     siškai greta Vilnios žiočių įtekėjo į Vi­
     liją.
-  citata_rodoma: "Tačiau nėra patikimų\ntam įrodymu.\n4\nVilnia, arba Vilnelė, anuomet, atite­\nkėjusi iš už Plikojo kalno, bėgo pro \nPilies [gatvę], per senuosius roki tų \nmūrus, palei Pilies vartus, paskui per \nmažąjį turgų ir, apsukusi lankstu pi­\nlies teritoriją, už dabartinės katedros \nįtekėjo į Viliją. Iš priešingos, vakarų, \npusės atitekėjęs Vingrių upokšnis vi­\nsiškai greta Vilnios žiočių įtekėjo į Vi­\nliją."
+  citata_rodoma: |
+    Tačiau nėra patikimų
+    tam įrodymu.
+    4
+    Vilnia, arba Vilnelė, anuomet, atite­
+    kėjusi iš už Plikojo kalno, bėgo pro
+    Pilies [gatvę], per senuosius roki tų
+    mūrus, palei Pilies vartus, paskui per
+    mažąjį turgų ir, apsukusi lankstu pi­
+    lies teritoriją, už dabartinės katedros
+    įtekėjo į Viliją. Iš priešingos, vakarų,
+    pusės atitekėjęs Vingrių upokšnis vi­
+    siškai greta Vilnios žiočių įtekėjo į Vi­
+    liją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -678,7 +763,18 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­
     dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę
     nutiesti tiltą iš akmenų arba plytų.
-  citata_rodoma: "Malūnas, iki mūsų laikų vadin­\ntas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius \n1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui \nir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­\nmis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­\nlių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir \nžemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus \nmalūnas. Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­\ntautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­\ndimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę \nnutiesti tiltą iš akmenų arba plytų."
+  citata_rodoma: |
+    Malūnas, iki mūsų laikų vadin­
+    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
+    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
+    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
+    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
+    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
+    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
+    malūnas. Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
+    tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­
+    dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę
+    nutiesti tiltą iš akmenų arba plytų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -715,7 +811,30 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     nių žmonių sklinda padavimas, esą
     senovės laikais iš ten eidavę į Vilnių
     kalnų kasti.
-  citata_rodoma: "Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­\nkonams ir dominikonams, prie Vilniaus pilies pastatydino \njiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, \nleido naujai įkurtame mieste apsigyventi gausiems atėjū­\nnams iš Vokietijos ir Lenkijos\n9\nManome, kad Pilies kalnas senų se­\nnovėje buvo gerokai mažesnė kalva, \nužbaigianti virtinę kalnų, juosiančių \nVilnelės vorupę, kuri seniau toje mi­\nnėtosios kalvos pusėje įtekėjo į Vili­\nją. Gediminas, statydindamas pilį \nkaro belaisvių iš Rusios rankomis, \niškasęs Vilnelei kitą vagą, kurią da­\nbar matome, ten išraustomis žemė­\nmis paaukštino paskuoją pilies kal­\nvą ir gal ją iš karto visai vandeniu \nužtvindė, juk anuomet visas lietuvių \npilis buvo stengiamasi apsupti van­\ndeniu. Iki šiol Palenkėję tarp vieti­\nnių žmonių sklinda padavimas, esą \nsenovės laikais iš ten eidavę į Vilnių \nkalnų kasti."
+  citata_rodoma: |
+    Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
+    konams ir dominikonams, prie Vilniaus pilies pastatydino
+    jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai,
+    leido naujai įkurtame mieste apsigyventi gausiems atėjū­
+    nams iš Vokietijos ir Lenkijos
+    9
+    Manome, kad Pilies kalnas senų se­
+    novėje buvo gerokai mažesnė kalva,
+    užbaigianti virtinę kalnų, juosiančių
+    Vilnelės vorupę, kuri seniau toje mi­
+    nėtosios kalvos pusėje įtekėjo į Vili­
+    ją. Gediminas, statydindamas pilį
+    karo belaisvių iš Rusios rankomis,
+    iškasęs Vilnelei kitą vagą, kurią da­
+    bar matome, ten išraustomis žemė­
+    mis paaukštino paskuoją pilies kal­
+    vą ir gal ją iš karto visai vandeniu
+    užtvindė, juk anuomet visas lietuvių
+    pilis buvo stengiamasi apsupti van­
+    deniu. Iki šiol Palenkėję tarp vieti­
+    nių žmonių sklinda padavimas, esą
+    senovės laikais iš ten eidavę į Vilnių
+    kalnų kasti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -740,7 +859,19 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     surašytos klausantis jų skaldų, bei
     šiaurės kronikos byloja ne apie vie­
     ną tokį žygį.
-  citata_rodoma: "Tuo metu poreikis turėti savą gynybą ir per ne­\npaliaujamus karus pažintis su kaimyninėmis šalimis, jau at- \nsikračiusiomis netašyto barbariškumo, davė pradžią rastis \nLietuvos žemėje medinėms pilims ir tvirtovėms.\nVietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­\nliautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­\nsėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­\nje padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių \nsantakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos\nsurašytos klausantis jų skaldų, bei \nšiaurės kronikos byloja ne apie vie­\nną tokį žygį."
+  citata_rodoma: |
+    Tuo metu poreikis turėti savą gynybą ir per ne­
+    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
+    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
+    Lietuvos žemėje medinėms pilims ir tvirtovėms.
+    Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
+    liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
+    sėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­
+    je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
+    santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos
+    surašytos klausantis jų skaldų, bei
+    šiaurės kronikos byloja ne apie vie­
+    ną tokį žygį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -761,7 +892,15 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     dėtas staugimas «geležinio vilko », «lyg jame butų staugę šimtas
     vilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris
     pasieksiąs didelio garso.
-  citata_rodoma: "Gražia legenda yra apipintas Vilniuje valstybės sostinės\nįkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­\ntakoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje\n(kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­\njėgęs tik vyriausias žynys Lizdeika išaiškinti. Valdovo sapne gir­\ndėtas staugimas «geležinio vilko », «lyg jame butų staugę šimtas\nvilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris\npasieksiąs didelio garso."
+  citata_rodoma: |
+    Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
+    takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
+    (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
+    jėgęs tik vyriausias žynys Lizdeika išaiškinti. Valdovo sapne gir­
+    dėtas staugimas «geležinio vilko », «lyg jame butų staugę šimtas
+    vilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris
+    pasieksiąs didelio garso.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -789,7 +928,22 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
     išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios
     palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
-  citata_rodoma: "17\n\n## Puslapis 34\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nVilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono \nsostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami \npuolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse \nįkurdavo savo valdžios buveines. Bet labai tikėtina, kad nuo \nseno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­\nkariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, \nsupančių Vilnios srovę, būta medinės tvirtovės6. Čia buvo \npirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten \nišaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios \npalei krantą pažemiais tęsėsi trobelės iki pat Vilijos."
+  citata_rodoma: |
+    17
+
+    ## Puslapis 34
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono
+    sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami
+    puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse
+    įkurdavo savo valdžios buveines. Bet labai tikėtina, kad nuo
+    seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­
+    kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų,
+    supančių Vilnios srovę, būta medinės tvirtovės6. Čia buvo
+    pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
+    išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios
+    palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -828,7 +982,33 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
-  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų."
+  citata_rodoma: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -858,7 +1038,23 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     vendintas, ką liudija tokios tankiai gyvenamos vietovės ir
     pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
     mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
-  citata_rodoma: "Taigi ta vietovė, žinia, jei ji buvo parinkta to­\nkiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­\nta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne \nnuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, \nį aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti \nprie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus \nlydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­\nliau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­\nje, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­\nvinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės, \nkrantus nusidriekusią ir medinės pilies saugomą. Pagaliau \nvisas tas aplinkinis kraštas, kuriame yra Vilnius, kaip nuo \nRusios sienų netoli esantis, jau labai seniai turėjo būti apgy­\nvendintas, ką liudija tokios tankiai gyvenamos vietovės ir \npilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į \nmūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 ."
+  citata_rodoma: |
+    Taigi ta vietovė, žinia, jei ji buvo parinkta to­
+    kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
+    ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne
+    nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,
+    į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti
+    prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus
+    lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­
+    liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­
+    je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­
+    vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
+    krantus nusidriekusią ir medinės pilies saugomą. Pagaliau
+    visas tas aplinkinis kraštas, kuriame yra Vilnius, kaip nuo
+    Rusios sienų netoli esantis, jau labai seniai turėjo būti apgy­
+    vendintas, ką liudija tokios tankiai gyvenamos vietovės ir
+    pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
+    mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -880,7 +1076,16 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
     čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
     vaikams visiems laikams.
-  citata_rodoma: "PATS ALEKSANDRAS,\nDIEVO MALONE DIDYSIS LIETUVOS, \nRUSIOS, ŽEMAIČIŲ IR KITŲ \nKUNIGAIKŠTIS\nVilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­\nvilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi- \nčiui šienaujamą pievą palei tavo malūną prie kelio, vedan­\nčio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo \nvaikams visiems laikams."
+  citata_rodoma: |
+    PATS ALEKSANDRAS,
+    DIEVO MALONE DIDYSIS LIETUVOS,
+    RUSIOS, ŽEMAIČIŲ IR KITŲ
+    KUNIGAIKŠTIS
+    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
+    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
+    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
+    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
+    vaikams visiems laikams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -904,7 +1109,16 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
     didžiai garbinama lietuvių. Čia pat medinė šventykla, prie
     kurios šliejosi pagonių vaidilų būstai.
-  citata_rodoma: "O pilies kalno pietų \npusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­\nsiausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, \npalei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­\nmingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­\ntis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų \nsenovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, \ndidžiai garbinama lietuvių. Čia pat medinė šventykla, prie \nkurios šliejosi pagonių vaidilų būstai."
+  citata_rodoma: |
+    O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­
+    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
+    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
+    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
+    didžiai garbinama lietuvių. Čia pat medinė šventykla, prie
+    kurios šliejosi pagonių vaidilų būstai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

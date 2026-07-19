@@ -138,7 +138,13 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
     rėmėjas, J. Zaberezinskio ir jo šalininkų politinis priešininkas.
     4T Iš Jono Zaberezinskio buvo atimta n e tik Trakų vaivados,
     bet laikinai ir krašto maršalo vieta.
-  citata_rodoma: "BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais, \npradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m. \nKrymo totoriai tenkinosi pietinių LDK sričių — Podolės ir Voly­\nnės — niokojimu, o  nuo 1502 m. persim etė | šiaurę nuo Pripetės \npelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­\nduko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą."
+  citata_rodoma: |
+    BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais,
+    pradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m.
+    Krymo totoriai tenkinosi pietinių LDK sričių — Podolės ir Voly­
+    nės — niokojimu, o  nuo 1502 m. persim etė | šiaurę nuo Pripetės
+    pelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­
+    duko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -162,7 +168,18 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
     III) nebūtų sudaręs prieš Lietuvą sąjungos su Krymo chanato
     piktais totoriais, kurie nuo 1478 m. dar pasidarė ir Turkijos va­
     salais.
-  citata_rodoma: "Vytauto pasirodymas Dniepro žemupio plotuose, užvaldymas\nanos klajoklių bei nomadų tautų (vengrų, pečeniegų, chazarų, po­\nlovcų-kumanų, pagaliau mongolų-totorių), viena po kitos šimtmečių\nbėgyje teriotos ar laikinai apgyventos stepės, turėjo atnešti čia\npastovesnius santykius. Vytauto «arklių girdymas» Juodojoje\njūroje ilgai pasiliko žmonių atminime. Gal būtų dar ir Kazimierui\nJogailaičiui pasisekę pastoviau išlaikyti energingojo dėdės laimėji­\nmus prie Juodosios jūros, jeigu didysis Maskvos kunigaikštis (Jonas\nIII) nebūtų sudaręs prieš Lietuvą sąjungos su Krymo chanato\npiktais totoriais, kurie nuo 1478 m. dar pasidarė ir Turkijos va­\nsalais."
+  citata_rodoma: |
+    Vytauto pasirodymas Dniepro žemupio plotuose, užvaldymas
+    anos klajoklių bei nomadų tautų (vengrų, pečeniegų, chazarų, po­
+    lovcų-kumanų, pagaliau mongolų-totorių), viena po kitos šimtmečių
+    bėgyje teriotos ar laikinai apgyventos stepės, turėjo atnešti čia
+    pastovesnius santykius. Vytauto «arklių girdymas» Juodojoje
+    jūroje ilgai pasiliko žmonių atminime. Gal būtų dar ir Kazimierui
+    Jogailaičiui pasisekę pastoviau išlaikyti energingojo dėdės laimėji­
+    mus prie Juodosios jūros, jeigu didysis Maskvos kunigaikštis (Jonas
+    III) nebūtų sudaręs prieš Lietuvą sąjungos su Krymo chanato
+    piktais totoriais, kurie nuo 1478 m. dar pasidarė ir Turkijos va­
+    salais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -186,7 +203,11 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
     poravimą į Lenkijos karalyste ir paskelbė karą ordinui 1454.111.6.
     o karalius Kazimieras pirmą kartą atvyko j Prūsijos teiitoriją (To-
     runęl tik V.23.
-  citata_rodoma: "44, past. 9.\n33 Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne \nPerekopas. o Solchatas (Senasis Krymas) prie Kafos (dabartinės \nFeodosijos)."
+  citata_rodoma: |
+    44, past. 9.
+    33 Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne
+    Perekopas. o Solchatas (Senasis Krymas) prie Kafos (dabartinės
+    Feodosijos).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

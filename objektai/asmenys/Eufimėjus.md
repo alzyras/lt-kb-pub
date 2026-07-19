@@ -67,7 +67,14 @@ Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui 
     čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
     tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
     se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas.
-  citata_rodoma: "Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­\ntriarchui Eufimėjui pristatė Polocko vysk. Teodozijų, kaipo kan­\ndidatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo\npainformavę apie Vytauto sumanymus atitraukti Lietuvos sta­\nčiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­\ntuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­\nse kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas."
+  citata_rodoma: |
+    Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­
+    triarchui Eufimėjui pristatė Polocko vysk. Teodozijų, kaipo kan­
+    didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo
+    painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­
+    čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
+    tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
+    se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

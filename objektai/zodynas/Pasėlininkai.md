@@ -66,7 +66,8 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Viršiau minavojau, jog vaikai ilgai prie tėvų buvo ir vėlai pačią tevedė; vieni tarp jų vadinos pasėlininkais^1037 , kiti auglininkais^1038 , kurie, dar prie tėvų bebūdami, netoli nuo tėvo kiemo sau namus įkūrė ir dirvas pataisė, tai tokie kiemai, kaip strazdai po girią ištupyti aplink tėvo namus, vadinos taip pat nuo tėvo vardo Mitkaičiai, Rumšaičiai, beje: Mitkaus vaikai, Rumšos vaikai.
-  citata_rodoma: "Viršiau minavojau, jog vaikai ilgai prie tėvų buvo ir vėlai pačią tevedė; vieni tarp jų vadinos pasėlininkais^1037 , kiti auglininkais^1038 , kurie, dar prie tėvų bebūdami, netoli nuo tėvo kiemo sau namus įkūrė ir dirvas pataisė, tai tokie kiemai, kaip strazdai po girią ištupyti aplink tėvo namus, vadinos taip pat nuo tėvo vardo Mitkaičiai, Rumšaičiai, beje: Mitkaus vaikai, Rumšos vaikai."
+  citata_rodoma: |
+    Viršiau minavojau, jog vaikai ilgai prie tėvų buvo ir vėlai pačią tevedė; vieni tarp jų vadinos pasėlininkais^1037 , kiti auglininkais^1038 , kurie, dar prie tėvų bebūdami, netoli nuo tėvo kiemo sau namus įkūrė ir dirvas pataisė, tai tokie kiemai, kaip strazdai po girią ištupyti aplink tėvo namus, vadinos taip pat nuo tėvo vardo Mitkaičiai, Rumšaičiai, beje: Mitkaus vaikai, Rumšos vaikai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

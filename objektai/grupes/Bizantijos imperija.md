@@ -62,7 +62,9 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
     ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.
     Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
     rėjo nuolatinį upių susisiekimą su Bizantija.
-  citata_rodoma: "Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-\nrėjo nuolatinį upių susisiekimą su Bizantija."
+  citata_rodoma: |
+    Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
+    rėjo nuolatinį upių susisiekimą su Bizantija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

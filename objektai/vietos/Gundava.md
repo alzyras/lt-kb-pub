@@ -76,7 +76,9 @@ Dusburgietis teigia, kad 336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kai
     Saracėnas341, gimęs Švabijoje; dar būdamas pasaulietis, jis taip karštai pamilo
     švenčiausiąją mergelę Mariją, kad niekada niekam nieko neatsakydavo, jos vardu ko
     paprašytas.
-  citata_rodoma: "336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,\nAuglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p."
+  citata_rodoma: |
+    336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,
+    Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

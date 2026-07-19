@@ -164,7 +164,15 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
     Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
     žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
     visiems žinomi karo papročiai.
-  citata_rodoma: "Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­\n                                         nių\n\n  1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis\nkariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo\nprie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių\n\n  342 Krašto magistras buvo nuo 1259 m."
+  citata_rodoma: |
+    Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
+                                             nių
+
+      1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis
+    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
+    prie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių
+
+      342 Krašto magistras buvo nuo 1259 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

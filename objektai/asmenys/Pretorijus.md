@@ -267,7 +267,15 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
     žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
     tvarką (pas Hartknochą, p. 149):
     1.
-  citata_rodoma: "Vadinasi, šito pavadinimo etimolo­\ngija dar neištirta.\nPretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais."
+  citata_rodoma: |
+    Vadinasi, šito pavadinimo etimolo­
+    gija dar neištirta.
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -295,7 +303,14 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
+  citata_rodoma: |
+    Daugeliu požiūrių
+    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
+    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
+    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
+    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -383,7 +398,15 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
     jog ne vienai senovės prūsų kartai tenka garbė už tai,
     1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
     \Warrejas.
-  citata_rodoma: "Tai, žinoma, vien panašumai, kuriuos\npastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,\njog prūsai ir rusai iš pradžių priklausė vienai genčiai;\nvariagų vardą jis kildina iš grynai prūsiško žodžio Wa-\nrejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį\nduoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,\njog 859 metais variagai paskyrė kailių duoklę, be kitų, ir\nkrivičiams."
+  citata_rodoma: |
+    Tai, žinoma, vien panašumai, kuriuos
+    pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
+    jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
+    variagų vardą jis kildina iš grynai prūsiško žodžio Wa-
+    rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį
+    duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
+    jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
+    krivičiams.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -406,7 +429,18 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
     siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
     kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
     Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-  citata_rodoma: "Ne Sarkės, o Šar­\nkučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­\ndos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-\nkutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­\nsiausia šios provincijos tvirtovė buvo Sasava, stovėjusi\nkažkokios upės pakrantėje, bet tai tiksliai nenustatyta.\nPretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­\n\n## Puslapis 370\n\ndos turėjo būti vadinama Cyse arba Sussa."
+  citata_rodoma: |
+    Ne Sarkės, o Šar­
+    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
+    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
+    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
+    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
+    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
+    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
+
+    ## Puslapis 370
+
+    dos turėjo būti vadinama Cyse arba Sussa.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -429,7 +463,19 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
     nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
     nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
     tinanti kūdikį.
-  citata_rodoma: "Latviuose tai buvo žynys ir pranašautojas. Paimdavo į\nsaują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31\nVėjininkai (Wejones)\n31\nŠias penkias pranašautojų rūšis pateikia Pretorijus, remdama­\nsis savais pastebėjimais, ką buvo matęs savo akimis.\n299\n\n## Puslapis 299\n\nteliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­\nlykus, ypač apie pamestus daiktus."
+  citata_rodoma: |
+    Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
+    saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
+    Vėjininkai (Wejones)
+    31
+    Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama­
+    sis savais pastebėjimais, ką buvo matęs savo akimis.
+    299
+
+    ## Puslapis 299
+
+    teliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­
+    lykus, ypač apie pamestus daiktus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

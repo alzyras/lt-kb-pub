@@ -159,7 +159,15 @@ Nenurodyta
     panaikinto 1795 m., atkūrimas), pagaliau 1990 m. Kovo 11-osios
     Lietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-
     vietų imperijos, ir pradėjusią suverenitetų paradą.
-  citata_rodoma: "Visus\nšiuos tris kartus minime per nacionalines šventes ir kalbame apie\nLiepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas\nMindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką\n(1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,\npanaikinto 1795 m., atkūrimas), pagaliau 1990 m. Kovo 11-osios\nLietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-\nvietų imperijos, ir pradėjusią suverenitetų paradą."
+  citata_rodoma: |
+    Visus
+    šiuos tris kartus minime per nacionalines šventes ir kalbame apie
+    Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas
+    Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
+    (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
+    panaikinto 1795 m., atkūrimas), pagaliau 1990 m. Kovo 11-osios
+    Lietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-
+    vietų imperijos, ir pradėjusią suverenitetų paradą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -184,7 +192,15 @@ Nenurodyta
     Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
     (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
     panaikinto 1795 m., atkūrimas), pagaliau 1990 m.
-  citata_rodoma: "Tačiau svar-\nbiausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė\nbuvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus\nšiuos tris kartus minime per nacionalines šventes ir kalbame apie\nLiepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas\nMindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką\n(1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,\npanaikinto 1795 m."
+  citata_rodoma: |
+    Tačiau svar-
+    biausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė
+    buvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus
+    šiuos tris kartus minime per nacionalines šventes ir kalbame apie
+    Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas
+    Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
+    (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
+    panaikinto 1795 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

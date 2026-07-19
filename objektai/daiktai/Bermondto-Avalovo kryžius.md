@@ -77,7 +77,11 @@ Nenurodyta
     http://shopuuu.ru/images/item. pics/krestzapdobrarmiifrach-o.jpg
 
     p. 190, Lenkijos kariuomenės 1-ojo ulonų pulko krūtininis ženklas, VDKM.
-  citata_rodoma: "p. 190, Bermondto-Avalovo kryžius, teiktas pasižymėjusiems bermontininkams.\nhttp://shopuuu.ru/images/item. pics/krestzapdobrarmiifrach-o.jpg\n\np."
+  citata_rodoma: |
+    p. 190, Bermondto-Avalovo kryžius, teiktas pasižymėjusiems bermontininkams.
+    http://shopuuu.ru/images/item. pics/krestzapdobrarmiifrach-o.jpg
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

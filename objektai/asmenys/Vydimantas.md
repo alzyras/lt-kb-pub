@@ -65,7 +65,13 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
     buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
     giems valdovams buvę nepatogu susirišti giminystės ryšiais su
     savo pavaldiniais.
-  citata_rodoma: "Jo tėvas Kęstutis, nuolatinis\nŽemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo\nŽemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,\nbuvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­\ngiems valdovams buvę nepatogu susirišti giminystės ryšiais su\nsavo pavaldiniais."
+  citata_rodoma: |
+    Jo tėvas Kęstutis, nuolatinis
+    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
+    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
+    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
+    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
+    savo pavaldiniais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

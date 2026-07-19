@@ -139,7 +139,15 @@ Nenurodyta
     o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo
     šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
     išsivedė su savimi.
-  citata_rodoma: "Dėl to jums patariu niekad jiems nesipriešinti, bet\nnuolankiai juos gerbti“. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Tėvui\nmirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo\neiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti\nir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo prieš jo\nNojenburgo pilį401; prūsai nuo vieno Vyslos kranto, o Nojenburgo pilėnai nuo kito užpuolė\npenkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;\ngalop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę."
+  citata_rodoma: |
+    Dėl to jums patariu niekad jiems nesipriešinti, bet
+    nuolankiai juos gerbti“. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Tėvui
+    mirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo
+    eiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti
+    ir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo prieš jo
+    Nojenburgo pilį401; prūsai nuo vieno Vyslos kranto, o Nojenburgo pilėnai nuo kito užpuolė
+    penkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;
+    galop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -162,7 +170,16 @@ Nenurodyta
     taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą
     jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.
     krante žemiau Nogato atsišakojimo.
-  citata_rodoma: "išsivarydami daug žmonių  ir gyvulių. Mstivojus, Pomeranijos kunigaikštis, anksčiau\nnelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,\npaliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą\ntarp jo ir magistro bei brolių taikos susitarimą.\n\n\n\n\n               130 (125)."
+  citata_rodoma: |
+    išsivarydami daug žmonių  ir gyvulių. Mstivojus, Pomeranijos kunigaikštis, anksčiau
+    nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,
+    paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą
+    tarp jo ir magistro bei brolių taikos susitarimą.
+
+
+
+
+                   130 (125).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

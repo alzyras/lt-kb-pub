@@ -95,7 +95,18 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
     čių. Šio ploto centras yra Rogačiovo miestas, kurio apy­
     linkėse plyti nesuskaičiuojama gausybė šių senojo am­
     žiaus paminklų.
-  citata_rodoma: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių. Šio ploto centras yra Rogačiovo miestas, kurio apy­\nlinkėse plyti nesuskaičiuojama gausybė šių senojo am­\nžiaus paminklų."
+  citata_rodoma: |
+    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
+    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
+    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
+    palei senas Rusijos sienas su Lietuvos valstybe, de­
+    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
+    Lietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-
+    žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
+    pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
+    čių. Šio ploto centras yra Rogačiovo miestas, kurio apy­
+    linkėse plyti nesuskaičiuojama gausybė šių senojo am­
+    žiaus paminklų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

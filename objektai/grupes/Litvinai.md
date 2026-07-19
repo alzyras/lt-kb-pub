@@ -84,7 +84,11 @@ Nenurodyta
     tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
     tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
     visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
-  citata_rodoma: "savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -\ntai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -\ntenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems\nvisų pirma ir buvo skirtas Lietuvos istorijos veikalas."
+  citata_rodoma: |
+    savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
+    tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
+    tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
+    visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

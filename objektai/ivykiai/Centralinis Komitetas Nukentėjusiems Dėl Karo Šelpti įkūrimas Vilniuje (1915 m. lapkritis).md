@@ -79,7 +79,13 @@ Nenurodyta
     Mašiotas, A. Janulaitis ir M. Sleževičius. Partijų kovoms nė tuomet
     neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
     rų) nariai iš jo išstojo.
-  citata_rodoma: "Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,\nvicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J.\nKymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta,\nkun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius, kun.\nJezukevičius, D. Malinauskas, J. Balčikonis, A. Žmuidzinavičius, J.\nMašiotas, A. Janulaitis ir M. Sleževičius."
+  citata_rodoma: |
+    Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
+    vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J.
+    Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta,
+    kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius, kun.
+    Jezukevičius, D. Malinauskas, J. Balčikonis, A. Žmuidzinavičius, J.
+    Mašiotas, A. Janulaitis ir M. Sleževičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -69,7 +69,12 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
     bet totoriai juos atmušė. Totoriai, nukirtę
 
     Kablinis šautuvas.
-  citata_rodoma: "Dalis maršal-\nkos Zaberezinskio karių išsiveržė į priekį,\nbet totoriai juos atmušė. Totoriai, nukirtę\n\nKablinis šautuvas."
+  citata_rodoma: |
+    Dalis maršal-
+    kos Zaberezinskio karių išsiveržė į priekį,
+    bet totoriai juos atmušė. Totoriai, nukirtę
+
+    Kablinis šautuvas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

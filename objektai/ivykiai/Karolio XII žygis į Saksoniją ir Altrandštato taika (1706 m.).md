@@ -67,7 +67,8 @@ Nenurodyta
     staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
     pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
     vietoje, Karolis nužygiavo į Saksoniją.
-  citata_rodoma: "Sumanęs suduoti Augustui smūgį skaudžiausioje vietoje, Karolis nužygiavo į Saksoniją."
+  citata_rodoma: |
+    Sumanęs suduoti Augustui smūgį skaudžiausioje vietoje, Karolis nužygiavo į Saksoniją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

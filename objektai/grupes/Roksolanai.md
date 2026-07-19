@@ -170,17 +170,27 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kitaip buvo vadinama Rhoas7, tariama
-    Rhos, Ross, Russ, taip pat ir kalbant apie Volgos pava­
-    dinimą. 1811 metais teko laikyti rankose vokiečių kalba
-    parašytą rankraštį su antrašte „Topografiniai ir statis­
-    tiniai Volgos žemupio ir Astrachanės apylinkių stebėji­
-    mai, inžinieriaus generolo majoro Telkerzamo surinkti jo
-    ilgo buvimo Rusijos imperijos pietryčiuose**** metu.
-    Ten užtikau įvairius šios upės ir jos šakų pavadinimus,
-    sužinotus iš vietos gyventojų, Pakubanės kolonistų ir įvai­
-    1 Majewski.
-  citata_rodoma: "Tai, kad tie asai, arba osetinai, priklauso tai\npačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė\nitalų Rytų senovės tyrinėtojas Ramusio2 3.\n51\nRos-alanai, Seniausia užuomina apie roksolanus, kaip\napie sarmatą padermės tautą, gyvenusią tarp Dnepro ir\nDauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-\nlanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­\ntų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-\nhR."
+    Tai, kad tie asai, arba osetinai, priklauso tai
+    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
+    italų Rytų senovės tyrinėtojas Ramusio2 3.
+    51
+    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
+    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
+    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
+    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
+    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
+    hR.
+  citata_rodoma: |
+    Tai, kad tie asai, arba osetinai, priklauso tai
+    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
+    italų Rytų senovės tyrinėtojas Ramusio2 3.
+    51
+    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
+    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
+    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
+    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
+    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
+    hR.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

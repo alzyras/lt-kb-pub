@@ -102,7 +102,17 @@ Nenurodyta
     tūros istorija, svarbiausias LDK istorijos šaltinis. Atsidūrusi Maskvoje ir
     iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo
     simboliu, senosios Lietuvos valstybės likimo ženklu.
-  citata_rodoma: "Didžiojo kunigaikščio raš-\ntinėje buvo saugomi ir į Lietuvos Metriką pateko ir valstybinio pobūdžio, \nir atskiroms LDK sritims bei miestams skirtos privilegijos, bajorystės pa-\ntvirtinimo, įvairių žemėvaldos sandorių aktai, inventoriai, testamentai, \nteismų sprendimai, vietos ir tarptautinė korespondencija rusėnų, lotynų, \nvokiečių (Prūsijos ir Livonijos), arabų ir čekų kalbomis. Taigi Lietuvos \nMetrikos dokumentai – tai LDK politikos, visuomenės, ūkio, teisės, kul-\ntūros istorija, svarbiausias LDK istorijos šaltinis. Atsidūrusi Maskvoje ir \niki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo \nsimboliu, senosios Lietuvos valstybės likimo ženklu."
+  citata_rodoma: |
+    Didžiojo kunigaikščio raš-
+    tinėje buvo saugomi ir į Lietuvos Metriką pateko ir valstybinio pobūdžio,
+    ir atskiroms LDK sritims bei miestams skirtos privilegijos, bajorystės pa-
+    tvirtinimo, įvairių žemėvaldos sandorių aktai, inventoriai, testamentai,
+    teismų sprendimai, vietos ir tarptautinė korespondencija rusėnų, lotynų,
+    vokiečių (Prūsijos ir Livonijos), arabų ir čekų kalbomis. Taigi Lietuvos
+    Metrikos dokumentai – tai LDK politikos, visuomenės, ūkio, teisės, kul-
+    tūros istorija, svarbiausias LDK istorijos šaltinis. Atsidūrusi Maskvoje ir
+    iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo
+    simboliu, senosios Lietuvos valstybės likimo ženklu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -206,7 +206,12 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
     21 dieną iš Jekaterinos II gautą notą.
-  citata_rodoma: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas \nStanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-\nkijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad \nRusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos \n21 dieną iš Jekaterinos II gautą notą."
+  citata_rodoma: |
+    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
+    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
+    kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
+    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+    21 dieną iš Jekaterinos II gautą notą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -229,7 +234,15 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
     gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
     ikikonstitucinę „auksinių laisvių“ santvarką.
-  citata_rodoma: "Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-\nmame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti \nnaujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą. \nNors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus \nrusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-\ndalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-\ngustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti \nikikonstitucinę „auksinių laisvių“ santvarką."
+  citata_rodoma: |
+    Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
+    mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
+    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
+    Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus
+    rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-
+    dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
+    gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
+    ikikonstitucinę „auksinių laisvių“ santvarką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -247,7 +260,12 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
     ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
     nijos ir sunaikinimo epocha.
-  citata_rodoma: "LLV valdovu buvo išrinktas Stanislo-\nvas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos\nvyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai\nir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-\nnijos ir sunaikinimo epocha."
+  citata_rodoma: |
+    Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-
+    vas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos
+    vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
+    ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
+    nijos ir sunaikinimo epocha.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -288,7 +306,12 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
-  citata_rodoma: "1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-\nburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos \nvalstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo \npridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-\nmo) aktas."
+  citata_rodoma: |
+    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
+    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
+    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
+    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
+    mo) aktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -310,7 +333,10 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
     Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
     kare su Rusija toli gražu nebuvo išsemtos.
-  citata_rodoma: "Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo \nAugusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos \nkare su Rusija toli gražu nebuvo išsemtos."
+  citata_rodoma: |
+    Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
+    Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
+    kare su Rusija toli gražu nebuvo išsemtos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -328,7 +354,10 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris
     taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
     mavo miestiečių milicijos. Neabejotina, kad 1792 m.
-  citata_rodoma: "O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris \ntaip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-\nmavo miestiečių milicijos. Neabejotina, kad 1792 m."
+  citata_rodoma: |
+    O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris
+    taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
+    mavo miestiečių milicijos. Neabejotina, kad 1792 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

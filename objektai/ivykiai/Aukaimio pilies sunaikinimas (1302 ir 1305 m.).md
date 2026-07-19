@@ -124,7 +124,14 @@ Nenurodyta
     pagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­
     linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
     tik ten buvo rasta, o (kitką) degino »^11.
-  citata_rodoma: "Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),\n« pilies žmogus, vardu Svirtila, tikėjimo ir tikinčiųjų draugas, išdavė\npilį broliams, kurie ten įsibrovė ir išžudė visus, kuriuos rado, vyriš­\nkos lyties, o moteris ir vaikus paėmė į nelaisvę, ir dar kartą iš\npagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­\nlinkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas\ntik ten buvo rasta, o (kitką) degino »^11."
+  citata_rodoma: |
+    Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),
+    « pilies žmogus, vardu Svirtila, tikėjimo ir tikinčiųjų draugas, išdavė
+    pilį broliams, kurie ten įsibrovė ir išžudė visus, kuriuos rado, vyriš­
+    kos lyties, o moteris ir vaikus paėmė į nelaisvę, ir dar kartą iš
+    pagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­
+    linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
+    tik ten buvo rasta, o (kitką) degino »^11.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

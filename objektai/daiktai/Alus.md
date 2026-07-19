@@ -129,19 +129,31 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bodajbym žyl dostatnie i przez moję czyny,
-    Zaslužyl bydž mieszkancem szczęšliwej krainy,
-    Gdzie Biaty napoj piją, ziotemi rogami,
-    Czerpiąc go z kadzi šwiętej, pospoiu z bogami.
-    Niešmiertelne dziewice špiewają w gaiku,
-    Sczęšcie, blogose, uciechy dziedziezą bez liku.
-    Tam rycerze polegli na wojnach straszliwych
-    I cienie wiecznie žyją przyjaciolprawdziwych.
-    (Kad aš gyvenčiau turtingas ir kad savo darbais
-    nusipelnyčiau gyventi laimingoje šalyje,
-    kur geria baltą gėrimą iš aukso ragų kartu su dievais,
-    semdami jį iš švento kubilo.
-  citata_rodoma: "Tą\npatį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr\ntaip pat grobiantis iš jo Fontenelis (Fontenete), kurio vertimą\nturime gimtąja kalba.\nIV\nskyrius\nAPIE AUKAS\nŠventieji gėrimai\nAlus (Alus) senovės lietuviams visuomet buvo pirmutinis\nir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­\nsias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę\nkilme."
+    Tą
+    patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
+    taip pat grobiantis iš jo Fontenelis (Fontenete), kurio vertimą
+    turime gimtąja kalba.
+    IV
+    skyrius
+    APIE AUKAS
+    Šventieji gėrimai
+    Alus (Alus) senovės lietuviams visuomet buvo pirmutinis
+    ir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­
+    sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
+    kilme.
+  citata_rodoma: |
+    Tą
+    patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
+    taip pat grobiantis iš jo Fontenelis (Fontenete), kurio vertimą
+    turime gimtąja kalba.
+    IV
+    skyrius
+    APIE AUKAS
+    Šventieji gėrimai
+    Alus (Alus) senovės lietuviams visuomet buvo pirmutinis
+    ir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­
+    sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
+    kilme.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -179,7 +191,7 @@ Nenurodyta
     mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
     nojo nuo seniausių laikų. Tuo klausimu išsamiai įtikina Cac-
     kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
-    A e l, Al, rusinai - Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
+    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
     Alus, latviai Alius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"

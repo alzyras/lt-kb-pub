@@ -86,7 +86,8 @@ Nenurodyta
     vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
     pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
     padėtį valstybėje.
-  citata_rodoma: "pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios"
+  citata_rodoma: |
+    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

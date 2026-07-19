@@ -400,7 +400,14 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  citata_rodoma: |
+    Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -422,7 +429,12 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
+  citata_rodoma: |
+    Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -466,7 +478,11 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     šių mokyklų iš pradžių žymiausioji buvo vilniškė. Po protes-
     tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
     kalvinų bažnyčia.
-  citata_rodoma: "Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-\nžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-\ndžios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų\nšių mokyklų iš pradžių žymiausioji buvo vilniškė."
+  citata_rodoma: |
+    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
+    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
+    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
+    šių mokyklų iš pradžių žymiausioji buvo vilniškė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -508,7 +524,11 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
     kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
     valstybės vieningumui.
-  citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos"
+  citata_rodoma: |
+    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
+    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
+    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
+    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -532,7 +552,10 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: "Tačiau jis kiek apsivylė: Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+  citata_rodoma: |
+    Tačiau jis kiek apsivylė: Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

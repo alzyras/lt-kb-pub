@@ -65,7 +65,9 @@ LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t.
     1964-68.
     LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t. 1-5, red.
     A. Liuima, S. J.^ 1965-1971.
-  citata_rodoma: "LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t. 1-5, red.\nA. Liuima, S. J.^ 1965-1971."
+  citata_rodoma: |
+    LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t. 1-5, red.
+    A. Liuima, S. J.^ 1965-1971.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

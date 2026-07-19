@@ -168,7 +168,14 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  citata_rodoma: |
+    Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

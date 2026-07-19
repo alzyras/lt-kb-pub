@@ -196,7 +196,20 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     didelę kariuomenę, netikėtai įsiveržė į kunigaikščiui Kazimierui priklausomą Kujavijos
     žemę, ją nuniokojo, degindamas bei grobdamas, o išžudęs daugybę krikščionių, drauge
     su milžinišku grobiu išsivarė moteris bei vaikus.
-  citata_rodoma: "Apie įvairias Sventopelko derybas ir sutartis\n\n  Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš\nLichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:\n„Esu pasirengęs paisyti teisingumo  ir vykdyti visa, ką įsakys broliai, jeigu jie man\nsugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,\nkad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu\nnegali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei\nbroliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,\nsu kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o\ntikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,\nvienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,\ntodėl ne teisingumo ieškoki, bet pasigailėjimo“."
+  citata_rodoma: |
+    Apie įvairias Sventopelko derybas ir sutartis
+
+      Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš
+    Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:
+    „Esu pasirengęs paisyti teisingumo  ir vykdyti visa, ką įsakys broliai, jeigu jie man
+    sugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,
+    kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu
+    negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei
+    broliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,
+    su kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o
+    tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
+    vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,
+    todėl ne teisingumo ieškoki, bet pasigailėjimo“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -217,7 +230,11 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     10 žirgų, kurie krito perverti priešo iečių. Šitaip broliai ir maldininkai sugrįžo namo,
     parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško
     293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab.
-  citata_rodoma: "Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant\nkoks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino\nstaiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,\nSventopelkas paskubėjo saviesiems  į pagalbą su trimis raitelių būriais."
+  citata_rodoma: |
+    Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
+    koks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
+    staiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,
+    Sventopelkas paskubėjo saviesiems  į pagalbą su trimis raitelių būriais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

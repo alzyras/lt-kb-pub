@@ -51,7 +51,11 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
     man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau,
     girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu. Likie
     sveikas, tegul Tau Dievas padeda".
-  citata_rodoma: "Gerai\nman vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau,\ngirdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu. Likie\nsveikas, tegul Tau Dievas padeda\"."
+  citata_rodoma: |
+    Gerai
+    man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau,
+    girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu. Likie
+    sveikas, tegul Tau Dievas padeda".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

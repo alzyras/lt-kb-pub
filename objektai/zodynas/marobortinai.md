@@ -76,7 +76,13 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
     dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
     traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
     dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką.
-  citata_rodoma: "kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.\n21,33).\n\n\n\n           24."
+  citata_rodoma: |
+    kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
+    21,33).
+
+
+
+               24.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

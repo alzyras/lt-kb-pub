@@ -120,7 +120,15 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų
     išgriovė ir išžudė brolius bei krikščionis.
     35.
-  citata_rodoma: "Be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo\nreikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų\nišgriovė ir išžudė brolius bei krikščionis.\n\n\n\n\n               35."
+  citata_rodoma: |
+    Be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo
+    reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų
+    išgriovė ir išžudė brolius bei krikščionis.
+
+
+
+
+                   35.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -158,7 +166,11 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,
     kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
     ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
-  citata_rodoma: "Daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą\nšiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,\nkurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų\nir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241)."
+  citata_rodoma: |
+    Daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą
+    šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,
+    kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
+    ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

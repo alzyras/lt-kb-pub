@@ -167,21 +167,35 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    nepajudinama tarp apsišvietusio pasaulio griuvėsių, kei­
-    čiantis tokiai daugybei kartų, įžiebė naujų amžių filoso­
-    fijos deglą, kuriam buvo lemta savo šviesa išsklaidyti su­
-    temas, užklojusias istorijos akiratį. Nevalia kaltinti tikė­
-    jimo sargų ir mokytojų dėl pažangos istorijos pažinimo
-    stokos: juk dvasininkai paliko mums daugiausia kronikų*.
-    Iš kito atstumo žvelgdami į dalykus, matome, kad būta
-    laikų, ypač lietuvių žemėje, kai tikėjimo ir švietimo deg­
-    las jos gyventojams atrodė tarsi ir žmonių, ir senovės, ir
-    viso, kas gera, naikinimo perkūnas. Ginkluoti krikštyto­
-    jai, turėdami laukines širdis ir atlikdami baisius darbus,
-    užkariaudami tautas, buvo taip pamiršę žmogų, kad kaip
-    ir žiauriausi barbarai, atimdavo gyvybę ir jam už gyvybę
-    brangesnius tautinius paminklus, laisvę ir namų taiką.
-  citata_rodoma: "Ant­\nra vertus, ryšiai su labiau išvystytomis tautomis senovė­\nje buvo be galo painūs, padriki ir tolydžio atnaujinami.\nViduržemio jūros pirklių, kurie bemaž vieni pasiekdavo\ntolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir\nvisados iš anksto puoselėjo viltis rasti lobių nežinomuose\nkraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­\nrei pažinti dar labiau negu Vidurio Europos tautų bar­\nbariškumas ir nesyetingumas. Bet kai anarchija pakirto\nRomos valstybės imperatorių galybės kolosą, kai barbarų\nantplūdis pražudė civilizuotus kraštus, pavertė apsišvie­\ntusių romėnų palikimą dykra ir kapinynais, šiaurinėms\ntautoms susiklostė naujos aplinkybės, ir į Europą atėjo\npusiausvyros metas."
+    Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
+    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
+    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
+    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
+    rei pažinti dar labiau negu Vidurio Europos tautų bar­
+    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
+    Romos valstybės imperatorių galybės kolosą, kai barbarų
+    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
+    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
+    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
+    pusiausvyros metas.
+  citata_rodoma: |
+    Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
+    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
+    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
+    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
+    rei pažinti dar labiau negu Vidurio Europos tautų bar­
+    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
+    Romos valstybės imperatorių galybės kolosą, kai barbarų
+    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
+    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
+    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
+    pusiausvyros metas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

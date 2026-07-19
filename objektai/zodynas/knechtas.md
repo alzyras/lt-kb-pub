@@ -65,7 +65,11 @@ media_all_json: |-
     tai)._ Didžiausią krašto gyventojų masę sudarė senieji krašto
     gyventojai, ordino vadinami vienu bendru vardu — prūsais
     valstiečiais.
-  citata_rodoma: "Šie gyveno ordino, vyskupų arba riterių bajorų dva-\nruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-\nkesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-\ntai)._"
+  citata_rodoma: |
+    Šie gyveno ordino, vyskupų arba riterių bajorų dva-
+    ruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-
+    kesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-
+    tai)._
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

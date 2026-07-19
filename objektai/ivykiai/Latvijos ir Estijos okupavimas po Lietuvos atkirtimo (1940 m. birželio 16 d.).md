@@ -130,7 +130,11 @@ Nenurodyta
     1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
     vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
     okupuotos ir dvi gretimos Baltijos valstybės.
-  citata_rodoma: "Lietuvos sovietizacija\n1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-\nvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu\nokupuotos ir dvi gretimos Baltijos valstybės."
+  citata_rodoma: |
+    Lietuvos sovietizacija
+    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
+    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
+    okupuotos ir dvi gretimos Baltijos valstybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +158,12 @@ Nenurodyta
     vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
     okupuotos ir dvi gretimos Baltijos valstybės. Nuo šiol trijulės likimas
     taps nepaprastai panašus.
-  citata_rodoma: "Lietuvos sovietizacija\n1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-\nvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu \nokupuotos ir dvi gretimos Baltijos valstybės. Nuo šiol trijulės likimas \ntaps nepaprastai panašus."
+  citata_rodoma: |
+    Lietuvos sovietizacija
+    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
+    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
+    okupuotos ir dvi gretimos Baltijos valstybės. Nuo šiol trijulės likimas
+    taps nepaprastai panašus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -57,8 +57,13 @@ media_all_json: |-
     smeigia visus, pasimaišiusius jų kelyje.“
 
     ca Konseržas, kitaip končaras ar estokas (Estoc prancūzų kalba reiškia durti), kartais vadinamas kava-
-    lerijos špaga. XVI a. pabaiga-xVII a.
-  citata_rodoma: "„Teisybė, jie niekada nesitraukia, varo žirgus visu greičiu, tarsi žaistų gaudynes ir per-\nsmeigia visus, pasimaišiusius jų kelyje.“\n\nca Konseržas, kitaip končaras ar estokas (Estoc prancūzų kalba reiškia durti), kartais vadinamas kava-\nlerijos špaga."
+    lerijos špaga.
+  citata_rodoma: |
+    „Teisybė, jie niekada nesitraukia, varo žirgus visu greičiu, tarsi žaistų gaudynes ir per-
+    smeigia visus, pasimaišiusius jų kelyje.“
+
+    ca Konseržas, kitaip končaras ar estokas (Estoc prancūzų kalba reiškia durti), kartais vadinamas kava-
+    lerijos špaga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

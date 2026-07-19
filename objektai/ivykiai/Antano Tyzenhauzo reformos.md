@@ -114,7 +114,8 @@ Nenurodyta
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: "Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje"
+  citata_rodoma: |
+    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

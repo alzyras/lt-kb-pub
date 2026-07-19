@@ -110,7 +110,23 @@ Nenurodyta
     lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­
     jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­
     ryti.
-  citata_rodoma: "Daugybė bajorų stojo už teisybę bei arki­\nvyskupą, tačiau šis, nesitikėdamas pergalės kovos lau­\nke, patraukė su rinktinių vyrų kariauna į Kuoknesę.\nIlgai gynėsi apsuptieji tvirtovėje, pastatytoje ant išti­\nsinės uolos, atremdami vieną po kito visus antpuolius,\n69 7\n\n## Puslapis 696\n\nvis dėlto galop badas privertė pasiduoti tuos, kurių\nnepalaužė ginklas. Kapituliacijos sąlygos nebuvo sun­\nkios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei\nVilhelmo kilmingumo paisė: kai šį atvilko magistro ša­\nlininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­\njimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­\nryti."
+  citata_rodoma: |
+    Daugybė bajorų stojo už teisybę bei arki­
+    vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau­
+    ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.
+    Ilgai gynėsi apsuptieji tvirtovėje, pastatytoje ant išti­
+    sinės uolos, atremdami vieną po kito visus antpuolius,
+    69 7
+
+    ## Puslapis 696
+
+    vis dėlto galop badas privertė pasiduoti tuos, kurių
+    nepalaužė ginklas. Kapituliacijos sąlygos nebuvo sun­
+    kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei
+    Vilhelmo kilmingumo paisė: kai šį atvilko magistro ša­
+    lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­
+    jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­
+    ryti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

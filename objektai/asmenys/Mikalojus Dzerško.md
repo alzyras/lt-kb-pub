@@ -72,7 +72,10 @@ Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, b
     sakoja, kad 1399 metais Vilniaus
     vyskupu buvo pakeltas po Važilos
     pranciškonas Jonas Pliekta.
-  citata_rodoma: "7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų \nmenų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­\nspaude turėjo Stumbro ženklą."
+  citata_rodoma: |
+    7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų
+    menų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­
+    spaude turėjo Stumbro ženklą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

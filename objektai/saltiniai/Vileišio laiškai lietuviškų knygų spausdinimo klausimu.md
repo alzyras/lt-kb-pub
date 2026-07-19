@@ -73,7 +73,10 @@ media_all_json: |-
     kyklos Lietuvoje XIX a. antrojoje pusėje_** **(Pedagogika ir psichologija, t. 9,
     sąs. 2, 1969).**
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966.
-  citata_rodoma: ") ;** **_Vileišio laiškai lietuviškų\nknygų spausdinimo klausimu_** **(BBK, t. 7, 1969, 201-214 p.); kiti jo straips­\nniai :** **_Lietuvių nacionalinio judėjimo periodizavimo klausimu_** **(Problemos, t."
+  citata_rodoma: |
+    ) ;** **_Vileišio laiškai lietuviškų
+    knygų spausdinimo klausimu_** **(BBK, t. 7, 1969, 201-214 p.); kiti jo straips­
+    niai :** **_Lietuvių nacionalinio judėjimo periodizavimo klausimu_** **(Problemos, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

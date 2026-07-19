@@ -152,7 +152,36 @@ media_all_json: |-
     turiskart po tris talentus privalo
     aukščiau aprašytai kapitulai mokė­
     ti].
-  citata_rodoma: "Be to, dar leidžia kapitulai \nimti kas dešimtą sugautą žuvį ka­\nraliaus tvenkiniuose Vilijos upėje ir \nįsako, kad jai kasmet iš pilies būtų\n129\n\n## Puslapis 146\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npasirūpinęs ateičiai savo senosios sostinės gynyba ir ilgų ne­\ngandos dienų iškamuotų tėvynainių karšto pritarimo sulau­\nkęs, tvirtybės įgavęs, Jogaila žiemą išvažiavo atgalios į Len­\nkiją; vis dėlto, kad abi Vilniaus pilys priešams būtų \ngrėsmingesnės, vos tik grįžęs, Olesnickiui atsiuntė naujos pa­\nspirties - maisto išteklių ir žmonių. Vilniui bemat jos prirei­\nkė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti \nLietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo \nnaudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­\nčioniška būdama, iš naujų savo tikėjimo brolių ne gynybos \nsulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po \nvisą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­\ndo šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­\nties narsa, o pirmiausia nesulaikomas potraukis į riterystę \nvėl subūrė iš visų Europos šalių gausius ir pajėgius kryži- \nninkų pulkus, pasišovusius traukti į vargų prispaustą \nLietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa-\nduodama 12 pūdų vaško: duodecem \ntalenta cerae Pud dieta, de curia castri \nnostri Viln."
+  citata_rodoma: |
+    Be to, dar leidžia kapitulai
+    imti kas dešimtą sugautą žuvį ka­
+    raliaus tvenkiniuose Vilijos upėje ir
+    įsako, kad jai kasmet iš pilies būtų
+    129
+
+    ## Puslapis 146
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pasirūpinęs ateičiai savo senosios sostinės gynyba ir ilgų ne­
+    gandos dienų iškamuotų tėvynainių karšto pritarimo sulau­
+    kęs, tvirtybės įgavęs, Jogaila žiemą išvažiavo atgalios į Len­
+    kiją; vis dėlto, kad abi Vilniaus pilys priešams būtų
+    grėsmingesnės, vos tik grįžęs, Olesnickiui atsiuntė naujos pa­
+    spirties - maisto išteklių ir žmonių. Vilniui bemat jos prirei­
+    kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti
+    Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo
+    naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­
+    čioniška būdama, iš naujų savo tikėjimo brolių ne gynybos
+    sulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po
+    visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­
+    do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­
+    ties narsa, o pirmiausia nesulaikomas potraukis į riterystę
+    vėl subūrė iš visų Europos šalių gausius ir pajėgius kryži-
+    ninkų pulkus, pasišovusius traukti į vargų prispaustą
+    Lietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa-
+    duodama 12 pūdų vaško: duodecem
+    talenta cerae Pud dieta, de curia castri
+    nostri Viln.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

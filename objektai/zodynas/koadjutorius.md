@@ -67,7 +67,10 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
 
 
     verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
-  citata_rodoma: "Jais ypatingai rūpinosi vysk.\nProtasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę at-\nverstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus)."
+  citata_rodoma: |
+    Jais ypatingai rūpinosi vysk.
+    Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę at-
+    verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

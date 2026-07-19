@@ -118,7 +118,18 @@ Nenurodyta
     išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
     turėjo didelių nuostolių sunkiai sužeistaisiais.
     277 (270).
-  citata_rodoma: "Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais\n\n   Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į\nAukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar\nišžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys\nturėjo didelių nuostolių sunkiai sužeistaisiais.\n\n\n\n\n     277 (270)."
+  citata_rodoma: |
+    Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
+
+       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
+    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
+    išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
+    turėjo didelių nuostolių sunkiai sužeistaisiais.
+
+
+
+
+         277 (270).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

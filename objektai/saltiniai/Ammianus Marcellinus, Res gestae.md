@@ -72,11 +72,15 @@ Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristau
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visi tikėtini faktai rodo, kad tai turėjo būti lietuvių padermės tauta,
-    kuri į tuos kraštus atsinešė savo giminės vardą. Si tauta Galijoje
-    buvo nugalėta ir pavergta, be to, sudarė tarpinį luomą tarp laisvųjų
-    žmonių ir tarnų (Szafarzyk. Star. siaw.
-  citata_rodoma: "Senovės istorikai mano, jog eg­\nzistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.\n8; Jordanas (p. 35) rašo Litiani), Toji tauta prieš pat Kristaus gi­\nmimą gyveno Galijoje ir savo kilme skyrėsi nuo kitų tenykščių tautų."
+    Senovės istorikai mano, jog eg­
+    zistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.
+    8; Jordanas (p. 35) rašo Litiani), Toji tauta prieš pat Kristaus gi­
+    mimą gyveno Galijoje ir savo kilme skyrėsi nuo kitų tenykščių tautų.
+  citata_rodoma: |
+    Senovės istorikai mano, jog eg­
+    zistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.
+    8; Jordanas (p. 35) rašo Litiani), Toji tauta prieš pat Kristaus gi­
+    mimą gyveno Galijoje ir savo kilme skyrėsi nuo kitų tenykščių tautų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

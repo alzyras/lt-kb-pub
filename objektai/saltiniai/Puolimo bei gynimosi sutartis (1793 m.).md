@@ -64,7 +64,11 @@ Be to, Rusijai reikalaujant, su ja buvo padaryta puolimo bei gynimosi sutartis.
     su ja buvo padaryta puolimo bei gynimosi sutartis. Kariuo-
     menės buvo palikta 5.000 Lietuvoje ir 10.000 Lenkijoje; likusioji
     jos dalis arba turėjo pereiti Rusų žiniai arba turėjo būti atleista.
-  citata_rodoma: "Be to, Rusijai reikalaujant,\nsu ja buvo padaryta puolimo bei gynimosi sutartis. Kariuo-\nmenės buvo palikta 5.000 Lietuvoje ir 10.000 Lenkijoje; likusioji\njos dalis arba turėjo pereiti Rusų žiniai arba turėjo būti atleista."
+  citata_rodoma: |
+    Be to, Rusijai reikalaujant,
+    su ja buvo padaryta puolimo bei gynimosi sutartis. Kariuo-
+    menės buvo palikta 5.000 Lietuvoje ir 10.000 Lenkijoje; likusioji
+    jos dalis arba turėjo pereiti Rusų žiniai arba turėjo būti atleista.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

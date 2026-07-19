@@ -479,7 +479,20 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     Saxe, pour Ia recherche des antiquites
     Slaves ou Vendes, fait en 1794, par le
     Comte Jean Potocki, p. 63, tit.
-  citata_rodoma: "Mūsų kaimiečiai \nlietuviai taria „Niaris\" ir sako, esą \nlenkiškai jų puikioji upė vadinama \nWilja. Prancūzijoje, Aljė departa­\nmente, esama mineralinių vandenų, \nvadinamų Neris, prie taip pat pava­\ndinto miestelio, išsidriekusio tarp \nŠero ir Luaros upių, kur X amžiuje \nsiekė normanų antpuoliai ir netgi jų \ngyvenvietės - slavų, venedų, gyve­\nnančių Hanoverio žemėje prie Elbės \nžemupio, netoli nuo Lūchovo, kal­\nba žodis Vilija reiškia valią. Žr."
+  citata_rodoma: |
+    Mūsų kaimiečiai
+    lietuviai taria „Niaris" ir sako, esą
+    lenkiškai jų puikioji upė vadinama
+    Wilja. Prancūzijoje, Aljė departa­
+    mente, esama mineralinių vandenų,
+    vadinamų Neris, prie taip pat pava­
+    dinto miestelio, išsidriekusio tarp
+    Šero ir Luaros upių, kur X amžiuje
+    siekė normanų antpuoliai ir netgi jų
+    gyvenvietės - slavų, venedų, gyve­
+    nančių Hanoverio žemėje prie Elbės
+    žemupio, netoli nuo Lūchovo, kal­
+    ba žodis Vilija reiškia valią. Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -516,7 +529,13 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
-  citata_rodoma: "Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė\nį slavų kraštą; venedų karalius Skalka buvo sumuštas ir\nkrito mūšio lauke, o jo kraštas pateko į priešų rankas.\nTačiau Jarmeriko įniršiui to nepakako."
+  citata_rodoma: |
+    Pakviestas į pagal­
+    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
+    už savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė
+    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
+    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
+    Tačiau Jarmeriko įniršiui to nepakako.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -549,7 +568,21 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
-  citata_rodoma: "Esama \nneabejotinų įrodymų, nes, \nvaldant \nimperatoriui \nGalui, apie 253 metus \njungtiniai finų, \ngalindų ir venedų būriai kariavo su imperatorium Valuzia- \nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­\nnių medalių1. Šie numizmatiniai užrašai nemini gotų, \nnes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­\nsią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­\ntuose2."
+  citata_rodoma: |
+    Esama
+    neabejotinų įrodymų, nes,
+    valdant
+    imperatoriui
+    Galui, apie 253 metus
+    jungtiniai finų,
+    galindų ir venedų būriai kariavo su imperatorium Valuzia-
+    nu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­
+    vino kaip vandalų, finų, galindų ir venedų nugalėto­
+    ją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
+    nių medalių1. Šie numizmatiniai užrašai nemini gotų,
+    nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
+    sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
+    tuose2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -593,7 +626,14 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
     Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
     kalu.
-  citata_rodoma: "Todėl, mano nuomone, reikėtų\nskaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip\nir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO\nMAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito\nskydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo\nmaximo Jurowito\". Lotynų kalbą slavai venedai ir lietuviai var­\ntojo kaip diplomatinę kalbą."
+  citata_rodoma: |
+    Todėl, mano nuomone, reikėtų
+    skaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip
+    ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
+    MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
+    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
+    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
+    tojo kaip diplomatinę kalbą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -86,7 +86,8 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
     Lietuva Vakarams buvo nelengvas. Pagalba atėjo iš Islandijos – 1991 m.
     vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
     somybę.
-  citata_rodoma: "vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-"
+  citata_rodoma: |
+    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -153,7 +153,16 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
     ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
     pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
     atvykęs, patraukė į Ragainę.
-  citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai\ndėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į\nriterius."
+  citata_rodoma: |
+    Apie Medininkų valsčiaus apiplėšimą 1316 metais
+
+      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
+    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
+    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
+    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
+    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
+    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
+    riterius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -175,7 +184,21 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
     ir atkeršyti už nukryžiuotojo kančias, tačiau ji neįstengė pradėti žygio, nes ledas buvo
     labai plonas.
     297 (290).
-  citata_rodoma: "Apie maldininkų atvykimą\n\n   Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko\nį Prūsijos žemę šie kilmingi vyrai: valdovas Jonas  iš Španheimo, grafas Adolfas  iš\nVintimelio, jaunesnysis bei vyresnysis Ditrichai iš Elnerio su savo broliais Arnoldu bei\nRudigeriu, Reino riteriai Arnoldas ir Jokūbas iš Baumgarto bei daug kitų kilmingųjų iš\nReino krašto; žiemą sutelkė didelę kariuomenę, ketinusią patraukti prieš lietuvių gentį\nir atkeršyti už nukryžiuotojo kančias, tačiau ji neįstengė pradėti žygio, nes ledas buvo\nlabai plonas.\n\n\n\n\n            297 (290)."
+  citata_rodoma: |
+    Apie maldininkų atvykimą
+
+       Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko
+    į Prūsijos žemę šie kilmingi vyrai: valdovas Jonas  iš Španheimo, grafas Adolfas  iš
+    Vintimelio, jaunesnysis bei vyresnysis Ditrichai iš Elnerio su savo broliais Arnoldu bei
+    Rudigeriu, Reino riteriai Arnoldas ir Jokūbas iš Baumgarto bei daug kitų kilmingųjų iš
+    Reino krašto; žiemą sutelkė didelę kariuomenę, ketinusią patraukti prieš lietuvių gentį
+    ir atkeršyti už nukryžiuotojo kančias, tačiau ji neįstengė pradėti žygio, nes ledas buvo
+    labai plonas.
+
+
+
+
+                297 (290).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

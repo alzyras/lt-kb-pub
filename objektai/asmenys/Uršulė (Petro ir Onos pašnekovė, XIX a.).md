@@ -65,7 +65,8 @@ Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia
     Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestu­
     vės?“ Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras —
     Petras.
-  citata_rodoma: "Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestuvės?“"
+  citata_rodoma: |
+    Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestuvės?“
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

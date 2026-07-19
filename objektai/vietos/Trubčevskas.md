@@ -79,7 +79,14 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
     1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
     Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
     valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
-  citata_rodoma: "Laikydamas save tikruoju tėvo sosto paveldėtoju, Andrius\ntuoj po 1377 m. virto Jogailos priešu ir sąjungon prieš jį traukė\nšiaurinius Lietuvos kaimynus. Nuvykęs Maskvon, jis prikalbėjo\nkunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-\n1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir\nTrubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo\nvaldą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį."
+  citata_rodoma: |
+    Laikydamas save tikruoju tėvo sosto paveldėtoju, Andrius
+    tuoj po 1377 m. virto Jogailos priešu ir sąjungon prieš jį traukė
+    šiaurinius Lietuvos kaimynus. Nuvykęs Maskvon, jis prikalbėjo
+    kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-
+    1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
+    Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
+    valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

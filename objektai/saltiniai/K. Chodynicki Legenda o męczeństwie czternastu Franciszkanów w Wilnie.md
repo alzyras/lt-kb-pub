@@ -71,7 +71,11 @@ Chodynicki : Legenda o męczeństwie czternastu Franciszkanów w Wilnie , AW, IV
     (^4) **K. Chodynicki :** **_Legenda o męczeństwie czternastu Franciszkanów w
     Wilnie_** **, AW, IV, 1927, 53-78 p.; (”)** **_Geneza i rozwój legendy o trzech mę­
     czennikach wileńskich_** **, AW, V, zesz.
-  citata_rodoma: "**\n(^4) **K. Chodynicki :** **_Legenda o męczeństwie czternastu Franciszkanów w\nWilnie_** **, AW, IV, 1927, 53-78 p.; (”)** **_Geneza i rozwój legendy o trzech mę­\nczennikach wileńskich_** **, AW, V, zesz."
+  citata_rodoma: |
+    **
+    (^4) **K. Chodynicki :** **_Legenda o męczeństwie czternastu Franciszkanów w
+    Wilnie_** **, AW, IV, 1927, 53-78 p.; (”)** **_Geneza i rozwój legendy o trzech mę­
+    czennikach wileńskich_** **, AW, V, zesz.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

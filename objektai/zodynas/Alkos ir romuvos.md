@@ -112,7 +112,10 @@ Nenurodyta
     Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
     dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
     kakapių, Alkų kaimų — pilna Lietuvoje.
-  citata_rodoma: "Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės\ndažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-\nkakapių, Alkų kaimų — pilna Lietuvoje."
+  citata_rodoma: |
+    Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
+    dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
+    kakapių, Alkų kaimų — pilna Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +138,13 @@ Nenurodyta
     nusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-
     namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
     pobūdžio arba dėl tarminių skirtumų.
-  citata_rodoma: "Taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas\nir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-\ndaug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką,\nnusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-\nnamos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo\npobūdžio arba dėl tarminių skirtumų."
+  citata_rodoma: |
+    Taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas
+    ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-
+    daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką,
+    nusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-
+    namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
+    pobūdžio arba dėl tarminių skirtumų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

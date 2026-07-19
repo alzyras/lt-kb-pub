@@ -78,7 +78,9 @@ Dusburgietis teigia, kad pakarklis P.
     207—216.
     Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
     žinynas, 1933, t. 25, Nr. 101, p. 171—185.
-  citata_rodoma: "Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų\nžinynas, 1933, t. 25, Nr. 101, p. 171—185."
+  citata_rodoma: |
+    Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
+    žinynas, 1933, t. 25, Nr. 101, p. 171—185.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

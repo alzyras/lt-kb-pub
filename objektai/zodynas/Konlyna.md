@@ -137,7 +137,8 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
     sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si
     skrynia būdavo naudojama ir kelionės daiktams, ginklams susidė­
     ti; tai buvo pačių vertingiausių daiktų saugykla (хранилище).
-  citata_rodoma: "Si skrynia būdavo naudojama ir kelionės daiktams, ginklams susidėti; tai buvo pačių vertingiausių daiktų saugykla (хранилище)."
+  citata_rodoma: |
+    Si skrynia būdavo naudojama ir kelionės daiktams, ginklams susidėti; tai buvo pačių vertingiausių daiktų saugykla (хранилище).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -157,7 +158,8 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
     Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
     тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
     sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
-  citata_rodoma: "Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Контьma — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis."
+  citata_rodoma: |
+    Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Контьma — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

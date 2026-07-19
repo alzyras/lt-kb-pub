@@ -65,7 +65,11 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
     kaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda
     ugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-
     kios vasaros“.
-  citata_rodoma: "„Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,\nkaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda\nugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-\nkios vasaros“."
+  citata_rodoma: |
+    „Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,
+    kaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda
+    ugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-
+    kios vasaros“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

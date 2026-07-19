@@ -87,7 +87,8 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: "toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir"
+  citata_rodoma: |
+    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

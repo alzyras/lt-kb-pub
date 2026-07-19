@@ -106,7 +106,10 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
     ninkas; „kunigaikštis kilnios širdies ir garsios garbės“—tvirtina
     kitas kronikininkas Mechovita; „vyras, už kurį didesnio Lie­
     tuva neturėjo“ — išsireiškia šimtą metų vėliau Herberšteinas^1 ).
-  citata_rodoma: "„Didelėj garbėj ir šlovėj gyveno garsus val­\ndytojas Vytautas ir jo tėvynė“ — kalba apie jį vienas kroniki­\nninkas;"
+  citata_rodoma: |
+    „Didelėj garbėj ir šlovėj gyveno garsus val­
+    dytojas Vytautas ir jo tėvynė“ — kalba apie jį vienas kroniki­
+    ninkas;
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

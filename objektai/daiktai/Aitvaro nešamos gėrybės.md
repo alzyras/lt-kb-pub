@@ -100,7 +100,14 @@ Nenurodyta
     Rungis (Rungis)
     Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
     dų ir malant pripila.
-  citata_rodoma: "Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­\nmatomas užpuola miegančias moteris, kitą kartą prijaukintas\npasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­\nda į klėtis, senoms, taupioms šeimininkėms išneša grietinę,\nduoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­\nterims arba mergaitėms, duoda net pinigų. Moteris, suviliota\nšios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės."
+  citata_rodoma: |
+    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
+    matomas užpuola miegančias moteris, kitą kartą prijaukintas
+    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
+    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
+    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
+    terims arba mergaitėms, duoda net pinigų. Moteris, suviliota
+    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

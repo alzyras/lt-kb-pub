@@ -124,7 +124,23 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
     ninkams visus triukus, kuriuos demonografai ir kerų apraši­
     nėtojai priskiria panašiai grupei apgavikų, veikiančių su vaško
     figūrėlėmis' .
-  citata_rodoma: "Tad\nsutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­\nnamus dalykus.\nBurtininkas (Burtinikas)\nPirmykšte reikšme tai buvo eilių kūrėjai, savo pačių sudė­\ntų giesmių giedotojai, panašūs į senovės bardus ir skaldus. Vi-\n296\n\n## Puslapis 296\n\nsose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­\nbiamas; mat jie, pranašesni savo protu ir turintys nuostabią\ndovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­\ntymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­\nvo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-\nšvietą kerinčia poezijos ir muzikos meno galia."
+  citata_rodoma: |
+    Tad
+    sutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­
+    namus dalykus.
+    Burtininkas (Burtinikas)
+    Pirmykšte reikšme tai buvo eilių kūrėjai, savo pačių sudė­
+    tų giesmių giedotojai, panašūs į senovės bardus ir skaldus. Vi-
+    296
+
+    ## Puslapis 296
+
+    sose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­
+    biamas; mat jie, pranašesni savo protu ir turintys nuostabią
+    dovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­
+    tymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­
+    vo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-
+    švietą kerinčia poezijos ir muzikos meno galia.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

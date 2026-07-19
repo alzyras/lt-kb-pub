@@ -99,7 +99,16 @@ media_all_json: |-
     tyrinėjimų vaisių »^82.
     Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp.
     iš Praeities 2, 1933).
-  citata_rodoma: "Savo\nstudijose, o labiausiai per savo universitete dėstomus Lietuvos isto­\nrijos kursus, kurie pirmoje eilėje lietė politinę XIII-XVI amž. Lietu­\nvos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip reikia\nanalizuoti šaltinius, ir kvėpė klausytojams visapusiško kritiškumo.\n«Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo\ntyrinėjimų vaisių »^82.\nPlataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp.\niš Praeities 2, 1933)."
+  citata_rodoma: |
+    Savo
+    studijose, o labiausiai per savo universitete dėstomus Lietuvos isto­
+    rijos kursus, kurie pirmoje eilėje lietė politinę XIII-XVI amž. Lietu­
+    vos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip reikia
+    analizuoti šaltinius, ir kvėpė klausytojams visapusiško kritiškumo.
+    «Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo
+    tyrinėjimų vaisių »^82.
+    Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp.
+    iš Praeities 2, 1933).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

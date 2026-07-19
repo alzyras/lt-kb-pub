@@ -245,7 +245,14 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     kelias į Lietuvą būtų užkirstas. Todėl, norėdamas su­
     rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
     kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
-  citata_rodoma: "Kokius jis nuveikė paminėtinus darbus,\nvėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­\npalikti po mirties sūnums paveldimo neapykantos šal­\ntinio, todėl pasistengė laiku padalyti valdžią. Kernu-\nsijui, arba Kerniui, atidavė valdyti Lietuvos žemes\ntarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­\ntui paskyrė Žemaitiją."
+  citata_rodoma: |
+    Kokius jis nuveikė paminėtinus darbus,
+    vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
+    palikti po mirties sūnums paveldimo neapykantos šal­
+    tinio, todėl pasistengė laiku padalyti valdžią. Kernu-
+    sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
+    tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
+    tui paskyrė Žemaitiją.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -274,7 +281,20 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
     apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
     nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
-  citata_rodoma: "Galbūt šitaip ir bū­\ntų atsitikę, jeigu, jam mirus,\n1089 m eta i\nbūtų prasidėjęs tarpuvaldis:\nmat neturėjo jis sūnaus —\nsavo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs\njiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš\nJulijono Dausprungo palikuonių, pajėgų valdyti jauni­\nkaitį, netrukus jam į žmonas atidavė vienturtę dukterį\nPajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai\npasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­\ntas (kaip tais laikais derėjo) ir ant aukštos kalvos prie\nDeltuvos palaidotas."
+  citata_rodoma: |
+    Galbūt šitaip ir bū­
+    tų atsitikę, jeigu, jam mirus,
+    1089 m eta i
+    būtų prasidėjęs tarpuvaldis:
+    mat neturėjo jis sūnaus —
+    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
+    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
+    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
+    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
+    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
+    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
+    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
+    Deltuvos palaidotas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -297,7 +317,20 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
     mėti ten visuomet stovi medinis kryžius.
-  citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
+  citata_rodoma: |
+    Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -316,7 +349,13 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     mus šaltinius. Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
     dingos mūsų tėvynės istorijai.
-  citata_rodoma: "Tai liudija Strijkovskis. Ant\nKukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­\nkų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­\nbegyvuojantis kaimo žmonių pasakojimuose. Hartknochas,\nremdamasis savo tyrimais, pasakoja, kad ant to paties kalno\nnuo seno degusi Kerniaus užkurta Amžinoji ugnis ."
+  citata_rodoma: |
+    Tai liudija Strijkovskis. Ant
+    Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­
+    kų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­
+    begyvuojantis kaimo žmonių pasakojimuose. Hartknochas,
+    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
+    nuo seno degusi Kerniaus užkurta Amžinoji ugnis .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

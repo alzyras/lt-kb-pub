@@ -548,7 +548,14 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     ir prastuomenės, ir aukštuomenės, ir paties Maskvos
     didžiojo kunigaikščio, dūmoje įkalbėjo maskvėnus pa­
     siųsti, pavasariui prašvitus, visas jėgas prieš Smolenską,
-  citata_rodoma: "Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius. Netoli Dnepro Glinskį pasitiko šešios\ndešimtys tūkstančių maskvėnų."
+  citata_rodoma: |
+    Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
+    kiojo karalius. Netoli Dnepro Glinskį pasitiko šešios
+    dešimtys tūkstančių maskvėnų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -572,7 +579,14 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
     5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
     rinkinyje, yra nemažai tokių akmenų.
-  citata_rodoma: "Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius."
+  citata_rodoma: |
+    Kad Pavyslio, Padneprio senieji gyventojai
+    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
+    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
+    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
+    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
+    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
+    jų, neužkąsdami jų žemėje, supildavo kalnelius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -593,7 +607,15 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
     arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
     davė pradžią dorėnams ir achajams.
-  citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
+  citata_rodoma: |
+    Būtent dėl šių priežasčių įvairios
+    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
+    bos susiformavo graikų kalba.
+    17
+    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
+    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
+    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
+    Dono.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -638,7 +660,18 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą.
-  citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
+  citata_rodoma: |
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -744,7 +777,22 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     arba vidinės priežasties; tai turėjo sukelti didelius šių
     1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
     vandens, Dnepras tekėjo kita kryptimi (Karamzin.
-  citata_rodoma: "Tų įdubų juos­\ntos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­\ngrindinės upės vandens lygis buvo gerokai aukštesnis, \ntekėdavo visais metų laikais. Plytėjo ilga įlanka, arba \nkairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­\nlios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­\nje, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai \nežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa- \ndneprės slėnį, plaukė maždaug varsto atstumu savo slė­\nniu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­\nšiniąją, senų geografų vadinamą Borysthenis occidentale \nlatus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją \nšaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą, \nžemiau Kijevo virstančią didele upe — tikruoju senovės \nBoristeniu."
+  citata_rodoma: |
+    Tų įdubų juos­
+    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
+    grindinės upės vandens lygis buvo gerokai aukštesnis,
+    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
+    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
+    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
+    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
+    ežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa-
+    dneprės slėnį, plaukė maždaug varsto atstumu savo slė­
+    niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­
+    šiniąją, senų geografų vadinamą Borysthenis occidentale
+    latus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją
+    šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,
+    žemiau Kijevo virstančią didele upe — tikruoju senovės
+    Boristeniu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -774,7 +822,18 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
     pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
     čių.
-  citata_rodoma: "Paprastai jos būva netoli gyvenviečių\narba joms tinkamose vietose.\nNors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių."
+  citata_rodoma: |
+    Paprastai jos būva netoli gyvenviečių
+    arba joms tinkamose vietose.
+    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
+    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
+    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
+    palei senas Rusijos sienas su Lietuvos valstybe, de­
+    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
+    Lietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-
+    žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
+    pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
+    čių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

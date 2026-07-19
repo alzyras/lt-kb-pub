@@ -67,7 +67,12 @@ media_all_json: |-
     — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
     toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
     kijos su Sovietų Rusija nustatytų sienų.
-  citata_rodoma: "2) Lietuvos siena\neina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta\nSuvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui\n— Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,\ntoliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-"
+  citata_rodoma: |
+    2) Lietuvos siena
+    eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta
+    Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui
+    — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
+    toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -82,7 +82,10 @@ Moralius Narbuto išnašoje nurodomas prie aiškinimo apie slavų žodį, reišk
     čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
     toro žodžius priskiria poloviečių veiksmams dešiniojoje
     Dnepro pakrantėje.
-  citata_rodoma: "Tai yra šiuolaikinis slavų žo­\ndis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­\n1 Moralius. Car m. Lib. II, 20 et uit. V. 18, 19."
+  citata_rodoma: |
+    Tai yra šiuolaikinis slavų žo­
+    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
+    1 Moralius. Car m. Lib. II, 20 et uit. V. 18, 19.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

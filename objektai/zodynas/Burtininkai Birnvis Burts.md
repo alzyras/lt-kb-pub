@@ -89,7 +89,15 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
     me su jūra krašte, kuriame daug visokių didelių vandenų, to­
     dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
     jie negalėjo apsieiti be savo Neptūno.
-  citata_rodoma: "Tolesnį šito patvirtinimą rasime žemiau,\nstraipsnyje „Laima“.\nVisos lietuvių genties tautos turėjo savo dainius, panašius\nį kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­\nnuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­\ndavo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat\nBurts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­\niais Lėlio."
+  citata_rodoma: |
+    Tolesnį šito patvirtinimą rasime žemiau,
+    straipsnyje „Laima“.
+    Visos lietuvių genties tautos turėjo savo dainius, panašius
+    į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­
+    nuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­
+    davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat
+    Burts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­
+    iais Lėlio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

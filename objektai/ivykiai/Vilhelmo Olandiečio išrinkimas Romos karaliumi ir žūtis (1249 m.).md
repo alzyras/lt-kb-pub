@@ -89,7 +89,17 @@ Nenurodyta
 
 
                           35.
-  citata_rodoma: "Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi\n\n  1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas\nRomos karaliumi, tačiau neilgai trukus frizai  jį nužudė, ir šitaip nei vienas, nei kitas\n\nnegavo imperatoriaus vainiko (Ptol. 22,9).\n\n\n\n                      35."
+  citata_rodoma: |
+    Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi
+
+      1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas
+    Romos karaliumi, tačiau neilgai trukus frizai  jį nužudė, ir šitaip nei vienas, nei kitas
+
+    negavo imperatoriaus vainiko (Ptol. 22,9).
+
+
+
+                          35.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

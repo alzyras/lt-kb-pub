@@ -463,7 +463,31 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     LT-09236 Vilnius
 
     tel. 8 5 266 7711
-  citata_rodoma: "dr. Jonas Arvasevičius\n\nKorektorė\nIeva Puluikienė\n\nFotografė\nGiedrė Maksimovicz\n\nIliustracijas rinko:\nKarolis Zikaras,\nDalius Čižeika,\nAuksė Ūsienė,\nTomas Čeponis\nDailininkė\n\nLoreta Uzdraitė\n\nIšleido\n\nLeidykla UAB „ALIO“\nŠeimyniškių 23/2,\nLT-09236 Vilnius\n\ntel."
+  citata_rodoma: |
+    dr. Jonas Arvasevičius
+
+    Korektorė
+    Ieva Puluikienė
+
+    Fotografė
+    Giedrė Maksimovicz
+
+    Iliustracijas rinko:
+    Karolis Zikaras,
+    Dalius Čižeika,
+    Auksė Ūsienė,
+    Tomas Čeponis
+    Dailininkė
+
+    Loreta Uzdraitė
+
+    Išleido
+
+    Leidykla UAB „ALIO“
+    Šeimyniškių 23/2,
+    LT-09236 Vilnius
+
+    tel.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -481,7 +505,12 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     p. 222-223, „PARTIZANŲ BUNKERIAI“, Karolis Zikaras.
 
     p. 226, „ŽALIUKAI“, Karolis Zikaras.
-  citata_rodoma: "KARAS PO KARO\n\np. 222-223, „PARTIZANŲ BUNKERIAI“, Karolis Zikaras.\n\np."
+  citata_rodoma: |
+    KARAS PO KARO
+
+    p. 222-223, „PARTIZANŲ BUNKERIAI“, Karolis Zikaras.
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -496,7 +525,9 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   citata_originali: |
     p. 185, „VYTIES KRYŽIUS“, Karolis Zikaras.
     p. 202, „ŠARVUOTAS TRAUKINYS GEDIMINAS“, Karolis Zikaras.
-  citata_rodoma: "p. 185, „VYTIES KRYŽIUS“, Karolis Zikaras.\np."
+  citata_rodoma: |
+    p. 185, „VYTIES KRYŽIUS“, Karolis Zikaras.
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -514,7 +545,12 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 
     NEPRIKLAUSOMYBĖS KOVOS
     p. 170, „SAKSŲ SAVANORIAI“, Vytautas Lesčius.
-  citata_rodoma: "NUOPUOLIS IR KOVA DĖL LAISVĖS\nP. 140, „VALSTYBĖS SMUKIMAS“, Karolis Zikaras.\n\nNEPRIKLAUSOMYBĖS KOVOS\np."
+  citata_rodoma: |
+    NUOPUOLIS IR KOVA DĖL LAISVĖS
+    P. 140, „VALSTYBĖS SMUKIMAS“, Karolis Zikaras.
+
+    NEPRIKLAUSOMYBĖS KOVOS
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -535,7 +571,14 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 
     P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
     Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: "KARAS PO KARO\n\nP. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,\n\nDalius Žygelis, Loreta Uzdraitė.\n\nP."
+  citata_rodoma: |
+    KARAS PO KARO
+
+    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
+
+    P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -551,7 +594,10 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
     p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.
     p. 126, „TVANAS“, Karolis Zikaras.
-  citata_rodoma: "VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE\np. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.\np."
+  citata_rodoma: |
+    VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
+    p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -567,7 +613,9 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     LIETUVOS ATSIKŪRIMAS
     p. 251, „1991 M. SAUSIO 13 D.“, Karolis Zikaras.
     p. 263, „1991 M. RUGPJŪČIO MASKVOS PUČAS“, Karolis Zikaras.
-  citata_rodoma: "LIETUVOS ATSIKŪRIMAS\np. 251, „1991 M. SAUSIO 13 D.“, Karolis Zikaras."
+  citata_rodoma: |
+    LIETUVOS ATSIKŪRIMAS
+    p. 251, „1991 M. SAUSIO 13 D.“, Karolis Zikaras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -589,7 +637,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
 
     Dalius Žygelis, Loreta Uzdraitė.
-  citata_rodoma: ",\n\nKarolis Zikaras, Loreta Uzdraitė.\n\nKARAS PO KARO\n\nP. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,\n\nDalius Žygelis, Loreta Uzdraitė."
+  citata_rodoma: |
+    ,
+
+    Karolis Zikaras, Loreta Uzdraitė.
+
+    KARAS PO KARO
+
+    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

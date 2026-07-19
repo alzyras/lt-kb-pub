@@ -136,7 +136,17 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
     paprastai žmonių stribais vadinamų. Šis
     vardas yra verstinis iš rusiskojo — „istri-
     bitel“ - naikintojas.
-  citata_rodoma: "STRIBAI\n\nJuozas Daumantas pasakoja apie stri-\nbus - sovietiniams okupantams talki-\nnusius kolaborantus.\n\n„Kovai su partizanais bolševikai dar\n1944 metų rudenį mobilizavo dalinius va-\ndinamųjų „liaudies gynėjų“ - istrebitelių,\npaprastai žmonių stribais vadinamų."
+  citata_rodoma: |
+    STRIBAI
+
+    Juozas Daumantas pasakoja apie stri-
+    bus - sovietiniams okupantams talki-
+    nusius kolaborantus.
+
+    „Kovai su partizanais bolševikai dar
+    1944 metų rudenį mobilizavo dalinius va-
+    dinamųjų „liaudies gynėjų“ - istrebitelių,
+    paprastai žmonių stribais vadinamų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

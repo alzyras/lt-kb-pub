@@ -98,7 +98,11 @@ Nenurodyta
     meną kėlė ir priešų kronikos. Senoji magistro kronika («Ältere
     Hochmeisterschronik ») pastebėjo : « Kęstutis buvo vyras karingas
     ir tiesiakalbis.
-  citata_rodoma: "Jo riteriškas ypatybes ir jo taurius papročius bei kovos\nmeną kėlė ir priešų kronikos. Senoji magistro kronika («Ältere\nHochmeisterschronik ») pastebėjo : « Kęstutis buvo vyras karingas\nir tiesiakalbis."
+  citata_rodoma: |
+    Jo riteriškas ypatybes ir jo taurius papročius bei kovos
+    meną kėlė ir priešų kronikos. Senoji magistro kronika («Ältere
+    Hochmeisterschronik ») pastebėjo : « Kęstutis buvo vyras karingas
+    ir tiesiakalbis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -118,7 +122,12 @@ Nenurodyta
     Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie
     Lietuvos kunigaikščius ištaria gerą žodį, yra pažymėjęs : « Kęstutis,
     nors ir pagonis, buvo šaunus vyras.
-  citata_rodoma: "Nuolatiniai susidūrimai karuose su vakarų Europos\nriteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.\nNet Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie\nLietuvos kunigaikščius ištaria gerą žodį, yra pažymėjęs : « Kęstutis,\nnors ir pagonis, buvo šaunus vyras."
+  citata_rodoma: |
+    Nuolatiniai susidūrimai karuose su vakarų Europos
+    riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.
+    Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie
+    Lietuvos kunigaikščius ištaria gerą žodį, yra pažymėjęs : « Kęstutis,
+    nors ir pagonis, buvo šaunus vyras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -118,7 +118,18 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
     zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
     personažais.
-  citata_rodoma: "O Lietuvoje, garsėjusioje \nkaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai­\nkiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene­\nsanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito­\nlogijos svarba XIX a. pradžios kultūriniame ir išsivaduojama­\njame judėjime buvo itin ryškiai suvokiama ir akcentuojama. \nLietuvių mitologija šiuo metu domėjosi ne tik mokslininkai, \nrašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­\nnimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar- \nzystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais \npersonažais."
+  citata_rodoma: |
+    O Lietuvoje, garsėjusioje
+    kaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai­
+    kiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene­
+    sanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito­
+    logijos svarba XIX a. pradžios kultūriniame ir išsivaduojama­
+    jame judėjime buvo itin ryškiai suvokiama ir akcentuojama.
+    Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
+    rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­
+    nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
+    zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
+    personažais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

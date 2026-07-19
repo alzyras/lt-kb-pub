@@ -77,8 +77,13 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
     ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
     mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
     „Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko. Jie mat labai pasitarnavo
-    (Dotnuvos apyl. upė), Dubysos intaką Mukė, resp.
-  citata_rodoma: "Taigi\nir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų\nmažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia\n„Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko. Jie mat labai pasitarnavo\n(Dotnuvos apyl."
+    (Dotnuvos apyl.
+  citata_rodoma: |
+    Taigi
+    ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
+    mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
+    „Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko. Jie mat labai pasitarnavo
+    (Dotnuvos apyl.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

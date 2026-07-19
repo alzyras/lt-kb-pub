@@ -66,7 +66,8 @@ Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė b�
     reformatų tikėjimą. Beveik visi didikai katalikai, taip pat dalis ortodoksų
     perėjo į kalvinistų tikėjimą ir sekuliarizavo beveik 50 proc. katalikų baž-
     nyčių.
-  citata_rodoma: "reformatų tikėjimą. Beveik visi didikai katalikai, taip pat dalis ortodoksų"
+  citata_rodoma: |
+    reformatų tikėjimą. Beveik visi didikai katalikai, taip pat dalis ortodoksų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

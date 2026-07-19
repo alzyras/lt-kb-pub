@@ -122,7 +122,19 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
     lapties. Baisu ir pagalvoti,
     kaip jis buvo maitojamas: pririštą prie iešmo, degino
     lėta ugnimi, grąžtais gręžė kiaušą bei nagus.
-  citata_rodoma: "Pats Vasilijus, beje, irgi gerai žino­\njo, kad Glinskis, sulaukęs iš jo malonės, dar ištikimiau\njam tarnausiąs ir ateityje teiksiąs kur kas daugiau nau­\ndos Maskvos valstybei, nei būtų pridaręs žalos, pa­\nsprukdamas slapta į Lietuvą. Štai todėl Glinskis vėl\natgavo laisvę ir ankstesnę pagarbą, o ateityje susilau­\nkė tokio didelio kunigaikščio palankumo, kad jį, pa­\nrodžiusį nuostabų sumanumą tvarkant taikos bei karo\nreikalus, Vasilijus paskyrė mažamečio sūnaus globėju.\nGavęs šitokias garbingas pareigas, kartą sužinojo, jog\nVasilijaus našlė, o jo brolio anūkė begėdiškai gyvena\nsu Ovčina, ėjusiu tas pačias pareigas, kaip ir jis."
+  citata_rodoma: |
+    Pats Vasilijus, beje, irgi gerai žino­
+    jo, kad Glinskis, sulaukęs iš jo malonės, dar ištikimiau
+    jam tarnausiąs ir ateityje teiksiąs kur kas daugiau nau­
+    dos Maskvos valstybei, nei būtų pridaręs žalos, pa­
+    sprukdamas slapta į Lietuvą. Štai todėl Glinskis vėl
+    atgavo laisvę ir ankstesnę pagarbą, o ateityje susilau­
+    kė tokio didelio kunigaikščio palankumo, kad jį, pa­
+    rodžiusį nuostabų sumanumą tvarkant taikos bei karo
+    reikalus, Vasilijus paskyrė mažamečio sūnaus globėju.
+    Gavęs šitokias garbingas pareigas, kartą sužinojo, jog
+    Vasilijaus našlė, o jo brolio anūkė begėdiškai gyvena
+    su Ovčina, ėjusiu tas pačias pareigas, kaip ir jis.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

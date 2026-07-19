@@ -114,7 +114,12 @@ media_all_json: |-
     imtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,
     ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
     grąžinta^1 ).
-  citata_rodoma: "Vis tik, sako Halec­\nkis, sunku nepatikėti Dlugošui, kad Torno sutartis atsižvelgė iš­\nimtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,\nji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo\ngrąžinta^1 )."
+  citata_rodoma: |
+    Vis tik, sako Halec­
+    kis, sunku nepatikėti Dlugošui, kad Torno sutartis atsižvelgė iš­
+    imtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,
+    ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
+    grąžinta^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

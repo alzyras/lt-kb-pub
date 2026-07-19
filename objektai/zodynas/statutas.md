@@ -110,7 +110,11 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: "(Lietuvos bajo-\nrija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo\nskiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-\ndėti savo statuto, t. y. savo atskirų teisių)."
+  citata_rodoma: |
+    (Lietuvos bajo-
+    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
+    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
+    dėti savo statuto, t. y. savo atskirų teisių).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

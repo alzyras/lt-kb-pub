@@ -91,7 +91,8 @@ Nenurodyta
     ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
     Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
     Vidurio ir Rytų Europos jėga.
-  citata_rodoma: "Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga"
+  citata_rodoma: |
+    Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

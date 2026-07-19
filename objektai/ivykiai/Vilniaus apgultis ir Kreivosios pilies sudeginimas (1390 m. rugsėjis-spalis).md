@@ -131,7 +131,17 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
     žygį vedama vyriausiojo vado Ordino maršalo Engelhardo
     Rabės22, kadangi didysis magistras Konradas Ciolneris gu­
     lėjo pakirstas sunkios ligos. Tūkstančiui rinktinių anglų
-  citata_rodoma: "Kai rug­\npjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­\nko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­\npročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę \njų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­\nvai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar \nesanti pagonių šalis. Galop ta galinga kariauna išsiruošė į \nžygį vedama vyriausiojo vado Ordino maršalo Engelhardo \nRabės22, kadangi didysis magistras Konradas Ciolneris gu­\nlėjo pakirstas sunkios ligos. Tūkstančiui rinktinių anglų"
+  citata_rodoma: |
+    Kai rug­
+    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
+    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
+    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
+    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
+    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
+    esanti pagonių šalis. Galop ta galinga kariauna išsiruošė į
+    žygį vedama vyriausiojo vado Ordino maršalo Engelhardo
+    Rabės22, kadangi didysis magistras Konradas Ciolneris gu­
+    lėjo pakirstas sunkios ligos. Tūkstančiui rinktinių anglų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -156,7 +166,19 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
     čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias
     savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­
     liams.
-  citata_rodoma: "Il KNYGA\nIšdidūs, pasiekę kruviną pergalę, pasitikintys savo siekių \nsėkme ir riteriškojo karo meno išmanymu, kryžiuočiai jau \nneabejojo, kad užimti Aukštutinę pilį jiems nebus sunku, tad \nvisas pajėgas nukreipė prieš ten apgultus lenkus. Nuolati­\nnės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet \nniekas neįstengė palaužti lenkų narsos ir ištvermės Mos- \nkoževskio gynybos linijose. Tas šaunus karys, išvaręs iš tvir­\ntovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­\nčia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias \nsavaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­\nliams."
+  citata_rodoma: |
+    Il KNYGA
+    Išdidūs, pasiekę kruviną pergalę, pasitikintys savo siekių
+    sėkme ir riteriškojo karo meno išmanymu, kryžiuočiai jau
+    neabejojo, kad užimti Aukštutinę pilį jiems nebus sunku, tad
+    visas pajėgas nukreipė prieš ten apgultus lenkus. Nuolati­
+    nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet
+    niekas neįstengė palaužti lenkų narsos ir ištvermės Mos-
+    koževskio gynybos linijose. Tas šaunus karys, išvaręs iš tvir­
+    tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­
+    čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias
+    savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­
+    liams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -181,7 +203,19 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
     dar ir Onacevičiaus  pastabą,
     prie Hlebovičiaus  Vytauto
     gyvenimo aprašymo.
-  citata_rodoma: "Ta nelaiminga ap­\nsuptis Lietuvos sostinei buvo smūgis, ilgam į atmintį įsirė­\nžęs. Didelė dalis gyventojų žuvo per kautynes prie Žemuti­\nnės pilies, o kiti, netekę prieglobsčio ir mieste, ir \naplinkinėse pilyse, kryžiuočių nuožmiai nudriokotose, iš­\nsibėgiojo po visą kraštą36. Pats miestas tiesiog visai sunai­\nkintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da­\nlį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę \nišardų susilpninta; tiktai neįveikiamas Moskoževskis su\ndar ir Onacevičiaus  pastabą, \nprie Hlebovičiaus  Vytauto \ngyvenimo aprašymo."
+  citata_rodoma: |
+    Ta nelaiminga ap­
+    suptis Lietuvos sostinei buvo smūgis, ilgam į atmintį įsirė­
+    žęs. Didelė dalis gyventojų žuvo per kautynes prie Žemuti­
+    nės pilies, o kiti, netekę prieglobsčio ir mieste, ir
+    aplinkinėse pilyse, kryžiuočių nuožmiai nudriokotose, iš­
+    sibėgiojo po visą kraštą36. Pats miestas tiesiog visai sunai­
+    kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da­
+    lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę
+    išardų susilpninta; tiktai neįveikiamas Moskoževskis su
+    dar ir Onacevičiaus  pastabą,
+    prie Hlebovičiaus  Vytauto
+    gyvenimo aprašymo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

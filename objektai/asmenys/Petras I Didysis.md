@@ -167,7 +167,12 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
     tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
     go kunigaikštį.
-  citata_rodoma: "Karo pradžia. Kai Augustas II su Petru I padarė sutartį\natimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo\njaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-\ntas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-\ngo kunigaikštį."
+  citata_rodoma: |
+    Karo pradžia. Kai Augustas II su Petru I padarė sutartį
+    atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
+    jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
+    tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
+    go kunigaikštį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -185,7 +190,12 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     dančius visą pajūrį nuo Rygos iki Estijos. Augustas irgi pasi-
     ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-
     riauti sau Livoniją (Vidžemę).
-  citata_rodoma: "Tuo pat metu Maskvos caras Petras I Didysis ruošėsi pra-\nsiveržti į Baltijos jūrą. Tam tikslui reikėjo išvyti švedus, val-\ndančius visą pajūrį nuo Rygos iki Estijos. Augustas irgi pasi-\nryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-\nriauti sau Livoniją (Vidžemę)."
+  citata_rodoma: |
+    Tuo pat metu Maskvos caras Petras I Didysis ruošėsi pra-
+    siveržti į Baltijos jūrą. Tam tikslui reikėjo išvyti švedus, val-
+    dančius visą pajūrį nuo Rygos iki Estijos. Augustas irgi pasi-
+    ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-
+    riauti sau Livoniją (Vidžemę).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -208,7 +218,17 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
     sijos įtakon. Iš šios sferos Lietuva-Lenkija nebepajėgė išsilaisvinti
     iki pat padalinimų.
-  citata_rodoma: "Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei\ngarsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per\nDimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—\npagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­\nmingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje\n«abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,\nkuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo\nimperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­\nsijos įtakon. Iš šios sferos Lietuva-Lenkija nebepajėgė išsilaisvinti\niki pat padalinimų."
+  citata_rodoma: |
+    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
+    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
+    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
+    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
+    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
+    «abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,
+    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
+    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
+    sijos įtakon. Iš šios sferos Lietuva-Lenkija nebepajėgė išsilaisvinti
+    iki pat padalinimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -228,7 +248,14 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
     1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
     nulems tolesnį ATR likimą.
-  citata_rodoma: "apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius \nLietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-\nsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai \napie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.\nLenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir \n1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui \nnulems tolesnį ATR likimą."
+  citata_rodoma: |
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
+    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
+    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -249,7 +276,15 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     Dar labiau tas pavojus Lietuvai ir Lenkijai išaugo XVIII amž.
     pradžioje Petro I-jo Didžiojo asmenyje, kuris 1721 Rusiją paskelbė
     imperija.
-  citata_rodoma: "Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »\n(« obojga narodów ») politinė istorija vystėsi bendroje respublikoje\n(« rzeczpospolita »).\nJos svarbiausias ir pavojingiausias kaimynas pasidarė didysis\nMaskvos kunigaikštis Jonas IV-sis, jau 1547 m. priėmęs caro titulą.\nDar labiau tas pavojus Lietuvai ir Lenkijai išaugo XVIII amž.\npradžioje Petro I-jo Didžiojo asmenyje, kuris 1721 Rusiją paskelbė\nimperija."
+  citata_rodoma: |
+    Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »
+    (« obojga narodów ») politinė istorija vystėsi bendroje respublikoje
+    (« rzeczpospolita »).
+    Jos svarbiausias ir pavojingiausias kaimynas pasidarė didysis
+    Maskvos kunigaikštis Jonas IV-sis, jau 1547 m. priėmęs caro titulą.
+    Dar labiau tas pavojus Lietuvai ir Lenkijai išaugo XVIII amž.
+    pradžioje Petro I-jo Didžiojo asmenyje, kuris 1721 Rusiją paskelbė
+    imperija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -271,7 +306,16 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     _, į karalystės lygmenį, mainais į Prūsijos-
     „ Brandenburgo įsipareigojimą per savo te-
     ritoriją nepraleisti švedų kariuomenės.
-  citata_rodoma: "Todėl Augustas 11 nusprendė\nišvyti iš Livonijos švedus ir ją užvaldyti.\nAugustas II susitarė su Rusijos valdovu\nPetru I dél jo paramos prieš Švediją. Augus-\ntas II pripažino Prūsijos kunigaikštystės\n“(kartu su Brandenburgu) statuso pakélima\n_, į karalystės lygmenį, mainais į Prūsijos-\n„ Brandenburgo įsipareigojimą per savo te-\nritoriją nepraleisti švedų kariuomenės."
+  citata_rodoma: |
+    Todėl Augustas 11 nusprendė
+    išvyti iš Livonijos švedus ir ją užvaldyti.
+    Augustas II susitarė su Rusijos valdovu
+    Petru I dél jo paramos prieš Švediją. Augus-
+    tas II pripažino Prūsijos kunigaikštystės
+    “(kartu su Brandenburgu) statuso pakélima
+    _, į karalystės lygmenį, mainais į Prūsijos-
+    „ Brandenburgo įsipareigojimą per savo te-
+    ritoriją nepraleisti švedų kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -61,7 +61,13 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
     „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
     apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
     kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt. (III, 27, 155).
-  citata_rodoma: "Dusburgietis, kaip  jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių\nšaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos\nmatę ir juose dalyvavę žmonės“, pagaliau ir apie tuos, apie kuriuos sužinojęs iš patikimų\nšaltinių („Kaip ši knyga sutvarkyta“).\n  Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:\n„pasak kai kurių“."
+  citata_rodoma: |
+    Dusburgietis, kaip  jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
+    šaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos
+    matę ir juose dalyvavę žmonės“, pagaliau ir apie tuos, apie kuriuos sužinojęs iš patikimų
+    šaltinių („Kaip ši knyga sutvarkyta“).
+      Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:
+    „pasak kai kurių“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

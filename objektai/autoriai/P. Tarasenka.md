@@ -78,7 +78,8 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
     mybos raida Lietuvoje_ , Lietuvos istorijos metraštis 1973 m. (1974), 5-20 p.
     **—** Švoba, J.: _Aisčiai ir Baltijos pajūrys,_ Karys, 1970, 193-200 p. —
     Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929.
-  citata_rodoma: "Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929."
+  citata_rodoma: |
+    Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -98,7 +99,9 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
     **—** Švoba, J.: _Aisčiai ir Baltijos pajūrys,_ Karys, 1970, 193-200 p. —
     Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929. — (”)
     _Lietuvos piliakalniai,_ Vilnius 1956.
-  citata_rodoma: "(”)\n_Lietuvos piliakalniai,_ Vilnius 1956."
+  citata_rodoma: |
+    (”)
+    _Lietuvos piliakalniai,_ Vilnius 1956.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

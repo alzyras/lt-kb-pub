@@ -166,7 +166,12 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     išnykusi iki xvii a.). Nepaisant to, kad husarai buvo brangesnė
     kavalerija nei to meto pistoletais atakuojanti vakarietiška, husarų
     ataka buvo efektyvesnis kovos būdas.
-  citata_rodoma: "Ilgomis ietimis ginkluoti raitininkai - husarai (ieti-\nmis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai\nišnykusi iki xvii a.). Nepaisant to, kad husarai buvo brangesnė\nkavalerija nei to meto pistoletais atakuojanti vakarietiška, husarų\nataka buvo efektyvesnis kovos būdas."
+  citata_rodoma: |
+    Ilgomis ietimis ginkluoti raitininkai - husarai (ieti-
+    mis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai
+    išnykusi iki xvii a.). Nepaisant to, kad husarai buvo brangesnė
+    kavalerija nei to meto pistoletais atakuojanti vakarietiška, husarų
+    ataka buvo efektyvesnis kovos būdas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

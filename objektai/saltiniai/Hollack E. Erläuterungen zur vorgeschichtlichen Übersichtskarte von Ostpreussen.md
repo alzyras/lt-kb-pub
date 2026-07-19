@@ -69,7 +69,9 @@ Dusburgietis teigia, kad hollack E.
     Glogau—Berlin, 1908.
     [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des
     ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.
-  citata_rodoma: "Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—\nGlogau—Berlin, 1908."
+  citata_rodoma: |
+    Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—
+    Glogau—Berlin, 1908.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -106,7 +106,17 @@ Nenurodyta
     atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
     todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
     puotauti.
-  citata_rodoma: "208 (203). Apie Marienburgo pilies pastatymą\n\n  1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,\nkur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios\nšlovei bei garbei ji čia ir buvo perkelta500.\n\n\n\n\n    209 (204)."
+  citata_rodoma: |
+    208 (203). Apie Marienburgo pilies pastatymą
+
+      1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
+    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
+    šlovei bei garbei ji čia ir buvo perkelta500.
+
+
+
+
+        209 (204).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

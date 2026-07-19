@@ -139,7 +139,12 @@ media_all_json: |-
     tos, akmeniniai verpstukų smagračiai, kartais variniai lygintuvai
     rūbams lyginti (turiu tokio lygintuvo liekanas, iškastas Obeliuo­
     se).
-  citata_rodoma: "Ten jis buvo pastebėtas pra­\nėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.\n1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­\nsionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius. Ten jie\nrado pagonybės likučių ir juos skrupulingai išnaikino."
+  citata_rodoma: |
+    Ten jis buvo pastebėtas pra­
+    ėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.
+    1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­
+    sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius. Ten jie
+    rado pagonybės likučių ir juos skrupulingai išnaikino.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -203,7 +203,13 @@ Nenurodyta
     (III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri
     stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
     Bajerburgą36. Net 1410 m.
-  citata_rodoma: "Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,\nbartų ir kt. rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219,\n223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.\n  Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,\nkad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,\n226—1285 m."
+  citata_rodoma: |
+    Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,
+    bartų ir kt. rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219,
+    223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.
+      Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
+    kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,
+    226—1285 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -226,7 +232,15 @@ Nenurodyta
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: "Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus\ntada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir\nsutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui\n(1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  citata_rodoma: |
+    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
+    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
+    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

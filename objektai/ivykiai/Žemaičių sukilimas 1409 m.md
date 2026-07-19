@@ -140,7 +140,10 @@ Nenurodyta
     1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie­
     tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
     Vytautas ėmė skųstis tokiu kaimyno griežtumu^55.
-  citata_rodoma: "1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie-\ntuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų.\nVytautas ėmė skųstis tokiu kaimyno griežtumu."
+  citata_rodoma: |
+    1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie-
+    tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų.
+    Vytautas ėmė skųstis tokiu kaimyno griežtumu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -157,7 +160,8 @@ Nenurodyta
     nunokus» prasidėsiąs karas^58 , sukilo dar gegužės mėn. (1409). Jie
     sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
     Žemaičiuose kitas dvi naujas pilis ir Klaipėdą^60.
-  citata_rodoma: "Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą."
+  citata_rodoma: |
+    Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

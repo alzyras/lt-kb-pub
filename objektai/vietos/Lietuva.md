@@ -3024,7 +3024,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Mitologinis pasakojimas paliktas su Narbuto atribucija. Detalių sąrašas sutrumpintas iki citatos palaikomo apibendrinimo.'
   pagrindžia:
-    - c-171637
+    - c-117
 <a id="claim-t-199425"></a>
 - t-235
   global_id: t-199425
@@ -14042,6 +14042,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-199413
 - c-118
   santrauka: 'Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškąją Aleksotą apdainuojančias dainas siejo su Kauno apylinkėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14748,7 +14749,20 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vos metropolitų religinė viršenybė
     rusiškojo tikėjimo vyskupų Lietuvo­
     je atžvilgiu.
-  citata_rodoma: "44, teigdamas, \nkad tokia geradarybė pirkliams skir­\nta, bet apėjo schizmatikus, kurių, at­\nkakliai Fotijo nuostatų besilaikančių, \ntarp rusinu buvo nemažai. Vytautas \nsugebėjo įvairiais būdais stiprinti sa­\nvo aukščiausią valdžią Lietuvoje ir \nkliūtis, kurios stojo skersai kelio, at­\nkakliai šalindavo. Vienas didžiausių \nir opiausių nepatogumų buvo Mask­\nvos metropolitų religinė viršenybė \nrusiškojo tikėjimo vyskupų Lietuvo­\nje atžvilgiu."
+  citata_rodoma: |
+    44, teigdamas,
+    kad tokia geradarybė pirkliams skir­
+    ta, bet apėjo schizmatikus, kurių, at­
+    kakliai Fotijo nuostatų besilaikančių,
+    tarp rusinu buvo nemažai. Vytautas
+    sugebėjo įvairiais būdais stiprinti sa­
+    vo aukščiausią valdžią Lietuvoje ir
+    kliūtis, kurios stojo skersai kelio, at­
+    kakliai šalindavo. Vienas didžiausių
+    ir opiausių nepatogumų buvo Mask­
+    vos metropolitų religinė viršenybė
+    rusiškojo tikėjimo vyskupų Lietuvo­
+    je atžvilgiu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -14799,7 +14813,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     prieš Ordiną. Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
     pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
     66  PD, II, 6; PKD, s.
-  citata_rodoma: "Dusburgietis, rašydamas apie lietuvių\npuolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti\nprieš Lietuvą (III, 343—346, 357—358).\n  Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo\nžemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis."
+  citata_rodoma: |
+    Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
+      Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -14894,7 +14913,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
     Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
     elgė Latvija ir Estija).
-  citata_rodoma: "Lietuva pasirinko euroatlantinės integracijos \nkelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos \nRespublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-\nelgė Latvija ir Estija)."
+  citata_rodoma: |
+    Lietuva pasirinko euroatlantinės integracijos
+    kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
+    Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
+    elgė Latvija ir Estija).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -14938,7 +14961,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
     šviesą iki pat Meksikos, Paragvajaus. Kitas šio pasaulio pakraštys, labiau-
     siai nutolęs į šiaurę, buvo Lietuva.
-  citata_rodoma: "XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li-\nsabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės \nšviesą iki pat Meksikos, Paragvajaus. Kitas šio pasaulio pakraštys, labiau-\nsiai nutolęs į šiaurę, buvo Lietuva."
+  citata_rodoma: |
+    XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li-
+    sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
+    šviesą iki pat Meksikos, Paragvajaus. Kitas šio pasaulio pakraštys, labiau-
+    siai nutolęs į šiaurę, buvo Lietuva.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15007,7 +15034,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
     lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
     dėl Lietuvos nepriklausomybės atkūrimo.
-  citata_rodoma: "Tačiau prieš tai vyko kruvina kova.\nKaras po karo – ginkluota rezistencija \nNuo 1944 m. vasaros sovietų represijos ir teroras kurstė \nlietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas \ndėl Lietuvos nepriklausomybės atkūrimo."
+  citata_rodoma: |
+    Tačiau prieš tai vyko kruvina kova.
+    Karas po karo – ginkluota rezistencija
+    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
+    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
+    dėl Lietuvos nepriklausomybės atkūrimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15099,7 +15131,27 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vo dienas kalėjime toje pačioje Lietuvoje. Na o totoriai per
     paskutiniuosius trejus Aleksandro valdymo metus, tai yra,
     nuo 1503 metų, vis drąsiau puldinėjo lietuvių žemes.
-  citata_rodoma: "Mat rašo, jog svečiai, \ntai yra, rusų pirkliai, atvykstantys su \nsavo prekėmis į Vilnių, apsistoja \nįvairiuose namuose mieste, kur no­\nri, be jokio prisistatymo, o paskui, \nprekiaudami su vokiečiais ir kitais \nsvetimšaliais pirkliais, niekam ne­\npranešę, išvažiuoja iš miesto; ir kad \ntarp jų gali būti nepatikimų ir no­\nrinčių pakenkti, todėl įsako ir leidžia \nmiestui statyti užeigą ir t t.\n231\n\n## Puslapis 248\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nnorėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­\nvo dienas kalėjime toje pačioje Lietuvoje. Na o totoriai per \npaskutiniuosius trejus Aleksandro valdymo metus, tai yra, \nnuo 1503 metų, vis drąsiau puldinėjo lietuvių žemes."
+  citata_rodoma: |
+    Mat rašo, jog svečiai,
+    tai yra, rusų pirkliai, atvykstantys su
+    savo prekėmis į Vilnių, apsistoja
+    įvairiuose namuose mieste, kur no­
+    ri, be jokio prisistatymo, o paskui,
+    prekiaudami su vokiečiais ir kitais
+    svetimšaliais pirkliais, niekam ne­
+    pranešę, išvažiuoja iš miesto; ir kad
+    tarp jų gali būti nepatikimų ir no­
+    rinčių pakenkti, todėl įsako ir leidžia
+    miestui statyti užeigą ir t t.
+    231
+
+    ## Puslapis 248
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    norėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­
+    vo dienas kalėjime toje pačioje Lietuvoje. Na o totoriai per
+    paskutiniuosius trejus Aleksandro valdymo metus, tai yra,
+    nuo 1503 metų, vis drąsiau puldinėjo lietuvių žemes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15160,7 +15212,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     miestiečių - viduriniojo visuomenės luomo - nebuvimo Lenki­
     jos - Lietuvos valstybėje vyko daugiau destruktyvių procesų,
     nulėmusių jos žlugimą.
-  citata_rodoma: "M. Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­\nlyvos raidos priežastis. Istorikas kritiškai pažymėjo, kad dėl \nmiestiečių - viduriniojo visuomenės luomo - nebuvimo Lenki­\njos - Lietuvos valstybėje vyko daugiau destruktyvių procesų, \nnulėmusių jos žlugimą."
+  citata_rodoma: |
+    M. Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­
+    lyvos raidos priežastis. Istorikas kritiškai pažymėjo, kad dėl
+    miestiečių - viduriniojo visuomenės luomo - nebuvimo Lenki­
+    jos - Lietuvos valstybėje vyko daugiau destruktyvių procesų,
+    nulėmusių jos žlugimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15222,7 +15279,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas.
     J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
     kija, arba Lietuvą užkariauja Rusija.
-  citata_rodoma: "Prijungtų sričių bajorai turėjo \nprisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų \nbuvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas. \nJ."
+  citata_rodoma: |
+    Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų
+    buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas.
+    J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15263,7 +15324,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 
     atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
     jos ateities raidos gaires.
-  citata_rodoma: "1949 m. vasario 16 d. LLKS tarybos\npatvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė\n\natkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė\njos ateities raidos gaires."
+  citata_rodoma: |
+    1949 m. vasario 16 d. LLKS tarybos
+    patvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė
+
+    atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
+    jos ateities raidos gaires.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15446,7 +15512,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Pačioje Vakarų Europoje XIII—XIV a. irgi pasigirsdavo Kryžiuočių ordino adresu
     kritiškų balsų, raginančių netgi jį likviduoti. Įtempta grupuočių kova vyko ir Ordino
     viduje, siekiant restauruoti šią vokiečių feodalų karinę-religinę organizaciją.
-  citata_rodoma: "Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama\npriešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki\nOderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,\nsukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino\nveiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.\n  Pačioje Vakarų Europoje XIII—XIV a."
+  citata_rodoma: |
+    Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama
+    priešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki
+    Oderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,
+    sukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino
+    veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
+      Pačioje Vakarų Europoje XIII—XIV a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -15490,7 +15562,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     (egzilinę) vyriausybę, tačiau, retėjant diplomatų gretoms, įgijo simbolinės
     raiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos
     diplomatus, kurie diplomatinėje tarnyboje dirbo iki 1940 m.
-  citata_rodoma: "Lozoraitis \ndiplomatijos šefo pareigas interpretavo kaip \nprimus inter pares (pirmas tarp lygiųjų) tarp \nvisų pasiuntinių. Tad išbraukta iš pasaulio \npolitinio žemėlapio Lietuva diplomatų dėka \nnebuvo išbraukta iš politinės sąmonės. Iš \npradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties \n(egzilinę) vyriausybę, tačiau, retėjant diplomatų gretoms, įgijo simbolinės \nraiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos \ndiplomatus, kurie diplomatinėje tarnyboje dirbo iki 1940 m."
+  citata_rodoma: |
+    Lozoraitis
+    diplomatijos šefo pareigas interpretavo kaip
+    primus inter pares (pirmas tarp lygiųjų) tarp
+    visų pasiuntinių. Tad išbraukta iš pasaulio
+    politinio žemėlapio Lietuva diplomatų dėka
+    nebuvo išbraukta iš politinės sąmonės. Iš
+    pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties
+    (egzilinę) vyriausybę, tačiau, retėjant diplomatų gretoms, įgijo simbolinės
+    raiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos
+    diplomatus, kurie diplomatinėje tarnyboje dirbo iki 1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15523,7 +15605,25 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: "99, kuriame atkalbinėja Romos\n157\n\n## Puslapis 174\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\npriešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­\nleidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  citata_rodoma: |
+    99, kuriame atkalbinėja Romos
+    157
+
+    ## Puslapis 174
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15603,7 +15703,21 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais.
-  citata_rodoma: "suma.\n\n## Puslapis 205\n\nIl KNYGA\nIV\nVILNIAUS VYSKUPŲ SĄRAŠAS NUO KATEDROS ĮKŪRIMO \nIKI 1600 METŲ\nDar prieš krikščionybės įvedimą, XIII amžiuje, kai Min­\ndaugas (Myndozve, Mendog) pasiskelbė Lietuvos karaliumi \nir pranešė apie siekius priimti Romos tikėjimą, popiežius \nišrinko ir paskyrė visai Lietuvai vyskupą. Apie tai mini Kroni­\nka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - \nlavo Baško (vert."
+  citata_rodoma: |
+    suma.
+
+    ## Puslapis 205
+
+    Il KNYGA
+    IV
+    VILNIAUS VYSKUPŲ SĄRAŠAS NUO KATEDROS ĮKŪRIMO
+    IKI 1600 METŲ
+    Dar prieš krikščionybės įvedimą, XIII amžiuje, kai Min­
+    daugas (Myndozve, Mendog) pasiskelbė Lietuvos karaliumi
+    ir pranešė apie siekius priimti Romos tikėjimą, popiežius
+    išrinko ir paskyrė visai Lietuvai vyskupą. Apie tai mini Kroni­
+    ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -
+    lavo Baško (vert.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15641,7 +15755,32 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Maketuotoja Danutė Navickienė
     Užsakymas
     „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
-  citata_rodoma: "449-466\nISBN 978-5-417-00907-5\nMykolo Balinskio (1794^1864) dvitomė „Vilniaus miesto istori­\nja\" lietuviškai leidžiama pirmą kartą. Vilniaus istoriografijos pradi­\nninko veikalas, išspausdintas 1836-1837 m., apima Vilniaus istoriją \nnuo miesto įkūrimo iki Stepono Batoro mirties. Autorius surinko ir \npanaudojo daugybę istorijos šaltinių, kurie neišliko iki mūsų dienų. \nTai vertingas informacijos šaltinis istorikams, kultūrologams ir vi­\nsiems skaitytojams, besidomintiems senąja Vilniaus miesto ir bendra \nikikrikščioniškos Lietuvos valstybės istorija.\nUDK 947.45\n\n## Puslapis 494\n\nMykolas Balinskis \nVILNIAUS MIESTO ISTORIJA\nIš lenkų kalbos vertė \nOna Slavėnaitė, Irena Katilienė \nIš lotynų kalbos vertė \nJūratė Dalia Baronienė\nRedaktorė Skirmantė Ramanauskaitė \nMeninis redaktorius Romas Dubonis \nMaketuotoja Danutė Navickienė\nUžsakymas\n„Minties\" leidykla, Z."
+  citata_rodoma: |
+    449-466
+    ISBN 978-5-417-00907-5
+    Mykolo Balinskio (1794^1864) dvitomė „Vilniaus miesto istori­
+    ja" lietuviškai leidžiama pirmą kartą. Vilniaus istoriografijos pradi­
+    ninko veikalas, išspausdintas 1836-1837 m., apima Vilniaus istoriją
+    nuo miesto įkūrimo iki Stepono Batoro mirties. Autorius surinko ir
+    panaudojo daugybę istorijos šaltinių, kurie neišliko iki mūsų dienų.
+    Tai vertingas informacijos šaltinis istorikams, kultūrologams ir vi­
+    siems skaitytojams, besidomintiems senąja Vilniaus miesto ir bendra
+    ikikrikščioniškos Lietuvos valstybės istorija.
+    UDK 947.45
+
+    ## Puslapis 494
+
+    Mykolas Balinskis
+    VILNIAUS MIESTO ISTORIJA
+    Iš lenkų kalbos vertė
+    Ona Slavėnaitė, Irena Katilienė
+    Iš lotynų kalbos vertė
+    Jūratė Dalia Baronienė
+    Redaktorė Skirmantė Ramanauskaitė
+    Meninis redaktorius Romas Dubonis
+    Maketuotoja Danutė Navickienė
+    Užsakymas
+    „Minties" leidykla, Z.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15691,7 +15830,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
     ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
     tybingumą.
-  citata_rodoma: "Apgindamas LDK \nantspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-\nvos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami \nne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-\ntybingumą."
+  citata_rodoma: |
+    Apgindamas LDK
+    antspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-
+    vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
+    ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
+    tybingumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15755,7 +15899,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
     valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
     tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
-  citata_rodoma: "Smetonos autoritarinis re-\nžimas, nors ir dėl visai skirtingų priežasčių.\nNepriklausomybės karta\nPer nepilnus du dešimtmečius Lietuva galutinai tapo lietu-\nviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A."
+  citata_rodoma: |
+    Smetonos autoritarinis re-
+    žimas, nors ir dėl visai skirtingų priežasčių.
+    Nepriklausomybės karta
+    Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
+    viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15780,7 +15929,14 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     17
     suspėjo krikštytis, o 1253 m. – karūnuotis
     karaliumi.
-  citata_rodoma: "Valstybė – Lietuvos Didžioji Kunigaikš-\ntija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n17\nsuspėjo krikštytis, o 1253 m. – karūnuotis \nkaraliumi."
+  citata_rodoma: |
+    Valstybė – Lietuvos Didžioji Kunigaikš-
+    tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
+
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    17
+    suspėjo krikštytis, o 1253 m. – karūnuotis
+    karaliumi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15803,7 +15959,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
     ir prūsų kraštą.
-  citata_rodoma: "Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus\nžygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,\nŽivinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)\n1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti\nir prūsų kraštą."
+  citata_rodoma: |
+    Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
+    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
+    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
+    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
+    ir prūsų kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -15845,7 +16006,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
     pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
-  citata_rodoma: "Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui\nAlbertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu\nir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv."
+  citata_rodoma: |
+    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
+    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
+    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -15891,7 +16055,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: "Urbšys gavo iš V. Molotovo rankų \nultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-\ntimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-\nnę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos \n10 val. ryto."
+  citata_rodoma: |
+    Urbšys gavo iš V. Molotovo rankų
+    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
+    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
+    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
+    10 val. ryto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -15974,7 +16143,26 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
     prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
     net iki Šalčininkų nusigavo51.
-  citata_rodoma: "Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­\ngailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­\ntęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­\nsinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos\n-- • --\n135\n\n## Puslapis 152\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­\nnas iš sykio griebėsi tos patogios progos pradėti karą ir nio­\nkoti tuos pavojingus jam kaimynus (1394 m.); kitais metais \nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę \nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir \nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo, \nnet iki Šalčininkų nusigavo51."
+  citata_rodoma: |
+    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
+    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
+    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
+    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
+    -- • --
+    135
+
+    ## Puslapis 152
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -16186,7 +16374,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
     ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
     okupacinis valdymas.
-  citata_rodoma: "Ištremtųjų \nvietas turėjo užimti atkelti milijonai vokiečių. \nVokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-\nministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis \nokupacinis valdymas."
+  citata_rodoma: |
+    Ištremtųjų
+    vietas turėjo užimti atkelti milijonai vokiečių.
+    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
+    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
+    okupacinis valdymas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -16207,7 +16400,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
     Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
     žemės.
-  citata_rodoma: "1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio \n23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos \nDidžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių \nžemės."
+  citata_rodoma: |
+    1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
+    23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
+    Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
+    žemės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -16271,7 +16468,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Oderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,
     sukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino
     veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
-  citata_rodoma: "Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,\nLietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos\ncentru62.\n   Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama\npriešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki\nOderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,\nsukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino\nveiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu."
+  citata_rodoma: |
+    Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,
+    Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos
+    centru62.
+       Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama
+    priešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki
+    Oderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,
+    sukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino
+    veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -16313,7 +16518,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pat Sembos vyskupo fogtų (advocatus) (Ditrichas, Pilypas, Hugonas, Gerhardas) (III,
     227, 291, 330, 338), trys Baigos komtūrai (III, 247, 266, 362) ir t. t., daugumas jų — iš
     rytinės Ordino teritorijos dalies, tiesiogiai dalyvavę kare prieš Lietuvą.
-  citata_rodoma: "Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,\nčia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji\nlietuvių smūgiai.\n   Žinių Dusburgiečiui teikė visų pirma Ordino broliai."
+  citata_rodoma: |
+    Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,
+    čia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji
+    lietuvių smūgiai.
+       Žinių Dusburgiečiui teikė visų pirma Ordino broliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -16332,7 +16541,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ralyste. Taip buvo iki pat Lietuvos krikšto 1387 m., kuomet integ-
     ruojant Lietuvos valstybę į Vakarų krikščioniškųjų valstybių
     sistemą Lietuvai suteiktas Didžiosios kunigaikštijos rangas.
-  citata_rodoma: "Vakarams skirtoje korespondencijoje Lietuva buvo vadinama ka-\nralyste. Taip buvo iki pat Lietuvos krikšto 1387 m., kuomet integ-\nruojant Lietuvos valstybę į Vakarų krikščioniškųjų valstybių\nsistemą Lietuvai suteiktas Didžiosios kunigaikštijos rangas."
+  citata_rodoma: |
+    Vakarams skirtoje korespondencijoje Lietuva buvo vadinama ka-
+    ralyste. Taip buvo iki pat Lietuvos krikšto 1387 m., kuomet integ-
+    ruojant Lietuvos valstybę į Vakarų krikščioniškųjų valstybių
+    sistemą Lietuvai suteiktas Didžiosios kunigaikštijos rangas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -16430,7 +16643,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
     pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
     tokią, rodos, beviltišką.
-  citata_rodoma: "Už žalą, padarytą per šį niokojamą iš­\npuolį Sembai, lietuviams buvo atsilyginta kitais ir dar\nkokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­\nsą laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu\nkariaudami, smogė nemažai stiprių smūgių. Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį."
+  citata_rodoma: |
+    Už žalą, padarytą per šį niokojamą iš­
+    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
+    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
+    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
+    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
+    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
+    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
+    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
+    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
+    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
+    apsuptą pilį.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -16455,7 +16679,22 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     1362 m e ta i
     prietaisų, pasiryžę nugalėti,
     ypač po to, kai Algirdas, at-
-  citata_rodoma: "Be\nnuolatinės kariuomenės, savo rankose turėjo į pagal­\nbą atvykusius Čekijos, Anglijos, Danijos ir Vokietijos\nkarius. Pavasario pradžioje jis ir išvedė abi kariuo­\nmenes į Lietuvą. Pirmiausia jie užgriuvo Kauną; pilį\npuolė pasitelkę visokiausių\n1362 m e ta i\nprietaisų, pasiryžę nugalėti,\nypač po to, kai Algirdas, at-\n246\n\n## Puslapis 245\n\nvykęs su kariuomene pralaužti apsupimo žiedo, nieko\nnelaimėjo ir buvo atstumtas."
+  citata_rodoma: |
+    Be
+    nuolatinės kariuomenės, savo rankose turėjo į pagal­
+    bą atvykusius Čekijos, Anglijos, Danijos ir Vokietijos
+    karius. Pavasario pradžioje jis ir išvedė abi kariuo­
+    menes į Lietuvą. Pirmiausia jie užgriuvo Kauną; pilį
+    puolė pasitelkę visokiausių
+    1362 m e ta i
+    prietaisų, pasiryžę nugalėti,
+    ypač po to, kai Algirdas, at-
+    246
+
+    ## Puslapis 245
+
+    vykęs su kariuomene pralaužti apsupimo žiedo, nieko
+    nelaimėjo ir buvo atstumtas.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -16497,7 +16736,21 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
     nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
     tis į žygį.
-  citata_rodoma: "Vėliau su permaininga \nsėkme abi šalys siaubė viena kitos kaimus, patirdamos \nbeveik vienodų nuostolių. Labiausiai vis dėlto lietu­\nvius kamavo tai, kad, sugriovus pilis, žemdirbiai vie­\nnas po kito palikdavo kaimus, be to, priešas leisda­\nvosi vis toliau į Lietuvos gilumą. Štai todėl, norėdami\nir priešą sutramdyti, ir su-\n1364 m e ta i \nsigrąžinti nuolatinės grėsmės\nišblaškytus žemdirbius, \njie \nstengėsi atstatyti tvirtoves, būgštaudami, kad karas il­\ngainiui nepersimestų ne tik į tolimesnes Lietuvos že­\nmes, bet ir pačią Rusią."
+  citata_rodoma: |
+    Vėliau su permaininga
+    sėkme abi šalys siaubė viena kitos kaimus, patirdamos
+    beveik vienodų nuostolių. Labiausiai vis dėlto lietu­
+    vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie­
+    nas po kito palikdavo kaimus, be to, priešas leisda­
+    vosi vis toliau į Lietuvos gilumą. Štai todėl, norėdami
+    ir priešą sutramdyti, ir su-
+    1364 m e ta i
+    sigrąžinti nuolatinės grėsmės
+    išblaškytus žemdirbius,
+    jie
+    stengėsi atstatyti tvirtoves, būgštaudami, kad karas il­
+    gainiui nepersimestų ne tik į tolimesnes Lietuvos že­
+    mes, bet ir pačią Rusią.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -16565,7 +16818,24 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     bet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar
     didesnę šlovę, traukė iš visų krikščioniškųjų karalys­
     čių į Prūsiją.
-  citata_rodoma: "Mat teutonų riterių, arba kryžiuočių,\nordinas dėl nuolatinių karų tuo metu ten buvo laikomas\n3 3 5\n\n## Puslapis 334\n\nnelyginant kokia arena, kur galima pelnyti karo šlovę,\ntodėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,\nbet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar\ndidesnę šlovę, traukė iš visų krikščioniškųjų karalys­\nčių į Prūsiją. Riterių magistras Konradas su savo bei\nsvetimšalių kariuomene pava-\nĮsiv e ržia  į L ietu vą\nsario pabaigoje patraukė į\nLietuvą. Nusiaubęs dideliuose\nplotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš\nlietuvių bei žemaičių keletą pilių."
+  citata_rodoma: |
+    Mat teutonų riterių, arba kryžiuočių,
+    ordinas dėl nuolatinių karų tuo metu ten buvo laikomas
+    3 3 5
+
+    ## Puslapis 334
+
+    nelyginant kokia arena, kur galima pelnyti karo šlovę,
+    todėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,
+    bet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar
+    didesnę šlovę, traukė iš visų krikščioniškųjų karalys­
+    čių į Prūsiją. Riterių magistras Konradas su savo bei
+    svetimšalių kariuomene pava-
+    Įsiv e ržia  į L ietu vą
+    sario pabaigoje patraukė į
+    Lietuvą. Nusiaubęs dideliuose
+    plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
+    lietuvių bei žemaičių keletą pilių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -16609,7 +16879,28 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     dasi n ie k o n ežin ąs
     nymus, jis veikiau dėjosi nie­
     ko nežinąs, didžiai trokšda-
-  citata_rodoma: "Mat \nimperatorius Zigmantas ir Vytautas jau kelerius metus\nslapta derėjosi dėl Lietuvos \nV y ta u ta s nori p a sk el- \nkaralystės paskelbimo. Kai\nhti L ietu vą k a ra ly ste \napie šias derybas pradėjo\nkalbėti kiti žmonės, viską su­\nžinojo ir Romos kurija. Štai todėl popiežius, puikiai su­\nvokdamas, kaip lengvai ir giliai žeidžia valdovų širdis \npažadas gauti karaliaus vainiką, tuojau pat įspėjo laiš­\nku Kulmo vyskupą, kuris, jo \nP opiežiu s \nM a rty n a s \ngalva, vienas galėjo ryžtis \nV su k liu d o \nšitokiam žingsniui, kad šis,\npaklausęs imperatoriaus Zig­\nmanto, nieku būdu nedrįstų apvainikuoti Vytauto pagal \nRomos bažnyčios papročius karaliaus vainiku ir pakel­\nti į Lietuvos karalius."
+  citata_rodoma: |
+    Mat
+    imperatorius Zigmantas ir Vytautas jau kelerius metus
+    slapta derėjosi dėl Lietuvos
+    V y ta u ta s nori p a sk el-
+    karalystės paskelbimo. Kai
+    hti L ietu vą k a ra ly ste
+    apie šias derybas pradėjo
+    kalbėti kiti žmonės, viską su­
+    žinojo ir Romos kurija. Štai todėl popiežius, puikiai su­
+    vokdamas, kaip lengvai ir giliai žeidžia valdovų širdis
+    pažadas gauti karaliaus vainiką, tuojau pat įspėjo laiš­
+    ku Kulmo vyskupą, kuris, jo
+    P opiežiu s
+    M a rty n a s
+    galva, vienas galėjo ryžtis
+    V su k liu d o
+    šitokiam žingsniui, kad šis,
+    paklausęs imperatoriaus Zig­
+    manto, nieku būdu nedrįstų apvainikuoti Vytauto pagal
+    Romos bažnyčios papročius karaliaus vainiku ir pakel­
+    ti į Lietuvos karalius.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -16649,7 +16940,20 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     neseniai priėmę krikščionių
     tikėjimą ir nė trupučio jam neatšalę, karštai gerbė po­
     piežiaus žodį.
-  citata_rodoma: "397\n\n## Puslapis 396\n\nDanijos karalius ir Pomeranijos kunigaikštis, atvykę\nkryžiuočiams į pagalbą ir supratę, kas teisus ir netei­\nsus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,\nperėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,\nkuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu\nšie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­\nsirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o\nkaralius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į\nSrodą, vos neprarado gyvybės."
+  citata_rodoma: |
+    397
+
+    ## Puslapis 396
+
+    Danijos karalius ir Pomeranijos kunigaikštis, atvykę
+    kryžiuočiams į pagalbą ir supratę, kas teisus ir netei­
+    sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,
+    perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,
+    kuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu
+    šie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­
+    sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
+    karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
+    Srodą, vos neprarado gyvybės.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -16720,7 +17024,28 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ra i n ė ra to k s sunkus, k ad n eg alim a b ū tų rasti bendros
     kalbos, jeig u m ask v ėn ai su tik s ta rtis teisingom is sąly ­
     gom is".
-  citata_rodoma: "Iv an as n ep rie šta rav o , k ai A u ­\ngusto\np asiu n tin iai\np areišk ė\nMaskvėnai nepritaria\nn o rį p a sita rti su k araliu m i ar-\npaliauhoms ir įsibrau-\nba\nb en t laišk u\np ak lau sti jį\nna į Lietuvą\nnuom onės, tačia u  n iek u  būdu\nn en o rėjo  su tik ti nei su ilg es­\nnėm is paliaubom is, n ei su laik in u  k aro  v eik sm ų  n u tra u ­\nkim u, kol bus g au tas k araliau s atsakym as. M at jis jau\nbuvo sutelk ęs žygiui p asiren g u sią kariu o m en ę, k u ri tuo\nta rp u  n etoli L ietuvos sienų įsik ū rė žiem os stovyklose.\nT uo p a t keliu, k u riu o  leidosi nam o pasiu n tin iai, p ra rad ę\nv iltį su tarti taiką, p atra u k ė  m etų  p ab aig o je šviežiom is\njų  pėdom is priešų vėliavos, n ely g in an t p aties likim o\nstum te stum iam os lin k  ty k o jan čio s nelaim ės."
+  citata_rodoma: |
+    Iv an as n ep rie šta rav o , k ai A u ­
+    gusto
+    p asiu n tin iai
+    p areišk ė
+    Maskvėnai nepritaria
+    n o rį p a sita rti su k araliu m i ar-
+    paliauhoms ir įsibrau-
+    ba
+    b en t laišk u
+    p ak lau sti jį
+    na į Lietuvą
+    nuom onės, tačia u  n iek u  būdu
+    n en o rėjo  su tik ti nei su ilg es­
+    nėm is paliaubom is, n ei su laik in u  k aro  v eik sm ų  n u tra u ­
+    kim u, kol bus g au tas k araliau s atsakym as. M at jis jau
+    buvo sutelk ęs žygiui p asiren g u sią kariu o m en ę, k u ri tuo
+    ta rp u  n etoli L ietuvos sienų įsik ū rė žiem os stovyklose.
+    T uo p a t keliu, k u riu o  leidosi nam o pasiu n tin iai, p ra rad ę
+    v iltį su tarti taiką, p atra u k ė  m etų  p ab aig o je šviežiom is
+    jų  pėdom is priešų vėliavos, n ely g in an t p aties likim o
+    stum te stum iam os lin k  ty k o jan čio s nelaim ės.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -16772,7 +17097,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pą Lietuvos istoriją lenkiškai (Domowe wiadomošci o
     Wielkim Xięstwie Litewskim z przytączeniem historyi
     tegož narodu przedrukowane.
-  citata_rodoma: "Vaizdingi, nors ir žiaurūs, karo veiksmų aprašy­\nmai su lietuvių kunigaikščių ir karvedžių charakteris­\n28\n\n## Puslapis 27\n\ntikomis leidžia pastebėti siužetų idėją. Tie lietuviai\npagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­\nkimi protėvių religijai ir papročiams,— jie sukūrė Lie­\ntuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­\nmi."
+  citata_rodoma: |
+    Vaizdingi, nors ir žiaurūs, karo veiksmų aprašy­
+    mai su lietuvių kunigaikščių ir karvedžių charakteris­
+    28
+
+    ## Puslapis 27
+
+    tikomis leidžia pastebėti siužetų idėją. Tie lietuviai
+    pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­
+    kimi protėvių religijai ir papročiams,— jie sukūrė Lie­
+    tuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­
+    mi.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -16904,7 +17240,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
     ir Lietuvos valstybės padalijimo. LDK teritorijos dalis, t. y. etninės lietu-
     vių žemės, atiteko Rusijai (ir priklausė jai iki Pirmojo pasaulinio karo).
-  citata_rodoma: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-\nburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos \nir Lietuvos valstybės padalijimo. LDK teritorijos dalis, t. y. etninės lietu-\nvių žemės, atiteko Rusijai (ir priklausė jai iki Pirmojo pasaulinio karo)."
+  citata_rodoma: |
+    Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
+    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
+    ir Lietuvos valstybės padalijimo. LDK teritorijos dalis, t. y. etninės lietu-
+    vių žemės, atiteko Rusijai (ir priklausė jai iki Pirmojo pasaulinio karo).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -16927,7 +17267,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
     ir prūsų kraštą.
-  citata_rodoma: "Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus\nžygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,\nŽivinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)\n1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti\nir prūsų kraštą."
+  citata_rodoma: |
+    Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
+    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
+    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
+    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
+    ir prūsų kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -17095,7 +17440,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
-  citata_rodoma: "Galimybė atsidurti „po \nrusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į \nNikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-\nžimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus, \nideologiškai priešiškas politines ir socialines grupes.\nSovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso \npasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. \nvasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi \ntariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-\nja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį."
+  citata_rodoma: |
+    Galimybė atsidurti „po
+    rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į
+    Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-
+    žimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus,
+    ideologiškai priešiškas politines ir socialines grupes.
+    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
+    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
+    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -17200,7 +17555,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ralyste. Taip buvo iki pat Lietuvos krikšto 1387 m., kuomet integ-
     ruojant Lietuvos valstybę į Vakarų krikščioniškųjų valstybių
     sistemą Lietuvai suteiktas Didžiosios kunigaikštijos rangas.
-  citata_rodoma: "Vakarams skirtoje korespondencijoje Lietuva buvo vadinama ka-\nralyste. Taip buvo iki pat Lietuvos krikšto 1387 m., kuomet integ-\nruojant Lietuvos valstybę į Vakarų krikščioniškųjų valstybių\nsistemą Lietuvai suteiktas Didžiosios kunigaikštijos rangas."
+  citata_rodoma: |
+    Vakarams skirtoje korespondencijoje Lietuva buvo vadinama ka-
+    ralyste. Taip buvo iki pat Lietuvos krikšto 1387 m., kuomet integ-
+    ruojant Lietuvos valstybę į Vakarų krikščioniškųjų valstybių
+    sistemą Lietuvai suteiktas Didžiosios kunigaikštijos rangas.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -17220,7 +17579,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,
     kartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,
     kaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija.
-  citata_rodoma: "Tokių atsitikimų buvo ir daugiau. Lietuvos\nbajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vie-\nną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą\",\ntačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,\nkartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,\nkaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija."
+  citata_rodoma: |
+    Tokių atsitikimų buvo ir daugiau. Lietuvos
+    bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vie-
+    ną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą",
+    tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,
+    kartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,
+    kaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -17241,7 +17606,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
     pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
-  citata_rodoma: "Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui\nAlbertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu\nir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv."
+  citata_rodoma: |
+    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
+    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
+    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -17305,7 +17673,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-
     gystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst.
     tremtinių ir apie 20 tūkst. politinių kalinių.
-  citata_rodoma: "Nors Lietuvos komunistų administracija \nnenorėjo, kad ištremtieji grįžtų į tėvynę, nes esą jie stiprina Lietuvos gy-\nventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-\ngystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst. \ntremtinių ir apie 20 tūkst. politinių kalinių."
+  citata_rodoma: |
+    Nors Lietuvos komunistų administracija
+    nenorėjo, kad ištremtieji grįžtų į tėvynę, nes esą jie stiprina Lietuvos gy-
+    ventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-
+    gystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst.
+    tremtinių ir apie 20 tūkst. politinių kalinių.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -17328,7 +17701,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pat Sembos vyskupo fogtų (advocatus) (Ditrichas, Pilypas, Hugonas, Gerhardas) (III,
     227, 291, 330, 338), trys Baigos komtūrai (III, 247, 266, 362) ir t. t., daugumas jų — iš
     rytinės Ordino teritorijos dalies, tiesiogiai dalyvavę kare prieš Lietuvą.
-  citata_rodoma: "Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,\nčia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji\nlietuvių smūgiai.\n   Žinių Dusburgiečiui teikė visų pirma Ordino broliai."
+  citata_rodoma: |
+    Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,
+    čia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji
+    lietuvių smūgiai.
+       Žinių Dusburgiečiui teikė visų pirma Ordino broliai.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -17530,7 +17907,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
     tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
     Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
-  citata_rodoma: "Parengus abiem pu-\nsėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-\nją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, \npaskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą \nLietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų \nvalstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-\ntybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys \nSteigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas."
+  citata_rodoma: |
+    Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
+    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -17624,7 +18009,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
     Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
     litinius kalinius paskubomis išgabeno iš Lietuvos.
-  citata_rodoma: "1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, \nLietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-\nlitinius kalinius paskubomis išgabeno iš Lietuvos."
+  citata_rodoma: |
+    1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
+    Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
+    litinius kalinius paskubomis išgabeno iš Lietuvos.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -17661,7 +18049,27 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vo dienas kalėjime toje pačioje Lietuvoje. Na o totoriai per
     paskutiniuosius trejus Aleksandro valdymo metus, tai yra,
     nuo 1503 metų, vis drąsiau puldinėjo lietuvių žemes.
-  citata_rodoma: "Mat rašo, jog svečiai, \ntai yra, rusų pirkliai, atvykstantys su \nsavo prekėmis į Vilnių, apsistoja \nįvairiuose namuose mieste, kur no­\nri, be jokio prisistatymo, o paskui, \nprekiaudami su vokiečiais ir kitais \nsvetimšaliais pirkliais, niekam ne­\npranešę, išvažiuoja iš miesto; ir kad \ntarp jų gali būti nepatikimų ir no­\nrinčių pakenkti, todėl įsako ir leidžia \nmiestui statyti užeigą ir t t.\n231\n\n## Puslapis 248\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nnorėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­\nvo dienas kalėjime toje pačioje Lietuvoje. Na o totoriai per \npaskutiniuosius trejus Aleksandro valdymo metus, tai yra, \nnuo 1503 metų, vis drąsiau puldinėjo lietuvių žemes."
+  citata_rodoma: |
+    Mat rašo, jog svečiai,
+    tai yra, rusų pirkliai, atvykstantys su
+    savo prekėmis į Vilnių, apsistoja
+    įvairiuose namuose mieste, kur no­
+    ri, be jokio prisistatymo, o paskui,
+    prekiaudami su vokiečiais ir kitais
+    svetimšaliais pirkliais, niekam ne­
+    pranešę, išvažiuoja iš miesto; ir kad
+    tarp jų gali būti nepatikimų ir no­
+    rinčių pakenkti, todėl įsako ir leidžia
+    miestui statyti užeigą ir t t.
+    231
+
+    ## Puslapis 248
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    norėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­
+    vo dienas kalėjime toje pačioje Lietuvoje. Na o totoriai per
+    paskutiniuosius trejus Aleksandro valdymo metus, tai yra,
+    nuo 1503 metų, vis drąsiau puldinėjo lietuvių žemes.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -17795,7 +18203,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
     organu iki laisvų demokratinių Seimo rinkimų.
-  citata_rodoma: "studijavo Prancūzijos artilerijos mokykloje), \njam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-\nimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės \natkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, \nsuvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, \ndemokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo \nsudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios \norganu iki laisvų demokratinių Seimo rinkimų."
+  citata_rodoma: |
+    studijavo Prancūzijos artilerijos mokykloje),
+    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
+    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
+    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
+    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
+    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
+    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
+    organu iki laisvų demokratinių Seimo rinkimų.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -17813,7 +18229,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     lumą, daugiausia Sibirą.
     1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį
     Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst. žmonių.
-  citata_rodoma: "1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį \nLietuvos gyventojų trėmimą – deportuota 17,5 tūkst. žmonių."
+  citata_rodoma: |
+    1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį
+    Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst. žmonių.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -17836,7 +18254,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Oderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,
     sukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino
     veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
-  citata_rodoma: "Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,\nLietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos\ncentru62.\n   Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama\npriešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki\nOderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,\nsukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino\nveiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu."
+  citata_rodoma: |
+    Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,
+    Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos
+    centru62.
+       Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama
+    priešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki
+    Oderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,
+    sukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino
+    veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -17964,7 +18390,26 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
     prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
     net iki Šalčininkų nusigavo51.
-  citata_rodoma: "Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­\ngailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­\ntęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­\nsinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos\n-- • --\n135\n\n## Puslapis 152\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­\nnas iš sykio griebėsi tos patogios progos pradėti karą ir nio­\nkoti tuos pavojingus jam kaimynus (1394 m.); kitais metais \nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę \nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir \nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo, \nnet iki Šalčininkų nusigavo51."
+  citata_rodoma: |
+    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
+    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
+    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
+    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
+    -- • --
+    135
+
+    ## Puslapis 152
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18109,7 +18554,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
     ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
     okupacinis valdymas.
-  citata_rodoma: "Ištremtųjų \nvietas turėjo užimti atkelti milijonai vokiečių. \nVokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-\nministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis \nokupacinis valdymas."
+  citata_rodoma: |
+    Ištremtųjų
+    vietas turėjo užimti atkelti milijonai vokiečių.
+    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
+    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
+    okupacinis valdymas.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18203,7 +18653,32 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Maketuotoja Danutė Navickienė
     Užsakymas
     „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
-  citata_rodoma: "449-466\nISBN 978-5-417-00907-5\nMykolo Balinskio (1794^1864) dvitomė „Vilniaus miesto istori­\nja\" lietuviškai leidžiama pirmą kartą. Vilniaus istoriografijos pradi­\nninko veikalas, išspausdintas 1836-1837 m., apima Vilniaus istoriją \nnuo miesto įkūrimo iki Stepono Batoro mirties. Autorius surinko ir \npanaudojo daugybę istorijos šaltinių, kurie neišliko iki mūsų dienų. \nTai vertingas informacijos šaltinis istorikams, kultūrologams ir vi­\nsiems skaitytojams, besidomintiems senąja Vilniaus miesto ir bendra \nikikrikščioniškos Lietuvos valstybės istorija.\nUDK 947.45\n\n## Puslapis 494\n\nMykolas Balinskis \nVILNIAUS MIESTO ISTORIJA\nIš lenkų kalbos vertė \nOna Slavėnaitė, Irena Katilienė \nIš lotynų kalbos vertė \nJūratė Dalia Baronienė\nRedaktorė Skirmantė Ramanauskaitė \nMeninis redaktorius Romas Dubonis \nMaketuotoja Danutė Navickienė\nUžsakymas\n„Minties\" leidykla, Z."
+  citata_rodoma: |
+    449-466
+    ISBN 978-5-417-00907-5
+    Mykolo Balinskio (1794^1864) dvitomė „Vilniaus miesto istori­
+    ja" lietuviškai leidžiama pirmą kartą. Vilniaus istoriografijos pradi­
+    ninko veikalas, išspausdintas 1836-1837 m., apima Vilniaus istoriją
+    nuo miesto įkūrimo iki Stepono Batoro mirties. Autorius surinko ir
+    panaudojo daugybę istorijos šaltinių, kurie neišliko iki mūsų dienų.
+    Tai vertingas informacijos šaltinis istorikams, kultūrologams ir vi­
+    siems skaitytojams, besidomintiems senąja Vilniaus miesto ir bendra
+    ikikrikščioniškos Lietuvos valstybės istorija.
+    UDK 947.45
+
+    ## Puslapis 494
+
+    Mykolas Balinskis
+    VILNIAUS MIESTO ISTORIJA
+    Iš lenkų kalbos vertė
+    Ona Slavėnaitė, Irena Katilienė
+    Iš lotynų kalbos vertė
+    Jūratė Dalia Baronienė
+    Redaktorė Skirmantė Ramanauskaitė
+    Meninis redaktorius Romas Dubonis
+    Maketuotoja Danutė Navickienė
+    Užsakymas
+    „Minties" leidykla, Z.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18223,7 +18698,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tųsi Lietuvoje — Gardine. Be to, tas pats įstatymas
     pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
     Lietuvoje.
-  citata_rodoma: "Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš\nįstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas\nir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad\nkas trečias seimas, kurio maršalka esti lietuvis, rink-\ntųsi Lietuvoje — Gardine."
+  citata_rodoma: |
+    Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
+    įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas
+    ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
+    kas trečias seimas, kurio maršalka esti lietuvis, rink-
+    tųsi Lietuvoje — Gardine.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -18286,7 +18766,20 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vos metropolitų religinė viršenybė
     rusiškojo tikėjimo vyskupų Lietuvo­
     je atžvilgiu.
-  citata_rodoma: "44, teigdamas, \nkad tokia geradarybė pirkliams skir­\nta, bet apėjo schizmatikus, kurių, at­\nkakliai Fotijo nuostatų besilaikančių, \ntarp rusinu buvo nemažai. Vytautas \nsugebėjo įvairiais būdais stiprinti sa­\nvo aukščiausią valdžią Lietuvoje ir \nkliūtis, kurios stojo skersai kelio, at­\nkakliai šalindavo. Vienas didžiausių \nir opiausių nepatogumų buvo Mask­\nvos metropolitų religinė viršenybė \nrusiškojo tikėjimo vyskupų Lietuvo­\nje atžvilgiu."
+  citata_rodoma: |
+    44, teigdamas,
+    kad tokia geradarybė pirkliams skir­
+    ta, bet apėjo schizmatikus, kurių, at­
+    kakliai Fotijo nuostatų besilaikančių,
+    tarp rusinu buvo nemažai. Vytautas
+    sugebėjo įvairiais būdais stiprinti sa­
+    vo aukščiausią valdžią Lietuvoje ir
+    kliūtis, kurios stojo skersai kelio, at­
+    kakliai šalindavo. Vienas didžiausių
+    ir opiausių nepatogumų buvo Mask­
+    vos metropolitų religinė viršenybė
+    rusiškojo tikėjimo vyskupų Lietuvo­
+    je atžvilgiu.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18350,7 +18843,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     prieš Ordiną. Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
     pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
     66  PD, II, 6; PKD, s.
-  citata_rodoma: "Dusburgietis, rašydamas apie lietuvių\npuolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti\nprieš Lietuvą (III, 343—346, 357—358).\n  Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo\nžemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis."
+  citata_rodoma: |
+    Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
+      Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18433,7 +18931,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 
     atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
     jos ateities raidos gaires.
-  citata_rodoma: "1949 m. vasario 16 d. LLKS tarybos\npatvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė\n\natkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė\njos ateities raidos gaires."
+  citata_rodoma: |
+    1949 m. vasario 16 d. LLKS tarybos
+    patvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė
+
+    atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
+    jos ateities raidos gaires.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18581,7 +19084,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Pačioje Vakarų Europoje XIII—XIV a. irgi pasigirsdavo Kryžiuočių ordino adresu
     kritiškų balsų, raginančių netgi jį likviduoti. Įtempta grupuočių kova vyko ir Ordino
     viduje, siekiant restauruoti šią vokiečių feodalų karinę-religinę organizaciją.
-  citata_rodoma: "Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama\npriešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki\nOderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,\nsukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino\nveiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.\n  Pačioje Vakarų Europoje XIII—XIV a."
+  citata_rodoma: |
+    Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama
+    priešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki
+    Oderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,
+    sukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino
+    veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
+      Pačioje Vakarų Europoje XIII—XIV a.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18653,7 +19162,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
     Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
     žemės.
-  citata_rodoma: "1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio \n23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos \nDidžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių \nžemės."
+  citata_rodoma: |
+    1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
+    23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
+    Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
+    žemės.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18814,7 +19327,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
     skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
     dvasia.
-  citata_rodoma: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado \nskulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko \ndvasia."
+  citata_rodoma: |
+    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
+    skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
+    dvasia.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -18847,7 +19363,25 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: "99, kuriame atkalbinėja Romos\n157\n\n## Puslapis 174\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\npriešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­\nleidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  citata_rodoma: |
+    99, kuriame atkalbinėja Romos
+    157
+
+    ## Puslapis 174
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18866,7 +19400,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Lietuva turėjo atskirą valstybinę organizaciją, atskiras teises bei
     įstatymus; visi tie skirtingi Lietuvos reikalai ir būdavo apsvars-
     tomi jos suvažiavimuose.
-  citata_rodoma: "Lietuva žiūrėjo į juos, kaip į savo seimus. Nors lenkai, žiūrė-\ndami į Lietuvą, kaip į trečiąją Respublikos provinciją, Lietuvos\nseimelį irgi vadino provincijos seimeliu, tačiau jis labai\nskyrėsi nuo Lenkijos provincijų seimelių."
+  citata_rodoma: |
+    Lietuva žiūrėjo į juos, kaip į savo seimus. Nors lenkai, žiūrė-
+    dami į Lietuvą, kaip į trečiąją Respublikos provinciją, Lietuvos
+    seimelį irgi vadino provincijos seimeliu, tačiau jis labai
+    skyrėsi nuo Lenkijos provincijų seimelių.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -18886,7 +19424,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     miestiečių - viduriniojo visuomenės luomo - nebuvimo Lenki­
     jos - Lietuvos valstybėje vyko daugiau destruktyvių procesų,
     nulėmusių jos žlugimą.
-  citata_rodoma: "M. Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­\nlyvos raidos priežastis. Istorikas kritiškai pažymėjo, kad dėl \nmiestiečių - viduriniojo visuomenės luomo - nebuvimo Lenki­\njos - Lietuvos valstybėje vyko daugiau destruktyvių procesų, \nnulėmusių jos žlugimą."
+  citata_rodoma: |
+    M. Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­
+    lyvos raidos priežastis. Istorikas kritiškai pažymėjo, kad dėl
+    miestiečių - viduriniojo visuomenės luomo - nebuvimo Lenki­
+    jos - Lietuvos valstybėje vyko daugiau destruktyvių procesų,
+    nulėmusių jos žlugimą.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18907,7 +19450,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
     Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
     elgė Latvija ir Estija).
-  citata_rodoma: "Lietuva pasirinko euroatlantinės integracijos \nkelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos \nRespublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-\nelgė Latvija ir Estija)."
+  citata_rodoma: |
+    Lietuva pasirinko euroatlantinės integracijos
+    kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
+    Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
+    elgė Latvija ir Estija).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18966,7 +19513,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
     šviesą iki pat Meksikos, Paragvajaus. Kitas šio pasaulio pakraštys, labiau-
     siai nutolęs į šiaurę, buvo Lietuva.
-  citata_rodoma: "XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li-\nsabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės \nšviesą iki pat Meksikos, Paragvajaus. Kitas šio pasaulio pakraštys, labiau-\nsiai nutolęs į šiaurę, buvo Lietuva."
+  citata_rodoma: |
+    XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li-
+    sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
+    šviesą iki pat Meksikos, Paragvajaus. Kitas šio pasaulio pakraštys, labiau-
+    siai nutolęs į šiaurę, buvo Lietuva.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -18996,7 +19547,21 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais.
-  citata_rodoma: "suma.\n\n## Puslapis 205\n\nIl KNYGA\nIV\nVILNIAUS VYSKUPŲ SĄRAŠAS NUO KATEDROS ĮKŪRIMO \nIKI 1600 METŲ\nDar prieš krikščionybės įvedimą, XIII amžiuje, kai Min­\ndaugas (Myndozve, Mendog) pasiskelbė Lietuvos karaliumi \nir pranešė apie siekius priimti Romos tikėjimą, popiežius \nišrinko ir paskyrė visai Lietuvai vyskupą. Apie tai mini Kroni­\nka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - \nlavo Baško (vert."
+  citata_rodoma: |
+    suma.
+
+    ## Puslapis 205
+
+    Il KNYGA
+    IV
+    VILNIAUS VYSKUPŲ SĄRAŠAS NUO KATEDROS ĮKŪRIMO
+    IKI 1600 METŲ
+    Dar prieš krikščionybės įvedimą, XIII amžiuje, kai Min­
+    daugas (Myndozve, Mendog) pasiskelbė Lietuvos karaliumi
+    ir pranešė apie siekius priimti Romos tikėjimą, popiežius
+    išrinko ir paskyrė visai Lietuvai vyskupą. Apie tai mini Kroni­
+    ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -
+    lavo Baško (vert.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -19061,7 +19626,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
     lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
     dėl Lietuvos nepriklausomybės atkūrimo.
-  citata_rodoma: "Tačiau prieš tai vyko kruvina kova.\nKaras po karo – ginkluota rezistencija \nNuo 1944 m. vasaros sovietų represijos ir teroras kurstė \nlietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas \ndėl Lietuvos nepriklausomybės atkūrimo."
+  citata_rodoma: |
+    Tačiau prieš tai vyko kruvina kova.
+    Karas po karo – ginkluota rezistencija
+    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
+    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
+    dėl Lietuvos nepriklausomybės atkūrimo.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -19156,25 +19726,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Lietuvos didy­
-    sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas
-    didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9  par­
-    vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte­
-    lioną, Gardino vietininką kunigaikštį Aleksandrą Jur-
-    jevičių2 0 , Trakų kaštelioną, Polocko vietininką poną
-    Jurjevičių Zaberezinskį2 I, ir Breslaujos vietininką po­
-    no
-
-    ## Puslapis 145
-
-    ną Jurijų Zenovjevičių 2 2 , raštininką, Stakliškių laiky­
-    toją poną Fedkų Hrihorovičių.
-    Jie nuvažiavo ir paėmė didžiąją kunigaikštytę Ele­
-    ną, parvežė ją j Lietuvą. O su ja vyko pasiuntiniai, at­
-    siųsti jos tėvo, Maskvos didžiojo kunigaikščio Ivano
-    Vasiljevičiaus: kunigaikštis, vardu Semionas Riapo-
-    lovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas
-    Vasilijus Kulešinas2 3 .
+    Grįždamas iš Braclavo20, jis užsuko į Trakus, pas
+    Trakų vaivadą poną Petrą Jonaitį 21 ir aplankė jį Tra­
+    kuose, kadangi ponas Petras labai sirgo22, o tuo metu
+    ponas Petras buvo Trakų vaivada ir Lietuvos didžiuoju
+    etmonu23. Ir didysis kunigaikštis Aleksandras, maty­
+    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
+    ties perduoti etmono vietą. Ponas Petras patarė per­
+    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
+    kiui24.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19187,12 +19747,14 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 11"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
   citata_originali: |
-    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
-    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
-    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
-    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
-    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
-    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
+    Aš, kaip atrodo, pasirinkau vidurio kelią: pateikdamas faktus
+    apie tautą, išvadas ir visa tai, ko nėra šaltiniuose, palieku pa­
+    daryti pačiam skaitytojui. Hiūmas buvo mano pavyzdys, tik
+    nežinau, ar tai pavyko“12.
+    T. Narbuto istorijos darbų kritika stiprėjo. Lietuvos istori­
+    kas Mykolas Balinskis rašė: „Kas tiek pasakų palaikė tiesa ir
+    j gretino jas su tikrais įvykiais, kas nesvyruodamas kaitaliojo da-
+    11 List T. Narbutta do A. Reniera 1843 r.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19204,18 +19766,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­
-    da davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo
-    nimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi
-    16
-    Žr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -
-    V., 1968.-T. I.-P. 1118.
-    31
-
-    ## Puslapis 31
-
-    Aleksotu, tai dainas, kuriose apdainuojamas lietuviškosios
-    Aleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse.
+    T. Narbutas Lietuvoje suranda ir antikinio mito apie Plu­
+    tono pagrobtą Demetros dukterį Persefonę atitikmenį. Visiš­
+    kai panašų „pasakojimą“ jis nugirsta Raseinių apskrityje, Pa­
+    švenčio apylinkėse. Šio „pasakojimo“ svarbiausi veikėjai pasi­
+    rodo besą M. Strijkovskio, K. Hartknocho ir kitų minimas po­
+    žemio dievas Poklius (lietuviškasis Plutonas), M. Strijkovskio
+    minima Krūminė (lietuviškoji Demetra) ir paties T. Narbuto
+    surasta jų duktė Nijolė (Persefonė). Surandama ir moneta,
+    iliustruojanti šį „pasakojimą“.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19228,15 +19787,20 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 83"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
-    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
-    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
-    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
-    čią beveik visas menkiausias smulkmenas.
-    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
-    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
-    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
-    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
-    plaikos kilo mitologija, kurią imamės išdėstyti.
+    Kadangi ir šioje yra nemažai pasi­
+    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
+    šybė pasirodo esanti dar ryškesnė. Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19249,10 +19813,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 90"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
   citata_originali: |
-    Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
-    1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
-    dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
-    mesnei Lietuvai.
+    Iš šio vardo prasmės pastebime, kad
+    tas dievas reiškė tą patį, ką Antikos žmonėms Saturnas. Tas
+    senovės mitas, primenantis labai reikšmingą Titanų šeimynos
+    asmenį, negalėjo būti nežinomas lietuvių mitologijai.
+    Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu
+    buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky­
+    tas dievu.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19265,15 +19832,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 166"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 166."
   citata_originali: |
-    Dėl šių priežasčių dievaitisLie-
-    lhuwani (Lietuvonis) visuomet buvo lietuvių mitas ir pamėg­
-    tas šūkis, kaip skandinavųFrej (Frėjus). Taigi labai galėjo būti,
-    kad tas pamėgtas šūkis ir buvo priežastis, dėl kurios buvo pri­
-    imtas bendras tautos pavadinimas Lietuva (IJethima).
-    Srutis ir Mėletėlė
-    (Strutis i M iechutele)
-    Dievaitis su savo drauge; jie globojo augalus, tinkamus
-    amatams, ypač dažymui.
+    Apie juos buvo daug pa­
+    sakojimų, pats Sokratas yra prisipažinęs, kad turėjo asmeninį
+    demoną.
+    Apidomė (Apidonu)
+    Šio dievaičio būdavo šaukiamasi, kai ūkininkas būdavo pri­
+    verstas keisti gyvenamąją vietą dėl kokio nors negero nutiki­
+    mo arba dėl kerėtojo ištarto nepalankaus pranašavimo. Šiuo
+    atveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys
+    gimdavo aklas arba su kokia baisia yda. Šitaip nutikus, būda­
+    vo iškilmingai šaukiamasi dievaičio Apydėmės (Apidonu), ku­
+    riam kaip auka su ypatingomis apeigomis būdavo kepama duo­
+    na (Donas), po to namą perkeldavo į kitą vietą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19286,32 +19856,41 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 177"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
-    Dar ir dabar jį tiki tamsūs žmonės“14 15.
-    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
-    matomas užpuola miegančias moteris, kitą kartą prijaukintas
-    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
-    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
-    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
-    terims arba mergaitėms, duoda net pinigų.
+    Tai yra tai, ką prancūzai
+    vadina košmaru (Cochemar). Tą vardą duodavo taip pat fau­
+    nams ir satyrams dėl jų gašlumo. Tamsybės laikais demonog-
+    rafai išgalvojo velnius - viršgulius, Incubi, ir apačgulius, Suc­
+    cubi, kankinančius žmones per miegą begėdiškais vaizdais, net
+    tikrais veiksmais, ypač davusius skaistybės įžadus. Antikos žmo­
+    nės dievino viršgulius, vadindami Graikijoje efialtais, Romo­
+    je - hifialtais“.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199413
 - id: c-171639
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 302"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 302."
   citata_originali: |
-    Kuo daugiau tikėta jų buvimu, tuo labiau
-    artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
-    prietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai
-    įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­
-    giausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­
-    dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
-    o vietinių nepripažįsta, jog šitiek daug moka.
+    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
+    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
+    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
+    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
+    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
+    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
+    kaip tai pamatysime toliau. Jis išpranašaudavo privačių as­
+    menų, valdovų, kariuomenės, miestų, visos valstybės, taip pat
+    visokiausių sumanymų ir darbų tolesnę ateitį; jo pranašystės
+    buvo nutarimų politiniais, teismo^ religijos klausimais pagrin­
+    das. Vyriausiasis žynys Lizdeika , paskutinis iš lietuvių stab­
+    meldystės vadų, paskelbė didžiajam kunigaikščiui Gedimi­
+    nui garsiąją pranašystę apie Vilnių, nes žinojo ir galėjo nu­
+    matyti, kad, vadovaujant tokiam išmintingam, veikliam ir ka­
+    ringam monarchui, augančios galingos valstybės sostinė bū- 38 39
+    38 Noël F. Dictionnaire mythologique (Divination).
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19324,15 +19903,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 320"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
-    Arntas (Arndt) 17 pa-
-    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
-    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
-    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas.
+    Tą pastebėjęs
+    Neliubavičius (Nielubowicz) vienoje senoje lietuviškoje dai­
+    noje. Hartknochas, mėgstantis viską pritempti prie germaniš­
+    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
+    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
+    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
+    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
+    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
+    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
+    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
+    vuose išlikę duomenys iš XIII amžiaus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19345,15 +19926,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 352"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 352."
   citata_originali: |
-    Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­
-    šokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­
-    lio pasodindavo sužadėtinę. Tuoj prasidėdavo jungtuvės,
-    f
-    Įkijungtuviniuose papročiuose, be abejo, buvo skirtumų,
-    nelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,
-    ir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­
-    kas daug ką pakeitė. Aprašysime naujesnius pastebėjimus iš
-    Pietų Lietuvos.
+    Šį paprotį, bendrą lietuviams ir slavams, mūsų rašytojai
+    dažnai mini; vis dėlto jo smulkmenų niekur nėra papasakota;
+    aprašysime, kaip tai vyksta dabar mano užkampyje; tikriausiai
+    nedaug skirsis nuo senovinio. Trobos vidury pastato duonku­
+    bilį dugnu į viršų, ant jo deda pagalvę, ant kurios atsisėda jau­
+    noji. Uždega vaško žvakę, visi sustoja ratu, merginos - pagal­
+    bininkės arba pamergės (draiki) - dainuoja dainą, vaizduoda­
+    mos esančios labai susigraudinusios, verkiančios; šios dainos
+    turinys toks: vargšė mergelė netenka savo vainikėlio, pereina į
+    kitą padėtį - priklausomybės ir nelaisvės, darbų, pastangų, rū­
+    pesčių ir 1.1, būklę.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19366,13 +19949,16 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 375"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
-    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
-    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
-    kad į jas tekėtų ašaros.
-    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
-    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
-    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
-    Obelijomis.
+    įvairiose Prūsijos vietose tiek atsitiktinai, tiek sąmoningai ka­
+    sinėjant senovinius pilkapius, ypač Velnio saloje (Czartowy-
+    Osirow), esančioje Sniardvų ežere, ir ties Pleviškių kaimu, as­
+    tuonios mylios nuo Karaliaučiaus, prie Priegliaus upės. Tai bu­
+    vo puodeliai arba kažkokios urnos su pelenais ir sudegusių
+    žmonių kaulų gabaliukais viduje. Toje vietovėje pats autorius
+    liepė atkasti vieną pilkapį ir surado naujo pavidalo pelenų ur­
+    ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
+    roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
+    pelenai.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19384,18 +19970,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Religijos valdžia yra didelė
-    ir buvo vyriausia. Prūsijai ir Livonijai praradus nepriklauso­
-    mybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu­
-    vėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas
-    visą tautą pašaukė priimti šventąjį tikėjimą“.
-    Toliau autorius pateikia kai kurių lietuvių mitologijos sri-
-    393
-
-    ## Puslapis 393
-
-    čių smulkius aprašymus; iš jų tas vietas, kurios mums šiaip ne­
-    buvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose.
+    Autorius pereina prie dalykų, susijusių su pačiais kryžiuo­
+    čiais ir jų konfliktu su Livonijos arkivyskupu. Toliau grįžta prie
+    Lietuvos bažnyčios, iškeldamas tokią aksiomą: „Krikščionybė
+    tol neapsivalys savo klaidų, kol piemenys nesiliaus savo pačių
+    gerovę branginę labiau už avidės gerovę, kol papročių švelnu­
+    mu, savo dorybėmis ir nenuilstamu budėjimu nepalenks žmo­
+    nių širdžių Dievui vieningame tikėjime“. Autorius pateikia iš­
+    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
+    gyne.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19408,22 +19991,29 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 395"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 395."
   citata_originali: |
-    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
-    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
-    rybės.
-    Iš šito rankraščio pasisemiame žinių apie pirminį krikščio­
-    nybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­
-    siai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų
-    žynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;
-    tuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su
-    Kuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­
-    sesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti
-    į rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės
-    sandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir
-    dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
-    kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
-    Rusia. Susidarius tokiai padėčiai, rusų tikėjimo cerkvės galėjo
-    paplisti Lietuvoje, ir gausėjo krikščionybės išpažinėjų.
+    Lenkų kunigai
+    neapkentė tų apeigų; taigi šitokios kovos išdava buvo tokia,
+    kad, vieni iš kitų sulaukdami prozelitų, krikštydavo juos antrą
+    kartą. Tačiau nešališki teologai tą visuomet smerkdavo. Jero- 1
+    1 Specimen Ecclesiae Ruthenicae*.
+    icn
+
+    nimas Prahiškis iš Čekijos, kuris gavo gerą išsilavinimą gimta­
+    jame mieste, vėliau leidosi į keliones, aplankė Vokietiją, Pran­
+    cūziją, Ispaniją, Portugaliją, Italiją, visur pastudijuodamas žy­
+    miausiose mokyklose; paskui vyko į Palestiną, o prieš 1403
+    metus buvo Lenkijoje ir Lietuvoje, aplankė Krokuvą, važiavo
+    per Varšuvą, Gardiną, Vilnių ir Žemaitiją, visur šviesdamasis
+    ir šviesdamas kitus tikėjimo dalykais su didžiausiu nuolanku­
+    mu Romos bažnyčiai. Iš Lietuvos per Karaliaučių jis išplaukė
+    jūra į Angliją; ten pataikė į patį Viklifo mokymo atgimimą,
+    susijusį su Kenterberio arkivyskupo Arundelo įniršiu prieš lor­
+    dą Kobhemą; su nežabotu atkaklumu lordas gynė savo nuo­
+    monę dėl tikėjimo dalykų, kuriuos įsivaizdavo taip, kaip ir Vik-
+    lifas; dar pikčiau buvo užsispyręs arkivyskupas, asmeniškai įtū­
+    žęs ant lordo; pagaliau tragiška tos kovos baigtis anuo metu
+    darė įspūdį protams, atsidavusiems religiniams svarstymams,
+    ir sukėlė susidomėjimą beveik užmirštais Viklifo raštais.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19435,17 +20025,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Kalbant apie istorinius seno­
-    vės šaltinius, negalima nepaminėti naujesnių, bet ir
-    čia iškyla nemalonių prisiminimų. Lietuva, susijungusi
-    30
-
-    ## Puslapis 30
-
-    su Lenkija, savanoriškai atsisakė savo nepriklausomybės,
-    pateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos
-    išorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,
-    padarė ją niokojančių karų grobiu.
+    Iš visų spausdintų
+    verčiausias yra vienas Strijkovskis**, po to — prūsų ir
+    Livonijos kronikininkai. Nepaneigiama tiesa tai, kad šis
+    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
+    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
+    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
+    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
+    vo rėmėjų vardus. Užsikrovęs šią ne pagal savo jėgas
+    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
+    sios kritikos, be atsargumo su datomis, palyginimo, da­
+    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
+    jam buvo skirta gyventi.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19458,16 +20049,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 188"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
-    Sutiksime net
-    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
-    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
-    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
-    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
-    ri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­
+    Bet iš viso to nega­
     lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
     jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
     gyventa anksčiau, negu atvykėliai alanai davė pradžią
-    šių lydinių susidarymui.
+    šių lydinių susidarymui. Juk šiandien negalima nieko įro­
+    dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
+    šios tautos likučiai, Kaukazo kalnų gyventojai osetinai,
+    ištirti mokslininko, senovės istoriko pono Klaproto, kuris
+    veikale „Asia Polyglotta“** pateikia osetinų kalbos žo­
+    dyną, kuriame nerandame nieko, ką galima būtų vadinti
+    panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
+    tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19480,13 +20073,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 195"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
-    Pelazgų kalba yra viena iš seniausių
-    šakų, iš kurios išsivystė graikų, lotynų ir lietuvių kalbos.
-    Šią giminystę geriausiai įrodo grynas lietuvių dialektas,
-    išlikęs Lietuvos viduryje, kur net ir asmenvardžiai, tikros
-    lietuviškos pavardės stulbinamai panašios į romėnų.
-    201
-    Kildinimas iš pelazgų.
+    Pažvelgę tyrinėtojo žvilgsniu į
+    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
+    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
+    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
+    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
+    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
+    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
+    atvykusius į prūsų kraštus.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19499,11 +20094,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 489"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
   citata_originali: |
-    Moneta labai plona, labai apgadinta ir išliko
-    lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
-    Krūminės medalį). Panašios monetos piešinį man atsiuntė p/onas/
-    Tad/as/ Voliankis. Ji buvo rasta Lietuvoje ir, jo nuomone, pri­
-    klauso lietuviškiems paminklams.
+    94 /Ten
+    pat,
+    nenurodyta
+    vieta/
+    Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
+    (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
+    tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui. Jo
+    vardas kilęs iš žodžio žvaigždė (Zwajgida), bet savo išvaizda jis
+    visiškai nepanašus į Apoloną, Tai barzdotas senis su žibintu ran­
+    koje. Šį priekaištą išsakė po/nas/ Tadas Volianskis. Ir tai būtų
+    galima priimti domėn: Siaurės tautos turėjo vaizdinių apie švie­
+    sos dievą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -19516,17 +20118,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   puslapiai: "PDF 393"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 393."
   citata_originali: |
-    Jeigu Apvaizda nori atsilyginti
-    tautoms, suteikdama joms laimės dovaną, ji duoda joms šven­
-    tus, išmintingus ir dorus valdovus. Tokiu viešpačiu karaliumi
-    Vladislovu ir jo broliais Dievas apdovanojo Lietuvą būtent ta­
-    da, kai jam prireikė stebuklingu būdu atversti tą užkietėjusią
-    stabmeldiškais ir manichėjiškais paklydimais šalį ir įžiebti joje
-    tikėjimo šviesą. Pasakiau „stebuklingu būdu“, kadangi apaš­
-    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
-    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
-    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
-    patrauklumas.
+    Todėl blogai daro kunigai, ku­
+    rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichė-
+    jų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var­
+    dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra­
+    mentą draudžiama. Pakanka pasiekti, kad išsižadėtų klaidų ir
+    paklustų Romos bažnyčiai. Nors sumišęs su stabmeldyste, klai­
+    dingas ir absurdiškas, vis dėlto tai yra tikėjimas mūsų viešpa­
+    čiu Jėzumi Kristumi, jo mirtimi ir prisikėlimu. Autorius dėsto
+    ir daugiau panašių esminių pamokymų, svarbių tam amžiui.
+    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
+    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
+    rybės.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

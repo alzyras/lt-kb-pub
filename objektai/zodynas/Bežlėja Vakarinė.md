@@ -84,7 +84,13 @@ Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra
     Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­
     rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
     17 Stender.
-  citata_rodoma: "Bežlėja (Bezelea)\nPasak Lasickio, vakaro deivė, kitaip Vakarinė (Wakarinne).\nJi kartu su Aušra tarnavo saulei: uždarydavo dangaus va­\nkarų vartus, paklodavo saulei patalą. Anoji buvo tapati Auro­\nrai, o ši -  vakaro žaroms arba Hesperai; abi minimos antikinė­\nje mitologijoje."
+  citata_rodoma: |
+    Bežlėja (Bezelea)
+    Pasak Lasickio, vakaro deivė, kitaip Vakarinė (Wakarinne).
+    Ji kartu su Aušra tarnavo saulei: uždarydavo dangaus va­
+    karų vartus, paklodavo saulei patalą. Anoji buvo tapati Auro­
+    rai, o ši -  vakaro žaroms arba Hesperai; abi minimos antikinė­
+    je mitologijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

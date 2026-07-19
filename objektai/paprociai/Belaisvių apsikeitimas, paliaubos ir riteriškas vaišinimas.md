@@ -109,7 +109,10 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
     Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors
     sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­
     pukares, vienas kitą riteriškai pavaišinti.
-  citata_rodoma: "Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­\ngaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti\npaliaubas."
+  citata_rodoma: |
+    Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
+    gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti
+    paliaubas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

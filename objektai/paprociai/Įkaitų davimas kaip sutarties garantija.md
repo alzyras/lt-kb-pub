@@ -241,7 +241,10 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     padaręs, jei iš tikrųjų jo vaikai būtų buvę nužudyti. Gi 1390
     —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
     tikrųjų du kunigaikščiu: Jurgį ir Joną.
-  citata_rodoma: "1390\n—92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš\ntikrųjų du kunigaikščiu: Jurgį ir Joną."
+  citata_rodoma: |
+    1390
+    —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
+    tikrųjų du kunigaikščiu: Jurgį ir Joną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -261,7 +264,12 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     šenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­
     lis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­
     dinui pasižadėjimus.
-  citata_rodoma: "Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva\nturi pripažinti popiežiaus ir imperatoriaus supremaciją (vir­\nšenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­\nlis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­\ndinui pasižadėjimus."
+  citata_rodoma: |
+    Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva
+    turi pripažinti popiežiaus ir imperatoriaus supremaciją (vir­
+    šenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­
+    lis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­
+    dinui pasižadėjimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -280,7 +288,15 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,
     Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p. 47; CV, t. 32, d. 2,
     p. 324), plg. Топоров B. H., Прусский язык, E—H, c.
-  citata_rodoma: "pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja\nuž brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir\nnuolankiai pasidavė krikščionių tikėjimui ir broliams.\n\n\n\n\n               76 (75). Apie vienos Notangos dalies nuniokojimą"
+  citata_rodoma: |
+    pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
+    už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
+    nuolankiai pasidavė krikščionių tikėjimui ir broliams.
+
+
+
+
+                   76 (75). Apie vienos Notangos dalies nuniokojimą
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -68,7 +68,10 @@ Prioult, A.
     la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres
     Romanes, IV, nr. 1, 1950, 3-29 p. — Vaičiulaitis, A.: _Vidurinių
     amžių poetas Machaid Lietuvoje,_ Židinys, t. 29, 1939, 178-sqq.
-  citata_rodoma: "— Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et\nla « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres\nRomanes, IV, nr. 1, 1950, 3-29 p."
+  citata_rodoma: |
+    — Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et
+    la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres
+    Romanes, IV, nr. 1, 1950, 3-29 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

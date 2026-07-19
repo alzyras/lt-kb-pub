@@ -72,7 +72,15 @@ Uždrausdamas bajoro valstiečiams išsikelti, perduo­ damas juos ir teismo at�
     _Kultūriniu_ atžvilgiu vyko reikšmingas persilaužimas, nes lie­
     tuvių tauta, nors ir valdydama daug rusų žemių ir turėdama pasto­
     vių sąlyčių su rytais, aiškiai pasuko Vakarų link.
-  citata_rodoma: "Uždrausdamas bajoro valstiečiams išsikelti, perduo­\ndamas juos ir teismo atžvilgiu pono valdžion ir šio labui juos\npaliuosuodamas nuo piniginės prievolės valstybei, Kazimieras savo\nprivilegija (1447) padėjo pagrindą baudžiavinei epochai.\n\n_Kultūriniu_ atžvilgiu vyko reikšmingas persilaužimas, nes lie­\ntuvių tauta, nors ir valdydama daug rusų žemių ir turėdama pasto­\nvių sąlyčių su rytais, aiškiai pasuko Vakarų link."
+  citata_rodoma: |
+    Uždrausdamas bajoro valstiečiams išsikelti, perduo­
+    damas juos ir teismo atžvilgiu pono valdžion ir šio labui juos
+    paliuosuodamas nuo piniginės prievolės valstybei, Kazimieras savo
+    privilegija (1447) padėjo pagrindą baudžiavinei epochai.
+
+    _Kultūriniu_ atžvilgiu vyko reikšmingas persilaužimas, nes lie­
+    tuvių tauta, nors ir valdydama daug rusų žemių ir turėdama pasto­
+    vių sąlyčių su rytais, aiškiai pasuko Vakarų link.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

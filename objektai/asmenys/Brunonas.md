@@ -154,7 +154,10 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     Bet ir jo misijos
     nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
     vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
-  citata_rodoma: "Bet ir jo misijos\n  nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais\n  vasario 14 d. buvo suimtas ir su visais palydovais nužudytas."
+  citata_rodoma: |
+    Bet ir jo misijos
+      nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
+      vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +186,11 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     vyko iš Lenkijos
     aisčių krikštyti net
     su 18 palydovų.
-  citata_rodoma: "Pagaliau 1008 m. gale jis iš-\n  vyko iš Lenkijos\n  aisčių krikštyti net\n  su 18 palydovų."
+  citata_rodoma: |
+    Pagaliau 1008 m. gale jis iš-
+      vyko iš Lenkijos
+      aisčių krikštyti net
+      su 18 palydovų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -210,7 +217,16 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
     ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
     buvo jokios vilties pabėgti.
-  citata_rodoma: "Po to nugalėtojai, paleisti pasiplėšti grobio,\nnusiaubė visas apylinkes, naikindami ugnimi ir kala­\nviju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­\ntoli Livonijos įlankos, magistras Brunonas nirtulingai\njuos užpuolė prie Treiderės upės, jau apsikrovusius\ngrobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal\ndėl to, kad neturėjo po ranka kariuomenės (paprastai\nšitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­\ndžiusi po kaimus."
+  citata_rodoma: |
+    Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
+    dėl to, kad neturėjo po ranka kariuomenės (paprastai
+    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
+    džiusi po kaimus.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

@@ -89,7 +89,9 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     kai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmo­
     kesčio. Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių
     gorčių.
-  citata_rodoma: "„Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.\nUžmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių."
+  citata_rodoma: |
+    „Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.
+    Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
@@ -108,7 +110,8 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     savo vietas, stati pašnibždomis sukalbėjo „Tėve mūsų“ , persižegno­
     jo ir susėdo. Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pu­
     sę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
-  citata_rodoma: "Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius."
+  citata_rodoma: |
+    Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

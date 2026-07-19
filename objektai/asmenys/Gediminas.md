@@ -3496,7 +3496,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
     čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
     sūnų bei dukterų vedybomis.
-  citata_rodoma: "Gediminas taip pat buvo pirmasis, kuris\nprieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie\nLietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir\nčia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo\nsūnų bei dukterų vedybomis."
+  citata_rodoma: |
+    Gediminas taip pat buvo pirmasis, kuris
+    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
+    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
+    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
+    sūnų bei dukterų vedybomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -3514,7 +3519,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
     kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
     tuvą; visiems žadėjo savo globos ir paramos įsikurti.
-  citata_rodoma: "1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-\ngeliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-\ntus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir\nkvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-\ntuvą; visiems žadėjo savo globos ir paramos įsikurti."
+  citata_rodoma: |
+    1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-
+    geliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-
+    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
+    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
+    tuvą; visiems žadėjo savo globos ir paramos įsikurti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -3533,7 +3543,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     niuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų
     pasiuntiniais dėl krikšto. Nuo to laiko Vilnius jau tapo nuolatine
     Lietuvos sostine.
-  citata_rodoma: "Gediminas gyveno jau Vilniuje. Tais metais jau iš Vilniaus jis\nrašė savo garsiuosius laiškus popiežiui ir vakarų Europos mies-\ntams, iš Vilniaus jis derėjosi su Ryga ir su ordinu, pagaliau Vil-\nniuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų\npasiuntiniais dėl krikšto. Nuo to laiko Vilnius jau tapo nuolatine\nLietuvos sostine."
+  citata_rodoma: |
+    Gediminas gyveno jau Vilniuje. Tais metais jau iš Vilniaus jis
+    rašė savo garsiuosius laiškus popiežiui ir vakarų Europos mies-
+    tams, iš Vilniaus jis derėjosi su Ryga ir su ordinu, pagaliau Vil-
+    niuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų
+    pasiuntiniais dėl krikšto. Nuo to laiko Vilnius jau tapo nuolatine
+    Lietuvos sostine.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -3608,7 +3624,16 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
-  citata_rodoma: "Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems\nEuropos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam\ngeros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį\natgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei\nsukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.\nGedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.\nPopiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino\nvalstybę ir patvirtino šią sutartį53."
+  citata_rodoma: |
+    Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
+    Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
+    geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
+    atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
+    sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
+    Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
+    valstybę ir patvirtino šią sutartį53.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -3627,7 +3652,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija. Pastaroji
     pulta dėl to, kad buvo Ordino sąjungininkė. Vis dėlto nuo 1324 m. pabaigos kuriam
     laikui tarp Lietuvos ir Ordino nusistovėjo taika.
-  citata_rodoma: "Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324\nm. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio\nmėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija."
+  citata_rodoma: |
+    Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
+    m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio
+    mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -3645,7 +3673,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     sprendimu Ordinas privalėjo grąžinti Pomeraniją, tačiau kryžiuočiai sprendimo nepripažino
     ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
     nemažas politinis lenkų laimėjimas59.
-  citata_rodoma: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).\nMazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus\nkelius vakaruose ir šiaurėje blokavo Ordinas)."
+  citata_rodoma: |
+    Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
+    Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
+    kelius vakaruose ir šiaurėje blokavo Ordinas).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -3669,7 +3700,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
     dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
     Ordiną — tai „šventas sumanymas“ (III,284).
-  citata_rodoma: "Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad\npats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas\nklastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo\npagrindą147."
+  citata_rodoma: |
+    Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
+    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
+    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad
+    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
+    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
+    pagrindą147.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -3833,7 +3870,42 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     no Vilniumi pagal Vilnios upės vardą.
     h i
     XI Knyga, sk.
-  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­\ndeika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas, \nišaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi \napkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­\ntuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­\nbę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks \nšio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­\nkas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro \npilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­\nno Vilniumi pagal Vilnios upės vardą."
+  citata_rodoma: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
+    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
+    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
+    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
+    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
+    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
+    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
+    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
+    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
+    no Vilniumi pagal Vilnios upės vardą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -3928,7 +4000,18 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
     dijančių juos Rygos arkivyskupo prasimanymu ir klastote
     esant.
-  citata_rodoma: "Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad\nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir\npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu\nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote\nesant."
+  citata_rodoma: |
+    Vėliau viskas byloja, jog Gediminas per pasiun­
+    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
+    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
+    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
+    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
+    kada nebuvo dėl jų suabejojęs.
+    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
+    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
+    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
+    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
+    esant.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4117,7 +4200,20 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
     jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
     metų birželio 15 d., sustojo ties Bajerburgu.
-  citata_rodoma: "Į tą rūsį \nlanda buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­\nkiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­\nninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi \npriešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai\n102\n\n## Puslapis 119\n\nI  KNYGA\nvienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs \njam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337 \nmetų birželio 15 d."
+  citata_rodoma: |
+    Į tą rūsį
+    landa buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­
+    kiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­
+    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
+    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
+    102
+
+    ## Puslapis 119
+
+    I  KNYGA
+    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
+    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
+    metų birželio 15 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4139,7 +4235,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
-  citata_rodoma: "Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­\ngaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­\nvinės rusų kalbos.\nPats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm."
+  citata_rodoma: |
+    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
+    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
+    vinės rusų kalbos.
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
+    m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4190,7 +4293,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    1253 VII 6 
+    1253 VII 6
     susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi
     karaliumi.
     1316–1341
@@ -4260,7 +4363,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija. Pastaroji
     pulta dėl to, kad buvo Ordino sąjungininkė. Vis dėlto nuo 1324 m. pabaigos kuriam
     laikui tarp Lietuvos ir Ordino nusistovėjo taika.
-  citata_rodoma: "Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324\nm. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio\nmėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija."
+  citata_rodoma: |
+    Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
+    m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio
+    mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -4304,7 +4410,20 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
     nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
     duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
-  citata_rodoma: "Pirmąjį Vilniaus paminėjimą, pirmą autentišką\npaliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be\nabejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­\nniuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip\npat su Vokiečių ordino Livonijoje magistru ir broliais - iš\nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo."
+  citata_rodoma: |
+    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4327,7 +4446,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
     linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
     ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
-  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos. \nKijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau \nlinkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso \nordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m."
+  citata_rodoma: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
+    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4620,7 +4746,40 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     grobį, o kitoje pusėje Livonijos kryžiuočiai atėmė iš
     lietuvių tą Žemaitijos pakraštį, kuris dabar vadinamas
     Kuršu.
-  citata_rodoma: "To­\ndėl ir manau, kad dingstį šitokiems svetimšalių post­\nringavimams apie Gediminą davęs Pelužis, pirmųjų\nvaldovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­\nkakliai savinęsis didžiojo kunigaikščio vardą ir kry­\nžiuočių remiamas labai kenkęs savo tėvynei; norėda­\nmas sukelti užuojautą dėl savo padėties, jis niekinamai\nvadinęs Gediminą Vytenio arklininko sūnumi; Vytenį\nesą jo paties valdinys Gediminas, kitados savo valdo­\nvų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų\nmetraštininkai, kurie šią savo priešams lietuviams pri­\nkišamą nuodėmę vargu ar būtų nutylėję ir kurie savo\namžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš\nG edim in as,\nV y te n io\nsūnus,\np a v e ld i\nv a l­\ndžią\nNeišmanantys reikalo es­\nmės ar dėl to, kad gyveno\ntoli nuo vietų, kur šitai dė­\njosi, ar dėl to, kad nuo ap-\nm\n\n## Puslapis 193\n\narti matė ir, patikimai atpasakoję, paliko ateinančioms\nkartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­\nrinktas į savo tėvo Vytenio sostą pritariant ir palai­\nkant visiems luomams. Jo valdymo pradžia, Prūsijos\nbei Livonijos kryžiuočiams stojus į karą, buvo ne tik\nnerami, bet ir liūdna."
+  citata_rodoma: |
+    To­
+    dėl ir manau, kad dingstį šitokiems svetimšalių post­
+    ringavimams apie Gediminą davęs Pelužis, pirmųjų
+    valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­
+    kakliai savinęsis didžiojo kunigaikščio vardą ir kry­
+    žiuočių remiamas labai kenkęs savo tėvynei; norėda­
+    mas sukelti užuojautą dėl savo padėties, jis niekinamai
+    vadinęs Gediminą Vytenio arklininko sūnumi; Vytenį
+    esą jo paties valdinys Gediminas, kitados savo valdo­
+    vų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų
+    metraštininkai, kurie šią savo priešams lietuviams pri­
+    kišamą nuodėmę vargu ar būtų nutylėję ir kurie savo
+    amžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš
+    G edim in as,
+    V y te n io
+    sūnus,
+    p a v e ld i
+    v a l­
+    džią
+    Neišmanantys reikalo es­
+    mės ar dėl to, kad gyveno
+    toli nuo vietų, kur šitai dė­
+    josi, ar dėl to, kad nuo ap-
+    m
+
+    ## Puslapis 193
+
+    arti matė ir, patikimai atpasakoję, paliko ateinančioms
+    kartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­
+    rinktas į savo tėvo Vytenio sostą pritariant ir palai­
+    kant visiems luomams. Jo valdymo pradžia, Prūsijos
+    bei Livonijos kryžiuočiams stojus į karą, buvo ne tik
+    nerami, bet ir liūdna.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -4681,7 +4840,17 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     vėliau Vladislovui kariauti
     su Voldemaru, Brandenburgo
     markgrafu.
-  citata_rodoma: "Kuo greičiausiai ir kuo ryžtingiausiai\nreikią kelti kalaviją prieš tuos, kurie iš arti graso, o\nsu tolesniais, suėjus į tariamą draugystę, nesunkiai bū­\nsią galima ramiai gyventi. Išsiuntė į Lietuvą pasiun­\ntinius, turėjusius prašyti Gedimino dukters Aldonos\nrankos Kazimierui, Lenkijos valdovui; lietuviai drau­\ngiškai priėmė pasiuntinybę, abi šalys susitarė, kad,\nvaldovams susigiminiavus, būsianti tarp abiejų tautų\ntvirta taika. Dvidešimt keturis tūkstančius lenkų be­\nlaisvių dovanojo nelyginant kraitį."
+  citata_rodoma: |
+    Kuo greičiausiai ir kuo ryžtingiausiai
+    reikią kelti kalaviją prieš tuos, kurie iš arti graso, o
+    su tolesniais, suėjus į tariamą draugystę, nesunkiai bū­
+    sią galima ramiai gyventi. Išsiuntė į Lietuvą pasiun­
+    tinius, turėjusius prašyti Gedimino dukters Aldonos
+    rankos Kazimierui, Lenkijos valdovui; lietuviai drau­
+    giškai priėmė pasiuntinybę, abi šalys susitarė, kad,
+    valdovams susigiminiavus, būsianti tarp abiejų tautų
+    tvirta taika. Dvidešimt keturis tūkstančius lenkų be­
+    laisvių dovanojo nelyginant kraitį.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -4706,7 +4875,17 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
     (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
     tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui.
-  citata_rodoma: "98 /Ten\npat,\n6\npastraipos\ntęsinys/\nMoneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą."
+  citata_rodoma: |
+    98 /Ten
+    pat,
+    6
+    pastraipos
+    tęsinys/
+    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­
+    kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­
+    bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­
+    pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
+    pastatyto kalavijo ženklą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -4984,7 +5163,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
     čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
     sūnų bei dukterų vedybomis.
-  citata_rodoma: "Gediminas taip pat buvo pirmasis, kuris\nprieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie\nLietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir\nčia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo\nsūnų bei dukterų vedybomis."
+  citata_rodoma: |
+    Gediminas taip pat buvo pirmasis, kuris
+    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
+    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
+    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
+    sūnų bei dukterų vedybomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -5114,7 +5298,20 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
     nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
     duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
-  citata_rodoma: "Pirmąjį Vilniaus paminėjimą, pirmą autentišką\npaliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be\nabejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­\nniuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip\npat su Vokiečių ordino Livonijoje magistru ir broliais - iš\nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo."
+  citata_rodoma: |
+    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -5340,7 +5537,17 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
     (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
     tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui.
-  citata_rodoma: "98 /Ten\npat,\n6\npastraipos\ntęsinys/\nMoneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą."
+  citata_rodoma: |
+    98 /Ten
+    pat,
+    6
+    pastraipos
+    tęsinys/
+    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­
+    kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­
+    bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­
+    pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
+    pastatyto kalavijo ženklą.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -5359,7 +5566,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     no Mindaugo įkurtą valstybę ir davė pradžią naujai galingai
     dinastijai. Jis mirdamas paliko Lietuvai veiklius ir energingus
     kunigaikščius Algirdą ir Kęstutį.
-  citata_rodoma: "pabaigoje Lietuvos istorijos šaltiniai mini ma­\nžai žinomą ir palikusį istorijos miglose Lietuvos kunigaikštį\nLiutaverą (Pukaverą). Jo sūnus Gediminas dar labiau sutvirti­\nno Mindaugo įkurtą valstybę ir davė pradžią naujai galingai\ndinastijai. Jis mirdamas paliko Lietuvai veiklius ir energingus\nkunigaikščius Algirdą ir Kęstutį."
+  citata_rodoma: |
+    pabaigoje Lietuvos istorijos šaltiniai mini ma­
+    žai žinomą ir palikusį istorijos miglose Lietuvos kunigaikštį
+    Liutaverą (Pukaverą). Jo sūnus Gediminas dar labiau sutvirti­
+    no Mindaugo įkurtą valstybę ir davė pradžią naujai galingai
+    dinastijai. Jis mirdamas paliko Lietuvai veiklius ir energingus
+    kunigaikščius Algirdą ir Kęstutį.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -5449,7 +5662,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
     dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
     Ordiną — tai „šventas sumanymas“ (III,284).
-  citata_rodoma: "Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad\npats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas\nklastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo\npagrindą147."
+  citata_rodoma: |
+    Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
+    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
+    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad
+    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
+    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
+    pagrindą147.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -5504,7 +5723,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     sprendimu Ordinas privalėjo grąžinti Pomeraniją, tačiau kryžiuočiai sprendimo nepripažino
     ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
     nemažas politinis lenkų laimėjimas59.
-  citata_rodoma: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).\nMazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus\nkelius vakaruose ir šiaurėje blokavo Ordinas)."
+  citata_rodoma: |
+    Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
+    Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
+    kelius vakaruose ir šiaurėje blokavo Ordinas).
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -5544,7 +5766,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
     latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
     žmonės - kariai, galintys bet kada stoti į tarnybą.
-  citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-\ntuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-\nlatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji\nžmonės - kariai, galintys bet kada stoti į tarnybą."
+  citata_rodoma: |
+    Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -5868,7 +6097,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
     kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
     tuvą; visiems žadėjo savo globos ir paramos įsikurti.
-  citata_rodoma: "1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-\ngeliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-\ntus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir\nkvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-\ntuvą; visiems žadėjo savo globos ir paramos įsikurti."
+  citata_rodoma: |
+    1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-
+    geliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-
+    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
+    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
+    tuvą; visiems žadėjo savo globos ir paramos įsikurti.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -6050,7 +6284,16 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
-  citata_rodoma: "Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems\nEuropos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam\ngeros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį\natgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei\nsukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.\nGedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.\nPopiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino\nvalstybę ir patvirtino šią sutartį53."
+  citata_rodoma: |
+    Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
+    Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
+    geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
+    atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
+    sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
+    Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
+    valstybę ir patvirtino šią sutartį53.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -6082,7 +6325,21 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
     ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
     ginče su kryžiuočiais.
-  citata_rodoma: "87\n\n## Puslapis 104\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nMūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti. Rygos \narkivyskupas, Gedimino vardu prisidengęs, juos parengė ir \nišsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo \nmelu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių \nordiną ir per tai pelnytų sau palankų popiežiaus sprendimą \nginče su kryžiuočiais."
+  citata_rodoma: |
+    87
+
+    ## Puslapis 104
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
+    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
+    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
+    dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
+    arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir
+    išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo
+    melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
+    ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
+    ginče su kryžiuočiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -6185,7 +6442,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
-  citata_rodoma: "Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­\ngaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­\nvinės rusų kalbos.\nPats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm."
+  citata_rodoma: |
+    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
+    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
+    vinės rusų kalbos.
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
+    m.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -6366,20 +6630,18 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvos didžiojo kunigaikščio Gedimino kapas yra
-    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
-    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
-    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
-    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
-    pelenai ilsisi supiltame kalne).
-    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
-    numeryje**.
-    372
-
-    ## Puslapis 372
-
-    vedančio iš Užupio į Antakalnį. Tai yra kalnas, gerokai aukš­
-    tesnis už kitus gretimus, stūksantis atskirai.
+    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
+    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
+    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
+    kitame šio veikalo tome.
+    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
+    prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė
+    aptikti kapą prie didoko akmens žemėje, priklausančioje ma­
+    no kaimeliui. Kaimiečiai nuolat kalbėdavo, kad po tuo akme­
+    niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
+    kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
+    padavimai. Kai, dalyvaujant vienam senienų tyrėjui, liepiau
+    kasti, maždaug trijų uolekčių gylyje radome žmogaus skeletą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -6392,14 +6654,19 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   puslapiai: "PDF 402"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
-    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
-    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
-    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
-    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
-    metais Gediminas davė Krunevičiui10. Sis paprotys lietuviams
-    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
-    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
-    kad jiems būtų suteikti herbai -  taip būdavo Lenkijoje.
+    Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
+    Nors pirmaujančios lietuvių giminės po Horodlės seimo
+    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
+    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
+    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
+    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
+    dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
+    arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
+    11 Skaityk straipsnį „Šventyklos”.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

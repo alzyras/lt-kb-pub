@@ -344,7 +344,11 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     Kabirai (Kabiiy)
     Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
     džių trejybė.
-  citata_rodoma: "Patelas (Patelo)\nSkraidančių oro dvasių dievas, savitas aukščiausiosios ka­\ntegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą\njis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje."
+  citata_rodoma: |
+    Patelas (Patelo)
+    Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
+    tegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą
+    jis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -365,7 +369,13 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     2 2 6
 
     Beveik kiekviena jų šventoji upė vadinosi Ross.
-  citata_rodoma: "Lietuvoje, Hartknocho nuomo­\nne, tokia ugnis turėjo degti prie Nevėžio upės.\n3. Dievo Perkūno šventykloje, senovės Romovėje, švento­\njo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­\nras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­\nri degė prižiūrima paties vyriausiojo žynio."
+  citata_rodoma: |
+    Lietuvoje, Hartknocho nuomo­
+    ne, tokia ugnis turėjo degti prie Nevėžio upės.
+    3. Dievo Perkūno šventykloje, senovės Romovėje, švento­
+    jo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­
+    ras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­
+    ri degė prižiūrima paties vyriausiojo žynio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -391,7 +401,16 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
     atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
     mis augdami ant medžių, užauga sieto dydžio.
-  citata_rodoma: "235\n\n## Puslapis 235\n\nclžiu. Romovės šventyklos mitologinis pavadinimas siejamas\nsu ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė\nsusilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­\nmas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­\nbių prieglauda."
+  citata_rodoma: |
+    235
+
+    ## Puslapis 235
+
+    clžiu. Romovės šventyklos mitologinis pavadinimas siejamas
+    su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
+    susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
+    mas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
+    bių prieglauda.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -413,7 +432,15 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
     kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
     17 Lieflandische Geschichte (1757 metų leidimas.
-  citata_rodoma: "Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­\nnikininkai specialistai to neaprašo, tik priduria, kad senais lai­\nkais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo\ngalutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų\nvyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­\ntuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba\nvisur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo\nlaikas*."
+  citata_rodoma: |
+    Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
+    nikininkai specialistai to neaprašo, tik priduria, kad senais lai­
+    kais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo
+    galutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų
+    vyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­
+    tuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba
+    visur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo
+    laikas*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -458,7 +485,11 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
     ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
     žodis Hentar pasiskolintas iš lietuvių.
-  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
+  citata_rodoma: |
+    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
+    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
+    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
+    S. 261).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -484,7 +515,17 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     driekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­
     bijos miškuose dar ligi šiol gyvena anų laikų palikuonis
     elnias.
-  citata_rodoma: "Di­\ndžiuliuose krašto plotuose augo miškai, kurie geriau negu\ndabar saugojo Prūsijos bitynų kraštą nuo smarkių vėjų.\nBūtent provincijos vakaruose plytėjo didelė šventa giria,\nkurios viduryje buvo dievų šventovė Romovė; šis miškas\nošė beveik nuo pat šiaurinės pakrantės galo net iki prie\nAistmarių esančių pakrantės žemių. Kiti miškų plotai\ndriekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­\nbijos miškuose dar ligi šiol gyvena anų laikų palikuonis\nelnias."
+  citata_rodoma: |
+    Di­
+    džiuliuose krašto plotuose augo miškai, kurie geriau negu
+    dabar saugojo Prūsijos bitynų kraštą nuo smarkių vėjų.
+    Būtent provincijos vakaruose plytėjo didelė šventa giria,
+    kurios viduryje buvo dievų šventovė Romovė; šis miškas
+    ošė beveik nuo pat šiaurinės pakrantės galo net iki prie
+    Aistmarių esančių pakrantės žemių. Kiti miškų plotai
+    driekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­
+    bijos miškuose dar ligi šiol gyvena anų laikų palikuonis
+    elnias.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

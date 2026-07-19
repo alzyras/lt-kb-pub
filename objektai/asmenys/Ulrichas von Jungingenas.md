@@ -127,7 +127,10 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
     magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
     Nuo Torno Drevencos krantu iki Loebau (VII.
-  citata_rodoma: "Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis\nmagistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.\nNuo Torno Drevencos krantu iki Loebau (VII."
+  citata_rodoma: |
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

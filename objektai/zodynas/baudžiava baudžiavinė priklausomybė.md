@@ -113,7 +113,8 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
     no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią
     Lenkijos ir Lietuvos valstybę. Tuo metu carizmas pradėjo jau anksčiau
     paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.
-  citata_rodoma: "Lenkijos ir Lietuvos valstybę. Tuo metu carizmas pradėjo jau anksčiau"
+  citata_rodoma: |
+    Lenkijos ir Lietuvos valstybę. Tuo metu carizmas pradėjo jau anksčiau
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +134,8 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
     teisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-
     matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
     reformą numatyta pradėti po dvejų metų.
-  citata_rodoma: "matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių"
+  citata_rodoma: |
+    matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

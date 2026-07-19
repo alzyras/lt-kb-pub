@@ -268,7 +268,12 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
     jos užimti, o tik sudegino papilį.
-  citata_rodoma: "Kita užuomina \nDusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] \nyra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­\nchas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė \njos užimti, o tik sudegino papilį."
+  citata_rodoma: |
+    Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

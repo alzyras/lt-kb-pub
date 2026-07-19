@@ -159,7 +159,9 @@ Nenurodyta
     Oho, bakanai tokie, kad boba vos suvaldo.
     Atriekia griežinį, yra ko į terbą dėti. Kelis kiemus pereini — jau ter-
     ba pilna.
-  citata_rodoma: "Kelis kiemus pereini — jau ter­\nba pilna."
+  citata_rodoma: |
+    Kelis kiemus pereini — jau ter­
+    ba pilna.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -178,7 +180,8 @@ Nenurodyta
     Piemuo, su­
     valgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į
     mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“ .
-  citata_rodoma: "Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“."
+  citata_rodoma: |
+    Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -197,7 +200,8 @@ Nenurodyta
     piemuo užlipo ant kalno.
     Jam parūpo pakratyti savo terbą, pažiūrėti
     ką ten šeimininkė įdėjo.
-  citata_rodoma: "Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė. Vienas piemuo užlipo ant kalno. Jam parūpo pakratyti savo terbą, pažiūrėti ką ten šeimininkė įdėjo."
+  citata_rodoma: |
+    Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė. Vienas piemuo užlipo ant kalno. Jam parūpo pakratyti savo terbą, pažiūrėti ką ten šeimininkė įdėjo.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -215,7 +219,9 @@ Nenurodyta
     laimės, kad kurpius susirgo ir numirė. Liko žmona ir auganti duktė,
     —— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­
     gino verstis poterėliais ir terbele.
-  citata_rodoma: "Taigi pamė­\ngino verstis poterėliais ir terbele."
+  citata_rodoma: |
+    Taigi pamė­
+    gino verstis poterėliais ir terbele.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -234,7 +240,8 @@ Nenurodyta
     rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma­
     žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs
     nunešiotais miestiečio užvalkčiais.
-  citata_rodoma: "ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
+  citata_rodoma: |
+    ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -253,7 +260,10 @@ Nenurodyta
     Vėžiavimas
     būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­
     tą vandenį ir parnešdavo terbą vėžių. Dabar ir tokių bobų nėra.
-  citata_rodoma: "Vėžiavimas \nbūdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­\ntą vandenį ir parnešdavo terbą vėžių. Dabar ir tokių bobų nėra."
+  citata_rodoma: |
+    Vėžiavimas
+    būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­
+    tą vandenį ir parnešdavo terbą vėžių. Dabar ir tokių bobų nėra.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -270,7 +280,9 @@ Nenurodyta
     Kad atriekia griežinį — tik tik griežinėlis. Pereini kaimą — turi pri­
     dėjęs terbos galiuką. Ta duonelė bėralinė, terboje susitrina, į trupi­
     nius pavirsta.
-  citata_rodoma: "Ta duonelė bėralinė, terboje susitrina, į trupi­\nnius pavirsta."
+  citata_rodoma: |
+    Ta duonelė bėralinė, terboje susitrina, į trupi­
+    nius pavirsta.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -292,7 +304,8 @@ Nenurodyta
     dalgę.
     Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir
     atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
-  citata_rodoma: "Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose."
+  citata_rodoma: |
+    Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -310,7 +323,9 @@ Nenurodyta
     paskutinųjų; toliau ir eina pati per žmones, prašydama pasigailėti.
     Terbelė ne ant pečių, kaip elgetų, bet rankose; vedasi su savimi dve­
     jetą didesnių vaikų.
-  citata_rodoma: "Terbelė ne ant pečių, kaip elgetų, bet rankose; vedasi su savimi dve­\njetą didesnių vaikų."
+  citata_rodoma: |
+    Terbelė ne ant pečių, kaip elgetų, bet rankose; vedasi su savimi dve­
+    jetą didesnių vaikų.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas

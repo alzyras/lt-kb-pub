@@ -131,7 +131,14 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     Nuo lietuvių puolimo Ordinas bandė sau-
     goti Sembą. Magistras su gausia kariuomene
     įvairiose vietose priešais Lietuvos žemes
-  citata_rodoma: "1347 m. vasarį „abu lietuvių karaliai“\npuolė Prūsijoje Rastenburgą, niokojo\nBartos žemę iki Girdavų pilies, apgulė\nLunenburgą, sunaikino jo papilį.\n\nNuo lietuvių puolimo Ordinas bandė sau-\ngoti Sembą."
+  citata_rodoma: |
+    1347 m. vasarį „abu lietuvių karaliai“
+    puolė Prūsijoje Rastenburgą, niokojo
+    Bartos žemę iki Girdavų pilies, apgulė
+    Lunenburgą, sunaikino jo papilį.
+
+    Nuo lietuvių puolimo Ordinas bandė sau-
+    goti Sembą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -169,7 +176,15 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     Henriko VI laikais (Dusb. I, 2).
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
     III (Ptol.
-  citata_rodoma: "Apie Lunenburgo pilies ir dviejų miestų pastatymą\n\n  Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą\nleidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,\nsantakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595."
+  citata_rodoma: |
+    Apie Lunenburgo pilies ir dviejų miestų pastatymą
+
+      Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
+    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
+    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
+    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
+    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
+    Ilienburgo [Ilijos] pilies595.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

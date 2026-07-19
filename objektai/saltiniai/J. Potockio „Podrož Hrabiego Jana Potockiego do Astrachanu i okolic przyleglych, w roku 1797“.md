@@ -89,7 +89,11 @@ Jano Potockio kelionės į Astrachanę ir apylinkes 1797 m. aprašymas buvo publ
     liesdpvo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų
     krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis
     ir net grasinama mirtimi.
-  citata_rodoma: "Sį kartą istorikas turėjo omenyje\nstraipsnį: Podrož Hrabiego Jana Potockiego do Astrachanu i okolic\nprzyleglych, w roku 1797 //Dziennik Wilenski. 1828. T. V. S. 222—\n240; 284—304."
+  citata_rodoma: |
+    Sį kartą istorikas turėjo omenyje
+    straipsnį: Podrož Hrabiego Jana Potockiego do Astrachanu i okolic
+    przyleglych, w roku 1797 //Dziennik Wilenski. 1828. T. V. S. 222—
+    240; 284—304.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

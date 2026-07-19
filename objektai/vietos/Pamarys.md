@@ -262,7 +262,13 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
     kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
     po to keliavo toliau per alanų kraštą.
-  citata_rodoma: "Tai buvo miškinė gyvulių augintojų gentis.\nČia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­\ntinių kašubų protėviai. Neabejotina, kad ji susiliejo su\nkažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­\nkūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­\ngų bruožų."
+  citata_rodoma: |
+    Tai buvo miškinė gyvulių augintojų gentis.
+    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
+    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
+    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
+    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
+    gų bruožų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -288,7 +294,14 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     džiaugsmo raktą, tad jo reikšmė aiški, nes raktas kiekvieno
     dievo rankoje nusako jo valdžią, o pats raktas įgauna reikšmę
     nuo vietos, kurioje pavaizduotas.
-  citata_rodoma: "Sako, kad lietuviai kaimiečiai\nšitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­\nse. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių\nsenovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje\ntikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­\nsonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­\ndą, kad tai buvo deivės Velionos aukurai."
+  citata_rodoma: |
+    Sako, kad lietuviai kaimiečiai
+    šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
+    se. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių
+    senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje
+    tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­
+    sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
+    dą, kad tai buvo deivės Velionos aukurai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

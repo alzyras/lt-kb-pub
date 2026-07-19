@@ -80,7 +80,12 @@ Terminas vartojamas XIX a. vidurio sausros ir kaitros padarinių pasakojime.
     nedegančiuose miškuose, gyvuliai nuo kaitros sirgo liga,
     vadinama
     karbonka, kuria nuo gyvulių užsikrėsdavo ir žmonės.
-  citata_rodoma: "Šeštame dešimtmetyje praėjusio šimtme­\nčio ištiko viena labai sausa vasara: degė pelkės ir miškai, eglės džiūvo \nnedegančiuose miškuose, gyvuliai nuo kaitros sirgo liga, \nvadinama \nkarbonka, kuria nuo gyvulių užsikrėsdavo ir žmonės"
+  citata_rodoma: |
+    Šeštame dešimtmetyje praėjusio šimtme­
+    čio ištiko viena labai sausa vasara: degė pelkės ir miškai, eglės džiūvo
+    nedegančiuose miškuose, gyvuliai nuo kaitros sirgo liga,
+    vadinama
+    karbonka, kuria nuo gyvulių užsikrėsdavo ir žmonės
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

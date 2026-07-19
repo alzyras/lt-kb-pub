@@ -65,7 +65,8 @@ Gudynas.
   citata_originali: |
     Vilnius, 2009; Lietuvos tapyba. Sud. P. Gudynas. Vilnius, 1976; Millennium of Lithuania:
     Millennium Lithuaniae.
-  citata_rodoma: "Lietuvos tapyba. Sud. P. Gudynas. Vilnius, 1976;"
+  citata_rodoma: |
+    Lietuvos tapyba. Sud. P. Gudynas. Vilnius, 1976;
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

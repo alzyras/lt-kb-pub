@@ -130,7 +130,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir pagrįstas citata apie Karaliaučiaus įkūrimą."
   pagrindžia:
-    - c-123544
+    - c-123509
 
 <a id="claim-t-135438"></a>
 - t-004
@@ -496,7 +496,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Ignas Onacevičius keliavo į Karaliaučius (0.95)"
   pagrindžia:
-    - c-123520
+    - c-123541
 
 <a id="claim-t-135461"></a>
 - t-024
@@ -1149,7 +1149,9 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     plėtė sukilimas Prūsuose, kur buvo sunaikintos beveik visos or-
     dino pilys ir išžudytos jų įgulos. Nesugriautos liko tik Karaliau-
     čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
-  citata_rodoma: "Nesugriautos liko tik Karaliau-\nčiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys."
+  citata_rodoma: |
+    Nesugriautos liko tik Karaliau-
+    čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1170,7 +1172,11 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
     tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
     netoli Karaliaučiaus, vėl susirinko krūvon.
-  citata_rodoma: "Pasidalinę mažais būre­\nliais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­\ntų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,\nnetoli Karaliaučiaus, vėl susirinko krūvon."
+  citata_rodoma: |
+    Pasidalinę mažais būre­
+    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
+    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
+    netoli Karaliaučiaus, vėl susirinko krūvon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1195,7 +1201,12 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
     programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
     tekizmą“.
-  citata_rodoma: "Šią programą A. Kulvietis \nbandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-\nmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų \nprogramos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-\ntekizmą“."
+  citata_rodoma: |
+    Šią programą A. Kulvietis
+    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
+    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
+    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
+    tekizmą“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1216,7 +1227,12 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus
     atramos taškas. Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
     vių plotus rasti kelią į šiaurę, t. y. į pietų Žemaičius.
-  citata_rodoma: "Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai\niš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­\ntytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus\natramos taškas. Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­\nvių plotus rasti kelią į šiaurę, t."
+  citata_rodoma: |
+    Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai
+    iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­
+    tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus
+    atramos taškas. Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
+    vių plotus rasti kelią į šiaurę, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -1249,7 +1265,10 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     sau palenkti dovanomis. 1400 m. Kalėdoms į Karaliaučių nuvykę
     kilmingieji buvo apdovanoti druska ir vilnoniais audiniais^12 , t. y.
     to meto Lietuvos branginamomis importo prekėmis.
-  citata_rodoma: "1400 m. Kalėdoms į Karaliaučių nuvykę\nkilmingieji buvo apdovanoti druska ir vilnoniais audiniais^12 , t. y.\nto meto Lietuvos branginamomis importo prekėmis."
+  citata_rodoma: |
+    1400 m. Kalėdoms į Karaliaučių nuvykę
+    kilmingieji buvo apdovanoti druska ir vilnoniais audiniais^12 , t. y.
+    to meto Lietuvos branginamomis importo prekėmis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1288,7 +1307,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
     apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
     rezidencija136.
-  citata_rodoma: "pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus\n100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,\nkad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino\nadministraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309\nm —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti\napie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m."
+  citata_rodoma: |
+    pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
+    100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
+    kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
+    administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
+    m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
+    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1328,7 +1353,12 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­
     tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus
     atramos taškas.
-  citata_rodoma: "Daugiau ir tikslesniu žinių yra apie Mindaugo santykius su vo­\nkiečių ordinu. Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai\niš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­\ntytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus\natramos taškas."
+  citata_rodoma: |
+    Daugiau ir tikslesniu žinių yra apie Mindaugo santykius su vo­
+    kiečių ordinu. Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai
+    iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­
+    tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus
+    atramos taškas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1347,7 +1377,11 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
     rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius į
     Lietuvą.
-  citata_rodoma: "Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti\napie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo\nrezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius  į\nLietuvą."
+  citata_rodoma: |
+    Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
+    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
+    rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius  į
+    Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1374,6 +1408,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-135437
     - t-135475
 - id: c-123511
   redaktorius: "A. Šapoka"
@@ -1386,7 +1421,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
     kunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo
     jos valdžioje iki valstybės padalinimo (1772 m.).
-  citata_rodoma: "Smarkiai\napkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-\nkėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne\ntik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų\nkunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo\njos valdžioje iki valstybės padalinimo (1772 m."
+  citata_rodoma: |
+    Smarkiai
+    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
+    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
+    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
+    kunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo
+    jos valdžioje iki valstybės padalinimo (1772 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1449,7 +1490,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
     tiesiamos pirmosios telefono linijos, XX a. pradžioje pasirodo ir pirmieji
     automobiliai.
-  citata_rodoma: "viduryje \npradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių \nnavigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis \nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių \n(Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-\ntiesiamos pirmosios telefono linijos, XX a."
+  citata_rodoma: |
+    viduryje
+    pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
+    navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
+    tiesiamos pirmosios telefono linijos, XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1468,7 +1515,11 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
     dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
     visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai.
-  citata_rodoma: "Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-\ngai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-\ndintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK \nvisuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai."
+  citata_rodoma: |
+    Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
+    gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
+    dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
+    visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1492,7 +1543,14 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     kad ir kurią iš visų tų legendų pripažintume esant tikro-
     viškiausia, vis vien neabejotinas dalykas, jog Vilniaus įkū­
     rimą ne Gediminui, bet jo pirmtakams dera priskirti.
-  citata_rodoma: "Netgi kai kuriuose Jogailos au­\ntentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki\nšiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas -\nVylne, Velne, labai panėši į vardą, duotą jam Snorro. Tad\nkad ir kurią iš visų tų legendų pripažintume esant tikro-\nviškiausia, vis vien neabejotinas dalykas, jog Vilniaus įkū­\nrimą ne Gediminui, bet jo pirmtakams dera priskirti."
+  citata_rodoma: |
+    Netgi kai kuriuose Jogailos au­
+    tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki
+    šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas -
+    Vylne, Velne, labai panėši į vardą, duotą jam Snorro. Tad
+    kad ir kurią iš visų tų legendų pripažintume esant tikro-
+    viškiausia, vis vien neabejotinas dalykas, jog Vilniaus įkū­
+    rimą ne Gediminui, bet jo pirmtakams dera priskirti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1530,7 +1588,10 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     rais—Karaliaučium ir Dancigu. Tuo metu rytų Lietuvos, t. y. ru-
     siškųjų žemių prekyba daugiausia ėjo Dauguva, o tikrosios Lie-
     tuvos ir jai artimųjų sričių — Nemunu.
-  citata_rodoma: "Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-\nkyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-\nrais—Karaliaučium ir Dancigu. Tuo metu rytų Lietuvos, t."
+  citata_rodoma: |
+    Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
+    kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
+    rais—Karaliaučium ir Dancigu. Tuo metu rytų Lietuvos, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1553,14 +1614,20 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     tuvos universiteto įkūrimo, o nė vienas iš jo mokinių, nors ir
     gausiai Lietuvos duona aprūpintas, neparodė didesnio noro pa­
     sidomėti jos praeitimi.
-  citata_rodoma: "Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­\ntorinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­\nrašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos\nmokslo būklę. „Du šimtai penkiasdešimt metų praėjo nuo Lie­\ntuvos universiteto įkūrimo, o nė vienas iš jo mokinių, nors ir\ngausiai Lietuvos duona aprūpintas, neparodė didesnio noro pa­\nsidomėti jos praeitimi."
+  citata_rodoma: |
+    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
+    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
+    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
+    mokslo būklę. „Du šimtai penkiasdešimt metų praėjo nuo Lie­
+    tuvos universiteto įkūrimo, o nė vienas iš jo mokinių, nors ir
+    gausiai Lietuvos duona aprūpintas, neparodė didesnio noro pa­
+    sidomėti jos praeitimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-135460
 - id: c-123521
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1571,7 +1638,10 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     knygos. Nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto
     (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką. Nurašinėtojas prastokai mokėjo
     lotynų kalbą, ne visada teisingai suprato XIV a. sutrumpinimus, darė kitų klaidų.
-  citata_rodoma: "Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,\n1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios\nknygos."
+  citata_rodoma: |
+    Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,
+    1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios
+    knygos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1615,7 +1685,12 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     jo veikalą, vad.: Preuszens aeltere Geschichte von August von
     Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
     Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
-  citata_rodoma: "Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve \nKaraliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į \njo veikalą, vad.: Preuszens aeltere Geschichte von August von \nKotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu. \nFoigto vertimas į len kųk ir teksto lotynų k. pataisymai."
+  citata_rodoma: |
+    Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve
+    Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į
+    jo veikalą, vad.: Preuszens aeltere Geschichte von August von
+    Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
+    Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1634,7 +1709,10 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     pradžioje. 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir
     Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto
     tėvonija40.
-  citata_rodoma: "pradžioje. 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir\nKaraliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto\ntėvonija40."
+  citata_rodoma: |
+    pradžioje. 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir
+    Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto
+    tėvonija40.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1676,7 +1754,12 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     nes būgštavo, kad dievas ant jų labai užsirūstinęs. Po dvejus metus užtrukusių smarkių
     kovų jų jėgos ėjo silpnyn, o tikėjimo priešai stiprėjo.	 Todėl jie nuolankiai ir gailiai kėlė
     akis į dangų, su ašaromis šaukdamiesi viešpaties pagalbos, ir viešpats jų išklausė.
-  citata_rodoma: "„Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo\nniekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė\nir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis\nstipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl\napsuptieji negalėjo nei įeiti, nei išeiti iš pilies."
+  citata_rodoma: |
+    „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
+    niekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
+    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
+    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
+    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1719,7 +1802,10 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     vietoves (žr. ir schemą). Remiantis naujausiais istorijos, archeologijos, lingvistikos
     duomenimis bei savarankiškais tyrinėjimais, visų pirma norima atskleisti kronikos
     baltistinę, lituanistinę medžiagą.
-  citata_rodoma: "Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius\nTorunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores\nrerum Prussicarum“ serijoje paskelbė M. Tepenas."
+  citata_rodoma: |
+    Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
+    Torunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores
+    rerum Prussicarum“ serijoje paskelbė M. Tepenas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1769,7 +1855,11 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas iš-
     bėgo į Prūsiją, ypač į Karaliaučių.
     Vazų laikais, be to, dar pablogėjo ir sąlygos prekybai.
-  citata_rodoma: "To meto Lietuvos miestuose beveik visi\npirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas iš-\nbėgo į Prūsiją, ypač į Karaliaučių.\nVazų laikais, be to, dar pablogėjo ir sąlygos prekybai."
+  citata_rodoma: |
+    To meto Lietuvos miestuose beveik visi
+    pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas iš-
+    bėgo į Prūsiją, ypač į Karaliaučių.
+    Vazų laikais, be to, dar pablogėjo ir sąlygos prekybai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1806,7 +1896,31 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
     me archyve ir kuriuos Kotzebue
     išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: "406, pri­\nsimena dar vieną Gedimino dukrą, \nkuri esą buvusi anuomet garbingo \nriterio Dovydo, Gardino kašteliono, \narba tiksliau kunigaikščio, viešpata­\nvusio Gardino valdoje, žmona.\nIl\nGedimino laiškuose, rašytuose do­\nminikonų ir Mažesniųjų brolių, ar­\nba pranciškonų, ordinams bei Han­\nzos miestams, kurių autentiškas \n1323 metais notaro parengtas doku­\nmentas yra Karaliaučiaus Slaptaja-\n-  •  -\n20\n\n## Puslapis 37\n\nI  KNYGA\ngumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­\nnių pasirinko jo valdomų visų kraštų sostine tikriausiai \ntodėl, kad būdamas arčiau sienų su kryžiuočiais turėjo\nme archyve ir kuriuos Kotzebue \nišspausdino savo Prūsijos istorijoje."
+  citata_rodoma: |
+    406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1848,13 +1962,21 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
     rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
     mokslo būklę.
-  citata_rodoma: "Be to, rengė astronomo Mikalojaus Ko­\nperniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­\nmus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.\nIstorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­\ntorinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­\nrašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos \nmokslo būklę."
+  citata_rodoma: |
+    Be to, rengė astronomo Mikalojaus Ko­
+    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
+    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
+    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
+    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
+    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
+    mokslo būklę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-135460
     - t-135493
 - id: c-123542
   autorius: "Petras Dusburgietis"
@@ -1868,7 +1990,11 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
     pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
-  citata_rodoma: "Kitąkart mūšio metu danguje pasirodžiusi\nmergelė Marija  (III, 141). Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui\nAlbertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu\nir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv."
+  citata_rodoma: |
+    Kitąkart mūšio metu danguje pasirodžiusi
+    mergelė Marija  (III, 141). Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
+    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
+    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1923,7 +2049,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-135437
 - id: c-123548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1932,7 +2057,9 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius į
     Lietuvą. XIII a. antrojoje pusėje čia buvo kovos su rytinėmis prūsų žemėmis centrai.
     Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją.
-  citata_rodoma: "XIII a. antrojoje pusėje čia buvo kovos su rytinėmis prūsų žemėmis centrai.\nKaraliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją."
+  citata_rodoma: |
+    XIII a. antrojoje pusėje čia buvo kovos su rytinėmis prūsų žemėmis centrai.
+    Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1974,7 +2101,20 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
-  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
+  citata_rodoma: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2005,7 +2145,22 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     D o b iy n ą , ž u d o k i y -
     nių ir plėšimo, žuvo liepsno-
     devynis tūkstančius belaisvių.
-  citata_rodoma: "Žinoma, kilęs triukšmas pažadino daugelį, ne­\npavyko jų išgalabyti lovose, daugelis griebėsi ginklo,\ntačiau, užsimiegoję ir įsigėrę, nepajėgė nei ginklu gin­\ntis nuo dūrių, nei išmone, nežinodami, nei koks už­\ngriuvo pavojus, nei iš kur. Be galybės šeimynykščių ir\nkitokių menkos padėties žmonių, žuvo septynios dešim­\ntys kunigaikščių bei didikų; pats jaunikis bei jaunoji,\nvisos tarybos narių žmonos bei dukros su didžiuliu\ngrobiu buvo išgabentos į Karaliaučių. Šitaip viena pra­\ngaištinga puota privertė gedėti dėl artimųjų mirties\nar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­\nnoje vietoje tapo apiplėšta beveik visa Lietuva, nes\nturtingiausieji, kaip tada buvo įprasta, susivežė ten\nkartu su žmonomis ir vaikais visus lobius, norėdami\npasigirti."
+  citata_rodoma: |
+    Žinoma, kilęs triukšmas pažadino daugelį, ne­
+    pavyko jų išgalabyti lovose, daugelis griebėsi ginklo,
+    tačiau, užsimiegoję ir įsigėrę, nepajėgė nei ginklu gin­
+    tis nuo dūrių, nei išmone, nežinodami, nei koks už­
+    griuvo pavojus, nei iš kur. Be galybės šeimynykščių ir
+    kitokių menkos padėties žmonių, žuvo septynios dešim­
+    tys kunigaikščių bei didikų; pats jaunikis bei jaunoji,
+    visos tarybos narių žmonos bei dukros su didžiuliu
+    grobiu buvo išgabentos į Karaliaučių. Šitaip viena pra­
+    gaištinga puota privertė gedėti dėl artimųjų mirties
+    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
+    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
+    turtingiausieji, kaip tada buvo įprasta, susivežė ten
+    kartu su žmonomis ir vaikais visus lobius, norėdami
+    pasigirti.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

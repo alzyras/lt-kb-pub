@@ -113,7 +113,10 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
     bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį.
-  citata_rodoma: "Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį."
+  citata_rodoma: |
+    Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
+    prašė neva savanoriškai įeiti į SSRS sudėtį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

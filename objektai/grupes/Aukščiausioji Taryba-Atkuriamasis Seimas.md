@@ -68,7 +68,8 @@ AT-AS Aukščiausioji Taryba-Atkuriamasis Seimas. 1990 III 11 Lietuvos Respublik
     1990 III 11
     Lietuvos Respublikos Aukščiausioji Taryba paskelbia Lietuvos nepri-
     klausomybės atkūrimą.
-  citata_rodoma: "Lietuvos Respublikos Aukščiausioji Taryba paskelbia Lietuvos nepri-"
+  citata_rodoma: |
+    Lietuvos Respublikos Aukščiausioji Taryba paskelbia Lietuvos nepri-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

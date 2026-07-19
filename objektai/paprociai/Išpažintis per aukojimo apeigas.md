@@ -191,7 +191,15 @@ Nenurodyta
     kusi pusė sutikdavo su priesaikos žodžiais, tai yra su kepurės
     padavimu, priesaiką priimdavo, bet jai būtinai reikėjo sumokėti
     rublį grašiais, kurie buvo kepurėje.
-  citata_rodoma: "Kronikininkas\nGrunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai\npatekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­\nkūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis\ntaip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­\ndilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė\nuž plaukų, kitiems skaldė antausius, trečius gerokai apmušda­\nvo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą."
+  citata_rodoma: |
+    Kronikininkas
+    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
+    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
+    kūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis
+    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
+    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
+    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
+    vo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -216,7 +224,20 @@ Nenurodyta
     saiką priimdavo, prie tų pinigų pridėdavo besibylinėjančių teis­
     me arba jų liudytojų, o kartais ir visų iš karto kepures. Tą užmo­
     kestį paimdavo prisiekusioji pusė, dalį pinigų atidavusi teismui1*.
-  citata_rodoma: "Į mote­\nris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­\nžintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug\nkitokių pamokymų. Iš to matyti, kad įvedus krikščionybę bu­\nvo pamėgdžiojama katalikų išpažintis, kurios apeigos kažkaip\nnuo seno susiklostė stabmeldystėje. Vaidilos priimdavo išpa­\nžintis kaimiečių, kurie slapčiomis dar laikėsi senojo tikėjimo.\nTačiau tikra turėtų būti ir tai, kad kažką panašaus lietuviai\n320\n\n## Puslapis 320\n\nturėjo ir pačioje stabmeldiškoje religijoje."
+  citata_rodoma: |
+    Į mote­
+    ris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­
+    žintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug
+    kitokių pamokymų. Iš to matyti, kad įvedus krikščionybę bu­
+    vo pamėgdžiojama katalikų išpažintis, kurios apeigos kažkaip
+    nuo seno susiklostė stabmeldystėje. Vaidilos priimdavo išpa­
+    žintis kaimiečių, kurie slapčiomis dar laikėsi senojo tikėjimo.
+    Tačiau tikra turėtų būti ir tai, kad kažką panašaus lietuviai
+    320
+
+    ## Puslapis 320
+
+    turėjo ir pačioje stabmeldiškoje religijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -172,7 +172,12 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
     jau dėl to, kad buvo rastos Lietuvos žemėje.
     III
     lentelė, 10-asis piešinys.
-  citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
+  citata_rodoma: |
+    Apie tai byloja ir pats žibintas -
+    aiškus šviesos atributas**.
+    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
+    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
+    Nauk. -  Warszawa, 1812).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -229,7 +234,11 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
     liesdpvo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų
     krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis
     ir net grasinama mirtimi.
-  citata_rodoma: "Sį kartą istorikas turėjo omenyje\nstraipsnį: Podrož Hrabiego Jana Potockiego do Astrachanu i okolic\nprzyleglych, w roku 1797 //Dziennik Wilenski. 1828. T. V. S. 222—\n240; 284—304."
+  citata_rodoma: |
+    Sį kartą istorikas turėjo omenyje
+    straipsnį: Podrož Hrabiego Jana Potockiego do Astrachanu i okolic
+    przyleglych, w roku 1797 //Dziennik Wilenski. 1828. T. V. S. 222—
+    240; 284—304.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -197,7 +197,14 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     XIX amžius teisėtai vadinamas istorizmo šimtmečiu. Ro­
     mantizmas pagimdė naują individo sąmonės formų struktūrą,
     kuri skiriasi nuo švietėjiškos asmenybės proto diktato.
-  citata_rodoma: "TEODORAS NARBUTAS IR JO\n„LIETUVIŲ TAUTOS ISTORIJA“\nYra asmenybių, kurių gyvenime atsispindi visuomenės he­\nroizmas, lūkesčiai ir ydos. Prie tokių žmonių galima priskirti\nTeodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių\ntautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­\nminklu ir lietuvių tautos kultūriniu palikimu."
+  citata_rodoma: |
+    TEODORAS NARBUTAS IR JO
+    „LIETUVIŲ TAUTOS ISTORIJA“
+    Yra asmenybių, kurių gyvenime atsispindi visuomenės he­
+    roizmas, lūkesčiai ir ydos. Prie tokių žmonių galima priskirti
+    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
+    tautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­
+    minklu ir lietuvių tautos kultūriniu palikimu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -217,7 +224,19 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
     socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
     ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-  citata_rodoma: "UDK\n947.45\nNa-162\nVersta iš:\nDzicjc starožytne narodu\nLitcwskiego przcz\nTeodora Narbutta.\nTom picrwszy:\nMitologia Litcwska\nz o.šmią rycinami.\nWilno, naktadem i drukiem\nA. Marcinowskicgo, 1835."
+  citata_rodoma: |
+    UDK
+    947.45
+    Na-162
+    Versta iš:
+    Dzicjc starožytne narodu
+    Litcwskiego przcz
+    Teodora Narbutta.
+    Tom picrwszy:
+    Mitologia Litcwska
+    z o.šmią rycinami.
+    Wilno, naktadem i drukiem
+    A. Marcinowskicgo, 1835.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -242,7 +261,26 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: "Wilno, naktadem i drukiem\nA. Marcinowskicgo, 1835.\nR edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS\nDailininkas ALFONSAS ŽVILIUS\nIš lenkų ir lotynų kalbų vertė RIMANTAS JASAS\nSpecialioji redaktorė REDA GRIŠKAITĖ\nISBN 5-417-00765-Х\nISBN 5-417-00766-8\nVertimas, Rimantas Jasas, 1992, 1998\nĮvedamasis straipsnis,\nVytautas Berenis, 1992, 1998\nĮvedamasis straipsnis,\nNorbertas Vėlius, 1992, 1998\nĮvedamasis straipsnis, paaiškinimai,\npapildymų vertimas, Reda Griškaitė,\n1997\nDailininkas Alfonsas Zvilius, 1992,"
+  citata_rodoma: |
+    Wilno, naktadem i drukiem
+    A. Marcinowskicgo, 1835.
+    R edaktorių kolegija:
+    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
+    A. TYLA] N. VĖLIUS,! V. VISOCKAS
+    Dailininkas ALFONSAS ŽVILIUS
+    Iš lenkų ir lotynų kalbų vertė RIMANTAS JASAS
+    Specialioji redaktorė REDA GRIŠKAITĖ
+    ISBN 5-417-00765-Х
+    ISBN 5-417-00766-8
+    Vertimas, Rimantas Jasas, 1992, 1998
+    Įvedamasis straipsnis,
+    Vytautas Berenis, 1992, 1998
+    Įvedamasis straipsnis,
+    Norbertas Vėlius, 1992, 1998
+    Įvedamasis straipsnis, paaiškinimai,
+    papildymų vertimas, Reda Griškaitė,
+    1997
+    Dailininkas Alfonsas Zvilius, 1992,
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

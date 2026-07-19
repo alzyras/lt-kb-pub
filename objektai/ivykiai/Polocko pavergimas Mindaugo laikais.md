@@ -78,7 +78,9 @@ Nenurodyta
     pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
     paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O
     Mindaugo laikais jie pavergė ir patį Polocką.
-  citata_rodoma: "Tada aisčiams jau lengviau buvo kariauti, ir XIII a. pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O\nMindaugo laikais jie pavergė ir patį Polocką."
+  citata_rodoma: |
+    Tada aisčiams jau lengviau buvo kariauti, ir XIII a. pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O
+    Mindaugo laikais jie pavergė ir patį Polocką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

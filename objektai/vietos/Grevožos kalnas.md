@@ -90,7 +90,16 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
     vietą primena Heiligenmalde, esanti į pietus nuo Christ­
     burgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
     vietinis Krivis.
-  citata_rodoma: "Belichovo pilis, kilmingojo Jono\nbuveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-\nlochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat\nMokrau kaimo. Ant Grevožos kalno, kur dabar stūkso\nChristburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­\nliese buvusią šventą girią ir šventovę; šiandien tą Šventą\nvietą primena Heiligenmalde, esanti į pietus nuo Christ­\nburgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs\nvietinis Krivis."
+  citata_rodoma: |
+    Belichovo pilis, kilmingojo Jono
+    buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-
+    lochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat
+    Mokrau kaimo. Ant Grevožos kalno, kur dabar stūkso
+    Christburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­
+    liese buvusią šventą girią ir šventovę; šiandien tą Šventą
+    vietą primena Heiligenmalde, esanti į pietus nuo Christ­
+    burgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
+    vietinis Krivis.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

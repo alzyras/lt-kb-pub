@@ -99,7 +99,10 @@ Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės 
     kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
     kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
     mitologiją.
-  citata_rodoma: "Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare."
+  citata_rodoma: |
+    Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
+    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

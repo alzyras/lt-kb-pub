@@ -107,7 +107,13 @@ Nenurodyta
     gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
     nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
     auksiniais indais ir bachmatais ls.
-  citata_rodoma: "Tą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls."
+  citata_rodoma: |
+    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
+    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
+    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
+    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
+    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
+    auksiniais indais ir bachmatais ls.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

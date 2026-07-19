@@ -89,7 +89,19 @@ Nenurodyta
     kio upės; Pamusiai - nuo Musės
     upės; Panevėžys - nuo Nevėžio; Pa­
     dubysis - nuo Dubysos.
-  citata_rodoma: "Paneriai - tai palivarkas ir \nkalnai, pavadinimą tokį gavę nuo to, \nkad išsidėstę prie upės, kuri seniau \nbuvo vadinta Nerimi, dabar Vilija \n(Panerys). Lietuvoj labai paplitęs pa­\nprotys gyvenvietes prie upių vadin­\nti, pridėjus prie upės pavadinimo \npriešdėlį -pa: pvz.: Paširvintys - nuo \nŠirvintos upės; Pamerkys - nuo Mer­\nkio upės; Pamusiai - nuo Musės \nupės; Panevėžys - nuo Nevėžio; Pa­\ndubysis - nuo Dubysos."
+  citata_rodoma: |
+    Paneriai - tai palivarkas ir
+    kalnai, pavadinimą tokį gavę nuo to,
+    kad išsidėstę prie upės, kuri seniau
+    buvo vadinta Nerimi, dabar Vilija
+    (Panerys). Lietuvoj labai paplitęs pa­
+    protys gyvenvietes prie upių vadin­
+    ti, pridėjus prie upės pavadinimo
+    priešdėlį -pa: pvz.: Paširvintys - nuo
+    Širvintos upės; Pamerkys - nuo Mer­
+    kio upės; Pamusiai - nuo Musės
+    upės; Panevėžys - nuo Nevėžio; Pa­
+    dubysis - nuo Dubysos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

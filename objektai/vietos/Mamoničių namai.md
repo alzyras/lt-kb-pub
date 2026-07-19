@@ -53,13 +53,19 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    1822. Mamoničių namai sto­
+    Mamoničių namai sto­
     vėjo, rodos, toje vietoje, kur dabar Sle-
     dzinskio namai, Nr. 203, o šalia,
     kampiniame name, seniau buvo
     cerkvelė. Vėliau Mamoničių spaus­
     tuvė, matyt, atiteko bazilijonams.
-  citata_rodoma: "Mamoničių namai sto­\nvėjo, rodos, toje vietoje, kur dabar Sle- \ndzinskio namai, Nr. 203, o šalia, \nkampiniame name, seniau buvo \ncerkvelė. Vėliau Mamoničių spaus­\ntuvė, matyt, atiteko bazilijonams."
+  citata_rodoma: |
+    Mamoničių namai sto­
+    vėjo, rodos, toje vietoje, kur dabar Sle-
+    dzinskio namai, Nr. 203, o šalia,
+    kampiniame name, seniau buvo
+    cerkvelė. Vėliau Mamoničių spaus­
+    tuvė, matyt, atiteko bazilijonams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

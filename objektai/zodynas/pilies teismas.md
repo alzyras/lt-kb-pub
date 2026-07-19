@@ -60,7 +60,10 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
     Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
     daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
-  citata_rodoma: "Pagaliau baudžiamosios (kriminalinės) bylos\nbuvo pavestos spręsti trečiam, vadinamajam pilies teismui.\nPilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete."
+  citata_rodoma: |
+    Pagaliau baudžiamosios (kriminalinės) bylos
+    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
+    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

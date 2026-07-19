@@ -68,7 +68,10 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
     dą, bei ir vėl buvo sugrįžusio Edlgėįaus išstumtas į LDK teritoriją
     ir 1409 m, pavasarį, Vytautui leidus, su broliais ir šalininkais sto­
     vyklavo prie Kijevo.
-  citata_rodoma: "1 3 Cirinas — BTSR kaimas (prie Servečio upės, už 5 km ( pietus \nnuo Ostašino). LDK kariuom enė žygiavo i Klecką, palikdama Ciriną \npo dešinei."
+  citata_rodoma: |
+    1 3 Cirinas — BTSR kaimas (prie Servečio upės, už 5 km ( pietus
+    nuo Ostašino). LDK kariuom enė žygiavo i Klecką, palikdama Ciriną
+    po dešinei.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -181,7 +181,17 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     n ig a ik štį T eo d o rą
     to, jog žinai, koks buvo są­
     jungininkų likimas.
-  citata_rodoma: "Tegu iš\nsvetimųjų nelaimių mokosi išminties tie, kurie savo\ntėvynėje neturi jokių vilčių: jis negalįs nei taip labai\nvertinti Vytauto sėkmės, kuri nugalėtojams visada bū­\nnanti slidi, nei niekinti savo jėgų. Su stipria kariuome­\nne, sutelkta Podolėje ir Valachijoje, jis patraukė prieš\nVytautą ir susidūrė su juo prie Braclavo. Vytauto ša­\nlininkai, didžiuodamiesi dviem pergalėmis, su tokiu\nįniršiu puolė priešą, kad pirmuoju smūgiu palaužė jo\njėgas."
+  citata_rodoma: |
+    Tegu iš
+    svetimųjų nelaimių mokosi išminties tie, kurie savo
+    tėvynėje neturi jokių vilčių: jis negalįs nei taip labai
+    vertinti Vytauto sėkmės, kuri nugalėtojams visada bū­
+    nanti slidi, nei niekinti savo jėgų. Su stipria kariuome­
+    ne, sutelkta Podolėje ir Valachijoje, jis patraukė prieš
+    Vytautą ir susidūrė su juo prie Braclavo. Vytauto ša­
+    lininkai, didžiuodamiesi dviem pergalėmis, su tokiu
+    įniršiu puolė priešą, kad pirmuoju smūgiu palaužė jo
+    jėgas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -229,7 +239,22 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
     vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
     na išgabeno į Vilnių.
-  citata_rodoma: "Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,\npilyse bei miestuose paliko lietuvių karių įgulas ir lietu­\nvių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­\nna išgabeno į Vilnių. Po šio\nSu len k a is tariasi d ė l\nžygio smarkiai sunerimo len-\nP o d o lės v a ld y m o\nkai, būgštaudami, kad Vytau­\nto pergalės nepaverstų nie­\nkais jų senų ketinimų valdyti Podolę, ypač dėl to, kad\nVytautas, gerai prisimindamas karus, kuriuos vedė Al­\ngirdo vadovaujami lietuviai, vydami iš Podolės skitus,\nneslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip\nkaro laimikį, atitekusį po pergalingo karo, bet ir kaip\nseną, teisėtai jam priklausančią valdą."
+  citata_rodoma: |
+    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
+    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
+    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
+    na išgabeno į Vilnių. Po šio
+    Su len k a is tariasi d ė l
+    žygio smarkiai sunerimo len-
+    P o d o lės v a ld y m o
+    kai, būgštaudami, kad Vytau­
+    to pergalės nepaverstų nie­
+    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
+    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
+    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
+    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
+    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
+    seną, teisėtai jam priklausančią valdą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -253,7 +278,13 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     dabar dievo motinos vienuolynas9. Tasai Petras Goš­
     tautas pirmas priėmė Romos tikėjimą ir parnešė jį
     j Lietuvą l0.
-  citata_rodoma: "Ketvirtas jų brolis, kunigaikštis Teodoras Karijo- \ntaitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­\nras išgirdo, kad jo brolių Podolės žemėje nebėra gy­\nvųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.1 5\nO tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­\ndysis kunigaikštis Algirdas l6 ."
+  citata_rodoma: |
+    Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
+    taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
+    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
+    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.1 5
+    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
+    dysis kunigaikštis Algirdas l6 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

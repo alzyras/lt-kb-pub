@@ -119,7 +119,17 @@ Nenurodyta
     dienius darbininkus, visiems padienininkams nuo tol nu­
     rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
     vyzdžiu.
-  citata_rodoma: "Nepaprastas įvairaus maisto brangymetis 1547 me­\ntais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­\nkių ir šiaip padaugėjus gyventojų; tai nulėmė reikšmingą \nŽygimanto Augusto potvarkį, liečiantį supirkinėtojus, už \nmiesto superkančius visus iš kaimų atvežamus produktus \nir labai pakeliančius visa ko kainas. Taip pat, kad miesto \ngyventojai savo reikmėms galėtų lengviau pasisamdyti pa­\ndienius darbininkus, visiems padienininkams nuo tol nu­\nrodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­\nvyzdžiu."
+  citata_rodoma: |
+    Nepaprastas įvairaus maisto brangymetis 1547 me­
+    tais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­
+    kių ir šiaip padaugėjus gyventojų; tai nulėmė reikšmingą
+    Žygimanto Augusto potvarkį, liečiantį supirkinėtojus, už
+    miesto superkančius visus iš kaimų atvežamus produktus
+    ir labai pakeliančius visa ko kainas. Taip pat, kad miesto
+    gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
+    dienius darbininkus, visiems padienininkams nuo tol nu­
+    rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
+    vyzdžiu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

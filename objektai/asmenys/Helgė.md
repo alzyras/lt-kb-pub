@@ -108,7 +108,17 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
-  citata_rodoma: "234\n\n## Puslapis 245\n\nsu slavais, buvo paimtas nelaisvėn, iš kur pabėgęs užpuo­\nlė švedų karalių Otarą ar Gotarą, kurį nugalėjo ir paėmė\njo sostą. Tuomet ir danų karalius Helgė kariavo su sla­\nvais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos."
+  citata_rodoma: |
+    234
+
+    ## Puslapis 245
+
+    su slavais, buvo paimtas nelaisvėn, iš kur pabėgęs užpuo­
+    lė švedų karalių Otarą ar Gotarą, kurį nugalėjo ir paėmė
+    jo sostą. Tuomet ir danų karalius Helgė kariavo su sla­
+    vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
+    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
+    už savo nelaisvę ar norėdamas turėti naudos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

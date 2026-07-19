@@ -183,7 +183,8 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
     Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
     emigravęs į JAV.
-  citata_rodoma: "ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio"
+  citata_rodoma: |
+    ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -205,7 +206,14 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     jinga padėtis, lenkams pasiekus savo puo-
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
-  citata_rodoma: "Spalio 26-27 d. lenkai apėjo kai-\n\nrįjį lietuvių sparną ir užėmė Giedraičius,\nŽelvą, Dubingius, Vidiškį. Susidarė pavo-\njinga padėtis, lenkams pasiekus savo puo-\nlimo tikslą, Lietuvai būtų iškilęs pavojus\nprarasti nepriklausomybę."
+  citata_rodoma: |
+    Spalio 26-27 d. lenkai apėjo kai-
+
+    rįjį lietuvių sparną ir užėmė Giedraičius,
+    Želvą, Dubingius, Vidiškį. Susidarė pavo-
+    jinga padėtis, lenkams pasiekus savo puo-
+    limo tikslą, Lietuvai būtų iškilęs pavojus
+    prarasti nepriklausomybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -229,7 +237,14 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     įmanoma toliau (tuomet į frontą tu-
     rėjo atvykti Tautų Sąjungos kontrolės
     komisija sustabdyti kovos veiksmų).
-  citata_rodoma: "2-ajam pulkui buvo nurodyta su-\nsitelkti Želvoje ir iš ten pulti Giedraičių\nkryptimi ir užėmus Giedraičius, pa-\nsistūmėti iki lapkričio 21 d. 9 val. kiek\nįmanoma toliau (tuomet į frontą tu-\nrėjo atvykti Tautų Sąjungos kontrolės\nkomisija sustabdyti kovos veiksmų)."
+  citata_rodoma: |
+    2-ajam pulkui buvo nurodyta su-
+    sitelkti Želvoje ir iš ten pulti Giedraičių
+    kryptimi ir užėmus Giedraičius, pa-
+    sistūmėti iki lapkričio 21 d. 9 val. kiek
+    įmanoma toliau (tuomet į frontą tu-
+    rėjo atvykti Tautų Sąjungos kontrolės
+    komisija sustabdyti kovos veiksmų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

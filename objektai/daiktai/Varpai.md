@@ -212,7 +212,12 @@ Nenurodyta
     būklę bent oficialiai pakeitė nauja, kurioje viso religinio gyveni­
     mo centras buvo jau ne senojo lietuvių tikėjimo garbinama gam­
     ta, bet pats jos Kūrėjas.
-  citata_rodoma: "Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo\ndar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir\ntebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­\ntuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo\nbažnyčių varpai."
+  citata_rodoma: |
+    Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo
+    dar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir
+    tebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­
+    tuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo
+    bažnyčių varpai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -236,7 +241,12 @@ Nenurodyta
     daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
-  citata_rodoma: "Pagaliau pasibaigus karams su kryžiuo­\nčiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­\ndaus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais\n(Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­\nnetos, liejami pabūklai, varpai."
+  citata_rodoma: |
+    Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
+    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
+    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
+    netos, liejami pabūklai, varpai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -256,7 +266,14 @@ Nenurodyta
     [sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras
     brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
     žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė.
-  citata_rodoma: "Šitai išgirdę, broliai ir jų šeimyna, kitą dieną\npasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų\nrelikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.\n  392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,\n123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).\n\nVis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu."
+  citata_rodoma: |
+    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
+    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
+    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
+      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,
+    123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).
+
+    Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -280,7 +297,8 @@ Nenurodyta
     blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
     pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
     sustabdyta naujos bažnyčios statyba Klaipėdoje.
-  citata_rodoma: "Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia"
+  citata_rodoma: |
+    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

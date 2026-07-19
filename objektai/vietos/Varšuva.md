@@ -917,7 +917,14 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
     (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
     rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.
-  citata_rodoma: "„Aušros“ idėjas toliau plėto-\njo 1889 m. pradėtas leisti žurnalas \n„Varpas“, įsteigtas Varšuvos lie-\ntuvių studentų draugijos „Lietu-\nva“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka \n(1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į \nrankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“."
+  citata_rodoma: |
+    „Aušros“ idėjas toliau plėto-
+    jo 1889 m. pradėtas leisti žurnalas
+    „Varpas“, įsteigtas Varšuvos lie-
+    tuvių studentų draugijos „Lietu-
+    va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
+    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
+    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -937,7 +944,14 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
     kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
-  citata_rodoma: "Kai \nkas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-\ndžiama priklausyti ir abiem tuo pat metu. Kurį laiką taip elgėsi Mikalojus \nKonstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje \nžinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs \nVaršuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-\nkotarpio lietuviškai gerai nemokėjęs, M."
+  citata_rodoma: |
+    Kai
+    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
+    džiama priklausyti ir abiem tuo pat metu. Kurį laiką taip elgėsi Mikalojus
+    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
+    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
+    Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
+    kotarpio lietuviškai gerai nemokėjęs, M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1042,7 +1056,10 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
     seimas Varšuvoje.
-  citata_rodoma: "Padalinimo sutartys buvo pasirašytos 1772 m.\nSankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis\nseimas Varšuvoje."
+  citata_rodoma: |
+    Padalinimo sutartys buvo pasirašytos 1772 m.
+    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
+    seimas Varšuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1064,7 +1081,11 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     ris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukili-
     mas. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
     sosto ir perduodąs suverenitetą tautai.
-  citata_rodoma: "1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, ku-\nris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukili-\nmas. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus \nsosto ir perduodąs suverenitetą tautai."
+  citata_rodoma: |
+    1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, ku-
+    ris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukili-
+    mas. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
+    sosto ir perduodąs suverenitetą tautai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1085,7 +1106,14 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
     onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
     kas Zambrzyckis.
-  citata_rodoma: "Be to, \npolitiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­\nmą. Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­\nniuje susikūrė sukilimo centrinis komitetas, kuriam priklausė \nAntanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­\nonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­\nkas Zambrzyckis."
+  citata_rodoma: |
+    Be to,
+    politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­
+    mą. Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
+    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
+    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
+    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
+    kas Zambrzyckis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1110,7 +1138,16 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     puslapio didumo lapų, egzempliorius gana neblogai išlaikytas, nes
     galima išskaityti beveik visą tekstą. Rašytas per visą pusės pusla­
     pio ilgį.
-  citata_rodoma: "## Puslapis 348\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nVIII\nKARALIAUS ŽYGIMANTO AUGUSTO TESTAMENTAS,\nSUDARYTAS 1571 METŲ\nGEGUŽĖS 6 DIENĄ VARŠUVOJE\nPerrašytas iš labai senos kopijos, esančios grafo Adomo Cbrepta-\nvičiaus Sčiorsų archyve."
+  citata_rodoma: |
+    ## Puslapis 348
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    VIII
+    KARALIAUS ŽYGIMANTO AUGUSTO TESTAMENTAS,
+    SUDARYTAS 1571 METŲ
+    GEGUŽĖS 6 DIENĄ VARŠUVOJE
+    Perrašytas iš labai senos kopijos, esančios grafo Adomo Cbrepta-
+    vičiaus Sčiorsų archyve.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1179,7 +1216,11 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
     vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
     lio 28 dieną.
-  citata_rodoma: "Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos \nvyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-\nlio 28 dieną."
+  citata_rodoma: |
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1257,7 +1298,13 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
     tiesiamos pirmosios telefono linijos, XX a. pradžioje pasirodo ir pirmieji
     automobiliai.
-  citata_rodoma: "viduryje \npradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių \nnavigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis \nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių \n(Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-\ntiesiamos pirmosios telefono linijos, XX a."
+  citata_rodoma: |
+    viduryje
+    pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
+    navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
+    tiesiamos pirmosios telefono linijos, XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1277,7 +1324,11 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
     mo ar juridinio įforminimo sparta. Lenkijoje tai įvyko tik po Liublino
     unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.
-  citata_rodoma: "LDK išsi-\nskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-\nmo ar juridinio įforminimo sparta. Lenkijoje tai įvyko tik po Liublino \nunijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje."
+  citata_rodoma: |
+    LDK išsi-
+    skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
+    mo ar juridinio įforminimo sparta. Lenkijoje tai įvyko tik po Liublino
+    unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1297,7 +1348,11 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­
     nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
     linės veiklos laikotarpis.
-  citata_rodoma: "Neturėdamas pakankamai pragy­\nvenimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­\nnuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­\nlinės veiklos laikotarpis."
+  citata_rodoma: |
+    Neturėdamas pakankamai pragy­
+    venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­
+    nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
+    linės veiklos laikotarpis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1318,7 +1373,13 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
     kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose.
-  citata_rodoma: "Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­\nniuje susikūrė sukilimo centrinis komitetas, kuriam priklausė\nAntanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­\nonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­\nkas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­\nkarinėse Rusijos imperijos gubernijose."
+  citata_rodoma: |
+    Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
+    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
+    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
+    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
+    kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
+    karinėse Rusijos imperijos gubernijose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1336,7 +1397,10 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
     Atsirado unikali galimybė atgauti sostinę Antantės padedamiems ir dar
     pritariant Lenkijai.
-  citata_rodoma: "Kai lenkų daliniai, spaudžiami \nbolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-\nsios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko."
+  citata_rodoma: |
+    Kai lenkų daliniai, spaudžiami
+    bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-
+    sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1357,7 +1421,10 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
     Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
     kijos ir Lietuvos) dignitorių – ministrų.
-  citata_rodoma: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas \nStanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-\nkijos ir Lietuvos) dignitorių – ministrų."
+  citata_rodoma: |
+    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
+    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
+    kijos ir Lietuvos) dignitorių – ministrų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1398,7 +1465,14 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
     reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
     atsakymą, nes kitaip bus blogai – suprask – kils karas.
-  citata_rodoma: "įvyko inici-\ndentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė \nperėjusį liniją lenkų kareivį. Nors per panašius incidentus lenkai buvo nu-\nšovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-\ntriją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą, \nreikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą \natsakymą, nes kitaip bus blogai – suprask – kils karas."
+  citata_rodoma: |
+    įvyko inici-
+    dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
+    perėjusį liniją lenkų kareivį. Nors per panašius incidentus lenkai buvo nu-
+    šovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-
+    triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
+    reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
+    atsakymą, nes kitaip bus blogai – suprask – kils karas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

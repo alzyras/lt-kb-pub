@@ -65,7 +65,11 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
     respublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo
     mirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375
     D. Naugardas su Dimitru padarė sutartį.
-  citata_rodoma: "Ilgą laiką panašiai buvo ir su Naugardo\nrespublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo\nmirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375\nD. Naugardas su Dimitru padarė sutartį."
+  citata_rodoma: |
+    Ilgą laiką panašiai buvo ir su Naugardo
+    respublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo
+    mirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375
+    D. Naugardas su Dimitru padarė sutartį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

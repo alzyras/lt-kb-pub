@@ -96,7 +96,11 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
     kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
     įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
     nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
-  citata_rodoma: "Kai čia laivai\nįstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai\nnukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties\npadedami, kiti paspruko."
+  citata_rodoma: |
+    Kai čia laivai
+    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
+    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
+    padedami, kiti paspruko.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

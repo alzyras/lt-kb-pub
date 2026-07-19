@@ -130,7 +130,15 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
     jis užmezgė draugiškus santykius su galingu Afrikos
     vandalų karaliumi Genseriku, iš kurio tam tikromis są­
     lygomis gavo Siciliją.
-  citata_rodoma: "Tačiau, nepaisant viso to,\nOdoakras gavo tai, ko geidė, nors italai nelabai buvo\nlinkę jį remti. Po trejų metų Dalmatijoje šį nominalinį\nmonarchą nužudė atsiųsti Giicero, kurį jis seniau nu­\nvertė nuo sosto ir paskyrė Salemos vyskupu, žmonės. Tuo\nmetu Rytų rūmai nedviprasmiškai patvirtino Odoakrą\nItalijos vietininku, pavesdami jam visą valdžią ir Dal­\nmatijoje, kurios imperatorius buvo miręs."
+  citata_rodoma: |
+    Tačiau, nepaisant viso to,
+    Odoakras gavo tai, ko geidė, nors italai nelabai buvo
+    linkę jį remti. Po trejų metų Dalmatijoje šį nominalinį
+    monarchą nužudė atsiųsti Giicero, kurį jis seniau nu­
+    vertė nuo sosto ir paskyrė Salemos vyskupu, žmonės. Tuo
+    metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
+    Italijos vietininku, pavesdami jam visą valdžią ir Dal­
+    matijoje, kurios imperatorius buvo miręs.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

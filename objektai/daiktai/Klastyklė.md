@@ -78,7 +78,8 @@ Nenurodyta
     Klastymui parinkta beržinė šluota
     su plonais lankšČiais ražiukais, kad tie ražiukai varytų varpas, o patys
     sulinktų nuo grūdų.
-  citata_rodoma: "Klastymui parinkta beržinė šluota su plonais lankšČiais ražiukais, kad tie ražiukai varytų varpas, o patys sulinktų nuo grūdų."
+  citata_rodoma: |
+    Klastymui parinkta beržinė šluota su plonais lankšČiais ražiukais, kad tie ražiukai varytų varpas, o patys sulinktų nuo grūdų.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -99,7 +100,8 @@ Nenurodyta
     nereikalinga.
     Pralėkusius pro grūdus sunkiuosius daiktus ir akme­
     niukus irgi su klastykle suvaro į krūvą.
-  citata_rodoma: "Pralėkusius pro grūdus sunkiuosius daiktus ir akmeniukus irgi su klastykle suvaro į krūvą."
+  citata_rodoma: |
+    Pralėkusius pro grūdus sunkiuosius daiktus ir akmeniukus irgi su klastykle suvaro į krūvą.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -120,7 +122,8 @@ Nenurodyta
     sulinktų nuo grūdų.
     Su klastykle nuvaro į šalį viską, kas grūduose
     nereikalinga.
-  citata_rodoma: "Su klastykle nuvaro į šalį viską, kas grūduose nereikalinga."
+  citata_rodoma: |
+    Su klastykle nuvaro į šalį viską, kas grūduose nereikalinga.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

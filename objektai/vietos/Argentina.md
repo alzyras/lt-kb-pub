@@ -71,7 +71,11 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
     padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
     Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
     pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
-  citata_rodoma: "Lietuviai vyko daugiausia į \nPietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems \npadėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams \nGen."
+  citata_rodoma: |
+    Lietuviai vyko daugiausia į
+    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems
+    padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
+    Gen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

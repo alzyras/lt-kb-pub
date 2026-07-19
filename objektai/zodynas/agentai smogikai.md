@@ -102,7 +102,8 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     šnipų naikinimo. Tuo laikotarpiu okupacinė valdžia kovai su partizanais
     vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
     tizanų ir MGB kadrinių karininkų) būrius.
-  citata_rodoma: "Tuo laikotarpiu okupacinė valdžia kovai su partizanais"
+  citata_rodoma: |
+    Tuo laikotarpiu okupacinė valdžia kovai su partizanais
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +130,8 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,
     kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
     vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
-  citata_rodoma: "dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,"
+  citata_rodoma: |
+    dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +156,8 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     žudynėse dalyvavusių asmenų – nors ir nedaug, būta ir tokių, nes būrių ir
     apygardų vadai neturėjo galimybių patikrinti savo kovotojų dosjė, be to,
     neigiamą įtaką darė ir ilgas gyvenimas po žeme, bunkeriuose.
-  citata_rodoma: "kai, partizanų būriai piktnaudžiavo alkoholiu arba tarp jų pasitaikė žydų"
+  citata_rodoma: |
+    kai, partizanų būriai piktnaudžiavo alkoholiu arba tarp jų pasitaikė žydų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

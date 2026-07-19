@@ -479,7 +479,9 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     ir Lenkija gavo didžiąją Livonijos dalį, kartu ir Rygą. Tačiau Švedija ėmė
     siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps-
     nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
-  citata_rodoma: "Dėl to įsilieps-\nnojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai."
+  citata_rodoma: |
+    Dėl to įsilieps-
+    nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -504,7 +506,18 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
     1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
     nulems tolesnį ATR likimą.
-  citata_rodoma: "Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų \nteritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos\n\nL I E T U V O S  I S T O R I J A\n88\napraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius \nLietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-\nsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai \napie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.\nLenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir \n1701 m."
+  citata_rodoma: |
+    Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+
+    L I E T U V O S  I S T O R I J A
+    88
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
+    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
+    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -526,7 +539,12 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
     Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
     teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-  citata_rodoma: "2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n87\n1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o \nLietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-\nčiau švedams įsitvirtinti Lietuvoje nepavyko."
+  citata_rodoma: |
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    87
+    1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
+    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
+    čiau švedams įsitvirtinti Lietuvoje nepavyko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -565,7 +583,11 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     tai, jeigu tikėjimo dalykas, - mediniu kryžiumi; jeigu žmogžu­
     dystė, - medine strėle arba kirviu). Naudojimasis ta budlafla
     kilęs iš seniausių stabmeldystės laikų, nes tą patį paprotį ran-
-  citata_rodoma: "Kaip tik\nŠvedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­\njas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­\nraliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39)."
+  citata_rodoma: |
+    Kaip tik
+    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
+    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
+    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

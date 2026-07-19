@@ -63,7 +63,15 @@ media_all_json: |-
     gaikštį Vytautą, Tavo dėdę, o taip pat, Viešpatie, atmenu, kad
 
     (^1) ) Ibid.
-  citata_rodoma: "Daugiau buvo mokama natūra: duoklėmis ir mezliavo­\nmis, pirmosios javais, antrosios — gyvuliais. Štai yra užsi­\nlikęs vienas dokumentas iš Kazimiero laikų (artimų Vytautui),\nkur vienas valstietis dėl imamų jų kaime mokesčių pasisako:\n„Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kuni­\ngaikštį Vytautą, Tavo dėdę, o taip pat, Viešpatie, atmenu, kad\n\n(^1) ) Ibid."
+  citata_rodoma: |
+    Daugiau buvo mokama natūra: duoklėmis ir mezliavo­
+    mis, pirmosios javais, antrosios — gyvuliais. Štai yra užsi­
+    likęs vienas dokumentas iš Kazimiero laikų (artimų Vytautui),
+    kur vienas valstietis dėl imamų jų kaime mokesčių pasisako:
+    „Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kuni­
+    gaikštį Vytautą, Tavo dėdę, o taip pat, Viešpatie, atmenu, kad
+
+    (^1) ) Ibid.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

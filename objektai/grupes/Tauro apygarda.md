@@ -132,7 +132,11 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     Tauro apygardos Birutės rinktinei. Buvo vienas retų
     Lietuvos partizanų, kuriems pavyko sėkmingai pras-
     prūsti per „geležinę uždangą“ į Vakarus.
-  citata_rodoma: "Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų\nTauro apygardos Birutės rinktinei. Buvo vienas retų\nLietuvos partizanų, kuriems pavyko sėkmingai pras-\nprūsti per „geležinę uždangą“ į Vakarus."
+  citata_rodoma: |
+    Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų
+    Tauro apygardos Birutės rinktinei. Buvo vienas retų
+    Lietuvos partizanų, kuriems pavyko sėkmingai pras-
+    prūsti per „geležinę uždangą“ į Vakarus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

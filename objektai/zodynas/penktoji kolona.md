@@ -82,7 +82,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
     Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
     mui, rimtesnės įtakos neturėjo.
-  citata_rodoma: "organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,"
+  citata_rodoma: |
+    organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

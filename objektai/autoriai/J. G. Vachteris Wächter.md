@@ -74,7 +74,26 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
     sycli vorkodet to Garden vnd dar is Mannevide eme entegen
     togen mit groteme vrockten (*) vnd seyde daromme dat de
     Ville vorkrant is.
-  citata_rodoma: "Ūkiniai prie jų priklausantys pastatai (des Königes \nHof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų\na\nHof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai \nprincipis comitatus - praedium cum pastarąja prasme; juk folwark - ūki- \nomnibus aedificiis, agris, pasenis etc. niai sandėliai\n—  •\n169\n\n## Puslapis 186\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nKoms vnd ander gud es dat dar inne dėmė Houe was ok ersa- \nme lene Her Mester 20 sėdit de vorgescreuene Dener dat \ndeVörste Vytouwete wil wesen to Garden kegen Palmen vnd \nden Pascken dar kolden Vortmer so lieft lie Mannevyden to \nsycli vorkodet to Garden vnd dar is Mannevide eme entegen \ntogen mit groteme vrockten (*) vnd seyde daromme dat de \nVille vorkrant is."
+  citata_rodoma: |
+    Ūkiniai prie jų priklausantys pastatai (des Königes
+    Hof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų
+    a
+    Hof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai
+    principis comitatus - praedium cum pastarąja prasme; juk folwark - ūki-
+    omnibus aedificiis, agris, pasenis etc. niai sandėliai
+    —  •
+    169
+
+    ## Puslapis 186
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Koms vnd ander gud es dat dar inne dėmė Houe was ok ersa-
+    me lene Her Mester 20 sėdit de vorgescreuene Dener dat
+    deVörste Vytouwete wil wesen to Garden kegen Palmen vnd
+    den Pascken dar kolden Vortmer so lieft lie Mannevyden to
+    sycli vorkodet to Garden vnd dar is Mannevide eme entegen
+    togen mit groteme vrockten (*) vnd seyde daromme dat de
+    Ville vorkrant is.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -199,7 +199,16 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
     daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
     tymo.
-  citata_rodoma: "Tuo tarpu apsiribosime pasa­\nkydami štai ką.\nBiarmiai, arba permiai, kalba slavų rusų arba rusų kalba,\nbet turi savitą tos kalbos tarme; yra papročių ir fizionomijos\nskirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės\nšiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos."
+  citata_rodoma: |
+    Tuo tarpu apsiribosime pasa­
+    kydami štai ką.
+    Biarmiai, arba permiai, kalba slavų rusų arba rusų kalba,
+    bet turi savitą tos kalbos tarme; yra papročių ir fizionomijos
+    skirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės
+    šiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­
+    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
+    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
+    kios varginančios ir ilgos žiemos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -226,7 +235,21 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     tymo. Mechovita sako: „... linguagium Lithuanicum est quadri­
     partitum: primum linguagium est Iaczuingomm, ut horum qui
     circa castrum Drochicin inhabitarunt, et pauci supemint.
-  citata_rodoma: "Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę. Vėliau iš skandinavų legendų arba iš gana\nfragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­\nvusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,\nkad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­\njo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius\ndėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai\nmokėjo gana neblogai gintis."
+  citata_rodoma: |
+    Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
+    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
+    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
+    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
+    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
+    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
+    mokėjo gana neblogai gintis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -269,7 +292,13 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     tuvoje, kuri yra trisdešimt romėniškų mylių ilgio, sodžiuose šne­
     ka lietuviškai, o didžiojoje dalyje lenkti kalbą pripažįsta, ir kuni­
     gai jų bažnyčiose lenkiškai pamokslauja).
-  citata_rodoma: "Mat jeigu biarmiečiai nebūtų turėję savo rai­\ndyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir\nslavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė. Ta­\nčiau akivaizdžiausias yra dalykas, kad biarmiečiai turėjo savo\nraidyną nuo senų laikų, gerokai ankstesnių už XI amžių. Pati\nto raidyno sudėtis įrodo jį esant labai seną."
+  citata_rodoma: |
+    Mat jeigu biarmiečiai nebūtų turėję savo rai­
+    dyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir
+    slavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė. Ta­
+    čiau akivaizdžiausias yra dalykas, kad biarmiečiai turėjo savo
+    raidyną nuo senų laikų, gerokai ankstesnių už XI amžių. Pati
+    to raidyno sudėtis įrodo jį esant labai seną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

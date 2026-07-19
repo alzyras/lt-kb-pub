@@ -128,7 +128,8 @@ Nenurodyta
     atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
     tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
     pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg.
-  citata_rodoma: "tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis"
+  citata_rodoma: |
+    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +148,8 @@ Nenurodyta
     atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
     dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
     daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
-  citata_rodoma: "dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota"
+  citata_rodoma: |
+    dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

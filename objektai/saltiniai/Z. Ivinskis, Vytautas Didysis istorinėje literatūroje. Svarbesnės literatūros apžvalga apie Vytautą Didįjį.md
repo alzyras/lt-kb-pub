@@ -67,7 +67,11 @@ Ivinskis, Z.
     KolLJ, I, 161-164 p. — Končius, J. : _Vytautas the Great, Grand Duke
     of Lithuania,_ Miami, Florida 1964, 186-195 p. — Krasauskaitė, M.
     _Vytauto charakteristika,_ rink.
-  citata_rodoma: "Ivinskis, Z. : _Vytautas Didysis istorinėje literatūroje. Svarbesnės\nliteratūros apžvalga apie Vytautą Didįjį,_ Athenaeum, I, 2, 1930, 190-\n212 p. — Jakštas, J. : _Prie Vytauto charakteristikos,_ Vairas, 4, 1931. —\nKolLJ, I, 161-164 p."
+  citata_rodoma: |
+    Ivinskis, Z. : _Vytautas Didysis istorinėje literatūroje. Svarbesnės
+    literatūros apžvalga apie Vytautą Didįjį,_ Athenaeum, I, 2, 1930, 190-
+    212 p. — Jakštas, J. : _Prie Vytauto charakteristikos,_ Vairas, 4, 1931. —
+    KolLJ, I, 161-164 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

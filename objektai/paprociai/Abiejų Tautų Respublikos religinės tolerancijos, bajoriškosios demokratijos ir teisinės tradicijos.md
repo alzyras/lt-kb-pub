@@ -104,7 +104,27 @@ Nenurodyta
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: "XVI a. vidu-\nryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė \nvalstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši \nvalstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-\nmingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-\ncija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:\n•\t aprūpino Vakarus (per Gdanską į Amsterdamą) javais, \n•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir \nbajoriškosios demokratijos tradiciją, \n•\t Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių \nribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-\nsauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,\n•\t iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-\npoje Vilniaus universitetą, turintį savitas misionierių, kankinių ir \nšventųjų, poetų, retorikų ir logikų tradicijas,\n•\t išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-\ntūros mokyklą,\n• sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje \nteisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija – \nkonstituciją, tapusią ankstyviausia rašytine konstitucija Europoje."
+  citata_rodoma: |
+    XVI a. vidu-
+    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+    valstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši
+    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
+    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
+    cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
+    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
+    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
+    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
+    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
+    šventųjų, poetų, retorikų ir logikų tradicijas,
+    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
+    tūros mokyklą,
+    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
+    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
+    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

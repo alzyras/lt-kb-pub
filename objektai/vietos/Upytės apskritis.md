@@ -97,7 +97,14 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
     Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
     ka, Upinė - Rzeczna. Istorija teigia, kad tai dievybei kaip auka
     buvo atnašaujami balti paršeliai.
-  citata_rodoma: "Gondu \nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka \nant stalo neliestą, o tikrąjį karvojų suvalgo.\nKaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­\nmėnės, vadindamos Manturna.\nUpinė (Uppinė )\nUpių, šaltinių, apskritai tekančio vandens deivė."
+  citata_rodoma: |
+    Gondu
+    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
+    ant stalo neliestą, o tikrąjį karvojų suvalgo.
+    Kaip tik tai ir bus ta pati deivė, kurią garbino jaunos ro­
+    mėnės, vadindamos Manturna.
+    Upinė (Uppinė )
+    Upių, šaltinių, apskritai tekančio vandens deivė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

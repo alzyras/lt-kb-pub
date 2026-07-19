@@ -85,7 +85,12 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
     tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje).
-  citata_rodoma: "Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas. \nAmbasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva \npati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną \nsu Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją \ntarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje)."
+  citata_rodoma: |
+    Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.
+    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
+    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
+    su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
+    tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

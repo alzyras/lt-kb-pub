@@ -204,7 +204,14 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
       598 Didžiuoju magistru buvo 1274—1283 m. ar 1273—1282 m.
 
     grafą, prigėrė Reine (Ptol. 23, 18).
-  citata_rodoma: "Apie Rudolfo, karaliaus, pirmagimio mirtį\n\n  Tuo metu karaliaus Rudolfo pirmagimis, grįždamas po pergalingo žygio prieš Savojos\n\n  598 Didžiuoju magistru buvo 1274—1283 m. ar 1273—1282 m.\n\ngrafą, prigėrė Reine (Ptol. 23, 18)."
+  citata_rodoma: |
+    Apie Rudolfo, karaliaus, pirmagimio mirtį
+
+      Tuo metu karaliaus Rudolfo pirmagimis, grįždamas po pergalingo žygio prieš Savojos
+
+      598 Didžiuoju magistru buvo 1274—1283 m. ar 1273—1282 m.
+
+    grafą, prigėrė Reine (Ptol. 23, 18).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -226,7 +233,12 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
     ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
     jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
     vintais jėzuitų aprašymais.
-  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado\nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar\ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
+  citata_rodoma: |
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

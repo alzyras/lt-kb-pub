@@ -115,7 +115,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
     tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
     olimpinis čempionas Berlyne su JAV rinktine ir 1939 m.
-  citata_rodoma: "Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,"
+  citata_rodoma: |
+    Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -142,7 +143,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
     delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
     jos ir veikė kuluaruose.
-  citata_rodoma: "prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai"
+  citata_rodoma: |
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

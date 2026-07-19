@@ -55,7 +55,9 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
     [Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne
     [Rankraštis].— MAB RS, F 129— 1338.
     [Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne.
-  citata_rodoma: "[Prätorius  M.]  Proetorius  M.  Deliciae  Prussiae  oder  Preussische  Schaubühne\n[Rankraštis].— MAB RS, F 129— 1338."
+  citata_rodoma: |
+    [Prätorius  M.]  Proetorius  M.  Deliciae  Prussiae  oder  Preussische  Schaubühne
+    [Rankraštis].— MAB RS, F 129— 1338.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

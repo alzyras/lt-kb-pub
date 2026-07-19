@@ -58,7 +58,8 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
     manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į
     pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vil-
     niaus švietimo apygardos globėju.
-  citata_rodoma: "manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į"
+  citata_rodoma: |
+    manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

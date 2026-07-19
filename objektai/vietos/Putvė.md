@@ -100,7 +100,12 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
     tenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę
     gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
     lietuvių pilių gynėjų išdavimas.
-  citata_rodoma: "Po du — tris kartus buvo teriota\nPograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­\ntenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę\ngynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks\nlietuvių pilių gynėjų išdavimas."
+  citata_rodoma: |
+    Po du — tris kartus buvo teriota
+    Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­
+    tenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę
+    gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
+    lietuvių pilių gynėjų išdavimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

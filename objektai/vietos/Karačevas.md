@@ -112,7 +112,11 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
     jęs pergalę, be nuostolių pargrįžo atgalios.
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
-  citata_rodoma: "Su didžios pergalės \nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus \nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios."
+  citata_rodoma: |
+    Su didžios pergalės
+    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    jęs pergalę, be nuostolių pargrįžo atgalios.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

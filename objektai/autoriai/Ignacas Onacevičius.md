@@ -335,7 +335,21 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     ranoriškai pareiškė mokslininkas
     Lietuvos istorijos žinovas Ignacas
     Onacevičius.
-  citata_rodoma: "Tūkstančiui rinktinių anglų\n21\nTo įsidėmėtino žygio į Vilnių apra­\nšymą nepasirašę įdėjome į 1829 metų \nDziennik Wileński Nr. 1. Dabartinis \niš tiesų visiškai skiriasi nuo pirmes- \nniojo, kurio klaidas stengėmės ištai­\nsyti, remdamiesi naujais, vėliau ap­\ntiktais šaltiniais, būtent: F o i g t o \nnaujai išleistos Prūsijos istorijos T. V \nir pastabomis, kurias mums itin ge­\nranoriškai pareiškė mokslininkas \nLietuvos istorijos žinovas Ignacas \nOnacevičius."
+  citata_rodoma: |
+    Tūkstančiui rinktinių anglų
+    21
+    To įsidėmėtino žygio į Vilnių apra­
+    šymą nepasirašę įdėjome į 1829 metų
+    Dziennik Wileński Nr. 1. Dabartinis
+    iš tiesų visiškai skiriasi nuo pirmes-
+    niojo, kurio klaidas stengėmės ištai­
+    syti, remdamiesi naujais, vėliau ap­
+    tiktais šaltiniais, būtent: F o i g t o
+    naujai išleistos Prūsijos istorijos T. V
+    ir pastabomis, kurias mums itin ge­
+    ranoriškai pareiškė mokslininkas
+    Lietuvos istorijos žinovas Ignacas
+    Onacevičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -391,7 +405,22 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     gai profesoriaus Onacevičiaus
     išleistų Varšuvoje, 1823 m. Il t. Dar žr.
     III priedą prie II knygos.
-  citata_rodoma: "Protasevičiaus pėdomis sekė ir \njo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­\nliau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­\nkupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą \ndvasiškai jaunuomenei lavintis, vadinamą seminarija59.\nLietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­\nkilmingai įvesdintas išlaisvino karalius nuo varginančio\n57\nVisas Vilniaus universiteto fundaci­\njos privilegijas kartu su atitinkama \npopiežiaus bule galima perskaityti \nveikale „Stepono Batoro valdymas\", \niš Albertrandžio rankraščių, rūpestin­\ngai profesoriaus Onacevičiaus \nišleistų Varšuvoje, 1823 m. Il t."
+  citata_rodoma: |
+    Protasevičiaus pėdomis sekė ir
+    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
+    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
+    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
+    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
+    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
+    kilmingai įvesdintas išlaisvino karalius nuo varginančio
+    57
+    Visas Vilniaus universiteto fundaci­
+    jos privilegijas kartu su atitinkama
+    popiežiaus bule galima perskaityti
+    veikale „Stepono Batoro valdymas",
+    iš Albertrandžio rankraščių, rūpestin­
+    gai profesoriaus Onacevičiaus
+    išleistų Varšuvoje, 1823 m. Il t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

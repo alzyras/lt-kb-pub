@@ -142,7 +142,18 @@ Nenurodyta
     viliojo į dvikovą, kol galop, nutykoję progą, nužudė. Taip pat buvęs jų nužudytas dar
     vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties
     prūsai labai džiūgavo, o broliai sielvartavo.
-  citata_rodoma: "Apie Kroicburgo pilies sugriovimą\n\n   Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus\nmetus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,\nilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.\nSitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius.\n\n\n\n\n                 119 (114)."
+  citata_rodoma: |
+    Apie Kroicburgo pilies sugriovimą
+
+       Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus
+    metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,
+    ilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies.
+    Sitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius.
+
+
+
+
+                     119 (114).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

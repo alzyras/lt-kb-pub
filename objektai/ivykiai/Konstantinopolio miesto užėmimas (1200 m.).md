@@ -87,7 +87,14 @@ Nenurodyta
     įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
     apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
     lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
-  citata_rodoma: "Apie Konstantinopolio miesto užėmimą\n\n  1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog\nniekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,\nįsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir\napgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten\nlotynai 57 metus (Ptol. 21,4; Mart. p. 387)."
+  citata_rodoma: |
+    Apie Konstantinopolio miesto užėmimą
+
+      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
+    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
+    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
+    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
+    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

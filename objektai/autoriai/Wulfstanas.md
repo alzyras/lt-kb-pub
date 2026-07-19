@@ -115,7 +115,12 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     lankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano
 
     (^1) ) Klim.
-  citata_rodoma: "Tas žinias jis sako\ngavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose\nlankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano\n\n(^1) ) Klim."
+  citata_rodoma: |
+    Tas žinias jis sako
+    gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose
+    lankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano
+
+    (^1) ) Klim.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -99,7 +99,18 @@ Nenurodyta
     gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
     nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
     auksiniais indais ir bachmatais ls.
-  citata_rodoma: "Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria- \nzanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną \nLengvenį su didele kariuomene ir su Smolensko pajė­\ngomis; tie parsivarė daugybę belaisvių riazaniečių ir \nsu dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .\nTą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls."
+  citata_rodoma: |
+    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
+    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
+    Lengvenį su didele kariuomene ir su Smolensko pajė­
+    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
+    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
+    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
+    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
+    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
+    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
+    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
+    auksiniais indais ir bachmatais ls.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas

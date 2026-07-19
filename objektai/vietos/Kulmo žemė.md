@@ -557,7 +557,10 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
     nigaikščių dovanota vokiečiams. Čia Vytautas pakartoja ankstesnių Lie-
     tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje.
-  citata_rodoma: "Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos\nintako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-\nnigaikščių dovanota vokiečiams."
+  citata_rodoma: |
+    Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
+    intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
+    nigaikščių dovanota vokiečiams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -578,7 +581,15 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     kunigaikščių iš Vokietijos ir Lenkijos tal-
     kindavo Ordinui, kuris niokojo baltiš-
     kąją Prūsiją.
-  citata_rodoma: "Ordino magistras iš lenkų jam\ndovanotų žemių, savo pilių kairiajame\nVyslos krante, persikėlė per upę į Kulmo\nžemę ir pastatė Torunės pilį, prasidėjo\nsisteminga agresija prieš prūsus. Daug\nkunigaikščių iš Vokietijos ir Lenkijos tal-\nkindavo Ordinui, kuris niokojo baltiš-\nkąją Prūsiją."
+  citata_rodoma: |
+    Ordino magistras iš lenkų jam
+    dovanotų žemių, savo pilių kairiajame
+    Vyslos krante, persikėlė per upę į Kulmo
+    žemę ir pastatė Torunės pilį, prasidėjo
+    sisteminga agresija prieš prūsus. Daug
+    kunigaikščių iš Vokietijos ir Lenkijos tal-
+    kindavo Ordinui, kuris niokojo baltiš-
+    kąją Prūsiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -601,7 +612,12 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
     Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
     prūsų kariuomenė ir ją nuniokojo gaisrais ir grobstymais.
-  citata_rodoma: "Taigi pas\nLenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo\nOrdino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.\nKai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė\nprūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais."
+  citata_rodoma: |
+    Taigi pas
+    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
+    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
+    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
+    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -617,7 +633,10 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos
     šiaurėje, Vyslos vakaruose ir Drėvantos (dab. Drvencos) pietryčiuose (PUB, 1, 1, Nr. 41,
     p. 30; Nr. 75, p. 55). Manoma, kad rytinė siena ėjusi nuo Osos upės (ties dab.
-  citata_rodoma: "1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos\nšiaurėje, Vyslos vakaruose ir Drėvantos (dab. Drvencos) pietryčiuose (PUB, 1, 1, Nr. 41,\np. 30; Nr. 75, p. 55)."
+  citata_rodoma: |
+    1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos
+    šiaurėje, Vyslos vakaruose ir Drėvantos (dab. Drvencos) pietryčiuose (PUB, 1, 1, Nr. 41,
+    p. 30; Nr. 75, p. 55).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -655,7 +674,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
     vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
     brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
-  citata_rodoma: "Apie antrąjį minėtojo Marienverderio miesto sugriovimą\n\n  Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui."
+  citata_rodoma: |
+    Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+
+      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -674,7 +699,16 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
     išsigelbėjo pabėgdamas.
     2.
-  citata_rodoma: "Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir\npo kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis\narba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų\nišsigelbėjo pabėgdamas.\n\n\n\n\n                          2."
+  citata_rodoma: |
+    Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
+    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
+    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
+    išsigelbėjo pabėgdamas.
+
+
+
+
+                              2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -693,7 +727,12 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
     — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
     prūsų kovą nuo Lietuvos, jos karinių pastangų.
-  citata_rodoma: "Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną\njau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir\nOrdino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir\nsūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas\n— nurodo „lietuvius ir prūsus“144."
+  citata_rodoma: |
+    Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
+    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
+    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
+    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    — nurodo „lietuvius ir prūsus“144.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -714,7 +753,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
     paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
     su broliais.
-  citata_rodoma: "Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,\n                            būtent: Eimsutis ir dar viena\n\n  Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas\nsiaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas\nkarys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui."
+  citata_rodoma: |
+    Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
+                                būtent: Eimsutis ir dar viena
+
+      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
+    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
+    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -731,7 +776,10 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     Šių etninių poslinkių chronologija nėra pakankamai aiški (HP, 1, 1, p. 290—291 — Labuda
     G.). XIII a., kryžiuočių atsikraustymo į pavyslį išvakarėse, Kulmo žemė vėl buvo prūsų
     rankose (D. II, 1; III, 7).
-  citata_rodoma: "Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino\nXIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame\nregione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda."
+  citata_rodoma: |
+    Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
+    XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
+    regione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -749,7 +797,9 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     turėjęs paklusti vysk. Kristijono valdžiai. Lenkų feodalų antpuoliai išblaškė ir išnaikino
     Lubavo žemės gyventojus, kurių apie 1240 m. joje, atrodo, jau nebebuvo. Nors į Lubavo
     žemę turėjo pretenzijų lenkų feodalai, ji buvo įjungta į Ordino valdas.
-  citata_rodoma: "XIII a., kryžiuočių atsikraustymo į pavyslį išvakarėse, Kulmo žemė vėl buvo prūsų\nrankose (D. II, 1; III, 7)."
+  citata_rodoma: |
+    XIII a., kryžiuočių atsikraustymo į pavyslį išvakarėse, Kulmo žemė vėl buvo prūsų
+    rankose (D. II, 1; III, 7).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -769,7 +819,11 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
     Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
     prieš Ordiną.
-  citata_rodoma: "Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo\nžemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos\nPrūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,\nDusburgietis vadina išdavikais."
+  citata_rodoma: |
+    Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
+    Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
+    Dusburgietis vadina išdavikais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -799,7 +853,16 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     ką girdėjo; pro ausis nuleidęs jam pasakytus žodžius, jis sveiką ir gyvą išleido minėtąjį
     valdovą Henriką į Kulmo miestą, kur šis atpasakojo magistrui bei broliams visa, ką buvo
     girdėjęs.
-  citata_rodoma: "Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele\nkariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą\nbei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,\nšiuo perkėlimu darydamas Kulmo žemę saugesnę.\n\n\n\n\n              60 (59)."
+  citata_rodoma: |
+    Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele
+    kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą
+    bei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,
+    šiuo perkėlimu darydamas Kulmo žemę saugesnę.
+
+
+
+
+                  60 (59).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -838,7 +901,11 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:
     išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
-  citata_rodoma: "Nutyli lenkų feodalinės ekspansijos  į prūsų žemes\nbandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo\nžemės dovanojimo charakterio, apimties ir t. t.142\n  Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas."
+  citata_rodoma: |
+    Nutyli lenkų feodalinės ekspansijos  į prūsų žemes
+    bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
+    žemės dovanojimo charakterio, apimties ir t. t.142
+      Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -864,7 +931,14 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     ją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino
     pagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295.
     57 (56). Apie brolį Henriką, trečią magistrą.
-  citata_rodoma: "Tuo tarpu stalininkas Druzigeris,\nsu saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad\nir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo\nžemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo\ngirdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo\nmūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos\nraudas."
+  citata_rodoma: |
+    Tuo tarpu stalininkas Druzigeris,
+    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
+    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
+    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
+    girdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo
+    mūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos
+    raudas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -890,7 +964,17 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
     krikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai
     vyrų.
-  citata_rodoma: "Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­\n     medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį\n\n  Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene\nįsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti\nsusibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria\nraitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios\ntarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė\nkažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar\n  416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m."
+  citata_rodoma: |
+    Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
+         medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
+
+      Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
+    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
+    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
+    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
+    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
+    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
+      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -915,7 +999,20 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     bėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis
     jais pasprukti. Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
     kurias vėjas nuneša nuo žemės paviršiaus!
-  citata_rodoma: "——————————————————\n\n  Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo\nklastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs\ntinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,\ngalėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po\npaskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per\nVyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o\nvisa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę\ndrauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,\nkurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis\nmeldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo\ntėvonijos paniekinti“."
+  citata_rodoma: |
+    ——————————————————
+
+      Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo
+    klastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs
+    tinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,
+    galėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po
+    paskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per
+    Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o
+    visa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
+    drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
+    kurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis
+    meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
+    tėvonijos paniekinti“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

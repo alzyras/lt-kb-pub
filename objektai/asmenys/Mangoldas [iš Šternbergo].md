@@ -126,7 +126,14 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
     pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo. Kunigas uoliai padarė,
     ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs
     padirbdinti.
-  citata_rodoma: "Apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais\n\n   Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus\nmetus. Anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs\nPrūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,\nkai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o\ngrįždamas namo, kelyje ir pasimirė."
+  citata_rodoma: |
+    Apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais
+
+       Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus
+    metus. Anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs
+    Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
+    kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
+    grįždamas namo, kelyje ir pasimirė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -147,7 +154,13 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
     mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė
     Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu drįsti, atsikeršyk už tau
     daromas nuoskaudas, o aš tau padėsiu“.
-  citata_rodoma: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena\n\n   Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų\npradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo\nkariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,\nkurį niokojo, degindamas ir grobdamas."
+  citata_rodoma: |
+    Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
+
+       Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
+    pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
+    kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
+    kurį niokojo, degindamas ir grobdamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

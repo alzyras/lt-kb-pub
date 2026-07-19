@@ -122,7 +122,17 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
     skubiai trauktis į Juodikio mišką. Tokiu
     būdu buvo sužlugdytas pavojingas priešo
     sumanymas.
-  citata_rodoma: "Perpratęs rusų\nsumanymą J. Šarauskas į Paobelių kaimą\npasiuntė patyrusius vyresniuosius ka-\nrius V. Vainauską ir P. Lukšį (turėjusius\nPirmojo pasaulinio karo kovų patirties) su\n8 kareiviais, kurie nepastebėti užėjo be-\nsirengiantiems apėjimui bolševikams į\nužnugarį ir netikėtai juos apmėtę granato-\nmis bei apšaudę privertė iš Eigulių kaimo\nskubiai trauktis į Juodikio mišką."
+  citata_rodoma: |
+    Perpratęs rusų
+    sumanymą J. Šarauskas į Paobelių kaimą
+    pasiuntė patyrusius vyresniuosius ka-
+    rius V. Vainauską ir P. Lukšį (turėjusius
+    Pirmojo pasaulinio karo kovų patirties) su
+    8 kareiviais, kurie nepastebėti užėjo be-
+    sirengiantiems apėjimui bolševikams į
+    užnugarį ir netikėtai juos apmėtę granato-
+    mis bei apšaudę privertė iš Eigulių kaimo
+    skubiai trauktis į Juodikio mišką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

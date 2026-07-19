@@ -101,7 +101,11 @@ Nenurodyta
     patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
     įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
     Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
-  citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė\nnužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos."
+  citata_rodoma: |
+    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
+    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
+    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė
+    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

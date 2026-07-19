@@ -84,7 +84,10 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
     Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-
     tai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo
     juos kam nors kitam (tai vadinamoji kaduko teisė).
-  citata_rodoma: "Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-\ntai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo\njuos kam nors kitam (tai vadinamoji kaduko teisė)."
+  citata_rodoma: |
+    Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-
+    tai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo
+    juos kam nors kitam (tai vadinamoji kaduko teisė).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

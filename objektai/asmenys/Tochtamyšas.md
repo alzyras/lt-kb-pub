@@ -225,7 +225,12 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui
     mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
     siuntė Vytautui pagalbos^1 ).
-  citata_rodoma: "Bet jau 1409\nm. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų\njam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui\nmirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai\nsiuntė Vytautui pagalbos^1 )."
+  citata_rodoma: |
+    Bet jau 1409
+    m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų
+    jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui
+    mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
+    siuntė Vytautui pagalbos^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -254,7 +259,17 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     žirgą.
     Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
     pailsėjo ir patraukė iš vakarų į rytus.
-  citata_rodoma: "Kerim Berdis,\ngalingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo\npasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas\nsavo jėgomis nieko laimėti ir nepajėgdamas susitaikyti\nsu likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­\ntu su svarbiausiais savo šalininkais. Vytautas, ne vieną\nkartą ligi tol patyręs šios tautos tvirtą palankumą ir\nsulaukęs karo metais pagalbos, suprato, jog valstybei\nbūsianti didelė nauda, jeigu palenks į save šios tautos\nvadą, jį užstodamas."
+  citata_rodoma: |
+    Kerim Berdis,
+    galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
+    pasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas
+    savo jėgomis nieko laimėti ir nepajėgdamas susitaikyti
+    su likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­
+    tu su svarbiausiais savo šalininkais. Vytautas, ne vieną
+    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
+    sulaukęs karo metais pagalbos, suprato, jog valstybei
+    būsianti didelė nauda, jeigu palenks į save šios tautos
+    vadą, jį užstodamas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -284,7 +299,18 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     sosto įpėdiniu. Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
     pasiekti geruoju.
-  citata_rodoma: "Vytautas, ne vieną\nkartą ligi tol patyręs šios tautos tvirtą palankumą ir\nsulaukęs karo metais pagalbos, suprato, jog valstybei\nbūsianti didelė nauda, jeigu palenks į save šios tautos\nvadą, jį užstodamas. Štai todėl maloniai ir noriai priėmė\nTochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­\nles iškilmes, uždėjo jam perlais bei brangakmeniais nu­\nsagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­\nrastai vadinamu caru) ir pakėlė į valdovus. Tochtamy­\nšas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be\nsavo krašto kariuomenės, o lydimas Vytauto pulkų."
+  citata_rodoma: |
+    Vytautas, ne vieną
+    kartą ligi tol patyręs šios tautos tvirtą palankumą ir
+    sulaukęs karo metais pagalbos, suprato, jog valstybei
+    būsianti didelė nauda, jeigu palenks į save šios tautos
+    vadą, jį užstodamas. Štai todėl maloniai ir noriai priėmė
+    Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu­
+    les iškilmes, uždėjo jam perlais bei brangakmeniais nu­
+    sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­
+    rastai vadinamu caru) ir pakėlė į valdovus. Tochtamy­
+    šas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be
+    savo krašto kariuomenės, o lydimas Vytauto pulkų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -311,7 +337,20 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     les iškilmes, uždėjo jam perlais bei brangakmeniais nu­
     sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap­
     rastai vadinamu caru) ir pakėlė į valdovus.
-  citata_rodoma: "Nie­\nko gero nesusilaukė Tochtamyšas, mat tas, kuris,\n398\n\n## Puslapis 397\n\nkopdamas į statų kalną, pasiekia saugią viršukalnę,\nlengviau nustumia besiveržiantį aukštyn, nei leidžiasi\nnustumiamas. Kerim Berdis, sutelkęs stiprią kariuome­\nnę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo\ndalinius, o patį brolį nužudė. 2uvus Tochtamyšui, tre­\nčias brolis Jerim Berdis, neišgąsdintas brolio likimo ir\nkraujo praliejimo, taip pat pabėgo pas Vytautą."
+  citata_rodoma: |
+    Nie­
+    ko gero nesusilaukė Tochtamyšas, mat tas, kuris,
+    398
+
+    ## Puslapis 397
+
+    kopdamas į statų kalną, pasiekia saugią viršukalnę,
+    lengviau nustumia besiveržiantį aukštyn, nei leidžiasi
+    nustumiamas. Kerim Berdis, sutelkęs stiprią kariuome­
+    nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo
+    dalinius, o patį brolį nužudė. 2uvus Tochtamyšui, tre­
+    čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
+    kraujo praliejimo, taip pat pabėgo pas Vytautą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

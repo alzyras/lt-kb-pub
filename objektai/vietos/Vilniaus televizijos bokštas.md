@@ -70,7 +70,11 @@ media_all_json: |-
     sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
     vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
-  citata_rodoma: "1991 m. sausio 13-ąją, \nsovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-\nvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji \npateko po tanko vikšrais ir mirė ligoninėje."
+  citata_rodoma: |
+    1991 m. sausio 13-ąją,
+    sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
+    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
+    pateko po tanko vikšrais ir mirė ligoninėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

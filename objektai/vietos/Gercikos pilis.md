@@ -100,7 +100,18 @@ Narbutas Gercikos pilį prie Dauguvos vadina rusų kunigaikščio Visvaldžio so
     nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
     ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
     mingumo skraiste.
-  citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
+  citata_rodoma: |
+    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
+    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
+    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
+    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
+    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
+    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
+    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
+    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
+    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
+    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
+    nelaisvėje buvo nužudytas tuo kalaviju.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

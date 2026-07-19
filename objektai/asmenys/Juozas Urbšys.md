@@ -145,7 +145,9 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     spaudimą Lietuvai kaip ranka nuėmė.
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
-  citata_rodoma: "Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-\nkvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną."
+  citata_rodoma: |
+    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
+    kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +166,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
     dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: "pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį"
+  citata_rodoma: |
+    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -184,7 +187,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     nai etnines lietuvių žemes ir 150 000 gyventojų. Derybos vyko sunkiai,
     J. Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsi-
     leisti į Lietuvą savo karines bazes.
-  citata_rodoma: "J. Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsi-"
+  citata_rodoma: |
+    J. Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsi-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -203,7 +207,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
     į Maskvą ministrą J. Urbšį.
-  citata_rodoma: "sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti"
+  citata_rodoma: |
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +232,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: "laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos"
+  citata_rodoma: |
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

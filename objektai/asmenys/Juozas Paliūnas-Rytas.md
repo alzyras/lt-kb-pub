@@ -94,8 +94,15 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
     Rimantas, pavaduotoju - Maironio rinkti-
     nės vadas Juozas Paliūnas-Rytas.
 
-    242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
-  citata_rodoma: "Rusų nuostoliai nežinomi. Apygradoje\nprasidėjo reorganizacija: Prisikėlimo\napygardos vadu tapo Povilas Morkūnas-\nRimantas, pavaduotoju - Maironio rinkti-\nnės vadas Juozas Paliūnas-Rytas.\n\n242  UŽPELKIŲ KAUTYNĖS 1949 m."
+    242  UŽPELKIŲ KAUTYNĖS 1949 m.
+  citata_rodoma: |
+    Rusų nuostoliai nežinomi. Apygradoje
+    prasidėjo reorganizacija: Prisikėlimo
+    apygardos vadu tapo Povilas Morkūnas-
+    Rimantas, pavaduotoju - Maironio rinkti-
+    nės vadas Juozas Paliūnas-Rytas.
+
+    242  UŽPELKIŲ KAUTYNĖS 1949 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -93,7 +93,18 @@ Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir i
     lietuvių genties kartos vadindavo tik taip ir turėjo įprotį
     jas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­
     takoje.
-  citata_rodoma: "Išplėtus senų ¡senovės budinu\ngyvenamąsias vietoves nuo Dono į vakarus taip, kad jų\n1 Dissert, de Situ Scyth, Comment. Acad, Petrop. T. 1.\n207\n\n## Puslapis 205\n\nI\nviduryje atsiduria Oskolo upės slėnis, galima lengvai su­\nprasti, kad gelonai gyveno1 šiandienėje Starobelsko ap­\nskrityje, arba prie Doneco ir Sulos aukštupių (§58)."
+  citata_rodoma: |
+    Išplėtus senų ¡senovės budinu
+    gyvenamąsias vietoves nuo Dono į vakarus taip, kad jų
+    1 Dissert, de Situ Scyth, Comment. Acad, Petrop. T. 1.
+    207
+
+    ## Puslapis 205
+
+    I
+    viduryje atsiduria Oskolo upės slėnis, galima lengvai su­
+    prasti, kad gelonai gyveno1 šiandienėje Starobelsko ap­
+    skrityje, arba prie Doneco ir Sulos aukštupių (§58).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

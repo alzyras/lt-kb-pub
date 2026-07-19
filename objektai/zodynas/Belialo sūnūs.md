@@ -81,7 +81,14 @@ Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių
     ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
     nes būgštavo, kad dievas ant jų labai užsirūstinęs. Po dvejus metus užtrukusių smarkių
     kovų jų jėgos ėjo silpnyn, o tikėjimo priešai stiprėjo.
-  citata_rodoma: "Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji. „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo\nniekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė\nir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis."
+  citata_rodoma: |
+    Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
+
+       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
+    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
+    tu globoji. „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
+    niekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
+    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

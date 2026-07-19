@@ -125,7 +125,22 @@ Nenurodyta
     smintis su moterimis, pradėjo lankyti Barborą Radvi­
     laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
     vados Stanislovo Goštauto našlę.
-  citata_rodoma: "Štai todėl Augustas, valstybės\n2 2 °\n6?5\n\n## Puslapis 674\n\nsąskaita rodydamas dosnumą, pirmiausia pasistengė\npelnyti lenkų palankumą. Sušaukęs Vilniuje seimą, jis\ntaip nuteikė lietuvius, kad\n1548 m e ta i\njų luomai ne tik nesiprieši­\nno, o kurie ne kurie didikai\npirmieji pasirašė aktą, jog Belsko žemė Palenkėję at­\nskiriama nuo Lietuvos ir seimo valia atiduodama len­\nkams."
+  citata_rodoma: |
+    Štai todėl Augustas, valstybės
+    2 2 °
+    6?5
+
+    ## Puslapis 674
+
+    sąskaita rodydamas dosnumą, pirmiausia pasistengė
+    pelnyti lenkų palankumą. Sušaukęs Vilniuje seimą, jis
+    taip nuteikė lietuvius, kad
+    1548 m e ta i
+    jų luomai ne tik nesiprieši­
+    no, o kurie ne kurie didikai
+    pirmieji pasirašė aktą, jog Belsko žemė Palenkėję at­
+    skiriama nuo Lietuvos ir seimo valia atiduodama len­
+    kams.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

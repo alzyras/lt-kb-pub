@@ -139,7 +139,7 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos pinigai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-00214
+    - c-00212
 
 <a id="claim-t-12316"></a>
 - t-005
@@ -343,7 +343,12 @@ Nenurodyta
     įkirtimais ir be įkirtimų, sunkesnių ir lengvesnių. Apie jas nėra jokių ra-
     šytinių žinių (jų vardas,— kaip spėjama, kilęs iš žodžio _kapoti,_ — šaltiniuose
     yra minimas), tad visokios išvados gali būti daromos tik iš radinių.
-  citata_rodoma: "1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro\ntam tikrose formose. Jų randama įvairių — ilgų ir perpus trumpesnių\n\n(kartais perkirstų per pusę), su įvairiais ženklais ir be jokių ženklų, su\nįkirtimais ir be įkirtimų, sunkesnių ir lengvesnių."
+  citata_rodoma: |
+    1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro
+    tam tikrose formose. Jų randama įvairių — ilgų ir perpus trumpesnių
+
+    (kartais perkirstų per pusę), su įvairiais ženklais ir be jokių ženklų, su
+    įkirtimais ir be įkirtimų, sunkesnių ir lengvesnių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -382,7 +387,13 @@ Nenurodyta
     Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
     pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
     iš savo kunigaikštijų).
-  citata_rodoma: "4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;\n10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_\n5 — _pusskatikis_ (= 5 pinigėliams) ; 6 ir 7 — _dvidenariai_ (^2 /в skatiko) ; 8 —\nKijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo\npinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti\niš savo kunigaikštijų)."
+  citata_rodoma: |
+    4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
+    10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_
+    5 — _pusskatikis_ (= 5 pinigėliams) ; 6 ir 7 — _dvidenariai_ (^2 /в skatiko) ; 8 —
+    Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
+    pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
+    iš savo kunigaikštijų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -390,6 +401,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10729
+    - t-10731
 - id: c-00214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -399,14 +411,15 @@ Nenurodyta
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
     **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
     (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
-  citata_rodoma: "**Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_\n(skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą)."
+  citata_rodoma: |
+    **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
+    (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10731
 - id: c-14327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -419,7 +432,10 @@ Nenurodyta
     tautu derėtis. Šis pareikalavo, kad totoriai pripažintų jį savo
     tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
     se.
-  citata_rodoma: "Šis pareikalavo, kad totoriai pripažintų jį savo\ntėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­\nse."
+  citata_rodoma: |
+    Šis pareikalavo, kad totoriai pripažintų jį savo
+    tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
+    se.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -502,7 +518,10 @@ Nenurodyta
     susitiko su Vengrijos karalium Zigmantu. Zigmantas, anks­
     čiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui
     ištikus jis laikysiąs Ordino pusę.
-  citata_rodoma: "Zigmantas, anks­\nčiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui\ništikus jis laikysiąs Ordino pusę."
+  citata_rodoma: |
+    Zigmantas, anks­
+    čiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui
+    ištikus jis laikysiąs Ordino pusę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -521,7 +540,11 @@ Nenurodyta
     tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
     popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
     sienio valstybėse.
-  citata_rodoma: "Per visą nepriklausomos Lie-\ntuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais \npopieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-\nsienio valstybėse."
+  citata_rodoma: |
+    Per visą nepriklausomos Lie-
+    tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
+    popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
+    sienio valstybėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -540,7 +563,11 @@ Nenurodyta
     ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
     auksu paremtas litas, kurį sudaro 100 centų.
-  citata_rodoma: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-\nniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra \nauksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje \nįvestas litas."
+  citata_rodoma: |
+    Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje
+    įvestas litas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -560,7 +587,11 @@ Nenurodyta
     nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
     tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
     ieškoti sprendimo.
-  citata_rodoma: "Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-\nnais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-\ntuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią \nieškoti sprendimo."
+  citata_rodoma: |
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

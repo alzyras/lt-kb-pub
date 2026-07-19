@@ -91,7 +91,8 @@ Vietinė etninė bendruomenė.
     Mums
     įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyven­
     ti su mumis ir skiriasi kalba ir būdu.
-  citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu."
+  citata_rodoma: |
+    Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas

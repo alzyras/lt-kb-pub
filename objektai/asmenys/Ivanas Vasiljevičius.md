@@ -214,7 +214,19 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
     tis su Livonijos magistru. Maskvėnai, į šį žygį patraukę
     su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
     didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
-  citata_rodoma: "Nieko nepešę, kara­\nliaus legatai iškeliavo iš Maskvos, o netrukus pas ka­\nralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­\ntesnės užduoties, tik po senovei protestavęs dėl kaimy­\nnų daromų skriaudų. Šiaip pasiuntinybė turėjo visai\nkitą tikslą: įteikus karaliui laišką, kaip visuomet įžūlų\nir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar\nvieną titulą, pasirašydamas Livonijos valdovu. Kara­\nlius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,\njog maskvėnai po senovei skriaudžia Lietuvą, o laiš­\nkuose uždraudė minėti ir Maskvos caro, ir Livonijos\nvaldovo titulus."
+  citata_rodoma: |
+    Nieko nepešę, kara­
+    liaus legatai iškeliavo iš Maskvos, o netrukus pas ka­
+    ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­
+    tesnės užduoties, tik po senovei protestavęs dėl kaimy­
+    nų daromų skriaudų. Šiaip pasiuntinybė turėjo visai
+    kitą tikslą: įteikus karaliui laišką, kaip visuomet įžūlų
+    ir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar
+    vieną titulą, pasirašydamas Livonijos valdovu. Kara­
+    lius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,
+    jog maskvėnai po senovei skriaudžia Lietuvą, o laiš­
+    kuose uždraudė minėti ir Maskvos caro, ir Livonijos
+    valdovo titulus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

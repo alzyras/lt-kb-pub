@@ -190,7 +190,19 @@ Nenurodyta
     tas pats Herkus, ir daugybė kitų vėliau, priesaika patvirtindami savo žodžius, tikino, jog
     tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam
     iš burnos išskrendant baltų balčiausią balandį.
-  citata_rodoma: "Su jais įsibrovė\nį Notangos žemę broliai bei jų ginklanešiai  ir, nuniokoję ją ugnimi bei apiplėšę, daug\npaėmę į nelaisvę ir daug išžudę, sugrįžo į tą vietą, kur dabar stovi Brandenburgo pilis363,\nir ten apsistojo stovyklauti. Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės\nsugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje\nvietoje. Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės\nsiaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;\nmaldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu\nŠtenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,\nnukautų Prūsijoje, sielos kylančios tiesiai į dangų, aplenkdamos skaistyklą, todėl dabar,\npaspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo\nrikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten."
+  citata_rodoma: |
+    Su jais įsibrovė
+    į Notangos žemę broliai bei jų ginklanešiai  ir, nuniokoję ją ugnimi bei apiplėšę, daug
+    paėmę į nelaisvę ir daug išžudę, sugrįžo į tą vietą, kur dabar stovi Brandenburgo pilis363,
+    ir ten apsistojo stovyklauti. Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės
+    sugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje
+    vietoje. Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
+    siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;
+    maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu
+    Štenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,
+    nukautų Prūsijoje, sielos kylančios tiesiai į dangų, aplenkdamos skaistyklą, todėl dabar,
+    paspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo
+    rikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

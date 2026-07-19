@@ -125,7 +125,17 @@ media_all_json: |-
     3 štabo bunkerius.
 
     1949 m. lapkričio 1-3 d. ŠIMONIŲ GIRIOS APGULTIS 243
-  citata_rodoma: "Nematydami kitos išeities, bunkeryje\nsusisprogdino Rytų Lietuvos srities vadas\nAntanas Slučka-Šarūnas kartu su savo\nžmona, RL štabo nare, štabo sekretore Joana\nRailaite-Neringa ir partizanu Juozu Jovaiša-\nLokiu. Štabo adjutantas Balys Žukauskas-\nPrincas pasidavė gyvas ir nurodė dar\n3 štabo bunkerius.\n\n1949 m."
+  citata_rodoma: |
+    Nematydami kitos išeities, bunkeryje
+    susisprogdino Rytų Lietuvos srities vadas
+    Antanas Slučka-Šarūnas kartu su savo
+    žmona, RL štabo nare, štabo sekretore Joana
+    Railaite-Neringa ir partizanu Juozu Jovaiša-
+    Lokiu. Štabo adjutantas Balys Žukauskas-
+    Princas pasidavė gyvas ir nurodė dar
+    3 štabo bunkerius.
+
+    1949 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

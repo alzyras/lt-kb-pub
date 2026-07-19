@@ -76,7 +76,10 @@ Nenurodyta
     „Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis
         krikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir
         nesumaitotų.“
-  citata_rodoma: "„Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis\nkrikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir\nnesumaitotų.“"
+  citata_rodoma: |
+    „Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis
+    krikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir
+    nesumaitotų.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

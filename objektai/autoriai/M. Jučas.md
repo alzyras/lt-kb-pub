@@ -130,7 +130,15 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
     istorijos šaltinis, kuriame užfiksuota daug svarbios baltistikai bei lituanistikai medžiagos.
     Čia pateikta ryškių faktų, charakterizuojančių ekonominę, visuomeninę ir politinę prūsų
     bei lietuvių nobiliteto padėtį, XIII—XIV a. susiformavusius klasinius skirtumus.
-  citata_rodoma: "Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro\n\n  149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,\nс. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—\n30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński\nJ. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV\n\niš Dusburgo kronikos faktai."
+  citata_rodoma: |
+    Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
+
+      149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,
+    с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—
+    30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński
+    J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV
+
+    iš Dusburgo kronikos faktai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

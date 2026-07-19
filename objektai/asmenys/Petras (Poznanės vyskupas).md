@@ -76,7 +76,14 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
     vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais. (Žr. 1.
-  citata_rodoma: "Apie tai mini Kroni­\nka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - \nlavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­\ndydama, kad „1253 metais Petras, išrinktas Poznanės \nvyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­\ntuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­\nkupais."
+  citata_rodoma: |
+    Apie tai mini Kroni­
+    ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -
+    lavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­
+    dydama, kad „1253 metais Petras, išrinktas Poznanės
+    vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
+    tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
+    kupais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

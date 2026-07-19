@@ -84,7 +84,9 @@ media_all_json: |-
     vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
-  citata_rodoma: "R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės \nklausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją."
+  citata_rodoma: |
+    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
+    klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

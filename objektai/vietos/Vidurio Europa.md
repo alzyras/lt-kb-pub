@@ -196,7 +196,11 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie
     katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-
     galija).
-  citata_rodoma: "Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio\n(palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie\nkatalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-\ngalija)."
+  citata_rodoma: |
+    Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio
+    (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie
+    katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-
+    galija).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -220,7 +224,10 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
     ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
     universitetai.
-  citata_rodoma: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus\nuniversitetai."
+  citata_rodoma: |
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
+    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -238,7 +245,10 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
-  citata_rodoma: "Reiškinys neturėjo precedento Vidurio Europoje, tai buvo\nviena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos\nir Lietuvos Valstybėje."
+  citata_rodoma: |
+    Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
+    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
+    ir Lietuvos Valstybėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -257,7 +267,12 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     ir Lietuvos Valstybėje.
     Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
     jos stiliumi.
-  citata_rodoma: "Reiškinys neturėjo precedento Vidurio Europoje, tai buvo \nviena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos \nir Lietuvos Valstybėje.\nKlasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-\njos stiliumi."
+  citata_rodoma: |
+    Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
+    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
+    ir Lietuvos Valstybėje.
+    Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
+    jos stiliumi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -310,7 +325,21 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     užkariaudami tautas, buvo taip pamiršę žmogų, kad kaip
     ir žiauriausi barbarai, atimdavo gyvybę ir jam už gyvybę
     brangesnius tautinius paminklus, laisvę ir namų taiką.
-  citata_rodoma: "Ant­\nra vertus, ryšiai su labiau išvystytomis tautomis senovė­\nje buvo be galo painūs, padriki ir tolydžio atnaujinami.\nViduržemio jūros pirklių, kurie bemaž vieni pasiekdavo\ntolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir\nvisados iš anksto puoselėjo viltis rasti lobių nežinomuose\nkraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­\nrei pažinti dar labiau negu Vidurio Europos tautų bar­\nbariškumas ir nesyetingumas. Bet kai anarchija pakirto\nRomos valstybės imperatorių galybės kolosą, kai barbarų\nantplūdis pražudė civilizuotus kraštus, pavertė apsišvie­\ntusių romėnų palikimą dykra ir kapinynais, šiaurinėms\ntautoms susiklostė naujos aplinkybės, ir į Europą atėjo\npusiausvyros metas."
+  citata_rodoma: |
+    Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
+    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
+    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
+    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
+    rei pažinti dar labiau negu Vidurio Europos tautų bar­
+    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
+    Romos valstybės imperatorių galybės kolosą, kai barbarų
+    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
+    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
+    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
+    pusiausvyros metas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

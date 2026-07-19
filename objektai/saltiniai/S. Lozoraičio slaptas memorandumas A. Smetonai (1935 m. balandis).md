@@ -72,7 +72,12 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
     L I E T U V O S  I S T O R I J A
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: "S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus\n\nL I E T U V O S  I S T O R I J A\n178\nvivendi su Lenkija yra būtina nepriklausomybės sąlyga."
+  citata_rodoma: |
+    S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
+
+    L I E T U V O S  I S T O R I J A
+    178
+    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

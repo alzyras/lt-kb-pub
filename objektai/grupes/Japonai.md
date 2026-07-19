@@ -135,7 +135,14 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
     pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
     gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
     nas - požemį, arba egzistavimą po mirties.
-  citata_rodoma: "Kabirai (Kabiiy)\nTai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­\ndžių trejybė.\nSeniausiems ir drauge labiausiai paplitusiems mitams pri­\nklauso mitas apie Kabirus. Egiptiečiai ir graikai, romėnai, in­\ndai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­\ngiau ar mažiau paslaptingą dievų Kabirų ritualą."
+  citata_rodoma: |
+    Kabirai (Kabiiy)
+    Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
+    džių trejybė.
+    Seniausiems ir drauge labiausiai paplitusiems mitams pri­
+    klauso mitas apie Kabirus. Egiptiečiai ir graikai, romėnai, in­
+    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
+    giau ar mažiau paslaptingą dievų Kabirų ritualą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -158,7 +165,13 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
     tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
     ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
     mas, mirtis ir amžinybė.
-  citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną."
+  citata_rodoma: |
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

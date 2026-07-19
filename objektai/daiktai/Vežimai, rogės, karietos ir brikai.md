@@ -115,7 +115,19 @@ Nenurodyta
     20
     Vilniaus kapitulos archy­
     vas: MSS, vad. Acta, tai yra*
-  citata_rodoma: "Jogaila tam pasipriešino, \ntad šia dingstimi negalima buvo į \nVilnių vykti. Tie patys metraštinin­\nkai pasakoja, kad 300 vežimų, įvai­\nrios žvėrienos prikrauti, atvažiavę į \nmiestą ir kad Vytauto bajorai suva­\nžiavę į miestą iš įvairių pusių, bet \nvienas jų, matyt, išdavęs paslaptį, o \napie Sudimantą nėra užsiminta.\n20\nVilniaus kapitulos archy­\nvas: MSS, vad."
+  citata_rodoma: |
+    Jogaila tam pasipriešino,
+    tad šia dingstimi negalima buvo į
+    Vilnių vykti. Tie patys metraštinin­
+    kai pasakoja, kad 300 vežimų, įvai­
+    rios žvėrienos prikrauti, atvažiavę į
+    miestą ir kad Vytauto bajorai suva­
+    žiavę į miestą iš įvairių pusių, bet
+    vienas jų, matyt, išdavęs paslaptį, o
+    apie Sudimantą nėra užsiminta.
+    20
+    Vilniaus kapitulos archy­
+    vas: MSS, vad.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,7 +157,22 @@ Nenurodyta
     kluotų vyrų, tuose vežimuose pa-
     slėptų, įvairiais keliais į ten buvo
     įvežti.
-  citata_rodoma: "31\nStrijkovskis, 1.465, o juo sekda­\nmas ir K o j e 1  a v i č i u s, p. 361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių. Trejetą šimtų narsių ir ištikimų \njam riterių iš Žemaitijos išsiuntė \npirm, kad persirengę, tarsi nauji at­\nvykėliai pirkliai, prasigavę į miestą \nissiskirstytų po įvairias smukles; po \nt° keletą šimtų vežimų, kailių ir šie- \nno prikrautų, su šešiais šimtais gin­\nkluotų vyrų, tuose vežimuose pa- \nslėptų, įvairiais keliais į ten buvo \nįvežti."
+  citata_rodoma: |
+    31
+    Strijkovskis, 1.465, o juo sekda­
+    mas ir K o j e 1  a v i č i u s, p. 361,
+    plačiai aprašo, kokių gudrybių tą­
+    kart ėmėsi Kęstutis, puldamas Vil-
+    nių. Trejetą šimtų narsių ir ištikimų
+    jam riterių iš Žemaitijos išsiuntė
+    pirm, kad persirengę, tarsi nauji at­
+    vykėliai pirkliai, prasigavę į miestą
+    issiskirstytų po įvairias smukles; po
+    t° keletą šimtų vežimų, kailių ir šie-
+    no prikrautų, su šešiais šimtais gin­
+    kluotų vyrų, tuose vežimuose pa-
+    slėptų, įvairiais keliais į ten buvo
+    įvežti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

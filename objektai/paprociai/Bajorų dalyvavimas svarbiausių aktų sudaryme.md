@@ -166,7 +166,12 @@ Nenurodyta
     šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
     teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
     teisę seniau.
-  citata_rodoma: "Lie­\ntuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei\nšis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna\nteisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą\nteisę seniau."
+  citata_rodoma: |
+    Lie­
+    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
+    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
+    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
+    teisę seniau.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +212,10 @@ Nenurodyta
     brėžti, kaip valdomojo su aukštesniu perdėtiniu^1 ). Lenkų ponų
     taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
     kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija.
-  citata_rodoma: "Lenkų ponų\ntaryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­\nkams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija."
+  citata_rodoma: |
+    Lenkų ponų
+    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
+    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +235,12 @@ Nenurodyta
     Horodlėje. Suvažiavimo nutarimai buvo surašyti trijuose do-
     kumentuose: vienas bendras dokumentas buvo Jogailos ir Vy-
     tauto ir po vieną dokumentą abiejų valstybių bajorų.
-  citata_rodoma: "Visa tai buvo sutarta\nbendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime\nHorodlėje. Suvažiavimo nutarimai buvo surašyti trijuose do-\nkumentuose: vienas bendras dokumentas buvo Jogailos ir Vy-\ntauto ir po vieną dokumentą abiejų valstybių bajorų."
+  citata_rodoma: |
+    Visa tai buvo sutarta
+    bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime
+    Horodlėje. Suvažiavimo nutarimai buvo surašyti trijuose do-
+    kumentuose: vienas bendras dokumentas buvo Jogailos ir Vy-
+    tauto ir po vieną dokumentą abiejų valstybių bajorų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

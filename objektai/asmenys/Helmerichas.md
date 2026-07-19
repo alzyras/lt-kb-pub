@@ -157,7 +157,12 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
     Brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
     vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
     atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.
-  citata_rodoma: "Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais\n\n   Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o\npalaidotas Kulmenzės bažnyčioje. Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,\nįgudęs kariauti ir Kristui atsidavęs vyras."
+  citata_rodoma: |
+    Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais
+
+       Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o
+    palaidotas Kulmenzės bažnyčioje. Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,
+    įgudęs kariauti ir Kristui atsidavęs vyras.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

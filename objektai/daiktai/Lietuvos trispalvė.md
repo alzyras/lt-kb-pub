@@ -251,7 +251,13 @@ Nenurodyta
     demonstracijas įsakus.
     Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suva-
     žiavimas, kuriame dalyvavo 1 021 delegatas.
-  citata_rodoma: "Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė\nlietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,\nV. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį\nir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir\ndemonstracijas įsakus.\nSvarbiausiu įvykiu tapo 1988 m."
+  citata_rodoma: |
+    Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
+    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
+    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
+    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
+    demonstracijas įsakus.
+    Svarbiausiu įvykiu tapo 1988 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -274,7 +280,16 @@ Nenurodyta
     leisti laikraštį ir nuolatinę televizijos laidą. LPS tapo dar populiaresnis,
     kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
     laikraštis „Atgimimas“ (red. Romualdas Ozolas).
-  citata_rodoma: "LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-\nlankymas Lietuvoje rugpjūčio 11–12 dienomis. LKP vadovybei Aleksan-\ndras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – \npartija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-\naliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio \nparke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę \nleisti laikraštį ir nuolatinę televizijos laidą. LPS tapo dar populiaresnis, \nkai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti \nlaikraštis „Atgimimas“ (red."
+  citata_rodoma: |
+    LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
+    lankymas Lietuvoje rugpjūčio 11–12 dienomis. LKP vadovybei Aleksan-
+    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
+    partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-
+    aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
+    parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
+    leisti laikraštį ir nuolatinę televizijos laidą. LPS tapo dar populiaresnis,
+    kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
+    laikraštis „Atgimimas“ (red.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

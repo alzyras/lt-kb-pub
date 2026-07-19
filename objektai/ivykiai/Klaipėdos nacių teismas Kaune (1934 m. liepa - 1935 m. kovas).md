@@ -126,7 +126,10 @@ Nenurodyta
     Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
     kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
     momis, instrukcijomis, lapeliais, ginklais.
-  citata_rodoma: "Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-\nkiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-\nmomis, instrukcijomis, lapeliais, ginklais."
+  citata_rodoma: |
+    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
+    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
+    momis, instrukcijomis, lapeliais, ginklais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +156,14 @@ Nenurodyta
     181
     kus pakeitė kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuo-
     sius.
-  citata_rodoma: "Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-\nmą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-\nKlaipėdos nacių teismas Kaune (1934 m. gruodis)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n181\nkus pakeitė kalėjimu iki gyvos galvos, o 1937 m."
+  citata_rodoma: |
+    Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-
+    mą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-
+    Klaipėdos nacių teismas Kaune (1934 m. gruodis)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    181
+    kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -172,7 +182,8 @@ Nenurodyta
     sis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-
     rių teismas už antivalstybinę veiklą. Procesą stebėjo daugybė žurnalistų
     iš Vakarų Europos.
-  citata_rodoma: "rių teismas už antivalstybinę veiklą. Procesą stebėjo daugybė žurnalistų"
+  citata_rodoma: |
+    rių teismas už antivalstybinę veiklą. Procesą stebėjo daugybė žurnalistų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

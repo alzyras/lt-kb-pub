@@ -74,7 +74,11 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
     tempus conversionis, scii, usque* ad ann. 1414 Men. Jullii 28 d.
     qua mortuus est in villa Onkaim, ultimus Krewe-Krewayto, no­
     mine Gintowtus.
-  citata_rodoma: "JAVINĖ (JAWINE). Nuo Jawu. Daugiskaita -  Jawoi. Tas\npavadinimas, matyt, susijęs su ta pačia deive, kurią aprašėme\npavadinę Krūmine, kadangi žymės, kokias jai priskiria prūsai,\nyra tos pačios, apie kurias kalbėta tame straipsnyje."
+  citata_rodoma: |
+    JAVINĖ (JAWINE). Nuo Jawu. Daugiskaita -  Jawoi. Tas
+    pavadinimas, matyt, susijęs su ta pačia deive, kurią aprašėme
+    pavadinę Krūmine, kadangi žymės, kokias jai priskiria prūsai,
+    yra tos pačios, apie kurias kalbėta tame straipsnyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

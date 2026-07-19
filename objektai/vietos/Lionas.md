@@ -141,14 +141,21 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
+    Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
 
       Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
     Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
     ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
 
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
-  citata_rodoma: "Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių\n\n  Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento\nMartyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena\nir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.\n\nKarolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius."
+  citata_rodoma: |
+    Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
+
+      Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
+    Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
+    ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
+
+    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

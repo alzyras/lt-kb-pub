@@ -60,7 +60,8 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
     Lite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
     žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
     no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
-  citata_rodoma: "Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam"
+  citata_rodoma: |
+    Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

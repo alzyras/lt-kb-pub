@@ -635,7 +635,13 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
     degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
     penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
-  citata_rodoma: "Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į\nOrdino žemes:\n\n„1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,\ndegindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik\npenkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“"
+  citata_rodoma: |
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
+    Ordino žemes:
+
+    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
+    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
+    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -654,7 +660,12 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
     pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
     teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
-  citata_rodoma: "1291 buvo pulta,\nDusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315\nten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta\npilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai\nteriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24."
+  citata_rodoma: |
+    1291 buvo pulta,
+    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
+    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
+    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
+    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -676,7 +687,12 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
     Išskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai
     šaltiniai jo nemini.
-  citata_rodoma: "Kronikininkas\nDusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus\nsūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.\nIšskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai\nšaltiniai jo nemini."
+  citata_rodoma: |
+    Kronikininkas
+    Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus
+    sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
+    Išskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai
+    šaltiniai jo nemini.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -702,7 +718,15 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas.
-  citata_rodoma: "Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,\nŠventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą\nsveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.\nKiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje\nšventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi\nnuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei\nbūsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad\napreikšti dievo darbus yra šlovinga."
+  citata_rodoma: |
+    Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
+    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -725,7 +749,14 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
     Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
     kovą prieš agresiją.
-  citata_rodoma: "XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant\nsėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų\nEuropoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių\nužkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti\nOrdino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo\nkroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino\nvalstybės kūrinys."
+  citata_rodoma: |
+    XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
+    sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
+    Europoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -747,7 +778,14 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
-  citata_rodoma: "Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo\ntarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau\nkarus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į\nšią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas\nnegali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir\nkad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio\natminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo."
+  citata_rodoma: |
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -771,7 +809,14 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     ženklus ir galingus stebuklus, tavimi pasitikėtų, tave garbintų, aukštintų bei šlovintų,
     kad tu, iš kurio — viskas, per kurį — viskas ir kuriame—viskas, teiktumeisi globoti, tu,
     dieve, kuris gyveni ir viešpatauji per amžių amžius.
-  citata_rodoma: "Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų\nordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę,\ntrečia, apsakysiu karus, vykusius šioje žemėje, bei kitus žygius, pakalbėsiu  ir apie\ntuos, kuriuos pats esu matęs, ir apie tuos, apie kuriuos pasakojo juos matę ir juose\ndalyvavę žmonės, pagaliau  ir apie tuos, apie kuriuos sužinojau iš patikimų šaltinių.\nKetvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,\nkai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi."
+  citata_rodoma: |
+    Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų
+    ordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę,
+    trečia, apsakysiu karus, vykusius šioje žemėje, bei kitus žygius, pakalbėsiu  ir apie
+    tuos, kuriuos pats esu matęs, ir apie tuos, apie kuriuos pasakojo juos matę ir juose
+    dalyvavę žmonės, pagaliau  ir apie tuos, apie kuriuos sužinojau iš patikimų šaltinių.
+    Ketvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,
+    kai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -800,7 +845,18 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus\nkaras prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,\nnušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš\nDusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.\nTarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti\ndaugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir\njo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).\n  Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus\nbei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių\nlietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją\nklausimai."
+  citata_rodoma: |
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+      Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -829,7 +885,15 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     ir miestiečių prašymu tuo pat metu pasiuntė į Livonijos sri­
     tis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip
     buvo tikrovėje.
-  citata_rodoma: "Kadangi Dusburgas,  p. 349, trumpai teužsime- \nna, kad Joannes Papa XXII, ad suggestionem fratris Priderki Or­\ndinis fratrum Minorum Archiepiscopi de Riga et civium ibidem \nmisit ad partes Livoniae duos Legatos [Popiežius Jonas XXII Ma­\nžesniųjų brolių ordino brolio Fridricho, Rygos arkivyskupo \nir miestiečių prašymu tuo pat metu pasiuntė į Livonijos sri­\ntis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip \nbuvo tikrovėje."
+  citata_rodoma: |
+    Kadangi Dusburgas,  p. 349, trumpai teužsime-
+    na, kad Joannes Papa XXII, ad suggestionem fratris Priderki Or­
+    dinis fratrum Minorum Archiepiscopi de Riga et civium ibidem
+    misit ad partes Livoniae duos Legatos [Popiežius Jonas XXII Ma­
+    žesniųjų brolių ordino brolio Fridricho, Rygos arkivyskupo
+    ir miestiečių prašymu tuo pat metu pasiuntė į Livonijos sri­
+    tis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip
+    buvo tikrovėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -863,7 +927,19 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     Kojelavičius Pagraudenę vadi-
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri.
-  citata_rodoma: "To­\nliau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti\npetit ä mane usque ad meridiem in monte ex opposito Castri Jede-\nmine ubi dictus comes de Homberg et piures alii nobiles dignita­\ntem militiae susceperunt [Bet brolių vėliava jam prisijungus\nkovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino\ne\nChroniam Prussiae.\nf\nKojelavičius Pagraudenę vadi-\nna apylinkę Žemaitijoje: pograudien-\nb C S 7/7 Samogitia agri."
+  citata_rodoma: |
+    To­
+    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
+    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
+    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
+    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
+    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
+    e
+    Chroniam Prussiae.
+    f
+    Kojelavičius Pagraudenę vadi-
+    na apylinkę Žemaitijoje: pograudien-
+    b C S 7/7 Samogitia agri.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

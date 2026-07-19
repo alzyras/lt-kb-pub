@@ -89,7 +89,12 @@ Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko pieš
     B. A. M. K. E. Z. Nežinia, kas prispaudė tą antspaudą; jis bu­
     vo pridėtas prie testamento ir yra tarp penketo kitų su lenkiš­
     kais herbais; dokumentas yra iš 1630 metų.
-  citata_rodoma: "Gal tai fetišas Regie-\nziowan, kurį Lasickis priskiria Kęsgailų giminei.\nIV\nlentelė, 20-asis piešinys. Driežiukas; antspaudą pridėjo\nBičkus (Byczek) 1604 metais."
+  citata_rodoma: |
+    Gal tai fetišas Regie-
+    ziowan, kurį Lasickis priskiria Kęsgailų giminei.
+    IV
+    lentelė, 20-asis piešinys. Driežiukas; antspaudą pridėjo
+    Bičkus (Byczek) 1604 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

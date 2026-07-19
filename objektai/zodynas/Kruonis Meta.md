@@ -90,7 +90,15 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
     vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
     paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
     kirtimo vietoje.
-  citata_rodoma: "Kruonis (Kronis)\nLaiko deivė, valdanti metų laikus. Kitaip vadinosi Meta\n(Mehta). Rašytiniuose paminkluose niekur negalėjau rasti duo­\nmenų apie šią dievybę, tik J. F. R. kronikoje, kur pasakyta: „Se­\nnovės lietuviai ir jų giminaičiai kuršiai garbino Kruonį (Kro­\nnis), arba Metą (Mehta), neva laiko arba laiko tarpsnių dei­\nvę“. Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas\nlaiko tarpas."
+  citata_rodoma: |
+    Kruonis (Kronis)
+    Laiko deivė, valdanti metų laikus. Kitaip vadinosi Meta
+    (Mehta). Rašytiniuose paminkluose niekur negalėjau rasti duo­
+    menų apie šią dievybę, tik J. F. R. kronikoje, kur pasakyta: „Se­
+    novės lietuviai ir jų giminaičiai kuršiai garbino Kruonį (Kro­
+    nis), arba Metą (Mehta), neva laiko arba laiko tarpsnių dei­
+    vę“. Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas
+    laiko tarpas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

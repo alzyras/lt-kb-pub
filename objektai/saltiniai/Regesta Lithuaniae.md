@@ -151,7 +151,11 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
     savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
     kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
     paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
-  citata_rodoma: "Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų\n\n  540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.\n156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162)."
+  citata_rodoma: |
+    Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
+
+      540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.
+    156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

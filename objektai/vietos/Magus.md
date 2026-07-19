@@ -74,7 +74,10 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
     Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­
     lapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma
     lietuvių-latvių plotais.
-  citata_rodoma: "Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­\nlapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma\nlietuvių-latvių plotais."
+  citata_rodoma: |
+    Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­
+    lapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma
+    lietuvių-latvių plotais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

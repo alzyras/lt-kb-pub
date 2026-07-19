@@ -272,7 +272,20 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     neseniai priėmę krikščionių
     tikėjimą ir nė trupučio jam neatšalę, karštai gerbė po­
     piežiaus žodį.
-  citata_rodoma: "397\n\n## Puslapis 396\n\nDanijos karalius ir Pomeranijos kunigaikštis, atvykę\nkryžiuočiams į pagalbą ir supratę, kas teisus ir netei­\nsus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,\nperėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,\nkuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu\nšie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­\nsirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o\nkaralius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į\nSrodą, vos neprarado gyvybės."
+  citata_rodoma: |
+    397
+
+    ## Puslapis 396
+
+    Danijos karalius ir Pomeranijos kunigaikštis, atvykę
+    kryžiuočiams į pagalbą ir supratę, kas teisus ir netei­
+    sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,
+    perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,
+    kuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu
+    šie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­
+    sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
+    karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
+    Srodą, vos neprarado gyvybės.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

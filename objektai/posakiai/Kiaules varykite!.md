@@ -70,7 +70,10 @@ Ganymo šūksnis.
     Juodu eidamu
     gatve iš viso vieko rėkia kartu: „Kiaules varykite!“ , o paukšindami rim­
     bais šaukia į kovą šunis.
-  citata_rodoma: "Juodu eidamu\ngatve iš viso vieko rėkia kartu: „Kiaules varykite!“ , o paukšindami rim­\nbais šaukia į kovą šunis."
+  citata_rodoma: |
+    Juodu eidamu
+    gatve iš viso vieko rėkia kartu: „Kiaules varykite!“ , o paukšindami rim­
+    bais šaukia į kovą šunis.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

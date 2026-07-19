@@ -86,7 +86,12 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
     kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
     Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
     iki 20 000.
-  citata_rodoma: "Lietuviai at-\nkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti \nkelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus). \nSovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino \niki 20 000."
+  citata_rodoma: |
+    Lietuviai at-
+    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
+    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
+    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
+    iki 20 000.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

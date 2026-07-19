@@ -138,7 +138,16 @@ Nenurodyta
     permaldavimo auka tapo tokia, kad vaidila pats susižeisdavo
     ir savo kraują atnašaudavo dievams kaip auką, o prie Pokliaus
     stabo dėdavo gyvulio galvą.
-  citata_rodoma: "Nėra priežasties abejoti, kad se­\nnovės laikais tai buvo bendras lietuvių protėvių paprotys, ta­\nčiau labai seniai užmirštas, kadangi kryžiuočių rašytojai, iš­\nvardydami pavergtos tautos nedorybes, nebūtų pamiršę tai pa­\nminėti. Tačiau šito papročio liekana yra ši auka. Ji susidėdavo\niš didžiosios aukos ir bendrų vaišių; jų metu ant laužo sude­\ngindavo ką nors iš žymiausių belaisvių, paimtų su ginklu ran­\nkoje kovos lauke, su jo žirgu, su visa karine apranga ir gin­\nklais."
+  citata_rodoma: |
+    Nėra priežasties abejoti, kad se­
+    novės laikais tai buvo bendras lietuvių protėvių paprotys, ta­
+    čiau labai seniai užmirštas, kadangi kryžiuočių rašytojai, iš­
+    vardydami pavergtos tautos nedorybes, nebūtų pamiršę tai pa­
+    minėti. Tačiau šito papročio liekana yra ši auka. Ji susidėdavo
+    iš didžiosios aukos ir bendrų vaišių; jų metu ant laužo sude­
+    gindavo ką nors iš žymiausių belaisvių, paimtų su ginklu ran­
+    koje kovos lauke, su jo žirgu, su visa karine apranga ir gin­
+    klais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -161,7 +170,14 @@ Nenurodyta
     vokiamas, bet ir atnašaujant permaldavimo auką būdavo gali­
     ma išgirsti nematomą šnabždesį; tuo Poklius apreikšdavo, kad
     dievai pasitenkina ta auka15.
-  citata_rodoma: "Užsodinę riterį ant žirgo, apvesdavo tris kartus aplink\naukojamąjį aukurą; tada, įvedę tarp keturių stulpų, įkastų į\nžemę, raitelį ir žirgą surišdavo grandinėmis, apdėdavo dervin­\ngomis ir sausomis malkomis aukščiau riterio galvos, kad jo nė\nnebūtų matyti, pagaliau padegdavo. Jeigu būdavo keli vieno­\ndai kilmingi belaisviai, liepdavo traukti burtus, kurio eilė.\n9."
+  citata_rodoma: |
+    Užsodinę riterį ant žirgo, apvesdavo tris kartus aplink
+    aukojamąjį aukurą; tada, įvedę tarp keturių stulpų, įkastų į
+    žemę, raitelį ir žirgą surišdavo grandinėmis, apdėdavo dervin­
+    gomis ir sausomis malkomis aukščiau riterio galvos, kad jo nė
+    nebūtų matyti, pagaliau padegdavo. Jeigu būdavo keli vieno­
+    dai kilmingi belaisviai, liepdavo traukti burtus, kurio eilė.
+    9.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

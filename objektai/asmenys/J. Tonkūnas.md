@@ -64,7 +64,8 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
     ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
     bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
     bui ir teikė reikiamos paramos.
-  citata_rodoma: "|"
+  citata_rodoma: |
+    |
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -692,7 +692,16 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
     gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
     viu.
-  citata_rodoma: "Ypač pagarsėjo \nVilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė \nuniversiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­\nventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­\nmatą bei netikrų krikščionių dievus, draugijos nariai pasivadino \nsenovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­\nkūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­\ngantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla- \nviu."
+  citata_rodoma: |
+    Ypač pagarsėjo
+    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
+    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
+    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
+    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
+    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
+    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
+    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
+    viu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -716,7 +725,17 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     Taip pat kronikos liudija, jog šio dievo stabas, spirale susi­
     raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū­
     no; varinis dievas buvęs su vidutinio amžiaus žmogaus galva.
-  citata_rodoma: "Že­\nmaitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,\nvardu „ Dzivsvits “:r\\\nTai bus bendras jūrų ir kitų vandenų, kuriais plaukiota,\ndievas ir laivininkų globėjas. Lietuviai gyveno susisiekiančia­\nme su jūra krašte, kuriame daug visokių didelių vandenų, to­\ndėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi\njie negalėjo apsieiti be savo Neptūno. Gyvenantys prie ežerų\nlietuviai šaukdavosi to paties dievo, vadindami jį Ežeriniu (Eže­\nrinis). Vienintelis Lasickis išsaugojo mums šį faktą."
+  citata_rodoma: |
+    Že­
+    maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,
+    vardu „ Dzivsvits “:r\
+    Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota,
+    dievas ir laivininkų globėjas. Lietuviai gyveno susisiekiančia­
+    me su jūra krašte, kuriame daug visokių didelių vandenų, to­
+    dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
+    jie negalėjo apsieiti be savo Neptūno. Gyvenantys prie ežerų
+    lietuviai šaukdavosi to paties dievo, vadindami jį Ežeriniu (Eže­
+    rinis). Vienintelis Lasickis išsaugojo mums šį faktą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -761,7 +780,13 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     džių trejybė.
     Seniausiems ir drauge labiausiai paplitusiems mitams pri­
     klauso mitas apie Kabirus.
-  citata_rodoma: "Patelas (Patelo)\nSkraidančių oro dvasių dievas, savitas aukščiausiosios ka­\ntegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą\njis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.\nJo garbei kiekvienas namuose laikydavo numirėlio kaukolę.\nLasickis jį žino kaip Algį (Algis)."
+  citata_rodoma: |
+    Patelas (Patelo)
+    Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
+    tegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą
+    jis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
+    Jo garbei kiekvienas namuose laikydavo numirėlio kaukolę.
+    Lasickis jį žino kaip Algį (Algis).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -782,7 +807,14 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     griežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai­
     ko kažką panašaus į skeptrą, dešiniojoje - lyg Jupiterio deglą,
     fulgur.
-  citata_rodoma: "Šauktis Moterų Gabijos -  tai paprotys\nkepėjų, norinčių, kad gerai nusisektų duona*.\nPerkūnaitėlė (Perkunatele)\n„Ji yra žaibo ir griausmo motina, kuri saulę, nuvargusią ir\ndulkiną, išprausia maudyklėje; po to, kitą dieną, išleidžia šva­\nrią ir švytinčią“, -  sako Lasickis. Su Perkūnu ji dalijosi valdžia\ndanguje ir žemėje, panašiu vardu lietuvių šaukiama."
+  citata_rodoma: |
+    Šauktis Moterų Gabijos -  tai paprotys
+    kepėjų, norinčių, kad gerai nusisektų duona*.
+    Perkūnaitėlė (Perkunatele)
+    „Ji yra žaibo ir griausmo motina, kuri saulę, nuvargusią ir
+    dulkiną, išprausia maudyklėje; po to, kitą dieną, išleidžia šva­
+    rią ir švytinčią“, -  sako Lasickis. Su Perkūnu ji dalijosi valdžia
+    danguje ir žemėje, panašiu vardu lietuvių šaukiama.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -804,7 +836,11 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
     namų Kronie.
-  citata_rodoma: "Aušra (Aussra)\nRyto deivė.\nLasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­\ndas vadina ją Aurora."
+  citata_rodoma: |
+    Aušra (Aussra)
+    Ryto deivė.
+    Lasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­
+    das vadina ją Aurora.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -824,7 +860,12 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     žadinti miegančiuosius. Tik tiek težinome iš Lasickio.
     Tačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos
     priešingybė, kitaip sakant, nekentė tamsos ir miegalių.
-  citata_rodoma: "Kaip tik čia vieta pacituoti Lasickio žodžius: „Kur\ntikėjimas, ten ir rezultatas“.\nRatainyčia (Ratajniczu)\nDeivė, globojanti jojamuosius arklius. Tą reiškia pats var­\ndas, ir Lasickis nurodo jį, remdamasis savo tyrimais."
+  citata_rodoma: |
+    Kaip tik čia vieta pacituoti Lasickio žodžius: „Kur
+    tikėjimas, ten ir rezultatas“.
+    Ratainyčia (Ratajniczu)
+    Deivė, globojanti jojamuosius arklius. Tą reiškia pats var­
+    das, ir Lasickis nurodo jį, remdamasis savo tyrimais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -843,7 +884,12 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     tėje „Į skaitytoją“, dėsto eilėmis 1748 ir 1749 metais Vilniuje
     įvykusių gaisrų nelaimingą istoriją. Toliau jis pateikia ilgą su­
     degusių namų sąrašą.
-  citata_rodoma: "Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­\nšiai -  Uhsinsz arba Szwets uhsinsz21.\nRagutienė pati (Ragutenapati)\nDeivė, globojanti tik aludarystę, o pagal savo vardą -  Ra­\ngučio žmona. Lasickis apsiriko laikydamas ją dievu."
+  citata_rodoma: |
+    Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­
+    šiai -  Uhsinsz arba Szwets uhsinsz21.
+    Ragutienė pati (Ragutenapati)
+    Deivė, globojanti tik aludarystę, o pagal savo vardą -  Ra­
+    gučio žmona. Lasickis apsiriko laikydamas ją dievu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -914,7 +960,13 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     nantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af­
     rikos Sacharos dykumos gyventojams’, tai kodėl tą turėtume
     užginčyti lietuvių tautai?
-  citata_rodoma: "Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-\ntusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie\njas dingo kartu su jų netektimi. Vis dėlto išliko neabejotinų\nfaktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­\ndavo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­\nčionių, tai yra ne kiekvienas jose galėdavo dalyvauti."
+  citata_rodoma: |
+    Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
+    tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
+    jas dingo kartu su jų netektimi. Vis dėlto išliko neabejotinų
+    faktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­
+    davo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­
+    čionių, tai yra ne kiekvienas jose galėdavo dalyvauti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -935,7 +987,18 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
     damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
     dievą.
-  citata_rodoma: "201\n\n## Puslapis 201\n\nmitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi\ngal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas\nDlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo\nfetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką\nišaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­\nminė, jokie namai, net daug pavienių asmenų negyveno be\nsavo asmeninių fetišų."
+  citata_rodoma: |
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -963,7 +1026,11 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: "Burtininkė (Burte)\nLietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­\nvo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­\ndinimas yra Lasickio mitologijoje."
+  citata_rodoma: |
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­
+    vo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­
+    dinimas yra Lasickio mitologijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1012,7 +1079,18 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     galinga dešine svaido žaibus, nuo trenksmo net žemė dreba,
     gyvuliai bėga, žmonių širdis persmelkia nerimas, o jis smogia
     strėle į vieną kurį kalną.
-  citata_rodoma: "Tačiau iš visų dalykų, kuriuos tas senasis\nautorius yra parašęs apie lietuvių mitologiją, pastebime, kad\njis nebuvo mokovas lietuvių arba žemaičių kalbos; jos abi su­\ndaro tą pačią kalbą, labai mažai tesiskirdamos; galima ją va­\ndinti provincine. Todėl manome, kad Lasickis padarė aiškią\nklaidą, cituodamas tą maldelę, kurią grynai lietuviškai reiktų\ntaip rašyti: Perkūne Dewajte, ne muszk und mana: Tiewe, mel-\ndzio tawipaltu messu. Pažodžiui bus: „Perkūne dievaiti, tai yra,\nmaloningasis dieve, netrenk į mano (turtą), nedaryk man ža­\nlos; tėve, atnešu tau su malda pusę riebios kiaulės skerdie­\n1 Disquisitiones magicae."
+  citata_rodoma: |
+    Tačiau iš visų dalykų, kuriuos tas senasis
+    autorius yra parašęs apie lietuvių mitologiją, pastebime, kad
+    jis nebuvo mokovas lietuvių arba žemaičių kalbos; jos abi su­
+    daro tą pačią kalbą, labai mažai tesiskirdamos; galima ją va­
+    dinti provincine. Todėl manome, kad Lasickis padarė aiškią
+    klaidą, cituodamas tą maldelę, kurią grynai lietuviškai reiktų
+    taip rašyti: Perkūne Dewajte, ne muszk und mana: Tiewe, mel-
+    dzio tawipaltu messu. Pažodžiui bus: „Perkūne dievaiti, tai yra,
+    maloningasis dieve, netrenk į mano (turtą), nedaryk man ža­
+    los; tėve, atnešu tau su malda pusę riebios kiaulės skerdie­
+    1 Disquisitiones magicae.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1041,7 +1119,18 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     amžinas paprotys, jog vestuvių apeigose vadovaujamasi ne vy­
     ro, o nuotakos tautiniu papročiu; kurios tautos buvo jaunoji,
     pagal tos tautos apeigas vyko ir vestuvės.
-  citata_rodoma: "347\n\n## Puslapis 347\n\nmyn, kaip tai darė kitos tautos amžininkės, o atgal. Vis dėlto\nLasickis mums paliko pirmos alaus statinės pradėjimo apeigų\naprašymą, nors nedaug vertą, bet praleisti jį, kaip senovės pa­\nminklą, nederėtų. Kai išvirtą alų pastatydavo rūsyje ir ketin­\ndavo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir­\nmos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-\nmas), deivės Ragutienės garbei."
+  citata_rodoma: |
+    347
+
+    ## Puslapis 347
+
+    myn, kaip tai darė kitos tautos amžininkės, o atgal. Vis dėlto
+    Lasickis mums paliko pirmos alaus statinės pradėjimo apeigų
+    aprašymą, nors nedaug vertą, bet praleisti jį, kaip senovės pa­
+    minklą, nederėtų. Kai išvirtą alų pastatydavo rūsyje ir ketin­
+    davo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir­
+    mos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-
+    mas), deivės Ragutienės garbei.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1070,7 +1159,15 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     kotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo
     medvežych, y dla toho tyle nohty podle nich kladyvali, na koto-
     22 Lucas David.
-  citata_rodoma: "Tai visiškai primena Antikos žmonių\nCircumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-\nlonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be\nšitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­\nvosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia\napeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.\nTa diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­\nmas visiems savo mirusiesiems pagerbti."
+  citata_rodoma: |
+    Tai visiškai primena Antikos žmonių
+    Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
+    lonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be
+    šitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­
+    vosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia
+    apeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.
+    Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­
+    mas visiems savo mirusiesiems pagerbti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

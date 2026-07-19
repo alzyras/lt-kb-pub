@@ -102,7 +102,17 @@ Nenurodyta
     savo šalį. Jie veikia organizuotai, tik jų
     struktūros formuojamos ne nurodymu iš
     aukščiau, bet iniciatyva iš apačios.
-  citata_rodoma: "Lietuvos specialiųjų operacijų pajėgų\nkarių kvalifikacinis antsiuvas. Žaliukas\ntai kovingos tautos dalies būsena pavojuje.\nJis nepakantus jokiai okupacijai. Kritiniu\nmomentu, kai nebelieka oficialios val-\ndžios, žaliukai natūraliai buriasi ginti\n\nsavo šalį. Jie veikia organizuotai, tik jų\nstruktūros formuojamos ne nurodymu iš\naukščiau, bet iniciatyva iš apačios."
+  citata_rodoma: |
+    Lietuvos specialiųjų operacijų pajėgų
+    karių kvalifikacinis antsiuvas. Žaliukas
+    tai kovingos tautos dalies būsena pavojuje.
+    Jis nepakantus jokiai okupacijai. Kritiniu
+    momentu, kai nebelieka oficialios val-
+    džios, žaliukai natūraliai buriasi ginti
+
+    savo šalį. Jie veikia organizuotai, tik jų
+    struktūros formuojamos ne nurodymu iš
+    aukščiau, bet iniciatyva iš apačios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

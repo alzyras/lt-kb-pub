@@ -119,7 +119,18 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
     lotyniškąsias, prarado viltį
     tapti sosto įpėdiniu. Neilgai
     trukus po to sugrįžęs į Podolę, jis čia ir mirė.
-  citata_rodoma: "Beveik tuo pat metu karalius\nKazimieras bei lenkų senatas karalystės seime tarėsi\ndėl sosto įpėdinio. Kurie ne kurie metraštininkai tei­\ngia, jog į šį garbingą postą buvęs kviečiamas, suta­\nriant ir karaliui, ir senatui, Konstantinas Karijotaitis,\nAlgirdo brolėnas. Jis nuvy­\nko į Krokuvą, tačiau, net dėl\nsosto nepanorėjęs išsižadėti\nrusiškųjų apeigų ir pereiti į\nlotyniškąsias, prarado viltį\ntapti sosto įpėdiniu."
+  citata_rodoma: |
+    Beveik tuo pat metu karalius
+    Kazimieras bei lenkų senatas karalystės seime tarėsi
+    dėl sosto įpėdinio. Kurie ne kurie metraštininkai tei­
+    gia, jog į šį garbingą postą buvęs kviečiamas, suta­
+    riant ir karaliui, ir senatui, Konstantinas Karijotaitis,
+    Algirdo brolėnas. Jis nuvy­
+    ko į Krokuvą, tačiau, net dėl
+    sosto nepanorėjęs išsižadėti
+    rusiškųjų apeigų ir pereiti į
+    lotyniškąsias, prarado viltį
+    tapti sosto įpėdiniu.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -149,7 +160,20 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
     menecą davė valdyti savo vardu Goštautui Goštautai-
     čiui M. Ir visuose tuose miestuose pastatęs savo seniū­
     nus, leidosi atgalios.
-  citata_rodoma: "Podolėje veikė jų  paskirti atamanai, ku­\nrie tvarkė visas pajamas, o pas juos atvykdavo totorių \nbaskakai ir, surinkę iš tų atamanų duoklę, išgabendavo \nją j Ordą.\nO didžiojo kunigaikščio Algirdo brolis Karijotas \nvaldė Lietuvos Naugarduką, ir jis turėjo keturis4  sū­\nnus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni­\ngaikštį Konstantiną ir kunigaikštį Teodorą. Ir štai tie \nkunigaikščiai — trys broliai Karijotaičiai, leidus jų dė­\ndei, didžiajam kunigaikščiui Algirdui, ir su lietuvių \npagalba ištraukė į Podolės žemę5 , o tais laikais Podo­\nlės žemėje nebuvo nė vienos pilies — nei medinės, nei \nmūrinės."
+  citata_rodoma: |
+    Podolėje veikė jų  paskirti atamanai, ku­
+    rie tvarkė visas pajamas, o pas juos atvykdavo totorių
+    baskakai ir, surinkę iš tų atamanų duoklę, išgabendavo
+    ją j Ordą.
+    O didžiojo kunigaikščio Algirdo brolis Karijotas
+    valdė Lietuvos Naugarduką, ir jis turėjo keturis4  sū­
+    nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni­
+    gaikštį Konstantiną ir kunigaikštį Teodorą. Ir štai tie
+    kunigaikščiai — trys broliai Karijotaičiai, leidus jų dė­
+    dei, didžiajam kunigaikščiui Algirdui, ir su lietuvių
+    pagalba ištraukė į Podolės žemę5 , o tais laikais Podo­
+    lės žemėje nebuvo nė vienos pilies — nei medinės, nei
+    mūrinės.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

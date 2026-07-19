@@ -706,7 +706,13 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     miausia ir naujoviškiausia), čia yra tiek mažai autentiškumo,
     kad vėlesnis istorikas, norėdamas pasinaudoti pono Narbuto
     darbu, ilgai dvejos, kol išdrįs iš ten ką nors paimti“29 30.
-  citata_rodoma: "Šių „laiškų“ dauguma buvo skirta 1856 metais pa­\nsirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.\nStraipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie\npriskiriami istoriko, publicisto Mykolo Balinskio plunksnai.\nVadinasi, jis galėjo būti ir anoniminės „Lietuvių mitologijos“\nrecenzijos autorius."
+  citata_rodoma: |
+    Šių „laiškų“ dauguma buvo skirta 1856 metais pa­
+    sirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.
+    Straipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie
+    priskiriami istoriko, publicisto Mykolo Balinskio plunksnai.
+    Vadinasi, jis galėjo būti ir anoniminės „Lietuvių mitologijos“
+    recenzijos autorius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -729,7 +735,17 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     nalumas labai primena kitą rašinį, tiksliau sakant, straips­
     nių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus
     1 Ten pat.
-  citata_rodoma: "4 4 0\n\n## Puslapis 450\n\nmetus buvo spausdinamas „Gazeta Warszawska“ pusla­\npiuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais\npasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“\nkritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo\nišaiškinta — jie priskiriami istoriko, publicisto Mykolo\nBalinskio plunksnai."
+  citata_rodoma: |
+    4 4 0
+
+    ## Puslapis 450
+
+    metus buvo spausdinamas „Gazeta Warszawska“ pusla­
+    piuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais
+    pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“
+    kritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo
+    išaiškinta — jie priskiriami istoriko, publicisto Mykolo
+    Balinskio plunksnai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -753,7 +769,13 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     piuose1. Šių „laiškų“ dauguma buvo skirta 1856 metais
     pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“
     kritikai2.
-  citata_rodoma: "Vadinasi, jis galėjo būti ir anoni­\nminės „Lietuvių mitologijos“ recenzijos autorius. Bet tai\ntik hipotezė, rašinys galėjo būti ir kolektyvinio darbo\nvaisius. Vis dėlto reikėtų manyti, kad „Lietuvių mitolo­\ngijos“ recenzentas nebuvo vienas iš artimiausių T. Nar­\nbuto bičiulių."
+  citata_rodoma: |
+    Vadinasi, jis galėjo būti ir anoni­
+    minės „Lietuvių mitologijos“ recenzijos autorius. Bet tai
+    tik hipotezė, rašinys galėjo būti ir kolektyvinio darbo
+    vaisius. Vis dėlto reikėtų manyti, kad „Lietuvių mitolo­
+    gijos“ recenzentas nebuvo vienas iš artimiausių T. Nar­
+    buto bičiulių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -83,7 +83,14 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
     memoriale Albertas Goštautas iškyla kaip Lietuvos
     valstybės gelbėtojas, valdant Kazimiero sūnui Žygi­
     mantui II.
-  citata_rodoma: "Pagaliau, bene svarbiausias liudininkas Alberto Goš­\ntauto naudai yra jo paties memorialas lotynų kalba, \nrašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku­\nnigaikščio Žygimanto II Kazimieraičio žmonai karalie­\nnei Bonai Sforcai 5 8 . Dėmesį į šio kūrinio reikšmę at­\nkreipė J. Ochmanskis 5 9 . Sis įdomus Renesanso epochos\n5 1  2r."
+  citata_rodoma: |
+    Pagaliau, bene svarbiausias liudininkas Alberto Goš­
+    tauto naudai yra jo paties memorialas lotynų kalba,
+    rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku­
+    nigaikščio Žygimanto II Kazimieraičio žmonai karalie­
+    nei Bonai Sforcai 5 8 . Dėmesį į šio kūrinio reikšmę at­
+    kreipė J. Ochmanskis 5 9 . Sis įdomus Renesanso epochos
+    5 1  2r.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

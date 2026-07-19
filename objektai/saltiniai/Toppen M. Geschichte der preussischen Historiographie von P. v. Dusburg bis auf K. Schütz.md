@@ -81,7 +81,9 @@ Dusburgietis teigia, kad toppen M.
     Лексические и фразеологические вопросы реконструкции текстов. — М., 1974.
     Иванов В. В., Топоров В. Н. Мифологические географические названия как
     источник для реконструкции этногенеза и древнейшей истории славян.
-  citata_rodoma: "Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.\nSchütz.—Berlin, 1853."
+  citata_rodoma: |
+    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
+    Schütz.—Berlin, 1853.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

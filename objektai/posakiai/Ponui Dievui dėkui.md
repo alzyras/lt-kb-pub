@@ -76,7 +76,8 @@ Trumpa padėkos formulė.
     kiekvienas
     nuo širdies pasako:
     „Ponui Dievui dėkui“ .
-  citata_rodoma: "„Ponui Dievui dėkui“ ."
+  citata_rodoma: |
+    „Ponui Dievui dėkui“ .
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

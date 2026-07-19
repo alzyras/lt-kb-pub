@@ -148,7 +148,16 @@ Nenurodyta
     Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
     jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
     uniformų, reikalingos ekipuotės.
-  citata_rodoma: "1919 m. Jesu P k\nvertė trauktis Kolupių kaime, prie vieškelio\niš Kėdainių į Šėtą, buvusią Panevėžio būrio\n\nLIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS\n\nBesikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-\njėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo\nuniformų, reikalingos ekipuotės."
+  citata_rodoma: |
+    1919 m. Jesu P k
+    vertė trauktis Kolupių kaime, prie vieškelio
+    iš Kėdainių į Šėtą, buvusią Panevėžio būrio
+
+    LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS
+
+    Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
+    jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
+    uniformų, reikalingos ekipuotės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -177,7 +186,16 @@ Nenurodyta
     abipus vieškelio Kėdainiai-Šėta, efektyvia
     šautuvų ugnimi įstengė sustabdyti priešo
     puolimą.
-  citata_rodoma: "Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į\nkariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-\nvas ir geltonas lankelis ant kepurės.\n\nLietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo\nLietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su\nšūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)\n\nKėdainių gynyba Karininkai J."
+  citata_rodoma: |
+    Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
+    kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
+    vas ir geltonas lankelis ant kepurės.
+
+    Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
+    Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
+    šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)
+
+    Kėdainių gynyba Karininkai J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

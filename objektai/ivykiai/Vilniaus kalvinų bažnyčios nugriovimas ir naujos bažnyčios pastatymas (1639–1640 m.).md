@@ -82,7 +82,11 @@ Nenurodyta
     ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
     niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
     miesto (1640 m.).
-  citata_rodoma: "Paskui prasidėjo\nilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-\nniuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už\nmiesto (1640 m.)."
+  citata_rodoma: |
+    Paskui prasidėjo
+    ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
+    niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
+    miesto (1640 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

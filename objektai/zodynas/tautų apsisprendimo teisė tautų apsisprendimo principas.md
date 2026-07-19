@@ -177,7 +177,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
     kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
     Suvalkų ir Gardino gubernijose, dalis Kuršo.
-  citata_rodoma: "kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,"
+  citata_rodoma: |
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +201,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     du ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietu-
     va yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami
     visi buvę valstybiniai ryšiai su kitomis valstybėmis.
-  citata_rodoma: "va yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami"
+  citata_rodoma: |
+    va yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -225,7 +227,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
     tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
     Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
-  citata_rodoma: "Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų"
+  citata_rodoma: |
+    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -246,7 +249,12 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
     buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
     jūrą.
-  citata_rodoma: "Prancūzija Žoržo B. Klemanso \n(Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai \nnepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada \nbuvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į \njūrą."
+  citata_rodoma: |
+    Prancūzija Žoržo B. Klemanso
+    (Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai
+    nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
+    buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
+    jūrą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

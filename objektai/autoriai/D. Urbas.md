@@ -128,7 +128,9 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
     laikomas moderniosios mitologijos (o kartais net iš viso mito­
     logijos) mokslo pradžia, pasirodė tais pačiais metais (1835),
     kaip ir T. Narbuto „Lietuvių mitologija“.
-  citata_rodoma: "8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė\nD. Urbas. -  V, 1959. -  P. 330-417."
+  citata_rodoma: |
+    8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė
+    D. Urbas. -  V, 1959. -  P. 330-417.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -152,7 +154,9 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
     netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
     Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
     „kurie yra veikale „Tūkstantis ir viena naktis“28 29.
-  citata_rodoma: "22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.\nKomentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959."
+  citata_rodoma: |
+    22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
+    Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -105,7 +105,15 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
     kalmukus (jie turėtų būti mongolų palikuonys), bet vis dėlto ne tokį
     ryškų, kaip tat matome buvus pas senovės lietuvius (Potocki J. Podrož
     doAstrahanu // Dziennik Wilenski.
-  citata_rodoma: "Slynksnis-Perlevenu (Slynxnis-Perlewenu)\nBendras namų dievaitis, namų ir žemdirbio nuosavybės glo­\nbėjas. 2\n2\nUkrainos slavai turėjo krikšto vardą Kūnas; tokį vardą turėjo\ntėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.\nStrijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių\nkalba Kūnas reiškia kūną, mėsą."
+  citata_rodoma: |
+    Slynksnis-Perlevenu (Slynxnis-Perlewenu)
+    Bendras namų dievaitis, namų ir žemdirbio nuosavybės glo­
+    bėjas. 2
+    2
+    Ukrainos slavai turėjo krikšto vardą Kūnas; tokį vardą turėjo
+    tėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.
+    Strijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių
+    kalba Kūnas reiškia kūną, mėsą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

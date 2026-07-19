@@ -88,7 +88,8 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
     Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
     liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
     ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
-  citata_rodoma: "liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę"
+  citata_rodoma: |
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -109,7 +110,8 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
     ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
     cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
     valdymą.
-  citata_rodoma: "(įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),"
+  citata_rodoma: |
+    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

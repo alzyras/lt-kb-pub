@@ -108,7 +108,23 @@ media_all_json: |-
     tarojo mūro nuėmęs priskyrė kahale investuotoms sumoms,
     nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha-
     lo yra atiduodamas.
-  citata_rodoma: "Juraha taip pat prie kole­\ngijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,\n187\n\n## Puslapis 204\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nValerijono bursai perleido, nuo kurios studentų dėlei kas­\nmet po 260 auksinų gauna, o 40 auksinų eina tam mūriniam \nnamui remontuoti.\nO kadangi tas mūras kadaise buvo įpareigotas už Uršulę \nir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 \nauksinų, todėl tasai t. Juraha to viderkafto mokestį nuo pas­\ntarojo mūro nuėmęs priskyrė kahale investuotoms sumoms, \nnuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha- \nlo yra atiduodamas."
+  citata_rodoma: |
+    Juraha taip pat prie kole­
+    gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
+    187
+
+    ## Puslapis 204
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Valerijono bursai perleido, nuo kurios studentų dėlei kas­
+    met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam
+    namui remontuoti.
+    O kadangi tas mūras kadaise buvo įpareigotas už Uršulę
+    ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140
+    auksinų, todėl tasai t. Juraha to viderkafto mokestį nuo pas­
+    tarojo mūro nuėmęs priskyrė kahale investuotoms sumoms,
+    nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha-
+    lo yra atiduodamas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -137,7 +153,19 @@ media_all_json: |-
     konvikto gyventojams 8 nuošimčius mokėjo.
     O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
     šimčius, kas metinių pajamų tesudaro 165 auksinus.
-  citata_rodoma: "186\n\n## Puslapis 203\n\nIl KNYGA\n1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą \ndavė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 \nauksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo \nžydams; nuo šios sumos kahalas iki 1763 metų Valerijono \nkonvikto gyventojams 8 nuošimčius mokėjo.\nO nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­\nšimčius, kas metinių pajamų tesudaro 165 auksinus."
+  citata_rodoma: |
+    186
+
+    ## Puslapis 203
+
+    Il KNYGA
+    1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
+    davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500
+    auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
+    žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
+    konvikto gyventojams 8 nuošimčius mokėjo.
+    O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
+    šimčius, kas metinių pajamų tesudaro 165 auksinus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

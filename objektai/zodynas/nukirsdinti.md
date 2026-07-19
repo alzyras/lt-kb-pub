@@ -56,7 +56,10 @@ Kai Jogaila jį perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti.
     dimą per derybas Vytautas buvo paėmęs širdin. Kai Jogaila jį
     perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti. Dau­
     guma belaisvių, ypač algauninkai, buvo paleisti.
-  citata_rodoma: "Kai Jogaila jį\nperdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti. Dau­\nguma belaisvių, ypač algauninkai, buvo paleisti."
+  citata_rodoma: |
+    Kai Jogaila jį
+    perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti. Dau­
+    guma belaisvių, ypač algauninkai, buvo paleisti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

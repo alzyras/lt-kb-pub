@@ -86,7 +86,10 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
     Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
     Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
     Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
-  citata_rodoma: "Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka\nPrie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.\nMergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos."
+  citata_rodoma: |
+    Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
+    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
+    Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +111,15 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
     241
     nesilaikys SSRS konstitucijos.
-  citata_rodoma: "Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka\nPrie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.  \nMergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos. \nAlgirdo Sabaliausko nuotrauka\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n241\nnesilaikys SSRS konstitucijos."
+  citata_rodoma: |
+    Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
+    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
+    Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
+    Algirdo Sabaliausko nuotrauka
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    241
+    nesilaikys SSRS konstitucijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

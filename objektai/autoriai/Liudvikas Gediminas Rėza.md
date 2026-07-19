@@ -89,7 +89,12 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
     Prapule manu owate.
     Ajl Kas gelbės jeszkoti,
     Manu ^vienturte owatę?
-  citata_rodoma: "Rėza. Dainės)*.\nVisa ši dainelė yra mitologinė: joje papasakotas ištekan­\nčios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,\narba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­\nužsimenama."
+  citata_rodoma: |
+    Rėza. Dainės)*.
+    Visa ši dainelė yra mitologinė: joje papasakotas ištekan­
+    čios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,
+    arba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­
+    užsimenama.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

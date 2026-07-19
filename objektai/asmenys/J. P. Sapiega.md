@@ -90,7 +90,10 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
     @ J.P. Sapiegos ir T. Dambravos raiteliai su-
     sikauna su atakuojančia švedų kavalerija
     flanguose.
-  citata_rodoma: "@ J.P. Sapiegos ir T. Dambravos raiteliai su-\nsikauna su atakuojančia švedų kavalerija\nflanguose."
+  citata_rodoma: |
+    @ J.P. Sapiegos ir T. Dambravos raiteliai su-
+    sikauna su atakuojančia švedų kavalerija
+    flanguose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +115,16 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
     Vilnių. Kartu su juo pasitraukė
     iždininkas B. P. Sapiega ir marša-
     las A. P. Sapiega bei totorių vėliavos.
-  citata_rodoma: "Užnugaryje buvę Sapiegas rėmę\nbajorų pašauktiniai pasitraukė iš\nmūšio lauko. Etmonas, pama-\ntęs, kad jo kariuomenė supama,\nir kad respublikonai jau užėmė\ngurguolę, nusprendė trauktis į\nVilnių. Kartu su juo pasitraukė\niždininkas B. P. Sapiega ir marša-\nlas A. P. Sapiega bei totorių vėliavos."
+  citata_rodoma: |
+    Užnugaryje buvę Sapiegas rėmę
+    bajorų pašauktiniai pasitraukė iš
+    mūšio lauko. Etmonas, pama-
+    tęs, kad jo kariuomenė supama,
+    ir kad respublikonai jau užėmė
+    gurguolę, nusprendė trauktis į
+    Vilnių. Kartu su juo pasitraukė
+    iždininkas B. P. Sapiega ir marša-
+    las A. P. Sapiega bei totorių vėliavos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +147,17 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
     M. Giedraičio vėliavos sugebėjo sumušti
     generolo H. Branto kavaleriją, kuri pradėjo
     trauktis.
-  citata_rodoma: "Tuomet didžiojo etmono dėmesys buvo\nnukreiptas į lietuvių dešinįjį sparną. Ar su-\ngebės rotmistro J. P. Sapiegos husarų ir pe-\ntihorų vėliavos atlaikyti pagrindinį Švedijos\nkariuomenės smūgį ir sužlugdyti Karolio\nIx planą apeiti Lietuvos kariuomenę.\nRotmistry J. P. Sapiegos, M. Vielamovskio,\nM. Giedraičio vėliavos sugebėjo sumušti\ngenerolo H. Branto kavaleriją, kuri pradėjo\ntrauktis."
+  citata_rodoma: |
+    Tuomet didžiojo etmono dėmesys buvo
+    nukreiptas į lietuvių dešinįjį sparną. Ar su-
+    gebės rotmistro J. P. Sapiegos husarų ir pe-
+    tihorų vėliavos atlaikyti pagrindinį Švedijos
+    kariuomenės smūgį ir sužlugdyti Karolio
+    Ix planą apeiti Lietuvos kariuomenę.
+    Rotmistry J. P. Sapiegos, M. Vielamovskio,
+    M. Giedraičio vėliavos sugebėjo sumušti
+    generolo H. Branto kavaleriją, kuri pradėjo
+    trauktis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

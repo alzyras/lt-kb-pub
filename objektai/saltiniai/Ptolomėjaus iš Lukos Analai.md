@@ -279,7 +279,14 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
     metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
     1236).
-  citata_rodoma: "Apie tamplierių ordino panaikinimą\n\n  1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas\nV, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet\napaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties\nmetais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.\n1236)."
+  citata_rodoma: |
+    Apie tamplierių ordino panaikinimą
+
+      1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas
+    V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet
+    apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
+    metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
+    1236).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -296,7 +303,11 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     kalbėjo: „Trečiame pasaulyje gims iš mergelės Marijos dievo sūnus ir kentės dėl žmonių
     išganymo“. Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo
     parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol.
-  citata_rodoma: "Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu\n\n  Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu\nprie šventojo altoriaus (Ptol. 21,4; Mart. p. 395)."
+  citata_rodoma: |
+    Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
+
+      Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu
+    prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -336,7 +347,10 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     pasakyti apie tris ketvirtadalius II-os dalies ir beveik apie pusę III-os, pagrindinės dalies
     pradžios (iki karo su Sventopelku pabaigos). Tik vienas ketvirtadalis kitų tos dalies skyrelių
     (iki antrojo prūsų sukilimo pabaigos, t. y. iki 137 skyrelio) gali turėti tokį pagrindą.
-  citata_rodoma: "Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus\nbibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.\npradžios įvykiais129."
+  citata_rodoma: |
+    Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
+    bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.
+    pradžios įvykiais129.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -377,7 +391,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
     597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: "Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus\nIII (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.)."
+  citata_rodoma: |
+    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
+    III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -394,7 +410,11 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 
       Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai
     (Ptol. 21,1 ir 2; Mart. p. 385).
-  citata_rodoma: "Apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius\n\n  Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai\n(Ptol. 21,1 ir 2; Mart. p. 385)."
+  citata_rodoma: |
+    Apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius
+
+      Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai
+    (Ptol. 21,1 ir 2; Mart. p. 385).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -432,7 +452,12 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
     bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento
     Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
-  citata_rodoma: "Apie gibelinus ir gvelfus\n\n  1228 viešpaties metais Italijoje radosi gibelinų  ir gvelfų partijos; šitai yra vardai\ndviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią\n(Ptol. 21,27)."
+  citata_rodoma: |
+    Apie gibelinus ir gvelfus
+
+      1228 viešpaties metais Italijoje radosi gibelinų  ir gvelfų partijos; šitai yra vardai
+    dviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią
+    (Ptol. 21,27).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -79,7 +79,8 @@ media_all_json: |-
     „Varpas“, įsteigtas Varšuvos lie-
     tuvių studentų draugijos „Lietu-
     va“.
-  citata_rodoma: "jo 1889 m. pradėtas leisti žurnalas"
+  citata_rodoma: |
+    jo 1889 m. pradėtas leisti žurnalas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

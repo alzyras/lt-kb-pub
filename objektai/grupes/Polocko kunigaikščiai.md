@@ -83,7 +83,11 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
     dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
     spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
     dakcijos nuorašų tekstais.
-  citata_rodoma: "1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­\nlocko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko \nLatvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko \npatekimo Lietuvos valdžion XIII a. viduryje."
+  citata_rodoma: |
+    1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
+    locko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko
+    Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko
+    patekimo Lietuvos valdžion XIII a. viduryje.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

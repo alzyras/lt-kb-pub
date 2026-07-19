@@ -79,7 +79,7 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173179
+    - c-173180
 
 <a id="claim-t-190297"></a>
 - t-003
@@ -157,7 +157,11 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
     kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
     ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
     vu.
-  citata_rodoma: "Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­\nginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­\npuliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų\nkalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų."
+  citata_rodoma: |
+    Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
+    ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
+    puliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų
+    kalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -188,7 +192,6 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190296
     - t-197293
 - id: c-173180
   autorius: "Teodoras Narbutas"
@@ -208,4 +211,5 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-190296
     - t-190297

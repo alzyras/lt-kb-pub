@@ -73,7 +73,8 @@ Apeiginis derliaus prašymas.
     Antrą sykį gieda tą patį
     „Pone Karaliau“ , sakydami: „dovanok laukams derlių“ , trečia sykį —
     „dovanok mums sveikatą“ , ir taip toliau pagal vadovo sumanymą.
-  citata_rodoma: "Antrą sykį gieda tą patį „Pone Karaliau“ , sakydami: „dovanok laukams derlių“ , trečia sykį —"
+  citata_rodoma: |
+    Antrą sykį gieda tą patį „Pone Karaliau“ , sakydami: „dovanok laukams derlių“ , trečia sykį —
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas

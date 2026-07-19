@@ -277,7 +277,10 @@ Nenurodyta
     buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-
     džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
     kapoti.
-  citata_rodoma: "buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-\n  džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-\n  kapoti."
+  citata_rodoma: |
+    buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-
+      džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
+      kapoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -297,7 +300,11 @@ Nenurodyta
     nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
     šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
-  citata_rodoma: "Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,\n  nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie\n  šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo\n  vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti."
+  citata_rodoma: |
+    Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
+      nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
+      šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
+      vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -315,7 +322,10 @@ Nenurodyta
     rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
     Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
-  citata_rodoma: "Kai Mykolas Sapiega pasidavė, bajo-\n  rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į\n  Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose)."
+  citata_rodoma: |
+    Kai Mykolas Sapiega pasidavė, bajo-
+      rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
+      Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -335,7 +345,14 @@ Nenurodyta
     artilerijos ir gurguolės puskarininkiams
 
     1920 m. lapkričio 17-21 d. GIEDRAIČIŲ KAUTYNĖS 209
-  citata_rodoma: "Lenkas, senas karys,\nirgi ilgai juk neatsiminė, kad turi pistoletą.“\n\n1917 m. modelio lenkiškas kardas, skirtas ulonų,\nartilerijos ir gurguolės puskarininkiams\n\n1920 m."
+  citata_rodoma: |
+    Lenkas, senas karys,
+    irgi ilgai juk neatsiminė, kad turi pistoletą.“
+
+    1917 m. modelio lenkiškas kardas, skirtas ulonų,
+    artilerijos ir gurguolės puskarininkiams
+
+    1920 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -373,7 +390,11 @@ Nenurodyta
     planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
     tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
     patrankų ir 200 kardų (raitelių).
-  citata_rodoma: "Nuo 1919 m. gegužės mėn. vidurio prasidėjo\n  planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos\n  tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10\n  patrankų ir 200 kardų (raitelių)."
+  citata_rodoma: |
+    Nuo 1919 m. gegužės mėn. vidurio prasidėjo
+      planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
+      tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
+      patrankų ir 200 kardų (raitelių).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

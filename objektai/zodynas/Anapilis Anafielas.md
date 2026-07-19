@@ -89,7 +89,12 @@ Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas nepriei
     išplatintų šventąjį tikėjimą per krikščionis, persekiojamus trė­
     mimo bausmės ir savo noru bėgančius į tolimas ir nežinomas
     šalis, kad išvengtų persekiojimo“.
-  citata_rodoma: "Padavimų apie pobūvio vietą po mirties būta tokių . Yra\nlabai aukštas kalnas, stati neprieinama uola, vadinama Ana­\npiliu (Anafielas), į kurią vėlės turėjo kopti. Todėl reikėjo ilgų\nžmonių, žvėrių nagų, ginklų, žirgų ir 1.1., kad būtų galima grei­\nčiau į ją įkopti."
+  citata_rodoma: |
+    Padavimų apie pobūvio vietą po mirties būta tokių . Yra
+    labai aukštas kalnas, stati neprieinama uola, vadinama Ana­
+    piliu (Anafielas), į kurią vėlės turėjo kopti. Todėl reikėjo ilgų
+    žmonių, žvėrių nagų, ginklų, žirgų ir 1.1., kad būtų galima grei­
+    čiau į ją įkopti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

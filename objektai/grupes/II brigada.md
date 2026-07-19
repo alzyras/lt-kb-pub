@@ -98,7 +98,32 @@ media_all_json: |-
     Antaliėp još
 
     Užpaliai | I brg.
-  citata_rodoma: "Į ope-\nraciją įsitraukė ir II brigada. Ji\nŠiaurės Rytų Lietuvoje įveik-\ndama vis dar atkaklų bolševikų\npasipriešinimą, ypač darniai\n\nveikdama, gerai derindama puolančiųjų\ndalių veiksmus su artilerijos parama, stūmė\nbolševikus iš vis dar okupuotų Lietuvos\n\nIŠKIS SUBATĖ\n\nI :\nAleksandravėlė\n\nII brigada\n\nKriaunosO\nSartų e2s\na Avilia\nDuse 0 —W\n\nAntaliėp još\n\nUžpaliai | I brg."
+  citata_rodoma: |
+    Į ope-
+    raciją įsitraukė ir II brigada. Ji
+    Šiaurės Rytų Lietuvoje įveik-
+    dama vis dar atkaklų bolševikų
+    pasipriešinimą, ypač darniai
+
+    veikdama, gerai derindama puolančiųjų
+    dalių veiksmus su artilerijos parama, stūmė
+    bolševikus iš vis dar okupuotų Lietuvos
+
+    IŠKIS SUBATĖ
+
+    I :
+    Aleksandravėlė
+
+    II brigada
+
+    KriaunosO
+    Sartų e2s
+    a Avilia
+    Duse 0 —W
+
+    Antaliėp još
+
+    Užpaliai | I brg.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -115,7 +140,11 @@ media_all_json: |-
     bolševikus trauktis už Dauguvos.
 
     Iki 30 d. lietuviai priartėja iki Daugpilio.
-  citata_rodoma: "Il brigada pralaužia gynybą ir 28 d. priverčia\nbolševikus trauktis už Dauguvos.\n\nIki 30 d."
+  citata_rodoma: |
+    Il brigada pralaužia gynybą ir 28 d. priverčia
+    bolševikus trauktis už Dauguvos.
+
+    Iki 30 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -187,7 +187,13 @@ Nenurodyta
     jūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių ge­
     nealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­
     tos.
-  citata_rodoma: "A. H. Kirkoras, A. Renjė bandė jį užtarti pe­\nriodikoje, pagirdami už iškelto ir realizuoto sumanymo di­\ndumą.\n1839 m. istorikas nusiuntė penkis savo istorijos veikalo to­\nmus Rusijos imperatoriui ir gavo iš jo briliantinį 1000 aukso .'A\nrublių vertės žiedą."
+  citata_rodoma: |
+    A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
+    riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
+    dumą.
+    1839 m. istorikas nusiuntė penkis savo istorijos veikalo to­
+    mus Rusijos imperatoriui ir gavo iš jo briliantinį 1000 aukso .'A
+    rublių vertės žiedą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -208,7 +214,13 @@ Nenurodyta
     riuje. Tituliniame lape rusų kalba parašyta: „Lietuvių mitolo­
     gija. Iš lenkų kalbos išvertė pats autorius“. Deja, pastaruoju
     faktu tenka suabejoti.
-  citata_rodoma: "Va­\ndinasi, sumanymas siekia daug ankstesnius laikus nei „Lietu­\nvių mitologija“ buvo įvertinta sostinėje Peterburge. Jo Dide­\nnybės Imperatoriaus dovaną, briliantinį žiedą, istorikas gavo\n1839 metais. Šis faktas galėjo tik atgaivinti seną viltį išleisti\nrusiškąjį variantą."
+  citata_rodoma: |
+    Va­
+    dinasi, sumanymas siekia daug ankstesnius laikus nei „Lietu­
+    vių mitologija“ buvo įvertinta sostinėje Peterburge. Jo Dide­
+    nybės Imperatoriaus dovaną, briliantinį žiedą, istorikas gavo
+    1839 metais. Šis faktas galėjo tik atgaivinti seną viltį išleisti
+    rusiškąjį variantą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -230,7 +242,15 @@ Nenurodyta
     jam šio tomo leidimui4. Si aplinkybė leidžia daryti prie­
     laidą, jog abu tomai į rusų kalbą buvo verčiami tiesiog
     iš rankraščio, kartu su lenkiškuoju variantu.
-  citata_rodoma: "Vadinasi, su-\nmanymas siekia daug ankstesnius laikus nei „Lietuvių mi­\ntologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­\nbės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­\nvo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-\nišleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­\nnės T. Narbuto korespondencijos, istorikas daugelį metų\nieškojo galimybės išspausdinti šio tomo vertimą."
+  citata_rodoma: |
+    Vadinasi, su-
+    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
+    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
+    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
+    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
+    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
+    nės T. Narbuto korespondencijos, istorikas daugelį metų
+    ieškojo galimybės išspausdinti šio tomo vertimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

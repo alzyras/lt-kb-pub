@@ -292,7 +292,13 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
-  citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
+  citata_rodoma: |
+    Dar
+    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
+    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
+    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
+    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
+    prieš jo pretenzijas į Lucką^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -423,7 +429,11 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     buvo ten tarp spalio II Ir 25 d., o toliau Iki 1485 m. pabaigos
     buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1—3)
     35 Visos šios past ra i Įlos chronologija netiksli.
-  citata_rodoma: "34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir \nbuvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos \nbuvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)\n35 Visos šios past ra i Įlo s chronologija netiksli."
+  citata_rodoma: |
+    34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
+    buvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos
+    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)
+    35 Visos šios past ra i Įlo s chronologija netiksli.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -443,7 +453,13 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
-  citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
+  citata_rodoma: |
+    Dar
+    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
+    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
+    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
+    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
+    prieš jo pretenzijas į Lucką^1 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -462,7 +478,13 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip
     Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš
     Lietuvos vėliau nuvyko ir pats Jogaila.
-  citata_rodoma: "Tuo metu,\nkai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai\nįvažiavo į Lvovą ir suteikė tam miestui privilegiją. Kaip lenkų\ndaliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip\nLietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš\nLietuvos vėliau nuvyko ir pats Jogaila."
+  citata_rodoma: |
+    Tuo metu,
+    kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai
+    įvažiavo į Lvovą ir suteikė tam miestui privilegiją. Kaip lenkų
+    daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip
+    Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš
+    Lietuvos vėliau nuvyko ir pats Jogaila.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas

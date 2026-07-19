@@ -74,7 +74,15 @@ media_all_json: |-
     1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
     vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
     Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
-  citata_rodoma: "1769 m. vienas iš klasicizmo architektūros\n\nL I E T U V O S  I S T O R I J A\n90\npradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740– \n1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus \nvyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus \nVerkiuose, vieną iš ryškiausių klasicizmo paminklų."
+  citata_rodoma: |
+    1769 m. vienas iš klasicizmo architektūros
+
+    L I E T U V O S  I S T O R I J A
+    90
+    pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740–
+    1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
+    vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
+    Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

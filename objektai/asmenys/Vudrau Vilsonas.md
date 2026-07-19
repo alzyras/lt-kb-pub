@@ -80,7 +80,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     klausimą. Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
     dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
     karo aukoms, jos metu surinkta 200 tūkst. dolerių.
-  citata_rodoma: "dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos"
+  citata_rodoma: |
+    dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

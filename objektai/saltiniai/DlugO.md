@@ -106,7 +106,10 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
     (^17) **DlugO, XIII, 48, 50 p.**
     (^18) **DlugO, XIII, 64 p.**
     (^19) **DlugO, XIII, 53, 63 p.**
-  citata_rodoma: "— KolLJ, 92 p.**\n(^15) **DlugO, XIII, 19 p.**\n(^16) **Kuczyński, Laskowski, Kolankowski ir kt."
+  citata_rodoma: |
+    — KolLJ, 92 p.**
+    (^15) **DlugO, XIII, 19 p.**
+    (^16) **Kuczyński, Laskowski, Kolankowski ir kt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

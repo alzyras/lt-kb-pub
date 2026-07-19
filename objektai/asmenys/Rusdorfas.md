@@ -159,7 +159,19 @@ media_all_json: |-
     Maskvos didžiojo kunigaikščio ir
     Tverės kunigaikščio atvykimą į Lie­
     tuvą rugpjūčio 8-ą.
-  citata_rodoma: "84\nKryžiuočių Slaptajame \nArchyve, Karaliaučiuje, yra Vy­\ntauto laiškų, rašytų magistrui Rus- \ndorfui (pasak Karamzino, V, p. 145) \nderybų dėl Lietuvos karūnos Vytau­\ntui dingstimi, kur viename iš jų, da­\ntuotame 1430 m. rugpjūčio mėn., \ndidžiajam magistrui praneša apie \nMaskvos didžiojo kunigaikščio ir \nTverės kunigaikščio atvykimą į Lie­\ntuvą rugpjūčio 8-ą."
+  citata_rodoma: |
+    84
+    Kryžiuočių Slaptajame
+    Archyve, Karaliaučiuje, yra Vy­
+    tauto laiškų, rašytų magistrui Rus-
+    dorfui (pasak Karamzino, V, p. 145)
+    derybų dėl Lietuvos karūnos Vytau­
+    tui dingstimi, kur viename iš jų, da­
+    tuotame 1430 m. rugpjūčio mėn.,
+    didžiajam magistrui praneša apie
+    Maskvos didžiojo kunigaikščio ir
+    Tverės kunigaikščio atvykimą į Lie­
+    tuvą rugpjūčio 8-ą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -72,7 +72,8 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
     ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
-  citata_rodoma: "riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien"
+  citata_rodoma: |
+    riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -114,8 +114,9 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Генрих Латвийский. Хроника Ливонии/Изд. С. А. Аннинский.
-  citata_rodoma: "Tacitas P. K. Rinktiniai raštai.—V., 1972."
+    Tacitas P. K. Rinktiniai raštai.—V., 1972.
+  citata_rodoma: |
+    Tacitas P. K. Rinktiniai raštai.—V., 1972.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

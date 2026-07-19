@@ -219,7 +219,11 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
     kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
     mės pakraštėj.
-  citata_rodoma: "Tada Mozūrų kunigaikš-\ntis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-\nkupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-\nmės pakraštėj."
+  citata_rodoma: |
+    Tada Mozūrų kunigaikš-
+    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
+    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
+    mės pakraštėj.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -241,7 +245,9 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
     veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
     paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
-  citata_rodoma: "Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir\npaimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą."
+  citata_rodoma: |
+    Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
+    paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -261,7 +267,12 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­
     čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­
     jamų kryžių paprastai vadinamas kryžiuočių Ordinu.
-  citata_rodoma: "1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­\nsų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo\nprūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­\nčių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­\njamų kryžių paprastai vadinamas kryžiuočių Ordinu."
+  citata_rodoma: |
+    1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
+    sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo
+    prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­
+    čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­
+    jamų kryžių paprastai vadinamas kryžiuočių Ordinu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -282,7 +293,13 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     prieš Ordiną. Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
     pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
     66  PD, II, 6; PKD, s.
-  citata_rodoma: "Dusburgietis, rašydamas apie lietuvių\npuolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti\nprieš Lietuvą (III, 343—346, 357—358).\n  Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo\nžemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos\nPrūsijoje pagrindu (II, 5, 6)."
+  citata_rodoma: |
+    Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
+      Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
+    Prūsijoje pagrindu (II, 5, 6).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -342,10 +359,10 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
+    „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
     o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą,
-    apie Sventopelko, Lietuvos ir prūsų bendrą kovą.
+    apie Sventopelko, Lietuvos  ir prūsų bendrą kovą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -60,7 +60,10 @@ i Papée, Fr.
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —
     Sruogienė, V. : _Sofija Vytautaitė,_ LE, t. 28, 271-273 p. — _Vytautas,_
     MLTE, III, 811-813 p.
-  citata_rodoma: "— Smolka,\nSt. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —\nSruogienė, V."
+  citata_rodoma: |
+    — Smolka,
+    St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —
+    Sruogienė, V.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

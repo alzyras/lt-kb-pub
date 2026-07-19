@@ -73,7 +73,11 @@ Stai­ ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie N
     Nemuno, būtent, Naująjį Gardiną ir Meteną22 23 *. Už tą naują «išda­
     vystę », kurią kryžiuočiai ilgai garsino Vakarams, iki 1398 m. sun­
     kią dalį ordino kalėjime turėjo pernešti Vytauto brolis Žygimantas.
-  citata_rodoma: "Stai­\nga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie\nNemuno, būtent, Naująjį Gardiną ir Meteną22 23 *. Už tą naują «išda­\nvystę », kurią kryžiuočiai ilgai garsino Vakarams, iki 1398 m."
+  citata_rodoma: |
+    Stai­
+    ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie
+    Nemuno, būtent, Naująjį Gardiną ir Meteną22 23 *. Už tą naują «išda­
+    vystę », kurią kryžiuočiai ilgai garsino Vakarams, iki 1398 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

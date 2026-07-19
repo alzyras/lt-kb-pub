@@ -87,7 +87,8 @@ Nenurodyta
     laiko, dieną po siuvėjo guoliu pakišo virvę, gi kitą galą virvės nuvedė
     į savo guolį. Kai siuvėjas atsigulė, jis truputį trūktelėjo virvę, paskui
     labiau.
-  citata_rodoma: "Kai siuvėjas atsigulė, jis truputį trūktelėjo virvę, paskui labiau."
+  citata_rodoma: |
+    Kai siuvėjas atsigulė, jis truputį trūktelėjo virvę, paskui labiau.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -106,7 +107,9 @@ Nenurodyta
     Ryt rytą, kai tik švinta, kinko arklius ir siunčia mergaites su šie­
     nu namo. Arkliai vedami už pavadžių; vadžių čia nėra; mergaitės at-
     važiuodamos buvo pasitvarkslavę šienviržėmis virvėmis.
-  citata_rodoma: "Arkliai vedami už pavadžių; vadžių čia nėra; mergaitės at­\nvažiuodamos buvo pasitvarkslavę šienviržėmis virvėmis."
+  citata_rodoma: |
+    Arkliai vedami už pavadžių; vadžių čia nėra; mergaitės at­
+    važiuodamos buvo pasitvarkslavę šienviržėmis virvėmis.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas

@@ -166,7 +166,15 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
     bų debesys, tokių žolių ryšelis įnirusiems įdedamas į pagalvę
     ir atliekami įvairūs kerėjimai, kurie yra senųjų Pergrubės gar­
     binimo apeigų liekanos.
-  citata_rodoma: "Kitus dalykus apie ją išdėsty-\nsime straipsniuose „Vėlinės“, „Laidotuvių papročiai“, „Kapai,“\n„Mirusiųjų garbinimas“.\nPergrubė (Pergrubie)\nPavasario, gėlių, daržų, žmogaus pastangomis gausinamų\nžemės vaisių deivė.\nKitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas."
+  citata_rodoma: |
+    Kitus dalykus apie ją išdėsty-
+    sime straipsniuose „Vėlinės“, „Laidotuvių papročiai“, „Kapai,“
+    „Mirusiųjų garbinimas“.
+    Pergrubė (Pergrubie)
+    Pavasario, gėlių, daržų, žmogaus pastangomis gausinamų
+    žemės vaisių deivė.
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -187,7 +195,14 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
     Lietuvos aukso amžiuje Kaunas su apylinkėmis buvo tikra Lie­
     tuvos Kitera. Nuostabi vietovė, marios savaime augančių gė­
     lių, puošnesnių už kitas laukines.
-  citata_rodoma: "Skaityk straipsnį „Šventės“.\nTai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-\nvai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­\nkas panašaus, aišku, buvo ir Pergrubė. Ją vaizdavo kaip nuogą\njauną ir gražią mergaitę su palaidais, žemiau kelių krintan­\nčiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­\nkoje laikančią obuolį, kairėje -  vynuogių kekę."
+  citata_rodoma: |
+    Skaityk straipsnį „Šventės“.
+    Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
+    vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
+    kas panašaus, aišku, buvo ir Pergrubė. Ją vaizdavo kaip nuogą
+    jauną ir gražią mergaitę su palaidais, žemiau kelių krintan­
+    čiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­
+    koje laikančią obuolį, kairėje -  vynuogių kekę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -212,7 +227,13 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
     teto architektūros profesorius ponas Šulcas tarp mirusio ar­
     chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
     tinantį šį padavimą.
-  citata_rodoma: "Senovės germanai ją vadino H erta, tai yra Motina žeme.\nTam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas\nčerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­\ngų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­\nronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­\nčios Agenda."
+  citata_rodoma: |
+    Senovės germanai ją vadino H erta, tai yra Motina žeme.
+    Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
+    čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­
+    gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­
+    ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­
+    čios Agenda.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

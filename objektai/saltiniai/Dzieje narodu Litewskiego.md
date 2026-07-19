@@ -82,7 +82,9 @@ T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 184
     raliaus Mindaugo antkapio dalis, čia pat galima pamatyti „aša­
     rines“ - senovės lietuvių įkapes - stikliniuose indeliuose sau­
     gomas protėvių ašaras“8.
-  citata_rodoma: "7 Narbutt T. Dzieje narodu Litewskiego. -  Wilno, 1841. -  T. 9. -\nS. 492."
+  citata_rodoma: |
+    7 Narbutt T. Dzieje narodu Litewskiego. -  Wilno, 1841. -  T. 9. -
+    S. 492.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -172,7 +172,13 @@ Nenurodyta
     vardas kilęs iš žodžio žvaigždė (Zwajgida), bet savo išvaizda jis
     visiškai nepanašus į Apoloną, Tai barzdotas senis su žibintu ran­
     koje.
-  citata_rodoma: "Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą. Moneta labai plona, labai apgadinta ir išliko\nlik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių."
+  citata_rodoma: |
+    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­
+    kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­
+    bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­
+    pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
+    pastatyto kalavijo ženklą. Moneta labai plona, labai apgadinta ir išliko
+    lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -196,7 +202,18 @@ Nenurodyta
     daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
-  citata_rodoma: "Lietuvos\nateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo\nlaikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­\nmyninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­\nbinėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-\npaliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­\nkluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­\nčiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­\ndaus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais\n(Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­\nnetos, liejami pabūklai, varpai."
+  citata_rodoma: |
+    Lietuvos
+    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
+    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
+    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
+    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
+    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
+    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
+    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
+    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
+    netos, liejami pabūklai, varpai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

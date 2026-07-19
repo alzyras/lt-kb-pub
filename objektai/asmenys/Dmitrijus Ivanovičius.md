@@ -78,8 +78,21 @@ media_all_json: |-
     Siekdamas neprarasti pozicijų rytuose
     (nors tuo metu vyko sunki kova su kry-
     žiuočiais prie Nemuno vidupio), Algirdas
-    1368 m. rudenį ryžosi smogti Maskvai.
-  citata_rodoma: "Žygių išvakarėse\n\nMaskvos didysis kunigaikštis Dmitrijus\nIvanovičius, siekdamas plėsti savo valdžią,\nremiamas Ordos, puolė Tverę. Jos kuni-\ngaikštis Michailas Aleksandrovičius pa-\nbėgo į Lietuvą ir Lietuvos valdovo Algirdo\n(jo žmona Julijona Tverietė) prašė „pagal-\nbos ir apginti“, kvietė žygiuoti į Maskvą.\nSiekdamas neprarasti pozicijų rytuose\n(nors tuo metu vyko sunki kova su kry-\nžiuočiais prie Nemuno vidupio), Algirdas\n1368 m."
+    1368 m.
+  citata_rodoma: |
+    Žygių išvakarėse
+
+    Maskvos didysis kunigaikštis Dmitrijus
+    Ivanovičius, siekdamas plėsti savo valdžią,
+    remiamas Ordos, puolė Tverę. Jos kuni-
+    gaikštis Michailas Aleksandrovičius pa-
+    bėgo į Lietuvą ir Lietuvos valdovo Algirdo
+    (jo žmona Julijona Tverietė) prašė „pagal-
+    bos ir apginti“, kvietė žygiuoti į Maskvą.
+    Siekdamas neprarasti pozicijų rytuose
+    (nors tuo metu vyko sunki kova su kry-
+    žiuočiais prie Nemuno vidupio), Algirdas
+    1368 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -67,7 +67,10 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
     Žr. LE, 23, 537 p.**
     (^146) **M. Gruševskij :** **_Očerki istorii Kievskoj zemli_** **(Kijevas 1891) ;** **_Istorija
     Ukraini-Rusi_** **(HrlU).
-  citata_rodoma: "**\n(^146) **M. Gruševskij :** **_Očerki istorii Kievskoj zemli_** **(Kijevas 1891) ;** **_Istorija\nUkraini-Rusi_** **(HrlU)."
+  citata_rodoma: |
+    **
+    (^146) **M. Gruševskij :** **_Očerki istorii Kievskoj zemli_** **(Kijevas 1891) ;** **_Istorija
+    Ukraini-Rusi_** **(HrlU).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -125,7 +125,11 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
     Vengrijos sąjungininkė Lenkija. Kilus vaidams dėl Brandenburgo valdų, popiežius 1324 m.
     pasmerkė Liudviką. Vladislovo Lokietkos valdoma Lenkija stojo į kovą su Brandenburgu
     — norėta atgauti markgrafų užgrobtas žemes.
-  citata_rodoma: "Kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323\nm. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir\nVengrijos sąjungininkė Lenkija. Kilus vaidams dėl Brandenburgo valdų, popiežius 1324 m.\npasmerkė Liudviką."
+  citata_rodoma: |
+    Kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323
+    m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir
+    Vengrijos sąjungininkė Lenkija. Kilus vaidams dėl Brandenburgo valdų, popiežius 1324 m.
+    pasmerkė Liudviką.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -146,7 +150,12 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
     patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
     įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
     Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
-  citata_rodoma: "Taigi 1325— 1326 m. Centrinėje bei Rytų\nEuropoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija,\nLietuva, o kitoje — Vokietijos valdovas Liudvikas Bavaras, Brandenburgas, Kryžiuočių\nordinas ir prie jo prisijungusi Galičo—Volynės kunigaikštystė60.\n  Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m."
+  citata_rodoma: |
+    Taigi 1325— 1326 m. Centrinėje bei Rytų
+    Europoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija,
+    Lietuva, o kitoje — Vokietijos valdovas Liudvikas Bavaras, Brandenburgas, Kryžiuočių
+    ordinas ir prie jo prisijungusi Galičo—Volynės kunigaikštystė60.
+      Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

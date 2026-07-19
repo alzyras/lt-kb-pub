@@ -102,7 +102,16 @@ Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242
     ir griebtis įvairiausių gudrybių, trokšdamas paslapčiomis suleisti savo nuodingą geluonį,
     sutrypti viešpaties vynuogyną ir viešpaties lauke prisėti raugių. Galop štai šiuo būdu jis
     sukėlė žiauriausią tikėjimo ir tikinčiųjų persekiojimą.
-  citata_rodoma: "Apie Sventopelko karą su Teutonų ordino broliais\n 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo\n                                          plitimo\n\n\n  262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino\nkalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;\nLietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.\n158—159; Batūra R., Šiaulių.., p. 22—24)."
+  citata_rodoma: |
+    Apie Sventopelko karą su Teutonų ordino broliais
+     1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo
+                                              plitimo
+
+
+      262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino
+    kalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;
+    Lietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.
+    158—159; Batūra R., Šiaulių.., p. 22—24).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

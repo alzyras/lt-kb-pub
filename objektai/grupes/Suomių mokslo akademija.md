@@ -89,7 +89,8 @@ Mokslo akademija.
     nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną
     savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą iš­
     leido.
-  citata_rodoma: "Nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą išleido."
+  citata_rodoma: |
+    Nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą išleido.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas

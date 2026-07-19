@@ -94,7 +94,10 @@ Nenurodyta
     pilis turėjo palengvinti ordino žygius į lietuvių žemes. Po nepasise­
     kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
     šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
-  citata_rodoma: "Po nepasise­\nkusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­\nšinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235."
+  citata_rodoma: |
+    Po nepasise­
+    kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
+    šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

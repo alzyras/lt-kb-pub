@@ -86,7 +86,8 @@ Nenurodyta
     kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
     visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
     laiku.
-  citata_rodoma: "kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog"
+  citata_rodoma: |
+    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

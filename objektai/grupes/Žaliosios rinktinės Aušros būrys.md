@@ -61,7 +61,12 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
     Aušros (vadas Ignas Gasčiūnas- Artojas)
     būrys. Tai vienoje, tai kitoje miško vietoje
     vyko atkaklios kautynės.
-  citata_rodoma: "Tuojau pat\nį kautynes įsitraukė ir Žaliosios rinktinės\nAušros (vadas Ignas Gasčiūnas- Artojas)\nbūrys. Tai vienoje, tai kitoje miško vietoje\nvyko atkaklios kautynės."
+  citata_rodoma: |
+    Tuojau pat
+    į kautynes įsitraukė ir Žaliosios rinktinės
+    Aušros (vadas Ignas Gasčiūnas- Artojas)
+    būrys. Tai vienoje, tai kitoje miško vietoje
+    vyko atkaklios kautynės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

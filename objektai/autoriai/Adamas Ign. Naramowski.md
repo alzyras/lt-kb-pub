@@ -85,7 +85,12 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     tuaniae expressa, per R. P. Adamum
     Ign. Naramowski, etc. Vilnae, 1726.
     Lib. Il, p. 346.
-  citata_rodoma: "Facies rerum Sarmaticarum in facie \nRegni Poloniae, Magnique Ducatus Li- \ntuaniae expressa, per R. P. Adamum \nIgn. Naramowski, etc. Vilnae, 1726.\nLib. Il, p. 346."
+  citata_rodoma: |
+    Facies rerum Sarmaticarum in facie
+    Regni Poloniae, Magnique Ducatus Li-
+    tuaniae expressa, per R. P. Adamum
+    Ign. Naramowski, etc. Vilnae, 1726.
+    Lib. Il, p. 346.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +113,17 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­
     čiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip
     pat jėzuito Naramovskio3.
-  citata_rodoma: "Tad nu­\nrodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­\nkių abejonių nekeldami istorijoje išlikę. Be įvairių autentiškų \naktų, kur kaip liudininkus ne kartą aptinkame Vilniaus vys­\nkupus, buvo du šaltiniai, iš kurių galima buvo semtis išsa­\nmesnių žinių apie juos. Pirmasis jų: lotyniškas rankraštis, bu­\nvęs Vilniaus universiteto bibliotekoje, kuriame trumpos \npanegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­\nčiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip \npat jėzuito Naramovskio3."
+  citata_rodoma: |
+    Tad nu­
+    rodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­
+    kių abejonių nekeldami istorijoje išlikę. Be įvairių autentiškų
+    aktų, kur kaip liudininkus ne kartą aptinkame Vilniaus vys­
+    kupus, buvo du šaltiniai, iš kurių galima buvo semtis išsa­
+    mesnių žinių apie juos. Pirmasis jų: lotyniškas rankraštis, bu­
+    vęs Vilniaus universiteto bibliotekoje, kuriame trumpos
+    panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­
+    čiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip
+    pat jėzuito Naramovskio3.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

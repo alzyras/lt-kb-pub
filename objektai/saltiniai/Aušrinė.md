@@ -67,7 +67,10 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
     visa mokslus einančioji jaunuomenė. Tik vėliau iš jaunimo, su-
     sispietusio apie moksleivių žurnalą „Aušrinę", atsirado so-
     cialistiškosios pakraipos moksleivių aušrininkų organizacija.
-  citata_rodoma: "Tik vėliau iš jaunimo, su-\nsispietusio apie moksleivių žurnalą „Aušrinę\", atsirado so-\ncialistiškosios pakraipos moksleivių aušrininkų organizacija."
+  citata_rodoma: |
+    Tik vėliau iš jaunimo, su-
+    sispietusio apie moksleivių žurnalą „Aušrinę", atsirado so-
+    cialistiškosios pakraipos moksleivių aušrininkų organizacija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

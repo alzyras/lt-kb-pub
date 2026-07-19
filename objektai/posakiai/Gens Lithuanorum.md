@@ -65,7 +65,9 @@ media_all_json: |-
     V., 518—519 nr.
     (^3) ) Lietuvos bažnytinė provincija įkurta 1926. IV. 4 dabartinio popie­
     žiaus Pijaus XI bulla „Gens Lithuanorum”.
-  citata_rodoma: "(^3) ) Lietuvos bažnytinė provincija įkurta 1926. IV. 4 dabartinio popie­\nžiaus Pijaus XI bulla „Gens Lithuanorum”."
+  citata_rodoma: |
+    (^3) ) Lietuvos bažnytinė provincija įkurta 1926. IV. 4 dabartinio popie­
+    žiaus Pijaus XI bulla „Gens Lithuanorum”.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

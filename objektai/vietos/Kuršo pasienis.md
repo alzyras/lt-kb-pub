@@ -77,7 +77,10 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
     bajorija buvo labai nepatenkinta generolais. Pagaliau generolai
     sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
     į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
-  citata_rodoma: "Pagaliau generolai\nsutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti\nį Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą."
+  citata_rodoma: |
+    Pagaliau generolai
+    sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
+    į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

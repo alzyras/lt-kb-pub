@@ -272,7 +272,10 @@ media_all_json: |-
     D. Naugardas iki tol niekada neturėjo jokių santykių su Lenkija,
     naujasis D. Naugardo kunigaikštis respublikos vardu žadėjo Ka­
     rūnai paklusnumą^9.
-  citata_rodoma: "Dviem raštais (1388-\n1389) jis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai. Nors\nD."
+  citata_rodoma: |
+    Dviem raštais (1388-
+    1389) jis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai. Nors
+    D.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -289,7 +292,10 @@ media_all_json: |-
     Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
     ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
     Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
-  citata_rodoma: "Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti\nir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.\nKrokuvoje buvo vainikuota Lenkijos « karaliumi »."
+  citata_rodoma: |
+    Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
+    ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
+    Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -309,7 +315,12 @@ media_all_json: |-
     Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
     kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
     kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
-  citata_rodoma: "« Didžiojo ku­\nnigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo\nJogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis\nkunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,\nkuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių."
+  citata_rodoma: |
+    « Didžiojo ku­
+    nigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo
+    Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
+    kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
+    kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -327,7 +338,12 @@ media_all_json: |-
 
       1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,
     Lenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1).
-  citata_rodoma: "Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­\n                                  vimą\n\n  1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,\nLenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1)."
+  citata_rodoma: |
+    Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
+                                      vimą
+
+      1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,
+    Lenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -382,7 +398,19 @@ media_all_json: |-
     dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
     kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
     Rusia.
-  citata_rodoma: "Pasakiau „stebuklingu būdu“, kadangi apaš­\ntališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­\nkinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių\nriterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus\npatrauklumas. Lenkijos karalienės Jadvygos ranka, paduota\nVladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­\nrius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija\njo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­\nnyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie\ndidžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri\njų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­\ndžių."
+  citata_rodoma: |
+    Pasakiau „stebuklingu būdu“, kadangi apaš­
+    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
+    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
+    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
+    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
+    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
+    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
+    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
+    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
+    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
+    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
+    džių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

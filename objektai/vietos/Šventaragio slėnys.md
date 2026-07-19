@@ -65,7 +65,10 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
     Švč. Mergelės šventė (IX.8) 374
     Šventaragio slėnys 244
     Šv.
-  citata_rodoma: "Mergelės šventė (IX.8) 374\nŠventaragio slėnys 244\nŠv."
+  citata_rodoma: |
+    Mergelės šventė (IX.8) 374
+    Šventaragio slėnys 244
+    Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

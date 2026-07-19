@@ -89,7 +89,8 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
     priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potoc-
     kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
     pusės maršalas K. N. Sapiega.
-  citata_rodoma: "kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios"
+  citata_rodoma: |
+    kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +112,8 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
     1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
     kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
     įžadu.
-  citata_rodoma: "kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio"
+  citata_rodoma: |
+    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

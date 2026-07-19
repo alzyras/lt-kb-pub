@@ -92,7 +92,11 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
     ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
     daug brolių ir ginklanešių.
-  citata_rodoma: "Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir\natimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu\nKaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257\nir Rezlio258."
+  citata_rodoma: |
+    Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
+    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
+    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
+    ir Rezlio258.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

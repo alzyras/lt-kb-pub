@@ -139,7 +139,16 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     teritoriją siekdami atgauti Smolenską.
 
     24 tūkst. rusų kariuomenė, vadovau-
-  citata_rodoma: "Mūšis\n1632 m. maskvėnai, pasinaudodami\n\ntuo, kad po Zigmanto Vazos mirties jo\nsūnus Vladislovas dar nebuvo įsitvirtinęs\nLenkijos-Lietuvos soste, įsiveržė į Lietuvos\nteritoriją siekdami atgauti Smolenską.\n\n24 tūkst."
+  citata_rodoma: |
+    Mūšis
+    1632 m. maskvėnai, pasinaudodami
+
+    tuo, kad po Zigmanto Vazos mirties jo
+    sūnus Vladislovas dar nebuvo įsitvirtinęs
+    Lenkijos-Lietuvos soste, įsiveržė į Lietuvos
+    teritoriją siekdami atgauti Smolenską.
+
+    24 tūkst.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -156,7 +165,8 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     1. Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294
     2. Zigmantas Vaza ir jo valdymas 298
     3.
-  citata_rodoma: "2. Zigmantas Vaza ir jo valdymas 298"
+  citata_rodoma: |
+    2. Zigmantas Vaza ir jo valdymas 298
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +201,8 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     **8. Zigmanto Vazos valdymo charakteristika**
     Zigmantas mirė 1632 m., iškaraliavęs net 44 m. Jo valdy-
     mas nei Lietuvai nei Lenkijai nieko gero nedavė.
-  citata_rodoma: "Zigmantas mirė 1632 m., iškaraliavęs net 44 m."
+  citata_rodoma: |
+    Zigmantas mirė 1632 m., iškaraliavęs net 44 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

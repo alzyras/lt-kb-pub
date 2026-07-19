@@ -69,7 +69,11 @@ media_all_json: |-
     Žemaičius ir kitas žemes — savo tėvų palikimu. Įdomus yra jo raštas
     imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto
     Zigmanto sprendimo neteisingumą.
-  citata_rodoma: "Vytautas kryžiuočius laikė atėjūnais grobikais, o jų ginčijamus\nŽemaičius ir kitas žemes — savo tėvų palikimu. Įdomus yra jo raštas\nimperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto\nZigmanto sprendimo neteisingumą."
+  citata_rodoma: |
+    Vytautas kryžiuočius laikė atėjūnais grobikais, o jų ginčijamus
+    Žemaičius ir kitas žemes — savo tėvų palikimu. Įdomus yra jo raštas
+    imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto
+    Zigmanto sprendimo neteisingumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

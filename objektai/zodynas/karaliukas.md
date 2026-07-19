@@ -156,7 +156,10 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     tuvių kalboje, nė vienoje jos tarmėje, raidė „f" nėra žinoma. Lietu­
     vis, nuo pat gimimo pripratęs prie savo kalbos, nemoka ištarti šio
     garso. Pavyzdžiui, žodį „falszyay" jis taria „palszymy“*.
-  citata_rodoma: "Senovės rašytojai, tokie kaip Prokopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-\nmut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie-\ntuvių kalboje, nė vienoje jos tarmėje, raidė „f“ nėra žinoma."
+  citata_rodoma: |
+    Senovės rašytojai, tokie kaip Prokopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-
+    mut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie-
+    tuvių kalboje, nė vienoje jos tarmėje, raidė „f“ nėra žinoma.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -176,7 +179,8 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
     darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
     galbos iš Konstantinopolio.
-  citata_rodoma: "Įvairiose šalyse atsirado įvairių imperatorių ir barbarų karaliukų."
+  citata_rodoma: |
+    Įvairiose šalyse atsirado įvairių imperatorių ir barbarų karaliukų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -199,7 +203,14 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     dytai kariuomenei vadovavusiam Orestui į imperatoriaus
     sostą pasodinti savo dar jauną sūnų Romulą Momilijų
     Augustulą.
-  citata_rodoma: "Ne­\ntrukus Ricimeras atsikratė Majorijano, o kartu neteko\nvieningos imperijos valdžios. Įvairiose šalyse atsirado\nįvairių imperatorių ir barbarų karaliukų. Imperatoriaus\nsosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­\ndarė beveik vien Italija, vadovu Severą ir šaukėsi pa­\ngalbos iš Konstantinopolio."
+  citata_rodoma: |
+    Ne­
+    trukus Ricimeras atsikratė Majorijano, o kartu neteko
+    vieningos imperijos valdžios. Įvairiose šalyse atsirado
+    įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
+    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
+    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
+    galbos iš Konstantinopolio.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

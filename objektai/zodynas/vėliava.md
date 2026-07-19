@@ -266,7 +266,11 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 
     Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
     menėje buvę dar xvi a.
-  citata_rodoma: "Dragūnų vėliavą sudarė 100-150 žmonių.\n\nPrie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-\nmenėje buvę dar xvi a."
+  citata_rodoma: |
+    Dragūnų vėliavą sudarė 100-150 žmonių.
+
+    Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
+    menėje buvę dar xvi a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

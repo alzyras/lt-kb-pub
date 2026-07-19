@@ -106,7 +106,16 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
     nų lietuvių piemenų Sekminių šventėje.
     Šeimynos dievas (Siemi Dewas)
     Namų šeimynos dievaitis.
-  citata_rodoma: "Į medį sviesdavo papjautus gaidžius, statydavo\nant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­\nriame ir buvusi toji legendinė pilis. Kadangi Lietuvoje yra ne\n172\n\n## Puslapis 172\n\nvieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet\npernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį."
+  citata_rodoma: |
+    Į medį sviesdavo papjautus gaidžius, statydavo
+    ant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­
+    riame ir buvusi toji legendinė pilis. Kadangi Lietuvoje yra ne
+    172
+
+    ## Puslapis 172
+
+    vieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet
+    pernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -80,7 +80,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
     tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
     tus, o rusai į vakarus.
-  citata_rodoma: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina"
+  citata_rodoma: |
+    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

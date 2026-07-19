@@ -88,7 +88,12 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
     no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
-  citata_rodoma: "Per itin galingas Švitrigailos sąjungas radosi di­\ndesnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių \nVokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m."
+  citata_rodoma: |
+    Per itin galingas Švitrigailos sąjungas radosi di­
+    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
+    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +116,16 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
     rantijų Bomannui, Vilniaus gyvento­
     jui, vykstančiam į Gdanską su pre­
     kybiniais reikalais. Id.
-  citata_rodoma: "58-59 ir 61.\n8\nIki mūsų laikų Slaptajame Karaliau­\nčiaus archyve išliko didžiojo kuni­\ngaikščio Švitrigailos laiškas, kuriame \ndidžiojo magistro prašo saugumo ga­\nrantijų Bomannui, Vilniaus gyvento­\njui, vykstančiam į Gdanską su pre­\nkybiniais reikalais. Id."
+  citata_rodoma: |
+    58-59 ir 61.
+    8
+    Iki mūsų laikų Slaptajame Karaliau­
+    čiaus archyve išliko didžiojo kuni­
+    gaikščio Švitrigailos laiškas, kuriame
+    didžiojo magistro prašo saugumo ga­
+    rantijų Bomannui, Vilniaus gyvento­
+    jui, vykstančiam į Gdanską su pre­
+    kybiniais reikalais. Id.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

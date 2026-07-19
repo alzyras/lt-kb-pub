@@ -135,7 +135,13 @@ Nenurodyta
     žinomas ir vėliau. XVI—XVIII a. dokumentai rodo, kad, imdamas į žmoną valstietę,
     jaunikis turėjęs mokėti jaunosios feodalui tam tikrą mokestį, kuris buvęs vadinamas
     kriena resp. krienu.
-  citata_rodoma: "Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį\nar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,\npirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą\ndieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia\ntesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti\npirties tiesiog kęste nekenčia."
+  citata_rodoma: |
+    Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
+    ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,
+    pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą
+    dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
+    tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
+    pirties tiesiog kęste nekenčia.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

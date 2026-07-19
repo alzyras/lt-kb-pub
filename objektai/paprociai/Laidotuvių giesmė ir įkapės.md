@@ -74,11 +74,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Žinoma taip pat yra visiems, jog lietuviai pagonys, laidodami savo numirėlius, taip
-        giedojo: „Eik, – sako, – vargau, į antrą gyvenimą daug laimingesnį, kuriame ne tu vokiečiams, bet
-        tau vokiečiai vergaus.“ Jei būt tikėję, jog ir po smerčio reiks vergauti, kaip gyvojant, tad nebūt
-        taip giedoję laidodami. Jei paskiau dėjo daiktus į kapus, tad ne dėl atenčio^698 darbo, bet dėl
-        pasirodymo, jog, pasauly gyvendami, netingėjo.
-  citata_rodoma: "Žinoma taip pat yra visiems, jog lietuviai pagonys, laidodami savo numirėlius, taip\ngiedojo: „Eik, – sako, – vargau, į antrą gyvenimą daug laimingesnį, kuriame ne tu vokiečiams, bet\ntau vokiečiai vergaus.“ Jei būt tikėję, jog ir po smerčio reiks vergauti, kaip gyvojant, tad nebūt\ntaip giedoję laidodami. Jei paskiau dėjo daiktus į kapus, tad ne dėl atenčio^698 darbo, bet dėl\npasirodymo, jog, pasauly gyvendami, netingėjo."
+    giedojo: „Eik, – sako, – vargau, į antrą gyvenimą daug laimingesnį, kuriame ne tu vokiečiams, bet
+    tau vokiečiai vergaus.“ Jei būt tikėję, jog ir po smerčio reiks vergauti, kaip gyvojant, tad nebūt
+    taip giedoję laidodami. Jei paskiau dėjo daiktus į kapus, tad ne dėl atenčio^698 darbo, bet dėl
+    pasirodymo, jog, pasauly gyvendami, netingėjo.
+  citata_rodoma: |
+    Žinoma taip pat yra visiems, jog lietuviai pagonys, laidodami savo numirėlius, taip
+    giedojo: „Eik, – sako, – vargau, į antrą gyvenimą daug laimingesnį, kuriame ne tu vokiečiams, bet
+    tau vokiečiai vergaus.“ Jei būt tikėję, jog ir po smerčio reiks vergauti, kaip gyvojant, tad nebūt
+    taip giedoję laidodami. Jei paskiau dėjo daiktus į kapus, tad ne dėl atenčio^698 darbo, bet dėl
+    pasirodymo, jog, pasauly gyvendami, netingėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -96,7 +96,8 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
     ningai keliant žemės mokesčius valstiečiams, didinant pyliavų normas,
     1949 m. daugiau kaip pusė visų Lietuvos valstiečių įsiskolino valstybei už
     pieną ir mėsą, tokie ūkiai aprašyti, o jų savininkai nuteisti.
-  citata_rodoma: "1949 m. daugiau kaip pusė visų Lietuvos valstiečių įsiskolino valstybei už"
+  citata_rodoma: |
+    1949 m. daugiau kaip pusė visų Lietuvos valstiečių įsiskolino valstybei už
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

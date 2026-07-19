@@ -224,7 +224,23 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
     dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
-  citata_rodoma: "Dimitrijus sumokėsiąs ka­\nreiviams algą, o vadui — karo išlaidas. Abiejų tautų\npriesaika turinti sustiprinti amžinąją taiką. Kai, sutik­\ndami su šitokiomis sąlygomis;\nprisiekė valdovas Dimitrijus,\nvyriausiasis šventikas, žmo­\nnių vadinamas metropolitu,\nviečė ir žymiausieji bajorai,\nAlgirdas,\ntą\npačią\ndieną\nįžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­\nvanojo kunigaikštį, kariškai jį pasveikinęs prie pačių\naltorių (,,Tad jau supratai, Dimitrijau, katras iš mu­\ndviejų greičiau pakyla į karą\"), velykiniu kiaušiniu."
+  citata_rodoma: |
+    Dimitrijus sumokėsiąs ka­
+    reiviams algą, o vadui — karo išlaidas. Abiejų tautų
+    priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
+    dami su šitokiomis sąlygomis;
+    prisiekė valdovas Dimitrijus,
+    vyriausiasis šventikas, žmo­
+    nių vadinamas metropolitu,
+    viečė ir žymiausieji bajorai,
+    Algirdas,
+    tą
+    pačią
+    dieną
+    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
+    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
+    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
+    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -248,7 +264,15 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
     Polotos upės vienuole, ir ten išgyveno septynerius me­
     tus, tarnaudama dievui ir perrašinėdama knygas cerk­
     vės reikalui.
-  citata_rodoma: "Ir ilgus metus \nvaldė kunigaikštis Erdvilą, tuose miestuose begyvenda­\nmas, ir pasimirė.\nO po jo ėmė kunigaikšėiauti jo sūnus Mingaila '. \nPo savo tėvo mirties didysis kunigaikštis Mingaila su­\ntelkė savo kariuomenę ir patraukė prieš Polocko mies­\ntą 2  ir prieš Polocko vyrus, kurie reikalus sprendė \nviečėje3 , kaip Didysis Naugardas ir Pskovas."
+  citata_rodoma: |
+    Ir ilgus metus
+    valdė kunigaikštis Erdvilą, tuose miestuose begyvenda­
+    mas, ir pasimirė.
+    O po jo ėmė kunigaikšėiauti jo sūnus Mingaila '.
+    Po savo tėvo mirties didysis kunigaikštis Mingaila su­
+    telkė savo kariuomenę ir patraukė prieš Polocko mies­
+    tą 2  ir prieš Polocko vyrus, kurie reikalus sprendė
+    viečėje3 , kaip Didysis Naugardas ir Pskovas.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -276,7 +300,13 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
     tų jo baskakus tuose miestuose, kaip kad iš tų miestų
     buvo duodama duoklė, valdant jo pirmtakams, rusų
     kunigaikščiams.
-  citata_rodoma: "O jos brolis, Polocko kunigaikštis Glėbas, mirė, \njaunas būdamas, ir palaidotas Polocke, šventosios Sofi­\njos cerkvėje, viename kape su savo tėvu.\nPolockiečiai ėmė reikalus spręsti viečėje, kaip ir \nDidžiajame Naugarde bei Pskove, o valdovo sau nebe­\nturėjo l9 . Grįžkime atgal."
+  citata_rodoma: |
+    O jos brolis, Polocko kunigaikštis Glėbas, mirė,
+    jaunas būdamas, ir palaidotas Polocke, šventosios Sofi­
+    jos cerkvėje, viename kape su savo tėvu.
+    Polockiečiai ėmė reikalus spręsti viečėje, kaip ir
+    Didžiajame Naugarde bei Pskove, o valdovo sau nebe­
+    turėjo l9 . Grįžkime atgal.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -296,7 +326,13 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
     Goštauto giminaitei — jo tetos M arijos Jonaitės Goštautaitės (Kije­
     vo kunigaikščio Semiono Olelkovičiaus žmonos) dukteriai Elenai
     Aleksandrai, ištekėjusiai u i kunlg.
-  citata_rodoma: "Tačiau tiesioginių žinių apie paties Polocko puolimą ki­\ntuose patikimuose šaltiniuose nėra.\n3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų \nsusirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­\ndimo ir kitiems svarbiausiems klausimams svarstyti.\n*  Orig."
+  citata_rodoma: |
+    Tačiau tiesioginių žinių apie paties Polocko puolimą ki­
+    tuose patikimuose šaltiniuose nėra.
+    3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų
+    susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­
+    dimo ir kitiems svarbiausiems klausimams svarstyti.
+    *  Orig.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -109,7 +109,11 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
     tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
     tas pilis^1 ).
-  citata_rodoma: "Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po\nMakro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto\nbrolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI\nprašyti pagalbos prieš Vytautą. Vak."
+  citata_rodoma: |
+    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
+    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
+    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
+    prašyti pagalbos prieš Vytautą. Vak.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -129,7 +133,12 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     dai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­
     tis ir Vaclovas Čekietis^4 ). Todėl Vytauto ginčas su Lenkija la­
     bai toli siekė: jis ėmė grėsti 1343 m.
-  citata_rodoma: "1392\nm. mėginta ir koalicija prieš Lenkiją sudaryti; jos vyriausi va­\ndai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­\ntis ir Vaclovas Čekietis^4 ). Todėl Vytauto ginčas su Lenkija la­\nbai toli siekė: jis ėmė grėsti 1343 m."
+  citata_rodoma: |
+    1392
+    m. mėginta ir koalicija prieš Lenkiją sudaryti; jos vyriausi va­
+    dai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­
+    tis ir Vaclovas Čekietis^4 ). Todėl Vytauto ginčas su Lenkija la­
+    bai toli siekė: jis ėmė grėsti 1343 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -66,7 +66,15 @@ Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dva
     jos būrį. Būriui vadovavęs
     karininkas buvo nušautas,
     likę artileristai išsibėgiojo.
-  citata_rodoma: "Tuomet lietuviai, tiltu\nperėję Širvintos upę, ata-\nkavo prie Paširvinčio dvaro\nįsikūrusį lenkų artileri-\n\njos būrį. Būriui vadovavęs\nkarininkas buvo nušautas,\nlikę artileristai išsibėgiojo."
+  citata_rodoma: |
+    Tuomet lietuviai, tiltu
+    perėję Širvintos upę, ata-
+    kavo prie Paširvinčio dvaro
+    įsikūrusį lenkų artileri-
+
+    jos būrį. Būriui vadovavęs
+    karininkas buvo nušautas,
+    likę artileristai išsibėgiojo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

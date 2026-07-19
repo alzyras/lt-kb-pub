@@ -126,7 +126,30 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
     iura, privilegia, et consvetudinem in iurisdictione praefata con­
     servari, et sententiam excommunicationis, in praefatos Civi­
     tatis famulos latam, iuste et legitime emanasse decerni.
-  citata_rodoma: "O [vaitas ir tarėjai] nesi­\nlaikydami įstatymų pasisavina iš bažnyčios valdinių sau pa­\ntogią jurisdikciją, [teigdami] esą šitai nei teise, nei papro­\nčiais nėra leista, kad jiems Vilniaus kapitula skirtų bažnytines \ncenzūras, nes ką nors spręsti bažnyčios valdinių atžvilgiu \nar juos bausti už nusikaltimus priklauso ne tarėjams ar Vil­\nniaus miestui, o Vilniaus kapitulai ir pagal teisę, ir pagal \npaprotį, iki šiol tvirtai saugotą. Taigi tokius paprotinės tei­\nsės ir bažnyčios valdinių niekintojus teisingai ir teisėtai ka­\npitulos buvo nuspręsta ekskomunikuoti; ir yra pripažinta, \nkad tai nėra nauja, kadangi tokios yra ir kitos katedrų baž­\nnyčios, konkrečiai Krokuvos, kurios pavyzdžiu yra ši Vil­\nniaus pastatyta, gavusi panašius įstatymus ir privilegijas bei\n381\n\n## Puslapis 398\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nprivilegiis, ac moribus decorata cernatur, simili iurisdictione \nutatur, petieruntque se et Capitulum suum, circa buiusmodi \niura, privilegia, et consvetudinem in iurisdictione praefata con­\nservari, et sententiam excommunicationis, in praefatos Civi­\ntatis famulos latam, iuste et legitime emanasse decerni."
+  citata_rodoma: |
+    O [vaitas ir tarėjai] nesi­
+    laikydami įstatymų pasisavina iš bažnyčios valdinių sau pa­
+    togią jurisdikciją, [teigdami] esą šitai nei teise, nei papro­
+    čiais nėra leista, kad jiems Vilniaus kapitula skirtų bažnytines
+    cenzūras, nes ką nors spręsti bažnyčios valdinių atžvilgiu
+    ar juos bausti už nusikaltimus priklauso ne tarėjams ar Vil­
+    niaus miestui, o Vilniaus kapitulai ir pagal teisę, ir pagal
+    paprotį, iki šiol tvirtai saugotą. Taigi tokius paprotinės tei­
+    sės ir bažnyčios valdinių niekintojus teisingai ir teisėtai ka­
+    pitulos buvo nuspręsta ekskomunikuoti; ir yra pripažinta,
+    kad tai nėra nauja, kadangi tokios yra ir kitos katedrų baž­
+    nyčios, konkrečiai Krokuvos, kurios pavyzdžiu yra ši Vil­
+    niaus pastatyta, gavusi panašius įstatymus ir privilegijas bei
+    381
+
+    ## Puslapis 398
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    privilegiis, ac moribus decorata cernatur, simili iurisdictione
+    utatur, petieruntque se et Capitulum suum, circa buiusmodi
+    iura, privilegia, et consvetudinem in iurisdictione praefata con­
+    servari, et sententiam excommunicationis, in praefatos Civi­
+    tatis famulos latam, iuste et legitime emanasse decerni.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -195,7 +218,33 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
     rem morem, et privilegia urbi concessa, petentes suo, et Civi­
     tatis praefatae nomine ut ab buiusmodi de novo usurpata Ca­
     pituli iurisdictione liberi, et exempti pronunciarentur.
-  citata_rodoma: "Kad mus \npasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos \nmūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­\ngųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­\nnyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip \nsavo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai, \npati kapitula prieš Vilniaus miesto gyventojus nepagrįstai \nišplečia ir faktiškai juos [bausdama] negaliojančiomis baus­\nmėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai \nanksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono \nVilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­\nreigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks- \nkomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­\nmą, kadangi privalo paklusti gausybei teisėjų ir būti jų \nbaudžiami pagal tos [kapitulos] tvarką, ypač esant grynai \npasaulietiniams reikalams, iškilusiems ir vykstantiems tarp \npasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­\nka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o \ncivilinei įstaigai. Kaip minėtoji kapitula dėl atimtos iš kapitu­\nlos valdinių degtinės ir mažesnės, negu nurodyta, iškeptos\n379\n\n## Puslapis 396\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nsententijs excommunicationis innodasset."
+  citata_rodoma: |
+    Kad mus
+    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
+    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
+    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
+    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
+    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
+    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
+    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
+    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai
+    anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono
+    Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­
+    reigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks-
+    komunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­
+    mą, kadangi privalo paklusti gausybei teisėjų ir būti jų
+    baudžiami pagal tos [kapitulos] tvarką, ypač esant grynai
+    pasaulietiniams reikalams, iškilusiems ir vykstantiems tarp
+    pasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­
+    ka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o
+    civilinei įstaigai. Kaip minėtoji kapitula dėl atimtos iš kapitu­
+    los valdinių degtinės ir mažesnės, negu nurodyta, iškeptos
+    379
+
+    ## Puslapis 396
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    sententijs excommunicationis innodasset.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

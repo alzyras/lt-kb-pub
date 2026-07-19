@@ -303,12 +303,20 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
     galybę, ir nukovė patį chaną ", Su didžios pergalės
     šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3, Karačevo M miestus, ir, laimė­
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
     jęs pergalę, be nuostolių pargrįžo atgalios.
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
+    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
     O paskui didysis kunigaikštis Skirmantas pasimirė.
-  citata_rodoma: "Nugalėjo tą chaną, ir sumušė visą jo totoriškąją \ngalybę, ir nukovė patį chaną \", Su didžios pergalės \nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus \nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios.\nTurėjo didysis kunigaikštis Skirmantas tris sūnus: \nvieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .  \nO paskui didysis kunigaikštis Skirmantas pasimirė."
+  citata_rodoma: |
+    Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
+    galybę, ir nukovė patį chaną ", Su didžios pergalės
+    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    jęs pergalę, be nuostolių pargrįžo atgalios.
+    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
+    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
+    O paskui didysis kunigaikštis Skirmantas pasimirė.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

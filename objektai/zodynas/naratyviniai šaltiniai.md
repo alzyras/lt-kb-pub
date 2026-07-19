@@ -113,7 +113,17 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
     artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-  citata_rodoma: "Petro Dusburgiečio kronika\n\n\n\n                      Epocha, šaltiniai, tendencija, reikšmė\n\n\n  Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir\npasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio\nšaltinius sudaro analai, kronikos, memuarai bei dienoraščiai, šventųjų gyvenimai ir kt."
+  citata_rodoma: |
+    Petro Dusburgiečio kronika
+
+
+
+                          Epocha, šaltiniai, tendencija, reikšmė
+
+
+      Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir
+    pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
+    šaltinius sudaro analai, kronikos, memuarai bei dienoraščiai, šventųjų gyvenimai ir kt.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

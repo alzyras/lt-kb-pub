@@ -140,7 +140,16 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     2 1410 m. liepos 15 d. sutriuškino Kryžiuočių (dar vadinamo Vokiečių arba Teutonų) ordino kariuomenę viename didžiausių /**
     Europos viduramžių mūšyje. Ši pergalė padėjo Lietuvai įtvirtinti savo, kaip pilnavertės Europos valstybės, statusą.
     Oficialiai Lietuva pasikrikštijo dar 1387 m., tačiau Ordinas šį faktą ignoravo ir toliau puolė Lietuvą kovos prieš pagonis
-  citata_rodoma: "Lietuvos mūšiai 15\n\n## Puslapis 18\n\nAG Li;\n\nŽalgirio mūšio inscenizacija Griunvaldo apylinkėse Lenkijoje: Lietuvos kariuomenė, kartu su sąjungininkais lenkais; |\n\n2 1410 m."
+  citata_rodoma: |
+    Lietuvos mūšiai 15
+
+    ## Puslapis 18
+
+    AG Li;
+
+    Žalgirio mūšio inscenizacija Griunvaldo apylinkėse Lenkijoje: Lietuvos kariuomenė, kartu su sąjungininkais lenkais; |
+
+    2 1410 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

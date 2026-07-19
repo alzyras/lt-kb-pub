@@ -73,7 +73,13 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
     prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
     vos mėsos « konservavimas »)^3.
-  citata_rodoma: "Mezolito įrankių gausiai aptikta palei upes Nemuną,\nNerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­\nmunės durpynuose.\nĮ mezolito laikotarpio galą jau buvo pažįstamas ir pirmas\nprijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­\nvos mėsos « konservavimas »)^3."
+  citata_rodoma: |
+    Mezolito įrankių gausiai aptikta palei upes Nemuną,
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
+    munės durpynuose.
+    Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
+    prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
+    vos mėsos « konservavimas »)^3.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -61,7 +61,8 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
     stengtis nukauti kuo mažiau prancūzų. Akcija pradėta laiku: Vakaruose
     vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-
     linių įvedimo į Ruro kraštą.
-  citata_rodoma: "vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-"
+  citata_rodoma: |
+    vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

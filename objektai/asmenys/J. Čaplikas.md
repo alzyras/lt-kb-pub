@@ -92,7 +92,11 @@ media_all_json: |-
     Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
     naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
     tęsia nevaisingą Suvalkų puolimą.
-  citata_rodoma: "Čaplikas puola Jestšembną, tai sustabdo len-\nkus ir jis gali atsitraukti į Gruškų-Liepynės liniją.\n\nRugsėjo 5 d."
+  citata_rodoma: |
+    Čaplikas puola Jestšembną, tai sustabdo len-
+    kus ir jis gali atsitraukti į Gruškų-Liepynės liniją.
+
+    Rugsėjo 5 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

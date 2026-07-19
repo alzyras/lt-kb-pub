@@ -109,7 +109,18 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
     siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
     kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
     Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-  citata_rodoma: "Ne Sarkės, o Šar­\nkučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­\ndos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-\nkutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­\nsiausia šios provincijos tvirtovė buvo Sasava, stovėjusi\nkažkokios upės pakrantėje, bet tai tiksliai nenustatyta.\nPretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­\n\n## Puslapis 370\n\ndos turėjo būti vadinama Cyse arba Sussa."
+  citata_rodoma: |
+    Ne Sarkės, o Šar­
+    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
+    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
+    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
+    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
+    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
+    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
+
+    ## Puslapis 370
+
+    dos turėjo būti vadinama Cyse arba Sussa.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

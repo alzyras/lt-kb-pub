@@ -81,7 +81,17 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     niais išskubėjo Svėdasų kryptimi.
 
     suteikdama jam pulkininko laipsnį.
-  citata_rodoma: "Norėdamas atitraukti\nrusų kariuomenės dėmėsi nuo pagrin-\ndinių sukilėlių dalinių, Z. Sierakauskas\nišsiuntė Kasperą Maleckį su 150 karių\nardyti geležinkelio komunikacijas\nir rinkti duomenis apie priešo judė-\njimą, o pats su savo pagrindiniais dali-\nniais išskubėjo Svėdasų kryptimi.\n\nsuteikdama jam pulkininko laipsnį."
+  citata_rodoma: |
+    Norėdamas atitraukti
+    rusų kariuomenės dėmėsi nuo pagrin-
+    dinių sukilėlių dalinių, Z. Sierakauskas
+    išsiuntė Kasperą Maleckį su 150 karių
+    ardyti geležinkelio komunikacijas
+    ir rinkti duomenis apie priešo judė-
+    jimą, o pats su savo pagrindiniais dali-
+    niais išskubėjo Svėdasų kryptimi.
+
+    suteikdama jam pulkininko laipsnį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -100,7 +110,12 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     mas padidinti sukilėlių kariuomenės ju-
     dėjimo greitį, Z. Sierakauskas savo pajėgas
     padalino į tris kolonas.
-  citata_rodoma: "Netrukus iš K. Maleckio žvalgy-\nbinio padalinio atėjo pranešimas apie\nstambių priešo dalinių artėjimą. Siekda-\nmas padidinti sukilėlių kariuomenės ju-\ndėjimo greitį, Z."
+  citata_rodoma: |
+    Netrukus iš K. Maleckio žvalgy-
+    binio padalinio atėjo pranešimas apie
+    stambių priešo dalinių artėjimą. Siekda-
+    mas padidinti sukilėlių kariuomenės ju-
+    dėjimo greitį, Z.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

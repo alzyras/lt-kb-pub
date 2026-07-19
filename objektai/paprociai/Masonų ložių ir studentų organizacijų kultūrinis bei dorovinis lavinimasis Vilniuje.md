@@ -143,15 +143,24 @@ Nenurodyta
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė - nemirtingumą, skriestuvas - aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data - „1817 m.“ R. Kli­
+    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
+    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
     mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
     Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
     odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
     Marcinovskis taip pat priklausė masonų organizacijai.
-  citata_rodoma: "Masonų organizacijose kampainis simboli­\nzavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­\nčiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­\nmavičiaus nuomone, tais metais T. Narbutas įstojo į masonų\norganizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­\nmo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik\nWilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­\nodinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas\nMarcinovskis taip pat priklausė masonų organizacijai."
+  citata_rodoma: |
+    Masonų organizacijose kampainis simboli­
+    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
+    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
+    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
+    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
+    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
+    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
+    Marcinovskis taip pat priklausė masonų organizacijai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -175,7 +184,17 @@ Nenurodyta
     versitete veikė nemažai studentų
     organizacijų, besirūpinusių kul-
     tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
-  citata_rodoma: "Po\n1812 m. Lietuvoje labai išpopulia-\nrėjo masonų judėjimas. Masonų\nložėms priklausė diduma bent\nkiek intelektualesnės publikos.\nGarsiausioji ložė vadinosi „Uolusis\nlietuvis“ („Gorliwy Litwin“). Uni-\nversitete veikė nemažai studentų\norganizacijų, besirūpinusių kul-\ntūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei."
+  citata_rodoma: |
+    Po
+    1812 m. Lietuvoje labai išpopulia-
+    rėjo masonų judėjimas. Masonų
+    ložėms priklausė diduma bent
+    kiek intelektualesnės publikos.
+    Garsiausioji ložė vadinosi „Uolusis
+    lietuvis“ („Gorliwy Litwin“). Uni-
+    versitete veikė nemažai studentų
+    organizacijų, besirūpinusių kul-
+    tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -194,7 +213,12 @@ Nenurodyta
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
     dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
     jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
-  citata_rodoma: "Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,\nneskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,\nkuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-\ndentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp\njų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus."
+  citata_rodoma: |
+    Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,
+    neskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,
+    kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
+    dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
+    jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

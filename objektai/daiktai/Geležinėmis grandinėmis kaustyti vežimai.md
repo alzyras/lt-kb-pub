@@ -128,7 +128,17 @@ Nenurodyta
     rių įkalbėtas nesiduoti priešo paimamas
     Vytautas ir jo brolis Žygimantas bėgo,
     persėsdami nuo žirgo ant žirgo.
-  citata_rodoma: "Bėgdami Timūr-Kutluko\ntotoriai paėmė gurguolę, vežimus su gele-\nžinėmis grandinėmis, patrankas, patrankė-\nles, arbaletus ir daug turto.\n\nTemstant, kai pralaimėjimas matėsi ne-\nišvengiamas, prie valdovo buvusių rite-\nrių įkalbėtas nesiduoti priešo paimamas\nVytautas ir jo brolis Žygimantas bėgo,\npersėsdami nuo žirgo ant žirgo."
+  citata_rodoma: |
+    Bėgdami Timūr-Kutluko
+    totoriai paėmė gurguolę, vežimus su gele-
+    žinėmis grandinėmis, patrankas, patrankė-
+    les, arbaletus ir daug turto.
+
+    Temstant, kai pralaimėjimas matėsi ne-
+    išvengiamas, prie valdovo buvusių rite-
+    rių įkalbėtas nesiduoti priešo paimamas
+    Vytautas ir jo brolis Žygimantas bėgo,
+    persėsdami nuo žirgo ant žirgo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

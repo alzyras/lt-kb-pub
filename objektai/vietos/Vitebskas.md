@@ -1261,7 +1261,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: "Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­\nmušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su\nta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo\nVitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­\ngos pirklys Hanulo įteikė jam pilies raktus^1 )."
+  citata_rodoma: |
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1283,7 +1288,14 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  citata_rodoma: |
+    Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1306,7 +1318,14 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
     lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
     neįgijęs, sergėjo.
-  citata_rodoma: "Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -\nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-\nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės\nneįgijęs, sergėjo."
+  citata_rodoma: |
+    Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1329,7 +1348,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+  citata_rodoma: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1351,7 +1374,14 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     leranavoj, Vitebske, Želviuose ir dar vienur kitur.
 
     #### 6.
-  citata_rodoma: "Pijarų mokyklos — vienur pilnos\nkolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-\ntose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam\nDolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-\nleranavoj, Vitebske, Želviuose ir dar vienur kitur.\n\n#### 6."
+  citata_rodoma: |
+    Pijarų mokyklos — vienur pilnos
+    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
+    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
+    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
+    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
+
+    #### 6.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1371,7 +1401,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     vadijos civilinį-karinį komisarą, antrasis valstybės padalijimas
     užklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo
     istoriko motina - Ona Balevičiūtė.
-  citata_rodoma: "Jo tėvą Igną Balinskį, Inflantų taurininką ir Vilniaus vai­\nvadijos civilinį-karinį komisarą, antrasis valstybės padalijimas\nužklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo\nistoriko motina - Ona Balevičiūtė."
+  citata_rodoma: |
+    Jo tėvą Igną Balinskį, Inflantų taurininką ir Vilniaus vai­
+    vadijos civilinį-karinį komisarą, antrasis valstybės padalijimas
+    užklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo
+    istoriko motina - Ona Balevičiūtė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1390,7 +1424,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
     pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
     paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles.
-  citata_rodoma: "Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:\nSmolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a."
+  citata_rodoma: |
+    Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1441,7 +1478,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Gaunamos iš jų pajamos ėjo dabar tiesiai į Vytauto iždą; pir­
     miau jos sudarydavo didesniųjų rusų kunigaikščių pelną, kurio
     tiktai dalį jie skirdavo uždėtiems mokesčiams.
-  citata_rodoma: "įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­\nko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­\nnijos ir Podolijos."
+  citata_rodoma: |
+    įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­
+    ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­
+    nijos ir Podolijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1462,7 +1502,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
-  citata_rodoma: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti\nį Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,\nNaugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-\nmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-\nvos, liko tiktai Palenkės, Pagirio ir Minsko žemės.\nZigmanto ryšiai su Lenkija."
+  citata_rodoma: |
+    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
+    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
+    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
+    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
+    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
+    Zigmanto ryšiai su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1481,7 +1527,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
     pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
     Lietuva tapo didvalstybe - regiono lydere.
-  citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere."
+  citata_rodoma: |
+    Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1533,7 +1583,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
-  citata_rodoma: "Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
+  citata_rodoma: |
+    Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1551,7 +1605,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
     Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
     mas"2.
-  citata_rodoma: "M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­\nli Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti\nMickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­\nmas\"2."
+  citata_rodoma: |
+    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
+    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
+    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
+    mas"2.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1611,7 +1669,21 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     500 riterių, apie 100 riterių — „svečių iš už-
     jūrio“ (J. Dlugošas mini Prūsijos magistro
     karius), Livonijos samdiniai - apie 4500.
-  citata_rodoma: "Bendrai jungtinės pajėgos galėjo sudaryti\napie 9500 karių (šaltiniuose nurodomi\nskaičiai gerokai padidinti, tai atsispindi ir\nistoriografijoje - iki 30 ooo karių).\n\nŠvitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
+  citata_rodoma: |
+    Bendrai jungtinės pajėgos galėjo sudaryti
+    apie 9500 karių (šaltiniuose nurodomi
+    skaičiai gerokai padidinti, tai atsispindi ir
+    istoriografijoje - iki 30 ooo karių).
+
+    Švitrigailos ir Livonijos ordino pajėgos
+    Švitrigailą remiantys lietuviai, rytinių
+
+    LDK slaviškų žemių (Smolensko, Kijevo,
+    Vitebsko, Polocko) kariai - apie 6000, apie
+    500 totorių; Kryžiuočių ordino Livonijos
+    atšakos „Rygos“ magistro pajėgos — apie
+    500 riterių, apie 100 riterių — „svečių iš už-
+    jūrio“ (J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1634,7 +1706,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti.
-  citata_rodoma: "Švitrigai­\nla, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,\nįsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą\nkunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­\nno. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­\nrus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­\nralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,\natkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­\nskandinti."
+  citata_rodoma: |
+    Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
+    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
+    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
+    skandinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1656,7 +1737,14 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
     tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
     bei alpių karščių.
-  citata_rodoma: "Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­\nko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­\nrius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­\nlenske pulkus, apsupo tą miestą ir po keturias savaites\nužsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į\nnelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56."
+  citata_rodoma: |
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1682,7 +1770,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Iš viso - apie 11000 žmonių (istoriogra-
     fijoje šis skaičius kartais padidinamas iki
     30 000).
-  citata_rodoma: "Švitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
+  citata_rodoma: |
+    Švitrigailos ir Livonijos ordino pajėgos
+    Švitrigailą remiantys lietuviai, rytinių
+
+    LDK slaviškų žemių (Smolensko, Kijevo,
+    Vitebsko, Polocko) kariai - apie 6000, apie
+    500 totorių; Kryžiuočių ordino Livonijos
+    atšakos „Rygos“ magistro pajėgos — apie
+    500 riterių, apie 100 riterių — „svečių iš už-
+    jūrio“ (J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1749,7 +1846,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     į
     p ilies
     v a r tu s
-  citata_rodoma: "Mat rusai nuo senų senovės įpratę Velykų dieną do­\nvanoti vienas kitam margutį kaip bičiuliškumo ženklą.\nAlgirdas, nors viešai laikėsi stabmeldžių apeigų, ta­\nčiau, neseniai savo žmonos Julijonos, Vitebsko kuni­\ngaikščio dukters, noru sutikęs priimti krikščionybę, ne­\natmetė rusų apeigų ir rusams Vitebske pastatė porą\nšventovių. Palankumą krikščionybei jis, be to, parodė,\nžiauriai tuo metu atkeršydamas už krikščionių šventi­\nkų nužudymą."
+  citata_rodoma: |
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių. Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1781,7 +1887,22 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
     draugiškus jausmus ir prijungė, puoselėdamas tam tik­
     rus sumanymus, savo karines jėgas prie Vytauto.
-  citata_rodoma: "Taip pat ir Jurijus Svia-\ntoslavovičius, Smolensko valdovas, nors ir elgėsi kaip\nneabejotinas priešas, kol Vytautas dar nebuvo atvykęs,\ntačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­\ndraugiškus jausmus ir prijungė, puoselėdamas tam tik­\nrus sumanymus, savo karines jėgas prie Vytauto. Smo-\nlenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė\nbuvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,\ntačiau ne dėl to, kad nebuvo\nA p su p a  V ite b s k ą\ndaroma, kas tokiais atvejais\nreikalinga, o todėl, kad gynė­\njai, ypač Livonijos kariai, klausydami ne tiek Švitri­\ngailos skatinimų, kiek įsakymų bei grasinimų, prieši­\nnosi iš paskutiniųjų."
+  citata_rodoma: |
+    Taip pat ir Jurijus Svia-
+    toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
+    neabejotinas priešas, kol Vytautas dar nebuvo atvykęs,
+    tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
+    draugiškus jausmus ir prijungė, puoselėdamas tam tik­
+    rus sumanymus, savo karines jėgas prie Vytauto. Smo-
+    lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
+    buvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1931,7 +2052,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
-  citata_rodoma: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti\nį Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,\nNaugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-\nmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-\nvos, liko tiktai Palenkės, Pagirio ir Minsko žemės.\nZigmanto ryšiai su Lenkija."
+  citata_rodoma: |
+    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
+    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
+    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
+    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
+    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
+    Zigmanto ryšiai su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -1952,7 +2079,14 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
     lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
     neįgijęs, sergėjo.
-  citata_rodoma: "Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -\nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-\nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės\nneįgijęs, sergėjo."
+  citata_rodoma: |
+    Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2017,7 +2151,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+  citata_rodoma: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2038,7 +2176,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Gaunamos iš jų pajamos ėjo dabar tiesiai į Vytauto iždą; pir­
     miau jos sudarydavo didesniųjų rusų kunigaikščių pelną, kurio
     tiktai dalį jie skirdavo uždėtiems mokesčiams.
-  citata_rodoma: "įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­\nko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­\nnijos ir Podolijos."
+  citata_rodoma: |
+    įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­
+    ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­
+    nijos ir Podolijos.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2055,7 +2196,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio
     sritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­
     tytus vietininkus (« namiestniki ») ir tijūnus.
-  citata_rodoma: "Jam priklausė betarpiškai Vilniaus\nžemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio\nsritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­\ntytus vietininkus (« namiestniki ») ir tijūnus."
+  citata_rodoma: |
+    Jam priklausė betarpiškai Vilniaus
+    žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio
+    sritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­
+    tytus vietininkus (« namiestniki ») ir tijūnus.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -2114,7 +2259,14 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  citata_rodoma: |
+    Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2132,7 +2284,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
     pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
     paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles.
-  citata_rodoma: "Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:\nSmolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a."
+  citata_rodoma: |
+    Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2157,7 +2312,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Iš viso - apie 11000 žmonių (istoriogra-
     fijoje šis skaičius kartais padidinamas iki
     30 000).
-  citata_rodoma: "Švitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
+  citata_rodoma: |
+    Švitrigailos ir Livonijos ordino pajėgos
+    Švitrigailą remiantys lietuviai, rytinių
+
+    LDK slaviškų žemių (Smolensko, Kijevo,
+    Vitebsko, Polocko) kariai - apie 6000, apie
+    500 totorių; Kryžiuočių ordino Livonijos
+    atšakos „Rygos“ magistro pajėgos — apie
+    500 riterių, apie 100 riterių — „svečių iš už-
+    jūrio“ (J.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2179,7 +2343,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti.
-  citata_rodoma: "Švitrigai­\nla, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,\nįsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą\nkunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­\nno. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­\nrus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­\nralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,\natkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­\nskandinti."
+  citata_rodoma: |
+    Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
+    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
+    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
+    skandinti.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2234,7 +2407,26 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     taikos sutarties, darydamas gėdą savo šaliai, skubiai
     pranešė turkų sultonui, ir Vengrijai, ir Valakijos vai­
     vadai.
-  citata_rodoma: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO \nALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA \nSU MOLDAVUOS VAIVADA STEPONU\nTą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo \nbrolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­\n\n## Puslapis 146\n\nvai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti \nseimą Parčeve. Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 ."
+  citata_rodoma: |
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -2268,7 +2460,21 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     500 riterių, apie 100 riterių — „svečių iš už-
     jūrio“ (J. Dlugošas mini Prūsijos magistro
     karius), Livonijos samdiniai - apie 4500.
-  citata_rodoma: "Bendrai jungtinės pajėgos galėjo sudaryti\napie 9500 karių (šaltiniuose nurodomi\nskaičiai gerokai padidinti, tai atsispindi ir\nistoriografijoje - iki 30 ooo karių).\n\nŠvitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
+  citata_rodoma: |
+    Bendrai jungtinės pajėgos galėjo sudaryti
+    apie 9500 karių (šaltiniuose nurodomi
+    skaičiai gerokai padidinti, tai atsispindi ir
+    istoriografijoje - iki 30 ooo karių).
+
+    Švitrigailos ir Livonijos ordino pajėgos
+    Švitrigailą remiantys lietuviai, rytinių
+
+    LDK slaviškų žemių (Smolensko, Kijevo,
+    Vitebsko, Polocko) kariai - apie 6000, apie
+    500 totorių; Kryžiuočių ordino Livonijos
+    atšakos „Rygos“ magistro pajėgos — apie
+    500 riterių, apie 100 riterių — „svečių iš už-
+    jūrio“ (J.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2291,7 +2497,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: "Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­\nmušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su\nta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo\nVitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­\ngos pirklys Hanulo įteikė jam pilies raktus^1 )."
+  citata_rodoma: |
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2360,7 +2571,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
-  citata_rodoma: "Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
+  citata_rodoma: |
+    Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2377,7 +2592,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
     Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
     nigaikštijos.
-  citata_rodoma: "Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos."
+  citata_rodoma: |
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2410,7 +2627,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     vadijos civilinį-karinį komisarą, antrasis valstybės padalijimas
     užklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo
     istoriko motina - Ona Balevičiūtė.
-  citata_rodoma: "Jo tėvą Igną Balinskį, Inflantų taurininką ir Vilniaus vai­\nvadijos civilinį-karinį komisarą, antrasis valstybės padalijimas\nužklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo\nistoriko motina - Ona Balevičiūtė."
+  citata_rodoma: |
+    Jo tėvą Igną Balinskį, Inflantų taurininką ir Vilniaus vai­
+    vadijos civilinį-karinį komisarą, antrasis valstybės padalijimas
+    užklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo
+    istoriko motina - Ona Balevičiūtė.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2432,7 +2653,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     gos „Užnerio puse“ žygiavo į Vilkmergę
     (Ukmergę). Toliau planavo pulti Trakų -
     Vilniaus kryptimi.
-  citata_rodoma: "Prieš mūšį\n\nŽygiui į Lietuvą kunigaikštis Švitrigaila\nsavo ir pavaldžių rusų kunigaikščių pa-\njėgas sutelkė Vitebske, iš kur patraukė į\nBreslaują. Čia prisijungė Livonijos ma-\ngistro kariuomenė ir šios jungtinės pajė-\ngos „Užnerio puse“ žygiavo į Vilkmergę\n(Ukmergę)."
+  citata_rodoma: |
+    Prieš mūšį
+
+    Žygiui į Lietuvą kunigaikštis Švitrigaila
+    savo ir pavaldžių rusų kunigaikščių pa-
+    jėgas sutelkė Vitebske, iš kur patraukė į
+    Breslaują. Čia prisijungė Livonijos ma-
+    gistro kariuomenė ir šios jungtinės pajė-
+    gos „Užnerio puse“ žygiavo į Vilkmergę
+    (Ukmergę).
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
@@ -2486,7 +2716,14 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     leranavoj, Vitebske, Želviuose ir dar vienur kitur.
 
     #### 6.
-  citata_rodoma: "Pijarų mokyklos — vienur pilnos\nkolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-\ntose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam\nDolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-\nleranavoj, Vitebske, Želviuose ir dar vienur kitur.\n\n#### 6."
+  citata_rodoma: |
+    Pijarų mokyklos — vienur pilnos
+    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
+    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
+    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
+    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
+
+    #### 6.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2529,7 +2766,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
     Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
     mas"2.
-  citata_rodoma: "M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­\nli Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti\nMickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­\nmas\"2."
+  citata_rodoma: |
+    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
+    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
+    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
+    mas"2.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 
@@ -2568,7 +2809,14 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
     tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
     bei alpių karščių.
-  citata_rodoma: "Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­\nko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­\nrius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­\nlenske pulkus, apsupo tą miestą ir po keturias savaites\nužsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į\nnelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56."
+  citata_rodoma: |
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
 

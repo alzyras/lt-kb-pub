@@ -132,7 +132,12 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     sodybos dominavo.
     Pagrindinis baltų užsiėmimas buvo žemės darbas, o šalia jo
     ėjo gyvulininkystė.
-  citata_rodoma: "Istorinių laikų sąvartoje, šalia įprastinių kuopinių kaimų, pasitai­\nkydavo lietuvių gyvenamų viensėdžių sodybų, tačiau kaiminės\nsodybos dominavo.\nPagrindinis baltų užsiėmimas buvo žemės darbas, o šalia jo\nėjo gyvulininkystė."
+  citata_rodoma: |
+    Istorinių laikų sąvartoje, šalia įprastinių kuopinių kaimų, pasitai­
+    kydavo lietuvių gyvenamų viensėdžių sodybų, tačiau kaiminės
+    sodybos dominavo.
+    Pagrindinis baltų užsiėmimas buvo žemės darbas, o šalia jo
+    ėjo gyvulininkystė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

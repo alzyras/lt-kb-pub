@@ -63,7 +63,11 @@ Branto kavaleriją, kuri pradėjo trauktis. Raiteliai bėga pirmi, pavadžiais s
     M. Giedraičio vėliavos sugebėjo sumušti
     generolo H. Branto kavaleriją, kuri pradėjo
     trauktis.
-  citata_rodoma: "Rotmistry J. P. Sapiegos, M. Vielamovskio,\nM. Giedraičio vėliavos sugebėjo sumušti\ngenerolo H. Branto kavaleriją, kuri pradėjo\ntrauktis."
+  citata_rodoma: |
+    Rotmistry J. P. Sapiegos, M. Vielamovskio,
+    M. Giedraičio vėliavos sugebėjo sumušti
+    generolo H. Branto kavaleriją, kuri pradėjo
+    trauktis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

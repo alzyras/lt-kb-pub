@@ -48,7 +48,6 @@ Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su sl
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173296
 
 <a id="claim-t-197276"></a>
 - t-002
@@ -80,5 +79,4 @@ Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su sl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190413
     - t-197276

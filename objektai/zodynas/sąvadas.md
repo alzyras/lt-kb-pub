@@ -165,7 +165,11 @@ Nenurodyta
     sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
     Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
     dakciją.
-  citata_rodoma: "Trumpajame sąvade, sudarytame apie 1446 m., nuo­\nsekliau ir išsamiau nušviečiama tiktai 1377—1445 m . \nlaikotarpio feodalinės Lietuvos valstybės politinė is­\ntorija."
+  citata_rodoma: |
+    Trumpajame sąvade, sudarytame apie 1446 m., nuo­
+    sekliau ir išsamiau nušviečiama tiktai 1377—1445 m .
+    laikotarpio feodalinės Lietuvos valstybės politinė is­
+    torija.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -190,7 +194,10 @@ Nenurodyta
     nės dalies — Vytauto laikus aprašančio „Didžiųjų Lie­
     tuvos kunigaikščių metraščio", buvo visiškai perdirbta
     ir šito šaltinio pradžia.
-  citata_rodoma: "Platesnysis Lietuvos metraščių sąvadas, vadinamas \n„Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­\nka\", kilo, veikiausiai, XVI a. antrajame dešimtmetyje."
+  citata_rodoma: |
+    Platesnysis Lietuvos metraščių sąvadas, vadinamas
+    „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
+    ka", kilo, veikiausiai, XVI a. antrajame dešimtmetyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

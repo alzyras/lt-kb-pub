@@ -234,7 +234,18 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
     lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
     mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
     Stanislovas82.
-  citata_rodoma: "k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza \nmetraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika\n155\n\n## Puslapis 172\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos \nlėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­\nmes pašventino vyskupai: Kijevo - Mykolas ir Plocko - \nStanislovas82."
+  citata_rodoma: |
+    k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
+    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
+    155
+
+    ## Puslapis 172
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
+    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
+    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
+    Stanislovas82.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -280,7 +291,14 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
     liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
     iki 24 metų prieš Kristaus gimimą. Tiems topografams
     vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
-  citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
+  citata_rodoma: |
+    Tačiau Tidemanas rašo, kad
+    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
+    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
+    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
+    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
+    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
+    mis2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

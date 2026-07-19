@@ -82,7 +82,8 @@ media_all_json: |-
     Jis turi pinigų ir javų.
     Tegul užmoka ponui nuomą už jūsų dubą ir
     tegul pusę dubos valdo.“ Taip ir padarė.
-  citata_rodoma: "Buvo kas patarė: „Eikite pas Šulskiuką! Jis turi pinigų ir javų. Tegul užmoka ponui nuomą už jūsų dubą ir tegul pusę dubos valdo.“"
+  citata_rodoma: |
+    Buvo kas patarė: „Eikite pas Šulskiuką! Jis turi pinigų ir javų. Tegul užmoka ponui nuomą už jūsų dubą ir tegul pusę dubos valdo.“
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -108,7 +109,8 @@ media_all_json: |-
     Štai senas Šulskis pasakoja,
     kaip jis buvęs bernu,
     gavo gyvenimą ir pastojo ūkininku.
-  citata_rodoma: "Štai senas Šulskis pasakoja, kaip jis buvęs bernu, gavo gyvenimą ir pastojo ūkininku."
+  citata_rodoma: |
+    Štai senas Šulskis pasakoja, kaip jis buvęs bernu, gavo gyvenimą ir pastojo ūkininku.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

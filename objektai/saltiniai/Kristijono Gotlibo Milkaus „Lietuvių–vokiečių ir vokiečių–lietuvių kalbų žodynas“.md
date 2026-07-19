@@ -123,7 +123,15 @@ media_all_json: |-
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
-  citata_rodoma: "III s k y r i u s\nRusijos imperijos  \nvaldoma Lietuva  \n(1795–1915)\n„Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių \npagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė \nuž tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai \nišvystytos žmonių kalbos su savita gražia ir aiškia fonologija."
+  citata_rodoma: |
+    III s k y r i u s
+    Rusijos imperijos
+    valdoma Lietuva
+    (1795–1915)
+    „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių
+    pagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė
+    už tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai
+    išvystytos žmonių kalbos su savita gražia ir aiškia fonologija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

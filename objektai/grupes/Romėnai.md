@@ -512,7 +512,10 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
     pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
     žiaus čia bus gyvenę tie patys aisčiai.
-  citata_rodoma: "Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus\ngalo romėnų rašytojas Tacitas savo veikale „Germania\".\nJis juos vadina aisčiais _(aestii, aestiorum gentes)._"
+  citata_rodoma: |
+    Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
+    galo romėnų rašytojas Tacitas savo veikale „Germania".
+    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -572,7 +575,13 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     dydžio, išmaitintą pienu; ji išdarinėjusi neapsakomus dalykus.
     Ji buvo vieno lietuvių kaimiečio, gyvenusio Neringoje, arba
     Kuršių nerijoje, namų dievaitė XVI amžiaus pirmojoje pusėje.
-  citata_rodoma: "Pasak Plutarcho, pas atėniečius prijaukinti žal­\nčiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­\nvo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­\nnėms apsireikšdavo žalčiu.\nPer daug ilgai reikėtų vardyti visas smulkmenas, bendras\nlietuviams ir Antikos tautoms, iš tos pačios srities."
+  citata_rodoma: |
+    Pasak Plutarcho, pas atėniečius prijaukinti žal­
+    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
+    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
+    nėms apsireikšdavo žalčiu.
+    Per daug ilgai reikėtų vardyti visas smulkmenas, bendras
+    lietuviams ir Antikos tautoms, iš tos pačios srities.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -633,7 +642,14 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
     du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais.
-  citata_rodoma: "Užrašas virš akmenų galvų -  runomis'*.\nLietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra\nviduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­\nni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­\ntoj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­\n9\nNeseckis (Herbarz Polski."
+  citata_rodoma: |
+    Užrašas virš akmenų galvų -  runomis'*.
+    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
+    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
+    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
+    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
+    9
+    Neseckis (Herbarz Polski.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -659,7 +675,19 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     Rifėjų, kalnai skyrė į rytus tekančius Volgos, Dono, Dnep-
     ro vandens baseinus nuo Dauguvos, Nemuno, Vyslos ir
     kitų upių, bėgančių į vakarus3.
-  citata_rodoma: "Kai kartaginietis\npamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­\nrodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats\nprarado savo laivą ir pražudė savo seklį, tačiau buvo už\nlai saviškių dosniai apdovanotas1.\n175\nIlgo imperatoriaus Augusto valdymo metais geografi­\njos tyrinėjimas padarė geroką pažangą: šis Romos val­\ndovas pats rašė traktatus apie geografiją, iš visur rinko\nžinias, pasitelkė matematikus2. Taigi nėra abejonių, kad\nvalstybės valdžia turėjo tam tikrų tikslių žinių apie jūras\nir kraštus, esančius į šiaurę nuo Elbės."
+  citata_rodoma: |
+    Kai kartaginietis
+    pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
+    rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
+    prarado savo laivą ir pražudė savo seklį, tačiau buvo už
+    lai saviškių dosniai apdovanotas1.
+    175
+    Ilgo imperatoriaus Augusto valdymo metais geografi­
+    jos tyrinėjimas padarė geroką pažangą: šis Romos val­
+    dovas pats rašė traktatus apie geografiją, iš visur rinko
+    žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
+    valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
+    ir kraštus, esančius į šiaurę nuo Elbės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -685,7 +713,21 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     mėgino gelbėtis ir, įbridę į klampią masę, taip ir sustin­
     go, be to, pasitaiko klampaus skysčio užkluptų poravimosi
     momentu vabzdžių.
-  citata_rodoma: "149\n\n## Puslapis 147\n\nnes pas juos randamas1“. Sis autorius, kruopščiausiai rin­\nkęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės,\nvadovaudamas romėnų kariuomenei, be to, buvo visiškai\natsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos\nsusipažinti su to meto mokslininkų požiūriais ¡bei sufor­\nmuoti savo nuomonę; anot jo, tai yra nežinomo medžio\nsakai.\n151\nNaujųjų laikų gamtos tyrinėtojai ligi šiol nesutarė dėl\ngintaro prigimties ir kilmės."
+  citata_rodoma: |
+    149
+
+    ## Puslapis 147
+
+    nes pas juos randamas1“. Sis autorius, kruopščiausiai rin­
+    kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės,
+    vadovaudamas romėnų kariuomenei, be to, buvo visiškai
+    atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos
+    susipažinti su to meto mokslininkų požiūriais ¡bei sufor­
+    muoti savo nuomonę; anot jo, tai yra nežinomo medžio
+    sakai.
+    151
+    Naujųjų laikų gamtos tyrinėtojai ligi šiol nesutarė dėl
+    gintaro prigimties ir kilmės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

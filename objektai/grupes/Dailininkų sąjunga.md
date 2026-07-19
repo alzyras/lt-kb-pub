@@ -65,7 +65,8 @@ Nuo rašytojų neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
     vos istorija mokyklose būtų dėstoma kaip pagrindinė istorijos pamokų tema,
     prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“. Nuo rašytojų
     neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
-  citata_rodoma: "prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“. Nuo rašytojų"
+  citata_rodoma: |
+    prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“. Nuo rašytojų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

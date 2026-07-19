@@ -113,7 +113,14 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
     čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
     duoti Lietuvai (liepos 10 d.).
-  citata_rodoma: "Tada Aukš-\nčiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-\nvietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-\ntely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už\nvadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-\nčiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-\nduoti Lietuvai (liepos 10 d.)."
+  citata_rodoma: |
+    Tada Aukš-
+    čiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-
+    vietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-
+    tely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už
+    vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
+    čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
+    duoti Lietuvai (liepos 10 d.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -137,7 +144,15 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
     (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
     sėje.
-  citata_rodoma: "Ta sutartis, nespręs-\ndama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-\nte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-\nsioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno\n— visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų\n\n(prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-\nsėje."
+  citata_rodoma: |
+    Ta sutartis, nespręs-
+    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
+    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
+    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
+    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
+
+    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
+    sėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

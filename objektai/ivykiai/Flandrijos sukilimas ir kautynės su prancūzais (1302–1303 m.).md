@@ -129,7 +129,15 @@ Nenurodyta
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
     95.
-  citata_rodoma: "Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,\nsuėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.\n1222).\n  1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).\n   Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),"
+  citata_rodoma: |
+    Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
+    suėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
+    1222).
+      1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
+    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
+       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    prarado labai daug užmuštaisiais (Ptol. p. 1223),
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -147,8 +155,14 @@ Nenurodyta
 
 
 
-                 95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
-  citata_rodoma: "Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),\n\n\n\n             95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą"
+                 95.
+  citata_rodoma: |
+    Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    prarado labai daug užmuštaisiais (Ptol. p. 1223),
+
+
+
+                 95.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

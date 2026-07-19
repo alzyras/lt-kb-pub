@@ -69,7 +69,9 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
     teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
     nimu. Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
     caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
-  citata_rodoma: "Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą\ncaro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė."
+  citata_rodoma: |
+    Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
+    caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

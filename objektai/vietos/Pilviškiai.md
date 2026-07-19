@@ -101,11 +101,15 @@ Pilviškių vis. Pilviškių vls.
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    X. ŽIŪRŲ-GUDELIŲ KAUTYNĖS
+    ŽIŪRŲ-GUDELIŲ KAUTYNĖS
 
     1950 m. birželio 22-23 d. Vilkaviškio aps. Pilviškių vls. Žiūrų-Gudelių k. apylinkėse MGB
     353-iojo šaulių pulko 70 kareivių ir 30 stribų puolė Tauro apygardos partizanų grupę.
-  citata_rodoma: "ŽIŪRŲ-GUDELIŲ KAUTYNĖS\n\n1950 m. birželio 22-23 d. Vilkaviškio aps. Pilviškių vls. Žiūrų-Gudelių k. apylinkėse MGB\n353-iojo šaulių pulko 70 kareivių ir 30 stribų puolė Tauro apygardos partizanų grupę."
+  citata_rodoma: |
+    ŽIŪRŲ-GUDELIŲ KAUTYNĖS
+
+    1950 m. birželio 22-23 d. Vilkaviškio aps. Pilviškių vls. Žiūrų-Gudelių k. apylinkėse MGB
+    353-iojo šaulių pulko 70 kareivių ir 30 stribų puolė Tauro apygardos partizanų grupę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -107,7 +107,14 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
     tum animarum et etiam unJe latrunculi exeunt in preceptis
     et mortificationem clericorum, Je talibus monacbis sibi unus­
     quisque caueat consulimus Jominorum.
-  citata_rodoma: "iJcirco consulentes vo­\nbis ipsis, mittentes nobis ex parte vestrorum omnium sollem- \npnes nuncios veros et vnos (i) fi Je Jignos super manum nostram \net super presens scriptum nostro regio sigillo roboratum. Su­\nper boc promittimus vobis omnibus fiJe Jata Quod talem pa­\ncem ordinabimus ininuicem (sic) quod Christiani similem \nnunquam senciebant."
+  citata_rodoma: |
+    iJcirco consulentes vo­
+    bis ipsis, mittentes nobis ex parte vestrorum omnium sollem-
+    pnes nuncios veros et vnos (i) fi Je Jignos super manum nostram
+    et super presens scriptum nostro regio sigillo roboratum. Su­
+    per boc promittimus vobis omnibus fiJe Jata Quod talem pa­
+    cem ordinabimus ininuicem (sic) quod Christiani similem
+    nunquam senciebant.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +140,13 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
     sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­
     mingai prižadame jums visiems, kad nustatysime tokią tar­
     pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
-  citata_rodoma: "Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­\nvo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­\nmo vertus vyrus; mes, be savo parašo ir be šio savo laiško, \nsutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­\nmingai prižadame jums visiems, kad nustatysime tokią tar­\npusavio taiką, apie kokią krikščionys niekados nė negalvojo."
+  citata_rodoma: |
+    Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
+    vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­
+    mo vertus vyrus; mes, be savo parašo ir be šio savo laiško,
+    sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­
+    mingai prižadame jums visiems, kad nustatysime tokią tar­
+    pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

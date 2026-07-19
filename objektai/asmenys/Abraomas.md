@@ -67,7 +67,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-171398
+    - c-003
 
 <a id="claim-t-188509"></a>
 - t-003
@@ -130,6 +130,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-188509
+    - t-188508
 ## Citatos
 
 - id: c-60858
@@ -150,7 +151,13 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
     dangaus ir žemės ženklų išpranašauta, rodėsi vienintelė turinti pareigą už Kristų kentėti
     patyčias ant kryžiaus ir pasižadėjusi išvaduoti iš netikėlių priespaudos šventąją žemę bei
     atiduoti ją krikščionims.
-  citata_rodoma: "Štai ir senajame\ntestamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus\nmetus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai\njis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas padovanojo patriarchui\nduonos ir vyno, aukai skiriamą dovaną, palaimintą aukščiausiojo dievo, kuriam globojant\npriešai atsidūrė jo rankose."
+  citata_rodoma: |
+    Štai ir senajame
+    testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus
+    metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai
+    jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas padovanojo patriarchui
+    duonos ir vyno, aukai skiriamą dovaną, palaimintą aukščiausiojo dievo, kuriam globojant
+    priešai atsidūrė jo rankose.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -179,7 +186,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188508
     - t-197387
 - id: c-171399
   autorius: "Teodoras Narbutas"
@@ -196,7 +202,16 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
     medžio, nuo kurio priklausė jos būtis, šaknis, kreipėsi į tenai
     medžiojusį Arką, prašydama nukreipti šalin vandenį ir apkas­
     ti žemėmis jau beveik griūvantį medį.
-  citata_rodoma: "Tie trys medžiai suaugę į vieną medį, kuris\nbuvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­\nvenęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­\ngumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas\nstatęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė\nšventu.\nNepalyginti labiau medžius aukštino ir garbino stabmel­\ndžiai; jie pripažindavo šventais ne tik pavienius medžius, bet\nnet ištisus miškelius, kurių nederėjo liesti."
+  citata_rodoma: |
+    Tie trys medžiai suaugę į vieną medį, kuris
+    buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­
+    venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­
+    gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas
+    statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė
+    šventu.
+    Nepalyginti labiau medžius aukštino ir garbino stabmel­
+    džiai; jie pripažindavo šventais ne tik pavienius medžius, bet
+    net ištisus miškelius, kurių nederėjo liesti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

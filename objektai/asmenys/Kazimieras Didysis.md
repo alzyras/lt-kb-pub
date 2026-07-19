@@ -358,7 +358,16 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     taika lenkų - Ordino ginčas kuriam laikui buvo išrištas. Už
     gautą Kujavų ir Dobrynės žemę Kazimieras didysis sutiko
     Pamarį palikti Ordinui^3 ).
-  citata_rodoma: "Jau tada bekovodamas su Ordinu Lenkų kara­\nlius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­\nžiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­\ndaryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir\nVladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)\njungtuvės^2 ). Bet ta sąjunga nieko gero nedavė. 1343 mt. Kališiaus\ntaika lenkų - Ordino ginčas kuriam laikui buvo išrištas. Už\ngautą Kujavų ir Dobrynės žemę Kazimieras didysis sutiko\nPamarį palikti Ordinui^3 )."
+  citata_rodoma: |
+    Jau tada bekovodamas su Ordinu Lenkų kara­
+    lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­
+    žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­
+    daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
+    Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
+    jungtuvės^2 ). Bet ta sąjunga nieko gero nedavė. 1343 mt. Kališiaus
+    taika lenkų - Ordino ginčas kuriam laikui buvo išrištas. Už
+    gautą Kujavų ir Dobrynės žemę Kazimieras didysis sutiko
+    Pamarį palikti Ordinui^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -385,7 +394,20 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     gaikščio Dmitrijaus Michailovičiaus,
     1326 metų spalio 15 dieną totorių
     chano Uzbeko įsakymu nužudyto.
-  citata_rodoma: "Gediminas, užsitikrinęs sau-\ndybomis, buvo labai tvirti ir svarbūs. \nIš jų Aldona, arba Aldoina, per \nkrikštą pavadinta Ona, buvo ištekin­\nta už Lenkijos karaliaus Kazimiero \nDidžiojo. Danmilė, pakrikštyta Elž­\nbieta, už Vaclovo - Mazovijos kuni­\ngaikščio, Marija - už Boleslovo - Ru­\nsios kunigaikščio; o ketvirtoji, \nbevaikė, - už Rusios didžiojo kuni­\ngaikščio Dmitrijaus Michailovičiaus, \n1326 metų spalio 15 dieną totorių \nchano Uzbeko įsakymu nužudyto."
+  citata_rodoma: |
+    Gediminas, užsitikrinęs sau-
+    dybomis, buvo labai tvirti ir svarbūs.
+    Iš jų Aldona, arba Aldoina, per
+    krikštą pavadinta Ona, buvo ištekin­
+    ta už Lenkijos karaliaus Kazimiero
+    Didžiojo. Danmilė, pakrikštyta Elž­
+    bieta, už Vaclovo - Mazovijos kuni­
+    gaikščio, Marija - už Boleslovo - Ru­
+    sios kunigaikščio; o ketvirtoji,
+    bevaikė, - už Rusios didžiojo kuni­
+    gaikščio Dmitrijaus Michailovičiaus,
+    1326 metų spalio 15 dieną totorių
+    chano Uzbeko įsakymu nužudyto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -405,7 +427,13 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­
     sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo
     Piasto Kazimiero Didžiojo mirties (1370).
-  citata_rodoma: "Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos\ntolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad\nLietuvos valdovas tapo karaliumi kaimyninėje lenkų žemėje. Tai\nreiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­\nsios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo\nPiasto Kazimiero Didžiojo mirties (1370)."
+  citata_rodoma: |
+    Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
+    tolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad
+    Lietuvos valdovas tapo karaliumi kaimyninėje lenkų žemėje. Tai
+    reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­
+    sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo
+    Piasto Kazimiero Didžiojo mirties (1370).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -425,7 +453,14 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-
     furtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino
     valdų.
-  citata_rodoma: "Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-\nkiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą\nAldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-\nmieru. 1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė\n1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-\nfurtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino\nvaldų."
+  citata_rodoma: |
+    Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
+    kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
+    Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
+    mieru. 1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė
+    1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-
+    furtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino
+    valdų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -442,7 +477,11 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     Lubawskie (SZCh, p. 87—88) Drevantos aukštupyje.
     592  Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos
     sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
-  citata_rodoma: "Neumark, dab. Nowe Miasto\nLubawskie (SZCh, p. 87—88) Drevantos aukštupyje.\n  592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos\nsūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo."
+  citata_rodoma: |
+    Neumark, dab. Nowe Miasto
+    Lubawskie (SZCh, p. 87—88) Drevantos aukštupyje.
+      592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos
+    sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -463,7 +502,14 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     novskis vadina nemirštama Kazimiero D. politikos idėja, nes
     ji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­
     se^1 ).
-  citata_rodoma: "Kalyšiaus sutartimi atsi­\nsakė nuo Pamario ir kitų kraštų Ordino naudai. Jau anksčiau\nprasidėjęs didelis spaudimas vakaruose lenkus dabar automatiš­\nkai atgręžė į rytus. Šitą atsigręžimą lenkų istorikas Kocha­\nnovskis vadina nemirštama Kazimiero D. politikos idėja, nes\nji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­\nse^1 )."
+  citata_rodoma: |
+    Kalyšiaus sutartimi atsi­
+    sakė nuo Pamario ir kitų kraštų Ordino naudai. Jau anksčiau
+    prasidėjęs didelis spaudimas vakaruose lenkus dabar automatiš­
+    kai atgręžė į rytus. Šitą atsigręžimą lenkų istorikas Kocha­
+    novskis vadina nemirštama Kazimiero D. politikos idėja, nes
+    ji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­
+    se^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -488,7 +534,17 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
     kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
     ninko - Vokietijai.
-  citata_rodoma: "Pagaliau nemažai įvairių tenykš­\nčių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­\nglobsčio prie Vilniaus pilies. Taip kūrėsi Vilnius, kuris tuo­\nmet, regis, buvo panašesnis į keletą didelių kaimų, sujungtų \nį vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą \nmiestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­\nkiais Kazimieras Didysis puošė ir tvirtino Lenkiją. Gedimi­\nno viešpatavimas Lietuvai anuomet buvo tokia pat epocha, \nkokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti- \nninko - Vokietijai."
+  citata_rodoma: |
+    Pagaliau nemažai įvairių tenykš­
+    čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
+    globsčio prie Vilniaus pilies. Taip kūrėsi Vilnius, kuris tuo­
+    met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų
+    į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą
+    miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­
+    kiais Kazimieras Didysis puošė ir tvirtino Lenkiją. Gedimi­
+    no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
+    kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
+    ninko - Vokietijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -507,7 +563,11 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     dėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs
     Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
     Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.
-  citata_rodoma: "Lenkijoj ėjo nuo seniau ginčas\ndėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs\nVladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas\nLenkų ir Vengrų karaliaus Liudviko valdyti Galiciją."
+  citata_rodoma: |
+    Lenkijoj ėjo nuo seniau ginčas
+    dėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs
+    Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
+    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -532,7 +592,19 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     kenksmingos kaip dabar. Taigi siekdamas to, nes matė jau ga-
     66
     Žr. Vol.
-  citata_rodoma: "Žydai, dar XI am­\nžiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno \nbuvo ne naujiena, juk laisvai galėjo į ją atvykti, tiek Lenkijos \nsieną kirsdami, tiek ir iš rytų pusės. Tikriausiai jau Algirdo \nlaikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­\nsimindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­\nnėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­\nse miestuose, be to, išmanė, kiek naudos gali duoti turtai, verslai \nbei įgimti sugebėjimai prekiauti tos tautos, anuomet ne tokios \nkenksmingos kaip dabar. Taigi siekdamas to, nes matė jau ga-\n66\nŽr. Vol."
+  citata_rodoma: |
+    Žydai, dar XI am­
+    žiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno
+    buvo ne naujiena, juk laisvai galėjo į ją atvykti, tiek Lenkijos
+    sieną kirsdami, tiek ir iš rytų pusės. Tikriausiai jau Algirdo
+    laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­
+    simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­
+    nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­
+    se miestuose, be to, išmanė, kiek naudos gali duoti turtai, verslai
+    bei įgimti sugebėjimai prekiauti tos tautos, anuomet ne tokios
+    kenksmingos kaip dabar. Taigi siekdamas to, nes matė jau ga-
+    66
+    Žr. Vol.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

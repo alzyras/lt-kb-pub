@@ -139,7 +139,14 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
     matyti, kad, vadovaujant tokiam išmintingam, veikliam ir ka­
     ringam monarchui, augančios galingos valstybės sostinė bū- 38 39
     38 Noël F. Dictionnaire mythologique (Divination).
-  citata_rodoma: "Kuo daugiau tikėta jų buvimu, tuo labiau\nartėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų\nprietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai\nįrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­\ngiausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­\ndies padavimai tas senes paprastai kildina iš Lietuvos Rusios,\no vietinių nepripažįsta, jog šitiek daug moka."
+  citata_rodoma: |
+    Kuo daugiau tikėta jų buvimu, tuo labiau
+    artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
+    prietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai
+    įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­
+    giausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­
+    dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
+    o vietinių nepripažįsta, jog šitiek daug moka.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

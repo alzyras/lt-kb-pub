@@ -88,7 +88,8 @@ Nenurodyta
     gą. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
     steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
     peliai, leisti sienlaikraščiai.
-  citata_rodoma: "Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose"
+  citata_rodoma: |
+    Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

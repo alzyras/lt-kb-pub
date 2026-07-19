@@ -178,7 +178,15 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     užleidę, ėmė vartoti naujus“. Tas, kuris mums išsakė priekaištą,
     jog mes lietuvius apdovanojome herbais jau tais laikais, kai dar
     niekur jie nebuvo žinomi, pasakė nesąmonę.
-  citata_rodoma: "Be to, pas Henenbergerj\nyra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­\nnimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo\ntrečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo\nLietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su\nkryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­\nteikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­\nliotekos."
+  citata_rodoma: |
+    Be to, pas Henenbergerj
+    yra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­
+    nimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo
+    trečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo
+    Lietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su
+    kryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­
+    teikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­
+    liotekos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -200,7 +208,17 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     vieną dievą, ateisiantį gyvųjų ir mirusiųjų teisti.
     Paskui valdė didysis kunigaikštis Skirmantas, paliko
     du sūnus — Trobių6 ir Giliginą7.
-  citata_rodoma: "## Puslapis 55\n\n12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO \nŠONŲ SKIRMANTĄ\nPonai gedėjo savo gimtojo valdovo ir išsirinko val­\ndovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­\nčių kunigaikščio Utenio sūnų.\nŠventaragiui neilgai pabuvus Naugarduko bei Rusų \nmiestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­\nvos ir Žemaičių didysis kunigaikštis 3 ."
+  citata_rodoma: |
+    ## Puslapis 55
+
+    12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO
+    ŠONŲ SKIRMANTĄ
+    Ponai gedėjo savo gimtojo valdovo ir išsirinko val­
+    dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­
+    čių kunigaikščio Utenio sūnų.
+    Šventaragiui neilgai pabuvus Naugarduko bei Rusų
+    miestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­
+    vos ir Žemaičių didysis kunigaikštis 3 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -226,7 +244,18 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     sugebėjimui, nes patys esame įsitikinę, jog talentingesnis rašy­
     tojas, tobulesniu metodu aiškindamas šią istorijos dalį, malo­
     1 Lettische Grammatik.
-  citata_rodoma: "221\n\n## Puslapis 221\n\nKukovaitis (Kukowojtis)\nSudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­\npatavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­\nlaidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai\nįvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.\nŽmonės, su dėkingumu prisimindami geradarystes, patirtas\njam gyvam esant, jį dar labiau garbino."
+  citata_rodoma: |
+    221
+
+    ## Puslapis 221
+
+    Kukovaitis (Kukowojtis)
+    Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­
+    patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
+    laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
+    įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
+    Žmonės, su dėkingumu prisimindami geradarystes, patirtas
+    jam gyvam esant, jį dar labiau garbino.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

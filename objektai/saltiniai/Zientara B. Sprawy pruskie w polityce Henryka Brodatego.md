@@ -78,7 +78,9 @@ Dusburgietis teigia, kad zientara B.
     Летописи: Баркулабовская,
     Аверки и Панцырного/Составитель и редактор H. Н. Улащик. — М., 1975.
     Псковские летописи/Изд. А. Н. Насонов.
-  citata_rodoma: "Zientara B. Sprawy pruskie w polityce Henryka Brodatego.— ZHPB, Warszawa—\nPoznań—Toruń, 1976, t. 41, z. 4, s. 27—42."
+  citata_rodoma: |
+    Zientara B. Sprawy pruskie w polityce Henryka Brodatego.— ZHPB, Warszawa—
+    Poznań—Toruń, 1976, t. 41, z. 4, s. 27—42.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

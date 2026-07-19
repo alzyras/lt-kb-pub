@@ -229,7 +229,40 @@ Nenurodyta
     grobį, o kitoje pusėje Livonijos kryžiuočiai atėmė iš
     lietuvių tą Žemaitijos pakraštį, kuris dabar vadinamas
     Kuršu.
-  citata_rodoma: "To­\ndėl ir manau, kad dingstį šitokiems svetimšalių post­\nringavimams apie Gediminą davęs Pelužis, pirmųjų\nvaldovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­\nkakliai savinęsis didžiojo kunigaikščio vardą ir kry­\nžiuočių remiamas labai kenkęs savo tėvynei; norėda­\nmas sukelti užuojautą dėl savo padėties, jis niekinamai\nvadinęs Gediminą Vytenio arklininko sūnumi; Vytenį\nesą jo paties valdinys Gediminas, kitados savo valdo­\nvų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų\nmetraštininkai, kurie šią savo priešams lietuviams pri­\nkišamą nuodėmę vargu ar būtų nutylėję ir kurie savo\namžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš\nG edim in as,\nV y te n io\nsūnus,\np a v e ld i\nv a l­\ndžią\nNeišmanantys reikalo es­\nmės ar dėl to, kad gyveno\ntoli nuo vietų, kur šitai dė­\njosi, ar dėl to, kad nuo ap-\nm\n\n## Puslapis 193\n\narti matė ir, patikimai atpasakoję, paliko ateinančioms\nkartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­\nrinktas į savo tėvo Vytenio sostą pritariant ir palai­\nkant visiems luomams. Jo valdymo pradžia, Prūsijos\nbei Livonijos kryžiuočiams stojus į karą, buvo ne tik\nnerami, bet ir liūdna."
+  citata_rodoma: |
+    To­
+    dėl ir manau, kad dingstį šitokiems svetimšalių post­
+    ringavimams apie Gediminą davęs Pelužis, pirmųjų
+    valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­
+    kakliai savinęsis didžiojo kunigaikščio vardą ir kry­
+    žiuočių remiamas labai kenkęs savo tėvynei; norėda­
+    mas sukelti užuojautą dėl savo padėties, jis niekinamai
+    vadinęs Gediminą Vytenio arklininko sūnumi; Vytenį
+    esą jo paties valdinys Gediminas, kitados savo valdo­
+    vų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų
+    metraštininkai, kurie šią savo priešams lietuviams pri­
+    kišamą nuodėmę vargu ar būtų nutylėję ir kurie savo
+    amžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš
+    G edim in as,
+    V y te n io
+    sūnus,
+    p a v e ld i
+    v a l­
+    džią
+    Neišmanantys reikalo es­
+    mės ar dėl to, kad gyveno
+    toli nuo vietų, kur šitai dė­
+    josi, ar dėl to, kad nuo ap-
+    m
+
+    ## Puslapis 193
+
+    arti matė ir, patikimai atpasakoję, paliko ateinančioms
+    kartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­
+    rinktas į savo tėvo Vytenio sostą pritariant ir palai­
+    kant visiems luomams. Jo valdymo pradžia, Prūsijos
+    bei Livonijos kryžiuočiams stojus į karą, buvo ne tik
+    nerami, bet ir liūdna.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -269,7 +302,27 @@ Nenurodyta
     tmemelio įgula buvo įviliota
     į pasalas ir sunaikinta, jie
     nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
-  citata_rodoma: "Mat jis gal dėl to, kad uoliai\ntvarkė valstybės vidaus reikalus, negalėjo atremti iš­\norinių priešų antpuolių, o gal dėl to, kad rengėsi di­\ndesniam karui, nestojo į atvirą kovą su priešu, nors\ntuo metu vienoje pusėje kryžiuočiai, užėmę Jurbarko\nir Kauno pilis ir išžudę gynėjus, varėsi iš visur didžiulį\ngrobį, o kitoje pusėje Livonijos kryžiuočiai atėmė iš\nlietuvių tą Žemaitijos pakraštį, kuris dabar vadinamas\nKuršu. Tada Kauną gynė su nedidele įgula kilme bei\nkarine šlove išgarsėjęs Goštautas, kuriam valdovas įsa­\nkė trūks plyš sulaikyti ir sustabdyti ten priešą. Vis\ndėlto nei pilies sienos, nei gynėjai neatlaikė stiprių ant­\npuolių, o pats Goštautas pa-\nK ry žiu o č ia i\nprid a ro\nteko priešams į rankas; sugrį-\nL ietu va i nu ostolių\nžo jis pas saviškius, kai Ge­\ndiminas sumokėjo didelę iš­\npirką."
+  citata_rodoma: |
+    Mat jis gal dėl to, kad uoliai
+    tvarkė valstybės vidaus reikalus, negalėjo atremti iš­
+    orinių priešų antpuolių, o gal dėl to, kad rengėsi di­
+    desniam karui, nestojo į atvirą kovą su priešu, nors
+    tuo metu vienoje pusėje kryžiuočiai, užėmę Jurbarko
+    ir Kauno pilis ir išžudę gynėjus, varėsi iš visur didžiulį
+    grobį, o kitoje pusėje Livonijos kryžiuočiai atėmė iš
+    lietuvių tą Žemaitijos pakraštį, kuris dabar vadinamas
+    Kuršu. Tada Kauną gynė su nedidele įgula kilme bei
+    karine šlove išgarsėjęs Goštautas, kuriam valdovas įsa­
+    kė trūks plyš sulaikyti ir sustabdyti ten priešą. Vis
+    dėlto nei pilies sienos, nei gynėjai neatlaikė stiprių ant­
+    puolių, o pats Goštautas pa-
+    K ry žiu o č ia i
+    prid a ro
+    teko priešams į rankas; sugrį-
+    L ietu va i nu ostolių
+    žo jis pas saviškius, kai Ge­
+    diminas sumokėjo didelę iš­
+    pirką.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -305,7 +358,23 @@ Nenurodyta
     dimino pilį; mat jis manė, jog, staiga pritraukęs jėgų,
     galėsiąs lengvai palaužti negausių gynėjų atkaklų prie­
     šinimąsi.
-  citata_rodoma: "Vis\ndėlto nei pilies sienos, nei gynėjai neatlaikė stiprių ant­\npuolių, o pats Goštautas pa-\nK ry žiu o č ia i\nprid a ro\nteko priešams į rankas; sugrį-\nL ietu va i nu ostolių\nžo jis pas saviškius, kai Ge­\ndiminas sumokėjo didelę iš­\npirką. Kitų metų pradžioje kryžiuočiai, pasinaudodami\npergale, pasiuntė skirtingais keliais skirtingas kariau­\nnas krašto niokoti. Kai Chris-\n1316 m e ta i\ntmemelio įgula buvo įviliota\nį pasalas ir sunaikinta, jie\nnusiaubė Paštuvos, Medininkų ir Pagraudės valsčius."
+  citata_rodoma: |
+    Vis
+    dėlto nei pilies sienos, nei gynėjai neatlaikė stiprių ant­
+    puolių, o pats Goštautas pa-
+    K ry žiu o č ia i
+    prid a ro
+    teko priešams į rankas; sugrį-
+    L ietu va i nu ostolių
+    žo jis pas saviškius, kai Ge­
+    diminas sumokėjo didelę iš­
+    pirką. Kitų metų pradžioje kryžiuočiai, pasinaudodami
+    pergale, pasiuntė skirtingais keliais skirtingas kariau­
+    nas krašto niokoti. Kai Chris-
+    1316 m e ta i
+    tmemelio įgula buvo įviliota
+    į pasalas ir sunaikinta, jie
+    nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -354,7 +423,18 @@ Nenurodyta
     metu viename ir kitame sparne pasirodę totoriai, be
     paliovos puldinėdami kryžiuočius iš šonų ir šaudydami
     iš lankų, išguldė daugybę žirgų.
-  citata_rodoma: "Dėjosi skatinąs žemaičių\nnarsumą, žadėdamas dovanų bei laisvių, tačiau sakėsi\nbūsiąs patenkintas, jeigu jie, nieko neveikdami, lauk­\nsią, kuo viskas baigsis. Tuo tarpu Gediminas taip iš­\nrikiavo savo karius, kad vienais rusų daliniais sustip­\nrino kariuomenės sparnus, o kitais — ariergardą, lie­\ntuvius pastatė viduryje, o totorius — priekyje. Kai\nkryžiuočiai smarkiai užpuolė pirmąsias eiles, totoriai,\nneįpratę kovoti vienoje vietoje, nesitraukiant nė per\nžingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan­\nkiu ir tuo būdu išvengė ietininkų antpuolio."
+  citata_rodoma: |
+    Dėjosi skatinąs žemaičių
+    narsumą, žadėdamas dovanų bei laisvių, tačiau sakėsi
+    būsiąs patenkintas, jeigu jie, nieko neveikdami, lauk­
+    sią, kuo viskas baigsis. Tuo tarpu Gediminas taip iš­
+    rikiavo savo karius, kad vienais rusų daliniais sustip­
+    rino kariuomenės sparnus, o kitais — ariergardą, lie­
+    tuvius pastatė viduryje, o totorius — priekyje. Kai
+    kryžiuočiai smarkiai užpuolė pirmąsias eiles, totoriai,
+    neįpratę kovoti vienoje vietoje, nesitraukiant nė per
+    žingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan­
+    kiu ir tuo būdu išvengė ietininkų antpuolio.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

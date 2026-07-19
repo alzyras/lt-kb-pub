@@ -103,7 +103,18 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
     pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
     aukščiausias pareigas, nes netrukus imperatorius suteikė
     jam Romos konsulo titulą.
-  citata_rodoma: "290\n\n## Puslapis 301\n\nvaujami, 267 metais* užpuolė romėnų valdas. Iš pra­\ndžių jų ginklai įvarė gerokai baimės, bet imperatoriaus\nsūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­\nčiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­\nkiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo\ntoks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­\nsipirkti taiką, paaukojus kažkokį pajūrio kraštą."
+  citata_rodoma: |
+    290
+
+    ## Puslapis 301
+
+    vaujami, 267 metais* užpuolė romėnų valdas. Iš pra­
+    džių jų ginklai įvarė gerokai baimės, bet imperatoriaus
+    sūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­
+    čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
+    kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
+    toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
+    sipirkti taiką, paaukojus kažkokį pajūrio kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

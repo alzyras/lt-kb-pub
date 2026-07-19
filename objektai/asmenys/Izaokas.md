@@ -96,7 +96,19 @@ Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko
     žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
     žumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai
     ten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai.
-  citata_rodoma: "260\n\n## Puslapis 260\n\nII skyrius\nŠVENTOSIOS VIETOS\nŠventieji kalnai, Kalnas\nIš seniausios istorijos žinoma, kad senovės tautos atnašau­\ndavo dievams aukas ant aukštumų. Mat jos įsivaizdavo, kad\ndievybės gyvenančios aukštai danguje, todėl jos, atnašauda-\nmos aukas ant kalno, manė, kad taip priartėja prie jų. Abrao­\nmas ėjo ant kalno aukoti Izaoko."
+  citata_rodoma: |
+    260
+
+    ## Puslapis 260
+
+    II skyrius
+    ŠVENTOSIOS VIETOS
+    Šventieji kalnai, Kalnas
+    Iš seniausios istorijos žinoma, kad senovės tautos atnašau­
+    davo dievams aukas ant aukštumų. Mat jos įsivaizdavo, kad
+    dievybės gyvenančios aukštai danguje, todėl jos, atnašauda-
+    mos aukas ant kalno, manė, kad taip priartėja prie jų. Abrao­
+    mas ėjo ant kalno aukoti Izaoko.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

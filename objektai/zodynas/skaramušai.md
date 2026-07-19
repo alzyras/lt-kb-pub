@@ -98,7 +98,10 @@ Terminas pavartotas apibūdinti artėjančių Užgavėnių minios antplūdžiui 
     ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
     pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
     yra kanauninko mūriniame name [17].
-  citata_rodoma: "1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių\npribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas\nyra kanauninko mūriniame name [17]."
+  citata_rodoma: |
+    1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
+    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
+    yra kanauninko mūriniame name [17].
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

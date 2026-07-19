@@ -79,7 +79,8 @@ Dusburgietis teigia, kad szacherska S.
     Occidentalis, Poznan, 1965, t. 25, s. 155— 191.
     Вилинбахов В. Б., Энговатов Н. В. Предварительные замечания о западных
     галиндах и восточной голяди. — Там же, 1963, t. 23, s.
-  citata_rodoma: "Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960."
+  citata_rodoma: |
+    Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

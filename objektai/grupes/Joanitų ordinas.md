@@ -205,7 +205,14 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     Julichas
     Junigeda, Junigėda (Junigede, Junigêdin; Veliuona)
     Juodasis ež.
-  citata_rodoma: "Bagrationovskas)\n\nJaučakiai\nJeruzalė\nJezioranai\nJoanitai, Jono šv. ligoninės ordinas\nJotvingiai (žr."
+  citata_rodoma: |
+    Bagrationovskas)
+
+    Jaučakiai
+    Jeruzalė
+    Jezioranai
+    Joanitai, Jono šv. ligoninės ordinas
+    Jotvingiai (žr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -241,7 +248,28 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti. Tad popiežius, išklausęs šią
     pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
     dievo vardu patvirtino.
-  citata_rodoma: "Kai jo šventenybė Jeruzalės patriarchas\nHenrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir\nBetliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino\nmagistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:\nRadolfas, Tiberiados valdovas,  ir jo brolis valdovas Hugonas,  ir Reinoldas, Sidono\nvaldovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų\niš Jeruzalės karalystės  ir  iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo\nvyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato\nvyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco\nprie] Reino pfalcgrafas  ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,\nBrabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos\nhercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas\nir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno\nmarkgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių\nkilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus\nima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,\nviešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,\nštai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,\nSvabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą\nHenriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę\npopiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti."
+  citata_rodoma: |
+    Kai jo šventenybė Jeruzalės patriarchas
+    Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
+    Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino
+    magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
+    Radolfas, Tiberiados valdovas,  ir jo brolis valdovas Hugonas,  ir Reinoldas, Sidono
+    valdovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų
+    iš Jeruzalės karalystės  ir  iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo
+    vyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato
+    vyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco
+    prie] Reino pfalcgrafas  ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,
+    Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos
+    hercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas
+    ir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno
+    markgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių
+    kilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus
+    ima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,
+    viešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,
+    štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,
+    Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą
+    Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
+    popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -287,7 +315,12 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
     ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
     vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
-  citata_rodoma: "Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė\nturkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos\nvirto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų\nordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu\nvokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.)."
+  citata_rodoma: |
+    Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
+    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
+    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
+    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
+    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -307,7 +340,12 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
     Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
     Henriko VI laikais (Dusb.
-  citata_rodoma: "Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.\n  Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino\npopiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo\npontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis\nsprendimas, bet apaštališkojo sosto parengiamasis veiksmas."
+  citata_rodoma: |
+    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+      Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

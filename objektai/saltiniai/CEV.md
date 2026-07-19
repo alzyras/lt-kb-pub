@@ -62,7 +62,12 @@ Ilgai ne­ begalėjo laikytis įprastiniai Vakaruose ordino skleidžiami gandai 
     (^12) **L. Kolankowski : KolLJ, I, 47 p. — K. Heinl :** **_Fürst Witold von
     Litauen_** **1382-1401, 1925, 61 p.**
     (^13) **KolLJ, I, 51 p.**
-  citata_rodoma: "Ilgai ne­\nbegalėjo laikytis įprastiniai Vakaruose ordino skleidžiami gandai\n\n(^10) **CEV, 18 (nr. 53).**\n(^11) **SRP, II, 713 p."
+  citata_rodoma: |
+    Ilgai ne­
+    begalėjo laikytis įprastiniai Vakaruose ordino skleidžiami gandai
+
+    (^10) **CEV, 18 (nr. 53).**
+    (^11) **SRP, II, 713 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

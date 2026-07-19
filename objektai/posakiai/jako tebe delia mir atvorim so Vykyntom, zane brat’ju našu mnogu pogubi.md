@@ -69,7 +69,13 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
     sutarti su Vykintu, nes jis pražudė daug iš mūsų brolių » — «jako tebe delia
     mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi » (PSRL II, 816);
     St. Zajączkowski (** **_Studia_** **, o.c.
-  citata_rodoma: "Kada buvo bandoma į sąjungą\n(koaliciją) prieš Mindaugą ir Vykintą Įtraukti (1248 m.), Rygos vyskupas rašė\nVolinijos-Haličo Danieliui Romanaičiui: « Tik tavo labui darome mes taikos\nsutarti su Vykintu, nes jis pražudė daug iš mūsų brolių » — «jako tebe delia\nmir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi » (PSRL II, 816);\nSt."
+  citata_rodoma: |
+    Kada buvo bandoma į sąjungą
+    (koaliciją) prieš Mindaugą ir Vykintą Įtraukti (1248 m.), Rygos vyskupas rašė
+    Volinijos-Haličo Danieliui Romanaičiui: « Tik tavo labui darome mes taikos
+    sutarti su Vykintu, nes jis pražudė daug iš mūsų brolių » — «jako tebe delia
+    mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi » (PSRL II, 816);
+    St.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

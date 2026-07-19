@@ -75,7 +75,15 @@ media_all_json: |-
     muose 1572 metų žiemą, dalyvau­
     jant kun. Varševickiui, jėzuitų
     rektoriui.
-  citata_rodoma: "; jis pataisė Janockio ir kitų Roizi- \njaus biografų klaidas.\n51\nŠis pareiškimas buvo išsakytas ka­\npitulos susirinkime vyskupo rū­\nmuose 1572 metų žiemą, dalyvau­\njant kun. Varševickiui, jėzuitų \nrektoriui."
+  citata_rodoma: |
+    ; jis pataisė Janockio ir kitų Roizi-
+    jaus biografų klaidas.
+    51
+    Šis pareiškimas buvo išsakytas ka­
+    pitulos susirinkime vyskupo rū­
+    muose 1572 metų žiemą, dalyvau­
+    jant kun. Varševickiui, jėzuitų
+    rektoriui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

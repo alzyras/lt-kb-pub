@@ -98,7 +98,12 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
     tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
     iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
     Nemuno ir Būgo žiočių.
-  citata_rodoma: "Iš tokio \ntrijų skirtingų kilmių gyventojų maišymosi ir samplaikos \nradosi nauja pasienio tauta, kuri senovės geografų ilgai bu­\nvo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje \nLietuvos vardu tapo žinoma Europai1."
+  citata_rodoma: |
+    Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +140,19 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
     būrio nomen sociale [bendruomenės
     vardas], koks yra frankų pavadini­
     mas.
-  citata_rodoma: "Tikrai \ntikėtina, jog vardas tautos, įsikūru­\nsios prie Vyslos žiočių - vidivarii [vi- \ndivarijai], duotas Jornandeso \n(De geticae gentis origine ac rebus ges­\ntis Cap. 5 [apie gotų genties kilmę ir \nkaro žygius]); yra ne kokios nors vie­\nnos tautos nomen gentile [giminės \nvardas], bet toks įvairių tautų sam­\nbūrio nomen sociale [bendruomenės \nvardas], koks yra frankų pavadini­\nmas."
+  citata_rodoma: |
+    Tikrai
+    tikėtina, jog vardas tautos, įsikūru­
+    sios prie Vyslos žiočių - vidivarii [vi-
+    divarijai], duotas Jornandeso
+    (De geticae gentis origine ac rebus ges­
+    tis Cap. 5 [apie gotų genties kilmę ir
+    karo žygius]); yra ne kokios nors vie­
+    nos tautos nomen gentile [giminės
+    vardas], bet toks įvairių tautų sam­
+    būrio nomen sociale [bendruomenės
+    vardas], koks yra frankų pavadini­
+    mas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

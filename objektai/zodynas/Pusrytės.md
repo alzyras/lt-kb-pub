@@ -80,7 +80,11 @@ Papildomos aiškios formos neišskirtos.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės tenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna buvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo.
-  citata_rodoma: "Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės\ntenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna\nbuvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios\npusrytės^1481 , jau lig pietų, žydai pirkti negalėjo."
+  citata_rodoma: |
+    Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės
+    tenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna
+    buvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios
+    pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

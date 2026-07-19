@@ -70,7 +70,10 @@ Platonov, S.
     wielki książę Litwy_ , Vilnius 1930. — PfiW. — Platonov, S. F. : _Geschich­
     te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
     Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914.
-  citata_rodoma: "— Platonov, S. F. : _Geschich­\nte Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—\nProchaska, A."
+  citata_rodoma: |
+    — Platonov, S. F. : _Geschich­
+    te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
+    Prochaska, A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

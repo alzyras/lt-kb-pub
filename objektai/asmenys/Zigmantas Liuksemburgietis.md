@@ -409,7 +409,15 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     ir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad
     Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
     mantą apie tai pasikalbėti.
-  citata_rodoma: "Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­\nėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­\nmininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­\nvus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­\nčionybę, bet ir visai Europai, sulaikydamas totorių užplūdimą\nir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad\nVytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­\nmantą apie tai pasikalbėti."
+  citata_rodoma: |
+    Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
+    ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­
+    mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­
+    vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­
+    čionybę, bet ir visai Europai, sulaikydamas totorių užplūdimą
+    ir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad
+    Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
+    mantą apie tai pasikalbėti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -432,7 +440,12 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
     vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
     Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
-  citata_rodoma: "Pašauktas jis\nbuvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­\nžant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­\nvos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo\nRomos imperatorium, nes jis buvo sąjungoj su Ordinu."
+  citata_rodoma: |
+    Pašauktas jis
+    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
+    žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
+    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
+    Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -470,7 +483,14 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     žvilgiu jie netgi gerokai pranoksta lietuvius polesiečius.
     Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
     1 Leidinyje „Tygodnik Wilenski“ (1817.
-  citata_rodoma: "Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje\ngyveno Vengrijoje arba gretimuose kraštuose. Juk žino­\nma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­\nravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio\nkariai kartu su kumanais linksminosi2.\n139\nPastabos."
+  citata_rodoma: |
+    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
+    gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
+    ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
+    ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
+    kariai kartu su kumanais linksminosi2.
+    139
+    Pastabos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

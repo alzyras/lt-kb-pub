@@ -194,7 +194,13 @@ media_all_json: |-
     no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
-  citata_rodoma: "Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o \nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9."
+  citata_rodoma: |
+    Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -218,7 +224,17 @@ media_all_json: |-
     kaip malonų patikėtinį", bei prašo,
     kad panašią paslaugą padarytų to
     paties svečio broliui Prūsijoje.
-  citata_rodoma: "Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o\nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus\nsudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano\ngą poną Fridrichą fon Bebirsteyną,\npriėmiau į savo dvariškių būrį ir\nkaip malonų patikėtinį\", bei prašo,\nkad panašią paslaugą padarytų to\npaties svečio broliui Prūsijoje."
+  citata_rodoma: |
+    Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus
+    sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano
+    gą poną Fridrichą fon Bebirsteyną,
+    priėmiau į savo dvariškių būrį ir
+    kaip malonų patikėtinį", bei prašo,
+    kad panašią paslaugą padarytų to
+    paties svečio broliui Prūsijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

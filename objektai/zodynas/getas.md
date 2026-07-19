@@ -66,7 +66,8 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
     akcijų metu. Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
     ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
     ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
-  citata_rodoma: "ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,"
+  citata_rodoma: |
+    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

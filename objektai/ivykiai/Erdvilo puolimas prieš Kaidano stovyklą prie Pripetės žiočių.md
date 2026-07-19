@@ -143,7 +143,20 @@ Nenurodyta
     sakė duoklės, paskelbė karą
     ir įteikė jų kunigaikščiui do­
     vaną— dvi strėles.
-  citata_rodoma: "Pirmiausia Erdvilas leido savie­\nsiems, pavargusiems iš kelionės, šiek tiek giriose pa­\nsilsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka­\nrius kautynėms, galop prieš pat aušrą, baisiai šaukda­\nmi ir smarkiai puldami, jie įsiveržė į stovyklą. Prie \nstovyklos prieigų ne kautynės vyko, o skerdynės: už­\npultieji, vos pabudę, apkurtinti nepaprasto triukšmo, \nkrito nespėję nė ginklo pakelti. Tiesa, kai buvę toliau \nnuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­\nvina kova. Galop nugalėję lietuviai išvijo barbarus iš \nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose."
+  citata_rodoma: |
+    Pirmiausia Erdvilas leido savie­
+    siems, pavargusiems iš kelionės, šiek tiek giriose pa­
+    silsėti, po to, kiek leido tamsa ir ankščia, išrikiavo ka­
+    rius kautynėms, galop prieš pat aušrą, baisiai šaukda­
+    mi ir smarkiai puldami, jie įsiveržė į stovyklą. Prie
+    stovyklos prieigų ne kautynės vyko, o skerdynės: už­
+    pultieji, vos pabudę, apkurtinti nepaprasto triukšmo,
+    krito nespėję nė ginklo pakelti. Tiesa, kai buvę toliau
+    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
+    vina kova. Galop nugalėję lietuviai išvijo barbarus iš
+    stovyklos: galybė priešų krito mūšyje, kur kas dau­
+    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
+    gėrusių Dnepro ir Pripetės duburiuose.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -199,7 +212,28 @@ Nenurodyta
     tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
     rėkite, kad, susiradę kokį valdovą, neprarastumėte per
     savo ištižimą laisvės, kurią iš priešų malonės gavote.
-  citata_rodoma: "Tiesa, kai buvę toliau\nnuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­\nvina kova. Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles. Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę."
+  citata_rodoma: |
+    Tiesa, kai buvę toliau
+    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
+    vina kova. Galop nugalėję lietuviai išvijo barbarus iš
+    stovyklos: galybė priešų krito mūšyje, kur kas dau­
+    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
+    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
+    D u o k lės p ra ša n tiem s
+    sk ita m s E rd vila s siu n ­
+    čia  d v i strė le s
+    šaukęs pasiuntinius, jis atsi­
+    sakė duoklės, paskelbė karą
+    ir įteikė jų kunigaikščiui do­
+    vaną— dvi strėles. Atleidęs
+    pasiuntinius, įsakė juos klyst-
+    82
+
+    ## Puslapis 81
+
+    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
+    valdovui ne tik didesnę pagarbą bei palankumą, bet
+    ir pastovesnę ištikimybę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

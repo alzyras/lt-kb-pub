@@ -146,7 +146,17 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
     koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
     puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų
     bendradarbiavimas26.
-  citata_rodoma: "Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje\nprieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių\npastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t. y.\nvienijanti ne tik lietuvių, bet ir kitų baltų žemes, priglaudžianti jau užgrobtų baltų žemių\ngyventojus) Lietuvos valstybė, kaip šį pažangų procesą kraujyje skandino užsienio feodalų\nagresija. Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių\nir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai\nyra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.\n  „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.\n(t. y. 1209— 1210 m.)22."
+  citata_rodoma: |
+    Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje
+    prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių
+    pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t. y.
+    vienijanti ne tik lietuvių, bet ir kitų baltų žemes, priglaudžianti jau užgrobtų baltų žemių
+    gyventojus) Lietuvos valstybė, kaip šį pažangų procesą kraujyje skandino užsienio feodalų
+    agresija. Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
+    ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
+    yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
+      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
+    (t. y. 1209— 1210 m.)22.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

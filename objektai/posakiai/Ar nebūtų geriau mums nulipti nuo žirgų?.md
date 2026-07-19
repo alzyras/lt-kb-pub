@@ -57,7 +57,11 @@ Jaščioldas mūšio metu siūlo nulipti nuo žirgų ir garbę ginti krauju.
     vyklą. Bet ir čia jotvingiai juos puolė. Taigi rusinai ir
     lenkai su jais kovojo, ir nemažai jotvingių kunigaikščių
     žuvo.
-  citata_rodoma: "Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums\n  nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,\n  tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­\n  gę pataikyti savo krauju\"."
+  citata_rodoma: |
+    Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
+      nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,
+      tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­
+      gę pataikyti savo krauju".
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

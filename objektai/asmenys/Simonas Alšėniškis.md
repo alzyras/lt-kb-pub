@@ -95,7 +95,21 @@ Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kuniga
     je labai daug nukautų, o lenkai jokios pagalbos jiems
     suteikti nenori, šuoliais nulėkė pas savo brolį karalių
     Jogailą, bet tas klausė mišių.
-  citata_rodoma: "Naugardiečiai, matydami pskoviečius jam pasidavus \nir priėmus jo vietininką, nebenorėdami, kad jų žemė \nnuo didžiojo kunigaikščio Vytauto dar labiau nukentė­\ntų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam \ntarnauti, ir duoklę duoti, ir laikyti ji savo valdovu, \nkaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas \npaskyrė jiems vietininku savo svainį, kunigaikštį Si­\nmoną Alšėniškį, vadinamą Rūsčiuoju 9 .\nIr davė naugardiečiai didžiajam kunigaikščiui Vy­\ntautui kiekvienais metais duoklės po dešimt tūkstančių \nauksinų 1 0  ir keturias dešimtis sunkiųjų žirgų, kuriuos \ndabar vadina fryzais, ir keturias dešimtis kailinių, ir \ndevynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių, \nir šermuonėlių, ir voverių kailių."
+  citata_rodoma: |
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
+    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
+    moną Alšėniškį, vadinamą Rūsčiuoju 9 .
+    Ir davė naugardiečiai didžiajam kunigaikščiui Vy­
+    tautui kiekvienais metais duoklės po dešimt tūkstančių
+    auksinų 1 0  ir keturias dešimtis sunkiųjų žirgų, kuriuos
+    dabar vadina fryzais, ir keturias dešimtis kailinių, ir
+    devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
+    ir šermuonėlių, ir voverių kailių.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

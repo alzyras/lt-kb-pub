@@ -99,7 +99,13 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
     tina *. Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
     dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas
     murgais (murgi).
-  citata_rodoma: "Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­\nrųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,\nkaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę. Šioje\nlietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji\ngalėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­\nriškos giminės Pilvyte (Pilwite)."
+  citata_rodoma: |
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę. Šioje
+    lietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji
+    galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
+    riškos giminės Pilvyte (Pilwite).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

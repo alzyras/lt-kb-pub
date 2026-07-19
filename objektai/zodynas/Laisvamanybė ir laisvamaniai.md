@@ -90,7 +90,10 @@ Nenurodyta
     vieningas, kaip ir pati dr. J. Šliūpo veikla. Dr. Šliūpas visą
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės.
-  citata_rodoma: "Dr. Šliūpas visą\ngyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-\nsipratimo ir dėl laisvamanybės."
+  citata_rodoma: |
+    Dr. Šliūpas visą
+    gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
+    sipratimo ir dėl laisvamanybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +111,9 @@ Nenurodyta
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai.
-  citata_rodoma: "Todėl apie jį susibūrė griežtes-\nnieji tautininkai ir laisvamaniai."
+  citata_rodoma: |
+    Todėl apie jį susibūrė griežtes-
+    nieji tautininkai ir laisvamaniai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

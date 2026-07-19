@@ -1044,7 +1044,18 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: "Klaipėdoje prieš Lietuvą buvo\nsutelktos Livonijos ir Prūsijos kryžiuočių\nordinų pajėgos, broliai riteriai ir\ni 4 jiems pavaldžių užgrobtų žemių\n“prievarta buriami kariai (prūsai -\npamedėnai, notangai, varmiai, sem-\nbai, o taip pat kuršiai, estai ir kt.), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį."
+  citata_rodoma: |
+    Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1085,7 +1096,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
     baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
     skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
-  citata_rodoma: "Archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę\ngrupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.\nKalbos požiūriu šiame plote (t. y. prūsų kalboje) randami du pagrindiniai dialektai:\npamedėnų ir—artimesnis lietuviams — sembų; tam tikrų skirtybių turi notangų dialektas.\nKultūros  ir kalbos požiūriu bartų teritorija laikoma pereinamąja tarp tikrųjų prūsų  ir\njotvingių arba priskiriama prūsams."
+  citata_rodoma: |
+    Archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę
+    grupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.
+    Kalbos požiūriu šiame plote (t. y. prūsų kalboje) randami du pagrindiniai dialektai:
+    pamedėnų ir—artimesnis lietuviams — sembų; tam tikrų skirtybių turi notangų dialektas.
+    Kultūros  ir kalbos požiūriu bartų teritorija laikoma pereinamąja tarp tikrųjų prūsų  ir
+    jotvingių arba priskiriama prūsams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1168,7 +1185,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
     šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
     p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
-  citata_rodoma: "Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų\nginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje\npusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną\nkrito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš\nmetus įvyko Pokarvių kautynės."
+  citata_rodoma: |
+    Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
+    ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
+    pusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną
+    krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
+    metus įvyko Pokarvių kautynės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1195,7 +1217,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.
-  citata_rodoma: "319 (312). Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
+  citata_rodoma: |
+    319 (312). Apie Bisenės papilių sudeginimą 1313 metais
+
+      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
+    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
+    abu jos papiliai supleškėjo ugnyje.
+
+
+
+
+                    320 (313).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1216,7 +1248,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas
     Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą
     už šiuos jo žodžius: švento Vincento dieną sembai būsią išžudyti.
-  citata_rodoma: "Tą pačią dieną jie norėjo užkariauti sembų kuorus\n[propugnacula], kuriais buvo apsupta Karaliaučiaus pilis, tačiau broliai juos atkalbėjo,\nnes vargu ar per likusias valandas tą dieną būtų baigę šias smarkias kautynes. Išaušus,\nkai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,\nnes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho\ngrafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai."
+  citata_rodoma: |
+    Tą pačią dieną jie norėjo užkariauti sembų kuorus
+    [propugnacula], kuriais buvo apsupta Karaliaučiaus pilis, tačiau broliai juos atkalbėjo,
+    nes vargu ar per likusias valandas tą dieną būtų baigę šias smarkias kautynes. Išaušus,
+    kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
+    nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
+    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1236,7 +1274,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     kariuomenė pradėjo trauktis, jis, apkaltintas melu, dar atkakliau laikėsi savo nuomonės
     ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
     praris nelyginant Dataną ir Abironą“.
-  citata_rodoma: "Išaušus,\nkai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,\nnes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho\ngrafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.\nBrolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;\nvienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,\natbėgo su kruvinu kalaviju rankose pranešti apie pasalą."
+  citata_rodoma: |
+    Išaušus,
+    kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
+    nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
+    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
+    Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
+    vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
+    atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1295,7 +1340,11 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
     kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
     šlovinamas per amžius, amen.
-  citata_rodoma: "Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių\nbuvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug\ntūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti\nketuris tūkstančius raitelių ir keturiasdešimt tūkstančių karių."
+  citata_rodoma: |
+    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
+    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
+    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
+    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1311,7 +1360,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
     Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
     priskiriama Notangai).
-  citata_rodoma: "Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai."
+  citata_rodoma: |
+    Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1371,7 +1421,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     ginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių,
     kurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos
     tikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų.
-  citata_rodoma: "pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su\ntūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai\nstipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link\nMedrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki\npamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę."
+  citata_rodoma: |
+    pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
+    tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
+    stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link
+    Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
+    pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1388,7 +1443,11 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
     priskiriama Notangai). Manoma, kad vardas yra upėvardinės kilmės, plg. lie. Not-a ir Al-
     ang-a (MPKP, 1, p. 17).
-  citata_rodoma: "Šešta — Semba196, kurioje [gyveno] sembai.\n\niki Priegliaus žiočių (jai priklausė kiek  į vakarus nuo Priegliaus žiočių vėliau kryžiuočių\npastatyta Lencenbergo pilis)."
+  citata_rodoma: |
+    Šešta — Semba196, kurioje [gyveno] sembai.
+
+    iki Priegliaus žiočių (jai priklausė kiek  į vakarus nuo Priegliaus žiočių vėliau kryžiuočių
+    pastatyta Lencenbergo pilis).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1435,7 +1494,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
     kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
     šlovinamas per amžius, amen.
-  citata_rodoma: "Vargu ar kuri šių giminių\nbuvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug\ntūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti\nketuris tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,\npranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe."
+  citata_rodoma: |
+    Vargu ar kuri šių giminių
+    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
+    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
+    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,
+    pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1548,7 +1612,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
     savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
     puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
-  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino\nbrolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami\nkaršto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi\nmūsų dievo Jėzaus Kristaus garbei."
+  citata_rodoma: |
+    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
+    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
+    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
+    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
+    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
+    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
+    mūsų dievo Jėzaus Kristaus garbei.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1606,7 +1677,18 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     jaučių, nei kiaulių, nei karvių bei arklių, jie turėjo misti jų odomis. Šis neįprastas maistas
     buvo toks kietas, kad daug brolių bei kitų žmonių, jį bevalgydami, išsilaužė dantis.
     368  Grafų iš Barbio valdos buvo žinomos prie Magdeburgo.
-  citata_rodoma: "Apie daugybės maldininkų žūtį\n\n   Tais pačiais metais  į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368  ir\nįsibrovė  į Sembos žemę. Kai ją nusiaubė, sembai susibūrė, užpuolė  jį palaimintos\nmergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai\nkurie pateko į nelaisvę arba buvo nužudyti.\n\n\n\n\n              94 (89)."
+  citata_rodoma: |
+    Apie daugybės maldininkų žūtį
+
+       Tais pačiais metais  į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368  ir
+    įsibrovė  į Sembos žemę. Kai ją nusiaubė, sembai susibūrė, užpuolė  jį palaimintos
+    mergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai
+    kurie pateko į nelaisvę arba buvo nužudyti.
+
+
+
+
+                  94 (89).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1650,7 +1732,18 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85). Apie didelį krikščionių kraujo praliejimą"
+  citata_rodoma: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
+
+
+
+
+                   90 (85). Apie didelį krikščionių kraujo praliejimą
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1672,7 +1765,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą. Ypač glaudžiai
     lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
     įėjo į Mindaugo valstybės sudėtį31.
-  citata_rodoma: "Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios\nKlaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams\nšaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo\nmetu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė\nOrdino užnugarį pavyslyje (III, 160)."
+  citata_rodoma: |
+    Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
+    Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

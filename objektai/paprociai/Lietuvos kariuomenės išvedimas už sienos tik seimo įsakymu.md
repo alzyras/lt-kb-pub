@@ -88,7 +88,12 @@ Nenurodyta
     kams į pagalbą, teisin-
     damasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-
     kijos sienos.
-  citata_rodoma: "Hetmonas Pa-\ncas atsisakinėjo eiti len-\nkams į pagalbą, teisin-\ndamasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-\nkijos sienos."
+  citata_rodoma: |
+    Hetmonas Pa-
+    cas atsisakinėjo eiti len-
+    kams į pagalbą, teisin-
+    damasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-
+    kijos sienos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

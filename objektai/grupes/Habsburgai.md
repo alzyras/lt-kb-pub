@@ -116,7 +116,10 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, ta-
     čiau su ja negyveno; ji išvažiavo į Vieną. Negaudamas persisky-
     rimo, jis nebegalėjo vesti.
-  citata_rodoma: "Visi laukė anksti pasenusio Zigmanto Au-\ngusto mirties. Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Aus-\ntrų Habsburgai ir caras Jonas IV."
+  citata_rodoma: |
+    Visi laukė anksti pasenusio Zigmanto Au-
+    gusto mirties. Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Aus-
+    trų Habsburgai ir caras Jonas IV.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

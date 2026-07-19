@@ -391,7 +391,22 @@ media_all_json: |-
     Juodutis (D.— Jodute)
     Jurginis J. (Юргинис Ю.)
     Jurgis šv.
-  citata_rodoma: "Krikštytojas, šv.\n   Ostrorogas\n   Popė\n   vad. Anlantu, Austrijos k.\n    Vienuolis, br.\nJordanas, gotų istorikas\n   Varmės vysk. valdytojas\nJozuė\nJucevičius L. A.\nJučas M.\nJudas\nJudas Makabėjus\nJuodutis (D.— Jodute)\nJurginis J. (Юргинис Ю.)\nJurgis šv."
+  citata_rodoma: |
+    Krikštytojas, šv.
+       Ostrorogas
+       Popė
+       vad. Anlantu, Austrijos k.
+        Vienuolis, br.
+    Jordanas, gotų istorikas
+       Varmės vysk. valdytojas
+    Jozuė
+    Jucevičius L. A.
+    Jučas M.
+    Judas
+    Judas Makabėjus
+    Juodutis (D.— Jodute)
+    Jurginis J. (Юргинис Ю.)
+    Jurgis šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -490,7 +505,18 @@ media_all_json: |-
     merą, bet ne kartu, o vienos paskui kitas ir daugelį metų;
     toks jų persikėlimas nuolat vyko arba lietuvių tautų gy­
     venamų sričių pakraščiais, arba per jų žemes.
-  citata_rodoma: "Taigi pakeliui nuo Vyslos iki Dnepro jie turėjo kažkur\nžiemoti; sprendžiant iš lėto ėjimo, jie turėjo keltis per Ne­\nmuną tarp Gardino ir Belicos ir užkliudyti kraštus, kur\nbuvo pietinė Lietuvos dalis.\n73\nJordanas, kurio daugelį smulkmenų apie gotus pa­\nnaudojome, taip žavisi savo į Rytus iškeliavusių kraštie­\nčių, pavadintų ostgotais, žygdarbiais, kad beveik visai\npamiršta pusę genties, kuri liko kairiojoje Vyslos pakran­\ntėje. Tačiau mes norime skaityti ne tokias pagyras, bet\nlabiau mus dominančius dalykus."
+  citata_rodoma: |
+    Taigi pakeliui nuo Vyslos iki Dnepro jie turėjo kažkur
+    žiemoti; sprendžiant iš lėto ėjimo, jie turėjo keltis per Ne­
+    muną tarp Gardino ir Belicos ir užkliudyti kraštus, kur
+    buvo pietinė Lietuvos dalis.
+    73
+    Jordanas, kurio daugelį smulkmenų apie gotus pa­
+    naudojome, taip žavisi savo į Rytus iškeliavusių kraštie­
+    čių, pavadintų ostgotais, žygdarbiais, kad beveik visai
+    pamiršta pusę genties, kuri liko kairiojoje Vyslos pakran­
+    tėje. Tačiau mes norime skaityti ne tokias pagyras, bet
+    labiau mus dominančius dalykus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -538,7 +564,19 @@ media_all_json: |-
     tą vardą jiems suteikė kitos tautos, o ne jie patys taip save vadino,
     be to, Adelungas ir net Dobrovskis venedus klaidingai priskyrė prie
     vokiečių, pateikė Safaržykas (Starožytnošci slawianskie.
-  citata_rodoma: "Kaip slavai atsirado ‘šiose lygumose arba kaip\nir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.\nPasakysime tiktai tiek, kad venedams priklausė ne viena\ngentis, labai dominanti mūsų veikalą, o panagrinėję pa­\nties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,\ndar labiau sustiprinsime šią nuomonę. Galėjo būti, kad\nvenedų slavams ikikrikščioniškosios eros amžiais ar kiek\nvėliau priklausė kuri nors Baltijos jūros pakrantė tarp\nVyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš\nrytų slenkančių genčių; jų pėdsakas išliko Vindavos upės\npavadinime; be to, Vinidų, Vinidarių pavardę dera lai­\nkyti lietuviškos kilmės."
+  citata_rodoma: |
+    Kaip slavai atsirado ‘šiose lygumose arba kaip
+    ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
+    Pasakysime tiktai tiek, kad venedams priklausė ne viena
+    gentis, labai dominanti mūsų veikalą, o panagrinėję pa­
+    ties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,
+    dar labiau sustiprinsime šią nuomonę. Galėjo būti, kad
+    venedų slavams ikikrikščioniškosios eros amžiais ar kiek
+    vėliau priklausė kuri nors Baltijos jūros pakrantė tarp
+    Vyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš
+    rytų slenkančių genčių; jų pėdsakas išliko Vindavos upės
+    pavadinime; be to, Vinidų, Vinidarių pavardę dera lai­
+    kyti lietuviškos kilmės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -614,7 +652,11 @@ media_all_json: |-
     Skerdynai, Skierdynie, Paskerdynai, Poskierdynie, Skirmantai, Skir-
     monty, Skirmantiškiai, Skirmontyszki, Skir žemė, Skiroziemie ir t. t.
     (Dzien.
-  citata_rodoma: "Pirmoji gyvenvietė pagal skirius buvo pavadinta Ski­\nreikomis, o antroji pagal hirius — Hirkomis (Jornand. Goths. C. 3).\nJordanas to žodžio rašyboje randa klaidą ir taiso ją į Lethas. Kad ir\nkaip ten būtų, jis labai artimas mūsų teiginiui."
+  citata_rodoma: |
+    Pirmoji gyvenvietė pagal skirius buvo pavadinta Ski­
+    reikomis, o antroji pagal hirius — Hirkomis (Jornand. Goths. C. 3).
+    Jordanas to žodžio rašyboje randa klaidą ir taiso ją į Lethas. Kad ir
+    kaip ten būtų, jis labai artimas mūsų teiginiui.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

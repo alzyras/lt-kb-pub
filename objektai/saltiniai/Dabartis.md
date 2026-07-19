@@ -62,7 +62,11 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
     tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
     „Dabartis“. Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
     areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
-  citata_rodoma: "Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-\ntuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis \n„Dabartis“. Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai \nareštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui."
+  citata_rodoma: |
+    Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
+    tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
+    „Dabartis“. Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
+    areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

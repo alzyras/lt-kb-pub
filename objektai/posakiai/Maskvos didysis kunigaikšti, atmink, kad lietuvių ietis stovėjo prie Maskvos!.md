@@ -86,7 +86,11 @@ media_all_json: |-
     ietimi, o dievo padedamas, atremsiu savo ietį į jo Maskvos Kremliaus sieną, nes ne tas
     karys, kuris kariauja patogiu metu, o tas, kuris nepatogiu kariauti metu atskleidžia prie-
     šininkui savo karingą nusistatymą.“
-  citata_rodoma: "Perduok tai valdovui ir pasakyk jam, kad mes, lietuviai, ugnies turime; o kadangi jis\nman grasina įžengsiąs į mano žemę po skaistaus pavasario ir po tykios vasaros, tai aš,\njei dievas duos, būsiu pas jį per Velykas ir pabučiuosiu jį raudonu kiaušiniu, per skydą\nietimi, o dievo padedamas, atremsiu savo ietį į jo Maskvos Kremliaus sieną"
+  citata_rodoma: |
+    Perduok tai valdovui ir pasakyk jam, kad mes, lietuviai, ugnies turime; o kadangi jis
+    man grasina įžengsiąs į mano žemę po skaistaus pavasario ir po tykios vasaros, tai aš,
+    jei dievas duos, būsiu pas jį per Velykas ir pabučiuosiu jį raudonu kiaušiniu, per skydą
+    ietimi, o dievo padedamas, atremsiu savo ietį į jo Maskvos Kremliaus sieną
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -102,7 +106,9 @@ media_all_json: |-
     Ir, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0
     nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis
     stovėjo prie Maskvos!“
-  citata_rodoma: "nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis\nstovėjo prie Maskvos!“"
+  citata_rodoma: |
+    nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis
+    stovėjo prie Maskvos!“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

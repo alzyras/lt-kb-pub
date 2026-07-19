@@ -79,7 +79,12 @@ Nenurodyta
     gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
     pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
     bei.
-  citata_rodoma: "Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi \npralenkė turtingus prūsus ar karingus kuršius. Matyt, lėmė genties vyrų \ngausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo \npagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-\nbei."
+  citata_rodoma: |
+    Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
+    pralenkė turtingus prūsus ar karingus kuršius. Matyt, lėmė genties vyrų
+    gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
+    pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
+    bei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

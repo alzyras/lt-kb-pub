@@ -69,7 +69,10 @@ Huizinga) yra labai platus objektas.
     idealistą stud. Algirdą Stankų.
     Lietuvos istorija vidurinių amžių galo, tiksliau, «vidurinių
     amžių rudens » Europoje (J. Huizinga) yra labai platus objektas.
-  citata_rodoma: "Algirdą Stankų.\nLietuvos istorija vidurinių amžių galo, tiksliau, «vidurinių\namžių rudens » Europoje (J. Huizinga) yra labai platus objektas."
+  citata_rodoma: |
+    Algirdą Stankų.
+    Lietuvos istorija vidurinių amžių galo, tiksliau, «vidurinių
+    amžių rudens » Europoje (J. Huizinga) yra labai platus objektas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

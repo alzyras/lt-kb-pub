@@ -84,7 +84,16 @@ Nenurodyta
     labiau stiprino. Galop jie iš-
     K u n igaikščiai: v ie n a s
     drįso netgi pulti kaimynus.
-  citata_rodoma: "Toje pačioje vietoje pa­\ngarbiai užkasus pelenus, pastatė nelyginant atminimo\nstatulą, kuri palikuonių buvo laikoma šventenybe, kaip,\nbeje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu­\nvo atiduodama dieviškoji pagarba. Vėliau keletą kartų\nsiuntė ginkluotą pagalbą kaimyninei Prūsijai, kai šią\ngentį ėmė puldinėti lenkų karalius Boleslovas Narsu­\nsis. Šiaip Speros valdymo metais viešpatavo ramybė\nir viduje, ir kaimynuose."
+  citata_rodoma: |
+    Toje pačioje vietoje pa­
+    garbiai užkasus pelenus, pastatė nelyginant atminimo
+    statulą, kuri palikuonių buvo laikoma šventenybe, kaip,
+    beje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu­
+    vo atiduodama dieviškoji pagarba. Vėliau keletą kartų
+    siuntė ginkluotą pagalbą kaimyninei Prūsijai, kai šią
+    gentį ėmė puldinėti lenkų karalius Boleslovas Narsu­
+    sis. Šiaip Speros valdymo metais viešpatavo ramybė
+    ir viduje, ir kaimynuose.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -113,7 +113,14 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 
     IV  KNYGA
     pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.
-  citata_rodoma: "palūkanų. Taip pat buvo trys sidabriniai dubenys\n442\n\n## Puslapis 459\n\nIV  KNYGA\npas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug."
+  citata_rodoma: |
+    palūkanų. Taip pat buvo trys sidabriniai dubenys
+    442
+
+    ## Puslapis 459
+
+    IV  KNYGA
+    pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -85,7 +85,12 @@ Nenurodyta
     mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija. Pastaroji
     pulta dėl to, kad buvo Ordino sąjungininkė. Vis dėlto nuo 1324 m. pabaigos kuriam
     laikui tarp Lietuvos ir Ordino nusistovėjo taika.
-  citata_rodoma: "Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324\nm. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio\nmėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija. Pastaroji\npulta dėl to, kad buvo Ordino sąjungininkė. Vis dėlto nuo 1324 m. pabaigos kuriam\nlaikui tarp Lietuvos ir Ordino nusistovėjo taika."
+  citata_rodoma: |
+    Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
+    m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio
+    mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija. Pastaroji
+    pulta dėl to, kad buvo Ordino sąjungininkė. Vis dėlto nuo 1324 m. pabaigos kuriam
+    laikui tarp Lietuvos ir Ordino nusistovėjo taika.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

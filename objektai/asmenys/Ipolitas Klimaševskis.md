@@ -142,7 +142,14 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
     sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
     kronikos fragmentą — pasakojimą apie Vytauto brolio
     Žygimanto Kęstutaičio nužudymą 1440 m.
-  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek-\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-\nniaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl\ndalyvavimo 1831 m. sukilime turėdamas emigruoti į už-\nsienį, jis tespėjo paskelbti dramatiškiausią Bychovco\nkronikos fragmentą — pasakojimą apie Vytauto brolio\nŽygimanto Kęstutaičio nužudymą 1440 m."
+  citata_rodoma: |
+    Bychovco kronikos rankraštį prieš 1830 m. Alek-
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-
+    niaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl
+    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už-
+    sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
+    kronikos fragmentą — pasakojimą apie Vytauto brolio
+    Žygimanto Kęstutaičio nužudymą 1440 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -166,7 +173,10 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
     chovco bibliotekoje I. Klimaševskis pirmasis šią kroni­
     ką įvertino,4 *
     * O šmierci x Zygmunta Kiejsiutowlcza.
-  citata_rodoma: "Trumpoje pratarmėlėje apie rankraščio radimą Aleksandro By-\nchovco bibliotekoje I. Klimaševskis pirmasis šią kroni-\nką įvertino."
+  citata_rodoma: |
+    Trumpoje pratarmėlėje apie rankraščio radimą Aleksandro By-
+    chovco bibliotekoje I. Klimaševskis pirmasis šią kroni-
+    ką įvertino.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -189,7 +199,10 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
     niaus gimnazijos mokytojas Ipolitas Klimaševskis.
-  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek-\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-\nniaus gimnazijos mokytojas Ipolitas Klimaševskis."
+  citata_rodoma: |
+    Bychovco kronikos rankraštį prieš 1830 m. Alek-
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-
+    niaus gimnazijos mokytojas Ipolitas Klimaševskis.
   statusas: verified
   atnaujinta: "2026-07-12 22:30"
   teiginio_tipas: faktas

@@ -82,7 +82,14 @@ Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu 
     Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
     Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
     Varmijos)^1 ).
-  citata_rodoma: "Abu\nmagistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­\njos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,\nBrastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su\nKęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių\nOrdino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir\nVarmijos)^1 )."
+  citata_rodoma: |
+    Abu
+    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
+    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
+    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
+    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
+    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
+    Varmijos)^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

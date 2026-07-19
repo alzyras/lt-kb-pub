@@ -154,7 +154,16 @@ Nenurodyta
     laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
     430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
     Osos, deš. upės krante, tarp dab.
-  citata_rodoma: "Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį\n\n  Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui\nbei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,\npažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras\nsušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų\nkariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė\nžmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo\nvardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių."
+  citata_rodoma: |
+    Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
+
+      Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui
+    bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,
+    pažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras
+    sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
+    kariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė
+    žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo
+    vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

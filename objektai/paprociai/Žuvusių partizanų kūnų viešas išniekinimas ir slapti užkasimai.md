@@ -113,7 +113,8 @@ Nenurodyta
     prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
-  citata_rodoma: "zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių"
+  citata_rodoma: |
+    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

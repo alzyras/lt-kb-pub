@@ -130,7 +130,18 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
     padės Siaurės Europos istorijai ir patyrinės tuos žmones,
     neabejotinai atvestus į tuos kraštus kokio nors rusų vado,
     kurio pergalingi ginklai blizgėjo Bugo pakrantėse.
-  citata_rodoma: "Nei\ninazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar\nkitoms europietėms moterims nebūdingi tie bruožai, kurie\npuošia dailias senovės jotvingių dukras, kažkada gal iš­\ntekintas už slavų jaunuolių. Si Mechovitos padavimuose\nesanti prielaida pasitvirtina iš pirmo žvilgsnio. Reikia pa­\nčiam pamatyti, kaip gražų šventinį vasaros rytą daili, jau­\nna polesietė eina į bažnyčią, reikia regėti iš arti jos dra­\nbužius, judesius, figūrą, šypseną ir nepaprastai gražius\ndantis, ir tuomet žinovo akims atsiveria tikras azijinis\ngrožis."
+  citata_rodoma: |
+    Nei
+    inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar
+    kitoms europietėms moterims nebūdingi tie bruožai, kurie
+    puošia dailias senovės jotvingių dukras, kažkada gal iš­
+    tekintas už slavų jaunuolių. Si Mechovitos padavimuose
+    esanti prielaida pasitvirtina iš pirmo žvilgsnio. Reikia pa­
+    čiam pamatyti, kaip gražų šventinį vasaros rytą daili, jau­
+    na polesietė eina į bažnyčią, reikia regėti iš arti jos dra­
+    bužius, judesius, figūrą, šypseną ir nepaprastai gražius
+    dantis, ir tuomet žinovo akims atsiveria tikras azijinis
+    grožis.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

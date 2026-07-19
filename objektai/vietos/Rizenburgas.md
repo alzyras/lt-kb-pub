@@ -63,7 +63,7 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    61. Apie Rizenburgo pilies bei miesto pastatymą
+    Apie Rizenburgo pilies bei miesto pastatymą
 
        Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį
     bei miestą.
@@ -71,7 +71,15 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 
 
                 62.
-  citata_rodoma: "Apie Rizenburgo pilies bei miesto pastatymą\n\n   Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį\nbei miestą.\n\n\n\n            62."
+  citata_rodoma: |
+    Apie Rizenburgo pilies bei miesto pastatymą
+
+       Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį
+    bei miestą.
+
+
+
+                62.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

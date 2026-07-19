@@ -137,7 +137,16 @@ media_all_json: |-
     gyveno panašiai besivadinanti bajorų giminė; turim rankoje
     laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
     navičiaus (Niemonowicz) parašu.
-  citata_rodoma: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo\nužkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­\nsinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir\nauksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem\nkraštams.\nApie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris\nturėjo keletą tokių auksinių monetų."
+  citata_rodoma: |
+    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
+    užkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­
+    sinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir
+    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
+    kraštams.
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
+    turėjo keletą tokių auksinių monetų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

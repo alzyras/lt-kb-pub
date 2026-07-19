@@ -169,7 +169,14 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
     matyti, kad, vadovaujant tokiam išmintingam, veikliam ir ka­
     ringam monarchui, augančios galingos valstybės sostinė bū- 38 39
     38 Noël F. Dictionnaire mythologique (Divination).
-  citata_rodoma: "Kuo daugiau tikėta jų buvimu, tuo labiau\nartėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų\nprietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai\nįrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­\ngiausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­\ndies padavimai tas senes paprastai kildina iš Lietuvos Rusios,\no vietinių nepripažįsta, jog šitiek daug moka."
+  citata_rodoma: |
+    Kuo daugiau tikėta jų buvimu, tuo labiau
+    artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
+    prietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai
+    įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­
+    giausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­
+    dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
+    o vietinių nepripažįsta, jog šitiek daug moka.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -225,7 +232,9 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
     pakirptuvėmis buvo pažymimas kiekvienas žmogaus gyveni­
     mo laikotarpis, pradedant jaunyste, kai pasikeisdavo padėtis,
     pareigos ir 1.1.
-  citata_rodoma: "10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -\nS. 61-62. - Nota nr. 331)."
+  citata_rodoma: |
+    10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
+    S. 61-62. - Nota nr. 331).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

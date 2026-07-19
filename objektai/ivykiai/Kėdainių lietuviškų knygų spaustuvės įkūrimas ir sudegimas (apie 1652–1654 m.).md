@@ -83,7 +83,11 @@ Nenurodyta
     veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
     Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
     galybę, ir nebebuvo kas įtaisytų spaustuvę.
-  citata_rodoma: "Spaustuvė te-\nveikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus\nMaskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų\ngalybę, ir nebebuvo kas įtaisytų spaustuvę."
+  citata_rodoma: |
+    Spaustuvė te-
+    veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
+    Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
+    galybę, ir nebebuvo kas įtaisytų spaustuvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

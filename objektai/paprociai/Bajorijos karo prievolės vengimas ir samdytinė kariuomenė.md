@@ -92,7 +92,12 @@ Nenurodyta
     bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų
     mokesčių. Tad kol būdavo surenkama kariuomenė, Maskva
     suspėdavo užimti nemaža Lietuvos pilių.
-  citata_rodoma: "Ankstyves-\nnieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad\nbajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų\nmokesčių. Tad kol būdavo surenkama kariuomenė, Maskva\nsuspėdavo užimti nemaža Lietuvos pilių."
+  citata_rodoma: |
+    Ankstyves-
+    nieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad
+    bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų
+    mokesčių. Tad kol būdavo surenkama kariuomenė, Maskva
+    suspėdavo užimti nemaža Lietuvos pilių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -110,7 +115,10 @@ Nenurodyta
     Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-
     ta samdytinė kariuomenė. Tačiau bajorija nenorėjo
     mokėti net tos kariuomenės išlaikymui reikalingų mokesčių.
-  citata_rodoma: "Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-\nta samdytinė kariuomenė. Tačiau bajorija nenorėjo\nmokėti net tos kariuomenės išlaikymui reikalingų mokesčių."
+  citata_rodoma: |
+    Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-
+    ta samdytinė kariuomenė. Tačiau bajorija nenorėjo
+    mokėti net tos kariuomenės išlaikymui reikalingų mokesčių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

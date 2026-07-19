@@ -87,7 +87,14 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
     fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
     prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
     jais grįstą Lietuvos istorijos veikalą.
-  citata_rodoma: "Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio\nreikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus\nuniversiteto Tarptautinių santykių ir politikos mokslų instituto moks-\nlininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-\nfesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),\nprašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-\njais grįstą Lietuvos istorijos veikalą."
+  citata_rodoma: |
+    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
+    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
+    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
+    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
+    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
+    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
+    jais grįstą Lietuvos istorijos veikalą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

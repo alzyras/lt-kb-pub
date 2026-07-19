@@ -181,7 +181,9 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
     kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
     nopolizuoti Lietuvos užsienio prekybą.
-  citata_rodoma: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-\nnopolizuoti Lietuvos užsienio prekybą."
+  citata_rodoma: |
+    Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
+    nopolizuoti Lietuvos užsienio prekybą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -202,7 +204,8 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
-  citata_rodoma: "Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,"
+  citata_rodoma: |
+    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -257,7 +260,12 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo.
-  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado \nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar \ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
+  citata_rodoma: |
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

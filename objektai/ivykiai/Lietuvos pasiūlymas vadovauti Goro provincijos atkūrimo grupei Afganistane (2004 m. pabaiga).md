@@ -86,7 +86,8 @@ Nenurodyta
     Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
     kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
     saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
-  citata_rodoma: "saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione."
+  citata_rodoma: |
+    saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

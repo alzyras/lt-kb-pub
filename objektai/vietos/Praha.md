@@ -248,7 +248,15 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
     jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
     imperijoje turi latviai ir estai.
-  citata_rodoma: "rusėnai \nskilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje. \nIš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-\nvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus \nSkorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-\ndicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs \npsalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų \nBiblija“."
+  citata_rodoma: |
+    rusėnai
+    skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
+    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
+    Biblija“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -270,7 +278,13 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
     Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
     sąjunga pasiryžusi ginti savo nares.
-  citata_rodoma: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-\ngarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-\ntos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės. \nPostūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento \nDžordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų \nsąjunga pasiryžusi ginti savo nares."
+  citata_rodoma: |
+    2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
+    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
+    tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
+    Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
+    Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
+    sąjunga pasiryžusi ginti savo nares.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

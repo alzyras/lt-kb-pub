@@ -104,7 +104,11 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     Lietuvos urėdais negalį būti skiriami jokie svetimšaliai. Len-
     kams tas kaip tik labiausiai nepatiko, ir jie norėjo įrodyti, kad
     pagal senuosius aktus jie negalį būti laikomi svetimšaliais.
-  citata_rodoma: "Į jį buvo įtraukti ir senieji nuostatai, kad\nLietuvos urėdais negalį būti skiriami jokie svetimšaliai. Len-\nkams tas kaip tik labiausiai nepatiko, ir jie norėjo įrodyti, kad\npagal senuosius aktus jie negalį būti laikomi svetimšaliais."
+  citata_rodoma: |
+    Į jį buvo įtraukti ir senieji nuostatai, kad
+    Lietuvos urėdais negalį būti skiriami jokie svetimšaliai. Len-
+    kams tas kaip tik labiausiai nepatiko, ir jie norėjo įrodyti, kad
+    pagal senuosius aktus jie negalį būti laikomi svetimšaliais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,7 +149,11 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet
     lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų
     bandymui gauti vietą Lietuvoje.
-  citata_rodoma: "aug kartų reika-\nlavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet\nlietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų\nbandymui gauti vietą Lietuvoje."
+  citata_rodoma: |
+    aug kartų reika-
+    lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet
+    lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų
+    bandymui gauti vietą Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +171,9 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     Po šitų reformų Lietuvos valstybės aparatas pasidarė jau
     toks pat, koks jis buvo ir Lenkijoje, ir Lietuvos bajorijos tei-
     sės buvo visiškai sulygintos su Lenkijos bajorų teisėmis.
-  citata_rodoma: "Visa tai buvo patvirtinta naujai perredaguotoje ant-\nrojoje statuto laidoje."
+  citata_rodoma: |
+    Visa tai buvo patvirtinta naujai perredaguotoje ant-
+    rojoje statuto laidoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

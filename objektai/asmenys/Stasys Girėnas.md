@@ -125,7 +125,12 @@ media_all_json: |-
     pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
     S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
     te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
-  citata_rodoma: "Pradėti naudoti he-\nrojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti \npagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir \nS. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-\nte ir naudota antivakarietiškumui ir antikatalikybei skleisti."
+  citata_rodoma: |
+    Pradėti naudoti he-
+    rojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti
+    pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
+    S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
+    te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

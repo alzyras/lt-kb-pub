@@ -505,7 +505,15 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
     išlaidos, prie dominikonų Šv.
-  citata_rodoma: ") Žy­\ngimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­\nniaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą \njo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­\ntyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria \niki tol buvo naudojamasi, karalius leido imti tam tikrą mo­\nkestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­\ngumui paskirti labdaringą ir Vilniui labai svarbią įstaigą."
+  citata_rodoma: |
+    ) Žy­
+    gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­
+    niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą
+    jo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­
+    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
+    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
+    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
+    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -600,7 +608,13 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     temdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­
     to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
     kijos interesus.
-  citata_rodoma: "Pirmiausia jų, \nregis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi \nnamus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms \nšeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­\nnyje į Viliją įteka Vingrių šaltinis, pavadinimas.\nTačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m."
+  citata_rodoma: |
+    Pirmiausia jų,
+    regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
+    namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms
+    šeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­
+    nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
+    Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -657,7 +671,19 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
-  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
+  citata_rodoma: |
+    ), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
+    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
+    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
+    siljevičiaus užmačių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -779,7 +805,16 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     akalnio užuomazgos7.
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
-  citata_rodoma: "Kazimiero bažnyčia; po Aukš­\ntutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­\nkių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos \ntrobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­\ntoje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­\nlos, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­\nakalnio užuomazgos7.\nkuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname], \nrado."
+  citata_rodoma: |
+    Kazimiero bažnyčia; po Aukš­
+    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
+    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
+    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
+    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
+    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
+    akalnio užuomazgos7.
+    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
+    rado.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

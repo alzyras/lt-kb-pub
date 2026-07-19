@@ -166,7 +166,13 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
     nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
     se buvo žinomi Lietuvoje. Tų piorunkų klausimas per daug
     reikšmingas, kad galėtume jį šioje vietoje praleisti.
-  citata_rodoma: "Trys\nžuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­\nkančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­\nvę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,\nnet pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš\ntenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *."
+  citata_rodoma: |
+    Trys
+    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
+    kančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­
+    vę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,
+    net pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš
+    tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

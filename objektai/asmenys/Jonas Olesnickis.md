@@ -265,7 +265,15 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     las37. Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
     apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
     glaistyti dar šviežius krašto niokojimo pėdsakus.
-  citata_rodoma: "Tačiau Moskožev-\nskis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­\nmas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui\nVilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė\nJonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­\nlas37. Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo\napeita, mat tuo metu jis išties stengėsi visokiais būdais už­\nglaistyti dar šviežius krašto niokojimo pėdsakus."
+  citata_rodoma: |
+    Tačiau Moskožev-
+    skis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­
+    mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui
+    Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
+    Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
+    las37. Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
+    apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
+    glaistyti dar šviežius krašto niokojimo pėdsakus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -289,7 +297,14 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
     gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
     valdovas, daugelis kunigaikščių ir bajorų.
-  citata_rodoma: "Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris\nkaraliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,\ntais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­\ndžią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-\nliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­\ngaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis\nvaldovas, daugelis kunigaikščių ir bajorų."
+  citata_rodoma: |
+    Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris
+    karaliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,
+    tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
+    džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-
+    liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
+    gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
+    valdovas, daugelis kunigaikščių ir bajorų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -368,7 +383,13 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     giais, įkūrė stovyklą sudegin­
     to miesto griuvėsiuose prie­
     šais šv.
-  citata_rodoma: "Mergelės Marijos bažnyčią, plačioje aikštėje.\nOlesnickis, gerai žinodamas, kad pirmieji karo žingsniai\nlemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų\nsavųjų narsumo, palikdamas vokiečių akiplėšišką karin­\ngumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti\npriešą, kol dar tas kaip reikiant nesutvirtino stovyklos."
+  citata_rodoma: |
+    Mergelės Marijos bažnyčią, plačioje aikštėje.
+    Olesnickis, gerai žinodamas, kad pirmieji karo žingsniai
+    lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų
+    savųjų narsumo, palikdamas vokiečių akiplėšišką karin­
+    gumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti
+    priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

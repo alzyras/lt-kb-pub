@@ -486,7 +486,13 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.
     Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,
     Minskas, Zaslavlis.
-  citata_rodoma: "čia randamas, palyginti, ne retas sodybų plotas su eile didžiojo\nkunigaikščio dvarų.\nEtnografinė lietuvių siena rytuose šiauriau Nemuno yra dar\nsunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.\nPaskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,\nMinskas, Zaslavlis."
+  citata_rodoma: |
+    čia randamas, palyginti, ne retas sodybų plotas su eile didžiojo
+    kunigaikščio dvarų.
+    Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar
+    sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.
+    Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,
+    Minskas, Zaslavlis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -510,7 +516,10 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: "Tačiau jis kiek apsivylė: Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+  citata_rodoma: |
+    Tačiau jis kiek apsivylė: Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -528,7 +537,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
     Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
     nigaikštijos.
-  citata_rodoma: "Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos."
+  citata_rodoma: |
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -554,7 +565,20 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  citata_rodoma: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -573,7 +597,10 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
     pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
     paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles.
-  citata_rodoma: "Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:\nSmolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a."
+  citata_rodoma: |
+    Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -596,7 +623,12 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
     mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
-  citata_rodoma: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti\nį Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,\nNaugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-\nmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-\nvos, liko tiktai Palenkės, Pagirio ir Minsko žemės."
+  citata_rodoma: |
+    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
+    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
+    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
+    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
+    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -708,7 +740,12 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
     lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
     priartėjo prie Vilniaus.
-  citata_rodoma: "Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus."
+  citata_rodoma: |
+    Nors
+    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
+    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
+    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
+    priartėjo prie Vilniaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -792,7 +829,19 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
     jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
     jūčio viduryje užpuolė Slucką.
-  citata_rodoma: "Vaivada Goštautas, pilies seniūnas\nMaskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai\ntaip nukamavo priešą, šaudydami iš patrankų bei reng­\ndami išpuolius, kad tas, nebesitikėdamas užkariauti pi­\nlies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas\nsmarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus\nsūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis\nvisur nuniokojo kraštą, sudegino miestą, o matydamas,\njog pilies nieku būdu greitai neužims, jos neapgulė,\nbet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko\nir Vitebsko žemes, niekur nesutikdamas pasipriešini­\nmo, ir sugrįžo atgal su didžiausiu grobiu."
+  citata_rodoma: |
+    Vaivada Goštautas, pilies seniūnas
+    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
+    taip nukamavo priešą, šaudydami iš patrankų bei reng­
+    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
+    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
+    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
+    sūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis
+    visur nuniokojo kraštą, sudegino miestą, o matydamas,
+    jog pilies nieku būdu greitai neužims, jos neapgulė,
+    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
+    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
+    mo, ir sugrįžo atgal su didžiausiu grobiu.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -95,7 +95,11 @@ media_all_json: |-
     tutis, o Vilniuje Algirdas pasikvietę kryžiuočių vadovybę,
     padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes.
-  citata_rodoma: "Žuvusiam maršalkai Schindekopui pamin-\nklinis kryžius buvo pastatytas tuojau po\nmūšio; jam sugriuvus, ant tų pačių pa-\nmatų 1835 m. buvo šis pastatytas."
+  citata_rodoma: |
+    Žuvusiam maršalkai Schindekopui pamin-
+    klinis kryžius buvo pastatytas tuojau po
+    mūšio; jam sugriuvus, ant tų pačių pa-
+    matų 1835 m. buvo šis pastatytas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

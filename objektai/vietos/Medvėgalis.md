@@ -293,7 +293,12 @@ media_all_json: |-
     netikėliai, pastebėję, kad jis ginkluotas, sukruto vienas kitą raginti: „Tikriausiai jis iš
     brolių kariuomenės, pasivykime ir nudobkime jį“. Taigi ir puolė jį vytis su visa šeimyna
     ir šunimis.
-  citata_rodoma: "575 D.— anre castrum Medewagam, Jer.— von Medewagiln. Medvėgalio pilis buvo\ncentrinėje Žemaitijoje,  į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.\nPastatyta stipriai įtvirtintame piliakalnyje su didele (110X20—22 m) aikštele. Ši pilis\n— vienas svarbiausių Žemaitijos gynybos centrų (žr. paaiškinimus D. III, 320, 1; D.\npapildymai, 9; be to, SZM, p. 225; LAA, 2, p. 106)."
+  citata_rodoma: |
+    575 D.— anre castrum Medewagam, Jer.— von Medewagiln. Medvėgalio pilis buvo
+    centrinėje Žemaitijoje,  į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.
+    Pastatyta stipriai įtvirtintame piliakalnyje su didele (110X20—22 m) aikštele. Ši pilis
+    — vienas svarbiausių Žemaitijos gynybos centrų (žr. paaiškinimus D. III, 320, 1; D.
+    papildymai, 9; be to, SZM, p. 225; LAA, 2, p. 106).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -316,7 +321,16 @@ media_all_json: |-
     ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
     pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
     atvykęs, patraukė į Ragainę.
-  citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai\ndėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į\nriterius."
+  citata_rodoma: |
+    Apie Medininkų valsčiaus apiplėšimą 1316 metais
+
+      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
+    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
+    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
+    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
+    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
+    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
+    riterius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

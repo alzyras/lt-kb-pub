@@ -81,7 +81,7 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    20. Apie didžiojo magistro mirtį
+    Apie didžiojo magistro mirtį
 
       Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
     18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
@@ -90,7 +90,16 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
 
     Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
     Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
-  citata_rodoma: "Apie didžiojo magistro mirtį\n\n  Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio\n18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo\npaties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo\niš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,\n\nPastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—\nLenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą."
+  citata_rodoma: |
+    Apie didžiojo magistro mirtį
+
+      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
+    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
+    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
+    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
+
+    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
+    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -103,14 +112,21 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
+    Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
 
       Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
     Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
     ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
 
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
-  citata_rodoma: "Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių\n\n  Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento\nMartyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena\nir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.\n\nKarolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius."
+  citata_rodoma: |
+    Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
+
+      Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
+    Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
+    ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
+
+    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

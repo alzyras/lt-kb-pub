@@ -110,7 +110,9 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     kaja Istoričeskaja Biblioteka, t. 27), Petrapilis 1910.
     LowStud = Lowmiański, H. : Studja nad początkami społeczeństwa i
     państwa litewskiego, t. 1-2, Vilnius 1931-32.
-  citata_rodoma: "LowStud = Lowmiański, H. : Studja nad początkami społeczeństwa i\npaństwa litewskiego, t. 1-2, Vilnius 1931-32."
+  citata_rodoma: |
+    LowStud = Lowmiański, H. : Studja nad początkami społeczeństwa i
+    państwa litewskiego, t. 1-2, Vilnius 1931-32.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +130,9 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     Zapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,
     VIII, 1929, 1-20 p. — Lowmiański, H. : _Studja nad początkami społe­
     czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
-  citata_rodoma: "Lowmiański, H. : _Studja nad początkami społe­\nczeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932."
+  citata_rodoma: |
+    Lowmiański, H. : _Studja nad początkami społe­
+    czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +152,11 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­
     mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­
     menės ir valstybės pradžią (LowStud).
-  citata_rodoma: "H. Lovmianskis, kuris\niki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­\nmečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­\nmenės ir valstybės pradžią (LowStud)."
+  citata_rodoma: |
+    H. Lovmianskis, kuris
+    iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­
+    mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­
+    menės ir valstybės pradžią (LowStud).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -168,7 +176,9 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     ir vėlesnių Lietuvos ploto duomenų, prieš pat valstybės susidarymą
     yra bandoma daryti išvadas (H. Lowmiański), jog 58.000 km^2 latvių
     gyvenamame plote tebuvę apie 145.000 gyventojų, t. y. po pustrečio
-  citata_rodoma: "yra bandoma daryti išvadas (H. Lowmiański), jog 58.000 km^2 latvių\ngyvenamame plote tebuvę apie 145.000 gyventojų, t. y. po pustrečio"
+  citata_rodoma: |
+    yra bandoma daryti išvadas (H. Lowmiański), jog 58.000 km^2 latvių
+    gyvenamame plote tebuvę apie 145.000 gyventojų, t. y. po pustrečio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

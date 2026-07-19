@@ -143,7 +143,11 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     kandidatūros, buvo pra-
     dėję prieš jį veikti dar
     tarpuvaldžio pradžioje.
-  citata_rodoma: "Pacai, bijodami jo\nkandidatūros, buvo pra-\ndėję prieš jį veikti dar\ntarpuvaldžio pradžioje."
+  citata_rodoma: |
+    Pacai, bijodami jo
+    kandidatūros, buvo pra-
+    dėję prieš jį veikti dar
+    tarpuvaldžio pradžioje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

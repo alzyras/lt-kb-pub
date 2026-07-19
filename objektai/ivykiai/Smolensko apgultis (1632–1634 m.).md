@@ -152,7 +152,18 @@ Nenurodyta
 
     jama Michailo Šejino, lapkričio 14 d. ap-
     gulė šį miestą. Rusų kariuomenėje buvo
-  citata_rodoma: "1632 m. maskvėnai, pasinaudodami\n\ntuo, kad po Zigmanto Vazos mirties jo\nsūnus Vladislovas dar nebuvo įsitvirtinęs\nLenkijos-Lietuvos soste, įsiveržė į Lietuvos\nteritoriją siekdami atgauti Smolenską.\n\n24 tūkst. rusų kariuomenė, vadovau-\n\njama Michailo Šejino, lapkričio 14 d. ap-\ngulė šį miestą."
+  citata_rodoma: |
+    1632 m. maskvėnai, pasinaudodami
+
+    tuo, kad po Zigmanto Vazos mirties jo
+    sūnus Vladislovas dar nebuvo įsitvirtinęs
+    Lenkijos-Lietuvos soste, įsiveržė į Lietuvos
+    teritoriją siekdami atgauti Smolenską.
+
+    24 tūkst. rusų kariuomenė, vadovau-
+
+    jama Michailo Šejino, lapkričio 14 d. ap-
+    gulė šį miestą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -174,7 +185,16 @@ Nenurodyta
     dymus organizavo Smolensko vaivada
     Aleksandras Gonsevskis su 6 tūkst. apy-
     linkėse veikusių karių.
-  citata_rodoma: "Smolenską gynė apie 2 tūkst. Lietuvos\nkarių. Miestas buvo stipriai apšaudo-\nmas iš 158 pabūklų ir pramušus sieną\nbuvo šturmuojamas, tačiau nesėkmingai.\nLietuviai rusų veiksmus varžė išpuoliais.\nApsiaustųjų pajėgų aprūpinimo papil-\ndymus organizavo Smolensko vaivada\nAleksandras Gonsevskis su 6 tūkst. apy-\nlinkėse veikusių karių."
+  citata_rodoma: |
+    Smolenską gynė apie 2 tūkst. Lietuvos
+    karių. Miestas buvo stipriai apšaudo-
+    mas iš 158 pabūklų ir pramušus sieną
+    buvo šturmuojamas, tačiau nesėkmingai.
+    Lietuviai rusų veiksmus varžė išpuoliais.
+    Apsiaustųjų pajėgų aprūpinimo papil-
+    dymus organizavo Smolensko vaivada
+    Aleksandras Gonsevskis su 6 tūkst. apy-
+    linkėse veikusių karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -210,7 +230,30 @@ Nenurodyta
     susirėmimų nustūmė rusus nuo miesto,
     apsupo sumenkusias priešo pajėgas ir
     1634 m. sausio 24 d. privertė kapituliuoti.
-  citata_rodoma: "1633 m. žiemą į pagalbą atskubėjo tuo-\nmetinis Lietuvos lauko etmonas Kristupas\nRadvila 11. Rugsėjį į frontą atvyko ir\nnaujasis Abiejų Tautų Respublikos val-\ndovas Vladislovas Vaza su 15 tūkst. ka-\nriuomene. Rusų pajėgų padėtis ėmė\n\nRusų kariuomenės vado,\nMykolo Borisovičiaus Šeinos štabas\nprie Smolensko pasiduoda ATR\n\nvaldovui Vladislovui Vazai\n\nkomplikuotis - tuo metu į pietines Rusijos\nžemes įsiveržė ir niokojo Krymo totoriai\n(paskatinti užpulti Rusiją ATR diplomatų),\nžinia apie tai demoralizavo rusus ir dau-\ngelį paskatino dezertyruoti. ATR valdovo\nVladislovo Vazos vadovaujama jungtinė\nlietuvių ir lenkų kariuomenė po atkaklių\nsusirėmimų nustūmė rusus nuo miesto,\napsupo sumenkusias priešo pajėgas ir\n1634 m. sausio 24 d. privertė kapituliuoti"
+  citata_rodoma: |
+    1633 m. žiemą į pagalbą atskubėjo tuo-
+    metinis Lietuvos lauko etmonas Kristupas
+    Radvila 11. Rugsėjį į frontą atvyko ir
+    naujasis Abiejų Tautų Respublikos val-
+    dovas Vladislovas Vaza su 15 tūkst. ka-
+    riuomene. Rusų pajėgų padėtis ėmė
+
+    Rusų kariuomenės vado,
+    Mykolo Borisovičiaus Šeinos štabas
+    prie Smolensko pasiduoda ATR
+
+    valdovui Vladislovui Vazai
+
+    komplikuotis - tuo metu į pietines Rusijos
+    žemes įsiveržė ir niokojo Krymo totoriai
+    (paskatinti užpulti Rusiją ATR diplomatų),
+    žinia apie tai demoralizavo rusus ir dau-
+    gelį paskatino dezertyruoti. ATR valdovo
+    Vladislovo Vazos vadovaujama jungtinė
+    lietuvių ir lenkų kariuomenė po atkaklių
+    susirėmimų nustūmė rusus nuo miesto,
+    apsupo sumenkusias priešo pajėgas ir
+    1634 m. sausio 24 d. privertė kapituliuoti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -230,7 +273,12 @@ Nenurodyta
     po to priklausė Lietuvai. Sutartis galiojo iki
     1654 m., kai sulaužę ją rusai vėl įsiveržė į
     Lietuvą.
-  citata_rodoma: "Prie Polianovkos upės Lietuva ir Lenkija su\nRusija sudarė „amžinosios taikos“ sutartį.\nRusijos mėginimas užimti Smolenską buvo\nsužlugdytas ir miestas kelias dešimtis metų\npo to priklausė Lietuvai."
+  citata_rodoma: |
+    Prie Polianovkos upės Lietuva ir Lenkija su
+    Rusija sudarė „amžinosios taikos“ sutartį.
+    Rusijos mėginimas užimti Smolenską buvo
+    sužlugdytas ir miestas kelias dešimtis metų
+    po to priklausė Lietuvai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

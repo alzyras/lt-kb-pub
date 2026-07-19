@@ -75,7 +75,12 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
     rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
     Radomo susitarimu.
-  citata_rodoma: "Vytauto ir Lietuvos bajorų\ndokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-\nvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-\nrašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus\nRadomo susitarimu."
+  citata_rodoma: |
+    Vytauto ir Lietuvos bajorų
+    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
+    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
+    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
+    Radomo susitarimu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -95,7 +100,11 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
     siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
     kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
     gaila, Lietuvos ir Lenkų bajorai.
-  citata_rodoma: "Po ilgų derybų, 1401 m. buvo pa-\nsiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-\nkumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-\ngaila, Lietuvos ir Lenkų bajorai."
+  citata_rodoma: |
+    Po ilgų derybų, 1401 m. buvo pa-
+    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
+    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
+    gaila, Lietuvos ir Lenkų bajorai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -116,7 +125,11 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
     rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
     vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
     gailai ir jo įpėdiniams, Lenkų karaliams.
-  citata_rodoma: "Juo buvo patvirtintas Vytauto sava-\nrankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-\nvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-\ngailai ir jo įpėdiniams, Lenkų karaliams."
+  citata_rodoma: |
+    Juo buvo patvirtintas Vytauto sava-
+    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
+    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
+    gailai ir jo įpėdiniams, Lenkų karaliams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

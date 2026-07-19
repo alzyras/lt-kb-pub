@@ -84,7 +84,8 @@ Nenurodyta
     publika. Sovietinio teroro ir trėmimų pradžia.
     1941–1944
     nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
-  citata_rodoma: "nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje."
+  citata_rodoma: |
+    nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

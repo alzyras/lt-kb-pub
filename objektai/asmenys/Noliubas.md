@@ -128,7 +128,16 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
     puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
     išžudę.
-  citata_rodoma: "Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o\n                        pirmiausia — prieš Kvedenavos valsčių\n\n  Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,\nbe to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai\npaklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu. Kai dėl to supykę\nbroliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis\nšiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis\np."
+  citata_rodoma: |
+    Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
+                            pirmiausia — prieš Kvedenavos valsčių
+
+      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
+    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
+    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu. Kai dėl to supykę
+    broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
+    šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
+    p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -153,7 +162,13 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
     kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
     matęs vedant nedidelį karių būrį.
-  citata_rodoma: "Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,\nnei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie\nčia atvyksta“. Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo\nnamų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų\nantpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl\nsavo įsitikinimų, ir dėl darbų."
+  citata_rodoma: |
+    Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
+    nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
+    čia atvyksta“. Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
+    namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų
+    antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl
+    savo įsitikinimų, ir dėl darbų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

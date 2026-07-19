@@ -86,7 +86,12 @@ media_all_json: |-
     burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
     Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
     kitos (žiūr. 85 psl.).
-  citata_rodoma: "Čia buvo šios ordino pilys: Klai-\npėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-\nburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie\nKauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir\nkitos (žiūr. 85 psl.)."
+  citata_rodoma: |
+    Čia buvo šios ordino pilys: Klai-
+    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
+    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
+    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
+    kitos (žiūr. 85 psl.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

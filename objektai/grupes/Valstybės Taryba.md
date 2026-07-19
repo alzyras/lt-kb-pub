@@ -105,7 +105,14 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
     ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
     cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
     valdymą.
-  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n161\nA. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-\nneto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-\nnybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus \n(įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus), \nSeimui nesant, vykdyti jo teises."
+  citata_rodoma: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    161
+    A. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-
+    neto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-
+    nybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus
+    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
+    Seimui nesant, vykdyti jo teises.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

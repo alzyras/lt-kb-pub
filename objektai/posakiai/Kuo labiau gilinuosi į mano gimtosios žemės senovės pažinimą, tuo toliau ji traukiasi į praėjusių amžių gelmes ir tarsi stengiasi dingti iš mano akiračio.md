@@ -113,7 +113,8 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
     nuošalias vietas, kaip dar savo saugumui ji supylė šią
     milžinišką žemės tvirtovę, sukrovė šias suplūkto, suslėgto
     smėlio ir molio mases į taisyklingai kvadratinę tvirtovę?
-  citata_rodoma: "Pro langą mano namuko, kur rašau šias eilutes, kasdien žvelgiu į prie Rodūnės stūksantį pylimą, esantį tiesiai vos per mylią, sudarantį didingą tolimos tvirtovės vaizdą; įsižiūrėdamas į šį retą praeities paminklą, kasdien jaučiu savo širdyje gimstančius jausmus, skatinančius ją ištirti, ir kasdien matau neįveikiamas kliūtis šiam sumanymui įgyvendinti. Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio."
+  citata_rodoma: |
+    Pro langą mano namuko, kur rašau šias eilutes, kasdien žvelgiu į prie Rodūnės stūksantį pylimą, esantį tiesiai vos per mylią, sudarantį didingą tolimos tvirtovės vaizdą; įsižiūrėdamas į šį retą praeities paminklą, kasdien jaučiu savo širdyje gimstančius jausmus, skatinančius ją ištirti, ir kasdien matau neįveikiamas kliūtis šiam sumanymui įgyvendinti. Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

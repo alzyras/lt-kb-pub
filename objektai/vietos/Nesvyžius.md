@@ -356,7 +356,13 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     je, tai yra europinės reikšmės riba. Maskva XV–XVI a. gyveno bizantine
     tradicija, o jei Vakarai ir darė poveikį – tai tik fragmentišką, ir tai jau buvo
     ne gotikos poveikis (italų renesanso meistrai Kremliuje XV a. pabaigoje).
-  citata_rodoma: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-\ntantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-\nje. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje \n(Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-\npos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-\nje, tai yra europinės reikšmės riba. Maskva XV–XVI a."
+  citata_rodoma: |
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba. Maskva XV–XVI a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -403,7 +409,23 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     jorijai mobilizuotis, o jų mažesnių būrių
 
     Vilnius Aleksandro valdymo laikais.
-  citata_rodoma: "Vietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais.\n\nLietuvos kariuomenės mobilizacija, vadai\nir pirmieji susidūrimai\n\nStaigus totorių įsiveržimas sutrukdė jų\nveiksmus patyrusių paliestų pavietų ba-\njorijai mobilizuotis, o jų mažesnių būrių\n\nVilnius Aleksandro valdymo laikais."
+  citata_rodoma: |
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+
+    Lietuvos kariuomenės mobilizacija, vadai
+    ir pirmieji susidūrimai
+
+    Staigus totorių įsiveržimas sutrukdė jų
+    veiksmus patyrusių paliestų pavietų ba-
+    jorijai mobilizuotis, o jų mažesnių būrių
+
+    Vilnius Aleksandro valdymo laikais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -425,7 +447,14 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: "Vėliau Radvila Juo-\ndasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė\nkonkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė\npirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką\njos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė\nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m."
+  citata_rodoma: |
+    Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -445,7 +474,10 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
     skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
     dvasia.
-  citata_rodoma: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado\nskulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko\ndvasia."
+  citata_rodoma: |
+    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
+    skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
+    dvasia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -463,7 +495,11 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
     architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
     čia.
-  citata_rodoma: "Barokinė\nNesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės\narchitektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-\nčia."
+  citata_rodoma: |
+    Barokinė
+    Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
+    architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
+    čia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

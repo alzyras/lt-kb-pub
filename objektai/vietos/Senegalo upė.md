@@ -93,7 +93,14 @@ Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Sene
     laviu - dievaičiu, kurį garbino to gyvo šliužo pavidalu.
     Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
     paprastai seni, ir apie juos pasakojo ypač keistų dalykų.
-  citata_rodoma: "Todėl ne kiekvienas istorikas ir 5\n5\nFetiche, iš portugalų Fetisso -  stabmeldiška statulėlė; feticzei-\nra -  ragana (fée, feérie, f  ata). (De Brosses. Du culte de Dieux Féti­\nches. -1760). Portugalai taip vadino pirmiausia negrų prie Senegalo\nupės bei kitų laukinių tautų dievukus; paskui tas terminas įgavo pla­\ntesnę reikšmę."
+  citata_rodoma: |
+    Todėl ne kiekvienas istorikas ir 5
+    5
+    Fetiche, iš portugalų Fetisso -  stabmeldiška statulėlė; feticzei-
+    ra -  ragana (fée, feérie, f  ata). (De Brosses. Du culte de Dieux Féti­
+    ches. -1760). Portugalai taip vadino pirmiausia negrų prie Senegalo
+    upės bei kitų laukinių tautų dievukus; paskui tas terminas įgavo pla­
+    tesnę reikšmę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

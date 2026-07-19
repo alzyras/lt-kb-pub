@@ -77,7 +77,11 @@ media_all_json: |-
     bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
     kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
     de Lannoy, buvo siuntinėjami totorių kalba raštai.
-  citata_rodoma: "Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­\nbos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo\nkun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert\nde Lannoy, buvo siuntinėjami totorių kalba raštai."
+  citata_rodoma: |
+    Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­
+    bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
+    kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
+    de Lannoy, buvo siuntinėjami totorių kalba raštai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

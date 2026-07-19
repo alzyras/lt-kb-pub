@@ -76,7 +76,9 @@ Nenurodyta
     p. 136, XVII a. pabaigos -xvIII a. pradžios kavalerijos palašas. vDKM, Artūro Užgalio nuotr.
     p. 136, Karacenos šarvų komplektas. Abiejų Tautų Respublika, xviii a. vDKM, Artūro Užgalio
     nuotr.
-  citata_rodoma: "p. 136, Karacenos šarvų komplektas. Abiejų Tautų Respublika, xviii a. vDKM, Artūro Užgalio\nnuotr."
+  citata_rodoma: |
+    p. 136, Karacenos šarvų komplektas. Abiejų Tautų Respublika, xviii a. vDKM, Artūro Užgalio
+    nuotr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

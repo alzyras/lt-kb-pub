@@ -164,7 +164,16 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     Vargu ar kas stengtų išsamiai aprašyti bei papasakoti, kiek vargų antrosios atskalūnybės
     metais patyrė Rudino broliai bei miestiečiai, gindami krikščionių tikėjimą nuo prūsų, nes
     šiomis vietomis prūsai nuolatos braudavosi į Kulmo žemę ir iš jos traukdavo atgal.
-  citata_rodoma: "Apie  jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija\npasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs\nlaišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad\n\n  430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie\nOsos, deš. upės krante, tarp dab. Lasino ir Osos, kur į pietus nuo gyvenvietės Sčepankai\n(Szczepanki)  išliko ovalus  piliakalnis. Kai prūsai šią  pilį sunaikino, 1326 m. buvo\npastatyta antroji Štarkenbergo pilis kair. Osos krante, tarp upės ir Meino ežero, kur išliko\nketurkampis piliakalnis."
+  citata_rodoma: |
+    Apie  jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija
+    pasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs
+    laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
+
+      430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
+    Osos, deš. upės krante, tarp dab. Lasino ir Osos, kur į pietus nuo gyvenvietės Sčepankai
+    (Szczepanki)  išliko ovalus  piliakalnis. Kai prūsai šią  pilį sunaikino, 1326 m. buvo
+    pastatyta antroji Štarkenbergo pilis kair. Osos krante, tarp upės ir Meino ežero, kur išliko
+    keturkampis piliakalnis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -189,7 +198,14 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
     430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
     Osos, deš. upės krante, tarp dab.
-  citata_rodoma: "Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį\n\n  Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui\nbei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,\npažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras\nsušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų\nkariuomenė ir visą šią žmonių minią išžudė."
+  citata_rodoma: |
+    Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
+
+      Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui
+    bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,
+    pažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras
+    sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
+    kariuomenė ir visą šią žmonių minią išžudė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

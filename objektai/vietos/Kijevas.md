@@ -1882,7 +1882,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
-  citata_rodoma: "Ir kada Vytautas,\nnorėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­\ngalės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­\nsarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­\nlionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
+  citata_rodoma: |
+    Ir kada Vytautas,
+    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
+    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
+    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
+    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1901,7 +1909,10 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
     litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
     katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
-  citata_rodoma: "Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-\nlitai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai \nkatalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje."
+  citata_rodoma: |
+    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
+    litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
+    katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1941,7 +1952,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų
     kunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,
     juos sutaikino Jadvyga.
-  citata_rodoma: "Vytautas pasižadėjo padėti Skirgailai pa­\nimti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų\nkunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,\njuos sutaikino Jadvyga."
+  citata_rodoma: |
+    Vytautas pasižadėjo padėti Skirgailai pa­
+    imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų
+    kunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,
+    juos sutaikino Jadvyga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1972,7 +1987,22 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Rytais. Lietuvių Tavano pilyje, sto­
     vinčioje prie Dniepro, Vytautas įstei­
     gė muitinę, vadintą Vytauto pirtimi.
-  citata_rodoma: "27.\n79\nKijevo kunigaikštystė ir Podolė, \nanais laikais nusidriekusi iki pat \nDniepro ir Dniestro žiočių, priklau­\nsė Lietuvai; Kafos* miestas prie Juo­\ndosios jūros buvo svarbiausias Lie­\ntuvos prekybinis uostas, jungęs su \nRytais, iš kur prekės būdavo gabe­\nnamos į Kijevą; pastarajam tarpinin­\nkaujant Vilnius, kaip valstybės sos­\ntinė, palaikė prekybinius ryšius su \nRytais. Lietuvių Tavano pilyje, sto­\nvinčioje prie Dniepro, Vytautas įstei­\ngė muitinę, vadintą Vytauto pirtimi."
+  citata_rodoma: |
+    27.
+    79
+    Kijevo kunigaikštystė ir Podolė,
+    anais laikais nusidriekusi iki pat
+    Dniepro ir Dniestro žiočių, priklau­
+    sė Lietuvai; Kafos* miestas prie Juo­
+    dosios jūros buvo svarbiausias Lie­
+    tuvos prekybinis uostas, jungęs su
+    Rytais, iš kur prekės būdavo gabe­
+    namos į Kijevą; pastarajam tarpinin­
+    kaujant Vilnius, kaip valstybės sos­
+    tinė, palaikė prekybinius ryšius su
+    Rytais. Lietuvių Tavano pilyje, sto­
+    vinčioje prie Dniepro, Vytautas įstei­
+    gė muitinę, vadintą Vytauto pirtimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2016,7 +2046,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
     kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
     vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
-  citata_rodoma: "Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi\nkiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų\nkunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­\nvių, kad galėtų bent kiek paveikti kaimyninius kraštus."
+  citata_rodoma: |
+    Maskva tuomet dar tebuvo menka
+    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
+    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi
+    kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
+    kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
+    vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2074,7 +2110,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
     vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
     kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
-  citata_rodoma: "Ordino trukdė dar\ntaikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,\nvedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­\nkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes."
+  citata_rodoma: |
+    Ordino trukdė dar
+    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
+    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
+    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2128,7 +2168,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Aleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m.), tei-
     kė Kazimierui sąlygą arba jį skirti arba pačiam persikelti gy-
     venti į Lietuvą, tačiau Kazimieras nei šiaip nei taip nepadarė.
-  citata_rodoma: "Tačiau\nKazimieras nesutiko skirti Lietuvai atskiro valdovo ir po My-\nkolo mirties (1452 m.), kada Lietuvos ponai iškėlė kandidatu\nAlgirdo palikuonį, Kijevo kunigaikštį Simaną (Olelkos, arba\nAleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m."
+  citata_rodoma: |
+    Tačiau
+    Kazimieras nesutiko skirti Lietuvai atskiro valdovo ir po My-
+    kolo mirties (1452 m.), kada Lietuvos ponai iškėlė kandidatu
+    Algirdo palikuonį, Kijevo kunigaikštį Simaną (Olelkos, arba
+    Aleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2148,7 +2193,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
     tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
-  citata_rodoma: "Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos \nsukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a."
+  citata_rodoma: |
+    Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
+    sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2170,7 +2219,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     rankiškais keliais.
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
     išteklius.
-  citata_rodoma: "„Senovės nekeitimo“ tezė tėra istoriografi-\nnis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė \nį dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-\nrankiškais keliais. \nVytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje \ništeklius."
+  citata_rodoma: |
+    „Senovės nekeitimo“ tezė tėra istoriografi-
+    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
+    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
+    rankiškais keliais.
+    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
+    išteklius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2193,7 +2248,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
     Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
     naudoti savo galios ir susidoroti su savo priešais.
-  citata_rodoma: "Krymo totorių\norda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,\npaklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.\nVeltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus\nMendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -\nAleksandro veiksmams stigo ryžto ir, nors buvo išrinktas\nLenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­\nnaudoti savo galios ir susidoroti su savo priešais."
+  citata_rodoma: |
+    Krymo totorių
+    orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
+    paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2246,7 +2309,10 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  citata_rodoma: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2271,7 +2337,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Įsigalėjus mongolų įtakai
     beveik visos senrusių Ze-
     mės mokėjo jiems duoklę.
-  citata_rodoma: "1240 m.\nKijevą nusiaubė mongolai,\nnuo to laiko politiškai svar-\nbiausia rusėnų žeme tapo\nVladimiro kunigaikštystė.\nĮsigalėjus mongolų įtakai\nbeveik visos senrusių Ze-\nmės mokėjo jiems duoklę."
+  citata_rodoma: |
+    1240 m.
+    Kijevą nusiaubė mongolai,
+    nuo to laiko politiškai svar-
+    biausia rusėnų žeme tapo
+    Vladimiro kunigaikštystė.
+    Įsigalėjus mongolų įtakai
+    beveik visos senrusių Ze-
+    mės mokėjo jiems duoklę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2299,7 +2373,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     kad Lietuvai palankiausia situacija buvo
     1325-1326 m., ypač 1325 m., kai buvo apsi-
     drausta nuo Kryžiuočių ordino puolimo.
-  citata_rodoma: "Po to išgirdę,\n\nnugalėjęs rusų ir totorių kariuomenę, nu-\n\nvijo totorius ir Kijevą paėmė į savo valdžią.\nGedimino valdžią tuo metu pripa-\n\nžino ir Kijevo priemiesčiai Vyšgorodas\n\nįvykių į vakarus nuo Lietuvos analizė rodo,\nkad Lietuvai palankiausia situacija buvo\n1325-1326 m."
+  citata_rodoma: |
+    Po to išgirdę,
+
+    nugalėjęs rusų ir totorių kariuomenę, nu-
+
+    vijo totorius ir Kijevą paėmė į savo valdžią.
+    Gedimino valdžią tuo metu pripa-
+
+    žino ir Kijevo priemiesčiai Vyšgorodas
+
+    įvykių į vakarus nuo Lietuvos analizė rodo,
+    kad Lietuvai palankiausia situacija buvo
+    1325-1326 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2336,7 +2422,23 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     ličo) už saugojimą nuo didžiojo ku­
     nigaikščio Mstislavo Rogvoldovi-
     čiaus.
-  citata_rodoma: "[Lietuvos valdovų pradžia - į Poloc­\nko kunigaikščius, j Rogvoldo vietą\natėjo didysis Mstislavas Vladimiro- \nvičius ir užėmė Polocką, o Rogvol- \ndovičiai išbėgo į Cargradą [Konstan­\ntinopolį]. Lietuva tuo laiku duoklę \nmokėjo Polocko kunigaikščiams, o \nvaldoma savo etmonų, o Lietuvos \nmiestai jau buvo valdomi Kijevo ku­\nnigaikščių: vieni - Černigovo, kiti - \nSmolensko, kiti - Polocko. Ir Vilnia \n[Vilnius] buvo priverstas duoti \nduoklę Ugrų karaliui (tikriausiai Ha­\nličo) už saugojimą nuo didžiojo ku­\nnigaikščio Mstislavo Rogvoldovi- \nčiaus."
+  citata_rodoma: |
+    [Lietuvos valdovų pradžia - į Poloc­
+    ko kunigaikščius, j Rogvoldo vietą
+    atėjo didysis Mstislavas Vladimiro-
+    vičius ir užėmė Polocką, o Rogvol-
+    dovičiai išbėgo į Cargradą [Konstan­
+    tinopolį]. Lietuva tuo laiku duoklę
+    mokėjo Polocko kunigaikščiams, o
+    valdoma savo etmonų, o Lietuvos
+    miestai jau buvo valdomi Kijevo ku­
+    nigaikščių: vieni - Černigovo, kiti -
+    Smolensko, kiti - Polocko. Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2387,7 +2489,24 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
     išplėtė lietuvių valdų ribas ligi Putivlio.
-  citata_rodoma: "Nors rusai dar nebuvo\n2 03\n\n## Puslapis 202\n\nVerčiau pasiduodant išsaugoti šiokią tokią valstybę,\nkad ir nugalėtojo valdomą, nei viską atkakliu prie­\nšinimusi prarasti. Todėl pa­\nsitarę nusprendė patys ati­\nduoti pilį ir miestą. Visi luo­\nmai, išėję iš miesto, sveikino\nnugalėtoją\nGediminą\nkaip\nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo\nvaldžiai."
+  citata_rodoma: |
+    Nors rusai dar nebuvo
+    2 03
+
+    ## Puslapis 202
+
+    Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
+    kad ir nugalėtojo valdomą, nei viską atkakliu prie­
+    šinimusi prarasti. Todėl pa­
+    sitarę nusprendė patys ati­
+    duoti pilį ir miestą. Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2419,7 +2538,21 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     išvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų
     paversti savo -valdiniais; mat rusai vėliau kovose įro­
     dė, jog atsisakė paklusti lenkams.
-  citata_rodoma: "Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi \nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių \nkivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi \nsenomis Boleslovo Narsiojo pergalėmis ir naujais gi­\nminystės ryšiais. Nors kitados Boleslovas, nugalėjęs \nrusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius \nduoklę duoti, tačiau nė vienam lenkų karaliui dar ne­\nbuvo pavykę nei gauti Kijevo kunigaikščio vardo, nei \nišvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų \npaversti savo -valdiniais; mat rusai vėliau kovose įro­\ndė, jog atsisakė paklusti lenkams."
+  citata_rodoma: |
+    Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais. Nors kitados Boleslovas, nugalėjęs
+    rusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius
+    duoklę duoti, tačiau nė vienam lenkų karaliui dar ne­
+    buvo pavykę nei gauti Kijevo kunigaikščio vardo, nei
+    išvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų
+    paversti savo -valdiniais; mat rusai vėliau kovose įro­
+    dė, jog atsisakė paklusti lenkams.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2514,7 +2647,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą.
-  citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
+  citata_rodoma: |
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -2537,7 +2681,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
     nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
     1 Lib. XXXI.
-  citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
+  citata_rodoma: |
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -2568,7 +2720,20 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     palankiausias klimatas ir geriausios sąlygos žemdirbys­
     tei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­
     nynas, buvo šalia šios tylios gyvenvietės1.
-  citata_rodoma: "Kijevo • miesto istorija ypatinga, tuo, kad žinios, sly­\npinčios kitapus tamsios praeities skraistės, vis dėlto įž­\nvelgiamos ir tarsi teikia vilties, jog galima dar daug ką\nsužinoti.\nŽemė, kur įsikūręs Kijevas, priklausė Skitijai; ji su­\ndarė svarbesnę šiaurės vakarų krašto dalį, buvo derlinga,\nsveika, išraižyta įvairiomis kryptimis sruvenančių van­\ndenų, turtinga įvairių gyvenimo gėrybių, kurias gamta\nteikė žmonėms. Artimiausi ir gausiausi šio krašto gyven­\ntojai buvo skiri ai, kurie vertėsi žem dirbyste, nes čia buvo\npalankiausias klimatas ir geriausios sąlygos žemdirbys­\ntei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­\nnynas, buvo šalia šios tylios gyvenvietės1."
+  citata_rodoma: |
+    Kijevo • miesto istorija ypatinga, tuo, kad žinios, sly­
+    pinčios kitapus tamsios praeities skraistės, vis dėlto įž­
+    velgiamos ir tarsi teikia vilties, jog galima dar daug ką
+    sužinoti.
+    Žemė, kur įsikūręs Kijevas, priklausė Skitijai; ji su­
+    darė svarbesnę šiaurės vakarų krašto dalį, buvo derlinga,
+    sveika, išraižyta įvairiomis kryptimis sruvenančių van­
+    denų, turtinga įvairių gyvenimo gėrybių, kurias gamta
+    teikė žmonėms. Artimiausi ir gausiausi šio krašto gyven­
+    tojai buvo skiri ai, kurie vertėsi žem dirbyste, nes čia buvo
+    palankiausias klimatas ir geriausios sąlygos žemdirbys­
+    tei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­
+    nynas, buvo šalia šios tylios gyvenvietės1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -2744,7 +2909,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
     puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
     Akstiną tam davė naujas didelis Kijevo apiplėšimas (1299).
-  citata_rodoma: "Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos\nRusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių\npuolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.\nAkstiną tam davė naujas didelis Kijevo apiplėšimas (1299)."
+  citata_rodoma: |
+    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
+    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
+    puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
+    Akstiną tam davė naujas didelis Kijevo apiplėšimas (1299).
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
@@ -2765,7 +2934,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
     tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
-  citata_rodoma: "Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos \nsukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a."
+  citata_rodoma: |
+    Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
+    sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -2850,7 +3023,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
     nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
     1 Lib. XXXI.
-  citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
+  citata_rodoma: |
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -2971,7 +3152,20 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     palankiausias klimatas ir geriausios sąlygos žemdirbys­
     tei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­
     nynas, buvo šalia šios tylios gyvenvietės1.
-  citata_rodoma: "Kijevo • miesto istorija ypatinga, tuo, kad žinios, sly­\npinčios kitapus tamsios praeities skraistės, vis dėlto įž­\nvelgiamos ir tarsi teikia vilties, jog galima dar daug ką\nsužinoti.\nŽemė, kur įsikūręs Kijevas, priklausė Skitijai; ji su­\ndarė svarbesnę šiaurės vakarų krašto dalį, buvo derlinga,\nsveika, išraižyta įvairiomis kryptimis sruvenančių van­\ndenų, turtinga įvairių gyvenimo gėrybių, kurias gamta\nteikė žmonėms. Artimiausi ir gausiausi šio krašto gyven­\ntojai buvo skiri ai, kurie vertėsi žem dirbyste, nes čia buvo\npalankiausias klimatas ir geriausios sąlygos žemdirbys­\ntei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­\nnynas, buvo šalia šios tylios gyvenvietės1."
+  citata_rodoma: |
+    Kijevo • miesto istorija ypatinga, tuo, kad žinios, sly­
+    pinčios kitapus tamsios praeities skraistės, vis dėlto įž­
+    velgiamos ir tarsi teikia vilties, jog galima dar daug ką
+    sužinoti.
+    Žemė, kur įsikūręs Kijevas, priklausė Skitijai; ji su­
+    darė svarbesnę šiaurės vakarų krašto dalį, buvo derlinga,
+    sveika, išraižyta įvairiomis kryptimis sruvenančių van­
+    denų, turtinga įvairių gyvenimo gėrybių, kurias gamta
+    teikė žmonėms. Artimiausi ir gausiausi šio krašto gyven­
+    tojai buvo skiri ai, kurie vertėsi žem dirbyste, nes čia buvo
+    palankiausias klimatas ir geriausios sąlygos žemdirbys­
+    tei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­
+    nynas, buvo šalia šios tylios gyvenvietės1.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3032,7 +3226,17 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     jo pusėje buvo chanas Tochtamyšas su savo kariuome­
     ne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai,
     moldavai ir penkiasdešimt rusų kunigaikščių.
-  citata_rodoma: "O \nkunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas \nFoma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir \npo puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi- \nloslavičius, ten susirgo ir, parvykęs į Kijevą, septintą \ndieną mirė ,8. Šventikai su žvakėmis, giedodami laido­\ntuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo \nmiesto į šventąjį dievo motinos katakombų vienuolyną, \nir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­\nlia šventojo Pečeros Teodozijaus1 9  grabo."
+  citata_rodoma: |
+    O
+    kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas
+    Foma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir
+    po puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi-
+    loslavičius, ten susirgo ir, parvykęs į Kijevą, septintą
+    dieną mirė ,8. Šventikai su žvakėmis, giedodami laido­
+    tuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo
+    miesto į šventąjį dievo motinos katakombų vienuolyną,
+    ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
+    lia šventojo Pečeros Teodozijaus1 9  grabo.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
@@ -3054,7 +3258,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
     Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
     naudoti savo galios ir susidoroti su savo priešais.
-  citata_rodoma: "Krymo totorių\norda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,\npaklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.\nVeltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus\nMendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -\nAleksandro veiksmams stigo ryžto ir, nors buvo išrinktas\nLenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­\nnaudoti savo galios ir susidoroti su savo priešais."
+  citata_rodoma: |
+    Krymo totorių
+    orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
+    paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3095,7 +3307,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
     vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
     kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
-  citata_rodoma: "Ordino trukdė dar\ntaikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,\nvedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­\nkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes."
+  citata_rodoma: |
+    Ordino trukdė dar
+    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
+    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
+    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3135,7 +3351,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
-  citata_rodoma: "Ir kada Vytautas,\nnorėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­\ngalės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­\nsarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­\nlionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
+  citata_rodoma: |
+    Ir kada Vytautas,
+    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
+    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
+    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
+    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3173,7 +3397,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     rankiškais keliais.
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
     išteklius.
-  citata_rodoma: "„Senovės nekeitimo“ tezė tėra istoriografi-\nnis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė \nį dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-\nrankiškais keliais. \nVytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje \ništeklius."
+  citata_rodoma: |
+    „Senovės nekeitimo“ tezė tėra istoriografi-
+    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
+    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
+    rankiškais keliais.
+    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
+    išteklius.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3286,7 +3516,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     ilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­
     venimo dienas — buvo nunuodytas. I jo vietą Kijeve Vytautas
     pasodino savo vietininką, Alšėnų kun. Algimanto sūnų Joną^1 ).
-  citata_rodoma: "Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė\nsavo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­\nilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­\nvenimo dienas — buvo nunuodytas. I jo vietą Kijeve Vytautas\npasodino savo vietininką, Alšėnų kun."
+  citata_rodoma: |
+    Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė
+    savo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­
+    ilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­
+    venimo dienas — buvo nunuodytas. I jo vietą Kijeve Vytautas
+    pasodino savo vietininką, Alšėnų kun.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3322,7 +3557,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
     kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
     vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
-  citata_rodoma: "Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi\nkiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų\nkunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­\nvių, kad galėtų bent kiek paveikti kaimyninius kraštus."
+  citata_rodoma: |
+    Maskva tuomet dar tebuvo menka
+    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
+    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi
+    kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
+    kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
+    vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3349,7 +3590,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     kad Lietuvai palankiausia situacija buvo
     1325-1326 m., ypač 1325 m., kai buvo apsi-
     drausta nuo Kryžiuočių ordino puolimo.
-  citata_rodoma: "Po to išgirdę,\n\nnugalėjęs rusų ir totorių kariuomenę, nu-\n\nvijo totorius ir Kijevą paėmė į savo valdžią.\nGedimino valdžią tuo metu pripa-\n\nžino ir Kijevo priemiesčiai Vyšgorodas\n\nįvykių į vakarus nuo Lietuvos analizė rodo,\nkad Lietuvai palankiausia situacija buvo\n1325-1326 m."
+  citata_rodoma: |
+    Po to išgirdę,
+
+    nugalėjęs rusų ir totorių kariuomenę, nu-
+
+    vijo totorius ir Kijevą paėmė į savo valdžią.
+    Gedimino valdžią tuo metu pripa-
+
+    žino ir Kijevo priemiesčiai Vyšgorodas
+
+    įvykių į vakarus nuo Lietuvos analizė rodo,
+    kad Lietuvai palankiausia situacija buvo
+    1325-1326 m.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3368,7 +3621,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius
     valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
     Polocką.
-  citata_rodoma: "Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio\natėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius\nvalsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už\nPolocką."
+  citata_rodoma: |
+    Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio
+    atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius
+    valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
+    Polocką.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
@@ -3393,7 +3650,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Aleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m.), tei-
     kė Kazimierui sąlygą arba jį skirti arba pačiam persikelti gy-
     venti į Lietuvą, tačiau Kazimieras nei šiaip nei taip nepadarė.
-  citata_rodoma: "Tačiau\nKazimieras nesutiko skirti Lietuvai atskiro valdovo ir po My-\nkolo mirties (1452 m.), kada Lietuvos ponai iškėlė kandidatu\nAlgirdo palikuonį, Kijevo kunigaikštį Simaną (Olelkos, arba\nAleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m."
+  citata_rodoma: |
+    Tačiau
+    Kazimieras nesutiko skirti Lietuvai atskiro valdovo ir po My-
+    kolo mirties (1452 m.), kada Lietuvos ponai iškėlė kandidatu
+    Algirdo palikuonį, Kijevo kunigaikštį Simaną (Olelkos, arba
+    Aleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3410,7 +3672,10 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
     litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
     katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
-  citata_rodoma: "Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-\nlitai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai \nkatalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje."
+  citata_rodoma: |
+    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
+    litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
+    katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3444,7 +3709,23 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     ličo) už saugojimą nuo didžiojo ku­
     nigaikščio Mstislavo Rogvoldovi-
     čiaus.
-  citata_rodoma: "[Lietuvos valdovų pradžia - į Poloc­\nko kunigaikščius, j Rogvoldo vietą\natėjo didysis Mstislavas Vladimiro- \nvičius ir užėmė Polocką, o Rogvol- \ndovičiai išbėgo į Cargradą [Konstan­\ntinopolį]. Lietuva tuo laiku duoklę \nmokėjo Polocko kunigaikščiams, o \nvaldoma savo etmonų, o Lietuvos \nmiestai jau buvo valdomi Kijevo ku­\nnigaikščių: vieni - Černigovo, kiti - \nSmolensko, kiti - Polocko. Ir Vilnia \n[Vilnius] buvo priverstas duoti \nduoklę Ugrų karaliui (tikriausiai Ha­\nličo) už saugojimą nuo didžiojo ku­\nnigaikščio Mstislavo Rogvoldovi- \nčiaus."
+  citata_rodoma: |
+    [Lietuvos valdovų pradžia - į Poloc­
+    ko kunigaikščius, j Rogvoldo vietą
+    atėjo didysis Mstislavas Vladimiro-
+    vičius ir užėmė Polocką, o Rogvol-
+    dovičiai išbėgo į Cargradą [Konstan­
+    tinopolį]. Lietuva tuo laiku duoklę
+    mokėjo Polocko kunigaikščiams, o
+    valdoma savo etmonų, o Lietuvos
+    miestai jau buvo valdomi Kijevo ku­
+    nigaikščių: vieni - Černigovo, kiti -
+    Smolensko, kiti - Polocko. Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3461,7 +3742,10 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  citata_rodoma: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3505,7 +3789,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą.
-  citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
+  citata_rodoma: |
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3528,7 +3823,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Įsigalėjus mongolų įtakai
     beveik visos senrusių Ze-
     mės mokėjo jiems duoklę.
-  citata_rodoma: "1240 m.\nKijevą nusiaubė mongolai,\nnuo to laiko politiškai svar-\nbiausia rusėnų žeme tapo\nVladimiro kunigaikštystė.\nĮsigalėjus mongolų įtakai\nbeveik visos senrusių Ze-\nmės mokėjo jiems duoklę."
+  citata_rodoma: |
+    1240 m.
+    Kijevą nusiaubė mongolai,
+    nuo to laiko politiškai svar-
+    biausia rusėnų žeme tapo
+    Vladimiro kunigaikštystė.
+    Įsigalėjus mongolų įtakai
+    beveik visos senrusių Ze-
+    mės mokėjo jiems duoklę.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3601,7 +3904,22 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Rytais. Lietuvių Tavano pilyje, sto­
     vinčioje prie Dniepro, Vytautas įstei­
     gė muitinę, vadintą Vytauto pirtimi.
-  citata_rodoma: "27.\n79\nKijevo kunigaikštystė ir Podolė, \nanais laikais nusidriekusi iki pat \nDniepro ir Dniestro žiočių, priklau­\nsė Lietuvai; Kafos* miestas prie Juo­\ndosios jūros buvo svarbiausias Lie­\ntuvos prekybinis uostas, jungęs su \nRytais, iš kur prekės būdavo gabe­\nnamos į Kijevą; pastarajam tarpinin­\nkaujant Vilnius, kaip valstybės sos­\ntinė, palaikė prekybinius ryšius su \nRytais. Lietuvių Tavano pilyje, sto­\nvinčioje prie Dniepro, Vytautas įstei­\ngė muitinę, vadintą Vytauto pirtimi."
+  citata_rodoma: |
+    27.
+    79
+    Kijevo kunigaikštystė ir Podolė,
+    anais laikais nusidriekusi iki pat
+    Dniepro ir Dniestro žiočių, priklau­
+    sė Lietuvai; Kafos* miestas prie Juo­
+    dosios jūros buvo svarbiausias Lie­
+    tuvos prekybinis uostas, jungęs su
+    Rytais, iš kur prekės būdavo gabe­
+    namos į Kijevą; pastarajam tarpinin­
+    kaujant Vilnius, kaip valstybės sos­
+    tinė, palaikė prekybinius ryšius su
+    Rytais. Lietuvių Tavano pilyje, sto­
+    vinčioje prie Dniepro, Vytautas įstei­
+    gė muitinę, vadintą Vytauto pirtimi.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -3680,15 +3998,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO
-    DĖDĘ KĘSTUTI
-    Didysis kunigaikštis Algirdas turėjo dvylika sūnų
-    O štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo
-    paėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­
-    ką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­
-    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
-    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
-    mę.
+    Buvo vienas žmogus36, didžiojo kunigaikščio Algir­
+    do tarnas, vergas, vardu Vaidila37; iš pradžių buvo
+    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
+    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
+    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
+    dą34 ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
+    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
+    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
+    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3B,
+    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 40.
+    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
+    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
+    sers, kam ją ištekino už vergo.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3700,16 +4022,20 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Pas jį iš
-    Kijevo atvyko kunigaikštis Vladimiras. Tais pačiais
-    metais rudenį didysis kunigaikštis Vytautas iškėlė jį
-    iš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino
-    Skirgailą Algirdaitį; pats didysis kunigaikštis Vytautas
-    išžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai
-    liepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .
-    Didysis kunigaikštis Skirgaila, dievui padėjus ir didžia­
-    jam kunigaikščiui Vytautui įsakius, paėmė Čerkasus
-    ir Zvenigorodą ir sugrįžo atgal į Kijevą l7.
+    O kunigaikštis Jurgis Svetoslavovičius tuo metu
+    viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą
+
+    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
+    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
+    Lengvenį su didele kariuomene ir su Smolensko pajė­
+    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
+    su dideliu grobiu sugrįžo pas Vytautą (1396)13.
+    Tą pačią žiemą, pavasariop H, į Smolenską, pas savo
+    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
+    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
+    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
+    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
+    auksiniais indais ir bachmatais ls.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -84,7 +84,8 @@ Nenurodyta
     tojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobi-
     lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
     Hagos konvenciją).
-  citata_rodoma: "lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą"
+  citata_rodoma: |
+    lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

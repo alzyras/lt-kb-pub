@@ -89,7 +89,11 @@ Nenurodyta
     da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
     bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
     likęs didžiojo altoriaus kryžius^2 ).
-  citata_rodoma: "Bet ši katedra 1399 metais sudegė. Ta-\nda Vytautas buvo pastatęs naują gotiško stiliaus katedrą,\nbet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš-\nlikęs didžiojo altoriaus kryžius^2 )."
+  citata_rodoma: |
+    Bet ši katedra 1399 metais sudegė. Ta­
+    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
+    bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
+    likęs didžiojo altoriaus kryžius^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

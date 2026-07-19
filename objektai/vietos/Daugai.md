@@ -200,7 +200,21 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     Vaidilos, ir didysis komtūras, ku­
     ris jiems iškėlė puikias vaišes. Žr.
     Voigt, T. V, 355.
-  citata_rodoma: "Kitais \nmetais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­\ndriaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė \ntikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.\n28\nTas sandėris buvo sudarytas slapta \ngirioje, prie dabartinių Daugų, Tra­\nkų paviete, netoli nuo Alytaus, kaip \nmanau (auf dem Felde Daudisken); \ntarp atvykusiųjų į tariamą medžiok­\nlę buvo: Jogaila, lydimas Lietuvos \nkunigaikščių Vytauto ir Jono, bei \nVaidilos, ir didysis komtūras, ku­\nris jiems iškėlė puikias vaišes. Žr."
+  citata_rodoma: |
+    Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+    28
+    Tas sandėris buvo sudarytas slapta
+    girioje, prie dabartinių Daugų, Tra­
+    kų paviete, netoli nuo Alytaus, kaip
+    manau (auf dem Felde Daudisken);
+    tarp atvykusiųjų į tariamą medžiok­
+    lę buvo: Jogaila, lydimas Lietuvos
+    kunigaikščių Vytauto ir Jono, bei
+    Vaidilos, ir didysis komtūras, ku­
+    ris jiems iškėlė puikias vaišes. Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -260,7 +274,12 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
     girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
     suglaudė abi valstybes į bendrą kovą.
-  citata_rodoma: "Kai šį sprendimą sužinojo Vytautas ir\nJogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­\nvirko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo\ngirdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas\nsuglaudė abi valstybes į bendrą kovą."
+  citata_rodoma: |
+    Kai šį sprendimą sužinojo Vytautas ir
+    Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
+    virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
+    girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
+    suglaudė abi valstybes į bendrą kovą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

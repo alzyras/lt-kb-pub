@@ -78,9 +78,11 @@ Dusburgietis teigia, kad zimmermann P.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв. — М., 1982.
-    Савукинас Б. К проблеме западнобалтийского субстрата в югозападной Литве.
-  citata_rodoma: "Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,\n1925."
+    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
+    1925.
+  citata_rodoma: |
+    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
+    1925.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

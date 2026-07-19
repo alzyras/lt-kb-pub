@@ -113,7 +113,10 @@ Nenurodyta
     1968, 47-55 p.). E. Danilaitė domėjosi brūkšniuotąja keramika
     Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
     t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
-  citata_rodoma: "E. Danilaitė domėjosi brūkšniuotąja keramika\nLietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;\nt. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103."
+  citata_rodoma: |
+    E. Danilaitė domėjosi brūkšniuotąja keramika
+    Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
+    t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -114,7 +114,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
     laikotarpis
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
-  citata_rodoma: "I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis"
+  citata_rodoma: |
+    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

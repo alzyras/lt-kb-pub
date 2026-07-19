@@ -101,7 +101,12 @@ Nenurodyta
     matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
     sakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,
     1968, 47-55 p.).
-  citata_rodoma: "L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.\nLietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės\nmatą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­\nsakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,\n1968, 47-55 p.)."
+  citata_rodoma: |
+    L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
+    Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
+    matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
+    sakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,
+    1968, 47-55 p.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

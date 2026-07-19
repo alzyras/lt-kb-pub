@@ -274,7 +274,10 @@ Nenurodyta
     ruose). Po 1447 m. privilegijos palengva prasidėjo tikroji bau-
     džiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-
     čiai buvo apkraunami vis didesniais mokesčiais ir darbais.
-  citata_rodoma: "Po 1447 m. privilegijos palengva prasidėjo tikroji bau-\ndžiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-\nčiai buvo apkraunami vis didesniais mokesčiais ir darbais."
+  citata_rodoma: |
+    Po 1447 m. privilegijos palengva prasidėjo tikroji bau-
+    džiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-
+    čiai buvo apkraunami vis didesniais mokesčiais ir darbais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -295,7 +298,11 @@ Nenurodyta
     pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
     rijoje buvo panaikinta baudžiava, o valstiečiams
     duota teisė per 49 metus išsipirkti žemę.
-  citata_rodoma: "**Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-\npily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-\nrijoje buvo panaikinta baudžiava, o valstiečiams\nduota teisė per 49 metus išsipirkti žemę."
+  citata_rodoma: |
+    **Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-
+    pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
+    rijoje buvo panaikinta baudžiava, o valstiečiams
+    duota teisė per 49 metus išsipirkti žemę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -314,7 +321,11 @@ Nenurodyta
     beteisiai baudžiauninkai. Buvo tik nustatyta, kad nebegalima
     bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.
     Daugiau teisių gavo miestiečiai.
-  citata_rodoma: "socialiniam gyvenime, bet vis dėlto bajorai buvo palikti vienin-\nteliais pilnateisiais piliečiais, o valstiečiai ir toliau liko\nbeteisiai baudžiauninkai. Buvo tik nustatyta, kad nebegalima\nbus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų."
+  citata_rodoma: |
+    socialiniam gyvenime, bet vis dėlto bajorai buvo palikti vienin-
+    teliais pilnateisiais piliečiais, o valstiečiai ir toliau liko
+    beteisiai baudžiauninkai. Buvo tik nustatyta, kad nebegalima
+    bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -335,7 +346,13 @@ Nenurodyta
     niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
     dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
     ir reikalavimas paleisti valstiečius iš baudžiavos.
-  citata_rodoma: "Lietuvoje sukilimas \nprasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-\nskelbto rekrutų ėmimo. Todėl sukilėlių būriuose, kuriems vadovavo vieti-\nniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net \ndauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas \nir reikalavimas paleisti valstiečius iš baudžiavos."
+  citata_rodoma: |
+    Lietuvoje sukilimas
+    prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
+    skelbto rekrutų ėmimo. Todėl sukilėlių būriuose, kuriems vadovavo vieti-
+    niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
+    dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
+    ir reikalavimas paleisti valstiečius iš baudžiavos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -367,7 +384,7 @@ Nenurodyta
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    1855 m., po caro Nikolajaus I mirties ir
+    , po caro Nikolajaus I mirties ir
     XII
 
     ## Puslapis 13
@@ -378,7 +395,18 @@ Nenurodyta
     meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
     tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
     institucija, sutelkusi krašto visuomenę.
-  citata_rodoma: ", po caro Nikolajaus I mirties ir\nXII\n\n## Puslapis 13\n\nRusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos. \nCaras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­\nmo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­\nmeninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­\ntyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė \ninstitucija, sutelkusi krašto visuomenę."
+  citata_rodoma: |
+    , po caro Nikolajaus I mirties ir
+    XII
+
+    ## Puslapis 13
+
+    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
+    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
+    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
+    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
+    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
+    institucija, sutelkusi krašto visuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

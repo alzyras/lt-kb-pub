@@ -154,7 +154,11 @@ Nenurodyta
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
     Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: "Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,\nRinkimų į Liaudies seimą agitacinis plakatas."
+  citata_rodoma: |
+    Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
+    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
+    Rinkimų į Liaudies seimą agitacinis plakatas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -174,7 +178,10 @@ Nenurodyta
     teisėti. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
     prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
     jų turtas.
-  citata_rodoma: "Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus\nprieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas\njų turtas."
+  citata_rodoma: |
+    Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
+    prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
+    jų turtas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

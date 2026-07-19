@@ -136,7 +136,12 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
     įsiveržti į miestą per
     Bernardinų bokštą ir
     Spaso vartus.
-  citata_rodoma: "Liepos 20 d. plk. M. De-\njevo daliniai mėgino\nįsiveržti į miestą per\nBernardinų bokštą ir\nSpaso vartus."
+  citata_rodoma: |
+    Liepos 20 d. plk. M. De-
+    jevo daliniai mėgino
+    įsiveržti į miestą per
+    Bernardinų bokštą ir
+    Spaso vartus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -79,7 +79,10 @@ Terminas vartojamas kaip kaimo ūkinės tvarkos pareigybės pavadinimas.
     Tą
     dieną, man dar bemiegant, atėjo į namus kerdžius ir pranešė, kad mūsų
     piemuo ne bandą gano, bet pas Baroną rugius piauna.
-  citata_rodoma: "Tą \ndieną, man dar bemiegant, atėjo į namus kerdžius ir pranešė, kad mūsų \npiemuo ne bandą gano, bet pas Baroną rugius piauna"
+  citata_rodoma: |
+    Tą
+    dieną, man dar bemiegant, atėjo į namus kerdžius ir pranešė, kad mūsų
+    piemuo ne bandą gano, bet pas Baroną rugius piauna
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

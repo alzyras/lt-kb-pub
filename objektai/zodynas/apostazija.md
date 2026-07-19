@@ -186,7 +186,15 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
     išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
     goji nuomonė »^21.
-  citata_rodoma: "Didelės svarbos yra penktoji problema, dėl kurios daug kas sau\nyra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­\nčionimi, tapdamas pagonių reakcijos kankiniu (toniu jį laiko J. Lat­\nkowski), ar jis po didžiojo Žemaičių laimėjimo prie Durbės atsimetė\nnuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­\nšyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu\nišlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­\ngoji nuomonė »^21."
+  citata_rodoma: |
+    Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
+    yra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­
+    čionimi, tapdamas pagonių reakcijos kankiniu (toniu jį laiko J. Lat­
+    kowski), ar jis po didžiojo Žemaičių laimėjimo prie Durbės atsimetė
+    nuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­
+    šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
+    išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
+    goji nuomonė »^21.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

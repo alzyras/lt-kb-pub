@@ -78,7 +78,12 @@ media_all_json: |-
     nės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;
     O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
     veiksmus 1863 m.
-  citata_rodoma: "Bičkauskas - Gentvila (1958), kuris taip pat svarstė\nir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir\nBaltarusijoje^118 ; V. Černeckis rašė apie kapitalistinės pramo­\nnės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;\nO."
+  citata_rodoma: |
+    Bičkauskas - Gentvila (1958), kuris taip pat svarstė
+    ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir
+    Baltarusijoje^118 ; V. Černeckis rašė apie kapitalistinės pramo­
+    nės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;
+    O.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

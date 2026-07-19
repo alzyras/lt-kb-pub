@@ -234,7 +234,34 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
     bėju ir kartu su manimi meldžiasi bei įžadus daro už
     Tavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­
     tųsi ir didžiuotųsi.
-  citata_rodoma: "Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­\nbei, taip pat Tavo senelio Jono Sapiegos, pelniusio\ntrisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius\nplačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo\ntarpu, kai Tu ėmeisi rūpintis valstybe, kuri buvo sus-\n2 9 8\n\n## Puslapis 297\n\ntiprinta ir padidinta dėl puikių Tavo protėvių sumany­\nmų ir žygių, norėjau Sapiegų šeimos šlovę trumpai,\nbet ryškiai iškelti, paminėdamas, ką Tavo Tėvas nuvei­\nkė per dešimt metų, skirtų dievui bei valstybei, kad\nturinčiam didelių užmojų protėvių praminti takai būtų\nprieš akis. Todėl, vedamas Tėvo, sek protėviais, Sapie­\ngų pėdomis ženk į aukščiausią šlovę, įgyvendink visų\nviltis, o pirmiausia išgarsink Sapiegos vardą, kuris vi­\nsada buvo priešams nelyginant žaibas, nelyginant sky­\ndas, saugantis Tėvynę. Šito aš, paprastas žmogus, Tau\nlinkiu, remdamasis visuotiniu geros valios žmonių pri­\ntarimu, o ypatingai prijaučiant mano motinai, nuolan­\nkiausiajai Jėzaus draugijai, kuri, dar negalėdama savo\npatarnavimais pareikšti deramos pagarbos Tavo var­\ndui, iš anksto Tave, kaip Sapiegą, pripažįsta savo glo­\nbėju ir kartu su manimi meldžiasi bei įžadus daro už\nTavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­\ntųsi ir didžiuotųsi."
+  citata_rodoma: |
+    Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­
+    bei, taip pat Tavo senelio Jono Sapiegos, pelniusio
+    trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius
+    plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo
+    tarpu, kai Tu ėmeisi rūpintis valstybe, kuri buvo sus-
+    2 9 8
+
+    ## Puslapis 297
+
+    tiprinta ir padidinta dėl puikių Tavo protėvių sumany­
+    mų ir žygių, norėjau Sapiegų šeimos šlovę trumpai,
+    bet ryškiai iškelti, paminėdamas, ką Tavo Tėvas nuvei­
+    kė per dešimt metų, skirtų dievui bei valstybei, kad
+    turinčiam didelių užmojų protėvių praminti takai būtų
+    prieš akis. Todėl, vedamas Tėvo, sek protėviais, Sapie­
+    gų pėdomis ženk į aukščiausią šlovę, įgyvendink visų
+    viltis, o pirmiausia išgarsink Sapiegos vardą, kuris vi­
+    sada buvo priešams nelyginant žaibas, nelyginant sky­
+    das, saugantis Tėvynę. Šito aš, paprastas žmogus, Tau
+    linkiu, remdamasis visuotiniu geros valios žmonių pri­
+    tarimu, o ypatingai prijaučiant mano motinai, nuolan­
+    kiausiajai Jėzaus draugijai, kuri, dar negalėdama savo
+    patarnavimais pareikšti deramos pagarbos Tavo var­
+    dui, iš anksto Tave, kaip Sapiegą, pripažįsta savo glo­
+    bėju ir kartu su manimi meldžiasi bei įžadus daro už
+    Tavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­
+    tųsi ir didžiuotųsi.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

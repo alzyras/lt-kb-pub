@@ -76,7 +76,8 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
     tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
     bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
-  citata_rodoma: "spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos"
+  citata_rodoma: |
+    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -93,7 +94,8 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
     net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
     vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir
     Lenkijos valstybėse gyvenusius rytų slavus.
-  citata_rodoma: "net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse"
+  citata_rodoma: |
+    net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

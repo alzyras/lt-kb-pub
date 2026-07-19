@@ -73,7 +73,11 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
     įvykių metu 1611 m., po beveik 20 mėne-
     sių apsiausties, Lenkijos ir Lietuvos pajė-
     gos užėmė Smolenską.
-  citata_rodoma: "Caru tapo\n1613 m. Zemskinio susirinkimo išrinktas\nMichailas Fiodorovičius Romanovas. Šių\nįvykių metu 1611 m."
+  citata_rodoma: |
+    Caru tapo
+    1613 m. Zemskinio susirinkimo išrinktas
+    Michailas Fiodorovičius Romanovas. Šių
+    įvykių metu 1611 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

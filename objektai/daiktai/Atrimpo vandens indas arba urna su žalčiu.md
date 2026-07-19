@@ -148,7 +148,11 @@ Nenurodyta
     dą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje
     vonioje. Taigi senovės lietuviai šį jūrų dievą vaizdavo kaip di­
     džiulį žaltį, tai yra žalčių karalių *.
-  citata_rodoma: "Visa tai galima suderinti, padarius prielai­\ndą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje\nvonioje. Taigi senovės lietuviai šį jūrų dievą vaizdavo kaip di­\ndžiulį žaltį, tai yra žalčių karalių *."
+  citata_rodoma: |
+    Visa tai galima suderinti, padarius prielai­
+    dą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje
+    vonioje. Taigi senovės lietuviai šį jūrų dievą vaizdavo kaip di­
+    džiulį žaltį, tai yra žalčių karalių *.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -170,7 +174,9 @@ Nenurodyta
     laivų globėjas, kaip rodo charakteringojo vardo prasmė. Kro­
     nikininkas jį vadina kitaip: Perdoite, Perdoilus, Gardoaitis, o
     tai yra tik tarminė vardo atmaina.
-  citata_rodoma: "Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys."
+  citata_rodoma: |
+    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
+    na, pripildyta vandens, kurioje laikomas vandens žaltys.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -194,7 +200,15 @@ Nenurodyta
     tai yra tik tarminė vardo atmaina.
     Jūros pavojai, ypač tokios audringos kaip Baltija, gali įva­
     ryt i baimės net drąsiausiems jūreiviams.
-  citata_rodoma: "Šitoks lietuvių supratimas galėjo apdovanoti\namžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­\nnųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­\ntybių ir augalų atsinaujinimą.\nAtrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­\ngo Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,\nprie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“."
+  citata_rodoma: |
+    Šitoks lietuvių supratimas galėjo apdovanoti
+    amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
+    nųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­
+    tybių ir augalų atsinaujinimą.
+    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
+    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
+    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
+    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -156,7 +156,15 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
     asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net
     pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
     aukštomis pareigomis.
-  citata_rodoma: "Jokiu bū­\ndu nederėjo paliesti antkapinių statinių; buvo meldžiamasi net\nkapams savo protėvių arba asmenų, atmintinų dėl ypatingų\ndorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis\n(ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­\npį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­\ndėtas su tam tikromis maldomis, davė pagrindą susidaryti to­\nkiai tyrėjo nuomonei."
+  citata_rodoma: |
+    Jokiu bū­
+    du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
+    kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
+    dorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis
+    (ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­
+    pį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­
+    dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
+    kiai tyrėjo nuomonei.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -94,7 +94,12 @@ Nenurodyta
     pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
     1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
     niška.
-  citata_rodoma: "Matomai Lietuvos valdo­\nvai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­\npročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis\n1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­\nniška."
+  citata_rodoma: |
+    Matomai Lietuvos valdo­
+    vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­
+    pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
+    1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
+    niška.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

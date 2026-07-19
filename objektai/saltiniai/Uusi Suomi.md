@@ -70,7 +70,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     tyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiau­
     sių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat
     yra raštų apie Vilnių.
-  citata_rodoma: "Ir ne vien tame laikraštyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiausių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat yra raštų apie Vilnių."
+  citata_rodoma: |
+    Ir ne vien tame laikraštyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiausių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat yra raštų apie Vilnių.
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas

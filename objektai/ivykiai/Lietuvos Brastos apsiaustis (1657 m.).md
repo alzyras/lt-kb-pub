@@ -80,10 +80,13 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Vokietijoje. Pirmą
+    Pirmą
     kartą 1656 m. švedams miesto užimti nepavyko. Po metų vykusi apsiaustis sėk-
     mingesnė, miestas galiausia pasidavė priešui, po ko buvo gerokai suniokotas.
-  citata_rodoma: "Pirmą\nkartą 1656 m. švedams miesto užimti nepavyko. Po metų vykusi apsiaustis sėk-\nmingesnė, miestas galiausia pasidavė priešui, po ko buvo gerokai suniokotas."
+  citata_rodoma: |
+    Pirmą
+    kartą 1656 m. švedams miesto užimti nepavyko. Po metų vykusi apsiaustis sėk-
+    mingesnė, miestas galiausia pasidavė priešui, po ko buvo gerokai suniokotas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

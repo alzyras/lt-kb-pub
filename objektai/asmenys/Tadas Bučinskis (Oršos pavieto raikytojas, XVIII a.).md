@@ -79,7 +79,11 @@ Tadas Bučinskis buvo Oršos pavieto raikytojas. Po Mykolo Antano Sapiegos mirti
     J. D. Lopacinskis aprašė, kaip mirusio didiko pavadiniai, pvz., Oršos pavieto raikytojas
     Tadas Bučinskis (Tadeusz Buczyński), ieškojo galionų bei aksomo karstui, kurio galima
     buvo gauti tik pas žydus [63].
-  citata_rodoma: "Nors didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.\nJ. D. Lopacinskis aprašė, kaip mirusio didiko pavadiniai, pvz., Oršos pavieto raikytojas\nTadas Bučinskis (Tadeusz Buczyński), ieškojo galionų bei aksomo karstui, kurio galima\nbuvo gauti tik pas žydus [63]."
+  citata_rodoma: |
+    Nors didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
+    J. D. Lopacinskis aprašė, kaip mirusio didiko pavadiniai, pvz., Oršos pavieto raikytojas
+    Tadas Bučinskis (Tadeusz Buczyński), ieškojo galionų bei aksomo karstui, kurio galima
+    buvo gauti tik pas žydus [63].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

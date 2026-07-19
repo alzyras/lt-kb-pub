@@ -194,7 +194,19 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     jūros pajūrio ir Krymo totorių teritori-
     jos trijų vadų-kunigaikščių Chadžibėjaus,
     Kutlugbugo, Dmitrijaus kariuomene.
-  citata_rodoma: "Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius.\n\nLietuvos kariuomenė buvo sudaryta\niš Lietuvos valdovo Algirdo ir jo brolio\nKarijoto trijų sūnų - Karijotaičių vado-\nvaujamų karių. Jie susirėmė su Juodosios\njūros pajūrio ir Krymo totorių teritori-\njos trijų vadų-kunigaikščių Chadžibėjaus,\nKutlugbugo, Dmitrijaus kariuomene."
+  citata_rodoma: |
+    Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
+
+    Lietuvos kariuomenė buvo sudaryta
+    iš Lietuvos valdovo Algirdo ir jo brolio
+    Karijoto trijų sūnų - Karijotaičių vado-
+    vaujamų karių. Jie susirėmė su Juodosios
+    jūros pajūrio ir Krymo totorių teritori-
+    jos trijų vadų-kunigaikščių Chadžibėjaus,
+    Kutlugbugo, Dmitrijaus kariuomene.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -222,7 +234,18 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     nėms Rytų Europos šalims (Lenkijai, iš
     dalies Moldavijai, Vengrijai) sudarė sau-
     gesnę padėtį rytuose.
-  citata_rodoma: "Tai buvo\npirmas Rytų Europoje toks didelis įsiverži-\nmas į Ordos valdas, sudavęs jos įtakai di-\ndelį smūgį. Algirdo remiami Karijotaičiai,\nįsitvirtinę Mažojoje Podolėje, vietiniams\ngyventojams pritariant, organi-\nzavo šio krašto gynybą nuo\ntotorių puolimų bei grobimų, statė minė-\ntas Smotričo, Bakotos, Kameneco pilis.\nPietinių žemių (Kijevo, Mažosios Podolės\nir kt."
+  citata_rodoma: |
+    Tai buvo
+    pirmas Rytų Europoje toks didelis įsiverži-
+    mas į Ordos valdas, sudavęs jos įtakai di-
+    delį smūgį. Algirdo remiami Karijotaičiai,
+    įsitvirtinę Mažojoje Podolėje, vietiniams
+    gyventojams pritariant, organi-
+    zavo šio krašto gynybą nuo
+    totorių puolimų bei grobimų, statė minė-
+    tas Smotričo, Bakotos, Kameneco pilis.
+    Pietinių žemių (Kijevo, Mažosios Podolės
+    ir kt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -292,7 +315,27 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     lės jų baskakams. Karijotaičiai
     Podolėje pastatė Smotričo,
     Bakotos, Kameneco pilis, už-
-  citata_rodoma: "Mūšio padariniai\n\n„Pasakojime apie Podolę“ tei-\ngiama, kad Lietuvos valdovo\nAlgirdo brolio Karijoto, val-\ndančio Lietuvos Naugarduką,\nsūnūs - trys broliai Karijotaičiai,\nleidus Algirdui, su Lietuvos\nžemės pagalba, pa-\ntraukė į Podolės žemę\n(Mažoji Podolė tarp Aukštutinių\nPietinio Bugo ir Dniestro, taigi\n\nį vakarus nuo minėtos mūšio\nvietos), kurioje nebuvo nė vie-\nnos pilies. Jie susidraugavę su\nvietiniais atamanais, ėmė ginti\nPodolės žemę, neduoti duok-\n\nlės jų baskakams."
+  citata_rodoma: |
+    Mūšio padariniai
+
+    „Pasakojime apie Podolę“ tei-
+    giama, kad Lietuvos valdovo
+    Algirdo brolio Karijoto, val-
+    dančio Lietuvos Naugarduką,
+    sūnūs - trys broliai Karijotaičiai,
+    leidus Algirdui, su Lietuvos
+    žemės pagalba, pa-
+    traukė į Podolės žemę
+    (Mažoji Podolė tarp Aukštutinių
+    Pietinio Bugo ir Dniestro, taigi
+
+    į vakarus nuo minėtos mūšio
+    vietos), kurioje nebuvo nė vie-
+    nos pilies. Jie susidraugavę su
+    vietiniais atamanais, ėmė ginti
+    Podolės žemę, neduoti duok-
+
+    lės jų baskakams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

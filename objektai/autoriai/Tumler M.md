@@ -106,7 +106,10 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
     Popiežius apšaukė Fridrichą II eretiku, norinčiu sunaikinti krikščioniškąją
     religiją. Popiežiaus mirtį imperatorius manifeste krikščioniškosios Europos valdovams
     traktavo kaip pergalę. Konfliktas tęsėsi ir Inocento IV laikais.
-  citata_rodoma: "Mirė greičiausiai 1239.III.5\n(Benninghoven F. Der Orden..., p. 462; Tumler M. Der deutsche Orden..., p. 618: 1229—\n1239 m.)."
+  citata_rodoma: |
+    Mirė greičiausiai 1239.III.5
+    (Benninghoven F. Der Orden..., p. 462; Tumler M. Der deutsche Orden..., p. 618: 1229—
+    1239 m.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -125,7 +128,9 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
     šeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
     pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
     šio Ordino vienuoli© apsiaustą.
-  citata_rodoma: "157  Trečias magistras — Henrikas Bartas (1209?—1210?) (Tumler M. Der Deutsche\nOrden..., p. 615) ar 1208—1209."
+  citata_rodoma: |
+    157  Trečias magistras — Henrikas Bartas (1209?—1210?) (Tumler M. Der Deutsche
+    Orden..., p. 615) ar 1208—1209.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

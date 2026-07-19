@@ -98,7 +98,28 @@ Nenurodyta
     sentias, quamobrem Mandatum dudum denegaveris ut tuus
     quoque assensus ad ejusmodi confirmationem obtinendam non
     accederet.
-  citata_rodoma: "## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS \nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI \n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio \nkodekso buv. Vilniaus universiteto bibliotekoje )\nQuum Jure Nostro postposito difficultatibusque futuris \nfomitem subducehtes petenti Capitulo Ecclesiae Varmiensis \nconcessimus ut electio quam nobis non salutatis fecerunt de \nR-ndo in X-to Patre D-no Fabiano moderno Varmiensi Epis­\ncopo valida baberetur, nonnullos articulos conferimus quibus \ncautum est, quomodo in futurum vacante Sede Episcopus \neligi sine Nostra nostrorumque successorum adversus Capi­\ntulum controversia deberet, ne indė postea tale aliquid excita­\nri possit, quod statum ejus Ecclesiae cujus nos patronus su­\nmus offenderet, volentesque ut ejusmodi compositio in \narticulos redacta de Sacrosanctae Sedis Apostolicae assensu \nrata atque firma fieret, fecimus impetrare a S-smo D-no Nost­\nro confirmationem."
+  citata_rodoma: |
+    ## Puslapis 390
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    LENKIJOS KARALIUS ŽYGIMANTAS
+    VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI
+    1514 METAI
+    (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
+    kodekso buv. Vilniaus universiteto bibliotekoje )
+    Quum Jure Nostro postposito difficultatibusque futuris
+    fomitem subducehtes petenti Capitulo Ecclesiae Varmiensis
+    concessimus ut electio quam nobis non salutatis fecerunt de
+    R-ndo in X-to Patre D-no Fabiano moderno Varmiensi Epis­
+    copo valida baberetur, nonnullos articulos conferimus quibus
+    cautum est, quomodo in futurum vacante Sede Episcopus
+    eligi sine Nostra nostrorumque successorum adversus Capi­
+    tulum controversia deberet, ne indė postea tale aliquid excita­
+    ri possit, quod statum ejus Ecclesiae cujus nos patronus su­
+    mus offenderet, volentesque ut ejusmodi compositio in
+    articulos redacta de Sacrosanctae Sedis Apostolicae assensu
+    rata atque firma fieret, fecimus impetrare a S-smo D-no Nost­
+    ro confirmationem.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

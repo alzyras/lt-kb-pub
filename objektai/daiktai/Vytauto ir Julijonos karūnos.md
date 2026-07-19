@@ -131,7 +131,8 @@ Nenurodyta
     pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.). Atrodė,
     jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
     Lietuvos karalystė – būtų pasiektas.
-  citata_rodoma: "jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –"
+  citata_rodoma: |
+    jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -159,7 +160,8 @@ Nenurodyta
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
     įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
     ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
-  citata_rodoma: "mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją"
+  citata_rodoma: |
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -181,7 +183,8 @@ Nenurodyta
     chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
     Lucko suvažiavimas.
-  citata_rodoma: "chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo"
+  citata_rodoma: |
+    chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

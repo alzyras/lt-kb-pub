@@ -99,7 +99,9 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     tininkų. Jų prievolė buvo valdyti tuos kraštus d. kun. vardu:
     prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
     dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
-  citata_rodoma: "prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.\ndvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį."
+  citata_rodoma: |
+    prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
+    dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -120,7 +122,12 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     ninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie
     iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
     kunigaikščio nustatytos.
-  citata_rodoma: "Kunigaikščiai valdė\nsavo žemes ir teisė jose gyvenančius žmones per savo vieti-\nninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie\niš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo\nkunigaikščio nustatytos."
+  citata_rodoma: |
+    Kunigaikščiai valdė
+    savo žemes ir teisė jose gyvenančius žmones per savo vieti-
+    ninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie
+    iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
+    kunigaikščio nustatytos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

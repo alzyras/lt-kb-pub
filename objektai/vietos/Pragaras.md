@@ -125,7 +125,20 @@ Nenurodyta
     manicheizmo paklydimais, labiau juos pritaikė prie stabmel­
     dystės, tai sunku pasakyti, ar lietuvių stabmeldystė sumišo su
     krikščionybe, ar krikščionybė susiliejo su stabmeldyste.
-  citata_rodoma: "Vienas liaudies padavimas sa­\nko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,\nkurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.\nPekla lietuviškai turi originalų pavadinimą Pragaras; tai su­\nsiję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­\nmeldystės filosofijai, galime daryti išvadą, kad lietuviai turė­\njo kančių įvaizdį.\nSielos persikėlimą, arba metempsichozę, lietuviai suprato\ntaip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­\nnametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­\ntutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­\nrį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­\nbulumą, būtiną amžinajam gyvenimui."
+  citata_rodoma: |
+    Vienas liaudies padavimas sa­
+    ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,
+    kurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.
+    Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
+    siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­
+    meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
+    jo kančių įvaizdį.
+    Sielos persikėlimą, arba metempsichozę, lietuviai suprato
+    taip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­
+    nametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­
+    tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
+    rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
+    bulumą, būtiną amžinajam gyvenimui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

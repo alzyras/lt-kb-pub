@@ -73,7 +73,14 @@ Michelbertas (AkMD, t.
     t. 16, 1964, 53-61 p. ; t. 20, 1966, 49-56 p.) ir davė straipsnį _Romos
     imperijos įtakos baltų genčių kultūrai klausimu_ (AkMD, t 18, 1965,
     47-64 p )^102. L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
-  citata_rodoma: "Iš Rudaičių ir Veliuonos\nkapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,\n1963, 55-70 p. ; t. 24, 1967, 47-58 p.), taip pat rašė apie Romos\nmonetų radinius Lietuvoje I-V a. (AkMD, t. 10, 1961, 19-35 p.;\nt. 16, 1964, 53-61 p. ; t. 20, 1966, 49-56 p.) ir davė straipsnį _Romos\nimperijos įtakos baltų genčių kultūrai klausimu_ (AkMD, t 18, 1965,\n47-64 p )^102."
+  citata_rodoma: |
+    Iš Rudaičių ir Veliuonos
+    kapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,
+    1963, 55-70 p. ; t. 24, 1967, 47-58 p.), taip pat rašė apie Romos
+    monetų radinius Lietuvoje I-V a. (AkMD, t. 10, 1961, 19-35 p.;
+    t. 16, 1964, 53-61 p. ; t. 20, 1966, 49-56 p.) ir davė straipsnį _Romos
+    imperijos įtakos baltų genčių kultūrai klausimu_ (AkMD, t 18, 1965,
+    47-64 p )^102.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

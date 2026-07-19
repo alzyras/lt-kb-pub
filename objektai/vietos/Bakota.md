@@ -71,7 +71,14 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
     kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
     kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
     brolis Teodoras.
-  citata_rodoma: "Podolėje Karijotaičiai\nėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir\nkt.), užvesti ūkinį gyvenimą.\nDrauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo\nkunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos\nkunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino\nbrolis Teodoras."
+  citata_rodoma: |
+    Podolėje Karijotaičiai
+    ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir
+    kt.), užvesti ūkinį gyvenimą.
+    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
+    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
+    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
+    brolis Teodoras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

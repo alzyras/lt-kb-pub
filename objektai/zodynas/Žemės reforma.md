@@ -69,7 +69,11 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
     Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai paja-
     mas, prilygstančias minimaliam gyvenimo lygiui. Atkurto ūkininkų ūkio
     vidutinis dydis ėjo mažyn, iki 6 ha.
-  citata_rodoma: "Dėl vykdytos žemės reformos didžioji\nLietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai paja-\nmas, prilygstančias minimaliam gyvenimo lygiui. Atkurto ūkininkų ūkio\nvidutinis dydis ėjo mažyn, iki 6 ha."
+  citata_rodoma: |
+    Dėl vykdytos žemės reformos didžioji
+    Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai paja-
+    mas, prilygstančias minimaliam gyvenimo lygiui. Atkurto ūkininkų ūkio
+    vidutinis dydis ėjo mažyn, iki 6 ha.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

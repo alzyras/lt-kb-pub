@@ -97,7 +97,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
     Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
     Aldona Bieliūnienė ir kiti.
-  citata_rodoma: "= Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė"
+  citata_rodoma: |
+    = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

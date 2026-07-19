@@ -185,7 +185,14 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
     riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
     aprašome: nuo Oskolo miestelio, esančio prie to paties
     1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
-  citata_rodoma: "Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
+  citata_rodoma: |
+    Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
+    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
+    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
+    toro žodžius priskiria poloviečių veiksmams dešiniojoje
+    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
+    statytas XII amžiaus pradžioje po to, kai jį sunaikino
+    poloviečiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -227,7 +234,11 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
     kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
     vengrai vadino šias gentis kumanais.
-  citata_rodoma: "Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas\n(t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­\nrius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto."
+  citata_rodoma: |
+    Dešiniojoje Dnep-
+    1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
+    (t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­
+    rius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

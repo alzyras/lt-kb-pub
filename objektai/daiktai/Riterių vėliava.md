@@ -97,7 +97,11 @@ Nenurodyta
     kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
     ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
     pagonims atiteko riterių vėliava 240 *.
-  citata_rodoma: "Iš to, ką\nkronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­\nventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir\npagonims atiteko riterių vėliava 240 *."
+  citata_rodoma: |
+    Iš to, ką
+    kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
+    ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
+    pagonims atiteko riterių vėliava 240 *.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -117,7 +121,10 @@ Nenurodyta
     pagonims atiteko riterių vėliava 240 *. O jos netekimas kovoje, prie
     viduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,
     skaitėsi didelė nelaimė.
-  citata_rodoma: "O jos netekimas kovoje, prie\nviduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,\nskaitėsi didelė nelaimė."
+  citata_rodoma: |
+    O jos netekimas kovoje, prie
+    viduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,
+    skaitėsi didelė nelaimė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

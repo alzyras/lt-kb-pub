@@ -61,7 +61,11 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     universiteto profesoriai, pakviesti Zigmanto pareiškti savo
     nuomonę. Jie taip pat įrodinėjo, kad Romos karalius, turįs vi­
     sas ciesoriaus teises ir nekarūnuotas Romoj.
-  citata_rodoma: "Po jo atsiliepė ir Vienos\nuniversiteto profesoriai, pakviesti Zigmanto pareiškti savo\nnuomonę. Jie taip pat įrodinėjo, kad Romos karalius, turįs vi­\nsas ciesoriaus teises ir nekarūnuotas Romoj."
+  citata_rodoma: |
+    Po jo atsiliepė ir Vienos
+    universiteto profesoriai, pakviesti Zigmanto pareiškti savo
+    nuomonę. Jie taip pat įrodinėjo, kad Romos karalius, turįs vi­
+    sas ciesoriaus teises ir nekarūnuotas Romoj.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

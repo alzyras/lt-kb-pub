@@ -85,7 +85,8 @@ Nenurodyta
     riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?),
     kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio
     laiške], kurių privežta labai daug.
-  citata_rodoma: "Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pasakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?), kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio laiške], kurių privežta labai daug."
+  citata_rodoma: |
+    Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pasakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?), kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio laiške], kurių privežta labai daug.
   statusas: verified
   atnaujinta: "2026-07-14 10:29"
   teiginio_tipas: faktas

@@ -208,7 +208,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
     čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
     kurie tapo artimosios sargybos tautomis.
-  citata_rodoma: "čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,"
+  citata_rodoma: |
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -229,7 +230,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
     pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-  citata_rodoma: "menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK."
+  citata_rodoma: |
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -249,7 +251,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
     čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
     bendruomenės ir religija toleruojamos nuo XIV a. pabaigos.
-  citata_rodoma: "Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-"
+  citata_rodoma: |
+    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -294,7 +297,22 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     siekė tolimus rytų kraštus, noriai
     priimdavo ateivius iš tų šalių ir juos
     priglobdavo.
-  citata_rodoma: "teologijos daktaro, var­\ndą. Bet Vytauto privilegija negalio­\njo žydų kitai sektai, vadinamai ka­\nraimais, Lietuvoje, Trakų mieste, ir \nlabai menkoje Vilniaus dalyje įsikū- \nrusiems. Tie karaimai, kurie išties \ngalėtų būti vadinami žvdų disiden­\ntais, atkeliavo į Lietuvą iš rytų, o \nįvairias aplinkybes įvertinęs, numa­\nnau, kad jų atvykimą reikėtų Vytau­\nto viešpatavimo laikams priskirti, \njuk šis kunigaikštis, kurio valdžia \nsiekė tolimus rytų kraštus, noriai \npriimdavo ateivius iš tų šalių ir juos \npriglobdavo."
+  citata_rodoma: |
+    teologijos daktaro, var­
+    dą. Bet Vytauto privilegija negalio­
+    jo žydų kitai sektai, vadinamai ka­
+    raimais, Lietuvoje, Trakų mieste, ir
+    labai menkoje Vilniaus dalyje įsikū-
+    rusiems. Tie karaimai, kurie išties
+    galėtų būti vadinami žvdų disiden­
+    tais, atkeliavo į Lietuvą iš rytų, o
+    įvairias aplinkybes įvertinęs, numa­
+    nau, kad jų atvykimą reikėtų Vytau­
+    to viešpatavimo laikams priskirti,
+    juk šis kunigaikštis, kurio valdžia
+    siekė tolimus rytų kraštus, noriai
+    priimdavo ateivius iš tų šalių ir juos
+    priglobdavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

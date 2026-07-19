@@ -68,8 +68,21 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
     paėjo vadinami Daugėlos (nes jis po
     šios pergalės buvo lietuviškai pra­
     mintas Dauggalis - galingas, didis.
-    Žr. B a 1  i n s k i o Opisanie Statyst.
-  citata_rodoma: "Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­\ngaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­\ndis ir gudriai pareikštas noras eiti į derybas kovose pražilu­\nsį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo\nvienas vėliau buvo Trakų vaivada, \no jo sūnus - Jonas Hanulaitis - Lie­\ntuvos vėliavininkas; pastarasis Žy­\ngimanto Kęstutaičio laikais pasižy­\nmėjo mūšyje prie Pabaisko, iš jo \npaėjo vadinami Daugėlos (nes jis po \nšios pergalės buvo lietuviškai pra­\nmintas Dauggalis - galingas, didis. \nŽr."
+    Žr.
+  citata_rodoma: |
+    Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
+    gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­
+    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
+    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
+    vienas vėliau buvo Trakų vaivada,
+    o jo sūnus - Jonas Hanulaitis - Lie­
+    tuvos vėliavininkas; pastarasis Žy­
+    gimanto Kęstutaičio laikais pasižy­
+    mėjo mūšyje prie Pabaisko, iš jo
+    paėjo vadinami Daugėlos (nes jis po
+    šios pergalės buvo lietuviškai pra­
+    mintas Dauggalis - galingas, didis.
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -110,7 +110,10 @@ media_all_json: |-
     mūsų neatbaidė. Tuojau pasiskirstėme temas, aptarėme dar­
     bo pobūdį: laikytis vidurio tarp moksliško ir popu­
     liaraus veikalo, ir išsiskirstėm.
-  citata_rodoma: "Tuojau pasiskirstėme temas, aptarėme dar­\nbo pobūdį: laikytis vidurio tarp moksliško ir popu­\nliaraus veikalo, ir išsiskirstėm."
+  citata_rodoma: |
+    Tuojau pasiskirstėme temas, aptarėme dar­
+    bo pobūdį: laikytis vidurio tarp moksliško ir popu­
+    liaraus veikalo, ir išsiskirstėm.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +157,12 @@ media_all_json: |-
     siam naudingais patarimais šią monografiją rašant bei reda­
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
-  citata_rodoma: "Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę\ndidelio dėkingumo gerb. prof. A. Aleknai mielai padėju­\nsiam naudingais patarimais šią monografiją rašant bei reda­\nguojant, ir kartu apgailestaujam, kad gerb, profesorius dėl\nligos negalėjo parašyti šiai knygai įžangos žodžio."
+  citata_rodoma: |
+    Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
+    didelio dėkingumo gerb. prof. A. Aleknai mielai padėju­
+    siam naudingais patarimais šią monografiją rašant bei reda­
+    guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
+    ligos negalėjo parašyti šiai knygai įžangos žodžio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

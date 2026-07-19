@@ -69,7 +69,8 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
     kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
     tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
     planų, turint viltį, kad teritorija padidės.
-  citata_rodoma: "kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai"
+  citata_rodoma: |
+    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -194,7 +194,9 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     lyderis Kazys Grinius. Socialdemokratai jį parėmė tik su sąlyga, kad jis
     derins visus žingsnius su jais. Vyriausybėje dominavo valstiečiai liaudi-
     ninkai su ministru pirmininku M. Sleževičiumi priešakyje.
-  citata_rodoma: "Vyriausybėje dominavo valstiečiai liaudi-\nninkai su ministru pirmininku M. Sleževičiumi priešakyje."
+  citata_rodoma: |
+    Vyriausybėje dominavo valstiečiai liaudi-
+    ninkai su ministru pirmininku M. Sleževičiumi priešakyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -214,7 +216,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     M. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-
     timieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam
     Seimui, iškirsti politinę „orlaidę“. Dėl to atgaivinta Seimo institucija.
-  citata_rodoma: "tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko"
+  citata_rodoma: |
+    tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -243,7 +246,19 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
     rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
     bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
-  citata_rodoma: "Sleževičiaus vaidmuo\n\nL I E T U V O S  I S T O R I J A\n144\nnepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą, \nkonsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-\nkvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-\nriuomenėje kovėsi ir žydų bei baltarusių savanoriai. Lietuviai atmetė \nbolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad \nlietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-\nrininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus \nbežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę."
+  citata_rodoma: |
+    Sleževičiaus vaidmuo
+
+    L I E T U V O S  I S T O R I J A
+    144
+    nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
+    konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
+    kvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-
+    riuomenėje kovėsi ir žydų bei baltarusių savanoriai. Lietuviai atmetė
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+    lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
+    rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
+    bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -267,7 +282,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
     legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
     dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: "legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo"
+  citata_rodoma: |
+    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -286,7 +302,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
     liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
     ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
-  citata_rodoma: "liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę"
+  citata_rodoma: |
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -309,7 +326,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
     Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
-  citata_rodoma: "bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad"
+  citata_rodoma: |
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -349,7 +367,9 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
     reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą. Nau-
     joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
-  citata_rodoma: "Nau-\njoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,"
+  citata_rodoma: |
+    Nau-
+    joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -120,7 +120,10 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
     kystės, ir dėl baisių savo keršto padarinių. Poklius viešai pasi­
     rodydavo namuose; tai būdavo tikra dievų rūstybės, būsimų
     namų bei gyventojų vargų ir nelaimių pranašystė.
-  citata_rodoma: "Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­\nvo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,\nstraipsnyje „Žyniai“."
+  citata_rodoma: |
+    Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­
+    vo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,
+    straipsnyje „Žyniai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -149,7 +152,16 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
     išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
     ko iki paprastų dainių lygio; jų klausydavosi pasilinksminimui
     ir pramogai.
-  citata_rodoma: "Signotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
+  citata_rodoma: |
+    Signotai (Sigonottaį
+    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
+    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
+    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
+    Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
+    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
+    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
+    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
+    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

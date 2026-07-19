@@ -99,7 +99,10 @@ Nenurodyta
     Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais
         rendėtiniai^1324 brūkliai, o raitųjų kestės, taurų ragais apmaustytos, nuo ko ragotinėmis buvo
         vadinamos.
-  citata_rodoma: "Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais\nrendėtiniai^1324 brūkliai, o raitųjų kestės, taurų ragais apmaustytos, nuo ko ragotinėmis buvo\nvadinamos."
+  citata_rodoma: |
+    Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais
+    rendėtiniai^1324 brūkliai, o raitųjų kestės, taurų ragais apmaustytos, nuo ko ragotinėmis buvo
+    vadinamos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -115,7 +118,10 @@ Nenurodyta
     Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni
         sulig žmogaus augumu, kiti trumpesni, stripiniais, arba strypais^1326 , vadinami, kurių kožnas turėjo po
         penkis, šešis padiržėj užkištus.
-  citata_rodoma: "Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni\nsulig žmogaus augumu, kiti trumpesni, stripiniais, arba strypais^1326 , vadinami, kurių kožnas turėjo po\npenkis, šešis padiržėj užkištus."
+  citata_rodoma: |
+    Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni
+    sulig žmogaus augumu, kiti trumpesni, stripiniais, arba strypais^1326 , vadinami, kurių kožnas turėjo po
+    penkis, šešis padiržėj užkištus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

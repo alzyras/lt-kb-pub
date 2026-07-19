@@ -105,7 +105,10 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, dar vadinta
     kryžiuočių
     Choinicų
     pilies.
-  citata_rodoma: "Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne\nPerekopas. o Solchatas (Senasis Krymas) prie Kafos (dabartinės\nFeodosijos)."
+  citata_rodoma: |
+    Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne
+    Perekopas. o Solchatas (Senasis Krymas) prie Kafos (dabartinės
+    Feodosijos).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

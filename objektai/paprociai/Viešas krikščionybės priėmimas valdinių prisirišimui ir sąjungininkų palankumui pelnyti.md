@@ -109,7 +109,19 @@ Nenurodyta
     Jis davė žodį atiduoti, atsi­
     lygindamas už pagalbą, pusę Jotvingijos ir Žemaitijos
     amžinam riterių valdymui.
-  citata_rodoma: "Jau­\nnuoliai, sėkmingai baigę žygį į priešų šalį, užgrobė\nreikšmingus Rusios miestus, o pažinę savarankiško\n98\n\n## Puslapis 97\n\nvaldymo skonį, nebenorėjo kęsti dėdės jungo. Drucką\nir dalį Smolensko gavo Erdivydas, Vitebską — Vykin­\ntas, Polocką — Tautvilas. Norėdami savo valdinius la­\nbiau prie savęs prisirišti, jie viešai priėmė šventąją\nkrikščionybę."
+  citata_rodoma: |
+    Jau­
+    nuoliai, sėkmingai baigę žygį į priešų šalį, užgrobė
+    reikšmingus Rusios miestus, o pažinę savarankiško
+    98
+
+    ## Puslapis 97
+
+    valdymo skonį, nebenorėjo kęsti dėdės jungo. Drucką
+    ir dalį Smolensko gavo Erdivydas, Vitebską — Vykin­
+    tas, Polocką — Tautvilas. Norėdami savo valdinius la­
+    biau prie savęs prisirišti, jie viešai priėmė šventąją
+    krikščionybę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -90,7 +90,24 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
 
     atsitraukė į Užnemunę, kur juos
     išsklaidė Prūsijos kariuomenė.
-  citata_rodoma: "Vietoje Jokūbo Jasinskio Lietuvos sukilėlių\nvadu paskirtas lenkų generolas Michalas\nVelhorskis nesugebėjo tinkamai vado-\nvauti. Puolančios Rusijos kariuomenės\n\nArtilerija išdėstyta\ntarp batalionų\n\n+ 44 —\n\nJaunesnieji karininkai\nir puskarininkiai\n\nspaudžiami sukilėliai galiausiai\n\natsitraukė į Užnemunę, kur juos\nišsklaidė Prūsijos kariuomenė."
+  citata_rodoma: |
+    Vietoje Jokūbo Jasinskio Lietuvos sukilėlių
+    vadu paskirtas lenkų generolas Michalas
+    Velhorskis nesugebėjo tinkamai vado-
+    vauti. Puolančios Rusijos kariuomenės
+
+    Artilerija išdėstyta
+    tarp batalionų
+
+    + 44 —
+
+    Jaunesnieji karininkai
+    ir puskarininkiai
+
+    spaudžiami sukilėliai galiausiai
+
+    atsitraukė į Užnemunę, kur juos
+    išsklaidė Prūsijos kariuomenė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +139,23 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
     sveikatos, jo nesugebėjimas deramai
     vadovauti vėliau skaudžiai atsiliepė
     sukilimo baigčiai.
-  citata_rodoma: "Jį pakeitė\niš Lenkijos atsiųstas generolas leitenan-\n\ntas Mykolas Velhorskis. Naujasis Lietuvos\n\nLDK 1-ojo Didžiosios\nbuožės pėstininkų\nregimento karininkas\nsu Ketverių metų seimo\nperiodo pavyzdžio\n\nsukilėlių vadas nepasižymėjo karo\nvado sugebėjimais, buvo silpnos\nsveikatos, jo nesugebėjimas deramai\nvadovauti vėliau skaudžiai atsiliepė\nsukilimo baigčiai."
+  citata_rodoma: |
+    Jį pakeitė
+    iš Lenkijos atsiųstas generolas leitenan-
+
+    tas Mykolas Velhorskis. Naujasis Lietuvos
+
+    LDK 1-ojo Didžiosios
+    buožės pėstininkų
+    regimento karininkas
+    su Ketverių metų seimo
+    periodo pavyzdžio
+
+    sukilėlių vadas nepasižymėjo karo
+    vado sugebėjimais, buvo silpnos
+    sveikatos, jo nesugebėjimas deramai
+    vadovauti vėliau skaudžiai atsiliepė
+    sukilimo baigčiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

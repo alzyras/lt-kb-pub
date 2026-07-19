@@ -64,7 +64,14 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
     vo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­
     siuntė pas popiežių savo pasiuntinius. Tą patį rašė ir Rygos
     arkivyskupui.
-  citata_rodoma: "Vėliau Vytautas popiežiui dar rašė, kad jis nenu­\ntraukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­\nvengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir\nnuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­\nvo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­\nsiuntė pas popiežių savo pasiuntinius. Tą patį rašė ir Rygos\narkivyskupui."
+  citata_rodoma: |
+    Vėliau Vytautas popiežiui dar rašė, kad jis nenu­
+    traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­
+    vengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir
+    nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­
+    vo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­
+    siuntė pas popiežių savo pasiuntinius. Tą patį rašė ir Rygos
+    arkivyskupui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

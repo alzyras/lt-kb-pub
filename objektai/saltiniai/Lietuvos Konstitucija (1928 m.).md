@@ -111,7 +111,8 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
     suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
     zicijos. A. Smetona su A. Voldemaru tapo atsargesni – derybos sustojo, o
     1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
-  citata_rodoma: "1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius."
+  citata_rodoma: |
+    1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

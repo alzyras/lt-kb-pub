@@ -410,7 +410,19 @@ Nenurodyta
     aukštas, užminuoti laiptai į antrą aukštą,
     pradėtos įrenginėti baldų barikados rūmų
     viduje. Išoriniame perimetre smėlio bars-
-  citata_rodoma: "Inžineriniai įtvirtinimai buvo įrenginė-\njami trimis etapais. Pirmiausia, dar sausio\n11-12 d., rūmų viduje spygliuota viela buvo\napraizgyta dalis praėjimų ir ventiliacinių\n\n## Puslapis 261\n\nangų, smėlio maišais ir armatūros tinklais\nįtvirtintas pagrindinių AT rūmų pirmasis\naukštas, užminuoti laiptai į antrą aukštą,\npradėtos įrenginėti baldų barikados rūmų\nviduje."
+  citata_rodoma: |
+    Inžineriniai įtvirtinimai buvo įrenginė-
+    jami trimis etapais. Pirmiausia, dar sausio
+    11-12 d., rūmų viduje spygliuota viela buvo
+    apraizgyta dalis praėjimų ir ventiliacinių
+
+    ## Puslapis 261
+
+    angų, smėlio maišais ir armatūros tinklais
+    įtvirtintas pagrindinių AT rūmų pirmasis
+    aukštas, užminuoti laiptai į antrą aukštą,
+    pradėtos įrenginėti baldų barikados rūmų
+    viduje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -443,7 +455,23 @@ Nenurodyta
 
     tas tiek kryptingomis operacijomis, tiek ir eee as ae Ls Ms c „
     kap eis ice visuomenės poziciją sugebėjo įtikinti izoliuotis).
-  citata_rodoma: "Šimėno dingimas - tai proimperiniy jėgų darbo rezultatas, nes jį om\n\nParlamento gynybos principai\nGalima išskirti tris principus: 1) sovietų\nagresijos fiksavimas ir informacijos sklaida\nLietuvoje bei užsienyje, 2) gynyba kariniais\nmetodais, 3) pilietinio, nesmurtinio pasi-\npriešinimo organizavimas.\n\nOrganizuojant gynybą, informacijos\nvaldymas buvo itin aukšto lygio, pagrįs-\n\nLietuvos atsikūrimas\n\ntas tiek kryptingomis operacijomis, tiek ir eee as ae Ls Ms c „\nkap eis ice visuomenės poziciją sugebėjo įtikinti izoliuotis)."
+  citata_rodoma: |
+    Šimėno dingimas - tai proimperiniy jėgų darbo rezultatas, nes jį om
+
+    Parlamento gynybos principai
+    Galima išskirti tris principus: 1) sovietų
+    agresijos fiksavimas ir informacijos sklaida
+    Lietuvoje bei užsienyje, 2) gynyba kariniais
+    metodais, 3) pilietinio, nesmurtinio pasi-
+    priešinimo organizavimas.
+
+    Organizuojant gynybą, informacijos
+    valdymas buvo itin aukšto lygio, pagrįs-
+
+    Lietuvos atsikūrimas
+
+    tas tiek kryptingomis operacijomis, tiek ir eee as ae Ls Ms c „
+    kap eis ice visuomenės poziciją sugebėjo įtikinti izoliuotis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -465,7 +493,15 @@ Nenurodyta
 
     Inžineriniai įtvirtinimai buvo įrenginė-
     jami trimis etapais.
-  citata_rodoma: "Karinės\ninžinerijos prasme rūmų\ngynyba buvo sudaryta iš trijų žiedų: rūmų\nvidaus, išorinio perimetro, tolimųjų rūmų\nprieigų.\n\nInžineriniai įtvirtinimai buvo įrenginė-\njami trimis etapais."
+  citata_rodoma: |
+    Karinės
+    inžinerijos prasme rūmų
+    gynyba buvo sudaryta iš trijų žiedų: rūmų
+    vidaus, išorinio perimetro, tolimųjų rūmų
+    prieigų.
+
+    Inžineriniai įtvirtinimai buvo įrenginė-
+    jami trimis etapais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

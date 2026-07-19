@@ -104,7 +104,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     vaivadijų atstovai pareikšdavo, jog jie klausimą palieką spręsti
     „broliams", t. y. savo seimeliui. Tą dalyką turėdavo išspręsti
     tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
-  citata_rodoma: "Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai."
+  citata_rodoma: |
+    Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

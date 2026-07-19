@@ -87,7 +87,9 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
     prieš jį veikė net pati
     motina. Todėl stipriausia
     atrodė Prancūzų partija.
-  citata_rodoma: "Todėl stipriausia\natrodė Prancūzų partija."
+  citata_rodoma: |
+    Todėl stipriausia
+    atrodė Prancūzų partija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

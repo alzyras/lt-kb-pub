@@ -69,7 +69,13 @@ Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisak
     butų pakrikštyta lotynų apeigomis.
     Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
     turėjo labiau susidomėti Vytautu ir jį palaikyti.
-  citata_rodoma: "Remiantis Torno analų\nžinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis\npas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva\nbutų pakrikštyta lotynų apeigomis.\nĮ karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas\nturėjo labiau susidomėti Vytautu ir jį palaikyti."
+  citata_rodoma: |
+    Remiantis Torno analų
+    žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis
+    pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva
+    butų pakrikštyta lotynų apeigomis.
+    Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
+    turėjo labiau susidomėti Vytautu ir jį palaikyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

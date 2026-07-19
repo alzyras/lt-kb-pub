@@ -190,7 +190,15 @@ Nenurodyta
     tinkamai išdėstyti gynybai savo šaulių,
     klampioje vietovėje sukilėlių kavalerija
     buvo neveiksminga.
-  citata_rodoma: "Dešimtą valandą ryto gen. mjr.\nI. Ganeckio rinktinė pasuko iš Medeikių\nį Biržų girią vedlio nurodyta kryptimi ir\nties Šniurkiškių palivarku užklupo suki-\nlėlių stovyklą. A. Mackevičiui nepavyko\ntinkamai išdėstyti gynybai savo šaulių,\nklampioje vietovėje sukilėlių kavalerija\nbuvo neveiksminga."
+  citata_rodoma: |
+    Dešimtą valandą ryto gen. mjr.
+    I. Ganeckio rinktinė pasuko iš Medeikių
+    į Biržų girią vedlio nurodyta kryptimi ir
+    ties Šniurkiškių palivarku užklupo suki-
+    lėlių stovyklą. A. Mackevičiui nepavyko
+    tinkamai išdėstyti gynybai savo šaulių,
+    klampioje vietovėje sukilėlių kavalerija
+    buvo neveiksminga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -218,7 +226,21 @@ Nenurodyta
 
     © Lietuvių pajėgos persikėlė į Biržų gi-
     rios pakraštį.
-  citata_rodoma: "Lietuvos\nsukilėlių kovinio\ndalgio kopija\n\n@ Gegužės 7 d. atvykę į Medeikius rusų\npėstininkai tris valandas atakavo lietu-\nvių gynybines pozicijas.\n\n© Sukilėliams pamėginus apeiti rusus iš\nflangų, šie vengdami apsupimo buvo\npriversti atsitraukti.\n\n© Lietuvių pajėgos persikėlė į Biržų gi-\nrios pakraštį."
+  citata_rodoma: |
+    Lietuvos
+    sukilėlių kovinio
+    dalgio kopija
+
+    @ Gegužės 7 d. atvykę į Medeikius rusų
+    pėstininkai tris valandas atakavo lietu-
+    vių gynybines pozicijas.
+
+    © Sukilėliams pamėginus apeiti rusus iš
+    flangų, šie vengdami apsupimo buvo
+    priversti atsitraukti.
+
+    © Lietuvių pajėgos persikėlė į Biržų gi-
+    rios pakraštį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -246,7 +268,21 @@ Nenurodyta
     Z. Sierakauskas, po dviejų valandų
 
     kovos pasipriešinimas ėmė silpti.
-  citata_rodoma: "@ Gegužės 8 d. atvykusios naujos ir gau-\nsesnės gen. mjr. I. Ganeckio rusų pajė-\ngos užpuolė stovyklavusius sukilėlius.\n\n© Rusai stipriausiai smogė silpniausiam\nsukilėlių sparnui, išsklaidė P. Vivulskio\nsukilėlius ir apėjo likusias lietuvių\npajėgas.\n\n(G) Buvo sužeistas sukilėlių vadas\n\nZ. Sierakauskas, po dviejų valandų\n\nkovos pasipriešinimas ėmė silpti."
+  citata_rodoma: |
+    @ Gegužės 8 d. atvykusios naujos ir gau-
+    sesnės gen. mjr. I. Ganeckio rusų pajė-
+    gos užpuolė stovyklavusius sukilėlius.
+
+    © Rusai stipriausiai smogė silpniausiam
+    sukilėlių sparnui, išsklaidė P. Vivulskio
+    sukilėlius ir apėjo likusias lietuvių
+    pajėgas.
+
+    (G) Buvo sužeistas sukilėlių vadas
+
+    Z. Sierakauskas, po dviejų valandų
+
+    kovos pasipriešinimas ėmė silpti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -277,7 +313,25 @@ Nenurodyta
     1863 m. pabaigoje sukilėlių kovos ėmė
     silpti. Rusų karinei vadovybei pavyko
     suimti daugelį žymių sukilėlių vadų.
-  citata_rodoma: "Kautynės Biržų girioje buvo didžiau-\nsios per visą 1863-1864 m. sukilimą. Jose\ndalyvavo apie 1500 sukilėlių, apie 200 jų\n\n162 BIRŽŲ (MEDEIKIŲ) MUSIS 1863 m. gegužės 7-9 d.\n\nžurnalas nurodo, kad rusų pusėje žuvo\n5 ir 32 kariai buvo sužeisti, vertinant\nkovos veiksmų eigą rusų nuostoliai tu-\nrėjo būti didesni, nei nurodyta ir siekti\nne mažiau kaip 300 žuvusių rusų karių.\nLikę sukilėliai patraukė į Žemaitiją,\nkur laukė paramos iš užsienio, ta-\nčiau T. Lapinskio jūrų ekspedicija dėl\naudros ties Juodkrante sužlugo.\n1863 m. pabaigoje sukilėlių kovos ėmė\nsilpti. Rusų karinei vadovybei pavyko\nsuimti daugelį žymių sukilėlių vadų."
+  citata_rodoma: |
+    Kautynės Biržų girioje buvo didžiau-
+    sios per visą 1863-1864 m. sukilimą. Jose
+    dalyvavo apie 1500 sukilėlių, apie 200 jų
+
+    162 BIRŽŲ (MEDEIKIŲ) MUSIS 1863 m. gegužės 7-9 d.
+
+    žurnalas nurodo, kad rusų pusėje žuvo
+    5 ir 32 kariai buvo sužeisti, vertinant
+    kovos veiksmų eigą rusų nuostoliai tu-
+    rėjo būti didesni, nei nurodyta ir siekti
+    ne mažiau kaip 300 žuvusių rusų karių.
+    Likę sukilėliai patraukė į Žemaitiją,
+    kur laukė paramos iš užsienio, ta-
+    čiau T. Lapinskio jūrų ekspedicija dėl
+    audros ties Juodkrante sužlugo.
+    1863 m. pabaigoje sukilėlių kovos ėmė
+    silpti. Rusų karinei vadovybei pavyko
+    suimti daugelį žymių sukilėlių vadų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

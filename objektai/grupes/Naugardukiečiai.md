@@ -96,7 +96,15 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
     karaliaus rūmus. Kai buvo suimti vartų sargybiniai,
     žudikai, pasiųsti į miegamąjį, pribaigė valdovą lovo­
     je.
-  citata_rodoma: "Niekada prie jo\nnebūsią galima lengviau prieiti, kaip tada, kai, išren­\ngęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be\napsaugos. Jeigu prireiksią jėgos, Treniotai į pagalbą\natskubėsianti jam atsidavusi žemaičių kariuomenė, be\nto, ir jis pats laiku atsirasiąs su naugardukiečių ka­\nriais. Neilgai atsilaikė tiems kurstymams Treniotos\nširdis, iš prigimties pati linkusi į garbę."
+  citata_rodoma: |
+    Niekada prie jo
+    nebūsią galima lengviau prieiti, kaip tada, kai, išren­
+    gęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be
+    apsaugos. Jeigu prireiksią jėgos, Treniotai į pagalbą
+    atskubėsianti jam atsidavusi žemaičių kariuomenė, be
+    to, ir jis pats laiku atsirasiąs su naugardukiečių ka­
+    riais. Neilgai atsilaikė tiems kurstymams Treniotos
+    širdis, iš prigimties pati linkusi į garbę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

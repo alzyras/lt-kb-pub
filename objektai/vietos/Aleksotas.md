@@ -140,7 +140,12 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
     išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
     kirsti angą ir ją sutvirtinti.
-  citata_rodoma: "Iškilmės“.\nO tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji\ndeivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­\nto priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais\nbuvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3."
+  citata_rodoma: |
+    Iškilmės“.
+    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
+    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
+    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
+    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -163,7 +168,19 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     lauko pusės virš prieangio durų. Tačiau nesame tikri, kaip tas
     dievaitis buvo vaizduojamas; atrodo, tai buvo įpjautas medyje
     arba lentelėje tam tikras ženklas arba mitinis hieroglifas.
-  citata_rodoma: "Šią vietą iki šiol\nvadina šilu, nors joje nematyti jokio medžio. Taip pat pasako­\nja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­\ntykla arba aukuras, skirtas meilės dievybėms.\n159\n\n## Puslapis 159\n\nIš šių pastebėjimų reikia daryti išvadą, kad pats Kauno\nmiestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne\nnuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto\nįkūrėjas."
+  citata_rodoma: |
+    Šią vietą iki šiol
+    vadina šilu, nors joje nematyti jokio medžio. Taip pat pasako­
+    ja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­
+    tykla arba aukuras, skirtas meilės dievybėms.
+    159
+
+    ## Puslapis 159
+
+    Iš šių pastebėjimų reikia daryti išvadą, kad pats Kauno
+    miestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne
+    nuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto
+    įkūrėjas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

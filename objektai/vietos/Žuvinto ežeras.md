@@ -217,7 +217,32 @@ media_all_json: |-
     Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
     šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
     kulką iš vamzdžio, bet ir pertaisydavo spyną.
-  citata_rodoma: "Žuvinto ežeras ir Palios buvo apsupti\nšarvuočių. Lėktuvai raketų šūviais nuro-\ndydavo įtartinas ežero vietas, o ginkluotų\nkareivių pilnos valtys tuoj pat plaukdavo jų\n\nKaras po karo\n\n## Puslapis 230\n\nE\n-\n\"a\na“\n2\n1\nwy\nst\na“\n2\n\nPUSIAU AUTOMATINIAI ŠAUTUVAI\n\nDar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose\nšūvio metu išsiskirianti parako dujų energija ne tik išstumdavo\nkulką iš vamzdžio, bet ir pertaisydavo spyną."
+  citata_rodoma: |
+    Žuvinto ežeras ir Palios buvo apsupti
+    šarvuočių. Lėktuvai raketų šūviais nuro-
+    dydavo įtartinas ežero vietas, o ginkluotų
+    kareivių pilnos valtys tuoj pat plaukdavo jų
+
+    Karas po karo
+
+    ## Puslapis 230
+
+    E
+    -
+    "a
+    a“
+    2
+    1
+    wy
+    st
+    a“
+    2
+
+    PUSIAU AUTOMATINIAI ŠAUTUVAI
+
+    Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
+    šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
+    kulką iš vamzdžio, bet ir pertaisydavo spyną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -96,7 +96,8 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     kas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų minis-
     tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
     Galvanauskas, krašto apsaugos – gen. Vincas Vitkauskas.
-  citata_rodoma: "tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas"
+  citata_rodoma: |
+    tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -120,7 +121,8 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: "toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir"
+  citata_rodoma: |
+    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

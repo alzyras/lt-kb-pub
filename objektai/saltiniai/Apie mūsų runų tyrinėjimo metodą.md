@@ -66,7 +66,14 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Kalevalos
     dr-jos
     metr. 9.
-  citata_rodoma: "1929. Apie mūsų \nrunų \ntyrinėjimo \nmetodą. \nKalevalos \ndr-jos \nmetr. 9."
+  citata_rodoma: |
+    1929. Apie mūsų
+    runų
+    tyrinėjimo
+    metodą.
+    Kalevalos
+    dr-jos
+    metr. 9.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

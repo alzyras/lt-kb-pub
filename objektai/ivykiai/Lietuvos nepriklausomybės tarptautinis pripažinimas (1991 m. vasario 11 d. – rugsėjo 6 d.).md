@@ -122,7 +122,11 @@ Nenurodyta
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
     Lietuva Vakarams buvo nelengvas.
-  citata_rodoma: "Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –\nVakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-\nbačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar\nLietuva Vakarams buvo nelengvas."
+  citata_rodoma: |
+    Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
+    Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
+    bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
+    Lietuva Vakarams buvo nelengvas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +151,17 @@ Nenurodyta
     248
     pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.), Didžioji Britanija
     (rugpjūčio 27 d.), JAV (rugsėjo 3 d.) ir pagaliau rugsėjo 6 d. – SSRS.
-  citata_rodoma: "Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-\nsomybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino \nsusigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-\nžinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios \nSausio agresijos aukų laidotuvės – visos Lietuvos  \nprotestas prieš SSRS politiką\n\nL I E T U V O S  I S T O R I J A\n248\npasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d."
+  citata_rodoma: |
+    Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
+    somybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
+    susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
+    žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
+    Sausio agresijos aukų laidotuvės – visos Lietuvos
+    protestas prieš SSRS politiką
+
+    L I E T U V O S  I S T O R I J A
+    248
+    pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

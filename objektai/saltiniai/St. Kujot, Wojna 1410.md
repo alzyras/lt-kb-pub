@@ -66,8 +66,12 @@ media_all_json: |-
     — (”) _Studia z dziejów Europy wschodniej
     X-XVII w.,_ Warszawa 1965, 189-202 p.—Kujot, St. : _Wojna 1410,_
     Rocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
-    O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas).
-  citata_rodoma: "— (”) _Studia z dziejów Europy wschodniej\nX-XVII w.,_ Warszawa 1965, 189-202 p.—Kujot, St. : _Wojna 1410,_\nRocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,\nO."
+    O.
+  citata_rodoma: |
+    — (”) _Studia z dziejów Europy wschodniej
+    X-XVII w.,_ Warszawa 1965, 189-202 p.—Kujot, St. : _Wojna 1410,_
+    Rocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
+    O.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

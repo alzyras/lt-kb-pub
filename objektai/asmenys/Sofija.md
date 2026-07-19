@@ -93,7 +93,11 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
     Maskvos kunigaikščio susitarimą, Jogaila ne tik turėjo vesti vy­
     riausią Doniečio dukterį (Sofiją), bet «pasikrikštyti stačiatikių
     tikėjime ir savo krikščionybę viešai išpažinti ».
-  citata_rodoma: "Pagal išlikusį regestą matyti, jog, vykdydamas motinos ir\nMaskvos kunigaikščio susitarimą, Jogaila ne tik turėjo vesti vy­\nriausią Doniečio dukterį (Sofiją), bet «pasikrikštyti stačiatikių\ntikėjime ir savo krikščionybę viešai išpažinti »."
+  citata_rodoma: |
+    Pagal išlikusį regestą matyti, jog, vykdydamas motinos ir
+    Maskvos kunigaikščio susitarimą, Jogaila ne tik turėjo vesti vy­
+    riausią Doniečio dukterį (Sofiją), bet «pasikrikštyti stačiatikių
+    tikėjime ir savo krikščionybę viešai išpažinti ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

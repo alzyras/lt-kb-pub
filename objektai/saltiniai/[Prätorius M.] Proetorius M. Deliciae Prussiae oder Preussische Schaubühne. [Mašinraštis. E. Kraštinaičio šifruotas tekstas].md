@@ -72,7 +72,9 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
     Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982.
     Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des
     dreizehnten Jahrhunderts, Bd.
-  citata_rodoma: "[Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.\n[Mašinraštis. E. Kraštinaičio šifruotas tekstas].—MAB RS, F 129—1338/5."
+  citata_rodoma: |
+    [Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.
+    [Mašinraštis. E. Kraštinaičio šifruotas tekstas].—MAB RS, F 129—1338/5.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

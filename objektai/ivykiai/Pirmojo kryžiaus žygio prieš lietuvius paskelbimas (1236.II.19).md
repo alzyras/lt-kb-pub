@@ -85,7 +85,12 @@ Nenurodyta
 
     (^74) **M. Tumler,** **_Der deutsche Orden im Werden, Wachsen und Wirken bis
     1400,_** **Viena 1955 (gausi bibliografija).
-  citata_rodoma: "Vilhelmo Modeniečio paveiktas, popiežius Grigalius IX leido\nvisoje šiaurės Vonietijoje paskelbti (1236.II.19) _pirmąjį_ kryžiaus\nžygį prieš lietuvius. Kalavijuočiai jau buvo pastebėję, jog jų pašo-\n\n(^74) **M."
+  citata_rodoma: |
+    Vilhelmo Modeniečio paveiktas, popiežius Grigalius IX leido
+    visoje šiaurės Vonietijoje paskelbti (1236.II.19) _pirmąjį_ kryžiaus
+    žygį prieš lietuvius. Kalavijuočiai jau buvo pastebėję, jog jų pašo-
+
+    (^74) **M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

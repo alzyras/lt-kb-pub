@@ -94,7 +94,9 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
     samesnė už visus šiaurės tautų mitus“2. Šios visumos
     ieškojimas tapo pagrindiniu T. Narbuto uždaviniu; jis
     ypač ryškus pirmame LTI tome.
-  citata_rodoma: "jau ne vieną kartą cituotame laiške I. Onacevičiui\n  T. Narbutas savo tyrinėjimus mitologijos srityje apibūdino kaip „darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą“3."
+  citata_rodoma: |
+    jau ne vieną kartą cituotame laiške I. Onacevičiui
+      T. Narbutas savo tyrinėjimus mitologijos srityje apibūdino kaip „darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą“3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

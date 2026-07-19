@@ -77,7 +77,9 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
     (D.— Jonis, Jer.— Jon), Sarginio s.
 
     Krikštytojas, šv.
-  citata_rodoma: "Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.\n95—105."
+  citata_rodoma: |
+    Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.
+    95—105.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

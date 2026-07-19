@@ -111,7 +111,8 @@ media_all_json: |-
     kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
     tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
     tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
-  citata_rodoma: "bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia"
+  citata_rodoma: |
+    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +129,8 @@ media_all_json: |-
     net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
     vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir
     Lenkijos valstybėse gyvenusius rytų slavus.
-  citata_rodoma: "net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse"
+  citata_rodoma: |
+    net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,7 +148,8 @@ media_all_json: |-
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
     tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
     bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
-  citata_rodoma: "spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos"
+  citata_rodoma: |
+    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -167,7 +170,8 @@ media_all_json: |-
     je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių
     kunigaikščiai priimdavo stačiatikybę, o besiformuojanti rusėnų raštija
     virto oficialia LDK raštų kalba.
-  citata_rodoma: "je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių"
+  citata_rodoma: |
+    je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

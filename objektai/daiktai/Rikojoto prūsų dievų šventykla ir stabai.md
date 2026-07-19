@@ -131,7 +131,9 @@ Nenurodyta
     vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
     Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
     ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
-  citata_rodoma: "Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų\nir griausmų dievas, o trečiasis – javų dievas Patrimpas."
+  citata_rodoma: |
+    Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
+    ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -150,7 +152,11 @@ Nenurodyta
     dievų kultas ir kulto tarnų hierarchija, vaidilutės. Ilgainiui pasakojimas
     apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-
     pais, iliustruotas piešiniais.
-  citata_rodoma: "Aprašomas šių\ndievų kultas ir kulto tarnų hierarchija, vaidilutės. Ilgainiui pasakojimas\napie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-\npais, iliustruotas piešiniais."
+  citata_rodoma: |
+    Aprašomas šių
+    dievų kultas ir kulto tarnų hierarchija, vaidilutės. Ilgainiui pasakojimas
+    apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-
+    pais, iliustruotas piešiniais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

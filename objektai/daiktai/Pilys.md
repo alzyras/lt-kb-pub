@@ -199,7 +199,14 @@ Nenurodyta
     priminė savo stebuklus mielaširdingas bei gailestingas viešpats, ir iš tiesų dabar galima
     sakyti, apie juos taip, kaip parašyta apie Izraelio tautą, išėjusią iš Egipto (Ps 106, 8—9):
     „Tegu jie dievui dėkoja, kad jis maloningas, kad jis stebuklingas žmonijai.
-  citata_rodoma: "Nieku būdu nereikia pamiršti ir to itin\nsvarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika\nmetų nuo tos dienos, kai įžengė  į Prūsijos žemę, jie pajungė savo galiai  ir palenkė\nkrikščionių tikėjimui ir tas gentis, kurios valdė Kulmo bei Lubavos žemes, ir tas tautas,\n\nkurios gyveno Pamedės, Pagudės, Varmės, Notangos  ir Bartos žemėse, pastatydami\njose daugybę įtvirtinimų, miestų ir pilių, kurias išskaičiuosime ir išvardysime vėliau."
+  citata_rodoma: |
+    Nieku būdu nereikia pamiršti ir to itin
+    svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika
+    metų nuo tos dienos, kai įžengė  į Prūsijos žemę, jie pajungė savo galiai  ir palenkė
+    krikščionių tikėjimui ir tas gentis, kurios valdė Kulmo bei Lubavos žemes, ir tas tautas,
+
+    kurios gyveno Pamedės, Pagudės, Varmės, Notangos  ir Bartos žemėse, pastatydami
+    jose daugybę įtvirtinimų, miestų ir pilių, kurias išskaičiuosime ir išvardysime vėliau.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

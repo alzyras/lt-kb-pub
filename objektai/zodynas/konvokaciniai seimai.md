@@ -75,7 +75,13 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
     kurs tarpuvaldyje būdavo laikomas valstybės galva — _interrex._
     Tas seimas turėjo susitarti dėl karaliaus rinkimo datos ir dėl kitų
     su elekcija susijusių klausimų.
-  citata_rodoma: "**Seimų rūšys.** Be ordinarinių seimų, kas dveji metai šaukiamų,\nir be ekstraordinarinių seimų, pagal reikalą šaukiamų, dar buvo\nseimų, vadinamų pagal jų paskirtį. Taip antai, vadinamieji kon-\nvokaciniai seimai būdavo šaukiami mirus karaliui. Juos šauk-\ndavo Bažnyčios galva, Gniezno arkivyskupas, vadinamas primu,\nkurs tarpuvaldyje būdavo laikomas valstybės galva — _interrex._"
+  citata_rodoma: |
+    **Seimų rūšys.** Be ordinarinių seimų, kas dveji metai šaukiamų,
+    ir be ekstraordinarinių seimų, pagal reikalą šaukiamų, dar buvo
+    seimų, vadinamų pagal jų paskirtį. Taip antai, vadinamieji kon-
+    vokaciniai seimai būdavo šaukiami mirus karaliui. Juos šauk-
+    davo Bažnyčios galva, Gniezno arkivyskupas, vadinamas primu,
+    kurs tarpuvaldyje būdavo laikomas valstybės galva — _interrex._
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

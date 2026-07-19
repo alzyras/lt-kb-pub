@@ -60,7 +60,12 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
     kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato ieškoti
     ideologinės atspirties prieš Lenkijos (Jogailaičių) planą sukurti valstybių
     sąjungą, kurios hegemonė būtų Lenkija.
-  citata_rodoma: "Vytauto kulto \npradžia siekia jo laikus. Enėjas Silvijus Pikolominis (Enea Silvio Picco-\nlomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė to-\nkius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto \nkultas pradėtas puoselėti XVI a."
+  citata_rodoma: |
+    Vytauto kulto
+    pradžia siekia jo laikus. Enėjas Silvijus Pikolominis (Enea Silvio Picco-
+    lomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė to-
+    kius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto
+    kultas pradėtas puoselėti XVI a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

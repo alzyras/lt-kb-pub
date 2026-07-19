@@ -87,7 +87,14 @@ Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geogra
     Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
     ria visiems laikams buvo nustatyta minėtų valstybių sie­
     na, o Rusia buvo padalyta į dvi nelygias dalis2.
-  citata_rodoma: "Apie juos mes dar kalbėsime chro­\nnologine mūsų pasakojimo tvarka. Čia tik pateikiame\nanksčiau mūsų Surovieckio padarytą ir labai teisingą pa­\nstabą, jog senovės geografai šią variagų-lietuvių tautą\nžinojo gitonų vardu1.\n228\nIstoriniai pastebėjimai."
+  citata_rodoma: |
+    Apie juos mes dar kalbėsime chro­
+    nologine mūsų pasakojimo tvarka. Čia tik pateikiame
+    anksčiau mūsų Surovieckio padarytą ir labai teisingą pa­
+    stabą, jog senovės geografai šią variagų-lietuvių tautą
+    žinojo gitonų vardu1.
+    228
+    Istoriniai pastebėjimai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

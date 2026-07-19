@@ -131,7 +131,9 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     riuomenę, apsigynė ir pradėjo tvarkyti vidaus ekonominius reikalus.
     1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
     džiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
-  citata_rodoma: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-\ndžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
+  citata_rodoma: |
+    1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
+    džiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +155,9 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
     kaip agresorė.
-  citata_rodoma: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-\ndžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
+  citata_rodoma: |
+    1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
+    džiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -117,7 +117,9 @@ Nenurodyta
     dėl dėtis į uniją su tokia valstybe Lietuvai nesą jokio reikalo.
     Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
     publicistišką charakterį.
-  citata_rodoma: "Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo\npublicistišką charakterį."
+  citata_rodoma: |
+    Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
+    publicistišką charakterį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -139,7 +141,10 @@ Nenurodyta
     Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
     raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
     kinga, maištaujanti lenkų globojama valstybė.
-  citata_rodoma: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų\nraštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-\nkinga, maištaujanti lenkų globojama valstybė."
+  citata_rodoma: |
+    Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
+    raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
+    kinga, maištaujanti lenkų globojama valstybė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -157,7 +162,9 @@ Nenurodyta
     mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
     ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
     tiek visuomenė, tiek mokykla.
-  citata_rodoma: "Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-\nūgėjo."
+  citata_rodoma: |
+    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
+    ūgėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -89,7 +89,30 @@ media_all_json: |-
     Visame tame plote, nuo senų senovės apaugusiame girio­
     mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
     ganos medžioklių trobelės.
-  citata_rodoma: "5 [apie gotų genties kilmę ir \nkaro žygius]); yra ne kokios nors vie­\nnos tautos nomen gentile [giminės \nvardas], bet toks įvairių tautų sam­\nbūrio nomen sociale [bendruomenės \nvardas], koks yra frankų pavadini­\nmas.\n2\nApie Lietuvos ir Žemaitijos tapatu­\nmą ir apie tą jos dalijimą į aukštuti­\nnę ir žemutinę sužinome iš kuo pa­\ntikimiausio šaltinio, iš didžiojo \nkunigaikščio Vytauto 1420 metais \nRomos imperatoriui Zigmantui ra- \nšvto laiško: Terra Samaytarum, - pa-\n14\n\n## Puslapis 31\n\nI  KNYGA\nVisame tame plote, nuo senų senovės apaugusiame girio­\nmis, palei gausių upių, versmių, ežerų krantus, stovėjo var­\nganos medžioklių trobelės."
+  citata_rodoma: |
+    5 [apie gotų genties kilmę ir
+    karo žygius]); yra ne kokios nors vie­
+    nos tautos nomen gentile [giminės
+    vardas], bet toks įvairių tautų sam­
+    būrio nomen sociale [bendruomenės
+    vardas], koks yra frankų pavadini­
+    mas.
+    2
+    Apie Lietuvos ir Žemaitijos tapatu­
+    mą ir apie tą jos dalijimą į aukštuti­
+    nę ir žemutinę sužinome iš kuo pa­
+    tikimiausio šaltinio, iš didžiojo
+    kunigaikščio Vytauto 1420 metais
+    Romos imperatoriui Zigmantui ra-
+    švto laiško: Terra Samaytarum, - pa-
+    14
+
+    ## Puslapis 31
+
+    I  KNYGA
+    Visame tame plote, nuo senų senovės apaugusiame girio­
+    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
+    ganos medžioklių trobelės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

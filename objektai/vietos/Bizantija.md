@@ -128,7 +128,13 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
-  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
+  citata_rodoma: |
+    Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -72,7 +72,8 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
     balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir
     Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-
     vimo sutartis.
-  citata_rodoma: "Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai"
+  citata_rodoma: |
+    Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

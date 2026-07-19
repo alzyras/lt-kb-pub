@@ -108,7 +108,10 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
     tai raštais ta prasme, kad jis Vilniaus niekados nebe-
     reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
     Vitebske.
-  citata_rodoma: "Paskui Lietuvos kariuomenė\npasidarė abipus Raudonojo tvenkinio užtvankos du\nperėjimus per upę."
+  citata_rodoma: |
+    Paskui Lietuvos kariuomenė
+    pasidarė abipus Raudonojo tvenkinio užtvankos du
+    perėjimus per upę.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -81,7 +81,8 @@ Vartojamos formos: `žiuponais`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 , kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 , kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o svietas midų.“
-  citata_rodoma: "Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 , kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 , kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o svietas midų.“"
+  citata_rodoma: |
+    Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 , kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 , kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o svietas midų.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -96,7 +97,8 @@ Vartojamos formos: `žiuponais`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“
-  citata_rodoma: "Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“"
+  citata_rodoma: |
+    Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

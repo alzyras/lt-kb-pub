@@ -98,7 +98,19 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
     socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
     tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
     Sąjunga–Lietuvos konservatoriai (TS–LK).
-  citata_rodoma: "Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad \nLietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos \nkompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-\nzidentinei valdymo formai nepritarta. Visuomenė darėsi pliuralistinė, įre-\ngistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo \ndu pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi\n\nL I E T U V O S  I S T O R I J A\n250\nsocialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-\ntais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės \nSąjunga–Lietuvos konservatoriai (TS–LK)."
+  citata_rodoma: |
+    Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad
+    Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos
+    kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-
+    zidentinei valdymo formai nepritarta. Visuomenė darėsi pliuralistinė, įre-
+    gistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo
+    du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi
+
+    L I E T U V O S  I S T O R I J A
+    250
+    socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
+    tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
+    Sąjunga–Lietuvos konservatoriai (TS–LK).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -117,7 +129,11 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
     turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
     pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
     cialdemokratinę orientaciją.
-  citata_rodoma: "Taip atsirado nacionalinė eurokomunistinio tipo partija, \nturinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau \npasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-\ncialdemokratinę orientaciją."
+  citata_rodoma: |
+    Taip atsirado nacionalinė eurokomunistinio tipo partija,
+    turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
+    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
+    cialdemokratinę orientaciją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

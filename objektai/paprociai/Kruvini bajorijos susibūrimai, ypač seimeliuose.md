@@ -82,7 +82,10 @@ Nenurodyta
     Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos
     veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos
     susibūrimuose, o ypač seimeliuose.
-  citata_rodoma: "Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos\nveikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos\nsusibūrimuose, o ypač seimeliuose."
+  citata_rodoma: |
+    Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos
+    veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos
+    susibūrimuose, o ypač seimeliuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -99,7 +102,10 @@ Nenurodyta
     Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-
     vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be-
     laisviui mirties.
-  citata_rodoma: "Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-\nvusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be-\nlaisviui mirties."
+  citata_rodoma: |
+    Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-
+    vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be-
+    laisviui mirties.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

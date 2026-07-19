@@ -271,7 +271,18 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis
     priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­
     tą naikino sileziečiai ir lietuviai^1 ).
-  citata_rodoma: "Kandidatu į\njaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo,\ndar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko,\nbet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­\nlezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų\nkunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­\nvęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­\nsų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką,\nviena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis\npriemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­\ntą naikino sileziečiai ir lietuviai^1 )."
+  citata_rodoma: |
+    Kandidatu į
+    jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo,
+    dar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko,
+    bet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­
+    lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų
+    kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­
+    vęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­
+    sų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką,
+    viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis
+    priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­
+    tą naikino sileziečiai ir lietuviai^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -291,7 +302,11 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­
     liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
     spręstas ne keno kito, kaip Vytauto^2 ).
-  citata_rodoma: "Kartą buvo kilęs ginčas tarp Vloc­\nlavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­\nliaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­\nspręstas ne keno kito, kaip Vytauto^2 )."
+  citata_rodoma: |
+    Kartą buvo kilęs ginčas tarp Vloc­
+    lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­
+    liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
+    spręstas ne keno kito, kaip Vytauto^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -316,7 +331,15 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     Litwanorum terram Dobrinens. sitam
     in prenominata Plocendioc totam mise­
     rabiliter devastavit.
-  citata_rodoma: "3 yra paminėję. Viename dokumen­\nte, apie kurį vėliau smulkiau kalbė­\nsime, pasakojama apie kunigaikščių \nZiemovito ir Traidenio įsiveržimą į \nDobrynės žemę. Qui prophanus dux \nDavid paulo ante indictas treugas pre- \ndictas Ingrediens cum valido exercitu \nLitwanorum terram Dobrinens."
+  citata_rodoma: |
+    3 yra paminėję. Viename dokumen­
+    te, apie kurį vėliau smulkiau kalbė­
+    sime, pasakojama apie kunigaikščių
+    Ziemovito ir Traidenio įsiveržimą į
+    Dobrynės žemę. Qui prophanus dux
+    David paulo ante indictas treugas pre-
+    dictas Ingrediens cum valido exercitu
+    Litwanorum terram Dobrinens.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -334,7 +357,16 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     liaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­
     radarbiauti su lenkais. Danielius nesutiko. Naktį jotvin­
     giai užpuolė tik lenkus, o rusinu —■ ne.
-  citata_rodoma: "G*\n131\n\n## Puslapis 129\n\nhania apie Danieliaus žygi prieš jotvingius. Ziemovitas\nvaldė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­\nbėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime\njotvingius\"."
+  citata_rodoma: |
+    G*
+    131
+
+    ## Puslapis 129
+
+    hania apie Danieliaus žygi prieš jotvingius. Ziemovitas
+    valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­
+    bėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime
+    jotvingius".
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -356,7 +388,12 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     jų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai
     kovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet
     narsus žmogus.
-  citata_rodoma: "Kunigaikštis Danielius \nišžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė. \nVasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­\nzerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­\nlė ir atėmė vado vėliavą."
+  citata_rodoma: |
+    Kunigaikštis Danielius
+    išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.
+    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
+    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -378,7 +415,14 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     gę pataikyti savo krauju". Taip ir įvyko: Danielius įsakė
     savo riteriams paskubėti. Tai matydami, jotvingiai išsi­
     gando, nes įsitikino rusų ir lenkų galia.
-  citata_rodoma: "Pastaruosius jotvingiai smarkiai puo­\nlė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-\nkos ir Ziemovito kariuomenę, įvyko žiaurus mūšis: iš abie­\njų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai\nkovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet\nnarsus žmogus. Jis pasileido zovada tarp priešo gretų,\npaleido iš rankų ietį ir vos nebuvo nukautas."
+  citata_rodoma: |
+    Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-
+    kos ir Ziemovito kariuomenę, įvyko žiaurus mūšis: iš abie­
+    jų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai
+    kovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet
+    narsus žmogus. Jis pasileido zovada tarp priešo gretų,
+    paleido iš rankų ietį ir vos nebuvo nukautas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

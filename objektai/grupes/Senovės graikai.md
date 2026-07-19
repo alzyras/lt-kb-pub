@@ -316,7 +316,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-176986
+    - c-172281
 - susijęs iš [[objektai/zodynas/Ratainyčia.md#claim-t-189324|Ratainyčia]]: Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie jojamuosius arklius globojančių deivių.
 ## Reikšmingi paminėjimai
 - c-001
@@ -437,7 +437,17 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     jau užmiršę savo aukščiausius dievus, išskyrus nebent Perkū­
     ną, neturėję šventyklų, žynių, sudėtingesnės religinės organi­
     zacijos.
-  citata_rodoma: "A. Briukneris sarkastiškai ironizuoja, kad mitologai („nuo Nar­\nbuto iki Karo“) sukūrę „stebėtinai gausų ir įvairų“ lietuvių\nOlimpą. „Ko tik tenai nėra! Etinės ir gamtinės dievybės, trejy-\nbė, gerieji ir piktieji gaivalai, fatumas, pomirtinis teismas, spal­\nvingi mitai, išvystyti kultai ir hierarchija, turtingos šventyklos\nir dievaičių štabai, -  visa, ką tik sukūrė Indija, Iranas, Graikija\nir Roma, galima rasti ištisai ar dalimis lietuvių ir prūsų mito­\nlogijoje.“ O iš tiesų „gryniausia romantiko išmonė, svetima\nsenovės lietuviams, priešinga jų dvasiai, jiems varu primesta“,\nT5 MierzyhskiA."
+  citata_rodoma: |
+    A. Briukneris sarkastiškai ironizuoja, kad mitologai („nuo Nar­
+    buto iki Karo“) sukūrę „stebėtinai gausų ir įvairų“ lietuvių
+    Olimpą. „Ko tik tenai nėra! Etinės ir gamtinės dievybės, trejy-
+    bė, gerieji ir piktieji gaivalai, fatumas, pomirtinis teismas, spal­
+    vingi mitai, išvystyti kultai ir hierarchija, turtingos šventyklos
+    ir dievaičių štabai, -  visa, ką tik sukūrė Indija, Iranas, Graikija
+    ir Roma, galima rasti ištisai ar dalimis lietuvių ir prūsų mito­
+    logijoje.“ O iš tiesų „gryniausia romantiko išmonė, svetima
+    senovės lietuviams, priešinga jų dvasiai, jiems varu primesta“,
+    T5 MierzyhskiA.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -479,7 +489,14 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     Viršaitis (Wirszajtos)
     Šio dievo stabas buvo senojoje Romovės šventykloje, jis
     buvo labai gerbiamas.
-  citata_rodoma: "Iš jų dažnai galima išgirsti: tas jau\nbiją winnam Likis („taip jam jau buvo lemta“)1 2.\nGraikai bei romėnai, kuriuos šiame veikale minėsime va­\ndindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas\ndievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti\npasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia\nviskam."
+  citata_rodoma: |
+    Iš jų dažnai galima išgirsti: tas jau
+    biją winnam Likis („taip jam jau buvo lemta“)1 2.
+    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
+    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
+    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
+    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
+    viskam.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -547,7 +564,14 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
     gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
     nas - požemį, arba egzistavimą po mirties.
-  citata_rodoma: "Kabirai (Kabiiy)\nTai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­\ndžių trejybė.\nSeniausiems ir drauge labiausiai paplitusiems mitams pri­\nklauso mitas apie Kabirus. Egiptiečiai ir graikai, romėnai, in­\ndai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­\ngiau ar mažiau paslaptingą dievų Kabirų ritualą."
+  citata_rodoma: |
+    Kabirai (Kabiiy)
+    Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
+    džių trejybė.
+    Seniausiems ir drauge labiausiai paplitusiems mitams pri­
+    klauso mitas apie Kabirus. Egiptiečiai ir graikai, romėnai, in­
+    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
+    giau ar mažiau paslaptingą dievų Kabirų ritualą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -629,6 +653,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189394
+    - t-197219
 - id: c-172282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -642,7 +667,15 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     ga. Jos atsakė, kad senoviniu papročiu vasarą, šventomis die­
     nomis, ištekėjusios moterys pratusios susirinkti prie šios blin­
     dés pasimelsti.
-  citata_rodoma: "234**.\n239\n\n## Puslapis 239\n\nGraikai dar nuo didvyrių laikų laikė šventu tam tikros ąžuo­\nlo rūšies medį, kurio gilėmis maitinosi tautos. Jis buvo paskir­\ntas Jupiteriui."
+  citata_rodoma: |
+    234**.
+    239
+
+    ## Puslapis 239
+
+    Graikai dar nuo didvyrių laikų laikė šventu tam tikros ąžuo­
+    lo rūšies medį, kurio gilėmis maitinosi tautos. Jis buvo paskir­
+    tas Jupiteriui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -664,7 +697,13 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
     šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
     jokios statulos, net paties Heraklio.
-  citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
+  citata_rodoma: |
+    Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -695,4 +734,3 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194587
-    - t-197219

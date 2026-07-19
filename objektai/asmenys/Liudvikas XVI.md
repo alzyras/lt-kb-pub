@@ -73,7 +73,8 @@ media_all_json: |-
     sienas.
     1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.
-  citata_rodoma: "1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio"
+  citata_rodoma: |
+    1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

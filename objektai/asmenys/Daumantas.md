@@ -422,7 +422,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     didino savo valdas. Esą Nalšėnų kunigaikštis Daumantas tykojęs
     Mindaugą pašalinti, bet neįstengęs, nes — anot Ipatijaus metraščio —
     «Daumanto jėga buvo silpna, o Mindaugo didelė»^54.
-  citata_rodoma: "Esą Nalšėnų kunigaikštis Daumantas tykojęs\nMindaugą pašalinti, bet neįstengęs, nes — anot Ipatijaus metraščio —\n«Daumanto jėga buvo silpna, o Mindaugo didelė»^54."
+  citata_rodoma: |
+    Esą Nalšėnų kunigaikštis Daumantas tykojęs
+    Mindaugą pašalinti, bet neįstengęs, nes — anot Ipatijaus metraščio —
+    «Daumanto jėga buvo silpna, o Mindaugo didelė»^54.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -440,7 +443,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     Stačiatikių cerkvė jį yra įrašiusi į šventųjų skaičių.
     Įsikūręs naujoje žemėje, jau 1266 m. su pskoviečiais Daumantas
     puolė Nalšėnus.
-  citata_rodoma: "Įsikūręs naujoje žemėje, jau 1266 m. su pskoviečiais Daumantas\npuolė Nalšėnus."
+  citata_rodoma: |
+    Įsikūręs naujoje žemėje, jau 1266 m. su pskoviečiais Daumantas
+    puolė Nalšėnus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -457,7 +462,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     traukęs su ordinu sutartį ir vėl nusigręžė į rusų kraštus. 1263
     m. jis išsiuntė savo kariuomenę prieš Briansko kunigaikštį.
     Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
-  citata_rodoma: "Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas."
+  citata_rodoma: |
+    Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -476,7 +482,11 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     karo vadu dažniausiai skirdavo Gardino srities kunigaikštį
     Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
     sio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
-  citata_rodoma: "Jis pats labai retai vadovavo kariuomenei: kai tekdavo kariauti,\nkaro vadu dažniausiai skirdavo Gardino srities kunigaikštį\nDovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-\nsio, o vėliau Pskovą valdžiusio, Daumanto sūnus)."
+  citata_rodoma: |
+    Jis pats labai retai vadovavo kariuomenei: kai tekdavo kariauti,
+    karo vadu dažniausiai skirdavo Gardino srities kunigaikštį
+    Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
+    sio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -500,7 +510,12 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     gas, ir tiek pat turėjęs palydos 208 209 210 Savo tikslui Treniota rado sąjun­
     gininką Nalšėnų kunigaikštį Daumantą, Mindaugo švogerį, norėjusį
     atkeršyti asmenišką skriaudą.
-  citata_rodoma: "Neminėdama vardo, Eiliuotinė Livonijos kronika apie Mindaugo\nnužudytoją sako, jog jis buvęs tiek pat turtingas, kaip ir Mindau­\ngas, ir tiek pat turėjęs palydos 208 209 210 Savo tikslui Treniota rado sąjun­\ngininką Nalšėnų kunigaikštį Daumantą, Mindaugo švogerį, norėjusį\natkeršyti asmenišką skriaudą."
+  citata_rodoma: |
+    Neminėdama vardo, Eiliuotinė Livonijos kronika apie Mindaugo
+    nužudytoją sako, jog jis buvęs tiek pat turtingas, kaip ir Mindau­
+    gas, ir tiek pat turėjęs palydos 208 209 210 Savo tikslui Treniota rado sąjun­
+    gininką Nalšėnų kunigaikštį Daumantą, Mindaugo švogerį, norėjusį
+    atkeršyti asmenišką skriaudą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -643,7 +658,23 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     dėjęs greitai atvykti su kariuomene ir pralaužti ap­
     supimą, nakčia, išleistas iš pilies, paspruko per supan­
     čiųjų eiles.
-  citata_rodoma: "Kai baigėsi šer­\nmenys, Daumantas, pagarbiai išlydėjęs svečius, prie­\nvarta pasiliko valdovo žmoną, norėdamas, kad ji jam \nguolyje pavaduotų mirusiąją. Patyręs savo bei žmonos \nskriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­\npu tas, kuris per aistrą buvo \nU ž D a u m a n to p ik ta - \npraradęs protą, nusikaltimą\nd a r y t ę \nN a rim a n ta s \nparėmė užsispyrimu: pamy-\nk e ršiįa karu \nnęs dorovę, jis arba nematė\npavojų, arba jų nepaisė. To­\ndėl valdovas buvo priverstas griebtis ginklo ir pradėti \nkarą su broliu."
+  citata_rodoma: |
+    Kai baigėsi šer­
+    menys, Daumantas, pagarbiai išlydėjęs svečius, prie­
+    varta pasiliko valdovo žmoną, norėdamas, kad ji jam
+    guolyje pavaduotų mirusiąją. Patyręs savo bei žmonos
+    skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­
+    pu tas, kuris per aistrą buvo
+    U ž D a u m a n to p ik ta -
+    praradęs protą, nusikaltimą
+    d a r y t ę
+    N a rim a n ta s
+    parėmė užsispyrimu: pamy-
+    k e ršiįa karu
+    nęs dorovę, jis arba nematė
+    pavojų, arba jų nepaisė. To­
+    dėl valdovas buvo priverstas griebtis ginklo ir pradėti
+    karą su broliu.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -664,7 +695,11 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     veikiausiai, paimtas iš 1M ir kitų rusų
     metraščių minimo XIII a. antrosios pusės Nalšios žemės kunigaikš­
     čio, persikėlusio j Pskovu ir tapusio Pskovo kunigaikščiu.
-  citata_rodoma: "Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos \nvardas nežinomas. 1266 m. persikėlęs j Pskovą ir tapęs Pskovo ku­\nnigaikščiu, Daumantas vedė Aleksandro Nevskio sūnaus Dimitrijaus \ndukterį."
+  citata_rodoma: |
+    Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos
+    vardas nežinomas. 1266 m. persikėlęs j Pskovą ir tapęs Pskovo ku­
+    nigaikščiu, Daumantas vedė Aleksandro Nevskio sūnaus Dimitrijaus
+    dukterį.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -688,7 +723,16 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     Bebūnant jam vienuolyne, jo senelis, didysis kuni­
     gaikštis Narimantas, pasimirė, o Lietuvos ir 2emaičių
     didikai pasiėmė sau didžiuoju kunigaikščiu Traidenį7.
-  citata_rodoma: "Tapęs vienuoliu, jis \nsugrįžo pas savo senelį Narimantą ir prašė jį, kad \nskirtų jam vietą Naugarduko paviete, girioje prie Ne­\nmuno, kur jis galėtų pasistatyti vienuolyną5. Ir pra­\ndžiai pastatė šventojo Prisikėlimo cerkvę. Ir nuo tol \n(vienuolynas] imta vadinti Lauro vienuolynu“.\nBebūnant jam vienuolyne, jo senelis, didysis kuni­\ngaikštis Narimantas, pasimirė, o Lietuvos ir 2emaičių \ndidikai pasiėmė sau didžiuoju kunigaikščiu Traidenį7."
+  citata_rodoma: |
+    Tapęs vienuoliu, jis
+    sugrįžo pas savo senelį Narimantą ir prašė jį, kad
+    skirtų jam vietą Naugarduko paviete, girioje prie Ne­
+    muno, kur jis galėtų pasistatyti vienuolyną5. Ir pra­
+    džiai pastatė šventojo Prisikėlimo cerkvę. Ir nuo tol
+    (vienuolynas] imta vadinti Lauro vienuolynu“.
+    Bebūnant jam vienuolyne, jo senelis, didysis kuni­
+    gaikštis Narimantas, pasimirė, o Lietuvos ir 2emaičių
+    didikai pasiėmė sau didžiuoju kunigaikščiu Traidenį7.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -715,7 +759,15 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas
     lietuvių jėgas, patraukė prieš Daumantą, degdamas troš­
     kimu atkeršyti už savo tėvo kraują.
-  citata_rodoma: "Kunigaikštis Daumantas suprato, kad ne jo jėgoms \natsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi­\nlies, kol jis nebus prasiveržęs per Narimanto kariuo­\nmenę. O pats, nulipęs iš pilies ir prasimušęs per Nari­\nmanto kariuomenę, leidosi bėgti ir pribėgo Pskovo \nmiestą. Pskovo vyrai, matydami jį esant dorą ir išmin­\ntingą vyrą, išsirinko jį savo valdovu ir ėmė vadinti \nPskovo didžiuoju kunigaikščiu2 2 ."
+  citata_rodoma: |
+    Kunigaikštis Daumantas suprato, kad ne jo jėgoms
+    atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi­
+    lies, kol jis nebus prasiveržęs per Narimanto kariuo­
+    menę. O pats, nulipęs iš pilies ir prasimušęs per Nari­
+    manto kariuomenę, leidosi bėgti ir pribėgo Pskovo
+    miestą. Pskovo vyrai, matydami jį esant dorą ir išmin­
+    tingą vyrą, išsirinko jį savo valdovu ir ėmė vadinti
+    Pskovo didžiuoju kunigaikščiu2 2 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

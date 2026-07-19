@@ -64,7 +64,16 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
     krantą. Tuo tarpu G. Valdekas gavo žinią,
     kad šiauriau Prostkų per upę keliasi toto-
     riai.
-  citata_rodoma: "Mūšis\nSpalio 8 d. kariuomenės suartėjo ties\nProstkais skiriamos Elko upės. Lietuviai\n\nE gf\n\napgaulingu atsitraukimo manevru išvi-\nliojo brandenburgiečius persikelti į kita\nkrantą."
+  citata_rodoma: |
+    Mūšis
+    Spalio 8 d. kariuomenės suartėjo ties
+    Prostkais skiriamos Elko upės. Lietuviai
+
+    E gf
+
+    apgaulingu atsitraukimo manevru išvi-
+    liojo brandenburgiečius persikelti į kita
+    krantą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

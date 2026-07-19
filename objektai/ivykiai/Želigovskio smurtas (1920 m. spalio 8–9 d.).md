@@ -123,7 +123,11 @@ Nenurodyta
     Lietuvių ir Lenkų santykių tvarkymą. Lenkija, nebegalėdama
     niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa-
     saką.
-  citata_rodoma: "Tuo\nbūdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo su-\nlaužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį\nLietuvių ir Lenkų santykių tvarkymą."
+  citata_rodoma: |
+    Tuo
+    būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo su-
+    laužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį
+    Lietuvių ir Lenkų santykių tvarkymą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -116,7 +116,21 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
     mėjo, nes karalius visa ko
     prižadėjo ir visus pažadus
     ištesėjo, trokšdamas, kad šie pritartų jo sumanymams.
-  citata_rodoma: "Patyrinėjęs, ką šiuo reikalu \nmano lenkai, ir sužinojęs, jog jiems visai nerūpi Livo­\nnija, karalius, šiek tiek padrąsinęs Gotardą, nusiuntė jį \nį Lietuvą, sakydamas, kad ten ir bus dėl visko susitarta. \nKadangi žmogus kur kas žvaliau imasi to reikalo, kurį \nlaisva valia pats pasiūlo, karalius sušaukė Vilniuje ba­\njorų seimą, norėdamas deramai nuteikti lietuvius. Sako,\nsuvažiavo į seimą galybė ba- \nL ie tu v ia i k e tin a gin- \njorų, kurie daug ką jame lai- \nti L iv o n iją \nmėjo, nes karalius visa ko\nprižadėjo ir visus pažadus \ništesėjo, trokšdamas, kad šie pritartų jo sumanymams."
+  citata_rodoma: |
+    Patyrinėjęs, ką šiuo reikalu
+    mano lenkai, ir sužinojęs, jog jiems visai nerūpi Livo­
+    nija, karalius, šiek tiek padrąsinęs Gotardą, nusiuntė jį
+    į Lietuvą, sakydamas, kad ten ir bus dėl visko susitarta.
+    Kadangi žmogus kur kas žvaliau imasi to reikalo, kurį
+    laisva valia pats pasiūlo, karalius sušaukė Vilniuje ba­
+    jorų seimą, norėdamas deramai nuteikti lietuvius. Sako,
+    suvažiavo į seimą galybė ba-
+    L ie tu v ia i k e tin a gin-
+    jorų, kurie daug ką jame lai-
+    ti L iv o n iją
+    mėjo, nes karalius visa ko
+    prižadėjo ir visus pažadus
+    ištesėjo, trokšdamas, kad šie pritartų jo sumanymams.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

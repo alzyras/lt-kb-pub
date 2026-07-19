@@ -91,7 +91,29 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
     ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
     rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
     Vilnių.
-  citata_rodoma: "Dėl to sudarė slaptą, be \nKęstučio žinios, sutartį su Livoni­\njos magistru, kad anas padėtų jam \nvykdyti tuos kėslus. Tuo metu, kai \nAndrius, nuolatinis Dmitrijaus Do­\nniškio bendražygis, karo rūpesčiais \ndalinęsis, kovojęs su juo dar kartu \nprieš totorius, kur Kulikovo lauke \n(1380 metų rugsėjo 8-ą) prie perga­\nlės daugiausia prisidėjęs, dalyvavo \nmūšiuose, - Skirgaila užsibuvo Po-\n34\n\n## Puslapis 51\n\nI  KNYGA\nGaliausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­\nsiryžo užbėgti jam už akių ir žinodamas, jog šis visas savo \nginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad \nten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų \nrugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo \nVilnių."
+  citata_rodoma: |
+    Dėl to sudarė slaptą, be
+    Kęstučio žinios, sutartį su Livoni­
+    jos magistru, kad anas padėtų jam
+    vykdyti tuos kėslus. Tuo metu, kai
+    Andrius, nuolatinis Dmitrijaus Do­
+    niškio bendražygis, karo rūpesčiais
+    dalinęsis, kovojęs su juo dar kartu
+    prieš totorius, kur Kulikovo lauke
+    (1380 metų rugsėjo 8-ą) prie perga­
+    lės daugiausia prisidėjęs, dalyvavo
+    mūšiuose, - Skirgaila užsibuvo Po-
+    34
+
+    ## Puslapis 51
+
+    I  KNYGA
+    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
+    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
+    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
+    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
+    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
+    Vilnių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

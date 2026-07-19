@@ -72,7 +72,11 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
     W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
     visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
     iš 1947 m.
-  citata_rodoma: "Čia reikia paminėti ir\nW. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.\nvisuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra\niš 1947 m."
+  citata_rodoma: |
+    Čia reikia paminėti ir
+    W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
+    visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
+    iš 1947 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

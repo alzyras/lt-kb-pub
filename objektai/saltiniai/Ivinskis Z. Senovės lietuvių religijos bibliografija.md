@@ -78,7 +78,8 @@ Dusburgietis teigia, kad ivinskis Z.
     98.
     Łowmiański H. Elementy indoeuropejskie w religii Bałtów.— Ars historica; Prace z
     dziejów powszechnych i Polski, Poznań, 1976, s.
-  citata_rodoma: "Ivinskis Z. Senovės lietuvių religijos bibliografija.—K., 1938."
+  citata_rodoma: |
+    Ivinskis Z. Senovės lietuvių religijos bibliografija.—K., 1938.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

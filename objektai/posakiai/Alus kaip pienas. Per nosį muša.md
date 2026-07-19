@@ -70,7 +70,8 @@ Alaus pagyrimo formulė.
     Dabar to alaus visiems valia gerti, ir svetimą žmogų neišleidžia ne­
     davus paragauti. Atsigėręs kiekvienas pagiria: „Alus kaip pienas. Per
     nosis muša“ .
-  citata_rodoma: "Dabar to alaus visiems valia gerti, ir svetimą žmogų neišleidžia nedavus paragauti. Atsigėręs kiekvienas pagiria: „Alus kaip pienas. Per nosį muša“ ."
+  citata_rodoma: |
+    Dabar to alaus visiems valia gerti, ir svetimą žmogų neišleidžia nedavus paragauti. Atsigėręs kiekvienas pagiria: „Alus kaip pienas. Per nosį muša“ .
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

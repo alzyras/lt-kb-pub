@@ -52,7 +52,7 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Górnowicz H\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-61187
+    - c-61186
 
 <a id="claim-t-60555"></a>
 - t-002
@@ -122,6 +122,7 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60556
+    - t-60554
 - id: c-61187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -138,7 +139,6 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60554
     - t-196998
 - id: c-61188
   autorius: "Petras Dusburgietis"

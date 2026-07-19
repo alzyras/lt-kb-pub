@@ -112,7 +112,22 @@ Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 
     rinėtojai teigia, jog minėti agatirai gyveno Marus, arba
     Maroszy, upės aukštupyje2. Septynių miestų žemėje*, pa­
     skutiniame amžiuje prieš krikščioniškosios eros pradžią.
-  citata_rodoma: "278\n\n## Puslapis 289\n\nkęs prie kanalo, kuris ir dabar jungia ežerą su jūra. Tu­\nriu po ranka lotynų kalba parašytą rankraštį apie mūšį,\nįvykusį 1605 metų rugsėjo 27 dieną, kuriame yra tokia\ndetalė: kai Kuršo kunigaikštis Ketleris atvyko pagelbėti\nChodkevičiui, tarp Kuršo bajorų savanorių, išvardytų\nten valsčiais, buvo ir 85 riteriai iš Angeširų apskrities1.\nVisa tai rodo, kad minėtų agazirų žemė buvusi prie En-\ngūrės ežero, pavadinto jų vardu, o jie patys buvo lietu­\nvių gentis ir, kaip rodo pavadinimas, šaka hirių kartos,\nkuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje\nsu gelonais ir budinais (§ 268)."
+  citata_rodoma: |
+    278
+
+    ## Puslapis 289
+
+    kęs prie kanalo, kuris ir dabar jungia ežerą su jūra. Tu­
+    riu po ranka lotynų kalba parašytą rankraštį apie mūšį,
+    įvykusį 1605 metų rugsėjo 27 dieną, kuriame yra tokia
+    detalė: kai Kuršo kunigaikštis Ketleris atvyko pagelbėti
+    Chodkevičiui, tarp Kuršo bajorų savanorių, išvardytų
+    ten valsčiais, buvo ir 85 riteriai iš Angeširų apskrities1.
+    Visa tai rodo, kad minėtų agazirų žemė buvusi prie En-
+    gūrės ežero, pavadinto jų vardu, o jie patys buvo lietu­
+    vių gentis ir, kaip rodo pavadinimas, šaka hirių kartos,
+    kuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje
+    su gelonais ir budinais (§ 268).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -61,7 +61,14 @@ Tuo keliu nuėjo ne tik Dauguvos pilys, kaip Gercike, Kukenois, bet ir pats Polo
     artimos žemės lietuvių kariuomenes aprūpindavo maistu, suteik­
     davo reikalingų žinių, padėdavo persikelti per upes, ar pervesdavo
     per brastas.
-  citata_rodoma: "Tuo keliu nuėjo ne tik Dauguvos pilys,\nkaip Gercike, Kukenois, bet ir pats Polockas, kuriam Lietuva buvo\nnatūralus gynėjas ir sąjungininkas. Ano laiko šaltiniai patiekia\natsitiktinių užuominų, kaip tokios lietuvių įtakos sferon pakliuvusios\nartimos žemės lietuvių kariuomenes aprūpindavo maistu, suteik­\ndavo reikalingų žinių, padėdavo persikelti per upes, ar pervesdavo\nper brastas."
+  citata_rodoma: |
+    Tuo keliu nuėjo ne tik Dauguvos pilys,
+    kaip Gercike, Kukenois, bet ir pats Polockas, kuriam Lietuva buvo
+    natūralus gynėjas ir sąjungininkas. Ano laiko šaltiniai patiekia
+    atsitiktinių užuominų, kaip tokios lietuvių įtakos sferon pakliuvusios
+    artimos žemės lietuvių kariuomenes aprūpindavo maistu, suteik­
+    davo reikalingų žinių, padėdavo persikelti per upes, ar pervesdavo
+    per brastas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

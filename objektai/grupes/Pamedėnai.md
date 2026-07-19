@@ -441,7 +441,10 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     vardas buvęs fonetiškai panašus į baltiškąjį hidronimą su *Kulm-(Kul-ma?). Lenkiškasis
     pilies vardas lygintinas ir su prūsų kelmis, kelmo užrašymo variantais: chelmo, Chelmo
     ‘kepurė’ (MPKP, 2, p. 34, 53, 279; Топоров B. H. Прусский язык, A—D, с.
-  citata_rodoma: "Lubavos191 [žemė], kuri prieš Teutonų ordino brolių atkilimą, galima sakyti, buvo\nvisiškai nusiaubta. Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,\nkurioje [gyveno] pagudėnai."
+  citata_rodoma: |
+    Lubavos191 [žemė], kuri prieš Teutonų ordino brolių atkilimą, galima sakyti, buvo
+    visiškai nusiaubta. Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
+    kurioje [gyveno] pagudėnai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -493,7 +496,17 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
-  citata_rodoma: "Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos\nkunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,\nkuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams\nširdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais\nir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe\nkarių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir\ngrobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo\nnė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską\npatvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir\nteisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė."
+  citata_rodoma: |
+    Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
+    kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
+    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
+    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
+    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
+    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
+    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -518,7 +531,15 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
     prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
     pamedėnui, vardu Jonas, Sarginio sūnui.
-  citata_rodoma: "Šitai sužinoję, prūsai\nįtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,\ntol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,\nten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,\nkad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie\njų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei\nlaisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,\no pasiliko tik vienas kitas."
+  citata_rodoma: |
+    Šitai sužinoję, prūsai
+    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
+    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
+    ten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,
+    kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
+    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
+    laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
+    o pasiliko tik vienas kitas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -541,7 +562,16 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
     žūties, pabėgdami į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
     buvo arba paimti į nelaisvę, arba užmušti.
-  citata_rodoma: "Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio\nmiesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė\nžūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji\nbuvo arba paimti į nelaisvę, arba užmušti."
+  citata_rodoma: |
+    Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
+    miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
+    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
+    buvo arba paimti į nelaisvę, arba užmušti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -566,7 +596,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele
     kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems pastodavo
     478  Istorijos šaltiniai rodo, kad prūsai ir lietuviai turėjo monogamines šeimas.
-  citata_rodoma: "Mat velnias, žmonių giminės\nnedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė\njuos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,\nišskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.\nTačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti\nužpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus\nir juos išsivarė į nelaisvę."
+  citata_rodoma: |
+    Mat velnias, žmonių giminės
+    nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
+    juos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,
+    išskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.
+    Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
+    užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
+    ir juos išsivarė į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -631,7 +668,15 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
     vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
     brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
-  citata_rodoma: "148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą\n\n  Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais."
+  citata_rodoma: |
+    148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+
+      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -651,7 +696,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-  citata_rodoma: "142 (137). Apie vienos pilaitės užkariavimą\n\n  Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai\nužpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją\nįsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į\nKristburgo pilį, iš pagrindų sugriovė šią pilaitę417."
+  citata_rodoma: |
+    142 (137). Apie vienos pilaitės užkariavimą
+
+      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
+    užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
+    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
+    Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -673,7 +724,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     ke - lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
     Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
     vadinosi pursčiai (Puršcie).
-  citata_rodoma: "Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­\nkė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai\nprisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada\nnelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-\nmi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­\nrybė moka daryti stebuklus lengvatikių akyse."
+  citata_rodoma: |
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
+    rybė moka daryti stebuklus lengvatikių akyse.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -132,7 +132,11 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     Metrikos archyvo sąrašą. Raidė S.
     Antraštė: Molendinum Vilnense [Vil­
     niaus malūnas].
-  citata_rodoma: "Iš Lietuvos Metrikos. Knyga, apimanti \nMetrikos archyvo sąrašą. Raidė S. \nAntraštė: Molendinum Vilnense [Vil­\nniaus malūnas]."
+  citata_rodoma: |
+    Iš Lietuvos Metrikos. Knyga, apimanti
+    Metrikos archyvo sąrašą. Raidė S.
+    Antraštė: Molendinum Vilnense [Vil­
+    niaus malūnas].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -162,7 +166,23 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
     žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
     malūnas.
-  citata_rodoma: "40), matyti,\n266\n\n## Puslapis 283\n\nIV KNYGA\nVisi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei \nir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­\ngai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­\ntas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius \n1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui \nir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­\nmis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­\nlių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir \nžemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus \nmalūnas."
+  citata_rodoma: |
+    40), matyti,
+    266
+
+    ## Puslapis 283
+
+    IV KNYGA
+    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
+    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
+    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
+    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
+    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
+    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
+    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
+    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
+    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
+    malūnas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

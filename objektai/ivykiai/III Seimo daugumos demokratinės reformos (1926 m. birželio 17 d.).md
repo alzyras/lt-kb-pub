@@ -120,7 +120,14 @@ Nenurodyta
     mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
     likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
     dvasininkams), ėmė mažinti karininkų skaičių.
-  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n155\nIII Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę \ndemokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-\nti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-\nnaikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai \nrengti susirinkimus."
+  citata_rodoma: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    155
+    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
+    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
+    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+    rengti susirinkimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

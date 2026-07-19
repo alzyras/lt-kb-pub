@@ -204,7 +204,15 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     kitais suartėję; lietuviai jau pradėjo krikti, nes skitai,
     įprastinėmis užuolankomis puldami sparnus, nuolatos
     ardė eiles, neleisdami sudaryti pastovios rikiuotės.
-  citata_rodoma: "Pir­\nmąjį smūgį jis nukreipė į Volynės pasienį: apsupo \nVladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­\ntą atkakliai puolė iš visų pusių, vis dėlto miestiečiai \natrėmė puolimą, vildamiesi, jog neužtruks parama. Tuo \nmetu su savo krašto kariuomene ir atėjusiais į pagal­\nbą skitais atvyko Vladimiras, ketindamas nuvaryti prie­\nšą nuo sienų."
+  citata_rodoma: |
+    Pir­
+    mąjį smūgį jis nukreipė į Volynės pasienį: apsupo
+    Vladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­
+    tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
+    atrėmė puolimą, vildamiesi, jog neužtruks parama. Tuo
+    metu su savo krašto kariuomene ir atėjusiais į pagal­
+    bą skitais atvyko Vladimiras, ketindamas nuvaryti prie­
+    šą nuo sienų.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

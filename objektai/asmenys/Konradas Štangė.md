@@ -123,7 +123,13 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
     ledą iš viršaus tirpdo saulės spinduliai, o iš apačios graužia srovė, vidurnaktyje su ginklu
     rankose perėjo ledu Nemuną; kai jie saugiai nusigavo į kitą krantą, ledas taip suskilo
     ir sutruko, kad išaušus jo nebeliko nė pėdsakų.
-  citata_rodoma: "“ Jiems\natsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku\natiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti\ndideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,\nbet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus\napgins."
+  citata_rodoma: |
+    “ Jiems
+    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku
+    atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti
+    dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
+    bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
+    apgins.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -146,7 +152,11 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
     kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
     vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
     kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
-  citata_rodoma: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo\ndieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,\npasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal\nir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių."
+  citata_rodoma: |
+    Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
+    dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
+    pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal
+    ir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

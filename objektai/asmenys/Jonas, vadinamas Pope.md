@@ -111,7 +111,16 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
     Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
     ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
     čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus.
-  citata_rodoma: "Apie Ragainės pilies užpuolimą\n\n  1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir\nnetikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai\njiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė\natsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį\nJoną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,\npasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus\npasėlius."
+  citata_rodoma: |
+    Apie Ragainės pilies užpuolimą
+
+      1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
+    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai
+    jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
+    atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį
+    Joną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,
+    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
+    pasėlius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

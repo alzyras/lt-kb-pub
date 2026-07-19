@@ -111,7 +111,8 @@ Nenurodyta
     ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m.
-  citata_rodoma: "ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė"
+  citata_rodoma: |
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -134,7 +135,8 @@ Nenurodyta
     konstitucijos. Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių
     iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp
     Lietuvos ir likusios SSRS dalies dar buvo.
-  citata_rodoma: "iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp"
+  citata_rodoma: |
+    iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

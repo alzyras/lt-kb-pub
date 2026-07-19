@@ -82,7 +82,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų. Iškalbin-
     gas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“
     (1620).
-  citata_rodoma: "gas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“"
+  citata_rodoma: |
+    gas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

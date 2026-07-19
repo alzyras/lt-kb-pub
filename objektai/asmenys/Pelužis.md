@@ -185,7 +185,13 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo kitų ir, susijaudinęs bei
     ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau,
     sukalbėjęs daug maldų, tavo kūną“.
-  citata_rodoma: "Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
+  citata_rodoma: |
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
+    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
+    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -206,7 +212,15 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     231 (225). Dar apie tą patį
     Tas pats brolis Albertas vienu metu sunegalavo, o per tą ligą visai nuslinko jam galvos
     plaukai ir iškrito blakstienos.
-  citata_rodoma: "III, 235), sukilimą prūsai galėjo rengti 1289 m.\n\nTuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
+  citata_rodoma: |
+    III, 235), sukilimą prūsai galėjo rengti 1289 m.
+
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
+    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
+    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -232,7 +246,15 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     da lietuviai pajustų, jog priešas perėjo sieną, kai žy­
     gis bus baigtas: didžiausią rūpestį kėlė ne tiek lietuvių
     kariuomenė, kiek jų budrumas.
-  citata_rodoma: "Tegu su kariais netikėtai pasirodąs, iš pa­\nčių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-\nsią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­\nnešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,\nkuris parėmė sumanymą. Žygis nereikalavo didelės ka­\nriuomenės, būtų užtekę negausaus, bet ryžtingo būrio,\nlengvai ginkluotų, bet drąsių, ne per daug besidomin­\nčių vado planais karių."
+  citata_rodoma: |
+    Tegu su kariais netikėtai pasirodąs, iš pa­
+    čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-
+    sią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­
+    nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,
+    kuris parėmė sumanymą. Žygis nereikalavo didelės ka­
+    riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
+    lengvai ginkluotų, bet drąsių, ne per daug besidomin­
+    čių vado planais karių.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

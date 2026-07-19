@@ -104,7 +104,14 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
     Rusijos kariuomenės korpusui,
     puolusiam Vilnių, vadovavo generolas
     leitenantas Bogdanas Knorringas.
-  citata_rodoma: "Sukilėliams puolant\nmiestą, Vilniaus įgulai tiesiogiai va-\ndovavo generolas majoras Nikolajus\nArsenjevas.\nRusijos kariuomenės korpusui,\npuolusiam Vilnių, vadovavo generolas\nleitenantas Bogdanas Knorringas."
+  citata_rodoma: |
+    Sukilėliams puolant
+    miestą, Vilniaus įgulai tiesiogiai va-
+    dovavo generolas majoras Nikolajus
+    Arsenjevas.
+    Rusijos kariuomenės korpusui,
+    puolusiam Vilnių, vadovavo generolas
+    leitenantas Bogdanas Knorringas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

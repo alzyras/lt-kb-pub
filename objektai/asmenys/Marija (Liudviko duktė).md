@@ -60,7 +60,12 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
     jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
     Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
     go markagrafu, vėliau tapusiu ciesorium Zigmantu.
-  citata_rodoma: "Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi\njos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su\nAustrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­\ngo markagrafu, vėliau tapusiu ciesorium Zigmantu."
+  citata_rodoma: |
+    Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
+    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
+    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
+    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
+    go markagrafu, vėliau tapusiu ciesorium Zigmantu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

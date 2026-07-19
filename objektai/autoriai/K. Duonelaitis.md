@@ -94,7 +94,12 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.
-  citata_rodoma: "Tuo\nbūdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo\nišleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,\nStrazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)\nraštų."
+  citata_rodoma: |
+    Tuo
+    būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
+    išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
+    Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
+    raštų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -113,7 +118,10 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     Mažosios Lietuvos poetas, Duonelaitis (1714—1780 m.), skun-
     džiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir
     ragina lietuvius su jais nesusidėti.
-  citata_rodoma: "Užtat ir didysis\nMažosios Lietuvos poetas, Duonelaitis (1714—1780 m.), skun-\ndžiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir"
+  citata_rodoma: |
+    Užtat ir didysis
+    Mažosios Lietuvos poetas, Duonelaitis (1714—1780 m.), skun-
+    džiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

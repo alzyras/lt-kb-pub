@@ -130,7 +130,25 @@ Nenurodyta
     ir be saiko ištikimus graikų apeigoms, kad jie pasiduo­
     tų Maskvos valdžiai bei priklausomybei, išduotų Se-
     verską ir užpultų su savo kariaunomis Lietuvą.
-  citata_rodoma: "Galop visų, o ypač Vladislovo, \nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne \ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės. Jis pra- \nM a s k v o s \nv a ld o v a s \ndėjo slaptai kurstyti Belą jos \nsu lau žo su ta rtį \nkunigaikštį Simoną, Možais­\nko— Andrejų bei \nVasilijų \nŠemiačičių, labai turtingus, valdžiusius didžiules žemes \nir be saiko ištikimus graikų apeigoms, kad jie pasiduo­\ntų Maskvos valdžiai bei priklausomybei, išduotų Se- \nverską ir užpultų su savo kariaunomis Lietuvą."
+  citata_rodoma: |
+    Galop visų, o ypač Vladislovo,
+    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
+    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
+    tik valdovai, bet ir visos jų karalystės bei žemės pa­
+    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
+    Dievobaimingas Aleksandro įstangas sužlugdė klas­
+    tingos Ivano pinklės. Jis pra-
+    M a s k v o s
+    v a ld o v a s
+    dėjo slaptai kurstyti Belą jos
+    su lau žo su ta rtį
+    kunigaikštį Simoną, Možais­
+    ko— Andrejų bei
+    Vasilijų
+    Šemiačičių, labai turtingus, valdžiusius didžiules žemes
+    ir be saiko ištikimus graikų apeigoms, kad jie pasiduo­
+    tų Maskvos valdžiai bei priklausomybei, išduotų Se-
+    verską ir užpultų su savo kariaunomis Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

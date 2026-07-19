@@ -161,7 +161,15 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     1648 m. vasarą kazokai ėmė veržtis į
     LDK pietrytinės sritis. Jie siautėjo Pinsko,
     Starodubo ir Mozyriaus apylinkėse.
-  citata_rodoma: "Amžininko Alberto Vijūko-Kojelavi-\nčiaus teigimu, Lenkijos kariuomenė dažnai\nstodavo į mūšį nepasvėrusi savo jėgų, ve-\ndina paniekos priešui.\n\n1648 m. vasarą kazokai ėmė veržtis į\nLDK pietrytinės sritis. Jie siautėjo Pinsko,\nStarodubo ir Mozyriaus apylinkėse."
+  citata_rodoma: |
+    Amžininko Alberto Vijūko-Kojelavi-
+    čiaus teigimu, Lenkijos kariuomenė dažnai
+    stodavo į mūšį nepasvėrusi savo jėgų, ve-
+    dina paniekos priešui.
+
+    1648 m. vasarą kazokai ėmė veržtis į
+    LDK pietrytinės sritis. Jie siautėjo Pinsko,
+    Starodubo ir Mozyriaus apylinkėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +191,15 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 
     Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
     prieš Zaporožės kazokus“ apie Lojevo mūšį.
-  citata_rodoma: "Svetimšalių autoramento „vokiškojo“ tipo pėstinin-\nkas-ietininkas (pikinierius). Svetimšalių autoramento\npėstininkai būdavo ginkluoti ietimis arba muškietomis =\n\nLOJEVO MUSIS\n\nIštrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius\nprieš Zaporožės kazokus“ apie Lojevo mūšį."
+  citata_rodoma: |
+    Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
+    kas-ietininkas (pikinierius). Svetimšalių autoramento
+    pėstininkai būdavo ginkluoti ietimis arba muškietomis =
+
+    LOJEVO MUSIS
+
+    Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
+    prieš Zaporožės kazokus“ apie Lojevo mūšį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -202,7 +218,12 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     Stryjkowski, Ks. XVI, Roz. I, k.
     538, ed. warsz. K o j a ł o w i c z, Pars
     II, lib. 3, p. 141.
-  citata_rodoma: "Buvo nuveikta\n3\nStryjkowski, Ks. XVI, Roz. I, k. \n538, ed. warsz. K o j a ł o w i c z, Pars \nII, lib. 3, p. 141."
+  citata_rodoma: |
+    Buvo nuveikta
+    3
+    Stryjkowski, Ks. XVI, Roz. I, k.
+    538, ed. warsz. K o j a ł o w i c z, Pars
+    II, lib. 3, p. 141.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +248,19 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     Kojelavičius Pagraudenę vadi-
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
-  citata_rodoma: "To­\nliau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti \npetit ä mane usque ad meridiem in monte ex opposito Castri Jede- \nmine ubi dictus comes de Homberg et piures alii nobiles dignita­\ntem militiae susceperunt [Bet brolių vėliava jam prisijungus \nkovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino\ne\nChroniam Prussiae.\nf\nKojelavičius Pagraudenę vadi- \nna apylinkę Žemaitijoje: pograudien- \nb C S 7/7 Samogitia agri. Hist. Lithu. p. 436."
+  citata_rodoma: |
+    To­
+    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
+    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
+    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
+    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
+    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
+    e
+    Chroniam Prussiae.
+    f
+    Kojelavičius Pagraudenę vadi-
+    na apylinkę Žemaitijoje: pograudien-
+    b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -80,7 +80,11 @@ Terminas vartojamas ūkinių darbų sekoje, kai ruošiama medžiaga stogui dengt
     kūlę,
     dirba stogui dengti kūlius arba laužo ir trina pėdus, vadinasi,
     dirba „traknienius“ ; tais krato tvartus arba šeria gyvulius.
-  citata_rodoma: "Taip iš­\nkūlę, \ndirba stogui dengti kūlius arba laužo ir trina pėdus, vadinasi, \ndirba „traknienius“ ; tais krato tvartus arba šeria gyvulius"
+  citata_rodoma: |
+    Taip iš­
+    kūlę,
+    dirba stogui dengti kūlius arba laužo ir trina pėdus, vadinasi,
+    dirba „traknienius“ ; tais krato tvartus arba šeria gyvulius
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

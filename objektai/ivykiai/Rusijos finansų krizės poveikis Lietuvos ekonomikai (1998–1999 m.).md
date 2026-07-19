@@ -150,7 +150,8 @@ Nenurodyta
     jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
     į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
     metais Lietuva susidūrė su biudžeto sunkumais: 1998 m.
-  citata_rodoma: "jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo"
+  citata_rodoma: |
+    jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -168,7 +169,8 @@ Nenurodyta
     nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
     užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
     (antroje vietoje).
-  citata_rodoma: "užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija"
+  citata_rodoma: |
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

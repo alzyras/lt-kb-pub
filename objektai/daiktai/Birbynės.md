@@ -79,7 +79,13 @@ Nenurodyta
     pulkams žengti abiem perėjimais per upę.
     Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
     gė per upę.
-  citata_rodoma: "Kunigaikš­\ntis Mykolas !3, matydamas su didikais ir su visa kariuo­\nmene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems \npulkams žengti abiem perėjimais per upę.\nIr, sutrimitavę trimitais ir užgroję birbynėmis žen­\ngė per upę."
+  citata_rodoma: |
+    Kunigaikš­
+    tis Mykolas !3, matydamas su didikais ir su visa kariuo­
+    mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems
+    pulkams žengti abiem perėjimais per upę.
+    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
+    gė per upę.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas

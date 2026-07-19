@@ -157,7 +157,18 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
     — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
     pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje). Sekant
     statutų prologu, Ordino įkūrimas datuojamas 1190 m.
-  citata_rodoma: "Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­\n                                             trą\n\n  Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis\nHenrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)\ndieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga."
+  citata_rodoma: |
+    Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
+                                                 trą
+
+      Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
+    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
+    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

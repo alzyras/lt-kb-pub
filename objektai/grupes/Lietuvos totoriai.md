@@ -175,7 +175,20 @@ media_all_json: |-
 
     „Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,
     kardu ir skydu.
-  citata_rodoma: ") aprašymo apie\nkazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos\n\nvaldovas moka atlygį.\n\nRytietiška strėlinė.\nTokias strėlines naudo-\ndavo Lietuvos totoriai\n\nir kita Lietuvos lengvoji\n\n„Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,\nkardu ir skydu."
+  citata_rodoma: |
+    ) aprašymo apie
+    kazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos
+
+    valdovas moka atlygį.
+
+    Rytietiška strėlinė.
+    Tokias strėlines naudo-
+    davo Lietuvos totoriai
+
+    ir kita Lietuvos lengvoji
+
+    „Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,
+    kardu ir skydu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

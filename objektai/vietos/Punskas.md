@@ -115,7 +115,13 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
     paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
     legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
     dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: "Paskutinė federacijos su Lenkija galimybė\nNeturėdama pakankamai karinių jėgų Lietuva nesugebėjo\napjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą\ngyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-\nki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-\ncialinį atspalvį – 1920 m."
+  citata_rodoma: |
+    Paskutinė federacijos su Lenkija galimybė
+    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
+    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
+    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
+    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
+    cialinį atspalvį – 1920 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

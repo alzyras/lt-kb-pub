@@ -131,7 +131,11 @@ media_all_json: |-
     sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
     tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
     čius.
-  citata_rodoma: "Jos ištakose – ir didžiau-\nsias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir \ntautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-\nčius."
+  citata_rodoma: |
+    Jos ištakose – ir didžiau-
+    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
+    tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
+    čius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -156,7 +160,14 @@ media_all_json: |-
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: "Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime \npradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-\ntuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas \nV. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, \nMaironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-\nrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir \nkūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų)."
+  citata_rodoma: |
+    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
+    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
+    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
+    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
+    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
+    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
+    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -175,7 +186,10 @@ media_all_json: |-
     mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: "Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno \nĮgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne – \nM. K. Čiurlionio muziejaus senojo meno ekspozicija."
+  citata_rodoma: |
+    Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
+    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
+    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

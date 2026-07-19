@@ -84,7 +84,8 @@ media_all_json: |-
     Bet vis nemažiau kaip tris.
     Švėgžda užlei­
     do man savo svirne aruodą.
-  citata_rodoma: "Švėgžda užleido man savo svirne aruodą."
+  citata_rodoma: |
+    Švėgžda užleido man savo svirne aruodą.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -103,7 +104,8 @@ media_all_json: |-
     Švėgžda galinis, duok Dieve jam dan­
     gų, liepdavo pačiam sėtis.
     Geras buvo žmogus, nepavydingas.
-  citata_rodoma: "Švėgžda galinis, duok Dieve jam dangu, liepdavo pačiam sėtis. Geras buvo žmogus, nepavydingas."
+  citata_rodoma: |
+    Švėgžda galinis, duok Dieve jam dangu, liepdavo pačiam sėtis. Geras buvo žmogus, nepavydingas.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

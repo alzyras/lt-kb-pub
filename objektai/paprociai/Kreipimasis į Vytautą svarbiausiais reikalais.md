@@ -144,7 +144,14 @@ Nenurodyta
     pasaulietiškus vakansus (vietas) ir vyskupų sostus, kad jis
     prikalbėtų Jogailą nesiskubinti su paskyrimais, nepasitaręs su
     karūnos pralotais ir didžiūnais.
-  citata_rodoma: "Bet Vytautui šlėktą karštai užtariant ir\njam tarpininkaujant, kaip tai aiškiai pažymėta pačioje privile­\ngijoje, Jogaila padidino bajorijos luomo teises^1 ). Lenkų sena­\ntoriai kreipdavosi į Vyt. ir tais atvejais, kai reikėdavo išdalinti\npasaulietiškus vakansus (vietas) ir vyskupų sostus, kad jis\nprikalbėtų Jogailą nesiskubinti su paskyrimais, nepasitaręs su\nkarūnos pralotais ir didžiūnais."
+  citata_rodoma: |
+    Bet Vytautui šlėktą karštai užtariant ir
+    jam tarpininkaujant, kaip tai aiškiai pažymėta pačioje privile­
+    gijoje, Jogaila padidino bajorijos luomo teises^1 ). Lenkų sena­
+    toriai kreipdavosi į Vyt. ir tais atvejais, kai reikėdavo išdalinti
+    pasaulietiškus vakansus (vietas) ir vyskupų sostus, kad jis
+    prikalbėtų Jogailą nesiskubinti su paskyrimais, nepasitaręs su
+    karūnos pralotais ir didžiūnais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -83,7 +83,11 @@ Terminas vartojamas kaip vienas senosios kaimo buities ženklų.
     dailės kūriniams,
     pilniems
     naivumo ir tragizmo.
-  citata_rodoma: "Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją, \nliudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, \nvj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, \ndaug meldėsi, daug dirbo, daug gėrė ir lėbavo"
+  citata_rodoma: |
+    Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją,
+    liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi,
+    vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo,
+    daug meldėsi, daug dirbo, daug gėrė ir lėbavo
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

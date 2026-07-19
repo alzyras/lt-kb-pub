@@ -65,7 +65,11 @@ Nenurodyta
     XVII amžiuje prie Baltosios jūros, t. y. prie Šiaurės vandenyno,
     gyveno ši taHta, garbinusi dangaus kūnus19.
     19 Biblioteka dla čtenija, 1836. IV.
-  citata_rodoma: "Be jokios abejonės, ne tik patys seniausi, bet ir paskutiniai stab­\nmeldžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, t. y. prie Šiaurės vandenyno,\ngyveno ši taHta, garbinusi dangaus kūnus19."
+  citata_rodoma: |
+    Be jokios abejonės, ne tik patys seniausi, bet ir paskutiniai stab­
+    meldžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, t. y. prie Šiaurės vandenyno,
+    gyveno ši taHta, garbinusi dangaus kūnus19.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
 
@@ -88,7 +92,15 @@ Nenurodyta
     mų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik
     padavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška
     dvasia dar tebegyvena.
-  citata_rodoma: "„Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip\nir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias\nvargu ar būtų įmanoma suskaičiuoti, nes šis senovės tikėjimas\nbuvo užmirštas. Bet apie dangaus kūnus išliko' daugiau žinių, to­\ndėl apsakysiu, ką žinau iš senų ir protingų valstiečių pasakoji­\nmų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik\npadavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška\ndvasia dar tebegyvena“."
+  citata_rodoma: |
+    „Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip
+    ir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias
+    vargu ar būtų įmanoma suskaičiuoti, nes šis senovės tikėjimas
+    buvo užmirštas. Bet apie dangaus kūnus išliko' daugiau žinių, to­
+    dėl apsakysiu, ką žinau iš senų ir protingų valstiečių pasakoji­
+    mų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik
+    padavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška
+    dvasia dar tebegyvena“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

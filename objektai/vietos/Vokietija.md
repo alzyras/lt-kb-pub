@@ -1560,7 +1560,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     spaudimą Lietuvai kaip ranka nuėmė.
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį.
-  citata_rodoma: "Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp \nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į \nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos \nspaudimą Lietuvai kaip ranka nuėmė. \nUžtat sukruto sujudo Maskva – V."
+  citata_rodoma: |
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+    Užtat sukruto sujudo Maskva – V.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1581,7 +1587,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
     svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
-  citata_rodoma: "Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių \ndėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, \nsvarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų \nir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis."
+  citata_rodoma: |
+    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
+    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
+    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1606,7 +1616,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
     vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
     okupuotos ir dvi gretimos Baltijos valstybės.
-  citata_rodoma: "Lietuvos sovietizacija\n1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-\nvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu \nokupuotos ir dvi gretimos Baltijos valstybės."
+  citata_rodoma: |
+    Lietuvos sovietizacija
+    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
+    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
+    okupuotos ir dvi gretimos Baltijos valstybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1634,7 +1648,20 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-
     ninku – teisininkas, lietuviškų laikraščių redaktorius A. Smetona, tikintis,
     Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis)
-  citata_rodoma: "Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos \nvalstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta \nvalstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam \ngyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-\nšauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos \ngyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms. \nJeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-\nrenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu \ntai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne \ntiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-\nją/“. Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti \nrugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-\nninku – teisininkas, lietuviškų laikraščių redaktorius A."
+  citata_rodoma: |
+    Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos
+    valstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta
+    valstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam
+    gyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-
+    šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
+    gyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms.
+    Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-
+    renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu
+    tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
+    tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
+    ją/“. Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti
+    rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-
+    ninku – teisininkas, lietuviškų laikraščių redaktorius A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1668,7 +1695,17 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     gus, oro uostus, fabrikus ir kt. LAF vadovybė pernelyg pasitikėjo nacių
     Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
-  citata_rodoma: "Mičiūno reprodukcija)\n\nL I E T U V O S  I S T O R I J A\n196\nAktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš \nVokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis \ndėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą, \nbūsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su \nAbveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-\ngus, oro uostus, fabrikus ir kt."
+  citata_rodoma: |
+    Mičiūno reprodukcija)
+
+    L I E T U V O S  I S T O R I J A
+    196
+    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
+    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
+    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
+    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
+    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
+    gus, oro uostus, fabrikus ir kt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1692,7 +1729,14 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
     testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
     likybę.
-  citata_rodoma: "Daugelis vyko į Vokietiją; bet kadangi ten universitetai\nbuvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.\nTais laikais būdavo labai paprastas reiškinys, kad jaunystėje\nbuvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-\ntalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-\ntestantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-\nlikybę."
+  citata_rodoma: |
+    Daugelis vyko į Vokietiją; bet kadangi ten universitetai
+    buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.
+    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
+    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
+    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
+    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
+    likybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1722,7 +1766,16 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
     tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
     tvirtintą.
-  citata_rodoma: "Atvykę taip pat Rygos miesto pasiun­\ntiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­\nterių, vyskupų ir Livonijos miestų tarpininkauti sudarant\ntaiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,\nrašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas\njį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­\nimta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­\ntį, ištisai visą abiejų besitariančių pusių priesaikomis pa­\ntvirtintą."
+  citata_rodoma: |
+    Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1741,7 +1794,10 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     tuonios sutartys ir pasiekta daugiausia. A. Voldemaras užsienio politiką
     stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
     keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.
-  citata_rodoma: "Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos \nambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-\ntuonios sutartys ir pasiekta daugiausia. A."
+  citata_rodoma: |
+    Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
+    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
+    tuonios sutartys ir pasiekta daugiausia. A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1766,7 +1822,16 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
     vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
     jungti Lietuvą personaline unija su Saksonija arba Prūsija.
-  citata_rodoma: "Kovo 23 dieną Berlyne A. Smetonos vadovau-\njama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui \nGeorgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos \nkaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-\nbę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai… \ngruodžio 11-osios rezoliucijos pagrindu. \nKonstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-\nvingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-\njungti Lietuvą personaline unija su Saksonija arba Prūsija."
+  citata_rodoma: |
+    Kovo 23 dieną Berlyne A. Smetonos vadovau-
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
+    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
+    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
+    jungti Lietuvą personaline unija su Saksonija arba Prūsija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1788,7 +1853,12 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 
     1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
     kariuomenę, kuri buvo suspiesta Pskove.
-  citata_rodoma: "000 karių. Tuo būdu surinkus pinigų, prisi-\nsamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-\ngaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),\n\n1579 m."
+  citata_rodoma: |
+    000 karių. Tuo būdu surinkus pinigų, prisi-
+    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
+    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
+
+    1579 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1812,7 +1882,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
     pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
     mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
-  citata_rodoma: "Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir \nsovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS \npasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-\nmis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai."
+  citata_rodoma: |
+    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
+    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1835,7 +1909,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: "Nega-\nlime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-\nžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje \nS."
+  citata_rodoma: |
+    Nega-
+    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
+    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
+    S.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1855,7 +1933,10 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
     tugaliją išvyko į JAV.
-  citata_rodoma: "1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-\ngeidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-\ntugaliją išvyko į JAV."
+  citata_rodoma: |
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1895,7 +1976,15 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     svarbu įkurti savo aukštąją mokyklą, kad kuo mažiausia vyktų
     mokytis svetur ir kad vietoje būtų galima paruošti didžiai rei-
     kalingų katalikų šviesuolių su aukštuoju mokslu.
-  citata_rodoma: "Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje\nbuvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-\ntalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-\ntestantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-\nlikybę. Todėl katalikų dvasininkams ir jėzuitams buvo labai\nsvarbu įkurti savo aukštąją mokyklą, kad kuo mažiausia vyktų\nmokytis svetur ir kad vietoje būtų galima paruošti didžiai rei-\nkalingų katalikų šviesuolių su aukštuoju mokslu."
+  citata_rodoma: |
+    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
+    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
+    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
+    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
+    likybę. Todėl katalikų dvasininkams ir jėzuitams buvo labai
+    svarbu įkurti savo aukštąją mokyklą, kad kuo mažiausia vyktų
+    mokytis svetur ir kad vietoje būtų galima paruošti didžiai rei-
+    kalingų katalikų šviesuolių su aukštuoju mokslu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1915,7 +2004,12 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
-  citata_rodoma: "Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-\nministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis \nokupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų \nLietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto \n(Ostlando) reicho komisariatas."
+  citata_rodoma: |
+    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
+    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
+    okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
+    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
+    (Ostlando) reicho komisariatas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1942,7 +2036,14 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     Lenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
     ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
     tuonios sutartys ir pasiekta daugiausia.
-  citata_rodoma: ")\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n159\nLenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos \nambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-\ntuonios sutartys ir pasiekta daugiausia."
+  citata_rodoma: |
+    )
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    159
+    Lenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
+    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
+    tuonios sutartys ir pasiekta daugiausia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1981,7 +2082,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     tus est [Atvyko pas popiežių, kurio
     buvo pagarbiai ir draugiškai priim­
     tas].
-  citata_rodoma: "1034-1035;\nkad Karolis Tryrietis, dar 1323 m.\nrugpjūčiui įpusėjus, buvo Vokietijo­\nje. Apie jo priėmimą popiežiaus\nrūmuose pasakoja Vygandas\nM a r b u r g a s, p."
+  citata_rodoma: |
+    1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je. Apie jo priėmimą popiežiaus
+    rūmuose pasakoja Vygandas
+    M a r b u r g a s, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1999,7 +2106,9 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
     Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
     Vokietijon. Vainikavimas susitrukdė.
-  citata_rodoma: "Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo\nVokietijon. Vainikavimas susitrukdė."
+  citata_rodoma: |
+    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
+    Vokietijon. Vainikavimas susitrukdė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2035,7 +2144,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
     lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
     nas.
-  citata_rodoma: "Neišnyko nė senas paprati-\nmas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-\nlūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-\nnas."
+  citata_rodoma: |
+    Neišnyko nė senas paprati-
+    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
+    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
+    nas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2061,7 +2174,10 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
-  citata_rodoma: "Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d."
+  citata_rodoma: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2080,7 +2196,12 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
     diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
     statuso (panašaus į Dancigo (dabar Gdanskas)).
-  citata_rodoma: "Tiesa, Versalio \ntaikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-\nvos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-\ndiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ \nstatuso (panašaus į Dancigo (dabar Gdanskas))."
+  citata_rodoma: |
+    Tiesa, Versalio
+    taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
+    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2122,7 +2243,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
     žmogaus pastangomis. Neverta dėl to stebėtis. Dievas jam buvo suteikęs tokių malonių,
     kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
-  citata_rodoma: "Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.\nJo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame\nOrdine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos\nšeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir\npats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų\nšio Ordino vienuoli© apsiaustą."
+  citata_rodoma: |
+    Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
+    Jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame
+    Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos
+    šeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
+    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
+    šio Ordino vienuoli© apsiaustą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

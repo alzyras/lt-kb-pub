@@ -84,7 +84,8 @@ media_all_json: |-
     vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
     siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stoji-
     mui į NATO.
-  citata_rodoma: "vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą"
+  citata_rodoma: |
+    vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

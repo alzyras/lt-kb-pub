@@ -60,7 +60,10 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
-  citata_rodoma: "Per 20 metų iš\nšalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,\nvykę į Palestiną, Pietų Afrikos Sąjungą ir JAV."
+  citata_rodoma: |
+    Per 20 metų iš
+    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
+    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

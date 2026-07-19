@@ -63,7 +63,13 @@ Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių b
     tės Martiniškių dvare išsidėsčiusią lenkų
     bateriją. Lenkai, nebeatlaikydami lietuvių
     puolimo, ėmė skubiai trauktis iš Giedraičių.
-  citata_rodoma: "Lenkų artilerija\ntrikdė lietuvių veiksmus, tačiau netru-\nkus 6-oji lietuvių baterija išvedė iš rikiuo-\ntės Martiniškių dvare išsidėsčiusią lenkų\nbateriją. Lenkai, nebeatlaikydami lietuvių\npuolimo, ėmė skubiai trauktis iš Giedraičių."
+  citata_rodoma: |
+    Lenkų artilerija
+    trikdė lietuvių veiksmus, tačiau netru-
+    kus 6-oji lietuvių baterija išvedė iš rikiuo-
+    tės Martiniškių dvare išsidėsčiusią lenkų
+    bateriją. Lenkai, nebeatlaikydami lietuvių
+    puolimo, ėmė skubiai trauktis iš Giedraičių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

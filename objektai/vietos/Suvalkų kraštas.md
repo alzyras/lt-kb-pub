@@ -122,7 +122,15 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
     mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
     vienkiemiais XIX amž., o kitur jie dar nebaigė skirstytis nė dabar.
-  citata_rodoma: "Pati\nreforma iš pradžių buvo padaryta tik vakarinėje valstybės da-\nlyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose\nsrityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien\nsavo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.\nvidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki\nmūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė\nvienkiemiais XIX amž."
+  citata_rodoma: |
+    Pati
+    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
+    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
+    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
+    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
+    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
+    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
+    vienkiemiais XIX amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -162,7 +170,10 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
     daugiau nesitikėjo gauti.
-  citata_rodoma: "Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,\nnes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko\ndaugiau nesitikėjo gauti."
+  citata_rodoma: |
+    Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
+    nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
+    daugiau nesitikėjo gauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +194,10 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     riomis. Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.
     visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
     tingos ir Telšių apskričių dalys.
-  citata_rodoma: "Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.\nvisas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-\ntingos ir Telšių apskričių dalys."
+  citata_rodoma: |
+    Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.
+    visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
+    tingos ir Telšių apskričių dalys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

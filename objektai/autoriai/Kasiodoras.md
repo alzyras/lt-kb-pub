@@ -158,7 +158,14 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
     kuriuos mes vadiname normanais, jos turi šiaurinę dalį
     ir visas ten esančias salas; į pietus yra slavai ir estai
     (Aisti vietoj Aesti), o už jų gyvena kitos tautos“6.
-  citata_rodoma: "80\nVėlesni padavimai. Apie estus nėra žinių nuo Tacito\nlaikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­\ntijos jūros pakrančių gyventojais, kurie prekiavo gintaru\nir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,\ndaugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­\njęs, mini estus, kurie taip pat gyveną jūros pakrantėje3."
+  citata_rodoma: |
+    80
+    Vėlesni padavimai. Apie estus nėra žinių nuo Tacito
+    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
+    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
+    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
+    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
+    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -180,7 +187,11 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
     didžiulė vadinasi Estlandija1. Čia neminėsime
     skandinavų keliautojo Vulfstano pasakojimo apie Estiją;
     čia jis apsilankė IX amžiaus antrojoje pusėje.
-  citata_rodoma: "2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie\ntai\nšiame veikale dar bus\nkalbama vėliau."
+  citata_rodoma: |
+    2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
+    tai
+    šiame veikale dar bus
+    kalbama vėliau.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -201,7 +212,16 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
     prašytas pagelbėti, išvyko pats ir nugalėjo rugius, kurių
     karalius žuvo kautynėse, o jo sūnus Frederikas išsigel­
     bėjo pabėgdamas iš krašto.
-  citata_rodoma: "Ostrogaias reiškia rytų galą.\n3 Šie dokumentai yra Kasiodoro laiškų rinkinyje.\n\n## Puslapis 319\n\nTokių santykių norėjo Odoakras, kuris nesiekė nieko\nkito, o tik stengėsi padidinti gerovę savo naujos valsty­\nbės, kur jis išsaugojo senus įstatymus, institucijas ir\nkitą civilinę tvarką."
+  citata_rodoma: |
+    Ostrogaias reiškia rytų galą.
+    3 Šie dokumentai yra Kasiodoro laiškų rinkinyje.
+
+    ## Puslapis 319
+
+    Tokių santykių norėjo Odoakras, kuris nesiekė nieko
+    kito, o tik stengėsi padidinti gerovę savo naujos valsty­
+    bės, kur jis išsaugojo senus įstatymus, institucijas ir
+    kitą civilinę tvarką.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

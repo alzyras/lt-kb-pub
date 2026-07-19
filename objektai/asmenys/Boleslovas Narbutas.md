@@ -100,7 +100,11 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
     gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
     tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
     tai būtų padarę rašydami savotiškoje kalboje“15.
-  citata_rodoma: "Tai buvo didelis smūgis tėvui. Sėkmingai iš­\nvengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.\npavasarį. 1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­\nma: į miškus išėjo sūnūs Boleslovas, Pranciškus."
+  citata_rodoma: |
+    Tai buvo didelis smūgis tėvui. Sėkmingai iš­
+    vengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.
+    pavasarį. 1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
+    ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

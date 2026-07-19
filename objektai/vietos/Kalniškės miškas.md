@@ -167,7 +167,19 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     220-asis Kutuzovo ordino pulkas. Jam
     vadovavo majoras Jacenka ir štabo virši-
     ninkas majoras Buiničius.
-  citata_rodoma: "1945 m.\ngegužės 16 dienos mūšyje\n\ndalyvavo apie 90 partizanų\n\nNKVD pajėgos\n\nPartizanus kalniškės miške puolė 1-ojo\nPabaltijo fronto NKvp kariuomenės\n220-asis Kutuzovo ordino pulkas. Jam\nvadovavo majoras Jacenka ir štabo virši-\nninkas majoras Buiničius."
+  citata_rodoma: |
+    1945 m.
+    gegužės 16 dienos mūšyje
+
+    dalyvavo apie 90 partizanų
+
+    NKVD pajėgos
+
+    Partizanus kalniškės miške puolė 1-ojo
+    Pabaltijo fronto NKvp kariuomenės
+    220-asis Kutuzovo ordino pulkas. Jam
+    vadovavo majoras Jacenka ir štabo virši-
+    ninkas majoras Buiničius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

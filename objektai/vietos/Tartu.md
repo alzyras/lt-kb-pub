@@ -152,7 +152,12 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
     įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
     stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
-  citata_rodoma: "Tuo-\njau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-\nimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo\nįkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo\nstiprios katalikybės atramos tuose nekatalikiškuose kraštuose."
+  citata_rodoma: |
+    Tuo-
+    jau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-
+    imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
+    įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
+    stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

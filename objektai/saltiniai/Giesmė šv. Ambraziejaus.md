@@ -80,7 +80,9 @@ Dusburgietis teigia, kad mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
     bemintą. Šie atsakė: „Žuvimis“. Mat jie turėję  viduryje pilies 20 žingsnių ilgio ir
     beveik tokio pat pločio žuvų tvenkinį, jame buvę tiek žuvies, kad jos pakako visiems
     apsiaustiesiems maitintis.
-  citata_rodoma: "Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.\nAmbraziejaus”)."
+  citata_rodoma: |
+    Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
+    Ambraziejaus”).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -87,7 +87,15 @@ Nenurodyta
     lium Poznanės vaivadą
     Stanislovą Leščin-
     skį.
-  citata_rodoma: "Pagaliau\n1704 m. Karolis privertė\nsušaukti elekcinį seimą, ku-\nris, apstatytas švedų ka-\nriuomene, paskelbė kara-\nlium Poznanės vaivadą\nStanislovą Leščin-\nskį."
+  citata_rodoma: |
+    Pagaliau
+    1704 m. Karolis privertė
+    sušaukti elekcinį seimą, ku-
+    ris, apstatytas švedų ka-
+    riuomene, paskelbė kara-
+    lium Poznanės vaivadą
+    Stanislovą Leščin-
+    skį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

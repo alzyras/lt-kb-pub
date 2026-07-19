@@ -81,7 +81,15 @@ Narbutas posakį „Gamtoje nėra nieko neišbaigto“ pateikia kaip senovės li
     dies prietarų ir blogų papročių, perimtų iš sugedusios pasau­
     lio visuomenės, idant būtų galima atgimti nekaltam, tobulam,
     pasišventusiam žmogui.
-  citata_rodoma: "Gamtoje nėra nieko neišbaigto, išskyrus pačią pasaulio erdvę. Ir\nsaulė, ir mėnuo, ir žvaigždės, ir žemė turi savo pabaigą, nes turė­\njo pradžią. Tik vienas Dievas, kuris nėra niekieno sukurtas, ku­\nrio būstas yra toji begalinė erdvė, tik jis vienas ir tik toji erdvė\nneturi pabaigos“. Tai tokį astronomijos supratimą, kaip rašo ma­\nno korespondentas, turėjo senovės lietuviai, o mums jį priminė\ntas seneliukas . 3\n3 Laiško, gauto iš Raseinių, fragmentas*."
+  citata_rodoma: |
+    Gamtoje nėra nieko neišbaigto, išskyrus pačią pasaulio erdvę. Ir
+    saulė, ir mėnuo, ir žvaigždės, ir žemė turi savo pabaigą, nes turė­
+    jo pradžią. Tik vienas Dievas, kuris nėra niekieno sukurtas, ku­
+    rio būstas yra toji begalinė erdvė, tik jis vienas ir tik toji erdvė
+    neturi pabaigos“. Tai tokį astronomijos supratimą, kaip rašo ma­
+    no korespondentas, turėjo senovės lietuviai, o mums jį priminė
+    tas seneliukas . 3
+    3 Laiško, gauto iš Raseinių, fragmentas*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -169,7 +169,20 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
     20
     Kotzebue Switrigail, p. 89.
-  citata_rodoma: "Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į \nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą \nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė \nšios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­\ngimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­\ntuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė \nnetoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai \npragaištingų konkurentų, varžybas. Tas įsimintinas mūšis\n20\nKotzebue Switrigail, p."
+  citata_rodoma: |
+    Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
+    20
+    Kotzebue Switrigail, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -216,7 +229,25 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     dalykas: jeigu Kazimieras nebūtų paskubėjęs, būtų nu­
     kentėję ir karalius, ir susitarimai, mat kitos grupuotės
     vadovas būtų ginklu pasigrobęs valdžią.
-  citata_rodoma: "Boleslovas, bijodamas, kad prieš jį nebūtų imtasi\nkokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją. Tuo\n46 9\n\n## Puslapis 468\n\ntarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­\nsiais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,\npaliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­\ntais raitelių. Netikėtai miš-\nA tle id ž ia\nn e tik ė ta i\nkuose netoli Rūdninkų mies-\np a k e lė je\ns u tik ta m\ntelio jis užšoko ant Kazimiero\nM y k o lu i\npalydos."
+  citata_rodoma: |
+    Boleslovas, bijodamas, kad prieš jį nebūtų imtasi
+    kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją. Tuo
+    46 9
+
+    ## Puslapis 468
+
+    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
+    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
+    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
+    tais raitelių. Netikėtai miš-
+    A tle id ž ia
+    n e tik ė ta i
+    kuose netoli Rūdninkų mies-
+    p a k e lė je
+    s u tik ta m
+    telio jis užšoko ant Kazimiero
+    M y k o lu i
+    palydos.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -282,7 +313,32 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     nam len k u i n e k e tin ą s atsa k y ti teisės b ū ti jo palydovu,
     bet tokiu svarbiu L ietu v ai reikalu jis nieko n eg alįs nu­
     tarti be L ietuvos sen ato žinios ir p ritarim o .
-  citata_rodoma: "K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­\ngužės pabaigoje, Mykolas su\n1448 m e ta i\nsk itais įsiv eržė į Severską ir,\nSum u ša M y k o lą  Se-\nsum ušęs greitosiom is sutelk-\nv e r s k e\ntas jėg as, jam  p asto ju sias k e ­\nlią, p aėm ė Brianską, Naugar-\ndą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,\ndar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė\nį Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį\nkarą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų\nžemių. Niekur neberasdamas užtarėjų, M ykolas pasp­\nruko į Maskvą, kur, priim-\nM y k o lo  m irtis\ntas į vienuolyną, kurį m etą\nčia gyv en o  kaip paprastas\n488\n\n## Puslapis 487\n\nžmogus, o galop ir galą gavo, vienuolyno igumenui da­\nvus apnuodytos duonos, kurią krikščionys paprastai var­\ntoja šventajai mišių aukai."
+  citata_rodoma: |
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

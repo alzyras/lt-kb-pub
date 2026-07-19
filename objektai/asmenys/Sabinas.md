@@ -67,7 +67,15 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
     taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į
     Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
     Libencelės su visa jų šeimyna.
-  citata_rodoma: "Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose\nvietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš\nneapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu\nišsirinko vyrą, vardu Sabinas. Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,\nTrinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,\ntaip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į\nBartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš\nLibencelės su visa jų šeimyna."
+  citata_rodoma: |
+    Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose
+    vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš
+    neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu
+    išsirinko vyrą, vardu Sabinas. Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,
+    Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,
+    taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į
+    Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
+    Libencelės su visa jų šeimyna.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

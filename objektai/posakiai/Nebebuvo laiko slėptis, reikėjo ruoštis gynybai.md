@@ -59,7 +59,10 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
     skraidyti virš miško. Nebebuvo laiko slėp-
     tis, reikėjo ruoštis gynybai. Mūšis prasi-
     dėjo ankstų rytą.
-  citata_rodoma: "Nebebuvo laiko slėp-\ntis, reikėjo ruoštis gynybai. Mūšis prasi-\ndėjo ankstų rytą."
+  citata_rodoma: |
+    Nebebuvo laiko slėp-
+    tis, reikėjo ruoštis gynybai. Mūšis prasi-
+    dėjo ankstų rytą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

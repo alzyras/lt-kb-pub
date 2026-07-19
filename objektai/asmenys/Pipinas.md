@@ -127,7 +127,13 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
     uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
     Kristaus tikėjimą222.
-  citata_rodoma: "Neilgai trukus  jis išdavė\nsavo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės\nir ten po medžiu pakorė221. Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;\nkiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo\nuolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė\nKristaus tikėjimą222."
+  citata_rodoma: |
+    Neilgai trukus  jis išdavė
+    savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
+    ir ten po medžiu pakorė221. Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;
+    kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
+    uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
+    Kristaus tikėjimą222.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -150,7 +156,14 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:
     išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
-  citata_rodoma: "Aprašydamas vieno\niš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,\njog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po\nmedžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija,\nir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:\nišpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,\nbuvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną."
+  citata_rodoma: |
+    Aprašydamas vieno
+    iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,
+    jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
+    medžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija,
+    ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:
+    išpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
+    buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -171,7 +184,11 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     išvengti mirties, perdavė jiems savo pilį, o vėliau, kai kitos pilies pilėnai po gėrynių
     gulėjo girti kas sau, nuvedė ten brolius su kariuomene, kurie juos smarkiai užpuolė,
     vienus išžudė, kitus paėmė į nelaisvę, o pilį pavertė pelenais.
-  citata_rodoma: "vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis\nplėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę\narba nužudomas. Vieni krikščionis puolė iš aukščiau pastatytos pilies, kiti — iš žemiau,\no šis — iš esančios per patį vidurį."
+  citata_rodoma: |
+    vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis
+    plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę
+    arba nužudomas. Vieni krikščionis puolė iš aukščiau pastatytos pilies, kiti — iš žemiau,
+    o šis — iš esančios per patį vidurį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -113,7 +113,21 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
     tuvos Didžiosios Kunigaikštystės stalininkui Dubrovskiui
     ir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai
     ištikimų ir mums mielų.
-  citata_rodoma: "Duota Vilniuje, penktadienį, rytojaus dieną po \nViešpaties žengimo į dangų šventės, tūkstantis penki šimtai \nketuriasdešimt antraisiais Viešpaties metais ir mūsų kara­\nlystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­\ndešimt šeštaisiais. Dalyvaujant didžiai gerbiamiems Kristu­\nje tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui \nPovilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­\nlovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui \nHlebavičiui, Naugarduko vaivadai Stanislovui Goštautui, \nVitebsko vaivadai Motiejui Klokavičiui, rūmų maršalkai Jo­\nnui Zabžezinskiui, raikytojui Jurgiui Astikaičiui, mūsų Lie­\ntuvos Didžiosios Kunigaikštystės stalininkui Dubrovskiui \nir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai \ništikimų ir mums mielų."
+  citata_rodoma: |
+    Duota Vilniuje, penktadienį, rytojaus dieną po
+    Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai
+    keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­
+    lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­
+    dešimt šeštaisiais. Dalyvaujant didžiai gerbiamiems Kristu­
+    je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui
+    Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­
+    lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui
+    Hlebavičiui, Naugarduko vaivadai Stanislovui Goštautui,
+    Vitebsko vaivadai Motiejui Klokavičiui, rūmų maršalkai Jo­
+    nui Zabžezinskiui, raikytojui Jurgiui Astikaičiui, mūsų Lie­
+    tuvos Didžiosios Kunigaikštystės stalininkui Dubrovskiui
+    ir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai
+    ištikimų ir mums mielų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +150,12 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
     tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: "Pirmiausia Maskvoje (1494 m.) \nbalandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­\ntuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­\nlovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­\nkė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje."
+  citata_rodoma: |
+    Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -70,7 +70,12 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
     kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
     šui padegus pilį, turėję pasiduoti.
-  citata_rodoma: "Poetas\nišskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar\npaėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­\nkaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­\nšui padegus pilį, turėję pasiduoti."
+  citata_rodoma: |
+    Poetas
+    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
+    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
+    kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
+    šui padegus pilį, turėję pasiduoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

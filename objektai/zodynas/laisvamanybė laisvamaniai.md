@@ -61,7 +61,11 @@ media_all_json: |-
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai.
-  citata_rodoma: "Dr. Šliūpas visą\ngyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-\nsipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-\nnieji tautininkai ir laisvamaniai."
+  citata_rodoma: |
+    Dr. Šliūpas visą
+    gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
+    sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
+    nieji tautininkai ir laisvamaniai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -79,7 +83,10 @@ media_all_json: |-
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai. Bet šitos dvi savybės ne vi-
     suose vienodai sutapo.
-  citata_rodoma: "Todėl apie jį susibūrė griežtes-\nnieji tautininkai ir laisvamaniai. Bet šitos dvi savybės ne vi-\nsuose vienodai sutapo."
+  citata_rodoma: |
+    Todėl apie jį susibūrė griežtes-
+    nieji tautininkai ir laisvamaniai. Bet šitos dvi savybės ne vi-
+    suose vienodai sutapo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

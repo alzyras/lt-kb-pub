@@ -85,7 +85,8 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
     niai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas
     stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
     esant nesaugią.
-  citata_rodoma: "stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė"
+  citata_rodoma: |
+    stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

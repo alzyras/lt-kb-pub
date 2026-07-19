@@ -119,7 +119,13 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
     ją norėjo įdėti į savo „Monumentą Prussica“.
     Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
     gamtos tyrinėtojai Klaprotas ir Hagenas.
-  citata_rodoma: "Labiausiai jį primena skruzdėliniai gyvasakiai; gel­\ntonas ir baltas gintaras kvepia skirtingai. Smalsuoliams\nrekomenduojama paskaityti knygelę „Ja. Wigancli Epis-\ncopi Pomesatiiensis de Succino, alce et herbis iri Prussia\nnascentibus libri\", išleistą 1590 metais Jenoje; Bajeris\nją norėjo įdėti į savo „Monumentą Prussica“."
+  citata_rodoma: |
+    Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
+    tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams
+    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

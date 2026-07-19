@@ -63,7 +63,8 @@ Dusburgietis teigia, kad nalepa J.
   citata_originali: |
     Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
     Nalepa J..
-  citata_rodoma: "Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86."
+  citata_rodoma: |
+    Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

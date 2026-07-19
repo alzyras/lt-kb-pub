@@ -93,7 +93,8 @@ Ažytė šiame šaltinyje yra upelis.
     Mūsų upelis Ažytė šią gadynę patvinsta pavasariais ir rudeniais, gi
     per vasarą esti sausas; o dar neseniai, XIX amžiaus viduryje, maudė­
     si joje gyvuliai ir žmonės.
-  citata_rodoma: "Mūsų upelis Ažytė šią gadynę patvinsta pavasariais ir rudeniais, gi per vasarą esti sausas;"
+  citata_rodoma: |
+    Mūsų upelis Ažytė šią gadynę patvinsta pavasariais ir rudeniais, gi per vasarą esti sausas;
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -113,7 +114,8 @@ Ažytė šiame šaltinyje yra upelis.
     didelis akmuo, prie kurio galėdavome prieiti tik tada, kai vanduo nu­
     sekdavo; jis gulėjo dešinėje upelio pusėje.
     Šiandien Ažytė sausa.
-  citata_rodoma: "Šiandien Ažytė sausa."
+  citata_rodoma: |
+    Šiandien Ažytė sausa.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -135,7 +137,8 @@ Ažytė šiame šaltinyje yra upelis.
     Tuomet užneštą medį pamatome iš-
     lindusį iš upės kranto.
     Augdami maudėmės Ažytėje.
-  citata_rodoma: "Augdami maudėmės Ažytėje."
+  citata_rodoma: |
+    Augdami maudėmės Ažytėje.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

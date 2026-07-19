@@ -90,7 +90,17 @@ Nenurodyta
     ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:
     išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
-  citata_rodoma: "Nutyli lenkų feodalinės ekspansijos  į prūsų žemes\nbandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo\nžemės dovanojimo charakterio, apimties ir t. t.142\n  Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas. Aprašydamas vieno\niš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,\njog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po\nmedžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija,\nir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:\nišpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,\nbuvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną."
+  citata_rodoma: |
+    Nutyli lenkų feodalinės ekspansijos  į prūsų žemes
+    bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
+    žemės dovanojimo charakterio, apimties ir t. t.142
+      Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas. Aprašydamas vieno
+    iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,
+    jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
+    medžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija,
+    ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:
+    išpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
+    buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

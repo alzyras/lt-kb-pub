@@ -74,7 +74,10 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 
     p. 89, „DVIRANKIAI LANDSKNECHTŲ KALAVIJAI“, Paulius Bugys, Vidmantas Airini,
     Karolis Zikaras.
-  citata_rodoma: "p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.\n\np."
+  citata_rodoma: |
+    p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -90,7 +93,10 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
     P. 93, „RAPYROS“, Vidmantas Airini.
 
     p. 101, „PISTOLETAS IR RATUKINE SPYNA‘, Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: "P. 93, „RAPYROS“, Vidmantas Airini.\n\np."
+  citata_rodoma: |
+    P. 93, „RAPYROS“, Vidmantas Airini.
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

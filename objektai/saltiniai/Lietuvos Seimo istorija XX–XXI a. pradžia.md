@@ -66,7 +66,9 @@ Lietuvos Seimo istorija: XX–XXI a.
     nius, 2005.
     Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
     XX–XXI a. pradžia. Vilnius, 2009.
-  citata_rodoma: "Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija: \nXX–XXI a. pradžia. Vilnius, 2009."
+  citata_rodoma: |
+    Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
+    XX–XXI a. pradžia. Vilnius, 2009.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

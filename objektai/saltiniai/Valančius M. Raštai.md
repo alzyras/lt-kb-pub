@@ -77,7 +77,10 @@ Dusburgietis teigia, kad 570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pi
     Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir
     sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
     išvaduoti.
-  citata_rodoma: "570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės\npiliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių\nrj. išlikę Girgždutės  ir Pagirgždūčio piliakalniai (LAA, 2, p. 65, 121— 122)."
+  citata_rodoma: |
+    570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės
+    piliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių
+    rj. išlikę Girgždutės  ir Pagirgždūčio piliakalniai (LAA, 2, p. 65, 121— 122).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

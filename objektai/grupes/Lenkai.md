@@ -4078,7 +4078,11 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     ne tik Mozūrus, bet ir tolimąją Krokuvą. Mozūrų kunigaikštis
     (Boleslovas II), norėdamas apsisaugoti nuo Traidenio puolimų,
     vedė net jo dukterį.
-  citata_rodoma: "Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo\nne tik Mozūrus, bet ir tolimąją Krokuvą. Mozūrų kunigaikštis\n(Boleslovas II), norėdamas apsisaugoti nuo Traidenio puolimų,\nvedė net jo dukterį."
+  citata_rodoma: |
+    Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
+    ne tik Mozūrus, bet ir tolimąją Krokuvą. Mozūrų kunigaikštis
+    (Boleslovas II), norėdamas apsisaugoti nuo Traidenio puolimų,
+    vedė net jo dukterį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4144,7 +4148,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
     belaisvius ir „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“ būtina rašyti su ka-
     butėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare.
-  citata_rodoma: "Su-\ntarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti \nLietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų \nbelaisvius ir „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“ būtina rašyti su ka-\nbutėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare."
+  citata_rodoma: |
+    Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
+    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“ būtina rašyti su ka-
+    butėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4160,7 +4169,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     Tuo lemtingu momentu Jungingenas į kautynes
     dar pasiuntė 16 rezerve stovėjusių pulkų. Sąjungininkų eilės su­
     svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas.
-  citata_rodoma: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
+  citata_rodoma: |
+    Vyriausioji Lenkijos vėliava pateko į priešų rankas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4205,7 +4215,17 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
-  citata_rodoma: "Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos \nveiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos \nLenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-\nvon, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu \natveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju – \ntai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur, \nkitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį \nsupo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos \nvalstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-\nlemta valstybių sąveika naikino Lietuvos valstybingumą."
+  citata_rodoma: |
+    Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
+    veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos
+    Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-
+    von, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu
+    atveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju –
+    tai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,
+    kitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį
+    supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
+    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4250,7 +4270,14 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
     krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
     pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
-  citata_rodoma: "Kartu su juo atvyko žavesiu ir\ntauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­\nčionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno\narkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­\nčiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­\nkrikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų\npirmaujančios anuomet Šiaurėje valstybės valdovų svita."
+  citata_rodoma: |
+    Kartu su juo atvyko žavesiu ir
+    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
+    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
+    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
+    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
+    krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
+    pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4271,7 +4298,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
     kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
     Širvintų ir Giedraičių.
-  citata_rodoma: "L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų \nSąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį \nželigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos \nkariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie \nŠirvintų ir Giedraičių."
+  citata_rodoma: |
+    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
+    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
+    želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
+    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
+    Širvintų ir Giedraičių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4294,7 +4326,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir
     Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-
     vimo sutartis.
-  citata_rodoma: "Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus \nkrašto lenkų komunistinių funkcionierių planų (Maskvos inspiruota \nakcija) turėti savo, jų supratimu, teritorinę autonomiją (į ją turėjo įeiti \nVilniaus apskritis, apimanti lenkiškus Vilniaus ir Šalčininkų rajonus), \nLietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai \nsu Lenkija nepablogėjo – Varšuva suprato, kas ten suka reikalus. 1994 m."
+  citata_rodoma: |
+    Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus
+    krašto lenkų komunistinių funkcionierių planų (Maskvos inspiruota
+    akcija) turėti savo, jų supratimu, teritorinę autonomiją (į ją turėjo įeiti
+    Vilniaus apskritis, apimanti lenkiškus Vilniaus ir Šalčininkų rajonus),
+    Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai
+    su Lenkija nepablogėjo – Varšuva suprato, kas ten suka reikalus. 1994 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4320,7 +4358,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
     lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
     pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
-  citata_rodoma: ") pradeda\ndalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­\nvos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­\nlyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę\npamoką Vytautas gavo viename mūšyje su kryžiuočiais."
+  citata_rodoma: |
+    ) pradeda
+    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
+    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
+    lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
+    pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4361,7 +4404,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     kitaip, kaip baimė, kad Vytautas, sumušęs totorius, neatkreip­
     tų savo ginklo prieš Lenkiją. Užtai nenuostabu, kad Jadvygos,
     įtaka padarė tai, kad lenkai šiame žygyje beveik nedalyvavo.
-  citata_rodoma: "Jadvygos ir lenkų (ne visų) toks neigiamas nu­\nsistatymas šiuo laiku Vytauto atžvilgiu gali būti suprastas ne\nkitaip, kaip baimė, kad Vytautas, sumušęs totorius, neatkreip­\ntų savo ginklo prieš Lenkiją. Užtai nenuostabu, kad Jadvygos,\nįtaka padarė tai, kad lenkai šiame žygyje beveik nedalyvavo."
+  citata_rodoma: |
+    Jadvygos ir lenkų (ne visų) toks neigiamas nu­
+    sistatymas šiuo laiku Vytauto atžvilgiu gali būti suprastas ne
+    kitaip, kaip baimė, kad Vytautas, sumušęs totorius, neatkreip­
+    tų savo ginklo prieš Lenkiją. Užtai nenuostabu, kad Jadvygos,
+    įtaka padarė tai, kad lenkai šiame žygyje beveik nedalyvavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4435,7 +4483,20 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     dieną Vilniuj; originalas žuvęs.
     c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
     dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
-  citata_rodoma: "Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).\nVytautas pradžioj savo akto primena, kad kai lenkai pasi­\nkvietė į savo sostą Jogailą, tada jis jam kaip karaliui Vladislovui,\nlenkų Karūnai ir tos karalystės didikams gryna mintimi, neatšau­\nkiamu noru, nei priverstas, nei suklaidintas, abiem pusėm sutin­\nkant, tvirtai bei laisvai prižadėjo ir tai dokumentu patvirtino, kad\nniekados Jogailos karalystės ir karūnos gyventojų neapleis, bet\nvisados visa galybe ir jėga jų laikysis ir juos nuo priešų gins.\nIr dabar, kada Jogaila jam atiduoda aukščiausią savo valdžią\niki gyvos galvos (ad tempora vite nostre) visose Lietuvos kuni­\ngaikštijos žemėse, jis, norėdamas dar labiau gerbti jį, karūną,\n\n(^1) ) a) Vytauto dokumento, duoto 1401 m."
+  citata_rodoma: |
+    Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
+    Vytautas pradžioj savo akto primena, kad kai lenkai pasi­
+    kvietė į savo sostą Jogailą, tada jis jam kaip karaliui Vladislovui,
+    lenkų Karūnai ir tos karalystės didikams gryna mintimi, neatšau­
+    kiamu noru, nei priverstas, nei suklaidintas, abiem pusėm sutin­
+    kant, tvirtai bei laisvai prižadėjo ir tai dokumentu patvirtino, kad
+    niekados Jogailos karalystės ir karūnos gyventojų neapleis, bet
+    visados visa galybe ir jėga jų laikysis ir juos nuo priešų gins.
+    Ir dabar, kada Jogaila jam atiduoda aukščiausią savo valdžią
+    iki gyvos galvos (ad tempora vite nostre) visose Lietuvos kuni­
+    gaikštijos žemėse, jis, norėdamas dar labiau gerbti jį, karūną,
+
+    (^1) ) a) Vytauto dokumento, duoto 1401 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4460,7 +4521,11 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     sių“ daliniai. L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
     Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
     želigovskininkų judėjimą į Lietuvos teritoriją.
-  citata_rodoma: "Želigovskio vietinių Vilnijos „lietuvių ir baltaru-\nsių“ daliniai. L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų \nSąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį \nželigovskininkų judėjimą į Lietuvos teritoriją."
+  citata_rodoma: |
+    Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
+    sių“ daliniai. L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
+    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
+    želigovskininkų judėjimą į Lietuvos teritoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4522,7 +4587,15 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik
     teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva-
     rininkų privilegijoms.
-  citata_rodoma: "Kadangi Lenkijos ir Lietu-\nvos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams \nvis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo \nidėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-\npriklausomybės siekis etnografiniu pagrindu. Lietuviakalbės Lietuvos \nkūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik \nteisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva-\nrininkų privilegijoms."
+  citata_rodoma: |
+    Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu. Lietuviakalbės Lietuvos
+    kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik
+    teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva-
+    rininkų privilegijoms.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4543,7 +4616,11 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     kronistas perduoda ir lenkų tezes, pvz., iš Dlugošo kronikos atsis­
     pindi Žalgirio kautynių aprašymas, Vytauto D. karaliaus karūnos
     byla (1429-1430).
-  citata_rodoma: "Bet pasitaiko, kad kartais\nkronistas perduoda ir lenkų tezes, pvz., iš Dlugošo kronikos atsis­\npindi Žalgirio kautynių aprašymas, Vytauto D. karaliaus karūnos\nbyla (1429-1430)."
+  citata_rodoma: |
+    Bet pasitaiko, kad kartais
+    kronistas perduoda ir lenkų tezes, pvz., iš Dlugošo kronikos atsis­
+    pindi Žalgirio kautynių aprašymas, Vytauto D. karaliaus karūnos
+    byla (1429-1430).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4608,7 +4685,11 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
     arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
     tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
-  citata_rodoma: "Tiesa, \nnutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ \narba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų \ntautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m."
+  citata_rodoma: |
+    Tiesa,
+    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
+    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
+    tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4702,7 +4783,17 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     o Vilnius – lenkiškas miestas. Kadangi iki XX a. nė viena pusė neneigė,
     kad Vilnius yra istorinė LDK sostinė, lietuviai atkakliai kartojo istorinius
     argumentus.
-  citata_rodoma: "Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus \nVilnius 1916 m. – lietuvių ir lenkų disputo epicentras. \nJ. Bulhako nuotrauka\n\nL I E T U V O S  I S T O R I J A\n140\njuos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-\nsyti visa Rytų Lietuva. Lietuviai motyvavo, kad tai yra jų istorinė terito-\nrija, lenkai aiškino, kad Vilnijos gyventojai daugiausia kalba lenkiškai, \no Vilnius – lenkiškas miestas. Kadangi iki XX a."
+  citata_rodoma: |
+    Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
+    Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.
+    J. Bulhako nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    140
+    juos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-
+    syti visa Rytų Lietuva. Lietuviai motyvavo, kad tai yra jų istorinė terito-
+    rija, lenkai aiškino, kad Vilnijos gyventojai daugiausia kalba lenkiškai,
+    o Vilnius – lenkiškas miestas. Kadangi iki XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4752,7 +4843,18 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     pasišventusias mergeles jėga vilko iš klauzūrų ir begėdiškai niekino. Trumpai kalbant,
     niekas nestengtų surašyti, kokių baisių piktadarybių ir siaubingų skriaudų jie padarė
     tikėjimui bei tikintiesiems.
-  citata_rodoma: "Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir\nnesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis\nįžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių\nnuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus\nišsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo\npaskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos\ndobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,\nnetekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,\nPlocku vadinama163. Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,\nneskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų\nir griežtos klauzūros moterų vienuolynų."
+  citata_rodoma: |
+    Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
+    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
+    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
+    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
+    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
+    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
+    dobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
+    netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
+    Plocku vadinama163. Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,
+    neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų
+    ir griežtos klauzūros moterų vienuolynų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -4794,7 +4896,10 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     dešimt žymių Ordino riterių. Lenkai tvirtina, kad Vorsklos
     žygis palaidojo tris ketvirtąsias Vytauto kariuomenės dalis.
     Bet šitas mūšis nepigiai apsėjo ir totoriams.
-  citata_rodoma: "Lenkai tvirtina, kad Vorsklos\nžygis palaidojo tris ketvirtąsias Vytauto kariuomenės dalis.\nBet šitas mūšis nepigiai apsėjo ir totoriams."
+  citata_rodoma: |
+    Lenkai tvirtina, kad Vorsklos
+    žygis palaidojo tris ketvirtąsias Vytauto kariuomenės dalis.
+    Bet šitas mūšis nepigiai apsėjo ir totoriams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4835,7 +4940,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     o realiai – konfederacinė valstybė, abi sąjungos narės vykdė bendrą už-
     sienio politiką.
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.
-  citata_rodoma: "Taigi len-\nkai norėjo unitarinės valstybės, tačiau teoriškai buvo sukurta federacinė, \no realiai – konfederacinė valstybė, abi sąjungos narės vykdė bendrą už-\nsienio politiką. \nŠią teisinę ir politinę situaciją keitė LDK elito lenkėjimas."
+  citata_rodoma: |
+    Taigi len-
+    kai norėjo unitarinės valstybės, tačiau teoriškai buvo sukurta federacinė,
+    o realiai – konfederacinė valstybė, abi sąjungos narės vykdė bendrą už-
+    sienio politiką.
+    Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4854,7 +4964,11 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
     jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
-  citata_rodoma: "Šio pokario metais Stryjkovskis ir jo kronika yra vėl sulaukę\nplataus susidomėjimo. Įvairūs lenkų autoriai į jį pažiurėjo kaip\nį tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar\njos dalis keliais atvejais XVII-XVIII amž."
+  citata_rodoma: |
+    Šio pokario metais Stryjkovskis ir jo kronika yra vėl sulaukę
+    plataus susidomėjimo. Įvairūs lenkų autoriai į jį pažiurėjo kaip
+    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
+    jos dalis keliais atvejais XVII-XVIII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4912,7 +5026,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
     tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
     rijos knyga.
-  citata_rodoma: "Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-\ntavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai, \nvis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame \ngyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo \n1582 m."
+  citata_rodoma: |
+    Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
+    tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
+    vis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame
+    gyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
+    1582 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -4934,7 +5053,14 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     gaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­
     siųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes
     veik neturime.
-  citata_rodoma: "Jo tarnyboje mes ga­\nlime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.\nAiškus dalykas, kad nemažą įtaką Vytautas bus padaręs že­\nmės eksploatacijai per savo dvarus, o jų jo laikais didysis kuni­\ngaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­\nsiųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes\nveik neturime."
+  citata_rodoma: |
+    Jo tarnyboje mes ga­
+    lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.
+    Aiškus dalykas, kad nemažą įtaką Vytautas bus padaręs že­
+    mės eksploatacijai per savo dvarus, o jų jo laikais didysis kuni­
+    gaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­
+    siųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes
+    veik neturime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5038,7 +5164,11 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     pusėn.
     Apie Volynijos ginčą liudija tiktai Jadvygos dokumentas,
     duotas 1393 m. lapkr. mėn.
-  citata_rodoma: "Todėl iš Lenkijos pusės, nors ir labai silpna, ėmė reikštis opozi­\ncija: juk lenkai norėjo Krėvės unija tuos žemės plotus laimėti\nsau, t. y. kolonizuoti, o dabar dalykai ėmė krypti priešingon\npusėn."
+  citata_rodoma: |
+    Todėl iš Lenkijos pusės, nors ir labai silpna, ėmė reikštis opozi­
+    cija: juk lenkai norėjo Krėvės unija tuos žemės plotus laimėti
+    sau, t. y. kolonizuoti, o dabar dalykai ėmė krypti priešingon
+    pusėn.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5056,7 +5186,10 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
     kryžiuočių kariuomenę, ir jų eilės nebeatlaikė. Lemtingosios kau­
     tynės baigėsi visišku ordino kariuomenės sutriuškinimu.
-  citata_rodoma: "Nauji Lenkijos pulkai ėmė pulti ilstančią\nkryžiuočių kariuomenę, ir jų eilės nebeatlaikė. Lemtingosios kau­\ntynės baigėsi visišku ordino kariuomenės sutriuškinimu."
+  citata_rodoma: |
+    Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė. Lemtingosios kau­
+    tynės baigėsi visišku ordino kariuomenės sutriuškinimu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -5177,7 +5310,16 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     patenkinti savo neapykantos ir griebtis smurto, jis pra­
     dėjo siausti, remdamasis svetimais ginklais ir savo klas­
     ta.
-  citata_rodoma: "Grįžęs iš to žy­\ngio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau­\nsėdijas: tuo metu buvo padėti pamatai Gervėčių mies­\nteliui. Tačiau ir vidaus ramybe, ir sutartimi sutvirtintą\ndraugystę su lenkais išardė kurių ne kurių asmenų\nmaištingi sumanymai. Povilas, Krokuvos ganytojas, no­\nrėdamas atkeršyti Boleslovui Droviajam už asmeniškas\nskriaudas, protarpiais slapta kviesdavosi į lenkų kraštą\nlietuvių kariaunas."
+  citata_rodoma: |
+    Grįžęs iš to žy­
+    gio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau­
+    sėdijas: tuo metu buvo padėti pamatai Gervėčių mies­
+    teliui. Tačiau ir vidaus ramybe, ir sutartimi sutvirtintą
+    draugystę su lenkais išardė kurių ne kurių asmenų
+    maištingi sumanymai. Povilas, Krokuvos ganytojas, no­
+    rėdamas atkeršyti Boleslovui Droviajam už asmeniškas
+    skriaudas, protarpiais slapta kviesdavosi į lenkų kraštą
+    lietuvių kariaunas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -5208,7 +5350,29 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     kio amžiaus, kad jauniausias iš jų, Traidenis, Romun-
     tui dar gyvam esant, vadovavo kariuomenei kaip
     vyriausiasis vadas.
-  citata_rodoma: "Gili­\nginas valdė ne ilgiau kaip trejus metus: bemaž nieko\nįsidėmėtina tais laikais neįvyko, išskyrus kelis nioko­\njamus žygius į Lenkiją, tiesa, ir juos ne visus sumini\nrašytojai. Žymesnis ir pačių lenkų minimas tas, kai lie­\ntuvių kariaunos, nusiaubusios Mazoviją, Kulmo kraštą,\n1275 m eta i\nG iliginas — L ie tu v o s\nd id y s is\nk u n ig a ik štis,\nT robius — Ž e m a itijo s\n133\n\n## Puslapis 132\n\nKujaviją, be to, antrą kartą\n1277 m e ta i\nįsibrovusios į Lenčicos že­\nmes, išsivarė, kaip sako, apie\nketuriasdešimt tūkstančių belaisvių. Vargu ar tuo skai­\nčiumi galima patikėti, vis dėlto jis svariai įrodo, jog\nlenkai buvo smarkiai sumušti."
+  citata_rodoma: |
+    Gili­
+    ginas valdė ne ilgiau kaip trejus metus: bemaž nieko
+    įsidėmėtina tais laikais neįvyko, išskyrus kelis nioko­
+    jamus žygius į Lenkiją, tiesa, ir juos ne visus sumini
+    rašytojai. Žymesnis ir pačių lenkų minimas tas, kai lie­
+    tuvių kariaunos, nusiaubusios Mazoviją, Kulmo kraštą,
+    1275 m eta i
+    G iliginas — L ie tu v o s
+    d id y s is
+    k u n ig a ik štis,
+    T robius — Ž e m a itijo s
+    133
+
+    ## Puslapis 132
+
+    Kujaviją, be to, antrą kartą
+    1277 m e ta i
+    įsibrovusios į Lenčicos že­
+    mes, išsivarė, kaip sako, apie
+    keturiasdešimt tūkstančių belaisvių. Vargu ar tuo skai­
+    čiumi galima patikėti, vis dėlto jis svariai įrodo, jog
+    lenkai buvo smarkiai sumušti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -5244,7 +5408,23 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     valdžia atsidūrė kitos šeimos rankose, jis susimanė,
     svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
     tulą.
-  citata_rodoma: "Tame mūšyje žuvo keli tūkstančiai lie­\ntuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­\nėmė, daugybę po miškus klaidžiojančių vėliau išžudė \nkaimiečiai. Tačiau nei viena, nei kita pergalė negalė­\njusi, pasak metraštininkų, atsverti nuostolių, kuriuos \nLenkija tais metais patyrė iš lietuvių: Lukovo apylin­\nkės, Sandomiro bei Liublino žemės tapo visiškai nu­\nniokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­\nmingai puolė priešą, kryžiuočių riteriai, pavergę vi­\nsas prūsų gentis, pradėjo rengti žygius į Lietuvą gal \nsuvokę, jog laikas patogus išpuoliams, o gal, jeigu\ndėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­\ndaug tuo metu gyveno tremtyje tarp kryžiuočių; kai \nvaldžia atsidūrė kitos šeimos rankose, jis susimanė, \nsvetur gyvendamas, įsigyti didžiojo kunigaikščio ti­\ntulą."
+  citata_rodoma: |
+    Tame mūšyje žuvo keli tūkstančiai lie­
+    tuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­
+    ėmė, daugybę po miškus klaidžiojančių vėliau išžudė
+    kaimiečiai. Tačiau nei viena, nei kita pergalė negalė­
+    jusi, pasak metraštininkų, atsverti nuostolių, kuriuos
+    Lenkija tais metais patyrė iš lietuvių: Lukovo apylin­
+    kės, Sandomiro bei Liublino žemės tapo visiškai nu­
+    niokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­
+    mingai puolė priešą, kryžiuočių riteriai, pavergę vi­
+    sas prūsų gentis, pradėjo rengti žygius į Lietuvą gal
+    suvokę, jog laikas patogus išpuoliams, o gal, jeigu
+    dėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­
+    daug tuo metu gyveno tremtyje tarp kryžiuočių; kai
+    valdžia atsidūrė kitos šeimos rankose, jis susimanė,
+    svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
+    tulą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -5279,7 +5459,21 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     krikščionybę pagal rusų ap-
     v ie tin in k a s K i j e v e
     eigas.
-  citata_rodoma: "Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių\nkivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi\nsenomis Boleslovo Narsiojo pergalėmis ir naujais gi­\nminystės ryšiais. Nors kitados Boleslovas, nugalėjęs\nrusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius\nduoklę duoti, tačiau nė vienam lenkų karaliui dar ne­\nbuvo pavykę nei gauti Kijevo kunigaikščio vardo, nei\nišvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų\npaversti savo -valdiniais; mat rusai vėliau kovose įro­\ndė, jog atsisakė paklusti lenkams."
+  citata_rodoma: |
+    Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais. Nors kitados Boleslovas, nugalėjęs
+    rusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius
+    duoklę duoti, tačiau nė vienam lenkų karaliui dar ne­
+    buvo pavykę nei gauti Kijevo kunigaikščio vardo, nei
+    išvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų
+    paversti savo -valdiniais; mat rusai vėliau kovose įro­
+    dė, jog atsisakė paklusti lenkams.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -5311,7 +5505,17 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     vėliau Vladislovui kariauti
     su Voldemaru, Brandenburgo
     markgrafu.
-  citata_rodoma: "Kuo greičiausiai ir kuo ryžtingiausiai\nreikią kelti kalaviją prieš tuos, kurie iš arti graso, o\nsu tolesniais, suėjus į tariamą draugystę, nesunkiai bū­\nsią galima ramiai gyventi. Išsiuntė į Lietuvą pasiun­\ntinius, turėjusius prašyti Gedimino dukters Aldonos\nrankos Kazimierui, Lenkijos valdovui; lietuviai drau­\ngiškai priėmė pasiuntinybę, abi šalys susitarė, kad,\nvaldovams susigiminiavus, būsianti tarp abiejų tautų\ntvirta taika. Dvidešimt keturis tūkstančius lenkų be­\nlaisvių dovanojo nelyginant kraitį."
+  citata_rodoma: |
+    Kuo greičiausiai ir kuo ryžtingiausiai
+    reikią kelti kalaviją prieš tuos, kurie iš arti graso, o
+    su tolesniais, suėjus į tariamą draugystę, nesunkiai bū­
+    sią galima ramiai gyventi. Išsiuntė į Lietuvą pasiun­
+    tinius, turėjusius prašyti Gedimino dukters Aldonos
+    rankos Kazimierui, Lenkijos valdovui; lietuviai drau­
+    giškai priėmė pasiuntinybę, abi šalys susitarė, kad,
+    valdovams susigiminiavus, būsianti tarp abiejų tautų
+    tvirta taika. Dvidešimt keturis tūkstančius lenkų be­
+    laisvių dovanojo nelyginant kraitį.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -5338,7 +5542,15 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     dabartinių negandų toliau klostysis įvykiai, ir svarstė,
     kokios žalos atnešė valstybei Jogailos išvykimas į Len­
     kiją.
-  citata_rodoma: "Šitokios mintys, platinamos ir žodiškai, ir raštiškai\nlaiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­\njorai, sukėlė didelį nemažo būrio palankumą Aleksan­\ndrui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.\nNugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos\ngimine ir sąjungą su lenkais. Manvydas susitarė su\nGoštautu bei Astiku, laikantis senojo susitarimo su len­\nkais, paskelbti valdovu patį karalių Vladislovą."
+  citata_rodoma: |
+    Šitokios mintys, platinamos ir žodiškai, ir raštiškai
+    laiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­
+    jorai, sukėlė didelį nemažo būrio palankumą Aleksan­
+    drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
+    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
+    gimine ir sąjungą su lenkais. Manvydas susitarė su
+    Goštautu bei Astiku, laikantis senojo susitarimo su len­
+    kais, paskelbti valdovu patį karalių Vladislovą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -5369,7 +5581,33 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     valstybėje
     neatitektų
     Mykolui.
-  citata_rodoma: "Mat, jeigu per\nK a zim iera s J ogailaitis\nišren k a m a s\nL ietu vo s\nd id žiu o ju\nk u n ig a ik š­\nčiu\n468\n\n## Puslapis 467\n\nskubėjimą ir bus padaryta\nPasiuntinių\nk v ie č ia -\nkas nors ne taip, kaip šitokio-\nm a s į B restą\nmis aplinkybėmis dera, dėl to\nbus galima vėliau atsiprašyti\nbrolį ir ištaisyti klaidą, tuo tarpu atidėliojant galima\nnieko nepešti. Tuo metu karalius Vladislovas, išvykęs\niš Lenkijos, rengėsi su vengrais kariauti prieš turkus, o\nKazimieras su žymiaisiais lenkų didikais viešėjo Sando-\nmire. Godžiai trokštantis valdžios viršūnių jaunikaitis\nklausėsi pasiuntinių kalbos, tačiau šalimais esantys re­\ngentai neleido jam tarti atsakomojo žodžio paskubomis,\nskatinamam jaunatviško įkarščio."
+  citata_rodoma: |
+    Mat, jeigu per
+    K a zim iera s J ogailaitis
+    išren k a m a s
+    L ietu vo s
+    d id žiu o ju
+    k u n ig a ik š­
+    čiu
+    468
+
+    ## Puslapis 467
+
+    skubėjimą ir bus padaryta
+    Pasiuntinių
+    k v ie č ia -
+    kas nors ne taip, kaip šitokio-
+    m a s į B restą
+    mis aplinkybėmis dera, dėl to
+    bus galima vėliau atsiprašyti
+    brolį ir ištaisyti klaidą, tuo tarpu atidėliojant galima
+    nieko nepešti. Tuo metu karalius Vladislovas, išvykęs
+    iš Lenkijos, rengėsi su vengrais kariauti prieš turkus, o
+    Kazimieras su žymiaisiais lenkų didikais viešėjo Sando-
+    mire. Godžiai trokštantis valdžios viršūnių jaunikaitis
+    klausėsi pasiuntinių kalbos, tačiau šalimais esantys re­
+    gentai neleido jam tarti atsakomojo žodžio paskubomis,
+    skatinamam jaunatviško įkarščio.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -5402,7 +5640,21 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     d id žiu o ju
     k u n ig a ik š­
     čiu
-  citata_rodoma: "Kiti parėmė šį siūlymą \niš baimės, kad atidėliojant yal- \ndžia \nvalstybėje \nneatitektų \nMykolui. Štai todėl kuo grei­\nčiausiai sušaukė Breste seimą, \nnes kelias į tą miestą Kazi­\nmierui buvo artimas, o kitų grupuočių vadovams tolo­\nkas. Pasiuntė kilmingiausius ir žymiausius didikus bro­\nlius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti \nKazimierą į Brestą kuo greičiausiai perimti valdžios; jie \nkaip beįmanydami privalėjo raginti jaunikaitį, kad jis, \nlenkų patariamas, nesusimanytų delsti."
+  citata_rodoma: |
+    Kiti parėmė šį siūlymą
+    iš baimės, kad atidėliojant yal-
+    džia
+    valstybėje
+    neatitektų
+    Mykolui. Štai todėl kuo grei­
+    čiausiai sušaukė Breste seimą,
+    nes kelias į tą miestą Kazi­
+    mierui buvo artimas, o kitų grupuočių vadovams tolo­
+    kas. Pasiuntė kilmingiausius ir žymiausius didikus bro­
+    lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti
+    Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie
+    kaip beįmanydami privalėjo raginti jaunikaitį, kad jis,
+    lenkų patariamas, nesusimanytų delsti.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -5457,7 +5709,16 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     kalaujant sugrąžinti Podolę, o lenkams ne mažiau įnir­
     tingai priešinantis, seimas išsivažinėjo ne tik nieko ne­
     nutaręs, bet dar labiau sukurstęs abipusį nepakantumą.
-  citata_rodoma: "Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­\nvos. Lietuviai, šaukdamiesi dangaus keršto, pakėlė di­\ndelį triukšmą: girdi, ligi šiol patraukliu žodžiu „unija\" \njiems akis muilinę, susimanė galop atimti žemes ir pa­\nsiekti, kad, išnykus lietuvių bei rusų vardams, neliktų \nnė pačios Lietuvos. Vieniems atkakliai ir ryžtingai rei­\nkalaujant sugrąžinti Podolę, o lenkams ne mažiau įnir­\ntingai priešinantis, seimas išsivažinėjo ne tik nieko ne­\nnutaręs, bet dar labiau sukurstęs abipusį nepakantumą."
+  citata_rodoma: |
+    Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­
+    vos. Lietuviai, šaukdamiesi dangaus keršto, pakėlė di­
+    delį triukšmą: girdi, ligi šiol patraukliu žodžiu „unija"
+    jiems akis muilinę, susimanė galop atimti žemes ir pa­
+    siekti, kad, išnykus lietuvių bei rusų vardams, neliktų
+    nė pačios Lietuvos. Vieniems atkakliai ir ryžtingai rei­
+    kalaujant sugrąžinti Podolę, o lenkams ne mažiau įnir­
+    tingai priešinantis, seimas išsivažinėjo ne tik nieko ne­
+    nutaręs, bet dar labiau sukurstęs abipusį nepakantumą.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -5509,7 +5770,16 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     Lietuvą pasiryžęs pasipelnyti
     1499 m eta i
     iš svetimos nelaimės.
-  citata_rodoma: "Po to Lietuvos Didžiosios Kunigaikštystės\nvardu sudarė taiką su Steponu, Valachijos valdovu,\nbei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,\nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne\ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės."
+  citata_rodoma: |
+    Po to Lietuvos Didžiosios Kunigaikštystės
+    vardu sudarė taiką su Steponu, Valachijos valdovu,
+    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
+    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
+    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
+    tik valdovai, bet ir visos jų karalystės bei žemės pa­
+    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
+    Dievobaimingas Aleksandro įstangas sužlugdė klas­
+    tingos Ivano pinklės.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -5542,7 +5812,22 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     taikų ir pažiūrų įvairovė padarė Aleksandrui didelį
     įspūdį, ir jis vienu metu susimanė griebtis jėgos ir
     šitaip pakreipti savo naudai visą reikalą.
-  citata_rodoma: "Labai\njiems padėjo ir tai, kad Aleksandras pasirūpino Vil­\nniuje užbaigti prieš trejus metus Piotrkove lenkams\npažadėtą lietuvių bei lenkų santarvės aktą, kuris, pa­\ntvirtintas Lietuvos Didžiosios Kunigaikštystės antspau­\ndu bei dvidešimt penkių žymiausių didikų antspaudais\nir parašais, ir buvo dabar atgabentas į bendrą su len­\nkais seimą, paaiškinus, jog bus jiems viešai įteiktas,\njeigu paskelbs Aleksandrą karaliumi, o sunaikintas,\njeigu jį aplenks. Šios aplinkybės paskatinti lenkai visi\nit vienas ir paskelbė Aleksandrą karaliumi. Negalėjo\nnepritarti šiam jų žingsniui ir Vladislovas, nes matė,\njog tuo būdu sulydomos į vieną dvi galingos tautos, o\nta sąjunga labai naudinga visam krikščioniškajam pa­\nsauliui."
+  citata_rodoma: |
+    Labai
+    jiems padėjo ir tai, kad Aleksandras pasirūpino Vil­
+    niuje užbaigti prieš trejus metus Piotrkove lenkams
+    pažadėtą lietuvių bei lenkų santarvės aktą, kuris, pa­
+    tvirtintas Lietuvos Didžiosios Kunigaikštystės antspau­
+    du bei dvidešimt penkių žymiausių didikų antspaudais
+    ir parašais, ir buvo dabar atgabentas į bendrą su len­
+    kais seimą, paaiškinus, jog bus jiems viešai įteiktas,
+    jeigu paskelbs Aleksandrą karaliumi, o sunaikintas,
+    jeigu jį aplenks. Šios aplinkybės paskatinti lenkai visi
+    it vienas ir paskelbė Aleksandrą karaliumi. Negalėjo
+    nepritarti šiam jų žingsniui ir Vladislovas, nes matė,
+    jog tuo būdu sulydomos į vieną dvi galingos tautos, o
+    ta sąjunga labai naudinga visam krikščioniškajam pa­
+    sauliui.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -5563,7 +5848,15 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     švento Stanislavo bažnyčioje 9.
     Karalius Jogaila gedėjo didžiojo kunigaikščio Vy­
     tauto ir verkė kaip brolis mylimo brolio.
-  citata_rodoma: "Ir Lvove juos pasiekė žinia \napie didžiojo kunigaikščio mirtį. Lenkai, nenorėdami, \nkad Lietuva būtų karalystė, tą karaliaus vainiką iš jų \natėmė8  ir, perkirtę pusiau, prilydė puses prie Krokuvos \nvyskupo karūnos, kuri ir dabar tebėra Krokuvos pilies \nšvento Stanislavo bažnyčioje 9 .\nKaralius Jogaila gedėjo didžiojo kunigaikščio Vy­\ntauto ir verkė kaip brolis mylimo brolio."
+  citata_rodoma: |
+    Ir Lvove juos pasiekė žinia
+    apie didžiojo kunigaikščio mirtį. Lenkai, nenorėdami,
+    kad Lietuva būtų karalystė, tą karaliaus vainiką iš jų
+    atėmė8  ir, perkirtę pusiau, prilydė puses prie Krokuvos
+    vyskupo karūnos, kuri ir dabar tebėra Krokuvos pilies
+    švento Stanislavo bažnyčioje 9 .
+    Karalius Jogaila gedėjo didžiojo kunigaikščio Vy­
+    tauto ir verkė kaip brolis mylimo brolio.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -5584,7 +5877,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     kas Mykolas Balinskis rašė: „Kas tiek pasakų palaikė tiesa ir
     j gretino jas su tikrais įvykiais, kas nesvyruodamas kaitaliojo da-
     11 List T. Narbutta do A. Reniera 1843 r.
-  citata_rodoma: "T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­\nkino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­\ntojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet\nmus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių\nreikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,\nkad mes jų turime daugiau ir kur kas geresnių negu lenkai“11."
+  citata_rodoma: |
+    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
+    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
+    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
+    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
+    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
+    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -5612,7 +5911,15 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     tuose nuo seno atsirasdavo sektų, dažnai tokių neaiškių, su­
     painiotų ir slaptų, kad vietiniai rašytojai patys nesugeba nu­
     statyti, kaip jos atsirado, nors nemaža jų gyvuoja iki šiol.
-  citata_rodoma: "Autorius pateikia iš­\nkalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­\ngyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,\nkurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­\ndo visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­\ntos niekad nenukryps panašiai kaip čekai, kadangi didis val­\ndovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis\nšito laidas."
+  citata_rodoma: |
+    Autorius pateikia iš­
+    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
+    gyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,
+    kurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­
+    do visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­
+    tos niekad nenukryps panašiai kaip čekai, kadangi didis val­
+    dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis
+    šito laidas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -5660,7 +5967,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     Prūsiškai
     Heruliškai
     1.
-  citata_rodoma: "Atvirkščiai, visi prieinami tyri­\nnėjimai rodo, kad toji tauta skyrėsi nuo lietuvių. Yra dokumen­\ntinių įrodymų, jog teismuose XVI amžiuje nuosprendžius saky­\ndavo lietuviškai, o į knygas įrašydavo rusiškai, lotyniškai arba\nlenkiškai . Vilniuje lietuviškus pamokslus kunigai iš ambonų\nsakydavo iki XVII amžiaus pirmojo ketvirčio ."
+  citata_rodoma: |
+    Atvirkščiai, visi prieinami tyri­
+    nėjimai rodo, kad toji tauta skyrėsi nuo lietuvių. Yra dokumen­
+    tinių įrodymų, jog teismuose XVI amžiuje nuosprendžius saky­
+    davo lietuviškai, o į knygas įrašydavo rusiškai, lotyniškai arba
+    lenkiškai . Vilniuje lietuviškus pamokslus kunigai iš ambonų
+    sakydavo iki XVII amžiaus pirmojo ketvirčio .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -5686,7 +5999,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     Enėjui Silvijui, arba Pijui II, ir 1432-1439 metais vykusio Bazelio
     bažnytinio susirinkimo šventiesiems tėvams, kuriuo jis atsiskaitė apie
     savo apaštalavimą Lietuvoje 1392 arba 1393 metais.
-  citata_rodoma: "Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­\ntesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­\nnės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o\nkitos dvi -  rusinu, kur jie įprastai atlieka savo apeigas. Rusinai\ntaip pat turi priemiesčiuose dvi šventyklas: vieną mūrinę, kitą\nmedinę."
+  citata_rodoma: |
+    Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
+    tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­
+    nės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o
+    kitos dvi -  rusinu, kur jie įprastai atlieka savo apeigas. Rusinai
+    taip pat turi priemiesčiuose dvi šventyklas: vieną mūrinę, kitą
+    medinę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

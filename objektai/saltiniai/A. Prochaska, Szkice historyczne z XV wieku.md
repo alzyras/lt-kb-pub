@@ -70,7 +70,11 @@ media_all_json: |-
     ska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —
     Weise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,
     420-473, 622-672 p. ; t. 13, 1964, 401-420 p.
-  citata_rodoma: "— Procha _­_\nska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —\nWeise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,\n420-473, 622-672 p."
+  citata_rodoma: |
+    — Procha _­_
+    ska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —
+    Weise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,
+    420-473, 622-672 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

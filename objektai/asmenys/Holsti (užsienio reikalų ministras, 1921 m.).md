@@ -79,7 +79,8 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
     dojęs proga, kai 1921 m. rudenį į Helsinkus atvyko „Eltos“ direkto­
     rius prof. dr. Eretas, jis kelias dienas vaikščiojo po valstybės įstaigas,
     kol pagaliau iš užs. reik. ministerio Holsti tą pripažinimą išgavo.
-  citata_rodoma: "1921 m. rudenį į Helsinkus atvyko „Eltos“ direktorius prof. dr. Eretas ... kol pagaliau iš užs. reik. ministerio Holsti tą pripažinimą išgavo."
+  citata_rodoma: |
+    1921 m. rudenį į Helsinkus atvyko „Eltos“ direktorius prof. dr. Eretas ... kol pagaliau iš užs. reik. ministerio Holsti tą pripažinimą išgavo.
   statusas: verified
   atnaujinta: "2026-07-12 12:31"
   teiginio_tipas: faktas

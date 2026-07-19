@@ -98,7 +98,14 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
     597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: "Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.\n  Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis\nscolarium] patvirtino tas pats valdovas popiežius Honorijus.\n\n\n\n                  15."
+  citata_rodoma: |
+    Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
+      Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis
+    scolarium] patvirtino tas pats valdovas popiežius Honorijus.
+
+
+
+                      15.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -117,7 +124,13 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
     597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: "Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis\nscolarium] patvirtino tas pats valdovas popiežius Honorijus.\n\n\n\n                  15. Kelerių metų šventa Elžbieta ištekėjo už vyro"
+  citata_rodoma: |
+    Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis
+    scolarium] patvirtino tas pats valdovas popiežius Honorijus.
+
+
+
+                      15. Kelerių metų šventa Elžbieta ištekėjo už vyro
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

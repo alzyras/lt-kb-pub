@@ -75,13 +75,23 @@ Nenurodyta
     tautas, jų tėvams dar gyviems esant, buvo labai su­
     sidraugavę.
     O paskui didysis kunigaikštis Algirdas 1377 me­
-    tais35 pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
+    tais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
     damas j susitarimą bei savo brolišką meilę ir santar-
     mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
     džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
     Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
     anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
-  citata_rodoma: "Kunigaikštis Jogaila ir kunigaikštis Vy­\ntautas, jų tėvams dar gyviems esant, buvo labai su­\nsidraugavę.\nO paskui didysis kunigaikštis Algirdas 1377 me­\ntais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­\ndamas j susitarimą bei savo brolišką meilę ir santar- \nmę, kurios ligi jo mirties buvo laikęsis, pripažino di­\ndžiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį \nJogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip \nanksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį."
+  citata_rodoma: |
+    Kunigaikštis Jogaila ir kunigaikštis Vy­
+    tautas, jų tėvams dar gyviems esant, buvo labai su­
+    sidraugavę.
+    O paskui didysis kunigaikštis Algirdas 1377 me­
+    tais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
+    damas j susitarimą bei savo brolišką meilę ir santar-
+    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
+    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
+    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
+    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas

@@ -105,7 +105,19 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     nėms Rytų Europos šalims (Lenkijai, iš
     dalies Moldavijai, Vengrijai) sudarė sau-
     gesnę padėtį rytuose.
-  citata_rodoma: "Algirdo remiami Karijotaičiai,\nįsitvirtinę Mažojoje Podolėje, vietiniams\ngyventojams pritariant, organi-\nzavo šio krašto gynybą nuo\ntotorių puolimų bei grobimų, statė minė-\ntas Smotričo, Bakotos, Kameneco pilis.\nPietinių žemių (Kijevo, Mažosios Podolės\nir kt.) išėmimas iš tiesioginės Aukso ordos\nvaldžios vietiniams rusėnams, kaimyni-\nnėms Rytų Europos šalims (Lenkijai, iš\ndalies Moldavijai, Vengrijai) sudarė sau-\ngesnę padėtį rytuose."
+  citata_rodoma: |
+    Algirdo remiami Karijotaičiai,
+    įsitvirtinę Mažojoje Podolėje, vietiniams
+    gyventojams pritariant, organi-
+    zavo šio krašto gynybą nuo
+    totorių puolimų bei grobimų, statė minė-
+    tas Smotričo, Bakotos, Kameneco pilis.
+    Pietinių žemių (Kijevo, Mažosios Podolės
+    ir kt.) išėmimas iš tiesioginės Aukso ordos
+    valdžios vietiniams rusėnams, kaimyni-
+    nėms Rytų Europos šalims (Lenkijai, iš
+    dalies Moldavijai, Vengrijai) sudarė sau-
+    gesnę padėtį rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

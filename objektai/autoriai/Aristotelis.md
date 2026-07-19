@@ -149,7 +149,15 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
     upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
     gi kalba apie gintarą, randamą ten, kur Aldeskos upė
     įteka į Šiaurės jūrą3.
-  citata_rodoma: "Priartinus mūsų tyrimus prie \ngeografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos \ntėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi \napie gintaringas vietas; boristeniečiai, ariba Padneprės \ngraikų kolonistai, jam pasakoję, jog šis produktas pasie­\nkiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt \ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei \nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo."
+  citata_rodoma: |
+    Priartinus mūsų tyrimus prie
+    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
+    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -180,7 +188,23 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
     1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
-  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
+  citata_rodoma: |
+    Tačiau Kelsijus ir Dalinas per­
+    nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
+    Kristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po
+    keturių tūkstančių metų jos neliks nė pėdsako. Antra
+    vertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,
+    Ovidijus kalba apie vandens lygio kritimą, pateikdami
+    akivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis
+    apie
+    Baltijos
+    jūrą“).
+    Seni
+    venecijiečių
+    žemėlapiai
+    šiai jūrai skiria gerokai didesnį plotą, negu ji užima
+    šiandien, be to, matoma daug pavyzdžių ir gretimose že­
+    mėse, kurios tarsi įrodo jos mažėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

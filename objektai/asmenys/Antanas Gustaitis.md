@@ -122,7 +122,15 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
     L I E T U V O S  I S T O R I J A
     176
     remti.
-  citata_rodoma: "Jiems \npadėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams \nGen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse \npagamintas lengvasis bombonešis ANBO VIII (1939 m.)\n\nL I E T U V O S  I S T O R I J A\n176\nremti."
+  citata_rodoma: |
+    Jiems
+    padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
+    Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
+    pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
+
+    L I E T U V O S  I S T O R I J A
+    176
+    remti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -142,7 +150,8 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
     buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių).
-  citata_rodoma: "tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,"
+  citata_rodoma: |
+    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

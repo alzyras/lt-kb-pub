@@ -171,7 +171,17 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     kraštas, iš tikrųjų priklausantis Žemaitijai, dar buvo va­
     dinamas vidurio Lietuva, o plytėjęs toliau į vakarus —
     i ikrą j a Žemaitija, arba Vinidų kraštu.
-  citata_rodoma: "Baigiant šios antros srities aprašymą, negalima ne­\npaminėti jos padalijimo į dvi dalis; apie tai ne sykį rei­\nkės dar kalbėti, be to, norint suvokti senovės lietuvių\nkraštų geografiją, reikia aptarti šį padalijimą. Lietuva,\narba antroji sritis, laikoma viena visuma, dalijosi į dvi\npuses: aukštesnę, vadinamą Aukštaitija, lotynų autorių\nAustechia, ir žemesnę, arba Žemaitiją. Sis padalijimas\nturėjo sieną, kuri tęsėsi dešiniąja Neries ir Nemuno pa­\nkrante nuo Nevėžio žiočių aukštyn šia upe net iki vaka­\nrinės Upytės apskrities sienos ir toliau net iki Kuršo."
+  citata_rodoma: |
+    Baigiant šios antros srities aprašymą, negalima ne­
+    paminėti jos padalijimo į dvi dalis; apie tai ne sykį rei­
+    kės dar kalbėti, be to, norint suvokti senovės lietuvių
+    kraštų geografiją, reikia aptarti šį padalijimą. Lietuva,
+    arba antroji sritis, laikoma viena visuma, dalijosi į dvi
+    puses: aukštesnę, vadinamą Aukštaitija, lotynų autorių
+    Austechia, ir žemesnę, arba Žemaitiją. Sis padalijimas
+    turėjo sieną, kuri tęsėsi dešiniąja Neries ir Nemuno pa­
+    krante nuo Nevėžio žiočių aukštyn šia upe net iki vaka­
+    rinės Upytės apskrities sienos ir toliau net iki Kuršo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -200,7 +210,19 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     ja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­
     rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
     kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
-  citata_rodoma: "Vytautas ir Jogaila, išgirdę iš savo pasiuntinių tokį sprendimą,\nanot Dlugošo, graudžiai apsiverkė^1 ) ir tuojau pasiuntė ki­\ntus pasiuntinius — Zbignievą Olesnickį ir Mikalojų Cibulką —\nsu protesto raštu, kuris buvo paskaitytas tame pat suvažiavi­\nme. Proteste Vytautas pareiškė, kad neįgaliojo Zigmanto būti\narbitru ir spręsti jo reikalus^2 ). Po to parašė jam dar kitą raš­\ntą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija\n— tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­\nmos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­\nja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­\nrių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,\nkol gyvas bus, nepalaikys su Zigmantu taikos^3 )."
+  citata_rodoma: |
+    Vytautas ir Jogaila, išgirdę iš savo pasiuntinių tokį sprendimą,
+    anot Dlugošo, graudžiai apsiverkė^1 ) ir tuojau pasiuntė ki­
+    tus pasiuntinius — Zbignievą Olesnickį ir Mikalojų Cibulką —
+    su protesto raštu, kuris buvo paskaitytas tame pat suvažiavi­
+    me. Proteste Vytautas pareiškė, kad neįgaliojo Zigmanto būti
+    arbitru ir spręsti jo reikalus^2 ). Po to parašė jam dar kitą raš­
+    tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija
+    — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­
+    mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­
+    ja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­
+    rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
+    kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

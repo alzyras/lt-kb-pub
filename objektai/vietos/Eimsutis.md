@@ -144,7 +144,12 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
     gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
     ant iškeltų prūsų iečių, o likusieji sudegė. Tiek ten buvo krikščionių kraujo pralieta,
     kad gretimas upelis454 nustojo savo įprastinės spalvos ir atrodė krauju pasruvęs.
-  citata_rodoma: "Sutrikę dėl jo mirties,\npasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje,\n\n  447 D.— castrum Hemsot, Jer.— Heimsôt, dab. Pšečnas (Przeczno), per 9 km  į\npietvakarius nuo Kulmenzės (dab. Chelmža), tarp Torunės ir Kulmo (SZCh, p. 102)."
+  citata_rodoma: |
+    Sutrikę dėl jo mirties,
+    pasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje,
+
+      447 D.— castrum Hemsot, Jer.— Heimsôt, dab. Pšečnas (Przeczno), per 9 km  į
+    pietvakarius nuo Kulmenzės (dab. Chelmža), tarp Torunės ir Kulmo (SZCh, p. 102).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

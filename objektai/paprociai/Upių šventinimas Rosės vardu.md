@@ -176,7 +176,9 @@ Nenurodyta
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
     nės sutampa.
-  citata_rodoma: "Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar\nišliko visiškai nepakitęs."
+  citata_rodoma: |
+    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
+    išliko visiškai nepakitęs.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -200,7 +202,15 @@ Nenurodyta
     tojai prisimena anksčiau šia tema sakytus dalykus (§55),
     ir norėdami geriau suprasti visą dalyką, turime papildomai
     aiškinti.
-  citata_rodoma: "Nekartosime to, ką jau sa­\nkėme daugelyje šio veikalo vietų, — kad lietuvių tauta\npasiskolino daugelį religijos dalykų iš indų budistų, o\nypač apie upių šventinimą Rosės vardu; dabar priėjome\ntą mūsų veikalo vietą, kur kalbėsime apie svarbiausią\nšiuo vardu pavadintą upę, arba Nemuno žemupio dešinią­\nją šaką, kuri vadinama ir Rusia, nes prie jos yra ir kraš­\ntas, turintis Rusios vardą."
+  citata_rodoma: |
+    Nekartosime to, ką jau sa­
+    kėme daugelyje šio veikalo vietų, — kad lietuvių tauta
+    pasiskolino daugelį religijos dalykų iš indų budistų, o
+    ypač apie upių šventinimą Rosės vardu; dabar priėjome
+    tą mūsų veikalo vietą, kur kalbėsime apie svarbiausią
+    šiuo vardu pavadintą upę, arba Nemuno žemupio dešinią­
+    ją šaką, kuri vadinama ir Rusia, nes prie jos yra ir kraš­
+    tas, turintis Rusios vardą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -224,7 +234,16 @@ Nenurodyta
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
     nės sutampa.
-  citata_rodoma: "Čia\natsivėrė vietovė, kur galima buvo saugiai įsikurti prie\nupės, plukdančios savo vandenis per gražias apylinkes;\nji dar ir šiandien bėga per tankiausiai gyvenamas, gra­\nžiausias ir derlingiausias Volkovysko apskrities apylinkes.\nSi upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar\nišliko visiškai nepakitęs. Be šių įrodymų, turime ir seno­\nvės autorių paliktų, ir naujų laikų tyrimais patvirtintų\npaminklų."
+  citata_rodoma: |
+    Čia
+    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
+    upės, plukdančios savo vandenis per gražias apylinkes;
+    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
+    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
+    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
+    išliko visiškai nepakitęs. Be šių įrodymų, turime ir seno­
+    vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
+    paminklų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

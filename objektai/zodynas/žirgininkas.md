@@ -112,7 +112,18 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
     paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar­
     no Papakodos suktybių paskutinioji velionės valia
     buvo neįvykdyta, o visas turtas vėjais paleistas.
-  citata_rodoma: "Antra vertus, netrukus atvyksią į Maskvą jo įgalioti\nlegatai, kurie pasitarsią su Maskvos didikais ir pada­\nrysią viską, kas naudinga valstybei.\nIšsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­\nkošius Garaburda, Lietuvos raštininkas, ir Jonas Vil-\nčekas, karališkasis Vilniaus vaivadijos žirgininkas, bet\nnieko nepešė, nes maskvėnai atidėjo derybas, sakyda-\nmiesi lauksią didesnius įgaliojimus turinčių pasiunti­\nnių.\nTuo tarpu Augustas patraukė į Livoniją su šimtu\ntūkstančių kariuomenės."
+  citata_rodoma: |
+    Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
+    legatai, kurie pasitarsią su Maskvos didikais ir pada­
+    rysią viską, kas naudinga valstybei.
+    Išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­
+    košius Garaburda, Lietuvos raštininkas, ir Jonas Vil-
+    čekas, karališkasis Vilniaus vaivadijos žirgininkas, bet
+    nieko nepešė, nes maskvėnai atidėjo derybas, sakyda-
+    miesi lauksią didesnius įgaliojimus turinčių pasiunti­
+    nių.
+    Tuo tarpu Augustas patraukė į Livoniją su šimtu
+    tūkstančių kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

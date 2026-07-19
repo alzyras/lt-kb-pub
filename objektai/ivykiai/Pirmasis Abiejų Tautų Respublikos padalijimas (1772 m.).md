@@ -83,7 +83,10 @@ Nenurodyta
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
     seimas Varšuvoje.
-  citata_rodoma: "Padalinimo sutartys buvo pasirašytos 1772 m.\nSankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis\nseimas Varšuvoje."
+  citata_rodoma: |
+    Padalinimo sutartys buvo pasirašytos 1772 m.
+    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
+    seimas Varšuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

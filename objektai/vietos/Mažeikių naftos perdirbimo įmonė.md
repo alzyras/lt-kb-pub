@@ -57,7 +57,8 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
     tyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos
     perdirbimo įmonė, Jonavos azotinių trąšų gamykla, Ignalinos atominė
     elektrinė (AE)).
-  citata_rodoma: "Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai"
+  citata_rodoma: |
+    Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

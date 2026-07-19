@@ -63,7 +63,8 @@ Dusburgietis teigia, kad mažiulis V.
   citata_originali: |
     Mažiulis V. Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija.—V., 1970.
     Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.
-  citata_rodoma: "Mažiulis V. Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija.—V., 1970."
+  citata_rodoma: |
+    Mažiulis V. Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija.—V., 1970.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

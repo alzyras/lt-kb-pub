@@ -90,7 +90,13 @@ Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu b
     sikėlę iš Rusios kitapus Bugo, o tai įrodo jų kalba, įpročiai
     ir papročiai. Bet vietinius gyventojus jie pralenkia dvasine
     kultūra, amatais ir gražesniu kūno sudėjimu.
-  citata_rodoma: "Tai aiškūs dviejų skirtingų religijų kolonistų, at­\nvestų iš Jotvingijos, pėdsakai. Taip pat pavyko rasti prie\nSkidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje\ncerkvėje tuo metu buvo krikštijami Jotvingijos pagonys1.\nTurime akivaizdų įrodymą, jog jazigai dar XV amžiuje\ngyveno Vengrijoje arba gretimuose kraštuose."
+  citata_rodoma: |
+    Tai aiškūs dviejų skirtingų religijų kolonistų, at­
+    vestų iš Jotvingijos, pėdsakai. Taip pat pavyko rasti prie
+    Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
+    cerkvėje tuo metu buvo krikštijami Jotvingijos pagonys1.
+    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
+    gyveno Vengrijoje arba gretimuose kraštuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

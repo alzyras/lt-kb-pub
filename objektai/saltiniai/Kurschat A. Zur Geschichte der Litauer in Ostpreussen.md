@@ -82,7 +82,9 @@ Dusburgietis teigia, kad kurschat A.
     1964, 1, s. 207—216.
     Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
     žinynas, 1933, t. 25, Nr. 101, p. 171—185.
-  citata_rodoma: "Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen\nlitterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505."
+  citata_rodoma: |
+    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
+    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

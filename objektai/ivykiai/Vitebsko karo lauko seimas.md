@@ -86,7 +86,8 @@ Nenurodyta
     vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas
     siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
     karinės pagalbos, kartu unijos.
-  citata_rodoma: "siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti"
+  citata_rodoma: |
+    siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

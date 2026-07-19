@@ -70,7 +70,8 @@ Darbo sėkmę siejanti su sočiu gyvuliu formulė.
     reikia avižų.
     Artojai sakydavo: „Smagu dirbti, jei gyvulys sotus.“
     Iš to pasakymo reikia manyti, kad dirbdavo ir alkanais gyvuliais.
-  citata_rodoma: "Artojai sakydavo: „Smagu dirbti, jei gyvulys sotus.“"
+  citata_rodoma: |
+    Artojai sakydavo: „Smagu dirbti, jei gyvulys sotus.“
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas

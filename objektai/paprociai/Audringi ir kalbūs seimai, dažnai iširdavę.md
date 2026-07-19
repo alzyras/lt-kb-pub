@@ -75,7 +75,12 @@ Nenurodyta
 
     seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų
     buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
-  citata_rodoma: "Nors šiaipjau visi seimai būdavo labai\naudringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų\n\nseimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų\nbuvo iširę net 7), bet dabar niekas nedrįso kalbėti."
+  citata_rodoma: |
+    Nors šiaipjau visi seimai būdavo labai
+    audringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų
+
+    seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų
+    buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -68,7 +68,15 @@ media_all_json: |-
     Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
     A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems
     užteks“.
-  citata_rodoma: "pramonėje ir amatuose. Ketvir-\ntajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti \nverslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n169\nTačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas \nA."
+  citata_rodoma: |
+    pramonėje ir amatuose. Ketvir-
+    tajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
+    verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    169
+    Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
+    A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -90,7 +90,8 @@ media_all_json: |-
     Žydams uždrausta verstis žemės ūkiu, įvesta sėslumo riba, neleidžiama
     keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas
     turintiems ir išsilavinusiems šios tautos atstovams.
-  citata_rodoma: "keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas"
+  citata_rodoma: |
+    keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +112,8 @@ media_all_json: |-
     nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
     spręsti visus socialinius ir kultūrinius žydų reikalus.
-  citata_rodoma: "ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo"
+  citata_rodoma: |
+    ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

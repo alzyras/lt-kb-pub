@@ -87,7 +87,25 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
     žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
     tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
     olimpinis čempionas Berlyne su JAV rinktine ir 1939 m.
-  citata_rodoma: "gimęs ir \nmokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro \nne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs \nChaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar\n\n265\nPA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I\n„Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-\ntorius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924) \nar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis. O beveik \nkiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar \nVladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, \nVilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry \n(Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel \nLevinas (Emanuelis Levinas).\nToliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA \nžvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-\ntina Senda Berenson-Abbot (Senda Berenson-Abot, g."
+  citata_rodoma: |
+    gimęs ir
+    mokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro
+    ne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs
+    Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
+
+    265
+    PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
+    „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
+    torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
+    ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis. O beveik
+    kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar
+    Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,
+    Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry
+    (Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel
+    Levinas (Emanuelis Levinas).
+    Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
+    žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
+    tina Senda Berenson-Abbot (Senda Berenson-Abot, g.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

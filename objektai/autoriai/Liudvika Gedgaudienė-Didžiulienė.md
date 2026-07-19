@@ -113,7 +113,7 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Z. Sierakausko nurodymu jie
+    Sierakausko nurodymu jie
 
     : SUKILĖLIŲ PULKAI
 
@@ -121,7 +121,15 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
     moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
 
     „Štai vieną dieną bažnyčioje visais varpais skambina.
-  citata_rodoma: "Sierakausko nurodymu jie\n\n: SUKILĖLIŲ PULKAI\n\nIš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios\nmoters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.\n\n„Štai vieną dieną bažnyčioje visais varpais skambina."
+  citata_rodoma: |
+    Sierakausko nurodymu jie
+
+    : SUKILĖLIŲ PULKAI
+
+    Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
+    moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
+
+    „Štai vieną dieną bažnyčioje visais varpais skambina.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

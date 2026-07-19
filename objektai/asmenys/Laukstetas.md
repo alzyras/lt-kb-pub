@@ -68,7 +68,13 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
     Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo
     vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
     lengviau tramdyti sembus.
-  citata_rodoma: "Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys\n\n  Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino\nSurgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo\nvieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų\nlengviau tramdyti sembus."
+  citata_rodoma: |
+    Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
+
+      Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
+    Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo
+    vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
+    lengviau tramdyti sembus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -456,7 +456,16 @@ media_all_json: |-
     kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
     damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
     jo per mažai karių.
-  citata_rodoma: "Vėliau nušuoliavo prie upės ir iš užpakalio\nužpuolė pakrantėje išstatytas saugas, atverdami savo\nvyrams kelią. Karalius su kitais kariais laukė, kuo vis­\nkas baigsis; pastebėjęs savo vėliavas kitame krante,\njis drąsiai pavarė žirgą į upę ir, vienur briste brisda­\nmas, kitur plaukte plaukdamas, pirmas nusigavo į kitą\nkrantą, pervesdamas be jokių nuostolių visus raitelius.\nKol pėstininkai persikėlė plaustais, saulė pakrypo į va­\nkarus."
+  citata_rodoma: |
+    Vėliau nušuoliavo prie upės ir iš užpakalio
+    užpuolė pakrantėje išstatytas saugas, atverdami savo
+    vyrams kelią. Karalius su kitais kariais laukė, kuo vis­
+    kas baigsis; pastebėjęs savo vėliavas kitame krante,
+    jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
+    mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
+    krantą, pervesdamas be jokių nuostolių visus raitelius.
+    Kol pėstininkai persikėlė plaustais, saulė pakrypo į va­
+    karus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -497,7 +506,21 @@ media_all_json: |-
     trūko nė pačioje Lenkijoje Glinskio papirktų žmonių,
     kurie Silezijos ir Moravijos pasieniuose pasamdytus
     karius vedė Maskvos valdovui.
-  citata_rodoma: "Tačiau Vasilijus, negalėda­\nmas užmiršti imperatoriaus bei kryžiuočių pažadų ir\ntikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo\nnė galvoti. Žygimantas, netekęs vilties pasiekti taikos,\nkuo greičiausiai išsiuntė skitams pagal sutartį paža­\ndėtą atlyginimą, manydamas, kad šie privers priešą\nlikti savo žemėje. Gavę pinigų, skitai užpuolė su di­\ndele\nkariuomene\nMaskvos\nS k ita i u žp u o la  M ask-\nkunigaikštystę ir smarkiai ją\nv o s  k u n ig a ik šty stę\nnuniokojo."
+  citata_rodoma: |
+    Tačiau Vasilijus, negalėda­
+    mas užmiršti imperatoriaus bei kryžiuočių pažadų ir
+    tikėdamasis užgrobti visą Lietuvą, apie taiką nenorėjo
+    nė galvoti. Žygimantas, netekęs vilties pasiekti taikos,
+    kuo greičiausiai išsiuntė skitams pagal sutartį paža­
+    dėtą atlyginimą, manydamas, kad šie privers priešą
+    likti savo žemėje. Gavę pinigų, skitai užpuolė su di­
+    dele
+    kariuomene
+    Maskvos
+    S k ita i u žp u o la  M ask-
+    kunigaikštystę ir smarkiai ją
+    v o s  k u n ig a ik šty stę
+    nuniokojo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -528,7 +551,23 @@ media_all_json: |-
     lenską; ši žemė, Vytautui nukariavus jos kunigaikščius,
     ištisą šimtmetį išbuvo Lietuvos didžiųjų kunigaikščių
     valdžioje.
-  citata_rodoma: "Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­\ndešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­\ndešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-\nką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­\nčią į priekį kariuomenę sustabdė žinia, jog karalius\nŽygimantas prie Borisovo su trisdešimt tūkstančių rink­\ntinių karių įkūrė stovyklą.\nTuo tarpu Glinskis suvo-\nT ia g išk a s\nM y k o lo\nkė, jog visos jo viltys bergž-\nG lin sk io  g a la s\ndžios ir tuščios, nes Vasili­\njus, žodžiu pažadėjęs jam ati­\nduoti Smolenską ir šitaip atsilyginti už paramą, nė\nnesirengė to daryti."
+  citata_rodoma: |
+    Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­
+    dešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­
+    dešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-
+    ką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­
+    čią į priekį kariuomenę sustabdė žinia, jog karalius
+    Žygimantas prie Borisovo su trisdešimt tūkstančių rink­
+    tinių karių įkūrė stovyklą.
+    Tuo tarpu Glinskis suvo-
+    T ia g išk a s
+    M y k o lo
+    kė, jog visos jo viltys bergž-
+    G lin sk io  g a la s
+    džios ir tuščios, nes Vasili­
+    jus, žodžiu pažadėjęs jam ati­
+    duoti Smolenską ir šitaip atsilyginti už paramą, nė
+    nesirengė to daryti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -74,7 +74,11 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
     Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
     pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
     gubernijos kaimai.
-  citata_rodoma: "(lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-\ndentas A. Smetona), kurios savo konferencijose, tarpininkaujant\nškotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo\nbuvusios gubernijos sienos."
+  citata_rodoma: |
+    (lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-
+    dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
+    škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
+    buvusios gubernijos sienos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

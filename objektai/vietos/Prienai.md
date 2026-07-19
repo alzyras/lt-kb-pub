@@ -169,7 +169,11 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     tikslu apeiti ir užpulti Kauną
     iš pietų. 5-asis pulkas puola
     Kauną tiesiai pro Kaišiadoris.
-  citata_rodoma: "© ::iosios brigados 7-asis pul-\nkas puola Prienų kryptimi su\ntikslu apeiti ir užpulti Kauną\niš pietų."
+  citata_rodoma: |
+    © ::iosios brigados 7-asis pul-
+    kas puola Prienų kryptimi su
+    tikslu apeiti ir užpulti Kauną
+    iš pietų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -227,7 +231,46 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     rinė vadovybė 1919 m. vasario pradžioje
     ryžosi pradėti Kauno puolimą iš pietų
     pusės.
-  citata_rodoma: "173\n\nr\n‘wv\n2\n\nm\n\n=\n\no\n\nvi\n\n=\n=\nx\nrą\n\na\n\n7\nsa\n\nkovos\n\n## Puslapis 176\n\nLIETUVOS,\nRESPUBLIKA\n\nPrieš mūšį\nĮgyvendindamos Kauno užėmimo planą\nbolševikų pajėgos ketino veržtis iki\nNemuno, persikelti per jį Prienuose ir\nAlytuje ir pulti Kauną iš pietų. Tai buvo\nsvarbi kompleksinių Raudonosios armi-\njos veiksmų plano, nukreipto prieš at-\ngimusį Lietuvos valstybingumą, dalis."
+  citata_rodoma: |
+    173
+
+    r
+    ‘wv
+    2
+
+    m
+
+    =
+
+    o
+
+    vi
+
+    =
+    =
+    x
+    rą
+
+    a
+
+    7
+    sa
+
+    kovos
+
+    ## Puslapis 176
+
+    LIETUVOS,
+    RESPUBLIKA
+
+    Prieš mūšį
+    Įgyvendindamos Kauno užėmimo planą
+    bolševikų pajėgos ketino veržtis iki
+    Nemuno, persikelti per jį Prienuose ir
+    Alytuje ir pulti Kauną iš pietų. Tai buvo
+    svarbi kompleksinių Raudonosios armi-
+    jos veiksmų plano, nukreipto prieš at-
+    gimusį Lietuvos valstybingumą, dalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

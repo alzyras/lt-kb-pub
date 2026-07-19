@@ -72,7 +72,9 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
     1260 m. (t. y. Kurše— Durbė), „zu Pocarwen“ ir kt., apie Vokietijos, Čekijos hercogų,
     markgrafų, karalių atvykimą į Prūsiją. Tekstas baigiamas Skalvių pilies pastatymu 1293
     m.
-  citata_rodoma: "Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama\napie Ordino įsikūrimą Jeruzalėje 1190 m."
+  citata_rodoma: |
+    Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama
+    apie Ordino įsikūrimą Jeruzalėje 1190 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

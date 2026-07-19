@@ -147,7 +147,8 @@ media_all_json: |-
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
-  citata_rodoma: "jungai – laisvų ir demokratinių Europos valstybių susivienijimui."
+  citata_rodoma: |
+    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

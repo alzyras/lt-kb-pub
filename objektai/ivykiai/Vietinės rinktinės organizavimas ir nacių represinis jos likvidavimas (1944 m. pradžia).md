@@ -85,7 +85,8 @@ Nenurodyta
     kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
     joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo
     kvietimą atsiliepė 20 tūkst. savanorių, į dalinius priimta 10 tūkst. vyrų.
-  citata_rodoma: "joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo"
+  citata_rodoma: |
+    joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

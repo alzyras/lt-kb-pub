@@ -99,7 +99,10 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
     pritariančią Himanso planui. Rugsėjį Himansas dar pataisė planą lietuvių
     naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
     nio rajono statusą.
-  citata_rodoma: "Rugsėjį Himansas dar pataisė planą lietuvių \nnaudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-\nnio rajono statusą."
+  citata_rodoma: |
+    Rugsėjį Himansas dar pataisė planą lietuvių
+    naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
+    nio rajono statusą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

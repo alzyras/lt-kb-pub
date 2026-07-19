@@ -94,7 +94,8 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
     ožkų ir karvių.
     Pinigus tuos pragerdavo visi
     susiėję.
-  citata_rodoma: "Pinigus tuos pragerdavo visi susiėję."
+  citata_rodoma: |
+    Pinigus tuos pragerdavo visi susiėję.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
@@ -118,7 +119,8 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
     ir
     ganymą
     ožkų ir karvių.
-  citata_rodoma: "Mat, cibavos — tai buvo pinigai, surinkti iš bežemių grįtelninkų ir kampininkų už ganyklą ir ganymą ožkų ir karvių."
+  citata_rodoma: |
+    Mat, cibavos — tai buvo pinigai, surinkti iš bežemių grįtelninkų ir kampininkų už ganyklą ir ganymą ožkų ir karvių.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

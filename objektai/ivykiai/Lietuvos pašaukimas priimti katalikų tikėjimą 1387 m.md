@@ -213,7 +213,19 @@ Nenurodyta
     dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
     kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
     Rusia.
-  citata_rodoma: "Pasakiau „stebuklingu būdu“, kadangi apaš­\ntališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­\nkinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių\nriterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus\npatrauklumas. Lenkijos karalienės Jadvygos ranka, paduota\nVladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­\nrius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija\njo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­\nnyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie\ndidžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri\njų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­\ndžių."
+  citata_rodoma: |
+    Pasakiau „stebuklingu būdu“, kadangi apaš­
+    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
+    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
+    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
+    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
+    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
+    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
+    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
+    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
+    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
+    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
+    džių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

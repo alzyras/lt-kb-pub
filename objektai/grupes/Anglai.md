@@ -395,7 +395,23 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
     mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
     vo likimą31.
-  citata_rodoma: "Arkikomtūro laiškas Romos\n- •\n123\n\n## Puslapis 140\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nPatrankų, apie kurias neseniai buvo sužinota, baisūs pa­\ndariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose\nįgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo\npagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-\nšėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­\nti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­\ntutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito\nmūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­\nvo likimą31."
+  citata_rodoma: |
+    Arkikomtūro laiškas Romos
+    - •
+    123
+
+    ## Puslapis 140
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­
+    dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose
+    įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo
+    pagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-
+    šėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­
+    ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­
+    tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
+    mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
+    vo likimą31.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

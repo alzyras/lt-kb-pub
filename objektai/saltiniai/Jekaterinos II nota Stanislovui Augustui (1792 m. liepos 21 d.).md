@@ -72,7 +72,8 @@ media_all_json: |-
     kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
     21 dieną iš Jekaterinos II gautą notą.
-  citata_rodoma: "Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos"
+  citata_rodoma: |
+    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

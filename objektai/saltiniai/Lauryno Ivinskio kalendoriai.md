@@ -60,7 +60,11 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
     Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
-  citata_rodoma: "M. Balinskis \nsupažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­\nrolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais. \nŠios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio."
+  citata_rodoma: |
+    M. Balinskis
+    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
+    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
+    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

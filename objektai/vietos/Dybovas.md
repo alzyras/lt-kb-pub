@@ -94,7 +94,13 @@ Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su 
     Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
     išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
-  citata_rodoma: "Tai buvo 1258 metais“ .\nDybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­\nlas arba šventykla, savo viduryje turėjusi neapsakomo didumo\nąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę."
+  citata_rodoma: |
+    Tai buvo 1258 metais“ .
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -72,7 +72,9 @@ Dusburgietis teigia, kad ochmański J.
     Preussen nebst dem Netzdistrict 1 : 150000. 25 Sectionen (Schroetter-Karte, 1796—
     1802).—Historisch-geographischer Atlas des Preussenlandes / Herausgegeben von H.
     Mortensen, G. Mortensen, R. Wenskus, H. Jäger.
-  citata_rodoma: "Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,\n1961, 27, s. 143—160."
+  citata_rodoma: |
+    Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,
+    1961, 27, s. 143—160.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

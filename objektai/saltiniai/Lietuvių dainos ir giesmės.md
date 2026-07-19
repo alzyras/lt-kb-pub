@@ -84,7 +84,17 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     rių tik dalis išleista drauge su A. Sabaliausko dainų rinkiniu anksčiau
     paminėtoje knygoje; dar 1930 m. vėl buvo atkeliavęs į Kauną susi­
     pažinti su naujais lietuvių liaudies dainų rinkiniais.
-  citata_rodoma: "1906 m. vasarą studijų kelionė į Vokią; 1909 m. vasarą studijų ir dai­\nnų rinkimo kelionė Suomijos Karieloje; 1910— 12 m. lietuvių tauto­\nsakos studijų tikslais kelionės po Lietuvą ir Latviją (Kaunas, Tilžė, \nKaraliaučius, Vilnius, Ryga), ypač 1910 m. dainų rinkimas šiaurės \nrytų Lietuvoje (apie tai plačiau Niemio ir Sabaliausko „Lietuvių dai­\nnos ir giesmės“ knygoje) ir 1911 m. Dzūkijoj (Valkininkai, Merkinė, \nDaugai), tose kelionėse surinkęs iš viso ape 3,500 liaudies dainų, ku­\nrių tik dalis išleista drauge su A. Sabaliausko dainų rinkiniu anksčiau \npaminėtoje knygoje; dar 1930 m. vėl buvo atkeliavęs į Kauną susi­\npažinti su naujais lietuvių liaudies dainų rinkiniais."
+  citata_rodoma: |
+    1906 m. vasarą studijų kelionė į Vokią; 1909 m. vasarą studijų ir dai­
+    nų rinkimo kelionė Suomijos Karieloje; 1910— 12 m. lietuvių tauto­
+    sakos studijų tikslais kelionės po Lietuvą ir Latviją (Kaunas, Tilžė,
+    Karaliaučius, Vilnius, Ryga), ypač 1910 m. dainų rinkimas šiaurės
+    rytų Lietuvoje (apie tai plačiau Niemio ir Sabaliausko „Lietuvių dai­
+    nos ir giesmės“ knygoje) ir 1911 m. Dzūkijoj (Valkininkai, Merkinė,
+    Daugai), tose kelionėse surinkęs iš viso ape 3,500 liaudies dainų, ku­
+    rių tik dalis išleista drauge su A. Sabaliausko dainų rinkiniu anksčiau
+    paminėtoje knygoje; dar 1930 m. vėl buvo atkeliavęs į Kauną susi­
+    pažinti su naujais lietuvių liaudies dainų rinkiniais.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
@@ -101,7 +111,9 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     1911 L. Latviškos ir lietuviškos žymės suomių liaudies poezijoje.
     1912 L. Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje.
     Dainų rinkinys drauge su kun. A. Sabaliausko rinkiniu.
-  citata_rodoma: "1912 L. Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje.\nDainų rinkinys drauge su kun. A. Sabaliausko rinkiniu."
+  citata_rodoma: |
+    1912 L. Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje.
+    Dainų rinkinys drauge su kun. A. Sabaliausko rinkiniu.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

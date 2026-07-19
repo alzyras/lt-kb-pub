@@ -118,7 +118,37 @@ Nenurodyta
     stengėsi atstatyti tvirtoves, būgštaudami, kad karas il­
     gainiui nepersimestų ne tik į tolimesnes Lietuvos že­
     mes, bet ir pačią Rusią.
-  citata_rodoma: "Sėkmingai išsigabenus vi­\nsą grobį ir išsivedus visus belaisvius, grėsmingai įsi­\nveržė į Lietuvą Prūsijos maršalas Šindekopfas ir\n2 47\n\napsupo Gardiną; kadangi Pat-\n1363 m e ta i \nrikas, vadovavęs pilies gyny-\nP iū sų \nž y g ia i \nį \nLie- \nbai, narsiai atrėmė keletą \ntu v ą ir Ž e m a itiją \nantpuolių, kryžiuotis, išsiža­\ndėjęs minties užimti pilį, iš­\nsiuntė karius niokoti kaimų. Vėliau su permaininga \nsėkme abi šalys siaubė viena kitos kaimus, patirdamos \nbeveik vienodų nuostolių. Labiausiai vis dėlto lietu­\nvius kamavo tai, kad, sugriovus pilis, žemdirbiai vie­\nnas po kito palikdavo kaimus, be to, priešas leisda­\nvosi vis toliau į Lietuvos gilumą. Štai todėl, norėdami\nir priešą sutramdyti, ir su-\n1364 m e ta i \nsigrąžinti nuolatinės grėsmės\nišblaškytus žemdirbius, \njie \nstengėsi atstatyti tvirtoves, būgštaudami, kad karas il­\ngainiui nepersimestų ne tik į tolimesnes Lietuvos že­\nmes, bet ir pačią Rusią."
+  citata_rodoma: |
+    Sėkmingai išsigabenus vi­
+    są grobį ir išsivedus visus belaisvius, grėsmingai įsi­
+    veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
+    2 47
+
+    apsupo Gardiną; kadangi Pat-
+    1363 m e ta i
+    rikas, vadovavęs pilies gyny-
+    P iū sų
+    ž y g ia i
+    į
+    Lie-
+    bai, narsiai atrėmė keletą
+    tu v ą ir Ž e m a itiją
+    antpuolių, kryžiuotis, išsiža­
+    dėjęs minties užimti pilį, iš­
+    siuntė karius niokoti kaimų. Vėliau su permaininga
+    sėkme abi šalys siaubė viena kitos kaimus, patirdamos
+    beveik vienodų nuostolių. Labiausiai vis dėlto lietu­
+    vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie­
+    nas po kito palikdavo kaimus, be to, priešas leisda­
+    vosi vis toliau į Lietuvos gilumą. Štai todėl, norėdami
+    ir priešą sutramdyti, ir su-
+    1364 m e ta i
+    sigrąžinti nuolatinės grėsmės
+    išblaškytus žemdirbius,
+    jie
+    stengėsi atstatyti tvirtoves, būgštaudami, kad karas il­
+    gainiui nepersimestų ne tik į tolimesnes Lietuvos že­
+    mes, bet ir pačią Rusią.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -152,7 +182,20 @@ Nenurodyta
     tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
     sausų malkų ir padegė taip, kad vėjas neštų liepsną į
     pilį, daug gynėjų žuvo ugnyje.
-  citata_rodoma: "Kita vertus, priešas irgi iš pas­\nkutiniųjų stengėsi, kad neseniai nusiaubtose žemėse\nnebūtų iš naujo atstatomos pilys, trukdančios jam leis­\ntis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­\nbininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­\ntosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė\npradėtą pilį. Po to Prūsijos magistras užėmė ir sude­\ngino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;\ntaip pat sudegino ir užkariavo Veliuoną, neseniai pa­\nkeltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­\ntas, tačiau puolėjai prie pačių sienų sukrovė krūvą\nsausų malkų ir padegė taip, kad vėjas neštų liepsną į\npilį, daug gynėjų žuvo ugnyje."
+  citata_rodoma: |
+    Kita vertus, priešas irgi iš pas­
+    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
+    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
+    tis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­
+    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
+    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
+    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
+    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
+    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
+    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
+    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
+    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
+    pilį, daug gynėjų žuvo ugnyje.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

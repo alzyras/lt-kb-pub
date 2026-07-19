@@ -121,7 +121,17 @@ Nenurodyta
     Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio
     iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę
     pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226).
-  citata_rodoma: "Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių\n\n  Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento\nMartyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena\nir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.\n\nKarolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.\nMat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio\niškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę\npinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226)."
+  citata_rodoma: |
+    Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
+
+      Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
+    Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
+    ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
+
+    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
+    Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio
+    iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę
+    pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

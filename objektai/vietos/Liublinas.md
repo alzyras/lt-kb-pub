@@ -596,7 +596,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
     lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
     1 d.).
-  citata_rodoma: "** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,\nper kurias vienų kitiems buvo pasakyta daug karčių žodžių,\nlietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo\n1 d."
+  citata_rodoma: |
+    ** Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,
+    per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
+    lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
+    1 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -618,7 +625,11 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
     tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
     kad abidvi valstybės pasiliktų savarankiškos.
-  citata_rodoma: "**Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos."
+  citata_rodoma: |
+    **Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -645,7 +656,28 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     silpnino, lenkai, sutelkę vienoje vietoje karius nelygi­
     nant kumštį, be galo lengvai sunkiaisiais raiteliais pra­
     laužė rikiuotės vidurį ir atvėrė kelią į pergalę.
-  citata_rodoma: "Po\nto santarvė su rusais atitraukė lietuvius nuo žygių į\n181\n\n## Puslapis 180\n\n1302 m eta i\nK a  as ta rp\nlen k ų  ir\nrusų,\nk u rie m s lie tu ­\nv ia i ein a  į p a g a lb ą  ir\nk u rie  su m u ša m i\nPrūsiją ir Livoniją. Mat len­\nkai ginklu stengėsi iš rusų at­\nsiimti Liubliną, kurio buvo\nnetekę prieš penkiasdešimt\nseptynerius metus. Abi pusės\nsutelkė šiam karui didžiules\nkariuomenes, ypač rusai, ku­\nrie pagalbon buvo pasikvietę skitus ir lietuvius."
+  citata_rodoma: |
+    Po
+    to santarvė su rusais atitraukė lietuvius nuo žygių į
+    181
+
+    ## Puslapis 180
+
+    1302 m eta i
+    K a  as ta rp
+    len k ų  ir
+    rusų,
+    k u rie m s lie tu ­
+    v ia i ein a  į p a g a lb ą  ir
+    k u rie  su m u ša m i
+    Prūsiją ir Livoniją. Mat len­
+    kai ginklu stengėsi iš rusų at­
+    siimti Liubliną, kurio buvo
+    netekę prieš penkiasdešimt
+    septynerius metus. Abi pusės
+    sutelkė šiam karui didžiules
+    kariuomenes, ypač rusai, ku­
+    rie pagalbon buvo pasikvietę skitus ir lietuvius.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -668,7 +700,12 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
     teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
     1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
-  citata_rodoma: "Poznanė dar anksčiau už Krokuvą - 1253 metais,\nSandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­\nketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų\nteises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -\n1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus."
+  citata_rodoma: |
+    Poznanė dar anksčiau už Krokuvą - 1253 metais,
+    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
+    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
+    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
+    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -724,7 +761,22 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     tais sumanė ir nutarė — visa tai paliko didelė paslap­
     tis 7, Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
     vą ®, o didysis kunigaikštis Aleksandras — į Vilnių9.
-  citata_rodoma: "Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 ."
+  citata_rodoma: |
+    Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -769,7 +821,11 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
     tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
     kad abidvi valstybės pasiliktų savarankiškos.
-  citata_rodoma: "**Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos."
+  citata_rodoma: |
+    **Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -811,7 +867,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
     lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
     1 d.).
-  citata_rodoma: "** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,\nper kurias vienų kitiems buvo pasakyta daug karčių žodžių,\nlietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo\n1 d."
+  citata_rodoma: |
+    ** Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,
+    per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
+    lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
+    1 d.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -853,7 +916,18 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­
     tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­
     juosta statinių tvoromis.
-  citata_rodoma: "Lietuvai, ilgai nuo krikščio­\nniškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių\nantpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­\nkos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,\nnors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam\nlaikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės\nprekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­\ndur namų samplaikos, iškilesnėje vietovėje nei Šventaragio\nslėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­\ntuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­\njuosta statinių tvoromis."
+  citata_rodoma: |
+    Lietuvai, ilgai nuo krikščio­
+    niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių
+    antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­
+    kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,
+    nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam
+    laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
+    prekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­
+    dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio
+    slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­
+    tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­
+    juosta statinių tvoromis.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas

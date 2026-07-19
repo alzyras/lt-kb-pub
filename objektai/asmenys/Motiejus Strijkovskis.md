@@ -714,7 +714,14 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
     tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
     rijos knyga.
-  citata_rodoma: "Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-\ntavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai, \nvis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame \ngyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo \n1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-\ntuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-\nrijos knyga."
+  citata_rodoma: |
+    Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
+    tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
+    vis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame
+    gyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
+    1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
+    tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
+    rijos knyga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -737,7 +744,11 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     originalo kalba, bet tie leidiniai, kaip ir jos vertimas
     į dabartinę rusų kalbą (žr. p. 10—15). dėl retumo ir
     mažo tiražo daugumui skaitytojų yra neprieinami.
-  citata_rodoma: "Ištisus to varianto frag­\nmentus M. Strijkovskis beveik pažodžiui perteikė savo \nKronikoje (M. Stryikoįvski, Kronika polska, litevvska, \nžmodzka y wszystkiey Rusi, 1582)."
+  citata_rodoma: |
+    Ištisus to varianto frag­
+    mentus M. Strijkovskis beveik pažodžiui perteikė savo
+    Kronikoje (M. Stryikoįvski, Kronika polska, litevvska,
+    žmodzka y wszystkiey Rusi, 1582).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -782,7 +793,15 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
     gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
     sę, turėjo palikti jai tas apeigas.
-  citata_rodoma: "Toje vietoje jai bu­\nvo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­\nkutinių lietuvių stabmeldystės laikų. Duomenų apie tai mums\npaliko Strijkovskis.\nBirutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno."
+  citata_rodoma: |
+    Toje vietoje jai bu­
+    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
+    kutinių lietuvių stabmeldystės laikų. Duomenų apie tai mums
+    paliko Strijkovskis.
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -840,7 +859,10 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     Ąžuolas su amalu iki šiol yra ne tik retenybė, bet ir pri­
     klauso senovės prietarams. F. Noelis straipsnyje „Gutheil“ sa­
     10 Sirvydo žodynas.
-  citata_rodoma: "ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas\nmedis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs\ndievaitis Pušaitis su savo barstukų kariuomene."
+  citata_rodoma: |
+    ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas
+    medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
+    dievaitis Pušaitis su savo barstukų kariuomene.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -858,7 +880,15 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     rėlė yra indiškos kilmės: tokią išvadą padarė remdamiesi tik pa­
     našumu. 1831 metais tas senovės paminklas kartu su visu drau­
     gijos muziejumi buvo išvežtas į Sankt Peterburgą.
-  citata_rodoma: "Skulptorių ir dailininkų stoką atstojo vaiz­\n243\n\n## Puslapis 243\n\nduotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena."
+  citata_rodoma: |
+    Skulptorių ir dailininkų stoką atstojo vaiz­
+    243
+
+    ## Puslapis 243
+
+    duotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
+    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
+    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -877,7 +907,11 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
-  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
+  citata_rodoma: |
+    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
+    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
+    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
+    milžino išvaizdos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -896,7 +930,12 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     Senprūsių kalbojeR/Uv, arbaRyks, reiškė valstybę, Rikaus-
     na - valdžią, Rikys - valdovą, Rykyans - viešpatavimą, Ryeki -
     karalystę, Rikint - valdyti.
-  citata_rodoma: "Plačios lygumos, užliejamos dvie­\njų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,\nneišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­\npis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis\nšventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena."
+  citata_rodoma: |
+    Plačios lygumos, užliejamos dvie­
+    jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
+    neišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­
+    pis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis
+    šventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -936,7 +975,15 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
     gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
     ne. muskis. und man'.
-  citata_rodoma: "Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv."
+  citata_rodoma: |
+    Šis ugnies krikštas, arba apsivalymas
+    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
+    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
+    gas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai
+    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
+    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
+    Palės garbei.
+    Būrimus, darytus su ugnimi, uždegta šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -961,7 +1008,19 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
     XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
     dalo ir seno graviravimo signečių pėdsakas.
-  citata_rodoma: "402\n\n## Puslapis 402\n\ntuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­\nnete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam\nnors neateidavo į galvą savo signetėje išraižyti ką nors kita.\nVis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10."
+  citata_rodoma: |
+    402
+
+    ## Puslapis 402
+
+    tuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­
+    nete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam
+    nors neateidavo į galvą savo signetėje išraižyti ką nors kita.
+    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
+    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
+    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
+    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
+    metais Gediminas davė Krunevičiui10.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -988,7 +1047,21 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
     arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
     11 Sirvydo žodynas.
-  citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
+  citata_rodoma: |
+    Jau ir šiaip žinome, ir anksčiau sakėme, kad
+    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
+    8
+    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
+    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
+    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
+    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
+    430
+
+    ## Puslapis 430
+
+    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
+    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
+    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1044,7 +1117,16 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
     vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
     ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
-  citata_rodoma: "Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų. Jėzuitas\nKojai avičius*** parašė lietuvių istoriją lotynų kalba; jis\napsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius\nrėmus, ne visuomet taikliai taisydamas jo spragas.\n6\nNuo to meto nieko iš šio dalyko neišėjo ištisai: mė­\nginimai, nedidelės žinutės, studijos, prielaidų fragmentai."
+  citata_rodoma: |
+    Latvių, arba
+    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
+    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
+    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
+    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
+    rėmus, ne visuomet taikliai taisydamas jo spragas.
+    6
+    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
+    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1116,7 +1198,19 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     manto I laikais gyvenęs istorikas, rašo girdėjęs jotvingių
     kalbą Polesėje, šalia Drohičino; jos nei jis, nei lietuvis,
     nei žemaitis negalėję suprasti.
-  citata_rodoma: "115\nStrijkovskis savo amžiuje dar girdėjo apie likučius\nišsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir\napgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-\n1 Stryjkomski.\nS. 181.\n121\n\n## Puslapis 119\n\nterburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­\ntuose, kur juos vadino igovėnais."
+  citata_rodoma: |
+    115
+    Strijkovskis savo amžiuje dar girdėjo apie likučius
+    išsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir
+    apgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-
+    1 Stryjkomski.
+    S. 181.
+    121
+
+    ## Puslapis 119
+
+    terburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­
+    tuose, kur juos vadino igovėnais.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

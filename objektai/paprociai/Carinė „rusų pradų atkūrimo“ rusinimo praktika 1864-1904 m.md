@@ -166,7 +166,16 @@ Nenurodyta
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
     nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
     nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
-  citata_rodoma: "Imperijos politiko-\nje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti \njėga, neieškant konsensuso su vietos visuomene. Jie tikėjosi pakeisti pa-\nčią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad \npo baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai \nįmanoma pasiekti. Juk separatizmas tarpo pirmiausia vietos bajoriškoje \nvisuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, \nnebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-\nnimo“ politiką papildę „rusų pradų atkūrimo“ politika."
+  citata_rodoma: |
+    Imperijos politiko-
+    je „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti
+    jėga, neieškant konsensuso su vietos visuomene. Jie tikėjosi pakeisti pa-
+    čią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad
+    po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
+    įmanoma pasiekti. Juk separatizmas tarpo pirmiausia vietos bajoriškoje
+    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
+    nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
+    nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -186,7 +195,13 @@ Nenurodyta
     tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
     rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
     jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: "„Rusų pradų atkūrimo“ \npolitikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-\nlėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams, \ntad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo \nrusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą \njų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai."
+  citata_rodoma: |
+    „Rusų pradų atkūrimo“
+    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-
+    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
+    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
+    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
+    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -215,7 +230,18 @@ Nenurodyta
     mis“, viešajame gyvenime vietoje lenkų įsivyrautų rusų kalba, dominuo-
     jančias pozicijas įgytų Rusų stačiatikių bažnyčia, o valstiečių vaikai įsilie-
     tų į rusų aukštąją kultūrą.
-  citata_rodoma: "Rusinimo politika 1864–1904 metais \nŠios politikos ėmėsi sukilimo slopintojas ir vienas jos su-\nmanytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į \npagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vil-\nniaus švietimo apygardos globėju. Programą sudarė kompleksas specialių \nekonominės ir kultūrinės politikos priemonių, turėjusių susilpninti vietos \ndvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose \nLLV žemėse, dabar oficialiai traktuojamose „nuo seno rusiškomis žemė-\nmis“, viešajame gyvenime vietoje lenkų įsivyrautų rusų kalba, dominuo-\njančias pozicijas įgytų Rusų stačiatikių bažnyčia, o valstiečių vaikai įsilie-\ntų į rusų aukštąją kultūrą."
+  citata_rodoma: |
+    Rusinimo politika 1864–1904 metais
+    Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-
+    manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į
+    pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vil-
+    niaus švietimo apygardos globėju. Programą sudarė kompleksas specialių
+    ekonominės ir kultūrinės politikos priemonių, turėjusių susilpninti vietos
+    dvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose
+    LLV žemėse, dabar oficialiai traktuojamose „nuo seno rusiškomis žemė-
+    mis“, viešajame gyvenime vietoje lenkų įsivyrautų rusų kalba, dominuo-
+    jančias pozicijas įgytų Rusų stačiatikių bažnyčia, o valstiečių vaikai įsilie-
+    tų į rusų aukštąją kultūrą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

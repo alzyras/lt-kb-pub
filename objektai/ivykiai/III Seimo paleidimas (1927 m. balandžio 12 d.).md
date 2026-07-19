@@ -88,7 +88,8 @@ Nenurodyta
     o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu. Taip pre-
     zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
     šalies politinę jėgą – krikščionis demokratus.
-  citata_rodoma: "zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią"
+  citata_rodoma: |
+    zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

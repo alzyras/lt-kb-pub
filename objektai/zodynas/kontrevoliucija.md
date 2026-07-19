@@ -92,7 +92,13 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
     lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
     reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
     kurio jie anksčiau buvo stipriai palaikomi.
-  citata_rodoma: "Paminėtina tai, kad Jogailos kontrevoliucijos pasi­\nsekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada\nvarė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti\nlietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos\nreikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,\nkurio jie anksčiau buvo stipriai palaikomi."
+  citata_rodoma: |
+    Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
+    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
+    varė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti
+    lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
+    reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
+    kurio jie anksčiau buvo stipriai palaikomi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -113,7 +119,10 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
     užėmė pilį. Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
     sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
     varė gyvą ir didelę prekybą su Vilniaus miestu.
-  citata_rodoma: "Paminėtina tai, kad Jogailos kontrevoliucijos pasi­\nsekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada\nvarė gyvą ir didelę prekybą su Vilniaus miestu."
+  citata_rodoma: |
+    Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
+    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
+    varė gyvą ir didelę prekybą su Vilniaus miestu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

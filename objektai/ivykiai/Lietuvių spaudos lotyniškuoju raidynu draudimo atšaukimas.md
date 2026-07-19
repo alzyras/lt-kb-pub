@@ -85,7 +85,11 @@ Nenurodyta
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
     atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
     greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
-  citata_rodoma: "Bręstant revoliucijai visoje Rusijoje caro valdžiai teko daryti nuolaidų. \nDidžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį \natšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus \ngreitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda."
+  citata_rodoma: |
+    Bręstant revoliucijai visoje Rusijoje caro valdžiai teko daryti nuolaidų.
+    Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
+    atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
+    greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

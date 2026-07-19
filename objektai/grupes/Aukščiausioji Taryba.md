@@ -132,7 +132,7 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    su Vilniumi. Sausio 12 d. Aukščiausioji
+    Sausio 12 d. Aukščiausioji
     Taryba - Atkuriamasis Seimas, vadovau-
     jamas pirmininko Vytauto Landsbergio,
     priėmė nutarimą „Dėl priemonių Lietuvos
@@ -141,7 +141,16 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
     zijos bokštą, Lietuvos radijo ir televizi-
     jos komitetą, o tankų ir šarvuočių vora
     pajudėjo Parlamento link.
-  citata_rodoma: "Sausio 12 d. Aukščiausioji\nTaryba - Atkuriamasis Seimas, vadovau-\njamas pirmininko Vytauto Landsbergio,\npriėmė nutarimą „Dėl priemonių Lietuvos\nRespublikai ginti“. Jau sausio 13-osios\nnaktį sovietai šturmavo Vilniaus televi-\nzijos bokštą, Lietuvos radijo ir televizi-\njos komitetą, o tankų ir šarvuočių vora\npajudėjo Parlamento link."
+  citata_rodoma: |
+    Sausio 12 d. Aukščiausioji
+    Taryba - Atkuriamasis Seimas, vadovau-
+    jamas pirmininko Vytauto Landsbergio,
+    priėmė nutarimą „Dėl priemonių Lietuvos
+    Respublikai ginti“. Jau sausio 13-osios
+    naktį sovietai šturmavo Vilniaus televi-
+    zijos bokštą, Lietuvos radijo ir televizi-
+    jos komitetą, o tankų ir šarvuočių vora
+    pajudėjo Parlamento link.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

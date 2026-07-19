@@ -77,7 +77,9 @@ media_all_json: |-
     Dvasininkas minėjo ir svarbiausius bajorų asmeninio gyvenimo įvykius – vestuves,
     vaikų gimimą, mirtį. Pvz., 1751 m. jis pasakojo, kad atvyko Vilniaus tijūnai Juozapas
     ir Ona Pociejūtė Tiškevičiai. Ponia turbūt čia gimdys [12].
-  citata_rodoma: "Dvasininkas minėjo ir svarbiausius bajorų asmeninio gyvenimo įvykius – vestuves, vaikų gimimą, mirtį. Pvz., 1751 m. jis pasakojo, kad atvyko Vilniaus tijūnai Juozapas\nir Ona Pociejūtė Tiškevičiai. Ponia turbūt čia gimdys [12]."
+  citata_rodoma: |
+    Dvasininkas minėjo ir svarbiausius bajorų asmeninio gyvenimo įvykius – vestuves, vaikų gimimą, mirtį. Pvz., 1751 m. jis pasakojo, kad atvyko Vilniaus tijūnai Juozapas
+    ir Ona Pociejūtė Tiškevičiai. Ponia turbūt čia gimdys [12].
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
   teiginio_tipas: faktas

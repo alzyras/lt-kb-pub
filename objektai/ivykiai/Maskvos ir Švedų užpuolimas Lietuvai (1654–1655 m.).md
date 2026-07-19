@@ -83,7 +83,11 @@ Nenurodyta
     sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav.,
     1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie
     visiškai išnyko.
-  citata_rodoma: "Jie dar keletą kartų buvo\nsušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav.,\n1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie\nvisiškai išnyko."
+  citata_rodoma: |
+    Jie dar keletą kartų buvo
+    sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav.,
+    1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie
+    visiškai išnyko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

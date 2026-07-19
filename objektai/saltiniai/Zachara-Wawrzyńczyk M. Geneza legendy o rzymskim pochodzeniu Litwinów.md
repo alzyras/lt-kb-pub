@@ -78,7 +78,9 @@ Dusburgietis teigia, kad zachara-Wawrzyńczyk M.
     Пашуто В. Т.  Реваншисты — псевдоисторики России. — М., 1971.
     Пашуто В. Т. Некоторые общие вопросы летописного источниковедения. —
     Источниковедение отечественной истории: Сборник статей.
-  citata_rodoma: "Zachara-Wawrzyńczyk M. Geneza legendy o rzymskim pochodzeniu Litwinów.—\nZeszyty historyczne, Warszawa, 1963, 3, s. 5—35."
+  citata_rodoma: |
+    Zachara-Wawrzyńczyk M. Geneza legendy o rzymskim pochodzeniu Litwinów.—
+    Zeszyty historyczne, Warszawa, 1963, 3, s. 5—35.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

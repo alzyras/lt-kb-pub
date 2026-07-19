@@ -82,7 +82,9 @@ Dusburgietis teigia, kad zajączkowski S.
     Kanthe
     Kantigirdas (Cantegerde, Kantegirt; Kantigirde)
     Karaliūnas S.
-  citata_rodoma: "Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—\nLwów, 1929."
+  citata_rodoma: |
+    Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—
+    Lwów, 1929.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

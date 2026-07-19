@@ -85,7 +85,11 @@ Nenurodyta
     e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos
     etapas truko iki 1300 m.
-  citata_rodoma: "Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.\ne. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė\n(X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos\netapas truko iki 1300 m."
+  citata_rodoma: |
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos
+    etapas truko iki 1300 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

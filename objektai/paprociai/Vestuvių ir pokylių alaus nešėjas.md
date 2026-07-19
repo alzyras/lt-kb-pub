@@ -87,7 +87,8 @@ Nenurodyta
     apėjo aplinkui.
     Taip šnekėjo besėdninkai, būreliais susispietę; šnekėdami ir klau­
     sydami vilgino burną alumi.
-  citata_rodoma: "Taip šnekėjo besėdninkai, būreliais susispietę; šnekėdami ir klau­sydami vilgino burną alumi."
+  citata_rodoma: |
+    Taip šnekėjo besėdninkai, būreliais susispietę; šnekėdami ir klau­sydami vilgino burną alumi.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

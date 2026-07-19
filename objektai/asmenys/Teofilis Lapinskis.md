@@ -74,7 +74,12 @@ Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo.
     audros ties Juodkrante sužlugo.
     1863 m. pabaigoje sukilėlių kovos ėmė
     silpti.
-  citata_rodoma: "Likę sukilėliai patraukė į Žemaitiją,\nkur laukė paramos iš užsienio, ta-\nčiau T. Lapinskio jūrų ekspedicija dėl\naudros ties Juodkrante sužlugo.\n1863 m."
+  citata_rodoma: |
+    Likę sukilėliai patraukė į Žemaitiją,
+    kur laukė paramos iš užsienio, ta-
+    čiau T. Lapinskio jūrų ekspedicija dėl
+    audros ties Juodkrante sužlugo.
+    1863 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

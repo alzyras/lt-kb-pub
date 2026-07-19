@@ -729,7 +729,16 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     apykantos kryžiuočiams.
     Baigiant šiuos svarstymus, mums dar viena pastaba ding­
     teli.
-  citata_rodoma: "aptinkame, o kitose to kraš­\nto žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­\ntas ir Traidenis.\nNebūtų sunku surinkti daugiau laiškų netikrumo įrody­\nmų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš \ntiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­\napykantos kryžiuočiams.\nBaigiant šiuos svarstymus, mums dar viena pastaba ding­\nteli."
+  citata_rodoma: |
+    aptinkame, o kitose to kraš­
+    to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­
+    tas ir Traidenis.
+    Nebūtų sunku surinkti daugiau laiškų netikrumo įrody­
+    mų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš
+    tiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­
+    apykantos kryžiuočiams.
+    Baigiant šiuos svarstymus, mums dar viena pastaba ding­
+    teli.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

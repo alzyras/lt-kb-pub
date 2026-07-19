@@ -67,7 +67,11 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
     (^42) **V. K. Jaśkiewicz :** **_A Study in Lithuanian Mythologie. Juan Lasicki's
     Samogitian Gods,_** **žr. Studi Baltici, (N. S. - I(IX)), Firenze 1952, 65-106 p.**
     (^43) **Išl. Vilniuje 1848 ; naujai išl.
-  citata_rodoma: "**\n(^42) **V. K. Jaśkiewicz :** **_A Study in Lithuanian Mythologie. Juan Lasicki's\nSamogitian Gods,_** **žr. Studi Baltici, (N. S. - I(IX)), Firenze 1952, 65-106 p.**\n(^43) **Išl."
+  citata_rodoma: |
+    **
+    (^42) **V. K. Jaśkiewicz :** **_A Study in Lithuanian Mythologie. Juan Lasicki's
+    Samogitian Gods,_** **žr. Studi Baltici, (N. S. - I(IX)), Firenze 1952, 65-106 p.**
+    (^43) **Išl.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

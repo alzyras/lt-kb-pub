@@ -85,7 +85,8 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
     cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
     gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
-  citata_rodoma: "„Be abejonės, sanskrito giminingumas su lietuvių kalba yra"
+  citata_rodoma: |
+    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

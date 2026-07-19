@@ -127,7 +127,12 @@ Nenurodyta
     20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
     vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
     kirto ir klojo kelią.
-  citata_rodoma: "Kariuomenė buvo labai gerai ginkluota;\nviena didelė kanuolė, vadinama Halka, buvo vos patraukiama\n20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes\nvasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos\nkirto ir klojo kelią."
+  citata_rodoma: |
+    Kariuomenė buvo labai gerai ginkluota;
+    viena didelė kanuolė, vadinama Halka, buvo vos patraukiama
+    20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
+    vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
+    kirto ir klojo kelią.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

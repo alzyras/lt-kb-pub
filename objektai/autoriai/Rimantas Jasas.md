@@ -113,7 +113,8 @@ Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvert
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: "Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
+  citata_rodoma: |
+    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

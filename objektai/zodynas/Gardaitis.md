@@ -76,14 +76,21 @@ Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvyn
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Valdant Hote-
-    riui, Balderis pakeitė ją žmonių auka (Eddy). Esama dainos,
-    iki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­
-    tis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-
-    dime. Juos laukinių žmonių rankos nužudžiusios kaip juodus
-    gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­
-    ta atnašauti audrų dievui.
-  citata_rodoma: "Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­\nvos aprašymą straipsnyje „Herbai“.\nGardaitis fGardoeldius/***\nVėjų, audrų, jūros potvynių dievas, jūrinių arba visokių\nlaivų globėjas, kaip rodo charakteringojo vardo prasmė. Kro­\nnikininkas jį vadina kitaip: Perdoite, Perdoilus, Gardoaitis, o\ntai yra tik tarminė vardo atmaina."
+    Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
+    vos aprašymą straipsnyje „Herbai“.
+    Gardaitis fGardoeldius/***
+    Vėjų, audrų, jūros potvynių dievas, jūrinių arba visokių
+    laivų globėjas, kaip rodo charakteringojo vardo prasmė. Kro­
+    nikininkas jį vadina kitaip: Perdoite, Perdoilus, Gardoaitis, o
+    tai yra tik tarminė vardo atmaina.
+  citata_rodoma: |
+    Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
+    vos aprašymą straipsnyje „Herbai“.
+    Gardaitis fGardoeldius/***
+    Vėjų, audrų, jūros potvynių dievas, jūrinių arba visokių
+    laivų globėjas, kaip rodo charakteringojo vardo prasmė. Kro­
+    nikininkas jį vadina kitaip: Perdoite, Perdoilus, Gardoaitis, o
+    tai yra tik tarminė vardo atmaina.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

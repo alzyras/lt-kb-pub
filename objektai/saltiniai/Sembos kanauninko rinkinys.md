@@ -80,7 +80,13 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
     ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
     metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
     dienų108.
-  citata_rodoma: "Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106\nrodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio,\nkad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107. Apskritai visų šių šaltinių\nir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos\nmetraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų\ndienų108."
+  citata_rodoma: |
+    Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106
+    rodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio,
+    kad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107. Apskritai visų šių šaltinių
+    ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
+    metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
+    dienų108.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

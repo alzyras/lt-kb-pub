@@ -106,7 +106,8 @@ Nenurodyta
     įsirišau į galą
     rimbo vinį. Gi kai pašiaušiu rimbu pažemiu, lyg dalgiu — kliudžiau
     kalei per koją.
-  citata_rodoma: "Dar prieš ateidamas įsirišau į galą rimbo vinį. Gi kai pašiaušiu rimbu pažemiu, lyg dalgiu — kliudžiau kalei per koją."
+  citata_rodoma: |
+    Dar prieš ateidamas įsirišau į galą rimbo vinį. Gi kai pašiaušiu rimbu pažemiu, lyg dalgiu — kliudžiau kalei per koją.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -129,7 +130,8 @@ Nenurodyta
     Piemuo
     išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu
     plikyti į kulnus, turi luptis.
-  citata_rodoma: "Piemuo išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu plikyti į kulnus, turi luptis."
+  citata_rodoma: |
+    Piemuo išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu plikyti į kulnus, turi luptis.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -151,7 +153,8 @@ Nenurodyta
     kaimiečių gerbiamas, pabaigė savo amželį.
     Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas,
     vadinamas triūba.
-  citata_rodoma: "Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas, vadinamas triūba."
+  citata_rodoma: |
+    Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas, vadinamas triūba.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -167,7 +170,8 @@ Nenurodyta
   citata_originali: |
     — Gi kad ir taip nieks neina. Žinai, ponaiti, kad elgeta su šuni­
     mis nesugyvena. Del jų elgeta turi nešioti lazdą ir rimbą.
-  citata_rodoma: "Del jų elgeta turi nešioti lazdą ir rimbą."
+  citata_rodoma: |
+    Del jų elgeta turi nešioti lazdą ir rimbą.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -186,7 +190,8 @@ Nenurodyta
     Priėjo ir sako: „Kur tavo rimbas “ Apžiūrėjo: „Geras rimbas!
     Aš
     žiūrėjau, kad šunys tavęs nesitvertų“ .
-  citata_rodoma: "Apžiūrėjo: „Geras rimbas! Aš žiūrėjau, kad šunys tavęs nesitvertų“ ."
+  citata_rodoma: |
+    Apžiūrėjo: „Geras rimbas! Aš žiūrėjau, kad šunys tavęs nesitvertų“ .
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -206,7 +211,8 @@ Nenurodyta
     še, trimitas jau pabaigtas.
     Antras kerdžiaus įrankis buvo ilgas rimbas ant trumpo koto; valdė
     jį kaire ranka, imdamas į dešinę tada, kai trimitavo.
-  citata_rodoma: "Antras kerdžiaus įrankis buvo ilgas rimbas ant trumpo koto; valdė jį kaire ranka, imdamas į dešinę tada, kai trimitavo."
+  citata_rodoma: |
+    Antras kerdžiaus įrankis buvo ilgas rimbas ant trumpo koto; valdė jį kaire ranka, imdamas į dešinę tada, kai trimitavo.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -228,7 +234,8 @@ Nenurodyta
     nimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir
     skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo
     vadinti „dėde“ , nes žinojo, kad raižymas buvo nebe reikalo.
-  citata_rodoma: "Viso kaimo jaunimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo vadinti „dėde“, nes žinojo, kad raižymas buvo nebe reikalo."
+  citata_rodoma: |
+    Viso kaimo jaunimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo vadinti „dėde“, nes žinojo, kad raižymas buvo nebe reikalo.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas

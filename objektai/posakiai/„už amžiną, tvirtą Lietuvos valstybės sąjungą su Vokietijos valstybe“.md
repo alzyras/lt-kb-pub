@@ -97,7 +97,14 @@ media_all_json: |-
     Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
-  citata_rodoma: "1918 metų Vasario 16 Aktas\n1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-\nkos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti\nLietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs\nKaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,\nkiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip\npriimtą."
+  citata_rodoma: |
+    1918 metų Vasario 16 Aktas
+    1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-
+    kos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti
+    Lietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs
+    Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
+    kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
+    priimtą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

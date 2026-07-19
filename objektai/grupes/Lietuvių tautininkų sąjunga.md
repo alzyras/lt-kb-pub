@@ -143,7 +143,10 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     džio 19 dieną sušaukė III Seimo nepaprastąjį posėdį. Jame LKDP bloko
     balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
     kuris prisiekė laikytis šalies konstitucijos.
-  citata_rodoma: "Jame LKDP bloko\nbalsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,\nkuris prisiekė laikytis šalies konstitucijos."
+  citata_rodoma: |
+    Jame LKDP bloko
+    balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
+    kuris prisiekė laikytis šalies konstitucijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +166,10 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
     kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
     džio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
-  citata_rodoma: "Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-\nkratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-\ndžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę)."
+  citata_rodoma: |
+    Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
+    kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
+    džio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -187,7 +193,12 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
     ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
     1938 m.
-  citata_rodoma: "A. Smetonos ir J. Tūbelio tandemas\nŪkinių ir kooperatinių organizacijų kūrėjas ir vadovas\nJ. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis\nramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–\n1938 m."
+  citata_rodoma: |
+    A. Smetonos ir J. Tūbelio tandemas
+    Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas
+    J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
+    ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
+    1938 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -208,7 +219,10 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės.
-  citata_rodoma: "Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet\nkandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių\ngrupės, o tik tautininkų kontroliuojamos savivaldybės."
+  citata_rodoma: |
+    Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
+    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
+    grupės, o tik tautininkų kontroliuojamos savivaldybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -226,7 +240,11 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės. Taip opozicijos
     atstovams neleista dalyvauti Seimo rinkimuose.
-  citata_rodoma: "Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet \nkandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių \ngrupės, o tik tautininkų kontroliuojamos savivaldybės. Taip opozicijos \natstovams neleista dalyvauti Seimo rinkimuose."
+  citata_rodoma: |
+    Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
+    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
+    grupės, o tik tautininkų kontroliuojamos savivaldybės. Taip opozicijos
+    atstovams neleista dalyvauti Seimo rinkimuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

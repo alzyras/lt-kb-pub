@@ -86,7 +86,20 @@ media_all_json: |-
     mūsų karalystės valdose privalėtų išlaikyti dešimties len­
     kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­
     to valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota.
-  citata_rodoma: "O grašius, Tikocine len­\nkiškų pavidalu nukaldintus, įsakome taip pat, kad kaip \nLenkijoje, taip ir Lietuvoje, kad būtų imami pagal lenkiškų \ngrašių kainą. Šiuo mūsų įsakymu norime, kad visi bendrai\n445\n\n## Puslapis 462\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nmūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose \nmūsų karalystės valdose privalėtų išlaikyti dešimties len­\nkiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­\nto valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota."
+  citata_rodoma: |
+    O grašius, Tikocine len­
+    kiškų pavidalu nukaldintus, įsakome taip pat, kad kaip
+    Lenkijoje, taip ir Lietuvoje, kad būtų imami pagal lenkiškų
+    grašių kainą. Šiuo mūsų įsakymu norime, kad visi bendrai
+    445
+
+    ## Puslapis 462
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    mūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose
+    mūsų karalystės valdose privalėtų išlaikyti dešimties len­
+    kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­
+    to valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

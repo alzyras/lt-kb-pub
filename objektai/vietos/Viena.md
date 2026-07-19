@@ -2503,7 +2503,9 @@ media_all_json: |-
   citata_originali: |
     didatūrą į sostą. Bet nepasisekė nė čia. Padarius sąjungą su
     Austrija, turkai užpuolė šią ir pasiekė net Vieną.
-  citata_rodoma: "Padarius sąjungą su\nAustrija, turkai užpuolė šią ir pasiekė net Vieną."
+  citata_rodoma: |
+    Padarius sąjungą su
+    Austrija, turkai užpuolė šią ir pasiekė net Vieną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2524,7 +2526,9 @@ media_all_json: |-
     monas Sapiega taip pat nenorėjo klausyti karaliaus ir karuose.
     Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino
     su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.
-  citata_rodoma: "Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino\nsu Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
+  citata_rodoma: |
+    Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino
+    su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2558,7 +2562,10 @@ media_all_json: |-
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
     bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
-  citata_rodoma: "viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,\npapildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos\nbibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74."
+  citata_rodoma: |
+    viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
+    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -2584,7 +2591,16 @@ media_all_json: |-
     čioje yra ne vienos religinės apeigos, kurioms įprasta suteikti
     naują vardą: krikštijimas vandeniu, patepimas šventais alie­
     jais, sutvirtinimas, įstojimas į vienuolius.
-  citata_rodoma: "Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,\napie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė\nnelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­\njoje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte\napie tai net neužsiminęs."
+  citata_rodoma: |
+    Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
+    apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė
+    nelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
+    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
+    apie tai net neužsiminęs.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

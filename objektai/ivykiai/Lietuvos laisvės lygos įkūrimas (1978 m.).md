@@ -87,7 +87,8 @@ Nenurodyta
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
     politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
     niuose forumuose.
-  citata_rodoma: "kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir"
+  citata_rodoma: |
+    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

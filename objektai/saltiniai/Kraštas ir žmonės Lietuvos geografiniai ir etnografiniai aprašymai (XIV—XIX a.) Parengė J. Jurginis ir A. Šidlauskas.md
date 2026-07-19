@@ -81,7 +81,9 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
     97—114.
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
-  citata_rodoma: "Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /\nParengė J. Jurginis ir A. Šidlauskas.—V., 1983."
+  citata_rodoma: |
+    Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
+    Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

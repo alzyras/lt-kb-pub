@@ -78,11 +78,15 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    116. Apie popiežiaus mirtį
+    Apie popiežiaus mirtį
 
       Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo
     tos dienos, kai ėmė rodytis kometa (Ptol. p. 1242).
-  citata_rodoma: "116. Apie popiežiaus mirtį\n\n  Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo\ntos dienos, kai ėmė rodytis kometa (Ptol. p. 1242)."
+  citata_rodoma: |
+    Apie popiežiaus mirtį
+
+      Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo
+    tos dienos, kai ėmė rodytis kometa (Ptol. p. 1242).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

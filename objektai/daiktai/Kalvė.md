@@ -81,8 +81,10 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,
-        nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
-  citata_rodoma: "Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,\nnesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo."
+    nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
+  citata_rodoma: |
+    Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,
+    nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

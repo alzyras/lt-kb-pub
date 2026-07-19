@@ -82,7 +82,7 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Bendras durtuvo ilgis — 502 mm. Svoris be durtuvo - 4,20 kg
+    Svoris be durtuvo - 4,20 kg
 
     SAVANORIAI VERŽIASI Į KOVĄ
 
@@ -106,7 +106,31 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
     5
 
     .
-  citata_rodoma: "Svoris be durtuvo - 4,20 kg\n\nSAVANORIAI VERŽIASI Į KOVĄ\n\n|\n\n| Savanoris Antanas Šukys, tuo metu mokęsis Kauno Karužų mokykloje, prisimena, |\nkaip buvo renkami kariai sulaikyti per Jiezną besiveržiančios Raudonosios armijos.\n\n\"\nai)\n2\n\n>\n\n£\n\no\n\n“\n\n5\n\n."
+  citata_rodoma: |
+    Svoris be durtuvo - 4,20 kg
+
+    SAVANORIAI VERŽIASI Į KOVĄ
+
+    |
+
+    | Savanoris Antanas Šukys, tuo metu mokęsis Kauno Karužų mokykloje, prisimena, |
+    kaip buvo renkami kariai sulaikyti per Jiezną besiveržiančios Raudonosios armijos.
+
+    "
+    ai)
+    2
+
+    >
+
+    £
+
+    o
+
+    “
+
+    5
+
+    .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

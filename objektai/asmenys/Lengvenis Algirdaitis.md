@@ -77,7 +77,11 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
     Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė
     prieš Smolenską. Būdamas silpnas atsispirti, Jurgis pabėgo pas
     Maskvos Vosylių.
-  citata_rodoma: "Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po\nRaciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė\nprieš Smolenską. Būdamas silpnas atsispirti, Jurgis pabėgo pas\nMaskvos Vosylių."
+  citata_rodoma: |
+    Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po
+    Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė
+    prieš Smolenską. Būdamas silpnas atsispirti, Jurgis pabėgo pas
+    Maskvos Vosylių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

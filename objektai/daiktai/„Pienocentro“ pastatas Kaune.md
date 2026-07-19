@@ -96,7 +96,10 @@ Nenurodyta
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
     „Pienocentro“ pastatas Kaune (apie 1938).
-  citata_rodoma: "1933 m. \nliepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu \n„Pienocentro“ pastatas Kaune (apie 1938)."
+  citata_rodoma: |
+    1933 m.
+    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
+    „Pienocentro“ pastatas Kaune (apie 1938).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

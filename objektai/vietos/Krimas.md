@@ -69,7 +69,10 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
     totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
     Lietuva.
-  citata_rodoma: "Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-\nrado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-\nnės pilis)."
+  citata_rodoma: |
+    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
+    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
+    nės pilis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

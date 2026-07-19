@@ -261,7 +261,12 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     leidžiamos raketos, vyko įvairūs
     šaudymai bei deginamos kitos ar­
     tilerijos užtaisų ugnys".
-  citata_rodoma: "Mikalojaus bažnyčią. O po dvi­\ndešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė, \nVilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­\nvo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­\ntydino nedidukę oratoriją, arba koplyčią14."
+  citata_rodoma: |
+    Mikalojaus bažnyčią. O po dvi­
+    dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
+    Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­
+    vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­
+    tydino nedidukę oratoriją, arba koplyčią14.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -328,7 +333,19 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
     ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
     gai ir sumaniai valdant kraštą.
-  citata_rodoma: "14\nŠios koplyčios fundacijos akte, 1543 \nmetais išleistame to paties vyskupo \n(žr. Grzybowski, 1. 40), matyti,\n266\n\n## Puslapis 283\n\nIV KNYGA\nVisi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei \nir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­\ngai ir sumaniai valdant kraštą."
+  citata_rodoma: |
+    14
+    Šios koplyčios fundacijos akte, 1543
+    metais išleistame to paties vyskupo
+    (žr. Grzybowski, 1. 40), matyti,
+    266
+
+    ## Puslapis 283
+
+    IV KNYGA
+    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
+    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
+    gai ir sumaniai valdant kraštą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

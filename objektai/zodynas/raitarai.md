@@ -63,7 +63,14 @@ media_all_json: |-
     ginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi
     Lietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |
     kariauti su rytietiško pavyzdžio kariuomenėmis).
-  citata_rodoma: "Švedų raitarai, pasikliaudami karakoliavimo taktika,\n\nvengdavo artimo mūšio, todėl husarams\n\nginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi\nLietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |\nkariauti su rytietiško pavyzdžio kariuomenėmis)."
+  citata_rodoma: |
+    Švedų raitarai, pasikliaudami karakoliavimo taktika,
+
+    vengdavo artimo mūšio, todėl husarams
+
+    ginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi
+    Lietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |
+    kariauti su rytietiško pavyzdžio kariuomenėmis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

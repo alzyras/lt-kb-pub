@@ -113,7 +113,18 @@ media_all_json: |-
     kad karalystės luomai nu­
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
-  citata_rodoma: "Po to prasidėjo ilgos tarpusavio rietenos, kurias\nnuolat kurstė ir Vytautas, ir\nlenkai, siuntinėdami žygūnus:\nLietuvos didysis kunigaikštis\nstengėsi iš lenkų išgauti suti­\nkimą, o šie — priversti Vy­\ntautą atsisakyti savo sumany­\nmo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus."
+  citata_rodoma: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

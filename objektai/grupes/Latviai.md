@@ -1348,7 +1348,12 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
     apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
     krauklės prie Dauguvos iki Burtnieko ežero.
-  citata_rodoma: "Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai\nryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­\nmi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­\n_th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»\n(X, 3). XII-XIII amž."
+  citata_rodoma: |
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
+    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
+    (X, 3). XII-XIII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1437,7 +1442,18 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
     iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
     išsaugojo gryniausius savo padermės bruožus.
-  citata_rodoma: "Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba\ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos\niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki\nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,\nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu\npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,\niki pat Baltijos jūros siekianti, kaip lietuvių genties centras,\nišsaugojo gryniausius savo padermės bruožus."
+  citata_rodoma: |
+    Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1459,7 +1475,14 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Prūsai ir Lietuva\n\n   Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos\nartimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos\nvientisumas.\n  Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių."
+  citata_rodoma: |
+    Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1491,7 +1514,28 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
     pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
     tuviams kalbėję apie duoklę.
-  citata_rodoma: "Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-\n93\n\n## Puslapis 84\n\n1221 m e ta i\nK u k o v a itis — L ietu ­\nv o s  ir Ž e m a itijo s k u ­\nn ig a ik štis\ngojo taiką, būdamas beveik\niš visų pusių apsuptas bičiu­\nlių; vakaruose—prūsų- rytuo­\nse — brolio Ginvilos, Poloc­\nko kunigaikščio, pietuose\njotvingių ir Skirmanto, Nau­\ngarduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią."
+  citata_rodoma: |
+    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
+    93
+
+    ## Puslapis 84
+
+    1221 m e ta i
+    K u k o v a itis — L ietu ­
+    v o s  ir Ž e m a itijo s k u ­
+    n ig a ik štis
+    gojo taiką, būdamas beveik
+    iš visų pusių apsuptas bičiu­
+    lių; vakaruose—prūsų- rytuo­
+    se — brolio Ginvilos, Poloc­
+    ko kunigaikščio, pietuose
+    jotvingių ir Skirmanto, Nau­
+    garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -1515,7 +1559,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
     už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
     mą, rengdavosi naujam, doram gyvenimui.
-  citata_rodoma: "Tautų neapykanta\nyra senų pirmykščių laikų palikimas.\nLatviai šį dievą vadino Drebbkuls, kadangi jo galybei pri­\nskirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai,\nkai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka,\nkad visa dreba. Latvių žemėje žemės drebėjimai nežinomi, taigi\nšį pasakojimą šios tautos protėviai turėjo atsinešti iš šiltesnių\nkraštų; tas pasakojimas išlikęs iki šiol'."
+  citata_rodoma: |
+    Tautų neapykanta
+    yra senų pirmykščių laikų palikimas.
+    Latviai šį dievą vadino Drebbkuls, kadangi jo galybei pri­
+    skirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai,
+    kai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka,
+    kad visa dreba. Latvių žemėje žemės drebėjimai nežinomi, taigi
+    šį pasakojimą šios tautos protėviai turėjo atsinešti iš šiltesnių
+    kraštų; tas pasakojimas išlikęs iki šiol'.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1536,7 +1588,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     dami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­
     logijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­
     no, garbinimas sutampa.
-  citata_rodoma: "Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­\nveikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­\ndangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­\neina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,\nlik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai\nbuvo paprastas girtuoklių globėjo epitetas."
+  citata_rodoma: |
+    Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
+    veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
+    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
+    eina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,
+    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
+    buvo paprastas girtuoklių globėjo epitetas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1559,7 +1617,14 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     viešos puotos, šokta pievose, mergaitės dainuodavo dainas,
     kuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­
     ive, tai yra: „Lada, didžioji mūsų deive“.
-  citata_rodoma: "28 Ponas Adomas Borovskis*.\n1\nLatviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­\nmu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų\napskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,\njiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja\nlytimis. Tokia Stenderio nuomonė (Lettische Grammatik)."
+  citata_rodoma: |
+    28 Ponas Adomas Borovskis*.
+    1
+    Latviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­
+    mu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų
+    apskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,
+    jiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja
+    lytimis. Tokia Stenderio nuomonė (Lettische Grammatik).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1601,7 +1666,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
     ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
     užrašė bažnyčiai daugiau pajamų.
-  citata_rodoma: "Nuženk iš dangaus, pasigailėk)\nMielai atidaviau savo laikrodį bajorui, kuris man tą daine­\nlę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje\n1805 metų liepos 17 dieną.\nRusovas sako, kad latvių jaunimas garbino tą deivę, va­\ndindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį\nmitą pastebi Stenderis, bet dėl savo keistos etimologizacijos\nsudvejina: vienur vadinaDekkla, kitur -  Tikla."
+  citata_rodoma: |
+    Nuženk iš dangaus, pasigailėk)
+    Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­
+    lę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje
+    1805 metų liepos 17 dieną.
+    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
+    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
+    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
+    sudvejina: vienur vadinaDekkla, kitur -  Tikla.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1622,7 +1695,16 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     kurioje, nepaisant didelių sužalojimų, buvo galima perskaityti
     šiuos žodžius:
     rr
-  citata_rodoma: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10\n10 Rėza. Dainos.\n130\n\n## Puslapis 130\n\n(Giltine)10. Latviai, teikdami tą pačią prasmę, vadino Welli-De-\newa. Šios deivės garbinimo apeigos buvo rengiamos per laido­\ntuves ir Vėlines."
+  citata_rodoma: |
+    Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
+    10 Rėza. Dainos.
+    130
+
+    ## Puslapis 130
+
+    (Giltine)10. Latviai, teikdami tą pačią prasmę, vadino Welli-De-
+    ewa. Šios deivės garbinimo apeigos buvo rengiamos per laido­
+    tuves ir Vėlines.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1645,7 +1727,12 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     binimo apeigų liekanos.
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
-  citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
+  citata_rodoma: |
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1668,7 +1755,12 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     Tai buvo žemės ribų deivė, globojanti kampinius kaupus
     arba sergėjanti sienų neliečiamumą; jų nepažeidžiamumas lie­
     tuviams buvo šventenybė.
-  citata_rodoma: "„Tiek visos senovės tautos, tiek lietuviai tikėjo sapnais; to­\ndėl ne stebuklas, kad tas tikėjimas išlikęs iki šiol. Tačiau latvių\nsapnų aiškinimai turi kažko ypatingo, o kai kada -  skirtingo.\nPavyzdžiui, kai suaugusi mergina sapnuoja medų, tai jai pra­\nnašauja, kad per anksti praras mergystę."
+  citata_rodoma: |
+    „Tiek visos senovės tautos, tiek lietuviai tikėjo sapnais; to­
+    dėl ne stebuklas, kad tas tikėjimas išlikęs iki šiol. Tačiau latvių
+    sapnų aiškinimai turi kažko ypatingo, o kai kada -  skirtingo.
+    Pavyzdžiui, kai suaugusi mergina sapnuoja medų, tai jai pra­
+    našauja, kad per anksti praras mergystę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1689,7 +1781,14 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     Lasickis jos išsamiau neaiškino.
     Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­
     šiai - Uhsinsz arba Szwets uhsinsz21.
-  citata_rodoma: "Mėšlų boba (Mahslu Baba)\nDeivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­\nmininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­\nlių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti\nmaža senutė.\nAtrodo, ją žinojo tik latviai, kadangi kur nors kitur nieko\npanašaus nematome."
+  citata_rodoma: |
+    Mėšlų boba (Mahslu Baba)
+    Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­
+    mininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­
+    lių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti
+    maža senutė.
+    Atrodo, ją žinojo tik latviai, kadangi kur nors kitur nieko
+    panašaus nematome.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1735,7 +1834,17 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     los Užupyje; antrą kartą 1749 metų birželio 8 dieną iš Subačiaus prie­
     miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
     žirbos iš nepaprasta liepsna užsidegusio kamino.
-  citata_rodoma: "Žemės motina (Žemines Mahti)\nPožemio deivė, gyvenusi žemės viduryje. Jeigu kas nors\nnumesta ant žemės arba pamesta, jos galia sugrąžinti to pra­\nšantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­\ntas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­\ndavo savo malonę, leisdama toms mergelėms per naktį nu­\ndirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų\nviską gatava.\nAtminimas apie šios deivės garbinimą išliko tiktai Latvi­\njoje22 23 *."
+  citata_rodoma: |
+    Žemės motina (Žemines Mahti)
+    Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors
+    numesta ant žemės arba pamesta, jos galia sugrąžinti to pra­
+    šantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­
+    tas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­
+    davo savo malonę, leisdama toms mergelėms per naktį nu­
+    dirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų
+    viską gatava.
+    Atminimas apie šios deivės garbinimą išliko tiktai Latvi­
+    joje22 23 *.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1775,7 +1884,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     leidus dalyką, pradėjo atsirasti dievaičių, vadintų aitvarais (Suc-
     cubis etlncubis*), kurie, vis dažniau svečiuodamiesi, įniko nak­
     timis viešai ir dažnai rodytis gyvų žmonių pavidalu.
-  citata_rodoma: "Girystis (Giristis)\nMiško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas\niš Ksavero Bogušo pastebėjimų. Mūsų kaimiečiai savo pasa­\nkojimuose jį vadina kitaip -  Pušiniu (Pusinas). Latviai jį taip\npat vadina Meszu Deews, miškų dievu, arba Meschu Wihrs -\nmiškiniu žmogum."
+  citata_rodoma: |
+    Girystis (Giristis)
+    Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas
+    iš Ksavero Bogušo pastebėjimų. Mūsų kaimiečiai savo pasa­
+    kojimuose jį vadina kitaip -  Pušiniu (Pusinas). Latviai jį taip
+    pat vadina Meszu Deews, miškų dievu, arba Meschu Wihrs -
+    miškiniu žmogum.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1869,7 +1984,12 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
     ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
     bet nemoka tos esybės pavadinti vardu.
-  citata_rodoma: "Murgiai (Murgi)\nŠitaip latviai vadino žuvusių karuose už tėvynę didvyrių\nšmėklas, kurių būstinė buvo danguje. Jos lenkyniaudavo ug­\nniniais vežimais. Danguje jos kaudavosi su Juodžiais (Jodsy),\ntai yra su piktosiomis dvasiomis."
+  citata_rodoma: |
+    Murgiai (Murgi)
+    Šitaip latviai vadino žuvusių karuose už tėvynę didvyrių
+    šmėklas, kurių būstinė buvo danguje. Jos lenkyniaudavo ug­
+    niniais vežimais. Danguje jos kaudavosi su Juodžiais (Jodsy),
+    tai yra su piktosiomis dvasiomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1893,7 +2013,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
     prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
     kinimas.
-  citata_rodoma: "6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.\nPaprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar\nXVII amžiuje Livonijoje buvo prieita prie maišto (jo nebuvo\ngalima sulaikyti be kraujo praliejimo) vien dėl tos priežasties,\nkad Vyhandės (Woehhande) upelis buvo užtvenktas, nes norė­\nta ant jo įrengti malūną ."
+  citata_rodoma: |
+    6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.
+    Paprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar
+    XVII amžiuje Livonijoje buvo prieita prie maišto (jo nebuvo
+    galima sulaikyti be kraujo praliejimo) vien dėl tos priežasties,
+    kad Vyhandės (Woehhande) upelis buvo užtvenktas, nes norė­
+    ta ant jo įrengti malūną .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1936,7 +2062,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
     nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy­
     me.
-  citata_rodoma: "Lat­\nvijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.\nVilkolakis (Wilkats)\nLatviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­\nsų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­\nvidonas pridaro neapsakomai daug žalos."
+  citata_rodoma: |
+    Lat­
+    vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
+    Vilkolakis (Wilkats)
+    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
+    sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
+    vidonas pridaro neapsakomai daug žalos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1955,7 +2087,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     mis. Jį gerdavo šiltą, kaip kavą. Šį gėrimą mini padavimai, o
     senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo­
     niams tai esąs labai stiprinantis dalykas.
-  citata_rodoma: "Tuo klausimu išsamiai įtikina Cac-\nkis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino\nA e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -\nAlus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­\nmi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama\nBier."
+  citata_rodoma: |
+    Tuo klausimu išsamiai įtikina Cac-
+    kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
+    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
+    Alus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­
+    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
+    Bier.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1976,7 +2114,14 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     juo sudegintų tarnų ir tarnaičių kapai.
     Žemesnio luomo žmonių palaidojimai buvo be tokių soli­
     džių statinių.
-  citata_rodoma: "Lietuvoje pilkapiai randami labai retai, dažnai sly­\npi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­\nmę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­\nriuos savo padavimuose apie milžinus arba didelius žmones\nvadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­\nmai senovei; tokių padavimų yra ir kitose lietuvių genties tau­\ntose."
+  citata_rodoma: |
+    Lietuvoje pilkapiai randami labai retai, dažnai sly­
+    pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
+    mę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
+    riuos savo padavimuose apie milžinus arba didelius žmones
+    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -2021,7 +2166,21 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     jose upės pakrantėse ar net salose, esančiose prie jos
     įtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­
     lijos pakrantėse.
-  citata_rodoma: "Taigi labai\ntikėtina, jog ji lietuvių žemes padalijo į dvi dalis nuo\nNeries Dubysos ir jūros link'. Tai ir galėjo duoti pradžią\n239\n\n## Puslapis 250\n\nq\nLatvijai, kuri buvo atskirta nuo viengenčių lietuvių ir prū­\nsų. Be to, reikia manyti, jog šį bendrą tautų lizdą svetima\ngentis dalijo nemažą laiko tarpą, nes latvių tarmė labai\nryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas\nnėra toks ryškus nei prūsų, nei he rūtų kalbose, nes tarp\njų kontaktai nebuvo nutrūkę."
+  citata_rodoma: |
+    Taigi labai
+    tikėtina, jog ji lietuvių žemes padalijo į dvi dalis nuo
+    Neries Dubysos ir jūros link'. Tai ir galėjo duoti pradžią
+    239
+
+    ## Puslapis 250
+
+    q
+    Latvijai, kuri buvo atskirta nuo viengenčių lietuvių ir prū­
+    sų. Be to, reikia manyti, jog šį bendrą tautų lizdą svetima
+    gentis dalijo nemažą laiko tarpą, nes latvių tarmė labai
+    ryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas
+    nėra toks ryškus nei prūsų, nei he rūtų kalbose, nes tarp
+    jų kontaktai nebuvo nutrūkę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -2050,7 +2209,18 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     nykščiai gyventojai, nes galbūt jie yra estų palikuonys;
     tačiau šis noras įmaišyti juos į visos tautos šaknį yra
     neteisingas ir labai klaidingas.
-  citata_rodoma: "Trumpiausiai į tai atsakome pateikdami Kuršo pa­\nmokslininko ir latvių gramatikos autoriaus Stenderio žo­\ndžius. Stenderis, neketindamas atsakyti į Tuntnano prie­\nlaidą, bet tiesiog aprašydamas istorinius-topografinius šios\ntautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­\nrinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir\nnors pačiame Kuršo viduryje yra dvi apskritys, kur kai­\nmiečiai tarpusavy kalbasi estiškai, o su svetimšaliais —\nlatviškai, bet tai niekados neturėjo jokios įtakos latvių\nkalbai, nes estai nesimaišė su latviais ir su jais nesituo-\nkė“2."
+  citata_rodoma: |
+    Trumpiausiai į tai atsakome pateikdami Kuršo pa­
+    mokslininko ir latvių gramatikos autoriaus Stenderio žo­
+    džius. Stenderis, neketindamas atsakyti į Tuntnano prie­
+    laidą, bet tiesiog aprašydamas istorinius-topografinius šios
+    tautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­
+    rinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir
+    nors pačiame Kuršo viduryje yra dvi apskritys, kur kai­
+    miečiai tarpusavy kalbasi estiškai, o su svetimšaliais —
+    latviškai, bet tai niekados neturėjo jokios įtakos latvių
+    kalbai, nes estai nesimaišė su latviais ir su jais nesituo-
+    kė“2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -2073,7 +2243,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     letsa prie jūros, pats šiauriausias; pakrante nusitęsusi
     žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė­
     se — Toloma; rytinėje dalyje — tikroji Latgala1.
-  citata_rodoma: "283\nLatgala, Letgola. Infliantų, arba Livonijos, Latvija\nbuvo Dauguvos žemupyje, abiejose jos pakrantėse. Sis\npavadinimas kilęs iš latviškų žodžių Liatwin gals, Lie­\ntuvos galas. Šios lietuvių tautos valdos yra iškovotos iš\nlyvių, todėl vadinamos Livonija labai seniai ir gerokai\nanksčiau negu IX amžiuje, nes rusų kronikos pačiais se­\nniausiais laikais ten jau randa lietuvių giminės genčių."
+  citata_rodoma: |
+    283
+    Latgala, Letgola. Infliantų, arba Livonijos, Latvija
+    buvo Dauguvos žemupyje, abiejose jos pakrantėse. Sis
+    pavadinimas kilęs iš latviškų žodžių Liatwin gals, Lie­
+    tuvos galas. Šios lietuvių tautos valdos yra iškovotos iš
+    lyvių, todėl vadinamos Livonija labai seniai ir gerokai
+    anksčiau negu IX amžiuje, nes rusų kronikos pačiais se­
+    niausiais laikais ten jau randa lietuvių giminės genčių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

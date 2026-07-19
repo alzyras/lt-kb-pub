@@ -90,7 +90,7 @@ Nenurodyta
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-172701
+    - c-001
 
 <a id="claim-t-189816"></a>
 - t-001
@@ -141,6 +141,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-197254
     - t-189816
 - c-002
   santrauka: 'Narbuto perteikiamame vaizdinyje Saulė laikyta deive, Mėnulio žmona, o jų vaikai buvo žvaigždės - Saulės dukterys ir sūnūs.'
@@ -188,7 +189,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189818
-    - t-197254
 - id: c-172702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

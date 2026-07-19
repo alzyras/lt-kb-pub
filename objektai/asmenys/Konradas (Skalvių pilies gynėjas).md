@@ -86,7 +86,12 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
     Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
     ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.
-  citata_rodoma: "Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai\npriėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis\nKonradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;\nužvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems\npavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių."
+  citata_rodoma: |
+    Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
+    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
+    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
+    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
+    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

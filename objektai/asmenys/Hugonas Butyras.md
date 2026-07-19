@@ -117,7 +117,10 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
     Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir
     Išminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno
     stiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda.
-  citata_rodoma: "178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII\na. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir\nKrokuvos kunigaikščio) tarnyboje."
+  citata_rodoma: |
+    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
+    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
+    Krokuvos kunigaikščio) tarnyboje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

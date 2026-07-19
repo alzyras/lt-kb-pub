@@ -87,7 +87,11 @@ Nenurodyta
     toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
     Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
     sininko registrą bei kitus daiktus iš bernardinų.
-  citata_rodoma: "Po Vilniaus vyskupo koadju-\ntoriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)\nOlendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-\nsininko registrą bei kitus daiktus iš bernardinų."
+  citata_rodoma: |
+    Laiškuose buvo pasakojama ir apie turto perėmimą. Po Vilniaus vyskupo koadju-
+    toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
+    Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
+    sininko registrą bei kitus daiktus iš bernardinų.
   statusas: verified
   atnaujinta: "2026-07-14 07:23"
   teiginio_tipas: faktas

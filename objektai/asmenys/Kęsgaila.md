@@ -81,7 +81,11 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
     vo paskirtas Žemaičių seniūnas Kęsgaila. Suteikęs dar kai
     kuriems apskričiams Lietuvos bajorų privilegijas, Vytautas
     Panevėžio apylinkėmis grįžo į Trakus, o iš čia į Vilnių^1 ).
-  citata_rodoma: "Jam į pagalbą bu­\nvo paskirtas Žemaičių seniūnas Kęsgaila. Suteikęs dar kai\nkuriems apskričiams Lietuvos bajorų privilegijas, Vytautas\nPanevėžio apylinkėmis grįžo į Trakus, o iš čia į Vilnių^1 )."
+  citata_rodoma: |
+    Jam į pagalbą bu­
+    vo paskirtas Žemaičių seniūnas Kęsgaila. Suteikęs dar kai
+    kuriems apskričiams Lietuvos bajorų privilegijas, Vytautas
+    Panevėžio apylinkėmis grįžo į Trakus, o iš čia į Vilnių^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -119,7 +123,26 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
     liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
     gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
     vo mažametis.
-  citata_rodoma: "O paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės. Ir su visais tais miestais prisijungė \nprie Mazovijos ir ėmė tarnauti Mykoliukui\nIšgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­\nzimieras ir Didžiosios Kunigaikštystės Ponų Taryba \nskubiai siunčia su kariuomene Joną Goštautą, kurį, įke­\nliant Kazimierą į sostą, buvo paskyrę didžiojo kuni­\ngaikščio globėju, nes kunigaikštis Kazimieras dar bu­\nvo mažametis."
+  citata_rodoma: |
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės. Ir su visais tais miestais prisijungė
+    prie Mazovijos ir ėmė tarnauti Mykoliukui
+    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
+    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
+    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
+    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
+    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
+    vo mažametis.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

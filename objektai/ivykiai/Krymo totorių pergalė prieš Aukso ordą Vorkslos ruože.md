@@ -122,7 +122,13 @@ Nenurodyta
     п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
     Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
     masis gauti pagalbos Iš Turkijos sultono Bajareto II-jo.
-  citata_rodoma: "Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po \npralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus \nsumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­\ndoje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK \n(žr.Сборник Русского императорского исторического общества, \nт. 41. С  Петербург, 1884, р. 516)."
+  citata_rodoma: |
+    Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
+    pralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus
+    sumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­
+    doje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK
+    (žr.Сборник Русского императорского исторического общества,
+    т. 41. С  Петербург, 1884, р. 516).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

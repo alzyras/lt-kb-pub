@@ -122,7 +122,11 @@ Nenurodyta
     buvo paminėtas ir 1760 m. gaisras Vilniuje bei jo nuostoliai. Kanauninkas pasakojo, kad
     Vyriausiojo Tribunolo maršalas Ašmenos seniūnas Andrius Oginskis labai nuliūdęs, nes
     ugnis sunaikino jo naujus rūmus ir liko tik sienos su židiniais [60].
-  citata_rodoma: "J. D. Lopacinskio laiškuose taip pat \nbuvo paminėtas ir 1760 m. gaisras Vilniuje bei jo nuostoliai. Kanauninkas pasakojo, kad \nVyriausiojo Tribunolo maršalas Ašmenos seniūnas Andrius Oginskis labai nuliūdęs, nes \nugnis sunaikino jo naujus rūmus ir liko tik sienos su židiniais [60]."
+  citata_rodoma: |
+    J. D. Lopacinskio laiškuose taip pat
+    buvo paminėtas ir 1760 m. gaisras Vilniuje bei jo nuostoliai. Kanauninkas pasakojo, kad
+    Vyriausiojo Tribunolo maršalas Ašmenos seniūnas Andrius Oginskis labai nuliūdęs, nes
+    ugnis sunaikino jo naujus rūmus ir liko tik sienos su židiniais [60].
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
   teiginio_tipas: faktas

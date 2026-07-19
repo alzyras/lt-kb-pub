@@ -90,7 +90,8 @@ Nenurodyta
     naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
     sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
     šalies politiniame gyvenime.
-  citata_rodoma: "sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti"
+  citata_rodoma: |
+    sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

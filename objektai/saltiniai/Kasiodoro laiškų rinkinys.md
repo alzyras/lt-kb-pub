@@ -85,7 +85,16 @@ Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkin
     prašytas pagelbėti, išvyko pats ir nugalėjo rugius, kurių
     karalius žuvo kautynėse, o jo sūnus Frederikas išsigel­
     bėjo pabėgdamas iš krašto.
-  citata_rodoma: "Ostrogaias reiškia rytų galą.\n3 Šie dokumentai yra Kasiodoro laiškų rinkinyje.\n\n## Puslapis 319\n\nTokių santykių norėjo Odoakras, kuris nesiekė nieko\nkito, o tik stengėsi padidinti gerovę savo naujos valsty­\nbės, kur jis išsaugojo senus įstatymus, institucijas ir\nkitą civilinę tvarką."
+  citata_rodoma: |
+    Ostrogaias reiškia rytų galą.
+    3 Šie dokumentai yra Kasiodoro laiškų rinkinyje.
+
+    ## Puslapis 319
+
+    Tokių santykių norėjo Odoakras, kuris nesiekė nieko
+    kito, o tik stengėsi padidinti gerovę savo naujos valsty­
+    bės, kur jis išsaugojo senus įstatymus, institucijas ir
+    kitą civilinę tvarką.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

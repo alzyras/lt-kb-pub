@@ -165,7 +165,12 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: "Išvaryti ir politiš-\nkai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino \niš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-\ndos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją \npoliciją."
+  citata_rodoma: |
+    Išvaryti ir politiš-
+    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
+    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
+    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
+    policiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -238,7 +243,16 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*
     ir Ptolemėją priekaištų negu vadinti pasakų išmone var­
     dus tautų, kurių gyvenamųjų vietovių nepasisekė nustatyti.
-  citata_rodoma: "Prieš ¡pradedant toliau tyri­\nnėt i, ne pro šalį bus paneigti kai kuriuos priekaištus mū­\nsų ką tik išdėstytiems faktams. Lelevelis2 linkęs gelonus\nir budinus pastatyti į išgalvotų tautų gretą, griežtai prie­\nkaištaudamas, kad senovės geografų kompiliatoriai net\nligi XIX amžiaus nepastebėjo šio tariamo atradimo. Sis\ndrąsus nuosprendis, paskelbtas daugelio veikalų išgarsin­\nto istoriko, nusipelno atsakymo, nors šiaip jau jo nereikė­\ntų dėl to, kad aptarta tiek daug šios temos dalykų."
+  citata_rodoma: |
+    Prieš ¡pradedant toliau tyri­
+    nėt i, ne pro šalį bus paneigti kai kuriuos priekaištus mū­
+    sų ką tik išdėstytiems faktams. Lelevelis2 linkęs gelonus
+    ir budinus pastatyti į išgalvotų tautų gretą, griežtai prie­
+    kaištaudamas, kad senovės geografų kompiliatoriai net
+    ligi XIX amžiaus nepastebėjo šio tariamo atradimo. Sis
+    drąsus nuosprendis, paskelbtas daugelio veikalų išgarsin­
+    to istoriko, nusipelno atsakymo, nors šiaip jau jo nereikė­
+    tų dėl to, kad aptarta tiek daug šios temos dalykų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

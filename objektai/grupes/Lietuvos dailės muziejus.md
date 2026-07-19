@@ -70,7 +70,8 @@ Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailė
     M. Matulytė. Vilnius, 2001; Vilniaus klasicizmas: parodos
     katalogas. Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
     muziejus 2000 m. kovas – rugsėjis.
-  citata_rodoma: "katalogas. Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės"
+  citata_rodoma: |
+    katalogas. Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

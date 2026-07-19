@@ -104,7 +104,13 @@ F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje
     Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
     siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
     slavų Tryzną.
-  citata_rodoma: "Romėnai tuos pačius dievus vadino Diipotentes,\nDii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą."
+  citata_rodoma: |
+    Romėnai tuos pačius dievus vadino Diipotentes,
+    Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -106,7 +106,12 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
     riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas
     su popiežium ir už tą buvo išvytas iš Čekijos. Tuo ir užsibaigė
     šie lietuvių santykiai su husitais.
-  citata_rodoma: "Kaributas savo valia buvo dar\nkartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­\nriavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas\nsu popiežium ir už tą buvo išvytas iš Čekijos. Tuo ir užsibaigė\nšie lietuvių santykiai su husitais."
+  citata_rodoma: |
+    Kaributas savo valia buvo dar
+    kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­
+    riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas
+    su popiežium ir už tą buvo išvytas iš Čekijos. Tuo ir užsibaigė
+    šie lietuvių santykiai su husitais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +136,18 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
     3 Iš esmės tą pačią Jogailaičių dinastijos genealogiją randu kuni­
     go Jono Kanto Boreišos Jėzaus Draugijos lotyniškame pamoksle (ran­
     kraštyje), sakytame 1689 metais, šv.
-  citata_rodoma: "Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,\njo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­\ntas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­\nbius, likusius po to turtingo kunigaikščio, kadangi nužudė ir\ndu jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­\nniota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus\nkeršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­\nkokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­\nsiuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­\njį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­\nimtus bajorus."
+  citata_rodoma: |
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

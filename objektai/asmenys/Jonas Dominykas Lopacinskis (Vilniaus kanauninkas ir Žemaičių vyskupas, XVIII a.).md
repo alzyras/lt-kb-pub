@@ -188,7 +188,10 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     J. D. Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės, todėl dauguma jo
     adresatų buvo dvasininkai bei pasauliečiai bajorai. Taigi apie kilmingųjų gyvenimą LDK
     sostinėje jo laiškuose informacijos išties gausu.
-  citata_rodoma: "J. D. Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės, todėl dauguma jo\nadresatų buvo dvasininkai bei pasauliečiai bajorai. Taigi apie kilmingųjų gyvenimą LDK\nsostinėje jo laiškuose informacijos išties gausu."
+  citata_rodoma: |
+    J. D. Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės, todėl dauguma jo
+    adresatų buvo dvasininkai bei pasauliečiai bajorai. Taigi apie kilmingųjų gyvenimą LDK
+    sostinėje jo laiškuose informacijos išties gausu.
   statusas: verified
   atnaujinta: "2026-07-14 06:05"
   teiginio_tipas: faktas
@@ -207,7 +210,11 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     veikėju pasirinktas žymus XVIII a. LDK dvasininkas Jonas Dominykas Lopacinskis (Jan
     Dominik Łopaciński), nuo 1752 m. Vilniaus kanauninkas, 1755 m. LDK sekretorius, nuo
     1762 m. Žemaičių vyskupas.
-  citata_rodoma: "Straipsnio pagrindiniu\nveikėju pasirinktas žymus XVIII a. LDK dvasininkas Jonas Dominykas Lopacinskis (Jan\nDominik Łopaciński), nuo 1752 m. Vilniaus kanauninkas, 1755 m. LDK sekretorius, nuo\n1762 m. Žemaičių vyskupas."
+  citata_rodoma: |
+    Straipsnio pagrindiniu
+    veikėju pasirinktas žymus XVIII a. LDK dvasininkas Jonas Dominykas Lopacinskis (Jan
+    Dominik Łopaciński), nuo 1752 m. Vilniaus kanauninkas, 1755 m. LDK sekretorius, nuo
+    1762 m. Žemaičių vyskupas.
   statusas: verified
   atnaujinta: "2026-07-14 06:05"
   teiginio_tipas: faktas
@@ -229,7 +236,12 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     daug pasakoti mėgęs, pateikdavęs nemažai detalių, tačiau ir gana konkretus, emocijomis
     nesivadovaudavęs, asmuo. Jau amžininkai pastebėjo, kad jis sumaniai laviruodavo tarp
     konkuruojančių bajorijos grupuočių, būsimojo hierarcho pažinčių ratas buvo platus.
-  citata_rodoma: "Beje, kanauninko stilius\ngana pagavus, o laiškuose atsiskleidė jo charakteris – tai buvo gana paslaugus, smalsus,\ndaug pasakoti mėgęs, pateikdavęs nemažai detalių, tačiau ir gana konkretus, emocijomis\nnesivadovaudavęs, asmuo. Jau amžininkai pastebėjo, kad jis sumaniai laviruodavo tarp\nkonkuruojančių bajorijos grupuočių, būsimojo hierarcho pažinčių ratas buvo platus."
+  citata_rodoma: |
+    Beje, kanauninko stilius
+    gana pagavus, o laiškuose atsiskleidė jo charakteris – tai buvo gana paslaugus, smalsus,
+    daug pasakoti mėgęs, pateikdavęs nemažai detalių, tačiau ir gana konkretus, emocijomis
+    nesivadovaudavęs, asmuo. Jau amžininkai pastebėjo, kad jis sumaniai laviruodavo tarp
+    konkuruojančių bajorijos grupuočių, būsimojo hierarcho pažinčių ratas buvo platus.
   statusas: verified
   atnaujinta: "2026-07-14 06:05"
   teiginio_tipas: faktas

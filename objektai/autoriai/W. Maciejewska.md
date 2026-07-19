@@ -67,7 +67,9 @@ Maciejewska, W.
     1894, 12-94 p. — Łowmiański, H. : _Wcielenie Litwy do Polski w 1386,_
     AW, t. 12, 1937, 36-145 p. — Maciejewska, W. : _Jadwiga, Królowa
     Polska_ , Kraków 1934 (plati bibliogr.).
-  citata_rodoma: "— Maciejewska, W. : _Jadwiga, Królowa\nPolska_ , Kraków 1934 (plati bibliogr.)."
+  citata_rodoma: |
+    — Maciejewska, W. : _Jadwiga, Królowa
+    Polska_ , Kraków 1934 (plati bibliogr.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

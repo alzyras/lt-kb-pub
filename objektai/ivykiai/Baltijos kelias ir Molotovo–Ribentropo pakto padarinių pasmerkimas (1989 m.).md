@@ -118,7 +118,19 @@ Nenurodyta
     priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
     sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
     kvos.
-  citata_rodoma: "LPS staigus populiarumas ir masiškumas \n(Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar \nGyvasis Baltijos kelias – rankomis susikibusių žmonių  \ngrandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d.  \nA. Petrovo nuotrauka\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n239\niniciatyvinė grupė), jo pasiekti rezultatai pirmiausia priverčiant LSSR AT \npriimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų \nsąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-\nkvos."
+  citata_rodoma: |
+    LPS staigus populiarumas ir masiškumas
+    (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar
+    Gyvasis Baltijos kelias – rankomis susikibusių žmonių
+    grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d.
+    A. Petrovo nuotrauka
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    239
+    iniciatyvinė grupė), jo pasiekti rezultatai pirmiausia priverčiant LSSR AT
+    priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
+    sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
+    kvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +160,19 @@ Nenurodyta
     bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
     vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą
     sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
-  citata_rodoma: "Ypatingas dėmesys skirtas 1939 m. rugpjūčio 23 d. Vokietijos ir Sovie-\ntų Sąjungos pasirašytam Molotovo–Ribentropo paktui. Kadangi Baltijos \nvalstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems \nLietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas  \nVilniaus sporto rūmuose 1988 m. spalio 22–23 d.  \nVladimiro Gulevičiaus nuotrauka\n\nL I E T U V O S  I S T O R I J A\n238\ntautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-\nbos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-\nvo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m."
+  citata_rodoma: |
+    Ypatingas dėmesys skirtas 1939 m. rugpjūčio 23 d. Vokietijos ir Sovie-
+    tų Sąjungos pasirašytam Molotovo–Ribentropo paktui. Kadangi Baltijos
+    valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems
+    Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas
+    Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.
+    Vladimiro Gulevičiaus nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    238
+    tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
+    bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
+    vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

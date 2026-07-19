@@ -221,7 +221,32 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     LOTYNŲ KALBA
     (Išrašo iš magistrato knygų vertimas)
     Viešpaties vardu Amen.
-  citata_rodoma: "Dalyvaujant \ndidžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­\nkupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­\nniesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos \nDidžiosios Kunigaikštystės rūmų bei kariuomenės maršal­\nkai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­\nlai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­\nvadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios \nKunigaikštystės iždininkui Ivanui Homostajui ir daugeliui \nkitų liudininkų.\nKaralius ŽYGIMANTAS\n\n## Puslapis 402\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO \nPRIVILEGIJA\nDĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU \nPER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA  \nULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS  \nPRIEGLAUDAI (ŠPITOLEI),\nIŠLEISTA\" 1536 METŲ RUGPJŪČIO 6 DIENĄ \nLOTYNŲ KALBA\n(Išrašo iš magistrato knygų vertimas)\nViešpaties vardu Amen."
+  citata_rodoma: |
+    Dalyvaujant
+    didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­
+    kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­
+    niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos
+    Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­
+    kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­
+    lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­
+    vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios
+    Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui
+    kitų liudininkų.
+    Karalius ŽYGIMANTAS
+
+    ## Puslapis 402
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO
+    PRIVILEGIJA
+    DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU
+    PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA
+    ULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS
+    PRIEGLAUDAI (ŠPITOLEI),
+    IŠLEISTA" 1536 METŲ RUGPJŪČIO 6 DIENĄ
+    LOTYNŲ KALBA
+    (Išrašo iš magistrato knygų vertimas)
+    Viešpaties vardu Amen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -292,7 +317,22 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
     nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
     gant laikui išskaičiavo ir susigrąžino.
-  citata_rodoma: "Dvasios bažnyčios, \nkur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­\nti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,\n387\n\n## Puslapis 404\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\npatenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą \nVilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir \nišlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam \namžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­\nkestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas, \nnuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­\ngant laikui išskaičiavo ir susigrąžino."
+  citata_rodoma: |
+    Dvasios bažnyčios,
+    kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
+    ti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,
+    387
+
+    ## Puslapis 404
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą
+    Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir
+    išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam
+    amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­
+    kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
+    nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
+    gant laikui išskaičiavo ir susigrąžino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -436,7 +476,40 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     prekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir
     karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
     varomas parduoti, - vienas denaras arba obolas.
-  citata_rodoma: "Kai mes ankstesniais metais svarstėme mūsų LDK val­\ndinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, \nkuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto \npatirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­\nmąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­\ntogumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko \nmus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-\n----• ----\n386\n\n## Puslapis 403\n\nIV KNYGA\nniaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­\nkalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­\ndami ir deramai įvertindami šio garbingo Ulriko Hozijaus \ndorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per \nVilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų, \nkiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­\nmis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles, \nbūtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­\nžiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­\nčiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai \nir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių \nžemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar \nšiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų, \nkuriuos kas nors vežtų parduoti vienu arkliu - denaras arba \nobolas; nuo vieno saiko arba statinės druskos - vienas obo- \nlas, nuo vieno prikrauto prekių vežimo, traukiamo arklio, - \n3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto \nprekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir \nkarvės, kaip ir nuo viso to, kas už upės būtų vedamas ar \nvaromas parduoti, - vienas denaras arba obolas."
+  citata_rodoma: |
+    Kai mes ankstesniais metais svarstėme mūsų LDK val­
+    dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,
+    kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto
+    patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­
+    mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­
+    togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko
+    mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-
+    ----• ----
+    386
+
+    ## Puslapis 403
+
+    IV KNYGA
+    niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­
+    kalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­
+    dami ir deramai įvertindami šio garbingo Ulriko Hozijaus
+    dorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per
+    Vilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų,
+    kiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­
+    mis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles,
+    būtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­
+    žiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­
+    čiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai
+    ir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių
+    žemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar
+    šiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų,
+    kuriuos kas nors vežtų parduoti vienu arkliu - denaras arba
+    obolas; nuo vieno saiko arba statinės druskos - vienas obo-
+    las, nuo vieno prikrauto prekių vežimo, traukiamo arklio, -
+    3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto
+    prekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir
+    karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
+    varomas parduoti, - vienas denaras arba obolas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

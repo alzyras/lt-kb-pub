@@ -87,7 +87,10 @@ media_all_json: |-
     sukilėlių daliniai patyrė pralaimėjimą. Kai kuriems lenkų daliniams pavy-
     ko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną
     su Prūsija.
-  citata_rodoma: "Kai kuriems lenkų daliniams pavy-\nko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną \nsu Prūsija."
+  citata_rodoma: |
+    Kai kuriems lenkų daliniams pavy-
+    ko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną
+    su Prūsija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +109,9 @@ media_all_json: |-
     guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
     vadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-
     niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
-  citata_rodoma: "Ji lengvai užėmė Kauną, bet Vil-\nniaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje."
+  citata_rodoma: |
+    Ji lengvai užėmė Kauną, bet Vil-
+    niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

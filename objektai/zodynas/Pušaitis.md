@@ -93,7 +93,16 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
     je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
     R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
     garbinamas Pušaitis ir barstukai18“.
-  citata_rodoma: "Pušaitis (Puschajtis)\nPožemio dievaitis, engiamų vargšų gynėjas, nykštukų,\nvadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16\n16 Stender, Lettische Grammatik.\n179\n\n## Puslapis 179\n\npo alyvų krūmais."
+  citata_rodoma: |
+    Pušaitis (Puschajtis)
+    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
+    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
+    16 Stender, Lettische Grammatik.
+    179
+
+    ## Puslapis 179
+
+    po alyvų krūmais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -90,7 +90,18 @@ Nenurodyta
     tarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė
     arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.
     200 (195).
-  citata_rodoma: "Apie tą patį\n\n  Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą\nir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias\ntarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė\narklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.\n\n\n\n\n                     200 (195)."
+  citata_rodoma: |
+    Apie tą patį
+
+      Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
+    ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
+    tarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė
+    arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.
+
+
+
+
+                         200 (195).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

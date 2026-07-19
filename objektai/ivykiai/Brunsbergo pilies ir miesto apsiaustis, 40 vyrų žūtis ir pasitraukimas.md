@@ -140,7 +140,14 @@ Nenurodyta
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-  citata_rodoma: "Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,\nkurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,\nmanydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei\nmiestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos\nreikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą."
+  citata_rodoma: |
+    Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
+    kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
+    manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
+    miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
+    reikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60
+    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

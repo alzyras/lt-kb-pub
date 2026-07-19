@@ -157,7 +157,14 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
     torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
     rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
     mokslo būklę.
-  citata_rodoma: "Be to, rengė astronomo Mikalojaus Ko­\nperniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­\nmus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.\nIstorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­\ntorinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­\nrašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos \nmokslo būklę."
+  citata_rodoma: |
+    Be to, rengė astronomo Mikalojaus Ko­
+    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
+    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
+    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
+    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
+    rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
+    mokslo būklę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -177,7 +184,13 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
     tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
     nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
     Malevskiui už gausius išrašus iš Lietuvos Metrikos.
-  citata_rodoma: "Kita vertus, pirmoje \ndalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­\ndra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­\ntarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­\nnui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui \nMalevskiui už gausius išrašus iš Lietuvos Metrikos."
+  citata_rodoma: |
+    Kita vertus, pirmoje
+    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
+    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
+    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
+    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
+    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -218,7 +231,10 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
     pavadinimą4. Vadinasi, iš cituoto teksto galima spręsti, kad
     3 Šaurai? (Be datos). T. Narbutas I. Onacevičiui // Lietuvos moks­
     lų akademijos bibliotekos rankraščių skyrius (toliau - MAB RS).
-  citata_rodoma: "Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -\ntokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas\npradėjo laišką istorikui Ignotui Onacevičiui3."
+  citata_rodoma: |
+    Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -
+    tokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas
+    pradėjo laišką istorikui Ignotui Onacevičiui3.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

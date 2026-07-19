@@ -68,7 +68,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
+    Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
                                      mėje
 
       1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo
@@ -80,7 +80,19 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 
 
         123.
-  citata_rodoma: "Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­\n                                 mėje\n\n  1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo\niš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus\natskalą, kurią kadaise čia buvo atgabenęs brolis Flekenšteinas iš Reino krašto, o brolis\nGebhardas iš Manstfeldo vieną kartą įmetęs į ugnį, iš kurios ši iššokusi daugelio žmonių\nakyse, parodydama, jog esanti tikra atskala kryžiaus, ant kurio kabojęs Kristus.\n\n\n\n    123."
+  citata_rodoma: |
+    Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
+                                     mėje
+
+      1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo
+    iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus
+    atskalą, kurią kadaise čia buvo atgabenęs brolis Flekenšteinas iš Reino krašto, o brolis
+    Gebhardas iš Manstfeldo vieną kartą įmetęs į ugnį, iš kurios ši iššokusi daugelio žmonių
+    akyse, parodydama, jog esanti tikra atskala kryžiaus, ant kurio kabojęs Kristus.
+
+
+
+        123.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

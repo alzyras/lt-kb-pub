@@ -92,7 +92,14 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
     ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m.
-  citata_rodoma: "Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-\nžo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:\nrugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-\nčiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-\nja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė\nLiaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-\nsiskyrė nuo 1936 m."
+  citata_rodoma: |
+    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
+    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
+    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
+    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
+    siskyrė nuo 1936 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +121,15 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino
     konstitucijos.
-  citata_rodoma: "Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-\nžo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: \nrugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-\nčiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-\nja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė \nLiaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-\nsiskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino \nkonstitucijos."
+  citata_rodoma: |
+    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
+    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
+    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
+    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
+    siskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino
+    konstitucijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

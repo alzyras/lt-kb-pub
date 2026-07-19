@@ -59,7 +59,10 @@ Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio 
     Michailas Gorbačiovas Lietuvos vadovybei paskelbė ultimatumą,
     reikalaudamas nedelsiant atkurti Sovietų Sąjungos konstitucijos
     galiojimą ir panaikinti visus jai prieštaraujančius teisinius aktus.
-  citata_rodoma: "Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą\nNacionalinio gelbėjimo komitetą, kuris parengė prezidentinio\nvaldymo įvedimo Lietuvoje planą. Sausio 10 d."
+  citata_rodoma: |
+    Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą
+    Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio
+    valdymo įvedimo Lietuvoje planą. Sausio 10 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

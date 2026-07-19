@@ -118,7 +118,10 @@ Nenurodyta
     liko caro rankose. Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
     dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
     giausia socialdemokratus.
-  citata_rodoma: "Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš\ndvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-\ngiausia socialdemokratus."
+  citata_rodoma: |
+    Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
+    dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
+    giausia socialdemokratus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -62,7 +62,8 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
     ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija.
-  citata_rodoma: "vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių"
+  citata_rodoma: |
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

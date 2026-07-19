@@ -92,7 +92,14 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
     kurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos
     ir panašios į šią prielaidos, prie žemės buvęs antras mė­
     nulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo.
-  citata_rodoma: "Iš tikrųjų galima daryti tokią prielaidą, ir ji\nbūtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir\npriežastį, kurios privertė besiveržiančius su žemėmis ir\n1\nOpisanie stalystyczne miasta Wilna. Przez Michala Balinskiego.\nWilno,\n1835. S. 6—9*."
+  citata_rodoma: |
+    Iš tikrųjų galima daryti tokią prielaidą, ir ji
+    būtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir
+    priežastį, kurios privertė besiveržiančius su žemėmis ir
+    1
+    Opisanie stalystyczne miasta Wilna. Przez Michala Balinskiego.
+    Wilno,
+    1835. S. 6—9*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -131,7 +131,37 @@ media_all_json: |-
 
     VILNIAUS MIESTO ISTORIJA// TOMAS
     In Ckristi nomine Amen.
-  citata_rodoma: "— • —\n423\n\n## Puslapis 440\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nDievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­\ntuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio \ntryliktą dieną.\n(pasirašyta) Stephanus Rex\n[Karalius Steponas]\n(prikabintas antspaudas) Jonas Hlebavičius\n- Dubrovnoje Minsko\nkaštelionas, krašto \npaiždininkis ir raštininkas\n424\n\n## Puslapis 441\n\nIV KNYGA\nVYSKUPO SEMINARIJOS JSTEIGIMAS \nIŠ VYSKUPŲ STALO DVARO, \nVADINAMO VOZGĖLIŠKĖMIS\n1582 METAI\n(Kapitulos archyvas)\n\n## Puslapis 442\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIn Ckristi nomine Amen."
+  citata_rodoma: |
+    — • —
+    423
+
+    ## Puslapis 440
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Dievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­
+    tuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio
+    tryliktą dieną.
+    (pasirašyta) Stephanus Rex
+    [Karalius Steponas]
+    (prikabintas antspaudas) Jonas Hlebavičius
+    - Dubrovnoje Minsko
+    kaštelionas, krašto
+    paiždininkis ir raštininkas
+    424
+
+    ## Puslapis 441
+
+    IV KNYGA
+    VYSKUPO SEMINARIJOS JSTEIGIMAS
+    IŠ VYSKUPŲ STALO DVARO,
+    VADINAMO VOZGĖLIŠKĖMIS
+    1582 METAI
+    (Kapitulos archyvas)
+
+    ## Puslapis 442
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    In Ckristi nomine Amen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

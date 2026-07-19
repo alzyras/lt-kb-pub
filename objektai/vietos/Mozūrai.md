@@ -87,7 +87,10 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-
     ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
     vo įkūręs Livonijoj.
-  citata_rodoma: "Bet vos tik jie išvykdavo namo, prūsai, išlindę iš\nmiškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius\nkrikščioniškuosius kraštus. Tada vysk."
+  citata_rodoma: |
+    Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
+    miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius
+    krikščioniškuosius kraštus. Tada vysk.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

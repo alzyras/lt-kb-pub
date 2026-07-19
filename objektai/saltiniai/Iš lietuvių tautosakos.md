@@ -61,7 +61,9 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   citata_originali: |
     1928 L. Iš lietuvių tautosakos.
     Kalevalos dr-jos metr. 8.
-  citata_rodoma: "1928 L. Iš lietuvių tautosakos. \nKalevalos dr-jos metr. 8."
+  citata_rodoma: |
+    1928 L. Iš lietuvių tautosakos.
+    Kalevalos dr-jos metr. 8.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

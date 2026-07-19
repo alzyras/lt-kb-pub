@@ -172,7 +172,19 @@ Nenurodyta
     bei velėnomis padengtus griovius, prarado čia vadus
     bei dalį karių, tuo tarpu kiti, palikę grobį, vos ne vos
     prasiveržė į saugesnes vietas ir sveiki paspruko.
-  citata_rodoma: "Niekas nedrįso atviroje kovoje pa­\nsipriešinti įsisiautėjusiems pulkams, tačiau dėl kelių \nžmonių sumanumo priešas buvo smarkiai sumuštas iš \npasalų. Mat miškuose (kuriais kryžiuočiai turėjo trauk-\ntyti grioviai labai trukdė judėti. Kai kryžiuočiai pri­\nartėjo prie šios vietos, iš miškų iššokę lietuviai, kel­\ndami baisų triukšmą, veikiau dėjosi puolą, nei iš tik­\nrųjų puolė. Šitaip priešai, nenujausdami pasalų, veržte \nverždamiesi atviromis perėjomis, sugriuvo į šakomis \nbei velėnomis padengtus griovius, prarado čia vadus \nbei dalį karių, tuo tarpu kiti, palikę grobį, vos ne vos \nprasiveržė į saugesnes vietas ir sveiki paspruko."
+  citata_rodoma: |
+    Niekas nedrįso atviroje kovoje pa­
+    sipriešinti įsisiautėjusiems pulkams, tačiau dėl kelių
+    žmonių sumanumo priešas buvo smarkiai sumuštas iš
+    pasalų. Mat miškuose (kuriais kryžiuočiai turėjo trauk-
+    tyti grioviai labai trukdė judėti. Kai kryžiuočiai pri­
+    artėjo prie šios vietos, iš miškų iššokę lietuviai, kel­
+    dami baisų triukšmą, veikiau dėjosi puolą, nei iš tik­
+    rųjų puolė. Šitaip priešai, nenujausdami pasalų, veržte
+    verždamiesi atviromis perėjomis, sugriuvo į šakomis
+    bei velėnomis padengtus griovius, prarado čia vadus
+    bei dalį karių, tuo tarpu kiti, palikę grobį, vos ne vos
+    prasiveržė į saugesnes vietas ir sveiki paspruko.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

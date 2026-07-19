@@ -85,7 +85,9 @@ Nenurodyta
     tą nužudyti, o Treniota tą patį galvojo apie Tautvilą.
     Tautvilos bajoras, polockietis Prakapas, išdavė jo kės­
     lą.
-  citata_rodoma: "Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­\nlyne trejus metus."
+  citata_rodoma: |
+    Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­
+    lyne trejus metus.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

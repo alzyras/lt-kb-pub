@@ -91,7 +91,8 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
   citata_originali: |
     p. 79, Totorių raitelis. Dundulis B. Lietuvos užsienio politika xvi a., (įklijos tarp p. 224 ir 225).
     p. 80, Vokiškojo tipo alebardos, xvi a. pirmasis ketvirtis. VDKM, Artūro Užgalio nuotr.
-  citata_rodoma: "p. 79, Totorių raitelis. Dundulis B. Lietuvos užsienio politika xvi a., (įklijos tarp p. 224 ir 225)."
+  citata_rodoma: |
+    p. 79, Totorių raitelis. Dundulis B. Lietuvos užsienio politika xvi a., (įklijos tarp p. 224 ir 225).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

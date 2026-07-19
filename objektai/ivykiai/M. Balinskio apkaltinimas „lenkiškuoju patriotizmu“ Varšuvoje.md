@@ -127,7 +127,10 @@ Nenurodyta
     slaptinga". 1838 m. Varšuvoje valdžios apkaltintas „lenkiškuo­
     ju patriotizmu", M. Balinskis nutylėjo apie savo dalyvavimą
     1831 m. sukilime5.
-  citata_rodoma: "1838 m. Varšuvoje valdžios apkaltintas „lenkiškuo­\nju patriotizmu\", M. Balinskis nutylėjo apie savo dalyvavimą \n1831 m. sukilime5."
+  citata_rodoma: |
+    1838 m. Varšuvoje valdžios apkaltintas „lenkiškuo­
+    ju patriotizmu", M. Balinskis nutylėjo apie savo dalyvavimą
+    1831 m. sukilime5.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

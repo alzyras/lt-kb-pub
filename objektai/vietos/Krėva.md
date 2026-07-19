@@ -464,7 +464,17 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
     jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
     sudarė su jais paliaubas.
-  citata_rodoma: "Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas\niš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,\ntačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­\nvyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo\nneišvengiamos pražūties.\nTas Vytauto pabėgimas turėjo priversti Jogailą nerimau­\nti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­\ngrobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­\njo, 1382 metų lapkričio pradžioje Dubysos upės salelėje\nsudarė su jais paliaubas."
+  citata_rodoma: |
+    Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -523,7 +533,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
     lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
     neįgijęs, sergėjo.
-  citata_rodoma: "Tik neilgai Lietuvos \nsostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - \nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma- \nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės \nneįgijęs, sergėjo."
+  citata_rodoma: |
+    Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -607,7 +625,27 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     miegamojo prižiūrėtojai Pro-
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
-  citata_rodoma: "Mat nei geros savijautos,\nnei pasitikėjimo duotu žodžiu negali būti tada, kai,\nsusitarus dėl ko su priešu, šis nepaliauja galvojęs apie\nnaudą. Tą pačią naktį Jogaila, pamynęs draugystės bei\ngiminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­\ntingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį\nliepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­\ntaip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­\ngų, dėl savo sumanumo tikras Lietuvos Odisėjas, o\ndėl narsumo — Achilas, žuvo gimtajame krašte per\nbrolėno kaltę: penktą naktį\nJogailos\npasiųsti\nbudeliai\n(žymiausi\niš\njų — valdovo\nmiegamojo prižiūrėtojai Pro-\nkša, Bilgenis, Lisica ir kiti)\nKrėvos kalėjime jį pasmaugė."
+  citata_rodoma: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -636,7 +674,20 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     gresianti mirtis, pridurdamas,
     kad Jogailos siųsti budeliai
     jau atvyko į Krėvą.
-  citata_rodoma: "Ši\naplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­\nvę: dažnai juk likimą lemia menkų menkiausios prie­\nžastys. Vienas sargybinis kar­\ntą įspėjo Oną, jog Vytautui\ngresianti mirtis, pridurdamas,\nkad Jogailos siųsti budeliai\njau atvyko į Krėvą. Žmona\napie viską pranešė vyrui ir\npatarė apsirengus merginos drabužiais apgauti sargy­\nbinius ir pasprukti iš priešo rankų ir nuo tikros mir­\nties: draugai jau, girdi, parūpinę visko, kas reikalinga\nbėgliui."
+  citata_rodoma: |
+    Ši
+    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
+    vę: dažnai juk likimą lemia menkų menkiausios prie­
+    žastys. Vienas sargybinis kar­
+    tą įspėjo Oną, jog Vytautui
+    gresianti mirtis, pridurdamas,
+    kad Jogailos siųsti budeliai
+    jau atvyko į Krėvą. Žmona
+    apie viską pranešė vyrui ir
+    patarė apsirengus merginos drabužiais apgauti sargy­
+    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
+    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
+    bėgliui.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -676,7 +727,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     ir
     vykdė Beregovo distrikto viršininko
     funkcijas.
-  citata_rodoma: "Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų \nEuropos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km \nį pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro \npilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis. \nKada Algirdas gavo valdyti Krėvų. tiksliai nežinoma, gal apie \n1342 m."
+  citata_rodoma: |
+    Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų
+    Europos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km
+    į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro
+    pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis.
+    Kada Algirdas gavo valdyti Krėvų. tiksliai nežinoma, gal apie
+    1342 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -753,7 +810,17 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
     jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
     sudarė su jais paliaubas.
-  citata_rodoma: "Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas\niš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,\ntačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­\nvyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo\nneišvengiamos pražūties.\nTas Vytauto pabėgimas turėjo priversti Jogailą nerimau­\nti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­\ngrobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­\njo, 1382 metų lapkričio pradžioje Dubysos upės salelėje\nsudarė su jais paliaubas."
+  citata_rodoma: |
+    Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 
@@ -892,7 +959,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
     lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
     neįgijęs, sergėjo.
-  citata_rodoma: "Tik neilgai Lietuvos \nsostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - \nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma- \nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės \nneįgijęs, sergėjo."
+  citata_rodoma: |
+    Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
 

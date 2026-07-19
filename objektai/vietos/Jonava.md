@@ -70,7 +70,10 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
     Tuo tarpu rusai atsiėmė
     Ukmergę, Jonavą ir Šiau-
     lius.
-  citata_rodoma: "Tuo tarpu rusai atsiėmė\nUkmergę, Jonavą ir Šiau-\nlius."
+  citata_rodoma: |
+    Tuo tarpu rusai atsiėmė
+    Ukmergę, Jonavą ir Šiau-
+    lius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

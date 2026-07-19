@@ -87,7 +87,12 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
     Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
     pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
     Gilgenburgą, žygiavo Tannenbergo kryptimi.
-  citata_rodoma: "Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis\nmagistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.\nNuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo\npulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę\nGilgenburgą, žygiavo Tannenbergo kryptimi."
+  citata_rodoma: |
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
+    pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
+    Gilgenburgą, žygiavo Tannenbergo kryptimi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

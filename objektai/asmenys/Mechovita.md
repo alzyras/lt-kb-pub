@@ -131,7 +131,10 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
     Tvirtovę gyvena, ir nedaug jų belikę. Antroji yra lietuvių ir že­
     maičių. Trečioji — prūsų. Ketvirtoji — Latvijoje arba Latgaloje —
     Livonija, esanti prie Dauguvos upės ir Rygos miesto.
-  citata_rodoma: "Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de\nduabus sarmatiis Asiana et Europiana, et de continentis in eis.\nCracoviae, 1517. L. II (De sarmatia Europiana)."
+  citata_rodoma: |
+    Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
+    duabus sarmatiis Asiana et Europiana, et de continentis in eis.
+    Cracoviae, 1517. L. II (De sarmatia Europiana).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

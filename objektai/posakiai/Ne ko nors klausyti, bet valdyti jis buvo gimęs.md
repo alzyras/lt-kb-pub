@@ -63,7 +63,12 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
     Ne ko nors klausyti, bet valdyti jis buvo gimęs. Jis tuojau
     ėmė vesti savarankišką politiką ir iš Jogailos pavaldinio tapo
     jam lygus valdovas.
-  citata_rodoma: "Bet tokia būkle\njis pasitenkinti negalėjo, — jam permaža būtų buvę erdvės.\nNe ko nors klausyti, bet valdyti jis buvo gimęs. Jis tuojau\nėmė vesti savarankišką politiką ir iš Jogailos pavaldinio tapo\njam lygus valdovas."
+  citata_rodoma: |
+    Bet tokia būkle
+    jis pasitenkinti negalėjo, — jam permaža būtų buvę erdvės.
+    Ne ko nors klausyti, bet valdyti jis buvo gimęs. Jis tuojau
+    ėmė vesti savarankišką politiką ir iš Jogailos pavaldinio tapo
+    jam lygus valdovas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

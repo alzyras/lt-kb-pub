@@ -133,7 +133,24 @@ Nenurodyta
     tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
     rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
     bulumą, būtiną amžinajam gyvenimui.
-  citata_rodoma: "Rankraš­\ntinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:\ny\nkoli kotoroho kniazia Litovskoho abo pana sozženo tilo, tohdy\npry nich kladyvali, nohty rysij, abo medvežyi, dla toho iž viru\ntuiu mili, iž sudny den mil byty, y tak snamenali sobi, ižby boh\nmilpryty y sedity nahory vysokoy, y sudyty žywych y mertvych, na\nkotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo\nmedvežych, y dla toho tyle nohty podle nich kladyvali, na koto-\n22 Lucas David. -  B. I. -  S. 21.\n388\n\n## Puslapis 388\n\nrych mili na tuiu horu lesty, y na sud do boha yty“ (Ir jeigu kurio\nnors lietuvių kunigaikščio ar didiko kūną degindavo, tai priėjo\ndėdavo lūšies ar lokio nagus."
+  citata_rodoma: |
+    Rankraš­
+    tinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:
+    y
+    koli kotoroho kniazia Litovskoho abo pana sozženo tilo, tohdy
+    pry nich kladyvali, nohty rysij, abo medvežyi, dla toho iž viru
+    tuiu mili, iž sudny den mil byty, y tak snamenali sobi, ižby boh
+    milpryty y sedity nahory vysokoy, y sudyty žywych y mertvych, na
+    kotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo
+    medvežych, y dla toho tyle nohty podle nich kladyvali, na koto-
+    22 Lucas David. -  B. I. -  S. 21.
+    388
+
+    ## Puslapis 388
+
+    rych mili na tuiu horu lesty, y na sud do boha yty“ (Ir jeigu kurio
+    nors lietuvių kunigaikščio ar didiko kūną degindavo, tai priėjo
+    dėdavo lūšies ar lokio nagus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

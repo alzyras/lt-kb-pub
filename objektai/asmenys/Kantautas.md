@@ -87,7 +87,22 @@ media_all_json: |-
     nių užsispyrėliams sutramdyti. Nors ligi šiol visi karš­
     tai palaikė valdovo sumanymą pagrasinti karu, tačiau
     dabar jis nieku būdu nesiūlo pradėti tuojau pat karo.
-  citata_rodoma: "Juos nesunku paveikti gerumu, paskyrus į se­\nniūnus žmogų, kurį žemaičiai mielai priimtų ir kuriam\n475\n\n## Puslapis 474\n\nDaumantas noriai užleistų vietą\". Išsižadėjęs pirmykščio\nsumanymo, valdovas nutarė sužinoti, ar žemaičiai su­\ntiks, kad seniūnu būtų ne Daumantas, o Kantautas, gar­\nsus visoje Žemaitijoje vyras bei Daumanto giminaitis.\nKaip norėjo, taip ir išėjo: žemaičiai mielai sutiko pri­\nimti Kantautą, savo krašto žmogų, per šio apsukrumą\nsuartėjo netrukus su Kazimieru ir lengva širdimi atsi­\nžadėjo Mykolo, nes niekas daugiau nebenorėjo remti\ntremtinio, neturinčio nei karių, nei užtarėjų."
+  citata_rodoma: |
+    Juos nesunku paveikti gerumu, paskyrus į se­
+    niūnus žmogų, kurį žemaičiai mielai priimtų ir kuriam
+    475
+
+    ## Puslapis 474
+
+    Daumantas noriai užleistų vietą". Išsižadėjęs pirmykščio
+    sumanymo, valdovas nutarė sužinoti, ar žemaičiai su­
+    tiks, kad seniūnu būtų ne Daumantas, o Kantautas, gar­
+    sus visoje Žemaitijoje vyras bei Daumanto giminaitis.
+    Kaip norėjo, taip ir išėjo: žemaičiai mielai sutiko pri­
+    imti Kantautą, savo krašto žmogų, per šio apsukrumą
+    suartėjo netrukus su Kazimieru ir lengva širdimi atsi­
+    žadėjo Mykolo, nes niekas daugiau nebenorėjo remti
+    tremtinio, neturinčio nei karių, nei užtarėjų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -108,7 +123,15 @@ media_all_json: |-
     nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
     žinti Žemaičius savo tėvonijon, kaip anksčiau kad
     priklausė.
-  citata_rodoma: ".M , nes Kantautas buvo kilęs \niš Žemaičių. Ir didysis kunigaikštis Kazimieras labai \nsusirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­\nsios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­\nvo valdas, visiems Didžiosios Kunigaikštystės pareigū­\nnams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­\nžinti Žemaičius savo tėvonijon, kaip anksčiau kad \npriklausė."
+  citata_rodoma: |
+    .M , nes Kantautas buvo kilęs
+    iš Žemaičių. Ir didysis kunigaikštis Kazimieras labai
+    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
+    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
+    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
+    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
+    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
+    priklausė.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

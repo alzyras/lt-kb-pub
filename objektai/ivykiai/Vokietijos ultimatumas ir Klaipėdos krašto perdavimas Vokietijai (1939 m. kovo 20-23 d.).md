@@ -146,7 +146,14 @@ Nenurodyta
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     183
     deleguotas ministras turėjo vykdyti jo užduotis.
-  citata_rodoma: "Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos \nAdolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – \njį sveikina vietos vokiečių nacių simpatikai ir SA smogikai\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n183\ndeleguotas ministras turėjo vykdyti jo užduotis."
+  citata_rodoma: |
+    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
+    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
+    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    183
+    deleguotas ministras turėjo vykdyti jo užduotis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -165,7 +172,8 @@ Nenurodyta
     didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos
     teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
     šalies eksporto ėjo per Klaipėdą.
-  citata_rodoma: "didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos"
+  citata_rodoma: |
+    didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -186,7 +194,8 @@ Nenurodyta
     Kovo 23-iąją d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos
     perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
     balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
-  citata_rodoma: "perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro"
+  citata_rodoma: |
+    perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

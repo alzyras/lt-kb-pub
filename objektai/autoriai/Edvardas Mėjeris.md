@@ -88,7 +88,11 @@ T. Narbutas lyginamąją mitologinę medžiagą ėmė ir iš Edvardo Mėjerio mi
     kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
     ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
     vu.
-  citata_rodoma: "Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­\nginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­\npuliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų\nkalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų."
+  citata_rodoma: |
+    Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
+    ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
+    puliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų
+    kalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -111,7 +111,15 @@ Nenurodyta
     Targovicos konfederacija, reikalavusi at-
     šaukti visus Ketverių metų seimo priimtus
     įstatymus. Pati Jakaterina II gegužės 18 d.
-  citata_rodoma: "Jakaterina II pasinau-\ndojusi tuo, kad Lenkijoje ir Lietuvoje buvo\nnemažai valstybės reformų priešininkų,\nėmė juos globoti, o netrukus su Rusijos pa-\ngalba suorganizuota reformoms priešiška\nTargovicos konfederacija, reikalavusi at-\nšaukti visus Ketverių metų seimo priimtus\nįstatymus. Pati Jakaterina II gegužės 18 d."
+  citata_rodoma: |
+    Jakaterina II pasinau-
+    dojusi tuo, kad Lenkijoje ir Lietuvoje buvo
+    nemažai valstybės reformų priešininkų,
+    ėmė juos globoti, o netrukus su Rusijos pa-
+    galba suorganizuota reformoms priešiška
+    Targovicos konfederacija, reikalavusi at-
+    šaukti visus Ketverių metų seimo priimtus
+    įstatymus. Pati Jakaterina II gegužės 18 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +139,12 @@ Nenurodyta
     ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
     riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: "Bet reformuoja-\nmasis seimas dar nespėjo baigti savo darbo, kai Rusija suor-\nganizavo reformų priešų konfederaciją ir, davusi jai savo ka-\nriuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-\nskelbimo vietos yra vadinama Targovicos konfederacija."
+  citata_rodoma: |
+    Bet reformuoja-
+    masis seimas dar nespėjo baigti savo darbo, kai Rusija suor-
+    ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
+    riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
+    skelbimo vietos yra vadinama Targovicos konfederacija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -111,7 +111,10 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
     turėjo daug didelių laivų1. Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
     žygiais.
-  citata_rodoma: "Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų\nslavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­\nmažai."
+  citata_rodoma: |
+    Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
+    slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­
+    mažai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

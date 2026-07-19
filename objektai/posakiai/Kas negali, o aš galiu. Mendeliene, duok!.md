@@ -73,7 +73,8 @@ Proginė gėrimo užsakymo formulė.
     Ko čia nešaukti: bonka de­
     šimt grašių; bravare visas gorčius auksinas — trisdešimt grašių, o iš
     gorčiaus — 5 bonkos.
-  citata_rodoma: "Suprato apgaunamas, vienok nenuliūsta, šaukia naują: „Kas negali, o aš galiu. Mendeliene, duok!“"
+  citata_rodoma: |
+    Suprato apgaunamas, vienok nenuliūsta, šaukia naują: „Kas negali, o aš galiu. Mendeliene, duok!“
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

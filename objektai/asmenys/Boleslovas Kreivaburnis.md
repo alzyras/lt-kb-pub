@@ -91,7 +91,15 @@ Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolę
     reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
     apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
     mą amalo žaluma nuspalvintų jo vainiką.
-  citata_rodoma: "Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­\nbių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­\nvėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­\ndėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo\nJono I prašomas, įsakė jį nukirsti."
+  citata_rodoma: |
+    Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
+    bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
+    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
+    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
+    kai. Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
+    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
+    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
+    Jono I prašomas, įsakė jį nukirsti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

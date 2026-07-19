@@ -134,7 +134,13 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
     m.) įvykiai, be to, 1198 m. jau miręs, bet turėjęs Ordino įkūrimui nuopelnų Švabijos
     kunigaikštis Fridrichas (Vokietijos karaliaus, o nuo 1191 m. imperatoriaus Henriko VI
     brolis).
-  citata_rodoma: "Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga."
+  citata_rodoma: |
+    Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

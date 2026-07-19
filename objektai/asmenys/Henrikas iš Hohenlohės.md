@@ -162,7 +162,11 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
     sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
     — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
     prūsų kovą nuo Lietuvos, jos karinių pastangų.
-  citata_rodoma: "Šia proga jis kalba apie didžiulę prūsų  ir\nsūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas\n— nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti\nprūsų kovą nuo Lietuvos, jos karinių pastangų."
+  citata_rodoma: |
+    Šia proga jis kalba apie didžiulę prūsų  ir
+    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
+    prūsų kovą nuo Lietuvos, jos karinių pastangų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -196,7 +200,9 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
     (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje. Popiežius patvirtino
     Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
     joanitams ir tamplieriams (dvasiškiams ir riteriams).
-  citata_rodoma: "Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų\n— Henrikas  iš Hohenlohės139."
+  citata_rodoma: |
+    Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų
+    — Henrikas  iš Hohenlohės139.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

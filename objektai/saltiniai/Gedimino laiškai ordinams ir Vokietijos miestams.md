@@ -126,7 +126,16 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
     nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
     dimino, bet nei su jo žinia, nei jo valia parašyti.
-  citata_rodoma: "87\n\n## Puslapis 104\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nMūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti."
+  citata_rodoma: |
+    87
+
+    ## Puslapis 104
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
+    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
+    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
+    dimino, bet nei su jo žinia, nei jo valia parašyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

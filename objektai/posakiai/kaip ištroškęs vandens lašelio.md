@@ -72,7 +72,12 @@ Labai stipraus laukimo ar troškimo palyginimas.
     išėjo atskiru leidiniu.10 Rankraščio tekstas jame buvo
     perteiktas be jokių taisymų, su rašybos, skyrybos klai­
     domis ir paraščių pastabomis.
-  citata_rodoma: "1846 m. Bychovco kronika, kurios, anot S. Daukanto, \nvisi seniai jau laukė, „kaip ištroškęs vandens lašelio\" , J , \nišėjo atskiru leidiniu.1 0  Rankraščio tekstas jame buvo \nperteiktas be jokių taisymų, su rašybos, skyrybos klai­\ndomis ir paraščių pastabomis."
+  citata_rodoma: |
+    1846 m. Bychovco kronika, kurios, anot S. Daukanto,
+    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" , J ,
+    išėjo atskiru leidiniu.1 0  Rankraščio tekstas jame buvo
+    perteiktas be jokių taisymų, su rašybos, skyrybos klai­
+    domis ir paraščių pastabomis.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas

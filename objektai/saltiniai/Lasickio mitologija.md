@@ -80,7 +80,11 @@ Tas pava dinimas yra Lasickio mitologijoje.
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: "Burtininkė (Burte)\nLietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­\nvo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­\ndinimas yra Lasickio mitologijoje."
+  citata_rodoma: |
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­
+    vo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­
+    dinimas yra Lasickio mitologijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

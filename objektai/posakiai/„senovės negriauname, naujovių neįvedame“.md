@@ -143,7 +143,15 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
     kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
     niais terminais – autonomijas).
-  citata_rodoma: "Net dinastinės \nvedybos vykdavo tiesioginiu kariniu spaudimu. \nLietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-\nbę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-\nsios tvarkos. Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: \n„senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias \nkunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-\nniais terminais – autonomijas)."
+  citata_rodoma: |
+    Net dinastinės
+    vedybos vykdavo tiesioginiu kariniu spaudimu.
+    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
+    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
+    sios tvarkos. Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis:
+    „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
+    kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
+    niais terminais – autonomijas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -164,7 +172,13 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
     į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
     rankiškais keliais.
-  citata_rodoma: "Florencijoje). LDK būtent Vytauto \nlaikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios, \nmatuojant net tų laikų mastu. „Senovės nekeitimo“ tezė tėra istoriografi-\nnis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė \nį dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-\nrankiškais keliais."
+  citata_rodoma: |
+    Florencijoje). LDK būtent Vytauto
+    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
+    matuojant net tų laikų mastu. „Senovės nekeitimo“ tezė tėra istoriografi-
+    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
+    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
+    rankiškais keliais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -185,7 +199,15 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje). LDK būtent Vytauto
     laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
     matuojant net tų laikų mastu.
-  citata_rodoma: "Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o \nG. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų \nbažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos \nidėją (ji įgyvendinta vėliau – 1439 m. Florencijoje). LDK būtent Vytauto \nlaikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios, \nmatuojant net tų laikų mastu."
+  citata_rodoma: |
+    Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
+    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
+    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
+    idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje). LDK būtent Vytauto
+    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
+    matuojant net tų laikų mastu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -92,7 +92,8 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestu­
     vės?“ Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras —
     Petras.
-  citata_rodoma: "Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras."
+  citata_rodoma: |
+    Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -112,7 +113,8 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     Girdėta, jausta ir svajota susipynė vienumon ir virto sapnu.
     Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdy-
     je, prieš užgavėnes, vedė Oną.
-  citata_rodoma: "Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną."
+  citata_rodoma: |
+    Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -135,7 +137,8 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     nes jam prikaišiojo,
     kam vedęs vargingą
     Oną.
-  citata_rodoma: "Petras nesidaiijo su broliu žemės, nes jam prikaišiojo, kam vedęs vargingą Oną."
+  citata_rodoma: |
+    Petras nesidaiijo su broliu žemės, nes jam prikaišiojo, kam vedęs vargingą Oną.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

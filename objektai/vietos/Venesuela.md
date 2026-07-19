@@ -72,7 +72,8 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
     Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
-  citata_rodoma: "Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų)."
+  citata_rodoma: |
+    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

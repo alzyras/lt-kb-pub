@@ -63,7 +63,8 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
     eiti prie aukštosios kultūros. Iškilo klausimas, kokia kalba šviesti liaudį,
     siekiant, kad ji taptų tautos dalimi – tos tautos gimtąja ar aukštuomenės
     kalba.
-  citata_rodoma: "eiti prie aukštosios kultūros. Iškilo klausimas, kokia kalba šviesti liaudį,"
+  citata_rodoma: |
+    eiti prie aukštosios kultūros. Iškilo klausimas, kokia kalba šviesti liaudį,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

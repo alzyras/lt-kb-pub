@@ -114,7 +114,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
     ji priklausė iki 1806  m., kai Napoleonas įkūrė Varšuvos kunigaikštiją;
     1815 m.
-  citata_rodoma: "Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai"
+  citata_rodoma: |
+    Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +132,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
     Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono
     Bonaparto įkurtai Varšuvos kunigaikštystei.
-  citata_rodoma: "Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono"
+  citata_rodoma: |
+    Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +156,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
     siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
     gaikštystės pulkai).
-  citata_rodoma: "dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje"
+  citata_rodoma: |
+    dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

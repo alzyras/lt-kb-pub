@@ -274,7 +274,11 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
     Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
-  citata_rodoma: "gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę \n„Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo \nmintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios \nkultūros kalba."
+  citata_rodoma: |
+    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
+    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
+    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
+    kultūros kalba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -320,7 +324,13 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
     matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
     sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
-  citata_rodoma: "Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-\nputis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,\nkrante suplakdavęs putą .\nGirystis (Giristis)\nMiško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas\niš Ksavero Bogušo pastebėjimų."
+  citata_rodoma: |
+    Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-
+    putis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,
+    krante suplakdavęs putą .
+    Girystis (Giristis)
+    Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas
+    iš Ksavero Bogušo pastebėjimų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

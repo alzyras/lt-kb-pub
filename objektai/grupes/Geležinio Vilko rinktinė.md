@@ -60,7 +60,12 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
     viršininku, rezistencinių laikraščių „Laisvės žvalgas“
     ir „Kovos keliu“ redaktoriumi. Prisidėjo organizuo-
     jant visų Lietuvos partizanų Vyriausiąją vadovybę.
-  citata_rodoma: "Tapes partizanu, buvo paskirtas Tauro apy-\ngardos Geležinio Vilko rinktinės spaudos skyriaus\nviršininku, rezistencinių laikraščių „Laisvės žvalgas“\nir „Kovos keliu“ redaktoriumi. Prisidėjo organizuo-\njant visų Lietuvos partizanų Vyriausiąją vadovybę."
+  citata_rodoma: |
+    Tapes partizanu, buvo paskirtas Tauro apy-
+    gardos Geležinio Vilko rinktinės spaudos skyriaus
+    viršininku, rezistencinių laikraščių „Laisvės žvalgas“
+    ir „Kovos keliu“ redaktoriumi. Prisidėjo organizuo-
+    jant visų Lietuvos partizanų Vyriausiąją vadovybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

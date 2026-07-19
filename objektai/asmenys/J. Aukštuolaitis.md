@@ -86,7 +86,15 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
     netrukus buvo išformuotas; Kėdainiuose —
     karininkų J. Variakojo ir J. Šarausko va-
     dovaujami Panevėžio ir Kėdainių sričių
-  citata_rodoma: "Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti,\n\nriuomenė ir birželį baltgudžių\npulkas buvo išformuotas); Tauragėje - be-\nsikuriantis Žemaičių batalionas, vadovau-\njamas avantiūristo J. Aukštuolaičio, kuris\nnetrukus buvo išformuotas; Kėdainiuose —\nkarininkų J."
+  citata_rodoma: |
+    Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti,
+
+    riuomenė ir birželį baltgudžių
+    pulkas buvo išformuotas); Tauragėje - be-
+    sikuriantis Žemaičių batalionas, vadovau-
+    jamas avantiūristo J. Aukštuolaičio, kuris
+    netrukus buvo išformuotas; Kėdainiuose —
+    karininkų J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

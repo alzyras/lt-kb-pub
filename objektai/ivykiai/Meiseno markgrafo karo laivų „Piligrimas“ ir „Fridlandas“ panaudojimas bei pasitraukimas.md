@@ -104,9 +104,14 @@ Nenurodyta
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
     vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
-    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo į savo kraštą, palikęs Prūsijoje
+    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje
     didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
-  citata_rodoma: "Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir\napsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė\nvienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip\nįvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje\ndidelę kariuomenę, turėjusią baigti statyti Elbingo pilį."
+  citata_rodoma: |
+    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
+    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
+    vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
+    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje
+    didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -125,7 +130,13 @@ Nenurodyta
     ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
     mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
     „Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko.
-  citata_rodoma: "Apie karo laivus ir markgrafo pasitraukimą\n\n  Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių. Taigi\nir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų\nmažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia\n„Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko."
+  citata_rodoma: |
+    Apie karo laivus ir markgrafo pasitraukimą
+
+      Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių. Taigi
+    ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
+    mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
+    „Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

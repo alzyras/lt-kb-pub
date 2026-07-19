@@ -109,7 +109,14 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
     Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
     Varmijos)^1 ).
-  citata_rodoma: "Abu\nmagistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­\njos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,\nBrastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su\nKęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių\nOrdino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir\nVarmijos)^1 )."
+  citata_rodoma: |
+    Abu
+    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
+    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
+    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
+    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
+    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
+    Varmijos)^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +135,12 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     1.000.000 kv. kilometru plotą. Kraštutinės jos ribos buvo Pa­
     langa ir Dniepro žiotys, Mozūrijos siena (ties Drahočynu) ir
     Pronskas.
-  citata_rodoma: "Ji apėmė visą aukštutinę ir vidurinę Dauguvą, Nemuno,\npietų Būgo, Dniepro ir aukštutinės Okos upynus, kas sudarė apie\n1.000.000 kv. kilometru plotą. Kraštutinės jos ribos buvo Pa­\nlanga ir Dniepro žiotys, Mozūrijos siena (ties Drahočynu) ir\nPronskas."
+  citata_rodoma: |
+    Ji apėmė visą aukštutinę ir vidurinę Dauguvą, Nemuno,
+    pietų Būgo, Dniepro ir aukštutinės Okos upynus, kas sudarė apie
+    1.000.000 kv. kilometru plotą. Kraštutinės jos ribos buvo Pa­
+    langa ir Dniepro žiotys, Mozūrijos siena (ties Drahočynu) ir
+    Pronskas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

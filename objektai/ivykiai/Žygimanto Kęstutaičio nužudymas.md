@@ -118,7 +118,14 @@ Nenurodyta
     sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
     kronikos fragmentą — pasakojimą apie Vytauto brolio
     Žygimanto Kęstutaičio nužudymą 1440 m.
-  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek­\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­\nniaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl\ndalyvavimo 1831 m. sukilime turėdamas emigruoti į už­\nsienį, jis tespėjo paskelbti dramatiškiausią Bychovco\nkronikos fragmentą — pasakojimą apie Vytauto brolio\nŽygimanto Kęstutaičio nužudymą 1440 m."
+  citata_rodoma: |
+    Bychovco kronikos rankraštį prieš 1830 m. Alek­
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
+    niaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl
+    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už­
+    sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
+    kronikos fragmentą — pasakojimą apie Vytauto brolio
+    Žygimanto Kęstutaičio nužudymą 1440 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

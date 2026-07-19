@@ -271,7 +271,28 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     greitosiomis sutelktą būrį, pasivijęs lietuvius netoli
     Sochačevo, stoja į kovą, kur kas didesnę narsą rody­
     damas, nei susilaukdamas sėkmės.
-  citata_rodoma: "Mat bemaž tuo\npačiu metu Vytenis lyg niekur nieko, tarytum tėvynė\nbūtų visiškai saugi nuo prie-\nV y te n is\nįsiv e ržia\nį\nšo, Mazovijos pasieniais įsi-\nL en k iją  ir u žim a  Len-\nveržė, sutelkęs žygiui tūks-\nčicą\ntantį aštuonis šimtus raitelių,\nį Lenčicos kraštą. Dėjosi šitai\nsekmadienį, todėl į miestą buvo prigužėję iš aplinkinių\nkaimų į pamaldas galybė kaimiečių ir bajorų. Tiesiai\niš kelio, niekieno nelauktas, Vytenis užėmė miestą, ko­\nva ir grėsmė artėjo prie bažnyčios, padrikai puolan­\nčius karius bažnyčioje užsidariusi minia, iš siaubo įga­\nvusi drąsos, atstūmė; į besiartinančius jie svaidė vis­\nką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė\naplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,\ngalop bažnyčia buvo užimta ir išplėšta."
+  citata_rodoma: |
+    Mat bemaž tuo
+    pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė
+    būtų visiškai saugi nuo prie-
+    V y te n is
+    įsiv e ržia
+    į
+    šo, Mazovijos pasieniais įsi-
+    L en k iją  ir u žim a  Len-
+    veržė, sutelkęs žygiui tūks-
+    čicą
+    tantį aštuonis šimtus raitelių,
+    į Lenčicos kraštą. Dėjosi šitai
+    sekmadienį, todėl į miestą buvo prigužėję iš aplinkinių
+    kaimų į pamaldas galybė kaimiečių ir bajorų. Tiesiai
+    iš kelio, niekieno nelauktas, Vytenis užėmė miestą, ko­
+    va ir grėsmė artėjo prie bažnyčios, padrikai puolan­
+    čius karius bažnyčioje užsidariusi minia, iš siaubo įga­
+    vusi drąsos, atstūmė; į besiartinančius jie svaidė vis­
+    ką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė
+    aplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,
+    galop bažnyčia buvo užimta ir išplėšta.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

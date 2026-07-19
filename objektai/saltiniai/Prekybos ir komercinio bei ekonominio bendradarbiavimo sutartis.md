@@ -66,7 +66,8 @@ media_all_json: |-
     jėgos naudojimą Baltijos šalyse. 1992 m. Lietuva ir ES pasirašė Prekybos
     ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-
     raciją dėl politinio dialogo tarp ES ir Lietuvos.
-  citata_rodoma: "ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-"
+  citata_rodoma: |
+    ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

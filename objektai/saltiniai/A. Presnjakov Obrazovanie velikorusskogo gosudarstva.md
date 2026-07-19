@@ -70,7 +70,9 @@ Presnjakov, A.
     355-356 p. — Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,
     Petrograd 1918. — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.).
-  citata_rodoma: "— Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,\nPetrograd 1918. — Puzyna, J."
+  citata_rodoma: |
+    — Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,
+    Petrograd 1918. — Puzyna, J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

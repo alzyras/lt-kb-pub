@@ -76,7 +76,8 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
     nybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“,
     ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo
     taisyklėmis.
-  citata_rodoma: "nybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“,"
+  citata_rodoma: |
+    nybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

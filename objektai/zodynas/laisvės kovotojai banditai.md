@@ -76,7 +76,8 @@ Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės ko
     ditais). Sąjūdis ėmėsi vadovauti ir
     politinei, ir karinei pasipriešinimo
     organizacijų veiklai.
-  citata_rodoma: "mas: Lietuvos laisvės kovos sąjūdis"
+  citata_rodoma: |
+    mas: Lietuvos laisvės kovos sąjūdis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

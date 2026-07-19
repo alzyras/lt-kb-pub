@@ -97,7 +97,19 @@ Narbutas lietuvių gėrimą ratu lygino su Antikos Circumpotatio ir rašė, kad 
     kotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo
     medvežych, y dla toho tyle nohty podle nich kladyvali, na koto-
     22 Lucas David.
-  citata_rodoma: "Išmaldos dalytojui grįžus į namus, vaišinamasi ir geriama dvi-\n386\n\n## Puslapis 386\n\ngubai daugiau: vyrai ir moterys, drauge susėdę, geria ratu paei­\nliui vienas į kito sveikatą. Tai visiškai primena Antikos žmonių\nCircumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-\nlonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be\nšitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­\nvosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia\napeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą."
+  citata_rodoma: |
+    Išmaldos dalytojui grįžus į namus, vaišinamasi ir geriama dvi-
+    386
+
+    ## Puslapis 386
+
+    gubai daugiau: vyrai ir moterys, drauge susėdę, geria ratu paei­
+    liui vienas į kito sveikatą. Tai visiškai primena Antikos žmonių
+    Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
+    lonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be
+    šitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­
+    vosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia
+    apeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

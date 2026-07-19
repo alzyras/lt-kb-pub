@@ -78,7 +78,13 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
     ekspansija į baltų žemes. Vokiškojo Ordino, visokeriopai remiamo popiežiaus kurijos,
     priešai Petrui iš Dusburgo visada yra dievo priešai, jis nieku būdu nenori suprasti, kad
     pagonys prūsai ir lietuviai gali kovoti už laisvę, už savarankišką vystymąsi.
-  citata_rodoma: "Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino\nriterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus\nginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins\nKristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.\nŠie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną\nlinksmybę“ (II. 8)."
+  citata_rodoma: |
+    Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
+    riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus
+    ginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins
+    Kristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.
+    Šie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną
+    linksmybę“ (II. 8).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

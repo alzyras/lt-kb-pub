@@ -112,7 +112,15 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
     riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
     lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
     sų gatve.
-  citata_rodoma: "Ar tas var­\ndas yra kilęs iš jų kalbos prigimties, ar tai koks mitologinis\npavadinimas -  nežinome. Tikras dalykas yra tik tai, kad Arak-\nso upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip\ntik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­\ncijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­\nsigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-\nsas."
+  citata_rodoma: |
+    Ar tas var­
+    das yra kilęs iš jų kalbos prigimties, ar tai koks mitologinis
+    pavadinimas -  nežinome. Tikras dalykas yra tik tai, kad Arak-
+    so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
+    tik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­
+    cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
+    sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
+    sas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

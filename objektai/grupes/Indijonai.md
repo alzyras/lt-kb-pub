@@ -47,9 +47,12 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Taip pat indijonų tauta, visų
-        akyloji senovėj tarp visų kitų tautų, vadino įsikūnijimą savo didžiojo dievo Višnu, vadinamojo
-        Adivarage Perunal.
-  citata_rodoma: "Taip pat indijonų tauta, visų\nakyloji senovėj tarp visų kitų tautų, vadino įsikūnijimą savo didžiojo dievo Višnu, vadinamojo\nAdivarage Perunal."
+    akyloji senovėj tarp visų kitų tautų, vadino įsikūnijimą savo didžiojo dievo Višnu, vadinamojo
+    Adivarage Perunal.
+  citata_rodoma: |
+    Taip pat indijonų tauta, visų
+    akyloji senovėj tarp visų kitų tautų, vadino įsikūnijimą savo didžiojo dievo Višnu, vadinamojo
+    Adivarage Perunal.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

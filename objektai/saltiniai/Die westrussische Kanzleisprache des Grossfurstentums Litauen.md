@@ -66,7 +66,9 @@ media_all_json: |-
     furstentums Litauen,_ Oslo 1935. — Wielhorski, W. : _Litwini, Biatoru-
     sini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego_ , Prace
     Alma Mater Vilnensis, London 1951, 21-157 p.
-  citata_rodoma: "— Stang, Chr. : _Die westrussische Kanzleisprache des Gross-\nfurstentums Litauen,_ Oslo 1935. — Wielhorski, W."
+  citata_rodoma: |
+    — Stang, Chr. : _Die westrussische Kanzleisprache des Gross-
+    furstentums Litauen,_ Oslo 1935. — Wielhorski, W.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

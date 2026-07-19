@@ -78,7 +78,21 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
     dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad
     skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą lai-
     kys tik Vokietijos intriga.
-  citata_rodoma: "IV s k y r i u s\nLIETUVOS VALSTYBĖS  \nATKŪRIMAS \n„Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių \nmaloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų \nkalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant  \njuos prie veiksmažodžių ir prieveiksmių, lygiai kaip prie \nbūdvardžių ir daiktavardžių. Jeigu tautos vertė, imant visą  \nžmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų \nužimti pirmą vietą tarp Europos tautų“ \nBenjamin W. Dwight  \nIš jo „Modern Philology“ („Modernioji filologija“)\nX\nX a."
+  citata_rodoma: |
+    IV s k y r i u s
+    LIETUVOS VALSTYBĖS
+    ATKŪRIMAS
+    „Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių
+    maloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų
+    kalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant
+    juos prie veiksmažodžių ir prieveiksmių, lygiai kaip prie
+    būdvardžių ir daiktavardžių. Jeigu tautos vertė, imant visą
+    žmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų
+    užimti pirmą vietą tarp Europos tautų“
+    Benjamin W. Dwight
+    Iš jo „Modern Philology“ („Modernioji filologija“)
+    X
+    X a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

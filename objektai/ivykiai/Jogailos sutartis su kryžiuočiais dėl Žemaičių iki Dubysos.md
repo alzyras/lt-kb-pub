@@ -86,7 +86,10 @@ Nenurodyta
     niekuo nekariauti ir nedaryti jokios taikos. Taigi Jogaila su-
     tiko klausyti kryžiuočių nurodymų, t. y. prisipažino jų priklauso-
     mas. Bet šitos sutarties jis vis dėlto neketino laikytis.
-  citata_rodoma: "Taigi Jogaila su-\ntiko klausyti kryžiuočių nurodymų, t. y. prisipažino jų priklauso-\nmas. Bet šitos sutarties jis vis dėlto neketino laikytis."
+  citata_rodoma: |
+    Taigi Jogaila su-
+    tiko klausyti kryžiuočių nurodymų, t. y. prisipažino jų priklauso-
+    mas. Bet šitos sutarties jis vis dėlto neketino laikytis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

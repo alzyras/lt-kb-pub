@@ -437,7 +437,13 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     miestą. Jį paėmus į nelaisvę, be galo susikrimto prūsų vadas, kuris pažadėjo pasitraukti
     nuo miesto ir nebeskriausti krikščionių, jeigu jiems būsiąs atiduotas šis sužeistasis, o
     šitaip abi šalys ir padarė.
-  citata_rodoma: "Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis\n\n  Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios\natskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje\nilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo\nginklanešiais, ir ji po šiai dienai tebestovi apleista."
+  citata_rodoma: |
+    Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
+
+      Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios
+    atskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje
+    ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
+    ginklanešiais, ir ji po šiai dienai tebestovi apleista.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -459,7 +465,11 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -481,7 +491,14 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
     gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
     ant iškeltų prūsų iečių, o likusieji sudegė.
-  citata_rodoma: "Apie Veklico pilies ir vienos pilaitės sugriovimą\n\n  Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,\nantrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė\nvisus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui\npatraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu\nvienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado."
+  citata_rodoma: |
+    Apie Veklico pilies ir vienos pilaitės sugriovimą
+
+      Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
+    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė
+    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui
+    patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu
+    vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -524,7 +541,12 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
-  citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -567,7 +589,14 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
     ke - lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
     Vilniaus yra Piktukonių (Piktukance) kaimas.
-  citata_rodoma: "Šie sakė, kad aukštieji dievai užsiundę tas\npiktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.\nTad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­\nkė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai\nprisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada\nnelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-\nmi, bet gins savo senąjį tikėjimą."
+  citata_rodoma: |
+    Šie sakė, kad aukštieji dievai užsiundę tas
+    piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -626,7 +655,17 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     Į šiaurę už Osos upės ir prie jos plytėjusios girios pri­
     klausė antrai Pamedės provincijai. Nuo šios girios Os­
     termejeris (Preuss.
-  citata_rodoma: "Ypač seniai egzistavo Kulmas, Chetmno, seno­\nvinis Ulmas. Atėjus kryžiuočiams, visos šios tvirtovės ir \npilys visame Kulme ir Lubavoje buvo visiškai sunaikin­\ntos, didesnė dalis krašto, nuniokoto nesiliaujančių mazo- \nviečių karų su prūsais, priklausė Kulmo vyskupui, o kita \ndalis Mazovijos kunigaikščiui, nors ji buvo jam menka­\nvertė.\nPamedė\nĮ šiaurę už Osos upės ir prie jos plytėjusios girios pri­\nklausė antrai Pamedės provincijai."
+  citata_rodoma: |
+    Ypač seniai egzistavo Kulmas, Chetmno, seno­
+    vinis Ulmas. Atėjus kryžiuočiams, visos šios tvirtovės ir
+    pilys visame Kulme ir Lubavoje buvo visiškai sunaikin­
+    tos, didesnė dalis krašto, nuniokoto nesiliaujančių mazo-
+    viečių karų su prūsais, priklausė Kulmo vyskupui, o kita
+    dalis Mazovijos kunigaikščiui, nors ji buvo jam menka­
+    vertė.
+    Pamedė
+    Į šiaurę už Osos upės ir prie jos plytėjusios girios pri­
+    klausė antrai Pamedės provincijai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -655,7 +694,18 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     taip pat Nogato ir Vyslos tarpupis buvo Labai mažai ap­
     gyvendinta arba čia apskritai nebuvo nuolatinių gyven­
     tojų.
-  citata_rodoma: "Netgi teigiama, kad Grevožos tvirtovėje gyvenęs\nvietinis Krivis.\nKitos tvirtovės buvo šalia Stumos, Postelino, Postolin,\nReisių apskrityje prie Drūsinės ežero, šiandienio Vilen-\nbergo kaimo apylinkėse, taip pat prie Vyslos. Iš to tvir­\ntovių išsidėstymo jau galima daryti išvadą, jog rytinė ir\nšiaurinė Pamedės dalys buvo gerai apgyvendintos, o šiau­\nrėje plytėjusios žemės šalia Malborko net iki Elbliongo,\ntaip pat Nogato ir Vyslos tarpupis buvo Labai mažai ap­\ngyvendinta arba čia apskritai nebuvo nuolatinių gyven­\ntojų."
+  citata_rodoma: |
+    Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
+    vietinis Krivis.
+    Kitos tvirtovės buvo šalia Stumos, Postelino, Postolin,
+    Reisių apskrityje prie Drūsinės ežero, šiandienio Vilen-
+    bergo kaimo apylinkėse, taip pat prie Vyslos. Iš to tvir­
+    tovių išsidėstymo jau galima daryti išvadą, jog rytinė ir
+    šiaurinė Pamedės dalys buvo gerai apgyvendintos, o šiau­
+    rėje plytėjusios žemės šalia Malborko net iki Elbliongo,
+    taip pat Nogato ir Vyslos tarpupis buvo Labai mažai ap­
+    gyvendinta arba čia apskritai nebuvo nuolatinių gyven­
+    tojų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

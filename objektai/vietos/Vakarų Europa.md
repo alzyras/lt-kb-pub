@@ -184,7 +184,10 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a. Vakarų
     Europos situaciją XVI a. apibūdina Baltramiejaus naktis Paryžiuje (1572),
     tapusi religinio nepakantumo simboliu Europos istorijoje.
-  citata_rodoma: "Vakarų \nEuropos situaciją XVI a. apibūdina Baltramiejaus naktis Paryžiuje (1572), \ntapusi religinio nepakantumo simboliu Europos istorijoje."
+  citata_rodoma: |
+    Vakarų
+    Europos situaciją XVI a. apibūdina Baltramiejaus naktis Paryžiuje (1572),
+    tapusi religinio nepakantumo simboliu Europos istorijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -205,7 +208,10 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
     tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
     tus, o rusai į vakarus.
-  citata_rodoma: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina \ntiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-\ntus, o rusai į vakarus."
+  citata_rodoma: |
+    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
+    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
+    tus, o rusai į vakarus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

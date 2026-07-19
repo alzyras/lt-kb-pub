@@ -71,7 +71,13 @@ Radvila, jausdamas, kad priešas didelėmis pajėgomis vis tiek tęs puolimą, �
     laimėjimą prie Šepelievičių. Pergalė Šklovo
     mūšyje nesustabdė gausių priešo pajėgų
     veržimosi į LDK.
-  citata_rodoma: "Po mūšio J. Radvila, jaus-\ndamas, kad priešas didelėmis pajėgomis\n\nvis tiek tęs puolimą, ėmė trauktis ir 1654 m.\nrugpjūčio 24 dieną patyrė pirmąjį savo pra-\nlaimėjimą prie Šepelievičių."
+  citata_rodoma: |
+    Po mūšio J. Radvila, jaus-
+    damas, kad priešas didelėmis pajėgomis
+
+    vis tiek tęs puolimą, ėmė trauktis ir 1654 m.
+    rugpjūčio 24 dieną patyrė pirmąjį savo pra-
+    laimėjimą prie Šepelievičių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

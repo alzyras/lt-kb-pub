@@ -73,7 +73,10 @@ Nenurodyta
     **Lietuviai Mykolo elekcijoje** nebuvo visiškai vieningi. Kaip
     paprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai
     atsiuntė tik atstovus.
-  citata_rodoma: "Kaip\npaprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai\natsiuntė tik atstovus."
+  citata_rodoma: |
+    Kaip
+    paprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai
+    atsiuntė tik atstovus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

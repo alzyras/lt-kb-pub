@@ -326,7 +326,19 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     dinių kovų draskomą Moldaviją ir Valakiją
     bei plėsti savo ekspansiją toliau į Lenkijai
     priklausiusios Ukrainos teritoriją.
-  citata_rodoma: "Jie būdavo ginkluoti lankais ir\nstrėlėmis, kardais, pistoletais ir kitokiais ginklais\n\n112\n\nMūšio priešistorė\nXVI a. pabaigoje XVII a. pirmojoje pu-\nsėje Lenkija ir Turkija kovojo dėl įtakos\nMoldavijoje. Turkija siekė užvaldyti visą vi-\ndinių kovų draskomą Moldaviją ir Valakiją\nbei plėsti savo ekspansiją toliau į Lenkijai\npriklausiusios Ukrainos teritoriją."
+  citata_rodoma: |
+    Jie būdavo ginkluoti lankais ir
+    strėlėmis, kardais, pistoletais ir kitokiais ginklais
+
+    112
+
+    Mūšio priešistorė
+    XVI a. pabaigoje XVII a. pirmojoje pu-
+    sėje Lenkija ir Turkija kovojo dėl įtakos
+    Moldavijoje. Turkija siekė užvaldyti visą vi-
+    dinių kovų draskomą Moldaviją ir Valakiją
+    bei plėsti savo ekspansiją toliau į Lenkijai
+    priklausiusios Ukrainos teritoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -378,7 +390,15 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     raliaus paskirtų senatorių pastangomis, išlaisvino miestą
     nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
     kiai pakėlęs stiklo kainą miesto gyventojams55.
-  citata_rodoma: "Karališkųjų\nmuitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­\nkesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė\nsuvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­\ndė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­\nraliaus paskirtų senatorių pastangomis, išlaisvino miestą\nnuo ateityje labai nemalonaus monopolio, kuris būtų smar­\nkiai pakėlęs stiklo kainą miesto gyventojams55."
+  citata_rodoma: |
+    Karališkųjų
+    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
+    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
+    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
+    dė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­
+    raliaus paskirtų senatorių pastangomis, išlaisvino miestą
+    nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
+    kiai pakėlęs stiklo kainą miesto gyventojams55.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -401,7 +421,16 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
     gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
     gos arkivyskupą.
-  citata_rodoma: "Apsirūpinus ar­\ntilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­\nvo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,\nPodolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­\nles karinės amunicijos atsargas, nesunku buvo apginkluoti\ngausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­\ngiavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­\ngistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­\ngos arkivyskupą."
+  citata_rodoma: |
+    Apsirūpinus ar­
+    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
+    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
+    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
+    les karinės amunicijos atsargas, nesunku buvo apginkluoti
+    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
+    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
+    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
+    gos arkivyskupą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -418,7 +447,11 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     vadovaudamas kuopai, pasižymėjo malšindamas ka-
     zokų sukilimą. Veiksmuose prieš kazokus dalyvavo
     ir1596 m. 1599 m. tapo Žemaitijos seniūnu.
-  citata_rodoma: "1595 m. Ukrainoje,\nvadovaudamas kuopai, pasižymėjo malšindamas ka-\nzokų sukilimą. Veiksmuose prieš kazokus dalyvavo\nir1596 m."
+  citata_rodoma: |
+    1595 m. Ukrainoje,
+    vadovaudamas kuopai, pasižymėjo malšindamas ka-
+    zokų sukilimą. Veiksmuose prieš kazokus dalyvavo
+    ir1596 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

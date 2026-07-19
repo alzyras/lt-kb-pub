@@ -97,7 +97,15 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
     pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
     žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai.
-  citata_rodoma: "Apie Girmavos valsčiaus nuniokojimą\n\n  Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną\naprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,\nvadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą\nprieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų\npilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug\nžmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai."
+  citata_rodoma: |
+    Apie Girmavos valsčiaus nuniokojimą
+
+      Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
+    aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
+    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
+    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -119,7 +127,12 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
     komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
     kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
-  citata_rodoma: "Kristburgo komtūras, brolis Henrikas,\nvadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą\nprieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų\npilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug\nžmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai."
+  citata_rodoma: |
+    Kristburgo komtūras, brolis Henrikas,
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
+    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
+    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

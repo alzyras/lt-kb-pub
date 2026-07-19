@@ -132,7 +132,24 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
     gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
     matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
     sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
-  citata_rodoma: "176\n\n## Puslapis 176\n\nTu man būsi užtvarėlė:\nAuk linksmutė ežioje,\nMalšink troškulį mano ašaromis ir prakaitu,\nKol atjos mano mylimasis.\nTegu tau nepakenkia pikti vėjai,\nTegu lietus nenulenkia iki žemės,\nTegu tave atgaivina Zefyrai,\nMielieji gėlių bičiuliai)\nPavadinimas Pucis kilęs iš Pučiu -  pučiu, daugiskaita Pu-\nciataj; tai bus Zefyras ir Zefyriukai.\nPajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-\nputis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,\nkrante suplakdavęs putą ."
+  citata_rodoma: |
+    176
+
+    ## Puslapis 176
+
+    Tu man būsi užtvarėlė:
+    Auk linksmutė ežioje,
+    Malšink troškulį mano ašaromis ir prakaitu,
+    Kol atjos mano mylimasis.
+    Tegu tau nepakenkia pikti vėjai,
+    Tegu lietus nenulenkia iki žemės,
+    Tegu tave atgaivina Zefyrai,
+    Mielieji gėlių bičiuliai)
+    Pavadinimas Pucis kilęs iš Pučiu -  pučiu, daugiskaita Pu-
+    ciataj; tai bus Zefyras ir Zefyriukai.
+    Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-
+    putis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,
+    krante suplakdavęs putą .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -155,7 +172,16 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
     riškos lyties dvasia, kuri paprastai tarytum smėlio maišas už­
     gula miegantį žmogų, naktį užsėda ant arklių ir ant merginų,
     kad šios net išprakaituoja.
-  citata_rodoma: "Pucis (Putys?, Pučiąs, Pucis)\nMalonaus vėjelio dievaitis. Jo giminės vadinosi Puciatais\n(Puciataj).\nApie jį dainuojama lietuviška dainelė; gavau tokį jos ver­\ntimą:\nSadzita rutę zieloną,\nPolewala svėmi Izami;\nPlotek byt dla niej ostoną\nBy styriną byla wiankami."
+  citata_rodoma: |
+    Pucis (Putys?, Pučiąs, Pucis)
+    Malonaus vėjelio dievaitis. Jo giminės vadinosi Puciatais
+    (Puciataj).
+    Apie jį dainuojama lietuviška dainelė; gavau tokį jos ver­
+    timą:
+    Sadzita rutę zieloną,
+    Polewala svėmi Izami;
+    Plotek byt dla niej ostoną
+    By styriną byla wiankami.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

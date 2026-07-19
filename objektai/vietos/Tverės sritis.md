@@ -93,7 +93,10 @@ media_all_json: |-
     nijoje. 1287 kovo mėn. kautynėse su lietuviais, kurie veikė sąjun­
     goje su žiemgaliais, žuvo Livonijos 35 riteriai ir magistras Bur­
     chardas von Haren.
-  citata_rodoma: "1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė\nTverės sritį. Ir toliau jie pastoviai puldinėjo ordino žemes Livo­\nnijoje. 1287 kovo mėn."
+  citata_rodoma: |
+    1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė
+    Tverės sritį. Ir toliau jie pastoviai puldinėjo ordino žemes Livo­
+    nijoje. 1287 kovo mėn.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

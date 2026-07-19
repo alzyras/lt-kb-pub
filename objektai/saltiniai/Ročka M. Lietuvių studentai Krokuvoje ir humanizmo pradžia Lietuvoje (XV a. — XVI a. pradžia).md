@@ -82,7 +82,9 @@ Dusburgietis teigia, kad ročka M.
     Volkaitė-Kulikauskienė R. Lietuva valstybės susidarymo išvakarėse.— Lietuvių
     materialinė kultūra IX—XIII amžiuje, V., 1978, 1, p. 4—13.
     de Vries Jan.
-  citata_rodoma: "Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI\na. pradžia).— Literatūra, V., 1966, 9, p. 55—84."
+  citata_rodoma: |
+    Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI
+    a. pradžia).— Literatūra, V., 1966, 9, p. 55—84.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -129,7 +129,11 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
     su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
     Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
     tijoje ir valdysiu visą Rusiją^2 ).
-  citata_rodoma: "Rusų kronikos aiškina, kad\nsu Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro\nKotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­\ntijoje ir valdysiu visą Rusiją^2 )."
+  citata_rodoma: |
+    Rusų kronikos aiškina, kad
+    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
+    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
+    tijoje ir valdysiu visą Rusiją^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

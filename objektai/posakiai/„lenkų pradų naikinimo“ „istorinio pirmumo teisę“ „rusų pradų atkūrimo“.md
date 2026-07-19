@@ -122,7 +122,8 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
     nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
     nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
-  citata_rodoma: "visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,"
+  citata_rodoma: |
+    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

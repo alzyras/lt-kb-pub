@@ -173,7 +173,11 @@ media_all_json: |-
     kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
     reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
     laičio poema „Metai“ (apie 1750).
-  citata_rodoma: "Paradoksas – svetima valstybė, o lietuviškos raštijos kur\nkas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis\nreikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-\nlaičio poema „Metai“ (apie 1750)."
+  citata_rodoma: |
+    Paradoksas – svetima valstybė, o lietuviškos raštijos kur
+    kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
+    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
+    laičio poema „Metai“ (apie 1750).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -195,7 +199,11 @@ media_all_json: |-
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
     Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
     poe­ma „Metai“ (su vertimu į vokiečių kalbą).
-  citata_rodoma: "Karaliaučiuje žymaus\nmokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio\nMažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta\npoe­ma „Metai“ (su vertimu į vokiečių kalbą)."
+  citata_rodoma: |
+    Karaliaučiuje žymaus
+    mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
+    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
+    poe­ma „Metai“ (su vertimu į vokiečių kalbą).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

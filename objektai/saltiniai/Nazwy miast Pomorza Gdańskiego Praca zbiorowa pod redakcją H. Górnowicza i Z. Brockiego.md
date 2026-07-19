@@ -71,7 +71,9 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
     141—149.
     Nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod redakcją H. Górnowicza i Z.
     Brockiego.—Wrocław—Warszawa—Kraków—Gdańsk, 1978.
-  citata_rodoma: "Nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod redakcją H. Górnowicza i Z.\nBrockiego.—Wrocław—Warszawa—Kraków—Gdańsk, 1978."
+  citata_rodoma: |
+    Nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod redakcją H. Górnowicza i Z.
+    Brockiego.—Wrocław—Warszawa—Kraków—Gdańsk, 1978.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

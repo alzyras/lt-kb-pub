@@ -79,7 +79,16 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
     55
     Stryjkowski, p. 466, Kromer,
     Lib.
-  citata_rodoma: "Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis \npriimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­\nkydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­\nbių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų \ndata, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, \ntos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­\nmą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-\n55\nStryjkowski, p."
+  citata_rodoma: |
+    Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
+    priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­
+    kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­
+    bių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
+    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
+    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
+    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
+    55
+    Stryjkowski, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

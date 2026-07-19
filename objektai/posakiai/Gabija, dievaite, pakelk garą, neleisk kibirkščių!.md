@@ -95,7 +95,14 @@ Apsauginė maldelė Gabijai / jaujos ugniai, prašanti šilumos ir saugumo nuo k
     naminių gyvulių auginimui; atsižvelgiant į tai, Santvaras (So­
     tuar), kaip piemenų dievas, gauna aukas, ir jį garbinti moka
     skurdžiausiose pirkelėse“16.
-  citata_rodoma: "Tai reiškia: „Gabija, miela deive, duok daugiau šilu­\nmos, neleisk ugniai per daug kibirkščiuoti“. Si maldelė yra ug­\nnies užkeikimas jaujoje, kad nekiltų gaisras. Prietaringi žemai­\nčių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo\nt džiovyklose. Reikia atminti, kad Antikos žmonės saulę laikė\nugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­\ndami taip pat Gabie, Gabalus, Heliogabalus."
+  citata_rodoma: |
+    Tai reiškia: „Gabija, miela deive, duok daugiau šilu­
+    mos, neleisk ugniai per daug kibirkščiuoti“. Si maldelė yra ug­
+    nies užkeikimas jaujoje, kad nekiltų gaisras. Prietaringi žemai­
+    čių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo
+    t džiovyklose. Reikia atminti, kad Antikos žmonės saulę laikė
+    ugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­
+    dami taip pat Gabie, Gabalus, Heliogabalus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -111,7 +111,12 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
     kaip elgtis, kai tyko tokios nelaimės. Jam atsakė iš dangaus pasigirdęs balsas: „Judėja
     ir Jeruzale, nesibaiminkite, rytoj išeisite, o viešpats bus su jumis; būkite patvarios ir
     regėsite viešpaties jums siunčiamą pagal bą“.
-  citata_rodoma: "Sitai girdėdamas,\nMiligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs\ndidelį priešų būrį, staiga iššokusį iš pasalų, jis nukovė savo iššaukėją, paspruko į mišką\nir slaptais keliais sugrįžo į Bartenšteino pilį. Šitokiais bei panašiais būdais [prūsai] jį ilgai\nviliojo  į dvikovą, kol galop, nutykoję progą, nužudė."
+  citata_rodoma: |
+    Sitai girdėdamas,
+    Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs
+    didelį priešų būrį, staiga iššokusį iš pasalų, jis nukovė savo iššaukėją, paspruko į mišką
+    ir slaptais keliais sugrįžo į Bartenšteino pilį. Šitokiais bei panašiais būdais [prūsai] jį ilgai
+    viliojo  į dvikovą, kol galop, nutykoję progą, nužudė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -132,7 +137,11 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
     Prūsams atstačius kuorus, ketvirtaisiais [apsupimo] metais, taigi 1264 viešpaties
     metais, broliai, trūkdami maisto ir negalėdami ilgiau prūsams priešintis, tris kartus vis
     dėlto juos apgavo štai kokiu būdu.
-  citata_rodoma: "Mat Bartenšteino pilyje buvo vienas vyras, vardu\nMiligedas, toks drąsus, kad prūsams rodėsi, jog,  jį nukovus, pusė pilies įgulos būtų\nbuvusi sunaikinta. Dėl to jie nutarė klasta jį išvilioti ir nužudyti; išmėginę daug visokių\npriemonių, galop ėmėsi štai šio būdo."
+  citata_rodoma: |
+    Mat Bartenšteino pilyje buvo vienas vyras, vardu
+    Miligedas, toks drąsus, kad prūsams rodėsi, jog,  jį nukovus, pusė pilies įgulos būtų
+    buvusi sunaikinta. Dėl to jie nutarė klasta jį išvilioti ir nužudyti; išmėginę daug visokių
+    priemonių, galop ėmėsi štai šio būdo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

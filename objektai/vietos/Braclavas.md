@@ -230,7 +230,12 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
     nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
-  citata_rodoma: "Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-\nmantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-\nveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-\nnės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo \nprisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime."
+  citata_rodoma: |
+    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -260,7 +265,21 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     vadinamas Olegu), Riazanės kunigaikštis, karštomis
     maldomis jį užstojo ir, davęs užstatą, laidavo jam Vy­
     tauto palankumą.
-  citata_rodoma: "Niekas taip\nD im itru i a tid u o d a  tė-\nstipriai nesutramdo išpuikėlio\nv o n iją\nširdies, kaip nesėkmė, todėl\nir Dimitras, ilgai kalėdamas,\nišmoko klusnumo. Vėliau, prisiekęs visada būti ištiki­\nmas Vytautui bei jo įpėdiniams, gavo iš jo valdyti\n342\n\n## Puslapis 341\n\nBraclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs\nšiomis didelėmis valdomis, liovėsi reikalavęs Seversko."
+  citata_rodoma: |
+    Niekas taip
+    D im itru i a tid u o d a  tė-
+    stipriai nesutramdo išpuikėlio
+    v o n iją
+    širdies, kaip nesėkmė, todėl
+    ir Dimitras, ilgai kalėdamas,
+    išmoko klusnumo. Vėliau, prisiekęs visada būti ištiki­
+    mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti
+    342
+
+    ## Puslapis 341
+
+    Braclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs
+    šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -292,7 +311,29 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     kalaujant sugrąžinti Podolę, o lenkams ne mažiau įnir­
     tingai priešinantis, seimas išsivažinėjo ne tik nieko ne­
     nutaręs, bet dar labiau sukurstęs abipusį nepakantumą.
-  citata_rodoma: "Štai todėl, norėdamas išvengti gink­\nluotų susidūrimų, jis sušaukė Naugarduke seimą ir pats\nnuvyko į Lietuvą.\n1449 m ela i\nKol valdovas rūpinosi lie-\nS k ila i\nn io k o ja\nPo-\ntuvių seimo reikalais, skitai\ndo ]ę\nsurengė niokojamą žygį į tą\nPodolės dalį, kurią valdė len­\nkai, degindami ir žudydami, kas pakliuvo po ranka, ta­\nčiau neliesdami kaimyninės Braclavo žemės, nors nio­\nkotojams bei grobikams ji buvo tiesiog ranka pasiekia­\nma; mat Jurga, pasienio seniūnas, išsiuntęs per žygūnus\ngausių dovanų, išpirko lietuviams priklausomas valdas\nnuo siaubiamųjų antpuolių. Dėl to lenkai suskato iš\nnaujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl\nPodolės nuniokojimo, kad nesą jokių abejonių, jog ne\nbe karaliaus žinios lietuviai sukurstė skitus prieš len­\nkus, nes jis mat nepritarė nė vienam jų sumanymui."
+  citata_rodoma: |
+    Štai todėl, norėdamas išvengti gink­
+    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
+    nuvyko į Lietuvą.
+    1449 m ela i
+    Kol valdovas rūpinosi lie-
+    S k ila i
+    n io k o ja
+    Po-
+    tuvių seimo reikalais, skitai
+    do ]ę
+    surengė niokojamą žygį į tą
+    Podolės dalį, kurią valdė len­
+    kai, degindami ir žudydami, kas pakliuvo po ranka, ta­
+    čiau neliesdami kaimyninės Braclavo žemės, nors nio­
+    kotojams bei grobikams ji buvo tiesiog ranka pasiekia­
+    ma; mat Jurga, pasienio seniūnas, išsiuntęs per žygūnus
+    gausių dovanų, išpirko lietuviams priklausomas valdas
+    nuo siaubiamųjų antpuolių. Dėl to lenkai suskato iš
+    naujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl
+    Podolės nuniokojimo, kad nesą jokių abejonių, jog ne
+    be karaliaus žinios lietuviai sukurstė skitus prieš len­
+    kus, nes jis mat nepritarė nė vienam jų sumanymui.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

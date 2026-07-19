@@ -62,7 +62,8 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
     „nepagrįstu“ žydų noru toliau plėsti savo įtaką. Tačiau lietuvėjant mies-
     tams, lietuvių ir jų ūkinių kooperatyvų veikla neišvengiamai silpnino
     žydų verslo pozicijas.
-  citata_rodoma: "Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas"
+  citata_rodoma: |
+    Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

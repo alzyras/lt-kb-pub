@@ -101,8 +101,19 @@ Nenurodyta
     įtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną
     Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
     18
-    Wremiennik Sofijski, p. 334.
-  citata_rodoma: "Ne kartą jau minoritai, apaš­\ntalavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo \npranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­\ntimu į tikėjimą, pasmerkė save skaudžioms kančioms. Ta­\nčiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje, \nvaldovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­\nba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę \nįtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną \nBučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir\n18\nWremiennik Sofijski, p."
+    Wremiennik Sofijski, p.
+  citata_rodoma: |
+    Ne kartą jau minoritai, apaš­
+    talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
+    pranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­
+    timu į tikėjimą, pasmerkė save skaudžioms kančioms. Ta­
+    čiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,
+    valdovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­
+    ba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę
+    įtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną
+    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
+    18
+    Wremiennik Sofijski, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

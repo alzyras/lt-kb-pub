@@ -89,7 +89,8 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     Paskui vežimą joja jaunosios įpra­
     šytas brolis; jam reikės nuvažiavus išvaduoti svirne kraičiui vietą.
     Jaunikio namuose kraitį iškelia iš ratų ir pastato kieme.
-  citata_rodoma: "Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį."
+  citata_rodoma: |
+    Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
@@ -110,7 +111,8 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     prieš išvažiuojant į
     „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm —
     tai kraičvežiai.
-  citata_rodoma: "Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai."
+  citata_rodoma: |
+    Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

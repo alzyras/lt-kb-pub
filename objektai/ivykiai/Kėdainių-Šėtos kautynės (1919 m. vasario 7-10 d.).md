@@ -203,7 +203,21 @@ Nenurodyta
     juos puolė mėgindami pralaužti gynybą,
     tačiau savanoriams vis pavykdavo taiklia
     šautuvų ugnimi juos sulaikyti.
-  citata_rodoma: "Karininkai J. Mikoliūnas ir\nK. Dragunevičius, surinkę apie 80 karei-\nvinėse buvusių savanorių ir išskleidę juos\nabipus vieškelio Kėdainiai-Šėta, efektyvia\nšautuvų ugnimi įstengė sustabdyti priešo\npuolimą. Bolševikai į besiginančiuosius\nsutelkė kulkosvaidžių ir artilerijos ugnį.\nNeturintys kovos patirties savanoriai, drą-\nsinami būrių vadų, nepakriko ir laikėsi.\nBolševikai tą dieną į lietuvių pusę paleido\nužtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus\njuos puolė mėgindami pralaužti gynybą,\ntačiau savanoriams vis pavykdavo taiklia\nšautuvų ugnimi juos sulaikyti"
+  citata_rodoma: |
+    Karininkai J. Mikoliūnas ir
+    K. Dragunevičius, surinkę apie 80 karei-
+    vinėse buvusių savanorių ir išskleidę juos
+    abipus vieškelio Kėdainiai-Šėta, efektyvia
+    šautuvų ugnimi įstengė sustabdyti priešo
+    puolimą. Bolševikai į besiginančiuosius
+    sutelkė kulkosvaidžių ir artilerijos ugnį.
+    Neturintys kovos patirties savanoriai, drą-
+    sinami būrių vadų, nepakriko ir laikėsi.
+    Bolševikai tą dieną į lietuvių pusę paleido
+    užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus
+    juos puolė mėgindami pralaužti gynybą,
+    tačiau savanoriams vis pavykdavo taiklia
+    šautuvų ugnimi juos sulaikyti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -225,7 +239,10 @@ Nenurodyta
     šautuvų ugnimi juos sulaikyti. Toks buvo
     pirmasis Kėdainių įgulos sava-
     norių kovos krikštas.
-  citata_rodoma: "Toks buvo\npirmasis Kėdainių įgulos sava-\nnorių kovos krikštas."
+  citata_rodoma: |
+    Toks buvo
+    pirmasis Kėdainių įgulos sava-
+    norių kovos krikštas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -250,7 +267,19 @@ Nenurodyta
     raiteliais. Susėdę į dvejas roges žvalgai pa-
     judėjo bolševikų atsitraukimo kryptimi —
     Šėtos link.
-  citata_rodoma: "Naktį iš vasario 7 į 8 d. Kėdainių gynėjų\nvadovybė gavo žvalgų pranešimą apie tai,\nkad bolševikų pajėgos palieka pozicijas ir\ntraukiasi nuo Kėdainių. Anksti ryte buvo\nsuorganizuotas sustiprintas 17 žmonių\nžvalgybos patrulis, jo vyresniuoju paskir-\ntas V. Vainauskas, vyresniojo padėjėju —\nP. Lukšys. Patruliui priskirtas kulkosvaidis\nsu 5 vokiečių kulkosvaidininkais ir dviem\nraiteliais. Susėdę į dvejas roges žvalgai pa-\njudėjo bolševikų atsitraukimo kryptimi —\nŠėtos link."
+  citata_rodoma: |
+    Naktį iš vasario 7 į 8 d. Kėdainių gynėjų
+    vadovybė gavo žvalgų pranešimą apie tai,
+    kad bolševikų pajėgos palieka pozicijas ir
+    traukiasi nuo Kėdainių. Anksti ryte buvo
+    suorganizuotas sustiprintas 17 žmonių
+    žvalgybos patrulis, jo vyresniuoju paskir-
+    tas V. Vainauskas, vyresniojo padėjėju —
+    P. Lukšys. Patruliui priskirtas kulkosvaidis
+    su 5 vokiečių kulkosvaidininkais ir dviem
+    raiteliais. Susėdę į dvejas roges žvalgai pa-
+    judėjo bolševikų atsitraukimo kryptimi —
+    Šėtos link.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -276,7 +305,20 @@ Nenurodyta
     atgal, tačiau Lukšio sudrausminti ir padrą-
     sinti lietuviai išsiskleidė į grandį ir sugulę
     atidengė atsakomąją ugnį.
-  citata_rodoma: "Važiuojant pro Taučiūnų kaimą,\nžvalgus netikėtai pasitiko smarki bolše-\nvikų kuopos ugnis. Netikėtai apšaudyti\n\n172\n\nKĖDAINIŲ-ŠĖTOS KAUTYNES 1919 m. vasario 7-10 d. =\n\nsavanoriai sutriko. Bolševikai ėmė supti\nžvalgus. Vienas kitas jau bandė trauktis\natgal, tačiau Lukšio sudrausminti ir padrą-\nsinti lietuviai išsiskleidė į grandį ir sugulę\natidengė atsakomąją ugnį"
+  citata_rodoma: |
+    Važiuojant pro Taučiūnų kaimą,
+    žvalgus netikėtai pasitiko smarki bolše-
+    vikų kuopos ugnis. Netikėtai apšaudyti
+
+    172
+
+    KĖDAINIŲ-ŠĖTOS KAUTYNES 1919 m. vasario 7-10 d. =
+
+    savanoriai sutriko. Bolševikai ėmė supti
+    žvalgus. Vienas kitas jau bandė trauktis
+    atgal, tačiau Lukšio sudrausminti ir padrą-
+    sinti lietuviai išsiskleidė į grandį ir sugulę
+    atidengė atsakomąją ugnį
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -298,7 +340,16 @@ Nenurodyta
     via ugnimi sustabdė bolševikų mėginimą
     žvalgų grupę apsupti. Raudonarmiečiai
     ėmė trauktis.
-  citata_rodoma: "Tada Vainauskas, iš\nrogių išsitraukęs kulkosvaidį, mėgino ap-\nšaudyti priešą, tačiau jam nesisekė, nes\njis nemokėjo juo tinkamai naudotis. Tai\npamatęs vienas vokietis kulkosvaidinin-\nkas grįžo ir, perėmęs kulkosvaidį, intensy-\nvia ugnimi sustabdė bolševikų mėginimą\nžvalgų grupę apsupti. Raudonarmiečiai\nėmė trauktis."
+  citata_rodoma: |
+    Tada Vainauskas, iš
+    rogių išsitraukęs kulkosvaidį, mėgino ap-
+    šaudyti priešą, tačiau jam nesisekė, nes
+    jis nemokėjo juo tinkamai naudotis. Tai
+    pamatęs vienas vokietis kulkosvaidinin-
+    kas grįžo ir, perėmęs kulkosvaidį, intensy-
+    via ugnimi sustabdė bolševikų mėginimą
+    žvalgų grupę apsupti. Raudonarmiečiai
+    ėmė trauktis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -316,7 +367,12 @@ Nenurodyta
     P. Lukšys - pirmasis Nepriklausomybės
     kovose žuvęs Lietuvos savano-
     ris. Žvalgai atsitraukė.
-  citata_rodoma: "Tačiau kitą akimirką į žval-\ngus pasipylė ugnis iš Taučiūnų dvaro. Žuvo\nP. Lukšys - pirmasis Nepriklausomybės\nkovose žuvęs Lietuvos savano-\nris. Žvalgai atsitraukė."
+  citata_rodoma: |
+    Tačiau kitą akimirką į žval-
+    gus pasipylė ugnis iš Taučiūnų dvaro. Žuvo
+    P. Lukšys - pirmasis Nepriklausomybės
+    kovose žuvęs Lietuvos savano-
+    ris. Žvalgai atsitraukė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -339,7 +395,17 @@ Nenurodyta
     18 raudonarmiečių. Bolševikai tos pa-
     čios dienos vakare buvo priversi palikti
     Kėdainių apylinkes ir atsitraukti į Šėtą.
-  citata_rodoma: "kautynės su bolševikais tę-\nsėsi iki vakaro. Lietuvių sava-\nnorių būriai, remiami maždaug\n50 vokiečių kareivių, apėjo bolše-\nvikų dešinįjį sparną ir smogė jiems\nlemtingą smūgį. Miške į šiaurę nuo\nKolupių kaimo į nelaisvę buvo paimta\n18 raudonarmiečių. Bolševikai tos pa-\nčios dienos vakare buvo priversi palikti\nKėdainių apylinkes ir atsitraukti į Šėtą."
+  citata_rodoma: |
+    kautynės su bolševikais tę-
+    sėsi iki vakaro. Lietuvių sava-
+    norių būriai, remiami maždaug
+    50 vokiečių kareivių, apėjo bolše-
+    vikų dešinįjį sparną ir smogė jiems
+    lemtingą smūgį. Miške į šiaurę nuo
+    Kolupių kaimo į nelaisvę buvo paimta
+    18 raudonarmiečių. Bolševikai tos pa-
+    čios dienos vakare buvo priversi palikti
+    Kėdainių apylinkes ir atsitraukti į Šėtą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

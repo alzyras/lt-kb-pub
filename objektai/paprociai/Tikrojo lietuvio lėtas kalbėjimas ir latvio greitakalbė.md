@@ -87,7 +87,12 @@ Nenurodyta
     sių ilgumo. Latvis, atvirkščiai, greitai taria, trumpina žo­
     džius, beria ištisus skiemenis ir visiškai neatsižvelgia į
     balsių ilgumą.
-  citata_rodoma: "Tikrasis lietuvis kalba lėtai, pa­\nsverdamas žodžius, su pauzėmis ir atidžiausiai paiso bal­\nsių ilgumo. Latvis, atvirkščiai, greitai taria, trumpina žo­\ndžius, beria ištisus skiemenis ir visiškai neatsižvelgia į\nbalsių ilgumą."
+  citata_rodoma: |
+    Tikrasis lietuvis kalba lėtai, pa­
+    sverdamas žodžius, su pauzėmis ir atidžiausiai paiso bal­
+    sių ilgumo. Latvis, atvirkščiai, greitai taria, trumpina žo­
+    džius, beria ištisus skiemenis ir visiškai neatsižvelgia į
+    balsių ilgumą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

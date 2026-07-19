@@ -79,7 +79,14 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
     užėmė Konstantinopolį, taip nutraukdami Bizantijos
     a egzistavimą, o vėliau išplėtė savo imperiją, kuri nusi-
     driekė per tris žemynus (Aziją, Afriką ir Europą).
-  citata_rodoma: "Os-\nmanų plėtrą pristabdė XV a. pradžioje pralaimėjimai\nįsiveržusio Timūro (Tamerlano) mongolų kariuomenei\nS | (su kuria teko susidurti ir Vytauto kariuomenei prie\n“| Vorsklos).\n\nTačiau po šio sukrėtimo Osmanai atsigavo ir 1453 m."
+  citata_rodoma: |
+    Os-
+    manų plėtrą pristabdė XV a. pradžioje pralaimėjimai
+    įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
+    S | (su kuria teko susidurti ir Vytauto kariuomenei prie
+    “| Vorsklos).
+
+    Tačiau po šio sukrėtimo Osmanai atsigavo ir 1453 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

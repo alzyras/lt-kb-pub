@@ -129,7 +129,12 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
     apie Rusijos ir jos tautų ateitį.
-  citata_rodoma: "Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių\nVilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir\nEstijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos\njėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti\napie Rusijos ir jos tautų ateitį."
+  citata_rodoma: |
+    Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
+    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
+    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
+    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
+    apie Rusijos ir jos tautų ateitį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -150,7 +155,9 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
     Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
     pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
-  citata_rodoma: "Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją\npasirašė 1991 m. liepos 29 d. (įsigaliojo po metų)."
+  citata_rodoma: |
+    Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
+    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

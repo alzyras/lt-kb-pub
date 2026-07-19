@@ -239,7 +239,11 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir
     3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos
     cenzūruotas antrininkas94.
-  citata_rodoma: "Analizuodamas Olivos kronikos šaltinius, J. Venta iškėlė mintį,\nkad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir\n3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos\ncenzūruotas antrininkas94."
+  citata_rodoma: |
+    Analizuodamas Olivos kronikos šaltinius, J. Venta iškėlė mintį,
+    kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir
+    3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos
+    cenzūruotas antrininkas94.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -336,7 +340,10 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     circa Grudentz (SRP, 3, 59); Olivos kronikoje: ad lacum qui dicitur Rensin (SRP, 1,
     p. 682; 5, 162). Tais vardais vadinta Renseno ežeras (XVI a.— jezioro Rządz), Vyslos
     deš. kranto atšaka į pietus nuo Grudziondzo (Sch-K XV; SZCh, p. 112).
-  citata_rodoma: "279 D.— Rensen, Jer.— Rensin; Torunės analai: circa aquam, quc dicitur Rens,\ncirca Grudentz (SRP, 3, 59); Olivos kronikoje: ad lacum qui dicitur Rensin (SRP, 1,\np. 682; 5, 162)."
+  citata_rodoma: |
+    279 D.— Rensen, Jer.— Rensin; Torunės analai: circa aquam, quc dicitur Rens,
+    circa Grudentz (SRP, 3, 59); Olivos kronikoje: ad lacum qui dicitur Rensin (SRP, 1,
+    p. 682; 5, 162).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -356,7 +363,8 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,
     ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies
     plėšikavo.
-  citata_rodoma: "167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė."
+  citata_rodoma: |
+    167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

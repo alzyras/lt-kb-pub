@@ -310,7 +310,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171408
+    - c-171404
 
 <a id="claim-t-196428"></a>
 - t-015
@@ -457,7 +457,13 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
     giems valdovams buvę nepatogu susirišti giminystės ryšiais su
     savo pavaldiniais.
-  citata_rodoma: "Jo tėvas Kęstutis, nuolatinis\nŽemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo\nŽemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,\nbuvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­\ngiems valdovams buvę nepatogu susirišti giminystės ryšiais su\nsavo pavaldiniais."
+  citata_rodoma: |
+    Jo tėvas Kęstutis, nuolatinis
+    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
+    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
+    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
+    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
+    savo pavaldiniais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -480,7 +486,16 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
     pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
     patvirtina vienalaikiai rašytiniai šaltiniai.
-  citata_rodoma: "Visų pirma atsirado \nherojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad \nepinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-\nčiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į \nMaskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi \ndar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-\ndota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, \no Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti \npasakojimai užrašyti XV–XVI a."
+  citata_rodoma: |
+    Visų pirma atsirado
+    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
+    pasakojimai užrašyti XV–XVI a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -499,7 +514,11 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
     paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
     kaimynų krikščionių žemes.
-  citata_rodoma: "Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,\nkuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.\n72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,\nRaštai, p. 441—442)."
+  citata_rodoma: |
+    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
+    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
+    72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,
+    Raštai, p. 441—442).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -539,7 +558,19 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     žmogus galėjęs tilpti, ir įtraukė Kęs­
     tučio pelenus, ką regėjusi daugybė
     žmonių.
-  citata_rodoma: "Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs\njo aplankyti, netikėtai rado negyvą,\nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki\nšiol aiškus ir rašantiesiems Lietuvos\nistoriją dera jo imtis.\n37\nVygandas  savo kronikoje, p."
+  citata_rodoma: |
+    Tačiau ir tai negalėjo pasotinti go­
+    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
+    36
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -566,7 +597,15 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     puolė Žemaitiją ir, padaliję
     pulkus keturiomis žygio vo­
     romis, nusiaubė visą kraštą.
-  citata_rodoma: "Užėmęs kovos lau­\nką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­\nsa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami \ntoliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius \nkarius, ramiai patraukė namo, išsigabendami laimikį — \nvisą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į \nžmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­\nnimu, nors labai norėjo užmiršti savo vargus."
+  citata_rodoma: |
+    Užėmęs kovos lau­
+    ką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­
+    sa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami
+    toliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius
+    karius, ramiai patraukė namo, išsigabendami laimikį —
+    visą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
+    žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
+    nimu, nors labai norėjo užmiršti savo vargus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -592,7 +631,21 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     dė į Trakus prieš Vytautą. Vytautas, iš draugų apie
     viską sužinojęs, spėjo su pamote Birute pasitraukti į
     Gardiną.
-  citata_rodoma: "Tuo būdu\nužėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­\nją, prašydamas pagalbos; pats, palikęs mieste stiprią\nsavo įgulą, pailsėjusią ir papildytą kariuomenę nuve­\ndė į Trakus prieš Vytautą. Vytautas, iš draugų apie\nviską sužinojęs, spėjo su pamote Birute pasitraukti į\nGardiną.\nJogaila\natkakliai\nU žkariauja T rakus\npuolė Trakus, ir trakiškiai\nilgai neatsilaikė: nesitikėda­\nmi iš niekur paramos, jie perėjo į Jogailos pusę, ati­\nduodami miestą, pilis bei turtą."
+  citata_rodoma: |
+    Tuo būdu
+    užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
+    ją, prašydamas pagalbos; pats, palikęs mieste stiprią
+    savo įgulą, pailsėjusią ir papildytą kariuomenę nuve­
+    dė į Trakus prieš Vytautą. Vytautas, iš draugų apie
+    viską sužinojęs, spėjo su pamote Birute pasitraukti į
+    Gardiną.
+    Jogaila
+    atkakliai
+    U žkariauja T rakus
+    puolė Trakus, ir trakiškiai
+    ilgai neatsilaikė: nesitikėda­
+    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
+    duodami miestą, pilis bei turtą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -615,7 +668,19 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
     deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
     po Amžinosios ugnies aukuro griuvėsiais30.
-  citata_rodoma: "Duomenų apie tai mums\npaliko Strijkovskis.\nBirutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną."
+  citata_rodoma: |
+    Duomenų apie tai mums
+    paliko Strijkovskis.
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -623,6 +688,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188514
+    - t-188518
 - id: c-171405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -639,7 +705,16 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
     tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
     minimo ir garbinimo apeigos.
-  citata_rodoma: "Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­\nnė, būdama gyva, garsėjo savo kilniaširdiškumu."
+  citata_rodoma: |
+    Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -660,7 +735,13 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
     sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
     aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
-  citata_rodoma: "Si kunigaikštie­\nnė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui\nir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­\nlangą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais\nužbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­\nnus, laikė ją šventa."
+  citata_rodoma: |
+    Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
+    ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
+    langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
+    užbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­
+    nus, laikė ją šventa.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -709,7 +790,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188518
     - t-197391
 - id: c-179162
   autorius: "Teodoras Narbutas"

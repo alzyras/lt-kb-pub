@@ -80,7 +80,8 @@ media_all_json: |-
     tos lietuvių savisaugos policijos grupės (policijos batalionai (vadinami
     TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos
     nuovadų policininkai, jau davę priesaiką A. Hitleriui.
-  citata_rodoma: "TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos"
+  citata_rodoma: |
+    TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -99,7 +100,8 @@ media_all_json: |-
     žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos. Dalis
     lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius
     Baltarusijoje, Lenkijoje, Ukrainoje.
-  citata_rodoma: "lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius"
+  citata_rodoma: |
+    lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

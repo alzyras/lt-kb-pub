@@ -103,7 +103,10 @@ Nenurodyta
     Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
     lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-
     tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
-  citata_rodoma: "Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-\nlėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-\ntų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas."
+  citata_rodoma: |
+    Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
+    lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-
+    tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

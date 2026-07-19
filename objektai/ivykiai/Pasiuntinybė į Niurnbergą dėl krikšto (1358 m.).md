@@ -110,7 +110,14 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
     Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
     tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
     nuo totorių užpuldinėjimo.
-  citata_rodoma: "priėmimo krikščionių tikėjimo. Iš savo pusės, sutikdami apsi­\nkrikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­\ntuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­\nlius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus\nOrdino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,\ntai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis\nnuo totorių užpuldinėjimo."
+  citata_rodoma: |
+    priėmimo krikščionių tikėjimo. Iš savo pusės, sutikdami apsi­
+    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
+    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
+    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
+    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
+    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
+    nuo totorių užpuldinėjimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

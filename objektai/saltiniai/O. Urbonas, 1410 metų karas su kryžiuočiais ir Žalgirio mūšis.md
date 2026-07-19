@@ -67,7 +67,10 @@ media_all_json: |-
     Deutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss. Ge-
     scnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410
     metų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.
-  citata_rodoma: "Ge-\nscnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410\nmetų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y."
+  citata_rodoma: |
+    Ge-
+    scnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410
+    metų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

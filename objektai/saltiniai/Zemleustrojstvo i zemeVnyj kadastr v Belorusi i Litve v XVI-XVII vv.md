@@ -62,11 +62,15 @@ media_all_json: |-
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Kniaž. Litovskogo s otrabotošnoj renty na dienežnuja_** **(IZ, t. 37,
+    37,
     1951);** **_Zemleustrojstvo i zemeVnyj kadastr v Belorusi i Litve v XVI-XVII
     vv._** **(Materijaly po istorii zemledelija v SSSR, t. I, 1952), ir kt. Apie jo
-    veikalus žr. KH, t. 65, nr. 1, 1958, 331 p.; Z. Ivinskis : LASD, t. 5, 567 p.**
-  citata_rodoma: "37,\n1951);** **_Zemleustrojstvo i zemeVnyj kadastr v Belorusi i Litve v XVI-XVII\nvv._** **(Materijaly po istorii zemledelija v SSSR, t. I, 1952), ir kt. Apie jo\nveikalus žr."
+    veikalus žr.
+  citata_rodoma: |
+    37,
+    1951);** **_Zemleustrojstvo i zemeVnyj kadastr v Belorusi i Litve v XVI-XVII
+    vv._** **(Materijaly po istorii zemledelija v SSSR, t. I, 1952), ir kt. Apie jo
+    veikalus žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -112,7 +112,10 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
     2 Svetimšalių rašytojų iškraipytas vardas, tačiau atrodo, jog bu­
     vęs lietuviškos kilmės, nes turi šaknį Gan, iš kurios kilęs žodis Ga­
     nau, taip pat prieveiksmis Gana.
-  citata_rodoma: "Wespats lietuvių kalba reiškia poną. Sirvydo žodyne (p. 240)\nrašoma tiksliau — visagalis ponas, nes pats žodis, jei jis vartojamas\nsujungtas su kitu, reiškia patvaldystę."
+  citata_rodoma: |
+    Wespats lietuvių kalba reiškia poną. Sirvydo žodyne (p. 240)
+    rašoma tiksliau — visagalis ponas, nes pats žodis, jei jis vartojamas
+    sujungtas su kitu, reiškia patvaldystę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

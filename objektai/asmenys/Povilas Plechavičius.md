@@ -69,7 +69,14 @@ Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu L I E T
     156
     diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
     valstybės prezidentui A. Smetonai.
-  citata_rodoma: "Nesutikus pasipriešinimo mjr. \nPovilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu\n\nL I E T U V O S  I S T O R I J A\n156\ndiktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos \nvalstybės prezidentui A."
+  citata_rodoma: |
+    Nesutikus pasipriešinimo mjr.
+    Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu
+
+    L I E T U V O S  I S T O R I J A
+    156
+    diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
+    valstybės prezidentui A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

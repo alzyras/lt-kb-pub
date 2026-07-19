@@ -102,7 +102,12 @@ media_all_json: |-
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: "Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė \n46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-\nklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., \nsuėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA \ngrupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių."
+  citata_rodoma: |
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

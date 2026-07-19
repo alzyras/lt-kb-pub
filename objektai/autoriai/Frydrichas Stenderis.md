@@ -491,7 +491,14 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     viešos puotos, šokta pievose, mergaitės dainuodavo dainas,
     kuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­
     ive, tai yra: „Lada, didžioji mūsų deive“.
-  citata_rodoma: "28 Ponas Adomas Borovskis*.\n1\nLatviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­\nmu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų\napskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,\njiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja\nlytimis. Tokia Stenderio nuomonė (Lettische Grammatik)."
+  citata_rodoma: |
+    28 Ponas Adomas Borovskis*.
+    1
+    Latviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­
+    mu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų
+    apskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,
+    jiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja
+    lytimis. Tokia Stenderio nuomonė (Lettische Grammatik).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -557,7 +564,15 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     binimo apeigų liekanos.
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas.
-  citata_rodoma: "Pergrubė (Pergrubie)\nPavasario, gėlių, daržų, žmogaus pastangomis gausinamų\nžemės vaisių deivė.\nKitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę."
+  citata_rodoma: |
+    Pergrubė (Pergrubie)
+    Pavasario, gėlių, daržų, žmogaus pastangomis gausinamų
+    žemės vaisių deivė.
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -578,7 +593,14 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     sintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
     kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
     ir neša tiems, kurie jiems geresni.
-  citata_rodoma: "Jiems nusilenkdavo pats Pušaitis, prašydamas\nkaimiečių vardu, idant markopoliai sulaikytų savo garbinto­\njus nuo nelaimingų žmonių engimo.\nBarstukai (Barstuki)\nPožemio dievaičiai, nykštukai. Tą vardą Stenderis išveda\niš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-\nke -  lėlė."
+  citata_rodoma: |
+    Jiems nusilenkdavo pats Pušaitis, prašydamas
+    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
+    jus nuo nelaimingų žmonių engimo.
+    Barstukai (Barstuki)
+    Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
+    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
+    ke -  lėlė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -652,7 +674,12 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu
     buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky­
     tas dievu.
-  citata_rodoma: "Šio dievo garbei buvo švenčiama šventė apie gruodžio 25\n1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­\ndangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­\nmesnei Lietuvai.\n2 Ibidem."
+  citata_rodoma: |
+    Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
+    1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
+    dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
+    mesnei Lietuvai.
+    2 Ibidem.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -692,7 +719,12 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     skersai išmatuoti visą pasaulį, vis dėlto ta žvaigždė leidžiasi
     juo po truputį ir tik po daugelio metų ji pasidaro šiek tiek
     didesnė.
-  citata_rodoma: "Ties Prienais, kur Nemunas daro pusračio vingį,\npastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk\nKronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­\nrai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-\n17 Stender. Lettische Grammatik."
+  citata_rodoma: |
+    Ties Prienais, kur Nemunas daro pusračio vingį,
+    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
+    Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­
+    rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
+    17 Stender. Lettische Grammatik.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -712,7 +744,12 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     sinti vyrų ir moterų savo kūno svoriu. Tai yra tai, ką prancūzai
     vadina košmaru (Cochemar). Tą vardą duodavo taip pat fau­
     nams ir satyrams dėl jų gašlumo.
-  citata_rodoma: "Latviai vadina Leetons arba Leetowens -  „vaiduokliu, vy­\nriškos lyties dvasia, kuri paprastai tarytum smėlio maišas už­\ngula miegantį žmogų, naktį užsėda ant arklių ir ant merginų,\nkad šios net išprakaituoja. Jis gali patekti į pastatą net pro\nrakto skylutę. Dar ir dabar jį tiki tamsūs žmonės“14 15."
+  citata_rodoma: |
+    Latviai vadina Leetons arba Leetowens -  „vaiduokliu, vy­
+    riškos lyties dvasia, kuri paprastai tarytum smėlio maišas už­
+    gula miegantį žmogų, naktį užsėda ant arklių ir ant merginų,
+    kad šios net išprakaituoja. Jis gali patekti į pastatą net pro
+    rakto skylutę. Dar ir dabar jį tiki tamsūs žmonės“14 15.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -751,7 +788,16 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
     R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
     garbinamas Pušaitis ir barstukai18“.
-  citata_rodoma: "Pušaitis (Puschajtis)\nPožemio dievaitis, engiamų vargšų gynėjas, nykštukų,\nvadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16\n16 Stender, Lettische Grammatik.\n179\n\n## Puslapis 179\n\npo alyvų krūmais."
+  citata_rodoma: |
+    Pušaitis (Puschajtis)
+    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
+    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
+    16 Stender, Lettische Grammatik.
+    179
+
+    ## Puslapis 179
+
+    po alyvų krūmais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

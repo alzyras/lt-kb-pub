@@ -51,7 +51,10 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
     savo viešaisiais laiškais ir blaivybės skatinamaisiais raštais. Jis
     net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
     leivingą", bet negavo leidimo.
-  citata_rodoma: "Jis\nnet buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-\nleivingą\", bet negavo leidimo."
+  citata_rodoma: |
+    Jis
+    net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
+    leivingą", bet negavo leidimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

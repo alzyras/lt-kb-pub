@@ -72,7 +72,9 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 
 
     gas", nuo 1917 metų tapo „Garsas".
-  citata_rodoma: "Jo organas anksčiau buvo „Žvaigždė\" ir „Drau-\ngas\", nuo 1917 metų tapo „Garsas\"."
+  citata_rodoma: |
+    Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
+    gas", nuo 1917 metų tapo „Garsas".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -98,7 +98,14 @@ Nenurodyta
     skirtingai apsirengę, visi nepaprastai puošnūs, ir šitai
     teikė žiūrovams tokį didingą reginį, kokį bebuvo ga­
     lima matyti nebent per romėnų triumfo eisenas.
-  citata_rodoma: "Penki tūkstančiai raitijos palydėjo karalius\nligi miesto, o kiti raiteliai bei pėstininkai liko saugoti\npalapinių. Nesinori smulkiai pasakoti, ką valdovai nu­\ntarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta\nšitaip: imperatorius arba nutrauksiąs draugystę su mas-\nkvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­\ntinsiąs savo autoritetu prašyti taikos ir taikytis."
+  citata_rodoma: |
+    Penki tūkstančiai raitijos palydėjo karalius
+    ligi miesto, o kiti raiteliai bei pėstininkai liko saugoti
+    palapinių. Nesinori smulkiai pasakoti, ką valdovai nu­
+    tarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta
+    šitaip: imperatorius arba nutrauksiąs draugystę su mas-
+    kvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­
+    tinsiąs savo autoritetu prašyti taikos ir taikytis.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

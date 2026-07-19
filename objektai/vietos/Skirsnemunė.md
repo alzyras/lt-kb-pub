@@ -187,7 +187,12 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     žiuočių ir Livonijos šakomis), „Romos
     karaliaus garbei“ 1431 m. birželio 19 d.,
     Skirsnemunėje.
-  citata_rodoma: "Šis vedė\nderybas ir pasirašė sutartį su Ordinu (kry-\nžiuočių ir Livonijos šakomis), „Romos\nkaraliaus garbei“ 1431 m. birželio 19 d.,\nSkirsnemunėje."
+  citata_rodoma: |
+    Šis vedė
+    derybas ir pasirašė sutartį su Ordinu (kry-
+    žiuočių ir Livonijos šakomis), „Romos
+    karaliaus garbei“ 1431 m. birželio 19 d.,
+    Skirsnemunėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +216,14 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     Naugardu, Pskovu, Mozūrija, Odojevo ir
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais."
+  citata_rodoma: |
+    Gegužės 15 d.
+
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -231,7 +243,11 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
     dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
     o jie patys buvo išvyti iš Žemaičių.
-  citata_rodoma: "Vytautas pats dar laikėsi nuošaliai,\nbet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-\ndėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,\no jie patys buvo išvyti iš Žemaičių."
+  citata_rodoma: |
+    Vytautas pats dar laikėsi nuošaliai,
+    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
+    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
+    o jie patys buvo išvyti iš Žemaičių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

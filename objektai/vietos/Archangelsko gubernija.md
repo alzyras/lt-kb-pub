@@ -97,7 +97,8 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
     vasarą pradėjęs lietuvių kalbos studijas
     kažkur Lietuvos šiaurėje;
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
-  citata_rodoma: "1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas"
+  citata_rodoma: |
+    1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -130,7 +131,8 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
     Karaliaučius, Vilnius, Ryga), ypač 1910 m. dainų rinkimas šiaurės
     rytų Lietuvoje (apie tai plačiau Niemio ir Sabaliausko „Lietuvių dai­
     nos ir giesmės“ knygoje) ir 1911 m.
-  citata_rodoma: "1904 m. rugp. ir rūgs. mėnesiais nauja kelionė į Archangelsko guberniją, į senų runų rinkimo vietą."
+  citata_rodoma: |
+    1904 m. rugp. ir rūgs. mėnesiais nauja kelionė į Archangelsko guberniją, į senų runų rinkimo vietą.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

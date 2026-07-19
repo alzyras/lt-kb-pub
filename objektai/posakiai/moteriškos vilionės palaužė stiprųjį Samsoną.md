@@ -81,7 +81,12 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
     karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
     šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
     apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
-  citata_rodoma: "Štai koks nuostabus,  štai koks nepaprastas įvykis: moteriškos\nvilionės palaužė stiprųjį Samsoną, šventąjį Dovydą, išmintingąjį Saliamoną, tuo tarpu\nšis vyras, laisva valia apkabinęs savo bendrę, nugalėjo ir pakilo į dorybės viršūnes. Negi\njis ne stipresnis už Samsoną, ne šventesnis už Dovydą, ne išmintingesnis už Saliamoną?\nNemažindami aniems deramos pagarbos, šiuo atveju galime tvirtai sakyti: taip."
+  citata_rodoma: |
+    Štai koks nuostabus,  štai koks nepaprastas įvykis: moteriškos
+    vilionės palaužė stiprųjį Samsoną, šventąjį Dovydą, išmintingąjį Saliamoną, tuo tarpu
+    šis vyras, laisva valia apkabinęs savo bendrę, nugalėjo ir pakilo į dorybės viršūnes. Negi
+    jis ne stipresnis už Samsoną, ne šventesnis už Dovydą, ne išmintingesnis už Saliamoną?
+    Nemažindami aniems deramos pagarbos, šiuo atveju galime tvirtai sakyti: taip.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

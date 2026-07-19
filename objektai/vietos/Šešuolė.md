@@ -71,7 +71,12 @@ media_all_json: |-
     traukti į Šešuolės- Virintos upių liniją.
     Lietuvių pajėgos ėmė rengtis kontr-
     puolimui.
-  citata_rodoma: "Giedraičius gynęs\n2-asis pulkas buvo priverstas atsi-\ntraukti į Šešuolės- Virintos upių liniją.\nLietuvių pajėgos ėmė rengtis kontr-\npuolimui."
+  citata_rodoma: |
+    Giedraičius gynęs
+    2-asis pulkas buvo priverstas atsi-
+    traukti į Šešuolės- Virintos upių liniją.
+    Lietuvių pajėgos ėmė rengtis kontr-
+    puolimui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

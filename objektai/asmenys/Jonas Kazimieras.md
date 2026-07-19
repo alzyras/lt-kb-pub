@@ -122,7 +122,13 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     bet ją Jonas Kazimieras panaikina sausio 15 d.
     dekretu - 1667
     15.
-  citata_rodoma: "Andrius Katavičius, didysis Lietuvos\nraštininkas, kovo 31 d. - 1666\nneteisėtai gauna privilegiją Vilniaus vaitystei,\nbet ją Jonas Kazimieras panaikina sausio 15 d. \ndekretu - 1667\n15."
+  citata_rodoma: |
+    Andrius Katavičius, didysis Lietuvos
+    raštininkas, kovo 31 d. - 1666
+    neteisėtai gauna privilegiją Vilniaus vaitystei,
+    bet ją Jonas Kazimieras panaikina sausio 15 d.
+    dekretu - 1667
+    15.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +153,15 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     Polonus), kad jis išdėstytų skundus prieš kryžiuočius, savo žiau­
     rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
     kėjimą.
-  citata_rodoma: "Nuo\namžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas\nmus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš\ntų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos\npatriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu\nbūriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­\nma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­\nrių rusų sektantų."
+  citata_rodoma: |
+    Nuo
+    amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas
+    mus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš
+    tų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos
+    patriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu
+    būriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­
+    ma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­
+    rių rusų sektantų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

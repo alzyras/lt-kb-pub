@@ -95,7 +95,14 @@ Narbutas Signotus apibūdina kaip Atrimpo arba Gardaičio žynius, kurių pavadi
     muose dar prisimenami lietuvių liaudies dainų dainuotojai,
     vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
     tas, tačiau, pasak tų pasakojimų, tai buvę seniai.
-  citata_rodoma: "Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir\nsusijuosdavo balta drobine skara.\nSignotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse."
+  citata_rodoma: |
+    Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
+    susijuosdavo balta drobine skara.
+    Signotai (Sigonottaį
+    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
+    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
+    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
+    Gardaičio tarnai, todėl jų būdavo pajūrio srityse.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

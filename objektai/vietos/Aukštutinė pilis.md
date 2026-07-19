@@ -166,7 +166,17 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     tautui tą miestą užėmus, priėmė iš
     šio monarcho jam skirtą valdą - Po-
     lonos miestelį.
-  citata_rodoma: "Čia slėpdavo­\nsi gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su \nprekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­\nmi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­\nrūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-\nbuvo prisistatęs Vytautui stovyklo­\nje prie Smolensko su bajorais ir, Vy­\ntautui tą miestą užėmus, priėmė iš \nšio monarcho jam skirtą valdą - Po- \nlonos miestelį."
+  citata_rodoma: |
+    Čia slėpdavo­
+    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
+    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
+    mi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
+    rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-
+    buvo prisistatęs Vytautui stovyklo­
+    je prie Smolensko su bajorais ir, Vy­
+    tautui tą miestą užėmus, priėmė iš
+    šio monarcho jam skirtą valdą - Po-
+    lonos miestelį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

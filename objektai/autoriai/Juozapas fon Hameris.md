@@ -127,7 +127,12 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
     dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
     Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
     kurie turėjo gyventi šalia tos teritorijos ribų.
-  citata_rodoma: "Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,\ngyvenusią galų kaimynystėje, prie Dnestro.\nPonas Hameris dar prieš poną Volianskį mėgino šif­\nruoti tą visiškai senovės tyrinėtojams nesuprantamą už­\nrašą. Jis perskaitė tik trečios eilutės pirmą žodį."
+  citata_rodoma: |
+    Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
+    gyvenusią galų kaimynystėje, prie Dnestro.
+    Ponas Hameris dar prieš poną Volianskį mėgino šif­
+    ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
+    rašą. Jis perskaitė tik trečios eilutės pirmą žodį.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -153,7 +158,12 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
     Jadzwingów siedlisko bylo między Dunajem i
     Tyssą rzekami, przed przyjšciem nad Bug)
     (PE.
-  citata_rodoma: "Tekstas buvo parengtas remiantis T. Vo-\nlianskio tyrinėjimais (Tadeusza Wolanskiego\nlisty o starožytnošciach slawianskich. Zbiór\npierwszy. Gniezno, 1845. S. 22—23), taip pat\njau minėta J. Hamerio monografija."
+  citata_rodoma: |
+    Tekstas buvo parengtas remiantis T. Vo-
+    lianskio tyrinėjimais (Tadeusza Wolanskiego
+    listy o starožytnošciach slawianskich. Zbiór
+    pierwszy. Gniezno, 1845. S. 22—23), taip pat
+    jau minėta J. Hamerio monografija.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

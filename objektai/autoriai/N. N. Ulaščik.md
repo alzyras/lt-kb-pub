@@ -64,7 +64,8 @@ Ulaščik, Maskva 1966.
   citata_originali: |
     Wien 1955.
     UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966.
-  citata_rodoma: "UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966."
+  citata_rodoma: |
+    UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

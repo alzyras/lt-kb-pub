@@ -124,7 +124,13 @@ Nenurodyta
     gijos markgrafo, sūnum. Galingam Vytautui, kaip mano Ha­
     leckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­
     žiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.
-  citata_rodoma: "Pirmas toks grasini­\nmo aktas buvo padarytas 1421 m. — tai Jogailos dukters Jad­\nvygos sužieduotuvės su devynerių metų Fridriko, Brandenbur­\ngijos markgrafo, sūnum. Galingam Vytautui, kaip mano Ha­\nleckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­\nžiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui."
+  citata_rodoma: |
+    Pirmas toks grasini­
+    mo aktas buvo padarytas 1421 m. — tai Jogailos dukters Jad­
+    vygos sužieduotuvės su devynerių metų Fridriko, Brandenbur­
+    gijos markgrafo, sūnum. Galingam Vytautui, kaip mano Ha­
+    leckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­
+    žiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

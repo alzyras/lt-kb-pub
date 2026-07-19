@@ -86,7 +86,10 @@ Nenurodyta
     Konferencijos sudarytai programai vykdyti buvo išrinkta
     Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
     tautinių mažumų atstovai.
-  citata_rodoma: "Konferencijos sudarytai programai vykdyti buvo išrinkta\nTaryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti\ntautinių mažumų atstovai."
+  citata_rodoma: |
+    Konferencijos sudarytai programai vykdyti buvo išrinkta
+    Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
+    tautinių mažumų atstovai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

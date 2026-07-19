@@ -119,7 +119,10 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     t. 34, 1970, 57-74 p. — Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.
 
     **5.
-  citata_rodoma: "— Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.\n\n**5."
+  citata_rodoma: |
+    — Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.
+
+    **5.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +141,11 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f.
-  citata_rodoma: "— Sužiedėlis, S. :\nVytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-\n483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.\n— Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p."
+  citata_rodoma: |
+    — Sužiedėlis, S. :
+    Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-
+    483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
+    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

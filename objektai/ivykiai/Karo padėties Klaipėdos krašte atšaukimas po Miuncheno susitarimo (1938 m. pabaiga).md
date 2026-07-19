@@ -122,7 +122,13 @@ Nenurodyta
     Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
     lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
     tuviškose įstaigose ir bendrovėse.
-  citata_rodoma: "Nors Lietuvos \nvyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuo-\nta 42 mln. litų, o pajamų tegauta 11 mln., ištekliai pasirodė esą riboti, \nLietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų \nlygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-\ntuviškose įstaigose ir bendrovėse."
+  citata_rodoma: |
+    Nors Lietuvos
+    vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuo-
+    ta 42 mln. litų, o pajamų tegauta 11 mln., ištekliai pasirodė esą riboti,
+    Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
+    lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
+    tuviškose įstaigose ir bendrovėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

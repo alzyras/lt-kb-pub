@@ -74,7 +74,11 @@ Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aišk
     nius pavyzdžius, susijusius su etimologija, kurią pirmykštė kal­
     ba pavertė šventa arba panaudojo šventiesiems vandenims pra­
     minti.
-  citata_rodoma: "1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­\nba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,\ntekančios j skirtingas puses. Pasak vietos padavimų, jis buvo\nlaikomas šventu."
+  citata_rodoma: |
+    1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­
+    ba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,
+    tekančios j skirtingas puses. Pasak vietos padavimų, jis buvo
+    laikomas šventu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

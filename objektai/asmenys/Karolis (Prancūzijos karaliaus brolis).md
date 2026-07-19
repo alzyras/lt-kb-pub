@@ -83,7 +83,11 @@ Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai s
     iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę
     pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226).
     100.
-  citata_rodoma: "Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.\nMat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio\niškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę\npinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226)."
+  citata_rodoma: |
+    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
+    Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio
+    iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę
+    pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

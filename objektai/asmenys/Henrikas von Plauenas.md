@@ -120,7 +120,11 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
     tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
     tas pilis^1 ).
-  citata_rodoma: "Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po\nMakro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto\nbrolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI\nprašyti pagalbos prieš Vytautą. Vak."
+  citata_rodoma: |
+    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
+    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
+    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
+    prašyti pagalbos prieš Vytautą. Vak.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -144,7 +148,12 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­
     dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­
     rų Europos.
-  citata_rodoma: "Reikia dar čia atsiminti ir tai, kad ir kryžiuo­\nčiai negalėjo užmiršti 1410 m. smūgio ir pažeminimo. Henrikas\nvon Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­\ndėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­\nrų Europos."
+  citata_rodoma: |
+    Reikia dar čia atsiminti ir tai, kad ir kryžiuo­
+    čiai negalėjo užmiršti 1410 m. smūgio ir pažeminimo. Henrikas
+    von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­
+    dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­
+    rų Europos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -176,7 +185,10 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     senosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,
     51) Heiligenbeilio miesto, 52) Braunšveigo kunigaikščio, 53—56) Livonijos
     magistro (paimtos 1431 m.).
-  citata_rodoma: "47) Švitco komtūro Henriko v. Plaueno ar Mykolo\nKuchmeisterio (paimta ties Koronovu), 48) Tomo miesto, 49) Dancigo\nsenosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,"
+  citata_rodoma: |
+    47) Švitco komtūro Henriko v. Plaueno ar Mykolo
+    Kuchmeisterio (paimta ties Koronovu), 48) Tomo miesto, 49) Dancigo
+    senosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

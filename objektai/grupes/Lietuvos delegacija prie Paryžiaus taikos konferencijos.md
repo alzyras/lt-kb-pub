@@ -172,7 +172,12 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
     delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
     jos ir veikė kuluaruose.
-  citata_rodoma: "Versalio sistemoje\nLietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje\nprasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai\ndelegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-\njos ir veikė kuluaruose."
+  citata_rodoma: |
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -198,7 +203,12 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
     gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
     tarptautiniame forume, kurdama sąlygas nepriklausomybei.
-  citata_rodoma: "Memoran-\ndumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį\nį Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-\ngacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame\ntarptautiniame forume, kurdama sąlygas nepriklausomybei."
+  citata_rodoma: |
+    Memoran-
+    dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
+    į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
+    gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
+    tarptautiniame forume, kurdama sąlygas nepriklausomybei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -223,7 +233,12 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
     dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
     Lietuva būtų priimta į Tautų Sąjungos bendriją.
-  citata_rodoma: "Delegacija\nbuvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-\nrant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-\ndą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad\nLietuva būtų priimta į Tautų Sąjungos bendriją."
+  citata_rodoma: |
+    Delegacija
+    buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
+    rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
+    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
+    Lietuva būtų priimta į Tautų Sąjungos bendriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -251,7 +266,15 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
     nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
     iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
-  citata_rodoma: "Versalio sistemoje\nLietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje \nprasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai \ndelegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-\njos ir veikė kuluaruose. Lietuvos delegacijai vadovavo A. Voldemaras, joje \ndirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-\nnykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs \niš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz)."
+  citata_rodoma: |
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose. Lietuvos delegacijai vadovavo A. Voldemaras, joje
+    dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
+    nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
+    iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

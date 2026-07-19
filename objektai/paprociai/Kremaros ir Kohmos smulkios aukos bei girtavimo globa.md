@@ -95,7 +95,17 @@ Nenurodyta
     duojamas netikėtas susitikimas, kvietimas susiimti rankomis,
     toliau visokios abiejų pastangos nutverti vienas kitą į glėbį ir
     grumtis; visa tai vyksta juokaujamu tonu.
-  citata_rodoma: "168\n\n## Puslapis 168\n\nba kokie burtai arba jeigu pasivaidena naktį, jie stengiasi nu­\nkelti lūšną nors keletą žingsnių į šalį.\nKremara (Kremara)\nSis dievaitis ypač globojo kuilius ir paršavedės, tinkamus\nsau ir aukai. Kalbėdamas apie jį, Lasickis nieko daugiau ne­\nnurodo, tik tai, kad jam aukodavo pildami alaus į ugnį."
+  citata_rodoma: |
+    168
+
+    ## Puslapis 168
+
+    ba kokie burtai arba jeigu pasivaidena naktį, jie stengiasi nu­
+    kelti lūšną nors keletą žingsnių į šalį.
+    Kremara (Kremara)
+    Sis dievaitis ypač globojo kuilius ir paršavedės, tinkamus
+    sau ir aukai. Kalbėdamas apie jį, Lasickis nieko daugiau ne­
+    nurodo, tik tai, kad jam aukodavo pildami alaus į ugnį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

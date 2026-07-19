@@ -602,7 +602,14 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     svajojo valdyti taip, kaip
     buvo valdoma Prancūzi-
     ja, t. y. absoliutiškai.
-  citata_rodoma: "Atvykęs ir vainikavęsis\nKrokuvoje, jis savo pa-\nžadų nepaisė, vedybas\nsu Ona vis atidėliojo ir\nsvajojo valdyti taip, kaip\nbuvo valdoma Prancūzi-\nja, t. y. absoliutiškai."
+  citata_rodoma: |
+    Atvykęs ir vainikavęsis
+    Krokuvoje, jis savo pa-
+    žadų nepaisė, vedybas
+    su Ona vis atidėliojo ir
+    svajojo valdyti taip, kaip
+    buvo valdoma Prancūzi-
+    ja, t. y. absoliutiškai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -623,7 +630,12 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
-  citata_rodoma: "Ji siekė išlaikyti Lietuvos vals-\ntybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-\nvartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), \nKolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje, \nŠveicarijoje, Vatikane."
+  citata_rodoma: |
+    Ji siekė išlaikyti Lietuvos vals-
+    tybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-
+    vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
+    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
+    Šveicarijoje, Vatikane.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -648,7 +660,12 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
     rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
     jam suteiktas aukščiausias – partizanų generolo laipsnis.
-  citata_rodoma: "LLKS Tarybos prezidiumo pirmininku iš-\nrinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno \nkaro mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-\nrijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje), \njam suteiktas aukščiausias – partizanų generolo laipsnis."
+  citata_rodoma: |
+    LLKS Tarybos prezidiumo pirmininku iš-
+    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
+    karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
+    rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
+    jam suteiktas aukščiausias – partizanų generolo laipsnis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -697,7 +714,16 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
     Vidurio Europą.
-  citata_rodoma: "senoji Vakarų Europa skilo į dvi dalis – pietinę katali-\nkiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-\npanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-\ncūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų \ndvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-\nteris Paulius Rubensas). \nProtestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-\nropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-\npos dalies (Olandija, Anglija) ir per XVII–XVIII a."
+  citata_rodoma: |
+    senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
+    kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
+    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
+    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
+    teris Paulius Rubensas).
+    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
+    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
+    pos dalies (Olandija, Anglija) ir per XVII–XVIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -714,7 +740,9 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
     m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
     m. vyskupų sinodas pasmerkė 54 tamplierius sudeginti.
-  citata_rodoma: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291\nm.) įsikūrusių šioje žemėje, procesas."
+  citata_rodoma: |
+    1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
+    m.) įsikūrusių šioje žemėje, procesas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -734,7 +762,12 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
     minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
     valstybės institucijose.
-  citata_rodoma: "konstitucija. \nTaigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais \nmėnesiais aplenkusi Prancūzijos konstituciją.\nPasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik \nLenkijos konstitucija, nors Lietuvos atstovai 1791 m."
+  citata_rodoma: |
+    konstitucija.
+    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
+    mėnesiais aplenkusi Prancūzijos konstituciją.
+    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
+    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -754,7 +787,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
     steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Eu-
     ropoje“.
-  citata_rodoma: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-\ncūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-\nklaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi \nį Prancūzijos didžiąją revoliuciją. Ne veltui 1791 m."
+  citata_rodoma: |
+    Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
+    cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
+    klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
+    į Prancūzijos didžiąją revoliuciją. Ne veltui 1791 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -778,7 +815,15 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     palivarko (dabar Knebių kaimas) sukilėliai
     įrengė stovyklą, į kurią sutraukė didesnę
     dalį savo pajėgų.
-  citata_rodoma: "Z. Sierakausko manymu,\npo mėnesio kito turėjo prasidėti Anglijos\nir Prancūzijos intervencija prieš Rusiją.\nŠiems tikslams įgyvendinti už Anykščių\nesančio Andrioniškio miške prie Teresboro\npalivarko (dabar Knebių kaimas) sukilėliai\nįrengė stovyklą, į kurią sutraukė didesnę\ndalį savo pajėgų."
+  citata_rodoma: |
+    Z. Sierakausko manymu,
+    po mėnesio kito turėjo prasidėti Anglijos
+    ir Prancūzijos intervencija prieš Rusiją.
+    Šiems tikslams įgyvendinti už Anykščių
+    esančio Andrioniškio miške prie Teresboro
+    palivarko (dabar Knebių kaimas) sukilėliai
+    įrengė stovyklą, į kurią sutraukė didesnę
+    dalį savo pajėgų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -795,7 +840,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
     Teutonų ordinas.
     1307 m.
-  citata_rodoma: "popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai\nPrancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo\nTeutonų ordinas.\n  1307 m."
+  citata_rodoma: |
+    popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
+    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
+    Teutonų ordinas.
+      1307 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

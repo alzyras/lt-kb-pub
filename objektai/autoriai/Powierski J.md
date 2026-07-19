@@ -123,7 +123,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus ryšį su konkretaus įvykio aiškinimu."
   pagrindžia:
-    - c-61142
+    - c-007
 
 <a id="claim-t-60512"></a>
 - t-006
@@ -174,7 +174,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Powierskio siūlytą chronologiją."
   pagrindžia:
-    - c-61146
+    - c-005
 
 <a id="claim-t-197008"></a>
 - t-009
@@ -218,6 +218,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_saltinis: ai
   pagrindžia:
     - t-60506
+    - t-60514
 - c-006
   santrauka: 'J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -248,6 +249,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-60511
     - t-60513
 ## Citatos
 
@@ -321,7 +323,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60511
     - t-197008
 - id: c-61143
   autorius: "Petras Dusburgietis"
@@ -334,7 +335,11 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     12 (10). Apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje
     Brolis Hermanas, vadinamas Balkų, pirmas šventosios Marijos Teutonų namų
     Jeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų.
-  citata_rodoma: "Nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1,\n1, Nr. 76; Powierski J. Przekaz..., p. 389—391; to paties, Dobra ostrowicko-golubskie...,\np. 32, 100; Guldon Z.. Powierski J. Podziały..., p. 171; Janikowski J., Domagała R.\nWyniki..., p. 47—59)."
+  citata_rodoma: |
+    Nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1,
+    1, Nr. 76; Powierski J. Przekaz..., p. 389—391; to paties, Dobra ostrowicko-golubskie...,
+    p. 32, 100; Guldon Z.. Powierski J. Podziały..., p. 171; Janikowski J., Domagała R.
+    Wyniki..., p. 47—59).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -352,7 +357,10 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     vieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte...,
     1, p. 639—649; GAO, p. 146).
     Ieškodamas centrinės baltų Romovės resp.
-  citata_rodoma: "teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška\ndykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo\nišlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303)."
+  citata_rodoma: |
+    teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
+    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
+    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -372,7 +380,13 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     stiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda. Apie tą patį sakoma Teisėjų
     knygoje (Ts 4, 13): „Atsiminkite viešpaties tarną, kur Amalechą, pasitikintį savo skydais,
     apgalėjo ne kovodamas, bet melsdamasis maldomis“.
-  citata_rodoma: "178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII\na. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir\nKrokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme\n(Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.\nStosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-\ngolubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40)."
+  citata_rodoma: |
+    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
+    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
+    Krokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme
+    (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
+    Stosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-
+    golubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -399,5 +413,4 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60514
     - t-197009

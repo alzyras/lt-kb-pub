@@ -161,7 +161,16 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
     Vis dėlto brolis Liudvikas su savo palyda atžygiavo į Sembos žemę, kur visus krikštas
     prikėlė naujam gyvenimui.
-  citata_rodoma: "Apie vienos Sembos dalies nusiaubimą\n\n  1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509\nįsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:\nAbendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki\nir gyvi sugrįžo atgal. Neabejojama, jog šitai įvyko dėl to, kad magistras ir broliai, iš\nanksto žinodami, jog lietuviai susirengė  į žygį, kelias dienas jų laukė su kariuomene,\ntačiau pabodus laukti, nes šie kelyje užtruko ilgiau nei paprastai, išsisklaidę sugrįžo\nnamo."
+  citata_rodoma: |
+    Apie vienos Sembos dalies nusiaubimą
+
+      1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509
+    įsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:
+    Abendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki
+    ir gyvi sugrįžo atgal. Neabejojama, jog šitai įvyko dėl to, kad magistras ir broliai, iš
+    anksto žinodami, jog lietuviai susirengė  į žygį, kelias dienas jų laukė su kariuomene,
+    tačiau pabodus laukti, nes šie kelyje užtruko ilgiau nei paprastai, išsisklaidę sugrįžo
+    namo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -185,7 +194,9 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     arkliu parkrito žemėn, nors šis kirtis jo visai nesužeidė ir nepaliko ant kūno jokio žaizdos
     pėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti
     sūduviai, dalyvavę tame kare ir viską matę.
-  citata_rodoma: "510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin. Abenda\nminima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje (SU, 2, Nr."
+  citata_rodoma: |
+    510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin. Abenda
+    minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje (SU, 2, Nr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -207,7 +218,9 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     pėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti
     sūduviai, dalyvavę tame kare ir viską matę.
     219 (214).
-  citata_rodoma: "Manoma, kad Abendos vardas galėjęs būti Betin, t. y. Pabečių (D.\nIII, 107, 108) vertimas (GAO, p."
+  citata_rodoma: |
+    Manoma, kad Abendos vardas galėjęs būti Betin, t. y. Pabečių (D.
+    III, 107, 108) vertimas (GAO, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

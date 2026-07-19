@@ -59,7 +59,12 @@ Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pr
     žinių, kad  Nerono viešpatavimo metais (54—68 m.) gladiatorių kautynių organizatorius
     Julijus politiniais, gal ir kariniais tikslais surengęs žygį, vadovaujamą romėnų raitelio,
     kuris parvežęs daugybę gintaro.
-  citata_rodoma: "Romos imperatorius Gajus Julijus Cezaris\nGermanikas, pramintas Kaligula, valdė 37—41 m. Plinijus Vyresnysis (23—79 m.) pateikia\nžinių, kad Nerono viešpatavimo metais (54—68 m.) gladiatorių kautynių organizatorius\nJulijus politiniais, gal ir kariniais tikslais surengęs žygį, vadovaujamą romėnų raitelio,\nkuris parvežęs daugybę gintaro."
+  citata_rodoma: |
+    Romos imperatorius Gajus Julijus Cezaris
+    Germanikas, pramintas Kaligula, valdė 37—41 m. Plinijus Vyresnysis (23—79 m.) pateikia
+    žinių, kad Nerono viešpatavimo metais (54—68 m.) gladiatorių kautynių organizatorius
+    Julijus politiniais, gal ir kariniais tikslais surengęs žygį, vadovaujamą romėnų raitelio,
+    kuris parvežęs daugybę gintaro.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

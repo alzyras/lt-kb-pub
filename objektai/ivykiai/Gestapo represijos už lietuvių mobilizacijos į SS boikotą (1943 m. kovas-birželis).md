@@ -112,7 +112,8 @@ Nenurodyta
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: "klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,"
+  citata_rodoma: |
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

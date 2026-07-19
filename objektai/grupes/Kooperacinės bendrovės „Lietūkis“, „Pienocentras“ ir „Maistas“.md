@@ -92,7 +92,8 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
     geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
     kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-
     klą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį
-  citata_rodoma: "geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis"
+  citata_rodoma: |
+    geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +113,8 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
     kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
     į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
     Veiveriuose nušovė tris valstiečius, šimtus areštavo.
-  citata_rodoma: "kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną"
+  citata_rodoma: |
+    kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

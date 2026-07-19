@@ -256,7 +256,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   temporaliniai_duomenys: "įvykio data: 1272 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-04834
+    - c-42277
 
 <a id="claim-t-90058"></a>
 - t-013
@@ -548,7 +548,12 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     XIII amž. _žymiausias_ Lietuvos valdovas. Jis ne tik kad vėl įtvirtino
     Lietuvos valdžią artimose rusų žemėse, bet buvo stiprus baltų žemių
     jungėjas.
-  citata_rodoma: "Bet ir iš to, kas apie Trai­\ndenį yra žinoma, galima apčiuopti, jog, šalia Mindaugo, jis yra buvęs\nXIII amž. _žymiausias_ Lietuvos valdovas. Jis ne tik kad vėl įtvirtino\nLietuvos valdžią artimose rusų žemėse, bet buvo stiprus baltų žemių\njungėjas."
+  citata_rodoma: |
+    Bet ir iš to, kas apie Trai­
+    denį yra žinoma, galima apčiuopti, jog, šalia Mindaugo, jis yra buvęs
+    XIII amž. _žymiausias_ Lietuvos valdovas. Jis ne tik kad vėl įtvirtino
+    Lietuvos valdžią artimose rusų žemėse, bet buvo stiprus baltų žemių
+    jungėjas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -556,7 +561,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05200
-    - t-90056
 - id: c-04835
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -567,7 +571,9 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     šicos (Łęczyca) žemes. Jie tačiau neliesdavo Mozūrijos. Pats Trai­
     denis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I
     dukterį Liudmilą^230.
-  citata_rodoma: "Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I\ndukterį Liudmilą^230."
+  citata_rodoma: |
+    Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I
+    dukterį Liudmilą^230.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -588,7 +594,9 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     čių, būtent, Płocko Boleslovas II, norėdamas dar labiau apsisaugoti
     nuo lietuvių puolimų, 1279 m. vedė Traidenio dukrą Gaudimantę
     (Gaudemundą), kuri per krikštą gavo Sofijos vardą.
-  citata_rodoma: "Tad vienas iš Mozūrų kunigaikščių, būtent, Płocko Boleslovas II,\nnorėdamas dar labiau apsisaugoti nuo lietuvių puolimų, 1279 m. vedė Traidenio dukrą Gaudimantę (Gaudemundą), kuri per krikštą gavo Sofijos vardą."
+  citata_rodoma: |
+    Tad vienas iš Mozūrų kunigaikščių, būtent, Płocko Boleslovas II,
+    norėdamas dar labiau apsisaugoti nuo lietuvių puolimų, 1279 m. vedė Traidenio dukrą Gaudimantę (Gaudemundą), kuri per krikštą gavo Sofijos vardą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -609,7 +617,9 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     denio, kuris pirmasis iš Lietuvos XIII amž. valdovų mirė savo
     mirtimi, neberandama pėdsakų apie sukrėtimus, ar maištus, kurie
     buvo lydėję Mindaugo nužudymą.
-  citata_rodoma: "Po mirties Traidenio, kuris pirmasis iš Lietuvos XIII amž. valdovų mirė savo mirtimi,\nneberandama pėdsakų apie sukrėtimus, ar maištus, kurie buvo lydėję Mindaugo nužudymą."
+  citata_rodoma: |
+    Po mirties Traidenio, kuris pirmasis iš Lietuvos XIII amž. valdovų mirė savo mirtimi,
+    neberandama pėdsakų apie sukrėtimus, ar maištus, kurie buvo lydėję Mindaugo nužudymą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -629,7 +639,13 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     santykiams su Lenkija, Pietvakarių Rusia ir
     jotvingių žemės gynybai. Traidenis kreipė
     didelį dėmesį ir į Padauguvį.
-  citata_rodoma: "Pats Traidenis, pietuose atrėmęs priešo\natakas, 1272 m. prie Vakarų Bugo, pasiuntęs\nten gardiniečius, užėmė Drohičiną (dab.\nRytų Lenkijoje), strateginį punktą, svarbų\nsantykiams su Lenkija, Pietvakarių Rusia ir\njotvingių žemės gynybai."
+  citata_rodoma: |
+    Pats Traidenis, pietuose atrėmęs priešo
+    atakas, 1272 m. prie Vakarų Bugo, pasiuntęs
+    ten gardiniečius, užėmė Drohičiną (dab.
+    Rytų Lenkijoje), strateginį punktą, svarbų
+    santykiams su Lenkija, Pietvakarių Rusia ir
+    jotvingių žemės gynybai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -637,6 +653,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90052
+    - t-90056
 - id: c-85934
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -665,7 +682,10 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
-  citata_rodoma: "Vis dėlto Lietuva ir toliau liko pagrindinė,\nvadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,\ntelkė jėgas ir kovai Prūsijoje."
+  citata_rodoma: |
+    Vis dėlto Lietuva ir toliau liko pagrindinė,
+    vadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,
+    telkė jėgas ir kovai Prūsijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -683,7 +703,9 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     pavaldęs, jis mirė (1269 m.). Lietuva liko be dinastijos, ir nauja
     dinastija turėjo iškilti iš savų kunigaikščių tarpo. Pirmasis iškilo
     Kernavės kunigaikštis Traidenis.
-  citata_rodoma: "Pirmasis iškilo\n  Kernavės kunigaikštis Traidenis."
+  citata_rodoma: |
+    Pirmasis iškilo
+      Kernavės kunigaikštis Traidenis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -708,7 +730,15 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     Litwanorum terram Dobrinens. sitam
     in prenominata Plocendioc totam mise­
     rabiliter devastavit.
-  citata_rodoma: "3 yra paminėję. Viename dokumen­\nte, apie kurį vėliau smulkiau kalbė­\nsime, pasakojama apie kunigaikščių \nZiemovito ir Traidenio įsiveržimą į \nDobrynės žemę. Qui prophanus dux \nDavid paulo ante indictas treugas pre- \ndictas Ingrediens cum valido exercitu \nLitwanorum terram Dobrinens."
+  citata_rodoma: |
+    3 yra paminėję. Viename dokumen­
+    te, apie kurį vėliau smulkiau kalbė­
+    sime, pasakojama apie kunigaikščių
+    Ziemovito ir Traidenio įsiveržimą į
+    Dobrynės žemę. Qui prophanus dux
+    David paulo ante indictas treugas pre-
+    dictas Ingrediens cum valido exercitu
+    Litwanorum terram Dobrinens.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -730,7 +760,12 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes,
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
-  citata_rodoma: ") Ordino valdas pavyslyje iki Kristburgo\n(III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,\n204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,\npasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį\npo Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui)."
+  citata_rodoma: |
+    ) Ordino valdas pavyslyje iki Kristburgo
+    (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
+    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
+    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -757,7 +792,20 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     vė pilį. Traideniui su didžiuliu grobiu pasitraukus iš
     priešų krašto, beveik jo pėdomis įsiveržė čia naujas
     priešas ir vėl nusiaubė viską ugnimi ir kalaviju.
-  citata_rodoma: "Kaip tei­\ngiama įvairių rašytojų, Ro­\nmuntas paliko penketą sūnų,\ntačiau artesnis tiesai vos ke­\nlių šaltinių minimas pasakojimas, jog jis mirė bevai­\nkis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­\nkio amžiaus, kad jauniausias iš jų, Traidenis, Romun-\ntui dar gyvam esant, vadovavo kariuomenei kaip\nvyriausiasis vadas. Vargu ar galima patikėti, kad per\ntokį trumpą laiką po Šventaragio mirties (tai yra vos\nper dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­\ndžiais jaunikaičiais, bet ir vyrais, galinčiais valstybę\nvaldyti."
+  citata_rodoma: |
+    Kaip tei­
+    giama įvairių rašytojų, Ro­
+    muntas paliko penketą sūnų,
+    tačiau artesnis tiesai vos ke­
+    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
+    kis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­
+    kio amžiaus, kad jauniausias iš jų, Traidenis, Romun-
+    tui dar gyvam esant, vadovavo kariuomenei kaip
+    vyriausiasis vadas. Vargu ar galima patikėti, kad per
+    tokį trumpą laiką po Šventaragio mirties (tai yra vos
+    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
+    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
+    valdyti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -786,7 +834,15 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
     tą mažas lietuvių lengvųjų raitelių būrys, įžygiavęs į
     Lenčicos kraštą, netikėtai užpuolė Lenčicos miestą ir
     bemaž pirmu antpuoliu jį užėmė.
-  citata_rodoma: "Po atkaklios apsiausties užėmęs \nBirgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­\nvė pilį. Traideniui su didžiuliu grobiu pasitraukus iš \npriešų krašto, beveik jo pėdomis įsiveržė čia naujas \npriešas ir vėl nusiaubė viską ugnimi ir kalaviju. \\ tas \npačias žemes įsibrovė Skomantas su žemaičių ir sūdu­\nvių kariais: jis sudegino apiplėštus Liubavos ir Kulmo \nmiestus ir nusiaubė visą Kujaviją."
+  citata_rodoma: |
+    Po atkaklios apsiausties užėmęs
+    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
+    vė pilį. Traideniui su didžiuliu grobiu pasitraukus iš
+    priešų krašto, beveik jo pėdomis įsiveržė čia naujas
+    priešas ir vėl nusiaubė viską ugnimi ir kalaviju. \ tas
+    pačias žemes įsibrovė Skomantas su žemaičių ir sūdu­
+    vių kariais: jis sudegino apiplėštus Liubavos ir Kulmo
+    miestus ir nusiaubė visą Kujaviją.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

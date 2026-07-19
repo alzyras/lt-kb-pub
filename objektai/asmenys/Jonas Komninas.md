@@ -157,7 +157,21 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
     derlingumu ir kitomis gyventi palankiomis aplinkybėmis
     primena Parosės Ukrainą; tas, kuris lankėsi šiose abie­
     jose šalyse, galėjo įžvelgti jų panašumą.
-  citata_rodoma: "294\nIšsiaiškinus visus šiuos dalykus, nereikia abejoti, kad\nbirių gyventa pakrantėse ukrainiečių Rosės, kurią pa­\ngal savo religinius papročius pašventino suteikdami jai\nšį mitinį vardą. Čia jie gyveno nuo III amžiaus pabaigos\nbeveik iki XII amžiaus vidurio, kai, graikų imperatoriui\nJonui Komninui 1121 metais nugalėjus pečenegus, išsi­\nkėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten\njie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­\ntuvių genčių suteiktų vietovardžių ir upių pavadinimų\npastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak\nmūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­\nvių krašto, esančio Nemuno žemupio dešiniojoje pakran­\ntėje, kur jie gyveno prie Jūros upės."
+  citata_rodoma: |
+    294
+    Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
+    birių gyventa pakrantėse ukrainiečių Rosės, kurią pa­
+    gal savo religinius papročius pašventino suteikdami jai
+    šį mitinį vardą. Čia jie gyveno nuo III amžiaus pabaigos
+    beveik iki XII amžiaus vidurio, kai, graikų imperatoriui
+    Jonui Komninui 1121 metais nugalėjus pečenegus, išsi­
+    kėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten
+    jie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­
+    tuvių genčių suteiktų vietovardžių ir upių pavadinimų
+    pastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak
+    mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­
+    vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
+    tėje, kur jie gyveno prie Jūros upės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

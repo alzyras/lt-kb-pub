@@ -85,7 +85,13 @@ Nenurodyta
     dynes padarė žmonėms, kad ten tik šlapia (vieta) bepaliko »^4.
     Gaisrais nusiaubę Raseinių ir Ariogalos sritis, Dubysos žiotyse jie
     tačiau nepaėmė nuo seniau vis puolamos Peštvės.
-  citata_rodoma: "Paminėtinas yra 1322 m. žygis, kai riteriai su\nbūriu žymių kryžininkų įsiveržė į Žemaičius ir dažnai lankomoje\nVėjukų srityje (Wayken — į vakarus nuo Raseinių) «tokias sker­\ndynes padarė žmonėms, kad ten tik šlapia (vieta) bepaliko »^4.\nGaisrais nusiaubę Raseinių ir Ariogalos sritis, Dubysos žiotyse jie\ntačiau nepaėmė nuo seniau vis puolamos Peštvės."
+  citata_rodoma: |
+    Paminėtinas yra 1322 m. žygis, kai riteriai su
+    būriu žymių kryžininkų įsiveržė į Žemaičius ir dažnai lankomoje
+    Vėjukų srityje (Wayken — į vakarus nuo Raseinių) «tokias sker­
+    dynes padarė žmonėms, kad ten tik šlapia (vieta) bepaliko »^4.
+    Gaisrais nusiaubę Raseinių ir Ariogalos sritis, Dubysos žiotyse jie
+    tačiau nepaėmė nuo seniau vis puolamos Peštvės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

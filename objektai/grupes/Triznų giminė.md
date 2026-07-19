@@ -131,7 +131,19 @@ Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė. Narbutas išnašoj
     Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
     ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
     gų stygių.
-  citata_rodoma: "368\n\n## Puslapis 368\n\nNeturime smulkesnių rašytinių žinių apie kokios nors tau­\ntos šias apeigas, kadangi jos priklausė slaptųjų kategorijai; tuo\nįsitikiname skaitydami Antikos rašytojus. Žinoma tik tiek, kad\nbūdavo aukos dievams kabirams, naktinės puotos, žirgų lenk­\ntynės, iečių laužymai, daug prabangos. Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką."
+  citata_rodoma: |
+    368
+
+    ## Puslapis 368
+
+    Neturime smulkesnių rašytinių žinių apie kokios nors tau­
+    tos šias apeigas, kadangi jos priklausė slaptųjų kategorijai; tuo
+    įsitikiname skaitydami Antikos rašytojus. Žinoma tik tiek, kad
+    būdavo aukos dievams kabirams, naktinės puotos, žirgų lenk­
+    tynės, iečių laužymai, daug prabangos. Lietuvoje gyveno garsi
+    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
+    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
+    apeigų paprotį, kiekviena tauta kitonišką.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -150,7 +162,10 @@ Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė. Narbutas išnašoj
     dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
     kiai tyrėjo nuomonei. Vis dėlto iki šiol ypač garbinami pilka­
     piai, supilti ant žymių žmonių pelenų.
-  citata_rodoma: "Net buvo ap­\n23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-\nrožytnej Polski. -  T. II)."
+  citata_rodoma: |
+    Net buvo ap­
+    23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
+    rožytnej Polski. -  T. II).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -115,7 +115,12 @@ Nenurodyta
     (Szczepanowski) liepęs sumokėti advokatui Glindzičiui (Glindzyc) 15 auksinų, nes Vil-
     niuje jau preliminariai pats pakancleris žadėjo duoti 10. Kanauninkas paminėjo, kad jei
     advokatas pareikalautų daugiau, jam nedelsdamas sumokėtų [10].
-  citata_rodoma: "Laiškuose irgi būdavo minimos teismo pareigūnų paslaugos. 1751 m. laiške LDK\npakancleriui Mykolui Antanui Sapiegai kanauninkas teigė, kad regentui Ščepanovskiui\n(Szczepanowski) liepęs sumokėti advokatui Glindzičiui (Glindzyc) 15 auksinų, nes Vil-\nniuje jau preliminariai pats pakancleris žadėjo duoti 10. Kanauninkas paminėjo, kad jei\nadvokatas pareikalautų daugiau, jam nedelsdamas sumokėtų [10]."
+  citata_rodoma: |
+    Laiškuose irgi būdavo minimos teismo pareigūnų paslaugos. 1751 m. laiške LDK
+    pakancleriui Mykolui Antanui Sapiegai kanauninkas teigė, kad regentui Ščepanovskiui
+    (Szczepanowski) liepęs sumokėti advokatui Glindzičiui (Glindzyc) 15 auksinų, nes Vil-
+    niuje jau preliminariai pats pakancleris žadėjo duoti 10. Kanauninkas paminėjo, kad jei
+    advokatas pareikalautų daugiau, jam nedelsdamas sumokėtų [10].
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
   teiginio_tipas: faktas

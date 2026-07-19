@@ -81,7 +81,15 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
     tu Vytautas, kaip jam buvo įprasta, pareiškė noro be laiko grįž­
     ti namo, kai pamatė, kad Lietuva savo tikslą pasiekė, ir su­
     pyko, kai derybų metu lenkai, ypač Zbign.
-  citata_rodoma: "Bet\nPamario, Kulmijos ir Michalovos sritys, į kurias Lenkija\npretendavo, turėjo ir toliau pasilikti Ordinui, nes tai sutiko su\nsenomis Vytauto pažiūromis, kuris ir šį kartą nenorėjo, kad įvyk­\ntų visiškas Lenkijos susitaikinimas su Ordinu. Jau karo me­\ntu Vytautas, kaip jam buvo įprasta, pareiškė noro be laiko grįž­\nti namo, kai pamatė, kad Lietuva savo tikslą pasiekė, ir su­\npyko, kai derybų metu lenkai, ypač Zbign."
+  citata_rodoma: |
+    Bet
+    Pamario, Kulmijos ir Michalovos sritys, į kurias Lenkija
+    pretendavo, turėjo ir toliau pasilikti Ordinui, nes tai sutiko su
+    senomis Vytauto pažiūromis, kuris ir šį kartą nenorėjo, kad įvyk­
+    tų visiškas Lenkijos susitaikinimas su Ordinu. Jau karo me­
+    tu Vytautas, kaip jam buvo įprasta, pareiškė noro be laiko grįž­
+    ti namo, kai pamatė, kad Lietuva savo tikslą pasiekė, ir su­
+    pyko, kai derybų metu lenkai, ypač Zbign.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -101,7 +109,12 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
     mės, o lietuviams — Žemaitija, kurią ir taip faktiškai valdė.
     Tikslas, be abejo, lengvesnis ir todėl nereikalaująs didelių jė­
     gų įtempimo.
-  citata_rodoma: "Lenki­\njai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­\nmės, o lietuviams — Žemaitija, kurią ir taip faktiškai valdė.\nTikslas, be abejo, lengvesnis ir todėl nereikalaująs didelių jė­\ngų įtempimo."
+  citata_rodoma: |
+    Lenki­
+    jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­
+    mės, o lietuviams — Žemaitija, kurią ir taip faktiškai valdė.
+    Tikslas, be abejo, lengvesnis ir todėl nereikalaująs didelių jė­
+    gų įtempimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

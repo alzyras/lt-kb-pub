@@ -77,7 +77,10 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
     IV lentelė, 33-iasis piešinys. Apvalus antspaudėlis iš Kazi­
     miero JogailaiČio laikų, priklausęs Stankui Stankaičiui Juršai
     (Stank Stankiewicz Jursza).
-  citata_rodoma: "IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­\nrio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.\nAntspaudas priklausė Katilui (Koczel) 1617 metais."
+  citata_rodoma: |
+    IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­
+    rio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.
+    Antspaudas priklausė Katilui (Koczel) 1617 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

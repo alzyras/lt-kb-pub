@@ -75,7 +75,9 @@ media_all_json: |-
     w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.,
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961.
-  citata_rodoma: "— (”) _Badania archeologiczne na Litwie\nw latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P."
+  citata_rodoma: |
+    — (”) _Badania archeologiczne na Litwie
+    w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

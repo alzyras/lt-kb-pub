@@ -109,7 +109,19 @@ Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąj
     bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
     savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
     mąjį Statutą.
-  citata_rodoma: "Čia paminėti įstatymai gali būti laikomi galutiniu išsi­\nvadavimu arba veikiau aukščiausia teisių veikimo riba, kurią \npasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.\nKai dar 1564 metais Bełsko seime Žygimantas Augustas \ntvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­\nrią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, \natsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­\nmus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­\nribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau \nbylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip \nsavo metu darė ir Žygimantas Senasis, paskelbdamas Pir­\nmąjį Statutą."
+  citata_rodoma: |
+    Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
+    vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
+    pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
+    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
+    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
+    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
+    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
+    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
+    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
+    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
+    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
+    mąjį Statutą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

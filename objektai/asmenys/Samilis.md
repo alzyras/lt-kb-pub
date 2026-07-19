@@ -103,7 +103,15 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
     įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
     tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
     ten jis, ilgesnį laiką pasirgęs, galop pagijo.
-  citata_rodoma: "Visa tai plukdydami\nZirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris\nkartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,\njei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino\ntėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius. Šitai sužinoję, prūsai\nįtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,\ntol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,\nten jis, ilgesnį laiką pasirgęs, galop pagijo."
+  citata_rodoma: |
+    Visa tai plukdydami
+    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
+    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
+    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
+    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius. Šitai sužinoję, prūsai
+    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
+    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
+    ten jis, ilgesnį laiką pasirgęs, galop pagijo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -127,7 +135,14 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
     kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
     jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei
     laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų.
-  citata_rodoma: "Šitai sužinoję, prūsai\nįtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,\ntol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,\nten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,\nkad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie\njų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei\nlaisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų."
+  citata_rodoma: |
+    Šitai sužinoję, prūsai
+    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
+    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
+    ten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,
+    kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
+    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
+    laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

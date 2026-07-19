@@ -146,7 +146,9 @@ Nenurodyta
   citata_originali: |
     Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž. Lenkijos (Tynieco).
-  citata_rodoma: "Vytautas įkurdino benediktinus S. Trakuose, atkeldamas\njuos iš Maž. Lenkijos (Tynieco)."
+  citata_rodoma: |
+    Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
+    juos iš Maž. Lenkijos (Tynieco).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -188,7 +190,16 @@ Nenurodyta
     jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
     siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
-  citata_rodoma: "Antrame\nskyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai\ntėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į\ndešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą\nskydą; šis skydas priklauso Senųjų Trakų miestui . Ketvirta­\nme skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu\nšalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio\nkamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­\nko kažką panašaus į pasagą."
+  citata_rodoma: |
+    Antrame
+    skyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai
+    tėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į
+    dešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą
+    skydą; šis skydas priklauso Senųjų Trakų miestui . Ketvirta­
+    me skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu
+    šalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio
+    kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­
+    ko kažką panašaus į pasagą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

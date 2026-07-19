@@ -390,7 +390,15 @@ media_all_json: |-
     nio vakarais dvasininkai visada
     statydavo ir degindavo vaško žva­
     kes/' Strijkovskis, Sk. IV, p. 400.
-  citata_rodoma: "6\n„Buvo dar didžiulė menė, arba \nšventovė, Antakalnyje, visų dievų, \nkuriuos Lietuva, apgauta šėtoniš­\nkų kerų, garbino; ten ketvirtadie­\nnio vakarais dvasininkai visada \nstatydavo ir degindavo vaško žva­\nkes/' Strijkovskis, Sk. IV, p. 400."
+  citata_rodoma: |
+    6
+    „Buvo dar didžiulė menė, arba
+    šventovė, Antakalnyje, visų dievų,
+    kuriuos Lietuva, apgauta šėtoniš­
+    kų kerų, garbino; ten ketvirtadie­
+    nio vakarais dvasininkai visada
+    statydavo ir degindavo vaško žva­
+    kes/' Strijkovskis, Sk. IV, p. 400.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -456,7 +464,22 @@ media_all_json: |-
     žinomas kunigaikščio Herfordo var­
     du, Jono de Gando, Lankasterio ku­
     nigaikščio, Ričardo dėdės, sūnus.
-  citata_rodoma: "Prie Kauno su jais susijungė, be Žemai-\n23\nStrijkovskis apsirinka nurody­\ndamas, esą Lankasteris, Anglijos ka­\nraliaus Henriko sūnus, su didžiulė­\nmis anglų, škotų bei prancūzų ir 1.1, \npajėgomis įsibrovė į Lietuvą. Nebu­\nvo apie 1390 metus jokio Henriko \nAnglijos soste, o viešpatavo anuo \ntarpu Ričardas II, ir prie Vilniaus bu­\nvojo ne kas kitas, tik Henrikas Lan­\nkasteris, pirm Derbio grafas, vėliau \nžinomas kunigaikščio Herfordo var­\ndu, Jono de Gando, Lankasterio ku­\nnigaikščio, Ričardo dėdės, sūnus."
+  citata_rodoma: |
+    Prie Kauno su jais susijungė, be Žemai-
+    23
+    Strijkovskis apsirinka nurody­
+    damas, esą Lankasteris, Anglijos ka­
+    raliaus Henriko sūnus, su didžiulė­
+    mis anglų, škotų bei prancūzų ir 1.1,
+    pajėgomis įsibrovė į Lietuvą. Nebu­
+    vo apie 1390 metus jokio Henriko
+    Anglijos soste, o viešpatavo anuo
+    tarpu Ričardas II, ir prie Vilniaus bu­
+    vojo ne kas kitas, tik Henrikas Lan­
+    kasteris, pirm Derbio grafas, vėliau
+    žinomas kunigaikščio Herfordo var­
+    du, Jono de Gando, Lankasterio ku­
+    nigaikščio, Ričardo dėdės, sūnus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -488,7 +511,23 @@ media_all_json: |-
     vardu buvo vadinama ir rusų gyven­
     tojų prastuomenė, kurių nemažai
     anuomet buvo Vilniuje.
-  citata_rodoma: "Vilniaus apylinkės, ke­\nturių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­\nkotos, ir tik tada didysis magistras įsakė trauktis. Tačiau \natsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­\nsiartinus prie Strėvos upės Trakų paviete, tankiame miške \niš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,\n54\nStryjkowski, p. 464, aiškiai \nnurodo, kad Švitrigaila pilies užėmi­\nmo dėlei turėjo būti pasinaudojęs ru­\nsų vienuolių, vadintų „čiornais\", iš­\ndavyste; tačiau čia ateina į galvą \nmintis, kad „čiornų\" (prasčiokai) \nvardu buvo vadinama ir rusų gyven­\ntojų prastuomenė, kurių nemažai \nanuomet buvo Vilniuje."
+  citata_rodoma: |
+    Vilniaus apylinkės, ke­
+    turių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­
+    kotos, ir tik tada didysis magistras įsakė trauktis. Tačiau
+    atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
+    siartinus prie Strėvos upės Trakų paviete, tankiame miške
+    iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,
+    54
+    Stryjkowski, p. 464, aiškiai
+    nurodo, kad Švitrigaila pilies užėmi­
+    mo dėlei turėjo būti pasinaudojęs ru­
+    sų vienuolių, vadintų „čiornais", iš­
+    davyste; tačiau čia ateina į galvą
+    mintis, kad „čiornų" (prasčiokai)
+    vardu buvo vadinama ir rusų gyven­
+    tojų prastuomenė, kurių nemažai
+    anuomet buvo Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -530,7 +569,26 @@ media_all_json: |-
     mo, ir tik 1391 m. kovo 12 d. išrink­
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
-  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
+  citata_rodoma: |
+    22
+    Miechovita, Strijkovskis
+    ir K o j e 1 a v i č i u s klysta sakyda­
+    mi, esą žygio vadovavimas buvo pa­
+    vestas Konradui Valenrodui, kurį
+    jau tuo metu vadina didžiuoju ma­
+    gistru, kai Konradas Valenrodas
+    1382 metais, sekmadienį prieš Šv.
+    Mykolą paskirtas Ordino didžiuoju
+    maršalu, 1387 metais per Apreiški­
+    mo Marijai šventę tapo didžiuoju
+    komtūru arba arkikomtūru, 1390
+    rugpjūčio 15 d., po didžiojo magistro
+    Konrado Ciolnerio fon Rotenšteino
+    mirties, - ir didžiojo magistro vieti­
+    ninku, iki pat kapitulos suvažiavi­
+    mo, ir tik 1391 m. kovo 12 d. išrink­
+    tas didž. magistru; mirė 1393 m.
+    liepos 25 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -640,7 +698,14 @@ media_all_json: |-
     tindamas, esą miškas lietuviškai va­
     dinamas laukas ir nuo to žodžio
     paėjęs Lukiškių pavadinimas.
-  citata_rodoma: "Petro bažnyčia, buvo iš­\nkilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.\ntovė Laukai-kišas-upys, vėliau išvir­\nto į Lukiškes. Strijkovskis klysta tvir­\ntindamas, esą miškas lietuviškai va­\ndinamas laukas ir nuo to žodžio \npaėjęs Lukiškių pavadinimas."
+  citata_rodoma: |
+    Petro bažnyčia, buvo iš­
+    kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
+    tovė Laukai-kišas-upys, vėliau išvir­
+    to į Lukiškes. Strijkovskis klysta tvir­
+    tindamas, esą miškas lietuviškai va­
+    dinamas laukas ir nuo to žodžio
+    paėjęs Lukiškių pavadinimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -758,7 +823,17 @@ media_all_json: |-
     griuvusių skliautų žymės dunkso/'
     14
     Ne tik Šv.
-  citata_rodoma: "13\nŠv. Martyno bažnyčia jau XVI am­\nžiuje buvo apleista ir sugriauta: mi­\nni apie tai ir pats Strijkovskįs savo \nkronikoje, p. 479: „Dabar, kaip ma­\ntome, sunyko ir sugriuvo, tiktai prie \nPlikojo kalno puikaus pastato ir su­\ngriuvusių skliautų žymės dunkso/'\n14\nNe tik Šv."
+  citata_rodoma: |
+    13
+    Šv. Martyno bažnyčia jau XVI am­
+    žiuje buvo apleista ir sugriauta: mi­
+    ni apie tai ir pats Strijkovskįs savo
+    kronikoje, p. 479: „Dabar, kaip ma­
+    tome, sunyko ir sugriuvo, tiktai prie
+    Plikojo kalno puikaus pastato ir su­
+    griuvusių skliautų žymės dunkso/'
+    14
+    Ne tik Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -862,7 +937,13 @@ media_all_json: |-
     plačiai aprašo, kokių gudrybių tą­
     kart ėmėsi Kęstutis, puldamas Vil-
     nių.
-  citata_rodoma: "31\nStrijkovskis, 1.465, o juo sekda­\nmas ir K o j e 1  a v i č i u s, p. 361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių."
+  citata_rodoma: |
+    31
+    Strijkovskis, 1.465, o juo sekda­
+    mas ir K o j e 1  a v i č i u s, p. 361,
+    plačiai aprašo, kokių gudrybių tą­
+    kart ėmėsi Kęstutis, puldamas Vil-
+    nių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

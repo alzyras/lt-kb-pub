@@ -102,7 +102,8 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
     Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
     Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
     ir Vilniaus vyskupas I. Masalskis.
-  citata_rodoma: "Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis"
+  citata_rodoma: |
+    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +125,8 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
     vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
     lio 28 dieną.
-  citata_rodoma: "konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos"
+  citata_rodoma: |
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

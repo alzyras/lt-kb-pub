@@ -182,7 +182,15 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
     tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
     Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
-  citata_rodoma: "Parengus abiem pu-\nsėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-\nją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,\npaskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą\nLietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų\nvalstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-\ntybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys\nSteigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas."
+  citata_rodoma: |
+    Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
+    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +215,13 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
     bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
     gruodžio 11-osios rezoliucijos pagrindu.
-  citata_rodoma: "Kovo 23 dieną Berlyne A. Smetonos vadovau-\njama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui\nGeorgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos\nkaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-\nbę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…\ngruodžio 11-osios rezoliucijos pagrindu."
+  citata_rodoma: |
+    Kovo 23 dieną Berlyne A. Smetonos vadovau-
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +256,18 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
     savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
     teritoriją.
-  citata_rodoma: "Kovo 11 Aktas savo dvasia arti-\nmas Lietuvos Tarybos 1918 m. pa-\nskelbtam Vasario 16 Aktui, tačiau \nnebesirėmė visuotinai pripažinta \ntautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-\nsės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-\ntuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“ \nreferendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-\nreigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su \nsavo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą \nteritoriją."
+  citata_rodoma: |
+    Kovo 11 Aktas savo dvasia arti-
+    mas Lietuvos Tarybos 1918 m. pa-
+    skelbtam Vasario 16 Aktui, tačiau
+    nebesirėmė visuotinai pripažinta
+    tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-
+    sės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-
+    tuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“
+    referendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-
+    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
+    savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
+    teritoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

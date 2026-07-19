@@ -95,7 +95,8 @@ Nenurodyta
     suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę.
-  citata_rodoma: "demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo"
+  citata_rodoma: |
+    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

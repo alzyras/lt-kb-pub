@@ -54,7 +54,7 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    valdžia. Nors paskutiniąja sutartim Krėvės aktas ir nebuvo pa­
+    Nors paskutiniąja sutartim Krėvės aktas ir nebuvo pa­
     keistas, t. y. Lietuva ir toliau buvo laikoma inkorporuota į Len­
     kiją, bet faktiška padėtis, Vytautui ėmus valdyti, pasidarė kito­
     kia: Lietuva tapo autonomiška valstybė, o pats Vytautas — ne
@@ -62,7 +62,15 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
     valdytojas. Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį
     juridiškai formuluoti, nenorėdamas, kad Vytautas būtų laikomas
     tikruoju Lietuvos suverenu.
-  citata_rodoma: "Nors paskutiniąja sutartim Krėvės aktas ir nebuvo pa­\nkeistas, t. y. Lietuva ir toliau buvo laikoma inkorporuota į Len­\nkiją, bet faktiška padėtis, Vytautui ėmus valdyti, pasidarė kito­\nkia: Lietuva tapo autonomiška valstybė, o pats Vytautas — ne\nkoks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos\nvaldytojas. Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį\njuridiškai formuluoti, nenorėdamas, kad Vytautas būtų laikomas\ntikruoju Lietuvos suverenu."
+  citata_rodoma: |
+    Nors paskutiniąja sutartim Krėvės aktas ir nebuvo pa­
+    keistas, t. y. Lietuva ir toliau buvo laikoma inkorporuota į Len­
+    kiją, bet faktiška padėtis, Vytautui ėmus valdyti, pasidarė kito­
+    kia: Lietuva tapo autonomiška valstybė, o pats Vytautas — ne
+    koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos
+    valdytojas. Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį
+    juridiškai formuluoti, nenorėdamas, kad Vytautas būtų laikomas
+    tikruoju Lietuvos suverenu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -195,7 +195,17 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     riuomenei. Skubėdami užkirsti artėjančiam
     priešui kelią, raiteliai nelaukdami pėsti-
     ninkų ir artilerijos pajudėjo greitu maršu.
-  citata_rodoma: "Iš Polocko su savo kariuomene kuni-\ngaikštis P. Šuiskis pajudėjo sausio 23 d.\nApie tai Lietuvos didysis etmonas Myko-\nlas Radvila Rudasis žvalgų buvo greitai\ninformuotas, pats jis tuo metu buvo tik\napie 100 km nuo Polocko, Lukomlyje.\nNenorėdamas leisti maskvėnų pajėgoms\nsusijungti, jis nurodė nedelsiant pradėti\nžygį siekiant užkirsti kelią P. Šuiskio ka-\nriuomenei."
+  citata_rodoma: |
+    Iš Polocko su savo kariuomene kuni-
+    gaikštis P. Šuiskis pajudėjo sausio 23 d.
+    Apie tai Lietuvos didysis etmonas Myko-
+    las Radvila Rudasis žvalgų buvo greitai
+    informuotas, pats jis tuo metu buvo tik
+    apie 100 km nuo Polocko, Lukomlyje.
+    Nenorėdamas leisti maskvėnų pajėgoms
+    susijungti, jis nurodė nedelsiant pradėti
+    žygį siekiant užkirsti kelią P. Šuiskio ka-
+    riuomenei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -213,7 +223,10 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     M. Radvila Rudasis galėjo turėti tik nuo
 
     “14, 4iki 6 tūkstančių raitelių. Tačiau tai
-  citata_rodoma: "M. Radvila Rudasis galėjo turėti tik nuo\n\n“14, 4iki 6 tūkstančių raitelių."
+  citata_rodoma: |
+    M. Radvila Rudasis galėjo turėti tik nuo
+
+    “14, 4iki 6 tūkstančių raitelių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -236,7 +249,14 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     M. Radvila Rudasis galėjo turėti tik nuo
 
     “14, 4iki 6 tūkstančių raitelių.
-  citata_rodoma: "Skubėdami užkirsti artėjančiam\npriešui kelią, raiteliai nelaukdami pėsti-\nninkų ir artilerijos pajudėjo greitu maršu.\n\nM. Radvila Rudasis galėjo turėti tik nuo\n\n“14, 4iki 6 tūkstančių raitelių."
+  citata_rodoma: |
+    Skubėdami užkirsti artėjančiam
+    priešui kelią, raiteliai nelaukdami pėsti-
+    ninkų ir artilerijos pajudėjo greitu maršu.
+
+    M. Radvila Rudasis galėjo turėti tik nuo
+
+    “14, 4iki 6 tūkstančių raitelių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -60,7 +60,11 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
     kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
     Klaipėdos apylinkę. Vadinamoji Ceklio sritis, kuri priskiriama
     Kuršiams, siekė ir dešinįjį Ventos krantą (A. Salys).
-  citata_rodoma: "Istorinių laikų angoje\nkuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir\nKlaipėdos apylinkę. Vadinamoji Ceklio sritis, kuri priskiriama\nKuršiams, siekė ir dešinįjį Ventos krantą (A. Salys)."
+  citata_rodoma: |
+    Istorinių laikų angoje
+    kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
+    Klaipėdos apylinkę. Vadinamoji Ceklio sritis, kuri priskiriama
+    Kuršiams, siekė ir dešinįjį Ventos krantą (A. Salys).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

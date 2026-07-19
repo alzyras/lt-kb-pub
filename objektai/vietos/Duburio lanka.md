@@ -68,7 +68,8 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
     Piemuo užbėgo, sukirto rimbu du sykiu kiau­
     lei per kinką ir privarė prie būrio.
     Nusivarėme kaimenę į kitą Duburio lankos galą.
-  citata_rodoma: "„Nusivarėme kaimenę į kitą Duburio lankos galą.“"
+  citata_rodoma: |
+    „Nusivarėme kaimenę į kitą Duburio lankos galą.“
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -86,7 +87,8 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
     kilsta bilčius. Atėjus bilčiui ligi mūsų kiemo, išėjau ir aš, trečias pie­
     muo: su terbele ant nugaros, su šiokiu tokiu rimbu rankoje.
     Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė.
-  citata_rodoma: "„Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė.“"
+  citata_rodoma: |
+    „Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė.“
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

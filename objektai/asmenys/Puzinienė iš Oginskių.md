@@ -78,7 +78,17 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
     viešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie
     100 000 auks. lėšų, prie Akademijos aikštės dar kai kuriuos
     funduotus mūrus prijungę, puikiai apstatydino ir išpuošė.
-  citata_rodoma: "Iš Joniškio - neturtingiems studentams kasdien Olia Cha- \nritatis [labdaringi pietūs] ir duonos kepalas.\nJos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­\ntelioniene 1766 metais Akademijos observatorijos įkūrimui, \nprietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­\ndonųjų auksinų.\nAkademijos keturkampės aikštės klasių vieną eilę tėvas \nRiokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir \nviešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie \n100 000 auks."
+  citata_rodoma: |
+    Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
+    ritatis [labdaringi pietūs] ir duonos kepalas.
+    Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­
+    telioniene 1766 metais Akademijos observatorijos įkūrimui,
+    prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­
+    donųjų auksinų.
+    Akademijos keturkampės aikštės klasių vieną eilę tėvas
+    Riokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir
+    viešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie
+    100 000 auks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,8 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
     kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
     tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: "išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,"
+  citata_rodoma: |
+    išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -111,7 +111,8 @@ Nenurodyta
     viską padaryti už didesnę kainą. Jie aiškinosi, kur ir kokie turi būti herbų bareljefai,
     kanauninkas nurodė, kad siekiant, jog gausūs lietūs nepakenktų, būtina stogą padengti
     variu [21].
-  citata_rodoma: "Yra žinoma apie minėto dvasininko rūpestį dėl savo ir savo giminės pastatų Vilniuje statybos ir remonto. Pvz., 1751 m. J. D. Lopacinskis aiškino laiške broliui, kad dėl savo giminės rezidencijos statybos kaštų nuolat diskutuodavo su architektu, nes šis norėjo viską padaryti už didesnę kainą. Jie aiškinosi, kur ir kokie turi būti herbų bareljefai, kanauninkas nurodė, kad siekiant, jog gausūs lietūs nepakenktų, būtina stogą padengti variu [21]."
+  citata_rodoma: |
+    Yra žinoma apie minėto dvasininko rūpestį dėl savo ir savo giminės pastatų Vilniuje statybos ir remonto. Pvz., 1751 m. J. D. Lopacinskis aiškino laiške broliui, kad dėl savo giminės rezidencijos statybos kaštų nuolat diskutuodavo su architektu, nes šis norėjo viską padaryti už didesnę kainą. Jie aiškinosi, kur ir kokie turi būti herbų bareljefai, kanauninkas nurodė, kad siekiant, jog gausūs lietūs nepakenktų, būtina stogą padengti variu [21].
   statusas: verified
   atnaujinta: "2026-07-14 10:29"
   teiginio_tipas: faktas

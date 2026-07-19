@@ -113,7 +113,11 @@ Nenurodyta
     dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
     svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
-  citata_rodoma: "Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių\ndėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,\nsvarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų\nir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis."
+  citata_rodoma: |
+    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
+    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
+    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -134,7 +138,13 @@ Nenurodyta
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-
     lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
     pusėje.
-  citata_rodoma: "Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių \ndėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, \nsvarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų \nir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-\nlys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos \npusėje."
+  citata_rodoma: |
+    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
+    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
+    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-
+    lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
+    pusėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

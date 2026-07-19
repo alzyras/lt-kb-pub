@@ -111,7 +111,19 @@ Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir j
     nojoje Lietuvoje (Užneryje)
     ir Žemaitijoje perėmė jo sū­
     nus Utenis.
-  citata_rodoma: "Rodosi, tų pačių valdovų viešpatavimo metais Livoni-\nstydamiesi krikščionybės platinimo tikslais, karą jie vis\ndėlto pradėjo iš godumo, tariamasis pamaldumas ska­\ntino stoti į kovą prieš stabmeldžius ne tik riterius, bet\nnetgi ir kunigus nuo altorių. Kolonijos Agripinos6 ar­\nkivyskupas Avigenas ne tik pats su kariuomene pa­\ntraukė į žygį, bet netgi jai nelyginant etmonas vado­\nvavo. Staiga kilusi grėsmė išjudino galybę kuršių,\nžemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan­\nčią vergovę, varganas likimas akivaizdžiausiai rodė,\nkaip labai pavojinga iš pat pradžių neatremti visomis\njėgomis į kovą pakilusio priešo."
+  citata_rodoma: |
+    Rodosi, tų pačių valdovų viešpatavimo metais Livoni-
+    stydamiesi krikščionybės platinimo tikslais, karą jie vis
+    dėlto pradėjo iš godumo, tariamasis pamaldumas ska­
+    tino stoti į kovą prieš stabmeldžius ne tik riterius, bet
+    netgi ir kunigus nuo altorių. Kolonijos Agripinos6 ar­
+    kivyskupas Avigenas ne tik pats su kariuomene pa­
+    traukė į žygį, bet netgi jai nelyginant etmonas vado­
+    vavo. Staiga kilusi grėsmė išjudino galybę kuršių,
+    žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan­
+    čią vergovę, varganas likimas akivaizdžiausiai rodė,
+    kaip labai pavojinga iš pat pradžių neatremti visomis
+    jėgomis į kovą pakilusio priešo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

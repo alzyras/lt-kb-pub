@@ -71,7 +71,9 @@ Ivinskis, Z. Ivinskis: Dubysos pilis , LE, t.
     — (”) _Melno taika_ , LE, t. 18, 172-175 p. — (”) _Russdorf Paul von,_ LE,
     t. 26, 170-171 p. — Krochnert, E.: _Die deutsch-russische Grenze von
     Eydtkuhnen bis Soldau.
-  citata_rodoma: "— Ivinskis, Z. : _Driežų sąjunga,_\nLE, t. 5, 184-185 p."
+  citata_rodoma: |
+    — Ivinskis, Z. : _Driežų sąjunga,_
+    LE, t. 5, 184-185 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,8 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
     miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
     ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
     galvoji, kiek dar tokių vardų slepia Lietuva?
-  citata_rodoma: "miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir"
+  citata_rodoma: |
+    miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

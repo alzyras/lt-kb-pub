@@ -399,7 +399,11 @@ media_all_json: |-
     klausančias jo suverenitetui ir būdamas valdovas savo vasalo
     Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
     Su tuo sutiko ir patsai Vladislovas ir jo žmona.
-  citata_rodoma: "Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­\nklausančias jo suverenitetui ir būdamas valdovas savo vasalo\nVladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.\nSu tuo sutiko ir patsai Vladislovas ir jo žmona."
+  citata_rodoma: |
+    Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
+    klausančias jo suverenitetui ir būdamas valdovas savo vasalo
+    Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
+    Su tuo sutiko ir patsai Vladislovas ir jo žmona.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -438,7 +442,14 @@ media_all_json: |-
     atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
     nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
     manimi gyventi taikiai“.
-  citata_rodoma: "Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę\nir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,\nbaisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop\nsugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis\natsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis\nnesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su\nmanimi gyventi taikiai“."
+  citata_rodoma: |
+    Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę
+    ir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,
+    baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop
+    sugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis
+    atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
+    nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
+    manimi gyventi taikiai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -503,7 +514,12 @@ media_all_json: |-
     tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
     dovanojęs Gdansko kunigaikštis Mščujus, ketinęs panaudoti cistersų misiją savo
     politiniams tikslams).
-  citata_rodoma: "Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys\nbūdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo\n\n  160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir\nLenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis."
+  citata_rodoma: |
+    Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
+    būdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
+
+      160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir
+    Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -522,7 +538,11 @@ media_all_json: |-
     padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
     suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: "broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė\njiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis\nir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties\npadedami, ateityje pajungsią savo valdžiai."
+  citata_rodoma: |
+    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
+    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
+    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
+    padedami, ateityje pajungsią savo valdžiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -579,7 +599,20 @@ media_all_json: |-
     liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
     tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
     prie Dnepro net savo pavadinimo pėdsakų.
-  citata_rodoma: "Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­\nsiai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­\nno turėjo ryšių su graikais, Juodosios jūros pakrančių\nkolonistais, vadinamais tiritais, vadintos Antae, o Nesto­\nro pavadintos tiverais, tiverėnais, be to, gausios gyven­\ntojų skaičiumi, išplėtė savo gyvenvietes prie Dnepro, ypač\njo vidurupyje; iš čia kilo įvairiai pavadintos slavų, po-\nlianų, suličių, severianų ir kitų gentys. Tie, kurie apsi­\ngyveno Chue, slaviškai vadinamo Kuje, miesto apylinkė­\nse, vadinosi kujavais1. Iš tiesų truputį vėliau jie iške­\nliavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­\ntėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami\nprie Dnepro net savo pavadinimo pėdsakų."
+  citata_rodoma: |
+    Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­
+    siai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­
+    no turėjo ryšių su graikais, Juodosios jūros pakrančių
+    kolonistais, vadinamais tiritais, vadintos Antae, o Nesto­
+    ro pavadintos tiverais, tiverėnais, be to, gausios gyven­
+    tojų skaičiumi, išplėtė savo gyvenvietes prie Dnepro, ypač
+    jo vidurupyje; iš čia kilo įvairiai pavadintos slavų, po-
+    lianų, suličių, severianų ir kitų gentys. Tie, kurie apsi­
+    gyveno Chue, slaviškai vadinamo Kuje, miesto apylinkė­
+    se, vadinosi kujavais1. Iš tiesų truputį vėliau jie iške­
+    liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
+    tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
+    prie Dnepro net savo pavadinimo pėdsakų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

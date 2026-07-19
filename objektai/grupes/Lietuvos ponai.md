@@ -100,7 +100,14 @@ Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaik�
     vosi su mėnesiu ir žinojo be galo daug žvaigždžių pavadinimų.
     Turėjo žirgą, vadintą Juodžiu (Jodž), su kuriuo pralenkdavo
     vėją.
-  citata_rodoma: "Tre­\nčioji paliko bevaikė. Lietuvos ponai 1316 metų sausio mėnesį\nLietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš\ntai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes\nŽemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­\nčiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto\nnaudai."
+  citata_rodoma: |
+    Tre­
+    čioji paliko bevaikė. Lietuvos ponai 1316 metų sausio mėnesį
+    Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
+    tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes
+    Žemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
+    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
+    naudai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

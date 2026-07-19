@@ -239,7 +239,10 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
     pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir
     jam suteikė templininkų įstatus.
-  citata_rodoma: "Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-\n  pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir\n  jam suteikė templininkų įstatus."
+  citata_rodoma: |
+    Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
+      pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir
+      jam suteikė templininkų įstatus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -258,7 +261,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     kariauta.
     Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-
     jos vokiečių valstybės valdovas buvo jis.
-  citata_rodoma: "Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-\n  jos vokiečių valstybės valdovas buvo jis."
+  citata_rodoma: |
+    Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-
+      jos vokiečių valstybės valdovas buvo jis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -292,7 +297,25 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     pakvietė Mozūrijos kunigaikš-
     tis Konradas ir padovanojo
     jiems Kulmo žemę.
-  citata_rodoma: "Jersikos karalius\n\n2 Dauguva\nŽiemgaliai ;\nSėliai\nX Saulė (Šiauliai) 1236 m.\n\nNes Lietuviai\n\nVilnius\n\n0\n\nJotvingiai aw MI Visvaldis buvo nugalėtas\nNY Rygos vyskupo Alberto.\nTeutonų ordiną padėti kar- Europos rytuose didelius\n\njauti su prūsais 1226-1228 m."
+  citata_rodoma: |
+    Jersikos karalius
+
+    2 Dauguva
+    Žiemgaliai ;
+    Sėliai
+    X Saulė (Šiauliai) 1236 m.
+
+    Nes Lietuviai
+
+    Vilnius
+
+    0
+
+    Jotvingiai aw MI Visvaldis buvo nugalėtas
+    NY Rygos vyskupo Alberto.
+    Teutonų ordiną padėti kar- Europos rytuose didelius
+
+    jauti su prūsais 1226-1228 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -317,7 +340,18 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     mas savo apeliaciją j anksčiau, t. y. 1253 metais, išleistą
     popiežiaus Inocento bulę, apaštališkasis legatas abatas
     Opicas atskyrė jį nuo bažnyčios2.
-  citata_rodoma: "Si\nvyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­\nsos pakrantėje ir Gardino link, kur dominikonai jau nuo\nseno turėjo savo misijas, o Rytų apeigų krikščioniškasis\ntikėjimas buvo gana paplitęs. To įrodymų matome popie­\nžiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­\nkupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi\nšalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­\ncija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,\nVarmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos\n(Lenkijos) vyskupijose."
+  citata_rodoma: |
+    Si
+    vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­
+    sos pakrantėje ir Gardino link, kur dominikonai jau nuo
+    seno turėjo savo misijas, o Rytų apeigų krikščioniškasis
+    tikėjimas buvo gana paplitęs. To įrodymų matome popie­
+    žiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­
+    kupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi
+    šalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­
+    cija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,
+    Varmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos
+    (Lenkijos) vyskupijose.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

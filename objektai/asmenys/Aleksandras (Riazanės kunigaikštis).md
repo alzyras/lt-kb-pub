@@ -87,7 +87,29 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
     mentais, kurie tebėra karališkajame
     archyve, antspauduotas, su kuriuo
     karalius iš kalėjimo paleistas].
-  citata_rodoma: "Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų \ndata, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, \ntos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­\nmą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-\n55\nStryjkowski, p. 466, Kromer, \nLib. XV. p. 247, byloja, kad tas Ria- \nzanės kunigaikščio autentiškas lai­\ndavimas už savo žentą Kaributą jo \nlaikais buvo karališkajame archyve: \nAtque hinc nata esse videtur sponsio \nAlexandri Resanensium Ducis pro Co- \nributho regi facta, et literarum monu­\nmentis, quae extant in archivo regio, \nsignata, cum eum rex e vinculis libe-\nrasset [Ir po to atrodo, kad yra Ria- \nzanės kunigaikščio Aleksandro pa­\ndarytas tinkamas laidavimas už \nkaralių Kaributą ir raštiškais doku­\nmentais, kurie tebėra karališkajame \narchyve, antspauduotas, su kuriuo \nkaralius iš kalėjimo paleistas]."
+  citata_rodoma: |
+    Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
+    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
+    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
+    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
+    55
+    Stryjkowski, p. 466, Kromer,
+    Lib. XV. p. 247, byloja, kad tas Ria-
+    zanės kunigaikščio autentiškas lai­
+    davimas už savo žentą Kaributą jo
+    laikais buvo karališkajame archyve:
+    Atque hinc nata esse videtur sponsio
+    Alexandri Resanensium Ducis pro Co-
+    ributho regi facta, et literarum monu­
+    mentis, quae extant in archivo regio,
+    signata, cum eum rex e vinculis libe-
+    rasset [Ir po to atrodo, kad yra Ria-
+    zanės kunigaikščio Aleksandro pa­
+    darytas tinkamas laidavimas už
+    karalių Kaributą ir raštiškais doku­
+    mentais, kurie tebėra karališkajame
+    archyve, antspauduotas, su kuriuo
+    karalius iš kalėjimo paleistas].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

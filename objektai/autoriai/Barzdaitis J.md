@@ -75,7 +75,10 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
     relikvijas ir ten atlaikė iškilmingas pamaldas. Nederėtų nutylėti ir to, kad dievo valia
     daug brolių laivų, pakrautų maisto bei kitų daiktų, reikalingų pilių statybai, plaukdami
     mariomis, paskendo, o drauge prigėrė 4 broliai ir keturi šimtai vyrų.
-  citata_rodoma: "564  Žr. dar SRP, 2, p. 456. Šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius\nprūsus laikytis senosios tėvų religijos  ir kovoti prieš Ordino agresiją (Barzdaitis  J.,\nKrikščionybės..., p. 20—21)."
+  citata_rodoma: |
+    564  Žr. dar SRP, 2, p. 456. Šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
+    prūsus laikytis senosios tėvų religijos  ir kovoti prieš Ordino agresiją (Barzdaitis  J.,
+    Krikščionybės..., p. 20—21).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -84,7 +84,11 @@ Nenurodyta
     komtūras užėmė Gardino priešpilį^8. Ordino kariuomenei pačias
     pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų
     priešpilių ir juos sunaikinti.
-  citata_rodoma: "Gal tame pat žygyje (1296 žiemą) Balgos\nkomtūras užėmė Gardino priešpilį^8. Ordino kariuomenei pačias\npagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų\npriešpilių ir juos sunaikinti."
+  citata_rodoma: |
+    Gal tame pat žygyje (1296 žiemą) Balgos
+    komtūras užėmė Gardino priešpilį^8. Ordino kariuomenei pačias
+    pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų
+    priešpilių ir juos sunaikinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

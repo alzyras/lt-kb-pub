@@ -192,7 +192,14 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     Kijevo atėmimas iš tiesioginės Aukso
     ordos valdžios buvo reikšmingas Lietuvai,
     jos tarptautinei situacijai.
-  citata_rodoma: "1331 m. šalia Kijevo kunigaikš-\nčio, Lietuvos vietininko, minimas ir totorių\nbaskakas.\n\nKijevo atėmimas iš tiesioginės Aukso\nordos valdžios buvo reikšmingas Lietuvai,\njos tarptautinei situacijai."
+  citata_rodoma: |
+    1331 m. šalia Kijevo kunigaikš-
+    čio, Lietuvos vietininko, minimas ir totorių
+    baskakas.
+
+    Kijevo atėmimas iš tiesioginės Aukso
+    ordos valdžios buvo reikšmingas Lietuvai,
+    jos tarptautinei situacijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +224,14 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     prieš 6871 (1363) m. sakoma, kad rudenį
     Algirdas „Mėlynuosius Vandenis ir Baltąją
     pakrantę nukariavo“.
-  citata_rodoma: "Podolės žemės tėvonys bei paveldėtojai“.\nPodolėje veikė jų paskirti atamanai, kurie\nnuo Podolės žemės duodavo duoklę at-\nvykstantiems Ordos baskakams.\n\nMėlynųjų Vandenų įvykių pagrindi-\nniai šaltiniai: žinios xv a."
+  citata_rodoma: |
+    Podolės žemės tėvonys bei paveldėtojai“.
+    Podolėje veikė jų paskirti atamanai, kurie
+    nuo Podolės žemės duodavo duoklę at-
+    vykstantiems Ordos baskakams.
+
+    Mėlynųjų Vandenų įvykių pagrindi-
+    niai šaltiniai: žinios xv a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

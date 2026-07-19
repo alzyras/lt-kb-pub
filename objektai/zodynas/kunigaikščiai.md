@@ -334,7 +334,13 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
     tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai
     tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais
     valdovais — kunigaikščiais.
-  citata_rodoma: "Bet šitoki\nsusijungę smulkūs vienetai, savo rikių vadovaujami, atlikdami\nbendrus žygius turėdavo, žinoma, ir bendrą vadą. Iš pradžių\ntokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai\ntarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais\nvaldovais — kunigaikščiais."
+  citata_rodoma: |
+    Bet šitoki
+    susijungę smulkūs vienetai, savo rikių vadovaujami, atlikdami
+    bendrus žygius turėdavo, žinoma, ir bendrą vadą. Iš pradžių
+    tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai
+    tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais
+    valdovais — kunigaikščiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

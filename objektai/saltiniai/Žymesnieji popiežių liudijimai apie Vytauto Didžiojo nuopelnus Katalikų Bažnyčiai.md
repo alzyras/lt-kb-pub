@@ -80,7 +80,11 @@ media_all_json: |-
     Didžiojo nuopelnus Katalikų Bažnyčiai_ , TK, nr. 7-8, 1929, 90-93 p. —
     Salmen, W.: _Zur Musikgeschichte am litauischen Hofe unter Gross­
     fürst Witold (1350-1430)_ , Musik des Ostens, I, Kassel 1962, 80-82 p.
-  citata_rodoma: "— _Žymesnieji popiežių liudijimai apie Vytauto\nDidžiojo nuopelnus Katalikų Bažnyčiai_ , TK, nr. 7-8, 1929, 90-93 p. —\nSalmen, W.: _Zur Musikgeschichte am litauischen Hofe unter Gross­\nfürst Witold (1350-1430)_ , Musik des Ostens, I, Kassel 1962, 80-82 p."
+  citata_rodoma: |
+    — _Žymesnieji popiežių liudijimai apie Vytauto
+    Didžiojo nuopelnus Katalikų Bažnyčiai_ , TK, nr. 7-8, 1929, 90-93 p. —
+    Salmen, W.: _Zur Musikgeschichte am litauischen Hofe unter Gross­
+    fürst Witold (1350-1430)_ , Musik des Ostens, I, Kassel 1962, 80-82 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

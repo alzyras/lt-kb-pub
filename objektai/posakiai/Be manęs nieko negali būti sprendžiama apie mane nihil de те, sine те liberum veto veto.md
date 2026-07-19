@@ -105,7 +105,9 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     teises su katalikais, ir t.t. Čartoriskių pradėtos reformos nuėjo
     vėjais, o blogiausia buvo tai, kad Rusijai buvo pripažinta
     teisė prižiūrėti Respublikos vidaus gyvenimą.
-  citata_rodoma: "Tuo būdu buvo paliktas nepaliestas _liberum veto,_ ga-\nrantuota, kad karaliai bus tik renkami, kad kitatikiai turės lygias"
+  citata_rodoma: |
+    Tuo būdu buvo paliktas nepaliestas _liberum veto,_ ga-
+    rantuota, kad karaliai bus tik renkami, kad kitatikiai turės lygias
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +128,14 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     vai, tai tuo tarpu _veto_ buvo
     paliktas. Užtat buvo priimtas
     seimo darbų statutas.
-  citata_rodoma: "Jie sva-\njojo net panaikinti _liberum\nveto,_ bet kadangi tam pasi-\npriešino Rusų ir Prūsų atsto-\nvai, tai tuo tarpu _veto_ buvo\npaliktas. Užtat buvo priimtas\nseimo darbų statutas."
+  citata_rodoma: |
+    Jie sva-
+    jojo net panaikinti _liberum
+    veto,_ bet kadangi tam pasi-
+    priešino Rusų ir Prūsų atsto-
+    vai, tai tuo tarpu _veto_ buvo
+    paliktas. Užtat buvo priimtas
+    seimo darbų statutas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +157,9 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
     kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
     m.
-  citata_rodoma: "Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė\nneklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet"
+  citata_rodoma: |
+    Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė
+    neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -168,7 +179,10 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
     _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
     pasipriešinimo teisė.
-  citata_rodoma: "visi savo laisvės pagrindu laikė\nšį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane\"\n_(nihil de те, sine те)._"
+  citata_rodoma: |
+    visi savo laisvės pagrindu laikė
+    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
+    _(nihil de те, sine те)._
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -189,7 +203,9 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     atstovai suvažiuodavo į seimą, žinoma, negalėdavo tarp savęs
     susikalbėti. Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti.
-  citata_rodoma: "Visada atsirasdavo, kas pasakydavo _„veto\",_ ir seimas\nturėdavo iširti."
+  citata_rodoma: |
+    Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
+    turėdavo iširti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

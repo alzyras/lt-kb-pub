@@ -86,7 +86,10 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     pasakyti apie tris ketvirtadalius II-os dalies ir beveik apie pusę III-os, pagrindinės dalies
     pradžios (iki karo su Sventopelku pabaigos). Tik vienas ketvirtadalis kitų tos dalies skyrelių
     (iki antrojo prūsų sukilimo pabaigos, t. y. iki 137 skyrelio) gali turėti tokį pagrindą.
-  citata_rodoma: "Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus\nbibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.\npradžios įvykiais129."
+  citata_rodoma: |
+    Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
+    bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.
+    pradžios įvykiais129.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

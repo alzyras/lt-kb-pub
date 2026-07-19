@@ -96,7 +96,12 @@ Nenurodyta
     nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
     tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai
     padaryti trukdė Vokiečių ordinas.
-  citata_rodoma: "Galima sakyti, kad \nŠvč. Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-\nnytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-\ntauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai \npadaryti trukdė Vokiečių ordinas."
+  citata_rodoma: |
+    Galima sakyti, kad
+    Švč. Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
+    nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
+    tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai
+    padaryti trukdė Vokiečių ordinas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

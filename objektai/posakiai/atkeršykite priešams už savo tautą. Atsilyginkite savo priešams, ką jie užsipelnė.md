@@ -66,7 +66,9 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
     kuriam suteikta malonė. Deja, tavyje nesirado nė kruopelytės malonės, nes tuo metu,
     kai magistras tave bardavo už tavo nusikaltimus, tu, jeigu būtum buvęs protingas, turėjai
     jį gerbti nelyginant savo tėvą.
-  citata_rodoma: "Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams\nuž savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”."
+  citata_rodoma: |
+    Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams
+    už savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

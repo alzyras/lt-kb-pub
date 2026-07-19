@@ -113,7 +113,15 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
     kiai šaltiniai kiek vėliau, 1330-1331 m. jau
     aiškiai mini „Gedimino brolį“ Teodorą,
     Lietuvos valdovo vietininką Kijeve.
-  citata_rodoma: "Rankoje raitininkas laiko pusantros rankos\nXIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją\n\nKijevo prijungimą tuo metu prie\nLietuvos patvirtina faktas, kad vienalai-\nkiai šaltiniai kiek vėliau, 1330-1331 m. jau\naiškiai mini „Gedimino brolį“ Teodorą,\nLietuvos valdovo vietininką Kijeve."
+  citata_rodoma: |
+    Rankoje raitininkas laiko pusantros rankos
+    XIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją
+
+    Kijevo prijungimą tuo metu prie
+    Lietuvos patvirtina faktas, kad vienalai-
+    kiai šaltiniai kiek vėliau, 1330-1331 m. jau
+    aiškiai mini „Gedimino brolį“ Teodorą,
+    Lietuvos valdovo vietininką Kijeve.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +139,10 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: "Po jo, 15 metų buvo caru jokiems dideliems\n  žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim\n  pasibaigė Kalitos dinastija."
+  citata_rodoma: |
+    Po jo, 15 metų buvo caru jokiems dideliems
+      žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
+      pasibaigė Kalitos dinastija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

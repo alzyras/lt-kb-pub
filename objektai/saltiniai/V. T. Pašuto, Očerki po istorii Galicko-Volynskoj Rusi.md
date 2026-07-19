@@ -87,7 +87,10 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
     Apaštalų Sostui. Mindaugo karališkos karūnos klausimas nebesutiko **
 
     (^99) **V. T. Pašuto,** **_Očerki po istorii Galicko-Volynskoj Rusi_** **, 1950, 259.
-  citata_rodoma: "Mindaugo karališkos karūnos klausimas nebesutiko **\n\n(^99) **V. T. Pašuto,** **_Očerki po istorii Galicko-Volynskoj Rusi_** **, 1950, 259."
+  citata_rodoma: |
+    Mindaugo karališkos karūnos klausimas nebesutiko **
+
+    (^99) **V. T. Pašuto,** **_Očerki po istorii Galicko-Volynskoj Rusi_** **, 1950, 259.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -103,7 +106,10 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
     — (”) PaRL. — Pašuto, V. T. : _Očerki
     po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii
     Litovskogo gosudarstva,_ Izvestija Akad.
-  citata_rodoma: "— Pašuto, V. T. : _Očerki\npo istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii\nLitovskogo gosudarstva,_ Izvestija Akad."
+  citata_rodoma: |
+    — Pašuto, V. T. : _Očerki
+    po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii
+    Litovskogo gosudarstva,_ Izvestija Akad.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -105,7 +105,12 @@ Nenurodyta
     kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
     su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
     kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
-  citata_rodoma: "1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-\ngiau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, \nkuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs \nsu krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri \nkildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės."
+  citata_rodoma: |
+    1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
+    giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
+    kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
+    su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
+    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

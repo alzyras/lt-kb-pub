@@ -72,7 +72,10 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
     Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m.
-  citata_rodoma: "Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-\ntorinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą pa-\ntylėti… E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas."
+  citata_rodoma: |
+    Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-
+    torinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą pa-
+    tylėti… E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

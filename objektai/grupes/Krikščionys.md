@@ -304,7 +304,15 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
         brangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo
         žalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,
         belikdami po savęs akmenį ir vandenį.
-  citata_rodoma: "Užvis ilgainiui, kad nedori krikščionys,\nužsidengę liekulu^508 savo tikybos, suokė^509 kardu juos krikštytis, vildamies, jog tuo pragumu\ntegalėsią juos nuvergti ir tarp savo gyvulių paskaityti, todėl toje gadynėj lietuvis, kalnėnas ar\nžemaitis, norėdamas dar liuosu mirti ar po seno gyventi, turėjo su ginklu gulti ir kelti, idant\nvisados būt rangiu^510 drausti ir ramdyti savo neprietelius, dykstančius išplėšti jo liuosybę, visų\nbrangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo\nžalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,\nbelikdami po savęs akmenį ir vandenį."
+  citata_rodoma: |
+    Užvis ilgainiui, kad nedori krikščionys,
+    užsidengę liekulu^508 savo tikybos, suokė^509 kardu juos krikštytis, vildamies, jog tuo pragumu
+    tegalėsią juos nuvergti ir tarp savo gyvulių paskaityti, todėl toje gadynėj lietuvis, kalnėnas ar
+    žemaitis, norėdamas dar liuosu mirti ar po seno gyventi, turėjo su ginklu gulti ir kelti, idant
+    visados būt rangiu^510 drausti ir ramdyti savo neprietelius, dykstančius išplėšti jo liuosybę, visų
+    brangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo
+    žalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,
+    belikdami po savęs akmenį ir vandenį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -365,7 +373,14 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
     Šiais dalykais ir rūpinosi
     Gediminas, kai jį užgriuvo
     naujos bėdos.
-  citata_rodoma: "Mat popiežius krikščionių žemėse buvo paskelbęs edik­\ntą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­\nvo šaukiami į šventąjį karą prieš stabmeldžius, todėl \nir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.\nSu šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai \nnusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių, \nAriogalos ir Klogėnų valsčius jis sulygino su žeme."
+  citata_rodoma: |
+    Mat popiežius krikščionių žemėse buvo paskelbęs edik­
+    tą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­
+    vo šaukiami į šventąjį karą prieš stabmeldžius, todėl
+    ir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.
+    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
+    nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
+    Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -389,7 +404,15 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
     lesni įvykiai: bemaž tuo pačiu metu abiem kryptimis
     patraukusi į žygį lietuvių kariuomenė kuo žiauriausiai
     siaubė krikščionių žemes.
-  citata_rodoma: "Teofrido\nvienuolyno abatas Bernardas. Gediminas vis dėlto ne­\nnorėjo nei krikščionybės priimti, nei sutarties sudaryti\nsu krikščionimis, todėl visai nutraukė pradėtas dery­\nbas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,\nkad valdovas esąs nusistatęs niekada neišsižadėti pro­\ntėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių\nkeisti tikėjimą."
+  citata_rodoma: |
+    Teofrido
+    vienuolyno abatas Bernardas. Gediminas vis dėlto ne­
+    norėjo nei krikščionybės priimti, nei sutarties sudaryti
+    su krikščionimis, todėl visai nutraukė pradėtas dery­
+    bas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,
+    kad valdovas esąs nusistatęs niekada neišsižadėti pro­
+    tėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių
+    keisti tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -419,7 +442,22 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
     šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
     pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
     lius.
-  citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
+  citata_rodoma: |
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

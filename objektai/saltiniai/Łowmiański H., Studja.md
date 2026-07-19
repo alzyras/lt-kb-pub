@@ -151,7 +151,11 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     Geschichte..., p. 497—498).
     Plačiau apie jotvingių, pagudėnų, bartų ir kitų Ordino užgrobtų vakarinių baltų žemių
     gyventojų emigraciją į Lietuvą žr. Kamiński A., Jaćwież, p. 67—71 ir kt.
-  citata_rodoma: "Vėliau jos funkcijas perėmė Rasytės pilis, statyta apie\nXIV a. vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102,\n665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg. Boetticher A., Die Bau..., 1, p.\n116—117; GAO, p. 144), vėliau — Rossitten, dab. Rybačis."
+  citata_rodoma: |
+    Vėliau jos funkcijas perėmė Rasytės pilis, statyta apie
+    XIV a. vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102,
+    665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg. Boetticher A., Die Bau..., 1, p.
+    116—117; GAO, p. 144), vėliau — Rossitten, dab. Rybačis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -209,7 +213,13 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
     Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
     nužudė ar išsivarė į nelaisvę beveik 200 krikščionių.
-  citata_rodoma: "Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių\nvyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš\n  553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,\nvardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.\nManoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,\nStudia..., 2, p. 16, 25; MGP, p. 54)."
+  citata_rodoma: |
+    Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
+    vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
+      553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,
+    vardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.
+    Manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,
+    Studia..., 2, p. 16, 25; MGP, p. 54).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

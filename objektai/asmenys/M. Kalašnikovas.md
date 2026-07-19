@@ -76,7 +76,18 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
 
     1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-
     tinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
-  citata_rodoma: "Statybininkų šalmai ir du-\njokaukės - gautos Vilniaus miesto tarybos | |\n\nLietuvos atsikurimas\n\n## Puslapis 258\n\nKALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI\n\n1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-\ntinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę."
+  citata_rodoma: |
+    Statybininkų šalmai ir du-
+    jokaukės - gautos Vilniaus miesto tarybos | |
+
+    Lietuvos atsikurimas
+
+    ## Puslapis 258
+
+    KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI
+
+    1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-
+    tinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

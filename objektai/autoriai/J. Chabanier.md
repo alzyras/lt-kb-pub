@@ -67,7 +67,10 @@ Chabanier : Les Tatars Lithuaniens.
     t. 13, 1938, 303-306p.) ; J.** Chabanier **:** **_Les Tatars Lithuaniens. Aperęus hi-
     storiques et militaires,_** **Revue Historique de l’Armee, Paris 1960, nr. 3, 16 p.**
     (^18) **KolLJ, 67 p. 2 išn.
-  citata_rodoma: ") ; J.** Chabanier **:** **_Les Tatars Lithuaniens. Aperęus hi-\nstoriques et militaires,_** **Revue Historique de l’Armee, Paris 1960, nr. 3, 16 p.**\n(^18) **KolLJ, 67 p."
+  citata_rodoma: |
+    ) ; J.** Chabanier **:** **_Les Tatars Lithuaniens. Aperęus hi-
+    storiques et militaires,_** **Revue Historique de l’Armee, Paris 1960, nr. 3, 16 p.**
+    (^18) **KolLJ, 67 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

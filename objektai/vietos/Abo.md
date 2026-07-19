@@ -92,7 +92,11 @@ Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas 
     kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
     kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
     mitologiją.
-  citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto."
+  citata_rodoma: |
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

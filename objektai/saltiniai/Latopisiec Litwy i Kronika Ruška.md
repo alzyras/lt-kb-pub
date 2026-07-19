@@ -177,7 +177,12 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     Kronika Ruška, išleista Danilovi-
     č i a u s, įdėta Latopisiec Litewski, p.
     212.
-  citata_rodoma: "137- \n138. Panaši užuomina apie šį Glebą \nKronika Ruška, išleista Danilovi- \nč i a u s, įdėta Latopisiec Litewski, p. \n212."
+  citata_rodoma: |
+    137-
+    138. Panaši užuomina apie šį Glebą
+    Kronika Ruška, išleista Danilovi-
+    č i a u s, įdėta Latopisiec Litewski, p.
+    212.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -200,7 +205,13 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     tas mūšis vykęs prie Vilijos upės: ties
     Horodoku, vietovėje, vadinamoje
     Weyiszczuszki.
-  citata_rodoma: "25\nLatopisiec Litewski, leidžiamas p. D a- \nn i 1  o v i č i a u s, 1.45 pasakoja, kad \ntas mūšis vykęs prie Vilijos upės: ties \nHorodoku, vietovėje, vadinamoje \nWeyiszczuszki."
+  citata_rodoma: |
+    25
+    Latopisiec Litewski, leidžiamas p. D a-
+    n i 1  o v i č i a u s, 1.45 pasakoja, kad
+    tas mūšis vykęs prie Vilijos upės: ties
+    Horodoku, vietovėje, vadinamoje
+    Weyiszczuszki.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

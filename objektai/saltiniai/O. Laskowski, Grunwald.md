@@ -70,7 +70,11 @@ media_all_json: |-
     O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
     Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­
     ne, t. 25, zesz.
-  citata_rodoma: ": _Wojna 1410,_\nRocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,\nO. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —\nMajewski, W."
+  citata_rodoma: |
+    : _Wojna 1410,_
+    Rocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
+    O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
+    Majewski, W.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

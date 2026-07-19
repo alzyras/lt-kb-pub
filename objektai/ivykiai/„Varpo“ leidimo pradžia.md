@@ -87,7 +87,12 @@ Nenurodyta
     rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
     rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
     nys taps Lietuvos himnu.
-  citata_rodoma: "Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka \n(1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į \nrankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka \nrašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-\nnys taps Lietuvos himnu."
+  citata_rodoma: |
+    Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
+    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
+    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
+    rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
+    nys taps Lietuvos himnu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

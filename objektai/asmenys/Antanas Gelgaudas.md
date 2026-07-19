@@ -106,7 +106,10 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
     guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
     vadovavo generolas Antanas Gelgaudas.
-  citata_rodoma: "1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-\nguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai\nvadovavo generolas Antanas Gelgaudas."
+  citata_rodoma: |
+    1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
+    guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
+    vadovavo generolas Antanas Gelgaudas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -149,7 +152,14 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     visur būti pirmas. Artilerijos sviedinys
     nukovė jo žirgą. Daugeliui atrodė, kad jis
     ieškojo mirties.
-  citata_rodoma: "pirmoji pusė k\n\nGen. A. Gelgaudas, palikęs štabą, pats\ndalyvavo mūšyje. Jis nesislėpė, stengėsi\nvisur būti pirmas. Artilerijos sviedinys\nnukovė jo žirgą. Daugeliui atrodė, kad jis\nieškojo mirties."
+  citata_rodoma: |
+    pirmoji pusė k
+
+    Gen. A. Gelgaudas, palikęs štabą, pats
+    dalyvavo mūšyje. Jis nesislėpė, stengėsi
+    visur būti pirmas. Artilerijos sviedinys
+    nukovė jo žirgą. Daugeliui atrodė, kad jis
+    ieškojo mirties.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

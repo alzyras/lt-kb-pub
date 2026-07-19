@@ -109,7 +109,28 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
     Romoje. Popiežiaus žodžiai paskatino susiruošti į ko­
     vą ne tik eilinius karius, bet ir pačius valdovus su
     didžiulėmis savo žemių kariuomenėmis.
-  citata_rodoma: "Pats Klemensas\nv a ld o v ų  ž y g is  p rie š\nVI, Romos popiežius, laišku\nlie tu v iu s\npakvietė\nį\nkarą\nįvairius\nkrikščioniškųjų šalių valdo-\n2 3 2\n\n## Puslapis 231\n\nvus. Traukiantiems į kovą prieš lietuvius ir žemaičius\njis žadėjo tas dieviškas malones, kurių paprastai susi­\nlaukia maldininkai, kurie, davę įžadus, pamaldžiai ap­\nlanko Kristaus karstą Jeruzalėje ar šv. Jokūbo Kom-\nposteloje bei nusigauna prie apaštališkųjų -slenksčių\nRomoje. Popiežiaus žodžiai paskatino susiruošti į ko­\nvą ne tik eilinius karius, bet ir pačius valdovus su\ndidžiulėmis savo žemių kariuomenėmis."
+  citata_rodoma: |
+    Pats Klemensas
+    v a ld o v ų  ž y g is  p rie š
+    VI, Romos popiežius, laišku
+    lie tu v iu s
+    pakvietė
+    į
+    karą
+    įvairius
+    krikščioniškųjų šalių valdo-
+    2 3 2
+
+    ## Puslapis 231
+
+    vus. Traukiantiems į kovą prieš lietuvius ir žemaičius
+    jis žadėjo tas dieviškas malones, kurių paprastai susi­
+    laukia maldininkai, kurie, davę įžadus, pamaldžiai ap­
+    lanko Kristaus karstą Jeruzalėje ar šv. Jokūbo Kom-
+    posteloje bei nusigauna prie apaštališkųjų -slenksčių
+    Romoje. Popiežiaus žodžiai paskatino susiruošti į ko­
+    vą ne tik eilinius karius, bet ir pačius valdovus su
+    didžiulėmis savo žemių kariuomenėmis.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

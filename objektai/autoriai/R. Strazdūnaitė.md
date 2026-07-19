@@ -67,7 +67,10 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
     diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
     (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117.
-  citata_rodoma: "R. Strazdūnaitė:\n_Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-\nMD, t. 6, 1959, 155-167 p. ; A."
+  citata_rodoma: |
+    R. Strazdūnaitė:
+    _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-
+    MD, t. 6, 1959, 155-167 p. ; A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

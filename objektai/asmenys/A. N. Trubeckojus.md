@@ -74,7 +74,22 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
     "bei kitus miestus ir priartėjo prie Senojo
     Bychovo. Tuo pat metu priešiškai nusi-
     teikusi Švedija lūkuriavo (su ja Lenkija
-  citata_rodoma: "Rusų karvedys V. B. Seremetjevas (apie\n\n15000 karių) užėmė Polocką ir Dysną,\n\nA. N. Trubeckojaus kariuomenė (apie\n\n15000 karių) užėmė Mstislavlį (liepos 22 d.\n\nužėmus miestą visi miestiečiai buvo iš-\n\nžudyti) ir žygiavo į\n\nLietuvos gilumą,\n\nMinsko link."
+  citata_rodoma: |
+    Rusų karvedys V. B. Seremetjevas (apie
+
+    15000 karių) užėmė Polocką ir Dysną,
+
+    A. N. Trubeckojaus kariuomenė (apie
+
+    15000 karių) užėmė Mstislavlį (liepos 22 d.
+
+    užėmus miestą visi miestiečiai buvo iš-
+
+    žudyti) ir žygiavo į
+
+    Lietuvos gilumą,
+
+    Minsko link.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

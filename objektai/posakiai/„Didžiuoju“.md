@@ -87,7 +87,13 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
     džiuoju. Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
     vietininkus ir suėmė realią valdžią LDK į savo rankas.
-  citata_rodoma: "Vytauto laikų permainos\nVytauto permainų reikšmę suvokė jau amžininkai, jų kom-\nplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Di-\ndžiuoju. Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-\nkino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė\nvietininkus ir suėmė realią valdžią LDK į savo rankas."
+  citata_rodoma: |
+    Vytauto laikų permainos
+    Vytauto permainų reikšmę suvokė jau amžininkai, jų kom-
+    plimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Di-
+    džiuoju. Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
+    kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
+    vietininkus ir suėmė realią valdžią LDK į savo rankas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

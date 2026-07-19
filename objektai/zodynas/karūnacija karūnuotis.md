@@ -102,7 +102,10 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
     jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
     atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
-  citata_rodoma: "Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-\njos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus\natsiunčiamos žadėtosios karūnos su karūnacijos dokumentais."
+  citata_rodoma: |
+    Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
+    jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
+    atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +125,10 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     pakėlė didžiausią triukšmą. Vytautas dabar nebepabūgo sueiti su
     jais į atvirą kovą ir nė neketino išsižadėti karūnos; tačiau jo
     pastangas pakirto mirtis.
-  citata_rodoma: "Vytautas dabar nebepabūgo sueiti su\njais į atvirą kovą ir nė neketino išsižadėti karūnos; tačiau jo\npastangas pakirto mirtis."
+  citata_rodoma: |
+    Vytautas dabar nebepabūgo sueiti su
+    jais į atvirą kovą ir nė neketino išsižadėti karūnos; tačiau jo
+    pastangas pakirto mirtis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -141,7 +147,9 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-
     vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
     Olesnickis.
-  citata_rodoma: "Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-\nsiųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium."
+  citata_rodoma: |
+    Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
+    siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

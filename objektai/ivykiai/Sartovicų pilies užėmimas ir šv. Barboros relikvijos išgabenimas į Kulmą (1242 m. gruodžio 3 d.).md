@@ -188,7 +188,11 @@ Nenurodyta
     tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
     palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
     Į tai broliai atsakė: „Kas tau šitai pasakė?
-  citata_rodoma: "Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,\ntarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros\npalankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.\n   Į tai broliai atsakė: „Kas tau šitai pasakė?"
+  citata_rodoma: |
+    Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
+    tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
+    palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
+       Į tai broliai atsakė: „Kas tau šitai pasakė?
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -225,7 +229,10 @@ Nenurodyta
     273  Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą
     pilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP,
     5, p. 161; PKD, p. 42—43).
-  citata_rodoma: "273 Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą\npilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP,\n5, p. 161; PKD, p. 42—43)."
+  citata_rodoma: |
+    273 Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą
+    pilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP,
+    5, p. 161; PKD, p. 42—43).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

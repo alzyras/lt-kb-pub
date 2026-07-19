@@ -69,7 +69,8 @@ Dusburgietis teigia, kad tautavičius A.
   citata_originali: |
     Г уревич Ф. Д. Древности белорусского Понеманья. — М.— Л., 1962.
     Г уревич Ф. Д. Древний Новогрудок.
-  citata_rodoma: "Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22."
+  citata_rodoma: |
+    Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

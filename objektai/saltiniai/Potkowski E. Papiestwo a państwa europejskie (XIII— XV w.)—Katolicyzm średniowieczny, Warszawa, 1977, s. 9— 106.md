@@ -78,7 +78,9 @@ Dusburgietis teigia, kad potkowski E.
     Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
     Toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań—
     Toruń, 1983.
-  citata_rodoma: "Potkowski  E.  Papiestwo  a  państwa  europejskie  (XIII—  XV  w.)—Katolicyzm\nśredniowieczny, Warszawa, 1977, s. 9— 106."
+  citata_rodoma: |
+    Potkowski  E.  Papiestwo  a  państwa  europejskie  (XIII—  XV  w.)—Katolicyzm
+    średniowieczny, Warszawa, 1977, s. 9— 106.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

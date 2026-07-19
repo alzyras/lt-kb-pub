@@ -141,7 +141,11 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: "Mindaugo laikais\nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+  citata_rodoma: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -209,7 +213,14 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
     vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
     pavaldžiu karališkajai savo valdžiai16.
-  citata_rodoma: "Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­\nčiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo\ntikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­\njusius bruzdėjimus, pargrįžo į Vilnių. Čia, krašto reikalus\nįstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­\nvo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,\npavaldžiu karališkajai savo valdžiai16."
+  citata_rodoma: |
+    Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
+    čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
+    tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­
+    jusius bruzdėjimus, pargrįžo į Vilnių. Čia, krašto reikalus
+    įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
+    vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
+    pavaldžiu karališkajai savo valdžiai16.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

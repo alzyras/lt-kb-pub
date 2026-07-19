@@ -93,7 +93,17 @@ Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas ir Vilniaus gub
     ir kai kurių vokiečių rašytojų tyrinėjimais, be to, neuž-1
     miršote ir Šlėcerio, kuris pripažįsta, jog lietuviai yra ypa­
     tinga gentis.
-  citata_rodoma: "Korespondentas — Lydos bajorų mokyklos\nvyresnysis mokytojas, Vilniaus gubernijos statistikos ko­\nmiteto narys Petras Lavrovas. Jo laiškai sako, jog lietu­\nvių kilmės klausimas dar ir penktajame dešimtmetyje jau­\ndino protus, o T. Narbuto „Istorija“ buvo pagrindinis\nautoritetas ir diskusijų objektas. Štai šio laiško ištrauka:\n„Mane labai domina vienas straipsnis: tyrinėjimas apie\nlietuvių tautos kilmę, vardą ir kalbą, kurio rankraštį ti­\nkiuosi greitu laiku atsiųsti Tamstai, kad galėtum perskai­\ntyti ir kritiškai įvertinti."
+  citata_rodoma: |
+    Korespondentas — Lydos bajorų mokyklos
+    vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­
+    miteto narys Petras Lavrovas. Jo laiškai sako, jog lietu­
+    vių kilmės klausimas dar ir penktajame dešimtmetyje jau­
+    dino protus, o T. Narbuto „Istorija“ buvo pagrindinis
+    autoritetas ir diskusijų objektas. Štai šio laiško ištrauka:
+    „Mane labai domina vienas straipsnis: tyrinėjimas apie
+    lietuvių tautos kilmę, vardą ir kalbą, kurio rankraštį ti­
+    kiuosi greitu laiku atsiųsti Tamstai, kad galėtum perskai­
+    tyti ir kritiškai įvertinti.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

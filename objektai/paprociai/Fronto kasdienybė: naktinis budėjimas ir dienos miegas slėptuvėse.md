@@ -99,7 +99,9 @@ Nenurodyta
     ninkų puolimą.
     „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
     jome, o dieną slėptuvėse miegojome.
-  citata_rodoma: "„Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-\njome, o dieną slėptuvėse miegojome."
+  citata_rodoma: |
+    „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
+    jome, o dieną slėptuvėse miegojome.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

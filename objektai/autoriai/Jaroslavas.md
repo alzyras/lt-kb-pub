@@ -84,7 +84,14 @@ Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausi
     liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
     iki 24 metų prieš Kristaus gimimą. Tiems topografams
     vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
-  citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
+  citata_rodoma: |
+    Tačiau Tidemanas rašo, kad
+    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
+    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
+    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
+    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
+    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
+    mis2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

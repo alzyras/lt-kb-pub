@@ -71,7 +71,8 @@ media_all_json: |-
     valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
-  citata_rodoma: "valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo"
+  citata_rodoma: |
+    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

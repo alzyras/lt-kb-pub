@@ -237,7 +237,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
     kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
     tymą ir nepriklausomojo gyvenimo laikotarpį.
-  citata_rodoma: "|"
+  citata_rodoma: |
+    |
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -258,7 +259,11 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
     rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
     Ivinskis).
-  citata_rodoma: "ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­\nkiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus\nrygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.\nIvinskis)."
+  citata_rodoma: |
+    ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
+    kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
+    rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
+    Ivinskis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -276,7 +281,10 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     bibliografijos klausimai, IV t., 1965, 155-206 p. ; Z. Ivinskis :** **_Prof. K. Jab­
     lonskio atminimui (1892-1960). Jo įnašas Lietuvos istorijos mokslui,_** **Aidai,
     1961, 1 nr., 18-22 p.;** **_K. Jablonskis_** **, MLTE, I, 659-660 p.**
-  citata_rodoma: "Z. Ivinskis :** **_Prof. K. Jab­\nlonskio atminimui (1892-1960). Jo įnašas Lietuvos istorijos mokslui,_** **Aidai,\n1961, 1 nr., 18-22 p"
+  citata_rodoma: |
+    Z. Ivinskis :** **_Prof. K. Jab­
+    lonskio atminimui (1892-1960). Jo įnašas Lietuvos istorijos mokslui,_** **Aidai,
+    1961, 1 nr., 18-22 p
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -298,7 +306,11 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     55-65 p. — Ivinskis, Z. : _Lietuvos ir kitų baltų praeitis sovietų aiškinime,_
     Į Laisvę, 1957, m. 12, 13-19 p. (žr. plačiau Europos Lietuvis, 1957,
     nr. 14-16, 24-33).
-  citata_rodoma: "Ivinskis, Z. (Bražėnas) : _Lietuvių tautos istorijos periodizacijos met-\nmens,_ Tremtinių Mokykla, 1946 (Weilheim-Teck, Vokietija), nr. 3-4,\n55-65 p. — Ivinskis, Z. : _Lietuvos ir kitų baltų praeitis sovietų aiškinime,_\nĮ Laisvę, 1957, m. 12, 13-19 p."
+  citata_rodoma: |
+    Ivinskis, Z. (Bražėnas) : _Lietuvių tautos istorijos periodizacijos met-
+    mens,_ Tremtinių Mokykla, 1946 (Weilheim-Teck, Vokietija), nr. 3-4,
+    55-65 p. — Ivinskis, Z. : _Lietuvos ir kitų baltų praeitis sovietų aiškinime,_
+    Į Laisvę, 1957, m. 12, 13-19 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -317,7 +329,10 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     rašytų veikalų mes dar visiškai neturime. Todėl jaunieji
     istorikai, suprasdami tą didelį trūkumą ir tautos savigarbą, Z.
     Ivinskio pakviesti susirinkome pasitarti.
-  citata_rodoma: "Todėl jaunieji\nistorikai, suprasdami tą didelį trūkumą ir tautos savigarbą, Z.\nIvinskio pakviesti susirinkome pasitarti."
+  citata_rodoma: |
+    Todėl jaunieji
+    istorikai, suprasdami tą didelį trūkumą ir tautos savigarbą, Z.
+    Ivinskio pakviesti susirinkome pasitarti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -339,7 +354,16 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     jungtines žemaičių ir paties Lietuvos val-
     dovo karaliaus Mindaugo karines pajėgas,
     nukreiptas prieš Ordiną.
-  citata_rodoma: "Dusburgietis pažymi, kad „keturi\ntūkstančiai lietuvių“ niokojo Kuršo žemę,\n0 po to stojo į mūšį. Pasak Z. Ivinskio,\nkadangi tai ne lokaliniai, o plataus masto\nveiksmai, vykę Lietuvos vakaruose, tai\n4000 lietuvių pajėgas reikia suprasti kaip\njungtines žemaičių ir paties Lietuvos val-\ndovo karaliaus Mindaugo karines pajėgas,\nnukreiptas prieš Ordiną."
+  citata_rodoma: |
+    Dusburgietis pažymi, kad „keturi
+    tūkstančiai lietuvių“ niokojo Kuršo žemę,
+    0 po to stojo į mūšį. Pasak Z. Ivinskio,
+    kadangi tai ne lokaliniai, o plataus masto
+    veiksmai, vykę Lietuvos vakaruose, tai
+    4000 lietuvių pajėgas reikia suprasti kaip
+    jungtines žemaičių ir paties Lietuvos val-
+    dovo karaliaus Mindaugo karines pajėgas,
+    nukreiptas prieš Ordiną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -358,7 +382,12 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 
     (^19) **Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der
     Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p.**
-  citata_rodoma: "karas baigėsi « amžinąja taika » didžiojo Lietuvos kuni­\ngaikščio Aleksandro Kazimieraičio moteryste su Jono III-jo dukra\n\n(^19) **Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der\nOstseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p."
+  citata_rodoma: |
+    karas baigėsi « amžinąja taika » didžiojo Lietuvos kuni­
+    gaikščio Aleksandro Kazimieraičio moteryste su Jono III-jo dukra
+
+    (^19) **Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der
+    Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

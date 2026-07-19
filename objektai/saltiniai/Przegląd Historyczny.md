@@ -74,7 +74,10 @@ PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas žurn.
     PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas
     žurn.
     PHW = Przegląd Historyczno - Wojskowy.
-  citata_rodoma: "PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas\nžurn.\nPHW = Przegląd Historyczno - Wojskowy."
+  citata_rodoma: |
+    PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas
+    žurn.
+    PHW = Przegląd Historyczno - Wojskowy.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

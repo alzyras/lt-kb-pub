@@ -499,7 +499,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     ir Skirgailai grįžti į Lietuvą.
     Su Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę
     Krėvės akto, matyt, turėjo laisvas rankas.
-  citata_rodoma: "Su Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę\nKrėvės akto, matyt, turėjo laisvas rankas."
+  citata_rodoma: |
+    Su Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę
+    Krėvės akto, matyt, turėjo laisvas rankas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -520,7 +522,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     kunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą
     smulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­
     čiai, kurių giminių pradžia nyksta amžių glūdumose.
-  citata_rodoma: "Vienos tų kunigaikštijų buvo valdomos rusų kilmės\nkunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą\nsmulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­\nčiai, kurių giminių pradžia nyksta amžių glūdumose."
+  citata_rodoma: |
+    Vienos tų kunigaikštijų buvo valdomos rusų kilmės
+    kunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą
+    smulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­
+    čiai, kurių giminių pradžia nyksta amžių glūdumose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -538,7 +544,10 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­
     čioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­
     remonijų.
-  citata_rodoma: "Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­\nčioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­\nremonijų."
+  citata_rodoma: |
+    Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­
+    čioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­
+    remonijų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -579,7 +588,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
     tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
     Tuo būdu abi valstybės galėjo nueiti visiškai skirtingais keliais.
-  citata_rodoma: "Tačiau, kai paskutinysis tos dinastijos valdovas,\nZigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,\nabi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-\ndovus, kurie galėjo būti vienas kitam net priešingi — iš skir-\ntingų kraštų galėjo atsinešti ir skirtingus politinius siekimus."
+  citata_rodoma: |
+    Tačiau, kai paskutinysis tos dinastijos valdovas,
+    Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,
+    abi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-
+    dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
+    tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -598,7 +612,10 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
     nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
     vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
-  citata_rodoma: "Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-\nnas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-\nvas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus."
+  citata_rodoma: |
+    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
+    nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
+    vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -617,7 +634,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     — Karijoto vaikai. Netoliese nuo ten, būtent, Zaslavlyje (tarp
     Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
     Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
-  citata_rodoma: "Dalimis buvo aprūpinti ir visi kiti Gediminaičiai. Senojoje\nTurovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo\nbrolio Narimanto sūnus. O Podolėje įsigyveno kito Gediminaičio\n— Karijoto vaikai. Netoliese nuo ten, būtent, Zaslavlyje (tarp\nVolinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su\nLenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas."
+  citata_rodoma: |
+    Dalimis buvo aprūpinti ir visi kiti Gediminaičiai. Senojoje
+    Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo
+    brolio Narimanto sūnus. O Podolėje įsigyveno kito Gediminaičio
+    — Karijoto vaikai. Netoliese nuo ten, būtent, Zaslavlyje (tarp
+    Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
+    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -639,7 +662,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     čiai, kurių giminių pradžia nyksta amžių glūdumose. Visų tų
     kunigaikščių priklausomybė didžiajam kunigaikščiui buvo nedi­
     delė.
-  citata_rodoma: "Vienos tų kunigaikštijų buvo valdomos rusų kilmės\nkunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą\nsmulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­\nčiai, kurių giminių pradžia nyksta amžių glūdumose. Visų tų\nkunigaikščių priklausomybė didžiajam kunigaikščiui buvo nedi­\ndelė."
+  citata_rodoma: |
+    Vienos tų kunigaikštijų buvo valdomos rusų kilmės
+    kunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą
+    smulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­
+    čiai, kurių giminių pradžia nyksta amžių glūdumose. Visų tų
+    kunigaikščių priklausomybė didžiajam kunigaikščiui buvo nedi­
+    delė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -705,7 +734,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
     nacijos“ ponų sluoksnį.
-  citata_rodoma: "Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono \nir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai \nvesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių \ndinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių \nnacijos“ ponų sluoksnį."
+  citata_rodoma: |
+    Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -724,7 +758,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
     nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
     vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
-  citata_rodoma: "XIII a. pa-\nbaigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-\ndiminaičių dinastija. \nDinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-\nnas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-\nvas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus."
+  citata_rodoma: |
+    XIII a. pa-
+    baigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-
+    diminaičių dinastija.
+    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
+    nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
+    vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -743,7 +783,14 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
     nacijos“ ponų sluoksnį.
-  citata_rodoma: "Taigi politinės tautos genezės jau galima ieško-\nti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti \niš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono \nir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai \nvesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių \ndinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių \nnacijos“ ponų sluoksnį."
+  citata_rodoma: |
+    Taigi politinės tautos genezės jau galima ieško-
+    ti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti
+    iš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -761,7 +808,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     ir Skirgailai grįžti į Lietuvą.
     Su Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę
     Krėvės akto, matyt, turėjo laisvas rankas.
-  citata_rodoma: "Tas lenkų reikalavimas buvo patenkintas. Bet nauji\nįvykiai, kaip toliau pamatysim, privertė lenkus leisti Vytautui\nir Skirgailai grįžti į Lietuvą.\nSu Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę\nKrėvės akto, matyt, turėjo laisvas rankas."
+  citata_rodoma: |
+    Tas lenkų reikalavimas buvo patenkintas. Bet nauji
+    įvykiai, kaip toliau pamatysim, privertė lenkus leisti Vytautui
+    ir Skirgailai grįžti į Lietuvą.
+    Su Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę
+    Krėvės akto, matyt, turėjo laisvas rankas.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -781,7 +833,14 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     kunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą
     smulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­
     čiai, kurių giminių pradžia nyksta amžių glūdumose.
-  citata_rodoma: "Visas tas valstybėles vienijo\ntik priklausomybė didžiajam kunigaikščiui. Šiaip kiekviena jų\ngyveno savo gyvenimą ir nebuvo suglausta į vieną glaudų politiš­\nką vienetą. Vienos tų kunigaikštijų buvo valdomos rusų kilmės\nkunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą\nsmulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­\nčiai, kurių giminių pradžia nyksta amžių glūdumose."
+  citata_rodoma: |
+    Visas tas valstybėles vienijo
+    tik priklausomybė didžiajam kunigaikščiui. Šiaip kiekviena jų
+    gyveno savo gyvenimą ir nebuvo suglausta į vieną glaudų politiš­
+    ką vienetą. Vienos tų kunigaikštijų buvo valdomos rusų kilmės
+    kunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą
+    smulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­
+    čiai, kurių giminių pradžia nyksta amžių glūdumose.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -802,7 +861,15 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
     dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
     jime) neramųjį Jogailos brolį Švitrigailą^2 ).
-  citata_rodoma: "Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­\nčioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­\nremonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą\nSievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų\nPodolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­\nštį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­\ndimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­\njime) neramųjį Jogailos brolį Švitrigailą^2 )."
+  citata_rodoma: |
+    Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­
+    čioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­
+    remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą
+    Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų
+    Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­
+    štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
+    dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
+    jime) neramųjį Jogailos brolį Švitrigailą^2 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -822,7 +889,15 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
     šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
     ninkų, audėjų, auklių, inžinierių.
-  citata_rodoma: "Okupacijos ir aneksijos, tremtys, genocidai ir \nHolokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-\nkusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje, \nJAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių \ndinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos \nmonarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių \nšeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-\nninkų, audėjų, auklių, inžinierių."
+  citata_rodoma: |
+    Okupacijos ir aneksijos, tremtys, genocidai ir
+    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
+    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
+    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
+    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
+    ninkų, audėjų, auklių, inžinierių.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -841,7 +916,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     kunigaikštijas. Gediminaičiai beliko nepajudinti tik Mstislavly
     ir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­
     štijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 ).
-  citata_rodoma: "Tuo būdu Vytautas panaikino stipriąsias Polocko, Vitebsko,\nSmolensko, Sievero, Naugardėlio, Kijevo, Volynijos ir Podolijos\nkunigaikštijas. Gediminaičiai beliko nepajudinti tik Mstislavly\nir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­\nštijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 )."
+  citata_rodoma: |
+    Tuo būdu Vytautas panaikino stipriąsias Polocko, Vitebsko,
+    Smolensko, Sievero, Naugardėlio, Kijevo, Volynijos ir Podolijos
+    kunigaikštijas. Gediminaičiai beliko nepajudinti tik Mstislavly
+    ir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­
+    štijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -861,7 +941,15 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     gieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per
     visą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors
     būdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą.
-  citata_rodoma: "1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio\nmirties ant peilio ašmens vartėsi klausimas, ar Lietuva galutinai\nneapsispręs už stačiatikių tikėjimą. Kai Gediminaičiai buvo išsi­\ndalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo\nkunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­\ngieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per\nvisą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors\nbūdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą."
+  citata_rodoma: |
+    1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio
+    mirties ant peilio ašmens vartėsi klausimas, ar Lietuva galutinai
+    neapsispręs už stačiatikių tikėjimą. Kai Gediminaičiai buvo išsi­
+    dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo
+    kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­
+    gieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per
+    visą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors
+    būdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -886,7 +974,19 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     abi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-
     dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
     tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
-  citata_rodoma: "Tuo būdu,\nbe jokių sutarčių, tarp abiejų valstybių faktiškai buvo perso-\nnalinė unija.\n\nTaip tad buvo, kol buvo neišmirusi Gediminaičių dinas-\ntija — Jogailos palikuonys, kurių teisės sostams buvo pripa-\nžįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėja-\nmojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas,\nZigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,\nabi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-\ndovus, kurie galėjo būti vienas kitam net priešingi — iš skir-\ntingų kraštų galėjo atsinešti ir skirtingus politinius siekimus."
+  citata_rodoma: |
+    Tuo būdu,
+    be jokių sutarčių, tarp abiejų valstybių faktiškai buvo perso-
+    nalinė unija.
+
+    Taip tad buvo, kol buvo neišmirusi Gediminaičių dinas-
+    tija — Jogailos palikuonys, kurių teisės sostams buvo pripa-
+    žįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėja-
+    mojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas,
+    Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,
+    abi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-
+    dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
+    tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -904,7 +1004,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­
     čioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­
     remonijų.
-  citata_rodoma: "Perspektyvos sukliūti į griežtas jo rankas jų visiškai neviliojo.\nDaugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­\nčioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­\nremonijų."
+  citata_rodoma: |
+    Perspektyvos sukliūti į griežtas jo rankas jų visiškai neviliojo.
+    Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­
+    čioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­
+    remonijų.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -925,7 +1029,16 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
     tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
     Tuo būdu abi valstybės galėjo nueiti visiškai skirtingais keliais.
-  citata_rodoma: "Taip tad buvo, kol buvo neišmirusi Gediminaičių dinas-\ntija — Jogailos palikuonys, kurių teisės sostams buvo pripa-\nžįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėja-\nmojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas,\nZigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,\nabi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-\ndovus, kurie galėjo būti vienas kitam net priešingi — iš skir-\ntingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.\nTuo būdu abi valstybės galėjo nueiti visiškai skirtingais keliais."
+  citata_rodoma: |
+    Taip tad buvo, kol buvo neišmirusi Gediminaičių dinas-
+    tija — Jogailos palikuonys, kurių teisės sostams buvo pripa-
+    žįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėja-
+    mojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas,
+    Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,
+    abi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-
+    dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
+    tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
+    Tuo būdu abi valstybės galėjo nueiti visiškai skirtingais keliais.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
 
@@ -949,7 +1062,19 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     valios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
     ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
     pusiau^2.
-  citata_rodoma: "Bet Kęstutis vis dėlto gavo didesnes teises negu kiti\njo broliai ir brolėnai. Jis pats betarpiškai galėjo savo sūnums\npaskirstyti dalis, savo valdose turėdamas paveldėjimo teises, kai^1\n\n(^1) **PSRL, 18, 93 p.**\n\n\n(^248) n skyrius: valstybės iškilimas\nkiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio\nvalios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog\nateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos\npusiau^2."
+  citata_rodoma: |
+    Bet Kęstutis vis dėlto gavo didesnes teises negu kiti
+    jo broliai ir brolėnai. Jis pats betarpiškai galėjo savo sūnums
+    paskirstyti dalis, savo valdose turėdamas paveldėjimo teises, kai^1
+
+    (^1) **PSRL, 18, 93 p.**
+
+
+    (^248) n skyrius: valstybės iškilimas
+    kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio
+    valios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
+    ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
+    pusiau^2.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -969,7 +1094,14 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     (« rzeczpospolita »).
     Jos svarbiausias ir pavojingiausias kaimynas pasidarė didysis
     Maskvos kunigaikštis Jonas IV-sis, jau 1547 m. priėmęs caro titulą.
-  citata_rodoma: "Bet buvo ir dideliai varganų bei sunkių\nbendrų momentų (karai su švedais, karai su Maskva, kazokų maiš­\ntai). Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »\n(« obojga narodów ») politinė istorija vystėsi bendroje respublikoje\n(« rzeczpospolita »).\nJos svarbiausias ir pavojingiausias kaimynas pasidarė didysis\nMaskvos kunigaikštis Jonas IV-sis, jau 1547 m. priėmęs caro titulą."
+  citata_rodoma: |
+    Bet buvo ir dideliai varganų bei sunkių
+    bendrų momentų (karai su švedais, karai su Maskva, kazokų maiš­
+    tai). Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »
+    (« obojga narodów ») politinė istorija vystėsi bendroje respublikoje
+    (« rzeczpospolita »).
+    Jos svarbiausias ir pavojingiausias kaimynas pasidarė didysis
+    Maskvos kunigaikštis Jonas IV-sis, jau 1547 m. priėmęs caro titulą.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -996,7 +1128,18 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     činskio ir Jevrejinovo) tokių papildymų dar daugiau.
     Po Kęstučio ir Algirdo perversmo (1345 m.) naujai įdė­
     tas Algirdo sūnų ir jų valdų išskaičiavimas, o Jevreji-
-  citata_rodoma: "Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir \nprasideda sakiniu apie Kristaus gimimą, valdant Romos \nimperatoriui Augustui, Romos imperatorių ligi Nerono \nišvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­\nmiesi nuo jo persekiojimo, dalis romėnų „bajorų\", va­\ndovaujamų imperatoriaus Nerono giminaičio Palemono, \npabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­\ntos ir valstybės pradininkais. Vėliau, išmirus Palemono \nįpėdiniams ir sekančios Kentauro herbo dinastijos ku­\nnigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi- \nminaičių dinastijos valdovui Vyteniui."
+  citata_rodoma: |
+    Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
+    prasideda sakiniu apie Kristaus gimimą, valdant Romos
+    imperatoriui Augustui, Romos imperatorių ligi Nerono
+    išvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­
+    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
+    dovaujamų imperatoriaus Nerono giminaičio Palemono,
+    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
+    tos ir valstybės pradininkais. Vėliau, išmirus Palemono
+    įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
+    nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
+    minaičių dinastijos valdovui Vyteniui.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -1017,7 +1160,15 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     valios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
     ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
     pusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas.
-  citata_rodoma: "(^1) **PSRL, 18, 93 p.**\n\n\n(^248) n skyrius: valstybės iškilimas\nkiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio\nvalios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog\nateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos\npusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas."
+  citata_rodoma: |
+    (^1) **PSRL, 18, 93 p.**
+
+
+    (^248) n skyrius: valstybės iškilimas
+    kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio
+    valios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
+    ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
+    pusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -1039,7 +1190,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
     tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­
     kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais.
-  citata_rodoma: "Si moneta yra senesnė už mūsų turimą.\nSenovinė lietuviška moneta, rasta prie Kauno (buvo aptikta\nir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau\nnukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir\nkažkokia neaiški raidė."
+  citata_rodoma: |
+    Si moneta yra senesnė už mūsų turimą.
+    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta
+    ir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau
+    nukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir
+    kažkokia neaiški raidė.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -1061,7 +1217,15 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     manė atsikratyti Lenkija su visa jos unija, ėmus valdyti kitai, ne
     Gedimino dinastijai; arba dar labiau norėjo sustiprinti savo tei­
     ses globoti Lenkiją?
-  citata_rodoma: "Šį sumanymą, kaip sako\nProchaska, smarkiai rėmęs ir Vytautas; jis priėmė jauną Fridri­\nką savo dvare ir jį vaišino. Kuriuo tikslu buvo rodomas toks pa­\nlankumas šiam naujam kandidatui į lenkų karalius ir į Lietuvos\nsiuzerenus, sunku pasakyti. Galima tik spėt: arba Vytautas\nmanė atsikratyti Lenkija su visa jos unija, ėmus valdyti kitai, ne\nGedimino dinastijai; arba dar labiau norėjo sustiprinti savo tei­\nses globoti Lenkiją?"
+  citata_rodoma: |
+    Šį sumanymą, kaip sako
+    Prochaska, smarkiai rėmęs ir Vytautas; jis priėmė jauną Fridri­
+    ką savo dvare ir jį vaišino. Kuriuo tikslu buvo rodomas toks pa­
+    lankumas šiam naujam kandidatui į lenkų karalius ir į Lietuvos
+    siuzerenus, sunku pasakyti. Galima tik spėt: arba Vytautas
+    manė atsikratyti Lenkija su visa jos unija, ėmus valdyti kitai, ne
+    Gedimino dinastijai; arba dar labiau norėjo sustiprinti savo tei­
+    ses globoti Lenkiją?
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -1080,7 +1244,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     gudų ir ukrainiečių tautos, buvo užimtos ir pajungtos Lietuvos
     valstybei didžiųjų Vilniaus kunigaikščių (Gedimino, Algirdo). Ypač
     (^15) **Žr. aukščiau 136-137 p.**
-  citata_rodoma: "Iš lietuvių\ntautos buvo kilusi ir valdančioji Gediminaičių šeima. Įvairiais var­\ndais besivadinančios rytinių slavų kiltys, iš kurių susiformavo vėliau\ngudų ir ukrainiečių tautos, buvo užimtos ir pajungtos Lietuvos\nvalstybei didžiųjų Vilniaus kunigaikščių (Gedimino, Algirdo). Ypač\n(^15) **Žr. aukščiau 136-137 p.**"
+  citata_rodoma: |
+    Iš lietuvių
+    tautos buvo kilusi ir valdančioji Gediminaičių šeima. Įvairiais var­
+    dais besivadinančios rytinių slavų kiltys, iš kurių susiformavo vėliau
+    gudų ir ukrainiečių tautos, buvo užimtos ir pajungtos Lietuvos
+    valstybei didžiųjų Vilniaus kunigaikščių (Gedimino, Algirdo). Ypač
+    (^15) **Žr. aukščiau 136-137 p.**
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
@@ -1102,7 +1272,15 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     čiai, kurių giminių pradžia nyksta amžių glūdumose. Visų tų
     kunigaikščių priklausomybė didžiajam kunigaikščiui buvo nedi­
     delė.
-  citata_rodoma: "Šiaip kiekviena jų\ngyveno savo gyvenimą ir nebuvo suglausta į vieną glaudų politiš­\nką vienetą. Vienos tų kunigaikštijų buvo valdomos rusų kilmės\nkunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą\nsmulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­\nčiai, kurių giminių pradžia nyksta amžių glūdumose. Visų tų\nkunigaikščių priklausomybė didžiajam kunigaikščiui buvo nedi­\ndelė."
+  citata_rodoma: |
+    Šiaip kiekviena jų
+    gyveno savo gyvenimą ir nebuvo suglausta į vieną glaudų politiš­
+    ką vienetą. Vienos tų kunigaikštijų buvo valdomos rusų kilmės
+    kunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą
+    smulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­
+    čiai, kurių giminių pradžia nyksta amžių glūdumose. Visų tų
+    kunigaikščių priklausomybė didžiajam kunigaikščiui buvo nedi­
+    delė.
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas

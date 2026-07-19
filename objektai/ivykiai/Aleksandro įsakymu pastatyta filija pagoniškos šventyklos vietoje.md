@@ -96,7 +96,14 @@ Nenurodyta
     nius tvirtindavo krivis. Šioms kilmingoms pareigoms rinkdavo
     dorovingus žmones, jau pagyvenusius, kurie visu savo gyveni­
     mu deramai pateisindavo nuomonę apie juos.
-  citata_rodoma: "Prie Kražių miestelio, Kražantės upės\nkairiajame krante, ant Medžiokalnio kalno, stovėjo deivės Me-\ndziojnos šventykla . Tai tikriausiai pati seniausia šventovė Že­\nmaitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,\nVilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­\ndant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­\ntoje buvo pastatyta filija ."
+  citata_rodoma: |
+    Prie Kražių miestelio, Kražantės upės
+    kairiajame krante, ant Medžiokalnio kalno, stovėjo deivės Me-
+    dziojnos šventykla . Tai tikriausiai pati seniausia šventovė Že­
+    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
+    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

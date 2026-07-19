@@ -87,7 +87,8 @@ Nenurodyta
     nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites
     karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: bari­
     nė, ingelčikas, suktinis.
-  citata_rodoma: "Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis."
+  citata_rodoma: |
+    Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

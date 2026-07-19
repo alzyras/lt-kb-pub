@@ -59,7 +59,11 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
     Palangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —
     Žemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­
     čių ordino valstybę į dvi dalis.
-  citata_rodoma: "Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo\nPalangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —\nŽemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­\nčių ordino valstybę į dvi dalis."
+  citata_rodoma: |
+    Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo
+    Palangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —
+    Žemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­
+    čių ordino valstybę į dvi dalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

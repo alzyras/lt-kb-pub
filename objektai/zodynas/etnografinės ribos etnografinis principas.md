@@ -158,7 +158,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     gyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-
     šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
     gyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms.
-  citata_rodoma: "šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos"
+  citata_rodoma: |
+    šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -185,7 +186,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
     be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-  citata_rodoma: "apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),"
+  citata_rodoma: |
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -210,7 +212,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
     dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
     Lietuva būtų priimta į Tautų Sąjungos bendriją.
-  citata_rodoma: "dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad"
+  citata_rodoma: |
+    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -77,7 +77,9 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
     korespondentas, galėjo būti ir Simonas Stanevičius
     (1799-1848).
     Turimas omenyje veikalas: Helmoldus et Arnoldus.
-  citata_rodoma: "P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-\nsicarum historia. -  Gedani, 1769."
+  citata_rodoma: |
+    P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-
+    sicarum historia. -  Gedani, 1769.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

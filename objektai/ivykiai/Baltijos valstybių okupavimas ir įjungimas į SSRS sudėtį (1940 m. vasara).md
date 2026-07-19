@@ -94,7 +94,8 @@ Nenurodyta
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
-  citata_rodoma: "vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi"
+  citata_rodoma: |
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

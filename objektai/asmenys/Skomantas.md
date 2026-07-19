@@ -373,7 +373,12 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė
     Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu drįsti, atsikeršyk už tau
     daromas nuoskaudas, o aš tau padėsiu“.
-  citata_rodoma: "Be kita ko, sudegino Skomanto, galingo vyro bei\nšio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu\ngrobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per\nšią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė\n  499  Plg."
+  citata_rodoma: |
+    Be kita ko, sudegino Skomanto, galingo vyro bei
+    šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
+    grobiu sugrįžo namo. Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
+    šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
+      499  Plg.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -397,7 +402,15 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
     skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
     (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
-  citata_rodoma: "Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip\ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė\ntikėjimui ir broliams.\n\n\n\n\n212 (207)."
+  citata_rodoma: |
+    Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
+
+
+
+
+    212 (207).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -419,7 +432,11 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     baltams bendrai kovoti prieš Ordino, Lenkijos ir kitų katalikiškųjų Vakarų Europos šalių
     feodalų agresiją ir leido kryžiuočiams iki 1283 m. pavergti sūduvių, prūsų žemes iki
     Nemuno žemupio.
-  citata_rodoma: "Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl\nbandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga\nsūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo\n(III, 192)."
+  citata_rodoma: |
+    Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
+    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
+    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
+    (III, 192).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -444,7 +461,15 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
     antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė
     visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė į nelaisvę.
-  citata_rodoma: "Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,\n                            būtent: Eimsutis ir dar viena\n\n  Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas\nsiaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas\nkarys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.\nKai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei\nantrą kartą papūtė savo ragą, duodamas sutartą ženklą."
+  citata_rodoma: |
+    Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
+                                būtent: Eimsutis ir dar viena
+
+      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
+    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
+    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
+    Kai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei
+    antrą kartą papūtė savo ragą, duodamas sutartą ženklą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -496,7 +521,14 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,
     jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
     netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
-  citata_rodoma: "Įniršęs dėl tokio savo žmonių pralaimėjimo  ir tokių didelių nuostolių,\npatirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir\nstipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių\ndieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė\nvieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,\njeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie\nnetikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties."
+  citata_rodoma: |
+    Įniršęs dėl tokio savo žmonių pralaimėjimo  ir tokių didelių nuostolių,
+    patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
+    stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių
+    dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė
+    vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,
+    jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
+    netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -518,7 +550,17 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     darbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos
     sūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais
     ir padėjau ten, kur jam dera būti“.
-  citata_rodoma: "Apie Skomanto mirtį\n\n   Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai\nSkomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo\ngynėju ir garbingu krikščionių tautos vadu. Mirties patale gulėdamas, jis, paklaustas\nbrolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti\nKristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną\ndarbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos\nsūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais\nir padėjau ten, kur jam dera būti“."
+  citata_rodoma: |
+    Apie Skomanto mirtį
+
+       Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
+    Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo
+    gynėju ir garbingu krikščionių tautos vadu. Mirties patale gulėdamas, jis, paklaustas
+    brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti
+    Kristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną
+    darbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos
+    sūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais
+    ir padėjau ten, kur jam dera būti“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -539,7 +581,11 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
     ordino broliams Prūsijoje.
-  citata_rodoma: "Jį, paimtą  į nelaisvę,\natidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,\ntodėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę\npuotauti."
+  citata_rodoma: |
+    Jį, paimtą  į nelaisvę,
+    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
+    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
+    puotauti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -560,7 +606,14 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai
     gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams
     visokeriopų eibių.
-  citata_rodoma: "Apie Gardino pilies sunaikinimą\n\n  1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su\nnetikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš\nGardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius tinkamose vietose  ir\npristatė prie sienų kopėčias; užvirė tokia žiauri kova, kad bailesnieji nė nedrįso  į ją\nžiūrėti."
+  citata_rodoma: |
+    Apie Gardino pilies sunaikinimą
+
+      1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su
+    netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš
+    Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius tinkamose vietose  ir
+    pristatė prie sienų kopėčias; užvirė tokia žiauri kova, kad bailesnieji nė nedrįso  į ją
+    žiūrėti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -595,7 +648,23 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     kraštą, pabandyta plėšikauti
     L iv o n iją
     ir Livonijos įlankos salose.
-  citata_rodoma: "Pirmiausia jis staiga užpuolė Kulmo žemę ir ją gais­\nrais nuniokojo, įvarydamas baimės artimiausioms apy­\ngardoms. Vėliau, kai išblaškytas priešas dar dvejojo,\nkur geriau būtų atremti tą atgriaudėjančią audrą,\n127\n\n## Puslapis 126\n\nSkomantas netikėtai atvedė kariuomenę prie Plovistos\npilies ir netrukus po atkaklios apsiausties privertė įgulą\npasiduoti. Nenorėdamas, kad, jam keliant vis sunkes­\nnes sąlygas, nuo jo nusigręžtų tie, kurie maldavo pa­\nliaubų, bijodamas, kad, šiose vietose ilgiau užgaišus,\nneiškiltų kokie pavojai ar šiaip kliūtys, lietuvis paliko\nviską, kaip buvo, išsiderėjęs sau įkaitais tik du asme­\nnis, kurie puikiausiai pažinojo kelius."
+  citata_rodoma: |
+    Pirmiausia jis staiga užpuolė Kulmo žemę ir ją gais­
+    rais nuniokojo, įvarydamas baimės artimiausioms apy­
+    gardoms. Vėliau, kai išblaškytas priešas dar dvejojo,
+    kur geriau būtų atremti tą atgriaudėjančią audrą,
+    127
+
+    ## Puslapis 126
+
+    Skomantas netikėtai atvedė kariuomenę prie Plovistos
+    pilies ir netrukus po atkaklios apsiausties privertė įgulą
+    pasiduoti. Nenorėdamas, kad, jam keliant vis sunkes­
+    nes sąlygas, nuo jo nusigręžtų tie, kurie maldavo pa­
+    liaubų, bijodamas, kad, šiose vietose ilgiau užgaišus,
+    neiškiltų kokie pavojai ar šiaip kliūtys, lietuvis paliko
+    viską, kaip buvo, išsiderėjęs sau įkaitais tik du asme­
+    nis, kurie puikiausiai pažinojo kelius.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

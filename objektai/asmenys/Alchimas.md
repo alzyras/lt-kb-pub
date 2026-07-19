@@ -69,7 +69,16 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
 
 
     Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
-  citata_rodoma: "Apie Judą Makabėjų\npasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,\nkai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai\nkovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo\nbėgti. (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,\nkuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:\n\n                 Pergalės būdas tikriausias — kantrybė, tas kovą laimi,\n               Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!"
+  citata_rodoma: |
+    Apie Judą Makabėjų
+    pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,
+    kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai
+    kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo
+    bėgti. (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,
+    kuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:
+
+                     Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
+                   Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

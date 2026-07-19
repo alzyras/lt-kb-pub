@@ -76,7 +76,8 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
     no naciams ir sovietams, dėl lietuvių vaidmens Holokauste, trėmimuose į
     Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
     klausimai.
-  citata_rodoma: "Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos"
+  citata_rodoma: |
+    Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

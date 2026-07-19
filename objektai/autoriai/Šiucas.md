@@ -99,7 +99,11 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
     nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
     si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
     meldžių papratimu slapčia ateidavo prie jos m elstis18.
-  citata_rodoma: "Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už\nBaublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­\n12 Treteris*, Henenbergeris, Šiucas, Hartknochas.\n13 Opisanie starožytnej Polski."
+  citata_rodoma: |
+    Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
+    Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
+    12 Treteris*, Henenbergeris, Šiucas, Hartknochas.
+    13 Opisanie starožytnej Polski.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

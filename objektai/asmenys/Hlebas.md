@@ -95,7 +95,10 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     toslavaitis. Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas
     buvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar
     nebuvo sustabdyta rytų krizė.
-  citata_rodoma: "Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas\nbuvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar\nnebuvo sustabdyta rytų krizė."
+  citata_rodoma: |
+    Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas
+    buvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar
+    nebuvo sustabdyta rytų krizė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -117,7 +120,13 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
     Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
     (1389-1425), su kuriuo oficialiai laikėsi taikos.
-  citata_rodoma: "Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė\nir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse\nvietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.\nIš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį\nSviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I\n(1389-1425), su kuriuo oficialiai laikėsi taikos."
+  citata_rodoma: |
+    Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
+    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
+    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
+    Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
+    Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
+    (1389-1425), su kuriuo oficialiai laikėsi taikos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

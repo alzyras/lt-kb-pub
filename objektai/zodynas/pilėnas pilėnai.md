@@ -338,7 +338,16 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     pamatyti; audrai šėlstant, jie įsiveržė į šios pilies papilį, kuris tuo metu buvo ir didelis, ir
     gausiai gyvenamas nelyginant koks miestas, ir, visus žmones išžudę ar paėmę į nelaisvę
     bei sudeginę papilį, patraukė namo su tokiu grobiu, kokį įstengė išsigabenti.
-  citata_rodoma: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais\n\n   Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,\npatraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis\npilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten\nįsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki\npamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir\npriėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę\nar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino."
+  citata_rodoma: |
+    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
+
+       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
+    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
+    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
+    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
+    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
+    priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
+    ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -365,7 +374,16 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
     430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
     Osos, deš. upės krante, tarp dab.
-  citata_rodoma: "Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį\n\n  Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui\nbei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,\npažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras\nsušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų\nkariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė\nžmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo\nvardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių."
+  citata_rodoma: |
+    Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
+
+      Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui
+    bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,
+    pažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras
+    sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
+    kariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė
+    žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo
+    vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -405,7 +423,17 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
     štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
     kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
-  citata_rodoma: "Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais\n\n  Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio\npilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir\npanoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai\npasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai\nprašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių\nrankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir\nštai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,\nkad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika."
+  citata_rodoma: |
+    Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
+
+      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
+    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
+    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
+    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
+    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
+    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
+    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
+    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

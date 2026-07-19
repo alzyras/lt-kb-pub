@@ -57,7 +57,9 @@ Gasiūnas, Vysk.
     ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.
     J. Gasiūnas, Vysk. K. Paltaroko gyvenimas, baigiama
     ruošti spaudai.
-  citata_rodoma: "J. Gasiūnas, Vysk. K. Paltaroko gyvenimas, baigiama\nruošti spaudai."
+  citata_rodoma: |
+    J. Gasiūnas, Vysk. K. Paltaroko gyvenimas, baigiama
+    ruošti spaudai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

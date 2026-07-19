@@ -95,7 +95,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
     tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
     laikotarpį.
-  citata_rodoma: "|"
+  citata_rodoma: |
+    |
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -115,7 +116,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
     bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
     bui ir teikė reikiamos paramos.
-  citata_rodoma: "|"
+  citata_rodoma: |
+    |
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

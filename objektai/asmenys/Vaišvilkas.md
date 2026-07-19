@@ -214,7 +214,13 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     su daugeliu tokio pat gyvenimo bendrininkų dievo­
     baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
     kurstomas didikų.
-  citata_rodoma: "Kodėl jis nepaisąs rusų siekimų? Kodėl nekrei­\npiąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių\nvaldovo, kuris visas valdžios teises pagrįstai sau prisi-\nskirįąs? Vaišvilkas mat, pasipiktinęs savo tėvo Min­\ndaugo atsimetimu nuo krikščionių tikybos, pabėgo pas\nrusus, kur kitados gyveno kaip įkaitas."
+  citata_rodoma: |
+    Kodėl jis nepaisąs rusų siekimų? Kodėl nekrei­
+    piąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių
+    valdovo, kuris visas valdžios teises pagrįstai sau prisi-
+    skirįąs? Vaišvilkas mat, pasipiktinęs savo tėvo Min­
+    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
+    rusus, kur kitados gyveno kaip įkaitas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -256,7 +262,17 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     b ei
     N a u g a rd u k o d id žiu o ­
     ju k u n ig a ik ščiu
-  citata_rodoma: "Vis dėlto niekada negalima buvo jo priversti užmiršti\nviso ankstyvesnio gyvenimo: paprastai ant purpurinio\napsiausto jis vilkėdavo juodą drapaną, kaip vienuolio\nįžadų ženklą. Kadangi jo filosofinės pažiūros nė tru­\npučio nepatobulėjo nuo tos drapanos, kadangi iš kri­\nkščioniškųjų priedermių nieko iš viso į galvą nebuvo\nįsidėjęs, jis ėmė valdyti, tuo pigiu apsiaustu dangsty­\ndamas kraugerišką ir kerštingą širdį. Vos ne vos tvir­\nčiau įsitaisė soste, jis negaišdamas ėmė keršyti už\ntėvo nužudymą."
+  citata_rodoma: |
+    Vis dėlto niekada negalima buvo jo priversti užmiršti
+    viso ankstyvesnio gyvenimo: paprastai ant purpurinio
+    apsiausto jis vilkėdavo juodą drapaną, kaip vienuolio
+    įžadų ženklą. Kadangi jo filosofinės pažiūros nė tru­
+    pučio nepatobulėjo nuo tos drapanos, kadangi iš kri­
+    kščioniškųjų priedermių nieko iš viso į galvą nebuvo
+    įsidėjęs, jis ėmė valdyti, tuo pigiu apsiaustu dangsty­
+    damas kraugerišką ir kerštingą širdį. Vos ne vos tvir­
+    čiau įsitaisė soste, jis negaišdamas ėmė keršyti už
+    tėvo nužudymą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -276,7 +292,11 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     jamos atitinkamos lotyniškos sąvokos (Polesio ar
     Podlachia).
     4 Kalbama apie Deltuvą.
-  citata_rodoma: "Naujausioje literatūroje plinta Vaišelga. A. Kojelavičiaus te­\nksto vertime paliekamas tradicinis Vaišvilkas. Greta šio vardo A. Ko­\njelavičius, nežinia kuo remdamasis, kaip sinonimą pavartojo ir Vais­\ntininkas."
+  citata_rodoma: |
+    Naujausioje literatūroje plinta Vaišelga. A. Kojelavičiaus te­
+    ksto vertime paliekamas tradicinis Vaišvilkas. Greta šio vardo A. Ko­
+    jelavičius, nežinia kuo remdamasis, kaip sinonimą pavartojo ir Vais­
+    tininkas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -312,7 +332,23 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     Kernavę, kol dar nebuvo išsiskirstę didikai; jį priėmė
     su didele pagarba bei džiaugsmu ir su įprastinėmis
     apeigomis paskelbė Lietuvos didžiuoju kunigaikščiu.
-  citata_rodoma: "Šitokia kal­\nba sukrėtė žemaičių ir jotvingių sielas ir noromis ne­\nnoromis paskatino juos galvoti apie Vaišvilką; ka-\ndangi jie pritarė lietuviams, savaime sužlugo rusų su­\nmanymai, ypač dėl to, kad juos iš naujo ryžtingai\npasiūlyti apskritai būtų buvę nesaugu, nesukeliant įta­\nrimo, jog jie trokšta maištauti. Taigi visuotiniame\nsusirinkime kunigaikščiu buvo išrinktas Vaišvilkas.\nU  5\n\n## Puslapis 114\n\nIšleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­\nkui nuodugniai papasakoti apie diduomenės bei tau­\ntos prielankumą ir pakviesti jį perimti tėvo paliktos\nvaldžios."
+  citata_rodoma: |
+    Šitokia kal­
+    ba sukrėtė žemaičių ir jotvingių sielas ir noromis ne­
+    noromis paskatino juos galvoti apie Vaišvilką; ka-
+    dangi jie pritarė lietuviams, savaime sužlugo rusų su­
+    manymai, ypač dėl to, kad juos iš naujo ryžtingai
+    pasiūlyti apskritai būtų buvę nesaugu, nesukeliant įta­
+    rimo, jog jie trokšta maištauti. Taigi visuotiniame
+    susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
+    U  5
+
+    ## Puslapis 114
+
+    Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­
+    kui nuodugniai papasakoti apie diduomenės bei tau­
+    tos prielankumą ir pakviesti jį perimti tėvo paliktos
+    valdžios.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -327,7 +363,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Turėjo jis sūnų Vaišvilką ir dukterį. Dukterį išleido
-    už Danieliaus sūnaus Švarno3 į Cholmą \ O Vaišvil­
+    už Danieliaus sūnaus Švarno3  į Cholmą \  O Vaišvil­
     kas, [dar) būdamas pagonimi, ėmė kunigaikščiauti Nau­
     garduke ir iš pradžių daug kraujo praliejo. Kartais per
     dieną nugalabydavo po tris ir po keturis, o jeigu kurią

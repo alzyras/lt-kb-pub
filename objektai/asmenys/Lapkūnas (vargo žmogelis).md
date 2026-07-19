@@ -70,7 +70,8 @@ Lapkūnas aprašomas kaip vargingas kaimo žmogus, turėjęs gausią šeimą ir 
     Gyveno mūsų kaime vargo žmogelis Lapkūnas.
     Jis turėjo gau­
     sią šeimą — tris eiles apie krosnį.
-  citata_rodoma: "Gyveno mūsų kaime vargo žmogelis Lapkūnas. Jis turėjo gausią šeimą — tris eiles apie krosnį."
+  citata_rodoma: |
+    Gyveno mūsų kaime vargo žmogelis Lapkūnas. Jis turėjo gausią šeimą — tris eiles apie krosnį.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

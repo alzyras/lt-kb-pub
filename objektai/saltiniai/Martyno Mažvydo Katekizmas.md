@@ -121,7 +121,11 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
     dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
     visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai.
-  citata_rodoma: "Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-\ngai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-\ndintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK \nvisuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai."
+  citata_rodoma: |
+    Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
+    gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
+    dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
+    visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -142,7 +146,11 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
     visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
     Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
-  citata_rodoma: "Kilmės iš \nromėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per \nvisą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui \nPirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“."
+  citata_rodoma: |
+    Kilmės iš
+    romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
+    visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
+    Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -169,7 +177,16 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
     lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
     jektui Lietuvos visuomenė nebuvo pasirengusi.
-  citata_rodoma: "Šią programą A. Kulvietis \nbandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-\nmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų \nprogramos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-\ntekizmą“. A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos \ndiduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama \nrusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti: \nlietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-\njektui Lietuvos visuomenė nebuvo pasirengusi."
+  citata_rodoma: |
+    Šią programą A. Kulvietis
+    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
+    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
+    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
+    tekizmą“. A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
+    diduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama
+    rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
+    lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
+    jektui Lietuvos visuomenė nebuvo pasirengusi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

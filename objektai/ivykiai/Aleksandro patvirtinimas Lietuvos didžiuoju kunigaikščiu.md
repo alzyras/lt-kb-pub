@@ -87,7 +87,9 @@ Nenurodyta
   citata_originali: |
     1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
     LDK žemių seimas Vilniuje, 1492.VII.18.
-  citata_rodoma: "1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų \nLDK žemių seimas Vilniuje, 1492.VII.18."
+  citata_rodoma: |
+    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
+    LDK žemių seimas Vilniuje, 1492.VII.18.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

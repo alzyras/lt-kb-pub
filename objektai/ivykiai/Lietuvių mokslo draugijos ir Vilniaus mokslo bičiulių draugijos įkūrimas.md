@@ -107,7 +107,12 @@ Nenurodyta
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
     telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: "Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos\n1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad\njame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,\nplėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,\ntelkusi lenkiškai kalbančiuosius."
+  citata_rodoma: |
+    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
+    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
+    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
+    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
+    telkusi lenkiškai kalbančiuosius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -117,7 +117,33 @@ Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto L
     pakirto jėgas, o visa valstybė suiro mūsų laikais, kai
     ją visomis jėgomis iš karto užpuolė trys priešai: Mas­
     kva, Švedija ir Zaporožė.
-  citata_rodoma: "Užėmęs\nmiestą, Vasiljevičius įsakė aikštėje nukirsdinti tris šim­\ntus miestiečių, drįsusių prieš jį pakelti ginklą, iš visų\nkitų atėmė turtą, palikdamas vienam kitam vos treč­\ndalį to, ką šis turėjo, šventyklose pagrobė nuo altorių\nšventąsias brangenybes, paaukotas dievui ir šventie­\nsiems, apiplėšė iždą: tris šimtus vežimų tauriųjų metalų,\napdorotų bei nugludintų brangakmenių, šventų ir ne­\nšventų indų išvežė į Maskvą. Šios turtingos žemės pra­\nradimas davė pradžią Lietu-\nL ie tu v o s\ns m u k im o\nvos smukimui iš tų aukšty-\np ra d žia\nbių, į kurias ją buvo iškėlęs\nVytautas. Vėliau bemaž po\nkiekvieno karo reikėjo už taiką mokėti arba ištisa že­\nme, arba kokia apygarda; retai pavykdavo ką iš priešo\natgauti; Žygimanto Augusto paliaubų aktas galutinai\n5 3 0\n\n## Puslapis 529\n\npakirto jėgas, o visa valstybė suiro mūsų laikais, kai\nją visomis jėgomis iš karto užpuolė trys priešai: Mas­\nkva, Švedija ir Zaporožė."
+  citata_rodoma: |
+    Užėmęs
+    miestą, Vasiljevičius įsakė aikštėje nukirsdinti tris šim­
+    tus miestiečių, drįsusių prieš jį pakelti ginklą, iš visų
+    kitų atėmė turtą, palikdamas vienam kitam vos treč­
+    dalį to, ką šis turėjo, šventyklose pagrobė nuo altorių
+    šventąsias brangenybes, paaukotas dievui ir šventie­
+    siems, apiplėšė iždą: tris šimtus vežimų tauriųjų metalų,
+    apdorotų bei nugludintų brangakmenių, šventų ir ne­
+    šventų indų išvežė į Maskvą. Šios turtingos žemės pra­
+    radimas davė pradžią Lietu-
+    L ie tu v o s
+    s m u k im o
+    vos smukimui iš tų aukšty-
+    p ra d žia
+    bių, į kurias ją buvo iškėlęs
+    Vytautas. Vėliau bemaž po
+    kiekvieno karo reikėjo už taiką mokėti arba ištisa že­
+    me, arba kokia apygarda; retai pavykdavo ką iš priešo
+    atgauti; Žygimanto Augusto paliaubų aktas galutinai
+    5 3 0
+
+    ## Puslapis 529
+
+    pakirto jėgas, o visa valstybė suiro mūsų laikais, kai
+    ją visomis jėgomis iš karto užpuolė trys priešai: Mas­
+    kva, Švedija ir Zaporožė.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

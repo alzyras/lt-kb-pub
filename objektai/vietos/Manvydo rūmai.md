@@ -84,7 +84,12 @@ media_all_json: |-
     bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
     Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
     turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
-  citata_rodoma: "1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57."
+  citata_rodoma: |
+    1396-ieji me­
+    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
+    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
+    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
+    turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

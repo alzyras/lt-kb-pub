@@ -103,7 +103,11 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
     Vidurio Europą.
-  citata_rodoma: "Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-\nropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-\npos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją \nVidurio Europą."
+  citata_rodoma: |
+    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
+    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
+    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
+    Vidurio Europą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +126,10 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     LLV santvarka remiasi tik 7 proc. visuomenės (tiek buvo bajorų), rodo
     luominį jos pobūdį – valdovas, nors ir renkamas bajorų „tautos“, suve-
     renią valdžią gauna iš Dievo. Taigi 1566–1795 m.
-  citata_rodoma: "LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradė-\njusiai kurti respublikinę santvarką antrojoje XVI a. pusėje) ir pralenkia \nAnglijos konstitucinę monarchiją, įsigalėjusią 1689 m."
+  citata_rodoma: |
+    LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradė-
+    jusiai kurti respublikinę santvarką antrojoje XVI a. pusėje) ir pralenkia
+    Anglijos konstitucinę monarchiją, įsigalėjusią 1689 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

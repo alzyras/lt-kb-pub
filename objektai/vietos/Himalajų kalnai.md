@@ -93,7 +93,18 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
     Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
     jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
     Saulė aptemdavo.
-  citata_rodoma: "Be jo­\nkios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­\ndžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­\nno, gyveno ši tauta, garbinusi dangaus kūnus .\nTegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai."
+  citata_rodoma: |
+    Be jo­
+    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
+    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
+    no, gyveno ši tauta, garbinusi dangaus kūnus .
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

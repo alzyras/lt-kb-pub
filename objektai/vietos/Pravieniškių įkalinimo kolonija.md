@@ -91,7 +91,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     kaliniai ir prižiūrėtojai
     Kauno gyventojai sveikina įžengusį vermachtą 1941 m.
     (R. Mičiūno reprodukcija)
-  citata_rodoma: "1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio"
+  citata_rodoma: |
+    1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +112,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš
     tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse,
     o iš viso nužudyta apie 700 asmenų.
-  citata_rodoma: "kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš"
+  citata_rodoma: |
+    kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

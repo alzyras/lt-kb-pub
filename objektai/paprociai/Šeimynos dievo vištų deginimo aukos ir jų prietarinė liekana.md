@@ -138,7 +138,14 @@ Nenurodyta
     nežinomo epiteto Radikis, kuris kilęs iš žodžioRaddiht, latvių
     kalboje reiškiančio kurti, formuoti, iš naujo aptašyti; taigi Šilo
     Radikis reikš miško, medžio dorotoją, vienu žodžiu, stalių.
-  citata_rodoma: "Bendras tokių dievaičių\nvardas buvo Šeimos (Siejmi arba Semios) dievas. Kaip auką\njiems krosnyje degindavo gyvas vištas, nes norėdavo jų išpra­\nšyti, kad globotų tarnus, kad šeimynos žmonės laikytųsi na­\nmų, nepabėgtų, nepasišalintų, kai jų prireiks, kad gyventų blai­\nviai ir dorai. Samdiniai, namiškiai -  lietuviškai Šeimyna (Siej-\nmina)."
+  citata_rodoma: |
+    Bendras tokių dievaičių
+    vardas buvo Šeimos (Siejmi arba Semios) dievas. Kaip auką
+    jiems krosnyje degindavo gyvas vištas, nes norėdavo jų išpra­
+    šyti, kad globotų tarnus, kad šeimynos žmonės laikytųsi na­
+    mų, nepabėgtų, nepasišalintų, kai jų prireiks, kad gyventų blai­
+    viai ir dorai. Samdiniai, namiškiai -  lietuviškai Šeimyna (Siej-
+    mina).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -163,7 +170,15 @@ Nenurodyta
     nežinomo epiteto Radikis, kuris kilęs iš žodžioRaddiht, latvių
     kalboje reiškiančio kurti, formuoti, iš naujo aptašyti; taigi Šilo
     Radikis reikš miško, medžio dorotoją, vienu žodžiu, stalių.
-  citata_rodoma: "Samdiniai, namiškiai -  lietuviškai Šeimyna (Siej-\nmina).\nKaimiečiams atsitinka, kad, labai anksti rytą užkūrus kros­\nnyje ugnį, višta, netikėtai išgąsdinta, įlekia į ugnį, tada prieta­\nringa šeimininkė jos neištraukia, o meldžiasi priešais ugnį, ma­\nnydama, kad kas nors iš šeimynos ketino pabėgti, bet dabar,\nsava valia sudegus paslaugiai vištai, nebegalės anas to įgyven­\ndinti. Tai to paties mito liekana."
+  citata_rodoma: |
+    Samdiniai, namiškiai -  lietuviškai Šeimyna (Siej-
+    mina).
+    Kaimiečiams atsitinka, kad, labai anksti rytą užkūrus kros­
+    nyje ugnį, višta, netikėtai išgąsdinta, įlekia į ugnį, tada prieta­
+    ringa šeimininkė jos neištraukia, o meldžiasi priešais ugnį, ma­
+    nydama, kad kas nors iš šeimynos ketino pabėgti, bet dabar,
+    sava valia sudegus paslaugiai vištai, nebegalės anas to įgyven­
+    dinti. Tai to paties mito liekana.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

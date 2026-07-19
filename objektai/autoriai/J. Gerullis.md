@@ -60,7 +60,10 @@ Gerullis, J.: Zur Sprache der Sudauer-Jätwinger, Festschrift für Ad. Bezzenber
     lichen Siedlungen in Litauen,_ SBRiga, 1934. — Gerullis, J.: _Zur Sprache
     der Sudauer-Jätwinger,_ Festschrift für Ad. Bezzenberger, Göttingen 1921,
     44-51p.
-  citata_rodoma: "— Gerullis, J.: _Zur Sprache\nder Sudauer-Jätwinger,_ Festschrift für Ad. Bezzenberger, Göttingen 1921,\n44-51p."
+  citata_rodoma: |
+    — Gerullis, J.: _Zur Sprache
+    der Sudauer-Jätwinger,_ Festschrift für Ad. Bezzenberger, Göttingen 1921,
+    44-51p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

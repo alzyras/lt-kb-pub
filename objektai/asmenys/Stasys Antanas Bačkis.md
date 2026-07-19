@@ -78,7 +78,8 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
     plomatijos šefui, tas pareigas ėjo diplomatai
     Stasys Lozoraitis (1940–1983 m.) ir Stasys
     Antanas Bačkis (1983–1991 m.).
-  citata_rodoma: "plomatijos šefui, tas pareigas ėjo diplomatai"
+  citata_rodoma: |
+    plomatijos šefui, tas pareigas ėjo diplomatai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

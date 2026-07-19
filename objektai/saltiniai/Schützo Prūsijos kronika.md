@@ -119,8 +119,20 @@ media_all_json: |-
     kovą, kariautojus, prisijungusius Schütz Chroń. Pr, fol. 89 ir kiti
     prie jų, priimdavo labai širdingai ir Prūsijos kronikininkai,
     surengdavo puotą, kur kiekvienas 42
-    pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T. VTT, p 246
-  citata_rodoma: "Pirmasis, \nkurį sudarė vien svetimšaliai riteriai, vadovaujami didžio­\njo magistro, nužygiavo Trakų link, bet tą miestą radę Skir­\ngailos sudegintą, pasuko atgalios ir susijungė su kitu dali­\nniu, kuris, vadovaujamas Vytauto ir Ordino maršalo,\n40 kus darbus gaudavo vietą prie stalo\nViduramžiais Vokietijoje prieš kiek- ir būdavo pagerbiamas, \nvieną karo žygį riteriai, susiruošę į 41\nkovą, kariautojus, prisijungusius Schütz Chroń. Pr, fol. 89 ir kiti \nprie jų, priimdavo labai širdingai ir Prūsijos kronikininkai, \nsurengdavo puotą, kur kiekvienas 42\npagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T."
+    pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T.
+  citata_rodoma: |
+    Pirmasis,
+    kurį sudarė vien svetimšaliai riteriai, vadovaujami didžio­
+    jo magistro, nužygiavo Trakų link, bet tą miestą radę Skir­
+    gailos sudegintą, pasuko atgalios ir susijungė su kitu dali­
+    niu, kuris, vadovaujamas Vytauto ir Ordino maršalo,
+    40 kus darbus gaudavo vietą prie stalo
+    Viduramžiais Vokietijoje prieš kiek- ir būdavo pagerbiamas,
+    vieną karo žygį riteriai, susiruošę į 41
+    kovą, kariautojus, prisijungusius Schütz Chroń. Pr, fol. 89 ir kiti
+    prie jų, priimdavo labai širdingai ir Prūsijos kronikininkai,
+    surengdavo puotą, kur kiekvienas 42
+    pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

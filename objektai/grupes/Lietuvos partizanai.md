@@ -187,7 +187,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-  citata_rodoma: "Tačiau pergyvenusi \ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos \nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953), \no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a."
+  citata_rodoma: |
+    Tačiau pergyvenusi
+    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
+    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
+    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
+    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -206,7 +212,9 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
     sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį. Užimant
     Grupė Lietuvos partizanų 1947 m.
-  citata_rodoma: "Užimant \nGrupė Lietuvos partizanų 1947 m."
+  citata_rodoma: |
+    Užimant
+    Grupė Lietuvos partizanų 1947 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -228,7 +236,11 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
     macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
     buvo leidžiama 80 pavadinimų periodinių leidinių.
-  citata_rodoma: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-\nmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-\nmacijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau \nbuvo leidžiama 80 pavadinimų periodinių leidinių."
+  citata_rodoma: |
+    Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
+    mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
+    macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
+    buvo leidžiama 80 pavadinimų periodinių leidinių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -253,7 +265,14 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras \nPyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-\ntizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios \ništremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką \npopiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips \ndėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad \nSSRS nutrauktų terorą."
+  citata_rodoma: |
+    1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras
+    Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-
+    tizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios
+    ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką
+    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
+    dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
+    SSRS nutrauktų terorą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -275,7 +294,11 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     votojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą
     Lietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės
     ir kariuomenės neveiklumą.
-  citata_rodoma: "Laisvės ko-\nvotojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą \nLietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės \nir kariuomenės neveiklumą."
+  citata_rodoma: |
+    Laisvės ko-
+    votojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą
+    Lietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės
+    ir kariuomenės neveiklumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -300,7 +323,18 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
     įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
     netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
-  citata_rodoma: "Karas po karo – ginkluota rezistencija \nNuo 1944 m. vasaros sovietų represijos ir teroras kurstė \nlietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas \ndėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių\n\nL I E T U V O S  I S T O R I J A\n210\npasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais, \nkad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui \nįvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos \nnetekusioms šalims, kad Vakarai pakils į žygį prieš J."
+  citata_rodoma: |
+    Karas po karo – ginkluota rezistencija
+    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
+    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
+    dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
+
+    L I E T U V O S  I S T O R I J A
+    210
+    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
+    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
+    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
+    netekusioms šalims, kad Vakarai pakils į žygį prieš J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

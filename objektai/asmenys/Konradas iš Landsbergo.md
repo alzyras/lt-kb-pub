@@ -99,7 +99,12 @@ Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė br
     Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
     Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
     prūsų kariuomenė ir ją nuniokojo gaisrais ir grobstymais.
-  citata_rodoma: "Taigi pas\nLenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo\nOrdino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.\nKai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė\nprūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais."
+  citata_rodoma: |
+    Taigi pas
+    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
+    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
+    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
+    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -55,7 +55,9 @@ media_all_json: |-
     —- (”) _Król Wladystaw Jagiełto,_ I-II, Kraków 1908.
     — (”) _Markward Salzbach,_ PH, t. 9, 1909, 12-28, 121-132 p. — Smolka,
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1).
-  citata_rodoma: "— Smolka,\nSt. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1)."
+  citata_rodoma: |
+    — Smolka,
+    St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

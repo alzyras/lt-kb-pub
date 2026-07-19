@@ -164,7 +164,13 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
     menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
     toriją visam pasauliui.
-  citata_rodoma: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-\nkos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo\nir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-\nrių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį\nsvarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų\ndailininkų drobėse."
+  citata_rodoma: |
+    Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-
+    kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo
+    ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-
+    rių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį
+    svarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų
+    dailininkų drobėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -182,7 +188,11 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
     nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
     strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
-  citata_rodoma: "Keturiasdešimtmečiai užsienio reikalų ministras\nStasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-\nnizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo\nstrategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus"
+  citata_rodoma: |
+    Keturiasdešimtmečiai užsienio reikalų ministras
+    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
+    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
+    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -202,7 +212,11 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
     valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
-  citata_rodoma: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas\nMironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos\nvaldžia stengėsi parodyti, kad iš esmės nieko neįvyko."
+  citata_rodoma: |
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
+    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
+    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -224,7 +238,11 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     plomatijos šefui, tas pareigas ėjo diplomatai
     Stasys Lozoraitis (1940–1983 m.) ir Stasys
     Antanas Bačkis (1983–1991 m.).
-  citata_rodoma: "LDT aukščiausia valdžia priklausė di-\nplomatijos šefui, tas pareigas ėjo diplomatai\nStasys Lozoraitis (1940–1983 m.) ir Stasys\nAntanas Bačkis (1983–1991 m.)."
+  citata_rodoma: |
+    LDT aukščiausia valdžia priklausė di-
+    plomatijos šefui, tas pareigas ėjo diplomatai
+    Stasys Lozoraitis (1940–1983 m.) ir Stasys
+    Antanas Bačkis (1983–1991 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -247,7 +265,14 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     diplomatijos šefo pareigas interpretavo kaip
     primus inter pares (pirmas tarp lygiųjų) tarp
     visų pasiuntinių.
-  citata_rodoma: "LDT aukščiausia valdžia priklausė di-\nplomatijos šefui, tas pareigas ėjo diplomatai \nStasys Lozoraitis (1940–1983 m.) ir Stasys \nAntanas Bačkis (1983–1991 m.). S. Lozoraitis \ndiplomatijos šefo pareigas interpretavo kaip \nprimus inter pares (pirmas tarp lygiųjų) tarp \nvisų pasiuntinių."
+  citata_rodoma: |
+    LDT aukščiausia valdžia priklausė di-
+    plomatijos šefui, tas pareigas ėjo diplomatai
+    Stasys Lozoraitis (1940–1983 m.) ir Stasys
+    Antanas Bačkis (1983–1991 m.). S. Lozoraitis
+    diplomatijos šefo pareigas interpretavo kaip
+    primus inter pares (pirmas tarp lygiųjų) tarp
+    visų pasiuntinių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

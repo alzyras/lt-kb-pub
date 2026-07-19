@@ -105,7 +105,13 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-  citata_rodoma: "Lelevelis, šali­\nninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­\nse istorikas detaliai aprašė Vilniaus Archeologinės komisijos \nveiklą, lenkų literatūros problemas, nemažai dėmesio skyrė \nistorijos mokslo padėčiai lenkiškos kultūros centruose - Var­\nšuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M."
+  citata_rodoma: |
+    Lelevelis, šali­
+    ninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­
+    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
+    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
+    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
+    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -128,7 +134,13 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-  citata_rodoma: "Lelevelis, šali­\nninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­\nse istorikas detaliai aprašė Vilniaus Archeologinės komisijos \nveiklą, lenkų literatūros problemas, nemažai dėmesio skyrė \nistorijos mokslo padėčiai lenkiškos kultūros centruose - Var­\nšuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M."
+  citata_rodoma: |
+    Lelevelis, šali­
+    ninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­
+    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
+    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
+    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
+    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +160,11 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     pats nežinau, kaip mano protas - verčiant jį - juokiasi ir kaip
     galėčiau sukaupti moralines jėgas apmąstyti ir suprasti praei­
     tų amžių įvykius“* 10.
-  citata_rodoma: "Yra žmogus Dievo siųstas iš dangaus,\nJo lietuviškoje krūtinėje šventoji ugnis\nliepsnoja, -\n8 Gazeta Warszawska. -  1854. -  Nr. 159."
+  citata_rodoma: |
+    Yra žmogus Dievo siųstas iš dangaus,
+    Jo lietuviškoje krūtinėje šventoji ugnis
+    liepsnoja, -
+    8 Gazeta Warszawska. -  1854. -  Nr. 159.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

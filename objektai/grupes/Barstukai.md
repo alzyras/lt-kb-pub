@@ -104,7 +104,16 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
     zlios; su jomis buvo galima kovoti ir jas užmušti. Jos turėjo savo sei­
     mą ir karalienę, vardu Huldą, kuri turėjo dvi dukteris - Tergerdą
     (Thergerd) ir Irpą (Yrpo).
-  citata_rodoma: "Rytojaus dieną ūkininkai žiūri, kurio valgio dau­\ngiau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins\njiems javų; jeigu mėsos, -  seksis su gyvulių prieaugliu ir 1.1.; o\nto valgio, kuris jiems buvo gardžiausias, per kitas šventes de­\nda daugiau, negu buvo per ankstesnes, prašydami, kad pagau­\nsintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,\nkuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus\nir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:\nūgio ne aukštesnio, kaip viena uolektis“."
+  citata_rodoma: |
+    Rytojaus dieną ūkininkai žiūri, kurio valgio dau­
+    giau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins
+    jiems javų; jeigu mėsos, -  seksis su gyvulių prieaugliu ir 1.1.; o
+    to valgio, kuris jiems buvo gardžiausias, per kitas šventes de­
+    da daugiau, negu buvo per ankstesnes, prašydami, kad pagau­
+    sintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
+    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
+    ir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:
+    ūgio ne aukštesnio, kaip viena uolektis“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

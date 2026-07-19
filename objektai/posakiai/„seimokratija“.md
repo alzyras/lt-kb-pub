@@ -71,7 +71,8 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
     perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: "gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti"
+  citata_rodoma: |
+    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

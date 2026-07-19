@@ -108,13 +108,19 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
-    paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
-    užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
-    Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
-    tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
-    nės monetos su nežinomais atvaizdais, herbais ir užrašais.
-  citata_rodoma: "Vadinasi, bu­\nvo tik Jupiteris, turėjęs antrąją ypatybę*.\nŽinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti\npiorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos\nnuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­\nse buvo žinomi Lietuvoje."
+    Vadinasi, bu­
+    vo tik Jupiteris, turėjęs antrąją ypatybę*.
+    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
+    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
+    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
+    se buvo žinomi Lietuvoje.
+  citata_rodoma: |
+    Vadinasi, bu­
+    vo tik Jupiteris, turėjęs antrąją ypatybę*.
+    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
+    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
+    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
+    se buvo žinomi Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -83,7 +83,12 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
     Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
     dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
     grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
-  citata_rodoma: "Vėliau, pagal 1331 metų rugsėjo 17\ndienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys\nbuvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­\ngė pilį iš naujo atstatyti ir sustiprinti."
+  citata_rodoma: |
+    Vėliau, pagal 1331 metų rugsėjo 17
+    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
+    buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
+    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
+    gė pilį iš naujo atstatyti ir sustiprinti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

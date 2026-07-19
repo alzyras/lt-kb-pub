@@ -78,7 +78,8 @@ Nenurodyta
     atsisėdęs prie krūvos ant žemos
     kaladėlės,
     grūdus bėrė maža medine vėtykliuke.
-  citata_rodoma: "Vėtė javus žmogus atsisėdęs prie krūvos ant žemos kaladėlės, grūdus bėrė maža medine vėtykliuke."
+  citata_rodoma: |
+    Vėtė javus žmogus atsisėdęs prie krūvos ant žemos kaladėlės, grūdus bėrė maža medine vėtykliuke.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

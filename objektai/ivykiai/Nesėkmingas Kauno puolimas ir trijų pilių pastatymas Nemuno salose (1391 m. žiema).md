@@ -172,7 +172,21 @@ Nenurodyta
     čiojoje, vadinamoje Marien­
     burgu, įkurdino savo karius
     Vytautas.
-  citata_rodoma: "Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­\nstumti, ypač nepaprastą narsumą rodė lenkų pėstinin­\nkai. Netekęs vilties, kad užkariaus pilį, be to, nenorė­\ndamas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­\nko nenuveikė, jis pasitraukė į Nemuno salas, esančias \nuž vienos mylios, ir pastatė čia naujas pilis. Dviejose \nsalose, Naujojoje ir Riterių, pavadintose Nojerverde-\nriu ir Ritersverderiu, kryžiuo- \nStato L ie tu v o je паи- \nčiai paliko savo įgulą, o tre­\njas pilis \nčiojoje, vadinamoje Marien­\nburgu, įkurdino savo karius \nVytautas."
+  citata_rodoma: |
+    Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
+    stumti, ypač nepaprastą narsumą rodė lenkų pėstinin­
+    kai. Netekęs vilties, kad užkariaus pilį, be to, nenorė­
+    damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­
+    ko nenuveikė, jis pasitraukė į Nemuno salas, esančias
+    už vienos mylios, ir pastatė čia naujas pilis. Dviejose
+    salose, Naujojoje ir Riterių, pavadintose Nojerverde-
+    riu ir Ritersverderiu, kryžiuo-
+    Stato L ie tu v o je паи-
+    čiai paliko savo įgulą, o tre­
+    jas pilis
+    čiojoje, vadinamoje Marien­
+    burgu, įkurdino savo karius
+    Vytautas.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

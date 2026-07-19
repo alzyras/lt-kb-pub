@@ -135,7 +135,14 @@ Nenurodyta
     sėdintį ant žirgo ir vedantį kitą ristūną — pažabotą juodį, jis nuėjo prie jo ir pasiprašė
     vieno žirgo, tačiau šis įniršęs užjojo ant jo, parbloškė jį žemėn ir, kelis kartus prajojęs,
     jį sutrypė.
-  citata_rodoma: "Apie Karšuvos žemės nusiaubimą\n\n  Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į\nKaršuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į\nsaugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,\nsudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse. Kai vėliau\ntraukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką."
+  citata_rodoma: |
+    Apie Karšuvos žemės nusiaubimą
+
+      Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į
+    Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į
+    saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
+    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse. Kai vėliau
+    traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

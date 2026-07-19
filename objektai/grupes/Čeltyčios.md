@@ -98,7 +98,18 @@ Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio že
     kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
     kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
     neišgydomomis ligomis.
-  citata_rodoma: "Čeltyčios (Czeltice)\nTai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių\nvaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­\n152\n\n## Puslapis 152\n\ntaro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­\nliodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­\nmet iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo\nJūratė ."
+  citata_rodoma: |
+    Čeltyčios (Czeltice)
+    Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
+    vaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­
+    152
+
+    ## Puslapis 152
+
+    taro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­
+    liodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­
+    met iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo
+    Jūratė .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

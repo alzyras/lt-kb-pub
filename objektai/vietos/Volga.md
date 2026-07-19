@@ -242,7 +242,17 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą. Nestoras irgi nusirašė visa tai.
-  citata_rodoma: "Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą. Tai pasakoja Amia-\nnas Marcelinas1."
+  citata_rodoma: |
+    Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą. Tai pasakoja Amia-
+    nas Marcelinas1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

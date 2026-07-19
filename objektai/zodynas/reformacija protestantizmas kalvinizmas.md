@@ -109,7 +109,8 @@ media_all_json: |-
     tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
     Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
     jo liuteronas Abraomas Kulvietis.
-  citata_rodoma: "tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų"
+  citata_rodoma: |
+    tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -132,7 +133,8 @@ media_all_json: |-
     su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
     padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
     teresų lygį ir taip išugdyti lietuvių inteligentiją.
-  citata_rodoma: "su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo"
+  citata_rodoma: |
+    su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -158,7 +160,8 @@ media_all_json: |-
     protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
     Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
     čios Katalikų bažnyčios įtaką.
-  citata_rodoma: "Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą"
+  citata_rodoma: |
+    Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

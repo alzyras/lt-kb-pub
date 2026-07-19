@@ -143,7 +143,16 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
     bančių apie tokią kilmę. Kilęs iš Prūsijos Vilichijus, ko­
     mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
     iš graikų, nes galėjo su jais susikalbėti jų kalba4.
-  citata_rodoma: "Pažvelgę tyrinėtojo žvilgsniu į\nlietuvių senovės paminklus, visur aptinkame pėdsakų ir\npadavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­\nteikia žinių, jog prie Baltijos jūros amžių amžiais buvo\nžinomi padavimai apie tenykščių genčių, ypač prūsų, iš­\ntakas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­\ntu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­\nmu, rašo apie makedonus, po Aleksandro Didžiojo mirties\natvykusius į prūsų kraštus."
+  citata_rodoma: |
+    Pažvelgę tyrinėtojo žvilgsniu į
+    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
+    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
+    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
+    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
+    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
+    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
+    atvykusius į prūsų kraštus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

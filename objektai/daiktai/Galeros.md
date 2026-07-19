@@ -112,7 +112,14 @@ Nenurodyta
     pabodo ši svetima valdžia3. Jie įsivėlė į kruvinus susi­
     rėmimus su grutingais; iš to kilo konfliktas su visa go­
     tų tauta.
-  citata_rodoma: "Tad, kai he- \nrulai negalėjo vieni priešintis romėnų galerų antpuo­\nliams, jie kreipdavosi į tuos kaimynus ir išliko jų pade­\ndami2. Visa tai lėmė gotų valdžios įtaką kitų kolonistų \natžvilgiu. Dėl savo karingumo išpuikusiai herulų genčiai, \npasipūtusiai ir nepratusiai varžyti savo polinkių, greitai \npabodo ši svetima valdžia3."
+  citata_rodoma: |
+    Tad, kai he-
+    rulai negalėjo vieni priešintis romėnų galerų antpuo­
+    liams, jie kreipdavosi į tuos kaimynus ir išliko jų pade­
+    dami2. Visa tai lėmė gotų valdžios įtaką kitų kolonistų
+    atžvilgiu. Dėl savo karingumo išpuikusiai herulų genčiai,
+    pasipūtusiai ir nepratusiai varžyti savo polinkių, greitai
+    pabodo ši svetima valdžia3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

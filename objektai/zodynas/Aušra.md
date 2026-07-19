@@ -93,7 +93,14 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
     nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
     kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
     (Kronu) pilimi.
-  citata_rodoma: "Aušra (Aussra)\nRyto deivė.\nLasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­\ndas vadina ją Aurora. Jos darbas -  kiekvieną rytą rožiniais pirš­\nteliais atidaryti rytų vartus ir uždegti saulės fakelą. Jos ir mė­\nnesio meilės nuotykius aprašysime skyriuje apie dangaus kū­\nnų dievinimą."
+  citata_rodoma: |
+    Aušra (Aussra)
+    Ryto deivė.
+    Lasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­
+    das vadina ją Aurora. Jos darbas -  kiekvieną rytą rožiniais pirš­
+    teliais atidaryti rytų vartus ir uždegti saulės fakelą. Jos ir mė­
+    nesio meilės nuotykius aprašysime skyriuje apie dangaus kū­
+    nų dievinimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

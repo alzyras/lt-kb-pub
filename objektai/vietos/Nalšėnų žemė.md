@@ -69,7 +69,11 @@ Jie buvo pasiekę Nalšėnų žemę^144.
     jaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­
     dajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.
     Jie buvo pasiekę Nalšėnų žemę^144.
-  citata_rodoma: "Ipati­\njaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­\ndajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.\nJie buvo pasiekę Nalšėnų žemę^144."
+  citata_rodoma: |
+    Ipati­
+    jaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­
+    dajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.
+    Jie buvo pasiekę Nalšėnų žemę^144.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

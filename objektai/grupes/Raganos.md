@@ -90,7 +90,14 @@ Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai ragan
     ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
     langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
     užbaigė gyvenimą.
-  citata_rodoma: "Šios deivės yra tikra antikinių hamadriadžių kopija.\nPrietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,\ndabar raganomis vadina tam tikras kerėtojas, galinčias pasi­\nversti katėmis bei šarkomis ir skraidančias raitomis ant ožio.\nPavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio\nbalsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio\nir kankinanti jį savo pentinais, todėl tas bliaunąs."
+  citata_rodoma: |
+    Šios deivės yra tikra antikinių hamadriadžių kopija.
+    Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
+    dabar raganomis vadina tam tikras kerėtojas, galinčias pasi­
+    versti katėmis bei šarkomis ir skraidančias raitomis ant ožio.
+    Pavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio
+    balsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio
+    ir kankinanti jį savo pentinais, todėl tas bliaunąs.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

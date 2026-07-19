@@ -138,7 +138,14 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
     kitos žmonos buvo laikomos vergėmis ir namų nuosavybe, ku­
     rią po šeimininko mirties pasidalydavo įpėdiniai; jos būdavo
     arba iš paimtų per karą, arba nupirktos iš vargingų tėvų.
-  citata_rodoma: "Kartais, tik­\nriausiai kaip apgavikiškus monus, žmonėms rodydavo baisias\ngyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­\ngirdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­\nbasi su vyriausiuoju žyniu“5.\nBuvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­\nmui ir atskleisti slaptam."
+  citata_rodoma: |
+    Kartais, tik­
+    riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
+    gyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­
+    girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­
+    basi su vyriausiuoju žyniu“5.
+    Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
+    mui ir atskleisti slaptam.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

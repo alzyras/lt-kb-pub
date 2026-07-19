@@ -80,7 +80,8 @@ Terminas vartojamas prisiekimo, išpažinties ir komunijos kontekste.
     Blaivystė daug sugelbėjo svie­
     tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas
     žmogus.
-  citata_rodoma: "Blaivystė daug sugelbėjo svietui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus."
+  citata_rodoma: |
+    Blaivystė daug sugelbėjo svietui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

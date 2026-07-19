@@ -74,7 +74,12 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
     rašytų straipsnių :
     1)** **_Bibliographie d. Geschichte von Ost- und Westpreußen für die Jahre
     1930-1938,_** **Aalen 1964.
-  citata_rodoma: "Toliau iki šiol išleistose penkiose tąsose E. Wermke ėmė rūpestingiau\napžvelgti ir lietuvių kalba rašytus darbus, nevengdamas sužymėti ir LE\nrašytų straipsnių :\n1)** **_Bibliographie d. Geschichte von Ost- und Westpreußen für die Jahre\n1930-1938,_** **Aalen 1964."
+  citata_rodoma: |
+    Toliau iki šiol išleistose penkiose tąsose E. Wermke ėmė rūpestingiau
+    apžvelgti ir lietuvių kalba rašytus darbus, nevengdamas sužymėti ir LE
+    rašytų straipsnių :
+    1)** **_Bibliographie d. Geschichte von Ost- und Westpreußen für die Jahre
+    1930-1938,_** **Aalen 1964.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

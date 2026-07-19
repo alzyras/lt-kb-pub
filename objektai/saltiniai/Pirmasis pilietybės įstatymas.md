@@ -68,7 +68,12 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
     lonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-
     žada grąžinti kolonistams pinigus, kiek jie patys už tą žemę
     yra sumokėję.
-  citata_rodoma: "Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį,\nkuriuo žemė, valdoma rusų vyriausybės įkurdintų Lietuvoj ko-\nlonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-\nžada grąžinti kolonistams pinigus, kiek jie patys už tą žemę\nyra sumokėję."
+  citata_rodoma: |
+    Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį,
+    kuriuo žemė, valdoma rusų vyriausybės įkurdintų Lietuvoj ko-
+    lonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-
+    žada grąžinti kolonistams pinigus, kiek jie patys už tą žemę
+    yra sumokėję.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

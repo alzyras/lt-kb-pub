@@ -91,7 +91,11 @@ Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemai
     Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
     tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
     stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais.
-  citata_rodoma: "Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­\ntis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o\nvaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­\ntauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą."
+  citata_rodoma: |
+    Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
+    tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
+    vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

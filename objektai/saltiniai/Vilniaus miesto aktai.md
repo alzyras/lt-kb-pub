@@ -70,7 +70,23 @@ media_all_json: |-
     SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ
     a) Iki Unijos
     1.
-  citata_rodoma: "IX priedą.\n72\n299\n\n## Puslapis 316\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nPRIEDAI\nPRIE\nVILNIAUS MIESTO ISTORIJOS  \nKETVIRTOSIOS KNYGOS\nI\nVILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ  \nSĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ\na) Iki Unijos\n1."
+  citata_rodoma: |
+    IX priedą.
+    72
+    299
+
+    ## Puslapis 316
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    PRIEDAI
+    PRIE
+    VILNIAUS MIESTO ISTORIJOS
+    KETVIRTOSIOS KNYGOS
+    I
+    VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ
+    SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ
+    a) Iki Unijos
+    1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

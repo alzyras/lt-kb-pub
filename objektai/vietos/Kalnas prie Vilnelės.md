@@ -122,7 +122,15 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
     [Vyskupo seminarijos fundacija iš
     vyskupo stalo dvaro, vadinamo
     Vozgėliškėmis [Vaisgėliškis].
-  citata_rodoma: "Vilniaus turguje 1580 metų birželio 18 dieną \nbuvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­\nvystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 \nmetais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, \npastačius apvalaus bokšto pavidalo paminklą, išlikusį iki\n[Vyskupo seminarijos fundacija iš \nvyskupo stalo dvaro, vadinamo \nVozgėliškėmis [Vaisgėliškis]."
+  citata_rodoma: |
+    Vilniaus turguje 1580 metų birželio 18 dieną
+    buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­
+    vystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
+    metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
+    pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki
+    [Vyskupo seminarijos fundacija iš
+    vyskupo stalo dvaro, vadinamo
+    Vozgėliškėmis [Vaisgėliškis].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

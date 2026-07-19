@@ -195,7 +195,14 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus
     Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus
     dėl šventosios žemės išvadavimo. Padrąsintas dieviškojo apreiškimo ir užsidegęs
-  citata_rodoma: "Apie Alberto Didžiojo mirtį\n\n   Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).\n\n\n\n                67."
+  citata_rodoma: |
+    Apie Alberto Didžiojo mirtį
+
+       Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).
+
+
+
+                    67.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

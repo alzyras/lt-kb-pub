@@ -94,7 +94,9 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
     X amžiuje. Tačiau Nestoras IX amžiuje žinojo šį taip
     vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie
     rusų variagų4.
-  citata_rodoma: "Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera­\nmus, ir priešingo būdvardžiui Romus, ramus3."
+  citata_rodoma: |
+    Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera­
+    mus, ir priešingo būdvardžiui Romus, ramus3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

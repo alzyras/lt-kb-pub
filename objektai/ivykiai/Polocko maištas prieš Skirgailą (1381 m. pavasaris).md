@@ -83,8 +83,13 @@ Nenurodyta
     Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė
     1381 pavasarį atvirą maištą. O Lietuvos metropolitas Kiprijonas,
     kuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­
-    resais, 1381 m. persikėlė į Maskvos žemes.
-  citata_rodoma: "Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.\nPrieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė\n1381 pavasarį atvirą maištą. O Lietuvos metropolitas Kiprijonas,\nkuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­\nresais, 1381 m."
+    resais, 1381 m.
+  citata_rodoma: |
+    Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.
+    Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė
+    1381 pavasarį atvirą maištą. O Lietuvos metropolitas Kiprijonas,
+    kuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­
+    resais, 1381 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

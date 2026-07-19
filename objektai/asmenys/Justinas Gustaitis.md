@@ -74,7 +74,17 @@ Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVA
     muose 1991 M. vasario mėn.
 
     „Neramu, o gal jau paskutinį kartą.
-  citata_rodoma: "Tad, pasirodykime laisvės\nverti ir tą dieną, kada kovos pradžia atrodys\n\nSAVANORIO LAIŠKAS\n\nJustino Gustaičio laiškas, rastas pames-\ntame pase Aukščiausiosios Tarybos rū-\nmuose 1991 M. vasario mėn.\n\n„Neramu, o gal jau paskutinį kartą."
+  citata_rodoma: |
+    Tad, pasirodykime laisvės
+    verti ir tą dieną, kada kovos pradžia atrodys
+
+    SAVANORIO LAIŠKAS
+
+    Justino Gustaičio laiškas, rastas pames-
+    tame pase Aukščiausiosios Tarybos rū-
+    muose 1991 M. vasario mėn.
+
+    „Neramu, o gal jau paskutinį kartą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -130,7 +130,16 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     ten Mazovijos ir Prūsijos pa­
     sieniu; niekieno netrukdomi, nusiaubė kaimus, išsivarė
     galybę gyvulių ir belaisvių.
-  citata_rodoma: "Tiesą sakant,\ntą pasitraukimą su visa manta ir vaikais į Lietuvą, kur\ngyveno tos pačios kilmės tauta, vargu ar galima va­\ndinti tremtimi. Tokio paties likimo ištikti skalvių di­\ndikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje,\npersikraustė su savo turtais ir žmonėmis toliau į Lie­\ntuvą. Tuo tarpu kilo neramu-\n1269 m e ta i\nmai Lenkijoje."
+  citata_rodoma: |
+    Tiesą sakant,
+    tą pasitraukimą su visa manta ir vaikais į Lietuvą, kur
+    gyveno tos pačios kilmės tauta, vargu ar galima va­
+    dinti tremtimi. Tokio paties likimo ištikti skalvių di­
+    dikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje,
+    persikraustė su savo turtais ir žmonėmis toliau į Lie­
+    tuvą. Tuo tarpu kilo neramu-
+    1269 m e ta i
+    mai Lenkijoje.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

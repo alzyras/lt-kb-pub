@@ -82,7 +82,12 @@ Narbuto pasakojime kunigaikštis Įminas vaikystėje buvo išvestas į Lietuvai 
     naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
     Jaunę, o su jomis - septynis sūnus3. Vida buvo švedų kilmės
     bartininko Vidmanto iš Kuršo duktė.
-  citata_rodoma: "Iš Igelonaičių (Igelio palikuo­\nnių. -  R. J.), pusdievių vaikų, išliko tik vienas -  kunigaikštis\nįminąs, kurj ištikimi bičiuliai vaikystėje išsivedė į draugiškos\nLietuvai dregovičių tautos žemę. Ten jis buvo Igmenio2 pilyje,\nkur gyveno ir jo palikuonys, viešpataudami gretimame krašte."
+  citata_rodoma: |
+    Iš Igelonaičių (Igelio palikuo­
+    nių. -  R. J.), pusdievių vaikų, išliko tik vienas -  kunigaikštis
+    įminąs, kurj ištikimi bičiuliai vaikystėje išsivedė į draugiškos
+    Lietuvai dregovičių tautos žemę. Ten jis buvo Igmenio2 pilyje,
+    kur gyveno ir jo palikuonys, viešpataudami gretimame krašte.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

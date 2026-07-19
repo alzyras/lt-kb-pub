@@ -65,7 +65,15 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
     gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
     Po to jie vyriškai stojo į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo
     didelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų.
-  citata_rodoma: "Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,\nsembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,\npasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,\nužuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o\nužuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,\ngerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.\nPo to jie vyriškai stojo  į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo\ndidelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų."
+  citata_rodoma: |
+    Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
+    sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,
+    pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,
+    užuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o
+    užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
+    gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
+    Po to jie vyriškai stojo  į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo
+    didelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

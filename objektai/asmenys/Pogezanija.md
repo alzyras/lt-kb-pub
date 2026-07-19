@@ -99,7 +99,15 @@ Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė s
     Varmija
     Ketvirta provincija — Varmija, taip vadinama nuo
     senų laikų.
-  citata_rodoma: "Senovinė Kiedinių tvirtovė, kur \nvėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir \nFrauenburgo, ant Tolko kalno. Pietuose į viršų kilo Vek- \nlico tvirtovė, viena garsiausių Pagudėje. Be to, ir kitose \nvietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir \nturtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai \nišnyko; net nežinoma, kur mitinė kunigaikštytė Pogeza- \nnija skelbė savo pranašystes ir sprendimus."
+  citata_rodoma: |
+    Senovinė Kiedinių tvirtovė, kur
+    vėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir
+    Frauenburgo, ant Tolko kalno. Pietuose į viršų kilo Vek-
+    lico tvirtovė, viena garsiausių Pagudėje. Be to, ir kitose
+    vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir
+    turtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai
+    išnyko; net nežinoma, kur mitinė kunigaikštytė Pogeza-
+    nija skelbė savo pranašystes ir sprendimus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

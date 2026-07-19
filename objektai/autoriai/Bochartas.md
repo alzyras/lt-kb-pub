@@ -90,7 +90,13 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
     gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
     nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
     graikų mitologijos Trejybė.
-  citata_rodoma: "Egiptiečiai ir graikai, romėnai, in­\ndai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­\ngiau ar mažiau paslaptingą dievų Kabirų ritualą.\nBochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­\nkiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,\nDii socii arbaAnactes -  monarchai."
+  citata_rodoma: |
+    Egiptiečiai ir graikai, romėnai, in­
+    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
+    giau ar mažiau paslaptingą dievų Kabirų ritualą.
+    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
+    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
+    Dii socii arbaAnactes -  monarchai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

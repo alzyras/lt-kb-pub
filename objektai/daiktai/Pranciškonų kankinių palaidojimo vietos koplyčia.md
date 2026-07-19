@@ -80,7 +80,8 @@ Nenurodyta
     nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
     palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
     trų vienuolynas).
-  citata_rodoma: "nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų"
+  citata_rodoma: |
+    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -97,7 +97,19 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
     tis už Bažnyčios vienybę ir po visą
     dieceziją būtų rengiamos procesijos
     su litanijomis".
-  citata_rodoma: "Tik po dvejų metų kapitula, patyrusi, kad \njau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­\npą imtis visokeriopų priemonių, kokias tik jam tokiu atveju \nleistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­\nkuotas ir priverstas palikti miestą, bet Martyno Liuterio ir \nCvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo \nstipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, \nvadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo\nrenkasi į savo sueigas Lukiškėse, Jo \nDidenybės Vilniaus vaivados Mika­\nlojaus Radvilos rūmuose; nutaria \n(savo susirinkime 1557 m."
+  citata_rodoma: |
+    Tik po dvejų metų kapitula, patyrusi, kad
+    jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­
+    pą imtis visokeriopų priemonių, kokias tik jam tokiu atveju
+    leistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­
+    kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
+    Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo
+    stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,
+    vadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo
+    renkasi į savo sueigas Lukiškėse, Jo
+    Didenybės Vilniaus vaivados Mika­
+    lojaus Radvilos rūmuose; nutaria
+    (savo susirinkime 1557 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

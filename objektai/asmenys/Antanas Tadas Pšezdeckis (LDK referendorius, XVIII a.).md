@@ -90,7 +90,11 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio para
     Mykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko
     pateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu
     Tadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai.
-  citata_rodoma: "1756 m. kanauninkas pasakojo apie Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio\nMykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko\npateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu\nTadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai."
+  citata_rodoma: |
+    1756 m. kanauninkas pasakojo apie Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio
+    Mykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko
+    pateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu
+    Tadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai.
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

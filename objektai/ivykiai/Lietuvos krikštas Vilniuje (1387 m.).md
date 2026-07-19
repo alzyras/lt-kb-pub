@@ -167,7 +167,12 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
     ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
     Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
     rykais ir visokia manta.
-  citata_rodoma: "Iškilmingai, \ndalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, \nją pašventino Gniezno arkivyskupas Bodzanta, o karalienė \nJadvyga iš savo pačios lobyno skrynių apdovanojo brangiais \nrykais ir visokia manta."
+  citata_rodoma: |
+    Iškilmingai,
+    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
+    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
+    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
+    rykais ir visokia manta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -190,7 +195,16 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
     mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
     griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
     liavietės, pradėta statyti Šv. Stanislovo katedra8.
-  citata_rodoma: "Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­\ntaus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­\nnigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­\nsirinkusiems žmonėms apie didelį ir esminį religijos pokytį. \nVisi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o \npo apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­\nmingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­\ngriauta Perkūno šventykla, ir būtent toje vietoje, vidur pi- \nliavietės, pradėta statyti Šv. Stanislovo katedra8."
+  citata_rodoma: |
+    Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­
+    taus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­
+    nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­
+    sirinkusiems žmonėms apie didelį ir esminį religijos pokytį.
+    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
+    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
+    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
+    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
+    liavietės, pradėta statyti Šv. Stanislovo katedra8.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -216,7 +230,16 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
     čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
     krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
     pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
-  citata_rodoma: "Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip \nnaujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos \napaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­\nje atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir \ntauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­\nčionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno \narkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­\nčiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­\nkrikštytieji Krokuvoje."
+  citata_rodoma: |
+    Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip
+    naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos
+    apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­
+    je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir
+    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
+    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
+    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
+    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
+    krikštytieji Krokuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -71,7 +71,8 @@ media_all_json: |-
     naikinta dauguma – apie 150 000 – Lietuvos žydų. Apie 50 tūkst. žydų
     laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
     doti kaip pigi darbo jėga.
-  citata_rodoma: "laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-"
+  citata_rodoma: |
+    laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

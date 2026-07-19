@@ -70,7 +70,11 @@ Paszkiewicz : Polityka miska Kazimierza Wielkiego, Warszawa 1925, 189 p. (^11) Z
     189 p.**
     (^11) **Z. Ivinskis :** **_Handelsbeziehungen des Grossfürstentums Litauen mit
     Riga im 14.
-  citata_rodoma: "—•\nH. Paszkiewicz :** **_Polityka miska Kazimierza Wielkiego,_** **Warszawa 1925,\n189 p.**\n(^11) **Z."
+  citata_rodoma: |
+    —•
+    H. Paszkiewicz :** **_Polityka miska Kazimierza Wielkiego,_** **Warszawa 1925,
+    189 p.**
+    (^11) **Z.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

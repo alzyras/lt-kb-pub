@@ -143,7 +143,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     rėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo
     plačią kultūrinę autonomiją žydams, tautinėms mažumoms, aiškino-
     si dėl numatomos žemės reformos.
-  citata_rodoma: "rėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo"
+  citata_rodoma: |
+    rėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -161,7 +162,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     pritariančią Himanso planui. Rugsėjį Himansas dar pataisė planą lietuvių
     naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
     nio rajono statusą.
-  citata_rodoma: "naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-"
+  citata_rodoma: |
+    naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -181,7 +183,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą,
     nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autono-
     mijos.
-  citata_rodoma: "pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą,"
+  citata_rodoma: |
+    pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -201,7 +204,8 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     sugyvenę Vilniaus regione lenkų ir lietuvių nacionalizmai? Ar Varšuva
     nebūtų diktavusi Vilnijos kantono (ar autonomijos) lenkams savo politi-
     kos?
-  citata_rodoma: "nebūtų diktavusi Vilnijos kantono (ar autonomijos) lenkams savo politi-"
+  citata_rodoma: |
+    nebūtų diktavusi Vilnijos kantono (ar autonomijos) lenkams savo politi-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

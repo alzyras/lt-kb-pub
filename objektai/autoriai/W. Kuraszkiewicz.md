@@ -66,7 +66,10 @@ Kuraszkiewicz, W.
     języku,_ ABaSl, I, 1964, 217-225 p. — Kuraszkiewicz, W. : _Domnie­
     many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
     kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T. : _Język polski.
-  citata_rodoma: "— Kuraszkiewicz, W. : _Domnie­\nmany Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­\nkiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T."
+  citata_rodoma: |
+    — Kuraszkiewicz, W. : _Domnie­
+    many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
+    kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

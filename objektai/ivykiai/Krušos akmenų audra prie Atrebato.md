@@ -67,7 +67,12 @@ Nenurodyta
        Prie Atrebato liepos mėnesį kilo be galo smarki audra, o iš dangaus krito tokie dideli
     akmenys, kad visiškai išmušė pasėlius, vynuogynus ir miškelius (Ptol. loc. cit.; Mart. loc.
     cit.).
-  citata_rodoma: "Apie didžiulius krušos akmenis\n\n   Prie Atrebato liepos mėnesį kilo be galo smarki audra, o iš dangaus krito tokie dideli\nakmenys, kad visiškai išmušė pasėlius, vynuogynus ir miškelius (Ptol. loc. cit.; Mart. loc.\ncit.)."
+  citata_rodoma: |
+    Apie didžiulius krušos akmenis
+
+       Prie Atrebato liepos mėnesį kilo be galo smarki audra, o iš dangaus krito tokie dideli
+    akmenys, kad visiškai išmušė pasėlius, vynuogynus ir miškelius (Ptol. loc. cit.; Mart. loc.
+    cit.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

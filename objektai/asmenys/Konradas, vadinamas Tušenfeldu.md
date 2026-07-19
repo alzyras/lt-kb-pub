@@ -61,7 +61,12 @@ Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfel
 
     Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė
     į nelaisvę arba išžudė. Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
-  citata_rodoma: "Pagrindinių sutarties tekstų pradžioje aiškiai\nminimas Lietuvos karalius Gediminas (Gedeminne, de koning van Lethowen; Gedeminus,\n\nRomainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė\nį nelaisvę arba išžudė. Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu."
+  citata_rodoma: |
+    Pagrindinių sutarties tekstų pradžioje aiškiai
+    minimas Lietuvos karalius Gediminas (Gedeminne, de koning van Lethowen; Gedeminus,
+
+    Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė
+    į nelaisvę arba išžudė. Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -73,7 +73,13 @@ Nenurodyta
     susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­
     dimo ir kitiems svarbiausiems klausimams svarstyti.
     * Orig.
-  citata_rodoma: "Tačiau tiesioginių žinių apie paties Polocko puolimą ki­\ntuose patikimuose šaltiniuose nėra.\n3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų \nsusirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­\ndimo ir kitiems svarbiausiems klausimams svarstyti.\n*  Orig."
+  citata_rodoma: |
+    Tačiau tiesioginių žinių apie paties Polocko puolimą ki­
+    tuose patikimuose šaltiniuose nėra.
+    3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų
+    susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­
+    dimo ir kitiems svarbiausiems klausimams svarstyti.
+    *  Orig.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas

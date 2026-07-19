@@ -67,12 +67,17 @@ Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino l
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­
-    rašyti.
-    Vieno Lietuvos bajoro duktė ypač garsėjo prisirišimu prie trijų
-    savo brolių. Labiausiai jai patikdavę, kai galėdavo jiems pasi­
-    meilinti: siuvinėti gūnias, austi juostas.
-  citata_rodoma: "Žiūrėk II lentelės 4-ąjį piešinį.\nElnias (Elnis)\nElnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis\npašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą\nHartknochas pagrindžia savo pastebėjimais15."
+    Žiūrėk II lentelės 4-ąjį piešinį.
+    Elnias (Elnis)
+    Elnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis
+    pašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą
+    Hartknochas pagrindžia savo pastebėjimais15.
+  citata_rodoma: |
+    Žiūrėk II lentelės 4-ąjį piešinį.
+    Elnias (Elnis)
+    Elnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis
+    pašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą
+    Hartknochas pagrindžia savo pastebėjimais15.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -105,8 +105,23 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
     Valkininkų mūšis galutinai sugriovė
     Sapiegų hegemoniją Lietuvoje, užbaigė nuo
 
-    1700 m. lapkričio 18 d. VALKININKŲ MUSIS 139
-  citata_rodoma: "Priėmusi nutarimą respubli-\nkonų kariuomenė nužygiavo į Vilnių, kur\nŠnipiškių priemiestyje įrengtoje stovykloje,\n\nvykdant Valkininkų nutarimą, buvo iš\nesmės suformuota nauja LDK kariuomenė -\n7500 etatinių vienetų. Išsireikalavusi iš\nVilniaus miesto kontribuciją, respublikonų\nkariuomenė iš sostinės pasitraukė į naujas\ndislokavimo vietas.\n\nValkininkų mūšis galutinai sugriovė\nSapiegų hegemoniją Lietuvoje, užbaigė nuo\n\n1700 m."
+    1700 m.
+  citata_rodoma: |
+    Priėmusi nutarimą respubli-
+    konų kariuomenė nužygiavo į Vilnių, kur
+    Šnipiškių priemiestyje įrengtoje stovykloje,
+
+    vykdant Valkininkų nutarimą, buvo iš
+    esmės suformuota nauja LDK kariuomenė -
+    7500 etatinių vienetų. Išsireikalavusi iš
+    Vilniaus miesto kontribuciją, respublikonų
+    kariuomenė iš sostinės pasitraukė į naujas
+    dislokavimo vietas.
+
+    Valkininkų mūšis galutinai sugriovė
+    Sapiegų hegemoniją Lietuvoje, užbaigė nuo
+
+    1700 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

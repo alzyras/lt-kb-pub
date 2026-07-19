@@ -99,7 +99,14 @@ Nenurodyta
     Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
     das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
     Vytautas nustojo mokėti mongolams duoklę).
-  citata_rodoma: "Paprastai perimama ir žlu-\ngusios imperijos administracinė struktūra bei kultūros paveldas. \nRusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-\ngolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors \nLietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-\ndas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk \nVytautas nustojo mokėti mongolams duoklę)."
+  citata_rodoma: |
+    Paprastai perimama ir žlu-
+    gusios imperijos administracinė struktūra bei kultūros paveldas.
+    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
+    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
+    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
+    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
+    Vytautas nustojo mokėti mongolams duoklę).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

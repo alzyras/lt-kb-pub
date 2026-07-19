@@ -138,7 +138,19 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
     šimt aštuntasis įpėdinis, pavadintas Bodhidana, persikėlė į Ti­
     betą ir apsigyveno prie šventojo Sungo kalno, netoli Honaros
     miesto; ten ir mirė krikščionių eros 495 metais.
-  citata_rodoma: "279\n\n## Puslapis 279\n\ndintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­\ntasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­\nmeldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­\nviai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­\ntoritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir\njo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­\ngiai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­\ndavo karalių, ponų ir prastuomenės didžios pagarbos."
+  citata_rodoma: |
+    279
+
+    ## Puslapis 279
+
+    dintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­
+    tasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­
+    meldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
+    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
+    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
+    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
+    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
+    davo karalių, ponų ir prastuomenės didžios pagarbos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -166,7 +178,14 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
     žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
     tvarką (pas Hartknochą, p. 149):
     1.
-  citata_rodoma: "Pretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų\nžynių vyriausiąjį žynį."
+  citata_rodoma: |
+    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
+    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
+    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
+    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
+    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
+    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
+    žynių vyriausiąjį žynį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

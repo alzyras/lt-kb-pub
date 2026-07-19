@@ -183,7 +183,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     nedetalizavo. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių.
-  citata_rodoma: "kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-"
+  citata_rodoma: |
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -204,7 +205,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
     vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
     Trojos arklys.
-  citata_rodoma: "vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų"
+  citata_rodoma: |
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -222,7 +224,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
     liau – Raudonosios armijos 29-uoju šaulių korpusu). Liepos 11 dieną su-
     stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
-  citata_rodoma: "stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota."
+  citata_rodoma: |
+    stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -245,7 +248,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
     nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
     numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-  citata_rodoma: "departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti"
+  citata_rodoma: |
+    departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

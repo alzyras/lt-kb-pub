@@ -76,7 +76,14 @@ media_all_json: |-
     metais Vilniaus burmistras Jonas
     Markovičius jūroje buvo vokiečių
     sulaikytas, paskui dėl to bylinėtasi.
-  citata_rodoma: "589, \nknyga V. Vilniaus miestiečiams, be­\nsiverčiantiems prekyba, nebuvo \nsvetima ir prekyba su užjūriu. 1529 \nmetais Vilniaus burmistras Jonas \nMarkovičius jūroje buvo vokiečių \nsulaikytas, paskui dėl to bylinėtasi."
+  citata_rodoma: |
+    589,
+    knyga V. Vilniaus miestiečiams, be­
+    siverčiantiems prekyba, nebuvo
+    svetima ir prekyba su užjūriu. 1529
+    metais Vilniaus burmistras Jonas
+    Markovičius jūroje buvo vokiečių
+    sulaikytas, paskui dėl to bylinėtasi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

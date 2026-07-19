@@ -61,7 +61,9 @@ media_all_json: |-
     tęs ne kunigus, o savo kariuomenę. Maža to, ordinas net suimi-
     nėjąs į Lietuvą vykstančius kunigus. Lietuva, sako Gediminas,
     nekariaujanti su krikščionybe: ji teginanti savo laisvę.
-  citata_rodoma: "Lietuva, sako Gediminas,\nnekariaujanti su krikščionybe: ji teginanti savo laisvę."
+  citata_rodoma: |
+    Lietuva, sako Gediminas,
+    nekariaujanti su krikščionybe: ji teginanti savo laisvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -116,7 +116,19 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
     d id y s is
     k u n ig a ik štis,
     T robius — Ž e m a itijo s
-  citata_rodoma: "Netrukus po to Lietuvoje baigė dienas ir Ger­\nmantas. Sukvietus Kernavėje didikų sueigą, Germanto\nvyresnysis sūnus Giliginas buvo paskelbtas Lietuvos\nvaldovu, jo broliui Trobiui\npatikėta Žemaitija su ta są­\nlyga, kad jis bus pavaldus\nLietuvos didžiajam kunigaik­\nščiui. Rūmų maršalas, para­\nginęs vieną bei kitą siekti ir\nkaro, ir taikos metu tokios pat santarvės bei šlovės,\nkokią paveldėjo iš protėvių, įteikė Giliginui kalaviją\nbei lazdą."
+  citata_rodoma: |
+    Netrukus po to Lietuvoje baigė dienas ir Ger­
+    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
+    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
+    valdovu, jo broliui Trobiui
+    patikėta Žemaitija su ta są­
+    lyga, kad jis bus pavaldus
+    Lietuvos didžiajam kunigaik­
+    ščiui. Rūmų maršalas, para­
+    ginęs vieną bei kitą siekti ir
+    karo, ir taikos metu tokios pat santarvės bei šlovės,
+    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
+    bei lazdą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -73,7 +73,8 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
     viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
     siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
     gaikštystės pulkai).
-  citata_rodoma: "įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė"
+  citata_rodoma: |
+    įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

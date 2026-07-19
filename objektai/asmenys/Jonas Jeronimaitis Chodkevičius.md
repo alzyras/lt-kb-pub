@@ -164,7 +164,10 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas
     siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
     karinės pagalbos, kartu unijos.
-  citata_rodoma: "Vitebsko „karo lauko“ seimas \nsiuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti \nkarinės pagalbos, kartu unijos."
+  citata_rodoma: |
+    Vitebsko „karo lauko“ seimas
+    siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
+    karinės pagalbos, kartu unijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -182,7 +185,10 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     prijungimo prie Lenkijos – idėją. Tai buvo žiaurus kompromisas. Kreipda-
     masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu
     skausmu ir širdgėla buvome priversti nusileisti.
-  citata_rodoma: "Kreipda-\nmasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu \nskausmu ir širdgėla buvome priversti nusileisti."
+  citata_rodoma: |
+    Kreipda-
+    masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu
+    skausmu ir širdgėla buvome priversti nusileisti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -202,7 +208,12 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
     ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
     tybingumą.
-  citata_rodoma: "Apgindamas LDK \nantspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-\nvos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami \nne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-\ntybingumą."
+  citata_rodoma: |
+    Apgindamas LDK
+    antspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-
+    vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
+    ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
+    tybingumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -221,7 +232,11 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime
     1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos
     prijungimo prie Lenkijos – idėją.
-  citata_rodoma: "Jis pasirinko pirmąjį kelią, tačiau sten-\ngėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime \n1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos \nprijungimo prie Lenkijos – idėją."
+  citata_rodoma: |
+    Jis pasirinko pirmąjį kelią, tačiau sten-
+    gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime
+    1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos
+    prijungimo prie Lenkijos – idėją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

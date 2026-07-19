@@ -68,7 +68,10 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
     leido gauti valstybinių vietų. Zigmanto Kęstutaičio privilegija suly-
     gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
     vietų jie vis tiek negalėjo gauti.
-  citata_rodoma: "Zigmanto Kęstutaičio privilegija suly-\ngino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių\nvietų jie vis tiek negalėjo gauti."
+  citata_rodoma: |
+    Zigmanto Kęstutaičio privilegija suly-
+    gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
+    vietų jie vis tiek negalėjo gauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

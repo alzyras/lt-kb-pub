@@ -121,7 +121,10 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
     dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
     su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
-  citata_rodoma: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­\ndovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu\nsu Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."
+  citata_rodoma: |
+    Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
+    dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
+    su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

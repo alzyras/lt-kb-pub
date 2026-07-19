@@ -70,7 +70,12 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     Ryčiausias (500 km nuo Vilniaus) Vilniaus baroko mokyklos
     ir garsiausio jos architekto J. K. Glaubitzo kūrinys –
     Basųjų karmelitų bažnyčia Mstislavlyje.
-  citata_rodoma: "O toliau – ištisa plejada modernaus meno, literatūros, architektūros \nkūrėjų, suspėjusių per du dešimtmečius pakeisti Lietuvos veidą ir krašto-\nRyčiausias (500 km nuo Vilniaus) Vilniaus baroko mokyklos \nir garsiausio jos architekto J. K. Glaubitzo kūrinys –  \nBasųjų karmelitų bažnyčia Mstislavlyje. A. Bumblausko nuotr."
+  citata_rodoma: |
+    O toliau – ištisa plejada modernaus meno, literatūros, architektūros
+    kūrėjų, suspėjusių per du dešimtmečius pakeisti Lietuvos veidą ir krašto-
+    Ryčiausias (500 km nuo Vilniaus) Vilniaus baroko mokyklos
+    ir garsiausio jos architekto J. K. Glaubitzo kūrinys –
+    Basųjų karmelitų bažnyčia Mstislavlyje. A. Bumblausko nuotr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -80,7 +80,16 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
     sienų. Kai sutemo, broliai liovėsi puolę. Kitą dieną, kai jie ketino vėl stoti į kovą, pilėnai,
     davę įkaitų, pasižadėjo paklusti broliams. Verčiami lietuvių karaliaus, vis dėlto vėliau jie
     nesilaikė duoto žodžio.
-  citata_rodoma: "Kai po to broliai pasuko atgal, suplūdo, išvydę\nminėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti;\nabiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir\nkrito daug netikėlių.\n\n\n\n\n            335 (328)."
+  citata_rodoma: |
+    Kai po to broliai pasuko atgal, suplūdo, išvydę
+    minėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti;
+    abiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir
+    krito daug netikėlių.
+
+
+
+
+                335 (328).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

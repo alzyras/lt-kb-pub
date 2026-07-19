@@ -90,7 +90,8 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
     visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodaliz-
     mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
-  citata_rodoma: "Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti"
+  citata_rodoma: |
+    Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

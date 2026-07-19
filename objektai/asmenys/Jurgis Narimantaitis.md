@@ -126,7 +126,15 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
     turėjo vengti karo su lietuviais, antraip galėjo palūžti
     iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
     bių.
-  citata_rodoma: "Tad šis, norėdamas apginti savo teises į Ru­\nsią, nutarė, jog pirmiausia būtina kariauti su lietuviais.\nMat Rusią valdė Algirdo broliai: Liubartas — Lvovą,\nKęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-\nmantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai\nturėjo vengti karo su lietuviais, antraip galėjo palūžti\niš karto susidūrę su daugybe kliūčių ir karo sunkeny­\nbių."
+  citata_rodoma: |
+    Tad šis, norėdamas apginti savo teises į Ru­
+    sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.
+    Mat Rusią valdė Algirdo broliai: Liubartas — Lvovą,
+    Kęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-
+    mantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai
+    turėjo vengti karo su lietuviais, antraip galėjo palūžti
+    iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
+    bių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -166,7 +174,26 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
     žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­
     das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją
     pasiplėšti grobio.
-  citata_rodoma: "Tais pačiais metais\nKazimieras,\nLenkijos kara­\nlius, pasinaudojęs proga, jog lietuviai įsitraukė į karą\nsu kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­\nlynės Algirdo brolį Liubartą. Mat, nors visą Belzo\nkunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­\nlės kunigaikščiui Aleksandrui Narimantaičiui atidavė\nVolynę, tačiau abi šias žemes atidavė su ta sąlyga,\nkad aukščiausią galią į Rusią turėsiąs Lenkijos kara­\nlius, o pilis, miestus bei įgulas tvarkysią lenkų skirti\nvietininkai. Gal supykę dėl šios lenkų padarytos skriau­\ndos, gal dėl to, kad žmonė-\n1367 m e ta i\nse pasklido kalbos, jog, Po­\nlocko vyskupo patarti, kry­\nžiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­\ndas, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją\npasiplėšti grobio."
+  citata_rodoma: |
+    Tais pačiais metais
+    Kazimieras,
+    Lenkijos kara­
+    lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą
+    su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­
+    lynės Algirdo brolį Liubartą. Mat, nors visą Belzo
+    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
+    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
+    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
+    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
+    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
+    vietininkai. Gal supykę dėl šios lenkų padarytos skriau­
+    dos, gal dėl to, kad žmonė-
+    1367 m e ta i
+    se pasklido kalbos, jog, Po­
+    locko vyskupo patarti, kry­
+    žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­
+    das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją
+    pasiplėšti grobio.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

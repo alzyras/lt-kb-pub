@@ -509,7 +509,10 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     326  D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras
     rytų Semboje, į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su
     priešpiliu (CF, p. 68—70).
-  citata_rodoma: "326 D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras\nrytų Semboje,  į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su\npriešpiliu (CF, p."
+  citata_rodoma: |
+    326 D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras
+    rytų Semboje,  į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su
+    priešpiliu (CF, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -529,7 +532,13 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
     prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
     pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
-  citata_rodoma: "Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten\nkai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam\nįkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską\ntinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo\nprie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti\npilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai."
+  citata_rodoma: |
+    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

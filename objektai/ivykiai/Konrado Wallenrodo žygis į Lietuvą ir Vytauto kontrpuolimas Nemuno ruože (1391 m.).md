@@ -86,7 +86,11 @@ Nenurodyta
     metraščius — iki tol dar nebuvo buvę. Trakus radęs paties Skir­
     gailos sudegintus, Wallenrodas nebespėjo atlikti numatyto žygio į
     Vilnių.
-  citata_rodoma: "Jis 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1\nd. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius\nsvečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino\nmetraščius — iki tol dar nebuvo buvę."
+  citata_rodoma: |
+    Jis 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1
+    d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius
+    svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino
+    metraščius — iki tol dar nebuvo buvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

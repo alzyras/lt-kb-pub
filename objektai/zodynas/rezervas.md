@@ -99,7 +99,12 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
     rezervą. Kryžiuočiai mėgino apeiti lenkų
 
     64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m. liepos 15 d.
-  citata_rodoma: "Matydamas, kad mūšio sėkmė krypsta ne\njo naudai, didysis magistras į mūšį metė\nrezervą. Kryžiuočiai mėgino apeiti lenkų\n\n64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m."
+  citata_rodoma: |
+    Matydamas, kad mūšio sėkmė krypsta ne
+    jo naudai, didysis magistras į mūšį metė
+    rezervą. Kryžiuočiai mėgino apeiti lenkų
+
+    64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +128,16 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
     ## Puslapis 67
 
     pajėgos.
-  citata_rodoma: "Tuo momentu buvo aktyvuo-\ntas lenkų rezervas, kuris pradėjo apeiti\nkryžiuočius kairėje iš jų dešiniojo flango.\nNetrukus kryžiuočių kairįjį flangą už-\ngriuvo netikėtai į mūšį sugrįžusios lietuvių\n\n## Puslapis 67\n\npajėgos."
+  citata_rodoma: |
+    Tuo momentu buvo aktyvuo-
+    tas lenkų rezervas, kuris pradėjo apeiti
+    kryžiuočius kairėje iš jų dešiniojo flango.
+    Netrukus kryžiuočių kairįjį flangą už-
+    griuvo netikėtai į mūšį sugrįžusios lietuvių
+
+    ## Puslapis 67
+
+    pajėgos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

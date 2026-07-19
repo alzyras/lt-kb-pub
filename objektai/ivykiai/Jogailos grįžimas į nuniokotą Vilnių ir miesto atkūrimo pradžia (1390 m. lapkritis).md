@@ -128,7 +128,17 @@ Nenurodyta
     radusiems gyventojams, o karaliaus buvimas stiprino tie­
     kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
     gyventojai ir statytis namus ant degėsių.
-  citata_rodoma: "Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390 \nmetų pabaigoje, kai karalius Vladislovas Jogaila, nors jau \npavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos \ntėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­\njos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos \nmaisto ir drabužių atsargos, karaliaus atsigabentos iš Len­\nkijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra- \nradusiems gyventojams, o karaliaus buvimas stiprino tie­\nkos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę \ngyventojai ir statytis namus ant degėsių."
+  citata_rodoma: |
+    Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
+    metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau
+    pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos
+    tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­
+    jos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos
+    maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­
+    kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra-
+    radusiems gyventojams, o karaliaus buvimas stiprino tie­
+    kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
+    gyventojai ir statytis namus ant degėsių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +163,13 @@ Nenurodyta
     Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
     Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
     las37.
-  citata_rodoma: "Tačiau Moskožev- \nskis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­\nmas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui \nVilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė \nJonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­\nlas37."
+  citata_rodoma: |
+    Tačiau Moskožev-
+    skis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­
+    mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui
+    Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
+    Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
+    las37.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -113,7 +113,27 @@ Nenurodyta
     ištikimam tariamos klastos
     atskleidėjui, žadama atlyginti nugalėtų priešų valdo­
     mis.
-  citata_rodoma: "Mat valdovai grei­\nti įtarinėti tolygios kilmės žmones, manydami, jog kas \ngali valdyti, tas ir trokšta karaliauti. Kai valdovas, įta­\nrimo kamuojamas, ėmė dvejoti, Vaidila be vargo su-\n26 4\n\nJ o g a ilo s \nsą m o k sla s \np rieš \nK ę s tu tį \nir \njo \nše im ą\nkurstė neapykantą bei mintį \ngriebtis prievartos. Slaptai \nsusitariama nužudyti Kęstutį \nbei jo palikuonis; Vaidilai, \ništikimam tariamos klastos\natskleidėjui, žadama atlyginti nugalėtų priešų valdo­\nmis."
+  citata_rodoma: |
+    Mat valdovai grei­
+    ti įtarinėti tolygios kilmės žmones, manydami, jog kas
+    gali valdyti, tas ir trokšta karaliauti. Kai valdovas, įta­
+    rimo kamuojamas, ėmė dvejoti, Vaidila be vargo su-
+    26 4
+
+    J o g a ilo s
+    są m o k sla s
+    p rieš
+    K ę s tu tį
+    ir
+    jo
+    še im ą
+    kurstė neapykantą bei mintį
+    griebtis prievartos. Slaptai
+    susitariama nužudyti Kęstutį
+    bei jo palikuonis; Vaidilai,
+    ištikimam tariamos klastos
+    atskleidėjui, žadama atlyginti nugalėtų priešų valdo­
+    mis.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -149,7 +169,17 @@ Nenurodyta
     Kęstučio dukterį Danutę, ketinančią tekėti už Mazo­
     vijos kunigaikščio Jonušo, ir, kūmystės ryšių paakin­
     tas, įspėjo draugą apie gresiantį pavojų.
-  citata_rodoma: "Vis dėlto nutariama tol nestoti į atvirą kovą, kol\nnebus sudaryta karinė sąjunga su Prūsijos bei Livoni­\njos kryžiuočiais. Vaidilos patvarkymu, visai slaptai\nbuvo pasirašytas Jogailos bei kryžiuočių susitarimas,\ntačiau reikalas iškilo aikštėn, kai Kunonas fon Libš-\nteinas, Osterodės komtūras, apie viską pranešė Kęstu­\nčiui. Mat jis neseniai švęstuoju vandeniu pakrikštijo\nKęstučio dukterį Danutę, ketinančią tekėti už Mazo­\nvijos kunigaikščio Jonušo, ir, kūmystės ryšių paakin­\ntas, įspėjo draugą apie gresiantį pavojų."
+  citata_rodoma: |
+    Vis dėlto nutariama tol nestoti į atvirą kovą, kol
+    nebus sudaryta karinė sąjunga su Prūsijos bei Livoni­
+    jos kryžiuočiais. Vaidilos patvarkymu, visai slaptai
+    buvo pasirašytas Jogailos bei kryžiuočių susitarimas,
+    tačiau reikalas iškilo aikštėn, kai Kunonas fon Libš-
+    teinas, Osterodės komtūras, apie viską pranešė Kęstu­
+    čiui. Mat jis neseniai švęstuoju vandeniu pakrikštijo
+    Kęstučio dukterį Danutę, ketinančią tekėti už Mazo­
+    vijos kunigaikščio Jonušo, ir, kūmystės ryšių paakin­
+    tas, įspėjo draugą apie gresiantį pavojų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

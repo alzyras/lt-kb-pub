@@ -81,7 +81,13 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
     politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas.
-  citata_rodoma: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta \nvisa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, \nKrėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas."
+  citata_rodoma: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

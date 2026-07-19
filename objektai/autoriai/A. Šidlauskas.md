@@ -106,7 +106,12 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
     (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
     (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
     (AkMD, t. 12, sąs. 2, 1972).
-  citata_rodoma: "A. Šidlauskas\natkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje\n(AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo\n(AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius\n(AkMD, t. 12, sąs. 2, 1972)."
+  citata_rodoma: |
+    A. Šidlauskas
+    atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje
+    (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
+    (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
+    (AkMD, t. 12, sąs. 2, 1972).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +127,9 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
     97—114.
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
-  citata_rodoma: "Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /\nParengė J. Jurginis ir A. Šidlauskas.—V., 1983."
+  citata_rodoma: |
+    Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
+    Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

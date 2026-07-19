@@ -80,7 +80,12 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
     reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar kas įmanytų surašyti“,
     o jei surašytų, tai „vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami
     juos vėl pajungti krikščionių tikėjimui“ (III, 107).
-  citata_rodoma: "Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko\npareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,\npaliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).\n  Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją\nreikšmę."
+  citata_rodoma: |
+    Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko
+    pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,
+    paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).
+      Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją
+    reikšmę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

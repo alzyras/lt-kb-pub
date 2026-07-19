@@ -113,7 +113,8 @@ Nenurodyta
     Jaunoji kraičvežiams dovanoja
     po naujai atrėžtą rankšluostį. Kraičvežiai, gavę po rankšluostį, per-
     siriša juos per pečius.
-  citata_rodoma: "Jau krai- tis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus. Su bro- liais ateina kraičvežiai ir visi svečiai. Jaunoji kraičvežiams dovanoja po naujai atrėžtą rankšluostį. Kraičvežiai, gavę po rankšluostį, per- siriša juos per pečius."
+  citata_rodoma: |
+    Jau krai- tis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus. Su bro- liais ateina kraičvežiai ir visi svečiai. Jaunoji kraičvežiams dovanoja po naujai atrėžtą rankšluostį. Kraičvežiai, gavę po rankšluostį, per- siriša juos per pečius.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -134,7 +135,8 @@ Nenurodyta
     išgauna iš brolio rublį.
     Kraičvežiai, parvažiavę su kraičiu, randa pilną grįčią sukviestų
     svečių.
-  citata_rodoma: "Kraičvežiai, parvažiavę su kraičiu, randa pilną grįčią sukviestų svečių."
+  citata_rodoma: |
+    Kraičvežiai, parvažiavę su kraičiu, randa pilną grįčią sukviestų svečių.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -155,7 +157,8 @@ Nenurodyta
     Paskui vežimą joja jaunosios įpra­
     šytas brolis; jam reikės nuvažiavus išvaduoti svirne kraičiui vietą.
     Jaunikio namuose kraitį iškelia iš ratų ir pastato kieme.
-  citata_rodoma: "Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį."
+  citata_rodoma: |
+    Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -180,7 +183,8 @@ Nenurodyta
     koks yra.
     Jaunikis išperka, duoda motinai pinigų pagal nusiteikimą,
     bet ne mažiau kaip rublį.
-  citata_rodoma: "Reikia paminėti ir šį, ne visai tikusį, motinų nusistatymą: jos reikalauja, kad jaunikis išpirktų iš jų tą „didelį kraitį“ , o dideliu kraičiu jos vadina kiekvieną kraitį, koks yra. Jaunikis išperka, duoda motinai pinigų pagal nusiteikimą, bet ne mažiau kaip rublį."
+  citata_rodoma: |
+    Reikia paminėti ir šį, ne visai tikusį, motinų nusistatymą: jos reikalauja, kad jaunikis išpirktų iš jų tą „didelį kraitį“ , o dideliu kraičiu jos vadina kiekvieną kraitį, koks yra. Jaunikis išperka, duoda motinai pinigų pagal nusiteikimą, bet ne mažiau kaip rublį.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

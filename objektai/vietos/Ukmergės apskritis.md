@@ -178,7 +178,11 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
 
     1946 m.
-  citata_rodoma: "Misiūnas, apygarda pavadinta Didžiosios\nkovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).\n\n1946 m."
+  citata_rodoma: |
+    Misiūnas, apygarda pavadinta Didžiosios
+    kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
+
+    1946 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -203,7 +207,17 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     dyną, kuriame nerandame nieko, ką galima būtų vadinti
     panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
     tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
-  citata_rodoma: "Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­\nlima daryti jokios kitos išvados, o tik tą, kurią jau minė­\njome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse\ngyventa anksčiau, negu atvykėliai alanai davė pradžią\nšių lydinių susidarymui."
+  citata_rodoma: |
+    Sutiksime net
+    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
+    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
+    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
+    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
+    ri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­
+    lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
+    jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
+    gyventa anksčiau, negu atvykėliai alanai davė pradžią
+    šių lydinių susidarymui.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

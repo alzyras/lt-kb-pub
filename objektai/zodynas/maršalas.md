@@ -370,7 +370,36 @@ media_all_json: |-
     tines žemes veržėsi Lenkijos ir Vengrijos
     jėgos, nuo 1356 m. santykiai su tomis šali-
     mis kuriam laikui normalizavosi.
-  citata_rodoma: "BAU\n=\nS 8\nS\nm\ne-+\n>\nos\n2%\n\n## Puslapis 40\n\nSUS os\n\n: i Paha\n“| KARALYS'\n\nMūšio priešistorė\n\nTesiantis Lietuvos karui su Vokiečių or-\ndinu, 1355 m. pradžioje didelė Kryžiuočių\nkariuomenė, vadovaujama maršalo, įsi-\nveržusi penketą dienų niokojo centri-\n\nnę Žemaitijos Medininkų žemę, po to\nVaikius (vakariau Raseinių), Ariogalą\nprie Dubysos. Tais metais į Lietuvos pie-\ntines žemes veržėsi Lenkijos ir Vengrijos\njėgos, nuo 1356 m."
+  citata_rodoma: |
+    BAU
+    =
+    S 8
+    S
+    m
+    e-+
+    >
+    os
+    2%
+
+    ## Puslapis 40
+
+    SUS os
+
+    : i Paha
+    “| KARALYS'
+
+    Mūšio priešistorė
+
+    Tesiantis Lietuvos karui su Vokiečių or-
+    dinu, 1355 m. pradžioje didelė Kryžiuočių
+    kariuomenė, vadovaujama maršalo, įsi-
+    veržusi penketą dienų niokojo centri-
+
+    nę Žemaitijos Medininkų žemę, po to
+    Vaikius (vakariau Raseinių), Ariogalą
+    prie Dubysos. Tais metais į Lietuvos pie-
+    tines žemes veržėsi Lenkijos ir Vengrijos
+    jėgos, nuo 1356 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -388,7 +417,10 @@ media_all_json: |-
     [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
     pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
     tas ugnimi išdegintas.
-  citata_rodoma: "„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis\nVinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d."
+  citata_rodoma: |
+    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
+    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
+    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -468,7 +500,18 @@ media_all_json: |-
     kad karalystės luomai nu­
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
-  citata_rodoma: "Po to prasidėjo ilgos tarpusavio rietenos, kurias\nnuolat kurstė ir Vytautas, ir\nlenkai, siuntinėdami žygūnus:\nLietuvos didysis kunigaikštis\nstengėsi iš lenkų išgauti suti­\nkimą, o šie — priversti Vy­\ntautą atsisakyti savo sumany­\nmo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus."
+  citata_rodoma: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -99,7 +99,13 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
     nebegalėję būti, nes karūna su karūna negali bū­
     ti sujungta — inkorporuota^3 ).
-  citata_rodoma: "Tas\nprojektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­\ntuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­\nbės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų\nnebegalėję būti, nes karūna su karūna negali bū­\nti sujungta — inkorporuota^3 )."
+  citata_rodoma: |
+    Tas
+    projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­
+    tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­
+    bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
+    nebegalėję būti, nes karūna su karūna negali bū­
+    ti sujungta — inkorporuota^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +129,16 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     gerai suprato, kad laisva ir paveldima Lietuvos karalija
     būtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,
     išlaikant dinastijos teises savo rankose.
-  citata_rodoma: "Tas\nprojektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­\ntuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­\nbės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų\nnebegalėję būti, nes karūna su karūna negali bū­\nti sujungta — inkorporuota^3 ). Be to, Jogaila labai\ngerai suprato, kad laisva ir paveldima Lietuvos karalija\nbūtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,\nišlaikant dinastijos teises savo rankose."
+  citata_rodoma: |
+    Tas
+    projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­
+    tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­
+    bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
+    nebegalėję būti, nes karūna su karūna negali bū­
+    ti sujungta — inkorporuota^3 ). Be to, Jogaila labai
+    gerai suprato, kad laisva ir paveldima Lietuvos karalija
+    būtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,
+    išlaikant dinastijos teises savo rankose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

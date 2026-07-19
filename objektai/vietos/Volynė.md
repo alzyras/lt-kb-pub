@@ -299,7 +299,12 @@ media_all_json: |-
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
     ir prūsų kraštą.
-  citata_rodoma: "organizavo didžiulį kryžiaus\nžygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,\nŽivinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)\n1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti\nir prūsų kraštą."
+  citata_rodoma: |
+    organizavo didžiulį kryžiaus
+    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
+    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
+    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
+    ir prūsų kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -319,7 +324,10 @@ media_all_json: |-
     patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
     įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
     Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
-  citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną)."
+  citata_rodoma: |
+    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
+    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
+    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -343,7 +351,17 @@ media_all_json: |-
     kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
     senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
     minystės ryšiais.
-  citata_rodoma: "Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje."
+  citata_rodoma: |
+    Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -411,7 +429,20 @@ media_all_json: |-
 
     jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
     siryžęs pasiekti.
-  citata_rodoma: "Atvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją. Išvykstančiam Vytautas davė\ngalybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino\nnukauto tauro garsųjį ragą, išmoningai papuoštą auksu\nbei brangakmeniais."
+  citata_rodoma: |
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
+    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
+    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
+    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
+    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
+    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
+    bei brangakmeniais.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -442,7 +473,20 @@ media_all_json: |-
     nius, o jo pusbrolį Mikalojų
     Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
     leriu.
-  citata_rodoma: "Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai. Į seimą atvyko ir\nlenkų atstovai, kurie senato bei bajorų akivaizdoje rim­\nčių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­\nralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­\ntų vieną kartą sudaryta galutinė lenkų ir lietuvių są­\njunga, vadinamoji unija. Jie vis dėlto nieko nepešė,\nnes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių\nteisių į tas žemes."
+  citata_rodoma: |
+    Rugsėjo pabaigoje luomai susirinko Vilniuje į
+    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
+    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
+    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
+    niekas taip nekenkia visuomenės reikalams, kaip as­
+    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
+    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
+    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
+    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
+    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
+    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
+    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
+    teisių į tas žemes.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -472,7 +516,20 @@ media_all_json: |-
     Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
     siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
     turtą.
-  citata_rodoma: "Važiuodamas per Rūdininkų girią7 , jis toje \ngirioje susidūrė su didžiuoju kunigaikščiu Kazimieru \nir žemai nusilenkė didžiajam kunigaikščiui Kazimierui, \nir ėmė prašyti malonės; kunigaikštis Kazimieras paža­\ndėjo suteiksiąs jam savo malonę ir paliksiąs jam jo \ntėvoniją 7 .\nO paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto."
+  citata_rodoma: |
+    Važiuodamas per Rūdininkų girią7 , jis toje
+    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
+    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
+    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
+    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
+    tėvoniją 7 .
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
+    to.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

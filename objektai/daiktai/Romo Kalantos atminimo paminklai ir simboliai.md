@@ -100,7 +100,9 @@ Nenurodyta
     santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
     tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
-  citata_rodoma: "Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-\nminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose."
+  citata_rodoma: |
+    Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
+    minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -117,7 +119,9 @@ Nenurodyta
     vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
-  citata_rodoma: "R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės \nklausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją."
+  citata_rodoma: |
+    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
+    klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

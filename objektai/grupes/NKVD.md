@@ -306,7 +306,14 @@ Nenurodyta
     rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
     nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
     gyventojų neapykantą.
-  citata_rodoma: "Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, \ngrąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą \njuos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie \nvidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-\nrais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-\nnėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies \ngyventojų neapykantą."
+  citata_rodoma: |
+    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
+    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
+    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
+    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
+    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
+    nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
+    gyventojų neapykantą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

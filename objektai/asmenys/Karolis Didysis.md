@@ -57,7 +57,11 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
     kartais pavadinama „senąja“ Viduramžių Europa (V–IX a.). Turima galvo-
     je Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta
     Europa, siekusi Elbę.
-  citata_rodoma: "Vakarų Europa – tai tik Viduramžių Europos dalis, šiandien \nkartais pavadinama „senąja“ Viduramžių Europa (V–IX a.). Turima galvo-\nje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta \nEuropa, siekusi Elbę."
+  citata_rodoma: |
+    Vakarų Europa – tai tik Viduramžių Europos dalis, šiandien
+    kartais pavadinama „senąja“ Viduramžių Europa (V–IX a.). Turima galvo-
+    je Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta
+    Europa, siekusi Elbę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

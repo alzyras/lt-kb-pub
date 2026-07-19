@@ -145,7 +145,12 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     155  Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje
     („Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t. 1, p. 225),
     tačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku.
-  citata_rodoma: "Argi jo troškimai atnešė\n\n  155 Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje\n(„Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t. 1, p. 225),\ntačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku."
+  citata_rodoma: |
+    Argi jo troškimai atnešė
+
+      155 Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje
+    („Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t. 1, p. 225),
+    tačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -184,7 +189,11 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,
     jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
     medžiu pakartas.
-  citata_rodoma: "Tuo tarpu „Narratio“ esama duomenų,\njog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos\nkunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino\npriklausomumą nuo joanitų141."
+  citata_rodoma: |
+    Tuo tarpu „Narratio“ esama duomenų,
+    jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
+    kunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
+    priklausomumą nuo joanitų141.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

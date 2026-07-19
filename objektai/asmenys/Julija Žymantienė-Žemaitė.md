@@ -103,7 +103,16 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
     pirmininkas buvo J. Basanavičius,
     jau šiuo laikotarpiu lietuvių visuo-
     menės laikytas tautos patriarchu.
-  citata_rodoma: "Lietuvių mokslo draugijos iniciatorius ir \nLietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. \nPirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja \nJulija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, \nLiudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)\n\n3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )\n127\npirmininkas buvo J."
+  citata_rodoma: |
+    Lietuvių mokslo draugijos iniciatorius ir
+    Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.
+    Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja
+    Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius,
+    Liudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    127
+    pirmininkas buvo J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +135,8 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
     pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: "monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai"
+  citata_rodoma: |
+    monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

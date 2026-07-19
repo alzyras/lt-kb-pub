@@ -340,7 +340,15 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
     pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
     iš jų 50 krikščionių.
-  citata_rodoma: "Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais\n\n   Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į\npriekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas\nten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė\ndaug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie\npasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė\niš jų 50 krikščionių."
+  citata_rodoma: |
+    Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
+
+       Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
+    priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
+    ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
+    daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
+    pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
+    iš jų 50 krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -361,7 +369,12 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
-  citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -383,7 +396,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
     prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
     sritį valdė prūsai, turėję ten savo pilių (III,7).
-  citata_rodoma: "Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir\nprūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo\nsritį valdė prūsai, turėję ten savo pilių (III,7)."
+  citata_rodoma: |
+    Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
+    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
+    sritį valdė prūsai, turėję ten savo pilių (III,7).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -407,7 +423,12 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     šone, pareiškė: „Štai šitokią karalystę tau duosiu, jei man tarnausi, kur kas geresnę nei
     ta, kurią tau žada šis netikras karalius“. Kai jis antrą kartą apie tai papasakojo žmonai,
     ši, po senovei spyriodamasi, jam nedavė laisvės stoti į vienuolyną.
-  citata_rodoma: "Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais\n\n  Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten\nnužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui\nir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius."
+  citata_rodoma: |
+    Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+
+      Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
+    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -426,7 +447,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui
     prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
     o į jas bėgančius žmones išžudė ar išsivarė į nelaisvę.
-  citata_rodoma: "Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos\n                                   pilies bei miesto sugriovimą\n\n  Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo\nmatęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui\nprie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,\no  į jas bėgančius žmones išžudė ar išsivarė  į nelaisvę."
+  citata_rodoma: |
+    Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
+                                       pilies bei miesto sugriovimą
+
+      Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
+    matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui
+    prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
+    o  į jas bėgančius žmones išžudė ar išsivarė  į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -446,7 +474,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
     Kai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei
     antrą kartą papūtė savo ragą, duodamas sutartą ženklą.
-  citata_rodoma: "440 Dab. Liubava (Lóbau, Lubawa), gyvenvietė į rytus nuo Drevantos aukštupio.\n  441 D."
+  citata_rodoma: |
+    440 Dab. Liubava (Lóbau, Lubawa), gyvenvietė į rytus nuo Drevantos aukštupio.
+      441 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -490,7 +520,16 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi
     šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi
     Galindos.
-  citata_rodoma: "Į rytus Kulmas tuomet tęsėsi tik\nligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro\nsruvena į Goliubą. Čia taip pat buvo senų senovės siena,\nkuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­\nčiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš\ntikrosios Prūsijos, be to, ten ribojosi provincijų mažos\nLubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi\nšios žemės priklausė Kulmui, o jų teritorija driekėsi ligi\nGalindos."
+  citata_rodoma: |
+    Į rytus Kulmas tuomet tęsėsi tik
+    ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro
+    sruvena į Goliubą. Čia taip pat buvo senų senovės siena,
+    kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­
+    čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš
+    tikrosios Prūsijos, be to, ten ribojosi provincijų mažos
+    Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi
+    šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi
+    Galindos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

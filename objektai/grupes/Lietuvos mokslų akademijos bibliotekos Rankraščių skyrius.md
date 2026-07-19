@@ -85,7 +85,14 @@ Didelės apimties 862 lapų rankraštis saugomas Lietuvos mokslų akademijos bib
     rytas paties T. Narbuto ranka: „Šioji „Mitologija“ - tai tikslus
     pirmosios „Lietuvių tautos istorijos“, kurios devyni tomai bu­
     vo išleisti Vilniuje pas Marcinovskį, dalies vertimas.
-  citata_rodoma: "Nesėkmės prie­\nžasčių galėtų būti įvairių, tačiau šiandien faktografinė medžiaga\nnesudaro galimybės vienareikšmiškai atsakyti į šį klausimą.\nDidelės apimties (862 lapai) rankraštis šiuo metu saugo­\nmas Lietuvos mokslų akademijos bibliotekos rankraščių sky­\nriuje. Tituliniame lape rusų kalba parašyta: „Lietuvių mitolo­\ngija."
+  citata_rodoma: |
+    Nesėkmės prie­
+    žasčių galėtų būti įvairių, tačiau šiandien faktografinė medžiaga
+    nesudaro galimybės vienareikšmiškai atsakyti į šį klausimą.
+    Didelės apimties (862 lapai) rankraštis šiuo metu saugo­
+    mas Lietuvos mokslų akademijos bibliotekos rankraščių sky­
+    riuje. Tituliniame lape rusų kalba parašyta: „Lietuvių mitolo­
+    gija.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

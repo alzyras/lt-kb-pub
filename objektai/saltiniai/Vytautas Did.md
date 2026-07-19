@@ -58,7 +58,9 @@ media_all_json: |-
     Algirdaitis, LE, t. 14, 387-388 p. — (”) Salzbach Marquard von, LE, t. 26,
     373-375 p. — (”) Skirgaila, LE, t. 28, 50-53 p. — (”) Vytautas Did., LE,
     t. 34, 376-379 p. — Jakubowski, J. : Opis księstwa Trockiego z r.
-  citata_rodoma: "— (”) Vytautas Did., LE,\nt. 34, 376-379 p. — Jakubowski, J. : Opis księstwa Trockiego z r."
+  citata_rodoma: |
+    — (”) Vytautas Did., LE,
+    t. 34, 376-379 p. — Jakubowski, J. : Opis księstwa Trockiego z r.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

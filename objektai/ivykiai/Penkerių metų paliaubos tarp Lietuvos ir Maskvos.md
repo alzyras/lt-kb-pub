@@ -130,7 +130,25 @@ Nenurodyta
     žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
     ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
     susitarus dėl taikos, išvykti iš Maskvos.
-  citata_rodoma: "Šie ilgai\naiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­\ndžiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­\nriomis kitados buvusi sudaryta sutartis tarp jo senelio\nVasilijaus ir karaliaus Kazimiero, arba tomis, kurias\n6 4 9\n\n## Puslapis 648\n\nbuvo sutarę karalius Aleksandras ir jo tėvas Ivanas\nVasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­\ngali būti nė kalbos apie šitokias sąlygas, pradėta derė­\ntis dėl kitokių taikos formulių. Vis dėlto ir šie legatai\ntiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­\ndangi maskvėnai nenorėjo grąžinti ne tik Smolensko\nžemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po\nilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­\nsusitarus dėl taikos, išvykti iš Maskvos."
+  citata_rodoma: |
+    Šie ilgai
+    aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­
+    džiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­
+    riomis kitados buvusi sudaryta sutartis tarp jo senelio
+    Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
+    6 4 9
+
+    ## Puslapis 648
+
+    buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
+    Vasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­
+    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
+    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
+    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
+    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
+    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
+    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
+    susitarus dėl taikos, išvykti iš Maskvos.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

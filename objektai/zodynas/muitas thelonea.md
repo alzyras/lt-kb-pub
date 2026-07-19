@@ -113,7 +113,17 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
     familiae suae, in eam sententiam alios quoque adducere velit, ut
     ne huic constitutioni per olim Sigismundum Augustum Regem, et
     Czopowe - svaigalų mokestis.
-  citata_rodoma: "Dėl Vilniaus Batoras pareikalavo \niš vaivados Radvilos, kad šis neprieštaraudamas savo auto­\nritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus \nmiestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­\nčius*. Čia pateikiame to laiško pabaigą: Proinde non modo \nM. Vestra his theloneis adauctis exigendis non contradicat, sed \netiam auctoritate sua Senatoria, supereminentiaque et dignitate \nfamiliae suae, in eam sententiam alios quoque adducere velit, ut \nne huic constitutioni per olim Sigismundum Augustum Regem, et\nCzopowe - svaigalų mokestis."
+  citata_rodoma: |
+    Dėl Vilniaus Batoras pareikalavo
+    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
+    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
+    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
+    čius*. Čia pateikiame to laiško pabaigą: Proinde non modo
+    M. Vestra his theloneis adauctis exigendis non contradicat, sed
+    etiam auctoritate sua Senatoria, supereminentiaque et dignitate
+    familiae suae, in eam sententiam alios quoque adducere velit, ut
+    ne huic constitutioni per olim Sigismundum Augustum Regem, et
+    Czopowe - svaigalų mokestis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

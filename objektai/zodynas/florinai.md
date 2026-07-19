@@ -97,7 +97,21 @@ Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų
     seną, teisėtai jam priklausančią valdą. Jogaila visaip
     stengėsi susitarti su Vytautu, kad šis nesipriešintų len­
     kų įsitvirtinimui šiose žemėse.
-  citata_rodoma: "Jogaila visaip\nstengėsi susitarti su Vytautu, kad šis nesipriešintų len­\nkų įsitvirtinimui šiose žemėse. Veikiau norėdamas len­\nkus labiau palenkti į karalių, Vytautas galop sutiko nu­\nsileisti, bet pareikalavo kaip atlyginimo keturiasdešimt\ntūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-\n346\n\n## Puslapis 345\n\ngi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,\nSpitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­\ngų, atidavė karalystei ir karaliui Kamenecą, Smotričių,\nSkalą, Červonogradą."
+  citata_rodoma: |
+    Jogaila visaip
+    stengėsi susitarti su Vytautu, kad šis nesipriešintų len­
+    kų įsitvirtinimui šiose žemėse. Veikiau norėdamas len­
+    kus labiau palenkti į karalių, Vytautas galop sutiko nu­
+    sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt
+    tūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-
+    346
+
+    ## Puslapis 345
+
+    gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
+    Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
+    gų, atidavė karalystei ir karaliui Kamenecą, Smotričių,
+    Skalą, Červonogradą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

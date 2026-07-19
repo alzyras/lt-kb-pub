@@ -495,7 +495,12 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     kimą sudaryti naują sutartį.
     Norėdamas paslėpti nuo Kęstučio savo paskutinius suma­
     nymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 ).
-  citata_rodoma: "Yra žinių, kad Vaidyla keletą kartų slaptai kelia­\nvęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­\nkimą sudaryti naują sutartį.\nNorėdamas paslėpti nuo Kęstučio savo paskutinius suma­\nnymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 )."
+  citata_rodoma: |
+    Yra žinių, kad Vaidyla keletą kartų slaptai kelia­
+    vęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­
+    kimą sudaryti naują sutartį.
+    Norėdamas paslėpti nuo Kęstučio savo paskutinius suma­
+    nymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -515,7 +520,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
     negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
     žemę503 su visa šeimyna ir bičiuliais.
-  citata_rodoma: "500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti\n1272 m. ar 1274 m."
+  citata_rodoma: |
+    500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
+    1272 m. ar 1274 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -549,7 +556,13 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
     apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
     rezidencija136.
-  citata_rodoma: "pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus\n100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,\nkad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino\nadministraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309\nm —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti\napie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m."
+  citata_rodoma: |
+    pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
+    100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
+    kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
+    administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
+    m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
+    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -573,7 +586,18 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     įplaukė į Nemuną. Mūsų istorikai
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
-  citata_rodoma: "9 4 .\n52\nTas žygis buvo paskubomis ir slap­\nta suruoštas, ir todėl didysis magist­\nras tuokart mažai teturėjo svetimša­\nlių, juk nesigarsino po visą Europą, \no slapčia iš Marienburgo išplaukė \nVysla laivais, paskui jūros įlanka \nįplaukė į Nemuną. Mūsų istorikai \nbendrais bruožais ir ne taip išsamiai \napie šitai pasakoja."
+  citata_rodoma: |
+    9 4 .
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -595,7 +619,14 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
     ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
     _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
-  citata_rodoma: "Kai\nSchwetzo komtūras Henrikas von Plauen į Marienburgą surinko\napie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės\njau nebeįstengė paimti.\nBuvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos\nordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius\n_sulaikė_ nuo dalyvavimo Žalgirio kautynėse."
+  citata_rodoma: |
+    Kai
+    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
+    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
+    jau nebeįstengė paimti.
+    Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
+    ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
+    _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -653,7 +684,11 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik
     ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys
     krikštijosi.
-  citata_rodoma: "to meto Lietuvos branginamomis importo prekėmis. 1401 m. sausio\nmėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik\nieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys\nkrikštijosi."
+  citata_rodoma: |
+    to meto Lietuvos branginamomis importo prekėmis. 1401 m. sausio
+    mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik
+    ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys
+    krikštijosi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -674,7 +709,12 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     kai ir vaišingai priimtas. Nors jo kelionės tikslas sunku aiškiai
     nusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­
     kiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu.
-  citata_rodoma: "Ordinas, matyti, apie Skirgailos pasiuntinystės\ntikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­\nkai ir vaišingai priimtas. Nors jo kelionės tikslas sunku aiškiai\nnusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­\nkiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu."
+  citata_rodoma: |
+    Ordinas, matyti, apie Skirgailos pasiuntinystės
+    tikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­
+    kai ir vaišingai priimtas. Nors jo kelionės tikslas sunku aiškiai
+    nusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­
+    kiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -696,7 +736,17 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
     todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
     puotauti.
-  citata_rodoma: "208 (203). Apie Marienburgo pilies pastatymą\n\n  1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,\nkur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios\nšlovei bei garbei ji čia ir buvo perkelta500.\n\n\n\n\n    209 (204)."
+  citata_rodoma: |
+    208 (203). Apie Marienburgo pilies pastatymą
+
+      1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
+    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
+    šlovei bei garbei ji čia ir buvo perkelta500.
+
+
+
+
+        209 (204).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -714,7 +764,11 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.
     Be to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti
     atgal.
-  citata_rodoma: "Vytauto kariuomenė buvo stipriai išretinta ne tik\nŽalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.\nBe to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti\natgal."
+  citata_rodoma: |
+    Vytauto kariuomenė buvo stipriai išretinta ne tik
+    Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.
+    Be to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti
+    atgal.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -736,7 +790,12 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio
     18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs
     žinoti 1282 m.
-  citata_rodoma: "iš to daroma išvada, kad jau\nAkone buvęs tam tikras kalendorius arba nekrologas, turėjęs priminti mirusiųjų metines.\nJo nuorašas su kitais Ordino dokumentais  į Marienburgą galėjo pakliūti defektuotas,\nnepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos. Kitokios kilmės jo pateikiami\nduomenys apie vėlesnius magistrus."
+  citata_rodoma: |
+    iš to daroma išvada, kad jau
+    Akone buvęs tam tikras kalendorius arba nekrologas, turėjęs priminti mirusiųjų metines.
+    Jo nuorašas su kitais Ordino dokumentais  į Marienburgą galėjo pakliūti defektuotas,
+    nepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos. Kitokios kilmės jo pateikiami
+    duomenys apie vėlesnius magistrus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -778,7 +837,27 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     tačiau tuo pat metu Vytautas Marienburge surengė sa­
     vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
     Vasilijaus, dideles palydėtuves.
-  citata_rodoma: "Priėmus nutarimą, ieškota žmogaus, kuriam be\npavojaus galima būtų patikėti šią slaptą užduotį, mat jis\nturėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti\npasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­\ndovauti galop parinko Henriką, mozūrų kunigaikščio\nZemovito sūnų, neseniai vainikuotą Plocko vyskupu.\nJo atvykimas (tiesą sakant,\nP a šn e n k a m a s m o zū rų\ndaug kas manė, jog dėl gi-\nk u n ig a ik štis\nH enri-\nminystės jis gali likti nepas-\nk a s\ntebėtas) anaiptol negalėjo ne­\nsukelti kryžiuočiams įtarimo,\ntačiau tuo pat metu Vytautas Marienburge surengė sa­\nvo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio\nVasilijaus, dideles palydėtuves. Visi manė, jog su kitais\nkunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,\nVytauto žmonos Onos brolis."
+  citata_rodoma: |
+    Priėmus nutarimą, ieškota žmogaus, kuriam be
+    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
+    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
+    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
+    dovauti galop parinko Henriką, mozūrų kunigaikščio
+    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
+    Jo atvykimas (tiesą sakant,
+    P a šn e n k a m a s m o zū rų
+    daug kas manė, jog dėl gi-
+    k u n ig a ik štis
+    H enri-
+    minystės jis gali likti nepas-
+    k a s
+    tebėtas) anaiptol negalėjo ne­
+    sukelti kryžiuočiams įtarimo,
+    tačiau tuo pat metu Vytautas Marienburge surengė sa­
+    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
+    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
+    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
+    Vytauto žmonos Onos brolis.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -55,7 +55,9 @@ Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapč
   citata_originali: |
     Ir aple 14 val. 20 min. užima Kuodžius.
     my „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį.
-  citata_rodoma: "užima Kuodžius.\nmy „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį."
+  citata_rodoma: |
+    užima Kuodžius.
+    my „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

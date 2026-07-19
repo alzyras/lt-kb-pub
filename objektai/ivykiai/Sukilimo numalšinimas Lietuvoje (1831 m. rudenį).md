@@ -84,7 +84,9 @@ Nenurodyta
     riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
     į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
     likviduotas sukilimas.
-  citata_rodoma: "Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo\nlikviduotas sukilimas."
+  citata_rodoma: |
+    Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
+    likviduotas sukilimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

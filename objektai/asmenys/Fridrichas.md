@@ -174,7 +174,18 @@ media_all_json: |-
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
     buvo nutraukta.
-  citata_rodoma: "_  .\n230\n\n## Puslapis 247\n\nIII KNYGA\npavasario, kai Aleksandro motina karalienė Elžbieta su duk­\nterimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­\nvykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste. \nDeja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­\nto ginčai, ir po kelerių metų (1500 m."
+  citata_rodoma: |
+    _  .
+    230
+
+    ## Puslapis 247
+
+    III KNYGA
+    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
+    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
+    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

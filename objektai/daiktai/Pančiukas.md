@@ -75,7 +75,8 @@ Nenurodyta
     Kai jis nueidavo į
     javus ar į pievą, jokiu būdu negalima buvo jo išvaryti, visi jo bijojo.
     Barbora nusineša pančiuką — ir veste parveda bulių.
-  citata_rodoma: "Barbora nusineša pančiuką — ir veste parveda bulių."
+  citata_rodoma: |
+    Barbora nusineša pančiuką — ir veste parveda bulių.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

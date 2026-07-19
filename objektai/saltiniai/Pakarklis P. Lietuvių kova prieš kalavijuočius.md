@@ -63,8 +63,11 @@ Dusburgietis teigia, kad pakarklis P.
   citata_originali: |
     Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
 
-    Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.
-  citata_rodoma: "Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.\n\nPakarklis P."
+    Pakarklis P.
+  citata_rodoma: |
+    Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
+
+    Pakarklis P.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

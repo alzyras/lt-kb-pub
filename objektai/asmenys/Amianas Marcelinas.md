@@ -202,7 +202,18 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     iki Mazovijos, siekdamos Lietuvos, arba senovės Stava-
     nijos, sienas, o į pietus užimti dalį slavų teritorijos, vė­
     1 Editio Boxhorn, 1632.
-  citata_rodoma: "Į\nvakarus, pasak Jordano, keliavę tie alanai, kurie anks­\nčiau gyveno Panonijoje, o iš ten kartu su vandalais jie\nturėjo bėgti nuo gotų, kuriuos vijo hunai; taip drauge su\njais už Pirėnų atsidūrė ir dalis gotų.\n48\nPagaliau dar vienas alanų būrys persikėlė į šiaurės\nvakarus, j Vandaliją; kai kurie, kaip teigia Arnianas\nMarcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje. Tą\npatį tvirtina ir Ptolemėjas, aprašinėjęs tą europinę Sar­\nmatijos dalį."
+  citata_rodoma: |
+    Į
+    vakarus, pasak Jordano, keliavę tie alanai, kurie anks­
+    čiau gyveno Panonijoje, o iš ten kartu su vandalais jie
+    turėjo bėgti nuo gotų, kuriuos vijo hunai; taip drauge su
+    jais už Pirėnų atsidūrė ir dalis gotų.
+    48
+    Pagaliau dar vienas alanų būrys persikėlė į šiaurės
+    vakarus, j Vandaliją; kai kurie, kaip teigia Arnianas
+    Marcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje. Tą
+    patį tvirtina ir Ptolemėjas, aprašinėjęs tą europinę Sar­
+    matijos dalį.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -227,7 +238,15 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą. Nestoras irgi nusirašė visa tai.
-  citata_rodoma: "Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama \nChue, Chunnigard-, ji priklausė minėtai tautai. Galėjo \nbūti, kad slavai, vėliau tapę šios tvirtovės šeimininkais, \nėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe- \nrewoz, o iš čia pasakojimas apie tris brolius — K i j ų, \nŠčeką ir Choryvą — susiliejo išvien su žiniomis apie se­\nnovės Kijevą. Nestoras irgi nusirašė visa tai."
+  citata_rodoma: |
+    Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
+    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
+    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
+    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
+    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
+    novės Kijevą. Nestoras irgi nusirašė visa tai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -257,7 +276,16 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
     dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
     tirus išsikelti iš Uždneprės.
-  citata_rodoma: "Apie juos jis pateikia tokių iš senovės rašytojų su­\nrinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais \nkairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynys­\ntėje, vakaruose jie ribojosi su neurais arba ir su skitų- \ngerų kraštu, taip pat netoli gyveno masagetai, melanchle- \nnai ir antropofagai. Vėliau juos pavergė alanai išvien su \ngelonais ir budinais. Laikui bėgant, kai pastarieji paju­\ndėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga- \ntirus išsikelti iš Uždneprės."
+  citata_rodoma: |
+    Apie juos jis pateikia tokių iš senovės rašytojų su­
+    rinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais
+    kairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynys­
+    tėje, vakaruose jie ribojosi su neurais arba ir su skitų-
+    gerų kraštu, taip pat netoli gyveno masagetai, melanchle-
+    nai ir antropofagai. Vėliau juos pavergė alanai išvien su
+    gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
+    dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
+    tirus išsikelti iš Uždneprės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

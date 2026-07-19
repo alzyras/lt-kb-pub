@@ -135,7 +135,15 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
     paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
     krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
     Aistmarių.
-  citata_rodoma: ", buvo reikalaujama, kad kryžiuo­\nčių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­\nliaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau\npažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,\nsiena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai\npaliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės\nkrantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki\nAistmarių."
+  citata_rodoma: |
+    , buvo reikalaujama, kad kryžiuo­
+    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
+    liaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau
+    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
+    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
+    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
+    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
+    Aistmarių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -158,7 +166,12 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
     nesijaudina skaitytojas, jeigu kai kurių antrosios atskalūnybės paminėtų ar paminėtinų
     karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
     atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
-  citata_rodoma: "Jis sugalvojo būdą, kaip  jį pribaigti,\nir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios\nSembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,\n\n  409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m."
+  citata_rodoma: |
+    Jis sugalvojo būdą, kaip  jį pribaigti,
+    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
+    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
+
+      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

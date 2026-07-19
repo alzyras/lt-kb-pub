@@ -185,7 +185,10 @@ Nenurodyta
     vadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-
     kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
     gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
-  citata_rodoma: "Seimas ir prezidentas (renkamas Seimo) ren-\nkami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje\ngyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą."
+  citata_rodoma: |
+    Seimas ir prezidentas (renkamas Seimo) ren-
+    kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
+    gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

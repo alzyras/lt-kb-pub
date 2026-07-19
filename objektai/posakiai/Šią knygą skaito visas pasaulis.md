@@ -53,7 +53,12 @@ media_all_json: |-
     visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­
     kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
     žmonijos širdį.
-  citata_rodoma: "Šią knygą skaito visas pasaulis, jos jau kitomis kalbomis išpirk­\nta su viršum milijonas egz. Šioje knygoje visai tikrai atvaizduotos\nvisos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­\nkai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku\nžmonijos širdį."
+  citata_rodoma: |
+    Šią knygą skaito visas pasaulis, jos jau kitomis kalbomis išpirk­
+    ta su viršum milijonas egz. Šioje knygoje visai tikrai atvaizduotos
+    visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­
+    kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
+    žmonijos širdį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

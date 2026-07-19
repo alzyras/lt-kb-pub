@@ -67,7 +67,9 @@ Lietuva, 1940–1990: okupuotos Lietuvos istorija.
     Vilnius, 2012.
     Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
     nius, 2005.
-  citata_rodoma: "Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-\nnius, 2005."
+  citata_rodoma: |
+    Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
+    nius, 2005.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

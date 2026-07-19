@@ -115,7 +115,8 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
-  citata_rodoma: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
+  citata_rodoma: |
+    Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

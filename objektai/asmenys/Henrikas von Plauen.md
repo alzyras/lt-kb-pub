@@ -63,7 +63,14 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
     Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
     ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
     _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
-  citata_rodoma: "Kai\nSchwetzo komtūras Henrikas von Plauen į Marienburgą surinko\napie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės\njau nebeįstengė paimti.\nBuvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos\nordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius\n_sulaikė_ nuo dalyvavimo Žalgirio kautynėse."
+  citata_rodoma: |
+    Kai
+    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
+    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
+    jau nebeįstengė paimti.
+    Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
+    ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
+    _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

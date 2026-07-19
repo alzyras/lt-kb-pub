@@ -174,7 +174,13 @@ Nenurodyta
     (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
     dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
     Ordiną — tai „šventas sumanymas“ (III,284).
-  citata_rodoma: "Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad\npats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas\nklastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo\npagrindą147."
+  citata_rodoma: |
+    Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
+    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
+    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad
+    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
+    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
+    pagrindą147.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -198,7 +204,12 @@ Nenurodyta
     Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
     organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
     platinimu.
-  citata_rodoma: "Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328\nm. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino\nlietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia."
+  citata_rodoma: |
+    Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
+    m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
+    lietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
+    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
+    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -220,7 +231,13 @@ Nenurodyta
     Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
     organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
     platinimu.
-  citata_rodoma: "Pažymėjęs, jog kryžiuočiai 1328\nm. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino\nlietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad\npats Gediminas atsisakęs sumanymo krikštytis."
+  citata_rodoma: |
+    Pažymėjęs, jog kryžiuočiai 1328
+    m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
+    lietuviai146. Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
+    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
+    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad
+    pats Gediminas atsisakęs sumanymo krikštytis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -243,7 +260,13 @@ Nenurodyta
     (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
     dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
     Ordiną — tai „šventas sumanymas“ (III,284).
-  citata_rodoma: "Kronikininkas teigia, kad\npats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas\nklastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo\npagrindą147. Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas\npastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės\npolitikos vykdytojo, Ordino, apologijai."
+  citata_rodoma: |
+    Kronikininkas teigia, kad
+    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
+    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
+    pagrindą147. Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas
+    pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės
+    politikos vykdytojo, Ordino, apologijai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -69,7 +69,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
-  citata_rodoma: "venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į"
+  citata_rodoma: |
+    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

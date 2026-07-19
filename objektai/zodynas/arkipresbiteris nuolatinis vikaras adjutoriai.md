@@ -95,7 +95,15 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
     vo duota keletas kunigų.
     Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da­
     lis Vilniaus gyventojams, Šv.
-  citata_rodoma: "pabaigta, pašventinta dviejų vyskupų - Plocko ir Kujavų, \n1427 metų sausio 10-ą, kaip šitai žinoma iš tų pačių vysku­\npų duoto induito.\nNuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams \nsu suteiktais arkipresbiterių titulais, kuriems į pagalbą bu­\nvo duota keletas kunigų.\nBažnyčios pajamos priklausė: dalis arkipresbiteriui, da­\nlis Vilniaus gyventojams, Šv."
+  citata_rodoma: |
+    pabaigta, pašventinta dviejų vyskupų - Plocko ir Kujavų,
+    1427 metų sausio 10-ą, kaip šitai žinoma iš tų pačių vysku­
+    pų duoto induito.
+    Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams
+    su suteiktais arkipresbiterių titulais, kuriems į pagalbą bu­
+    vo duota keletas kunigų.
+    Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da­
+    lis Vilniaus gyventojams, Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +131,17 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
 
     Il KNYGA
     jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
-  citata_rodoma: "Tasai karalius 1571 metų \nkovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro- \ntasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­\ntoriaus instancijai su visu turtu ir arkipresbiterio namais pri-\n172\n\n## Puslapis 189\n\nIl KNYGA\njungė prie Societatis JESU [Jėzaus Draugijos] kolegijos."
+  citata_rodoma: |
+    Tasai karalius 1571 metų
+    kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro-
+    tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­
+    toriaus instancijai su visu turtu ir arkipresbiterio namais pri-
+    172
+
+    ## Puslapis 189
+
+    Il KNYGA
+    jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

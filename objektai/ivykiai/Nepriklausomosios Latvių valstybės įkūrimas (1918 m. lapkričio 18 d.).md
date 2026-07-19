@@ -72,7 +72,12 @@ Nenurodyta
 
 
     sybė.
-  citata_rodoma: "Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pra-\nlaimėjimas vakaruose. Kai, pasirašę Versalio traktatą, vokie-\nčiai ėmė trauktis iš Latvijos, ji buvo paskelbta nepriklausoma\n(1918 m. lapkričio 18 d.), ir buvo sudaryta pirmoji latvių vyriau-\nsybė."
+  citata_rodoma: |
+    Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pra-
+    laimėjimas vakaruose. Kai, pasirašę Versalio traktatą, vokie-
+    čiai ėmė trauktis iš Latvijos, ji buvo paskelbta nepriklausoma
+    (1918 m. lapkričio 18 d.), ir buvo sudaryta pirmoji latvių vyriau-
+    sybė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

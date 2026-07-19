@@ -82,7 +82,14 @@ Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai,
     lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
     joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
     tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
-  citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
+  citata_rodoma: |
+    Lietuvoje gyveno garsi
+    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
+    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
+    apeigų paprotį, kiekviena tauta kitonišką.
+    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
+    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
+    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

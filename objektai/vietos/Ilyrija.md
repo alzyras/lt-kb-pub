@@ -146,7 +146,14 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
     ties, bet nesuakmenėjusių. Tų medžių kilmės tyrinėtojas
     dar neatskleidė, bet iš pirmo žvilgsnio ir neįsigilinus jie
     laikomi geologiniais dariniais, imituojančiais medžius.
-  citata_rodoma: "Tai ir pri­\nvertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net\nIlyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­\nstojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­\ntis į Rytus, neabejotinai buvo priversti brautis kitapus\nKarpatų. Tai daryti skatino skitu arba genčių, judėjusių\npo Skitų karalystės žlugimo, baimė."
+  citata_rodoma: |
+    Tai ir pri­
+    vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
+    Ilyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­
+    stojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­
+    tis į Rytus, neabejotinai buvo priversti brautis kitapus
+    Karpatų. Tai daryti skatino skitu arba genčių, judėjusių
+    po Skitų karalystės žlugimo, baimė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

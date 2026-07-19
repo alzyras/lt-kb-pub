@@ -100,7 +100,12 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
     kelios kuršiečių reitarų kuopos. Pralaužus
     pirmąsias švedų eiles, už jų stovėjo kitos ir
     buvo vis sunkiau veržtis į priekį.
-  citata_rodoma: "Rotmistro A.Vainos\nhusarams buvo pasiųstas pastiprinimas —\nkelios kuršiečių reitarų kuopos. Pralaužus\npirmąsias švedų eiles, už jų stovėjo kitos ir\nbuvo vis sunkiau veržtis į priekį."
+  citata_rodoma: |
+    Rotmistro A.Vainos
+    husarams buvo pasiųstas pastiprinimas —
+    kelios kuršiečių reitarų kuopos. Pralaužus
+    pirmąsias švedų eiles, už jų stovėjo kitos ir
+    buvo vis sunkiau veržtis į priekį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

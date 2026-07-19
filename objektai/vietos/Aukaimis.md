@@ -258,7 +258,18 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 
                                    9.
-  citata_rodoma: "Apie Aukaimio papilio sudeginimą\n\n   Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams\nbemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir\nsaujelės pabėgusių, visi kiti žuvo arba nuo ugnies, arba nuo kalavijo drauge su žmonomis,\nvaikais, galvijais ir gyvuliais.\n\n\n\n\n                               9."
+  citata_rodoma: |
+    Apie Aukaimio papilio sudeginimą
+
+       Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams
+    bemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir
+    saujelės pabėgusių, visi kiti žuvo arba nuo ugnies, arba nuo kalavijo drauge su žmonomis,
+    vaikais, galvijais ir gyvuliais.
+
+
+
+
+                                   9.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -283,7 +294,14 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     rius vartus, buvo įleistas į pilį, karius ir visą kariauti
     pajėgiantį jaunimą jis skerste išskerdė, o vaikus ir
     moteris išsivarė į vergovę.
-  citata_rodoma: "Vis dėlto žmonių ne­\ndaug žuvo, nes gyventojai,\npalikę namus priešų valiai, patys su visais brangesniais\ndaiktais išsislapstė miškų tankmėse. Tais pačiais me­\ntais per išdavystę buvo prarasta Aukaimio pilis. Pilies\nviršininkas Draika pradėjo linkti į krikščionių tikėji­\nmą."
+  citata_rodoma: |
+    Vis dėlto žmonių ne­
+    daug žuvo, nes gyventojai,
+    palikę namus priešų valiai, patys su visais brangesniais
+    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
+    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
+    viršininkas Draika pradėjo linkti į krikščionių tikėji­
+    mą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

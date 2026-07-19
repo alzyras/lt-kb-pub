@@ -84,7 +84,16 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
     Henriko sūnus, kurį esame minėję, kalbėdami apie karą su pamedėnais; kai, pasitelkęs
     magistrą ir brolius, ketino užgriūti priešus, prie įeigos į Notangos žemę rado pilaitę407,
     ginamą daugybės ginklanešių, kliudžiusių šiam kunigaikščiui žygiuoti į priekį.
-  citata_rodoma: "Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą\n\n  Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto\nir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje\npat vietoje pastatydino kitą pilį tuo pat vardu404. Toje pilyje gyveno kilmingasis brolis\nHermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas,\ndėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius. Paprastai, susiruošęs  į\nkarą, karys užsideda šarvus, mat norima, kad jis pasijustų žvalesnis, tačiau šio brolio\nkūnas buvęs taip sužalotas, kad rodėsi, jog jis kokių skorpionų sukandžiotas."
+  citata_rodoma: |
+    Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
+
+      Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
+    ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje
+    pat vietoje pastatydino kitą pilį tuo pat vardu404. Toje pilyje gyveno kilmingasis brolis
+    Hermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas,
+    dėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius. Paprastai, susiruošęs  į
+    karą, karys užsideda šarvus, mat norima, kad jis pasijustų žvalesnis, tačiau šio brolio
+    kūnas buvęs taip sužalotas, kad rodėsi, jog jis kokių skorpionų sukandžiotas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

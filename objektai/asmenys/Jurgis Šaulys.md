@@ -79,7 +79,8 @@ media_all_json: |-
     apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
     be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-  citata_rodoma: "apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),"
+  citata_rodoma: |
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

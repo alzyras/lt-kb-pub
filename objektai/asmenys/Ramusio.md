@@ -93,7 +93,19 @@ Teodoro Narbuto teigimu, italų Rytų senovės tyrinėtojas Ramusio įrodinėjo 
     tiniai Volgos žemupio ir Astrachanės apylinkių stebėji­
     mai, inžinieriaus generolo majoro Telkerzamo surinkti jo
     ilgo buvimo Rusijos imperijos pietryčiuose**** metu.
-  citata_rodoma: "68\n\n## Puslapis 66\n\npriklausomai nuo įvairaus kalbų tarimo ir išplitimo ap­\nlinkybių1. Tai, kad tie asai, arba osetinai, priklauso tai\npačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė\nitalų Rytų senovės tyrinėtojas Ramusio2 3.\n51\nRos-alanai, Seniausia užuomina apie roksolanus, kaip\napie sarmatą padermės tautą, gyvenusią tarp Dnepro ir\nDauguvos, buvo 94 metais prieš Kristaus gimimą."
+  citata_rodoma: |
+    68
+
+    ## Puslapis 66
+
+    priklausomai nuo įvairaus kalbų tarimo ir išplitimo ap­
+    linkybių1. Tai, kad tie asai, arba osetinai, priklauso tai
+    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
+    italų Rytų senovės tyrinėtojas Ramusio2 3.
+    51
+    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
+    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
+    Dauguvos, buvo 94 metais prieš Kristaus gimimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

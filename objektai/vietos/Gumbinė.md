@@ -75,7 +75,13 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo
     pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
     kai kalbančiųjų nebeliko.
-  citata_rodoma: "Nors XVIII a. Prūsijoje buvo net oficia-\nliai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio \ncentras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių \nvokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo \npasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-\nkai kalbančiųjų nebeliko."
+  citata_rodoma: |
+    Nors XVIII a. Prūsijoje buvo net oficia-
+    liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio
+    centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių
+    vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo
+    pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
+    kai kalbančiųjų nebeliko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -109,7 +109,10 @@ media_all_json: |-
     iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
         krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
         po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
-  citata_rodoma: "iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį\nkrikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės\npo laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių."
+  citata_rodoma: |
+    iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
+    krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
+    po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -127,7 +130,12 @@ media_all_json: |-
         kuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj
         teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
         Isteris, arba Dunojus.
-  citata_rodoma: "Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės Uksinių pamarių iki Žemaičių pajūrių, it^74 vidury yra kalva, daugiau nei per šimtą mylių tęsiantis į\nrytus ir vakarus, dviem giriom apaugusi, rytų pusėj Juodąja, o vakarų Žaliąja giria vadinamom,\nkuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj\nteka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir\nIsteris, arba Dunojus."
+  citata_rodoma: |
+    Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės Uksinių pamarių iki Žemaičių pajūrių, it^74 vidury yra kalva, daugiau nei per šimtą mylių tęsiantis į
+    rytus ir vakarus, dviem giriom apaugusi, rytų pusėj Juodąja, o vakarų Žaliąja giria vadinamom,
+    kuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj
+    teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
+    Isteris, arba Dunojus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,7 +154,13 @@ media_all_json: |-
         girią, ilgainiui visoj šiaurinėj įšleitėj, kaip viršiau sakiau, lig pat Žemaičių pajūrių išsiplėtė ir tenai
         traškančiose giriose, nuo įkūrimo pasaulio nekušintose^122 , ilgus amžius, džiaugdamos liuosybe
         savo probočių, tarp girių laimingai gyveno, kurių čia senovės būdą ir dabą užsiėmiau išrašyti.
-  citata_rodoma: "Čia aš, trumpai parodęs notis Lietuvos tautos, žiloj senovėj nutikusias, ir šios dienos jos kraštą,\nnorinčius dar aiškiau apie tą žinoti siunčiu į viršiau minavotus raštus, o pats grįžtu prie tos dalies\ngetų tautos, kurią šiandien lietuviais vadina, kuri, po kruvinų karių įsitraukusi į Žaliąją ir Juodąją\ngirią, ilgainiui visoj šiaurinėj įšleitėj, kaip viršiau sakiau, lig pat Žemaičių pajūrių išsiplėtė ir tenai\ntraškančiose giriose, nuo įkūrimo pasaulio nekušintose^122 , ilgus amžius, džiaugdamos liuosybe\nsavo probočių, tarp girių laimingai gyveno, kurių čia senovės būdą ir dabą užsiėmiau išrašyti."
+  citata_rodoma: |
+    Čia aš, trumpai parodęs notis Lietuvos tautos, žiloj senovėj nutikusias, ir šios dienos jos kraštą,
+    norinčius dar aiškiau apie tą žinoti siunčiu į viršiau minavotus raštus, o pats grįžtu prie tos dalies
+    getų tautos, kurią šiandien lietuviais vadina, kuri, po kruvinų karių įsitraukusi į Žaliąją ir Juodąją
+    girią, ilgainiui visoj šiaurinėj įšleitėj, kaip viršiau sakiau, lig pat Žemaičių pajūrių išsiplėtė ir tenai
+    traškančiose giriose, nuo įkūrimo pasaulio nekušintose^122 , ilgus amžius, džiaugdamos liuosybe
+    savo probočių, tarp girių laimingai gyveno, kurių čia senovės būdą ir dabą užsiėmiau išrašyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

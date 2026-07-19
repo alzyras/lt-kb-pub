@@ -73,7 +73,13 @@ Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo a
     derybas su Batoru dėl paliaubų. i
     Pskovo apgultis užsitęsė iki
     1582 m. sausio, antrajame etape
-  citata_rodoma: "Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo artileriją Vilniuje.\ngrESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios artilerijos: sunkiosios jis turi šimtą aštuoniasdešimt\nsa iii js Ai neleido išsiųsti vienetų, ir dar didelį skaičių lengvosios, labai gražiai padarytos, nes tai Jo Didenybei di-\nreikiamos karinės paramos apsiaustam džiai patinka ir jo valia daug jos išliejama, ypač Lietuvoje, kuo patys lenkai skundžiasi,\n\nPskovui."
+  citata_rodoma: |
+    Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo artileriją Vilniuje.
+    grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios artilerijos: sunkiosios jis turi šimtą aštuoniasdešimt
+    sa iii js Ai neleido išsiųsti vienetų, ir dar didelį skaičių lengvosios, labai gražiai padarytos, nes tai Jo Didenybei di-
+    reikiamos karinės paramos apsiaustam džiai patinka ir jo valia daug jos išliejama, ypač Lietuvoje, kuo patys lenkai skundžiasi,
+
+    Pskovui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

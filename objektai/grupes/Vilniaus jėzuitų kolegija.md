@@ -206,7 +206,17 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 
     Il KNYGA
     jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
-  citata_rodoma: "Tasai karalius 1571 metų \nkovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro- \ntasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­\ntoriaus instancijai su visu turtu ir arkipresbiterio namais pri-\n172\n\n## Puslapis 189\n\nIl KNYGA\njungė prie Societatis JESU [Jėzaus Draugijos] kolegijos."
+  citata_rodoma: |
+    Tasai karalius 1571 metų
+    kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro-
+    tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­
+    toriaus instancijai su visu turtu ir arkipresbiterio namais pri-
+    172
+
+    ## Puslapis 189
+
+    Il KNYGA
+    jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

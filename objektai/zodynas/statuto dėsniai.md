@@ -108,7 +108,11 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     mas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs
     panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
     džiančius lenkams įsigyti Lietuvoje dvarų.
-  citata_rodoma: "Pagaliau įveda-\nmas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs\npanaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-\ndžiančius lenkams įsigyti Lietuvoje dvarų."
+  citata_rodoma: |
+    Pagaliau įveda-
+    mas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs
+    panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
+    džiančius lenkams įsigyti Lietuvoje dvarų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +130,11 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-
     statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
     tik bendras valdovas ir bendri seimai.
-  citata_rodoma: "O valstybinių urėdų jie niekuomet negalėjo gauti\nLietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-\nstatai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko\ntik bendras valdovas ir bendri seimai."
+  citata_rodoma: |
+    O valstybinių urėdų jie niekuomet negalėjo gauti
+    Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-
+    statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
+    tik bendras valdovas ir bendri seimai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

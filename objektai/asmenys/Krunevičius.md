@@ -125,7 +125,15 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
     dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
     arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
     11 Skaityk straipsnį „Šventyklos”.
-  citata_rodoma: "Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10. Sis paprotys lietuviams\nnebuvo būdingas, bet kai kurios riterių šeimos, priklausančios\nLietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,\nkad jiems būtų suteikti herbai -  taip būdavo Lenkijoje."
+  citata_rodoma: |
+    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
+    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
+    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
+    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
+    metais Gediminas davė Krunevičiui10. Sis paprotys lietuviams
+    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
+    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
+    kad jiems būtų suteikti herbai -  taip būdavo Lenkijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

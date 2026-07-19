@@ -77,7 +77,8 @@ Tadas Korsakas buvo kanauninkas. Kanauninkas Tadas Korsakas Šv. Mykolo bažnyč
     sėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto
     stalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96].
     Santuoką Šv. Mykolo bažnyčioje suteikė kanauninkas Tadas Korsakas.
-  citata_rodoma: "Santuoką Šv. Mykolo bažnyčioje suteikė kanauninkas Tadas Korsakas."
+  citata_rodoma: |
+    Santuoką Šv. Mykolo bažnyčioje suteikė kanauninkas Tadas Korsakas.
   statusas: verified
   atnaujinta: "2026-07-14 06:06"
   teiginio_tipas: faktas

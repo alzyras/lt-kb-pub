@@ -125,7 +125,9 @@ Nenurodyta
   citata_originali: |
     1 Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
     vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.
-  citata_rodoma: "1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka- \nvo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23."
+  citata_rodoma: |
+    1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
+    vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

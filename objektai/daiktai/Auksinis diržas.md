@@ -108,7 +108,11 @@ Nenurodyta
     ir šalin pasitraukus, tie Ordos vyresnieji išgirdo, kad
     šlovingasis valdovas yra netoli, aukščiau minėtoje Ki­
     jevo pilyje.
-  citata_rodoma: "O jam kunigaikštis \nJogaila buvo davęs savo ranką prie manęs, kad iš jo \ntėviškės niekuomet neatims. Už tai kunigaikštis Jonas \njam davė auksinį diržą per mano rankas."
+  citata_rodoma: |
+    O jam kunigaikštis
+    Jogaila buvo davęs savo ranką prie manęs, kad iš jo
+    tėviškės niekuomet neatims. Už tai kunigaikštis Jonas
+    jam davė auksinį diržą per mano rankas.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

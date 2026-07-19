@@ -83,10 +83,14 @@ Papildomos aiškios formos neišskirtos.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais
-        vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą
-        pažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją
-        upę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti.
-  citata_rodoma: "Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais\nvartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą\npažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją\nupę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti."
+    vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą
+    pažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją
+    upę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti
+  citata_rodoma: |
+    Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais
+    vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą
+    pažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją
+    upę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

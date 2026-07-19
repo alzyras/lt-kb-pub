@@ -143,7 +143,11 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
     vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
     jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-  citata_rodoma: "Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –\ntoks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti\nvieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-\njaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos."
+  citata_rodoma: |
+    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
+    toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
+    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
+    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -161,7 +165,11 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
     Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: "Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,\nRinkimų į Liaudies seimą agitacinis plakatas."
+  citata_rodoma: |
+    Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
+    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
+    Rinkimų į Liaudies seimą agitacinis plakatas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -181,7 +189,12 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­
     vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.
     Paskutinis aktas gavo jau personalinės unijos vardą.
-  citata_rodoma: "Turime atvirai pasisa­\nkyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos\nnuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­\nvės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.\nPaskutinis aktas gavo jau personalinės unijos vardą."
+  citata_rodoma: |
+    Turime atvirai pasisa­
+    kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos
+    nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­
+    vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.
+    Paskutinis aktas gavo jau personalinės unijos vardą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -95,7 +95,11 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
     atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
     jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
     nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką.
-  citata_rodoma: "573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —\nSRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino\npilininkas. Gardino ir Pskovo gynėjas, greičiausiai Daumanto sūnus (Dovydas— LE, 6;\nLietuvių karas..., p. 212 ir kt.)."
+  citata_rodoma: |
+    573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —
+    SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino
+    pilininkas. Gardino ir Pskovo gynėjas, greičiausiai Daumanto sūnus (Dovydas— LE, 6;
+    Lietuvių karas..., p. 212 ir kt.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -112,7 +116,11 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
     kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR
     istorija. T. 1, p. 55; Jurginis J. Baudžiavos..., p. 34; Lietuvių karas su kryžiuočiais, p.
     78).
-  citata_rodoma: "prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,\nkartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR\nistorija. T. 1, p. 55; Jurginis J. Baudžiavos..., p. 34; Lietuvių karas su kryžiuočiais, p.\n78)."
+  citata_rodoma: |
+    prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
+    kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR
+    istorija. T. 1, p. 55; Jurginis J. Baudžiavos..., p. 34; Lietuvių karas su kryžiuočiais, p.
+    78).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

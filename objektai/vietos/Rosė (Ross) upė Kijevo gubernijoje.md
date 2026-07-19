@@ -159,7 +159,18 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
     riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
     aprašome: nuo Oskolo miestelio, esančio prie to paties
     1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
-  citata_rodoma: "Ne­\nstoras teigia, kad poloviečiai atėjo prie G i urge v o tvirto­\nvės, laikė ją apgulę visą vasarą, bet, negalėdami jos\nįveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-\nku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
+  citata_rodoma: |
+    Ne­
+    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
+    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
+    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
+    ku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
+    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
+    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
+    toro žodžius priskiria poloviečių veiksmams dešiniojoje
+    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
+    statytas XII amžiaus pradžioje po to, kai jį sunaikino
+    poloviečiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

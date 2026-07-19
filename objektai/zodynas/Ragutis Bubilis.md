@@ -98,7 +98,16 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
     eina Bubbulis - paims, pagriebs“. Jį taip pat vadino Tiimpus,
     lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
     buvo paprastas girtuoklių globėjo epitetas.
-  citata_rodoma: "98\n\n## Puslapis 98\n\nRagutis (Ragutis)\nMidaus darytojų, bartininkų, aludarių, degtinės varytojų\ndievas, kurį ypač garbino puotautojai, įkaitę nuo gėrimų. Kitaip\nvadintas Bubilu (Bublos, Bubilos). Lasickis pasakoja, kad ru­\nsai lenkėsi tam dievui, vadindami Zosim."
+  citata_rodoma: |
+    98
+
+    ## Puslapis 98
+
+    Ragutis (Ragutis)
+    Midaus darytojų, bartininkų, aludarių, degtinės varytojų
+    dievas, kurį ypač garbino puotautojai, įkaitę nuo gėrimų. Kitaip
+    vadintas Bubilu (Bublos, Bubilos). Lasickis pasakoja, kad ru­
+    sai lenkėsi tam dievui, vadindami Zosim.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

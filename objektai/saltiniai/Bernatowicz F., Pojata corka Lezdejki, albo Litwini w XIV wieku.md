@@ -88,7 +88,10 @@ Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ bu
     (PE .-L . 219).
     P. 351** - Tekstas, kuriuo autorius papildė išnašą, rengdamas
     antrąjį LTI leidimą (PEĮ.
-  citata_rodoma: "-  Felikso Bernatovičiaus (1786-1836) kūrinys (Ber-\nnatowiczF. Pojata corka Lezdejki, albo Litwini w\nXIV wieku. -  Wilno, 1826. -  T. I-IV)."
+  citata_rodoma: |
+    -  Felikso Bernatovičiaus (1786-1836) kūrinys (Ber-
+    natowiczF. Pojata corka Lezdejki, albo Litwini w
+    XIV wieku. -  Wilno, 1826. -  T. I-IV).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

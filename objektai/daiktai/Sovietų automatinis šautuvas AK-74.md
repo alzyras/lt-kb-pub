@@ -89,7 +89,11 @@ Nenurodyta
     variantas — AK-74, kuris naudojo dar mažesnį šovinį.
 
     Sovietų automatinis šautuvas AKM.
-  citata_rodoma: "1974 m. buvo sukurtas naujas Kalašnikovo automato\nvariantas — AK-74, kuris naudojo dar mažesnį šovinį.\n\nSovietų automatinis šautuvas AKM."
+  citata_rodoma: |
+    1974 m. buvo sukurtas naujas Kalašnikovo automato
+    variantas — AK-74, kuris naudojo dar mažesnį šovinį.
+
+    Sovietų automatinis šautuvas AKM.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,15 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
     bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
     du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
     niota.
-  citata_rodoma: "Pasak mūsų šiaurės is­\ntorijos, Lietuvos kraštai senovės laikais kentėjo nuo panašių\ndangaus rykščių. Tarp kitų, mažiau įsimintinų, pasirodė žmo­\ngėdrų (androfagų) tauta, kuri iš šiaurės ir vakarų * užpuldavo\nlietuvių kraštus. Kiekvienas tos laukinės tautos žingsnis reiškė\nnaikinimą: jie imdavo žmones į nelaisvę ir, nusivarę prie šiau­\nrės ežero, suėsdavo, o iš jų kaulų sukraudavo milžiniškas pira­\nmides savo dievų garbei."
+  citata_rodoma: |
+    Pasak mūsų šiaurės is­
+    torijos, Lietuvos kraštai senovės laikais kentėjo nuo panašių
+    dangaus rykščių. Tarp kitų, mažiau įsimintinų, pasirodė žmo­
+    gėdrų (androfagų) tauta, kuri iš šiaurės ir vakarų * užpuldavo
+    lietuvių kraštus. Kiekvienas tos laukinės tautos žingsnis reiškė
+    naikinimą: jie imdavo žmones į nelaisvę ir, nusivarę prie šiau­
+    rės ežero, suėsdavo, o iš jų kaulų sukraudavo milžiniškas pira­
+    mides savo dievų garbei.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

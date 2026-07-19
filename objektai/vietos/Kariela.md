@@ -88,7 +88,10 @@ Kariela šiame šaltinyje yra regionas.
     Kad Lonnrotas jaunam
     mokslininkui buvo idealas, matyt dar ir iš to, kad jis Lonnroto pėdo­
     mis padarė keletą kelionių po Karielą.
-  citata_rodoma: "Kad Lonnrotas jaunam \nmokslininkui buvo idealas, matyt dar ir iš to, kad jis Lonnroto pėdo­\nmis padarė keletą kelionių po Karielą."
+  citata_rodoma: |
+    Kad Lonnrotas jaunam
+    mokslininkui buvo idealas, matyt dar ir iš to, kad jis Lonnroto pėdo­
+    mis padarė keletą kelionių po Karielą.
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas
@@ -116,7 +119,14 @@ Kariela šiame šaltinyje yra regionas.
     rių tik dalis išleista drauge su A. Sabaliausko dainų rinkiniu anksčiau
     paminėtoje knygoje; dar 1930 m. vėl buvo atkeliavęs į Kauną susi­
     pažinti su naujais lietuvių liaudies dainų rinkiniais.
-  citata_rodoma: "1909 m. vasarą studijų ir dai­\nnų rinkimo kelionė Suomijos Karieloje; 1910— 12 m. lietuvių tauto­\nsakos studijų tikslais kelionės po Lietuvą ir Latviją (Kaunas, Tilžė, \nKaraliaučius, Vilnius, Ryga), ypač 1910 m. dainų rinkimas šiaurės \nrytų Lietuvoje (apie tai plačiau Niemio ir Sabaliausko „Lietuvių dai­\nnos ir giesmės“ knygoje) ir 1911 m. Dzūkijoj (Valkininkai, Merkinė, \nDaugai),"
+  citata_rodoma: |
+    1909 m. vasarą studijų ir dai­
+    nų rinkimo kelionė Suomijos Karieloje; 1910— 12 m. lietuvių tauto­
+    sakos studijų tikslais kelionės po Lietuvą ir Latviją (Kaunas, Tilžė,
+    Karaliaučius, Vilnius, Ryga), ypač 1910 m. dainų rinkimas šiaurės
+    rytų Lietuvoje (apie tai plačiau Niemio ir Sabaliausko „Lietuvių dai­
+    nos ir giesmės“ knygoje) ir 1911 m. Dzūkijoj (Valkininkai, Merkinė,
+    Daugai),
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas

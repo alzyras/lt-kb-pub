@@ -224,7 +224,9 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
     titulai. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
     1940 m.
-  citata_rodoma: "Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, \n1940 m."
+  citata_rodoma: |
+    Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
+    1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -244,7 +246,13 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-  citata_rodoma: "Tačiau pergyvenusi \ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos \nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953), \no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a."
+  citata_rodoma: |
+    Tačiau pergyvenusi
+    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
+    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
+    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
+    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -264,7 +272,10 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     1940 VI 15
     realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
     ja ir aneksuoja Lietuvos Respubliką.
-  citata_rodoma: "1940 VI 15\t\nrealizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-\nja ir aneksuoja Lietuvos Respubliką."
+  citata_rodoma: |
+    1940 VI 15
+    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
+    ja ir aneksuoja Lietuvos Respubliką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -292,7 +303,12 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
-  citata_rodoma: "Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso \npasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. \nvasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi \ntariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-\nja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį."
+  citata_rodoma: |
+    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
+    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
+    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -314,7 +330,12 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
     tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
     pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg.
-  citata_rodoma: "Reali aukščiausioji valdžia atiteko ne šalyje li-\nkusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos \natvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-\ntu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis \npavaduotojas Vsevolodas Merkulovas, vadinęsis „drg."
+  citata_rodoma: |
+    Reali aukščiausioji valdžia atiteko ne šalyje li-
+    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
+    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
+    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
+    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

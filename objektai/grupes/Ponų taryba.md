@@ -370,7 +370,24 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     su visomis Lenkijos karalystės jėgomis, su paruoštais
     žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
     Steponą l0.
-  citata_rodoma: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .\nSeptyni tūkstančiai penktaisiais metais nuo pasaulio \nsutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­\ntai devyniasdešimt septintųjų metų vasarą Lenkijos ka­\nralius Olbrachas sutelkė galybę savo kariuomenės ir \nsu visomis Lenkijos karalystės jėgomis, su paruoštais \nžirgais ir ginklais išžygiavo prieš Moldavijos vaivadą \nSteponą l0 ."
+  citata_rodoma: |
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+    Septyni tūkstančiai penktaisiais metais nuo pasaulio
+    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
+    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
+    ralius Olbrachas sutelkė galybę savo kariuomenės ir
+    su visomis Lenkijos karalystės jėgomis, su paruoštais
+    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
+    Steponą l0 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -428,7 +445,14 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     ryba tebebuvo tik patariamasis organas: jos sprendimai nega-
     lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
     jis galėjo ir visiškai priešingai pasielgti.
-  citata_rodoma: "Taryboje\nbuvo suteikta laisvė kiekvienam visiškai laisvai kal-\nbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių\npatarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-\nryba tebebuvo tik patariamasis organas: jos sprendimai nega-\nlėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,\njis galėjo ir visiškai priešingai pasielgti."
+  citata_rodoma: |
+    Taryboje
+    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
+    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
+    patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-
+    ryba tebebuvo tik patariamasis organas: jos sprendimai nega-
+    lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
+    jis galėjo ir visiškai priešingai pasielgti.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -450,7 +474,14 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     ryba tebebuvo tik patariamasis organas: jos sprendimai nega-
     lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
     jis galėjo ir visiškai priešingai pasielgti.
-  citata_rodoma: "Taryboje\nbuvo suteikta laisvė kiekvienam visiškai laisvai kal-\nbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių\npatarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-\nryba tebebuvo tik patariamasis organas: jos sprendimai nega-\nlėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,\njis galėjo ir visiškai priešingai pasielgti."
+  citata_rodoma: |
+    Taryboje
+    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
+    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
+    patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-
+    ryba tebebuvo tik patariamasis organas: jos sprendimai nega-
+    lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
+    jis galėjo ir visiškai priešingai pasielgti.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -570,7 +601,24 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     su visomis Lenkijos karalystės jėgomis, su paruoštais
     žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
     Steponą l0.
-  citata_rodoma: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .\nSeptyni tūkstančiai penktaisiais metais nuo pasaulio \nsutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­\ntai devyniasdešimt septintųjų metų vasarą Lenkijos ka­\nralius Olbrachas sutelkė galybę savo kariuomenės ir \nsu visomis Lenkijos karalystės jėgomis, su paruoštais \nžirgais ir ginklais išžygiavo prieš Moldavijos vaivadą \nSteponą l0 ."
+  citata_rodoma: |
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+    Septyni tūkstančiai penktaisiais metais nuo pasaulio
+    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
+    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
+    ralius Olbrachas sutelkė galybę savo kariuomenės ir
+    su visomis Lenkijos karalystės jėgomis, su paruoštais
+    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
+    Steponą l0 .
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -589,7 +637,11 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     buvo suteikta laisvė kiekvienam visiškai laisvai kal-
     bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
     patarimas būtų ir nemalonus jam.
-  citata_rodoma: "Taryboje\nbuvo suteikta laisvė kiekvienam visiškai laisvai kal-\nbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių\npatarimas būtų ir nemalonus jam."
+  citata_rodoma: |
+    Taryboje
+    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
+    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
+    patarimas būtų ir nemalonus jam.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas

@@ -61,7 +61,9 @@ Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
     Lietuvoje XIV a.^100. I. Sadauskaitė rašė apie Kairėnu, Sei-
     (^95) **Pvz., Paveisininkų (IstV, t. 11, 1970, 227-246 p.), Rasių apylinkės
     (IstV, t. 12, sąs.
-  citata_rodoma: "^100. I. Sadauskaitė rašė apie Kairėnu, Sei-\n(^95) **Pvz."
+  citata_rodoma: |
+    ^100. I. Sadauskaitė rašė apie Kairėnu, Sei-
+    (^95) **Pvz.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

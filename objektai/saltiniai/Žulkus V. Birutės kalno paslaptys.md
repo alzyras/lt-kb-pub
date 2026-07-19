@@ -64,7 +64,9 @@ Dusburgietis teigia, kad žulkus V.
     Žulkus V. Birutės kalno paslaptys.—MG, 1984, Nr. 6, p. 16—
     Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
     1982 ir 1983 metais.
-  citata_rodoma: "Žulkus V. Birutės kalno paslaptys.—MG, 1984, Nr. 6, p. 16—\n  Žulkus V."
+  citata_rodoma: |
+    Žulkus V. Birutės kalno paslaptys.—MG, 1984, Nr. 6, p. 16—
+      Žulkus V.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

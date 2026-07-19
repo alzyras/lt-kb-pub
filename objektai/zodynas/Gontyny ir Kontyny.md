@@ -133,7 +133,8 @@ Vartojama etimologinėje pastaboje apie slavų šventyklų vardus ir jų kilmę.
     parašiusio
     daugiatomę
     „Prūsijos istoriją“ (Voigt Johann.
-  citata_rodoma: "Žinoma, jog slavai šventyklas vadino gontmomis (Gontyny) arba kontinomis (Kontyny). Dėl šio žodžio kilmės ir šiandieną ginčijamasi. Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint ant arklių."
+  citata_rodoma: |
+    Žinoma, jog slavai šventyklas vadino gontmomis (Gontyny) arba kontinomis (Kontyny). Dėl šio žodžio kilmės ir šiandieną ginčijamasi. Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint ant arklių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

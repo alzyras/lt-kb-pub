@@ -86,7 +86,10 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
     tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
     gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
     gauti gerus postus administracijoje.
-  citata_rodoma: "Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-\ngimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi\ngauti gerus postus administracijoje."
+  citata_rodoma: |
+    Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
+    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
+    gauti gerus postus administracijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -104,7 +107,12 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
     vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo
     lietuviškai. Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
     tuviais, skaičiavo krašte esant 50,8 proc. lietuvių.
-  citata_rodoma: "Klaipėdos krašto gyventojų surašy-\nmo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000\nvokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo\nlietuviškai. Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-\ntuviais, skaičiavo krašte esant 50,8 proc. lietuvių."
+  citata_rodoma: |
+    Klaipėdos krašto gyventojų surašy-
+    mo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000
+    vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo
+    lietuviškai. Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
+    tuviais, skaičiavo krašte esant 50,8 proc. lietuvių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

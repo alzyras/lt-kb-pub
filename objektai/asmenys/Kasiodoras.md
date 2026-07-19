@@ -121,7 +121,11 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
     didžiulė vadinasi Estlandija1. Čia neminėsime
     skandinavų keliautojo Vulfstano pasakojimo apie Estiją;
     čia jis apsilankė IX amžiaus antrojoje pusėje.
-  citata_rodoma: "2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie\ntai\nšiame veikale dar bus\nkalbama vėliau."
+  citata_rodoma: |
+    2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
+    tai
+    šiame veikale dar bus
+    kalbama vėliau.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

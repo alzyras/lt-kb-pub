@@ -80,7 +80,8 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
     besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
     las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
     tiečių“ (lenkiškai „krajovcų“) demokratų srovė.
-  citata_rodoma: "riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą"
+  citata_rodoma: |
+    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

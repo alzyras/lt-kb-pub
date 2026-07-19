@@ -96,7 +96,16 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
     Jogailos buvo magnus dux (didysis kunigaikštis), nors, tiesą pa­
     sakius, pradžioj to titulo ir neturėjo — jį gavo, kaip mano
     Kutrzeba, 1401 m. Vilniaus unijos aktu.
-  citata_rodoma: "Dabar įdomu atsakyti, kas atsitiko su ta sistema, kai Jo-\ngaila išsikėlė į Lenkiją? Teigiame, kad, nors Trakų kunigaikš-\ntija ir nebebuvo atstatyta, Lietuva ir toliau pasiliko valdoma\ndviejų kunigaikščių ir net tada, kada Jogaila nuėjo į Lenkiją ir\nkarūnavosi jos karalium, nes jis pagal Krėvės aktą, atsižvel-\ngiant į Vytautą, liko supremus dux, o Vytautas, atsižvelgiant\nJogailos buvo magnus dux (didysis kunigaikštis), nors, tiesą pa-\nsakius, pradžioj to titulo ir neturėjo — jį gavo, kaip mano\nKutrzeba, 1401 m. Vilniaus unijos aktu."
+  citata_rodoma: |
+    Dabar įdomu atsakyti, kas atsitiko su ta sistema, kai Jo-
+    gaila išsikėlė į Lenkiją? Teigiame, kad, nors Trakų kunigaikš-
+    tija ir nebebuvo atstatyta, Lietuva ir toliau pasiliko valdoma
+    dviejų kunigaikščių ir net tada, kada Jogaila nuėjo į Lenkiją ir
+    karūnavosi jos karalium, nes jis pagal Krėvės aktą, atsižvel-
+    giant į Vytautą, liko supremus dux, o Vytautas, atsižvelgiant
+    Jogailos buvo magnus dux (didysis kunigaikštis), nors, tiesą pa-
+    sakius, pradžioj to titulo ir neturėjo — jį gavo, kaip mano
+    Kutrzeba, 1401 m. Vilniaus unijos aktu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -117,7 +126,10 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
     (1377). Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
     džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
     tiktai supremus dux (aukščiausias kunigaikštis).
-  citata_rodoma: "Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren-\ndžiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo\ntiktai supremus dux (aukščiausias kunigaikštis)."
+  citata_rodoma: |
+    Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren-
+    džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
+    tiktai supremus dux (aukščiausias kunigaikštis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

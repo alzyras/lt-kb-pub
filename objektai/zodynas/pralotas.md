@@ -65,7 +65,16 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
     jie neatrasti nė XVIII
     a. pabaigoj, perstatant
     katedrą.
-  citata_rodoma: "Už-\nsitęsusio karo metu mi-\nrė vyskupas ir daugy\nbė pralotų; drauge su\njais žuvo ir valdovų\nkapų vietos paslaptis\njie neatrasti nė XVIII\na. pabaigoj, perstatant\nkatedrą."
+  citata_rodoma: |
+    Už-
+    sitęsusio karo metu mi-
+    rė vyskupas ir daugy
+    bė pralotų; drauge su
+    jais žuvo ir valdovų
+    kapų vietos paslaptis
+    jie neatrasti nė XVIII
+    a. pabaigoj, perstatant
+    katedrą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,9 @@ Dusburgietis teigia, kad labuda G.
     Perlbach M. Die aeltere Chronik von Oliva.—Göttingen, 1871.
     Perlbach M. Preussische Regesten bis zum Ausgange des 13. Jahrhunderts.—
     Hildesheim—New York, 1973 (1876).
-  citata_rodoma: "Labuda G. Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228—\n1454 —Przegląd historyczny, Warszawa, 1954, t. 45, z. 2—3, s. 280—337."
+  citata_rodoma: |
+    Labuda G. Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228—
+    1454 —Przegląd historyczny, Warszawa, 1954, t. 45, z. 2—3, s. 280—337.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

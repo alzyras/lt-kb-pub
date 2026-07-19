@@ -109,7 +109,15 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
     menei pavyko tik išvaduoti Daugus bei
     Žąslius. Netrukus, 1919 m. balandžio 19 d.
     lenkų kariuomenė puolė ir užėmė Vilnių.
-  citata_rodoma: "Lietuvos karinė vadovybė,\natsižvelgdama į padėtį, mėgino suskubti\npirma lenkų išvaryti bolševikus iš Vilniaus\nir atsiimti Lietuvos sostinę. Tačiau lietu-\nvių puolimas užstrigo ir Lietuvos kariuo-\nmenei pavyko tik išvaduoti Daugus bei\nŽąslius. Netrukus, 1919 m. balandžio 19 d.\nlenkų kariuomenė puolė ir užėmė Vilnių."
+  citata_rodoma: |
+    Lietuvos karinė vadovybė,
+    atsižvelgdama į padėtį, mėgino suskubti
+    pirma lenkų išvaryti bolševikus iš Vilniaus
+    ir atsiimti Lietuvos sostinę. Tačiau lietu-
+    vių puolimas užstrigo ir Lietuvos kariuo-
+    menei pavyko tik išvaduoti Daugus bei
+    Žąslius. Netrukus, 1919 m. balandžio 19 d.
+    lenkų kariuomenė puolė ir užėmė Vilnių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +139,10 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
     Minimas čia Volkovysko puolimas buvo 1249 ar 1250 m.
     11 Slonimas — BTSR miestas (| pietus nuo aukštutinio Nemuno,
     prie Nemuno intako Sčaros. apie 60 km j rytus nuo Volkovysko).
-  citata_rodoma: "1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš- \nlaulul (Русская историческая библиотека, т. 27, 1970. p. 34).\n3 3  Utcnls patikimuose šaltiniuose nepaliudytas."
+  citata_rodoma: |
+    1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš-
+    laulul (Русская историческая библиотека, т. 27, 1970. p. 34).
+    3 3  Utcnls patikimuose šaltiniuose nepaliudytas.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

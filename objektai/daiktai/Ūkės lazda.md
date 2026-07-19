@@ -111,7 +111,12 @@ Nenurodyta
         savo vyresnybės įsakymą lazda tebvadina ir taip sako: „Karūžasis parnešė lazdą“ arba „Kaip aš
         neklausysiu savo dvaro lazdos“, tai yra įsakymo, nuo ko lenkai paskui tyčiodamies lietuvius vadino
         skurczypałka, tai yra sukurčiaus lazda, jog jie it būt lazdos jo bijantys, ne įsakymo.
-  citata_rodoma: "Jo įsakymai buvo svietui kaip dievo žodžiais, kuriuos skelbė jam savo lazda, kurią kožnas pamatęs jo siuntinio rankoje tuojau klausė, kas\nbuvo įsakyta, it būt gromatą, jo ranka rašytą, perskaitęs. Nuo ko kalnėnai ir žemaičiai iki šiai dienai\nsavo vyresnybės įsakymą lazda tebvadina ir taip sako: „Karūžasis parnešė lazdą“ arba „Kaip aš\nneklausysiu savo dvaro lazdos“, tai yra įsakymo, nuo ko lenkai paskui tyčiodamies lietuvius vadino\nskurczypałka, tai yra sukurčiaus lazda, jog jie it būt lazdos jo bijantys, ne įsakymo."
+  citata_rodoma: |
+    Jo įsakymai buvo svietui kaip dievo žodžiais, kuriuos skelbė jam savo lazda, kurią kožnas pamatęs jo siuntinio rankoje tuojau klausė, kas
+    buvo įsakyta, it būt gromatą, jo ranka rašytą, perskaitęs. Nuo ko kalnėnai ir žemaičiai iki šiai dienai
+    savo vyresnybės įsakymą lazda tebvadina ir taip sako: „Karūžasis parnešė lazdą“ arba „Kaip aš
+    neklausysiu savo dvaro lazdos“, tai yra įsakymo, nuo ko lenkai paskui tyčiodamies lietuvius vadino
+    skurczypałka, tai yra sukurčiaus lazda, jog jie it būt lazdos jo bijantys, ne įsakymo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -125,7 +130,8 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs.
-  citata_rodoma: "Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs."
+  citata_rodoma: |
+    Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +146,9 @@ Nenurodyta
   citata_originali: |
     o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei
         pirm.
-  citata_rodoma: "o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei\npirm."
+  citata_rodoma: |
+    o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei
+    pirm.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

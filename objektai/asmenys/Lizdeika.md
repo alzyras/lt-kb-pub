@@ -183,7 +183,15 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     vos valstybei dievų lemta, tegu jis šitai laimingai ir
     vykdąs: geležinis vilkas reiškiąs pilį ir miestą, kurį jis
     šioje vietoje įkursiąs.
-  citata_rodoma: "Tuojau prašyta žynių, kurie netoliese gyveno, at­\nskleisti paslaptį. Tuo metu Lizdeika buvo vyriausiasis\nžynys, arba, tėvų kalba, Krivė Krivaitis. Jis, kitados\ndar kūdikis girioje erelio lizde arba, pasak kitų, lop­\nšyje, ant medžio pakabintame, paties Vytenio medžio­\njant surastas, jo paliepimu dievų tarnybai išauklėtas ir\niš mažens šventąsias tėvų paslaptis pažinęs, tuo metu\nbuvo laikomas geriausiu slėpiningų ženklų aiškintoju."
+  citata_rodoma: |
+    Tuojau prašyta žynių, kurie netoliese gyveno, at­
+    skleisti paslaptį. Tuo metu Lizdeika buvo vyriausiasis
+    žynys, arba, tėvų kalba, Krivė Krivaitis. Jis, kitados
+    dar kūdikis girioje erelio lizde arba, pasak kitų, lop­
+    šyje, ant medžio pakabintame, paties Vytenio medžio­
+    jant surastas, jo paliepimu dievų tarnybai išauklėtas ir
+    iš mažens šventąsias tėvų paslaptis pažinęs, tuo metu
+    buvo laikomas geriausiu slėpiningų ženklų aiškintoju.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -215,7 +223,26 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     pagonims paskelbti blogos ar geros
     pranašystės. Tačiau nėra patikimų
     tam įrodymu.
-  citata_rodoma: "2\nTas pats dviejų aukštų pastatas, la­\nbai storo mūro sienomis, stovintis \nšalimais katedros bokšto, iki 1832 \nmetų priklausęs diecezijos konsisto­\nrijai ir gyvenamas kunigų invalidų, \nminėtais metais, kaip ir daugelis ki­\ntų mūrinių pastatų, supančių kated­\nros aikštę, buvo nugriautas, kad bū­\ntų atvira naujos tvirtovės nuokalnė.\n3\nDabartinė katedros varpinė, anot \nLietuvos kronikininkų ir vietos žmo­\nnių padavimų, buvęs tas pats bokš­\ntas, iš kurio Lizdeika ir jo pirmtakai \niškilmingai pasirodydavę Vilniaus \npagonims paskelbti blogos ar geros \npranašystės. Tačiau nėra patikimų\ntam įrodymu."
+  citata_rodoma: |
+    2
+    Tas pats dviejų aukštų pastatas, la­
+    bai storo mūro sienomis, stovintis
+    šalimais katedros bokšto, iki 1832
+    metų priklausęs diecezijos konsisto­
+    rijai ir gyvenamas kunigų invalidų,
+    minėtais metais, kaip ir daugelis ki­
+    tų mūrinių pastatų, supančių kated­
+    ros aikštę, buvo nugriautas, kad bū­
+    tų atvira naujos tvirtovės nuokalnė.
+    3
+    Dabartinė katedros varpinė, anot
+    Lietuvos kronikininkų ir vietos žmo­
+    nių padavimų, buvęs tas pats bokš­
+    tas, iš kurio Lizdeika ir jo pirmtakai
+    iškilmingai pasirodydavę Vilniaus
+    pagonims paskelbti blogos ar geros
+    pranašystės. Tačiau nėra patikimų
+    tam įrodymu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -258,7 +285,13 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     žynių vyriausiąjį žynį. Jo asmeninis autoritetas buvo labai di­
     delis, jo sprendimai tapdavo įstatymais, pamokymai - tikėji­
     mo tiesomis.
-  citata_rodoma: "Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus\nvyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo\nautoriaus teiginiu; jo paties žodžius pacitavome. Strijkovskis,\ndėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo­\nlat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria\nbuvus Lizdeiką."
+  citata_rodoma: |
+    Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus
+    vyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo
+    autoriaus teiginiu; jo paties žodžius pacitavome. Strijkovskis,
+    dėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo­
+    lat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria
+    buvus Lizdeiką.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

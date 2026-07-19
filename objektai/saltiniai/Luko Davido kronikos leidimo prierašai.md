@@ -77,7 +77,10 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
     ežerų ir pelkių, turėjo nemažai gyventojų, paskutiniais
     savo nepriklausomybės metais galėjo turėti 6000 raitelių
     ir 8000 pėstininkų.
-  citata_rodoma: "2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B\nI.\nS. 158."
+  citata_rodoma: |
+    2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
+    I.
+    S. 158.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

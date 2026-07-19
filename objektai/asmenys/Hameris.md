@@ -156,7 +156,21 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
     minės motinos vardu Arakso upę, arba Ross, suteikė šį
     vardą kitai didelei upei arba vienai jos vagų (§ 51), t. y.
     Volgai, ir pagaliau pažįstami Europoje budinu vardu.
-  citata_rodoma: "72\n\n## Puslapis 70\n\nir tinkama laivybai, prasideda netoli Kaukazo kalno, su­\nsilieja su upe Ros, arba Araksu, ir įteka į Chazarų, arba\nKaspijOiS, jūrą1. Iš pono Hamerio tyrimų ir ištraukų apie\nRytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-\nso upę, ištekančią iš Kiliklo kalnų, esančių prie 67 laips­\nnių ilgumos ir 41 laipsnio šiaurės platumos, sruvenančią\nper Varnamo žemę ir susiliejančią su Kūra4. Anot Korano\naiškintojų, buvusi tauta, kuriai priklausęs kraštas prie\nRoss upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­\ndė žiloje senovėje."
+  citata_rodoma: |
+    72
+
+    ## Puslapis 70
+
+    ir tinkama laivybai, prasideda netoli Kaukazo kalno, su­
+    silieja su upe Ros, arba Araksu, ir įteka į Chazarų, arba
+    KaspijOiS, jūrą1. Iš pono Hamerio tyrimų ir ištraukų apie
+    Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-
+    so upę, ištekančią iš Kiliklo kalnų, esančių prie 67 laips­
+    nių ilgumos ir 41 laipsnio šiaurės platumos, sruvenančią
+    per Varnamo žemę ir susiliejančią su Kūra4. Anot Korano
+    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
+    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
+    dė žiloje senovėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -204,7 +218,17 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
     kurie turėjo gyventi šalia tos teritorijos ribų.
     Užrašu, kuris paaiškina labai svarbų dalyką jotvingių
     istorijoje, negalime visiškai tikėti.
-  citata_rodoma: "Ponas Hameris dar prieš poną Volianskį mėgino šif­\nruoti tą visiškai senovės tyrinėtojams nesuprantamą už­\nrašą. Jis perskaitė tik trečios eilutės pirmą žodį. Jo nuo­\nmone, tas užrašas turi būti priskirtas dakų-jazigų tau­\ntai, kurią minėjo Dionas Kasijus, ir taip datuojamas am­\n116\n\n## Puslapis 114\n\nžiumi vėliau už Ptolemėją."
+  citata_rodoma: |
+    Ponas Hameris dar prieš poną Volianskį mėgino šif­
+    ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
+    rašą. Jis perskaitė tik trečios eilutės pirmą žodį. Jo nuo­
+    mone, tas užrašas turi būti priskirtas dakų-jazigų tau­
+    tai, kurią minėjo Dionas Kasijus, ir taip datuojamas am­
+    116
+
+    ## Puslapis 114
+
+    žiumi vėliau už Ptolemėją.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

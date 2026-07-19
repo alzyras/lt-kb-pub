@@ -740,7 +740,11 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
-  citata_rodoma: "Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-\nno konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų \nSąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą. \nTačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas."
+  citata_rodoma: |
+    Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
+    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
+    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
+    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -783,7 +787,18 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
     gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
     sipelniusius.
-  citata_rodoma: "Iš šio miesto 1579\nmetais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų\nLopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-\nlickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­\nrių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą\nKetlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,\nsu kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,\nšis didis karalius, nenuilstamai rūpindamasis krašto saugu­\nmu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­\ngai bausdavo išdavikus ir apdovanodavo doruosius bei nu­\nsipelniusius."
+  citata_rodoma: |
+    Iš šio miesto 1579
+    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
+    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
+    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
+    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
+    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
+    su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,
+    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
+    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
+    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
+    sipelniusius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -804,7 +819,12 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
     gusto seserimi.
     —  •  .
-  citata_rodoma: "Jis taip pat palaimino Vilniuje Suomijos\nkunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,\nsantuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­\ngusto seserimi.\n—  •  ."
+  citata_rodoma: |
+    Jis taip pat palaimino Vilniuje Suomijos
+    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
+    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
+    gusto seserimi.
+    —  •  .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -830,7 +850,17 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     88
     apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
     Lietuvos uostus Palangoje ir Šventojoje.
-  citata_rodoma: "Iškylanti Rusija Šiaurės karo \nmetu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-\nnę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki \nRygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų \nteritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos\n\nL I E T U V O S  I S T O R I J A\n88\napraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius \nLietuvos uostus Palangoje ir Šventojoje."
+  citata_rodoma: |
+    Iškylanti Rusija Šiaurės karo
+    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
+    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+
+    L I E T U V O S  I S T O R I J A
+    88
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -946,7 +976,16 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     L iv o n ijo je
     atsižadėdamas beveik su visu
     ordinu Romos tikėjimo.
-  citata_rodoma: "Neilgai trukus ten nu­\nvyko su panašia užduotimi Žemaitijos vyskupas, tačiau\nnei jo pastangos, nei karaliaus autoritetas nesutramdė\npasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­\ndas, pakvietė į karo sąjungininkus Švedijos karalių.\nKadangi švedų valdovas atsisakė siūlomos sąjungos,\nbūgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­\nros, Augustas laiškais stengėsi sutaikyti švedus bei\nmaskvėnus."
+  citata_rodoma: |
+    Neilgai trukus ten nu­
+    vyko su panašia užduotimi Žemaitijos vyskupas, tačiau
+    nei jo pastangos, nei karaliaus autoritetas nesutramdė
+    pasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­
+    das, pakvietė į karo sąjungininkus Švedijos karalių.
+    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
+    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
+    ros, Augustas laiškais stengėsi sutaikyti švedus bei
+    maskvėnus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -968,7 +1007,11 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
     kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
     mitologiją.
-  citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto."
+  citata_rodoma: |
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -996,7 +1039,19 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     jų pusių ženklu teisėjas išsiųsdavo skirtingą atskiriems terito­
     rijos gyventojams, kad žinia apie įvykį ir kartu įspėjimas būti
     pasiruošusiems pasklistų aplinkui.
-  citata_rodoma: "416\n\n## Puslapis 416\n\ngiminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,\njie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­\nrodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­\nmo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­\nkėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios\nžmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau\nbendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­\ntykiui."
+  citata_rodoma: |
+    416
+
+    ## Puslapis 416
+
+    giminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,
+    jie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­
+    rodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­
+    mo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­
+    kėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios
+    žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
+    bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
+    tykiui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1017,7 +1072,11 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     tai, jeigu tikėjimo dalykas, - mediniu kryžiumi; jeigu žmogžu­
     dystė, - medine strėle arba kirviu). Naudojimasis ta budlafla
     kilęs iš seniausių stabmeldystės laikų, nes tą patį paprotį ran-
-  citata_rodoma: "Kaip tik\nŠvedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­\njas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­\nraliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39)."
+  citata_rodoma: |
+    Kaip tik
+    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
+    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
+    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1070,7 +1129,12 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     tomą sumokėti 300 rublių sidabru honoraro. Taip pat iš karto
     po išspausdinimo dar turi duoti po 60 kiekvieno tomo egzem­
     pliorių“14.
-  citata_rodoma: "Taip pat skaityki­\nte: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­\ntas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­\nrijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -\nP.' 143-167."
+  citata_rodoma: |
+    Taip pat skaityki­
+    te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
+    tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
+    rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
+    P.' 143-167.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

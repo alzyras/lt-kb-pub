@@ -82,7 +82,15 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
     šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
     rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
     gyveno herulai.
-  citata_rodoma: "Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą\npusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­\nje yra pasakyta: Habuerunt autem baptismum per ignem, scili-\ncet purificationem (O krikštas jiems buvo ugnis, tai yra ele­\nmentarusis apsivalymas). Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį."
+  citata_rodoma: |
+    Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą
+    pusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­
+    je yra pasakyta: Habuerunt autem baptismum per ignem, scili-
+    cet purificationem (O krikštas jiems buvo ugnis, tai yra ele­
+    mentarusis apsivalymas). Šis ugnies krikštas, arba apsivalymas
+    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
+    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
+    gas nuo apsivalomojo šokinėjimo per ugnį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

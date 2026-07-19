@@ -66,7 +66,9 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     Agenty-smogiky grupė
     persirengusi Lietuvos partizanų uniformomis. Antroje eilėje, trečias iš dešinės stovi
     agentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas. Lietuvos SSR, XX a. 5 deš.
-  citata_rodoma: "Antroje eilėje, trečias iš dešinės stovi\nagentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas. Lietuvos SSR, XX a."
+  citata_rodoma: |
+    Antroje eilėje, trečias iš dešinės stovi
+    agentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas. Lietuvos SSR, XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -85,7 +87,12 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
     bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
     „kompromatas“ būtų pamestas tikriesiems partizanams.
-  citata_rodoma: "Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-\nmuotose vadinamosiose specialiosiose grupėse, kurioms paprastai\nvadovaudavo koks nors operatyvininkas. Tokių grupių priedangai\nnaudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-\nbių pabėgti ar pasitraukti iš spec."
+  citata_rodoma: |
+    Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
+    muotose vadinamosiose specialiosiose grupėse, kurioms paprastai
+    vadovaudavo koks nors operatyvininkas. Tokių grupių priedangai
+    naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
+    bių pabėgti ar pasitraukti iš spec.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

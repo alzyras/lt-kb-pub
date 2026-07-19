@@ -68,7 +68,10 @@ media_all_json: |-
     laikų Lietuvos prekybiniai ryšiai su Vakarais_ , Tautos Praeitis, I, 4, 1962,
     521-564 p. — Stang, Chr. : _Die westrussische Kanzleisprache des Gross-
     furstentums Litauen,_ Oslo 1935.
-  citata_rodoma: "— Remeika, J. : _Prekyba Nemunu iki 1430. Pirmųjų Gediminaičių\nlaikų Lietuvos prekybiniai ryšiai su Vakarais_ , Tautos Praeitis, I, 4, 1962,\n521-564 p. — Stang, Chr."
+  citata_rodoma: |
+    — Remeika, J. : _Prekyba Nemunu iki 1430. Pirmųjų Gediminaičių
+    laikų Lietuvos prekybiniai ryšiai su Vakarais_ , Tautos Praeitis, I, 4, 1962,
+    521-564 p. — Stang, Chr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

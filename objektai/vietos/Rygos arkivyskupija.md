@@ -61,7 +61,13 @@ Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos a
     ryt įtakos į kuriją, kad ši patvirtintų Vytauto karūnacijos su­
 
     (^1) ) C. ep.
-  citata_rodoma: "Kad labiau popiežius patrauktų Vytautą į savo pusę,\npaskiria jį ir Rygos arcivyskupijos protektorium. Po šito fakto\nZigmantas kreipiasi į Milano kunigaikštį, prašydamas jį pada­\nryt įtakos į kuriją, kad ši patvirtintų Vytauto karūnacijos su­\n\n(^1) ) C."
+  citata_rodoma: |
+    Kad labiau popiežius patrauktų Vytautą į savo pusę,
+    paskiria jį ir Rygos arcivyskupijos protektorium. Po šito fakto
+    Zigmantas kreipiasi į Milano kunigaikštį, prašydamas jį pada­
+    ryt įtakos į kuriją, kad ši patvirtintų Vytauto karūnacijos su­
+
+    (^1) ) C.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

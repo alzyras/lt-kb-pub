@@ -98,7 +98,15 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
     kairiojo šono kaba kažkokia uždangėlė, panaši į šalmą. Dra­
     bužis ilgas, nuo viršaus iki juosmens sutrauktas, tarytum šar­
     vas, o žemiau - klostėtas, jo puošyba dėl nudilimo neraiški.
-  citata_rodoma: "249\n\n## Puslapis 249\n\nlės 27-ajame piešinyje. Vaizduoja saulės veidą, aplinkui rusiš­\nkas užrašas Vytauto laikų senoviškomis raidėmis, kokias gali­\nma matyti to kunigaikščio dekretuose; galima perskaityti žo­\ndžius: Sotwor. Boh. NaszM."
+  citata_rodoma: |
+    249
+
+    ## Puslapis 249
+
+    lės 27-ajame piešinyje. Vaizduoja saulės veidą, aplinkui rusiš­
+    kas užrašas Vytauto laikų senoviškomis raidėmis, kokias gali­
+    ma matyti to kunigaikščio dekretuose; galima perskaityti žo­
+    džius: Sotwor. Boh. NaszM.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

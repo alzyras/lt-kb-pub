@@ -101,7 +101,17 @@ Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lie
     daug įvairių rūšių monetų, kuriose maža ką buvo galima įskai­
     tyti“. Gaila, kad Siuco kronikos leidėjas nepridėjo tų monetų
     piešinių, kurių, matyt, būta rankraštyje.
-  citata_rodoma: "Tasai Petras buvo\nnepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­\nnigus, ypač perkūnus: auksą parduodavo į Olandiją, o baltąjį\nsidabrą perkaldindavo į lenkiškus pinigus, tad buvo pramintas\nPerkūnu iš Kurozvenkų. Jo išmonės lenkiškieji grašiai, turin­\ntys vos pusę vertės, buvo praminti piorunkomis25. Kai paga­\nliau imta garsiai skųstis dėl to pinigų klastotojo, karaliaus Zig­\nmanto I teisme buvo iškelta byla; ilgai truko bylos nagrinėji­\nmas, kol pagaliau 1545 metais buvo priimtas sprendimas su­\nimti Perkūną bei jo bendrus, kurių šalyje seniai nebebuvo."
+  citata_rodoma: |
+    Tasai Petras buvo
+    nepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­
+    nigus, ypač perkūnus: auksą parduodavo į Olandiją, o baltąjį
+    sidabrą perkaldindavo į lenkiškus pinigus, tad buvo pramintas
+    Perkūnu iš Kurozvenkų. Jo išmonės lenkiškieji grašiai, turin­
+    tys vos pusę vertės, buvo praminti piorunkomis25. Kai paga­
+    liau imta garsiai skųstis dėl to pinigų klastotojo, karaliaus Zig­
+    manto I teisme buvo iškelta byla; ilgai truko bylos nagrinėji­
+    mas, kol pagaliau 1545 metais buvo priimtas sprendimas su­
+    imti Perkūną bei jo bendrus, kurių šalyje seniai nebebuvo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

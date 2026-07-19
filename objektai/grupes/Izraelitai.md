@@ -116,7 +116,13 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
     Kai pasigirsdavo griaustinis, senovės prūsai, pasak Henen-
     bergerio, prašydavo griaustinio dievo paprastai tokiais žodžiais:
     Dewe Periamas absolo mus!
-  citata_rodoma: "Šiuos pavadinimus, ypač Jeou, verta paaiškinti. Iš mitolo­\ngų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir\nJeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju­\npiter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.\nSenovės lietuvių kalboje Kun, Kungs, Kunigas reiškia tą, ką\nsenovės romėnų Dominus, aukščiausiasis viešpats."
+  citata_rodoma: |
+    Šiuos pavadinimus, ypač Jeou, verta paaiškinti. Iš mitolo­
+    gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir
+    Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju­
+    piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.
+    Senovės lietuvių kalboje Kun, Kungs, Kunigas reiškia tą, ką
+    senovės romėnų Dominus, aukščiausiasis viešpats.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

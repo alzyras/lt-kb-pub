@@ -58,7 +58,9 @@ XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­ tyno Galio, kroni
     Lenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius
     nėra. XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­
     tyno Galio, kronikai iš baltų tepažįstamas prūsų vardas.
-  citata_rodoma: "XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­\ntyno Galio, kronikai iš baltų tepažįstamas prūsų vardas."
+  citata_rodoma: |
+    XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­
+    tyno Galio, kronikai iš baltų tepažįstamas prūsų vardas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

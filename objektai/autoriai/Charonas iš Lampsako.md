@@ -241,7 +241,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-173139
+    - c-173146
 
 <a id="claim-t-197284"></a>
 - t-015
@@ -351,7 +351,12 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     tam tikru puošnumu įrengtos Šventyklos. Žyniai kasdien au­
     kodavo jam aukas didelėse šventyklose, jo ženklu buvo pažy­
     mėti vyriausiojo žynio Krivių Krivaičio nešiojami drabužiai.
-  citata_rodoma: "Pasak Lasickio, jis buvo žinomas Aukštėjo Visagisčio (Aivc-\nlejas Wissagistis) vardu. Iš šio vardo prasmės pastebime, kad\ntas dievas reiškė tą patį, ką Antikos žmonėms Saturnas. Tas\nsenovės mitas, primenantis labai reikšmingą Titanų šeimynos\nasmenį, negalėjo būti nežinomas lietuvių mitologijai."
+  citata_rodoma: |
+    Pasak Lasickio, jis buvo žinomas Aukštėjo Visagisčio (Aivc-
+    lejas Wissagistis) vardu. Iš šio vardo prasmės pastebime, kad
+    tas dievas reiškė tą patį, ką Antikos žmonėms Saturnas. Tas
+    senovės mitas, primenantis labai reikšmingą Titanų šeimynos
+    asmenį, negalėjo būti nežinomas lietuvių mitologijai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -378,7 +383,16 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     eilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio
     dvasia. Vis dėlto ši dievybė pas juos neturi atskirų šventyklų,
     kaip tai buvo pas visus šiaurės stabmeldžius.
-  citata_rodoma: "Pasak\nkronikininkų, jis dar vadinamas Szwintestix, Szwaixtiks*. Anot\nKsavero Bogušo, -  Jauczobobis B. Mūsų tyrimais, -  Lėlius (Lė­\ntus). Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių\nduomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus\nlauke, juos džiovina jaujose ir, nusilenkdami deivei Gabijai,\nmaldauja jos šitokiais žodžiais: „Gabija, dievaite, pakelk garą,\nneleisk kibirkščių ! “ (Gabie Diewajte, pakielk garu, nie lajsk kir-\nbvctu)."
+  citata_rodoma: |
+    Pasak
+    kronikininkų, jis dar vadinamas Szwintestix, Szwaixtiks*. Anot
+    Ksavero Bogušo, -  Jauczobobis B. Mūsų tyrimais, -  Lėlius (Lė­
+    tus). Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių
+    duomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus
+    lauke, juos džiovina jaujose ir, nusilenkdami deivei Gabijai,
+    maldauja jos šitokiais žodžiais: „Gabija, dievaite, pakelk garą,
+    neleisk kibirkščių ! “ (Gabie Diewajte, pakielk garu, nie lajsk kir-
+    bvctu).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -406,7 +420,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190256
-    - t-197283
 - id: c-173144
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -425,7 +438,13 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
     trumpai pasimeldžia ir patyli akis nukreipę į krosnį. Taip pa­
     sėdi kurį laiką, tarytum dar kažką apmąstydami.
-  citata_rodoma: "Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­\ntų gongais.\nVarpelis (WarpeJis)\nAido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­\nnovės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­\nsigirsta ore trenkus perkūnui."
+  citata_rodoma: |
+    Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
+    tų gongais.
+    Varpelis (WarpeJis)
+    Aido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­
+    novės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­
+    sigirsta ore trenkus perkūnui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -454,6 +473,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190263
+    - t-197283
 - id: c-177042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

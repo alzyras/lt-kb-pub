@@ -82,7 +82,14 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
     Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
     rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
     atvykti.
-  citata_rodoma: "Ir mes su mūsų tėvu stovėjome ant vieno kalno, \no kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­\nda kunigaikštis Skirgaila davė žodi mano tėvui kuni­\ngaikščio Jogailos vardu ir davė jam savo ranką, ir savo \nvardu taip pat davė žodį ir savo ranką. Ir man pačiam \njis taip pat davė žodį kunigaikščio Jogailos vardu ir \nsavo vardu, ir [davėj savo ranką."
+  citata_rodoma: |
+    Ir mes su mūsų tėvu stovėjome ant vieno kalno,
+    o kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­
+    da kunigaikštis Skirgaila davė žodi mano tėvui kuni­
+    gaikščio Jogailos vardu ir davė jam savo ranką, ir savo
+    vardu taip pat davė žodį ir savo ranką. Ir man pačiam
+    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
+    savo vardu, ir [davėj savo ranką.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -107,7 +114,13 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
     jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
     ir dovanojo brangių dovanų2, ir nuo tol tarpe jų įsiga­
     lėjo didelė meilė.
-  citata_rodoma: "Ir mūsų tėvas pati­\nkėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­\ngaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­\nto žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano \nmotiną taip pat nužudė, o ir mane patį jie paėmė į ne­\nlaisvę."
+  citata_rodoma: |
+    Ir mūsų tėvas pati­
+    kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
+    gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
+    to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano
+    motiną taip pat nužudė, o ir mane patį jie paėmė į ne­
+    laisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -82,7 +82,13 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
     prie šios pilies, atvyko pasiuntinys, pranešdamas, kad keturi tūkstančiai lietuvių
     342 Krašto magistras buvo nuo 1259 m. gegužės mėn. iki 1261 m. lapkričio
     mėn.
-  citata_rodoma: "Apie brolį Harimaną, Prūsijos magistrą\n\n   Brolis Hartmanas iš Grumbacho, penktas Prūsijos žemės magistras, vadovavo trejus\nmetus342. Šitokią pravardę jis gavo dėl to, kad iš tikro buvo kietas vyras. Žodis Hartmann\nreiškia kietą vyrą. Jis buvo pramintas Vatmaliu nuo vilnonių drabužių, vadina mų Watmal,\nkuriuos įsakė išduoti broliams."
+  citata_rodoma: |
+    Apie brolį Harimaną, Prūsijos magistrą
+
+       Brolis Hartmanas iš Grumbacho, penktas Prūsijos žemės magistras, vadovavo trejus
+    metus342. Šitokią pravardę jis gavo dėl to, kad iš tikro buvo kietas vyras. Žodis Hartmann
+    reiškia kietą vyrą. Jis buvo pramintas Vatmaliu nuo vilnonių drabužių, vadina mų Watmal,
+    kuriuos įsakė išduoti broliams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

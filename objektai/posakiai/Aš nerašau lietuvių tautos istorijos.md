@@ -69,7 +69,8 @@ Narbutas tiesiogiai sako, kad nerašo lietuvių tautos istorijos.
     faktų rinkinys, kuris sudarys penkis arba šešis tomus,
     negali būti vadinamas istorija (historia), o tik veikalais
     (dzieje), t. y. turi turėti kuklesnį pavadinimą2.
-  citata_rodoma: "„Aš nerašau lietuvių tautos istorijos, nes neįstengčiau susidoroti su tokiu darbu; be kita ko, ir pats Livijus nesugebėtų jos parašyti — tokia ji šiandien, kai nuosmukį patyrė dalykai, galėję palaikyti jos šaunumą, yra neapdorota, tokius išbarstytus ir išblaškytus turi šaltinius. Mano uždavinys, kaip galima spręsti iš „Mitologijos“, yra atskleisti praeities įvykių esmę, pradedant tautos kilmės ab ovo (pabr. T. N. — R. G.), iki pat tų laikų, kai ji 1569 metais, valdant Zygimįantui] Aug[ustui], susijungė su Lenkija. Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, sumanymų, pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris sudarys penkis arba šešis tomus, negali būti vadinamas istorija (historia), o tik veikalais (dzieje), t. y. turi turėti kuklesnį pavadinimą.“"
+  citata_rodoma: |
+    „Aš nerašau lietuvių tautos istorijos, nes neįstengčiau susidoroti su tokiu darbu; be kita ko, ir pats Livijus nesugebėtų jos parašyti — tokia ji šiandien, kai nuosmukį patyrė dalykai, galėję palaikyti jos šaunumą, yra neapdorota, tokius išbarstytus ir išblaškytus turi šaltinius. Mano uždavinys, kaip galima spręsti iš „Mitologijos“, yra atskleisti praeities įvykių esmę, pradedant tautos kilmės ab ovo (pabr. T. N. — R. G.), iki pat tų laikų, kai ji 1569 metais, valdant Zygimįantui] Aug[ustui], susijungė su Lenkija. Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, sumanymų, pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris sudarys penkis arba šešis tomus, negali būti vadinamas istorija (historia), o tik veikalais (dzieje), t. y. turi turėti kuklesnį pavadinimą.“
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

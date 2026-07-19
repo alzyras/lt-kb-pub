@@ -74,7 +74,10 @@ Dusburgietis teigia, kad brolis Konradas iš Blindenburgo, išėjęs kautis su j
     Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
     Kristus, penkiskart sužeistas, ir krito kovoje, o šito jis ne kartą buvo su ašaromis
     viešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
-  citata_rodoma: "Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise\nKristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis\nviešpaties prašęs."
+  citata_rodoma: |
+    Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
+    Kristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis
+    viešpaties prašęs.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

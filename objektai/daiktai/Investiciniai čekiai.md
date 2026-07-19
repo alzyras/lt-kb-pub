@@ -171,7 +171,11 @@ Nenurodyta
     pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
     tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
     šos.
-  citata_rodoma: "Tam reikėjo\npradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-\ntas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-\nšos."
+  citata_rodoma: |
+    Tam reikėjo
+    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
+    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
+    šos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -193,7 +197,10 @@ Nenurodyta
     Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
     gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
     pasinaudojo ne visi.
-  citata_rodoma: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-\ngyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo\npasinaudojo ne visi."
+  citata_rodoma: |
+    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
+    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
+    pasinaudojo ne visi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +224,11 @@ Nenurodyta
     kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
     savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
     nepalikta garantijų investicinius čekius patikėjusiems asmenims.
-  citata_rodoma: "Privatizuojamam turtui įsigyti\nkūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta\nsavininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,\nnepalikta garantijų investicinius čekius patikėjusiems asmenims."
+  citata_rodoma: |
+    Privatizuojamam turtui įsigyti
+    kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
+    savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
+    nepalikta garantijų investicinius čekius patikėjusiems asmenims.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

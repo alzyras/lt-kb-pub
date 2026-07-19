@@ -67,7 +67,11 @@ Tur būt, su Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklinin
     elgesys su krikščionimis buvo iššaukęs šių nepasitenkinimą. Tur būt,
     su Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklininkai
     _(koniuši)_ Treniotą 1264 m. nužudė.
-  citata_rodoma: "Jo\nelgesys su krikščionimis buvo iššaukęs šių nepasitenkinimą. Tur būt,\nsu Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklininkai\n_(koniuši)_ Treniotą 1264 m. nužudė."
+  citata_rodoma: |
+    Jo
+    elgesys su krikščionimis buvo iššaukęs šių nepasitenkinimą. Tur būt,
+    su Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklininkai
+    _(koniuši)_ Treniotą 1264 m. nužudė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

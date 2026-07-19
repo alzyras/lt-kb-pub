@@ -63,7 +63,12 @@ Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šve
     Švarcburgas
     Švedija
     Šventainė, u.
-  citata_rodoma: "Švabija, švabai\nŠvandenas\nŠvarcburgas\nŠvedija\nŠventainė, u."
+  citata_rodoma: |
+    Švabija, švabai
+    Švandenas
+    Švarcburgas
+    Švedija
+    Šventainė, u.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -86,7 +86,8 @@ Nenurodyta
     konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
     pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
     jos pobūdį.
-  citata_rodoma: "konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė"
+  citata_rodoma: |
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

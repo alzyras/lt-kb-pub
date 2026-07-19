@@ -139,7 +139,14 @@ Nenurodyta
     iki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­
     tis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-
     dime.
-  citata_rodoma: "Pasak kitų\ntyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu\nKaralus), kuris buvo laikomas tikru dievo Ukapirmo broliu25.\nPrūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-\npas -  jaunikaitis su galva, papuošta javų varpų vainiku, stovin­\ntis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­\nvos aprašymą straipsnyje „Herbai“."
+  citata_rodoma: |
+    Pasak kitų
+    tyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu
+    Karalus), kuris buvo laikomas tikru dievo Ukapirmo broliu25.
+    Prūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-
+    pas -  jaunikaitis su galva, papuošta javų varpų vainiku, stovin­
+    tis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
+    vos aprašymą straipsnyje „Herbai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -160,7 +167,10 @@ Nenurodyta
     „Koruch“ vietoj „Kracho“, o vietoje raidės „ch“, kuri nebuvo ži­
     noma venedų runų abėcėlėje, buvo naudojama dviguba „gg“
     (11), kurios, sujungtos į vieną raidę, skaitoma kaip „ CH“.
-  citata_rodoma: "Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš\nsenovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios\nvėliavos aprašymas yra straipsnyje apie herbus."
+  citata_rodoma: |
+    Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
+    senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios
+    vėliavos aprašymas yra straipsnyje apie herbus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

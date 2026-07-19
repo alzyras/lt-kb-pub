@@ -80,7 +80,12 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
     jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
     leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
     būtų priskirta nelaimingam jo perėjimui per kelią.
-  citata_rodoma: "Trotytojas kibirkščių (Trotitas-Kirbixtu)\nPasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats\npavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo\ndievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­\npei*."
+  citata_rodoma: |
+    Trotytojas kibirkščių (Trotitas-Kirbixtu)
+    Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats
+    pavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo
+    dievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­
+    pei*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

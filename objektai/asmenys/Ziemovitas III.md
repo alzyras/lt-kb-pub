@@ -88,7 +88,10 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
     išvarė Vilhelmą, o su Mozurijos Ziemovitu geruoju susitarė pats
     Jogaila. Tad 1385-1986 m. žiemą jis be baimės galėjo išsirengti
     Lenkijon.
-  citata_rodoma: "Mažlenkių ponai (Kriavo akte jie vadinami « regnieolae ») jėga\nišvarė Vilhelmą, o su Mozurijos Ziemovitu geruoju susitarė pats\nJogaila. Tad 1385-1986 m."
+  citata_rodoma: |
+    Mažlenkių ponai (Kriavo akte jie vadinami « regnieolae ») jėga
+    išvarė Vilhelmą, o su Mozurijos Ziemovitu geruoju susitarė pats
+    Jogaila. Tad 1385-1986 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +110,11 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
     nusistatymui — planavęs Jadvygą pagrobti prievarta.
     Prieš pat Jadvygos karūnavimą 1384 m. rudenį Krokuvoje
     lankėsi Jogailos pasiuntiniai, kurie dalyvavo ir pačiose iškilmėse.
-  citata_rodoma: "O Ziemovito viltys laimėti Jadvygos ranką 1383 m.\npavasarį buvo padidėjusios, ir jis — priešingai Krokuvos ponų\nnusistatymui — planavęs Jadvygą pagrobti prievarta.\nPrieš pat Jadvygos karūnavimą 1384 m."
+  citata_rodoma: |
+    O Ziemovito viltys laimėti Jadvygos ranką 1383 m.
+    pavasarį buvo padidėjusios, ir jis — priešingai Krokuvos ponų
+    nusistatymui — planavęs Jadvygą pagrobti prievarta.
+    Prieš pat Jadvygos karūnavimą 1384 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

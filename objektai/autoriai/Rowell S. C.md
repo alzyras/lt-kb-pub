@@ -68,7 +68,8 @@ Rowell S.
     Wiesbaden, 2006. 329 p.
     Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,
     1295–1345.
-  citata_rodoma: "Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,"
+  citata_rodoma: |
+    Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

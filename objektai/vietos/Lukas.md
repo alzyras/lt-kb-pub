@@ -131,7 +131,11 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
     neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
     būdo; kad šitai būtų akivaizdu, jie jį užklojo balta marška, kaip paprastai užklojami
     numirėliai.
-  citata_rodoma: "Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,\nvoros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia\n  530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),\ndeš. Bebro intakas."
+  citata_rodoma: |
+    Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
+    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
+      530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),
+    deš. Bebro intakas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -60,7 +60,8 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
     vokiečiai ir net britai. Lenkija laikėsi ramiai, privengdama karinės Vokie-
     tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
     kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
-  citata_rodoma: "tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir"
+  citata_rodoma: |
+    tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -82,7 +82,8 @@ Nenurodyta
     Kai pamatė brolis,
     tamstų
     kerdžius: „Dovanok, brolyti, man tą apsiaustą“ .
-  citata_rodoma: "Kai pamatė brolis, tamstų kerdžius: „Dovanok, brolyti, man tą apsiaustą“ ."
+  citata_rodoma: |
+    Kai pamatė brolis, tamstų kerdžius: „Dovanok, brolyti, man tą apsiaustą“ .
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -102,7 +103,8 @@ Nenurodyta
     užtikau laidotuves — gi man šeimininkė
     šmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino
     dūšią.“ Su dovana tiesiai patraukiau ant namų.
-  citata_rodoma: "užtikau laidotuves — gi man šeimininkė šmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino dūšią.“"
+  citata_rodoma: |
+    užtikau laidotuves — gi man šeimininkė šmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino dūšią.“
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

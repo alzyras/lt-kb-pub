@@ -96,7 +96,9 @@ Nenurodyta
   citata_originali: |
     Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
         marškonais autais vyturo savo kojas, o motriškosios su žekėmis^337.
-  citata_rodoma: "Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar\nmarškonais autais vyturo savo kojas, o motriškosios su žekėmis^337."
+  citata_rodoma: |
+    Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
+    marškonais autais vyturo savo kojas, o motriškosios su žekėmis^337.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -117,7 +119,12 @@ Nenurodyta
         tviskinėdami, nė nuo vieno nemokomi, sauprasmiai svilksnis^392 ir seidokus^393 dirbo, vylyčias^394
         drožė ir pleštekes^395 po kiemą bėgiodami šaudė, jau nuo mažų dienų į karę pratindamos, kaip
         reiks kurią dieną su žvėrimis giriose ar laukuose su neprieteliais grumtis, liuosybę savo gyniojant.
-  citata_rodoma: "Ne vien didieji ir pusvaikiai buvo taip skudriais ir veikliais, bet dar mažieji vaikai, apsuk namus\npo marškinių tviskinėjantys^389 žiemos laiku, su bočių ar bobute vilnas kedino, gijas vijo,\nplunksnas plėšė ar vyženas vyžo didiesiems, nesgi už visų didžiausią gėdą sau turėjo vaikelis\nšešergis ar septynergis nemokėti vyženų vyžti, aparų vyti ir tinklų megzti, virvių sukti, pynų^390\npinti, mezginių megzti, nerti, mazginių mazgoti."
+  citata_rodoma: |
+    Ne vien didieji ir pusvaikiai buvo taip skudriais ir veikliais, bet dar mažieji vaikai, apsuk namus
+    po marškinių tviskinėjantys^389 žiemos laiku, su bočių ar bobute vilnas kedino, gijas vijo,
+    plunksnas plėšė ar vyženas vyžo didiesiems, nesgi už visų didžiausią gėdą sau turėjo vaikelis
+    šešergis ar septynergis nemokėti vyženų vyžti, aparų vyti ir tinklų megzti, virvių sukti, pynų^390
+    pinti, mezginių megzti, nerti, mazginių mazgoti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

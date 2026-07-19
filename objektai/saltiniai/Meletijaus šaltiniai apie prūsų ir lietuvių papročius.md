@@ -103,7 +103,14 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
+  citata_rodoma: |
+    Daugeliu požiūrių
+    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
+    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
+    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
+    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

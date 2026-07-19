@@ -72,7 +72,12 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
     vyskupui įsakė savo priesaiką nusiųsti Gniezno arkivyskupui, jau
     tada įgijusiam metropolito teises į Medininkų vyskupiją.
     Nuo 1420 m.
-  citata_rodoma: "Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus\nRomedanskio konsekracijos aplinkybių (1427), popiežius naujam\nvyskupui įsakė savo priesaiką nusiųsti Gniezno arkivyskupui, jau\ntada įgijusiam metropolito teises į Medininkų vyskupiją.\nNuo 1420 m."
+  citata_rodoma: |
+    Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus
+    Romedanskio konsekracijos aplinkybių (1427), popiežius naujam
+    vyskupui įsakė savo priesaiką nusiųsti Gniezno arkivyskupui, jau
+    tada įgijusiam metropolito teises į Medininkų vyskupiją.
+    Nuo 1420 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

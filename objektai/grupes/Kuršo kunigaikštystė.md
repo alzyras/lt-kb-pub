@@ -171,7 +171,15 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
     problemų kėlusius Krymo totorius
     ir tuomet jie vėl suaktyvino savo
     veiksmus Livonijoje.
-  citata_rodoma: "Tokie\nkardai kilo iš Vengrijos, kur jie formavosi turkų\n\nPo Liublino unijos Livonijos ir Kuršo\nkunigaikštystės pripažintos bend-\nromis Lenkijos ir LDK valdomis.\n\n1572 m."
+  citata_rodoma: |
+    Tokie
+    kardai kilo iš Vengrijos, kur jie formavosi turkų
+
+    Po Liublino unijos Livonijos ir Kuršo
+    kunigaikštystės pripažintos bend-
+    romis Lenkijos ir LDK valdomis.
+
+    1572 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +199,11 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
     bus laikomos priklausančios lygiai abiem valstybėm.
     Pagaliau lenkams labai rūpėjo iškovoti sau teisę Lietu-
     voje įsigyti dvarų ir gauti urėdų.
-  citata_rodoma: "Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija\nbus laikomos priklausančios lygiai abiem valstybėm.\nPagaliau lenkams labai rūpėjo iškovoti sau teisę Lietu-\nvoje įsigyti dvarų ir gauti urėdų."
+  citata_rodoma: |
+    Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija
+    bus laikomos priklausančios lygiai abiem valstybėm.
+    Pagaliau lenkams labai rūpėjo iškovoti sau teisę Lietu-
+    voje įsigyti dvarų ir gauti urėdų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

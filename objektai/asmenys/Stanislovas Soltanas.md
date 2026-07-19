@@ -66,7 +66,8 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
     priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potoc-
     kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
     pusės maršalas K. N. Sapiega.
-  citata_rodoma: "kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios"
+  citata_rodoma: |
+    kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

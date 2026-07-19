@@ -60,7 +60,14 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
     kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
 
     galingais ginklais aprūpinti arkebuzieriai.
-  citata_rodoma: "g“ sel\n\nFlanguose Tercijos priekyje būdavo išrikiuojami\nišrikiuota muškietininkai. Kitose tercijos rikiuotės\nkavalerija vietose didžiąją dalį šaulių sudarė ne tokiais\n\ngalingais ginklais aprūpinti arkebuzieriai."
+  citata_rodoma: |
+    g“ sel
+
+    Flanguose Tercijos priekyje būdavo išrikiuojami
+    išrikiuota muškietininkai. Kitose tercijos rikiuotės
+    kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
+
+    galingais ginklais aprūpinti arkebuzieriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -590,7 +590,21 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
     tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
     rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
-  citata_rodoma: "Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė\nį Kulmo žemę  ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę\nkitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų\n[sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras\nbrolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos\nžemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė. Prūsai, apsitvėrę\nužtvaromis, iš pradžių narsiai priešinosi, tačiau galop leidosi bėgti, o krikščionys, juos\nbesivydami, išsisklaidė, tada prūsai, nors jų daug bėgančių ir žuvo, susitelkė, matydami\nnedaug vyrų apie vėliavą, sugrįžo į užtvaras ir pradėjo iš naujo kovą, kuri ilgai užtruko,\nkol galop,  šitaip leidžiant viešpačiui, kurio sprendimai protu nesuvokiami, nukovė\nmagistrą394 ir maršalą395 brolį Ditrichą, ir keturiasdešimt brolių ir išžudė visą krikščionių\nkariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei\ntie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi\nrinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus."
+  citata_rodoma: |
+    Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
+    į Kulmo žemę  ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę
+    kitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų
+    [sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras
+    brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
+    žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė. Prūsai, apsitvėrę
+    užtvaromis, iš pradžių narsiai priešinosi, tačiau galop leidosi bėgti, o krikščionys, juos
+    besivydami, išsisklaidė, tada prūsai, nors jų daug bėgančių ir žuvo, susitelkė, matydami
+    nedaug vyrų apie vėliavą, sugrįžo į užtvaras ir pradėjo iš naujo kovą, kuri ilgai užtruko,
+    kol galop,  šitaip leidžiant viešpačiui, kurio sprendimai protu nesuvokiami, nukovė
+    magistrą394 ir maršalą395 brolį Ditrichą, ir keturiasdešimt brolių ir išžudė visą krikščionių
+    kariuomenę; dievo tautą ištiko tokia nelaimė, kad čia patirti nuostoliai rodėsi didesni nei
+    tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
+    rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -631,7 +645,14 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
     komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
     nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
-  citata_rodoma: "Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė\njokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti\ndėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne\nkuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas\nsėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo\nkomtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai\nnudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411."
+  citata_rodoma: |
+    Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
+    jokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
+    dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
+    kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
+    sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
+    komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
+    nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -655,7 +676,14 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
     norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija ir Prūsija).
-  citata_rodoma: "Priešiškuose lietuviams\nšaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo\nmetu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė\nOrdino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai\nsutriuškino kryžiuočius mūšio lauke (III, 123)."
+  citata_rodoma: |
+    Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -677,7 +705,13 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361."
+  citata_rodoma: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -724,7 +758,15 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo
     markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos
     karalius398.
-  citata_rodoma: "Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį\n\n   Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė\nį Kulmo žemę  ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę\nkitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų\n[sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras\nbrolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos\nžemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė."
+  citata_rodoma: |
+    Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
+
+       Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
+    į Kulmo žemę  ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę
+    kitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų
+    [sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras
+    brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
+    žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -746,7 +788,12 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
     1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
     aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą.
-  citata_rodoma: "Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai\nsutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—\n1263 m."
+  citata_rodoma: |
+    Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—
+    1263 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -770,7 +817,17 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške, iš kur
     keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
     savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
-  citata_rodoma: "Apie prūsų, mokančių vokiečių kalbą, niekšiškumą\n\n  Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie\nbrolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai,\nnetikėlių kariuomenei traukiant brolių žemėmis, krikščionys, kurie negalėjo pabėgti  į\npilis, slapstėsi miškuose, brūzgynuose ar pelkėse. Sitai sužinojęs, Herkus, pasiėmęs\ndaug ginklanešių, eidavo į tas vietas, kur tikėdavosi rasti besislapstančiųjų, ir, taikingais\nžodžiais pridengęs klastą, garsiai vokiškai sakydavo: „Jei kas čia slapstosi, tegu išeina\nbe baimės, nes netikėlių kariuomenė jau atsitraukė“. Tuos, kurie, patikėję šiais žodžiais,\nišeidavo, jis su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo."
+  citata_rodoma: |
+    Apie prūsų, mokančių vokiečių kalbą, niekšiškumą
+
+      Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie
+    brolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai,
+    netikėlių kariuomenei traukiant brolių žemėmis, krikščionys, kurie negalėjo pabėgti  į
+    pilis, slapstėsi miškuose, brūzgynuose ar pelkėse. Sitai sužinojęs, Herkus, pasiėmęs
+    daug ginklanešių, eidavo į tas vietas, kur tikėdavosi rasti besislapstančiųjų, ir, taikingais
+    žodžiais pridengęs klastą, garsiai vokiškai sakydavo: „Jei kas čia slapstosi, tegu išeina
+    be baimės, nes netikėlių kariuomenė jau atsitraukė“. Tuos, kurie, patikėję šiais žodžiais,
+    išeidavo, jis su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

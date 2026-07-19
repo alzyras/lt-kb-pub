@@ -74,7 +74,11 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
     lietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»
     tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
     kad būtų galima patraukti priešą ir suardyti jo eiles.
-  citata_rodoma: "Pagal Dlugošo kroniką,\nlietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»\ntačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,\nkad būtų galima patraukti priešą ir suardyti jo eiles."
+  citata_rodoma: |
+    Pagal Dlugošo kroniką,
+    lietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»
+    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
+    kad būtų galima patraukti priešą ir suardyti jo eiles.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -94,7 +98,13 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
     Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,
     esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
     kad jie buvę atmušti^26.
-  citata_rodoma: "Šitas «bėgimas»\ntačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,\nkad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas\nPosilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,\nesą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,\nkad jie buvę atmušti^26."
+  citata_rodoma: |
+    Šitas «bėgimas»
+    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
+    kad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas
+    Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,
+    esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
+    kad jie buvę atmušti^26.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

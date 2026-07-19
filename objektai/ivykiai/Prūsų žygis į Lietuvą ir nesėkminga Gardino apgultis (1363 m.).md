@@ -106,7 +106,21 @@ Nenurodyta
     kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
     Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
     joje tapo visai sunaikintos.
-  citata_rodoma: "Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­\ndesnė nelaimė — badas, siau-\nB adas L ie tu v o je\nbinga našta užgulęs visą Lie­\ntuvą, galimas daiktas, dėl to,\nkad tais metais apskritai visur buvo blogas oras, net­\ngi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­\nlatinių priešo antpuolių iš baimės niekas nebedirbo\nžemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­\nkvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs\nparamos iš Bavarijos grafo Volfgango ir Livonijos\nkryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:\nAriogalos, Pernaravos ir Labūnavos žemės Žemaiti­\njoje tapo visai sunaikintos."
+  citata_rodoma: |
+    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
+    desnė nelaimė — badas, siau-
+    B adas L ie tu v o je
+    binga našta užgulęs visą Lie­
+    tuvą, galimas daiktas, dėl to,
+    kad tais metais apskritai visur buvo blogas oras, net­
+    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
+    latinių priešo antpuolių iš baimės niekas nebedirbo
+    žemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­
+    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
+    paramos iš Bavarijos grafo Volfgango ir Livonijos
+    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
+    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
+    joje tapo visai sunaikintos.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

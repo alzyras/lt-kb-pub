@@ -116,7 +116,11 @@ Nenurodyta
     kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
     operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
     ka sutinkama to meto Kryžiuočių ordine.
-  citata_rodoma: "Didesnė dalis gin-\nkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš\noperacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-\nka sutinkama to meto Kryžiuočių ordine."
+  citata_rodoma: |
+    Didesnė dalis gin-
+    kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
+    operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
+    ka sutinkama to meto Kryžiuočių ordine.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

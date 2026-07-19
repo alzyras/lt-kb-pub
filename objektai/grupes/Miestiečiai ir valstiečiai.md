@@ -74,7 +74,8 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
     tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
     užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
     su dvarininkais.
-  citata_rodoma: "tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart"
+  citata_rodoma: |
+    tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

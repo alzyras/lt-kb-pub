@@ -129,7 +129,15 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
-  citata_rodoma: "1298 viešpaties\nmetais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur\npaėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei\nplėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,\nleidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės\nupės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis\nšimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir\n1500 krikščionių."
+  citata_rodoma: |
+    1298 viešpaties
+    metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
+    paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei
+    plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,
+    leidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės
+    upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
+    šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
+    1500 krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -156,7 +164,16 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
     ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
     buvo jokios vilties pabėgti.
-  citata_rodoma: "Po to nugalėtojai, paleisti pasiplėšti grobio,\nnusiaubė visas apylinkes, naikindami ugnimi ir kala­\nviju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­\ntoli Livonijos įlankos, magistras Brunonas nirtulingai\njuos užpuolė prie Treiderės upės, jau apsikrovusius\ngrobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal\ndėl to, kad neturėjo po ranka kariuomenės (paprastai\nšitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­\ndžiusi po kaimus."
+  citata_rodoma: |
+    Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
+    dėl to, kad neturėjo po ranka kariuomenės (paprastai
+    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
+    džiusi po kaimus.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

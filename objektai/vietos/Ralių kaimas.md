@@ -57,7 +57,9 @@ Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai 
     Sugrįžę apie 24 val. pas ūkininką, miške ra-
     dome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo
     automatų šūviai. Vyrai sukilo ir išėjo į savo vietas.
-  citata_rodoma: "Dar saulei netekėjus Ralių k. prie miško pasigirdo\nautomatų šūviai. Vyrai sukilo ir išėjo į savo vietas."
+  citata_rodoma: |
+    Dar saulei netekėjus Ralių k. prie miško pasigirdo
+    automatų šūviai. Vyrai sukilo ir išėjo į savo vietas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

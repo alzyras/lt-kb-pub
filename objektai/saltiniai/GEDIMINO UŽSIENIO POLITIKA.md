@@ -57,7 +57,12 @@ P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
     P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
 
     P. 43, „KRYŽIUOČIAI PRIEŠ LIETUVĄ XIV A.‘ Karolis Zikaras.
-  citata_rodoma: "p- 31, „PAVOJAI TRAIDENIO LIETUVAI IS RYTŲ“, Romas Batūra.\n\nP-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.\n\nP."
+  citata_rodoma: |
+    p- 31, „PAVOJAI TRAIDENIO LIETUVAI IS RYTŲ“, Romas Batūra.
+
+    P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
+
+    P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

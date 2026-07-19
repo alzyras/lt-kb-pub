@@ -64,7 +64,12 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
     sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
     siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
     paviete, Nočios parapijoje.
-  citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek­\nsandras Bychovcas perdavė jį istoriko pažįstamam tei­\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos \npaviete, Nočios parapijoje."
+  citata_rodoma: |
+    T. Narbuto prašomas, rankraščio savininkas Alek­
+    sandras Bychovcas perdavė jį istoriko pažįstamam tei­
+    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
+    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
+    paviete, Nočios parapijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas

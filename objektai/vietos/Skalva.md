@@ -278,7 +278,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva  tarptautinėje
     plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr. 252, 286, 342; PUB, 1,
     2, Nr. 39, 79; LIŠ, 1, p. 46—47).
-  citata_rodoma: "1253—1259 m. Mindaugo dokumentai, kad  ir kaip juos vertintume, liudija, kad tuo\nmetu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje\nplotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr."
+  citata_rodoma: |
+    1253—1259 m. Mindaugo dokumentai, kad  ir kaip juos vertintume, liudija, kad tuo
+    metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje
+    plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -312,7 +315,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
     Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
-  citata_rodoma: "Apie Ragainės pilies užkariavimą\n\n   Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų."
+  citata_rodoma: |
+    Apie Ragainės pilies užkariavimą
+
+       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -333,7 +342,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
     J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
     lietuvių lingvistai, ypač tarybiniu laikotarpiu6.
-  citata_rodoma: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,\npietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina\nkaip prūsų gyvenamą3.\n  Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei\nankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva\nbei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;\nvakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4."
+  citata_rodoma: |
+    Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
+    pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
+    kaip prūsų gyvenamą3.
+      Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
+    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
+    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
+    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -355,7 +371,11 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -374,7 +394,19 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
     pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
     464  D. čia pats sau prieštarauja.
-  citata_rodoma: "Apie įvykius prieš šį karą\n\n   Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,\nįsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne\nkurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima\npasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.\n\n\n\n\n\n  464  D."
+  citata_rodoma: |
+    Apie įvykius prieš šį karą
+
+       Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
+    įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne
+    kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
+    pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
+
+
+
+
+
+      464  D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -399,7 +431,16 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     sienas; jie jau buvo bemaž užimą įtvirtinimus, nes, iš­
     vydę pavojų, išsigando gynėjai, nebežinodami, ką da­
     ryti (paprastai šitaip esti, kai užgriūva staigi bėda).
-  citata_rodoma: "Vis dėlto vis­\nkas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­\ngų smūgį ketino nukreipti į Skalvių miestą ir pilį. Ir\ntikrai per pirmąjį antpuolį lengvai pavyko išžudyti\ntuos, kurie, nieko nežinodami, pakliuvo puolantiesiems\npo ranka, žuvo ten ir Liudvikas Oksė, kilmingiausias\nordino žmogus, vis dėlto nepavyko greitai užbaigti ko­\nvos, nes smarkiai į priekį veržęsi kariai buvo atstumti\nnuo vartų."
+  citata_rodoma: |
+    Vis dėlto vis­
+    kas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­
+    gų smūgį ketino nukreipti į Skalvių miestą ir pilį. Ir
+    tikrai per pirmąjį antpuolį lengvai pavyko išžudyti
+    tuos, kurie, nieko nežinodami, pakliuvo puolantiesiems
+    po ranka, žuvo ten ir Liudvikas Oksė, kilmingiausias
+    ordino žmogus, vis dėlto nepavyko greitai užbaigti ko­
+    vos, nes smarkiai į priekį veržęsi kariai buvo atstumti
+    nuo vartų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

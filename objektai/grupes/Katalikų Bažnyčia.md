@@ -551,7 +551,10 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J. K. Glaubi-
     co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
     Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
-  citata_rodoma: "Bažnyčios su dviem grakščiais, skirtingai \ndekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-\nžu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J."
+  citata_rodoma: |
+    Bažnyčios su dviem grakščiais, skirtingai
+    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
+    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -575,7 +578,14 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
     kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
     užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
-  citata_rodoma: "Taigi vyko vieningos\ntautybės45 bei baltiškosios Lietuvos valstybės formavimosi procesas46, kurį sustabdė\nvokiečių ir kt. šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.\n  Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų\nkovų prieš agresiją iš Vakarų buvo pavergti vakariniai baltai, kai Ordinas toliau veržėsi\nį Žemaitiją ir Rytų Lietuvą ir tik milžiniškomis pastangomis ir aukomis buvo sulaikytas\nprie Nemuno, virtusio pagrindine fronto linija."
+  citata_rodoma: |
+    Taigi vyko vieningos
+    tautybės45 bei baltiškosios Lietuvos valstybės formavimosi procesas46, kurį sustabdė
+    vokiečių ir kt. šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.
+      Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų
+    kovų prieš agresiją iš Vakarų buvo pavergti vakariniai baltai, kai Ordinas toliau veržėsi
+    į Žemaitiją ir Rytų Lietuvą ir tik milžiniškomis pastangomis ir aukomis buvo sulaikytas
+    prie Nemuno, virtusio pagrindine fronto linija.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -657,7 +667,23 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     Bažnyčios pasmerktą mokslą, taip pat stengiasi, kad kartu
     su juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems
     bedieviškiems jo įtikinėjimams paklustų.
-  citata_rodoma: "Šiuo raštu skelbiame visiems, kam dera žinoti,\nkad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus\nvyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­\nvos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­\ntąja Romos katalikų Bažnyčia, bet ir daugelį kitų naujais\nmokslais suklaidina. Suvokdamas, kad jo ganytojiškoms\npareigoms priklauso rūpintis, kad jam patikėta kaimenė\ndogmomis apnuodytu pašaru nebūtų pavojingai nuodija­\nma, nutarė kuo rūpestingiausiai ir kruopščiausiai išsiaiš­\nkinti viską apie Abraomo gyvenimą, papročius, mokslą ir\nišsiaiškino bei iš patikimų ir pasitikėjimo vertų, priesaiką\ndavusių žmonių liudijimų patyrė, kad anas tiek žodžiais,\ntiek darbais sąmoningai išpažįsta svetimą, Romos katalikų\nBažnyčios pasmerktą mokslą, taip pat stengiasi, kad kartu\nsu juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems\nbedieviškiems jo įtikinėjimams paklustų."
+  citata_rodoma: |
+    Šiuo raštu skelbiame visiems, kam dera žinoti,
+    kad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus
+    vyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­
+    vos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­
+    tąja Romos katalikų Bažnyčia, bet ir daugelį kitų naujais
+    mokslais suklaidina. Suvokdamas, kad jo ganytojiškoms
+    pareigoms priklauso rūpintis, kad jam patikėta kaimenė
+    dogmomis apnuodytu pašaru nebūtų pavojingai nuodija­
+    ma, nutarė kuo rūpestingiausiai ir kruopščiausiai išsiaiš­
+    kinti viską apie Abraomo gyvenimą, papročius, mokslą ir
+    išsiaiškino bei iš patikimų ir pasitikėjimo vertų, priesaiką
+    davusių žmonių liudijimų patyrė, kad anas tiek žodžiais,
+    tiek darbais sąmoningai išpažįsta svetimą, Romos katalikų
+    Bažnyčios pasmerktą mokslą, taip pat stengiasi, kad kartu
+    su juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems
+    bedieviškiems jo įtikinėjimams paklustų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -731,7 +757,11 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     kuriomis valstybėje naudojasi
     ateistai, o kulto laisvė praktikoje
     varžoma.
-  citata_rodoma: "Nors „Kronika“ skirta \ntikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažny-\nčios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės. \n1978 m."
+  citata_rodoma: |
+    Nors „Kronika“ skirta
+    tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažny-
+    čios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.
+    1978 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -768,7 +798,11 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     stačiatikybę, abėcėlė boikoto galėjo nesusilaukti. M. Valančius, perpratęs
     valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios
     brukamas knygas katalikui yra nuodėmė.
-  citata_rodoma: "Jei valdžia būtų leidusi lietuviškas pradžios \nmokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-\nkriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į \nstačiatikybę, abėcėlė boikoto galėjo nesusilaukti. M."
+  citata_rodoma: |
+    Jei valdžia būtų leidusi lietuviškas pradžios
+    mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-
+    kriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į
+    stačiatikybę, abėcėlė boikoto galėjo nesusilaukti. M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -810,7 +844,13 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
     Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
     ją“.
-  citata_rodoma: "Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą \nprotestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti \nBažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-\nčios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-\ngiausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus \nRadvila Juodasis (1515–1565), 1563 m."
+  citata_rodoma: |
+    Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
+    protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
+    Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
+    čios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-
+    giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
+    Radvila Juodasis (1515–1565), 1563 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -839,7 +879,14 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus\nkaras prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,\nnušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš\nDusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.\nTarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti\ndaugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir\njo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.)."
+  citata_rodoma: |
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

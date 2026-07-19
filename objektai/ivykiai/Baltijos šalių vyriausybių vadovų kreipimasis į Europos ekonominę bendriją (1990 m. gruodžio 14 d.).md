@@ -91,7 +91,8 @@ Nenurodyta
     šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
     nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
     ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
-  citata_rodoma: "nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę"
+  citata_rodoma: |
+    nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

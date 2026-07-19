@@ -117,8 +117,28 @@ Nenurodyta
 
     4 DIDŽIOJI |
 
-    I. KUNIGAIKŠTYSTĖ
-  citata_rodoma: "O LDK bajorijai taip ir nepavyko\n\ndeklaruojamų bajoriškosios lygybės idealų,\ndėl kurių ji ir pakilo į ginkluotą kovą, pa-\nversti gyvenimo tikrove. Valkininkų mūšis\ndažnai siejamas su ilgainiui Lietuvą apė-\nmusios suirutės pradžia, privedusios šalį\nprie situacijos, kai jos likimą labiau nei ji\npati ėmė lemti jos kaimynai.\n\n## Puslapis 143\n\nBEZDEZO (ANTOPOLIO) MUSIS 1771\n\nKi\n| LIETUVOS\n\n4 DIDŽIOJI |\n\nI."
+    I.
+  citata_rodoma: |
+    O LDK bajorijai taip ir nepavyko
+
+    deklaruojamų bajoriškosios lygybės idealų,
+    dėl kurių ji ir pakilo į ginkluotą kovą, pa-
+    versti gyvenimo tikrove. Valkininkų mūšis
+    dažnai siejamas su ilgainiui Lietuvą apė-
+    musios suirutės pradžia, privedusios šalį
+    prie situacijos, kai jos likimą labiau nei ji
+    pati ėmė lemti jos kaimynai.
+
+    ## Puslapis 143
+
+    BEZDEZO (ANTOPOLIO) MUSIS 1771
+
+    Ki
+    | LIETUVOS
+
+    4 DIDŽIOJI |
+
+    I.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

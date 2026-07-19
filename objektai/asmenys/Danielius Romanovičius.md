@@ -105,7 +105,14 @@ media_all_json: |-
     lynės
     Naugardo (Novgorod Volynskij), rusų metraščiuose minimą
     1171 m
-  citata_rodoma: "Užimta buvo visa \nLietuvos žemė ir nesuskaičiuojami jų  turtai\".\n6 Danielius Romaoovičius (1201— 1264) —  Haličo ir Volynės \n(vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis. Pasinaudo­\ndamas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį \nMindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­\ntuvos valstybės priešų koaliciją."
+  citata_rodoma: |
+    Užimta buvo visa
+    Lietuvos žemė ir nesuskaičiuojami jų  turtai".
+    6 Danielius Romaoovičius (1201— 1264) —  Haličo ir Volynės
+    (vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis. Pasinaudo­
+    damas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį
+    Mindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­
+    tuvos valstybės priešų koaliciją.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

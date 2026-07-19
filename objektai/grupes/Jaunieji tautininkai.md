@@ -102,7 +102,8 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
     nedetalizavo. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių.
-  citata_rodoma: "kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-"
+  citata_rodoma: |
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

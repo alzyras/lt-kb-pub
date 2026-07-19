@@ -79,7 +79,10 @@ Dusburgietis teigia, kad pirmąjį Dusburgiečio kronikos leidimą parengė K.
     XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais)85.
     Pridėta platus įvadas ir komentarai, tiesa, atskleidžiantys visų pirma Ordino istoriją;
     baltistiniai, lituanistiniai faktai juose paliesti žymiai mažiau ir mūsų negali patenkinti.
-  citata_rodoma: "Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679\nm.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio\nvariantas."
+  citata_rodoma: |
+    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
+    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
+    variantas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

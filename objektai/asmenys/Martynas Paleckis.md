@@ -123,7 +123,20 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     ir Eišiškių valdytojas, monopolis
     kaskart vis didesnę žalą daro mies­
     tui, norėjo jo privilegiją atšaukti.
-  citata_rodoma: "1619 m.\n56\nMiesto aktuose yra: karaliaus Stepo­\nno patvirtinimas sutarties tarp po­\nno Martyno Paleckio ir jo žmonos, \ndabar ponios Rainos Sluščiankos, ir \nmiesto dėl stiklo liejyklos ir stiklo su­\npirkimo. Buvo taip: Vilniaus vaitas \nir burmistrai, matydami, kad Palec­\nkio, kuris buvo karaliaus maršalka \nir Eišiškių valdytojas, monopolis \nkaskart vis didesnę žalą daro mies­\ntui, norėjo jo privilegiją atšaukti."
+  citata_rodoma: |
+    1619 m.
+    56
+    Miesto aktuose yra: karaliaus Stepo­
+    no patvirtinimas sutarties tarp po­
+    no Martyno Paleckio ir jo žmonos,
+    dabar ponios Rainos Sluščiankos, ir
+    miesto dėl stiklo liejyklos ir stiklo su­
+    pirkimo. Buvo taip: Vilniaus vaitas
+    ir burmistrai, matydami, kad Palec­
+    kio, kuris buvo karaliaus maršalka
+    ir Eišiškių valdytojas, monopolis
+    kaskart vis didesnę žalą daro mies­
+    tui, norėjo jo privilegiją atšaukti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -179,7 +192,19 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
     32 33
     Žr. III priedą.
-  citata_rodoma: "Taip pat, kad miesto \ngyventojai savo reikmėms galėtų lengviau pasisamdyti pa­\ndienius darbininkus, visiems padienininkams nuo tol nu­\nrodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­\nvyzdžiu.\nTais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­\nlo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus \nišradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­\nšalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­\ntinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-\n32 33\nŽr."
+  citata_rodoma: |
+    Taip pat, kad miesto
+    gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
+    dienius darbininkus, visiems padienininkams nuo tol nu­
+    rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
+    vyzdžiu.
+    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
+    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
+    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
+    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
+    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
+    32 33
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

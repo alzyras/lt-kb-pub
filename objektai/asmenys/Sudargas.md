@@ -130,7 +130,11 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
     1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus
     gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties
     nė karto neišėjęs už šios pilies sienų.
-  citata_rodoma: "Kronikoje Sudargas, kaip lietuvių karo vadas,\nfigūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332). Jis kovojo prieš Ordiną,\nkai kryžiuočiai puolė Pagraudę, todėl laikomas Pagraudės gyventoju (Łowmiański H.,\nStudja..., 2, p. 186)."
+  citata_rodoma: |
+    Kronikoje Sudargas, kaip lietuvių karo vadas,
+    figūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332). Jis kovojo prieš Ordiną,
+    kai kryžiuočiai puolė Pagraudę, todėl laikomas Pagraudės gyventoju (Łowmiański H.,
+    Studja..., 2, p. 186).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -152,7 +156,12 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo.
-  citata_rodoma: "Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo\nir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais\nkaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į\nnelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,\nbet taip pat nieko nepešė, nes jos vedliai pasiklydo."
+  citata_rodoma: |
+    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
+    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
+    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
+    nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
+    bet taip pat nieko nepešė, nes jos vedliai pasiklydo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

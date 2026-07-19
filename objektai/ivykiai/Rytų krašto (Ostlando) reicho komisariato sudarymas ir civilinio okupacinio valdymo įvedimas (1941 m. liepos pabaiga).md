@@ -112,7 +112,8 @@ Nenurodyta
     okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
-  citata_rodoma: "Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto"
+  citata_rodoma: |
+    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

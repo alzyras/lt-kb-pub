@@ -94,7 +94,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171466
     - c-003
 <a id="claim-t-197422"></a>
 - t-004
@@ -142,7 +141,8 @@ media_all_json: |-
     pastatų stiliumi. Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Lau-
     rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o
     1786 m. – Vilniaus rotušės rekonstrukciją.
-  citata_rodoma: "rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o"
+  citata_rodoma: |
+    rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -161,7 +161,8 @@ media_all_json: |-
     Vilniaus gvardijos vadu. L. Gucevičius savo gyvenimu suvienijo ne tik
     Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių
     menininkų, savo likimą susaisčiusių su krašto likimu.
-  citata_rodoma: "Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių"
+  citata_rodoma: |
+    Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -187,5 +188,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188577
     - t-197422

@@ -59,7 +59,9 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
     nosi nelaisvaisiais.
     Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų
     tuomet buvo labai maža, todėl ėjo mainų prekyba.
-  citata_rodoma: "Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų\ntuomet buvo labai maža, todėl ėjo mainų prekyba."
+  citata_rodoma: |
+    Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų
+    tuomet buvo labai maža, todėl ėjo mainų prekyba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

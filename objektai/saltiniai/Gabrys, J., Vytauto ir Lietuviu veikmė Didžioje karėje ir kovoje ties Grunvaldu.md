@@ -67,7 +67,9 @@ Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunval
     Tilžė, 1923.
     Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje
     ties Grunvaldu. Kaunas, 1912.
-  citata_rodoma: "Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje\nties Grunvaldu. Kaunas, 1912."
+  citata_rodoma: |
+    Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje
+    ties Grunvaldu. Kaunas, 1912.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

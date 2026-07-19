@@ -86,7 +86,11 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
     —— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­
     gino verstis poterėliais ir terbele. Įėjusi pas kiekvieną ūkininką trum­
     pai paverkia, skųsdamasi savo našlaityste.
-  citata_rodoma: "Liko žmona ir auganti duktė, \n—— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­\ngino verstis poterėliais ir terbele. Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste."
+  citata_rodoma: |
+    Liko žmona ir auganti duktė,
+    —— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­
+    gino verstis poterėliais ir terbele. Įėjusi pas kiekvieną ūkininką trum­
+    pai paverkia, skųsdamasi savo našlaityste.
   statusas: verified
   atnaujinta: "2026-07-12 08:53"
   teiginio_tipas: faktas
@@ -104,7 +108,11 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
     pai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­
     dindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­
     pa. Pagavus duonos gabalėlį tuoj pro duris.
-  citata_rodoma: "Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­\ndindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­\npa. Pagavus duonos gabalėlį tuoj pro duris."
+  citata_rodoma: |
+    Įėjusi pas kiekvieną ūkininką trum­
+    pai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­
+    dindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­
+    pa. Pagavus duonos gabalėlį tuoj pro duris.
   statusas: verified
   atnaujinta: "2026-07-12 08:53"
   teiginio_tipas: faktas

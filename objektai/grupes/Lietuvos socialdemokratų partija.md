@@ -147,7 +147,19 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
     socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
     tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
     Sąjunga–Lietuvos konservatoriai (TS–LK).
-  citata_rodoma: "Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad \nLietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos \nkompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-\nzidentinei valdymo formai nepritarta. Visuomenė darėsi pliuralistinė, įre-\ngistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo \ndu pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi\n\nL I E T U V O S  I S T O R I J A\n250\nsocialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-\ntais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės \nSąjunga–Lietuvos konservatoriai (TS–LK)."
+  citata_rodoma: |
+    Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad
+    Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos
+    kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-
+    zidentinei valdymo formai nepritarta. Visuomenė darėsi pliuralistinė, įre-
+    gistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo
+    du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi
+
+    L I E T U V O S  I S T O R I J A
+    250
+    socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
+    tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
+    Sąjunga–Lietuvos konservatoriai (TS–LK).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -167,7 +179,8 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
     tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
     lyderis Kazys Grinius.
-  citata_rodoma: "tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų"
+  citata_rodoma: |
+    tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -190,7 +203,10 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
     karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
     kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
     29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
-  citata_rodoma: "Kairysis valstiečių liaudinin-\nkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo \n29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP)."
+  citata_rodoma: |
+    Kairysis valstiečių liaudinin-
+    kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
+    29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -216,7 +216,17 @@ Nenurodyta
     vimą, pareikalavo Lietuvos pinigus žymėti
     Ordos ženklais. Tuomet Vytautas įsakė
     savo kariams ruoštis kautynėms.
-  citata_rodoma: "Vytautas 5 dienas stovėjo kitoje Vorsklos\npusėje, įtvirtintoje stovykloje su geležinė-\nmis grandinėmis kaustytais vežimais, su\ndaugeliu patrankėlių (piščalių), patrankų,\n„arbaletų“. Edigėjus skelbėsi amžiumi vy-\nresniu, todėl reikalavo Vytauto klusnumo\nir atsakydamas į ankstesnį Vytauto reikala-\nvimą, pareikalavo Lietuvos pinigus žymėti\nOrdos ženklais. Tuomet Vytautas įsakė\nsavo kariams ruoštis kautynėms."
+  citata_rodoma: |
+    Vytautas 5 dienas stovėjo kitoje Vorsklos
+    pusėje, įtvirtintoje stovykloje su geležinė-
+    mis grandinėmis kaustytais vežimais, su
+    daugeliu patrankėlių (piščalių), patrankų,
+    „arbaletų“. Edigėjus skelbėsi amžiumi vy-
+    resniu, todėl reikalavo Vytauto klusnumo
+    ir atsakydamas į ankstesnį Vytauto reikala-
+    vimą, pareikalavo Lietuvos pinigus žymėti
+    Ordos ženklais. Tuomet Vytautas įsakė
+    savo kariams ruoštis kautynėms.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -235,7 +245,13 @@ Nenurodyta
     riuomenė buvo akimis neaprėpiama, prieš
     kurią Vytauto ir krikščionių kunigaikščių
     pulkai atrodė smulkia saujele.
-  citata_rodoma: "1399 m. rugpjūčio 12 d., „dvi valan-\ndos iki saulėlydžio“ prasidėjo „didžiausias\nmūšis“. J. Dlugošo žodžiais, Edigėjaus ka-\nriuomenė buvo akimis neaprėpiama, prieš\nkurią Vytauto ir krikščionių kunigaikščių\npulkai atrodė smulkia saujele."
+  citata_rodoma: |
+    1399 m. rugpjūčio 12 d., „dvi valan-
+    dos iki saulėlydžio“ prasidėjo „didžiausias
+    mūšis“. J. Dlugošo žodžiais, Edigėjaus ka-
+    riuomenė buvo akimis neaprėpiama, prieš
+    kurią Vytauto ir krikščionių kunigaikščių
+    pulkai atrodė smulkia saujele.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

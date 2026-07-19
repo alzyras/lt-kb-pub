@@ -88,7 +88,16 @@ Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apei
     Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo
     metais dar būta burtininkų pėdsakų, priskiria jiems ateities
     išpranašavimą liejant ištirpintą vašką į šaltą vandenį.
-  citata_rodoma: "Žvalgonys (Swalgones)\nTai buvo žyniai, atliekantys vedybų apeigas, arba tekančių\nmerginų abejotinos skaistybės bylų teisėjai. Jie išpranašauda­\nvo jaunavedžiams ateitį ir per tokias iškilmes sakydavo kal­\nbas. Jų pavadinimas kilęs iš žodžioSwalgajt, kuris senovės prū­\nsų kalba reiškė tuoktis. Anot kitų, tas pavadinimas kilęs išCwal-\ngiti, gerai įsižiūrėti, deramai ištirti, kaip sako Ostermejeris. Tad\nsutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­\nnamus dalykus."
+  citata_rodoma: |
+    Žvalgonys (Swalgones)
+    Tai buvo žyniai, atliekantys vedybų apeigas, arba tekančių
+    merginų abejotinos skaistybės bylų teisėjai. Jie išpranašauda­
+    vo jaunavedžiams ateitį ir per tokias iškilmes sakydavo kal­
+    bas. Jų pavadinimas kilęs iš žodžioSwalgajt, kuris senovės prū­
+    sų kalba reiškė tuoktis. Anot kitų, tas pavadinimas kilęs išCwal-
+    giti, gerai įsižiūrėti, deramai ištirti, kaip sako Ostermejeris. Tad
+    sutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­
+    namus dalykus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

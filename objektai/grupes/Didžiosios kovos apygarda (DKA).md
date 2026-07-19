@@ -104,7 +104,12 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
     apygardą), tuomet Žalias Velnias ėjo šio junginio vado pavaduotojo pareigas, vadovavo Myko-
     las Kareckas-Serbentas, šiam žuvus, vėl vadu tapo J. Misiūnas, apygarda pavadinta Didžiosios
     kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
-  citata_rodoma: "Rugsėjį savo junginį jis pa-\nvadino Didžiosios kovos rinktine. Vėliau ji buvo pervadinta į 5-ąjį LLA rajoną (dar vėliau 5-ąją LLA\napygardą), tuomet Žalias Velnias ėjo šio junginio vado pavaduotojo pareigas, vadovavo Myko-\nlas Kareckas-Serbentas, šiam žuvus, vėl vadu tapo J. Misiūnas, apygarda pavadinta Didžiosios\nkovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis)."
+  citata_rodoma: |
+    Rugsėjį savo junginį jis pa-
+    vadino Didžiosios kovos rinktine. Vėliau ji buvo pervadinta į 5-ąjį LLA rajoną (dar vėliau 5-ąją LLA
+    apygardą), tuomet Žalias Velnias ėjo šio junginio vado pavaduotojo pareigas, vadovavo Myko-
+    las Kareckas-Serbentas, šiam žuvus, vėl vadu tapo J. Misiūnas, apygarda pavadinta Didžiosios
+    kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

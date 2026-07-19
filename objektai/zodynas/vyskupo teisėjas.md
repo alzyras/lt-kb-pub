@@ -89,7 +89,12 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
     vos penkios dešimtys nukauta.
 
     Spaudžiami krikščionių stabmeldžiai bandė gelbėtis pabėgdami.
-  citata_rodoma: "O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent\nGdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-\nvos penkios dešimtys nukauta.\n\nSpaudžiami krikščionių stabmeldžiai bandė gelbėtis pabėgdami."
+  citata_rodoma: |
+    O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
+    Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
+    vos penkios dešimtys nukauta.
+
+    Spaudžiami krikščionių stabmeldžiai bandė gelbėtis pabėgdami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +119,14 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
     nikos rodo fantastiškus skaičius: 10, 18 ir
     pan. tūkstančių, tuo tarpu kryžiuočių -
     8 broliai ir 42 gerieji vyrai - Vartbergė).
-  citata_rodoma: "Daug ordino brolių žuvo, tarp jų Gdan-\nsko komtūras, Sembos vyskupo teisėjas.\nKronikininko Vygando liudijimu, kry-\nžiuočių spaudžiami lietuviai traukėsi per\nStrėvos upę ir daug jų krito (Ordino kro-\nnikos rodo fantastiškus skaičius: 10, 18 ir\npan."
+  citata_rodoma: |
+    Daug ordino brolių žuvo, tarp jų Gdan-
+    sko komtūras, Sembos vyskupo teisėjas.
+    Kronikininko Vygando liudijimu, kry-
+    žiuočių spaudžiami lietuviai traukėsi per
+    Strėvos upę ir daug jų krito (Ordino kro-
+    nikos rodo fantastiškus skaičius: 10, 18 ir
+    pan.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

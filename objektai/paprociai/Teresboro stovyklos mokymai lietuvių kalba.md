@@ -127,7 +127,12 @@ Nenurodyta
     komandos buvo duodamos lietuvių kalba.
     Netrukus nenumatyti įvykiai pri-
     vertė koreguoti planus.
-  citata_rodoma: "Stovykloje veikė karo\nlauko ligoninė, mokymai vyko lietuviškai,\nkomandos buvo duodamos lietuvių kalba.\nNetrukus nenumatyti įvykiai pri-\nvertė koreguoti planus."
+  citata_rodoma: |
+    Stovykloje veikė karo
+    lauko ligoninė, mokymai vyko lietuviškai,
+    komandos buvo duodamos lietuvių kalba.
+    Netrukus nenumatyti įvykiai pri-
+    vertė koreguoti planus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

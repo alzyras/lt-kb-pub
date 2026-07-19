@@ -283,7 +283,21 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     džiaugsmą dėl jo susitaikymo su Jo­
     gaila ir todėl dedąs viltis, jog čekų
     eretikai būsią šiek tiek apmalšinti.
-  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­\ngaliau pakviestas atvyksta Jogaila, lydimas gausaus Len-\nkaralių Zigmantą nuo ketinimo ka­\nrūnuoti Vytautą, ir Nr."
+  citata_rodoma: |
+    Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­
+    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
+    karalių Zigmantą nuo ketinimo ka­
+    rūnuoti Vytautą, ir Nr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -373,7 +387,18 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
     jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
     nijos karalystei.
-  citata_rodoma: "Visi Šie įvykiai siejami su III amžiumi.\n235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus."
+  citata_rodoma: |
+    Visi Šie įvykiai siejami su III amžiumi.
+    235
+    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
+    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
+    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
+    grąžino iš jo tėvo atimtą Danijos sostą1.
+    236
+    Sklinda garsūs senoviniai skandinavų padavimai apie
+    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
+    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
+    ringumo žmogus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -422,7 +447,21 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     jos ginklais, o ne per pasiuntinius. Tegu jie žino, kad
     į šitokį pasiuntinių pareiškimą lietuviai negali duoti
     kitokio atsakymo nei tas, kurį dabar davė".
-  citata_rodoma: "Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią. Karą prieš Skirmantą susimanė rengti Balakla-\njus, naujas Užvolgio skitų kunigaikštis, galimas daib-\ntas, norėdamas išdildyti pri-\nS k irm a n ta s su m u ša\nsiminimus apie pralaimėjimą,\nsk itu s\npatirtą prieš keletą metų;\nteisėtos priežasties, jis išleido pasiuntinius, turėjusius\npareikalauti iš Rusios duoklės."
+  citata_rodoma: |
+    Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

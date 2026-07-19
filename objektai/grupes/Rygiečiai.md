@@ -172,7 +172,12 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
     kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
     skelbė, jog Gedimino laiškai esą rygiečių darbas.
-  citata_rodoma: "Toks kaltinimų ordinui kartojimas yra davęs\nprogos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos\nordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys\nkryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,\nskelbė, jog Gedimino laiškai esą rygiečių darbas."
+  citata_rodoma: |
+    Toks kaltinimų ordinui kartojimas yra davęs
+    progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos
+    ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
+    kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
+    skelbė, jog Gedimino laiškai esą rygiečių darbas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -190,7 +195,11 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
     Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
     išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
-  citata_rodoma: "Rygai\nrūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.\nTaigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai\nišsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160."
+  citata_rodoma: |
+    Rygai
+    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
+    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
+    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

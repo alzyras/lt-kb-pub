@@ -118,7 +118,11 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: "Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-\nvero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino \npanaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai \nkartais laikomi Apšvietos epochos pradžia."
+  citata_rodoma: |
+    Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
+    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
+    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
+    kartais laikomi Apšvietos epochos pradžia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +142,12 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
     patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
     „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
     ną.
-  citata_rodoma: "Ryškiausiu iš jų \nlaikytina P. K. Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m. \npatvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam \n„eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-\nną."
+  citata_rodoma: |
+    Ryškiausiu iš jų
+    laikytina P. K. Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m.
+    patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
+    „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
+    ną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

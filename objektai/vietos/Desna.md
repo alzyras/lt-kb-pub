@@ -205,7 +205,9 @@ media_all_json: |-
     upyno kunigaikštystes — Brianską, Trubčevską, Nau-
     gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
     atiduotos valdyti Algirdo sūnums ar brolėnams.
-  citata_rodoma: "Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Nau-\ngardą Sieverską, ir kt."
+  citata_rodoma: |
+    Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Nau-
+    gardą Sieverską, ir kt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -256,7 +258,22 @@ media_all_json: |-
     arba vidinės priežasties; tai turėjo sukelti didelius šių
     1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
     vandens, Dnepras tekėjo kita kryptimi (Karamzin.
-  citata_rodoma: "Tų įdubų juos­\ntos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­\ngrindinės upės vandens lygis buvo gerokai aukštesnis, \ntekėdavo visais metų laikais. Plytėjo ilga įlanka, arba \nkairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­\nlios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­\nje, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai \nežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa- \ndneprės slėnį, plaukė maždaug varsto atstumu savo slė­\nniu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­\nšiniąją, senų geografų vadinamą Borysthenis occidentale \nlatus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją \nšaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą, \nžemiau Kijevo virstančią didele upe — tikruoju senovės \nBoristeniu."
+  citata_rodoma: |
+    Tų įdubų juos­
+    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
+    grindinės upės vandens lygis buvo gerokai aukštesnis,
+    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
+    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
+    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
+    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
+    ežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa-
+    dneprės slėnį, plaukė maždaug varsto atstumu savo slė­
+    niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­
+    šiniąją, senų geografų vadinamą Borysthenis occidentale
+    latus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją
+    šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,
+    žemiau Kijevo virstančią didele upe — tikruoju senovės
+    Boristeniu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

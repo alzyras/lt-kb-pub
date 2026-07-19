@@ -73,7 +73,14 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
     totorių raiteliai galėdavo judėti taip spar-
     čiai, jog anaiptol ne visada žinia apie toto-
     rių reidą galėdavo užbėgti jiems už akių.
-  citata_rodoma: "Taktinį\npranašumą sąlygojo jų lengvoji kavalerija.\nKiekvienas raitelis su savimi vesdavosi po\ntris atsarginius žirgus, kuriuos keičiant\ntotorių raiteliai galėdavo judėti taip spar-\nčiai, jog anaiptol ne visada žinia apie toto-\nrių reidą galėdavo užbėgti jiems už akių."
+  citata_rodoma: |
+    Taktinį
+    pranašumą sąlygojo jų lengvoji kavalerija.
+    Kiekvienas raitelis su savimi vesdavosi po
+    tris atsarginius žirgus, kuriuos keičiant
+    totorių raiteliai galėdavo judėti taip spar-
+    čiai, jog anaiptol ne visada žinia apie toto-
+    rių reidą galėdavo užbėgti jiems už akių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

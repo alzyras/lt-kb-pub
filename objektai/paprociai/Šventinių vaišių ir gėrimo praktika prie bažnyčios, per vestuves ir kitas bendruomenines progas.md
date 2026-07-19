@@ -112,7 +112,13 @@ Nenurodyta
     po
     pamokslo ėjo pas žydą į gertuvę pasėdėti, čia besėdėdami ir bešnekė­
     dami pasišaukė bonkelę.
-  citata_rodoma: "Taip užkandžiavo šventoriuje. \nAtėjusieji į bažnyčią \npėsti \npo \npamokslo ėjo pas žydą į gertuvę pasėdėti, čia besėdėdami ir bešnekė­\ndami pasišaukė bonkelę."
+  citata_rodoma: |
+    Taip užkandžiavo šventoriuje.
+    Atėjusieji į bažnyčią
+    pėsti
+    po
+    pamokslo ėjo pas žydą į gertuvę pasėdėti, čia besėdėdami ir bešnekė­
+    dami pasišaukė bonkelę.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -134,7 +140,10 @@ Nenurodyta
     Ilgainiui vyskupas Valančius atkreipė dėmesį į šią
     tvarką ir prisakė mišparus laikyti tuojau po pamaldų, ir žmonės turėjo
     važiuoti namo pietauti.
-  citata_rodoma: "Ilgainiui vyskupas Valančius atkreipė dėmesį į šią \ntvarką ir prisakė mišparus laikyti tuojau po pamaldų, ir žmonės turėjo \nvažiuoti namo pietauti."
+  citata_rodoma: |
+    Ilgainiui vyskupas Valančius atkreipė dėmesį į šią
+    tvarką ir prisakė mišparus laikyti tuojau po pamaldų, ir žmonės turėjo
+    važiuoti namo pietauti.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -159,7 +168,9 @@ Nenurodyta
     į degtinę.
     Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­
     siam girtuokliavimui, įvesdamas „Blaivybės Broliją“ .
-  citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­\nsiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
+  citata_rodoma: |
+    Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­
+    siam girtuokliavimui, įvesdamas „Blaivybės Broliją“.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

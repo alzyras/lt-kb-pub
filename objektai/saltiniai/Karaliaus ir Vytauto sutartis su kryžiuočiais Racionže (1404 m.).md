@@ -110,7 +110,19 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
     žygiu kryžiuočiai baisiai nusiaubė Lietuvą. Mat Vy­
     tautas, netikėtai užkluptas karo, neturėjo čia pat ka­
     riuomenės, su kuria galėtų atremti priešą.
-  citata_rodoma: "Gavęs ži­\nnią apie padėtį Lietuvoje, Jogaila pirmas kreipėsi per\nm\n\n## Puslapis 363\n\npasiuntinius į kryžiuočius, prašydamas taikos,, ir kry­\nžiuočiai, kaip paaiškėjo, nebuvo tam prašymui prie­\nšingi. Abi šalys susitarė apsvarstyti visą reikalą Ra-\ncionže. Sutartą dieną ten atvyko karo ir taikos vadai:\nkaralius Jogaila, kunigaikštis Vytautas ir magistras\nJungingenas."
+  citata_rodoma: |
+    Gavęs ži­
+    nią apie padėtį Lietuvoje, Jogaila pirmas kreipėsi per
+    m
+
+    ## Puslapis 363
+
+    pasiuntinius į kryžiuočius, prašydamas taikos,, ir kry­
+    žiuočiai, kaip paaiškėjo, nebuvo tam prašymui prie­
+    šingi. Abi šalys susitarė apsvarstyti visą reikalą Ra-
+    cionže. Sutartą dieną ten atvyko karo ir taikos vadai:
+    karalius Jogaila, kunigaikštis Vytautas ir magistras
+    Jungingenas.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -147,7 +159,21 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
     palankumą, į ką kita, gal dėl to, kad jau tada slaptai
     galvojo apie karą su Maskva, sutiko su gana sunkiomis
     sąlygomis.
-  citata_rodoma: "Mat Vytautas, gal\nnorėdamas pastūmėti Švitrigailą, praradusį kryžiuočių\npalankumą, į ką kita, gal dėl to, kad jau tada slaptai\ngalvojo apie karą su Maskva, sutiko su gana sunkiomis\nsąlygomis. Karaliaus Vladislovo vyskupo pasiūlytoje su­\ntartyje buvo surašytos štai šitokios sąlygos: Vytautas\nkryžiuočiams užleisiąs amžinai valdyti Žemaitiją, kara­\nlius Jogaila sumokėsiąs keturiasdešimt tūkstančių flori­\nnų, kryžiuočiai atiduosią lenkams Dobrynę, abi šalys\ntvarkingai grąžinsią viena kitai belaisvius, ištremsią iš\nsavo žemių perbėgėlius ir nutrauksią visokius išpuolius\nį kaimynų pasienio apygardas. Taikos sudarymui pažy­\nmėti Konradas Toninėje surengė iškilmingas vaišes, į\nkurias pakvietė karalių ir Vytautą."
+  citata_rodoma: |
+    Mat Vytautas, gal
+    norėdamas pastūmėti Švitrigailą, praradusį kryžiuočių
+    palankumą, į ką kita, gal dėl to, kad jau tada slaptai
+    galvojo apie karą su Maskva, sutiko su gana sunkiomis
+    sąlygomis. Karaliaus Vladislovo vyskupo pasiūlytoje su­
+    tartyje buvo surašytos štai šitokios sąlygos: Vytautas
+    kryžiuočiams užleisiąs amžinai valdyti Žemaitiją, kara­
+    lius Jogaila sumokėsiąs keturiasdešimt tūkstančių flori­
+    nų, kryžiuočiai atiduosią lenkams Dobrynę, abi šalys
+    tvarkingai grąžinsią viena kitai belaisvius, ištremsią iš
+    savo žemių perbėgėlius ir nutrauksią visokius išpuolius
+    į kaimynų pasienio apygardas. Taikos sudarymui pažy­
+    mėti Konradas Toninėje surengė iškilmingas vaišes, į
+    kurias pakvietė karalių ir Vytautą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

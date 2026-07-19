@@ -105,7 +105,8 @@ Nenurodyta
     vo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė. Savo laiške
     prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
     ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.
-  citata_rodoma: "prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei"
+  citata_rodoma: |
+    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

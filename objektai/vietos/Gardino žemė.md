@@ -63,7 +63,10 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
     pastoviai veržtis rytų link. Gardino žemė su artimiausiomis pilimis
     buvo pradinis laimikis. Užimdamas Nemuno kairėje porą Lietuvai
     artimiausių krivičių sričių, šituo keliu ėjo ir Mindaugas.
-  citata_rodoma: "Gardino žemė su artimiausiomis pilimis\nbuvo pradinis laimikis. Užimdamas Nemuno kairėje porą Lietuvai\nartimiausių krivičių sričių, šituo keliu ėjo ir Mindaugas."
+  citata_rodoma: |
+    Gardino žemė su artimiausiomis pilimis
+    buvo pradinis laimikis. Užimdamas Nemuno kairėje porą Lietuvai
+    artimiausių krivičių sričių, šituo keliu ėjo ir Mindaugas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

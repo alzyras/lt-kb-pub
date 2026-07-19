@@ -81,7 +81,9 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
     1 (1231 —1340), Mainz, 1860.
     Codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.
     Prochaska.— Cracoviae, 1882.
-  citata_rodoma: "Codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.\nProchaska.— Cracoviae, 1882."
+  citata_rodoma: |
+    Codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.
+    Prochaska.— Cracoviae, 1882.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

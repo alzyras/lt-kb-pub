@@ -134,7 +134,9 @@ Nenurodyta
     po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
     arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
     išsigelbėjo pabėgdamas.
-  citata_rodoma: "Popiežius 1217.III.3 leido Kristijonui organizuoti\nkryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205)."
+  citata_rodoma: |
+    Popiežius 1217.III.3 leido Kristijonui organizuoti
+    kryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -153,7 +155,10 @@ Nenurodyta
     po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
     arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
     išsigelbėjo pabėgdamas.
-  citata_rodoma: "Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos\nkunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.\nPierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152)."
+  citata_rodoma: |
+    Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos
+    kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.
+    Pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -89,7 +89,12 @@ Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodži
     Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadinamos.
     Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip įp­
     rasta tame krašte.
-  citata_rodoma: "Sie\ndalykai yra tik Srioko veikale (Kirchen Geschichte. B. XXX. S.\n497). Visi jie pažodžiui paimti iš Enėjaus Silvijaus, Gardino ap­\nrašymas turėtų būti veikale: Oaspari Ens. Deliciae Epadon per\nGermaniam."
+  citata_rodoma: |
+    Sie
+    dalykai yra tik Srioko veikale (Kirchen Geschichte. B. XXX. S.
+    497). Visi jie pažodžiui paimti iš Enėjaus Silvijaus, Gardino ap­
+    rašymas turėtų būti veikale: Oaspari Ens. Deliciae Epadon per
+    Germaniam.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

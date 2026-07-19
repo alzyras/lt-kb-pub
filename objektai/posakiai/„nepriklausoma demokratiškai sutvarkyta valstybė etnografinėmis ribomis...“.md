@@ -66,7 +66,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
     tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
     ją/“.
-  citata_rodoma: "renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu"
+  citata_rodoma: |
+    renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

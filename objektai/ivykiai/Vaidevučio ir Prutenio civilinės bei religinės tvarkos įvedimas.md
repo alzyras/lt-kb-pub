@@ -98,7 +98,15 @@ Nenurodyta
     rnovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji
     būdavo naikinama, kaip per karus su lenkais, tuomet jis gy­
     vendavo vietovėse, kurios turi panašius pavadinimus.
-  citata_rodoma: "Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­\ntuvių tautos istorija ir mitologija, teiginius, kuriais abejojama\nvyriausiojo žynio buvimu, palaikys nesąmone.\nŠios garbingos elementariųjų religijos dalykų pareigos su­\ntapo su aukščiausiosios civilinės valdžios turėjimu. Taigi Vai­\ndevutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,\nbuvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­\ngaikščiai ."
+  citata_rodoma: |
+    Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­
+    tuvių tautos istorija ir mitologija, teiginius, kuriais abejojama
+    vyriausiojo žynio buvimu, palaikys nesąmone.
+    Šios garbingos elementariųjų religijos dalykų pareigos su­
+    tapo su aukščiausiosios civilinės valdžios turėjimu. Taigi Vai­
+    devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
+    buvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­
+    gaikščiai .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

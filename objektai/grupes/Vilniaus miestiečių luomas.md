@@ -951,7 +951,19 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
     savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
     mąjį Statutą.
-  citata_rodoma: "Čia paminėti įstatymai gali būti laikomi galutiniu išsi­\nvadavimu arba veikiau aukščiausia teisių veikimo riba, kurią \npasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.\nKai dar 1564 metais Bełsko seime Žygimantas Augustas \ntvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­\nrią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, \natsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­\nmus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­\nribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau \nbylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip \nsavo metu darė ir Žygimantas Senasis, paskelbdamas Pir­\nmąjį Statutą."
+  citata_rodoma: |
+    Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
+    vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
+    pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
+    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
+    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
+    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
+    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
+    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
+    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
+    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
+    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
+    mąjį Statutą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1086,7 +1098,21 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
     pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
     nių, turėjo slėptis Trakų pilyje34.
-  citata_rodoma: "370-374. Re­\ngis, iš jo kilusi Hanulu giminė, kurių\n36\n\n## Puslapis 53\n\nI  KNYGA\nVilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­\ngailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi \npilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas \nVilniaus gyventojų palankumas didžia dalimi nulėmė eigą \nkovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat \npralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­\nnių, turėjo slėptis Trakų pilyje34."
+  citata_rodoma: |
+    370-374. Re­
+    gis, iš jo kilusi Hanulu giminė, kurių
+    36
+
+    ## Puslapis 53
+
+    I  KNYGA
+    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
+    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
+    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
+    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
+    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
+    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
+    nių, turėjo slėptis Trakų pilyje34.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1183,7 +1209,21 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
     Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
     visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
-  citata_rodoma: "miesto teisių D n b i n s k i o rinkinv-\n224\n\n## Puslapis 241\n\nIII KNYGA\ntoritetą, maždaug tuo laiku pagarsėjo vienas jų, vardu Jach­\nna Laurinavičius, pasižymėjęs išmintimi, turtais ir įtakingu- \nmu, o ir paties karaliaus didžiai gerbiamas31. Dar būdamas \ndidžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­\ndo Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­\nje, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su \nČernigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė \nvisiems Vilniaus gyventojams, prekiaujantiems su Lenkija."
+  citata_rodoma: |
+    miesto teisių D n b i n s k i o rinkinv-
+    224
+
+    ## Puslapis 241
+
+    III KNYGA
+    toritetą, maždaug tuo laiku pagarsėjo vienas jų, vardu Jach­
+    na Laurinavičius, pasižymėjęs išmintimi, turtais ir įtakingu-
+    mu, o ir paties karaliaus didžiai gerbiamas31. Dar būdamas
+    didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
+    do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­
+    je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
+    Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
+    visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1234,7 +1274,19 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
     panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
     dar ir naujų, amžiui priderančių, laisvių dalyviu72.
-  citata_rodoma: "Bet jau tokia būna geni­\njaus įtaka menkesniems protams, kad dažnai net nenoro­\nmis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio, \ngarbina ir vykdo didvyrio sumanymus, kurių iš paprasto \nžmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas, \ndviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­\nliečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­\nmenyje neteko tokio globėjo, kokiu paskui netapo nė vienas \niš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­\ngaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje, \npanoro ne tik pripažinti jam senąjį įžymumą, bet padaryti \ndar ir naujų, amžiui priderančių, laisvių dalyviu72."
+  citata_rodoma: |
+    Bet jau tokia būna geni­
+    jaus įtaka menkesniems protams, kad dažnai net nenoro­
+    mis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio,
+    garbina ir vykdo didvyrio sumanymus, kurių iš paprasto
+    žmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas,
+    dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­
+    liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­
+    menyje neteko tokio globėjo, kokiu paskui netapo nė vienas
+    iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­
+    gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
+    panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
+    dar ir naujų, amžiui priderančių, laisvių dalyviu72.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1375,7 +1427,14 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
     kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
     čių sidabro luitų65 • .
-  citata_rodoma: "), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­\ngiantis. Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio \narklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir \nKatedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­\nteko savo žirgų ir brangenybių, o žala, kurią per tai patyrė, \nkaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­\nčių sidabro luitų65 • ."
+  citata_rodoma: |
+    ), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
+    giantis. Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
+    arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
+    Katedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­
+    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
+    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
+    čių sidabro luitų65 • .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1401,7 +1460,20 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  citata_rodoma: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,13 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
     Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
     mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
     nigaikščio vienturtę dukterį^4 ).
-  citata_rodoma: "1340 met.\npasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo\nir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir\nGedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­\nmine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­\nnigaikščio vienturtę dukterį^4 )."
+  citata_rodoma: |
+    1340 met.
+    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
+    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
+    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
+    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
+    nigaikščio vienturtę dukterį^4 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

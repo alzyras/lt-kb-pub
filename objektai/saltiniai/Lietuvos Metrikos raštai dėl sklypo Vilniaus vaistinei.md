@@ -84,7 +84,26 @@ media_all_json: |-
     rius Volfgangas savo „Uwagi
     Historyczne" Dziennik Wileński, 1816
     m.-T. IV, 1.251.
-  citata_rodoma: "Łukasza, \nPranciškaus Skorinos vertimas į baž­\nnytinę slavų kalbą.\n28\nKaip matyti iš Metrikos sąrašo, Lie­\ntuvos Metrikoje buvo: Listy na plac \ngoły, które Król Zygmunt od niektóre­\ngo Zawiszy, do Apteki zbudowania w \nWilnie, za sześć seth y sześć kop kupił, \nokoło roku 1510 [Raštai tuščiam skly­\npui, kurį karalius Žygimantas nupir­\nko iš tokio Zavišos už šešis šimtus ir \nšešias (606) kapas [grašių] apie 1510 \nmetus vaistinės Vilniuje statybai]. \nApie farmacijos būklę Lietuvoje \ntrumpą žinutę išspausdino profeso­\nrius Volfgangas savo „Uwagi \nHistoryczne\" Dziennik Wileński, 1816 \nm."
+  citata_rodoma: |
+    Łukasza,
+    Pranciškaus Skorinos vertimas į baž­
+    nytinę slavų kalbą.
+    28
+    Kaip matyti iš Metrikos sąrašo, Lie­
+    tuvos Metrikoje buvo: Listy na plac
+    goły, które Król Zygmunt od niektóre­
+    go Zawiszy, do Apteki zbudowania w
+    Wilnie, za sześć seth y sześć kop kupił,
+    około roku 1510 [Raštai tuščiam skly­
+    pui, kurį karalius Žygimantas nupir­
+    ko iš tokio Zavišos už šešis šimtus ir
+    šešias (606) kapas [grašių] apie 1510
+    metus vaistinės Vilniuje statybai].
+    Apie farmacijos būklę Lietuvoje
+    trumpą žinutę išspausdino profeso­
+    rius Volfgangas savo „Uwagi
+    Historyczne" Dziennik Wileński, 1816
+    m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

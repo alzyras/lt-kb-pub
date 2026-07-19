@@ -89,7 +89,12 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
     begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
     mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
     svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
-  citata_rodoma: "Apie Mikalojų III, popiežių, bei karalių Rudolfą ir apie Tibro potvynį\n\n  1277 viešpaties metais valdė popiežius Mikalojus III ir Rudolfas. Tuo laiku Romoje\ntaip ištvino ir išsiliejo Tibras, kad pakilo per keturias ir daugiau pėdų virš švenčiausiosios\nMarijos altoriaus rotondoje (Ptol. 23, 26; Mart. p. 420)."
+  citata_rodoma: |
+    Apie Mikalojų III, popiežių, bei karalių Rudolfą ir apie Tibro potvynį
+
+      1277 viešpaties metais valdė popiežius Mikalojus III ir Rudolfas. Tuo laiku Romoje
+    taip ištvino ir išsiliejo Tibras, kad pakilo per keturias ir daugiau pėdų virš švenčiausiosios
+    Marijos altoriaus rotondoje (Ptol. 23, 26; Mart. p. 420).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

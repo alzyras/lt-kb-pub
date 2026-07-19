@@ -58,7 +58,8 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti.
-  citata_rodoma: "Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti."
+  citata_rodoma: |
+    Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -72,7 +73,8 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną.
-  citata_rodoma: "Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną."
+  citata_rodoma: |
+    Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

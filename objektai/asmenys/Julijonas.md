@@ -108,7 +108,19 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą. Nestoras irgi nusirašė visa tai.
-  citata_rodoma: "Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti \nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip \nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama \nChue, Chunnigard-, ji priklausė minėtai tautai. Galėjo \nbūti, kad slavai, vėliau tapę šios tvirtovės šeimininkais, \nėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe- \nrewoz, o iš čia pasakojimas apie tris brolius — K i j ų, \nŠčeką ir Choryvą — susiliejo išvien su žiniomis apie se­\nnovės Kijevą."
+  citata_rodoma: |
+    Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
+    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
+    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
+    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
+    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
+    novės Kijevą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

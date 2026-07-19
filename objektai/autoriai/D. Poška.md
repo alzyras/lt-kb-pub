@@ -242,7 +242,13 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: "Be to, buvo renkamos se-\nnienos ir seni istoriniai doku-\nmentai, o D. Poška savo\nBaubly įtaisė net senienų mu-\nziejų. Jis taip pat bandė rašyti\nir Lietuvos istoriją."
+  citata_rodoma: |
+    Be to, buvo renkamos se-
+    nienos ir seni istoriniai doku-
+    mentai, o D. Poška savo
+    Baubly įtaisė net senienų mu-
+    ziejų. Jis taip pat bandė rašyti
+    ir Lietuvos istoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -261,7 +267,11 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     žemaitiškai. Tik to meto Vilniaus universiteto garsenybė, isto-
     rikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kil-
     dinimo iš gerulių nemoksliškumą.
-  citata_rodoma: "Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių\nveikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats\nglobojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs\nžemaitiškai."
+  citata_rodoma: |
+    Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių
+    veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats
+    globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
+    žemaitiškai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -303,7 +313,13 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
     poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
     timi.
-  citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
+  citata_rodoma: |
+    Manoma, kad tuo metu jau buvo parašyti
+    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
+    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
+    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
+    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
+    metų ir nebuvo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -57,7 +57,10 @@ Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos
     i atl tei. Antroji priklauso Lietuvos Didžiajai Kunigaikštystei, pirmosios pagalbininkei ir sq-
     jungininkei, o ne pavaldžiai provincijai, kaip kad kitos karalystę sudarančios provincijos.
     Karūnos armija turi 36 000 vyrų, Lietuvos - 12 000; mūsų laikais dar taip nebuvo, kad
-  citata_rodoma: "Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalys-\ni atl tei. Antroji priklauso Lietuvos Didžiajai Kunigaikštystei, pirmosios pagalbininkei ir sq-\njungininkei, o ne pavaldžiai provincijai, kaip kad kitos karalystę sudarančios provincijos."
+  citata_rodoma: |
+    Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalys-
+    i atl tei. Antroji priklauso Lietuvos Didžiajai Kunigaikštystei, pirmosios pagalbininkei ir sq-
+    jungininkei, o ne pavaldžiai provincijai, kaip kad kitos karalystę sudarančios provincijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

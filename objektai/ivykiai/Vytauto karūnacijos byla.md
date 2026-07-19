@@ -119,7 +119,8 @@ Nenurodyta
     chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
     Lucko suvažiavimas.
-  citata_rodoma: "chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo"
+  citata_rodoma: |
+    chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -139,7 +140,8 @@ Nenurodyta
     tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė
     pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą,
     pritapo prie jos ir joje išsilaikė.
-  citata_rodoma: "tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė"
+  citata_rodoma: |
+    tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

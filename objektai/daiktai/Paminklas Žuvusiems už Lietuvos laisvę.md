@@ -93,7 +93,8 @@ Nenurodyta
     vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
     karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
     kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
-  citata_rodoma: "vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi"
+  citata_rodoma: |
+    vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

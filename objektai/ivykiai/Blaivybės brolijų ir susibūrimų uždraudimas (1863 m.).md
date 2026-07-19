@@ -113,7 +113,11 @@ Nenurodyta
     bintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes
     tada buvo uždraustos visos draugijos. Tačiau vyskupas nemetė
     savo gražaus darbo.
-  citata_rodoma: "Jau iš pat pradžių Vilniaus\ngeneralgubernatorius ir Kauno gubernatorius buvo pradėję ka-\nbintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes\ntada buvo uždraustos visos draugijos."
+  citata_rodoma: |
+    Jau iš pat pradžių Vilniaus
+    generalgubernatorius ir Kauno gubernatorius buvo pradėję ka-
+    bintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes
+    tada buvo uždraustos visos draugijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +140,11 @@ Nenurodyta
     1863 m. sukilimo, kada Mu-
     ravjovas uždraudė visokius
     susibūrimus.
-  citata_rodoma: "Šitaip buvo iki pat\n1863 m. sukilimo, kada Mu-\nravjovas uždraudė visokius\nsusibūrimus."
+  citata_rodoma: |
+    Šitaip buvo iki pat
+    1863 m. sukilimo, kada Mu-
+    ravjovas uždraudė visokius
+    susibūrimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -99,7 +99,8 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
     Napaliukas klausė
     Baltruko: „Kame tavo rimbas?“ ir ištraukė rimbą iš Baltro
     rankos.
-  citata_rodoma: "Napaliukas klausė Baltruko: „Kame tavo rimbas?“ ir ištraukė rimbą iš Baltro rankos."
+  citata_rodoma: |
+    Napaliukas klausė Baltruko: „Kame tavo rimbas?“ ir ištraukė rimbą iš Baltro rankos.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -119,7 +120,8 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
     Baltras pasakė, kad kažin koks piemuo jį pernai išmokęs vyžas
     pinti. Napaliukas dar paklausė:
     — O ką tu jam už tai davei?
-  citata_rodoma: "Napaliukas dar paklausė: — O ką tu jam už tai davei?"
+  citata_rodoma: |
+    Napaliukas dar paklausė: — O ką tu jam už tai davei?
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -143,7 +145,8 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
     Baltro,
     paardė
     ir pradėjo vėl pinti.
-  citata_rodoma: "Paskiau pastarasis ištraukė vyžą iš Baltro, paardė ir pradėjo vėl pinti."
+  citata_rodoma: |
+    Paskiau pastarasis ištraukė vyžą iš Baltro, paardė ir pradėjo vėl pinti.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

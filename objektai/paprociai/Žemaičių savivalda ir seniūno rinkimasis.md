@@ -99,7 +99,11 @@ Nenurodyta
     įtakos į Žemaičių krašto vidaus reikalus, tačiau jį laikydami didžio­
     sios Lietuvos kunigaikštijos sudedamąja dalimi, pavojaus metu
     teikė pagalbą.
-  citata_rodoma: "Bet didieji Lietuvos kunigaikščiai, nors nedaug teturėjo\nįtakos į Žemaičių krašto vidaus reikalus, tačiau jį laikydami didžio­\nsios Lietuvos kunigaikštijos sudedamąja dalimi, pavojaus metu\nteikė pagalbą."
+  citata_rodoma: |
+    Bet didieji Lietuvos kunigaikščiai, nors nedaug teturėjo
+    įtakos į Žemaičių krašto vidaus reikalus, tačiau jį laikydami didžio­
+    sios Lietuvos kunigaikštijos sudedamąja dalimi, pavojaus metu
+    teikė pagalbą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -117,7 +121,11 @@ Nenurodyta
     padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
     iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
     laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  citata_rodoma: "Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų\npadarinių tik Žemaičiams: konkurentų kovų metu jie išgavo\niš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems\nlaikams laidavo jiems savotišką vidaus tvarkymąsi."
+  citata_rodoma: |
+    Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
+    padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
+    iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
+    laikams laidavo jiems savotišką vidaus tvarkymąsi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

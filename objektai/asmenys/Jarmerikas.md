@@ -118,7 +118,13 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
-  citata_rodoma: "Tuomet ir danų karalius Helgė kariavo su sla­\nvais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė\nį slavų kraštą; venedų karalius Skalka buvo sumuštas ir\nkrito mūšio lauke, o jo kraštas pateko į priešų rankas."
+  citata_rodoma: |
+    Tuomet ir danų karalius Helgė kariavo su sla­
+    vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
+    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
+    už savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė
+    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
+    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -144,7 +150,14 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
     vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
     rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
     karalius Halfanask
-  citata_rodoma: "Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti\n40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­\nką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog\nįtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė\nį Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus\nplytinčius kraštus, žiauriai liedamas žmonių kraują ir be\ngalo juos engdamas."
+  citata_rodoma: |
+    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
+    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
+    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

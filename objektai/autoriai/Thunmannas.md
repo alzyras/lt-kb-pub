@@ -76,7 +76,11 @@ media_all_json: |-
     gentims, sako: „Turbūt tas pats karalius Germanarikas
     savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
     kraštą ir pavergė estų tautą“4.
-  citata_rodoma: "Į Vakarus nuo dešiniojo\n1 Thunmann. Untersuchungen über die Geschichte einiger nor­\ndischer Völker.\nS. 66*."
+  citata_rodoma: |
+    Į Vakarus nuo dešiniojo
+    1 Thunmann. Untersuchungen über die Geschichte einiger nor­
+    discher Völker.
+    S. 66*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

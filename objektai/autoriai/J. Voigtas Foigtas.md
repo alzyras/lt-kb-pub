@@ -192,7 +192,14 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
     lenkiški žodžiai, ir, jei gerbiamieji istorikai būtų tai su­
     vokę, jiems, be abejo, nereikėtų vargti ieškant lietuviams
     vietos svetimoje žemėje, kur jie niekados negyveno.
-  citata_rodoma: "Tačiau vokiečių senovės tyrinėtojai prira­\nšė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti\nvisiškai nereikšmingi. Naujausias yra Reinchardo teigi­\nmas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi\nį pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,\nnes ten yra vietovardžių Stabinas, Staviškės. Tai bent\netimologinių išvadų pagrindas!"
+  citata_rodoma: |
+    Tačiau vokiečių senovės tyrinėtojai prira­
+    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
+    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
+    mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
+    į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
+    nes ten yra vietovardžių Stabinas, Staviškės. Tai bent
+    etimologinių išvadų pagrindas!
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -218,7 +225,18 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
     įsikūrusi Bartėnų seniūnijoje. Vėliau sužinosime, kad ją įkūrė dar
     XIII amžiuje arba XIV amžiaus pradžioje ateiviai iš kitų Lietuvos
     žemės kraštų.
-  citata_rodoma: "Senovės tyrinėtojai, pradedant Plinijaus kom­\npiliacijomis ir baigiant nuodugniai mąstančiu Uphage- \nnu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, \nnet mokytasis ponas Foigtas patenka į keblią padėtį šia \nprasme ir daro visiškai netaiklias išvadas2. Pernelyg daug \nlaiko reikėtų tam, kad paneigtume visas hipotezes, o ant­\nra vertus, tektų kartoti tai, ką jau rašėme arba ketiname \nvėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­\nrės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,\nj Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė, \nįsikūrusi Bartėnų seniūnijoje."
+  citata_rodoma: |
+    Senovės tyrinėtojai, pradedant Plinijaus kom­
+    piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
+    nu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis,
+    net mokytasis ponas Foigtas patenka į keblią padėtį šia
+    prasme ir daro visiškai netaiklias išvadas2. Pernelyg daug
+    laiko reikėtų tam, kad paneigtume visas hipotezes, o ant­
+    ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
+    vėliau parašyti. Skiriu kraštas turėjo tokias ribas: iš šiau­
+    rės ir rytų jos ėjo Nemuno upe, pradedant nuo tos vietos,
+    j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
+    įsikūrusi Bartėnų seniūnijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

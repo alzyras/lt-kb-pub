@@ -88,7 +88,14 @@ Nenurodyta
     elekciniuose būdavo renkami pavieto arba vaivadijos urė-
     dai, ir t. t.
     **3.
-  citata_rodoma: "Vėliau seimeliai\nbuvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo\natskirus vardus: priešseiminiuose seimeliuose bū-\ndavo renkami atstovai į seimą; reliaciniuose atstovai,\ngrįžę iš seimo, padarydavo pranešimus apie seimo darbus;\nelekciniuose būdavo renkami pavieto arba vaivadijos urė-\ndai, ir t. t."
+  citata_rodoma: |
+    Vėliau seimeliai
+    buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo
+    atskirus vardus: priešseiminiuose seimeliuose bū-
+    davo renkami atstovai į seimą; reliaciniuose atstovai,
+    grįžę iš seimo, padarydavo pranešimus apie seimo darbus;
+    elekciniuose būdavo renkami pavieto arba vaivadijos urė-
+    dai, ir t. t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

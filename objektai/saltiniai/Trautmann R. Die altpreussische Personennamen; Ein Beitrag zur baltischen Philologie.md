@@ -71,7 +71,9 @@ Dusburgietis teigia, kad trautmann R.
     История Эстонской ССР. — Т. I (с древнейших времен до середины XIX века)/Под
     редакцией А. Вассара и Г. Наана.— Таллин, 1961.
     Кириллова Ю. М. Прибалтика, Белоруссия.
-  citata_rodoma: "Trautmann  R.  Die  altpreussische Personennamen;  Ein  Beitrag  zur  baltischen\nPhilologie.— Göttingen, 1925."
+  citata_rodoma: |
+    Trautmann  R.  Die  altpreussische Personennamen;  Ein  Beitrag  zur  baltischen
+    Philologie.— Göttingen, 1925.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

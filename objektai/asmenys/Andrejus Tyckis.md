@@ -61,8 +61,18 @@ media_all_json: |-
     nu Wileńskomu Andrejų Tyckomu
     [Laiškas Vilniaus miestiečiui Andre­
     jui Tiekiui] dėl Smolensko muito ir
-    smuklių arendavimo. Knyga 8,1.87.
-  citata_rodoma: "XI.\n20\nLietuvos Metrikoje yra labai daug \nŽygimanto Senojo laiškų, tuo tikslu \nrašytų Vilniaus miestiečiams, - paci­\ntuosime kai kuriuos: List Meszczani- \nnu Wileńskomu Andrejų Tyckomu \n[Laiškas Vilniaus miestiečiui Andre­\njui Tiekiui] dėl Smolensko muito ir \nsmuklių arendavimo. Knyga 8,1."
+    smuklių arendavimo. Knyga 8,1.
+  citata_rodoma: |
+    XI.
+    20
+    Lietuvos Metrikoje yra labai daug
+    Žygimanto Senojo laiškų, tuo tikslu
+    rašytų Vilniaus miestiečiams, - paci­
+    tuosime kai kuriuos: List Meszczani-
+    nu Wileńskomu Andrejų Tyckomu
+    [Laiškas Vilniaus miestiečiui Andre­
+    jui Tiekiui] dėl Smolensko muito ir
+    smuklių arendavimo. Knyga 8,1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

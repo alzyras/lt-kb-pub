@@ -431,7 +431,16 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     būti Mazovijoje, prie Livos upės; šiam teiginiui negalime
     1 Estijos dalis, kur yra Dorpato miestas, pavadinta labai seno­
     viniu Unguriįos, Iggaunu Seme, vardu.
-  citata_rodoma: "Mes net nežinome, ar tai buvęs tik\nvardas lėtų, arba veikiau lietuvių, genties, ar visai at­\nskiros, seniai išnykusios genties pavadinimas. Senovėje\nbuvo žinomi panašūs pavadinimai: Ptolemėjas mini Ael-\nvaconesz, kurie buvo lygų gentis; be to, tyrinėtojai tei­\ngia, kad jie gyveno Silezijoje, nors galėjo būti ir arčiau\nVyslos arba prie jūros kairiojoje šios upės pakrantėje. Ta­\ncitas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­\ntojai, gyvenę Pomeranijoje prie Helio5."
+  citata_rodoma: |
+    Mes net nežinome, ar tai buvęs tik
+    vardas lėtų, arba veikiau lietuvių, genties, ar visai at­
+    skiros, seniai išnykusios genties pavadinimas. Senovėje
+    buvo žinomi panašūs pavadinimai: Ptolemėjas mini Ael-
+    vaconesz, kurie buvo lygų gentis; be to, tyrinėtojai tei­
+    gia, kad jie gyveno Silezijoje, nors galėjo būti ir arčiau
+    Vyslos arba prie jūros kairiojoje šios upės pakrantėje. Ta­
+    citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
+    tojai, gyvenę Pomeranijoje prie Helio5.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -475,7 +484,15 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
     neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
     te, vėliau pavadintame Prūsija, stebėjimus.
-  citata_rodoma: "Kelio ilgis sutampa su\nPlinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai\nlygu 120—125 vokiečių mylioms. Tokį pat nuotolį nuo Vys­\nlos žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad\nprekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­\nbikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės\nreligijos pašventintais svetingumo papročiais ar tam tik­\nrais šiuo pagrindu sudarytais susitarimais."
+  citata_rodoma: |
+    Kelio ilgis sutampa su
+    Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai
+    lygu 120—125 vokiečių mylioms. Tokį pat nuotolį nuo Vys­
+    los žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad
+    prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­
+    bikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės
+    religijos pašventintais svetingumo papročiais ar tam tik­
+    rais šiuo pagrindu sudarytais susitarimais.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -502,7 +519,19 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     mįla. Žinios apie tai kryžiuočių transakcijose išliko tokios
     aiškios, kad reikia jas tik patvirtinti apžiūrėjus tų kraštų
     vietoves ir pakrantes.
-  citata_rodoma: "Iš įvairių Karaliaučiaus Slaptajame archy­\nve esančių transakcijų ponas Foigtas1 teigia, jog viena\ndešinioji Nemuno deltos šaka nuo Rusnės suko į šiaurę,\niš dešiniosios pakrantės įtekėjo Minija, po to jungėsi su\nDange, kurios žiotyse stovėjo sena lietuvių tvirtovė Klai­\npėda, Klejpeda2, ir galop vienomis plačiomis žiotimis įsi­\nliejo į jūrą toje pačioje vietoje, kur šiandien yra Kuršių\nmarių žiotys. Prie šio tvirtinimo reikia pridurti, jog Pto-\nlemėjas nurodo Krono upės, kuri yra Nemunas, žiotis sub-\nelevatione Poli 56 graduum et longitudine 50 graduum.\nTai geriausiai atitinka šiandien Kuršių marių žiotis į jū­\nrą."
+  citata_rodoma: |
+    Iš įvairių Karaliaučiaus Slaptajame archy­
+    ve esančių transakcijų ponas Foigtas1 teigia, jog viena
+    dešinioji Nemuno deltos šaka nuo Rusnės suko į šiaurę,
+    iš dešiniosios pakrantės įtekėjo Minija, po to jungėsi su
+    Dange, kurios žiotyse stovėjo sena lietuvių tvirtovė Klai­
+    pėda, Klejpeda2, ir galop vienomis plačiomis žiotimis įsi­
+    liejo į jūrą toje pačioje vietoje, kur šiandien yra Kuršių
+    marių žiotys. Prie šio tvirtinimo reikia pridurti, jog Pto-
+    lemėjas nurodo Krono upės, kuri yra Nemunas, žiotis sub-
+    elevatione Poli 56 graduum et longitudine 50 graduum.
+    Tai geriausiai atitinka šiandien Kuršių marių žiotis į jū­
+    rą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -528,7 +557,15 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     nors genties, šventos vietos arba pilies pavadinimo, kurį
     visuomet įsimintų kitos kartos, nes jis primintų jų protė­
     vių vardą.
-  citata_rodoma: "Juk tarp visų lietuvių nebuvo\njokios atskiros genties, kuri būtų vadinama Prūsija ir\nkurios vardas būtų siejamas su žeme ar kraštu, sudaran­\nčiu mūsų pirmą sritį. Veltui net ir ieškotume tų Ptolemėjo\nboruskų ar borusų kažkur prie Ritėjų kalnų, nes tokiu\natveju įsiveltume į prieštaravimų sūkurį taip pat kaip tie,\nkuriems šovė į galvą padaryti tokias išvadas. Pirmiausia\ntaip manė Erazmas Stela1**."
+  citata_rodoma: |
+    Juk tarp visų lietuvių nebuvo
+    jokios atskiros genties, kuri būtų vadinama Prūsija ir
+    kurios vardas būtų siejamas su žeme ar kraštu, sudaran­
+    čiu mūsų pirmą sritį. Veltui net ir ieškotume tų Ptolemėjo
+    boruskų ar borusų kažkur prie Ritėjų kalnų, nes tokiu
+    atveju įsiveltume į prieštaravimų sūkurį taip pat kaip tie,
+    kuriems šovė į galvą padaryti tokias išvadas. Pirmiausia
+    taip manė Erazmas Stela1**.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -554,7 +591,16 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     gos) įrodinėjimus verta čia išdėstyti bent jau tam, kad išsakytume ir
     savo nuomonę. Žodyje phrugundiones jis įžvelgia paslėptą prūsų, o
     ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą.
-  citata_rodoma: "Si provincija\nplytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,\no pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš­\nkai pradėta vadinti Culm, lenkiškai — Chefmno', anot\nPretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą,\n1 S ajar zykąs, atmetęs tą išvadą (Starožyin. slaw. § 19. Nr. 5),\nteigia, jog prūsų protėviai buvo Ptolemėjo aprašyti frugundionai —\ntauta (o gal gentis), kurios mes nė nedrįstume priskirti prie lietuvių\ngenties."
+  citata_rodoma: |
+    Si provincija
+    plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,
+    o pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš­
+    kai pradėta vadinti Culm, lenkiškai — Chefmno', anot
+    Pretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą,
+    1 S ajar zykąs, atmetęs tą išvadą (Starožyin. slaw. § 19. Nr. 5),
+    teigia, jog prūsų protėviai buvo Ptolemėjo aprašyti frugundionai —
+    tauta (o gal gentis), kurios mes nė nedrįstume priskirti prie lietuvių
+    genties.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -623,7 +669,12 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
     į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
     nes ten yra vietovardžių Stabinas, Staviškės.
-  citata_rodoma: "270\nLietuvos provincijos. Stavanus Ptolemėjas vadina Sta-\nbatiix. Sis geografas mini juos toje vietoje ir tokia tvar­\nka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­\nsius lietuvius."
+  citata_rodoma: |
+    270
+    Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
+    batiix. Sis geografas mini juos toje vietoje ir tokia tvar­
+    ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
+    sius lietuvius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -662,7 +713,13 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
     Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
     kurie turėjo gyventi šalia tos teritorijos ribų.
-  citata_rodoma: "Dies machten die Tagro-Jazygen.\nPtolemėjas II Kristaus eros amžiuje mini tavių tautą,\ngyvenusią galų kaimynystėje, prie Dnestro.\nPonas Hameris dar prieš poną Volianskį mėgino šif­\nruoti tą visiškai senovės tyrinėtojams nesuprantamą už­\nrašą."
+  citata_rodoma: |
+    Dies machten die Tagro-Jazygen.
+    Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
+    gyvenusią galų kaimynystėje, prie Dnestro.
+    Ponas Hameris dar prieš poną Volianskį mėgino šif­
+    ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
+    rašą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

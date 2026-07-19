@@ -218,7 +218,20 @@ Nenurodyta
     bažnyčiųl0, todėl Vytautas pramintas antruoju dievo
     apaštalu", kadangi jis pačius atkakliausius stabmel­
     džius atvertė į krikščionių tikėjimą.
-  citata_rodoma: "O paskui vokiečiai atsiuntė pas didjjį kunigaikštį \nVytautą savo pasiuntinius, primindami jam, kad jis tu­\nrįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo \nužstatyta Žemaitija7 . Didysis kunigaikštis Vytautas \natsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­\nbar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją, \no pinigų jums atiduoti neturiu.\"\n\nBet netrukus Vytautas ėmė rinkti pinigus ir surin­\nkęs nusiuntė jiems visą auksinų sumą. Paėmę auksą, \njie daugiau Žemaitijos nebeužpuldinėjo, paliko ją ra­\nmybėje, nes buvo Jogailos, ir Vytauto, ir žemaičių su­\nmušti bei nuniokoti 8 ,"
+  citata_rodoma: |
+    O paskui vokiečiai atsiuntė pas didjjį kunigaikštį
+    Vytautą savo pasiuntinius, primindami jam, kad jis tu­
+    rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo
+    užstatyta Žemaitija7 . Didysis kunigaikštis Vytautas
+    atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
+    bar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją,
+    o pinigų jums atiduoti neturiu."
+
+    Bet netrukus Vytautas ėmė rinkti pinigus ir surin­
+    kęs nusiuntė jiems visą auksinų sumą. Paėmę auksą,
+    jie daugiau Žemaitijos nebeužpuldinėjo, paliko ją ra­
+    mybėje, nes buvo Jogailos, ir Vytauto, ir žemaičių su­
+    mušti bei nuniokoti 8 ,
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -255,7 +268,17 @@ Nenurodyta
     ir daugelio kitų mėsiškų ir naminių patiekalų20.
     Ir vaišino didysis kunigaikštis Vytautas tuos sve­
     čius septynias savaites21.
-  citata_rodoma: "Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­\nkiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­\ngu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­\nkam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų \nvaldovu. Ir Vytautas juos priėmė savo globon 6 ."
+  citata_rodoma: |
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­
+    kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­
+    gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­
+    kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų
+    valdovu. Ir Vytautas juos priėmė savo globon 6 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

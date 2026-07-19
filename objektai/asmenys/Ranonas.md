@@ -86,7 +86,13 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
     nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,
     su kuriuo susidoroti buvo ne taip lengva; jis sudarė su
     juo sąjungą ir vedė jo dukrą.
-  citata_rodoma: "Senovės Danijos istorijoje randame ži­\nnių, jog karalius Protonas I su stipriu laivynu nuplaukė\nprie rytinių Baltijos jūros pakrančių, ketindamas užpulti\nrusus. Kautynes laimėjo danai. Rusų karvedys, vardu\nRanonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo\nDanijos karaliaus valdžion."
+  citata_rodoma: |
+    Senovės Danijos istorijoje randame ži­
+    nių, jog karalius Protonas I su stipriu laivynu nuplaukė
+    prie rytinių Baltijos jūros pakrančių, ketindamas užpulti
+    rusus. Kautynes laimėjo danai. Rusų karvedys, vardu
+    Ranonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo
+    Danijos karaliaus valdžion.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

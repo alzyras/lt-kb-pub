@@ -191,7 +191,9 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     kvietimą atsiliepė 20 tūkst. savanorių, į dalinius priimta 10 tūkst. vyrų. Vo-
     kiečiai pareikalavo, kad rinktinė taptų jiems pavaldi. Lietuvių kariai neke-
     tino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.
-  citata_rodoma: "Lietuvių kariai neke-\ntino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis."
+  citata_rodoma: |
+    Lietuvių kariai neke-
+    tino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +213,10 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
     Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
     lenkų Armija Krajova daliniais.
-  citata_rodoma: "Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į\nVilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais\nlenkų Armija Krajova daliniais."
+  citata_rodoma: |
+    Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
+    Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
+    lenkų Armija Krajova daliniais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -233,7 +238,13 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     skirstėsi namo. Traukiantis, vieno
     susišaudymo metu, A. Slučka buvo “
     vokiečių sužeistas.
-  citata_rodoma: "Vokiečiams pamėginus\npriversti Vietinės rinktinės karius\nvykti į Rytų frontą, šie apsiginklavę\nskirstėsi namo. Traukiantis, vieno\nsusišaudymo metu, A. Slučka buvo “\nvokiečių sužeistas."
+  citata_rodoma: |
+    Vokiečiams pamėginus
+    priversti Vietinės rinktinės karius
+    vykti į Rytų frontą, šie apsiginklavę
+    skirstėsi namo. Traukiantis, vieno
+    susišaudymo metu, A. Slučka buvo “
+    vokiečių sužeistas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

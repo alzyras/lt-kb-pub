@@ -82,7 +82,7 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    VII, p. 262.'
+    262.'
     49
 
     ## Puslapis 66
@@ -94,7 +94,19 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
     kais vykdamas per Europos šiaurės kraštus, rado savo
     genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius),
     Tryk (Trakų) ir kitų miestų, netgi Lenkijojek.
-  citata_rodoma: "262.'\n49\n\n## Puslapis 66\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nNors yra toks mūsų kronikininko pasakojimas apie Vil­\nniaus įkūrimą XIV amžiuje, likę pėdsakų, liudijančių tą mies­\ntą buvus jau XII amžiuje. Islandų keliautojas Snorro, tais lai­\nkais vykdamas per Europos šiaurės kraštus, rado savo \ngenties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius), \nTryk (Trakų) ir kitų miestų, netgi Lenkijojek."
+  citata_rodoma: |
+    262.'
+    49
+
+    ## Puslapis 66
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Nors yra toks mūsų kronikininko pasakojimas apie Vil­
+    niaus įkūrimą XIV amžiuje, likę pėdsakų, liudijančių tą mies­
+    tą buvus jau XII amžiuje. Islandų keliautojas Snorro, tais lai­
+    kais vykdamas per Europos šiaurės kraštus, rado savo
+    genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius),
+    Tryk (Trakų) ir kitų miestų, netgi Lenkijojek.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

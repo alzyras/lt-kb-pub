@@ -198,7 +198,7 @@ Nenurodyta
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Lindenblatt Jahrbücher, p. 9 4 .
+    9 4 .
     52
     Tas žygis buvo paskubomis ir slap­
     ta suruoštas, ir todėl didysis magist­
@@ -209,7 +209,18 @@ Nenurodyta
     įplaukė į Nemuną. Mūsų istorikai
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
-  citata_rodoma: "9 4 .\n52\nTas žygis buvo paskubomis ir slap­\nta suruoštas, ir todėl didysis magist­\nras tuokart mažai teturėjo svetimša­\nlių, juk nesigarsino po visą Europą, \no slapčia iš Marienburgo išplaukė \nVysla laivais, paskui jūros įlanka \nįplaukė į Nemuną. Mūsų istorikai \nbendrais bruožais ir ne taip išsamiai \napie šitai pasakoja."
+  citata_rodoma: |
+    9 4 .
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

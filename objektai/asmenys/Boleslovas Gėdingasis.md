@@ -140,7 +140,12 @@ media_all_json: |-
     radarbiauti su lenkais. Danielius nesutiko. Naktį jotvin­
     giai užpuolė tik lenkus, o rusinu —■ ne. Priešinamasi buvo
     atkakliai, žiauriai, nuodėguliai krito kaip žaibai.
-  citata_rodoma: "Ziemovitas\nvaldė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­\nbėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime\njotvingius\". Be to, pagalbą atsiuntė taip pat ir Boleslovas\n(Gėdingasis)."
+  citata_rodoma: |
+    Ziemovitas
+    valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­
+    bėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime
+    jotvingius". Be to, pagalbą atsiuntė taip pat ir Boleslovas
+    (Gėdingasis).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

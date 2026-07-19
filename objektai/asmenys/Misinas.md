@@ -110,7 +110,11 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     pėdas; jomis nusekė su būreliu ginklanešių brolis Valteris, pravarde Goldinas, ir visus
     išžudė, išskyrus vieną, kuris bėgdamas nusigavo iki brolio Henriko iš Vederės ir sunkiai
     jį sužeidė, vis dėlto sulaukdamas deramo atkirčio, nes brolis Henrikas jį mirtinai sužeidė.
-  citata_rodoma: "Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė\nKaraliaučiaus brolių arklius. Kiti, skersai ir išilgai daužydamiesi po žemę, žudė vokiečius,\njų moteris bei vaikus ėmė į nelaisvę, bet didelę pagarbą rodė bažnyčioms, bažnytiniams\nsakramentams ir bažnyčių tarnams."
+  citata_rodoma: |
+    Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė
+    Karaliaučiaus brolių arklius. Kiti, skersai ir išilgai daužydamiesi po žemę, žudė vokiečius,
+    jų moteris bei vaikus ėmė į nelaisvę, bet didelę pagarbą rodė bažnyčioms, bažnytiniams
+    sakramentams ir bažnyčių tarnams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -135,7 +139,12 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į
     Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
     Libencelės su visa jų šeimyna.
-  citata_rodoma: "Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,\nTrinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,\ntaip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į\nBartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš\nLibencelės su visa jų šeimyna."
+  citata_rodoma: |
+    Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,
+    Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,
+    taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į
+    Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
+    Libencelės su visa jų šeimyna.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

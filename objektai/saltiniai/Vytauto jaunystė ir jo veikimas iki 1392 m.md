@@ -72,7 +72,9 @@ media_all_json: |-
     dien, Heft 165, 1925. — Ivinskis, Z. : _Vytauto jaunystė ir jo veikimas iki
     1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p.
     — (”) _Jogailos santykiai su Kęstučiu ir Vytautu iki 1392 m._ , rink.
-  citata_rodoma: "— Ivinskis, Z. : _Vytauto jaunystė ir jo veikimas iki\n1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p."
+  citata_rodoma: |
+    — Ivinskis, Z. : _Vytauto jaunystė ir jo veikimas iki
+    1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -85,7 +85,8 @@ Terminas vartojamas kalbant apie triukšmo draudimą ir tam laikui būdingus val
     po
     tris
     žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
-  citata_rodoma: "šventai gavėniai užėjus, rėkauti, ūžti negalima"
+  citata_rodoma: |
+    šventai gavėniai užėjus, rėkauti, ūžti negalima
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

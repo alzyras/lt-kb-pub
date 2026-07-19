@@ -95,7 +95,13 @@ Nenurodyta
     mėtąja verte. Jie buvo vadinami muštiniais. Bet daug daž-
     niau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-
     giuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą.
-  citata_rodoma: "Pinigų senovės aisčiai neturėjo, o naudojosi svetimaisiais\npinigais arba paprastais aukso ar sidabro gabalais. Vėlesniaisiais\nlaikais buvo vartojami specialūs pailgi sidabro gabalai su pažy-\nmėtąja verte. Jie buvo vadinami muštiniais. Bet daug daž-\nniau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-\ngiuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą."
+  citata_rodoma: |
+    Pinigų senovės aisčiai neturėjo, o naudojosi svetimaisiais
+    pinigais arba paprastais aukso ar sidabro gabalais. Vėlesniaisiais
+    laikais buvo vartojami specialūs pailgi sidabro gabalai su pažy-
+    mėtąja verte. Jie buvo vadinami muštiniais. Bet daug daž-
+    niau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-
+    giuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -90,7 +90,22 @@ Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią toki
     Kijevo ir Rusios didįjį kuni­
     gaikštį, prisiekdami su visomis žemėmis paklusti jo
     valdžiai.
-  citata_rodoma: "Nors rusai dar nebuvo\n2 03\n\nVerčiau pasiduodant išsaugoti šiokią tokią valstybę, \nkad ir nugalėtojo valdomą, nei viską atkakliu prie­\nšinimusi prarasti. Todėl pa­\nsitarę nusprendė patys ati­\nduoti pilį ir miestą. Visi luo­\nmai, išėję iš miesto, sveikino \nnugalėtoją \nGediminą \nkaip \nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo \nvaldžiai."
+  citata_rodoma: |
+    Nors rusai dar nebuvo
+    2 03
+
+    Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
+    kad ir nugalėtojo valdomą, nei viską atkakliu prie­
+    šinimusi prarasti. Todėl pa­
+    sitarę nusprendė patys ati­
+    duoti pilį ir miestą. Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

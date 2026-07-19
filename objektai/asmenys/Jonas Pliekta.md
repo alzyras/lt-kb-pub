@@ -72,7 +72,10 @@ Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vi
     iškeltas į tas pareigas 1387 m., mirė 1399 m.
     2. Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais,
     tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.
-  citata_rodoma: ", mirė 1399 m.\n2. Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, \ntačiau kodėl tebuvo vienerius metus, nėra jokių žinių4."
+  citata_rodoma: |
+    , mirė 1399 m.
+    2. Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais,
+    tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

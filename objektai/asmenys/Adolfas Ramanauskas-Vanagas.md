@@ -101,7 +101,14 @@ media_all_json: |-
     netinkamo paslapčių saugojimo) galėjo
     pasiekti priešą, tačiau sovietai atmetė parti-
     zanų puolimo galimybę, kaip neįmanomą.
-  citata_rodoma: "Puolimo sėkmę nulėmė išnaudotas ne-\ntikėtumo faktorius, Vanagas vėliau įtarė,\nkad informacija apie rengiamą puolimą\n(dėl kai kurių žemesnės grandies vadų\nnetinkamo paslapčių saugojimo) galėjo\npasiekti priešą, tačiau sovietai atmetė parti-\nzanų puolimo galimybę, kaip neįmanomą."
+  citata_rodoma: |
+    Puolimo sėkmę nulėmė išnaudotas ne-
+    tikėtumo faktorius, Vanagas vėliau įtarė,
+    kad informacija apie rengiamą puolimą
+    (dėl kai kurių žemesnės grandies vadų
+    netinkamo paslapčių saugojimo) galėjo
+    pasiekti priešą, tačiau sovietai atmetė parti-
+    zanų puolimo galimybę, kaip neįmanomą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,7 +142,21 @@ media_all_json: |-
     L I E T U V O S  I S T O R I J A
     214
     sušaudytas.
-  citata_rodoma: "1956 m. suimtas ir vienas iš pa-\nskutinių partizanų vadų, buvęs\nmokytojas Adolfas Ramanaus-\nkas-Vanagas, nepaprastai žiau-\nriai kankintas ir kitais metais\nSovietų išniekinti Dainavos apygardos\npartizanų kūnai\nAdolfas Ramanauskas-Vanagas\nsu ištikimais draugais vanagėliais,\nįsitaisiusiais ant jo pečių\n\nL I E T U V O S  I S T O R I J A\n214\nsušaudytas."
+  citata_rodoma: |
+    1956 m. suimtas ir vienas iš pa-
+    skutinių partizanų vadų, buvęs
+    mokytojas Adolfas Ramanaus-
+    kas-Vanagas, nepaprastai žiau-
+    riai kankintas ir kitais metais
+    Sovietų išniekinti Dainavos apygardos
+    partizanų kūnai
+    Adolfas Ramanauskas-Vanagas
+    su ištikimais draugais vanagėliais,
+    įsitaisiusiais ant jo pečių
+
+    L I E T U V O S  I S T O R I J A
+    214
+    sušaudytas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

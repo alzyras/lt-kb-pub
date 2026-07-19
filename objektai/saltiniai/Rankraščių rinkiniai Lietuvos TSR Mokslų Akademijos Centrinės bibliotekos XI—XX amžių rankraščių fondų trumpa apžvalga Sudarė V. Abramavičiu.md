@@ -79,7 +79,9 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
     šviesoje.—K., 1935.
     Vydūnas. Sieben Hundert Jahre deutsch-litauischer Bezie-Orden — Voigt J. Geschichte
     Preussens, Bd.
-  citata_rodoma: "Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX\namžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963."
+  citata_rodoma: |
+    Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX
+    amžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -102,7 +102,10 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
     Kitaip klostėsi Didžiosios Lietuvos istorija. Rusijai sunaikinus senąją
     Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
     cialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.
-  citata_rodoma: "Rusijai sunaikinus senąją \nLietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-\ncialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“."
+  citata_rodoma: |
+    Rusijai sunaikinus senąją
+    Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
+    cialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

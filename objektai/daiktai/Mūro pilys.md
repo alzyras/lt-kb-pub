@@ -81,7 +81,8 @@ Nenurodyta
     civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
     Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.
-  citata_rodoma: "civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta"
+  citata_rodoma: |
+    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

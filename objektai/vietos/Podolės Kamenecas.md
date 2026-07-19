@@ -138,7 +138,11 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
     Karijotaičių, nes istoriniuose šaltiniuose minimas jau 1062 m. XIV a.
     antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
-  citata_rodoma: "Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.) \nmiestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne \nKarijotaičių, nes istoriniuose šaltiniuose minimas jau  1062 m. XIV a. \nantrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė."
+  citata_rodoma: |
+    Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
+    miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
+    Karijotaičių, nes istoriniuose šaltiniuose minimas jau  1062 m. XIV a.
+    antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -163,7 +167,11 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     mūšyje, LDK kanclerį (1440—1458) ir labai nusipelniu­
     sį jauno didžiojo kunigaikščio Kazimiero globėją bei
     patarėją.
-  citata_rodoma: "Goštautų iniciatyva XV a. vi­\ndury sukurtas Trumpojo sąvado perdirbinys, papildy­\ntas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­\nno etmoną, Podolės Kameneco ir Vilniaus vaivadą."
+  citata_rodoma: |
+    Goštautų iniciatyva XV a. vi­
+    dury sukurtas Trumpojo sąvado perdirbinys, papildy­
+    tas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­
+    no etmoną, Podolės Kameneco ir Vilniaus vaivadą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

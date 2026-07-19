@@ -213,7 +213,9 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
     savo tėvu, didžiuoju kunigaikščiu Kęstučiu, abu iš­
     vyksta į Jogailos kariuomenę, pasitikėdami tomis prie­
     saikomis.
-  citata_rodoma: "Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­\nčių žemę ir visą kariuomenę, traukia prie Neries."
+  citata_rodoma: |
+    Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­
+    čių žemę ir visą kariuomenę, traukia prie Neries.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -234,7 +236,13 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
     šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
     vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
     neapsakomi, nei plunksna neaprašomi.
-  citata_rodoma: "Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas\ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie\nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
+  citata_rodoma: |
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

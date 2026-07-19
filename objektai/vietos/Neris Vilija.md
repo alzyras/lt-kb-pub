@@ -124,7 +124,25 @@ media_all_json: |-
     riterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­
     to girias ir brastas, staiga iš už nugaros puolė nenuovokų
     Skirgailą ir sudavė jam smarkų smūgį26.
-  citata_rodoma: "51) ap. V o i g t, V, 542, apie \njį pasakoja: Entre les Francois on doit \nremarquer Jean le Maingre dit Bouci-\n—  • —  \n120\n\n## Puslapis 137\n\nIl KNYGA\nciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su \nsavo pajėgomis; o kitoje Vilijos pusėje driekėsi Skirgailos sto­\nvykla, prie Visevaldės pilies, netoli nuo senojo Kauno, jis, \nkartu su broliu Vygantu gausiai kariaunai vadovaudami, bu­\nvo sumanę ginti perėjas25. Kad neįsiveltų į neaiškios lemties \nmūšį atvirame lauke, Ordino didysis maršalas su rinktinių \nriterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­\nto girias ir brastas, staiga iš už nugaros puolė nenuovokų \nSkirgailą ir sudavė jam smarkų smūgį26."
+  citata_rodoma: |
+    51) ap. V o i g t, V, 542, apie
+    jį pasakoja: Entre les Francois on doit
+    remarquer Jean le Maingre dit Bouci-
+    —  • —
+    120
+
+    ## Puslapis 137
+
+    Il KNYGA
+    ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su
+    savo pajėgomis; o kitoje Vilijos pusėje driekėsi Skirgailos sto­
+    vykla, prie Visevaldės pilies, netoli nuo senojo Kauno, jis,
+    kartu su broliu Vygantu gausiai kariaunai vadovaudami, bu­
+    vo sumanę ginti perėjas25. Kad neįsiveltų į neaiškios lemties
+    mūšį atvirame lauke, Ordino didysis maršalas su rinktinių
+    riterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­
+    to girias ir brastas, staiga iš už nugaros puolė nenuovokų
+    Skirgailą ir sudavė jam smarkų smūgį26.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -51,7 +51,10 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
     tas kviesdamas į tas iškilmes Ordiną, taip pat mini tą dieną^4 ). Jogailos
     pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos
     dienos į kitą^5 ).
-  citata_rodoma: "Jogailos\npasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos\ndienos į kitą^5 )."
+  citata_rodoma: |
+    Jogailos
+    pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos
+    dienos į kitą^5 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

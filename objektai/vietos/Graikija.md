@@ -114,7 +114,16 @@ Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vie
     miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
     jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
     religijos, kurią gana veiksmingai formavo graikų mitologija.
-  citata_rodoma: "Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip\ntatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną\nir tais pačiais principais besiremiančią religiją, pamėgdžiojan-\nčią beveik visas menkiausias smulkmenas.\nNet atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti."
+  citata_rodoma: |
+    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
+    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
+    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
+    čią beveik visas menkiausias smulkmenas.
+    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
+    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
+    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
+    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
+    plaikos kilo mitologija, kurią imamės išdėstyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

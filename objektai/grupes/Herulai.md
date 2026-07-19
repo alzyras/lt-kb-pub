@@ -627,7 +627,22 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
     pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
     lius.
-  citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
+  citata_rodoma: |
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -698,7 +713,15 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie
     vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų. Ar
     dėl tos klaidos krivis visiškai nustoja egzistuoti?
-  citata_rodoma: "3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai\nradę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­\nką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais\niš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,\nkurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių\ngenties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­\nmą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba\nsvetimoje žemėje."
+  citata_rodoma: |
+    3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
+    radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
+    ką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais
+    iš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,
+    kurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių
+    genties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­
+    mą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba
+    svetimoje žemėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -760,7 +783,15 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     mynystėje jie rado longobardus ir ėmė savintis tam tikrą
     jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
     nėjusi, be to, visiškai negausi, bet pernelyg karinga.
-  citata_rodoma: "Po Odo­\nakro mirties dar ketverius metus truko susirėmimas prie­\nšiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir\nnauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo\nburgundų. Lietuvių genčių likimai po kovo skerdynių Ra-\nvenoje buvo įvairūs. Didžiausia herulų dalis pasitraukė\nprie Dunojaus, kur ketino apsigyventi šalia rugių arba\ntoje Noriko dalyje, kurią pavadino Rugilandija."
+  citata_rodoma: |
+    Po Odo­
+    akro mirties dar ketverius metus truko susirėmimas prie­
+    šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir
+    nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo
+    burgundų. Lietuvių genčių likimai po kovo skerdynių Ra-
+    venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
+    prie Dunojaus, kur ketino apsigyventi šalia rugių arba
+    toje Noriko dalyje, kurią pavadino Rugilandija.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

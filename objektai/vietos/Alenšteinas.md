@@ -91,7 +91,11 @@ media_all_json: |-
     ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
     upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
     jau surasti vadovai ir nustatytas kelias.
-  citata_rodoma: "Buvo nutarta pasitraukti kiek atgal, paskui ei­\nti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos\nupę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­\njau surasti vadovai ir nustatytas kelias."
+  citata_rodoma: |
+    Buvo nutarta pasitraukti kiek atgal, paskui ei­
+    ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
+    upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
+    jau surasti vadovai ir nustatytas kelias.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

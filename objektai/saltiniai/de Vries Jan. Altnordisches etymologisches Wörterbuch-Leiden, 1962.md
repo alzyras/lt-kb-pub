@@ -73,7 +73,9 @@ Dusburgietis teigia, kad de Vries Jan.
     источник. — Проблемы источниковедения, М., 1959, 7. с. 357—390.
     Пашуто В. Т.  Образование Литовского государства — М., 1959.
     Пашуто В. Т.  Гродно в Хронике Петра Дусбурга.
-  citata_rodoma: "de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.\n  Wróblewski R."
+  citata_rodoma: |
+    de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.
+      Wróblewski R.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

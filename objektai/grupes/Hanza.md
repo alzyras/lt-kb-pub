@@ -347,7 +347,11 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     savo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus
     centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
     jų didelių upių santakas.
-  citata_rodoma: "Abiejuose tuose centruose Hanza veikiai įsteigė\nsavo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus\ncentras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-\njų didelių upių santakas."
+  citata_rodoma: |
+    Abiejuose tuose centruose Hanza veikiai įsteigė
+    savo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus
+    centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
+    jų didelių upių santakas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -368,7 +372,14 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     kytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje
     jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
     pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.
-  citata_rodoma: "Per rygiečius jis kreipėsi į Hanzos mies-\ntus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir\nkvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-\ntuvą; visiems žadėjo savo globos ir paramos įsikurti. Kad nelai-\nkytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje\njau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats\npastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke."
+  citata_rodoma: |
+    Per rygiečius jis kreipėsi į Hanzos mies-
+    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
+    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
+    tuvą; visiems žadėjo savo globos ir paramos įsikurti. Kad nelai-
+    kytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje
+    jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
+    pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -456,7 +467,14 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     Vytenio, Gedimino ir kitų didžiųjų Lietuvos kunigaikščių turė­
     jo su ja prekybos santykius, kurie Vytauto laikais dar labiau
     išsiplėtė ir sutvirtėjo.
-  citata_rodoma: "Taigi, Vytauto laikų Lie­\ntuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių\nbuvo apsupta pirklių gyvenamų ir lankomų žemių. Ji buvo\nkraštas, kurio negalėjo aplenkti Hanzos ir k. pirkliai, ir jau prie\nVytenio, Gedimino ir kitų didžiųjų Lietuvos kunigaikščių turė­\njo su ja prekybos santykius, kurie Vytauto laikais dar labiau\nišsiplėtė ir sutvirtėjo."
+  citata_rodoma: |
+    Taigi, Vytauto laikų Lie­
+    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
+    buvo apsupta pirklių gyvenamų ir lankomų žemių. Ji buvo
+    kraštas, kurio negalėjo aplenkti Hanzos ir k. pirkliai, ir jau prie
+    Vytenio, Gedimino ir kitų didžiųjų Lietuvos kunigaikščių turė­
+    jo su ja prekybos santykius, kurie Vytauto laikais dar labiau
+    išsiplėtė ir sutvirtėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -477,7 +495,14 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     vadovybė, kuri turėjo tačiau Dorpatui nusileisti ir su jo draudi­
     mu sutikti. Ir šis žygis buvo padarytas ne be Lietuvos politinės
     įtakos^3 ).
-  citata_rodoma: "Naugardu, tiek pat kar­\ntų Dorpatas su šiuo miestu nutraukdavo visus santykius, rem­\ndamas Lietuvos interesus. Vieną kartą, kai Dorpatas uždraudė\nprekybą su Naugardu (1416), buvo įsikišusi į tą reikalą Hanzos\nvadovybė, kuri turėjo tačiau Dorpatui nusileisti ir su jo draudi­\nmu sutikti. Ir šis žygis buvo padarytas ne be Lietuvos politinės\nįtakos^3 )."
+  citata_rodoma: |
+    Naugardu, tiek pat kar­
+    tų Dorpatas su šiuo miestu nutraukdavo visus santykius, rem­
+    damas Lietuvos interesus. Vieną kartą, kai Dorpatas uždraudė
+    prekybą su Naugardu (1416), buvo įsikišusi į tą reikalą Hanzos
+    vadovybė, kuri turėjo tačiau Dorpatui nusileisti ir su jo draudi­
+    mu sutikti. Ir šis žygis buvo padarytas ne be Lietuvos politinės
+    įtakos^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -496,7 +521,11 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
     patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
     jis pats su jais jokios sutarties nedarė.
-  citata_rodoma: "Dėl to rygiečiai kėlė balsą Hanzos\nsąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų\npatvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad\njis pats su jais jokios sutarties nedarė."
+  citata_rodoma: |
+    Dėl to rygiečiai kėlė balsą Hanzos
+    sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
+    patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
+    jis pats su jais jokios sutarties nedarė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -516,7 +545,12 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
     Lietuva Vokiečių Ordino žemėmis. Atvyko jie Ordino kviečia­
     mi, kad palaikytų jo pusę.
-  citata_rodoma: "Šiose derybose dalyvavo ir Hanzos\nmiestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti\nVytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su\nLietuva Vokiečių Ordino žemėmis. Atvyko jie Ordino kviečia­\nmi, kad palaikytų jo pusę."
+  citata_rodoma: |
+    Šiose derybose dalyvavo ir Hanzos
+    miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti
+    Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
+    Lietuva Vokiečių Ordino žemėmis. Atvyko jie Ordino kviečia­
+    mi, kad palaikytų jo pusę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

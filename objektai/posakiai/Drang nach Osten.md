@@ -93,7 +93,13 @@ media_all_json: |-
     veržtis į Rytus.
     Baigiant tenka padaryti dar kelias apibendrinančias pa­
     stabas apie mūšio organizaciją, vadovybę ir vietą istorijoje.
-  citata_rodoma: "Bet kaip ten bebūtų, vis dėlto mes tu­\nrim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­\nduotas smūgis vokiečių siekimui — „Drang nach Osten“ —\nveržtis į Rytus.\nBaigiant tenka padaryti dar kelias apibendrinančias pa­\nstabas apie mūšio organizaciją, vadovybę ir vietą istorijoje."
+  citata_rodoma: |
+    Bet kaip ten bebūtų, vis dėlto mes tu­
+    rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­
+    duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
+    veržtis į Rytus.
+    Baigiant tenka padaryti dar kelias apibendrinančias pa­
+    stabas apie mūšio organizaciją, vadovybę ir vietą istorijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -89,7 +89,8 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-  citata_rodoma: "turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“"
+  citata_rodoma: |
+    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

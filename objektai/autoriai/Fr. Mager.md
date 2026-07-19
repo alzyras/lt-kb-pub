@@ -61,7 +61,12 @@ Mager veikalas^16 °, o apie I pasaulinį karą W.
     (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager
     veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu
     metu išsp.
-  citata_rodoma: "R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 ,\nFr. Benninghoven davė studiją apie kalavijuočių ordiną\n(BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager\nveikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu\nmetu išsp."
+  citata_rodoma: |
+    R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 ,
+    Fr. Benninghoven davė studiją apie kalavijuočių ordiną
+    (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager
+    veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu
+    metu išsp.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -89,7 +89,8 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
     turėjo daugiau
     kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė, ne ką
     iš kitų yra girdėjęs.
-  citata_rodoma: "Žinojo visi, kad Slinkšė per prancūzmetį buvo jau vedęs vyras, turėjo daugiau kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė."
+  citata_rodoma: |
+    Žinojo visi, kad Slinkšė per prancūzmetį buvo jau vedęs vyras, turėjo daugiau kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -108,7 +109,8 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
     — Apie prancūzus va kas geriausiai žino, — sako Vaičys, rody­
     damas į Slinkšę, visai seną žmogų, sėdintį ne už stalo, bet ant lovos.
     Seniukas Slinkšė prisieina „strujumi“ tų namų šeimininkui.
-  citata_rodoma: "Seniukas Slinkšė prisieina „strujumi“ tų namų šeimininkui."
+  citata_rodoma: |
+    Seniukas Slinkšė prisieina „strujumi“ tų namų šeimininkui.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

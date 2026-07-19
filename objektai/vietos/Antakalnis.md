@@ -470,7 +470,12 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     reikštų: ašakoti javai, Krūminės varpos. Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
     kovskis, o deivei.
-  citata_rodoma: "Bet kai kas painioja šią patrauklią dievybę su deive Lie­\ntuva.\nEsama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia."
+  citata_rodoma: |
+    Bet kai kas painioja šią patrauklią dievybę su deive Lie­
+    tuva.
+    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
+    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
+    jusi Mildos šventykla arba koplyčia.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

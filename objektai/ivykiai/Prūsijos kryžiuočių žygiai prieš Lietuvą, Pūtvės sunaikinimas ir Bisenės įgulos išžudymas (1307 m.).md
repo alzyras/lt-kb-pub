@@ -216,7 +216,18 @@ Nenurodyta
     namo, tačiau, jų eilei atėjus,
     vėl turėjo būti šaukiami į tos pat pilies sargybinius ir
     eiti tas pačias pareigas.
-  citata_rodoma: "Mat silpnas le­\ndas dar negalėjo atlaikyti besikeliančios per upę ka­\nriuomenės; kadangi persikelti buvo labai sunku, jie,\nnieko nepešę, grįžo atgal vos pradėję žygį. Vėliau,\npirmaisiais vasaros mėnesiais, o galop dar kartą, va­\nsarai baigiantis, Ragainės kryžiuočiai sudegino Pūtvės\nmiestą Jūros pakrantėje, o miestiečius arba paėmė į\nnelaisvę, arba išžudė; išliko vos vienas kitas, kuris\nspėjo pasprukti į pilį. Truputį vėliau buvo išžudyta\nBisenės įgula, išvedama iš pilies, kai baigėsi tarnybos\nlaikas."
+  citata_rodoma: |
+    Mat silpnas le­
+    das dar negalėjo atlaikyti besikeliančios per upę ka­
+    riuomenės; kadangi persikelti buvo labai sunku, jie,
+    nieko nepešę, grįžo atgal vos pradėję žygį. Vėliau,
+    pirmaisiais vasaros mėnesiais, o galop dar kartą, va­
+    sarai baigiantis, Ragainės kryžiuočiai sudegino Pūtvės
+    miestą Jūros pakrantėje, o miestiečius arba paėmė į
+    nelaisvę, arba išžudė; išliko vos vienas kitas, kuris
+    spėjo pasprukti į pilį. Truputį vėliau buvo išžudyta
+    Bisenės įgula, išvedama iš pilies, kai baigėsi tarnybos
+    laikas.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -240,7 +251,19 @@ Nenurodyta
     sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
     buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
     Pūtvės pilį išdavė jos seniūnas Spūdas.
-  citata_rodoma: "Šitaip tada lietuviai tvarkė įgu­\nlų tarnybas, norėdami, kad kariškai lavintųsi jaunuo­\nmenė, kuri šiaip dykinėdama lengvai netenka kovin-\nm\n\n## Puslapis 185\n\ngumo ir drąsumo. Taigi ir buvo nutaikytas laikas, kai\naštuoniasdešimt šeši raiteliai traukė iš Bisenės pilies;\npasinaudoję šia proga, juos ir užpuolė Ragainės kry­\nžiuočiai. Sutelktu būriu užgriuvę iš pasalų nieko nenu-\njaučiančius, beveik visus išžudė."
+  citata_rodoma: |
+    Šitaip tada lietuviai tvarkė įgu­
+    lų tarnybas, norėdami, kad kariškai lavintųsi jaunuo­
+    menė, kuri šiaip dykinėdama lengvai netenka kovin-
+    m
+
+    ## Puslapis 185
+
+    gumo ir drąsumo. Taigi ir buvo nutaikytas laikas, kai
+    aštuoniasdešimt šeši raiteliai traukė iš Bisenės pilies;
+    pasinaudoję šia proga, juos ir užpuolė Ragainės kry­
+    žiuočiai. Sutelktu būriu užgriuvę iš pasalų nieko nenu-
+    jaučiančius, beveik visus išžudė.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -266,7 +289,15 @@ Nenurodyta
     kaimus, lietuviai su savo nuolatiniu, galima sakyti,
     naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
     tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
-  citata_rodoma: "Sutelktu būriu užgriuvę iš pasalų nieko nenu-\njaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,\nir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­\nje Karšuvos žemę, kad gyventojai, nematydami iš­\neities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­\nsios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys\nbuvo priešo ir liepsnų sunaikintos, o truputį anksčiau\nPūtvės pilį išdavė jos seniūnas Spūdas."
+  citata_rodoma: |
+    Sutelktu būriu užgriuvę iš pasalų nieko nenu-
+    jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
+    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
+    je Karšuvos žemę, kad gyventojai, nematydami iš­
+    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
+    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
+    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
+    Pūtvės pilį išdavė jos seniūnas Spūdas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

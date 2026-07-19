@@ -87,7 +87,8 @@ Nenurodyta
     pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
     klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
     tas 1579 m.).
-  citata_rodoma: "Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi"
+  citata_rodoma: |
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

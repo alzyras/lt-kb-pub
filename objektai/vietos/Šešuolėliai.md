@@ -60,7 +60,12 @@ media_all_json: |-
     Lapkričio 21 d. anksti ryte 7-asis pėsti-
     ninkų pulkas užėmė Širvintas, miestą gynę
     lenkai buvo išsklaidyti.
-  citata_rodoma: "7-asis pulkas turėjo pulti Širvintas ir\nužimti liniją: Alionys-Puoriai-Ramaš-\nkonys-Šešuolėlių dvaras.\n\nLapkričio 21 d."
+  citata_rodoma: |
+    7-asis pulkas turėjo pulti Širvintas ir
+    užimti liniją: Alionys-Puoriai-Ramaš-
+    konys-Šešuolėlių dvaras.
+
+    Lapkričio 21 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

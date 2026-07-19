@@ -70,7 +70,11 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
     jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
     tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­
     maičiai tačiau nesidavė nulenkiami.
-  citata_rodoma: "Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į\njiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek\ntegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­\nmaičiai tačiau nesidavė nulenkiami."
+  citata_rodoma: |
+    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
+    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
+    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­
+    maičiai tačiau nesidavė nulenkiami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

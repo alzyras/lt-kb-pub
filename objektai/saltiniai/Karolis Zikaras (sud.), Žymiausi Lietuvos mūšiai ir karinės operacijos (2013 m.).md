@@ -141,7 +141,14 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     laikotarpių mūšiai, kuriose buvo ginami Lietuvos
     valstybės interesai. Leidinys gausiai iliustruotas,
     praturtintas žemėlapiais ir schemomis.
-  citata_rodoma: "Ši knyga skirta supažindinti skaitytoją su visų\nlaikų Lietuvos karų istorija. Lietuvos ginkluota\nkova šiame leidinyje peržvelgiama per mūšių\nprizmę. Atrinkti svarbesni ar įdomesni įvairių\nlaikotarpių mūšiai, kuriose buvo ginami Lietuvos\nvalstybės interesai. Leidinys gausiai iliustruotas,\npraturtintas žemėlapiais ir schemomis."
+  citata_rodoma: |
+    Ši knyga skirta supažindinti skaitytoją su visų
+    laikų Lietuvos karų istorija. Lietuvos ginkluota
+    kova šiame leidinyje peržvelgiama per mūšių
+    prizmę. Atrinkti svarbesni ar įdomesni įvairių
+    laikotarpių mūšiai, kuriose buvo ginami Lietuvos
+    valstybės interesai. Leidinys gausiai iliustruotas,
+    praturtintas žemėlapiais ir schemomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -160,7 +167,13 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     2013.-284 p.: iliustr., žml.
 
     ISBN 978-9986-827-05-4
-  citata_rodoma: "Zis1 Žymiausi Lietuvos mūšiai ir karinės operacijos:\n(straipsnių rinkinys / atsakingasis redaktorius\nir sudarytojas Karolis Zikaras]. - Vilnius: Alio,\n2013.-284 p.: iliustr., žml.\n\nISBN 978-9986-827-05-4"
+  citata_rodoma: |
+    Zis1 Žymiausi Lietuvos mūšiai ir karinės operacijos:
+    (straipsnių rinkinys / atsakingasis redaktorius
+    ir sudarytojas Karolis Zikaras]. - Vilnius: Alio,
+    2013.-284 p.: iliustr., žml.
+
+    ISBN 978-9986-827-05-4
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -190,7 +203,24 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     www.petroofsetas.lt
 
     Tiražas 2000 egz.
-  citata_rodoma: "Išleido\n\nLeidykla UAB „ALIO“\nŠeimyniškių 23/2,\nLT-09236 Vilnius\n\ntel. 8 5 266 7711\n\nSpausdino\n\nUAB „Petro ofsetas“\nSavanorių pr. 174D,\nLT-03153 Vilnius\ntel. +370 5 273 3347\nwww.petroofsetas.lt\n\nTiražas 2000 egz."
+  citata_rodoma: |
+    Išleido
+
+    Leidykla UAB „ALIO“
+    Šeimyniškių 23/2,
+    LT-09236 Vilnius
+
+    tel. 8 5 266 7711
+
+    Spausdino
+
+    UAB „Petro ofsetas“
+    Savanorių pr. 174D,
+    LT-03153 Vilnius
+    tel. +370 5 273 3347
+    www.petroofsetas.lt
+
+    Tiražas 2000 egz.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -210,7 +240,14 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     įvaizdį. Stengtasi pateikti daug kontekstinės informacijos,
     nupasakojančios kiekvieno laikotarpio karybos, ginkluo-
     tės raidos tendencijas bei regiono geopolitinį kontekstą.
-  citata_rodoma: "Šio leidinio tikslas - per karų kulminacinius momen-\ntus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę\nistoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-\ntojas galėtų susikurti įvairių laikotarpių Lietuvos kario\nįvaizdį. Stengtasi pateikti daug kontekstinės informacijos,\nnupasakojančios kiekvieno laikotarpio karybos, ginkluo-\ntės raidos tendencijas bei regiono geopolitinį kontekstą."
+  citata_rodoma: |
+    Šio leidinio tikslas - per karų kulminacinius momen-
+    tus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę
+    istoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-
+    tojas galėtų susikurti įvairių laikotarpių Lietuvos kario
+    įvaizdį. Stengtasi pateikti daug kontekstinės informacijos,
+    nupasakojančios kiekvieno laikotarpio karybos, ginkluo-
+    tės raidos tendencijas bei regiono geopolitinį kontekstą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

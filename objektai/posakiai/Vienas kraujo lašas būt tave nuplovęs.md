@@ -101,7 +101,11 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
     eilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas
     nekreipia dėmesio į tai, kad 1940 m. birželio 15 ryte Ūtos pasienio
     poste buvo nužudytas pasienietis Aleksandras Barauskas.
-  citata_rodoma: "Iš tikrųjų dažnai kartojama poeto Jono Aisčio\neilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas\nnekreipia dėmesio į tai, kad 1940 m. birželio 15 ryte Ūtos pasienio\nposte buvo nužudytas pasienietis Aleksandras Barauskas."
+  citata_rodoma: |
+    Iš tikrųjų dažnai kartojama poeto Jono Aisčio
+    eilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas
+    nekreipia dėmesio į tai, kad 1940 m. birželio 15 ryte Ūtos pasienio
+    poste buvo nužudytas pasienietis Aleksandras Barauskas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -123,7 +127,10 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
     Lietuvos likimas, yra visiškai analogiškas 1792 m. liepos 23-iosios
     posėdžiui, o A. Smetonai buvo naudinga vaidinti vienišių, nes jis
     nesiruošė priešintis nei ginklu, nei žodžiu.
-  citata_rodoma: "Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų\nvienas žodis būt tave apgynęs“. O tai reiškia, kad dažniausiai kalba\ntik ir sukasi apie „simbolinį šūvį“ ar net „simbolines aukas"
+  citata_rodoma: |
+    Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų
+    vienas žodis būt tave apgynęs“. O tai reiškia, kad dažniausiai kalba
+    tik ir sukasi apie „simbolinį šūvį“ ar net „simbolines aukas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

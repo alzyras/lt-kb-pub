@@ -110,7 +110,23 @@ Nenurodyta
     Andrius Vaidotas, Kęstučio sūnus,
     Polocko kunigaikštis - visai išgalvo­
     tas.
-  citata_rodoma: "locke. Tačiau miestiečių išvytas, nu­\nvykęs pas magistrą sulaukė para­\nmos, su pastaruoju 1381 metais iš­\nlaikė apsupęs Polocką 12 savaičių, \nbet ir sunki pilies apgultis, ir netikė­\nti pokyčiai Lietuvoje, per kuriuos \nKęstučiui atiteko kunigaikščio sos­\ntas, privertė Livonijos magistrą nu­\ntraukti apgultį, o Skirgailą grįžti į \nVilnių. Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas."
+  citata_rodoma: |
+    locke. Tačiau miestiečių išvytas, nu­
+    vykęs pas magistrą sulaukė para­
+    mos, su pastaruoju 1381 metais iš­
+    laikė apsupęs Polocką 12 savaičių,
+    bet ir sunki pilies apgultis, ir netikė­
+    ti pokyčiai Lietuvoje, per kuriuos
+    Kęstučiui atiteko kunigaikščio sos­
+    tas, privertė Livonijos magistrą nu­
+    traukti apgultį, o Skirgailą grįžti į
+    Vilnių. Strijkovskis ir Koje-
+    1  a v i č i u s supainiojo Andrių, Al­
+    girdo sūnų, su Vaidotu, Kęstučio sū­
+    numi, todėl radosi jų minimas
+    Andrius Vaidotas, Kęstučio sūnus,
+    Polocko kunigaikštis - visai išgalvo­
+    tas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

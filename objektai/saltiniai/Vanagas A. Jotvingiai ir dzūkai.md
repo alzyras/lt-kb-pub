@@ -78,7 +78,8 @@ Dusburgietis teigia, kad vanagas A.
     Мажюлис В. О связях литовско-латышского с другими древнебалтийскими
     диалектами. — Проблемы этногенеза и этнической истории балтов: Тезисы докладов,
     В., 1981, с.
-  citata_rodoma: "Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36."
+  citata_rodoma: |
+    Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

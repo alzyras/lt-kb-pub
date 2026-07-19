@@ -285,7 +285,10 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
     marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
     vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
-  citata_rodoma: "Jis suima savo valdžion visus Pavolgio, Juod­\nmarių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­\nvimo galą savo planus dėl Totorijos buvo gangreit įvykdęs."
+  citata_rodoma: |
+    Jis suima savo valdžion visus Pavolgio, Juod­
+    marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
+    vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -316,7 +319,18 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     mams. Kai Vilniuje susirinko lietuvių seimas, atvyko
     čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kali-
     šo vaivada, ir Jonas Ritvianskis, karalystės maršalas.
-  citata_rodoma: "Karalius Ka-\nK afos g y v e n to ja i ieš-\nzimieras jiems leido ir savo\nko p a g a lb in in k ų  Len-\nvaldomose žemėse pasitelkti\nk ijo je\nalgininkų. Jie čia pasisamdė\npenkis šimtus raitelių, ku­\nriuos turėjo vestis į Krymą per Lietuvos žemes. Kai\ntraukė per Braclavą, nei šio, nei to kilo ginčas tarp ka­\nrių ir miestiečių."
+  citata_rodoma: |
+    Karalius Ka-
+    K afos g y v e n to ja i ieš-
+    zimieras jiems leido ir savo
+    ko p a g a lb in in k ų  Len-
+    valdomose žemėse pasitelkti
+    k ijo je
+    algininkų. Jie čia pasisamdė
+    penkis šimtus raitelių, ku­
+    riuos turėjo vestis į Krymą per Lietuvos žemes. Kai
+    traukė per Braclavą, nei šio, nei to kilo ginčas tarp ka­
+    rių ir miestiečių.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

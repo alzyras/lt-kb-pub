@@ -69,7 +69,10 @@ media_all_json: |-
     158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
     mūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
     Grunwald) 15 July 1410,_ Chicago 1961.
-  citata_rodoma: "— Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio\nmūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-\nGrunwald) 15 July 1410,_ Chicago 1961."
+  citata_rodoma: |
+    — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
+    mūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
+    Grunwald) 15 July 1410,_ Chicago 1961.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

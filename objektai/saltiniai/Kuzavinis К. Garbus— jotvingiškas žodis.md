@@ -76,7 +76,8 @@ Dusburgietis teigia, kad kuzavinis К.
   citata_originali: |
     Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935.
     Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
-  citata_rodoma: "Kuzavinis К. Garbus— jotvingiškas žodis.—Baltistica, 1968, 4(1), p. 65—67."
+  citata_rodoma: |
+    Kuzavinis К. Garbus— jotvingiškas žodis.—Baltistica, 1968, 4(1), p. 65—67.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

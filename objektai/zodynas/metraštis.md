@@ -289,7 +289,17 @@ Nenurodyta
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: "Pavadinimas ,,Lietuvos metraštis, arba Bychovco \nkronika\", kuris duotas šiam vertimui į lietuvių kalbą, \nnėra autentiškas. Rankraštis neturėjo jokio pavadini­\nmo. „Bychovco kronika\" jis buvo pramintas XIX a. \npagal rankraščio savininką, Gardino gubernijos Volko- \nvysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­\nvos metraščio\" antraštė duota dėl nusistojusios jau lie­\ntuvių tarybinėje istoriografijoje tradicijos vadinti \nmetraščiais visą XV— XVI a. pirmosios pusės Lietuvos \nDidžiojoje Kunigaikštystėje kilusią istorinę raštiją."
+  citata_rodoma: |
+    Pavadinimas ,,Lietuvos metraštis, arba Bychovco
+    kronika", kuris duotas šiam vertimui į lietuvių kalbą,
+    nėra autentiškas. Rankraštis neturėjo jokio pavadini­
+    mo. „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
+    vos metraščio" antraštė duota dėl nusistojusios jau lie­
+    tuvių tarybinėje istoriografijoje tradicijos vadinti
+    metraščiais visą XV— XVI a. pirmosios pusės Lietuvos
+    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas
@@ -316,7 +326,20 @@ Nenurodyta
     reikšmingiausius autoriaus požiūriu praeities įvykius,
     o ne griežtai pamečiui dėstomos ir tiksliai datuojamos
     trumpos žinios, būdingos metraščiams.
-  citata_rodoma: "„Bychovco kronika\" jis buvo pramintas XIX a. \npagal rankraščio savininką, Gardino gubernijos Volko- \nvysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­\nvos metraščio\" antraštė duota dėl nusistojusios jau lie­\ntuvių tarybinėje istoriografijoje tradicijos vadinti \nmetraščiais visą XV— XVI a. pirmosios pusės Lietuvos \nDidžiojoje Kunigaikštystėje kilusią istorinę raštiją. \n„Metraščio\" (siaurąja prasme) sąvoka Bychovco kroni­\nkai taikoma tik sąlyginai, kadangi pastarąją sudaro dau­\ngiausia literatūriniai bei istoiiniai pasakojimai apie \nreikšmingiausius autoriaus požiūriu praeities įvykius, \no ne griežtai pamečiui dėstomos ir tiksliai datuojamos \ntrumpos žinios, būdingos metraščiams."
+  citata_rodoma: |
+    „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
+    vos metraščio" antraštė duota dėl nusistojusios jau lie­
+    tuvių tarybinėje istoriografijoje tradicijos vadinti
+    metraščiais visą XV— XVI a. pirmosios pusės Lietuvos
+    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
+    „Metraščio" (siaurąja prasme) sąvoka Bychovco kroni­
+    kai taikoma tik sąlyginai, kadangi pastarąją sudaro dau­
+    giausia literatūriniai bei istoiiniai pasakojimai apie
+    reikšmingiausius autoriaus požiūriu praeities įvykius,
+    o ne griežtai pamečiui dėstomos ir tiksliai datuojamos
+    trumpos žinios, būdingos metraščiams.
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas

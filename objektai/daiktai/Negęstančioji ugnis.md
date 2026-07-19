@@ -78,7 +78,10 @@ Nenurodyta
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
     žinoma, [tikėjo] ne taip, kaip dera.
-  citata_rodoma: "Be to, jie garbino, kaip buvo įprasta\nsenovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,\nžinoma, [tikėjo] ne taip, kaip dera."
+  citata_rodoma: |
+    Be to, jie garbino, kaip buvo įprasta
+    senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
+    žinoma, [tikėjo] ne taip, kaip dera.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

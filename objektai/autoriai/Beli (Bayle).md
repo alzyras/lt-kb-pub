@@ -47,7 +47,6 @@ Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173297
 
 <a id="claim-t-197277"></a>
 - t-002
@@ -80,5 +79,4 @@ Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190414
     - t-197277

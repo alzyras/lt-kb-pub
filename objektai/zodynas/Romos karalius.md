@@ -98,7 +98,14 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     pats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­
     priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
     karūnacijos aktą^2 ).
-  citata_rodoma: "Ro­\nmos karalius turįs teisę karūnuot ir kurti karalystes be popie­\nžiaus, jis galįs atlikt viską, kas liečia išviršinę pusę — dekoraci­\nją. į klausimą, ar po karūnacijos turi įvykti ir konsekracija, tas\npats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­\npriduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį\nkarūnacijos aktą^2 )."
+  citata_rodoma: |
+    Ro­
+    mos karalius turįs teisę karūnuot ir kurti karalystes be popie­
+    žiaus, jis galįs atlikt viską, kas liečia išviršinę pusę — dekoraci­
+    ją. į klausimą, ar po karūnacijos turi įvykti ir konsekracija, tas
+    pats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­
+    priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
+    karūnacijos aktą^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -119,7 +126,13 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
     Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
     nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: "Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­\nleisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos\nkaralius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­\nra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­\nrįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo\nZb."
+  citata_rodoma: |
+    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
+    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
+    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
+    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
+    rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
+    Zb.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

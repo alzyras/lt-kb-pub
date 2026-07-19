@@ -75,7 +75,15 @@ Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus v
     paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje
     įrengęs Vyskupų koplyčią. Mirė 1481 m.
     9.
-  citata_rodoma: "1 9 1\n\n## Puslapis 208\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\n8. Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, \npaskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje \nįrengęs Vyskupų koplyčią. Mirė 1481 m."
+  citata_rodoma: |
+    1 9 1
+
+    ## Puslapis 208
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    8. Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko,
+    paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje
+    įrengęs Vyskupų koplyčią. Mirė 1481 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

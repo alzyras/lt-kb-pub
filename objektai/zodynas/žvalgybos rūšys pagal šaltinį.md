@@ -70,7 +70,23 @@ k atvirų šaltinių žvalgybą (osINT), taktinę ri es bet baat " + Įtvirtinim
     žvalgybą (stebėjimo postai prie sovietinių
     karinių objektų) bei apdorojo iš gyven-
     tojų suplaukiančią informaciją.
-  citata_rodoma: "Užsikimšo tualetai, čiužinių nėra, miega kas +\nkur - ir ant laiptų, ir ant žemės, sąlygos antisanitarinės, benzino kvapas ir taip penkios +\n\njęs apie tankų pajudėjimą sausio 11 d.), Lonas „ 22\n. k **\natvirų šaltinių žvalgybą (osINT), taktinę ri es bet baat \"\n+\nĮtvirtinimai Aukščiausiosios Tarybos viduje, [A „= °\n\nturėję sulėtinti šturmo grupių judėjimą - a\n\n## Puslapis 260\n\nžvalgybą (stebėjimo postai prie sovietinių\nkarinių objektų) bei apdorojo iš gyven-\ntojų suplaukiančią informaciją."
+  citata_rodoma: |
+    Užsikimšo tualetai, čiužinių nėra, miega kas +
+    kur - ir ant laiptų, ir ant žemės, sąlygos antisanitarinės, benzino kvapas ir taip penkios +
+
+    jęs apie tankų pajudėjimą sausio 11 d.), Lonas „ 22
+    . k **
+    atvirų šaltinių žvalgybą (osINT), taktinę ri es bet baat "
+    +
+    Įtvirtinimai Aukščiausiosios Tarybos viduje, [A „= °
+
+    turėję sulėtinti šturmo grupių judėjimą - a
+
+    ## Puslapis 260
+
+    žvalgybą (stebėjimo postai prie sovietinių
+    karinių objektų) bei apdorojo iš gyven-
+    tojų suplaukiančią informaciją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

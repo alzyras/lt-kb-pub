@@ -66,7 +66,8 @@ Urbonas.
   citata_originali: |
     Vilnius,
     2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J. Galkus.
-  citata_rodoma: "Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010;"
+  citata_rodoma: |
+    Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010;
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

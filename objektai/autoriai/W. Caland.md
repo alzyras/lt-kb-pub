@@ -62,7 +62,9 @@ Caland, W.
     AkMD, t. 16, 1964, 83-99 p. —Caland, W. : _Die vorgeschichtlichen balti­
     schen Totengebräuche,_ ARW, t. 17, 1914. — Dundulienė, P. : _Namų
     židinio kultas Lietuvoje,_ IstV, t. 6, 1964, 125-151 p. — (”) _Senovės lietu-_
-  citata_rodoma: "—Caland, W. : _Die vorgeschichtlichen balti­\nschen Totengebräuche,_ ARW, t. 17, 1914. — Dundulienė, P."
+  citata_rodoma: |
+    —Caland, W. : _Die vorgeschichtlichen balti­
+    schen Totengebräuche,_ ARW, t. 17, 1914. — Dundulienė, P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

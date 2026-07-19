@@ -62,7 +62,11 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
     vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
     bės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai
     apie Vytenį ir Gediminą buvo išversti ir lietuviškai^134.
-  citata_rodoma: "Odesos universiteto istorikas V. V. Antono­\nvičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­\nbės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai\napie Vytenį ir Gediminą buvo išversti ir lietuviškai^134."
+  citata_rodoma: |
+    Odesos universiteto istorikas V. V. Antono­
+    vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
+    bės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai
+    apie Vytenį ir Gediminą buvo išversti ir lietuviškai^134.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

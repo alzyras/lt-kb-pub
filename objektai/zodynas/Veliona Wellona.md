@@ -87,7 +87,18 @@ Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir bū
     Zigmantui III. Ši trumpa ekskursija į istoriją remiasi vietinių
     istorijos mokovų apklausa ir klebonijos užrašais, kuriais vie­
     los klebonas leido man pasinaudoti 1805 metais.
-  citata_rodoma: "Veliona (Wellona)\nTai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­\nnio gyvenimo deivė. Lasickis šiame pavadinime klaidingai įžiūri\ndievą.\nSenovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10\n10 Rėza. Dainos.\n130\n\n## Puslapis 130\n\n(Giltine)10."
+  citata_rodoma: |
+    Veliona (Wellona)
+    Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­
+    nio gyvenimo deivė. Lasickis šiame pavadinime klaidingai įžiūri
+    dievą.
+    Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
+    10 Rėza. Dainos.
+    130
+
+    ## Puslapis 130
+
+    (Giltine)10.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

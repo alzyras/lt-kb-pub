@@ -82,7 +82,7 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    4 d. Jame tais pačiais jos vyro žo­
+    Jame tais pačiais jos vyro žo­
     džiais, patikrinusiais prieš septynerius metus1 2) Ostrogo kuni­
     gaikštį, pasakyta, kad jis kartu su visu Ostrogo apskričiu turi
     klausyti Jadvygos ir Lenkijos. Bet šis bandymas atplėšti Vo­
@@ -90,7 +90,15 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
     be pasekmių: 1396 m. Ostrogo kunigaikštis Feodoras turėjo iš
     Vytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo
     žemes^3 ), o tuo pačiu pripažįstančią Lucko viršenybę.
-  citata_rodoma: "Jame tais pačiais jos vyro žo­\ndžiais, patikrinusiais prieš septynerius metus1 2) Ostrogo kuni­\ngaikštį, pasakyta, kad jis kartu su visu Ostrogo apskričiu turi\nklausyti Jadvygos ir Lenkijos. Bet šis bandymas atplėšti Vo­\nlynijos dalį nuo Vytautui priklausančios Lucko srities, pasirodė\nbe pasekmių: 1396 m. Ostrogo kunigaikštis Feodoras turėjo iš\nVytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo\nžemes^3 ), o tuo pačiu pripažįstančią Lucko viršenybę."
+  citata_rodoma: |
+    Jame tais pačiais jos vyro žo­
+    džiais, patikrinusiais prieš septynerius metus1 2) Ostrogo kuni­
+    gaikštį, pasakyta, kad jis kartu su visu Ostrogo apskričiu turi
+    klausyti Jadvygos ir Lenkijos. Bet šis bandymas atplėšti Vo­
+    lynijos dalį nuo Vytautui priklausančios Lucko srities, pasirodė
+    be pasekmių: 1396 m. Ostrogo kunigaikštis Feodoras turėjo iš
+    Vytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo
+    žemes^3 ), o tuo pačiu pripažįstančią Lucko viršenybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -109,7 +117,7 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
     be pasekmių: 1396 m. Ostrogo kunigaikštis Feodoras turėjo iš
     Vytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo
     žemes^3 ), o tuo pačiu pripažįstančią Lucko viršenybę. Tai pasi­
-    sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.).
+    sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -96,7 +96,16 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 
     iššūkiams, kad esant reikalui mūšio lauke jie tinkamai at-
     liktų savo pareigą.
-  citata_rodoma: "Juk pergalės džiugina, o pralaimėjimai moko.\n\nKnyga įpareigoja šios dienos Lietuvos karius suprasti, ko-\nkios reikšmės atsakomybė jiems patikėta, kokia reikalinga\n\nyra kariuomenė, kaip svarbu ją kurti konkretiems ateities\n\niššūkiams, kad esant reikalui mūšio lauke jie tinkamai at-\nliktų savo pareigą."
+  citata_rodoma: |
+    Juk pergalės džiugina, o pralaimėjimai moko.
+
+    Knyga įpareigoja šios dienos Lietuvos karius suprasti, ko-
+    kios reikšmės atsakomybė jiems patikėta, kokia reikalinga
+
+    yra kariuomenė, kaip svarbu ją kurti konkretiems ateities
+
+    iššūkiams, kad esant reikalui mūšio lauke jie tinkamai at-
+    liktų savo pareigą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

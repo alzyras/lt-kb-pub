@@ -126,7 +126,10 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
     tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
     gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
     gauti gerus postus administracijoje.
-  citata_rodoma: "Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-\ngimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi\ngauti gerus postus administracijoje."
+  citata_rodoma: |
+    Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
+    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
+    gauti gerus postus administracijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

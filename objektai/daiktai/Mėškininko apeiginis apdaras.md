@@ -77,7 +77,8 @@ Nenurodyta
     Aptaisant mešką, reikia dviejų iš­
     verstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritai­
     syti biaurų snukį ir uodegą.
-  citata_rodoma: "Aptaisant mešką, reikia dviejų išverstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritaisyti biaurų snukį ir uodegą."
+  citata_rodoma: |
+    Aptaisant mešką, reikia dviejų išverstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritaisyti biaurų snukį ir uodegą.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

@@ -94,7 +94,15 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
     karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
     šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
     apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
-  citata_rodoma: "Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,\nišplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias\nnaujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau\nminėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,\nkaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,\ngalop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,\natsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir\nšitaip išvaduojamas iš netikėlių nelaisvės."
+  citata_rodoma: |
+    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
+    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
+    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
+    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
+    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
+    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
+    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
+    šitaip išvaduojamas iš netikėlių nelaisvės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -115,7 +123,15 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
     1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
     Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
     pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino.
-  citata_rodoma: "Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė\nprie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,\nužpuolė plaukusius laivu ir visus išžudė.\n\n\n\n\n          240 (233)."
+  citata_rodoma: |
+    Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė
+    prie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,
+    užpuolė plaukusius laivu ir visus išžudė.
+
+
+
+
+              240 (233).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

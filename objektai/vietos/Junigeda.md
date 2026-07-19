@@ -422,7 +422,13 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
     sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
     laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.
-  citata_rodoma: "Apie vieną brolių karo laivą\n\n  Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su\nsienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,\nlaivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę\nginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis."
+  citata_rodoma: |
+    Apie vieną brolių karo laivą
+
+      Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
+    sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
+    laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
+    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -445,7 +451,11 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
     kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
     įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
     nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
-  citata_rodoma: "Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai\nįstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai\nnukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties\npadedami, kiti paspruko."
+  citata_rodoma: |
+    Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
+    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
+    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
+    padedami, kiti paspruko.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -470,7 +480,15 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
     ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė.
-  citata_rodoma: "spalio 12\n\n  Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir\nsielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją\nišvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus\nšešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos\npapilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie\nnuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
+  citata_rodoma: |
+    spalio 12
+
+      Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
+    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
+    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
+    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
+    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
+    nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -495,7 +513,15 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
     ir užsimušė. Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
     nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
     turėjome keliauti ten, kur amžinos linksmybės“.
-  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais\n\n  Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
+  citata_rodoma: |
+    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+
+      Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -520,7 +546,19 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 
 
                 255 (248).
-  citata_rodoma: "Apie Junigedos ir Pieštvės pilių papilių sudeginimą\n\nTais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,\nmagistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei\ngyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:\nJunigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki\npamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.\n\n\n\n\n            255 (248)."
+  citata_rodoma: |
+    Apie Junigedos ir Pieštvės pilių papilių sudeginimą
+
+    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
+    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
+    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
+    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
+    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
+
+
+
+
+                255 (248).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -574,7 +612,11 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
     kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti. Vis dėlto
     po 14 dienų Karaliaučiaus pilyje magistro bei brolių akivaizdoje jis atskleidė visas šios
     atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus.
-  citata_rodoma: "Vis dėlto lietuviai neteko 70 prityrusių\nkarių, žuvusių kovoje. Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai\nįstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai\nnukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus."
+  citata_rodoma: |
+    Vis dėlto lietuviai neteko 70 prityrusių
+    karių, žuvusių kovoje. Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
+    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
+    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
 

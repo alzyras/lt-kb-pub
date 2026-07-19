@@ -198,7 +198,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
     monarchijoms ir nuo to mes jaučiamės smagiau.
-  citata_rodoma: "dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos"
+  citata_rodoma: |
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -225,7 +226,19 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
     panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
     dar ir naujų, amžiui priderančių, laisvių dalyviu72.
-  citata_rodoma: "Bet jau tokia būna geni­\njaus įtaka menkesniems protams, kad dažnai net nenoro­\nmis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio, \ngarbina ir vykdo didvyrio sumanymus, kurių iš paprasto \nžmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas, \ndviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­\nliečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­\nmenyje neteko tokio globėjo, kokiu paskui netapo nė vienas \niš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­\ngaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje, \npanoro ne tik pripažinti jam senąjį įžymumą, bet padaryti \ndar ir naujų, amžiui priderančių, laisvių dalyviu72."
+  citata_rodoma: |
+    Bet jau tokia būna geni­
+    jaus įtaka menkesniems protams, kad dažnai net nenoro­
+    mis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio,
+    garbina ir vykdo didvyrio sumanymus, kurių iš paprasto
+    žmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas,
+    dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­
+    liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­
+    menyje neteko tokio globėjo, kokiu paskui netapo nė vienas
+    iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­
+    gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
+    panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
+    dar ir naujų, amžiui priderančių, laisvių dalyviu72.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -249,7 +262,15 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     diną ir Maskvą.
 
     1514 m. rugsėjo 8 d. ORŠOS MŪŠIS 85
-  citata_rodoma: "suvažiavimas Vienoje. Nors Habsburgai\ndinastinėje kovoje su Jogailaičiais dėl įtakos\nČekijoje ir Vengrijoje turėjo neabejotinai\ndaugiau naudos, bet nustojo remti amžinus\nLietuvos ir Lenkijos priešus - Vokiečių or-\ndiną ir Maskvą.\n\n1514 m."
+  citata_rodoma: |
+    suvažiavimas Vienoje. Nors Habsburgai
+    dinastinėje kovoje su Jogailaičiais dėl įtakos
+    Čekijoje ir Vengrijoje turėjo neabejotinai
+    daugiau naudos, bet nustojo remti amžinus
+    Lietuvos ir Lenkijos priešus - Vokiečių or-
+    diną ir Maskvą.
+
+    1514 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

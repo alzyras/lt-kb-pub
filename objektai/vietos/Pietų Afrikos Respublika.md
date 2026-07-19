@@ -72,7 +72,8 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
     litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
     kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
     buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
-  citata_rodoma: "kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas"
+  citata_rodoma: |
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -109,7 +109,14 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
     jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
     tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
     valdžią ir visada jį palaikyti.
-  citata_rodoma: ")**\nAtsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-\ntravos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-\ngaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-\njo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-\ntautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją\nvaldžią ir visada jį palaikyti."
+  citata_rodoma: |
+    )**
+    Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
+    travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
+    gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
+    jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
+    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
+    valdžią ir visada jį palaikyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

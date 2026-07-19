@@ -95,7 +95,13 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
     garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
     tvirtai tikėdami, kad tikrai nebepražus.
-  citata_rodoma: "Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už\nlietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame\nbuvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą\ngarbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-\nrėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau\ntvirtai tikėdami, kad tikrai nebepražus."
+  citata_rodoma: |
+    Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
+    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
+    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
+    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
+    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
+    tvirtai tikėdami, kad tikrai nebepražus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -77,7 +77,11 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
     Į porinius ratus susėdo keturi vyrai — du gale, du ant lentelės — ir
     išvažiavo į Kairėnėlius, būsią, prašyti jaunavedžių „ant atgrąžtų“ , va­
     dinasi, prašyti, kad atvažiuotų sekmadienį.
-  citata_rodoma: "Tą dieną, po pusryčių buvo išsiųsti į „aną šalį“ vadinamieji kviesliai. \nĮ porinius ratus susėdo keturi vyrai — du gale, du ant lentelės — ir \nišvažiavo į Kairėnėlius, būsią, prašyti jaunavedžių „ant atgrąžtų“ , va­\ndinasi, prašyti, kad atvažiuotų sekmadienį."
+  citata_rodoma: |
+    Tą dieną, po pusryčių buvo išsiųsti į „aną šalį“ vadinamieji kviesliai.
+    Į porinius ratus susėdo keturi vyrai — du gale, du ant lentelės — ir
+    išvažiavo į Kairėnėlius, būsią, prašyti jaunavedžių „ant atgrąžtų“ , va­
+    dinasi, prašyti, kad atvažiuotų sekmadienį.
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas
@@ -97,7 +101,8 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
     Kraičkubilis — tai statiniukė su dangčiu ir užra­
     kinama, paprastas tarnaujančių mergelių sandėlis.
     Vestuvininkai nuvažiavo į Kairėnėlius.
-  citata_rodoma: "Vestuvininkai nuvažiavo į Kairėnėlius."
+  citata_rodoma: |
+    Vestuvininkai nuvažiavo į Kairėnėlius.
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas

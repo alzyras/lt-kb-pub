@@ -134,7 +134,9 @@ Nenurodyta
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: "Nuo XIV a. ryčiausias Europoje du amžius\nK. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
+  citata_rodoma: |
+    Nuo XIV a. ryčiausias Europoje du amžius
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -156,7 +158,10 @@ Nenurodyta
     („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
     orija.
-  citata_rodoma: "Jame randame šiuolaikinės artilerijos\nir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-\norija."
+  citata_rodoma: |
+    Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -177,7 +182,14 @@ Nenurodyta
     orija.
     XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
     nulėmė jėzuitai.
-  citata_rodoma: "Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė \nsolidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu \ndarbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ \n(„Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos \nir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-\norija. \nXVII–XVIII a."
+  citata_rodoma: |
+    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+    XVII–XVIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

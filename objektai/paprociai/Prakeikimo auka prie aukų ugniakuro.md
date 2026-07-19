@@ -91,7 +91,13 @@ Nenurodyta
     vo pamėgdžiojama katalikų išpažintis, kurios apeigos kažkaip
     nuo seno susiklostė stabmeldystėje. Vaidilos priimdavo išpa­
     žintis kaimiečių, kurie slapčiomis dar laikėsi senojo tikėjimo.
-  citata_rodoma: "16. Prakeikimo auka būdavo atnašaujama tuomet, kai žy­\nnys ką nors prakeikdavo ir ištremdavo iš šalies. Tuomet prie au­\nkų ugniakuro pjaudavo galviją, iš jo išimdavo vidurius ir sude­\ngindavo, nes su jais nebuvo galima kitaip elgtis. Ten prie bet ku­\nrios aukos sukalbėdavo prakeikimo formulę, o po to viską su­\nmesdavo į pelkę*."
+  citata_rodoma: |
+    16. Prakeikimo auka būdavo atnašaujama tuomet, kai žy­
+    nys ką nors prakeikdavo ir ištremdavo iš šalies. Tuomet prie au­
+    kų ugniakuro pjaudavo galviją, iš jo išimdavo vidurius ir sude­
+    gindavo, nes su jais nebuvo galima kitaip elgtis. Ten prie bet ku­
+    rios aukos sukalbėdavo prakeikimo formulę, o po to viską su­
+    mesdavo į pelkę*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

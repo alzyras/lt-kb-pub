@@ -64,7 +64,8 @@ Kurkliai šiame šaltinyje yra vietovė.
   citata_originali: |
     S. Kiškytė (iš Kurklių v.)
     . .
-  citata_rodoma: "S. Kiškytė (iš Kurklių v.)"
+  citata_rodoma: |
+    S. Kiškytė (iš Kurklių v.)
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

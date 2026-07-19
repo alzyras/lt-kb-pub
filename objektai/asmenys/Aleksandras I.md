@@ -137,7 +137,11 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
     1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam
     Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas,
     kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.
-  citata_rodoma: "Universiteto globėju iki\n1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam\nJerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas,\nkurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas."
+  citata_rodoma: |
+    Universiteto globėju iki
+    1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam
+    Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas,
+    kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -161,7 +165,14 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
     vos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė
     Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai di-
     nastijai.
-  citata_rodoma: "L I E T U V O S  I S T O R I J A\n104\n1830–1831 metų sukilimas \nAleksandras I nutarė nekeršyti ištikimybės priesaiką jam \nsulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad \nmilžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų \nturėjo skaudžių pasekmių ekonomikai. Kai 1815 m."
+  citata_rodoma: |
+    L I E T U V O S  I S T O R I J A
+    104
+    1830–1831 metų sukilimas
+    Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam
+    sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad
+    milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų
+    turėjo skaudžių pasekmių ekonomikai. Kai 1815 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

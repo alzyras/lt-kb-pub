@@ -41,7 +41,7 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173251
+    - c-173252
 
 <a id="claim-t-190369"></a>
 - t-002
@@ -99,7 +99,6 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190368
     - t-197320
 - id: c-173252
   autorius: "Teodoras Narbutas"
@@ -121,4 +120,5 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-190368
     - t-190369

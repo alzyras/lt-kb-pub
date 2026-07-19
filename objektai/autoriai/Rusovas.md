@@ -94,7 +94,15 @@ Narbutas rašo, kad Rusovas latvių jaunimui priskyrė deivės Dahklos garbinim�
     kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
     ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
     užrašė bažnyčiai daugiau pajamų.
-  citata_rodoma: "Nuženk iš dangaus, pasigailėk)\nMielai atidaviau savo laikrodį bajorui, kuris man tą daine­\nlę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje\n1805 metų liepos 17 dieną.\nRusovas sako, kad latvių jaunimas garbino tą deivę, va­\ndindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį\nmitą pastebi Stenderis, bet dėl savo keistos etimologizacijos\nsudvejina: vienur vadinaDekkla, kitur -  Tikla."
+  citata_rodoma: |
+    Nuženk iš dangaus, pasigailėk)
+    Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­
+    lę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje
+    1805 metų liepos 17 dieną.
+    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
+    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
+    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
+    sudvejina: vienur vadinaDekkla, kitur -  Tikla.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

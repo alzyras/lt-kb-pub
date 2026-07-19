@@ -58,7 +58,12 @@ Vokiečių ordino XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi ži
     nai (« Equireae »). Kronikos nuolat mini per karus didelius skaičius
     iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę
     išvaroma arklių.
-  citata_rodoma: "Vokiečių ordino\nXIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi žirgy­\nnai (« Equireae »). Kronikos nuolat mini per karus didelius skaičius\niš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę\nišvaroma arklių."
+  citata_rodoma: |
+    Vokiečių ordino
+    XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi žirgy­
+    nai (« Equireae »). Kronikos nuolat mini per karus didelius skaičius
+    iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę
+    išvaroma arklių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

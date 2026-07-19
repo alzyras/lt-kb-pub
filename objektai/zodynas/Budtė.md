@@ -106,7 +106,8 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
     šiandienius šių abiejų tautų skirtumus priskirdamas liki­
     mui, kurio dėka jos patekdavo tai į germanų, tai į finų
     valdžią, ir lietuvių kalba vis labiau tolo nuo slavų.
-  citata_rodoma: "Budtė — išminties, proto deivė."
+  citata_rodoma: |
+    Budtė — išminties, proto deivė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

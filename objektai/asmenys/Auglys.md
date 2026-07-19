@@ -73,8 +73,18 @@ Jai vadovavo lietuvis karininkas Auglys.
     pradžioje perbėgo pas lietu-
     vius. Tačiau tuo pat metu
 
-    1919 m. vasario 10-13 d. JIEZNO KAUTYNĖS
-  citata_rodoma: "Tuo metu\nJiezno miestelio pakraštyje buvo išdėstyta\nviena bolševikų kuopa (apie 100 karių). Jai\nvadovavo lietuvis karininkas Auglys.\nNenorėdamas kautis su tautie-\nčiais, jis pačioje susirėmimo\npradžioje perbėgo pas lietu-\nvius. Tačiau tuo pat metu\n\n1919 m."
+    1919 m.
+  citata_rodoma: |
+    Tuo metu
+    Jiezno miestelio pakraštyje buvo išdėstyta
+    viena bolševikų kuopa (apie 100 karių). Jai
+    vadovavo lietuvis karininkas Auglys.
+    Nenorėdamas kautis su tautie-
+    čiais, jis pačioje susirėmimo
+    pradžioje perbėgo pas lietu-
+    vius. Tačiau tuo pat metu
+
+    1919 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

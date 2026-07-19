@@ -224,7 +224,10 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     Ilgai ir sunkiai teko Vytautui kovoti dėl Podolijos, į kurią be
     vengrą ir totorią, reiškė pretenziją ir lenkai. Algirdo laikais
     čia šeimininkavo totoriai.
-  citata_rodoma: "Ilgai ir sunkiai teko Vytautui kovoti dėl Podolijos, į kurią be\nvengrą ir totorią, reiškė pretenziją ir lenkai. Algirdo laikais\nčia šeimininkavo totoriai."
+  citata_rodoma: |
+    Ilgai ir sunkiai teko Vytautui kovoti dėl Podolijos, į kurią be
+    vengrą ir totorią, reiškė pretenziją ir lenkai. Algirdo laikais
+    čia šeimininkavo totoriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -266,7 +269,13 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
     buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
     žant lenkų papročius ir tradicijas.
-  citata_rodoma: "Kaip tik tuo laiku\nVytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos\nvaldžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­\ntrzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis\nbuvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­\nžant lenkų papročius ir tradicijas."
+  citata_rodoma: |
+    Kaip tik tuo laiku
+    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
+    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
+    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
+    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
+    žant lenkų papročius ir tradicijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -289,7 +298,14 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     damas gyvo lenkų nepasitenkinimo^1 ), davė Vytautui lėno teisė­
     mis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas
     iš čia karūnos seniūną.
-  citata_rodoma: "Todėl nenuostabu, kad po Torno taikos\nįvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui\npasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­\nčą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­\ndamas gyvo lenkų nepasitenkinimo^1 ), davė Vytautui lėno teisė­\nmis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas\niš čia karūnos seniūną."
+  citata_rodoma: |
+    Todėl nenuostabu, kad po Torno taikos
+    įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui
+    pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­
+    čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­
+    damas gyvo lenkų nepasitenkinimo^1 ), davė Vytautui lėno teisė­
+    mis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas
+    iš čia karūnos seniūną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -310,7 +326,13 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
     apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
     arčiau didž. Lietuvos kunigaikščio būstinės.
-  citata_rodoma: "kunigaikščiui priklau­\nsančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų\ngausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­\nmaičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau\napgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat\narčiau didž. Lietuvos kunigaikščio būstinės."
+  citata_rodoma: |
+    kunigaikščiui priklau­
+    sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų
+    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
+    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
+    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
+    arčiau didž. Lietuvos kunigaikščio būstinės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -351,7 +373,13 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
     nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
     tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
-  citata_rodoma: "Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius\nSpytkas iš Melštyno, kuris valdė Podoliją.\nŠita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­\nsiam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­\nnus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­\ntautas tos pirmenybės neturėjo, jis tik ją išsikovojo."
+  citata_rodoma: |
+    Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius
+    Spytkas iš Melštyno, kuris valdė Podoliją.
+    Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­
+    siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
+    nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
+    tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -371,7 +399,13 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
     ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
     reikalą^1 ).
-  citata_rodoma: "1398 m.\npirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią\nLietuvos su Lenkija santykių eigą. Tą balsą, kaip ir pirma dėl\nPodolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­\nka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos\nreikalą^1 )."
+  citata_rodoma: |
+    1398 m.
+    pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
+    Lietuvos su Lenkija santykių eigą. Tą balsą, kaip ir pirma dėl
+    Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
+    ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
+    reikalą^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

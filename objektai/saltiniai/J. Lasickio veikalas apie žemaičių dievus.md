@@ -280,7 +280,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-173358
+    - c-173357
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -376,7 +376,14 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
     Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
     dabar raganomis vadina tam tikras kerėtojas, galinčias pasi­
     versti katėmis bei šarkomis ir skraidančias raitomis ant ožio.
-  citata_rodoma: "Tų deivių karalienės vardas buvo\nJūratė .\nDugne (Dugną)\nUpinė nimfa, kitaip Gudelka26 * 28, pagal tai, ką aukščiau pa­\nteikėme iš Jakimavičiaus. Lasickis šiai dievybei priskiria ypa­\ntybe globoti įmaišytą tešlą; tai visai nepanašu į tiesą, kadangi\npats žodis Dugnas reiškia upės dugną."
+  citata_rodoma: |
+    Tų deivių karalienės vardas buvo
+    Jūratė .
+    Dugne (Dugną)
+    Upinė nimfa, kitaip Gudelka26 * 28, pagal tai, ką aukščiau pa­
+    teikėme iš Jakimavičiaus. Lasickis šiai dievybei priskiria ypa­
+    tybe globoti įmaišytą tešlą; tai visai nepanašu į tiesą, kadangi
+    pats žodis Dugnas reiškia upės dugną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -457,7 +464,13 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
     džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
     XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
     no, gyveno ši tauta, garbinusi dangaus kūnus .
-  citata_rodoma: "Kitų supratimu, tai buvu­\nsios lietuviškos Silfos . Pasak Lasickio pasakojimų, kaukai pa-\nsi rodydavę tiems, kurie jais tikėjo, kiti jų visiškai negalėję ma­\ntyti. Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­\nvo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip\nsu barstukais."
+  citata_rodoma: |
+    Kitų supratimu, tai buvu­
+    sios lietuviškos Silfos . Pasak Lasickio pasakojimų, kaukai pa-
+    si rodydavę tiems, kurie jais tikėjo, kiti jų visiškai negalėję ma­
+    tyti. Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­
+    vo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip
+    su barstukais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -482,7 +495,17 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
     nantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af­
     rikos Sacharos dykumos gyventojams’, tai kodėl tą turėtume
     užginčyti lietuvių tautai?
-  citata_rodoma: "Vis dėlto išliko neabejotinų\nfaktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­\ndavo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­\nčionių, tai yra ne kiekvienas jose galėdavo dalyvauti. Iš čia slap­\ntos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas\n197\n\n## Puslapis 197\n\nišvardija net aštuonetą."
+  citata_rodoma: |
+    Vis dėlto išliko neabejotinų
+    faktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­
+    davo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­
+    čionių, tai yra ne kiekvienas jose galėdavo dalyvauti. Iš čia slap­
+    tos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas
+    197
+
+    ## Puslapis 197
+
+    išvardija net aštuonetą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -501,7 +524,18 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
     pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
     žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
     bino mane ypatinga savo išvaizda.
-  citata_rodoma: "Simonaitė (Simonajte)\nMoteriškos giminės fetišas, jį garbino Mikuckių giminė.\nSidzia\nMikalauskų giminės fetišas.\nVentis (W entis)\nSemetų giminės fetišas.\nRageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės."
+  citata_rodoma: |
+    Simonaitė (Simonajte)
+    Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
+    Sidzia
+    Mikalauskų giminės fetišas.
+    Ventis (W entis)
+    Semetų giminės fetišas.
+    Rageziowan
+    Kęsgailų giminės fetišas.
+    Dievaitis (Dewojtis)
+    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
+    seinių apskrityje, tikriausiai prie Jūros upės.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -532,6 +566,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190474
+    - t-197349
 - id: c-173358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -560,7 +595,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190475
-    - t-197349
 - id: c-177075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

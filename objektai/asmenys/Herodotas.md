@@ -616,7 +616,13 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
     siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
     slavų Tryzną.
-  citata_rodoma: "E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­\nsiausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais."
+  citata_rodoma: |
+    E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
+    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -658,7 +664,16 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     kilusiomis gentimis. Dievus garbino senovės Indijos bu­
     dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­
     siformavusiai budinu genčiai, kuri įsikūrė prie Dono.
-  citata_rodoma: "Pirmykštėje žmonių visuomenėje tautos sun­\nkiai pakęsdavo šalia savęs svetimos giminės ir kalbos\nžmones, o gentainių pagalbą ir abipusę draugystę labai\nbrangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­\nmeninio gyvenimo kūdikystės lygio ir atrastų mūsų am­\nžiais. Minėtų pelazgų palikuonių turėjo būti ant kai­\nriojo Dono vidurupio kranto. Tai mini ir Herodotas*,\nteigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų\ngyvenamo krašto."
+  citata_rodoma: |
+    Pirmykštėje žmonių visuomenėje tautos sun­
+    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
+    žmones, o gentainių pagalbą ir abipusę draugystę labai
+    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
+    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
+    žiais. Minėtų pelazgų palikuonių turėjo būti ant kai­
+    riojo Dono vidurupio kranto. Tai mini ir Herodotas*,
+    teigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų
+    gyvenamo krašto.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -898,7 +913,16 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     500 metais prieš Kristaus gimimą klestėjo prekyba tarp
     helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
     Pameotidės gyventojai2.
-  citata_rodoma: "Tai plačiau paaiškins\ndalykus, kurių kontūrus paliko Herodotas.\nReikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš­\nto prie Fasio pasiektų Meotų jūrą1, apie kurią seniausių\nžinių randame H erodo to darbuose, nors graikai turi ir\ngerokai senesnes epochas siekiančių duomenų. Maždaug\n500 metais prieš Kristaus gimimą klestėjo prekyba tarp\nhelenų ir meotidų, nes tokį bendrinį pavadinimą turėjo\nPameotidės gyventojai2."
+  citata_rodoma: |
+    Tai plačiau paaiškins
+    dalykus, kurių kontūrus paliko Herodotas.
+    Reikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš­
+    to prie Fasio pasiektų Meotų jūrą1, apie kurią seniausių
+    žinių randame H erodo to darbuose, nors graikai turi ir
+    gerokai senesnes epochas siekiančių duomenų. Maždaug
+    500 metais prieš Kristaus gimimą klestėjo prekyba tarp
+    helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
+    Pameotidės gyventojai2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -924,7 +948,21 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     sime iš atitinkamos vėlesnių laikų pozicijos, mažų ma­
     žiausiai neatsižvelgdami į išorinį žodžių pavidalą, jų
     reikšmės ir minčių atitikimą.
-  citata_rodoma: "Maždaug \n500 metais prieš Kristaus gimimą klestėjo prekyba tarp \nhelenų ir meotidų, nes tokį bendrinį pavadinimą turėjo \nPameotidės gyventojai2. Herodoto aprašymuose yra ne­\nmažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­\nnagrinėsime jas dabartinių ir praėjusių laikų dvasia. \nTai ir yra tikslas, kurio mes dar siekiame ir nuo kurio vis \nlabiau tolsime, kol liausimės praėjusio pasaulio dalykus \natkakliai ir su išankstine nuostata matuoti mūsų šiandie­\nnos masteliais. Kritikuodami Herodoto patiklumą, taisy­\nsime jo geografines klaidas ir tiesas, t. y. visuomet žvelg­\nsime iš atitinkamos vėlesnių laikų pozicijos, mažų ma­\nžiausiai neatsižvelgdami į išorinį žodžių pavidalą, jų \nreikšmės ir minčių atitikimą."
+  citata_rodoma: |
+    Maždaug
+    500 metais prieš Kristaus gimimą klestėjo prekyba tarp
+    helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
+    Pameotidės gyventojai2. Herodoto aprašymuose yra ne­
+    mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa­
+    nagrinėsime jas dabartinių ir praėjusių laikų dvasia.
+    Tai ir yra tikslas, kurio mes dar siekiame ir nuo kurio vis
+    labiau tolsime, kol liausimės praėjusio pasaulio dalykus
+    atkakliai ir su išankstine nuostata matuoti mūsų šiandie­
+    nos masteliais. Kritikuodami Herodoto patiklumą, taisy­
+    sime jo geografines klaidas ir tiesas, t. y. visuomet žvelg­
+    sime iš atitinkamos vėlesnių laikų pozicijos, mažų ma­
+    žiausiai neatsižvelgdami į išorinį žodžių pavidalą, jų
+    reikšmės ir minčių atitikimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -957,7 +995,20 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
-  citata_rodoma: "Būtent ši priežastis daro\nmus visiškai bejėgius spręsti apie tikrą reikšmę praėju­\nsių laikų, jei jie patys savęs nepaaiškina; kalbant kitais\nžodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­\nlosofiškai arba kritiškai, nes kritika — filosofijos šaka.\nNei Homero, nei Herodoto žemėlapiai, kurie niekad\nnebuvo tikslūs astronominiai-geografiniai, bet apskritai\nmitologiniai, kosmografiniai, genealoginiai ir istoriniai,\nnesutampa su mūsų žemėlapiais, kuriems būdingos tiks­\nlios matematinės projekcijos. Dėl to derėtų šia prasme\nįvertinti skirtumą ir išnagrinėti jo priežastis tam, kad\nišvengtume nesusipratimų, kurių tokiu atveju pasitaiko\ngana daug."
+  citata_rodoma: |
+    Būtent ši priežastis daro
+    mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­
+    sių laikų, jei jie patys savęs nepaaiškina; kalbant kitais
+    žodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­
+    losofiškai arba kritiškai, nes kritika — filosofijos šaka.
+    Nei Homero, nei Herodoto žemėlapiai, kurie niekad
+    nebuvo tikslūs astronominiai-geografiniai, bet apskritai
+    mitologiniai, kosmografiniai, genealoginiai ir istoriniai,
+    nesutampa su mūsų žemėlapiais, kuriems būdingos tiks­
+    lios matematinės projekcijos. Dėl to derėtų šia prasme
+    įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
+    išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
+    gana daug.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -1009,7 +1060,18 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
     daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
     tymo.
-  citata_rodoma: "Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos. Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę."
+  citata_rodoma: |
+    Matoma, kad jie apsigyveno toli­
+    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
+    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
+    kios varginančios ir ilgos žiemos. Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

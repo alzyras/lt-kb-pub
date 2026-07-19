@@ -80,7 +80,10 @@ Nenurodyta
     žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
     Ryžtingai kovojančių pagonių jie iš viso neturėjo progos klaustis,
     ar jie turi norą krikštytis.
-  citata_rodoma: "Tad Gediminui politinės aplinkybės krikštui tapo gana\nnepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­\nžiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo."
+  citata_rodoma: |
+    Tad Gediminui politinės aplinkybės krikštui tapo gana
+    nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
+    žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

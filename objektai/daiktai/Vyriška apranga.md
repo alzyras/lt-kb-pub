@@ -78,7 +78,8 @@ Nenurodyta
     Be lenkų kariuomenės, Lietuvoje sukilėlių daliniuose buvo apie
     30  tūkst. kovotojų. Sukilimo legenda tapo jauna dvarininkaitė Emilija
     Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.
-  citata_rodoma: "Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo."
+  citata_rodoma: |
+    Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

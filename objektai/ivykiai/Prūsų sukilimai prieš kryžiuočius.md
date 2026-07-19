@@ -71,7 +71,11 @@ Nenurodyta
     naujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-
     sišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-
     davo nuveikiami.
-  citata_rodoma: "Kai sukilimai aprimdavo, ordinas kiekvieną kartą turėdavo iš\nnaujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-\nsišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-\ndavo nuveikiami."
+  citata_rodoma: |
+    Kai sukilimai aprimdavo, ordinas kiekvieną kartą turėdavo iš
+    naujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-
+    sišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-
+    davo nuveikiami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

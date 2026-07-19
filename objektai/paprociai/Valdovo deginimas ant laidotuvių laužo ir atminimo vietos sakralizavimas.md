@@ -107,7 +107,16 @@ Nenurodyta
     nių viešpatauja didžiausia santarvė. Tuo būdu šie val­
     dovai ne tik saugojo Lietuvą nuo pavojų, bet ją dar
     labiau stiprino.
-  citata_rodoma: "Pagal genties papročius valdovą su­\ndegino ant laidotuvių laužo. Toje pačioje vietoje pa­\ngarbiai užkasus pelenus, pastatė nelyginant atminimo\nstatulą, kuri palikuonių buvo laikoma šventenybe, kaip,\nbeje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu­\nvo atiduodama dieviškoji pagarba. Vėliau keletą kartų\nsiuntė ginkluotą pagalbą kaimyninei Prūsijai, kai šią\ngentį ėmė puldinėti lenkų karalius Boleslovas Narsu­\nsis."
+  citata_rodoma: |
+    Pagal genties papročius valdovą su­
+    degino ant laidotuvių laužo. Toje pačioje vietoje pa­
+    garbiai užkasus pelenus, pastatė nelyginant atminimo
+    statulą, kuri palikuonių buvo laikoma šventenybe, kaip,
+    beje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu­
+    vo atiduodama dieviškoji pagarba. Vėliau keletą kartų
+    siuntė ginkluotą pagalbą kaimyninei Prūsijai, kai šią
+    gentį ėmė puldinėti lenkų karalius Boleslovas Narsu­
+    sis.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -92,7 +92,15 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
     Kadlubeko
     lenkų
     istorijos nagrinėjimuose. Prierašas Nr. 21); Lindė (Historisch-kritisch.
-  citata_rodoma: "Šio nenaudėlio sukaupti ant Anapilio kalno tur­\ntai atiteko Danijos karaliui ir padėjo rengiant karo žy­\ngius3. Tas pats Starkateras, privertęs rusnėnų karaliuką\nFloką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­\nmus lobius, daugybę aukso ir sidabro4.\n238\nČia dera prisiminti ir įžymaus Siaurės kraštų kariūno,\nOlandijos karaliaus Jarmeriko žygius."
+  citata_rodoma: |
+    Šio nenaudėlio sukaupti ant Anapilio kalno tur­
+    tai atiteko Danijos karaliui ir padėjo rengiant karo žy­
+    gius3. Tas pats Starkateras, privertęs rusnėnų karaliuką
+    Floką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­
+    mus lobius, daugybę aukso ir sidabro4.
+    238
+    Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
+    Olandijos karaliaus Jarmeriko žygius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

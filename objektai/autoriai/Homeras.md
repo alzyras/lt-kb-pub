@@ -222,7 +222,23 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
-  citata_rodoma: "Taigi naujų laikų gabumams nebūdin­\ngas praėjusių amžių tikėjimas, kuris buvo mokslinis, \nžmogiškas ir dieviškas taip, jog šiandien, žvelgdami į \npraeities veidrodį, suvokiame mūsų labai matematiškai \nribotą žvilgsni, kuris pastebi tik išorinius paviršius, vos \nįžiūri užtemdytus klonius, bet jokiu būdu negali nei jų \nišmatuoti, nei geriau pažinti. Būtent ši priežastis daro \nmus visiškai bejėgius spręsti apie tikrą reikšmę praėju­\nsių laikų, jei jie patys savęs nepaaiškina; kalbant kitais \nžodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­\nlosofiškai arba kritiškai, nes kritika — filosofijos šaka.\nNei Homero, nei Herodoto žemėlapiai, kurie niekad \nnebuvo tikslūs astronominiai-geografiniai, bet apskritai \nmitologiniai, kosmografiniai, genealoginiai ir istoriniai, \nnesutampa su mūsų žemėlapiais, kuriems būdingos tiks­\nlios matematinės projekcijos."
+  citata_rodoma: |
+    Taigi naujų laikų gabumams nebūdin­
+    gas praėjusių amžių tikėjimas, kuris buvo mokslinis,
+    žmogiškas ir dieviškas taip, jog šiandien, žvelgdami į
+    praeities veidrodį, suvokiame mūsų labai matematiškai
+    ribotą žvilgsni, kuris pastebi tik išorinius paviršius, vos
+    įžiūri užtemdytus klonius, bet jokiu būdu negali nei jų
+    išmatuoti, nei geriau pažinti. Būtent ši priežastis daro
+    mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­
+    sių laikų, jei jie patys savęs nepaaiškina; kalbant kitais
+    žodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­
+    losofiškai arba kritiškai, nes kritika — filosofijos šaka.
+    Nei Homero, nei Herodoto žemėlapiai, kurie niekad
+    nebuvo tikslūs astronominiai-geografiniai, bet apskritai
+    mitologiniai, kosmografiniai, genealoginiai ir istoriniai,
+    nesutampa su mūsų žemėlapiais, kuriems būdingos tiks­
+    lios matematinės projekcijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

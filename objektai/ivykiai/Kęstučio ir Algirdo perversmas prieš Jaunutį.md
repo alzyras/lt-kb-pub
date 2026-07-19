@@ -158,7 +158,12 @@ Nenurodyta
     dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks­
     lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le­
     gendine.
-  citata_rodoma: "Mokslinėje literatūroje toji istorija vadinama le-\ngendine. Todėl ir pradinė Platesniojo sąvado teksto \ndalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks-\nlo prieš brolį Jaunutį (1345 m.) taip pat vadinama le-\ngendine."
+  citata_rodoma: |
+    Mokslinėje literatūroje toji istorija vadinama le-
+    gendine. Todėl ir pradinė Platesniojo sąvado teksto
+    dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks-
+    lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le-
+    gendine.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

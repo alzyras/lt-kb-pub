@@ -64,7 +64,9 @@ Dusburgietis teigia, kad zinkevičius Z.
     Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,
     11(2), p. 149—153.
     Zinkevičius Z. Lietuvių kalbos istorija.
-  citata_rodoma: "Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,\n11(2), p. 149—153."
+  citata_rodoma: |
+    Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,
+    11(2), p. 149—153.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

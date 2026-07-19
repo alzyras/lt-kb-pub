@@ -176,7 +176,15 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     užkirto šiems azijiečiams kelią į artimiausias šios valsty­
     bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
     Aleksandrą pasiekė Vilniuje.
-  citata_rodoma: "Tad paskubomis susirinko 10 000 bajorų, \nkareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­\ndė narsus, bet pasipūtęs, Glinskis. Gausūs Krymo ordos ka­\nrių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga \nLietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje \nužkirto šiems azijiečiams kelią į artimiausias šios valsty­\nbės vaivadijų sostines47. Ši trokštama žinia jau merdintį \nAleksandrą pasiekė Vilniuje."
+  citata_rodoma: |
+    Tad paskubomis susirinko 10 000 bajorų,
+    kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
+    dė narsus, bet pasipūtęs, Glinskis. Gausūs Krymo ordos ka­
+    rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga
+    Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje
+    užkirto šiems azijiečiams kelią į artimiausias šios valsty­
+    bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
+    Aleksandrą pasiekė Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -206,7 +214,24 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     jorijai mobilizuotis, o jų mažesnių būrių
 
     Vilnius Aleksandro valdymo laikais.
-  citata_rodoma: "Galiausiai apie liepos 20-22 d. jie sustojo.\nVietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais.\n\nLietuvos kariuomenės mobilizacija, vadai\nir pirmieji susidūrimai\n\nStaigus totorių įsiveržimas sutrukdė jų\nveiksmus patyrusių paliestų pavietų ba-\njorijai mobilizuotis, o jų mažesnių būrių\n\nVilnius Aleksandro valdymo laikais."
+  citata_rodoma: |
+    Galiausiai apie liepos 20-22 d. jie sustojo.
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+
+    Lietuvos kariuomenės mobilizacija, vadai
+    ir pirmieji susidūrimai
+
+    Staigus totorių įsiveržimas sutrukdė jų
+    veiksmus patyrusių paliestų pavietų ba-
+    jorijai mobilizuotis, o jų mažesnių būrių
+
+    Vilnius Aleksandro valdymo laikais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -226,7 +251,14 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
     kuriose lietuviai kovojo petys į petį su rusėnais.
-  citata_rodoma: "Bendras vidaus politinis \ngyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos \nStatutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-\ntuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-\njasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės \npergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne, \nkuriose lietuviai kovojo petys į petį su rusėnais."
+  citata_rodoma: |
+    Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -245,7 +277,13 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
     muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
     mylią nuo Lydos.
-  citata_rodoma: "Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus \nTaboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas \nLaskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą, \nnemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­\nmuną, savo papročiu plėšdamas apylinkes, atsidūrė vos per \nmylią nuo Lydos."
+  citata_rodoma: |
+    Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
+    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
+    Laskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
+    nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
+    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
+    mylią nuo Lydos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -266,7 +304,15 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 
     p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a.,
     Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: "Šaltinių sąrašas 271\n\n## Puslapis 274\n\nVAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE\n\np. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a.,\nKarolis Zikaras, Loreta Uzdraitė."
+  citata_rodoma: |
+    Šaltinių sąrašas 271
+
+    ## Puslapis 274
+
+    VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
+
+    p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a.,
+    Karolis Zikaras, Loreta Uzdraitė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -304,7 +350,32 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     totorius pasiektai pergalei atminti savo žemėje už miesto ant
     kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
     gelės Dievo Gimdytojos garbei.
-  citata_rodoma: "Po šios \ndžiugios naujienos buvo įvairiausiai \nreiškiamas džiaugsmas ne tik gatvė­\nse, ypač priešais kunigo Samuelio \nMaciejovskio, tuo laiku Karalystės \npakanclerio ir Kulmo, o netrukus \npo to - Plocko vyskupo, rūmus, bet \nir kalneliuose ties Vilniumi buvo\n\n## Puslapis 281\n\n265\n2irmek/ ^3) of nti®^ L,™ k; x\n\n## Puslapis 282\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nrūpinosi iš Lietuvos kunigaikščių kilęs Vilniaus vyskupas Jo­\nnas su kapitula12, pinigais remiamas visos dvasininkijos13. Be \nto, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­\nčių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus \nRadvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš \ntotorius pasiektai pergalei atminti savo žemėje už miesto ant \nkalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­\ngelės Dievo Gimdytojos garbei."
+  citata_rodoma: |
+    Po šios
+    džiugios naujienos buvo įvairiausiai
+    reiškiamas džiaugsmas ne tik gatvė­
+    se, ypač priešais kunigo Samuelio
+    Maciejovskio, tuo laiku Karalystės
+    pakanclerio ir Kulmo, o netrukus
+    po to - Plocko vyskupo, rūmus, bet
+    ir kalneliuose ties Vilniumi buvo
+
+    ## Puslapis 281
+
+    265
+    2irmek/ ^3) of nti®^ L,™ k; x
+
+    ## Puslapis 282
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    rūpinosi iš Lietuvos kunigaikščių kilęs Vilniaus vyskupas Jo­
+    nas su kapitula12, pinigais remiamas visos dvasininkijos13. Be
+    to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­
+    čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus
+    Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš
+    totorius pasiektai pergalei atminti savo žemėje už miesto ant
+    kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
+    gelės Dievo Gimdytojos garbei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

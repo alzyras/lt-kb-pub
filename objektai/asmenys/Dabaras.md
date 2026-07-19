@@ -82,7 +82,10 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
     kitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,
     o geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,
     visiškai suėstus metų ir rūdžių.
-  citata_rodoma: "Ten jie narsiai užpuolė Divaną ir nukovė vieną\njo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu\nbūreliu savo karių gėdingai paspruko."
+  citata_rodoma: |
+    Ten jie narsiai užpuolė Divaną ir nukovė vieną
+    jo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu
+    būreliu savo karių gėdingai paspruko.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

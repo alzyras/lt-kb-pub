@@ -90,7 +90,12 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
     ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
     vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
-  citata_rodoma: "Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė\nturkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos\nvirto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų\nordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu\nvokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.)."
+  citata_rodoma: |
+    Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
+    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
+    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
+    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
+    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

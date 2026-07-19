@@ -243,7 +243,17 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
     statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
     privilegiją.
-  citata_rodoma: "Rudaminos bažnyčią atidavė ko­\nlegijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios\nir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa\nkita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­\nniaus vyskupas Valerijonas Protasevičius, deramu išlaiky­\nmu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-\nterio nuo seno laikytas valdas: Helanokempis (Elniakampius),\nPutviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­\nstatyta, ir viską patvarkė pagal aukščiau minėtą karaliaus\nprivilegiją."
+  citata_rodoma: |
+    Rudaminos bažnyčią atidavė ko­
+    legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios
+    ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa
+    kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­
+    niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­
+    mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-
+    terio nuo seno laikytas valdas: Helanokempis (Elniakampius),
+    Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
+    statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
+    privilegiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -268,7 +278,15 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     traukdamas Vytautas prarado nemaža saviškių, tarp jų Al-
     šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
     ko ir keturių kariuomenės ženklų53.
-  citata_rodoma: "Vytautas, ne­\nmažomis pajėgomis vedinas, pasitiko juos ties Rudamina,\nbet, upės ir daubos nuo priešo skiriamas, per tirštą rūką\nneįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su\npačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­\ntraukdamas Vytautas prarado nemaža saviškių, tarp jų Al-\nšėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­\nko ir keturių kariuomenės ženklų53."
+  citata_rodoma: |
+    Vytautas, ne­
+    mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,
+    bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką
+    neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su
+    pačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­
+    traukdamas Vytautas prarado nemaža saviškių, tarp jų Al-
+    šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
+    ko ir keturių kariuomenės ženklų53.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

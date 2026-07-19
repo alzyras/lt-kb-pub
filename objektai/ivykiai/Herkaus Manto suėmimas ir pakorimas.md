@@ -136,7 +136,9 @@ Nenurodyta
     nuo tikėjimo ir tikinčiųjų, su ginklu rankose jie skersai ir išilgai išnaršė savo žemes,
     žudydami krikščionis, kiek tik jų kur besurasdami, o moteris bei vaikus varydamiesi į
     nelaisvę.
-  citata_rodoma: "411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,\np. 108; Jasas R., Didysis.., p. 61)."
+  citata_rodoma: |
+    411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,
+    p. 108; Jasas R., Didysis.., p. 61).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -157,7 +159,14 @@ Nenurodyta
     sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
     komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
     nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
-  citata_rodoma: "Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė\njokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti\ndėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne\nkuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas\nsėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo\nkomtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai\nnudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411."
+  citata_rodoma: |
+    Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
+    jokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
+    dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
+    kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
+    sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
+    komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
+    nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -117,7 +117,13 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
     tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
     ir Polocko, galėjo būti palankesnė rusams ir prisidėti
     prie Olego.
-  citata_rodoma: "tokiu atveju labiau dera jų pavadinimą kildinti iš bend-\nro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš\nkažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris\nteisingai klausia, ką tai reiškia sarmatiškai. Etimologinio\nkildinimo nepripažįstu, tačiau krivičių pavadinimo kili-\nmas iš Krivio, regis, atrodo visai natūralus."
+  citata_rodoma: |
+    tokiu atveju labiau dera jų pavadinimą kildinti iš bend-
+    ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš
+    kažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris
+    teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
+    kildinimo nepripažįstu, tačiau krivičių pavadinimo kili-
+    mas iš Krivio, regis, atrodo visai natūralus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

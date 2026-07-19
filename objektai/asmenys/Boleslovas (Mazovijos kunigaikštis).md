@@ -162,7 +162,13 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė
     juos ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
     paspruko, kad galėtų kitiems apie tai papasakoti.
-  citata_rodoma: "Šitai sužinojęs,\nMazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui\ntarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai\nsau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė\njuos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris\npaspruko, kad galėtų kitiems apie tai papasakoti."
+  citata_rodoma: |
+    Šitai sužinojęs,
+    Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui
+    tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai
+    sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė
+    juos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
+    paspruko, kad galėtų kitiems apie tai papasakoti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

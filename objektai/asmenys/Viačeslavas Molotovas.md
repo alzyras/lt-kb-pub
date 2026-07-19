@@ -156,7 +156,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     spaudimą Lietuvai kaip ranka nuėmė.
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
-  citata_rodoma: "Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-\nkvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną."
+  citata_rodoma: |
+    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
+    kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -176,7 +178,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     1939 m. spalio 10 d. sutarties.
     Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
     sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-  citata_rodoma: "sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-"
+  citata_rodoma: |
+    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -198,7 +201,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: "Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į"
+  citata_rodoma: |
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -222,7 +226,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: "laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos"
+  citata_rodoma: |
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -243,7 +248,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
     V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
     SSRS ir Lietuvos savitarpio pagalbos sutartis.
-  citata_rodoma: "jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir"
+  citata_rodoma: |
+    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

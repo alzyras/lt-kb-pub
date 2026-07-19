@@ -184,7 +184,12 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
     mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
     į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
     nes ten yra vietovardžių Stabinas, Staviškės.
-  citata_rodoma: "270\nLietuvos provincijos. Stavanus Ptolemėjas vadina Sta-\nbatiix. Sis geografas mini juos toje vietoje ir tokia tvar­\nka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­\nsius lietuvius."
+  citata_rodoma: |
+    270
+    Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
+    batiix. Sis geografas mini juos toje vietoje ir tokia tvar­
+    ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
+    sius lietuvius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

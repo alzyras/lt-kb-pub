@@ -54,7 +54,7 @@ Vžesnievskis, S.
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    sintus dalgius ir durtuvus. Batalionų vadais
+    Batalionų vadais
 
     buvo paskirti: B. Žarskis, J. Radavičius,
 
@@ -63,7 +63,16 @@ Vžesnievskis, S.
     nievskis, S. Kozakauskas, D. Maleckis,
 
     K. Maleckis, M. Stanišauskas.
-  citata_rodoma: "Batalionų vadais\n\nbuvo paskirti: B. Žarskis, J. Radavičius,\n\nA. Mackevičius, Antonievičius, E. Vžes-\n\nnievskis, S. Kozakauskas, D. Maleckis,\n\nK. Maleckis, M. Stanišauskas."
+  citata_rodoma: |
+    Batalionų vadais
+
+    buvo paskirti: B. Žarskis, J. Radavičius,
+
+    A. Mackevičius, Antonievičius, E. Vžes-
+
+    nievskis, S. Kozakauskas, D. Maleckis,
+
+    K. Maleckis, M. Stanišauskas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

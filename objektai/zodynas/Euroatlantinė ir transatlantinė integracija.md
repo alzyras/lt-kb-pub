@@ -89,7 +89,9 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
     sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
     užsienio politikos pozicija. Glaudus trijų Baltijos valstybių bendradarbia-
     vimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
-  citata_rodoma: "Glaudus trijų Baltijos valstybių bendradarbia-\nvimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas."
+  citata_rodoma: |
+    Glaudus trijų Baltijos valstybių bendradarbia-
+    vimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +113,8 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
     kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
     Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
     elgė Latvija ir Estija).
-  citata_rodoma: "kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos"
+  citata_rodoma: |
+    kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -71,7 +71,8 @@ Dusburgietis teigia, kad 140 Donner G.
     Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų ir
     sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
     — nurodo „lietuvius ir prūsus“144.
-  citata_rodoma: "140 Donner G. A. Kardinai Wilhelm von Sabina, S. 233—413."
+  citata_rodoma: |
+    140 Donner G. A. Kardinai Wilhelm von Sabina, S. 233—413.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

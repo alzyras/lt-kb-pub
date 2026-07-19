@@ -62,7 +62,10 @@ Dusburgietis teigia, kad powierski J.
     Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla
     opóźnienia rozwoju politycznego Prusów.—ABS, Wrocław—Warszawa—Kraków—Gdańsk,
     1977, 11, s.
-  citata_rodoma: "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków\npolsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.\n  Powierski J."
+  citata_rodoma: |
+    Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków
+    polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.
+      Powierski J.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

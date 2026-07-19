@@ -88,7 +88,11 @@ Nenurodyta
     aiškias sąlygas. Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
     čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
     liaus ir Dauguvos.
-  citata_rodoma: "Pagonys kunigaikščiai krikštui priimti tačiau pastatė savo\naiškias sąlygas. Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­\nčių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­\nliaus ir Dauguvos."
+  citata_rodoma: |
+    Pagonys kunigaikščiai krikštui priimti tačiau pastatė savo
+    aiškias sąlygas. Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
+    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
+    liaus ir Dauguvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

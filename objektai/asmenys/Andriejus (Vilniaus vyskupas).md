@@ -69,7 +69,11 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
     kad Jogaila su Vytautu ir Vilniaus vysk. Andriejum susitarė pa­
     daryti ir taiką su Ord., su kuriuo tų metų pradžioj buvo padarytos
     ginklų paliaubos.
-  citata_rodoma: "Rodos,\nkad Jogaila su Vytautu ir Vilniaus vysk. Andriejum susitarė pa­\ndaryti ir taiką su Ord., su kuriuo tų metų pradžioj buvo padarytos\nginklų paliaubos."
+  citata_rodoma: |
+    Rodos,
+    kad Jogaila su Vytautu ir Vilniaus vysk. Andriejum susitarė pa­
+    daryti ir taiką su Ord., su kuriuo tų metų pradžioj buvo padarytos
+    ginklų paliaubos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

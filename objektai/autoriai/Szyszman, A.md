@@ -71,7 +71,12 @@ media_all_json: |-
     Księstwa Litewskiego,_ Vilnius 1936.—Vladimirskij-Budanov, M. F. :
     _Naselenije jugozapadnoj Rossii ot poloviny XIII do poloviny XVII veka,_
     Archiv jugo-zapadnoj Rossii, VI, 1, Kiev 1886.
-  citata_rodoma: "— Sužiedėlis, S. : _Žygimantas Kęstutaitis,_ LE, t. 35, 317-\n324 p. — Szyszman, A. : _Osadnictwo karaimskie na ziemiach Wielkiego\nKsięstwa Litewskiego,_ Vilnius 1936.—Vladimirskij-Budanov, M. F. :\n_Naselenije jugozapadnoj Rossii ot poloviny XIII do poloviny XVII veka,_\nArchiv jugo-zapadnoj Rossii, VI, 1, Kiev 1886."
+  citata_rodoma: |
+    — Sužiedėlis, S. : _Žygimantas Kęstutaitis,_ LE, t. 35, 317-
+    324 p. — Szyszman, A. : _Osadnictwo karaimskie na ziemiach Wielkiego
+    Księstwa Litewskiego,_ Vilnius 1936.—Vladimirskij-Budanov, M. F. :
+    _Naselenije jugozapadnoj Rossii ot poloviny XIII do poloviny XVII veka,_
+    Archiv jugo-zapadnoj Rossii, VI, 1, Kiev 1886.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

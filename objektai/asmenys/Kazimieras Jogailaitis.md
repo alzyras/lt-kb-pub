@@ -114,7 +114,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-78983
+    - c-78984
 
 <a id="claim-t-82513"></a>
 - t-005
@@ -165,7 +165,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168112
+    - c-168111
 
 <a id="claim-t-184750"></a>
 - t-008
@@ -440,7 +440,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
     2.
-  citata_rodoma: "1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177"
+  citata_rodoma: |
+    1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -461,7 +462,11 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
     los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-
     dėjamųjų teisių.
-  citata_rodoma: "Bet kadangi, pradedant\n  Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-\n  los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-\n  dėjamųjų teisių."
+  citata_rodoma: |
+    Bet kadangi, pradedant
+      Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
+      los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-
+      dėjamųjų teisių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -477,14 +482,14 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     Kazimieras mirė 65 m. amžiaus, palikęs gausingą šeimą.
     Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs,
     bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
-  citata_rodoma: "Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs, bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė."
+  citata_rodoma: |
+    Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs, bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82512
 - id: c-78984
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -498,7 +503,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     laikotarpis
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
-  citata_rodoma: "I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis"
+  citata_rodoma: |
+    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -506,6 +512,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82507
+    - t-82512
 - id: c-78986
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -515,7 +522,10 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
     valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
     Lenkų karaliui Kazimierui.
-  citata_rodoma: "Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo\n  valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė\n  Lenkų karaliui Kazimierui."
+  citata_rodoma: |
+    Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
+      valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
+      Lenkų karaliui Kazimierui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -533,7 +543,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     4. Kazimiero karaliavimas Lenkijoje ir jo santykiai su
         Lietuva 181
     5.
-  citata_rodoma: "4. Kazimiero karaliavimas Lenkijoje ir jo santykiai su"
+  citata_rodoma: |
+    4. Kazimiero karaliavimas Lenkijoje ir jo santykiai su
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -597,7 +608,24 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     netrukus atvyko į miestą sveikinamas didžiulės minios
     žmonių, karštai trokštančių jį išvysti ir puoselėjančių
     viltį, jog štai galop įsiviešpataus ramybė.
-  citata_rodoma: "Lenkams prieš­\ntaraujant, lietuviai nė nemanė garsinti savo sumanymo,\nbijodami tuo būdu pakenkti kunigaikščiui ir valstybei.\nŠtai todėl jie sumanė pasinaudoti lenkų lengvapėdišku­\nmu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių\nN o rs len k a i p riešin a ­\nsi, p a k e lia m a s V iln iu ­\nje L ietu vo s d id žiu o ju\nk u n igaikščiu\n470\n\n## Puslapis 469\n\nluomai nulydėjo Kazimierą į šv. Stanislovo katedrą, ir\nčia maršalas jį paskelbė Lietuvos didžiuoju kunigaikš­\nčiu, o Vilniaus vyskupas su įprastinėmis apeigomis pa­\nkėlė į sostą."
+  citata_rodoma: |
+    Lenkams prieš­
+    taraujant, lietuviai nė nemanė garsinti savo sumanymo,
+    bijodami tuo būdu pakenkti kunigaikščiui ir valstybei.
+    Štai todėl jie sumanė pasinaudoti lenkų lengvapėdišku­
+    mu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių
+    N o rs len k a i p riešin a ­
+    si, p a k e lia m a s V iln iu ­
+    je L ietu vo s d id žiu o ju
+    k u n igaikščiu
+    470
+
+    ## Puslapis 469
+
+    luomai nulydėjo Kazimierą į šv. Stanislovo katedrą, ir
+    čia maršalas jį paskelbė Lietuvos didžiuoju kunigaikš­
+    čiu, o Vilniaus vyskupas su įprastinėmis apeigomis pa­
+    kėlė į sostą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
 
@@ -625,7 +653,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184749
     - t-184751
 - id: c-168113
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -655,7 +682,32 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     nam len k u i n e k e tin ą s atsa k y ti teisės b ū ti jo palydovu,
     bet tokiu svarbiu L ietu v ai reikalu jis nieko n eg alįs nu­
     tarti be L ietuvos sen ato žinios ir p ritarim o .
-  citata_rodoma: "K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­\ngužės pabaigoje, Mykolas su\n1448 m e ta i\nsk itais įsiv eržė į Severską ir,\nSum u ša M y k o lą  Se-\nsum ušęs greitosiom is sutelk-\nv e r s k e\ntas jėg as, jam  p asto ju sias k e ­\nlią, p aėm ė Brianską, Naugar-\ndą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,\ndar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė\nį Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį\nkarą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų\nžemių. Niekur neberasdamas užtarėjų, M ykolas pasp­\nruko į Maskvą, kur, priim-\nM y k o lo  m irtis\ntas į vienuolyną, kurį m etą\nčia gyv en o  kaip paprastas\n488\n\n## Puslapis 487\n\nžmogus, o galop ir galą gavo, vienuolyno igumenui da­\nvus apnuodytos duonos, kurią krikščionys paprastai var­\ntoja šventajai mišių aukai."
+  citata_rodoma: |
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -690,7 +742,16 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     kiau mėgo medžioklę,
     o ypač taurų, kurių Lenkijoje
     negalima užtikti.
-  citata_rodoma: "Tverė turėjo labai galingas karo\njėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­\nties tūkstančių raitelių. Lietuviams tikrai buvo pavo­\njinga maskvėnų sėkmė, toks smarkus jų augimas kai­\nmynų sąskaita, tačiau karalius Kazimieras, kaip ir visi\nseniai mėgdamas ramybę, po senovei vengė karo. To­\ndėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­\nbomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai\njį pagerbęs, bet nieko doro nepažadėjęs."
+  citata_rodoma: |
+    Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
+    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
+    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
+    seniai mėgdamas ramybę, po senovei vengė karo. To­
+    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
+    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
+    jį pagerbęs, bet nieko doro nepažadėjęs.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -753,7 +814,17 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
     džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
     tiko, nes jis labai mėgo medžioklę.
-  citata_rodoma: "O lenkų ponai neno­\nrėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­\ngailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­\nkijos karalystes, tą vasarą per mūšį su turkais be žinios \ndingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­\nvas, ar ne l3 , ir todėl nenorėjo karalaičio išleisti. Lie­\ntuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą, \napie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­\ndžioklės malonumus. Ir karalaičiui Kazimierui labai pa­\ntiko, nes jis labai mėgo medžioklę."
+  citata_rodoma: |
+    O lenkų ponai neno­
+    rėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­
+    gailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­
+    kijos karalystes, tą vasarą per mūšį su turkais be žinios
+    dingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­
+    vas, ar ne l3 , ir todėl nenorėjo karalaičio išleisti. Lie­
+    tuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą,
+    apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
+    džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
+    tiko, nes jis labai mėgo medžioklę.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -907,7 +978,10 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
     valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
     Lenkų karaliui Kazimierui.
-  citata_rodoma: "Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo\n  valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė\n  Lenkų karaliui Kazimierui."
+  citata_rodoma: |
+    Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
+      valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
+      Lenkų karaliui Kazimierui.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -971,7 +1045,17 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
     džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
     tiko, nes jis labai mėgo medžioklę.
-  citata_rodoma: "O lenkų ponai neno­\nrėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­\ngailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­\nkijos karalystes, tą vasarą per mūšį su turkais be žinios \ndingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­\nvas, ar ne l3 , ir todėl nenorėjo karalaičio išleisti. Lie­\ntuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą, \napie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­\ndžioklės malonumus. Ir karalaičiui Kazimierui labai pa­\ntiko, nes jis labai mėgo medžioklę."
+  citata_rodoma: |
+    O lenkų ponai neno­
+    rėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­
+    gailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­
+    kijos karalystes, tą vasarą per mūšį su turkais be žinios
+    dingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­
+    vas, ar ne l3 , ir todėl nenorėjo karalaičio išleisti. Lie­
+    tuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą,
+    apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
+    džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
+    tiko, nes jis labai mėgo medžioklę.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -986,7 +1070,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     Kazimieras mirė 65 m. amžiaus, palikęs gausingą šeimą.
     Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs,
     bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
-  citata_rodoma: "Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs, bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė."
+  citata_rodoma: |
+    Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs, bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -1006,7 +1091,11 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
     los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-
     dėjamųjų teisių.
-  citata_rodoma: "Bet kadangi, pradedant\n  Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-\n  los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-\n  dėjamųjų teisių."
+  citata_rodoma: |
+    Bet kadangi, pradedant
+      Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
+      los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-
+      dėjamųjų teisių.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -1063,7 +1152,19 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
     gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
     tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
-  citata_rodoma: "tas pats Žy­\ngimantas Vilniaus kapitulai padova­\nnojo Vainelgų dvarą.\n223\n\n## Puslapis 240\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nŽygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­\ntas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­\ngaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­\ntuvai, jis dažniausiai gyveno Trakuose arba Vilniuje."
+  citata_rodoma: |
+    tas pats Žy­
+    gimantas Vilniaus kapitulai padova­
+    nojo Vainelgų dvarą.
+    223
+
+    ## Puslapis 240
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
+    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
+    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
+    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -1082,7 +1183,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
     2.
-  citata_rodoma: "1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177"
+  citata_rodoma: |
+    1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -1102,7 +1204,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     laikotarpis
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
-  citata_rodoma: "I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis"
+  citata_rodoma: |
+    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -1135,7 +1238,23 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     30 narna Magdeburgo, naujai duoda-
     Ši svarbi privilegija yra Vilniaus rne).
     miesto teisių D n b i n s k i o rinkinv-
-  citata_rodoma: "Kadangi pilietinis karas po Vytauto Didžiojo mir­\nties ir žiauri Žygimanto valdžia buvo Vilniaus miesto \nvaldžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę \nbe gyventojų miestą, beveik galutinai sugriovę Magdebur­\ngo teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­\nvo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą \ntvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­\ntoje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du \ndidžiuosius prekymečius, o kas savaitę - įprastus turgus, \ngarantavo miestui didesnes pajamas, dovanodamas jam ne­\nmažą žemės plotą, nusidriekusį išilgai miesto sienos palei \nViliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­\ndien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­\nvilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­\n29\nŽr."
+  citata_rodoma: |
+    Kadangi pilietinis karas po Vytauto Didžiojo mir­
+    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
+    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
+    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
+    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
+    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
+    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
+    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
+    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
+    garantavo miestui didesnes pajamas, dovanodamas jam ne­
+    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
+    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
+    dien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­
+    vilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­
+    29
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
@@ -1175,7 +1294,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     4. Kazimiero karaliavimas Lenkijoje ir jo santykiai su
         Lietuva 181
     5.
-  citata_rodoma: "4. Kazimiero karaliavimas Lenkijoje ir jo santykiai su"
+  citata_rodoma: |
+    4. Kazimiero karaliavimas Lenkijoje ir jo santykiai su
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas

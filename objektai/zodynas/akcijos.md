@@ -122,7 +122,8 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     Kai kuriose žudynėse dalyvavo tik lietuvių pagalbinė policija ir policijos
     savanoriai, tarp jų būta ir kriminalinio elemento, siekusio pasigrobti žydų
     turto – namų, inventoriaus, brangenybių, patalynės, drabužių.
-  citata_rodoma: "Kai kuriose žudynėse dalyvavo tik lietuvių pagalbinė policija ir policijos"
+  citata_rodoma: |
+    Kai kuriose žudynėse dalyvavo tik lietuvių pagalbinė policija ir policijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +141,8 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
     doti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
     akcijų metu.
-  citata_rodoma: "doti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų"
+  citata_rodoma: |
+    doti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

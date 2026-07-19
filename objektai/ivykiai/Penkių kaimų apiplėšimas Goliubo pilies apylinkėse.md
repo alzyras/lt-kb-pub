@@ -141,7 +141,16 @@ Nenurodyta
     Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
     apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
     ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
-  citata_rodoma: "268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262). Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje"
+  citata_rodoma: |
+    268 (261) Apie penkių kaimų apiplėšimą
+
+      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
+    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
+
+
+
+
+       269 (262). Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -168,7 +177,24 @@ Nenurodyta
     Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
     apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
     ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
-  citata_rodoma: "Šis,\nbemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino\npilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,\nkai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.\n\n\n\n\n                   268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262)."
+  citata_rodoma: |
+    Šis,
+    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
+    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
+    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
+
+
+
+
+                       268 (261) Apie penkių kaimų apiplėšimą
+
+      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
+    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
+
+
+
+
+       269 (262).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

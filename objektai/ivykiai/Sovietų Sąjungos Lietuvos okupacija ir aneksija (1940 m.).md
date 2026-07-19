@@ -129,7 +129,8 @@ Nenurodyta
     ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
     netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
     publika.
-  citata_rodoma: "ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę"
+  citata_rodoma: |
+    ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -157,7 +158,8 @@ Nenurodyta
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
-  citata_rodoma: "vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi"
+  citata_rodoma: |
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -176,7 +178,8 @@ Nenurodyta
     krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
     titulai. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
     1940 m.
-  citata_rodoma: "Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,"
+  citata_rodoma: |
+    Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

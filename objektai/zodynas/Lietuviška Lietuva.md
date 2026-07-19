@@ -88,7 +88,12 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
     viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
     valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
     tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
-  citata_rodoma: "Nepriklausomybės karta\nPer nepilnus du dešimtmečius Lietuva galutinai tapo lietu-\nviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos \nvalstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-\ntuviškai kalbanti Lietuva – iš esmės įgyvendintas."
+  citata_rodoma: |
+    Nepriklausomybės karta
+    Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
+    viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
+    valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
+    tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -115,7 +120,15 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
     vėl gyventi laisvėje duos jėgų išsaugoti gimtąją kalbą, kultūrą, kai greitai
     besisukdamos juodos svastikos ir raudonas pjautuvas ims kapoti galvas
     geriausioms tautos dukterims ir sūnums.
-  citata_rodoma: "Kauno sporto halėje 1939 m. Lietuvos vyrų \nkrepšinio rinktinė antrą kartą tapo Europos čempionais\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n177\nLietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias \ntautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia, \nkokia yra. Gana tipiškas to meto Europai A."
+  citata_rodoma: |
+    Kauno sporto halėje 1939 m. Lietuvos vyrų
+    krepšinio rinktinė antrą kartą tapo Europos čempionais
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    177
+    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
+    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
+    kokia yra. Gana tipiškas to meto Europai A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

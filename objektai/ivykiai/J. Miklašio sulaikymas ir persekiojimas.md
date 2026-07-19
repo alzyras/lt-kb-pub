@@ -86,7 +86,30 @@ Nenurodyta
     išsiaiškino, bet persekiojimai iš lenkų pusēs bei
     smulkios intrigos nesiliovē ir jis priverstas buvo
     persikelt vidun Maskolijos.
-  citata_rodoma: "Vienas jaunas lietuvis*, išsimo­\nkinęs tulą šaką techniškos chemijos speciališkuose \ninstitutuos Vokietijos, Prancuzijos ir Anglijos, \nLietuvon sugrįżo, geisdam as u żsiimt labai naudin­\ngu tu lam kraštui fabrikišku veiklumu. B et jau uż- \nrubeżēje, susitikdam as su tulos patriotiškos spalvos \nlenkais, jis buvo użsitraukęs ant savęs nuotartį, buk\n* J. Miklašis\n\njis lenkiškiemsiems politiškiems idealams neištiki­\nm as esąs ir iš prieżasties melagingo skundo jau ant \nrubeżiaus, Maskolijon grįżtant, sulaikytas tapo. \nReikalas, żinoma, išsiaiškino, bet nuo to lengviaus \nnepasidarē. \nKada jis użsimanē pritraukt prie sa­\nvo użmanymo kelis turtingesnius ukininkus, ant jo \npadaryta svarbią denunciaciją, buk jis „prieš val­\ndżią maištan traukia ukininkus.” \nPateko po poli­\ncijos prieżiura — tu lam laikui praējus vēl reikalas \nišsiaiškino, bet persekiojimai iš lenkų pusēs bei \nsmulkios intrigos nesiliovē ir jis priverstas buvo \npersikelt vidun Maskolijos."
+  citata_rodoma: |
+    Vienas jaunas lietuvis*, išsimo­
+    kinęs tulą šaką techniškos chemijos speciališkuose
+    institutuos Vokietijos, Prancuzijos ir Anglijos,
+    Lietuvon sugrįżo, geisdam as u żsiimt labai naudin­
+    gu tu lam kraštui fabrikišku veiklumu. B et jau uż-
+    rubeżēje, susitikdam as su tulos patriotiškos spalvos
+    lenkais, jis buvo użsitraukęs ant savęs nuotartį, buk
+    * J. Miklašis
+
+    jis lenkiškiemsiems politiškiems idealams neištiki­
+    m as esąs ir iš prieżasties melagingo skundo jau ant
+    rubeżiaus, Maskolijon grįżtant, sulaikytas tapo.
+    Reikalas, żinoma, išsiaiškino, bet nuo to lengviaus
+    nepasidarē.
+    Kada jis użsimanē pritraukt prie sa­
+    vo użmanymo kelis turtingesnius ukininkus, ant jo
+    padaryta svarbią denunciaciją, buk jis „prieš val­
+    dżią maištan traukia ukininkus.”
+    Pateko po poli­
+    cijos prieżiura — tu lam laikui praējus vēl reikalas
+    išsiaiškino, bet persekiojimai iš lenkų pusēs bei
+    smulkios intrigos nesiliovē ir jis priverstas buvo
+    persikelt vidun Maskolijos.
   statusas: verified
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas

@@ -56,7 +56,8 @@ Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
     išgelbėti ar išgyveno apie 8 000, dar apie 8–9000 liko gyvi, nes spėjo pa-
     sitraukti į SSRS gilumą. Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
     žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
-  citata_rodoma: "žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos."
+  citata_rodoma: |
+    žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

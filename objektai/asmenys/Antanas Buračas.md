@@ -80,7 +80,8 @@ media_all_json: |-
     Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už
     įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
     ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
-  citata_rodoma: "miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti"
+  citata_rodoma: |
+    miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

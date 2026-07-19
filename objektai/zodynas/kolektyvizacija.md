@@ -116,7 +116,11 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     Unifikuodami visų sovietinių respublikų gyvenimą, sovie-
     tai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad
     žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.
-  citata_rodoma: "Ekonomikos susovietinimas\nUnifikuodami visų sovietinių respublikų gyvenimą, sovie-\ntai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad\nžemės ūkyje turėjo būti steigiami kolektyviniai ūkiai."
+  citata_rodoma: |
+    Ekonomikos susovietinimas
+    Unifikuodami visų sovietinių respublikų gyvenimą, sovie-
+    tai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad
+    žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +140,12 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     ninkai versti persikraustyti į kaimo vietovėje kuriamas kolektyvines gy-
     venvietes (jose aplinkiniai vieni apie kitus viską žinojo ir buvo valdžios
     kontroliuojami) arba keltis į miestelius ir miestus.
-  citata_rodoma: "Per likusį\nsovietmetį masiškai naikintos valstiečių vienkiemių sodybos, o jų savi-\nninkai versti persikraustyti į kaimo vietovėje kuriamas kolektyvines gy-\nvenvietes (jose aplinkiniai vieni apie kitus viską žinojo ir buvo valdžios\nkontroliuojami) arba keltis į miestelius ir miestus."
+  citata_rodoma: |
+    Per likusį
+    sovietmetį masiškai naikintos valstiečių vienkiemių sodybos, o jų savi-
+    ninkai versti persikraustyti į kaimo vietovėje kuriamas kolektyvines gy-
+    venvietes (jose aplinkiniai vieni apie kitus viską žinojo ir buvo valdžios
+    kontroliuojami) arba keltis į miestelius ir miestus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -179,7 +188,11 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     kių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui. Smuko
     aukšta tikinčiojo į Dievą valstiečio moralė, kai kurie savo sunkią dalią
     ėmė laistyti degtine.
-  citata_rodoma: "derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po\n20 metų. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,\nmažai uždirbdami, nepaisydami didelių bausmių, pradėjo vogti iš kolū-\nkių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui."
+  citata_rodoma: |
+    derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po
+    20 metų. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,
+    mažai uždirbdami, nepaisydami didelių bausmių, pradėjo vogti iš kolū-
+    kių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

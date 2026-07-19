@@ -92,7 +92,10 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
     Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai
         pamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi
         tauta, gudais vadinama, varu iš Azijos išvaryta ar šių turtų pasmilusi^82 , niekšai to nežino.
-  citata_rodoma: "Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai\npamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi\ntauta, gudais vadinama, varu iš Azijos išvaryta ar šių turtų pasmilusi^82 , niekšai to nežino."
+  citata_rodoma: |
+    Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai
+    pamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi
+    tauta, gudais vadinama, varu iš Azijos išvaryta ar šių turtų pasmilusi^82 , niekšai to nežino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +111,10 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
     Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,
         Kimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj
         paskendę.
-  citata_rodoma: "Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,\nKimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj\npaskendę."
+  citata_rodoma: |
+    Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,
+    Kimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj
+    paskendę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

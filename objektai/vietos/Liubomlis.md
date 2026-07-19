@@ -80,7 +80,9 @@ Teodoro Sanguškos dalis buvo Liubomlis.
     riteris, Osterodės43 komtūras, vardu Libestinas43; jis
     buvo didžiojo kunigaikščio Kęstučio kūmas44, jo duk­
     ters, kunigaikštienės Jonušienės45, krikštatėvis.
-  citata_rodoma: "Šeštas—Teodoras 1 2  \nSanguška l3 , jo dalis — Liubomlis M ."
+  citata_rodoma: |
+    Šeštas—Teodoras 1 2
+    Sanguška l3 , jo dalis — Liubomlis M .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

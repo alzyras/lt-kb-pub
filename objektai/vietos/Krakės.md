@@ -72,7 +72,8 @@ Krakės šiame šaltinyje yra miestelis ar gyvenvietė.
     tekiniams, pasagoms, vinims,
     grandims, net kubilams lankų, vis
     kitokia geležis.
-  citata_rodoma: "„Vieną sykį tėvas, parvažiavęs iš Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:“"
+  citata_rodoma: |
+    „Vieną sykį tėvas, parvažiavęs iš Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:“
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

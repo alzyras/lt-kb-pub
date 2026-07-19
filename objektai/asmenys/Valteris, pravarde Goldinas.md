@@ -114,7 +114,14 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
     jį sužeidė, vis dėlto sulaukdamas deramo atkirčio, nes brolis Henrikas jį mirtinai sužeidė.
     Pagrobęs brolio Henriko žirgą, tas rusas pasitraukė, tačiau brolis Valteris, sekdamas jam
     iš žaizdų srūvančio kraujo pėdsakais, surado jį ir nudėjo.
-  citata_rodoma: "Apie Gardino pilies apylinkių bei jos papilio nusiaubimą\n\n  1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe\nbrolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias\npėdas; jomis nusekė su būreliu ginklanešių brolis Valteris, pravarde Goldinas, ir visus\nišžudė, išskyrus vieną, kuris bėgdamas nusigavo iki brolio Henriko iš Vederės ir sunkiai\njį sužeidė, vis dėlto sulaukdamas deramo atkirčio, nes brolis Henrikas jį mirtinai sužeidė."
+  citata_rodoma: |
+    Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
+
+      1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe
+    brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias
+    pėdas; jomis nusekė su būreliu ginklanešių brolis Valteris, pravarde Goldinas, ir visus
+    išžudė, išskyrus vieną, kuris bėgdamas nusigavo iki brolio Henriko iš Vederės ir sunkiai
+    jį sužeidė, vis dėlto sulaukdamas deramo atkirčio, nes brolis Henrikas jį mirtinai sužeidė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -137,7 +144,11 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
     iš žaizdų srūvančio kraujo pėdsakais, surado jį ir nudėjo. Kitą dieną broliai persikėlė per
     užšalusį Nemuną ir įsiveržė į Gardino pilies apylinkes bei papilį, degindami ir piešdami;
     neskaitant užmuštųjų, jie išsivarė į nelaisvę 200 žmonių.
-  citata_rodoma: "Pagrobęs brolio Henriko žirgą, tas rusas pasitraukė, tačiau brolis Valteris, sekdamas jam\niš žaizdų srūvančio kraujo pėdsakais, surado jį ir nudėjo. Kitą dieną broliai persikėlė per\nužšalusį Nemuną ir įsiveržė į Gardino pilies apylinkes bei papilį, degindami ir piešdami;\nneskaitant užmuštųjų, jie išsivarė į nelaisvę 200 žmonių."
+  citata_rodoma: |
+    Pagrobęs brolio Henriko žirgą, tas rusas pasitraukė, tačiau brolis Valteris, sekdamas jam
+    iš žaizdų srūvančio kraujo pėdsakais, surado jį ir nudėjo. Kitą dieną broliai persikėlė per
+    užšalusį Nemuną ir įsiveržė į Gardino pilies apylinkes bei papilį, degindami ir piešdami;
+    neskaitant užmuštųjų, jie išsivarė į nelaisvę 200 žmonių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

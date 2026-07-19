@@ -300,7 +300,20 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
     praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
     europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: "Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–\n1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus \nKatalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-\nriją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais \nbuvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-\ntintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad \nparašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo \nveikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius – \npraktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo \neuropietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-\ncinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-\ntuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo \nbene pirmą kartą."
+  citata_rodoma: |
+    Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
+    1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
+    Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
+    riją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-
+    cinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-
+    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
+    bene pirmą kartą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -320,7 +333,13 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     visomis prasmėmis artimu ir neginčijamu autoritetu. Tad nebūdamas
     politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
     padarė bene didesnę įtaką, nei kas nors kitas.
-  citata_rodoma: "Tad nebūdamas \npolitiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje \npadarė bene didesnę įtaką, nei kas nors kitas. Ugdydamas liaudies išti-\nkimybę savo kalbai ir kultūrai, jis niekur nepasisakė ir prieš lenkiškai \nkalbančiuosius, savo dienoraštį rašė lenkiškai, o pasirašydavo lenkiška \nmaniera – Wolonczewski."
+  citata_rodoma: |
+    Tad nebūdamas
+    politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
+    padarė bene didesnę įtaką, nei kas nors kitas. Ugdydamas liaudies išti-
+    kimybę savo kalbai ir kultūrai, jis niekur nepasisakė ir prieš lenkiškai
+    kalbančiuosius, savo dienoraštį rašė lenkiškai, o pasirašydavo lenkiška
+    maniera – Wolonczewski.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -341,7 +360,26 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     remdamasis kituose katalikiškuo-
     se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
-  citata_rodoma: "M. Valančius pasirūpino, kad \nkunigai turėtų pagarbų požiūrį į \nlietuviškai kalbančią liaudį, gerai \nišmoktų lietuviškai ir sakytų pa-\nmokslus lietuviškai, davė nurody-\nmą kunigams prie bažnyčių steigti \nlietuviškas mokyklas. O vyskupija \ntuomet apėmė didžiąją dalį etni-\nnės Lietuvos, ne tik Žemaitiją. Tos \nmokyklos visiškai nukonkuravo \nvaldiškas mokyklas rusų kalba. \nKai kuriose vietovėse mokančių \nskaityti procentas padidėjo iki \n60 – baudžiavinio kaimo sąlygo-\nmis tai fantastiškas skaičius. Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį."
+  citata_rodoma: |
+    M. Valančius pasirūpino, kad
+    kunigai turėtų pagarbų požiūrį į
+    lietuviškai kalbančią liaudį, gerai
+    išmoktų lietuviškai ir sakytų pa-
+    mokslus lietuviškai, davė nurody-
+    mą kunigams prie bažnyčių steigti
+    lietuviškas mokyklas. O vyskupija
+    tuomet apėmė didžiąją dalį etni-
+    nės Lietuvos, ne tik Žemaitiją. Tos
+    mokyklos visiškai nukonkuravo
+    valdiškas mokyklas rusų kalba.
+    Kai kuriose vietovėse mokančių
+    skaityti procentas padidėjo iki
+    60 – baudžiavinio kaimo sąlygo-
+    mis tai fantastiškas skaičius. Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -359,7 +397,10 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     ir neleisti vaikų į tas mokyklas. Vyskupui Valančiui para-
     ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
     lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
-  citata_rodoma: "Vyskupui Valančiui para-\nginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma\nlenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų."
+  citata_rodoma: |
+    Vyskupui Valančiui para-
+    ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
+    lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -381,7 +422,15 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
-  citata_rodoma: "Lietuvoje didžiausią\npasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-\nmaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-\nkupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie\njos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,\nPanevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-\ngalos dekanatai). Vyskupo raginama, kunigija tapo uoliausia\nblaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas."
+  citata_rodoma: |
+    Lietuvoje didžiausią
+    pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-
+    maičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-
+    kupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie
+    jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,
+    Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
+    galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
+    blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -424,7 +473,12 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     kojimas Antano tretininko", Valančiaus bendradarbio, žemai-
     čių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-
     niškis senelis" ir kitos.
-  citata_rodoma: "Be jų, nemaža reikšmės dar turėjo Valančiaus „Palangos\nJuzė\", „Paaugusių žmonių knygelė\", „Vaikų knygelė\", „Pasa-\nkojimas Antano tretininko\", Valančiaus bendradarbio, žemai-\nčių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-\nniškis senelis\" ir kitos."
+  citata_rodoma: |
+    Be jų, nemaža reikšmės dar turėjo Valančiaus „Palangos
+    Juzė", „Paaugusių žmonių knygelė", „Vaikų knygelė", „Pasa-
+    kojimas Antano tretininko", Valančiaus bendradarbio, žemai-
+    čių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-
+    niškis senelis" ir kitos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -442,7 +496,11 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     pradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats
     parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
     nei vargo.
-  citata_rodoma: "Tą darbą\npradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats\nparašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų\nnei vargo."
+  citata_rodoma: |
+    Tą darbą
+    pradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats
+    parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
+    nei vargo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -462,7 +520,12 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.
-  citata_rodoma: "Tuo\nbūdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo\nišleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,\nStrazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)\nraštų."
+  citata_rodoma: |
+    Tuo
+    būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
+    išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
+    Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
+    raštų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

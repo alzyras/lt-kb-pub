@@ -697,7 +697,20 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
     ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
     mis, leisdamas imti trečią grūdą iki gyvos galvos15.
-  citata_rodoma: "Grzybowski, 1. 40), matyti,\n266\n\n## Puslapis 283\n\nIV KNYGA\nVisi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei \nir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­\ngai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­\ntas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius \n1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui \nir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­\nmis, leisdamas imti trečią grūdą iki gyvos galvos15."
+  citata_rodoma: |
+    Grzybowski, 1. 40), matyti,
+    266
+
+    ## Puslapis 283
+
+    IV KNYGA
+    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
+    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
+    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
+    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
+    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
+    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
+    mis, leisdamas imti trečią grūdą iki gyvos galvos15.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -788,7 +801,21 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et
     Haeres.
-  citata_rodoma: "Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et \nHaeres."
+  citata_rodoma: |
+    Valerijonas
+
+    ## Puslapis 394
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
+    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
+    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
+    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
+    1533 METAIS
+    (Iš Vilniaus kapitulos archyvo rankraščių)
+    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
+    aniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et
+    Haeres.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -842,7 +869,20 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     IV KNYGA
     Žygimantas Senasis, apdovanotas proto ir charakterio pri­
     valumais ir tvirtai siekiantis įvesti tvarką.
-  citata_rodoma: "Bet Lietuvos valdymą perėmė karalius\n—  • —\n257\n\n## Puslapis 274\n\n258\n\n## Puslapis 275\n\nIV KNYGA\nŽygimantas Senasis, apdovanotas proto ir charakterio pri­\nvalumais ir tvirtai siekiantis įvesti tvarką."
+  citata_rodoma: |
+    Bet Lietuvos valdymą perėmė karalius
+    —  • —
+    257
+
+    ## Puslapis 274
+
+    258
+
+    ## Puslapis 275
+
+    IV KNYGA
+    Žygimantas Senasis, apdovanotas proto ir charakterio pri­
+    valumais ir tvirtai siekiantis įvesti tvarką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -865,7 +905,14 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
     tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
     jos sostinei tam tikru atžvilgiu buvo naudingas.
-  citata_rodoma: "Tačiau netrukus į Vilnių at­\nvyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio\nkaraliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai\ngrėsusio pilietinio karo.\nTrumpas Aleksandro valdymas, gana nesėkmingas Lie­\ntuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,\njos sostinei tam tikru atžvilgiu buvo naudingas."
+  citata_rodoma: |
+    Tačiau netrukus į Vilnių at­
+    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
+    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
+    grėsusio pilietinio karo.
+    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
+    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
+    jos sostinei tam tikru atžvilgiu buvo naudingas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -915,7 +962,11 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
     Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
     nigaikštis. Ponas ir tėvonis.
-  citata_rodoma: "Taigi \nmes, Žygimantas, DIEVO malone Lenkijos karalius, didysis \nLietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­\nnigaikštis. Ponas ir tėvonis."
+  citata_rodoma: |
+    Taigi
+    mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
+    Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
+    nigaikštis. Ponas ir tėvonis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -967,7 +1018,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
     jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
     tėjimo viršūnės.
-  citata_rodoma: "Tame pačiame seime \nLietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­\nraliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.) \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės."
+  citata_rodoma: |
+    Tame pačiame seime
+    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
+    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
+    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
+    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
+    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
+    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
+    tėjimo viršūnės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -996,7 +1055,22 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     (Iš Vilniaus kapitulos rankraščių)
     Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
     niae, Russiae, Prussiae, Masoviaeq. etc.
-  citata_rodoma: "Dauge­\nliui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę \nir jų liejimo formas bei daugybę įrangos, reikalingos apka­\nsams daryti.\n\n## Puslapis 332\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nV\nKARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA \nPRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI \n1542 METAIS\n(Iš Vilniaus kapitulos rankraščių)\nSigismundus Dei gratia Rex Poloniae Magnus Dux Litua- \nniae, Russiae, Prussiae, Masoviaeq."
+  citata_rodoma: |
+    Dauge­
+    liui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę
+    ir jų liejimo formas bei daugybę įrangos, reikalingos apka­
+    sams daryti.
+
+    ## Puslapis 332
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    V
+    KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA
+    PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI
+    1542 METAIS
+    (Iš Vilniaus kapitulos rankraščių)
+    Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
+    niae, Russiae, Prussiae, Masoviaeq.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1081,7 +1155,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     šviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­
     džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
     mų bei teisių globą (protectio).
-  citata_rodoma: "Šiam ponui kunigaikščiui\nŽygimantui, broliui ir paveldėtojui, mūsų įpėdiniui ir ypa­\ntingosios paskutinės valios vykdytojui bei visiems karalys­\ntės ir Lietuvos Didžiosios Kunigaikštystės prelatams ir tei­\nsėjams atskirai (specialiter) perduodame ir patikime\nšviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­\ndžiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­\nmų bei teisių globą (protectio)."
+  citata_rodoma: |
+    Šiam ponui kunigaikščiui
+    Žygimantui, broliui ir paveldėtojui, mūsų įpėdiniui ir ypa­
+    tingosios paskutinės valios vykdytojui bei visiems karalys­
+    tės ir Lietuvos Didžiosios Kunigaikštystės prelatams ir tei­
+    sėjams atskirai (specialiter) perduodame ir patikime
+    šviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­
+    džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
+    mų bei teisių globą (protectio).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1146,7 +1228,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
-  citata_rodoma: "sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko"
+  citata_rodoma: |
+    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1186,7 +1269,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     sentias, quamobrem Mandatum dudum denegaveris ut tuus
     quoque assensus ad ejusmodi confirmationem obtinendam non
     accederet.
-  citata_rodoma: "## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS\nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI\n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio\nkodekso buv."
+  citata_rodoma: |
+    ## Puslapis 390
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    LENKIJOS KARALIUS ŽYGIMANTAS
+    VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI
+    1514 METAI
+    (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
+    kodekso buv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1255,7 +1346,33 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     1514 METAI
     (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
     kodekso buv.
-  citata_rodoma: "Ten pat dalyvaujant Vilniaus vyskupui di­\ndžiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­\nsiems, garbingiesiems, prakilniesiems ir kilmingiesiems - \nTrakų vaivadai Mikalojui Mikolajevičiui, Trakų kaštelionui \nir Žemaičių seniūnui Stanislovui Janavičiui, Gniezno baž­\nnyčios ir mūsų karalystės kancleriui Jonui iš Lasko (Laszko), \ndidžiajam maršalkai Jonui Jurgevičiui iš Zabrežjės, mūsų Di­\ndžiosios Kunigaikštystės lauko etmonui Stanislovui Kiškai, \nmūsų Lietuvos rūmų maršalkai kunigaikščiui Mykolui Lvo- \nvičiui Glinskiui, Vilniaus vaivada Jonui Mikolajevičiui, Sta­\nnislovui Janavičiui iš Zabrežjės, mūsų gydytojui, Gniezno \nkanauninkui Motiejui iš Blonių, karalystės rūmų iždininkui \nStanislovui Milanovskiui, mūsų Didžiosios Kunigaikštystės \nrūmų pakamariui ir Petrui Narbutavičiui, mūsų dvariškiui \nMartynui Volskiui ir daugeliui kitų mūsų tarėjų ir rūminin­\nkų, specialiai pakviestų liudininkų, nuoširdžiai ištikimų ir \nmums mielų.\n\n## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS \nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI \n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio \nkodekso buv."
+  citata_rodoma: |
+    Ten pat dalyvaujant Vilniaus vyskupui di­
+    džiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­
+    siems, garbingiesiems, prakilniesiems ir kilmingiesiems -
+    Trakų vaivadai Mikalojui Mikolajevičiui, Trakų kaštelionui
+    ir Žemaičių seniūnui Stanislovui Janavičiui, Gniezno baž­
+    nyčios ir mūsų karalystės kancleriui Jonui iš Lasko (Laszko),
+    didžiajam maršalkai Jonui Jurgevičiui iš Zabrežjės, mūsų Di­
+    džiosios Kunigaikštystės lauko etmonui Stanislovui Kiškai,
+    mūsų Lietuvos rūmų maršalkai kunigaikščiui Mykolui Lvo-
+    vičiui Glinskiui, Vilniaus vaivada Jonui Mikolajevičiui, Sta­
+    nislovui Janavičiui iš Zabrežjės, mūsų gydytojui, Gniezno
+    kanauninkui Motiejui iš Blonių, karalystės rūmų iždininkui
+    Stanislovui Milanovskiui, mūsų Didžiosios Kunigaikštystės
+    rūmų pakamariui ir Petrui Narbutavičiui, mūsų dvariškiui
+    Martynui Volskiui ir daugeliui kitų mūsų tarėjų ir rūminin­
+    kų, specialiai pakviestų liudininkų, nuoširdžiai ištikimų ir
+    mums mielų.
+
+    ## Puslapis 390
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    LENKIJOS KARALIUS ŽYGIMANTAS
+    VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI
+    1514 METAI
+    (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
+    kodekso buv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1351,7 +1468,17 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
     niae, Russiae, Prussiae, Masoviaeq. etc. Dominus et haeres.
     Significamus tenore praesentium, quibus expedit universis.
-  citata_rodoma: "## Puslapis 332\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nV\nKARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA\nPRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI\n1542 METAIS\n(Iš Vilniaus kapitulos rankraščių)\nSigismundus Dei gratia Rex Poloniae Magnus Dux Litua-\nniae, Russiae, Prussiae, Masoviaeq."
+  citata_rodoma: |
+    ## Puslapis 332
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    V
+    KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA
+    PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI
+    1542 METAIS
+    (Iš Vilniaus kapitulos rankraščių)
+    Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
+    niae, Russiae, Prussiae, Masoviaeq.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

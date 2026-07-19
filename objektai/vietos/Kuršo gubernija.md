@@ -94,7 +94,17 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
     Sukilėlių pajėgos
     Sukilėlių galėjo būti nuo 1500 iki
     2500 karių.
-  citata_rodoma: "Kitas svarbus sukilėlių uždavi-\nnys - paimti į savo rankas Kuršo guber-\nnijos vakarinės dalies kontrolę, kad būtų\nužtikrintas laivo su ginklais priėmimas iš\nVakarų Europos. Teofilio Lapinskio vado-\nvaujama ekspedicija laivu turėjo atgabenti\n\nSukilėlių pajėgos\nSukilėlių galėjo būti nuo 1500 iki\n2500 karių."
+  citata_rodoma: |
+    Kitas svarbus sukilėlių uždavi-
+    nys - paimti į savo rankas Kuršo guber-
+    nijos vakarinės dalies kontrolę, kad būtų
+    užtikrintas laivo su ginklais priėmimas iš
+    Vakarų Europos. Teofilio Lapinskio vado-
+    vaujama ekspedicija laivu turėjo atgabenti
+
+    Sukilėlių pajėgos
+    Sukilėlių galėjo būti nuo 1500 iki
+    2500 karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

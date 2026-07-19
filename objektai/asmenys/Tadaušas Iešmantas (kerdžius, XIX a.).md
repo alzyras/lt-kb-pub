@@ -121,7 +121,8 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites
     karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: bari­
     nė, ingelčikas, suktinis.
-  citata_rodoma: "Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis."
+  citata_rodoma: |
+    Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis.
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
@@ -143,7 +144,8 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     ligi 1864 metų, tada, jau apysenis, gavo trijų hektarų bobelynę, vedė
     žmoną, pasistatė trobą, įsigijo gyvulių, (mat, turėta iš ko) ir pasenęs,
     kaimiečių gerbiamas, pabaigė savo amželį.
-  citata_rodoma: "Ganė ligi 1864 metų, tada, jau apysenis, gavo trijų hektarų bobelynę, vedė žmoną, pasistatė trobą, įsigijo gyvulių, (mat, turėta iš ko) ir pasenęs, kaimiečių gerbiamas, pabaigė savo amželį."
+  citata_rodoma: |
+    Ganė ligi 1864 metų, tada, jau apysenis, gavo trijų hektarų bobelynę, vedė žmoną, pasistatė trobą, įsigijo gyvulių, (mat, turėta iš ko) ir pasenęs, kaimiečių gerbiamas, pabaigė savo amželį.
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
@@ -165,7 +167,8 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu
     plikyti į kulnus, turi luptis. Buvo linksmo būdo, dainavo savo kompo­
     nuotas dainas.
-  citata_rodoma: "Buvo linksmo būdo, dainavo savo komponuotas dainas."
+  citata_rodoma: |
+    Buvo linksmo būdo, dainavo savo komponuotas dainas.
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
@@ -184,7 +187,8 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio
     duonos nevalgęs, kaip iš ganymo. Nuo mažystės ligi vyro tarnavo pie­
     meniu, iš piemenų pastojo į kerdžius.
-  citata_rodoma: "Nuo mažystės ligi vyro tarnavo piemeniu, iš piemenų pastojo į kerdžius."
+  citata_rodoma: |
+    Nuo mažystės ligi vyro tarnavo piemeniu, iš piemenų pastojo į kerdžius.
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
@@ -203,7 +207,8 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     vienrankis, gimęs ir augęs tame pačiame kaime. Dešinė ranka maža ir
     nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio
     duonos nevalgęs, kaip iš ganymo.
-  citata_rodoma: "Mūsų kerdžius, Tadaušas Iešmantas, vienrankis, gimęs ir augęs tame pačiame kaime. Dešinė ranka maža ir nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio duonos nevalgęs, kaip iš ganymo."
+  citata_rodoma: |
+    Mūsų kerdžius, Tadaušas Iešmantas, vienrankis, gimęs ir augęs tame pačiame kaime. Dešinė ranka maža ir nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio duonos nevalgęs, kaip iš ganymo.
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas

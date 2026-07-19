@@ -97,7 +97,12 @@ media_all_json: |-
     žiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­
     polio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­
     polito.
-  citata_rodoma: "Apie pusę tų laikų didž. Lietuvos kunigaikštijos gyventojų\nbuvo rusų kilmės ir graikų tikybos arba, kaip paskutiniais am­\nžiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­\npolio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­\npolito."
+  citata_rodoma: |
+    Apie pusę tų laikų didž. Lietuvos kunigaikštijos gyventojų
+    buvo rusų kilmės ir graikų tikybos arba, kaip paskutiniais am­
+    žiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­
+    polio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­
+    polito.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -118,7 +123,13 @@ media_all_json: |-
     voslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­
     mas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų
     ir vakarų bažnyčių unijos idėją.
-  citata_rodoma: "Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­\ngonizmą. Vytautas tai matė ir negalėjo nedėti pastangų atitai­\nsyti. Jis nebandė to antagonizmo sušvelninti praplėsdamas pra­\nvoslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­\nmas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų\nir vakarų bažnyčių unijos idėją."
+  citata_rodoma: |
+    Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­
+    gonizmą. Vytautas tai matė ir negalėjo nedėti pastangų atitai­
+    syti. Jis nebandė to antagonizmo sušvelninti praplėsdamas pra­
+    voslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­
+    mas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų
+    ir vakarų bažnyčių unijos idėją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

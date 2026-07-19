@@ -82,7 +82,12 @@ Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Ra
     Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
     valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
     saiką labiau nei pirštų padėjimas ant Evangelijos.
-  citata_rodoma: "Kad nuramintume žmoniškumo gynėjus, turime\n16\nĮrodymui Hartknochas pateikia: Litterae Gregorii Papae IX\n// Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum\n1232. -  Nr. 7."
+  citata_rodoma: |
+    Kad nuramintume žmoniškumo gynėjus, turime
+    16
+    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
+    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
+    1232. -  Nr. 7.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

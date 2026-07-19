@@ -91,12 +91,18 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tuo tarpu paimtuosius neprietelius karėj, užvis vokiečius krikščionis, smarkiai smarkesniai galavo
-        žemyn ar sunkiais darbais lig smerčio novijo^1344 : kaipogi, prie girnų prikalę, liepė jiems tuoįtimpos
-        malti, kartais, daug jų paėmę ir nežinodami kur dėti, pardavojo į vergus gudams ir totoriams,
-        gieždami apmaudą už savo brolius, kuriuos taip pat vokiečiai žudė ir novijo Parusy, liepdami jiems
-        maneliuose^1345 jau griovius kasti ir versmes džiovinti bei pilis dirbti, į kurių bokštus pusgyviams
-        reikėjo tąsyti kalkes nugraužtomis rankomis.
-  citata_rodoma: "Tuo tarpu paimtuosius neprietelius karėj, užvis vokiečius krikščionis, smarkiai smarkesniai galavo\nžemyn ar sunkiais darbais lig smerčio novijo^1344 : kaipogi, prie girnų prikalę, liepė jiems tuoįtimpos\nmalti, kartais, daug jų paėmę ir nežinodami kur dėti, pardavojo į vergus gudams ir totoriams,\ngieždami apmaudą už savo brolius, kuriuos taip pat vokiečiai žudė ir novijo Parusy, liepdami jiems\nmaneliuose^1345 jau griovius kasti ir versmes džiovinti bei pilis dirbti, į kurių bokštus pusgyviams\nreikėjo tąsyti kalkes nugraužtomis rankomis."
+    žemyn ar sunkiais darbais lig smerčio novijo^1344 : kaipogi, prie girnų prikalę, liepė jiems tuoįtimpos
+    malti, kartais, daug jų paėmę ir nežinodami kur dėti, pardavojo į vergus gudams ir totoriams,
+    gieždami apmaudą už savo brolius, kuriuos taip pat vokiečiai žudė ir novijo Parusy, liepdami jiems
+    maneliuose^1345 jau griovius kasti ir versmes džiovinti bei pilis dirbti, į kurių bokštus pusgyviams
+    reikėjo tąsyti kalkes nugraužtomis rankomis
+  citata_rodoma: |
+    Tuo tarpu paimtuosius neprietelius karėj, užvis vokiečius krikščionis, smarkiai smarkesniai galavo
+    žemyn ar sunkiais darbais lig smerčio novijo^1344 : kaipogi, prie girnų prikalę, liepė jiems tuoįtimpos
+    malti, kartais, daug jų paėmę ir nežinodami kur dėti, pardavojo į vergus gudams ir totoriams,
+    gieždami apmaudą už savo brolius, kuriuos taip pat vokiečiai žudė ir novijo Parusy, liepdami jiems
+    maneliuose^1345 jau griovius kasti ir versmes džiovinti bei pilis dirbti, į kurių bokštus pusgyviams
+    reikėjo tąsyti kalkes nugraužtomis rankomis
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

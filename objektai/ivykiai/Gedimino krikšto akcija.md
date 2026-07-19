@@ -76,7 +76,8 @@ Nenurodyta
     poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
     politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
     kėlė bažnytinės unijos idėją.
-  citata_rodoma: "poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine"
+  citata_rodoma: |
+    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

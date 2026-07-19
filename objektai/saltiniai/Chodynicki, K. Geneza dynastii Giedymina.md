@@ -71,7 +71,9 @@ Chodynicki, K.
     nis,_ LE, t. 31, 364-369 p. — Jakštas, J. : _Naujausi Gedimino dinastijos
     kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
     linių studijų).
-  citata_rodoma: "— Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,\n1926, 541-566 p."
+  citata_rodoma: |
+    — Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,
+    1926, 541-566 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

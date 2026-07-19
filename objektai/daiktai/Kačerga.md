@@ -78,7 +78,8 @@ Nenurodyta
     Tam reikalui vienam vaikinui duoda
     į rankas kačergą, kurios gale padaryta storuma, panaši į gervės galvą
     su snapu ir kuodu.
-  citata_rodoma: "Tam reikalui vienam vaikinui duoda į rankas kačergą, kurios gale padaryta storuma, panaši į gervės galvą su snapu ir kuodu."
+  citata_rodoma: |
+    Tam reikalui vienam vaikinui duoda į rankas kačergą, kurios gale padaryta storuma, panaši į gervės galvą su snapu ir kuodu.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

@@ -84,7 +84,10 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     bažnyčiai ir feodalams, norėjusiems pajungti prūsų naujakrikščius. Popiežiaus bulės
     liudija, kad lenkų feodalai, nepaisydami Kristijono nepritarimo, braudavosi į apkrikštytų
     prūsų žemes.
-  citata_rodoma: "Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir\nLanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono\nvaldžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius."
+  citata_rodoma: |
+    Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
+    Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
+    valdžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -116,7 +116,9 @@ media_all_json: |-
     vieną heroizmo pavyzdį, o gal net visą karą galima pavadinti he-
     roizmu. Tiesa, kartais mūsų priešai jį bando vadinti „pilietiniu
     karu“.
-  citata_rodoma: "ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba\nLietuvos-ssRS karu (1945-1953)."
+  citata_rodoma: |
+    ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba
+    Lietuvos-ssRS karu (1945-1953).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

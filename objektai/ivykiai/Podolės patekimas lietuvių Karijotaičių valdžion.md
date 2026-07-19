@@ -90,7 +90,13 @@ Nenurodyta
     XV a. tarp Lietuvos ir Lenkijos ėjo aštrūs ginčai dėl Podolės
     vakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­
     jimas apie Podolės patekimų Lietuvos kunigaikščių valdžion.
-  citata_rodoma: "5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo \nKarpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių \nbaseinų). D ab ar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.\nXV a. tarp Lietuvos ir Lenkijos ėjo  aštrūs ginčai dėl Podolės \nvakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­\njimas apie Podolės patekimų Lietuvos kunigaikščių valdžion."
+  citata_rodoma: |
+    5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo
+    Karpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių
+    baseinų). D ab ar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.
+    XV a. tarp Lietuvos ir Lenkijos ėjo  aštrūs ginčai dėl Podolės
+    vakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­
+    jimas apie Podolės patekimų Lietuvos kunigaikščių valdžion.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

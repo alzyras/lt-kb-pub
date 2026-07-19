@@ -114,7 +114,12 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
     tarp jų kilusi nesantarvė. Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės
     Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji
     po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
-  citata_rodoma: "Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau\nminėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų\nordino broliams Prūsijoje. Samboras, matydamas, kad iš savo dalies negalėsiąs gyventi\ntaip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną\nvisa kuo aprūpintų."
+  citata_rodoma: |
+    Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
+    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
+    ordino broliams Prūsijoje. Samboras, matydamas, kad iš savo dalies negalėsiąs gyventi
+    taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną
+    visa kuo aprūpintų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -206,7 +206,10 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
     buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
     jūros. Tačiau Lenkijai nebuvo taip sunku, kaip Lietuvai.
-  citata_rodoma: "Grėsmingas jis \nbuvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie \njūros. Tačiau Lenkijai nebuvo taip sunku, kaip Lietuvai."
+  citata_rodoma: |
+    Grėsmingas jis
+    buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
+    jūros. Tačiau Lenkijai nebuvo taip sunku, kaip Lietuvai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

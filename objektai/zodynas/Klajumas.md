@@ -67,7 +67,8 @@ Papildomos aiškios formos neišskirtos.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas susirinkęs liuobėjęs melstis^775 , kuriame malkinės^776 ąžuolo medžių sukrautos stovėjusios ugnelei šventai kūrinti.
-  citata_rodoma: "Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas susirinkęs liuobėjęs melstis^775 , kuriame malkinės^776 ąžuolo medžių sukrautos stovėjusios ugnelei šventai kūrinti."
+  citata_rodoma: |
+    Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas susirinkęs liuobėjęs melstis^775 , kuriame malkinės^776 ąžuolo medžių sukrautos stovėjusios ugnelei šventai kūrinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -82,7 +83,8 @@ Papildomos aiškios formos neišskirtos.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių.
-  citata_rodoma: "Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių."
+  citata_rodoma: |
+    Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -66,7 +66,8 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
     SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
     o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
     Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
-  citata_rodoma: "Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“."
+  citata_rodoma: |
+    Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

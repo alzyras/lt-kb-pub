@@ -59,7 +59,8 @@ Sutarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įv
     tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
     belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
-  citata_rodoma: "Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų"
+  citata_rodoma: |
+    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

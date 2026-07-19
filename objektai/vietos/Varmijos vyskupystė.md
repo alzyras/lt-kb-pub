@@ -100,7 +100,16 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     kvietė Vilniaus vys-
     kupas Protasevi-
     čius.
-  citata_rodoma: "Jėzuitų į Lenkiją\natkvietė garsus katali-\nkybės gynėjas Varmi-\njos vyskupas St. Hozi-\njas (1564 m.). Jie buvo\nįkurdinti Varmijos vys-\nkupystės centre Brauns-\nberge, o iš ten paplito\npo visą Lenkiją. 1569"
+  citata_rodoma: |
+    Jėzuitų į Lenkiją
+    atkvietė garsus katali-
+    kybės gynėjas Varmi-
+    jos vyskupas St. Hozi-
+    jas (1564 m.). Jie buvo
+    įkurdinti Varmijos vys-
+    kupystės centre Brauns-
+    berge, o iš ten paplito
+    po visą Lenkiją. 1569
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

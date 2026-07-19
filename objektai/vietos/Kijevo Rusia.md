@@ -473,7 +473,18 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     VILNIAUS MIESTO ISTORIJA I TOMAS
     atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
     minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
-  citata_rodoma: "Iš Rusios,\nGedimino vasalės ar besigiminiavusios, pirkliai į sostinę\n23\nMažesnieji broliai (pranciškonų\natšaka).\n\n## Puslapis 40\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\natveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­\nminyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai."
+  citata_rodoma: |
+    Iš Rusios,
+    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
+    23
+    Mažesnieji broliai (pranciškonų
+    atšaka).
+
+    ## Puslapis 40
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
+    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -527,7 +538,14 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
     Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
     galingiausiu valdovu Šiaurės Europoje.
-  citata_rodoma: "Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­\nrasis, Gedimino vertas įpėdinis, narsa ir proto guvumu\nnenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai\nLietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet\ngalingiausiu valdovu Šiaurės Europoje."
+  citata_rodoma: |
+    Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­
+    rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu
+    nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
+    Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
+    galingiausiu valdovu Šiaurės Europoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -548,7 +566,12 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką. Vėliau lietuvių žygiai
     padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
     į Lenkiją bei Livoniją.
-  citata_rodoma: "Žinoma, kad\n1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per\nkurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką. Vėliau lietuvių žygiai\npadažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir\nį Lenkiją bei Livoniją."
+  citata_rodoma: |
+    Žinoma, kad
+    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką. Vėliau lietuvių žygiai
+    padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
+    į Lenkiją bei Livoniją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -572,7 +595,14 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
     tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
     matus.
-  citata_rodoma: "Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje\nir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­\ndymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno\nLenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­\ndislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­\ntos pasitarimus, taip klodami busimosios šlėktų laisvės pa­\nmatus."
+  citata_rodoma: |
+    Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
+    ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
+    dymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno
+    Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­
+    dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
+    tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
+    matus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -598,7 +628,21 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     jos ginklais, o ne per pasiuntinius. Tegu jie žino, kad
     į šitokį pasiuntinių pareiškimą lietuviai negali duoti
     kitokio atsakymo nei tas, kurį dabar davė".
-  citata_rodoma: "Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią. Karą prieš Skirmantą susimanė rengti Balakla-\njus, naujas Užvolgio skitų kunigaikštis, galimas daib-\ntas, norėdamas išdildyti pri-\nS k irm a n ta s su m u ša\nsiminimus apie pralaimėjimą,\nsk itu s\npatirtą prieš keletą metų;\nteisėtos priežasties, jis išleido pasiuntinius, turėjusius\npareikalauti iš Rusios duoklės."
+  citata_rodoma: |
+    Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -662,7 +706,18 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     lystę. Gerai žinau, kad, pasak kurių ne kurių metrašti­
     ninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,
     kad troško išgarsėti ir išplėsti savo valdžią.
-  citata_rodoma: "Gerai žinau, kad, pasak kurių ne kurių metrašti­\nninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,\nkad troško išgarsėti ir išplėsti savo valdžią. Vis dėlto\ngarbės jausmą jis puikiausiai galėjo patenkinti karuo­\nse su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos\ntie, kurie sako, kad jis pradėjo karą su skitais, rūpin­\ndamasis apginti Rusią. Mat Tamerlanas, nuniokojęs\ndidelę pasaulio dalį ir sutriuškinęs turko Bajazito ga­\nlybę, sukėlė visose karalystėse didžiulį siaubą, pirmiau­\nsia jis įvarė baimės kaimyninei Rusiai, ne kartą paty­\nrusiai pražūtingą skitų jėgą."
+  citata_rodoma: |
+    Gerai žinau, kad, pasak kurių ne kurių metrašti­
+    ninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,
+    kad troško išgarsėti ir išplėsti savo valdžią. Vis dėlto
+    garbės jausmą jis puikiausiai galėjo patenkinti karuo­
+    se su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos
+    tie, kurie sako, kad jis pradėjo karą su skitais, rūpin­
+    damasis apginti Rusią. Mat Tamerlanas, nuniokojęs
+    didelę pasaulio dalį ir sutriuškinęs turko Bajazito ga­
+    lybę, sukėlė visose karalystėse didžiulį siaubą, pirmiau­
+    sia jis įvarė baimės kaimyninei Rusiai, ne kartą paty­
+    rusiai pražūtingą skitų jėgą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

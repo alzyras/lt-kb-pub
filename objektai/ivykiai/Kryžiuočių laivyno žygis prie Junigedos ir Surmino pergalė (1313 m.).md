@@ -234,7 +234,29 @@ Nenurodyta
     neštas prie pilies kranto, būtų beveik pats patekęs į
     pilies gynėjų rankas, jeigu atplaukę kiti laivai ir upės
     srovė nebūtų jo iš pavojaus išplėšę ir išgelbėję.
-  citata_rodoma: "Bisenės užpuolimas buvo nar­\nsiai pilėnų atremtas; smarkiai sumuštas ir didelės ka­\nrių dalies netekęs priešas buvo priverstas pasitraukti\nnieko nepešęs. Kadangi stip-\n1313 m e ta i\nriausios lietuvių pilys buvo\nprie Nemuno bei kitų upių,\nVerneris, Ragainės komtūras, patarė kryžiuočiams jas\nvieną po kitos pulti laivais, įtikinėdamas, kad į van­\ndens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­\nprastai menkiau sutvirtinti ir lengviau prieinami. To­\ndėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­\nma panašus į tvirtovę — su\nP a sista tę la iv ų , k iy -\ndantytais bortais, už kurių\nžiu o č ia i p u o la  lietu -\nkrantą bei pylimą puolančius\nv iu s\nkarius galima geriau apsau­\ngoti nuo iečių bei strėlių ir\ngeriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į\npriešą, stovintį krante."
+  citata_rodoma: |
+    Bisenės užpuolimas buvo nar­
+    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
+    rių dalies netekęs priešas buvo priverstas pasitraukti
+    nieko nepešęs. Kadangi stip-
+    1313 m e ta i
+    riausios lietuvių pilys buvo
+    prie Nemuno bei kitų upių,
+    Verneris, Ragainės komtūras, patarė kryžiuočiams jas
+    vieną po kitos pulti laivais, įtikinėdamas, kad į van­
+    dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
+    prastai menkiau sutvirtinti ir lengviau prieinami. To­
+    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
+    ma panašus į tvirtovę — su
+    P a sista tę la iv ų , k iy -
+    dantytais bortais, už kurių
+    žiu o č ia i p u o la  lietu -
+    krantą bei pylimą puolančius
+    v iu s
+    karius galima geriau apsau­
+    goti nuo iečių bei strėlių ir
+    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
+    priešą, stovintį krante.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -274,7 +296,29 @@ Nenurodyta
     tyręs kaip reta kas karvedys,
     paskiriamas vadu. Jis su šimtu mažesnių laivų pasivijo
     priešą, plaukiantį pasroviui.
-  citata_rodoma: "To­\ndėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­\nma panašus į tvirtovę — su\nP a sista tę la iv ų , k iy -\ndantytais bortais, už kurių\nžiu o č ia i p u o la  lietu -\nkrantą bei pylimą puolančius\nv iu s\nkarius galima geriau apsau­\ngoti nuo iečių bei strėlių ir\ngeriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į\npriešą, stovintį krante. Pirmiausia su šia judama tvir­\ntove ir visu parengtu kovai laivynu patraukė prie Ju-\nnigedos, kur tas didysis laivas, smarkios audros nu­\nneštas prie pilies kranto, būtų beveik pats patekęs į\npilies gynėjų rankas, jeigu atplaukę kiti laivai ir upės\nsrovė nebūtų jo iš pavojaus išplėšę ir išgelbėję. Vy­\ntenis, gavęs apie tai žinią, įsakė savo kariams visomis\nišgalėmis pulti ir nesiliauti, kol neatliks uždavinio —\nnesudegins viso priešo laivy-\nS u rm in as n u v e ja  k iy -\nno."
+  citata_rodoma: |
+    To­
+    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
+    ma panašus į tvirtovę — su
+    P a sista tę la iv ų , k iy -
+    dantytais bortais, už kurių
+    žiu o č ia i p u o la  lietu -
+    krantą bei pylimą puolančius
+    v iu s
+    karius galima geriau apsau­
+    goti nuo iečių bei strėlių ir
+    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
+    priešą, stovintį krante. Pirmiausia su šia judama tvir­
+    tove ir visu parengtu kovai laivynu patraukė prie Ju-
+    nigedos, kur tas didysis laivas, smarkios audros nu­
+    neštas prie pilies kranto, būtų beveik pats patekęs į
+    pilies gynėjų rankas, jeigu atplaukę kiti laivai ir upės
+    srovė nebūtų jo iš pavojaus išplėšę ir išgelbėję. Vy­
+    tenis, gavęs apie tai žinią, įsakė savo kariams visomis
+    išgalėmis pulti ir nesiliauti, kol neatliks uždavinio —
+    nesudegins viso priešo laivy-
+    S u rm in as n u v e ja  k iy -
+    no.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -311,7 +355,21 @@ Nenurodyta
     pas savuosius, įvarydami kry­
     žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
     būta baimės nei pavojaus.
-  citata_rodoma: "Abi pusės stojo į atkaklų\nmūšį. Smarkiausia ir sunkiausia kova vyko prie to di­\ndžiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau\n191\n\n## Puslapis 190\n\njis, nukirtus inkarų virves, buvo srovės užneštas ant\nseklumos, kur vos nesudužo, čia jį galop lietuviai už­\nėmė ir sudegino. Surminas grįžo pas valdovą nugalė­\ntoju, visiems nešdamas džiaugsmą, o pats slėpdamas\nširdyje liūdesį, nes šioje pergalingoje kovoje jis ne­\nteko savo brolio Goštauto drauge su kitais narsiais\nkariais."
+  citata_rodoma: |
+    Abi pusės stojo į atkaklų
+    mūšį. Smarkiausia ir sunkiausia kova vyko prie to di­
+    džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
+    191
+
+    ## Puslapis 190
+
+    jis, nukirtus inkarų virves, buvo srovės užneštas ant
+    seklumos, kur vos nesudužo, čia jį galop lietuviai už­
+    ėmė ir sudegino. Surminas grįžo pas valdovą nugalė­
+    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
+    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
+    teko savo brolio Goštauto drauge su kitais narsiais
+    kariais.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

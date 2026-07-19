@@ -523,7 +523,10 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     **Pastangos sutvarkyti ūkį.** XVI amžiuje vakaruose Lietuva
     karų jau nebeturėjo. Pasibaigus karams su vokiečių ordinu, atsi-
     darė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.
-  citata_rodoma: "**Pastangos sutvarkyti ūkį.** XVI amžiuje vakaruose Lietuva\nkarų jau nebeturėjo. Pasibaigus karams su vokiečių ordinu, atsi-\ndarė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba."
+  citata_rodoma: |
+    **Pastangos sutvarkyti ūkį.** XVI amžiuje vakaruose Lietuva
+    karų jau nebeturėjo. Pasibaigus karams su vokiečių ordinu, atsi-
+    darė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -551,7 +554,22 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
     iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
     išsaugojo gryniausius savo padermės bruožus.
-  citata_rodoma: "Iš tokio \ntrijų skirtingų kilmių gyventojų maišymosi ir samplaikos \nradosi nauja pasienio tauta, kuri senovės geografų ilgai bu­\nvo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje \nLietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba \ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos \niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki \nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina, \nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu \npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija, \niki pat Baltijos jūros siekianti, kaip lietuvių genties centras, \nišsaugojo gryniausius savo padermės bruožus."
+  citata_rodoma: |
+    Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -574,7 +592,17 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje
     jau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­
     daugo (Mendogo) sostinė.
-  citata_rodoma: "Visi \nkiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų \nkunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­\nvių, kad galėtų bent kiek paveikti kaimyninius kraštus.\nEsant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­\nsiribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­\nkojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir \nprekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje \njau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­\ndaugo (Mendogo) sostinė."
+  citata_rodoma: |
+    Visi
+    kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
+    kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
+    vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
+    Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­
+    siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­
+    kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir
+    prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje
+    jau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­
+    daugo (Mendogo) sostinė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -594,7 +622,14 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į
     Baltijos jūrą per Klaipėdą klausimą. Pralaimėjusi karą Vokietija tam ener-
     gingai nesipriešino, manydama sumažinti sąjungininkų intrigas.
-  citata_rodoma: "Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtme-\nčio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prū-\nsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė. Tačiau Versalyje Lietu-\nvos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių \ngyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į \nBaltijos jūrą per Klaipėdą klausimą. Pralaimėjusi karą Vokietija tam ener-\ngingai nesipriešino, manydama sumažinti sąjungininkų intrigas."
+  citata_rodoma: |
+    Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtme-
+    čio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prū-
+    sijos, lietuvių vadinamos Mažąja Lietuva, nevaldė. Tačiau Versalyje Lietu-
+    vos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių
+    gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į
+    Baltijos jūrą per Klaipėdą klausimą. Pralaimėjusi karą Vokietija tam ener-
+    gingai nesipriešino, manydama sumažinti sąjungininkų intrigas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -618,7 +653,18 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     prikasė vieškelyje daugybę nedidelių griovių, padengė
     juos plona, nepastebima, bet žirgo neatlaikančia dan­
     ga, o patys išsislapstė gretimuose miškuose.
-  citata_rodoma: "Tuo tarpu\nmiškuose, prikirtę medžių, suvertę juos kaip papuolė į\nkrūvas, lietuviai užvertė visas praminąs, kuriomis net­\ngi nešuliais neapsikrovę pėstininkai negalėjo prasibrau­\nti, o juo labiau — sunkieji raiteliai. Štai todėl Livoni­\njos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad\napie Palangą, smėlėtame pajūryje, bus rečiau medžių\nir lygesnis kelias. Atspėję jų sumanymą, lietuvių kariai\nprikasė vieškelyje daugybę nedidelių griovių, padengė\njuos plona, nepastebima, bet žirgo neatlaikančia dan­\nga, o patys išsislapstė gretimuose miškuose."
+  citata_rodoma: |
+    Tuo tarpu
+    miškuose, prikirtę medžių, suvertę juos kaip papuolė į
+    krūvas, lietuviai užvertė visas praminąs, kuriomis net­
+    gi nešuliais neapsikrovę pėstininkai negalėjo prasibrau­
+    ti, o juo labiau — sunkieji raiteliai. Štai todėl Livoni­
+    jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad
+    apie Palangą, smėlėtame pajūryje, bus rečiau medžių
+    ir lygesnis kelias. Atspėję jų sumanymą, lietuvių kariai
+    prikasė vieškelyje daugybę nedidelių griovių, padengė
+    juos plona, nepastebima, bet žirgo neatlaikančia dan­
+    ga, o patys išsislapstė gretimuose miškuose.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -637,7 +683,13 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     kingas stepes (didelė tų miškų dalis šiandieną iškirsta, ir šios vietos
     vadinamos Rusija, Podolija ir Lietuva), kur kitados romėnai keliau­
     davo medžioti, prasiskverbė ligi Baltijos jūros...) Joan.
-  citata_rodoma: "Tačiau šie, bijodami imperato­\nriaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas\njuos, o patys jų laivais nuplaukė į Juodąją jūrą. Iš čia jie per miš­\nkingas stepes (didelė tų miškų dalis šiandieną iškirsta, ir šios vietos\nvadinamos Rusija, Podolija ir Lietuva), kur kitados romėnai keliau­\ndavo medžioti, prasiskverbė ligi Baltijos jūros...) Joan."
+  citata_rodoma: |
+    Tačiau šie, bijodami imperato­
+    riaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas
+    juos, o patys jų laivais nuplaukė į Juodąją jūrą. Iš čia jie per miš­
+    kingas stepes (didelė tų miškų dalis šiandieną iškirsta, ir šios vietos
+    vadinamos Rusija, Podolija ir Lietuva), kur kitados romėnai keliau­
+    davo medžioti, prasiskverbė ligi Baltijos jūros...) Joan.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -660,7 +712,17 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
     krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
     nių apeigų papročių, vienodų su jų lietuvių apeigomis.
-  citata_rodoma: "Dabar pateiksime šį lietuvių mitologijos gabalėlį.\nNuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­\ntetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­\nčiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo\nVyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur\nslavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­\nniui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos\npavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo\nkrivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­\nnių apeigų papročių, vienodų su jų lietuvių apeigomis."
+  citata_rodoma: |
+    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -678,7 +740,12 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
     Rygą ir užvaldė Baltijos pakrantes.
-  citata_rodoma: "Kova dėl Livonijos daugiausia buvo suin-\nteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko \nuostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus \nSalaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė \nRygą ir užvaldė Baltijos pakrantes."
+  citata_rodoma: |
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -699,7 +766,17 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
     buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
     ypač mitologiją liečiančius dalykus**.
-  citata_rodoma: "100\n\n## Puslapis 100\n\n(Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­\nsakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­\nru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­\ntą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­\nbinamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba\nponas Riteris savo Siaurės senovės tyrimuose15."
+  citata_rodoma: |
+    100
+
+    ## Puslapis 100
+
+    (Hyperborensis). Lietuvių liaudies rugiapjūtės dainose yra po­
+    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
+    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
+    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
+    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
+    ponas Riteris savo Siaurės senovės tyrimuose15.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -724,7 +801,19 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
     atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
     užėmė Sembą ir gintaro kasyklas2.
-  citata_rodoma: "Senovės tyrinėtojai ne­\nabejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­\nmųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­\nstumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,\nDauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie\njūros skubančio Nemuno vaga atvedė iki žygio j vakarus\npabaigos. Tad Nemuno žemupio pakrantes visų pirma de­\nra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,\niš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-\nmanas savo tyrimais rodo, jog, kai lietuvių tautos tėvai\natsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau\nužėmė Sembą ir gintaro kasyklas2."
+  citata_rodoma: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -749,7 +838,15 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     bėjimų, Siaurės pusrutulio europinės dalies jūrų lygis
     kasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka
     upės, išdžiūsta pelikės.
-  citata_rodoma: "Tačiau jūros ploto didėjimas kartu reiškė jos vandens\nlygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję\nvandenys savaime seklėja. Antra vertus, anot visų ste­\nbėjimų, Siaurės pusrutulio europinės dalies jūrų lygis\nkasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka\nupės, išdžiūsta pelikės. Tad neklydo ir tie, kurie, savo\nnuomonę grįsdami stebėjimais, daro išvadą, kad Baltijos\njūra senka."
+  citata_rodoma: |
+    Tačiau jūros ploto didėjimas kartu reiškė jos vandens
+    lygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję
+    vandenys savaime seklėja. Antra vertus, anot visų ste­
+    bėjimų, Siaurės pusrutulio europinės dalies jūrų lygis
+    kasmet pamažu žemėja, o dėl to nuolat anka ežerai, senka
+    upės, išdžiūsta pelikės. Tad neklydo ir tie, kurie, savo
+    nuomonę grįsdami stebėjimais, daro išvadą, kad Baltijos
+    jūra senka.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -788,7 +885,32 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
     valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
     apgultis.
-  citata_rodoma: "Warsz. \nrašo, kad jo laikais buvę „Vytauto \nužrašai Krokuvos pilyje, karaliaus \niždinėje, kuriuose prisipažįsta susi­\ntaikęs ir sutaręs su pusbroliu Skir­\ngaila dėl Lietuvos Didžiosios Kuni­\ngaikštystės viršenybės, ir taip pat su \njuo suėjo į sąjungą prieš kiekvieną \npriešą, išskyrus Lenkijos karalių\", - \nką savo laiškais ir Vytauto žmona \nOna patvirtina.\n134\n\n## Puslapis 151\n\nIl KNYGA\nTačiau tas amžių amžiams Lietuvos monarchijai atmintinas \nVytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­\nrie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o \nvakaruose atitolinę rytų link tarp Lenkijos iki tolimų šiauri­\nnės Rusios pakraščių nustatė, dar nebuvo pati gražiausia epo­\ncha Vilniaus miesto istorijoje. Tiekos negandų nukamuota, \nnesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­\nvaliojo greit pakilti iš vargų, kokius patyrė per pastarąsias \napgultis."
+  citata_rodoma: |
+    Warsz.
+    rašo, kad jo laikais buvę „Vytauto
+    užrašai Krokuvos pilyje, karaliaus
+    iždinėje, kuriuose prisipažįsta susi­
+    taikęs ir sutaręs su pusbroliu Skir­
+    gaila dėl Lietuvos Didžiosios Kuni­
+    gaikštystės viršenybės, ir taip pat su
+    juo suėjo į sąjungą prieš kiekvieną
+    priešą, išskyrus Lenkijos karalių", -
+    ką savo laiškais ir Vytauto žmona
+    Ona patvirtina.
+    134
+
+    ## Puslapis 151
+
+    Il KNYGA
+    Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas
+    Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­
+    rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o
+    vakaruose atitolinę rytų link tarp Lenkijos iki tolimų šiauri­
+    nės Rusios pakraščių nustatė, dar nebuvo pati gražiausia epo­
+    cha Vilniaus miesto istorijoje. Tiekos negandų nukamuota,
+    nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
+    valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
+    apgultis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -810,7 +932,16 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Han-
     za. Nuo to tad laiko (XIII amžiaus) ir Lietuvos prekyba ėmė
     krypti į Baltijos jūrą.
-  citata_rodoma: "Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos cent-\nrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Euro-\n\n\npai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos\ncentrai. Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose;\nčia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Han-\nza. Nuo to tad laiko (XIII amžiaus) ir Lietuvos prekyba ėmė\nkrypti į Baltijos jūrą."
+  citata_rodoma: |
+    Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos cent-
+    rai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Euro-
+
+
+    pai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos
+    centrai. Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose;
+    čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Han-
+    za. Nuo to tad laiko (XIII amžiaus) ir Lietuvos prekyba ėmė
+    krypti į Baltijos jūrą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -835,7 +966,19 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     buvo šioje Siaurės Europos dalyje įvykusi stichinė ne­
     laimė, kuri pavertė dykra žemus, pajūryje plytinčius kraš­
     tus nuo Zundo iki Oderio žiočių ir toliau į šiaurę.
-  citata_rodoma: "Taip pat nebūtina įrodinėti, jog senovės germanai3 jei\nir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų\npersikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko\nnetrukus po 650 metų prieš Kristaus gimimą, kai kimbrų\ngrobuoniški antpuoliai Rytuose ėmė slopti5.\n25\nKimbrų gentims, pagyvenusioms penkis, o gal kiek\ndaugiau amžių, dėl kažkokių svarbių priežasčių buvo lem­\nta pasitraukti iš Baltijos jūros pakrančių6. Ta priežastis\nbuvo šioje Siaurės Europos dalyje įvykusi stichinė ne­\nlaimė, kuri pavertė dykra žemus, pajūryje plytinčius kraš­\ntus nuo Zundo iki Oderio žiočių ir toliau į šiaurę."
+  citata_rodoma: |
+    Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
+    ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
+    persikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko
+    netrukus po 650 metų prieš Kristaus gimimą, kai kimbrų
+    grobuoniški antpuoliai Rytuose ėmė slopti5.
+    25
+    Kimbrų gentims, pagyvenusioms penkis, o gal kiek
+    daugiau amžių, dėl kažkokių svarbių priežasčių buvo lem­
+    ta pasitraukti iš Baltijos jūros pakrančių6. Ta priežastis
+    buvo šioje Siaurės Europos dalyje įvykusi stichinė ne­
+    laimė, kuri pavertė dykra žemus, pajūryje plytinčius kraš­
+    tus nuo Zundo iki Oderio žiočių ir toliau į šiaurę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -857,7 +1000,16 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną
     ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė
     siena su Žemaitija (§228).
-  citata_rodoma: "Tad pakalbėkime apie kiekvieną sritį atskirai.\n245\nTikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos\njūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios\nsiena, kurią parodėme anksčiau (§ 223), net iki Širvintos\nupės, vėliau žinoma siena su Mazovija, Michalovo ir Dob-\nrynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną\nligi Nemuno žemupio, o po 1436 metų susidarė dabartinė\nsiena su Žemaitija (§228)."
+  citata_rodoma: |
+    Tad pakalbėkime apie kiekvieną sritį atskirai.
+    245
+    Tikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos
+    jūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios
+    siena, kurią parodėme anksčiau (§ 223), net iki Širvintos
+    upės, vėliau žinoma siena su Mazovija, Michalovo ir Dob-
+    rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną
+    ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė
+    siena su Žemaitija (§228).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -881,7 +1033,18 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     susijęs
     su
     Pripete.
-  citata_rodoma: "Skitai gintarą turėdavo gauti keliu,\nėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­\nnydami, jog tai galėjo būti Prieglius arba Vakarų Dauguva. Čia tin­\nkamiausias\nbūtų\nNemunas,\nnes\nlabiausiai\nsusijęs\nsu\nPripete."
+  citata_rodoma: |
+    Skitai gintarą turėdavo gauti keliu,
+    ėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­
+    nydami, jog tai galėjo būti Prieglius arba Vakarų Dauguva. Čia tin­
+    kamiausias
+    būtų
+    Nemunas,
+    nes
+    labiausiai
+    susijęs
+    su
+    Pripete.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -901,7 +1064,14 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­
     binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus,
     regis, kolonija iš Bremeno įkūrė Rygą.
-  citata_rodoma: "Tokios gynybos sistemos globoje atsivėrė ke­\nliai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir \nAnglijoje, darbo vaisiais. XII amžiuje geriau susipažinta su toli­\nmesnėmis Baltijos jūros pakrantėmis. Bremeno pirkliai 1158 m. \natrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­\nbinius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus, \nregis, kolonija iš Bremeno įkūrė Rygą."
+  citata_rodoma: |
+    Tokios gynybos sistemos globoje atsivėrė ke­
+    liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir
+    Anglijoje, darbo vaisiais. XII amžiuje geriau susipažinta su toli­
+    mesnėmis Baltijos jūros pakrantėmis. Bremeno pirkliai 1158 m.
+    atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­
+    binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus,
+    regis, kolonija iš Bremeno įkūrė Rygą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -924,7 +1094,17 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­
     1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
     jį iš Trakijos į Makedoniją (Noet Fr.
-  citata_rodoma: "Čia dar kartą pakartosime\naukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­\ntinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­\nlaikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­\nveikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos\nžiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­\ndesius, taip pat įrodo, kad kitados Prūsijoje vyko žemės\ndrebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­\n1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė\njį iš Trakijos į Makedoniją (Noet Fr."
+  citata_rodoma: |
+    Čia dar kartą pakartosime
+    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
+    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
+    laikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­
+    veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos
+    žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­
+    desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės
+    drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­
+    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
+    jį iš Trakijos į Makedoniją (Noet Fr.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -945,7 +1125,15 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
     metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
     bemaž visi Varmės miestai.
-  citata_rodoma: "Revelis [Talinas] už savo \natsiradimą dar anksčiau turi būti dėkingas danams. Teutonų \nordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­\ngonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­\ntais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­\nkami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 \nmetais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti \nbemaž visi Varmės miestai."
+  citata_rodoma: |
+    Revelis [Talinas] už savo
+    atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
+    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
+    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
+    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
+    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
+    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
+    bemaž visi Varmės miestai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -985,7 +1173,34 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
     jų šliejosi estų, gausios suomių padermės atšakos, gyven­
     vietės.
-  citata_rodoma: "12\n\n## Puslapis 29\n\nVILNIAUS\nMIESTO\nISTORIJA\nI\nKNYGA\nLAIKAI IKI KRIKŠČIONYBĖS ĮVEDIMO - \nNUO MIESTO ĮKŪRIMO IKI PAT KRIKŠTO PRIĖMIMO \nVILNIUJE 1387 METAIS\nLietuvių tautos kilmė —  Normanai —  Senoji gyvenvietė prie \nVilnios upės —  Šventaragis —  Vilnius tampa Gedimino miestu ir \nsostine —  Įsikūrimas, pradinė padėtis ir miesto valdymas — \nJaunučio žlugimas —  Algirdas - Pranciškonų nukankinimas — \nKryžiuočių puldinėjimai Algirdo laikais —  Jogailos užmačios — \nKova su Kęstučiu —  Vilniaus miestiečių įtaka toje kovoje — \nKęstučio mirtis —  Vilniaus padėtis Jogailos laikais —  Mūšis su \nkryžiuočiais prie miesto ir jo sudeginimas —  Nuniokojamos \nVilniaus apylinkės —  Išvejami kryžiuočiai—  Jogaila tampa Lenkijos \nkaraliumi —  Išvykimas į Krokuvą.\nNuo I amžiaus po Kristaus gimimo slavų gentis, vadinta \nvenedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos \nžiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie \njų šliejosi estų, gausios suomių padermės atšakos, gyven­\nvietės."
+  citata_rodoma: |
+    12
+
+    ## Puslapis 29
+
+    VILNIAUS
+    MIESTO
+    ISTORIJA
+    I
+    KNYGA
+    LAIKAI IKI KRIKŠČIONYBĖS ĮVEDIMO -
+    NUO MIESTO ĮKŪRIMO IKI PAT KRIKŠTO PRIĖMIMO
+    VILNIUJE 1387 METAIS
+    Lietuvių tautos kilmė —  Normanai —  Senoji gyvenvietė prie
+    Vilnios upės —  Šventaragis —  Vilnius tampa Gedimino miestu ir
+    sostine —  Įsikūrimas, pradinė padėtis ir miesto valdymas —
+    Jaunučio žlugimas —  Algirdas - Pranciškonų nukankinimas —
+    Kryžiuočių puldinėjimai Algirdo laikais —  Jogailos užmačios —
+    Kova su Kęstučiu —  Vilniaus miestiečių įtaka toje kovoje —
+    Kęstučio mirtis —  Vilniaus padėtis Jogailos laikais —  Mūšis su
+    kryžiuočiais prie miesto ir jo sudeginimas —  Nuniokojamos
+    Vilniaus apylinkės —  Išvejami kryžiuočiai—  Jogaila tampa Lenkijos
+    karaliumi —  Išvykimas į Krokuvą.
+    Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
+    venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
+    žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
+    jų šliejosi estų, gausios suomių padermės atšakos, gyven­
+    vietės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1020,7 +1235,29 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
     ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
     bei Lenkiją.
-  citata_rodoma: "Nors jau V amžiaus pabaigoje, \ntuoj po Romos valstybės žlugimo, \nEuropos Šiaurės kraštai kentėjo nuo \nnormanų puldinėjimų, bet jie nebu­\nvo tokie reikšmingi ir grėsmingi, \nkaip prasidėjusieji sulig didelės Ka­\nrolio Didžiojo monarchijos žlugimu. \nBūtent toje epochoje narsių piratų \nvaldomi prasti, bet mitrūs ir lengvi \nlaivai pasklido iš Skandinavijos pu­\nsiasalio po visą Baltijos pakrantę. \nSagos, kitaip sakant, senovinės tos \ntautos legendos, eilėmis ir proza\n15\n\n## Puslapis 32\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nPaskui Lietuva net iki XII amžiaus pabaigos buvo Rusios \nįtakoje, bet kratydamasi mongolų jungo, patraukė iš girių \nir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią \nbei Lenkiją."
+  citata_rodoma: |
+    Nors jau V amžiaus pabaigoje,
+    tuoj po Romos valstybės žlugimo,
+    Europos Šiaurės kraštai kentėjo nuo
+    normanų puldinėjimų, bet jie nebu­
+    vo tokie reikšmingi ir grėsmingi,
+    kaip prasidėjusieji sulig didelės Ka­
+    rolio Didžiojo monarchijos žlugimu.
+    Būtent toje epochoje narsių piratų
+    valdomi prasti, bet mitrūs ir lengvi
+    laivai pasklido iš Skandinavijos pu­
+    siasalio po visą Baltijos pakrantę.
+    Sagos, kitaip sakant, senovinės tos
+    tautos legendos, eilėmis ir proza
+    15
+
+    ## Puslapis 32
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
+    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
+    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
+    bei Lenkiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1044,7 +1281,20 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
     koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
     mas išliko kaip žalčių laikymas1.
-  citata_rodoma: "Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­\nsėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl\naukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-\n30\nPatyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331\nmetus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­\nle 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­\nveik 18 metų.\n156\n\n## Puslapis 156\n\nužneštos pakrantės."
+  citata_rodoma: |
+    Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
+    sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
+    aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
+    30
+    Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
+    metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
+    le 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­
+    veik 18 metų.
+    156
+
+    ## Puslapis 156
+
+    užneštos pakrantės.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

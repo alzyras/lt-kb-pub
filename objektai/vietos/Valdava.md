@@ -74,7 +74,10 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     325 D.— Waldow, Jer.— Waldowe; Valdava (plg. lie. Valduva, kaimas prie Biržų),
     valsčiaus centras į rytus nuo dab. Kaliningrado, pilis buvusi greičiausiai kiek toliau į
     šiaurę nuo Valda vos (Waldau), to pat vardo upelio deš. krante.
-  citata_rodoma: "325 D.— Waldow, Jer.— Waldowe; Valdava (plg. lie. Valduva, kaimas prie Biržų),\nvalsčiaus centras  į rytus nuo dab. Kaliningrado, pilis buvusi greičiausiai kiek toliau  į\nšiaurę nuo Valda vos (Waldau), to pat vardo upelio deš."
+  citata_rodoma: |
+    325 D.— Waldow, Jer.— Waldowe; Valdava (plg. lie. Valduva, kaimas prie Biržų),
+    valsčiaus centras  į rytus nuo dab. Kaliningrado, pilis buvusi greičiausiai kiek toliau  į
+    šiaurę nuo Valda vos (Waldau), to pat vardo upelio deš.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -94,7 +97,13 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
     prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
     pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
-  citata_rodoma: "Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten\nkai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam\nįkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską\ntinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo\nprie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti\npilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai."
+  citata_rodoma: |
+    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -158,7 +158,20 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
     žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
     bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
     vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
-  citata_rodoma: "Apie daugybės maldininkų atvykimą\n\n  Kai Vokietijos žemėse pasklido gandai apie minėtųjų pilių sunaikinimą, subruzdo\nkaraliai bei kunigaikščiai ir, nenorėdami, kad visiškai sunyktų Prūsijoje dievo bažnyčia,\nkurią diegiant taip gausiai buvo liejamas krikščionių kraujas, o manydami, kad dėl jų\nmalonaus atvykimo ji deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių\nir gausybės karių, gelbėti šios žemės  ir tramdyti prūsų sukilimo: 1265 viešpaties\nmetais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo\nmarkgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos\nkaralius398. Kadangi dar nebuvo išmušusi valanda, kurią dievas malonėjo pasigailėti\nsavo tautos, kadangi ketino juos bausti naujomis bausmėmis, minėtieji kunigaikščiai dėl\nminkštos žiemos negalėjo pasiekti šitaip trokštamo tikslo, todėl, palikę Prūsijos žemės\nkrikščionis dideliame pavojuje, sugrįžo į savo kraštą."
+  citata_rodoma: |
+    Apie daugybės maldininkų atvykimą
+
+      Kai Vokietijos žemėse pasklido gandai apie minėtųjų pilių sunaikinimą, subruzdo
+    karaliai bei kunigaikščiai ir, nenorėdami, kad visiškai sunyktų Prūsijoje dievo bažnyčia,
+    kurią diegiant taip gausiai buvo liejamas krikščionių kraujas, o manydami, kad dėl jų
+    malonaus atvykimo ji deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių
+    ir gausybės karių, gelbėti šios žemės  ir tramdyti prūsų sukilimo: 1265 viešpaties
+    metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo
+    markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos
+    karalius398. Kadangi dar nebuvo išmušusi valanda, kurią dievas malonėjo pasigailėti
+    savo tautos, kadangi ketino juos bausti naujomis bausmėmis, minėtieji kunigaikščiai dėl
+    minkštos žiemos negalėjo pasiekti šitaip trokštamo tikslo, todėl, palikę Prūsijos žemės
+    krikščionis dideliame pavojuje, sugrįžo į savo kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

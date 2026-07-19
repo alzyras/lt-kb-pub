@@ -92,7 +92,14 @@ media_all_json: |-
     istoriškos atramos neturinčia, vardų geneologija, kuria buvo užpil­
     doma lietuvių tautos praeitis iki pat pirmojo Lietuvos karaliaus
     Mindaugo pasirodymo istorijoje.
-  citata_rodoma: "Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1\n\nPasiremiant plačiausia « Lietuvos Metraščio » redakcija ir Mo­\ntiejaus Stryjkovskio kronika (1582), XVI amž. antroje pusėje\nLietuvos istorija buvo pradedama nuo Romos imperatoriaus Ne­\nrono laikų, kai, nuo jo persekiojimų ištrukę, pabėgėliai po ilgos\nkelionės esą atsidūrę Nemuno krantuose."
+  citata_rodoma: |
+    Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1
+
+    Pasiremiant plačiausia « Lietuvos Metraščio » redakcija ir Mo­
+    tiejaus Stryjkovskio kronika (1582), XVI amž. antroje pusėje
+    Lietuvos istorija buvo pradedama nuo Romos imperatoriaus Ne­
+    rono laikų, kai, nuo jo persekiojimų ištrukę, pabėgėliai po ilgos
+    kelionės esą atsidūrę Nemuno krantuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -108,7 +115,9 @@ media_all_json: |-
     (^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika
     Polska, Litewska etc_** **., I, 1846, 370-372 p.**
     (^15) **Plg. Ad.
-  citata_rodoma: "M. Stryjkowski:** **_Kronika\nPolska, Litewska etc_** **., I, 1846, 370-372 p."
+  citata_rodoma: |
+    M. Stryjkowski:** **_Kronika
+    Polska, Litewska etc_** **., I, 1846, 370-372 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

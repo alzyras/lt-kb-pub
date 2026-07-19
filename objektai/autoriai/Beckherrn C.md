@@ -113,7 +113,9 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
     namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
     išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
     visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi.
-  citata_rodoma: "210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-\nKozaryn L. Zycie..., p. 218—221."
+  citata_rodoma: |
+    210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-
+    Kozaryn L. Zycie..., p. 218—221.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

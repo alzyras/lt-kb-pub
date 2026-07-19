@@ -94,7 +94,16 @@ Nenurodyta
     prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
     atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
     neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais ir kitais daiktais.
-  citata_rodoma: "Apie Birgelavos pilies sugriovimą\n\n   Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,\nsubūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo\njuos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias\nžemes nusiaubė, grobdamas ir degindamas. Likę įsibrovė  į Kulmo žemę ir, neskaitant\nkitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą\nbrolių ir tų žmonių, kurie buvo subėgę į pilį. Broliai ir kiti žmonės išliko gyvi, gindamiesi\nviename kuore."
+  citata_rodoma: |
+    Apie Birgelavos pilies sugriovimą
+
+       Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,
+    subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo
+    juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias
+    žemes nusiaubė, grobdamas ir degindamas. Likę įsibrovė  į Kulmo žemę ir, neskaitant
+    kitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą
+    brolių ir tų žmonių, kurie buvo subėgę į pilį. Broliai ir kiti žmonės išliko gyvi, gindamiesi
+    viename kuore.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

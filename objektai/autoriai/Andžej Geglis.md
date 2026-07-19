@@ -156,7 +156,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   citata_originali: |
     P. 157, „PAKEITIMAI KARYBOJE XIX A. PRADŽIOJE“, Andžej Geglis, dail. Andžej Geglis.
     p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis.
-  citata_rodoma: "p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis."
+  citata_rodoma: |
+    p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -201,7 +202,10 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.
 
     p. 232, „KULKOSVAIDŽIAI“, Andžej Geglis.
-  citata_rodoma: "p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.\n\np."
+  citata_rodoma: |
+    p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -221,7 +225,13 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     Andžej Geglis.
 
     P. 259, „MEDŽIOKLINIAI AT GYNĖJŲ ŠAUTUVAI“, Karolis Zikaras.
-  citata_rodoma: "LIETUVOS ATSIKŪRIMAS\n\np. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras,\nAndžej Geglis.\n\nP."
+  citata_rodoma: |
+    LIETUVOS ATSIKŪRIMAS
+
+    p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras,
+    Andžej Geglis.
+
+    P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

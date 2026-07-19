@@ -123,7 +123,16 @@ Nenurodyta
     nis), arba Metą (Mehta), neva laiko arba laiko tarpsnių dei­
     vę“. Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas
     laiko tarpas.
-  citata_rodoma: "Tai buvo Linų Izidė, to augalo vertės atradėja; ji globojo\nne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus\ndirbinius.\nLinai pirmiausia atrasti Egipte, kur auga kaip laukinis au­\ngalas, todėl pirmieji lininiai dirbiniai turėjo pasirodyti šiame\nkrašte; apdoroti juos išmokė karalienė Izidė, Hermio žmona,\ntodėl Antikos žmonės ją praminė Isis linigem.\nAušra (Aussra)\nRyto deivė."
+  citata_rodoma: |
+    Tai buvo Linų Izidė, to augalo vertės atradėja; ji globojo
+    ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus
+    dirbinius.
+    Linai pirmiausia atrasti Egipte, kur auga kaip laukinis au­
+    galas, todėl pirmieji lininiai dirbiniai turėjo pasirodyti šiame
+    krašte; apdoroti juos išmokė karalienė Izidė, Hermio žmona,
+    todėl Antikos žmonės ją praminė Isis linigem.
+    Aušra (Aussra)
+    Ryto deivė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

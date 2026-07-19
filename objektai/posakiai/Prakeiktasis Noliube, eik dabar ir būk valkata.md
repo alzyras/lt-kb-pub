@@ -154,7 +154,13 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
     vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
     kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
     matęs vedant nedidelį karių būrį.
-  citata_rodoma: "Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,\nnei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie\nčia atvyksta“. Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo\nnamų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų\nantpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl\nsavo įsitikinimų, ir dėl darbų."
+  citata_rodoma: |
+    Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
+    nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
+    čia atvyksta“. Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
+    namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų
+    antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl
+    savo įsitikinimų, ir dėl darbų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

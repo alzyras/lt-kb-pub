@@ -87,7 +87,13 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
     nęs, kaip ir aš tavęs saugaus”. Ir tikrai jis saugojos Vytauto,
     dažnai kreipdamas Jogailos dėmesį ir išgaudamas iš jo sutiki­
     mą padaryti atitinkamų nedviprasmiškų žingsnių.
-  citata_rodoma: "Skirgaila, matydamas čia sau pavojų, atsiuntė\npas Vytautą savo tarną Varšą su formaliniu perspėjimu dėl toli­\nmesnių represijų ir tarytum su karo paskelbimu: „Saugokis ma­\nnęs, kaip ir aš tavęs saugaus”. Ir tikrai jis saugojos Vytauto,\ndažnai kreipdamas Jogailos dėmesį ir išgaudamas iš jo sutiki­\nmą padaryti atitinkamų nedviprasmiškų žingsnių."
+  citata_rodoma: |
+    Skirgaila, matydamas čia sau pavojų, atsiuntė
+    pas Vytautą savo tarną Varšą su formaliniu perspėjimu dėl toli­
+    mesnių represijų ir tarytum su karo paskelbimu: „Saugokis ma­
+    nęs, kaip ir aš tavęs saugaus”. Ir tikrai jis saugojos Vytauto,
+    dažnai kreipdamas Jogailos dėmesį ir išgaudamas iš jo sutiki­
+    mą padaryti atitinkamų nedviprasmiškų žingsnių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

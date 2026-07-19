@@ -66,7 +66,12 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
     teligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių
     visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia
     apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą.
-  citata_rodoma: "Kadangi iniciatyvinę\ngrupę sudarė visoje šalyje žinomi in-\nteligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių\nvisuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia\napie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą."
+  citata_rodoma: |
+    Kadangi iniciatyvinę
+    grupę sudarė visoje šalyje žinomi in-
+    teligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių
+    visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia
+    apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

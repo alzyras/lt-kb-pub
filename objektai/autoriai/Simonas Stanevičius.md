@@ -204,7 +204,17 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
     parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
     plito nuorašais.
-  citata_rodoma: "Ši grupelė ir lai-\nkoma etninių lietuvių tautinio \nkultūrinio sąjūdžio pradininkais. \nParašytas ir išleistas tiems lai-\nkams novatoriškas elementorius \nlietuvių kalba (žemaičių tarme), \npoetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje \nbuvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis \nmanifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-\nvyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m."
+  citata_rodoma: |
+    Ši grupelė ir lai-
+    koma etninių lietuvių tautinio
+    kultūrinio sąjūdžio pradininkais.
+    Parašytas ir išleistas tiems lai-
+    kams novatoriškas elementorius
+    lietuvių kalba (žemaičių tarme),
+    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
+    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
+    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
+    vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -280,7 +290,12 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     wzmianka o pracach i badaniach profesora Króle-
     wieckiego Pana Rhesa w przedmiocie starozytnosci
     Litewskich // Dziennik Wileñski.
-  citata_rodoma: "Tekstas, kuriuo T. Narbutas papildė skyrių, reng­\ndamas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­\nlima spėti, kad šio laiško autorius, tai yra Raseinių\nkorespondentas, galėjo būti ir Simonas Stanevičius\n(1799-1848)."
+  citata_rodoma: |
+    Tekstas, kuriuo T. Narbutas papildė skyrių, reng­
+    damas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­
+    lima spėti, kad šio laiško autorius, tai yra Raseinių
+    korespondentas, galėjo būti ir Simonas Stanevičius
+    (1799-1848).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -247,7 +247,37 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
     niaus miesto knygos, vykstant ribų komisijos teismams tarp
     jo did. pono Goreckio, Lydos pav. iždininko, ir garb.
-  citata_rodoma: "O kad \ntvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos \naprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­\ndymas ištikimai ir deramai būtų išlaikomas, globą ir vado­\nvavimą minėtos administracijos šviesiausiajam Kristuje tė­\nvui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat \nir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad\n391\n\n## Puslapis 408\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\njie visiškai rūpintųsi geru tos pačios prieglaudos valdymu \nbei administravimu bei jai skirtomis pajamomis. Dėl to taip \npat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis \nJonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį \ntiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­\nnėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­\nnauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­\ntus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai \nprieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą \nduoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto \ngalia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­\nspaudas. Tai įvyko ir duota Vilniuje Viešpaties gimimo 1536 \nmetų rugpjūčio 6 dieną, mūsų karaliavimo 3-iaisiais metais.\nKaralius ŽYGIMANTAS\nPrikabintas LDK antspaudas\nŠios privilegijos ištrauka iš garbingojo magistrato ir Vil­\nniaus miesto knygos, vykstant ribų komisijos teismams tarp \njo did."
+  citata_rodoma: |
+    O kad
+    tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos
+    aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­
+    dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­
+    vavimą minėtos administracijos šviesiausiajam Kristuje tė­
+    vui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat
+    ir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad
+    391
+
+    ## Puslapis 408
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
+    bei administravimu bei jai skirtomis pajamomis. Dėl to taip
+    pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis
+    Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį
+    tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­
+    nėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­
+    nauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­
+    tus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai
+    prieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą
+    duoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto
+    galia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­
+    spaudas. Tai įvyko ir duota Vilniuje Viešpaties gimimo 1536
+    metų rugpjūčio 6 dieną, mūsų karaliavimo 3-iaisiais metais.
+    Karalius ŽYGIMANTAS
+    Prikabintas LDK antspaudas
+    Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
+    niaus miesto knygos, vykstant ribų komisijos teismams tarp
+    jo did.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -311,7 +341,32 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     LOTYNŲ KALBA
     (Išrašo iš magistrato knygų vertimas)
     Viešpaties vardu Amen.
-  citata_rodoma: "Dalyvaujant \ndidžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­\nkupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­\nniesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos \nDidžiosios Kunigaikštystės rūmų bei kariuomenės maršal­\nkai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­\nlai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­\nvadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios \nKunigaikštystės iždininkui Ivanui Homostajui ir daugeliui \nkitų liudininkų.\nKaralius ŽYGIMANTAS\n\n## Puslapis 402\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO \nPRIVILEGIJA\nDĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU \nPER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA  \nULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS  \nPRIEGLAUDAI (ŠPITOLEI),\nIŠLEISTA\" 1536 METŲ RUGPJŪČIO 6 DIENĄ \nLOTYNŲ KALBA\n(Išrašo iš magistrato knygų vertimas)\nViešpaties vardu Amen."
+  citata_rodoma: |
+    Dalyvaujant
+    didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­
+    kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­
+    niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos
+    Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­
+    kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­
+    lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­
+    vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios
+    Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui
+    kitų liudininkų.
+    Karalius ŽYGIMANTAS
+
+    ## Puslapis 402
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO
+    PRIVILEGIJA
+    DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU
+    PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA
+    ULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS
+    PRIEGLAUDAI (ŠPITOLEI),
+    IŠLEISTA" 1536 METŲ RUGPJŪČIO 6 DIENĄ
+    LOTYNŲ KALBA
+    (Išrašo iš magistrato knygų vertimas)
+    Viešpaties vardu Amen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

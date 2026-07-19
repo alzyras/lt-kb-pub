@@ -93,7 +93,15 @@ Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių. Vytautas ir Maskvo
     tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
     tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
     kaip ir pskoviečiai.
-  citata_rodoma: "dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­\nnius, kad suieškojęs nubaustų kaltininkus bei atlygintų \nnuostolius severskiečiams. Maskvos didysis kunigaikš­\ntis neatkreipė į tai dėmesio. Didysis kunigaikštis Vy­\ntautas, šito nepakęsdamas, surinko savo kariuomenę ir \npatraukė prieš Maskvos didįjį kunigaikštį, keršydamas \njam už įžeidimą ir kariaudamas išdegino kraštą prie \nUgros5  ir Okos upių, išsivarė daug belaisvių6 ."
+  citata_rodoma: |
+    dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
+    nius, kad suieškojęs nubaustų kaltininkus bei atlygintų
+    nuostolius severskiečiams. Maskvos didysis kunigaikš­
+    tis neatkreipė į tai dėmesio. Didysis kunigaikštis Vy­
+    tautas, šito nepakęsdamas, surinko savo kariuomenę ir
+    patraukė prieš Maskvos didįjį kunigaikštį, keršydamas
+    jam už įžeidimą ir kariaudamas išdegino kraštą prie
+    Ugros5  ir Okos upių, išsivarė daug belaisvių6 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

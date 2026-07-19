@@ -64,7 +64,15 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
     centre buvo kavalerija. Lietuvių pėstininkai
     atlaikė kazokų kavalerijos ataką ir apgynė
     savo flangus.
-  citata_rodoma: "“\n\nMūšis J. Radvilos pajėgų sparnuose stovėjo\npėstininkai ir dragūnai (jie gynė Lojevkos\nupės, juosiančios stovyklą, užtvanką), o\ncentre buvo kavalerija. Lietuvių pėstininkai\natlaikė kazokų kavalerijos ataką ir apgynė\nsavo flangus."
+  citata_rodoma: |
+    “
+
+    Mūšis J. Radvilos pajėgų sparnuose stovėjo
+    pėstininkai ir dragūnai (jie gynė Lojevkos
+    upės, juosiančios stovyklą, užtvanką), o
+    centre buvo kavalerija. Lietuvių pėstininkai
+    atlaikė kazokų kavalerijos ataką ir apgynė
+    savo flangus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

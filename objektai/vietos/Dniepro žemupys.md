@@ -62,7 +62,11 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
     siekdami įsikurti pratuštėjusiuose germanų plotuose (buvusioje
     « Hermanariko valstybėje »), jie užėmė ir pamažu asimiliavo, nors
     ir būdami žemesnio kultūros laipsnio, dalį rytinių baltų žemių.
-  citata_rodoma: "Kai apie VI amž. po Kr. iš Dniepro žemupio išjudėjo slavai,\nsiekdami įsikurti pratuštėjusiuose germanų plotuose (buvusioje\n« Hermanariko valstybėje »), jie užėmė ir pamažu asimiliavo, nors\nir būdami žemesnio kultūros laipsnio, dalį rytinių baltų žemių."
+  citata_rodoma: |
+    Kai apie VI amž. po Kr. iš Dniepro žemupio išjudėjo slavai,
+    siekdami įsikurti pratuštėjusiuose germanų plotuose (buvusioje
+    « Hermanariko valstybėje »), jie užėmė ir pamažu asimiliavo, nors
+    ir būdami žemesnio kultūros laipsnio, dalį rytinių baltų žemių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

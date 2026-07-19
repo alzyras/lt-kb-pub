@@ -100,7 +100,11 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
     jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­
     la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
     Jo santykiai su tauta pasikeitė.
-  citata_rodoma: "1392 metai Vytauto gyvenime yra persilaužimo metai —\njis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­\nla ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.\nJo santykiai su tauta pasikeitė."
+  citata_rodoma: |
+    1392 metai Vytauto gyvenime yra persilaužimo metai —
+    jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­
+    la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
+    Jo santykiai su tauta pasikeitė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

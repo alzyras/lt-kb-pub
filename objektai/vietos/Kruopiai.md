@@ -66,7 +66,20 @@ Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš K
     Lietuvos kariuomenės savanorio
 
     rankovės antsiuvas - vienas pir- susišaudymas.
-  citata_rodoma: "Bolševikams priartėjus prie\nKėdainių, savano-\nrių būriai, nesu-\nlaukdami iš Kauno\nžadėtų ginklų, sausio 14 d.\npasitraukė į Kruopius (10 km\nnuo Kėdainių Kauno link). Ten\nbuvo įsigyta šiek tiek ginklų, įvyko\nšaudymo pratybos, savanoriai buvo ap-\n\nLietuvos kariuomenės savanorio\n\nrankovės antsiuvas - vienas pir- susišaudymas."
+  citata_rodoma: |
+    Bolševikams priartėjus prie
+    Kėdainių, savano-
+    rių būriai, nesu-
+    laukdami iš Kauno
+    žadėtų ginklų, sausio 14 d.
+    pasitraukė į Kruopius (10 km
+    nuo Kėdainių Kauno link). Ten
+    buvo įsigyta šiek tiek ginklų, įvyko
+    šaudymo pratybos, savanoriai buvo ap-
+
+    Lietuvos kariuomenės savanorio
+
+    rankovės antsiuvas - vienas pir- susišaudymas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

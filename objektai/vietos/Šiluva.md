@@ -78,7 +78,16 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
     sustabdyta naujos bažnyčios statyba Klaipėdoje.
     Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stipry-
     bės ir vilties šaltinio, prasmė.
-  citata_rodoma: "1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-\nmo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti \nvarpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas \nŽemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia \nblokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji \npajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais \nsustabdyta naujos bažnyčios statyba Klaipėdoje. \nPriklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stipry-\nbės ir vilties šaltinio, prasmė."
+  citata_rodoma: |
+    1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-
+    mo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti
+    varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas
+    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
+    blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
+    pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
+    sustabdyta naujos bažnyčios statyba Klaipėdoje.
+    Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stipry-
+    bės ir vilties šaltinio, prasmė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

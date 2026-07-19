@@ -81,7 +81,11 @@ Nenurodyta
     to raktus ir pavedė karo vadovybę.
     Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
     tus.
-  citata_rodoma: "Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­\nto raktus ir pavedė karo vadovybę.\nCiesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­\ntus."
+  citata_rodoma: |
+    Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
+    to raktus ir pavedė karo vadovybę.
+    Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
+    tus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

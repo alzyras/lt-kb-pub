@@ -112,7 +112,15 @@ Nenurodyta
     remdamasis kituose katalikiškuo-
     se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
-  citata_rodoma: "Kai kuriose vietovėse mokančių \nskaityti procentas padidėjo iki \n60 – baudžiavinio kaimo sąlygo-\nmis tai fantastiškas skaičius. Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį."
+  citata_rodoma: |
+    Kai kuriose vietovėse mokančių
+    skaityti procentas padidėjo iki
+    60 – baudžiavinio kaimo sąlygo-
+    mis tai fantastiškas skaičius. Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -134,7 +142,16 @@ Nenurodyta
     lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
     Motiejus Valančius iš J. K. Vilčinskio
     „Vilniaus albumo“.
-  citata_rodoma: "Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės \nbrolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi \nlietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-\nMotiejus Valančius iš J. K. Vilčinskio  \n„Vilniaus albumo“."
+  citata_rodoma: |
+    Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės
+    brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi
+    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
+    Motiejus Valančius iš J. K. Vilčinskio
+    „Vilniaus albumo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

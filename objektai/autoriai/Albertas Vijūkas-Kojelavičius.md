@@ -136,7 +136,11 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     pat metu daug rašė, retkarčiais gaudamas vadovauja­
     mų pareigų: trumpai ėjo vicekanclerio, o 1654 m. rek­
     toriaus pareigas be paskyrimo.
-  citata_rodoma: "1640 m., minint jėzuitų ordino įsteigimo šimto metų\nsukaktį, Vilniaus akademija išleido A. Kojelavičiaus re­\ndaguotą kalbų rinkinį, kurių viena, skirta kancleriui,\nparašyta jo paties."
+  citata_rodoma: |
+    1640 m., minint jėzuitų ordino įsteigimo šimto metų
+    sukaktį, Vilniaus akademija išleido A. Kojelavičiaus re­
+    daguotą kalbų rinkinį, kurių viena, skirta kancleriui,
+    parašyta jo paties.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -153,7 +157,10 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     dėstyti teologijos. Šiame Varmijos mieste kardinolas
     Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
     trukus pasidariusią svarbia jėzuitų atrama.
-  citata_rodoma: "Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno. Jo tėvai — smulkūs bajorai."
+  citata_rodoma: |
+    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
+    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
+    no. Jo tėvai — smulkūs bajorai.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -190,17 +197,27 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to visi it vienas pa­
-    reikalavo vesti juos į priekį ir pulti priešą. Nesilsėjusi
-    kariuomenė, vargais negalais nužygiavusi dvi mylias,
-    įnirtingai užpuolė priešą vos jį išvydusi. Maskvėnų
-    raiteliai neatlaikė antpuolio; vos prasidėjus mūšiui, at­
-    sitraukė iš atviro lauko į stovyklą. Besitraukiantiems
-    ant kulnų lipo Konstantinas, tačiau, perdaug karštai
-    siekdamas pergalės, susilaukė pralaimėjimo: visiems
-    pulkams pasklidus atviroje lygumoje, parodė priešams,
-    kaip mažai teturi kariuomenės.
-  citata_rodoma: "Atvestas pas Ivaną, Konstan­\ntinas, tironui įsakius, turėjo iškęsti neapsakomus kan­\nkinimus: ne tik kojas jam it vergui surakino grandinė­\nmis, bet ir rankas užlaužė už nugaros ir nelyginant\nraiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą\nAleksandras sužinojo prie Bobro upės; norėdamas su­\nstabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-\nse. Kodėl vėliau Aleksandras su kariuomene patraukė\nlink Polocko, nei kur parašyta radau, nei pats atspėti\ngalėjau."
+    Atvestas pas Ivaną, Konstan­
+    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
+    kinimus: ne tik kojas jam it vergui surakino grandinė­
+    mis, bet ir rankas užlaužė už nugaros ir nelyginant
+    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
+    Aleksandras sužinojo prie Bobro upės; norėdamas su­
+    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
+    se. Kodėl vėliau Aleksandras su kariuomene patraukė
+    link Polocko, nei kur parašyta radau, nei pats atspėti
+    galėjau.
+  citata_rodoma: |
+    Atvestas pas Ivaną, Konstan­
+    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
+    kinimus: ne tik kojas jam it vergui surakino grandinė­
+    mis, bet ir rankas užlaužė už nugaros ir nelyginant
+    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
+    Aleksandras sužinojo prie Bobro upės; norėdamas su­
+    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
+    se. Kodėl vėliau Aleksandras su kariuomene patraukė
+    link Polocko, nei kur parašyta radau, nei pats atspėti
+    galėjau.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

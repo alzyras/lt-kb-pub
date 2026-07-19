@@ -132,7 +132,8 @@ media_all_json: |-
     rex; Algirdas laiškuose Bizantijos imperijai – bazileus). Taip juos vadino
     Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
     vadus ar net rusų žemių kunigaikščius.
-  citata_rodoma: "Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,"
+  citata_rodoma: |
+    Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -125,7 +125,18 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
     pasileido jų persekioti vieni pėstininkai, užstodami kelią viename miške, kurį broliai
     greitai perėjo ir, lauke juos užpuolę, 12 nukovė, tuo tarpu kiti, pasileidę bėgti, vėliau nė
     nedrįso rodytis.
-  citata_rodoma: "Apie vieną nuostabų atsivertimą\n\n  Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo\nvienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,\ngarsėjęs kaip labai gabus račius  ir didelis karo pabūklų meistras. Kai jis kartą, jau\npadaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo\nvieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini\nketuriomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis\nneabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo\nbūdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami\nnumirėliai."
+  citata_rodoma: |
+    Apie vieną nuostabų atsivertimą
+
+      Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
+    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
+    garsėjęs kaip labai gabus račius  ir didelis karo pabūklų meistras. Kai jis kartą, jau
+    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
+    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
+    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
+    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
+    būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
+    numirėliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -146,7 +157,14 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
     ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
     veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
     palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
-  citata_rodoma: "Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo\nSkomanto šeimynykštis [famulus] ir sugrąžino pas brolius.\n\n\n\n\n             211 (206)."
+  citata_rodoma: |
+    Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
+    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
+
+
+
+
+                 211 (206).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

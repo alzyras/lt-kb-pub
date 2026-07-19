@@ -95,7 +95,17 @@ Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bi
     vardu ne tik patys gyventojai, bet ir kaimynai lenkai va­
     dino visą kraštą, plytėjusį nuo Vyslos ligi Priegliaus ir
     toliau.
-  citata_rodoma: "248\n\n## Puslapis 259\n\n251\nPrūsai arba Prūsija. Pirmą sykį raštuose žodį Pruzzi,\ntaip pat ir Pruzta aptinkame šv. Vaitiekaus gyvenimo ap­\nrašyme; jo autorius buvo šventojo mokinys ir apaštala­\nvimo Prūsijoje bičiulis, arkivyskupas Gaudencijus*, rašęs\n997—1006 metais."
+  citata_rodoma: |
+    248
+
+    ## Puslapis 259
+
+    251
+    Prūsai arba Prūsija. Pirmą sykį raštuose žodį Pruzzi,
+    taip pat ir Pruzta aptinkame šv. Vaitiekaus gyvenimo ap­
+    rašyme; jo autorius buvo šventojo mokinys ir apaštala­
+    vimo Prūsijoje bičiulis, arkivyskupas Gaudencijus*, rašęs
+    997—1006 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

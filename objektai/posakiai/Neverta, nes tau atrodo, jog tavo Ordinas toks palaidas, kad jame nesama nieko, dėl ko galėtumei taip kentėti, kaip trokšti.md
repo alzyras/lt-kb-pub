@@ -132,7 +132,14 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     kur buvo susirinkę broliai, ir dabar, daugiau supratęs bei patyręs, nuolankiai atšaukė
     savo klaidingą nuomonę ir atsisakė savo sumanymo, kurį anksčiau lengvapėdiškai buvo
     priėmęs, ir visiems papasakojo matytą regėjimą.
-  citata_rodoma: "Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir\nAugustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo\npriimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė\nMarija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam\nvis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,\nnes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei\ntaip kentėti, kaip trokšti“."
+  citata_rodoma: |
+    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
+    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
+    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
+    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
+    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
+    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
+    taip kentėti, kaip trokšti“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

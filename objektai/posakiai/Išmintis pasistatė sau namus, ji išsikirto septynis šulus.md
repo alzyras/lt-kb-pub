@@ -138,7 +138,18 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     pastatyti ant tvirtos uolos, o toji uola — Kristus.
     151  Popiežius Celestinas III (1191—1198) 1196 m. patvirtino Vokiečių namų Jeruzalėje
     ligoninės šventosios Marijos broliją.
-  citata_rodoma: "Šitokie dvasiniai\nšulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo\nšventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos\npotvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie negalėtų sugriūti: mat jie\npastatyti ant tvirtos uolos, o toji uola — Kristus.\n\n\n\n\n\n  151 Popiežius Celestinas III (1191—1198) 1196 m."
+  citata_rodoma: |
+    Šitokie dvasiniai
+    šulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo
+    šventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos
+    potvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie negalėtų sugriūti: mat jie
+    pastatyti ant tvirtos uolos, o toji uola — Kristus.
+
+
+
+
+
+      151 Popiežius Celestinas III (1191—1198) 1196 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

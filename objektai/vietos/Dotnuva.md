@@ -91,7 +91,13 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
     kykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie
     1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,
     kalbų ir istorijos, karo mokslus.
-  citata_rodoma: "Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio\nakademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-\nalistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-\nkykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie\n1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,\nkalbų ir istorijos, karo mokslus."
+  citata_rodoma: |
+    Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
+    akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-
+    alistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-
+    kykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie
+    1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,
+    kalbų ir istorijos, karo mokslus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

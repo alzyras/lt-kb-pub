@@ -100,7 +100,11 @@ media_all_json: |-
     1376—1430 Collec. opera A. Prochaska. Cracoviae,
     1882 (VI tom. iš „Monumentą medii aevi historica res
     gestas Poloniae illustrantia“).
-  citata_rodoma: "C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.\n1376—1430 Collec. opera A. Prochaska. Cracoviae,\n1882 (VI tom. iš „Monumentą medii aevi historica res\ngestas Poloniae illustrantia"
+  citata_rodoma: |
+    C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.
+    1376—1430 Collec. opera A. Prochaska. Cracoviae,
+    1882 (VI tom. iš „Monumentą medii aevi historica res
+    gestas Poloniae illustrantia“).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

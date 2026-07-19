@@ -99,7 +99,18 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
     metburgą. Sis miestas senovėje buvęs labai garsus, nes
     jį paveldėjęs Flamoro įpėdinis Biartmaras savo galia ne­
     nusileido karaliams.
-  citata_rodoma: "Goterio sū­\nnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­\ntraukė baigiantis II krikščioniškosios eros amžiui4.\n232\nSkandinavų didvyris, vadinamas Sturlaugu Darbš-\nčiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,\no vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam\nkraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo\nRusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­\ntas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis\nSliselburgas."
+  citata_rodoma: |
+    Goterio sū­
+    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
+    traukė baigiantis II krikščioniškosios eros amžiui4.
+    232
+    Skandinavų didvyris, vadinamas Sturlaugu Darbš-
+    čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
+    o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
+    kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
+    Rusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­
+    tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
+    Sliselburgas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

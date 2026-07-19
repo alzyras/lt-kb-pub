@@ -93,7 +93,10 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
     talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
     didelėms nelaimėms.
-  citata_rodoma: "Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­\ntalikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą\ndidelėms nelaimėms."
+  citata_rodoma: |
+    Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
+    talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
+    didelėms nelaimėms.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -130,7 +133,12 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     didelėms nelaimėms. Jo kūnas per aštuonias dienas buvo vie­
     šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
     su savo dideliu valdovu.
-  citata_rodoma: "Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­\ntalikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą\ndidelėms nelaimėms. Jo kūnas per aštuonias dienas buvo vie­\nšai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti\nsu savo dideliu valdovu."
+  citata_rodoma: |
+    Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
+    talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
+    didelėms nelaimėms. Jo kūnas per aštuonias dienas buvo vie­
+    šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
+    su savo dideliu valdovu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

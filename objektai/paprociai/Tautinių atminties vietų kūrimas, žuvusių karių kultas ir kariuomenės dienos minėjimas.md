@@ -92,7 +92,12 @@ Nenurodyta
     vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
     karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
     kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
-  citata_rodoma: "1934 m. lapkričio 23 d. \nKaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-\nvę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi \nkarių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-\nkilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji."
+  citata_rodoma: |
+    1934 m. lapkričio 23 d.
+    Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-
+    vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
+    karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
+    kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

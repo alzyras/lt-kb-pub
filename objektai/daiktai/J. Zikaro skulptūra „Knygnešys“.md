@@ -91,7 +91,14 @@ Nenurodyta
     118
     griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į
     Lietuvą nesustabdė.
-  citata_rodoma: "Nors valdžia ir žandarai knygnešius gaudė ir baudė dar \nKnygnešys. J. Zikaro skulptūra (1939 m.)\n\nL I E T U V O S  I S T O R I J A\n118\ngriežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į \nLietuvą nesustabdė."
+  citata_rodoma: |
+    Nors valdžia ir žandarai knygnešius gaudė ir baudė dar
+    Knygnešys. J. Zikaro skulptūra (1939 m.)
+
+    L I E T U V O S  I S T O R I J A
+    118
+    griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į
+    Lietuvą nesustabdė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

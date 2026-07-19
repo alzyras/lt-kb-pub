@@ -182,7 +182,8 @@ Nenurodyta
     galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir
     krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
     titulai.
-  citata_rodoma: "ANBO ir krepšinis."
+  citata_rodoma: |
+    ANBO ir krepšinis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -203,7 +204,8 @@ Nenurodyta
     padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
     Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
     pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
-  citata_rodoma: "pagamintas lengvasis bombonešis ANBO VIII (1939 m.)"
+  citata_rodoma: |
+    pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -222,7 +224,9 @@ Nenurodyta
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
     jos dirbtuvėse.
-  citata_rodoma: "66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-\njos dirbtuvėse."
+  citata_rodoma: |
+    66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
+    jos dirbtuvėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +246,8 @@ Nenurodyta
     buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių).
-  citata_rodoma: "tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,"
+  citata_rodoma: |
+    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

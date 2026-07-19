@@ -135,7 +135,8 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   citata_originali: |
     Mūsų nuomone, D. aprašyta Romovė resp. Romuva — autentiškas faktas.
     205 D. Criwe, Jer. der obriste êwarte, t. y. vyriausiasis kunigas (ar teisėjas).
-  citata_rodoma: "Mūsų nuomone, D. aprašyta Romovė resp. Romuva — autentiškas faktas."
+  citata_rodoma: |
+    Mūsų nuomone, D. aprašyta Romovė resp. Romuva — autentiškas faktas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

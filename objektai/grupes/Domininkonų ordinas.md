@@ -312,7 +312,12 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     domininkonai turėjo atvesti naujus pilgrimų būrius. Tuo tarpu
     žemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie
     ten šaltai buvo priimti.
-  citata_rodoma: "Iš naujo skelbdami kryžiaus\nkarą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,\ndomininkonai turėjo atvesti naujus pilgrimų būrius. Tuo tarpu\nžemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie\nten šaltai buvo priimti."
+  citata_rodoma: |
+    Iš naujo skelbdami kryžiaus
+    karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,
+    domininkonai turėjo atvesti naujus pilgrimų būrius. Tuo tarpu
+    žemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie
+    ten šaltai buvo priimti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -338,7 +343,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     kai, nors daug kur buvo dar kūrenama šventoji lietuvių ugnis
     ir nesigirdėjo bažnyčios varpų, šaukiančių melstis tikrajam
     Dievui.
-  citata_rodoma: "Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir\nstačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro\nvyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną\nGregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­\nrėjo tame krašte labiau įsigalėti.\nIš čia matome, kad Liet."
+  citata_rodoma: |
+    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
+    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
+    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
+    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
+    rėjo tame krašte labiau įsigalėti.
+    Iš čia matome, kad Liet.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -448,7 +459,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
     597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: "Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus\nIII (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).\n  Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III."
+  citata_rodoma: |
+    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
+    III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
+      Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -523,7 +537,31 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     dicto expirato et tantum (ü) secundum terre fertilitatem
     datunt decimam prout in aliis regnis vėl provinciis (m) darė
     consueverunt.
-  citata_rodoma: "Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­\nnuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,\n[tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­\ndaro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]\nsielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­\ndo dvasininkus; patariame kiekvienam valdovui pasisaugoti\ntokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­\nkai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka\nmalone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­\nlių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­\njamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios\npadėties amatininkams, būtent, meistrams, kurpiams, račiams,\nakmenskaldžiams, druskininkams, malūnininkams, sidabra-\nkaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­\ntiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su\n59\n\n## Puslapis 76\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmedio ipse (1) at omni opere regio sint exempti, termino pre-\ndicto expirato et tantum (ü) secundum terre fertilitatem\ndatunt decimam prout in aliis regnis vėl provinciis (m) darė\nconsueverunt."
+  citata_rodoma: |
+    Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
+    nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
+    [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
+    daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]
+    sielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­
+    do dvasininkus; patariame kiekvienam valdovui pasisaugoti
+    tokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­
+    kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka
+    malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­
+    lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­
+    jamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios
+    padėties amatininkams, būtent, meistrams, kurpiams, račiams,
+    akmenskaldžiams, druskininkams, malūnininkams, sidabra-
+    kaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­
+    tiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su
+    59
+
+    ## Puslapis 76
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    medio ipse (1) at omni opere regio sint exempti, termino pre-
+    dicto expirato et tantum (ü) secundum terre fertilitatem
+    datunt decimam prout in aliis regnis vėl provinciis (m) darė
+    consueverunt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -555,7 +593,19 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     broliams kryžiuočiams skriaudą darydami, skleidė melą, esą
     rusinai ir lietuviai gera valia pareiškę norą krikščionių pa­
     pročiu krikštytis, bet jiems to daryti neleidžiama.
-  citata_rodoma: "Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad \nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir \npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu \nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote \nesant. Išorinį įrodymą randame pasakytą pirmiausia J e r o - \nš i n o, p."
+  citata_rodoma: |
+    Vėliau viskas byloja, jog Gediminas per pasiun­
+    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
+    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
+    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
+    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
+    kada nebuvo dėl jų suabejojęs.
+    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
+    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
+    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
+    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
+    esant. Išorinį įrodymą randame pasakytą pirmiausia J e r o -
+    š i n o, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -92,7 +92,12 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
     3 Generolo grafo Kosakovskio senienų rinkinyje yra stiklinis
     tuščiaviduris rutuliukas, kuris buvo atkastas netoli Lukoinių dva­
     ro (Kauno apskrityje) greta skeleto, apjuosto sidabro grandine.
-  citata_rodoma: "T. Narbutas turėjo omenyje straipsnj:\nKrotki spis niektorych starožytnych zabytkow, znajdujących się w\nzbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza\npisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-\ngo // Dziennik Wilenski. 1823. T. II. S. 157—161."
+  citata_rodoma: |
+    T. Narbutas turėjo omenyje straipsnj:
+    Krotki spis niektorych starožytnych zabytkow, znajdujących się w
+    zbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza
+    pisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-
+    go // Dziennik Wilenski. 1823. T. II. S. 157—161.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

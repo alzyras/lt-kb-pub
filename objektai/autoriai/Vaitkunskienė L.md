@@ -78,7 +78,9 @@ Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
     reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
     palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
     su 40 brolių ir šimtu rinktinių ginklanešių.
-  citata_rodoma: "525  Apie auksą ir sidabrą senovės Lietuvoje bei sidabro dirbinius žr. Vaitkunskienė\nL., Sidabras..., p. 10 ir kt."
+  citata_rodoma: |
+    525  Apie auksą ir sidabrą senovės Lietuvoje bei sidabro dirbinius žr. Vaitkunskienė
+    L., Sidabras..., p. 10 ir kt.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -99,7 +99,13 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     profesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau­
     nųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak­
     1 Maciūnas L Lituanistinis sąjūdis XIX a. pradžioje.
-  citata_rodoma: "(Taip, pavyzdžiui, Stanislovo\nStašico žodžiais buvo nusakomi Varšuvos mokslo bičiulių drau­\ngijos tikslai1 2.) O kaip viena iš svarbiausių sudedamųjų tauti­\nnės kultūros dalių buvo suprantama mitologija. „Sukūrimas\ntautinės mitologijos“ beveik visose šalyse „buvo viena iš ben­\ndro patriotinio reikalo grandžių“3."
+  citata_rodoma: |
+    (Taip, pavyzdžiui, Stanislovo
+    Stašico žodžiais buvo nusakomi Varšuvos mokslo bičiulių drau­
+    gijos tikslai1 2.) O kaip viena iš svarbiausių sudedamųjų tauti­
+    nės kultūros dalių buvo suprantama mitologija. „Sukūrimas
+    tautinės mitologijos“ beveik visose šalyse „buvo viena iš ben­
+    dro patriotinio reikalo grandžių“3.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

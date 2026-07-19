@@ -72,7 +72,8 @@ Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios l
     1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-
     vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
     Lietuvos atstatymo, remiantis nekintama lietuvių tautos valia“.
-  citata_rodoma: "vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos"
+  citata_rodoma: |
+    vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

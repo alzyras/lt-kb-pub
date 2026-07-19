@@ -72,7 +72,20 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
     pas popiežių; visos sąjungos ir susimokiusiųjų sambūriai,
     gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
     nekuriami.
-  citata_rodoma: "Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­\nka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali \nbūti pateisinti, o kai kurie priekaištai suvis prasimanyti33.\nPopiežius po atskiro pasitarimo su kardinolais visuoti­\nniame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­\ndino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai \natiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­\nmas kris ant to, kuris mūšyje sužeistą Ordino brolį pribaig­\ntų arba skatintų tokį nusikaltimą daryti; niekas daugiau ne­\ngali trukdyti arba kelti sunkumų tiems, kurie norėtų vykti \npas popiežių; visos sąjungos ir susimokiusiųjų sambūriai, \ngresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje \nnekuriami."
+  citata_rodoma: |
+    Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
+    ka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali
+    būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.
+    Popiežius po atskiro pasitarimo su kardinolais visuoti­
+    niame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­
+    dino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai
+    atiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­
+    mas kris ant to, kuris mūšyje sužeistą Ordino brolį pribaig­
+    tų arba skatintų tokį nusikaltimą daryti; niekas daugiau ne­
+    gali trukdyti arba kelti sunkumų tiems, kurie norėtų vykti
+    pas popiežių; visos sąjungos ir susimokiusiųjų sambūriai,
+    gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
+    nekuriami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

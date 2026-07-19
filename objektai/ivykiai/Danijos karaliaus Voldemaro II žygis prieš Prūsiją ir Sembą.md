@@ -90,7 +90,16 @@ Nenurodyta
     tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
     dovanojęs Gdansko kunigaikštis Mščujus, ketinęs panaudoti cistersų misiją savo
     politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
-  citata_rodoma: "161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios\nmisijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,\ntiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas\nir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno). Kristijono misijai padėjo Danijos\nkaraliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui\npripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad\ntai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui\ndovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo\npolitiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas."
+  citata_rodoma: |
+    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
+    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
+    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
+    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno). Kristijono misijai padėjo Danijos
+    karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui
+    pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad
+    tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
+    dovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo
+    politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

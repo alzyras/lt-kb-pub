@@ -88,7 +88,14 @@ Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vad
     Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
     gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
     rinė Europos pakrantė.
-  citata_rodoma: "Sala, kurią Plinijus vadina Baltija, remdamasis visais\nHardua rankraščiais ir stebėjimais, turėtų vadintis Basi-\nlia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų\nkelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2\nFosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­\nroje, Austraviją, arba Glesariją, nurodo esant fryzų sala\nAmelandu."
+  citata_rodoma: |
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
+    kelionės nuo sausumos atstumu. Kiek čia nepatikimumo!2
+    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
+    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
+    Amelandu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

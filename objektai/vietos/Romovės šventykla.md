@@ -278,7 +278,13 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     XVII amžiaus pabaigoje jėzuitai atsikraustė į Kauną, lai iš pra­
     džių įsigijo tik du pastatus: viename palys apsigyveno, o kitą per­
     statė į bažnyčią.
-  citata_rodoma: "Priešais ąžuolą,\nangos link, sienoje stovėjo aukurai, kuriuose buvo deginamos\naukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­\nrioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla\nbuvo Adytum. Aikštėje buvo sukrautos stirtos malkų šventajai\nugniai palaikyti."
+  citata_rodoma: |
+    Priešais ąžuolą,
+    angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
+    aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
+    rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
+    buvo Adytum. Aikštėje buvo sukrautos stirtos malkų šventajai
+    ugniai palaikyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -299,7 +305,13 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     Senprūsių kalbojeR/Uv, arbaRyks, reiškė valstybę, Rikaus-
     na - valdžią, Rikys - valdovą, Rykyans - viešpatavimą, Ryeki -
     karalystę, Rikint - valdyti.
-  citata_rodoma: "Tad paskaitykime dabar pačios seno­\nvinės šventyklos aprašymą. Plačios lygumos, užliejamos dvie­\njų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,\nneišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­\npis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis\nšventyklos kampus7."
+  citata_rodoma: |
+    Tad paskaitykime dabar pačios seno­
+    vinės šventyklos aprašymą. Plačios lygumos, užliejamos dvie­
+    jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
+    neišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­
+    pis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis
+    šventyklos kampus7.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

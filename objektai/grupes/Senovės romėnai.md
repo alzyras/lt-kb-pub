@@ -557,7 +557,12 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     graikų mitologijos Trejybė.
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-  citata_rodoma: "Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­\nkiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,\nDii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla."
+  citata_rodoma: |
+    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
+    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
+    Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -578,7 +583,13 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     dydžio, išmaitintą pienu; ji išdarinėjusi neapsakomus dalykus.
     Ji buvo vieno lietuvių kaimiečio, gyvenusio Neringoje, arba
     Kuršių nerijoje, namų dievaitė XVI amžiaus pirmojoje pusėje.
-  citata_rodoma: "Pasak Plutarcho, pas atėniečius prijaukinti žal­\nčiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­\nvo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­\nnėms apsireikšdavo žalčiu.\nPer daug ilgai reikėtų vardyti visas smulkmenas, bendras\nlietuviams ir Antikos tautoms, iš tos pačios srities."
+  citata_rodoma: |
+    Pasak Plutarcho, pas atėniečius prijaukinti žal­
+    čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
+    vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
+    nėms apsireikšdavo žalčiu.
+    Per daug ilgai reikėtų vardyti visas smulkmenas, bendras
+    lietuviams ir Antikos tautoms, iš tos pačios srities.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -638,7 +649,13 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
     šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
     jokios statulos, net paties Heraklio.
-  citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
+  citata_rodoma: |
+    Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -659,7 +676,15 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
     gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
     ne. muskis. und man'.
-  citata_rodoma: "Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv."
+  citata_rodoma: |
+    Šis ugnies krikštas, arba apsivalymas
+    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
+    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
+    gas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai
+    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
+    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
+    Palės garbei.
+    Būrimus, darytus su ugnimi, uždegta šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -680,7 +705,14 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
     dievų valia. Šis žynys pirmiausia melsdavo dangaus dievą Uka-
     pirmą ir žemės dievą Pušaitį, idant neleistų vagiui pabėgti.
-  citata_rodoma: "Bet kol stabmeldystė tebebuvo\nsavo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo\nnepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­\nčias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino\nAmbervales arba Cum solemnia vota lustrare agros (iškilmin­\ngomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­\nšventinimu atnašaujant iškilmingas aukas."
+  citata_rodoma: |
+    Bet kol stabmeldystė tebebuvo
+    savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
+    nepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­
+    čias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino
+    Ambervales arba Cum solemnia vota lustrare agros (iškilmin­
+    gomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­
+    šventinimu atnašaujant iškilmingas aukas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -701,7 +733,12 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     globtė (Abglojte), kas reiškia nuometą. Uždedant ant galvos šį
     vainiką, svočia (Pirszle) lietuviškai dainuodavo tokį dvieilį:
     Dziewczynę gdy przyyviedziesz, to cząstka twego data.
-  citata_rodoma: "Visa tai trukdavo iki vėlyvos nakties. \nPrieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­\nvos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­\nkišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap- \nglobtė (Abglojte), kas reiškia nuometą."
+  citata_rodoma: |
+    Visa tai trukdavo iki vėlyvos nakties.
+    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
+    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
+    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
+    globtė (Abglojte), kas reiškia nuometą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -748,7 +785,14 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     Viršaitis (Wirszajtos)
     Šio dievo stabas buvo senojoje Romovės šventykloje, jis
     buvo labai gerbiamas.
-  citata_rodoma: "Iš jų dažnai galima išgirsti: tas jau\nbiją winnam Likis („taip jam jau buvo lemta“)1 2.\nGraikai bei romėnai, kuriuos šiame veikale minėsime va­\ndindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas\ndievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti\npasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia\nviskam."
+  citata_rodoma: |
+    Iš jų dažnai galima išgirsti: tas jau
+    biją winnam Likis („taip jam jau buvo lemta“)1 2.
+    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
+    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
+    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
+    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
+    viskam.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -766,7 +810,11 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     lentelėje. Skaitykite straipsnį apie herbus.
     Šneibratas (Sznejbrato)
     Paukščių ūkio ir medžioklės dievas.
-  citata_rodoma: "Šio dievo mitas taip pat sutampa su senovės persų Oro-\nmazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai\nvadino jį Niger Deus ir painiojo su Plutono mitais. Senovės\nsaksai jį vadino Aire."
+  citata_rodoma: |
+    Šio dievo mitas taip pat sutampa su senovės persų Oro-
+    mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
+    vadino jį Niger Deus ir painiojo su Plutono mitais. Senovės
+    saksai jį vadino Aire.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -846,7 +894,14 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
     du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais.
-  citata_rodoma: "Užrašas virš akmenų galvų -  runomis'*.\nLietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra\nviduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­\nni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­\ntoj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­\n9\nNeseckis (Herbarz Polski."
+  citata_rodoma: |
+    Užrašas virš akmenų galvų -  runomis'*.
+    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
+    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
+    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
+    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
+    9
+    Neseckis (Herbarz Polski.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -81,7 +81,9 @@ media_all_json: |-
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: "•\t išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-\ntūros mokyklą,"
+  citata_rodoma: |
+    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
+    tūros mokyklą,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

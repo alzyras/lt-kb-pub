@@ -140,7 +140,8 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
     lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
     T. Korsakas.
-  citata_rodoma: "lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius"
+  citata_rodoma: |
+    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

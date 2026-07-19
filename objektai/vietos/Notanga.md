@@ -304,7 +304,16 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
     žudynių vienas notangas pamovė ant ieties brolio Jono, minėtojo vicekomtūro, galvą ir,
     ją pakėlęs aukštyn, pasakė: „Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų
     buvę nukauti“.
-  citata_rodoma: "Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių\n\n  Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės\nnaujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,\nnei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.\nDėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."
+  citata_rodoma: |
+    Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
+
+      Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
+    naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
+    nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
+    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
+    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
+    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
+    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -324,7 +333,15 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
     ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
     drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
     moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
-  citata_rodoma: "Apie vienos Notangos dalies nuniokojimą\n\n  Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],\nkurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],\nnenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],\nir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė\ndrauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su\nmoterimis ir mažais vaikais išsivarė kartu su kitu grobiu."
+  citata_rodoma: |
+    Apie vienos Notangos dalies nuniokojimą
+
+      Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
+    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
+    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
+    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
+    drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
+    moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -346,7 +363,11 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
     išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
     juos apsupo, bet nedrįso į kaimą brautis, o broliai — iš kaimo išeiti ir stoti į mūšį.
-  citata_rodoma: "Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."
+  citata_rodoma: |
+    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
+    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
+    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
+    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -369,7 +390,13 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
     pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
     prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
     rankų.
-  citata_rodoma: "Kitą\n  552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,\ndab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).\n\ndieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir\nplėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių."
+  citata_rodoma: |
+    Kitą
+      552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
+    dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
+
+    dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
+    plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -391,7 +418,11 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  citata_rodoma: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

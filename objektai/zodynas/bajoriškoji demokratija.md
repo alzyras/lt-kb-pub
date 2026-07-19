@@ -87,7 +87,12 @@ media_all_json: |-
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: "Taigi Abiejų Tautų Respublika:\n•\t aprūpino Vakarus (per Gdanską į Amsterdamą) javais, \n•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir \nbajoriškosios demokratijos tradiciją, \n•\t Vilnius XVI–XVIII a."
+  citata_rodoma: |
+    Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

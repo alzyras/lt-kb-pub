@@ -65,7 +65,16 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
     Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
     varniuose, Veliuonoje.
-  citata_rodoma: "Trakuose,\nDarsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­\nbingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje."
+  citata_rodoma: |
+    Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

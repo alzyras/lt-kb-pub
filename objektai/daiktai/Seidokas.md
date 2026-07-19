@@ -82,9 +82,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
-        darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
-        patį darbą reiks atlikti, kurį ant svieto dirbo.
-  citata_rodoma: "mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697\ndarbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą\npatį darbą reiks atlikti, kurį ant svieto dirbo."
+    darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
+    patį darbą reiks atlikti, kurį ant svieto dirbo.
+  citata_rodoma: |
+    mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
+    darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
+    patį darbą reiks atlikti, kurį ant svieto dirbo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

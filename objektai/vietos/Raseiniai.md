@@ -466,7 +466,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     gėda apėmė ginkluotus karius, kad nelyginant plėši­
     kai siaubia beginklius žmones ir kaimiečių lūšneles,
     1322 m eta i
-    V o k ie č ių ir k r y ž iu o ­
+    V o k ie č ių  ir k r y ž iu o ­
     čių
     š v e n ta sis
     karas
@@ -494,7 +494,10 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
     kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
     sūnus, iš Petro.
-  citata_rodoma: "Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio\nautorius, man rašytame laiške (Raseiniai. -  1836.IV19)*."
+  citata_rodoma: |
+    Taip tvirtina ponas Simo­
+    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
+    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

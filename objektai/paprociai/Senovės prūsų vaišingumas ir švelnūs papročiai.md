@@ -84,7 +84,8 @@ Nenurodyta
     ir Pagude, šiaurėje buvo Baltijos jūra. Šioje provincijoje
     gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš
     labiausiai civilizuotų ir mažiausiai karingi.
-  citata_rodoma: "Šioje provincijoje gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš labiausiai civilizuotų ir mažiausiai karingi."
+  citata_rodoma: |
+    Šioje provincijoje gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš labiausiai civilizuotų ir mažiausiai karingi.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -224,7 +224,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     18-38 p. — Fijalek, J. : _Uchrześcijanieuie Litwy przez Polskę,_ PiL, 1914,
     37-333 p. — Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
     1919, 1920.
-  citata_rodoma: "Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków\n1919, 1920."
+  citata_rodoma: |
+    Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
+    1919, 1920.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -245,7 +247,11 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     leckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­
     žiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.
     Taip galvoja Haleckis.
-  citata_rodoma: "Galingam Vytautui, kaip mano Ha­\nleckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­\nžiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.\nTaip galvoja Haleckis."
+  citata_rodoma: |
+    Galingam Vytautui, kaip mano Ha­
+    leckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­
+    žiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.
+    Taip galvoja Haleckis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -264,7 +270,11 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).**
     (^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**
     (^63) **CEV, 205 p.**
-  citata_rodoma: "**\n(^61) **O. Halecki :** **_From Florence to Brest_** **, Sacrum Poloniae Millennium,\nV, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).**\n(^62) **A."
+  citata_rodoma: |
+    **
+    (^61) **O. Halecki :** **_From Florence to Brest_** **, Sacrum Poloniae Millennium,
+    V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).**
+    (^62) **A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -289,7 +299,14 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     tas kryžiuočiams taip seniai trokštamas galimumas susijungti
     su Livonijos Ordinu. Jogailos ir lenkų pažiūros buvo tokios,
     kad Vytautas neturi teisės atiduoti kam nors Lietuvos dalies.
-  citata_rodoma: "Šis\nužsimojimas, kaip mano Haleckis, pavojingas buvo dviem at­\nžvilgiais: Lietuva, kuriai Vytautas neseniai troško atgauti Klai­\npėdą, būtų buvus visiškai atkirsta nuo jūros ir būtų buvęs suteik­\ntas kryžiuočiams taip seniai trokštamas galimumas susijungti\nsu Livonijos Ordinu. Jogailos ir lenkų pažiūros buvo tokios,\nkad Vytautas neturi teisės atiduoti kam nors Lietuvos dalies."
+  citata_rodoma: |
+    Šis
+    užsimojimas, kaip mano Haleckis, pavojingas buvo dviem at­
+    žvilgiais: Lietuva, kuriai Vytautas neseniai troško atgauti Klai­
+    pėdą, būtų buvus visiškai atkirsta nuo jūros ir būtų buvęs suteik­
+    tas kryžiuočiams taip seniai trokštamas galimumas susijungti
+    su Livonijos Ordinu. Jogailos ir lenkų pažiūros buvo tokios,
+    kad Vytautas neturi teisės atiduoti kam nors Lietuvos dalies.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -306,7 +323,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     knjazej XIV-XVI vv. Maskva-Leningradas 1950.
     HaU = Halecki, O. : Dzieje Unii Jagiellońskiej, t. 1-2, Krokuva
     1919-1920.
-  citata_rodoma: "HaU = Halecki, O. : Dzieje Unii Jagiellońskiej, t. 1-2, Krokuva\n1919-1920."
+  citata_rodoma: |
+    HaU = Halecki, O. : Dzieje Unii Jagiellońskiej, t. 1-2, Krokuva
+    1919-1920.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -325,7 +344,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     Algirdaitis, LE, t. 14, 387-388 p. — (”) Salzbach Marquard von, LE, t. 26,
     373-375 p. — (”) Skirgaila, LE, t. 28, 50-53 p. — (”) Vytautas Did., LE,
     t. 34, 376-379 p. — Jakubowski, J. : Opis księstwa Trockiego z r.
-  citata_rodoma: "Halecki,\nO.: Witold, PamZH, II, 1930, 153-168 p"
+  citata_rodoma: |
+    Halecki,
+    O.: Witold, PamZH, II, 1930, 153-168 p
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -346,7 +367,13 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
     nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
     gas.
-  citata_rodoma: "Len­\nkai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­\nta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ). Len­\nkų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją\nnepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­\ngas."
+  citata_rodoma: |
+    Len­
+    kai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­
+    ta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ). Len­
+    kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
+    nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
+    gas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -367,7 +394,11 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
     dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
     žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
-  citata_rodoma: "Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais\nraštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug\ndėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­\nžiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU)."
+  citata_rodoma: |
+    Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
+    raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
+    dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
+    žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

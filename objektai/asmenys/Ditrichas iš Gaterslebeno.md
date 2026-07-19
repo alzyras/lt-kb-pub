@@ -94,7 +94,12 @@ Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Br
     406  Meiseno markgrafas Ditrichas II.
     407 D.— invenit propugnaculum in introitu terre Nattangie; Jer.— dî zucht kegn
     Nattąngin in daz lant, an dets înwege er sâ vant gebûwit eine vestin.
-  citata_rodoma: "Apie brolį Ditrichą, aštuntą Prūsijos magistrą\n\n   Brolis Ditrichas iš Gaterslebeno, aštuntas Prūsijos žemės magistras, vadovavo šešerius\nmetus405, pradėjęs 1271 viešpaties metais. Tuo pat metu maršalu buvo brolis Konradas\niš Tirbergo Vyresnysis."
+  citata_rodoma: |
+    Apie brolį Ditrichą, aštuntą Prūsijos magistrą
+
+       Brolis Ditrichas iš Gaterslebeno, aštuntas Prūsijos žemės magistras, vadovavo šešerius
+    metus405, pradėjęs 1271 viešpaties metais. Tuo pat metu maršalu buvo brolis Konradas
+    iš Tirbergo Vyresnysis.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

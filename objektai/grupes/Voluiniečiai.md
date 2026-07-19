@@ -86,7 +86,11 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
     XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
     ir čia sukūrė savo valstybes. Vieni jų atsikraustė į Padauguvį (ka-
     lavijuočiai), o kiti į Pavyslį (kryžiuočiai).
-  citata_rodoma: "Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-\nsidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-\nnavai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.\nXIII amž."
+  citata_rodoma: |
+    Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-
+    sidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-
+    navai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.
+    XIII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -69,7 +69,13 @@ Tos kronikos pamini taip pat mirtį « daugybės kryžininkų » (pilgrimų). He
     paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
     krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
     Aistmarių.
-  citata_rodoma: "Hermano Wartberges kronikoje yra smulkiau\npažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,\nsiena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai\npaliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės\nkrantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki\nAistmarių."
+  citata_rodoma: |
+    Hermano Wartberges kronikoje yra smulkiau
+    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
+    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
+    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
+    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
+    Aistmarių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

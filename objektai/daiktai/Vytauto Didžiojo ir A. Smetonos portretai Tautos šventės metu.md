@@ -95,7 +95,8 @@ Nenurodyta
     valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
     portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
-  citata_rodoma: "valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos"
+  citata_rodoma: |
+    valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

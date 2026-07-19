@@ -136,7 +136,11 @@ Nenurodyta
     ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­
     pėdos su trijų mylių ruožu nuo jūros^30. Tai reiškė projektą naujos
     sienos, kuri už dvejų metų buvo priimta prie Melno ežero.
-  citata_rodoma: "Kryžiuočiams laikantis savo, kunigaikštis suti­\nko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­\npėdos su trijų mylių ruožu nuo jūros^30. Tai reiškė projektą naujos\nsienos, kuri už dvejų metų buvo priimta prie Melno ežero."
+  citata_rodoma: |
+    Kryžiuočiams laikantis savo, kunigaikštis suti­
+    ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­
+    pėdos su trijų mylių ruožu nuo jūros^30. Tai reiškė projektą naujos
+    sienos, kuri už dvejų metų buvo priimta prie Melno ežero.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

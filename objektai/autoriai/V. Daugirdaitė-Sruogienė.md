@@ -61,7 +61,9 @@ Sruogienė, V.
     Sruogienė, V. : Norimantas , LE, t. 20, 411-412 p. — Stadnicki, K. :
     Koryat Gedyminowicz i Koryjatowicze , RAU, t. 7, 1879, 1-146 p. — (”)
     Synowie Giedymina , I (Monwid, Narymunt, Jawnuta, Koryat) , Lwów
-  citata_rodoma: "—\nSruogienė, V. : Norimantas , LE, t. 20, 411-412 p."
+  citata_rodoma: |
+    —
+    Sruogienė, V. : Norimantas , LE, t. 20, 411-412 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

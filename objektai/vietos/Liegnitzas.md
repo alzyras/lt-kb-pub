@@ -68,7 +68,13 @@ Ir iš menkų šaltinių nuotrupų yra įmanoma šiek tiek įžvelgti, jog Minda
     1241 m. sulaikė ten totorių tolimesnį veržimąsi Europon, yra atlikęs
     jai _didelę paslaugą._ Jis sustabdė Čingis-chano kordų slinkimą į va­
     karus per jo valdomas žemes.
-  citata_rodoma: "Ir iš menkų šaltinių\nnuotrupų yra įmanoma šiek tiek įžvelgti, jog Mindaugas tuo pat\nlaiku, kai vokiečių ir Silezijos kunigaikščiai prie Liegnitzo (Silezijoje)\n1241 m. sulaikė ten totorių tolimesnį veržimąsi Europon, yra atlikęs\njai _didelę paslaugą._ Jis sustabdė Čingis-chano kordų slinkimą į va­\nkarus per jo valdomas žemes."
+  citata_rodoma: |
+    Ir iš menkų šaltinių
+    nuotrupų yra įmanoma šiek tiek įžvelgti, jog Mindaugas tuo pat
+    laiku, kai vokiečių ir Silezijos kunigaikščiai prie Liegnitzo (Silezijoje)
+    1241 m. sulaikė ten totorių tolimesnį veržimąsi Europon, yra atlikęs
+    jai _didelę paslaugą._ Jis sustabdė Čingis-chano kordų slinkimą į va­
+    karus per jo valdomas žemes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

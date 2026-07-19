@@ -183,7 +183,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: "K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
+  citata_rodoma: |
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -204,7 +205,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: "Žymiausio LDK karo inžinieriaus, daugiapakopių raketų"
+  citata_rodoma: |
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

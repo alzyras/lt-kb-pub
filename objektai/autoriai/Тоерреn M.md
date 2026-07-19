@@ -141,7 +141,9 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
     114 (109). Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
     Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
     Vaistotpilis389.
-  citata_rodoma: "385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio\npietvakarių kampas (Тоерреn M., Historisch.., p. 21)."
+  citata_rodoma: |
+    385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio
+    pietvakarių kampas (Тоерреn M., Historisch.., p. 21).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

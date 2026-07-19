@@ -56,7 +56,8 @@ Vakarų radijo stotims „Kronika“ tapo pagrindiniu medžiagos apie Lietuvą �
     veiklą ir propagandą. Vakarų radijo stotims „Kronika“ tapo pagrindiniu
     medžiagos apie Lietuvą šaltiniu. Jau pirmame jos numeryje išspausdintas
     lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,
-  citata_rodoma: "medžiagos apie Lietuvą šaltiniu. Jau pirmame jos numeryje išspausdintas"
+  citata_rodoma: |
+    medžiagos apie Lietuvą šaltiniu. Jau pirmame jos numeryje išspausdintas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

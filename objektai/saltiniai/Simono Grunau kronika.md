@@ -278,7 +278,13 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­
     ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
     dytojo sąžiningumas buvo ne žaislas.
-  citata_rodoma: "Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­\nžintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­\nninkų pranešimais ir savo paties duomenimis. Kronikininkas\nGrunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai\npatekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­\nkūnui, kad tos apeigos neišduosiąs vyskupui."
+  citata_rodoma: |
+    Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
+    žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
+    ninkų pranešimais ir savo paties duomenimis. Kronikininkas
+    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
+    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
+    kūnui, kad tos apeigos neišduosiąs vyskupui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -297,7 +303,11 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
     Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
     m.)82.
-  citata_rodoma: "Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.\n3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų\nredakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių\nlaikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81."
+  citata_rodoma: |
+    Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
+    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
+    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
+    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

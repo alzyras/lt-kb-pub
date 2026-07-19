@@ -82,7 +82,9 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
     kinimą“ jis parašė norėdamas parodyti, kiek daug T. Narbuto
     naudotuose šaltiniuose yra neteisingų, iškraipytų faktų ir kaip
     iš tiesų reikia vertinti lietuvių mitologiją.
-  citata_rodoma: "25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-\nzawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195."
+  citata_rodoma: |
+    25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
+    zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

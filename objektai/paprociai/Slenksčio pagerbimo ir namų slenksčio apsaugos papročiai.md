@@ -96,7 +96,15 @@ Nenurodyta
     gretimuose kaimuose skelbti; tuos varpus vadino gumbais
     (Gumbi); šios geležys buvo globojamos pavojaus dievo, šlovi­
     namo su ypatinga pagarba.
-  citata_rodoma: "Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje\npatalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­\nkas laikoma Dievo įžeidimu3. Jie turi tokią papročių taisyklę:\n„Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų\nslenksčio, nedaryk jam skriaudos, nes virš tavęs kybos amži­\nnas Dievo pyktis. Virš slenksčio ir po slenksčiu vieši namų lai­\nmė. Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­\nse“."
+  citata_rodoma: |
+    Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
+    patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
+    kas laikoma Dievo įžeidimu3. Jie turi tokią papročių taisyklę:
+    „Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų
+    slenksčio, nedaryk jam skriaudos, nes virš tavęs kybos amži­
+    nas Dievo pyktis. Virš slenksčio ir po slenksčiu vieši namų lai­
+    mė. Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
+    se“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

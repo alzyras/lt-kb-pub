@@ -122,7 +122,16 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
     Kutlukas, paprašęs trijų dienų pagalvoti,
     siuntė Vytautui daug galvijų, jaučių, avių,
     sveikino jį.
-  citata_rodoma: "Totorių pajėgos\nAukso ordos chano Timūr-Kutluko,\nKrymo emyro Edygos kariai.\n\nMūšis\n\nPokalbyje su chanu prieš mūšį Vytautas\ntarsi reikalavęs pavaldumo - visos Ordos\npinigus žymėti Vytauto ženklu."
+  citata_rodoma: |
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

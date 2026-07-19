@@ -543,7 +543,10 @@ Nenurodyta
     Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
     susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
     atkūrusia Lietuvos nepriklausomybę.
-  citata_rodoma: "Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu \nsusikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, \natkūrusia Lietuvos nepriklausomybę."
+  citata_rodoma: |
+    Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
+    susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
+    atkūrusia Lietuvos nepriklausomybę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -565,7 +568,12 @@ Nenurodyta
     vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
     kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
     vės, demokratijos, nepriklausomybės idealais.
-  citata_rodoma: "O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-\nnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-\nvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, \nkėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-\nvės, demokratijos, nepriklausomybės idealais."
+  citata_rodoma: |
+    O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
+    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
+    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
+    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
+    vės, demokratijos, nepriklausomybės idealais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -588,7 +596,11 @@ Nenurodyta
     rinkti iniciatyvinės grupės vadovo –
     posėdžiams pirmininkavo kiekvienas
     narys iš eilės.
-  citata_rodoma: "Steigiant LPS apdairiai sutarta ne-\nrinkti iniciatyvinės grupės vadovo – \nposėdžiams pirmininkavo kiekvienas \nnarys iš eilės."
+  citata_rodoma: |
+    Steigiant LPS apdairiai sutarta ne-
+    rinkti iniciatyvinės grupės vadovo –
+    posėdžiams pirmininkavo kiekvienas
+    narys iš eilės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -608,7 +620,11 @@ Nenurodyta
     1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis
     buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
     Lietuvos gyventojai.
-  citata_rodoma: "1988 m. spalio pabaigoje \n1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis \nbuvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi \nLietuvos gyventojai."
+  citata_rodoma: |
+    1988 m. spalio pabaigoje
+    1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis
+    buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
+    Lietuvos gyventojai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -632,7 +648,9 @@ Nenurodyta
     demonstracijas įsakus.
     Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suva-
     žiavimas, kuriame dalyvavo 1 021 delegatas.
-  citata_rodoma: "Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suva-\nžiavimas, kuriame dalyvavo 1 021 delegatas."
+  citata_rodoma: |
+    Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suva-
+    žiavimas, kuriame dalyvavo 1 021 delegatas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -651,7 +669,11 @@ Nenurodyta
     kričio 25 d. išrinktas muzikologas Vytautas Landsbergis. Nuo šiol organi-
     zuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-
     tijai.
-  citata_rodoma: "Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lap-\nkričio 25 d. išrinktas muzikologas Vytautas Landsbergis. Nuo šiol organi-\nzuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-\ntijai."
+  citata_rodoma: |
+    Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lap-
+    kričio 25 d. išrinktas muzikologas Vytautas Landsbergis. Nuo šiol organi-
+    zuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-
+    tijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -674,7 +696,13 @@ Nenurodyta
     naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
     sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
     šalies politiniame gyvenime.
-  citata_rodoma: "1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį. Jau tų \nmetų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai \nlaimėjo LPS kandidatai, o gruodžio 7 dienos konstitucijos pataisomis pa-\nnaikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos \nsąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti \nšalies politiniame gyvenime."
+  citata_rodoma: |
+    1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį. Jau tų
+    metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
+    laimėjo LPS kandidatai, o gruodžio 7 dienos konstitucijos pataisomis pa-
+    naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
+    sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
+    šalies politiniame gyvenime.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -698,7 +726,15 @@ Nenurodyta
     va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
     nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
     būdu, o savarankiška LKP šiam planui nesipriešino.
-  citata_rodoma: "1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą \nkampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-\ndis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos \nLietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-\nliarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-\nva be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų \nnebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu \nbūdu, o savarankiška LKP šiam planui nesipriešino."
+  citata_rodoma: |
+    1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą
+    kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-
+    dis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos
+    Lietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-
+    liarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-
+    va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
+    nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
+    būdu, o savarankiška LKP šiam planui nesipriešino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -720,7 +756,10 @@ Nenurodyta
     sius pertvarkos šalininkus. Lietuvių inteligentų būrys 1988 m. birželio 3 d.
     Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo
     Sąjūdžio (LPS) iniciatyvinę grupę.
-  citata_rodoma: "Lietuvių inteligentų būrys 1988 m. birželio 3 d. \nVilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo \nSąjūdžio (LPS) iniciatyvinę grupę."
+  citata_rodoma: |
+    Lietuvių inteligentų būrys 1988 m. birželio 3 d.
+    Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo
+    Sąjūdžio (LPS) iniciatyvinę grupę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -743,7 +782,13 @@ Nenurodyta
     SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
     o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
     Lietuvoje.
-  citata_rodoma: "Pradiniame etape Sąjūdis iš es-\nmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-\npais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja \nSSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis, \no LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti \nLietuvoje."
+  citata_rodoma: |
+    Pradiniame etape Sąjūdis iš es-
+    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
+    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
+    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
+    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
+    Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -763,7 +808,10 @@ Nenurodyta
     apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą. Birželio 10
     dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji
     tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab.
-  citata_rodoma: "Birželio 10 \ndieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji \ntūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab."
+  citata_rodoma: |
+    Birželio 10
+    dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji
+    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -784,7 +832,10 @@ Nenurodyta
     jūdžiai, didžiulę įtaką darė Rusijos spauda. Pradiniame etape Sąjūdis iš es-
     mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
     pais siejo tik laisvos Lietuvos siekis.
-  citata_rodoma: "Pradiniame etape Sąjūdis iš es-\nmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-\npais siejo tik laisvos Lietuvos siekis."
+  citata_rodoma: |
+    Pradiniame etape Sąjūdis iš es-
+    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
+    pais siejo tik laisvos Lietuvos siekis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -819,7 +870,12 @@ Nenurodyta
     iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
     ciatyvinės grupės nariai. Sąjūdžio grupės pripažino Sąjūdžio iniciatyvi-
     nės grupės lyderystę, nors ją rinko tik vilniečiai.
-  citata_rodoma: "Romualdas Ozolas).\nLPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi \niniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-\nciatyvinės grupės nariai. Sąjūdžio grupės pripažino Sąjūdžio iniciatyvi-\nnės grupės lyderystę, nors ją rinko tik vilniečiai."
+  citata_rodoma: |
+    Romualdas Ozolas).
+    LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
+    iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
+    ciatyvinės grupės nariai. Sąjūdžio grupės pripažino Sąjūdžio iniciatyvi-
+    nės grupės lyderystę, nors ją rinko tik vilniečiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -842,7 +898,16 @@ Nenurodyta
     vės, demokratijos, nepriklausomybės idealais.
     Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
     gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
-  citata_rodoma: "So-\nvietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai, \nji sulaukė Atgimimo epochos ir tapo pirmąja nacionalinio išsivadavimo \norganizacija. O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-\nnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-\nvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, \nkėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-\nvės, demokratijos, nepriklausomybės idealais. \nProtesto eisena Kauno Laisvės alėjoje Kaune  1972 m."
+  citata_rodoma: |
+    So-
+    vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
+    ji sulaukė Atgimimo epochos ir tapo pirmąja nacionalinio išsivadavimo
+    organizacija. O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
+    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
+    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
+    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
+    vės, demokratijos, nepriklausomybės idealais.
+    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -904,7 +969,15 @@ Nenurodyta
     kimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms,
     kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaci-
     ją, prieš tai surinkta 1,8 mln. parašų.
-  citata_rodoma: "Nuo šiol organi-\nzuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-\ntijai. LPS tapo visuomenine jėga, galinčia pateisinti visuomenės viltis ir \nlūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti \npolitinės partijos. Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-\nkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, \nkurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaci-\nją, prieš tai surinkta 1,8 mln."
+  citata_rodoma: |
+    Nuo šiol organi-
+    zuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-
+    tijai. LPS tapo visuomenine jėga, galinčia pateisinti visuomenės viltis ir
+    lūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti
+    politinės partijos. Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-
+    kimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms,
+    kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaci-
+    ją, prieš tai surinkta 1,8 mln.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,19 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
 
     VILNIAUS MIESTO ISTORIJA I TOMAS
     ir Gotfridą fon Ostą.
-  citata_rodoma: "Tad buvo perskaitytas tas laiškas ir du kiti, \nkurie buvo įteikti miesto tarybai ir minoritų kustodui. Buvo \naptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką \ndaryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­\nsius Ordino riterius, Rygos presbiterį, Vendeno komtūrą \nVeimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau\n99\n\n## Puslapis 116\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nir Gotfridą fon Ostą."
+  citata_rodoma: |
+    Tad buvo perskaitytas tas laiškas ir du kiti,
+    kurie buvo įteikti miesto tarybai ir minoritų kustodui. Buvo
+    aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką
+    daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­
+    sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą
+    Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau
+    99
+
+    ## Puslapis 116
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ir Gotfridą fon Ostą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

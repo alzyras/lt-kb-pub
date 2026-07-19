@@ -278,7 +278,10 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     Reformacija tapo nauju lenkėjimo postūmiu. Radvila Juodasis
     1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kal-
     bą dėl to, kad „būtų liaudžiai suprantama“.
-  citata_rodoma: "Reformacija tapo nauju lenkėjimo postūmiu. Radvila Juodasis \n1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kal-\nbą dėl to, kad „būtų liaudžiai suprantama“."
+  citata_rodoma: |
+    Reformacija tapo nauju lenkėjimo postūmiu. Radvila Juodasis
+    1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kal-
+    bą dėl to, kad „būtų liaudžiai suprantama“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -318,7 +321,26 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     žintos ir mūsų ratifikuotos, patvirtintos ir taip pat mūsų ka­
     raliaus ir kunigaikščio pasižadėjimu ir autoritetu atnaujin­
     tos ir atgaivintos.
-  citata_rodoma: "Todėl\nsavo valia, karališkąja valdžia, kunigaikščio pastovia ir am­\nžina galia duodame ir suteikiame tam pačiam anksčiau pa­\nminėtam šviesiajam ir didingajam ponui Mikalojui Radvi­\nlai, Olykos ir Nesvyžiaus kunigaikščiui, Vilniaus vaivadai,\nmūsų didžiajam maršalkai ir kancleriui, ir visiems po jo bū­\nsiantiems Nesvyžiaus kunigaikščiams, teisėtiems jo įpėdi­\nniams, pilną teisę, visišką ir tvirtą valdžią ir galią, visas ir\npavienes mūsų Lietuvos Kunigaikštystės privilegijas, lais­\nves ir imunitetus bei bet kokias malones ir prerogatyvas,\negzistuojančias toje pačioje Lietuvos Kunigaikštystėje, turė­\nti, naudotis, visiems laikams išsaugoti ir išlaikyti; tas [privi­\nlegijas], kurios bet kokiu būdu ir bet kada anksčiau švie­\nsiausiųjų ir prakilniausiųjų karalių ir didžiųjų kunigaikščių,\nmūsų pirmtakų ponų Vladislovo, Žygimanto, Kazimiero,\nAleksandro ir vėl Žygimanto kadaise buvo duotos, pripa­\nžintos ir mūsų ratifikuotos, patvirtintos ir taip pat mūsų ka­\nraliaus ir kunigaikščio pasižadėjimu ir autoritetu atnaujin­\ntos ir atgaivintos."
+  citata_rodoma: |
+    Todėl
+    savo valia, karališkąja valdžia, kunigaikščio pastovia ir am­
+    žina galia duodame ir suteikiame tam pačiam anksčiau pa­
+    minėtam šviesiajam ir didingajam ponui Mikalojui Radvi­
+    lai, Olykos ir Nesvyžiaus kunigaikščiui, Vilniaus vaivadai,
+    mūsų didžiajam maršalkai ir kancleriui, ir visiems po jo bū­
+    siantiems Nesvyžiaus kunigaikščiams, teisėtiems jo įpėdi­
+    niams, pilną teisę, visišką ir tvirtą valdžią ir galią, visas ir
+    pavienes mūsų Lietuvos Kunigaikštystės privilegijas, lais­
+    ves ir imunitetus bei bet kokias malones ir prerogatyvas,
+    egzistuojančias toje pačioje Lietuvos Kunigaikštystėje, turė­
+    ti, naudotis, visiems laikams išsaugoti ir išlaikyti; tas [privi­
+    legijas], kurios bet kokiu būdu ir bet kada anksčiau švie­
+    siausiųjų ir prakilniausiųjų karalių ir didžiųjų kunigaikščių,
+    mūsų pirmtakų ponų Vladislovo, Žygimanto, Kazimiero,
+    Aleksandro ir vėl Žygimanto kadaise buvo duotos, pripa­
+    žintos ir mūsų ratifikuotos, patvirtintos ir taip pat mūsų ka­
+    raliaus ir kunigaikščio pasižadėjimu ir autoritetu atnaujin­
+    tos ir atgaivintos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -444,7 +466,18 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
     bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
     jo atvesti į užsibrėžtą tikslą.
-  citata_rodoma: "Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­\nvila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,\nvadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­\nmuotą bažnyčią, buvusią savo namuose, uždarė, o savo\nspaustuvę, seniau skelbusią vien disidentų raštus64, 1576\nmetais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­\nzuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­\nvo disputais ir raštais spaudęs savo priešininkus, nekan­\ntraudamas trokštamos pergalės, ėmėsi smarkių priemonių,\nbet jos, valdant išmintingam ir narsiam Steponui, negalėjo\njo atvesti į užsibrėžtą tikslą."
+  citata_rodoma: |
+    Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­
+    vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,
+    vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­
+    muotą bažnyčią, buvusią savo namuose, uždarė, o savo
+    spaustuvę, seniau skelbusią vien disidentų raštus64, 1576
+    metais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­
+    zuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
+    vo disputais ir raštais spaudęs savo priešininkus, nekan­
+    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
+    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
+    jo atvesti į užsibrėžtą tikslą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -508,7 +541,25 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     ratukine spyna (Puffer) su Lenkijos
     ereliu ir raide S (Sigismundus)
     Vokietija, XVI a. trečiasis ketvirtis
-  citata_rodoma: "Žygimanto Augusto\nparadiniai šarvai, pa-\n\ngaminti Niunberge meistro\nKunzo Lochnerio, XVI a.\n6 dešimtmetyje\n\n## Puslapis 89\n\nViršutinė Lietuvos didžiojo kanclerio ir\nmaršalkos Mikalojaus Radvilos Juodojo\nšarvų dalis, pagaminta Niurnberge, meis-\ntro Kunzo Lochnerio, apie 1555 m.\n\nŽygimanto Augusto pistoletas su\nratukine spyna (Puffer) su Lenkijos\nereliu ir raide S (Sigismundus)\nVokietija, XVI a."
+  citata_rodoma: |
+    Žygimanto Augusto
+    paradiniai šarvai, pa-
+
+    gaminti Niunberge meistro
+    Kunzo Lochnerio, XVI a.
+    6 dešimtmetyje
+
+    ## Puslapis 89
+
+    Viršutinė Lietuvos didžiojo kanclerio ir
+    maršalkos Mikalojaus Radvilos Juodojo
+    šarvų dalis, pagaminta Niurnberge, meis-
+    tro Kunzo Lochnerio, apie 1555 m.
+
+    Žygimanto Augusto pistoletas su
+    ratukine spyna (Puffer) su Lenkijos
+    ereliu ir raide S (Sigismundus)
+    Vokietija, XVI a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

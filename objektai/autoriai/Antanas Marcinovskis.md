@@ -281,7 +281,14 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
     odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
     Marcinovskis taip pat priklausė masonų organizacijai.
-  citata_rodoma: "Ant taurės išgraviruota data -  „1817 m.“ R. Kli­\nmavičiaus nuomone, tais metais T. Narbutas įstojo į masonų\norganizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­\nmo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik\nWilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­\nodinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas\nMarcinovskis taip pat priklausė masonų organizacijai."
+  citata_rodoma: |
+    Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
+    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
+    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
+    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
+    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
+    Marcinovskis taip pat priklausė masonų organizacijai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -301,7 +308,19 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
     socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
     ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-  citata_rodoma: "UDK\n947.45\nNa-162\nVersta iš:\nDzicjc starožytne narodu\nLitcwskiego przcz\nTeodora Narbutta.\nTom picrwszy:\nMitologia Litcwska\nz o.šmią rycinami.\nWilno, naktadem i drukiem\nA. Marcinowskicgo, 1835."
+  citata_rodoma: |
+    UDK
+    947.45
+    Na-162
+    Versta iš:
+    Dzicjc starožytne narodu
+    Litcwskiego przcz
+    Teodora Narbutta.
+    Tom picrwszy:
+    Mitologia Litcwska
+    z o.šmią rycinami.
+    Wilno, naktadem i drukiem
+    A. Marcinowskicgo, 1835.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -319,7 +338,12 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
     redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
     tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
-  citata_rodoma: "Pieši­\nnys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią\npiešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“\nredaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir\ntikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*."
+  citata_rodoma: |
+    Pieši­
+    nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
+    piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
+    redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
+    tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -341,7 +365,16 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     niuje viešėjusiam ministrui (kokiam - neaišku), o
     istorikui nusiuntė tik litografo Juozapo Ozemblov-
     skio padarytą piešinį (MAB RS. - F. 17.
-  citata_rodoma: "Pasirodo, kad T. Bulgarinas (1789-1859) ją iš tik­\nrųjų buvo pasiuntęs garsiam Vilniaus literatui, re­\ndaktoriui, leidėjui (žinoma, ir T. Narbuto LTI) An­\ntanui Marcinovskiui (1781-1842). Šis peterburgiš-\nkio literato prašymu monetą turėjęs perduoti\nT. Narbutui, bet pažado neįvykdė: radinį įteikė Vil­\nniuje viešėjusiam ministrui (kokiam -  neaišku), o\nistorikui nusiuntė tik litografo Juozapo Ozemblov-\nskio padarytą piešinį (MAB RS. -  F. 17."
+  citata_rodoma: |
+    Pasirodo, kad T. Bulgarinas (1789-1859) ją iš tik­
+    rųjų buvo pasiuntęs garsiam Vilniaus literatui, re­
+    daktoriui, leidėjui (žinoma, ir T. Narbuto LTI) An­
+    tanui Marcinovskiui (1781-1842). Šis peterburgiš-
+    kio literato prašymu monetą turėjęs perduoti
+    T. Narbutui, bet pažado neįvykdė: radinį įteikė Vil­
+    niuje viešėjusiam ministrui (kokiam -  neaišku), o
+    istorikui nusiuntė tik litografo Juozapo Ozemblov-
+    skio padarytą piešinį (MAB RS. -  F. 17.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -363,7 +396,13 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     javo tokią informaciją: „Sutartis su Marcinovskiu dėl viso vei­
     kalo išspausdinimo buvo sudaryta 1837 metų vasario 4 dieną
     ir įregistruota Vilniaus magistrate.
-  citata_rodoma: "Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­\nsių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­\njo paieškos. Juo tapo Antanas Marcinovskis (1781-1855) -  ži­\nnomas Vilniaus literatas, redaktorius ir spaustuvės savininkas,\nvienas ryškiausių to meto intelektualų. Nesuklysime sakyda­\nmi, kad būtent jam reikėtų priskirti dalį LTI šlovės, nors iš"
+  citata_rodoma: |
+    Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­
+    sių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­
+    jo paieškos. Juo tapo Antanas Marcinovskis (1781-1855) -  ži­
+    nomas Vilniaus literatas, redaktorius ir spaustuvės savininkas,
+    vienas ryškiausių to meto intelektualų. Nesuklysime sakyda­
+    mi, kad būtent jam reikėtų priskirti dalį LTI šlovės, nors iš
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -410,7 +449,16 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     Idėjos įkūnijimas. Savaime suprantama, viena iš svar­
     biausių problemų, įgyvendinant tokį sumanymą, turėjo
     būti leidėjo paieškos.
-  citata_rodoma: "Savaime suprantama, viena iš svar­\nbiausių problemų, įgyvendinant tokį sumanymą, turėjo\nbūti leidėjo paieškos. Juo tapo Antanas Marcinovskis\n(1781 —1855) — žinomas Vilniaus literatas, redaktorius\nir spaustuvės savininkas, vienas ryškiausių to meto inte­\nlektualų. Nesuklysime sakydami, jog būtent jam reikėtų\npriskirti dalį LTI šlovės, nors iš esmės šito didelio leidy­\nbinio sumanymo jam nepavyko iki galo įgyvendinti —\ntaip ir nebuvo išspausdintas paskutinis, dešimtas tomas."
+  citata_rodoma: |
+    Savaime suprantama, viena iš svar­
+    biausių problemų, įgyvendinant tokį sumanymą, turėjo
+    būti leidėjo paieškos. Juo tapo Antanas Marcinovskis
+    (1781 —1855) — žinomas Vilniaus literatas, redaktorius
+    ir spaustuvės savininkas, vienas ryškiausių to meto inte­
+    lektualų. Nesuklysime sakydami, jog būtent jam reikėtų
+    priskirti dalį LTI šlovės, nors iš esmės šito didelio leidy­
+    binio sumanymo jam nepavyko iki galo įgyvendinti —
+    taip ir nebuvo išspausdintas paskutinis, dešimtas tomas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -435,7 +483,14 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     tarytum kokias sruogas; drabužių taip pat jokių. Ir iš tos būty­
     bės priekio, ir iš užpakalio yra užrašas, visiškai tokiomis pat rai­
     dėmis, kaip pavaizduota piešinyje.
-  citata_rodoma: "Be jokios abejonės moneta priklauso tam kraštui ir tai tautai,\nkaip pavaizduota piešinyje, tik nepalyginti meistriškiau nukalta\ntokiu pat stiliumi kaip gerais Romos cezarių laikais. Piešinys ir\ngraviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio\nkopiją atsiuntė p/onas/ Marcinovskis, „Kurjer Litewski“ redakto­\nrius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir tikriau­\nsiai pateko į Sankt Peterburgą (žr. 12 piešinį tomo gale)."
+  citata_rodoma: |
+    Be jokios abejonės moneta priklauso tam kraštui ir tai tautai,
+    kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nukalta
+    tokiu pat stiliumi kaip gerais Romos cezarių laikais. Piešinys ir
+    graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio
+    kopiją atsiuntė p/onas/ Marcinovskis, „Kurjer Litewski“ redakto­
+    rius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir tikriau­
+    siai pateko į Sankt Peterburgą (žr. 12 piešinį tomo gale).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -83,7 +83,8 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
     iš Viduržemio jūros pakrančių perkėlė į nebūna tikslus, kariuomenė būna tai stipresnė, tai silpnesnė - priklausomai nuo valstybės
     šiaurę, siekdama užvaldyti visą Vengrijos pastangų, kai prispiria reikalas, tačiau ji niekad nepasiekia 48 000 vyrų skaičiaus, kurį
     teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu.
-  citata_rodoma: "teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu."
+  citata_rodoma: |
+    teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

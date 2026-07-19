@@ -129,7 +129,29 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
     tą, geriausią kariuomenę metė prieš pilį, bet po
     pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
     verstas išsižadėti šio sumanymo.
-  citata_rodoma: "Surminas grįžo pas valdovą nugalė­\ntoju, visiems nešdamas džiaugsmą, o pats slėpdamas\nširdyje liūdesį, nes šioje pergalingoje kovoje jis ne­\nteko savo brolio Goštauto drauge su kitais narsiais\nkariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­\nsijos maršalas, pakartotiniais antpuoliais nuniokojo Me­\ndininkų valsčių. Jeigu lietuviai, parodę tokį narsu­\nmą, būtų turėję ten daugiau\n1314 m e ta i\nkarių ir jėgų, tikrai būtų kry­\nžiuočiai netekę visos stovyk­\nlos, mat penki kariai, nakties tamsoje prasigavę pro\nsargybas, prisėlino beveik ligi pačių vadų ir, keletą\npriešų nužudę ir pasiplėšę\nN e p a p ra sta\np e n k ių\ngrobio, kiek tik galėjo pen-\niie tu v ių  n arsa\nkiese pakelti, sveiki sugrįžo\npas savuosius, įvarydami kry­\nžiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau\nbūta baimės nei pavojaus."
+  citata_rodoma: |
+    Surminas grįžo pas valdovą nugalė­
+    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
+    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
+    teko savo brolio Goštauto drauge su kitais narsiais
+    kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
+    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
+    dininkų valsčių. Jeigu lietuviai, parodę tokį narsu­
+    mą, būtų turėję ten daugiau
+    1314 m e ta i
+    karių ir jėgų, tikrai būtų kry­
+    žiuočiai netekę visos stovyk­
+    los, mat penki kariai, nakties tamsoje prasigavę pro
+    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
+    priešų nužudę ir pasiplėšę
+    N e p a p ra sta
+    p e n k ių
+    grobio, kiek tik galėjo pen-
+    iie tu v ių  n arsa
+    kiese pakelti, sveiki sugrįžo
+    pas savuosius, įvarydami kry­
+    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
+    būta baimės nei pavojaus.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -165,7 +187,19 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
     mingus žygius), o gal dėl to, kad tuo metu pats ren­
     gėsi visomis jėgomis kovoti su lenkais dėl Pomerani-
     m
-  citata_rodoma: "Lietuviai, nujautę, jog priešas šitaip ir\nelgsis, iš anksto slaptai apstojo miškuose takus, visur\nprikirtą ir privertę medžių, kad priešas niekur negalėtų\npasprukti. Visi kryžiuočiai su vadu Henriku fon Ploc-\nke, Prūsijos maršalu, buvo šioje tankmėje arba su­\nnaikinti, arba pakliuvo į nelaisvę. Gediminas, norėda­\nmas, kad kariuomenė, prisikentusi visokio vargo per\nkarą su kryžiuočiais, atgautų narsą prisiplėšusi naujo\ngrobio, apie rugsėjo vidurį patraukė į Mazoviją ir\nDobrynę; jis nusiaubė ir vieną, ir kitą žemę; kadangi\nniekur nesirodė priešas, parvedė be kovos savo ka­\nriuomenę, prisiplėšusią grobio, į tėvynę."
+  citata_rodoma: |
+    Lietuviai, nujautę, jog priešas šitaip ir
+    elgsis, iš anksto slaptai apstojo miškuose takus, visur
+    prikirtą ir privertę medžių, kad priešas niekur negalėtų
+    pasprukti. Visi kryžiuočiai su vadu Henriku fon Ploc-
+    ke, Prūsijos maršalu, buvo šioje tankmėje arba su­
+    naikinti, arba pakliuvo į nelaisvę. Gediminas, norėda­
+    mas, kad kariuomenė, prisikentusi visokio vargo per
+    karą su kryžiuočiais, atgautų narsą prisiplėšusi naujo
+    grobio, apie rugsėjo vidurį patraukė į Mazoviją ir
+    Dobrynę; jis nusiaubė ir vieną, ir kitą žemę; kadangi
+    niekur nesirodė priešas, parvedė be kovos savo ka­
+    riuomenę, prisiplėšusią grobio, į tėvynę.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

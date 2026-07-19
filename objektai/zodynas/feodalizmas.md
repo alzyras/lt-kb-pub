@@ -185,7 +185,10 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
     lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
     ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
-  citata_rodoma: "Tik Lietuvos feoda-\nlizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo\nne tiek bajorijos, kiek sritinių kunigaikščių teisėmis."
+  citata_rodoma: |
+    Tik Lietuvos feoda-
+    lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
+    ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +214,15 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     puoliais žlugdė miestus. Šimtą metų tęsėsi vis aršesni ginčai
     tarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale
     prieš jų feodalinius valdovus.
-  citata_rodoma: "Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­\nmės valdų savininkams metus klajoklišką gyvenimo būdą,\nmiestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau\nbaronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius\nir nuo pat X amžiaus pradžios savo žiauriais pasalūniškais iš­\npuoliais žlugdė miestus. Šimtą metų tęsėsi vis aršesni ginčai\ntarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale\nprieš jų feodalinius valdovus."
+  citata_rodoma: |
+    Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­
+    mės valdų savininkams metus klajoklišką gyvenimo būdą,
+    miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau
+    baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius
+    ir nuo pat X amžiaus pradžios savo žiauriais pasalūniškais iš­
+    puoliais žlugdė miestus. Šimtą metų tęsėsi vis aršesni ginčai
+    tarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale
+    prieš jų feodalinius valdovus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -252,7 +263,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
     jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
     Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
-  citata_rodoma: "Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs."
+  citata_rodoma: |
+    Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

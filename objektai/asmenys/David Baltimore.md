@@ -96,7 +96,17 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: "O juk \nreikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai \nsusijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-\nreatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, \nnuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-\nrensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda \nElion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV bū-\ndamas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-\nsiuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m. \npremija)."
+  citata_rodoma: |
+    O juk
+    reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
+    susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-
+    reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
+    nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-
+    rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda
+    Elion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV bū-
+    damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
+    siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
+    premija).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

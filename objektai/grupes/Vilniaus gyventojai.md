@@ -385,7 +385,15 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     Originalą atitinka:
     Dr. Hennigas
     Karai.
-  citata_rodoma: "Gertrūdą.\nDar man sako pasiuntinys, kad, pasak Vilniaus gyvento­\njų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­\ntolių už 60 000 sidabro luitų.\nDinaburgo komtūras \n(parašas)\nOriginalą atitinka:\nDr."
+  citata_rodoma: |
+    Gertrūdą.
+    Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­
+    jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­
+    tolių už 60 000 sidabro luitų.
+    Dinaburgo komtūras
+    (parašas)
+    Originalą atitinka:
+    Dr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -80,7 +80,8 @@ Nenurodyta
     tik XXI a.). Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
     nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
     imta rūpintis žuvusių už Lietuvos laisvę karių kapais.
-  citata_rodoma: "nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,"
+  citata_rodoma: |
+    nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -112,7 +112,11 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
     pasiuntė Minsko pavieto iždininką Adomą Chmarą (Adam Chmara) į Vilnių su pinigais
     už Jedžiotus (dabartiniame Skuodo rajone) [20], vėlesniame laiške jis aiškino, kad atvyko
     tas pats A. Chmara ir sumokėjo skolą kanauninko broliui [24].
-  citata_rodoma: "1751 m. J. D. Lopacinskis pasakojo, kad sužinojo, jog Palenkės vaivada Mykolas Antanas Sapiega\npasiuntė Minsko pavieto iždininką Adomą Chmarą (Adam Chmara) į Vilnių su pinigais\nuž Jedžiotus (dabartiniame Skuodo rajone) [20], vėlesniame laiške jis aiškino, kad atvyko\ntas pats A. Chmara ir sumokėjo skolą kanauninko broliui [24]."
+  citata_rodoma: |
+    1751 m. J. D. Lopacinskis pasakojo, kad sužinojo, jog Palenkės vaivada Mykolas Antanas Sapiega
+    pasiuntė Minsko pavieto iždininką Adomą Chmarą (Adam Chmara) į Vilnių su pinigais
+    už Jedžiotus (dabartiniame Skuodo rajone) [20], vėlesniame laiške jis aiškino, kad atvyko
+    tas pats A. Chmara ir sumokėjo skolą kanauninko broliui [24].
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
   teiginio_tipas: faktas

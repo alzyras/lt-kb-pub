@@ -483,7 +483,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     Jas pasirašė Jogaila ir Kęstutis. Sutartyje ordinas pasižadėjo ne-
     pulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti or-
     dino žemių, esančių Palenkės pasieny.
-  citata_rodoma: "Sutartyje ordinas pasižadėjo ne-\npulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti or-\ndino žemių, esančių Palenkės pasieny."
+  citata_rodoma: |
+    Sutartyje ordinas pasižadėjo ne-
+    pulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti or-
+    dino žemių, esančių Palenkės pasieny.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -535,7 +538,11 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     dino ir Palenkės sritys buvo Kęstučio dalis. Jon tačiau betarpiškai
     nepriklausė Žemaičiai, kurie, kaip ir kai kurios kitos sritys, įgijo
     savo žemės privilegijas ir klausė didžiojo kunigaikščio.
-  citata_rodoma: "Vakarinė valstybės dalis, būtent, Trakų kunigaikštija, Gar­\ndino ir Palenkės sritys buvo Kęstučio dalis. Jon tačiau betarpiškai\nnepriklausė Žemaičiai, kurie, kaip ir kai kurios kitos sritys, įgijo\nsavo žemės privilegijas ir klausė didžiojo kunigaikščio."
+  citata_rodoma: |
+    Vakarinė valstybės dalis, būtent, Trakų kunigaikštija, Gar­
+    dino ir Palenkės sritys buvo Kęstučio dalis. Jon tačiau betarpiškai
+    nepriklausė Žemaičiai, kurie, kaip ir kai kurios kitos sritys, įgijo
+    savo žemės privilegijas ir klausė didžiojo kunigaikščio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -555,7 +562,12 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
     rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
     linkes, buvo beveik negyvenamos.
-  citata_rodoma: "), taip ir Kazimiero laikais tankiau buvo\ngyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-\nlės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O\nrytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-\nlinkes, buvo beveik negyvenamos."
+  citata_rodoma: |
+    ), taip ir Kazimiero laikais tankiau buvo
+    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
+    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
+    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
+    linkes, buvo beveik negyvenamos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -596,7 +608,12 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
     (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
     stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
-  citata_rodoma: "Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, \nTrakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-\nse LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje \n(Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net \nstačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių."
+  citata_rodoma: |
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
+    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -629,7 +646,25 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
     bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
     atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
-  citata_rodoma: "- medinės bažnyčios ir bazilijo­\nnų vienuolyno įkūrimą Vilniuje pri­\nskiria Vitebsko kunigaikštytei Juli-\n27\n\n## Puslapis 44\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nsykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant \nVilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­\nmėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­\nkalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­\nmenė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o \ngal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus, \nsmurtu užėmusi pranciškonų vienuolyną, septynis vienuo­\nlius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos \nbėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms \natminti stovi kryžiai, Vilnios upės bangose žūtį rado19."
+  citata_rodoma: |
+    - medinės bažnyčios ir bazilijo­
+    nų vienuolyno įkūrimą Vilniuje pri­
+    skiria Vitebsko kunigaikštytei Juli-
+    27
+
+    ## Puslapis 44
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
+    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
+    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
+    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
+    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
+    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
+    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
+    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
+    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
+    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -675,7 +710,17 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     stebėjimai, bet ir vėlesnis Vytauto
     laikų įvykis, apie kurį papasakosi­
     me toliau.
-  citata_rodoma: "Iki šiol Palenkėję tarp vieti­\nnių žmonių sklinda padavimas, esą\nsenovės laikais iš ten eidavę į Vilnių\nkalnų kasti. Mūsų nuomonę, kad pi­\nlies kalno didesnė dalis yra ne natū­\nraliai susidariusi, bet supilta, patvir­\ntina ne tik jo sandaros ir formos\nstebėjimai, bet ir vėlesnis Vytauto\nlaikų įvykis, apie kurį papasakosi­\nme toliau."
+  citata_rodoma: |
+    Iki šiol Palenkėję tarp vieti­
+    nių žmonių sklinda padavimas, esą
+    senovės laikais iš ten eidavę į Vilnių
+    kalnų kasti. Mūsų nuomonę, kad pi­
+    lies kalno didesnė dalis yra ne natū­
+    raliai susidariusi, bet supilta, patvir­
+    tina ne tik jo sandaros ir formos
+    stebėjimai, bet ir vėlesnis Vytauto
+    laikų įvykis, apie kurį papasakosi­
+    me toliau.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -708,7 +753,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     periodiškai puldinėdama Lietuvą ir stengdamasi įsikišti į Lietuvoje po Vytauto mirties įsiplieskusius vidinius konfliktus. Sudėtingai
     klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai
     ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį. Tačiau didžiausias pavojus Lietuvai brendo rytuose.
-  citata_rodoma: "Sudėtingai\nklostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai\nginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį. Tačiau didžiausias pavojus Lietuvai brendo rytuose."
+  citata_rodoma: |
+    Sudėtingai
+    klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai
+    ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį. Tačiau didžiausias pavojus Lietuvai brendo rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -780,7 +828,20 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     nius, o jo pusbrolį Mikalojų
     Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
     leriu.
-  citata_rodoma: "Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai. Į seimą atvyko ir\nlenkų atstovai, kurie senato bei bajorų akivaizdoje rim­\nčių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­\nralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­\ntų vieną kartą sudaryta galutinė lenkų ir lietuvių są­\njunga, vadinamoji unija. Jie vis dėlto nieko nepešė,\nnes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių\nteisių į tas žemes."
+  citata_rodoma: |
+    Rugsėjo pabaigoje luomai susirinko Vilniuje į
+    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
+    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
+    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
+    niekas taip nekenkia visuomenės reikalams, kaip as­
+    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
+    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
+    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
+    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
+    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
+    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
+    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
+    teisių į tas žemes.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

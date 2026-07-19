@@ -125,7 +125,13 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
     tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
     valstybinės tarnybos.
-  citata_rodoma: "Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-\ntinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai \ntautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti \nsavo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-\ntuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė \nvalstybinės tarnybos."
+  citata_rodoma: |
+    Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
+    tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai
+    tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti
+    savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
+    tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
+    valstybinės tarnybos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -144,7 +150,16 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-
     bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
     planuose lenkai numatė lietuviams tik tautinės mažumos statusą.
-  citata_rodoma: "Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano \nBaranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-\nbė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo \nplanuose lenkai numatė lietuviams tik tautinės mažumos statusą. Tarsi „at-\nsidėkodami“ už tai lietuviai savo vizijų Lietuvos valstybėje lenkiškai kal-\nbantiesiems taip pat numatė tik tautinės mažumos statusą. Dialogas kom-\nplikavosi. 1914 m. pradžioje dar niekas nemąstė, kad po kelerių metų teks \nimtis praktinės veiklos svajonėms įgyvendinti, kad netrukus reikės rinktis \nne draugijas pagal kalbą, o Lenkijos arba Lietuvos piliečio pasą."
+  citata_rodoma: |
+    Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano
+    Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-
+    bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
+    planuose lenkai numatė lietuviams tik tautinės mažumos statusą. Tarsi „at-
+    sidėkodami“ už tai lietuviai savo vizijų Lietuvos valstybėje lenkiškai kal-
+    bantiesiems taip pat numatė tik tautinės mažumos statusą. Dialogas kom-
+    plikavosi. 1914 m. pradžioje dar niekas nemąstė, kad po kelerių metų teks
+    imtis praktinės veiklos svajonėms įgyvendinti, kad netrukus reikės rinktis
+    ne draugijas pagal kalbą, o Lenkijos arba Lietuvos piliečio pasą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

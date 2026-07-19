@@ -94,7 +94,25 @@ Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine
     Žemaitija ir Lietuva, kad, visiškai išnaikinus gyven­
     tojus bei kaimus, kraštas pavirto dykromis ir ilgus
     metus išsaugojo to pragaištingo karo pėdsakus.
-  citata_rodoma: "Po\nto keletą metų viešpatavo ramybė: stoti į kovą su len­\nkais draudė abišalė sutartis, o su kryžiuočiais — būti­\nnybė, nes ir kryžiuočiai, ir lietuviai gerokai nusilpo,\nvieni kitus niokodami. Suskato kryžiuočiai rengti nau­\nją niokojamą žygį į Lietuvą,\nkai su rinktine kariuomene į\nPrūsiją\natvyko\nLiudvikas,\nBrandenburgo\nmarkgrafas\n(imperatoriaus Liudviko sū­\nnus). Tais metais trimis pa­\nkartotiniais antpuoliais taip smarkiai buvo nusiaubta\nŽemaitija ir Lietuva, kad, visiškai išnaikinus gyven­\ntojus bei kaimus, kraštas pavirto dykromis ir ilgus\nmetus išsaugojo to pragaištingo karo pėdsakus."
+  citata_rodoma: |
+    Po
+    to keletą metų viešpatavo ramybė: stoti į kovą su len­
+    kais draudė abišalė sutartis, o su kryžiuočiais — būti­
+    nybė, nes ir kryžiuočiai, ir lietuviai gerokai nusilpo,
+    vieni kitus niokodami. Suskato kryžiuočiai rengti nau­
+    ją niokojamą žygį į Lietuvą,
+    kai su rinktine kariuomene į
+    Prūsiją
+    atvyko
+    Liudvikas,
+    Brandenburgo
+    markgrafas
+    (imperatoriaus Liudviko sū­
+    nus). Tais metais trimis pa­
+    kartotiniais antpuoliais taip smarkiai buvo nusiaubta
+    Žemaitija ir Lietuva, kad, visiškai išnaikinus gyven­
+    tojus bei kaimus, kraštas pavirto dykromis ir ilgus
+    metus išsaugojo to pragaištingo karo pėdsakus.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

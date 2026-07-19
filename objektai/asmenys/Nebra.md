@@ -97,7 +97,18 @@ Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Neb
     dė savo būrius prieš jotvingius į Brastos apylinkes, bet
     itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
     jo sumanymas nebuvo įgyvendintas3.
-  citata_rodoma: "Tuo tarpu Stegutas tikriausiai žu­\nvo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­\ndėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą\nir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų\njau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį\npriešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-\nrą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems\njotvingiam sK itais metais jotvingių grėsmė iškilo Ru­\nsiai, nes Voluinės kunigaikščiai, prieš išžygiuodami su\nkariauna į Lenkiją, savo sienų nuo pat Brastos apsauga\nturėjo patikėti Pinsko kunigaikščiui Vladimirui1 2."
+  citata_rodoma: |
+    Tuo tarpu Stegutas tikriausiai žu­
+    vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
+    dėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą
+    ir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų
+    jau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį
+    priešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-
+    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
+    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
+    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
+    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
+    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

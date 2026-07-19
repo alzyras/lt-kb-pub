@@ -73,7 +73,8 @@ media_all_json: |-
     1754 m. J. D. Lopacinskis su humoru rašė, kad LDK raštininkas Antanas Mykolas
     Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų, bet jas skaitė pasislėpęs kaip
     koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų.
-  citata_rodoma: "1754 m. J. D. Lopacinskis su humoru rašė, kad LDK raštininkas Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų, bet jas skaitė pasislėpęs kaip koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų."
+  citata_rodoma: |
+    1754 m. J. D. Lopacinskis su humoru rašė, kad LDK raštininkas Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų, bet jas skaitė pasislėpęs kaip koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų.
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

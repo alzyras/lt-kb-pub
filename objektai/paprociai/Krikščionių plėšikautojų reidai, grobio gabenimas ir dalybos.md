@@ -157,7 +157,21 @@ Nenurodyta
     Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
     Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
     jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti.
-  citata_rodoma: "Apie tą patį\n\n  Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs\nper patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui\nir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė\npokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į\nlaivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo\npo 20 markių dalies.\n\n\n\n\n\n      230 (225)."
+  citata_rodoma: |
+    Apie tą patį
+
+      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
+    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
+    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
+    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
+    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
+    po 20 markių dalies.
+
+
+
+
+
+          230 (225).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

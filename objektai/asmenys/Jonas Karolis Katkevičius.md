@@ -112,7 +112,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Jonas Karolis Katkevičius grįžo į Livoniją."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-76146
+    - c-76147
 
 <a id="claim-t-79047"></a>
 - t-005
@@ -206,7 +206,18 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
     Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
     veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
-  citata_rodoma: "rudenį numalšinus rokošą Len-\nkijos karalystėje, Jonas Karolis Chodke-\nvičius grįžo į Livoniją ir per trumpą laiką\nišvadavo Kuoknesę ir Viljandį. 1609 m.\nkovo mėnesį jis pabandė pulti Daugavgryvą\nir taip pralaužti Rygos blokadą, bet pa-\npildomais įtvirtinimais sustiprinę senąją\ntvirtovę, Nilsomo Sternskioldomo vado-\ndinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-\nJoną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą\nveiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą."
+  citata_rodoma: |
+    rudenį numalšinus rokošą Len-
+    kijos karalystėje, Jonas Karolis Chodke-
+    vičius grįžo į Livoniją ir per trumpą laiką
+    išvadavo Kuoknesę ir Viljandį. 1609 m.
+    kovo mėnesį jis pabandė pulti Daugavgryvą
+    ir taip pralaužti Rygos blokadą, bet pa-
+    pildomais įtvirtinimais sustiprinę senąją
+    tvirtovę, Nilsomo Sternskioldomo vado-
+    dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
+    Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
+    veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -222,14 +233,14 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     Deryboms ilgai užtrukus, palaidų kariuomenės
     būrių alinamas kraštas sukilo. Maskvos įgulai buvo sunku iš-
     silaikyti. Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.
-  citata_rodoma: "Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius."
+  citata_rodoma: |
+    Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79046
 - id: c-76147
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -240,7 +251,11 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių
     jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605
     m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).
-  citata_rodoma: "Jonui Jeronimui K. († 1579\n  m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių\n  jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605\n  m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.)."
+  citata_rodoma: |
+    Jonui Jeronimui K. († 1579
+      m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių
+      jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605
+      m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -248,6 +263,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79044
+    - t-79046
 ## Ryšiai
 - Jonas Karolis Katkevičius keliavo į [[objektai/vietos/Livonija]]
 - Jonas Karolis Katkevičius kariavo prieš [[objektai/grupes/Švedai]]

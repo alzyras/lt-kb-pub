@@ -96,7 +96,21 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
     net iki Bajadoro kyšulio. Šio žygio mums nereikšmingas
     smulkmenas praleisime. Antras keliautojas, kurio pavardė
     Hamilkaras, su antru žygio būriu išvyko į šiaurę.
-  citata_rodoma: "Krašte, kurio sostinė buvo šis miestas,\ngyveno labiausiai klestėjusi prekyboje, sumani, turtinga,\nvaišinga senovės Ispanijos gentis. Ten atplaukdavo net\ndrąsių šiaurinių jūrų keliautojų laivų, ypač estremidų;\ntaip seni ¡geografai vadina ¡pakrančių gyventojus, įsikūru­\nsius nuo šiandienio šv. Vincento kyšulio iki Vakarų\nPrancūzijos ir Pietų Anglijos krantų, nes šis jūros ¡są­\n156\n\n## Puslapis 154\n\nsiauris buvo vadinamas Estremida; šie žmonės atgaben­\ndavo' į Tartesą alavo iš Anglijos ir gintaro, kurį tiekdavo\nturbūt iš Baltijos jūros gotų gentis."
+  citata_rodoma: |
+    Krašte, kurio sostinė buvo šis miestas,
+    gyveno labiausiai klestėjusi prekyboje, sumani, turtinga,
+    vaišinga senovės Ispanijos gentis. Ten atplaukdavo net
+    drąsių šiaurinių jūrų keliautojų laivų, ypač estremidų;
+    taip seni ¡geografai vadina ¡pakrančių gyventojus, įsikūru­
+    sius nuo šiandienio šv. Vincento kyšulio iki Vakarų
+    Prancūzijos ir Pietų Anglijos krantų, nes šis jūros ¡są­
+    156
+
+    ## Puslapis 154
+
+    siauris buvo vadinamas Estremida; šie žmonės atgaben­
+    davo' į Tartesą alavo iš Anglijos ir gintaro, kurį tiekdavo
+    turbūt iš Baltijos jūros gotų gentis.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -82,7 +82,8 @@ Terminas vartojamas dvaro, kaimo ir bendruomeninio taikymosi kontekste.
     Kiekvienas dvarponis turėjo savo bravarą,
     kiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryž­
     kelių.
-  citata_rodoma: "Kiekvienas dvarponis turėjo savo bravarą, kiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryžkelių."
+  citata_rodoma: |
+    Kiekvienas dvarponis turėjo savo bravarą, kiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryžkelių.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

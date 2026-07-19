@@ -144,7 +144,11 @@ Nenurodyta
     Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
     masis gauti pagalbos Iš Turkijos sultono Bajareto II-jo. ( Kijevą
     grižo 1503/1504 m. žiemą.
-  citata_rodoma: "п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą \nBelgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­\nmasis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą \ngrižo 1503/1504 m. žiemą."
+  citata_rodoma: |
+    п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
+    Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
+    masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą
+    grižo 1503/1504 m. žiemą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

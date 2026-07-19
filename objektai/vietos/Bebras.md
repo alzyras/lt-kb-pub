@@ -87,7 +87,9 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
     Kuncenas
     Kurija (Romos popiežiaus)
     Kuršas
-  citata_rodoma: "Bebirvytis (2-sis)\n  Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u."
+  citata_rodoma: |
+    Bebirvytis (2-sis)
+      Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

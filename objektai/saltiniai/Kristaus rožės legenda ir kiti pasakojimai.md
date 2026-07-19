@@ -58,7 +58,9 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
     Didžiojo karo įtakoje žmonės tartum pasidarė žiauresni; netei­
     singumas ir įvairios suktybės dar labiau, rodos, įsivyravo, negu tai
     buvo pirmiau, šeimos Lagerlöf raštuose dvelkia žmoniškumas.
-  citata_rodoma: "3. Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­\nJIMAI. Vertė J. T."
+  citata_rodoma: |
+    3. Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­
+    JIMAI. Vertė J. T.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

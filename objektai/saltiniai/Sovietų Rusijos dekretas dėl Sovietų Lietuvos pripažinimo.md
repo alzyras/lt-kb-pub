@@ -88,7 +88,9 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
     16 dienos manifestu deklaravo Sovietų Lietuvą. Po savaitės ją Vladimiro
     Lenino pasirašytu dekretu pripažino Sovietų Rusija.
-  citata_rodoma: "Po savaitės ją Vladimiro\nLenino pasirašytu dekretu pripažino Sovietų Rusija."
+  citata_rodoma: |
+    Po savaitės ją Vladimiro
+    Lenino pasirašytu dekretu pripažino Sovietų Rusija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

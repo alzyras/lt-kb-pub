@@ -84,7 +84,9 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
     Europos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip
     teigiama, neseniai atradęs didelių gintaro klodų1 Avos
     karalystėje.
-  citata_rodoma: "2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą\nparašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837)."
+  citata_rodoma: |
+    2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
+    parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

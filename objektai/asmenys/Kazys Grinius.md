@@ -122,7 +122,8 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
     tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
     lyderis Kazys Grinius.
-  citata_rodoma: "tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų"
+  citata_rodoma: |
+    tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -141,7 +142,8 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
     liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
     ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
-  citata_rodoma: "liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę"
+  citata_rodoma: |
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

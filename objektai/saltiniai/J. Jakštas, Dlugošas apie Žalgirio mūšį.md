@@ -71,7 +71,15 @@ media_all_json: |-
     mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
     158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
     mūšis,_ rinkiny : LKaKr, 1964.
-  citata_rodoma: "**\n\n\n(^344) III skyrius: valstybės suklestėjimas\n_bibliografija,_ Athenaeum, nr. 1, 1931, 89-138 p. (nurodyta apie 200\ndarbų apie Žalgirio kautynes). — Jakštas, J. : _Dlugošas apie Žalgirio\nmūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,\n158-163 p."
+  citata_rodoma: |
+    **
+
+
+    (^344) III skyrius: valstybės suklestėjimas
+    _bibliografija,_ Athenaeum, nr. 1, 1931, 89-138 p. (nurodyta apie 200
+    darbų apie Žalgirio kautynes). — Jakštas, J. : _Dlugošas apie Žalgirio
+    mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
+    158-163 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,8 @@ Dusburgietis teigia, kad toeppen M.
     источник для реконструкции этногенеза и древнейшей истории славян. — Вопросы
     этногенеза н этнической истории славян и восточных романцев: Методология и
     историография, М., 1976, с.
-  citata_rodoma: "Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858."
+  citata_rodoma: |
+    Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

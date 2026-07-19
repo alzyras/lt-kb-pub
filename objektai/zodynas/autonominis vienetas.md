@@ -63,7 +63,10 @@ media_all_json: |-
     visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klai-
     pėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui
     suteikiant autonominį režimą.
-  citata_rodoma: "1923 metų vasario 16 d. nutarė Klai-\npėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui\nsuteikiant autonominį režimą."
+  citata_rodoma: |
+    1923 metų vasario 16 d. nutarė Klai-
+    pėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui
+    suteikiant autonominį režimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

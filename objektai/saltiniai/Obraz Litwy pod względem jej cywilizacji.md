@@ -72,7 +72,9 @@ media_all_json: |-
     t. 2, 1957, 51-67 p. — (”) _Arimo įrankių reikšmė žemdirbystės sistemoms,_
     ILKI, IV, 1964, 156-163 p. —Karys, J. K. : _Seniausieji lietuvių «pini­
     gai ».
-  citata_rodoma: "— Jaroszewicz, J. : _Obraz Litwy pod względem jej cywilizacji_ , I,\nVilnius 1846. — Jurginis, J."
+  citata_rodoma: |
+    — Jaroszewicz, J. : _Obraz Litwy pod względem jej cywilizacji_ , I,
+    Vilnius 1846. — Jurginis, J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

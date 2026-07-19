@@ -89,7 +89,13 @@ Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.
     stiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda. Apie tą patį sakoma Teisėjų
     knygoje (Ts 4, 13): „Atsiminkite viešpaties tarną, kur Amalechą, pasitikintį savo skydais,
     apgalėjo ne kovodamas, bet melsdamasis maldomis“.
-  citata_rodoma: "178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII\na. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir\nKrokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme\n(Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.\nStosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-\ngolubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40)."
+  citata_rodoma: |
+    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
+    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
+    Krokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme
+    (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
+    Stosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-
+    golubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

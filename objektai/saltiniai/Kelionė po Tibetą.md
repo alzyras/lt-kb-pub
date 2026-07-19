@@ -53,7 +53,14 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
     no ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­
     tą — Lhasą.
     6.
-  citata_rodoma: "—\nČia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-\ndino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­\ntos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­\nno ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­\ntą — Lhasą.\n6."
+  citata_rodoma: |
+    —
+    Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-
+    dino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­
+    tos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­
+    no ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­
+    tą — Lhasą.
+    6.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

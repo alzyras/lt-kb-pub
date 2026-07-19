@@ -81,7 +81,8 @@ Nenurodyta
     riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
     lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
     teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
-  citata_rodoma: "teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja."
+  citata_rodoma: |
+    teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

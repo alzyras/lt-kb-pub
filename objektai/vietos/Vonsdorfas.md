@@ -134,7 +134,21 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
     Zalfeldas
     Zangershauzenas
     Zelionogradskas (buv.
-  citata_rodoma: "Valevona)\nVizna\nVloclavekas\nVokietija\n   Vakarų Vokietija\n    vokiečiai\nVolfenbiutelis\nVolferštorfas\nVolynė\nVona, Vonė\nVonbžeznas\nVonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis)\nVroclavas\nVundenava, Vuntenovė (žr."
+  citata_rodoma: |
+    Valevona)
+    Vizna
+    Vloclavekas
+    Vokietija
+       Vakarų Vokietija
+        vokiečiai
+    Volfenbiutelis
+    Volferštorfas
+    Volynė
+    Vona, Vonė
+    Vonbžeznas
+    Vonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis)
+    Vroclavas
+    Vundenava, Vuntenovė (žr.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

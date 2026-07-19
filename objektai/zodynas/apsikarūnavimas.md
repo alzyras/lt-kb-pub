@@ -92,7 +92,10 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
     lietuviškais kraštais. Vieni ieško to priežasčių jo nepasiseku­
     siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
     gauti sutikimą Romoj.
-  citata_rodoma: "Vieni ieško to priežasčių jo nepasiseku­\nsiame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi\ngauti sutikimą Romoj."
+  citata_rodoma: |
+    Vieni ieško to priežasčių jo nepasiseku­
+    siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
+    gauti sutikimą Romoj.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -114,7 +117,13 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
     kią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai
     valdyti Lietuvą ir, progai pasitaikius, galutinai suvesti sąskai­
     tas tiek su Ordinu, tiek ir su lenkais.
-  citata_rodoma: "Vieni ieško to priežasčių jo nepasiseku­\nsiame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi\ngauti sutikimą Romoj. Kita priežastis, tai jo noras sukurti to­\nkią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai\nvaldyti Lietuvą ir, progai pasitaikius, galutinai suvesti sąskai­\ntas tiek su Ordinu, tiek ir su lenkais."
+  citata_rodoma: |
+    Vieni ieško to priežasčių jo nepasiseku­
+    siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
+    gauti sutikimą Romoj. Kita priežastis, tai jo noras sukurti to­
+    kią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai
+    valdyti Lietuvą ir, progai pasitaikius, galutinai suvesti sąskai­
+    tas tiek su Ordinu, tiek ir su lenkais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

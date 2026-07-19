@@ -100,7 +100,18 @@ Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juo
     rutės tėvą; jo turtus, atėmęs
     iš žmonos bei giminaičių,
     atidavė Mantvydui.
-  citata_rodoma: "Deja, Jogailos širdis, vis labiau tūžtanti ir keršto\ntrokštanti, nenurimo. Jis įsakė ratu nukankinti Vidi-\nmantą, vieną iš seniausių ir turtingiausių Žemaitijos\nbajorų, Kęstučio žmonos Bi­\nrutės tėvą; jo turtus, atėmęs\niš žmonos bei giminaičių,\natidavė Mantvydui. Keršto\nbanga nepalietė vieno Vy­\ntauto; atsimušusi nuo jo ne­\nlyginant nuo kokio pylimo,\nji šiek tiek aprimo."
+  citata_rodoma: |
+    Deja, Jogailos širdis, vis labiau tūžtanti ir keršto
+    trokštanti, nenurimo. Jis įsakė ratu nukankinti Vidi-
+    mantą, vieną iš seniausių ir turtingiausių Žemaitijos
+    bajorų, Kęstučio žmonos Bi­
+    rutės tėvą; jo turtus, atėmęs
+    iš žmonos bei giminaičių,
+    atidavė Mantvydui. Keršto
+    banga nepalietė vieno Vy­
+    tauto; atsimušusi nuo jo ne­
+    lyginant nuo kokio pylimo,
+    ji šiek tiek aprimo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

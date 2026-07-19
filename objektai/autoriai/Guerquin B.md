@@ -55,7 +55,6 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą ir bibliografinę sąsają, o pradinis sakinys yra taisytinas."
   pagrindžia:
-    - c-61342
 
 <a id="claim-t-196997"></a>
 - t-002
@@ -102,12 +101,18 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
     tremties, į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
     dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
     tikėjimui ir broliams.
-  citata_rodoma: "211 (206). Apie Skomanto, sūduvių vado, atsivertimą\nSūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, \nnegalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios \nžemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas \ntremties, į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip \ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė \ntikėjimui ir broliams."
+  citata_rodoma: |
+    211 (206). Apie Skomanto, sūduvių vado, atsivertimą
+    Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
+    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
+    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
+    tremties, į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60710
     - t-196997

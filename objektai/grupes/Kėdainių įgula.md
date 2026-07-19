@@ -102,7 +102,16 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
     aprūpinimas šoviniais
 
     Vokiškas kulkosvaidis Maxim MGo8.
-  citata_rodoma: "Vasario 7 d. anksti\nryte Kėdainių įgula iš Kauno gavo šau-\ntuvų, šovinių ir rankinių granatų.\nNors kulkosvaidžių įgula dar ne-\nturėjo, visų savanorių apgin-\nklavimas bent šautuvais ir\naprūpinimas šoviniais\n\nVokiškas kulkosvaidis Maxim MGo8."
+  citata_rodoma: |
+    Vasario 7 d. anksti
+    ryte Kėdainių įgula iš Kauno gavo šau-
+    tuvų, šovinių ir rankinių granatų.
+    Nors kulkosvaidžių įgula dar ne-
+    turėjo, visų savanorių apgin-
+    klavimas bent šautuvais ir
+    aprūpinimas šoviniais
+
+    Vokiškas kulkosvaidis Maxim MGo8.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

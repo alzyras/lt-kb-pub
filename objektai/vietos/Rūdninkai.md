@@ -276,7 +276,31 @@ media_all_json: |-
     Daumantaičiai,
     Manvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai
     ir kiti.
-  citata_rodoma: "Tuo\n46 9\n\n## Puslapis 468\n\ntarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­\nsiais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,\npaliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­\ntais raitelių. Netikėtai miš-\nA tle id ž ia\nn e tik ė ta i\nkuose netoli Rūdninkų mies-\np a k e lė je\ns u tik ta m\ntelio jis užšoko ant Kazimiero\nM y k o lu i\npalydos. Patekęs į tokią ne­\naiškią padėtį, jis, be galo išsi­\ngandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­\ntų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs\nKazimierui po kojų, jį pasveikino kaip Lietuvos didįjį\nkunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­\ndikus, o jo paties, visiškai atsiduodančio valdovo malo­\nnei, neatiduoti žmogžudžiams."
+  citata_rodoma: |
+    Tuo
+    46 9
+
+    ## Puslapis 468
+
+    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
+    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
+    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
+    tais raitelių. Netikėtai miš-
+    A tle id ž ia
+    n e tik ė ta i
+    kuose netoli Rūdninkų mies-
+    p a k e lė je
+    s u tik ta m
+    telio jis užšoko ant Kazimiero
+    M y k o lu i
+    palydos. Patekęs į tokią ne­
+    aiškią padėtį, jis, be galo išsi­
+    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
+    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
+    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
+    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
+    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
+    nei, neatiduoti žmogžudžiams.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

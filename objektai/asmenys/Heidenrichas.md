@@ -59,7 +59,14 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
     Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu
     pasislėpęs meldėsi viename koplyčios kampelyje.
     70 (69).
-  citata_rodoma: "Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu\npasislėpęs meldėsi viename koplyčios kampelyje.\n\n\n\n\n               70 (69)."
+  citata_rodoma: |
+    Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu
+    pasislėpęs meldėsi viename koplyčios kampelyje.
+
+
+
+
+                   70 (69).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

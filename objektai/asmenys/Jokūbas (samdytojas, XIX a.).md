@@ -94,7 +94,8 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
     Ar mes
     nežinome.
     — Kiek gi, tau, Grigorėli, algos reikia? — paklausė Jokūbas.
-  citata_rodoma: "— Kiek gi, tau, Grigorėli, algos reikia? — paklausė Jokūbas."
+  citata_rodoma: |
+    — Kiek gi, tau, Grigorėli, algos reikia? — paklausė Jokūbas.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -113,7 +114,8 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
     Jokūbą į grįčią, priėjus prie stalo, padėjo du auksinu ir išeidama tiek
     tepasakė: „Tėtė apsidraudė vietoje“ . Jokūbui neliko nieko kito, kaip
     ieškoti kito berno.
-  citata_rodoma: "Jokūbui neliko nieko kito, kaip ieškoti kito berno."
+  citata_rodoma: |
+    Jokūbui neliko nieko kito, kaip ieškoti kito berno.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -133,7 +135,8 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
     nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui, saky­
     damas :
     — Tegul bus gi, kaip jūs sakote.
-  citata_rodoma: "Jokūbas pasirūpino iš namų pasiimti du auksinu, jeigu atsitiktų nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui."
+  citata_rodoma: |
+    Jokūbas pasirūpino iš namų pasiimti du auksinu, jeigu atsitiktų nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -153,7 +156,8 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
     — Papiršk!
     Lileika priėjo prie Jokūbo ir sako:
     — Tamsta savo Petro neapdraudei, tai imk Grigorą.
-  citata_rodoma: "Lileika priėjo prie Jokūbo ir sako: „Tamsta savo Petro neapdraudei, tai imk Grigorą.“"
+  citata_rodoma: |
+    Lileika priėjo prie Jokūbo ir sako: „Tamsta savo Petro neapdraudei, tai imk Grigorą.“
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

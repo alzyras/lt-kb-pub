@@ -112,7 +112,13 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
     Duomenų apie Antikos sibiles, kurių pranašavimo princi­
     pai buvo panašūs, skaitytojas ras F. Noelio mitologijos žody­
     ne43. Kunigas Osinskis išvertė jį pažodžiui į lenkų kalbą.
-  citata_rodoma: "Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­\nsią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta\ngarsaus pranašo, kurio teirautasi apie tos šventyklos likimą.\nĮvairiose vietose gyveno moterų pranašautojų, kurių pra­\nnašystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-\nburgietis."
+  citata_rodoma: |
+    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
+    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
+    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
+    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
+    našystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-
+    burgietis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

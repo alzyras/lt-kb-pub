@@ -151,7 +151,13 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
     A, L. Šleceris atmetė legendinę Lietuvos istorijos
     dalį, replikuodamas: kol lietuviai neturėję savo vals­
     tybės, tol jie neturėję ir savo istorijos.
-  citata_rodoma: "Vieną knygą jis\nskyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —\nvien Lietuvai, kaip buvusiai savarankiškai valstybei\n(A. L. Schlozer. Geschichte von Littauen, als einem\neigenen Grossfūrstenthume, bis zum J. 1569. Gottin­\ngen, 1776),"
+  citata_rodoma: |
+    Vieną knygą jis
+    skyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —
+    vien Lietuvai, kaip buvusiai savarankiškai valstybei
+    (A. L. Schlozer. Geschichte von Littauen, als einem
+    eigenen Grossfūrstenthume, bis zum J. 1569. Gottin­
+    gen, 1776),
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -172,7 +178,13 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
     savo užpuolikus kavalerija“.
     Abejoju, ar raitos medžioklės išmokė juos to meno,
     nes, gyvenant tarp miškų ir pelkių, sunku joti arkliais į
-  citata_rodoma: "Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.\n84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­\nvo žemesnio išsivystymo lygio todėl, kad nežinojo raitos\nmedžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­\nlimos Siaurės genčių, jau prieš 1000 metų nugalėdavę\nsavo užpuolikus kavalerija“."
+  citata_rodoma: |
+    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
+    84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
+    vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
+    medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
+    limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
+    savo užpuolikus kavalerija“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

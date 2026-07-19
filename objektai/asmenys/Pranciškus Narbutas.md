@@ -115,7 +115,13 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
     XIX-XX a. sandūroje vis stiprėjantis politinis ir kultūrinis
     lietuvių ir lenkų antagonizmas negalėjo neatsiliepti vertinant
     Lietuvos kultūrinę tradiciją.
-  citata_rodoma: "1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­\nma: į miškus išėjo sūnūs Boleslovas, Pranciškus.\nSukilimo slopintojas Michailas Muravjovas norėjo ištrem­\nti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­\nciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­\nrėjas 1864 m. lapkričio 26 d. mirė Vilniuje."
+  citata_rodoma: |
+    1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
+    ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.
+    Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
+    ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­
+    ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
+    rėjas 1864 m. lapkričio 26 d. mirė Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

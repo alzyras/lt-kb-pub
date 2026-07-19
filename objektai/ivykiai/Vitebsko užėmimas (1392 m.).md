@@ -87,7 +87,12 @@ Nenurodyta
     laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
     versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
     buvo nugalėtas.
-  citata_rodoma: "Su Jogailos žinia,\nVytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios\nlaikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­\nversko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse\nbuvo nugalėtas."
+  citata_rodoma: |
+    Su Jogailos žinia,
+    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios
+    laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
+    versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
+    buvo nugalėtas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

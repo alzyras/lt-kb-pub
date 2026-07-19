@@ -64,7 +64,13 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
     traukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet
     mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės
     pavojus.
-  citata_rodoma: "Su ja Maskvos kuni-\ngaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikė-\njosi pasinaudoti, — juo labiau, kad Zigmantas buvo pa-\ntraukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet\nmokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės\npavojus."
+  citata_rodoma: |
+    Su ja Maskvos kuni-
+    gaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikė-
+    josi pasinaudoti, — juo labiau, kad Zigmantas buvo pa-
+    traukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet
+    mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės
+    pavojus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -82,7 +88,9 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
     trečiąjį — Lietuva. Kai 1533 m. mirė Vosylius III, Maskvos
     kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
     dar mažas, tai buvo sudaryta regencija.
-  citata_rodoma: "Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo\ndar mažas, tai buvo sudaryta regencija."
+  citata_rodoma: |
+    Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
+    dar mažas, tai buvo sudaryta regencija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

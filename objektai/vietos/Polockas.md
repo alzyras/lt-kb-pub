@@ -1582,7 +1582,11 @@ media_all_json: |-
     Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
-  citata_rodoma: "Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
+  citata_rodoma: |
+    Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1614,7 +1618,23 @@ media_all_json: |-
     Andrius Vaidotas, Kęstučio sūnus,
     Polocko kunigaikštis - visai išgalvo­
     tas.
-  citata_rodoma: "locke. Tačiau miestiečių išvytas, nu­\nvykęs pas magistrą sulaukė para­\nmos, su pastaruoju 1381 metais iš­\nlaikė apsupęs Polocką 12 savaičių, \nbet ir sunki pilies apgultis, ir netikė­\nti pokyčiai Lietuvoje, per kuriuos \nKęstučiui atiteko kunigaikščio sos­\ntas, privertė Livonijos magistrą nu­\ntraukti apgultį, o Skirgailą grįžti į \nVilnių. Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas."
+  citata_rodoma: |
+    locke. Tačiau miestiečių išvytas, nu­
+    vykęs pas magistrą sulaukė para­
+    mos, su pastaruoju 1381 metais iš­
+    laikė apsupęs Polocką 12 savaičių,
+    bet ir sunki pilies apgultis, ir netikė­
+    ti pokyčiai Lietuvoje, per kuriuos
+    Kęstučiui atiteko kunigaikščio sos­
+    tas, privertė Livonijos magistrą nu­
+    traukti apgultį, o Skirgailą grįžti į
+    Vilnių. Strijkovskis ir Koje-
+    1  a v i č i u s supainiojo Andrių, Al­
+    girdo sūnų, su Vaidotu, Kęstučio sū­
+    numi, todėl radosi jų minimas
+    Andrius Vaidotas, Kęstučio sūnus,
+    Polocko kunigaikštis - visai išgalvo­
+    tas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1638,7 +1658,14 @@ media_all_json: |-
     pasodino didįjį kunigaikštį Žygimantą
     Kęstutaitį didžiojoje kunigaikštystėje
     Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
-  citata_rodoma: "Švitrigaila spėjo pabėgti\nį Polocką.\n\nLietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d."
+  citata_rodoma: |
+    Švitrigaila spėjo pabėgti
+    į Polocką.
+
+    Lietuvos metraščio liudijimu, „Lietuva
+    pasodino didįjį kunigaikštį Žygimantą
+    Kęstutaitį didžiojoje kunigaikštystėje
+    Vilniuje ir Trakuose rugsėjo 1 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1660,7 +1687,11 @@ media_all_json: |-
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+  citata_rodoma: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1680,7 +1711,14 @@ media_all_json: |-
     lavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II.
     Kunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis-
     lavičiaus sūnus.
-  citata_rodoma: "FIeTep6yprb 1793 roAa 8vo) \ntariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­\nniuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­\nnigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis- \nlavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II. \nKunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis- \nlavičiaus sūnus."
+  citata_rodoma: |
+    FIeTep6yprb 1793 roAa 8vo)
+    tariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­
+    niuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­
+    nigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis-
+    lavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II.
+    Kunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis-
+    lavičiaus sūnus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1701,7 +1739,15 @@ media_all_json: |-
     dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
     psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
     Biblija“.
-  citata_rodoma: "rusėnai \nskilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje. \nIš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-\nvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus \nSkorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-\ndicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs \npsalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų \nBiblija“."
+  citata_rodoma: |
+    rusėnai
+    skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
+    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
+    Biblija“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1723,7 +1769,14 @@ media_all_json: |-
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  citata_rodoma: |
+    Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1741,7 +1794,11 @@ media_all_json: |-
 
     Gediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-
     dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
-  citata_rodoma: ")**\n\nGediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-\ndė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis."
+  citata_rodoma: |
+    )**
+
+    Gediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-
+    dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1820,7 +1877,22 @@ media_all_json: |-
     k o v s k i s sakydami, kad Švitrigai­
     la pabėgęs į Smolenską, bet ne į Po­
     locką.
-  citata_rodoma: "Antrasis laiškas\nyra paties Švitrigailos rašytas didžia­\njam magistrui iš Polocko, likus 5 die­\nnoms iki Mergelės Marijos gimimo,\ntai yra, 1432 metų rugsėjo 3 dieną,\nkuriame jam praneša, kad kuni­\ngaikštis Žygimantas ir Alšėnų kuni­\ngaikštis Simonas užpuolę jo dvarą\nAšmenoje ir kad jis sėkmingai su to­\ntorių generolais pasiekęs Polocką ir\ndėl to prašo skubiai padėti. Taigi\nklysta Kojelavičius ir Strij-\nk o v s k i s sakydami, kad Švitrigai­\nla pabėgęs į Smolenską, bet ne į Po­\nlocką."
+  citata_rodoma: |
+    Antrasis laiškas
+    yra paties Švitrigailos rašytas didžia­
+    jam magistrui iš Polocko, likus 5 die­
+    noms iki Mergelės Marijos gimimo,
+    tai yra, 1432 metų rugsėjo 3 dieną,
+    kuriame jam praneša, kad kuni­
+    gaikštis Žygimantas ir Alšėnų kuni­
+    gaikštis Simonas užpuolę jo dvarą
+    Ašmenoje ir kad jis sėkmingai su to­
+    torių generolais pasiekęs Polocką ir
+    dėl to prašo skubiai padėti. Taigi
+    klysta Kojelavičius ir Strij-
+    k o v s k i s sakydami, kad Švitrigai­
+    la pabėgęs į Smolenską, bet ne į Po­
+    locką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1865,7 +1937,17 @@ media_all_json: |-
     17
     Latopisiec Litwy, paskelbtas D a ni­
     to w i c z, Wilno, 1827, 8vo, 1.
-  citata_rodoma: "Martyno, vys­\nkupo ir išpažinėjo, Viešpaties metais\n1388], Skirgaila save vadina: Schir-\ngalo Dei gratia dux lithuanie et domi­\nnus Tracensis et Polocensis [Skirgaila -\ndidysis Lietuvos kunigaikštis ir Tra­\nkų bei Polocko valdovas].\n17\nLatopisiec Litwy, paskelbtas D a ni­\nto w i c z, Wilno, 1827, 8vo, 1."
+  citata_rodoma: |
+    Martyno, vys­
+    kupo ir išpažinėjo, Viešpaties metais
+    1388], Skirgaila save vadina: Schir-
+    galo Dei gratia dux lithuanie et domi­
+    nus Tracensis et Polocensis [Skirgaila -
+    didysis Lietuvos kunigaikštis ir Tra­
+    kų bei Polocko valdovas].
+    17
+    Latopisiec Litwy, paskelbtas D a ni­
+    to w i c z, Wilno, 1827, 8vo, 1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1901,7 +1983,22 @@ media_all_json: |-
     ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
     jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
     Žygimanto ir Švitrigailos grupuočių taikiniu.
-  citata_rodoma: "216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių \nmiestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio \nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių \nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių \nŽygimanto ir Švitrigailos grupuočių taikiniu."
+  citata_rodoma: |
+    216
+
+    ## Puslapis 233
+
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­
+    ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
+    jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
+    Žygimanto ir Švitrigailos grupuočių taikiniu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1919,7 +2016,11 @@ media_all_json: |-
     Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
     pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
     Lietuva tapo didvalstybe - regiono lydere.
-  citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere."
+  citata_rodoma: |
+    Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1941,7 +2042,11 @@ media_all_json: |-
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-
     sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst. karių, prieš kuriuos LDK,
     Lenkijos padedama, galėjo pasiųsti 18 tūkst.
-  citata_rodoma: "Netrukus į pagalbą konfe-\nderatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie \nPolocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-\nsijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst."
+  citata_rodoma: |
+    Netrukus į pagalbą konfe-
+    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
+    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-
+    sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1958,7 +2063,10 @@ media_all_json: |-
     valstybės sienas. Polockas, kuris jau buvo pakliuvęs į ordino
     įtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti
     Vitebsko.
-  citata_rodoma: "Polockas, kuris jau buvo pakliuvęs į ordino\nįtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti\nVitebsko."
+  citata_rodoma: |
+    Polockas, kuris jau buvo pakliuvęs į ordino
+    įtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti
+    Vitebsko.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1981,7 +2089,14 @@ media_all_json: |-
     Rugpjūčio pabaigoje į Žemaitiją paeiliui
     įsibrovė trys Livonijos daliniai, jie niokojo
     Upytės kraštą.
-  citata_rodoma: "Magistras grįžo į savo žemę, o Švitrigaila -\nį Polocką, ir, vėl paleidęs kariuomenę, iš-\nvyko į Kijevą.\n\nRugpjūčio pabaigoje į Žemaitiją paeiliui\nįsibrovė trys Livonijos daliniai, jie niokojo\nUpytės kraštą."
+  citata_rodoma: |
+    Magistras grįžo į savo žemę, o Švitrigaila -
+    į Polocką, ir, vėl paleidęs kariuomenę, iš-
+    vyko į Kijevą.
+
+    Rugpjūčio pabaigoje į Žemaitiją paeiliui
+    įsibrovė trys Livonijos daliniai, jie niokojo
+    Upytės kraštą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2039,7 +2154,16 @@ media_all_json: |-
     vanojimus, Vytauto suteiktus bajorams ir miestui, ko Švitri­
     gaila ne tik nepadarė, bet, savavališkai atimdamas palikimą
     iš įvairių šeimynų, visus prieš save sukiršino18.
-  citata_rodoma: "0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio\nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių\nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių\nŽygimanto ir Švitrigailos grupuočių taikiniu."
+  citata_rodoma: |
+    0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­
+    ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
+    jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
+    Žygimanto ir Švitrigailos grupuočių taikiniu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2063,7 +2187,17 @@ media_all_json: |-
     vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
     dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
     kluotų žmonių būrį.
-  citata_rodoma: "116\n\n## Puslapis 133\n\nIl KNYGA\nSkirgailai išvykus į Polocką jam buvo gera proga įgyvendin­\nti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­\nvykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug\ndengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­\nkluotų žmonių būrį."
+  citata_rodoma: |
+    116
+
+    ## Puslapis 133
+
+    Il KNYGA
+    Skirgailai išvykus į Polocką jam buvo gera proga įgyvendin­
+    ti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­
+    vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
+    dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
+    kluotų žmonių būrį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2156,7 +2290,26 @@ media_all_json: |-
     tada atvirai per Žemaitiją nužygiavo prie Žeimelės
     upelio, kur įrengė įtvirtintą stovyklą, iš kurios galėtų
     atremti priešą.
-  citata_rodoma: "Tai šen, tai ten liepsnojo prie­\nšo padegti kaimai, kylantys\nG ed im in a s\nsu m u ša\ndūmai žadino skausmą, o\nk ry ž iu o č iu s  ir a tim a\nskausmas — drąsą, tačiau ap-\niš jų  Ž e m a itiją\ndairiam\nkunigaikščiui\ntuo\ntarpu daugiau rūpėjo, kieno\npusėje jėgų persvara. Jis kol kas turėjo nedidelę ka­\nriuomenę, laukė pagrindinių dalinių, kurie su naugar-\ndukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo\nuž dienos ar kitos pasirodyti. Todėl ir delsė, tramdy­\ndamas įniršį, kurį kėlė akivaizdūs priešo siautėjimo\nženklai: nenorėjo nei neapdairiai pulti į kovą, nei nie­\nko nedaryti."
+  citata_rodoma: |
+    Tai šen, tai ten liepsnojo prie­
+    šo padegti kaimai, kylantys
+    G ed im in a s
+    su m u ša
+    dūmai žadino skausmą, o
+    k ry ž iu o č iu s  ir a tim a
+    skausmas — drąsą, tačiau ap-
+    iš jų  Ž e m a itiją
+    dairiam
+    kunigaikščiui
+    tuo
+    tarpu daugiau rūpėjo, kieno
+    pusėje jėgų persvara. Jis kol kas turėjo nedidelę ka­
+    riuomenę, laukė pagrindinių dalinių, kurie su naugar-
+    dukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo
+    už dienos ar kitos pasirodyti. Todėl ir delsė, tramdy­
+    damas įniršį, kurį kėlė akivaizdūs priešo siautėjimo
+    ženklai: nenorėjo nei neapdairiai pulti į kovą, nei nie­
+    ko nedaryti.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2312,7 +2465,11 @@ media_all_json: |-
     po Voinos mirties, nors tas paliko savo įpėdinius, Gediminas paso­
     dino Narimantą. Jam su Karijotu, gavusiu dalį Juodojoje Rusioje
     (Naugarduke), teko ir santykiai su totoriais.
-  citata_rodoma: "Ir Polocke,\npo Voinos mirties, nors tas paliko savo įpėdinius, Gediminas paso­\ndino Narimantą. Jam su Karijotu, gavusiu dalį Juodojoje Rusioje\n(Naugarduke), teko ir santykiai su totoriais."
+  citata_rodoma: |
+    Ir Polocke,
+    po Voinos mirties, nors tas paliko savo įpėdinius, Gediminas paso­
+    dino Narimantą. Jam su Karijotu, gavusiu dalį Juodojoje Rusioje
+    (Naugarduke), teko ir santykiai su totoriais.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2350,7 +2507,14 @@ media_all_json: |-
     lavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II.
     Kunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis-
     lavičiaus sūnus.
-  citata_rodoma: "FIeTep6yprb 1793 roAa 8vo) \ntariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­\nniuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­\nnigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis- \nlavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II. \nKunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis- \nlavičiaus sūnus."
+  citata_rodoma: |
+    FIeTep6yprb 1793 roAa 8vo)
+    tariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­
+    niuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­
+    nigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis-
+    lavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II.
+    Kunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis-
+    lavičiaus sūnus.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2372,7 +2536,14 @@ media_all_json: |-
     pasodino didįjį kunigaikštį Žygimantą
     Kęstutaitį didžiojoje kunigaikštystėje
     Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
-  citata_rodoma: "Švitrigaila spėjo pabėgti\nį Polocką.\n\nLietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d."
+  citata_rodoma: |
+    Švitrigaila spėjo pabėgti
+    į Polocką.
+
+    Lietuvos metraščio liudijimu, „Lietuva
+    pasodino didįjį kunigaikštį Žygimantą
+    Kęstutaitį didžiojoje kunigaikštystėje
+    Vilniuje ir Trakuose rugsėjo 1 d.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2461,7 +2632,11 @@ media_all_json: |-
     Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
     pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
     Lietuva tapo didvalstybe - regiono lydere.
-  citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere."
+  citata_rodoma: |
+    Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2502,7 +2677,14 @@ media_all_json: |-
     Rugpjūčio pabaigoje į Žemaitiją paeiliui
     įsibrovė trys Livonijos daliniai, jie niokojo
     Upytės kraštą.
-  citata_rodoma: "Magistras grįžo į savo žemę, o Švitrigaila -\nį Polocką, ir, vėl paleidęs kariuomenę, iš-\nvyko į Kijevą.\n\nRugpjūčio pabaigoje į Žemaitiją paeiliui\nįsibrovė trys Livonijos daliniai, jie niokojo\nUpytės kraštą."
+  citata_rodoma: |
+    Magistras grįžo į savo žemę, o Švitrigaila -
+    į Polocką, ir, vėl paleidęs kariuomenę, iš-
+    vyko į Kijevą.
+
+    Rugpjūčio pabaigoje į Žemaitiją paeiliui
+    įsibrovė trys Livonijos daliniai, jie niokojo
+    Upytės kraštą.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2523,7 +2705,11 @@ media_all_json: |-
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-
     sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst. karių, prieš kuriuos LDK,
     Lenkijos padedama, galėjo pasiųsti 18 tūkst.
-  citata_rodoma: "Netrukus į pagalbą konfe-\nderatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie \nPolocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-\nsijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst."
+  citata_rodoma: |
+    Netrukus į pagalbą konfe-
+    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
+    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-
+    sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2573,7 +2759,17 @@ media_all_json: |-
     vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
     dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
     kluotų žmonių būrį.
-  citata_rodoma: "116\n\n## Puslapis 133\n\nIl KNYGA\nSkirgailai išvykus į Polocką jam buvo gera proga įgyvendin­\nti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­\nvykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug\ndengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­\nkluotų žmonių būrį."
+  citata_rodoma: |
+    116
+
+    ## Puslapis 133
+
+    Il KNYGA
+    Skirgailai išvykus į Polocką jam buvo gera proga įgyvendin­
+    ti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­
+    vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
+    dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
+    kluotų žmonių būrį.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2629,7 +2825,12 @@ media_all_json: |-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
-  citata_rodoma: "Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių \npolitinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."
+  citata_rodoma: |
+    Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
+    politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2658,7 +2859,22 @@ media_all_json: |-
     k o v s k i s sakydami, kad Švitrigai­
     la pabėgęs į Smolenską, bet ne į Po­
     locką.
-  citata_rodoma: "Antrasis laiškas\nyra paties Švitrigailos rašytas didžia­\njam magistrui iš Polocko, likus 5 die­\nnoms iki Mergelės Marijos gimimo,\ntai yra, 1432 metų rugsėjo 3 dieną,\nkuriame jam praneša, kad kuni­\ngaikštis Žygimantas ir Alšėnų kuni­\ngaikštis Simonas užpuolę jo dvarą\nAšmenoje ir kad jis sėkmingai su to­\ntorių generolais pasiekęs Polocką ir\ndėl to prašo skubiai padėti. Taigi\nklysta Kojelavičius ir Strij-\nk o v s k i s sakydami, kad Švitrigai­\nla pabėgęs į Smolenską, bet ne į Po­\nlocką."
+  citata_rodoma: |
+    Antrasis laiškas
+    yra paties Švitrigailos rašytas didžia­
+    jam magistrui iš Polocko, likus 5 die­
+    noms iki Mergelės Marijos gimimo,
+    tai yra, 1432 metų rugsėjo 3 dieną,
+    kuriame jam praneša, kad kuni­
+    gaikštis Žygimantas ir Alšėnų kuni­
+    gaikštis Simonas užpuolę jo dvarą
+    Ašmenoje ir kad jis sėkmingai su to­
+    torių generolais pasiekęs Polocką ir
+    dėl to prašo skubiai padėti. Taigi
+    klysta Kojelavičius ir Strij-
+    k o v s k i s sakydami, kad Švitrigai­
+    la pabėgęs į Smolenską, bet ne į Po­
+    locką.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2687,7 +2903,16 @@ media_all_json: |-
     vanojimus, Vytauto suteiktus bajorams ir miestui, ko Švitri­
     gaila ne tik nepadarė, bet, savavališkai atimdamas palikimą
     iš įvairių šeimynų, visus prieš save sukiršino18.
-  citata_rodoma: "0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio\nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių\nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių\nŽygimanto ir Švitrigailos grupuočių taikiniu."
+  citata_rodoma: |
+    0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­
+    ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
+    jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
+    Žygimanto ir Švitrigailos grupuočių taikiniu.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2753,7 +2978,11 @@ media_all_json: |-
     Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs
     vasalinę sutartį.
-  citata_rodoma: "Vykdamu Lietuvon malšinti sukilimo, jiedu\nturėjo raštu pažadėti, pareikalavus, atgal sugrįžti.\nUžėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.\nDar 1385 m."
+  citata_rodoma: |
+    Vykdamu Lietuvon malšinti sukilimo, jiedu
+    turėjo raštu pažadėti, pareikalavus, atgal sugrįžti.
+    Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
+    Dar 1385 m.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2771,7 +3000,11 @@ media_all_json: |-
     pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
     karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
     šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
-  citata_rodoma: "Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties \npradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą \nkaruose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-\nšą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos."
+  citata_rodoma: |
+    Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
+    pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
+    karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
+    šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2795,7 +3028,17 @@ media_all_json: |-
     17
     Latopisiec Litwy, paskelbtas D a ni­
     to w i c z, Wilno, 1827, 8vo, 1.
-  citata_rodoma: "Martyno, vys­\nkupo ir išpažinėjo, Viešpaties metais\n1388], Skirgaila save vadina: Schir-\ngalo Dei gratia dux lithuanie et domi­\nnus Tracensis et Polocensis [Skirgaila -\ndidysis Lietuvos kunigaikštis ir Tra­\nkų bei Polocko valdovas].\n17\nLatopisiec Litwy, paskelbtas D a ni­\nto w i c z, Wilno, 1827, 8vo, 1."
+  citata_rodoma: |
+    Martyno, vys­
+    kupo ir išpažinėjo, Viešpaties metais
+    1388], Skirgaila save vadina: Schir-
+    galo Dei gratia dux lithuanie et domi­
+    nus Tracensis et Polocensis [Skirgaila -
+    didysis Lietuvos kunigaikštis ir Tra­
+    kų bei Polocko valdovas].
+    17
+    Latopisiec Litwy, paskelbtas D a ni­
+    to w i c z, Wilno, 1827, 8vo, 1.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2815,7 +3058,14 @@ media_all_json: |-
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  citata_rodoma: |
+    Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2863,7 +3113,26 @@ media_all_json: |-
     taikos sutarties, darydamas gėdą savo šaliai, skubiai
     pranešė turkų sultonui, ir Vengrijai, ir Valakijos vai­
     vadai.
-  citata_rodoma: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO \nALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA \nSU MOLDAVUOS VAIVADA STEPONU\nTą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo \nbrolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­\n\n## Puslapis 146\n\nvai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti \nseimą Parčeve. Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 ."
+  citata_rodoma: |
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2880,7 +3149,10 @@ media_all_json: |-
     valstybės sienas. Polockas, kuris jau buvo pakliuvęs į ordino
     įtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti
     Vitebsko.
-  citata_rodoma: "Polockas, kuris jau buvo pakliuvęs į ordino\nįtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti\nVitebsko."
+  citata_rodoma: |
+    Polockas, kuris jau buvo pakliuvęs į ordino
+    įtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti
+    Vitebsko.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2915,7 +3187,13 @@ media_all_json: |-
     vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau
     nuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-
     davo broliu; tačiau caras, pykdamas ant Stp.
-  citata_rodoma: "Caras jo pasiuntinius priėmė labai\nnemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,\nSmolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai\nvartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau\nnuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-\ndavo broliu; tačiau caras, pykdamas ant Stp."
+  citata_rodoma: |
+    Caras jo pasiuntinius priėmė labai
+    nemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,
+    Smolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai
+    vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau
+    nuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-
+    davo broliu; tačiau caras, pykdamas ant Stp.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2966,7 +3244,23 @@ media_all_json: |-
     Andrius Vaidotas, Kęstučio sūnus,
     Polocko kunigaikštis - visai išgalvo­
     tas.
-  citata_rodoma: "locke. Tačiau miestiečių išvytas, nu­\nvykęs pas magistrą sulaukė para­\nmos, su pastaruoju 1381 metais iš­\nlaikė apsupęs Polocką 12 savaičių, \nbet ir sunki pilies apgultis, ir netikė­\nti pokyčiai Lietuvoje, per kuriuos \nKęstučiui atiteko kunigaikščio sos­\ntas, privertė Livonijos magistrą nu­\ntraukti apgultį, o Skirgailą grįžti į \nVilnių. Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas."
+  citata_rodoma: |
+    locke. Tačiau miestiečių išvytas, nu­
+    vykęs pas magistrą sulaukė para­
+    mos, su pastaruoju 1381 metais iš­
+    laikė apsupęs Polocką 12 savaičių,
+    bet ir sunki pilies apgultis, ir netikė­
+    ti pokyčiai Lietuvoje, per kuriuos
+    Kęstučiui atiteko kunigaikščio sos­
+    tas, privertė Livonijos magistrą nu­
+    traukti apgultį, o Skirgailą grįžti į
+    Vilnių. Strijkovskis ir Koje-
+    1  a v i č i u s supainiojo Andrių, Al­
+    girdo sūnų, su Vaidotu, Kęstučio sū­
+    numi, todėl radosi jų minimas
+    Andrius Vaidotas, Kęstučio sūnus,
+    Polocko kunigaikštis - visai išgalvo­
+    tas.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2982,7 +3276,11 @@ media_all_json: |-
 
     Gediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-
     dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
-  citata_rodoma: ")**\n\nGediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-\ndė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis."
+  citata_rodoma: |
+    )**
+
+    Gediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-
+    dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -3035,7 +3333,22 @@ media_all_json: |-
     ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
     jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
     Žygimanto ir Švitrigailos grupuočių taikiniu.
-  citata_rodoma: "216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių \nmiestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio \nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių \nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių \nŽygimanto ir Švitrigailos grupuočių taikiniu."
+  citata_rodoma: |
+    216
+
+    ## Puslapis 233
+
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­
+    ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
+    jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
+    Žygimanto ir Švitrigailos grupuočių taikiniu.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -3055,7 +3368,14 @@ media_all_json: |-
     artimos žemės lietuvių kariuomenes aprūpindavo maistu, suteik­
     davo reikalingų žinių, padėdavo persikelti per upes, ar pervesdavo
     per brastas.
-  citata_rodoma: "Tuo keliu nuėjo ne tik Dauguvos pilys,\nkaip Gercike, Kukenois, bet ir pats Polockas, kuriam Lietuva buvo\nnatūralus gynėjas ir sąjungininkas. Ano laiko šaltiniai patiekia\natsitiktinių užuominų, kaip tokios lietuvių įtakos sferon pakliuvusios\nartimos žemės lietuvių kariuomenes aprūpindavo maistu, suteik­\ndavo reikalingų žinių, padėdavo persikelti per upes, ar pervesdavo\nper brastas."
+  citata_rodoma: |
+    Tuo keliu nuėjo ne tik Dauguvos pilys,
+    kaip Gercike, Kukenois, bet ir pats Polockas, kuriam Lietuva buvo
+    natūralus gynėjas ir sąjungininkas. Ano laiko šaltiniai patiekia
+    atsitiktinių užuominų, kaip tokios lietuvių įtakos sferon pakliuvusios
+    artimos žemės lietuvių kariuomenes aprūpindavo maistu, suteik­
+    davo reikalingų žinių, padėdavo persikelti per upes, ar pervesdavo
+    per brastas.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -3104,13 +3424,15 @@ media_all_json: |-
   puslapiai: "PDF 79"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 79."
   citata_originali: |
-    26. APIE KRYŽIUOČIŲ PAGALBĄ JOGAILAI IR DIDŽIOJO
-    KUNIGAIKŠČIO KĘSTUČIO NUŽUDYMĄ
-    Didysis kunigaikštis Kęstutis, užėmęs Vilnių, pasiun­
-    čia į Polocką du žmones, vieną į kariuomenę o kitą
-    į miestą. Polockiečiai apsidžiaugė ir šauksmu pranešė
-    kariuomenei, kariai atsimetė nuo Skirgailos ir patrau­
-    kė į Vilnių, pas didįjį kunigaikštį Kęstutį.
+    Bet anksčiau vokiečiai bu­
+    vo abiejų priešai — ir didžiojo kunigaikščio Kęstučio,
+    ir didžiojo kunigaikščio Jogailos. Pirmą kartą Livoni­
+    jos kariuomenė buvo atėjusi j pagalbą kunigaikščiui
+    Skirgailai prie Polocko, o paskui Prūsijos kariuomenė
+    su maršalu buvo atžygiavusi prie Trakų. O dabar jau
+    trečią kartą Livonijos kariuomenė atėjo su juo. Tai jau
+    buvo įrodymai, kad jie su jais išvien stojo prieš didįjį
+    kunigaikštį Kęstutį.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3123,17 +3445,18 @@ media_all_json: |-
   puslapiai: "PDF 213"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
-    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
-    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
-    imtus bajorus.
+    Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais. Trečioji -
+    Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni­
+    gaikščio, mirusios Gedimino žmonos brolio, duktė. Iš jos sū­
+    nūs: Liubartas, gimęs 1299 metais, Jaunutis, gimęs 1301 me­
+    tais, ir Kariotas, gimęs 1306 metais.
+    Gediminas, sekdamas savo didžiųjų protėvių pėdomis, nu­
+    kovė neapsakomo didumo taurą ant Tauro kalno Antakalny­
+    3 Iš esmės tą pačią Jogailaičių dinastijos genealogiją randu kuni­
+    go Jono Kanto Boreišos Jėzaus Draugijos lotyniškame pamoksle (ran­
+    kraštyje), sakytame 1689 metais, šv.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

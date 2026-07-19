@@ -118,7 +118,10 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
     rankų prie medžio ir, išpjovę jam iš pilvo bambą, ant kurios laikosi žarnos, prikalė ją prie
     medžio ir, smarkiai mušdami, privertė vaikščioti aplink medį, kol visos žarnos susivijo
     apie kamieną ir jis atidavė dievui dvasią, neišsižadėdamas tikrojo tikėjimo.
-  citata_rodoma: "306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D.\nIII, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher\nA., Die Bau..., 2, p. 65; GAO, p. 74)."
+  citata_rodoma: |
+    306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D.
+    III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher
+    A., Die Bau..., 2, p. 65; GAO, p. 74).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -140,7 +143,12 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
     išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
     juos apsupo, bet nedrįso į kaimą brautis, o broliai — iš kaimo išeiti ir stoti į mūšį.
-  citata_rodoma: "Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,\njuos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį."
+  citata_rodoma: |
+    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
+    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
+    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
+    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
+    juos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

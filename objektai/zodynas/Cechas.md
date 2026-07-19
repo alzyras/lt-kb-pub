@@ -125,7 +125,18 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     Vilniaus miesto cechų skelbiame esančius laisvus pagal mū­
     sų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū­
     sų antspaudas rašto apačioje yra įspaustas.
-  citata_rodoma: "Mes su \nsavo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­\njų pusių ginčus, pamatę atneštas abiejų pusių privilegijas, \nmūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir \nleistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­\npui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje \npaliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­\ntus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet \nkokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir \nVilniaus miesto cechų skelbiame esančius laisvus pagal mū­\nsų dekretą amžiniems laikams."
+  citata_rodoma: |
+    Mes su
+    savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­
+    jų pusių ginčus, pamatę atneštas abiejų pusių privilegijas,
+    mūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir
+    leistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­
+    pui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje
+    paliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­
+    tus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet
+    kokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir
+    Vilniaus miesto cechų skelbiame esančius laisvus pagal mū­
+    sų dekretą amžiniems laikams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -151,7 +162,12 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     vyzdžiu, čia pradėta steigti cechus ir naudotis gautomis
     privilegijomis; XIII amžiuje didelė jų dalis išsivadavo iš vysku­
     pų jurisdikcijų ir įgijo savas.
-  citata_rodoma: "XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­\ntvirtino Vokietijos miestuose, sekant Italijos ir Prancūzijos pa­\nvyzdžiu, čia pradėta steigti cechus ir naudotis gautomis \nprivilegijomis; XIII amžiuje didelė jų dalis išsivadavo iš vysku­\npų jurisdikcijų ir įgijo savas."
+  citata_rodoma: |
+    XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­
+    tvirtino Vokietijos miestuose, sekant Italijos ir Prancūzijos pa­
+    vyzdžiu, čia pradėta steigti cechus ir naudotis gautomis
+    privilegijomis; XIII amžiuje didelė jų dalis išsivadavo iš vysku­
+    pų jurisdikcijų ir įgijo savas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -177,7 +193,14 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     savo teisėtais įgaliotiniais, pas mus viešai atvyko, teisėtai
     laikydamosi termino, ir taip pat savo nesutarimus pakarto­
     jo.
-  citata_rodoma: "pagal minėtos privilegijos nuostatus buvo įprasta laikytis, \nsavą auksakalystės meną atskirai nuo cecho narių neapgal­\nvotai išdrįso vystyti ir savo dirbinius pagal savus įgeidžius, \nbe jokios tvarkos ir dėmesio atliktus, visų žmonių, kurie tik \nnorėjo, vartojimui išdrįso gaminti ir pardavinėti. Visa tai darė \nnegerbdamas privilegijų, leistų minėtam cechui, kaip visa \ntai mūsų šaukime į teismą aiškiau yra aprašyta."
+  citata_rodoma: |
+    pagal minėtos privilegijos nuostatus buvo įprasta laikytis,
+    savą auksakalystės meną atskirai nuo cecho narių neapgal­
+    votai išdrįso vystyti ir savo dirbinius pagal savus įgeidžius,
+    be jokios tvarkos ir dėmesio atliktus, visų žmonių, kurie tik
+    norėjo, vartojimui išdrįso gaminti ir pardavinėti. Visa tai darė
+    negerbdamas privilegijų, leistų minėtam cechui, kaip visa
+    tai mūsų šaukime į teismą aiškiau yra aprašyta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

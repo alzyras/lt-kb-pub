@@ -150,7 +150,20 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
     permainų priežastis buvo ta, kad per skitų karą buvo
     netekę teisėtų kunigaikščių.
-  citata_rodoma: "Tiesa, kai buvę toliau\nnuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­\nvina kova. Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles."
+  citata_rodoma: |
+    Tiesa, kai buvę toliau
+    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
+    vina kova. Galop nugalėję lietuviai išvijo barbarus iš
+    stovyklos: galybė priešų krito mūšyje, kur kas dau­
+    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
+    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
+    D u o k lės p ra ša n tiem s
+    sk ita m s E rd vila s siu n ­
+    čia  d v i strė le s
+    šaukęs pasiuntinius, jis atsi­
+    sakė duoklės, paskelbė karą
+    ir įteikė jų kunigaikščiui do­
+    vaną— dvi strėles.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -172,7 +185,14 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     Gorodcu4. Polocko vyrai, stoję savo pulkais, pasitiko
     juos prie Gorodco, ir pradėjo vieni su kitais smarkiai
     kautis ir kapotis.
-  citata_rodoma: "Didysis kunigaikštis Erdvilą įsi­\nrengė čionai sostinę ir ėmė vadintis Naugarduko di­\ndžiuoju kunigaikščiu I S .\nIšžygiavę iš Naugarduko, įkūrė Gardino miestą l6 , ir \npaskui nužygiavo Į Brastą l7 , ir rado Brastą, ir Drohiči- \nną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis \ntuos miestus atstatė ir ėmė juose kunigaikščiauti 2I."
+  citata_rodoma: |
+    Didysis kunigaikštis Erdvilą įsi­
+    rengė čionai sostinę ir ėmė vadintis Naugarduko di­
+    džiuoju kunigaikščiu I S .
+    Išžygiavę iš Naugarduko, įkūrė Gardino miestą l6 , ir
+    paskui nužygiavo Į Brastą l7 , ir rado Brastą, ir Drohiči-
+    ną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis
+    tuos miestus atstatė ir ėmė juose kunigaikščiauti 2I.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

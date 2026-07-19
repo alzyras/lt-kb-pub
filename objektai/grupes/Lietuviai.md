@@ -9423,7 +9423,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
     ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
     mi kaip Liet’gola.
-  citata_rodoma: "Latvių ten atliktas asimiliacijos\nfaktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių\nsritis yra asimiliavę lietuviai.\nTikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai\nryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­\nmi kaip Liet’gola."
+  citata_rodoma: |
+    Latvių ten atliktas asimiliacijos
+    faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių
+    sritis yra asimiliavę lietuviai.
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9447,7 +9453,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
     Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
     Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
-  citata_rodoma: "Tuo tarpu pagonys lietuviai, kaip\npatvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų\neiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,\nbuvo pasiekę, palyginti, aukštą kultūros laipsnį.\nXI amž."
+  citata_rodoma: |
+    Tuo tarpu pagonys lietuviai, kaip
+    patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų
+    eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,
+    buvo pasiekę, palyginti, aukštą kultūros laipsnį.
+    XI amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9468,7 +9479,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,
     esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
     kad jie buvę atmušti^26.
-  citata_rodoma: "Šitas «bėgimas»\ntačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,\nkad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas\nPosilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,\nesą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,\nkad jie buvę atmušti^26."
+  citata_rodoma: |
+    Šitas «bėgimas»
+    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
+    kad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas
+    Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,
+    esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
+    kad jie buvę atmušti^26.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9486,7 +9503,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
     sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
     kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
-  citata_rodoma: "Vytauto vadovaujami\nLietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,\nsugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią\nkryžiuočių kariuomenę, ir jų eilės nebeatlaikė."
+  citata_rodoma: |
+    Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9541,7 +9562,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kumo. Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis
     padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų
     Lietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų.
-  citata_rodoma: "Jis neparodė ir žymesnio kritiš­\nkumo. Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis\npadarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų\nLietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų."
+  citata_rodoma: |
+    Jis neparodė ir žymesnio kritiš­
+    kumo. Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis
+    padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų
+    Lietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9594,7 +9619,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
     tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
     ūkis).
-  citata_rodoma: "Atėję iš ryškią individualią alodinę nuosavybės struk-\ntūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-\ntys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus \n(Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, \ntačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-\ntiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių \nūkis)."
+  citata_rodoma: |
+    Atėję iš ryškią individualią alodinę nuosavybės struk-
+    tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
+    tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9635,7 +9667,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     laikė Lietuvą savo provincija. Nuomonių skirtumas ir jų paaš­
     trėjimas iškilo tuomet, kai ėmė didėti Vytauto galybė ir sava­
     rankiškumas.
-  citata_rodoma: "Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­\nkai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,\nlaikė Lietuvą savo provincija. Nuomonių skirtumas ir jų paaš­\ntrėjimas iškilo tuomet, kai ėmė didėti Vytauto galybė ir sava­\nrankiškumas."
+  citata_rodoma: |
+    Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
+    kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,
+    laikė Lietuvą savo provincija. Nuomonių skirtumas ir jų paaš­
+    trėjimas iškilo tuomet, kai ėmė didėti Vytauto galybė ir sava­
+    rankiškumas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9655,7 +9692,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
     kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,
     laikė Lietuvą savo provincija.
-  citata_rodoma: "Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­\nkai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,\nlaikė Lietuvą savo provincija."
+  citata_rodoma: |
+    Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
+    kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,
+    laikė Lietuvą savo provincija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9727,7 +9767,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
     prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
     sritį valdė prūsai, turėję ten savo pilių (III,7).
-  citata_rodoma: "Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus\nbei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių\nlietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją\nklausimai.\n\n\n\n                                   Prūsai ir Lietuva\n\n   Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos\nartimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos\nvientisumas.\n  Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių."
+  citata_rodoma: |
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+
+
+
+                                       Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -9767,7 +9821,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
     čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
     kurie tapo artimosios sargybos tautomis.
-  citata_rodoma: "Didieji kunigaikščiai, reikšdami teritorines \npretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-\nmu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-\nčiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, \nkurie tapo artimosios sargybos tautomis."
+  citata_rodoma: |
+    Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9787,7 +9846,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo
     lenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai
     šaukdavo ir savo atskirus seimus.
-  citata_rodoma: "Tačiau\ndar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo\nlenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai\nšaukdavo ir savo atskirus seimus."
+  citata_rodoma: |
+    Tačiau
+    dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo
+    lenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai
+    šaukdavo ir savo atskirus seimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -9810,7 +9873,16 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
     būdo; kad šitai būtų akivaizdu, jie jį užklojo balta marška, kaip paprastai užklojami
     numirėliai.
-  citata_rodoma: "Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,\nvoros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia\n  530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),\ndeš. Bebro intakas.\n\nnesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę\nsu savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių. Kiti išbėgiojo, ir kurie\nne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei\npavalgyti, tik vienas kitas išsigelbėjo nuo žūties."
+  citata_rodoma: |
+    Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
+    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
+      530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),
+    deš. Bebro intakas.
+
+    nesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę
+    su savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių. Kiti išbėgiojo, ir kurie
+    ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei
+    pavalgyti, tik vienas kitas išsigelbėjo nuo žūties.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -9892,7 +9964,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     lyčių gyventojų1  arba juos išsiveda į nelaisvę iki gyvos galvos;
     shin aiškina: dry vlihuyser, taip pat
     Łuk.
-  citata_rodoma: "Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad\nŠv. Kryžiaus Išaukštinimo dieną, kai Prūsijos vyresnybė iš­\nvyko į Marienburgą, į kapitulą, gausus jų pulkas užgriūna\ntą kraštą, nužudo nuo šešių iki aštuonių tūkstančių abiejų\nlyčių gyventojų1  arba juos išsiveda į nelaisvę iki gyvos galvos;\nshin aiškina: dry vlihuyser, taip pat\nŁuk."
+  citata_rodoma: |
+    Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
+    Šv. Kryžiaus Išaukštinimo dieną, kai Prūsijos vyresnybė iš­
+    vyko į Marienburgą, į kapitulą, gausus jų pulkas užgriūna
+    tą kraštą, nužudo nuo šešių iki aštuonių tūkstančių abiejų
+    lyčių gyventojų1  arba juos išsiveda į nelaisvę iki gyvos galvos;
+    shin aiškina: dry vlihuyser, taip pat
+    Łuk.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10052,7 +10131,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
     šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
     smarkiai puldavo Lietuvą.
-  citata_rodoma: "Vytautas brendo audringu Lietuvos valstybės laikotarpiu,\nkada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo\nišleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš\nšiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač\nsmarkiai puldavo Lietuvą."
+  citata_rodoma: |
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
+    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
+    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
+    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
+    smarkiai puldavo Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10072,7 +10156,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
     kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
     kunigaikščių joje buvo per penkiasdešimt.
-  citata_rodoma: "Tuo\nbūdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­\nčiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama\nkariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos\nkunigaikščių joje buvo per penkiasdešimt."
+  citata_rodoma: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
+    kunigaikščių joje buvo per penkiasdešimt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10094,7 +10183,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo
     šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
     šia tema.
-  citata_rodoma: "Kadangi lietuvių lyderiai privalėjo \nkonformistiškai sietis su Vokietijos interesais, tai provokavo konfliktą \nne tik su lenkais, bet ir tarp pačių lietuvių. Kai 1916 m. birželį Lozanos \npavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo \nšalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti \nšia tema."
+  citata_rodoma: |
+    Kadangi lietuvių lyderiai privalėjo
+    konformistiškai sietis su Vokietijos interesais, tai provokavo konfliktą
+    ne tik su lenkais, bet ir tarp pačių lietuvių. Kai 1916 m. birželį Lozanos
+    pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo
+    šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
+    šia tema.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10119,7 +10214,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
     Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda
     komisijų įvardijimuose, atskirai vyksta kodifikacijos darbai.
-  citata_rodoma: "Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose \nLietuvos atstovai konstituciją manė esant savo nuolaida valstybės stipri-\nnimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų). Gegužės \n16 dieną buvo priimtas įstatymas dėl kiekvieno trečio seimo Gardine\n\nL I E T U V O S  I S T O R I J A\n92\nir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių \nKarūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda \nkomisijų įvardijimuose, atskirai vyksta kodifikacijos darbai."
+  citata_rodoma: |
+    Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose
+    Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stipri-
+    nimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų). Gegužės
+    16 dieną buvo priimtas įstatymas dėl kiekvieno trečio seimo Gardine
+
+    L I E T U V O S  I S T O R I J A
+    92
+    ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
+    Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda
+    komisijų įvardijimuose, atskirai vyksta kodifikacijos darbai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10141,7 +10246,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     bę drebėjo visos aplinkinės tautos, viso to buvo perdaug! Už­
     tat nenuostabu, kad tada pasklido gandai, esą Vytautas rengia­
     si į karą prieš lenkus ar prieš totorius.
-  citata_rodoma: "Lietuviams, lais­\nviems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­\npažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­\nbę drebėjo visos aplinkinės tautos, viso to buvo perdaug! Už­\ntat nenuostabu, kad tada pasklido gandai, esą Vytautas rengia­\nsi į karą prieš lenkus ar prieš totorius."
+  citata_rodoma: |
+    Lietuviams, lais­
+    viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­
+    pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­
+    bę drebėjo visos aplinkinės tautos, viso to buvo perdaug! Už­
+    tat nenuostabu, kad tada pasklido gandai, esą Vytautas rengia­
+    si į karą prieš lenkus ar prieš totorius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10169,7 +10280,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai
     matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių
     karaliaus gavę kankinių vainikus.
-  citata_rodoma: "Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai\nsu viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias\ndienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į\nkovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų\nbei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas\nTupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,\nragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]\npiliai padegti."
+  citata_rodoma: |
+    Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
+    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
+    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -10197,7 +10316,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
     ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
     tarnybas, jį užpuolė, o visus žmones išžudė.
-  citata_rodoma: "Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį\n\n   Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės\ndalyje, kuri vadinama Kersovu,  ir, išžudę daugybę krikščionių, pasitraukė su dideliu\ngrobiu. Tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs\ndaugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas\nkopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”. Trumpai\ndrūtai kalbant, jis nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais\nstojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia\nnė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis,\nsmogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko\npasprukti."
+  citata_rodoma: |
+    Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
+
+       Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės
+    dalyje, kuri vadinama Kersovu,  ir, išžudę daugybę krikščionių, pasitraukė su dideliu
+    grobiu. Tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs
+    daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas
+    kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”. Trumpai
+    drūtai kalbant, jis nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais
+    stojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia
+    nė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis,
+    smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko
+    pasprukti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -10223,7 +10354,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
     nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
     vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
-  citata_rodoma: "Kol vokiečių kariau­\nna dar delsė stovyklaudama Žemaitijoje, galingas lietuvių\npulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu\nnusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­\nčiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę\nišsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė\nnuomonė, esą kupinas senos neapykantos Rygos arkivys­\nkupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­\nnas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­\nvo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 ."
+  citata_rodoma: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10284,7 +10425,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino
     Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę
     prie Oršos
-  citata_rodoma: "Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių \nnacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal \ntikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo \nlenkiškai.\n\nLietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino \nOstrogiškio, 1514 m."
+  citata_rodoma: |
+    Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal
+    tikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo
+    lenkiškai.
+
+    Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino
+    Ostrogiškio, 1514 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10306,7 +10454,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     A. Smetoną). Lietuvos gimnazistai, studentai, kariškiai ir jaunieji ūkinin-
     kai gyvai reagavo į grėsmes iš užsienio, reikšdami aiškų ryžtą ginti tėvy-
     nę, jeigu to prireiktų.
-  citata_rodoma: "Lietuvos jaunoji karta, augusi ir \ngimusi laisvoje Lietuvoje, šalies suverenumą laikė didžiausiu prioritetu, \njai buvo savaime suprantama, kad pati nacija tvarko savo ekonominį, kul-\ntūrinį ir politinį gyvenimą, nors jis ir nebuvo be trūkumų (anot vieno to \nmeto gimnazisto – jo svajonė buvo išvaduoti iš lenkų Vilnių ir nuversti \nA. Smetoną). Lietuvos gimnazistai, studentai, kariškiai ir jaunieji ūkinin-\nkai gyvai reagavo į grėsmes iš užsienio, reikšdami aiškų ryžtą ginti tėvy-\nnę, jeigu to prireiktų."
+  citata_rodoma: |
+    Lietuvos jaunoji karta, augusi ir
+    gimusi laisvoje Lietuvoje, šalies suverenumą laikė didžiausiu prioritetu,
+    jai buvo savaime suprantama, kad pati nacija tvarko savo ekonominį, kul-
+    tūrinį ir politinį gyvenimą, nors jis ir nebuvo be trūkumų (anot vieno to
+    meto gimnazisto – jo svajonė buvo išvaduoti iš lenkų Vilnių ir nuversti
+    A. Smetoną). Lietuvos gimnazistai, studentai, kariškiai ir jaunieji ūkinin-
+    kai gyvai reagavo į grėsmes iš užsienio, reikšdami aiškų ryžtą ginti tėvy-
+    nę, jeigu to prireiktų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10434,7 +10590,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     prastas karo taktikos reiškinys. Nepaprastas iš vienos pusės
     tuo, kad lietuviai taip greitai sugrįžo, o iš kitos pusės, kad sugrį­
     žo kaip tik laiku.
-  citata_rodoma: "Pabėgusios lietuvių kariuomenės sugrįžimas ir stojimas mūšin\ntuo momentu, kai jau laimė sviro kryžiuočių pusėn, yra nepa­\nprastas karo taktikos reiškinys. Nepaprastas iš vienos pusės\ntuo, kad lietuviai taip greitai sugrįžo, o iš kitos pusės, kad sugrį­\nžo kaip tik laiku."
+  citata_rodoma: |
+    Pabėgusios lietuvių kariuomenės sugrįžimas ir stojimas mūšin
+    tuo momentu, kai jau laimė sviro kryžiuočių pusėn, yra nepa­
+    prastas karo taktikos reiškinys. Nepaprastas iš vienos pusės
+    tuo, kad lietuviai taip greitai sugrįžo, o iš kitos pusės, kad sugrį­
+    žo kaip tik laiku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10458,7 +10619,16 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
     nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
     pavyko garbingai išvengti kovos.
-  citata_rodoma: "Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele\nkariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių\nnukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos\nkunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos\nmagistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji\nkunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,\nneturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų\nnuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems\npavyko garbingai išvengti kovos."
+  citata_rodoma: |
+    Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
+    kariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
+    kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
+    magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
+    kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
+    neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
+    nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
+    pavyko garbingai išvengti kovos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -10478,7 +10648,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     XIII amž. pradžios iš bendros pirmatako valdžios atsipalaidavusias
     ir savaranniškomis tapusias smulkias Lietuvos, ypač Aukštaitijos,
     kunigaikštijas jis apjungė vienoje valdžioje.
-  citata_rodoma: "Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių. Nuo\nXIII amž. pradžios iš bendros pirmatako valdžios atsipalaidavusias\nir savaranniškomis tapusias smulkias Lietuvos, ypač Aukštaitijos,\nkunigaikštijas jis apjungė vienoje valdžioje."
+  citata_rodoma: |
+    Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių. Nuo
+    XIII amž. pradžios iš bendros pirmatako valdžios atsipalaidavusias
+    ir savaranniškomis tapusias smulkias Lietuvos, ypač Aukštaitijos,
+    kunigaikštijas jis apjungė vienoje valdžioje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10582,7 +10756,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
     bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
     sios tvarkos.
-  citata_rodoma: "Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-\nbę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-\nsios tvarkos."
+  citata_rodoma: |
+    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
+    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
+    sios tvarkos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10607,7 +10784,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Didžiai prakilniam tėvui viešpačiui Jonui, Romos sosto
     aukščiausiajam kunigui, Gediminas, lietuvių ir daugelio rusų
     ir 1.1, karalius.
-  citata_rodoma: "Sed \ndicunt, quod faciunt propterea ut ohristianos defendant. Pater\n84\n\n## Puslapis 101\n\nI  KNYGA\nDidžiai prakilniam tėvui viešpačiui Jonui, Romos sosto \naukščiausiajam kunigui, Gediminas, lietuvių ir daugelio rusų \nir 1.1, karalius."
+  citata_rodoma: |
+    Sed
+    dicunt, quod faciunt propterea ut ohristianos defendant. Pater
+    84
+
+    ## Puslapis 101
+
+    I  KNYGA
+    Didžiai prakilniam tėvui viešpačiui Jonui, Romos sosto
+    aukščiausiajam kunigui, Gediminas, lietuvių ir daugelio rusų
+    ir 1.1, karalius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10671,7 +10858,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kusi vieton ir ruošėsi keltis per Vislą. Lietuvos kariuomenė
     pradėjo rinktis gegužės mėn. pabaigoj ar birželio mėn.
     pradžioj; rinkosi, tur būt, Trakuose ar Gardine.
-  citata_rodoma: "Lietuvos kariuomenė\npradėjo rinktis gegužės mėn. pabaigoj ar birželio mėn.\npradžioj; rinkosi, tur būt, Trakuose ar Gardine."
+  citata_rodoma: |
+    Lietuvos kariuomenė
+    pradėjo rinktis gegužės mėn. pabaigoj ar birželio mėn.
+    pradžioj; rinkosi, tur būt, Trakuose ar Gardine.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10691,7 +10881,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     labiau nukreipti nuo savęs dėmesį, įsakė savo kariuomenių bū­
     riams daryti puolimus. Tuo metu ir įvyko lietuvių puolimas iš
     Žemaičių, o lenkų — netoli Sviečės.
-  citata_rodoma: "Tuo metu ir įvyko lietuvių puolimas iš\nŽemaičių, o lenkų — netoli Sviečės."
+  citata_rodoma: |
+    Tuo metu ir įvyko lietuvių puolimas iš
+    Žemaičių, o lenkų — netoli Sviečės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10749,7 +10941,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     mą ir apie tai, kaip buvo apleista ši žemė
     Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,
     nerašysime apie tuos karus.
-  citata_rodoma: "216 (211). Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,\n                                   Kuršių nerijoje\n\n   Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,\nbraudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos\nbroliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,\nkuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.\n\n\n\n\n217 (212)."
+  citata_rodoma: |
+    216 (211). Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
+                                       Kuršių nerijoje
+
+       Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,
+    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
+    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
+    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
+
+
+
+
+    217 (212).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -10777,7 +10981,16 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
     ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
     čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus.
-  citata_rodoma: "Apie Ragainės pilies užpuolimą\n\n  1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir\nnetikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai\njiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė\natsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį\nJoną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,\npasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus\npasėlius."
+  citata_rodoma: |
+    Apie Ragainės pilies užpuolimą
+
+      1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
+    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai
+    jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
+    atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį
+    Joną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,
+    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
+    pasėlius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -10850,7 +11063,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kai Europa jau buvo pergyvenusi kryžiaus karų epochą (septintasis kry-
     žiaus žygis vyko valdant Mindaugui, o paskutinis – aštuntasis neilgai
     trukus po jo mirties).
-  citata_rodoma: "Mindaugas sukūrė didžiausią ankstyvo-\nsios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių \ntautai ir vėliau perimti Vakarų civilizaciją. Lietuva įžengė į istorijos areną, \nkai Europa jau buvo pergyvenusi kryžiaus karų epochą (septintasis kry-\nžiaus žygis vyko valdant Mindaugui, o paskutinis – aštuntasis neilgai \ntrukus po jo mirties)."
+  citata_rodoma: |
+    Mindaugas sukūrė didžiausią ankstyvo-
+    sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
+    tautai ir vėliau perimti Vakarų civilizaciją. Lietuva įžengė į istorijos areną,
+    kai Europa jau buvo pergyvenusi kryžiaus karų epochą (septintasis kry-
+    žiaus žygis vyko valdant Mindaugui, o paskutinis – aštuntasis neilgai
+    trukus po jo mirties).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10869,7 +11088,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     jorų šaunumu. Per puotą įvyko įsidėmėtinas dalykas. Lietu­
     vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­
     liumi.
-  citata_rodoma: "Lietu­\nvių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­\nliumi."
+  citata_rodoma: |
+    Lietu­
+    vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­
+    liumi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -10911,7 +11133,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     pirmajame susirėmime vienas lietuvis ietimi jį taip sužeidė, kad išleido jam vidurius,
     tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
     pasimirė.
-  citata_rodoma: "281 (274). Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais\nTais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, \npersekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo \npilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė, \npirmajame susirėmime vienas lietuvis ietimi jį taip sužeidė, kad išleido jam vidurius, \ntačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir \npasimirė. Kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo \nišvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore \nvirš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip \nskridę."
+  citata_rodoma: |
+    281 (274). Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
+    Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
+    persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo
+    pilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,
+    pirmajame susirėmime vienas lietuvis ietimi jį taip sužeidė, kad išleido jam vidurius,
+    tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
+    pasimirė. Kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo
+    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
+    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
+    skridę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -10935,7 +11167,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: "Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus\ntada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir\nsutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui\n(1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28."
+  citata_rodoma: |
+    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
+    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
+    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -10961,7 +11199,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
     dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
     plėšikiškais išpuoliais Ragainės broliams ramybę.
-  citata_rodoma: "Neilgai trukus, kai komtūras, \nsutvarkęs visus savo reikalus, plaukė pro šalį, šis niekingas išdavikas graudžiu balsu \npradėjo šaukti ir prašyti, kad jį priimtų į laivą, kad jo sielą, Kristaus krauju atpirktą, \nišvaduotų iš velnio vergovės. Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė \nprie kranto, šis staiga nutvėrė laivą, stipriai į jį įsikibo ir, susišaukęs savo bendrus, \nužpuolė plaukusius laivu ir visus išžudė.\n240 (233). Apie tai, kaip Ragainės broliai nukovė 25 lietuvius\nPo šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo \ndieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti \nplėšikiškais išpuoliais Ragainės broliams ramybę."
+  citata_rodoma: |
+    Neilgai trukus, kai komtūras,
+    sutvarkęs visus savo reikalus, plaukė pro šalį, šis niekingas išdavikas graudžiu balsu
+    pradėjo šaukti ir prašyti, kad jį priimtų į laivą, kad jo sielą, Kristaus krauju atpirktą,
+    išvaduotų iš velnio vergovės. Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė
+    prie kranto, šis staiga nutvėrė laivą, stipriai į jį įsikibo ir, susišaukęs savo bendrus,
+    užpuolė plaukusius laivu ir visus išžudė.
+    240 (233). Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
+    Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
+    plėšikiškais išpuoliais Ragainės broliams ramybę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -10985,7 +11233,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     mūšiai, kuriuose lietuviai talkino kitoms šalims sąjungininkėms kampu ir paskatins papildyti Lietuvos karybos istorijos tyrinėtojų
     ir jungtinėse kariuomenėse nesudarė ženklios dalies ar neatliko gretas naujais jaunais istorikais.
     ryškesnio vaidmens.
-  citata_rodoma: "Stengtasi pateikti\nLietuvos istoriją yra tekę dalyvauti daugelyje mūšių, kurie nepa- daug kontekstinės informacijos, nupasakojančios kiekvieno lai-\nteko į šią knygą. Į šį leidinį stengtasi atrinkti svarbesnius, įdo- kotarpio karybos, ginkluotės raidos tendencijas bei regiono\nmesnius, o svarbiausia tuos mūšius, kuriuose lietuviai kovojo geopolitinį kontekstą.\ndėl Lietuvos valstybės interesų, todėl į knygą nepateko karinės Knygos rengėjai tikisi, kad ši knyga suteiks galimybę skaityto-\noperacijos, kuriose lietuviai dalyvavo kitų šalių kariuomenėse, ar jams pamatyti Lietuvos istoriją ir Lietuvos karybos raidą nauju\nmūšiai, kuriuose lietuviai talkino kitoms šalims sąjungininkėms kampu ir paskatins papildyti Lietuvos karybos istorijos tyrinėtojų\nir jungtinėse kariuomenėse nesudarė ženklios dalies ar neatliko gretas naujais jaunais istorikais."
+  citata_rodoma: |
+    Stengtasi pateikti
+    Lietuvos istoriją yra tekę dalyvauti daugelyje mūšių, kurie nepa- daug kontekstinės informacijos, nupasakojančios kiekvieno lai-
+    teko į šią knygą. Į šį leidinį stengtasi atrinkti svarbesnius, įdo- kotarpio karybos, ginkluotės raidos tendencijas bei regiono
+    mesnius, o svarbiausia tuos mūšius, kuriuose lietuviai kovojo geopolitinį kontekstą.
+    dėl Lietuvos valstybės interesų, todėl į knygą nepateko karinės Knygos rengėjai tikisi, kad ši knyga suteiks galimybę skaityto-
+    operacijos, kuriose lietuviai dalyvavo kitų šalių kariuomenėse, ar jams pamatyti Lietuvos istoriją ir Lietuvos karybos raidą nauju
+    mūšiai, kuriuose lietuviai talkino kitoms šalims sąjungininkėms kampu ir paskatins papildyti Lietuvos karybos istorijos tyrinėtojų
+    ir jungtinėse kariuomenėse nesudarė ženklios dalies ar neatliko gretas naujais jaunais istorikais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11014,7 +11270,22 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     VILNIAUS MIESTO ISTORIJA / TOMAS
     vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
     paimtos Prūsijoje.
-  citata_rodoma: "Anglų riteriai, ne kartą draugėj su\nkryžiuočiais ėję į kryžiaus žygius\nkautis su pagonimis lietuviais, ga­\nlėjo kryžiuočius prieš kelerius me­\ntus su tuo bombardų išradimu su­\npažindinti, galėjo ir Gediminas nuo\njų žūti.\n- • —\n103\n\n## Puslapis 120\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių\npaimtos Prūsijoje."
+  citata_rodoma: |
+    Anglų riteriai, ne kartą draugėj su
+    kryžiuočiais ėję į kryžiaus žygius
+    kautis su pagonimis lietuviais, ga­
+    lėjo kryžiuočius prieš kelerius me­
+    tus su tuo bombardų išradimu su­
+    pažindinti, galėjo ir Gediminas nuo
+    jų žūti.
+    - • —
+    103
+
+    ## Puslapis 120
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
+    paimtos Prūsijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11062,7 +11333,20 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     mokėsi gimtąja kalba. Beje, ekspertus apstulbino tai, kad Kauno guber-
     nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
     nei vyrų: atitinkamai 55 proc. ir 52 proc.
-  citata_rodoma: "Ta-\nčiau pirmasis visuotinis Rusijos \nimperijos gyventojų surašymas \n1897 m. parodė, kad tarp etninių \nlietuvių mokančių skaityti yra be-\nmaž pusė – 48 proc., o rusiškai iš \njų tepaskaitė tik kas penktas. Pa-\ngal raštingumą etniniai lietuviai \nbemaž du kartus lenkė Rusijos \nvidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai \nmokėsi gimtąja kalba. Beje, ekspertus apstulbino tai, kad Kauno guber-\nnijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis \nnei vyrų: atitinkamai 55 proc."
+  citata_rodoma: |
+    Ta-
+    čiau pirmasis visuotinis Rusijos
+    imperijos gyventojų surašymas
+    1897 m. parodė, kad tarp etninių
+    lietuvių mokančių skaityti yra be-
+    maž pusė – 48 proc., o rusiškai iš
+    jų tepaskaitė tik kas penktas. Pa-
+    gal raštingumą etniniai lietuviai
+    bemaž du kartus lenkė Rusijos
+    vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai
+    mokėsi gimtąja kalba. Beje, ekspertus apstulbino tai, kad Kauno guber-
+    nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
+    nei vyrų: atitinkamai 55 proc.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11181,7 +11465,20 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     palikę arklius, pėsčiomis po brolių vėliava per ėjo mišką, vardu Vintas578; apyaušryje,
     kai ryžosi slaptai priartėti prie Junigedos pilies ir ją paimti, įspėti pilėnai užkūrė ugnį ir
     dūmais pranešė kaimyniniams stabmeldžiams, kad čia pat brolių kariuomenė.
-  citata_rodoma: "Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais\n\n  Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su\naštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje\nvietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o\nmoteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami\n200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie\npasileido bėgti ir šitaip išsigelbėjo.\n\n\n\n\n 331 (324)."
+  citata_rodoma: |
+    Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
+
+      Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
+    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
+    vietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
+    moteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
+    200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
+    pasileido bėgti ir šitaip išsigelbėjo.
+
+
+
+
+     331 (324).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -11245,7 +11542,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     rado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš kelioli-
     ka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
     apie VII a.
-  citata_rodoma: "Lietuvos vardo kilmė ir \nsampratos likimas\nLietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsi-\nrado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš kelioli-\nka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių \napie VII a."
+  citata_rodoma: |
+    Lietuvos vardo kilmė ir
+    sampratos likimas
+    Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsi-
+    rado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš kelioli-
+    ka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
+    apie VII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11290,7 +11593,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     grūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą
     kartą sudegino tą papilį, paimdamas į nelaisvę ar nukaudamas visus žmones, kuriuos
     ten užtiko.
-  citata_rodoma: "Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai\nšūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad\nkaralius bei visi jo žmonės, juos išvydę, bematant išmėtė ginklus ir pasileido bėgti. Tada\nįniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei\ndaugybę paprastų žmonių.\n\n\n\n\n                 292 (285)."
+  citata_rodoma: |
+    Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai
+    šūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad
+    karalius bei visi jo žmonės, juos išvydę, bematant išmėtė ginklus ir pasileido bėgti. Tada
+    įniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei
+    daugybę paprastų žmonių.
+
+
+
+
+                     292 (285).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -11331,7 +11644,32 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
     rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
     ve, ir tik iš jo su tais laiškais galima susipažinti.
-  citata_rodoma: "Tačiau ka­\ndangi daugelis pavienių lietuvių iš diduomenės ir paprastų\nžmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis\nsu tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­\ntuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­\nspenso antequam fidem christi suscipiant et baptismum, quemad­\nmodum in litteris pollicentur prelibatis, in Christianos quod absit,\naut in res, terras seu personas eorundem manus mitterent virulen­\ntas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­\ndem non servanti minime debeat observari, in ipsos cogentur fidei\ncontumeliam vindicare, atque hoc facientes promissi sui inveniri\nnolunt circa premissa transgressores [Jei minėtas reikalas atsi­\ndurs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­\njimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,\nį krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių\nasmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,\nbaimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­\njančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­\nkėjimo niekinimą įveikti ir šitai darydami dėl savo pažado\nnenori pažeidėjų atskleisti].\nVisą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­\nbiniame pranešime (Notariats instrument), į kurį taip pat buvo\nįrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­\nrio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­\nve, ir tik iš jo su tais laiškais galima susipažinti."
+  citata_rodoma: |
+    Tačiau ka­
+    dangi daugelis pavienių lietuvių iš diduomenės ir paprastų
+    žmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis
+    su tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­
+    tuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­
+    spenso antequam fidem christi suscipiant et baptismum, quemad­
+    modum in litteris pollicentur prelibatis, in Christianos quod absit,
+    aut in res, terras seu personas eorundem manus mitterent virulen­
+    tas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­
+    dem non servanti minime debeat observari, in ipsos cogentur fidei
+    contumeliam vindicare, atque hoc facientes promissi sui inveniri
+    nolunt circa premissa transgressores [Jei minėtas reikalas atsi­
+    durs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­
+    jimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,
+    į krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių
+    asmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,
+    baimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­
+    jančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­
+    kėjimo niekinimą įveikti ir šitai darydami dėl savo pažado
+    nenori pažeidėjų atskleisti].
+    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
+    biniame pranešime (Notariats instrument), į kurį taip pat buvo
+    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
+    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
+    ve, ir tik iš jo su tais laiškais galima susipažinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11417,7 +11755,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     šone, pareiškė: „Štai šitokią karalystę tau duosiu, jei man tarnausi, kur kas geresnę nei
     ta, kurią tau žada šis netikras karalius“. Kai jis antrą kartą apie tai papasakojo žmonai,
     ši, po senovei spyriodamasi, jam nedavė laisvės stoti į vienuolyną.
-  citata_rodoma: "282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais\n\n  Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten\nnužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui\nir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius."
+  citata_rodoma: |
+    282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+
+      Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
+    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -11509,7 +11852,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­
     pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­
     bę drebėjo visos aplinkinės tautos, viso to buvo perdaug!
-  citata_rodoma: "Lietuviams, lais­\nviems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­\npažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­\nbę drebėjo visos aplinkinės tautos, viso to buvo perdaug!"
+  citata_rodoma: |
+    Lietuviams, lais­
+    viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­
+    pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­
+    bę drebėjo visos aplinkinės tautos, viso to buvo perdaug!
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11612,7 +11959,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
     mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
     jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
-  citata_rodoma: "Ir kaip tik\n70\n\n## Puslapis 87\n\nI  KNYGA\nKai plėšikaujančių lietuvių gaujos, dažniausiai valdovo\nnumylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip\nniokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­\nralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­\nmas apie savo norą priimti krikštą ir prisijungti prie tikinčių­\njų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta."
+  citata_rodoma: |
+    Ir kaip tik
+    70
+
+    ## Puslapis 87
+
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -11655,7 +12014,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
     savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
     puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
-  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino\nbrolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami\nkaršto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi\nmūsų dievo Jėzaus Kristaus garbei."
+  citata_rodoma: |
+    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
+    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
+    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
+    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
+    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
+    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
+    mūsų dievo Jėzaus Kristaus garbei.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -11768,7 +12134,25 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     sų kilę didikai skelbėsi valstybės labui neremsią nė
     vienos pusės: jie būsią paklusnūs tam valdovui, kurį
     sutardamos abi tautos išrinksią.
-  citata_rodoma: "Vie­\nnui vienas tebuvo kelias išbristi iš netikėtų bėdų ir\n113\n\n## Puslapis 112\n\npasiekti santarvę bei visuo-\nP a sk e lb ia m i n a u jo\ntinę gerovę: reikėjo kuo sku-\nv a ld o v o  rinkimjni\nbiausiai\nužgniaužti\nįvairių\nasmenų savimeilius siekimus,\npaskelbiant valdovu tą, kurį paskirs bendru balsavi­\nmu taryba. Kernavėje buvo sukviestas susirinkimas,\nten susirinko galybė diduomenės. Visi lietuviai rėmė\nVaišvilką."
+  citata_rodoma: |
+    Vie­
+    nui vienas tebuvo kelias išbristi iš netikėtų bėdų ir
+    113
+
+    ## Puslapis 112
+
+    pasiekti santarvę bei visuo-
+    P a sk e lb ia m i n a u jo
+    tinę gerovę: reikėjo kuo sku-
+    v a ld o v o  rinkimjni
+    biausiai
+    užgniaužti
+    įvairių
+    asmenų savimeilius siekimus,
+    paskelbiant valdovu tą, kurį paskirs bendru balsavi­
+    mu taryba. Kernavėje buvo sukviestas susirinkimas,
+    ten susirinko galybė diduomenės. Visi lietuviai rėmė
+    Vaišvilką.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -11795,7 +12179,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     karo, ir taikos metu tokios pat santarvės bei šlovės,
     kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
     bei lazdą.
-  citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
+  citata_rodoma: |
+    Vis dėl­
+    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
+    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
+    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
+    sako Livonijos metraštis, žemaičiai ir lietuviai prie
+    Eželio ant ledo kovojo su Livonijos magistru Otonu,
+    magistras žuvo su penkiasdešimčia šio ordino brolių.
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -11943,7 +12337,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     krikščionybę pagal rusų ap-
     v ie tin in k a s K i j e v e
     eigas.
-  citata_rodoma: "Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių\nkivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi\nsenomis Boleslovo Narsiojo pergalėmis ir naujais gi­\nminystės ryšiais. Nors kitados Boleslovas, nugalėjęs\nrusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius\nduoklę duoti, tačiau nė vienam lenkų karaliui dar ne­\nbuvo pavykę nei gauti Kijevo kunigaikščio vardo, nei\nišvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų\npaversti savo -valdiniais; mat rusai vėliau kovose įro­\ndė, jog atsisakė paklusti lenkams."
+  citata_rodoma: |
+    Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais. Nors kitados Boleslovas, nugalėjęs
+    rusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius
+    duoklę duoti, tačiau nė vienam lenkų karaliui dar ne­
+    buvo pavykę nei gauti Kijevo kunigaikščio vardo, nei
+    išvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų
+    paversti savo -valdiniais; mat rusai vėliau kovose įro­
+    dė, jog atsisakė paklusti lenkams.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -12005,7 +12413,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kitas pilis
     ir jas sutvirtinę, nesigailėdami didelių iš­
     laidų.
-  citata_rodoma: "Vėliau, susi­\nkivirčiję su lenkais dėl Rusios, lietuviai visada ginklu\ngynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­\nraliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta\nnuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­\ndaręs klaidą, kai, siekdamas sosto, davęs neapgalvotų\npažadų, antra vertus, jų reikalas neleisti, kad valstybė\ndėl anų susitarimų patirtų kokių nuostolių."
+  citata_rodoma: |
+    Vėliau, susi­
+    kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
+    gynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­
+    raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta
+    nuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­
+    daręs klaidą, kai, siekdamas sosto, davęs neapgalvotų
+    pažadų, antra vertus, jų reikalas neleisti, kad valstybė
+    dėl anų susitarimų patirtų kokių nuostolių.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -12042,7 +12458,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     p a tra u k d a ­
     m as su k ariu o m en e p rie Torunės ir įsikurdamas čia sto ­
     vyklą.
-  citata_rodoma: "Gavo jie tik tokį atsakymą, kad\nlenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­\nmams. Kai Vilniuje susirinko lietuvių seimas, atvyko\nčia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kali-\nšo vaivada, ir Jonas Ritvianskis, karalystės maršalas.\nAnksčiau nei jie atkeliavo pats karalius, norėdamas\nasmeniškai aptramdyti priešingų grupuočių įniršį, ne­\npaisant to, seimo posėdžiuose užvirė atkakli kova."
+  citata_rodoma: |
+    Gavo jie tik tokį atsakymą, kad
+    lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­
+    mams. Kai Vilniuje susirinko lietuvių seimas, atvyko
+    čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kali-
+    šo vaivada, ir Jonas Ritvianskis, karalystės maršalas.
+    Anksčiau nei jie atkeliavo pats karalius, norėdamas
+    asmeniškai aptramdyti priešingų grupuočių įniršį, ne­
+    paisant to, seimo posėdžiuose užvirė atkakli kova.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -12069,7 +12493,18 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Vytautą savo pasiuntinius, primindami jam, kad jis tu­
     rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo
     užstatyta Žemaitija7.
-  citata_rodoma: "Matydami, kad jų didžiuosius etmonus ištiko nelai­\nmė, karalius Jogaila ir didysis kunigaikštis Vytautas \npaskyrė jų vieton du etmonus: vieton Sokolo paskyrė \nponą Spytką, o Vytautas — poną Joną Goštautą, ir įsa­\nkė rikiuoti kariuomenes ir ruošti vėliavas mūšiui, o tų \nklastingų duobių saugotis.\nTada tie etmonai, išrikiavę karius, žengė į mūšį, \no vokiečiai, šitai matydami, susikovė su jais. Ir prasi­\ndėjo mūšis, pirmiausia tarp vokiečių ir lietuvių kariuo­\nmenių, ir didžiulė daugybė krito karių iš abiejų pu­\nsių — lietuvių bei vokiečių kariuomenių."
+  citata_rodoma: |
+    Matydami, kad jų didžiuosius etmonus ištiko nelai­
+    mė, karalius Jogaila ir didysis kunigaikštis Vytautas
+    paskyrė jų vieton du etmonus: vieton Sokolo paskyrė
+    poną Spytką, o Vytautas — poną Joną Goštautą, ir įsa­
+    kė rikiuoti kariuomenes ir ruošti vėliavas mūšiui, o tų
+    klastingų duobių saugotis.
+    Tada tie etmonai, išrikiavę karius, žengė į mūšį,
+    o vokiečiai, šitai matydami, susikovė su jais. Ir prasi­
+    dėjo mūšis, pirmiausia tarp vokiečių ir lietuvių kariuo­
+    menių, ir didžiulė daugybė krito karių iš abiejų pu­
+    sių — lietuvių bei vokiečių kariuomenių.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -12093,7 +12528,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Mykolui; jie sumušė kunigaikštį Švitrigailą bei visas
     jo pajėgas ir paėmė nelaisvėn arba nukovė daugelį ku­
     nigaikščių.
-  citata_rodoma: "Ir nebenu­\nėję likusių lig Vilniaus septynių mylių7 , apsistojo Aš­\nmenoje ir savaitę ten prastovėjo*.\nIr didysis kunigaikštis Žygimantas atžygiavo iš Vil­\nniaus3  su lietuvių pajėgomis- - septyniais tūkstan­\nčiais l0 . Ir prasidėjo mūšis pirmadienį, gruodžio mėne­\nsio 8 dieną."
+  citata_rodoma: |
+    Ir nebenu­
+    ėję likusių lig Vilniaus septynių mylių7 , apsistojo Aš­
+    menoje ir savaitę ten prastovėjo*.
+    Ir didysis kunigaikštis Žygimantas atžygiavo iš Vil­
+    niaus3  su lietuvių pajėgomis- - septyniais tūkstan­
+    čiais l0 . Ir prasidėjo mūšis pirmadienį, gruodžio mėne­
+    sio 8 dieną.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -12159,7 +12601,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     mis ir žiūrintį, ką žmonės beveikiu: dar dabar sako, kai griau­
     džia griaustinis: wezzajs barrahs, senis barasi arba wezzajs kah-
     jas, senis apreiškia ten savo buvimą4.
-  citata_rodoma: "Šitą dievą žmogus pripažino\naukščiausiu visos gamtos viešpačiu ir davė jam Perkūno var­\ndą.\nLietuvių genties tautos Perkūną garbino ko iškilmingiau­\nsiai, su reguliariomis apeigomis, jam buvo skirti miškeliai, su\ntam tikru puošnumu įrengtos Šventyklos. Žyniai kasdien au­\nkodavo jam aukas didelėse šventyklose, jo ženklu buvo pažy­\nmėti vyriausiojo žynio Krivių Krivaičio nešiojami drabužiai."
+  citata_rodoma: |
+    Šitą dievą žmogus pripažino
+    aukščiausiu visos gamtos viešpačiu ir davė jam Perkūno var­
+    dą.
+    Lietuvių genties tautos Perkūną garbino ko iškilmingiau­
+    siai, su reguliariomis apeigomis, jam buvo skirti miškeliai, su
+    tam tikru puošnumu įrengtos Šventyklos. Žyniai kasdien au­
+    kodavo jam aukas didelėse šventyklose, jo ženklu buvo pažy­
+    mėti vyriausiojo žynio Krivių Krivaičio nešiojami drabužiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12268,7 +12718,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Taip pat kronikos liudija, jog šio dievo stabas, spirale susi­
     raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū­
     no; varinis dievas buvęs su vidutinio amžiaus žmogaus galva.
-  citata_rodoma: "Že­\nmaitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,\nvardu „ Dzivsvits “:r\\\nTai bus bendras jūrų ir kitų vandenų, kuriais plaukiota,\ndievas ir laivininkų globėjas. Lietuviai gyveno susisiekiančia­\nme su jūra krašte, kuriame daug visokių didelių vandenų, to­\ndėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi\njie negalėjo apsieiti be savo Neptūno. Gyvenantys prie ežerų\nlietuviai šaukdavosi to paties dievo, vadindami jį Ežeriniu (Eže­\nrinis). Vienintelis Lasickis išsaugojo mums šį faktą."
+  citata_rodoma: |
+    Že­
+    maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,
+    vardu „ Dzivsvits “:r\
+    Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota,
+    dievas ir laivininkų globėjas. Lietuviai gyveno susisiekiančia­
+    me su jūra krašte, kuriame daug visokių didelių vandenų, to­
+    dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
+    jie negalėjo apsieiti be savo Neptūno. Gyvenantys prie ežerų
+    lietuviai šaukdavosi to paties dievo, vadindami jį Ežeriniu (Eže­
+    rinis). Vienintelis Lasickis išsaugojo mums šį faktą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12289,7 +12749,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     dievo. O pagal antikinę filosofiją žmonės įsivaizduodavo tam
     i ikrą dievą, kurio buvo šaukiamasi, kai baimė suspausdavo šir-
     d j.
-  citata_rodoma: "Kuni­\ngo Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,\nprie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­\n23 Ks. Ludwik Adam Jucevvicz. Przyslovvia ludu Litevvskiego. -\nS. 65*."
+  citata_rodoma: |
+    Kuni­
+    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
+    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
+    23 Ks. Ludwik Adam Jucevvicz. Przyslovvia ludu Litevvskiego. -
+    S. 65*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12327,7 +12792,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
     radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
     šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-  citata_rodoma: "127\n\n## Puslapis 127\n\nLietuva į.Liethua)\nLaisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­\nviai, ypač senojoje Trakų vaivadijoje, latviai ir estai."
+  citata_rodoma: |
+    127
+
+    ## Puslapis 127
+
+    Lietuva į.Liethua)
+    Laisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­
+    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12372,7 +12844,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     skirti Nijolei. Žemiau straipsnyje apie aukas pamatysime, kad
     atnašautos mėsos kaulai būdavo užkasami į žemę kaip auka
     požemio dievams.
-  citata_rodoma: "Strijkovskis, kuris visus dievus vaišina gaidiena, sako, kad\nKrūminei aukodavo kapotą gaidieną, norėdami išjos išprašyti\ntankių ir varpotų, o ne retų javų.\nŠita žemdirbių deivė turėjo būti visuotinai garbinama visų\nlietuvių genčių, kaip žemdirbių tautos nuo pačios savo pra­\ndžios. Visiems javams ir žemės ūkio padargams įvardyti yra\nsavi lietuviški žodžiai15."
+  citata_rodoma: |
+    Strijkovskis, kuris visus dievus vaišina gaidiena, sako, kad
+    Krūminei aukodavo kapotą gaidieną, norėdami išjos išprašyti
+    tankių ir varpotų, o ne retų javų.
+    Šita žemdirbių deivė turėjo būti visuotinai garbinama visų
+    lietuvių genčių, kaip žemdirbių tautos nuo pačios savo pra­
+    džios. Visiems javams ir žemės ūkio padargams įvardyti yra
+    savi lietuviški žodžiai15.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12394,7 +12873,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Saulė aptemdavo. Latviai šį nutikimą vadina Majtaszana arba
     Saules majtaszana, Saulės gadinimu. Tuomet kiekvieną būty­
     bę apimdavo baimė, kad mieloji Saulė nebūtų sunaikinta.
-  citata_rodoma: "Tegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du\nsvarbiausieji dangaus kūnai, į savo giminę įtraukia visus kitus,\nkurie yra jų vaikai."
+  citata_rodoma: |
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du
+    svarbiausieji dangaus kūnai, į savo giminę įtraukia visus kitus,
+    kurie yra jų vaikai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12415,7 +12902,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Aušra (Aussra)
     Tekančios saulės tarnaitė, kaip jau pabrėžėme aukščiau ati­
     tinkamame straipsnyje.
-  citata_rodoma: "Tuomet kiekvieną būty­\nbę apimdavo baimė, kad mieloji Saulė nebūtų sunaikinta. Iki\nšiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta\ndiena, ir pasaulis nugrims tamsoje.\nVėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino\nSvaistiką, arba Santvarą, kaip graikai -  Apoloną."
+  citata_rodoma: |
+    Tuomet kiekvieną būty­
+    bę apimdavo baimė, kad mieloji Saulė nebūtų sunaikinta. Iki
+    šiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta
+    diena, ir pasaulis nugrims tamsoje.
+    Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
+    Svaistiką, arba Santvarą, kaip graikai -  Apoloną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12466,7 +12959,16 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     tai su ugnimi susijęs reiškinys, staiga išsiveržusios ugnies švie­
     sa. Todėl tai galėtų būti kažkaip susiję su ugnies garbinimo
     apeigomis.
-  citata_rodoma: "Šiuo aspektu žvelgdami į lietuvių religiją, į gana aukštą\ntautos senovinės civilizacijos laipsnį, tobulą mitologiją, kalbą,\nteisę ir kitą viešąją tvarką, iš tikrųjų turime pritarti nuomonei,\n1 Essais sur l’esprit et les moeurs de nations. -  T. I. - P. 20.\nJ98\n\n## Puslapis 198\n\nkad paslaptys nebuvo svetimos mūsų protėviams."
+  citata_rodoma: |
+    Šiuo aspektu žvelgdami į lietuvių religiją, į gana aukštą
+    tautos senovinės civilizacijos laipsnį, tobulą mitologiją, kalbą,
+    teisę ir kitą viešąją tvarką, iš tikrųjų turime pritarti nuomonei,
+    1 Essais sur l’esprit et les moeurs de nations. -  T. I. - P. 20.
+    J98
+
+    ## Puslapis 198
+
+    kad paslaptys nebuvo svetimos mūsų protėviams.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12499,7 +13001,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     mingas atsitikimas, nes jų dievukas ant jų pykstąs; jeigu nutin­
     ka kokia nors nelaimė dėl kokio nors atsitiktinumo arba dėl 12
     12 Lib.
-  citata_rodoma: "Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,\nkuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų\nnegalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­\nčius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­\nmintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­\nčių karalius su visa didžiule roplių svita."
+  citata_rodoma: |
+    Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,
+    kuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų
+    negalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­
+    čius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­
+    mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­
+    čių karalius su visa didžiule roplių svita.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12518,7 +13026,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     jie išėjo į karą ir visi trys žuvo; pavasarį į namus sugrįžo tik jų
     žirgai. Sesuo, gailesčio pagauta, metė tėvų namus ir, netekusi pro­
     to, graudžiai vaitojo klajodama po įvairias vietas.
-  citata_rodoma: "Paimtą iš Erazmo Stelos faktą\nHartknochas pagrindžia savo pastebėjimais15.\nLietuvių genties tautų mitologinėse dainose ir stebuklinė­\nse pasakose žvėrys ir paukščiai gyvena savitą gyvenimą. Čia\npateiksime ištrauką iš vienos dainos16:\nHolą wy, mate ptaszęta, ja chce pojąč žonę."
+  citata_rodoma: |
+    Paimtą iš Erazmo Stelos faktą
+    Hartknochas pagrindžia savo pastebėjimais15.
+    Lietuvių genties tautų mitologinėse dainose ir stebuklinė­
+    se pasakose žvėrys ir paukščiai gyvena savitą gyvenimą. Čia
+    pateiksime ištrauką iš vienos dainos16:
+    Holą wy, mate ptaszęta, ja chce pojąč žonę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12541,7 +13055,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Žmogaus prigimčiai būdinga iškraipyti; stabmeldžiai ir šiuo
     požiūriu toli nužengė: mat ugnį jie garbino kaip dievybę, kaip
     sielą, įkvepiančią gyvybę gamtai.
-  citata_rodoma: "Lietuviai žuvusius tėvynės gynėjus didvyrius vadindavo\nRunketojas (kentėtojais? -  R.J.). Yra vietovių, šventų dėl jų\nkapų. Buvo manoma, kad nederlius ir badas paprastai vargina\nkraštą, kai nustojama gerbti karžygius, žuvusius nuo priešo\nrankos. Pasakojimai dar skelbia, kad esama dangiško miško\narba sodo, kuriame gyvena visų tautų kariautojai, paaukoję\ngyvybę už teisų reikalą."
+  citata_rodoma: |
+    Lietuviai žuvusius tėvynės gynėjus didvyrius vadindavo
+    Runketojas (kentėtojais? -  R.J.). Yra vietovių, šventų dėl jų
+    kapų. Buvo manoma, kad nederlius ir badas paprastai vargina
+    kraštą, kai nustojama gerbti karžygius, žuvusius nuo priešo
+    rankos. Pasakojimai dar skelbia, kad esama dangiško miško
+    arba sodo, kuriame gyvena visų tautų kariautojai, paaukoję
+    gyvybę už teisų reikalą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12564,7 +13085,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
     užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
     užgesino .
-  citata_rodoma: "224\n\n## Puslapis 224\n\nLietuviai savo senojoje religijoje labai daug reikšmės sky­\nrė ugniai. Buvo nusilenkiama šventosioms ugnims, ypač toms,\nkurios be paliovos degė tam tikri} šventyklų aukuruose, kurias\nsaugojo žyniai ir vaidilutės, pasišventusios tarnauti vien šven­\ntajai ugniai. Ugnimi būdavo apvalomas blogis nuo žmonių,\ngyvulių bandų ir kai kurių daiktų; su ugnimi būdavo išaiškina­\nma tiesa užsispyrusių žmonių ginčuose; iš ugnies būdavo bu­\nriama."
+  citata_rodoma: |
+    224
+
+    ## Puslapis 224
+
+    Lietuviai savo senojoje religijoje labai daug reikšmės sky­
+    rė ugniai. Buvo nusilenkiama šventosioms ugnims, ypač toms,
+    kurios be paliovos degė tam tikri} šventyklų aukuruose, kurias
+    saugojo žyniai ir vaidilutės, pasišventusios tarnauti vien šven­
+    tajai ugniai. Ugnimi būdavo apvalomas blogis nuo žmonių,
+    gyvulių bandų ir kai kurių daiktų; su ugnimi būdavo išaiškina­
+    ma tiesa užsispyrusių žmonių ginčuose; iš ugnies būdavo bu­
+    riama.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12589,7 +13122,16 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
     kančios per jų svarbiausias sodybas, būdavo praminamos tuo
     pačiu šventu vardu Ross.
-  citata_rodoma: "Iš to, ką apie tą ugnį\ndar žinome iš istorikų, reikia pripažinti teisinga nuomonę, kad\njos žinyčios kultas buvo vienas iš seniausių, lietuvių tautos pro­\ntėvių atsineštas iš Rytų. Istoriniai padavimai skelbia, kad lie­\ntuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­\nprieinamuose miškuose, idant išsaugotų ugnį, nes manė, jog,\njai užgesus, tautai gresia pražūtis. Ji buvo garbinama su dide­\nlėmis pamaldomis, iš jos buvo imami nuodėguliai svarbiau­\nsioms aukoms deginti ir laidotuvių laužams."
+  citata_rodoma: |
+    Iš to, ką apie tą ugnį
+    dar žinome iš istorikų, reikia pripažinti teisinga nuomonę, kad
+    jos žinyčios kultas buvo vienas iš seniausių, lietuvių tautos pro­
+    tėvių atsineštas iš Rytų. Istoriniai padavimai skelbia, kad lie­
+    tuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­
+    prieinamuose miškuose, idant išsaugotų ugnį, nes manė, jog,
+    jai užgesus, tautai gresia pražūtis. Ji buvo garbinama su dide­
+    lėmis pamaldomis, iš jos buvo imami nuodėguliai svarbiau­
+    sioms aukoms deginti ir laidotuvių laužams.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12718,7 +13260,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
     galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
     kai.
-  citata_rodoma: "Senovės lietuvių kalba šis žodis reiškė \nsusilaikymo, pamaldumo, taikos vietą nuo Romume - Romu­\nmas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­\nbių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­\nleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­\ngalėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­\nkai."
+  citata_rodoma: |
+    Senovės lietuvių kalba šis žodis reiškė
+    susilaikymo, pamaldumo, taikos vietą nuo Romume - Romu­
+    mas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
+    bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
+    leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
+    galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin­
+    kai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12765,7 +13314,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
     atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
     mis augdami ant medžių, užauga sieto dydžio.
-  citata_rodoma: "235\n\n## Puslapis 235\n\nclžiu. Romovės šventyklos mitologinis pavadinimas siejamas\nsu ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė\nsusilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­\nmas ."
+  citata_rodoma: |
+    235
+
+    ## Puslapis 235
+
+    clžiu. Romovės šventyklos mitologinis pavadinimas siejamas
+    su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
+    susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
+    mas .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12807,7 +13364,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
     šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
     jokios statulos, net paties Heraklio.
-  citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
+  citata_rodoma: |
+    Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -12976,7 +13539,16 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     nigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo
     mokėti jam atlygį. Pas krašto valdovus siųsdavo pasiuntinius;
     šie visuomet būdavo taikos pasiuntiniai.
-  citata_rodoma: "Atlikdamas apei­\ngas, ant galvos užsidėdavo cukraus galvos pavidalo mitrą, iš­\npuoštą kaspinais, grandinėlėmis, karoliukais, brangakmeniais. \nPer dešinįjį petį persijuosdavo įuosta arba diržu, išrašytu mi­\ntologiniais žodžiais ir Perkūno ženklais. Vyriausiasis žynys bu­\nčiavo išlaikomas visuomenės lėšomis taip, kad jam atitekdavo \ntrečdalis grobio, atkovoto iš priešo. Jis taikindavo dalinius ku­\nnigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo \nmokėti jam atlygį."
+  citata_rodoma: |
+    Atlikdamas apei­
+    gas, ant galvos užsidėdavo cukraus galvos pavidalo mitrą, iš­
+    puoštą kaspinais, grandinėlėmis, karoliukais, brangakmeniais.
+    Per dešinįjį petį persijuosdavo įuosta arba diržu, išrašytu mi­
+    tologiniais žodžiais ir Perkūno ženklais. Vyriausiasis žynys bu­
+    čiavo išlaikomas visuomenės lėšomis taip, kad jam atitekdavo
+    trečdalis grobio, atkovoto iš priešo. Jis taikindavo dalinius ku­
+    nigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo
+    mokėti jam atlygį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13051,7 +13623,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
     baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
     būdavo toks pat baisus kaip ir anų.
-  citata_rodoma: "Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,\nkol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­\ndavo jį ant laužo.\nDievams taip pat būdavo aukojamas arklys tam tikro plau­\nko, su tam tikrais įgimtais ženklais. Prūsai teikdavo pirmeny­\nbę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio\nplauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­\nvo pasirinktą plauką ir su juo ypatingus ženklus."
+  citata_rodoma: |
+    Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
+    kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
+    davo jį ant laužo.
+    Dievams taip pat būdavo aukojamas arklys tam tikro plau­
+    ko, su tam tikrais įgimtais ženklais. Prūsai teikdavo pirmeny­
+    bę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio
+    plauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­
+    vo pasirinktą plauką ir su juo ypatingus ženklus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13204,7 +13784,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kimo, nežudydavo silpnų, nukaršusių senelių, vaikų, tarnų vien
     tam, kad jiems savavališkai sutrumpintų gyvenimą, svetimųjų
     nuomone, jiems nepakeliamą.
-  citata_rodoma: "Ypač slavai, mėgs­\ntantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­\npročiuose nuslysta į kraštutinumą; net pagyvenusios moterys\npirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­\nrungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­\ntuvių genties tautose šito negalima susekti -  nei jų kalboje,\nnei tautinėse dainose nėra nieko panašaus; joms net trūksta\ntokių žodžių. Kiek stengėmės aptikti tokių dalykų šių dienų\nlietuviuose, šitaip suslavėjusiuose, niekad ir niekur negalėjo­\nme to pastebėti."
+  citata_rodoma: |
+    Ypač slavai, mėgs­
+    tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­
+    pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys
+    pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­
+    rungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­
+    tuvių genties tautose šito negalima susekti -  nei jų kalboje,
+    nei tautinėse dainose nėra nieko panašaus; joms net trūksta
+    tokių žodžių. Kiek stengėmės aptikti tokių dalykų šių dienų
+    lietuviuose, šitaip suslavėjusiuose, niekad ir niekur negalėjo­
+    me to pastebėti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13225,7 +13815,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     akių; kiti lydi mirusįjį iki laidojimo vietos. Šios lenktynės yra
     dalis triznos papročio, žmonių pamėgdžiojamo ir mūsų istori­
     ko pastebėto.
-  citata_rodoma: "Išskaičiuoja visą velionio turtą, kiek­\nvieną kartą sušukdami: „Kodėl numirei?“ Laidotuvių giesmės,\niki šiol skambančios visose lietuvių genties tautose, vadinasi\nraudos (Rauda). Ponas Rėza kaip pavyzdį pateikia lietuviškas\neiles su gražia melodija, rastas pas Prūsijos lietuvius, pavadi­\nnęs „Motiną apraudančios našlaitės verksmu“:\nKtčž mi ogrzeje ręce i nogi?"
+  citata_rodoma: |
+    Išskaičiuoja visą velionio turtą, kiek­
+    vieną kartą sušukdami: „Kodėl numirei?“ Laidotuvių giesmės,
+    iki šiol skambančios visose lietuvių genties tautose, vadinasi
+    raudos (Rauda). Ponas Rėza kaip pavyzdį pateikia lietuviškas
+    eiles su gražia melodija, rastas pas Prūsijos lietuvius, pavadi­
+    nęs „Motiną apraudančios našlaitės verksmu“:
+    Ktčž mi ogrzeje ręce i nogi?
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13250,7 +13847,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     išmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }
     sieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­
     žiausios nuokirpos.
-  citata_rodoma: "Kai kada tarnai, arkliai, šunys, saka­\nlai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant\n364\n\n## Puslapis 364\n\nuždegto laužo, kadangi turtingųjų kūnai būdavo deginami.\nDeginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­\nmėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­\nprotys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­\ntas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik\nžymesniems žmonėms laidoti."
+  citata_rodoma: |
+    Kai kada tarnai, arkliai, šunys, saka­
+    lai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant
+    364
+
+    ## Puslapis 364
+
+    uždegto laužo, kadangi turtingųjų kūnai būdavo deginami.
+    Deginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­
+    mėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­
+    protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
+    tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
+    žymesniems žmonėms laidoti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13410,7 +14019,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     pusmėnuliai, žiūrintys vienas į kitą, ant šalmo - riterio kepurė, o abipus
     du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais.
-  citata_rodoma: "Užrašas virš akmenų galvų -  runomis'*.\nLietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra\nviduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­\nni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­\ntoj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­\n9\nNeseckis (Herbarz Polski."
+  citata_rodoma: |
+    Užrašas virš akmenų galvų -  runomis'*.
+    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
+    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
+    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
+    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
+    9
+    Neseckis (Herbarz Polski.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13456,7 +14072,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie
     vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų. Ar
     dėl tos klaidos krivis visiškai nustoja egzistuoti?
-  citata_rodoma: "3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai\nradę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­\nką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais\niš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,\nkurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių\ngenties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­\nmą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba\nsvetimoje žemėje."
+  citata_rodoma: |
+    3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
+    radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
+    ką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais
+    iš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,
+    kurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių
+    genties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­
+    mą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba
+    svetimoje žemėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13479,7 +14103,18 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     tyt, jau pažino. Mat jeigu biarmiečiai nebūtų turėję savo rai­
     dyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir
     slavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė.
-  citata_rodoma: "V priedas\nA pie Biarmijos raidyną\nRašydami šį veikalą, ne kartą kalbėjome apie Biarmijos\n(Permės) raidyną, kurio pėdsakų pasitaikė aptikti lietuvių že­\nmėje, ir iš tiesų tokių, kurie nepalieka abejonės, kad senovės\n18 Alt- und Neues Preussen. - S. 149.\n434\n\n## Puslapis 434\n\nlietuviai naudojosi tomis raidėmis."
+  citata_rodoma: |
+    V priedas
+    A pie Biarmijos raidyną
+    Rašydami šį veikalą, ne kartą kalbėjome apie Biarmijos
+    (Permės) raidyną, kurio pėdsakų pasitaikė aptikti lietuvių že­
+    mėje, ir iš tiesų tokių, kurie nepalieka abejonės, kad senovės
+    18 Alt- und Neues Preussen. - S. 149.
+    434
+
+    ## Puslapis 434
+
+    lietuviai naudojosi tomis raidėmis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13502,7 +14137,17 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kilmę“.
     25 Šiuo klausimu skaityk Majevskio-Skorochodo studiją (Varšu­
     va, 1816. - P. 8).
-  citata_rodoma: "439\n\n## Puslapis 439\n\nsvarbiausių įstatymų ir sentencijų, laikomos šventomis, kurias\nsaugo indų išminčiai; tą kalbą vadina sanskritu.\nBe abejo, ji yra lietuvių kalbos šaltinis, -  taip pat kaip ir\nkitų Europos kalbų, kuriomis kalba seniausios tos pasaulio\ndalies tautos23. Norėdami tą aiškiau įrodyti, pateiksime pavyz­\ndžių."
+  citata_rodoma: |
+    439
+
+    ## Puslapis 439
+
+    svarbiausių įstatymų ir sentencijų, laikomos šventomis, kurias
+    saugo indų išminčiai; tą kalbą vadina sanskritu.
+    Be abejo, ji yra lietuvių kalbos šaltinis, -  taip pat kaip ir
+    kitų Europos kalbų, kuriomis kalba seniausios tos pasaulio
+    dalies tautos23. Norėdami tą aiškiau įrodyti, pateiksime pavyz­
+    džių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -13569,7 +14214,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     meto spaudoje, anų dienų korespondencijoje, kartais ga­
     lima aptikti T. Narbuto juodraščiuose, t. y. jo rankrašti­
     niame palikime. Deja, antro tomo autografas neišliko.
-  citata_rodoma: "Kuo la­\nbiau skaitau, tuo labiau tuo įsitikinu. Antras tomas be­\nveik visas yra skirtas lietuvių kilmei, lengva pasakyti —\n576 puslapiai. Tamsta kildini juos iš gelonų (pelazgų-\nhelenų tautos) ir iš budinu (indų-skitų tautos); vėliau\nišaugusi gelonų-budinų karta susiskirstė į tris pagrin­\ndines dalis: Prūsiją, tikrąją Lietuvą ir Latviją."
+  citata_rodoma: |
+    Kuo la­
+    biau skaitau, tuo labiau tuo įsitikinu. Antras tomas be­
+    veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
+    576 puslapiai. Tamsta kildini juos iš gelonų (pelazgų-
+    helenų tautos) ir iš budinu (indų-skitų tautos); vėliau
+    išaugusi gelonų-budinų karta susiskirstė į tris pagrin­
+    dines dalis: Prūsiją, tikrąją Lietuvą ir Latviją.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -13595,7 +14247,23 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     nias, reikalingas tęsiniui istorijos, būsiančios kitose kny­
     gose. Toks yra pobūdis darbo, kuriam nepramynė kelių
     ankstesni detalūs stebėjimų nagrinėjimai.
-  citata_rodoma: "Mes pasisakome už pono Kepeno požiū-\n2. T. Narbutas\n33\n\n## Puslapis 33\n\nrį: lyginant tris svarbiausius dialektus — senovės prūsų,\nlietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­\nčytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­\ntyje arba kad ši gentis buvo arčiausia prie šio lopšio1. O\nbe to, Lietuvos valstybė tuomet ne tik savo galybe ir dy­\ndžiu pranoko Prūsiją ir Latviją, bet ir buvo viena tų, ku­\nrios ilgiausiai džiaugėsi savo nepriklausomybe. Tad tuo\nremdamiesi nedvejojame visą tautos visumą su visomis\njai giminingomis žmonių bendruomenėmis ir kartomis pa­\nskelbdami lietuviškąja2."
+  citata_rodoma: |
+    Mes pasisakome už pono Kepeno požiū-
+    2. T. Narbutas
+    33
+
+    ## Puslapis 33
+
+    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
+    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
+    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
+    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1. O
+    be to, Lietuvos valstybė tuomet ne tik savo galybe ir dy­
+    džiu pranoko Prūsiją ir Latviją, bet ir buvo viena tų, ku­
+    rios ilgiausiai džiaugėsi savo nepriklausomybe. Tad tuo
+    remdamiesi nedvejojame visą tautos visumą su visomis
+    jai giminingomis žmonių bendruomenėmis ir kartomis pa­
+    skelbdami lietuviškąja2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -13627,7 +14295,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     statė 1242 metais; toje epochoje dar egzistavo tos šiauri­
     nės Nemuno žiotys, kurias krašto gyventojai vadino Me-
     mįla.
-  citata_rodoma: "Labai svarbių hidrografinių pokyčių\nnuo Palangos iki Sembos pakrančių įvyko rašytinės isto­\nrijos amžiais. Iš įvairių Karaliaučiaus Slaptajame archy­\nve esančių transakcijų ponas Foigtas1 teigia, jog viena\ndešinioji Nemuno deltos šaka nuo Rusnės suko į šiaurę,\niš dešiniosios pakrantės įtekėjo Minija, po to jungėsi su\nDange, kurios žiotyse stovėjo sena lietuvių tvirtovė Klai­\npėda, Klejpeda2, ir galop vienomis plačiomis žiotimis įsi­\nliejo į jūrą toje pačioje vietoje, kur šiandien yra Kuršių\nmarių žiotys. Prie šio tvirtinimo reikia pridurti, jog Pto-\nlemėjas nurodo Krono upės, kuri yra Nemunas, žiotis sub-\nelevatione Poli 56 graduum et longitudine 50 graduum."
+  citata_rodoma: |
+    Labai svarbių hidrografinių pokyčių
+    nuo Palangos iki Sembos pakrančių įvyko rašytinės isto­
+    rijos amžiais. Iš įvairių Karaliaučiaus Slaptajame archy­
+    ve esančių transakcijų ponas Foigtas1 teigia, jog viena
+    dešinioji Nemuno deltos šaka nuo Rusnės suko į šiaurę,
+    iš dešiniosios pakrantės įtekėjo Minija, po to jungėsi su
+    Dange, kurios žiotyse stovėjo sena lietuvių tvirtovė Klai­
+    pėda, Klejpeda2, ir galop vienomis plačiomis žiotimis įsi­
+    liejo į jūrą toje pačioje vietoje, kur šiandien yra Kuršių
+    marių žiotys. Prie šio tvirtinimo reikia pridurti, jog Pto-
+    lemėjas nurodo Krono upės, kuri yra Nemunas, žiotis sub-
+    elevatione Poli 56 graduum et longitudine 50 graduum.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -13694,7 +14374,18 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     žodžiu, ¡buvo užėmę visas Baltijos pakrantes ir paskuti­
     niame amžiuje prieš Kristaus gimimą bei Kristaus eros
     pradžioje ¡buvo galinga, Danijos karalių valdoma tauta.
-  citata_rodoma: "Vadinasi, pirmasis\nsu neapdorota medžiaga dirbęs žmogus ir visas jo milži­\nniškas darbas dažniausiai būva pamirštas palyginti su\nvėlesnio darbuotojo efektyvaus darbo šviesa.\n230\nMūsų Rusios tyrimo išvada yra ta, kad dešiniosios\nNemuno žemupio šakos pakrantėse buvo pirmos lietuvių\ntautos gyvenvietės, atsiradusios bendruomeninėje santvar­\nkoje. Gelonai-budinai, įsikūrę šiuose vaizdinguose kraš­\ntuose, turtinguose gyvenimui reikalingų gamtos turtų, ne­\nabejotinai labai ir greitai išplito1."
+  citata_rodoma: |
+    Vadinasi, pirmasis
+    su neapdorota medžiaga dirbęs žmogus ir visas jo milži­
+    niškas darbas dažniausiai būva pamirštas palyginti su
+    vėlesnio darbuotojo efektyvaus darbo šviesa.
+    230
+    Mūsų Rusios tyrimo išvada yra ta, kad dešiniosios
+    Nemuno žemupio šakos pakrantėse buvo pirmos lietuvių
+    tautos gyvenvietės, atsiradusios bendruomeninėje santvar­
+    koje. Gelonai-budinai, įsikūrę šiuose vaizdinguose kraš­
+    tuose, turtinguose gyvenimui reikalingų gamtos turtų, ne­
+    abejotinai labai ir greitai išplito1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -13734,7 +14425,33 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Nekyla abejonių, jog priešistoriniais taikais egzistavo
     vilkų, Wilkow, tauta, kurios vardas buvo įvairiai iškrai­
     pomas.
-  citata_rodoma: "Heimkringla\nSaga.\n238\n\n## Puslapis 249\n\n243\nApskritai, atsižvelgiant į krašto padavimus, tiek se­\nniausių prūsų kronikininkų užrašytus, tiek ir senovės ty­\nrinėtojų įvairiose vietose pastebėtus, galima pasakyti, kad\nlietuvių ¡genties tautoms dar gerokai* prieš VI amžių\npritklausė tos žemės, kurios ir šiandien ¡priklauso jų val­\ndoms. Sį teiginį patvirtins tolesni mūsų pasakojimai, o\ntuo tarpu aprašysime įvairių kartų užimamų žemių geo­\ngrafinę padėtį, pradėdami nuo bendro žymėjimo krašto,\nturėjusio tokias ribas: Baltijos jūra nuo Vyslos žiočių net\niki Vakarų Dauguvos dešiniosios ¡pakrantės, kur jūrą pa­\nsiekia Salacos apskritis, šios apskrities ribomis su Estija\nir Pskovo gubernija, paskui skersai Dauguvą iki Kuršo\nsienos su Livonija, toliau Ukmergės apskrities riba net\nligi ten, kur susisiekia Vilniaus ir Ašmenos apskričių sie­\nnos, Vilniaus apskrities riba ligi trijų: Vilniaus, Ašmenos\nir Lydos apskričių ribų susikirtimo vietos, šį ¡paskutinį\nkartą sena Lietuvos siena, tad Lietuvai lieka tik kelios\nsenovėje priklausiusios Trakų apskričiai gretimos parapi­\njos, taip pat ir Gardino apskrities."
+  citata_rodoma: |
+    Heimkringla
+    Saga.
+    238
+
+    ## Puslapis 249
+
+    243
+    Apskritai, atsižvelgiant į krašto padavimus, tiek se­
+    niausių prūsų kronikininkų užrašytus, tiek ir senovės ty­
+    rinėtojų įvairiose vietose pastebėtus, galima pasakyti, kad
+    lietuvių ¡genties tautoms dar gerokai* prieš VI amžių
+    pritklausė tos žemės, kurios ir šiandien ¡priklauso jų val­
+    doms. Sį teiginį patvirtins tolesni mūsų pasakojimai, o
+    tuo tarpu aprašysime įvairių kartų užimamų žemių geo­
+    grafinę padėtį, pradėdami nuo bendro žymėjimo krašto,
+    turėjusio tokias ribas: Baltijos jūra nuo Vyslos žiočių net
+    iki Vakarų Dauguvos dešiniosios ¡pakrantės, kur jūrą pa­
+    siekia Salacos apskritis, šios apskrities ribomis su Estija
+    ir Pskovo gubernija, paskui skersai Dauguvą iki Kuršo
+    sienos su Livonija, toliau Ukmergės apskrities riba net
+    ligi ten, kur susisiekia Vilniaus ir Ašmenos apskričių sie­
+    nos, Vilniaus apskrities riba ligi trijų: Vilniaus, Ašmenos
+    ir Lydos apskričių ribų susikirtimo vietos, šį ¡paskutinį
+    kartą sena Lietuvos siena, tad Lietuvai lieka tik kelios
+    senovėje priklausiusios Trakų apskričiai gretimos parapi­
+    jos, taip pat ir Gardino apskrities.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -13776,7 +14493,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
     Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
     kalu.
-  citata_rodoma: "Todėl, mano nuomone, reikėtų\nskaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip\nir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO\nMAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito\nskydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo\nmaximo Jurowito\". Lotynų kalbą slavai venedai ir lietuviai var­\ntojo kaip diplomatinę kalbą."
+  citata_rodoma: |
+    Todėl, mano nuomone, reikėtų
+    skaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip
+    ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
+    MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
+    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
+    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
+    tojo kaip diplomatinę kalbą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -13907,7 +14631,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     tinais meilės nuodais. Šis nykštukas nuolat gyveno savo moti­
     nos, vadinamosios Mildos įsčiose, o ji buvo didelė meilikauto­
     ja ir valdė tos rūšies kerus: ji apskriedavo visą pasaulį oro ve­
-  citata_rodoma: "III skyrius\nM A Ž E S N I E J I  DIEVAI,\nARBA D IEVAIČIAI,\nD E W A J T A S\nAu šia vis (Auszlawis)\nNusilpusių, ligonių, sveikstančių dievaitis, mitinis gydytojas.\nAtrodo, lietuviai garbino jį kaip didelį žaltį. Kiti duome­\nnys leidžia spėti, jog būta ypatingų apgavikų, kurie nešiodavo\nužantyje žalčius ir taip įtikindavo žmones, kad, mokėdami\nkenksmingus dalykus padaryti nekenksmingus, sugebėsią iš­\ngydyti visokias ligas. Jie tapdavo šio dievaičio mokiniais arba\ngarbintojais."
+  citata_rodoma: |
+    III skyrius
+    M A Ž E S N I E J I  DIEVAI,
+    ARBA D IEVAIČIAI,
+    D E W A J T A S
+    Au šia vis (Auszlawis)
+    Nusilpusių, ligonių, sveikstančių dievaitis, mitinis gydytojas.
+    Atrodo, lietuviai garbino jį kaip didelį žaltį. Kiti duome­
+    nys leidžia spėti, jog būta ypatingų apgavikų, kurie nešiodavo
+    užantyje žalčius ir taip įtikindavo žmones, kad, mokėdami
+    kenksmingus dalykus padaryti nekenksmingus, sugebėsią iš­
+    gydyti visokias ligas. Jie tapdavo šio dievaičio mokiniais arba
+    garbintojais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

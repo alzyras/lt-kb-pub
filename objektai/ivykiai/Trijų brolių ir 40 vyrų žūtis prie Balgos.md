@@ -78,7 +78,15 @@ Nenurodyta
     matyti. Todėl, kai broliai sugalvojo pulti atsitraukiančius prūsus, kurių pusė kariuomenės
     jau buvo perėjusi pelkes, staiga pasirodė tie, kurie tykojo pasaloje, ir nukovė tris brolius
     ir 40 vyrų.
-  citata_rodoma: "Apie 3 brolių ir 40 vyrų nužudymą\n\n  Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene\npatraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus\nprūsus. Tą dieną pakilo tokia migla, kad žmonės, tolėliau stovėdami, negalėjo kits kito\nmatyti. Todėl, kai broliai sugalvojo pulti atsitraukiančius prūsus, kurių pusė kariuomenės\njau buvo perėjusi pelkes, staiga pasirodė tie, kurie tykojo pasaloje, ir nukovė tris brolius\nir 40 vyrų."
+  citata_rodoma: |
+    Apie 3 brolių ir 40 vyrų nužudymą
+
+      Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene
+    patraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus
+    prūsus. Tą dieną pakilo tokia migla, kad žmonės, tolėliau stovėdami, negalėjo kits kito
+    matyti. Todėl, kai broliai sugalvojo pulti atsitraukiančius prūsus, kurių pusė kariuomenės
+    jau buvo perėjusi pelkes, staiga pasirodė tie, kurie tykojo pasaloje, ir nukovė tris brolius
+    ir 40 vyrų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -129,7 +129,31 @@ Nenurodyta
     pirma, delsiant nepalūžtų jo
     žmonių jėgos bei narsumas ir, antra, priešas neturėtų
     per daug laiko rūpestingam Vilniaus sutvirtinimui.
-  citata_rodoma: "Kazimieras taip pat nedvejoda­\nmas nutarė ten gintis, kur pergalė būtų ir lengviau pa­\nsiekiama, ir pigiau kainuojanti; skubiai parinkęs saugas, \nsustiprino Vilnių, Moskožovski paskyrė vi lovauti \nmiesto bei pilių įgulai bei tvarkyti visus karo reika­\nlus. Vytautas, smarkiai karu nusiaubęs aplinkui kraštą, \nsustojo dar nepasiekęs Vilniaus už keturių mylių prie \nTrakų ne todėl, kad norėjo tą pilį supti, bet todėl, kad \nketino ten sutelkti niokotojų pulkus ir po to su viso­\nmis jėgomis traukti į sostinę. Vis dėlto vienu metu pa­\nbandė, iš anksto nepasiruošęs, užimti pilis ir miestą,\ntačiau po dviejų nesėkmin- \nIš p ra d žių n e sė k m in - \ngų antpuolių, netekęs nema­\nnai \nb a n d o \napsiausti \nžai savo karių, atsisakė tų \nT raku s \nmėginimų, \nbijodamas, kad,\npirma, delsiant nepalūžtų jo \nžmonių jėgos bei narsumas ir, antra, priešas neturėtų \nper daug laiko rūpestingam Vilniaus sutvirtinimui."
+  citata_rodoma: |
+    Kazimieras taip pat nedvejoda­
+    mas nutarė ten gintis, kur pergalė būtų ir lengviau pa­
+    siekiama, ir pigiau kainuojanti; skubiai parinkęs saugas,
+    sustiprino Vilnių, Moskožovski paskyrė vi lovauti
+    miesto bei pilių įgulai bei tvarkyti visus karo reika­
+    lus. Vytautas, smarkiai karu nusiaubęs aplinkui kraštą,
+    sustojo dar nepasiekęs Vilniaus už keturių mylių prie
+    Trakų ne todėl, kad norėjo tą pilį supti, bet todėl, kad
+    ketino ten sutelkti niokotojų pulkus ir po to su viso­
+    mis jėgomis traukti į sostinę. Vis dėlto vienu metu pa­
+    bandė, iš anksto nepasiruošęs, užimti pilis ir miestą,
+    tačiau po dviejų nesėkmin-
+    Iš p ra d žių n e sė k m in -
+    gų antpuolių, netekęs nema­
+    nai
+    b a n d o
+    apsiausti
+    žai savo karių, atsisakė tų
+    T raku s
+    mėginimų,
+    bijodamas, kad,
+    pirma, delsiant nepalūžtų jo
+    žmonių jėgos bei narsumas ir, antra, priešas neturėtų
+    per daug laiko rūpestingam Vilniaus sutvirtinimui.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -156,7 +180,17 @@ Nenurodyta
     miestą, irgi būtų nelengva užimti pilis, dėl kurių pra­
     sidėjo visas šitas karas. Aukštutinę pilį, stovinčią ant
     aukšto ir stataus kalno, gynė lenkų įgula.
-  citata_rodoma: "Aukštutinę pilį, stovinčią ant\naukšto ir stataus kalno, gynė lenkų įgula. Žemutinę,\n3 0 6\n\n## Puslapis 305\n\nkurią kalno papėdėje supo Vilnios upė, saugojo lietu­\nvių kariai. Keletą kartų pabandęs užimti šias pilis, bu­\nvo priverstas nutraukti apsiaustį ir išvesti kariuomenę\natgal į Prūsiją nepajėgęs įveikti gynėjų narsumo."
+  citata_rodoma: |
+    Aukštutinę pilį, stovinčią ant
+    aukšto ir stataus kalno, gynė lenkų įgula. Žemutinę,
+    3 0 6
+
+    ## Puslapis 305
+
+    kurią kalno papėdėje supo Vilnios upė, saugojo lietu­
+    vių kariai. Keletą kartų pabandęs užimti šias pilis, bu­
+    vo priverstas nutraukti apsiaustį ir išvesti kariuomenę
+    atgal į Prūsiją nepajėgęs įveikti gynėjų narsumo.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

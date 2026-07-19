@@ -179,7 +179,15 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
     les, iškeptas pelenuose arba virtas su pelenais. Gali būti, kad
     šis vaisius nuo alkaloidinės rūgšties praranda savo aitrumą ir
     būna visai pakenčiamas valgis.
-  citata_rodoma: "Apie tai papa­\nsakosime straipsnyje „Šventyklos“.\nNeseniai buvo aptiktas kadaise milžiniškas ir labai senas\njau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai\nmanoma, kad jis garbintas kaip šventasis. Jį atrado pats ponas\nDionizas Paškevičius Bardžių dvare, Žemaitijoje, arti Kražių,\nprie vieškelio į Raseinius, tarp Nemakščių ir Kaltinėnų mies­\ntelių."
+  citata_rodoma: |
+    Apie tai papa­
+    sakosime straipsnyje „Šventyklos“.
+    Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
+    jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai
+    manoma, kad jis garbintas kaip šventasis. Jį atrado pats ponas
+    Dionizas Paškevičius Bardžių dvare, Žemaitijoje, arti Kražių,
+    prie vieškelio į Raseinius, tarp Nemakščių ir Kaltinėnų mies­
+    telių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -201,7 +209,12 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
     akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į
     kryžių. Romoje, senovinio egiptiečių obelisko, iki šios dienos
     tebestovinčio priešais Laterano šv.
-  citata_rodoma: "Akmeniniai kirviai randami laukuose ir prie senų 1\n11\nLygiai tokią pat urną turėjo Dionizas Paškevičius savo rinkinyje.\nŽemaitijoje kapavietėse, tai yra laidojimo vietose, buvo rasta ir daugiau\ntokių urnų (Dziennik Wilenski. -  T. II. -  S. 160)*."
+  citata_rodoma: |
+    Akmeniniai kirviai randami laukuose ir prie senų 1
+    11
+    Lygiai tokią pat urną turėjo Dionizas Paškevičius savo rinkinyje.
+    Žemaitijoje kapavietėse, tai yra laidojimo vietose, buvo rasta ir daugiau
+    tokių urnų (Dziennik Wilenski. -  T. II. -  S. 160)*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -242,7 +255,12 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
     3 Generolo grafo Kosakovskio senienų rinkinyje yra stiklinis
     tuščiaviduris rutuliukas, kuris buvo atkastas netoli Lukoinių dva­
     ro (Kauno apskrityje) greta skeleto, apjuosto sidabro grandine.
-  citata_rodoma: "T. Narbutas turėjo omenyje straipsnj:\nKrotki spis niektorych starožytnych zabytkow, znajdujących się w\nzbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza\npisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-\ngo // Dziennik Wilenski. 1823. T. II. S. 157—161."
+  citata_rodoma: |
+    T. Narbutas turėjo omenyje straipsnj:
+    Krotki spis niektorych starožytnych zabytkow, znajdujących się w
+    zbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza
+    pisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-
+    go // Dziennik Wilenski. 1823. T. II. S. 157—161.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -100,7 +100,8 @@ Nenurodyta
     tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: "kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o"
+  citata_rodoma: |
+    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

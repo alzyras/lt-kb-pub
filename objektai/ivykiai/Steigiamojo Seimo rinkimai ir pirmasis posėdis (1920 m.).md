@@ -145,7 +145,8 @@ Nenurodyta
     100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-
     kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
     turimos teritorijos Lietuva dar nelaikė galutine.
-  citata_rodoma: "kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad"
+  citata_rodoma: |
+    kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -170,7 +171,17 @@ Nenurodyta
     karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
     kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
     29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
-  citata_rodoma: "L I E T U V O S  I S T O R I J A\n148\nVisuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-\nse, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: \nLietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-\njunga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos). \nKatalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsa-\nvo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais \nantilenkiškais šūkiais ir, kas dar svarbiau, žadėjo nacionalizuoti arba ap-\nkarpyti dvarus ir išdalyti žemę valstiečiams."
+  citata_rodoma: |
+    L I E T U V O S  I S T O R I J A
+    148
+    Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
+    se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
+    Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-
+    junga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos).
+    Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsa-
+    vo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais
+    antilenkiškais šūkiais ir, kas dar svarbiau, žadėjo nacionalizuoti arba ap-
+    karpyti dvarus ir išdalyti žemę valstiečiams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -190,7 +201,8 @@ Nenurodyta
     mai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų
     teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
     tautybę ar lytį.
-  citata_rodoma: "teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,"
+  citata_rodoma: |
+    teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

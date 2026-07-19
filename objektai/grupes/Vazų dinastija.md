@@ -161,7 +161,11 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     vieną valdovą, Lietuvos istorija iki Vazų dinastijos pradžios (1587)
     išdalinama, pvz., tokiomis trimis dalimis: 1) Priešvytautinė kara­
     lija, 2) Vytautinė era ir 3) Vytauto įpėdiniai (iki 1586 m.)^17.
-  citata_rodoma: "Tad perdėta turi būti laikoma, kai centre pastatant tik\nvieną valdovą, Lietuvos istorija iki Vazų dinastijos pradžios (1587)\nišdalinama, pvz., tokiomis trimis dalimis: 1) Priešvytautinė kara­\nlija, 2) Vytautinė era ir 3) Vytauto įpėdiniai (iki 1586 m.)^17."
+  citata_rodoma: |
+    Tad perdėta turi būti laikoma, kai centre pastatant tik
+    vieną valdovą, Lietuvos istorija iki Vazų dinastijos pradžios (1587)
+    išdalinama, pvz., tokiomis trimis dalimis: 1) Priešvytautinė kara­
+    lija, 2) Vytautinė era ir 3) Vytauto įpėdiniai (iki 1586 m.)^17.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

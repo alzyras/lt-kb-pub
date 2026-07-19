@@ -814,7 +814,9 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
     čiais, jos neėmė. Ordinas dėl tokio savo žygio netvėrė pyk-
     čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
     tas pamišėliu ir pašalintas iš vietos.
-  citata_rodoma: "Viso nepasisekimo kaltininkas, magistras, buvo paskelb-\ntas pamišėliu ir pašalintas iš vietos."
+  citata_rodoma: |
+    Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
+    tas pamišėliu ir pašalintas iš vietos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -844,7 +846,19 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
     su šia kariuomene, vedama maršalo Ditricho fon Šen-
     bergo, į tas Prūsijos apygardas, kurios priklausė kara­
     liui.
-  citata_rodoma: "Mat tą raštą paliepė susukti į ritinėlį \nir užantspauduoti, kad pasiuntiniai negalėtų sužinoti \njo turinio nenuplėšę antspaudo, o pažeidus antspau­\ndą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­\nkos reikalas Maskvoje dėl visokių atsitiktinių dalykų, \no gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­\njaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­\nplieskė karas. Magistras, už didelius pinigus pasisam­\ndęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė \nsu šia kariuomene, vedama maršalo Ditricho fon Šen- \nbergo, į tas Prūsijos apygardas, kurios priklausė kara­\nliui."
+  citata_rodoma: |
+    Mat tą raštą paliepė susukti į ritinėlį
+    ir užantspauduoti, kad pasiuntiniai negalėtų sužinoti
+    jo turinio nenuplėšę antspaudo, o pažeidus antspau­
+    dą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­
+    kos reikalas Maskvoje dėl visokių atsitiktinių dalykų,
+    o gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­
+    jaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­
+    plieskė karas. Magistras, už didelius pinigus pasisam­
+    dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
+    su šia kariuomene, vedama maršalo Ditricho fon Šen-
+    bergo, į tas Prūsijos apygardas, kurios priklausė kara­
+    liui.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

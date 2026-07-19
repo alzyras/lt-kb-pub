@@ -185,7 +185,16 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
     go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
-  citata_rodoma: "-  Frankfurt und Leip­\nzig, 1684*.\n103\n\n## Puslapis 103\n\nliones, nepažindami krašto realijų, todėl to dievo vardas buvo\nrašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-\nsickis -Audros."
+  citata_rodoma: |
+    -  Frankfurt und Leip­
+    zig, 1684*.
+    103
+
+    ## Puslapis 103
+
+    liones, nepažindami krašto realijų, todėl to dievo vardas buvo
+    rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
+    sickis -Audros.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -213,7 +222,14 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
+  citata_rodoma: |
+    Daugeliu požiūrių
+    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
+    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
+    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
+    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -240,7 +256,18 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     gų, labai traukė žmogaus dėmesį: jų jėga griauna, daužo, nai­
     kina viską, net šventyklas ir dievų stabus; taigi tos jėgos valdo­
     vas turi būti galingiausias dievas.
-  citata_rodoma: "Per­\nsai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš\nmetų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo\nuž nuodėmes, savo misterijose vaizduodavo gamtos atgimi­\nmą, rengdavosi naujam, doram gyvenimui.\nKai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina\nšį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­\nmės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo\nsuasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų\naukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­\ntingais mitais."
+  citata_rodoma: |
+    Per­
+    sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
+    metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
+    už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
+    mą, rengdavosi naujam, doram gyvenimui.
+    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
+    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
+    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
+    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
+    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
+    tingais mitais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

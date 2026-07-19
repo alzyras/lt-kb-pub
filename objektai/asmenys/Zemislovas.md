@@ -104,7 +104,15 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
     priešas atsidurs per arti ir
     lik u č iu s
     sukels karą.
-  citata_rodoma: "Tuo tarpu kilo neramu-\n1269 m e ta i\nmai Lenkijoje. Tarp riterių\nordino ir kunigaikščio Ze-\nmislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai­\ndai ir ginkluoti susidūrimai. Žinia apie šią nesantaiką\npaskatino visus narsiausius lietuvių jaunikaičius žygiui\ndėl grobio."
+  citata_rodoma: |
+    Tuo tarpu kilo neramu-
+    1269 m e ta i
+    mai Lenkijoje. Tarp riterių
+    ordino ir kunigaikščio Ze-
+    mislovo, valdžiusio Kujaviją ir Lenčicą, prasidėjo vai­
+    dai ir ginkluoti susidūrimai. Žinia apie šią nesantaiką
+    paskatino visus narsiausius lietuvių jaunikaičius žygiui
+    dėl grobio.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -85,7 +85,13 @@ Narbutas Girystį (Giristį), Bogušo minimą miško dievaitį, sieja su kaimie�
     leidus dalyką, pradėjo atsirasti dievaičių, vadintų aitvarais (Suc-
     cubis etlncubis*), kurie, vis dažniau svečiuodamiesi, įniko nak­
     timis viešai ir dažnai rodytis gyvų žmonių pavidalu.
-  citata_rodoma: "Girystis (Giristis)\nMiško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas\niš Ksavero Bogušo pastebėjimų. Mūsų kaimiečiai savo pasa­\nkojimuose jį vadina kitaip -  Pušiniu (Pusinas). Latviai jį taip\npat vadina Meszu Deews, miškų dievu, arba Meschu Wihrs -\nmiškiniu žmogum."
+  citata_rodoma: |
+    Girystis (Giristis)
+    Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas
+    iš Ksavero Bogušo pastebėjimų. Mūsų kaimiečiai savo pasa­
+    kojimuose jį vadina kitaip -  Pušiniu (Pusinas). Latviai jį taip
+    pat vadina Meszu Deews, miškų dievu, arba Meschu Wihrs -
+    miškiniu žmogum.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

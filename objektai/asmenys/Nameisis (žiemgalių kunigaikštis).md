@@ -104,7 +104,15 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
     brolių žemgaliai pasiuntė lietuviams.
     Lietuviai taip pat toliau rėmė jotvingius jų
     kovoje su Ordinu.
-  citata_rodoma: "Po šio\nLivonijos ordino sutriuškinimo žiemgaliai\nvėl sukilo prieš Ordiną, jų kunigaikščio\nNameisio vadovaujami ir remiami lietuvių,\natsiėmė Tervetės pilį, dalį belaisvių Ordino\nbrolių žemgaliai pasiuntė lietuviams.\nLietuviai taip pat toliau rėmė jotvingius jų\nkovoje su Ordinu."
+  citata_rodoma: |
+    Po šio
+    Livonijos ordino sutriuškinimo žiemgaliai
+    vėl sukilo prieš Ordiną, jų kunigaikščio
+    Nameisio vadovaujami ir remiami lietuvių,
+    atsiėmė Tervetės pilį, dalį belaisvių Ordino
+    brolių žemgaliai pasiuntė lietuviams.
+    Lietuviai taip pat toliau rėmė jotvingius jų
+    kovoje su Ordinu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

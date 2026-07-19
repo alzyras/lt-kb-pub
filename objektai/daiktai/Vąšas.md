@@ -100,11 +100,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Ant pat vidurio tos duobės ar ugnavietės skersai
-        tųdviejų karčių buvo perdėtas ąžuolo mietas ir stipriai tenai pririštas vytimis, prie kurio pačiame
-        vidury buvo pasietas ąžuolo ramentas, vąšu^200 vadinamas, žemajame gale su kibekliu
-        pakumpusios šaknies it nosia, iki pat ugnies nutįsęs taip, idant katilas, antkabintas^201 valgiui virti,
-        galėtų kaisti ir virti.
-  citata_rodoma: "Ant pat vidurio tos duobės ar ugnavietės skersai\ntųdviejų karčių buvo perdėtas ąžuolo mietas ir stipriai tenai pririštas vytimis, prie kurio pačiame\nvidury buvo pasietas ąžuolo ramentas, vąšu^200 vadinamas, žemajame gale su kibekliu\npakumpusios šaknies it nosia, iki pat ugnies nutįsęs taip, idant katilas, antkabintas^201 valgiui virti,\ngalėtų kaisti ir virti."
+    tųdviejų karčių buvo perdėtas ąžuolo mietas ir stipriai tenai pririštas vytimis, prie kurio pačiame
+    vidury buvo pasietas ąžuolo ramentas, vąšu^200 vadinamas, žemajame gale su kibekliu
+    pakumpusios šaknies it nosia, iki pat ugnies nutįsęs taip, idant katilas, antkabintas^201 valgiui virti,
+    galėtų kaisti ir virti.
+  citata_rodoma: |
+    Ant pat vidurio tos duobės ar ugnavietės skersai
+    tųdviejų karčių buvo perdėtas ąžuolo mietas ir stipriai tenai pririštas vytimis, prie kurio pačiame
+    vidury buvo pasietas ąžuolo ramentas, vąšu^200 vadinamas, žemajame gale su kibekliu
+    pakumpusios šaknies it nosia, iki pat ugnies nutįsęs taip, idant katilas, antkabintas^201 valgiui virti,
+    galėtų kaisti ir virti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -118,10 +123,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Dar buvo ant to mieto, arba aksties, ant kurio ir vąšas kybojo, pasieti keli
-        svarai ledinės druskos ant šniūrelio taip, jog gaspadinė, atrišusi nuo vąšo šniūrelį, galėjo druskos
-        kliupurį^202 į katilą įleisti ir vėl pamirkiusi aukštyn patraukti, kursai, iškeltas iš viralo, lašėjo tenai iki
-        nudžiūnąs.
-  citata_rodoma: "Dar buvo ant to mieto, arba aksties, ant kurio ir vąšas kybojo, pasieti keli\nsvarai ledinės druskos ant šniūrelio taip, jog gaspadinė, atrišusi nuo vąšo šniūrelį, galėjo druskos\nkliupurį^202 į katilą įleisti ir vėl pamirkiusi aukštyn patraukti, kursai, iškeltas iš viralo, lašėjo tenai iki\nnudžiūnąs."
+    svarai ledinės druskos ant šniūrelio taip, jog gaspadinė, atrišusi nuo vąšo šniūrelį, galėjo druskos
+    kliupurį^202 į katilą įleisti ir vėl pamirkiusi aukštyn patraukti, kursai, iškeltas iš viralo, lašėjo tenai iki
+    nudžiūnąs.
+  citata_rodoma: |
+    Dar buvo ant to mieto, arba aksties, ant kurio ir vąšas kybojo, pasieti keli
+    svarai ledinės druskos ant šniūrelio taip, jog gaspadinė, atrišusi nuo vąšo šniūrelį, galėjo druskos
+    kliupurį^202 į katilą įleisti ir vėl pamirkiusi aukštyn patraukti, kursai, iškeltas iš viralo, lašėjo tenai iki
+    nudžiūnąs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

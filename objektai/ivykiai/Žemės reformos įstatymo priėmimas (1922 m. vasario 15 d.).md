@@ -132,7 +132,8 @@ Nenurodyta
     kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
     vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
     80 ha.
-  citata_rodoma: "balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės"
+  citata_rodoma: |
+    balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -159,7 +160,8 @@ Nenurodyta
     50 ha dydžio dvarai). Pirmiausia žemės gavo kariai savanoriai, bežemiai
     ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
     kai kurios valstybinės ir visuomeninės įstaigos.
-  citata_rodoma: "ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,"
+  citata_rodoma: |
+    ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

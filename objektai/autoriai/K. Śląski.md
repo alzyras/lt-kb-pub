@@ -67,7 +67,10 @@ media_all_json: |-
     ludami nadbałtyckimi w V1I-XII wieku,_ Rocznik Olsztyński, V, 1963,
     9-27 p. —Švābe, A. : _Senās Latvijas vestures avoti,_ I, Riga 1937 (senųjų
     tekstų ištraukos).
-  citata_rodoma: "— Śląski, K. : _Stosunki Prusów z innymi\nludami nadbałtyckimi w V1I-XII wieku,_ Rocznik Olsztyński, V, 1963,\n9-27 p. —Švābe, A."
+  citata_rodoma: |
+    — Śląski, K. : _Stosunki Prusów z innymi
+    ludami nadbałtyckimi w V1I-XII wieku,_ Rocznik Olsztyński, V, 1963,
+    9-27 p. —Švābe, A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

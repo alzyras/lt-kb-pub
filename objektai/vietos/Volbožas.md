@@ -62,7 +62,10 @@ Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červi
     Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­
     ską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­
     kusi vieton ir ruošėsi keltis per Vislą.
-  citata_rodoma: "Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­\nską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­\nkusi vieton ir ruošėsi keltis per Vislą."
+  citata_rodoma: |
+    Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­
+    ską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­
+    kusi vieton ir ruošėsi keltis per Vislą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

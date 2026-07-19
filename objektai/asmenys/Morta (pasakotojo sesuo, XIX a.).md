@@ -77,7 +77,8 @@ Morta pasakojime pristatoma kaip penkiolikmetė pasakotojo sesuo, rugiapjūtėje
     sesuo Morta penkiolikos
     metų ir dar du mažesni už mane;
     tai tiek savųjų.
-  citata_rodoma: "Mūsų šeimynos sudėtis sekanti: tėvas, motina, aš — dešimties metų vaikas, sesuo Morta penkiolikos metų."
+  citata_rodoma: |
+    Mūsų šeimynos sudėtis sekanti: tėvas, motina, aš — dešimties metų vaikas, sesuo Morta penkiolikos metų.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

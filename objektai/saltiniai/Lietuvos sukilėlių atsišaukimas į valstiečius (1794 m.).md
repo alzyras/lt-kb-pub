@@ -96,12 +96,17 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    sudaryta sukilėlių vyriausybė – Lietuvos tautinė aukščiausioji taryba. Su-
-    kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
+    lėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
     žymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas
     lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
     nę, žadėta suteikti jiems asmens laisvę.
-  citata_rodoma: "Su-\nkilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė\nžymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas\nlietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-\nnę, žadėta suteikti jiems asmens laisvę."
+    Suk
+  citata_rodoma: |
+    lėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
+    žymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas
+    lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
+    nę, žadėta suteikti jiems asmens laisvę.
+    Suk
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -124,7 +129,14 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
     vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
     lio 28 dieną.
-  citata_rodoma: "Su-\nkilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė \nžymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas \nlietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-\nnę, žadėta suteikti jiems asmens laisvę. \nSukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I."
+  citata_rodoma: |
+    Su-
+    kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
+    žymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas
+    lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
+    nę, žadėta suteikti jiems asmens laisvę.
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

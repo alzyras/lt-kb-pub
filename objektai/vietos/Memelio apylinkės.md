@@ -85,7 +85,14 @@ Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavi
     jie iki šiol kupini didžiausios paniekos Budhai, nors neginčija
     didelių jo dorybių ir dieviškumo. Labai senais laikais budistų
     sekta Indijoje buvo persekiojama ir ištremta iš šalies.
-  citata_rodoma: "Iš tikrųjų iš\nto, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių\nLatona, dvynių Lėlio ir Lėlės, pramintų Lelyva, motina.\nBute (iBudie}\nIšminties deivė. Jos vardą paėmiau iš vieno liaudies pada­\nvimo, išgirsto Memelio apylinkėse, iš kurio aiškėja, kad šiuo\nvardu dievinta išmintis."
+  citata_rodoma: |
+    Iš tikrųjų iš
+    to, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių
+    Latona, dvynių Lėlio ir Lėlės, pramintų Lelyva, motina.
+    Bute (iBudie}
+    Išminties deivė. Jos vardą paėmiau iš vieno liaudies pada­
+    vimo, išgirsto Memelio apylinkėse, iš kurio aiškėja, kad šiuo
+    vardu dievinta išmintis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

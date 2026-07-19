@@ -111,7 +111,15 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
     Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
     Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
     popiežių, kuriam ir išpažino visas savo nuodėmes.
-  citata_rodoma: "Apie Maljorkos ir Menorkos salų užėmimą\n\n  1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir\nMenorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).\n\n\n\n                          21."
+  citata_rodoma: |
+    Apie Maljorkos ir Menorkos salų užėmimą
+
+      1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
+    Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
+
+
+
+                              21.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

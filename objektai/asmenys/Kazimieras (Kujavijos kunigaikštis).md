@@ -208,7 +208,14 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
     be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
     žemino tikėjimą ir tikinčiuosius!
-  citata_rodoma: "Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę\nir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,\nbaisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop\nsugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis\natsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis\nnesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su\nmanimi gyventi taikiai“."
+  citata_rodoma: |
+    Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę
+    ir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,
+    baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop
+    sugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis
+    atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
+    nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
+    manimi gyventi taikiai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -247,7 +254,10 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
-  citata_rodoma: "Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams\nplaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė\ntraukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies."
+  citata_rodoma: |
+    Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -270,7 +280,13 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     švaistydamiesi po ją nuo krašto iki krašto, bet ne kaip geri šeimininkai, o atvirkščiai:
     viską, kas ugnimi deginama, sudegino, daugybę gyventojų išžudė, išsivedė į nelaisvę
     moteris bei vaikus ir, pasigrobę didžiulį grobį, sugrįžo atgal.
-  citata_rodoma: "pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius\nir patarė jiems traukti su kariuomene prieš Sventopelką. Paklausę šių nurodymų, jie\nsu didele kariuomene ir patraukė prie Naklo pilies276, prisistatė ten palapinių ir įsikūrė\nkaro stovyklą, pasidarė apsiausties mašinų bei kitokių karo įtaisų ir paruošė visa, kas\nreikalinga miestams pulti, taip baisiai nugąsdindami pilėnus, jog šie atidavė broliams\npilį su sąlyga, kad jiems su manta gyviems būsią leista išeiti."
+  citata_rodoma: |
+    pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius
+    ir patarė jiems traukti su kariuomene prieš Sventopelką. Paklausę šių nurodymų, jie
+    su didele kariuomene ir patraukė prie Naklo pilies276, prisistatė ten palapinių ir įsikūrė
+    karo stovyklą, pasidarė apsiausties mašinų bei kitokių karo įtaisų ir paruošė visa, kas
+    reikalinga miestams pulti, taip baisiai nugąsdindami pilėnus, jog šie atidavė broliams
+    pilį su sąlyga, kad jiems su manta gyviems būsią leista išeiti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -324,7 +340,12 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     pilis: Torunę, Kulmą ir Rudiną. Šitai padarę, pasuko su savo kariuomene prie Kulmo
     miesto bei pilies ir čia — išdidūs ir pasipūtę — apsistojo iki vakaro. Po to patraukė iki
     pelkės, vardu Renzenas279, kur naktį ilsėjosi.
-  citata_rodoma: "40. Apie naują Sventopelko karą ir susidūrimą prie Renzeno\n\n  Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai\n  275 Kujavijos kunigaikštis.\n  276 Naklas, Naklo—į vakarus nuo Bidgoščiaus."
+  citata_rodoma: |
+    40. Apie naują Sventopelko karą ir susidūrimą prie Renzeno
+
+      Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai
+      275 Kujavijos kunigaikštis.
+      276 Naklas, Naklo—į vakarus nuo Bidgoščiaus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -67,7 +67,11 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
     (Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.
     Tris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,
     žygiavo prieš Maskvą.
-  citata_rodoma: "Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo\n(Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.\nTris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,\nžygiavo prieš Maskvą."
+  citata_rodoma: |
+    Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo
+    (Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.
+    Tris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,
+    žygiavo prieš Maskvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

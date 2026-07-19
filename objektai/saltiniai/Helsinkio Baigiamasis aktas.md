@@ -133,7 +133,11 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     okupacija arba toks įgijimas (teritorijos) nebus pripažįstamas teisėtu“, be
     to, ir SSRS, pasirašydama Baigiamąjį aktą, kitų valstybių akivaizdoje pa-
     tvirtino laisvo apsisprendimo principą visoms tautoms.
-  citata_rodoma: "Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje\nJAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasi-\nrašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti\nžmogaus teises savo viduje."
+  citata_rodoma: |
+    Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje
+    JAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasi-
+    rašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti
+    žmogaus teises savo viduje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -151,7 +155,9 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos. Tam padėjo 1975 m. Hel-
     sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
-  citata_rodoma: "Hel-\nsinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises."
+  citata_rodoma: |
+    Hel-
+    sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -173,7 +179,10 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: "Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-\nsios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-\ntas valstybes apie žmogaus teisių pažeidimus."
+  citata_rodoma: |
+    Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
+    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
+    tas valstybes apie žmogaus teisių pažeidimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

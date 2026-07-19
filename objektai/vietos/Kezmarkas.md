@@ -68,7 +68,11 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
 
     (^1) **CEV, 205 p.**
     (^2) **Raczyński, E.: RaCD, 104-107 p.**
-  citata_rodoma: "Su juo tartis į Vengrijos pasienio miestą\nKezmarką nuvyko pats Vytautas. Kaip 1409 vasarą ordinas buvo\n\n(^1) **CEV, 205 p."
+  citata_rodoma: |
+    Su juo tartis į Vengrijos pasienio miestą
+    Kezmarką nuvyko pats Vytautas. Kaip 1409 vasarą ordinas buvo
+
+    (^1) **CEV, 205 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

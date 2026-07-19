@@ -86,7 +86,8 @@ Nenurodyta
     ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
     savo centru paskelbė Gardiną.
-  citata_rodoma: "konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir"
+  citata_rodoma: |
+    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

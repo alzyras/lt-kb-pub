@@ -164,7 +164,14 @@ media_all_json: |-
     Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
     Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
     Karolis Piotrovskis (Karol Piotrowski) [9].
-  citata_rodoma: "Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-\nnėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,\nseimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-\nninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /\nKaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas\nDylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –\nKarolis Piotrovskis (Karol Piotrowski) [9]."
+  citata_rodoma: |
+    Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-
+    nėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,
+    seimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
+    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
+    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
+    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
+    Karolis Piotrovskis (Karol Piotrowski) [9].
   statusas: verified
   atnaujinta: "2026-07-14 10:04"
   teiginio_tipas: faktas
@@ -182,7 +189,12 @@ media_all_json: |-
     jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
     davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
     sario 2 d.) ir darbuodavos tribunole vienus metus.
-  citata_rodoma: "Su mažais pakeitimais jis toks\npat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-\njais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-\ndavo renkami specialiai šaukiamame Grabnyčių seimely (apie va-\nsario 2 d.) ir darbuodavos tribunole vienus metus."
+  citata_rodoma: |
+    Su mažais pakeitimais jis toks
+    pat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-
+    jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
+    davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
+    sario 2 d.) ir darbuodavos tribunole vienus metus.
   statusas: verified
   atnaujinta: "2026-07-14 09:50"
   teiginio_tipas: faktas
@@ -199,7 +211,8 @@ media_all_json: |-
     arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
     Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
     teismą ir kitus urėdus.
-  citata_rodoma: "Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo"
+  citata_rodoma: |
+    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
   statusas: verified
   atnaujinta: "2026-07-14 09:55"
 
@@ -220,7 +233,8 @@ media_all_json: |-
     svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
     tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
     pat išliko iki pat nepriklausomybės pabaigos.
-  citata_rodoma: "Su mažais pakeitimais jis toks"
+  citata_rodoma: |
+    Su mažais pakeitimais jis toks
   statusas: verified
   atnaujinta: "2026-07-14 09:55"
 
@@ -242,7 +256,17 @@ media_all_json: |-
     elekciniuose būdavo renkami pavieto arba vaivadijos urė-
     dai, ir t. t.
     **3.
-  citata_rodoma: "Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo\nteismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-\nstovai į seimą ir surašomos jiems instrukcijos. Vėliau seimeliai\nbuvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo\natskirus vardus: priešseiminiuose seimeliuose bū-\ndavo renkami atstovai į seimą; reliaciniuose atstovai,\ngrįžę iš seimo, padarydavo pranešimus apie seimo darbus;\nelekciniuose būdavo renkami pavieto arba vaivadijos urė-\ndai, ir t. t.\n**3."
+  citata_rodoma: |
+    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
+    teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
+    stovai į seimą ir surašomos jiems instrukcijos. Vėliau seimeliai
+    buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo
+    atskirus vardus: priešseiminiuose seimeliuose bū-
+    davo renkami atstovai į seimą; reliaciniuose atstovai,
+    grįžę iš seimo, padarydavo pranešimus apie seimo darbus;
+    elekciniuose būdavo renkami pavieto arba vaivadijos urė-
+    dai, ir t. t.
+    **3.
   statusas: verified
   atnaujinta: "2026-07-14 09:50"
   teiginio_tipas: faktas

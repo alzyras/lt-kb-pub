@@ -93,7 +93,16 @@ Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-al
     dyną, kuriame nerandame nieko, ką galima būtų vadinti
     panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
     tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
-  citata_rodoma: "Taip pat\nmes neneigsime šio autoriaus nuomonės, kad buvusi lie-\ntuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­\nlėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*."
+  citata_rodoma: |
+    Taip pat
+    mes neneigsime šio autoriaus nuomonės, kad buvusi lie-
+    tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­
+    lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net
+    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
+    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
+    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
+    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
+    ri dabar sudaro Ukmergės apskritį*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

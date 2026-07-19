@@ -113,7 +113,17 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
     jais pasikalbėti. Susitikę su maskvėnais, karaliaus le­
     gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo
     tarpu pasirašyti paliaubas pagal senąją formulę.
-  citata_rodoma: "Nerasdamas kitos dings­\nties laiškų rašyti, nusiskundė dėl pasieniuose daromų\nskriaudų ir paprašė, kad žydų pirkliams leistų laisvai\nkeliauti iš Lietuvos į Maskvos kunigaikštystę. Ivanas\natmetė šį prašymą, tačiau pažadėjo atsiųsti taikytojus,\nkurie ir atsiteis už skriaudas, bet tada, kai karalius jam\nsurašysiąs, kokių nuostolių pridaryta. Antra vertus,\nprimygtinai pareikalavo, kad savo ruožtu karalius atsi­\nlygintų už jam padarytas skriaudas, o jų didžiausia —\nta, kad po šiai dienai nepripažįstamas caro titulas."
+  citata_rodoma: |
+    Nerasdamas kitos dings­
+    ties laiškų rašyti, nusiskundė dėl pasieniuose daromų
+    skriaudų ir paprašė, kad žydų pirkliams leistų laisvai
+    keliauti iš Lietuvos į Maskvos kunigaikštystę. Ivanas
+    atmetė šį prašymą, tačiau pažadėjo atsiųsti taikytojus,
+    kurie ir atsiteis už skriaudas, bet tada, kai karalius jam
+    surašysiąs, kokių nuostolių pridaryta. Antra vertus,
+    primygtinai pareikalavo, kad savo ruožtu karalius atsi­
+    lygintų už jam padarytas skriaudas, o jų didžiausia —
+    ta, kad po šiai dienai nepripažįstamas caro titulas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

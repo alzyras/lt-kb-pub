@@ -71,7 +71,11 @@ Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred 
     toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
     dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
     prie Partnerystės taikos labui iniciatyvos.
-  citata_rodoma: "1994 m. sausį Lietuvos Res-\npublikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-\ntoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-\ndauja tapti šios organizacijos nare."
+  citata_rodoma: |
+    1994 m. sausį Lietuvos Res-
+    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
+    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
+    dauja tapti šios organizacijos nare.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

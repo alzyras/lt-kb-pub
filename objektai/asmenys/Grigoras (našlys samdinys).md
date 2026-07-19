@@ -96,7 +96,8 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     kiolika rublių.
     — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasuki­
     nės — atsiliepė pirmą sykį Grigoras.
-  citata_rodoma: "— Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras."
+  citata_rodoma: |
+    — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -121,7 +122,8 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     „Kalėdos —
     visos bėdos“ . Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos
     padarė, atsiprašant, kažin ką.
-  citata_rodoma: "Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką."
+  citata_rodoma: |
+    Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
@@ -144,7 +146,8 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja
     pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta deg­
     tinėlę.
-  citata_rodoma: "Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta degtinėlę."
+  citata_rodoma: |
+    Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta degtinėlę.
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas

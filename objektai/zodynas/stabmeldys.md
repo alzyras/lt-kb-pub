@@ -107,7 +107,10 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     t. t. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
     Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
     vos penkios dešimtys nukauta.
-  citata_rodoma: "Stabmeldžiai\nmėtė į krikščionis savo ietis, rusai iš lankų ir t.t. daug vyrų ir žirgų strėlėmis sužeidė ir\nt. t."
+  citata_rodoma: |
+    Stabmeldžiai
+    mėtė į krikščionis savo ietis, rusai iš lankų ir t.t. daug vyrų ir žirgų strėlėmis sužeidė ir
+    t. t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -127,7 +130,13 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
     riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
     kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
-  citata_rodoma: ", siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas\npats užpulti priešo teritoriją, jį dezinformuoja\n„Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena\nklastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-\nriuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal\nkilmingiausių [svečių] patarimą grįžta saugoti savo krašto."
+  citata_rodoma: |
+    , siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
+    pats užpulti priešo teritoriją, jį dezinformuoja
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
+    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
+    riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
+    kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +156,12 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     tas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
     buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.
     Jie vejasi grįžtantį maršalą.
-  citata_rodoma: "Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur\npagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-\ntas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti\nbuvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t."
+  citata_rodoma: |
+    Dieną prieš
+    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
+    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
+    tas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
+    buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

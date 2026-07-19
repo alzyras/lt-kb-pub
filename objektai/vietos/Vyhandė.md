@@ -87,7 +87,13 @@ Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kur
     vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
     prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
     kinimas.
-  citata_rodoma: "6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.\nPaprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar\nXVII amžiuje Livonijoje buvo prieita prie maišto (jo nebuvo\ngalima sulaikyti be kraujo praliejimo) vien dėl tos priežasties,\nkad Vyhandės (Woehhande) upelis buvo užtvenktas, nes norė­\nta ant jo įrengti malūną ."
+  citata_rodoma: |
+    6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.
+    Paprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar
+    XVII amžiuje Livonijoje buvo prieita prie maišto (jo nebuvo
+    galima sulaikyti be kraujo praliejimo) vien dėl tos priežasties,
+    kad Vyhandės (Woehhande) upelis buvo užtvenktas, nes norė­
+    ta ant jo įrengti malūną .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

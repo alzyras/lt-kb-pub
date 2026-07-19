@@ -72,7 +72,8 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
     funkcijas pagal Maskvos nurodymus. O valdžios olimpe įsitvirtinus Leo-
     nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
     valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m.
-  citata_rodoma: "nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,"
+  citata_rodoma: |
+    nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

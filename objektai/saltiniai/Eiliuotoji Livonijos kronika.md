@@ -102,7 +102,12 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
     Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado
     iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai
     pasirodęs viešpats apreiškė regėjime šį pralaimėjimą.
-  citata_rodoma: "348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos\npožiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais\npasekę ir estai (LRCh, eil. 5601—5643; LIS, 1, p. 49). Šiaip ar taip, kuršių veiksmai\nvertinami kaip jų pagalba lietuviams (Ivinskis Z., Durbės.., p. 70—71; Lietuvių karas..,\np. 153)."
+  citata_rodoma: |
+    348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos
+    požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais
+    pasekę ir estai (LRCh, eil. 5601—5643; LIS, 1, p. 49). Šiaip ar taip, kuršių veiksmai
+    vertinami kaip jų pagalba lietuviams (Ivinskis Z., Durbės.., p. 70—71; Lietuvių karas..,
+    p. 153).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

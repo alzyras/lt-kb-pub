@@ -67,7 +67,16 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
     pusę perėjusiam totorių caraičiui Musat-
     Chanui, taigi perėjo į tam tikrą Lietuvos
     kontrolę.
-  citata_rodoma: "Yra duomenų, kad toliau žygiuojant buvo\npasiektas pietinėje Krymo pakrantėje tarp-\ntautinės reikšmės uostas Kafa (Feodosija,\ntotorių perleistas italų Genujos pirkliams,\nvykdęs prekybą net su Indija). Kafos apy-\nlinkės buvo pavestos valdyti į Lietuvos\npusę perėjusiam totorių caraičiui Musat-\nChanui, taigi perėjo į tam tikrą Lietuvos\nkontrolę."
+  citata_rodoma: |
+    Yra duomenų, kad toliau žygiuojant buvo
+    pasiektas pietinėje Krymo pakrantėje tarp-
+    tautinės reikšmės uostas Kafa (Feodosija,
+    totorių perleistas italų Genujos pirkliams,
+    vykdęs prekybą net su Indija). Kafos apy-
+    linkės buvo pavestos valdyti į Lietuvos
+    pusę perėjusiam totorių caraičiui Musat-
+    Chanui, taigi perėjo į tam tikrą Lietuvos
+    kontrolę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

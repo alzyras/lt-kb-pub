@@ -89,7 +89,13 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
     cialistiškosios pakraipos moksleivių aušrininkų organizacija.
     Tačiau iki pat 1917 m. revoliucijos aušrininkai buvo palyginti
     negausingi.
-  citata_rodoma: "Tai bu-\nvo katalikiška ir tautiška organizacija, kuriai priklausė beveik\nvisa mokslus einančioji jaunuomenė. Tik vėliau iš jaunimo, su-\nsispietusio apie moksleivių žurnalą „Aušrinę\", atsirado so-\ncialistiškosios pakraipos moksleivių aušrininkų organizacija.\nTačiau iki pat 1917 m."
+  citata_rodoma: |
+    Tai bu-
+    vo katalikiška ir tautiška organizacija, kuriai priklausė beveik
+    visa mokslus einančioji jaunuomenė. Tik vėliau iš jaunimo, su-
+    sispietusio apie moksleivių žurnalą „Aušrinę", atsirado so-
+    cialistiškosios pakraipos moksleivių aušrininkų organizacija.
+    Tačiau iki pat 1917 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

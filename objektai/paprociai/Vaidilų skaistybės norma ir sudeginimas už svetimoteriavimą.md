@@ -92,15 +92,23 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Hart-
-    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
-    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
-    kai, gyvenę bendruomenėje su tam tikromis teisėmis. Tuos tei­
-    ginius patvirtina kitų senovės istorikų tyrimai. Viengungystė,
-    būrimasis į draugijas, gyvenimas nuošaliose vietose, religinių
-    triukų darymas, stebuklai, keistos apeigos, elgetavimas - toks
-    buvo tų ypatingų žmonių amatas.
-  citata_rodoma: "293\n\n## Puslapis 293\n\ndžiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­\npročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­\njant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­\nvedę*."
+    293
+
+    ## Puslapis 293
+
+    džiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­
+    pročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­
+    jant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­
+    vedę*.
+  citata_rodoma: |
+    293
+
+    ## Puslapis 293
+
+    džiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­
+    pročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­
+    jant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­
+    vedę*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

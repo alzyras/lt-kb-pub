@@ -77,7 +77,8 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
     reikė rašto. Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje
     tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
     didėjo.
-  citata_rodoma: "tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai"
+  citata_rodoma: |
+    tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

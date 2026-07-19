@@ -73,7 +73,16 @@ media_all_json: |-
     Krokuva, Kališas ir Naugardas. 1255 m. šešiasdešimt miestų pa­
     našiu tikslu įsteigė Reino konfederaciją, vadovaujamą aukščiau­
     siųjų dvasininkų.
-  citata_rodoma: "Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė\nD\n\n## Puslapis 22\n\nĮVADAS\nKrokuva, Kališas ir Naugardas. 1255 m. šešiasdešimt miestų pa­\nnašiu tikslu įsteigė Reino konfederaciją, vadovaujamą aukščiau­\nsiųjų dvasininkų."
+  citata_rodoma: |
+    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
+    D
+
+    ## Puslapis 22
+
+    ĮVADAS
+    Krokuva, Kališas ir Naugardas. 1255 m. šešiasdešimt miestų pa­
+    našiu tikslu įsteigė Reino konfederaciją, vadovaujamą aukščiau­
+    siųjų dvasininkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

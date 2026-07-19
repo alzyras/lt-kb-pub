@@ -130,7 +130,11 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
     užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
     užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
     ištikimus.
-  citata_rodoma: "343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie\nNemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie\nSešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir\nAkmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p."
+  citata_rodoma: |
+    343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
+    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
+    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir
+    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

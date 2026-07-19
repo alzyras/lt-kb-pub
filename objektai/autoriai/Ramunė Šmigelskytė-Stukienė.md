@@ -69,7 +69,8 @@ Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amž
   citata_originali: |
     XVIII amžiaus studijos. LDK: tarp tradicijų ir naujovių. Sudarytoja: Ramunė
     Šmigelskytė-Stukienė, Vilnius: Lietuvos istorijos institutas, 2014, t. 1, p. 184–199.
-  citata_rodoma: "XVIII amžiaus studijos. LDK: tarp tradicijų ir naujovių. Sudarytoja: Ramunė Šmigelskytė-Stukienė."
+  citata_rodoma: |
+    XVIII amžiaus studijos. LDK: tarp tradicijų ir naujovių. Sudarytoja: Ramunė Šmigelskytė-Stukienė.
   statusas: verified
   atnaujinta: "2026-07-14 06:28"
   teiginio_tipas: faktas

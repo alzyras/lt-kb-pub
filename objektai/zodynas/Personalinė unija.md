@@ -226,7 +226,10 @@ Nenurodyta
     supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
-  citata_rodoma: "Lietuvių pareigūnus įtraukus į Lenkijos \nvalstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-\nlemta valstybių sąveika naikino Lietuvos valstybingumą."
+  citata_rodoma: |
+    Lietuvių pareigūnus įtraukus į Lenkijos
+    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -245,7 +248,10 @@ Nenurodyta
     Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
     išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
     Lenkija, nors valstybės buvo atskiros.
-  citata_rodoma: "Su nedidelėmis \nišimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir \nLenkija, nors valstybės buvo atskiros."
+  citata_rodoma: |
+    Su nedidelėmis
+    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
+    Lenkija, nors valstybės buvo atskiros.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

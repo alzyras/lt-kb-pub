@@ -153,7 +153,12 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
     Visi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris
     grupes — prūsus, lietuvius ir latvius. Tarminiai kalbos skirtumai
     tarp jų istorinių laikų pradžioje dar buvo nežymūs.
-  citata_rodoma: "Senovės aisčių religija**\n\nVisi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris\ngrupes — prūsus, lietuvius ir latvius. Tarminiai kalbos skirtumai\ntarp jų istorinių laikų pradžioje dar buvo nežymūs."
+  citata_rodoma: |
+    Senovės aisčių religija**
+
+    Visi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris
+    grupes — prūsus, lietuvius ir latvius. Tarminiai kalbos skirtumai
+    tarp jų istorinių laikų pradžioje dar buvo nežymūs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

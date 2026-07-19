@@ -90,7 +90,12 @@ Nenurodyta
     partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
-  citata_rodoma: "Sodybos šeimininkai aprūpindavo\npartizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo\npartizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet\nir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,\njei likdavo gyvi, ištremiami."
+  citata_rodoma: |
+    Sodybos šeimininkai aprūpindavo
+    partizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo
+    partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
+    ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
+    jei likdavo gyvi, ištremiami.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

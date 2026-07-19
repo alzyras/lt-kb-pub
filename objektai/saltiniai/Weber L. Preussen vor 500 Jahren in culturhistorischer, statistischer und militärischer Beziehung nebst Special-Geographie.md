@@ -113,7 +113,9 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
     Beziehung nebst Special-Geographie.— Danzig, 1878.
     Wenskus R. Kleinverbände und Kleinräume bei den Prussen des Samlandes: Die
     Anfänge der Landgemeinde und ihr Wesen.
-  citata_rodoma: "Weber L. Preussen vor 500 Jahren in culturhistorischer, statistischer und militärischer\nBeziehung nebst Special-Geographie.— Danzig, 1878."
+  citata_rodoma: |
+    Weber L. Preussen vor 500 Jahren in culturhistorischer, statistischer und militärischer
+    Beziehung nebst Special-Geographie.— Danzig, 1878.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

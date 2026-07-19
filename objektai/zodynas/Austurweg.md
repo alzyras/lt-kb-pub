@@ -102,7 +102,19 @@ Vartojama normanų žygių Baltijos regione aptarime.
     vo tokie reikšmingi ir grėsmingi,
     kaip prasidėjusieji sulig didelės Ka­
     rolio Didžiojo monarchijos žlugimu.
-  citata_rodoma: "Kraštas, lankytas normanų piratų iš \nŠvedijos, Norvegijos ir Danijos, už­\nėmė visą Baltijos jūros pakrantę nuo \nVyslos žiočių iki pat Suomijos įlan­\nkos ir buvo jų vadinamas A ust u rweg. \nAtšiaurus klimatas, nenaši, uolėta \nžemė, pagaliau tvarkos stoka ir tar­\npusavio nesantaika atgrasaus barba­\nriškumo laikais vertė skandinavus \ntraukti į tas jūros keliones, o kartais \nį didesnes išvykas, į kitą Baltijos pu­\nsę."
+  citata_rodoma: |
+    Kraštas, lankytas normanų piratų iš
+    Švedijos, Norvegijos ir Danijos, už­
+    ėmė visą Baltijos jūros pakrantę nuo
+    Vyslos žiočių iki pat Suomijos įlan­
+    kos ir buvo jų vadinamas A ust u rweg.
+    Atšiaurus klimatas, nenaši, uolėta
+    žemė, pagaliau tvarkos stoka ir tar­
+    pusavio nesantaika atgrasaus barba­
+    riškumo laikais vertė skandinavus
+    traukti į tas jūros keliones, o kartais
+    į didesnes išvykas, į kitą Baltijos pu­
+    sę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -90,7 +90,14 @@ Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią la
     litewskich i polskich prawach, o ich ducbu, žrodlach, związku i
     o rzeczach zawartych w pierwszem statucie dla Litwy 1529 roku
     wydanem.
-  citata_rodoma: "Už tokį neatsargumą jų\nkrašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis\nir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą\npastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),\nbet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės\nlietuvius1. Senovės slavai specialiai darydavo žemas duris, kad\nateinantysis arba išeinantysis nusilenktų slenksčiui2."
+  citata_rodoma: |
+    Už tokį neatsargumą jų
+    krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis
+    ir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą
+    pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),
+    bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės
+    lietuvius1. Senovės slavai specialiai darydavo žemas duris, kad
+    ateinantysis arba išeinantysis nusilenktų slenksčiui2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

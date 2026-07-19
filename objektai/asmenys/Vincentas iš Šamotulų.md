@@ -101,7 +101,16 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
     kad tie nė nejuto, jog rusai jiems lipa ant kulnų. Len­
     kams beliko įveikti Murafos upę, tekančią tankiomis
     4 45
-  citata_rodoma: "Štai todėl \nŠamotulskis ir patraukė su visa kariuomene į Lenkiją. \nNenorėdamas praleisti progos tinkamu metu susikauti, \nFiodoras lydėjo atsitraukiančius lenkus, bet taip tyliai, \nkad tie nė nejuto, jog rusai jiems lipa ant kulnų. Len­\nkams beliko įveikti Murafos upę, tekančią tankiomis\n4 45\n\ngiriomis tarp žemų nendrėtų krantų."
+  citata_rodoma: |
+    Štai todėl
+    Šamotulskis ir patraukė su visa kariuomene į Lenkiją.
+    Nenorėdamas praleisti progos tinkamu metu susikauti,
+    Fiodoras lydėjo atsitraukiančius lenkus, bet taip tyliai,
+    kad tie nė nejuto, jog rusai jiems lipa ant kulnų. Len­
+    kams beliko įveikti Murafos upę, tekančią tankiomis
+    4 45
+
+    giriomis tarp žemų nendrėtų krantų.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

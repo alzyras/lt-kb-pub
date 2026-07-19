@@ -560,7 +560,15 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
     amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
     kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
-  citata_rodoma: "1255 me­\ntais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­\nkami; Torunę -1235 metais, Malburgas [Marienburgas] -1281\nmetais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti\nbemaž visi Varmės miestai.\nTuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik\namžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­\nkų karalių - Boleslovas Didysis, pramintas Narsiuoju."
+  citata_rodoma: |
+    1255 me­
+    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
+    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
+    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
+    bemaž visi Varmės miestai.
+    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
+    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
+    kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -587,7 +595,12 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     ją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino
     pagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295.
     57 (56). Apie brolį Henriką, trečią magistrą.
-  citata_rodoma: "Tuo tarpu stalininkas Druzigeris,\nsu saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad\nir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo\nžemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo\ngirdėta."
+  citata_rodoma: |
+    Tuo tarpu stalininkas Druzigeris,
+    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
+    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
+    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
+    girdėta.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -624,7 +637,11 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
     prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
     jie bematant neatiduosią jam pilies.
-  citata_rodoma: "Po to priėjo Torunę ir sudegino\nligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę\nprie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai\natkakliai gynėsi."
+  citata_rodoma: |
+    Po to priėjo Torunę ir sudegino
+    ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
+    prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
+    atkakliai gynėsi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -723,7 +740,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
-  citata_rodoma: "Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus\nbibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,\ndaugelyje vietų tekstui grąžinusio pirminę prasmę."
+  citata_rodoma: |
+    Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
+    bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,
+    daugelyje vietų tekstui grąžinusio pirminę prasmę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -760,7 +780,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
     apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
     kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt. (III, 27, 155).
-  citata_rodoma: "Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,\napie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias\nkryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt."
+  citata_rodoma: |
+    Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
+    apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
+    kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -789,7 +812,21 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
     miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
     čius*.
-  citata_rodoma: "Tačiau Torunės seime, kilus ginčams\nsu Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­\ntyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam\npavaldžius žmones ar norėjęs suvaržyti kurio nors luomo\nteises bei privilegijas, bet iškilus netikėtiems krašto reika­\nlams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,\nnorėdamas, kad pirkliai iš nemažų savo prekybos pajamų\nką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­\nnio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė\ntuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo\niš vaivados Radvilos, kad šis neprieštaraudamas savo auto­\nritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus\nmiestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­\nčius*."
+  citata_rodoma: |
+    Tačiau Torunės seime, kilus ginčams
+    su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­
+    tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam
+    pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo
+    teises bei privilegijas, bet iškilus netikėtiems krašto reika­
+    lams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,
+    norėdamas, kad pirkliai iš nemažų savo prekybos pajamų
+    ką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­
+    nio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė
+    tuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo
+    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
+    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
+    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
+    čius*.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -812,7 +849,12 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     54 (53) Apie vieną stebuklą
     Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno,
     kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus.
-  citata_rodoma: "Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti  į vienuolyną, ir šis pasiuntė  į\nTorunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,\nkas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių; neilgai\ntrukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino\nvienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo."
+  citata_rodoma: |
+    Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti  į vienuolyną, ir šis pasiuntė  į
+    Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,
+    kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių; neilgai
+    trukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino
+    vienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -833,7 +875,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
-  citata_rodoma: "Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams\nplaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė\ntraukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies."
+  citata_rodoma: |
+    Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

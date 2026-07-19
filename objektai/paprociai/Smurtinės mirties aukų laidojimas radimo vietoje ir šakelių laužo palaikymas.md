@@ -204,7 +204,14 @@ Nenurodyta
     Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
     gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
     apeigų paprotį, kiekviena tauta kitonišką.
-  citata_rodoma: "Romėnai\ntą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį\nskenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,\nkur atrado. Šiuo atveju, kadangi tokių atsitikimų dažniausiai\npasitaikydavo miške, kapą pridengia laužu iš kokių nors me­\ndžių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;\nsako, kad tai būdavo daroma niekam nematant."
+  citata_rodoma: |
+    Romėnai
+    tą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį
+    skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,
+    kur atrado. Šiuo atveju, kadangi tokių atsitikimų dažniausiai
+    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
+    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
+    sako, kad tai būdavo daroma niekam nematant.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

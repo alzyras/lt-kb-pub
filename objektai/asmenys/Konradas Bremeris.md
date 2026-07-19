@@ -90,7 +90,17 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
     288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
     5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
     pilis — Elbingą ir Baigą.
-  citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip\nkilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo\nlaivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai\nsužalojo. Priešai, matydami juos artėjant prie kranto, pradėjo svaidyti akmenimis. Broliui\nKonradui išmušė vieną dantį, sužeidė daug kitų, o likusieji sveiki nuplaukė į Elbingą288."
+  citata_rodoma: |
+    Apie laivų kautynes
+
+       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
+    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
+    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
+    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
+    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
+    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
+    sužalojo. Priešai, matydami juos artėjant prie kranto, pradėjo svaidyti akmenimis. Broliui
+    Konradui išmušė vieną dantį, sužeidė daug kitų, o likusieji sveiki nuplaukė į Elbingą288.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

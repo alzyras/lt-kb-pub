@@ -70,7 +70,14 @@ Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų 
     Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
     Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
     puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
-  citata_rodoma: "Ir Algirdas, ir Maskvos kunigaikštis tuo\npačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo\nvalstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo\ngyventojams.\nMaskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos\nRusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių\npuolimų pavojuose, 1300 m."
+  citata_rodoma: |
+    Ir Algirdas, ir Maskvos kunigaikštis tuo
+    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
+    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
+    gyventojams.
+    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
+    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
+    puolimų pavojuose, 1300 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

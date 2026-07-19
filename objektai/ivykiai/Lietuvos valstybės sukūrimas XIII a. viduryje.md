@@ -128,7 +128,13 @@ Nenurodyta
     17
     suspėjo krikštytis, o 1253 m. – karūnuotis
     karaliumi.
-  citata_rodoma: "Valstybė – Lietuvos Didžioji Kunigaikš-\ntija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n17\nsuspėjo krikštytis, o 1253 m."
+  citata_rodoma: |
+    Valstybė – Lietuvos Didžioji Kunigaikš-
+    tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
+
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    17
+    suspėjo krikštytis, o 1253 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

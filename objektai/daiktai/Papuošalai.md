@@ -136,7 +136,11 @@ Nenurodyta
     plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
     papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
     audinių ir juostų raštams.
-  citata_rodoma: "Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro\nplokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų\npapuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo\naudinių ir juostų raštams."
+  citata_rodoma: |
+    Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro
+    plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
+    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
+    audinių ir juostų raštams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

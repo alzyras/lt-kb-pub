@@ -92,7 +92,23 @@ Nenurodyta
     turkų valdovo Suleimano ir praradęs kariuomenę,
     stengėsi pabėgti iš pavojaus: jį pelkėje nuslėgė par­
     griuvęs žirgas, ir šitaip jis rugpjūčio 27 d. atsisveikino
-  citata_rodoma: "Ostrogiškis,\ngavęs žinią, kad skitai bei turkai patraukė į žygį Po-\ndolėn ir Pogorėn su trisdešimt keturiais tūkstančiais\nkarių, skubiai įspėjo susitarimo dalyvius apie pavojų.\nŠie negaišo ir labai greitai atvedė tam reikalui pasam­\ndytus savo lėšomis algininkus. Pas Ostrogiškį atžygia­\nvo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras\nSanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-\nributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­\nnigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-\nravičius, Čerkasų seniūnas Eustachijus Daškevičius ir\n655\n\n## Puslapis 654\n\ndaug kitų."
+  citata_rodoma: |
+    Ostrogiškis,
+    gavęs žinią, kad skitai bei turkai patraukė į žygį Po-
+    dolėn ir Pogorėn su trisdešimt keturiais tūkstančiais
+    karių, skubiai įspėjo susitarimo dalyvius apie pavojų.
+    Šie negaišo ir labai greitai atvedė tam reikalui pasam­
+    dytus savo lėšomis algininkus. Pas Ostrogiškį atžygia­
+    vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras
+    Sanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-
+    ributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­
+    nigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-
+    ravičius, Čerkasų seniūnas Eustachijus Daškevičius ir
+    655
+
+    ## Puslapis 654
+
+    daug kitų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

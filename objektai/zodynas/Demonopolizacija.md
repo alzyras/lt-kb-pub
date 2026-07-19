@@ -81,7 +81,8 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
     prasidėjo demonopolizacija, padidėjo efektyvumas, prekių ir paslaugų
     pasiūla, atsirado naujų galimybių plėtoti švietimą, kultūrą, spręsti sociali-
     nes problemas.
-  citata_rodoma: "Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos,"
+  citata_rodoma: |
+    Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

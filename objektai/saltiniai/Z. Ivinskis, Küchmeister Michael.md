@@ -71,7 +71,9 @@ media_all_json: |-
     — (”) _Melno taika_ , LE, t. 18, 172-175 p. — (”) _Russdorf Paul von,_ LE,
     t. 26, 170-171 p. — Krochnert, E.: _Die deutsch-russische Grenze von
     Eydtkuhnen bis Soldau.
-  citata_rodoma: "— (”) _Küchmeister Michael_ , LE, t. 13, 265-266 p.\n— (”) _Melno taika_ , LE, t."
+  citata_rodoma: |
+    — (”) _Küchmeister Michael_ , LE, t. 13, 265-266 p.
+    — (”) _Melno taika_ , LE, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

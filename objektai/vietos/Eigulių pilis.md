@@ -68,7 +68,11 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
     ant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­
     žuolės kaime liepos 6 d. Jogaila su ordinu pasirašė naują sutartį,
     pasižadėdami iki rugsėjo 8 d. vienas kito nepuldinėti.
-  citata_rodoma: "Tuo pat laiku (1382 birželio\ngale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj\nant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­\nžuolės kaime liepos 6 d."
+  citata_rodoma: |
+    Tuo pat laiku (1382 birželio
+    gale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj
+    ant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­
+    žuolės kaime liepos 6 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

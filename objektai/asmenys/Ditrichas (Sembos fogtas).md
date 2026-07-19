@@ -257,7 +257,13 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     pirmųjų, Dargis įtikėjo, nuolankiai išpažino savo klaidą ir pasidarė uolus tikėjimo bei
     tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
     klystančiųjų naujakrikščių širdis.
-  citata_rodoma: "Apie vieną stebuklą\n\n  Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris\nnepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo\nprietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo\ntvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius."
+  citata_rodoma: |
+    Apie vieną stebuklą
+
+      Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris
+    nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo
+    prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo
+    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -279,7 +285,15 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     šlykštus elgesys teisėtai skatina viešai paskelbti jų vardus, tačiau šito nedarome iš
     pagarbos jų dabartinei padėčiai. Taigi jie susitarė pakviesti rugijų kunigaikštį522 su stipria
     kariuomene ir, išvijus brolius iš Prūsijos žemės, jį paskirti savo karaliumi bei valdovu.
-  citata_rodoma: "Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama\n\n  1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip\nkadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių\npalankumą,  ir pagudėnai bei kiti Prūsijos [žmonės], paklusę savo piktam įpročiui  ir\nsugalvoję dar kartą sukilti prieš brolius, susimokė su kai kuriais kitais prūsais, kurių\nšlykštus elgesys teisėtai skatina viešai paskelbti jų vardus, tačiau šito nedarome iš\npagarbos jų dabartinei padėčiai."
+  citata_rodoma: |
+    Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
+
+      1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip
+    kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių
+    palankumą,  ir pagudėnai bei kiti Prūsijos [žmonės], paklusę savo piktam įpročiui  ir
+    sugalvoję dar kartą sukilti prieš brolius, susimokė su kai kuriais kitais prūsais, kurių
+    šlykštus elgesys teisėtai skatina viešai paskelbti jų vardus, tačiau šito nedarome iš
+    pagarbos jų dabartinei padėčiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -297,7 +311,13 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
     Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
-  citata_rodoma: "Apie Ragainės pilies užkariavimą\n\n   Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų."
+  citata_rodoma: |
+    Apie Ragainės pilies užkariavimą
+
+       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -313,7 +333,9 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     217  Fogtu buvo 1278—1292 m.
     218  D. minima (apie 1231 m.) castrum dictum Rogow (plg. pr. ragis, lie. ragas resp.
     Ragupė — GAO, p. 143) siejama su dab. Rogovu per 11 km į šiaurės rytus nuo Torunės.
-  citata_rodoma: "217 Fogtu buvo 1278—1292 m.\n  218 D."
+  citata_rodoma: |
+    217 Fogtu buvo 1278—1292 m.
+      218 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -350,7 +372,12 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
     sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
     varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.
-  citata_rodoma: "Apie daugybės pagudėnų išžudymą\n\n  Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo\nsembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir\nvarmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams."
+  citata_rodoma: |
+    Apie daugybės pagudėnų išžudymą
+
+      Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
+    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
+    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -374,7 +401,13 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
     galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
     520  D. — contra castrum Gartham, Jer — burc zu Gartin.
-  citata_rodoma: "Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams\nnusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai\ntaip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;\nšitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai\nsužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]\ngalėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino."
+  citata_rodoma: |
+    Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
+    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
+    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
+    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
+    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
+    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -396,7 +429,20 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     moteris ir vaikus surištus išsivarė. Tuo metu Stinigutas472, skalvių vadas, ėmė juos vytis
     su didele kariuomene, o magistras ir broliai, šitai pastebėję, slaptai paspendė pasalas,
     užpuolė žygiuojančią skalvių kariuomenę, daug jų nukovė, o kitus privertė bėgti.
-  citata_rodoma: "Apie Ramijos pilies užkariavimą\n\n  Pasikliaudamas viešpačiu, žmogus drįsta imtis sunkių, rodos, jo prigimčiai tiesiog\nneįmanomų dalykų, kai iš tam tikrų apraiškų bei požymių jaučia, jog dievas jam palankus.\nTodėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene  į kitą Nemuno krantą,\ntuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir\nnukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių paėmęs į nelaisvę,\no kitus išžudęs.\n\n\n\n\n                 184 (179)."
+  citata_rodoma: |
+    Apie Ramijos pilies užkariavimą
+
+      Pasikliaudamas viešpačiu, žmogus drįsta imtis sunkių, rodos, jo prigimčiai tiesiog
+    neįmanomų dalykų, kai iš tam tikrų apraiškų bei požymių jaučia, jog dievas jam palankus.
+    Todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene  į kitą Nemuno krantą,
+    tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir
+    nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių paėmęs į nelaisvę,
+    o kitus išžudęs.
+
+
+
+
+                     184 (179).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -132,7 +132,9 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
     cija Lenkijos—Moldavijos konflikto atžvilgiu galėjo būti sukelta
     Maskvos didžiojo kunigaikščio Ivano III-jo, Moldavijos vaivados
     Stepono giminaičio ir sąjungininko, diplomatinio spaudimo.
-  citata_rodoma: "'  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­\nros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!."
+  citata_rodoma: |
+    '  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­
+    ros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

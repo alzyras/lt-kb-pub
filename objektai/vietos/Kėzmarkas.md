@@ -98,7 +98,12 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
     norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­
     mantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­
     jos ir Ordino.
-  citata_rodoma: "Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­\nda jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,\nnorėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­\nmantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­\njos ir Ordino."
+  citata_rodoma: |
+    Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
+    da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
+    norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­
+    mantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­
+    jos ir Ordino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

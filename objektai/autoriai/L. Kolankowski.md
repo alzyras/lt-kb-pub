@@ -154,7 +154,11 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     net buvęs Kęstučio kalintas. Bet jo patiekiami argumentai nestiprūs. Vie­
     na, kad šaltinis vėlyvas, o antra, kad ir tekstą aiškinti taip, kaip aiškina
     Kolankovskis, negalima.
-  citata_rodoma: "(^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­\nkovski, 1, 8 p.), kad visa diarchijos sistema esanti ne susitarimo, o kaip tik\nbrolių dėl aukščiausios valdžios rivalizaciįos išdava, kurios metu Algirdas\nnet buvęs Kęstučio kalintas."
+  citata_rodoma: |
+    (^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­
+    kovski, 1, 8 p.), kad visa diarchijos sistema esanti ne susitarimo, o kaip tik
+    brolių dėl aukščiausios valdžios rivalizaciįos išdava, kurios metu Algirdas
+    net buvęs Kęstučio kalintas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

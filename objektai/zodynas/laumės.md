@@ -74,7 +74,10 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
     jos reiškiniais. Jų tarpe bene žymiausios buvo laumės, arba
     žmogaus likimą lemiančios deivės (ateinančios prie gimstan-
     čio žmogaus ir valdančios jo gyvenimą iki pat mirties).
-  citata_rodoma: "Jų tarpe bene žymiausios buvo laumės, arba\nžmogaus likimą lemiančios deivės (ateinančios prie gimstan-\nčio žmogaus ir valdančios jo gyvenimą iki pat mirties)."
+  citata_rodoma: |
+    Jų tarpe bene žymiausios buvo laumės, arba
+    žmogaus likimą lemiančios deivės (ateinančios prie gimstan-
+    čio žmogaus ir valdančios jo gyvenimą iki pat mirties).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

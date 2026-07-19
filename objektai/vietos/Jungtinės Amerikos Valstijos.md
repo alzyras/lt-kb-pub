@@ -111,7 +111,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK).
-  citata_rodoma: "JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios"
+  citata_rodoma: |
+    JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,7 +147,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
-  citata_rodoma: "venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į"
+  citata_rodoma: |
+    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

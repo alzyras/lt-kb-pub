@@ -162,7 +162,10 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
     didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
     pasirodyti Prūsijoje ir kiek vėliau, kai Ordino sostinė buvusi perkelta į Marienburgą
     (1309 m.) (M. Poliakuvna).
-  citata_rodoma: "Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau\ndetalių, tikslesnių datų, todėl kartais tvirtinama (M. Perlbachas), jog nuo tada Dusburgietis\njau gyvenęs Prūsijoje."
+  citata_rodoma: |
+    Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau
+    detalių, tikslesnių datų, todėl kartais tvirtinama (M. Perlbachas), jog nuo tada Dusburgietis
+    jau gyvenęs Prūsijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -181,7 +184,12 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
     143  PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.
     60; PKD, s. 101.
     144  SRP, B. 5, S. 162.
-  citata_rodoma: "Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios\npriešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti\n„už nukryžiuotojo viešpaties kančias“ (III, 8, 71, 296), Prūsijoje kritusių krikščionių\n  143 PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.\n60; PKD, s. 101."
+  citata_rodoma: |
+    Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
+    priešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti
+    „už nukryžiuotojo viešpaties kančias“ (III, 8, 71, 296), Prūsijoje kritusių krikščionių
+      143 PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.
+    60; PKD, s. 101.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -97,7 +97,10 @@ Nenurodyta
     tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
     tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai
     atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.
-  citata_rodoma: "Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik\ntada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai\natsidūrę itin varganoje padėtyje, pratę patys nusižudyti."
+  citata_rodoma: |
+    Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
+    tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai
+    atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

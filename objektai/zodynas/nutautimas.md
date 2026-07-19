@@ -84,7 +84,11 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
     dvasioje. Ten varomoji lietuviška kultūrinė veikla tėra tiktai
     priemonė komunizmui skleisti ir agituoti prieš tautišką nepri-
     klausomąją Lietuvą.
-  citata_rodoma: "Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten\nsparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka-\nmieno ir auklėjami tautiškumui priešingoje — komunistiškoje\ndvasioje."
+  citata_rodoma: |
+    Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten
+    sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka-
+    mieno ir auklėjami tautiškumui priešingoje — komunistiškoje
+    dvasioje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,7 +111,9 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
     o prisišliejo prie kitų ir dirbo kitų naudai ir garbei. Daugumas
     jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams
     jau gresia rimtas pavojus nutausti.
-  citata_rodoma: "Daugumas jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams\njau gresia rimtas pavojus nutausti."
+  citata_rodoma: |
+    Daugumas jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams
+    jau gresia rimtas pavojus nutausti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

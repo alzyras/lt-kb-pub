@@ -79,7 +79,8 @@ Smetona ir du vicepirmininkai Justinas Staugaitis ir S.
     ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirminin-
     kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)
     drauge su ministrų kabinetu sudarė vykdomąją valdžią.
-  citata_rodoma: "kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)"
+  citata_rodoma: |
+    kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

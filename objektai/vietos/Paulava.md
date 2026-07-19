@@ -128,7 +128,8 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: "panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai"
+  citata_rodoma: |
+    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +148,8 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
     „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
     ną.
-  citata_rodoma: "laikytina P. K. Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m."
+  citata_rodoma: |
+    laikytina P. K. Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -165,7 +167,8 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
-  citata_rodoma: "viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos"
+  citata_rodoma: |
+    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

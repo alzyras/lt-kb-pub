@@ -423,7 +423,11 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
     visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
     iš 1947 m.
-  citata_rodoma: "Čia reikia paminėti ir\nW. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.\nvisuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra\niš 1947 m."
+  citata_rodoma: |
+    Čia reikia paminėti ir
+    W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
+    visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
+    iš 1947 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -443,7 +447,10 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo
     teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
     ir kt.) leidėjas O. Balzeris.
-  citata_rodoma: "Juos tyrinėjo\nteisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici\nir kt.) leidėjas O. Balzeris."
+  citata_rodoma: |
+    Juos tyrinėjo
+    teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
+    ir kt.) leidėjas O. Balzeris.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -486,7 +493,11 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
     dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
     žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
-  citata_rodoma: "Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais\nraštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug\ndėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­\nžiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU)."
+  citata_rodoma: |
+    Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
+    raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
+    dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
+    žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -506,7 +517,10 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
     Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
     Jakubowskis.
-  citata_rodoma: "Daug dėmesio atskiriems Gediminaičių laikų klausimams ir\nLietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.\nJakubowskis."
+  citata_rodoma: |
+    Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
+    Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
+    Jakubowskis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -528,7 +542,11 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
     gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
     anuomet buvo labai vertinama ir susilaukė keletos laidų.
-  citata_rodoma: "Iš senesniųjų isto­\nrikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­\ngaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija\nanuomet buvo labai vertinama ir susilaukė keletos laidų."
+  citata_rodoma: |
+    Iš senesniųjų isto­
+    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
+    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
+    anuomet buvo labai vertinama ir susilaukė keletos laidų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -550,7 +568,12 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
     iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
     des deutschen Ritterordens_ (1857-1859) ir CDPr.
-  citata_rodoma: "Buvęs\nKaraliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte\nPreusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva\niki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte\ndes deutschen Ritterordens_ (1857-1859) ir CDPr."
+  citata_rodoma: |
+    Buvęs
+    Karaliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte
+    Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
+    iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
+    des deutschen Ritterordens_ (1857-1859) ir CDPr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -573,7 +596,13 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     J. Latkowskis buvo pirmasis, kuris bandė nustatyti
     Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
     Mindaugo laikus^126.
-  citata_rodoma: "Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia\ngausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­\ntojais, ir tai labiausiai iš Gediminaičių epochos.\nJ. Latkowskis buvo pirmasis, kuris bandė nustatyti\nLietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus\nMindaugo laikus^126."
+  citata_rodoma: |
+    Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia
+    gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­
+    tojais, ir tai labiausiai iš Gediminaičių epochos.
+    J. Latkowskis buvo pirmasis, kuris bandė nustatyti
+    Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
+    Mindaugo laikus^126.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -600,7 +629,17 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     taip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą
     1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,
     ProW), bet dar davė daug atskirų tyrinėjimų^131.
-  citata_rodoma: "**\n\n\n84 ĮVADAS\n\nSavo raštų gausumu apie XIV-XV amžiaus Lietuvą visus\nlenkų istorikus yra pralenkęs A. Prochaska. Jis išleido ne tik\ntaip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą\n1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,\nProW), bet dar davė daug atskirų tyrinėjimų^131."
+  citata_rodoma: |
+    **
+
+
+    84 ĮVADAS
+
+    Savo raštų gausumu apie XIV-XV amžiaus Lietuvą visus
+    lenkų istorikus yra pralenkęs A. Prochaska. Jis išleido ne tik
+    taip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą
+    1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,
+    ProW), bet dar davė daug atskirų tyrinėjimų^131.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -639,7 +678,11 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip
     rodo gausus J. Ochmańskio raštai, P. Lossowskio ir
     kitų darbai.
-  citata_rodoma: "Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija\nėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip\nrodo gausus J. Ochmańskio raštai, P. Lossowskio ir\nkitų darbai."
+  citata_rodoma: |
+    Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija
+    ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip
+    rodo gausus J. Ochmańskio raštai, P. Lossowskio ir
+    kitų darbai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

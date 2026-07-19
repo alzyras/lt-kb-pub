@@ -139,7 +139,13 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
     yra kanauninko mūriniame name [17]. Kitame laiške tam pačiam Mykolui Ksaverui
     Sapiegai jis linkėjo karnavalo metu susirasti žmoną [18] (beje, šis palinkėjimas neišsipildė
     ir didikas liko nevedęs [91]).
-  citata_rodoma: "Beje, karnavalus jis kartais minėjo su \nironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių \npribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas \nyra kanauninko mūriniame name [17]. Kitame laiške tam pačiam Mykolui Ksaverui \nSapiegai jis linkėjo karnavalo metu susirasti žmoną [18] (beje, šis palinkėjimas neišsipildė \nir didikas liko nevedęs [91])."
+  citata_rodoma: |
+    Beje, karnavalus jis kartais minėjo su
+    ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
+    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
+    yra kanauninko mūriniame name [17]. Kitame laiške tam pačiam Mykolui Ksaverui
+    Sapiegai jis linkėjo karnavalo metu susirasti žmoną [18] (beje, šis palinkėjimas neišsipildė
+    ir didikas liko nevedęs [91]).
   statusas: verified
   atnaujinta: "2026-07-14 10:44"
   teiginio_tipas: faktas
@@ -159,7 +165,8 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
     ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
     pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
     yra kanauninko mūriniame name [17].
-  citata_rodoma: "1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių"
+  citata_rodoma: |
+    1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
   statusas: verified
   atnaujinta: "2026-07-14 10:44"
   teiginio_tipas: faktas

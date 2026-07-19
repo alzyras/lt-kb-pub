@@ -107,7 +107,11 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
     tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo
     bei prekybos sutartį, garantuodami kryžiuočiams savo krašte
     visišką prekybos laisvę.
-  citata_rodoma: "Gegužės 26 d. jie pasižadėjo laiky­\ntis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo\nbei prekybos sutartį, garantuodami kryžiuočiams savo krašte\nvisišką prekybos laisvę."
+  citata_rodoma: |
+    Gegužės 26 d. jie pasižadėjo laiky­
+    tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo
+    bei prekybos sutartį, garantuodami kryžiuočiams savo krašte
+    visišką prekybos laisvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

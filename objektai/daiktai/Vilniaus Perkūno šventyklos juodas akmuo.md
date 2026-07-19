@@ -98,7 +98,14 @@ Nenurodyta
     seniausių tautos stabų, kurį iš Rytų buvo, atsigabenę Tautos Tė­
     vai. Todėl jo išvaizda, tai yra kūno sudėjimas, galėjo būti orien­
     talistinis.
-  citata_rodoma: "Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man\natrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies\ndievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus\nAntonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­\ntvaras“."
+  citata_rodoma: |
+    Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
+    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
+    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man
+    atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies
+    dievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus
+    Antonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­
+    tvaras“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

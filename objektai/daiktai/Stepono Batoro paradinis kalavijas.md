@@ -100,7 +100,11 @@ Nenurodyta
     išaugęs pavojus vertė sudaryti Liublino
     uniją (1569 m.) su Lenkija Lietuvai
     nepalankiomis sąlygomis.
-  citata_rodoma: "Lietuvos ir Lenkijos valdovo Stepono Batoro pa-\nradinis kalavijas, pagamintas pergalingoms Lietuvių ir jų\nsąjungininkų kampanijoms Maskvos žemėse Livonijos karo\nmetu (1558-1582) atminti."
+  citata_rodoma: |
+    Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
+    radinis kalavijas, pagamintas pergalingoms Lietuvių ir jų
+    sąjungininkų kampanijoms Maskvos žemėse Livonijos karo
+    metu (1558-1582) atminti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

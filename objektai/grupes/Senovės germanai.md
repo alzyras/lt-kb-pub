@@ -91,7 +91,12 @@ Narbutas rašė, kad senovės germanai Herta vadino Motiną žemę.
     kiteriška jausmų jėga; iš jų ne viena apdainuoja deivės Mildos
     grožį. Bet kai kas painioja šią patrauklią dievybę su deive Lie­
     tuva.
-  citata_rodoma: "Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik\nkiekvienas savitai.\nSenovės germanai ją vadino H erta, tai yra Motina žeme.\nTam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas\nčerkesų ir kum anų totorius12 13."
+  citata_rodoma: |
+    Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik
+    kiekvienas savitai.
+    Senovės germanai ją vadino H erta, tai yra Motina žeme.
+    Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
+    čerkesų ir kum anų totorius12 13.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

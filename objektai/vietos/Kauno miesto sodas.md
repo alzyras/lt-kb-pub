@@ -69,7 +69,11 @@ media_all_json: |-
     tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
     pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
     lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
-  citata_rodoma: "1972 m. gegužės 14 d. devyniolikme-\ntis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, \npats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-\nlė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė."
+  citata_rodoma: |
+    1972 m. gegužės 14 d. devyniolikme-
+    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
+    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
+    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

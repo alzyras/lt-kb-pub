@@ -65,7 +65,15 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
     Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
     viename lauke ir 25 iš jų nukovė.
     241 (234).
-  citata_rodoma: "Todėl brolis Liudvikas iš Libencelės ir brolis\nMarkvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė\nviename lauke ir 25 iš jų nukovė.\n\n\n\n\n               241 (234)."
+  citata_rodoma: |
+    Todėl brolis Liudvikas iš Libencelės ir brolis
+    Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
+    viename lauke ir 25 iš jų nukovė.
+
+
+
+
+                   241 (234).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

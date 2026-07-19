@@ -70,7 +70,10 @@ Antanas Tovianskis siekė tribunolo vicemaršalo posto.
     Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43]. 1759 m. jis
     pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
     posto [57].
-  citata_rodoma: "1759 m. jis\npranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo\nposto [57]."
+  citata_rodoma: |
+    1759 m. jis
+    pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
+    posto [57].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

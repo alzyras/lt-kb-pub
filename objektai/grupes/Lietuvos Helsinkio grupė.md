@@ -156,7 +156,8 @@ media_all_json: |-
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: "poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę"
+  citata_rodoma: |
+    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -177,7 +178,14 @@ media_all_json: |-
     tinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
     grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
     per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
-  citata_rodoma: "Karolis Garuckas, fizi-\nkas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, \npoetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę \nryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-\ntinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio \ngrupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė \nper 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje."
+  citata_rodoma: |
+    Karolis Garuckas, fizi-
+    kas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė,
+    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
+    ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
+    tinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
+    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
+    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -197,7 +205,9 @@ media_all_json: |-
     vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
     1976
     susikuria Helsinkio grupė.
-  citata_rodoma: "1976\t\nsusikuria Helsinkio grupė."
+  citata_rodoma: |
+    1976
+    susikuria Helsinkio grupė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

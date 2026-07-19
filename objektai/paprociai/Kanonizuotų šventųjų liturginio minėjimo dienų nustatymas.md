@@ -107,12 +107,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
+    Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
 
       1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą
     Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
     p. 446; Ptol. p. 1240).
-  citata_rodoma: "111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą\n\n  1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą\nPetrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.\np. 446; Ptol. p. 1240)."
+  citata_rodoma: |
+    Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
+
+      1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą
+    Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
+    p. 446; Ptol. p. 1240).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -125,12 +130,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
+    Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
 
       1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus
     Roberto brolį iš mažesniųjų brolių ordino,  ir liepė švęsti jo gimimą penktą dieną po
     žolinės (Mart. p. 449).
-  citata_rodoma: "119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą\n\n  1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus\nRoberto brolį iš mažesniųjų brolių ordino,  ir liepė švęsti jo gimimą penktą dieną po\nžolinės (Mart. p. 449)."
+  citata_rodoma: |
+    Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
+
+      1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus
+    Roberto brolį iš mažesniųjų brolių ordino,  ir liepė švęsti jo gimimą penktą dieną po
+    žolinės (Mart. p. 449).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

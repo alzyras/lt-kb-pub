@@ -82,7 +82,10 @@ Nenurodyta
     koji lietuvių partija. Dėl tos giminės nesantaikos 1263 met. ir
     padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
     nežuvo.
-  citata_rodoma: "Dėl tos giminės nesantaikos 1263 met. ir\npadėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas\nnežuvo."
+  citata_rodoma: |
+    Dėl tos giminės nesantaikos 1263 met. ir
+    padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
+    nežuvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

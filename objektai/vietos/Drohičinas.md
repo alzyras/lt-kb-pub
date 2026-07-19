@@ -337,7 +337,12 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
     tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
     timis galį taikos ir nesilaikyti^1 ).
-  citata_rodoma: "O Vokiečiai apsiėmė tik su\nkrikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­\nkovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­\ntis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­\ntimis galį taikos ir nesilaikyti^1 )."
+  citata_rodoma: |
+    O Vokiečiai apsiėmė tik su
+    krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
+    kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
+    tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
+    timis galį taikos ir nesilaikyti^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -360,7 +365,13 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
     ir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis
     paliko jau didelę valstybę su aiškiai nustatyta politikos linija.
-  citata_rodoma: "Vytenis taip\npat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-\nrias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),\nprijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną\nir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis\npaliko jau didelę valstybę su aiškiai nustatyta politikos linija."
+  citata_rodoma: |
+    Vytenis taip
+    pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-
+    rias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),
+    prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
+    ir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis
+    paliko jau didelę valstybę su aiškiai nustatyta politikos linija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -386,7 +397,17 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
     nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
     kiolika dienų teplėšė Lietuvą.
-  citata_rodoma: "); kitais metais\nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę\nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir\nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,\nnet iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­\nje, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­\nnai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­\nkiolika dienų teplėšė Lietuvą."
+  citata_rodoma: |
+    ); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­
+    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
+    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
+    kiolika dienų teplėšė Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -412,7 +433,20 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
-  citata_rodoma: "112.\nI1l\n\n## Puslapis 128\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvyskupui, iškilmingu aktu dovanodamas kunigaikštišką \nTauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra- \nvos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius \nDrohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­\nkamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­\nteko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos \nistorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė."
+  citata_rodoma: |
+    112.
+    I1l
+
+    ## Puslapis 128
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
+    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
+    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
+    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
+    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -430,7 +464,9 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     Jogailą. Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
     tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
     išvyko į Drohičiną.
-  citata_rodoma: "Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas\nišvyko į Drohičiną."
+  citata_rodoma: |
+    Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
+    išvyko į Drohičiną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -519,7 +555,19 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     lai palikti Kantautą bent trejus metus Žemaičių seniū­
     nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
     gaikščiui Kazimierui.
-  citata_rodoma: "O paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės."
+  citata_rodoma: |
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

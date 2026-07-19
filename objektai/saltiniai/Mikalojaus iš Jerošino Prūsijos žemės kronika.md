@@ -132,7 +132,10 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
     3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
     redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
     laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
-  citata_rodoma: "Iš šio vertimo Dusburgiečio\nkronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.\n  Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J."
+  citata_rodoma: |
+    Iš šio vertimo Dusburgiečio
+    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
+      Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

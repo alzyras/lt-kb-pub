@@ -113,7 +113,19 @@ Nenurodyta
     tą mažas lietuvių lengvųjų raitelių būrys, įžygiavęs į
     Lenčicos kraštą, netikėtai užpuolė Lenčicos miestą ir
     bemaž pirmu antpuoliu jį užėmė.
-  citata_rodoma: "Vargu ar galima patikėti, kad per\ntokį trumpą laiką po Šventaragio mirties (tai yra vos\nper dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­\ndžiais jaunikaičiais, bet ir vyrais, galinčiais valstybę\nvaldyti. Valdovo sūnus ar seserėnas Traidenis, pačiam\nGiliginui dar esant gyvam, išsivedė sutelkęs ir apgink­\nlavęs asmeniškomis lėšomis trisdešimties tūkstančių\nkariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­\nmenės jis nusiaubė Mazoviją, o su likusiais dviem treč­\ndaliais— Kulmo žemę. Po atkaklios apsiausties užėmęs\nBirgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­\nvė pilį."
+  citata_rodoma: |
+    Vargu ar galima patikėti, kad per
+    tokį trumpą laiką po Šventaragio mirties (tai yra vos
+    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
+    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
+    valdyti. Valdovo sūnus ar seserėnas Traidenis, pačiam
+    Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink­
+    lavęs asmeniškomis lėšomis trisdešimties tūkstančių
+    kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­
+    menės jis nusiaubė Mazoviją, o su likusiais dviem treč­
+    daliais— Kulmo žemę. Po atkaklios apsiausties užėmęs
+    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
+    vė pilį.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

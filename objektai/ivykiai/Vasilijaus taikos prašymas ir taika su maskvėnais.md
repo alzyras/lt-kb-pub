@@ -118,7 +118,23 @@ Nenurodyta
     su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių
     įgaliojimų turinčius legatus, jeigu karalius sutinkąs
     daugiau nebelieti krikščionių kraujo.
-  citata_rodoma: "Štai todėl Jonui Sapiegai, val­\ndančiam karaliaus vardu Vi-\nT a ik a  su  m a sk v ė n a is\ntebską, buvo pavesta susitar­\nti su kunigaikščio Vasilijaus\npasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip. Ir\nviena, ir kita šalis be jokių išlygų paleisianti į laisvę\nbelaisvius, pirmiausia tuos, kurie paimti prie Vedro-\nšos. Pilys bus atstatomos ta tvarka, kuri sužymėta anks­\nčiau sudarytoje sutartyje. Nedelsiant turi būti grąžinta\nkaraliui tai, ką Mykolas Glinskis esąs užėmęs kara­\nliaus valdose ar kaip savo tėvoniją, ar kaip Lietuvos\ndidžiųjų kunigaikščių beneficiją ar pagaliau jėga už­\ngrobęs ir įkurdinęs ten savo įgulas, o jis pats privalo\nlikti Maskvos kunigaikštystėje kaip tremtinys, neturė­\ndamas jokios vilties kada sugrįžti."
+  citata_rodoma: |
+    Štai todėl Jonui Sapiegai, val­
+    dančiam karaliaus vardu Vi-
+    T a ik a  su  m a sk v ė n a is
+    tebską, buvo pavesta susitar­
+    ti su kunigaikščio Vasilijaus
+    pasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip. Ir
+    viena, ir kita šalis be jokių išlygų paleisianti į laisvę
+    belaisvius, pirmiausia tuos, kurie paimti prie Vedro-
+    šos. Pilys bus atstatomos ta tvarka, kuri sužymėta anks­
+    čiau sudarytoje sutartyje. Nedelsiant turi būti grąžinta
+    karaliui tai, ką Mykolas Glinskis esąs užėmęs kara­
+    liaus valdose ar kaip savo tėvoniją, ar kaip Lietuvos
+    didžiųjų kunigaikščių beneficiją ar pagaliau jėga už­
+    grobęs ir įkurdinęs ten savo įgulas, o jis pats privalo
+    likti Maskvos kunigaikštystėje kaip tremtinys, neturė­
+    damas jokios vilties kada sugrįžti.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

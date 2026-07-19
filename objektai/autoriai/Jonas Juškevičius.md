@@ -72,7 +72,11 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
     ratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką
     gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiš-
     komis raidėmis.
-  citata_rodoma: "Kai Jonas Juškevičius 1864 m. pasiūlė ku-\nratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką\ngramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiš-\nkomis raidėmis."
+  citata_rodoma: |
+    Kai Jonas Juškevičius 1864 m. pasiūlė ku-
+    ratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką
+    gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiš-
+    komis raidėmis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

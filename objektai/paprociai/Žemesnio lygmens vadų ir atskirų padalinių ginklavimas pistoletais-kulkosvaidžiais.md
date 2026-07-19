@@ -78,7 +78,8 @@ Nenurodyta
     vai bei kulkosvaidžiai, nors buvo įsitikinta pistoletų-kulkosvaidžių efektyvumu ten, kur
     ugnies mūšis vyksta nedideliais atstumais - mieste, miške, valant tranšėjas. Pistoletais-
     kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.
-  citata_rodoma: "„Kadangi pistoletinis šovinys yra daug lengvesnis už šautuvinį, karys, ginkluotas pistoletu-kulkosvaidžiu, galėjo su savimi neštis didelę šovinių atsargą, tiesa, efektyvus pistoletų-kulkosvaidžių šaudymo nuotolis gerokai mažesnis už šautuvo, todėl pagrindiniais pėstininkų ginklais iki Antrojo pasaulinio karo pabaigos liko šautuvai bei kulkosvaidžiai, nors buvo įsitikinta pistoletų-kulkosvaidžių efektyvumu ten, kur ugnies mūšis vyksta nedideliais atstumais - mieste, miške, valant tranšėjas. Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.“"
+  citata_rodoma: |
+    „Kadangi pistoletinis šovinys yra daug lengvesnis už šautuvinį, karys, ginkluotas pistoletu-kulkosvaidžiu, galėjo su savimi neštis didelę šovinių atsargą, tiesa, efektyvus pistoletų-kulkosvaidžių šaudymo nuotolis gerokai mažesnis už šautuvo, todėl pagrindiniais pėstininkų ginklais iki Antrojo pasaulinio karo pabaigos liko šautuvai bei kulkosvaidžiai, nors buvo įsitikinta pistoletų-kulkosvaidžių efektyvumu ten, kur ugnies mūšis vyksta nedideliais atstumais - mieste, miške, valant tranšėjas. Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

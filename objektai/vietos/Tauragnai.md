@@ -111,7 +111,9 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     tuvių kariais toliau persekiojo bolševi-
     kus. Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
-  citata_rodoma: "Birželio 3 d. buvo užimti Daugailiai,\nTauragnai, birželio 4 d. Paberžė."
+  citata_rodoma: |
+    Birželio 3 d. buvo užimti Daugailiai,
+    Tauragnai, birželio 4 d. Paberžė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +135,14 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     Ten jis rado jau prieš pusvalandį
     Uteną pasiekusias Zechau ir Musteikio
     kolonos dalis.
-  citata_rodoma: "Dalį raiti-\nninkų pasiuntęs Tauragnų kryptimi,\nsu likusiais vyko į Uteną.\n\nTen jis rado jau prieš pusvalandį\nUteną pasiekusias Zechau ir Musteikio\nkolonos dalis."
+  citata_rodoma: |
+    Dalį raiti-
+    ninkų pasiuntęs Tauragnų kryptimi,
+    su likusiais vyko į Uteną.
+
+    Ten jis rado jau prieš pusvalandį
+    Uteną pasiekusias Zechau ir Musteikio
+    kolonos dalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -123,7 +123,23 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
     tos, buvo pačioje Lietuvoje, prie
     Kauno, ant Nevėžio kranto, .būtent
     toj vietoj, kur dabar Romainiai.
-  citata_rodoma: "Prie viso\nto reikia pridurti, kad graikų apei­\ngų tikėjimo plitimas tuo metu lietu­\nvių kalbai sudavė galutinį smūgį.\n8\nLietuvos istorijoje yra žinomos šven­\ntos vietovės, senovės lietuvių vadin­\ntos Romuvomis [ramovėmis], kur \nvidur šventų girių būdavo garbina­\nmas Perkūnas ir kur gyveno vyriau­\nsiasis jų vaidila Krivių Krivaitis. Tas \nRomuvas sunaikino kryžiuočiai, už­\nėmę Prūsiją; tačiau nežinia, ar kitos, \nar tos pačios iš anos žemės perkel­\ntos, buvo pačioje Lietuvoje, prie \nKauno, ant Nevėžio kranto, ."
+  citata_rodoma: |
+    Prie viso
+    to reikia pridurti, kad graikų apei­
+    gų tikėjimo plitimas tuo metu lietu­
+    vių kalbai sudavė galutinį smūgį.
+    8
+    Lietuvos istorijoje yra žinomos šven­
+    tos vietovės, senovės lietuvių vadin­
+    tos Romuvomis [ramovėmis], kur
+    vidur šventų girių būdavo garbina­
+    mas Perkūnas ir kur gyveno vyriau­
+    siasis jų vaidila Krivių Krivaitis. Tas
+    Romuvas sunaikino kryžiuočiai, už­
+    ėmę Prūsiją; tačiau nežinia, ar kitos,
+    ar tos pačios iš anos žemės perkel­
+    tos, buvo pačioje Lietuvoje, prie
+    Kauno, ant Nevėžio kranto, .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

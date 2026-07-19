@@ -79,7 +79,12 @@ media_all_json: |-
     Spudas, Pūtvės lietuvis 219
     Spuler B. 317, 324
     Srokowski St.
-  citata_rodoma: "249\nSpycinas, proistorikas 159\nSpytekas iš Melsztyno 283, 312,\n317, 318\nSpliet H."
+  citata_rodoma: |
+    249
+    Spycinas, proistorikas 159
+    Spytekas iš Melsztyno 283, 312,
+    317, 318
+    Spliet H.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

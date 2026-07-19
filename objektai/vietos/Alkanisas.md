@@ -76,7 +76,21 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
     teisininkas, pagaliau buvęs LDK
     miesto reikalų referendorius ir Vil­
     niaus katedros kustodas.
-  citata_rodoma: "Trejybės prieglaudą ir ją geriau aprūpinti pave­\ndė kelissyk testamente minimoms seserims ir respublikai, o \nturtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą, \natidavė Vilniaus jėzuitų kolegijai. Tačiau šio karaliaus val­\ndymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­\nžiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas-\n50\nPetrus Maureus Royzius, gimęs Al- \ncagnizo [ Alkaniso] mieste Aragono- \nje, kilęs iš ispanų Ruiz de Moros gi­\nminės, įvairiomis bylomis išgarsėjęs \nteisininkas, pagaliau buvęs LDK \nmiesto reikalų referendorius ir Vil­\nniaus katedros kustodas."
+  citata_rodoma: |
+    Trejybės prieglaudą ir ją geriau aprūpinti pave­
+    dė kelissyk testamente minimoms seserims ir respublikai, o
+    turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
+    atidavė Vilniaus jėzuitų kolegijai. Tačiau šio karaliaus val­
+    dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­
+    žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas-
+    50
+    Petrus Maureus Royzius, gimęs Al-
+    cagnizo [ Alkaniso] mieste Aragono-
+    je, kilęs iš ispanų Ruiz de Moros gi­
+    minės, įvairiomis bylomis išgarsėjęs
+    teisininkas, pagaliau buvęs LDK
+    miesto reikalų referendorius ir Vil­
+    niaus katedros kustodas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

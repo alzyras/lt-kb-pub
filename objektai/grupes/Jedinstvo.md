@@ -141,7 +141,11 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
     Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
     mui, rimtesnės įtakos neturėjo.
-  citata_rodoma: "Mažuma komunistų drauge su prosovietine\norganizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,\nMaskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-\nmui, rimtesnės įtakos neturėjo."
+  citata_rodoma: |
+    Mažuma komunistų drauge su prosovietine
+    organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
+    Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
+    mui, rimtesnės įtakos neturėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -171,7 +175,15 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
     platformos), mitingo metu mėgino
     užimti AT rūmus.
-  citata_rodoma: "1991 m.\nsausio 8 d. „penktoji kolona“, vadovaujama\nprosovietinės organizacijos „Jedinstvo“\n\nir Lietuvos komunistų partijos (ant ssKP\n\nplatformos), mitingo metu mėgino\nužimti AT rūmus."
+  citata_rodoma: |
+    1991 m.
+    sausio 8 d. „penktoji kolona“, vadovaujama
+    prosovietinės organizacijos „Jedinstvo“
+
+    ir Lietuvos komunistų partijos (ant ssKP
+
+    platformos), mitingo metu mėgino
+    užimti AT rūmus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -192,7 +204,14 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     darbininkai. Perversme turėjo aktyviai dalyvauti ir sovietų ka-
     riuomenė. 1991 m. pradžioje iš Pskovo į Lietuvą buvo perkelti
     specialios paskirties desantininkų daliniai.
-  citata_rodoma: "Jį įgyvendinti turėjo prosovietiškos\nLietuvos komunistų partijos (nuo sovietų ko-\nmunistų partijos neatsiskyrusios partijos da-\nlies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“\n(Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų\ndarbininkai. Perversme turėjo aktyviai dalyvauti ir sovietų ka-\nriuomenė. 1991 m."
+  citata_rodoma: |
+    Jį įgyvendinti turėjo prosovietiškos
+    Lietuvos komunistų partijos (nuo sovietų ko-
+    munistų partijos neatsiskyrusios partijos da-
+    lies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“
+    (Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų
+    darbininkai. Perversme turėjo aktyviai dalyvauti ir sovietų ka-
+    riuomenė. 1991 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -213,7 +232,15 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     „Jedinstvo“. Yra duomenų, kad sausio 13 d.
     naktį kariniuose veiksmuose iš viso daly-
     vavo apie 900 sovietinių kareivių.
-  citata_rodoma: "Apie 400 „raudonraiš-\nčių“, vadovaujamų „Nacionalinio gelbė-\njimo komiteto“ lyderių komunistų Juozo\nJermalavičiaus, Mykolo Burokevičiaus\nir Valerijaus Ivanovo organizacijos\n„Jedinstvo“. Yra duomenų, kad sausio 13 d.\nnaktį kariniuose veiksmuose iš viso daly-\nvavo apie 900 sovietinių kareivių."
+  citata_rodoma: |
+    Apie 400 „raudonraiš-
+    čių“, vadovaujamų „Nacionalinio gelbė-
+    jimo komiteto“ lyderių komunistų Juozo
+    Jermalavičiaus, Mykolo Burokevičiaus
+    ir Valerijaus Ivanovo organizacijos
+    „Jedinstvo“. Yra duomenų, kad sausio 13 d.
+    naktį kariniuose veiksmuose iš viso daly-
+    vavo apie 900 sovietinių kareivių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

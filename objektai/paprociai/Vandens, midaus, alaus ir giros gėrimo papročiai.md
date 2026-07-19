@@ -77,7 +77,10 @@ Nenurodyta
     Alų ir midų iš liepinio medaus darė savotiškai^367 , kasė į žemę bosus ir tenai laikė kelias dešimtis metų,
         kurio ir stiprumas nuo jo žemėj būsenos buvo lykuojamas; alų dar šiandien tūlose vietose senu
         įpročiu tebdairo, o sulą iš beržų ir klevų tebleidžia.
-  citata_rodoma: "Alų ir midų iš liepinio medaus darė savotiškai^367 , kasė į žemę bosus ir tenai laikė kelias dešimtis metų,\nkurio ir stiprumas nuo jo žemėj būsenos buvo lykuojamas; alų dar šiandien tūlose vietose senu\nįpročiu tebdairo, o sulą iš beržų ir klevų tebleidžia."
+  citata_rodoma: |
+    Alų ir midų iš liepinio medaus darė savotiškai^367 , kasė į žemę bosus ir tenai laikė kelias dešimtis metų,
+    kurio ir stiprumas nuo jo žemėj būsenos buvo lykuojamas; alų dar šiandien tūlose vietose senu
+    įpročiu tebdairo, o sulą iš beržų ir klevų tebleidžia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -93,7 +96,10 @@ Nenurodyta
     Gėrime taip pat buvo vidutiniais, gėrė paprastai vandenį, midų, alų, beržinę ar klevinę sulą ir
         girą iš kaušų ir ragų paauksytų, vadinamų taurėmis ir tauragėmis. Nuo ko, kaip sakiau, iki šiai
         dienai kiekvieną geriamą stotkelį, medžio, molio ar skardos, senu įpročiu taurele tebvadina.
-  citata_rodoma: "Gėrime taip pat buvo vidutiniais, gėrė paprastai vandenį, midų, alų, beržinę ar klevinę sulą ir\ngirą iš kaušų ir ragų paauksytų, vadinamų taurėmis ir tauragėmis. Nuo ko, kaip sakiau, iki šiai\ndienai kiekvieną geriamą stotkelį, medžio, molio ar skardos, senu įpročiu taurele tebvadina."
+  citata_rodoma: |
+    Gėrime taip pat buvo vidutiniais, gėrė paprastai vandenį, midų, alų, beržinę ar klevinę sulą ir
+    girą iš kaušų ir ragų paauksytų, vadinamų taurėmis ir tauragėmis. Nuo ko, kaip sakiau, iki šiai
+    dienai kiekvieną geriamą stotkelį, medžio, molio ar skardos, senu įpročiu taurele tebvadina.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

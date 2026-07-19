@@ -59,7 +59,12 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
     „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į
     žvalgybą, jiems vadovavo vyresnysis puskarininkis. Žvalgyba susi-
     tiko su keturiasdešimt lenkų raitelių.
-  citata_rodoma: "MIRTIES AKIVAIZDOJE\n\nViršila Antanas Šukys aprašo vieną nutikimą žvalgyboje.\n„Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į\nžvalgybą, jiems vadovavo vyresnysis puskarininkis."
+  citata_rodoma: |
+    MIRTIES AKIVAIZDOJE
+
+    Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje.
+    „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į
+    žvalgybą, jiems vadovavo vyresnysis puskarininkis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

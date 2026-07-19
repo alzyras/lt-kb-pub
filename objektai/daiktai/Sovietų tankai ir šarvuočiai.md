@@ -153,7 +153,8 @@ Nenurodyta
     sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
     vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
-  citata_rodoma: "pateko po tanko vikšrais ir mirė ligoninėje."
+  citata_rodoma: |
+    pateko po tanko vikšrais ir mirė ligoninėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -175,7 +176,9 @@ Nenurodyta
     pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
     mą. Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
     vuočiai.
-  citata_rodoma: "Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-\nvuočiai."
+  citata_rodoma: |
+    Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
+    vuočiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -195,7 +198,8 @@ Nenurodyta
     12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
     Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
     daugiatūkstantinė taikių Lietuvos gyventojų minia.
-  citata_rodoma: "12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei"
+  citata_rodoma: |
+    12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

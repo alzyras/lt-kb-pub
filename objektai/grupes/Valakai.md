@@ -140,7 +140,11 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
     būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
     čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
     kariuomenė buvo internacionalinė.
-  citata_rodoma: "Tuo\nbūdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­\nčiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama\nkariuomenė buvo internacionalinė."
+  citata_rodoma: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

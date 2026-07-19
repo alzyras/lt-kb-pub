@@ -75,7 +75,11 @@ Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg.
     (^11) **Plg. O. Stavenhagen :** **_Livland und die Schlacht bei Tannenberg_** **, Bal­
     tische Monatschrift, t. 54, 1902, 235-265, 310-336, 365-381 p.**
     (^12) **St.
-  citata_rodoma: "Atskirų dalinių\n(^8) **M. Ljubavskij :** **_Litovsko-Russkij sejm,_** **Maskva 1900, 355-360 p. Plg.\nJ. Jakubovskis :** **_Tautybių santykiai Lietuvoje prieš Liublino uniją_** **, Kaunas\n1921, 11 p."
+  citata_rodoma: |
+    Atskirų dalinių
+    (^8) **M. Ljubavskij :** **_Litovsko-Russkij sejm,_** **Maskva 1900, 355-360 p. Plg.
+    J. Jakubovskis :** **_Tautybių santykiai Lietuvoje prieš Liublino uniją_** **, Kaunas
+    1921, 11 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

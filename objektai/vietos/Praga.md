@@ -224,7 +224,12 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     cus dux Lithuaniae », savo dienas baigė Pragoje (1380).
     Kryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283
     pradėtą kovą.
-  citata_rodoma: "Ilgą\nlaiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­\ncus dux Lithuaniae », savo dienas baigė Pragoje (1380).\nKryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283\npradėtą kovą."
+  citata_rodoma: |
+    Ilgą
+    laiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­
+    cus dux Lithuaniae », savo dienas baigė Pragoje (1380).
+    Kryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283
+    pradėtą kovą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -247,7 +252,13 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     tikslu atnaujino ir praplatino Krokuvos universitetą (1400).
     Taip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos
     santykius su Vok.
-  citata_rodoma: "Lietuviams kunigams rengti\nkaralienė Jadvyga įsteigė Pragoję bendrabutį studentams, ku­\nrie mokėsi teologijos Pragos universitete, o Jogaila tuo pat\ntikslu atnaujino ir praplatino Krokuvos universitetą (1400).\nTaip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos\nsantykius su Vok."
+  citata_rodoma: |
+    Lietuviams kunigams rengti
+    karalienė Jadvyga įsteigė Pragoję bendrabutį studentams, ku­
+    rie mokėsi teologijos Pragos universitete, o Jogaila tuo pat
+    tikslu atnaujino ir praplatino Krokuvos universitetą (1400).
+    Taip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos
+    santykius su Vok.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -289,7 +300,11 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
     savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
     linkybėms, Vytautas nuo to sumanymo atsisakė.
-  citata_rodoma: "Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų\npasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą\nsavo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­\nlinkybėms, Vytautas nuo to sumanymo atsisakė."
+  citata_rodoma: |
+    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
+    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
+    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
+    linkybėms, Vytautas nuo to sumanymo atsisakė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

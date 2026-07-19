@@ -91,7 +91,11 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
     tik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisvei-
     kindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi
     sutvarkyti laiko stoka.
-  citata_rodoma: "Po triukšmingų puotų jis išvyko iš Vilniaus,\ntik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisvei-\nkindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi\nsutvarkyti laiko stoka."
+  citata_rodoma: |
+    Po triukšmingų puotų jis išvyko iš Vilniaus,
+    tik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisvei-
+    kindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi
+    sutvarkyti laiko stoka.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -113,7 +117,11 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
     kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
     kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
     mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
-  citata_rodoma: "Bet tai tebuvo tik diplomatiškas atsi-\nkalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,\nkad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-\nmene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą."
+  citata_rodoma: |
+    Bet tai tebuvo tik diplomatiškas atsi-
+    kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
+    kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
+    mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -107,7 +107,16 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
     Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
     tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
-  citata_rodoma: "Sme-\ntona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta \nuž etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: \nKauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko \napskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), \nbe to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti \nir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais). \nApskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-\ntuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti."
+  citata_rodoma: |
+    Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
+    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

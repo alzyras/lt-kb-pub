@@ -74,7 +74,8 @@ Ritualinė elgetos palaiminimo formulė.
     nimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki
     nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-
     je užsilaiko.
-  citata_rodoma: "Kitas, įėjęs į grįčią, pasako pagarbinimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčioje užsilaiko."
+  citata_rodoma: |
+    Kitas, įėjęs į grįčią, pasako pagarbinimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčioje užsilaiko.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

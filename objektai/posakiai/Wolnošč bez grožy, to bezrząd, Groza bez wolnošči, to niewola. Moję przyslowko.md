@@ -72,7 +72,14 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
     (toliau — PEĮ)). Orig.: „Prawda jest želazną
     w historji koniecznošcią i nietrzeba mniewač,
     aby byla kiedy szkodliwą. Stara gawenda“.
-  citata_rodoma: "Epigrafas, kuriuo\n  autorius\n  papildė tekstą,\n  rengdamas antrąjį leidimą (PEĮ. Be numera­\n  cijos). Orig.: ,,Wolnošč bez grožy, to bezrząd, /\n  Groza bez wolnošči, to niewola. Moję przys-\n  lowko“."
+  citata_rodoma: |
+    Epigrafas, kuriuo
+      autorius
+      papildė tekstą,
+      rengdamas antrąjį leidimą (PEĮ. Be numera­
+      cijos). Orig.: ,,Wolnošč bez grožy, to bezrząd, /
+      Groza bez wolnošči, to niewola. Moję przys-
+      lowko“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

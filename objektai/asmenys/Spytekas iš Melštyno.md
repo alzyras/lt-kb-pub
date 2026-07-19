@@ -66,7 +66,16 @@ media_all_json: |-
     pavienių lenkų riterių, tokių kaip Spytekas
     iš Melštyno, Krokuvos vaivada ir Podolės
     valdytojas bei kiti.
-  citata_rodoma: "Pagrindinė Vytauto kariuomenė iš\nVilniaus išvyko apie gegužės 18 d. Vytautas\nvisą birželį telkė karius (savo lietuvius,\njam pavaldžių rusų kunigaikščių karius ir\nkitus) stovykloje prie Kijevo. Čia buvo ir\nTochtamišo totoriai (keli tūkstančiai), 400\npavienių lenkų riterių, tokių kaip Spytekas\niš Melštyno, Krokuvos vaivada ir Podolės\nvaldytojas bei kiti."
+  citata_rodoma: |
+    Pagrindinė Vytauto kariuomenė iš
+    Vilniaus išvyko apie gegužės 18 d. Vytautas
+    visą birželį telkė karius (savo lietuvius,
+    jam pavaldžių rusų kunigaikščių karius ir
+    kitus) stovykloje prie Kijevo. Čia buvo ir
+    Tochtamišo totoriai (keli tūkstančiai), 400
+    pavienių lenkų riterių, tokių kaip Spytekas
+    iš Melštyno, Krokuvos vaivada ir Podolės
+    valdytojas bei kiti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

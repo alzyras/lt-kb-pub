@@ -206,7 +206,12 @@ media_all_json: |-
     imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
     prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
     lių bendriją vaizduojančią Strasbūro freską.
-  citata_rodoma: "G. Camblako ekume-\nninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad\nimtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis\nprie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-\nlių bendriją vaizduojančią Strasbūro freską."
+  citata_rodoma: |
+    G. Camblako ekume-
+    ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
+    imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
+    prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
+    lių bendriją vaizduojančią Strasbūro freską.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -226,7 +231,13 @@ media_all_json: |-
     Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai
     Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
     į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
-  citata_rodoma: "Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII\ndelegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais\nginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą\nKonstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai\nJonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas\nį Lietuvą, pagal Jogailos ir Vytauto prašymą^31."
+  citata_rodoma: |
+    Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
+    delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais
+    ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą
+    Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai
+    Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
+    į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -275,7 +286,28 @@ media_all_json: |-
     bus, kurie susiję su mitologija5.
     4 Baptismus Ruthenorum, cum Bulla Alexandri Papae, de non
     rebaptisandis Ruthenis.
-  citata_rodoma: "Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­\njoje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte\napie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­\nsirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik\natverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­\nmas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­\nnyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­\nmą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą\nkartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį\n398\n\n## Puslapis 398\n\npatarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;\njis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­\nka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­\nčioje."
+  citata_rodoma: |
+    Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
+    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
+    apie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­
+    sirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik
+    atverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­
+    mas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­
+    nyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­
+    mą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą
+    kartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį
+    398
+
+    ## Puslapis 398
+
+    patarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;
+    jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
+    ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
+    čioje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

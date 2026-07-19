@@ -134,7 +134,16 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
     vo nukeliavęs ne toliau kaip iki dabartinio Kijevo. Galop
     jis taip baigia savo pasakojimą: „Apie toliausias Europos
     vietoves neturiu 'ką pasakyti.
-  citata_rodoma: "Bet turbūt\ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei\nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.\nKeliautojas tik sužinojo, kad jis renkamas prie Eridano\nupės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­\ngi kalba apie gintarą, randamą ten, kur Aldeskos upė\nįteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę\nlaiko pasakų išmone, tačiau mes, spręsdami iš senovės\n1 Lib."
+  citata_rodoma: |
+    Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+    Keliautojas tik sužinojo, kad jis renkamas prie Eridano
+    upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
+    gi kalba apie gintarą, randamą ten, kur Aldeskos upė
+    įteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę
+    laiko pasakų išmone, tačiau mes, spręsdami iš senovės
+    1 Lib.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -158,7 +167,15 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
     vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
     rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
     liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
-  citata_rodoma: "Dionyzas iš Charakso, imperatoriaus Oktaviano\nAugusto laikais aprašinėjęs pasaulį geografiškai, mini dvi\nupes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,\njungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be\nabejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­\ntojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­\nnės sutampa. Sis geografas pastarosios aukštupyje kuo\naiškiausiai apgyvendina gelonų tautą2."
+  citata_rodoma: |
+    Dionyzas iš Charakso, imperatoriaus Oktaviano
+    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
+    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
+    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
+    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
+    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
+    nės sutampa. Sis geografas pastarosios aukštupyje kuo
+    aiškiausiai apgyvendina gelonų tautą2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

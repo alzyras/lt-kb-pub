@@ -96,7 +96,9 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
     lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
     už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
     rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: "Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant\nJ. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus."
+  citata_rodoma: |
+    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
+    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

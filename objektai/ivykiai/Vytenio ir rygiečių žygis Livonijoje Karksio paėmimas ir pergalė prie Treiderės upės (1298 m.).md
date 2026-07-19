@@ -173,7 +173,20 @@ Nenurodyta
     toli Livonijos įlankos, magistras Brunonas nirtulingai
     juos užpuolė prie Treiderės upės, jau apsikrovusius
     grobiu.
-  citata_rodoma: "Vieną pulką atidavė rygie- \nčiams Nojermiulenui apsiaus­\nti ir aplinkiniams kaimams \nplėšti, Pagrindines jėgas Vytenis pats atvedė prie Kark- \nsio: po ryžtingos apsupties įsiveržė į sutvirtinimus, pa­\nėmė pilį, visi gynėjai buvo išžudyti, liko gyvi vos \nketuri riteriai, komtūro sauga ir šiek tiek vertingesnių \nbelaisvių. Po to nugalėtojai, paleisti pasiplėšti grobio, \nnusiaubė visas apylinkes, naikindami ugnimi ir kala­\nviju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­\ntoli Livonijos įlankos, magistras Brunonas nirtulingai \njuos užpuolė prie Treiderės upės, jau apsikrovusius \ngrobiu."
+  citata_rodoma: |
+    Vieną pulką atidavė rygie-
+    čiams Nojermiulenui apsiaus­
+    ti ir aplinkiniams kaimams
+    plėšti, Pagrindines jėgas Vytenis pats atvedė prie Kark-
+    sio: po ryžtingos apsupties įsiveržė į sutvirtinimus, pa­
+    ėmė pilį, visi gynėjai buvo išžudyti, liko gyvi vos
+    keturi riteriai, komtūro sauga ir šiek tiek vertingesnių
+    belaisvių. Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

@@ -77,7 +77,13 @@ Nenurodyta
     kyti Narvos pėstininkų pulko vado barono
     Dellingsgauzeno vadovaujamo dalinio
     puolimą.
-  citata_rodoma: "Kovo 27 d. ties\nSurviliškio valsčiaus Naujaberžės kaimu\nA. Mackevičiaus sukilėliams pavyko atlai-\nkyti Narvos pėstininkų pulko vado barono\nDellingsgauzeno vadovaujamo dalinio\npuolimą."
+  citata_rodoma: |
+    Kovo 27 d. ties
+    Surviliškio valsčiaus Naujaberžės kaimu
+    A. Mackevičiaus sukilėliams pavyko atlai-
+    kyti Narvos pėstininkų pulko vado barono
+    Dellingsgauzeno vadovaujamo dalinio
+    puolimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

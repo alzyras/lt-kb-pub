@@ -239,7 +239,13 @@ media_all_json: |-
     plačiai aprašo, kokių gudrybių tą­
     kart ėmėsi Kęstutis, puldamas Vil-
     nių.
-  citata_rodoma: "31\nStrijkovskis, 1.465, o juo sekda­\nmas ir K o j e 1  a v i č i u s, p. 361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių."
+  citata_rodoma: |
+    31
+    Strijkovskis, 1.465, o juo sekda­
+    mas ir K o j e 1  a v i č i u s, p. 361,
+    plačiai aprašo, kokių gudrybių tą­
+    kart ėmėsi Kęstutis, puldamas Vil-
+    nių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -94,7 +94,13 @@ Nenurodyta
     buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
     „baltiesiems“.
-  citata_rodoma: "Pogrindyje susikūrusi Lenkijos laikinoji tauti-\nnė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią. Vasario 1-ąją \natsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir \nbuvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-\nlumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė \n„baltiesiems“."
+  citata_rodoma: |
+    Pogrindyje susikūrusi Lenkijos laikinoji tauti-
+    nė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią. Vasario 1-ąją
+    atsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir
+    buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
+    lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
+    „baltiesiems“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

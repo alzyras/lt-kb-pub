@@ -133,7 +133,14 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
-  citata_rodoma: "1918 metų Vasario 16 Aktas\n1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-\nkos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti\nLietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs\nKaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,\nkiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip\npriimtą."
+  citata_rodoma: |
+    1918 metų Vasario 16 Aktas
+    1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-
+    kos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti
+    Lietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs
+    Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
+    kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
+    priimtą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +160,10 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
     11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
     skilo ir pati Taryba.
-  citata_rodoma: "Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio\n11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,\nskilo ir pati Taryba."
+  citata_rodoma: |
+    Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
+    11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
+    skilo ir pati Taryba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -174,7 +184,13 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     skilo ir pati Taryba. 1918 m. sausio pabaigoje, protestuodami prieš su-
     sitaikėlišką Tarybos politiką, radikalesni S. Kairys, Stanislovas Narutavi-
     čius, Jonas Vileišis ir M. Biržiška iš jos pasitraukė.
-  citata_rodoma: "Žinoma, Vokietijai ši rezoliucija praver-\ntė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias \nLietuvos Tarybos delegacija net nebuvo pakviesta.\nTačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio \n11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas, \nskilo ir pati Taryba. 1918 m."
+  citata_rodoma: |
+    Žinoma, Vokietijai ši rezoliucija praver-
+    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
+    Lietuvos Tarybos delegacija net nebuvo pakviesta.
+    Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
+    11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
+    skilo ir pati Taryba. 1918 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

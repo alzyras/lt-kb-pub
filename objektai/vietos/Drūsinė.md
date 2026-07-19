@@ -122,7 +122,10 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
     vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
     įvykdęs maldininko įžadus, tas pats valdovas sugrįžo į savo kraštą, palikęs Prūsijoje
     didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
-  citata_rodoma: "Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip\nįvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje\ndidelę kariuomenę, turėjusią baigti statyti Elbingo pilį."
+  citata_rodoma: |
+    Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
+    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje
+    didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

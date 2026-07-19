@@ -75,11 +75,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     paskui sušluostę gruzdinius^1299 numirėlio supylė į molio
-        indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
-        sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
-        padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
-        palaidotas.
-  citata_rodoma: "paskui sušluostę gruzdinius^1299 numirėlio supylė į molio\nindą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir\nsakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,\npadėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo\npalaidotas."
+    indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
+    sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
+    padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
+    palaidotas.
+  citata_rodoma: |
+    paskui sušluostę gruzdinius^1299 numirėlio supylė į molio
+    indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
+    sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
+    padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
+    palaidotas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

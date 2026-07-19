@@ -73,7 +73,8 @@ Juokaujanti formulė apie tariamai akmenimis prikrautą daiktą.
     „Niekaip
     kitaip,
     akmenų pridėta ir gana!“ dejuoja broliai.
-  citata_rodoma: "„Niekaip kitaip, akmenų pridėta ir gana!“ dejuoja broliai."
+  citata_rodoma: |
+    „Niekaip kitaip, akmenų pridėta ir gana!“ dejuoja broliai.
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

@@ -673,7 +673,12 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
     mas Lietuvoje virto nenutrūkstamu procesu.
-  citata_rodoma: "Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė \nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į \nVilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-\nmas Lietuvoje virto nenutrūkstamu procesu."
+  citata_rodoma: |
+    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
+    mas Lietuvoje virto nenutrūkstamu procesu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -695,7 +700,14 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: "su Radvilomis ėmė \nkonkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė \npirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką \njos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė \nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į \nVilnių ir atidavė besikuriančiam jėzuitų universitetui."
+  citata_rodoma: |
+    su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -715,7 +727,12 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     na kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­
     zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
     komisijos veikla.
-  citata_rodoma: "Aprašydamas šios Lietuvos aukštosios mo­\nkyklos raidą 1579-1803 m., daugelį jos istorijos įvykių jis verti­\nna kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­\nzuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės \nkomisijos veikla."
+  citata_rodoma: |
+    Aprašydamas šios Lietuvos aukštosios mo­
+    kyklos raidą 1579-1803 m., daugelį jos istorijos įvykių jis verti­
+    na kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­
+    zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
+    komisijos veikla.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -856,7 +873,16 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     1578 metais Karalius Steponas Batoras, šias funduotas mo­
     kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
     mijoms, o išskirtinai Krokuvos, prilygino.
-  citata_rodoma: "G) Apie kai kuriuos Akademijai ir\nValerijono bursai funduotus turtus\n•\n1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-\ntasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-\ndavo ir įsteigė įvairių mokslų viešąsias mokyklas.\n1578 metais Karalius Steponas Batoras, šias funduotas mo­\nkyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­\nmijoms, o išskirtinai Krokuvos, prilygino."
+  citata_rodoma: |
+    G) Apie kai kuriuos Akademijai ir
+    Valerijono bursai funduotus turtus
+    •
+    1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-
+    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
+    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
+    1578 metais Karalius Steponas Batoras, šias funduotas mo­
+    kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
+    mijoms, o išskirtinai Krokuvos, prilygino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -876,7 +902,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
     timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
     švietimo sistemą.
-  citata_rodoma: "pradėjo eiti pir-\nmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“. \nReikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus \nvyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-\ntimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino \nšvietimo sistemą."
+  citata_rodoma: |
+    pradėjo eiti pir-
+    mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
+    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
+    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
+    švietimo sistemą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -1067,7 +1099,14 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
     matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­
     čių pilkapi ų.
-  citata_rodoma: "Taip jų mokslas rado mora­\nlinę atramą. Po ketverto metų Žemaičių vyskupas Melchioras\nGiedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­\nmiečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­\nniško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­\nkai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis."
+  citata_rodoma: |
+    Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1089,7 +1128,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
     mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
     tose.
-  citata_rodoma: "Liaudis jų pamokymus priimdavo\nnuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­\nlų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,\nkai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu\ntriukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­\nžė. O tai, autoriaus žodžiais tariant, turėjo būti velnias."
+  citata_rodoma: |
+    Liaudis jų pamokymus priimdavo
+    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
+    lų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,
+    kai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu
+    triukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­
+    žė. O tai, autoriaus žodžiais tariant, turėjo būti velnias.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1115,7 +1160,17 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
     1 Principum viromm tumulis injiciunt omnes humum urtatim, et
     avide cupientes tumulos, quam maximos efficere (Herodotas).
-  citata_rodoma: "Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų."
+  citata_rodoma: |
+    Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1176,7 +1231,16 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     riją" išleido ne Akademija, turėjusi savo spaustuvę ir
     leidusi knygas, o Gdansko spaustuvininkas Jurgis Fers-
     teris (Georg Förster, apie 1615—1660).
-  citata_rodoma: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių\nokupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.\nA. Kojelavičius dalyvavo ordino narių susirinkime\nVaršuvoje, kur išrenkamas Lietuvos provincijos įgalio­\ntiniu. Jos reikalais važinėjo į Romą! Po 1657 m. pa­\nliaubų jis jau vėl Vilniuje. Miestui tebesant Rusijos\nir Ukrainos sukilėlių kariuomenės okupuotam, jėzuitai\natidarė čia mokyklą, vis dėlto mokslą reikėjo nutrauk­\nti dėl prasidėjusio maro ir bado."
+  citata_rodoma: |
+    1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
+    okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
+    A. Kojelavičius dalyvavo ordino narių susirinkime
+    Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
+    tiniu. Jos reikalais važinėjo į Romą! Po 1657 m. pa­
+    liaubų jis jau vėl Vilniuje. Miestui tebesant Rusijos
+    ir Ukrainos sukilėlių kariuomenės okupuotam, jėzuitai
+    atidarė čia mokyklą, vis dėlto mokslą reikėjo nutrauk­
+    ti dėl prasidėjusio maro ir bado.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

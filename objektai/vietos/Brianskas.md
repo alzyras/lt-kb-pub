@@ -180,7 +180,11 @@ media_all_json: |-
     į ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie
     1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
     prie Dniepro — Černigovo ir Briansko kunigaikštijose.
-  citata_rodoma: ") iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę\nį ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie\n1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių\nprie Dniepro — Černigovo ir Briansko kunigaikštijose."
+  citata_rodoma: |
+    ) iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę
+    į ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie
+    1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
+    prie Dniepro — Černigovo ir Briansko kunigaikštijose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -198,7 +202,11 @@ media_all_json: |-
     laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
     versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
     buvo nugalėtas. Jis nebeteko ir savo valdos.
-  citata_rodoma: "paėmė Vitebską. Dėl neaiškios\nlaikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­\nversko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse\nbuvo nugalėtas. Jis nebeteko ir savo valdos."
+  citata_rodoma: |
+    paėmė Vitebską. Dėl neaiškios
+    laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
+    versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
+    buvo nugalėtas. Jis nebeteko ir savo valdos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -222,7 +230,17 @@ media_all_json: |-
     kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
     senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
     minystės ryšiais.
-  citata_rodoma: "Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje."
+  citata_rodoma: |
+    Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

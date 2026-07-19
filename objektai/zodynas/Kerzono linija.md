@@ -106,7 +106,14 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
     čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
     duoti Lietuvai (liepos 10 d.).
-  citata_rodoma: "Tada Aukš-\nčiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-\nvietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-\ntely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už\nvadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-\nčiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-\nduoti Lietuvai (liepos 10 d.)."
+  citata_rodoma: |
+    Tada Aukš-
+    čiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-
+    vietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-
+    tely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už
+    vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
+    čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
+    duoti Lietuvai (liepos 10 d.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -130,7 +137,13 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
     toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
     kijos su Sovietų Rusija nustatytų sienų.
-  citata_rodoma: "Lietuvos siena\neina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta\nSuvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui\n— Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,\ntoliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-\nkijos su Sovietų Rusija nustatytų sienų."
+  citata_rodoma: |
+    Lietuvos siena
+    eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta
+    Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui
+    — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
+    toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
+    kijos su Sovietų Rusija nustatytų sienų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

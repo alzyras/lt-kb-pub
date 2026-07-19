@@ -169,7 +169,12 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
     kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
     šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
     ris dėl to iki šiol neprarado gydomojo poveikio.
-  citata_rodoma: "Senė, vadinama Upine, tomis apei­\ngomis pašventindavo upelį, ir jis visiems metams įgydavo gy­\ndomosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos \nkerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais, \nšv."
+  citata_rodoma: |
+    Senė, vadinama Upine, tomis apei­
+    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
+    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -205,7 +210,11 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
     Visos šios trys pastabos aiškiai įtikina, kad lietuvių mitolo­
     gija rėmėsi graikų mitologija, kadangi net menkose smulkme­
     nose randamos apčiuopiamos panašybės.
-  citata_rodoma: "Kai Vilkijos seniūnas Zabiela uždraudė tuos\nkerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,\nšv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­\nris dėl to iki šiol neprarado gydomojo poveikio."
+  citata_rodoma: |
+    Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
+    ris dėl to iki šiol neprarado gydomojo poveikio.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

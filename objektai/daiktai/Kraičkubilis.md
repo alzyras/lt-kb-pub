@@ -92,7 +92,8 @@ Nenurodyta
     Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji iš­
     sivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą
     ratų užpakalyje.
-  citata_rodoma: "Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji išsivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje."
+  citata_rodoma: |
+    Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji išsivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -116,7 +117,8 @@ Nenurodyta
     ratų užpakalyje.
     Kraičkubilis — tai statiniukė su dangčiu ir užra­
     kinama, paprastas tarnaujančių mergelių sandėlis.
-  citata_rodoma: "Kraičkubilis — tai statiniukė su dangčiu ir užrakinama, paprastas tarnaujančių mergelių sandėlis."
+  citata_rodoma: |
+    Kraičkubilis — tai statiniukė su dangčiu ir užrakinama, paprastas tarnaujančių mergelių sandėlis.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

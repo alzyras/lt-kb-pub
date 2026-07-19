@@ -104,7 +104,20 @@ Nenurodyta
     jam - palikdama kartais kai ką iš daiktų, su kuriais velionis
     buvo palaidotas, arba ženklą, runą, hieroglifą ar įkirtimą gin­
     klu į vartus.
-  citata_rodoma: "Sis\npaprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­\nrėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau\natitinkamame straipsnyje.\nApskritai mirusiųjų atminimo pagerbimas po šventės ar­\nba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­\nduodavo pavargėliams arba, kaip kitose provincijose, padėda­\nvo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­\nvargėliai.\nPomirtinio gyvenimo supratimas\nVėlių jperėjimas iš mirusiųjų kūnų į vėliau gimstančius, net\nį gyvulius , senajame lietuvių genties tautų tikėjime buvo per-\n21 Est enim omnium Getharum (sc."
+  citata_rodoma: |
+    Sis
+    paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­
+    rėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau
+    atitinkamame straipsnyje.
+    Apskritai mirusiųjų atminimo pagerbimas po šventės ar­
+    ba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­
+    duodavo pavargėliams arba, kaip kitose provincijose, padėda­
+    vo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­
+    vargėliai.
+    Pomirtinio gyvenimo supratimas
+    Vėlių jperėjimas iš mirusiųjų kūnų į vėliau gimstančius, net
+    į gyvulius , senajame lietuvių genties tautų tikėjime buvo per-
+    21 Est enim omnium Getharum (sc.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -101,7 +101,8 @@ Mokslo draugija.
     žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai:
     Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo
     dr-jos narys korespondentas.
-  citata_rodoma: "Jis bendradarbiavo, jau nuo 1897 m., daugelyje žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai: Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo dr-jos narys korespondentas."
+  citata_rodoma: |
+    Jis bendradarbiavo, jau nuo 1897 m., daugelyje žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai: Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo dr-jos narys korespondentas.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
@@ -121,7 +122,8 @@ Mokslo draugija.
     1900— 1909 me­
     tais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių litera­
     tūros draugijos sekretorium.
-  citata_rodoma: "1900—1909 metais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių literatūros draugijos sekretorium."
+  citata_rodoma: |
+    1900—1909 metais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių literatūros draugijos sekretorium.
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas

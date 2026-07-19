@@ -124,7 +124,20 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
     la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
     mos.
-  citata_rodoma: "Mūsų nuomonę apie šio laiško senumą patvirtina ne tik\njo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą\n162\n\n## Puslapis 179\n\nIl KNYGA\nneleidžia manyti buvus kitus metus, juk kaip tik tuo laiku\nVytautas su Smolensko pulkais Švitrigailos ir Livonijos už­\nimtą Vitebską po keturių savaičių apgulties atgavo ir patį\nŠvitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­\nla ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­\nmos."
+  citata_rodoma: |
+    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
+    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
+    162
+
+    ## Puslapis 179
+
+    Il KNYGA
+    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
+    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
+    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
+    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
+    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
+    mos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

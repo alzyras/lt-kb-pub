@@ -215,7 +215,12 @@ Nenurodyta
     Švitrigailą ir apkaltintiems neištikimybe. 1437 m. pradžioje buvo
     nukirsdinti Polocko ir Vitebsko pasiuntiniai, atvykę pas Žygimantą
     Kęstutaitį.
-  citata_rodoma: "3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­\ntininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą \nI432.1X.1 Svitrigai.os užpuolime Ašmenoje gavo iš Žygimanto Kęs- \ntutaičio aukštą krašto vyriausiojo maršalo vietą (nuo 1434 m.) \nMirė 1435 m."
+  citata_rodoma: |
+    3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­
+    tininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą
+    I432.1X.1 Svitrigai.os užpuolime Ašmenoje gavo iš Žygimanto Kęs-
+    tutaičio aukštą krašto vyriausiojo maršalo vietą (nuo 1434 m.)
+    Mirė 1435 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -243,7 +248,16 @@ Nenurodyta
     viškosios regalijos, iždas ir kanceliarija pateko | Žygimanto Kęstu-
     taičio rankas Po sųmokslo Žygimantui Kęstutaičiul pasidavė Trakų
     kunigaikštystė (Žemaitija.
-  citata_rodoma: "su Alšėnų kunigaikščiu Simonu Jonaičiu Algimantalčiu (Lenkijos ka­\nraliaus Jogailos žmonos Sofijos dėde ir globėju), Aleksandru lOlel- \nka) Vladimiraičlu Algirdaičiu, Naugarduko vietininku Petru Mant- \ngirdaičiu Ir jų ginkluotais būriais; pastarieji 1432.!X.1 naktį užpuolė \nSvitrigallų Ašmenoje, kur jis su šeima, dvaru ir palyda buvo ap­\nsistojęs, vykdamas j Brastų derybų su Lenkija. Pats Švitrigaila su \nnedidele palyda pabėgo, o jo žmona, dvariškiai, Švitrigailos valdo- \nviškosios regalijos, iždas ir kanceliarija pateko | Žygimanto Kęstu- \ntaičio rankas"
+  citata_rodoma: |
+    su Alšėnų kunigaikščiu Simonu Jonaičiu Algimantalčiu (Lenkijos ka­
+    raliaus Jogailos žmonos Sofijos dėde ir globėju), Aleksandru lOlel-
+    ka) Vladimiraičlu Algirdaičiu, Naugarduko vietininku Petru Mant-
+    girdaičiu Ir jų ginkluotais būriais; pastarieji 1432.!X.1 naktį užpuolė
+    Svitrigallų Ašmenoje, kur jis su šeima, dvaru ir palyda buvo ap­
+    sistojęs, vykdamas j Brastų derybų su Lenkija. Pats Švitrigaila su
+    nedidele palyda pabėgo, o jo žmona, dvariškiai, Švitrigailos valdo-
+    viškosios regalijos, iždas ir kanceliarija pateko | Žygimanto Kęstu-
+    taičio rankas
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

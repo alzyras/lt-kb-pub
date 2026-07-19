@@ -84,7 +84,12 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
     tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
     ją/“.
-  citata_rodoma: "Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-\nrenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu\ntai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne\ntiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-\nją/“."
+  citata_rodoma: |
+    Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-
+    renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu
+    tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
+    tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
+    ją/“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

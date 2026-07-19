@@ -162,7 +162,12 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
     pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
     prindama jų pozicijas.
-  citata_rodoma: "Tačiau pi-\nlietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija\n1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai\npradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-\nprindama jų pozicijas."
+  citata_rodoma: |
+    Tačiau pi-
+    lietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija
+    1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
+    pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
+    prindama jų pozicijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +188,11 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
     matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
     Lenkija.
-  citata_rodoma: "Apskritai 1920 m. liepos 12 d.\npasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-\nmatijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su\nLenkija."
+  citata_rodoma: |
+    Apskritai 1920 m. liepos 12 d.
+    pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
+    matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
+    Lenkija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

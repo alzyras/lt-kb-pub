@@ -107,7 +107,17 @@ Nenurodyta
     Raudotojos yra jaunos, stiprių plaučių moterys; kai kas nors
     miršta, nuo to momento iki kūno nuleidimo į kapą jos be per­
     stojo kuo garsiausiai ir kuo klaikiausiai klykia, kiek tik gali.
-  citata_rodoma: "Kaip tik dėl to, artėjant gyvenimo\npabaigai, užleisdavo ir savo pačių nagus, visai jų nebetrum-\npindavo. Jaunesni žmonės, juos kirpdami, niekad nenumes-\ndavo nuokirpų ant žemės, bet visuomet, stropiausiai surinkę,\nsviesdavo į ugnį, nes būta fantastiškos nuomonės, jog bus nau­\ndingi po mirties, kadangi sudegę ugnyje su dūmais pakils į aukš­\ntybes ir ten kiekvienas juos atras. O jeigu nukirpti nagai būtų\nišmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }\nsieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­\nžiausios nuokirpos."
+  citata_rodoma: |
+    Kaip tik dėl to, artėjant gyvenimo
+    pabaigai, užleisdavo ir savo pačių nagus, visai jų nebetrum-
+    pindavo. Jaunesni žmonės, juos kirpdami, niekad nenumes-
+    davo nuokirpų ant žemės, bet visuomet, stropiausiai surinkę,
+    sviesdavo į ugnį, nes būta fantastiškos nuomonės, jog bus nau­
+    dingi po mirties, kadangi sudegę ugnyje su dūmais pakils į aukš­
+    tybes ir ten kiekvienas juos atras. O jeigu nukirpti nagai būtų
+    išmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }
+    sieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­
+    žiausios nuokirpos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

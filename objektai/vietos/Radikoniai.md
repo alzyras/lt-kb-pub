@@ -64,7 +64,16 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
     kurio metu žuvo kolonos vadas karin.
 
     J. Nastopka.
-  citata_rodoma: "Kairioji vora puolimą pradėjo\n\n## Puslapis 183\n\nsėkmingai, tačiau ties Radikonių dvaru\nsutiko stiprų bolševikų pasipriešinimą,\nkurio metu žuvo kolonos vadas karin.\n\nJ."
+  citata_rodoma: |
+    Kairioji vora puolimą pradėjo
+
+    ## Puslapis 183
+
+    sėkmingai, tačiau ties Radikonių dvaru
+    sutiko stiprų bolševikų pasipriešinimą,
+    kurio metu žuvo kolonos vadas karin.
+
+    J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

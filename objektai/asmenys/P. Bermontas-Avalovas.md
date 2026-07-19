@@ -111,7 +111,11 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
     dinusiems Rusijos vakarų armija, vadovavo
     vokiečių remiamas buvęs carinės Rusijos
     kariuomenės plk. P. Bermontas-Avalovas.
-  citata_rodoma: "Bermontininkams, oficialiai pasiva-\ndinusiems Rusijos vakarų armija, vadovavo\nvokiečių remiamas buvęs carinės Rusijos\nkariuomenės plk. P. Bermontas-Avalovas."
+  citata_rodoma: |
+    Bermontininkams, oficialiai pasiva-
+    dinusiems Rusijos vakarų armija, vadovavo
+    vokiečių remiamas buvęs carinės Rusijos
+    kariuomenės plk. P. Bermontas-Avalovas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

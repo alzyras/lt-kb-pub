@@ -66,8 +66,13 @@ media_all_json: |-
     kė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik
     visai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­
     34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i
-    mitologiczne. - Warszawa, 1904. - S. 18-21.
-  citata_rodoma: "Pozityvistų įdiegtas lietuvių mitologijos supratimas išsilai­\nkė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik\nvisai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­\n34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i\nmitologiczne. -  Warszawa, 1904. -  S. 18-21."
+    mitologiczne. -  Warszawa, 1904. -  S. 18-21.
+  citata_rodoma: |
+    Pozityvistų įdiegtas lietuvių mitologijos supratimas išsilai­
+    kė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik
+    visai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­
+    34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i
+    mitologiczne. -  Warszawa, 1904. -  S. 18-21.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -246,7 +246,19 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
     gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
     viu.
-  citata_rodoma: "Legaliai veikė įvai­\nrios filantropinės organizacijos ir susivienijimai, kurių nariai ap­\ntardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­\nspektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo \nVilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė \nuniversiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­\nventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­\nmatą bei netikrų krikščionių dievus, draugijos nariai pasivadino \nsenovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­\nkūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­\ngantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla- \nviu."
+  citata_rodoma: |
+    Legaliai veikė įvai­
+    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
+    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
+    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
+    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
+    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
+    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
+    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
+    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
+    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
+    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
+    viu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -270,7 +282,16 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
     jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
     suotinumą ir universalumą3.
-  citata_rodoma: "Šubravcų draugijos kodekse suformuluotos narių elgesio \nir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­\nmų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­\nnines bei visuomenines ydas rodė ryškų šios organizacijos švie­\ntėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso \nstraipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­\nlioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­\njos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­\nsuotinumą ir universalumą3."
+  citata_rodoma: |
+    Šubravcų draugijos kodekse suformuluotos narių elgesio
+    ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­
+    mų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
+    nines bei visuomenines ydas rodė ryškų šios organizacijos švie­
+    tėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso
+    straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­
+    lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
+    jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
+    suotinumą ir universalumą3.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -290,7 +311,14 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
     vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
     lizmo išgarsino draugiją net už Lietuvos ribų.
-  citata_rodoma: "Draugijos narių leidžiamas \nhumoristinis laikraštis Wiadomości brukowe (Grindinio žinios), \nkuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a. \nAnglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­\nmingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­\nvos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­\nlizmo išgarsino draugiją net už Lietuvos ribų."
+  citata_rodoma: |
+    Draugijos narių leidžiamas
+    humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
+    kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
+    Anglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­
+    mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
+    vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
+    lizmo išgarsino draugiją net už Lietuvos ribų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -332,7 +360,14 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     monė (taip pat labiau hipotetinė), jog A. Marcinovskis
     buvo J. Zavadskio proteguojamas ir, būtent jo padedamas,
     tapo garsiu Vilniaus leidėju.
-  citata_rodoma: "Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i\nRoztrząsania Naukowe“ puslapiuose anonimiškumas buvo\nįprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip\nšubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika\nbuvusių Vilniaus universiteto profesorių, astuoni su šia\nįstaiga nesusiję mokslininkai ir devyniolika literatų, kurių\ndauguma buvo to universiteto absolventai."
+  citata_rodoma: |
+    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
+    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
+    įprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip
+    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
+    buvusių Vilniaus universiteto profesorių, astuoni su šia
+    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
+    dauguma buvo to universiteto absolventai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

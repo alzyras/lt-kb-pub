@@ -48,7 +48,7 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173233
+    - c-173234
 
 <a id="claim-t-190351"></a>
 - t-002
@@ -130,7 +130,6 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190350
     - t-197290
 - id: c-173234
   autorius: "Teodoras Narbutas"
@@ -159,6 +158,7 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-190350
     - t-190351
     - t-197292
 - id: c-179107

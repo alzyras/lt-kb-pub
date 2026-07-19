@@ -95,7 +95,13 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i�
     Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
     no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
     tęsėsi iki pat pilies, dabar virtusios griuvėsiais.
-  citata_rodoma: "Stenderis savo lat­\nvių mitologijoje prisimena, kad pats buvęs panašių, Auskučio\nsukeltų, neramumų liudytojas.\nGarbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­\nkoja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­\nmas išliko kaip žalčių laikymas1."
+  citata_rodoma: |
+    Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

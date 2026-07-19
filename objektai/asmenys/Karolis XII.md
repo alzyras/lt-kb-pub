@@ -119,7 +119,13 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     “planams nepritarė seimas, pareika-
     lavęs iš Lietuvos teritorijos išvesti jo
     „ Saksonijos kariuomenę.
-  citata_rodoma: "Augusto II siekius rėmė ir dalis Švedijos kara-\nliaus Karolio x11 valdymu nepatenkintos\nLivonijos aristokratijos. Augusto II\n“planams nepritarė seimas, pareika-\nlavęs iš Lietuvos teritorijos išvesti jo\n„ Saksonijos kariuomenę."
+  citata_rodoma: |
+    Augusto II siekius rėmė ir dalis Švedijos kara-
+    liaus Karolio x11 valdymu nepatenkintos
+    Livonijos aristokratijos. Augusto II
+    “planams nepritarė seimas, pareika-
+    lavęs iš Lietuvos teritorijos išvesti jo
+    „ Saksonijos kariuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

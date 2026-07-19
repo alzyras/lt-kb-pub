@@ -114,7 +114,18 @@ Nenurodyta
     ir prūsų
     istoriko
     tyrimo išvadas.
-  citata_rodoma: "Foigtas (Gesch. Preuss. B. I. S. 678) teigia, jog, anot vietinių pada­\nvimų, negalima abejoti, kad ši bažnytėlė ga­\nlėjusi būti pastatyta XIII amžiaus pabaigoje, bet ne vėliau, kai Sem­\nbą užkariavo čekų karalius Otokaras; to paties amžiaus antrosios\npusės pradžioje buvusi medinė bažnytėlė, o 1422 metais, antrą ar\ntrečią kartą sunaikinus vis atstatomus medinius pastatus, pradėta\nstatyti mūrinę (Voigt. S. 663—666). Si išvada atitinka senus pada­\nvimus\nir prūsų\nistoriko\ntyrimo išvadas."
+  citata_rodoma: |
+    Foigtas (Gesch. Preuss. B. I. S. 678) teigia, jog, anot vietinių pada­
+    vimų, negalima abejoti, kad ši bažnytėlė ga­
+    lėjusi būti pastatyta XIII amžiaus pabaigoje, bet ne vėliau, kai Sem­
+    bą užkariavo čekų karalius Otokaras; to paties amžiaus antrosios
+    pusės pradžioje buvusi medinė bažnytėlė, o 1422 metais, antrą ar
+    trečią kartą sunaikinus vis atstatomus medinius pastatus, pradėta
+    statyti mūrinę (Voigt. S. 663—666). Si išvada atitinka senus pada­
+    vimus
+    ir prūsų
+    istoriko
+    tyrimo išvadas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -137,7 +148,9 @@ Nenurodyta
     kairę nuo kelio, einančio iš Laukstetų į Litausdorfo kaimą.
     1669 metais didžiulė audra visiškai išgriovė šio pastato
     sienas.
-  citata_rodoma: "1669 metais didžiulė audra visiškai išgriovė šio pastato\nsienas."
+  citata_rodoma: |
+    1669 metais didžiulė audra visiškai išgriovė šio pastato
+    sienas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

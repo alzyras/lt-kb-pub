@@ -154,7 +154,14 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
     ko kažką panašaus į skeptrą, dešiniojoje - lyg Jupiterio deglą,
     fulgur. Nuo kojų iki pusės kūną gaubia tiršti debesys, tarytum
     pati kiltų su jais.
-  citata_rodoma: "Perkūnaitėlė (Perkunatele)\n„Ji yra žaibo ir griausmo motina, kuri saulę, nuvargusią ir\ndulkiną, išprausia maudyklėje; po to, kitą dieną, išleidžia šva­\nrią ir švytinčią“, -  sako Lasickis. Su Perkūnu ji dalijosi valdžia\ndanguje ir žemėje, panašiu vardu lietuvių šaukiama. Ji buvo\nlietuviškoji Junona, Perkūno žmona ir sesuo, visiškai kaip grai­\nkų mitologijoje."
+  citata_rodoma: |
+    Perkūnaitėlė (Perkunatele)
+    „Ji yra žaibo ir griausmo motina, kuri saulę, nuvargusią ir
+    dulkiną, išprausia maudyklėje; po to, kitą dieną, išleidžia šva­
+    rią ir švytinčią“, -  sako Lasickis. Su Perkūnu ji dalijosi valdžia
+    danguje ir žemėje, panašiu vardu lietuvių šaukiama. Ji buvo
+    lietuviškoji Junona, Perkūno žmona ir sesuo, visiškai kaip grai­
+    kų mitologijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -205,7 +212,18 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
     tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
     bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
     „Belewitt“**.
-  citata_rodoma: "Jeigu šis paminklas nėra iš stabmeldystės lai­\nkų, tai -  kaip reiktų manyti -  ar jis nepriklauso XV amžiaus\npradžiai; neabejotina, kad sukurtas pagal stabmeldišką Per-\nkūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota\nperkūnijos.\nPagaliau reikia manyti, kad Perkūnaitėlės vardas visiškai\natitinka antikinių laikų Fulgurą; šiuo vardu romėnai garbino\nJunoną, žaibų motiną, tardami ją esant saugotoja nuo perkū­\nnijos.\nPilvytį' (Pilwite)\nPinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna."
+  citata_rodoma: |
+    Jeigu šis paminklas nėra iš stabmeldystės lai­
+    kų, tai -  kaip reiktų manyti -  ar jis nepriklauso XV amžiaus
+    pradžiai; neabejotina, kad sukurtas pagal stabmeldišką Per-
+    kūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota
+    perkūnijos.
+    Pagaliau reikia manyti, kad Perkūnaitėlės vardas visiškai
+    atitinka antikinių laikų Fulgurą; šiuo vardu romėnai garbino
+    Junoną, žaibų motiną, tardami ją esant saugotoja nuo perkū­
+    nijos.
+    Pilvytį' (Pilwite)
+    Pinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

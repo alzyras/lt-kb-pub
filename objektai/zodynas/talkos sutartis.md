@@ -91,7 +91,10 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
     lijui. 1500 m. balandžio mėn., kaip ir jo kaimynas Možaiskis, Vasi­
     lijus Ivanovičius Semiačičius pasidavė su savo valdomis Maskvos
     didžiajam kunigaikščiui.
-  citata_rodoma: "Is Talkos sutartis tarp  LDK ir Maskvos Didžiosios Kunigaikš­\ntystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta \n1494.11.7. A leksandras prisiekė jai 1494.1V.22."
+  citata_rodoma: |
+    Is Talkos sutartis tarp  LDK ir Maskvos Didžiosios Kunigaikš­
+    tystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta
+    1494.11.7. A leksandras prisiekė jai 1494.1V.22.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

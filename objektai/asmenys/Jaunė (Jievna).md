@@ -133,7 +133,14 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
     Alcis (Airis)
     Nepaprastos jėgos milžinas, lietuvių pasakų didvyris. Taip
     pat žinomas iš liaudies padavimo. Tai buvo didvyris klajoklis,
-  citata_rodoma: "Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais. Trečioji -\nJaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni­\ngaikščio, mirusios Gedimino žmonos brolio, duktė. Iš jos sū­\nnūs: Liubartas, gimęs 1299 metais, Jaunutis, gimęs 1301 me­\ntais, ir Kariotas, gimęs 1306 metais."
+  citata_rodoma: |
+    Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais. Trečioji -
+    Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni­
+    gaikščio, mirusios Gedimino žmonos brolio, duktė. Iš jos sū­
+    nūs: Liubartas, gimęs 1299 metais, Jaunutis, gimęs 1301 me­
+    tais, ir Kariotas, gimęs 1306 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

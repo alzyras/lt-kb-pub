@@ -64,7 +64,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Suomių ugrų dr-jos
     Memuarai
     XXXV.
-  citata_rodoma: "L. Lietuvių vestuvių apeigos. \nSuomių ugrų dr-jos \nMemuarai \nXXXV."
+  citata_rodoma: |
+    L. Lietuvių vestuvių apeigos.
+    Suomių ugrų dr-jos
+    Memuarai
+    XXXV.
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas

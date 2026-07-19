@@ -71,7 +71,13 @@ Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvi
     laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­
     kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­
     mas pilietinio ir kultūrinio ugdymo teises.
-  citata_rodoma: "leido Teki Wileńskie (Vilniaus aplankus), lie­\ntuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­\ntiečių kilęs švietėjas Mikalojus Akelaitis. M. Balinskis atsakė į jo \nlaišką „Kreipimasis į tautiečius\", kuriame lietuvių kultūros vei­\nkėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­\nmas pilietinio ir kultūrinio ugdymo teises."
+  citata_rodoma: |
+    leido Teki Wileńskie (Vilniaus aplankus), lie­
+    tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
+    tiečių kilęs švietėjas Mikalojus Akelaitis. M. Balinskis atsakė į jo
+    laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­
+    kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­
+    mas pilietinio ir kultūrinio ugdymo teises.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

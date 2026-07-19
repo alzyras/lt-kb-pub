@@ -130,7 +130,18 @@ Nenurodyta
     nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
     tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
     mis30.
-  citata_rodoma: "Senovės prūsų monetas mini kronikininkai, jos dingo, kry­\nžiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai\nkurios būdavo randamos žemėje, ypač senovės kapuose. Apie\n25 Panašų dalyką Belskis pasakoja savo kronikoje.\n247\n\n## Puslapis 247\n\njas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo\npaties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su\nužrašais nepažįstamu raštu, kartais lotyniškomis raidėmis."
+  citata_rodoma: |
+    Senovės prūsų monetas mini kronikininkai, jos dingo, kry­
+    žiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai
+    kurios būdavo randamos žemėje, ypač senovės kapuose. Apie
+    25 Panašų dalyką Belskis pasakoja savo kronikoje.
+    247
+
+    ## Puslapis 247
+
+    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
+    paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
+    užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

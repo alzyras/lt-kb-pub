@@ -123,7 +123,8 @@ Nenurodyta
     vienuolės, paprasti valstiečiai. Už žydų gelbėjimą Pasaulio teisuoliais yra
     pripažinti 830 lietuvių, nors iš tikrųjų jų buvo kur kas daugiau, jų sąrašas
     vis papildomas.
-  citata_rodoma: "vienuolės, paprasti valstiečiai. Už žydų gelbėjimą Pasaulio teisuoliais yra"
+  citata_rodoma: |
+    vienuolės, paprasti valstiečiai. Už žydų gelbėjimą Pasaulio teisuoliais yra
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -94,7 +94,14 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
     gai perplaukė upę ir prisistatė didžiajam
     etmonui. Ši akimirka labai pakėlė Lietuvos
     karių nuotaiką.
-  citata_rodoma: "Kairiajame Dauguvos krante buvęs\nKuršo kunigaikštis Fridrichas Ketleris, ma-\ntydamas besirikiuojančius lietuvius, savo\n300 raitelių įsakė persikelti į dešinįjį krantą.\nKuršiečiai, kartu su kunigaikščiu, sėkmin-\ngai perplaukė upę ir prisistatė didžiajam\netmonui."
+  citata_rodoma: |
+    Kairiajame Dauguvos krante buvęs
+    Kuršo kunigaikštis Fridrichas Ketleris, ma-
+    tydamas besirikiuojančius lietuvius, savo
+    300 raitelių įsakė persikelti į dešinįjį krantą.
+    Kuršiečiai, kartu su kunigaikščiu, sėkmin-
+    gai perplaukė upę ir prisistatė didžiajam
+    etmonui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

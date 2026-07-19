@@ -110,7 +110,11 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
     Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468.
-  citata_rodoma: "99), liaudyje\nžinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno\nsenvagė deš. krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių\ngyvenvietė (Remeika J., Ką kalneliai..., p. 15)."
+  citata_rodoma: |
+    99), liaudyje
+    žinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno
+    senvagė deš. krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių
+    gyvenvietė (Remeika J., Ką kalneliai..., p. 15).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

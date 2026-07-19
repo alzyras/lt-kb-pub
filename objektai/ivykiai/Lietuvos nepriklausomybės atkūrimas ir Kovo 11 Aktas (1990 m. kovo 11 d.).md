@@ -153,7 +153,21 @@ Nenurodyta
     ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas
     Česlovas Stankevičius, Lietuvos Respublikos AT Prezidiumo narys
     Aloyzas Sakalas.
-  citata_rodoma: "Istorinėje LSSR Aukščiau-\nsiosios Tarybos sesijoje 1990 m. kovo 11 d., LPS deputatų klubui paruo-\nšus dokumentus ir nusprendus, kad nepriklausomybę reikia paskelbti iš \nkarto, veikta ryžtingai. Sąjūdžio kandidatai, laikydamiesi savo rinkiminių \npažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku \nišrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją \nTarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai \nsugrąžino senąjį jos valstybės pavadinimą „Lietuvos Respublika“, o Vytį \nPaskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d.  \nLietuvos Respublikos AT-AS vadovai: centre – Tarybos pirmininkas \nVytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka \nir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas \nČeslovas Stankevičius, Lietuvos Respublikos AT Prezidiumo narys \nAloyzas Sakalas."
+  citata_rodoma: |
+    Istorinėje LSSR Aukščiau-
+    siosios Tarybos sesijoje 1990 m. kovo 11 d., LPS deputatų klubui paruo-
+    šus dokumentus ir nusprendus, kad nepriklausomybę reikia paskelbti iš
+    karto, veikta ryžtingai. Sąjūdžio kandidatai, laikydamiesi savo rinkiminių
+    pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku
+    išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją
+    Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai
+    sugrąžino senąjį jos valstybės pavadinimą „Lietuvos Respublika“, o Vytį
+    Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d.
+    Lietuvos Respublikos AT-AS vadovai: centre – Tarybos pirmininkas
+    Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka
+    ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas
+    Česlovas Stankevičius, Lietuvos Respublikos AT Prezidiumo narys
+    Aloyzas Sakalas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -176,7 +190,11 @@ Nenurodyta
     branduolinės ir kosmosą įsisavinusios supervalstybės aureolė, kurioje
     senimas šypsosi bedantėmis burnomis, parduotuvėse tuščia, butai ankšti
     arba tik statomi, viskam gauti eilės, talonai.
-  citata_rodoma: "Pasinaudojęs palankiomis aplinkybėmis ir pasirinkęs neginkluotos \nkovos būdą, suvienijęs po savo vėliava įvairiausius visuomenės sluoks-\nnius, Sąjūdis atvedė Lietuvą į laisvę, svariai prisidėjo prie SSRS, visos \nkomunistinės sistemos žlugimo."
+  citata_rodoma: |
+    Pasinaudojęs palankiomis aplinkybėmis ir pasirinkęs neginkluotos
+    kovos būdą, suvienijęs po savo vėliava įvairiausius visuomenės sluoks-
+    nius, Sąjūdis atvedė Lietuvą į laisvę, svariai prisidėjo prie SSRS, visos
+    komunistinės sistemos žlugimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

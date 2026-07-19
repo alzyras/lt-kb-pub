@@ -90,7 +90,15 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
     užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
     atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
     mis augdami ant medžių, užauga sieto dydžio.
-  citata_rodoma: "235\n\n## Puslapis 235\n\nclžiu. Romovės šventyklos mitologinis pavadinimas siejamas\nsu ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė\nsusilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­\nmas ."
+  citata_rodoma: |
+    235
+
+    ## Puslapis 235
+
+    clžiu. Romovės šventyklos mitologinis pavadinimas siejamas
+    su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
+    susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
+    mas .
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

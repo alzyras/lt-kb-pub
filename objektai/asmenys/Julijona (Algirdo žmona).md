@@ -253,7 +253,19 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
-  citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
+  citata_rodoma: |
+    V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -272,7 +284,10 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
     metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
     kunigaikščio Aleksandro dukterį Julijoną^15.
-  citata_rodoma: "Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir\nmetropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės\nkunigaikščio Aleksandro dukterį Julijoną^15."
+  citata_rodoma: |
+    Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
+    metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
+    kunigaikščio Aleksandro dukterį Julijoną^15.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -312,7 +327,13 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
-  citata_rodoma: "Visose trijose Jogailos ir\nSlorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi\nkiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,\nKarigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs\nbei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente."
+  citata_rodoma: |
+    Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -363,7 +384,10 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
     ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
     pastangomis.
-  citata_rodoma: "Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta\nne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —\npastangomis."
+  citata_rodoma: |
+    Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
+    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
+    pastangomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

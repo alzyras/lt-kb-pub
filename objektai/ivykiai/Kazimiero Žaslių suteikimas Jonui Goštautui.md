@@ -110,7 +110,9 @@ Nenurodyta
     Minimas čia Volkovysko puolimas buvo 1249 ar 1250 m.
     11 Slonimas — BTSR miestas (| pietus nuo aukštutinio Nemuno,
     prie Nemuno intako Sčaros. apie 60 km j rytus nuo Volkovysko).
-  citata_rodoma: "1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš- \nlaulul (Русская историческая библиотека, т. 27, 1970. p. 34)."
+  citata_rodoma: |
+    1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš-
+    laulul (Русская историческая библиотека, т. 27, 1970. p. 34).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -85,7 +85,12 @@ Narbutas posakį „tas jau biją winnam Likis“ pateikia kaip latvių valstie�
     Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
     šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
     mės viešpačiu.
-  citata_rodoma: "Latviai taip pat kalba apie tą dievą, vadindami jį Liktens,\nlikimu. „Kadangi senovės latvių savita filosofija, todėl likimas\nbuvo pagrindinis jos principas. Dar ir šiandien latviai kaimie­\nčiai visiškai tiki aklu likimu. Iš jų dažnai galima išgirsti: tas jau\nbiją winnam Likis („taip jam jau buvo lemta“)1 2."
+  citata_rodoma: |
+    Latviai taip pat kalba apie tą dievą, vadindami jį Liktens,
+    likimu. „Kadangi senovės latvių savita filosofija, todėl likimas
+    buvo pagrindinis jos principas. Dar ir šiandien latviai kaimie­
+    čiai visiškai tiki aklu likimu. Iš jų dažnai galima išgirsti: tas jau
+    biją winnam Likis („taip jam jau buvo lemta“)1 2.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

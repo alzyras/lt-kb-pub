@@ -74,7 +74,11 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
     veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936). Lie­
     tuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią mo­
     nografiją apie Kęstutį, kurią išspausdinti sutrukdė 1940 m. įvykiai.
-  citata_rodoma: "Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų\nveikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936). Lie­\ntuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią mo­\nnografiją apie Kęstutį, kurią išspausdinti sutrukdė 1940 m."
+  citata_rodoma: |
+    Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų
+    veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936). Lie­
+    tuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią mo­
+    nografiją apie Kęstutį, kurią išspausdinti sutrukdė 1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

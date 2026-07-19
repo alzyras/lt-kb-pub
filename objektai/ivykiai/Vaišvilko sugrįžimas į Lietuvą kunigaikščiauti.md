@@ -89,7 +89,11 @@ Nenurodyta
     yra žiauriai kenkę Rusų žemėms ir jam pačiam. Ir štai
     čia pat, švento Mykolo vienuolyne, jį nužudė*. Ir
     taip pasibaigė Romos kunigaikščio Palemono giminė.
-  citata_rodoma: "Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į \nNaugarduką, ten pasiėmė su savimi naugardukiečius ir \nparvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko \nsavo valdovo sūnų didžiai džiaugdamasi."
+  citata_rodoma: |
+    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
+    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
+    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
+    savo valdovo sūnų didžiai džiaugdamasi.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

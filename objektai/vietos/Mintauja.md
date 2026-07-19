@@ -86,7 +86,18 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
     persekiojęs respublikonų kariuome-
     nės dalinys įžengė į Vilnių Sapiegoms
     jau išvykus iš miesto.
-  citata_rodoma: "Etmonas, iždininkas ir marša-\nlas vakare pasiekė Vilnių, iš visų savo\nrūmų suvežė svarbiausias vertybes į\ndominikonų vienuolyną, kuriame ir\npernakvojo, o ryte, paskleidę gandą,\nkad vyksta į Drują bei Bychovo tvir-\ntovę, iš tikrųjų suskubo trauktis į\nKuršą - į Bauskę ir Mintaują. Juos\npersekiojęs respublikonų kariuome-\nnės dalinys įžengė į Vilnių Sapiegoms\njau išvykus iš miesto."
+  citata_rodoma: |
+    Etmonas, iždininkas ir marša-
+    las vakare pasiekė Vilnių, iš visų savo
+    rūmų suvežė svarbiausias vertybes į
+    dominikonų vienuolyną, kuriame ir
+    pernakvojo, o ryte, paskleidę gandą,
+    kad vyksta į Drują bei Bychovo tvir-
+    tovę, iš tikrųjų suskubo trauktis į
+    Kuršą - į Bauskę ir Mintaują. Juos
+    persekiojęs respublikonų kariuome-
+    nės dalinys įžengė į Vilnių Sapiegoms
+    jau išvykus iš miesto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

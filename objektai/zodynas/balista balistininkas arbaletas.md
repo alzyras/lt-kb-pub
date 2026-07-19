@@ -99,7 +99,14 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
     vieni Karaliaučiaus broliai nė nedrįso užkabinti. Dėl to jie paprašė Livonijos magistrą
     atsiųsti iš savo žemių jiems į pagalbą brolių bei ginklanešių, nurodydami dieną bei
     vietą, iš kur turėjo kartu traukti į kovą.
-  citata_rodoma: "Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­\n                                     lojaus kalvoje\n\n  Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai\nbuvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai netikėtai jį užpuolė\n  375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama\nsuktuvu."
+  citata_rodoma: |
+    Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
+                                         lojaus kalvoje
+
+      Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai
+    buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai netikėtai jį užpuolė
+      375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama
+    suktuvu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -122,7 +129,15 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
     lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė
     vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
     jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
-  citata_rodoma: "Henrikas\nTupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,\nragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]\npiliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o\nminėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam\nlietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė\nvienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė\njam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį."
+  citata_rodoma: |
+    Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
+    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
+    lietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė
+    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
+    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

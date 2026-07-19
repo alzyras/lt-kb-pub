@@ -79,7 +79,8 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką
         paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
         yra pačių dirbti.
-  citata_rodoma: "Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką paregėjęs, tą turi padirbti."
+  citata_rodoma: |
+    Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką paregėjęs, tą turi padirbti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -97,7 +98,8 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių
         dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
         nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
-  citata_rodoma: "Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys sau steigė, idant svetimo nereikalautų, kaip motriškosios, taip ir vyriškieji; ir taip motriškosios verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges."
+  citata_rodoma: |
+    Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys sau steigė, idant svetimo nereikalautų, kaip motriškosios, taip ir vyriškieji; ir taip motriškosios verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -108,7 +108,15 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
     dėjo Rygos miesto blokadą, neleisdamas
 
     4 nei finansinės paramos iš Lenkijos.
-  citata_rodoma: "1608 m. vasarą Livonijoje išsilaipino grafo\nFrederiko Joachimo Mansfeldo vadovau-\njamas 8000 Švedijos karių ekspedicinis\nkorpusas, kuris 1608 m. rugpjūčio 1 d.\nužėmė Daugavgryvos senąją pilį ir pra-\ndėjo Rygos miesto blokadą, neleisdamas\n\n4 nei finansinės paramos iš Lenkijos."
+  citata_rodoma: |
+    1608 m. vasarą Livonijoje išsilaipino grafo
+    Frederiko Joachimo Mansfeldo vadovau-
+    jamas 8000 Švedijos karių ekspedicinis
+    korpusas, kuris 1608 m. rugpjūčio 1 d.
+    užėmė Daugavgryvos senąją pilį ir pra-
+    dėjo Rygos miesto blokadą, neleisdamas
+
+    4 nei finansinės paramos iš Lenkijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

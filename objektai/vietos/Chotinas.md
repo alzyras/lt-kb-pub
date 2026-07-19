@@ -223,7 +223,37 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     vartais į Rusiją, todėl ne kartą tapo kari-
     nės konfrontacijos tarp Lietuvos ir Rusijos
     objektu.
-  citata_rodoma: "1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117\n\n## Puslapis 120\n\nE _-KURSO KUNIGAIKŠTYSTĖ S\nres Livontios KUNIGAIKŠTYSTĖ ||\nPES\nSen\n\nPRŪSIJOS\nKUNIGAIKSTYSTE-\n\n“yf\n\nLIETUVOS\n\n14 DIDŽIOJI\n“KUNIGAIKŠTYSTĖ\n>\n\nPA |\n7\n\na\n\nLENKUOS | 3\n| KARALYSTĖ | ) uae\n\nMūšio priešistorė\n1514 m."
+  citata_rodoma: |
+    1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117
+
+    ## Puslapis 120
+
+    E _-KURSO KUNIGAIKŠTYSTĖ S
+    res Livontios KUNIGAIKŠTYSTĖ ||
+    PES
+    Sen
+
+    PRŪSIJOS
+    KUNIGAIKSTYSTE-
+
+    “yf
+
+    LIETUVOS
+
+    14 DIDŽIOJI
+    “KUNIGAIKŠTYSTĖ
+    >
+
+    PA |
+    7
+
+    a
+
+    LENKUOS | 3
+    | KARALYSTĖ | ) uae
+
+    Mūšio priešistorė
+    1514 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

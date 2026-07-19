@@ -332,7 +332,16 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     atsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo
 
     galią.
-  citata_rodoma: "Po to daug karalių\nir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,\ntačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties\nviešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo\nlikęs. Dvejopa šio miesto sugriovimo priežastis: pirma, nesantarvė valdovų, kurie,  jį\ngindami, nerado bendros kalbos, antra, tai, kad kryžininkai, jo šventenybės popiežiaus\natsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo\n\ngalią."
+  citata_rodoma: |
+    Po to daug karalių
+    ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,
+    tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties
+    viešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo
+    likęs. Dvejopa šio miesto sugriovimo priežastis: pirma, nesantarvė valdovų, kurie,  jį
+    gindami, nerado bendros kalbos, antra, tai, kad kryžininkai, jo šventenybės popiežiaus
+    atsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo
+
+    galią.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -356,7 +365,12 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
     Kita vertus, jis rašė istorinį pasakojimą, paremtą didele jo sukaupta rašytine ir žodine
     Ordino tradicija, siekė šią tradiciją perduoti ateities kartoms (Dedikacija).
-  citata_rodoma: "Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą\n(1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108)."
+  citata_rodoma: |
+    Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -384,7 +398,13 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
       154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
     — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
     pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje).
-  citata_rodoma: "Paėmus Akoną, tas pats brolis\nHenrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,\nkur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais\n\n  154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų\n— Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a."
+  citata_rodoma: |
+    Paėmus Akoną, tas pats brolis
+    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
+    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
+
+      154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
+    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -403,7 +423,12 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
       1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
     sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
     421; Ptol. 24, 23, 24).
-  citata_rodoma: "Apie Akono miesto sugriovimą\n\n  1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas\nsugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.\n421; Ptol. 24, 23, 24)."
+  citata_rodoma: |
+    Apie Akono miesto sugriovimą
+
+      1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
+    sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
+    421; Ptol. 24, 23, 24).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -428,7 +453,18 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
     pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje). Sekant
     statutų prologu, Ordino įkūrimas datuojamas 1190 m.
-  citata_rodoma: "Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­\n                                             trą\n\n  Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis\nHenrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)\ndieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga."
+  citata_rodoma: |
+    Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
+                                                 trą
+
+      Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
+    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
+    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

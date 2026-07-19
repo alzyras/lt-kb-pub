@@ -369,7 +369,9 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     garbė.
     Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­
     jorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai.
-  citata_rodoma: "Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­\njorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai."
+  citata_rodoma: |
+    Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­
+    jorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -388,7 +390,10 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     paskui pasidarė labai uoli katalikė. Istorikai nurodo, kad Vy­
     tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
     lijona.
-  citata_rodoma: "Istorikai nurodo, kad Vy­\ntautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­\nlijona."
+  citata_rodoma: |
+    Istorikai nurodo, kad Vy­
+    tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
+    lijona.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -425,7 +430,10 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­
     jorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai. Vy­
     tauto mirties diena tikrai buvo liūdna ir ūkanota visai Lietuvai.
-  citata_rodoma: "Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­\njorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai. Vy­\ntauto mirties diena tikrai buvo liūdna ir ūkanota visai Lietuvai."
+  citata_rodoma: |
+    Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­
+    jorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai. Vy­
+    tauto mirties diena tikrai buvo liūdna ir ūkanota visai Lietuvai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -453,7 +461,17 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     diena, 2 indiktas. Ponas Liutauras
     Chreptavičius, maršalka, Naugar­
     duko ir Slonimo vietininkas.
-  citata_rodoma: "Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad\nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos\nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro\nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry-\nwien i 6 sot hrywien i 50 i osm hryzvien\ni dwa skotcy [Vilniuje, birželio 9-ta\ndiena, 2 indiktas."
+  citata_rodoma: |
+    Prūsi­
+    jos istorija mums išsaugojo įdomią žinią apie tai, kad
+    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
+    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
+    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
+    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
+    serebra do mina/ pryszlo 20 tysiacz hry-
+    wien i 6 sot hrywien i 50 i osm hryzvien
+    i dwa skotcy [Vilniuje, birželio 9-ta
+    diena, 2 indiktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -492,7 +510,24 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     regi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų
     laikų tamsybei, kunigaikščių išprusimo stokai arba vi­
     siškam jo nebuvimui86.
-  citata_rodoma: "1. Jo žmonos - Smo­\nlensko kunigaikštytė Ona, o kita - \nAlgimanto Alšėniškio duktė Julijo­\nna -išpažino graikų apeigų tikėjimą \nir Trakų pilyje, dar prieš Lietuvos \nkrikštą, turėjo savo koplyčią, kurios \npėdsakų šios pilies vienos sienos se­\nnovinėje tapyboje yra iki šiol išlikę.\n160\n\n## Puslapis 177\n\nIl KNYGA\ndar barbarų laikais, išsiugdytos, o už tai, ką istorija jame \nregi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų \nlaikų tamsybei, kunigaikščių išprusimo stokai arba vi­\nsiškam jo nebuvimui86."
+  citata_rodoma: |
+    1. Jo žmonos - Smo­
+    lensko kunigaikštytė Ona, o kita -
+    Algimanto Alšėniškio duktė Julijo­
+    na -išpažino graikų apeigų tikėjimą
+    ir Trakų pilyje, dar prieš Lietuvos
+    krikštą, turėjo savo koplyčią, kurios
+    pėdsakų šios pilies vienos sienos se­
+    novinėje tapyboje yra iki šiol išlikę.
+    160
+
+    ## Puslapis 177
+
+    Il KNYGA
+    dar barbarų laikais, išsiugdytos, o už tai, ką istorija jame
+    regi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų
+    laikų tamsybei, kunigaikščių išprusimo stokai arba vi­
+    siškam jo nebuvimui86.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -526,7 +561,24 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     Lenkijos karalius dėkoja didžiajam
     magistrui už jam atsiųstą rūmų gy­
     dytoją ir giria didelį jo patyrimą.
-  citata_rodoma: "53\nF o i g t a s savo Marienburgo miesto\nir pilies istorijoje (Geschichte Marien-\nburgs, der Stadt und des Haupthauses\ndes deutschen Ritter Ordens in Preus-\nsen, p. 241) rašo, kad 1426 metais di­\ndysis kunigaikštis Vytautas prašė di­\ndžiojo magistro rūmų gydytojo\n(Leibarzt), nes jo žmona Julijona, ku­\nrią jis vadina savo mylima šeiminin­\nke (seine liebe Hausfrau), jau metai\nkaip serga, ir kad liga kaip tik šiuo\nmetu taip paūmėjo, jog visiškai nie­\nko negalinti valgyti. Kitame laiške\nLenkijos karalius dėkoja didžiajam\nmagistrui už jam atsiųstą rūmų gy­\ndytoją ir giria didelį jo patyrimą."
+  citata_rodoma: |
+    53
+    F o i g t a s savo Marienburgo miesto
+    ir pilies istorijoje (Geschichte Marien-
+    burgs, der Stadt und des Haupthauses
+    des deutschen Ritter Ordens in Preus-
+    sen, p. 241) rašo, kad 1426 metais di­
+    dysis kunigaikštis Vytautas prašė di­
+    džiojo magistro rūmų gydytojo
+    (Leibarzt), nes jo žmona Julijona, ku­
+    rią jis vadina savo mylima šeiminin­
+    ke (seine liebe Hausfrau), jau metai
+    kaip serga, ir kad liga kaip tik šiuo
+    metu taip paūmėjo, jog visiškai nie­
+    ko negalinti valgyti. Kitame laiške
+    Lenkijos karalius dėkoja didžiajam
+    magistrui už jam atsiųstą rūmų gy­
+    dytoją ir giria didelį jo patyrimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -569,7 +621,16 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
     atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
     vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė.
-  citata_rodoma: "Pasiligojusi Vytauto žmona Julijona bu­\nvo apsistojusi kažkokiame kunigaikščių kaime, vadinama­\nme Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto\nvokiečių raštininko, šiandien negalima suprasti, kokia tai\nbuvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose\nbuvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,\nŽygimantų - Senojo ir Augusto - laikais, kai net Vilniuje\natsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­\nvo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė."
+  citata_rodoma: |
+    Pasiligojusi Vytauto žmona Julijona bu­
+    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
+    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
+    vokiečių raštininko, šiandien negalima suprasti, kokia tai
+    buvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose
+    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
+    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
+    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
+    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -674,7 +735,25 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     wien i 6 sot hrywien i 50 i osm hryzvien
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
-  citata_rodoma: "A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
+  citata_rodoma: |
+    A liteho
+    236
+
+    ## Puslapis 253
+
+    III KNYGA
+    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
+    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
+    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­
+    jos istorija mums išsaugojo įdomią žinią apie tai, kad
+    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
+    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
+    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
+    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
+    serebra do mina/ pryszlo 20 tysiacz hry-
+    wien i 6 sot hrywien i 50 i osm hryzvien
+    i dwa skotcy [Vilniuje, birželio 9-ta
+    diena, 2 indiktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -693,7 +772,12 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
     Lucko suvažiavimas.
     Dail.
-  citata_rodoma: "pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-\nchija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo \nauksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, \nLucko suvažiavimas.  \nDail."
+  citata_rodoma: |
+    pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
+    chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
+    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+    Lucko suvažiavimas.
+    Dail.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -721,7 +805,13 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     Žemaitijos, susitikimas neat­
     nešė jokios naudos, ir netru­
     kus kryžiuočiai iš pasalų pradėjo atvirą karą.
-  citata_rodoma: "Po to ir viena, ir kita šalis puldinėjo\nir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti\ndidesnę kariuomenę, Vytautas patraukė į Trakus ir čia,\nmirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-\nšėnų kunigaikščio Algimantaičio dukra. Julijona mi-\nrusiajai buvo teta."
+  citata_rodoma: |
+    Po to ir viena, ir kita šalis puldinėjo
+    ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
+    didesnę kariuomenę, Vytautas patraukė į Trakus ir čia,
+    mirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-
+    šėnų kunigaikščio Algimantaičio dukra. Julijona mi-
+    rusiajai buvo teta.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

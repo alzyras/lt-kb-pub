@@ -84,10 +84,13 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
+    Lietuva žemėlapiuose:
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
-    Aldona Bieliūnienė ir kiti.
-  citata_rodoma: "Vilnius, 2011; Lietuva žemėlapiuose:\n= Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė\nAldona Bieliūnienė ir kiti."
+    Aldona Bieliūnienė ir kiti. Vilnius, 1999
+  citata_rodoma: |
+    Lietuva žemėlapiuose:
+    = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
+    Aldona Bieliūnienė ir kiti. Vilnius, 1999
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 

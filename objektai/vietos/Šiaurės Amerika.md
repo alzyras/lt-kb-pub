@@ -69,7 +69,14 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
     lavo iš pradžių autonomijos, o vėliau ir nepriklausomybės. Tą
     darbą įvairios srovės organizavo skyrium, o 1918 metų pradžioj
     sukūrė bendrą Vykdomąjį Komitetą.
-  citata_rodoma: "Lietuvių veikla Amerikoj, Šveicarijoj ir kitur**\n\nDidžioji lietuvių kolonija Šiaurės Amerikoj nuo\npat karo pradžios griebėsi šelpti nukentėjusią tėvynę ir reika-\nlavo iš pradžių autonomijos, o vėliau ir nepriklausomybės. Tą\ndarbą įvairios srovės organizavo skyrium, o 1918 metų pradžioj\nsukūrė bendrą Vykdomąjį Komitetą."
+  citata_rodoma: |
+    Lietuvių veikla Amerikoj, Šveicarijoj ir kitur**
+
+    Didžioji lietuvių kolonija Šiaurės Amerikoj nuo
+    pat karo pradžios griebėsi šelpti nukentėjusią tėvynę ir reika-
+    lavo iš pradžių autonomijos, o vėliau ir nepriklausomybės. Tą
+    darbą įvairios srovės organizavo skyrium, o 1918 metų pradžioj
+    sukūrė bendrą Vykdomąjį Komitetą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

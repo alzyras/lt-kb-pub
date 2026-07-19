@@ -117,7 +117,12 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     riui trauktis į Buktos (Žaliosios) miško —
     Palių pakraštį. Kitas būrys užsimaskavo
     Žuvinto ežero salose.
-  citata_rodoma: "Matydamas tokią priešo\ngausą S. Staniškis-Litas įsakė Dzūkų bū-\nriui trauktis į Buktos (Žaliosios) miško —\nPalių pakraštį. Kitas būrys užsimaskavo\nŽuvinto ežero salose."
+  citata_rodoma: |
+    Matydamas tokią priešo
+    gausą S. Staniškis-Litas įsakė Dzūkų bū-
+    riui trauktis į Buktos (Žaliosios) miško —
+    Palių pakraštį. Kitas būrys užsimaskavo
+    Žuvinto ežero salose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

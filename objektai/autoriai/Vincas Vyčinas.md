@@ -123,7 +123,39 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
     grobuoniško
     Prūsijos Kryžiuočių
     ordino.
-  citata_rodoma: "Čiurlionis ir E. M unchas:_ Melancholija ir šviesa\nStasys Šalkauskis \nRaštai, IX tomas\nVincas Vyčinas \nRaštai, III tomas\n\n## Puslapis 496\n\nMYKOLAS BALINSKIS\ngalingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki \nmūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras \nLietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • - \nkronikų ir senųjų, archyvuose saugomų rankraščių išrinkti \npadavimus, bylojančius apie Vilniaus kilmę, tas teises ir \ndaugybę privilegijų^ kuriomis'j o gyv \nnaudojosi, ne tik atgaivinti amžinin \nnius, keleto amžių, įvykius toje sosti \nir galimybės man leido, prisidt \nLietuvos istorijos įvykių aiškinim \nmums patiems, o Europai visai neg \n• riterių žygiais ir išmintingiausia Mindaugo, Gedimino, \nAlgirdo, Kęstučio, Jogailos ir Vytauto politika, \nistorija menkame plote išsitenkančios Tautos, \nkuri pati viena, savosios pagonybės atskirta \nnuo kitų Europos šalių, vien savo \nnarsos dėka įstengė atremti bai­\nsius mongolų antpuolius, \npažaboti Rusią ir nesileisti \npavergiama godžiai \ngrobuoniško \nPrūsijos Kryžiuočių \nordino."
+  citata_rodoma: |
+    Čiurlionis ir E. M unchas:_ Melancholija ir šviesa
+    Stasys Šalkauskis
+    Raštai, IX tomas
+    Vincas Vyčinas
+    Raštai, III tomas
+
+    ## Puslapis 496
+
+    MYKOLAS BALINSKIS
+    galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
+    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras
+    Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • -
+    kronikų ir senųjų, archyvuose saugomų rankraščių išrinkti
+    padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
+    daugybę privilegijų^ kuriomis'j o gyv
+    naudojosi, ne tik atgaivinti amžinin
+    nius, keleto amžių, įvykius toje sosti
+    ir galimybės man leido, prisidt
+    Lietuvos istorijos įvykių aiškinim
+    mums patiems, o Europai visai neg
+    • riterių žygiais ir išmintingiausia Mindaugo, Gedimino,
+    Algirdo, Kęstučio, Jogailos ir Vytauto politika,
+    istorija menkame plote išsitenkančios Tautos,
+    kuri pati viena, savosios pagonybės atskirta
+    nuo kitų Europos šalių, vien savo
+    narsos dėka įstengė atremti bai­
+    sius mongolų antpuolius,
+    pažaboti Rusią ir nesileisti
+    pavergiama godžiai
+    grobuoniško
+    Prūsijos Kryžiuočių
+    ordino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -166,7 +198,26 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
     Rengiama spaudai:
     Sudarytojas Antanas Katalynas
     Estetika - XX a.
-  citata_rodoma: "41a, LT-08217 Vilnius.\nKaina sutartinė\n\n## Puslapis 495\n\nIšleista:\nJozefas Frankas \nAtsiminimai apie Vilnių, 2001\nŽygimantas Liauksminas \nRinktiniai raštai, 2004\nTeodoras Narbutas\nLietuvių tautos istorija, I-V tomai, 1995-2001\nStasys Šalkauskis \nRaštai, I-VIII tomai, 1990-2005\nVincas Vyčinas \nRaštai, I-II tomai, 2002-2007\nRengiama spaudai:\nSudarytojas Antanas Katalynas \nEstetika - XX a."
+  citata_rodoma: |
+    41a, LT-08217 Vilnius.
+    Kaina sutartinė
+
+    ## Puslapis 495
+
+    Išleista:
+    Jozefas Frankas
+    Atsiminimai apie Vilnių, 2001
+    Žygimantas Liauksminas
+    Rinktiniai raštai, 2004
+    Teodoras Narbutas
+    Lietuvių tautos istorija, I-V tomai, 1995-2001
+    Stasys Šalkauskis
+    Raštai, I-VIII tomai, 1990-2005
+    Vincas Vyčinas
+    Raštai, I-II tomai, 2002-2007
+    Rengiama spaudai:
+    Sudarytojas Antanas Katalynas
+    Estetika - XX a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

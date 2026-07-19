@@ -103,7 +103,19 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
     vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
     kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
     matęs vedant nedidelį karių būrį.
-  citata_rodoma: "Kai dėl to supykę\nbroliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis\nšiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis\np. 54), kelio iš Kaliningrado į Laduškiną pradžioje. D. toliau mini Sklunijos valsčių (III,\n262; vardas tapatinamas su 1249.II.9 sutarties dokumento Slinia — PUB, 1, 1, Nr. 218,\np. 163), kurio centras galėjo būti Kalijoje.\n  372  Plg. Ordino turto užrašymus prūsams, perėjusiems į kryžiuočių pusę (Pakarklis\nP., Kryžiuočių..., p. 80—81 ir kt.).\n\nNoliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,\nnei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie\nčia atvyksta“."
+  citata_rodoma: |
+    Kai dėl to supykę
+    broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
+    šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
+    p. 54), kelio iš Kaliningrado į Laduškiną pradžioje. D. toliau mini Sklunijos valsčių (III,
+    262; vardas tapatinamas su 1249.II.9 sutarties dokumento Slinia — PUB, 1, 1, Nr. 218,
+    p. 163), kurio centras galėjo būti Kalijoje.
+      372  Plg. Ordino turto užrašymus prūsams, perėjusiems į kryžiuočių pusę (Pakarklis
+    P., Kryžiuočių..., p. 80—81 ir kt.).
+
+    Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
+    nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
+    čia atvyksta“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -141,7 +141,18 @@ Nenurodyta
     pačioje stipiybėje, nors nemini krivūlės (Krewula) pavadini­
     mo, visiškai nelietuviško, nes paimto iš slavų kalbos: Krywoj,
     Krzywy; Krivūlė reiškia mažą, kreivą daiktą.
-  citata_rodoma: "De quarum junc­\ntione duo bursae pendunt.\n(Vietos ar srities burtininko krivio valdžios\nženklas, arba dvasininko lazda, liaudies kalba\nButhstus, atrodė taip: ilgoka paprasto ąžuolo\nlazda, kurios viršūnę sudaro dvi šakos, išdėsty­\ntos kaip dvišakis; nuo jų jungties kabo du ku­\ntai).\nSymbolium jurisdictionis communi sacerdo­\ntis, jus judicandi habentis, Wajdalotae vel alii id\ngeneris, sive baculus sacerdotalis."
+  citata_rodoma: |
+    De quarum junc­
+    tione duo bursae pendunt.
+    (Vietos ar srities burtininko krivio valdžios
+    ženklas, arba dvasininko lazda, liaudies kalba
+    Buthstus, atrodė taip: ilgoka paprasto ąžuolo
+    lazda, kurios viršūnę sudaro dvi šakos, išdėsty­
+    tos kaip dvišakis; nuo jų jungties kabo du ku­
+    tai).
+    Symbolium jurisdictionis communi sacerdo­
+    tis, jus judicandi habentis, Wajdalotae vel alii id
+    generis, sive baculus sacerdotalis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

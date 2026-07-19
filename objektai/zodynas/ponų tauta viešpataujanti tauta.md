@@ -65,7 +65,8 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
     savo rasinio ir kultūrinio pranašumo vokiečių tauta turinti būti „viešpa-
     taujanti“ arba „ponų tauta“, o „rasės atžvilgiu svetimus elementus“ bū-
     tina pašalinti.
-  citata_rodoma: "likusiomis tautomis, kurios turėjo paklusti vokiečių viešpatavimui, dėl"
+  citata_rodoma: |
+    likusiomis tautomis, kurios turėjo paklusti vokiečių viešpatavimui, dėl
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,7 +74,8 @@ Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politin
     socialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-
     tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
     krašto, nors sustiprino regiono šalių bendradarbiavimą.
-  citata_rodoma: "tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus"
+  citata_rodoma: |
+    tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

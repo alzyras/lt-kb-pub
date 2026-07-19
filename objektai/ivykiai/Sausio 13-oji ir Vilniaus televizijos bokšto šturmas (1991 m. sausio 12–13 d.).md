@@ -159,7 +159,8 @@ Nenurodyta
     visą pasaulį. Laidojant sausio 13-osios aukas, solidarumo su Lietuva
     varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
     kitose Europos šalyse.
-  citata_rodoma: "varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir"
+  citata_rodoma: |
+    varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -180,7 +181,8 @@ Nenurodyta
     sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
     vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
-  citata_rodoma: "vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji"
+  citata_rodoma: |
+    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -225,7 +227,8 @@ Nenurodyta
     Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin-
     damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad
     ši sovietų kariuomenės agresija būtų sustabdyta.
-  citata_rodoma: "damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad"
+  citata_rodoma: |
+    damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

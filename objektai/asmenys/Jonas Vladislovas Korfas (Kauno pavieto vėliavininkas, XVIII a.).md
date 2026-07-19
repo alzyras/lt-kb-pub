@@ -90,7 +90,11 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
     vaivadienei Liudvikai Sapiegaitei Potockai rašė, kad turįs garbės pareikšti, kad Kauno
     pavieto vėliavininkas Jonas Vladislovas Korfas (Jan Wladysław Korf) perėmė nenuro-
     dytą sumą į savo rankas, o vėliau pinigus turėjo perduoti minėtai didikei [7].
-  citata_rodoma: "1749 m. J. D. Lopacinskis Belzo\nvaivadienei Liudvikai Sapiegaitei Potockai rašė, kad turįs garbės pareikšti, kad Kauno\npavieto vėliavininkas Jonas Vladislovas Korfas (Jan Wladysław Korf) perėmė nenuro-\ndytą sumą į savo rankas, o vėliau pinigus turėjo perduoti minėtai didikei [7]."
+  citata_rodoma: |
+    1749 m. J. D. Lopacinskis Belzo
+    vaivadienei Liudvikai Sapiegaitei Potockai rašė, kad turįs garbės pareikšti, kad Kauno
+    pavieto vėliavininkas Jonas Vladislovas Korfas (Jan Wladysław Korf) perėmė nenuro-
+    dytą sumą į savo rankas, o vėliau pinigus turėjo perduoti minėtai didikei [7].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

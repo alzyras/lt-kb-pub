@@ -324,7 +324,11 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
     Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
-  citata_rodoma: "Pačiam Sviatoslavui žuvus\nprie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo\nJogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur\njis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon."
+  citata_rodoma: |
+    Pačiam Sviatoslavui žuvus
+    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
+    Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
+    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -341,7 +345,10 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su
     Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
     Bet maištininkai greitai buvo įveikti.
-  citata_rodoma: "Būdamas sąjungoje su\nAndriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.\nBet maištininkai greitai buvo įveikti."
+  citata_rodoma: |
+    Būdamas sąjungoje su
+    Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
+    Bet maištininkai greitai buvo įveikti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -374,7 +381,22 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     jiems dėl išdavystės. Kai priešas puolė su didžiausiu
     įniršiu, gynėjai turėjo rodyti ne tik nepaprastą narsą,
     bet ir klusnumą.
-  citata_rodoma: "Neimdami į rankas kir-\npaliaubų są ly g a\nvių, pjūklais kariai prisipjo­\nvė medžių ir taip žvaliai bei\n5 67\n\n## Puslapis 566\n\nišmoningai užtaisė rąstais visus sienų plyšius, kad Še-\nmiačičiai rytą suprato nieku būdu negalėsią užimti pi­\nlies. Praradę viltį užkariauti Smolenską, jie savo jėgas\npatraukė prie Mstislavlio, bet ir čia nesusilaukė dides­\nnės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­\ngarsėjęs karvedys, kuriam buvo patikėtas miestas ir\napygarda, sėkmingai atrėmė antpuolį."
+  citata_rodoma: |
+    Neimdami į rankas kir-
+    paliaubų są ly g a
+    vių, pjūklais kariai prisipjo­
+    vė medžių ir taip žvaliai bei
+    5 67
+
+    ## Puslapis 566
+
+    išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
+    miačičiai rytą suprato nieku būdu negalėsią užimti pi­
+    lies. Praradę viltį užkariauti Smolenską, jie savo jėgas
+    patraukė prie Mstislavlio, bet ir čia nesusilaukė dides­
+    nės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­
+    garsėjęs karvedys, kuriam buvo patikėtas miestas ir
+    apygarda, sėkmingai atrėmė antpuolį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -399,7 +421,18 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     ten, vokiečių padedamas, pradėjo atsikariauti Lietuvos
     žemę, ir jau buvo užėmęs pusę Lietuvos žemės ligi Ne­
     ries upės 9, ir Polocko miestas jam pasidavė l0.
-  citata_rodoma: "Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­\nlių sugrįžo, iš kur atėję.\nTą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­\nlensko bajorais ėmė tartis dėl krikščionių kraujo pra­\nliejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie\n\n## Puslapis 89\n\nMstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­\ntrankų, o savo karius paleido po Mstislavlio žemų ir \npraliejo daug krikščioniško kraujo."
+  citata_rodoma: |
+    Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­
+    lių sugrįžo, iš kur atėję.
+    Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­
+    lensko bajorais ėmė tartis dėl krikščionių kraujo pra­
+    liejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie
+
+    ## Puslapis 89
+
+    Mstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­
+    trankų, o savo karius paleido po Mstislavlio žemų ir
+    praliejo daug krikščioniško kraujo.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -423,7 +456,14 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     Kunigaikštis Vytautas su visomis pajėgomis vėl iš­
     žygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti
     Kreivąją pilį bei šaudyti iš patrankų.
-  citata_rodoma: "Žygiuokime prieš jį, \npasitikėdami dievu ir krikščionių galybe.\"\nIr atžygiavo prie Mstislavlio. O kunigaikštis Sveto­\nslavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį \niš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį, \nkad prieš jį ateina su broliais didysis kunigaikštis Skir­\ngaila IJ."
+  citata_rodoma: |
+    Žygiuokime prieš jį,
+    pasitikėdami dievu ir krikščionių galybe."
+    Ir atžygiavo prie Mstislavlio. O kunigaikštis Sveto­
+    slavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį
+    iš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį,
+    kad prieš jį ateina su broliais didysis kunigaikštis Skir­
+    gaila IJ.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

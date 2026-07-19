@@ -75,7 +75,8 @@ Terminas vartojamas šalutinio kruopų gamybos produkto ir vaikų maisto bei ža
     dinamų „šulmilčiais“ . Juos atiduodavo mažiukams. Iš jų dirbdavome
     kietą tešlą, kurią gardžiai valgydavome, o kas nesuvalgyta, iš to lipy­
     davome arkliukus ir žmogiukus.
-  citata_rodoma: "Juos atiduodavo mažiukams. Iš jų dirbdavome kietą tešlą, kurią gardžiai valgydavome, o kas nesuvalgyta, iš to lipydavome arkliukus ir žmogiukus."
+  citata_rodoma: |
+    Juos atiduodavo mažiukams. Iš jų dirbdavome kietą tešlą, kurią gardžiai valgydavome, o kas nesuvalgyta, iš to lipydavome arkliukus ir žmogiukus.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

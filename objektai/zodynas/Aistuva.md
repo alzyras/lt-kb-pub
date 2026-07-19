@@ -77,7 +77,13 @@ media_all_json: |-
     žmonės”, — „Leute des Ostens”. Mūsų kalbininkai Kaz. Jau­
     nius ir Kaz. Būga jį išveda iš žodžio „Aistuva“, kuris kadaise
     reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė1 2).
-  citata_rodoma: "Tik ligšiol dar galutinai nesusitarta ar „aesti”\nyra etnografiškas vardas ar geografiškas, kaip manė daugybė\nsenesnių mokslininkų (pav., Mierzyński), ir reiškia „rytų\nžmonės”, — „Leute des Ostens”. Mūsų kalbininkai Kaz. Jau­\nnius ir Kaz. Būga jį išveda iš žodžio „Aistuva“, kuris kadaise\nreiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė1 2)."
+  citata_rodoma: |
+    Tik ligšiol dar galutinai nesusitarta ar „aesti”
+    yra etnografiškas vardas ar geografiškas, kaip manė daugybė
+    senesnių mokslininkų (pav., Mierzyński), ir reiškia „rytų
+    žmonės”, — „Leute des Ostens”. Mūsų kalbininkai Kaz. Jau­
+    nius ir Kaz. Būga jį išveda iš žodžio „Aistuva“, kuris kadaise
+    reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė1 2).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

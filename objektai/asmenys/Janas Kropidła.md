@@ -91,7 +91,23 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
     dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
     skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
     daugelis dažnai buvodavo jo rūmuose.
-  citata_rodoma: ") mirė Vytauto žmona Ona, kuri kadaise di­\ndžiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­\nlėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­\ndė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono \nAlgimantaičio dukterį. Tačiau Vilniaus vyskupas Petras tam \nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, \nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas \nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką.\nVytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose."
+  citata_rodoma: |
+    ) mirė Vytauto žmona Ona, kuri kadaise di­
+    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
+    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
+    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
+    Algimantaičio dukterį. Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
+    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
+    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
+    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
+    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
+    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
+    daugelis dažnai buvodavo jo rūmuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

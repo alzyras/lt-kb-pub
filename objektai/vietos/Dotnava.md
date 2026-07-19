@@ -84,7 +84,8 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
     Mums
     įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyven­
     ti su mumis ir skiriasi kalba ir būdu.
-  citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu."
+  citata_rodoma: |
+    Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -107,7 +108,8 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
     Dotnavietis, atsikėlęs iš ry­
     to, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto
     plaukus, apsivelka ir tada eina į darbą.
-  citata_rodoma: "Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą."
+  citata_rodoma: |
+    Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą.
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

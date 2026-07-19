@@ -73,7 +73,14 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
     vyko. Kurše tarp lietuvių ir Ordino vyko
     nuolatinės kovos, abi pusės jų metu pa-
     tyrė didelių nuostolių.
-  citata_rodoma: "Mindaugo - „Lietuvos galingo karaliaus“\npajėgos įsiveržė į Kuršą, su piliadaužė-\nmis puolė Ordino anksčiau užvaldytą\nEmbutės pilį, tačiau jos užimti nepa-\nvyko. Kurše tarp lietuvių ir Ordino vyko\nnuolatinės kovos, abi pusės jų metu pa-\ntyrė didelių nuostolių."
+  citata_rodoma: |
+    Mindaugo - „Lietuvos galingo karaliaus“
+    pajėgos įsiveržė į Kuršą, su piliadaužė-
+    mis puolė Ordino anksčiau užvaldytą
+    Embutės pilį, tačiau jos užimti nepa-
+    vyko. Kurše tarp lietuvių ir Ordino vyko
+    nuolatinės kovos, abi pusės jų metu pa-
+    tyrė didelių nuostolių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

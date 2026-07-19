@@ -149,7 +149,18 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
     bę Padnestrės apylinkes, paliko šias vietas puolantiems
     persams ir taip darė be paliovos traukdamiesi nuo jų
     kariuomenės.
-  citata_rodoma: "37\nDarijaus puolimai prieš skitus. Apie 520 metus prieš\nKristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­\nbai išmintingas monarchas Indatiras. Jis niekino grai­\nkus ir persus, nes jie buvo svetimi žmonės, o šie savo\nruožtu niekino skitus kaip barbarus. Tačiau skitų galybė\nir reikšmė politinėje arenoje dar buvo nemažos, nes per­\nsų karalius Darijus siekė sąjungos su Indatiru ir norėjo\nvesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal\nsu panieka; į prašymą karalaitės rankos atsakyta nei­\ngiamai."
+  citata_rodoma: |
+    37
+    Darijaus puolimai prieš skitus. Apie 520 metus prieš
+    Kristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­
+    bai išmintingas monarchas Indatiras. Jis niekino grai­
+    kus ir persus, nes jie buvo svetimi žmonės, o šie savo
+    ruožtu niekino skitus kaip barbarus. Tačiau skitų galybė
+    ir reikšmė politinėje arenoje dar buvo nemažos, nes per­
+    sų karalius Darijus siekė sąjungos su Indatiru ir norėjo
+    vesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal
+    su panieka; į prašymą karalaitės rankos atsakyta nei­
+    giamai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

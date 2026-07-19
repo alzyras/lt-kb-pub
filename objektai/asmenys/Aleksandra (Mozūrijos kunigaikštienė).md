@@ -72,7 +72,13 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
     Lenkijos valdantieji sluoksniai Švitrigailai
     siūlė net Lenkijos vainiką arba valdyti
     Lietuvą, bet ryšyje su Lenkija.
-  citata_rodoma: "To siekė\nir Jogaila, tarpininkaujant abiejų seseriai,\nMozūrijos kunigaikštienei Aleksandrai.\nLenkijos valdantieji sluoksniai Švitrigailai\nsiūlė net Lenkijos vainiką arba valdyti\nLietuvą, bet ryšyje su Lenkija."
+  citata_rodoma: |
+    To siekė
+    ir Jogaila, tarpininkaujant abiejų seseriai,
+    Mozūrijos kunigaikštienei Aleksandrai.
+    Lenkijos valdantieji sluoksniai Švitrigailai
+    siūlė net Lenkijos vainiką arba valdyti
+    Lietuvą, bet ryšyje su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

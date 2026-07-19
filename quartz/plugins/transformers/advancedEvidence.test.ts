@@ -8,7 +8,7 @@ const markdown = `# Objektas
 ## Teiginiai
 - id: t-001
   global_id: t-00042
-  teiginys: Testinis teiginys
+  teiginys: Cituojamas sakinys.
   atnaujinta: 2026-07-18 12:34
   saltinio_vieta: 120-156; hash=technical-only; match=exact
   sudarymo_pagrindimas: Teiginys performuluotas taip, kad aiškiai įvardytų subjektą ir kontekstą.
@@ -157,7 +157,7 @@ describe("AdvancedEvidence transformer", () => {
 
 ## Teiginiai
 - id: t-001
-  teiginys: Testinis teiginys
+  teiginys: Pirma citata ir Antra citata.
   pagrindžia:
     - c-001
 
@@ -182,7 +182,7 @@ describe("AdvancedEvidence transformer", () => {
 
 ## Teiginiai
 - id: t-001
-  teiginys: Testinis teiginys
+  teiginys: Pirma citata ir Antra citata.
   pagrindžia:
     - c-001
     - c-002
@@ -217,7 +217,7 @@ describe("AdvancedEvidence transformer", () => {
 ## Teiginiai
 - t-010
   global_id: t-05208
-  teiginys: Testinis teiginys su naujos projekcijos ID.
+  teiginys: Tikroji teiginio citata.
   pagrindžia:
     - c-34195
 
@@ -264,6 +264,32 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /aria-controls="claim-evidence-t-001-1"/)
     assert.match(transformed, /Citata nerasta\./)
     assert.doesNotMatch(transformed, /data-claim-citation-id="c-404"/)
+  })
+
+  test("does not render a citation quote when it has no text overlap with the claim", () => {
+    const plugin = AdvancedEvidence()
+    const mismatchedMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  teiginys: Vytautas vadovavo kariuomenei Žalgirio mūšyje.
+  pagrindžia:
+    - c-001
+
+## Citatos
+- id: c-001
+  šaltinis: Kitas šaltinis
+  citata_originali: |
+    Visai kita citata apie derlių ir žemės darbus.
+`
+
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, mismatchedMarkdown) ?? mismatchedMarkdown,
+    )
+
+    assert.match(transformed, /claim-citation-mismatch/)
+    assert.doesNotMatch(transformed, /claim-citation-quote/)
+    assert.match(transformed, /Citatos tekstas nerodomas/)
   })
 
   test("uses unique DOM keys when local claim ids repeat and keeps public page order ids", () => {

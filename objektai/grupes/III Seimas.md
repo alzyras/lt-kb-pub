@@ -117,7 +117,11 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
     8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
     laimėjo.
-  citata_rodoma: "O čia dar po kie-\ntoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės \n8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-\nlaimėjo."
+  citata_rodoma: |
+    O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +144,11 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
     klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
     o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
-  citata_rodoma: "Opozi-\ncijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-\nklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, \no nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu."
+  citata_rodoma: |
+    Opozi-
+    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
+    klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
+    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -163,7 +171,14 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
     likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
     dvasininkams), ėmė mažinti karininkų skaičių.
-  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n155\nIII Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę \ndemokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-\nti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-\nnaikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai \nrengti susirinkimus."
+  citata_rodoma: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    155
+    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
+    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
+    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+    rengti susirinkimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -87,7 +87,8 @@ Nenurodyta
     Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
     įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konf-
     likto 1940 m. balandį atleido jį iš pareigų.
-  citata_rodoma: "Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje"
+  citata_rodoma: |
+    Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

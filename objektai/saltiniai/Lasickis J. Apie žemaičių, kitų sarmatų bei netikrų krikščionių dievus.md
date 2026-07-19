@@ -69,7 +69,8 @@ Dusburgietis teigia, kad lasickis J.
   citata_originali: |
     13—34.
     Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969.
-  citata_rodoma: "Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969."
+  citata_rodoma: |
+    Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

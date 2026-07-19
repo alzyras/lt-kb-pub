@@ -77,7 +77,11 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
     moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
     liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
     nas Kazimieras -1664 m.
-  citata_rodoma: "Mūrinius namus, kurie buvo skirti tos koplyčios paja­\nmoms, privilegijomis nuo mokesčių atleido Lenkijos kara­\nliai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­\nnas Kazimieras -1664 m."
+  citata_rodoma: |
+    Mūrinius namus, kurie buvo skirti tos koplyčios paja­
+    moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
+    liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
+    nas Kazimieras -1664 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

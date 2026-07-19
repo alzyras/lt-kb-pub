@@ -120,7 +120,16 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
     veršio, ant galvos išsipūtęs kaltūnas; viena koja nulaužta, kitai
     trūksta pusės pėdos, bet ir ta išlikusi pusė didesnė negu pa­
     prastai ir rodo, kad dievas buvo apautas vyžomis (šliurėmis?
-  citata_rodoma: "Dėl šito kyla abejonė33, kadangi viename 1249 metų kry­\nžiuočių dokumente, kurio originalą autorius matė, vietoje žo­\ndžio confringere (daužyti, laužyti -  R. J.), kuris davė pradžią\nšiai nuomonei, parašyta confingere. Kad ir kaip ten būtų, mes\nlaikomės bendros ir visų istorikų, kurie galbūt šiuo atveju bu­\nvo susipažinę su kitu šaltiniu, priimtos nuomonės.\nKažkokio žemaičių stabo nuolaužos piešinys yra J. F. R.\nkronikoje su prierašu: Schomaiten Götze (Žemaičių stabas)\n(žiūrėk II lentelės 5-ąjį piešinį)."
+  citata_rodoma: |
+    Dėl šito kyla abejonė33, kadangi viename 1249 metų kry­
+    žiuočių dokumente, kurio originalą autorius matė, vietoje žo­
+    džio confringere (daužyti, laužyti -  R. J.), kuris davė pradžią
+    šiai nuomonei, parašyta confingere. Kad ir kaip ten būtų, mes
+    laikomės bendros ir visų istorikų, kurie galbūt šiuo atveju bu­
+    vo susipažinę su kitu šaltiniu, priimtos nuomonės.
+    Kažkokio žemaičių stabo nuolaužos piešinys yra J. F. R.
+    kronikoje su prierašu: Schomaiten Götze (Žemaičių stabas)
+    (žiūrėk II lentelės 5-ąjį piešinį).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

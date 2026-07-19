@@ -174,7 +174,18 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 
 
                              16.
-  citata_rodoma: "Apie Gedimino pilies ir jos papilio sudeginimą\n\n  Tuo pat metu Ragainės broliai su savo valdiniais apyaušryje, kai lietuviai dar miegojo,\nslaptai įsibrovė  į Gedimino pilies papilį ir jį visą su žmonėmis, moterimis ir vaikais bei\nvisais namų apyvokos daiktais iki pamatų sudegino, išskyrus 12 vyrų, kurie, pabėgę  į\npilį, išvengė mirties nuosprendžio.\n\n\n\n\n                         16."
+  citata_rodoma: |
+    Apie Gedimino pilies ir jos papilio sudeginimą
+
+      Tuo pat metu Ragainės broliai su savo valdiniais apyaušryje, kai lietuviai dar miegojo,
+    slaptai įsibrovė  į Gedimino pilies papilį ir jį visą su žmonėmis, moterimis ir vaikais bei
+    visais namų apyvokos daiktais iki pamatų sudegino, išskyrus 12 vyrų, kurie, pabėgę  į
+    pilį, išvengė mirties nuosprendžio.
+
+
+
+
+                             16.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -240,7 +251,12 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
     ir, pasičiupęs kalaviją, abiem rankomis nurentė galvą brolėno žudikui. Siame mūšyje
     krito nukauti keturi broliai, būtent: du iš Bolando, brolis Bernardas iš Hohenšteino, brolis
     Jonas Vienuolis ir 6 jų vyrai.
-  citata_rodoma: "Tačiau brolių vėliava su savo\nsąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis\ngrafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius. Kai brolių\nkariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie\njuos persekiojo."
+  citata_rodoma: |
+    Tačiau brolių vėliava su savo
+    sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
+    grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius. Kai brolių
+    kariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie
+    juos persekiojo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -89,7 +89,15 @@ media_all_json: |-
     gai įvykdyti suplanuotą puolimą ir priar-
     tėti prie Kauno, būtų iškilęs didelis pavojus
     Lietuvos valstybingumui.
-  citata_rodoma: "Balno reidas į Gardino pulko užnugarį\n\nvisuomenei ir buvo pramintas „Širvintų ste-\nbuklu“. Ši pergalė leido lietuviams perimti\niniciatyvą. Jei lenkams būtų pavykę sėkmin-\ngai įvykdyti suplanuotą puolimą ir priar-\ntėti prie Kauno, būtų iškilęs didelis pavojus\nLietuvos valstybingumui."
+  citata_rodoma: |
+    Balno reidas į Gardino pulko užnugarį
+
+    visuomenei ir buvo pramintas „Širvintų ste-
+    buklu“. Ši pergalė leido lietuviams perimti
+    iniciatyvą. Jei lenkams būtų pavykę sėkmin-
+    gai įvykdyti suplanuotą puolimą ir priar-
+    tėti prie Kauno, būtų iškilęs didelis pavojus
+    Lietuvos valstybingumui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

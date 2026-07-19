@@ -79,7 +79,8 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
     fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
     prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
     jais grįstą Lietuvos istorijos veikalą.
-  citata_rodoma: "reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus"
+  citata_rodoma: |
+    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

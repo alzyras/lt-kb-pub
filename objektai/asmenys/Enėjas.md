@@ -106,7 +106,12 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
     tais Drujos apylinkėse nusausinto ežero dugne rastos trys žal­
     varinės statulėlės: jos buvo apie 18 colių aukščio, įskaitant pa­
     grindą - 2 colių storumo trikampę žalvarinę lentą.
-  citata_rodoma: "Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje\nGraikijoje ir toliau.\nEnėjas savo Karibus iš Trojos atsinešė į Italiją. Ypač jiems\nlenkėsi Alba ir Roma; pastarojo miesto cirke buvę jiems trys\naukurai."
+  citata_rodoma: |
+    Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
+    Graikijoje ir toliau.
+    Enėjas savo Karibus iš Trojos atsinešė į Italiją. Ypač jiems
+    lenkėsi Alba ir Roma; pastarojo miesto cirke buvę jiems trys
+    aukurai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

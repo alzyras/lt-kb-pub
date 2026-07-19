@@ -62,7 +62,13 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
     sykį tarė valdovo lūpos". Šitaip jis kalbėjo viešai, tuo
     tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
     ir nustatė, jog tai įvyks kitų metų rugsėjo 16.
-  citata_rodoma: "Senosios draugystės pastovumui laiduoti visiškai \nužtenka ankstesnio susitarimo, nepaisant to, kad jis \nnepatvirtintas jokia priesaika. Negalima abejoti tuo, ką \nsykį tarė valdovo lūpos\". Šitaip jis kalbėjo viešai, tuo \ntarpu slaptomis susitarė pagreitinti pakėlimą į sostą \nir nustatė, jog tai įvyks kitų metų rugsėjo 16."
+  citata_rodoma: |
+    Senosios draugystės pastovumui laiduoti visiškai
+    užtenka ankstesnio susitarimo, nepaisant to, kad jis
+    nepatvirtintas jokia priesaika. Negalima abejoti tuo, ką
+    sykį tarė valdovo lūpos". Šitaip jis kalbėjo viešai, tuo
+    tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
+    ir nustatė, jog tai įvyks kitų metų rugsėjo 16.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

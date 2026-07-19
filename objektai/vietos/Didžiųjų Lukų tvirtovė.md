@@ -88,7 +88,13 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
     1579 m. Lietuvos kariuomenė
     atsiėmė Polocką, 0 1580 m.
     užėmė Didžiųjų Lukų tvirtovę.
-  citata_rodoma: "Obolen: 2\nce o AN “Kaluga B\n\n1579 m. Lietuvos kariuomenė\natsiėmė Polocką, 0 1580 m.\nužėmė Didžiųjų Lukų tvirtovę."
+  citata_rodoma: |
+    Obolen: 2
+    ce o AN “Kaluga B
+
+    1579 m. Lietuvos kariuomenė
+    atsiėmė Polocką, 0 1580 m.
+    užėmė Didžiųjų Lukų tvirtovę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -119,7 +125,19 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
     las Radvila Rudasis žvalgų buvo greitai
     informuotas, pats jis tuo metu buvo tik
     apie 100 km nuo Polocko, Lukomlyje.
-  citata_rodoma: "Buvo planuojama\nstambaus masto ilgalaikė kampanija,\n\ngal net visai Lietuvos Didžiajai\nKunigaikštystei užimti, nes\n\ndar prieš tai į Didžiųjų Lukų tvirtovę buvo\nnurodyta suvežti atsargas, kurių kariuome-\nnei turėjo pakakti net pusei metų.\n\nIš Polocko su savo kariuomene kuni-\ngaikštis P."
+  citata_rodoma: |
+    Buvo planuojama
+    stambaus masto ilgalaikė kampanija,
+
+    gal net visai Lietuvos Didžiajai
+    Kunigaikštystei užimti, nes
+
+    dar prieš tai į Didžiųjų Lukų tvirtovę buvo
+    nurodyta suvežti atsargas, kurių kariuome-
+    nei turėjo pakakti net pusei metų.
+
+    Iš Polocko su savo kariuomene kuni-
+    gaikštis P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

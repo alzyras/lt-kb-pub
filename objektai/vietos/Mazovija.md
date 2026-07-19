@@ -585,7 +585,10 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     Šių etninių poslinkių chronologija nėra pakankamai aiški (HP, 1, 1, p. 290—291 — Labuda
     G.). XIII a., kryžiuočių atsikraustymo į pavyslį išvakarėse, Kulmo žemė vėl buvo prūsų
     rankose (D. II, 1; III, 7).
-  citata_rodoma: "Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino\nXIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame\nregione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda."
+  citata_rodoma: |
+    Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
+    XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
+    regione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -684,7 +687,13 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
     e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
-  citata_rodoma: "2. Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186."
+  citata_rodoma: |
+    2. Prūsijos žemės aprašymas
+
+       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
+    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -725,7 +734,30 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     supta miesto degėsių, pati
     užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
     užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
-  citata_rodoma: "Mat, nors visą Belzo\nkunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­\nlės kunigaikščiui Aleksandrui Narimantaičiui atidavė\nVolynę, tačiau abi šias žemes atidavė su ta sąlyga,\nkad aukščiausią galią į Rusią turėsiąs Lenkijos kara­\nlius, o pilis, miestus bei įgulas tvarkysią lenkų skirti\nvietininkai. Gal supykę dėl šios lenkų padarytos skriau­\ndos, gal dėl to, kad žmonė-\n1367 m e ta i\nse pasklido kalbos, jog, Po­\nlocko vyskupo patarti, kry­\nžiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­\ndas, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją\npasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-\nką, svarbų miestą, priklau-\nL ie tu v ia i\nsu d eg in a\nsiusį popiežiui; užkariavo ir\nP u ltu sk ą\npilį, kuri, iš visų pusių ap­\nsupta miesto degėsių, pati\nužsidegė, o įgula nepajėgė kovoti su liepsna; vėliau\nužgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė."
+  citata_rodoma: |
+    Mat, nors visą Belzo
+    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
+    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
+    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
+    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
+    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
+    vietininkai. Gal supykę dėl šios lenkų padarytos skriau­
+    dos, gal dėl to, kad žmonė-
+    1367 m e ta i
+    se pasklido kalbos, jog, Po­
+    locko vyskupo patarti, kry­
+    žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­
+    das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją
+    pasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-
+    ką, svarbų miestą, priklau-
+    L ie tu v ia i
+    su d eg in a
+    siusį popiežiui; užkariavo ir
+    P u ltu sk ą
+    pilį, kuri, iš visų pusių ap­
+    supta miesto degėsių, pati
+    užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
+    užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
@@ -760,7 +792,23 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     klysdami, o gal tikrai žino­
     dami, jog šitaip iš tikrųjų
     buvo.
-  citata_rodoma: "Tuo\ntarpu Jogaila, atsikratęs rū­\npesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis\nsu kariuomene patraukė prieš Jonušą, Mazovijos ku­\nnigaikštį; iš keršto kaip beįmanydamas nuniokojęs\nMazoviją, perkėlė siaubiančius pulkus į Sandomirą,\nlenkų žemę. Apie šį karą su lenkais nieko nepasakoja\nKromeris, tačiau, kad kas nepasigestų to, ką aprašo\ndaugelis rusų metraštininkų, mūsų Strijkovskis pasi­\nstengė, kad skaitytojas suži-\nJ o g a ilo s ž y g is  j M a-\nnotų, ką šie surašė — gal\nz o v iją  ir L en k iją\nklysdami, o gal tikrai žino­\ndami, jog šitaip iš tikrųjų\nbuvo."
+  citata_rodoma: |
+    Tuo
+    tarpu Jogaila, atsikratęs rū­
+    pesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis
+    su kariuomene patraukė prieš Jonušą, Mazovijos ku­
+    nigaikštį; iš keršto kaip beįmanydamas nuniokojęs
+    Mazoviją, perkėlė siaubiančius pulkus į Sandomirą,
+    lenkų žemę. Apie šį karą su lenkais nieko nepasakoja
+    Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
+    daugelis rusų metraštininkų, mūsų Strijkovskis pasi­
+    stengė, kad skaitytojas suži-
+    J o g a ilo s ž y g is  j M a-
+    notų, ką šie surašė — gal
+    z o v iją  ir L en k iją
+    klysdami, o gal tikrai žino­
+    dami, jog šitaip iš tikrųjų
+    buvo.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

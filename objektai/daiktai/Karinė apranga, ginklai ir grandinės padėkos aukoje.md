@@ -107,7 +107,16 @@ Nenurodyta
     permaldavimo auka tapo tokia, kad vaidila pats susižeisdavo
     ir savo kraują atnašaudavo dievams kaip auką, o prie Pokliaus
     stabo dėdavo gyvulio galvą.
-  citata_rodoma: "Nėra priežasties abejoti, kad se­\nnovės laikais tai buvo bendras lietuvių protėvių paprotys, ta­\nčiau labai seniai užmirštas, kadangi kryžiuočių rašytojai, iš­\nvardydami pavergtos tautos nedorybes, nebūtų pamiršę tai pa­\nminėti. Tačiau šito papročio liekana yra ši auka. Ji susidėdavo\niš didžiosios aukos ir bendrų vaišių; jų metu ant laužo sude­\ngindavo ką nors iš žymiausių belaisvių, paimtų su ginklu ran­\nkoje kovos lauke, su jo žirgu, su visa karine apranga ir gin­\nklais."
+  citata_rodoma: |
+    Nėra priežasties abejoti, kad se­
+    novės laikais tai buvo bendras lietuvių protėvių paprotys, ta­
+    čiau labai seniai užmirštas, kadangi kryžiuočių rašytojai, iš­
+    vardydami pavergtos tautos nedorybes, nebūtų pamiršę tai pa­
+    minėti. Tačiau šito papročio liekana yra ši auka. Ji susidėdavo
+    iš didžiosios aukos ir bendrų vaišių; jų metu ant laužo sude­
+    gindavo ką nors iš žymiausių belaisvių, paimtų su ginklu ran­
+    koje kovos lauke, su jo žirgu, su visa karine apranga ir gin­
+    klais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

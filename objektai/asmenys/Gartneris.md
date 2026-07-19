@@ -89,7 +89,14 @@ Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, ai
     našūs į Manioc, vaisius tribriaunis, turi tris sėklų bran­
     duolius, valgomus migdolus, iš kurių gaunama alyva,
     vartojama vietoj riebalų.
-  citata_rodoma: "Tokia yra tikroji padėtis. Galima būtų stebėtis, jei\nkaršto klimato medis Phyllantus Emblica būtų atsidū­\nręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą\n,,De fructibus et seminibus plantarum\", kad įsitikintume,\njog minėtas vaisius neišaugo jokioje Emblikoje. Prie to\ndar reikia pridurti, kad šis medis užauga vos 40 pėdų\naukščio, o prūsiška palmė buvo du kartus aukštesnė."
+  citata_rodoma: |
+    Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
+    karšto klimato medis Phyllantus Emblica būtų atsidū­
+    ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
+    ,,De fructibus et seminibus plantarum", kad įsitikintume,
+    jog minėtas vaisius neišaugo jokioje Emblikoje. Prie to
+    dar reikia pridurti, kad šis medis užauga vos 40 pėdų
+    aukščio, o prūsiška palmė buvo du kartus aukštesnė.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -101,7 +101,17 @@ Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įteka
     kitais Desnos upyno rusų kunigaikščiais ir bajorais, LDK vasalais,
     buvo persimetęs j Maskvos didžiojo kunigaikščio Vasilijaus Dimitrl-
     jevlčlaus purę.
-  citata_rodoma: "256\n\n## Puslapis 249\n\nM LDK ir Aukso ordos totorių pajėgos susidūrė 1399 m rug­\npjūčio 5 d , bet Timur-Kutlukas nepradėjo kovos, laukdamas emiro \nEdigėjaus su papildomomis totorių {»jėgomis.\n1 1  Vorksla — UTSR upė, teka pro Poltava, jteka | Dneprų ii \nkairės pusės, apie 300 km žemiau Kijevo. Paties mūšio vieta ne­\nišaiškinta."
+  citata_rodoma: |
+    256
+
+    ## Puslapis 249
+
+    M LDK ir Aukso ordos totorių pajėgos susidūrė 1399 m rug­
+    pjūčio 5 d , bet Timur-Kutlukas nepradėjo kovos, laukdamas emiro
+    Edigėjaus su papildomomis totorių {»jėgomis.
+    1 1  Vorksla — UTSR upė, teka pro Poltava, jteka | Dneprų ii
+    kairės pusės, apie 300 km žemiau Kijevo. Paties mūšio vieta ne­
+    išaiškinta.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

@@ -214,7 +214,11 @@ media_all_json: |-
     kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
     iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
     Livonija.
-  citata_rodoma: "Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų\nkariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,\niš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su\nLivonija."
+  citata_rodoma: |
+    Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų
+    kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
+    iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
+    Livonija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -233,7 +237,13 @@ media_all_json: |-
     iki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos
 
     1923 m.
-  citata_rodoma: "Mindaugo ir\nvėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-\ndinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių\niki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos\n\n1923 m."
+  citata_rodoma: |
+    Mindaugo ir
+    vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
+    dinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių
+    iki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos
+
+    1923 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -262,7 +272,17 @@ media_all_json: |-
     bet vėliau, Durbės mūšio išvakarėse, prie
     Vartajų, Georgenburgo ir pačiame mū-
     šyje — tik lietuvius arba „pagonis“.
-  citata_rodoma: "Vokiečiai siekė išsau-\ngoti lietuvių blokuojamą Georgenburgą\n(Jurbarką), būrė dideles pajėgas Klaipė-\ndoje, rengdamiesi dideliam puolimui, kuris\ngaliausiai baigėsi mūšiu prie Durbės.\n\nLietuvių pajėgos\n\nEiliuota Livonijos kronika, aprašydama\nSkuodo mūšį (1259 m."
+  citata_rodoma: |
+    Vokiečiai siekė išsau-
+    goti lietuvių blokuojamą Georgenburgą
+    (Jurbarką), būrė dideles pajėgas Klaipė-
+    doje, rengdamiesi dideliam puolimui, kuris
+    galiausiai baigėsi mūšiu prie Durbės.
+
+    Lietuvių pajėgos
+
+    Eiliuota Livonijos kronika, aprašydama
+    Skuodo mūšį (1259 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -292,7 +312,16 @@ media_all_json: |-
     jungtines žemaičių ir paties Lietuvos val-
     dovo karaliaus Mindaugo karines pajėgas,
     nukreiptas prieš Ordiną.
-  citata_rodoma: "Lietuvių pajėgos\n\nEiliuota Livonijos kronika, aprašydama\nSkuodo mūšį (1259 m.), mini žemaičius,\nbet vėliau, Durbės mūšio išvakarėse, prie\nVartajų, Georgenburgo ir pačiame mū-\nšyje — tik lietuvius arba „pagonis“.\n\nP."
+  citata_rodoma: |
+    Lietuvių pajėgos
+
+    Eiliuota Livonijos kronika, aprašydama
+    Skuodo mūšį (1259 m.), mini žemaičius,
+    bet vėliau, Durbės mūšio išvakarėse, prie
+    Vartajų, Georgenburgo ir pačiame mū-
+    šyje — tik lietuvius arba „pagonis“.
+
+    P.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

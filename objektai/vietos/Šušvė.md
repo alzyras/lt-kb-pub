@@ -67,7 +67,9 @@ media_all_json: |-
     (« den Lettowen, die Sameiten sin genannt », eil. 4466).
     Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: "Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.\nŠušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."
+  citata_rodoma: |
+    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
+    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

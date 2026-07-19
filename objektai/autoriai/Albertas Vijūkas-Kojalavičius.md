@@ -273,7 +273,11 @@ media_all_json: |-
     ma ši pataisa, jau neabejojo, kad Lietuvos bajorų
     herbyno autorius buvo pats A. Vijūkas-Kojalavi-
     čius.
-  citata_rodoma: "Tai rodo, kad T. Narbutas tuo metu, kai buvo daro­\nma ši pataisa, jau neabejojo, kad Lietuvos bajorų\nherbyno autorius buvo pats A. Vijūkas-Kojalavi-\nčius."
+  citata_rodoma: |
+    Tai rodo, kad T. Narbutas tuo metu, kai buvo daro­
+    ma ši pataisa, jau neabejojo, kad Lietuvos bajorų
+    herbyno autorius buvo pats A. Vijūkas-Kojalavi-
+    čius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -296,7 +300,11 @@ media_all_json: |-
     natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti.
-  citata_rodoma: "Pradžia jau buvo padaryta:\nišleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-\njūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­\nnealogijų rinkinį."
+  citata_rodoma: |
+    Pradžia jau buvo padaryta:
+    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
+    jūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­
+    nealogijų rinkinį.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -315,7 +323,13 @@ media_all_json: |-
     Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
     tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
     nės monetos su nežinomais atvaizdais, herbais ir užrašais.
-  citata_rodoma: "Vadinasi, bu­\nvo tik Jupiteris, turėjęs antrąją ypatybę*.\nŽinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti\npiorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos\nnuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­\nse buvo žinomi Lietuvoje."
+  citata_rodoma: |
+    Vadinasi, bu­
+    vo tik Jupiteris, turėjęs antrąją ypatybę*.
+    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
+    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
+    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
+    se buvo žinomi Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -368,7 +382,16 @@ media_all_json: |-
     skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
     vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
     ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
-  citata_rodoma: "Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų. Jėzuitas\nKojai avičius*** parašė lietuvių istoriją lotynų kalba; jis\napsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius\nrėmus, ne visuomet taikliai taisydamas jo spragas.\n6\nNuo to meto nieko iš šio dalyko neišėjo ištisai: mė­\nginimai, nedidelės žinutės, studijos, prielaidų fragmentai."
+  citata_rodoma: |
+    Latvių, arba
+    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
+    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
+    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
+    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
+    rėmus, ne visuomet taikliai taisydamas jo spragas.
+    6
+    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
+    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -410,7 +433,16 @@ media_all_json: |-
     Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
     kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
     simus pateiks kiti tyrinėjimai.
-  citata_rodoma: "Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­\nda XII amžiuje išsivedė su savimi lietuvių genčių kolo­\nnistus, nuo seno gyvenusius prie Rosės upės.\n101\nSi nuomonė darosi vis panašesnė į tiesą, kai Kojala-\nvičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­\ndo istoriją, aprašančią pagalbą totorių vado Mamajaus,\nkuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą\nBeloserka. Mamajus puldinėjo XIV amžiaus viduryje."
+  citata_rodoma: |
+    Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
+    da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
+    nistus, nuo seno gyvenusius prie Rosės upės.
+    101
+    Si nuomonė darosi vis panašesnė į tiesą, kai Kojala-
+    vičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­
+    do istoriją, aprašančią pagalbą totorių vado Mamajaus,
+    kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą
+    Beloserka. Mamajus puldinėjo XIV amžiaus viduryje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

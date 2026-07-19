@@ -84,7 +84,11 @@ Nenurodyta
     vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
     šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
     nėse iškovojo bronzos medalius.
-  citata_rodoma: "Barselonos olimpinėse žaidynėse iško-\nvojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-\nšininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-\nnėse iškovojo bronzos medalius."
+  citata_rodoma: |
+    Barselonos olimpinėse žaidynėse iško-
+    vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
+    šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
+    nėse iškovojo bronzos medalius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

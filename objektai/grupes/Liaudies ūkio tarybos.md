@@ -71,7 +71,8 @@ Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino
     įsteigus regionines Liaudies ūkio tarybas (LŪT), pramonės valdymas turėjo
     persitvarkyti iš šakinio į teritorinį. Lietuvos LŪT ėmė kontroliuoti šalies
     įmones, kuriose iš viso dirbo 76 proc. šalies darbininkų.
-  citata_rodoma: "persitvarkyti iš šakinio į teritorinį. Lietuvos LŪT ėmė kontroliuoti šalies"
+  citata_rodoma: |
+    persitvarkyti iš šakinio į teritorinį. Lietuvos LŪT ėmė kontroliuoti šalies
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

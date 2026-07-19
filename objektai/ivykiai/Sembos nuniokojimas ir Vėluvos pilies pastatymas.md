@@ -139,7 +139,18 @@ Nenurodyta
     dievo apvaizdos, nedarančios klaidingų sprendimų: ji taip patvarkė, kad šita pilis, kurią
     tuo metu nadruviai buvo pasistatę sau apsiginti, ilgainiui jiems pavirto kilpa ant kaklo
     ir atvedė prie žlugimo.
-  citata_rodoma: "Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,\nskalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat\nbūgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino\ntolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami\nir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė\npastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo\nbrautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330\nbei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama\ndievo apvaizdos, nedarančios klaidingų sprendimų: ji taip patvarkė, kad šita pilis, kurią\ntuo metu nadruviai buvo pasistatę sau apsiginti, ilgainiui jiems pavirto kilpa ant kaklo\nir atvedė prie žlugimo."
+  citata_rodoma: |
+    Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
+    skalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat
+    būgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino
+    tolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami
+    ir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė
+    pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
+    brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
+    bei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama
+    dievo apvaizdos, nedarančios klaidingų sprendimų: ji taip patvarkė, kad šita pilis, kurią
+    tuo metu nadruviai buvo pasistatę sau apsiginti, ilgainiui jiems pavirto kilpa ant kaklo
+    ir atvedė prie žlugimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -160,7 +171,14 @@ Nenurodyta
     ir atvedė prie žlugimo. Mat dievas palietė ir minėtojo Tirsko, pilies vado, ir kitų su juo
     buvusių vyrų širdis, ir jie, išsižadėję stabmeldystės, suartėjo su Kristaus tikėjimu bei
     broliais ir pasidarė uolūs Kristaus tikėjimo gynėjai.
-  citata_rodoma: "Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330\nbei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama\ndievo apvaizdos, nedarančios klaidingų sprendimų: ji taip patvarkė, kad šita pilis, kurią\ntuo metu nadruviai buvo pasistatę sau apsiginti, ilgainiui jiems pavirto kilpa ant kaklo\nir atvedė prie žlugimo. Mat dievas palietė ir minėtojo Tirsko, pilies vado, ir kitų su juo\nbuvusių vyrų širdis, ir jie, išsižadėję stabmeldystės, suartėjo su Kristaus tikėjimu bei\nbroliais ir pasidarė uolūs Kristaus tikėjimo gynėjai."
+  citata_rodoma: |
+    Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
+    bei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama
+    dievo apvaizdos, nedarančios klaidingų sprendimų: ji taip patvarkė, kad šita pilis, kurią
+    tuo metu nadruviai buvo pasistatę sau apsiginti, ilgainiui jiems pavirto kilpa ant kaklo
+    ir atvedė prie žlugimo. Mat dievas palietė ir minėtojo Tirsko, pilies vado, ir kitų su juo
+    buvusių vyrų širdis, ir jie, išsižadėję stabmeldystės, suartėjo su Kristaus tikėjimu bei
+    broliais ir pasidarė uolūs Kristaus tikėjimo gynėjai.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

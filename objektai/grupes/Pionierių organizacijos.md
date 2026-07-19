@@ -75,7 +75,8 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
     Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai
     dėstė tik rusiškai. Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
     organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
-  citata_rodoma: "organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo."
+  citata_rodoma: |
+    organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -95,7 +96,8 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
     gą. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
     steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
     peliai, leisti sienlaikraščiai.
-  citata_rodoma: "Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose"
+  citata_rodoma: |
+    Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

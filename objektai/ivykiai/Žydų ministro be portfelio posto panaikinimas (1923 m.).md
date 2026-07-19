@@ -88,7 +88,8 @@ Nenurodyta
     dangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros
     reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų
     žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
-  citata_rodoma: "žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“."
+  citata_rodoma: |
+    žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

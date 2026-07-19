@@ -101,7 +101,14 @@ Nenurodyta
     mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
     vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
     lizmo išgarsino draugiją net už Lietuvos ribų.
-  citata_rodoma: "Draugijos narių leidžiamas \nhumoristinis laikraštis Wiadomości brukowe (Grindinio žinios), \nkuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a. \nAnglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­\nmingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­\nvos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­\nlizmo išgarsino draugiją net už Lietuvos ribų."
+  citata_rodoma: |
+    Draugijos narių leidžiamas
+    humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
+    kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
+    Anglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­
+    mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
+    vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
+    lizmo išgarsino draugiją net už Lietuvos ribų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

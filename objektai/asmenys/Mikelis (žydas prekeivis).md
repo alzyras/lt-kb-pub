@@ -99,7 +99,8 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
     tinės nelaikė, nes jos nieks negėrė.
     Buvo tai blaivybės metai, paskelb­
     ti vyskupo Motiejaus Valančiaus, tai 1858 metai.
-  citata_rodoma: "Buvo tai blaivybės metai, paskelb­ti vyskupo Motiejaus Valančiaus, tai 1858 metai."
+  citata_rodoma: |
+    Buvo tai blaivybės metai, paskelb­ti vyskupo Motiejaus Valančiaus, tai 1858 metai.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -120,7 +121,8 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
     už butą mokėjo daugiau kaip antra tiek.
     Jo verslas buvo nešioti sil­
     kes ir buikas po aplinkinius kaimus.
-  citata_rodoma: "Jo verslas buvo nešioti sil­kes ir buikas po aplinkinius kaimus."
+  citata_rodoma: |
+    Jo verslas buvo nešioti sil­kes ir buikas po aplinkinius kaimus.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -140,7 +142,8 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
     Antras nuomininkas buvo žydas, Mikelis,
     jis turėjo pačią ir ne­
     maža vaikų.
-  citata_rodoma: "Antras nuomininkas buvo žydas, Mikelis, jis turėjo pačią ir ne­maža vaikų."
+  citata_rodoma: |
+    Antras nuomininkas buvo žydas, Mikelis, jis turėjo pačią ir ne­maža vaikų.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

@@ -71,7 +71,10 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
     Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug
     Gedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę
     nuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus.
-  citata_rodoma: "Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug\nGedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę\nnuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus."
+  citata_rodoma: |
+    Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug
+    Gedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę
+    nuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

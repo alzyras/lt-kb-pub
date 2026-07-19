@@ -58,7 +58,11 @@ Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobia
     iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę
     išvaroma arklių. Iš lietuvių auginamų paukščių yra žinomos vištos,
     žąsys ir antys.
-  citata_rodoma: "Kronikos nuolat mini per karus didelius skaičius\niš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę\nišvaroma arklių. Iš lietuvių auginamų paukščių yra žinomos vištos,\nžąsys ir antys."
+  citata_rodoma: |
+    Kronikos nuolat mini per karus didelius skaičius
+    iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę
+    išvaroma arklių. Iš lietuvių auginamų paukščių yra žinomos vištos,
+    žąsys ir antys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

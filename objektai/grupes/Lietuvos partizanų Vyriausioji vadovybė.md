@@ -69,7 +69,13 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
     jant visų Lietuvos partizanų Vyriausiąją vadovybę.
     Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų
     Tauro apygardos Birutės rinktinei.
-  citata_rodoma: "Tapes partizanu, buvo paskirtas Tauro apy-\ngardos Geležinio Vilko rinktinės spaudos skyriaus\nviršininku, rezistencinių laikraščių „Laisvės žvalgas“\nir „Kovos keliu“ redaktoriumi. Prisidėjo organizuo-\njant visų Lietuvos partizanų Vyriausiąją vadovybę.\nNuo 1947 m."
+  citata_rodoma: |
+    Tapes partizanu, buvo paskirtas Tauro apy-
+    gardos Geležinio Vilko rinktinės spaudos skyriaus
+    viršininku, rezistencinių laikraščių „Laisvės žvalgas“
+    ir „Kovos keliu“ redaktoriumi. Prisidėjo organizuo-
+    jant visų Lietuvos partizanų Vyriausiąją vadovybę.
+    Nuo 1947 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

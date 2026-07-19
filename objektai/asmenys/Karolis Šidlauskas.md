@@ -80,7 +80,8 @@ Karolis Šidlauskas aprašomas kaip nedidelio ūgio samdinys, drauge tarnavęs s
     37
 
     pramanytas Karaliuku.
-  citata_rodoma: "Su manimi drauge tarnavo per vyrą kitas, Karolis Šidlauskas, nedidokas žmogus, pramanytas Karaliuku."
+  citata_rodoma: |
+    Su manimi drauge tarnavo per vyrą kitas, Karolis Šidlauskas, nedidokas žmogus, pramanytas Karaliuku.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

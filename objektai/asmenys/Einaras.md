@@ -75,7 +75,12 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
     knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
     ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
     kai, gyvenę bendruomenėje su tam tikromis teisėmis.
-  citata_rodoma: "24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­\nvo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-\nninga arba. Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie\nvieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o\nnaktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą."
+  citata_rodoma: |
+    24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­
+    vo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-
+    ninga arba. Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie
+    vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o
+    naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

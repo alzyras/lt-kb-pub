@@ -54,7 +54,12 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
     nybę, į senuosius laikus nukėlė nekritiškus XVI-XVII amž. apra­
     šymus — ypač J. Lasickio ir M. Stryjkovskio — laikydami juos
     pirmykščia pagonybe.
-  citata_rodoma: "XIX amž. istorikai romantikai, nekreipdami dėmesio į\njau krikščionybės poveikyje stipriai deformuotą ir suskilusią pago­\nnybę, į senuosius laikus nukėlė nekritiškus XVI-XVII amž. apra­\nšymus — ypač J. Lasickio ir M. Stryjkovskio — laikydami juos\npirmykščia pagonybe."
+  citata_rodoma: |
+    XIX amž. istorikai romantikai, nekreipdami dėmesio į
+    jau krikščionybės poveikyje stipriai deformuotą ir suskilusią pago­
+    nybę, į senuosius laikus nukėlė nekritiškus XVI-XVII amž. apra­
+    šymus — ypač J. Lasickio ir M. Stryjkovskio — laikydami juos
+    pirmykščia pagonybe.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

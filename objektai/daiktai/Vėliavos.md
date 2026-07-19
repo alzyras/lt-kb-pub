@@ -663,7 +663,12 @@ Nenurodyta
     vadovybė atiteko Vytautui.
     Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
     niku.
-  citata_rodoma: "Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie\nvyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės\nvadovybė atiteko Vytautui.\nKitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­\nniku."
+  citata_rodoma: |
+    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
+    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
+    vadovybė atiteko Vytautui.
+    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
+    niku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -704,7 +709,13 @@ Nenurodyta
     Kryžiuočiai, pamanę, jog mūšis laimė-
     tas, užtraukė pergalės giesmę „Kristus
     prisikėlė“.
-  citata_rodoma: "Lenkai patyrė didelį spaudimą tiek\ncentre, tiek dešinėje, neatlaikiusi spau-\ndimo net krito didžioji Krokuvos vėliava.\nKryžiuočiai, pamanę, jog mūšis laimė-\ntas, užtraukė pergalės giesmę „Kristus\nprisikėlė“."
+  citata_rodoma: |
+    Lenkai patyrė didelį spaudimą tiek
+    centre, tiek dešinėje, neatlaikiusi spau-
+    dimo net krito didžioji Krokuvos vėliava.
+    Kryžiuočiai, pamanę, jog mūšis laimė-
+    tas, užtraukė pergalės giesmę „Kristus
+    prisikėlė“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -721,7 +732,8 @@ Nenurodyta
     Tuo lemtingu momentu Jungingenas į kautynes
     dar pasiuntė 16 rezerve stovėjusių pulkų. Sąjungininkų eilės su­
     svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas.
-  citata_rodoma: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
+  citata_rodoma: |
+    Vyriausioji Lenkijos vėliava pateko į priešų rankas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -739,7 +751,10 @@ Nenurodyta
     popiežius ir imperatorius vis buvo kryžiuočių pusėje. Pvz., Zig­
     manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
     Lenkiją su 10 vėliavų^38.
-  citata_rodoma: "Pvz., Zig­\nmanto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė\nLenkiją su 10 vėliavų^38."
+  citata_rodoma: |
+    Pvz., Zig­
+    manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
+    Lenkiją su 10 vėliavų^38.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -758,7 +773,9 @@ Nenurodyta
     iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
     jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
     vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
-  citata_rodoma: "Jį saugojo kunigaikščio Kaributo\nvėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs."
+  citata_rodoma: |
+    Jį saugojo kunigaikščio Kaributo
+    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -809,7 +826,21 @@ Nenurodyta
     plotas gynybai, užsidarė Kremliuje, o kartu
     su juo ir metropolitas, kunigaikščiai bei
     bajorai.
-  citata_rodoma: "pavasarį).\n\nKai ryte po pamaldų „Maskvos kuni-\ngaikštis su bajorais ir su kunigaikščiais\nišeina iš cerkvės, Algirdas su visomis savo\npajėgomis, išskleidęs savo vėliavas, pasi-\nrodė ant Pasveikinimo kalno (Paklonaja\ngara)“ prie Maskvos. Maskvos didysis\n\nkunigaikštis, įsakęs aplink sudeginti visą\npriemiestį („posadą“), kad būtų atviras\nplotas gynybai, užsidarė Kremliuje, o kartu\nsu juo ir metropolitas, kunigaikščiai bei\nbajorai."
+  citata_rodoma: |
+    pavasarį).
+
+    Kai ryte po pamaldų „Maskvos kuni-
+    gaikštis su bajorais ir su kunigaikščiais
+    išeina iš cerkvės, Algirdas su visomis savo
+    pajėgomis, išskleidęs savo vėliavas, pasi-
+    rodė ant Pasveikinimo kalno (Paklonaja
+    gara)“ prie Maskvos. Maskvos didysis
+
+    kunigaikštis, įsakęs aplink sudeginti visą
+    priemiestį („posadą“), kad būtų atviras
+    plotas gynybai, užsidarė Kremliuje, o kartu
+    su juo ir metropolitas, kunigaikščiai bei
+    bajorai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -866,7 +897,10 @@ Nenurodyta
     šas pakriks. Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
     Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
     sugrįžo į kovos lauką.
-  citata_rodoma: "Vytauto vadovaujami\nLietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,\nsugrįžo į kovos lauką."
+  citata_rodoma: |
+    Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -908,7 +942,17 @@ Nenurodyta
     ~
 
     52 VORSKLOS MUSIS 1399 m. rugpjūčio 12 d.
-  citata_rodoma: "Pagal istorinę tradiciją Vytautas\n\nXIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis\nkarys tarnauja Lietuvos valdovo asmeninėje vėliavoje.\nJo tunika puošia valdovo heraldinė simbolika -\nGediminaičių stulpai\n\n~\n\n52 VORSKLOS MUSIS 1399 m."
+  citata_rodoma: |
+    Pagal istorinę tradiciją Vytautas
+
+    XIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis
+    karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.
+    Jo tunika puošia valdovo heraldinė simbolika -
+    Gediminaičių stulpai
+
+    ~
+
+    52 VORSKLOS MUSIS 1399 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

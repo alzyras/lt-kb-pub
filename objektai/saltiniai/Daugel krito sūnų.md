@@ -64,7 +64,9 @@ Daugel krito sūnų...
     p. 226, „MŪŠIO DALYVIO ATSIMINIMAI, LGGRT centras, „Gyvosios atminties programa“.
     p.230, „MALDAKNYGĖ“, Ramanauskas- Vanagas A. Daugel krito sūnų... / Partizanų gretose,
     Vilnius, 2007, p. 184-185.
-  citata_rodoma: "p.230, „MALDAKNYGĖ“, Ramanauskas- Vanagas A. Daugel krito sūnų... / Partizanų gretose,\nVilnius, 2007, p. 184-185."
+  citata_rodoma: |
+    p.230, „MALDAKNYGĖ“, Ramanauskas- Vanagas A. Daugel krito sūnų... / Partizanų gretose,
+    Vilnius, 2007, p. 184-185.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

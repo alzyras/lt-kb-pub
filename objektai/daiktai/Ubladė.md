@@ -89,11 +89,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Šeštasis trobesys vadinamas buvo ublade, kurioje buvo^ duonkepis kakalys, nuo to
-        vadinamas, jog po juo ne vien duoną ir pyragus, bet stėkius^235 , guires^236 , puokius^237 ir kitas žuvis
-        bei mėsas kepė jau liepos geldose, jau ant šiaudų; tengi džiovino grūdus, grybus ir obuolius
-        obuolynei, tengi buvo ir girnos sukeltos grūdams malti, it kaip pas rymionis, kame grūdus malė,
-        ten pat ir duoną kepė.
-  citata_rodoma: "Šeštasis trobesys vadinamas buvo ublade, kurioje buvo^ duonkepis kakalys, nuo to\nvadinamas, jog po juo ne vien duoną ir pyragus, bet stėkius^235 , guires^236 , puokius^237 ir kitas žuvis\nbei mėsas kepė jau liepos geldose, jau ant šiaudų; tengi džiovino grūdus, grybus ir obuolius\nobuolynei, tengi buvo ir girnos sukeltos grūdams malti, it kaip pas rymionis, kame grūdus malė,\nten pat ir duoną kepė."
+    vadinamas, jog po juo ne vien duoną ir pyragus, bet stėkius^235 , guires^236 , puokius^237 ir kitas žuvis
+    bei mėsas kepė jau liepos geldose, jau ant šiaudų; tengi džiovino grūdus, grybus ir obuolius
+    obuolynei, tengi buvo ir girnos sukeltos grūdams malti, it kaip pas rymionis, kame grūdus malė,
+    ten pat ir duoną kepė.
+  citata_rodoma: |
+    Šeštasis trobesys vadinamas buvo ublade, kurioje buvo^ duonkepis kakalys, nuo to
+    vadinamas, jog po juo ne vien duoną ir pyragus, bet stėkius^235 , guires^236 , puokius^237 ir kitas žuvis
+    bei mėsas kepė jau liepos geldose, jau ant šiaudų; tengi džiovino grūdus, grybus ir obuolius
+    obuolynei, tengi buvo ir girnos sukeltos grūdams malti, it kaip pas rymionis, kame grūdus malė,
+    ten pat ir duoną kepė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -107,9 +112,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Šalip tos ubladės po vienu stogu buvo kamarėlė,
-        kurioje minkytuviai, muldos^238 , muldelės, rėčiai, sietai, sėtuvės, saikai, rakandos ir tas, kas prie
-        miltų pridera, kartais ir patys miltai buvo laikomi.
-  citata_rodoma: "Šalip tos ubladės po vienu stogu buvo kamarėlė,\nkurioje minkytuviai, muldos^238 , muldelės, rėčiai, sietai, sėtuvės, saikai, rakandos ir tas, kas prie\nmiltų pridera, kartais ir patys miltai buvo laikomi."
+    kurioje minkytuviai, muldos^238 , muldelės, rėčiai, sietai, sėtuvės, saikai, rakandos ir tas, kas prie
+    miltų pridera, kartais ir patys miltai buvo laikomi.
+  citata_rodoma: |
+    Šalip tos ubladės po vienu stogu buvo kamarėlė,
+    kurioje minkytuviai, muldos^238 , muldelės, rėčiai, sietai, sėtuvės, saikai, rakandos ir tas, kas prie
+    miltų pridera, kartais ir patys miltai buvo laikomi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

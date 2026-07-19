@@ -78,7 +78,10 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
     ni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5).
-  citata_rodoma: "7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­\nkarus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­\nni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5)."
+  citata_rodoma: |
+    7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
+    karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
+    ni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

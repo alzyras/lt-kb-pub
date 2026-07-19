@@ -357,7 +357,12 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad
     tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavo-
     jaus nematė.
-  citata_rodoma: "Keturi\nLietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po\ndešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad\ntikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavo-\njaus nematė."
+  citata_rodoma: |
+    Keturi
+    Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po
+    dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad
+    tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavo-
+    jaus nematė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -376,7 +381,11 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     jų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių)
     Lietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuš-
     kusius raumenis.
-  citata_rodoma: "A. Smetonai atrodė nepavojinga nusilpusių kairiųjų partijų veikla, ėjo\njų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių)\nLietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuš-\nkusius raumenis."
+  citata_rodoma: |
+    A. Smetonai atrodė nepavojinga nusilpusių kairiųjų partijų veikla, ėjo
+    jų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių)
+    Lietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuš-
+    kusius raumenis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -395,7 +404,11 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
     dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
     daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
-  citata_rodoma: "V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju\natstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-\ndyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota\ndaugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius."
+  citata_rodoma: |
+    V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju
+    atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
+    dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
+    daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -420,7 +433,15 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: "Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė\nLietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-\ntus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas\nAntanas Sniečkus tapo Valstybės saugumo departamento direktoriumi, o\nMečislovas Gedvilas – vidaus reikalų ministru; birželio 25 dieną įteisinta\nLKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-\ntoninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir\nžurnalai."
+  citata_rodoma: |
+    Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
+    Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-
+    tus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas
+    Antanas Sniečkus tapo Valstybės saugumo departamento direktoriumi, o
+    Mečislovas Gedvilas – vidaus reikalų ministru; birželio 25 dieną įteisinta
+    LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
+    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
+    žurnalai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -441,7 +462,11 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
     vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
     jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-  citata_rodoma: "Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –\ntoks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti\nvieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-\njaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos."
+  citata_rodoma: |
+    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
+    toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
+    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
+    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -511,7 +536,19 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
     komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
     Lietuvos kultūros palikimu.
-  citata_rodoma: "Botyriaus nuotrauka\n\nL I E T U V O S  I S T O R I J A\n220\nKultūros suvienodinimas\nJ. Stalino valdymo metais vyko tiesmukas lietuvių kultūros \ngriovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-\ntūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo \nkomunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-\nmunistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant \nkomunistinės ideologijos autoritetus, susidorojama su nepriklausomos \nLietuvos kultūros palikimu."
+  citata_rodoma: |
+    Botyriaus nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    220
+    Kultūros suvienodinimas
+    J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
+    griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-
+    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
+    komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-
+    munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
+    komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
+    Lietuvos kultūros palikimu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -630,7 +667,10 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     kvos nurodymus. Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
     gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
     lietuviai) XX suvažiavimas.
-  citata_rodoma: "Komunistų partijos veiklai didelę įtaką turėjo 1989 m. \ngruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc. \nlietuviai) XX suvažiavimas."
+  citata_rodoma: |
+    Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
+    gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
+    lietuviai) XX suvažiavimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -653,7 +693,15 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
     nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
     būdu, o savarankiška LKP šiam planui nesipriešino.
-  citata_rodoma: "1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą \nkampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-\ndis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos \nLietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-\nliarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-\nva be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų \nnebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu \nbūdu, o savarankiška LKP šiam planui nesipriešino."
+  citata_rodoma: |
+    1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą
+    kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-
+    dis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos
+    Lietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-
+    liarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-
+    va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
+    nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
+    būdu, o savarankiška LKP šiam planui nesipriešino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

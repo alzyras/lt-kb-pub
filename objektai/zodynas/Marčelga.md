@@ -102,7 +102,8 @@ Papildomos aiškios formos neišskirtos.
         vadinos, ta visą godą^443 ir žmonystą^444 jaunojo pusės turėjo vesti, svečius, užvis jaunosios gentis,
         riešutais vaišino. Paskui visi linksminos ir gėrė porą dienų nuotakos namuose, kas vadinos
         ūkvaizdžius pergerti.
-  citata_rodoma: "Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir prietelius, tarp kurių vienas buvo jų vyresniuoju, arba gaspadorium, vadinamas marčelga, nuo to, jog marčią martavo^441."
+  citata_rodoma: |
+    Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir prietelius, tarp kurių vienas buvo jų vyresniuoju, arba gaspadorium, vadinamas marčelga, nuo to, jog marčią martavo^441.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

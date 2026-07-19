@@ -76,7 +76,8 @@ Dusburgietis teigia, kad vanagas A.
   citata_originali: |
     Лукшайте И. К., Об обычае двойного выкупа за женшину по литовскому праву. —
     Советская этнография, М., 1968, 2, с. 114—120.
-  citata_rodoma: "Vanagas A. Galindai Ispanijoje ir Amerikoje.— MG, 1965, Nr. 11, p. 38—39."
+  citata_rodoma: |
+    Vanagas A. Galindai Ispanijoje ir Amerikoje.— MG, 1965, Nr. 11, p. 38—39.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

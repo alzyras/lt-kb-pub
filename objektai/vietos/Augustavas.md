@@ -98,7 +98,18 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
     Lenkija to pasiūlymo nepriėmė ir reikalavo, kad lietuvių ka-
     riuomenė pasitrauktų ligi demarkacijos linijos, dar 1919 metų
     liepos 27 d. nustatytos (tai antroji, arba Fošo, linija).
-  citata_rodoma: "Nepaisydami Lietuvos neutrali-\nteto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu\npuolė ir lietuvių įgulas, esančias Gardino ir Augustavo ruože.\nNorėdama išvengti susidūrimų kaip tik toj srity, kur sutartis\nsu Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-\nrimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-\n\nkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.\nLenkija to pasiūlymo nepriėmė ir reikalavo, kad lietuvių ka-\nriuomenė pasitrauktų ligi demarkacijos linijos, dar 1919 metų\nliepos 27 d."
+  citata_rodoma: |
+    Nepaisydami Lietuvos neutrali-
+    teto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu
+    puolė ir lietuvių įgulas, esančias Gardino ir Augustavo ruože.
+    Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
+    su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
+    rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
+
+    kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
+    Lenkija to pasiūlymo nepriėmė ir reikalavo, kad lietuvių ka-
+    riuomenė pasitrauktų ligi demarkacijos linijos, dar 1919 metų
+    liepos 27 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

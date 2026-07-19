@@ -192,7 +192,10 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     sinę Lietuvos gyventojų emigraciją. Įvairiais duomenimis, nuo 1990 m. iš
     Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
     Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
-  citata_rodoma: "Įvairiais duomenimis, nuo 1990 m. iš\nLietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,\nAiriją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją."
+  citata_rodoma: |
+    Įvairiais duomenimis, nuo 1990 m. iš
+    Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
+    Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -213,7 +216,10 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: "Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o\nZemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-\nra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
+  citata_rodoma: |
+    Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
+    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
+    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -236,7 +242,15 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     ginklų ir savanorių iš Londono. Sukilėliai
     planavo užimti Palangos ir Liepojos uos-
     tus.
-  citata_rodoma: "pavasarį paskyrė Peterburge tarnavusį\n\nRusijos kariuomenės Generalinio štabo\nkarininką, kpt. Zigmantą Sierakauską,\n\nginklų ir savanorių iš Londono. Sukilėliai\nplanavo užimti Palangos ir Liepojos uos-\ntus."
+  citata_rodoma: |
+    pavasarį paskyrė Peterburge tarnavusį
+
+    Rusijos kariuomenės Generalinio štabo
+    karininką, kpt. Zigmantą Sierakauską,
+
+    ginklų ir savanorių iš Londono. Sukilėliai
+    planavo užimti Palangos ir Liepojos uos-
+    tus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -257,7 +271,11 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     Aukos
     Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
     mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano.
-  citata_rodoma: "Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­\nvėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:\nbe jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas\nalus."
+  citata_rodoma: |
+    Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
+    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
+    be jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas
+    alus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -154,7 +154,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     Dar apie 1253 m. totorių invazijos pavojus baimino vokiečių ordiną
     Prūsuose. 1254 m. pradžioje buvo skelbiamas ordinui apginti prieš
     totorius kryžiaus karas^143.
-  citata_rodoma: "1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas."
+  citata_rodoma: |
+    1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -174,7 +175,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     Durbės kautynių — visas Pabaltijys sukils prieš vokiečių ordiną,
     popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus
     karo žygiui prieš totorius^147.
-  citata_rodoma: "popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius."
+  citata_rodoma: |
+    popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +193,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
     ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
     kryžiaus karus prieš pagonis.
-  citata_rodoma: "Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis."
+  citata_rodoma: |
+    Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -209,7 +212,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     pėdomis ir viešai palaikydami krikščionybę, jo įpėdiniai butų galėję
     Lietuvai išsaugoti karališką karūną visam laikui. Tokiu atveju būtų
     buvę liautasi prieš lietuvius skelbti kryžiaus karus.
-  citata_rodoma: "būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus."
+  citata_rodoma: |
+    būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

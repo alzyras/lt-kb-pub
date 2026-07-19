@@ -104,7 +104,11 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
     žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
     kranto ruožą.
-  citata_rodoma: "Toliau į vakarus gy­\nveno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos\nžemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos\nkranto ruožą."
+  citata_rodoma: |
+    Toliau į vakarus gy­
+    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
+    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
+    kranto ruožą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +130,16 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     kranto ruožą.
     Lietuvių ir Lietuvos vardo kaimynų šaltiniuose ilgai neranda­
     ma.
-  citata_rodoma: "sąvartoje latviai buvo vieninteliai baltai,\nkurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,\napimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­\nkrauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­\nveno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos\nžemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos\nkranto ruožą.\nLietuvių ir Lietuvos vardo kaimynų šaltiniuose ilgai neranda­\nma."
+  citata_rodoma: |
+    sąvartoje latviai buvo vieninteliai baltai,
+    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
+    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
+    krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
+    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
+    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
+    kranto ruožą.
+    Lietuvių ir Lietuvos vardo kaimynų šaltiniuose ilgai neranda­
+    ma.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,7 +159,10 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     galių gyvenamame plote, į kairę nuo Dauguvos žiočių. Kai ši-
     tuose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai
     pirmiausia jie susidūrė su lybiais.
-  citata_rodoma: "Kai ši-\ntuose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai\npirmiausia jie susidūrė su lybiais."
+  citata_rodoma: |
+    Kai ši-
+    tuose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai
+    pirmiausia jie susidūrė su lybiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

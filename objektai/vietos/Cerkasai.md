@@ -74,7 +74,16 @@ media_all_json: |-
     įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.,
     pastaraisiais dešimtmečiais akcentuotos
     dvi priešpaskutinės datos. Tarptautinių
-  citata_rodoma: "(į šiaurę nuo Kijevo), Kanevas, Cerkasai\n(prie Dniepro žemiau Kijevo; xvi a. vidu-\nrio Kanevo pilies aprašo išlikusiame pa-\ndavime sakoma, kad Kanevą su Čerkasais\nįkūrė Gediminas).\n\nGedimino žygis, mūšis prie Irpenės ir\nKijevo užėmimas istoriografijoje datuotas\nįvairiai, 1320-1321, 1322, 1323, 1324, 1333 m."
+  citata_rodoma: |
+    (į šiaurę nuo Kijevo), Kanevas, Cerkasai
+    (prie Dniepro žemiau Kijevo; xvi a. vidu-
+    rio Kanevo pilies aprašo išlikusiame pa-
+    davime sakoma, kad Kanevą su Čerkasais
+    įkūrė Gediminas).
+
+    Gedimino žygis, mūšis prie Irpenės ir
+    Kijevo užėmimas istoriografijoje datuotas
+    įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

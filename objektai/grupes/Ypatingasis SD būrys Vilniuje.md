@@ -70,7 +70,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
     ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
     pa).
-  citata_rodoma: "iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD"
+  citata_rodoma: |
+    iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

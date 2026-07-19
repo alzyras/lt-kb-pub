@@ -81,7 +81,14 @@ Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma
     Ecclesiae Ruthenicae
     ab origine suspectu fidei ad nostra usque tempora in sius ca-
     pitibus seu primatibus Russiae cum S. Sede Apost.
-  citata_rodoma: "Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­\ndimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:\n499\n\n## Puslapis 509\n\nNiesecki Kasper."
+  citata_rodoma: |
+    Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­
+    dimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:
+    499
+
+    ## Puslapis 509
+
+    Niesecki Kasper.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

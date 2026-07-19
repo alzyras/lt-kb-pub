@@ -70,7 +70,8 @@ Dusburgietis teigia, kad mažiulis V.
     2/М. Hein, E. Maschke.— Königsberg Pr.: 1 Lieferung (1309—
     1324); 2 Lieferung (1324—1331), 1935; 3 Lieferung (1331—1335), 1937; 4 Lieferung
     (Orts, Personen und Sachregister), 1939; Bd.
-  citata_rodoma: "Mažiulis V. Jotvingiai.— MG, 1966, Nr. 1, p. 32—33."
+  citata_rodoma: |
+    Mažiulis V. Jotvingiai.— MG, 1966, Nr. 1, p. 32—33.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

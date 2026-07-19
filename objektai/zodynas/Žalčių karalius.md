@@ -132,7 +132,14 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
     mingas atsitikimas, nes jų dievukas ant jų pykstąs; jeigu nutin­
     ka kokia nors nelaimė dėl kokio nors atsitiktinumo arba dėl 12
     12 Lib.
-  citata_rodoma: "Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,\nkuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų\nnegalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­\nčius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­\nmintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­\nčių karalius su visa didžiule roplių svita. Burtininkių visuomet į\nnaudą išeidavo šios rūšies fetišų vartojimas."
+  citata_rodoma: |
+    Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,
+    kuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų
+    negalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­
+    čius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­
+    mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­
+    čių karalius su visa didžiule roplių svita. Burtininkių visuomet į
+    naudą išeidavo šios rūšies fetišų vartojimas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -156,7 +163,12 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
     vo (Ukapirmo) broliu“. Visa tai galima suderinti, padarius prie­
     laidą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje
     vonioje.
-  citata_rodoma: "Tas žymusis lietuviškų dalykų tyrinėtojas tvirtina ir tai, jog spirališ-\nkai susivijusio žalčio stabas, apie kurį bus pasakojama kituose\nstraipsniuose, nebuvo Atrimpo, bet Žalčių karaliaus, „kurį dar ir\nšiandien kai kuriose srityse lietuviai laiko tikru aukščiausiojo die­\nvo (Ukapirmo) broliu“."
+  citata_rodoma: |
+    Tas žymusis lietuviškų dalykų tyrinėtojas tvirtina ir tai, jog spirališ-
+    kai susivijusio žalčio stabas, apie kurį bus pasakojama kituose
+    straipsniuose, nebuvo Atrimpo, bet Žalčių karaliaus, „kurį dar ir
+    šiandien kai kuriose srityse lietuviai laiko tikru aukščiausiojo die­
+    vo (Ukapirmo) broliu“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

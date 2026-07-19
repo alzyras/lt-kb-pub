@@ -110,7 +110,12 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
     nik Historyczno-Prawny, I t., 7 zesz., 1925;** **_Państwo litewskie w latach
     1386-1398_** **, žr. Księga pamiątkowa ku uczczeniu 400-setnej rocznicy Statutu
     Litewskiego, Vilnius 1932.
-  citata_rodoma: "**\n(^130) **J. Adamus :** **_Zastaw w prawie litewskiem XV i XVI wieku_** **, Pamięt­\nnik Historyczno-Prawny, I t., 7 zesz., 1925;** **_Państwo litewskie w latach\n1386-1398_** **, žr. Księga pamiątkowa ku uczczeniu 400-setnej rocznicy Statutu\nLitewskiego, Vilnius 1932."
+  citata_rodoma: |
+    **
+    (^130) **J. Adamus :** **_Zastaw w prawie litewskiem XV i XVI wieku_** **, Pamięt­
+    nik Historyczno-Prawny, I t., 7 zesz., 1925;** **_Państwo litewskie w latach
+    1386-1398_** **, žr. Księga pamiątkowa ku uczczeniu 400-setnej rocznicy Statutu
+    Litewskiego, Vilnius 1932.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +138,9 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: "Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,\n1930, 313-332 p."
+  citata_rodoma: |
+    Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
+    1930, 313-332 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +160,13 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
     (^12) **LUB, VI, 140. Plg. J. Adamus :** **_O tytule panującego,_** **KH, 1930,
     313-314 p.**
     (^13) **Plg. Vcl.
-  citata_rodoma: "Tačiau netu­\nrėjimas pastovaus ortodoksų metropolito Didžiosios Lietuvos kuni­\n\n(^12) **LUB, VI, 140. Plg. J. Adamus :** **_O tytule panującego,_** **KH, 1930,\n313-314 p.**\n(^13) **Plg."
+  citata_rodoma: |
+    Tačiau netu­
+    rėjimas pastovaus ortodoksų metropolito Didžiosios Lietuvos kuni­
+
+    (^12) **LUB, VI, 140. Plg. J. Adamus :** **_O tytule panującego,_** **KH, 1930,
+    313-314 p.**
+    (^13) **Plg.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

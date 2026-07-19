@@ -74,7 +74,12 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
     visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
     žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
     rašytame veikale « Confort d’Ami » (« Draugo parama »).
-  citata_rodoma: "Iš kitų puolimų yra išskirtinas 1329\npradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis\nį pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš\nvisur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir\nžygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m."
+  citata_rodoma: |
+    Iš kitų puolimų yra išskirtinas 1329
+    pradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis
+    į pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš
+    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
+    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

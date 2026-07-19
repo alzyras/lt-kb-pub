@@ -84,7 +84,13 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
     Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
     tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
     jas dingo kartu su jų netektimi.
-  citata_rodoma: "Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri\ntauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,\nkad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina\njų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­\nkus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­\nsias slaptas apeigas."
+  citata_rodoma: |
+    Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
+    tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
+    kad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina
+    jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
+    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
+    sias slaptas apeigas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

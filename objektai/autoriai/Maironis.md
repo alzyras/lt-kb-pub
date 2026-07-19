@@ -165,7 +165,14 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: "Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime \npradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-\ntuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas \nV. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, \nMaironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-\nrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir \nkūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų)."
+  citata_rodoma: |
+    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
+    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
+    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
+    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
+    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
+    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
+    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -218,7 +225,22 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
     Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
     gos, tautinio pobūdžio literatūra. 1944–1951 m. sunaikinta apie 600 tūkst.
     leidinių.
-  citata_rodoma: "Botyriaus nuotrauka\n\nL I E T U V O S  I S T O R I J A\n220\nKultūros suvienodinimas\nJ. Stalino valdymo metais vyko tiesmukas lietuvių kultūros \ngriovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-\ntūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo \nkomunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-\nmunistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant \nkomunistinės ideologijos autoritetus, susidorojama su nepriklausomos \nLietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų \nVinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-\ngos, tautinio pobūdžio literatūra. 1944–1951 m. sunaikinta apie 600 tūkst. \nleidinių."
+  citata_rodoma: |
+    Botyriaus nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    220
+    Kultūros suvienodinimas
+    J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
+    griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-
+    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
+    komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-
+    munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
+    komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
+    Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
+    Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
+    gos, tautinio pobūdžio literatūra. 1944–1951 m. sunaikinta apie 600 tūkst.
+    leidinių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

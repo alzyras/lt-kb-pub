@@ -101,7 +101,12 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     tas medžių užtvaromis, ir iš už jų priedan-
     gos gausiai strėlėmis apšaudomas, buvo
     priverstas pasiduoti.
-  citata_rodoma: "Rugpjūčio pabaigoje į Žemaitiją paeiliui\nįsibrovė trys Livonijos daliniai, jie niokojo\nUpytės kraštą. Begrįžtantis priešas buvo\nsumuštas, pirmiausia Kuldigos 40 raitelių\nir apie 1000 pėstininkų dalinys."
+  citata_rodoma: |
+    Rugpjūčio pabaigoje į Žemaitiją paeiliui
+    įsibrovė trys Livonijos daliniai, jie niokojo
+    Upytės kraštą. Begrįžtantis priešas buvo
+    sumuštas, pirmiausia Kuldigos 40 raitelių
+    ir apie 1000 pėstininkų dalinys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

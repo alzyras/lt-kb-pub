@@ -101,7 +101,10 @@ media_all_json: |-
     architektūros profesorius, apžiūrinėdamas Vilniaus Katedros var­
     pinę, pastebėjo ant plytų ten, kur baigiasi jos netaisyklingoji da­
     lis, kažkokius atspaudus ir ženklus, kuriuos parodė Leleveliui.
-  citata_rodoma: "17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,\nViln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-\nvas. 1538.1.25. Iš Lietuvos Metrikos."
+  citata_rodoma: |
+    17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
+    Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-
+    vas. 1538.1.25. Iš Lietuvos Metrikos.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

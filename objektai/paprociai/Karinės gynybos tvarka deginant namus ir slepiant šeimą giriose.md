@@ -76,7 +76,11 @@ Nenurodyta
         iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
         krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
         po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
-  citata_rodoma: "Tuo tarpu, jiems po degėsius bevaikščiojant ir beieškant lietuvių, Kęstutis, su 15 tūkstančių joties išpuolęs\niš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį\nkrikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės\npo laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių."
+  citata_rodoma: |
+    Tuo tarpu, jiems po degėsius bevaikščiojant ir beieškant lietuvių, Kęstutis, su 15 tūkstančių joties išpuolęs
+    iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
+    krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
+    po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -139,7 +139,25 @@ Nenurodyta
     vėlesniais metais, kai kry­
     žiuočiai visomis savo jėgo­
     mis ėmė niokoti Lietuvą.
-  citata_rodoma: "Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­\nvaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai\nir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­\nleisdama jiems be nuostolių supti tvirtovės, mat atvi­\nrame lauke šie buvo nesunkiai sužeidžiami ietimis ir\nstrėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­\ndamas iš visų pusių, nepaliauj amai sekino menkas jė­\ngas, vos ne vos įstengiančias vienu metu užstoti visą\ngynybinę sieną, lietuviai patyrė didelių nuostolių; kai\nvos dvylika jų liko nesužeistų, pilėnams iškilo baisus\npavojus, tačiau netikėta priešų klaida pakeitė padėtį,\ntokią, rodos, beviltišką."
+  citata_rodoma: |
+    Pirmiausia
+    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
+    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
+    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
+    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
+    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
+    apsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­
+    vaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai
+    ir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­
+    leisdama jiems be nuostolių supti tvirtovės, mat atvi­
+    rame lauke šie buvo nesunkiai sužeidžiami ietimis ir
+    strėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­
+    damas iš visų pusių, nepaliauj amai sekino menkas jė­
+    gas, vos ne vos įstengiančias vienu metu užstoti visą
+    gynybinę sieną, lietuviai patyrė didelių nuostolių; kai
+    vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
+    pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
+    tokią, rodos, beviltišką.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

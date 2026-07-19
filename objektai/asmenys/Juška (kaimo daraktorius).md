@@ -89,7 +89,8 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
     Jo tikrasis darbas buvo žie­
     momis mokyti vaikus: kas savaitę nuo kiekvieno vaiko imdavo po gri­
     viną, be to, gaudavo visą maistą.
-  citata_rodoma: "Jo tikrasis darbas buvo žie­momis mokyti vaikus: kas savaitė nuo kiekvieno vaiko imdavo po gri­viną, be to, gaudavo visą maistą."
+  citata_rodoma: |
+    Jo tikrasis darbas buvo žie­momis mokyti vaikus: kas savaitė nuo kiekvieno vaiko imdavo po gri­viną, be to, gaudavo visą maistą.
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
@@ -109,7 +110,8 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
     atskirą kambarį ir
     prieangį, vadinasi, buvo du kambariu su dviem nuomininkais. Geres­
     nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus.
-  citata_rodoma: "Geres­nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus."
+  citata_rodoma: |
+    Geres­nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus.
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas

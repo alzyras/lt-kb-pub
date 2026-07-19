@@ -83,7 +83,10 @@ Nenurodyta
     p. 220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.
 
     p. 220, Vokiškas pistoletas Walther P38, vDKM, Artūro Užgalio nuotr.
-  citata_rodoma: "220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.\n\np. 220, Vokiškas pistoletas Walther P38, vDKM, Artūro Užgalio nuotr."
+  citata_rodoma: |
+    220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.
+
+    p. 220, Vokiškas pistoletas Walther P38, vDKM, Artūro Užgalio nuotr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

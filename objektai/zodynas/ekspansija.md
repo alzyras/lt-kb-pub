@@ -93,7 +93,8 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
     tik glaudžiai sujungė bei sutvirtino valstybę, bet ir įvedė ją į
     rytų politiškų galybių tarpą, kaip pirmaeilės reikšmės narį.
     Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
-  citata_rodoma: "Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo."
+  citata_rodoma: |
+    Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

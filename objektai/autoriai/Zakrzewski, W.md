@@ -68,7 +68,10 @@ Zakrzewski, W.
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
     _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
     St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
-  citata_rodoma: "— Zakrzewski, W. :\n_Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,\nSt. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930."
+  citata_rodoma: |
+    — Zakrzewski, W. :
+    _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
+    St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

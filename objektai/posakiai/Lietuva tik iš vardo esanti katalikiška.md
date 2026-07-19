@@ -68,7 +68,13 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
     riais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka­
     talikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei­
     džiamas.
-  citata_rodoma: "Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė\nVak. Europoje, kad tai yra labai pavojingas katalikams valdo-\nvas, nes visas pilis paveda stačiatikiams ir susideda su toto-\nriais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka-\ntalikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei-\ndžiamas."
+  citata_rodoma: |
+    Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė
+    Vak. Europoje, kad tai yra labai pavojingas katalikams valdo­
+    vas, nes visas pilis paveda stačiatikiams ir susideda su toto­
+    riais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka­
+    talikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei­
+    džiamas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

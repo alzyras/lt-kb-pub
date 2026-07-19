@@ -71,7 +71,12 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
     ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
     veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
     palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
-  citata_rodoma: "Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,\nbe paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia\nmane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė\nSkomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau\ndaromas nuoskaudas, o aš tau padėsiu“."
+  citata_rodoma: |
+    Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,
+    be paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia
+    mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė
+    Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau
+    daromas nuoskaudas, o aš tau padėsiu“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

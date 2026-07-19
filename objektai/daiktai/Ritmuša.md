@@ -93,10 +93,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi
-        vaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,
-        kurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien
-        jau vyru vadinos.
-  citata_rodoma: "Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi\nvaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,\nkurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien\njau vyru vadinos."
+    vaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,
+    kurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien
+    jau vyru vadinos
+  citata_rodoma: |
+    Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi
+    vaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,
+    kurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien
+    jau vyru vadinos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -109,10 +113,13 @@ Nenurodyta
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
-    Trumpai sakant, ritmuša buvo senovėj karės įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių,
-        kaipo visų didžiausia karės mokslinyčia^399 , kaip tuojau regėsim, nesgi tuo mokės nuo pat mažų
-        dienų, kaip gintis ir kaip neprietelių paveikti.
-  citata_rodoma: "Trumpai sakant, ritmuša buvo senovėj karės įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių,\nkaipo visų didžiausia karės mokslinyčia^399 , kaip tuojau regėsim, nesgi tuo mokės nuo pat mažų\ndienų, kaip gintis ir kaip neprietelių paveikti."
+    Trumpai sakant, ritmuša buvo senovėj karės
+    įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių, kaipo visų didžiausia karės mokslinyčia^399 , kaip
+    tuojau regėsim, nesgi tuo mokės nuo pat mažų dienų, kaip gintis ir kaip neprietelių paveikti
+  citata_rodoma: |
+    Trumpai sakant, ritmuša buvo senovėj karės
+    įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių, kaipo visų didžiausia karės mokslinyčia^399 , kaip
+    tuojau regėsim, nesgi tuo mokės nuo pat mažų dienų, kaip gintis ir kaip neprietelių paveikti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

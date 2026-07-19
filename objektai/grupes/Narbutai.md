@@ -98,7 +98,13 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
     Pirmieji T. Narbuto spausdinti darbai - tai užsienietiškų
     leidinių apžvalgos, eilėraščiai, vertimai Vilniaus laikraščiuo­
     se.
-  citata_rodoma: "Vi­\nsuomenės akyse jis tapo LTI autoriumi.\nTeodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­\nviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­\nbutai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose\nminima nuo Horodlės unijos laikų."
+  citata_rodoma: |
+    Vi­
+    suomenės akyse jis tapo LTI autoriumi.
+    Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­
+    viete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­
+    butai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose
+    minima nuo Horodlės unijos laikų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

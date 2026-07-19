@@ -58,7 +58,10 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
     teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
-  citata_rodoma: "Reiškinys neturėjo precedento Vidurio Europoje, tai buvo\nviena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos\nir Lietuvos Valstybėje."
+  citata_rodoma: |
+    Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
+    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
+    ir Lietuvos Valstybėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

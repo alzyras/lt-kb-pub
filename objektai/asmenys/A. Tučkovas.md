@@ -62,7 +62,13 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
     kui Poguliankoje (dabartinės
 
     J. Basanavičiaus gatvės dalis).
-  citata_rodoma: "Atsitraukti su įgulos likučiais\npavyko kpt. A. Tučkovui, vado-\nvavusiam rusų artilerijos par-\nkui Poguliankoje (dabartinės\n\nJ. Basanavičiaus gatvės dalis)."
+  citata_rodoma: |
+    Atsitraukti su įgulos likučiais
+    pavyko kpt. A. Tučkovui, vado-
+    vavusiam rusų artilerijos par-
+    kui Poguliankoje (dabartinės
+
+    J. Basanavičiaus gatvės dalis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

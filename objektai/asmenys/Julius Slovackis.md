@@ -92,7 +92,8 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
     LDK herbas Vytis iš herbyno
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
-  citata_rodoma: "o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų"
+  citata_rodoma: |
+    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

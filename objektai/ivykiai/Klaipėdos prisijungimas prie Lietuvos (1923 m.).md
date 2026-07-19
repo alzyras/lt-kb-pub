@@ -267,7 +267,14 @@ Nenurodyta
     1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
     autonomine Lietuvos dalimi.
-  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo. \n1924 m."
+  citata_rodoma: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    153
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
+    tine ir karine pergale, kokia ji iš tiesų ir buvo.
+    1924 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -286,7 +293,8 @@ Nenurodyta
     pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai nepriešta-
     ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
     o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
-  citata_rodoma: "ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,"
+  citata_rodoma: |
+    ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -303,7 +311,8 @@ Nenurodyta
     dė kaip moralinė satisfakcija už prarastą Vilnių. 1923 m. sausio 17 d.
     VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
     teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
-  citata_rodoma: "teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos."
+  citata_rodoma: |
+    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -362,7 +371,8 @@ Nenurodyta
     Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra
     viena galimybė pasiimti miestą – užimti jį karine jėga. Kariškiai laikė tai
     24 valandų reikalu.
-  citata_rodoma: "viena galimybė pasiimti miestą – užimti jį karine jėga. Kariškiai laikė tai"
+  citata_rodoma: |
+    viena galimybė pasiimti miestą – užimti jį karine jėga. Kariškiai laikė tai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -385,7 +395,8 @@ Nenurodyta
     kada pretendavo Vytautas Didysis. Netekusi Vilniaus, Lietuva atsisuko į
     Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
     nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-  citata_rodoma: "nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą."
+  citata_rodoma: |
+    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -408,7 +419,16 @@ Nenurodyta
     šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
     nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
     tine ir karine pergale, kokia ji iš tiesų ir buvo.
-  citata_rodoma: "VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis \nteisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo."
+  citata_rodoma: |
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
+    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    153
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
+    tine ir karine pergale, kokia ji iš tiesų ir buvo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

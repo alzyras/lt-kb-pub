@@ -83,7 +83,11 @@ Liubavskij). Liubavskij, M.
     Zapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,
     VIII, 1929, 1-20 p. — Lowmiański, H. : _Studja nad początkami społe­
     czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
-  citata_rodoma: "—\nLiubavskij, M. : _Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.,_\nZapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,\nVIII, 1929, 1-20 p."
+  citata_rodoma: |
+    —
+    Liubavskij, M. : _Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.,_
+    Zapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,
+    VIII, 1929, 1-20 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -104,7 +108,13 @@ Liubavskij). Liubavskij, M.
     Tačiau dideli karo žygių sunkumai vargu ar pakankamai galėjo
     būti atlyginami tokiais miškų turtais, kurių daug buvo ir Kijevo
     Rusijoje.
-  citata_rodoma: "Rusai esą norėję plėšti lietuvius, stengdamies pasipelnyti\niš trijų vertingų dalykų, kuriais tada pastoviai buvo prekiaujama\nsu Bizantija, būtent, kailių, vaško ir medaus (M. Liubavskij).\nTačiau dideli karo žygių sunkumai vargu ar pakankamai galėjo\nbūti atlyginami tokiais miškų turtais, kurių daug buvo ir Kijevo\nRusijoje."
+  citata_rodoma: |
+    Rusai esą norėję plėšti lietuvius, stengdamies pasipelnyti
+    iš trijų vertingų dalykų, kuriais tada pastoviai buvo prekiaujama
+    su Bizantija, būtent, kailių, vaško ir medaus (M. Liubavskij).
+    Tačiau dideli karo žygių sunkumai vargu ar pakankamai galėjo
+    būti atlyginami tokiais miškų turtais, kurių daug buvo ir Kijevo
+    Rusijoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

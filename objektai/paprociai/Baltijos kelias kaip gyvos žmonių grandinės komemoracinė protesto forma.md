@@ -129,7 +129,8 @@ Nenurodyta
     žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
     Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
-  citata_rodoma: "protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių"
+  citata_rodoma: |
+    protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

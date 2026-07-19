@@ -76,7 +76,9 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
     nacijos. Atšaukimas buvo laišku praneštas imperatoriui Zigman-
     tui, kurs laiško nuorašą tuojau nusiuntė Vytautui.
-  citata_rodoma: "Atšaukimas buvo laišku praneštas imperatoriui Zigman-\ntui, kurs laiško nuorašą tuojau nusiuntė Vytautui."
+  citata_rodoma: |
+    Atšaukimas buvo laišku praneštas imperatoriui Zigman-
+    tui, kurs laiško nuorašą tuojau nusiuntė Vytautui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

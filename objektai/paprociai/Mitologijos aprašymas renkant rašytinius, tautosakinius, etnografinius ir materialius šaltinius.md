@@ -151,7 +151,17 @@ Nenurodyta.
     elio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­
     bais, archeologų radiniais, savo ir kitų kraštotyrininkų surink­
     ta tautosaka, etnografine medžiaga.
-  citata_rodoma: "Naudojamų šaltinių atranka ir vertinimu T. Narbutas irgi\nmažai kuo tesiskyrė nuo savo pirmtakų. Kaip buvo įprasta, jis\nnaudojosi senaisiais rašytiniais šaltiniais, savo ir kitų moksli­\nninkų tyrinėjimais ir gyvąja tradicija. „Ypač aš stengiausi, nie­\nko nepraleisdamas, aprašyti visa, ką paliko rašytosios istori­\njos, ką atskleidė senovės mokslininkų tyrimai, ką pavyko su­\nrinkti iš žmonių padavimų bei dainų, ką taip pat išsaugojo pa­\nminklų liekanos.“ Daugiausia lietuvių mitologijos duomenų\nT. Narbutas sėmėsi iš M. Strijkovskio ir J. Lasickio, prūsų -  iš\nK. Hartknocho, latvių -  iš Frydricho Stenderio veikalų;"
+  citata_rodoma: |
+    Naudojamų šaltinių atranka ir vertinimu T. Narbutas irgi
+    mažai kuo tesiskyrė nuo savo pirmtakų. Kaip buvo įprasta, jis
+    naudojosi senaisiais rašytiniais šaltiniais, savo ir kitų moksli­
+    ninkų tyrinėjimais ir gyvąja tradicija. „Ypač aš stengiausi, nie­
+    ko nepraleisdamas, aprašyti visa, ką paliko rašytosios istori­
+    jos, ką atskleidė senovės mokslininkų tyrimai, ką pavyko su­
+    rinkti iš žmonių padavimų bei dainų, ką taip pat išsaugojo pa­
+    minklų liekanos.“ Daugiausia lietuvių mitologijos duomenų
+    T. Narbutas sėmėsi iš M. Strijkovskio ir J. Lasickio, prūsų -  iš
+    K. Hartknocho, latvių -  iš Frydricho Stenderio veikalų;
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -176,7 +186,19 @@ Nenurodyta.
     kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
     privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
     logija yra raktas seniausiajai tautų istorijai pažinti.
-  citata_rodoma: "Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek\nbuvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­\ndėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­\npraleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­\nties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė\nlobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,\nmįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,\nsurinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų\nir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­\nybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį\nprivalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­\nlogija yra raktas seniausiajai tautų istorijai pažinti."
+  citata_rodoma: |
+    Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
+    buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­
+    dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne­
+    praleisdamas nieko, kas galėjo būti naudinga. Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    ybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

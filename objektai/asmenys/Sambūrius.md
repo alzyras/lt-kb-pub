@@ -86,7 +86,18 @@ Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit S
     Ponas Tadas Volianskis suteikė mums numizmatinio radi­
     nio piešinį su tokiu aprašymu: „Didelis auksinis brakteatas; apie
     pusantro colio skersmens.
-  citata_rodoma: "Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n(pagal Tadą Volianskį)\ni). 33\n257\n\n## Puslapis 257\n\ndės užrašytos ratu: lotyniškas užrašas, venedų runomis, pagal\nmano aiškinimą:\nIM M ^t:SYatPIXr!:qX:1 ^n^nnt^n\n(Immolavit Sambūrius dux Kracho olitori)."
+  citata_rodoma: |
+    Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
+    (pagal Tadą Volianskį)
+    i). 33
+    257
+
+    ## Puslapis 257
+
+    dės užrašytos ratu: lotyniškas užrašas, venedų runomis, pagal
+    mano aiškinimą:
+    IM M ^t:SYatPIXr!:qX:1 ^n^nnt^n
+    (Immolavit Sambūrius dux Kracho olitori).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

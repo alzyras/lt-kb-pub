@@ -71,7 +71,12 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
     nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai
     tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę
     ir buvo atleisti nuo daugelio pareigų valstybei.
-  citata_rodoma: "Kai kurie stačiatikiai, ypač jų di­\nduomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija\nnei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai\ntuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę\nir buvo atleisti nuo daugelio pareigų valstybei."
+  citata_rodoma: |
+    Kai kurie stačiatikiai, ypač jų di­
+    duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija
+    nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai
+    tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę
+    ir buvo atleisti nuo daugelio pareigų valstybei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -85,7 +85,8 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
         vasarą ir žiemą, kursai buvęs šešiais kampais zomatu^771 aptvertas, priešakinėj sienoj netoli nuo
         ąžuolo buvusi anga, o užpakalinėj rūsiai, kuriuose indai ir kiti įrankiai, tai lietai^772 derantys, buvę
         laikomi.
-  citata_rodoma: "Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas."
+  citata_rodoma: |
+    Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

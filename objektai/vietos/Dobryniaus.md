@@ -71,7 +71,11 @@ media_all_json: |-
     niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
     su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
     o 1307 buvo įsiveržę į Kališo sritį^5.
-  citata_rodoma: "1300 jie vėl pasirodė Dobry­\nniaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge\nsu rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,\no 1307 buvo įsiveržę į Kališo sritį^5."
+  citata_rodoma: |
+    1300 jie vėl pasirodė Dobry­
+    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
+    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
+    o 1307 buvo įsiveržę į Kališo sritį^5.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

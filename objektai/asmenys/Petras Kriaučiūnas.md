@@ -107,7 +107,10 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     tojais čia galėjo būti ir lietuviai. Vienu metu Marijampolės
     gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
     čiūnas, V. Staniškis ir J. Jasiulaitis).
-  citata_rodoma: "Vienu metu Marijampolės\n  gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-\n  čiūnas, V. Staniškis ir J. Jasiulaitis)."
+  citata_rodoma: |
+    Vienu metu Marijampolės
+      gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
+      čiūnas, V. Staniškis ir J. Jasiulaitis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -126,7 +129,10 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     paraginami, mokiniai augo tautiškoje dvasioje. Iš jų išėjo tokie
     lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
     eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
-  citata_rodoma: "Iš jų išėjo tokie\n  lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa\n  eilė vėlesnių „Aušros\", „Varpo\" ir kitų laikraščių bendradarbią."
+  citata_rodoma: |
+    Iš jų išėjo tokie
+      lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
+      eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +160,16 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     pirmininkas buvo J. Basanavičius,
     jau šiuo laikotarpiu lietuvių visuo-
     menės laikytas tautos patriarchu.
-  citata_rodoma: "Lietuvių mokslo draugijos iniciatorius ir \nLietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. \nPirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja \nJulija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, \nLiudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)\n\n3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )\n127\npirmininkas buvo J."
+  citata_rodoma: |
+    Lietuvių mokslo draugijos iniciatorius ir
+    Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.
+    Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja
+    Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius,
+    Liudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    127
+    pirmininkas buvo J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -59,7 +59,8 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
     turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
     pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
     cialdemokratinę orientaciją.
-  citata_rodoma: "turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau"
+  citata_rodoma: |
+    turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

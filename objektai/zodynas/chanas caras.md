@@ -93,7 +93,22 @@ Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadin
     sosto įpėdiniu. Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
     pasiekti geruoju.
-  citata_rodoma: "Mat juodi debesys ap­\ntraukė dangų, pakilo nepaprasta audra, sugriaudėjo \nperkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­\nlydovus, keturis arklius iš šešių ir penktą ginklanešio \nžirgą.\nSugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek \npailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,\nnetekę mirusio chano Saladi- \n1419 m eta i \nno, suskilo atskiromis grupė-\nS k itų ta u to m s V y ta u - \nmis: vieni vieną, kiti kitą \ntas p a s k y r ė v a ld o v u s \nmirusio valdovo sūnų siūlė\nsosto įpėdiniu."
+  citata_rodoma: |
+    Mat juodi debesys ap­
+    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
+    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
+    lydovus, keturis arklius iš šešių ir penktą ginklanešio
+    žirgą.
+    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
+    pailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,
+    netekę mirusio chano Saladi-
+    1419 m eta i
+    no, suskilo atskiromis grupė-
+    S k itų ta u to m s V y ta u -
+    mis: vieni vieną, kiti kitą
+    tas p a s k y r ė v a ld o v u s
+    mirusio valdovo sūnų siūlė
+    sosto įpėdiniu.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

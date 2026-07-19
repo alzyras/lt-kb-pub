@@ -135,7 +135,10 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
     tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
     130), taip pat laukininkus — valstiečius (rustict — III, 262).
-  citata_rodoma: "Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):\nMindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,\n269, 306, 310, 356)."
+  citata_rodoma: |
+    Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):
+    Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,
+    269, 306, 310, 356).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

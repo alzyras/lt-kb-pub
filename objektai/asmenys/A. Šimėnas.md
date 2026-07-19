@@ -66,7 +66,19 @@ media_all_json: |-
     Lietuvoje bei užsienyje, 2) gynyba kariniais
     metodais, 3) pilietinio, nesmurtinio pasi-
     priešinimo organizavimas.
-  citata_rodoma: "13-osios vakare įvyko AT posėdis, kuriame V. Landsbergis pasakė atsis-\nveikinimo kalbą, kad būsiąs rūmuose (nors daug kas sakė, kad reikia kurti Vyriausybę\nužsienyje, kad reikia pasitraukti į pogrindį ir pralaukti keletą dienų, netgi lėktuvas buvo =\nparuoštas). Buvo siūlymų ir premjerui A. Šimėnui pasitraukti į pogrindį, pralaukti porą =\ndienų ir tada išlįsti (A. Šimėno dingimas - tai proimperiniy jėgų darbo rezultatas, nes jį om\n\nParlamento gynybos principai\nGalima išskirti tris principus: 1) sovietų\nagresijos fiksavimas ir informacijos sklaida\nLietuvoje bei užsienyje, 2) gynyba kariniais\nmetodais, 3) pilietinio, nesmurtinio pasi-\npriešinimo organizavimas."
+  citata_rodoma: |
+    13-osios vakare įvyko AT posėdis, kuriame V. Landsbergis pasakė atsis-
+    veikinimo kalbą, kad būsiąs rūmuose (nors daug kas sakė, kad reikia kurti Vyriausybę
+    užsienyje, kad reikia pasitraukti į pogrindį ir pralaukti keletą dienų, netgi lėktuvas buvo =
+    paruoštas). Buvo siūlymų ir premjerui A. Šimėnui pasitraukti į pogrindį, pralaukti porą =
+    dienų ir tada išlįsti (A. Šimėno dingimas - tai proimperiniy jėgų darbo rezultatas, nes jį om
+
+    Parlamento gynybos principai
+    Galima išskirti tris principus: 1) sovietų
+    agresijos fiksavimas ir informacijos sklaida
+    Lietuvoje bei užsienyje, 2) gynyba kariniais
+    metodais, 3) pilietinio, nesmurtinio pasi-
+    priešinimo organizavimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

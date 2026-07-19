@@ -89,7 +89,8 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
     valdžią, siuntė protestus dėl vokiečių vykdomų rekvizicijų, rūpinosi grą-
     žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-
     ja iš Rusijos (iki 1922 m. sausio į Lietuvą sugrįžo 195 000 žmonių).
-  citata_rodoma: "žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-"
+  citata_rodoma: |
+    žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +107,8 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
     jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
     vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
     nebelaukė.
-  citata_rodoma: "Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės"
+  citata_rodoma: |
+    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -78,13 +78,19 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    104. Apie Albrechto, Romos karaliaus, nužudymą
+    Apie Albrechto, Romos karaliaus, nužudymą
 
       1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
     karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
     Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
-      599 D.— Dunemunde; vėliau vok.
-  citata_rodoma: "104. Apie Albrechto, Romos karaliaus, nužudymą\n\n  1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos\nkaralių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs\nAustrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.\n  599 D.— Dunemunde; vėliau vok."
+      599 D.
+  citata_rodoma: |
+    Apie Albrechto, Romos karaliaus, nužudymą
+
+      1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
+    karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
+    Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
+      599 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

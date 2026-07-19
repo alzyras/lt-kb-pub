@@ -70,7 +70,10 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
     reikalui privalė arklių, tai krašte buvo daug žirgynų. Kai
     kur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno
     buvo 800 arklių žirgynas.
-  citata_rodoma: "Kai\nkur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno\nbuvo 800 arklių žirgynas."
+  citata_rodoma: |
+    Kai
+    kur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno
+    buvo 800 arklių žirgynas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -89,7 +92,9 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
     ir vebrų kailiukais — kiaunininkais ir vebrininkais,
     kurie žuvimis — žuvininkais. Kadangi kunigaikštis karo
     reikalui privalė arklių, tai krašte buvo daug žirgynų.
-  citata_rodoma: "Kadangi kunigaikštis karo\nreikalui privalė arklių, tai krašte buvo daug žirgynų."
+  citata_rodoma: |
+    Kadangi kunigaikštis karo
+    reikalui privalė arklių, tai krašte buvo daug žirgynų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

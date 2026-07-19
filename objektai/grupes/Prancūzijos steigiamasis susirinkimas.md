@@ -70,7 +70,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
     steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Eu-
     ropoje“.
-  citata_rodoma: "Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos"
+  citata_rodoma: |
+    Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -73,7 +73,13 @@ Todėl, pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų tau
     tautiečius į įvairius kraštus, daugiausia į Pietų Ameriką, daugelis
     važiavusių buvo labai išnaudojami ir nuvažiavę pakliuvo į sunkias
     gyvenimo sąlygas, veltui nuvežtieji turėjo atidirbti kelionės išlaidas.
-  citata_rodoma: ", bet pasirodė, kad jame buvo nemaža\nspragų, o be to, jis ilgainiui atsiliko nuo gyvenimo reikalavimų. Todėl,\npavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų\ntautiečius į įvairius kraštus, daugiausia į Pietų Ameriką, daugelis\nvažiavusių buvo labai išnaudojami ir nuvažiavę pakliuvo į sunkias\ngyvenimo sąlygas, veltui nuvežtieji turėjo atidirbti kelionės išlaidas."
+  citata_rodoma: |
+    , bet pasirodė, kad jame buvo nemaža
+    spragų, o be to, jis ilgainiui atsiliko nuo gyvenimo reikalavimų. Todėl,
+    pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų
+    tautiečius į įvairius kraštus, daugiausia į Pietų Ameriką, daugelis
+    važiavusių buvo labai išnaudojami ir nuvažiavę pakliuvo į sunkias
+    gyvenimo sąlygas, veltui nuvežtieji turėjo atidirbti kelionės išlaidas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

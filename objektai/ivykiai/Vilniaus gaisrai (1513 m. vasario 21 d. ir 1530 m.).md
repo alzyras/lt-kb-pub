@@ -158,7 +158,14 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     metais, Vilniui padarę labai didelių nuostolių. Per pirmąjį
     gaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­
     nose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9.
-  citata_rodoma: "Tokias dideles \nkaraliaus pastangas miestą aprūpinti vandeniu nulėmė ne \ntik patogumo siekis ir atkaklūs miestiečių prašymai, bet ir \ndu baisūs gaisrai, kilę 1513 metų vasario 21 dieną ir 1530 \nmetais, Vilniui padarę labai didelių nuostolių. Per pirmąjį \ngaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­\nnose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9."
+  citata_rodoma: |
+    Tokias dideles
+    karaliaus pastangas miestą aprūpinti vandeniu nulėmė ne
+    tik patogumo siekis ir atkaklūs miestiečių prašymai, bet ir
+    du baisūs gaisrai, kilę 1513 metų vasario 21 dieną ir 1530
+    metais, Vilniui padarę labai didelių nuostolių. Per pirmąjį
+    gaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­
+    nose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

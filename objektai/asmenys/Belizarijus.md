@@ -101,7 +101,17 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
     nybę: ir daugelis buvusių
     arijonų (šią sektą buvo priglaudę Germanijoje ir Pa-
     nonijoje), ir žmonės, ligi tol buvę stabmeldžiais.
-  citata_rodoma: "Tačiau didelė herulų da­\nlis persikėlė iš Italijos į Grai-\n493 m e ta i\nkiją, mat sutartys leido Bi­\nzantijos imperatoriui kvies­\ntis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­\npataujant, herulų, vadovaujamų Getero, pagalba pasi­\nnaudojo Belizarijus, nugalėjęs persus. Kita jų dalis,\npasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie\nDunojaus Noriko pasienyje."
+  citata_rodoma: |
+    Tačiau didelė herulų da­
+    lis persikėlė iš Italijos į Grai-
+    493 m e ta i
+    kiją, mat sutartys leido Bi­
+    zantijos imperatoriui kvies­
+    tis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­
+    pataujant, herulų, vadovaujamų Getero, pagalba pasi­
+    naudojo Belizarijus, nugalėjęs persus. Kita jų dalis,
+    pasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie
+    Dunojaus Noriko pasienyje.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

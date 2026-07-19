@@ -77,7 +77,8 @@ Dusburgietis teigia, kad otrębski J.
     Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
     Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa.— Wrocław—Warszawa—
     Kraków— Gdańsk, 1971.
-  citata_rodoma: "Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958."
+  citata_rodoma: |
+    Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

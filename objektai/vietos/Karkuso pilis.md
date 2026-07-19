@@ -122,7 +122,10 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     turėjo didelių nuostolių sunkiai sužeistaisiais.
     277 (270). Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
     Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
-  citata_rodoma: "550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis\nLivonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.\n79)."
+  citata_rodoma: |
+    550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
+    Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
+    79).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -147,7 +150,12 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
-  citata_rodoma: "1298 viešpaties\nmetais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur\npaėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei\nplėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,\nleidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d."
+  citata_rodoma: |
+    1298 viešpaties
+    metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
+    paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei
+    plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,
+    leidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -114,7 +114,23 @@ Nenurodyta
     pančiuosius. Kai daugybė pi­
     lėnų žuvo, o dar daugiau buvo sužeista, kai, sumažėjus
     gynėjų skaičiui, ėmė blėsti viltis apginti pilį, ypač dėl
-  citata_rodoma: "Brandenburgo markgra­\nfas su Namiuro ir Henenbergo grafais bei kryžiuočių\nriteriais, sutelkę didžiules jėgas, nusiaubė viską, kas\npakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa­\nkant, Punios pilį. Joje buvo keturi tūkstančiai karių,\nsubėgusių ten vos išgirdus apie priešą su savo šeimy­\nnomis iš aplinkinių kaimų. Gynėjai ilgai kamavo prie­\nšą, kaudamiesi ne tik prie\nK ry žiu o č ia i\na p su p a\ngynybinio pylimo, bet sėk-\nP u n ios p ilį L ìetu vo -\nmingai išsiverždami pro at-\nje\nvirus vartus ir užpuldami su­\npančiuosius."
+  citata_rodoma: |
+    Brandenburgo markgra­
+    fas su Namiuro ir Henenbergo grafais bei kryžiuočių
+    riteriais, sutelkę didžiules jėgas, nusiaubė viską, kas
+    pakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa­
+    kant, Punios pilį. Joje buvo keturi tūkstančiai karių,
+    subėgusių ten vos išgirdus apie priešą su savo šeimy­
+    nomis iš aplinkinių kaimų. Gynėjai ilgai kamavo prie­
+    šą, kaudamiesi ne tik prie
+    K ry žiu o č ia i
+    a p su p a
+    gynybinio pylimo, bet sėk-
+    P u n ios p ilį L ìetu vo -
+    mingai išsiverždami pro at-
+    je
+    virus vartus ir užpuldami su­
+    pančiuosius.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

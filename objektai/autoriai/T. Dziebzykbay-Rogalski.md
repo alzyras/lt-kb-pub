@@ -104,7 +104,12 @@ Dziebzykbay-Rogalski, T.
     K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
     für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
-  citata_rodoma: "-—-\n(”) _Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł\narcheologicznych, onomastycznych i pisanych_ , ABaSl, VI, 1969, 105-116 p.\n— Dziebzykbay-Rogalski, T. : _Z badań nad niektórymi zagadnieniami\ntypologicznymi Jaćwingów,_ ABaSl, I, 1964, 65-75 p."
+  citata_rodoma: |
+    -—-
+    (”) _Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł
+    archeologicznych, onomastycznych i pisanych_ , ABaSl, VI, 1969, 105-116 p.
+    — Dziebzykbay-Rogalski, T. : _Z badań nad niektórymi zagadnieniami
+    typologicznymi Jaćwingów,_ ABaSl, I, 1964, 65-75 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

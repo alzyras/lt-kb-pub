@@ -83,7 +83,10 @@ Nenurodyta
     laikė su lietuviais sąjungą. Kaip Rygos sąjungininkai, šie vėl 1305
     m. įsiveržė Livonijon. Nors prie Dobės jie pralaimėjo, bet karo
     veiksmus tęsė iki 1307 m. vasaros^36.
-  citata_rodoma: "Kaip Rygos sąjungininkai, šie vėl 1305\nm. įsiveržė Livonijon. Nors prie Dobės jie pralaimėjo, bet karo\nveiksmus tęsė iki 1307 m. vasaros^36."
+  citata_rodoma: |
+    Kaip Rygos sąjungininkai, šie vėl 1305
+    m. įsiveržė Livonijon. Nors prie Dobės jie pralaimėjo, bet karo
+    veiksmus tęsė iki 1307 m. vasaros^36.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

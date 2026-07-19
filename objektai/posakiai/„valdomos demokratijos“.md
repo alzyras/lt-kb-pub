@@ -77,7 +77,8 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
     kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
     Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
     elgė Latvija ir Estija).
-  citata_rodoma: "griuvusios SSRS teritorijoje. Lietuva pasirinko euroatlantinės integracijos"
+  citata_rodoma: |
+    griuvusios SSRS teritorijoje. Lietuva pasirinko euroatlantinės integracijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

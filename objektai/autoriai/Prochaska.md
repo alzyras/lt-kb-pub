@@ -59,13 +59,19 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
+    Is­
     torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
     tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
     autentišką.
     Įgijimas šitos Žemaičių srities, kurią Vytautas Ordinui ką tik
     minėta sutartimi užrašė, buvo pelningas Ordino triūso vaisius.
-  citata_rodoma: "Is­\ntorikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;\ntačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip\nautentišką.\nĮgijimas šitos Žemaičių srities, kurią Vytautas Ordinui ką tik\nminėta sutartimi užrašė, buvo pelningas Ordino triūso vaisius."
+  citata_rodoma: |
+    Is­
+    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
+    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
+    autentišką.
+    Įgijimas šitos Žemaičių srities, kurią Vytautas Ordinui ką tik
+    minėta sutartimi užrašė, buvo pelningas Ordino triūso vaisius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

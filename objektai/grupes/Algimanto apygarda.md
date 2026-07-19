@@ -185,7 +185,31 @@ media_all_json: |-
     LGIMANTO"™ sd VEB AYA
     es mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS
     = ox Subačius ied : a X ; A 1945 m. vasario 17 d. į Panevėžio aps.
-  citata_rodoma: "Žuvo Antanas Slučka-Šarūnas\n\nVabalninkas co\n\ni i m e\nini e — m\nIl L lainė\n\nPanemunėlis p. “O ~~\n\nKriaunos“\n2 Aleksandravėlė“\n= Salos WO 7 d L \\ avis,\n\n+\n\n(Algimanto apygardos vadas, Rytų Lietuvos (Mindaugo)\nsrities vadas), jo žmona ir dar vienas partizanas.\n\np\nJGPILIS\nLGIMANTO\"™ sd VEB AYA\nes mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS\n= ox Subačius ied : a X ; A 1945 m."
+  citata_rodoma: |
+    Žuvo Antanas Slučka-Šarūnas
+
+    Vabalninkas co
+
+    i i m e
+    ini e — m
+    Il L lainė
+
+    Panemunėlis p. “O ~~
+
+    Kriaunos“
+    2 Aleksandravėlė“
+    = Salos WO 7 d L \ avis,
+
+    +
+
+    (Algimanto apygardos vadas, Rytų Lietuvos (Mindaugo)
+    srities vadas), jo žmona ir dar vienas partizanas.
+
+    p
+    JGPILIS
+    LGIMANTO"™ sd VEB AYA
+    es mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS
+    = ox Subačius ied : a X ; A 1945 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

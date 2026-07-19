@@ -112,7 +112,17 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
     cijos pavadinimo, be to, ir lietuvių kronika teigia, kad
     lietuvių kolonijos kairiojoje Neries pakrantėje paplito tik
     X amžiuje.
-  citata_rodoma: "Taip pat\nir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­\njos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Ven­\ntos upė, skalavusi lietuvių vinidų gyvenamąsias vietas.\n274\nNeroma — atskirai pažymėtas tikrosios Lietuvos kraš­\ntas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,\nnes ir kronikos kairiojoje šios upės pakrantėje esančią\nLietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­\nvendinta provincija1 2."
+  citata_rodoma: |
+    Taip pat
+    ir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­
+    jos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Ven­
+    tos upė, skalavusi lietuvių vinidų gyvenamąsias vietas.
+    274
+    Neroma — atskirai pažymėtas tikrosios Lietuvos kraš­
+    tas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,
+    nes ir kronikos kairiojoje šios upės pakrantėje esančią
+    Lietuvą, vadinamą Užneriu, laiko atskira ir vėliau apgy­
+    vendinta provincija1 2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -80,7 +80,8 @@ Dusburgietis teigia, kad vanagas A.
     Петра из Дусбурга. — Материалы межреспубликанской научной конференции по
     источниковедению и историографии народов прибалтийских республик Союза ССР:
     Источниковедение, В., 1978, с.
-  citata_rodoma: "Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981."
+  citata_rodoma: |
+    Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

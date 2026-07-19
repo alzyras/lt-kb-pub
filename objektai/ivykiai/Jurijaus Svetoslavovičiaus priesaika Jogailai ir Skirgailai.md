@@ -117,7 +117,13 @@ Nenurodyta
     nurodo Lietuvos metraščių PS nuorašai) Tetos, arba Tepliaus (taip
     įis vadinamas nuoraše „Origo regis Jagyello", PSRL, XVII, p. 216).
     gyvenimas visiškai nežinomas.
-  citata_rodoma: "Smolensko kunigaikščio sūnus Jurijus, patekęs ties Mstislav- \nllu į nelaisvę, buvo nugabentas į Krokuvą. Č ia 1386,V.20 jis pri­\nsiekė Jogailai ir Skirgailai vasalo ištikimybės priesaiką. V.22 su \njuo buvo sudaryta sutartis, patvirtinta Vilniuje 1386.1X.16, kuria \nJu riju s Svetoslavovičlus įsipareigojo neberem ti Polocko kunigaikš­\nčio Andriaus Algirdalčio."
+  citata_rodoma: |
+    Smolensko kunigaikščio sūnus Jurijus, patekęs ties Mstislav-
+    llu į nelaisvę, buvo nugabentas į Krokuvą. Č ia 1386,V.20 jis pri­
+    siekė Jogailai ir Skirgailai vasalo ištikimybės priesaiką. V.22 su
+    juo buvo sudaryta sutartis, patvirtinta Vilniuje 1386.1X.16, kuria
+    Ju riju s Svetoslavovičlus įsipareigojo neberem ti Polocko kunigaikš­
+    čio Andriaus Algirdalčio.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

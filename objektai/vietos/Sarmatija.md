@@ -144,7 +144,18 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
     vandens lygio kritimas. Tačiau neketinu dabar įrodinėti
     šito nepatikimo dalyko, dėl kurio tiek amžių mokslininkai
     bergždžiai laužė galvas.
-  citata_rodoma: "Palyginus vienus įrodymus su kitais, atrodo, jog\ngintaringą prūsų pakrantę kažkada išties sudarė salos.\nJei Slėcėris nebūtų Įrodęs, kad Melą apie Baltijos jurą\nnieko tikro nežinojo, o tai, ką skelbė apie Prūsiją, Livo^-\nniją, Rusią, išmanė tik iš nuogirdų,, savo prielaidą pa­\ngrįsčiau Meios pasakojimais, jog priešais Sarmatiją ply­\ntinčios žemės buvo užliejamos, vadinasi, kartais galėjo\nbūti laikomos salomis, o kartais buvo tarsi sausuma. Ka­\ndangi Baltijos jūroje potvynių ir atoslūgių nebūna, tai\ngalėjo būti, jog Melos laikais vis dėlto buvęs staigus\nvandens lygio kritimas."
+  citata_rodoma: |
+    Palyginus vienus įrodymus su kitais, atrodo, jog
+    gintaringą prūsų pakrantę kažkada išties sudarė salos.
+    Jei Slėcėris nebūtų Įrodęs, kad Melą apie Baltijos jurą
+    nieko tikro nežinojo, o tai, ką skelbė apie Prūsiją, Livo^-
+    niją, Rusią, išmanė tik iš nuogirdų,, savo prielaidą pa­
+    grįsčiau Meios pasakojimais, jog priešais Sarmatiją ply­
+    tinčios žemės buvo užliejamos, vadinasi, kartais galėjo
+    būti laikomos salomis, o kartais buvo tarsi sausuma. Ka­
+    dangi Baltijos jūroje potvynių ir atoslūgių nebūna, tai
+    galėjo būti, jog Melos laikais vis dėlto buvęs staigus
+    vandens lygio kritimas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

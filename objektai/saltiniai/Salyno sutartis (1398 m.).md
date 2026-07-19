@@ -83,7 +83,13 @@ media_all_json: |-
     Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai
     ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
     rytuose.
-  citata_rodoma: "Ja Vytautas sutiko už-\nleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-\nlikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo\nSalyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai\nordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui\nrytuose."
+  citata_rodoma: |
+    Ja Vytautas sutiko už-
+    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
+    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
+    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai
+    ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
+    rytuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -105,7 +111,11 @@ media_all_json: |-
     autoritetu: Jogaila ten nė žodžiu neminimas. Vytautas pats,
     nesiklausęs Jogailos, padarė su ordinu taiką ir net užleido ordinui
     didelius jam pavestos valstybės plotus.
-  citata_rodoma: "Taigi ir Salyno sutartis buvo sudaryta jo paties\nautoritetu: Jogaila ten nė žodžiu neminimas. Vytautas pats,\nnesiklausęs Jogailos, padarė su ordinu taiką ir net užleido ordinui\ndidelius jam pavestos valstybės plotus."
+  citata_rodoma: |
+    Taigi ir Salyno sutartis buvo sudaryta jo paties
+    autoritetu: Jogaila ten nė žodžiu neminimas. Vytautas pats,
+    nesiklausęs Jogailos, padarė su ordinu taiką ir net užleido ordinui
+    didelius jam pavestos valstybės plotus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -140,7 +150,10 @@ media_all_json: |-
     Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-
     sinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas
     Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku.
-  citata_rodoma: "Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-\nsinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas\nŽemaičiuose buvo laisvas, o kas ne, buvo labai sunku."
+  citata_rodoma: |
+    Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-
+    sinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas
+    Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

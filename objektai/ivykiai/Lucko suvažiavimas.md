@@ -210,7 +210,15 @@ Nenurodyta
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
     įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
     ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
-  citata_rodoma: "Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su\nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo\nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime\ntaip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio\npasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-\nčiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-\nnijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai."
+  citata_rodoma: |
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -238,7 +246,18 @@ Nenurodyta
     to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
     kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
     valdovu.
-  citata_rodoma: "Suvažiavime \ntaip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio \npasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-\nčiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-\nnijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-\nmas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją \nįėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I \nir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-\nto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, \nkad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu \nvaldovu."
+  citata_rodoma: |
+    Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
+    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
+    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
+    valdovu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -267,7 +286,21 @@ Nenurodyta
     priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
     kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
     nas iš Tarnovo, Krokuvos vaivada.
-  citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir\nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos\npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams."
+  citata_rodoma: |
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

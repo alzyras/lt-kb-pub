@@ -61,7 +61,12 @@ media_all_json: |-
     savo žirgą, pats žuvo, tačiau jo dėka Karolis
     Ix išsigelbėjo. Lietuvos kavalerija iki su-
     temų persekiojo bėgančius priešo karius.
-  citata_rodoma: "Švedų\nreitaras Henrikas Vrede atidavė karaliui\nsavo žirgą, pats žuvo, tačiau jo dėka Karolis\nIx išsigelbėjo. Lietuvos kavalerija iki su-\ntemų persekiojo bėgančius priešo karius."
+  citata_rodoma: |
+    Švedų
+    reitaras Henrikas Vrede atidavė karaliui
+    savo žirgą, pats žuvo, tačiau jo dėka Karolis
+    Ix išsigelbėjo. Lietuvos kavalerija iki su-
+    temų persekiojo bėgančius priešo karius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

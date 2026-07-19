@@ -82,7 +82,14 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
     neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
     būdo; kad šitai būtų akivaizdu, jie jį užklojo balta marška, kaip paprastai užklojami
     numirėliai.
-  citata_rodoma: "Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,\nvoros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia\n  530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),\ndeš. Bebro intakas.\n\nnesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę\nsu savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių."
+  citata_rodoma: |
+    Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
+    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
+      530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),
+    deš. Bebro intakas.
+
+    nesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę
+    su savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

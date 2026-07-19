@@ -58,7 +58,10 @@ Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie V
     čiai, patys geruoju prisidėjo prie Vytauto. Susirūpino dabar
     labiau ir Smolensko kun., Sviatoslavo sūnus Jurgis, kuris nu­
     bėgo į Maskvą prašyti pagalbos.
-  citata_rodoma: "Nusigandę Fominos Berezujos kunigaikš­\nčiai, patys geruoju prisidėjo prie Vytauto. Susirūpino dabar\nlabiau ir Smolensko kun."
+  citata_rodoma: |
+    Nusigandę Fominos Berezujos kunigaikš­
+    čiai, patys geruoju prisidėjo prie Vytauto. Susirūpino dabar
+    labiau ir Smolensko kun.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

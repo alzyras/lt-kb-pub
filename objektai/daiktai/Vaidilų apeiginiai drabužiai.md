@@ -141,7 +141,12 @@ Nenurodyta
     ties. Pirmieji praminti nuo senovės prūsų žodžio Linguot, tai
     reiškia skraidyti ore išskleistais sparnais; antrieji - nuo tokios
     pat kilmės žodžio Tilussut, reiškiančio murmėti.
-  citata_rodoma: "Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­\ndos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­\ndilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš\nšventųjų medžių lapų ir kvapniųjų žolių.\nVisi vaidilos buvo dvasios ir kūno gydytojai."
+  citata_rodoma: |
+    Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­
+    dos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­
+    dilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš
+    šventųjų medžių lapų ir kvapniųjų žolių.
+    Visi vaidilos buvo dvasios ir kūno gydytojai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

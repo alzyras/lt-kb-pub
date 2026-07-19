@@ -98,7 +98,18 @@ media_all_json: |-
     rių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį
     svarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų
     dailininkų drobėse.
-  citata_rodoma: "Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių \ntautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms. \nNeramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lie-\ntuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės \nkaržygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos\n\nL I E T U V O S  I S T O R I J A\n10\narchajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-\nsaulį pasklidusių išeivių veikloje.\nRuošiantis 1939 m."
+  citata_rodoma: |
+    Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių
+    tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.
+    Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lie-
+    tuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės
+    karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos
+
+    L I E T U V O S  I S T O R I J A
+    10
+    archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
+    saulį pasklidusių išeivių veikloje.
+    Ruošiantis 1939 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

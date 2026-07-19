@@ -64,7 +64,8 @@ Dusburgietis teigia, kad 136 Milthaler F.
     apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
     pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
     iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
-  citata_rodoma: "136 Milthaler F. Die Grossgebietiger..., S. 59—69."
+  citata_rodoma: |
+    136 Milthaler F. Die Grossgebietiger..., S. 59—69.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

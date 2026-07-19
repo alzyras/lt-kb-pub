@@ -168,7 +168,10 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
     tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
     kėjo iš vadovėlių, parašytų kirilika).
-  citata_rodoma: "Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-\ntuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-\nkėjo iš vadovėlių, parašytų kirilika)."
+  citata_rodoma: |
+    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
+    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
+    kėjo iš vadovėlių, parašytų kirilika).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -186,7 +189,12 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
     karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
     nės krašto.
-  citata_rodoma: "“ \nPraėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių \ntautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų \nkarta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-\nnės krašto."
+  citata_rodoma: |
+    “
+    Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
+    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
+    karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
+    nės krašto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -206,7 +214,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
     kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-  citata_rodoma: "sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta."
+  citata_rodoma: |
+    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -246,7 +255,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
     kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
     Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
-  citata_rodoma: "kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama"
+  citata_rodoma: |
+    kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

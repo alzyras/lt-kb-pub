@@ -59,7 +59,10 @@ Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų, kurių tik
     Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų,
     kurių tik viena (Golubovas) tebuvo paimta. Du mėnesiu lietuvių
     ir lenkų kariuomenės naikino kryžiuočių valdas.
-  citata_rodoma: "Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų,\nkurių tik viena (Golubovas) tebuvo paimta. Du mėnesiu lietuvių\nir lenkų kariuomenės naikino kryžiuočių valdas."
+  citata_rodoma: |
+    Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų,
+    kurių tik viena (Golubovas) tebuvo paimta. Du mėnesiu lietuvių
+    ir lenkų kariuomenės naikino kryžiuočių valdas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

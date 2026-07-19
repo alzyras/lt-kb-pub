@@ -100,7 +100,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Fol. —  369-
+    —  369-
     (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)
     Žygimantas Augustas ir 1.1. Visiems bendrai ir kiekvie­
     nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes,
@@ -123,7 +123,30 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     netą jau mūsų kalėjai pagal tą aprašytą paprotį imti ir naują
     už ją duoti privalės, kaip visa tai per konstituciją šio seimo
     gale plačiau atlikta ir garantuota.
-  citata_rodoma: "—  369-\n(Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)\nŽygimantas Augustas ir 1.1. Visiems bendrai ir kiekvie­\nnam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, \npasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­\nvaldinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­\nje vietinėse mūsų Karalystės valstybėse iki šio laiko turėjo, \nmūsų Lietuvos ir Lenkijos ponų tarybų patarimu, įsakėme \npaskelbti, kaip visiems mūsų Karalystės pavaldiniams ben­\ndrai įsakome, kad lietuvišką monetą, su mūsų ir mūsų pro­\ntėvių tikslais nukaldintą jų nuosava ir senąja kaina, tai yra, \ndu lietuvišku grašiu, imtų už pustrečio lenkiško grašio, ta­\nčiau dėl to šį perspėjimą ir sąlygą skelbiame visiems, kad, \nkai šiame seime, pagal bendras Lenkijos karalystės ir Lietu­\nvos Didžiosios Kunigaikštystės privilegijas patvirtinsime, \nvienodai nauja kalykla kaldintų, tuomet tik ta viena kalykla \npinigus kals, visas, kad ir kokios būtų lietuviškos monetos, \nnukaldintos penkiasdešimtais aštuntais iki šešiasdešimt \npenktųjų, dėl jos ir turės veikti šis ediktas, bus laisvai lei­\ndžiama mūsų kalyklai pagal tą pačią kainą pakeisti, tą mo­\nnetą jau mūsų kalėjai pagal tą aprašytą paprotį imti ir naują \nuž ją duoti privalės, kaip visa tai per konstituciją šio seimo \ngale plačiau atlikta ir garantuota."
+  citata_rodoma: |
+    —  369-
+    (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)
+    Žygimantas Augustas ir 1.1. Visiems bendrai ir kiekvie­
+    nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes,
+    pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­
+    valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­
+    je vietinėse mūsų Karalystės valstybėse iki šio laiko turėjo,
+    mūsų Lietuvos ir Lenkijos ponų tarybų patarimu, įsakėme
+    paskelbti, kaip visiems mūsų Karalystės pavaldiniams ben­
+    drai įsakome, kad lietuvišką monetą, su mūsų ir mūsų pro­
+    tėvių tikslais nukaldintą jų nuosava ir senąja kaina, tai yra,
+    du lietuvišku grašiu, imtų už pustrečio lenkiško grašio, ta­
+    čiau dėl to šį perspėjimą ir sąlygą skelbiame visiems, kad,
+    kai šiame seime, pagal bendras Lenkijos karalystės ir Lietu­
+    vos Didžiosios Kunigaikštystės privilegijas patvirtinsime,
+    vienodai nauja kalykla kaldintų, tuomet tik ta viena kalykla
+    pinigus kals, visas, kad ir kokios būtų lietuviškos monetos,
+    nukaldintos penkiasdešimtais aštuntais iki šešiasdešimt
+    penktųjų, dėl jos ir turės veikti šis ediktas, bus laisvai lei­
+    džiama mūsų kalyklai pagal tą pačią kainą pakeisti, tą mo­
+    netą jau mūsų kalėjai pagal tą aprašytą paprotį imti ir naują
+    už ją duoti privalės, kaip visa tai per konstituciją šio seimo
+    gale plačiau atlikta ir garantuota.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -230,7 +230,14 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
     komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
     kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
-  citata_rodoma: "Kristburgo komtūras, brolis Henrikas,\nvadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą\nprieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų\npilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug\nžmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis\nkomtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,\nkol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi."
+  citata_rodoma: |
+    Kristburgo komtūras, brolis Henrikas,
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
+    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
+    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
+    komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
+    kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -247,7 +254,9 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     Vaidlėnai, Vaidlonys, Vaidulioniai, Vaideliotai.
     386  Ordino Laukstetai (D.— Locstete, vėliau — Lochstedt) — pilis Sembos pietvakarių
     kyšulyje, į pietvakarius nuo Fišhauzeno (dab. Primorskas) Girmavos valsčiuje.
-  citata_rodoma: "386 Ordino Laukstetai (D.— Locstete, vėliau — Lochstedt) — pilis Sembos pietvakarių\nkyšulyje, į pietvakarius nuo Fišhauzeno (dab. Primorskas) Girmavos valsčiuje."
+  citata_rodoma: |
+    386 Ordino Laukstetai (D.— Locstete, vėliau — Lochstedt) — pilis Sembos pietvakarių
+    kyšulyje, į pietvakarius nuo Fišhauzeno (dab. Primorskas) Girmavos valsčiuje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -266,7 +275,9 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
     jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
     maloniai jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
-  citata_rodoma: "315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių\nkyšulyje (žr. paaiškinimus D. III, 112, 3)."
+  citata_rodoma: |
+    315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių
+    kyšulyje (žr. paaiškinimus D. III, 112, 3).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -287,7 +298,11 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
     pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
     legatu140.
-  citata_rodoma: "Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama\napie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji\npastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė\niš Kroicburgo (įvykį kronikininkas datuoja 1263 m."
+  citata_rodoma: |
+    Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
+    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
+    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
+    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

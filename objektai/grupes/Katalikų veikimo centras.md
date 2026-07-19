@@ -64,7 +64,8 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
     kusius raumenis. Tačiau krikščionių demokratų blokas, Katalikų veikimo
     centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
     monopolizuoti ideologinės ir organizacinės erdvės.
-  citata_rodoma: "centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo"
+  citata_rodoma: |
+    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -173,8 +173,12 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
     P. 238-239, „ŽYMIAUSI LIETUVOS PARTIZANU MUSIAI PRIEŠ SOVIETU PAJĖGAS“,
     Arvydas Anušauskas.
 
-    p. 242, „NKVD SMOGIKAI, Karolis Zikaras.
-  citata_rodoma: "P. 238-239, „ŽYMIAUSI LIETUVOS PARTIZANU MUSIAI PRIEŠ SOVIETU PAJĖGAS“,\nArvydas Anušauskas.\n\np."
+    p.
+  citata_rodoma: |
+    P. 238-239, „ŽYMIAUSI LIETUVOS PARTIZANU MUSIAI PRIEŠ SOVIETU PAJĖGAS“,
+    Arvydas Anušauskas.
+
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -187,13 +191,19 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+    236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
 
     Dalius Žygelis, Loreta Uzdraitė.
 
     P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
     Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: "236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,\n\nDalius Žygelis, Loreta Uzdraitė.\n\nP. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,\nKarolis Zikaras, Loreta Uzdraitė."
+  citata_rodoma: |
+    236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
+
+    P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
+    Karolis Zikaras, Loreta Uzdraitė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

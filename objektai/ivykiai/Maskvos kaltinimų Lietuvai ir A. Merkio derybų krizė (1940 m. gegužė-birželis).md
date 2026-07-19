@@ -145,7 +145,8 @@ Nenurodyta
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
     į Maskvą ministrą J. Urbšį.
-  citata_rodoma: "sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti"
+  citata_rodoma: |
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -165,7 +166,8 @@ Nenurodyta
     1939 m. spalio 10 d. sutarties.
     Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
     sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-  citata_rodoma: "sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-"
+  citata_rodoma: |
+    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -184,7 +186,8 @@ Nenurodyta
     daus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš so-
     vietų bazių kareivius. Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“.
-  citata_rodoma: "vietų bazių kareivius. Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,"
+  citata_rodoma: |
+    vietų bazių kareivius. Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -203,7 +206,8 @@ Nenurodyta
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“. Tai rodė,
     jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
     Lietuvos ministrą pirmininką A. Merkį.
-  citata_rodoma: "jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti"
+  citata_rodoma: |
+    jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

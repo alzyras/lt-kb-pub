@@ -73,7 +73,8 @@ Dusburgietis teigia, kad strikowski M.
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
+  citata_rodoma: |
+    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

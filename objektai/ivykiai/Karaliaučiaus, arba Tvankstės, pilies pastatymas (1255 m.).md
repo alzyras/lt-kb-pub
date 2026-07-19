@@ -123,7 +123,15 @@ Nenurodyta
     324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas
     daiktas, per 4 km į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab.
     automobilių kelio Kaliningradas—Poleskas.
-  citata_rodoma: "Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas\nreikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele\nkariuomene 1255 viešpaties metais ir toje vietoje, kuri dabar vadinama Senąja pilimi,\npastatė Karaliaučiaus pilį, Čekijos karaliaus garbei pavadindami ją Karaliaus pilimi (prūsai\nją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį\n  324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas\ndaiktas, per 4 km  į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab.\nautomobilių  kelio Kaliningradas—Poleskas."
+  citata_rodoma: |
+    Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas
+    reikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele
+    kariuomene 1255 viešpaties metais ir toje vietoje, kuri dabar vadinama Senąja pilimi,
+    pastatė Karaliaučiaus pilį, Čekijos karaliaus garbei pavadindami ją Karaliaus pilimi (prūsai
+    ją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį
+      324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas
+    daiktas, per 4 km  į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab.
+    automobilių  kelio Kaliningradas—Poleskas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -144,7 +152,16 @@ Nenurodyta
     ją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį
     324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas
     daiktas, per 4 km į šiaurės rytus nuo dab.
-  citata_rodoma: "72 (71). Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą\n\n  Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas\nreikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele\nkariuomene 1255 viešpaties metais ir toje vietoje, kuri dabar vadinama Senąja pilimi,\npastatė Karaliaučiaus pilį, Čekijos karaliaus garbei pavadindami ją Karaliaus pilimi (prūsai\nją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį\n  324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas\ndaiktas, per 4 km  į šiaurės rytus nuo dab."
+  citata_rodoma: |
+    72 (71). Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą
+
+      Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas
+    reikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele
+    kariuomene 1255 viešpaties metais ir toje vietoje, kuri dabar vadinama Senąja pilimi,
+    pastatė Karaliaučiaus pilį, Čekijos karaliaus garbei pavadindami ją Karaliaus pilimi (prūsai
+    ją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį
+      324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas
+    daiktas, per 4 km  į šiaurės rytus nuo dab.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

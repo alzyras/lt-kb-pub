@@ -149,7 +149,20 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
     Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
     rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
     Vyt. dėkingas už Poznaniaus mitrą.
-  citata_rodoma: "Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­\ndavo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­\ngrindinių reikalų, kai ėjo klausimas apie karalijos santvarką,\napie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi\nnuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­\nvygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.\nIš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to\nmeto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­\ndavosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­\ntarimo, dažniausiai jo paramos. Dėl jo energingos paramos\nMozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­\nrūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui\nVyt. dėkingas už Poznaniaus mitrą."
+  citata_rodoma: |
+    Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
+    davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
+    grindinių reikalų, kai ėjo klausimas apie karalijos santvarką,
+    apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi
+    nuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­
+    vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.
+    Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
+    meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­
+    davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­
+    tarimo, dažniausiai jo paramos. Dėl jo energingos paramos
+    Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
+    rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
+    Vyt. dėkingas už Poznaniaus mitrą.
   statusas: verified
   atnaujinta: "2026-07-14 08:29"
   teiginio_tipas: faktas
@@ -170,7 +183,13 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
     luose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­
     vo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­
     tą^4 ). Toks buvo didelis prie Vytauto prisirišimas.
-  citata_rodoma: "Sis pastarasis, kaip karū­\nnos kanceliarijos globėjas, tose knygose mums pasirodo, kaip\nnuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­\nluose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­\nvo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­\ntą^4 ). Toks buvo didelis prie Vytauto prisirišimas."
+  citata_rodoma: |
+    Sis pastarasis, kaip karū­
+    nos kanceliarijos globėjas, tose knygose mums pasirodo, kaip
+    nuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­
+    luose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­
+    vo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­
+    tą^4 ). Toks buvo didelis prie Vytauto prisirišimas.
   statusas: verified
   atnaujinta: "2026-07-14 08:29"
   teiginio_tipas: faktas

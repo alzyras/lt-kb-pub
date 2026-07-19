@@ -243,7 +243,10 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip
     R. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M. J u-
     čas: _Žalgirio mūšis_ (1959)^106 , R. Varakauskas: _Pilėnų_
-  citata_rodoma: "Lietuvių kovas\nsu kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip\nR. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M."
+  citata_rodoma: |
+    Lietuvių kovas
+    su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip
+    R. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -270,7 +273,11 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     torių aprašymas_ (1963) ir _Rankraščių rinkiniai Lietuvos T. S. R.
     Mokslų Akademijos Centrinės bibliotekos XI-XX amžių rankraščių
     fondų trumpa apžvalga_ (1963).
-  citata_rodoma: "Raudeliū­\nnas^112. Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­\nmais rašė istorikai: P. Dundulienė: _Žemdirbystė Lietuvoje\n(nuo seniausia laiku iki 1917 metu)_ (1963)^113 ; R."
+  citata_rodoma: |
+    Raudeliū­
+    nas^112. Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­
+    mais rašė istorikai: P. Dundulienė: _Žemdirbystė Lietuvoje
+    (nuo seniausia laiku iki 1917 metu)_ (1963)^113 ; R.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -290,7 +297,10 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
     (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117.
-  citata_rodoma: "R. Strazdūnaitė:\n_Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-\nMD, t. 6, 1959, 155-167 p. ; A."
+  citata_rodoma: |
+    R. Strazdūnaitė:
+    _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-
+    MD, t. 6, 1959, 155-167 p. ; A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -316,7 +326,12 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     nės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;
     O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
     veiksmus 1863 m.
-  citata_rodoma: "Bičkauskas - Gentvila (1958), kuris taip pat svarstė\nir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir\nBaltarusijoje^118 ; V. Černeckis rašė apie kapitalistinės pramo­\nnės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;\nO."
+  citata_rodoma: |
+    Bičkauskas - Gentvila (1958), kuris taip pat svarstė
+    ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir
+    Baltarusijoje^118 ; V. Černeckis rašė apie kapitalistinės pramo­
+    nės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;
+    O.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -338,7 +353,13 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     dėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir
     liet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,
     **_1812 m._** **(IstV, t. 4, 1963, 89-103 p.) ;** **_Projektas atkurti Lietuvos Did.
-  citata_rodoma: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­\nkienė: _1905-1907 metų revoliucija Lietuvoje_ (1955). A. Tyla\ntaip pat svarstė tos revoliucijos klausimus^122 ; jis davė pastabų ir\ndėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir\nliet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,\n**_1812 m."
+  citata_rodoma: |
+    1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
+    kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955). A. Tyla
+    taip pat svarstė tos revoliucijos klausimus^122 ; jis davė pastabų ir
+    dėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir
+    liet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,
+    **_1812 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -353,7 +374,9 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   citata_originali: |
     171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
     mažai rašė R. Vėbra^128.
-  citata_rodoma: "Lietuviškos spaudos draudimo XIX a. klausimais ne­\nmažai rašė R. Vėbra^128."
+  citata_rodoma: |
+    Lietuviškos spaudos draudimo XIX a. klausimais ne­
+    mažai rašė R. Vėbra^128.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -373,7 +396,12 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
     (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
     (AkMD, t. 12, sąs. 2, 1972).
-  citata_rodoma: "A. Šidlauskas\natkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje\n(AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo\n(AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius\n(AkMD, t. 12, sąs. 2, 1972)."
+  citata_rodoma: |
+    A. Šidlauskas
+    atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje
+    (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
+    (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
+    (AkMD, t. 12, sąs. 2, 1972).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -397,7 +425,10 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     Emigracija iš Lietuvos 1868-1914 m. (AkMD, t. 10, 1961, 71-84 p. ;
     P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
     mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
-  citata_rodoma: ";\nP. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­\nmas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.)."
+  citata_rodoma: |
+    ;
+    P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
+    mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -419,7 +450,14 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     (^125) **AkMD, t. 2, 1957, 3-16 p. ; t. 3, 1957, 37-52 p. ; t. 4, 1958, 149-170 p. ;
     t. 6, 1959, 169-190 p.; t. 8, 1960, 93-120 p.; t. 10, 1961, 49-69 p. ; t. 11,
     1961, 145-167 p.; t. 12, 1961, 115-130 p.; t. 14, 1963, 115-132 p.
-  citata_rodoma: "— Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika\nkultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu_** **(BBK, t. 3, 1964,\n159-190 p.) ;** **_Iš bibliotekų Lietuvoje istorijos. Motiejaus Valančiaus pastabos,\nparašytos Kražių gimnazijos bibliotekos knygose_** **(BBK, t. 4, 1965, 217-224 p.) ;**\n**_Lietuvių kultūros-švietimo draugijos 1905-1907 metu revoliucijos ir Stolypino\nreakcijos metais_** **(BBK, t. 2, 1962, 113-145 p.).**\n(^125) **AkMD, t."
+  citata_rodoma: |
+    — Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika
+    kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu_** **(BBK, t. 3, 1964,
+    159-190 p.) ;** **_Iš bibliotekų Lietuvoje istorijos. Motiejaus Valančiaus pastabos,
+    parašytos Kražių gimnazijos bibliotekos knygose_** **(BBK, t. 4, 1965, 217-224 p.) ;**
+    **_Lietuvių kultūros-švietimo draugijos 1905-1907 metu revoliucijos ir Stolypino
+    reakcijos metais_** **(BBK, t. 2, 1962, 113-145 p.).**
+    (^125) **AkMD, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -441,7 +479,10 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     skyrių red. A. Tautavičius.
     Lietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­
     ka r k 1 i s, ypač rašęs apie teutonų ordinus^105.
-  citata_rodoma: "Tautavičius.\nLietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­\nka r k 1 i s, ypač rašęs apie teutonų ordinus^105."
+  citata_rodoma: |
+    Tautavičius.
+    Lietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­
+    ka r k 1 i s, ypač rašęs apie teutonų ordinus^105.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

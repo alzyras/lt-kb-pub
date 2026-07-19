@@ -90,7 +90,8 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
     pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
     boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
     garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-  citata_rodoma: "garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis."
+  citata_rodoma: |
+    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

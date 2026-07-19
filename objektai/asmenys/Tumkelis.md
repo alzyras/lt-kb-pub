@@ -87,7 +87,10 @@ Antspaudą pridėjo Tumkelis (Tumkiel) 1528 metais.
     įgijęs nuosavybę Jo Karališkosios Malonybės Vilniaus mieste,
     yra įrašytas, įskaitytas ir imatrikuliuotas į to miesto piliečių
     būrį; jam leista naudotis privilegijomis ir 1.1.
-  citata_rodoma: "IV lentelė, 25-asis piešinys. Atidarytas narvelis, iš kurio\ntiesiai į viršų išlekia plaštakė. Antspaudą pridėjo Tumkelis\n(Tumkiel) 1528 metais. Gražus ženklas."
+  citata_rodoma: |
+    IV lentelė, 25-asis piešinys. Atidarytas narvelis, iš kurio
+    tiesiai į viršų išlekia plaštakė. Antspaudą pridėjo Tumkelis
+    (Tumkiel) 1528 metais. Gražus ženklas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

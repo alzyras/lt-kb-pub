@@ -123,7 +123,12 @@ Sudegė abiejų pilių papiliai.
     255 (248). Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
     1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
     savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.
-  citata_rodoma: "Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,\nmagistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei\ngyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:\nJunigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki\npamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti."
+  citata_rodoma: |
+    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
+    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
+    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
+    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
+    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

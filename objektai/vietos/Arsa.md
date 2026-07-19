@@ -148,7 +148,11 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     Vartbergės Livonijos kronikoje (iki 1378 m.) — Ragnithen, Ragniten (SRP, 2, p. 85, 95
     ir kt.), Vygando Marburglškio Prūsijos kronikoje (iki 1394 m.) — Ragneta, Ragnite,
     Ragnita (SRP, 2, p. 509, 514, 522, 541 ir kt.).
-  citata_rodoma: "Senuose žemėlapiuose\n(Sch-K) pažymėtas nedidelis kair. Vangrapės intakas Kampsvykių apylinkėse galėtų būti,\nmanoma, D. Arse (Ewald A. L., Die Eroberung.., 4, p. 189—190). Arsa resp. Arsė tapatinta\nir su Vangrape (Tepenas M.)."
+  citata_rodoma: |
+    Senuose žemėlapiuose
+    (Sch-K) pažymėtas nedidelis kair. Vangrapės intakas Kampsvykių apylinkėse galėtų būti,
+    manoma, D. Arse (Ewald A. L., Die Eroberung.., 4, p. 189—190). Arsa resp. Arsė tapatinta
+    ir su Vangrape (Tepenas M.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -170,7 +174,15 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     sužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių
     grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
     paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
-  citata_rodoma: "Apie Kampsvykių pilies užkariavimą\n\n  Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir\ndegindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,\ntinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių\nsužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių\ngrumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus\npaėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino."
+  citata_rodoma: |
+    Apie Kampsvykių pilies užkariavimą
+
+      Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir
+    degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,
+    tinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių
+    sužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių
+    grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
+    paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

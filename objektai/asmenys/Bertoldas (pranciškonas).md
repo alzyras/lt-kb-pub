@@ -60,7 +60,11 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
     ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
     Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
     popiežiaus tarpininkavimo.
-  citata_rodoma: "Tur būt, Gediminas nebuvo tiek daug\nketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.\nGediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė\npopiežiaus tarpininkavimo."
+  citata_rodoma: |
+    Tur būt, Gediminas nebuvo tiek daug
+    ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
+    Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
+    popiežiaus tarpininkavimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

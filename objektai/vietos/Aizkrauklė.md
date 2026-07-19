@@ -101,7 +101,9 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
     Colm/Kolm
     Colmelawcken, Collmilawken
     Colmen (deš.
-  citata_rodoma: "Aizkrauklė (buv. Ašeradė)\n  Akmena (Jūros intakas), u."
+  citata_rodoma: |
+    Aizkrauklė (buv. Ašeradė)
+      Akmena (Jūros intakas), u.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

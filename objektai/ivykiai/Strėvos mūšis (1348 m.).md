@@ -149,7 +149,11 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     Semeliškių, Aukštadvario, artimesnės Trakų
     ir kt. apylinkės. Atgal grįžtantį priešą prie
     Strėvos upės pavijo Lietuvos kariuomenė.
-  citata_rodoma: "Niokotos galbūt plačiosios\nSemeliškių, Aukštadvario, artimesnės Trakų\nir kt. apylinkės. Atgal grįžtantį priešą prie\nStrėvos upės pavijo Lietuvos kariuomenė."
+  citata_rodoma: |
+    Niokotos galbūt plačiosios
+    Semeliškių, Aukštadvario, artimesnės Trakų
+    ir kt. apylinkės. Atgal grįžtantį priešą prie
+    Strėvos upės pavijo Lietuvos kariuomenė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -172,7 +176,16 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     Lietuvos kariai rusai šaudydami iš lankų.
     Daug ordino brolių žuvo, tarp jų Gdan-
     sko komtūras, Sembos vyskupo teisėjas.
-  citata_rodoma: "1348 m. vasario 2 d. kautynės ko gero\nįvyko prie kelio Trakai-Strėvininkai-\nKaunas, matyt, ties Žiežmarių brasta.\nMūšyje, pirmiausia jo pradžioje, kaip pa-\nžymi kronikininkas Vygandas, lietuviai\npriešą atakavo svaidomosiomis ietimis, o\nLietuvos kariai rusai šaudydami iš lankų.\nDaug ordino brolių žuvo, tarp jų Gdan-\nsko komtūras, Sembos vyskupo teisėjas."
+  citata_rodoma: |
+    1348 m. vasario 2 d. kautynės ko gero
+    įvyko prie kelio Trakai-Strėvininkai-
+    Kaunas, matyt, ties Žiežmarių brasta.
+    Mūšyje, pirmiausia jo pradžioje, kaip pa-
+    žymi kronikininkas Vygandas, lietuviai
+    priešą atakavo svaidomosiomis ietimis, o
+    Lietuvos kariai rusai šaudydami iš lankų.
+    Daug ordino brolių žuvo, tarp jų Gdan-
+    sko komtūras, Sembos vyskupo teisėjas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -193,7 +206,15 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.
     Jie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
     J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje.
-  citata_rodoma: "1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis\nVinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur\npagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-\ntas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti\nbuvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.\nJie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.\nJ, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje"
+  citata_rodoma: |
+    1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
+    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
+    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
+    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
+    tas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
+    buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.
+    Jie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
+    J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +238,11 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     laimėjimą Ordinui buvo naudinga: tai impo-
     navo Europos riteriams ir vis daugiau jų vi-
     liojo į talką Ordinui žygiuose prieš Lietuvą.
-  citata_rodoma: "Taigi Strėvos mūšis, kad ir patyrus nuos-\ntolių, įnešė savo indėlį atremiant galingą\nOrdino spaudimą plataus Lietuvos gyny-\nbinio karo sąlygomis."
+  citata_rodoma: |
+    Taigi Strėvos mūšis, kad ir patyrus nuos-
+    tolių, įnešė savo indėlį atremiant galingą
+    Ordino spaudimą plataus Lietuvos gyny-
+    binio karo sąlygomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

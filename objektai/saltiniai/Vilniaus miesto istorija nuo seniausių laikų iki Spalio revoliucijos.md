@@ -84,7 +84,9 @@ media_all_json: |-
     V., 1999, p. 1.
     8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos. V.,
     1968, p. 9.
-  citata_rodoma: "8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos. V., \n1968, p. 9."
+  citata_rodoma: |
+    8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos. V.,
+    1968, p. 9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -105,7 +107,13 @@ media_all_json: |-
     dą. Abu jie rašė lenkų kalba, būdami feodalinės Lietuvos vals­
     tybės patriotai ir tęsdami renesanso epochoje susiklosčiusią
     tradiciją"8.
-  citata_rodoma: "1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo \nJ. I. Kraševskio ir M. Balinskio nuopelnus tiriant Vilniaus pra­\neitį: „Jų darbai sudaro senosios Vilniaus istoriografijos pagrin­\ndą. Abu jie rašė lenkų kalba, būdami feodalinės Lietuvos vals­\ntybės patriotai ir tęsdami renesanso epochoje susiklosčiusią \ntradiciją\"8."
+  citata_rodoma: |
+    1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo
+    J. I. Kraševskio ir M. Balinskio nuopelnus tiriant Vilniaus pra­
+    eitį: „Jų darbai sudaro senosios Vilniaus istoriografijos pagrin­
+    dą. Abu jie rašė lenkų kalba, būdami feodalinės Lietuvos vals­
+    tybės patriotai ir tęsdami renesanso epochoje susiklosčiusią
+    tradiciją"8.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

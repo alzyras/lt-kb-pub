@@ -62,7 +62,12 @@ Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo jėzuitui jau 
     balasto « pelų », t. y. M. Stryjkovskio Kroniką _«_ sutvarkyti pagal
     literatūrinius reikalavimus » kaip pats Kojalavičius savo pratarmėje
     pažymėjo.
-  citata_rodoma: "Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo\njėzuitui jau nebuvo sunku Lietuvos istorijos grūdus nuvalyti nuo\nbalasto « pelų », t. y. M. Stryjkovskio Kroniką _«_ sutvarkyti pagal\nliteratūrinius reikalavimus » kaip pats Kojalavičius savo pratarmėje\npažymėjo."
+  citata_rodoma: |
+    Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo
+    jėzuitui jau nebuvo sunku Lietuvos istorijos grūdus nuvalyti nuo
+    balasto « pelų », t. y. M. Stryjkovskio Kroniką _«_ sutvarkyti pagal
+    literatūrinius reikalavimus » kaip pats Kojalavičius savo pratarmėje
+    pažymėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

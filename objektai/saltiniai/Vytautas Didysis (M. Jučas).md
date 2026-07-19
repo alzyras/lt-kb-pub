@@ -63,7 +63,8 @@ Vytautas Didysis.
   citata_originali: |
     Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
     1009–2009.
-  citata_rodoma: "M. Jučas. Vytautas Didysis. Chicago, 2010"
+  citata_rodoma: |
+    M. Jučas. Vytautas Didysis. Chicago, 2010
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

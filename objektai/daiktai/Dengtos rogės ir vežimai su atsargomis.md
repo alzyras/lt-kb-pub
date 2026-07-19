@@ -101,8 +101,20 @@ Nenurodyta
     apie Sudimantą nėra užsiminta.
     20
     Vilniaus kapitulos archy­
-    vas: MSS, vad. Acta, tai yra*
-  citata_rodoma: "Jogaila tam pasipriešino, \ntad šia dingstimi negalima buvo į \nVilnių vykti. Tie patys metraštinin­\nkai pasakoja, kad 300 vežimų, įvai­\nrios žvėrienos prikrauti, atvažiavę į \nmiestą ir kad Vytauto bajorai suva­\nžiavę į miestą iš įvairių pusių, bet \nvienas jų, matyt, išdavęs paslaptį, o \napie Sudimantą nėra užsiminta.\n20\nVilniaus kapitulos archy­\nvas: MSS, vad."
+    vas: MSS, vad.
+  citata_rodoma: |
+    Jogaila tam pasipriešino,
+    tad šia dingstimi negalima buvo į
+    Vilnių vykti. Tie patys metraštinin­
+    kai pasakoja, kad 300 vežimų, įvai­
+    rios žvėrienos prikrauti, atvažiavę į
+    miestą ir kad Vytauto bajorai suva­
+    žiavę į miestą iš įvairių pusių, bet
+    vienas jų, matyt, išdavęs paslaptį, o
+    apie Sudimantą nėra užsiminta.
+    20
+    Vilniaus kapitulos archy­
+    vas: MSS, vad.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

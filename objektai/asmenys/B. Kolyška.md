@@ -140,7 +140,12 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     Genujos-Cuneo karo mokyklos, ruošusios
     karininkus partizaninei kovai, absolven-
     tui B. Kolyškai.
-  citata_rodoma: "Vienai kolonai\npavedė vadovauti A. Mackevičių, kitą —\nGenujos-Cuneo karo mokyklos, ruošusios\nkarininkus partizaninei kovai, absolven-\ntui B. Kolyškai."
+  citata_rodoma: |
+    Vienai kolonai
+    pavedė vadovauti A. Mackevičių, kitą —
+    Genujos-Cuneo karo mokyklos, ruošusios
+    karininkus partizaninei kovai, absolven-
+    tui B. Kolyškai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -160,7 +165,11 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     kariais vytis priešą, tačiau to neleido vy-
     riausiasis vadas Z. Sierakauskas, nuspren-
     dęs palaukti A. Mackevičiaus batalionų.
-  citata_rodoma: "B. Kolyška norėjo su savo\nkariais vytis priešą, tačiau to neleido vy-\nriausiasis vadas Z. Sierakauskas, nuspren-\ndęs palaukti A. Mackevičiaus batalionų."
+  citata_rodoma: |
+    B. Kolyška norėjo su savo
+    kariais vytis priešą, tačiau to neleido vy-
+    riausiasis vadas Z. Sierakauskas, nuspren-
+    dęs palaukti A. Mackevičiaus batalionų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -183,7 +192,14 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     linys. Į nelaisvę pakliuvo Z. Sierakauskas,
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
-  citata_rodoma: "Vilniaus karo apygardos Karo veiksmų\n\njuos miegančius gegužės 10 naktį apsupo ir\npaėmė į nelaisvę paporučikio fon Gaso da-\nlinys. Į nelaisvę pakliuvo Z. Sierakauskas,\nB. Kolyška, S. Kozakauskas ir dar keletas\nkarininkų."
+  citata_rodoma: |
+    Vilniaus karo apygardos Karo veiksmų
+
+    juos miegančius gegužės 10 naktį apsupo ir
+    paėmė į nelaisvę paporučikio fon Gaso da-
+    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
+    B. Kolyška, S. Kozakauskas ir dar keletas
+    karininkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

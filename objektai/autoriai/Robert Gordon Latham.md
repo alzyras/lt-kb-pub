@@ -150,7 +150,21 @@ media_all_json: |-
     Iš britų mokslininko Robert Gordon Latham
     „Descriptive Ethnology“ („Aprašomoji etnologija“)
     Geografinis Europos centras?
-  citata_rodoma: "Sauliui Kaubriui ir daugeliui \nkitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių \natrinkimo.\n   Alfonsas Eidintas, \n   redaktorius\n\nĮ v a d a s\nLIETUVA –  \nVIDURIO EUROPOS DALIS \n„Be abejonės, sanskrito giminingumas su lietuvių kalba yra \ndidesnis, negu su bet kuria kita kalba šioje žemėje“\nIš britų mokslininko Robert Gordon Latham \n„Descriptive Ethnology“ („Aprašomoji etnologija“)\nGeografinis Europos centras?"
+  citata_rodoma: |
+    Sauliui Kaubriui ir daugeliui
+    kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
+    atrinkimo.
+       Alfonsas Eidintas,
+       redaktorius
+
+    Į v a d a s
+    LIETUVA –
+    VIDURIO EUROPOS DALIS
+    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
+    didesnis, negu su bet kuria kita kalba šioje žemėje“
+    Iš britų mokslininko Robert Gordon Latham
+    „Descriptive Ethnology“ („Aprašomoji etnologija“)
+    Geografinis Europos centras?
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

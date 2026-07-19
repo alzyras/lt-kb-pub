@@ -107,7 +107,15 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
     ir Brandenburgo unija, kuri mainais į neutralumą pakėlė savo
     valstybės statusą iki karalystės ir ėmė sparčiai stiprėti, o Švedija
     ir ATR ėmė silpti.
-  citata_rodoma: "Daugiausiai laimėjo\nviena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasi-\nrašius Šiaurės karą užbaigusią Ništato sutartį, ji buvo iškilmingai\npaskelbta imperija) ir kovos veiksmuose nedalyvavusi Prūsijos\n\nir Brandenburgo unija, kuri mainais į neutralumą pakėlė savo\nvalstybės statusą iki karalystės ir ėmė sparčiai stiprėti, o Švedija\nir ATR ėmė silpti."
+  citata_rodoma: |
+    Daugiausiai laimėjo
+    viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasi-
+    rašius Šiaurės karą užbaigusią Ništato sutartį, ji buvo iškilmingai
+    paskelbta imperija) ir kovos veiksmuose nedalyvavusi Prūsijos
+
+    ir Brandenburgo unija, kuri mainais į neutralumą pakėlė savo
+    valstybės statusą iki karalystės ir ėmė sparčiai stiprėti, o Švedija
+    ir ATR ėmė silpti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

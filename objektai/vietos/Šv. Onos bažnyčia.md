@@ -69,7 +69,10 @@ Onos bažnyčios atsiradimo žr.
     žinoma. Apie mūsų prielaidas dėl
     Šv. Onos bažnyčios atsiradimo žr.
     268 p.
-  citata_rodoma: "Apie mūsų prielaidas dėl \nŠv. Onos bažnyčios atsiradimo žr. \n268 p."
+  citata_rodoma: |
+    Apie mūsų prielaidas dėl
+    Šv. Onos bažnyčios atsiradimo žr.
+    268 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

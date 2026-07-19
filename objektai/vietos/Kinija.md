@@ -118,7 +118,8 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
     naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
     miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
     1626–1634 m. ir rašė asketikos veikalus kinų kalba.
-  citata_rodoma: "miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo"
+  citata_rodoma: |
+    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +139,8 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
     aišku jau akademiją steigusiems jėzuitams. Vienas jų tada rašė: „Reikia
     taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
     o iš jos per totorius galėsime pasiekti ir Kiniją.
-  citata_rodoma: "taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,"
+  citata_rodoma: |
+    taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

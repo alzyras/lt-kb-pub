@@ -72,7 +72,8 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
     sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
     sienos pažeidimai nepakeitė Maskvos pozicijų dėl Lietuvos teritorinio
     suverenumo.
-  citata_rodoma: "sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos"
+  citata_rodoma: |
+    sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -94,7 +94,12 @@ media_all_json: |-
     gentis, vadinama borestenitais, neabejotinai buvo ta, ku­
     ri davė pradžią karališkiesiems skitams, turėjusiems se­
     novės kimbrų miestą Boristenį.
-  citata_rodoma: "Ten pateiktas T. Cac-\nkio laiškas Seimo maršalkai Malachovskiui, datuotas 1787 m. lie­\npos 31 d., iš Jasų, kuriame rašoma, jog Jasuose lankėsi kunigas Se-\nvaljė (L’Abbé Chevalier), prancūzų pasiuntinybės Stambule sekre­\ntorius, garsus tuo, kad neseniai atrado Achilo kapą..."
+  citata_rodoma: |
+    Ten pateiktas T. Cac-
+    kio laiškas Seimo maršalkai Malachovskiui, datuotas 1787 m. lie­
+    pos 31 d., iš Jasų, kuriame rašoma, jog Jasuose lankėsi kunigas Se-
+    valjė (L’Abbé Chevalier), prancūzų pasiuntinybės Stambule sekre­
+    torius, garsus tuo, kad neseniai atrado Achilo kapą...
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

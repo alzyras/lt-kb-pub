@@ -200,7 +200,9 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     kus. Vadinas, pradėt ar išprovokuot karą, reiškė vis tiek jį Len­
     kijai pralaimėt. Tokiu tat laiku Jogaila vėl sukvietė visus
     savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).
-  citata_rodoma: "Tokiu tat laiku Jogaila vėl sukvietė visus\nsavo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.)."
+  citata_rodoma: |
+    Tokiu tat laiku Jogaila vėl sukvietė visus
+    savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -220,7 +222,12 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     Lietuvos pajėgos Rusioje plačiai vykdė
 
     kovinius veiksmus.
-  citata_rodoma: "Panašiu metu Lenkijoje lietuviai\npuolė Sandomiro ir Krokuvos žemes.\nLietuvos pajėgos Rusioje plačiai vykdė\n\nkovinius veiksmus."
+  citata_rodoma: |
+    Panašiu metu Lenkijoje lietuviai
+    puolė Sandomiro ir Krokuvos žemes.
+    Lietuvos pajėgos Rusioje plačiai vykdė
+
+    kovinius veiksmus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -259,7 +266,26 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     dosi persekioti priešo su didikais ar bajorais, kurie jau
     buvo atvykę į Krokuvą arba kuriuos galėjo greitosio­
     mis sušaukti iš aplinkinių gyvenviečių.
-  citata_rodoma: "Staigiai ir be var­\ngo iškilęs į valdžios viršūnes, Vytenis turėjo pamato\nįtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­\nma padėtis negali nekurstyti pavydo, neteikti progos\nmaištams, ypač dėl to, kad negalėjo stigti maištui nei\nkurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė\nvado būsimam vidaus karui, kol, jam valdant, Trai-\nverstas pradėti karą dėl visai kitų priežasčių, ypač pa­\nbrėždamas tą žinomiausią: būsią keršijama lenkams už\npatirtą praėjusiais metais Jotvingijoje pralaimėjimą.\nSutelkęs didesnę nei paprastai kariuomenę, jis patrau­\nkė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo\napygardas, nuvedė kariuomenę į Sandomiro žemę. Len­\nkams pasitraukus į miestus ir neleidus savo turtą nio­\nkoti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­\nšinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­\nnius kaimus ir dvarus, išžudęs galybę silpnų senių bei\nvaikų, be kito grobio, išsivarė šešis tūkstančius žmo­\nnių."
+  citata_rodoma: |
+    Staigiai ir be var­
+    go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
+    įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­
+    ma padėtis negali nekurstyti pavydo, neteikti progos
+    maištams, ypač dėl to, kad negalėjo stigti maištui nei
+    kurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė
+    vado būsimam vidaus karui, kol, jam valdant, Trai-
+    verstas pradėti karą dėl visai kitų priežasčių, ypač pa­
+    brėždamas tą žinomiausią: būsią keršijama lenkams už
+    patirtą praėjusiais metais Jotvingijoje pralaimėjimą.
+    Sutelkęs didesnę nei paprastai kariuomenę, jis patrau­
+    kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo
+    apygardas, nuvedė kariuomenę į Sandomiro žemę. Len­
+    kams pasitraukus į miestus ir neleidus savo turtą nio­
+    koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­
+    šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­
+    nius kaimus ir dvarus, išžudęs galybę silpnų senių bei
+    vaikų, be kito grobio, išsivarė šešis tūkstančius žmo­
+    nių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -295,7 +321,23 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     klysdami, o gal tikrai žino­
     dami, jog šitaip iš tikrųjų
     buvo.
-  citata_rodoma: "Tuo\ntarpu Jogaila, atsikratęs rū­\npesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis\nsu kariuomene patraukė prieš Jonušą, Mazovijos ku­\nnigaikštį; iš keršto kaip beįmanydamas nuniokojęs\nMazoviją, perkėlė siaubiančius pulkus į Sandomirą,\nlenkų žemę. Apie šį karą su lenkais nieko nepasakoja\nKromeris, tačiau, kad kas nepasigestų to, ką aprašo\ndaugelis rusų metraštininkų, mūsų Strijkovskis pasi­\nstengė, kad skaitytojas suži-\nJ o g a ilo s ž y g is  j M a-\nnotų, ką šie surašė — gal\nz o v iją  ir L en k iją\nklysdami, o gal tikrai žino­\ndami, jog šitaip iš tikrųjų\nbuvo."
+  citata_rodoma: |
+    Tuo
+    tarpu Jogaila, atsikratęs rū­
+    pesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis
+    su kariuomene patraukė prieš Jonušą, Mazovijos ku­
+    nigaikštį; iš keršto kaip beįmanydamas nuniokojęs
+    Mazoviją, perkėlė siaubiančius pulkus į Sandomirą,
+    lenkų žemę. Apie šį karą su lenkais nieko nepasakoja
+    Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
+    daugelis rusų metraštininkų, mūsų Strijkovskis pasi­
+    stengė, kad skaitytojas suži-
+    J o g a ilo s ž y g is  j M a-
+    notų, ką šie surašė — gal
+    z o v iją  ir L en k iją
+    klysdami, o gal tikrai žino­
+    dami, jog šitaip iš tikrųjų
+    buvo.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

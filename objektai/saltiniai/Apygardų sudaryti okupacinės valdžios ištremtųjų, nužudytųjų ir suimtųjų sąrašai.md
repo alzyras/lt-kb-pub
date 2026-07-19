@@ -95,7 +95,14 @@ media_all_json: |-
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras\nPyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-\ntizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios\ništremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką\npopiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips\ndėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad\nSSRS nutrauktų terorą."
+  citata_rodoma: |
+    1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras
+    Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-
+    tizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios
+    ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką
+    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
+    dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
+    SSRS nutrauktų terorą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

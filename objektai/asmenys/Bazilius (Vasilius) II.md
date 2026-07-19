@@ -69,7 +69,8 @@ media_all_json: |-
     problemai. XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
     kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
     Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
-  citata_rodoma: "Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą."
+  citata_rodoma: |
+    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

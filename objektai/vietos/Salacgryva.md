@@ -119,7 +119,14 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     J. K. Chodkevičiaus uosto prieigose tykan-
     čios flotilės ugnies, vis dėlto sugebėjo prasi-
     veržti į atvirą jūrą ir pasitraukti į Švediją.
-  citata_rodoma: "Uždegti branderiai buvo signalas sausu-\nmoje, uosto šturmo pajėgose buvusiems lie-\ntuviams pradėti Salacgryvos uosto puolimą\niš sausumos. Suderintas ir netikėtas puo-\nlimas iš jūros ir sausumos nepaliko jokių\ngalimybių švedams rimčiau pasipriešinti\npuolantiems lietuviams."
+  citata_rodoma: |
+    Uždegti branderiai buvo signalas sausu-
+    moje, uosto šturmo pajėgose buvusiems lie-
+    tuviams pradėti Salacgryvos uosto puolimą
+    iš sausumos. Suderintas ir netikėtas puo-
+    limas iš jūros ir sausumos nepaliko jokių
+    galimybių švedams rimčiau pasipriešinti
+    puolantiems lietuviams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -139,7 +146,12 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     tiesiai per miškus. 1609 m. kovo 14 d. LDK
     etmono Jono Karolio Chodkevičiaus vado-
     vaujama kariuomenė pasiekė Piarnu, tačiau
-  citata_rodoma: "LDK etmonas Jonas Karolis Chodkevičius\nsu kariuomene nužygiavo Piarnu link.\nNorėdamas užklupti priešą nepasiruošusį,\njis prie Salacgryvos (Salismiinde) žygiavo\ntiesiai per miškus. 1609 m."
+  citata_rodoma: |
+    LDK etmonas Jonas Karolis Chodkevičius
+    su kariuomene nužygiavo Piarnu link.
+    Norėdamas užklupti priešą nepasiruošusį,
+    jis prie Salacgryvos (Salismiinde) žygiavo
+    tiesiai per miškus. 1609 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -169,7 +181,20 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     LDK jungtinės sausumos ir ką tik sufor-
     muoto karinio laivyno pajėgos, vadovauja-
     mos Jono Karolio Chodkevičiaus 1609 m.
-  citata_rodoma: "Suformuota\nflotilė patraukė Salacgryvos uosto link,\nkurio prieigose etmono įsakymu slapta\nbuvo parengti du branderiai - padegamieji\nlaivai, kurie medinių laivų amžiuje buvo\nlabai efektyvi priemonė naikinant priešo\nlaivus, ypač stovinčius uoste.\n\nMūšis\n\nLDK jungtinės sausumos ir ką tik sufor-\nmuoto karinio laivyno pajėgos, vadovauja-\nmos Jono Karolio Chodkevičiaus 1609 m."
+  citata_rodoma: |
+    Suformuota
+    flotilė patraukė Salacgryvos uosto link,
+    kurio prieigose etmono įsakymu slapta
+    buvo parengti du branderiai - padegamieji
+    laivai, kurie medinių laivų amžiuje buvo
+    labai efektyvi priemonė naikinant priešo
+    laivus, ypač stovinčius uoste.
+
+    Mūšis
+
+    LDK jungtinės sausumos ir ką tik sufor-
+    muoto karinio laivyno pajėgos, vadovauja-
+    mos Jono Karolio Chodkevičiaus 1609 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

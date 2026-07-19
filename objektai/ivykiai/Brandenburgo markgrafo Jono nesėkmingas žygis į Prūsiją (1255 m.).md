@@ -87,7 +87,16 @@ Nenurodyta
     vietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma
     pereiti. Štai dėl to, šios aplinkybės verčiamas, jis sugrįžo į tėvynę, savo gerus norus
     palaikydamas nuopelnu, nors užsimoto tikslo ir nepasiekė.
-  citata_rodoma: "Apie Brandenburgo markgrafo atvykimą\n\n   Tais  metais,  tai  yra 1255  viešpaties  metais339, valdovas  Jonas, Brandenburgo\nmarkgrafas, didžiai įgudęs  ir prityręs karvedys, žiemą atžygiavo  į Prūsijos žemę su\nstipria kariuomene, gerai viskuo aprūpinta; kadangi žiema pasitaikė šilta, jis negalėjo\nprieiti kaimynystėje gyvenančių tikėjimo priešų. Mat ten esama pelkių ir kitų pavojingų\nvietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma\npereiti. Štai dėl to, šios aplinkybės verčiamas, jis sugrįžo  į tėvynę, savo gerus norus\npalaikydamas nuopelnu, nors užsimoto tikslo ir nepasiekė."
+  citata_rodoma: |
+    Apie Brandenburgo markgrafo atvykimą
+
+       Tais  metais,  tai  yra 1255  viešpaties  metais339, valdovas  Jonas, Brandenburgo
+    markgrafas, didžiai įgudęs  ir prityręs karvedys, žiemą atžygiavo  į Prūsijos žemę su
+    stipria kariuomene, gerai viskuo aprūpinta; kadangi žiema pasitaikė šilta, jis negalėjo
+    prieiti kaimynystėje gyvenančių tikėjimo priešų. Mat ten esama pelkių ir kitų pavojingų
+    vietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma
+    pereiti. Štai dėl to, šios aplinkybės verčiamas, jis sugrįžo  į tėvynę, savo gerus norus
+    palaikydamas nuopelnu, nors užsimoto tikslo ir nepasiekė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

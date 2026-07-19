@@ -78,7 +78,16 @@ Nenurodyta
     ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
     Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
     pasitraukė sugėdintas.
-  citata_rodoma: "Apie Elbingo pilies ir miesto puolimą\n\n  Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei\nbrolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,\nketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,\npasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip\nryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.\nTodėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,\npasitraukė sugėdintas."
+  citata_rodoma: |
+    Apie Elbingo pilies ir miesto puolimą
+
+      Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
+    ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
+    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
+    pasitraukė sugėdintas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

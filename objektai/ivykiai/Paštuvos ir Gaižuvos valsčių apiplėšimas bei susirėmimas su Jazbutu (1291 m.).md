@@ -116,7 +116,14 @@ Nenurodyta
     neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
     nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
     pavyko garbingai išvengti kovos.
-  citata_rodoma: "Apie Paštuvos ir Gaižuvos valsčių apiplėšimą\n\n  Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais\nnuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,\nviską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug\nžmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus\nkapo esantis Pilies (Ramybės) kalnas (atrodo, XV a."
+  citata_rodoma: |
+    Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
+
+      Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais
+    nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,
+    viską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug
+    žmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus
+    kapo esantis Pilies (Ramybės) kalnas (atrodo, XV a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

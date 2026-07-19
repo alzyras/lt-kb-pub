@@ -74,7 +74,9 @@ Terminas vartojamas kalbant apie kaimo žmonių susirinkimus žiemos šventadien
     Arba: šiandien susitrauksi, kitą dieną atsigausi.
     Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo
     jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti.
-  citata_rodoma: "Kai temsta, kaimo \njaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti"
+  citata_rodoma: |
+    Kai temsta, kaimo
+    jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

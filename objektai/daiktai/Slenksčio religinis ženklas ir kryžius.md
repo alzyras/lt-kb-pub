@@ -160,7 +160,12 @@ Nenurodyta
     tokio varpo gavęs pavadinimą.
     Kronikininkai taip pat mano, kad dievui Varpui būdavo
     aukojami gaidžiai, kaip budrumo simboliai.
-  citata_rodoma: "Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­\nse“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­\nkala išorėje, virš pirkios arba svirno durų. Statydami namą,\npaprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais\ndažais."
+  citata_rodoma: |
+    Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
+    se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
+    kala išorėje, virš pirkios arba svirno durų. Statydami namą,
+    paprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais
+    dažais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

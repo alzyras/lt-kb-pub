@@ -90,7 +90,10 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
     ministerija), 2001; Lietuva, 1991 sausio 13. Dokumentinė medžiaga. Vilnius: Spaudos
     departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
     ir A. Eidinto, A. Bumblausko asmeninių archyvų.
-  citata_rodoma: "Vilnius: Spaudos \ndepartamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) \nir A. Eidinto, A. Bumblausko asmeninių archyvų."
+  citata_rodoma: |
+    Vilnius: Spaudos
+    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
+    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

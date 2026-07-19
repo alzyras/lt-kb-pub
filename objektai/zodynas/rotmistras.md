@@ -161,7 +161,11 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
     Kiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos
     | žirgų ir karių.
-  citata_rodoma: "Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus\npats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.\nKiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos\n| žirgų ir karių."
+  citata_rodoma: |
+    Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
+    pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
+    Kiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos
+    | žirgų ir karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

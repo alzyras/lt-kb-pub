@@ -192,7 +192,12 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     jog minėtas vaisius neišaugo jokioje Emblikoje. Prie to
     dar reikia pridurti, kad šis medis užauga vos 40 pėdų
     aukščio, o prūsiška palmė buvo du kartus aukštesnė.
-  citata_rodoma: "Tokia yra tikroji padėtis. Galima būtų stebėtis, jei\nkaršto klimato medis Phyllantus Emblica būtų atsidū-\nręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą\n,,De fructibus et seminibus plantarum\", kad įsitikintume,\njog minėtas vaisius neišaugo jokioje Emblikoje."
+  citata_rodoma: |
+    Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
+    karšto klimato medis Phyllantus Emblica būtų atsidū-
+    ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
+    ,,De fructibus et seminibus plantarum", kad įsitikintume,
+    jog minėtas vaisius neišaugo jokioje Emblikoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -219,7 +224,15 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
     ,,De fructibus et seminibus plantarum", kad įsitikintume,
     jog minėtas vaisius neišaugo jokioje Emblikoje.
-  citata_rodoma: "Iš tikrųjų įžymus botanikas Sprengelis iš Halės,\nremdamasis vaisiaus išvaizda, parašė man savo- nuomo-\nnę: jis priskyrė gintarą prie Phyllantus Emblica, be to,\npridūrė: „Aš galiu klysti. Senovės pasaulis paliko mums\nžemėje ir akmens anglyse augalų, kurių archetipų vos\nbegalima pastebėti. Tad visiškai gali būti, jog šis prūsų\nvaisius susijęs su viena palme, kai netoli Paryžiaus ir\nKolonijos buvo rasta įvairių palmių vaisių“."
+  citata_rodoma: |
+    Iš tikrųjų įžymus botanikas Sprengelis iš Halės,
+    remdamasis vaisiaus išvaizda, parašė man savo- nuomo-
+    nę: jis priskyrė gintarą prie Phyllantus Emblica, be to,
+    pridūrė: „Aš galiu klysti. Senovės pasaulis paliko mums
+    žemėje ir akmens anglyse augalų, kurių archetipų vos
+    begalima pastebėti. Tad visiškai gali būti, jog šis prūsų
+    vaisius susijęs su viena palme, kai netoli Paryžiaus ir
+    Kolonijos buvo rasta įvairių palmių vaisių“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

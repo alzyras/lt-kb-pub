@@ -59,7 +59,11 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
     Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lie-
     tuvių pozicijų prijojo lenkų parlamentaras. Susitikimą aprašo viršila Antanas Šukys.
     „Rytą, apie dešimtą valandą, sargybinis pastebėjo atjojantį lenkų raitelį.
-  citata_rodoma: "DVIEJŲ KAPITONŲ PASIKALBĖJIMAS\n\nPo nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lie-\ntuvių pozicijų prijojo lenkų parlamentaras. Susitikimą aprašo viršila Antanas Šukys."
+  citata_rodoma: |
+    DVIEJŲ KAPITONŲ PASIKALBĖJIMAS
+
+    Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lie-
+    tuvių pozicijų prijojo lenkų parlamentaras. Susitikimą aprašo viršila Antanas Šukys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

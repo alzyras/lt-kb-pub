@@ -124,7 +124,8 @@ Nenurodyta
     jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,
     kurstomosios literatūros. 126 asmenys patraukti teisminėn atsakomybėn,
     o liepos 13 dieną nacių organizacijos uždraustos.
-  citata_rodoma: "kurstomosios literatūros. 126 asmenys patraukti teisminėn atsakomybėn,"
+  citata_rodoma: |
+    kurstomosios literatūros. 126 asmenys patraukti teisminėn atsakomybėn,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +149,14 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     180
     ženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą.
-  citata_rodoma: "Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priim-\ntas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, \nkurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius\n\nL I E T U V O S  I S T O R I J A\n180\nženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą."
+  citata_rodoma: |
+    Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priim-
+    tas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos,
+    kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius
+
+    L I E T U V O S  I S T O R I J A
+    180
+    ženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

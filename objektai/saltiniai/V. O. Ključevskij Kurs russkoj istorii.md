@@ -68,7 +68,10 @@ Ključevskij : Kurs russkoj istorii, I, Maskva 1956, 30-45 p.
     Upių krantai patarnaudavo ir gynybai, kai aukštuose skar-
 
     (^2) **V. O. Ključevskij :** **_Kurs russkoj istorii,_** **I, Maskva 1956, 30-45 p.**
-  citata_rodoma: "Upių krantai patarnaudavo ir gynybai, kai aukštuose skar-\n\n(^2) **V. O. Ključevskij :** **_Kurs russkoj istorii,_** **I, Maskva 1956, 30-45 p."
+  citata_rodoma: |
+    Upių krantai patarnaudavo ir gynybai, kai aukštuose skar-
+
+    (^2) **V. O. Ključevskij :** **_Kurs russkoj istorii,_** **I, Maskva 1956, 30-45 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

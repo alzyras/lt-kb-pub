@@ -1170,7 +1170,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
     Iš tų dviejų žygių trūksta smulkesnių versmių.
-  citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.\nIš tų dviejų žygių trūksta smulkesnių versmių."
+  citata_rodoma: |
+    Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+    Iš tų dviejų žygių trūksta smulkesnių versmių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1189,7 +1192,11 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
     Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
     sodino iš pirmųjų vedybų savo sūnus.
-  citata_rodoma: "Po kietų kovų su\nLenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.\nRytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­\nsodino iš pirmųjų vedybų savo sūnus."
+  citata_rodoma: |
+    Po kietų kovų su
+    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
+    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
+    sodino iš pirmųjų vedybų savo sūnus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1205,7 +1212,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
-  citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22."
+  citata_rodoma: |
+    Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1221,7 +1230,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
     Iš tų dviejų žygių trūksta smulkesnių versmių.
-  citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.\nIš tų dviejų žygių trūksta smulkesnių versmių."
+  citata_rodoma: |
+    Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+    Iš tų dviejų žygių trūksta smulkesnių versmių.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1288,7 +1300,27 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     tissimo, in Memoriam Celekerrimi Triumpki, quem in Loco
     illo ex Prutkenis et Livonikus Retulerat edificatam, et kones-
     tis Reditikus dotatam.
-  citata_rodoma: "Šiuo raštu skelbiame visiems, \nkam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­\nnas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­\nnyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, \nžinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų \nir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­\nminimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro \nyra prarasta privilegija jos fundacijai ir pastatymui,'mes,\n--- • ----\n241\n\n## Puslapis 258\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nErectionis Suae, kujus Ecclesiae incendio esse perditum, Me­\nmores Olim Eam ak illustrissimo Olim Principe Domino Si­\ngismundo Magno Duce Litkvaniae Patruo Nostro desidera­\ntissimo, in Memoriam Celekerrimi Triumpki, quem in Loco \nillo ex Prutkenis et Livonikus Retulerat edificatam, et kones- \ntis Reditikus dotatam."
+  citata_rodoma: |
+    Šiuo raštu skelbiame visiems,
+    kam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­
+    nas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­
+    nyčios, pastatytos šventos ir nedalomos Trejybės garbei ir,
+    žinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų
+    ir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­
+    minimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro
+    yra prarasta privilegija jos fundacijai ir pastatymui,'mes,
+    --- • ----
+    241
+
+    ## Puslapis 258
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Erectionis Suae, kujus Ecclesiae incendio esse perditum, Me­
+    mores Olim Eam ak illustrissimo Olim Principe Domino Si­
+    gismundo Magno Duce Litkvaniae Patruo Nostro desidera­
+    tissimo, in Memoriam Celekerrimi Triumpki, quem in Loco
+    illo ex Prutkenis et Livonikus Retulerat edificatam, et kones-
+    tis Reditikus dotatam.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1316,7 +1348,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
     įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
     ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
-  citata_rodoma: "Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su \nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo \nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime \ntaip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio \npasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-\nčiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-\nnijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai."
+  citata_rodoma: |
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1394,7 +1434,19 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
     čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
     nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
-  citata_rodoma: "Kadangi ryškėjo Lenkijos, o ne Lie-\n\n1 skyrius •  S E N O J I  L I E T U VA\n51\ntuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo \nsvarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo \nprojektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo \ngalima išspręsti svarbesnių regiono klausimų. \nLietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su \nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo \nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d."
+  citata_rodoma: |
+    Kadangi ryškėjo Lenkijos, o ne Lie-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    51
+    tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
+    svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
+    projektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo
+    galima išspręsti svarbesnių regiono klausimų.
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -1445,7 +1497,20 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  citata_rodoma: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1465,7 +1530,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
     tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
-  citata_rodoma: "Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a."
+  citata_rodoma: |
+    Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1495,7 +1563,17 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
     lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
     nigaikštis.
-  citata_rodoma: "## Puslapis 210\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nV\nPRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS\nKUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ\nVIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O\nŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,\nPIRMADIENI, PRIEŠ TRIS KARALIUS\nViešpaties vardu Amen."
+  citata_rodoma: |
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1525,7 +1603,23 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
     PIRMADIENI, PRIEŠ TRIS KARALIUS
     Viešpaties vardu Amen.
-  citata_rodoma: "Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­\ndinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek- \ntorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, \nbaigė dievobaimingo gyvenimo dienas Romoje, 1600 me­\ntais.\n\n## Puslapis 210\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nV\nPRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS \nKUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ \nVIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O \nŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, \nPIRMADIENI, PRIEŠ TRIS KARALIUS\nViešpaties vardu Amen."
+  citata_rodoma: |
+    Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
+    dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek-
+    torius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas,
+    baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­
+    tais.
+
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1633,7 +1727,21 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
     kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
     nas iš Tarnovo, Krokuvos vaivada.
-  citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir\nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos\npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams."
+  citata_rodoma: |
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1663,7 +1771,16 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     kariai, kaip rusų kunigaikštis Senka, jis pasitraukė į Luc­
     ką, nenorėdamas stoti su visomis jėgomis į žūtbūtines
     kautynes.
-  citata_rodoma: "Karo audra pamažėle artėjo prie\nLucko, nes niekas nedrįso su ginklu rankose užstoti Bo­\nleslovo. Lenkams beliko persikelti per Styrės upę, per\ntyvuliuojančias pelkes tekančią tarp aukštų krantų dum­\nbluota vaga. Luckas rodėsi ranka pasiekiamas, čia tu­\nrėjo baigtis karas, vis dėto, priešui neseniai sugriovus\ntiltus ir perkėlus į kitą krantą statybinę medžiagą, tinka­\nmą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti\nį kovą ir kaip nusigaus į kitą krantą."
+  citata_rodoma: |
+    Karo audra pamažėle artėjo prie
+    Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo­
+    leslovo. Lenkams beliko persikelti per Styrės upę, per
+    tyvuliuojančias pelkes tekančią tarp aukštų krantų dum­
+    bluota vaga. Luckas rodėsi ranka pasiekiamas, čia tu­
+    rėjo baigtis karas, vis dėto, priešui neseniai sugriovus
+    tiltus ir perkėlus į kitą krantą statybinę medžiagą, tinka­
+    mą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti
+    į kovą ir kaip nusigaus į kitą krantą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1788,7 +1905,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
     tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
-  citata_rodoma: "Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a."
+  citata_rodoma: |
+    Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1807,7 +1927,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
-  citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
+  citata_rodoma: |
+    Dar
+    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
+    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
+    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
+    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
+    prieš jo pretenzijas į Lucką^1 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -1838,7 +1964,19 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
     čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
     nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
-  citata_rodoma: "Kadangi ryškėjo Lenkijos, o ne Lie-\n\n1 skyrius •  S E N O J I  L I E T U VA\n51\ntuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo \nsvarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo \nprojektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo \ngalima išspręsti svarbesnių regiono klausimų. \nLietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su \nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo \nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d."
+  citata_rodoma: |
+    Kadangi ryškėjo Lenkijos, o ne Lie-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    51
+    tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
+    svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
+    projektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo
+    galima išspręsti svarbesnių regiono klausimų.
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1883,7 +2021,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
     įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
     ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
-  citata_rodoma: "Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su \nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo \nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime \ntaip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio \npasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-\nčiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-\nnijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai."
+  citata_rodoma: |
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1902,7 +2048,11 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar
     pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
     tų pačių metų bal. mėn.
-  citata_rodoma: "Jogaila dovanojo Vytautui ir jo\nšalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­\nką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar\npridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t."
+  citata_rodoma: |
+    Jogaila dovanojo Vytautui ir jo
+    šalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­
+    ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar
+    pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -1960,7 +2110,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     mu užėmė ano valdos sostinę Gardiną ir šiaip taip
     patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis.
-  citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
+  citata_rodoma: |
+    Pats tuo metu už­
+    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
+    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
+    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
+    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
+    Vilniaus diecezijos senųjų turto do- Vilnensis.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2068,7 +2224,27 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     tissimo, in Memoriam Celekerrimi Triumpki, quem in Loco
     illo ex Prutkenis et Livonikus Retulerat edificatam, et kones-
     tis Reditikus dotatam.
-  citata_rodoma: "Šiuo raštu skelbiame visiems, \nkam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­\nnas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­\nnyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, \nžinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų \nir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­\nminimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro \nyra prarasta privilegija jos fundacijai ir pastatymui,'mes,\n--- • ----\n241\n\n## Puslapis 258\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nErectionis Suae, kujus Ecclesiae incendio esse perditum, Me­\nmores Olim Eam ak illustrissimo Olim Principe Domino Si­\ngismundo Magno Duce Litkvaniae Patruo Nostro desidera­\ntissimo, in Memoriam Celekerrimi Triumpki, quem in Loco \nillo ex Prutkenis et Livonikus Retulerat edificatam, et kones- \ntis Reditikus dotatam."
+  citata_rodoma: |
+    Šiuo raštu skelbiame visiems,
+    kam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­
+    nas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­
+    nyčios, pastatytos šventos ir nedalomos Trejybės garbei ir,
+    žinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų
+    ir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­
+    minimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro
+    yra prarasta privilegija jos fundacijai ir pastatymui,'mes,
+    --- • ----
+    241
+
+    ## Puslapis 258
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Erectionis Suae, kujus Ecclesiae incendio esse perditum, Me­
+    mores Olim Eam ak illustrissimo Olim Principe Domino Si­
+    gismundo Magno Duce Litkvaniae Patruo Nostro desidera­
+    tissimo, in Memoriam Celekerrimi Triumpki, quem in Loco
+    illo ex Prutkenis et Livonikus Retulerat edificatam, et kones-
+    tis Reditikus dotatam.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2111,7 +2287,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     šituo nepasitenkinimu ir pasidarė tautiškosios Lietuvos politikos
     vadu. Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir
     nuo jo nukentėjusieji kunigaikščiai ir bajorai.
-  citata_rodoma: "Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir\nnuo jo nukentėjusieji kunigaikščiai ir bajorai."
+  citata_rodoma: |
+    Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir
+    nuo jo nukentėjusieji kunigaikščiai ir bajorai.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2137,7 +2315,20 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  citata_rodoma: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2154,7 +2345,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  citata_rodoma: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2193,7 +2387,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
-  citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
+  citata_rodoma: |
+    Dar
+    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
+    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
+    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
+    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
+    prieš jo pretenzijas į Lucką^1 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2233,7 +2433,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
     rovą l9, o Treniota — Naugarduką, ir valdė tuos mies­
     tus daugelį metų !0.
-  citata_rodoma: "Šiapus Jieseldos5  upės \nkunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­\nko kunigaikštį bei visą rusų karo jėgą6 . Tiktai kuni­\ngaikštis Mstislavas su nedidele palyda spėjo pabėgti \nį Lucko miestą. O didysis kunigaikštis Skirmantas už­\nėmė Pinsko miestą7  ir Turovo miestą\"."
+  citata_rodoma: |
+    Šiapus Jieseldos5  upės
+    kunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­
+    ko kunigaikštį bei visą rusų karo jėgą6 . Tiktai kuni­
+    gaikštis Mstislavas su nedidele palyda spėjo pabėgti
+    į Lucko miestą. O didysis kunigaikštis Skirmantas už­
+    ėmė Pinsko miestą7  ir Turovo miestą".
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2280,7 +2486,17 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
     lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
     nigaikštis.
-  citata_rodoma: "## Puslapis 210\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nV\nPRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS\nKUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ\nVIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O\nŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,\nPIRMADIENI, PRIEŠ TRIS KARALIUS\nViešpaties vardu Amen."
+  citata_rodoma: |
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 

@@ -76,7 +76,9 @@ Pašaipi formulė, kuria gėdinamas bijantis aušros.
     vargdieniams, kad laimės tiek pat suvokia ir vienas ir kitas.
     Del to
     paties sakoma: „Nėr to blogo, kad ant gera neišeitų“ .
-  citata_rodoma: "„jau aušti“ Tada didieji, jį sulaikydami, sako: „Ar tu apsivogei, kad\ndienos bijai?“"
+  citata_rodoma: |
+    „jau aušti“ Tada didieji, jį sulaikydami, sako: „Ar tu apsivogei, kad
+    dienos bijai?“
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas

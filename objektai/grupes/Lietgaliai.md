@@ -101,7 +101,10 @@ media_all_json: |-
     priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
     drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
     dalis jų yra žinoma ir vardais.
-  citata_rodoma: "Tokiu atskirų sričių kunigų istorijos\npriešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant\ndrauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž."
+  citata_rodoma: |
+    Tokiu atskirų sričių kunigų istorijos
+    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
+    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

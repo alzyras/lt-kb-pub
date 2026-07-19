@@ -51,7 +51,11 @@ b) Voskresensk.
     golišče bo Vitovt: pojdiem i pobiedim caria Temir Kutluja, wziem carstvo
     jego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na
     Vielikom kniaženii, na vsiej ruskoj ziemli" ...
-  citata_rodoma: "b) Voskresensk. lietopis (Pol. sobr. VIII, 72 p.), „Pochvalivsia, gla-\ngolišče bo Vitovt: pojdiem i pobiedim caria Temir Kutluja, wziem carstvo\njego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na\nVielikom kniaženii, na vsiej ruskoj ziemli\" ..."
+  citata_rodoma: |
+    b) Voskresensk. lietopis (Pol. sobr. VIII, 72 p.), „Pochvalivsia, gla-
+    golišče bo Vitovt: pojdiem i pobiedim caria Temir Kutluja, wziem carstvo
+    jego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na
+    Vielikom kniaženii, na vsiej ruskoj ziemli" ...
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

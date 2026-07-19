@@ -199,7 +199,10 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     B. Dundulis 108. R. Batūra rašė : _XIII a. Lietuvos sostinės
     klausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su
     totoriais^109.
-  citata_rodoma: "R. Batūra rašė : _XIII a. Lietuvos sostinės\nklausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su\ntotoriais^109."
+  citata_rodoma: |
+    R. Batūra rašė : _XIII a. Lietuvos sostinės
+    klausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su
+    totoriais^109.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -220,7 +223,14 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
     būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
     apreikšti dievo darbus yra šlovinga.
-  citata_rodoma: "ROMAS BATŪRA\n\n\n\n\n\nмеждународный конгресс."
+  citata_rodoma: |
+    ROMAS BATŪRA
+
+
+
+
+
+    международный конгресс.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -275,7 +285,16 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     ir griebtis įvairiausių gudrybių, trokšdamas paslapčiomis suleisti savo nuodingą geluonį,
     sutrypti viešpaties vynuogyną ir viešpaties lauke prisėti raugių. Galop štai šiuo būdu jis
     sukėlė žiauriausią tikėjimo ir tikinčiųjų persekiojimą.
-  citata_rodoma: "Apie Sventopelko karą su Teutonų ordino broliais\n 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo\n                                          plitimo\n\n\n  262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino\nkalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;\nLietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.\n158—159; Batūra R., Šiaulių.., p. 22—24)."
+  citata_rodoma: |
+    Apie Sventopelko karą su Teutonų ordino broliais
+     1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo
+                                              plitimo
+
+
+      262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino
+    kalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;
+    Lietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.
+    158—159; Batūra R., Šiaulių.., p. 22—24).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -299,7 +318,13 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: "Minėtieji Numa ir\n  520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos\nvalstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее\nГродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.\n105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;\nto paties, Абарончыя..., c. 52—55."
+  citata_rodoma: |
+    Minėtieji Numa ir
+      520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
+    valstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее
+    Гродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.
+    105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;
+    to paties, Абарончыя..., c. 52—55.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

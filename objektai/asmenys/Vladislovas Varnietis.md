@@ -206,7 +206,16 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
     pakrantėje. Man pavyko rasti ir monetą su įrašytu pava­
     dinimu Jūrijos, arba šio krašto, kurio aprašymas buvo
     šio veikalo pirmame tome (p. 194).
-  citata_rodoma: "Vėliau panašus pavadinimas buvo suteiktas ir Lietu­\nvos upei, kuri ligi šiol vadinasi Jūra ir prie kurios turėjo\nbūti seniausia šios genties gyvenamoji vieta; ji praside­\nda Raseinių apskrityje, prie Štreitlaukių kaimo, įteka iš\ndešinės į Nemuną. Netoli šios sruveno kita upė, seniau\nvadinama Mažąja Jūra, arba Jūrele, o šiandien — Mitu-\nva. Ji šitaip pavadinta todėl, kad nuo Lenkijos kara­\nliaus Vladislovo Varniečio laikų, kaip sako vietos pada­\nvimai, prie jos kranto buvo įrengta muitinė (Myto)."
+  citata_rodoma: |
+    Vėliau panašus pavadinimas buvo suteiktas ir Lietu­
+    vos upei, kuri ligi šiol vadinasi Jūra ir prie kurios turėjo
+    būti seniausia šios genties gyvenamoji vieta; ji praside­
+    da Raseinių apskrityje, prie Štreitlaukių kaimo, įteka iš
+    dešinės į Nemuną. Netoli šios sruveno kita upė, seniau
+    vadinama Mažąja Jūra, arba Jūrele, o šiandien — Mitu-
+    va. Ji šitaip pavadinta todėl, kad nuo Lenkijos kara­
+    liaus Vladislovo Varniečio laikų, kaip sako vietos pada­
+    vimai, prie jos kranto buvo įrengta muitinė (Myto).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

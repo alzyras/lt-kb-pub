@@ -81,8 +81,10 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas
-        kurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais.
-  citata_rodoma: "lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas\nkurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais."
+    kurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais.
+  citata_rodoma: |
+    lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas
+    kurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

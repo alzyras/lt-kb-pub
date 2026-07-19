@@ -87,7 +87,17 @@ Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė T
     miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
     gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
     tus.
-  citata_rodoma: "Kryžiuočiai, vedami Sembos fogto, savo ruož­\ntu, negalėdami pasivyti traukiančio namo Kęstučio, nu­\nsiaubė Ariogalos žemes. Kai Algirdas bei Aleksandras\nKarijotaitis su keliomis žygio voromis padalyta kariuo­\nmene iš karto nuniokojo daugelį Prūsijos vietų ir, su­\ngriovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų\nmiestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­\ngistras irgi sėkmingai nusiaubė didelius Lietuvos plo­\ntus. Šitaip praėjo ir kiti metai, pakaitomis vieniems\nkitus puldinėjant."
+  citata_rodoma: |
+    Kryžiuočiai, vedami Sembos fogto, savo ruož­
+    tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
+    siaubė Ariogalos žemes. Kai Algirdas bei Aleksandras
+    Karijotaitis su keliomis žygio voromis padalyta kariuo­
+    mene iš karto nuniokojo daugelį Prūsijos vietų ir, su­
+    griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų
+    miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
+    gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
+    tus. Šitaip praėjo ir kiti metai, pakaitomis vieniems
+    kitus puldinėjant.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

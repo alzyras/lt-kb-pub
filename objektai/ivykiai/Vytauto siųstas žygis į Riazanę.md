@@ -161,7 +161,12 @@ Nenurodyta
     gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
     nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
     auksiniais indais ir bachmatais ls.
-  citata_rodoma: "Didysis kunigaikštis Vytautas prieš Ria- \nzanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną \nLengvenį su didele kariuomene ir su Smolensko pajė­\ngomis; tie parsivarė daugybę belaisvių riazaniečių ir \nsu dideliu grobiu sugrįžo pas Vytautą (1396)1 3 ."
+  citata_rodoma: |
+    Didysis kunigaikštis Vytautas prieš Ria-
+    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
+    Lengvenį su didele kariuomene ir su Smolensko pajė­
+    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
+    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

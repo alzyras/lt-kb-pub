@@ -89,7 +89,14 @@ Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, s
     buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
     kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
     po to keliavo toliau per alanų kraštą.
-  citata_rodoma: "Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­\ntinių kašubų protėviai. Neabejotina, kad ji susiliejo su\nkažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­\nkūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­\ngų bruožų. Visiškai nežinome, ar ši suslavėjusi gentis\nbuvo tyrinėjama, bet darome išvadas, kad kašubų pro­\ntėviai nebuvo skitai."
+  citata_rodoma: |
+    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
+    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
+    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
+    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
+    gų bruožų. Visiškai nežinome, ar ši suslavėjusi gentis
+    buvo tyrinėjama, bet darome išvadas, kad kašubų pro­
+    tėviai nebuvo skitai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

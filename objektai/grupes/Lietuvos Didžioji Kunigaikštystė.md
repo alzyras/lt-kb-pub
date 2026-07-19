@@ -386,7 +386,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
     Lietuvos kariuomenių struktūrą:
-  citata_rodoma: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-\ntoratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m."
+  citata_rodoma: |
+    1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
+    toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
+    didesnė dalis Livonijos tapo Lietuvos dalimi
+
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -513,7 +518,19 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
     rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
     atvykti.
-  citata_rodoma: "Kaip neišma­\ntuojama dangaus aukštybė ir jūros gilybė, taip neap­\nsakoma ir to šlovingojo valdovo galybė ir narsumas.\nEsant šiam Vytautui didžiuoju kunigaikščiu ir val­\ndant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį \nkitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­\nmė, bet ir Vengrų žemės valdovas, vadinamas Romos \nim peratorium igyveno su juo didelėje meilėje.\nKartą šis šlovingasis valdovas, būdamas savo pilyje, \nDidžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­\nrų karalių, vadinamą Romos imperatoriumi, ir liepė jam \natvykti."
+  citata_rodoma: |
+    Kaip neišma­
+    tuojama dangaus aukštybė ir jūros gilybė, taip neap­
+    sakoma ir to šlovingojo valdovo galybė ir narsumas.
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    im peratorium igyveno su juo didelėje meilėje.
+    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
+    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
+    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
+    atvykti.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -592,7 +609,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
     Lietuvos kariuomenių struktūrą:
-  citata_rodoma: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-\ntoratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m."
+  citata_rodoma: |
+    1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
+    toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
+    didesnė dalis Livonijos tapo Lietuvos dalimi
+
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -644,7 +666,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     lietuvių mitologija prilygsta graikų, todėl yra klasikinė. Lietu­
     viškų dievybių panteonas visiškai atitinka tiek indų, tiek grai­
     kų dieviškąjį pasaulį.
-  citata_rodoma: "Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai\nvertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo\nklaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI\nnuvertinimo priežastis -  istoriko politinės simpatijos LDK ir\nlietuvių tautai."
+  citata_rodoma: |
+    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
+    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
+    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
+    nuvertinimo priežastis -  istoriko politinės simpatijos LDK ir
+    lietuvių tautai.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -684,7 +711,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
     traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
     Vakarų kraštu.
-  citata_rodoma: "1840 m. panaikintas \nLietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas \niš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos \ntraktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės \nVakarų kraštu."
+  citata_rodoma: |
+    1840 m. panaikintas
+    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
+    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
+    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
+    Vakarų kraštu.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -719,7 +751,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     kunigaikštis (1386—1392 ir 1401— 1404). Vytautui galutinai prijun­
     gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
     į Didįjį Naugardų.
-  citata_rodoma: "1).\n'* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko \nkunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­\ngus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė \nį Didįjį Naugardų."
+  citata_rodoma: |
+    1).
+    '* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko
+    kunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­
+    gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
+    į Didįjį Naugardų.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas

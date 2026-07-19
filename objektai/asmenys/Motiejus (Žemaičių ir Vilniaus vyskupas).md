@@ -183,7 +183,12 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     skutinį patepimą. Paklaustas vyskupo apie tikybos tie­
     sas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių
     atsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs.
-  citata_rodoma: "Kelis kartus Vytautas išpažino savo nuodė­\nmes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­\nskutinį patepimą. Paklaustas vyskupo apie tikybos tie­\nsas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių\natsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs."
+  citata_rodoma: |
+    Kelis kartus Vytautas išpažino savo nuodė­
+    mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­
+    skutinį patepimą. Paklaustas vyskupo apie tikybos tie­
+    sas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių
+    atsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

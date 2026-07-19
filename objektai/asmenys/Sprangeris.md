@@ -67,7 +67,19 @@ Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo u�
 
     Puolimo eiga . a ;
     raudonosios armijos kario
-  citata_rodoma: "Be šių pajėgų, saksų karin.\nSprangerio vadovaujamas\ndalinys, veikiantis\npagal atskirą įsa-\nkymą, turėjo užimti\nŠimonių- Kupiškio liniją\nir apsaugoti Ukmergės\nrinktinės kairįjį sparną.\n\nDarbininkų ir valstiečių\n\nPuolimo eiga ."
+  citata_rodoma: |
+    Be šių pajėgų, saksų karin.
+    Sprangerio vadovaujamas
+    dalinys, veikiantis
+    pagal atskirą įsa-
+    kymą, turėjo užimti
+    Šimonių- Kupiškio liniją
+    ir apsaugoti Ukmergės
+    rinktinės kairįjį sparną.
+
+    Darbininkų ir valstiečių
+
+    Puolimo eiga .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

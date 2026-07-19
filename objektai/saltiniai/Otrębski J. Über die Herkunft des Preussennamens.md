@@ -79,7 +79,9 @@ Dusburgietis teigia, kad otrębski J.
     Memel, 1926.
     Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
     Porębska przy współpracy M Grzegorza; Pod.
-  citata_rodoma: "Otrębski J. Über die Herkunft des Preussennamens.— Lingua Posnaniensis, Poznań,\n1955, t. 5, s. 76—78."
+  citata_rodoma: |
+    Otrębski J. Über die Herkunft des Preussennamens.— Lingua Posnaniensis, Poznań,
+    1955, t. 5, s. 76—78.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

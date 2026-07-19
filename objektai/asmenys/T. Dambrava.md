@@ -116,7 +116,12 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     sudavė tokį stiprų smūgį, kad švedų ka-
     valerija buvo nublokšta tiesiai ant savųjų
     pėstininkų ir juos pradėjo trypti.
-  citata_rodoma: "Rotmistro\n\"T. Dambravos vadovaujama viena rei-\ntarų vėliava prajojo Dauguvos pakrante ir\natsidūrė generolo E J. Mansfeldo kavale-\nrijos dešiniajame sparne."
+  citata_rodoma: |
+    Rotmistro
+    "T. Dambravos vadovaujama viena rei-
+    tarų vėliava prajojo Dauguvos pakrante ir
+    atsidūrė generolo E J. Mansfeldo kavale-
+    rijos dešiniajame sparne.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +141,12 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     tas kunigaikštis Fridrichas Liuneburgietis.
     Žuvo centro pėstininkams vadovavęs ge-
     nerolas Andrius Lennartssonas.
-  citata_rodoma: "Teigiama, kad mūšio metu nuo rotmistro\nT. Dambravos kirčio žuvo karaliaus žen-\ntas kunigaikštis Fridrichas Liuneburgietis.\nŽuvo centro pėstininkams vadovavęs ge-\nnerolas Andrius Lennartssonas."
+  citata_rodoma: |
+    Teigiama, kad mūšio metu nuo rotmistro
+    T. Dambravos kirčio žuvo karaliaus žen-
+    tas kunigaikštis Fridrichas Liuneburgietis.
+    Žuvo centro pėstininkams vadovavęs ge-
+    nerolas Andrius Lennartssonas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

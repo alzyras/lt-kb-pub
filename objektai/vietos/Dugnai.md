@@ -79,7 +79,15 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
     Lazdona (Lazdona)
     Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi
     vien tik lazdynus.
-  citata_rodoma: "Nebent pripažintume,\njog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią\nnimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją\nįeina vanduo.\nYra vietų šlapiose pievose, kadaise užlietose vandeniu, pa­\nnašiai kaip Dugnai (Dugny) mano kaimelyje. Kaimiečiai iki\nšiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­\nčios, nuogos mergos."
+  citata_rodoma: |
+    Nebent pripažintume,
+    jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią
+    nimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją
+    įeina vanduo.
+    Yra vietų šlapiose pievose, kadaise užlietose vandeniu, pa­
+    našiai kaip Dugnai (Dugny) mano kaimelyje. Kaimiečiai iki
+    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
+    čios, nuogos mergos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

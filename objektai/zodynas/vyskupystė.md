@@ -65,7 +65,15 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
     mergėje, Maišiogaloje, Ne-
     menčine, Medininkuose, Krė-
     voje, Obalčiuose ir Ainoje).
-  citata_rodoma: "Todėl tuojau\npo krikšto Jogaila įkūrė Vil-\nniaus vyskupystę, pastatė ka-\ntedrą ir dar 7 pirmąsias para-\npijines bažnyčias krašte (Uk-\nmergėje, Maišiogaloje, Ne-\nmenčine, Medininkuose, Krė-\nvoje, Obalčiuose ir Ainoje)."
+  citata_rodoma: |
+    Todėl tuojau
+    po krikšto Jogaila įkūrė Vil-
+    niaus vyskupystę, pastatė ka-
+    tedrą ir dar 7 pirmąsias para-
+    pijines bažnyčias krašte (Uk-
+    mergėje, Maišiogaloje, Ne-
+    menčine, Medininkuose, Krė-
+    voje, Obalčiuose ir Ainoje).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

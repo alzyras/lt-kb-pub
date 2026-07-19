@@ -156,7 +156,11 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
     antifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą
     „Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai
     mergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.
-  citata_rodoma: "kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų\npėdsakų) galėjo būti anksčiau statyta pilaitė. Kreiviai (anksčiau vadinti Kryvos vardu\n— Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.\npaaiškinimus D. III, 5, 1)."
+  citata_rodoma: |
+    kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų
+    pėdsakų) galėjo būti anksčiau statyta pilaitė. Kreiviai (anksčiau vadinti Kryvos vardu
+    — Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.
+    paaiškinimus D. III, 5, 1).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -75,7 +75,12 @@ Nenurodyta
       Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš
     dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai
     jautė medaus kvapą (Ptol. loc. cit.; Mart. loc. cit.).
-  citata_rodoma: "Apie saldžią rasą, užkritusią pasėlius\n\n  Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš\ndangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai\njautė medaus kvapą (Ptol. loc. cit.; Mart. loc. cit.)."
+  citata_rodoma: |
+    Apie saldžią rasą, užkritusią pasėlius
+
+      Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš
+    dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai
+    jautė medaus kvapą (Ptol. loc. cit.; Mart. loc. cit.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -74,7 +74,13 @@ Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­ dena sėkmi
     Alna (1231-1234 m.) jau nebepajėgė Livonijoje įkurti bažnytinės
     valstybės, nes kalavijuočiai, nors formaliai ir priklausė Rygos vys­
     kupui, ginklu priešinosi.
-  citata_rodoma: "Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­\ndena sėkmingai neišnarpliojo susipainiojusių ordino, vyskupo ir au­\ngančio Rygos miesto reikalų (1225 m.), vicelegatas Baldninas de\nAlna (1231-1234 m.) jau nebepajėgė Livonijoje įkurti bažnytinės\nvalstybės, nes kalavijuočiai, nors formaliai ir priklausė Rygos vys­\nkupui, ginklu priešinosi."
+  citata_rodoma: |
+    Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­
+    dena sėkmingai neišnarpliojo susipainiojusių ordino, vyskupo ir au­
+    gančio Rygos miesto reikalų (1225 m.), vicelegatas Baldninas de
+    Alna (1231-1234 m.) jau nebepajėgė Livonijoje įkurti bažnytinės
+    valstybės, nes kalavijuočiai, nors formaliai ir priklausė Rygos vys­
+    kupui, ginklu priešinosi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

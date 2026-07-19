@@ -275,7 +275,23 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
     paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar­
     no Papakodos suktybių paskutinioji velionės valia
     buvo neįvykdyta, o visas turtas vėjais paleistas.
-  citata_rodoma: "Karalius, nutaręs ginklu atsikeršyti už skriau­\ndas, pakvietė į karo sąjungininkus Švedijos karalių. \nKadangi švedų valdovas atsisakė siūlomos sąjungos, \nbūgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­\nros, Augustas laiškais stengėsi sutaikyti švedus bei \nmaskvėnus.\nPo ilgų ir karštų ginčų tais pačiais metais leista\nkaralienei Bonai, negailėju- \nK a ra lic n ė \nB ona \niš- \nšiai dovanų Lenkijos didi- \nv y k s ta į Ita liją \nkams, išvykti į Italiją su vi­\nsomis brangenybėmis ir vi­\nsais valdovės turtais."
+  citata_rodoma: |
+    Karalius, nutaręs ginklu atsikeršyti už skriau­
+    das, pakvietė į karo sąjungininkus Švedijos karalių.
+    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
+    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
+    ros, Augustas laiškais stengėsi sutaikyti švedus bei
+    maskvėnus.
+    Po ilgų ir karštų ginčų tais pačiais metais leista
+    karalienei Bonai, negailėju-
+    K a ra lic n ė
+    B ona
+    iš-
+    šiai dovanų Lenkijos didi-
+    v y k s ta į Ita liją
+    kams, išvykti į Italiją su vi­
+    somis brangenybėmis ir vi­
+    sais valdovės turtais.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

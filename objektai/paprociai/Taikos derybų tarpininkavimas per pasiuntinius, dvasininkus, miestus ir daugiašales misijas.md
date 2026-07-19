@@ -114,7 +114,22 @@ Nenurodyta
     tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
     tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
     sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv.
-  citata_rodoma: "Mat \natvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui \napie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad \nteiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­\nnančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant \nvaldovo sumanymą. Atvykę taip pat Rygos miesto pasiun­\ntiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­\nterių, vyskupų ir Livonijos miestų tarpininkauti sudarant \ntaiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų, \nrašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas \njį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­\nimta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­\ntį, ištisai visą abiejų besitariančių pusių priesaikomis pa­\ntvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties, \nsudarytos Vilniuje, 1323 m."
+  citata_rodoma: |
+    Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
+    sudarytos Vilniuje, 1323 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -151,7 +166,27 @@ Nenurodyta
     nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
     gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
     gal to priežastis buvo naujesnės žinios iš Prūsijos.
-  citata_rodoma: "Be išsamaus išvar­\ndijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos \nkapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties \nmiesto vyskupo, Danijos karaliaus ginkluoto būrio vado, \nVokiečių ordinom  ir Rygos miesto pusės ir be nurodymo \nžemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­\ngiau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų \nbesitariančių pusių kraštuose, apie teisišką sprendimą gin­\n* wenbrulie), Mintaujos komtūras ir\nEželis (Oeselis), dab. Saremas brolis Otto (Blanehom).\nm n\nIš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir \ntik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.\n74\n\n## Puslapis 91\n\nI  KNYGA\nčų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­\nžinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t."
+  citata_rodoma: |
+    Be išsamaus išvar­
+    dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
+    kapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties
+    miesto vyskupo, Danijos karaliaus ginkluoto būrio vado,
+    Vokiečių ordinom  ir Rygos miesto pusės ir be nurodymo
+    žemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­
+    giau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų
+    besitariančių pusių kraštuose, apie teisišką sprendimą gin­
+    * wenbrulie), Mintaujos komtūras ir
+    Eželis (Oeselis), dab. Saremas brolis Otto (Blanehom).
+    m n
+    Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
+    tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
+    74
+
+    ## Puslapis 91
+
+    I  KNYGA
+    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
+    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

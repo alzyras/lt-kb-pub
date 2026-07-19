@@ -71,7 +71,8 @@ Dusburgietis teigia, kad vanagas A.
     Л., 1963, с. 191—197.
     Мажюлис В. О связях литовско-латышского с другими древнебалтийскими
     диалектами.
-  citata_rodoma: "Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21."
+  citata_rodoma: |
+    Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

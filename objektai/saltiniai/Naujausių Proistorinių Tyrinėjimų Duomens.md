@@ -68,7 +68,9 @@ media_all_json: |-
     ne - Scientia leidykloje 1961 m. fotomechan. perspausdinti).
     PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
     Kaunas 1938 (atsp. iš Senovė, t. 4).
-  citata_rodoma: "PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,\nKaunas 1938 (atsp. iš Senovė, t. 4)."
+  citata_rodoma: |
+    PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
+    Kaunas 1938 (atsp. iš Senovė, t. 4).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

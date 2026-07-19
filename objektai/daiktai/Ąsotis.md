@@ -99,7 +99,8 @@ Nenurodyta
     Užgerk!
     Vyras pakylėjo ąsotį — ąsotis lengvas, ir vėl pastatė ant stalo
     nieko nesakęs.
-  citata_rodoma: "Vyras pakylėjo ąsotį — ąsotis lengvas, ir vėl pastatė ant stalo nieko nesakęs."
+  citata_rodoma: |
+    Vyras pakylėjo ąsotį — ąsotis lengvas, ir vėl pastatė ant stalo nieko nesakęs.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -121,7 +122,8 @@ Nenurodyta
     dalgę.
     Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir
     atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
-  citata_rodoma: "Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose."
+  citata_rodoma: |
+    Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -141,7 +143,9 @@ Nenurodyta
     iš suraitytų karnų, apvyniotų skarmaliukais ir ant viršaus kopūstla­
     piais. Nežiūrint visokeriopos atsargos, ąsočiai atvažiuoja į pievas bai­
     siai apsilaistę.
-  citata_rodoma: "Nežiūrint visokeriopos atsargos, ąsočiai atvažiuoja į pievas bai­\nsiai apsilaistę."
+  citata_rodoma: |
+    Nežiūrint visokeriopos atsargos, ąsočiai atvažiuoja į pievas bai­
+    siai apsilaistę.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -163,7 +167,9 @@ Nenurodyta
     atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
     Ąsočiai tam rei­
     kalui perkami kuodidžiausi, pas mus lauknešių nevartoja.
-  citata_rodoma: "Ąsočiai tam rei­\nkalui perkami kuodidžiausi, pas mus lauknešių nevartoja."
+  citata_rodoma: |
+    Ąsočiai tam rei­
+    kalui perkami kuodidžiausi, pas mus lauknešių nevartoja.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -185,7 +191,8 @@ Nenurodyta
     nei, sakydamas:
     — Mat, vyrui, kaip skriauda, taip skriauda, o moterims vis geriau
     išeina.
-  citata_rodoma: "Po, valandėlės vyrui po ranka trinktelėjo į stalą sunkus ąsotis, pilnas putoto alaus."
+  citata_rodoma: |
+    Po, valandėlės vyrui po ranka trinktelėjo į stalą sunkus ąsotis, pilnas putoto alaus.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
@@ -206,7 +213,9 @@ Nenurodyta
     Kamščiai ąsočiams padaryti
     iš suraitytų karnų, apvyniotų skarmaliukais ir ant viršaus kopūstla­
     piais.
-  citata_rodoma: "Kamščiai ąsočiams padaryti iš suraitytų karnų, apvyniotų skarmaliukais ir ant viršaus kopūstla­\npiais."
+  citata_rodoma: |
+    Kamščiai ąsočiams padaryti iš suraitytų karnų, apvyniotų skarmaliukais ir ant viršaus kopūstla­
+    piais.
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas

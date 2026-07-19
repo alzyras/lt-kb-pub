@@ -65,7 +65,11 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
     dėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo
     kraštuose, ir širdo, kad Vytautas buvo paskirtas globėju Livo­
     nijos vyskupijų, kurias Ordinas lenkė į savo valdžią.
-  citata_rodoma: "Livonijos Ordinas puolė dar Vytautą, pavy­\ndėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo\nkraštuose, ir širdo, kad Vytautas buvo paskirtas globėju Livo­\nnijos vyskupijų, kurias Ordinas lenkė į savo valdžią."
+  citata_rodoma: |
+    Livonijos Ordinas puolė dar Vytautą, pavy­
+    dėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo
+    kraštuose, ir širdo, kad Vytautas buvo paskirtas globėju Livo­
+    nijos vyskupijų, kurias Ordinas lenkė į savo valdžią.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -70,7 +70,9 @@ Būtėnas, P.
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: "— Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,\nnr. 8, 264-266 p."
+  citata_rodoma: |
+    — Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,
+    nr. 8, 264-266 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

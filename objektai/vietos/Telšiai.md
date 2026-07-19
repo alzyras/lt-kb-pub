@@ -68,7 +68,10 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
     prisidėję prie sukilėlių. Buvo uždaryta daugybė vienuolynų
     (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
     ir kt.).
-  citata_rodoma: "Buvo uždaryta daugybė vienuolynų\n(Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose\nir kt.)."
+  citata_rodoma: |
+    Buvo uždaryta daugybė vienuolynų
+    (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
+    ir kt.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

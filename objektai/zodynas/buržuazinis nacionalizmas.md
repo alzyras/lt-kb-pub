@@ -80,7 +80,8 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
     gyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose moky-
     klose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“
     ir „buržuazinis nacionalizmas“.
-  citata_rodoma: "klose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“"
+  citata_rodoma: |
+    klose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

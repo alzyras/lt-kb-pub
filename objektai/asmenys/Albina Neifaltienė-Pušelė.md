@@ -56,7 +56,14 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 
     Šovinys -7,62x25mm TT. Diskinė dėtuvė 71 šovinys arba
     patikimesnė 35 šovinių lenkta dėtuvė.
-  citata_rodoma: "Mūšyje narsiai kovėsi ir junginio vado\nžmona Albina Neifaltienė-Pušelė, kuri taik-\nlia rankinio kulkosvaidžio ugnimi padarė\npriešui daug nuostolių, tačiau ir pati buvo\npriešo kulkos pakirsta.\n\nŠovinys -7,62x25mm TT."
+  citata_rodoma: |
+    Mūšyje narsiai kovėsi ir junginio vado
+    žmona Albina Neifaltienė-Pušelė, kuri taik-
+    lia rankinio kulkosvaidžio ugnimi padarė
+    priešui daug nuostolių, tačiau ir pati buvo
+    priešo kulkos pakirsta.
+
+    Šovinys -7,62x25mm TT.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

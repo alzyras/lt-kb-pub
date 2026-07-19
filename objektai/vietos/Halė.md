@@ -102,7 +102,14 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
     negalėjo dovanoti antrajai moteriškei. Tas tarnas, gimęs Halėje, buvo toks padorus bei
     protingas, kad visoje Prūsijoje neturėjo sau lygaus281.
     43.
-  citata_rodoma: "Tas tarnas, gimęs Halėje, buvo toks padorus bei\nprotingas, kad visoje Prūsijoje neturėjo sau lygaus281.\n\n\n\n\n                          43."
+  citata_rodoma: |
+    Tas tarnas, gimęs Halėje, buvo toks padorus bei
+    protingas, kad visoje Prūsijoje neturėjo sau lygaus281.
+
+
+
+
+                              43.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -127,7 +134,20 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
     lėtojai lyg tyčia neskubėjo: apsikrovę didžiule manta,
     visą mėnesį žygiavo sunkiai pravažiuojamais ir pra­
     einamais keliais iki Smolensko.
-  citata_rodoma: "Karalius bei karalienė, iškilmingai Vilniuje per mišias\npadėkoję viešpačiui dievui už pergalę, pasiuntė Ro­\nmos popiežiui kaip dovaną keturiolika į nelaisvę pa­\nimtų maskvėnų — pačių žymiausiųjų didikų. Tačiau\nimperatorius Maksimilijonas netoli Halės jėga juos at­\nėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal\nį Maskvą. Be abejo, šitai jis\nIm p e ra to riu s\nM a k si-\npadarė dėl savo senos drau-\nm ili jo n a s\nišsiža d a\ngystės su Vasilijumi."
+  citata_rodoma: |
+    Karalius bei karalienė, iškilmingai Vilniuje per mišias
+    padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
+    mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
+    imtų maskvėnų — pačių žymiausiųjų didikų. Tačiau
+    imperatorius Maksimilijonas netoli Halės jėga juos at­
+    ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
+    į Maskvą. Be abejo, šitai jis
+    Im p e ra to riu s
+    M a k si-
+    padarė dėl savo senos drau-
+    m ili jo n a s
+    išsiža d a
+    gystės su Vasilijumi.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

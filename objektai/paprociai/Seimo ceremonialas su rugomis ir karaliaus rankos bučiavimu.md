@@ -100,7 +100,12 @@ Nenurodyta
     atsisveikinimu su kara-
     lium, — ir vėl visi bu-
     čiuodavo jam ranką.
-  citata_rodoma: "Pagaliau sei-\nmas būdavo baigiamas\natsisveikinimu su kara-\nlium, — ir vėl visi bu-\nčiuodavo jam ranką."
+  citata_rodoma: |
+    Pagaliau sei-
+    mas būdavo baigiamas
+    atsisveikinimu su kara-
+    lium, — ir vėl visi bu-
+    čiuodavo jam ranką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -121,7 +126,11 @@ Nenurodyta
     rankos, o po to kancleris arba vicekancleris pareikšdavo kara-
     liaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams
     praneštus svarstyti klausimus.
-  citata_rodoma: "Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui\nrankos, o po to kancleris arba vicekancleris pareikšdavo kara-\nliaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams\npraneštus svarstyti klausimus."
+  citata_rodoma: |
+    Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui
+    rankos, o po to kancleris arba vicekancleris pareikšdavo kara-
+    liaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams
+    praneštus svarstyti klausimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +147,8 @@ Nenurodyta
     ninką, vadinamą maršalka, arba direktorium. Toliau buvo
     tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo
     vadinama r u g o m i s.
-  citata_rodoma: "Toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s."
+  citata_rodoma: |
+    Toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -61,7 +61,11 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
     tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
     tas pilis^1 ).
-  citata_rodoma: "Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po\nMakro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto\nbrolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI\nprašyti pagalbos prieš Vytautą. Vak."
+  citata_rodoma: |
+    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
+    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
+    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
+    prašyti pagalbos prieš Vytautą. Vak.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

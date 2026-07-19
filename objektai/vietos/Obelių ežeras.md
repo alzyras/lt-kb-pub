@@ -84,7 +84,12 @@ Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 coli
     nelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,
     ir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­
     kas daug ką pakeitė.
-  citata_rodoma: "Ištirti mord­\nvių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­\nje prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­\ndaise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­\nnienų rinkinyje**."
+  citata_rodoma: |
+    Ištirti mord­
+    vių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­
+    je prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­
+    daise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­
+    nienų rinkinyje**.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

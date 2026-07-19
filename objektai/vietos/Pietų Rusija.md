@@ -77,7 +77,11 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
     mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai
     indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­
     liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
-  citata_rodoma: "Su tam tikru pagrindu virvelinės kera­\nmikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai\nindoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­\nliavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą."
+  citata_rodoma: |
+    Su tam tikru pagrindu virvelinės kera­
+    mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai
+    indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­
+    liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -96,7 +100,12 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
     liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
     Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
     pasirodė apie trečio tūkstantmečio pr.
-  citata_rodoma: "Jos nešėjai\nindoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­\nliavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.\nKaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie\npasirodė apie trečio tūkstantmečio pr."
+  citata_rodoma: |
+    Jos nešėjai
+    indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­
+    liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
+    Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
+    pasirodė apie trečio tūkstantmečio pr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -59,7 +59,8 @@ Vitkauskas, gen.
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: "S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų"
+  citata_rodoma: |
+    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

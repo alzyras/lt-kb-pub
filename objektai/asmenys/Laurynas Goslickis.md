@@ -96,7 +96,19 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
     Senatore", kuri buvo išversta net į
     anglų kalbą. Goslickio gyvenimą ap­
     rašė mokslininkas Ossoliński.
-  citata_rodoma: "tarp dekretų.\n60\nLaurynas Goslickis, pirmiausia ka­\nraliaus Stepono sekretorius, galiau­\nsiai Poznanės vyskupas, išgarsėjo \nypatingais sugebėjimais spręsti vie­\nšuosius reikalus bei įvairiose pasiun­\ntinybėse, bet labiausiai lotynų kalba \nparašęs puikią knygą „De optimo \nSenatore\", kuri buvo išversta net į \nanglų kalbą. Goslickio gyvenimą ap­\nrašė mokslininkas Ossoliński."
+  citata_rodoma: |
+    tarp dekretų.
+    60
+    Laurynas Goslickis, pirmiausia ka­
+    raliaus Stepono sekretorius, galiau­
+    siai Poznanės vyskupas, išgarsėjo
+    ypatingais sugebėjimais spręsti vie­
+    šuosius reikalus bei įvairiose pasiun­
+    tinybėse, bet labiausiai lotynų kalba
+    parašęs puikią knygą „De optimo
+    Senatore", kuri buvo išversta net į
+    anglų kalbą. Goslickio gyvenimą ap­
+    rašė mokslininkas Ossoliński.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -121,7 +133,16 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
     rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
     Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
     su kuriais turėjo daugiausia darbo.
-  citata_rodoma: "Būdamas arčiausiai karo židinio, Stepono Batoro laikais \nVilnius virto pagrindine kariuomenių susibūrimo vieta; la­\nbai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579 \nmetais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų \nLopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos- \nlickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­\nrių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą \nKetlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, \nsu kuriais turėjo daugiausia darbo."
+  citata_rodoma: |
+    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
+    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
+    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
+    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
+    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
+    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
+    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
+    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
+    su kuriais turėjo daugiausia darbo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

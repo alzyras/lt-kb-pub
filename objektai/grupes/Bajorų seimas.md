@@ -84,7 +84,8 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta.
-  citata_rodoma: "Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės"
+  citata_rodoma: |
+    Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

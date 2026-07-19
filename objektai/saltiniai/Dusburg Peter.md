@@ -86,7 +86,10 @@ media_all_json: |-
     nis,_ LE, t. 31, 364-369 p. — Jakštas, J. : _Naujausi Gedimino dinastijos
     kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
     linių studijų).
-  citata_rodoma: "— (”) _Didžiųjų Lietuvos kunigaikščių ekonominė politika savo\ndvaruose,_ LP, I, 1, 1940, 6-28 p. — (”) _Dusburg Peter,_ LE, t. 5, 266-267-\np."
+  citata_rodoma: |
+    — (”) _Didžiųjų Lietuvos kunigaikščių ekonominė politika savo
+    dvaruose,_ LP, I, 1, 1940, 6-28 p. — (”) _Dusburg Peter,_ LE, t. 5, 266-267-
+    p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

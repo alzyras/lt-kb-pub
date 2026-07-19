@@ -513,7 +513,13 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     regioną. Tuo metu Gedimino pasiuntinys popiežiaus legatams
     Rygoje pranešė, kad valdovas derybų dėl krikšto neveda, toliau
     laikysis senolių tikėjimo.
-  citata_rodoma: "1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-\nko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi\nabipusiai puldinėjimai. Lapkritį Gedimino „galinga kariuomenė“,\nvadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę,\no kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės\nregioną."
+  citata_rodoma: |
+    1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
+    ko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi
+    abipusiai puldinėjimai. Lapkritį Gedimino „galinga kariuomenė“,
+    vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę,
+    o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės
+    regioną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -538,7 +544,16 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
     pakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek
     pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
-  citata_rodoma: "Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,\nsu aštuoniais šimtais vyrų patraukė  į karą  ir, išdėstęs savo karius pasalose, pats su\n80 vyrų įsibrovė  į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą\nnamų, išsivarė daug nelaisvėn paimtų žmonių  ir išsigabeno galybę pagrobtų daiktų.\nJuos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,\nir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo\npereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami\npakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek\npavojų, kad retas kuris namo sugrįžo sveikas ir gyvas."
+  citata_rodoma: |
+    Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,
+    su aštuoniais šimtais vyrų patraukė  į karą  ir, išdėstęs savo karius pasalose, pats su
+    80 vyrų įsibrovė  į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą
+    namų, išsivarė daug nelaisvėn paimtų žmonių  ir išsigabeno galybę pagrobtų daiktų.
+    Juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,
+    ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo
+    pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
+    pakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek
+    pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -566,7 +581,12 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     Tais pačiais metais, per rugiapjūtę, brolis Henrikas, Tepliavos komtūras, su aštuoniais
     broliais ir 300 vyrų išjojo į Zemygalos581 laukę, buvusį prieš Paštuvos pilį, tačiau dėl
     lietingo oro neužtiko čia lietuvių pjovėjų, kuriuos tikėjosi išvysti dirbant laukuose.
-  citata_rodoma: "Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,\nDanijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,\ndegindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių\nkilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų\n— ir pasauliečių, ir vienuolių. Be to, klaikiai išniekino ir išgrobstė sakramentus, bažnyčias,"
+  citata_rodoma: |
+    Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,
+    Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,
+    degindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių
+    kilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų
+    — ir pasauliečių, ir vienuolių. Be to, klaikiai išniekino ir išgrobstė sakramentus, bažnyčias,
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -591,7 +611,16 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.
-  citata_rodoma: "Nieko šiuo antpuoliu nepešę, pasitraukė;\nkai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad\nGardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,\nduoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino\nbroliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;\njie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo\narklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo\nalkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo\nišvykimo dienos."
+  citata_rodoma: |
+    Nieko šiuo antpuoliu nepešę, pasitraukė;
+    kai priėjo vietą, kur buvo palikę saugas prie atsarginės žygio mantos, pamatė, kad
+    Gardino pilininkas Dovydas573 nužudęs 30 vyrų ir pagrobęs pusantro tūkstančio arklių,
+    duoną bei kitokį maistą ir visus kitus paliktus saugoti daiktus. Dar labiau susirūpino
+    broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;
+    jie patraukė  į priekį ir daug dienų išbuvo be duonos, kai kurie iš bado suvalgė savo
+    arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
+    alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
+    išvykimo dienos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -620,7 +649,13 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų iš
     Vokietijos, Čekijos ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,
     Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje.
-  citata_rodoma: "Medininkų\nžemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,\nLietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo\nGardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje\npriklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos\nordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55."
+  citata_rodoma: |
+    Medininkų
+    žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
+    Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo
+    Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
+    priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
+    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -649,7 +684,17 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
     tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
     kad atvykę deramai pataisytų tai, kas atsitiko.
-  citata_rodoma: "Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais\n\n   Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų\nsmarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;\nnukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.\n\n\n\n\n               350 (343)."
+  citata_rodoma: |
+    Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+
+       Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
+    smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
+    nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
+
+
+
+
+                   350 (343).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -675,7 +720,14 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     padaryta krikščionių tikėjimui bei tikintiesiems per pusantrų metų, kai netikėliai nužudė
     arba išsivarė į amžiną vergiją beveik 20 tūkstančių krikščionių, o daug miestų bei pilių
     iki pamatų sugriovę.
-  citata_rodoma: "Apie Revelio, Danijos karaliaus žemės, nusiaubimą\n\n  Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,\nDanijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,\ndegindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių\nkilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų\n— ir pasauliečių, ir vienuolių."
+  citata_rodoma: |
+    Apie Revelio, Danijos karaliaus žemės, nusiaubimą
+
+      Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene  į Revelį,
+    Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,
+    degindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių
+    kilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių. Taip pat nužudė daug dvasininkų
+    — ir pasauliečių, ir vienuolių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

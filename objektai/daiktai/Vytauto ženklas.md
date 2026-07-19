@@ -152,7 +152,11 @@ Nenurodyta
     jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
     tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
     vado Edigos dalinių.
-  citata_rodoma: "Esą Vytautas reikalavęs chaną\njam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras\ntačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo\nvado Edigos dalinių."
+  citata_rodoma: |
+    Esą Vytautas reikalavęs chaną
+    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -97,7 +97,14 @@ Nenurodyta
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: "Nors chasidizmas buvo liberalesnė ir de-\nmokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir \napskritai gyvensenos normų, kėlė pavojų pačiam žydiškumui išlaikyti. Vil-\nniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus \nesant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo \nplitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį \njo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją."
+  citata_rodoma: |
+    Nors chasidizmas buvo liberalesnė ir de-
+    mokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir
+    apskritai gyvensenos normų, kėlė pavojų pačiam žydiškumui išlaikyti. Vil-
+    niaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus
+    esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
+    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
+    jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

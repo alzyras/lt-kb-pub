@@ -54,7 +54,11 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
     ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
     pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
     tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
-  citata_rodoma: "Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik\nponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;\npagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo\ntik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių."
+  citata_rodoma: |
+    Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik
+    ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
+    pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
+    tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

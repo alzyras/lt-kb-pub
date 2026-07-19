@@ -169,7 +169,12 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     čios atžvilgiu buvo išnagrinėtos, o 1668 metų gegužės 17 die­
     ną karaliaus raštu galutinai patvarkyta ir Šv. Jono bažnyčios
     užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
-  citata_rodoma: "Jono bažnyčia, ir 1667 metų lapkričio 19 dieną \nVilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­\nčios atžvilgiu buvo išnagrinėtos, o 1668 metų gegužės 17 die­\nną karaliaus raštu galutinai patvarkyta ir Šv. Jono bažnyčios \nužtikrinta priklausomybė pripažinta vienuoliams jėzuitams."
+  citata_rodoma: |
+    Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
+    Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­
+    čios atžvilgiu buvo išnagrinėtos, o 1668 metų gegužės 17 die­
+    ną karaliaus raštu galutinai patvarkyta ir Šv. Jono bažnyčios
+    užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +196,16 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     kė surinktas disidentų knygas, viešai deginti priešais Šv.
     Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši-
     no protus65.
-  citata_rodoma: "Uolus, bet ir sumanus, šis ordinas nesiliovė sa­\nvo disputais ir raštais spaudęs savo priešininkus, nekan­\ntraudamas trokštamos pergalės, ėmėsi smarkių priemonių, \nbet jos, valdant išmintingam ir narsiam Steponui, negalėjo \njo atvesti į užsibrėžtą tikslą. Jėzuitų pakurstytas vyskupas \nProtasevičius, nepaprastai užsidegęs išnaikinti eretikus, įsa­\nkė surinktas disidentų knygas, viešai deginti priešais Šv. \nJono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši- \nno protus65."
+  citata_rodoma: |
+    Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
+    vo disputais ir raštais spaudęs savo priešininkus, nekan­
+    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
+    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
+    jo atvesti į užsibrėžtą tikslą. Jėzuitų pakurstytas vyskupas
+    Protasevičius, nepaprastai užsidegęs išnaikinti eretikus, įsa­
+    kė surinktas disidentų knygas, viešai deginti priešais Šv.
+    Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši-
+    no protus65.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -214,7 +228,17 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     rinį namą, Goštautų vardo, stovintį
     priešais Šv. Jono bažnyčią, visą mū­
     rinį.
-  citata_rodoma: "Mes cituojame tik tuos, kuriuos \nmatėme patys.\n70\nDetali Kardinalijos istorija yra tokia: \nkunigaikštis Jurgis Radvila, dar bū­\ndamas Vilniaus vyskupijos koadju­\ntorius, su broliu gavo palikimo mū­\nrinį namą, Goštautų vardo, stovintį \npriešais Šv. Jono bažnyčią, visą mū­\nrinį."
+  citata_rodoma: |
+    Mes cituojame tik tuos, kuriuos
+    matėme patys.
+    70
+    Detali Kardinalijos istorija yra tokia:
+    kunigaikštis Jurgis Radvila, dar bū­
+    damas Vilniaus vyskupijos koadju­
+    torius, su broliu gavo palikimo mū­
+    rinį namą, Goštautų vardo, stovintį
+    priešais Šv. Jono bažnyčią, visą mū­
+    rinį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -241,7 +265,21 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     pabaigta, pašventinta dviejų vyskupų - Plocko ir Kujavų,
     1427 metų sausio 10-ą, kaip šitai žinoma iš tų pačių vysku­
     pų duoto induito.
-  citata_rodoma: "JONO BAŽNYČIĄ IR APIE TO PATIES VARDO \nKOLEGIJĄ, TAIP PAT APIE VISUS PADALINIUS IR PASTATUS, \nTĄ KOLEGIJĄ SUDARANČIUS; ISTORINIAI-TOPOGRAFINIAI \nDUOMENYS PAIMTI IŠ BUVUSIO VILNIAUS EDUKACINĖS \nKOMISIJOS ARCHYVO BYLŲ\nA) Apie Šv. Jono bažnyčios Vilniuje įkūrimą ir \njos prijungimą prie Akademijos kolegijos\nVladislovo Jogailos valdymo laikais lietuvių tautos at­\nvertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta \nŠv. Jono bažnyčia, o kunigaikščio Aleksandro Vytauto lai­\nkais Lietuvos Kunigaikštystės visuotinomis lėšomis 1426 m. \npabaigta, pašventinta dviejų vyskupų - Plocko ir Kujavų, \n1427 metų sausio 10-ą, kaip šitai žinoma iš tų pačių vysku­\npų duoto induito."
+  citata_rodoma: |
+    JONO BAŽNYČIĄ IR APIE TO PATIES VARDO
+    KOLEGIJĄ, TAIP PAT APIE VISUS PADALINIUS IR PASTATUS,
+    TĄ KOLEGIJĄ SUDARANČIUS; ISTORINIAI-TOPOGRAFINIAI
+    DUOMENYS PAIMTI IŠ BUVUSIO VILNIAUS EDUKACINĖS
+    KOMISIJOS ARCHYVO BYLŲ
+    A) Apie Šv. Jono bažnyčios Vilniuje įkūrimą ir
+    jos prijungimą prie Akademijos kolegijos
+    Vladislovo Jogailos valdymo laikais lietuvių tautos at­
+    vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta
+    Šv. Jono bažnyčia, o kunigaikščio Aleksandro Vytauto lai­
+    kais Lietuvos Kunigaikštystės visuotinomis lėšomis 1426 m.
+    pabaigta, pašventinta dviejų vyskupų - Plocko ir Kujavų,
+    1427 metų sausio 10-ą, kaip šitai žinoma iš tų pačių vysku­
+    pų duoto induito.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -260,7 +298,13 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     bažnyčios ir pritaikė jiems gyventi. Dar nupirko du sklypus
     priešais savo rūmus ir patvirtino nemažas fundacijas toles­
     nėms statyboms.
-  citata_rodoma: "Jų pastangos disputuoti su disidentais išties \npelnė jiems vyskupo ir kapitulos prielankumą. Protasevi­\nčius šiam ordinui nupirko mūrinį namą netoli Švento Jono \nbažnyčios ir pritaikė jiems gyventi. Dar nupirko du sklypus \npriešais savo rūmus ir patvirtino nemažas fundacijas toles­\nnėms statyboms."
+  citata_rodoma: |
+    Jų pastangos disputuoti su disidentais išties
+    pelnė jiems vyskupo ir kapitulos prielankumą. Protasevi­
+    čius šiam ordinui nupirko mūrinį namą netoli Švento Jono
+    bažnyčios ir pritaikė jiems gyventi. Dar nupirko du sklypus
+    priešais savo rūmus ir patvirtino nemažas fundacijas toles­
+    nėms statyboms.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -288,7 +332,22 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 
     Il KNYGA
     jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
-  citata_rodoma: "Jono brolijai priklausantiems, \nkurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­\ntais ir papuošimu, ad tenorem [pagal] sutartį, 1521 metų ba­\nlandžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios \narkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus \nŽygimanto Augusto patvirtintą. Tasai karalius 1571 metų \nkovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro- \ntasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­\ntoriaus instancijai su visu turtu ir arkipresbiterio namais pri-\n172\n\n## Puslapis 189\n\nIl KNYGA\njungė prie Societatis JESU [Jėzaus Draugijos] kolegijos."
+  citata_rodoma: |
+    Jono brolijai priklausantiems,
+    kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­
+    tais ir papuošimu, ad tenorem [pagal] sutartį, 1521 metų ba­
+    landžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios
+    arkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus
+    Žygimanto Augusto patvirtintą. Tasai karalius 1571 metų
+    kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro-
+    tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­
+    toriaus instancijai su visu turtu ir arkipresbiterio namais pri-
+    172
+
+    ## Puslapis 189
+
+    Il KNYGA
+    jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -313,7 +372,19 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
     mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
     Stanislovas82.
-  citata_rodoma: "Ross., vert. į apie tą pskoviečių pasiuntinybę, vy- \nlenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza \nmetraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika\n155\n\n## Puslapis 172\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos \nlėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­\nmes pašventino vyskupai: Kijevo - Mykolas ir Plocko - \nStanislovas82."
+  citata_rodoma: |
+    Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
+    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
+    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
+    155
+
+    ## Puslapis 172
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
+    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
+    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
+    Stanislovas82.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -74,9 +74,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Mirus pačiam kūrėjų kūrėjui, tie kunigai
-        pakėlė tarp savęs vieną į senojo vietą, taip pat senelį, 70 ar 80 metų turintį, ir į tą jų darbą svietas
-        nesikišo. Kokia rėdą Lietuvos tautoje, rodos, didžiai ilgai buvusi.
-  citata_rodoma: "Mirus pačiam kūrėjų kūrėjui, tie kunigai\npakėlė tarp savęs vieną į senojo vietą, taip pat senelį, 70 ar 80 metų turintį, ir į tą jų darbą svietas\nnesikišo. Kokia rėdą Lietuvos tautoje, rodos, didžiai ilgai buvusi."
+    pakėlė tarp savęs vieną į senojo vietą, taip pat senelį, 70 ar 80 metų turintį, ir į tą jų darbą svietas
+    nesikišo. Kokia rėdą Lietuvos tautoje, rodos, didžiai ilgai buvusi.
+  citata_rodoma: |
+    Mirus pačiam kūrėjų kūrėjui, tie kunigai
+    pakėlė tarp savęs vieną į senojo vietą, taip pat senelį, 70 ar 80 metų turintį, ir į tą jų darbą svietas
+    nesikišo. Kokia rėdą Lietuvos tautoje, rodos, didžiai ilgai buvusi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -90,10 +93,14 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tuos jo tarnus
-        svietas paprastai žyniais, arba kunigais, vadino, tarp kurių vienus pats kūrėjų kūrėjas sau skyrė, kitus
-        rinko pats svietas, į kuopas^974 suėjęs, tarp savęs, vyrus dorus, išmintingus, viso prityrusius, kuriems,
-        kūrėjų kūrėjo pasiteiraujant, ūkės^975 lietą^976 rėdyti reikėjo.
-  citata_rodoma: "Tuos jo tarnus\nsvietas paprastai žyniais, arba kunigais, vadino, tarp kurių vienus pats kūrėjų kūrėjas sau skyrė, kitus\nrinko pats svietas, į kuopas^974 suėjęs, tarp savęs, vyrus dorus, išmintingus, viso prityrusius, kuriems,\nkūrėjų kūrėjo pasiteiraujant, ūkės^975 lietą^976 rėdyti reikėjo."
+    svietas paprastai žyniais, arba kunigais, vadino, tarp kurių vienus pats kūrėjų kūrėjas sau skyrė, kitus
+    rinko pats svietas, į kuopas^974 suėjęs, tarp savęs, vyrus dorus, išmintingus, viso prityrusius, kuriems,
+    kūrėjų kūrėjo pasiteiraujant, ūkės^975 lietą^976 rėdyti reikėjo.
+  citata_rodoma: |
+    Tuos jo tarnus
+    svietas paprastai žyniais, arba kunigais, vadino, tarp kurių vienus pats kūrėjų kūrėjas sau skyrė, kitus
+    rinko pats svietas, į kuopas^974 suėjęs, tarp savęs, vyrus dorus, išmintingus, viso prityrusius, kuriems,
+    kūrėjų kūrėjo pasiteiraujant, ūkės^975 lietą^976 rėdyti reikėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

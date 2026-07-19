@@ -107,7 +107,11 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
     atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
     kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
     „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
-  citata_rodoma: "už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant\npilį, palikdami jame du brolius ir daug ginklanešių jam saugoti. Šią pilį neilgai trukus\nprūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,\npavertė pelenais."
+  citata_rodoma: |
+    už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant
+    pilį, palikdami jame du brolius ir daug ginklanešių jam saugoti. Šią pilį neilgai trukus
+    prūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,
+    pavertė pelenais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

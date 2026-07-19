@@ -266,7 +266,14 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     kuriuos mes vadiname normanais, jos turi šiaurinę dalį
     ir visas ten esančias salas; į pietus yra slavai ir estai
     (Aisti vietoj Aesti), o už jų gyvena kitos tautos“6.
-  citata_rodoma: "80\nVėlesni padavimai. Apie estus nėra žinių nuo Tacito\nlaikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­\ntijos jūros pakrančių gyventojais, kurie prekiavo gintaru\nir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,\ndaugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­\njęs, mini estus, kurie taip pat gyveną jūros pakrantėje3."
+  citata_rodoma: |
+    80
+    Vėlesni padavimai. Apie estus nėra žinių nuo Tacito
+    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
+    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
+    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
+    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
+    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -304,7 +311,19 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     nagrinėti
     dar ne laikas, vėliau kalbėsime apie herulus ir tvir­
     čiau pagrįsime mūsų prielaidas.
-  citata_rodoma: "202\n\n## Puslapis 200\n\nniekas Europoje negarbino Kapitolijaus Jupiterio, o ro­\nmėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių\nkur dar buvo užsilikę pietinėje Europoje, nes net ir romė­\nnų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­\napkenčiamas. Odoakras buvo krikščionis, ir jo herulams\nbuvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­\nta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek\ngraikų, romėnų, indų dievų?"
+  citata_rodoma: |
+    202
+
+    ## Puslapis 200
+
+    niekas Europoje negarbino Kapitolijaus Jupiterio, o ro­
+    mėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių
+    kur dar buvo užsilikę pietinėje Europoje, nes net ir romė­
+    nų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­
+    apkenčiamas. Odoakras buvo krikščionis, ir jo herulams
+    buvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­
+    ta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek
+    graikų, romėnų, indų dievų?
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

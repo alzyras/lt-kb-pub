@@ -90,7 +90,11 @@ Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalyt
     tėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į
     dešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą
     skydą; šis skydas priklauso Senųjų Trakų miestui .
-  citata_rodoma: "IV lentelė, 30-asis piešinys. Ypatingo skydo, perskirto į 2\ndalis, dešiniojoje pusėje kažkas panašaus į varpą, kairiojoje -\ntarytum gėlių ir vaisių puokštė. Prie antspaudo pasirašė Sta­\nnislovas Bakūnas (Bokuhm) 1587 metais."
+  citata_rodoma: |
+    IV lentelė, 30-asis piešinys. Ypatingo skydo, perskirto į 2
+    dalis, dešiniojoje pusėje kažkas panašaus į varpą, kairiojoje -
+    tarytum gėlių ir vaisių puokštė. Prie antspaudo pasirašė Sta­
+    nislovas Bakūnas (Bokuhm) 1587 metais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

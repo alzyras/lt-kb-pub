@@ -75,7 +75,13 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
     lykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj
     zbirnik pošanu akademyka M. S. Hruševskoho, I, 1928, Kijiv, 165-168
     p. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką).
-  citata_rodoma: "— Osten-Sacken,\nP. von : _Livländisch-russische Beziehungen während der Regierungszeit\ndes Grossfürsten Witowt von Litauen_ ( _1392-1430_ ), MiLG, t. 20, 1910, 169-\n294 p. — Paszkiewicz, H. : PaJM. — Petkun’, P. : _Schidnia meža Ve-\nlykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj\nzbirnik pošanu akademyka M."
+  citata_rodoma: |
+    — Osten-Sacken,
+    P. von : _Livländisch-russische Beziehungen während der Regierungszeit
+    des Grossfürsten Witowt von Litauen_ ( _1392-1430_ ), MiLG, t. 20, 1910, 169-
+    294 p. — Paszkiewicz, H. : PaJM. — Petkun’, P. : _Schidnia meža Ve-
+    lykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj
+    zbirnik pošanu akademyka M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

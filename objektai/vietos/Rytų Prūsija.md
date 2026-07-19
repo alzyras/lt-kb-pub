@@ -179,7 +179,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     skridę be nusileidimo 37 val. 11 minučių ir įveikę 6 411 km, antrą tuo
     metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
     trofą tuometinėje Rytų Prūsijoje.
-  citata_rodoma: "metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-"
+  citata_rodoma: |
+    metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

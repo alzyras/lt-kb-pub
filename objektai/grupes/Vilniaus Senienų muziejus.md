@@ -160,7 +160,13 @@ Mokslinė ir kultūros institucija.
     koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­
     tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
     tiečių kilęs švietėjas Mikalojus Akelaitis.
-  citata_rodoma: "Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­\nmo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­\nmeninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­\ntyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė \ninstitucija, sutelkusi krašto visuomenę. Adomas Honorijus Kir­\nkoras 1857-1858 m."
+  citata_rodoma: |
+    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
+    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
+    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
+    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
+    institucija, sutelkusi krašto visuomenę. Adomas Honorijus Kir­
+    koras 1857-1858 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -113,7 +113,16 @@ Nenurodyta
     suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
     Lenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą.
-  citata_rodoma: "VIII\n\n## Puslapis 9\n\nPo 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir \nRusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­\nsuomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į \nLenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­\nvenimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą."
+  citata_rodoma: |
+    VIII
+
+    ## Puslapis 9
+
+    Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir
+    Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­
+    suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
+    Lenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­
+    venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

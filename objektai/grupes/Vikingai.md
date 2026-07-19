@@ -104,7 +104,10 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų so-
     dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
     pirklius nuo plėšikų.
-  citata_rodoma: "Ilgainiui paliai šitą kelią atsirado vikingų so-\ndybų: tai buvo sodybos žmonių, saugančių upe keliaujančius\npirklius nuo plėšikų."
+  citata_rodoma: |
+    Ilgainiui paliai šitą kelią atsirado vikingų so-
+    dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
+    pirklius nuo plėšikų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

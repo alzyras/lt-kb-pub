@@ -171,7 +171,16 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     no ir Romano kuo širdingiausiai priimtas, jis galop
     atsikratė visų įtarimų, kurie be paliovos kamavo jaut­
     rią širdį.
-  citata_rodoma: "Patogiau, \ngirdi, šitame mieste susirinkti tokiam skaičiui kuni­\ngaikščių su jų palydomis, pasivaišinsią, o beviešint ir \ndraugystė tvirtesnė užsimegsianti. Vaišvilkui pasirodė \nįtartina, kad nesilaikoma sutartos dienos, be to, ne­\nįprastas atrodė ir priešo meilumas. Vis dėlto, būdamas \ntikras, jog Vasilka ir Švarnas, su kuriais anksčiau vi­\nsada kuo draugiškiausiai bendraudavo, negalvoja apie \njokią klastą, jais pasikliovęs, nusileido jų prašymams."
+  citata_rodoma: |
+    Patogiau,
+    girdi, šitame mieste susirinkti tokiam skaičiui kuni­
+    gaikščių su jų palydomis, pasivaišinsią, o beviešint ir
+    draugystė tvirtesnė užsimegsianti. Vaišvilkui pasirodė
+    įtartina, kad nesilaikoma sutartos dienos, be to, ne­
+    įprastas atrodė ir priešo meilumas. Vis dėlto, būdamas
+    tikras, jog Vasilka ir Švarnas, su kuriais anksčiau vi­
+    sada kuo draugiškiausiai bendraudavo, negalvoja apie
+    jokią klastą, jais pasikliovęs, nusileido jų prašymams.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -198,7 +207,17 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     jei šios provincijos ir gentys, sudariusios tarpusavio są­
     jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
     1 Henning.
-  citata_rodoma: "Ypač vokiečių godumą skatino tur­\ntinga Sembos provincija, bet šie atkaklūs bandymai ją \nužkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė \ntoks pavojus, kad, norint lengviau užimti Sembą, pirmiau­\nsia reikėjo užimti kitą Bartos dalį, užkariauti Galindą, \nsutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­\nnės kraštais. Buvo baiminamasi didžiausio pralaimėjimo, \njei šios provincijos ir gentys, sudariusios tarpusavio są­\njungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­\n1 Henning."
+  citata_rodoma: |
+    Ypač vokiečių godumą skatino tur­
+    tinga Sembos provincija, bet šie atkaklūs bandymai ją
+    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
+    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
+    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
+    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
+    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
+    jei šios provincijos ir gentys, sudariusios tarpusavio są­
+    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
+    1 Henning.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -248,7 +267,17 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     vo, ir jo drabužius, kuriais vilkėdavo, ir jo mylimą
     vergą, kuriam jis buvo malonus, ir sakalą, ir jo kurtą
     sudegino.
-  citata_rodoma: "Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­\ntė savo broliui Vasilkai [žinią], kad norįs su juo pasi­\nmatyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat \npas juos atvažiuotų pasitarti.\nIr Haličo kunigaikštis Vasilka kvietė Vaišvilką, \nkad jis ten pat pas juos atvyktų ir susitiktų su jais. \nVaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­\ntaikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo \njam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro \nmiestą, pasitikėdamas Vasilkos ir Švarno žodžiu."
+  citata_rodoma: |
+    Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
+    tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­
+    matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat
+    pas juos atvažiuotų pasitarti.
+    Ir Haličo kunigaikštis Vasilka kvietė Vaišvilką,
+    kad jis ten pat pas juos atvyktų ir susitiktų su jais.
+    Vaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­
+    taikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo
+    jam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro
+    miestą, pasitikėdamas Vasilkos ir Švarno žodžiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

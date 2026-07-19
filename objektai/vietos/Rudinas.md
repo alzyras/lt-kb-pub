@@ -155,7 +155,14 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą,
     bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
     gabendamasis jų ginklus bei kitus daiktus.
-  citata_rodoma: "Apie Rudino brolių kovą ir tenykščio miesto sugriovimą\n\n  Vargu ar kas stengtų išsamiai aprašyti bei papasakoti, kiek vargų antrosios atskalūnybės\nmetais patyrė Rudino broliai bei miestiečiai, gindami krikščionių tikėjimą nuo prūsų, nes\nšiomis vietomis prūsai nuolatos braudavosi į Kulmo žemę ir iš jos traukdavo atgal. Pasak\nkai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės\narba paimti į nelaisvę, arba išžudyti."
+  citata_rodoma: |
+    Apie Rudino brolių kovą ir tenykščio miesto sugriovimą
+
+      Vargu ar kas stengtų išsamiai aprašyti bei papasakoti, kiek vargų antrosios atskalūnybės
+    metais patyrė Rudino broliai bei miestiečiai, gindami krikščionių tikėjimą nuo prūsų, nes
+    šiomis vietomis prūsai nuolatos braudavosi į Kulmo žemę ir iš jos traukdavo atgal. Pasak
+    kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės
+    arba paimti į nelaisvę, arba išžudyti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -176,7 +183,12 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą,
     bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
     gabendamasis jų ginklus bei kitus daiktus.
-  citata_rodoma: "Kai\ngalop visi krikščionys ir prūsai jau gulėjo nukauti, sargybinis, kuris buvo pririštas prie\nmedžio, sutraukė raiščius, nuėjo  į kovos vietą, surado čia Martyną, smarkiai sužeistą,\nbet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir\ngabendamasis jų ginklus bei kitus daiktus."
+  citata_rodoma: |
+    Kai
+    galop visi krikščionys ir prūsai jau gulėjo nukauti, sargybinis, kuris buvo pririštas prie
+    medžio, sutraukė raiščius, nuėjo  į kovos vietą, surado čia Martyną, smarkiai sužeistą,
+    bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
+    gabendamasis jų ginklus bei kitus daiktus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -197,7 +209,15 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą,
     bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
     gabendamasis jų ginklus bei kitus daiktus.
-  citata_rodoma: "Pasak\nkai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės\narba paimti į nelaisvę, arba išžudyti.\n\n\n\n\n                 156 (151)."
+  citata_rodoma: |
+    Pasak
+    kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės
+    arba paimti į nelaisvę, arba išžudyti.
+
+
+
+
+                     156 (151).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

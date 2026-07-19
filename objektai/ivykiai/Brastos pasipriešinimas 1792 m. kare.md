@@ -104,7 +104,8 @@ Nenurodyta
     gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
     ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
     prie Targovicos konfederacijos.
-  citata_rodoma: "ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą"
+  citata_rodoma: |
+    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +123,8 @@ Nenurodyta
     fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
     prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš
     72 pabūklų ji prarado tik septynis.
-  citata_rodoma: "fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino"
+  citata_rodoma: |
+    fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

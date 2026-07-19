@@ -84,7 +84,16 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
     go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
     23 Ks. Ludwik Adam Jucevvicz. Przyslovvia ludu Litevvskiego.
-  citata_rodoma: "103\n\n## Puslapis 103\n\nliones, nepažindami krašto realijų, todėl to dievo vardas buvo\nrašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-\nsickis -Audros. Kiti dar randa dievą Patrimpą (Potrimp) -  val­\ndantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos\nyra tas pats."
+  citata_rodoma: |
+    103
+
+    ## Puslapis 103
+
+    liones, nepažindami krašto realijų, todėl to dievo vardas buvo
+    rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
+    sickis -Audros. Kiti dar randa dievą Patrimpą (Potrimp) -  val­
+    dantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos
+    yra tas pats.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

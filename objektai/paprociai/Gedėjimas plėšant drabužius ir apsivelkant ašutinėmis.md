@@ -77,7 +77,10 @@ Nenurodyta
     mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
     dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
     gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
-  citata_rodoma: "mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums\ndar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais\ngedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi."
+  citata_rodoma: |
+    mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
+    dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
+    gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -94,7 +97,15 @@ Nenurodyta
     dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
     gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
     41.
-  citata_rodoma: "Tai kam gi mums\ndar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais\ngedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.\n\n\n\n\n                              41."
+  citata_rodoma: |
+    Tai kam gi mums
+    dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
+    gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
+
+
+
+
+                                  41.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

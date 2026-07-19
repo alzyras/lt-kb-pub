@@ -115,7 +115,21 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
     reikalus tvarkyti vėl ėmė
     senatas, šitaip buvo atsikra­
     tyta lietuvių kunigaikščių valdžios.
-  citata_rodoma: "Vėliau, apie 1273\nmetus, Grigalius X paskelbė ją šventąja. Treniotos sū­\nnus Glėbas, tėvo įpėdinis, mirė jaunas, nepalikdamas\nĮėjo priešus, atsiėmė žemes,\n\n## Puslapis 91\n\nvaikų; jis polockiečiams da-\nP o lo c k ie č ia m s g ra ži-\nvė visišką laisvę. Valstybės\nnarna la is v ė\nreikalus tvarkyti vėl ėmė\nsenatas, šitaip buvo atsikra­\ntyta lietuvių kunigaikščių valdžios."
+  citata_rodoma: |
+    Vėliau, apie 1273
+    metus, Grigalius X paskelbė ją šventąja. Treniotos sū­
+    nus Glėbas, tėvo įpėdinis, mirė jaunas, nepalikdamas
+    Įėjo priešus, atsiėmė žemes,
+
+    ## Puslapis 91
+
+    vaikų; jis polockiečiams da-
+    P o lo c k ie č ia m s g ra ži-
+    vė visišką laisvę. Valstybės
+    narna la is v ė
+    reikalus tvarkyti vėl ėmė
+    senatas, šitaip buvo atsikra­
+    tyta lietuvių kunigaikščių valdžios.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -140,7 +154,18 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
     3 Iš esmės tą pačią Jogailaičių dinastijos genealogiją randu kuni­
     go Jono Kanto Boreišos Jėzaus Draugijos lotyniškame pamoksle (ran­
     kraštyje), sakytame 1689 metais, šv.
-  citata_rodoma: "Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,\njo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­\ntas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­\nbius, likusius po to turtingo kunigaikščio, kadangi nužudė ir\ndu jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­\nniota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus\nkeršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­\nkokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­\nsiuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­\njį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­\nimtus bajorus."
+  citata_rodoma: |
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -85,7 +85,8 @@ Nenurodyta
     mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto
     tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
     šakų sporto varžybose už savo šalį.
-  citata_rodoma: "tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių"
+  citata_rodoma: |
+    tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

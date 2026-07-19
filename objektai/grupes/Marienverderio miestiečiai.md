@@ -104,7 +104,16 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     į miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį
     gyventojų paėmė į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko į pilį ir šitaip
     išsigelbėjo.
-  citata_rodoma: "Dėl to, subūrę daugybę karių, antrosios\natskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę\npasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Broliai ir miestiečiai su\nsavo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,\ndaugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš\npasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius\nį miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį\ngyventojų paėmė  į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko  į pilį ir šitaip\nišsigelbėjo."
+  citata_rodoma: |
+    Dėl to, subūrę daugybę karių, antrosios
+    atskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę
+    pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Broliai ir miestiečiai su
+    savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,
+    daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
+    pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
+    į miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį
+    gyventojų paėmė  į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko  į pilį ir šitaip
+    išsigelbėjo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -127,7 +136,16 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
     žūties, pabėgdami į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
     buvo arba paimti į nelaisvę, arba užmušti.
-  citata_rodoma: "Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio\nmiesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė\nžūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji\nbuvo arba paimti į nelaisvę, arba užmušti."
+  citata_rodoma: |
+    Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
+    miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
+    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
+    buvo arba paimti į nelaisvę, arba užmušti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -149,7 +167,16 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
     pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
     į miestą.
-  citata_rodoma: "Prūsai, po  senovei  nepasisotinę  krikščionių  kraujo,  vėl suskato  ruošti  ginklus\ntikintiesiems žudyti, kankinti ir kryžiuoti, kad ant jų galvų kristų visas teisiųjų kraujas,\npralietas Prūsijos žemėje krikščionių tikėjimui ginti. Dėl to, subūrę daugybę karių, antrosios\natskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę\npasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Broliai ir miestiečiai su\nsavo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,\ndaugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš\npasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius\nį miestą."
+  citata_rodoma: |
+    Prūsai, po  senovei  nepasisotinę  krikščionių  kraujo,  vėl suskato  ruošti  ginklus
+    tikintiesiems žudyti, kankinti ir kryžiuoti, kad ant jų galvų kristų visas teisiųjų kraujas,
+    pralietas Prūsijos žemėje krikščionių tikėjimui ginti. Dėl to, subūrę daugybę karių, antrosios
+    atskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę
+    pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Broliai ir miestiečiai su
+    savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,
+    daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
+    pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
+    į miestą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -170,7 +197,15 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     buvo arba paimti į nelaisvę, arba užmušti. Per vieną ir kitą antpuolį prūsai nepagarbiai
     elgėsi su šventųjų paveikslais, bažnytiniais rūbais ir kitomis dievo garbinimui skirtomis
     šventenybėmis bei bažnytiniais sakramentais.
-  citata_rodoma: "Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio\nmiesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė\nžūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji\nbuvo arba paimti į nelaisvę, arba užmušti. Per vieną ir kitą antpuolį prūsai nepagarbiai\nelgėsi su šventųjų paveikslais, bažnytiniais rūbais ir kitomis dievo garbinimui skirtomis\nšventenybėmis bei bažnytiniais sakramentais."
+  citata_rodoma: |
+    Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
+    miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
+    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
+    buvo arba paimti į nelaisvę, arba užmušti. Per vieną ir kitą antpuolį prūsai nepagarbiai
+    elgėsi su šventųjų paveikslais, bažnytiniais rūbais ir kitomis dievo garbinimui skirtomis
+    šventenybėmis bei bažnytiniais sakramentais.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

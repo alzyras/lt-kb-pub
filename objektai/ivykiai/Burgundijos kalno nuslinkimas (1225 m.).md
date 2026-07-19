@@ -78,12 +78,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    16. Apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą
+    Apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą
 
       1225 viešpaties metais Burgundijoje, Druskos kalnuose, vienas kalnas dėl žemės
     drebėjimo atsiskyrė nuo kitų kalnų ir nuslinko prie kalnų kitoje pusėje, užvertė visą slėnį
     ir nuslėgė penkis tūkstančius žmonių (Ptol. 21,26; Mart. p. 400).
-  citata_rodoma: "16. Apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą\n\n  1225 viešpaties metais Burgundijoje, Druskos kalnuose, vienas kalnas dėl žemės\ndrebėjimo atsiskyrė nuo kitų kalnų ir nuslinko prie kalnų kitoje pusėje, užvertė visą slėnį\nir nuslėgė penkis tūkstančius žmonių (Ptol. 21,26; Mart. p. 400)."
+  citata_rodoma: |
+    Apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą
+
+      1225 viešpaties metais Burgundijoje, Druskos kalnuose, vienas kalnas dėl žemės
+    drebėjimo atsiskyrė nuo kitų kalnų ir nuslinko prie kalnų kitoje pusėje, užvertė visą slėnį
+    ir nuslėgė penkis tūkstančius žmonių (Ptol. 21,26; Mart. p. 400).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

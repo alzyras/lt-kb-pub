@@ -58,7 +58,10 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
     Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­
     vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
     tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
-  citata_rodoma: "Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­\nvos pataurininkio vestuves, būdamas Liubline, išleidau lie­\ntuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus."
+  citata_rodoma: |
+    Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­
+    vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
+    tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

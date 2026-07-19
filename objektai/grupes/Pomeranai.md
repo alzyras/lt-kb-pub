@@ -155,7 +155,18 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke tūkstantį
     penkis šimtus žuvusių vyrų, o krikščionių nė vienas nebuvo sunkiai sužeistas, išskyrus
     10 žirgų, kurie krito perverti priešo iečių.
-  citata_rodoma: "Tuo metu, kai šitai dėjosi, Sventopelkas\nsutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui\natsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo\nbrolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,\nšitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė\ndvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė\nšiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę\nteutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė\ngabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30\nvyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant\nkoks bailys pamatęs daugybę nukautųjų."
+  citata_rodoma: |
+    Tuo metu, kai šitai dėjosi, Sventopelkas
+    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
+    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
+    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
+    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
+    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
+    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
+    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
+    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
+    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
+    koks bailys pamatęs daugybę nukautųjų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

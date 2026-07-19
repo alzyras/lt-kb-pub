@@ -87,7 +87,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-177505
+    - c-177493
 
 <a id="claim-t-195106"></a>
 - t-004
@@ -479,7 +479,11 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     galiau griuvo mūrai ir bokštai į Neries bangas. Daugelyje vie­
     tų sutvirtinimai buvo išlaužti. Bet plačiai išsiliejusi Neris ir pilni
     grioviai vandens kliudė galutinai laimėti.
-  citata_rodoma: "Dieną ir naktį ėjo mūšiai prie Vilniaus sienų. Pa­\ngaliau griuvo mūrai ir bokštai į Neries bangas. Daugelyje vie­\ntų sutvirtinimai buvo išlaužti. Bet plačiai išsiliejusi Neris ir pilni\ngrioviai vandens kliudė galutinai laimėti."
+  citata_rodoma: |
+    Dieną ir naktį ėjo mūšiai prie Vilniaus sienų. Pa­
+    galiau griuvo mūrai ir bokštai į Neries bangas. Daugelyje vie­
+    tų sutvirtinimai buvo išlaužti. Bet plačiai išsiliejusi Neris ir pilni
+    grioviai vandens kliudė galutinai laimėti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -504,7 +508,19 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     surašytos klausantis jų skaldų, bei
     šiaurės kronikos byloja ne apie vie­
     ną tokį žygį.
-  citata_rodoma: "Tuo metu poreikis turėti savą gynybą ir per ne­\npaliaujamus karus pažintis su kaimyninėmis šalimis, jau at- \nsikračiusiomis netašyto barbariškumo, davė pradžią rastis \nLietuvos žemėje medinėms pilims ir tvirtovėms.\nVietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­\nliautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­\nsėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­\nje padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių \nsantakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos\nsurašytos klausantis jų skaldų, bei \nšiaurės kronikos byloja ne apie vie­\nną tokį žygį."
+  citata_rodoma: |
+    Tuo metu poreikis turėti savą gynybą ir per ne­
+    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
+    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
+    Lietuvos žemėje medinėms pilims ir tvirtovėms.
+    Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
+    liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
+    sėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­
+    je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
+    santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos
+    surašytos klausantis jų skaldų, bei
+    šiaurės kronikos byloja ne apie vie­
+    ną tokį žygį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -543,7 +559,33 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
-  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų."
+  citata_rodoma: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -575,7 +617,23 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     rašo - Vigilia, užuot rašę Vilija, pvz.,
     S a r n i c k i s Descriptio veteris et no­
     vae Poloniae etc.
-  citata_rodoma: "Bet jeigu upei Vili­\njos vardas buvo duotas Vilniaus gy­\nventojų krikšto laikais, valdant Jo­\ngailai, tai tas žodis turėtų paeiti nuo \nW igilja. Juk randama, kad Vilniaus \nkapitulai 1390 metais Vladislovo Jo­\ngailos duotoje privilegijoje, kuria do­\nvanojami Paneriai, Vilija yra pava­\ndinta Vigilia:  obstaculum in superiori \nparte nostri obstaculi, in fluvio Vigilia \nsituati [aukštutinėje dalyje mūsų už­\nkardos, Vigilijos upėje esančios]. Kai \nkurie mūsų senieji autoriai taip pat \nrašo - Vigilia, užuot rašę Vilija, pvz., \nS a r n i c k i s Descriptio veteris et no­\nvae Poloniae etc."
+  citata_rodoma: |
+    Bet jeigu upei Vili­
+    jos vardas buvo duotas Vilniaus gy­
+    ventojų krikšto laikais, valdant Jo­
+    gailai, tai tas žodis turėtų paeiti nuo
+    W igilja. Juk randama, kad Vilniaus
+    kapitulai 1390 metais Vladislovo Jo­
+    gailos duotoje privilegijoje, kuria do­
+    vanojami Paneriai, Vilija yra pava­
+    dinta Vigilia:  obstaculum in superiori
+    parte nostri obstaculi, in fluvio Vigilia
+    situati [aukštutinėje dalyje mūsų už­
+    kardos, Vigilijos upėje esančios]. Kai
+    kurie mūsų senieji autoriai taip pat
+    rašo - Vigilia, užuot rašę Vilija, pvz.,
+    S a r n i c k i s Descriptio veteris et no­
+    vae Poloniae etc.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -605,7 +663,24 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     tiltą pastatyti ir nutiesti įsakėme, taipgi ir jo muitą, arba mo­
     kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
     jau seniai mintyse paskyrėme.
-  citata_rodoma: "Nederėtų, be \nto, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš \nmūsų valdinių per tą pačią upę kitose vietose statyti mažų \ntiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės \ndvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­\nžiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime \nuždrausti ir uždraudžiame bei užginame perkėlimus, vadi­\nnamus plaustais, per tą pačią Vilijos upę, kad nė vienas iš \nmūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­\nmo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­\nnyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­\nkimo tam pačiam mūsų nustatytam muitui, su bausmėmis, \naukščiau mūsų nurodytomis. O kadangi mes, kaip anksčiau \ntvirtinome, skatinami gailesčio mūsų pavaldiniams, minėtą \ntiltą pastatyti ir nutiesti įsakėme, taipgi ir jo muitą, arba mo­\nkestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai \njau seniai mintyse paskyrėme."
+  citata_rodoma: |
+    Nederėtų, be
+    to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
+    mūsų valdinių per tą pačią upę kitose vietose statyti mažų
+    tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės
+    dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
+    žiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime
+    uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­
+    namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš
+    mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­
+    mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­
+    nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
+    kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
+    aukščiau mūsų nurodytomis. O kadangi mes, kaip anksčiau
+    tvirtinome, skatinami gailesčio mūsų pavaldiniams, minėtą
+    tiltą pastatyti ir nutiesti įsakėme, taipgi ir jo muitą, arba mo­
+    kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
+    jau seniai mintyse paskyrėme.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -639,7 +714,28 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     riterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­
     to girias ir brastas, staiga iš už nugaros puolė nenuovokų
     Skirgailą ir sudavė jam smarkų smūgį26.
-  citata_rodoma: "Tai buvo ne garsusis prancūzų mar­\nšalas Boucicaut, bet jo sūnus: juk D e \nW a 1 (Histoire de Vordre Teutonique \nT. IV, p. 51) ap. V o i g t, V, 542, apie \njį pasakoja: Entre les Francois on doit \nremarquer Jean le Maingre dit Bouci-\n—  • —  \n120\n\n## Puslapis 137\n\nIl KNYGA\nciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su \nsavo pajėgomis; o kitoje Vilijos pusėje driekėsi Skirgailos sto­\nvykla, prie Visevaldės pilies, netoli nuo senojo Kauno, jis, \nkartu su broliu Vygantu gausiai kariaunai vadovaudami, bu­\nvo sumanę ginti perėjas25. Kad neįsiveltų į neaiškios lemties \nmūšį atvirame lauke, Ordino didysis maršalas su rinktinių \nriterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­\nto girias ir brastas, staiga iš už nugaros puolė nenuovokų \nSkirgailą ir sudavė jam smarkų smūgį26."
+  citata_rodoma: |
+    Tai buvo ne garsusis prancūzų mar­
+    šalas Boucicaut, bet jo sūnus: juk D e
+    W a 1 (Histoire de Vordre Teutonique
+    T. IV, p. 51) ap. V o i g t, V, 542, apie
+    jį pasakoja: Entre les Francois on doit
+    remarquer Jean le Maingre dit Bouci-
+    —  • —
+    120
+
+    ## Puslapis 137
+
+    Il KNYGA
+    ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su
+    savo pajėgomis; o kitoje Vilijos pusėje driekėsi Skirgailos sto­
+    vykla, prie Visevaldės pilies, netoli nuo senojo Kauno, jis,
+    kartu su broliu Vygantu gausiai kariaunai vadovaudami, bu­
+    vo sumanę ginti perėjas25. Kad neįsiveltų į neaiškios lemties
+    mūšį atvirame lauke, Ordino didysis maršalas su rinktinių
+    riterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­
+    to girias ir brastas, staiga iš už nugaros puolė nenuovokų
+    Skirgailą ir sudavė jam smarkų smūgį26.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -668,7 +764,23 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     vendintas, ką liudija tokios tankiai gyvenamos vietovės ir
     pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
     mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
-  citata_rodoma: "Taigi ta vietovė, žinia, jei ji buvo parinkta to­\nkiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­\nta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne \nnuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, \nį aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti \nprie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus \nlydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­\nliau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­\nje, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­\nvinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės, \nkrantus nusidriekusią ir medinės pilies saugomą. Pagaliau \nvisas tas aplinkinis kraštas, kuriame yra Vilnius, kaip nuo \nRusios sienų netoli esantis, jau labai seniai turėjo būti apgy­\nvendintas, ką liudija tokios tankiai gyvenamos vietovės ir \npilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į \nmūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 ."
+  citata_rodoma: |
+    Taigi ta vietovė, žinia, jei ji buvo parinkta to­
+    kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
+    ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne
+    nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,
+    į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti
+    prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus
+    lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­
+    liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­
+    je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­
+    vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
+    krantus nusidriekusią ir medinės pilies saugomą. Pagaliau
+    visas tas aplinkinis kraštas, kuriame yra Vilnius, kaip nuo
+    Rusios sienų netoli esantis, jau labai seniai turėjo būti apgy­
+    vendintas, ką liudija tokios tankiai gyvenamos vietovės ir
+    pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
+    mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -690,7 +802,13 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     Dėl šių poeto Jakimavičiaus žodžių įgyjame naują objektą
     mūsų deivių rinkiniui. Taip pat kunigas Sirvydas savo žodyne
     Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris).
-  citata_rodoma: "Tai buvo piktųjų dvasių apgaulė; ty-\nkodamos prie vandens, suvedžiodamos žmones, jos stengėsi\nišvilioti sau dovanų“.\nDėl šių poeto Jakimavičiaus žodžių įgyjame naują objektą\nmūsų deivių rinkiniui. Taip pat kunigas Sirvydas savo žodyne\nVilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris)."
+  citata_rodoma: |
+    Tai buvo piktųjų dvasių apgaulė; ty-
+    kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
+    išvilioti sau dovanų“.
+    Dėl šių poeto Jakimavičiaus žodžių įgyjame naują objektą
+    mūsų deivių rinkiniui. Taip pat kunigas Sirvydas savo žodyne
+    Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -716,7 +834,20 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs
     į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
     pilį.
-  citata_rodoma: "Šalimais jo apvalus bokštas, iš plytų \nir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai \nskelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­\nlies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­\ntinių tvora, paskui Vilnios upės vandenų skalaujama iš vie­\nnos pusės, o iš kitos - jos perkasos, dar Gedimino laikais \niškastos, - pilį puolantiems Lietuvos priešams sudarė ne­\nlengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­\ntų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­\nrių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Kelias \nsuko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs \nį du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės \npilį."
+  citata_rodoma: |
+    Šalimais jo apvalus bokštas, iš plytų
+    ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai
+    skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­
+    lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­
+    tinių tvora, paskui Vilnios upės vandenų skalaujama iš vie­
+    nos pusės, o iš kitos - jos perkasos, dar Gedimino laikais
+    iškastos, - pilį puolantiems Lietuvos priešams sudarė ne­
+    lengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­
+    tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
+    rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Kelias
+    suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs
+    į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
+    pilį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -765,7 +896,43 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     prekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir
     karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
     varomas parduoti, - vienas denaras arba obolas.
-  citata_rodoma: "Šiuo raštu \nskelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar \nesantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­\nsieks. Kai mes ankstesniais metais svarstėme mūsų LDK val­\ndinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, \nkuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto \npatirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­\nmąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­\ntogumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko \nmus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-\n----• ----\n386\n\n## Puslapis 403\n\nIV KNYGA\nniaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­\nkalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­\ndami ir deramai įvertindami šio garbingo Ulriko Hozijaus \ndorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per \nVilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų, \nkiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­\nmis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles, \nbūtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­\nžiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­\nčiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai \nir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių \nžemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar \nšiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų, \nkuriuos kas nors vežtų parduoti vienu arkliu - denaras arba \nobolas; nuo vieno saiko arba statinės druskos - vienas obo- \nlas, nuo vieno prikrauto prekių vežimo, traukiamo arklio, - \n3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto \nprekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir \nkarvės, kaip ir nuo viso to, kas už upės būtų vedamas ar \nvaromas parduoti, - vienas denaras arba obolas."
+  citata_rodoma: |
+    Šiuo raštu
+    skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
+    esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­
+    sieks. Kai mes ankstesniais metais svarstėme mūsų LDK val­
+    dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,
+    kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto
+    patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­
+    mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­
+    togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko
+    mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-
+    ----• ----
+    386
+
+    ## Puslapis 403
+
+    IV KNYGA
+    niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­
+    kalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­
+    dami ir deramai įvertindami šio garbingo Ulriko Hozijaus
+    dorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per
+    Vilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų,
+    kiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­
+    mis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles,
+    būtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­
+    žiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­
+    čiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai
+    ir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių
+    žemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar
+    šiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų,
+    kuriuos kas nors vežtų parduoti vienu arkliu - denaras arba
+    obolas; nuo vieno saiko arba statinės druskos - vienas obo-
+    las, nuo vieno prikrauto prekių vežimo, traukiamo arklio, -
+    3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto
+    prekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir
+    karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
+    varomas parduoti, - vienas denaras arba obolas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -787,7 +954,16 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     temdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­
     to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
     kijos interesus.
-  citata_rodoma: "Pirmiausia jų, \nregis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi \nnamus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms \nšeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­\nnyje į Viliją įteka Vingrių šaltinis, pavadinimas.\nTačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.) \ntemdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­\nto vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­\nkijos interesus."
+  citata_rodoma: |
+    Pirmiausia jų,
+    regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
+    namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms
+    šeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­
+    nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
+    Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.)
+    temdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­
+    to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
+    kijos interesus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -810,13 +986,24 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     dėl, kad ši upė išrausė sau gilią va­
     gą, suformuodama aukštas smėlin­
     gas pakrantes.
-  citata_rodoma: "Iš kur kilo Nehrung arba Ne- \nhring - vokiečių kalboje didžiulių \nsmėlio kaupų jūrų įlankose pavadi­\nnimas [neringa]. Prūsijos dokumen­\ntuose dar XIII amžiuje ji vadinta Ne­\nria. Tad, manau, jog lietuviai seniau \nvadino Vilija, Neris arba Neria to­\ndėl, kad ši upė išrausė sau gilią va­\ngą, suformuodama aukštas smėlin­\ngas pakrantes."
+  citata_rodoma: |
+    Iš kur kilo Nehrung arba Ne-
+    hring - vokiečių kalboje didžiulių
+    smėlio kaupų jūrų įlankose pavadi­
+    nimas [neringa]. Prūsijos dokumen­
+    tuose dar XIII amžiuje ji vadinta Ne­
+    ria. Tad, manau, jog lietuviai seniau
+    vadino Vilija, Neris arba Neria to­
+    dėl, kad ši upė išrausė sau gilią va­
+    gą, suformuodama aukštas smėlin­
+    gas pakrantes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-195105
     - t-195106
     - t-195123
     - t-195126
@@ -837,7 +1024,19 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
     išlaidos, prie dominikonų Šv.
-  citata_rodoma: "VILNIAUS MIESTO ISTORIJA // TOMAS\ndėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­\nvilegija nepasinaudojo, nes po septynerių metų (1536 m.) Žy­\ngimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­\nniaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą \njo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­\ntyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria \niki tol buvo naudojamasi, karalius leido imti tam tikrą mo­\nkestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­\ngumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho- \nzijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos \nišlaidos, prie dominikonų Šv."
+  citata_rodoma: |
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    dėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­
+    vilegija nepasinaudojo, nes po septynerių metų (1536 m.) Žy­
+    gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­
+    niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą
+    jo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­
+    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
+    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
+    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
+    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
+    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
+    išlaidos, prie dominikonų Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -860,7 +1059,17 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     akalnio užuomazgos7.
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
-  citata_rodoma: "Čia buvo pats miesto centras - ten, \nkur dabar stovi Rotušė ir Šv. Kazimiero bažnyčia; po Aukš­\ntutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­\nkių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos \ntrobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­\ntoje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­\nlos, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­\nakalnio užuomazgos7.\nkuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname], \nrado."
+  citata_rodoma: |
+    Čia buvo pats miesto centras - ten,
+    kur dabar stovi Rotušė ir Šv. Kazimiero bažnyčia; po Aukš­
+    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
+    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
+    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
+    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
+    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
+    akalnio užuomazgos7.
+    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
+    rado.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -886,7 +1095,20 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
-  citata_rodoma: "Ta pačia privilegija, kuria Vilniui buvo \nduotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
+  citata_rodoma: |
+    Ta pačia privilegija, kuria Vilniui buvo
+    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
+    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
+    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
+    siljevičiaus užmačių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -908,7 +1130,16 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     kui ir Paneriams Trakų apskrityje.
     Aukščiau Vilniaus Vilija, regis, kito
     vardo neturi.
-  citata_rodoma: "V. p. 152. Dar iki šiol \nlietuviai kaimiečiai, gyvenantys tos \nupės pakrantėse, žemiau Vilniaus, \nvadina ją Nerimi, bent jau žinau, kad \ntaip Vilija yra vadinama kaimuose, \npriklausančiuose Zubiškių palivar­\nkui ir Paneriams Trakų apskrityje. \nAukščiau Vilniaus Vilija, regis, kito \nvardo neturi."
+  citata_rodoma: |
+    V. p. 152. Dar iki šiol
+    lietuviai kaimiečiai, gyvenantys tos
+    upės pakrantėse, žemiau Vilniaus,
+    vadina ją Nerimi, bent jau žinau, kad
+    taip Vilija yra vadinama kaimuose,
+    priklausančiuose Zubiškių palivar­
+    kui ir Paneriams Trakų apskrityje.
+    Aukščiau Vilniaus Vilija, regis, kito
+    vardo neturi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -936,7 +1167,22 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     Lindenblattas, kronikininkai,
     ją taip pat vadina - Nerga, Nerge, Ne-
     rye ir Neria.
-  citata_rodoma: "Anksčiau kitaip \nbuvo vadinama arba turėjo ir kitą \nvardą - Neris, nuo to rasi, kad glū­\ndėjo tarp iškilių kalnų arba tikriausia, \nkad žiūrinčiajam nuo aukštų kalnų \natrodė tarsi panirusi - lietuviškai - \nPanerta, nuo ko ją supantys kalnai \nir mūsų laikais vadinami Paneriais. \nUpė Nerige, dažnai minima senovi­\nniame Lietuvos kelių aprašyme, \nesančiame Kryžiuočių archyve, yra \ndabartinė Vilija. Vygandas ir \nLindenblattas, kronikininkai, \nją taip pat vadina - Nerga, Nerge, Ne- \nrye ir Neria."
+  citata_rodoma: |
+    Anksčiau kitaip
+    buvo vadinama arba turėjo ir kitą
+    vardą - Neris, nuo to rasi, kad glū­
+    dėjo tarp iškilių kalnų arba tikriausia,
+    kad žiūrinčiajam nuo aukštų kalnų
+    atrodė tarsi panirusi - lietuviškai -
+    Panerta, nuo ko ją supantys kalnai
+    ir mūsų laikais vadinami Paneriais.
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija. Vygandas ir
+    Lindenblattas, kronikininkai,
+    ją taip pat vadina - Nerga, Nerge, Ne-
+    rye ir Neria.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -966,7 +1212,19 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     liojo ir masino prie savo krantų vie­
     nišus, klajojančius po gūdžias girias
     senovės lietuvius ir jų vaidilas.
-  citata_rodoma: "Studija apie Vilniaus \natsiradimą.\n5\nŽodį Vilija, jeigu jo kilmės imtume \nieškoti lietuvių kalboje, galima tarti \nkilus nuo Wiloju [vilioju] - gundau, \narba nuo Wilius [vylius] - klasta, tad \ntokiu atveju Vilija reikštų Vilioklė. \nGal dėl to, kad ta nuostabi upė vi­\nliojo ir masino prie savo krantų vie­\nnišus, klajojančius po gūdžias girias \nsenovės lietuvius ir jų vaidilas."
+  citata_rodoma: |
+    Studija apie Vilniaus
+    atsiradimą.
+    5
+    Žodį Vilija, jeigu jo kilmės imtume
+    ieškoti lietuvių kalboje, galima tarti
+    kilus nuo Wiloju [vilioju] - gundau,
+    arba nuo Wilius [vylius] - klasta, tad
+    tokiu atveju Vilija reikštų Vilioklė.
+    Gal dėl to, kad ta nuostabi upė vi­
+    liojo ir masino prie savo krantų vie­
+    nišus, klajojančius po gūdžias girias
+    senovės lietuvius ir jų vaidilas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -991,7 +1249,19 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
-  citata_rodoma: "272\n\n## Puslapis 289\n\nIV KNYGA\nPakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­\nteliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­\nlės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio \natrado kuklumą ir sulaukė prielankumo. Barboros rūmai \nstovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies. \nTen visas laisvesnes akimirkas Augustas praleisdavo šalia \nBarboros, kol pagaliau su ja susituokė30."
+  citata_rodoma: |
+    272
+
+    ## Puslapis 289
+
+    IV KNYGA
+    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
+    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
+    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
+    atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
+    stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+    Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
+    Barboros, kol pagaliau su ja susituokė30.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1023,7 +1293,26 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     čiaus plytinės", perduotas Paleckio
     žiniai, karaliaus valia, per Vilniaus
     gorodničių Povilą Giedraitį.
-  citata_rodoma: "Trys į \nVilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­\ntiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­\nnanės, o du architektai ir raižytojai - Jonas Marija ir Jonas\n34\nPrivilegija, duota Paleckiui steigti šią \nliejyklą, yra rašyta slavų kalba, su lo­\ntynišku karaliaus ir rusišku raštinin­\nko Valerijono parašu, su prikabintu \nLietuvos Didžiosios Kunigaikštystės \nantspaudu. Duota 1547 metų gegu­\nžės 22 dieną, 5 indikte. Sklypas, skir­\ntas fabrikui statyti, buvo „prie Vil­\nniaus miesto, už Vilijos upės, tarp \nkaraliaus šunidės ir Vilniaus vaiva­\ndos ir karaliaus kanclerio Hlebavi- \nčiaus plytinės\", perduotas Paleckio \nžiniai, karaliaus valia, per Vilniaus \ngorodničių Povilą Giedraitį."
+  citata_rodoma: |
+    Trys į
+    Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
+    tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­
+    nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas
+    34
+    Privilegija, duota Paleckiui steigti šią
+    liejyklą, yra rašyta slavų kalba, su lo­
+    tynišku karaliaus ir rusišku raštinin­
+    ko Valerijono parašu, su prikabintu
+    Lietuvos Didžiosios Kunigaikštystės
+    antspaudu. Duota 1547 metų gegu­
+    žės 22 dieną, 5 indikte. Sklypas, skir­
+    tas fabrikui statyti, buvo „prie Vil­
+    niaus miesto, už Vilijos upės, tarp
+    karaliaus šunidės ir Vilniaus vaiva­
+    dos ir karaliaus kanclerio Hlebavi-
+    čiaus plytinės", perduotas Paleckio
+    žiniai, karaliaus valia, per Vilniaus
+    gorodničių Povilą Giedraitį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1046,7 +1335,17 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
     siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
     palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
-  citata_rodoma: "Dar \nniūrokas tuomet, bet visais laikais kerintis gražiu krašto­\nvaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku- \nsiems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­\nnų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, \nbuvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­\nta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų \npusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­\nsiausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, \npalei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja."
+  citata_rodoma: |
+    Dar
+    niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
+    vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku-
+    siems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
+    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
+    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
+    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1081,7 +1380,20 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     deika), kiekvienas savaip. Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
     išvilioti sau dovanų“.
-  citata_rodoma: "Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos\nupę, liečia mūsų dalyką:\nRzeko, ktdrędy lz}> poniesiesz moję,\nZmieszane z twemi czystemi wodami;\nRozgioš me skargi, rozgloš niepokoje...\nNiech twoja Neris (a) i bogam oznami,\nPod ktorych wladzą są morskie zamęty,\nCierpienia moję i žal nieujęty.\nPowiedz przešliczne boztwo Wiliej rzeki\nNimfom (b) twym siostrom, boginiom podwodnym:\n25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas\nbaisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo\nKarališkosios Malonybės Vilniaus miesto dukartinį sudeginimą."
+  citata_rodoma: |
+    Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos
+    upę, liečia mūsų dalyką:
+    Rzeko, ktdrędy lz}> poniesiesz moję,
+    Zmieszane z twemi czystemi wodami;
+    Rozgioš me skargi, rozgloš niepokoje...
+    Niech twoja Neris (a) i bogam oznami,
+    Pod ktorych wladzą są morskie zamęty,
+    Cierpienia moję i žal nieujęty.
+    Powiedz przešliczne boztwo Wiliej rzeki
+    Nimfom (b) twym siostrom, boginiom podwodnym:
+    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
+    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
+    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -1108,7 +1420,21 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     Prahą, bet imperatoriaus Vaclovo di­
     delių pastangų dėka buvo susitarta
     taikytis.
-  citata_rodoma: "Tokios atkaklios Moskoževskio gynybos aplin­\nkybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­\nriaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi \nir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­\nimtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema \ngrėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti \natgal į Prūsiją. Be to, dar Skirgaila sutelkė likučius ir ėmė pul­\ndinėti priešą iš užnugario, pasalūniškai; tad visai nusigalavę,\n32\nTa dvikova neįvyko: abi pusės, nors \nir buvo atvykusios sutartu laiku į \nPrahą, bet imperatoriaus Vaclovo di­\ndelių pastangų dėka buvo susitarta \ntaikytis."
+  citata_rodoma: |
+    Tokios atkaklios Moskoževskio gynybos aplin­
+    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
+    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
+    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
+    imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
+    grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
+    atgal į Prūsiją. Be to, dar Skirgaila sutelkė likučius ir ėmė pul­
+    dinėti priešą iš užnugario, pasalūniškai; tad visai nusigalavę,
+    32
+    Ta dvikova neįvyko: abi pusės, nors
+    ir buvo atvykusios sutartu laiku į
+    Prahą, bet imperatoriaus Vaclovo di­
+    delių pastangų dėka buvo susitarta
+    taikytis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1131,14 +1457,23 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     lietuviai taria „Niaris" ir sako, esą
     lenkiškai jų puikioji upė vadinama
     Wilja.
-  citata_rodoma: "Prūsijos dokumen­\ntuose dar XIII amžiuje ji vadinta Ne­\nria. Tad, manau, jog lietuviai seniau \nvadino Vilija, Neris arba Neria to­\ndėl, kad ši upė išrausė sau gilią va­\ngą, suformuodama aukštas smėlin­\ngas pakrantes. Mūsų kaimiečiai \nlietuviai taria „Niaris\" ir sako, esą \nlenkiškai jų puikioji upė vadinama \nWilja."
+  citata_rodoma: |
+    Prūsijos dokumen­
+    tuose dar XIII amžiuje ji vadinta Ne­
+    ria. Tad, manau, jog lietuviai seniau
+    vadino Vilija, Neris arba Neria to­
+    dėl, kad ši upė išrausė sau gilią va­
+    gą, suformuodama aukštas smėlin­
+    gas pakrantes. Mūsų kaimiečiai
+    lietuviai taria „Niaris" ir sako, esą
+    lenkiškai jų puikioji upė vadinama
+    Wilja.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195105
 - id: c-177506
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1153,7 +1488,16 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     tiniai Vižūnai, seniau ten stovėjusi
     pilis, prūsų vadinta Wissewalde, ties
     Nerimi, arba Vilija, buvusi...
-  citata_rodoma: "25\nLatopisiec Litewski, leidžiamas p. D a- \nn i 1  o v i č i a u s, 1.45 pasakoja, kad \ntas mūšis vykęs prie Vilijos upės: ties \nHorodoku, vietovėje, vadinamoje \nWeyiszczuszki. Tai tikriausiai dabar­\ntiniai Vižūnai, seniau ten stovėjusi \npilis, prūsų vadinta Wissewalde, ties \nNerimi, arba Vilija, buvusi..."
+  citata_rodoma: |
+    25
+    Latopisiec Litewski, leidžiamas p. D a-
+    n i 1  o v i č i a u s, 1.45 pasakoja, kad
+    tas mūšis vykęs prie Vilijos upės: ties
+    Horodoku, vietovėje, vadinamoje
+    Weyiszczuszki. Tai tikriausiai dabar­
+    tiniai Vižūnai, seniau ten stovėjusi
+    pilis, prūsų vadinta Wissewalde, ties
+    Nerimi, arba Vilija, buvusi...
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

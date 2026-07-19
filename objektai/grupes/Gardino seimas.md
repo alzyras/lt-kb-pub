@@ -134,7 +134,9 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
     su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
     Tam tikslui Gardine buvo sušauktas seimas.
-  citata_rodoma: "su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.\nTam tikslui Gardine buvo sušauktas seimas."
+  citata_rodoma: |
+    su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
+    Tam tikslui Gardine buvo sušauktas seimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +155,9 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
     buvusi po I padalinimo. Buvo atgaivinta Nuolatinė Taryba ir
     tada veikusios karo ir iždo komisijos.
-  citata_rodoma: "Buvo atgaivinta Nuolatinė Taryba ir\ntada veikusios karo ir iždo komisijos."
+  citata_rodoma: |
+    Buvo atgaivinta Nuolatinė Taryba ir
+    tada veikusios karo ir iždo komisijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -173,7 +177,9 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     Rusija norėjo sugrąžinti tokią tvarką, kokia buvo po I padali-
     nimo. Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
     padaryti.
-  citata_rodoma: "Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai\npadaryti."
+  citata_rodoma: |
+    Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
+    padaryti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

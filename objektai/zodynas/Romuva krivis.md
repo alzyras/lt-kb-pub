@@ -102,7 +102,10 @@ media_all_json: |-
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a. susiformavo
     Lietuvos giria iš A. Grottgerio piešinių ciklo
     „Litwa“, 1864–1866 m.
-  citata_rodoma: "Ro-\nmuvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su \nLietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a."
+  citata_rodoma: |
+    Ro-
+    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
+    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

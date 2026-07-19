@@ -65,7 +65,13 @@ Trumpojoje Lietuvos metraščių redakcijoje (xv a.
     telkęs savo lietuvių pajėgas, žygiuoda-
     mas Padniepre pro Kanevą, Čerkasus, ties
     Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: "Trumpojoje Lietuvos\nmetraščių redakcijoje (xv a. 4-5 de-\nšimtmečiai) įrašytas „Pasakojimas apie\nPodolę“ - plačiausiai kalbantis šaltinis\nšia tema. Istorinė tradicija (jai atstovauja\nM."
+  citata_rodoma: |
+    Trumpojoje Lietuvos
+    metraščių redakcijoje (xv a. 4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema. Istorinė tradicija (jai atstovauja
+    M.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

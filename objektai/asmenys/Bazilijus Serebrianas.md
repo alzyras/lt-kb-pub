@@ -79,7 +79,13 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     iš Polocko traukė į Drucką. Čia jos turėjo
     susijungti ir pulti Minsko, Naugarduko, o
     vėliau Vilniaus kryptimi.
-  citata_rodoma: "Viena jų, vadovaujama\nkunigaikščio Baziliaus Serebriano, pajudėjo\niš Smolensko, kita, vadovaujama patyru-\nsio karvedžio kunigaikščio Petro Šuiskio,\n\niš Polocko traukė į Drucką."
+  citata_rodoma: |
+    Viena jų, vadovaujama
+    kunigaikščio Baziliaus Serebriano, pajudėjo
+    iš Smolensko, kita, vadovaujama patyru-
+    sio karvedžio kunigaikščio Petro Šuiskio,
+
+    iš Polocko traukė į Drucką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

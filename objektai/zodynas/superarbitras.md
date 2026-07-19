@@ -65,7 +65,15 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
     raliui Zigmantui, neseniai tik tapusiam Romos ciesorium^3 ), pas
     kurį taikingiems santykiams užmegsti Vytautas buvo išvykęs dar
     prieš savo kelionę į rusų kraštus.
-  citata_rodoma: "Dobrynės\nir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių\npasirinktiems arbitrams, o didesniuose nesusipratimuose nutar­\nta kreiptis į popiežių, kaip į superarbitrų^2 ). Ši tarpininko arba\nsuperarbitro rolė jau į antrą mėnesį buvo pavesta Vengrijos ka­\nraliui Zigmantui, neseniai tik tapusiam Romos ciesorium^3 ), pas\nkurį taikingiems santykiams užmegsti Vytautas buvo išvykęs dar\nprieš savo kelionę į rusų kraštus."
+  citata_rodoma: |
+    Dobrynės
+    ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių
+    pasirinktiems arbitrams, o didesniuose nesusipratimuose nutar­
+    ta kreiptis į popiežių, kaip į superarbitrų^2 ). Ši tarpininko arba
+    superarbitro rolė jau į antrą mėnesį buvo pavesta Vengrijos ka­
+    raliui Zigmantui, neseniai tik tapusiam Romos ciesorium^3 ), pas
+    kurį taikingiems santykiams užmegsti Vytautas buvo išvykęs dar
+    prieš savo kelionę į rusų kraštus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

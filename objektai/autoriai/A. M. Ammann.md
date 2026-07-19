@@ -69,7 +69,10 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
     V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).**
     (^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**
     (^63) **CEV, 205 p.**
-  citata_rodoma: "**\n(^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**\n(^63) **CEV, 205 p."
+  citata_rodoma: |
+    **
+    (^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**
+    (^63) **CEV, 205 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

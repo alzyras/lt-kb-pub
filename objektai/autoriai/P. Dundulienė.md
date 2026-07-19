@@ -75,7 +75,10 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
     torių aprašymas_ (1963) ir _Rankraščių rinkiniai Lietuvos T. S. R.
     Mokslų Akademijos Centrinės bibliotekos XI-XX amžių rankraščių
     fondų trumpa apžvalga_ (1963).
-  citata_rodoma: "Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­\nmais rašė istorikai: P. Dundulienė: _Žemdirbystė Lietuvoje\n(nuo seniausia laiku iki 1917 metu)_ (1963)^113 ; R."
+  citata_rodoma: |
+    Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­
+    mais rašė istorikai: P. Dundulienė: _Žemdirbystė Lietuvoje
+    (nuo seniausia laiku iki 1917 metu)_ (1963)^113 ; R.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

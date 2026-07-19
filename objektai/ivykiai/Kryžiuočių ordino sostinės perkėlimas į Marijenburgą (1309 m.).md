@@ -83,7 +83,12 @@ Nenurodyta
     Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
     didysis magistras. Tuo būdu Marijenburgas pasidarė ordino
     sostinė.
-  citata_rodoma: "Todėl 1309 m. didysis ma-\ngistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.\nPrūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai\ndidysis magistras. Tuo būdu Marijenburgas pasidarė ordino\nsostinė."
+  citata_rodoma: |
+    Todėl 1309 m. didysis ma-
+    gistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.
+    Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
+    didysis magistras. Tuo būdu Marijenburgas pasidarė ordino
+    sostinė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -71,7 +71,10 @@ media_all_json: |-
     bajorais, XVIII a._** **(AkMD, t. 7, 1959, 91-103 p.) ;** **_Patriarchaliniai vergai
     Lietuvoje_** **(AkMD, t. 8, 1960, 75-91 p.) ; parašė knygą** **_Renesansas ir huma­
     nizmas Lietuvoje_** **(1965)** **_; Istorija ir poezija_** **(1969) ; apie baudžiavą (JurB) ;**
-  citata_rodoma: ");** **_Valstiečių_** **«** **_tarnyba_** **» -** **_feodalinio prievolių vienetas iki valakų įve­\ndimo Lietuvoje_** **(AkMD, t. 3, 1957, 93-103 p.) ;** **_Lietuvos valstiečiai, vadinti\nbajorais, XVIII a."
+  citata_rodoma: |
+    );** **_Valstiečių_** **«** **_tarnyba_** **» -** **_feodalinio prievolių vienetas iki valakų įve­
+    dimo Lietuvoje_** **(AkMD, t. 3, 1957, 93-103 p.) ;** **_Lietuvos valstiečiai, vadinti
+    bajorais, XVIII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -62,7 +62,12 @@ Sensacingiausias kelionių romanas. Prie romano pridėta: 1.
     liestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su
     pažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­
     se būta.
-  citata_rodoma: "Prie romano pridėta: 1. trumpas geografiškas ir istoriškas pa­\naiškinimas apie arabus, turkus, kurdus ir kitas šiame romane pa­\nliestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su\npažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­\nse būta."
+  citata_rodoma: |
+    Prie romano pridėta: 1. trumpas geografiškas ir istoriškas pa­
+    aiškinimas apie arabus, turkus, kurdus ir kitas šiame romane pa­
+    liestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su
+    pažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­
+    se būta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

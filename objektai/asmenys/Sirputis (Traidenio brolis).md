@@ -133,8 +133,22 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
     Lenkiją.
 
     Tuo metu dar vyko Didysis
-    prūsų sukilimas (1260-1274 m.)
-  citata_rodoma: "Senovės lietuvių tradicijų\nbesilaikantis Traidenis didžiau-\nsias pastangas sutelkė gynybai\nnuo kryžiuočių, o savo broliams,\npriėmusiems graikų stačiatikių ti-\nkėjimą, buvo pavedes pietrytinių\nvaldų ribų apsaugą. Rytų krikščio-\nnybę taip pat perėmęs ketvirtasis\nTraidenio brolis Sirputis Lietuvos\nvaldovo pavedimu veikė prieš\nLenkiją.\n\nTuo metu dar vyko Didysis\nprūsų sukilimas (1260-1274 m."
+    prūsų sukilimas (1260-1274 m.
+  citata_rodoma: |
+    Senovės lietuvių tradicijų
+    besilaikantis Traidenis didžiau-
+    sias pastangas sutelkė gynybai
+    nuo kryžiuočių, o savo broliams,
+    priėmusiems graikų stačiatikių ti-
+    kėjimą, buvo pavedes pietrytinių
+    valdų ribų apsaugą. Rytų krikščio-
+    nybę taip pat perėmęs ketvirtasis
+    Traidenio brolis Sirputis Lietuvos
+    valdovo pavedimu veikė prieš
+    Lenkiją.
+
+    Tuo metu dar vyko Didysis
+    prūsų sukilimas (1260-1274 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

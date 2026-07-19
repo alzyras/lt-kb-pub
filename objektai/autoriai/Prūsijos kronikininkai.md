@@ -138,7 +138,12 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
     ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
     yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
     lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-  citata_rodoma: "Šie dievaičiai atitinka Antikos Paną.\nPrūsijos kronikininkų, besivadovaujančių Olafo Didžiojo\n„Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­\nviai perėmę iš skandinavų.\n30 Stenden Lettische Grammatik."
+  citata_rodoma: |
+    Šie dievaičiai atitinka Antikos Paną.
+    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
+    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
+    viai perėmę iš skandinavų.
+    30 Stenden Lettische Grammatik.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -162,7 +167,20 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
     Atlaibas (Atlajhos)
     Būdvardis Lajbas reiškia plonas, dailus, nežinomu menu
     sukurtas, paslaptingas .
-  citata_rodoma: "Iš čia slap­\ntos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas\n197\n\n## Puslapis 197\n\nišvardija net aštuonetą. Prūsijos kronikininkai be perstojo kar­\ntoja, kad stabmeldžiai slepią tam tikras religines apeigas.\nNegaliu paneigti nuomonės, kad lietuviai yra turėję religi­\nnių paslapčių; priešingai, manau, kad lietuviai nebūtų galėję\nbe jų apsieiti, kadangi kiekviena daugiadieviška religija, pa­\nsiekusi tam tikrą vystymosi pakopą, net iki juokingumo apau­\nga prietarais, keistenybėmis."
+  citata_rodoma: |
+    Iš čia slap­
+    tos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas
+    197
+
+    ## Puslapis 197
+
+    išvardija net aštuonetą. Prūsijos kronikininkai be perstojo kar­
+    toja, kad stabmeldžiai slepią tam tikras religines apeigas.
+    Negaliu paneigti nuomonės, kad lietuviai yra turėję religi­
+    nių paslapčių; priešingai, manau, kad lietuviai nebūtų galėję
+    be jų apsieiti, kadangi kiekviena daugiadieviška religija, pa­
+    siekusi tam tikrą vystymosi pakopą, net iki juokingumo apau­
+    ga prietarais, keistenybėmis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

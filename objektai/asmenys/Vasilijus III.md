@@ -61,7 +61,13 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 
     vėl atiteko Mstislavlis, Dubrovnos,
     Kryčevo pilys.
-  citata_rodoma: "Išgirdęs apie pralaimėjimą,\nVasilijus 111 palikęs įgulą pasi-\ntraukė iš Smolensko. Lietuvai\n\nvėl atiteko Mstislavlis, Dubrovnos,\nKryčevo pilys."
+  citata_rodoma: |
+    Išgirdęs apie pralaimėjimą,
+    Vasilijus 111 palikęs įgulą pasi-
+    traukė iš Smolensko. Lietuvai
+
+    vėl atiteko Mstislavlis, Dubrovnos,
+    Kryčevo pilys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

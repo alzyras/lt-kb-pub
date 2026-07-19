@@ -84,10 +84,13 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    p. 180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie
+    180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie
 
-    lėktuvo LVG C. VI, VDKM.
-  citata_rodoma: "180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie\n\nlėktuvo LVG C."
+    lėktuvo LVG C.
+  citata_rodoma: |
+    180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie
+
+    lėktuvo LVG C.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

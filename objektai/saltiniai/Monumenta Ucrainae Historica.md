@@ -90,7 +90,10 @@ media_all_json: |-
     1964-1975, red.** **_V._** **Jatulis.**
     (^151) **M. Zeiller :** **_Neue Beschreibung des Königreiches Polen und Gross -
     herzogthums Lithauen,_** **Ulm 1647.
-  citata_rodoma: "**\n(^150) **A. Šeptyckyj :** **_Monumenta Ucrainae Historica,_** **t. I-XII, Roma\n1964-1975, red.** **_V._** **Jatulis."
+  citata_rodoma: |
+    **
+    (^150) **A. Šeptyckyj :** **_Monumenta Ucrainae Historica,_** **t. I-XII, Roma
+    1964-1975, red.** **_V._** **Jatulis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -111,7 +114,12 @@ media_all_json: |-
     Mūsų kaimynams Vokiečiams aišku labiausiai rūpėjo
     vokiečių ordino karo žygiai į Lietuvą ir nuo XVI a. Prūsų Kuni­
     gaikštystės santykiai su ja.
-  citata_rodoma: "Welykyj parūpino\nper 40 tomų tėvų bazilijonų leidžiamų knygų149 150 o kardinolas J.\nSlipyj išleido savo pirmtako metropolito A. Šeptyckio surinktų\ndokumentų rinkinį _Monumenta Ucrainae Historica_^150 ; šiuose leidi­\nniuose apstu medžiagos apie istorinę Lietuvą ir lietuvius."
+  citata_rodoma: |
+    Welykyj parūpino
+    per 40 tomų tėvų bazilijonų leidžiamų knygų149 150 o kardinolas J.
+    Slipyj išleido savo pirmtako metropolito A. Šeptyckio surinktų
+    dokumentų rinkinį _Monumenta Ucrainae Historica_^150 ; šiuose leidi­
+    niuose apstu medžiagos apie istorinę Lietuvą ir lietuvius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

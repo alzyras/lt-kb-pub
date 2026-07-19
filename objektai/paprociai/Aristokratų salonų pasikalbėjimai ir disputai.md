@@ -65,7 +65,9 @@ Nenurodyta
     tvarkos, valstybės ir ūkio klausimais. Visi tuo domėjosi, visi apie tai
     tekalbėjo. Vietoj senųjų aristokratijos turnyrų, o kartais net vietoj
     medžioklių, salionuose buvo ruošiami pasikalbėjimai ir disputai.
-  citata_rodoma: "Vietoj senųjų aristokratijos turnyrų, o kartais net vietoj\nmedžioklių, salionuose buvo ruošiami pasikalbėjimai ir disputai."
+  citata_rodoma: |
+    Vietoj senųjų aristokratijos turnyrų, o kartais net vietoj
+    medžioklių, salionuose buvo ruošiami pasikalbėjimai ir disputai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -192,7 +192,10 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,
     kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
     naują laikotarpį.
-  citata_rodoma: "Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,\nkuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė\nnaują laikotarpį."
+  citata_rodoma: |
+    Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,
+    kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
+    naują laikotarpį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -236,7 +239,10 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
-  citata_rodoma: "Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,\n  atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį\n  (1706 m.)."
+  citata_rodoma: |
+    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
+      atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
+      (1706 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -260,7 +266,13 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     tis valdovus ir paskelbė jį absoliutiškai val-
     dančiu didžiuoju Lietuvos kunigaikščiu su
     paveldėjamąja teise.
-  citata_rodoma: "Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net\n  buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos\n  Lietuvos vardu atsižadėjo savo teisių rink-\n  tis valdovus ir paskelbė jį absoliutiškai val-\n  dančiu didžiuoju Lietuvos kunigaikščiu su\n  paveldėjamąja teise."
+  citata_rodoma: |
+    Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net
+      buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos
+      Lietuvos vardu atsižadėjo savo teisių rink-
+      tis valdovus ir paskelbė jį absoliutiškai val-
+      dančiu didžiuoju Lietuvos kunigaikščiu su
+      paveldėjamąja teise.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -299,7 +311,12 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
     tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
     go kunigaikštį.
-  citata_rodoma: "Kai Augustas II su Petru I padarė sutartį\n  atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo\n  jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-\n  tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-\n  go kunigaikštį."
+  citata_rodoma: |
+    Kai Augustas II su Petru I padarė sutartį
+      atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
+      jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
+      tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
+      go kunigaikštį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -318,7 +335,13 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 
     bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis
     siekė ATR paversti absoliutine monarchija.
-  citata_rodoma: "buvo išrinktas am- Lietuvos, bet ir Lenkijos teritorijos. Dalis ATR aristokratijos reika-\n\nnetgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos\n\nbicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis\nsiekė ATR paversti absoliutine monarchija."
+  citata_rodoma: |
+    buvo išrinktas am- Lietuvos, bet ir Lenkijos teritorijos. Dalis ATR aristokratijos reika-
+
+    netgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos
+
+    bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis
+    siekė ATR paversti absoliutine monarchija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

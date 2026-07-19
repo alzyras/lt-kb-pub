@@ -220,7 +220,25 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
     nei ietimis, nei strėlėmis, o
     jis pats neturėjo nė vieno di­
     desnio laivo.
-  citata_rodoma: "J 63\n\n## Puslapis 162\n\nkariuomene skuba lietuviai, norėdami pralaužti apsup­\ntį, jie ėmė šaukti, kad štai čia pat priešas, metė supę\npilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,\nsužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-\nnas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies\nįgulą ir išgabeno vertingiausius daiktus; priešas, už­\nėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­\ndrįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės\nkomtūras, ieškodamas progos karui ar pataikaudamas,\nkaip priduria senieji rašytojai, kažkokiam iš Vienos\nkilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­\ntą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­\nmunu prieš srovę į Lietuvą, ir jau buvo bepraplaukią\nKolainių pilį, Surmino iš naujo atstatytą."
+  citata_rodoma: |
+    J 63
+
+    ## Puslapis 162
+
+    kariuomene skuba lietuviai, norėdami pralaužti apsup­
+    tį, jie ėmė šaukti, kad štai čia pat priešas, metė supę
+    pilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,
+    sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
+    nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
+    įgulą ir išgabeno vertingiausius daiktus; priešas, už­
+    ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­
+    drįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės
+    komtūras, ieškodamas progos karui ar pataikaudamas,
+    kaip priduria senieji rašytojai, kažkokiam iš Vienos
+    kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
+    tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
+    munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
+    Kolainių pilį, Surmino iš naujo atstatytą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

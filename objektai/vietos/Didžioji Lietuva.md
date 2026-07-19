@@ -141,7 +141,13 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: "Kai 1914 m. \nliepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-\nšė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-\nta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, \nesančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-\ntuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo."
+  citata_rodoma: |
+    Kai 1914 m.
+    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
+    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
+    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
+    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
+    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

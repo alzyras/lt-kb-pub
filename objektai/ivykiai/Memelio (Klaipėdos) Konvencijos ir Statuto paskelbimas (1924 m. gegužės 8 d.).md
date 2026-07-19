@@ -113,7 +113,8 @@ Nenurodyta
     1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
     autonomine Lietuvos dalimi.
-  citata_rodoma: "naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną"
+  citata_rodoma: |
+    naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

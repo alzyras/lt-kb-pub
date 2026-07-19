@@ -82,7 +82,14 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     mjr. P. Vivulskį ir žuvus ba-
     talionų vadams majorams
     Antonievičiui, B. Žarskiui.
-  citata_rodoma: "Atkakliai priešindamiesi\nsukilėliai išsilaikė dvi valan-\ndas, tačiau jų veiksmai pakriko\nsužeidus vadą Z. Sierakauską,\nmjr. P. Vivulskį ir žuvus ba-\ntalionų vadams majorams\nAntonievičiui, B. Žarskiui."
+  citata_rodoma: |
+    Atkakliai priešindamiesi
+    sukilėliai išsilaikė dvi valan-
+    das, tačiau jų veiksmai pakriko
+    sužeidus vadą Z. Sierakauską,
+    mjr. P. Vivulskį ir žuvus ba-
+    talionų vadams majorams
+    Antonievičiui, B. Žarskiui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +113,15 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     stovėjo P. Vivulskio dalginin-
     kai ir dvi rezervinės 4-tojo ba-
     taliono kuopos.
-  citata_rodoma: "Kairiame sparne stovėjo\nB. Kolyškos bei M. Stanišausko\nbatalionai, centre pozici-\njas užsiėmė Antonievičius ir\nD. Maleckis, dešiniajame sparne\nstovėjo P. Vivulskio dalginin-\nkai ir dvi rezervinės 4-tojo ba-\ntaliono kuopos."
+  citata_rodoma: |
+    Kairiame sparne stovėjo
+    B. Kolyškos bei M. Stanišausko
+    batalionai, centre pozici-
+    jas užsiėmė Antonievičius ir
+    D. Maleckis, dešiniajame sparne
+    stovėjo P. Vivulskio dalginin-
+    kai ir dvi rezervinės 4-tojo ba-
+    taliono kuopos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

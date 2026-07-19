@@ -74,7 +74,8 @@ Nenurodyta
     tos pačios priežasties nesiryžo. Buvo labai išlaidus ir duodavosi iš-
     naudojamas visokiems intrigantams. Todėl jam nuolat trūko pini-
     gų; bet iš tėvų gautas brangenybes jis vis dėlto išsaugojo.
-  citata_rodoma: "Zigmanto Augusto antkapis Krokuvos katedroje."
+  citata_rodoma: |
+    Zigmanto Augusto antkapis Krokuvos katedroje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

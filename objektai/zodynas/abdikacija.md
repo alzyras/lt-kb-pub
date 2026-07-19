@@ -91,7 +91,9 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
     valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
-  citata_rodoma: "Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-\nmo) aktas."
+  citata_rodoma: |
+    Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
+    mo) aktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

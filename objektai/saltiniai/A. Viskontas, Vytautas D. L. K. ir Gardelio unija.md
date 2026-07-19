@@ -64,7 +64,10 @@ media_all_json: |-
     — Šapoka, A. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_
     rink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_
     D. L. K. ir Gardelio unija, Lietuvių Tauta, IV.
-  citata_rodoma: ": _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_\nrink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_\nD. L. K. ir Gardelio unija, Lietuvių Tauta, IV."
+  citata_rodoma: |
+    : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_
+    rink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_
+    D. L. K. ir Gardelio unija, Lietuvių Tauta, IV.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

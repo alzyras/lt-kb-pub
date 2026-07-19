@@ -188,7 +188,21 @@ Nenurodyta
     1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-
     nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
     siją - AKM.
-  citata_rodoma: "Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų\nsnaiperiniuose šautuvuose ir kulkosvaidžiuose\n\nšovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario\nnešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant\nautomatine ugnimi (sutrumpinti šoviniai pradėti naudoti Antrojo\npasaulinio karo laikais jav (Garand) ir Vokietijoje (stG 44)).\n\nKalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-\nprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,\ntai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai\npaplito po visą pasaulį.\n\n1959 m."
+  citata_rodoma: |
+    Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų
+    snaiperiniuose šautuvuose ir kulkosvaidžiuose
+
+    šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario
+    nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant
+    automatine ugnimi (sutrumpinti šoviniai pradėti naudoti Antrojo
+    pasaulinio karo laikais jav (Garand) ir Vokietijoje (stG 44)).
+
+    Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
+    prasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,
+    tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai
+    paplito po visą pasaulį.
+
+    1959 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

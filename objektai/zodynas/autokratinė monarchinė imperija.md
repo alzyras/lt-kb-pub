@@ -122,7 +122,17 @@ media_all_json: |-
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
-  citata_rodoma: "Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai\ngebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“\nImmanuel Kant (1724–1804)\nIš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir\n vokiečių–lietuvių kalbų žodyno“ pratarmės\nŠ\niuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)\npriklausė autokratinei Rusijos imperijai (išskyrus pus-\nmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-\nliudą“)."
+  citata_rodoma: |
+    Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
+    gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“
+    Immanuel Kant (1724–1804)
+    Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir
+     vokiečių–lietuvių kalbų žodyno“ pratarmės
+    Š
+    iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)
+    priklausė autokratinei Rusijos imperijai (išskyrus pus-
+    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
+    liudą“).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -148,7 +158,10 @@ media_all_json: |-
     ratą. Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
     riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
     iš centro arba kitų gubernijų.
-  citata_rodoma: "Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-\nriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas\niš centro arba kitų gubernijų."
+  citata_rodoma: |
+    Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
+    riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
+    iš centro arba kitų gubernijų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

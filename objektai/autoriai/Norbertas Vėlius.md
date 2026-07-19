@@ -167,7 +167,24 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: "Wilno, naktadem i drukiem\nA. Marcinowskicgo, 1835.\nR edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS\nDailininkas ALFONSAS ŽVILIUS\nIš lenkų ir lotynų kalbų vertė RIMANTAS JASAS\nSpecialioji redaktorė REDA GRIŠKAITĖ\nISBN 5-417-00765-Х\nISBN 5-417-00766-8\nVertimas, Rimantas Jasas, 1992, 1998\nĮvedamasis straipsnis,\nVytautas Berenis, 1992, 1998\nĮvedamasis straipsnis,\nNorbertas Vėlius, 1992, 1998\nĮvedamasis straipsnis, paaiškinimai,\npapildymų vertimas, Reda Griškaitė,"
+  citata_rodoma: |
+    Wilno, naktadem i drukiem
+    A. Marcinowskicgo, 1835.
+    R edaktorių kolegija:
+    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
+    A. TYLA] N. VĖLIUS,! V. VISOCKAS
+    Dailininkas ALFONSAS ŽVILIUS
+    Iš lenkų ir lotynų kalbų vertė RIMANTAS JASAS
+    Specialioji redaktorė REDA GRIŠKAITĖ
+    ISBN 5-417-00765-Х
+    ISBN 5-417-00766-8
+    Vertimas, Rimantas Jasas, 1992, 1998
+    Įvedamasis straipsnis,
+    Vytautas Berenis, 1992, 1998
+    Įvedamasis straipsnis,
+    Norbertas Vėlius, 1992, 1998
+    Įvedamasis straipsnis, paaiškinimai,
+    papildymų vertimas, Reda Griškaitė,
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -186,7 +203,12 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
     rašoma, kad žmonės sveikatos prašyti eina prie žynių. XVII a. 1-oje pusėje Įsrutiės ir
     kitose lietuviškose Rytprūsių apylinkėse buvę daug burtininkų (tiek vyrų, tiek moterų),
     pas kuriuos žmonės miniomis plūsdavę (Vėlius N., Mitinės..., p. 233—252).
-  citata_rodoma: "202 D. prophetissa — tai burtininkė, žynė, padedanti žmonėms; gydanti žmones\nar galvijus, spėjanti ateitį ir pan. J. Bretkūno ir M. Daukšos postilėse (1591 ir 1599)\nrašoma, kad žmonės sveikatos prašyti eina prie žynių. XVII a. 1-oje pusėje Įsrutiės ir\nkitose lietuviškose Rytprūsių apylinkėse buvę daug burtininkų (tiek vyrų, tiek moterų),\npas kuriuos žmonės miniomis plūsdavę (Vėlius N., Mitinės..., p. 233—252)."
+  citata_rodoma: |
+    202 D. prophetissa — tai burtininkė, žynė, padedanti žmonėms; gydanti žmones
+    ar galvijus, spėjanti ateitį ir pan. J. Bretkūno ir M. Daukšos postilėse (1591 ir 1599)
+    rašoma, kad žmonės sveikatos prašyti eina prie žynių. XVII a. 1-oje pusėje Įsrutiės ir
+    kitose lietuviškose Rytprūsių apylinkėse buvę daug burtininkų (tiek vyrų, tiek moterų),
+    pas kuriuos žmonės miniomis plūsdavę (Vėlius N., Mitinės..., p. 233—252).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

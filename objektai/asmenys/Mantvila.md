@@ -115,10 +115,21 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
     gaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui
     Erdvilai, pasiuntė su juo savo tarybos ponus — pirmą
-    Stulpų herbo poną, vardu Grumbįl0, o antrą Meškos
+    Stulpų herbo poną, vardu Grumbįl0 , o antrą Meškos
     herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
-    ž įl2.
-  citata_rodoma: "Ir jis sušaukė ka­\nrius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­\nno Drucko miestą ir pasivadino Drucko didžiuoju ku­\nnigaikščiu s.\nO tuo laiku Žemaičių didysis kunigaikštis Mantvila \nsužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­\ngaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui \nErdvilai, pasiuntė su juo savo tarybos ponus — pirmą \nStulpų herbo poną, vardu Grumbįl0 , o antrą Meškos \nherbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau- \nž įl2 ."
+    ž įl2 .
+  citata_rodoma: |
+    Ir jis sušaukė ka­
+    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
+    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
+    nigaikščiu s.
+    O tuo laiku Žemaičių didysis kunigaikštis Mantvila
+    sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
+    gaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui
+    Erdvilai, pasiuntė su juo savo tarybos ponus — pirmą
+    Stulpų herbo poną, vardu Grumbįl0 , o antrą Meškos
+    herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
+    ž įl2 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

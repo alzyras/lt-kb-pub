@@ -118,7 +118,10 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
     žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
     to arba svarbesnė pilis buvo Salava, be to, manoma,
     kad Tilžės apylinkėse.
-  citata_rodoma: "Pavadinimas kilęs iš lietuviško\nžodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­\ntinčia žeme."
+  citata_rodoma: |
+    Pavadinimas kilęs iš lietuviško
+    žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­
+    tinčia žeme.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -116,7 +116,12 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
     vį" (nuo 1849 iki 1880 m.). Jį redagavo didelis lietuvių kalbos
     žinovas, Karaliaučiaus lietuvių seminarijos profesorius Kur-
     šaitis.
-  citata_rodoma: "Centro valdžia, norėdama palaikyti šitą lietuvių prisi-\nrišimą, leido jiems Karaliaučiuje net lietuvišką laikraštį „Kelei-\nvį\" (nuo 1849 iki 1880 m.). Jį redagavo didelis lietuvių kalbos\nžinovas, Karaliaučiaus lietuvių seminarijos profesorius Kur-\nšaitis."
+  citata_rodoma: |
+    Centro valdžia, norėdama palaikyti šitą lietuvių prisi-
+    rišimą, leido jiems Karaliaučiuje net lietuvišką laikraštį „Kelei-
+    vį" (nuo 1849 iki 1880 m.). Jį redagavo didelis lietuvių kalbos
+    žinovas, Karaliaučiaus lietuvių seminarijos profesorius Kur-
+    šaitis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +141,9 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
     buvo ir svetima: jie jautėsi esą ištikimi savo karaliaus valdiniai,
     jokios politinės kovos neprivalą. Tad veltui Kuršaičio „Ke-
     leivis" šaukdavo lietuvius uoliai dalyvauti rinkimuose.
-  citata_rodoma: "Tad veltui Kuršaičio „Ke-\nleivis\" šaukdavo lietuvius uoliai dalyvauti rinkimuose."
+  citata_rodoma: |
+    Tad veltui Kuršaičio „Ke-
+    leivis" šaukdavo lietuvius uoliai dalyvauti rinkimuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -157,7 +164,12 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
     tam tikslui, kad užkirstų kelią tuo metu lietuvių tarpe plintan-
     čioms, Prūsų karalystėje įsigalėjusioms revoliucinėms idėjoms;
     todėl jis palaikė prūsiškąjį patriotizmą ir monarchizmą.
-  citata_rodoma: "Daugiau įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios pa-\nrama prof. Kuršaičio leistasai „Keleivis\". Jis buvo leidžiamas\ntam tikslui, kad užkirstų kelią tuo metu lietuvių tarpe plintan-\nčioms, Prūsų karalystėje įsigalėjusioms revoliucinėms idėjoms;\ntodėl jis palaikė prūsiškąjį patriotizmą ir monarchizmą."
+  citata_rodoma: |
+    Daugiau įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios pa-
+    rama prof. Kuršaičio leistasai „Keleivis". Jis buvo leidžiamas
+    tam tikslui, kad užkirstų kelią tuo metu lietuvių tarpe plintan-
+    čioms, Prūsų karalystėje įsigalėjusioms revoliucinėms idėjoms;
+    todėl jis palaikė prūsiškąjį patriotizmą ir monarchizmą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

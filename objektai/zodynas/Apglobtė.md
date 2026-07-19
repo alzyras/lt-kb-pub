@@ -85,7 +85,12 @@ Narbutas apglobte (Abglojte) vadino senovės prūsų nuometą reiškusį jaunosi
     tokių žodžių. Kiek stengėmės aptikti tokių dalykų šių dienų
     lietuviuose, šitaip suslavėjusiuose, niekad ir niekur negalėjo­
     me to pastebėti.
-  citata_rodoma: "Visa tai trukdavo iki vėlyvos nakties.\nPrieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­\nvos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­\nkišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-\nglobtė (Abglojte), kas reiškia nuometą."
+  citata_rodoma: |
+    Visa tai trukdavo iki vėlyvos nakties.
+    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
+    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
+    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
+    globtė (Abglojte), kas reiškia nuometą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

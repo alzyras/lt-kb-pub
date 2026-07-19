@@ -132,7 +132,7 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
+    1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
     didesnė dalis Livonijos tapo Lietuvos dalimi
 
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
@@ -143,7 +143,18 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
     vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
 
     Gardino vaizdas.
-  citata_rodoma: "1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir\nLietuvos kariuomenių struktūrą:\n\n„Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-\ntui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai\nvadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;\n\nGardino vaizdas."
+  citata_rodoma: |
+    1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
+    didesnė dalis Livonijos tapo Lietuvos dalimi
+
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
+    Lietuvos kariuomenių struktūrą:
+
+    „Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-
+    tui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai
+    vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
+
+    Gardino vaizdas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

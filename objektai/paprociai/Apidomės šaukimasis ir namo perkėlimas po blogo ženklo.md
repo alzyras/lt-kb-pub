@@ -125,7 +125,13 @@ Nenurodyta
     tis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­
     siai - čia yra visa, ką gali mimo fantazija. Tačiau yra vaidinimų,
     turinčių tam tikrą planą ir tikslą.
-  citata_rodoma: "Šiuo\natveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys\ngimdavo aklas arba su kokia baisia yda. Šitaip nutikus, būda­\nvo iškilmingai šaukiamasi dievaičio Apydėmės (Apidonu), ku­\nriam kaip auka su ypatingomis apeigomis būdavo kepama duo­\nna (Donas), po to namą perkeldavo į kitą vietą."
+  citata_rodoma: |
+    Šiuo
+    atveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys
+    gimdavo aklas arba su kokia baisia yda. Šitaip nutikus, būda­
+    vo iškilmingai šaukiamasi dievaičio Apydėmės (Apidonu), ku­
+    riam kaip auka su ypatingomis apeigomis būdavo kepama duo­
+    na (Donas), po to namą perkeldavo į kitą vietą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -186,7 +186,15 @@ media_all_json: |-
     Pabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­
     vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
     likimui.
-  citata_rodoma: "Žygimantas, no­\nrėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus\nnarsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio\nlauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­\ntorija ir toje vietoje pastatė parapijos bažnyčią22. Ši svarbi\nPabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­\nvos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos\nlikimui."
+  citata_rodoma: |
+    Žygimantas, no­
+    rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus
+    narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio
+    lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­
+    torija ir toje vietoje pastatė parapijos bažnyčią22. Ši svarbi
+    Pabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­
+    vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
+    likimui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +225,18 @@ media_all_json: |-
     niaus į Ukmergę einančio pašto trak­
     to į kairę per 2 varstus, per pusę
     mylios už Kščeniškių.
-  citata_rodoma: "Pabaisko vietovė \nkalvota, tačiau atvira, o ten, kur da­\nbar iškilusi nauja mūrinė bažnyčia, \nnetgi gana graži. Žemė derlinga, \nViktorijos upelis, nors mažas, bet \nvertas gražaus vardo. Pabaiskas yra \nparapijos kaimas, priklausantis vie­\ntiniam klebonui ir nutolęs nuo iš Vil­\nniaus į Ukmergę einančio pašto trak­\nto į kairę per 2 varstus, per pusę \nmylios už Kščeniškių."
+  citata_rodoma: |
+    Pabaisko vietovė
+    kalvota, tačiau atvira, o ten, kur da­
+    bar iškilusi nauja mūrinė bažnyčia,
+    netgi gana graži. Žemė derlinga,
+    Viktorijos upelis, nors mažas, bet
+    vertas gražaus vardo. Pabaiskas yra
+    parapijos kaimas, priklausantis vie­
+    tiniam klebonui ir nutolęs nuo iš Vil­
+    niaus į Ukmergę einančio pašto trak­
+    to į kairę per 2 varstus, per pusę
+    mylios už Kščeniškių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -247,7 +266,19 @@ media_all_json: |-
     kalvota, tačiau atvira, o ten, kur da­
     bar iškilusi nauja mūrinė bažnyčia,
     netgi gana graži.
-  citata_rodoma: "22\nPraėjusiais metais aplankę Pabaiską,\nįsitikinome, kad žmonėse dar gyvi\nprisiminimai apie šioje vietoje vyku­\nsį garsų mūšį ir apie ten žuvusį kaž­\nkokį priešų kunigaikštį ar riterį. Kai\nkurie gyventojai, kad gimtosioms\napylinkėms suteiktų daugiau soli­\ndumo, dargi įrodinėja, neišmanyda­\nmi istorijos, kad anuomet ties Pa­\nbaisku galvą padėjęs čekų karalius\nVaclovas ir pan."
+  citata_rodoma: |
+    22
+    Praėjusiais metais aplankę Pabaiską,
+    įsitikinome, kad žmonėse dar gyvi
+    prisiminimai apie šioje vietoje vyku­
+    sį garsų mūšį ir apie ten žuvusį kaž­
+    kokį priešų kunigaikštį ar riterį. Kai
+    kurie gyventojai, kad gimtosioms
+    apylinkėms suteiktų daugiau soli­
+    dumo, dargi įrodinėja, neišmanyda­
+    mi istorijos, kad anuomet ties Pa­
+    baisku galvą padėjęs čekų karalius
+    Vaclovas ir pan.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

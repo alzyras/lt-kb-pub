@@ -551,7 +551,21 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir
     a
     D u s b. c.
-  citata_rodoma: "Kol vokiečių kariau­\nna dar delsė stovyklaudama Žemaitijoje, galingas lietuvių \npulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu \nnusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­\nčiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę \nišsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė \nnuomonė, esą kupinas senos neapykantos Rygos arkivys­\nkupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­\nnas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­\nvo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .\nKadangi grėsmingi buvo Gedimino nukariavimų planai, \natėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir\na\nD u s b."
+  citata_rodoma: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+    Kadangi grėsmingi buvo Gedimino nukariavimų planai,
+    atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir
+    a
+    D u s b.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -135,7 +135,13 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     pradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis
     kulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų
     ryšulius.
-  citata_rodoma: "Tačiau apskritai kartečė buvo skirta žeisti priešo karius\ngan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos\nefektyviai naudoti tolimesniais atstumais. Kartečės naudojimo\npradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis\nkulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų\nryšulius."
+  citata_rodoma: |
+    Tačiau apskritai kartečė buvo skirta žeisti priešo karius
+    gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos
+    efektyviai naudoti tolimesniais atstumais. Kartečės naudojimo
+    pradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis
+    kulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų
+    ryšulius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -166,7 +172,21 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     geliai, taip pat ir karkasai - ovalo formos
     sviediniai su padegamuoju mišiniu, su-
     daryti iš geležinių žiedų).
-  citata_rodoma: "Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose,\n\naprišamuose virvėmis, vėliau atsirado kartečė cilindro formos\nmetalinėse dėžutėse.\n\nBe kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir\napšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-\ndiniais (iki raudonumo įkaitinti metali-\nniai sviediniai arba iš ketaus pagaminti\ntuščiaviduriai sviediniai, užpildyti pade-\ngamuoju mišiniu - vadinamieji brandsku-\ngeliai, taip pat ir karkasai - ovalo formos\nsviediniai su padegamuoju mišiniu, su-\ndaryti iš geležinių žiedų)."
+  citata_rodoma: |
+    Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose,
+
+    aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos
+    metalinėse dėžutėse.
+
+    Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir
+    apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-
+    diniais (iki raudonumo įkaitinti metali-
+    niai sviediniai arba iš ketaus pagaminti
+    tuščiaviduriai sviediniai, užpildyti pade-
+    gamuoju mišiniu - vadinamieji brandsku-
+    geliai, taip pat ir karkasai - ovalo formos
+    sviediniai su padegamuoju mišiniu, su-
+    daryti iš geležinių žiedų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

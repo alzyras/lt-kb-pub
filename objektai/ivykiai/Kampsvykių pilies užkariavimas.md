@@ -79,7 +79,20 @@ Nenurodyta
     grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
     paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
     179 (174).
-  citata_rodoma: "178 (173). Apie Kampsvykių pilies užkariavimą\n\n  Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir\ndegindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,\ntinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių\nsužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių\ngrumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus\npaėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.\n\n\n\n\n             179 (174)."
+  citata_rodoma: |
+    178 (173). Apie Kampsvykių pilies užkariavimą
+
+      Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir
+    degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,
+    tinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių
+    sužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių
+    grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
+    paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
+
+
+
+
+                 179 (174).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -98,7 +98,9 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
     kitų, vietovardis atėjo iš taip senovės prūsų kalba vadin­
     tos nadruvių genties; tai turėjo reikšti „renku miško me-
     1 Hartknoch.
-  citata_rodoma: "Sis pavadinimas kilęs iš žodžio\nNadrau, lietuviškai-prūsiškai turėjusio reikšti vidų4."
+  citata_rodoma: |
+    Sis pavadinimas kilęs iš žodžio
+    Nadrau, lietuviškai-prūsiškai turėjusio reikšti vidų4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

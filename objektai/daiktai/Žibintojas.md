@@ -83,7 +83,13 @@ Nenurodyta
         keine iš palubio ant ugnies, idant dūmus trauktų laukan vakarojant Jei kaminas buvo iš molio į
         kuknę per sieną išvestas, tad didesnę tenai ugnį kūrino liepkauliais ar sausais šakaliais, taip
         vadinamais beržų medžiais, smulkiai sukapotais, idant nesproginėtų.
-  citata_rodoma: "Po ta skyle trobos asloj buvo apvalus ir slesnas^225 akmuo, ant trinkos ąžuolo padėtas, kurį išaušus į\ntrobos kertę galėjo paristi ar laukan išnešti. Norėdami vakaroti, padėjo tą akmenį, vadinamą\nžibintoju, po skyle ir sukūrė ant jo iš kėnių ar liepkaulių^226 ugnį ir paleido nuo skylės pakabintą\nkeine iš palubio ant ugnies, idant dūmus trauktų laukan vakarojant Jei kaminas buvo iš molio į\nkuknę per sieną išvestas, tad didesnę tenai ugnį kūrino liepkauliais ar sausais šakaliais, taip\nvadinamais beržų medžiais, smulkiai sukapotais, idant nesproginėtų."
+  citata_rodoma: |
+    Po ta skyle trobos asloj buvo apvalus ir slesnas^225 akmuo, ant trinkos ąžuolo padėtas, kurį išaušus į
+    trobos kertę galėjo paristi ar laukan išnešti. Norėdami vakaroti, padėjo tą akmenį, vadinamą
+    žibintoju, po skyle ir sukūrė ant jo iš kėnių ar liepkaulių^226 ugnį ir paleido nuo skylės pakabintą
+    keine iš palubio ant ugnies, idant dūmus trauktų laukan vakarojant Jei kaminas buvo iš molio į
+    kuknę per sieną išvestas, tad didesnę tenai ugnį kūrino liepkauliais ar sausais šakaliais, taip
+    vadinamais beržų medžiais, smulkiai sukapotais, idant nesproginėtų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -119,7 +119,8 @@ Nenurodyta
     paskata surengti dar vieną seimelį, prieštaraujantį šiam [53].Minėtos ir politinės derybos.
     1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną
     Tiškevičių ir tarėsi dėl seimelio reikalų bei Sapiegų interesų [52].
-  citata_rodoma: "1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną"
+  citata_rodoma: |
+    1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną
   statusas: verified
   atnaujinta: "2026-07-14 07:43"
   teiginio_tipas: faktas
@@ -140,7 +141,8 @@ Nenurodyta
     Karolis Piotrovskis (Karol Piotrowski) [9]. 1752 m. J. D. Lopacinskis minėjo, kad atvyks
     Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
     per seimelį dėl brolio interesų.
-  citata_rodoma: "1752 m. J. D. Lopacinskis minėjo, kad atvyks"
+  citata_rodoma: |
+    1752 m. J. D. Lopacinskis minėjo, kad atvyks
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas

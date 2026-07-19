@@ -119,7 +119,19 @@ Nenurodyta
     žiavime smarkiai pasidarbavo Rytų bei Vakarų bažny­
     čių suartėjimo reikalu pasiųstas ten savo tautos suva­
     žiavimo ir kunigaikščio Vytauto.
-  citata_rodoma: "Kartu\njis būgštavo, kad iš garbėtroškos šis nesukeltų naujos\nnesantaikos tarp tautų, kurios didžiam krikščioniškojo\npasaulio labui glaudžiai suaugo į vieną valstybę. Mat\nimperatorius Zigmantas ir Vytautas jau kelerius metus\nslapta derėjosi dėl Lietuvos\nV y ta u ta s  nori p a sk el-\nkaralystės paskelbimo. Kai\nhti L ietu vą  k a ra ly ste\napie šias derybas pradėjo\nkalbėti kiti žmonės, viską su­\nžinojo ir Romos kurija."
+  citata_rodoma: |
+    Kartu
+    jis būgštavo, kad iš garbėtroškos šis nesukeltų naujos
+    nesantaikos tarp tautų, kurios didžiam krikščioniškojo
+    pasaulio labui glaudžiai suaugo į vieną valstybę. Mat
+    imperatorius Zigmantas ir Vytautas jau kelerius metus
+    slapta derėjosi dėl Lietuvos
+    V y ta u ta s  nori p a sk el-
+    karalystės paskelbimo. Kai
+    hti L ietu vą  k a ra ly ste
+    apie šias derybas pradėjo
+    kalbėti kiti žmonės, viską su­
+    žinojo ir Romos kurija.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

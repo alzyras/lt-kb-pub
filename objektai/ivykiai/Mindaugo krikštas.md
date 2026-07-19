@@ -233,7 +233,11 @@ Nenurodyta
     apsikrikštijo; apkrikštijo ir daug savo didikų. Ordinui jis do­
     vanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir
     išrūpino jam karališkąjį vainiką.
-  citata_rodoma: "Ir 1250 met. Mindaugas\napsikrikštijo; apkrikštijo ir daug savo didikų. Ordinui jis do­\nvanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir\nišrūpino jam karališkąjį vainiką."
+  citata_rodoma: |
+    Ir 1250 met. Mindaugas
+    apsikrikštijo; apkrikštijo ir daug savo didikų. Ordinui jis do­
+    vanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir
+    išrūpino jam karališkąjį vainiką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -256,7 +260,17 @@ Nenurodyta
     kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
     Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
     išpranašaus Vilniaus įkūrimą ir šlovę.
-  citata_rodoma: "kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės \nsantvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva \nliko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis \nir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar \ngyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo \nlaikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir \niki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, \nkiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas \nGedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir \nišpranašaus Vilniaus įkūrimą ir šlovę."
+  citata_rodoma: |
+    kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės
+    santvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva
+    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
+    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
+    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
+    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
+    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
+    išpranašaus Vilniaus įkūrimą ir šlovę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -277,7 +291,15 @@ Nenurodyta
     Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar
     vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
     sau – karaliaus karūną.
-  citata_rodoma: "Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam \ntapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-\nčiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną \nir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-\ntija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę \nLivonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar \nvasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o \nsau – karaliaus karūną."
+  citata_rodoma: |
+    Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
+    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
+    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
+    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
+    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
+    Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar
+    vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
+    sau – karaliaus karūną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

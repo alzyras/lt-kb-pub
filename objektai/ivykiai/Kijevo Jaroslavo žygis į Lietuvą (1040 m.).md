@@ -131,7 +131,11 @@ Nenurodyta
     «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
     darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
     kyta.
-  citata_rodoma: "Štai, XII amž. pradžioje surašyta\n«Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.\ndarė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­\nkyta."
+  citata_rodoma: |
+    Štai, XII amž. pradžioje surašyta
+    «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
+    darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
+    kyta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

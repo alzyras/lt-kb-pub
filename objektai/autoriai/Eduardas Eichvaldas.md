@@ -94,7 +94,15 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
     vėliau, kai pagarsėjo šaunus šio monarcho žygis į Aziją,
     skitai taip ir liko priklausomi nuo Makedonijos galybės
     ir buvo tolydžio puldinėjami Uždonės tautų2.
-  citata_rodoma: "Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-\nro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių\nVoluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-\nro pakrante. Ten keliaudamas susidūrė su budinais, Polesės gyvento­\njais, melanchlenais, estais, o galbūt ir androfagais, i. y. samojedals,\ngrįždamas susitiko su neurais Galicijos pasienyje bei androfagais\nTransilvanijoje. Tai rašome vien todėl, kad nepraleistume nieko, kas\nmums šiuo klausimu žinoma. Skaitytojas pats nuspręs, kuris teisus*."
+  citata_rodoma: |
+    Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-
+    ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių
+    Voluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-
+    ro pakrante. Ten keliaudamas susidūrė su budinais, Polesės gyvento­
+    jais, melanchlenais, estais, o galbūt ir androfagais, i. y. samojedals,
+    grįždamas susitiko su neurais Galicijos pasienyje bei androfagais
+    Transilvanijoje. Tai rašome vien todėl, kad nepraleistume nieko, kas
+    mums šiuo klausimu žinoma. Skaitytojas pats nuspręs, kuris teisus*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

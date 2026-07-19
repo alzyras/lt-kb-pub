@@ -201,7 +201,12 @@ media_all_json: |-
     Mūšis truko apie 8 valandas. Lietuvos ka-
     riuomenė, remiantis S. Zabielos raportais,
     neteko apie 300 karių. Rusų duomenimis
-  citata_rodoma: "Mūšio padariniai\n\nMūšis truko apie 8 valandas. Lietuvos ka-\nriuomenė, remiantis S. Zabielos raportais,\nneteko apie 300 karių."
+  citata_rodoma: |
+    Mūšio padariniai
+
+    Mūšis truko apie 8 valandas. Lietuvos ka-
+    riuomenė, remiantis S. Zabielos raportais,
+    neteko apie 300 karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

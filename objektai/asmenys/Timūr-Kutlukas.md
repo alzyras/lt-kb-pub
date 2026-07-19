@@ -142,7 +142,16 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     visą birželį telkė karius (savo lietuvius,
     jam pavaldžių rusų kunigaikščių karius ir
     kitus) stovykloje prie Kijevo.
-  citata_rodoma: "Besirengdamas žygiui į Sarajų, Aukso\nordos chanas Timūr-Kutlukas atsiuntė savo\npasiuntinius pas lietuvių didįjį kunigaikštį\nVytautą, kad išduotų jam pabėgusį „carą“\nTochtamišą, jo priešą. O Vytautas atsakęs:\n„caro Tochtamišo neišduosiu, o su caru\nTimūr-Kutluku noriu matytis pats“.\nPagrindinė Vytauto kariuomenė iš\nVilniaus išvyko apie gegužės 18 d."
+  citata_rodoma: |
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
+    Vytautą, kad išduotų jam pabėgusį „carą“
+    Tochtamišą, jo priešą. O Vytautas atsakęs:
+    „caro Tochtamišo neišduosiu, o su caru
+    Timūr-Kutluku noriu matytis pats“.
+    Pagrindinė Vytauto kariuomenė iš
+    Vilniaus išvyko apie gegužės 18 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -167,7 +176,16 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     Kutlukas, paprašęs trijų dienų pagalvoti,
     siuntė Vytautui daug galvijų, jaučių, avių,
     sveikino jį.
-  citata_rodoma: "Totorių pajėgos\nAukso ordos chano Timūr-Kutluko,\nKrymo emyro Edygos kariai.\n\nMūšis\n\nPokalbyje su chanu prieš mūšį Vytautas\ntarsi reikalavęs pavaldumo - visos Ordos\npinigus žymėti Vytauto ženklu."
+  citata_rodoma: |
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

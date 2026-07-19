@@ -95,7 +95,11 @@ Nenurodyta
     frankai, herulai, saksai yra pridarę visokių žiaurybių; šios įvairios
     tautos, atsidavusios prietaringos baimės altoriams, tikėjo, kad žmo­
     nių aukojimu palenksiančios savo dievus) In script. Rer. Brunsvic.
-  citata_rodoma: "7. N uolatinė auka. Jos esmė buvo visados degančios ir\nniekad negęstančios ugnies kurstymas Praurimės, Kurko,\nPerkūno ir Amžinosios ugnies aukuruose; tą ugnį prižiūrė­\njo tam tikri žyniai ir žynės."
+  citata_rodoma: |
+    7. N uolatinė auka. Jos esmė buvo visados degančios ir
+    niekad negęstančios ugnies kurstymas Praurimės, Kurko,
+    Perkūno ir Amžinosios ugnies aukuruose; tą ugnį prižiūrė­
+    jo tam tikri žyniai ir žynės.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -181,7 +181,11 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
     taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
     yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
-  citata_rodoma: "Tik didieji mūsų kalbininkai Jaunius su\nBūga visas tas gimines vadino aisčiais, argumentuodami tuo, kad\ntaip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,\nyra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose)."
+  citata_rodoma: |
+    Tik didieji mūsų kalbininkai Jaunius su
+    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
+    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
+    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -198,7 +202,9 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     A. Brackmann, Leipzig 1939.
     BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,
     Vilnius 1958-61.
-  citata_rodoma: "BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,\nVilnius 1958-61."
+  citata_rodoma: |
+    BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,
+    Vilnius 1958-61.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +223,10 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     skolinius. Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu­
     ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
     esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
-  citata_rodoma: "Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-\nba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone\nesą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus."
+  citata_rodoma: |
+    Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-
+    ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
+    esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -237,7 +246,9 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     gabe, Leipzig 1924, 22-35 p. — (”) _Visųsenieji lietuvių santykiai su ger­
     manais_ , Kalba ir Senovė, I, Kaunas 1922, 60-75 p. — Endzelin, J. :
     _Slavjano-baltijskie etjudy_ , Charkov 1911.
-  citata_rodoma: "Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte\nder Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p."
+  citata_rodoma: |
+    Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte
+    der Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

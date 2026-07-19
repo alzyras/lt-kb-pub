@@ -95,7 +95,12 @@ Nenurodyta
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
     tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
     bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
-  citata_rodoma: "Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-\nsėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė \nspartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos \ntradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių \nbažnytinę rašto tradiciją nuo Kijevo Rusios laikų."
+  citata_rodoma: |
+    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
+    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
+    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
+    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
+    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

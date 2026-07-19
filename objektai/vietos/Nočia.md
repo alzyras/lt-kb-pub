@@ -103,7 +103,15 @@ media_all_json: |-
     Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės
     akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į
     kryžių.
-  citata_rodoma: "Vilniuje, kaip spėjama, kunigaikščių pe­\nlenai turi būti pakasti Pilies kalne iš saulėtekio pusės, ir jei jie\nbuvo supilti į patvarias urnas, tai turėtų gulėti giliai kalne.\nMano kaimynystėje, prie Nočios miestelio, atsitiktinai at­\nkasus vieną kapą, rastas akmeninis kirvukas, padarytas iš kie­\ntos geležies. Akmeniniai kirviai randami laukuose ir prie senų 1\n11\nLygiai tokią pat urną turėjo Dionizas Paškevičius savo rinkinyje."
+  citata_rodoma: |
+    Vilniuje, kaip spėjama, kunigaikščių pe­
+    lenai turi būti pakasti Pilies kalne iš saulėtekio pusės, ir jei jie
+    buvo supilti į patvarias urnas, tai turėtų gulėti giliai kalne.
+    Mano kaimynystėje, prie Nočios miestelio, atsitiktinai at­
+    kasus vieną kapą, rastas akmeninis kirvukas, padarytas iš kie­
+    tos geležies. Akmeniniai kirviai randami laukuose ir prie senų 1
+    11
+    Lygiai tokią pat urną turėjo Dionizas Paškevičius savo rinkinyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

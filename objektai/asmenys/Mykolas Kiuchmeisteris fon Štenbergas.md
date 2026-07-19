@@ -90,7 +90,11 @@ media_all_json: |-
     konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-
     lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
     kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
-  citata_rodoma: "Šio \nkonflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-\nlyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-\nkolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys."
+  citata_rodoma: |
+    Šio
+    konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-
+    lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
+    kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

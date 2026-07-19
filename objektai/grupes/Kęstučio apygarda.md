@@ -87,7 +87,10 @@ media_all_json: |-
     rio rinktinę. 1948 m. Jungtinė Kęstučio apygarda (ku-
     riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
     Prisikėlimo apygardas.
-  citata_rodoma: "1948 m. Jungtinė Kęstučio apygarda (ku-\nriai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir\nPrisikėlimo apygardas."
+  citata_rodoma: |
+    1948 m. Jungtinė Kęstučio apygarda (ku-
+    riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
+    Prisikėlimo apygardas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

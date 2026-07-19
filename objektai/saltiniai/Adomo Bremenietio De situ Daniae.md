@@ -99,7 +99,16 @@ Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusios krašt
     jo amžiuje žinomas Rusias: vieną, per kurios vidurį plau­
     kė Nemunas iki lietuvių žemių, ir antrą, kurią kirto išėjęs
     iš Lietuvos5.
-  citata_rodoma: "Kvedliriburgo kronika mini prieš 1009 metus ru­\nsus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos\nšiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­\nvincijas, kurias dėl nesuprantamų priežasčių vadina salo­\nmis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­\ntu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,\nnes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-\ndevikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos\nsienas, mini Rusios problemą."
+  citata_rodoma: |
+    Kvedliriburgo kronika mini prieš 1009 metus ru­
+    sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
+    šiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­
+    vincijas, kurias dėl nesuprantamų priežasčių vadina salo­
+    mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­
+    tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,
+    nes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-
+    devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
+    sienas, mini Rusios problemą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

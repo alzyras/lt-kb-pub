@@ -90,15 +90,23 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dar apie Martyną iš Golino ir jo nuostabią kovą
-    Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
-    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
-    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
-    kiek čia jo bendrų ir kur jie. Sitai padarę, smarkiai juos užpuolė, Martynas bei jo draugai
-    narsiai gynėsi, todėl daug ir vienos, ir kitos šalies karių buvo sunkiai sužeista. Šitai
-    matydamas, vienas Martyno draugas, kuris nuogas netolimoje upėje vėžiavo, sugrįžo,
-    pasičiupo vieno nukauto kario kalaviją bei skydą ir nuogas pradėjo kautis.
-  citata_rodoma: "Apie daugybės Kulmenzės miestiečių žūtį\n\n  Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri\nvadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,\nmiestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo\nlauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,\nmanydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai\nir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę."
+    Apie daugybės Kulmenzės miestiečių žūtį
+
+      Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri
+    vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,
+    miestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo
+    lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
+    manydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai
+    ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.
+  citata_rodoma: |
+    Apie daugybės Kulmenzės miestiečių žūtį
+
+      Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri
+    vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,
+    miestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo
+    lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
+    manydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai
+    ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -126,7 +126,18 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
     nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
     mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
     rybė moka daryti stebuklus lengvatikių akyse.
-  citata_rodoma: "Dainos.\n177\n\n## Puslapis 177\n\nAitvaras (Ajtwaros)\nVyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­\nris paprastai užgula miegančias moteris, tykoja jų už tvorų,\ntodėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.\nKunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai\nIncubus, lenkiškai Latawiec."
+  citata_rodoma: |
+    Dainos.
+    177
+
+    ## Puslapis 177
+
+    Aitvaras (Ajtwaros)
+    Vyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­
+    ris paprastai užgula miegančias moteris, tykoja jų už tvorų,
+    todėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.
+    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
+    Incubus, lenkiškai Latawiec.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

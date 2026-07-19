@@ -66,7 +66,10 @@ Grekov, B.
     Vladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_
     skij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati
     bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
-  citata_rodoma: "— Grekov, B. D. i Jakubov _­_\nskij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati\nbibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek)."
+  citata_rodoma: |
+    — Grekov, B. D. i Jakubov _­_
+    skij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati
+    bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

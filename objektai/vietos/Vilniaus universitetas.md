@@ -129,7 +129,9 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
     universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
     menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
-  citata_rodoma: "Manoma, kad studijų lygis senajame universitete nebuvo\nmenkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose."
+  citata_rodoma: |
+    Manoma, kad studijų lygis senajame universitete nebuvo
+    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +155,10 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
     ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
     universitetai.
-  citata_rodoma: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus\nuniversitetai."
+  citata_rodoma: |
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
+    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -173,7 +178,10 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     1626–1634 m. ir rašė asketikos veikalus kinų kalba. Šiauriausias katali-
     kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
     universiteto reikšmė.
-  citata_rodoma: "Šiauriausias katali-\nkiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų\nuniversiteto reikšmė."
+  citata_rodoma: |
+    Šiauriausias katali-
+    kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
+    universiteto reikšmė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

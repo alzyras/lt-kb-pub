@@ -100,7 +100,42 @@ media_all_json: |-
     per įgaliotinius: Eustachijų Sidoro-
     vičių ir Grigalių Čiškovičių, statyti­
     nį, o vaitas atvyko pats.
-  citata_rodoma: "149 ir 150, \ndar miesto archyve yra reliacinis ka­\nraliaus Stepono sprendimas: Decre­\ntum relationum Stephani Regis Polo- \nniae inter nonnullos mercatores \nvilnenses et advocatum Vilnensem ex \nseriis partium controversiis anno 1586 \ndie 11 Julii latum, quo festa solemnia \njuxta novum calendarium ab omnibus \nincolis civitatis vilnensis in ea qua par \nest reverentia haberi demandantur [Re­\nliacinis Lenkijos karaliaus Stepono \nsprendimas dėl tarp kai kurių Vil­\nniaus pirklių ir Vilniaus vaito šalių \nrimtų prieštaravimų, išleistas 1586 \nmetų liepos 11 dieną, kuriuo įpras­\ntas šventes pagal naują kalendorių \nįsakoma visiems Vilniaus gyvento­\njams su lygiai tokia pačia pagarba \nšvęsti]; jo turinys yra toks. Graikų ti­\nkėjimo Vilniaus pirkliai apskundė \nkaraliui Stanislovą Sabiną (Sabinus), \ndaktarą ir Vilniaus vaitą, dėl to, kad \njis, pažeisdamas pirkliams skirtas\nprivilegijas, balandžio 7 dieną, pir­\nmadienį, išsiuntė miesto sargybos \nviršininką (Praefectum Lictorum Civi­\ntatis Vilnensis) Jurgį Vižikovskį su \npadėjėjais į mėsines, kur nuo seno \npardavinėdavo įvairias prekes, be \npriežasties sužalojo pirklius ir atėmė \ndaug prekių. Pirkliai reikalą išdėstė \nper įgaliotinius: Eustachijų Sidoro- \nvičių ir Grigalių Čiškovičių, statyti­\nnį, o vaitas atvyko pats."
+  citata_rodoma: |
+    149 ir 150,
+    dar miesto archyve yra reliacinis ka­
+    raliaus Stepono sprendimas: Decre­
+    tum relationum Stephani Regis Polo-
+    niae inter nonnullos mercatores
+    vilnenses et advocatum Vilnensem ex
+    seriis partium controversiis anno 1586
+    die 11 Julii latum, quo festa solemnia
+    juxta novum calendarium ab omnibus
+    incolis civitatis vilnensis in ea qua par
+    est reverentia haberi demandantur [Re­
+    liacinis Lenkijos karaliaus Stepono
+    sprendimas dėl tarp kai kurių Vil­
+    niaus pirklių ir Vilniaus vaito šalių
+    rimtų prieštaravimų, išleistas 1586
+    metų liepos 11 dieną, kuriuo įpras­
+    tas šventes pagal naują kalendorių
+    įsakoma visiems Vilniaus gyvento­
+    jams su lygiai tokia pačia pagarba
+    švęsti]; jo turinys yra toks. Graikų ti­
+    kėjimo Vilniaus pirkliai apskundė
+    karaliui Stanislovą Sabiną (Sabinus),
+    daktarą ir Vilniaus vaitą, dėl to, kad
+    jis, pažeisdamas pirkliams skirtas
+    privilegijas, balandžio 7 dieną, pir­
+    madienį, išsiuntė miesto sargybos
+    viršininką (Praefectum Lictorum Civi­
+    tatis Vilnensis) Jurgį Vižikovskį su
+    padėjėjais į mėsines, kur nuo seno
+    pardavinėdavo įvairias prekes, be
+    priežasties sužalojo pirklius ir atėmė
+    daug prekių. Pirkliai reikalą išdėstė
+    per įgaliotinius: Eustachijų Sidoro-
+    vičių ir Grigalių Čiškovičių, statyti­
+    nį, o vaitas atvyko pats.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

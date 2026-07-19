@@ -116,7 +116,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     skridę be nusileidimo 37 val. 11 minučių ir įveikę 6 411 km, antrą tuo
     metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
     trofą tuometinėje Rytų Prūsijoje.
-  citata_rodoma: "lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-"
+  citata_rodoma: |
+    lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -144,7 +145,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
     (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
     klausimą.
-  citata_rodoma: "į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono"
+  citata_rodoma: |
+    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

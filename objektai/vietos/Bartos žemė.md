@@ -140,7 +140,14 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
     Nuo lietuvių puolimo Ordinas bandė sau-
     goti Sembą. Magistras su gausia kariuomene
     įvairiose vietose priešais Lietuvos žemes
-  citata_rodoma: "1347 m. vasarį „abu lietuvių karaliai“\npuolė Prūsijoje Rastenburgą, niokojo\nBartos žemę iki Girdavų pilies, apgulė\nLunenburgą, sunaikino jo papilį.\n\nNuo lietuvių puolimo Ordinas bandė sau-\ngoti Sembą."
+  citata_rodoma: |
+    1347 m. vasarį „abu lietuvių karaliai“
+    puolė Prūsijoje Rastenburgą, niokojo
+    Bartos žemę iki Girdavų pilies, apgulė
+    Lunenburgą, sunaikino jo papilį.
+
+    Nuo lietuvių puolimo Ordinas bandė sau-
+    goti Sembą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -173,7 +180,17 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
     įniršiu išpylęs žemėn, apspjaudė, kojomis sutrypė, ši­
     tokį siaubingą išniekinimą palydėdamas šventvagiškais
     burnojimais.
-  citata_rodoma: "Lietuviai nuvedė \nprisiplėšusius grobio karius \nį Bartos žemę, kur atvirame \nlauke sustojo pailsėti. Kai čia \nilsėdamiesi skaičiavo grobį, \nbelaisviai išvydo atnešant sidabrinį, visiems krikščio­\nnims šventą indą, kur esti saugomas švenčiausias die­\nvo kūnas. Sudrebėjo siaubo apimtos krikščionių širdys \nkrūtinėse iš pagarbos šventenybei ir iš skausmo dėl \njos išniekinimo."
+  citata_rodoma: |
+    Lietuviai nuvedė
+    prisiplėšusius grobio karius
+    į Bartos žemę, kur atvirame
+    lauke sustojo pailsėti. Kai čia
+    ilsėdamiesi skaičiavo grobį,
+    belaisviai išvydo atnešant sidabrinį, visiems krikščio­
+    nims šventą indą, kur esti saugomas švenčiausias die­
+    vo kūnas. Sudrebėjo siaubo apimtos krikščionių širdys
+    krūtinėse iš pagarbos šventenybei ir iš skausmo dėl
+    jos išniekinimo.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

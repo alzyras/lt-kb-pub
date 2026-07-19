@@ -295,7 +295,11 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
     praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
     europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: "Romantikas S. Daukantas savo \nveikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius – \npraktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo \neuropietiškos katalikiškos civilizacijos šalininkas."
+  citata_rodoma: |
+    Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -317,7 +321,11 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
     partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
     kas.
-  citata_rodoma: "P. Malev- \nskis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­\npartamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­\nkas."
+  citata_rodoma: |
+    P. Malev-
+    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
+    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
+    kas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -339,7 +347,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
     Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
-  citata_rodoma: "Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio."
+  citata_rodoma: |
+    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -360,7 +369,12 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
     Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
     niais valstybės raidos etapais ir išskirtinėmis progomis.
-  citata_rodoma: "“ \nBūtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną \nMačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.\nApibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-\nniais valstybės raidos etapais ir išskirtinėmis progomis."
+  citata_rodoma: |
+    “
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
+    Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
+    niais valstybės raidos etapais ir išskirtinėmis progomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -379,7 +393,11 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
     Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
     riją lietuviškai. 1848 m.
-  citata_rodoma: "Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–\n1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus \nKatalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-\nriją lietuviškai. 1848 m."
+  citata_rodoma: |
+    Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
+    1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
+    Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
+    riją lietuviškai. 1848 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -401,7 +419,13 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
     formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
     mą.
-  citata_rodoma: "Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­\nčių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių\ntautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­\nieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo\nformos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­\nmą."
+  citata_rodoma: |
+    Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
+    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
+    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
+    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
+    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
+    mą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -424,7 +448,13 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
     poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
     timi.
-  citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
+  citata_rodoma: |
+    Manoma, kad tuo metu jau buvo parašyti
+    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
+    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
+    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
+    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
+    metų ir nebuvo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -447,7 +477,12 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
     ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
     dų, kurias sąmoningai ar nesąmoningai darė kiti.
-  citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12."
+  citata_rodoma: |
+    Galbūt geriausiai šį faktą paaiškintų paties
+    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
+    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
+    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
+    daug kartų apsirinka“12.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

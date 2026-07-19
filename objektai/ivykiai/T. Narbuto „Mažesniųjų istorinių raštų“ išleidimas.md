@@ -119,7 +119,18 @@ Nenurodyta
     išsaugoti nuo pražūties, arba tokių smulkmenų, kurių
     visų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir
     spausdinu šiame rinkinyje“1.
-  citata_rodoma: "Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam\nnors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­\nkaupta per penkiolika metų, išleisti atskira knygele. Tai\nbuvo tam tikras kompromisas, išeitis, juolab kad rasti\nleidėją, kuris išleistų istorinius veikalus, darėsi vis sun­\nkiau. Be to, tuo metu T. Narbutas jau turėjo karčią pa­\ntirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­\nvimo programą. Taigi 1856 metais Teofilio Gliuksbergo\nspaustuvėje atsirado galimybė išleisti dalį to, kas turėjo\npapildyti antrąjį LTI leidimą. Taip gimė „Mažesnieji is­\ntoriniai raštai“."
+  citata_rodoma: |
+    Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam
+    nors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­
+    kaupta per penkiolika metų, išleisti atskira knygele. Tai
+    buvo tam tikras kompromisas, išeitis, juolab kad rasti
+    leidėją, kuris išleistų istorinius veikalus, darėsi vis sun­
+    kiau. Be to, tuo metu T. Narbutas jau turėjo karčią pa­
+    tirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­
+    vimo programą. Taigi 1856 metais Teofilio Gliuksbergo
+    spaustuvėje atsirado galimybė išleisti dalį to, kas turėjo
+    papildyti antrąjį LTI leidimą. Taip gimė „Mažesnieji is­
+    toriniai raštai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -147,7 +158,17 @@ Nenurodyta
     išsaugoti nuo pražūties, arba tokių smulkmenų, kurių
     visų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir
     spausdinu šiame rinkinyje“1.
-  citata_rodoma: "Taip gimė „Mažesnieji is­\ntoriniai raštai“, kurių pratarmėje (beje, datuotoje 1852\nmetais) istorikas rašė; „Pildant mano paskelbtos „Lietu­\nvių tautos istorijos“ puslapius naujais pastebėjimais, kri­\ntiškai vertinant įvairius trūkumus bei klaidas, galbūt net\nturint vilties, jog pasirodys antrasis leidimas, ir anks­\nčiau, ir dabar pasitaikė dalykų, kuriuos vertėtų atminti ir\nišsaugoti nuo pražūties, arba tokių smulkmenų, kurių\nvisų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir\nspausdinu šiame rinkinyje“1."
+  citata_rodoma: |
+    Taip gimė „Mažesnieji is­
+    toriniai raštai“, kurių pratarmėje (beje, datuotoje 1852
+    metais) istorikas rašė; „Pildant mano paskelbtos „Lietu­
+    vių tautos istorijos“ puslapius naujais pastebėjimais, kri­
+    tiškai vertinant įvairius trūkumus bei klaidas, galbūt net
+    turint vilties, jog pasirodys antrasis leidimas, ir anks­
+    čiau, ir dabar pasitaikė dalykų, kuriuos vertėtų atminti ir
+    išsaugoti nuo pražūties, arba tokių smulkmenų, kurių
+    visų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir
+    spausdinu šiame rinkinyje“1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

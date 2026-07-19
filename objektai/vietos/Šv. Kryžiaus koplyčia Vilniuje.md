@@ -61,7 +61,12 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
     leidžiamos raketos, vyko įvairūs
     šaudymai bei deginamos kitos ar­
     tilerijos užtaisų ugnys".
-  citata_rodoma: "Mikalojaus bažnyčią. O po dvi­\ndešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė, \nVilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­\nvo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­\ntydino nedidukę oratoriją, arba koplyčią14."
+  citata_rodoma: |
+    Mikalojaus bažnyčią. O po dvi­
+    dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
+    Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­
+    vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­
+    tydino nedidukę oratoriją, arba koplyčią14.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

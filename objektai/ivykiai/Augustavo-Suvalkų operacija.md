@@ -83,7 +83,14 @@ Nenurodyta
     Vieną reikšmingiausių nesėkmių Lietuvos
     karo istorijoje nulėmė daugelis aplinky-
     bių.
-  citata_rodoma: "Bendrai nukautaisiais, sužeistai-\nsiais, patekusiais į nelaisvę Lietuvos pajė-\ngos visos Augustavo-Suvalkų operacijos\nmetu prarado daugiau nei 2 000 karių.\nVieną reikšmingiausių nesėkmių Lietuvos\nkaro istorijoje nulėmė daugelis aplinky-\nbių."
+  citata_rodoma: |
+    Bendrai nukautaisiais, sužeistai-
+    siais, patekusiais į nelaisvę Lietuvos pajė-
+    gos visos Augustavo-Suvalkų operacijos
+    metu prarado daugiau nei 2 000 karių.
+    Vieną reikšmingiausių nesėkmių Lietuvos
+    karo istorijoje nulėmė daugelis aplinky-
+    bių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

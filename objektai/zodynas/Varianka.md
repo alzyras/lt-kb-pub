@@ -77,7 +77,9 @@ Terminas aptariamas kaip tikslesnis už piltuvėlį.
     boso taip, kad vamzdis įlenda į didžiąją boso skylę. Dabar į lovelį pi­
     la alų, o alus pro vamzdį teka į bosą. Lovelį tą vadinome varianka,
     mat juo skystis pravaromas iš vieno indo į kitą.
-  citata_rodoma: "Lovelį tą vadinome varianka, \nmat juo skystis pravaromas iš vieno indo į kitą"
+  citata_rodoma: |
+    Lovelį tą vadinome varianka,
+    mat juo skystis pravaromas iš vieno indo į kitą
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

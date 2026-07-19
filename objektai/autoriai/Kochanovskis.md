@@ -121,7 +121,14 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
     tuose jau senokai buvo įsigalėję lietuviai, kurie, be abejo, užka­
     riautų plotų geruoju lenkams atiduoti nė nemanė: turėjo gink­
     lai spręsti ginčus.
-  citata_rodoma: "Šitą atsigręžimą lenkų istorikas Kocha­\nnovskis vadina nemirštama Kazimiero D. politikos idėja, nes\nji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­\nse^1 ). Bet ta idėja, kad ir didelė, sutiko sunkias kliūtis, nes ry­\ntuose jau senokai buvo įsigalėję lietuviai, kurie, be abejo, užka­\nriautų plotų geruoju lenkams atiduoti nė nemanė: turėjo gink­\nlai spręsti ginčus."
+  citata_rodoma: |
+    Šitą atsigręžimą lenkų istorikas Kocha­
+    novskis vadina nemirštama Kazimiero D. politikos idėja, nes
+    ji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­
+    se^1 ). Bet ta idėja, kad ir didelė, sutiko sunkias kliūtis, nes ry­
+    tuose jau senokai buvo įsigalėję lietuviai, kurie, be abejo, užka­
+    riautų plotų geruoju lenkams atiduoti nė nemanė: turėjo gink­
+    lai spręsti ginčus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -95,7 +95,8 @@ Dėl to atgaivinta Seimo institucija.
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės.
-  citata_rodoma: "kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių"
+  citata_rodoma: |
+    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

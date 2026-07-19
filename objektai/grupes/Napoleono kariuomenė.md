@@ -90,7 +90,10 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
     sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
     boje.
-  citata_rodoma: "Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau\nsujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-\nboje."
+  citata_rodoma: |
+    Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
+    sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
+    boje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -106,7 +109,10 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     **Rusų valdžios sugrįžimas.** Paskui Napoleoną atslinko į
     Lietuvą ir jo kariuomenės likučiai. Išbadėjusi ir nuskurusi ka-
     riuomenė pakeliui viską plėšė.
-  citata_rodoma: "Paskui Napoleoną atslinko į Lietuvą ir jo kariuomenės likučiai.\nIšbadėjusi ir nuskurusi ka-\nriuomenė pakeliui viską plėšė."
+  citata_rodoma: |
+    Paskui Napoleoną atslinko į Lietuvą ir jo kariuomenės likučiai.
+    Išbadėjusi ir nuskurusi ka-
+    riuomenė pakeliui viską plėšė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

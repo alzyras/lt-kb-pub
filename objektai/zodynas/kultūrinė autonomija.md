@@ -134,7 +134,10 @@ media_all_json: |-
     ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
-  citata_rodoma: "Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos \nplanų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie \ntiktai prašė, visų pirma plačiausią kultūrinę autonomiją."
+  citata_rodoma: |
+    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
+    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +156,8 @@ media_all_json: |-
     XIX a. pradžioje Vilniaus intelektualams gelbėjant parengta visos Ru-
     sijos švietimo reforma, orientuojantis į veikusį LLV Edukacinės komisijos
     modelį.
-  citata_rodoma: "Vilniaus universitete tik tuo metu pereita nuo dėstymo lotynų kalba prie"
+  citata_rodoma: |
+    Vilniaus universitete tik tuo metu pereita nuo dėstymo lotynų kalba prie
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

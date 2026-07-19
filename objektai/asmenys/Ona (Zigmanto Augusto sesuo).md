@@ -51,7 +51,10 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
     senelis. Po jo mirties neliko jokių vyriškų įpėdinių (liko tik
     seserys, kurių viena — Ona — tebebuvo netekėjusi), tad turėjo
     prasidėti laisvai renkamųjų valdovų periodas.
-  citata_rodoma: "Po jo mirties neliko jokių vyriškų įpėdinių (liko tik\n  seserys, kurių viena — Ona — tebebuvo netekėjusi), tad turėjo\n  prasidėti laisvai renkamųjų valdovų periodas."
+  citata_rodoma: |
+    Po jo mirties neliko jokių vyriškų įpėdinių (liko tik
+      seserys, kurių viena — Ona — tebebuvo netekėjusi), tad turėjo
+      prasidėti laisvai renkamųjų valdovų periodas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

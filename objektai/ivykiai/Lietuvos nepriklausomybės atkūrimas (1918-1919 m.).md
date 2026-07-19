@@ -84,7 +84,8 @@ Nenurodyta
     1918 II 16
     Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
     vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-  citata_rodoma: "vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą."
+  citata_rodoma: |
+    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

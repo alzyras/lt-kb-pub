@@ -113,7 +113,10 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
     tinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
     grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
     per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
-  citata_rodoma: "Lietuvos Helsinkio \ngrupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė \nper 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje."
+  citata_rodoma: |
+    Lietuvos Helsinkio
+    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
+    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -133,7 +136,9 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
     klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
-  citata_rodoma: "LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-\nklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius."
+  citata_rodoma: |
+    LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
+    klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -152,7 +157,10 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
     žiuodavo dešimtys tūkstančių maldininkų. Jie ne tik meldėsi, bendrau-
     davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
     literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
-  citata_rodoma: "Jie ne tik meldėsi, bendrau-\ndavo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos \nliteratūros: maldaknygių, katekizmų ar Šventojo Rašto."
+  citata_rodoma: |
+    Jie ne tik meldėsi, bendrau-
+    davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
+    literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

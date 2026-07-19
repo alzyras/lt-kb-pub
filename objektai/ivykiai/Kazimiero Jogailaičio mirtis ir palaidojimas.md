@@ -110,7 +110,10 @@ Nenurodyta
     4 Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
     se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo Gardine nuo 1492 m.
     gegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404).
-  citata_rodoma: "4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­\nse, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m. \ngegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404)."
+  citata_rodoma: |
+    4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
+    se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m.
+    gegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

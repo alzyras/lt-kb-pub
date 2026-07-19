@@ -466,7 +466,11 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     ninkių tautų yra minimos — vis savo atskiras kalbas turinčios —
     «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­
     nams buvo svarbus vandens kelias į rytus.
-  citata_rodoma: "Tarp kitų duokli­\nninkių tautų yra minimos — vis savo atskiras kalbas turinčios —\n«Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­\nnams buvo svarbus vandens kelias į rytus."
+  citata_rodoma: |
+    Tarp kitų duokli­
+    ninkių tautų yra minimos — vis savo atskiras kalbas turinčios —
+    «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­
+    nams buvo svarbus vandens kelias į rytus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -485,7 +489,10 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
     drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
     dalis jų yra žinoma ir vardais.
-  citata_rodoma: "Tokiu atskirų sričių kunigų istorijos\npriešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant\ndrauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž."
+  citata_rodoma: |
+    Tokiu atskirų sričių kunigų istorijos
+    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
+    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -526,7 +533,13 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     sukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas
     tik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo
     30 metų (1290).
-  citata_rodoma: "Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą\nprieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.)\nnesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo\nsukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas\ntik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo\n30 metų (1290)."
+  citata_rodoma: |
+    Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą
+    prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.)
+    nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo
+    sukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas
+    tik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo
+    30 metų (1290).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -549,7 +562,11 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
 
     vi-v1I a. į baltų žemes, iš pietų palei Dniepro upę, ėmė verž-
     tis slavų gentys.
-  citata_rodoma: "Tiesa, kuršiai XI a. jau ir patys reng-\ndavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.\n\nvi-v1I a."
+  citata_rodoma: |
+    Tiesa, kuršiai XI a. jau ir patys reng-
+    davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+
+    vi-v1I a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -570,7 +587,11 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19. Lyginant su rytiniais baltais
     — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
     kitos nutolusios.
-  citata_rodoma: "Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai\nprie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,\nžemaičių (žemutinių lietuvių) ir latvių13.\n  Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t."
+  citata_rodoma: |
+    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
+    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
+    žemaičių (žemutinių lietuvių) ir latvių13.
+      Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -628,7 +649,12 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     108), Prussia (1212 m..— ten pat, Nr. 6, p. 5; Nr. 7, p. 6; 1224 m.— Nr. 52, p. 38), Prutia
     (1216 m.—ten pat, Nr. 9, p. 7; 1222 m.— Nr. 41, p. 28), Prusia (1223 m,— ten pat, Nr.
     46, p. 34; 1230 m.— Nr. 75, p. 56), Prucia (1228 m.— ten pat, Nr. 67, p. 49—50).
-  citata_rodoma: "Į šiaurę nuo Nemuno žiočių, Minijos\nžemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.\nLietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,\np. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,\nžemėl.). Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa."
+  citata_rodoma: |
+    Į šiaurę nuo Nemuno žiočių, Minijos
+    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
+    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
+    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
+    žemėl.). Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

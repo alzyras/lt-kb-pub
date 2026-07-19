@@ -81,7 +81,12 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
     regėsite viešpaties jums siunčiamą pagal bą“. Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
     pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
     relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
-  citata_rodoma: "Taip pat buvęs jų nužudytas dar\nvienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties\nprūsai labai džiūgavo, o broliai sielvartavo. Tačiau broliai sugalvojo paversti jų džiugesį\našaromis bei liūdesiu ir prieš pilies vartus pakorė 30 prūsų įkaitų, kuriuos buvo paėmę\nį nelaisvę."
+  citata_rodoma: |
+    Taip pat buvęs jų nužudytas dar
+    vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties
+    prūsai labai džiūgavo, o broliai sielvartavo. Tačiau broliai sugalvojo paversti jų džiugesį
+    ašaromis bei liūdesiu ir prieš pilies vartus pakorė 30 prūsų įkaitų, kuriuos buvo paėmę
+    į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

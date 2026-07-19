@@ -88,7 +88,9 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
     1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
     grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
     Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-  citata_rodoma: "1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo\ngrąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t."
+  citata_rodoma: |
+    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
+    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -106,7 +108,11 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
     ir Alnos (kair. Priegliaus intako), o vietovardžiai, kilę iš atitinkamų prūsiškų žodžių
     caymis, ape, garbis,— į vakarus.
-  citata_rodoma: "A. Becenbergeris nustatė, kad\nvietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos\nir Alnos (kair. Priegliaus intako), o vietovardžiai, kilę  iš atitinkamų prūsiškų žodžių\ncaymis, ape, garbis,—  į vakarus."
+  citata_rodoma: |
+    A. Becenbergeris nustatė, kad
+    vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
+    ir Alnos (kair. Priegliaus intako), o vietovardžiai, kilę  iš atitinkamų prūsiškų žodžių
+    caymis, ape, garbis,—  į vakarus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

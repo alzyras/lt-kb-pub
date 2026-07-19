@@ -107,7 +107,10 @@ Nenurodyta
     1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų
     pasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-
     tais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus.
-  citata_rodoma: "1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų\npasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-\ntais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus."
+  citata_rodoma: |
+    1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų
+    pasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-
+    tais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

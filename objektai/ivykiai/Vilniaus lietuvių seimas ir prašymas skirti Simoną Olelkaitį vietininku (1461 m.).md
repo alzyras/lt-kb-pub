@@ -161,7 +161,26 @@ Nenurodyta
     kia ieškoti tokių vaistų, kurie visiems laikams išgydy­
     tų negalę, sušaukė, susiruošęs traukti į Prūsiją, Vilniuje
     lietuvių seimą.
-  citata_rodoma: "Tačiau lemiamas žingsnis nebuvo žengtas: pasi­\ntenkinta grasinimais bei kariuomenės telkimu, nes kaip \ntik tuo metu mirė žymiausias šios grupuotės vadas Jo­\nnas Goštautas. Antra vertus, karalius irgi labiau nei\nkitados stengėsi išlaikyti sa-\n1460 m e ta i \nvo rankose Lietuvą, nes su­\nsilaukė jau kelių palikuonių \n(mat šiek tiek anksčiau gimė trečias sūnus Jonas Ol- \nbrachtas, o šiais metais ir ketvirtas — Aleksandras), to­\ndėl visaip baudėsi Bresto seime nukreipti nuo Podolės \ndidikų užmojus. Kadangi skausmas dėl patirtos skriau­\ndos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus, \nkaraliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­\nščio, tačiau, jam išvykus, vėl \nK araliui p a v y k s ta n u- \nryžtingai rengdavosi karui ir \nram inti \ngriebdavosi ginklų."
+  citata_rodoma: |
+    Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
+    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
+    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
+    nas Goštautas. Antra vertus, karalius irgi labiau nei
+    kitados stengėsi išlaikyti sa-
+    1460 m e ta i
+    vo rankose Lietuvą, nes su­
+    silaukė jau kelių palikuonių
+    (mat šiek tiek anksčiau gimė trečias sūnus Jonas Ol-
+    brachtas, o šiais metais ir ketvirtas — Aleksandras), to­
+    dėl visaip baudėsi Bresto seime nukreipti nuo Podolės
+    didikų užmojus. Kadangi skausmas dėl patirtos skriau­
+    dos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus,
+    karaliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­
+    ščio, tačiau, jam išvykus, vėl
+    K araliui p a v y k s ta n u-
+    ryžtingai rengdavosi karui ir
+    ram inti
+    griebdavosi ginklų.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

@@ -89,7 +89,11 @@ Nenurodyta
     siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas.
-  citata_rodoma: "LLL apie save ypač drą-\nsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-\ntropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus\npaminklo Vilniuje surengtas protesto mitingas."
+  citata_rodoma: |
+    LLL apie save ypač drą-
+    siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
+    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
+    paminklo Vilniuje surengtas protesto mitingas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -110,7 +114,14 @@ Nenurodyta
     disidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-
     ves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl
     savo nepriklausomybės.
-  citata_rodoma: "LLL apie save ypač drą-\nsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-\ntropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus \npaminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir \ndisidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-\nves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl \nsavo nepriklausomybės."
+  citata_rodoma: |
+    LLL apie save ypač drą-
+    siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
+    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
+    paminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir
+    disidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-
+    ves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl
+    savo nepriklausomybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

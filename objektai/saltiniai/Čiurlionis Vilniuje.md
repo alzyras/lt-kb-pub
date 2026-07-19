@@ -66,7 +66,9 @@ media_all_json: |-
   citata_originali: |
     Vilnius,
     2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J. Galkus.
-  citata_rodoma: "Vilnius, \n2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J."
+  citata_rodoma: |
+    Vilnius,
+    2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

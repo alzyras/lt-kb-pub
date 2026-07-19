@@ -177,7 +177,12 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     mai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų
     teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
     tautybę ar lytį.
-  citata_rodoma: "Įsitvirtinus didumoje savo teritorijos atėjo \neilė valstybės struktūros klausimams. Dėl nepriklausomybės kovų rinki-\nmai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų \nteisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, \ntautybę ar lytį."
+  citata_rodoma: |
+    Įsitvirtinus didumoje savo teritorijos atėjo
+    eilė valstybės struktūros klausimams. Dėl nepriklausomybės kovų rinki-
+    mai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų
+    teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
+    tautybę ar lytį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -196,7 +201,10 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
     auksu paremtas litas, kurį sudaro 100 centų.
-  citata_rodoma: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-\nniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra \nauksu paremtas litas, kurį sudaro 100 centų."
+  citata_rodoma: |
+    Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -218,7 +226,10 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
     tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
     principus.
-  citata_rodoma: "Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-\ntucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos \nprincipus."
+  citata_rodoma: |
+    Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
+    tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
+    principus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -134,7 +134,9 @@ Nenurodyta
     Maskvos kunigaikščiu dėl pirmavimo šiaurės rytų Rusioje. Legen­
     dos veiksmas vyksta pavasarį, per Velykas, bet iš tikro du Krem­
     liaus apgulimai (1368 ir 1370 m.) buvo gruodžio mėn.
-  citata_rodoma: "1 7  Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­\ntautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų."
+  citata_rodoma: |
+    1 7  Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­
+    tautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

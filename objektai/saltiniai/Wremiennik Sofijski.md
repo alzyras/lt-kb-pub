@@ -277,7 +277,15 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     Kronika Ruška, Vilniuje, 1827 m. 1.170;
     užsimena apie tos bažnyčios Vilniu­
     je egzistavimą jau 1347 metais.
-  citata_rodoma: "Tas galingas didikas, paėmęs už žmoną \nBučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir\n18\nWremiennik Sofijski, p. 334. Žr. \nDanilovičių: Latopisiec Litwy i \nKronika Ruška, Vilniuje, 1827 m. 1.170; \nužsimena apie tos bažnyčios Vilniu­\nje egzistavimą jau 1347 metais."
+  citata_rodoma: |
+    Tas galingas didikas, paėmęs už žmoną
+    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
+    18
+    Wremiennik Sofijski, p. 334. Žr.
+    Danilovičių: Latopisiec Litwy i
+    Kronika Ruška, Vilniuje, 1827 m. 1.170;
+    užsimena apie tos bažnyčios Vilniu­
+    je egzistavimą jau 1347 metais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

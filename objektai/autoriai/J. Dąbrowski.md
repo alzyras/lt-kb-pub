@@ -61,7 +61,11 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
     **_lium Poloniae Jana Długosza z lat 1385-1444,_** **I, Wroclaw-Warszawa-Kraków
     1961, 53 p.**
     (^31) **DlugO, XII, 526 p.
-  citata_rodoma: "— J.** Dąbrowski **:** **_Rozbiór krytyczny Anna_** **­**\n**_lium Poloniae Jana Długosza z lat 1385-1444,_** **I, Wroclaw-Warszawa-Kraków\n1961, 53 p.**\n(^31) **DlugO, XII, 526 p."
+  citata_rodoma: |
+    — J.** Dąbrowski **:** **_Rozbiór krytyczny Anna_** **­**
+    **_lium Poloniae Jana Długosza z lat 1385-1444,_** **I, Wroclaw-Warszawa-Kraków
+    1961, 53 p.**
+    (^31) **DlugO, XII, 526 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

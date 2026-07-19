@@ -98,7 +98,14 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
     Iš čia aišku, kad Vytautas, nežiūrint Jogailos didelių
     pasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,
     kad jam, matyti, dar nebuvo atėjęs laikas veikti.
-  citata_rodoma: "Dar\nvasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi\npilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­\ntalpintos kryžiuočių įgulos.\nIš čia aišku, kad Vytautas, nežiūrint Jogailos didelių\npasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,\nkad jam, matyti, dar nebuvo atėjęs laikas veikti."
+  citata_rodoma: |
+    Dar
+    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
+    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
+    talpintos kryžiuočių įgulos.
+    Iš čia aišku, kad Vytautas, nežiūrint Jogailos didelių
+    pasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,
+    kad jam, matyti, dar nebuvo atėjęs laikas veikti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

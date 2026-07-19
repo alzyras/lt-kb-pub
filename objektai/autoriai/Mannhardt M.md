@@ -89,7 +89,9 @@ Dusburgietis teigia, kad mannhardt M.
     (D.— Jonis, Jer.— Jon), Sarginio s.
 
     Krikštytojas, šv.
-  citata_rodoma: "Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.\n  Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z."
+  citata_rodoma: |
+    Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
+      Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -100,7 +100,17 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
     perskaičius būtų siunčiami toliau ir visur skelbiama juose
     nurodyti pranešimai bei įsipareigojimai.
-  citata_rodoma: "Kryžiuočiai tą antspaudą mums panieką reikš­\ndami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­\ngalba sumanymo įgyvendinimą ir žmonėms akis užtem­\ndytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą \npiktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame \ntiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­\nviu, melagiu ir žmogum be garbės\"*. Tie laiškai rašyti Vil­\nniuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos \nperskaičius būtų siunčiami toliau ir visur skelbiama juose \nnurodyti pranešimai bei įsipareigojimai."
+  citata_rodoma: |
+    Kryžiuočiai tą antspaudą mums panieką reikš­
+    dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­
+    galba sumanymo įgyvendinimą ir žmonėms akis užtem­
+    dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą
+    piktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame
+    tiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­
+    viu, melagiu ir žmogum be garbės"*. Tie laiškai rašyti Vil­
+    niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
+    perskaičius būtų siunčiami toliau ir visur skelbiama juose
+    nurodyti pranešimai bei įsipareigojimai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -120,7 +130,14 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     privatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo
     laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­
     kus, melagius ir jokios garbės neturinčius žmonės.].
-  citata_rodoma: "Po šių paaiškinimų apie antspaudą visuose trijuose \nlaiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį \nesant tikrai. Contradictores huius sigilli tanquam maliciosos, fi­\ndei destructores, hereticos, mendaces repudiamus et omni honore \nprivatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo \nlaišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­\nkus, melagius ir jokios garbės neturinčius žmonės.]."
+  citata_rodoma: |
+    Po šių paaiškinimų apie antspaudą visuose trijuose
+    laiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį
+    esant tikrai. Contradictores huius sigilli tanquam maliciosos, fi­
+    dei destructores, hereticos, mendaces repudiamus et omni honore
+    privatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo
+    laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­
+    kus, melagius ir jokios garbės neturinčius žmonės.].
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

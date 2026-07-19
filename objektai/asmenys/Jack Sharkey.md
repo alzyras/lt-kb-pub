@@ -90,7 +90,14 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
     pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
     boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
     garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-  citata_rodoma: "Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA \nžvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-\ntina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.), \nolimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-\npionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), \nboksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo \ngarsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis."
+  citata_rodoma: |
+    Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
+    žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
+    tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
+    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
+    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
+    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
+    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

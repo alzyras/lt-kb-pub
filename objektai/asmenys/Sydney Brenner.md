@@ -84,7 +84,8 @@ media_all_json: |-
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: "rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda"
+  citata_rodoma: |
+    rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

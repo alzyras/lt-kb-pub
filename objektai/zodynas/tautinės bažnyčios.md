@@ -72,7 +72,11 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
     jų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-
     chijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių
     bažnyčių. Bet jų nedaug tėra — vos 6.
-  citata_rodoma: "Taip antai, kai kur lietuvių laisvamanių ir griežtesnių-\njų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-\nchijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių\nbažnyčių. Bet jų nedaug tėra — vos 6."
+  citata_rodoma: |
+    Taip antai, kai kur lietuvių laisvamanių ir griežtesnių-
+    jų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-
+    chijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių
+    bažnyčių. Bet jų nedaug tėra — vos 6.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

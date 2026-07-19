@@ -168,7 +168,15 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
     kariuomene, perėję ledu Nemuną, stipriu puolimu paėmė ir « pele­
     nais pavertė » Lietuvos panemunio pilį Biseną (netoli Skirsnemu­
     nės).
-  citata_rodoma: "Prasidėjo karas su lietuviais».\nTais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo\nkronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­\nčiausio sprando ir kariauti pratusia tauta »^1. Jau 1283 žiemą Prūsų\nordino magistras Meinhard von Querfurt su daug riterių ir gausia\nkariuomene, perėję ledu Nemuną, stipriu puolimu paėmė ir « pele­\nnais pavertė » Lietuvos panemunio pilį Biseną (netoli Skirsnemu­\nnės)."
+  citata_rodoma: |
+    Prasidėjo karas su lietuviais».
+    Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
+    kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
+    čiausio sprando ir kariauti pratusia tauta »^1. Jau 1283 žiemą Prūsų
+    ordino magistras Meinhard von Querfurt su daug riterių ir gausia
+    kariuomene, perėję ledu Nemuną, stipriu puolimu paėmė ir « pele­
+    nais pavertė » Lietuvos panemunio pilį Biseną (netoli Skirsnemu­
+    nės).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +199,14 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
     **1. Pirmosios lietuvių kovos prie Nemuno su Prūsų**
         **ordinu ir naujos dinastijos kilmė**
     «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
-  citata_rodoma: "LIETUVOS VALSTYBINGUMO IŠSIVYSTYMAS\n\n### (1283-1387)\n\n**1. Pirmosios lietuvių kovos prie Nemuno su Prūsų**\n    **ordinu ir naujos dinastijos kilmė**\n«Baigėsi karas su prūsais. Prasidėjo karas su lietuviais»."
+  citata_rodoma: |
+    LIETUVOS VALSTYBINGUMO IŠSIVYSTYMAS
+
+    ### (1283-1387)
+
+    **1. Pirmosios lietuvių kovos prie Nemuno su Prūsų**
+        **ordinu ir naujos dinastijos kilmė**
+    «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -210,7 +225,13 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
     Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
     kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
     čiausio sprando ir kariauti pratusia tauta »^1.
-  citata_rodoma: "Pirmosios lietuvių kovos prie Nemuno su Prūsų**\n    **ordinu ir naujos dinastijos kilmė**\n«Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».\nTais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo\nkronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­\nčiausio sprando ir kariauti pratusia tauta »^1."
+  citata_rodoma: |
+    Pirmosios lietuvių kovos prie Nemuno su Prūsų**
+        **ordinu ir naujos dinastijos kilmė**
+    «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
+    Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
+    kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
+    čiausio sprando ir kariauti pratusia tauta »^1.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

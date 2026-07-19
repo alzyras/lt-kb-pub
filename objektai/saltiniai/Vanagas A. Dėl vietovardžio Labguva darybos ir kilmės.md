@@ -78,7 +78,9 @@ Dusburgietis teigia, kad vanagas A.
     114—120.
     Мажюлис В. Заметки по прусскому вокализму. — Вопросы теории и истории языка,
     Л., 1963, с.
-  citata_rodoma: "Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.\n185—189."
+  citata_rodoma: |
+    Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
+    185—189.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

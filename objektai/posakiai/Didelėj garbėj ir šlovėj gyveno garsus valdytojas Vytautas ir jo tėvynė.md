@@ -63,7 +63,15 @@ media_all_json: |-
     Ir tikrai Vytautu yra kuo mūsų tautai didžiuotis, yra kuo ir
     džiaugtis, ir kartu su šviesia viltim žiūrėt į ateitį, belaukiant to­
     kių genijų ir kitose mūsų gyvenimo srityse.
-  citata_rodoma: "„Didelėj garbėj ir šlovėj gyveno garsus val­\ndytojas Vytautas ir jo tėvynė“ — kalba apie jį vienas kroniki­\nninkas; „kunigaikštis kilnios širdies ir garsios garbės“—tvirtina\nkitas kronikininkas Mechovita; „vyras, už kurį didesnio Lie­\ntuva neturėjo“ — išsireiškia šimtą metų vėliau Herberšteinas^1 ).\nIr tikrai Vytautu yra kuo mūsų tautai didžiuotis, yra kuo ir\ndžiaugtis, ir kartu su šviesia viltim žiūrėt į ateitį, belaukiant to­\nkių genijų ir kitose mūsų gyvenimo srityse."
+  citata_rodoma: |
+    „Didelėj garbėj ir šlovėj gyveno garsus val­
+    dytojas Vytautas ir jo tėvynė“ — kalba apie jį vienas kroniki­
+    ninkas; „kunigaikštis kilnios širdies ir garsios garbės“—tvirtina
+    kitas kronikininkas Mechovita; „vyras, už kurį didesnio Lie­
+    tuva neturėjo“ — išsireiškia šimtą metų vėliau Herberšteinas^1 ).
+    Ir tikrai Vytautu yra kuo mūsų tautai didžiuotis, yra kuo ir
+    džiaugtis, ir kartu su šviesia viltim žiūrėt į ateitį, belaukiant to­
+    kių genijų ir kitose mūsų gyvenimo srityse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

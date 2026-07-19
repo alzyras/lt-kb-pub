@@ -76,7 +76,15 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
     tizanų maldaknygę ir perdavė ją Merkio
     rinktinės vadui Adolfui Ramanauskui-
     Vanagui.
-  citata_rodoma: "Prieš mūšį\n1945 m. gruodžio 5 d. prie Mardasavo\n\nkm., ant Merkio kranto netikėtai užklupti\nNKVD dalinio, žuvo Marcinkonių bataliono\nvadas Lionginas Švalkus-Šernas, Tomas\nKondrotas-Briedis, Adolfas Bilinskas-\nJurginas ir Martynas Navickas-Kardas."
+  citata_rodoma: |
+    Prieš mūšį
+    1945 m. gruodžio 5 d. prie Mardasavo
+
+    km., ant Merkio kranto netikėtai užklupti
+    NKVD dalinio, žuvo Marcinkonių bataliono
+    vadas Lionginas Švalkus-Šernas, Tomas
+    Kondrotas-Briedis, Adolfas Bilinskas-
+    Jurginas ir Martynas Navickas-Kardas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

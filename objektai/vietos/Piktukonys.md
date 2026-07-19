@@ -73,7 +73,12 @@ Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Pi
     ūgio ne aukštesnio, kaip viena uolektis“.
     Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
     pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.
-  citata_rodoma: "Tą vardą Stenderis išveda\niš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-\nke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli\nVilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose\nvadinosi pursčiai (Puršcie)."
+  citata_rodoma: |
+    Tą vardą Stenderis išveda
+    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
+    ke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
+    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
+    vadinosi pursčiai (Puršcie).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

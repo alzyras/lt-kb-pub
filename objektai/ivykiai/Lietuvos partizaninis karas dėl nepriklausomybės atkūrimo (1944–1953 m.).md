@@ -170,7 +170,9 @@ Nenurodyta
     liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
     sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį. Užimant
     Grupė Lietuvos partizanų 1947 m.
-  citata_rodoma: "Užimant \nGrupė Lietuvos partizanų 1947 m."
+  citata_rodoma: |
+    Užimant
+    Grupė Lietuvos partizanų 1947 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -192,7 +194,11 @@ Nenurodyta
     mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
     macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
     buvo leidžiama 80 pavadinimų periodinių leidinių.
-  citata_rodoma: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-\nmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-\nmacijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau \nbuvo leidžiama 80 pavadinimų periodinių leidinių."
+  citata_rodoma: |
+    Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
+    mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
+    macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
+    buvo leidžiama 80 pavadinimų periodinių leidinių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +223,18 @@ Nenurodyta
     kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
     įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
     netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
-  citata_rodoma: "Karas po karo – ginkluota rezistencija \nNuo 1944 m. vasaros sovietų represijos ir teroras kurstė \nlietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas \ndėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių\n\nL I E T U V O S  I S T O R I J A\n210\npasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais, \nkad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui \nįvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos \nnetekusioms šalims, kad Vakarai pakils į žygį prieš J."
+  citata_rodoma: |
+    Karas po karo – ginkluota rezistencija
+    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
+    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
+    dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
+
+    L I E T U V O S  I S T O R I J A
+    210
+    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
+    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
+    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
+    netekusioms šalims, kad Vakarai pakils į žygį prieš J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -85,7 +85,10 @@ Dusburgietis teigia, kad wermke E.
     Рига, 1980, с. 137—146.
     Непокупный А. П. Названия ятвяжских сел на -ища в галицкой части Ипатьевской
     летописи.
-  citata_rodoma: "Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962\n(Königsberg, 1933); 1930—1938, Aalen, 1964; 1939—1970, Bonn, 1974.\n  Wernicke E. Marienwerder.—Marienwerder, 1933."
+  citata_rodoma: |
+    Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962
+    (Königsberg, 1933); 1930—1938, Aalen, 1964; 1939—1970, Bonn, 1974.
+      Wernicke E. Marienwerder.—Marienwerder, 1933.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

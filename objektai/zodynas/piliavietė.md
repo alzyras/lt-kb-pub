@@ -144,7 +144,13 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
     kėtą Kuršių marių įlanką, vadinama Gillmite, Gilvyte,
     t. y. neapsakomai gilią; šią įlanką žvejai vadina Laing,
     arba langas, langas, t. y. uosto prieplauka.
-  citata_rodoma: "Prie Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va-\ndinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-\nnia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo-\nmis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri yra senovinė piliavietė, nuplaukusi gražiomis apylinkė-\nmis apie penkias mylias, suskyla į daugelį mažų vagų, arba\nprotakų."
+  citata_rodoma: |
+    Prie Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va-
+    dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
+    nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo-
+    mis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri yra senovinė piliavietė, nuplaukusi gražiomis apylinkė-
+    mis apie penkias mylias, suskyla į daugelį mažų vagų, arba
+    protakų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -170,7 +176,10 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
     dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
     nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­
     mis.
-  citata_rodoma: "Prie šios upės yra daug senovės pilia-\nviečių, pylimų, pilkapių, kapų ir reikšmingų šventųjų vie-\ntų; pašventintų daugelio praėjusių metų atminimų."
+  citata_rodoma: |
+    Prie šios upės yra daug senovės pilia-
+    viečių, pylimų, pilkapių, kapų ir reikšmingų šventųjų vie-
+    tų; pašventintų daugelio praėjusių metų atminimų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

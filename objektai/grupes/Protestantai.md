@@ -135,7 +135,10 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
     ir miestiečių. Bet jau XVII amžiuje jos ėmė nykti, didesnio
     vaidmens nesuvaidinusios.
-  citata_rodoma: "Katalikams pačios pavojingosios buvo protestantų\nmokyklos. Jos buvo steigiamos protestantų didikų, o kai kur\nir miestiečių."
+  citata_rodoma: |
+    Katalikams pačios pavojingosios buvo protestantų
+    mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
+    ir miestiečių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

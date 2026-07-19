@@ -209,7 +209,17 @@ Nenurodyta
     nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų
     ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
     kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
-  citata_rodoma: "Dėl to Prūsijoje daug naujakrikščių, \nkurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui \nbei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai \nbuvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.\n221 (216). Baigiamas karas Prūsijoje. Prasideda karas su lietuviais\n1283 viešpaties metais, kai nuo karų su prūsų gentimis pradžios prabėgo jau 53 metai \nir visos šios žemės giminės [nationes] jau buvo nukariautos ir išvaikytos, žodžiu, kai čia \nnebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų \nordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta, \nkuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje."
+  citata_rodoma: |
+    Dėl to Prūsijoje daug naujakrikščių,
+    kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
+    bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai
+    buvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.
+    221 (216). Baigiamas karas Prūsijoje. Prasideda karas su lietuviais
+    1283 viešpaties metais, kai nuo karų su prūsų gentimis pradžios prabėgo jau 53 metai
+    ir visos šios žemės giminės [nationes] jau buvo nukariautos ir išvaikytos, žodžiu, kai čia
+    nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų
+    ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
+    kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -233,7 +243,15 @@ Nenurodyta
     Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
     skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
     (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
-  citata_rodoma: "Apie Skomanto, sūduvių vado, atsivertimą\n\n  Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,\nnegalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios\nžemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas\ntremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip\ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė\ntikėjimui ir broliams."
+  citata_rodoma: |
+    Apie Skomanto, sūduvių vado, atsivertimą
+
+      Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,
+    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
+    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
+    tremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

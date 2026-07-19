@@ -317,8 +317,25 @@ Nenurodyta
     Prikabintas LDK antspaudas
     Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
     niaus miesto knygos, vykstant ribų komisijos teismams tarp
-    jo did. pono Goreckio, Lydos pav. iždininko, ir garb.
-  citata_rodoma: "Dėl to taip \npat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis \nJonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį \ntiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­\nnėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­\nnauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­\ntus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai \nprieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą \nduoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto \ngalia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­\nspaudas. Tai įvyko ir duota Vilniuje Viešpaties gimimo 1536 \nmetų rugpjūčio 6 dieną, mūsų karaliavimo 3-iaisiais metais.\nKaralius ŽYGIMANTAS\nPrikabintas LDK antspaudas\nŠios privilegijos ištrauka iš garbingojo magistrato ir Vil­\nniaus miesto knygos, vykstant ribų komisijos teismams tarp \njo did."
+    jo did.
+  citata_rodoma: |
+    Dėl to taip
+    pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis
+    Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį
+    tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­
+    nėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­
+    nauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­
+    tus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai
+    prieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą
+    duoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto
+    galia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­
+    spaudas. Tai įvyko ir duota Vilniuje Viešpaties gimimo 1536
+    metų rugpjūčio 6 dieną, mūsų karaliavimo 3-iaisiais metais.
+    Karalius ŽYGIMANTAS
+    Prikabintas LDK antspaudas
+    Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
+    niaus miesto knygos, vykstant ribų komisijos teismams tarp
+    jo did.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

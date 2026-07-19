@@ -127,7 +127,11 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
     ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
     kryptimi galima būtų keliauti, nes taip lengviausia pa­
     tenkinti gyvenimo poreikius.
-  citata_rodoma: "pirmuoju atveju pakako turėti šiokią tokią valtį, o antruo-\nju — žiemos kinkinį, kad pasroviui arba tų vandens kelių\nkryptimi galima būtų keliauti, nes taip lengviausia pa-\ntenkinti gyvenimo poreikius."
+  citata_rodoma: |
+    pirmuoju atveju pakako turėti šiokią tokią valtį, o antruo-
+    ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
+    kryptimi galima būtų keliauti, nes taip lengviausia pa-
+    tenkinti gyvenimo poreikius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

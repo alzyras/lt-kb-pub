@@ -86,7 +86,8 @@ Nenurodyta
     nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
     spręsti visus socialinius ir kultūrinius žydų reikalus.
-  citata_rodoma: "ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo"
+  citata_rodoma: |
+    ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

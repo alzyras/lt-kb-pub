@@ -91,7 +91,17 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
     sutelkė kulkosvaidžių ir artilerijos ugnį.
     Neturintys kovos patirties savanoriai, drą-
     sinami būrių vadų, nepakriko ir laikėsi.
-  citata_rodoma: "Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo\nLietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su\nšūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)\n\nKėdainių gynyba Karininkai J. Mikoliūnas ir\nK. Dragunevičius, surinkę apie 80 karei-\nvinėse buvusių savanorių ir išskleidę juos\nabipus vieškelio Kėdainiai-Šėta, efektyvia\nšautuvų ugnimi įstengė sustabdyti priešo\npuolimą."
+  citata_rodoma: |
+    Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
+    Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
+    šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)
+
+    Kėdainių gynyba Karininkai J. Mikoliūnas ir
+    K. Dragunevičius, surinkę apie 80 karei-
+    vinėse buvusių savanorių ir išskleidę juos
+    abipus vieškelio Kėdainiai-Šėta, efektyvia
+    šautuvų ugnimi įstengė sustabdyti priešo
+    puolimą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +122,12 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
     rytų turėjo per Nabutiškius pulti šiaurinį
     Petraičių kaimo pakraštį ir veržtis to-
     liau į Šėtą.
-  citata_rodoma: "Kairioji karin. J. Mikoliūno vora aplenk-\ndama Žemųjų Kaplių kaimą iš šiaurės\nrytų turėjo per Nabutiškius pulti šiaurinį\nPetraičių kaimo pakraštį ir veržtis to-\nliau į Šėtą."
+  citata_rodoma: |
+    Kairioji karin. J. Mikoliūno vora aplenk-
+    dama Žemųjų Kaplių kaimą iš šiaurės
+    rytų turėjo per Nabutiškius pulti šiaurinį
+    Petraičių kaimo pakraštį ir veržtis to-
+    liau į Šėtą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -65,7 +65,8 @@ Vokiečių okupuota Lietuva (1941–1944).
   citata_originali: |
     Vilnius, 1996.
     Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
-  citata_rodoma: "Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998."
+  citata_rodoma: |
+    Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

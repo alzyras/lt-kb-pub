@@ -131,7 +131,17 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
     fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
     piežius Inocentas X irgi patvirtino.
-  citata_rodoma: "1539 metais \nkardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri-\njonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib- \nrolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au-\ngustui, buvo funduota arkikonfratrija ir tais pačiais metais \nlapkričio 27 dieną to paties vyskupo surengtas iškilmingas \nįvesdinimas. 1577 metų gruodžio 19 dienos, o pirmesne 1539 \nmetų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon-\nfratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po-\npiežius Inocentas X irgi patvirtino."
+  citata_rodoma: |
+    1539 metais
+    kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri-
+    jonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib-
+    rolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au-
+    gustui, buvo funduota arkikonfratrija ir tais pačiais metais
+    lapkričio 27 dieną to paties vyskupo surengtas iškilmingas
+    įvesdinimas. 1577 metų gruodžio 19 dienos, o pirmesne 1539
+    metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon-
+    fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po-
+    piežius Inocentas X irgi patvirtino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

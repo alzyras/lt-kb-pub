@@ -81,7 +81,8 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
     knygą prof. dr. Zenonui Butkui ir doc. dr. Sauliui Kaubriui ir daugeliui
     kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
     atrinkimo.
-  citata_rodoma: "nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip"
+  citata_rodoma: |
+    nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

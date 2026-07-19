@@ -55,8 +55,12 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
     20 grašių. Slups-
     kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
     šius. Per poną Turčiną pasiunčiau į Vilnių 80 filipkų, kuriuos
-    priėmė į iždą karališk. did. paliepimu po 1 floriną.
-  citata_rodoma: "20 grašių. Slups- \nkis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­\nšius. Per poną Turčiną pasiunčiau į Vilnių 80 filipkų, kuriuos \npriėmė į iždą karališk."
+    priėmė į iždą karališk.
+  citata_rodoma: |
+    20 grašių. Slups-
+    kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
+    šius. Per poną Turčiną pasiunčiau į Vilnių 80 filipkų, kuriuos
+    priėmė į iždą karališk.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

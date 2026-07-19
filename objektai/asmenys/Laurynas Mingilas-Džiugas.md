@@ -72,7 +72,12 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
     „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę. Soku greitai ir paciumpu už
     ginklo. Ir tuo pačiu metu iš vakarų ir šiaurinio kampo pusės pasipila automatinių ginklų
     serijos.
-  citata_rodoma: "rugpjūčio 13 d.\n\nKautynes aprašė partizanas Laurynas Mingilas-Džiugas:\n\n„„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę."
+  citata_rodoma: |
+    rugpjūčio 13 d.
+
+    Kautynes aprašė partizanas Laurynas Mingilas-Džiugas:
+
+    „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -106,7 +106,9 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
     dovanojamas už nusikaltimą. Jam landgrafas tarė: „Kaip tu drįsai man į akis pasirodyti?“
     Šis atsakė: „Atėjau pas jus, pasitikėdamas jūsų nepaprastu maloningumu ir atlaidumu,
     nes kaip ir jūs tvirtai iš grynos širdies pasiryžau stoti į Teutonų namų ordiną“.
-  citata_rodoma: "Be to, ten buvo\nparašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34)."
+  citata_rodoma: |
+    Be to, ten buvo
+    parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -126,7 +128,14 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
     dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
     traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
     dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką.
-  citata_rodoma: "Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių\n\n  Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,\n  596 1241 m. įvykiai.\n\nkuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.\n21,33)."
+  citata_rodoma: |
+    Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
+
+      Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,
+      596 1241 m. įvykiai.
+
+    kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
+    21,33).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

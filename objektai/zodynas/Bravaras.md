@@ -78,7 +78,8 @@ Terminas vartojamas XIX a. kaimo gėrimo ir dvaro ūkio kontekste.
     Čia buvo bravariukas.“
     Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos
     lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
-  citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
+  citata_rodoma: |
+    Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
   statusas: verified
   atnaujinta: "2026-07-12 08:45"
   teiginio_tipas: faktas

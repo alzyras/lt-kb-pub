@@ -89,7 +89,8 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
     triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
     reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
     atsakymą, nes kitaip bus blogai – suprask – kils karas.
-  citata_rodoma: "triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,"
+  citata_rodoma: |
+    triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -108,7 +108,9 @@ Nenurodyta
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais. Tačiau tas nieko nepadėjo: misijo-
     nieriams čia nesisekė platinti krikščionybės.
-  citata_rodoma: "Tačiau tas nieko nepadėjo: misijo-\nnieriams čia nesisekė platinti krikščionybės."
+  citata_rodoma: |
+    Tačiau tas nieko nepadėjo: misijo-
+    nieriams čia nesisekė platinti krikščionybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -125,7 +127,10 @@ Nenurodyta
     įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
     vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
     paskelbtas šventuoju, krikščionybės kankiniu.
-  citata_rodoma: "Misijonierių la-\nvonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo\npaskelbtas šventuoju, krikščionybės kankiniu."
+  citata_rodoma: |
+    Misijonierių la-
+    vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
+    paskelbtas šventuoju, krikščionybės kankiniu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

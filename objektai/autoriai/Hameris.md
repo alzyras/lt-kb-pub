@@ -74,7 +74,12 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
     dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
     Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
     kurie turėjo gyventi šalia tos teritorijos ribų.
-  citata_rodoma: "Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,\ngyvenusią galų kaimynystėje, prie Dnestro.\nPonas Hameris dar prieš poną Volianskį mėgino šif­\nruoti tą visiškai senovės tyrinėtojams nesuprantamą už­\nrašą. Jis perskaitė tik trečios eilutės pirmą žodį."
+  citata_rodoma: |
+    Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
+    gyvenusią galų kaimynystėje, prie Dnestro.
+    Ponas Hameris dar prieš poną Volianskį mėgino šif­
+    ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
+    rašą. Jis perskaitė tik trečios eilutės pirmą žodį.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -235,7 +235,11 @@ Nenurodyta
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
     grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
     nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
-  citata_rodoma: "Traukinys savo patrankomis ir kul-\nkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“\ngrižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,\nnuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį."
+  citata_rodoma: |
+    Traukinys savo patrankomis ir kul-
+    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
+    grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
+    nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

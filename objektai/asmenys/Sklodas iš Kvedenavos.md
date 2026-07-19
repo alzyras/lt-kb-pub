@@ -102,7 +102,13 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
     taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
     puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
     išžudę.
-  citata_rodoma: "Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o\n                        pirmiausia — prieš Kvedenavos valsčių\n\n  Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,\nbe to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai\npaklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu."
+  citata_rodoma: |
+    Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
+                            pirmiausia — prieš Kvedenavos valsčių
+
+      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
+    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
+    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -127,7 +133,15 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
     gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
     Po to jie vyriškai stojo į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo
     didelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų.
-  citata_rodoma: "Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,\nsembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,\npasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,\nužuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o\nužuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,\ngerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.\nPo to jie vyriškai stojo  į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo\ndidelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų."
+  citata_rodoma: |
+    Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
+    sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,
+    pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,
+    užuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o
+    užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
+    gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
+    Po to jie vyriškai stojo  į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo
+    didelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -105,7 +105,9 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
+  citata_rodoma: |
+    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
+    1846.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -123,7 +125,8 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
+  citata_rodoma: |
+    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

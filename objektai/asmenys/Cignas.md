@@ -95,7 +95,20 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
     kaimynystėje. Pats Plinijus, išdėstęs įvairiais prielaidas,
     nurodo, kad Elektridų, arba Gintaringos, salos turėjusios
     būti Germanų jūros šiaurinėje dalyje, prie Eridano žiočių3.
-  citata_rodoma: "154\n\n## Puslapis 152\n\ndievai pavertė jas tuopomis, o jų ašaros virto gintaro la­\nšais. Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­\ndelis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­\nkiodamas po Eridano ežerą, niūniavo gražias priešmirti­\nnes giesmes.\n157\nŠio mito turinys sutampa su pono Radlofo požiūriu,\nkurį anksčiau (§ 145) pateikėme; šios žinios pateko iš\npadavimų į graikų poetų kūrinius."
+  citata_rodoma: |
+    154
+
+    ## Puslapis 152
+
+    dievai pavertė jas tuopomis, o jų ašaros virto gintaro la­
+    šais. Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
+    delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­
+    kiodamas po Eridano ežerą, niūniavo gražias priešmirti­
+    nes giesmes.
+    157
+    Šio mito turinys sutampa su pono Radlofo požiūriu,
+    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
+    padavimų į graikų poetų kūrinius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

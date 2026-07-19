@@ -53,7 +53,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00242
-    - c-00243
 
 ## Citatos
 
@@ -69,7 +68,10 @@ media_all_json: |-
     šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
     _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
     pasipriešinimo teisė.
-  citata_rodoma: "visi savo laisvės pagrindu laikė\nšį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane\"\n_(nihil de те, sine те)._"
+  citata_rodoma: |
+    visi savo laisvės pagrindu laikė
+    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
+    _(nihil de те, sine те)._
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -89,11 +91,12 @@ media_all_json: |-
     atstovai suvažiuodavo į seimą, žinoma, negalėdavo tarp savęs
     susikalbėti. Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti.
-  citata_rodoma: "Visada atsirasdavo, kas pasakydavo _„veto\",_ ir seimas\nturėdavo iširti."
+  citata_rodoma: |
+    Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
+    turėdavo iširti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06868

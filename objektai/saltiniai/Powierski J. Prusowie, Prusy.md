@@ -67,7 +67,8 @@ Dusburgietis teigia, kad powierski J.
   citata_originali: |
     Urban W. The Baltic Crusade.—Northern Illinois University Press De Kalb, 1975.
     Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky.
-  citata_rodoma: "Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371."
+  citata_rodoma: |
+    Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

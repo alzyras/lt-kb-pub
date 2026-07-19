@@ -153,7 +153,12 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
     kunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
     priklausomumą nuo joanitų141.
-  citata_rodoma: "Vokiečių ordino pradžią jis\ndatuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai\niŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos\nkunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių\n(nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje."
+  citata_rodoma: |
+    Vokiečių ordino pradžią jis
+    datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
+    iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos
+    kunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių
+    (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -180,7 +185,18 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
       154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
     — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
     pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje).
-  citata_rodoma: "Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis\nHenrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,\nkur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais\n\n  154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų\n— Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a."
+  citata_rodoma: |
+    Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis
+    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
+    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
+
+      154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
+    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

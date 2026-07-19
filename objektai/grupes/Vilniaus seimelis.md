@@ -143,7 +143,8 @@ media_all_json: |-
     [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
     kintas Vilniaus seimelio rezultatais [29]. 1753 m. J. D. Lopacinskis minėjo apie tai, kad
     sužinojo, jog Vilniaus seimelis bus nutrauktas [31].
-  citata_rodoma: "1753 m. J. D. Lopacinskis minėjo apie tai, kad sužinojo, jog Vilniaus seimelis bus nutrauktas [31]."
+  citata_rodoma: |
+    1753 m. J. D. Lopacinskis minėjo apie tai, kad sužinojo, jog Vilniaus seimelis bus nutrauktas [31].
   statusas: verified
   atnaujinta: "2026-07-14 09:41"
   teiginio_tipas: faktas
@@ -163,7 +164,12 @@ media_all_json: |-
     per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
     [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
     kintas Vilniaus seimelio rezultatais [29].
-  citata_rodoma: "1752 m. J. D. Lopacinskis minėjo, kad atvyks\nVilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti\nper seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius\n[28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-\nkintas Vilniaus seimelio rezultatais [29]."
+  citata_rodoma: |
+    1752 m. J. D. Lopacinskis minėjo, kad atvyks
+    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
+    per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
+    [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
+    kintas Vilniaus seimelio rezultatais [29].
   statusas: verified
   atnaujinta: "2026-07-14 09:41"
   teiginio_tipas: faktas

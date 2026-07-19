@@ -67,7 +67,8 @@ Dusetos šiame šaltinyje yra vietovė.
   indeksas: "Mūsų tautosaka, t.4 (1931) — Tautosakos komisijos gauta medžiaga ir perrašytos dainos, p. 187 (PDF 185)."
   citata_originali: |
     A. Barzda (iš Dusetų v.) . .
-  citata_rodoma: "A. Barzda (iš Dusetų v.)"
+  citata_rodoma: |
+    A. Barzda (iš Dusetų v.)
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
@@ -82,7 +83,8 @@ Dusetos šiame šaltinyje yra vietovė.
   citata_originali: |
     A. Mažiulis (iš Dusetų v/)
     . .
-  citata_rodoma: "A. Mažiulis (iš Dusetų v/)"
+  citata_rodoma: |
+    A. Mažiulis (iš Dusetų v/)
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

@@ -143,7 +143,29 @@ Nenurodyta
     n io k o ja L ietu vą
     sutelktomis Prūsijos ir Vokie­
     tijos jėgomis, daliniai, ku-
-  citata_rodoma: "Tuo tarpu Vytautas, slėpdamas\nsavo priešiškumą ir daug galvodamas apie karą, vėl\nsuartėjo su Kazimieru, žadėdamas ateiti į pagalbą prieš\nbet kokius priešus (padaręs išimtį vienam Jogailai) ir\nšiuo apgaulingu pažadu statydamas nerangų valdovą\nprieš dar didesnį pavojų.\nPačioje kitų metų pra-\n1390 m e ta i\ndžioje, kai buvo rengiamasi\nV y ta u to\nšalininkai\ndidesnio masto karui vasarą\nn io k o ja  L ietu vą\nsutelktomis Prūsijos ir Vokie­\ntijos jėgomis, daliniai, ku-\n313\n\n## Puslapis 312\n\nriuos Vytautas buvo palikęs Palenkės apsaugai, padarė\npradžią ir staigiai nusiaubė kraštą. Niokojo ne tik Lie­\ntuvai, bet ir Lenkijai priklausančias žemes."
+  citata_rodoma: |
+    Tuo tarpu Vytautas, slėpdamas
+    savo priešiškumą ir daug galvodamas apie karą, vėl
+    suartėjo su Kazimieru, žadėdamas ateiti į pagalbą prieš
+    bet kokius priešus (padaręs išimtį vienam Jogailai) ir
+    šiuo apgaulingu pažadu statydamas nerangų valdovą
+    prieš dar didesnį pavojų.
+    Pačioje kitų metų pra-
+    1390 m e ta i
+    džioje, kai buvo rengiamasi
+    V y ta u to
+    šalininkai
+    didesnio masto karui vasarą
+    n io k o ja  L ietu vą
+    sutelktomis Prūsijos ir Vokie­
+    tijos jėgomis, daliniai, ku-
+    313
+
+    ## Puslapis 312
+
+    riuos Vytautas buvo palikęs Palenkės apsaugai, padarė
+    pradžią ir staigiai nusiaubė kraštą. Niokojo ne tik Lie­
+    tuvai, bet ir Lenkijai priklausančias žemes.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -120,7 +120,12 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
     jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
     vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž.
-  citata_rodoma: "Dar Konstancos susirinkime Vytauto vardu\ntą klausimą rūpestingai kėlė metropolitas Gr. Camblakas.\nNors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­\njęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio\nvaidmens, Vytautas įkurdino benediktinus S."
+  citata_rodoma: |
+    Dar Konstancos susirinkime Vytauto vardu
+    tą klausimą rūpestingai kėlė metropolitas Gr. Camblakas.
+    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
+    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
+    vaidmens, Vytautas įkurdino benediktinus S.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

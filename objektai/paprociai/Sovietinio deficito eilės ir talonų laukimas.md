@@ -94,7 +94,8 @@ Nenurodyta
     ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
     vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
     tiškai viskas buvo deficitas.
-  citata_rodoma: "ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,"
+  citata_rodoma: |
+    ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

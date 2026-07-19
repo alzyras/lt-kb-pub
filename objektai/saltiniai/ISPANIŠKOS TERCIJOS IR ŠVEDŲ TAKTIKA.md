@@ -54,7 +54,8 @@ media_all_json: |-
   citata_originali: |
     P. 117, „ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
     P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“
-  citata_rodoma: "P. 117, „ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis."
+  citata_rodoma: |
+    P. 117, „ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

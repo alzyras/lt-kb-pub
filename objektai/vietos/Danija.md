@@ -266,7 +266,19 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     jų pusių ženklu teisėjas išsiųsdavo skirtingą atskiriems terito­
     rijos gyventojams, kad žinia apie įvykį ir kartu įspėjimas būti
     pasiruošusiems pasklistų aplinkui.
-  citata_rodoma: "416\n\n## Puslapis 416\n\ngiminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,\njie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­\nrodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­\nmo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­\nkėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios\nžmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau\nbendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­\ntykiui."
+  citata_rodoma: |
+    416
+
+    ## Puslapis 416
+
+    giminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,
+    jie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­
+    rodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­
+    mo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­
+    kėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios
+    žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
+    bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
+    tykiui.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -317,7 +329,18 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
     jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
     nijos karalystei.
-  citata_rodoma: "Visi Šie įvykiai siejami su III amžiumi.\n235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus."
+  citata_rodoma: |
+    Visi Šie įvykiai siejami su III amžiumi.
+    235
+    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
+    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
+    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
+    grąžino iš jo tėvo atimtą Danijos sostą1.
+    236
+    Sklinda garsūs senoviniai skandinavų padavimai apie
+    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
+    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
+    ringumo žmogus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

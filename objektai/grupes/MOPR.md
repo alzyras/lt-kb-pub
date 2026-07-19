@@ -66,7 +66,8 @@ narių svarbiausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR�
     biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e
     (tarptautinė organizacija revoliucionieriams remti, diriguojama iš Mas-
     kvos).
-  citata_rodoma: "biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e"
+  citata_rodoma: |
+    biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

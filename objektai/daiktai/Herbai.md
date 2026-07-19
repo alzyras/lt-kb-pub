@@ -362,7 +362,11 @@ Nenurodyta
     garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­
     broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems
     savo nobiliteto pažymius — herbus.
-  citata_rodoma: "Bet iš visų Horodlės unijos punktų lenkų labiausiai yra\ngarbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­\nbroliavo” su žymesniais Lietuvos bajorais sutiekdami jiems\nsavo nobiliteto pažymius — herbus."
+  citata_rodoma: |
+    Bet iš visų Horodlės unijos punktų lenkų labiausiai yra
+    garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­
+    broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems
+    savo nobiliteto pažymius — herbus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -402,7 +406,11 @@ Nenurodyta
     savinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė
     išvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-
     kus.
-  citata_rodoma: "Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasi-\nsavinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė\nišvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-\nkus."
+  citata_rodoma: |
+    Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasi-
+    savinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė
+    išvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-
+    kus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -423,7 +431,9 @@ Nenurodyta
     būsią kilę iš romėnų.
     Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
     tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
-  citata_rodoma: "Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-\ntuvai vakarų Europos kultūrą, o bajorijai davę savo herbus."
+  citata_rodoma: |
+    Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
+    tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -459,7 +469,14 @@ Nenurodyta
     LDK herbas Vytis iš herbyno
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
-  citata_rodoma: "Tačiau ir tomis su-\ndėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji \natstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), \no Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų \nLDK herbas Vytis iš herbyno \n„Stemmata Polonica“ (saugomo \nParyžiuje), XVI a. vid."
+  citata_rodoma: |
+    Tačiau ir tomis su-
+    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
+    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
+    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
+    LDK herbas Vytis iš herbyno
+    „Stemmata Polonica“ (saugomo
+    Paryžiuje), XVI a. vid.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -483,7 +500,10 @@ Nenurodyta
     Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
     vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
     „vodką“.
-  citata_rodoma: "Gedimino stulpai ir Jogailos kryžius iš herbyno  \n„Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.\npirmajame šimtuke."
+  citata_rodoma: |
+    Gedimino stulpai ir Jogailos kryžius iš herbyno
+    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
+    pirmajame šimtuke.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -508,7 +528,16 @@ Nenurodyta
     — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
     siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
     luomu.
-  citata_rodoma: "Jų vietą\nužima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV\namž. ir ypatingai įsigalėti XVI—XVIII amž.\nPagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­\njorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji\ndar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius\n— herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­\nsiskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto\nluomu."
+  citata_rodoma: |
+    Jų vietą
+    užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
+    amž. ir ypatingai įsigalėti XVI—XVIII amž.
+    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
+    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
+    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
+    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
+    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
+    luomu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

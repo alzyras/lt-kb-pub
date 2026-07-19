@@ -106,7 +106,8 @@ Visuomeninė draugija.
     pc visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia,
     rūpi­
     nasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje.
-  citata_rodoma: "Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga. Tai didelė, po visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia, rūpinasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje."
+  citata_rodoma: |
+    Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga. Tai didelė, po visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia, rūpinasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje.
   statusas: verified
   atnaujinta: "2026-07-12 11:11"
   teiginio_tipas: faktas

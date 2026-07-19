@@ -245,7 +245,14 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     Maskvos kunigaikštijoje. Tie raštai, suprantama, kėlė tarp sta­
     čiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų
     Cemblaką, o kiti — Focijų.
-  citata_rodoma: "Lietuvos stačiatikiams Focijus bu­\nvo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo\nRytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­\ntremti; pabėgusiems iš Lietuvos stačiatikiams žadėjo prieglaudą\nMaskvos kunigaikštijoje. Tie raštai, suprantama, kėlė tarp sta­\nčiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų\nCemblaką, o kiti — Focijų."
+  citata_rodoma: |
+    Lietuvos stačiatikiams Focijus bu­
+    vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo
+    Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­
+    tremti; pabėgusiems iš Lietuvos stačiatikiams žadėjo prieglaudą
+    Maskvos kunigaikštijoje. Tie raštai, suprantama, kėlė tarp sta­
+    čiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų
+    Cemblaką, o kiti — Focijų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -266,7 +273,12 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     tropolija nebebuvo atnaujinta. Kaip daugely sričių, taip ir čia
     titano planams užstojo kelią apystovos, amžiais augusios tra­
     dicijos.
-  citata_rodoma: "Jam mirus, Vytautas susitaikino su\nMaskvos „visos Rusijos“ metropolitu Focijumi^3 ) ir Kijevo me­\ntropolija nebebuvo atnaujinta. Kaip daugely sričių, taip ir čia\ntitano planams užstojo kelią apystovos, amžiais augusios tra­\ndicijos."
+  citata_rodoma: |
+    Jam mirus, Vytautas susitaikino su
+    Maskvos „visos Rusijos“ metropolitu Focijumi^3 ) ir Kijevo me­
+    tropolija nebebuvo atnaujinta. Kaip daugely sričių, taip ir čia
+    titano planams užstojo kelią apystovos, amžiais augusios tra­
+    dicijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -292,7 +304,17 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     rusus, metropolitu paskyrė Maskvos kandidatą graiką Focijų
     (1408), kuriam, kaip Maskvos metropolitui, pavesti buvo visos
     Rusijos ir Lietuvos stačiatikių reikalai.
-  citata_rodoma: "Teodozijų, kaipo kan­\ndidatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo\npainformavę apie Vytauto sumanymus atitraukti Lietuvos sta­\nčiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­\ntuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­\nse kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas. Jo\nvieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs\nrusus, metropolitu paskyrė Maskvos kandidatą graiką Focijų\n(1408), kuriam, kaip Maskvos metropolitui, pavesti buvo visos\nRusijos ir Lietuvos stačiatikių reikalai."
+  citata_rodoma: |
+    Teodozijų, kaipo kan­
+    didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo
+    painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­
+    čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
+    tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
+    se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas. Jo
+    vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs
+    rusus, metropolitu paskyrė Maskvos kandidatą graiką Focijų
+    (1408), kuriam, kaip Maskvos metropolitui, pavesti buvo visos
+    Rusijos ir Lietuvos stačiatikių reikalai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -316,7 +338,17 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     tus, išvijo iš Lietuvos Focijaus paskirtus rusų šventikus; Foci­
     jus nelaukė taip griežtų Vytauto sprendimų ir norėjo susitaikyti,
     bet, atvykus jam 1414 m. į Lietuvą, Vytautas jo nepriėmė.
-  citata_rodoma: "Tad Vytautas pastatė Focijui sąlygą, kad apsigy­\nventų Kijeve, bet šis savo rezidencija pasirinko Maskvą, į Lietu­\nvos valstybę retai kada teužsukdamas. Lietuvos stačiatikiai vys­\nkupai apskundė jį Vytautui, kad smunka bažnyčios gyvenimas,\nkad Focijus išveža į Maskvą bažnytinius turtus. Remdamasis\nskundu, Vytautas užgynė Focijui lankyti Lietuvos stačiatikių\nbažnyčias, rinkti mokesčius, gabenti Maskvon bažnytinius daik­\ntus, išvijo iš Lietuvos Focijaus paskirtus rusų šventikus; Foci­\njus nelaukė taip griežtų Vytauto sprendimų ir norėjo susitaikyti,\nbet, atvykus jam 1414 m."
+  citata_rodoma: |
+    Tad Vytautas pastatė Focijui sąlygą, kad apsigy­
+    ventų Kijeve, bet šis savo rezidencija pasirinko Maskvą, į Lietu­
+    vos valstybę retai kada teužsukdamas. Lietuvos stačiatikiai vys­
+    kupai apskundė jį Vytautui, kad smunka bažnyčios gyvenimas,
+    kad Focijus išveža į Maskvą bažnytinius turtus. Remdamasis
+    skundu, Vytautas užgynė Focijui lankyti Lietuvos stačiatikių
+    bažnyčias, rinkti mokesčius, gabenti Maskvon bažnytinius daik­
+    tus, išvijo iš Lietuvos Focijaus paskirtus rusų šventikus; Foci­
+    jus nelaukė taip griežtų Vytauto sprendimų ir norėjo susitaikyti,
+    bet, atvykus jam 1414 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

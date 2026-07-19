@@ -184,7 +184,12 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     dinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK
     po Liublino unijos). Tačiau kartu litvakais imta vadinti žydus, kuriems
     būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
-  citata_rodoma: "Ir šian-\ndien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pava-\ndinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK\npo Liublino unijos). Tačiau kartu litvakais imta vadinti žydus, kuriems\nbūdinga savita gyvensena, išlikusi ir po LDK sunaikinimo."
+  citata_rodoma: |
+    Ir šian-
+    dien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pava-
+    dinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK
+    po Liublino unijos). Tačiau kartu litvakais imta vadinti žydus, kuriems
+    būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +212,11 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
     monarchijoms ir nuo to mes jaučiamės smagiau.
-  citata_rodoma: "Okupacijos ir aneksijos, tremtys, genocidai ir\nHolokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-\nkusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,\nJAV ir Palestinoje (vėliau Izraelio valstybėje)."
+  citata_rodoma: |
+    Okupacijos ir aneksijos, tremtys, genocidai ir
+    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
+    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
+    JAV ir Palestinoje (vėliau Izraelio valstybėje).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -230,7 +239,12 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
     kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
     buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
-  citata_rodoma: "O juk reikėtų prisiminti, kad\npirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko\nlitvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-\nkos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas\nbuvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis))."
+  citata_rodoma: |
+    O juk reikėtų prisiminti, kad
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -258,7 +272,14 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: "O juk reikėtų prisiminti, kad \npirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko \nlitvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-\nkos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas \nbuvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk \nreikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai \nsusijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m."
+  citata_rodoma: |
+    O juk reikėtų prisiminti, kad
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk
+    reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
+    susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

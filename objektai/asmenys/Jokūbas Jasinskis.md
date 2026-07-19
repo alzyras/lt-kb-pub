@@ -122,7 +122,9 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
     Kosciuška. Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
     liuose, sukilėlių vadu tapo Jokūbas Jasinskis.
-  citata_rodoma: "Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-\nliuose, sukilėlių vadu tapo Jokūbas Jasinskis."
+  citata_rodoma: |
+    Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
+    liuose, sukilėlių vadu tapo Jokūbas Jasinskis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -141,7 +143,10 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
     lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
     T. Korsakas.
-  citata_rodoma: "Ginant Varšuvą žuvo Lietuvos suki-\nlėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius\nT. Korsakas."
+  citata_rodoma: |
+    Ginant Varšuvą žuvo Lietuvos suki-
+    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
+    T. Korsakas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

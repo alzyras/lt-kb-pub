@@ -129,7 +129,12 @@ Nenurodyta
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: "Iš šių \nir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-\nŽymiausio LDK karo inžinieriaus, daugiapakopių raketų  \nteorijos  kūrėjo K. Semenavičiaus veikalo  \n„Artis magnae artilleriae“  frontispisas, 1650 m."
+  citata_rodoma: |
+    Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K. Semenavičiaus veikalo
+    „Artis magnae artilleriae“  frontispisas, 1650 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,7 +151,9 @@ Nenurodyta
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: "Nuo XIV a. ryčiausias Europoje du amžius \nK. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
+  citata_rodoma: |
+    Nuo XIV a. ryčiausias Europoje du amžius
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -91,7 +91,11 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: "Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-\nginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono \nČerniaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-\ntijos gavo po dvi ministrų vietas."
+  citata_rodoma: |
+    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
+    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
+    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
+    tijos gavo po dvi ministrų vietas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +116,9 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     kariuomenę, apginkluoti ją sunkiaisiais ginklais ir koordinuoti bendrus
     1938 m. manevruose kariuomenės vadas S. Raštikis (centre)
     ir gen. J. Černius (dešinėje)
-  citata_rodoma: "1938 m. manevruose kariuomenės vadas S. Raštikis (centre)  \nir gen. J. Černius (dešinėje)"
+  citata_rodoma: |
+    1938 m. manevruose kariuomenės vadas S. Raštikis (centre)
+    ir gen. J. Černius (dešinėje)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

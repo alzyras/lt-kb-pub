@@ -64,7 +64,10 @@ Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai a
     jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
     Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau
     savo tikėjimą.
-  citata_rodoma: "Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir\nKrokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau\nsavo tikėjimą."
+  citata_rodoma: |
+    Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
+    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
+    savo tikėjimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

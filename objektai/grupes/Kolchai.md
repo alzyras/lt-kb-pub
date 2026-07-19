@@ -150,7 +150,20 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
     rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
     vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
     plaukę kartu jūreiviai buvo vadinami argonautais.
-  citata_rodoma: "Nuo neatmenamų\nlaikų kolchai buvo laikomi neapsakomai turtingais ir iš­\nmanančiais gamtos dalykus. Pirmieji jų atstovai buvo ki­\nlę iš 'kalnų, kuriuos jie atradoi, ypač Uralo. Kol šį kraštą\npažino žmonės, ten buvo brangiųjų metalų grynuolių, kaip\nakmenų, luitų, tai galima numatyti iš dabartinių žinių\napie šiuos kalnus. Indų civilizacija ir kasta žynių, kurie\natsidėjo mokslui ir tarnavo Saulei, garbinamai Koros\nvardu, lėmė, kad pas juos anksčiausiai suklestėjo gamtos\nmokslai, pradėti vartoti augalinės kilmės vaistai. Visa tai\nbyloja, kad Kolchidė iki Trojos karo buvo labiausiai ci­\nvilizuotas ir turtingas kraštas, kokį tik galėjo pažinti\ngraikai."
+  citata_rodoma: |
+    Nuo neatmenamų
+    laikų kolchai buvo laikomi neapsakomai turtingais ir iš­
+    manančiais gamtos dalykus. Pirmieji jų atstovai buvo ki­
+    lę iš 'kalnų, kuriuos jie atradoi, ypač Uralo. Kol šį kraštą
+    pažino žmonės, ten buvo brangiųjų metalų grynuolių, kaip
+    akmenų, luitų, tai galima numatyti iš dabartinių žinių
+    apie šiuos kalnus. Indų civilizacija ir kasta žynių, kurie
+    atsidėjo mokslui ir tarnavo Saulei, garbinamai Koros
+    vardu, lėmė, kad pas juos anksčiausiai suklestėjo gamtos
+    mokslai, pradėti vartoti augalinės kilmės vaistai. Visa tai
+    byloja, kad Kolchidė iki Trojos karo buvo labiausiai ci­
+    vilizuotas ir turtingas kraštas, kokį tik galėjo pažinti
+    graikai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

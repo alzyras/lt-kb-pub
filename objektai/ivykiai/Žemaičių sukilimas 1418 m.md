@@ -99,7 +99,17 @@ Nenurodyta
     vę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,
 
     (^1) ) C. ep.
-  citata_rodoma: "Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­\npas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­\nbus kitas— katalikų tikėjimo įsamoninimas žmonėse. Tam rei­\nkėjo ne tik laiko, bet ramybės ir laisvės, o žemaičiams bent iš\npradžių trūko ir vieno ir kito. Kitais metais po vyskupijos\nįkūrimo Žemaitijoje sukėlė daug neramumų sukilimas. Mat,\nkai kurių apskričių bajorai, įvedus katalikų tikėjimą, buvo ga­\nvę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,\n\n(^1) ) C."
+  citata_rodoma: |
+    Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­
+    pas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­
+    bus kitas— katalikų tikėjimo įsamoninimas žmonėse. Tam rei­
+    kėjo ne tik laiko, bet ramybės ir laisvės, o žemaičiams bent iš
+    pradžių trūko ir vieno ir kito. Kitais metais po vyskupijos
+    įkūrimo Žemaitijoje sukėlė daug neramumų sukilimas. Mat,
+    kai kurių apskričių bajorai, įvedus katalikų tikėjimą, buvo ga­
+    vę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,
+
+    (^1) ) C.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

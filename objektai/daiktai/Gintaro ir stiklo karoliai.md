@@ -78,7 +78,9 @@ Nenurodyta
     audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
     Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
     liai.
-  citata_rodoma: "Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­\nliai."
+  citata_rodoma: |
+    Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
+    liai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

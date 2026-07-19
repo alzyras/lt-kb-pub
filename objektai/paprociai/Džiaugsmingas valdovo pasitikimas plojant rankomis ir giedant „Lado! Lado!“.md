@@ -89,7 +89,11 @@ Nenurodyta
     gai pasitiko visi žmonės, senovės papročiu
     plodami rankomis ir „Lado! Lado!“ giedo-
     dami (M. Stryjkovskis).
-  citata_rodoma: "Vilniuje Algirdą džiaugsmin-\ngai pasitiko visi žmonės, senovės papročiu\nplodami rankomis ir „Lado! Lado!“ giedo-\ndami (M. Stryjkovskis)."
+  citata_rodoma: |
+    Vilniuje Algirdą džiaugsmin-
+    gai pasitiko visi žmonės, senovės papročiu
+    plodami rankomis ir „Lado! Lado!“ giedo-
+    dami (M. Stryjkovskis).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

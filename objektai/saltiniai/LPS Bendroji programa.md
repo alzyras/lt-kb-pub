@@ -64,7 +64,18 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
     237
     nis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį,
     kad LPS remia SSRS vadovybės pradėtas reformas.
-  citata_rodoma: "Suvažiavimas \npriėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-\nnomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais. LPS \nBendrojoje programoje įvardytas pagrindinis siekis – remti socia­listinės \nvisuomenės persitvarkymą demokratijos ir humanizmo pagrindais, o tiks-\nlas – viešumas, demokratija, respublikos valstybinis, ekonominis, kultūri-\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n237\nnis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį, \nkad LPS remia SSRS vadovybės pradėtas reformas."
+  citata_rodoma: |
+    Suvažiavimas
+    priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
+    nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais. LPS
+    Bendrojoje programoje įvardytas pagrindinis siekis – remti socia­listinės
+    visuomenės persitvarkymą demokratijos ir humanizmo pagrindais, o tiks-
+    las – viešumas, demokratija, respublikos valstybinis, ekonominis, kultūri-
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    237
+    nis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį,
+    kad LPS remia SSRS vadovybės pradėtas reformas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

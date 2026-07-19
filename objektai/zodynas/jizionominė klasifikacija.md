@@ -83,7 +83,13 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
     riniai arba lingvistiniai skirtumai, tai mes esame minėję, atsirado tik
     dėl to, jog žmonių giminė iš vienos klasės suskilo į atskiras šakas,
     bet ne iš karto, o amžiams bėgant.
-  citata_rodoma: "Be to, reikėtų pasakyti, jog jizionominė\nklasifikacija, kuri naudojama nuo seniausių laikų, t. y. nuo Herodoto,\nnėra klaidinga; atvirkščiai, ją patvirtina fiziologų tyrinėjimai. Isto­\nriniai arba lingvistiniai skirtumai, tai mes esame minėję, atsirado tik\ndėl to, jog žmonių giminė iš vienos klasės suskilo į atskiras šakas,\nbet ne iš karto, o amžiams bėgant."
+  citata_rodoma: |
+    Be to, reikėtų pasakyti, jog jizionominė
+    klasifikacija, kuri naudojama nuo seniausių laikų, t. y. nuo Herodoto,
+    nėra klaidinga; atvirkščiai, ją patvirtina fiziologų tyrinėjimai. Isto­
+    riniai arba lingvistiniai skirtumai, tai mes esame minėję, atsirado tik
+    dėl to, jog žmonių giminė iš vienos klasės suskilo į atskiras šakas,
+    bet ne iš karto, o amžiams bėgant.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

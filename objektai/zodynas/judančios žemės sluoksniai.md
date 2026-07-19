@@ -120,7 +120,11 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
     iš šiaurės į pietus; be to, dviejose juostose — Suomių
     įlankos ir Bornholmo salos lygiagretės kryptimi, t. y. ker­
     tantys plačią Baltijos jūros dalį.
-  citata_rodoma: "Vis dėlto ne vien tik uolieną kruša krito į žemę; turė­\njo būti sujudinti arba išplauti iš Baltijos jūros ir judan­\nčios žemės sluoksniai, nes randama ir akmenų, užpustytų\njudančios žemės sluoksnių."
+  citata_rodoma: |
+    Vis dėlto ne vien tik uolieną kruša krito į žemę; turė­
+    jo būti sujudinti arba išplauti iš Baltijos jūros ir judan­
+    čios žemės sluoksniai, nes randama ir akmenų, užpustytų
+    judančios žemės sluoksnių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -146,7 +150,13 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
     kurie buvo atnešti kartu su vandeniu; taip susidarė nauji,
     gilūs, kai kur vandens užtvindyti judančios žemės sluoks­
     niai.
-  citata_rodoma: "Taip ir susidarė toji sausuma, o\ntoliau, į pietus nuo Baltijos krantų (vandenyno dalyje,\nkuri dar buvo neužberta), pakilo tik tų nuolaužų purslai,\nkurie buvo atnešti kartu su vandeniu; taip susidarė nauji,\ngilūs, kai kur vandens užtvindyti judančios žemės sluoks­\nniai."
+  citata_rodoma: |
+    Taip ir susidarė toji sausuma, o
+    toliau, į pietus nuo Baltijos krantų (vandenyno dalyje,
+    kuri dar buvo neužberta), pakilo tik tų nuolaužų purslai,
+    kurie buvo atnešti kartu su vandeniu; taip susidarė nauji,
+    gilūs, kai kur vandens užtvindyti judančios žemės sluoks­
+    niai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

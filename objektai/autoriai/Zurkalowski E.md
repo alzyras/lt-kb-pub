@@ -78,7 +78,9 @@ Dusburgietis teigia, kad zurkalowski E.
     Седов В. В. Этногеография Восточной Европы середины I тысячелетия и. э. по
     данным археологии и Иордана. — Восточная Европа в древности и средневековье:
     Сб. статей, М., 1978, с.
-  citata_rodoma: "Zurkalowski E. In welches Jahr fällt die Belagerung Memels durch die Samländer? —\nAM, Königsberg i Pr 1907 Bd 44, S. 479—486."
+  citata_rodoma: |
+    Zurkalowski E. In welches Jahr fällt die Belagerung Memels durch die Samländer? —
+    AM, Königsberg i Pr 1907 Bd 44, S. 479—486.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -71,7 +71,8 @@ Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dali
     vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: "tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  citata_rodoma: |
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

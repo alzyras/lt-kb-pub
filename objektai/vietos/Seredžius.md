@@ -135,7 +135,19 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
     Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
     to gyventojams.
-  citata_rodoma: "218\n\n## Puslapis 218\n\nnikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­\nmuno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris)."
+  citata_rodoma: |
+    218
+
+    ## Puslapis 218
+
+    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
+    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
+    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
+    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
+    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
+    lemonu Kalnas).
+    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
+    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -148,15 +160,23 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vėliau, pagal 1331 metų rugsėjo 17
-    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
-    buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
-    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
-    gė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,
-    kuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­
-    mė pilį ir perstatė į krikščionių bažnyčią. Nuo tol iki mūsų
-    laikų ant jos bokšto tebėra šv. kryžiaus ženklas.
-  citata_rodoma: "Mieloji Lietuva,\nLaisvės kely!\nNuženk iš dangaus, pasigailėk)\nMielai atidaviau savo laikrodį bajorui, kuris man tą daine­\nlę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje\n1805 metų liepos 17 dieną.\nRusovas sako, kad latvių jaunimas garbino tą deivę, va­\ndindamas Dahkla, kaip laisvės ir vyriškumo globėją."
+    Mieloji Lietuva,
+    Laisvės kely!
+    Nuženk iš dangaus, pasigailėk)
+    Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­
+    lę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje
+    1805 metų liepos 17 dieną.
+    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
+    dindamas Dahkla, kaip laisvės ir vyriškumo globėją.
+  citata_rodoma: |
+    Mieloji Lietuva,
+    Laisvės kely!
+    Nuženk iš dangaus, pasigailėk)
+    Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­
+    lę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje
+    1805 metų liepos 17 dieną.
+    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
+    dindamas Dahkla, kaip laisvės ir vyriškumo globėją.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -73,7 +73,15 @@ Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą t
     Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
     tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
     kokia yra.
-  citata_rodoma: "Kauno sporto halėje 1939 m. Lietuvos vyrų \nkrepšinio rinktinė antrą kartą tapo Europos čempionais\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n177\nLietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias \ntautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia, \nkokia yra."
+  citata_rodoma: |
+    Kauno sporto halėje 1939 m. Lietuvos vyrų
+    krepšinio rinktinė antrą kartą tapo Europos čempionais
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    177
+    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
+    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
+    kokia yra.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

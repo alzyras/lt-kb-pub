@@ -115,7 +115,15 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
     niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
     kai.
-  citata_rodoma: "Ne­\nturtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net\njei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­\nmingumo turi paklykauti .\nSeniau ašaras, išverktas per laidotuves, labai rūpestingai\nsurinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių\nindelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­\nrusiojo kojų. Apie tai bus straipsnyje „Kapai“."
+  citata_rodoma: |
+    Ne­
+    turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
+    jei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­
+    mingumo turi paklykauti .
+    Seniau ašaras, išverktas per laidotuves, labai rūpestingai
+    surinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių
+    indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
+    rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

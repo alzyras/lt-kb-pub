@@ -159,7 +159,18 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
     Žiaurus likimas juos vertė
     kautis prieš tautiečius brol-
     žudiškose kautynėse.
-  citata_rodoma: "Pabūklo vamzdis\n\nGranata ir parako užtaisas sujungti į vientisą „šovinį“\n\n## Puslapis 157\n\nleitenantas grafas D. Kuruta,\nbet pastarasis vadovavimą\n(laikinai) perdavė gabiam\ngenerolui leitenantui baro-\nnui D. Osten-Sakenui."
+  citata_rodoma: |
+    Pabūklo vamzdis
+
+    Granata ir parako užtaisas sujungti į vientisą „šovinį“
+
+    ## Puslapis 157
+
+    leitenantas grafas D. Kuruta,
+    bet pastarasis vadovavimą
+    (laikinai) perdavė gabiam
+    generolui leitenantui baro-
+    nui D. Osten-Sakenui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

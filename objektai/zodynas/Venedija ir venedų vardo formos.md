@@ -102,7 +102,26 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
     reiškė tą patį, ką slavams reiškia Nizowcy, pamarėnai, vo­
     kiečiams Niderländer, prancūzams Pays-bas, lietuviams
     Zomajten, žemaičiai.
-  citata_rodoma: "Šio pavadinimo šaltinis glūdi senovės Šiaurės Eu­\n    ropos tautų kalbų žodyje Unda, išlikusiame lietuvių kal­\n    boje Wunduo, vanduo, kilusiame iš Wend, arba Wand,\n    senovės vokiečių kalba reiškiančio jūros pakrantę1; sa­\n    koma, kad Danijoje paprasti žmonės dar lig šiol vadina\n    jūrą Wanded2. Apie Pabaltijo venedus Naruševičius rašo:\n    „Reikia visų pirma žinoti, jog, venedais buvo vadinama\n    ta Europos sarmatų dalis, kuri, gyvendama prie Baltijos\n    jūros, turėjo užėmusi plačius kraštus nuo Vyslos, kur da­\n    bar yra Brandenburgo Prūsija, Žemaitija, Livonija ir to­\n    liau į Šiaurę“3. Iš čia matome, jog įvairios kilmės gen­\n    tys, bendrai vadinamos sarmatais, tokį pavadinimą gavo\n    todėl, kad gyveno žemame, netolimame nuo jūros ir ly­\n    giame krašte. Tad nesigilindami, kuriai iš venedų tautų\n    iš tikrųjų derėtų priskirti šį pavadinimą, pasakysime, kad\n    amžiais, t. y. krikščioniškosios eros pradžioje, venedai\n    reiškė tą patį, ką slavams reiškia Nizowcy, pamarėnai, vo­\n    kiečiams Niderländer, prancūzams Pays-bas, lietuviams\n    Zomajten, žemaičiai."
+  citata_rodoma: |
+    Šio pavadinimo šaltinis glūdi senovės Šiaurės Eu­
+        ropos tautų kalbų žodyje Unda, išlikusiame lietuvių kal­
+        boje Wunduo, vanduo, kilusiame iš Wend, arba Wand,
+        senovės vokiečių kalba reiškiančio jūros pakrantę1; sa­
+        koma, kad Danijoje paprasti žmonės dar lig šiol vadina
+        jūrą Wanded2. Apie Pabaltijo venedus Naruševičius rašo:
+        „Reikia visų pirma žinoti, jog, venedais buvo vadinama
+        ta Europos sarmatų dalis, kuri, gyvendama prie Baltijos
+        jūros, turėjo užėmusi plačius kraštus nuo Vyslos, kur da­
+        bar yra Brandenburgo Prūsija, Žemaitija, Livonija ir to­
+        liau į Šiaurę“3. Iš čia matome, jog įvairios kilmės gen­
+        tys, bendrai vadinamos sarmatais, tokį pavadinimą gavo
+        todėl, kad gyveno žemame, netolimame nuo jūros ir ly­
+        giame krašte. Tad nesigilindami, kuriai iš venedų tautų
+        iš tikrųjų derėtų priskirti šį pavadinimą, pasakysime, kad
+        amžiais, t. y. krikščioniškosios eros pradžioje, venedai
+        reiškė tą patį, ką slavams reiškia Nizowcy, pamarėnai, vo­
+        kiečiams Niderländer, prancūzams Pays-bas, lietuviams
+        Zomajten, žemaičiai.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -118,7 +137,10 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
     manų genčių“. Sis lygumų, lėkštų plotų ir klampių pel­
     kynų kupinas kraštas tikrai galėjo vadintis Venedija, o
     nuo jo ir slavai buvo vadinami venedų tauta1.
-  citata_rodoma: "Sis lygumų, lėkštų plotų ir klampių pel­\n    kynų kupinas kraštas tikrai galėjo vadintis Venedija, o\n    nuo jo ir slavai buvo vadinami venedų tauta1."
+  citata_rodoma: |
+    Sis lygumų, lėkštų plotų ir klampių pel­
+        kynų kupinas kraštas tikrai galėjo vadintis Venedija, o
+        nuo jo ir slavai buvo vadinami venedų tauta1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

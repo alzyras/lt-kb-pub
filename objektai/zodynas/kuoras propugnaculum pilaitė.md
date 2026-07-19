@@ -223,7 +223,14 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
     kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo
     šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum].
-  citata_rodoma: "Apie Bartenšteino pilies puolimą\n\n  Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai\nįrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris\napgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę\n\nMGP, p."
+  citata_rodoma: |
+    Apie Bartenšteino pilies puolimą
+
+      Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
+    įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
+    apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę
+
+    MGP, p.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -247,7 +254,12 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
     kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
     pavakarę, jie atvyko į Karaliaučiaus pilį.
-  citata_rodoma: "Kiekvieną pilį apsupo trimis\nstipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl\napsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė\nantpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji\nbroliai ir kiti žmonės šiose pilyse."
+  citata_rodoma: |
+    Kiekvieną pilį apsupo trimis
+    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
+    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė
+    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
+    broliai ir kiti žmonės šiose pilyse.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -287,7 +299,12 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     pelenais, o žmones išsivesdami į nelaisvę arba išžudydami. Toliau būdamas Baigos
     pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
     taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
-  citata_rodoma: "Sitai padarę, kunigaikštis bei broliai su savo\nkariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami\npelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos\npilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų\ntaip kamavo prusus, kad tie nė atsikvėpti negalėjo."
+  citata_rodoma: |
+    Sitai padarę, kunigaikštis bei broliai su savo
+    kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami
+    pelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos
+    pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
+    taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -332,7 +349,20 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
     kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
     matęs vedant nedidelį karių būrį.
-  citata_rodoma: "Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374\n\n  Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas\npriemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė\npastatyti  tiltą per Priegliaus upę, o abiejuose  tilto galuose įrengti tvirtus kuorus,\nmanydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.\nKai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei\nlaukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė\nnetoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,\nŽinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų\nvyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,\nkiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo\nmatęs vedant nedidelį karių būrį."
+  citata_rodoma: |
+    Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
+
+      Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas
+    priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė
+    pastatyti  tiltą per Priegliaus upę, o abiejuose  tilto galuose įrengti tvirtus kuorus,
+    manydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.
+    Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
+    laukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė
+    netoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,
+    Žinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų
+    vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
+    kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
+    matęs vedant nedidelį karių būrį.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

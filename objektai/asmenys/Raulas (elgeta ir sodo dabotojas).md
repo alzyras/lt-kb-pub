@@ -101,7 +101,8 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     jai maistą, tuo pačiu ir
     pats misdamas. Užaugęs bernavo pas ūkininkus, o pačią ir vaikus lai­
     kė čia pat ūkininko grįtelėje.
-  citata_rodoma: "Užaugęs bernavo pas ūkininkus, o pačią ir vaikus laikė čia pat ūkininko grįtelėje."
+  citata_rodoma: |
+    Užaugęs bernavo pas ūkininkus, o pačią ir vaikus laikė čia pat ūkininko grįtelėje.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -122,7 +123,8 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     ei­
     na vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per
     du mėnesiu.
-  citata_rodoma: "Elgeta Raulas kasmet duoda sau du mėnesiu atostogų: jis eina vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per du mėnesiu."
+  citata_rodoma: |
+    Elgeta Raulas kasmet duoda sau du mėnesiu atostogų: jis eina vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per du mėnesiu.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
@@ -147,7 +149,8 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     vo sergančią motiną, rinkdamas pas žmones
     jai maistą, tuo pačiu ir
     pats misdamas.
-  citata_rodoma: "Raulas (tokia vaizduojamo elgetos pavardė) iš mažo sargino savo sergančią motiną, rinkdamas pas žmones jai maistą, tuo pačiu ir pats misdamas."
+  citata_rodoma: |
+    Raulas (tokia vaizduojamo elgetos pavardė) iš mažo sargino savo sergančią motiną, rinkdamas pas žmones jai maistą, tuo pačiu ir pats misdamas.
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas

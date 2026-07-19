@@ -87,7 +87,8 @@ Estų salos šiame šaltinyje yra salų regionas.
     vasarą pradėjęs lietuvių kalbos studijas
     kažkur Lietuvos šiaurėje;
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
-  citata_rodoma: "1899 m. vasarą padarė kelionę į Estų salas (Eželį), kur rinko estų liaudies dainas;"
+  citata_rodoma: |
+    1899 m. vasarą padarė kelionę į Estų salas (Eželį), kur rinko estų liaudies dainas;
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas

@@ -109,7 +109,19 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
     pat negalima paneigti ir didelio lietuvių genties išsibars­
     tymo dar priešistoriniais laikais, nes ir prie Reino, ir ana­
     pus jo yra ryškių litalanų pėdsakų.
-  citata_rodoma: "Alanai buvo\nskitų blondinų gentis, jie davė pradžią roksolanams; gotai\ntaip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima\npastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių\nkilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus\npradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-\njną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,\ngyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs\nprūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko\nbendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­\nsiedamas kildintiną iš alanų su į šias šalis atėjusių hunų\nantplūdžiu."
+  citata_rodoma: |
+    Alanai buvo
+    skitų blondinų gentis, jie davė pradžią roksolanams; gotai
+    taip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima
+    pastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių
+    kilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus
+    pradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-
+    jną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,
+    gyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs
+    prūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko
+    bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
+    siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
+    antplūdžiu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -125,7 +125,11 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     kai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Ga-
     brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose
     kėlė Lietuvos nepriklausomybės reikalą.
-  citata_rodoma: "dolerių. JAV lietuviai finansiš-\nkai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Ga-\nbrys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose \nkėlė Lietuvos nepriklausomybės reikalą."
+  citata_rodoma: |
+    dolerių. JAV lietuviai finansiš-
+    kai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Ga-
+    brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose
+    kėlė Lietuvos nepriklausomybės reikalą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -147,7 +151,11 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo
     šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
     šia tema.
-  citata_rodoma: "Kai 1916 m. birželį Lozanos \npavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo \nšalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti \nšia tema."
+  citata_rodoma: |
+    Kai 1916 m. birželį Lozanos
+    pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo
+    šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
+    šia tema.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

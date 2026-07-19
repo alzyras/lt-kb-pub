@@ -86,7 +86,9 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
     Źródła skandynawskie i anglosaskie do dziejów słowiańszczyzny/Wydał G. Labuda —
     Warszawa, 1961.
     Žulkus V. Klaipėdos pilis ir miestas XIII—XVI a —MG 1983, Nr. 8, p. 28—29.
-  citata_rodoma: "Scriptores rerum Prussicarum / T. Hirsch, M. Toppen, E. Strehlke: 5 Bd.— 1861 —1874\n—Leipzig.—Bd. 1, 1861; Bd. 2, 1863; Bd. 3, 1866; Bd. 4, 1870; Bd. 5, 1874."
+  citata_rodoma: |
+    Scriptores rerum Prussicarum / T. Hirsch, M. Toppen, E. Strehlke: 5 Bd.— 1861 —1874
+    —Leipzig.—Bd. 1, 1861; Bd. 2, 1863; Bd. 3, 1866; Bd. 4, 1870; Bd. 5, 1874.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

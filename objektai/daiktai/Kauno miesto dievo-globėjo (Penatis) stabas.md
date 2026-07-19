@@ -100,7 +100,15 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
     žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
     t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu­
     vis.
-  citata_rodoma: "Kai 1818 metais Kaune buvo statoma mui-\ntinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio\nmuro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-\nlokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą\nbronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry-\nžiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,\nt. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu-\nvis."
+  citata_rodoma: |
+    Kai 1818 metais Kaune buvo statoma mui-
+    tinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio
+    muro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-
+    lokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą
+    bronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry-
+    žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
+    t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu-
+    vis.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

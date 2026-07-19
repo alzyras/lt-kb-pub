@@ -116,7 +116,12 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
     su trimis savo draugais, kryžiuočių ordino riteriais, gy­
     veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
     tikrųjų uoliai eidamas žvalgo pareigas.
-  citata_rodoma: "Vis dėlto lėmė ne jo, o blaiviau galvojan­\nčių žmonių nuomonė. Valstybės ištarme buvo įsakyta\nLiudvikui kaip priešui kartu su savo draugais kuo\ngreičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir\nJurgis, nenorėdamas patirti didesnių nemalonumų."
+  citata_rodoma: |
+    Vis dėlto lėmė ne jo, o blaiviau galvojan­
+    čių žmonių nuomonė. Valstybės ištarme buvo įsakyta
+    Liudvikui kaip priešui kartu su savo draugais kuo
+    greičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir
+    Jurgis, nenorėdamas patirti didesnių nemalonumų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

@@ -59,7 +59,8 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: "viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,"
+  citata_rodoma: |
+    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

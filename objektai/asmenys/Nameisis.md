@@ -83,7 +83,12 @@ Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino v
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui). Tai rodo glaudžius
     prūsų, jotvingių, lietuvių ir kt. baltų ryšius, jų bendrą kovą.
-  citata_rodoma: "1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,\n204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,\npasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį\npo Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui). Tai rodo glaudžius\nprūsų, jotvingių, lietuvių ir kt."
+  citata_rodoma: |
+    1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
+    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
+    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui). Tai rodo glaudžius
+    prūsų, jotvingių, lietuvių ir kt.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

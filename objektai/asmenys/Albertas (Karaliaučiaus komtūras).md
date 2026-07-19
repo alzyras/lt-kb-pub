@@ -79,7 +79,10 @@ Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui br
     plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
     pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
-  citata_rodoma: "Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui\nAlbertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu\nir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv."
+  citata_rodoma: |
+    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
+    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
+    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232). Broliai, paženklinę save šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

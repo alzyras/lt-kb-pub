@@ -94,7 +94,13 @@ Vartojama kaip trumpas senovės vokiečių dievaičių sąrašas.
     išskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę).
     Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
     mūšį su lenkais prie Goplo ežero1.
-  citata_rodoma: "Senovės vokiečiai garbino dievaites Pilmith, Pilmis, Belewitt.\nSakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­\nmą\n(PEĮ.\nL.\n55)."
+  citata_rodoma: |
+    Senovės vokiečiai garbino dievaites Pilmith, Pilmis, Belewitt.
+    Sakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­
+    mą
+    (PEĮ.
+    L.
+    55).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -76,7 +76,8 @@ Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
     šlaituose giedodavo skambiais
     balsais lakštingalos, grįčios ir klėties pastogėse, prie kiekvienos geg­
     nės, būdavo po kregždės lizdą.
-  citata_rodoma: "einant ganyklomis ir pievomis, pempės perdėm apie jį sukinėdavo krikštaudamos ,,gyvi, gyvi“ ;"
+  citata_rodoma: |
+    einant ganyklomis ir pievomis, pempės perdėm apie jį sukinėdavo krikštaudamos ,,gyvi, gyvi“ ;
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas

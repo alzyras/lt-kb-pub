@@ -72,7 +72,23 @@ Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, a
     vykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis
     | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju
     magistru.
-  citata_rodoma: "Aukštesnio rango kariai\nturėdavo ir puošnius durklus. Rankoje\nkarys laiko to meto Lietuvai būdingą\npusantros rankos kalaviją, prie šono\nįmantriai dekoruotos odinės kalavijo\nmakštys su odoje įspaustais ornamentais\n\nNuo pagoniškosios\niki Vytauto imperijos\n\nLIETUVOS KARIUOMENĖ ŠNIPO AKIMIS\n\nJ. Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, at-\nvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis\n| buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju\nmagistru."
+  citata_rodoma: |
+    Aukštesnio rango kariai
+    turėdavo ir puošnius durklus. Rankoje
+    karys laiko to meto Lietuvai būdingą
+    pusantros rankos kalaviją, prie šono
+    įmantriai dekoruotos odinės kalavijo
+    makštys su odoje įspaustais ornamentais
+
+    Nuo pagoniškosios
+    iki Vytauto imperijos
+
+    LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS
+
+    J. Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, at-
+    vykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis
+    | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju
+    magistru.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

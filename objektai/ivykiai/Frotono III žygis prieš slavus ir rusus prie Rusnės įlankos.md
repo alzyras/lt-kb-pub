@@ -77,7 +77,13 @@ Nenurodyta
     danų istorijos įvykius, palygintus su tiksliausiais skaičia­
     vimais, Frotono III valdymą sieja su III krikščioniškosios
     eros amžiumi.
-  citata_rodoma: "Tai patvir­\ntina Nestoro pateiktos žinios, kad skandinavams priklau­\nsė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs\ndanų istorijos įvykius, palygintus su tiksliausiais skaičia­\nvimais, Frotono III valdymą sieja su III krikščioniškosios\neros amžiumi."
+  citata_rodoma: |
+    Tai patvir­
+    tina Nestoro pateiktos žinios, kad skandinavams priklau­
+    sė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs
+    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
+    vimais, Frotono III valdymą sieja su III krikščioniškosios
+    eros amžiumi.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -136,7 +136,7 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    D u b i ń s k i, 1.10.
+    10.
     41
     Miesto archyve yra Aleksandro Jogai-
     laičio, Lietuvos didžiojo kunigaikš­
@@ -159,7 +159,30 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     sio karaliaus Kazimiero kanclerio,
     velionio pono Olechnos Sudiman-
     taičio, vietininkai.
-  citata_rodoma: "10.\n41\nMiesto archyve yra Aleksandro Jogai- \nlaičio, Lietuvos didžiojo kunigaikš­\nčio, tokio turinio laiškas: „Vaitas, ta­\nrybos nariai ir Vilniaus miestiečiai \nskundė Bogdaną Kievlą, Vilniaus \nvaivados ir valstybės kanclerio Mi­\nkalojaus Radvilos vietininką, kad tas \nKievla perkėloje ties Vilniumi imąs \npo grašį nuo krovinio, ko Vytauto ir \nŽygimanto laikais nebūdavo. Tad \nkunigaikščio Aleksandro nurody­\nmu, vaivada Mikalojus išsiklausinė- \njo ir sužinojo, kad nuo seno nemo­\nkėję to mokesčio vietininkui, tik po \ngrašį nuo krovinio keltininkams, ku­\nrie krovinius praleidžia, ir kad tą \nnaują mokestį buvę įvedę Tomas ir \nZdanas, Vilniaus vaivados ir miru­\nsio karaliaus Kazimiero kanclerio, \nvelionio pono Olechnos Sudiman- \ntaičio, vietininkai."
+  citata_rodoma: |
+    10.
+    41
+    Miesto archyve yra Aleksandro Jogai-
+    laičio, Lietuvos didžiojo kunigaikš­
+    čio, tokio turinio laiškas: „Vaitas, ta­
+    rybos nariai ir Vilniaus miestiečiai
+    skundė Bogdaną Kievlą, Vilniaus
+    vaivados ir valstybės kanclerio Mi­
+    kalojaus Radvilos vietininką, kad tas
+    Kievla perkėloje ties Vilniumi imąs
+    po grašį nuo krovinio, ko Vytauto ir
+    Žygimanto laikais nebūdavo. Tad
+    kunigaikščio Aleksandro nurody­
+    mu, vaivada Mikalojus išsiklausinė-
+    jo ir sužinojo, kad nuo seno nemo­
+    kėję to mokesčio vietininkui, tik po
+    grašį nuo krovinio keltininkams, ku­
+    rie krovinius praleidžia, ir kad tą
+    naują mokestį buvę įvedę Tomas ir
+    Zdanas, Vilniaus vaivados ir miru­
+    sio karaliaus Kazimiero kanclerio,
+    velionio pono Olechnos Sudiman-
+    taičio, vietininkai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

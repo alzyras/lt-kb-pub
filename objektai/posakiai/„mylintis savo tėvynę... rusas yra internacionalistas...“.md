@@ -61,7 +61,8 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
     tėvynę, kalbą, kultūrą rusas yra internacionalistas, mylintis savo kultūrą
     ir kalbą lietuvis – nacionalistas, o mylintis savo kultūrą ir kalbą žydas –
     sionistas, puikiai atspindėjo kompartijos ideologiją.
-  citata_rodoma: "kalbas, sakomas rusiškai. Populiarus to meto posakis, kad mylintis savo"
+  citata_rodoma: |
+    kalbas, sakomas rusiškai. Populiarus to meto posakis, kad mylintis savo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

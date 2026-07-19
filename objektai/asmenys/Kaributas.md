@@ -254,7 +254,16 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
     tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
     visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
-  citata_rodoma: ",\npo Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­\nlono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.\nPagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas\nmotinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­\ngunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais\ntaikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­\ntyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:\nvisą dešinį Dubysos krantą, nuo pat ištakos iki įtakos."
+  citata_rodoma: |
+    ,
+    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
+    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -294,7 +303,11 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
     pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
     iš savo kunigaikštijų).
-  citata_rodoma: "8 —\nKijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo\npinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti\niš savo kunigaikštijų)."
+  citata_rodoma: |
+    8 —
+    Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
+    pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
+    iš savo kunigaikštijų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -318,7 +331,13 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
-  citata_rodoma: "Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir\nSlorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi\nkiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,\nKarigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs\nbei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente."
+  citata_rodoma: |
+    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -337,7 +356,11 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį
     sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kari-
     butas.
-  citata_rodoma: "Kaip tik tuo metu,\nkada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį\nsukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kari-\nbutas."
+  citata_rodoma: |
+    Kaip tik tuo metu,
+    kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį
+    sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kari-
+    butas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

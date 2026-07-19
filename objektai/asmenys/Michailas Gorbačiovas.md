@@ -271,7 +271,11 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
     pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
     mą.
-  citata_rodoma: "Tačiau 1991 m. \nsausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir \npareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-\nmą."
+  citata_rodoma: |
+    Tačiau 1991 m.
+    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
+    pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
+    mą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -293,7 +297,13 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
     tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
     tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
-  citata_rodoma: "1991 m. kovą daugiau nei \n200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo šūkius „Ša-\nlin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“\nLietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie \ntautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-\ntą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją."
+  citata_rodoma: |
+    1991 m. kovą daugiau nei
+    200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo šūkius „Ša-
+    lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“
+    Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
+    tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
+    tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -314,7 +324,11 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
     Lietuva Vakarams buvo nelengvas.
-  citata_rodoma: "Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – \nVakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-\nbačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar \nLietuva Vakarams buvo nelengvas."
+  citata_rodoma: |
+    Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
+    Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
+    bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
+    Lietuva Vakarams buvo nelengvas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -387,7 +401,12 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
     atšaukti Kovo 11 Aktą. V. Landsbergis atkakliai ir tvirtai paisė tik mora-
     lios politikos principų – „kas buvo pavogta, turi būti grąžinta“.
-  citata_rodoma: "Belaukiant tarptautinio  \nLietuvos pripažinimo\nApie Lietuvos nepriklausomybę nieko nenorėjo girdėti \nSSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo \natšaukti Kovo 11 Aktą. V."
+  citata_rodoma: |
+    Belaukiant tarptautinio
+    Lietuvos pripažinimo
+    Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti
+    SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
+    atšaukti Kovo 11 Aktą. V.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -422,7 +441,23 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
     vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
     liausiai ji pati ėmėsi iniciatyvos.
-  citata_rodoma: "gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius\n\nVI s k y r i u s\nDAINUOJANTI  \nREVOLIUCIJA\nSU SĄJŪDŽIU UŽ LIETUVĄ\nS\nSRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos \npolitiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar \nGruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-\nkevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-\ndžias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui \nNikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP \nmiestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-\nvincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-\nliausiai ji pati ėmėsi iniciatyvos."
+  citata_rodoma: |
+    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
+
+    VI s k y r i u s
+    DAINUOJANTI
+    REVOLIUCIJA
+    SU SĄJŪDŽIU UŽ LIETUVĄ
+    S
+    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
+    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
+    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
+    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
+    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
+    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
+    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
+    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
+    liausiai ji pati ėmėsi iniciatyvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -443,7 +478,11 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     subliuško „gorbimanija“. Tačiau, nors karo veiksmai prieš Lietuvą ir buvo
     pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo
     Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.
-  citata_rodoma: "Kartu smuko M. Gorbačiovo įvaizdis, \nsubliuško „gorbimanija“. Tačiau, nors karo veiksmai prieš Lietuvą ir buvo \npristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo \nLietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus."
+  citata_rodoma: |
+    Kartu smuko M. Gorbačiovo įvaizdis,
+    subliuško „gorbimanija“. Tačiau, nors karo veiksmai prieš Lietuvą ir buvo
+    pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo
+    Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -232,7 +232,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
     įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konf-
     likto 1940 m. balandį atleido jį iš pareigų.
-  citata_rodoma: "Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje"
+  citata_rodoma: |
+    Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -251,7 +252,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
     nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
     strategiją.
-  citata_rodoma: "nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo"
+  citata_rodoma: |
+    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -273,7 +275,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: "bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras"
+  citata_rodoma: |
+    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -291,7 +294,10 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
     S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
     Lietuvos kariuomenės paradinė rikiuotė 1937 m.
-  citata_rodoma: "Lietuvos vyriausybės posėdyje gen. \nS. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau \nLietuvos kariuomenės paradinė rikiuotė 1937 m."
+  citata_rodoma: |
+    Lietuvos vyriausybės posėdyje gen.
+    S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
+    Lietuvos kariuomenės paradinė rikiuotė 1937 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -318,7 +324,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     liktą. Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
     50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
     Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
-  citata_rodoma: "Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio"
+  citata_rodoma: |
+    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -338,7 +345,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko
     Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
     tikio kandidatūrą atmetė.
-  citata_rodoma: "jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko"
+  citata_rodoma: |
+    jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -358,7 +366,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: "S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų"
+  citata_rodoma: |
+    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -375,7 +384,10 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą.
-  citata_rodoma: "Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen. \nS.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų \nkarinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą."
+  citata_rodoma: |
+    Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
+    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
+    karinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

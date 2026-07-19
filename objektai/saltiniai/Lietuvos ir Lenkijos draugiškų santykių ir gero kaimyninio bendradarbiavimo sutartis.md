@@ -98,7 +98,8 @@ media_all_json: |-
     smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
     iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
     Varšuva vientisumą[as] dabar ir ateityje“.
-  citata_rodoma: "iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir"
+  citata_rodoma: |
+    iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

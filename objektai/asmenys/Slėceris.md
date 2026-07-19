@@ -284,7 +284,16 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
     gana tikslių žinių. Bet ¡poetinis pasakojimas apie tuopomis
     paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
     tėja prie tiesos.
-  citata_rodoma: "Skitai gintarą\nvadino\nsacrium.\nŠio\nžodžio\ngalūnė\nsugraikinta.\nSlėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­\nriausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*."
+  citata_rodoma: |
+    Skitai gintarą
+    vadino
+    sacrium.
+    Šio
+    žodžio
+    galūnė
+    sugraikinta.
+    Slėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­
+    riausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -309,7 +318,16 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
     sakas. Reikia pačiam keliauti, rinkti pasakojimus įvairiuo­
     se užkampiuose, kad įsitikintum, kiek daug būtina iš jų
     atsijoti norint įrašyti į kritinę-istorinę užrašų knygutę.
-  citata_rodoma: "Prie tų kliūčių, kurios trukdo keliautojams išsiaiškin­\nti tokius vaizdinius, Slėceris labai teisingai priskiria \nsunkumus, su kuriais, norėdami gauti tam tikrų žinių, \nkeliautojai susiduria net ir labiausiai apsišvietusiuose \nkraštuose.\nPadavimai, pasakojimai labai dainai panašūs į pa­\nsakas. Reikia pačiam keliauti, rinkti pasakojimus įvairiuo­\nse užkampiuose, kad įsitikintum, kiek daug būtina iš jų \natsijoti norint įrašyti į kritinę-istorinę užrašų knygutę."
+  citata_rodoma: |
+    Prie tų kliūčių, kurios trukdo keliautojams išsiaiškin­
+    ti tokius vaizdinius, Slėceris labai teisingai priskiria
+    sunkumus, su kuriais, norėdami gauti tam tikrų žinių,
+    keliautojai susiduria net ir labiausiai apsišvietusiuose
+    kraštuose.
+    Padavimai, pasakojimai labai dainai panašūs į pa­
+    sakas. Reikia pačiam keliauti, rinkti pasakojimus įvairiuo­
+    se užkampiuose, kad įsitikintum, kiek daug būtina iš jų
+    atsijoti norint įrašyti į kritinę-istorinę užrašų knygutę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -332,7 +350,15 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
     įkūrė rusų valstybę ir išrinko savo vadą iš šeštos gen­
     ties. Rusų kronikos įvairiai mini čiudus, slavus, merus,
     vėsius ir krivičius.
-  citata_rodoma: "Čia pakalbėsime apie kai\nkurias detales, palikdami išvadas daryti skaitytojui. Be\nto, mes neįrodinėsime, nes Slėceris pripažino juoko vertą\ndalyką, kad, minint krivičius, galima būtų turėti omeny\nprūsų vyriausiąjį kunigą.\nPenkios mažos gentys, gresiant pavojui susijungusios,\nįkūrė rusų valstybę ir išrinko savo vadą iš šeštos gen­\nties."
+  citata_rodoma: |
+    Čia pakalbėsime apie kai
+    kurias detales, palikdami išvadas daryti skaitytojui. Be
+    to, mes neįrodinėsime, nes Slėceris pripažino juoko vertą
+    dalyką, kad, minint krivičius, galima būtų turėti omeny
+    prūsų vyriausiąjį kunigą.
+    Penkios mažos gentys, gresiant pavojui susijungusios,
+    įkūrė rusų valstybę ir išrinko savo vadą iš šeštos gen­
+    ties.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -372,7 +398,13 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
     savo užpuolikus kavalerija“.
     Abejoju, ar raitos medžioklės išmokė juos to meno,
     nes, gyvenant tarp miškų ir pelkių, sunku joti arkliais į
-  citata_rodoma: "Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.\n84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­\nvo žemesnio išsivystymo lygio todėl, kad nežinojo raitos\nmedžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­\nlimos Siaurės genčių, jau prieš 1000 metų nugalėdavę\nsavo užpuolikus kavalerija“."
+  citata_rodoma: |
+    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
+    84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
+    vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
+    medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
+    limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
+    savo užpuolikus kavalerija“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

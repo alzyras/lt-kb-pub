@@ -102,7 +102,12 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
     Neatlaikę puolimo, kazokai ėmė trauk-
     tis. LDK didysis etmonas pasiuntė ke-
     letą lengvosios kavalerijos - „lisovčikų“
-  citata_rodoma: "Pirmiausiai janičarai (turkų pėstininkai),\no po to ir turkų kavalerija atakavo atski-\nrai įsikūrusių Ukrainos kazokų stovyklą.\nNeatlaikę puolimo, kazokai ėmė trauk-\ntis."
+  citata_rodoma: |
+    Pirmiausiai janičarai (turkų pėstininkai),
+    o po to ir turkų kavalerija atakavo atski-
+    rai įsikūrusių Ukrainos kazokų stovyklą.
+    Neatlaikę puolimo, kazokai ėmė trauk-
+    tis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

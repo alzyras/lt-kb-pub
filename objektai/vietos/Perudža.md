@@ -107,7 +107,7 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    25. Apie šventos Elžbietos kanonizavimą
+    Apie šventos Elžbietos kanonizavimą
 
       1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
     brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
@@ -115,7 +115,15 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 
 
                        26.
-  citata_rodoma: "Apie šventos Elžbietos kanonizavimą\n\n  1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,\nbrolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.\n\n\n\n                   26."
+  citata_rodoma: |
+    Apie šventos Elžbietos kanonizavimą
+
+      1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
+    brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
+
+
+
+                       26.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

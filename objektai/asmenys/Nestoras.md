@@ -304,7 +304,12 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     Komovės šventykloje.
     Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
     lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
-  citata_rodoma: "Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­\nmę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-\nronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­\ndina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­\nnis pavadinimas."
+  citata_rodoma: |
+    Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
+    mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-
+    ronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­
+    dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­
+    nis pavadinimas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -439,7 +444,18 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     užrašyti padavimus. Pats Nestoras, rusų istorijos tėvas,
     jau aptiko nedaug medžiagos savo aprašymams ir pajėgė
     užrašyti tik senų padavimų sutrumpintas liekanas.
-  citata_rodoma: "Iš tikrųjų sla­\nvai, išsibarstę po didžiulius Europos plotus, nors ir yra\nbroliai pagal kalbą ir papročius, be to, mėgsta palaimin­\ntos praeities bendroje protėvių žemėje prisiminimus, ne­\napdairiai prarado savo protėvių istoriją, prabylančią iš\nreliginių politinių padavimų, kanklininkų giesmių ir ty­\nlių pasakojimų susibūrus šeimai. Priėmus krikščionybę,\npražuvo senovės paminklai pirma, negu buvo susivokta\nužrašyti padavimus. Pats Nestoras, rusų istorijos tėvas,\njau aptiko nedaug medžiagos savo aprašymams ir pajėgė\nužrašyti tik senų padavimų sutrumpintas liekanas."
+  citata_rodoma: |
+    Iš tikrųjų sla­
+    vai, išsibarstę po didžiulius Europos plotus, nors ir yra
+    broliai pagal kalbą ir papročius, be to, mėgsta palaimin­
+    tos praeities bendroje protėvių žemėje prisiminimus, ne­
+    apdairiai prarado savo protėvių istoriją, prabylančią iš
+    religinių politinių padavimų, kanklininkų giesmių ir ty­
+    lių pasakojimų susibūrus šeimai. Priėmus krikščionybę,
+    pražuvo senovės paminklai pirma, negu buvo susivokta
+    užrašyti padavimus. Pats Nestoras, rusų istorijos tėvas,
+    jau aptiko nedaug medžiagos savo aprašymams ir pajėgė
+    užrašyti tik senų padavimų sutrumpintas liekanas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -461,7 +477,14 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
     Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
     namoje Bruzes.
-  citata_rodoma: "Buvo rasta geografijos ištrauka, laikoma \nlabai sena ir saugoma Milano bibliotekoje; ji turėjo būti \nX amžiuje parašyta kopija5. Joje išvardijamos Siaurės \nEuropos tautos ir jų gyvenamosios vietos. Ten tarp gen­\nčių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra \nNerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­\nnamoje Bruzes."
+  citata_rodoma: |
+    Buvo rasta geografijos ištrauka, laikoma
+    labai sena ir saugoma Milano bibliotekoje; ji turėjo būti
+    X amžiuje parašyta kopija5. Joje išvardijamos Siaurės
+    Europos tautos ir jų gyvenamosios vietos. Ten tarp gen­
+    čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
+    Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
+    namoje Bruzes.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -87,7 +87,8 @@ Nenurodyta
     Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
     apie Rusijos ir jos tautų ateitį.
-  citata_rodoma: "jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti"
+  citata_rodoma: |
+    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

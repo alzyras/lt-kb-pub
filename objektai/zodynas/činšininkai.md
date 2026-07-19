@@ -80,7 +80,11 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
     tarpe atsirado nemaža baudžiavos šalininkų, bet galų gale visi
     sutiko, kad valstiečius reikia paversti činšininkais, t. y. mokan-
     čiais tik mokesčius.
-  citata_rodoma: "Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos\ntarpe atsirado nemaža baudžiavos šalininkų, bet galų gale visi\nsutiko, kad valstiečius reikia paversti činšininkais, t. y. mokan-\nčiais tik mokesčius."
+  citata_rodoma: |
+    Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos
+    tarpe atsirado nemaža baudžiavos šalininkų, bet galų gale visi
+    sutiko, kad valstiečius reikia paversti činšininkais, t. y. mokan-
+    čiais tik mokesčius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

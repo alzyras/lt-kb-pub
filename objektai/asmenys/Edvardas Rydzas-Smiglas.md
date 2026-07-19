@@ -79,7 +79,8 @@ Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
     liktą. Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
     50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
     Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
-  citata_rodoma: "Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio"
+  citata_rodoma: |
+    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

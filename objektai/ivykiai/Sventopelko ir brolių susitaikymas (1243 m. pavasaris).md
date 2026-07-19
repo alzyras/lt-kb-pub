@@ -156,7 +156,16 @@ Nenurodyta
     šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
     palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
     40.
-  citata_rodoma: "Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė\nsurasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;\nšios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai\npalaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.\n\n\n\n\n             40."
+  citata_rodoma: |
+    Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė
+    surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
+    šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
+    palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
+
+
+
+
+                 40.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -214,7 +223,9 @@ Nenurodyta
     pilis: Torunę, Kulmą ir Rudiną. Šitai padarę, pasuko su savo kariuomene prie Kulmo
     miesto bei pilies ir čia — išdidūs ir pasipūtę — apsistojo iki vakaro. Po to patraukė iki
     pelkės, vardu Renzenas279, kur naktį ilsėjosi.
-  citata_rodoma: "277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot\nS., Dzieje Prus..., 1, p. 713)."
+  citata_rodoma: |
+    277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot
+    S., Dzieje Prus..., 1, p. 713).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

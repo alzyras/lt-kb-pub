@@ -220,7 +220,9 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     kai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu
     religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsi-
     mokslinimui.
-  citata_rodoma: "geografijos. Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-\nmas ir komentavimas."
+  citata_rodoma: |
+    geografijos. Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-
+    mas ir komentavimas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -240,7 +242,12 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: "Vil-\nniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus\nesant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo\nplitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį\njo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją."
+  citata_rodoma: |
+    Vil-
+    niaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus
+    esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
+    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
+    jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -262,7 +269,13 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     bių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį
     poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-
     sidizmo sustabdymo.
-  citata_rodoma: "Gaonas ir „Šiaurės Jeruzalė“\nVilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas\nElijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmeny-\nbių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį\npoveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-\nsidizmo sustabdymo."
+  citata_rodoma: |
+    Gaonas ir „Šiaurės Jeruzalė“
+    Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas
+    Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmeny-
+    bių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį
+    poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-
+    sidizmo sustabdymo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

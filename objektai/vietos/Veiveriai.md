@@ -72,7 +72,10 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
     Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta
     mokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dės-
     toma ir lietuvių kalba.
-  citata_rodoma: "Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta\nmokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dės-\ntoma ir lietuvių kalba."
+  citata_rodoma: |
+    Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta
+    mokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dės-
+    toma ir lietuvių kalba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

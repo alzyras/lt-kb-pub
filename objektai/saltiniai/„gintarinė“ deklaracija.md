@@ -69,7 +69,11 @@ Labai neaiškiai tuos pat siekimus tada paskelbė ir Vilniaus lietuvių būrys R
     paskelbė ir Vilniaus lietuvių būrys Rusų vyriausybei įteiktoj
     viešojoj deklaracijoj, kuri gavo „gintarinės" vardą (1914 m.
     rugpiūčio mėn.).
-  citata_rodoma: "Labai neaiškiai tuos pat siekimus tada\npaskelbė ir Vilniaus lietuvių būrys Rusų vyriausybei įteiktoj\nviešojoj deklaracijoj, kuri gavo „gintarinės\" vardą (1914 m.\nrugpiūčio mėn.)."
+  citata_rodoma: |
+    Labai neaiškiai tuos pat siekimus tada
+    paskelbė ir Vilniaus lietuvių būrys Rusų vyriausybei įteiktoj
+    viešojoj deklaracijoj, kuri gavo „gintarinės" vardą (1914 m.
+    rugpiūčio mėn.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

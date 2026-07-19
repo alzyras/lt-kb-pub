@@ -71,7 +71,10 @@ media_all_json: |-
     AW, t. 12, 1937, 36-145 p. — Maciejewska, W. : _Jadwiga, Królowa
     Polska_ , Kraków 1934 (plati bibliogr.). — Ochmański, J. : _Biskupstwo
     wileńskie w średniowieczu.
-  citata_rodoma: "— Łowmiański, H. : _Wcielenie Litwy do Polski w 1386,_\nAW, t. 12, 1937, 36-145 p. — Maciejewska, W. : _Jadwiga, Królowa\nPolska_ , Kraków 1934 (plati bibliogr.). — Ochmański, J."
+  citata_rodoma: |
+    — Łowmiański, H. : _Wcielenie Litwy do Polski w 1386,_
+    AW, t. 12, 1937, 36-145 p. — Maciejewska, W. : _Jadwiga, Królowa
+    Polska_ , Kraków 1934 (plati bibliogr.). — Ochmański, J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

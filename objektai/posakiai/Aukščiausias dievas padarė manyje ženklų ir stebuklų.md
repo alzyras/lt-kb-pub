@@ -93,7 +93,10 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
     ir stebuklų“ ir t. t. Kadangi yra parašyta (Mt 5, 16): „...kad jie matytų jūsų gerus darbus
     ir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė
     skelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi.
-  citata_rodoma: "Kadangi yra parašyta (Mt 5, 16): „...kad jie matytų jūsų gerus darbus\nir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė\nskelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi."
+  citata_rodoma: |
+    Kadangi yra parašyta (Mt 5, 16): „...kad jie matytų jūsų gerus darbus
+    ir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė
+    skelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

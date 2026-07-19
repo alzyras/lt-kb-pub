@@ -86,7 +86,8 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
     Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar
     vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
     sau – karaliaus karūną.
-  citata_rodoma: "vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o"
+  citata_rodoma: |
+    vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

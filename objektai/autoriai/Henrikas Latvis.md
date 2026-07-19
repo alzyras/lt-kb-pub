@@ -161,7 +161,19 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     ganytojo patekusios į vilkų gaują.“
 
     1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MUSIS 21
-  citata_rodoma: "Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti\n\n„Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek\nkrikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje, labiausiai nedrįso\nlettai. Ir dėl to jie per pavojus palikdavo savo namus ir slėpdavosi miško tankynėse, bet\nir čia neišsigelbėdavo nuo lettony; lettonai persekiojo juos miškuose, vienus užmušinėjo,\nkitus ėmė į nelaisvę, vedė juos į savo žemę ir ėmė iš jų viską kaip savo. Ir bėgo rutenai\n[rusai] miškais ir kaimais nuo lettonų, net nuo nedaugelio, kaip bėga kiškiai nuo me-\ndžiotojo, o lyviai ir lettai klusniai tarnavo lettonams, davė maistą ir pašarą, kaip avys, be\nganytojo patekusios į vilkų gaują.“\n\n1236 m."
+  citata_rodoma: |
+    Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
+
+    „Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek
+    krikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje, labiausiai nedrįso
+    lettai. Ir dėl to jie per pavojus palikdavo savo namus ir slėpdavosi miško tankynėse, bet
+    ir čia neišsigelbėdavo nuo lettony; lettonai persekiojo juos miškuose, vienus užmušinėjo,
+    kitus ėmė į nelaisvę, vedė juos į savo žemę ir ėmė iš jų viską kaip savo. Ir bėgo rutenai
+    [rusai] miškais ir kaimais nuo lettonų, net nuo nedaugelio, kaip bėga kiškiai nuo me-
+    džiotojo, o lyviai ir lettai klusniai tarnavo lettonams, davė maistą ir pašarą, kaip avys, be
+    ganytojo patekusios į vilkų gaują.“
+
+    1236 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +223,11 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: "Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus\nkaras prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,\nnušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš\nDusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos."
+  citata_rodoma: |
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

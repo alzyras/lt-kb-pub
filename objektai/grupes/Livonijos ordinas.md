@@ -1520,7 +1520,19 @@ media_all_json: |-
     vakarinėms lietuvių-žemaičių žemėms ir
     visai Lietuvai buvo pašalintas ilgesniam
     laikui.
-  citata_rodoma: "Mūšio padariniai\n1260 m. liepos 13 d. Durbės mūšis yra vie-\nnas pačių didžiausių Lietuvos kare prieš\nKryžiuočių ordino agresiją ir pats didžiau-\nsias xIII a. baltų kovose. Tai europinės\nreikšmės mūšis, kai vienu smūgiu buvo\nsutriuškintos abi Ordino šakos, teutonų\nLivonijos ir Prūsijos kryžiuočiai bei jų tal-\nkininkai - Vakarų riteriai, Romos kurijos\ntarptautiniu mastu sušaukti kovai prieš „to-\ntorius“, bet nukreipti savo ir Ordino tiks-\nlams prieš Lietuvą vykdyti."
+  citata_rodoma: |
+    Mūšio padariniai
+    1260 m. liepos 13 d. Durbės mūšis yra vie-
+    nas pačių didžiausių Lietuvos kare prieš
+    Kryžiuočių ordino agresiją ir pats didžiau-
+    sias xIII a. baltų kovose. Tai europinės
+    reikšmės mūšis, kai vienu smūgiu buvo
+    sutriuškintos abi Ordino šakos, teutonų
+    Livonijos ir Prūsijos kryžiuočiai bei jų tal-
+    kininkai - Vakarų riteriai, Romos kurijos
+    tarptautiniu mastu sušaukti kovai prieš „to-
+    torius“, bet nukreipti savo ir Ordino tiks-
+    lams prieš Lietuvą vykdyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1571,7 +1583,10 @@ media_all_json: |-
     maitija. Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
     krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
     krikščionio valdovo statusą.
-  citata_rodoma: "Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su \nkrikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti \nkrikščionio valdovo statusą."
+  citata_rodoma: |
+    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
+    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1591,7 +1606,12 @@ media_all_json: |-
     krikščionio valdovo statusą.
     Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
     Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
-  citata_rodoma: "Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su \nkrikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti \nkrikščionio valdovo statusą. \nPo Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus \nLietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas."
+  citata_rodoma: |
+    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
+    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
+    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
+    Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1612,7 +1632,13 @@ media_all_json: |-
     mit Werdicheit kome desse Breef dorch dach und nacht sun­
     der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
     šis laiškas turi būti tikrai ir nedelsiant atiduotas).
-  citata_rodoma: "Be metų (turbūt, 1396).\n(Iš originalo Karaliaučiaus Slaptajame Archyve) \nAdresas toks: „Dėmė Erwerdighen Meister to Lyfflande \nmit Werdicheit kome desse Breef dorch dach und nacht sun­\nder alle sümen B.\" (Didžiai gerbiamam Livonijos magistrui \nšis laiškas turi būti tikrai ir nedelsiant atiduotas)."
+  citata_rodoma: |
+    Be metų (turbūt, 1396).
+    (Iš originalo Karaliaučiaus Slaptajame Archyve)
+    Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
+    mit Werdicheit kome desse Breef dorch dach und nacht sun­
+    der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
+    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1673,7 +1699,12 @@ media_all_json: |-
 
     Bet ir padarius taiką, santykiai su Maskva nė kiek ne-
     pagerėjo.
-  citata_rodoma: "(Livonijos ordino atstovai nebuvo įsileisti į\ntaikos derybas: Aleksandras turėjo mesti savo sąjungininką).\n\nBet ir padarius taiką, santykiai su Maskva nė kiek ne-\npagerėjo."
+  citata_rodoma: |
+    (Livonijos ordino atstovai nebuvo įsileisti į
+    taikos derybas: Aleksandras turėjo mesti savo sąjungininką).
+
+    Bet ir padarius taiką, santykiai su Maskva nė kiek ne-
+    pagerėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1698,7 +1729,9 @@ media_all_json: |-
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
-  citata_rodoma: "Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52."
+  citata_rodoma: |
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -1718,7 +1751,13 @@ media_all_json: |-
     nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
     penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
     riausiai 1399).
-  citata_rodoma: "136, N533\nDinaburgo komtūro pranešimas Livonijos magistrui apie \nVilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie \nnuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje \npenktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­\nriausiai 1399)."
+  citata_rodoma: |
+    136, N533
+    Dinaburgo komtūro pranešimas Livonijos magistrui apie
+    Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
+    nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
+    penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
+    riausiai 1399).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1743,7 +1782,14 @@ media_all_json: |-
     kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
     susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
     nas padarė amžiną taiką ir su Naugardu D. (1421).
-  citata_rodoma: "Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris\ntuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­\ndarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­\ntautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­\nkais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos\nsusirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­\nnas padarė amžiną taiką ir su Naugardu D. (1421)."
+  citata_rodoma: |
+    Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris
+    tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­
+    darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­
+    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
+    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
+    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
+    nas padarė amžiną taiką ir su Naugardu D. (1421).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1765,7 +1811,14 @@ media_all_json: |-
     ma Lietuvai ir lenkams suduoti galutinį smūgį. Tačiau at­
     ėjus gandui apie tokį didelį žygį, Vilniuje lietuvių irgi buvo
     imtasi ypatingų priemonių šalies sostinei ginti.
-  citata_rodoma: "Už­\nėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino\nLivonijos magistro į pagalbą vedami pulkai, kurių Valen­\nrodas laukė, visa kariauna pasuko Vilniaus link, norėda­\nma Lietuvai ir lenkams suduoti galutinį smūgį. Tačiau at­\nėjus gandui apie tokį didelį žygį, Vilniuje lietuvių irgi buvo\nimtasi ypatingų priemonių šalies sostinei ginti."
+  citata_rodoma: |
+    Už­
+    ėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino
+    Livonijos magistro į pagalbą vedami pulkai, kurių Valen­
+    rodas laukė, visa kariauna pasuko Vilniaus link, norėda­
+    ma Lietuvai ir lenkams suduoti galutinį smūgį. Tačiau at­
+    ėjus gandui apie tokį didelį žygį, Vilniuje lietuvių irgi buvo
+    imtasi ypatingų priemonių šalies sostinei ginti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1882,7 +1935,11 @@ media_all_json: |-
     tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
     mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
     mijos ir Sambijos vyskupai ir daug komtūrų.
-  citata_rodoma: "Iškilmingas tos sutarties ratifikavimas (patvir­\ntinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­\nmune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­\nmijos ir Sambijos vyskupai ir daug komtūrų."
+  citata_rodoma: |
+    Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1913,7 +1970,20 @@ media_all_json: |-
     Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
     la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
     mos.
-  citata_rodoma: "Mūsų nuomonę apie šio laiško senumą patvirtina ne tik\njo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą\n162\n\n## Puslapis 179\n\nIl KNYGA\nneleidžia manyti buvus kitus metus, juk kaip tik tuo laiku\nVytautas su Smolensko pulkais Švitrigailos ir Livonijos už­\nimtą Vitebską po keturių savaičių apgulties atgavo ir patį\nŠvitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­\nla ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­\nmos."
+  citata_rodoma: |
+    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
+    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
+    162
+
+    ## Puslapis 179
+
+    Il KNYGA
+    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
+    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
+    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
+    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
+    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
+    mos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1936,7 +2006,14 @@ media_all_json: |-
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
     tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
     bei alpių karščių.
-  citata_rodoma: "Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­\nko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­\nrius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­\nlenske pulkus, apsupo tą miestą ir po keturias savaites\nužsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į\nnelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56."
+  citata_rodoma: |
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1982,7 +2059,19 @@ media_all_json: |-
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: "Ordino pajėgos\n1260 m. Klaipėdoje prieš Lietuvą buvo\nsutelktos Livonijos ir Prūsijos kryžiuočių\nordinų pajėgos, broliai riteriai ir\ni 4 jiems pavaldžių užgrobtų žemių\n“prievarta buriami kariai (prūsai -\npamedėnai, notangai, varmiai, sem-\nbai, o taip pat kuršiai, estai ir kt.), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį."
+  citata_rodoma: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2032,7 +2121,20 @@ media_all_json: |-
     pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
     20
     Kotzebue Switrigail, p. 89.
-  citata_rodoma: "Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į \nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą \nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė \nšios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­\ngimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­\ntuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė \nnetoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai \npragaištingų konkurentų, varžybas. Tas įsimintinas mūšis\n20\nKotzebue Switrigail, p."
+  citata_rodoma: |
+    Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
+    20
+    Kotzebue Switrigail, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2084,7 +2186,14 @@ media_all_json: |-
     Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
 
     karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
-  citata_rodoma: "Livonijos\nOrdinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai\njiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų\nžemes.\nTokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­\n\nkarų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse."
+  citata_rodoma: |
+    Livonijos
+    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
+    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
+    žemes.
+    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
+
+    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2155,7 +2264,15 @@ media_all_json: |-
     apsiautė Polocką, iš kurio jis buvo išvytas po Algirdo sūnaus
     Andriejaus Algirdaičio išėjimo, tai Jogailos kariuomenė kartu
     su Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 ).
-  citata_rodoma: "Jis tuojau nusprendė ne tik veikti, patikėdamas Vokiečių\nOrdino įspėjimui, bet jau ir anksčiau iš visos susidariusios si­\ntuacijos nujautė slaptus Jogailos susitarimus su kryžiuočiais.\nKai šie, pavyzdžiui, naikino Kęstučio žemes, tai Jogaila pagal­\nbos siuntimu visai nesirūpino, o kada tuo pačiu laiku Skirgaila\napsiautė Polocką, iš kurio jis buvo išvytas po Algirdo sūnaus\nAndriejaus Algirdaičio išėjimo, tai Jogailos kariuomenė kartu\nsu Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 )."
+  citata_rodoma: |
+    Jis tuojau nusprendė ne tik veikti, patikėdamas Vokiečių
+    Ordino įspėjimui, bet jau ir anksčiau iš visos susidariusios si­
+    tuacijos nujautė slaptus Jogailos susitarimus su kryžiuočiais.
+    Kai šie, pavyzdžiui, naikino Kęstučio žemes, tai Jogaila pagal­
+    bos siuntimu visai nesirūpino, o kada tuo pačiu laiku Skirgaila
+    apsiautė Polocką, iš kurio jis buvo išvytas po Algirdo sūnaus
+    Andriejaus Algirdaičio išėjimo, tai Jogailos kariuomenė kartu
+    su Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2177,7 +2294,11 @@ media_all_json: |-
     gas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su
     Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Čer-
     vinsku (prie Vyslos).
-  citata_rodoma: "Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su\nlivoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-\ndžiame Tanenbergo mūšyje.\n**Tanenbergo mūšis 1410 m."
+  citata_rodoma: |
+    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
+    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
+    džiame Tanenbergo mūšyje.
+    **Tanenbergo mūšis 1410 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2285,7 +2406,20 @@ media_all_json: |-
     čionybę. Ir viena, ir kita šalis uoliai veikė: pasiunti­
     niais tapo Alėto vyskupas Baltramiejus ir šv. Teofrido
     vienuolyno abatas Bernardas.
-  citata_rodoma: "Fridrichas, \nRygos vyskupas, gal asme­\nniškai jausdamas Gediminui \ndėkingumą už ne vieną kar­\ntą suteiktą pagalbą, o gal \ngailėdamasis karų nukamuotos Livonijos, bandė am­\nžiams sutaikyti Livonijos ordiną ir Lietuvą. Tuo rei­\nkalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­\nrėdamas Livonijos ordiną aukščiausios galios vardu \npriversti pagalvoti apie taiką, o lietuvius, garbingai \npasiuntinybei tarpininkaujant, paskatinti priimti krikš­\nčionybę. Ir viena, ir kita šalis uoliai veikė: pasiunti­\nniais tapo Alėto vyskupas Baltramiejus ir šv."
+  citata_rodoma: |
+    Fridrichas,
+    Rygos vyskupas, gal asme­
+    niškai jausdamas Gediminui
+    dėkingumą už ne vieną kar­
+    tą suteiktą pagalbą, o gal
+    gailėdamasis karų nukamuotos Livonijos, bandė am­
+    žiams sutaikyti Livonijos ordiną ir Lietuvą. Tuo rei­
+    kalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­
+    rėdamas Livonijos ordiną aukščiausios galios vardu
+    priversti pagalvoti apie taiką, o lietuvius, garbingai
+    pasiuntinybei tarpininkaujant, paskatinti priimti krikš­
+    čionybę. Ir viena, ir kita šalis uoliai veikė: pasiunti­
+    niais tapo Alėto vyskupas Baltramiejus ir šv.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2311,7 +2445,19 @@ media_all_json: |-
     visą reikalą atidėsiąs seimui, nes tik jis turįs valsty­
     bėje aukščiausiąją valdžią, o be luomų žinios nieko
     reikšmingo negalįs nutarti.
-  citata_rodoma: "Ir vieni, ir kiti puikiai atliko pavestus užda­\nvinius.\nSeptyni šimtai Livonij rs raitelių, išsiųstų kariau­\nti Prūsijoje, susiruošė į žygį\n1466 m e ta i\nžiemos pabaigoje, manydami,\nL iv o n ijo s raiteliai žū-\njog tada bus lengviau išven-\nsta  Ž e m a itijo je\ngti lietuvių saugų. Baigėsi\nvasaris, pelkes ir ežerus den­\ngė ledas, galintis atlaikyti bet kokį svorį."
+  citata_rodoma: |
+    Ir vieni, ir kiti puikiai atliko pavestus užda­
+    vinius.
+    Septyni šimtai Livonij rs raitelių, išsiųstų kariau­
+    ti Prūsijoje, susiruošė į žygį
+    1466 m e ta i
+    žiemos pabaigoje, manydami,
+    L iv o n ijo s raiteliai žū-
+    jog tada bus lengviau išven-
+    sta  Ž e m a itijo je
+    gti lietuvių saugų. Baigėsi
+    vasaris, pelkes ir ežerus den­
+    gė ledas, galintis atlaikyti bet kokį svorį.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2379,7 +2525,17 @@ media_all_json: |-
     liūs ir įtraukti į sutarties
     tekstą Livonijos riterių ma­
     gistrą.
-  citata_rodoma: "K aras su L ivo n ija\nKai Lietuvoje viešpatavo\nramybė, kaimyninėje Livo­\nnijoje siautėjo karas. Valteriui Pletenbergui, Livonijos\nmagistrui, iš tiesų labai sekėsi kariauti: keliose kauty­\nnėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti\nIvano valdas. Turėdamas apie keturis tūkstančius vy­\nrų, jis nusigavo netoli Pskovo, bet čia jį apsupo devy­\nniasdešimt tūkstančių priešo karių, rodėsi, jog nebeto­\nli ir paskutinioji."
+  citata_rodoma: |
+    K aras su L ivo n ija
+    Kai Lietuvoje viešpatavo
+    ramybė, kaimyninėje Livo­
+    nijoje siautėjo karas. Valteriui Pletenbergui, Livonijos
+    magistrui, iš tiesų labai sekėsi kariauti: keliose kauty­
+    nėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti
+    Ivano valdas. Turėdamas apie keturis tūkstančius vy­
+    rų, jis nusigavo netoli Pskovo, bet čia jį apsupo devy­
+    niasdešimt tūkstančių priešo karių, rodėsi, jog nebeto­
+    li ir paskutinioji.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2416,7 +2572,14 @@ media_all_json: |-
     imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
     Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
     čiai ir ponai, ir daug įvairių svečių.
-  citata_rodoma: "Ir išvažinėjo savo keliais.\nSekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 ."
+  citata_rodoma: |
+    Ir išvažinėjo savo keliais.
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -2496,7 +2659,10 @@ media_all_json: |-
     Kitų metų žiemą (1364.I.) kryžiuočiai, talkinami Pfalzgrafo
     Ruprechto ir jo palydovų, per Ariogalos, Pernaravos sritis patraukė
     iki Žeimių, kur buvo įsiveržusi ir Livonijos kryžiuočių kariuomenė.
-  citata_rodoma: "Kitų metų žiemą (1364.I.) kryžiuočiai, talkinami Pfalzgrafo\nRuprechto ir jo palydovų, per Ariogalos, Pernaravos sritis patraukė\niki Žeimių, kur buvo įsiveržusi ir Livonijos kryžiuočių kariuomenė."
+  citata_rodoma: |
+    Kitų metų žiemą (1364.I.) kryžiuočiai, talkinami Pfalzgrafo
+    Ruprechto ir jo palydovų, per Ariogalos, Pernaravos sritis patraukė
+    iki Žeimių, kur buvo įsiveržusi ir Livonijos kryžiuočių kariuomenė.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -2517,7 +2683,13 @@ media_all_json: |-
     nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
     penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
     riausiai 1399).
-  citata_rodoma: "136, N533\nDinaburgo komtūro pranešimas Livonijos magistrui apie \nVilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie \nnuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje \npenktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­\nriausiai 1399)."
+  citata_rodoma: |
+    136, N533
+    Dinaburgo komtūro pranešimas Livonijos magistrui apie
+    Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
+    nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
+    penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
+    riausiai 1399).
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -2638,7 +2810,14 @@ media_all_json: |-
     kymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai
     — ženklan didžiosios Lietuvos kunigaikštijos priklausomybės nuo
     Karūnos -— mokėtų tam tikrą mokestį^7.
-  citata_rodoma: "Į iškilmingą ir visą savaitę trukusį Salyno\nsuvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių\njo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą\npuotą Vytautą paskelbė Lietuvos karaliumi. Tai turėjo būti atsa­\nkymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai\n— ženklan didžiosios Lietuvos kunigaikštijos priklausomybės nuo\nKarūnos -— mokėtų tam tikrą mokestį^7."
+  citata_rodoma: |
+    Į iškilmingą ir visą savaitę trukusį Salyno
+    suvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių
+    jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą
+    puotą Vytautą paskelbė Lietuvos karaliumi. Tai turėjo būti atsa­
+    kymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai
+    — ženklan didžiosios Lietuvos kunigaikštijos priklausomybės nuo
+    Karūnos -— mokėtų tam tikrą mokestį^7.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -2698,7 +2877,19 @@ media_all_json: |-
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: "Ordino pajėgos\n1260 m. Klaipėdoje prieš Lietuvą buvo\nsutelktos Livonijos ir Prūsijos kryžiuočių\nordinų pajėgos, broliai riteriai ir\ni 4 jiems pavaldžių užgrobtų žemių\n“prievarta buriami kariai (prūsai -\npamedėnai, notangai, varmiai, sem-\nbai, o taip pat kuršiai, estai ir kt.), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį."
+  citata_rodoma: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -2722,7 +2913,9 @@ media_all_json: |-
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
-  citata_rodoma: "Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52."
+  citata_rodoma: |
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -2742,7 +2935,14 @@ media_all_json: |-
     ordiną, kuris, vidaus priešą įveikęs ir pačią Rygą užvaldęs, beveik
     iki pat Gedimino valdymo galo darė Lietuvon puolimus. 1331-
     1333 m. buvo teriojama «Lietuva, kurią vadina Žemaičiais»^3.
-  citata_rodoma: "«Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,\nkad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti\n« nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių\npersekiojimų»^2. Rygai kritus, Gediminas neteko paramos prieš\nordiną, kuris, vidaus priešą įveikęs ir pačią Rygą užvaldęs, beveik\niki pat Gedimino valdymo galo darė Lietuvon puolimus. 1331-\n1333 m."
+  citata_rodoma: |
+    «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
+    kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
+    « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
+    persekiojimų»^2. Rygai kritus, Gediminas neteko paramos prieš
+    ordiną, kuris, vidaus priešą įveikęs ir pačią Rygą užvaldęs, beveik
+    iki pat Gedimino valdymo galo darė Lietuvon puolimus. 1331-
+    1333 m.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -2863,7 +3063,14 @@ media_all_json: |-
     ma Lietuvai ir lenkams suduoti galutinį smūgį. Tačiau at­
     ėjus gandui apie tokį didelį žygį, Vilniuje lietuvių irgi buvo
     imtasi ypatingų priemonių šalies sostinei ginti.
-  citata_rodoma: "Už­\nėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino\nLivonijos magistro į pagalbą vedami pulkai, kurių Valen­\nrodas laukė, visa kariauna pasuko Vilniaus link, norėda­\nma Lietuvai ir lenkams suduoti galutinį smūgį. Tačiau at­\nėjus gandui apie tokį didelį žygį, Vilniuje lietuvių irgi buvo\nimtasi ypatingų priemonių šalies sostinei ginti."
+  citata_rodoma: |
+    Už­
+    ėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino
+    Livonijos magistro į pagalbą vedami pulkai, kurių Valen­
+    rodas laukė, visa kariauna pasuko Vilniaus link, norėda­
+    ma Lietuvai ir lenkams suduoti galutinį smūgį. Tačiau at­
+    ėjus gandui apie tokį didelį žygį, Vilniuje lietuvių irgi buvo
+    imtasi ypatingų priemonių šalies sostinei ginti.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -2882,7 +3089,12 @@ media_all_json: |-
 
     Bet ir padarius taiką, santykiai su Maskva nė kiek ne-
     pagerėjo.
-  citata_rodoma: "(Livonijos ordino atstovai nebuvo įsileisti į\ntaikos derybas: Aleksandras turėjo mesti savo sąjungininką).\n\nBet ir padarius taiką, santykiai su Maskva nė kiek ne-\npagerėjo."
+  citata_rodoma: |
+    (Livonijos ordino atstovai nebuvo įsileisti į
+    taikos derybas: Aleksandras turėjo mesti savo sąjungininką).
+
+    Bet ir padarius taiką, santykiai su Maskva nė kiek ne-
+    pagerėjo.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -2919,7 +3131,13 @@ media_all_json: |-
     mit Werdicheit kome desse Breef dorch dach und nacht sun­
     der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
     šis laiškas turi būti tikrai ir nedelsiant atiduotas).
-  citata_rodoma: "Be metų (turbūt, 1396).\n(Iš originalo Karaliaučiaus Slaptajame Archyve) \nAdresas toks: „Dėmė Erwerdighen Meister to Lyfflande \nmit Werdicheit kome desse Breef dorch dach und nacht sun­\nder alle sümen B.\" (Didžiai gerbiamam Livonijos magistrui \nšis laiškas turi būti tikrai ir nedelsiant atiduotas)."
+  citata_rodoma: |
+    Be metų (turbūt, 1396).
+    (Iš originalo Karaliaučiaus Slaptajame Archyve)
+    Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
+    mit Werdicheit kome desse Breef dorch dach und nacht sun­
+    der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
+    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -2962,7 +3180,14 @@ media_all_json: |-
     Naudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš
     lietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis
     į Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86.
-  citata_rodoma: ", kai iš Prūsų ordino Vytautas\nterorizavo pusbrolį Jogailą, priversdamas jį nusileisti^85.\nMindaugui buvo savotiška laimė, kad Tautvilas krikštijosi pas\nRygos arkivyskupą, kuriam nebenorėjo paklusti Livonijos ordinas.\nNaudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš\nlietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis\nį Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86."
+  citata_rodoma: |
+    , kai iš Prūsų ordino Vytautas
+    terorizavo pusbrolį Jogailą, priversdamas jį nusileisti^85.
+    Mindaugui buvo savotiška laimė, kad Tautvilas krikštijosi pas
+    Rygos arkivyskupą, kuriam nebenorėjo paklusti Livonijos ordinas.
+    Naudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš
+    lietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis
+    į Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -3002,7 +3227,14 @@ media_all_json: |-
     kymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai
     — ženklan didžiosios Lietuvos kunigaikštijos priklausomybės nuo
     Karūnos -— mokėtų tam tikrą mokestį^7.
-  citata_rodoma: "Į iškilmingą ir visą savaitę trukusį Salyno\nsuvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių\njo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą\npuotą Vytautą paskelbė Lietuvos karaliumi. Tai turėjo būti atsa­\nkymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai\n— ženklan didžiosios Lietuvos kunigaikštijos priklausomybės nuo\nKarūnos -— mokėtų tam tikrą mokestį^7."
+  citata_rodoma: |
+    Į iškilmingą ir visą savaitę trukusį Salyno
+    suvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių
+    jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą
+    puotą Vytautą paskelbė Lietuvos karaliumi. Tai turėjo būti atsa­
+    kymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai
+    — ženklan didžiosios Lietuvos kunigaikštijos priklausomybės nuo
+    Karūnos -— mokėtų tam tikrą mokestį^7.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -3028,7 +3260,14 @@ media_all_json: |-
     Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
 
     karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
-  citata_rodoma: "Livonijos\nOrdinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai\njiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų\nžemes.\nTokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­\n\nkarų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse."
+  citata_rodoma: |
+    Livonijos
+    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
+    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
+    žemes.
+    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
+
+    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3049,7 +3288,11 @@ media_all_json: |-
     gas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su
     Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Čer-
     vinsku (prie Vyslos).
-  citata_rodoma: "Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su\nlivoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-\ndžiame Tanenbergo mūšyje.\n**Tanenbergo mūšis 1410 m."
+  citata_rodoma: |
+    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
+    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
+    džiame Tanenbergo mūšyje.
+    **Tanenbergo mūšis 1410 m.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3093,7 +3336,14 @@ media_all_json: |-
     kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
     susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
     nas padarė amžiną taiką ir su Naugardu D. (1421).
-  citata_rodoma: "Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris\ntuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­\ndarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­\ntautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­\nkais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos\nsusirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­\nnas padarė amžiną taiką ir su Naugardu D. (1421)."
+  citata_rodoma: |
+    Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris
+    tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­
+    darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­
+    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
+    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
+    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
+    nas padarė amžiną taiką ir su Naugardu D. (1421).
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3123,7 +3373,20 @@ media_all_json: |-
     Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
     la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
     mos.
-  citata_rodoma: "Mūsų nuomonę apie šio laiško senumą patvirtina ne tik\njo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą\n162\n\n## Puslapis 179\n\nIl KNYGA\nneleidžia manyti buvus kitus metus, juk kaip tik tuo laiku\nVytautas su Smolensko pulkais Švitrigailos ir Livonijos už­\nimtą Vitebską po keturių savaičių apgulties atgavo ir patį\nŠvitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­\nla ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­\nmos."
+  citata_rodoma: |
+    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
+    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
+    162
+
+    ## Puslapis 179
+
+    Il KNYGA
+    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
+    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
+    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
+    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
+    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
+    mos.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3142,7 +3405,12 @@ media_all_json: |-
     krikščionio valdovo statusą.
     Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
     Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
-  citata_rodoma: "Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su \nkrikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti \nkrikščionio valdovo statusą. \nPo Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus \nLietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas."
+  citata_rodoma: |
+    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
+    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
+    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
+    Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3178,7 +3446,27 @@ media_all_json: |-
     nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
     gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
     gal to priežastis buvo naujesnės žinios iš Prūsijos.
-  citata_rodoma: "Be išsamaus išvar­\ndijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos \nkapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties \nmiesto vyskupo, Danijos karaliaus ginkluoto būrio vado, \nVokiečių ordinom  ir Rygos miesto pusės ir be nurodymo \nžemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­\ngiau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų \nbesitariančių pusių kraštuose, apie teisišką sprendimą gin­\n* wenbrulie), Mintaujos komtūras ir\nEželis (Oeselis), dab. Saremas brolis Otto (Blanehom).\nm n\nIš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir \ntik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.\n74\n\n## Puslapis 91\n\nI  KNYGA\nčų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­\nžinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t."
+  citata_rodoma: |
+    Be išsamaus išvar­
+    dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
+    kapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties
+    miesto vyskupo, Danijos karaliaus ginkluoto būrio vado,
+    Vokiečių ordinom  ir Rygos miesto pusės ir be nurodymo
+    žemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­
+    giau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų
+    besitariančių pusių kraštuose, apie teisišką sprendimą gin­
+    * wenbrulie), Mintaujos komtūras ir
+    Eželis (Oeselis), dab. Saremas brolis Otto (Blanehom).
+    m n
+    Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
+    tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
+    74
+
+    ## Puslapis 91
+
+    I  KNYGA
+    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
+    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -3199,7 +3487,11 @@ media_all_json: |-
     tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
     mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
     mijos ir Sambijos vyskupai ir daug komtūrų.
-  citata_rodoma: "Iškilmingas tos sutarties ratifikavimas (patvir­\ntinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­\nmune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­\nmijos ir Sambijos vyskupai ir daug komtūrų."
+  citata_rodoma: |
+    Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3261,7 +3553,14 @@ media_all_json: |-
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
     tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
     bei alpių karščių.
-  citata_rodoma: "Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­\nko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­\nrius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­\nlenske pulkus, apsupo tą miestą ir po keturias savaites\nužsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į\nnelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56."
+  citata_rodoma: |
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3280,7 +3579,11 @@ media_all_json: |-
     1372 puolė vienu metu iš Prūsų ir Livonijos.
     Kad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­
     das su Kęstučiu pradėjo su ordinu derybas.
-  citata_rodoma: "Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o\n1372 puolė vienu metu iš Prūsų ir Livonijos.\nKad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­\ndas su Kęstučiu pradėjo su ordinu derybas."
+  citata_rodoma: |
+    Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o
+    1372 puolė vienu metu iš Prūsų ir Livonijos.
+    Kad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­
+    das su Kęstučiu pradėjo su ordinu derybas.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -3327,7 +3630,19 @@ media_all_json: |-
     vakarinėms lietuvių-žemaičių žemėms ir
     visai Lietuvai buvo pašalintas ilgesniam
     laikui.
-  citata_rodoma: "Mūšio padariniai\n1260 m. liepos 13 d. Durbės mūšis yra vie-\nnas pačių didžiausių Lietuvos kare prieš\nKryžiuočių ordino agresiją ir pats didžiau-\nsias xIII a. baltų kovose. Tai europinės\nreikšmės mūšis, kai vienu smūgiu buvo\nsutriuškintos abi Ordino šakos, teutonų\nLivonijos ir Prūsijos kryžiuočiai bei jų tal-\nkininkai - Vakarų riteriai, Romos kurijos\ntarptautiniu mastu sušaukti kovai prieš „to-\ntorius“, bet nukreipti savo ir Ordino tiks-\nlams prieš Lietuvą vykdyti."
+  citata_rodoma: |
+    Mūšio padariniai
+    1260 m. liepos 13 d. Durbės mūšis yra vie-
+    nas pačių didžiausių Lietuvos kare prieš
+    Kryžiuočių ordino agresiją ir pats didžiau-
+    sias xIII a. baltų kovose. Tai europinės
+    reikšmės mūšis, kai vienu smūgiu buvo
+    sutriuškintos abi Ordino šakos, teutonų
+    Livonijos ir Prūsijos kryžiuočiai bei jų tal-
+    kininkai - Vakarų riteriai, Romos kurijos
+    tarptautiniu mastu sušaukti kovai prieš „to-
+    torius“, bet nukreipti savo ir Ordino tiks-
+    lams prieš Lietuvą vykdyti.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3363,7 +3678,11 @@ media_all_json: |-
     piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
     Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
     kryžiuočių ir 30—iš Livonijos.
-  citata_rodoma: "O vasaros žygis buvo ruošiamas apie rug­\npiūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.\nOrdino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų\nkryžiuočių ir 30—iš Livonijos."
+  citata_rodoma: |
+    O vasaros žygis buvo ruošiamas apie rug­
+    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
+    kryžiuočių ir 30—iš Livonijos.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -3384,7 +3703,13 @@ media_all_json: |-
     Eiliuotinė Livonijos kronika, palyginti, plačiai aprašydama tą pa­
     gonių žygį, jau visai atskirai nemini žemaičių, apie kuriuos paprastai
     viską dešimtimis kartų vis tiksliai pažymėdavo.
-  citata_rodoma: "Livonijos ordino vicemagistras maldavo pagalbos\niš Liubeko miesto, skųsdamasis, jog ordinas turėjęs daug nuostolių\narkliais, ginklais ir kitokiomis gėrybėmis^174. Krinta į akį tai, kad\nEiliuotinė Livonijos kronika, palyginti, plačiai aprašydama tą pa­\ngonių žygį, jau visai atskirai nemini žemaičių, apie kuriuos paprastai\nviską dešimtimis kartų vis tiksliai pažymėdavo."
+  citata_rodoma: |
+    Livonijos ordino vicemagistras maldavo pagalbos
+    iš Liubeko miesto, skųsdamasis, jog ordinas turėjęs daug nuostolių
+    arkliais, ginklais ir kitokiomis gėrybėmis^174. Krinta į akį tai, kad
+    Eiliuotinė Livonijos kronika, palyginti, plačiai aprašydama tą pa­
+    gonių žygį, jau visai atskirai nemini žemaičių, apie kuriuos paprastai
+    viską dešimtimis kartų vis tiksliai pažymėdavo.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
@@ -3404,7 +3729,10 @@ media_all_json: |-
     maitija. Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
     krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
     krikščionio valdovo statusą.
-  citata_rodoma: "Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su \nkrikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti \nkrikščionio valdovo statusą."
+  citata_rodoma: |
+    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
+    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3427,7 +3755,15 @@ media_all_json: |-
     apsiautė Polocką, iš kurio jis buvo išvytas po Algirdo sūnaus
     Andriejaus Algirdaičio išėjimo, tai Jogailos kariuomenė kartu
     su Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 ).
-  citata_rodoma: "Jis tuojau nusprendė ne tik veikti, patikėdamas Vokiečių\nOrdino įspėjimui, bet jau ir anksčiau iš visos susidariusios si­\ntuacijos nujautė slaptus Jogailos susitarimus su kryžiuočiais.\nKai šie, pavyzdžiui, naikino Kęstučio žemes, tai Jogaila pagal­\nbos siuntimu visai nesirūpino, o kada tuo pačiu laiku Skirgaila\napsiautė Polocką, iš kurio jis buvo išvytas po Algirdo sūnaus\nAndriejaus Algirdaičio išėjimo, tai Jogailos kariuomenė kartu\nsu Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 )."
+  citata_rodoma: |
+    Jis tuojau nusprendė ne tik veikti, patikėdamas Vokiečių
+    Ordino įspėjimui, bet jau ir anksčiau iš visos susidariusios si­
+    tuacijos nujautė slaptus Jogailos susitarimus su kryžiuočiais.
+    Kai šie, pavyzdžiui, naikino Kęstučio žemes, tai Jogaila pagal­
+    bos siuntimu visai nesirūpino, o kada tuo pačiu laiku Skirgaila
+    apsiautė Polocką, iš kurio jis buvo išvytas po Algirdo sūnaus
+    Andriejaus Algirdaičio išėjimo, tai Jogailos kariuomenė kartu
+    su Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3541,7 +3877,14 @@ media_all_json: |-
     imperatoriaus Jono Paleologo18 didieji pasiuntiniai, ir
     Mazovijos kunigaikštis l9, ir kiti krikščionių kunigaikš­
     čiai ir ponai, ir daug įvairių svečių.
-  citata_rodoma: "Ir išvažinėjo savo keliais.\nSekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 ."
+  citata_rodoma: |
+    Ir išvažinėjo savo keliais.
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 .
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 
@@ -3599,7 +3942,20 @@ media_all_json: |-
     pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
     20
     Kotzebue Switrigail, p. 89.
-  citata_rodoma: "Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į \nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą \nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė \nšios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­\ngimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­\ntuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė \nnetoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai \npragaištingų konkurentų, varžybas. Tas įsimintinas mūšis\n20\nKotzebue Switrigail, p."
+  citata_rodoma: |
+    Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
+    20
+    Kotzebue Switrigail, p.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
 

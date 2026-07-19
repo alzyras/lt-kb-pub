@@ -60,7 +60,11 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
     Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
     Grajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­
     siau dalinamą Raigardo ežerą.
-  citata_rodoma: "Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų\nBrastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau\nGrajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­\nsiau dalinamą Raigardo ežerą."
+  citata_rodoma: |
+    Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
+    Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
+    Grajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­
+    siau dalinamą Raigardo ežerą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

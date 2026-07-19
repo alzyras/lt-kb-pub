@@ -128,7 +128,18 @@ Nenurodyta
     priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir
     18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios
     klebonu (Wizerunki Naukowe.
-  citata_rodoma: "Toliau net matysi­\nme, kad jie turėjo nuodėmių išpažinimo dieną.\nPriesaikos\nPrie aukų priklauso ir priesaika, kadangi tai geranoriška\nsavo paties sąžinės auka. Antikos žmonės duodavo dvejopas\npriesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam\ngalingam ir kerštingam dievui: Me Hercule, MeJove, tegu Her­\nkų lis, Jupiteris bus man maloningas; kitokią su užkeikimu,\nkreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­\nbaisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis\nbūdavo toks pat baisus kaip ir anų."
+  citata_rodoma: |
+    Toliau net matysi­
+    me, kad jie turėjo nuodėmių išpažinimo dieną.
+    Priesaikos
+    Prie aukų priklauso ir priesaika, kadangi tai geranoriška
+    savo paties sąžinės auka. Antikos žmonės duodavo dvejopas
+    priesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam
+    galingam ir kerštingam dievui: Me Hercule, MeJove, tegu Her­
+    kų lis, Jupiteris bus man maloningas; kitokią su užkeikimu,
+    kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
+    baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
+    būdavo toks pat baisus kaip ir anų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

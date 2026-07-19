@@ -122,7 +122,19 @@ Nenurodyta
     pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
     kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
     kurį niokojo, degindamas ir grobdamas.
-  citata_rodoma: "205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį\n\n  Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,\nTepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų\nnuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150\nžmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai\nčia kur kas daugiau prarado, nei buvo pelnę Semboje.\n\n\n\n\n               206 (201)."
+  citata_rodoma: |
+    205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
+
+      Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,
+    Tepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų
+    nuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150
+    žmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai
+    čia kur kas daugiau prarado, nei buvo pelnę Semboje.
+
+
+
+
+                   206 (201).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -80,7 +80,32 @@ Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas
 
     Žygimanto Senojo kalavijas su
     Lietuvos ir Lenkijos herbais. XVI a.
-  citata_rodoma: "Pergalė prie Oršos buvo\ndidžiausias Konstantino Ostrogiškio\nkarinis triumfas, ją pasiekiant didelę\nreikšmę turėjo šio didžiojo etmono\nvadovavimo sugebėjimai, jo kariuo-\nmenės kovinės savybės, suderinti\nkariuomenės dalių veiksmai, puikūs\ntaktiniai manevrai - atsitraukiant\npriešas atviliotas į artilerijos pasalą\n(dažnai teigiama, kad tai pirmoji\nžinoma artilerijos pasala pasau-\n\nlio karybos istorijoje) ir pavykusios\nkarinės gudrybės (parodomaisiais\nveiksmais atitrauktas priešo dėme-\nsys nuo kitoje vietoje statomo tilto),\nišnaudota iniciatyva ir karo inži-\nnerijos galimybės (pastatytas\n\n|\n\niai V\n\nŽygimanto Senojo kalavijas su\nLietuvos ir Lenkijos herbais."
+  citata_rodoma: |
+    Pergalė prie Oršos buvo
+    didžiausias Konstantino Ostrogiškio
+    karinis triumfas, ją pasiekiant didelę
+    reikšmę turėjo šio didžiojo etmono
+    vadovavimo sugebėjimai, jo kariuo-
+    menės kovinės savybės, suderinti
+    kariuomenės dalių veiksmai, puikūs
+    taktiniai manevrai - atsitraukiant
+    priešas atviliotas į artilerijos pasalą
+    (dažnai teigiama, kad tai pirmoji
+    žinoma artilerijos pasala pasau-
+
+    lio karybos istorijoje) ir pavykusios
+    karinės gudrybės (parodomaisiais
+    veiksmais atitrauktas priešo dėme-
+    sys nuo kitoje vietoje statomo tilto),
+    išnaudota iniciatyva ir karo inži-
+    nerijos galimybės (pastatytas
+
+    |
+
+    iai V
+
+    Žygimanto Senojo kalavijas su
+    Lietuvos ir Lenkijos herbais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

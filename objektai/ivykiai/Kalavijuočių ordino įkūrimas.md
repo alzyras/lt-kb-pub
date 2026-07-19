@@ -97,7 +97,10 @@ Nenurodyta
     nas. Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
     Jis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas
     turėjo būti tiktai jo įrankis.
-  citata_rodoma: "Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.\nJis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas\nturėjo būti tiktai jo įrankis."
+  citata_rodoma: |
+    Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
+    Jis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas
+    turėjo būti tiktai jo įrankis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

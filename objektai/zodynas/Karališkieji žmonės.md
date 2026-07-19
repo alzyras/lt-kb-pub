@@ -80,7 +80,12 @@ Terminas vartojamas 1862 m. kaimo gyvenimo aprašymo rėmuose.
     tik
     karališkius žmones,
     1862 metų.
-  citata_rodoma: "Kad kultūringumo laipsnis įvairių Lietuvos vietų yra įvairus, tai \nsurašyti vaizdai liečia ne baudžiauninkus, \ntik \nkarališkius žmones, \n1862 metų"
+  citata_rodoma: |
+    Kad kultūringumo laipsnis įvairių Lietuvos vietų yra įvairus, tai
+    surašyti vaizdai liečia ne baudžiauninkus,
+    tik
+    karališkius žmones,
+    1862 metų
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

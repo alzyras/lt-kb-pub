@@ -162,7 +162,20 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
     visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
     laiku.
-  citata_rodoma: "mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-\nria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno \npramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje \nSSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į \nkitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – \nMaskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos \npajamos patekdavo į bendrą SSRS biudžetą. \nSovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-\nkvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog \nčia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-\nkalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo \nvisiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau \nlaiku."
+  citata_rodoma: |
+    mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
+    ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
+    pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje
+    SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į
+    kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai –
+    Maskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos
+    pajamos patekdavo į bendrą SSRS biudžetą.
+    Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-
+    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
+    čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-
+    kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
+    visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
+    laiku.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -185,7 +198,9 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     Nepavykus realizuoti rusiškosios „Lietuvių mitologi­
     jos“ išleidimo idėjų, T. Narbutas visą dėmesį sukoncent­
     ravo į lenkiškojo teksto pataisas.
-  citata_rodoma: "būtent tas, kurį istorikas 1843 metais siūlė Peterburgo lei­\ndėjams."
+  citata_rodoma: |
+    būtent tas, kurį istorikas 1843 metais siūlė Peterburgo lei­
+    dėjams.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -201,7 +216,10 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
     seimas Varšuvoje.
-  citata_rodoma: "ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.\nSankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis\nseimas Varšuvoje."
+  citata_rodoma: |
+    ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
+    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
+    seimas Varšuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -223,7 +241,15 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     jam šio tomo leidimui4. Si aplinkybė leidžia daryti prie­
     laidą, jog abu tomai į rusų kalbą buvo verčiami tiesiog
     iš rankraščio, kartu su lenkiškuoju variantu.
-  citata_rodoma: "Vadinasi, su­\nmanymas siekia daug ankstesnius laikus nei „Lietuvių mi­\ntologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­\nbės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­\nvo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-\nišleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­\nnės T. Narbuto korespondencijos, istorikas daugelį metų\nieškojo galimybės išspausdinti šio tomo vertimą."
+  citata_rodoma: |
+    Vadinasi, su­
+    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
+    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
+    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
+    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
+    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
+    nės T. Narbuto korespondencijos, istorikas daugelį metų
+    ieškojo galimybės išspausdinti šio tomo vertimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

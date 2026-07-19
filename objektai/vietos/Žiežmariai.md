@@ -112,7 +112,16 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
     puolė „Lietuvių“ (Pskovo) divizijos 2-asis
 
     1919 m.
-  citata_rodoma: "Gavusi iš savo žvalgų informaciją, jog\nnuo Žiežmarių iki Alytaus nebuvo nei lie-\ntuvių, nei vokiečių dalinių, bolševikų ka-\nrinė vadovybė 1919 m. vasario pradžioje\nryžosi pradėti Kauno puolimą iš pietų\npusės. Beveik tuo pat metu, kai Kėdainius\npuolė „Lietuvių“ (Pskovo) divizijos 2-asis\n\n1919 m."
+  citata_rodoma: |
+    Gavusi iš savo žvalgų informaciją, jog
+    nuo Žiežmarių iki Alytaus nebuvo nei lie-
+    tuvių, nei vokiečių dalinių, bolševikų ka-
+    rinė vadovybė 1919 m. vasario pradžioje
+    ryžosi pradėti Kauno puolimą iš pietų
+    pusės. Beveik tuo pat metu, kai Kėdainius
+    puolė „Lietuvių“ (Pskovo) divizijos 2-asis
+
+    1919 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

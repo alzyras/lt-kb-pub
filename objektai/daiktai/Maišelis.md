@@ -80,7 +80,9 @@ Nenurodyta
     ir varinė taurelė.
     Atvažiavus į miestelį maišelį paduoda palaikyti pa­
     žįstamai elgetai, sėdinčiai šventoriuje.
-  citata_rodoma: "Atvažiavus į miestelį maišelį paduoda palaikyti pa­\nžįstamai elgetai, sėdinčiai šventoriuje."
+  citata_rodoma: |
+    Atvažiavus į miestelį maišelį paduoda palaikyti pa­
+    žįstamai elgetai, sėdinčiai šventoriuje.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
@@ -103,7 +105,10 @@ Nenurodyta
     Pasiima iš elegetos mai­
     šelį, susėda šventoriaus žolyne, patiesia tuščią maišelį ir ant jo sukrau­
     na, kas jame buvo.
-  citata_rodoma: "Pasiima iš elegetos mai­\nšelį, susėda šventoriaus žolyne, patiesia tuščią maišelį ir ant jo sukrau­\nna, kas jame buvo."
+  citata_rodoma: |
+    Pasiima iš elegetos mai­
+    šelį, susėda šventoriaus žolyne, patiesia tuščią maišelį ir ant jo sukrau­
+    na, kas jame buvo.
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas

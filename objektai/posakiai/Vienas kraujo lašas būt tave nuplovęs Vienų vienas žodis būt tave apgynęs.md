@@ -89,7 +89,14 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
     mirštant, kad priešintis galima protestais ir bent jau Vyriausybės
     pasitraukimu, kas ir buvo siūloma 1940 m. birželio 15 nakties po-
     sėdyje.
-  citata_rodoma: "“\n\nUžmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų\nvienas žodis būt tave apgynęs“. O tai reiškia, kad dažniausiai kalba\ntik ir sukasi apie „simbolinį šūvį“ ar net „simbolines aukas“, už-\nmirštant, kad priešintis galima protestais ir bent jau Vyriausybės\npasitraukimu, kas ir buvo siūloma 1940 m."
+  citata_rodoma: |
+    “
+
+    Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų
+    vienas žodis būt tave apgynęs“. O tai reiškia, kad dažniausiai kalba
+    tik ir sukasi apie „simbolinį šūvį“ ar net „simbolines aukas“, už-
+    mirštant, kad priešintis galima protestais ir bent jau Vyriausybės
+    pasitraukimu, kas ir buvo siūloma 1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -110,7 +117,10 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
     eilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas
     nekreipia dėmesio į tai, kad 1940 m. birželio 15 ryte Ūtos pasienio
     poste buvo nužudytas pasienietis Aleksandras Barauskas.
-  citata_rodoma: "Iš tikrųjų dažnai kartojama poeto Jono Aisčio\neilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas\nnekreipia dėmesio į tai, kad 1940 m."
+  citata_rodoma: |
+    Iš tikrųjų dažnai kartojama poeto Jono Aisčio
+    eilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas
+    nekreipia dėmesio į tai, kad 1940 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

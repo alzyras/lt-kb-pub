@@ -495,7 +495,23 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
     labai daug gintaro, — ten seniau buvo daugelį mylių
     besitęsianti sausuma.
-  citata_rodoma: "Kopija iš Karaliau­\nčiaus archyvo kopijos, sub titulo Pommeraniae pertinen­\ndo, yra be pradžios ir pabaigos. Argi tuo būdu negalima\nbuvo patekti j Baltiją, Plinijaus vadinamą gintaringa\nsala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos\nir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­\ndaug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už\nšiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­\nžiau kaip šiandien Sambijoje.\nLaikui bėgant, čia marių vandenys visiškai pakeitė\npakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­\nrokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau\nji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien\nnardo žuvys ir iš paslaptingų jūros gelmių išgaunama\nlabai daug gintaro, — ten seniau buvo daugelį mylių\nbesitęsianti sausuma."
+  citata_rodoma: |
+    Kopija iš Karaliau­
+    čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
+    do, yra be pradžios ir pabaigos. Argi tuo būdu negalima
+    buvo patekti j Baltiją, Plinijaus vadinamą gintaringa
+    sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos
+    ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­
+    daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už
+    šiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­
+    žiau kaip šiandien Sambijoje.
+    Laikui bėgant, čia marių vandenys visiškai pakeitė
+    pakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­
+    rokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau
+    ji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien
+    nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
+    labai daug gintaro, — ten seniau buvo daugelį mylių
+    besitęsianti sausuma.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

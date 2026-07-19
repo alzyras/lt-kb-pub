@@ -75,7 +75,8 @@ media_all_json: |-
     1935 m. priskaičiuota apie 40. Švietimui padėjo lenkų kultūros organiza-
     cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
     gaudavusios pinigų iš Lenkijos.
-  citata_rodoma: "cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),"
+  citata_rodoma: |
+    cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

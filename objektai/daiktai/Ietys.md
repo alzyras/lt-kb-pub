@@ -198,7 +198,15 @@ Nenurodyta
     dino didesnio savarankiško vaidmens, bet
     buvo įprastas atributas, kuris mūšio lauke
     vis dėlto praversdavo.
-  citata_rodoma: "Šių dalinių kovinė vertė buvo\nmenkesnė, bet ir jie sugebėdavo pasireikšti\nmūšio lauke. Pagrindiniai tokios kariuome-\nnės ginklai buvo ietys ir kalavijai. Artilerija\nto meto Lietuvos kariuomenėje dar nevai-\ndino didesnio savarankiško vaidmens, bet\nbuvo įprastas atributas, kuris mūšio lauke\nvis dėlto praversdavo."
+  citata_rodoma: |
+    Šių dalinių kovinė vertė buvo
+    menkesnė, bet ir jie sugebėdavo pasireikšti
+    mūšio lauke. Pagrindiniai tokios kariuome-
+    nės ginklai buvo ietys ir kalavijai. Artilerija
+    to meto Lietuvos kariuomenėje dar nevai-
+    dino didesnio savarankiško vaidmens, bet
+    buvo įprastas atributas, kuris mūšio lauke
+    vis dėlto praversdavo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -221,7 +229,17 @@ Nenurodyta
     delę kovinę patirtį, ne visada patenkinamą
     discipliną) bandyta kompensuoti samdi-
     niais - kariais profesionalais.
-  citata_rodoma: "Pagrindiniai tokios kariuome-\nnės ginklai buvo ietys ir kalavijai. Artilerija\nto meto Lietuvos kariuomenėje dar nevai-\ndino didesnio savarankiško vaidmens, bet\nbuvo įprastas atributas, kuris mūšio lauke\nvis dėlto praversdavo. Pašauktinės kariuo-\nmenės silpnąsias savybes (santykinai nedi-\ndelę kovinę patirtį, ne visada patenkinamą\ndiscipliną) bandyta kompensuoti samdi-\nniais - kariais profesionalais."
+  citata_rodoma: |
+    Pagrindiniai tokios kariuome-
+    nės ginklai buvo ietys ir kalavijai. Artilerija
+    to meto Lietuvos kariuomenėje dar nevai-
+    dino didesnio savarankiško vaidmens, bet
+    buvo įprastas atributas, kuris mūšio lauke
+    vis dėlto praversdavo. Pašauktinės kariuo-
+    menės silpnąsias savybes (santykinai nedi-
+    delę kovinę patirtį, ne visada patenkinamą
+    discipliną) bandyta kompensuoti samdi-
+    niais - kariais profesionalais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -242,7 +260,8 @@ Nenurodyta
     gę pataikyti savo krauju". Taip ir įvyko: Danielius įsakė
     savo riteriams paskubėti. Tai matydami, jotvingiai išsi­
     gando, nes įsitikino rusų ir lenkų galia.
-  citata_rodoma: "Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas."
+  citata_rodoma: |
+    Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -262,7 +281,8 @@ Nenurodyta
     žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
     ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
     liai su lankais, paruoštais smūgiui.
-  citata_rodoma: "Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui."
+  citata_rodoma: |
+    Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

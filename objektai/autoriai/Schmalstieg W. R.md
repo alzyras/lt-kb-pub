@@ -82,7 +82,9 @@ Dusburgietis teigia, kad schmalstieg W.
     9, S. 8—11.
     Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the
     Three Catechisms.—London, 1974.
-  citata_rodoma: "Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the\nThree Catechisms.—London, 1974."
+  citata_rodoma: |
+    Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the
+    Three Catechisms.—London, 1974.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

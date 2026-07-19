@@ -114,7 +114,15 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
     valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
     tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
     Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
-  citata_rodoma: "Parengus abiem pu-\nsėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-\nją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, \npaskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą \nLietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų \nvalstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-\ntybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys \nSteigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas."
+  citata_rodoma: |
+    Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
+    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,7 +153,22 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
     pabrėžė Lietuvos valstybingumo be Lenkijos savitumą, be to, atkurti buvo
     galima ne tik LDK laikų, bet ir Mindaugo Lietuvos karalystės laikų valsty-
     bę – tai priklausė nuo tarptautinių sąlygų.
-  citata_rodoma: "Taryba priėmė nau-\nją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, \npaskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą \nLietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų \nvalstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-\ntybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys \nSteigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.\nAkte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomy-\nbę – aiški sąsaja su LDK, lietuviai valstybės „atkūrimu“, „atstatymu“\n\nL I E T U V O S  I S T O R I J A\n136\npabrėžė Lietuvos valstybingumo be Lenkijos savitumą, be to, atkurti buvo \ngalima ne tik LDK laikų, bet ir Mindaugo Lietuvos karalystės laikų valsty-\nbę – tai priklausė nuo tarptautinių sąlygų."
+  citata_rodoma: |
+    Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
+    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
+    Akte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomy-
+    bę – aiški sąsaja su LDK, lietuviai valstybės „atkūrimu“, „atstatymu“
+
+    L I E T U V O S  I S T O R I J A
+    136
+    pabrėžė Lietuvos valstybingumo be Lenkijos savitumą, be to, atkurti buvo
+    galima ne tik LDK laikų, bet ir Mindaugo Lietuvos karalystės laikų valsty-
+    bę – tai priklausė nuo tarptautinių sąlygų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

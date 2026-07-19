@@ -112,7 +112,17 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
     Ilgajam nepriliptų. Tenai pūva tokia daugybė drobės gabalė­
     lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­
     rūpinti popieriaus dirbtuvę žaliava.
-  citata_rodoma: "143\n\n## Puslapis 143\n\nGonda (Gondu)\nVestuvinių iškilmių deivė, vestuvių karalienė, išleidžianti\nmergaites už vyrų.\nJą mini Lasickis; yra tą pati patvirtinančių vestuvinių dai­\nnų. Ją kviesdavosi pačios merginos, norėdamos atsikratyti bran­\ngios, bet nuobodžios mergystės."
+  citata_rodoma: |
+    143
+
+    ## Puslapis 143
+
+    Gonda (Gondu)
+    Vestuvinių iškilmių deivė, vestuvių karalienė, išleidžianti
+    mergaites už vyrų.
+    Ją mini Lasickis; yra tą pati patvirtinančių vestuvinių dai­
+    nų. Ją kviesdavosi pačios merginos, norėdamos atsikratyti bran­
+    gios, bet nuobodžios mergystės.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -135,7 +145,14 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
     kažkokius paplotėlius, kuriuos dalydavo žmonėms; o joms at­
     nešdavo žuvų, vėžių, laukinių ir naminių vandens paukščių,
     paršelių, sidabrinių pinigų.
-  citata_rodoma: "Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi. Gondu\nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka\nant stalo neliestą, o tikrąjį karvojų suvalgo."
+  citata_rodoma: |
+    Tokia
+    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
+    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
+    tas tas antrasis pavadinimas.
+    Tačiau lietuviams tie du dalykai visiškai skirtingi. Gondu
+    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
+    ant stalo neliestą, o tikrąjį karvojų suvalgo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -255,7 +255,10 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
     kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-  citata_rodoma: "Teritorija, kurioje ši autonomija veiktų, apibrėžta \nkaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-\nsią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta."
+  citata_rodoma: |
+    Teritorija, kurioje ši autonomija veiktų, apibrėžta
+    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
+    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -275,7 +278,12 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
     kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
     Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
-  citata_rodoma: "Svarstant \nValstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikė-\njai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-\nkąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama \nSuvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai)."
+  citata_rodoma: |
+    Svarstant
+    Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikė-
+    jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
+    kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
+    Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -417,7 +425,22 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
     tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
     turi būti parašyti: Viešpaties vardu Amen.
-  citata_rodoma: "Amžinai šio dalyko atminčiai mes, Žygimantas\nSenasis, Dievo malone išrinktas Lenkijos Karalystės kara­\nlius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­\nnigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam\napie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje\nkam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje\nstoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten\ngyvenančių, vardu vieną privilegiją su titulu ir antspaudu\nšviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­\nba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine,\nBrastoje, Drohičine, Lucke, Vladimire ir kitose žemėse,\nprašydami, kad mes teises, laisves ir kitus jiems anoje privile­\ngijoje priklausančius dalykus patvirtinti, sustiprinti ir su­\ntvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais\nturi būti parašyti: Viešpaties vardu Amen."
+  citata_rodoma: |
+    Amžinai šio dalyko atminčiai mes, Žygimantas
+    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
+    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
+    nigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam
+    apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
+    kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje
+    stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten
+    gyvenančių, vardu vieną privilegiją su titulu ir antspaudu
+    šviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­
+    ba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine,
+    Brastoje, Drohičine, Lucke, Vladimire ir kitose žemėse,
+    prašydami, kad mes teises, laisves ir kitus jiems anoje privile­
+    gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
+    tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
+    turi būti parašyti: Viešpaties vardu Amen.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

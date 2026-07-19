@@ -161,7 +161,17 @@ media_all_json: |-
     tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
     valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
     ti su Lenkija.
-  citata_rodoma: "Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-\nriųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą \nbesiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-\nlas, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-\ntiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės \nLietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, \nbaltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų \ntautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma \nvalstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-\nti su Lenkija."
+  citata_rodoma: |
+    Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
+    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
+    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
+    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
+    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
+    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
+    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
+    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
+    ti su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -182,7 +192,11 @@ media_all_json: |-
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: "Istorinė\nLietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,\nlenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­\ntūrinio paveldo arealas."
+  citata_rodoma: |
+    Istorinė
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
+    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
+    tūrinio paveldo arealas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -208,7 +222,20 @@ media_all_json: |-
     Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
     baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
     tautų kalbos turėtų valstybinį statusą.
-  citata_rodoma: "Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-\nloginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis), \nveikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar \nmažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-\nonalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės \nneteisėtais. Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-\nriųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą \nbesiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-\nlas, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-\ntiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės \nLietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, \nbaltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų \ntautų kalbos turėtų valstybinį statusą."
+  citata_rodoma: |
+    Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
+    loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),
+    veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar
+    mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
+    onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
+    neteisėtais. Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
+    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
+    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
+    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
+    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
+    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
+    tautų kalbos turėtų valstybinį statusą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

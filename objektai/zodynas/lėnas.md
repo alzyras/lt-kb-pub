@@ -78,7 +78,11 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
     pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
     są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
     ją atgauti^2 ).
-  citata_rodoma: "Vytautas,\npereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­\nsą savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų\nją atgauti^2 )."
+  citata_rodoma: |
+    Vytautas,
+    pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
+    są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
+    ją atgauti^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

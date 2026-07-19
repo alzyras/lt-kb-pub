@@ -739,7 +739,15 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     įsakė tolimesnį puolimą sustabdyti, kad
     išsilygintų fronto linija. Panevėžio rinktinė
     nuo Ukmergės buvo atsilikusi apie 20 km.
-  citata_rodoma: "Paberžė.\n\nPo mūšio\nKadangi Ukmergės rinktinė buvo per daug\nišsiveržusi į priekį, kariuomenės vadovybė\nįsakė tolimesnį puolimą sustabdyti, kad\nišsilygintų fronto linija. Panevėžio rinktinė\nnuo Ukmergės buvo atsilikusi apie 20 km."
+  citata_rodoma: |
+    Paberžė.
+
+    Po mūšio
+    Kadangi Ukmergės rinktinė buvo per daug
+    išsiveržusi į priekį, kariuomenės vadovybė
+    įsakė tolimesnį puolimą sustabdyti, kad
+    išsilygintų fronto linija. Panevėžio rinktinė
+    nuo Ukmergės buvo atsilikusi apie 20 km.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -764,7 +772,18 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     ## Puslapis 181
 
     | 1881 m. jstojo į Rusijos kariuomenę.
-  citata_rodoma: "Ukmergės\nrinktinė turėjo veržtis Ukmergės-Utenos-\nZarasų kryptimi, Panevėžio rinktinė -\nKėdainių-Panevėžio-Rokiškio kryptimi.\n\nAtskirojo Joniškėlio partizanų, kitaip\nvadinamojo mirties bataliono kariai\n\n## Puslapis 181\n\n| 1881 m."
+  citata_rodoma: |
+    Ukmergės
+    rinktinė turėjo veržtis Ukmergės-Utenos-
+    Zarasų kryptimi, Panevėžio rinktinė -
+    Kėdainių-Panevėžio-Rokiškio kryptimi.
+
+    Atskirojo Joniškėlio partizanų, kitaip
+    vadinamojo mirties bataliono kariai
+
+    ## Puslapis 181
+
+    | 1881 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -786,7 +805,12 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     karin. K. Ladygos vadovaujamai Ukmergės
     rinktinei žygiuoti Ukmergės- Daugpilio
     plentu ir užimti Uteną.
-  citata_rodoma: "1919 m. gegužės 24 d. vyriausiasis\nkariuomenės vadas gen. S. Žukauskas įsakė\nkarin. K. Ladygos vadovaujamai Ukmergės\nrinktinei žygiuoti Ukmergės- Daugpilio\nplentu ir užimti Uteną."
+  citata_rodoma: |
+    1919 m. gegužės 24 d. vyriausiasis
+    kariuomenės vadas gen. S. Žukauskas įsakė
+    karin. K. Ladygos vadovaujamai Ukmergės
+    rinktinei žygiuoti Ukmergės- Daugpilio
+    plentu ir užimti Uteną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -875,7 +899,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     jo kareivių. Čekų ir Silezijos savanorių vadai ir, gražiausia,
     Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­
     laisvę.
-  citata_rodoma: "Priešininkas, persekio­\njamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­\ntosios upę ties Ukmerge, kur buvo nuskandinta labai daug\njo kareivių. Čekų ir Silezijos savanorių vadai ir, gražiausia,\nJaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­\nlaisvę."
+  citata_rodoma: |
+    Priešininkas, persekio­
+    jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­
+    tosios upę ties Ukmerge, kur buvo nuskandinta labai daug
+    jo kareivių. Čekų ir Silezijos savanorių vadai ir, gražiausia,
+    Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­
+    laisvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -895,7 +925,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     baisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama
     lietuvių ir į pagalbą atėjusių lenkų kariuomenė. Mūšį pralai-
     mėjo Švitrigaila.
-  citata_rodoma: "jis sukvietė visus savo sąjungininkus\n— Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė\nį didelį žygį. Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-\nbaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama\nlietuvių ir į pagalbą atėjusių lenkų kariuomenė. Mūšį pralai-\nmėjo Švitrigaila."
+  citata_rodoma: |
+    jis sukvietė visus savo sąjungininkus
+    — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
+    į didelį žygį. Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-
+    baisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama
+    lietuvių ir į pagalbą atėjusių lenkų kariuomenė. Mūšį pralai-
+    mėjo Švitrigaila.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -938,7 +974,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
     Ukmerge, Breslauja (Braslaw).
     Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
-  citata_rodoma: "vyres­\nniškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai\nvaldančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­\nlinį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,\nUkmerge, Breslauja (Braslaw).\nKiti šeši Gedimino sūnus taip pat gavo savo dalis."
+  citata_rodoma: |
+    vyres­
+    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
+    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -965,7 +1007,15 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
     20
     Kotzebue Switrigail, p. 89.
-  citata_rodoma: "Ilgai Švitrigaila drumstė\nšios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­\ngimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­\ntuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė\nnetoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai\npragaištingų konkurentų, varžybas. Tas įsimintinas mūšis\n20\nKotzebue Switrigail, p."
+  citata_rodoma: |
+    Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
+    20
+    Kotzebue Switrigail, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1009,7 +1059,14 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 
     (^1) ) Apie Konradą Vallenrodą, kuris Lietuvos istorijoje yra gana po­
     puliarus ir minimas A. Mickevičiaus poezijoj, žiur.
-  citata_rodoma: "Vy­\ntautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­\nno), Ukmergės ir Kulvos srityse. Po užgrobimo poros nežymių\npilaičių, didžiulei Vallenrodo kariuomenei, kuri taip smarkiai\n\n(^1) ) Apie Konradą Vallenrodą, kuris Lietuvos istorijoje yra gana po­\npuliarus ir minimas A."
+  citata_rodoma: |
+    Vy­
+    tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­
+    no), Ukmergės ir Kulvos srityse. Po užgrobimo poros nežymių
+    pilaičių, didžiulei Vallenrodo kariuomenei, kuri taip smarkiai
+
+    (^1) ) Apie Konradą Vallenrodą, kuris Lietuvos istorijoje yra gana po­
+    puliarus ir minimas A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1097,7 +1154,14 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
     roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
     pelenai.
-  citata_rodoma: "Vienoda jų sandara ir tokia pat radimo vieta įtikina,\njog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,\nkad į jas tekėtų ašaros.\nTikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­\ndos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­\nrias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo\nObelijomis."
+  citata_rodoma: |
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

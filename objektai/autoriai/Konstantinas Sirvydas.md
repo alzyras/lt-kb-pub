@@ -245,7 +245,18 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
     mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
     rybė moka daryti stebuklus lengvatikių akyse.
-  citata_rodoma: "Dainos.\n177\n\n## Puslapis 177\n\nAitvaras (Ajtwaros)\nVyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­\nris paprastai užgula miegančias moteris, tykoja jų už tvorų,\ntodėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.\nKunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai\nIncubus, lenkiškai Latawiec."
+  citata_rodoma: |
+    Dainos.
+    177
+
+    ## Puslapis 177
+
+    Aitvaras (Ajtwaros)
+    Vyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­
+    ris paprastai užgula miegančias moteris, tykoja jų už tvorų,
+    todėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.
+    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
+    Incubus, lenkiškai Latawiec.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -265,7 +276,10 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     Pribėgusios kaimo galą, grįžta atgalios, šokinėja, dainuoja, plo­
     ja rankomis, perbėga per visą kaimą ir linksmai skelbia, kad
     atėjo pavasaris.
-  citata_rodoma: "11. Vasaris (Wassaris) -pavasarinis, arba veikiau Pawassa-\nris. Kitaip pasak kunigo Sirvydo: Lutis (liūtis) -  lietingas, arba\nPūsis, taip pat ir Pūstis, keliamasis."
+  citata_rodoma: |
+    11. Vasaris (Wassaris) -pavasarinis, arba veikiau Pawassa-
+    ris. Kitaip pasak kunigo Sirvydo: Lutis (liūtis) -  lietingas, arba
+    Pūsis, taip pat ir Pūstis, keliamasis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -285,7 +299,9 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     čiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­
     no krašto, tokį pavadinimą yra gavusi iš tos pačios tautos.
     2 Geras, id ėst Lithuanos.
-  citata_rodoma: "1 Bogušo disertacija. P. 45; K. Sirvydo žodynas. P. 3 11. Čia dyk­\nra — Solitudo, Giria."
+  citata_rodoma: |
+    1 Bogušo disertacija. P. 45; K. Sirvydo žodynas. P. 3 11. Čia dyk­
+    ra — Solitudo, Giria.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

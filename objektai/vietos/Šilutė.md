@@ -133,7 +133,13 @@ media_all_json: |-
     buvo pranešta, jog Krašto direkto-
     rija yra nušalinama, valdžią į savo
     rankas perima Valstybės taryba.
-  citata_rodoma: "1923 m. sausio 9 d. Vyriausiasis\nMažosios Lietuvos gelbėjimo komite-\ntas Šilutėje paskelbė manifestą, kuriuo\nbuvo pranešta, jog Krašto direkto-\nrija yra nušalinama, valdžią į savo\nrankas perima Valstybės taryba."
+  citata_rodoma: |
+    1923 m. sausio 9 d. Vyriausiasis
+    Mažosios Lietuvos gelbėjimo komite-
+    tas Šilutėje paskelbė manifestą, kuriuo
+    buvo pranešta, jog Krašto direkto-
+    rija yra nušalinama, valdžią į savo
+    rankas perima Valstybės taryba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -158,7 +158,25 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
     novas ir savo surinktų giesmių leidėjas ponas Rėza***,
     kurio šviesa tiek daug pasinaudojome ankstesniame to-
     1 Hlebovičiaus „Vytauto gyvenimas“.
-  citata_rodoma: "Mokytos plunksnos dirbo ir dabar\ndarbuojas i prie jų istorijos: Kocebus* parašė senovės\nPrūsų istoriją, pelniusią didelį pripažinimą; mokslingasis\nponas Foi'gtas** baigia išleisti paskutinius pilnos tos\npačios istorijos tomus, kurių bus astuoni; šis visiškai už­\nbaigtas veikalas savo verte pranoksta visus lig tol žino­\nmus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­\nnikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie\nšaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­\nnovės tyrėjai netgi padarė išsamiai ir tvarkingai surink­\ntų, reikalingų ištraukų atsargas, o ponas Foigtas pats\nnepaprastu savo darbštumu, genialumu ir talentais at­\nskleidė jų turtingumą ir parodė retą jų panaudojimo pa­\nvyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų\nir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.\nBe to, Rusijos valstybės vakarinėse vokiečių gubernijose\nsteigiasi draugijos, pluša mokslininkai, žadėdami naujų\nšiaurinių kraštų istorijos vaisių."
+  citata_rodoma: |
+    Mokytos plunksnos dirbo ir dabar
+    darbuojas i prie jų istorijos: Kocebus* parašė senovės
+    Prūsų istoriją, pelniusią didelį pripažinimą; mokslingasis
+    ponas Foi'gtas** baigia išleisti paskutinius pilnos tos
+    pačios istorijos tomus, kurių bus astuoni; šis visiškai už­
+    baigtas veikalas savo verte pranoksta visus lig tol žino­
+    mus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­
+    nikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie
+    šaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­
+    novės tyrėjai netgi padarė išsamiai ir tvarkingai surink­
+    tų, reikalingų ištraukų atsargas, o ponas Foigtas pats
+    nepaprastu savo darbštumu, genialumu ir talentais at­
+    skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
+    vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
+    ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
+    Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
+    steigiasi draugijos, pluša mokslininkai, žadėdami naujų
+    šiaurinių kraštų istorijos vaisių.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -180,7 +198,17 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
     įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
     pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
     gaikštukų.
-  citata_rodoma: "126\n\n## Puslapis 124\n\nčius; jie kovodavo ir su vėliavomis Pamario kunigaikščio\nSventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.\nTai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos\nnet ligi Drevantos pelkių, lengvino kariaujančių su vo­\nkiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko\nsu tam tikromis pertraukomis 1242—1253 metais1."
+  citata_rodoma: |
+    126
+
+    ## Puslapis 124
+
+    čius; jie kovodavo ir su vėliavomis Pamario kunigaikščio
+    Sventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.
+    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
+    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
+    kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
+    su tam tikromis pertraukomis 1242—1253 metais1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

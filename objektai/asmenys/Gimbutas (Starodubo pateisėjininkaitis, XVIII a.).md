@@ -76,7 +76,9 @@ Gimbutas buvo Starodubo pateisėjininkaitis. 1760 m. Starodubo pateisėjininkait
     Pvz., 1751 m. jis pasakojo, kad atvyko Vilniaus tijūnai Juozapas
     ir Ona Pociejūtė Tiškevičiai. Ponia turbūt čia gimdys [12]. 1760 jis rašė, kad Starodubo
     pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61].
-  citata_rodoma: "1760 jis rašė, kad Starodubo\npateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61]."
+  citata_rodoma: |
+    1760 jis rašė, kad Starodubo
+    pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

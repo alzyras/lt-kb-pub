@@ -84,7 +84,13 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
     Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
     dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
     kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
-  citata_rodoma: "Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas\n(Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo\nprieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie\nMohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­\ndovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų\nkunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142."
+  citata_rodoma: |
+    Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas
+    (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo
+    prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie
+    Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
+    dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
+    kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

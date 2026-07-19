@@ -167,7 +167,14 @@ Nenurodyta
     lydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki
     pat XVI amž. vidurio, kol dar daug buvo girių, į kurias niekas
     nedraudė įkelti kojos.
-  citata_rodoma: "Šitaip atsirado ir «lydimoji žemdirbystė »\n(vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­\ngraswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­\ntame ir nudegintame miško sklype buvo daromas dirbamas laukas.\nKaip ir kitur Europoje priešistoriniais laikais, miško gabalo\nlydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki\npat XVI amž."
+  citata_rodoma: |
+    Šitaip atsirado ir «lydimoji žemdirbystė »
+    (vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­
+    graswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­
+    tame ir nudegintame miško sklype buvo daromas dirbamas laukas.
+    Kaip ir kitur Europoje priešistoriniais laikais, miško gabalo
+    lydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki
+    pat XVI amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +198,15 @@ Nenurodyta
     ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
     naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
     ir Mažojoje Lietuvoje yra surišta su lydimais.
-  citata_rodoma: "Pradėjus Lietuvoje « va­\nlakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą\nsu vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė\nnykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas\nžodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »\nir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip\nnaturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje\nir Mažojoje Lietuvoje yra surišta su lydimais."
+  citata_rodoma: |
+    Pradėjus Lietuvoje « va­
+    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
+    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
+    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
+    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
+    ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
+    naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
+    ir Mažojoje Lietuvoje yra surišta su lydimais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -215,7 +230,15 @@ Nenurodyta
     nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
     žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
     ir kt.).
-  citata_rodoma: "Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo\npradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė\nlaisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­\nlakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą\nsu vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė\nnykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas\nžodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »\nir kt.)."
+  citata_rodoma: |
+    Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
+    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
+    laisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­
+    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
+    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
+    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
+    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
+    ir kt.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

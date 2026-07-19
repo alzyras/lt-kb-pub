@@ -82,7 +82,14 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
     žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
     vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
     Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
-  citata_rodoma: "Kaip tik tuo laiku\nVytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos\nvaldžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­\ntrzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis\nbuvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­\nžant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­\nvos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L."
+  citata_rodoma: |
+    Kaip tik tuo laiku
+    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
+    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
+    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
+    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
+    žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
+    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

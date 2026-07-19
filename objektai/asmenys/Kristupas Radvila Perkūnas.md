@@ -135,7 +135,12 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     Gyllenhielmo kariams. Pagaliau birželio
     23 d. prie Kuoknesės pagrindinė Lietuvos
     kariuomenė stojo prieš švedų pajėgas.
-  citata_rodoma: "Birželio 2-3 d. LDK di-\ndysis etmonas Kristupas Radvila Perkūnas\npasiuntė rotmistrą Joną Sicinskį su dali-\nniu, kuris sudavė antrą smūgį K. Carlsono\nGyllenhielmo kariams."
+  citata_rodoma: |
+    Birželio 2-3 d. LDK di-
+    dysis etmonas Kristupas Radvila Perkūnas
+    pasiuntė rotmistrą Joną Sicinskį su dali-
+    niu, kuris sudavė antrą smūgį K. Carlsono
+    Gyllenhielmo kariams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -158,7 +163,16 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     tupį ir prie Šelonės upės, ties Mstislavliu,
     Mogiliavu, Šklovu jis sumušė rusų kariuo-
     mene.
-  citata_rodoma: "Jo ka-\nrinis talentas išryškėjo Livonijos kare\n\nsu Rusija (1558-1583 m.), ypač užimant\nPolocko tvirtovę. 1581 m. su nedidele lietu-\nvių kariuomene jis pasiekė Volgos aukš-\ntupį ir prie Šelonės upės, ties Mstislavliu,\nMogiliavu, Šklovu jis sumušė rusų kariuo-\nmene."
+  citata_rodoma: |
+    Jo ka-
+    rinis talentas išryškėjo Livonijos kare
+
+    su Rusija (1558-1583 m.), ypač užimant
+    Polocko tvirtovę. 1581 m. su nedidele lietu-
+    vių kariuomene jis pasiekė Volgos aukš-
+    tupį ir prie Šelonės upės, ties Mstislavliu,
+    Mogiliavu, Šklovu jis sumušė rusų kariuo-
+    mene.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -185,7 +199,16 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     šio sūnus Jonušas, — tas pats,
     kurs 1655 m. padarė sutartį su
     Švedais.
-  citata_rodoma: "Mikalojus Rudasis, paskui — jo\n  sūnus Kristupas Perkūnas (†\n  1603 m.), po jo — jo sūnus\n  Jonušas (rokošininkas — † 1620\n  m.), vėliau—kitas sūnus Kristu-\n  pas († 1640 m.) ir pagaliau —\n  šio sūnus Jonušas, — tas pats,\n  kurs 1655 m. padarė sutartį su\n  Švedais."
+  citata_rodoma: |
+    Mikalojus Rudasis, paskui — jo
+      sūnus Kristupas Perkūnas (†
+      1603 m.), po jo — jo sūnus
+      Jonušas (rokošininkas — † 1620
+      m.), vėliau—kitas sūnus Kristu-
+      pas († 1640 m.) ir pagaliau —
+      šio sūnus Jonušas, — tas pats,
+      kurs 1655 m. padarė sutartį su
+      Švedais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -207,7 +230,14 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,
     kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas
     Perkūnu.
-  citata_rodoma: "o Lietuvos kariuomenės vadas Jonas J.\n  Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų te-\n  buvo vos 300), todėl negalėjo spirtis. Neprisišaukdamas pa-\n  galbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu\n  buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,\n  kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas\n  Perkūnu."
+  citata_rodoma: |
+    o Lietuvos kariuomenės vadas Jonas J.
+      Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų te-
+      buvo vos 300), todėl negalėjo spirtis. Neprisišaukdamas pa-
+      galbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu
+      buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,
+      kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas
+      Perkūnu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -220,7 +250,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    “14, 4iki 6 tūkstančių raitelių. Tačiau tai
+    Tačiau tai
 
     buvo geriausi kariai, kuriuos tuo metu
     buvo galima surinkti. Greta didžiojo
@@ -233,7 +263,20 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     Romanas Sanguška, būsima-
     sis Livonijos etmonas Jonas
     Chodkevičius ir daugelis kitų.
-  citata_rodoma: "Tačiau tai\n\nbuvo geriausi kariai, kuriuos tuo metu\nbuvo galima surinkti. Greta didžiojo\netmono M. Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų."
+  citata_rodoma: |
+    Tačiau tai
+
+    buvo geriausi kariai, kuriuos tuo metu
+    buvo galima surinkti. Greta didžiojo
+    etmono M. Radvilos buvo jo šešio-
+    likmetis sūnus Kristupas Radvila,
+    vėliau tapęs didžiuoju etmonu ir
+    vadintas Perkūnu, lauko etmo-
+    nas Grigalius Chodkevičius,
+    būsimasis lauko etmonas
+    Romanas Sanguška, būsima-
+    sis Livonijos etmonas Jonas
+    Chodkevičius ir daugelis kitų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

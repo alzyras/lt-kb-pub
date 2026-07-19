@@ -106,7 +106,14 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
     artimesni santykiai tarp šių valstybių nesusiklostė. Pagrindinė kliūtis –
     skirtingos abiejų valstybių užsienio politikos geopolitinės orientacijos ir
     skirtingas požiūris į netolimą istorinę praeitį bei demokratinę santvarką.
-  citata_rodoma: "1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės \nsienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n257\nroje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė, \nartimesni santykiai tarp šių valstybių nesusiklostė."
+  citata_rodoma: |
+    1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
+    sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    257
+    roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
+    artimesni santykiai tarp šių valstybių nesusiklostė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

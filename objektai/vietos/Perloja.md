@@ -109,7 +109,14 @@ media_all_json: |-
     Mūšio padariniai
     Operacijos metu žuvo 4 partizanai ir 2 buvo
     sužeisti.
-  citata_rodoma: "Marcinkonių bataliono vyrams buvo\nnesmagu dėl savo pavėlavimo į kauty-\nnes, todėl jie kitą, gruodžio 16 d. puolė\nPerlojos stribų įgulą ir ją sunaikino.\nMūšio padariniai\nOperacijos metu žuvo 4 partizanai ir 2 buvo\nsužeisti."
+  citata_rodoma: |
+    Marcinkonių bataliono vyrams buvo
+    nesmagu dėl savo pavėlavimo į kauty-
+    nes, todėl jie kitą, gruodžio 16 d. puolė
+    Perlojos stribų įgulą ir ją sunaikino.
+    Mūšio padariniai
+    Operacijos metu žuvo 4 partizanai ir 2 buvo
+    sužeisti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -130,7 +137,14 @@ media_all_json: |-
     kosvaidžiai, keletas automatų bei šautuvų
     ir nemažas kiekis šaudmenų, sunaikin-
     tas valsčius, dalinai milicija ir paštas.
-  citata_rodoma: "Dar 5 stribai nukauti kitą dieną\nPerlojoje Marcinkonių bataliono vyrų\n(partizanai nuostolių nepatyrė). Paimtos 2\nrašomosios mašinėlės, taip pat 4 nauji kul-\nkosvaidžiai, keletas automatų bei šautuvų\nir nemažas kiekis šaudmenų, sunaikin-\ntas valsčius, dalinai milicija ir paštas."
+  citata_rodoma: |
+    Dar 5 stribai nukauti kitą dieną
+    Perlojoje Marcinkonių bataliono vyrų
+    (partizanai nuostolių nepatyrė). Paimtos 2
+    rašomosios mašinėlės, taip pat 4 nauji kul-
+    kosvaidžiai, keletas automatų bei šautuvų
+    ir nemažas kiekis šaudmenų, sunaikin-
+    tas valsčius, dalinai milicija ir paštas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

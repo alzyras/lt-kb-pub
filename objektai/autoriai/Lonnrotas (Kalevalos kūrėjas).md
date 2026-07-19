@@ -95,7 +95,10 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
     1895 m. prof. Niemi rinko žinias apie minėtąjį „Kalevalos“ kūrėją,
     Lonnrotą; tam, jis yra apklausinėjęs bent 200 žmonių ir rinkęs jį lie­
     čiančius laiškus.
-  citata_rodoma: "1895 m. prof. Niemi rinko žinias apie minėtąjį „Kalevalos“ kūrėją, \nLonnrotą; tam, jis yra apklausinėjęs bent 200 žmonių ir rinkęs jį lie­\nčiančius laiškus."
+  citata_rodoma: |
+    1895 m. prof. Niemi rinko žinias apie minėtąjį „Kalevalos“ kūrėją,
+    Lonnrotą; tam, jis yra apklausinėjęs bent 200 žmonių ir rinkęs jį lie­
+    čiančius laiškus.
   statusas: verified
   atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
@@ -114,7 +117,10 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
     Matyt, „Kalevala“ ir jos
     kūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo
     mokslo šaką.
-  citata_rodoma: "Matyt, „Kalevala“ ir jos \nkūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo \nmokslo šaką."
+  citata_rodoma: |
+    Matyt, „Kalevala“ ir jos
+    kūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo
+    mokslo šaką.
   statusas: verified
   atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas

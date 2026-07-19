@@ -81,7 +81,9 @@ Dusburgietis teigia, kad stryjkowski M.
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
+  citata_rodoma: |
+    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
+    1846.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

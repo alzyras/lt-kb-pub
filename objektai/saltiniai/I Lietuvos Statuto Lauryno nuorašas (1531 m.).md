@@ -77,7 +77,19 @@ Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra ver
     antraštinio lapo
     tačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes,
     taip pat plėtė savo įtaką į giminingų genčių teritorijas.
-  citata_rodoma: "Tačiau dalis etninės Lietuvos yra už šian-\ndieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus \nnuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiem-\ngalių ir prūsų teritorijos. Ir tai dėsninga: Lietuvos valstybės formavimo-\nsi branduolys buvo „Lietuvos žemė“ (teritorija tarp Nemuno ir Neries),\n\nL I E T U V O S  I S T O R I J A\n14\nVytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.) \nantraštinio lapo\ntačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes, \ntaip pat plėtė savo įtaką į giminingų genčių teritorijas."
+  citata_rodoma: |
+    Tačiau dalis etninės Lietuvos yra už šian-
+    dieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus
+    nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiem-
+    galių ir prūsų teritorijos. Ir tai dėsninga: Lietuvos valstybės formavimo-
+    si branduolys buvo „Lietuvos žemė“ (teritorija tarp Nemuno ir Neries),
+
+    L I E T U V O S  I S T O R I J A
+    14
+    Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.)
+    antraštinio lapo
+    tačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes,
+    taip pat plėtė savo įtaką į giminingų genčių teritorijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

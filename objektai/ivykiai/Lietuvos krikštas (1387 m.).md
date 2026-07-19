@@ -199,7 +199,16 @@ Nenurodyta
     43
     Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių
     žygyje prie kryžiaus.
-  citata_rodoma: "Savaip transformuota artimo meilės idėja atsispindi \nsenjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsa-\nkomybę už pavaldinio išganymą. Vadinasi, pavaldiniui nurodoma, kokį \ntikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,\n\n1 skyrius •  S E N O J I  L I E T U VA\n43\nLietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių  \nžygyje prie kryžiaus."
+  citata_rodoma: |
+    Savaip transformuota artimo meilės idėja atsispindi
+    senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsa-
+    komybę už pavaldinio išganymą. Vadinasi, pavaldiniui nurodoma, kokį
+    tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    43
+    Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių
+    žygyje prie kryžiaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -224,7 +233,16 @@ Nenurodyta
     damas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­
     spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
     naujos visuomeninės tvarkos įvedimo.
-  citata_rodoma: "Daugiau Jogaila Lie­\ntuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos\ndidikai.\n\nVytautas nuo pat pirmos krikšto dienos aktyviai daly­\nvavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­\ndamas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­\nspaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie\nnaujos visuomeninės tvarkos įvedimo."
+  citata_rodoma: |
+    Daugiau Jogaila Lie­
+    tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos
+    didikai.
+
+    Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
+    vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­
+    damas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­
+    spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
+    naujos visuomeninės tvarkos įvedimo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -246,7 +264,16 @@ Nenurodyta
     dalis Žemaitija tapo paskutiniu Europoje
     apsikrikštijimo regionu – šiais įvykiais bai-
     gė formuotis krikščioniškoji Europa.
-  citata_rodoma: "Vis dėlto tai liko istorinis epi-\nzodas, nors pagoniška valstybė pamažu \ntapo regionine didvalstybe arba imperija, \nužvaldžiusia didžiules stačiatikiškų žemių \n(buvusios Kijevo Rusios) erdves. 1387 m. \nLietuva krikštijosi katalikišku krikštu, o jos \ndalis Žemaitija tapo paskutiniu Europoje \napsikrikštijimo regionu – šiais įvykiais bai-\ngė formuotis krikščioniškoji Europa."
+  citata_rodoma: |
+    Vis dėlto tai liko istorinis epi-
+    zodas, nors pagoniška valstybė pamažu
+    tapo regionine didvalstybe arba imperija,
+    užvaldžiusia didžiules stačiatikiškų žemių
+    (buvusios Kijevo Rusios) erdves. 1387 m.
+    Lietuva krikštijosi katalikišku krikštu, o jos
+    dalis Žemaitija tapo paskutiniu Europoje
+    apsikrikštijimo regionu – šiais įvykiais bai-
+    gė formuotis krikščioniškoji Europa.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

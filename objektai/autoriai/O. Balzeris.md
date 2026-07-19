@@ -60,7 +60,10 @@ Balzeris.
     ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo
     teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
     ir kt.) leidėjas O. Balzeris.
-  citata_rodoma: "Juos tyrinėjo\nteisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici\nir kt.) leidėjas O. Balzeris."
+  citata_rodoma: |
+    Juos tyrinėjo
+    teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
+    ir kt.) leidėjas O. Balzeris.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

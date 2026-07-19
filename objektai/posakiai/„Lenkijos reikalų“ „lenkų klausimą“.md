@@ -69,7 +69,8 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
     nesiruošė lieti kraujo dėl „Lenkijos reikalų“. Mūšiuose buvusios LDK te-
     ritorijoje žuvo per 6 tūkst. sukilėlių ir tik apie 320 Rusijos armijos karių.
     Į katorgą ir tremtį išsiųsta apie 25 tūkst. žmonių, daugiausia jaunų vyrų.
-  citata_rodoma: "ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi"
+  citata_rodoma: |
+    ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -86,7 +86,11 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
     Tuo metu chanas Temir-Kutlujus suskubo atvykti su
     daugeliu pulkų, su visomis savo ordos pajėgomis, susi­
     tiko20 su Vytautu lauke prie Vorkslos upės51 ir antra-
-  citata_rodoma: "paleido savo uošvį \nkunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­\nju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo- \nvičiui davė Roslavlio2  miestą."
+  citata_rodoma: |
+    paleido savo uošvį
+    kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
+    ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
+    vičiui davė Roslavlio2  miestą.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

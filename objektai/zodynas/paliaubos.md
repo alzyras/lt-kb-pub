@@ -208,7 +208,13 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     pavo savo pajėgas, gausiai jas papildė ir
     pasirengė pulti Lietuvą ties Seinais ir Kap-
     čiamiesčiu.
-  citata_rodoma: "Spalio 6 d. prasideda paliaubos.\n\nLenkai per derybų laiką slapta pergru-\npavo savo pajėgas, gausiai jas papildė ir\npasirengė pulti Lietuvą ties Seinais ir Kap-\nčiamiesčiu."
+  citata_rodoma: |
+    Spalio 6 d. prasideda paliaubos.
+
+    Lenkai per derybų laiką slapta pergru-
+    pavo savo pajėgas, gausiai jas papildė ir
+    pasirengė pulti Lietuvą ties Seinais ir Kap-
+    čiamiesčiu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -260,7 +266,10 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
     livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
     džiame Tanenbergo mūšyje.
-  citata_rodoma: "Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su\nlivoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-\ndžiame Tanenbergo mūšyje."
+  citata_rodoma: |
+    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
+    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
+    džiame Tanenbergo mūšyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

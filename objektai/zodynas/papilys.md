@@ -477,7 +477,12 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
     vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
     kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
-  citata_rodoma: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo\ndieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,\npasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal\nir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių. Šitai išgirdę, broliai ir kiti,\nlabai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?"
+  citata_rodoma: |
+    Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
+    dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
+    pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal
+    ir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių. Šitai išgirdę, broliai ir kiti,
+    labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -496,7 +501,18 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     kartą sudegino tą papilį, paimdamas į nelaisvę ar nukaudamas visus žmones, kuriuos
     ten užtiko.
     300 (293).
-  citata_rodoma: "Apie tą patį\n\n  Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi\ngrūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą\nkartą sudegino tą papilį, paimdamas  į nelaisvę ar nukaudamas visus žmones, kuriuos\nten užtiko.\n\n\n\n\n                      300 (293)."
+  citata_rodoma: |
+    Apie tą patį
+
+      Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi
+    grūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą
+    kartą sudegino tą papilį, paimdamas  į nelaisvę ar nukaudamas visus žmones, kuriuos
+    ten užtiko.
+
+
+
+
+                          300 (293).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -517,7 +533,17 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     įsibrovė į Livonijos žemę, kur pridarė Dorpato vyskupystei visokių nuostolių, nes degino
     ir plėšė, kas pakliuvo po ranka, be to, nužudė penkis tūkstančius, o gal ir daugiau
     krikščionių, o kitus nusivarė į amžiną vergovę.
-  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą\n\n  1318 viešpaties metais, rudenį,  brolis Henrikas, maršalas, atžygiavo su didele\nkariuomene prie Junigedos  ir Pieštvės  pilių  ir  iki pamatų sudegino abiejų papilius,\nkuriuose tuo metu buvo apsčiai supilta naujo derliaus grūdų.\n\n\n\n\n                 336 (329)."
+  citata_rodoma: |
+    Apie Junigedos ir Pieštvės papilių sudeginimą
+
+      1318 viešpaties metais, rudenį,  brolis Henrikas, maršalas, atžygiavo su didele
+    kariuomene prie Junigedos  ir Pieštvės  pilių  ir  iki pamatų sudegino abiejų papilius,
+    kuriuose tuo metu buvo apsčiai supilta naujo derliaus grūdų.
+
+
+
+
+                     336 (329).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -541,7 +567,10 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     ginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių,
     kurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos
     tikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų.
-  citata_rodoma: "533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos\npiliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du\npapiliai — ant kalno ir slėnyje (D. III, 252)."
+  citata_rodoma: |
+    533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
+    piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du
+    papiliai — ant kalno ir slėnyje (D. III, 252).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -615,7 +644,17 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.
-  citata_rodoma: "Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
+  citata_rodoma: |
+    Apie Bisenės papilių sudeginimą 1313 metais
+
+      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
+    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
+    abu jos papiliai supleškėjo ugnyje.
+
+
+
+
+                    320 (313).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -654,7 +693,9 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     raiteliai.
     438 D.— Birgelow; dab. Bežglovas (Bierzglowo), gyvenvietė į šiaurės vakarus nuo
     Torunės; mūrinė (vėlesnė) kryžiuočių pilis su papiliu atstatyta po 1277 m.
-  citata_rodoma: "438 D.— Birgelow; dab. Bežglovas (Bierzglowo), gyvenvietė  į šiaurės vakarus nuo\nTorunės; mūrinė (vėlesnė) kryžiuočių pilis su papiliu atstatyta po 1277 m."
+  citata_rodoma: |
+    438 D.— Birgelow; dab. Bežglovas (Bierzglowo), gyvenvietė  į šiaurės vakarus nuo
+    Torunės; mūrinė (vėlesnė) kryžiuočių pilis su papiliu atstatyta po 1277 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -701,7 +742,15 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės
     kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių
     bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų.
-  citata_rodoma: "Apie Gedimino pilies papilio sudeginimą 1324 metais\n\n  Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44\nbroliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies\npapilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems\npavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,\nkuriuos paėmė į nelaisvę. Pakliuvo  į nelaisvę ir brolis Oteris, tačiau neilgai trukus jam\npavyko stebuklingai išsigelbėti. Žinoma, jis dešimt dienų išbuvo kelyje be maisto."
+  citata_rodoma: |
+    Apie Gedimino pilies papilio sudeginimą 1324 metais
+
+      Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44
+    broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies
+    papilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems
+    pavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,
+    kuriuos paėmė į nelaisvę. Pakliuvo  į nelaisvę ir brolis Oteris, tačiau neilgai trukus jam
+    pavyko stebuklingai išsigelbėti. Žinoma, jis dešimt dienų išbuvo kelyje be maisto.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -745,7 +794,14 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni
     gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
     ant iškeltų prūsų iečių, o likusieji sudegė.
-  citata_rodoma: "169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą\n\n  Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,\nantrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė\nvisus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui\npatraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu\nvienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado."
+  citata_rodoma: |
+    169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
+
+      Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
+    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė
+    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui
+    patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu
+    vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

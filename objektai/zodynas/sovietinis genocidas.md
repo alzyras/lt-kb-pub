@@ -75,7 +75,8 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
     nių įkalinti, išvežti į tremtį ar GULAG’o lagerius, dar 26,5 tūkst. nužu-
     dyti Lietuvoje – iš viso Lietuva neteko apie 1,058 mln. arba daugiau kaip
     trečdalio gyventojų.
-  citata_rodoma: "dyti Lietuvoje – iš viso Lietuva neteko apie 1,058 mln. arba daugiau kaip"
+  citata_rodoma: |
+    dyti Lietuvoje – iš viso Lietuva neteko apie 1,058 mln. arba daugiau kaip
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

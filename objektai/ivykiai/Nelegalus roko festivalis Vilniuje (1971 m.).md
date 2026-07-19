@@ -85,7 +85,8 @@ Nenurodyta
     mečio pradžios įvykiais Vilniuje ir Kaune. 1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
     net 300 SSRS hipių suvažiavimu.
-  citata_rodoma: "restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar"
+  citata_rodoma: |
+    restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

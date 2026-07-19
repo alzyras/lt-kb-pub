@@ -76,7 +76,8 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
     tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
     prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
     spaudos, rinkimų laisvę.
-  citata_rodoma: "tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti"
+  citata_rodoma: |
+    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

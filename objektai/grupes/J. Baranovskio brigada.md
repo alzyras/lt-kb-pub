@@ -65,7 +65,17 @@ Baranovskio brigada atakuoja 2-ojo pėst.
     ir po visą dieną trukusių atkaklių kautynių priverčia lietuvius iš Giedraičių
     pasitraukti. Į lietuvių užnugarį prasiveržia plk. M. Butkievičiaus kavalerijos
     brigada ir iki dienos pabaigos ji pasiekia Videniškio rajoną.
-  citata_rodoma: "Jašiūnai\n\na\nnčionėliai\n\nghiškis\n\n@ Lapkričio 17 d. gen. J. Baranovskio brigada atakuoja 2-ojo pėst. p. pozicijas\nir po visą dieną trukusių atkaklių kautynių priverčia lietuvius iš Giedraičių\npasitraukti."
+  citata_rodoma: |
+    Jašiūnai
+
+    a
+    nčionėliai
+
+    ghiškis
+
+    @ Lapkričio 17 d. gen. J. Baranovskio brigada atakuoja 2-ojo pėst. p. pozicijas
+    ir po visą dieną trukusių atkaklių kautynių priverčia lietuvius iš Giedraičių
+    pasitraukti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -108,7 +108,12 @@ Nenurodyta
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
     95.
-  citata_rodoma: "1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).\n   Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),"
+  citata_rodoma: |
+    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
+    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
+       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    prarado labai daug užmuštaisiais (Ptol. p. 1223),
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

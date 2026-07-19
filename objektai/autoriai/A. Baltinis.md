@@ -66,7 +66,9 @@ Baltinis, Vysk.
     14 dol.
     A. Baltinis, Vysk. V. Borisevičiaus gyvenimas ir darbai,
     XII-178 psl., Roma 1975. 8 dol.
-  citata_rodoma: "A. Baltinis, Vysk. V. Borisevičiaus gyvenimas ir darbai,\nXII-178 psl., Roma 1975. 8 dol."
+  citata_rodoma: |
+    A. Baltinis, Vysk. V. Borisevičiaus gyvenimas ir darbai,
+    XII-178 psl., Roma 1975. 8 dol.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

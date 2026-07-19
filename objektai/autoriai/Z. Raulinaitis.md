@@ -88,7 +88,10 @@ Raulinaitis, Z.
     105 p. — Raulinaitis, Z. : _Apuolės užpuolimus_ , Karys, 1970, 45-50, 65-
     71 p. — (”) _Karinė veikla Pabaltijy IX amžiaus pabaigoje_ , Karys, 1971,
     117-120 p. — (”) _Žygis į Kuršą_ , Karys, 1972, 42-47, 89-91 p. — (”)
-  citata_rodoma: "— Raulinaitis, Z. : _Apuolės užpuolimus_ , Karys, 1970, 45-50, 65-\n71 p. — (”) _Karinė veikla Pabaltijy IX amžiaus pabaigoje_ , Karys, 1971,\n117-120 p."
+  citata_rodoma: |
+    — Raulinaitis, Z. : _Apuolės užpuolimus_ , Karys, 1970, 45-50, 65-
+    71 p. — (”) _Karinė veikla Pabaltijy IX amžiaus pabaigoje_ , Karys, 1971,
+    117-120 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

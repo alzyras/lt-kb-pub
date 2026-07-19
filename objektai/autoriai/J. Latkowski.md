@@ -68,7 +68,10 @@ Latkowski, Mendog król lit.
     Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
     Mindaugo laikus^126. W. Kętrzyńskis atsidėjo Mindaugo
     donacinių dokumentų klausimui^127.
-  citata_rodoma: "J. Latkowskis buvo pirmasis, kuris bandė nustatyti\nLietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus\nMindaugo laikus^126. W."
+  citata_rodoma: |
+    J. Latkowskis buvo pirmasis, kuris bandė nustatyti
+    Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
+    Mindaugo laikus^126. W.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

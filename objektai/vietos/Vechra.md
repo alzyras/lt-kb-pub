@@ -61,11 +61,15 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
+    Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
     Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
-  citata_rodoma: "Pačiam Sviatoslavui žuvus\nprie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo\nJogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur\njis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon."
+  citata_rodoma: |
+    Pačiam Sviatoslavui žuvus
+    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
+    Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
+    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

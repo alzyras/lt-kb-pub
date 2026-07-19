@@ -97,7 +97,10 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
     juos užpuolė ir visus išžudė. Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
     kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
     kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-  citata_rodoma: "Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant\nkalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir\nkitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams."
+  citata_rodoma: |
+    Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
+    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
+    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -116,7 +119,11 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
     1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar
     tebestovi415. Vos atvykęs  po konsekracijos į savo vyskupystę, šis vyskupas gavo per
     metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
-  citata_rodoma: "413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau —\nRollberg (Hennenberger C., Erclerung.., p. 43; SRP, 1, p. 118 (Toeppen M.); Ewald A. L.,\nDie Eroberung.., 4, p. 109; Gause F., Geschichte..., 1, p. 23) buvęs į vakarus nuo pilies\n(į vakarus nuo dab. Kaliningrado Centrinės aikštės)."
+  citata_rodoma: |
+    413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau —
+    Rollberg (Hennenberger C., Erclerung.., p. 43; SRP, 1, p. 118 (Toeppen M.); Ewald A. L.,
+    Die Eroberung.., 4, p. 109; Gause F., Geschichte..., 1, p. 23) buvęs į vakarus nuo pilies
+    (į vakarus nuo dab. Kaliningrado Centrinės aikštės).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

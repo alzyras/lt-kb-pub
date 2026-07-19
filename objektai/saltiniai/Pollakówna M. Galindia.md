@@ -75,9 +75,11 @@ Dusburgietis teigia, kad pollakówna M.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — Monumenta Germaniae historica: Scriptores rerum
-    Germanicarum. Nova series. Tomus VIII.— Berolini, 1930, p. 1—242.
-  citata_rodoma: "Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.\n78—79."
+    Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
+    78—79.
+  citata_rodoma: |
+    Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
+    78—79.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -131,7 +131,12 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
     knygos, kuri, kaip įvadas į kitas, išdėstys įžangines ži­
     nias, reikalingas tęsiniui istorijos, būsiančios kitose kny­
     gose.
-  citata_rodoma: "Mes pasisakome už pono Kepeno požiū-\nrį: lyginant tris svarbiausius dialektus — senovės prūsų,\nlietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­\nčytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­\ntyje arba kad ši gentis buvo arčiausia prie šio lopšio1."
+  citata_rodoma: |
+    Mes pasisakome už pono Kepeno požiū-
+    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
+    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
+    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
+    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

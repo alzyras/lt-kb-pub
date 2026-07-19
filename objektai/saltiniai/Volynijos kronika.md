@@ -75,7 +75,10 @@ Volynijos kronika šiame veikale cituojama kaip šaltinis, teigiantis, kad 1248 
     kraštas, matyt tebegyveno giminių gyvenimą, o kai­
     myninės tautos tuo tarpu jau buvo susiorganizavusios į gana
     stambius vienetus.
-  citata_rodoma: "Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­\ntijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako\n1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )"
+  citata_rodoma: |
+    Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­
+    tijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako
+    1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

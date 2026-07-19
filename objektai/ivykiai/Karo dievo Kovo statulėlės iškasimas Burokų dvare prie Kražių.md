@@ -156,7 +156,18 @@ Nenurodyta
     Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
     tą
     figūrą.
-  citata_rodoma: "1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs\nViln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu\naprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­\nre, priklausančiame grafienei Choueseul, tą dievuką gavau iš\nkun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas\nkilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko\naplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame\nJ/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo\nKražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė\ntą\nfigūrą."
+  citata_rodoma: |
+    1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
+    Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
+    aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­
+    re, priklausančiame grafienei Choueseul, tą dievuką gavau iš
+    kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas
+    kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
+    aplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame
+    J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo
+    Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
+    tą
+    figūrą.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -180,7 +191,12 @@ Nenurodyta
     graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio
     kopiją atsiuntė p/onas/ Marcinovskis, „Kurjer Litewski“ redakto­
     rius ir mano veikalų leidėjas.
-  citata_rodoma: "Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos žemėje\nnetoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietuviai\nturėjo stabus., Sis stabas yra natūralaus dydžio, iš bronzos, t. y.\nsenovinio Korinto vario, gražiai išlietas, pilnaviduris, be abiejų\nrankų."
+  citata_rodoma: |
+    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos žemėje
+    netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietuviai
+    turėjo stabus., Sis stabas yra natūralaus dydžio, iš bronzos, t. y.
+    senovinio Korinto vario, gražiai išlietas, pilnaviduris, be abiejų
+    rankų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

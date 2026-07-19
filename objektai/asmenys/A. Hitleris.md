@@ -174,7 +174,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
     į valdžią atėjo A. Hitleris, o 1934 m. po perversmų įsitvirtino autorita-
     riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
     visai liberalus.
-  citata_rodoma: "riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė"
+  citata_rodoma: |
+    riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -197,7 +198,14 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     183
     deleguotas ministras turėjo vykdyti jo užduotis.
-  citata_rodoma: "Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos \nAdolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – \njį sveikina vietos vokiečių nacių simpatikai ir SA smogikai\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n183\ndeleguotas ministras turėjo vykdyti jo užduotis."
+  citata_rodoma: |
+    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
+    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
+    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    183
+    deleguotas ministras turėjo vykdyti jo užduotis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -219,7 +227,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
     Kovo 23-iąją d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos
     perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
     balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
-  citata_rodoma: "perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro"
+  citata_rodoma: |
+    perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -245,7 +254,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
     liktą. Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
     50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
     Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
-  citata_rodoma: "Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio"
+  citata_rodoma: |
+    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -262,7 +272,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
     Lietuvos vadovus. A. Smetona privačiai 1935 m. A. Hitlerį apibūdino
     kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendini-
     mo gali išnaikinti pusę Europos.
-  citata_rodoma: "kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendini-"
+  citata_rodoma: |
+    kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendini-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

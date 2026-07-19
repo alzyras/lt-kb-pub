@@ -186,7 +186,19 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
     šimtmečius surašytame veikale Petras iš Dusburgo, Li­
     vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
     laikų nei mūsų.
-  citata_rodoma: "Daug kartų iš naujo\nimdavo garbinti stabus tie, kurių šeimoms pradžią yra\ndavę herulų, gepidų, gotų ar langobardų likučiai, Šie\npaveldėtus prietarus perduodavo vėlesnėms kartoms.\nTadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­\ntuvoje daugelio dievų garbinimo: senąsias apeigas jis\ndargi papildė naujais prietarais. Jis pirmąją Lietuvos\nsodybą Romanovą paskyrė vyriausiajam žyniui, tu­\nrinčiam saugoti tikėjimą; šitai tvirtina prieš keturis\nšimtmečius surašytame veikale Petras iš Dusburgo, Li­\nvonijos riterių kunigas ir istorikas, gyvenęs arčiau anų\nlaikų nei mūsų."
+  citata_rodoma: |
+    Daug kartų iš naujo
+    imdavo garbinti stabus tie, kurių šeimoms pradžią yra
+    davę herulų, gepidų, gotų ar langobardų likučiai, Šie
+    paveldėtus prietarus perduodavo vėlesnėms kartoms.
+    Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
+    tuvoje daugelio dievų garbinimo: senąsias apeigas jis
+    dargi papildė naujais prietarais. Jis pirmąją Lietuvos
+    sodybą Romanovą paskyrė vyriausiajam žyniui, tu­
+    rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis
+    šimtmečius surašytame veikale Petras iš Dusburgo, Li­
+    vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
+    laikų nei mūsų.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -211,7 +223,12 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
     džiųjų Lietuvos kunigaikščių metraštis", Platesniajame
     sąvade įdėtas padavimas apie Gedimino sūnų Kęstutį,
     jo žmoną Birutę ir apie jų sūnaus Vytauto gimimą.
-  citata_rodoma: "Gelbėda­\nmiesi nuo jo persekiojimo, dalis romėnų „bajorų\", va­\ndovaujamų imperatoriaus Nerono giminaičio Palemono, \npabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­\ntos ir valstybės pradininkais."
+  citata_rodoma: |
+    Gelbėda­
+    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
+    dovaujamų imperatoriaus Nerono giminaičio Palemono,
+    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
+    tos ir valstybės pradininkais.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -232,7 +249,15 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
     ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija.
-  citata_rodoma: "Tačiau \nrusėnų kilmės giminės (Chodkevičiai ar Sapiegos) net kurdavo legendas \napie savo lietuvišką kilmę. Taigi politinės tautos genezės jau galima ieško-\nti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti \niš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono \nir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai \nvesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių \ndinastija."
+  citata_rodoma: |
+    Tačiau
+    rusėnų kilmės giminės (Chodkevičiai ar Sapiegos) net kurdavo legendas
+    apie savo lietuvišką kilmę. Taigi politinės tautos genezės jau galima ieško-
+    ti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti
+    iš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -275,7 +300,16 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
     to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
     turėjo keletą tokių auksinių monetų.
-  citata_rodoma: "Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).\nTęsdami šią istoriją, išdėstysime mūsų duomenis apie jį,\narba apie tapataus vardo valdovą, gyvenusį toje epochoje."
+  citata_rodoma: |
+    Prie Sredniko miestelio, lie­
+    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
+    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
+    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
+    lemonu Kalnas).
+    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
+    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
+    Tęsdami šią istoriją, išdėstysime mūsų duomenis apie jį,
+    arba apie tapataus vardo valdovą, gyvenusį toje epochoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

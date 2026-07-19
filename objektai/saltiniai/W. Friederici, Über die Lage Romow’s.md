@@ -74,7 +74,11 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
     kultu. Nadruvos pietryčiuose, Pisos intako Romintės (dab. Krasnaja) aukštupyje,
     į pietvakarius nuo Vištyčio ežero yra didelė kalvota Romintės (Romintos) giria, o jos
     šiauriniame pakraštyje buvo kaimas Sventiškiai, kur išliko piliakalnis (HE, p. 50).
-  citata_rodoma: "Mėginta\nsieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen\nsu Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227—\n253)."
+  citata_rodoma: |
+    Mėginta
+    sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen
+    su Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227—
+    253).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

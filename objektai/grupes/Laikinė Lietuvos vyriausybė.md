@@ -60,7 +60,11 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
     kinę savo valdžią.
     Laikinės Lietuvos vyriausybės priešaky
     atsistojo grafas Soltanas.
-  citata_rodoma: "Tačiau jis leido Lietuvos bajorijai sudaryti lai-\nkinę savo valdžią.\nLaikinės Lietuvos vyriausybės priešaky\natsistojo grafas Soltanas."
+  citata_rodoma: |
+    Tačiau jis leido Lietuvos bajorijai sudaryti lai-
+    kinę savo valdžią.
+    Laikinės Lietuvos vyriausybės priešaky
+    atsistojo grafas Soltanas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

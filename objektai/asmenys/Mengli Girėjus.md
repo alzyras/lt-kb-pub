@@ -132,7 +132,13 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
     jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
     jūčio viduryje užpuolė Slucką.
-  citata_rodoma: "Išklausė\ndangus varguolio maldų. Mengli Girėjaus kariai, veda­\nmi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­\nlos. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,\njaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­\njūčio viduryje užpuolė Slucką."
+  citata_rodoma: |
+    Išklausė
+    dangus varguolio maldų. Mengli Girėjaus kariai, veda­
+    mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­
+    los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
+    jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
+    jūčio viduryje užpuolė Slucką.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -157,7 +163,16 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     ginti, nieku būdu neatsilaikysią prieš pailsėjusius jo
     karius, o bėgdami ir kitus paskatinsią sprukti kur kojos
     neša.
-  citata_rodoma: "Lie­\ntuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,\njiems atiteko dešimt tūkstančių arklių bei didžiulis ir\nįvairus grobis. Garsas apie šią pergalę plačiai paskli­\ndo, be kita ko, ir dėl to, kad mūšio lauke krito trys\nMengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­\nsius skitus, kurie ilgai klaidžiojo po visokius pašalius\nbeplėšikaudami, ilgainiui įvairiose vietose išgaudė ir\nišžudė lenkų kariai."
+  citata_rodoma: |
+    Lie­
+    tuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,
+    jiems atiteko dešimt tūkstančių arklių bei didžiulis ir
+    įvairus grobis. Garsas apie šią pergalę plačiai paskli­
+    do, be kita ko, ir dėl to, kad mūšio lauke krito trys
+    Mengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­
+    sius skitus, kurie ilgai klaidžiojo po visokius pašalius
+    beplėšikaudami, ilgainiui įvairiose vietose išgaudė ir
+    išžudė lenkų kariai.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -183,7 +198,19 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     trūko barbarui sumanumo deramai pateisinti savo ne­
     veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
     kurie pirmieji suklups mūšyje.
-  citata_rodoma: "Pra­\nsidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,\nkaip nutraukti apgulą ir su visa kariuomene išžygiuoti\nį žiemos stovyklą. Skitas Mengli Girėjus, pakviestas už\nmokamą atlyginimą į šį karo žygį, įsikūrė su kariais\nnetoli karaliaus stovyklos, tačiau nepradėjo kovoti\nprieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,\nkad įsibrautų į Maskvos kunigaikštystę, mat jis iš\nMaskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­\ntrūko barbarui sumanumo deramai pateisinti savo ne­\nveiklumą, nors, tiesą sakant, jis ketino užpulti tuos,\nkurie pirmieji suklups mūšyje."
+  citata_rodoma: |
+    Pra­
+    sidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,
+    kaip nutraukti apgulą ir su visa kariuomene išžygiuoti
+    į žiemos stovyklą. Skitas Mengli Girėjus, pakviestas už
+    mokamą atlyginimą į šį karo žygį, įsikūrė su kariais
+    netoli karaliaus stovyklos, tačiau nepradėjo kovoti
+    prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,
+    kad įsibrautų į Maskvos kunigaikštystę, mat jis iš
+    Maskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­
+    trūko barbarui sumanumo deramai pateisinti savo ne­
+    veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
+    kurie pirmieji suklups mūšyje.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -203,7 +230,14 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     sūnūs Fatihas ir Burnašas. Ekspedicines
     pajėgas sudarė maždaug 4000 totorių, tu-
     rėję apie 10000 žirgų.
-  citata_rodoma: "Pats žygis\n\nį LDK gilumą prasidėjo gegužės pabaigoje.\nJam vadovavo jaunesnieji Mengli-Girėjaus\nsūnūs Fatihas ir Burnašas. Ekspedicines\npajėgas sudarė maždaug 4000 totorių, tu-\nrėję apie 10000 žirgų."
+  citata_rodoma: |
+    Pats žygis
+
+    į LDK gilumą prasidėjo gegužės pabaigoje.
+    Jam vadovavo jaunesnieji Mengli-Girėjaus
+    sūnūs Fatihas ir Burnašas. Ekspedicines
+    pajėgas sudarė maždaug 4000 totorių, tu-
+    rėję apie 10000 žirgų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

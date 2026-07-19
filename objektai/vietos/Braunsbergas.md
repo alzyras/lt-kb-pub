@@ -168,7 +168,21 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
     Minus ergo decet militantes domino,
     genti peccatrici, populo nequam, filiis
     sceleratis aliqua pactione conjungi.
-  citata_rodoma: "Kai maždaug tuo metu sužinota, jog Gedimino skundas\ntikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­\nsijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-\ngo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­\ntai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti\nkryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­\nmi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­\nreikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­\nkišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso\nteigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­\ngeidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai\nMinus ergo decet militantes domino,\ngenti peccatrici, populo nequam, filiis\nsceleratis aliqua pactione conjungi."
+  citata_rodoma: |
+    Kai maždaug tuo metu sužinota, jog Gedimino skundas
+    tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­
+    sijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-
+    go ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­
+    tai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti
+    kryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­
+    mi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­
+    reikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­
+    kišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso
+    teigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­
+    geidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai
+    Minus ergo decet militantes domino,
+    genti peccatrici, populo nequam, filiis
+    sceleratis aliqua pactione conjungi.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

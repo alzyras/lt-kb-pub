@@ -62,7 +62,14 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
     gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai.
-  citata_rodoma: "Atvyko\nJogaila su savo šimtais palydovų, Romos ciesorius Zigmantas\nsu savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos\ngiminiete, — lydimi daugelio savo baronų; ir pats Vytautas su\ngausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.\nBuvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai."
+  citata_rodoma: |
+    Atvyko
+    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
+    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
+    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
+    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

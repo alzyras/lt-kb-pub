@@ -90,7 +90,12 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
     pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur
     nuvyko pas ciesorių, norėdamas priimti krikštą^2 ). Kitus Kęstu­
     čio sūnus mes vėliau minėsime sąryšyje su politiniais įvykiais.
-  citata_rodoma: "Bu­\ntauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat\npabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur\nnuvyko pas ciesorių, norėdamas priimti krikštą^2 ). Kitus Kęstu­\nčio sūnus mes vėliau minėsime sąryšyje su politiniais įvykiais."
+  citata_rodoma: |
+    Bu­
+    tauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat
+    pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur
+    nuvyko pas ciesorių, norėdamas priimti krikštą^2 ). Kitus Kęstu­
+    čio sūnus mes vėliau minėsime sąryšyje su politiniais įvykiais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

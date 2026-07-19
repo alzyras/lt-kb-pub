@@ -202,14 +202,16 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - saltinis: [[objektai/saltiniai/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md]]
     - vieta_saltinyje: Citata kandidatų registre pažymėta kaip neaptikta darbiniame šaltinyje.
     - santrauka: Totoriai šiame fragmente pereina nuo partnerystės prie karo prieš Lietuvą.
     - pagrindzia:
     - pastaba: Šiame žingsnyje nelaikoma pakankamu viešu įrodymu.
       citata_originali: |
         Nuo to regimai Lietuvos ūkė pradėjo irti; lig šiol totoriai, talkininkai ir tarnai lietuvių, nugis atstoję nuo jų, pasidavė turkams ir pradėjo pačius lietuvius kariauti, užgulė Uksinę jūrą įr Dunojų, arba Istrupį.
-  citata_rodoma: "užgulė Uksinę jūrą įr Dunojų,\narba Istrupį."
+  citata_rodoma: |
+    užgulė Uksinę jūrą įr Dunojų,
+    arba Istrupį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

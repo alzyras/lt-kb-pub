@@ -81,7 +81,8 @@ Nenurodyta
     gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
     pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
     bei.
-  citata_rodoma: "gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo"
+  citata_rodoma: |
+    gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

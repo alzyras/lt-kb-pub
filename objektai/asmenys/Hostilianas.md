@@ -112,7 +112,27 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
     nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
-  citata_rodoma: "Juk buvo kariaujama su skandina­\nvais, gentys įvairiais būdais patirdavo tų užjūrio kai­\nmynų įtaką, nes didėjo prekių apyvarta ir plėtėsi santy­\nkiai su Rytais dėl to, kad į tuos kraštus patraukė dau­\ngelis genčių. Lietuviai, gyvenę toliau nuo jūros, dalyva­\nvo įvairiuose sarmatų maištuose, būdavo įtraukiami į\njuos net kaimyninių tautų, ne kartą kariavo ir su romė­\nnais, ypač imperatorių Trojano, Decijaus, Galo, Hosti-\nliano ir kitų laikais buvo germanų barbarišikumo sąjun­\ngininkai.\nEsama\nneabejotinų įrodymų, nes,\nvaldant\nimperatoriui\nGalui, apie 253 metus\njungtiniai finų,\ngalindų ir venedų būriai kariavo su imperatorium Valuzia-\nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją."
+  citata_rodoma: |
+    Juk buvo kariaujama su skandina­
+    vais, gentys įvairiais būdais patirdavo tų užjūrio kai­
+    mynų įtaką, nes didėjo prekių apyvarta ir plėtėsi santy­
+    kiai su Rytais dėl to, kad į tuos kraštus patraukė dau­
+    gelis genčių. Lietuviai, gyvenę toliau nuo jūros, dalyva­
+    vo įvairiuose sarmatų maištuose, būdavo įtraukiami į
+    juos net kaimyninių tautų, ne kartą kariavo ir su romė­
+    nais, ypač imperatorių Trojano, Decijaus, Galo, Hosti-
+    liano ir kitų laikais buvo germanų barbarišikumo sąjun­
+    gininkai.
+    Esama
+    neabejotinų įrodymų, nes,
+    valdant
+    imperatoriui
+    Galui, apie 253 metus
+    jungtiniai finų,
+    galindų ir venedų būriai kariavo su imperatorium Valuzia-
+    nu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­
+    vino kaip vandalų, finų, galindų ir venedų nugalėto­
+    ją.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -59,7 +59,10 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
     tuvišką Balsą". Netrukus pradėjo eiti „Vienybė Lietuvi-
     ninkų" ir vargonininko Bačkausko Tamošausko redaguojamoji
     „Sau1ė", kurios tebeina ir dabar.
-  citata_rodoma: "Netrukus pradėjo eiti „Vienybė Lietuvi-\nninkų\" ir vargonininko Bačkausko Tamošausko redaguojamoji\n„Sau1ė\", kurios tebeina ir dabar."
+  citata_rodoma: |
+    Netrukus pradėjo eiti „Vienybė Lietuvi-
+    ninkų" ir vargonininko Bačkausko Tamošausko redaguojamoji
+    „Sau1ė", kurios tebeina ir dabar.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

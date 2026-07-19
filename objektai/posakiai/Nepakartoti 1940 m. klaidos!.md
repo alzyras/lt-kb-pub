@@ -111,7 +111,14 @@ media_all_json: |-
     Rengiantis gynybai AT rūsyje buvo įreng-
     tos ginklų remonto ir šovinių, sprogmenų
     gamybos dirbtuvės bei šaudykla.
-  citata_rodoma: "Gynėjai išsikėlė nerašytą misiją - pa-\nsipriešinti bet kokiu atveju ir nepakartoti\n1940 m. klaidos!\n\nRengiantis gynybai AT rūsyje buvo įreng-\ntos ginklų remonto ir šovinių, sprogmenų\ngamybos dirbtuvės bei šaudykla."
+  citata_rodoma: |
+    Gynėjai išsikėlė nerašytą misiją - pa-
+    sipriešinti bet kokiu atveju ir nepakartoti
+    1940 m. klaidos!
+
+    Rengiantis gynybai AT rūsyje buvo įreng-
+    tos ginklų remonto ir šovinių, sprogmenų
+    gamybos dirbtuvės bei šaudykla.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

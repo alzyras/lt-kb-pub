@@ -100,7 +100,15 @@ Nenurodyta
     Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
     skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
     (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
-  citata_rodoma: "Apie Skomanto, sūduvių vado, atsivertimą\n\n  Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,\nnegalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios\nžemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas\ntremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip\ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė\ntikėjimui ir broliams."
+  citata_rodoma: |
+    Apie Skomanto, sūduvių vado, atsivertimą
+
+      Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,
+    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
+    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
+    tremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

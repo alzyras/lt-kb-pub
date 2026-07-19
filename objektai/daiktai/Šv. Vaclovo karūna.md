@@ -164,7 +164,11 @@ Nenurodyta
     pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
     savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
     linkybėms, Vytautas nuo to sumanymo atsisakė.
-  citata_rodoma: "Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų\npasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą\nsavo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­\nlinkybėms, Vytautas nuo to sumanymo atsisakė."
+  citata_rodoma: |
+    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
+    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
+    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
+    linkybėms, Vytautas nuo to sumanymo atsisakė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -187,7 +191,12 @@ Nenurodyta
     taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
     lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
     mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.
-  citata_rodoma: "Pamatęs, kad jo jė­\ngos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:\ntaip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­\nlėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos\nmėginimu, kai paaiškėjo, kad ją sunku įgyvendinti."
+  citata_rodoma: |
+    Pamatęs, kad jo jė­
+    gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:
+    taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
+    lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
+    mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -205,7 +214,9 @@ Nenurodyta
     kad šiuo metu Vytauto reikšmė lietuvių lenkų sąjungoj iškilo į
     pirmą vietą. Tą rodo ir tuo laiku čekų kreipimasis į jį sosto rei­
     kalais, t. y. Vytautui pasiūlė karūnuotis jų karaliaus karūna.
-  citata_rodoma: "Tą rodo ir tuo laiku čekų kreipimasis į jį sosto rei­\nkalais, t. y. Vytautui pasiūlė karūnuotis jų karaliaus karūna."
+  citata_rodoma: |
+    Tą rodo ir tuo laiku čekų kreipimasis į jį sosto rei­
+    kalais, t. y. Vytautui pasiūlė karūnuotis jų karaliaus karūna.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

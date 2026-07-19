@@ -63,7 +63,14 @@ Nazimovas balandžio pabaigoje įsakė gen.
     įsakė gen. mjr. I. Ganeckiui žygiuoti į
     Ukmergės apskritį Anykščių kryptimi ir
     sunaikinti ten susibūrusius sukilėlius.
-  citata_rodoma: "Mūšis\nSukilėliams esant Teresboro stovykloje,\nŠiaurės Vakarų krašto generalgubernato-\nrius V. Nazimovas balandžio pabaigoje\nįsakė gen. mjr. I. Ganeckiui žygiuoti į\nUkmergės apskritį Anykščių kryptimi ir\nsunaikinti ten susibūrusius sukilėlius."
+  citata_rodoma: |
+    Mūšis
+    Sukilėliams esant Teresboro stovykloje,
+    Šiaurės Vakarų krašto generalgubernato-
+    rius V. Nazimovas balandžio pabaigoje
+    įsakė gen. mjr. I. Ganeckiui žygiuoti į
+    Ukmergės apskritį Anykščių kryptimi ir
+    sunaikinti ten susibūrusius sukilėlius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

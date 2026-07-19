@@ -75,7 +75,14 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
     mone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu
     jis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­
     vo visuotina suirutė.
-  citata_rodoma: "Dėl to savo laikų Europos visuomenės viršūnes\ngerai pažįstąs Kujavų vyskupas, kunigaikštis Jonas Kropidła,\nBreslave per puotą prie daugybės kunigaikščių ir atstovų drą­\nsiai galėjo pasakyti imperatoriui Zigmantui į akis, kad, jo nuo­\nmone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu\njis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­\nvo visuotina suirutė."
+  citata_rodoma: |
+    Dėl to savo laikų Europos visuomenės viršūnes
+    gerai pažįstąs Kujavų vyskupas, kunigaikštis Jonas Kropidła,
+    Breslave per puotą prie daugybės kunigaikščių ir atstovų drą­
+    siai galėjo pasakyti imperatoriui Zigmantui į akis, kad, jo nuo­
+    mone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu
+    jis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­
+    vo visuotina suirutė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -94,7 +101,11 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
     lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­
     liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
     spręstas ne keno kito, kaip Vytauto^2 ).
-  citata_rodoma: "Kartą buvo kilęs ginčas tarp Vloc­\nlavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­\nliaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­\nspręstas ne keno kito, kaip Vytauto^2 )."
+  citata_rodoma: |
+    Kartą buvo kilęs ginčas tarp Vloc­
+    lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­
+    liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
+    spręstas ne keno kito, kaip Vytauto^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

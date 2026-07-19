@@ -133,7 +133,11 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     buvo iš Lietuvos išstumta. 1667 m. sausio 30 d. netoli Smolensko pa-
     sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko
     Smolenskas, Černigovas, Severų Naugardas, Kijevas.
-  citata_rodoma: "Lietuvos didžiojo etmono Povilo Sapiegos\nvadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661\nm. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė\nbuvo iš Lietuvos išstumta. 1667 m."
+  citata_rodoma: |
+    Lietuvos didžiojo etmono Povilo Sapiegos
+    vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661
+    m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė
+    buvo iš Lietuvos išstumta. 1667 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -146,14 +150,21 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
+    kilo Žemaičių sukilimas, padaręs
     švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
     kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
     vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
     vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
-  citata_rodoma: "kilo Žemaičių sukilimas, padaręs\nšvedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat\nkovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-\nvusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,\nvadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,\nKristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos\nkariuomenės."
+  citata_rodoma: |
+    kilo Žemaičių sukilimas, padaręs
+    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
+    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
+    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
+    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
+    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
+    kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

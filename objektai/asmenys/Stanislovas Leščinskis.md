@@ -101,7 +101,13 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
     . Gais metais ATR valdovu buvo išrinktas Švedijos
     remiamas Stanislovas Lesčinskis, įsiplieskė karas
     tarp jo ir Augusto 11 šalininkų.
-  citata_rodoma: "— Augustas II, pasiryžęs nepasiduoti, ATR vardu sudarė\nŠE prieš Švediją nukreiptą sąjungą su Rusija, tokiu\nbūdu ATR į karą įtraukdamas formaliai. Tais pa-\n. Gais metais ATR valdovu buvo išrinktas Švedijos\nremiamas Stanislovas Lesčinskis, įsiplieskė karas\ntarp jo ir Augusto 11 šalininkų."
+  citata_rodoma: |
+    — Augustas II, pasiryžęs nepasiduoti, ATR vardu sudarė
+    ŠE prieš Švediją nukreiptą sąjungą su Rusija, tokiu
+    būdu ATR į karą įtraukdamas formaliai. Tais pa-
+    . Gais metais ATR valdovu buvo išrinktas Švedijos
+    remiamas Stanislovas Lesčinskis, įsiplieskė karas
+    tarp jo ir Augusto 11 šalininkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -121,7 +127,10 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
     Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
-  citata_rodoma: "Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,\n  atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį\n  (1706 m.)."
+  citata_rodoma: |
+    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
+      atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
+      (1706 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -62,7 +62,8 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
     lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl ka­
     ro nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavi-
     rno. Ordinariniu profesorium paskirtas 1930 m.
-  citata_rodoma: "1913 m. pakviestas į suomių ir lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl karo nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavimo."
+  citata_rodoma: |
+    1913 m. pakviestas į suomių ir lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl karo nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavimo.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

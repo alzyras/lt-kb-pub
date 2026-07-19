@@ -627,7 +627,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     108), Prussia (1212 m..— ten pat, Nr. 6, p. 5; Nr. 7, p. 6; 1224 m.— Nr. 52, p. 38), Prutia
     (1216 m.—ten pat, Nr. 9, p. 7; 1222 m.— Nr. 41, p. 28), Prusia (1223 m,— ten pat, Nr.
     46, p. 34; 1230 m.— Nr. 75, p. 56), Prucia (1228 m.— ten pat, Nr. 67, p. 49—50).
-  citata_rodoma: "Į šiaurę nuo Nemuno žiočių, Minijos\nžemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.\nLietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,\np. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,\nžemėl.)."
+  citata_rodoma: |
+    Į šiaurę nuo Nemuno žiočių, Minijos
+    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
+    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
+    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
+    žemėl.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -648,7 +653,18 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     šitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės
     pasienyje474. Neturėdamas pakankamai karių, su kuriais galėtų smogti broliams,
     471 Turima galvoje Skalvos žemės į pietus nuo Nemuno.
-  citata_rodoma: "Apie Labguvos pilies sunaikinimą\n\n   Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji\n[seniores populi] pradėjo tartis, kaip atkeršyti. Vienu balsu visi nusprendė pasiųsti į žygį\n400 rinktinių vyrų, kurie, laivais priplaukę brolių pilį Labguvą470, staiga ją apyaušryje\nužėmė, kai žmonės ilsėjosi savo guoliuose, išžudė ten visus vyrus, sudegino  pilį, o\nmoteris ir vaikus išsivedė su savimi drauge su didžiausiu grobiu.\n\n\n\n  469  D."
+  citata_rodoma: |
+    Apie Labguvos pilies sunaikinimą
+
+       Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji
+    [seniores populi] pradėjo tartis, kaip atkeršyti. Vienu balsu visi nusprendė pasiųsti į žygį
+    400 rinktinių vyrų, kurie, laivais priplaukę brolių pilį Labguvą470, staiga ją apyaušryje
+    užėmė, kai žmonės ilsėjosi savo guoliuose, išžudė ten visus vyrus, sudegino  pilį, o
+    moteris ir vaikus išsivedė su savimi drauge su didžiausiu grobiu.
+
+
+
+      469  D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -674,7 +690,22 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino
     paprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku
     būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti.
-  citata_rodoma: "Apie Ragainės ir Skalvių pilių pastatymą\n\n  1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti\nkrikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio\nkankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei\nant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai\nreiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,\npalikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,\nsu 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,\npastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.\n\n\n\n\n 236 (229)."
+  citata_rodoma: |
+    Apie Ragainės ir Skalvių pilių pastatymą
+
+      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
+    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
+
+
+
+
+     236 (229).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -697,7 +728,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
     brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
     bei jo sūnų Maudelį331 su daugybe ginklanešių.
-  citata_rodoma: "Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą\n\n   Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,\nskalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat\nbūgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino\ntolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami\nir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė\npastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo\nbrautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330\nbei jo sūnų Maudelį331 su daugybe ginklanešių."
+  citata_rodoma: |
+    Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
+
+       Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
+    skalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat
+    būgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino
+    tolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami
+    ir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė
+    pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
+    brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
+    bei jo sūnų Maudelį331 su daugybe ginklanešių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -715,7 +756,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
     Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
-  citata_rodoma: "Apie Ragainės pilies užkariavimą\n\n   Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų."
+  citata_rodoma: |
+    Apie Ragainės pilies užkariavimą
+
+       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -756,7 +803,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     sunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar
     jotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17. Mums žinomi
     jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18.
-  citata_rodoma: "Kol kas nepakankamai aiški baltiškųjų galindų  ir\nSasnos sričių genezė. Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.\nMaterialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai\nprie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,\nžemaičių (žemutinių lietuvių) ir latvių13."
+  citata_rodoma: |
+    Kol kas nepakankamai aiški baltiškųjų galindų  ir
+    Sasnos sričių genezė. Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
+    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
+    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
+    žemaičių (žemutinių lietuvių) ir latvių13.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -798,7 +850,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19. Lyginant su rytiniais baltais
     — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
     kitos nutolusios.
-  citata_rodoma: "Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.\nMaterialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai\nprie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,\nžemaičių (žemutinių lietuvių) ir latvių13.\n  Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t."
+  citata_rodoma: |
+    Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
+    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
+    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
+    žemaičių (žemutinių lietuvių) ir latvių13.
+      Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -818,7 +875,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
     Kai skalviai ryžosi priešintis, brolių lankininkai, leisdami strėlę po strėlės, juos nustūmė.
-  citata_rodoma: "Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.\nKai skalviai ryžosi priešintis, brolių lankininkai, leisdami strėlę po strėlės, juos nustūmė."
+  citata_rodoma: |
+    Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
+    Kai skalviai ryžosi priešintis, brolių lankininkai, leisdami strėlę po strėlės, juos nustūmė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -835,7 +897,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
     ir Alnos (kair.
-  citata_rodoma: "Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,\npriėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9."
+  citata_rodoma: |
+    Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,
+    priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -884,7 +948,26 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     vardžių ir beveik niekada vardai nebuvo teikiami atsitik­
     tinių reiškinių tame krašte, kuris nuo seno buvo lietuviš­
     kas ar iš pat pradžių gyvenamas lietuvių.
-  citata_rodoma: "Bū-\nlent tokiuose kraštuose radome daugiau negu tikėjomės\n215\n\n## Puslapis 213\n\npalankiausios dirvos lietuvių tautos praėjusiems amžiams\narba senienoms, išlikusiems gyviems paminklams tyrinėti;\nprietarai, įpročiai, papročiai, namų manieros, kalba, nau­\ndojami įrankiai, drabužiai, padavimai, pasakojimai, šne­\nkos, dainos, dialektiniai kalbų skirtumai ir viskas liudija\nlietuvių bruožų originalumą. Atsiskyrę dideliuose miškuo­\nse, tarp smėlio kalvų, neįžengiamų pelkių, tarp didelių\nežerų kaimiečiai, kaip Merkinės seniūnijoje, yra tikri pa­\nlikuonys senovės skalvių genties, kuri nuo seno apsigy­\nveno dideliuose tikrosios Lietuvos plotuose. Čia jau ne­\nkalbu apie ištisas lietuvių gyvenamas apskritis, esančias\nlietuviams priklausančių žemių viduryje, kur išliko gryna\nkalba ir daug kitų tautiškumo bruožų."
+  citata_rodoma: |
+    Bū-
+    lent tokiuose kraštuose radome daugiau negu tikėjomės
+    215
+
+    ## Puslapis 213
+
+    palankiausios dirvos lietuvių tautos praėjusiems amžiams
+    arba senienoms, išlikusiems gyviems paminklams tyrinėti;
+    prietarai, įpročiai, papročiai, namų manieros, kalba, nau­
+    dojami įrankiai, drabužiai, padavimai, pasakojimai, šne­
+    kos, dainos, dialektiniai kalbų skirtumai ir viskas liudija
+    lietuvių bruožų originalumą. Atsiskyrę dideliuose miškuo­
+    se, tarp smėlio kalvų, neįžengiamų pelkių, tarp didelių
+    ežerų kaimiečiai, kaip Merkinės seniūnijoje, yra tikri pa­
+    likuonys senovės skalvių genties, kuri nuo seno apsigy­
+    veno dideliuose tikrosios Lietuvos plotuose. Čia jau ne­
+    kalbu apie ištisas lietuvių gyvenamas apskritis, esančias
+    lietuviams priklausančių žemių viduryje, kur išliko gryna
+    kalba ir daug kitų tautiškumo bruožų.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

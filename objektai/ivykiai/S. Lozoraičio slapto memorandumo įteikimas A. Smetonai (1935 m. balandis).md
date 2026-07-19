@@ -129,7 +129,12 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: "S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus\n\nL I E T U V O S  I S T O R I J A\n178\nvivendi su Lenkija yra būtina nepriklausomybės sąlyga."
+  citata_rodoma: |
+    S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
+
+    L I E T U V O S  I S T O R I J A
+    178
+    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -152,7 +157,13 @@ Nenurodyta
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: "Smetonai slaptą memorandumą, kuria-\nme išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, \nmes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-\nlime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-\nžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje \nS."
+  citata_rodoma: |
+    Smetonai slaptą memorandumą, kuria-
+    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
+    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
+    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
+    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
+    S.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -114,7 +114,18 @@ Nenurodyta
     gūnus, žemutinės teismų grandies teisėjus. Tokia vietinio valdymo siste-
     ma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno
     per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
-  citata_rodoma: "L I E T U V O S  I S T O R I J A\n100\nNuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir \nsavivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-\nkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-\nbluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos \nvietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities \nbajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-\ngūnus, žemutinės teismų grandies teisėjus. Tokia vietinio valdymo siste-\nma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno \nper 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje."
+  citata_rodoma: |
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
+    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
+    gūnus, žemutinės teismų grandies teisėjus. Tokia vietinio valdymo siste-
+    ma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno
+    per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

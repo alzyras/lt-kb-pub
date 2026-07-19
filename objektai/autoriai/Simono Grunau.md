@@ -103,7 +103,11 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     Dusburgas jau buvo minėjęs dvasininką «Criwe», kuris tegalėjo
     reikšti pasižymėjusio žynio, ar burtininko tikrinį vardą (A. Mierzyń­
     ski).
-  citata_rodoma: "Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė\nlabai nepatikimas XVI amžiaus kompiliatorius Simonas Grunau.\nDusburgas jau buvo minėjęs dvasininką «Criwe», kuris tegalėjo\nreikšti pasižymėjusio žynio, ar burtininko tikrinį vardą (A."
+  citata_rodoma: |
+    Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė
+    labai nepatikimas XVI amžiaus kompiliatorius Simonas Grunau.
+    Dusburgas jau buvo minėjęs dvasininką «Criwe», kuris tegalėjo
+    reikšti pasižymėjusio žynio, ar burtininko tikrinį vardą (A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -122,7 +126,10 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     nys lietuviai jokio atskiro rašto neturėjo. Daugelį vėliau suklaidino
     XVI amž. fantasto kronikininko Simono Grunau paskelbti pagonių
     rašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2.
-  citata_rodoma: "Daugelį vėliau suklaidino\nXVI amž. fantasto kronikininko Simono Grunau paskelbti pagonių\nrašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2."
+  citata_rodoma: |
+    Daugelį vėliau suklaidino
+    XVI amž. fantasto kronikininko Simono Grunau paskelbti pagonių
+    rašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -172,7 +179,11 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     Gumbinės sritis 127
     Guogų-Piliuonos piliakalnis 76
     Habsburgai 32, 83, 239, 284, 289,
-  citata_rodoma: "97\nGrunau S., kronikininkas 58, 145,\n205, 243, 294\nGrünhagen C."
+  citata_rodoma: |
+    97
+    Grunau S., kronikininkas 58, 145,
+    205, 243, 294
+    Grünhagen C.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

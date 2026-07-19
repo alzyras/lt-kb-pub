@@ -99,7 +99,10 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
     gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios.
-  citata_rodoma: "Iš savo pusės Lenkų ba-\njorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be\nlietuvių ir be Vytauto žinios."
+  citata_rodoma: |
+    Iš savo pusės Lenkų ba-
+    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
+    lietuvių ir be Vytauto žinios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

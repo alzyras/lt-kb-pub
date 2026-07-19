@@ -132,7 +132,10 @@ media_all_json: |-
     iš balkono sveikino minias. Tais metais de facto Lietuvą pripažino Nor-
     vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
     (liepos 4 d.).
-  citata_rodoma: "Tais metais de facto Lietuvą pripažino Nor-\nvegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija \n(liepos 4 d.)."
+  citata_rodoma: |
+    Tais metais de facto Lietuvą pripažino Nor-
+    vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
+    (liepos 4 d.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -154,7 +157,13 @@ media_all_json: |-
     1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
     pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
     prindama jų pozicijas.
-  citata_rodoma: "Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pre-\ntendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį. Tačiau pi-\nlietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija \n1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai \npradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-\nprindama jų pozicijas."
+  citata_rodoma: |
+    Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pre-
+    tendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį. Tačiau pi-
+    lietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija
+    1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
+    pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
+    prindama jų pozicijas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -178,7 +187,13 @@ media_all_json: |-
     kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
     tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
     iš balkono sveikino minias.
-  citata_rodoma: "Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-\nsinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad \nDidžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių \nsusirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-\nkių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai, \ntempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A."
+  citata_rodoma: |
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
+    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-
+    kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
+    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -82,7 +82,14 @@ Nenurodyta
     paliktos naikinimams. Neišaiškinamas čia yra Vytauto dalyvavi­
     mas. Gal jo buvimas turėjo pridengti tikruosius norus. Apskritai
     Dovydiškių sutartis palieka svarbių neatsakytų klausimų.
-  citata_rodoma: "Veikliojo magistro Kniprodės išvystytoji sutarčių politika su\npagonimis, su kuriais kryžiuočiai dešimtmečiais tik kardo smūgiais\ntebuvo kalbėjęsi, žadėjo pasisekimų, juo labiau, kad Dovydiškių\nsutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir toliau\npaliktos naikinimams. Neišaiškinamas čia yra Vytauto dalyvavi­\nmas. Gal jo buvimas turėjo pridengti tikruosius norus. Apskritai\nDovydiškių sutartis palieka svarbių neatsakytų klausimų."
+  citata_rodoma: |
+    Veikliojo magistro Kniprodės išvystytoji sutarčių politika su
+    pagonimis, su kuriais kryžiuočiai dešimtmečiais tik kardo smūgiais
+    tebuvo kalbėjęsi, žadėjo pasisekimų, juo labiau, kad Dovydiškių
+    sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir toliau
+    paliktos naikinimams. Neišaiškinamas čia yra Vytauto dalyvavi­
+    mas. Gal jo buvimas turėjo pridengti tikruosius norus. Apskritai
+    Dovydiškių sutartis palieka svarbių neatsakytų klausimų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

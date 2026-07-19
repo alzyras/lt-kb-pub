@@ -208,7 +208,12 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
     čius, ir jie ilgai kariavo vieni su kitais.
-  citata_rodoma: "Paėmė jie daug miestų ir pargrįžo namo l3 .\nO paskui atsiuntė žinią Vykintas, pranešdamas, kad \nvokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­\nsiuntė Tautvilą \", ir jam į pagalbą— rusus bei polovie- \nčius, ir jie ilgai kariavo vieni su kitais."
+  citata_rodoma: |
+    Paėmė jie daug miestų ir pargrįžo namo l3 .
+    O paskui atsiuntė žinią Vykintas, pranešdamas, kad
+    vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
+    siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
+    čius, ir jie ilgai kariavo vieni su kitais.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -257,7 +262,18 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida. S.
     231). Oskolok, oskoloczok dar rusiškai reiškia drožlę, skiedrą, pliaus­
     ką, medžio atplaišą (Slownik Ross.
-  citata_rodoma: "Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai\nišdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­\nmai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­\nimti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­\nriojoje Dnepro pakrantėje, į rytus nuo jo."
+  citata_rodoma: |
+    Ka­
+    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
+    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
+    toro žodžius priskiria poloviečių veiksmams dešiniojoje
+    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
+    statytas XII amžiaus pradžioje po to, kai jį sunaikino
+    poloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai
+    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
+    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
+    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
+    riojoje Dnepro pakrantėje, į rytus nuo jo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

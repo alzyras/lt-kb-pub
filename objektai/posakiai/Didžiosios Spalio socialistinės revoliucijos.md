@@ -66,7 +66,14 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
     tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
     pabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas
     pasėkoje liaudies masių judėjimo ir proletarinės revoliucijos.
-  citata_rodoma: "To tomo uždavinys\nyra parodyti, kaip «Didžiosios Spalio socialistinės revoliucijos»\npasėkoje buvęs pradėtas visai naujas laikotarpis Lietuvoje, kai\nbuvusi įkurta Lietuvos Tarybų socialistinė respublika. Neigdami\ntikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai\npabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas\npasėkoje liaudies masių judėjimo ir proletarinės revoliucijos."
+  citata_rodoma: |
+    To tomo uždavinys
+    yra parodyti, kaip «Didžiosios Spalio socialistinės revoliucijos»
+    pasėkoje buvęs pradėtas visai naujas laikotarpis Lietuvoje, kai
+    buvusi įkurta Lietuvos Tarybų socialistinė respublika. Neigdami
+    tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
+    pabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas
+    pasėkoje liaudies masių judėjimo ir proletarinės revoliucijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -75,7 +75,11 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
     senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
     kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
     valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
-  citata_rodoma: "O mirus\nsenam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų\nkažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­\nvaldė dvi svarbiausias pilis — Lucką ir Vladimirą^7."
+  citata_rodoma: |
+    O mirus
+    senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
+    kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
+    valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

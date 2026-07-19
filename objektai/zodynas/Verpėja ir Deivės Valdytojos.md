@@ -172,7 +172,18 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     riai saugojusi lemtį, sergėjo akimirką, kada turėtų pasibaigti žmo­
     gaus gyvybės audimas; kaip mat lemties žirklėmis perkirpdavo
     audeklą ir nutraukdavo žmogaus gyvenimo tėkmę.
-  citata_rodoma: "141\n\n## Puslapis 141\n\nVerpėja (VVerpeja)\nNemarioji žmogaus gyvenimo siūlo verpėja.\nLietuviai pažinojo tiktai vienintelę Parką: apie ją skamba\nliaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,\nbet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­\njau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­\nlą, kuris baigiasi žvaigžde."
+  citata_rodoma: |
+    141
+
+    ## Puslapis 141
+
+    Verpėja (VVerpeja)
+    Nemarioji žmogaus gyvenimo siūlo verpėja.
+    Lietuviai pažinojo tiktai vienintelę Parką: apie ją skamba
+    liaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,
+    bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
+    jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
+    lą, kuris baigiasi žvaigžde.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -198,7 +209,15 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     budriai saugojusi lemtį, sergėjo akimirką, kada turėtų pasibaigti
     žmogaus gyvybės audimas; kaip mat lemties žirklėmis perkop­
     davo audeklą ir nutraukdavo žmogaus gyvenimo tėkmę.
-  citata_rodoma: "Kartais vasaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant\nžemės, j puikius slėnius, esančius greta upių ir ežerų. Jeigu tose\nvietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­\nrytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo\nakmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba\nelipsės formą. Gerbėjai jas galėdavo stebėti iš .tam tikro atstumo,\nbet vargas tam, kuris išdrįsdavo prisiartinti — jos be pasigailė­\njimo nužudydavo kiekvieną, kuris įžeisdavo jų garbę."
+  citata_rodoma: |
+    Kartais vasaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant
+    žemės, j puikius slėnius, esančius greta upių ir ežerų. Jeigu tose
+    vietose jų garbintojai nedidelę aikštelę apdėdavo plokščiais, ta­
+    rytum atsisėsti skirtais akmenimis (kiekvienas iš jų turėjo savo
+    akmenį), tas aptvaras įgaudavo taisyklingo stačiakampio arba
+    elipsės formą. Gerbėjai jas galėdavo stebėti iš .tam tikro atstumo,
+    bet vargas tam, kuris išdrįsdavo prisiartinti — jos be pasigailė­
+    jimo nužudydavo kiekvieną, kuris įžeisdavo jų garbę.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

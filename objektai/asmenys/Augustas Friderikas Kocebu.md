@@ -139,8 +139,21 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
     pleatur. Norint deramai suprasti šią vietą, labai svarbu
     tiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,
     kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1.
-  citata_rodoma: "Tam, kad naujiems šio pajūrio miesto\nkolonistams būtų garantuotos pastovios valdos, teisėjų\nvalia sutartyje minimos šios sąlygos: Habebunt etiam\ncives sepedicti medietatem unius tercie partis Sambie,\nque fratres contingit, quam fratribus dividentibus elege­\nrint ipsi cives et in Warmia mansas duo milia et quin­\ngentos a Lemptemburc contra Lipzam mensurandos in\nlitor e in une parte et in altera contra Nat augiam donec\nin ipsa Warmia contique ipsorum mansorum numerus im­\npleatur. Norint deramai suprasti šią vietą, labai svarbu\ntiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,\nkaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­\nme Varmijos vyskupo Anzelmo rašte (Bacho."
+    me Varmijos vyskupo Anzelmo rašte (Bacho.
+  citata_rodoma: |
+    Tam, kad naujiems šio pajūrio miesto
+    kolonistams būtų garantuotos pastovios valdos, teisėjų
+    valia sutartyje minimos šios sąlygos: Habebunt etiam
+    cives sepedicti medietatem unius tercie partis Sambie,
+    que fratres contingit, quam fratribus dividentibus elege­
+    rint ipsi cives et in Warmia mansas duo milia et quin­
+    gentos a Lemptemburc contra Lipzam mensurandos in
+    litor e in une parte et in altera contra Nat augiam donec
+    in ipsa Warmia contique ipsorum mansorum numerus im­
+    pleatur. Norint deramai suprasti šią vietą, labai svarbu
+    tiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,
+    kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
+    me Varmijos vyskupo Anzelmo rašte (Bacho.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -106,7 +106,9 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     1948 m. sunkvežimio netoli Onuškio susprogdinimas su 19 vietinės įgulos
     karių. V. Voveris žuvo 1949 m. MGB užverbuotiems agentams K. Kubilinskui-
     Varnui ir A. Slinkiui-Rytui išdavus Dainavos apygardos vadavietę.
-  citata_rodoma: "V. Voveris žuvo 1949 m. MGB užverbuotiems agentams K. Kubilinskui-\nVarnui ir A. Slinkiui-Rytui išdavus Dainavos apygardos vadavietę."
+  citata_rodoma: |
+    V. Voveris žuvo 1949 m. MGB užverbuotiems agentams K. Kubilinskui-
+    Varnui ir A. Slinkiui-Rytui išdavus Dainavos apygardos vadavietę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -89,7 +89,14 @@ Nenurodyta
     nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
     Laskis.
-  citata_rodoma: "Kilo didelis pavojus karaliaus \nsaugumui, tad Aleksandras, ponų patarimu, kariuomenei \nvadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­\nkiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­\nnių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus \nTaboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas \nLaskis."
+  citata_rodoma: |
+    Kilo didelis pavojus karaliaus
+    saugumui, tad Aleksandras, ponų patarimu, kariuomenei
+    vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­
+    kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­
+    nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
+    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
+    Laskis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -57,8 +57,13 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
 
     Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
     kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
-    jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
-  citata_rodoma: "Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.\n\nValstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja\nkaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-\njomis rezervą ypatinguoju laikotarpiu ar karo metu."
+    jomis rezervą ypatinguoju laikotarpiu ar karo metu.
+  citata_rodoma: |
+    Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
+
+    Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
+    kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
+    jomis rezervą ypatinguoju laikotarpiu ar karo metu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

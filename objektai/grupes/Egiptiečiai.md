@@ -346,7 +346,11 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
         visu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj
         senovėj, nesgi turėjo pažines ir prekiojo ne vien su grekonimis, bet ir su egipčionimis,
         penicijonimis.
-  citata_rodoma: "Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio\nvisu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj\nsenovėj, nesgi turėjo pažines ir prekiojo ne vien su grekonimis, bet ir su egipčionimis,\npenicijonimis."
+  citata_rodoma: |
+    Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio
+    visu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj
+    senovėj, nesgi turėjo pažines ir prekiojo ne vien su grekonimis, bet ir su egipčionimis,
+    penicijonimis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -372,7 +376,20 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
     mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
     kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
     vai išrado tai, ką mes vadiname proto religija.
-  citata_rodoma: "Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų.\nPrieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai\npradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai\nrado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti\nvisose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­\nzacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­\nzuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais\n80\n\n## Puslapis 80\n\npakilo siekti šviesos."
+  citata_rodoma: |
+    Tokia pat dvasia gyveno dau­
+    gybė senųjų Azijos tautų.
+    Prieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai
+    pradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai
+    rado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti
+    visose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­
+    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
+    zuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais
+    80
+
+    ## Puslapis 80
+
+    pakilo siekti šviesos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -396,7 +413,20 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
     dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
     sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
     plaikos kilo mitologija, kurią imamės išdėstyti.
-  citata_rodoma: "Egiptiečiai, giliai nugrimz­\ndę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie\ndangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­\njo asmenų, laikytų nemirtingais, dievinimą. Pagaliau dėl dau-\nAntilucretius. - L. 9. - V. 897.\n83\n\n## Puslapis 83\n\ngybės savo žynių smulkmeniškiausių svarstymų jie ėmė laikyti\ndievybėmis menkiausius daiktus -  net taip, kad tie išminčiai\nįsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­\nčius, šliužus, augalus."
+  citata_rodoma: |
+    Egiptiečiai, giliai nugrimz­
+    dę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie
+    dangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­
+    jo asmenų, laikytų nemirtingais, dievinimą. Pagaliau dėl dau-
+    Antilucretius. - L. 9. - V. 897.
+    83
+
+    ## Puslapis 83
+
+    gybės savo žynių smulkmeniškiausių svarstymų jie ėmė laikyti
+    dievybėmis menkiausius daiktus -  net taip, kad tie išminčiai
+    įsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­
+    čius, šliužus, augalus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -436,7 +466,13 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
     tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
     ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
     mas, mirtis ir amžinybė.
-  citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną."
+  citata_rodoma: |
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -482,7 +518,20 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
     kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
     leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
     apgyventas sodybas.
-  citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
+  citata_rodoma: |
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
+    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
+    kalnai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

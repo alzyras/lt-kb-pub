@@ -63,12 +63,17 @@ Przyczyny wojny , Roczn.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    — Prochaska, A. :
+    :
     _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
     421 p. — (”) _Rok 1410. Przyczyny wojny_ , Roczn. Tow. Nauk w Toruniu,
     t. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von
     Tanneuberg 1410.
-  citata_rodoma: ":\n_Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-\n421 p. — (”) _Rok 1410. Przyczyny wojny_ , Roczn. Tow. Nauk w Toruniu,\nt. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von\nTanneuberg 1410."
+  citata_rodoma: |
+    :
+    _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
+    421 p. — (”) _Rok 1410. Przyczyny wojny_ , Roczn. Tow. Nauk w Toruniu,
+    t. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von
+    Tanneuberg 1410.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

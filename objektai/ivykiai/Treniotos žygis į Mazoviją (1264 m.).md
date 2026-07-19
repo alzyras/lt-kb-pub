@@ -132,7 +132,31 @@ Nenurodyta
     apie valstybės reikalus, o
     slapta su savaisiais regzti
     prieš jį naują sąmokslą.
-  citata_rodoma: "Iš tiesų Treniota vėles­\nnėms kartoms tapo žinomas daugiau dėl to, kad nusi­\nkalstamai\nnužudė\nsavo\ndėdę\nir\nginklu\nužgrobė\nvaldžią, o ne dėl kokių žygdarbių; trumpą jo viešpata­\nvimą, nepraėjus nė metams, nutraukė staigi mirtis; jis\nnuo sosto tapo nustumtas tuo pat būdu, kokiu buvo į\njį užkopęs. Koks žiaurus būtų buvęs krikščionims, jei­\ngu dievai jį būtų laikę gyvą, geriausiai jis parodė\ntada, kai, paėmęs valdžią, pradėjo niokoti Mazoviją.\nTada visi kaimai ligi pat Červinsko buvo sudeginti,\nOršimovo pilis sugriauta, suaugusieji kalaviju, o vai­\nkai liepsnose išžudyti, mote-\n1264 m e ta i\nrys paliktos vergauti bei pri­\ndaryta kitokių nelaimių, ko­\nkių nešykšti žiaurūs nugalėtojai nugalėtiesiems, Livo­\nnijos metraštininkai pasakoja, esą jis nuniokojęs ir\nLivoniją apie Pernu."
+  citata_rodoma: |
+    Iš tiesų Treniota vėles­
+    nėms kartoms tapo žinomas daugiau dėl to, kad nusi­
+    kalstamai
+    nužudė
+    savo
+    dėdę
+    ir
+    ginklu
+    užgrobė
+    valdžią, o ne dėl kokių žygdarbių; trumpą jo viešpata­
+    vimą, nepraėjus nė metams, nutraukė staigi mirtis; jis
+    nuo sosto tapo nustumtas tuo pat būdu, kokiu buvo į
+    jį užkopęs. Koks žiaurus būtų buvęs krikščionims, jei­
+    gu dievai jį būtų laikę gyvą, geriausiai jis parodė
+    tada, kai, paėmęs valdžią, pradėjo niokoti Mazoviją.
+    Tada visi kaimai ligi pat Červinsko buvo sudeginti,
+    Oršimovo pilis sugriauta, suaugusieji kalaviju, o vai­
+    kai liepsnose išžudyti, mote-
+    1264 m e ta i
+    rys paliktos vergauti bei pri­
+    daryta kitokių nelaimių, ko­
+    kių nešykšti žiaurūs nugalėtojai nugalėtiesiems, Livo­
+    nijos metraštininkai pasakoja, esą jis nuniokojęs ir
+    Livoniją apie Pernu.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

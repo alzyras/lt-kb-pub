@@ -481,7 +481,18 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     riai saugojusi lemtį, sergėjo akimirką, kada turėtų pasibaigti žmo­
     gaus gyvybės audimas; kaip mat lemties žirklėmis perkirpdavo
     audeklą ir nutraukdavo žmogaus gyvenimo tėkmę.
-  citata_rodoma: "141\n\n## Puslapis 141\n\nVerpėja (VVerpeja)\nNemarioji žmogaus gyvenimo siūlo verpėja.\nLietuviai pažinojo tiktai vienintelę Parką: apie ją skamba\nliaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,\nbet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­\njau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­\nlą, kuris baigiasi žvaigžde."
+  citata_rodoma: |
+    141
+
+    ## Puslapis 141
+
+    Verpėja (VVerpeja)
+    Nemarioji žmogaus gyvenimo siūlo verpėja.
+    Lietuviai pažinojo tiktai vienintelę Parką: apie ją skamba
+    liaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,
+    bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
+    jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
+    lą, kuris baigiasi žvaigžde.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -506,7 +517,17 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     žįstamos senės, kuri, tarytum būtų atsiųsta antgamtinės jėgos,
     paprastai pasirodydavo kartą per metus, dažniausiai per Ra­
     sos švente, šv. Jono išvakarėse.
-  citata_rodoma: "Ant apvalaus 10 colių skersmens duonos kepalo, apvy­\nnioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai\npanaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta\ndrobe, apačioje perjuosta siaurai susukta spalvota skarele; pati\nfigūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­\nkardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi."
+  citata_rodoma: |
+    Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
+    nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
+    panaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta
+    drobe, apačioje perjuosta siaurai susukta spalvota skarele; pati
+    figūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­
+    kardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia
+    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
+    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
+    tas tas antrasis pavadinimas.
+    Tačiau lietuviams tie du dalykai visiškai skirtingi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -526,7 +547,17 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     Rūpestingai surinkome to pirmykščio kulto liekanas, išli­
     kusias mitologinėse istorijose, padavimuose ir dainose, ir pa­
     gal tai išdėstome tokiu būdu.
-  citata_rodoma: "10*.\n183\n\n## Puslapis 183\n\nLietuvos rusinai pasakoja apie panašias baidykles, turin­\nčias keliamečių vaikų pavidalą, vadindami jas Zlydni. Jos vi­\nsuomet kenkia, o kai įsiskverbia į kieno nors namus, apsiryja\nir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-\ndają -  jos per daug suėda."
+  citata_rodoma: |
+    10*.
+    183
+
+    ## Puslapis 183
+
+    Lietuvos rusinai pasakoja apie panašias baidykles, turin­
+    čias keliamečių vaikų pavidalą, vadindami jas Zlydni. Jos vi­
+    suomet kenkia, o kai įsiskverbia į kieno nors namus, apsiryja
+    ir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-
+    dają -  jos per daug suėda.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -567,7 +598,13 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     dėl augusių juose medžių rūšies, tai jie buvo taip pat iš
     daugiau ar mažiau garbinamų tarpo: pirmenybę turėjo ąžuo-
     ’ Lib.
-  citata_rodoma: "Kal­\nnas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -\nšventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,\nturėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš\nLietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-\nkusi."
+  citata_rodoma: |
+    Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
+    turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
+    Lietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-
+    kusi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -593,7 +630,17 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
     jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
     minti jį apreiškus dievų valią.
-  citata_rodoma: "Žyniai vilkėdavo įpras­\ntu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės\njuosta, kuria apsivyniodavo septynis kartus.\nVeltui Stenderis savo latvių mitologijoje stengiasi išve­\ndžioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­\nvonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­\nba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba\nkrivičių, o to pavadinimo etimologija slavų kalboje gali būti\nkitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo\nkaip ir lietuviai."
+  citata_rodoma: |
+    Žyniai vilkėdavo įpras­
+    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
+    juosta, kuria apsivyniodavo septynis kartus.
+    Veltui Stenderis savo latvių mitologijoje stengiasi išve­
+    džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­
+    vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­
+    ba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba
+    krivičių, o to pavadinimo etimologija slavų kalboje gali būti
+    kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
+    kaip ir lietuviai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -617,7 +664,13 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
     nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy­
     me.
-  citata_rodoma: "Lat­\nvijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.\nVilkolakis (Wilkats)\nLatviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­\nsų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­\nvidonas pridaro neapsakomai daug žalos."
+  citata_rodoma: |
+    Lat­
+    vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
+    Vilkolakis (Wilkats)
+    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
+    sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
+    vidonas pridaro neapsakomai daug žalos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -636,7 +689,13 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     mis. Jį gerdavo šiltą, kaip kavą. Šį gėrimą mini padavimai, o
     senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo­
     niams tai esąs labai stiprinantis dalykas.
-  citata_rodoma: "Tuo klausimu išsamiai įtikina Cac-\nkis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino\nA e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -\nAlus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­\nmi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama\nBier."
+  citata_rodoma: |
+    Tuo klausimu išsamiai įtikina Cac-
+    kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
+    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
+    Alus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­
+    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
+    Bier.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -665,7 +724,13 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     kroninininkus, nes jis po ranka turėjo istorijos šaltinius, kurie bylojo,
     kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
     pasakoti ir daugiau smulkmenų.
-  citata_rodoma: "Tad nedera ir\njų palikti be dėmesio.\nDusburgiečio kronikos žinia apie krivį, pasak Faterio (ci­\ntuota vieta), „paremta veikiau nesusipratimu, kilusiu iš to, kad\ntaip vadinosi rusinai, dar iki šiol latviškai vadinami krieviais“.\nŠį priekaištą vos galima suprasti5."
+  citata_rodoma: |
+    Tad nedera ir
+    jų palikti be dėmesio.
+    Dusburgiečio kronikos žinia apie krivį, pasak Faterio (ci­
+    tuota vieta), „paremta veikiau nesusipratimu, kilusiu iš to, kad
+    taip vadinosi rusinai, dar iki šiol latviškai vadinami krieviais“.
+    Šį priekaištą vos galima suprasti5.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -687,7 +752,14 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
     pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
     buvo deivė, kaip vadinosi vyriausiasis dievas.
-  citata_rodoma: "Slavai garbino tą pačią dievybę, vadindami įvairiais tar­\nmiškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,\nDajebog. Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,\n„Belewitt“**."
+  citata_rodoma: |
+    Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
+    miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
+    Dajebog. Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
+    „Belewitt“**.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -713,7 +785,13 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
     Enėjui Silvijui, arba Pijui II, ir 1432-1439 metais vykusio Bazelio
     bažnytinio susirinkimo šventiesiems tėvams, kuriuo jis atsiskaitė apie
     savo apaštalavimą Lietuvoje 1392 arba 1393 metais.
-  citata_rodoma: "Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­\ntesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­\nnės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o\nkitos dvi -  rusinu, kur jie įprastai atlieka savo apeigas. Rusinai\ntaip pat turi priemiesčiuose dvi šventyklas: vieną mūrinę, kitą\nmedinę."
+  citata_rodoma: |
+    Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
+    tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­
+    nės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o
+    kitos dvi -  rusinu, kur jie įprastai atlieka savo apeigas. Rusinai
+    taip pat turi priemiesčiuose dvi šventyklas: vieną mūrinę, kitą
+    medinę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

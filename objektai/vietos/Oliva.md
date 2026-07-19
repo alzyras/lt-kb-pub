@@ -167,8 +167,20 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     nėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais
     ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
     tautų bendruomenės]. (Slaptasis archyvas, Spinta
-    XI, Nr. 19 ir 20).
-  citata_rodoma: "2) Kurį laiką buvo manoma, kad Gediminas \niš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel- \nplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­\nmus per presentes, eundem prefatum regem quasdam per piures \nmundi partes litteras direxisse, in quibus se cum suis et toto Reg­\nno asseruit baptizari et conjungi velle turbe fidelium populorum \n[Iš neseniai gautų dabartinių dokumentų įsitikinome, kad \ntas pats minėtas karalius po daugelį pasaulio šalių išsiunti­\nnėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais \nir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių \ntautų bendruomenės]. (Slaptasis archyvas, Spinta \nXI, Nr."
+    XI, Nr.
+  citata_rodoma: |
+    2) Kurį laiką buvo manoma, kad Gediminas
+    iš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel-
+    plino 1323 metais praneša popiežiui: Ex nuper actis patefeci­
+    mus per presentes, eundem prefatum regem quasdam per piures
+    mundi partes litteras direxisse, in quibus se cum suis et toto Reg­
+    no asseruit baptizari et conjungi velle turbe fidelium populorum
+    [Iš neseniai gautų dabartinių dokumentų įsitikinome, kad
+    tas pats minėtas karalius po daugelį pasaulio šalių išsiunti­
+    nėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais
+    ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
+    tautų bendruomenės]. (Slaptasis archyvas, Spinta
+    XI, Nr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

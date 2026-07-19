@@ -160,7 +160,11 @@ Nenurodyta
     miniais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-
     kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
     kestį sidabriniais pinigais).
-  citata_rodoma: "Bet, greta visų rinkliavų ūkio produktais ir amatininkų ga-\nminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-\nkėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-\nkestį sidabriniais pinigais)."
+  citata_rodoma: |
+    Bet, greta visų rinkliavų ūkio produktais ir amatininkų ga-
+    miniais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-
+    kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
+    kestį sidabriniais pinigais).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

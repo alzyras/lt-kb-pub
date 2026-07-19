@@ -70,7 +70,11 @@ media_all_json: |-
     jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais),_
     Praeitis, II, 1933, 94-157 p. — Končius, J. : _Vytautas the Great, Grand
     Duke of Lithuania,_ Miami, FI.
-  citata_rodoma: "— (”) _Ghillebert de Lannoy. Dvi\njo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais),_\nPraeitis, II, 1933, 94-157 p. — Končius, J. : _Vytautas the Great, Grand\nDuke of Lithuania,_ Miami, FI."
+  citata_rodoma: |
+    — (”) _Ghillebert de Lannoy. Dvi
+    jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais),_
+    Praeitis, II, 1933, 94-157 p. — Končius, J. : _Vytautas the Great, Grand
+    Duke of Lithuania,_ Miami, FI.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

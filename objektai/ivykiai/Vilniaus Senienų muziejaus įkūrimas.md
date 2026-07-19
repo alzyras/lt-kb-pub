@@ -122,7 +122,7 @@ Tiksli įkūrimo data šioje citatoje nenurodyta. Vieta aiški iš įvykio pavad
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    1855 m., po caro Nikolajaus I mirties ir
+    , po caro Nikolajaus I mirties ir
     XII
 
     ## Puslapis 13
@@ -133,7 +133,18 @@ Tiksli įkūrimo data šioje citatoje nenurodyta. Vieta aiški iš įvykio pavad
     meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
     tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
     institucija, sutelkusi krašto visuomenę.
-  citata_rodoma: ", po caro Nikolajaus I mirties ir\nXII\n\n## Puslapis 13\n\nRusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos. \nCaras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­\nmo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­\nmeninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­\ntyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė \ninstitucija, sutelkusi krašto visuomenę."
+  citata_rodoma: |
+    , po caro Nikolajaus I mirties ir
+    XII
+
+    ## Puslapis 13
+
+    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
+    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
+    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
+    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
+    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
+    institucija, sutelkusi krašto visuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

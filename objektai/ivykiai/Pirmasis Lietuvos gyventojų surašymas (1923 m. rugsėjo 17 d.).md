@@ -127,7 +127,8 @@ Nenurodyta
     jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
     2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,
     žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc. gyventojų.
-  citata_rodoma: "2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,"
+  citata_rodoma: |
+    2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

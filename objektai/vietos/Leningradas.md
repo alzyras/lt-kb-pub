@@ -110,7 +110,12 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
     das 1949.
     GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
     knjazej XIV-XVI vv.
-  citata_rodoma: "Kozlovskij, Kijevas 1868.\nGrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-\ndas 1949.\nGrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych\nknjazej XIV-XVI vv."
+  citata_rodoma: |
+    Kozlovskij, Kijevas 1868.
+    GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-
+    das 1949.
+    GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
+    knjazej XIV-XVI vv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

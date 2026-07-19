@@ -91,7 +91,16 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
     Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
     jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
     uniformų, reikalingos ekipuotės.
-  citata_rodoma: "1919 m. Jesu P k\nvertė trauktis Kolupių kaime, prie vieškelio\niš Kėdainių į Šėtą, buvusią Panevėžio būrio\n\nLIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS\n\nBesikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-\njėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo\nuniformų, reikalingos ekipuotės."
+  citata_rodoma: |
+    1919 m. Jesu P k
+    vertė trauktis Kolupių kaime, prie vieškelio
+    iš Kėdainių į Šėtą, buvusią Panevėžio būrio
+
+    LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS
+
+    Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
+    jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
+    uniformų, reikalingos ekipuotės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

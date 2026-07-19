@@ -90,7 +90,14 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
     pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
     pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
     10.
-  citata_rodoma: "Apie tris saulės spindulius ir kolegijos suskilimą\n\n  1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,\napie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —\npietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai\nstovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,\nrodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija."
+  citata_rodoma: |
+    Apie tris saulės spindulius ir kolegijos suskilimą
+
+      1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
+    apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —
+    pietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai
+    stovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,
+    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

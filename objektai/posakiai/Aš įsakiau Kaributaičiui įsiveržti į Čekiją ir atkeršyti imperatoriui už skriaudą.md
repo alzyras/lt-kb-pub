@@ -129,7 +129,19 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
     kas, tačiau jis, Jogaila, trokšdamas taikos, niekada ne-
     sigriebęs ginklo, kol patys kryžiuočiai savo antpuo­
     liais neparodę, kad jiems visai nerūpinti taika.
-  citata_rodoma: "Jeigu karalius kartais abejojąs dėl impe­\nratoriaus teisingumo, šis mielai atsisakysiąs savo teisių \nir sutiksiąs (karaliui neprieštaraujant), kad ginčą už­\nbaigtų žymiausi Čekijos ir Lenkijos didikai, tinkamai \napsvarstę visą reikalą. Jogaila atsakė visai neseniai pui­\nkiai perpratęs imperatoriaus teisingumą bei palankumą, \nmat šis, išrinktas tarpininku, paskelbęs sprendimą kry­\nžiuočių naudai, pažeisdamas visas moralės normas. \nNors šis sprendimas buvęs ir neteisingas, ir nedraugiš­\nkas, tačiau jis, Jogaila, trokšdamas taikos, niekada ne- \nsigriebęs ginklo, kol patys kryžiuočiai savo antpuo­\nliais neparodę, kad jiems visai nerūpinti taika."
+  citata_rodoma: |
+    Jeigu karalius kartais abejojąs dėl impe­
+    ratoriaus teisingumo, šis mielai atsisakysiąs savo teisių
+    ir sutiksiąs (karaliui neprieštaraujant), kad ginčą už­
+    baigtų žymiausi Čekijos ir Lenkijos didikai, tinkamai
+    apsvarstę visą reikalą. Jogaila atsakė visai neseniai pui­
+    kiai perpratęs imperatoriaus teisingumą bei palankumą,
+    mat šis, išrinktas tarpininku, paskelbęs sprendimą kry­
+    žiuočių naudai, pažeisdamas visas moralės normas.
+    Nors šis sprendimas buvęs ir neteisingas, ir nedraugiš­
+    kas, tačiau jis, Jogaila, trokšdamas taikos, niekada ne-
+    sigriebęs ginklo, kol patys kryžiuočiai savo antpuo­
+    liais neparodę, kad jiems visai nerūpinti taika.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

@@ -179,7 +179,38 @@ Nenurodyta
     kardinolų tarybą, be to, visomis priemonėmis stengė­
     si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke­
     tino palikti savo įpėdiniu.
-  citata_rodoma: "Kunigaikštis Jonas\nOlbrachtas, uoliai vykdyda-\n1489 m eta i\nmas, kas buvo tėvo nurodyta,\nK u n ig a ik štis\nJ o n a s\ngreitai sutelkė Rusioje ir Lie-\nO lb ia c h ta s\nsum u ša\ntuvoje kariuomenę ir, patrau-\nsk itu s\nkęs į priekį su ryžtingiausiais\nvyrais, prie Savranės upės at­\nvirame lauke susikovė su priešu. Gurguolės, saugomos\nnedidelio būrio, lėtai slinko iš paskos. Kovos pradžia\nbuvo gana sunki, nes, neprasidėjus tikroms kautynėms,\nskitai iš tolo juos apšaudė strėlėmis. Štai todėl kuni­\ngaikštis paragino savuosius paspaudus žirgus pentinais\n5 3 5\n\n## Puslapis 534\n\nšuoliais užpulti pagrindines priešų jėgas, susispietu­\nsias apie jų kovos žymenį, ir, neleidžiant šaudyti\niš lankų, priversti kautis kardais. Kariai, nuostabiai\nvikriai įvykdę įsakymą, bemat privertė priešą\" kautis\ntaip, kaip buvo sumanyta, ir susilaukė sėkmės. Priešas\nneilgai atlaikė tirštų eilių antpuolį: išmuštas iš savo\npozicijų, pasitraukė į artimiausias pelkes, daugiau iš\nšio manevro tikėdamasis, nei iš tiesų turėdamas nau­\ndos."
+  citata_rodoma: |
+    Kunigaikštis Jonas
+    Olbrachtas, uoliai vykdyda-
+    1489 m eta i
+    mas, kas buvo tėvo nurodyta,
+    K u n ig a ik štis
+    J o n a s
+    greitai sutelkė Rusioje ir Lie-
+    O lb ia c h ta s
+    sum u ša
+    tuvoje kariuomenę ir, patrau-
+    sk itu s
+    kęs į priekį su ryžtingiausiais
+    vyrais, prie Savranės upės at­
+    virame lauke susikovė su priešu. Gurguolės, saugomos
+    nedidelio būrio, lėtai slinko iš paskos. Kovos pradžia
+    buvo gana sunki, nes, neprasidėjus tikroms kautynėms,
+    skitai iš tolo juos apšaudė strėlėmis. Štai todėl kuni­
+    gaikštis paragino savuosius paspaudus žirgus pentinais
+    5 3 5
+
+    ## Puslapis 534
+
+    šuoliais užpulti pagrindines priešų jėgas, susispietu­
+    sias apie jų kovos žymenį, ir, neleidžiant šaudyti
+    iš lankų, priversti kautis kardais. Kariai, nuostabiai
+    vikriai įvykdę įsakymą, bemat privertė priešą" kautis
+    taip, kaip buvo sumanyta, ir susilaukė sėkmės. Priešas
+    neilgai atlaikė tirštų eilių antpuolį: išmuštas iš savo
+    pozicijų, pasitraukė į artimiausias pelkes, daugiau iš
+    šio manevro tikėdamasis, nei iš tiesų turėdamas nau­
+    dos.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

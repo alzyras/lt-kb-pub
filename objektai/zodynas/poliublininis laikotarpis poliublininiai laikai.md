@@ -181,7 +181,14 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
     niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
     po 1569 metų Liublino unijos.
-  citata_rodoma: ", labiausiai Šapoka tyrinėjo valsty­\nbinius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­\ndamas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į\npoliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę\nstraipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­\nniu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija\npo 1569 metų Liublino unijos."
+  citata_rodoma: |
+    , labiausiai Šapoka tyrinėjo valsty­
+    binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­
+    damas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į
+    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
+    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
+    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
+    po 1569 metų Liublino unijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -202,7 +209,13 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais
     dešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo
     pastebimas savos valstybingumo sąmonės apsilpimas^29.
-  citata_rodoma: "Baigdamas jį Žygimanto Augusto mirtimi\n(1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­\nliublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.\nSavo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais\ndešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo\npastebimas savos valstybingumo sąmonės apsilpimas^29."
+  citata_rodoma: |
+    Baigdamas jį Žygimanto Augusto mirtimi
+    (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
+    liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
+    Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais
+    dešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo
+    pastebimas savos valstybingumo sąmonės apsilpimas^29.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

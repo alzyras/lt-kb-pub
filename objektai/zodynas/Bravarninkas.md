@@ -76,7 +76,8 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
     Čia buvo bravariukas.“
     Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos
     lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
-  citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
+  citata_rodoma: |
+    Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas

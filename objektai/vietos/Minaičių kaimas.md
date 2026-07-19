@@ -92,7 +92,18 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
     nuoliktas - Vakarų Lietuvos srities
     Agitacijos ir propagandos skyriaus
     viršininkas Antanas Liesys-Idenas
-  citata_rodoma: "partizanų vadovybę, pagrindiniu kovos tikslu buvo nurodytas siekis\n\nLietuvos partizanų vadų\nsuvažiavimas. Minaičių kaimas\n(tarp Radviliškio ir Baisogalos),\n1949 m. vasario 11 d. Pakeliui\n\nį suvažiavimą susitikę Vakarų\nLietuvos (Jūros) ir Pietų Lietuvos\n(Nemuno) partizanų atstovai ir\nvadai."
+  citata_rodoma: |
+    partizanų vadovybę, pagrindiniu kovos tikslu buvo nurodytas siekis
+
+    Lietuvos partizanų vadų
+    suvažiavimas. Minaičių kaimas
+    (tarp Radviliškio ir Baisogalos),
+    1949 m. vasario 11 d. Pakeliui
+
+    į suvažiavimą susitikę Vakarų
+    Lietuvos (Jūros) ir Pietų Lietuvos
+    (Nemuno) partizanų atstovai ir
+    vadai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

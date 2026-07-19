@@ -161,7 +161,14 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
     dieną. Kai kurie istorikai, norėdami bent iš dalies suma­
     žinti Teodoriko nusikaltimo dydį, stengiasi įterpti spė­
     jimą, jog Odoakras kėsinęsis į jo gyvybę'.
-  citata_rodoma: "Bet jis, trokšdamas vienvaldystės ir kupi­\nnas juodo pavydo, nepasibjaurėjo netrukus po paliaubų\nsudarymo pažeisti svetingumo taisykles: jis savo ranko­\nmis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai\ngotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­\nna daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5\ndieną."
+  citata_rodoma: |
+    Bet jis, trokšdamas vienvaldystės ir kupi­
+    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
+    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
+    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
+    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
+    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
+    dieną.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

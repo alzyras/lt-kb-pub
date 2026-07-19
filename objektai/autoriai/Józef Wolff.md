@@ -89,7 +89,8 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
     = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
     nius, 1848.
     Wolff = Wolff, Józef, Ród Gediminą. Kraków, 1886.
-  citata_rodoma: "Wolff = Wolff, Józef, Ród Gediminą. Kraków, 1886."
+  citata_rodoma: |
+    Wolff = Wolff, Józef, Ród Gediminą. Kraków, 1886.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -112,7 +113,13 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
     puose 1348 metais pasirodo jau subrendęs vyras ir duktė Rin­
     gailė, ištekėjusi 1392 metais, vadinasi, po 44 metų, — būtų buvę
     gimę iš vienos motinos.
-  citata_rodoma: "Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­\nti ne visų Kęstučio vaikų motina. Istorikas Wolffas sako, esą\nsunku prileisti, kad Kęstučio sūnus Patirgas, kuris istorijos la­\npuose 1348 metais pasirodo jau subrendęs vyras ir duktė Rin­\ngailė, ištekėjusi 1392 metais, vadinasi, po 44 metų, — būtų buvę\ngimę iš vienos motinos."
+  citata_rodoma: |
+    Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
+    ti ne visų Kęstučio vaikų motina. Istorikas Wolffas sako, esą
+    sunku prileisti, kad Kęstučio sūnus Patirgas, kuris istorijos la­
+    puose 1348 metais pasirodo jau subrendęs vyras ir duktė Rin­
+    gailė, ištekėjusi 1392 metais, vadinasi, po 44 metų, — būtų buvę
+    gimę iš vienos motinos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

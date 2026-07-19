@@ -763,7 +763,10 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livo-
     nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
     jungiasi su Baltija.
-  citata_rodoma: "Tam tikslui 1252 m. Livo-\nnijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės\njungiasi su Baltija."
+  citata_rodoma: |
+    Tam tikslui 1252 m. Livo-
+    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
+    jungiasi su Baltija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -786,7 +789,12 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo.
-  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado \nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar \ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
+  citata_rodoma: |
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -811,7 +819,15 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
     roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
     Amelandu.
-  citata_rodoma: "Aes­\ntuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,\nseklias vietas, kurios kartais būva apsemtos, o kartais —\nsausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.\nSala, kurią Plinijus vadina Baltija, remdamasis visais\nHardua rankraščiais ir stebėjimais, turėtų vadintis Basi-\nlia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų\nkelionės nuo sausumos atstumu."
+  citata_rodoma: |
+    Aes­
+    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    seklias vietas, kurios kartais būva apsemtos, o kartais —
+    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
+    kelionės nuo sausumos atstumu.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

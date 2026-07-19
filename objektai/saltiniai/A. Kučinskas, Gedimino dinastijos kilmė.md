@@ -73,7 +73,11 @@ Kučinskas, A.
     A. : _Gedimino dinastijos kilmė,_ atsp. iš Mūsų Žinyno, nr. 107-108, Kaunas
     1934 (Chodynickio ir Zajączkowskio tezės apie Gedimino dinastijos kilmę
     iš Žemaičių).
-  citata_rodoma: "— Kučinskas,\nA. : _Gedimino dinastijos kilmė,_ atsp. iš Mūsų Žinyno, nr. 107-108, Kaunas\n1934 (Chodynickio ir Zajączkowskio tezės apie Gedimino dinastijos kilmę\niš Žemaičių)."
+  citata_rodoma: |
+    — Kučinskas,
+    A. : _Gedimino dinastijos kilmė,_ atsp. iš Mūsų Žinyno, nr. 107-108, Kaunas
+    1934 (Chodynickio ir Zajączkowskio tezės apie Gedimino dinastijos kilmę
+    iš Žemaičių).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

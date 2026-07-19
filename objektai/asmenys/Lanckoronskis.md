@@ -75,7 +75,16 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti valstybę
     kis su sūnumis Jonu bei Aleksandru, kunigaikštis And­
     rius Zbaražskis, Jurgis Radvila ir kiti su trimis tūks­
     tančiais kovotojų, vedamų Konstantino Ostrogiškio.
-  citata_rodoma: "Konstantinas su savaisiais įsitaisė dešiniajame\nsparne, o kairiajame — Mikalojus Kameneckis, rikiuo­\ntės priekyje įsitvirtino algininkai, o į rezervą paskyrė\nbūrius tų bajorų, kurie savo valia iš visur susirinko at­\nremti pavojaus. Vyriausiuoju karvedžiu paliko Lanc-\nkoronskį. Surikiavę jėgas ta tvarka, kad daugiau bu­\nvo paisoma kiekvieno pulko kovinio pajėgumo, nei\nkokio bendro plano, visi laukė mūšio dienos, nė nežino­\ndami, kuria kryptimi priešas pasiryžęs smogti."
+  citata_rodoma: |
+    Konstantinas su savaisiais įsitaisė dešiniajame
+    sparne, o kairiajame — Mikalojus Kameneckis, rikiuo­
+    tės priekyje įsitvirtino algininkai, o į rezervą paskyrė
+    būrius tų bajorų, kurie savo valia iš visur susirinko at­
+    remti pavojaus. Vyriausiuoju karvedžiu paliko Lanc-
+    koronskį. Surikiavę jėgas ta tvarka, kad daugiau bu­
+    vo paisoma kiekvieno pulko kovinio pajėgumo, nei
+    kokio bendro plano, visi laukė mūšio dienos, nė nežino­
+    dami, kuria kryptimi priešas pasiryžęs smogti.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

@@ -80,7 +80,9 @@ media_all_json: |-
     mui ištirti ir pažinti daug naudingiau būtų, jei Narbuto Lietu­
     vos istorijos I-mas tomas su ten esančiais išvedžiojimais kiek
     galima greičiau būtų užmirštas.
-  citata_rodoma: "51 Greimas A. J. Tautos atminties beieškant: apie dievus ir žmo­\nnes. -  Vilnius-Chicago, 1990. -  P. 226."
+  citata_rodoma: |
+    51 Greimas A. J. Tautos atminties beieškant: apie dievus ir žmo­
+    nes. -  Vilnius-Chicago, 1990. -  P. 226.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

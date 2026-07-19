@@ -88,7 +88,8 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
     žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
     tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
     olimpinis čempionas Berlyne su JAV rinktine ir 1939 m.
-  citata_rodoma: "Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,"
+  citata_rodoma: |
+    Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

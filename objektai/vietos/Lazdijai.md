@@ -64,7 +64,10 @@ media_all_json: |-
     nuo savųjų. Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.
     lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
     d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
-  citata_rodoma: "Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.\nlenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4\nd. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį."
+  citata_rodoma: |
+    Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.
+    lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
+    d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

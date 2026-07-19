@@ -149,7 +149,17 @@ Nenurodyta
     tais sumanė ir nutarė — visa tai paliko didelė paslap­
     tis 7, Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
     vą ®, o didysis kunigaikštis Aleksandras — į Vilnių9.
-  citata_rodoma: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 ."
+  citata_rodoma: |
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

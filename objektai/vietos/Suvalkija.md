@@ -79,7 +79,11 @@ media_all_json: |-
     apygardos, vienijusios Suvalkijos re-
     giono antisovietino pasipriešinimo
     dalyvius, vadu.
-  citata_rodoma: "1948 m. spalio 8 d. tapo Tauro\napygardos, vienijusios Suvalkijos re-\ngiono antisovietino pasipriešinimo\ndalyvius, vadu."
+  citata_rodoma: |
+    1948 m. spalio 8 d. tapo Tauro
+    apygardos, vienijusios Suvalkijos re-
+    giono antisovietino pasipriešinimo
+    dalyvius, vadu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

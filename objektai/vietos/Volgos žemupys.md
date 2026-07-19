@@ -88,7 +88,14 @@ Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir aps
     riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
     lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
     sų gatve.
-  citata_rodoma: "Tikras dalykas yra tik tai, kad Arak-\nso upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip\ntik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­\ncijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­\nsigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-\nsas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę."
+  citata_rodoma: |
+    Tikras dalykas yra tik tai, kad Arak-
+    so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
+    tik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­
+    cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
+    sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
+    sas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
+    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

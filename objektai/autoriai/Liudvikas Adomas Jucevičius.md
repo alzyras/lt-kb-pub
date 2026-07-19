@@ -165,8 +165,9 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   puslapiai: "PDF 5"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
   citata_originali: |
-    2 Jucevičius L. Raštai. - V., 1959. - P. 370.
-  citata_rodoma: "2 Jucevičius L. Raštai. -  V., 1959. -  P. 370."
+    2 Jucevičius L. Raštai. -  V., 1959. -  P. 370.
+  citata_rodoma: |
+    2 Jucevičius L. Raštai. -  V., 1959. -  P. 370.
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
@@ -202,7 +203,12 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     Adomas Jucevičius užėmė nemenką „Tygodnik Petersburski“
     (1836. -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­
     rašyti.
-  citata_rodoma: "O taip atsitiktų, jeigu aš pateikčiau il­\ngą legendą apie gegužės pavirtimą, kurio aprašymu ekskunigas\nAdomas Jucevičius užėmė nemenką „Tygodnik Petersburski“\n(1836. -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­\nrašyti."
+  citata_rodoma: |
+    O taip atsitiktų, jeigu aš pateikčiau il­
+    gą legendą apie gegužės pavirtimą, kurio aprašymu ekskunigas
+    Adomas Jucevičius užėmė nemenką „Tygodnik Petersburski“
+    (1836. -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­
+    rašyti.
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
@@ -221,7 +227,12 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
     23 Ks.
-  citata_rodoma: "Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­\ngo Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,\nprie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­\n23 Ks."
+  citata_rodoma: |
+    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
+    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
+    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
+    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
+    23 Ks.
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas

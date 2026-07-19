@@ -158,7 +158,13 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
     pats miesto centras, nedidelis, su mediniais namais, bet su
     tvirtų statinių tvorų ir griovių sutvirtinimais.
-  citata_rodoma: "Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš \nkurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei \nbokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur \nbuvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi \npats miesto centras, nedidelis, su mediniais namais, bet su \ntvirtų statinių tvorų ir griovių sutvirtinimais."
+  citata_rodoma: |
+    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
+    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
+    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
+    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -179,7 +185,15 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ
     1. Aukštutinė pilis ant Tauro* kalno.
     2. Žemutinė, arba Kreivoji pilis.
-  citata_rodoma: "## Puslapis 217\n\nIl KNYGA\nVI\nVILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS,  \nPRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ\n1. Aukštutinė pilis ant Tauro* kalno.\n2. Žemutinė, arba Kreivoji pilis."
+  citata_rodoma: |
+    ## Puslapis 217
+
+    Il KNYGA
+    VI
+    VILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS,
+    PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ
+    1. Aukštutinė pilis ant Tauro* kalno.
+    2. Žemutinė, arba Kreivoji pilis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -211,7 +225,26 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     VILNIAUS MIESTO ISTORIJA / TOMAS
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
-  citata_rodoma: "Paminėsime tad tik \nžymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.\nKitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­\nventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri- \njaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam \nnepanorus mokėti nuo Seversko duoklės kaipo viršesniam \nvaldovui, sumušęs pradinėse kautynėse prie Nedokudo- \nvo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs \npatį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­\ngaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur \ngana ilgai buvo saugomas sargybos, kol, atkakliai prašant \nir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo\n139\n\n## Puslapis 156\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npaleistas ir iš Seversko valstybės, jau prijungtos prie Lie­\ntuvos, perkeltas į Volumes ir Podolės didžiules vaidas55."
+  citata_rodoma: |
+    Paminėsime tad tik
+    žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
+    Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
+    ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
+    jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
+    nepanorus mokėti nuo Seversko duoklės kaipo viršesniam
+    valdovui, sumušęs pradinėse kautynėse prie Nedokudo-
+    vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs
+    patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­
+    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
+    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
+    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
+    139
+
+    ## Puslapis 156
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
+    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -236,7 +269,19 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     tautui tą miestą užėmus, priėmė iš
     šio monarcho jam skirtą valdą - Po-
     lonos miestelį.
-  citata_rodoma: "Prie jos šliejosi \npats miesto centras, nedidelis, su mediniais namais, bet su \ntvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­\nsi gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su \nprekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­\nmi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­\nrūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-\nbuvo prisistatęs Vytautui stovyklo­\nje prie Smolensko su bajorais ir, Vy­\ntautui tą miestą užėmus, priėmė iš \nšio monarcho jam skirtą valdą - Po- \nlonos miestelį."
+  citata_rodoma: |
+    Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
+    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
+    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
+    mi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
+    rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-
+    buvo prisistatęs Vytautui stovyklo­
+    je prie Smolensko su bajorais ir, Vy­
+    tautui tą miestą užėmus, priėmė iš
+    šio monarcho jam skirtą valdą - Po-
+    lonos miestelį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -276,7 +321,34 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     no Vilniumi pagal Vilnios upės vardą.
     h i
     XI Knyga, sk.
-  citata_rodoma: "„Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­\ndeika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas, \nišaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi \napkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­\ntuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­\nbę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks \nšio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­\nkas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro \npilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­\nno Vilniumi pagal Vilnios upės vardą.\nh i\nXI Knyga, sk."
+  citata_rodoma: |
+    „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
+    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
+    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
+    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
+    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
+    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
+    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
+    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
+    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
+    no Vilniumi pagal Vilnios upės vardą.
+    h i
+    XI Knyga, sk.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -299,7 +371,16 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (oz-
     zerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos
     užvertė visas jo brangenybes.
-  citata_rodoma: "Mano Petras negalėjo išsiteirauti apie Švitri­\ngailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila \nsu gausia kariauna, nemažais paramos pulkais ir dauge­\nliu žmonių patraukė. - Praneša man vėliau, kad įvyko griū­\ntis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki\" \npriežasties. Tas kalnas užslinko ant Manvydo rūmo (namo) \nir daug nuostolių pridarė, jo pataurininkis ir rykūnės (oz- \nzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos \nužvertė visas jo brangenybes."
+  citata_rodoma: |
+    Mano Petras negalėjo išsiteirauti apie Švitri­
+    gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila
+    su gausia kariauna, nemažais paramos pulkais ir dauge­
+    liu žmonių patraukė. - Praneša man vėliau, kad įvyko griū­
+    tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki"
+    priežasties. Tas kalnas užslinko ant Manvydo rūmo (namo)
+    ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (oz-
+    zerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos
+    užvertė visas jo brangenybes.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

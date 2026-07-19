@@ -177,7 +177,10 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
     kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
-  citata_rodoma: "Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno\nįpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai."
+  citata_rodoma: |
+    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
+    įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
+    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -197,7 +200,12 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
     Liudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­
     lovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią
     kitame Vislos krante priešais Dobrynę.
-  citata_rodoma: "Tas pats Vladislovas buvo paskirtas\nLenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Kadangi\nLiudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­\nlovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią\nkitame Vislos krante priešais Dobrynę."
+  citata_rodoma: |
+    Tas pats Vladislovas buvo paskirtas
+    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Kadangi
+    Liudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­
+    lovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią
+    kitame Vislos krante priešais Dobrynę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -217,7 +225,9 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
     niekam nereikėjo.
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio.
-  citata_rodoma: "Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno\nįpėdinio."
+  citata_rodoma: |
+    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
+    įpėdinio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

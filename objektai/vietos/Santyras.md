@@ -253,7 +253,16 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
     5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
     pilis — Elbingą ir Baigą.
-  citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip\nkilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo\nlaivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai\nsužalojo."
+  citata_rodoma: |
+    Apie laivų kautynes
+
+       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
+    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
+    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
+    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
+    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
+    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
+    sužalojo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -275,7 +284,13 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
     dovanojęs Gdansko kunigaikštis Mščujus, ketinęs panaudoti cistersų misiją savo
     politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
-  citata_rodoma: "Kristijono misijai padėjo Danijos\nkaraliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui\npripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad\ntai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui\ndovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo\npolitiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas."
+  citata_rodoma: |
+    Kristijono misijai padėjo Danijos
+    karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui
+    pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad
+    tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
+    dovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo
+    politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -293,7 +308,12 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
     ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
     kariuomenės.
-  citata_rodoma: "Sventopelkas su savo kariuomene priėjo\nSantyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,\nkurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė\nir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko\nkariuomenės."
+  citata_rodoma: |
+    Sventopelkas su savo kariuomene priėjo
+    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,
+    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
+    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
+    kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -315,7 +335,17 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
     todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
     puotauti.
-  citata_rodoma: "Apie Marienburgo pilies pastatymą\n\n  1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,\nkur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios\nšlovei bei garbei ji čia ir buvo perkelta500.\n\n\n\n\n    209 (204)."
+  citata_rodoma: |
+    Apie Marienburgo pilies pastatymą
+
+      1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
+    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
+    šlovei bei garbei ji čia ir buvo perkelta500.
+
+
+
+
+        209 (204).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -337,7 +367,15 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą.
-  citata_rodoma: "Kadangi\nklastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali\ndaryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo\ndidžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti\nprieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams\nplaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams\nplaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė\ntraukti su kariuomene į šią vietą."
+  citata_rodoma: |
+    Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

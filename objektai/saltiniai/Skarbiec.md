@@ -81,7 +81,10 @@ A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvi
     birželio 25 d.
     * Pirmasis lenkų seimas Petrakave po Kazimiero vainikavimo
     Lenkijos karaliumi įvyko jau 1447 m. rugpiūčio mėn.
-  citata_rodoma: "A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių \nišvijimų ii  LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Dani- \nlowicz, Skarbiec, 1 1 , Nr. 1883)."
+  citata_rodoma: |
+    A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių
+    išvijimų ii  LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Dani-
+    lowicz, Skarbiec, 1 1 , Nr. 1883).
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

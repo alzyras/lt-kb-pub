@@ -146,7 +146,16 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     genčių; jų kalba buvo labiau gimininga slavų kalbai:
     Slėceris šias dvi kalbas skelbia esant antro giminystės
     laipsnio.
-  citata_rodoma: "Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo\nsu krivičiais, o ne krivičių Smolenską, nes iš daugelio\ntos genties šakų lengvai galėjo atsirasti viena, kuri, kaip\nir Polocko, galėjo būti palankesnė rusams ir prisidėti\nprie Olego.\nBe to, reikia pridurti nors ir nepilną, tačiau Nestoro\nišsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­\njų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių\nmetu rengdavo turnyrus."
+  citata_rodoma: |
+    Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
+    su krivičiais, o ne krivičių Smolenską, nes iš daugelio
+    tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
+    ir Polocko, galėjo būti palankesnė rusams ir prisidėti
+    prie Olego.
+    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
+    išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
+    jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
+    metu rengdavo turnyrus.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -128,7 +128,8 @@ Nenurodyta
     ten krūmai,
     giria ir pelkės, ten miško oras, miško gyventojai: voverys, balandžiai,
     geniai.
-  citata_rodoma: "Vyrai išeina į pievas savaitei: ten guli ir kelia, ugnį kūrena, valgyti verdasi, ten krūmai, giria ir pelkės, ten miško oras, miško gyventojai: voverys, balandžiai, geniai."
+  citata_rodoma: |
+    Vyrai išeina į pievas savaitei: ten guli ir kelia, ugnį kūrena, valgyti verdasi, ten krūmai, giria ir pelkės, ten miško oras, miško gyventojai: voverys, balandžiai, geniai.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -152,7 +153,8 @@ Nenurodyta
     bet,
     deja,
     ne kiekvienas gali tinkamai prirengti dalgį.
-  citata_rodoma: "10. Šienapiūtė. Tinkamai įsitaisyti dalgį šienui piauti turi mokėti kiekvienas kaimo darbininkas, jei jis nenori prašyti kito pagalbos; bet, deja, ne kiekvienas gali tinkamai prirengti dalgį."
+  citata_rodoma: |
+    10. Šienapiūtė. Tinkamai įsitaisyti dalgį šienui piauti turi mokėti kiekvienas kaimo darbininkas, jei jis nenori prašyti kito pagalbos; bet, deja, ne kiekvienas gali tinkamai prirengti dalgį.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -178,7 +180,8 @@ Nenurodyta
     arklius?“
     Mergaitės grėbia, krato, varto, džiovina, daboja ateinantį debesį, į ku­
     pečius deda, dainuškas dainuoja.
-  citata_rodoma: "Mergaitės grėbia, krato, varto, džiovina, daboja ateinantį debesį, į kupečius deda, dainuškas dainuoja."
+  citata_rodoma: |
+    Mergaitės grėbia, krato, varto, džiovina, daboja ateinantį debesį, į kupečius deda, dainuškas dainuoja.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -200,7 +203,8 @@ Nenurodyta
     dalgę.
     Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir
     atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
-  citata_rodoma: "Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose."
+  citata_rodoma: |
+    Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -217,7 +221,8 @@ Nenurodyta
     Po Švento Jono kurį rytą išgirdome šienapiūtės dainą: „Valioi, ma­
     no dalgeli“ . . . Sakome: „Tai dvaro lankas šienauja, metas būtų ir mums
     pradėti, tik praleisime Šventą Petrą“ .
-  citata_rodoma: "Po Švento Jono kurį rytą išgirdome šienapiūtės dainą: „Valioi, mano dalgeli“ . . . Sakome: „Tai dvaro lankas šienauja, metas būtų ir mums pradėti, tik praleisime Šventą Petrą“ ."
+  citata_rodoma: |
+    Po Švento Jono kurį rytą išgirdome šienapiūtės dainą: „Valioi, mano dalgeli“ . . . Sakome: „Tai dvaro lankas šienauja, metas būtų ir mums pradėti, tik praleisime Šventą Petrą“ .
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -237,7 +242,8 @@ Nenurodyta
     puola arklių uodai, ugnies ir vilkai vengia.
     Ryt rytą, kai tik švinta, kinko arklius ir siunčia mergaites su šie­
     nu namo.
-  citata_rodoma: "Ryt rytą, kai tik švinta, kinko arklius ir siunčia mergaites su šienu namo."
+  citata_rodoma: |
+    Ryt rytą, kai tik švinta, kinko arklius ir siunčia mergaites su šienu namo.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
@@ -257,7 +263,8 @@ Nenurodyta
     pririša prie kuolų, ir stovi jie trumpą vasaros naktį.
     Del ugnies ne­
     puola arklių uodai, ugnies ir vilkai vengia.
-  citata_rodoma: "Pavalgius vakarienę, arklius suveda prie ugnies, pririša prie kuolų, ir stovi jie trumpą vasaros naktį. Del ugnies nepuola arklių uodai, ugnies ir vilkai vengia."
+  citata_rodoma: |
+    Pavalgius vakarienę, arklius suveda prie ugnies, pririša prie kuolų, ir stovi jie trumpą vasaros naktį. Del ugnies nepuola arklių uodai, ugnies ir vilkai vengia.
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas

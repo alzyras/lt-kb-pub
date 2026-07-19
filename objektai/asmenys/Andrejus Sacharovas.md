@@ -134,7 +134,10 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: "Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-\nsios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-\ntas valstybes apie žmogaus teisių pažeidimus."
+  citata_rodoma: |
+    Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
+    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
+    tas valstybes apie žmogaus teisių pažeidimus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -155,7 +158,9 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De-
     mokratinės Respublikos vyriausybėms. Memorandumą pasirašė 4 estai,
     6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų.
-  citata_rodoma: "Memorandumą pasirašė 4 estai, \n6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų."
+  citata_rodoma: |
+    Memorandumą pasirašė 4 estai,
+    6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -173,7 +178,11 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
     bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
     mokosi Rusijos ir kitų respublikų demokratai.
-  citata_rodoma: "Po 1991 m. sau-\nsio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir \nbendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių \nmokosi Rusijos ir kitų respublikų demokratai."
+  citata_rodoma: |
+    Po 1991 m. sau-
+    sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
+    bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
+    mokosi Rusijos ir kitų respublikų demokratai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

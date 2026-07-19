@@ -88,7 +88,26 @@ media_all_json: |-
     seime buvo iškelta lietuviškų žemių, ku-
     riose gyvena lietuviai, sujungimo į vieną
     valstybę idėja.
-  citata_rodoma: "pri-\n\nmūsiškiai metėsi durtuvų kautynėms, tai jie turėjo nusilenkti, nes\ntai buvo jiems didelis netikėtumas. „Šturmovcai“ tą savo nepasi-\nsekimą aiškino tuo, kad jie buvo atvežti tiesiog iš bolševikų fronto,\ntai ir puolė tokiu pat būdu kaip ir bolševikus. Sako, jeigu jie būtų\nžinoję, kad lietuviai turi tokią stiprią gynybą, tai būtų bandę pulti\nkeliose vietose ir vis tiek kur nors prasilaužę.“\n\n## Puslapis 213\n\nKLAIPĖDOS SUKILIMAS 1923\n\nLIETUVOS\nRESPUBLIKA\n\nSukilimo priešistorė\n\n1905 m."
+  citata_rodoma: |
+    pri-
+
+    mūsiškiai metėsi durtuvų kautynėms, tai jie turėjo nusilenkti, nes
+    tai buvo jiems didelis netikėtumas. „Šturmovcai“ tą savo nepasi-
+    sekimą aiškino tuo, kad jie buvo atvežti tiesiog iš bolševikų fronto,
+    tai ir puolė tokiu pat būdu kaip ir bolševikus. Sako, jeigu jie būtų
+    žinoję, kad lietuviai turi tokią stiprią gynybą, tai būtų bandę pulti
+    keliose vietose ir vis tiek kur nors prasilaužę.“
+
+    ## Puslapis 213
+
+    KLAIPĖDOS SUKILIMAS 1923
+
+    LIETUVOS
+    RESPUBLIKA
+
+    Sukilimo priešistorė
+
+    1905 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -66,7 +66,14 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     pakliūti tik 3 disidentų atstovai, t. y. po 1 iš Lietuvos, Did-
     lenkių ir Mažlenkių; jų senatorių negalėjo būti nė vieno; jų
     naujai pastatytose bažnyčiose buvo uždrausta skambinti varpais.
-  citata_rodoma: "Buvo patvirtintos 1768 m. vad. kardi-\nnalinės teisės, kurių garantu vėl tapo Rusija ir jos są-\njungininkės. Jose buvo pakeistas tik vienas kitatikius (disi-\ndentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo\npakliūti tik 3 disidentų atstovai, t. y. po 1 iš Lietuvos, Did-\nlenkių ir Mažlenkių; jų senatorių negalėjo būti nė vieno; jų\nnaujai pastatytose bažnyčiose buvo uždrausta skambinti varpais."
+  citata_rodoma: |
+    Buvo patvirtintos 1768 m. vad. kardi-
+    nalinės teisės, kurių garantu vėl tapo Rusija ir jos są-
+    jungininkės. Jose buvo pakeistas tik vienas kitatikius (disi-
+    dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo
+    pakliūti tik 3 disidentų atstovai, t. y. po 1 iš Lietuvos, Did-
+    lenkių ir Mažlenkių; jų senatorių negalėjo būti nė vieno; jų
+    naujai pastatytose bažnyčiose buvo uždrausta skambinti varpais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -88,7 +95,9 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
     kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
     m.
-  citata_rodoma: "Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė\nneklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet"
+  citata_rodoma: |
+    Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė
+    neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

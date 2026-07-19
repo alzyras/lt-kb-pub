@@ -55,10 +55,13 @@ Bertuleit, A.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    — (”) _Tautosaka apie dangų,_ Sodus, Mich. 1951. — Ber-
+    — Ber-
     tuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen
     Parallelen,_ Sitzungsberichte d. Altertumsgesellschaft Prussia, t. 25, 1924.
-  citata_rodoma: "— Ber-\ntuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen\nParallelen,_ Sitzungsberichte d. Altertumsgesellschaft Prussia, t. 25, 1924."
+  citata_rodoma: |
+    — Ber-
+    tuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen
+    Parallelen,_ Sitzungsberichte d. Altertumsgesellschaft Prussia, t. 25, 1924.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

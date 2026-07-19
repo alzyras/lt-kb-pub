@@ -106,7 +106,15 @@ Nenurodyta
     čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
     toro žodžius priskiria poloviečių veiksmams dešiniojoje
     Dnepro pakrantėje.
-  citata_rodoma: "Vadinasi, tokiu pat būdu ten pateko ir\nmasagetai4.\n59\nNaujame pasirinktame krašte budinai indų papročiu\npašventino upę mitiniu Ross vardu, kurį randame šian­\ndienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­\ndis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­\n1 Moralius."
+  citata_rodoma: |
+    Vadinasi, tokiu pat būdu ten pateko ir
+    masagetai4.
+    59
+    Naujame pasirinktame krašte budinai indų papročiu
+    pašventino upę mitiniu Ross vardu, kurį randame šian­
+    dienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­
+    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
+    1 Moralius.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

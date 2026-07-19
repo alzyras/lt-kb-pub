@@ -111,7 +111,11 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
     Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
     o penktas, Petras, — Žemaičių seniūnas.
-  citata_rodoma: "Vienas iš jų, Mykolas, buvo hetmonas ir Vil-\n  niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —\n  Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,\n  o penktas, Petras, — Žemaičių seniūnas."
+  citata_rodoma: |
+    Vienas iš jų, Mykolas, buvo hetmonas ir Vil-
+      niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
+      Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
+      o penktas, Petras, — Žemaičių seniūnas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -131,7 +135,14 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
-  citata_rodoma: "kilo Žemaičių sukilimas, padaręs\nšvedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat\nkovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-\nvusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,\nvadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,\nKristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos\nkariuomenės."
+  citata_rodoma: |
+    kilo Žemaičių sukilimas, padaręs
+    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
+    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
+    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
+    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
+    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
+    kariuomenės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

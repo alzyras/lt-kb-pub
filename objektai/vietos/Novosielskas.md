@@ -59,7 +59,11 @@ media_all_json: |-
     aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
     Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
     kunigaikštijos^2 ).
-  citata_rodoma: "Tuo pat metu jis praplėtė savo valdžią Okos\naukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,\nMcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.\nkunigaikštijos^2 )."
+  citata_rodoma: |
+    Tuo pat metu jis praplėtė savo valdžią Okos
+    aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
+    Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
+    kunigaikštijos^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

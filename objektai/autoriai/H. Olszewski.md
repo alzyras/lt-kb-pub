@@ -49,7 +49,8 @@ Olszewski.
   citata_originali: |
     Ed. M. Šapoka, Vilnius, 2009; H. Olszewski. O skutecznym rad
     sposobie.
-  citata_rodoma: "H. Olszewski. O skutecznym rad"
+  citata_rodoma: |
+    H. Olszewski. O skutecznym rad
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

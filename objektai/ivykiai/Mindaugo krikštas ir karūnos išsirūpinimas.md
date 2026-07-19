@@ -105,7 +105,8 @@ Nenurodyta
     dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
     mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas
     Mindaugo karūnacija.
-  citata_rodoma: "mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas"
+  citata_rodoma: |
+    mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

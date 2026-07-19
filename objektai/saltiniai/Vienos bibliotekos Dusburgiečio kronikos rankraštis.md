@@ -58,7 +58,10 @@ Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėlia
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
     bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
-  citata_rodoma: "viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,\npapildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos\nbibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74."
+  citata_rodoma: |
+    viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
+    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

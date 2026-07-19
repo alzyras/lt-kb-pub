@@ -64,7 +64,8 @@ Dusburgietis teigia, kad pakarklis P.
     Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.
     Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),
     p. 156—164.
-  citata_rodoma: "Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948."
+  citata_rodoma: |
+    Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

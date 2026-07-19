@@ -79,7 +79,8 @@ Dusburgietis teigia, kad didysis prūsų sukilimas (1260—1274).— V., 1959.
   citata_originali: |
     47—66.
     Jasas R. Didysis prūsų sukilimas (1260—1274).— V., 1959.
-  citata_rodoma: "Jasas R. Didysis prūsų sukilimas (1260—1274).— V., 1959."
+  citata_rodoma: |
+    Jasas R. Didysis prūsų sukilimas (1260—1274).— V., 1959.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

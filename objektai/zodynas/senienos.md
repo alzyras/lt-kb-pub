@@ -179,7 +179,12 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
     sumaištys, dar pragaištingesni gaisrai, religijų ir civili­
     nių organizacijų kaita greta visuotinės tamsos nugramz­
     dino mūsų tėvynės praeitį į neperžvelgiamą debesį.
-  citata_rodoma: "Be to, dažnai esti, kad neįmanoma išlaikyti nepertrau­\nkiamą įvykių seką, ypač tuomet, kai labiau gilinamės į\npraeitį. O ir tas, kuris susipažino su priešistorinės seno­\nvės epochomis, apiplėštomis įvairių senienų epochomis,\nko kito galėtų geisti?"
+  citata_rodoma: |
+    Be to, dažnai esti, kad neįmanoma išlaikyti nepertrau­
+    kiamą įvykių seką, ypač tuomet, kai labiau gilinamės į
+    praeitį. O ir tas, kuris susipažino su priešistorinės seno­
+    vės epochomis, apiplėštomis įvairių senienų epochomis,
+    ko kito galėtų geisti?
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -210,7 +215,13 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
     vo tūkstančiai vertingiausių senienų, tad pats laikas, kad
     pasistengtume išgelbėti tai, ką žino mūsų atmintis ir ro­
     do stebėjimai;.
-  citata_rodoma: "Priešistorinio laiko tėkmė, žmonių užmarštis, ra­\nšytojų nerūpestingumas arba nepakankamas išsilavi­\nnimas jau pakankamai ilgai valdė Siaurės pasaulį: pražu­\nvo tūkstančiai vertingiausių senienų, tad pats laikas, kad\npasistengtume išgelbėti tai, ką žino mūsų atmintis ir ro­\ndo stebėjimai;."
+  citata_rodoma: |
+    Priešistorinio laiko tėkmė, žmonių užmarštis, ra­
+    šytojų nerūpestingumas arba nepakankamas išsilavi­
+    nimas jau pakankamai ilgai valdė Siaurės pasaulį: pražu­
+    vo tūkstančiai vertingiausių senienų, tad pats laikas, kad
+    pasistengtume išgelbėti tai, ką žino mūsų atmintis ir ro­
+    do stebėjimai;.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -236,7 +247,13 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
     tam tikriems dalykams, pačios senienos, užuominos ir
     išlikusios žinios, jei jos nėra prieštaringos, tėra vienin­
     telis istorijos pagrindas“.
-  citata_rodoma: "„Tamsiose epochose menkiausias spindulė­\nlis turi pavaduoti ryškią saulę: kur stigo amžininkų ra­\nšytojų, o keliais amžiais vėlesni savo raštus skyrė tik\ntam tikriems dalykams, pačios senienos, užuominos ir\nišlikusios žinios, jei jos nėra prieštaringos, tėra vienin­\ntelis istorijos pagrindas“."
+  citata_rodoma: |
+    „Tamsiose epochose menkiausias spindulė­
+    lis turi pavaduoti ryškią saulę: kur stigo amžininkų ra­
+    šytojų, o keliais amžiais vėlesni savo raštus skyrė tik
+    tam tikriems dalykams, pačios senienos, užuominos ir
+    išlikusios žinios, jei jos nėra prieštaringos, tėra vienin­
+    telis istorijos pagrindas“.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -263,7 +280,15 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
     tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
     tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
     pusiausvyros metas.
-  citata_rodoma: "Todėl ir paliko­\nme jiems kuklų istorijos* pavadinimą.\n4\nBe to, dažnai esti, kad neįmanoma išlaikyti nepertrau­\nkiamą įvykių seką, ypač tuomet, kai labiau gilinamės į\npraeitį. O ir tas, kuris susipažino su priešistorinės seno­\nvės epochomis, apiplėštomis įvairių senienų epochomis,\nko kito galėtų geisti?"
+  citata_rodoma: |
+    Todėl ir paliko­
+    me jiems kuklų istorijos* pavadinimą.
+    4
+    Be to, dažnai esti, kad neįmanoma išlaikyti nepertrau­
+    kiamą įvykių seką, ypač tuomet, kai labiau gilinamės į
+    praeitį. O ir tas, kuris susipažino su priešistorinės seno­
+    vės epochomis, apiplėštomis įvairių senienų epochomis,
+    ko kito galėtų geisti?
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

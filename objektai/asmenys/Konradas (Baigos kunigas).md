@@ -82,7 +82,13 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
     darbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos
     sūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais
     ir padėjau ten, kur jam dera būti“. Sitai pasakęs, laimingai atidavė viešpačiui sielą.
-  citata_rodoma: "Mirties patale gulėdamas, jis, paklaustas\nbrolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti\nKristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną\ndarbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos\nsūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais\nir padėjau ten, kur jam dera būti“."
+  citata_rodoma: |
+    Mirties patale gulėdamas, jis, paklaustas
+    brolio Konrado, Baigos kunigo, kodėl susilaukęs iš viešpaties šitokios malonės įtikėti
+    Kristumi, atsakė: „Prieš savo atsivertimą nieko gera nesu padaręs, gal tik tą vienui vieną
+    darbą, kad, netikėliams pagrobus Lenkijoje švenčiausiosios mergelės Marijos bei jos
+    sūnaus paveikslą ir jį pusiau perpjovus, pakėliau jį nuo žemės, nuvaliau savo drabužiais
+    ir padėjau ten, kur jam dera būti“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

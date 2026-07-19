@@ -84,7 +84,12 @@ Nenurodyta
     tuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.
     — apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių
     kunigų).
-  citata_rodoma: "Parapijų skai-\nčius nepaprastai greit išaugo. 1889 m. buvo įkurta pirmoji lie-\ntuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.\n— apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių\nkunigų)."
+  citata_rodoma: |
+    Parapijų skai-
+    čius nepaprastai greit išaugo. 1889 m. buvo įkurta pirmoji lie-
+    tuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.
+    — apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių
+    kunigų).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

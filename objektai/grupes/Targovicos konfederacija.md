@@ -120,7 +120,13 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
     savo centru paskelbė Gardiną.
-  citata_rodoma: "Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y. \nLietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas \nSimonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis \nir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus \nkonfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir \nsavo centru paskelbė Gardiną."
+  citata_rodoma: |
+    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
+    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
+    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+    ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
+    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
+    savo centru paskelbė Gardiną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -145,7 +151,11 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: "Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos \nvyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-\nlio 28 dieną."
+  citata_rodoma: |
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

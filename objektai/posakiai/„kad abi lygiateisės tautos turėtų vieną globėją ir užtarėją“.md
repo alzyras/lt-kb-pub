@@ -58,7 +58,8 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
     turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
     kur anksčiau degė pagonių amžinoji ugnis.
-  citata_rodoma: "švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos"
+  citata_rodoma: |
+    švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

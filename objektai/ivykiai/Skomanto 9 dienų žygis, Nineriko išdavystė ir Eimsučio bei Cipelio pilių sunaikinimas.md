@@ -162,7 +162,17 @@ Nenurodyta
     Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
     antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė
     visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė į nelaisvę.
-  citata_rodoma: "Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,\n                            būtent: Eimsutis ir dar viena\n\n  Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas\nsiaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas\nkarys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.\nKai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei\nantrą kartą papūtė savo ragą, duodamas sutartą ženklą. Šitai išgirdę, siaubo apimti\nmiestiečiai sugavo šį karį ir, patyrę, jog jis tikrai norėjęs juos išduoti, pakorė ties miesto\nvartais jį patį, jo sūnų ir vieną jo tarną."
+  citata_rodoma: |
+    Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
+                                būtent: Eimsutis ir dar viena
+
+      Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
+    siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas
+    karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
+    Kai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei
+    antrą kartą papūtė savo ragą, duodamas sutartą ženklą. Šitai išgirdę, siaubo apimti
+    miestiečiai sugavo šį karį ir, patyrę, jog jis tikrai norėjęs juos išduoti, pakorė ties miesto
+    vartais jį patį, jo sūnų ir vieną jo tarną.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

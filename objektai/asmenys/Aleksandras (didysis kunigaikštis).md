@@ -98,7 +98,12 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
-  citata_rodoma: "Renesansas ir reformacija\nHumanistinio išsilavinimo žmonių būta jau XV–XVI a. \nsandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko \nŽygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą \n(Bona Sforza)."
+  citata_rodoma: |
+    Renesansas ir reformacija
+    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
+    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
+    (Bona Sforza).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -118,7 +123,10 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
-  citata_rodoma: "Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos\n  ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be\n  atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų."
+  citata_rodoma: |
+    Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
+      ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
+      atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +146,8 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     Albrechtas, buvo tėvo įpėdinis — Lenkų karalius, o sūnus Alek-
     sandras — didysis Lietuvos kunigaikštis. Jonui Albrechtui mirus,
     Aleksandras buvo išrinktas ir Lenkų karalium.
-  citata_rodoma: "Jonui Albrechtui mirus, Aleksandras buvo išrinktas ir Lenkų karalium."
+  citata_rodoma: |
+    Jonui Albrechtui mirus, Aleksandras buvo išrinktas ir Lenkų karalium.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -64,7 +64,11 @@ Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kreme
     imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų
     kunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,
     juos sutaikino Jadvyga.
-  citata_rodoma: "Vytautas pasižadėjo padėti Skirgailai pa­\nimti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų\nkunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,\njuos sutaikino Jadvyga."
+  citata_rodoma: |
+    Vytautas pasižadėjo padėti Skirgailai pa­
+    imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų
+    kunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,
+    juos sutaikino Jadvyga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

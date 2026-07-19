@@ -119,7 +119,24 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
     Jonas sutiko dalyvauti tame žygyje, nes turėjo kovoti
     prieš brolį ir jam kenkti; šį kartą, beje, jam dar prasčiau
     pasisekė nei prieš metus.
-  citata_rodoma: "Apie šiuos susitarimus karalius nieko nežinojo, mat\ntuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.\nSusirinko gausybė didikų, ypač daug — iš Seversko že­\nmės, nes visus juos baugino\nSeversko\nku n igaikš-\ndėl pavojingo artumo kaimy-\nčiai\natsiskiria\nnuo\nninės Maskvos galybė ir ver-\nL ie tu v o s\ntė labiau rūpintis valstybe,\nkuri iro, patirdama vieną nuo­\nstolį po kito. Visi ketino senate sutartinai paraginti ir\nšiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti\ntos žemės gynyba."
+  citata_rodoma: |
+    Apie šiuos susitarimus karalius nieko nežinojo, mat
+    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
+    Susirinko gausybė didikų, ypač daug — iš Seversko že­
+    mės, nes visus juos baugino
+    Seversko
+    ku n igaikš-
+    dėl pavojingo artumo kaimy-
+    čiai
+    atsiskiria
+    nuo
+    ninės Maskvos galybė ir ver-
+    L ie tu v o s
+    tė labiau rūpintis valstybe,
+    kuri iro, patirdama vieną nuo­
+    stolį po kito. Visi ketino senate sutartinai paraginti ir
+    šiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti
+    tos žemės gynyba.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

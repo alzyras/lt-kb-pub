@@ -59,7 +59,11 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
     mes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­
     tu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje
     nuspręsite, bus ir įvykdyta^2 ).
-  citata_rodoma: "Tą\nmes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­\ntu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje\nnuspręsite, bus ir įvykdyta^2 )."
+  citata_rodoma: |
+    Tą
+    mes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­
+    tu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje
+    nuspręsite, bus ir įvykdyta^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

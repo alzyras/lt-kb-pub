@@ -78,7 +78,8 @@ media_all_json: |-
     dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
     Lietuvoje delegatai. Kulminacinis suvažiavimo įvykis buvo rezoliucijos
     dėl politinės autonomijos Lietuvai suteikimo priėmimas.
-  citata_rodoma: "dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos"
+  citata_rodoma: |
+    dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -96,7 +97,8 @@ media_all_json: |-
     sio Juzefo Pilsudskio (Józef Piłsudski) vadovaujama Lenkų socialistų par-
     tija. J. Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją
     šalininkai, nevengę ir teroristinių veiksmų.
-  citata_rodoma: "tija. J. Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją"
+  citata_rodoma: |
+    tija. J. Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

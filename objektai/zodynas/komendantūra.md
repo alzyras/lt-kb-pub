@@ -89,7 +89,10 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
     sybės protestai nieko negelbėjo. Turėdami stiprią pajėgą, ber-
     montininkai nuginklavę išvaikė ten buvusias Lietuvos komen-
     dantūras ir ėmė vieni šeimininkauti.
-  citata_rodoma: "Turėdami stiprią pajėgą, ber-\nmontininkai nuginklavę išvaikė ten buvusias Lietuvos komen-\ndantūras ir ėmė vieni šeimininkauti."
+  citata_rodoma: |
+    Turėdami stiprią pajėgą, ber-
+    montininkai nuginklavę išvaikė ten buvusias Lietuvos komen-
+    dantūras ir ėmė vieni šeimininkauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

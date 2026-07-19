@@ -67,7 +67,12 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
         išeiti ir lauke su neprieteliais grumtis, kuriems išėjus, tuojau, pilies angas užrakinusios, lipo pačios ant
         pilies sienų ir nuo tenai vylyčias ir akmenis svaidė ant neprietelių, pasieniuose su vyrais kariaujančių,
         it krušą bėrė.
-  citata_rodoma: "Čia gana bus tiktai priminti narsybę Naujapilės Lotriškųjų. Kad metuose 1276 meldžionų vokiečiai, gudai ir Lotoriai susitarę visą Lietuvą ir Žemaičius taip nusiaubė, jog plėnys vienos ant degėsių tyruose jau lakstė, vienok, ir tuo dar nesikakindami, norėjo į Naujapilę įsilaužti, bet tenai motriškosios,\nnenusiminusios ta rūsta diena savo ūkės, artinantis neprieteliams pilin, liepė savo vyrams iš pilies\nišeiti ir lauke su neprieteliais grumtis, kuriems išėjus, tuojau, pilies angas užrakinusios, lipo pačios ant\npilies sienų ir nuo tenai vylyčias ir akmenis svaidė ant neprietelių, pasieniuose su vyrais kariaujančių,\nit krušą bėrė."
+  citata_rodoma: |
+    Čia gana bus tiktai priminti narsybę Naujapilės Lotriškųjų. Kad metuose 1276 meldžionų vokiečiai, gudai ir Lotoriai susitarę visą Lietuvą ir Žemaičius taip nusiaubė, jog plėnys vienos ant degėsių tyruose jau lakstė, vienok, ir tuo dar nesikakindami, norėjo į Naujapilę įsilaužti, bet tenai motriškosios,
+    nenusiminusios ta rūsta diena savo ūkės, artinantis neprieteliams pilin, liepė savo vyrams iš pilies
+    išeiti ir lauke su neprieteliais grumtis, kuriems išėjus, tuojau, pilies angas užrakinusios, lipo pačios ant
+    pilies sienų ir nuo tenai vylyčias ir akmenis svaidė ant neprietelių, pasieniuose su vyrais kariaujančių,
+    it krušą bėrė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

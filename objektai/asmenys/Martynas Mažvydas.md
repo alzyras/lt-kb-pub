@@ -109,7 +109,10 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
     gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
     dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.
-  citata_rodoma: "Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-\ngai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-\ndintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai."
+  citata_rodoma: |
+    Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
+    gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
+    dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -134,7 +137,8 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
     programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
     tekizmą“.
-  citata_rodoma: "maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų"
+  citata_rodoma: |
+    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -155,7 +159,8 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi
     pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
     ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
-  citata_rodoma: "pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau"
+  citata_rodoma: |
+    pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

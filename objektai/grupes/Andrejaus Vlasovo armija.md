@@ -60,7 +60,8 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     turto – namų, inventoriaus, brangenybių, patalynės, drabužių. Akcijose
     prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
     jos dalinius, ukrainiečių, latvių policijos batalionus.
-  citata_rodoma: "prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-"
+  citata_rodoma: |
+    prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

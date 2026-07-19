@@ -165,7 +165,11 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
     ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
     arkikatedrą.
-  citata_rodoma: "Spalio 21 dieną LKP CK pirmuoju sekre-\ntoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, \nypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus \narkikatedrą."
+  citata_rodoma: |
+    Spalio 21 dieną LKP CK pirmuoju sekre-
+    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
+    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
+    arkikatedrą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -191,7 +195,13 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
     Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
     metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: "Pir-\nminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo \nsėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.\nPopiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos \nRespublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas \nmetropolitas Audrys Juozas Bačkis."
+  citata_rodoma: |
+    Pir-
+    minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
+    sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
+    Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
+    Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
+    metropolitas Audrys Juozas Bačkis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -210,7 +220,11 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
     dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
     prie Partnerystės taikos labui iniciatyvos.
-  citata_rodoma: "1994 m. sausį Lietuvos Res-\npublikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-\ntoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-\ndauja tapti šios organizacijos nare."
+  citata_rodoma: |
+    1994 m. sausį Lietuvos Res-
+    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
+    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
+    dauja tapti šios organizacijos nare.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -81,7 +81,12 @@ Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska
     Komovės šventykloje.
     Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
     lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
-  citata_rodoma: "Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­\nmę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-\nronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­\ndina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­\nnis pavadinimas."
+  citata_rodoma: |
+    Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
+    mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-
+    ronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­
+    dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­
+    nis pavadinimas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

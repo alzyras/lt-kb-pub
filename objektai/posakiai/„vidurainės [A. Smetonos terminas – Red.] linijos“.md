@@ -81,7 +81,19 @@ Smetona stengėsi laikytis „vidurainės [A.
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     159
     Lenkiją.
-  citata_rodoma: "Pasirodė, kad jis neturėjo naujų užsienio politikos idė-\njų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas – \nRed.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe. \nA. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-\ngai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina \nper Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš \nVII Lietuvos žemės ūkio  ir pramonės parodos lankytojai  \n(Kaunas, 1928 m.)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n159\nLenkiją."
+  citata_rodoma: |
+    Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
+    jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
+    Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
+    A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-
+    gai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina
+    per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš
+    VII Lietuvos žemės ūkio  ir pramonės parodos lankytojai
+    (Kaunas, 1928 m.)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    159
+    Lenkiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

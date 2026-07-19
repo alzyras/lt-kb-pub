@@ -80,7 +80,15 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
     visos Europos riterijos žiedas; apie nieką kita jie ne­
     svajojo, apie nieką kita nekalbėjo, tik apie Lietuvos
     sunaikinimą.
-  citata_rodoma: "Atvyko į\npagalbą danai, vedami senų karo vadų. Išsirengė į ka­\nrą Prūsijos magistras Henrikas ir Livonijos magistras\nBurchardas Harenas su savo ordino riteriais bei ka­\nriais iš Prūsijos ir Livonijos. Į karą traukė iš tiesų\nvisos Europos riterijos žiedas; apie nieką kita jie ne­\nsvajojo, apie nieką kita nekalbėjo, tik apie Lietuvos\nsunaikinimą."
+  citata_rodoma: |
+    Atvyko į
+    pagalbą danai, vedami senų karo vadų. Išsirengė į ka­
+    rą Prūsijos magistras Henrikas ir Livonijos magistras
+    Burchardas Harenas su savo ordino riteriais bei ka­
+    riais iš Prūsijos ir Livonijos. Į karą traukė iš tiesų
+    visos Europos riterijos žiedas; apie nieką kita jie ne­
+    svajojo, apie nieką kita nekalbėjo, tik apie Lietuvos
+    sunaikinimą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

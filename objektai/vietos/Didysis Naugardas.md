@@ -620,7 +620,12 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
     vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
     kurių žemės vėl būdavo užkariaujamos.
-  citata_rodoma: "Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­\nvo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,\nkurių žemės vėl būdavo užkariaujamos."
+  citata_rodoma: |
+    Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
+    vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
+    kurių žemės vėl būdavo užkariaujamos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -642,7 +647,12 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60. Nors Salyno
     ir Raciąžo aktais Pskovas buvo buvęs garantuotas ordino įtakai,
     Vytautas su Pskovu 1409 m. vasarą padarė sau naudingą taiką.
-  citata_rodoma: "Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­\ntaikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,\nVytautas grąžino sau ištikimą Lengvenį Algirdaitį^60. Nors Salyno\nir Raciąžo aktais Pskovas buvo buvęs garantuotas ordino įtakai,\nVytautas su Pskovu 1409 m."
+  citata_rodoma: |
+    Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­
+    taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,
+    Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60. Nors Salyno
+    ir Raciąžo aktais Pskovas buvo buvęs garantuotas ordino įtakai,
+    Vytautas su Pskovu 1409 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -685,7 +695,15 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     Naugardu, Pskovu, Mozūrija, Odojevo ir
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais. Tuo tarpu Jogailos\nLenkijos santykiai su Ordinu aštrėjo."
+  citata_rodoma: |
+    Gegužės 15 d.
+
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais. Tuo tarpu Jogailos
+    Lenkijos santykiai su Ordinu aštrėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -723,7 +741,12 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     tis buvo aną žymiąją respubliką prisiskyręs savo politikos sferon,
     bet po Vorsloos turėjo laikinai atsisakyti savo politinių siekimų,
     duodamas formalų pažadą^45.
-  citata_rodoma: "Didysis Naugardas netrukus išslydo iš Vytauto\nįtakos. Per «amžinąją taiką» (1398) su vokiečių ordinu, Kęstutai­\ntis buvo aną žymiąją respubliką prisiskyręs savo politikos sferon,\nbet po Vorsloos turėjo laikinai atsisakyti savo politinių siekimų,\nduodamas formalų pažadą^45."
+  citata_rodoma: |
+    Didysis Naugardas netrukus išslydo iš Vytauto
+    įtakos. Per «amžinąją taiką» (1398) su vokiečių ordinu, Kęstutai­
+    tis buvo aną žymiąją respubliką prisiskyręs savo politikos sferon,
+    bet po Vorsloos turėjo laikinai atsisakyti savo politinių siekimų,
+    duodamas formalų pažadą^45.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -743,7 +766,11 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
-  citata_rodoma: "Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:\nMaskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-\ntuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai\npasirinkti sau globą."
+  citata_rodoma: |
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
+    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
+    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
+    pasirinkti sau globą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -764,7 +791,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     atiduotos valdyti Algirdo sūnums ar brolėnams.
     Algirdo įtaka šiaurėje siekė net Pskovo ir D.Nau-
     gardo miestų respublikas.
-  citata_rodoma: "Algirdo įtaka šiaurėje siekė net Pskovo ir D.Nau-\ngardo miestų respublikas."
+  citata_rodoma: |
+    Algirdo įtaka šiaurėje siekė net Pskovo ir D.Nau-
+    gardo miestų respublikas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -784,7 +813,12 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
     chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
     10.000 rublių kontribucijos (1428).
-  citata_rodoma: "Yra žinoma, kad jis, kariaudamas su Pskovu, pa­\nsitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,\no už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10.000 rublių kontribucijos (1428)."
+  citata_rodoma: |
+    Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
+    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
+    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -810,7 +844,15 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
     pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
-  citata_rodoma: "Tik tada Švitrigaila\nenergingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo\npasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­\nmomis vasario dienomis sudarė su juo sutartį, kuria buvo ga­\nrantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų\nVilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo\npasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos\nir rusų miestų, su kuriais buvo prekiaujama nuo seno."
+  citata_rodoma: |
+    Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -829,7 +871,10 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas
     namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
     pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
-  citata_rodoma: "Grįžimas \nnamo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – \npajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.)."
+  citata_rodoma: |
+    Grįžimas
+    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
+    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -874,7 +919,21 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     tymo. Mechovita sako: „... linguagium Lithuanicum est quadri­
     partitum: primum linguagium est Iaczuingomm, ut horum qui
     circa castrum Drochicin inhabitarunt, et pauci supemint.
-  citata_rodoma: "Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę. Vėliau iš skandinavų legendų arba iš gana\nfragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­\nvusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,\nkad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­\njo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius\ndėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai\nmokėjo gana neblogai gintis."
+  citata_rodoma: |
+    Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
+    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
+    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
+    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
+    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
+    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
+    mokėjo gana neblogai gintis.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

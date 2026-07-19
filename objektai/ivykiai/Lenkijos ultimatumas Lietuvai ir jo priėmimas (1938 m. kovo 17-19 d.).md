@@ -139,7 +139,12 @@ Nenurodyta
     triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
     reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
     atsakymą, nes kitaip bus blogai – suprask – kils karas.
-  citata_rodoma: "Nors per panašius incidentus lenkai buvo nu-\nšovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-\ntriją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,\nreikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą\natsakymą, nes kitaip bus blogai – suprask – kils karas."
+  citata_rodoma: |
+    Nors per panašius incidentus lenkai buvo nu-
+    šovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-
+    triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
+    reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
+    atsakymą, nes kitaip bus blogai – suprask – kils karas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -160,7 +165,10 @@ Nenurodyta
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
     santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
     Kaunui sakė Maskva ir Berlynas.
-  citata_rodoma: "Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti\nsantykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį\nKaunui sakė Maskva ir Berlynas."
+  citata_rodoma: |
+    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
+    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
+    Kaunui sakė Maskva ir Berlynas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -182,7 +190,13 @@ Nenurodyta
     turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
     Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
     Lietuvos bendradarbiavimas nesusiklostė.
-  citata_rodoma: "Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko\nliautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-\ntinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių\nturėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų\nVilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir\nLietuvos bendradarbiavimas nesusiklostė."
+  citata_rodoma: |
+    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
+    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
+    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
+    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
+    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Lietuvos bendradarbiavimas nesusiklostė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -268,7 +268,12 @@ media_all_json: |-
     kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
     šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
     ris dėl to iki šiol neprarado gydomojo poveikio.
-  citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
+  citata_rodoma: |
+    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
+    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
+    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
+    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
+    vieną šventę, ypač per šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -304,7 +309,12 @@ media_all_json: |-
     je1. Jordanas mini, jog herulams atiteko germanų genčių
     paliktos ir slavų dar neužimtos žemės2. Yra ir vėlesnių
     istorikų tikslesnių teiginių šiuo atžvilgiu.
-  citata_rodoma: "Sis didelis kraštas kiek vėliau buvo vadinamas Vilkija; \nlietuvių kalba reiškia didelį. Vyskupas Enodijus liudija, \njog herulai įsikūrė tarp saksų ir slavų amžiaus pabaigo­\nje1. Jordanas mini, jog herulams atiteko germanų genčių \npaliktos ir slavų dar neužimtos žemės2."
+  citata_rodoma: |
+    Sis didelis kraštas kiek vėliau buvo vadinamas Vilkija;
+    lietuvių kalba reiškia didelį. Vyskupas Enodijus liudija,
+    jog herulai įsikūrė tarp saksų ir slavų amžiaus pabaigo­
+    je1. Jordanas mini, jog herulams atiteko germanų genčių
+    paliktos ir slavų dar neužimtos žemės2.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -333,7 +343,17 @@ media_all_json: |-
     ir čia įamžinti savo kolonijų pavadinimus, kai jas po
     minėtų metų išstūmė slavai liutičiai, nuo kurių ir šian­
     dien šis kraštas vadinamas Lužica2.
-  citata_rodoma: "Veltui kai kurie istorijos tyrinėtojai šį pavadini­\nmą kildina iš slavų žodžio Wilk, nes lotynų kronikose\nrandamas šio krašto gyventojų pavadinimas Vilei. Iš tik­\nrųjų nebuvo jokios vilkų genties, bet buvo herulų Vilkijos\nkraštas, Didžioji Herulija, dėl ko ir tenykščiai slavai,\nįsikūrę po herulų ir maždaug apie 580 metus išstūmę iš\njos ankstesnius gyventojus, buvo vadinami vilkijais arba\nvilkais1. Be to, pačioje Lietuvoje yra panašiai vadinamų\nvalsčių ir netgi ne vienoje vietoje; lietuvių geografijoje\nžinomi Vilkija, Vilkai, Vilkiškės."
+  citata_rodoma: |
+    Veltui kai kurie istorijos tyrinėtojai šį pavadini­
+    mą kildina iš slavų žodžio Wilk, nes lotynų kronikose
+    randamas šio krašto gyventojų pavadinimas Vilei. Iš tik­
+    rųjų nebuvo jokios vilkų genties, bet buvo herulų Vilkijos
+    kraštas, Didžioji Herulija, dėl ko ir tenykščiai slavai,
+    įsikūrę po herulų ir maždaug apie 580 metus išstūmę iš
+    jos ankstesnius gyventojus, buvo vadinami vilkijais arba
+    vilkais1. Be to, pačioje Lietuvoje yra panašiai vadinamų
+    valsčių ir netgi ne vienoje vietoje; lietuvių geografijoje
+    žinomi Vilkija, Vilkai, Vilkiškės.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

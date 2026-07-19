@@ -78,7 +78,15 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     apie artėjančius lietuvius, jis buvo privers-
     tas skubiai evakuoti savo šeimą ir dvarą
     su iždu.
-  citata_rodoma: "K. Radvilos pajėgos nu-\nsiaubė Rževo apylinkes, tuomet perėję\nVolgos upę, sudegino Urdomo miestą ir\npasuko Staricos link, kurioje tuo metu rezi-\ndavo Rusijos valdovas Ivanas rv. Sužinojęs\napie artėjančius lietuvius, jis buvo privers-\ntas skubiai evakuoti savo šeimą ir dvarą\nsu iždu."
+  citata_rodoma: |
+    K. Radvilos pajėgos nu-
+    siaubė Rževo apylinkes, tuomet perėję
+    Volgos upę, sudegino Urdomo miestą ir
+    pasuko Staricos link, kurioje tuo metu rezi-
+    davo Rusijos valdovas Ivanas rv. Sužinojęs
+    apie artėjančius lietuvius, jis buvo privers-
+    tas skubiai evakuoti savo šeimą ir dvarą
+    su iždu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

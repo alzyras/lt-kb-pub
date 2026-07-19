@@ -113,7 +113,12 @@ media_all_json: |-
     su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
     padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
     teresų lygį ir taip išugdyti lietuvių inteligentiją.
-  citata_rodoma: ") Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-\nsinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant \nsu Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo \npadaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-\nteresų lygį ir taip išugdyti lietuvių inteligentiją."
+  citata_rodoma: |
+    ) Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-
+    sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
+    su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
+    padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
+    teresų lygį ir taip išugdyti lietuvių inteligentiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -138,7 +143,18 @@ media_all_json: |-
     giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
     Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
     ją“.
-  citata_rodoma: "Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos \ndiduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama \nrusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti: \nlietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-\njektui Lietuvos visuomenė nebuvo pasirengusi. \nAntruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą \nprotestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti \nBažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-\nčios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-\ngiausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus \nRadvila Juodasis (1515–1565), 1563 m."
+  citata_rodoma: |
+    Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
+    diduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama
+    rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
+    lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
+    jektui Lietuvos visuomenė nebuvo pasirengusi.
+    Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
+    protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
+    Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
+    čios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-
+    giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
+    Radvila Juodasis (1515–1565), 1563 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

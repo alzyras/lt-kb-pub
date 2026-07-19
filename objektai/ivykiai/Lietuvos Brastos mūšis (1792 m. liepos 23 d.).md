@@ -205,7 +205,19 @@ Nenurodyta
     kas patyrė didelių nuostolių, o atsitraukta
     nesulaukus pastiprinimo, organizuotai ir
     tvarkingai.
-  citata_rodoma: "Ne veltui karalius S. A. Poniatovskis apdova-\nnojo keliolika šio mūšio karininkų ir karei-\nvių neseniai įsteigto karinio Virtuti Militari\nordino auksiniais ir sidabriniais medaliais.\nMūšio prie Lietuvos Brastos negalime\nvadinti pergale, kadangi LDK kariuomenė\nturėjo pasitraukti, o priešininkui atiteko\nstrategiškai svarbi teritorija, tačiau negalime\nlaikyti ir pralaimėjimu, kadangi priešinin-\nkas patyrė didelių nuostolių, o atsitraukta\nnesulaukus pastiprinimo, organizuotai ir\ntvarkingai."
+  citata_rodoma: |
+    Ne veltui karalius S. A. Poniatovskis apdova-
+    nojo keliolika šio mūšio karininkų ir karei-
+    vių neseniai įsteigto karinio Virtuti Militari
+    ordino auksiniais ir sidabriniais medaliais.
+    Mūšio prie Lietuvos Brastos negalime
+    vadinti pergale, kadangi LDK kariuomenė
+    turėjo pasitraukti, o priešininkui atiteko
+    strategiškai svarbi teritorija, tačiau negalime
+    laikyti ir pralaimėjimu, kadangi priešinin-
+    kas patyrė didelių nuostolių, o atsitraukta
+    nesulaukus pastiprinimo, organizuotai ir
+    tvarkingai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -264,8 +276,13 @@ Nenurodyta
 
     Mūšis truko apie 8 valandas. Lietuvos ka-
     riuomenė, remiantis S. Zabielos raportais,
-    neteko apie 300 karių. Rusų duomenimis
-  citata_rodoma: "Mūšio padariniai\n\nMūšis truko apie 8 valandas. Lietuvos ka-\nriuomenė, remiantis S. Zabielos raportais,\nneteko apie 300 karių."
+    neteko apie 300 karių.
+  citata_rodoma: |
+    Mūšio padariniai
+
+    Mūšis truko apie 8 valandas. Lietuvos ka-
+    riuomenė, remiantis S. Zabielos raportais,
+    neteko apie 300 karių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

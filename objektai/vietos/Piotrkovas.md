@@ -146,7 +146,16 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
     la ite
     mui, todėl gyveno ramiau nei
     kada anksčiau.
-  citata_rodoma: "Tėvas manė,\nkad, įsitraukus sūnui į visokius reikalus, priblėsianti ir\nužgesianti ne laiku suliepsnojusi meilė. Nusivežė tad\njį su savimi į Piotrkovą, į Lenkijos karalystės seimą,\nkuris, luomams pritariant, iš Mazovijos ir Prūsijos gau­\nnamas karaliaus pajamas paskyrė kunigaikščiui Augus­\ntui. Ligos ten ištiktas, karalius, lapkričio mėnesį su­\ngrįžęs į Krokuvą, leido Augustui vykti į Lietuvą, prieš\nkelionę visaip sūnų pamokęs ir pagraudenęs."
+  citata_rodoma: |
+    Tėvas manė,
+    kad, įsitraukus sūnui į visokius reikalus, priblėsianti ir
+    užgesianti ne laiku suliepsnojusi meilė. Nusivežė tad
+    jį su savimi į Piotrkovą, į Lenkijos karalystės seimą,
+    kuris, luomams pritariant, iš Mazovijos ir Prūsijos gau­
+    namas karaliaus pajamas paskyrė kunigaikščiui Augus­
+    tui. Ligos ten ištiktas, karalius, lapkričio mėnesį su­
+    grįžęs į Krokuvą, leido Augustui vykti į Lietuvą, prieš
+    kelionę visaip sūnų pamokęs ir pagraudenęs.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

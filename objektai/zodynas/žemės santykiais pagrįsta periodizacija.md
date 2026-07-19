@@ -98,7 +98,15 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
     bei tarpvalstybinius santykius, bet į vykstantį agrarinių santykių
     keitimąsi pačioje žemdirbių tautoje, paliečiami ir stambieji žemių
     valdytojai (bajorai, didikai, bažnyčios-vienuolynai).
-  citata_rodoma: "; 6) nuo žemės reformos iki žemės nacio­\nnalizacijos — 1940 m.\nŠitokis Lietuvos ūkininko santykių su žeme keitimasis per\nseptynis su viršum amžius, leidžia sudaryti šešias įvairių laikų\nepochas. Kai šitoje periodizacijoje neatsižvelgiama į dinastinius\nbei tarpvalstybinius santykius, bet į vykstantį agrarinių santykių\nkeitimąsi pačioje žemdirbių tautoje, paliečiami ir stambieji žemių\nvaldytojai (bajorai, didikai, bažnyčios-vienuolynai)."
+  citata_rodoma: |
+    ; 6) nuo žemės reformos iki žemės nacio­
+    nalizacijos — 1940 m.
+    Šitokis Lietuvos ūkininko santykių su žeme keitimasis per
+    septynis su viršum amžius, leidžia sudaryti šešias įvairių laikų
+    epochas. Kai šitoje periodizacijoje neatsižvelgiama į dinastinius
+    bei tarpvalstybinius santykius, bet į vykstantį agrarinių santykių
+    keitimąsi pačioje žemdirbių tautoje, paliečiami ir stambieji žemių
+    valdytojai (bajorai, didikai, bažnyčios-vienuolynai).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

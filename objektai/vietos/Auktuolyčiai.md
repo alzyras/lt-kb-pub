@@ -103,7 +103,16 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     broliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,
     nebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai
     su D. Rethowi), dab.
-  citata_rodoma: "Apie Auktuolyčių pilies užkariavimą\n\n   Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos\nvalsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų,\nkurie plaukė laivais,  ir, išdėstęs tinkamose vietose šaulius bei pristatęs prie sienų\nkopėčias, pradėjo pulti Auktuolyčių pilį462. Kadangi pilėnai buvo girdėję, kad anksčiau\nbroliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,\nnebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai\nsu D."
+  citata_rodoma: |
+    Apie Auktuolyčių pilies užkariavimą
+
+       Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos
+    valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų,
+    kurie plaukė laivais,  ir, išdėstęs tinkamose vietose šaulius bei pristatęs prie sienų
+    kopėčias, pradėjo pulti Auktuolyčių pilį462. Kadangi pilėnai buvo girdėję, kad anksčiau
+    broliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,
+    nebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai
+    su D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

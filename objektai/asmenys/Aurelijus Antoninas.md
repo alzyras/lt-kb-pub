@@ -124,7 +124,17 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
     talistinis. Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
     suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę
     iš Rytų.
-  citata_rodoma: "Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man\natrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies\ndievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus\nAntonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­\ntvaras“.\nPerkūno stabai iš karto turėjo būti tokie, apie kokius kal­\nba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­\nbus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­\nlas."
+  citata_rodoma: |
+    Ta­
+    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man
+    atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies
+    dievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus
+    Antonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­
+    tvaras“.
+    Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­
+    ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­
+    bus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­
+    las.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

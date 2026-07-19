@@ -58,7 +58,12 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
     597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: "Vieną gražią dieną, bėgdamas\nnuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš\nHeldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,\nten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:\n  597 D."
+  citata_rodoma: |
+    Vieną gražią dieną, bėgdamas
+    nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš
+    Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
+    ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
+      597 D.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

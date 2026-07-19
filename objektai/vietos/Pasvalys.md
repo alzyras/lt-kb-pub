@@ -100,7 +100,9 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti
     į Livonijos reikalus. Zigmantas Augustas, surinkęs didelę lie-
     tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
-  citata_rodoma: "Zigmantas Augustas, surinkęs didelę lie-\ntuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly."
+  citata_rodoma: |
+    Zigmantas Augustas, surinkęs didelę lie-
+    tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

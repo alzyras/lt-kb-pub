@@ -1294,7 +1294,11 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
     tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
     tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
-  citata_rodoma: "Iš visų čia suminėtų sri-\nčių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji\niš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,\nji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-"
+  citata_rodoma: |
+    Iš visų čia suminėtų sri-
+    čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
+    iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
+    ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -1382,7 +1386,10 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  citata_rodoma: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1406,7 +1413,15 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
     18
     Wremiennik Sofijski, p. 334.
-  citata_rodoma: "Ta­\nčiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje, \nvaldovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­\nba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę \nįtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną \nBučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir\n18\nWremiennik Sofijski, p."
+  citata_rodoma: |
+    Ta­
+    čiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,
+    valdovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­
+    ba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę
+    įtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną
+    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
+    18
+    Wremiennik Sofijski, p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1431,7 +1446,19 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     i
     Grzybowski knygoje Skarb
     nieoszacowany O O. Franciszkanów.
-  citata_rodoma: "Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­\nnių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti\nLietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­\nse]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­\ntu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­\nmu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje\nsteigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats\ntapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­\ngi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,\ni\nGrzybowski knygoje Skarb\nnieoszacowany O O."
+  citata_rodoma: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1454,7 +1481,16 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
     gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
     gos arkivyskupą.
-  citata_rodoma: "Apsirūpinus ar­\ntilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­\nvo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,\nPodolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­\nles karinės amunicijos atsargas, nesunku buvo apginkluoti\ngausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­\ngiavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­\ngistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­\ngos arkivyskupą."
+  citata_rodoma: |
+    Apsirūpinus ar­
+    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
+    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
+    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
+    les karinės amunicijos atsargas, nesunku buvo apginkluoti
+    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
+    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
+    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
+    gos arkivyskupą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1476,7 +1512,16 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     rinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“
 
     CHOTINO MŪŠIS 1621 m. rugsėjo 2-spalio 10 d.
-  citata_rodoma: "Lietuviai kava-\nUa\n\nįgudę šaudyti iš lanko kaip totoriai ir lygiai kaip totoriai, kai to reikia, visu spartumu\ntraukdamiesi, sugeba apšaudyti besivejantį priešą strėlėmis. Podolei ir Rusiai jie svarbi\nJėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik su-\nrinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“\n\nCHOTINO MŪŠIS 1621 m."
+  citata_rodoma: |
+    Lietuviai kava-
+    Ua
+
+    įgudę šaudyti iš lanko kaip totoriai ir lygiai kaip totoriai, kai to reikia, visu spartumu
+    traukdamiesi, sugeba apšaudyti besivejantį priešą strėlėmis. Podolei ir Rusiai jie svarbi
+    Jėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik su-
+    rinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“
+
+    CHOTINO MŪŠIS 1621 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1674,7 +1719,12 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
     brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
     įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
-  citata_rodoma: "Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo\nkunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos\nkunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino\nbrolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių\nįtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398)."
+  citata_rodoma: |
+    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
+    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
+    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
+    brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
+    įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1763,7 +1813,13 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13.
-  citata_rodoma: ") teužvaldė\nVytautas.\nSumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų\nVandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo\nne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį\nDniepro žemupį, kuris tada buvo tuščias^13."
+  citata_rodoma: |
+    ) teužvaldė
+    Vytautas.
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1784,7 +1840,12 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     tinių lenkų tendencijų atvejais Stryjkovskis stoja ginti pirmųjų ir
     patiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte
     su lenkais dėl Podolės, dėl Volinijos.
-  citata_rodoma: "Be to, Kronika apskritai buvo para­\nšyta valstybinėje dvasioje, ir lietuvių-lenkų nesutarimų, ar tuome­\ntinių lenkų tendencijų atvejais Stryjkovskis stoja ginti pirmųjų ir\npatiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte\nsu lenkais dėl Podolės, dėl Volinijos."
+  citata_rodoma: |
+    Be to, Kronika apskritai buvo para­
+    šyta valstybinėje dvasioje, ir lietuvių-lenkų nesutarimų, ar tuome­
+    tinių lenkų tendencijų atvejais Stryjkovskis stoja ginti pirmųjų ir
+    patiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte
+    su lenkais dėl Podolės, dėl Volinijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1825,7 +1886,12 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
-  citata_rodoma: "Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų\nVandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo\nne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį\nDniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje\nPodolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima."
+  citata_rodoma: |
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
+    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1875,7 +1941,20 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     kelią: dėl asmeniškos neapy­
     kantos įtūžusios širdys visiškai užmiršo rūpintis ben­
     drais reikalais.
-  citata_rodoma: "Negi kur esti tokia kalno viršūnė, kurios \nnepasiektų nesantarvė? Gal dėl Vytauto klastingumo, \ngal dėl kokios kitos priežasties tarp Podolės ir Valachi-\njos karių kilo nesutarimai, \nSulaukia \nK a m e n e c o \nkurie tarytum išgriovė gyny- \nk a p itu lia c ijo s \nbines sienas ir atvėrė priešui\nkelią: dėl asmeniškos neapy­\nkantos įtūžusios širdys visiškai užmiršo rūpintis ben­\ndrais reikalais. Išsiuntė žygūnus, turėjusius tartis dėl \npilies perdavimo sąlygų."
+  citata_rodoma: |
+    Negi kur esti tokia kalno viršūnė, kurios
+    nepasiektų nesantarvė? Gal dėl Vytauto klastingumo,
+    gal dėl kokios kitos priežasties tarp Podolės ir Valachi-
+    jos karių kilo nesutarimai,
+    Sulaukia
+    K a m e n e c o
+    kurie tarytum išgriovė gyny-
+    k a p itu lia c ijo s
+    bines sienas ir atvėrė priešui
+    kelią: dėl asmeniškos neapy­
+    kantos įtūžusios širdys visiškai užmiršo rūpintis ben­
+    drais reikalais. Išsiuntė žygūnus, turėjusius tartis dėl
+    pilies perdavimo sąlygų.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1900,7 +1979,20 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     įgulas.
     Po visą Europą pasklidę gandai apie beprotišką Bo­
     leslovo elgesį su karaliumi pasiekė galop ir Romą.
-  citata_rodoma: "Nesunkiai pavyko susi­\ntaikyti, nes kalbėjosi broliai, kurių vienas garsėjo bepro­\ntyste, o kitas — nuostabiu atlaidumu. Vis dėlto, vos ka­\nralius Jogaila, išvykęs iš Lietuvos, pasiekė Lenkiją, Bo­\nleslovas su kariuomene patraukė į Podolę. Atstumtas nuo\npilių ir patyręs žymių nuostolių, jis baisiai nusiaubė\n433\n\n## Puslapis 432\n\nLvovo ir Terebovlės apylin-\nĮsiv e ržia  į P o d o lę\nkės."
+  citata_rodoma: |
+    Nesunkiai pavyko susi­
+    taikyti, nes kalbėjosi broliai, kurių vienas garsėjo bepro­
+    tyste, o kitas — nuostabiu atlaidumu. Vis dėlto, vos ka­
+    ralius Jogaila, išvykęs iš Lietuvos, pasiekė Lenkiją, Bo­
+    leslovas su kariuomene patraukė į Podolę. Atstumtas nuo
+    pilių ir patyręs žymių nuostolių, jis baisiai nusiaubė
+    433
+
+    ## Puslapis 432
+
+    Lvovo ir Terebovlės apylin-
+    Įsiv e ržia  į P o d o lę
+    kės.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1964,7 +2056,15 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     kitas pilis
     ir jas sutvirtinę, nesigailėdami didelių iš­
     laidų.
-  citata_rodoma: "Vėliau, susi­\nkivirčiję su lenkais dėl Rusios, lietuviai visada ginklu\ngynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­\nraliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta\nnuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­\ndaręs klaidą, kai, siekdamas sosto, davęs neapgalvotų\npažadų, antra vertus, jų reikalas neleisti, kad valstybė\ndėl anų susitarimų patirtų kokių nuostolių."
+  citata_rodoma: |
+    Vėliau, susi­
+    kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
+    gynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­
+    raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta
+    nuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­
+    daręs klaidą, kai, siekdamas sosto, davęs neapgalvotų
+    pažadų, antra vertus, jų reikalas neleisti, kad valstybė
+    dėl anų susitarimų patirtų kokių nuostolių.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -1999,7 +2099,28 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     miems žygiams, karalius tu­
     rėjo pasitraukti iš Prūsijos nieko naudinga čia šiuo žy­
     giu nepešęs.
-  citata_rodoma: "N e s ė k m in g a s  ž y g is  į\nP rūsiją\nleidimo paliko stovyklą, o\nsumažėjus jėgoms ir pralei­\ndus tinkamą metą\nlemia-\nrkovo seime jie, be galo iš­\n510\n\n## Puslapis 509\n\nŠitai dar labiau sukurstė aist-\nN a u ja  au d ra  d ė l Po-\nras, dar neatvėsusias po anks-\nd o lės\ntesnių sambrūzdžių. Visa Lie­\ntuva suskato rengtis karui dėl\nPodolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­\ntenkinta grasinimais bei kariuomenės telkimu, nes kaip\ntik tuo metu mirė žymiausias šios grupuotės vadas Jo­\nnas Goštautas."
+  citata_rodoma: |
+    N e s ė k m in g a s  ž y g is  į
+    P rūsiją
+    leidimo paliko stovyklą, o
+    sumažėjus jėgoms ir pralei­
+    dus tinkamą metą
+    lemia-
+    rkovo seime jie, be galo iš­
+    510
+
+    ## Puslapis 509
+
+    Šitai dar labiau sukurstė aist-
+    N a u ja  au d ra  d ė l Po-
+    ras, dar neatvėsusias po anks-
+    d o lės
+    tesnių sambrūzdžių. Visa Lie­
+    tuva suskato rengtis karui dėl
+    Podolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
+    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
+    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
+    nas Goštautas.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2114,7 +2235,13 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
     ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
     reikalą^1 ).
-  citata_rodoma: "1398 m.\npirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią\nLietuvos su Lenkija santykių eigą. Tą balsą, kaip ir pirma dėl\nPodolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­\nka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos\nreikalą^1 )."
+  citata_rodoma: |
+    1398 m.
+    pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
+    Lietuvos su Lenkija santykių eigą. Tą balsą, kaip ir pirma dėl
+    Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
+    ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
+    reikalą^1 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2160,7 +2287,16 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
     gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
     gos arkivyskupą.
-  citata_rodoma: "Apsirūpinus ar­\ntilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­\nvo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,\nPodolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­\nles karinės amunicijos atsargas, nesunku buvo apginkluoti\ngausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­\ngiavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­\ngistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­\ngos arkivyskupą."
+  citata_rodoma: |
+    Apsirūpinus ar­
+    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
+    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
+    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
+    les karinės amunicijos atsargas, nesunku buvo apginkluoti
+    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
+    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
+    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
+    gos arkivyskupą.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2184,7 +2320,19 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     i
     Grzybowski knygoje Skarb
     nieoszacowany O O. Franciszkanów.
-  citata_rodoma: "Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­\nnių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti\nLietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­\nse]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­\ntu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­\nmu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje\nsteigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats\ntapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­\ngi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,\ni\nGrzybowski knygoje Skarb\nnieoszacowany O O."
+  citata_rodoma: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2205,7 +2353,16 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     rinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“
 
     CHOTINO MŪŠIS 1621 m. rugsėjo 2-spalio 10 d.
-  citata_rodoma: "Lietuviai kava-\nUa\n\nįgudę šaudyti iš lanko kaip totoriai ir lygiai kaip totoriai, kai to reikia, visu spartumu\ntraukdamiesi, sugeba apšaudyti besivejantį priešą strėlėmis. Podolei ir Rusiai jie svarbi\nJėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik su-\nrinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“\n\nCHOTINO MŪŠIS 1621 m."
+  citata_rodoma: |
+    Lietuviai kava-
+    Ua
+
+    įgudę šaudyti iš lanko kaip totoriai ir lygiai kaip totoriai, kai to reikia, visu spartumu
+    traukdamiesi, sugeba apšaudyti besivejantį priešą strėlėmis. Podolei ir Rusiai jie svarbi
+    Jėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik su-
+    rinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“
+
+    CHOTINO MŪŠIS 1621 m.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2273,7 +2430,13 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
     buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
     žant lenkų papročius ir tradicijas.
-  citata_rodoma: "Kaip tik tuo laiku\nVytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos\nvaldžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­\ntrzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis\nbuvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­\nžant lenkų papročius ir tradicijas."
+  citata_rodoma: |
+    Kaip tik tuo laiku
+    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
+    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
+    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
+    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
+    žant lenkų papročius ir tradicijas.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2330,7 +2493,15 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
     18
     Wremiennik Sofijski, p. 334.
-  citata_rodoma: "Ta­\nčiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje, \nvaldovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­\nba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę \nįtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną \nBučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir\n18\nWremiennik Sofijski, p."
+  citata_rodoma: |
+    Ta­
+    čiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,
+    valdovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­
+    ba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę
+    įtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną
+    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
+    18
+    Wremiennik Sofijski, p.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2389,7 +2560,12 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     tinių lenkų tendencijų atvejais Stryjkovskis stoja ginti pirmųjų ir
     patiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte
     su lenkais dėl Podolės, dėl Volinijos.
-  citata_rodoma: "Be to, Kronika apskritai buvo para­\nšyta valstybinėje dvasioje, ir lietuvių-lenkų nesutarimų, ar tuome­\ntinių lenkų tendencijų atvejais Stryjkovskis stoja ginti pirmųjų ir\npatiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte\nsu lenkais dėl Podolės, dėl Volinijos."
+  citata_rodoma: |
+    Be to, Kronika apskritai buvo para­
+    šyta valstybinėje dvasioje, ir lietuvių-lenkų nesutarimų, ar tuome­
+    tinių lenkų tendencijų atvejais Stryjkovskis stoja ginti pirmųjų ir
+    patiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte
+    su lenkais dėl Podolės, dėl Volinijos.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2411,7 +2587,13 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13.
-  citata_rodoma: ") teužvaldė\nVytautas.\nSumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų\nVandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo\nne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį\nDniepro žemupį, kuris tada buvo tuščias^13."
+  citata_rodoma: |
+    ) teužvaldė
+    Vytautas.
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2447,7 +2629,10 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  citata_rodoma: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2561,7 +2746,12 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
     brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
     įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
-  citata_rodoma: "Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo\nkunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos\nkunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino\nbrolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių\nįtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398)."
+  citata_rodoma: |
+    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
+    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
+    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
+    brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
+    įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2584,7 +2774,17 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
     tą 9, Smolensko didžiąją kunigaikštystę — kunigaikščiui
     Jomantui19 ir Boreikos sūnui Vasilijui ".
-  citata_rodoma: "Didysis kunigaikštis Vytautas, paėmęs Vi­\ntebsko miestą, vėl sugrįžo į Vilnių.\n09\n\n## Puslapis 95\n\nTais pačiais metais\", pavasariop, didysis kunigaikš­\ntis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis \nVladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­\nti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui."
+  citata_rodoma: |
+    Didysis kunigaikštis Vytautas, paėmęs Vi­
+    tebsko miestą, vėl sugrįžo į Vilnių.
+    09
+
+    ## Puslapis 95
+
+    Tais pačiais metais", pavasariop, didysis kunigaikš­
+    tis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis
+    Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
+    ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2626,7 +2826,12 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
-  citata_rodoma: "Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų\nVandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo\nne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį\nDniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje\nPodolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima."
+  citata_rodoma: |
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
+    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -2701,7 +2906,13 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
     nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
     tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
-  citata_rodoma: "Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius\nSpytkas iš Melštyno, kuris valdė Podoliją.\nŠita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­\nsiam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­\nnus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­\ntautas tos pirmenybės neturėjo, jis tik ją išsikovojo."
+  citata_rodoma: |
+    Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius
+    Spytkas iš Melštyno, kuris valdė Podoliją.
+    Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­
+    siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
+    nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
+    tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2724,7 +2935,14 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     damas gyvo lenkų nepasitenkinimo^1 ), davė Vytautui lėno teisė­
     mis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas
     iš čia karūnos seniūną.
-  citata_rodoma: "Todėl nenuostabu, kad po Torno taikos\nįvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui\npasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­\nčą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­\ndamas gyvo lenkų nepasitenkinimo^1 ), davė Vytautui lėno teisė­\nmis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas\niš čia karūnos seniūną."
+  citata_rodoma: |
+    Todėl nenuostabu, kad po Torno taikos
+    įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui
+    pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­
+    čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­
+    damas gyvo lenkų nepasitenkinimo^1 ), davė Vytautui lėno teisė­
+    mis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas
+    iš čia karūnos seniūną.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2760,7 +2978,22 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     žiaus pasiuntinybe ir jau mirusių ar
     įvairiais laikais pagonių nukankin­
     tų, ir apgyvendino juos prie Šv.
-  citata_rodoma: "Šios\n19\nWaddyngas,  Mažesniųjų brolių\nordino istorijos autorius, ir jo komen­\ntatorius Antoni Melissanius\nde Macro pasakoja, kad dar 1333\nmetais (prieš Gedimino mirtį) Pet­\nras Goštautas, būdamas Podolės vai­\nvada, iš Rusios ir Podolės atkvietęs\nį Vilnių keturiolika Šv. Pranciškaus\nregulos vienuolių vietoje anksčiau,\n1325 metais, atvykusių su popie­\nžiaus pasiuntinybe ir jau mirusių ar\nįvairiais laikais pagonių nukankin­\ntų, ir apgyvendino juos prie Šv."
+  citata_rodoma: |
+    Šios
+    19
+    Waddyngas,  Mažesniųjų brolių
+    ordino istorijos autorius, ir jo komen­
+    tatorius Antoni Melissanius
+    de Macro pasakoja, kad dar 1333
+    metais (prieš Gedimino mirtį) Pet­
+    ras Goštautas, būdamas Podolės vai­
+    vada, iš Rusios ir Podolės atkvietęs
+    į Vilnių keturiolika Šv. Pranciškaus
+    regulos vienuolių vietoje anksčiau,
+    1325 metais, atvykusių su popie­
+    žiaus pasiuntinybe ir jau mirusių ar
+    įvairiais laikais pagonių nukankin­
+    tų, ir apgyvendino juos prie Šv.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -2773,11 +3006,15 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Pirmas bu­
-    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
-    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
-    mę. Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
-    lis— Mstislavlis7 .
+    Paskui, po didžiojo kunigaikš­
+    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
+    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
+    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3B,
+    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 40.
+    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
+    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
+    sers, kam ją ištekino už vergo. Tas Vaidila turėjo di­
+    delę galią pas didįjį kunigaikštį Jogailą.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2789,16 +3026,16 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Vytautas, paėmęs Vi­
-    tebsko miestą, vėl sugrįžo į Vilnių.
-    09
-
-    ## Puslapis 95
-
-    Tais pačiais metais", pavasariop, didysis kunigaikš­
-    tis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis
-    Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
-    ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
+    Tad atvykite
+    visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu
+    brolišką meilę į jūsų širdis.“ 7 Ir šitaip išviliojęs juos
+    iš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­
+    jojo pas jį su dovanomis, kaip ir visi Smolensko kuni­
+    gaikščiai ir bajorai, kad nė vieno mieste neliko. O jis,
+    visus juos sučiupęs, ištrėmė į Lietuvą8, tik vienam ku­
+    nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
+    tą 9, Smolensko didžiąją kunigaikštystę — kunigaikščiui
+    Jomantui19 ir Boreikos sūnui Vasilijui ".
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -92,7 +92,20 @@ Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
     mėti ten visuomet stovi medinis kryžius.
-  citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
+  citata_rodoma: |
+    Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

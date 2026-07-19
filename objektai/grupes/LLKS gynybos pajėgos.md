@@ -70,7 +70,12 @@ media_all_json: |-
     Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
     pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
     vėliau ir LLKS gynybos pajėgų vadu.
-  citata_rodoma: "1949 m. dalyvavo kuriant\nvieningą pasipriešinimo judėjimo vadovybę, tapo\nLietuvos laisvės kovos sąjūdžio tarybos prezidiumo\npirmininko J. Žemaičio-Vytauto pavaduotoju, kiek\nvėliau ir LLKS gynybos pajėgų vadu."
+  citata_rodoma: |
+    1949 m. dalyvavo kuriant
+    vieningą pasipriešinimo judėjimo vadovybę, tapo
+    Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
+    pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
+    vėliau ir LLKS gynybos pajėgų vadu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

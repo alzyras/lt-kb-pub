@@ -94,7 +94,11 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
     ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
     juos užpuolė ir visus išžudė. Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
     kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.
-  citata_rodoma: "Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą\n\n  Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug\nkartų jį buvo gelbėjęs iš mirtino pavojaus."
+  citata_rodoma: |
+    Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
+
+      Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
+    kartų jį buvo gelbėjęs iš mirtino pavojaus.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

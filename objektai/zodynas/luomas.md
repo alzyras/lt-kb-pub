@@ -390,7 +390,37 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     IV KNYGA
     tamentu ar kokiu kitu užrašymu duoti, dovanoti, suteikti,
     pripažinti, tą taip pat leidžia krikščioniškoji teisė.
-  citata_rodoma: "Dėl tokio prakeikimo ir Dievo pyk­\nčio nieko kito nebijok, tik laikinos čia, o paskui amžinos pra­\nžūties, nuo kurios malonėk, Viešpatie Dieve, apsaugoti ir \nmalonėk abiejose šiose valstybėse įtvirtinti tai, ką jose per \nmus padarei, malonėk abi šias tautas, vienybėje amžinai su­\njungtas tikros meilės, saugoti. Paskui kai kas nors, Dievo \nApvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu, \ntaip pat ir visų abiejų valstybių luomų tarybų prašome, kad \nnetrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­\nmiau aprašytu papročiu, be gaišaties, delsimo, pokštų, išsi­\nsukinėjimų, vengimo, prasimanymų, nuoširdžiai, ištikimai, \nrimtai šiai mūsų valiai pritardami ir ją pildydami, jos pildy­\nmui padėdami, kaip įpareigojame ir įgaliojome, tegu atme­\nna tikėjimą, garbę, sąžinę, kad kiekvienam geram žmogui, \no ypač krikščioniui, privalu įvykdyti valią to, kieno keitėjas \narba sprendimo vykdytojas būtų; dėl to, jeigu kiti luomai \ngali tai uždėti savo palikuonims ir vykdytojams, kad jų va­\nlią pildytų, tuo labiau mums, kaip valdovui, kuriam Vieš­\npats Dievas malonėjo patikėti žmonių valdymo teises ir ku­\nris esame laisvas nuo teisių, o vis tiek ir išlaisvinti veikiame \npagal teises, o mūsų valstybės bendros teisės ir papročiai \nskelbia tai, kad kiekvienas gali kam tik nori savo turtus tęs-\n---- • -•\n336\n\n## Puslapis 353\n\nIV KNYGA\ntamentu ar kokiu kitu užrašymu duoti, dovanoti, suteikti, \npripažinti, tą taip pat leidžia krikščioniškoji teisė."
+  citata_rodoma: |
+    Dėl tokio prakeikimo ir Dievo pyk­
+    čio nieko kito nebijok, tik laikinos čia, o paskui amžinos pra­
+    žūties, nuo kurios malonėk, Viešpatie Dieve, apsaugoti ir
+    malonėk abiejose šiose valstybėse įtvirtinti tai, ką jose per
+    mus padarei, malonėk abi šias tautas, vienybėje amžinai su­
+    jungtas tikros meilės, saugoti. Paskui kai kas nors, Dievo
+    Apvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu,
+    taip pat ir visų abiejų valstybių luomų tarybų prašome, kad
+    netrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­
+    miau aprašytu papročiu, be gaišaties, delsimo, pokštų, išsi­
+    sukinėjimų, vengimo, prasimanymų, nuoširdžiai, ištikimai,
+    rimtai šiai mūsų valiai pritardami ir ją pildydami, jos pildy­
+    mui padėdami, kaip įpareigojame ir įgaliojome, tegu atme­
+    na tikėjimą, garbę, sąžinę, kad kiekvienam geram žmogui,
+    o ypač krikščioniui, privalu įvykdyti valią to, kieno keitėjas
+    arba sprendimo vykdytojas būtų; dėl to, jeigu kiti luomai
+    gali tai uždėti savo palikuonims ir vykdytojams, kad jų va­
+    lią pildytų, tuo labiau mums, kaip valdovui, kuriam Vieš­
+    pats Dievas malonėjo patikėti žmonių valdymo teises ir ku­
+    ris esame laisvas nuo teisių, o vis tiek ir išlaisvinti veikiame
+    pagal teises, o mūsų valstybės bendros teisės ir papročiai
+    skelbia tai, kad kiekvienas gali kam tik nori savo turtus tęs-
+    ---- • -•
+    336
+
+    ## Puslapis 353
+
+    IV KNYGA
+    tamentu ar kokiu kitu užrašymu duoti, dovanoti, suteikti,
+    pripažinti, tą taip pat leidžia krikščioniškoji teisė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -414,7 +444,14 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
     luomu.
     Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
-  citata_rodoma: "Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­\njorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji\ndar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius\n— herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­\nsiskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto\nluomu.\nŽinoma mes negalime patikėti Dlugošu, kad iki 1413 met."
+  citata_rodoma: |
+    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
+    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
+    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
+    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
+    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
+    luomu.
+    Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -511,7 +548,27 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     Galop susitarė ir dėl tikė-
     tikėjimo reikalai Lie-
     jimo reikalų.
-  citata_rodoma: "Be valdovo sutikimo \nbajorai neturi teisės nei parduoti, nei dovanoti valdo­\nnėms žymiems lietuviams tu­\nrėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams \nanksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­\nvingumo žymenų, nes dar ir dabar daugelis šeimų turi \nbe galo senus paveldimus giminės ženklus, kurie visai \nnepanašūs į lenkų herbus, tačiau todėl, kad visi buvo \ntvirtai įsitikinę, jog, skirtingoms tautoms susijungus į \nvieną valstybę, būtų didžiai naudinga, jeigu tų dviejų \ntautų žymiausios šeimos sietųsi nelyginant kokia gi­\nminyste herbų panašumu.\nĮstatymais sutvarkomi \nGalop susitarė ir dėl tikė-\ntikėjimo reikalai Lie- \njimo reikalų. Visi Lietuvos \niuvoje \nbažnyčios tarnai, jų valdos ir\npačias privilegijas, kokias šiuo metu turi šio luomo žmo­\nnės Lenkijoje."
+  citata_rodoma: |
+    Be valdovo sutikimo
+    bajorai neturi teisės nei parduoti, nei dovanoti valdo­
+    nėms žymiems lietuviams tu­
+    rėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams
+    anksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­
+    vingumo žymenų, nes dar ir dabar daugelis šeimų turi
+    be galo senus paveldimus giminės ženklus, kurie visai
+    nepanašūs į lenkų herbus, tačiau todėl, kad visi buvo
+    tvirtai įsitikinę, jog, skirtingoms tautoms susijungus į
+    vieną valstybę, būtų didžiai naudinga, jeigu tų dviejų
+    tautų žymiausios šeimos sietųsi nelyginant kokia gi­
+    minyste herbų panašumu.
+    Įstatymais sutvarkomi
+    Galop susitarė ir dėl tikė-
+    tikėjimo reikalai Lie-
+    jimo reikalų. Visi Lietuvos
+    iuvoje
+    bažnyčios tarnai, jų valdos ir
+    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
+    nės Lenkijoje.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
@@ -542,7 +599,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     imperatorius, apsvarstęs su Vytautu svarbiausius klau­
     simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
     iš Volynės į Vengriją.
-  citata_rodoma: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus. Vytautas,\nVytauto pasiuntinybė\nkaip laisvos tautos laisvas\nvaldovas, o ne dėl to, kad\nžiūri vien savo reikalų, taip ryžtingai reikalaująs, kad\nkaralius bei karalystės luomai pritartų jo vainikavimui."
+  citata_rodoma: |
+    Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus. Vytautas,
+    Vytauto pasiuntinybė
+    kaip laisvos tautos laisvas
+    valdovas, o ne dėl to, kad
+    žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
+    karalius bei karalystės luomai pritartų jo vainikavimui.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -600,7 +666,23 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     visi žinojo sutartį, neseniai atnaujintą su Vladislovu:
     pagal ją, mirus Žygimantui, karalius Vladislovas pavel­
     di valdžią.
-  citata_rodoma: "Breste Kazi­\nmiero laukė gausybė žymiau-\nP riėm ęs B reste lu o m ų\nšiųjų didikų, ypač tie, kurie\npriesaiką, p a ly d im a s  į\nsave kildino iš Lietuvos di-\nV ilnių\ndžiųjų kunigaikščių, kaip Al-\ngimantaičiai,\nDaumantaičiai,\nManvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai\nir kiti. Pasitikę Kazimierą, jie rodė nepaprastą džiaugsmą,\npagarbą bei palankumą. Priėmęs luomų priesaiką, kuria\nšie pažadėjo ištikimybę ir paklusnumą, niekais pavertė\nvisus varžovų užmojus, šitaip greitai sutvarkydamas šį\nreikalą."
+  citata_rodoma: |
+    Breste Kazi­
+    miero laukė gausybė žymiau-
+    P riėm ęs B reste lu o m ų
+    šiųjų didikų, ypač tie, kurie
+    priesaiką, p a ly d im a s  į
+    save kildino iš Lietuvos di-
+    V ilnių
+    džiųjų kunigaikščių, kaip Al-
+    gimantaičiai,
+    Daumantaičiai,
+    Manvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai
+    ir kiti. Pasitikę Kazimierą, jie rodė nepaprastą džiaugsmą,
+    pagarbą bei palankumą. Priėmęs luomų priesaiką, kuria
+    šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė
+    visus varžovų užmojus, šitaip greitai sutvarkydamas šį
+    reikalą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -625,7 +707,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     pradėti karą prieš turkus ir paremti Steponą, ypač dėl
     to, kad to reikalauja ne tik pavienių asmenų susitarimai,
     bet ir viso krikščionių pasaulio bendras reikalas.
-  citata_rodoma: "Tuo tarpu Aleksandras, didžiai rūpindama­\nsis krikščionių sąjunga prieš turkus, nesitikėjo iš Mas­\nkvos grėsmės. Jis pasiūlė lietuvių luomams Vilniaus\nseime aptarti ir patvirtinti nutarimus, kuriuos jo atsto­\nvai buvo priėmę Piotrkove. Padarė taip, kaip siūlė ku­\nnigaikštis: nutarimus įtraukė į valstybinius dokumen­\ntus, kuriuos, pasirašius didikams, atidavė saugoti vals­\ntybės archyvui, šitaip buvo patvirtinta senoji sąjunga\nsu lenkais."
+  citata_rodoma: |
+    Tuo tarpu Aleksandras, didžiai rūpindama­
+    sis krikščionių sąjunga prieš turkus, nesitikėjo iš Mas­
+    kvos grėsmės. Jis pasiūlė lietuvių luomams Vilniaus
+    seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto­
+    vai buvo priėmę Piotrkove. Padarė taip, kaip siūlė ku­
+    nigaikštis: nutarimus įtraukė į valstybinius dokumen­
+    tus, kuriuos, pasirašius didikams, atidavė saugoti vals­
+    tybės archyvui, šitaip buvo patvirtinta senoji sąjunga
+    su lenkais.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

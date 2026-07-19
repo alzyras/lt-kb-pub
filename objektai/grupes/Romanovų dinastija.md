@@ -117,7 +117,16 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
     imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
     sijos įtakon.
-  citata_rodoma: "Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei\ngarsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per\nDimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—\npagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­\nmingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje\n«abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,\nkuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo\nimperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­\nsijos įtakon."
+  citata_rodoma: |
+    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
+    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
+    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
+    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
+    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
+    «abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,
+    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
+    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
+    sijos įtakon.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -139,7 +148,15 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
     minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
     vandenį.
-  citata_rodoma: "Kai\nvienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-\nlernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,\nbuvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos\npartneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos\nvalstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos\nminčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)\nvandenį."
+  citata_rodoma: |
+    Kai
+    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
+    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
+    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
+    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
+    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
+    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
+    vandenį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -161,7 +178,10 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     gyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji
     linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
     novais iki pat galo).
-  citata_rodoma: "(iš tikrųjų Romanovų vyriškoji\nlinija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-\nnovais iki pat galo)."
+  citata_rodoma: |
+    (iš tikrųjų Romanovų vyriškoji
+    linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
+    novais iki pat galo).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

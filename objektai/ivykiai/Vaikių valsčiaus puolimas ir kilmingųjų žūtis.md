@@ -75,7 +75,11 @@ Nenurodyta
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
     sykių jis stojo prieš juos į kovą.
-  citata_rodoma: "Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti\ntiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur\n— irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek\nsykių jis stojo prieš juos  į kovą."
+  citata_rodoma: |
+    Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
+    tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
+    — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
+    sykių jis stojo prieš juos  į kovą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -94,7 +98,13 @@ Nenurodyta
     šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų.
-  citata_rodoma: "Kitą\nkartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o\nkeletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus\nšešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti\ntiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur\n— irgi iš pasalų — nukovė daug kilmingųjų."
+  citata_rodoma: |
+    Kitą
+    kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
+    keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus
+    šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
+    tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
+    — irgi iš pasalų — nukovė daug kilmingųjų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

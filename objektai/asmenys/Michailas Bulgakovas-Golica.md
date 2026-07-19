@@ -87,7 +87,21 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
     37 m. praleidęs nelais-
     vėje Lietuvoje, jau senas,
     1551 m. grįžo į tėvynę.
-  citata_rodoma: "Po Oršos mūšio\npatekęs į nelaisvę, jis joje\nir mirė - Vilniuje, 1516 m.\nKunigaikštis Micha-\n\nilas Bulgakovas-Golica,\nvienas iš vaivadų, pa-\nsiųstų Oršos link, mū-\nšyje vadovavo dešiniajam\nflangui. Pergyveno dau-\ngelį amžininkų, kurie\nkovėsi mūšyje, ir net\n\n37 m."
+  citata_rodoma: |
+    Po Oršos mūšio
+    patekęs į nelaisvę, jis joje
+    ir mirė - Vilniuje, 1516 m.
+    Kunigaikštis Micha-
+
+    ilas Bulgakovas-Golica,
+    vienas iš vaivadų, pa-
+    siųstų Oršos link, mū-
+    šyje vadovavo dešiniajam
+    flangui. Pergyveno dau-
+    gelį amžininkų, kurie
+    kovėsi mūšyje, ir net
+
+    37 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

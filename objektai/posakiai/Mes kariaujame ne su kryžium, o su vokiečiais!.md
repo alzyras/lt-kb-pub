@@ -93,7 +93,10 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
     Kad padidintų savo realią jėgą prieš Vokiečius, jis, kaip
     minėta, jungėsi su Lenkais ir Mozūrais, ir tas sąjungas su­
     tvirtino, išleisdamas už tų kraštų valdovų savo dukteris.
-  citata_rodoma: "Gediminas pirmas iš lie­\ntuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su\nvokiečiais!“"
+  citata_rodoma: |
+    Gediminas pirmas iš lie­
+    tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su
+    vokiečiais!“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

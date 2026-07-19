@@ -169,7 +169,15 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
     santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
     varžymų ir represijų, kurios būtų palietusios vokiečių arba Lie­
     tuvos pirklius.
-  citata_rodoma: "Bet ši atsisakė eiti prieš Vytautą, nes, ma­\ntyt, nenorėjo pagadinti tų santykių, kurie buvo tarp Vytauto ir\nHanzai priklausančio Dorpato, kad tuo pačiu nepakenktų savo\nprekybiniams interesams šiaurėje.\nTiktai po Melno taikos, prasidėjus geriems Vytauto\nsantykiams su magistru Russdorfu, nebepasitaikė daugiau su­\nvaržymų ir represijų, kurios būtų palietusios vokiečių arba Lie­\ntuvos pirklius."
+  citata_rodoma: |
+    Bet ši atsisakė eiti prieš Vytautą, nes, ma­
+    tyt, nenorėjo pagadinti tų santykių, kurie buvo tarp Vytauto ir
+    Hanzai priklausančio Dorpato, kad tuo pačiu nepakenktų savo
+    prekybiniams interesams šiaurėje.
+    Tiktai po Melno taikos, prasidėjus geriems Vytauto
+    santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
+    varžymų ir represijų, kurios būtų palietusios vokiečių arba Lie­
+    tuvos pirklius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -194,7 +202,12 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
     vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
     tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
     buvo apsupta pirklių gyvenamų ir lankomų žemių.
-  citata_rodoma: "Nuo Lietuvos buvo taip pat netoli tokie\nanų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­\nvas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­\ntuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių\nbuvo apsupta pirklių gyvenamų ir lankomų žemių."
+  citata_rodoma: |
+    Nuo Lietuvos buvo taip pat netoli tokie
+    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
+    vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
+    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
+    buvo apsupta pirklių gyvenamų ir lankomų žemių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

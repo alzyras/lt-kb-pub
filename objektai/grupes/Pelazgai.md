@@ -168,7 +168,13 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
     Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
     siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
     slavų Tryzną.
-  citata_rodoma: "E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­\nsiausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais."
+  citata_rodoma: |
+    E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
+    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
+    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
+    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -189,7 +195,15 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
     kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
     arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
     davė pradžią dorėnams ir achajams.
-  citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
+  citata_rodoma: |
+    Būtent dėl šių priežasčių įvairios
+    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
+    bos susiformavo graikų kalba.
+    17
+    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
+    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
+    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
+    Dono.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

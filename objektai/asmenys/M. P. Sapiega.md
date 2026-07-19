@@ -82,7 +82,10 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
     Mūšio lauke liko pėstininkai, dragū-
     nai ir raitarai, vadovaujami LDK arkli-
     dininko M. P. Sapiegos.
-  citata_rodoma: "Mūšio lauke liko pėstininkai, dragū-\nnai ir raitarai, vadovaujami LDK arkli-\ndininko M. P. Sapiegos."
+  citata_rodoma: |
+    Mūšio lauke liko pėstininkai, dragū-
+    nai ir raitarai, vadovaujami LDK arkli-
+    dininko M. P. Sapiegos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -105,7 +108,12 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
     saugumo garantijas, pasidavė kartu
     su visa likusia kariuomene respubli-
     konams.
-  citata_rodoma: "Po kurio laiko\nM. P. Sapiega, gavęs iš Višnioveckių\nsaugumo garantijas, pasidavė kartu\nsu visa likusia kariuomene respubli-\nkonams."
+  citata_rodoma: |
+    Po kurio laiko
+    M. P. Sapiega, gavęs iš Višnioveckių
+    saugumo garantijas, pasidavė kartu
+    su visa likusia kariuomene respubli-
+    konams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

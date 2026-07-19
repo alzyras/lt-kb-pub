@@ -62,7 +62,8 @@ Lietuvių kalba geriausiai iš visų gyvųjų indoeuropiečių kalbų išlaikė 
     lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
     mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės
     laikų išlikusių elementų.
-  citata_rodoma: "lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,"
+  citata_rodoma: |
+    lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

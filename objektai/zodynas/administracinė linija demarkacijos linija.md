@@ -190,7 +190,11 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio
     18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,
     laikydamasi Rusijos nedalomumo principo.
-  citata_rodoma: "Lietuvai paprašius Antantės demarkuoti lini-\nją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio \n18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, \nlaikydamasi Rusijos nedalomumo principo."
+  citata_rodoma: |
+    Lietuvai paprašius Antantės demarkuoti lini-
+    ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio
+    18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,
+    laikydamasi Rusijos nedalomumo principo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -216,7 +220,18 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     nėra. Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp
     abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administraci-
     ne linija“, bet ne „siena“, kaip norėjo lietuviai.
-  citata_rodoma: "“ A. Voldemaras, neturėdamas \nLietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės: \nDovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir \npasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)\n\nL I E T U V O S  I S T O R I J A\n160\nišeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos \nnėra. Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp \nabiejų valstybių pavadino jau ne „demarkacijos linija“, o „administraci-\nne linija“, bet ne „siena“, kaip norėjo lietuviai."
+  citata_rodoma: |
+    “ A. Voldemaras, neturėdamas
+    Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
+    Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
+    pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
+
+    L I E T U V O S  I S T O R I J A
+    160
+    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
+    nėra. Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp
+    abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administraci-
+    ne linija“, bet ne „siena“, kaip norėjo lietuviai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -235,7 +250,10 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     promisui. Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
     dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
     perėjusį liniją lenkų kareivį.
-  citata_rodoma: "Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-\ndentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė \nperėjusį liniją lenkų kareivį."
+  citata_rodoma: |
+    Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
+    dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
+    perėjusį liniją lenkų kareivį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -252,7 +270,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.
     Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
     iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
-  citata_rodoma: "Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės  \niš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)"
+  citata_rodoma: |
+    Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
+    iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -277,7 +297,13 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
-  citata_rodoma: "Nors 1920 m. \nspalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį \nsusitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-\nvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-\nligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos \n(Litwa środkowa) sudarymą."
+  citata_rodoma: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

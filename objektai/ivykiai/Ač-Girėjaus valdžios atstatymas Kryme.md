@@ -101,7 +101,11 @@ Nenurodyta
     kryžiuočių
     Choinicų
     pilies.
-  citata_rodoma: "M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą \nKryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus \ngrižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid- \nmenj BK piešia kitaip, negu J. Dlugošas."
+  citata_rodoma: |
+    M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą
+    Kryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus
+    grižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid-
+    menj BK piešia kitaip, negu J. Dlugošas.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

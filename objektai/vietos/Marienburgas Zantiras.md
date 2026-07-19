@@ -118,7 +118,11 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
     todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
     po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
     veno prie šios šventyklos; su tuo sutinka ir Strijkovskis.
-  citata_rodoma: "Trečia šventykla buvo vietovėje, kur dabar Marienburgas,\nprie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,\npastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.\nToji vietovė anksčiau vadinosi Zantiras."
+  citata_rodoma: |
+    Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
+    prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
+    pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.
+    Toji vietovė anksčiau vadinosi Zantiras.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -140,7 +144,12 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
     pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
     būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
     tuvos Romovę prie Dubysos ir Nemuno santakos12.
-  citata_rodoma: "Toji vietovė anksčiau vadinosi Zantiras. Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla."
+  citata_rodoma: |
+    Toji vietovė anksčiau vadinosi Zantiras. Šventyklos aptvaro vi­
+    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
+    bai, -  anot Enėjo Silvijaus liudijimo.
+    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
+    taip pat buvusi šventykla.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

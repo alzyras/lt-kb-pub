@@ -80,7 +80,8 @@ Terminas šiame šaltinyje siejamas su 1891 m. gautu akademiniu laipsniu.
     lologijos fakultetą.
     Filosofijos kandidato laipsnį gavo 1891 m.,
     fil.
-  citata_rodoma: "Filosofijos kandidato laipsnį gavo 1891 m"
+  citata_rodoma: |
+    Filosofijos kandidato laipsnį gavo 1891 m
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas

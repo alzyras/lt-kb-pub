@@ -107,7 +107,30 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 
     1831 m. sukilimo periodu Rusijos artilerija naudojo „jedinorog“, („vienaragio“) tipo pa-
     būklus.
-  citata_rodoma: "Kautynėms paruoštą Rusijos kariuome-\nnės pagrindą sudarė: Leibgvardijos lie-\ntuviškasis pėstininkų pulkas (pagrindinė\npulko dalis slopino sukilimą Lenkijoje,\nprie Vilniaus buvo jo atsarginės dalys),\nLeibgvardijos Voluinės pėstininkų pulkas,\n6-asis karabinierių pulkas, Leibgvardijos\ngrafo Arakčejevo grenadierių pulkas, 9-asis\njėgerių pulkas, 48-ojo (lietuviškojo) jėgerių\npulko kuopos, 96-ojo Vilniaus pėstininkų\npulko kuopos, Leibgvardijos Podolės ki-\nrasyrų pulkas, Liebgvardijos Jo Didenybės\nulonų pulkas, Novomirogrado ulonų pul-\n\nkas, Orenburgo ulonų pulkas,\n= Leibgvardijos kazokų pulkas. Iš\nviso: 17 000 karių ir 58 artileri-\njos pabūklai. Visai rusų gynybai\nturėjo vadovauti pagyvenęs generolas\n\n„VIENARAGIS“\n\n1831 m."
+  citata_rodoma: |
+    Kautynėms paruoštą Rusijos kariuome-
+    nės pagrindą sudarė: Leibgvardijos lie-
+    tuviškasis pėstininkų pulkas (pagrindinė
+    pulko dalis slopino sukilimą Lenkijoje,
+    prie Vilniaus buvo jo atsarginės dalys),
+    Leibgvardijos Voluinės pėstininkų pulkas,
+    6-asis karabinierių pulkas, Leibgvardijos
+    grafo Arakčejevo grenadierių pulkas, 9-asis
+    jėgerių pulkas, 48-ojo (lietuviškojo) jėgerių
+    pulko kuopos, 96-ojo Vilniaus pėstininkų
+    pulko kuopos, Leibgvardijos Podolės ki-
+    rasyrų pulkas, Liebgvardijos Jo Didenybės
+    ulonų pulkas, Novomirogrado ulonų pul-
+
+    kas, Orenburgo ulonų pulkas,
+    = Leibgvardijos kazokų pulkas. Iš
+    viso: 17 000 karių ir 58 artileri-
+    jos pabūklai. Visai rusų gynybai
+    turėjo vadovauti pagyvenęs generolas
+
+    „VIENARAGIS“
+
+    1831 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

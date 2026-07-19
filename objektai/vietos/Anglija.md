@@ -326,7 +326,13 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
     buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
     vietoje įprasto Horacijaus.
-  citata_rodoma: "Vilniaus universite-\nto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, \nMartyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir \nOksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. \nbuvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose \nvietoje įprasto Horacijaus."
+  citata_rodoma: |
+    Vilniaus universite-
+    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
+    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
+    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
+    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
+    vietoje įprasto Horacijaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -368,7 +374,13 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
     lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
     matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
-  citata_rodoma: "Karališkosiose ekonomijose jis ėmėsi radikalių reformų: \nsteigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę, \nbuvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me- \nlioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-\nlės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė \nmatininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine."
+  citata_rodoma: |
+    Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
+    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
+    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
+    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
+    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -427,7 +439,17 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
     sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
     riteris Boucicaut24.
-  citata_rodoma: "119\n\n## Puslapis 136\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nlankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­\nbio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­\nno sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos\nsostą23. Prancūzams ir kitiems kariams vadovavo narsusis\nriteris Boucicaut24."
+  citata_rodoma: |
+    119
+
+    ## Puslapis 136
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
+    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
+    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
+    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
+    riteris Boucicaut24.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -452,7 +474,14 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
     vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
     esanti pagonių šalis.
-  citata_rodoma: "Kai rug­\npjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­\nko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­\npročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę\njų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­\nvai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar\nesanti pagonių šalis."
+  citata_rodoma: |
+    Kai rug­
+    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
+    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
+    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
+    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
+    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
+    esanti pagonių šalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -76,7 +76,10 @@ Stankus, J. — Stankus, J.
     technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs. 1, 1970,
     113-133 p. — (”) _Kalavijų ir ietigalių gamybos technologija Lietuvoje
     IX-XIII amžiais_ , AkMD, t. 33, sąs.
-  citata_rodoma: "— Stankus, J. : _Geležinių įrankių gamybos\ntechnologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs. 1, 1970,\n113-133 p."
+  citata_rodoma: |
+    — Stankus, J. : _Geležinių įrankių gamybos
+    technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs. 1, 1970,
+    113-133 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

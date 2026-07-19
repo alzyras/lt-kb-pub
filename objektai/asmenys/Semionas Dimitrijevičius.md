@@ -67,13 +67,19 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Maskvos didysis kunigaikštis, išgirdęs apie tai, pa­
-    siuntė pas savo uošvį, didįjį kunigaikštį Vytautą, pa­
-    siuntinius, sakydamas jam: „Valdove, didysis kuni­
-    gaikšti Vytautai! Tu man — kaip tėvas, ir nepyk ant
-    manęs. Aš nekaltas dėl to, ką blogi žmonės padarė be
-    mano žinios.
-  citata_rodoma: "APIE TAI. KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ \nŽMONĄ\nGrįždami atgal ', |Vytautas su Jogailai užsuko į \nDrucką2  ir pietavo pas Drucko kunigaikštį Semioną \nDimitrijevičių3 . O karaliui Jogailai jau trečia žmona \nbuvo mirusi, nepalikdama įpėdinio4 ."
+    APIE TAI. KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ
+    ŽMONĄ
+    Grįždami atgal ', |Vytautas su Jogailai užsuko į
+    Drucką2  ir pietavo pas Drucko kunigaikštį Semioną
+    Dimitrijevičių3 . O karaliui Jogailai jau trečia žmona
+    buvo mirusi, nepalikdama įpėdinio4 .
+  citata_rodoma: |
+    APIE TAI. KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ
+    ŽMONĄ
+    Grįždami atgal ', |Vytautas su Jogailai užsuko į
+    Drucką2  ir pietavo pas Drucko kunigaikštį Semioną
+    Dimitrijevičių3 . O karaliui Jogailai jau trečia žmona
+    buvo mirusi, nepalikdama įpėdinio4 .
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

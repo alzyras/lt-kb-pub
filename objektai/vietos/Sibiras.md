@@ -149,7 +149,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
-  citata_rodoma: "zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių"
+  citata_rodoma: |
+    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -169,7 +170,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     lumą) ir kiti. Suimtieji paskelbti už įstatymo ribų, jų turtas konfiskuotas.
     Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
     nusikaltimais asmenys.
-  citata_rodoma: "Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais"
+  citata_rodoma: |
+    Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -184,7 +186,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   citata_originali: |
     Tad lietuvių inteligentija
     iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
-  citata_rodoma: "iškeliavo dviem kryptimis – į Vakarus ar į Sibirą..."
+  citata_rodoma: |
+    iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -204,7 +207,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-  citata_rodoma: "didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos"
+  citata_rodoma: |
+    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

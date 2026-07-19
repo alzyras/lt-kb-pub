@@ -1742,7 +1742,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
     ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
     Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
-  citata_rodoma: "Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti\nir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.\nKrokuvoje buvo vainikuota Lenkijos « karaliumi »."
+  citata_rodoma: |
+    Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
+    ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
+    Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1778,7 +1781,9 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
     plačius pasiruošimus. Kijeve jau birželio mėn. prie gausių stalų
     buvo susirinkusi didelė kariuomenė^29.
-  citata_rodoma: "Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė\nplačius pasiruošimus. Kijeve jau birželio mėn."
+  citata_rodoma: |
+    Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
+    plačius pasiruošimus. Kijeve jau birželio mėn.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1800,7 +1805,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
     Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
     nėjęs Vytautą nepradėti kautynių.
-  citata_rodoma: "Prie Vorsklos galvas paguldė\nVytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis\nKrokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.\nJo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­\nnėjęs Vytautą nepradėti kautynių."
+  citata_rodoma: |
+    Prie Vorsklos galvas paguldė
+    Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis
+    Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
+    Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
+    nėjęs Vytautą nepradėti kautynių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1825,7 +1835,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     karalium, greitai sugrįžo į Lietuvą^1 ). Šitas jo skubus sugrįži­
     mas daug pasako: matyt, tikrai pajuto sau pavojų iš Jogailos
     pusės.
-  citata_rodoma: "Matyt, susirūpinęs tokia ga­\nlimybe, Vytautas tuojau po paskutinio savo pralaimėjimo nu­\nvyko į Krokuvą ir, nežiūrint geriausių iš pažiūros santykių su\nkaralium, greitai sugrįžo į Lietuvą^1 ). Šitas jo skubus sugrįži­\nmas daug pasako: matyt, tikrai pajuto sau pavojų iš Jogailos\npusės."
+  citata_rodoma: |
+    Matyt, susirūpinęs tokia ga­
+    limybe, Vytautas tuojau po paskutinio savo pralaimėjimo nu­
+    vyko į Krokuvą ir, nežiūrint geriausių iš pažiūros santykių su
+    karalium, greitai sugrįžo į Lietuvą^1 ). Šitas jo skubus sugrįži­
+    mas daug pasako: matyt, tikrai pajuto sau pavojų iš Jogailos
+    pusės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1851,7 +1867,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
     tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
     buvo apsupta pirklių gyvenamų ir lankomų žemių.
-  citata_rodoma: "Nuo Lietuvos buvo taip pat netoli tokie\nanų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­\nvas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­\ntuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių\nbuvo apsupta pirklių gyvenamų ir lankomų žemių."
+  citata_rodoma: |
+    Nuo Lietuvos buvo taip pat netoli tokie
+    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
+    vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
+    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
+    buvo apsupta pirklių gyvenamų ir lankomų žemių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1872,7 +1893,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
     reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
     amžiaus.
-  citata_rodoma: "Užsieny jau daug kas manė, kad\njis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuo-\njautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems\nį Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-\nreikšti užuojautą\". Zigmantas mirė 1548 m."
+  citata_rodoma: |
+    Užsieny jau daug kas manė, kad
+    jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuo-
+    jautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems
+    į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
+    reikšti užuojautą". Zigmantas mirė 1548 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1905,7 +1931,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     svajojo valdyti taip, kaip
     buvo valdoma Prancūzi-
     ja, t. y. absoliutiškai.
-  citata_rodoma: "Atvykęs ir vainikavęsis\nKrokuvoje, jis savo pa-\nžadų nepaisė, vedybas\nsu Ona vis atidėliojo ir\nsvajojo valdyti taip, kaip\nbuvo valdoma Prancūzi-\nja, t."
+  citata_rodoma: |
+    Atvykęs ir vainikavęsis
+    Krokuvoje, jis savo pa-
+    žadų nepaisė, vedybas
+    su Ona vis atidėliojo ir
+    svajojo valdyti taip, kaip
+    buvo valdoma Prancūzi-
+    ja, t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1926,7 +1959,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
     menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
     Tuo būdu buvo karūnuotas atvykęs Zigmantas.
-  citata_rodoma: "Būdamas hetmonas, vadovaudamas Lenkijos kariuo-\nmenei, jis atvykstančio Maksimilijono neįleido į Krokuvą\nTuo būdu buvo karūnuotas atvykęs Zigmantas."
+  citata_rodoma: |
+    Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
+    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
+    Tuo būdu buvo karūnuotas atvykęs Zigmantas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1951,7 +1987,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
     krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
     pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
-  citata_rodoma: "Kartu su juo atvyko žavesiu ir\ntauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­\nčionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno\narkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­\nčiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­\nkrikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų\npirmaujančios anuomet Šiaurėje valstybės valdovų svita."
+  citata_rodoma: |
+    Kartu su juo atvyko žavesiu ir
+    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
+    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
+    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
+    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
+    krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
+    pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1973,7 +2016,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     XVIII a. pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų),
     atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
     čiasis Lietuvos Statutas 1588 m.
-  citata_rodoma: "Seime Lietuva \nturėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos \nbuvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).\nIšliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira \nvykdomoji valdžia – kancleris, iždininkas, etmonas ir kt."
+  citata_rodoma: |
+    Seime Lietuva
+    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
+    buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
+    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
+    vykdomoji valdžia – kancleris, iždininkas, etmonas ir kt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1994,7 +2042,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     malumus. Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
     mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
     davo karūnacija.
-  citata_rodoma: "Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-\nmas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-\ndavo karūnacija."
+  citata_rodoma: |
+    Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
+    mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
+    davo karūnacija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2018,7 +2069,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     mo. Dailieji menai, architektūra, tapyba ir skulptūra, mažai
     pažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­
     vyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti.
-  citata_rodoma: "Šio karaliaus laikais Vilnius buvo aprūpintas geriausiais\namatininkais iš Krokuvos, kurie, apsigyvenę mieste, daug\nprisidėjo prie karaliaus uoliai steigiamų cechų organizavi­\nmo. Dailieji menai, architektūra, tapyba ir skulptūra, mažai\npažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­\nvyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti."
+  citata_rodoma: |
+    Šio karaliaus laikais Vilnius buvo aprūpintas geriausiais
+    amatininkais iš Krokuvos, kurie, apsigyvenę mieste, daug
+    prisidėjo prie karaliaus uoliai steigiamų cechų organizavi­
+    mo. Dailieji menai, architektūra, tapyba ir skulptūra, mažai
+    pažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­
+    vyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2071,7 +2128,15 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
     ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
     nebuvo matyti.
-  citata_rodoma: "Nors jų ginčai dėl karaliaus\ngydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­\nnio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­\nmiko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau\ntapo nuolatinės miesto vaistinės pradžia.\nNors Lietuvos sostinė ir gavo naudos susijusios su preky­\nba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą\nnebuvo matyti."
+  citata_rodoma: |
+    Nors jų ginčai dėl karaliaus
+    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
+    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
+    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
+    tapo nuolatinės miesto vaistinės pradžia.
+    Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
+    ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
+    nebuvo matyti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2117,7 +2182,11 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
     versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
     davė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje.
-  citata_rodoma: "Svarbų vaidmenį šiame procese suvaidino \nLietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-\nversitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas \ndavė konkrečių rezultatų XV a."
+  citata_rodoma: |
+    Svarbų vaidmenį šiame procese suvaidino
+    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
+    versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
+    davė konkrečių rezultatų XV a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2134,7 +2203,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     pasiskelbti kunigaikščiu. Gavęs dėdės, karaliaus Zigmanto, su-
     tikimą, jis visa tai įvykdė ir 1525 m. Krokuvoje iškilmingai
     prisiekė Zigmantui, kaip Prūsų kunigaikštis.
-  citata_rodoma: "Gavęs dėdės, karaliaus Zigmanto, su-\ntikimą, jis visa tai įvykdė ir 1525 m. Krokuvoje iškilmingai\nprisiekė Zigmantui, kaip Prūsų kunigaikštis."
+  citata_rodoma: |
+    Gavęs dėdės, karaliaus Zigmanto, su-
+    tikimą, jis visa tai įvykdė ir 1525 m. Krokuvoje iškilmingai
+    prisiekė Zigmantui, kaip Prūsų kunigaikštis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2161,7 +2233,18 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­
     demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
     skyrė.
-  citata_rodoma: "Vilniaus vyskupas Valerijonas Pro- \ntasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun- \ndavo ir įsteigė įvairių mokslų viešąsias mokyklas.\n1578 metais Karalius Steponas Batoras, šias funduotas mo­\nkyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­\nmijoms, o išskirtinai Krokuvos, prilygino. Profesorius ir stu­\ndentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei \njurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­\ndė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­\ndemijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­\nskyrė."
+  citata_rodoma: |
+    Vilniaus vyskupas Valerijonas Pro-
+    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
+    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
+    1578 metais Karalius Steponas Batoras, šias funduotas mo­
+    kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
+    mijoms, o išskirtinai Krokuvos, prilygino. Profesorius ir stu­
+    dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei
+    jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­
+    dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­
+    demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
+    skyrė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2222,7 +2305,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.
     Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
     lų, gaminta bombos ir kiti karo reikmenys.
-  citata_rodoma: "Alavas ir varis iš\nVengrijos buvo gabenamas į Krokuvą, o ten superkamas į\nVilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.\nŠiame anuomet garsiame fabrike išlieta labai daug pabūk­\nlų, gaminta bombos ir kiti karo reikmenys."
+  citata_rodoma: |
+    Alavas ir varis iš
+    Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į
+    Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.
+    Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
+    lų, gaminta bombos ir kiti karo reikmenys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2342,7 +2430,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
     organizavimu, studijomis Krokuvos universitete, administracinės sistemos
     perėmimu, ūkio reforma.
-  citata_rodoma: "Tačiau viską nulė-\nmė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji \ncivilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos \norganizavimu, studijomis Krokuvos universitete, administracinės sistemos \nperėmimu, ūkio reforma."
+  citata_rodoma: |
+    Tačiau viską nulė-
+    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
+    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
+    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
+    perėmimu, ūkio reforma.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2428,7 +2521,28 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
     miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
     tapo nuolatinės miesto vaistinės pradžia.
-  citata_rodoma: "1208, kur nurodytas Slaptajame \narchyve esantis vokiečių kalba rašy­\ntas didžiojo Lietuvos kunigaikščio \nVytauto žmonos Julijonos, dėkojan- \nčios didžiajam magistrui Pauliui fon\n237\n\n## Puslapis 254\n\nVILNIAUS MIESTO ISTORIJA I I  TOMAS\nNebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­\nniais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­\nmavo skausminga liga, iš Krokuvos atvyko anuometinį gy­\ndymo meną išmanantys: vienas - pagal profesiją fizikas, arba \nrūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; \nantras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­\ndymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus \ngydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­\nnio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­\nmiko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau \ntapo nuolatinės miesto vaistinės pradžia."
+  citata_rodoma: |
+    1208, kur nurodytas Slaptajame
+    archyve esantis vokiečių kalba rašy­
+    tas didžiojo Lietuvos kunigaikščio
+    Vytauto žmonos Julijonos, dėkojan-
+    čios didžiajam magistrui Pauliui fon
+    237
+
+    ## Puslapis 254
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­
+    niais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­
+    mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­
+    dymo meną išmanantys: vienas - pagal profesiją fizikas, arba
+    rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas;
+    antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­
+    dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus
+    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
+    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
+    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
+    tapo nuolatinės miesto vaistinės pradžia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2453,7 +2567,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
     Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
     cijos pirkliai.
-  citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai."
+  citata_rodoma: |
+    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
+    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
+    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
+    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
+    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
+    cijos pirkliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2474,7 +2594,12 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: "Manoma, kad studijų lygis senajame universitete nebuvo \nmenkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių \nir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-\nŽymiausio LDK karo inžinieriaus, daugiapakopių raketų  \nteorijos  kūrėjo K."
+  citata_rodoma: |
+    Manoma, kad studijų lygis senajame universitete nebuvo
+    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2645,7 +2770,11 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
     Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
     gynė ir pasitraukę Lietuvos sukilėliai.
-  citata_rodoma: "Vasarą rusų ir prūsų kariuomenės per-\nėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį \nRusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią \ngynė ir pasitraukę Lietuvos sukilėliai."
+  citata_rodoma: |
+    Vasarą rusų ir prūsų kariuomenės per-
+    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
+    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
+    gynė ir pasitraukę Lietuvos sukilėliai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2676,7 +2805,22 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     naują vienuolyną, visus 36 vienuo­
     lius ir su jais sykiu Goštautą nukan­
     kino.
-  citata_rodoma: "Grzybowski  s, pranciško­\nnas, anksčiau nurodytoje knygoje\n(8 p.) sako, kad Goštautas pranciš­\nkonu tapęs Krokuvoje, o paskui ap­\nsigyvenęs Vilniuje, savo įkurtame\nvienuolyne, Vilniaus miestiečius\nvertęs į Kristaus tikėjimą. Tačiau\npastarieji 1341 metais, į Vilnių atvy­\nkus totoriams, pažadėjusiems pagal­\nbą Algirdui kažkokiame žygyje,\nšiuos pagonis sukurstė pulti pran­\nciškonus ir kartu su jais užpuolę\nnaują vienuolyną, visus 36 vienuo­\nlius ir su jais sykiu Goštautą nukan­\nkino."
+  citata_rodoma: |
+    Grzybowski  s, pranciško­
+    nas, anksčiau nurodytoje knygoje
+    (8 p.) sako, kad Goštautas pranciš­
+    konu tapęs Krokuvoje, o paskui ap­
+    sigyvenęs Vilniuje, savo įkurtame
+    vienuolyne, Vilniaus miestiečius
+    vertęs į Kristaus tikėjimą. Tačiau
+    pastarieji 1341 metais, į Vilnių atvy­
+    kus totoriams, pažadėjusiems pagal­
+    bą Algirdui kažkokiame žygyje,
+    šiuos pagonis sukurstė pulti pran­
+    ciškonus ir kartu su jais užpuolę
+    naują vienuolyną, visus 36 vienuo­
+    lius ir su jais sykiu Goštautą nukan­
+    kino.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2694,7 +2838,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     sako jį galėdavus perlaužti pasagą ir pertraukti storoką kanapinę
     virvę. Jo sveikata pairo tik į gyvenimo pabaigą. Jaunystę praleido
     Zigmanto II antkapis Krokuvos katedroje.
-  citata_rodoma: "Zigmanto II antkapis Krokuvos katedroje."
+  citata_rodoma: |
+    Zigmanto II antkapis Krokuvos katedroje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2738,7 +2883,15 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     nieko pikta nepadariusius, tavo širdį, ligi šiol kentėme
     tavo rūstį taip, kaip ir dera valdiniams, klausantiems
     savo valdovo.
-  citata_rodoma: "Gal priepuolį sukėlė\nper didelis pyktis, išsiliejus\ntulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,\nkaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­\nleistas, kadangi vargu ar ką galima buvo benuveikti.\nSusirgęs karalius nuvežamas į Krokuvą, o Šich Ach-\nmetas, valdovo valia turėjęs būti Trakuose vaišingai\npriimtas, sugrįžo į Lietuvą garbingos palydos apsuptas."
+  citata_rodoma: |
+    Gal priepuolį sukėlė
+    per didelis pyktis, išsiliejus
+    tulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,
+    kaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

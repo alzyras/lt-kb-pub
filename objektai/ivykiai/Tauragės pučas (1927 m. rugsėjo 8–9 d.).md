@@ -85,7 +85,8 @@ Nenurodyta
     pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,
     buvo perimtas vadovavimas miestui, tačiau valdžia jį nuslopino, daugu-
     mą jo dalyvių suėmė ir nuteisė.
-  citata_rodoma: "pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,"
+  citata_rodoma: |
+    pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -118,7 +118,11 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
     kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
     ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
     vu.
-  citata_rodoma: "Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­\nginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­\npuliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų\nkalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų."
+  citata_rodoma: |
+    Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
+    ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
+    puliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų
+    kalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -142,7 +146,11 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
     Kopininkus ant jūračių.
     -Arnematėt mano brolelį
     Ant aukštų jūrelių?
-  citata_rodoma: "5 Šybinskis drauge su kitais mitologais mitologijos žodyne pripa­\nžįsta Lucinos vardą Junonai, bet klysta, nes Horacijus Eileitiją, Luci-\nną ir Genitalę vadina Diana. (Carmen Saeculare. -  V. 14 et segu.)\n6 Dainos, arba lietuvių liaudies dainos."
+  citata_rodoma: |
+    5 Šybinskis drauge su kitais mitologais mitologijos žodyne pripa­
+    žįsta Lucinos vardą Junonai, bet klysta, nes Horacijus Eileitiją, Luci-
+    ną ir Genitalę vadina Diana. (Carmen Saeculare. -  V. 14 et segu.)
+    6 Dainos, arba lietuvių liaudies dainos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

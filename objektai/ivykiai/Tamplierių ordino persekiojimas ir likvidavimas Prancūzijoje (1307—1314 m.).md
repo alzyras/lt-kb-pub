@@ -126,7 +126,11 @@ Nenurodyta
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
     Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
     Teutonų ordinas.
-  citata_rodoma: "Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų\npadarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai\nPrancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo\nTeutonų ordinas."
+  citata_rodoma: |
+    Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
+    padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
+    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
+    Teutonų ordinas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -145,7 +149,14 @@ Nenurodyta
     ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
     vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-  citata_rodoma: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291\nm.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310\nm. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių\nordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo\nParyžiuje 1314 m.69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos."
+  citata_rodoma: |
+    1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
+    m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
+    m. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių
+    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
+    Paryžiuje 1314 m.69
+      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
+    argumentacijos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

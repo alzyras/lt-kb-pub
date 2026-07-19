@@ -116,7 +116,21 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
     vaikais ir visomis brangenybėmis, pats, kurį metą už­
     trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
     savuosius.
-  citata_rodoma: "Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­\npuolė Minską, bet visos jo pastangos nuėjo perniek,\nnes bajorai grūmėsi labai ryžtingai, gindami žmonas\nbei vaikus, su kuriais buvo pasitraukę į miestą. Ga­\nvęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­\nkis tūkstančius algininkų bei didikų kariaunas ir ka­\nrališkąsias vėliavas, o netrukus ir pats skubiai patrau­\nkė paskui išsiųstąją kariuomenę sutelkęs pašauktinių\nbajorų jėgas ir valstybės viduje įsikūrusių skitų bū­\nrius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių."
+  citata_rodoma: |
+    Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
+    puolė Minską, bet visos jo pastangos nuėjo perniek,
+    nes bajorai grūmėsi labai ryžtingai, gindami žmonas
+    bei vaikus, su kuriais buvo pasitraukę į miestą. Ga­
+    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
+    kis tūkstančius algininkų bei didikų kariaunas ir ka­
+    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
+    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
+    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
+    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -148,7 +162,20 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
     gandą apie savo karių artėjimą ir, netikėtai užtikęs
     keliolika priešo vėliavų, plėšikaujančių po kaimus,
     nukovė septynis šimtus skitų.
-  citata_rodoma: "Kai žinia apie šį \nS k ita i su m u ša m i Ru- \nįsiveržimą pasiekė Krokuvą,\nšio je \nskubiai ten išsiuntė karaliaus\nbei didikų karius, turėjusius \nsulaikyti priešą. Be to, kuo greičiausiai iš žiemos sto­\nvyklų iškvietė algininkus, o lenkų kariuomenės lauko \netmonui Lanckoronskiui įsakė atremti virš valstybės \npakibusią grėsmę. Skubiai žygiuodamas, jis pralenkė \ngandą apie savo karių artėjimą ir, netikėtai užtikęs \nkeliolika priešo vėliavų, plėšikaujančių po kaimus, \nnukovė septynis šimtus skitų."
+  citata_rodoma: |
+    Kai žinia apie šį
+    S k ita i su m u ša m i Ru-
+    įsiveržimą pasiekė Krokuvą,
+    šio je
+    skubiai ten išsiuntė karaliaus
+    bei didikų karius, turėjusius
+    sulaikyti priešą. Be to, kuo greičiausiai iš žiemos sto­
+    vyklų iškvietė algininkus, o lenkų kariuomenės lauko
+    etmonui Lanckoronskiui įsakė atremti virš valstybės
+    pakibusią grėsmę. Skubiai žygiuodamas, jis pralenkė
+    gandą apie savo karių artėjimą ir, netikėtai užtikęs
+    keliolika priešo vėliavų, plėšikaujančių po kaimus,
+    nukovė septynis šimtus skitų.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

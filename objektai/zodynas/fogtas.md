@@ -220,7 +220,14 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
     varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
     476  1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
     (plg. D. III, 223).
-  citata_rodoma: "Apie daugybės pagudėnų išžudymą\n\n  Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo\nsembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir\nvarmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis\n\n  476 1277 m."
+  citata_rodoma: |
+    Apie daugybės pagudėnų išžudymą
+
+      Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
+    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
+    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
+
+      476 1277 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -273,7 +280,13 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
     Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
-  citata_rodoma: "Apie Ragainės pilies užkariavimą\n\n   Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų."
+  citata_rodoma: |
+    Apie Ragainės pilies užkariavimą
+
+       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -333,7 +346,14 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
     miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
     gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
     tus.
-  citata_rodoma: "Tačiau kry­\nžiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai \npasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­\ndantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau\nžemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­\ntu, negalėdami pasivyti traukiančio namo Kęstučio, nu­\nsiaubė Ariogalos žemes."
+  citata_rodoma: |
+    Tačiau kry­
+    žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai
+    pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­
+    dantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau
+    žemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­
+    tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
+    siaubė Ariogalos žemes.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

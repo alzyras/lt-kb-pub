@@ -82,16 +82,25 @@ Narbutas rašo, kad senovės vokiečiai garbino dievaites, vadintas Pilwith, Pil
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
-    tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
-    nų liaudies padavimų rinkinyje; kitą, menkai tesiskiriantį, ga­
-    vau iš Žemaitijos, iš vieno senovės tyrėjo. Pasak šių lietuvių
-    padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
-    pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
-    buvo deivė, kaip vadinosi vyriausiasis dievas. Deivės vardas
-    buvo IJetuva, jos vyro - Trinetas (Trinytis? - R.J.), dukters -
-    Dalia (Dala) arba Dahla.
-  citata_rodoma: "Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,\n„Belewitt“**.\n9\nGera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-\nrvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-\nmund -  kitoniškas (skirtingas) pasaulis*."
+    Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
+    „Belewitt“**.
+    9
+    Gera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-
+    rvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-
+    mund -  kitoniškas (skirtingas) pasaulis*.
+  citata_rodoma: |
+    Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
+    „Belewitt“**.
+    9
+    Gera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-
+    rvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-
+    mund -  kitoniškas (skirtingas) pasaulis*.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -63,7 +63,8 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: "tą patį darė čia valdas įgiję didikai Radvilos (Olyka)"
+  citata_rodoma: |
+    tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

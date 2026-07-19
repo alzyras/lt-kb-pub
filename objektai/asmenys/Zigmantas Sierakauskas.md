@@ -168,7 +168,12 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
     nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
     mybę vienu smūgiu nuleisti sukilėliams daug kraujo.
-  citata_rodoma: "Pavasarį paskirtas vyriausiuoju Lietu-\nvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas\nZigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-\nnijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-\nmybę vienu smūgiu nuleisti sukilėliams daug kraujo."
+  citata_rodoma: |
+    Pavasarį paskirtas vyriausiuoju Lietu-
+    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
+    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
+    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
+    mybę vienu smūgiu nuleisti sukilėliams daug kraujo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -189,7 +194,10 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
     prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
     vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
-  citata_rodoma: "Gegužės pradžioje\nprie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos\nvadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje."
+  citata_rodoma: |
+    Gegužės pradžioje
+    prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
+    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -229,7 +237,14 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     kovos pasipriešinimas ėmė silpti.
 
     Ruoliškioež. @ Pasinaudodami tamsa sukilėliai ėmė
-  citata_rodoma: "(G) Buvo sužeistas sukilėlių vadas\n\nZ. Sierakauskas, po dviejų valandų\n\nkovos pasipriešinimas ėmė silpti.\n\nRuoliškioež."
+  citata_rodoma: |
+    (G) Buvo sužeistas sukilėlių vadas
+
+    Z. Sierakauskas, po dviejų valandų
+
+    kovos pasipriešinimas ėmė silpti.
+
+    Ruoliškioež.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -253,7 +268,15 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 
     Nuo xvii a. pabaigos iki xIx a. pradžios titnaginiai šaunamieji
     ginklai iš esmės nesikeitė.
-  citata_rodoma: "Stovykloje buvusį sužeistą\n\nZ. Sierakauską jau mūšio pradžioje pavyko\nišvežti ir paslėpti Biržų girioje esančiame\nSkrebiškio palivarke. Trijų dienų mūšio\niškamuoti sukilėliai prarado budrumą ir\n\nNuo xvii a."
+  citata_rodoma: |
+    Stovykloje buvusį sužeistą
+
+    Z. Sierakauską jau mūšio pradžioje pavyko
+    išvežti ir paslėpti Biržų girioje esančiame
+    Skrebiškio palivarke. Trijų dienų mūšio
+    iškamuoti sukilėliai prarado budrumą ir
+
+    Nuo xvii a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -276,7 +299,14 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     linys. Į nelaisvę pakliuvo Z. Sierakauskas,
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
-  citata_rodoma: "Vilniaus karo apygardos Karo veiksmų\n\njuos miegančius gegužės 10 naktį apsupo ir\npaėmė į nelaisvę paporučikio fon Gaso da-\nlinys. Į nelaisvę pakliuvo Z. Sierakauskas,\nB. Kolyška, S. Kozakauskas ir dar keletas\nkarininkų."
+  citata_rodoma: |
+    Vilniaus karo apygardos Karo veiksmų
+
+    juos miegančius gegužės 10 naktį apsupo ir
+    paėmė į nelaisvę paporučikio fon Gaso da-
+    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
+    B. Kolyška, S. Kozakauskas ir dar keletas
+    karininkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

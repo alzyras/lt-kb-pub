@@ -108,7 +108,10 @@ Nenurodyta
     Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
     Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
     iš J. K. Vilčinskio „Vilniaus albumo“.
-  citata_rodoma: "Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,\nSenųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras\niš J. K. Vilčinskio „Vilniaus albumo“."
+  citata_rodoma: |
+    Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
+    Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
+    iš J. K. Vilčinskio „Vilniaus albumo“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

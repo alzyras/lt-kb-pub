@@ -85,7 +85,16 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
     tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
     ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno).
-  citata_rodoma: "Apie tai, kaip prūsai niokojo Kulmo žemę\n\n  Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai\nkrikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos\nvyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai\nsėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą\nJėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą. Mat jie\nbuvo tokie užkietėję nedorėliai, kad jokie išganingi įkalbinėjimai nestengė jų atitraukti\nnuo netikėjimo klaidos."
+  citata_rodoma: |
+    Apie tai, kaip prūsai niokojo Kulmo žemę
+
+      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
+    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
+    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
+    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
+    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą. Mat jie
+    buvo tokie užkietėję nedorėliai, kad jokie išganingi įkalbinėjimai nestengė jų atitraukti
+    nuo netikėjimo klaidos.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

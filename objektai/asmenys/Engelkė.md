@@ -83,7 +83,19 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
     buvo arba paimti į nelaisvę, arba užmušti. Per vieną ir kitą antpuolį prūsai nepagarbiai
     elgėsi su šventųjų paveikslais, bažnytiniais rūbais ir kitomis dievo garbinimui skirtomis
     šventenybėmis bei bažnytiniais sakramentais.
-  citata_rodoma: "Apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje\n\n  Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje,\nnuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be\nkitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,\no geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,\nvisiškai suėstus metų ir rūdžių.\n\n\n\n\n147 (142)."
+  citata_rodoma: |
+    Apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje
+
+      Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje,
+    nuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be
+    kitų dorovingų darbų garsėjęs dar ir tuo, kad ant savo nuogo kūno nedėvėjo marškinių,
+    o geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,
+    visiškai suėstus metų ir rūdžių.
+
+
+
+
+    147 (142).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

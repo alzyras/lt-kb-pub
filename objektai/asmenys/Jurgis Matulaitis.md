@@ -69,7 +69,11 @@ Tik jų įpėdiniai iki pat 1918 m. (Jurgio Matulaičio paskyrimas) jau nebesir�
     (Jurgio Matulaičio paskyrimas) jau nebesirūpino teisėmis lietuvių
     kalbos, kurią ilgai kalbėjo didelė dalis vyskupijos tikinčiųjų.
     Pati Vilniaus katedra, gavusi šv.
-  citata_rodoma: "Tik jų įpėdiniai iki pat 1918 m.\n(Jurgio Matulaičio paskyrimas) jau nebesirūpino teisėmis lietuvių\nkalbos, kurią ilgai kalbėjo didelė dalis vyskupijos tikinčiųjų.\nPati Vilniaus katedra, gavusi šv."
+  citata_rodoma: |
+    Tik jų įpėdiniai iki pat 1918 m.
+    (Jurgio Matulaičio paskyrimas) jau nebesirūpino teisėmis lietuvių
+    kalbos, kurią ilgai kalbėjo didelė dalis vyskupijos tikinčiųjų.
+    Pati Vilniaus katedra, gavusi šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

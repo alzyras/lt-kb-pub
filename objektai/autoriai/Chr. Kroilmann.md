@@ -69,7 +69,10 @@ Kroilmann : Politische Geschichte des Deutschen Ornens in Preussen, Königsberg 
     (^3) **Plg. Z. Ivinskis :** **_Kovos bruožai dėl žemaičių ir jų sienų,_** **Athenaeum,
     VI, 1935, 67 p.**
     (^4) **CEV, 232 p. (nr. 494).
-  citata_rodoma: "**\n(^2) **Plg. KrSO, 178 p. 1 išn. ; Chr. Kroilmann :** **_Politische Geschichte des\nDeutschen Ornens in Preussen,_** **Königsberg 1932, 9S-96 p."
+  citata_rodoma: |
+    **
+    (^2) **Plg. KrSO, 178 p. 1 išn. ; Chr. Kroilmann :** **_Politische Geschichte des
+    Deutschen Ornens in Preussen,_** **Königsberg 1932, 9S-96 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

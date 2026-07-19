@@ -99,7 +99,20 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
     kraštai visur garsėjo midumi; ypač liepinis buvo geras Kauno
     apylinkėse, kol didžiulius tenykščius liepynus sunaikino šalį
     ištikusi suirutė.
-  citata_rodoma: "IV\nskyrius\nAPIE AUKAS\nŠventieji gėrimai\nAlus (Alus) senovės lietuviams visuomet buvo pirmutinis\nir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­\nsias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę\nkilme. Paryžiaus akademijos „Užrašų“ XVII tome plačiai dės­\ntomi pastebėjimai šiuo klausimu. Jų turinys toks. Antika alaus\nišradimą priskiria Cererai ir Oziriui, kai jiedu klaidžiojo po\nžemę: pirmoji -  ieškodama savo vienatinės dukters Prozerpi­\nnos, o antrasis -  šviesdamas tautas, mokydamas jas meno ir\nnaudingų amatų."
+  citata_rodoma: |
+    IV
+    skyrius
+    APIE AUKAS
+    Šventieji gėrimai
+    Alus (Alus) senovės lietuviams visuomet buvo pirmutinis
+    ir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­
+    sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
+    kilme. Paryžiaus akademijos „Užrašų“ XVII tome plačiai dės­
+    tomi pastebėjimai šiuo klausimu. Jų turinys toks. Antika alaus
+    išradimą priskiria Cererai ir Oziriui, kai jiedu klaidžiojo po
+    žemę: pirmoji -  ieškodama savo vienatinės dukters Prozerpi­
+    nos, o antrasis -  šviesdamas tautas, mokydamas jas meno ir
+    naudingų amatų.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

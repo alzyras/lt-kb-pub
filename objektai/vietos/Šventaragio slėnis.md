@@ -373,7 +373,18 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     lioje senovėje stūksojusi prie Vilnios
     upės, ant kalvos, kur dabar yra Kū­
     dikėlio Jėzaus ligoninė.
-  citata_rodoma: "Tas slėnis, vadintas Šventaragio, buvo skirtas\naukurui, ant kurio pagal lietuvių pagonių papročius degin­\ndavo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo\natiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­\nkimu tarnu, šunimis ir žirgu, išbandytu mūšiuose7. Tad ga-\n6\nSklido seniau tarp žmonių tokia le­\ngenda apie medinę pilį, kuri labai gi­\nlioje senovėje stūksojusi prie Vilnios\nupės, ant kalvos, kur dabar yra Kū­\ndikėlio Jėzaus ligoninė."
+  citata_rodoma: |
+    Tas slėnis, vadintas Šventaragio, buvo skirtas
+    aukurui, ant kurio pagal lietuvių pagonių papročius degin­
+    davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo
+    atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­
+    kimu tarnu, šunimis ir žirgu, išbandytu mūšiuose7. Tad ga-
+    6
+    Sklido seniau tarp žmonių tokia le­
+    genda apie medinę pilį, kuri labai gi­
+    lioje senovėje stūksojusi prie Vilnios
+    upės, ant kalvos, kur dabar yra Kū­
+    dikėlio Jėzaus ligoninė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -399,7 +410,10 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     Švč. Mergelės šventė (IX.8) 374
     Šventaragio slėnys 244
     Šv.
-  citata_rodoma: "Mergelės šventė (IX.8) 374\nŠventaragio slėnys 244\nŠv."
+  citata_rodoma: |
+    Mergelės šventė (IX.8) 374
+    Šventaragio slėnys 244
+    Šv.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -424,7 +438,16 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
     mosi metu gal buvo paprastų ir laisvų žmonių vienas vadų
     ir patriarchų.
-  citata_rodoma: "Ties ta\npuikiąja upe, laikantis senų tradicijų, kronikininkų perduo­\ntų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi\nkatedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą\ngal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­\nvaičio Perkūno garbei. Ją saugojo ir kurstė žyniai, o jų vy­\nriausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­\nmosi metu gal buvo paprastų ir laisvų žmonių vienas vadų\nir patriarchų."
+  citata_rodoma: |
+    Ties ta
+    puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­
+    tų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi
+    katedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą
+    gal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­
+    vaičio Perkūno garbei. Ją saugojo ir kurstė žyniai, o jų vy­
+    riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
+    mosi metu gal buvo paprastų ir laisvų žmonių vienas vadų
+    ir patriarchų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -554,7 +577,30 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
-  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t."
+  citata_rodoma: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

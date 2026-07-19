@@ -132,7 +132,9 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
     m. ir didysis magistras
     persikėlė į Prūsus. Tuo būdu ordino centras pasidarė Ma-
     rijenburgas.
-  citata_rodoma: "Tuo būdu ordino centras pasidarė Ma-\nrijenburgas."
+  citata_rodoma: |
+    Tuo būdu ordino centras pasidarė Ma-
+    rijenburgas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

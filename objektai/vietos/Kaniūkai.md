@@ -62,7 +62,14 @@ Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi.
     dviem minosvaidžiais, dviratininkų
     būrys ir lietuvių 1-ojo pėst. pulko 8-oji
     kuopa.
-  citata_rodoma: "Kolona pro Kaniūkų bei Pakalnių kai-\nmus turėjo veržtis Utenos kryptimi.\nViduriniąją koloną sudarė viena saksų\nsavanorių kuopa, artilerijos būrys (2 pa-\ntrankos), minosvaidžių komanda su\ndviem minosvaidžiais, dviratininkų\nbūrys ir lietuvių 1-ojo pėst."
+  citata_rodoma: |
+    Kolona pro Kaniūkų bei Pakalnių kai-
+    mus turėjo veržtis Utenos kryptimi.
+    Viduriniąją koloną sudarė viena saksų
+    savanorių kuopa, artilerijos būrys (2 pa-
+    trankos), minosvaidžių komanda su
+    dviem minosvaidžiais, dviratininkų
+    būrys ir lietuvių 1-ojo pėst.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

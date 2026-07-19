@@ -70,7 +70,13 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
     no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
-  citata_rodoma: "Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o \nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9."
+  citata_rodoma: |
+    Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

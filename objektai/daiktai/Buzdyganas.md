@@ -75,7 +75,16 @@ Nenurodyta
 
     XVII a. antroji pusė bei visas xviii a. tai linijinės taktikos epocha
     karyboje.
-  citata_rodoma: "Buzdyganas XVII a. pab. - XVIII a. Aštuonių\nsparnelių auksuoto plieno galva, medinis kotas\nsu kalinėto sidabro ar žalvario plokštelėmis.\nATR meistrų darbo. Buzdyganas buvo ATR\ntautinės kavalerijos karininkų valdžios ženklas\n\n## Puslapis 141\n\nXVII a."
+  citata_rodoma: |
+    Buzdyganas XVII a. pab. - XVIII a. Aštuonių
+    sparnelių auksuoto plieno galva, medinis kotas
+    su kalinėto sidabro ar žalvario plokštelėmis.
+    ATR meistrų darbo. Buzdyganas buvo ATR
+    tautinės kavalerijos karininkų valdžios ženklas
+
+    ## Puslapis 141
+
+    XVII a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

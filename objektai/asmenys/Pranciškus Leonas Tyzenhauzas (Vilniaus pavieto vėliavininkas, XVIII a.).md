@@ -89,7 +89,9 @@ media_all_json: |-
     pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
     posto [57]. O 1760 m. kanauninkas rašė, kaip Vilniaus pavieto vėliavininką Pranciškų
     Leoną Tyzenhauzą tribunole nuteisė kalėti 1 metus ir 6 savaites bokšto kalėjime [62].
-  citata_rodoma: "O 1760 m. kanauninkas rašė, kaip Vilniaus pavieto vėliavininką Pranciškų\nLeoną Tyzenhauzą tribunole nuteisė kalėti 1 metus ir 6 savaites bokšto kalėjime [62]."
+  citata_rodoma: |
+    O 1760 m. kanauninkas rašė, kaip Vilniaus pavieto vėliavininką Pranciškų
+    Leoną Tyzenhauzą tribunole nuteisė kalėti 1 metus ir 6 savaites bokšto kalėjime [62].
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas

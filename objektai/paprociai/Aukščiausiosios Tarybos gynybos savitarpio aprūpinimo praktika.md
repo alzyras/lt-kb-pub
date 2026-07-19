@@ -115,7 +115,13 @@ Nenurodyta
     ir maitinimo įmonės. Statybines medžiagas
     įtvirtinimų statybai tiekė įvairios statybinės
     organizacijos.
-  citata_rodoma: "Benzinas padegamiesiems\nmišiniams buvo suaukotas eilinių Lietuvos\ngyventojų. Maistą taip pat aukojo gyventojai\nir maitinimo įmonės. Statybines medžiagas\nįtvirtinimų statybai tiekė įvairios statybinės\norganizacijos."
+  citata_rodoma: |
+    Benzinas padegamiesiems
+    mišiniams buvo suaukotas eilinių Lietuvos
+    gyventojų. Maistą taip pat aukojo gyventojai
+    ir maitinimo įmonės. Statybines medžiagas
+    įtvirtinimų statybai tiekė įvairios statybinės
+    organizacijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -132,7 +138,10 @@ Nenurodyta
     tos ginklų remonto ir šovinių, sprogmenų
     gamybos dirbtuvės bei šaudykla. Ginklai
     ir sprogmenys - gyventojų sunešti, gauti
-  citata_rodoma: "Rengiantis gynybai AT rūsyje buvo įreng-\ntos ginklų remonto ir šovinių, sprogmenų\ngamybos dirbtuvės bei šaudykla."
+  citata_rodoma: |
+    Rengiantis gynybai AT rūsyje buvo įreng-
+    tos ginklų remonto ir šovinių, sprogmenų
+    gamybos dirbtuvės bei šaudykla.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -155,7 +164,14 @@ Nenurodyta
     prieigų, medikamentai ir tvarsliava gauti
     privačia medikų iniciatyva, o vėliau - pa-
     galba ir iš užsienio.
-  citata_rodoma: "Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastango-\nmis įkurtas pirmosios medicinos pagalbos\nir medicininio vadovavimo punktas, atsa-\nkingas už žmonių evakuaciją iš Parlamento\nprieigų, medikamentai ir tvarsliava gauti\nprivačia medikų iniciatyva, o vėliau - pa-\ngalba ir iš užsienio."
+  citata_rodoma: |
+    Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastango-
+    mis įkurtas pirmosios medicinos pagalbos
+    ir medicininio vadovavimo punktas, atsa-
+    kingas už žmonių evakuaciją iš Parlamento
+    prieigų, medikamentai ir tvarsliava gauti
+    privačia medikų iniciatyva, o vėliau - pa-
+    galba ir iš užsienio.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

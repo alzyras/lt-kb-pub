@@ -135,7 +135,11 @@ Vieta: pasakotojo namai.
     Vakare
     susiėjo
     kaimo jaunimas, atėjo kviesti ir nekviesti, net iš kitų kaimų.
-  citata_rodoma: "Atėjo griežtasis pirmadienis, vestuvių pradžia. \nVakare \nsusiėjo \nkaimo jaunimas, atėjo kviesti ir nekviesti, net iš kitų kaimų."
+  citata_rodoma: |
+    Atėjo griežtasis pirmadienis, vestuvių pradžia.
+    Vakare
+    susiėjo
+    kaimo jaunimas, atėjo kviesti ir nekviesti, net iš kitų kaimų.
   statusas: verified
   atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas
@@ -155,7 +159,12 @@ Vieta: pasakotojo namai.
     buvo
     keliamos mūsų namuose vestuvės, kurias bandysiu
     aprašyti.
-  citata_rodoma: "Ženkime metus atgal, būtent, į 1861 metus. \nTais metais \nbuvo \nkeliamos mūsų namuose vestuvės, kurias bandysiu \naprašyti."
+  citata_rodoma: |
+    Ženkime metus atgal, būtent, į 1861 metus.
+    Tais metais
+    buvo
+    keliamos mūsų namuose vestuvės, kurias bandysiu
+    aprašyti.
   statusas: verified
   atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas
@@ -171,7 +180,8 @@ Vieta: pasakotojo namai.
   citata_originali: |
     30. Rengimasis vestuvėms.
     Nuo pirmo užsako dienos ligi vestuvių lygiai trys savaitės.
-  citata_rodoma: "Nuo pirmo užsako dienos ligi vestuvių lygiai trys savaitės."
+  citata_rodoma: |
+    Nuo pirmo užsako dienos ligi vestuvių lygiai trys savaitės.
   statusas: verified
   atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas

@@ -156,7 +156,9 @@ Nenurodyta
     Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.
     Tuo tarpu grudų eksportas iki pat XVI amž. beveik visai nežino­
     mas.
-  citata_rodoma: "Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.\nTuo tarpu grudų eksportas iki pat XVI amž."
+  citata_rodoma: |
+    Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.
+    Tuo tarpu grudų eksportas iki pat XVI amž.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

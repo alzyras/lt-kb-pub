@@ -73,7 +73,11 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
     ordino žemėse lietuviai tegyveno tik toje srityje, kur veikė vad.
     lietuviškoji valstiečių teisė ir kur vėliau buvo provincija, va-
     dinama Lietuva (būtent Mažoji Lietuva).
-  citata_rodoma: "Todėl neteisinga būtų manyti, kad\nordino žemėse lietuviai tegyveno tik toje srityje, kur veikė vad.\nlietuviškoji valstiečių teisė ir kur vėliau buvo provincija, va-\ndinama Lietuva (būtent Mažoji Lietuva)."
+  citata_rodoma: |
+    Todėl neteisinga būtų manyti, kad
+    ordino žemėse lietuviai tegyveno tik toje srityje, kur veikė vad.
+    lietuviškoji valstiečių teisė ir kur vėliau buvo provincija, va-
+    dinama Lietuva (būtent Mažoji Lietuva).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

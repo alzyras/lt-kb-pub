@@ -105,7 +105,20 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
     nius, o jo pusbrolį Mikalojų
     Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
     leriu.
-  citata_rodoma: "Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai. Į seimą atvyko ir\nlenkų atstovai, kurie senato bei bajorų akivaizdoje rim­\nčių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­\nralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­\ntų vieną kartą sudaryta galutinė lenkų ir lietuvių są­\njunga, vadinamoji unija. Jie vis dėlto nieko nepešė,\nnes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių\nteisių į tas žemes."
+  citata_rodoma: |
+    Rugsėjo pabaigoje luomai susirinko Vilniuje į
+    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
+    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
+    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
+    niekas taip nekenkia visuomenės reikalams, kaip as­
+    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
+    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
+    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
+    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
+    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
+    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
+    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
+    teisių į tas žemes.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

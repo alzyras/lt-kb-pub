@@ -61,7 +61,13 @@ Kronikininko žodžiais, «Vytautas ėmė smarkiai bijoti, kad karaliui (Jogaila
     pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes
     iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva
     ir Žemaičiai.
-  citata_rodoma: "Kronikininko žodžiais, «Vytautas\nėmė smarkiai bijoti, kad karaliui (Jogailai) visą Prūsiją paėmus,\njis (Vytautas) gali būti numestas nuo sosto»^31. Tad, Jogailos\npasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes\niš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva\nir Žemaičiai."
+  citata_rodoma: |
+    Kronikininko žodžiais, «Vytautas
+    ėmė smarkiai bijoti, kad karaliui (Jogailai) visą Prūsiją paėmus,
+    jis (Vytautas) gali būti numestas nuo sosto»^31. Tad, Jogailos
+    pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes
+    iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva
+    ir Žemaičiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

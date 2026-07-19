@@ -97,7 +97,17 @@ Nenurodyta
     karo, ir taikos metu tokios pat santarvės bei šlovės,
     kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
     bei lazdą.
-  citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
+  citata_rodoma: |
+    Vis dėl­
+    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
+    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
+    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
+    sako Livonijos metraštis, žemaičiai ir lietuviai prie
+    Eželio ant ledo kovojo su Livonijos magistru Otonu,
+    magistras žuvo su penkiasdešimčia šio ordino brolių.
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas

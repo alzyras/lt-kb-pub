@@ -115,7 +115,15 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
     siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
     jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
     imtus bajorus.
-  citata_rodoma: "Pagaliau atsirado lietuvių didvyris,\nElonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­\nvaduoti šiaurę nuo tos nelaimės, pradėjo kariauti su žmogėd­\nromis; iš pradžių juos dažniausiai tik sutramdydavo, pagaliau\nvisiškai išnaikino. Istorija mena, kad jis buvo vieno iš senovės\nlietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių\nir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų\nvado vardą."
+  citata_rodoma: |
+    Pagaliau atsirado lietuvių didvyris,
+    Elonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­
+    vaduoti šiaurę nuo tos nelaimės, pradėjo kariauti su žmogėd­
+    romis; iš pradžių juos dažniausiai tik sutramdydavo, pagaliau
+    visiškai išnaikino. Istorija mena, kad jis buvo vieno iš senovės
+    lietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių
+    ir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų
+    vado vardą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -123,7 +123,14 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
     nukentėdavau; juos puldavau ir su pagrindu, ir be pagrindo, bet nieko nelaimėdavau,
     nes dievas su jais ir už juos kovoja. Dėl to jums patariu niekad jiems nesipriešinti, bet
     nuolankiai juos gerbti“. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.
-  citata_rodoma: "Apie brolį Ulrichą ir 50 prūsų žūtį\n\n  Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio\nstipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Jis vienu pirštu paimdavęs už diržo\nper nugarą du ginklanešius  ir, nors jie  ir priešindavosi, lyg niekur nieko pakeldavęs\naukštyn. Jam buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus,\nkurie jūra atplaukdavo į Prūsijos žemę, nes prūsai anksčiau labai dažnai juos skandindavo."
+  citata_rodoma: |
+    Apie brolį Ulrichą ir 50 prūsų žūtį
+
+      Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio
+    stipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Jis vienu pirštu paimdavęs už diržo
+    per nugarą du ginklanešius  ir, nors jie  ir priešindavosi, lyg niekur nieko pakeldavęs
+    aukštyn. Jam buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus,
+    kurie jūra atplaukdavo į Prūsijos žemę, nes prūsai anksčiau labai dažnai juos skandindavo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -109,7 +109,11 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
     kams, priklausiusiems bajorų giminei. Taip pat čia buvo
     nemažai turtingų didelių žemės valdų savininkų; vien Me-
     rūniškio apskrityje jų būta aštuoniolika (Dusb.
-  citata_rodoma: "Taip pat čia buvo\nnemažai turtingų didelių žemės valdų savininkų; vien Me-\nrūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.\n192)."
+  citata_rodoma: |
+    Taip pat čia buvo
+    nemažai turtingų didelių žemės valdų savininkų; vien Me-
+    rūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.
+    192).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

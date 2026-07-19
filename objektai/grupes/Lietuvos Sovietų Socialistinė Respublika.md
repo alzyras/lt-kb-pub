@@ -105,7 +105,8 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
     ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
     netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
     publika.
-  citata_rodoma: "netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-"
+  citata_rodoma: |
+    netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

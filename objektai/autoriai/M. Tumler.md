@@ -67,7 +67,9 @@ TuDO = Tumler, M.
     1950.
     TuDO = Tumler, M. : Der Deutsche Orden im Werden, Wachsen und
     Wirken bis 1400. Wien 1955.
-  citata_rodoma: "TuDO = Tumler, M. : Der Deutsche Orden im Werden, Wachsen und\nWirken bis 1400. Wien 1955."
+  citata_rodoma: |
+    TuDO = Tumler, M. : Der Deutsche Orden im Werden, Wachsen und
+    Wirken bis 1400. Wien 1955.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

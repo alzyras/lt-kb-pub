@@ -102,7 +102,8 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
     demonstracijas įsakus.
-  citata_rodoma: "lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,"
+  citata_rodoma: |
+    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

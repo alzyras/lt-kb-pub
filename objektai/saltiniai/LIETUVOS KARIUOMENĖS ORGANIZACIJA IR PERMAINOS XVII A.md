@@ -56,7 +56,10 @@ media_all_json: |-
     P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“
 
     Lina Vidauskytė, Andžej Geglis, Karolis Zikaras, dail. Andžej Geglis.
-  citata_rodoma: "P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“\n\nLina Vidauskytė, Andžej Geglis, Karolis Zikaras, dail. Andžej Geglis."
+  citata_rodoma: |
+    P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“
+
+    Lina Vidauskytė, Andžej Geglis, Karolis Zikaras, dail. Andžej Geglis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

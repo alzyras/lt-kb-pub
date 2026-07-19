@@ -80,7 +80,15 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
     Zb.
-  citata_rodoma: "Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova,\nkuri buvo pavartota minėtam klausimui išspręsti.\n\nPirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­\nleisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos\nkaralius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­\nra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­\nrįs tiktai pats popiežius."
+  citata_rodoma: |
+    Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova,
+    kuri buvo pavartota minėtam klausimui išspręsti.
+
+    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
+    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
+    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
+    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
+    rįs tiktai pats popiežius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

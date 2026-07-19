@@ -108,7 +108,14 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
     prieštaravimą, bet, žiūrint šiandienos akimis, „Lietuvių
     mitologija“ yra reikšmingas ano meto istorinės, savimo­
     nės paminklas.
-  citata_rodoma: "Nors pataikiau gyventi metu,\n  kuris nėra palankus darbui, skirtam tautai, kurios tik\n  vardas gyvas; nors, dažnai pavydžių ir piktų balsų ap­\n  šauktas, nesugebėjau savo darbo atlikti naujosios istori­\n  nės filosofijos minties šviesoje, vis dėlto ir toliau vargau,\n  nes turėjau viltį, jog šis darbas bus naudingas didesnių\n  sugebėjimų žmonėms“4."
+  citata_rodoma: |
+    Nors pataikiau gyventi metu,
+      kuris nėra palankus darbui, skirtam tautai, kurios tik
+      vardas gyvas; nors, dažnai pavydžių ir piktų balsų ap­
+      šauktas, nesugebėjau savo darbo atlikti naujosios istori­
+      nės filosofijos minties šviesoje, vis dėlto ir toliau vargau,
+      nes turėjau viltį, jog šis darbas bus naudingas didesnių
+      sugebėjimų žmonėms“4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

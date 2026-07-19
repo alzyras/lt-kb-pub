@@ -253,7 +253,14 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
     veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
     praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
     europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: "Vilniuje ši knyga, kurios autorius tais pat metais \nbuvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-\ntintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad \nparašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo \nveikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius – \npraktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo \neuropietiškos katalikiškos civilizacijos šalininkas."
+  citata_rodoma: |
+    Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -275,7 +282,13 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti. Taip nyko dešimtmečius kaupta bib­
     lioteka, istorijos dokumentų archyvas, nespausdinti darbai.
-  citata_rodoma: "Pradžia jau buvo padaryta:\nišleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-\njūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­\nnealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­\ntos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,\nS. Daukantas nutraukė su juo santykius."
+  citata_rodoma: |
+    Pradžia jau buvo padaryta:
+    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
+    jūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­
+    nealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­
+    tos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,
+    S. Daukantas nutraukė su juo santykius.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -298,7 +311,12 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
     timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
     ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
     dų, kurias sąmoningai ar nesąmoningai darė kiti.
-  citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12."
+  citata_rodoma: |
+    Galbūt geriausiai šį faktą paaiškintų paties
+    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
+    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
+    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
+    daug kartų apsirinka“12.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -324,7 +342,13 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
     pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­
     maičiui, norinčiam išmokti lotyniškai, nebreikia geres­
     nės knygos" (Raštai.
-  citata_rodoma: "Žymiausi Lietu­\nvos istorikai romantikai — Teodoras Narbutas (1784—\n1864), rašęs lenkiškai (Dzieje narodu litewskiego. T.\n1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793—\n1864), rašęs lietuviškai. S. Daukanto istorijos skaityto­\njai turėjo būti raštingi valstiečiai."
+  citata_rodoma: |
+    Žymiausi Lietu­
+    vos istorikai romantikai — Teodoras Narbutas (1784—
+    1864), rašęs lenkiškai (Dzieje narodu litewskiego. T.
+    1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793—
+    1864), rašęs lietuviškai. S. Daukanto istorijos skaityto­
+    jai turėjo būti raštingi valstiečiai.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas

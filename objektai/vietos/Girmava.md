@@ -142,7 +142,9 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
     jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
     maloniai jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
-  citata_rodoma: "316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į\npietryčius nuo Palmininkų (dab. Jantarnas), sembų valsčiaus centras."
+  citata_rodoma: |
+    316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į
+    pietryčius nuo Palmininkų (dab. Jantarnas), sembų valsčiaus centras.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

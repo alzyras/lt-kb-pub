@@ -138,7 +138,14 @@ Nenurodyta
     ši, po senovei spyriodamasi, jam nedavė laisvės stoti į vienuolyną. Po to ji kiekvieną
     naktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris
     sakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“.
-  citata_rodoma: "Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais\n\n  Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten\nnužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui\nir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl\nir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių\nbūrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių."
+  citata_rodoma: |
+    Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+
+      Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
+    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl
+    ir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių
+    būrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -158,7 +165,11 @@ Nenurodyta
     smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
     nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
     jam valią stoti į bet kurį vienuolyną.
-  citata_rodoma: "Kita brolių dalis surado tik penkis\nkrikščionių vaikus, kuriuos ir išsivedė. Po to broliai iš patikimų šaltinių sužinojo, kad vos\nkeli šio būrio lietuviai gyvi ir sveiki besugrįžo. Vieni kelyje prigėrė, kiti išmirė badu, o\ntreti pasikorė iš sielvarto."
+  citata_rodoma: |
+    Kita brolių dalis surado tik penkis
+    krikščionių vaikus, kuriuos ir išsivedė. Po to broliai iš patikimų šaltinių sužinojo, kad vos
+    keli šio būrio lietuviai gyvi ir sveiki besugrįžo. Vieni kelyje prigėrė, kiti išmirė badu, o
+    treti pasikorė iš sielvarto.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

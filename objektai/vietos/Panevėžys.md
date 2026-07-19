@@ -72,7 +72,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
-    - c-166186
+    - c-43725
 
 <a id="claim-t-183069"></a>
 - t-003
@@ -146,6 +146,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182774
+    - t-182776
 - id: c-166186
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -158,14 +159,18 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     Mūšis prasidėjo balandžio 3 d. apie 15 val.
     ir puolimas buvo atremtas iki vidurnak-
     čio.
-  citata_rodoma: "Miesto gyvento-\njai džiaugsmingai sutiko išvaduotojus.\nTuo tarpu bolševikai reorganizavosi, ir\nsutelkę didesnes pajėgas, užpuolė Panevėžį.\nMūšis prasidėjo balandžio 3 d."
+  citata_rodoma: |
+    Miesto gyvento-
+    jai džiaugsmingai sutiko išvaduotojus.
+    Tuo tarpu bolševikai reorganizavosi, ir
+    sutelkę didesnes pajėgas, užpuolė Panevėžį.
+    Mūšis prasidėjo balandžio 3 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182776
 - id: c-166460
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

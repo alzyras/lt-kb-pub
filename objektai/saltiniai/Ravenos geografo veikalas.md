@@ -103,7 +103,17 @@ Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad aga
     ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
     nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
     upė.
-  citata_rodoma: "Taip pat yra senovės geogra­\nfo, žinomo kaip Ravenos geografas2, IX amžiaus infor­\nmacija, jog agatirai, arba kitaip agazirai ar angershirai, \nyra ta pati Amiano minima gentis, savaime suprantama, \ngerokai prieš autoriaus amžių įsikūrusi krašte, per kurį \ntekėjo dvi upės: Lela-Upe ir Anger-Upe. Žodis Upe lietu­\nvių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių \nbūtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­\ntys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­\nkia Didelę upę4."
+  citata_rodoma: |
+    Taip pat yra senovės geogra­
+    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
+    macija, jog agatirai, arba kitaip agazirai ar angershirai,
+    yra ta pati Amiano minima gentis, savaime suprantama,
+    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
+    tekėjo dvi upės: Lela-Upe ir Anger-Upe. Žodis Upe lietu­
+    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
+    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
+    tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
+    kia Didelę upę4.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

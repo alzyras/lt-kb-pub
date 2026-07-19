@@ -153,7 +153,12 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
     nevartęs visus šventųjų kankinių gyvenimo aprašus, niekur neužtiksi, kad kas būtų
     šitaip nukankintas. Netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs visokių kankinimo
     būdų, šitokio nesugalvojo. Iš tiesų šitai būta nepaprasto ir pasaulyje negirdėto būdo309.
-  citata_rodoma: "581), bet čia — jau ne Notangos teritorija.\n\nKadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.\nJie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,\nkurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi."
+  citata_rodoma: |
+    581), bet čia — jau ne Notangos teritorija.
+
+    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
+    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
+    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

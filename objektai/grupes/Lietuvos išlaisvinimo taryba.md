@@ -72,7 +72,12 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
     Sovietų specialiosioms tarnyboms išaiškinus dalį or-
     ganizacijos narių J. Lukšai teko pasitraukti iš legalaus
     gyvenimo.
-  citata_rodoma: "Po antros sovietų okupacijos priklausė pogrindžio\nLietuvos išlaisvinimo tarybai. Vėliau buvo Lietuvos\npartizanų sąjūdžio organizacinio skyriaus viršininkas.\nSovietų specialiosioms tarnyboms išaiškinus dalį or-\nganizacijos narių J."
+  citata_rodoma: |
+    Po antros sovietų okupacijos priklausė pogrindžio
+    Lietuvos išlaisvinimo tarybai. Vėliau buvo Lietuvos
+    partizanų sąjūdžio organizacinio skyriaus viršininkas.
+    Sovietų specialiosioms tarnyboms išaiškinus dalį or-
+    ganizacijos narių J.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

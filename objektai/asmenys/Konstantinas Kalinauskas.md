@@ -113,7 +113,10 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     tinas Kalinauskas), sukilimas ėmė blėsti. 1863 m. pabaigoje į sukilimo
     slopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu
     netrukus buvo viešai pakarti.
-  citata_rodoma: "1863 m. pabaigoje į sukilimo\nslopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu\nnetrukus buvo viešai pakarti."
+  citata_rodoma: |
+    1863 m. pabaigoje į sukilimo
+    slopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu
+    netrukus buvo viešai pakarti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -136,7 +139,12 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     komitetas, pasivadinęs Laikinąja
     Vyriausybe Lietuvoje. Sukilimo vadu
     Lietuvoje tapo Konstantinas Kalinauskas.
-  citata_rodoma: "Lietuvoje analogišką manifestą 1863 m.\nvasario 1 d. paskelbė Lietuvos Provincijos\nkomitetas, pasivadinęs Laikinąja\nVyriausybe Lietuvoje. Sukilimo vadu\nLietuvoje tapo Konstantinas Kalinauskas."
+  citata_rodoma: |
+    Lietuvoje analogišką manifestą 1863 m.
+    vasario 1 d. paskelbė Lietuvos Provincijos
+    komitetas, pasivadinęs Laikinąja
+    Vyriausybe Lietuvoje. Sukilimo vadu
+    Lietuvoje tapo Konstantinas Kalinauskas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -158,7 +166,10 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     karti sukilėlius. Teroro sąlygomis su-
     kilėlių kova vis labiau silpo, kol galiau-
     siai 1864 m. pabaigoje visai išblėso.
-  citata_rodoma: "Egzekucijos buvo įvykdytos B. Kolyškai,\nZ. Sierakauskui, T. Dalevskiui, K. Kalinaus-\nkui, A. Mackevičiui ir kitiems."
+  citata_rodoma: |
+    Egzekucijos buvo įvykdytos B. Kolyškai,
+    Z. Sierakauskui, T. Dalevskiui, K. Kalinaus-
+    kui, A. Mackevičiui ir kitiems.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

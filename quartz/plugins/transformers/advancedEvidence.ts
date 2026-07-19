@@ -1,5 +1,6 @@
 import { QuartzTransformerPlugin } from "../types"
 import { normalizeCitationSourceId } from "../../util/citationFilter"
+import { evidenceDocumentContext, evidenceTextOverlapScore } from "../../util/evidenceIntegrity"
 import { BuildCtx } from "../../util/ctx"
 import { FullSlug, simplifySlug, slugTag } from "../../util/path"
 
@@ -583,6 +584,7 @@ function renderClaimsSection(
   sectionLines: string[],
   resolveIndex: SlugResolveIndex,
   citationsById: CitationMap,
+  documentContext: string,
 ): string[] | null {
   const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("t-"))
   if (entries.length === 0) {
@@ -620,7 +622,15 @@ function renderClaimsSection(
     const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
       `<tr${anchorAttr} data-claim-row="true" data-citation-source-ids="${escapeHtml(sourceIds.join("|"))}"><td>${claimCell}</td></tr>`,
-      renderClaimEvidenceDetailRow(entry, detailId, domKey, refs, citationsById, resolveIndex),
+      renderClaimEvidenceDetailRow(
+        entry,
+        detailId,
+        domKey,
+        refs,
+        citationsById,
+        resolveIndex,
+        documentContext,
+      ),
     )
   })
   out.push(
@@ -655,6 +665,20 @@ function citationQuote(entry: EvidenceEntry): string {
   const legacyDisplayQuote = entry.fields.get(QUOTE_LEGACY_DISPLAY_KEY)?.trim()
   const originalQuote = entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
   return displayQuote || legacyDisplayQuote || originalQuote
+}
+
+function citationSupportsClaim(
+  claimEntry: EvidenceEntry,
+  citationEntry: EvidenceEntry,
+  documentContext: string,
+): boolean {
+  const quote = [QUOTE_ORIGINAL_KEY, QUOTE_DISPLAY_KEY, QUOTE_LEGACY_DISPLAY_KEY]
+    .map((key) => citationEntry.fields.get(key) ?? "")
+    .filter(Boolean)
+    .join("\n")
+  return (
+    evidenceTextOverlapScore(claimEntry.fields.get("teiginys") ?? "", quote, documentContext) > 0
+  )
 }
 
 function firstField(entries: EvidenceEntry[], keys: string[]): string {
@@ -745,6 +769,14 @@ function renderCitationCard(
   return `<article class="claim-citation-card" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${contributorHtml}${sourceHtml}${summaryHtml}${quoteHtml}${advancedHtml}</article>`
 }
 
+function renderUnsupportedCitationCard(citationEntry: EvidenceEntry): string {
+  const source = citationEntry.fields.get("šaltinis") ?? citationEntry.fields.get("saltinis") ?? ""
+  const sourceHtml = source
+    ? `<div class="claim-citation-source"><strong>Šaltinis:</strong> ${markdownCell(source)}</div>`
+    : ""
+  return `<article class="claim-citation-card claim-citation-card-unverified" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${sourceHtml}<p class="claim-citation-mismatch">Citatos tekstas nerodomas, nes jo atitikimo su teiginiu nepavyko patikrinti.</p></article>`
+}
+
 function renderClaimEvidenceDetailRow(
   claimEntry: EvidenceEntry,
   detailId: string,
@@ -752,6 +784,7 @@ function renderClaimEvidenceDetailRow(
   refs: string[],
   citationsById: CitationMap,
   resolveIndex: SlugResolveIndex,
+  documentContext: string,
 ): string {
   const claimTechnicalRows = claimAdvancedRows(claimEntry, resolveIndex)
   const claimTechnicalHtml =
@@ -761,7 +794,11 @@ function renderClaimEvidenceDetailRow(
   const cards = refs
     .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
     .filter((entry): entry is EvidenceEntry => Boolean(entry))
-    .map((entry) => renderCitationCard(claimEntry, entry, resolveIndex))
+    .map((entry) =>
+      citationSupportsClaim(claimEntry, entry, documentContext)
+        ? renderCitationCard(claimEntry, entry, resolveIndex)
+        : renderUnsupportedCitationCard(entry),
+    )
   const citationContent =
     cards.length > 0 ? cards.join("") : `<p class="claim-citation-missing">Citata nerasta.</p>`
   const content = `${claimTechnicalHtml}${citationContent}`
@@ -799,9 +836,10 @@ function renderStructuredSection(
   sectionLines: string[],
   resolveIndex: SlugResolveIndex,
   citationsById: CitationMap,
+  documentContext: string,
 ): string[] | null {
   if (title === "Teiginiai") {
-    return renderClaimsSection(sectionLines, resolveIndex, citationsById)
+    return renderClaimsSection(sectionLines, resolveIndex, citationsById, documentContext)
   }
   // Citation bodies are loaded from the claim that uses them. Keeping an
   // invisible duplicate store in every object page made large pages heavier
@@ -943,7 +981,14 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
       }
 
       const sectionLines = lines.slice(start, end)
-      const structured = renderStructuredSection(title, sectionLines, resolveIndex, citationsById)
+      const documentContext = evidenceDocumentContext(src)
+      const structured = renderStructuredSection(
+        title,
+        sectionLines,
+        resolveIndex,
+        citationsById,
+        documentContext,
+      )
       if (title === "Teiginiai") {
         out.push(line)
       }

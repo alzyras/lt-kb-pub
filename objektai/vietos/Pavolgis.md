@@ -75,7 +75,10 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
     lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
     marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
     vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
-  citata_rodoma: "Jis suima savo valdžion visus Pavolgio, Juod­\nmarių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­\nvimo galą savo planus dėl Totorijos buvo gangreit įvykdęs."
+  citata_rodoma: |
+    Jis suima savo valdžion visus Pavolgio, Juod­
+    marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
+    vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

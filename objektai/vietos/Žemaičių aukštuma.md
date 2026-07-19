@@ -63,7 +63,12 @@ media_all_json: |-
     kojimo ir karžygiškumo, kurį paliudija ir _priešų_ kronikos. Paly­
     ginti, tirštai gyvenamoje Žemaičių aukštumoje, supamoje balnotų
     slėnių ir gausių upių-upelių, išaugo ištisos ginamųjų pilių grandinės.
-  citata_rodoma: "Žemaičius įveikti kryžiuočiams buvo sunku. Gindami savo\nlaisvę ir žemę, pagonys parodė retai sutinkamo atsparumo, pasiau­\nkojimo ir karžygiškumo, kurį paliudija ir _priešų_ kronikos. Paly­\nginti, tirštai gyvenamoje Žemaičių aukštumoje, supamoje balnotų\nslėnių ir gausių upių-upelių, išaugo ištisos ginamųjų pilių grandinės."
+  citata_rodoma: |
+    Žemaičius įveikti kryžiuočiams buvo sunku. Gindami savo
+    laisvę ir žemę, pagonys parodė retai sutinkamo atsparumo, pasiau­
+    kojimo ir karžygiškumo, kurį paliudija ir _priešų_ kronikos. Paly­
+    ginti, tirštai gyvenamoje Žemaičių aukštumoje, supamoje balnotų
+    slėnių ir gausių upių-upelių, išaugo ištisos ginamųjų pilių grandinės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

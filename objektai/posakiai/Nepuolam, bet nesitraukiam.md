@@ -75,7 +75,11 @@ media_all_json: |-
     nesmurtinio politinio ir moralinio išsivadavimo kelią. Jei kas ėmėsi
     smurto, tai buvo kiti. Lietuvos principas buvo nepulti, bet nesi-
     traukti.
-  citata_rodoma: "Lietuva neturėjo jokios ginkluotos jėgos, ji jau buvo pasirinkus\nnesmurtinio politinio ir moralinio išsivadavimo kelią. Jei kas ėmėsi\nsmurto, tai buvo kiti. Lietuvos principas buvo nepulti, bet nesi-\ntraukti."
+  citata_rodoma: |
+    Lietuva neturėjo jokios ginkluotos jėgos, ji jau buvo pasirinkus
+    nesmurtinio politinio ir moralinio išsivadavimo kelią. Jei kas ėmėsi
+    smurto, tai buvo kiti. Lietuvos principas buvo nepulti, bet nesi-
+    traukti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -94,7 +98,9 @@ media_all_json: |-
     nuodami ir melsdamiesi, stojo skersai kelio sovietų užpuolikui.
     „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
     kulminaciją.
-  citata_rodoma: "„Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo\nkulminaciją."
+  citata_rodoma: |
+    „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
+    kulminaciją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

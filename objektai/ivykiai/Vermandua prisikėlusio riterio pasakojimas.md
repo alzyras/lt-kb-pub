@@ -68,7 +68,12 @@ Nenurodyta
       Vermandua  [grafystėje]  atgijo vienas miręs  riteris, daug ką  daugeliui žmonių
     išpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.
     cit.).
-  citata_rodoma: "Apie tai, kaip prisikėlė vienas miręs riteris\n\n  Vermandua  [grafystėje]  atgijo vienas miręs  riteris, daug ką  daugeliui žmonių\nišpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.\ncit.)."
+  citata_rodoma: |
+    Apie tai, kaip prisikėlė vienas miręs riteris
+
+      Vermandua  [grafystėje]  atgijo vienas miręs  riteris, daug ką  daugeliui žmonių
+    išpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.
+    cit.).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

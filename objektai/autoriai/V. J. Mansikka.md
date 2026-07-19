@@ -67,7 +67,10 @@ Mansikka, V.
     lis, A. : _Lietuviškasis kryžius ir jo kilmė,_ Aidai, nr. 2, 1951, 60-70 p.
     — (”) _Senovės lietuvių tikėjimas,_ Ateitis, nr. 7-9, Brooklyn, N. Y.,
     1951, ir nr. 1, 1952.
-  citata_rodoma: "— Mansikka,\nV. J. : _Die Religion der Ostslaven,_ I. _Quellen,_ Helsinki, 1922. — Mažiu­\nlis, A."
+  citata_rodoma: |
+    — Mansikka,
+    V. J. : _Die Religion der Ostslaven,_ I. _Quellen,_ Helsinki, 1922. — Mažiu­
+    lis, A.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

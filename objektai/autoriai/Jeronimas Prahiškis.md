@@ -162,7 +162,18 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
     kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
     krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
     ri laikytina grynai stabmeldiška.
-  citata_rodoma: "Tie­\nsa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po\nlaiko pelenais rusenančią kitatikybės ugnį, iš kurios pamažu\nįsidegdamas gaisras vėliau pridarė daug bėdos Vakari} bažny­\nčiai. Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,\napie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė\nnelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas."
+  citata_rodoma: |
+    Tie­
+    sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po
+    laiko pelenais rusenančią kitatikybės ugnį, iš kurios pamažu
+    įsidegdamas gaisras vėliau pridarė daug bėdos Vakari} bažny­
+    čiai. Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
+    apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė
+    nelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -196,7 +207,28 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
     bus, kurie susiję su mitologija5.
     4 Baptismus Ruthenorum, cum Bulla Alexandri Papae, de non
     rebaptisandis Ruthenis.
-  citata_rodoma: "Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­\njoje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte\napie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­\nsirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik\natverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­\nmas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­\nnyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­\nmą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą\nkartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį\n398\n\n## Puslapis 398\n\npatarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;\njis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­\nka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­\nčioje."
+  citata_rodoma: |
+    Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
+    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
+    apie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­
+    sirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik
+    atverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­
+    mas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­
+    nyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­
+    mą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą
+    kartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį
+    398
+
+    ## Puslapis 398
+
+    patarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;
+    jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
+    ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
+    čioje.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

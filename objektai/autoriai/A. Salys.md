@@ -156,7 +156,10 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     SalŽ = Salys, A. : Die žemaitischen Mundarten. Teil 1 : Geschichte
     des žemaitischen Sprachgebiets, Kaunas 1930 (atsp. iš TiŽ
     t. 6).
-  citata_rodoma: "SalŽ = Salys, A. : Die žemaitischen Mundarten. Teil 1 : Geschichte\ndes žemaitischen Sprachgebiets, Kaunas 1930 (atsp. iš TiŽ\nt. 6)."
+  citata_rodoma: |
+    SalŽ = Salys, A. : Die žemaitischen Mundarten. Teil 1 : Geschichte
+    des žemaitischen Sprachgebiets, Kaunas 1930 (atsp. iš TiŽ
+    t. 6).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -177,7 +180,11 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
     išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
     Salys).
-  citata_rodoma: "slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų\nbendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra\nišriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.\nSalys)."
+  citata_rodoma: |
+    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
+    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
+    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
+    Salys).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -194,7 +201,9 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     Funde_ , Stockholm 1958. — Raulinaitis, Z. : _Apuolės užpuolimas_ , atsp.
     iš Kario 1968-71, Brooklyn, N. Y. 1972. —Salys, A. : _Baltic Languages,_
     Encyclopedia Britannica, t. 3, 1955.
-  citata_rodoma: "Salys, A. : _Baltic Languages,_\nEncyclopedia Britannica, t. 3, 1955."
+  citata_rodoma: |
+    Salys, A. : _Baltic Languages,_
+    Encyclopedia Britannica, t. 3, 1955.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -212,7 +221,10 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     Slavic and Baltic_ , Slavonic and East European Revue, XX, 1941. —
     (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
     Zeitschr. für vergleichende Sprachforschung, t. 70, 1954.
-  citata_rodoma: "—\n(”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_\nZeitschr. für vergleichende Sprachforschung, t. 70, 1954."
+  citata_rodoma: |
+    —
+    (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
+    Zeitschr. für vergleichende Sprachforschung, t. 70, 1954.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -255,7 +267,9 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     (^22) **Lites, II, 139 ; III, 41, 43 p.**
     (^23) **Lites, II, 140 p.**
     (^24) **Lites, II, 304 p.**
-  citata_rodoma: "SRP, I, 146-147 p. — Plg. A. Salys :** **_Die žemaitischen Mundarten,_**\n**I, Tauta ir Žodis, VI, 1930, 196, 242 p.; ZStŽ, 31-40 p."
+  citata_rodoma: |
+    SRP, I, 146-147 p. — Plg. A. Salys :** **_Die žemaitischen Mundarten,_**
+    **I, Tauta ir Žodis, VI, 1930, 196, 242 p.; ZStŽ, 31-40 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

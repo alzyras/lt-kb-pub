@@ -192,7 +192,12 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
     M. Giedraičio vėliavos sugebėjo sumušti
     generolo H. Branto kavaleriją, kuri pradėjo
     trauktis.
-  citata_rodoma: "Ar su-\ngebės rotmistro J. P. Sapiegos husarų ir pe-\ntihorų vėliavos atlaikyti pagrindinį Švedijos\nkariuomenės smūgį ir sužlugdyti Karolio\nIx planą apeiti Lietuvos kariuomenę."
+  citata_rodoma: |
+    Ar su-
+    gebės rotmistro J. P. Sapiegos husarų ir pe-
+    tihorų vėliavos atlaikyti pagrindinį Švedijos
+    kariuomenės smūgį ir sužlugdyti Karolio
+    Ix planą apeiti Lietuvos kariuomenę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

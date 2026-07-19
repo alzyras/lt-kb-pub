@@ -66,7 +66,11 @@ media_all_json: |-
     kas, Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
     II, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_
     Slavische Forschungen, Heft 2, 1938.
-  citata_rodoma: "— Penkaus-\nkas, Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,\nII, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_\nSlavische Forschungen, Heft 2, 1938."
+  citata_rodoma: |
+    — Penkaus-
+    kas, Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
+    II, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_
+    Slavische Forschungen, Heft 2, 1938.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

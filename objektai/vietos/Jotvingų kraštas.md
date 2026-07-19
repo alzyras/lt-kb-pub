@@ -67,7 +67,11 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
     Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
     jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
     to paties Boleslovo.
-  citata_rodoma: "buvo suimtas ir su visais palydovais nužudytas.\nKuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo\njotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti\nto paties Boleslovo."
+  citata_rodoma: |
+    buvo suimtas ir su visais palydovais nužudytas.
+    Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
+    jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
+    to paties Boleslovo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

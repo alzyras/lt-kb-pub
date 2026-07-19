@@ -80,7 +80,9 @@ Dusburgietis teigia, kad powierski J.
     81—83.
     Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli
     Pomorza Gdańskiego.—Toruń, 1968.
-  citata_rodoma: "Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli\nPomorza Gdańskiego.—Toruń, 1968."
+  citata_rodoma: |
+    Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli
+    Pomorza Gdańskiego.—Toruń, 1968.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

@@ -60,7 +60,10 @@ O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai li
     puolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
     giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
     somis Ordino pajėgomis.
-  citata_rodoma: "O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-\ngiuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-\nsomis Ordino pajėgomis."
+  citata_rodoma: |
+    O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
+    giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
+    somis Ordino pajėgomis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

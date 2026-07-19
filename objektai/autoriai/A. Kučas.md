@@ -66,7 +66,9 @@ A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl., Roma 1965. 6 dol.
     16 dol.
     A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl.,
     Roma 1965. 6 dol.
-  citata_rodoma: "A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl.,\nRoma 1965. 6 dol."
+  citata_rodoma: |
+    A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl.,
+    Roma 1965. 6 dol.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

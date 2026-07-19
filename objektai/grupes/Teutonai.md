@@ -425,7 +425,10 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
     Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip
         _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
         krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
-  citata_rodoma: "Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip\n_Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to\nkrašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais."
+  citata_rodoma: |
+    Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip
+    _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
+    krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -441,7 +444,10 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
     Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
         nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
         tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
-  citata_rodoma: "Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos\nnuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir\ntais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas."
+  citata_rodoma: |
+    Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
+    nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
+    tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

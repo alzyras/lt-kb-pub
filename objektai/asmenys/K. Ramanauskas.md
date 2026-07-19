@@ -68,7 +68,16 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
     kas iš Šipliškių turėjo žygiuoti į Suvalkus,
     o iš ten į Augustavą, dešiniu sparnu siekti
     Vokietijos sieną.
-  citata_rodoma: "grupė (8-asis pulkas, 2-ojo pulko batalionas\nir 6-ojo pulko batalionas, 9-oji baterija ir\n1-oji haubicų baterija) turėjo iš Sapackinės\npulti Augustavo link, mjr. K. Ramanausko\ngrupė (2-ojo pulko batalionas) iš Berži-\nninko žygiuoti per Gibus ir Seinus prie\nAugustavo esančio Kaleitų ežero link,\n\nmjr."
+  citata_rodoma: |
+    grupė (8-asis pulkas, 2-ojo pulko batalionas
+    ir 6-ojo pulko batalionas, 9-oji baterija ir
+    1-oji haubicų baterija) turėjo iš Sapackinės
+    pulti Augustavo link, mjr. K. Ramanausko
+    grupė (2-ojo pulko batalionas) iš Berži-
+    ninko žygiuoti per Gibus ir Seinus prie
+    Augustavo esančio Kaleitų ežero link,
+
+    mjr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

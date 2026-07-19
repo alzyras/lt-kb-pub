@@ -76,7 +76,9 @@ Dusburgietis teigia, kad voigt J.
     местных названий. — Балто-славянские исследования 1980, М., 1981, с. 112—131.
     Палмайтис Л. Прусское deiwas, санскритское devásya, литовское diẽvojis и
     русское евоный: Мифический формант генитива *-sio и отгенитивное склонение.
-  citata_rodoma: "Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.\n2, 1827; Bd. 3, 1828."
+  citata_rodoma: |
+    Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.
+    2, 1827; Bd. 3, 1828.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

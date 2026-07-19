@@ -119,7 +119,11 @@ Nenurodyta
     buvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl
     panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų
     raidžių (vad. graždankos) neprisiėmę.
-  citata_rodoma: "Bet visų svarbiausias tuo reikalu palankus balsas\nbuvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl\npanaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų\nraidžių (vad. graždankos) neprisiėmę."
+  citata_rodoma: |
+    Bet visų svarbiausias tuo reikalu palankus balsas
+    buvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl
+    panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų
+    raidžių (vad. graždankos) neprisiėmę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

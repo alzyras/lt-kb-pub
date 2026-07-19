@@ -1810,7 +1810,12 @@ media_all_json: |-
     išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
     šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
     smarkiai puldavo Lietuvą.
-  citata_rodoma: "Vytautas brendo audringu Lietuvos valstybės laikotarpiu,\nkada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo\nišleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš\nšiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač\nsmarkiai puldavo Lietuvą."
+  citata_rodoma: |
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
+    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
+    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
+    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
+    smarkiai puldavo Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1837,7 +1842,16 @@ media_all_json: |-
     varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
     statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
     esančius toliau nuo Lietuvos.
-  citata_rodoma: "Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto\nstatytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,\nesančius toliau nuo Lietuvos."
+  citata_rodoma: |
+    Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
+    statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
+    esančius toliau nuo Lietuvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1862,7 +1876,15 @@ media_all_json: |-
     gaila buvo net išsirengę į karą ir savo kariuomenes sutraukę
     prie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos
     buvo dar metams prailgintos.
-  citata_rodoma: "Padarytos pa­\nliaubos buvo kelis kartus pailgintos, vis atidedant pastovią tai­\nką ; sušaukti trys suvažiavimai sienoms nustatyti praėjo be vai­\nsių: Vytautas reikalavo Žemaitijai plačių sienų, o Ordinas\nnenorėjo su tuo sutikti. Vienais metais (1418) Vytautas ir Jo­\ngaila buvo net išsirengę į karą ir savo kariuomenes sutraukę\nprie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos\nbuvo dar metams prailgintos."
+  citata_rodoma: |
+    Padarytos pa­
+    liaubos buvo kelis kartus pailgintos, vis atidedant pastovią tai­
+    ką ; sušaukti trys suvažiavimai sienoms nustatyti praėjo be vai­
+    sių: Vytautas reikalavo Žemaitijai plačių sienų, o Ordinas
+    nenorėjo su tuo sutikti. Vienais metais (1418) Vytautas ir Jo­
+    gaila buvo net išsirengę į karą ir savo kariuomenes sutraukę
+    prie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos
+    buvo dar metams prailgintos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1911,7 +1933,11 @@ media_all_json: |-
     vo1 2). Be arklių buvo dar auginami jaučiai, kuriais ardavo že­
     mę, karvės, kiaulės, naminiai paukščiai ir k. Jaučių daugiau
     buvo laikoma Vilniaus ir Gardino apylinkėse^3 ).
-  citata_rodoma: "Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Tra­\nkus; žemaičiai net ir duoklę Vytautui dažnai arkliais mokėda­\nvo1 2). Be arklių buvo dar auginami jaučiai, kuriais ardavo že­\nmę, karvės, kiaulės, naminiai paukščiai ir k."
+  citata_rodoma: |
+    Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Tra­
+    kus; žemaičiai net ir duoklę Vytautui dažnai arkliais mokėda­
+    vo1 2). Be arklių buvo dar auginami jaučiai, kuriais ardavo že­
+    mę, karvės, kiaulės, naminiai paukščiai ir k.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1935,7 +1961,11 @@ media_all_json: |-
     egzistencijos klausimas. Jei ligtol jų dėmesį dar kreipė visa
     Lietuva, tai nuo dabar jų visos jėgos buvo koncentruojamos
     Žemaitijai pajungti.
-  citata_rodoma: "Užvaldyti Žemaitiją jiems buvo jų valstybės gerovės ir net\negzistencijos klausimas. Jei ligtol jų dėmesį dar kreipė visa\nLietuva, tai nuo dabar jų visos jėgos buvo koncentruojamos\nŽemaitijai pajungti."
+  citata_rodoma: |
+    Užvaldyti Žemaitiją jiems buvo jų valstybės gerovės ir net
+    egzistencijos klausimas. Jei ligtol jų dėmesį dar kreipė visa
+    Lietuva, tai nuo dabar jų visos jėgos buvo koncentruojamos
+    Žemaitijai pajungti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -1963,7 +1993,21 @@ media_all_json: |-
     pusantros mylios nutolusi nuo dabartinės Prūsijos sienos.
     Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
     mu prie jo, yra apie 160 namų ir dvaras.
-  citata_rodoma: "100\n\n## Puslapis 117\n\nIII\nAPIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ\nVeliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje,\nkad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­\nžiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­\nvų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už\n7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per\npusantros mylios nutolusi nuo dabartinės Prūsijos sienos.\nŠiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­\nmu prie jo, yra apie 160 namų ir dvaras."
+  citata_rodoma: |
+    100
+
+    ## Puslapis 117
+
+    III
+    APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ
+    Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje,
+    kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­
+    žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­
+    vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už
+    7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per
+    pusantros mylios nutolusi nuo dabartinės Prūsijos sienos.
+    Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
+    mu prie jo, yra apie 160 namų ir dvaras.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2000,7 +2044,17 @@ media_all_json: |-
     pripažinti, kad švedų mokslininko
     Thunmano  tyrinėjimai ir prie­
     laidos panašiausios į tiesą.
-  citata_rodoma: "Prūsai - apie jų kalbą pasakytina,\nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu\npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,\niki pat Baltijos jūros siekianti, kaip lietuvių genties centras,\nišsaugojo gryniausius savo padermės bruožus. Kraštas, ku­\nrį dabar užima Vilniaus gubernija ir dalis Gardino guberni­\njų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­\ntuvių tautos padermių gyvenvietė: Žemaitijos, arba\nžemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2."
+  citata_rodoma: |
+    Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2027,7 +2081,17 @@ media_all_json: |-
     kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
     nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
     vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
-  citata_rodoma: "Kol vokiečių kariau­\nna dar delsė stovyklaudama Žemaitijoje, galingas lietuvių\npulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu\nnusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­\nčiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę\nišsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė\nnuomonė, esą kupinas senos neapykantos Rygos arkivys­\nkupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­\nnas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­\nvo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 ."
+  citata_rodoma: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2048,7 +2112,11 @@ media_all_json: |-
     Nors popiežius uždraudė Vokiečių ordinui kariauti su ap-
     sikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
-  citata_rodoma: "Žalgirio mūšis\nNors popiežius uždraudė Vokiečių ordinui kariauti su ap-\nsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo \ngalinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei."
+  citata_rodoma: |
+    Žalgirio mūšis
+    Nors popiežius uždraudė Vokiečių ordinui kariauti su ap-
+    sikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo
+    galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2072,7 +2140,16 @@ media_all_json: |-
     totorius, 1398 m. vasarį Kryžiuočių or-
     dino Livonijos atšakos pajėgos smogė
     Žemaitijai, daug žmonių išsivedė į nelaisvę.
-  citata_rodoma: "Vytauto pajėgos pasiekė pagrindinę totorių\nklajonių teritoriją ryčiau Dnepro, perėjo\nDoną, siaubė Volgos apylinkes, daug toto-\nrių belaisvių atgabeno į Lietuvą.\n\nKai Vytautas dar buvo žygyje prieš\ntotorius, 1398 m. vasarį Kryžiuočių or-\ndino Livonijos atšakos pajėgos smogė\nŽemaitijai, daug žmonių išsivedė į nelaisvę."
+  citata_rodoma: |
+    Vytauto pajėgos pasiekė pagrindinę totorių
+    klajonių teritoriją ryčiau Dnepro, perėjo
+    Doną, siaubė Volgos apylinkes, daug toto-
+    rių belaisvių atgabeno į Lietuvą.
+
+    Kai Vytautas dar buvo žygyje prieš
+    totorius, 1398 m. vasarį Kryžiuočių or-
+    dino Livonijos atšakos pajėgos smogė
+    Žemaitijai, daug žmonių išsivedė į nelaisvę.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2090,7 +2167,12 @@ media_all_json: |-
     sau – karaliaus karūną.
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
     jos Livonijos ordinui.
-  citata_rodoma: "pavasarį (ar \nvasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o \nsau – karaliaus karūną. \n1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-\njos Livonijos ordinui."
+  citata_rodoma: |
+    pavasarį (ar
+    vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
+    sau – karaliaus karūną.
+    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
+    jos Livonijos ordinui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2170,7 +2252,11 @@ media_all_json: |-
     priežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-
     karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
     jie nugalėjo pasitelkę pagonis, totorius musulmonus.
-  citata_rodoma: "Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu \npriežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-\nkaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes \njie nugalėjo pasitelkę pagonis, totorius musulmonus."
+  citata_rodoma: |
+    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
+    priežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-
+    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
+    jie nugalėjo pasitelkę pagonis, totorius musulmonus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2192,7 +2278,12 @@ media_all_json: |-
     teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe.
     Iki gegužės sukilėliai perėmė valdžią bemaž visoje teritorijoje į vakarus ir
     šiaurę nuo Vilniaus.
-  citata_rodoma: "Bendros sukilimo vado-\nvybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities \nteritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe. \nIki gegužės sukilėliai perėmė valdžią bemaž visoje teritorijoje į vakarus ir \nšiaurę nuo Vilniaus."
+  citata_rodoma: |
+    Bendros sukilimo vado-
+    vybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities
+    teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe.
+    Iki gegužės sukilėliai perėmė valdžią bemaž visoje teritorijoje į vakarus ir
+    šiaurę nuo Vilniaus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2222,7 +2313,17 @@ media_all_json: |-
     kos Lietuvoje.
     4
     Žr. I priedą.
-  citata_rodoma: "Be kai kurių skandinaviškų žodžių,\npastebėtų lietuvių kalboje, dar di­\ndžiuliai pilkapiai Žemaitijoje, vadin­\nti Milžinų Kapais, gal šventovėmis,\ngal kapais buvę, yra paminklai, liu­\ndijantys buvus mūsų kraštuose tų\ndrąsių klajūnų ir Skandinavijos įta­\nkos Lietuvoje.\n4\nŽr."
+  citata_rodoma: |
+    Be kai kurių skandinaviškų žodžių,
+    pastebėtų lietuvių kalboje, dar di­
+    džiuliai pilkapiai Žemaitijoje, vadin­
+    ti Milžinų Kapais, gal šventovėmis,
+    gal kapais buvę, yra paminklai, liu­
+    dijantys buvus mūsų kraštuose tų
+    drąsių klajūnų ir Skandinavijos įta­
+    kos Lietuvoje.
+    4
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2243,7 +2344,14 @@ media_all_json: |-
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
-  citata_rodoma: "Taip po Žalgirio mūšio atsirado Vytau-\nto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), \nįsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai \nsklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą. \nBe to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-\nją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su \nKatalikų bažnyčia."
+  citata_rodoma: |
+    Taip po Žalgirio mūšio atsirado Vytau-
+    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
+    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
+    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
+    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
+    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+    Katalikų bažnyčia.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2281,7 +2389,11 @@ media_all_json: |-
     savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą į senus
     laikus. Tas paveikslas yra statiškas, be laiko perspektyvos ir be
     evoliucijos.
-  citata_rodoma: "Istorijos šaltinių jis naudojo labai mažai^57 , o atkėlė\nsavo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą į senus\nlaikus. Tas paveikslas yra statiškas, be laiko perspektyvos ir be\nevoliucijos."
+  citata_rodoma: |
+    Istorijos šaltinių jis naudojo labai mažai^57 , o atkėlė
+    savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą į senus
+    laikus. Tas paveikslas yra statiškas, be laiko perspektyvos ir be
+    evoliucijos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2308,7 +2420,18 @@ media_all_json: |-
     Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
     Torunės, Karaliaučiaus, Berlyno ir kt. nuorašus parengė ir 1861 m. „Scriptores
     rerum Prussicarum“ serijoje paskelbė M. Tepenas.
-  citata_rodoma: "Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui\nir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių\nfeodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,\nniokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,\nNevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės\nkovą prieš agresiją.\n  Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių\nsluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi\nviduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką\nfanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių\nfeodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą."
+  citata_rodoma: |
+    Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
+    ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
+    feodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,
+    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
+    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
+    kovą prieš agresiją.
+      Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
+    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
+    viduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką
+    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių
+    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -2373,7 +2496,14 @@ media_all_json: |-
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
     J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
     lietuvių lingvistai, ypač tarybiniu laikotarpiu6.
-  citata_rodoma: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,\npietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina\nkaip prūsų gyvenamą3.\n  Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei\nankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva\nbei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;\nvakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4."
+  citata_rodoma: |
+    Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
+    pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
+    kaip prūsų gyvenamą3.
+      Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
+    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
+    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
+    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -2394,7 +2524,13 @@ media_all_json: |-
     gyvenvietės. Tokią Lietuvą rado kunigaikštis Gediminas, dar­
     nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo
     šalyje įkūrėjas.
-  citata_rodoma: "Tačiau, tiesą sakant, ir visoje Lie­\ntuvos žemėje, ir Žemaitijoje tik šen bei ten kilo vienišos pilys,\nnevienodos galios feodalinių kunigaikščių ir bajorų gynybinės\ngyvenvietės. Tokią Lietuvą rado kunigaikštis Gediminas, dar­\nnesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo\nšalyje įkūrėjas."
+  citata_rodoma: |
+    Tačiau, tiesą sakant, ir visoje Lie­
+    tuvos žemėje, ir Žemaitijoje tik šen bei ten kilo vienišos pilys,
+    nevienodos galios feodalinių kunigaikščių ir bajorų gynybinės
+    gyvenvietės. Tokią Lietuvą rado kunigaikštis Gediminas, dar­
+    nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo
+    šalyje įkūrėjas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2417,7 +2553,15 @@ media_all_json: |-
     kiečių ordino pavojaus pamažu stiprino
     ryšius su Lenkija, o XV–XVI a. perėmė
     krikščionišką Vakarų kultūrą.
-  citata_rodoma: "1387 m. \nLietuva krikštijosi katalikišku krikštu, o jos \ndalis Žemaitija tapo paskutiniu Europoje \napsikrikštijimo regionu – šiais įvykiais bai-\ngė formuotis krikščioniškoji Europa. \nLietuvos Didžioji Kunigaikštija dėl Vo-\nkiečių ordino pavojaus pamažu stiprino \nryšius su Lenkija, o XV–XVI a."
+  citata_rodoma: |
+    1387 m.
+    Lietuva krikštijosi katalikišku krikštu, o jos
+    dalis Žemaitija tapo paskutiniu Europoje
+    apsikrikštijimo regionu – šiais įvykiais bai-
+    gė formuotis krikščioniškoji Europa.
+    Lietuvos Didžioji Kunigaikštija dėl Vo-
+    kiečių ordino pavojaus pamažu stiprino
+    ryšius su Lenkija, o XV–XVI a.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2441,7 +2585,11 @@ media_all_json: |-
     pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
     patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo
     pusėje56.
-  citata_rodoma: "XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama\nginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų\nžemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,\nLietuvos kariuomenė 1322 m."
+  citata_rodoma: |
+    XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
+    ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
+    žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
+    Lietuvos kariuomenė 1322 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -2461,7 +2609,13 @@ media_all_json: |-
     niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
     dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
     ir reikalavimas paleisti valstiečius iš baudžiavos.
-  citata_rodoma: "Lietuvoje sukilimas \nprasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-\nskelbto rekrutų ėmimo. Todėl sukilėlių būriuose, kuriems vadovavo vieti-\nniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net \ndauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas \nir reikalavimas paleisti valstiečius iš baudžiavos."
+  citata_rodoma: |
+    Lietuvoje sukilimas
+    prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
+    skelbto rekrutų ėmimo. Todėl sukilėlių būriuose, kuriems vadovavo vieti-
+    niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
+    dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
+    ir reikalavimas paleisti valstiečius iš baudžiavos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2487,7 +2641,20 @@ media_all_json: |-
     rą ir įsikūrė Prūsijoje, Žemaitijoje bei
     Karelijoje, tarp vietinių gyventojų.
     Žr. P e t r i Olai.
-  citata_rodoma: "Juk šis kroniki­\nninkas pasakoja, kad apie 880 me­\ntus, viešpataujant Danijoje karaliui \nKanutui (Cnud), kai dėl pragaištingo \nnederliaus visiems gyventojams trū­\nko grūdų, buvo įsakyta kas trečią \nžmogų išvaryti iš valsčiaus visiems \nlaikams. Likimo lemties tremtiniai, \nsutelkę į draugę valtis, vadovauja­\nmi išsirinkto vado, persikėlė per jū­\nrą ir įsikūrė Prūsijoje, Žemaitijoje bei \nKarelijoje, tarp vietinių gyventojų. \nŽr."
+  citata_rodoma: |
+    Juk šis kroniki­
+    ninkas pasakoja, kad apie 880 me­
+    tus, viešpataujant Danijoje karaliui
+    Kanutui (Cnud), kai dėl pragaištingo
+    nederliaus visiems gyventojams trū­
+    ko grūdų, buvo įsakyta kas trečią
+    žmogų išvaryti iš valsčiaus visiems
+    laikams. Likimo lemties tremtiniai,
+    sutelkę į draugę valtis, vadovauja­
+    mi išsirinkto vado, persikėlė per jū­
+    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
+    Karelijoje, tarp vietinių gyventojų.
+    Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2511,7 +2678,14 @@ media_all_json: |-
     Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
     mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
     kitų panašių brolijų (III, 12).
-  citata_rodoma: "Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,\nvidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos\nglobojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės\nglobojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje\nplėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai\njau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo\npagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino."
+  citata_rodoma: |
+    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
+    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
+    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai
+    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
+    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -2535,7 +2709,18 @@ media_all_json: |-
     O žemaičiai Lietuvą vadina Auxto-
     te, tai yra aukštesnė žemė palyginus
     su Žemaitija.
-  citata_rodoma: "Tai reiškia:\n„Žemaitijos žemė yra ir visada bu­\nvo vienas ir tas pats, kaip ir Lietu­\nvos žemė: juk ta pati kalba ir tie pa­\ntys žmonės; tik dėl to, kad žemaičių\nžemė yra žemesnė už Lietuvos že­\nmę, todėl ir vadinama Szomoyth, kas\nlietuviškai reiškia - žemesnė žemė.\nO žemaičiai Lietuvą vadina Auxto-\nte, tai yra aukštesnė žemė palyginus\nsu Žemaitija."
+  citata_rodoma: |
+    Tai reiškia:
+    „Žemaitijos žemė yra ir visada bu­
+    vo vienas ir tas pats, kaip ir Lietu­
+    vos žemė: juk ta pati kalba ir tie pa­
+    tys žmonės; tik dėl to, kad žemaičių
+    žemė yra žemesnė už Lietuvos že­
+    mę, todėl ir vadinama Szomoyth, kas
+    lietuviškai reiškia - žemesnė žemė.
+    O žemaičiai Lietuvą vadina Auxto-
+    te, tai yra aukštesnė žemė palyginus
+    su Žemaitija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2580,7 +2765,13 @@ media_all_json: |-
     Trakų ir Vilniaus35 kartu su sūnumi Vytautu visus smūgius
     atlaikęs senolis, o prieš jį Jogailos pulkas, kartu su broliu
     Skirgaila ir kryžiuočių pulkais.
-  citata_rodoma: "Ir šią pilį Jogaila būtų leng­\nvai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į\npagalbą sūnui pagaliau nebūtų atvykęs. Stojo vėl į kovą tarp\nTrakų ir Vilniaus35 kartu su sūnumi Vytautu visus smūgius\natlaikęs senolis, o prieš jį Jogailos pulkas, kartu su broliu\nSkirgaila ir kryžiuočių pulkais."
+  citata_rodoma: |
+    Ir šią pilį Jogaila būtų leng­
+    vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
+    pagalbą sūnui pagaliau nebūtų atvykęs. Stojo vėl į kovą tarp
+    Trakų ir Vilniaus35 kartu su sūnumi Vytautu visus smūgius
+    atlaikęs senolis, o prieš jį Jogailos pulkas, kartu su broliu
+    Skirgaila ir kryžiuočių pulkais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2618,7 +2809,12 @@ media_all_json: |-
     visą Lietuvą. Rusų valdžia kontroliavo tik Vilniaus miestą, iš
     kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
     kilėlių gretas.
-  citata_rodoma: "Tačiau pavasarį\nsukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė\nvisą Lietuvą. Rusų valdžia kontroliavo tik Vilniaus miestą, iš\nkurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­\nkilėlių gretas."
+  citata_rodoma: |
+    Tačiau pavasarį
+    sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė
+    visą Lietuvą. Rusų valdžia kontroliavo tik Vilniaus miestą, iš
+    kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
+    kilėlių gretas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -2720,7 +2916,20 @@ media_all_json: |-
     lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
-  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
+  citata_rodoma: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2763,7 +2972,20 @@ media_all_json: |-
     kurią
     tik valiojo pasiekti jų stai­
     gus įsiūtis.
-  citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
+  citata_rodoma: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2794,7 +3016,18 @@ media_all_json: |-
     ėmė iš Kujavijos kunigaikščio Vladislovo Gostininą ir,
     išžudę dalį įgulos, o dalį su kitu grobiu išsivarę į ne­
     laisvę, atidavė apiplėštą pilį Konradui.
-  citata_rodoma: "Žemaitijoje tuo metu ne­\nbuvo priešų, tačiau šį kraštą užgriuvo kitokios bėdos. \nKaimuose atsirado labai daug keistų kirminų, panašių\nį vėžius ar skorpionus; jie \nŽemaitija kenčia dėl \ndarė žmonėms baisingą žalą;\nnuodingų kirmėlių \nką gyvūnėlis įgeldavo, tas\nnegyvendavo ilgiau nei tris \ndienas, jokie vaistai negalėdavo išgelbėti nuo artėjan­\nčios mirties. Ši nelaimė siautėjo ir Prūsijoje bei Kurše."
+  citata_rodoma: |
+    Žemaitijoje tuo metu ne­
+    buvo priešų, tačiau šį kraštą užgriuvo kitokios bėdos.
+    Kaimuose atsirado labai daug keistų kirminų, panašių
+    į vėžius ar skorpionus; jie
+    Žemaitija kenčia dėl
+    darė žmonėms baisingą žalą;
+    nuodingų kirmėlių
+    ką gyvūnėlis įgeldavo, tas
+    negyvendavo ilgiau nei tris
+    dienas, jokie vaistai negalėdavo išgelbėti nuo artėjan­
+    čios mirties. Ši nelaimė siautėjo ir Prūsijoje bei Kurše.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2836,7 +3069,25 @@ media_all_json: |-
     čicą
     tantį aštuonis šimtus raitelių,
     į Lenčicos kraštą.
-  citata_rodoma: "Iš Piešt-\nvės apygardos išvarė visus gyvulius, išžudė čia dau­\ngybę žmonių, į vergiją išsivedė tik septyniasdešimt\ngalvų. Užėmė ir visai sugriovė Romovę, lietuvių šven­\ntąją vietą ir jų Krivės Krivaičio buveinę, Vaikių ir\nPagraudės valsčius Žemaitijoje nusiaubė žudynėmis ir\napiplėšė, daugel metų čia beveik nebuvo gyventojų.\nTada pakliuvo į vargą lietuvių padermės, įsikūrusios\nm\n\n## Puslapis 169\n\ntarp Narevo ir Nemuno, prislėgtos sunkios priespaudos\nir nuolatinio karo; kamuojamos šešerius metus užtru­\nkusių grumtynių, jos turėjo duoti kryžiuočiams duoklę,\no savo gentainių raginamos sueiti į karinę sandrau­\ngą, nedrįso nei ginklu pulti priešo, nei praleisti lietu­\nvių, žygiuojančių į priešų šalį."
+  citata_rodoma: |
+    Iš Piešt-
+    vės apygardos išvarė visus gyvulius, išžudė čia dau­
+    gybę žmonių, į vergiją išsivedė tik septyniasdešimt
+    galvų. Užėmė ir visai sugriovė Romovę, lietuvių šven­
+    tąją vietą ir jų Krivės Krivaičio buveinę, Vaikių ir
+    Pagraudės valsčius Žemaitijoje nusiaubė žudynėmis ir
+    apiplėšė, daugel metų čia beveik nebuvo gyventojų.
+    Tada pakliuvo į vargą lietuvių padermės, įsikūrusios
+    m
+
+    ## Puslapis 169
+
+    tarp Narevo ir Nemuno, prislėgtos sunkios priespaudos
+    ir nuolatinio karo; kamuojamos šešerius metus užtru­
+    kusių grumtynių, jos turėjo duoti kryžiuočiams duoklę,
+    o savo gentainių raginamos sueiti į karinę sandrau­
+    gą, nedrįso nei ginklu pulti priešo, nei praleisti lietu­
+    vių, žygiuojančių į priešų šalį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -2862,7 +3113,15 @@ media_all_json: |-
     kaimus, lietuviai su savo nuolatiniu, galima sakyti,
     naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
     tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
-  citata_rodoma: "Sutelktu būriu užgriuvę iš pasalų nieko nenu-\njaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,\nir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­\nje Karšuvos žemę, kad gyventojai, nematydami iš­\neities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­\nsios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys\nbuvo priešo ir liepsnų sunaikintos, o truputį anksčiau\nPūtvės pilį išdavė jos seniūnas Spūdas."
+  citata_rodoma: |
+    Sutelktu būriu užgriuvę iš pasalų nieko nenu-
+    jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
+    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
+    je Karšuvos žemę, kad gyventojai, nematydami iš­
+    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
+    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
+    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
+    Pūtvės pilį išdavė jos seniūnas Spūdas.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2894,7 +3153,14 @@ media_all_json: |-
     Šiais dalykais ir rūpinosi
     Gediminas, kai jį užgriuvo
     naujos bėdos.
-  citata_rodoma: "Mat popiežius krikščionių žemėse buvo paskelbęs edik­\ntą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­\nvo šaukiami į šventąjį karą prieš stabmeldžius, todėl\nir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.\nSu šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai\nnusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,\nAriogalos ir Klogėnų valsčius jis sulygino su žeme."
+  citata_rodoma: |
+    Mat popiežius krikščionių žemėse buvo paskelbęs edik­
+    tą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­
+    vo šaukiami į šventąjį karą prieš stabmeldžius, todėl
+    ir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.
+    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
+    nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
+    Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
@@ -2976,7 +3242,37 @@ media_all_json: |-
     pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
     važiavime, norėdamas neatidėliojant padaryti, ką su­
     važiavimas buvo nutaręs.
-  citata_rodoma: "Be\ngalo ryžtingas žmogus, jis\nnieko nedarė iš lėto, nepa­\nkęsdamas ir kitų delsimo;\ntiesą\nsakant,\nnegi\ngalima\nnesmerkti atidėliojimo, jei­\ngu rūpinamasi dievo gar­\nbinimo bei žmonių išganymo reikalais. Vytauto pa­\nkviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­\nkyrę naujuoju ganytoju Motiejų, lietuvį, teologijos\nmokslų magistrą, neseniai tapusį Vilniaus kanauninkų\nkolegijos vyresniuoju, spalio mėnesį deramai sutvarkė\npagal šventųjų įstatymų reikalavimus viską, ką ir turėjo\ni417 metai\nK o n sta n co s\ns u v a žia ­\nv im o  pasiuntiniai g a ­\nlutinai\nįsteigia\nŽ e ­\nm aičių v y s k u p y s tę\n305\n\n## Puslapis 394\n\nsutvarkyti kunigaikštystėje pagal bažnytinio suvažia­\nvimo nutarimą."
+  citata_rodoma: |
+    Be
+    galo ryžtingas žmogus, jis
+    nieko nedarė iš lėto, nepa­
+    kęsdamas ir kitų delsimo;
+    tiesą
+    sakant,
+    negi
+    galima
+    nesmerkti atidėliojimo, jei­
+    gu rūpinamasi dievo gar­
+    binimo bei žmonių išganymo reikalais. Vytauto pa­
+    kviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­
+    kyrę naujuoju ganytoju Motiejų, lietuvį, teologijos
+    mokslų magistrą, neseniai tapusį Vilniaus kanauninkų
+    kolegijos vyresniuoju, spalio mėnesį deramai sutvarkė
+    pagal šventųjų įstatymų reikalavimus viską, ką ir turėjo
+    i417 metai
+    K o n sta n co s
+    s u v a žia ­
+    v im o  pasiuntiniai g a ­
+    lutinai
+    įsteigia
+    Ž e ­
+    m aičių v y s k u p y s tę
+    305
+
+    ## Puslapis 394
+
+    sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
+    vimo nutarimą.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -3000,7 +3296,14 @@ media_all_json: |-
     teigiamai nušviesdamas jų darbus, Bychovco kronikos
     autorius reiškė savo valstybės feodalų klasės požiūrį
     'ir ideologiją.
-  citata_rodoma: "Tačiau iš viso Žemaitijos ir karų su kry­\nžiuočiais istorijai pažinti Bychovco kronika yra men­\nkas informatorius. Po 1441 m. Žemaitijos istorija visai \nnedomina Bychovco kronikos autoriaus. Tai rodo, kad \nsu Žemaitija jis betarpiškai nebuvo susijęs, bet, iš ki­\ntos pusės, Žemaitija tuo metu nebuvo ir kokių nors \nsvarbių ¡vykių, pvz., karų arena."
+  citata_rodoma: |
+    Tačiau iš viso Žemaitijos ir karų su kry­
+    žiuočiais istorijai pažinti Bychovco kronika yra men­
+    kas informatorius. Po 1441 m. Žemaitijos istorija visai
+    nedomina Bychovco kronikos autoriaus. Tai rodo, kad
+    su Žemaitija jis betarpiškai nebuvo susijęs, bet, iš ki­
+    tos pusės, Žemaitija tuo metu nebuvo ir kokių nors
+    svarbių ¡vykių, pvz., karų arena.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -3026,7 +3329,14 @@ media_all_json: |-
     Ni aldeju nietureju,
     Ni sparnas man niepadariu,
     Tik tej sztowe priraszite.
-  citata_rodoma: "Žemdirbiai garbino šią deivę kaip oro per­\nmainų valdovę; ypač valstietės maldaudavo jos, kad apgintų\npas Perkūną laukus nuo krušos, liūčių, griausmų. Žemaitijoje,\nkai kuriose vietose, iki šiol tebesimeldžia Perkūnaitėlei, tik savo\nmaldas kreipia į švenčiausiąją mergelę Mariją, kurią jie vadi­\nna Panna Marya Perkunatele arba Perkūnija. Net būta papro­\nčio vadinti švente Maloningosios Dievo motinos švente."
+  citata_rodoma: |
+    Žemdirbiai garbino šią deivę kaip oro per­
+    mainų valdovę; ypač valstietės maldaudavo jos, kad apgintų
+    pas Perkūną laukus nuo krušos, liūčių, griausmų. Žemaitijoje,
+    kai kuriose vietose, iki šiol tebesimeldžia Perkūnaitėlei, tik savo
+    maldas kreipia į švenčiausiąją mergelę Mariją, kurią jie vadi­
+    na Panna Marya Perkunatele arba Perkūnija. Net būta papro­
+    čio vadinti švente Maloningosios Dievo motinos švente.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3089,7 +3399,16 @@ media_all_json: |-
     gas obuolys, pasodintas tarp dviejų mažesnių. Šoninės plokš­
     tumos taisyklingai apibrėžtos, jose nedaug rutuliuko formos
     iškilumų. Žemai yra trys dideli rutuliukai, tarytum kojelės.
-  citata_rodoma: "Amerikos indėnai išsaugojo at­\nmintį apie akmenų garbinimą, nes jie, kaip sako vienas keliau­\nninkas, savo lopšiu yra artimesni žmonių padermei, tuo labiau -\ndaugiau prisirišę prie žemės ir prie būtybių, esančių jos įsčiose.\nNet pasikeitus apšvietai ir religijai, indėnai akmenis laikė talis­\nmanais'T 1583 metais jėzuitai, apaštalaudami Žemaitijoje, ap­\ntiko tam tikrų didelių akmenų garbinimo pėdsakus13 14. Yra pada­\nvimų ir pasakojimų apie panašius akmenis, garbinamus ir pas\nmus."
+  citata_rodoma: |
+    Amerikos indėnai išsaugojo at­
+    mintį apie akmenų garbinimą, nes jie, kaip sako vienas keliau­
+    ninkas, savo lopšiu yra artimesni žmonių padermei, tuo labiau -
+    daugiau prisirišę prie žemės ir prie būtybių, esančių jos įsčiose.
+    Net pasikeitus apšvietai ir religijai, indėnai akmenis laikė talis­
+    manais'T 1583 metais jėzuitai, apaštalaudami Žemaitijoje, ap­
+    tiko tam tikrų didelių akmenų garbinimo pėdsakus13 14. Yra pada­
+    vimų ir pasakojimų apie panašius akmenis, garbinamus ir pas
+    mus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3109,7 +3428,11 @@ media_all_json: |-
     Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
     tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
     stut, tai reiškia: Klastūnas - Fortelnik) - 1297 metais.
-  citata_rodoma: "Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­\ntis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o\nvaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­\ntauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą."
+  citata_rodoma: |
+    Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
+    tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
+    vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3183,7 +3506,11 @@ media_all_json: |-
     kančios upės, kurios susiliejusios sudaro Dalmatijos upę Naren-
     tą, arba Naroną, įtekančią į Adrijos jūrą ties Šventuoju Opusu
     (Opus).
-  citata_rodoma: "Šventų ežerų yra taip pat Nemuno kairiajame krante,\nkur ir miestelis [Šventežeris] turi tokį vardą.\n3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­\nkomas dievu."
+  citata_rodoma: |
+    Šventų ežerų yra taip pat Nemuno kairiajame krante,
+    kur ir miestelis [Šventežeris] turi tokį vardą.
+    3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­
+    komas dievu.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3223,7 +3550,11 @@ media_all_json: |-
     žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
     įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
     taip pat užmušdavo jų mylimiausius tarnus.
-  citata_rodoma: "Jucevičius pataiso Strijkovskį: „ Gegei-\nle, begaite!“, vietoje „ Ginkiet, Biekiet, Pikole!“, ir priduria, kad\nšiandien (Žemaitijoje?), kai tik žmogus ima merdėti, visi ten su­\nsirinkę garsiai kalba tą frazę."
+  citata_rodoma: |
+    Jucevičius pataiso Strijkovskį: „ Gegei-
+    le, begaite!“, vietoje „ Ginkiet, Biekiet, Pikole!“, ir priduria, kad
+    šiandien (Žemaitijoje?), kai tik žmogus ima merdėti, visi ten su­
+    sirinkę garsiai kalba tą frazę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3252,7 +3583,16 @@ media_all_json: |-
     jam - palikdama kartais kai ką iš daiktų, su kuriais velionis
     buvo palaidotas, arba ženklą, runą, hieroglifą ar įkirtimą gin­
     klu į vartus.
-  citata_rodoma: "Kam patinka, gali pasiimti, kas palikta. Sis\npaprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­\nrėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau\natitinkamame straipsnyje.\nApskritai mirusiųjų atminimo pagerbimas po šventės ar­\nba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­\nduodavo pavargėliams arba, kaip kitose provincijose, padėda­\nvo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­\nvargėliai."
+  citata_rodoma: |
+    Kam patinka, gali pasiimti, kas palikta. Sis
+    paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­
+    rėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau
+    atitinkamame straipsnyje.
+    Apskritai mirusiųjų atminimo pagerbimas po šventės ar­
+    ba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­
+    duodavo pavargėliams arba, kaip kitose provincijose, padėda­
+    vo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­
+    vargėliai.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3297,7 +3637,15 @@ media_all_json: |-
     pastebėjo kabantį maišelį. Vaikas, paklaustas, kas ten yra, at­
     sakė: „Mano dievas, kurį man davė motina“. Atrišus maišelį, jie
     išvydo dvi žalčio galvas.
-  citata_rodoma: "Net pasikeitus apšvietai ir religijai,\nindėnai akmenis laikė talismanais1. 1583 metais jėzuitai, apašta­\nlaudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo\npėdsakus2.\n1 Podrož\nHumboltą\ni\nBomplanda."
+  citata_rodoma: |
+    Net pasikeitus apšvietai ir religijai,
+    indėnai akmenis laikė talismanais1. 1583 metais jėzuitai, apašta­
+    laudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo
+    pėdsakus2.
+    1 Podrož
+    Humboltą
+    i
+    Bomplanda.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
@@ -3375,7 +3723,13 @@ media_all_json: |-
     Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
     ka, Upinė - Rzeczna. Istorija teigia, kad tai dievybei kaip auka
     buvo atnašaujami balti paršeliai.
-  citata_rodoma: "Iszskalbk man amzuliali.\nKitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­\nliose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai\nir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti\nreliginės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie\njuos dar teks pakalbėti)."
+  citata_rodoma: |
+    Iszskalbk man amzuliali.
+    Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
+    liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
+    ir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti
+    religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
+    juos dar teks pakalbėti).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
@@ -3398,7 +3752,15 @@ media_all_json: |-
     knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
     matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
     nių kapų.
-  citata_rodoma: "O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių."
+  citata_rodoma: |
+    O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

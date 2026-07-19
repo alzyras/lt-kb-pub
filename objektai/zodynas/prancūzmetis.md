@@ -75,7 +75,10 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
     Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-
     tėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-
     sai.
-  citata_rodoma: "Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-\ntėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-\nsai."
+  citata_rodoma: |
+    Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-
+    tėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-
+    sai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

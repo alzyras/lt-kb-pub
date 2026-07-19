@@ -89,7 +89,13 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
     kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis
     subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
     įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes.
-  citata_rodoma: "Apie vieną brolį\n\n   Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje\npuolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug\nnuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma\nmanęs: „Jėzau Kristau, dievo sūnau“."
+  citata_rodoma: |
+    Apie vieną brolį
+
+       Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje
+    puolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug
+    nuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma
+    manęs: „Jėzau Kristau, dievo sūnau“.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

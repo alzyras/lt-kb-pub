@@ -79,14 +79,21 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    121. Apie vieną stebuklą
+    Apie vieną stebuklą
 
       1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti
     į verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo
     nekaltas.
 
     122.
-  citata_rodoma: "121. Apie vieną stebuklą\n\n  1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti\nį verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo\nnekaltas.\n\n122."
+  citata_rodoma: |
+    Apie vieną stebuklą
+
+      1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti
+    į verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo
+    nekaltas.
+
+    122.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

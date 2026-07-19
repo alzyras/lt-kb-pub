@@ -171,7 +171,12 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
     Vernerio nužudymą 1330 m. (Papildymas, 20). Ji priėjo išvadą, kad Dusburgietis laisvai
     naudojosi Ordino archyvu, iš kurio netgi perėmęs popiežiaus kanceliarijos dokumentų
     stilių (iškilmingą, pilną biblinių aliuzijų ir pan.)124.
-  citata_rodoma: "M. Poliakuvna dar labiau praplėtė dokumentų skaičių; ji atkreipė dėmesį į Sventopelko\nir Ordino 1248 m. Kristburgo sutartį, Dusburgiečio, beje, panaudotą labai savavališkai (III,\n67), į dokumentus, turinčius ryšio su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla\nPrūsijoje (III, 33), surado naujų įrodymų, kad duomenys apie lietuvių niokojamus žygius\n1323 m."
+  citata_rodoma: |
+    M. Poliakuvna dar labiau praplėtė dokumentų skaičių; ji atkreipė dėmesį į Sventopelko
+    ir Ordino 1248 m. Kristburgo sutartį, Dusburgiečio, beje, panaudotą labai savavališkai (III,
+    67), į dokumentus, turinčius ryšio su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla
+    Prūsijoje (III, 33), surado naujų įrodymų, kad duomenys apie lietuvių niokojamus žygius
+    1323 m.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -191,7 +196,9 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
     Rudino. Jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir
     rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.
     36.
-  citata_rodoma: "269 1243 m. liepos mėn. Vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją\nį Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143)."
+  citata_rodoma: |
+    269 1243 m. liepos mėn. Vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją
+    į Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

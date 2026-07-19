@@ -236,7 +236,12 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
     suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
     džios.
-  citata_rodoma: "Tuomet, iš vienos pusės, turėdamas savo ka-\nriuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,\nnuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau\nsuvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-\ndžios."
+  citata_rodoma: |
+    Tuomet, iš vienos pusės, turėdamas savo ka-
+    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
+    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
+    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
+    džios.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

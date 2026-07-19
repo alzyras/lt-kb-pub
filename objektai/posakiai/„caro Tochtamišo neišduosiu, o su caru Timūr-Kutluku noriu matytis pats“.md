@@ -123,7 +123,19 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     Tochtamišą, jo priešą. O Vytautas atsakęs:
     „caro Tochtamišo neišduosiu, o su caru
     Timūr-Kutluku noriu matytis pats“.
-  citata_rodoma: "Greičiausiai Vytauto\niniciatyva per Maskvos didįjį kunigaikštį\nVasilijų Konstantinopolio patriarchas ra-\ngino Kijevo metropolitą Kiprijoną kviesti\ntikinčiuosius į karą prieš totorius.\nBesirengdamas žygiui į Sarajų, Aukso\nordos chanas Timūr-Kutlukas atsiuntė savo\npasiuntinius pas lietuvių didįjį kunigaikštį\nVytautą, kad išduotų jam pabėgusį „carą“\nTochtamišą, jo priešą. O Vytautas atsakęs:\n„caro Tochtamišo neišduosiu, o su caru\nTimūr-Kutluku noriu matytis pats“."
+  citata_rodoma: |
+    Greičiausiai Vytauto
+    iniciatyva per Maskvos didįjį kunigaikštį
+    Vasilijų Konstantinopolio patriarchas ra-
+    gino Kijevo metropolitą Kiprijoną kviesti
+    tikinčiuosius į karą prieš totorius.
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
+    Vytautą, kad išduotų jam pabėgusį „carą“
+    Tochtamišą, jo priešą. O Vytautas atsakęs:
+    „caro Tochtamišo neišduosiu, o su caru
+    Timūr-Kutluku noriu matytis pats“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -150,7 +162,19 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     visą birželį telkė karius (savo lietuvius,
     jam pavaldžių rusų kunigaikščių karius ir
     kitus) stovykloje prie Kijevo.
-  citata_rodoma: "Besirengdamas žygiui į Sarajų, Aukso\nordos chanas Timūr-Kutlukas atsiuntė savo\npasiuntinius pas lietuvių didįjį kunigaikštį\nVytautą, kad išduotų jam pabėgusį „carą“\nTochtamišą, jo priešą. O Vytautas atsakęs:\n„caro Tochtamišo neišduosiu, o su caru\nTimūr-Kutluku noriu matytis pats“.\nPagrindinė Vytauto kariuomenė iš\nVilniaus išvyko apie gegužės 18 d. Vytautas\nvisą birželį telkė karius (savo lietuvius,\njam pavaldžių rusų kunigaikščių karius ir\nkitus) stovykloje prie Kijevo."
+  citata_rodoma: |
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
+    Vytautą, kad išduotų jam pabėgusį „carą“
+    Tochtamišą, jo priešą. O Vytautas atsakęs:
+    „caro Tochtamišo neišduosiu, o su caru
+    Timūr-Kutluku noriu matytis pats“.
+    Pagrindinė Vytauto kariuomenė iš
+    Vilniaus išvyko apie gegužės 18 d. Vytautas
+    visą birželį telkė karius (savo lietuvius,
+    jam pavaldžių rusų kunigaikščių karius ir
+    kitus) stovykloje prie Kijevo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

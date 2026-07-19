@@ -68,7 +68,11 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
 
     A. Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl.,
     Roma^2 1975. 16 dol.
-  citata_rodoma: "Metraštis, VI tomas, spausdinama\n\nA. Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl.,\nRoma^2 1975. 16 dol."
+  citata_rodoma: |
+    Metraštis, VI tomas, spausdinama
+
+    A. Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl.,
+    Roma^2 1975. 16 dol.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

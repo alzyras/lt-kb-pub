@@ -96,7 +96,13 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
     statėsi bendrą pilį Georgenburgą — Jurbarką. Vis labiau artėdamos
     viena prie kitos, abi ordino šakos sudėjo lėšas ir drauge atliko Geor­
     genburgo statymo darbus^150.
-  citata_rodoma: "Livonijos ir\nPrūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą kartą\n1259 m. prie Mituvos ir Imsrės žiočių į Nemuną (Karšuvos srityje)\nstatėsi bendrą pilį Georgenburgą — Jurbarką. Vis labiau artėdamos\nviena prie kitos, abi ordino šakos sudėjo lėšas ir drauge atliko Geor­\ngenburgo statymo darbus^150."
+  citata_rodoma: |
+    Livonijos ir
+    Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą kartą
+    1259 m. prie Mituvos ir Imsrės žiočių į Nemuną (Karšuvos srityje)
+    statėsi bendrą pilį Georgenburgą — Jurbarką. Vis labiau artėdamos
+    viena prie kitos, abi ordino šakos sudėjo lėšas ir drauge atliko Geor­
+    genburgo statymo darbus^150.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

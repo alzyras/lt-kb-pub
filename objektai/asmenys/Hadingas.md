@@ -87,7 +87,13 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
     vo šeimininką, namiškius ir kaimynus. Reikėdavo jam tuoj pat
     užbėgti už akių, skubėti pas žymų žynį, kokį nors krivio arti­
     mą, arba pas patį Krivių Krivaitį.
-  citata_rodoma: "Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­\npu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­\nralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs\ndaug laivų, maldavo jo malonės juodosiomis aukomis, ką se­\nnovės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-\nriui, Balderis pakeitė ją žmonių auka (Eddy)."
+  citata_rodoma: |
+    Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
+    pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
+    ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
+    daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
+    novės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-
+    riui, Balderis pakeitė ją žmonių auka (Eddy).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

@@ -213,7 +213,10 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
     kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
     jampolėje „Žiburys".
-  citata_rodoma: "Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-\nkalams, būtent Vilniuje „Rytas\", Kaune „Saulė\" ir Mari-\njampolėje „Žiburys\"."
+  citata_rodoma: |
+    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
+    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
+    jampolėje „Žiburys".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

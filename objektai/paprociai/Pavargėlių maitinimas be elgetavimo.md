@@ -117,7 +117,13 @@ Nenurodyta
     valandų. Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
     ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,
     pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje.
-  citata_rodoma: "Pagal seną paprotį, kurį\nprūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną\nlaiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam\ntikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama\nelgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada\ntinkami."
+  citata_rodoma: |
+    Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama
+    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
+    tinkami.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -138,7 +144,13 @@ Nenurodyta
     pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą
     dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
     tesėti susitarimą.
-  citata_rodoma: "Dėl to žmoną\nlaiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam\ntikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama\nelgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada\ntinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik\ntada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213."
+  citata_rodoma: |
+    Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama
+    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
+    tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
+    tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

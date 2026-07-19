@@ -122,7 +122,20 @@ Nenurodyta
     žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus,
     išskyrus tris.
     276 (269).
-  citata_rodoma: "Apie 72 lietuvius, nukautus Notangoje\n\n  Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai\nįsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar\npagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo\nkomtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo\nžygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,\nišskyrus tris.\n\n\n\n\n        276 (269)."
+  citata_rodoma: |
+    Apie 72 lietuvius, nukautus Notangoje
+
+      Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai
+    įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar
+    pagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo
+    komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo
+    žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,
+    išskyrus tris.
+
+
+
+
+            276 (269).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

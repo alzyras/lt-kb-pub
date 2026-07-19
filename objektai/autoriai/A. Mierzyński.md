@@ -77,7 +77,13 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
     (”) _Plokštinių kapinynų tyrinėjimai Lietuvoje 1948-1958 m.,_ ILKI, t. 3,
     1961, 66-100 p. — Pisani, V.: _II paganesimo balto-slavo,_ Storia delle
     religioni, red. G. Castellani, vol.
-  citata_rodoma: "Mierzyński, A. : _Źródła do mytologii litewskiej,_ I-II, Warsza­\nwa 1892, 1896 (nuo Tacito iki 15-jo amž. šaltinių tekstai su kritiškais\nkomentarais). — (”) _O uadravskom žrece ognia Criwe,_ Trudy IX ar-\ncheologičeskogo sjazda, I, 1895. — (”) _Romove,_ ten pat, X sjazda,\n1899. — (”) _Der Eid des Keistutis im Jahre 1351,_ Sitzungsber. d.\nAltertumsgesell. Prussia, t. 16, 1893, 104-112 p."
+  citata_rodoma: |
+    Mierzyński, A. : _Źródła do mytologii litewskiej,_ I-II, Warsza­
+    wa 1892, 1896 (nuo Tacito iki 15-jo amž. šaltinių tekstai su kritiškais
+    komentarais). — (”) _O uadravskom žrece ognia Criwe,_ Trudy IX ar-
+    cheologičeskogo sjazda, I, 1895. — (”) _Romove,_ ten pat, X sjazda,
+    1899. — (”) _Der Eid des Keistutis im Jahre 1351,_ Sitzungsber. d.
+    Altertumsgesell. Prussia, t. 16, 1893, 104-112 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -94,7 +100,8 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
     (^8) **Laiško tekstą žr. H. Paszkiewicz :** **_Polityka Ruska Kazimierza Wiel­
     kiego,_** **Warszawa 1925, 197 p. 5 išn.**
     (^9) **SRP, II, 742.
-  citata_rodoma: "(^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**"
+  citata_rodoma: |
+    (^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

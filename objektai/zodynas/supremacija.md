@@ -100,7 +100,13 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
     supremacija paliekama lenkams. Ir jam mirus, kai nebuvo kam
     taip vikriai laviruoti tarp tų susipynusių santykių tinklo, Lie­
     tuva susilaukė nemaža bėdų.
-  citata_rodoma: "Svarbesniuose atsitikimuose jis darydavo naują\nunijos aktą, visai mažai tebūdamas, kad kiekvienam atvejy\nuniją darą kontragentai nestoja į lygią platformą ir visuomet\nsupremacija paliekama lenkams. Ir jam mirus, kai nebuvo kam\ntaip vikriai laviruoti tarp tų susipynusių santykių tinklo, Lie­\ntuva susilaukė nemaža bėdų."
+  citata_rodoma: |
+    Svarbesniuose atsitikimuose jis darydavo naują
+    unijos aktą, visai mažai tebūdamas, kad kiekvienam atvejy
+    uniją darą kontragentai nestoja į lygią platformą ir visuomet
+    supremacija paliekama lenkams. Ir jam mirus, kai nebuvo kam
+    taip vikriai laviruoti tarp tų susipynusių santykių tinklo, Lie­
+    tuva susilaukė nemaža bėdų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

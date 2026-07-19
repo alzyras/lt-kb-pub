@@ -117,7 +117,8 @@ Nenurodyta
     tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
     Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
     veiklą ir propagandą.
-  citata_rodoma: "Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę"
+  citata_rodoma: |
+    Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -153,7 +154,8 @@ Nenurodyta
     veiklą ir propagandą. Vakarų radijo stotims „Kronika“ tapo pagrindiniu
     medžiagos apie Lietuvą šaltiniu. Jau pirmame jos numeryje išspausdintas
     lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,
-  citata_rodoma: "lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,"
+  citata_rodoma: |
+    lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

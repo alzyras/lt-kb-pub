@@ -136,7 +136,16 @@ Nenurodyta
     ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
     veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
     palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
-  citata_rodoma: "Jį, paimtą  į nelaisvę,\natidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,\ntodėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę\npuotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,\nbe paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia\nmane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė\nSkomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau\ndaromas nuoskaudas, o aš tau padėsiu“. Šitai išgirdęs, brolis Liudvikas įsidrąsinęs\nkalaviju nukovė savo varžovą."
+  citata_rodoma: |
+    Jį, paimtą  į nelaisvę,
+    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
+    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
+    puotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,
+    be paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia
+    mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė
+    Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau
+    daromas nuoskaudas, o aš tau padėsiu“. Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
+    kalaviju nukovė savo varžovą.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -157,7 +166,15 @@ Nenurodyta
     ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
     veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
     palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
-  citata_rodoma: "Šitai išgirdęs, brolis Liudvikas įsidrąsinęs\nkalaviju nukovė savo varžovą. Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo\nSkomanto šeimynykštis [famulus] ir sugrąžino pas brolius.\n\n\n\n\n             211 (206)."
+  citata_rodoma: |
+    Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
+    kalaviju nukovė savo varžovą. Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
+    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
+
+
+
+
+                 211 (206).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

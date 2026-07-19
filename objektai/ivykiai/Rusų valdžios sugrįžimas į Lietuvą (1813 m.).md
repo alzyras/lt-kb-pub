@@ -77,7 +77,12 @@ Nenurodyta
     čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-
     bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
     atėmė dvarus.
-  citata_rodoma: "Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta\nsenoji Rusų valdžia. Kad ir buvo caro paskelbta amnestija, ta-\nčiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-\nbėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir\natėmė dvarus."
+  citata_rodoma: |
+    Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta
+    senoji Rusų valdžia. Kad ir buvo caro paskelbta amnestija, ta-
+    čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-
+    bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
+    atėmė dvarus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

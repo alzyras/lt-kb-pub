@@ -112,7 +112,9 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
     (^5) **K. Avižonis :** **_Vladimiras,_** **LE, t. 34, 438 p.**
     (^6) **Pvz., A. Juška :** **_Mindaugo krikštas,_** **Lux Christi 1951, 1 nr., 3-8 p. ;**
     **_Mindaugas ir Lietuvos krikštas,_** **Laiškai Lietuviams 1951, 2 nr., 18-20 p.**
-  citata_rodoma: "**\n(^5) **K. Avižonis :** **_Vladimiras,_** **LE, t. 34, 438 p."
+  citata_rodoma: |
+    **
+    (^5) **K. Avižonis :** **_Vladimiras,_** **LE, t. 34, 438 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

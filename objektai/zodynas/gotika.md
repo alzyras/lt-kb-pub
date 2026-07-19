@@ -91,7 +91,8 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
     veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos
     regionų gotikinio meno ypatumai, bene ryškiausiai matomi sakralinių
     pastatų architektūroje.
-  citata_rodoma: "veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos"
+  citata_rodoma: |
+    veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -110,7 +111,8 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
     Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas
     ir po jo pradėta įgyvendinti Vytauto mūrinių bažnyčių statybos programa
     (Vilniuje katedra, Šv.
-  citata_rodoma: "Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas"
+  citata_rodoma: |
+    Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

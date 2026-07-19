@@ -91,7 +91,19 @@ Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filoso
     maitijoje įsišaknijusį apeiginį dievų garbinimą. Ten jis buvo pa­
     stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
     bės įvedimo.
-  citata_rodoma: "Visa tai praverčia neži­\nnomo nelaimingojo vėlei nuraminti. Šis laužas, be abejo, gy­\nvuoja jau daug amžių, kadangi didelis dvaras, kadaise priklau­\n201 Horacijaus knyga, 28 odė, kurioje kalbama apie filosofo Ar­\nchilo šmėklą.\n367\n\n## Puslapis 367\n\nsęs Kauno miestui, labai seniai, dar prieš XV amžių, egzistuo­\njantis tuo pavadinimu, kaip rodo miesto aktų dokumentai, va-\ndinosiIžlauže; tai reiškia, nuo Kauno žiūrint,padėtas už laužo."
+  citata_rodoma: |
+    Visa tai praverčia neži­
+    nomo nelaimingojo vėlei nuraminti. Šis laužas, be abejo, gy­
+    vuoja jau daug amžių, kadangi didelis dvaras, kadaise priklau­
+    201 Horacijaus knyga, 28 odė, kurioje kalbama apie filosofo Ar­
+    chilo šmėklą.
+    367
+
+    ## Puslapis 367
+
+    sęs Kauno miestui, labai seniai, dar prieš XV amžių, egzistuo­
+    jantis tuo pavadinimu, kaip rodo miesto aktų dokumentai, va-
+    dinosiIžlauže; tai reiškia, nuo Kauno žiūrint,padėtas už laužo.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

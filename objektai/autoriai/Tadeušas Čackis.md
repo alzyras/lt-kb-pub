@@ -116,7 +116,12 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
     jau anksčiau matėme straipsnyje „Milda“, kad buvo tam tikra
     rūšis kerėtojų, arba meilės deivės žynių, vadintų mildaunin-
     kais, kurie padėdavo žmonėms meilės reikaluose.
-  citata_rodoma: "Senoji Palanga buvo išsidėsčiusi kalvos, va­\ndinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­\nlangos sunešė jūra, įrodo Čackis31 32. Vėlgi, kad švedai, rygiečių\nprašomi, 1701 metais visai užvertė Palangos uostą akmenimis\nir griuvenomis, liudija Zaluskis’2."
+  citata_rodoma: |
+    Senoji Palanga buvo išsidėsčiusi kalvos, va­
+    dinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­
+    langos sunešė jūra, įrodo Čackis31 32. Vėlgi, kad švedai, rygiečių
+    prašomi, 1701 metais visai užvertė Palangos uostą akmenimis
+    ir griuvenomis, liudija Zaluskis’2.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

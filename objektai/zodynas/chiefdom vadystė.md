@@ -126,7 +126,9 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
     brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
     tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
-  citata_rodoma: "Netimero valdžios paveldimumo principo buvimas rody-\ntų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją."
+  citata_rodoma: |
+    Netimero valdžios paveldimumo principo buvimas rody-
+    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

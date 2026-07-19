@@ -135,7 +135,15 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
     noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
     su kitomis brangenybėmis 1799 metais buvo rasta Toron-
     talo komitate, netoli Šv.
-  citata_rodoma: "Maždaug tuo metu, kai\nOvidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir\nDunojaus prie Juodosios jūros. Paskui pamažu, valdant\nimperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,\nužėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo\ntenykščius gyventojus slavus, užimdami daug jų miestų.\nVėliau jie prašė padėti kaimynines germanų tautas —■ vik-\nlofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1."
+  citata_rodoma: |
+    Maždaug tuo metu, kai
+    Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir
+    Dunojaus prie Juodosios jūros. Paskui pamažu, valdant
+    imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,
+    užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo
+    tenykščius gyventojus slavus, užimdami daug jų miestų.
+    Vėliau jie prašė padėti kaimynines germanų tautas —■ vik-
+    lofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

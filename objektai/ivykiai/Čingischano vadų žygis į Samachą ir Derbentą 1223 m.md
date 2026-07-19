@@ -104,7 +104,13 @@ Nenurodyta
     dai susitarė su gimininga poloviečių tauta, kad šie pa­
     liktų jiems svetimą alanų giminę1. Iš to įsitikiname, jog
     poloviečiai buvo hunų arba mongolų palikuonys.
-  citata_rodoma: "Staiga jie suvokė esą apsupti\npoloviečių ir alanų, šio krašto tautų: jiems tuomet pri­\nklausė šie miestai. Esant tokiai situacijai, apdairūs va­\ndai susitarė su gimininga poloviečių tauta, kad šie pa­\nliktų jiems svetimą alanų giminę1. Iš to įsitikiname, jog\npoloviečiai buvo hunų arba mongolų palikuonys."
+  citata_rodoma: |
+    Staiga jie suvokė esą apsupti
+    poloviečių ir alanų, šio krašto tautų: jiems tuomet pri­
+    klausė šie miestai. Esant tokiai situacijai, apdairūs va­
+    dai susitarė su gimininga poloviečių tauta, kad šie pa­
+    liktų jiems svetimą alanų giminę1. Iš to įsitikiname, jog
+    poloviečiai buvo hunų arba mongolų palikuonys.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

@@ -68,7 +68,11 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p.
     (^7) **PSRL, 11, 66. Plg. St. Smolka:** **_Kiejstut i Jagiełło_** **, 1889, 99p.**
     (^8) **SRP, II, 601; III, 115116 p.**
     (^9) **SRP, II, 116, 605, 610 p.**
-  citata_rodoma: ", po Mindaugo ir Gedimino mirties) buvo sutvarkomi be jokio\n\n(^7) **PSRL, 11, 66. Plg. St. Smolka:** **_Kiejstut i Jagiełło_** **, 1889, 99p.**\n(^8) **SRP, II, 601; III, 115116 p."
+  citata_rodoma: |
+    , po Mindaugo ir Gedimino mirties) buvo sutvarkomi be jokio
+
+    (^7) **PSRL, 11, 66. Plg. St. Smolka:** **_Kiejstut i Jagiełło_** **, 1889, 99p.**
+    (^8) **SRP, II, 601; III, 115116 p.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

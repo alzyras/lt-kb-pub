@@ -83,7 +83,11 @@ Nenurodyta
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
     Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
     žiemop (XI. 1) su Livonija sudarė prekybinę sutartį.
-  citata_rodoma: "Yra tikra tiek,\njog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per\nVeliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada\nžiemop (XI. 1) su Livonija sudarė prekybinę sutartį."
+  citata_rodoma: |
+    Yra tikra tiek,
+    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
+    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
+    žiemop (XI. 1) su Livonija sudarė prekybinę sutartį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

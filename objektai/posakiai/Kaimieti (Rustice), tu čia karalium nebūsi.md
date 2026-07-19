@@ -60,7 +60,10 @@ media_all_json: |-
     visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium
 
     nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
-  citata_rodoma: "visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium\n\nnebūsi“ ir liepė pilies kieme nukirsti jam galvą.“"
+  citata_rodoma: |
+    visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium
+
+    nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

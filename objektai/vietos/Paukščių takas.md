@@ -92,7 +92,16 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
     turi savo tikėjimo šalininkų; per tai susidarė padėtis, kad Lie­
     tuvoje mažai liko Rytų atskalos bažnyčių, neapkrėstų jų pa­
     klydimais.
-  citata_rodoma: "Betgi apie ją neturime smulkesnių žinių nei\nnežinome, kokią ją senovės lietuviai įsivaizdavo. Lieka tik\nspėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­\nniuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­\nrusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje,\nšiauriniame Paukščių tako gale; puotaudavo kartu su jais,\ngerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai,\njų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo\nlenkų ir rusinu priespaudos."
+  citata_rodoma: |
+    Betgi apie ją neturime smulkesnių žinių nei
+    nežinome, kokią ją senovės lietuviai įsivaizdavo. Lieka tik
+    spėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­
+    niuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­
+    rusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje,
+    šiauriniame Paukščių tako gale; puotaudavo kartu su jais,
+    gerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai,
+    jų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo
+    lenkų ir rusinu priespaudos.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

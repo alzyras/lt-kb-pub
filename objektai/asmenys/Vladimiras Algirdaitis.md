@@ -115,7 +115,11 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius
     valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
     Polocką.
-  citata_rodoma: "Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio\natėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius\nvalsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už\nPolocką."
+  citata_rodoma: |
+    Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio
+    atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius
+    valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
+    Polocką.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

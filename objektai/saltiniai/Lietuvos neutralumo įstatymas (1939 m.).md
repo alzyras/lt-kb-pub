@@ -76,7 +76,8 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
     Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
     tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
     liktą.
-  citata_rodoma: "Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus"
+  citata_rodoma: |
+    Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

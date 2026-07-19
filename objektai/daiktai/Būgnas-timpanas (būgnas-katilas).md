@@ -75,7 +75,9 @@ Nenurodyta
     p. 131, Husarų palašas. ATR, XVII-XVIII a., VDKM, Artūro Užgalio nuotr.
     p. 131, Būgnas-timpanas (būgnas-katilas), vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo
     bažnyčioje saugomų būgnų, Karolio Zikaro nuotr.
-  citata_rodoma: "p. 131, Būgnas-timpanas (būgnas-katilas), vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo\nbažnyčioje saugomų būgnų, Karolio Zikaro nuotr."
+  citata_rodoma: |
+    p. 131, Būgnas-timpanas (būgnas-katilas), vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo
+    bažnyčioje saugomų būgnų, Karolio Zikaro nuotr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

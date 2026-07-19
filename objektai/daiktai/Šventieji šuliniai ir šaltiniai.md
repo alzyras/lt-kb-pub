@@ -91,7 +91,14 @@ Nenurodyta
     jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
     giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
     davo karalių, ponų ir prastuomenės didžios pagarbos.
-  citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
+  citata_rodoma: |
+    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
+    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
+    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
+    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
+    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
+    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
+    šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

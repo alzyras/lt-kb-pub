@@ -66,7 +66,12 @@ media_all_json: |-
 
     ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
     lius Lietuvius!“
-  citata_rodoma: "Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-\nmenė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:\n\n~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-\nlius Lietuvius!“"
+  citata_rodoma: |
+    Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
+    menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
+
+    ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
+    lius Lietuvius!“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

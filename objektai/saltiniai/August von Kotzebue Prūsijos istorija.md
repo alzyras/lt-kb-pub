@@ -91,7 +91,12 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
     dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
     klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.
     Hennig, Łukasz Dawid, pratarmė, T. I, p.
-  citata_rodoma: "Be abejonės, \nanie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­\ndino piktadarystę\" atsidūrė kryžiuočių archyve. Šitai vėlei liu­\ndija, kokią vertę teturi Kotzebue, bent jau jo nuomonės, \nklasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr."
+  citata_rodoma: |
+    Be abejonės,
+    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
+    dino piktadarystę" atsidūrė kryžiuočių archyve. Šitai vėlei liu­
+    dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
+    klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

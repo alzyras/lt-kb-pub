@@ -59,7 +59,11 @@ Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Mo
     kelią ir išsiskleidę pasuko Motiejūnų link.
     Lietuviai sugulė greta kaimo esančio miš-
     kelio pakraštyje.
-  citata_rodoma: "T. Balno kariai pasiekė Motiejūnų-Giedraičių\nkelią ir išsiskleidę pasuko Motiejūnų link.\nLietuviai sugulė greta kaimo esančio miš-\nkelio pakraštyje."
+  citata_rodoma: |
+    T. Balno kariai pasiekė Motiejūnų-Giedraičių
+    kelią ir išsiskleidę pasuko Motiejūnų link.
+    Lietuviai sugulė greta kaimo esančio miš-
+    kelio pakraštyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

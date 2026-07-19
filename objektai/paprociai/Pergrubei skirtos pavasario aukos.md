@@ -121,7 +121,12 @@ Nenurodyta
     pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
     kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
     kais (Mildawnikas).
-  citata_rodoma: "Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama\npavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.\nTai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-\nvai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­\nkas panašaus, aišku, buvo ir Pergrubė."
+  citata_rodoma: |
+    Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
+    pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
+    Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
+    vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
+    kas panašaus, aišku, buvo ir Pergrubė.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

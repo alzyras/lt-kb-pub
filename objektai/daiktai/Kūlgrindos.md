@@ -96,7 +96,11 @@ Nenurodyta
     naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
     kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
     Lietuvoje tokių kelių liekanų.
-  citata_rodoma: "Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-\ntyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami\nkūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti\nLietuvoje tokių kelių liekanų."
+  citata_rodoma: |
+    Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-
+    tyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
+    kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
+    Lietuvoje tokių kelių liekanų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

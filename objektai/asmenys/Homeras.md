@@ -124,7 +124,20 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
     įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
-  citata_rodoma: "Būtent ši priežastis daro\nmus visiškai bejėgius spręsti apie tikrą reikšmę praėju­\nsių laikų, jei jie patys savęs nepaaiškina; kalbant kitais\nžodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­\nlosofiškai arba kritiškai, nes kritika — filosofijos šaka.\nNei Homero, nei Herodoto žemėlapiai, kurie niekad\nnebuvo tikslūs astronominiai-geografiniai, bet apskritai\nmitologiniai, kosmografiniai, genealoginiai ir istoriniai,\nnesutampa su mūsų žemėlapiais, kuriems būdingos tiks­\nlios matematinės projekcijos. Dėl to derėtų šia prasme\nįvertinti skirtumą ir išnagrinėti jo priežastis tam, kad\nišvengtume nesusipratimų, kurių tokiu atveju pasitaiko\ngana daug."
+  citata_rodoma: |
+    Būtent ši priežastis daro
+    mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­
+    sių laikų, jei jie patys savęs nepaaiškina; kalbant kitais
+    žodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­
+    losofiškai arba kritiškai, nes kritika — filosofijos šaka.
+    Nei Homero, nei Herodoto žemėlapiai, kurie niekad
+    nebuvo tikslūs astronominiai-geografiniai, bet apskritai
+    mitologiniai, kosmografiniai, genealoginiai ir istoriniai,
+    nesutampa su mūsų žemėlapiais, kuriems būdingos tiks­
+    lios matematinės projekcijos. Dėl to derėtų šia prasme
+    įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
+    išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
+    gana daug.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

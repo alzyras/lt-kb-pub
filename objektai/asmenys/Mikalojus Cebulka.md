@@ -62,7 +62,11 @@ Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo
     nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
-  citata_rodoma: "Vytautas kartu su karū­\nnos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,\nsekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui\nnepasitenkinimą^3 )."
+  citata_rodoma: |
+    Vytautas kartu su karū­
+    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
+    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
+    nepasitenkinimą^3 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

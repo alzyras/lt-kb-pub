@@ -64,7 +64,13 @@ media_all_json: |-
     rašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu
     turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuo-
     meniška pažvalga, o ne asmeniška".
-  citata_rodoma: "Vieną\nkartą Burba rašė: „P. Šliūpas savo asmeniškomis pažiūromis nėra\nkatalikas, bet jeigu jis, kaipo lietuvis, ką naudingo lietuvystei pa-\nrašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu\nturime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuo-\nmeniška pažvalga, o ne asmeniška\"."
+  citata_rodoma: |
+    Vieną
+    kartą Burba rašė: „P. Šliūpas savo asmeniškomis pažiūromis nėra
+    katalikas, bet jeigu jis, kaipo lietuvis, ką naudingo lietuvystei pa-
+    rašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu
+    turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuo-
+    meniška pažvalga, o ne asmeniška".
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

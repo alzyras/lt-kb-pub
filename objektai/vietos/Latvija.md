@@ -473,7 +473,10 @@ media_all_json: |-
     tas – žemė. Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje
     buvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto
     vidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha).
-  citata_rodoma: "Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje \nbuvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto \nvidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha)."
+  citata_rodoma: |
+    Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje
+    buvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto
+    vidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -496,7 +499,11 @@ media_all_json: |-
     tija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo
     į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus
     regioninio darinio su Lenkija priešakyje.
-  citata_rodoma: "Kairės demokratija ir  \n1926 metų gruodžio perversmas\nNepaisant geografinio artumo, istorijos bendrumo, etninės \ngiminystės (tarp latvių ir lietuvių) ryšiai su Latvija ir Estija nesiplėtojo."
+  citata_rodoma: |
+    Kairės demokratija ir
+    1926 metų gruodžio perversmas
+    Nepaisant geografinio artumo, istorijos bendrumo, etninės
+    giminystės (tarp latvių ir lietuvių) ryšiai su Latvija ir Estija nesiplėtojo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -559,7 +566,14 @@ media_all_json: |-
     ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
     langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
     užbaigė gyvenimą.
-  citata_rodoma: "Šios deivės yra tikra antikinių hamadriadžių kopija.\nPrietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,\ndabar raganomis vadina tam tikras kerėtojas, galinčias pasi­\nversti katėmis bei šarkomis ir skraidančias raitomis ant ožio.\nPavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio\nbalsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio\nir kankinanti jį savo pentinais, todėl tas bliaunąs."
+  citata_rodoma: |
+    Šios deivės yra tikra antikinių hamadriadžių kopija.
+    Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
+    dabar raganomis vadina tam tikras kerėtojas, galinčias pasi­
+    versti katėmis bei šarkomis ir skraidančias raitomis ant ožio.
+    Pavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio
+    balsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio
+    ir kankinanti jį savo pentinais, todėl tas bliaunąs.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

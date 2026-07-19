@@ -95,7 +95,19 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
     Plikojo kalno pusėje patrankų sviediniais apgriovus
     Aukštutinės pilies sieną, puolėjams nelyginant atsivėrė
     platus kelias.
-  citata_rodoma: "Vytautas manė, jog patirto pralai­\nmėjimo palaužti pilėnai lengvai pasiduos, todėl, apsu­\npęs iš visų pusių, jis toliau puolė, ypač dėl to, kad\nPlikojo kalno pusėje patrankų sviediniais apgriovus\nAukštutinės pilies sieną, puolėjams nelyginant atsivėrė\nplatus kelias. Vis dėlto nors seko gynėjų gretos, nema­\nžėjo nei jų narsumas, nei atkaklumas; visas priešo pas­\ntangas Moskožovskis ryžtingai vertė niekais. Plyšius\nsienose gynėjai kamšė gyvulių odomis ar žvyro mai­\nšais, norėdami laikinai jas paslėpti nuo priešo akių; tuo\npat metu, be galo greitai sunešę žemių bei kitokios me­\ndžiagos, stengėsi jas užtaisyti."
+  citata_rodoma: |
+    Vytautas manė, jog patirto pralai­
+    mėjimo palaužti pilėnai lengvai pasiduos, todėl, apsu­
+    pęs iš visų pusių, jis toliau puolė, ypač dėl to, kad
+    Plikojo kalno pusėje patrankų sviediniais apgriovus
+    Aukštutinės pilies sieną, puolėjams nelyginant atsivėrė
+    platus kelias. Vis dėlto nors seko gynėjų gretos, nema­
+    žėjo nei jų narsumas, nei atkaklumas; visas priešo pas­
+    tangas Moskožovskis ryžtingai vertė niekais. Plyšius
+    sienose gynėjai kamšė gyvulių odomis ar žvyro mai­
+    šais, norėdami laikinai jas paslėpti nuo priešo akių; tuo
+    pat metu, be galo greitai sunešę žemių bei kitokios me­
+    džiagos, stengėsi jas užtaisyti.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas

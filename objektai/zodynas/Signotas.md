@@ -78,7 +78,10 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
     kystės, ir dėl baisių savo keršto padarinių. Poklius viešai pasi­
     rodydavo namuose; tai būdavo tikra dievų rūstybės, būsimų
     namų bei gyventojų vargų ir nelaimių pranašystė.
-  citata_rodoma: "Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­\nvo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,\nstraipsnyje „Žyniai“."
+  citata_rodoma: |
+    Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­
+    vo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,
+    straipsnyje „Žyniai“.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas

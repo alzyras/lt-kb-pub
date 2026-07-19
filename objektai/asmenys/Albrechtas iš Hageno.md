@@ -165,7 +165,12 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo.
-  citata_rodoma: "Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo\nir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais\nkaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į\nnelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,\nbet taip pat nieko nepešė, nes jos vedliai pasiklydo."
+  citata_rodoma: |
+    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
+    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
+    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
+    nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
+    bet taip pat nieko nepešė, nes jos vedliai pasiklydo.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -191,7 +196,16 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     pasirengę kovai, narsiai užpuolė tuos, kurie buvo po vėliava; abiem šalims netekus
     daugybės [karių] užmuštaisiais, galop jie nukovė brolį Henriką, maršalą, 29 brolius bei
     daugybę paprastų žmonių.
-  citata_rodoma: "Apie vieną įvykį 1317 metais\n\n  Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno\nšuoliais leidosi  į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai\njis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei\nsavo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų\nir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,\npavedė save dievo bei švenčiausiosios mergelės globai  ir tuo pat keliu, kuriuo buvo\natvykęs, patraukė  į Ragainę."
+  citata_rodoma: |
+    Apie vieną įvykį 1317 metais
+
+      Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno
+    šuoliais leidosi  į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai
+    jis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei
+    savo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų
+    ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
+    pavedė save dievo bei švenčiausiosios mergelės globai  ir tuo pat keliu, kuriuo buvo
+    atvykęs, patraukė  į Ragainę.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
@@ -217,7 +231,12 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
     Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
     ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.
-  citata_rodoma: "Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai\npriėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis\nKonradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;\nužvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems\npavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių."
+  citata_rodoma: |
+    Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
+    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
+    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
+    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
+    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

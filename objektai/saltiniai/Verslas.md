@@ -59,7 +59,8 @@ Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
     žurnalistų, 32 dirbo prekyboje, 23 proc. pramonėje ir amatuose. Ketvir-
     tajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
     verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
-  citata_rodoma: "verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“."
+  citata_rodoma: |
+    verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

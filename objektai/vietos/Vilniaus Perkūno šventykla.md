@@ -150,14 +150,21 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
-    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
-    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
-    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
-    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
-    dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
-    kažkokį triukšmą ir lyg žalčių šnypštimą.
-  citata_rodoma: "Gyvatė (Giwojte)\nNuodingas šliužas. Šios rūšies būtybės buvo traktuojamos\nkaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.\nStrijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­\nno šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,\nkurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­\nriumi."
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
+  citata_rodoma: |
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
